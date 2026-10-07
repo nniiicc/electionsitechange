@@ -1,34 +1,17 @@
-- Recent Tweets Tweets by sbpres
-- Events
-- Recent Posts
-- Archives
-- Categories
-- Meta
-Monthly Archives: October 2018
-Bills submitted on education
-The Committee to Study Education Funding report did come out and resulted legislation.
+scottaburns Running for State Representataive Skip to content Home About Contact Donate Endorsements Events Moving Forward Organizations Monthly Archives: October 2018 Bills submitted on education Posted on October 29, 2018 by Scott Burns for State Representative The Committee to Study Education Funding report did come out and resulted legislation.
 Bill has been submitted but language is not viewed yet LSR 2019-0126.
 Calculation of stabilization grants which I hope is addressing the increase of per pupil.
-The … Continue reading
-Grange member support
-Tuesday, October 23, 2018 I am very pleased to offer my support for the following candidates in Merrimack County: State Rep.
+The … Continue reading → Posted in Uncategorized | Leave a comment Grange member support Posted on October 23, 2018 by Scott Burns for State Representative Tuesday, October 23, 2018 I am very pleased to offer my support for the following candidates in Merrimack County: State Rep.
 Howard Pearl of Loudon deserves your support.
 He is a very hard-working farmer and knows agriculture very well.
-When … Continue reading
-Stop Downshifting
-Submitted to Concord Monitor and Laconia Sun Daily Hi, my name is Scott Burns and I am a running for State Representative for Franklin Ward 1 and 2 and town of Hill.
+When … Continue reading → Posted in Uncategorized | Leave a comment Stop Downshifting Posted on October 23, 2018 by Scott Burns for State Representative Submitted to Concord Monitor and Laconia Sun Daily Hi, my name is Scott Burns and I am a running for State Representative for Franklin Ward 1 and 2 and town of Hill.
 I am focusing on education funding.
-The downshifting … Continue reading
-Congressman John Delaney Endorsement
-Delaney Endorses Molly Kelly, Annie Kuster, Chris Pappas and 27 State Candidates in New Hampshire PRESS RELEASE October 12, 2018 by Team Delaney Delaney Endorses Molly Kelly, Annie Kuster, Chris Pappas and 27 State Candidates in New Hampshire WASHINGTON– Congressman John K.
-Delaney … Continue reading
-Recommended by the NH NEA
-Once again I have been recommended by the NH NEA.
-Family and Medical Leave Insurance
-Today, I visited a Family Friendly Economy Candidate Forum.
+The downshifting … Continue reading → Posted in Uncategorized | Leave a comment Congressman John Delaney Endorsement Posted on October 13, 2018 by Scott Burns for State Representative Delaney Endorses Molly Kelly, Annie Kuster, Chris Pappas and 27 State Candidates in New Hampshire PRESS RELEASE October 12, 2018 by Team Delaney Delaney Endorses Molly Kelly, Annie Kuster, Chris Pappas and 27 State Candidates in New Hampshire WASHINGTON– Congressman John K.
+Delaney … Continue reading → Posted in Uncategorized | Leave a comment Recommended by the NH NEA Posted on October 12, 2018 by Scott Burns for State Representative Once again I have been recommended by the NH NEA.
+Posted in Uncategorized | Leave a comment Family and Medical Leave Insurance Posted on October 11, 2018 by Scott Burns for State Representative Today, I visited a Family Friendly Economy Candidate Forum.
 Main issue was family and medical leave insurance.
-Some employers allow to build PTO for this purpose or have a general leave of absence with limits to cover a short time … Continue reading
-NH Sierra Club Endorsement
-Today, my campaign was endorsed by NH Sierra Club.
+Some employers allow to build PTO for this purpose or have a general leave of absence with limits to cover a short time … Continue reading → Posted in Uncategorized | Leave a comment NH Sierra Club Endorsement Posted on October 9, 2018 by Scott Burns for State Representative Today, my campaign was endorsed by NH Sierra Club.
 Keeping clean water and air is not the only issues to improve upon but creating ways to reducing our waste stream by creating extending producer responsibility initiatives and composting.
-Also creating … Continue reading
+Also creating … Continue reading → Posted in Uncategorized | Leave a comment Recent Tweets Tweets by sbpres Events October 2018 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Sep Nov » Search for: Recent Posts (no title) I am Running Moving Forward In new lawsuit, 3 taxpayers argue N.H. school funding remains unfair Council approves provider contract for paid leave program amid some skepticism from Republicans Archives October 2026 June 2026 May 2026 June 2022 November 2020 October 2020 September 2020 August 2020 February 2020 November 2018 October 2018 September 2018 August 2018 March 2018 June 2016 April 2016 December 2015 November 2015 August 2015 July 2015 June 2015 April 2015 March 2015 January 2015 December 2014 November 2014 October 2014 September 2014 April 2014 March 2014 December 2013 November 2013 August 2013 July 2013 January 2013 December 2012 November 2012 October 2012 September 2012 June 2012 May 2012 Categories Uncategorized Meta Create account Log in Entries feed Comments feed WordPress.com scottaburns Blog at WordPress.com.
+Subscribe Subscribed scottaburns Sign me up Have a WordPress.com account?
+Log in now. scottaburns View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started

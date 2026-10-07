@@ -1,7 +1,9 @@
 {
  "description": "Explore the Max for Congress videos to witness the anti-socialism message through engaging political campaign videos.",
  "final_url": "https://maxforcongress.com/videos",
- "paid_for_by": null,
+ "fingerprint": "ebb05d6f16722b7458a2871de351be59b58a65cd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Videos",
  "years_mentioned": []
 }

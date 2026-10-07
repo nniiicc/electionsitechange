@@ -1,13 +1,86 @@
 [
-"https://electesther.com/",
-"https://electesther.com/about-esther",
-"https://electesther.com/advocating-for-you",
-"https://electesther.com/contact",
-"https://electesther.com/donate",
-"https://electesther.com/get-involved",
-"https://electesther.com/news-press",
-"https://electesther.com/priorities",
-"https://electesther.com/protecting-families",
-"https://electesther.com/supporting-public-education",
-"https://facebook.com/EstherHeltonD30"
+{
+"text": "About Esther",
+"href": "https://electesther.com/about-esther/"
+},
+{
+"text": "Advocating For You",
+"href": "https://electesther.com/advocating-for-you/"
+},
+{
+"text": "Contact",
+"href": "https://electesther.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electesther.com/donate/"
+},
+{
+"text": "Email: info@electesther.com",
+"href": "mailto:info@electesther.com?subject=Contact"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/EstherHeltonD30/"
+},
+{
+"text": "Get Involved",
+"href": "https://electesther.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://electesther.com/"
+},
+{
+"text": "News",
+"href": "https://electesther.com/news-press/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Phone: (423) 529-0084",
+"href": "tel:(423)%20529-0084"
+},
+{
+"text": "Priorities",
+"href": "https://electesther.com/priorities/"
+},
+{
+"text": "Protecting Families",
+"href": "https://electesther.com/protecting-families/"
+},
+{
+"text": "Read More",
+"href": "https://electesther.com/advocating-for-you/"
+},
+{
+"text": "Read More",
+"href": "https://electesther.com/protecting-families/"
+},
+{
+"text": "Read More",
+"href": "https://electesther.com/supporting-public-education/"
+},
+{
+"text": "Supporting Public Education",
+"href": "https://electesther.com/supporting-public-education/"
+},
+{
+"text": "[image: Family consisting of a man a woman and a baby]",
+"href": "https://electesther.com/protecting-families/"
+},
+{
+"text": "[image: photo of Esther Helton]",
+"href": "https://electesther.com/advocating-for-you/"
+},
+{
+"text": "[image: public school classroom]",
+"href": "https://electesther.com/supporting-public-education/"
+},
+{
+"text": "[image]",
+"href": "https://electesther.com"
+}
 ]

@@ -1,14 +1,19 @@
-Rep.
-Herring’s Priorities
-Fighting for the Future Georgia Families Deserve.
-Every family deserves safe neighborhoods, great public schools, affordable health care and the opportunity to build a better future.
+0 Skip to Content Meet Tangie Tangie's Wins Priorities Contact Donate Open Menu Close Menu Meet Tangie Tangie's Wins Priorities Contact Donate Open Menu Close Menu Meet Tangie Tangie's Wins Priorities Contact Donate Rep.
+Herring’s Priorities Fighting for the Future Georgia Families Deserve.
+Every family deserves safe neighborhoods, great public schools, affordable health care and the opportunity to build a better future .
 As your State Representative, Tangie Herring is focused on practical solutions that strengthen communities, expand opportunity and improve everyday life for the people of Middle Georgia.
 These are the priorities guiding her work under the Gold Dome every day.
-- Safe Communities Support law enforcement, hold violent offenders accountable and invest in proven community-based violence prevention.
+Safe Communities Support law enforcement, hold violent offenders accountable and invest in proven community-based violence prevention.
 Expand youth mental health resources, strengthen early intervention and build partnerships between law enforcement and mental health professionals.
-- Strong Public Schools Listen to teachers and parents, reduce class sizes and prioritize school safety.
+Strong Public Schools Listen to teachers and parents, reduce class sizes and prioritize school safety.
 Ensure every child has access to a high-quality education and the opportunity to succeed.
-- Lowering the Cost of Living Work to lower the cost of housing, health care, utilities and other everyday necessities while expanding affordable housing options, protecting taxpayers and helping seniors remain in their homes.
-- Affordable Health Care Expand Medicaid and invest in prenatal, maternal and rural health care so more Georgians can receive the care they need.
-- Jobs & Economic Opportunity Support small businesses and local farmers while expanding workforce development, technical education and pathways to good-paying careers.
-- Protect Voting Rights Protect early and absentee voting and ensure fair legislative districts in which voters choose their representatives—not the other way around.
+Lowering the Cost of Living Work to lower the cost of housing, health care, utilities and other everyday necessities while expanding affordable housing options, protecting taxpayers and helping seniors remain in their homes.
+Affordable Health Care Expand Medicaid and invest in prenatal, maternal and rural health care so more Georgians can receive the care they need.
+Jobs & Economic Opportunity Support small businesses and local farmers while expanding workforce development, technical education and pathways to good-paying careers.
+Protect Voting Rights Protect early and absentee voting and ensure fair legislative districts in which voters choose their representatives—not the other way around.
+Help Keep Tangie Fighting for HD 145 Rep.
+Herring is running for re-election because there's more work to do.
+From strengthening public education and supporting small businesses to expanding opportunity and protecting Georgia families, she's committed to delivering results that matter.
+Your contribution helps us reach more voters, grow our grassroots campaign and keep experienced leadership working for House District 145. $25 $50 $100 $250 $500 Other Amount Join Team Tangie Be part of the campaign.
+Sign up to volunteer, request a yard sign, receive campaign updates or learn how you can support Tangie's re-election.
+H‍ome ‍ Meet Tangie ‍‍ Priorities ‍ Accomplishments ‍Media Donate Donate By Mail Tangie for Georgia 871 Lee Road, Suite B Macon, GA 31204 Privacy Policy ‍ Terms of Use Paid for by Tangie for Georgia, LLC

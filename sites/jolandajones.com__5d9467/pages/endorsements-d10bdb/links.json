@@ -1,11 +1,50 @@
 [
-"https://facebook.com/JolandaJonesForTexas",
-"https://instagram.com/jolandajones?hl=en",
-"https://jolandajones.com/",
-"https://jolandajones.com/endorsements",
-"https://jolandajones.com/issues",
-"https://linkedin.com/in/jolanda-jones-2529902a",
-"https://secure.actblue.com/donate/electjolanda",
-"https://secure.actblue.com/donate/jolanda-jones-1",
-"https://twitter.com/jonesjolanda"
+{
+"text": "Campaign@JolandaJones.com",
+"href": "mailto:Campaign@JolandaJones.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/electjolanda"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jolanda-jones-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.jolandajones.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.jolandajones.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.jolandajones.com/issues"
+},
+{
+"text": "MEET JOLANDA",
+"href": "https://www.jolandajones.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JolandaJonesForTexas"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jolandajones/?hl=en"
+},
+{
+"text": "[image: Jolanda Jones Logo]",
+"href": "https://www.jolandajones.com"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/jolanda-jones-2529902a/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/jonesjolanda"
+}
 ]

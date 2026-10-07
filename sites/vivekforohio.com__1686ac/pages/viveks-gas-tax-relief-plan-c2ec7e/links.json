@@ -1,43 +1,190 @@
 [
-"https://archives.obm.ohio.gov/Files//Budget_and_Planning/Monthly_Financial_Report/2026-09-mfr.pdf",
-"https://codes.ohio.gov/ohio-constitution/section-2.1d",
-"https://codes.ohio.gov/ohio-constitution/section-3.2",
-"https://codes.ohio.gov/ohio-constitution/section-3.8",
-"https://codes.ohio.gov/ohio-revised-code/section-131.43",
-"https://codes.ohio.gov/ohio-revised-code/section-131.44",
-"https://codes.ohio.gov/ohio-revised-code/section-5728.06",
-"https://codes.ohio.gov/ohio-revised-code/section-5735.05",
-"https://codes.ohio.gov/ohio-revised-code/section-5735.14",
-"https://dam.assets.ohio.gov/image/upload/transportation.ohio.gov/finance/annual-report/FY25.pdf",
-"https://facebook.com/VivekGRamaswamy",
-"https://fred.stlouisfed.org/series/OHFUELTAX",
-"https://gasprices.aaa.com/?state=OH",
-"https://instagram.com/vivekgramaswamy",
-"https://ohiocpa.com/for-the-public/news/2026/07/10/ohio-wraps-up-fy-2026-with-strong-surplus-revenues",
-"https://ohiohouse.gov/members/brian-stewart/news/ohio-house-delivers-nearly-700-million-of-direct-property-and-sales-tax-relief-to-ohioans-145724",
-"https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/committees/cmte_h_trans_1/meetings/cmte_h_trans_1_2025-02-04-0330_17/submissions/odotrequest.pdf",
-"https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb850/00_IN/pdf",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_viveks-gas-tax-relief-plan_donate-popup",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_viveks-gas-tax-relief-plan_footer",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_viveks-gas-tax-relief-plan_navbar",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_viveks-gas-tax-relief-plan_navbar-mobile",
-"https://vivekforohio.com/",
-"https://vivekforohio.com/contact-us",
-"https://vivekforohio.com/donate-using-crypto",
-"https://vivekforohio.com/endorsements",
-"https://vivekforohio.com/events",
-"https://vivekforohio.com/get-involved",
-"https://vivekforohio.com/latest-news",
-"https://vivekforohio.com/media-kit",
-"https://vivekforohio.com/meet-rob",
-"https://vivekforohio.com/meet-vivek",
-"https://vivekforohio.com/press-releases",
-"https://vivekforohio.com/privacy",
-"https://vivekforohio.com/store",
-"https://vivekforohio.com/terms",
-"https://vivekforohio.com/the-plan",
-"https://vivekforohio.com/war-room",
-"https://wsj.com/opinion/an-easy-way-to-defeat-medicaid-fraud-53019d8a",
-"https://x.com/VivekGRamaswamy",
-"https://youtube.com/@VivekGRamaswamy"
+{
+"text": "131.44",
+"href": "https://codes.ohio.gov/ohio-revised-code/section-131.44"
+},
+{
+"text": "AAA Ohio prices (September 21)",
+"href": "https://gasprices.aaa.com/?state=OH"
+},
+{
+"text": "Census via FRED, OHFUELTAX",
+"href": "https://fred.stlouisfed.org/series/OHFUELTAX"
+},
+{
+"text": "Contact Us",
+"href": "https://vivekforohio.com/contact-us/"
+},
+{
+"text": "Credit Card",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_viveks-gas-tax-relief-plan_donate-popup"
+},
+{
+"text": "Crypto",
+"href": "https://vivekforohio.com/donate-using-crypto/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_viveks-gas-tax-relief-plan_footer"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_viveks-gas-tax-relief-plan_navbar"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_viveks-gas-tax-relief-plan_navbar-mobile"
+},
+{
+"text": "Donate Using Crypto",
+"href": "https://vivekforohio.com/donate-using-crypto/"
+},
+{
+"text": "Endorsements",
+"href": "https://vivekforohio.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://vivekforohio.com/events/"
+},
+{
+"text": "FY 2026–27 budget request, p. 60",
+"href": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/committees/cmte_h_trans_1/meetings/cmte_h_trans_1_2025-02-04-0330_17/submissions/odotrequest.pdf"
+},
+{
+"text": "Get Involved",
+"href": "https://vivekforohio.com/get-involved/"
+},
+{
+"text": "H.B. 850",
+"href": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb850/00_IN/pdf/"
+},
+{
+"text": "HERE",
+"href": "https://vivekforohio.com/privacy/"
+},
+{
+"text": "HERE",
+"href": "https://vivekforohio.com/terms/"
+},
+{
+"text": "Home",
+"href": "https://vivekforohio.com/"
+},
+{
+"text": "III §2",
+"href": "https://codes.ohio.gov/ohio-constitution/section-3.2"
+},
+{
+"text": "III §8",
+"href": "https://codes.ohio.gov/ohio-constitution/section-3.8"
+},
+{
+"text": "Latest News",
+"href": "https://vivekforohio.com/latest-news/"
+},
+{
+"text": "Media Kit",
+"href": "https://vivekforohio.com/media-kit/"
+},
+{
+"text": "Meet Rob",
+"href": "https://vivekforohio.com/meet-rob/"
+},
+{
+"text": "Meet Vivek",
+"href": "https://vivekforohio.com/meet-vivek/"
+},
+{
+"text": "OBM September 2026 Monthly report",
+"href": "https://archives.obm.ohio.gov/Files//Budget_and_Planning/Monthly_Financial_Report/2026-09-mfr.pdf#page=38"
+},
+{
+"text": "ODOT FY 2025 financial report, p. 6",
+"href": "https://dam.assets.ohio.gov/image/upload/transportation.ohio.gov/finance/annual-report/FY25.pdf"
+},
+{
+"text": "Ohio Constitution II §1d",
+"href": "https://codes.ohio.gov/ohio-constitution/section-2.1d"
+},
+{
+"text": "Ohio House",
+"href": "https://ohiohouse.gov/members/brian-stewart/news/ohio-house-delivers-nearly-700-million-of-direct-property-and-sales-tax-relief-to-ohioans-145724"
+},
+{
+"text": "Ohio Society of CPAs",
+"href": "https://ohiocpa.com/for-the-public/news/2026/07/10/ohio-wraps-up-fy-2026-with-strong-surplus-revenues"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:press@vivekforohio.com"
+},
+{
+"text": "Press Releases",
+"href": "https://vivekforohio.com/press-releases/"
+},
+{
+"text": "R.C. 131.43",
+"href": "https://codes.ohio.gov/ohio-revised-code/section-131.43"
+},
+{
+"text": "R.C. 5728.06",
+"href": "https://codes.ohio.gov/ohio-revised-code/section-5728.06"
+},
+{
+"text": "R.C. 5735.05",
+"href": "https://codes.ohio.gov/ohio-revised-code/section-5735.05"
+},
+{
+"text": "R.C. 5735.14",
+"href": "https://codes.ohio.gov/ohio-revised-code/section-5735.14"
+},
+{
+"text": "Ramaswamy, An Easy Way to Defeat Medicaid Fraud, WSJ",
+"href": "https://www.wsj.com/opinion/an-easy-way-to-defeat-medicaid-fraud-53019d8a"
+},
+{
+"text": "Team Store",
+"href": "https://vivekforohio.com/store/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://vivekforohio.com/terms/"
+},
+{
+"text": "The Plan",
+"href": "https://vivekforohio.com/the-plan/"
+},
+{
+"text": "War Room",
+"href": "https://vivekforohio.com/war-room/"
+},
+{
+"text": "[image: Governor]",
+"href": "https://vivekforohio.com"
+},
+{
+"text": "[image: Vivek for Ohio]",
+"href": "https://vivekforohio.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VivekGRamaswamy"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vivekgramaswamy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@VivekGRamaswamy"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VivekGRamaswamy"
+},
+{
+"text": "privacy policy",
+"href": "https://vivekforohio.com/privacy/"
+}
 ]

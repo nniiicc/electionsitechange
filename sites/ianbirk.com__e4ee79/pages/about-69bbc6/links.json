@@ -1,20 +1,74 @@
 [
-"https://ianbirk.com/",
-"https://ianbirk.com/about",
-"https://ianbirk.com/about/baseball-game",
-"https://ianbirk.com/about/big-lap-puppy",
-"https://ianbirk.com/about/christmas",
-"https://ianbirk.com/about/cypress-island-san-juans",
-"https://ianbirk.com/about/dog-and-cat-got-along",
-"https://ianbirk.com/about/finishing-seattle-to-portland",
-"https://ianbirk.com/about/img_9436-copy",
-"https://ianbirk.com/about/mt-haleakala",
-"https://ianbirk.com/about/new-kitten",
-"https://ianbirk.com/about/north-cascades-hwy",
-"https://ianbirk.com/endorse",
-"https://ianbirk.com/endorsements",
-"https://ianbirk.com/get-involved",
-"https://ianbirk.com/news",
-"https://ianbirk.com/values",
-"https://secure.ngpvan.com/IEj2ynH1NkKrGLmB629NQQ2"
+{
+"text": "About Judge Birk",
+"href": "https://ianbirk.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/IEj2ynH1NkKrGLmB629NQQ2"
+},
+{
+"text": "Endorse",
+"href": "https://ianbirk.com/endorse/"
+},
+{
+"text": "Endorsements",
+"href": "https://ianbirk.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://ianbirk.com/get-involved/"
+},
+{
+"text": "News",
+"href": "https://ianbirk.com/news/"
+},
+{
+"text": "Values",
+"href": "https://ianbirk.com/values/"
+},
+{
+"text": "[image: Baseball Game]",
+"href": "https://ianbirk.com/about/baseball-game/"
+},
+{
+"text": "[image: Big Lap Puppy]",
+"href": "https://ianbirk.com/about/big-lap-puppy/"
+},
+{
+"text": "[image: Cypress Island San Juans]",
+"href": "https://ianbirk.com/about/cypress-island-san-juans/"
+},
+{
+"text": "[image: Dog and Cat Got Along!]",
+"href": "https://ianbirk.com/about/dog-and-cat-got-along/"
+},
+{
+"text": "[image: Finishing Seattle to Portland]",
+"href": "https://ianbirk.com/about/finishing-seattle-to-portland/"
+},
+{
+"text": "[image: IMG_9436 copy]",
+"href": "https://ianbirk.com/about/img_9436-copy/"
+},
+{
+"text": "[image: Judge Ian Birk]",
+"href": "https://ianbirk.com/"
+},
+{
+"text": "[image: Mt Haleakala]",
+"href": "https://ianbirk.com/about/mt-haleakala/"
+},
+{
+"text": "[image: New Kitten]",
+"href": "https://ianbirk.com/about/new-kitten/"
+},
+{
+"text": "[image: North Cascades Hwy]",
+"href": "https://ianbirk.com/about/north-cascades-hwy/"
+},
+{
+"text": "[image: christmas]",
+"href": "https://ianbirk.com/about/christmas/"
+}
 ]

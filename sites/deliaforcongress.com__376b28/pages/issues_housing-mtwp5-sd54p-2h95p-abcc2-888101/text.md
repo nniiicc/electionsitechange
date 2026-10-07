@@ -1,18 +1,9 @@
-LGBTQ+ Rights
-ROOTED
-Delia’s values are deeply rooted in inclusiveness, equity, and justice and that is why she is a firm proponent of LGBTQ+ rights and protections.
+0 Skip to Content Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store Folder: More Back Media District Map Contact Vote Jobs DONATE LGBTQ+ Rights Jun 11 Written By Guest User ROOTED Delia’s values are deeply rooted in inclusiveness, equity, and justice and that is why she is a firm proponent of LGBTQ+ rights and protections.
 To fully live into being the “land of the free,” all people must be able to live free from discrimination and harassment because of their sexual orientation or gender identity.
 We must enact policies that create protections so that all LGBTQ+ people can fully participate in all aspects of society free from discrimination.
-READY
-As Congresswoman, Delia has been and will continue to be an ally and champion for the LGBTQ+ community, having taken significant legislative action to do so.
+READY As Congresswoman, Delia has been and will continue to be an ally and champion for the LGBTQ+ community, having taken significant legislative action to do so.
 Delia has also been proud to demonstrate her allyship by supporting numerous LGBTQ+ candidates running for office at city, county, and state levels, to ensure that these communities have representation in government.
-RESULTS
-In Congress, Delia has:
-- Co-sponsored the Equality Act to fully guarantee nondiscrimination protections for the LGBTQI+ community throughout the United States including in housing, employment, education, and federally funded programs.
-- Co-sponsored the LGBTQI+ Data Inclusion Act to make federal population surveys be required to collect voluntary, self-disclosed information on gender identity, sexual orientation, and other information to identify the needs of LGBTQI+ people
-- Co-sponsored the Pride In Mental Health of 2023 Act which would revise Title V of the Public Health Service Act to guarantee protections for LGBTQI+ youth and their families.
-As IL State Representative, Delia:
-- Co-sponsored the Inclusive Curriculum Act to ensure that LGBTQ+ history will be taught in Illinois public schools.
-- Supported legislation that designates most single usage restrooms in public spaces as gender-neutral
-- Co-sponsored the Birth Certificate Assertation law which allows individuals to self-assert a correct gender in a birth certificate change
-- Co-sponsored the Disrupting Disparities for LGBTQ Older Adults law that creates a three-year Commission on LGBTQ Aging, establishes an LGBTQ Older Adult Advocate, and requires state-funded providers to complete LGBTQ older adult awareness and competency training
+RESULTS In Congress, Delia has: Co-sponsored the Equality Act to fully guarantee nondiscrimination protections for the LGBTQI+ community throughout the United States including in housing, employment, education, and federally funded programs.
+Co-sponsored the LGBTQI+ Data Inclusion Act to make federal population surveys be required to collect voluntary, self-disclosed information on gender identity, sexual orientation, and other information to identify the needs of LGBTQI+ people Co-sponsored the Pride In Mental Health of 2023 Act which would revise Title V of the Public Health Service Act to guarantee protections for LGBTQI+ youth and their families.
+As IL State Representative, Delia: Co-sponsored the Inclusive Curriculum Act to ensure that LGBTQ+ history will be taught in Illinois public schools.
+Supported legislation that designates most single usage restrooms in public spaces as gender-neutral Co-sponsored the Birth Certificate Assertation law which allows individuals to self-assert a correct gender in a birth certificate change Co-sponsored the Disrupting Disparities for LGBTQ Older Adults law that creates a three-year Commission on LGBTQ Aging, establishes an LGBTQ Older Adult Advocate, and requires state-funded providers to complete LGBTQ older adult awareness and competency training Guest User Next Next Ethics & Good Government MEET DELIA DONATE CONTACt media Read our Privacy Policy and Terms & Conditions Paid for by United with Delia for Congress

@@ -1,4 +1,4 @@
-Freeport—The Illinois Chamber of Commerce has endorsed Andrew Chesney for State Representative in the 89th Illinois House District.
+About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY CHESNEY IS ENDORSED BY ILLINOIS CHAMBER OF COMMERCE CHESNEY IS ENDORSED BY ILLINOIS CHAMBER OF COMMERCE Freeport—The Illinois Chamber of Commerce has endorsed Andrew Chesney for State Representative in the 89th Illinois House District.
 The Illinois Chamber of Commerce was formed in 1919 and was one of the first statewide business organizations in the United States.
 The Chamber is a business advocacy group that weighs in on policies that affect markets and business in general in Illinois.
 “The Illinois Chamber endorses candidates who understand our issues and Andrew Chesney is the best candidate in the Republican Primary for the 89th District.
@@ -12,4 +12,4 @@ A native of Shannon, Illinois, Chesney is the current alderman at large in the c
 He is also the current chairman of the Stephenson County Republican Central Committee.
 He and his wife Kelly live in Freeport.
 The 89th Illinois House District is made up of parts of Carroll, Jo Daviess, Ogle, Stephenson, Whiteside, and Winnebago Counties.
-###
+### #© Paid for by Chesney for Illinois    

@@ -1,20 +1,98 @@
 [
-"https://facebook.com/MichelleFischbachForCongress",
-"https://fischbachforcongress.com/",
-"https://fischbachforcongress.com/about",
-"https://fischbachforcongress.com/about-2",
-"https://fischbachforcongress.com/cdn-cgi/l/email-protection",
-"https://fischbachforcongress.com/contact",
-"https://fischbachforcongress.com/issues",
-"https://fischbachforcongress.com/press",
-"https://fischbachforcongress.com/privacy-policy",
-"https://fischbachforcongress.com/volunteer",
-"https://google.com/analytics/terms",
-"https://instagram.com/fischbachmn7",
-"https://policies.google.com/privacy",
-"https://secure.winred.com/MichelleFischbach/website-donations",
-"https://secure.winred.com/michellefischbach/storefront",
-"https://twitter.com/FischbachMN7",
-"https://usa.gov/optout-instructions",
-"https://youtube.com/@fischbachmn7"
+{
+"text": "About",
+"href": "https://www.fischbachforcongress.com/about"
+},
+{
+"text": "About",
+"href": "https://www.fischbachforcongress.com/about-2/"
+},
+{
+"text": "Contact",
+"href": "https://www.fischbachforcongress.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.fischbachforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/MichelleFischbach/website-donations"
+},
+{
+"text": "Donate [image: Caret]",
+"href": "https://secure.winred.com/MichelleFischbach/website-donations"
+},
+{
+"text": "Google Analytics Terms of Use",
+"href": "https://www.google.com/analytics/terms/"
+},
+{
+"text": "Google Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Issues",
+"href": "https://www.fischbachforcongress.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://www.fischbachforcongress.com/issues/"
+},
+{
+"text": "Press",
+"href": "https://www.fischbachforcongress.com/press"
+},
+{
+"text": "Press",
+"href": "https://www.fischbachforcongress.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fischbachforcongress.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/michellefischbach/storefront/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fischbachforcongress.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fischbachforcongress.com/volunteer/"
+},
+{
+"text": "Vote MN",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@fischbachforcongress.com%C2%A0"
+},
+{
+"text": "[image: Fischbach for Congress]",
+"href": "https://www.fischbachforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MichelleFischbachForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/FischbachMN7"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fischbachmn7/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@fischbachmn7"
+},
+{
+"text": "disabling cookies",
+"href": "https://www.usa.gov/optout-instructions"
+}
 ]

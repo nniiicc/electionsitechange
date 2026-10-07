@@ -1,29 +1,118 @@
 [
-"http://x.com/@jacquiirwin",
-"https://bsky.app/profile/irwinforcongress.bsky.social",
-"https://facebook.com/ElectJacquiIrwin",
-"https://jacquiirwin.com/",
-"https://jacquiirwin.com/about-1",
-"https://jacquiirwin.com/about-jacqui",
-"https://jacquiirwin.com/cart",
-"https://jacquiirwin.com/contact-us",
-"https://jacquiirwin.com/district-map-26",
-"https://jacquiirwin.com/endorsements2026",
-"https://jacquiirwin.com/photo-gallery",
-"https://jacquiirwin.com/photo-gallery?itemId=0djhi73u9k8gkxcjcd3p7htr3a8cx8-gbbxf",
-"https://jacquiirwin.com/photo-gallery?itemId=139m4kxa0dc7e3vbrkth6v8ar99vnp-p9jhm",
-"https://jacquiirwin.com/photo-gallery?itemId=24uecvyygretam5e1s5hgq9cm5awhi-5kbr4",
-"https://jacquiirwin.com/photo-gallery?itemId=25y7prp2ejuo6epr5qzbo6equydo9b-35bk9",
-"https://jacquiirwin.com/photo-gallery?itemId=90x51ngperus2g1wlo7s4w3r9ajjvs-zn52a",
-"https://jacquiirwin.com/photo-gallery?itemId=9zhu68f4c0tf7b37o2r9gna4apcrj4-2grha",
-"https://jacquiirwin.com/photo-gallery?itemId=fspu59xqwgxjbhiv7s4b0hn22v8h0k-n9h4t",
-"https://jacquiirwin.com/photo-gallery?itemId=ko4xn357z9xb896hcjmbnze7tpuinv-betxf",
-"https://jacquiirwin.com/photo-gallery?itemId=mou8kg3eusy6o1hmmgrn9eut3blwkz-py2zp",
-"https://jacquiirwin.com/photo-gallery?itemId=qx2ccy68ouyd82zhh6jdhs3zdi9ig1-4zg8p",
-"https://jacquiirwin.com/photo-gallery?itemId=u7r14c5yjngl3vzjrwz1kep052pu4w-gz7kn",
-"https://jacquiirwin.com/photo-gallery?itemId=ylyp3iqc6neajqzpz1bmv0hxai6tlk-nxf8h",
-"https://jacquiirwin.com/privacy-policy",
-"https://jacquiirwin.com/sign-up",
-"https://jacquiirwin.com/terms-conditions",
-"https://secure.actblue.com/donate/jacqui-irwin-5"
+{
+"text": "0",
+"href": "https://jacquiirwin.com/cart"
+},
+{
+"text": "About Jacqui",
+"href": "https://jacquiirwin.com/about-jacqui"
+},
+{
+"text": "Back",
+"href": "https://jacquiirwin.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://jacquiirwin.com/contact-us"
+},
+{
+"text": "District 26 Map",
+"href": "https://jacquiirwin.com/district-map-26"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jacqui-irwin-5"
+},
+{
+"text": "Endorsements",
+"href": "https://jacquiirwin.com/endorsements2026"
+},
+{
+"text": "Folder: About",
+"href": "https://jacquiirwin.com/about-1"
+},
+{
+"text": "Home",
+"href": "https://jacquiirwin.com/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://jacquiirwin.com/photo-gallery"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jacquiirwin.com/privacy-policy"
+},
+{
+"text": "SIGN UP",
+"href": "https://jacquiirwin.com/sign-up"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://jacquiirwin.com/terms-conditions"
+},
+{
+"text": "[image: Jacqui Irwin for Congress]",
+"href": "https://jacquiirwin.com/"
+},
+{
+"text": "[image: Jacqui Irwin talks to constituents (Copy)] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=24uecvyygretam5e1s5hgq9cm5awhi-5kbr4"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0138.jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=qx2ccy68ouyd82zhh6jdhs3zdi9ig1-4zg8p"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0140.jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=u7r14c5yjngl3vzjrwz1kep052pu4w-gz7kn"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0172.jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=9zhu68f4c0tf7b37o2r9gna4apcrj4-2grha"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0175 (1).jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=mou8kg3eusy6o1hmmgrn9eut3blwkz-py2zp"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0182 (1).jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=ko4xn357z9xb896hcjmbnze7tpuinv-betxf"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0182.jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=90x51ngperus2g1wlo7s4w3r9ajjvs-zn52a"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0213 (1).jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=fspu59xqwgxjbhiv7s4b0hn22v8h0k-n9h4t"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0222 (1).jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=25y7prp2ejuo6epr5qzbo6equydo9b-35bk9"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0227.jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=0djhi73u9k8gkxcjcd3p7htr3a8cx8-gbbxf"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0238 (1).jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=ylyp3iqc6neajqzpz1bmv0hxai6tlk-nxf8h"
+},
+{
+"text": "[image: meeno-Jacqui 2020.08 -0238.jpeg] View fullsize",
+"href": "https://jacquiirwin.com/photo-gallery?itemId=139m4kxa0dc7e3vbrkth6v8ar99vnp-p9jhm"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/@jacquiirwin"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/irwinforcongress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJacquiIrwin"
+}
 ]

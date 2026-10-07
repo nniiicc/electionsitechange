@@ -1,5 +1,4 @@
-About David
-Senator David Watters has served five terms in the New Hampshire Senate, working on various committees, including Education, Energy and Natural Resources, Transportation, Capital Budget, and Executive Departments and Administration.
+Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact About David Senator David Watters has served five terms in the New Hampshire Senate, working on various committees, including Education, Energy and Natural Resources, Transportation, Capital Budget, and Executive Departments and Administration.
 He also serves on policy commissions on environmental, transportation, education, historical resources, and recovery.
 When he was elected State Senator for District 4 in 2012, after serving two terms in the New Hampshire House of Representatives, David Watters vowed to restore civility to Concord and protect the New Hampshire advantage of equal opportunity, economic development, public education, a sustainable and healthy environment, low taxes and quality of life.
 In his first term, Watters established himself as a pragmatic leader willing to work across party lines to bring people together, protect middle class families and keep New Hampshire moving forward.
@@ -30,3 +29,6 @@ His wife, Jan Alberghene, is a retired English professor who taught at Fitchburg
 Their son, Harper, is first soloist at Houston Ballet.
 David enjoys getting outdoors to run and ski, or going down cellar to his shop to do woodworking, particularly making Shaker oval boxes.
 David and Jan go to Houston whenever they can to see Harper dance.
+Back to Top PAID FOR BY THE COMMITTEE TO ELECT DAVID WATTERS.
+FISCAL AGENT.
+19 MAPLE STREET, DOVER, NH 03280

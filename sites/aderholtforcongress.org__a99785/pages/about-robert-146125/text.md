@@ -1,4 +1,7 @@
-On January 7, 2025, Congressman Robert B.
+Home About Robert Contact Me Contribute Issues Press Registered to Vote?
+More Home About Robert Contact Me Contribute Issues Press Registered to Vote?
+Home About Robert Contact Me Contribute Issues Press Registered to Vote?
+ABOUT ROBERT Robert Hayes, Robert, Caroline, Mary Elliott and Grant On January 7, 2025, Congressman Robert B.
 Aderholt took the oath of office to serve his 15th term representing Alabama’s Fourth Congressional District.
 Aderholt is a member of the powerful House Committee on Appropriations, which has jurisdiction over funding the operation of the federal government.
 Congressman Aderholt serves as the Chairman of the Appropriations Subcommittee on Labor, Health & Human Services, and Education.
@@ -16,5 +19,6 @@ Prior to his election to Congress, Aderholt served as Assistant Legal Advisor to
 Educated through Alabama's public school system, Aderholt went on to receive his B.A. from Birmingham Southern College and his J.D. from the Cumberland School of Law at Samford University.
 Born on July 22, 1965, and raised in Alabama, Aderholt and his wife, Caroline, have their residence in Haleyville.
 Their daughter Mary Elliott and her husband Grant Whitt live and work in Huntsville, and son Robert Hayes attends Auburn University.
-PRESIDENT DONALD TRUMP ENDORSES ROBERT ADERHOLT FOR U.S.
+Paid for by Robert Aderholt for Congress Copyright © # Robert Aderholt for Congress All Rights Reserved.
+Powered by Contact Me Press PRESIDENT DONALD TRUMP ENDORSES ROBERT ADERHOLT FOR U.S.
 CONGRESS

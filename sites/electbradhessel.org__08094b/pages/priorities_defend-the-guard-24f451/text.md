@@ -1,16 +1,20 @@
-Deploying Guard Units Overseas Makes Us Less Safe
-Deploying our National Guard units abroad can leave North Carolina vulnerable and less equipped to handle emergencies here at home.
+Skip to content ‪(919) 307-9413‬ Facebook-f X-twitter Instagram Youtube Envelope Meet Meet the Candidate Senate 18 People Not Politics News News Events Priorities Stronger Economy Smarter Education Cost-Effective Healthcare Expanded Housing Market Restore Equal Justice Abolish the ABC!
+Electoral Reform—Independent Voters Electoral Reform—Gerrymandering Electoral Reform—Instant Runoff Voting Problem Solvers Caucus Cost-effective Conservation Defend The Guard Take Action Donate Volunteer When & Where to Vote Donate Go Enter Keyword Defend The Guard How can we ensure that our honorable fellow citizens who enlist in the National Guard with the intent of safeguarding us are themselves protected from whimsical overseas deployments?
+Summary Deploying National Guard units overseas is inconsistent with their primary mission of responding to domestic emergencies and natural disasters, as well as serving as a state-level militia.
+The prospect of an overseas deployment for a National Guard unit is supposed to be an unlikely risk that would only happen in the event of an emergency, not a routine event.
+Deploying any US troops to combat overseas without a declaration of war by Congress is unconstitutional…and it’s irresponsible for us to enable this recent practice.
+Deploying Guard Units Overseas Makes Us Less Safe Deploying our National Guard units abroad can leave North Carolina vulnerable and less equipped to handle emergencies here at home.
 In effect, this defeats the primary purpose for which the National Guard exists in the first place.
-Routine Overseas Deployments Violate The Spirit Of The Agreement And Cause Material Harm
-Consistent with the name “National Guard”—not to mention, the way things generally worked for the Guard and its antecedents dating back over 300 years to Colonial times—most people who join do so with the expectation that they will be called upon in emergencies to come to the aid of their fellow North Carolinians or other Americans.
+Routine Overseas Deployments Violate The Spirit Of The Agreement And Cause Material Harm Consistent with the name “National Guard”—not to mention, the way things generally worked for the Guard and its antecedents dating back over 300 years to Colonial times—most people who join do so with the expectation that they will be called upon in emergencies to come to the aid of their fellow North Carolinians or other Americans.
 Deployments overseas are not only inherently more dangerous but frequently have little or nothing to do with guarding US civilians.
 Unlike active-duty military personnel, National Guard members often have civilian jobs and deep ties to their local communities.
 Frequent and extended deployments can disrupt their lives, careers, and families, leading to significant personal and financial hardships.
-Allowing Our National Guard Troops To Be Deployed Overseas Enables Ill-considered Policy
-According to Article I, Section 8 of the US Constitution, only Congress has the authority to declare war.
+Allowing Our National Guard Troops To Be Deployed Overseas Enables Ill-considered Policy According to Article I, Section 8 of the US Constitution, only Congress has the authority to declare war.
 Over the years, however, this critical limitation on the deployment of force overseas has been increasingly bypassed through authorizations for the use of military force and other executive actions at the national level.
 This has resulted in a series of morally ambiguous undeclared wars over the past several decades that have cost us dearly in blood and treasure without seeming to make us any safer.Insofar as our contributing North Carolina National Guard troops to these dubious endeavors enables them, we bear a measure of responsibility.
 While we cannot single-handedly prevent the Federal government from making injudicious decisions, we can—and should—make it harder for them to effect those decisions.
 And if enough other states follow suit, collectively we will be encouraging greater scrutiny and accountability in the decision-making process, potentially leading to fewer and more prudent and strategically sound military interventions.
-Real, Practical, Effective Solution To Defend The Guard
-Restrict the deployment of North Carolina National Guard units overseas unless Congress has declared war.
+Real, Practical, Effective Solution To Defend The Guard Restrict the deployment of North Carolina National Guard units overseas unless Congress has declared war.
+LEARN MORE ABOUT OUR CAMPAIGN FOR LIBERTY IN NORTH CAROLINA Sign up for our email newsletter and receive occasional news and event communications from the campaign.
+First Name Last Name Email Subscribe Now Together we can restore power and the pursuit of happiness to the people!
+Join Us Contribute Volunteer Events News Voting Voter Lookup Voter Registration Polling Stations Early Voting Election Day Libertarian Party LP National website LPNC website LPNC Facebook LPNC Twitter WakeLP website Contact CEBH 7904 Sagewood Ct., Raleigh, NC 27615 ‪(919) 307-9413‬ info@electbradhessel.org Facebook-f X-twitter Instagram Youtube

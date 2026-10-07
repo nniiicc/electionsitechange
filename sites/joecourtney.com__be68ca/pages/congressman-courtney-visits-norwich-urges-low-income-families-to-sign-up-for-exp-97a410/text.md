@@ -1,4 +1,2 @@
-Norwich — Nearly 80% of eastern Connecticut families qualify for the newly expanded federal child tax credit designed to help pay rent, car repairs, all-important child care and food and clothing.
-But many low-income families who do not file federal income tax forms might be unaware of the expanded benefit, which was included in the American Rescue Plan COVID-19 […]
-Campaign News
-March 1, 2022
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Campaign News March 1, 2022 Congressman Courtney visits Norwich, urges low-income families to sign up for expanded child tax credit Norwich — Nearly 80% of eastern Connecticut families qualify for the newly expanded federal child tax credit designed to help pay rent, car repairs, all-important child care and food and clothing.
+But many low-income families who do not file federal income tax forms might be unaware of the expanded benefit, which was included in the American Rescue Plan COVID-19 […] Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

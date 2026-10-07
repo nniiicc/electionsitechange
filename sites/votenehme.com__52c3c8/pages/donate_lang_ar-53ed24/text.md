@@ -1,11 +1,3 @@
-Effective January 2026, House District 15 covers parts of Taylor (south of Goddard Rd) and Westland,
-plus Belleville, Brownstown Township, Flat Rock, Gibraltar, Grosse Ile Township, Huron Township,
-Riverview, Rockwood, Romulus, Southgate, Sumpter Township, Trenton, Van Buren Township, Wayne, and Woodhaven.
-ادعم الحملة
-تبرّع
-مساهمتك تموّل اللافتات والرسائل البريدية وطرق الأبواب وحملة ميدانية رابحة في الدائرة 15 بمجلس النواب في ميشيغان.
-Individual contribution limit: $1,225 per election cycle (Michigan State House).
-مطلوبة بموجب قانون تمويل الحملات في ميشيغان.
-Enter “Retired”, “Self-Employed”, or “Not Employed” if applicable.
-Payment is processed securely by Stripe.
+الرئيسية تعرّف على حسن القضايا التأييدات الفعاليات Store اتصل بنا خريطة الدائرة English تبرّع × Michigan House District 15 Effective January 2026, House District 15 covers parts of Taylor (south of Goddard Rd) and Westland, plus Belleville, Brownstown Township, Flat Rock, Gibraltar, Grosse Ile Township, Huron Township, Riverview, Rockwood, Romulus, Southgate, Sumpter Township, Trenton, Van Buren Township, Wayne, and Woodhaven. ادعم الحملة تبرّع مساهمتك تموّل اللافتات والرسائل البريدية وطرق الأبواب وحملة ميدانية رابحة في الدائرة 15 بمجلس النواب في ميشيغان. اختر مبلغًا $25 $50 $100 $250 $500 $1000 مبلغ آخر مبلغ مخصّص (بالدولار) Individual contribution limit: $1,225 per election cycle (Michigan State House). اجعل هذه مساهمة شهرية متكرّرة بياناتك مطلوبة بموجب قانون تمويل الحملات في ميشيغان. الاسم الكامل * البريد الإلكتروني * الهاتف عنوان الشارع * المدينة * الولاية * الرمز البريدي * جهة العمل * Enter “Retired”, “Self-Employed”, or “Not Employed” if applicable. المهنة * أنا مواطن أمريكي أو مقيم دائم بصفة قانونية، وهذه المساهمة مقدَّمة من أموالي الخاصة، ولستُ متعاقدًا مع الحكومة الفيدرالية. المتابعة إلى الدفع ← Payment is processed securely by Stripe.
 Contributions to Hassan Nehme For State House are not tax-deductible.
+Hassan Nehme مرشّح عن الدائرة 15 في مجلس النواب بولاية ميشيغان. جنديّ سابق في الجيش الأمريكي، وصاحب عمل صغير، وزوج وأب، يترشّح ليعيد الحسّ السليم إلى لانسينغ. روابط سريعة الرئيسية تعرّف على حسن القضايا التأييدات الفعاليات اتصل بنا التبرّع والتواصل تبرّع Facebook f اتصل بنا عام: [email protected] تطوّع: سجّل للمساعدة تموّل من قبل Hassan Nehme For State House · 26827 Sheahan, Dearborn Heights, MI 48127 © # Hassan Nehme For State House. جميع الحقوق محفوظة.

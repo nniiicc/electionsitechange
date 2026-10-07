@@ -1,6 +1,4 @@
-- Asuntos
-- Puerto Rico
-Puerto Rico pa' su gente.
+Saltar al contenido principal Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos English Merch Donar Asuntos Puerto Rico Puerto Rico pa' su gente.
 Puerto Rico es una isla de extraordinaria belleza, rica cultura y un pueblo resiliente.
 Pero los fondos buitre de Wall Street, el abandono federal y los esquemas de privatización han permitido que actores maliciosos saqueen su riqueza mientras las familias trabajadoras pagan el costo.
 Los desastres naturales, como el huracán María, expusieron y profundizaron estos fracasos, revelando las consecuencias de una infraestructura dañada, una red eléctrica poco confiable y un gobierno federal que con frecuencia ha tratado a Puerto Rico como algo secundario.
@@ -8,44 +6,33 @@ Los puertorriqueños ayudaron a construir la ciudad de Nueva York y continúan d
 NY-7 es el hogar de una comunidad puertorriqueña grande y vibrante.
 Debemos continuar el trabajo de la congresista Nydia Velázquez y defender con fuerza los asuntos que afectan tanto a la isla como a las comunidades puertorriqueñas aquí en casa.
 Claire trabajará en la reconstrucción de Puerto Rico para los puertorriqueños.
-Como miembro del Congreso, Claire luchará para:
-- Permitir que el pueblo de Puerto Rico determine su propio futuro político reintroduciendo la Ley de Autodeterminación Puertorriqueña;
-- Cancelar la deuda injusta de Puerto Rico, abolir La Junta y poner fin al control de supervisores financieros no electos que han impuesto austeridad a las familias trabajadoras;
-- Construir un sistema de energía renovable públicamente responsable, asequible y confiable que sirva a los residentes en lugar de a las empresas eléctricas privadas y a los inversionistas;
-- Invertir en infraestructura resiliente que pueda resistir huracanes, inundaciones y otros desastres relacionados con el clima mientras se crean empleos sindicales bien remunerados;
-- Reducir los costos de los alimentos invirtiendo en los agricultores de Puerto Rico, fortalecer los sistemas alimentarios locales y derogar la Ley Jones;
-- Limpiar la contaminación ambiental y abordar los impactos en la salud y la seguridad derivados de décadas de actividad militar en la isla, con las comunidades afectadas liderando el proceso.
-Democracia, Libertad y Rendición de Cuentas
-- Avanzar la Autodeterminación Puertorriqueña.
+Como miembro del Congreso, Claire luchará para: Permitir que el pueblo de Puerto Rico determine su propio futuro político reintroduciendo la Ley de Autodeterminación Puertorriqueña; Cancelar la deuda injusta de Puerto Rico, abolir La Junta y poner fin al control de supervisores financieros no electos que han impuesto austeridad a las familias trabajadoras; Construir un sistema de energía renovable públicamente responsable, asequible y confiable que sirva a los residentes en lugar de a las empresas eléctricas privadas y a los inversionistas; Invertir en infraestructura resiliente que pueda resistir huracanes, inundaciones y otros desastres relacionados con el clima mientras se crean empleos sindicales bien remunerados; Reducir los costos de los alimentos invirtiendo en los agricultores de Puerto Rico, fortalecer los sistemas alimentarios locales y derogar la Ley Jones; Limpiar la contaminación ambiental y abordar los impactos en la salud y la seguridad derivados de décadas de actividad militar en la isla, con las comunidades afectadas liderando el proceso.
+Democracia, Libertad y Rendición de Cuentas Avanzar la Autodeterminación Puertorriqueña.
 El estatus actual de Puerto Rico como territorio de los EE.UU. significa que aunque los residentes están sujetos a las leyes federales, no tienen derecho al voto ni representación plena en el Congreso.
 Las encuestas han mostrado de manera consistente que el pueblo de Puerto Rico quiere una alternativa.
-Es por eso que Claire apoya la reintroducción de la Ley de Autodeterminación de Puerto Rico, presentada por Nydia Velázquez, que creará un proceso democrático, inclusivo y legalmente vinculante que permitirá al pueblo de Puerto Rico determinar su propio estatus.
-- Implementar Alivio de la Deuda y Abolir La Junta
-La crisis de deuda de Puerto Rico es el resultado de políticas federales que limitan el desarrollo económico de la isla y la dejan sin una representación democrática real.
+Es por eso que Claire apoya la reintroducción de la Ley de Autodeterminación de Puerto Rico , presentada por Nydia Velázquez, que creará un proceso democrático, inclusivo y legalmente vinculante que permitirá al pueblo de Puerto Rico determinar su propio estatus.
+Implementar Alivio de la Deuda y Abolir La Junta La crisis de deuda de Puerto Rico es el resultado de políticas federales que limitan el desarrollo económico de la isla y la dejan sin una representación democrática real.
 El Congreso es culpable por haber creado las condiciones de la crisis y le debe a Puerto Rico una solución.
 El alivio de la deuda es esencial para la reconstrucción económica de la isla.
 Claire luchará por el perdón total de la deuda de Puerto Rico con Wall Street, poniendo fin al reinado de los especuladores depredadores de Wall Street que obtienen enormes ganancias cortando servicios públicos, vendiendo activos del gobierno y socavando la capacidad de la isla para recuperarse económicamente.
 Claire también luchará para abolir la Junta de Control Fiscal que se impuso y no fue electa por el pueblo.
 Durante casi diez años, la Junta ha forzado medidas de austeridad a los puertorriqueños sin su consentimiento, mientras que aprueba enormes ganancias para consultores contratados y, en última instancia, no ha logrado resolver la crisis de deuda de Puerto Rico ni brindar ningún alivio.
-- Responsabilizar a LUMA y Construir Energía Pública Confiable y Asequible
-Los puertorriqueños merecen una red de energía renovable que sea confiable, asequible, resiliente al clima y responsable con el pueblo.
+Responsabilizar a LUMA y Construir Energía Pública Confiable y Asequible Los puertorriqueños merecen una red de energía renovable que sea confiable, asequible, resiliente al clima y responsable con el pueblo.
 Claire trabajará para llamar a cuentas a LUMA por sus promesas incumplidas y su mala gestión, que ha dejado a los puertorriqueños sin energía confiable ni asequible.
 Claire apoyará el financiamiento y la supervisión federal para reconstruir el sistema eléctrico de Puerto Rico bajo un control público democrático, reducir los costos de la energía, prevenir apagones repetidos y garantizar que la transición a la energía limpia cree buenos empleos sindicales para los trabajadores puertorriqueños.
-Invertir en el futuro de Puerto Rico
-- Construir Infraestructura Resiliente y Alivio en Casos de Desastre
-Del huracán María dejaron al descubierto muchas de las deficiencias políticas y estructurales que han frenado a Puerto Rico.
+Invertir en el futuro de Puerto Rico Construir Infraestructura Resiliente y Alivio en Casos de Desastre Del huracán María dejaron al descubierto muchas de las deficiencias políticas y estructurales que han frenado a Puerto Rico.
 Inmediatamente después de la tormenta, los puertorriqueños tuvieron dificultades para acceder a fondos de recuperación porque solicitarlos requería acceso a internet, estaba en inglés y exigía documentos legales a los que muchos no tenían acceso.
 Era un proceso diseñado para el territorio continental de los EE.UU., pero no funcionó para el pueblo de Puerto Rico.
 Además, gran parte de la infraestructura dañada aún no ha sido reconstruida ni reparada debido a subvenciones paralizadas y una respuesta lenta de FEMA.
 Puerto Rico merece el mismo apoyo del gobierno federal que el resto del país.
 Claire luchará para asegurarse de que la nueva infraestructura sea resiliente y construida con empleos sindicales bien remunerados.
-- Invertir en agricultura y derogar la Ley Jones
-Los puertorriqueños merecen un sistema alimentario asequible, local y resiliente.
+Invertir en agricultura y derogar la Ley Jones Los puertorriqueños merecen un sistema alimentario asequible, local y resiliente.
 Pero décadas de inversión insuficiente han debilitado el sector agrícola de la isla, obligando a Puerto Rico a importar aproximadamente el 85% de sus alimentos desde el exterior.
 Eso encarece los alimentos y deja a las familias vulnerables cada vez que los huracanes, los retrasos en los envíos u otras interrupciones en la cadena de suministro ocurren.
 La Ley Jones empeora la situación al restringir cómo pueden enviarse mercancías entre el territorio continental de los EE.UU., las Islas Marianas del Norte y Puerto Rico, lo que contribuye a mayores costos de envío para muchos bienes básicos.
 Claire luchará para invertir en los agricultores de Puerto Rico, fortalecer los sistemas alimentarios locales, reducir los costos para las familias trabajadoras y derogar por completo la Ley Jones.
-- Limpiar la Contaminación y los Riesgos de Seguridad Dejados por las Bases Militares.
-La actividad militar de los EE.UU. en Puerto Rico ha provocado degradación ambiental, ha amenazado la salud de los residentes locales, ha desplazado a residentes y ha creado riesgos de seguridad debido a bombas sin explotar enterradas.
+Limpiar la Contaminación y los Riesgos de Seguridad Dejados por las Bases Militares.
+La actividad militar de los EE.UU. en Puerto Rico ha provocado degradación ambiental, ha amenazado la salud de los residentes locales , ha desplazado a residentes y ha creado riesgos de seguridad debido a bombas sin explotar enterradas.
 La remilitarización de bases anteriormente cerradas ha traído más agravios, impactando el trabajo de los activistas que pasaron años organizando el cierre de la Base Naval de Roosevelt Roads en Ceiba y de los campos de bombardeo en Culebra y Vieques.
 Claire luchará para que la EPA lidere una limpieza completa de los metales pesados y de los químicos tóxicos dejados atrás, así como la remediación de las bombas sin explotar enterradas, para que los puertorriqueños puedan vivir en un ambiente seguro y limpio.
+Donar Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos General inquiries: info@clairevaldezforcongress.com Media inquiries: press@clairevaldezforcongress.com 223 Bedford Ave Ste A PMB 1118 Brooklyn, NY 11211 Paid for by Claire Valdez for Congress Photography: Kara McCurdy Design: Andrea Guinn, Aneesh Bhoopathy This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

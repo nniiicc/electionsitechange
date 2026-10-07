@@ -1,25 +1,31 @@
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-VIDEO
-VIDEO
-7
-SEP
-2025
-PRESS RELEASE
-Rep.
+top of page MEET JASMINE AGENDA NEWS ENDORSEMENTS GET INVOLVED CONTACT VOTING INFORMATION Donate PRESS RELEASE REP.
+DR.
+JASMINE CLARK FOR GEORGIA OUTRAISES REP.
+DAVID SCOTT AND ENTIRE FIELD IN Q3, CEMENTING HERSELF AS FRONTRUNNER TO BE NEXT CONGRESSWOMAN FROM GA- 13 PRESS RELEASE DR.
+MARY L.
+TRUMP ENDORSES REP.
+DR.
+JASMINE CLARK FOR GA PRESS RELEASE 17 REPRESENTATIVES ENDORSE REP.
+DR.
+JASMINE CLARK FOR GA-13 PRESS RELEASE REP.
+DR.
+JASMINE CLARK, CANDIDATE FOR GEORGIA'S 13TH CONGRESSIONAL DISTRICT, RELEASES STATEMENT CONDEMNING ICE RAID ON HYUNDAI PLANT IN BRYAN COUNTY, GEORGIA PRESS RELEASE REP.
+DR.
+JASMINE CLARK, CANDIDATE FOR GEORGIA'S 13TH CONGRESSIONAL DISTRICT, RELEASES STATEMENT ON THE SHOOTING AT EMORY POINT PRESS RELEASE REP.
+DR.
+JASMINE CLARK, CANDIDATE FOR GEORGIA'S 13TH CONGRESSIONAL DISTRICT, RELEASES STATEMENT ON THE SHOOTING AT FORT STEWART PRESS RELEASE REP.
+DR.
+JASMINE CLARK, CANDIDATE FOR GEORGIA'S 13TH CONGRESSIONAL DISTRICT, RAISES $# FROM NEARLY 3,000 INDIVIDUAL DONORS IN FIRST MONTH OF CAMPAIGN PRESS RELEASE REP.
+DR.
+JASMINE CLARK, CANDIDATE FOR GEORGIA'S 13TH CONGRESSIONAL DISTRICT, HEADLINES "NO KINGS" PROTEST IN ATLANTA PRESS RELEASE DR.
+JASMINE CLARK ANNOUNCES $# RAISED IN FIRST # HOURS OF CAMPAIGN VIDEO VIDEO: REP.
+DR.
+JASMINE CLARK ON MORNINGS WITH ZERLINA 7/29 VIDEO VIDEO: DR.
+JASMINE CLARK ON MEIDAS TOUCH 7 SEP 2025 PRESS RELEASE Rep.
 Dr.
-Jasmine Clark, Candidate for Georgia's 13th Congressional District, Releases Statement Condemning ICE raid on Hyundai plant in Bryan County, Georgia
-LILBURN, GA– Today, Rep.
+Jasmine Clark, Candidate for Georgia's 13th Congressional District, Releases Statement Condemning ICE raid on Hyundai plant in Bryan County, Georgia LILBURN, GA– Today, Rep.
 Dr.
-Jasmine Clark (D-Lilburn), a microbiologist, Emory University biology professor, and candidate for Congress, released a statement condemning the ICE raid on the Hyundai metaplant in Bryan County, Georgia:
-“On Friday, September 5, ICE carried out the largest ICE raid of the year at the Hyundai plant in Bryan County, GA.
+Jasmine Clark (D-Lilburn), a microbiologist, Emory University biology professor, and candidate for Congress, released a statement condemning the ICE raid on the Hyundai metaplant in Bryan County, Georgia: ​ “On Friday, September 5, ICE carried out the largest ICE raid of the year at the Hyundai plant in Bryan County, GA.
 475 people were swept up and taken to a rural holding facility where, to this day, their families are having trouble locating them.
 It has been reported that, like other raids of this nature, many people who were arrested were legally allowed to work here–including at least one green card holder.
 This raid specifically targeted immigrants trying to support their families.
@@ -34,9 +40,7 @@ While I am happy to see that some of the workers have finally been released, it 
 This is the antithesis to how things are supposed to work in this country.
 I am calling on Georgia Republicans to grow a spine and condemn this vile attack on our state.
 I am calling on the Trump administration to stop using ICE as a political tool to punish their perceived enemies.
-And I am calling on Congress to put an end to this and pass legislation that will protect our workers and immigrants so this can’t happen again.”
-ABOUT JASMINE CLARK
-Rep.
+And I am calling on Congress to put an end to this and pass legislation that will protect our workers and immigrants so this can’t happen again.” ABOUT JASMINE CLARK ​ Rep.
 Dr.
 Jasmine Clark was first elected to the Georgia House of Representatives in 2018, flipping a Gwinnett County seat that had been long held by a Republican incumbent.
 Since then, she has been a leading Democratic voice in the legislature, standing up for science, abortion rights, and healthcare as the Republican majority aggressively sought to roll back rights.
@@ -46,3 +50,4 @@ In addition to her legislative service, Dr.
 Clark serves as an Assistant Professor of Biology, working with undergraduate, graduate, and postdoctoral students.
 Born and raised in Georgia and a longtime resident of Lilburn, Jasmine is raising her daughter, Jayda, who attends Gwinnett County Public Schools, and her son Jacobe who is a sophomore in college.
 She is a member of Salem Missionary Baptist Church in Lilburn.
+PRIVACY POLICY If donating by mail make checks payable to: Jasmine Clark for Georgia | 4370 Lawrenceville Hwy #96, Lilburn, GA 30048 PRESS AND POLITICAL INQUIRES: JAKE@JASMINE4GA.COM GENERAL CONTACT: INFO@JASMINE4GA.COM ​ SEND RESUMES TO: RESUMES@JASMINE4GA.COM Paid for by Jasmine Clark for Georgia bottom of page

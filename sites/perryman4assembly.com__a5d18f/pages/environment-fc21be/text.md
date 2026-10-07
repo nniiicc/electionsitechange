@@ -1,4 +1,4 @@
-Wisconsinites love and appreciate our forests, lakes, and rivers.
+Home Platform Endorsements More Home Platform Endorsements Donate Home Platform Endorsements Donate Environment Clean Air and Water Wisconsinites love and appreciate our forests, lakes, and rivers.
 Additionally, they are a major part of our state’s economy, contributing over $11 billion dollars to our state's GDP and supporting close to 100,000 jobs.
 As your representative in the assembly, I will work to support our public lands.
 One critical program in this regard is the Knowles-Nelson Stewardship program, a bipartisan commitment to land and water protection.
@@ -13,5 +13,4 @@ We need to attack this problem on multiple levels, such as statewide vehicle emi
 Finally, it is abundantly clear that human activity is changing Earth’s climate and warming the planet.
 The GOP’s head-in-the-sand approach to this problem (no doubt linked to significant financial support from the fossil fuel industry) places all of us at severe risk.
 I will fight this ignorant approach and work towards slowing this process and mitigating its harms.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Privacy Policy Terms of Service Paid for by Friends of John Perryman PO Box 5, Williams Bay, WI 53191 Powered by

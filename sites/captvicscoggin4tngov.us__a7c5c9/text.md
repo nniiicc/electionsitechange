@@ -1,24 +1,29 @@
-Decisions back to the people.
++1.6154295351 Capt Vic Scoggin for Tennessee Governor Capt Vic Scoggin for Tennessee Governor Capt Vic Scoggin for Tennessee Governor Capt Vic Scoggin for Tennessee Governor Capt Vic Scoggin for Tennessee Governor Capt Vic Scoggin for Tennessee Governor Capt Vic Scoggin for Tennessee Governor Capt Vic Scoggin for Tennessee Governor +1.6154295351 Sign In Create Account Bookings My Account Signed in as: filler@godaddy.com Bookings My Account Sign out Signed in as: filler@godaddy.com Account Bookings My Account Sign out Sign In Bookings My Account Decisions back to the people.
 Republic for which it stands.
-Independent
-Help us campaign today for a better tomorrow!
-https://www.facebook.com/profile.php?id=61587265438321
-POLITICIANS HAVE FAILED U
-Your candidate has been part of this community for 62 years and served this country for 4 years, working tirelessly to make it a better place.
-A VOLUNTEER FIREFIGHTER 43 YEARS Ret, COAST GUARD AUXILLARIST active, TENNESSEE ARMED GUARD active, 100 TON MASTER WESTERN RIVERS CAPT active, US NAVY VETERAN 1977-81, 32 YEAR RETIRED FORD/UAW JOURNEYMAN 1985-2017, PRES/FOUNDER SAVE THE CUMBERLAND INC., est. 1996, FAMILY MAN, Father, Grandfather, FARMER, 32ND GENERATION PATRIOT, CHRISTIAN.
+Independent Decisions back to the people.
+Republic for which it stands.
+Independent Decisions back to the people.
+Republic for which it stands.
+Independent Decisions back to the people.
+Republic for which it stands.
+Independent Decisions back to the people.
+Republic for which it stands.
+Independent Decisions back to the people.
+Republic for which it stands.
+Independent Help us campaign today for a better tomorrow! https://www.facebook.com/profile.php?id=61587265438321 POLITICIANS HAVE FAILED U Send For Pamplet.
+Request for public Conservative speech.
+ULTRA CONSERVATIVE, NOT POLITICAL.
+Serving The Community Your candidate has been part of this community for 62 years and served this country for 4 years, working tirelessly to make it a better place.
+A VOLUNTEER FIREFIGHTER 43 YEARS Ret, COAST GUARD AUXILLARIST active, TENNESSEE ARMED GUARD active, 100 TON MASTER WESTERN RIVERS CAPT active, US NAVY VETERAN 1977-81, 32 YEAR RETIRED FORD/UAW JOURNEYMAN 1985-2017, PRES/FOUNDER SAVE THE CUMBERLAND INC., est.
+1996, FAMILY MAN, Father, Grandfather, FARMER, 32ND GENERATION PATRIOT, CHRISTIAN.
 I swam 696 miles in 1996 on my own dime to draw attention to the pollution of our drinking water source.
 A 30 year fight for the people that deserve clean water.
 Fought a $300 million dollar marina over a federally endangered crayfish, and won.
 I am not funded by anybody.
 Nobody jerks my chain.
-I answer to no one except the Tennessee law abiding taxpayers. https://www.facebook.com/share/p/1QRUn7CJoF/
+I answer to no one except the Tennessee law abiding taxpayers. https://www.facebook.com/share/p/1QRUn7CJoF/ It’s almost here!
 VOTE "NO POLITICIAN" THEY HAVE FAILED US.
-00
-DaysDays
-HrsHours
-MinsMinutes
-SecsSeconds
-Why would we vote for a career politician?
+# # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Show More Don't Vote For A Career Politician Why would we vote for a career politician?
 Just look around.
 Tennessee was the 3rd most violent crime state in the country until Pres Trump stepped in.
 ALL of the politicians and even the governor did nothing and still aren't.
@@ -32,44 +37,37 @@ Homelessness is rampant and is a health and safety issue.
 Campaign spending is out of control ie; Marsha Blackburn has $5 million dollars to spend for 2026 and as a senator she spent $10 million on that campaign.
 Don't you think that these positions are bought?
 Yes they are and that money could go to a better cause.
-$25.00
-American Made hats.
+Find out more My Blog About Us US Constitution Tennessee State Executive Tennessee Constitution https://constitution.congress.gov/constitution/ Learn more Tennessee Constitution Tennessee State Executive Tennessee Constitution https://ballotpedia.org/Tennessee_Constitution Learn more Tennessee State Executive Tennessee State Executive Tennessee State Executive https://ballotpedia.org/Tennessee_state_executive_offices Article III https://ballotpedia.org/Article_III,_Tennessee_Constitution Learn more DATA CENTERS.
+What you need to know. https://www.datacenterwatch.org/report Connect With Us More "Make Tennessee Great Again" coffee cups $25.00 American Made hats.
 Velcro adjusting.
-Coffee cups $25
+Coffee cups $25 Contact Us Drop us a line!
+Name Email* Where did you hear about us?
+Attach Files Attachments (0) Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Better yet, see us in person!
 We love our freedom, we demand our liberty and our pursuit of happiness, we honor our Constitution.
 In God We Trust.
 Feel free to visit our rallies in a town near you.
 Make Tennessee Great Again.
 Make America Great Again, Again.
-| Mon | 12:00 am – 11:45 pm | |
-| Tue | 12:00 am – 11:45 pm | |
-| Wed | 12:00 am – 11:45 pm | |
-| Thu | 12:00 am – 11:45 pm | |
-| Fri | 12:00 am – 11:45 pm | |
-| Sat | 12:00 am – 11:45 pm | |
-| Sun | By Appointment | |
-Contact 24-7, you wont get a recording or an auto pen like the rest.
+Capt Vic Scoggin 4 Tennessee Governor info@captvicscoggin4tngov.us Hours Mon 12:00 am – 11:45 pm Tue 12:00 am – 11:45 pm Wed 12:00 am – 11:45 pm Thu 12:00 am – 11:45 pm Fri 12:00 am – 11:45 pm Sat 12:00 am – 11:45 pm Sun By Appointment Contact 24-7, you wont get a recording or an auto pen like the rest.
 You will get a real answer from a real American Patriot, not a politician.
 Thank you!!
-Capt Vic Scoggin
-1.
+Capt Vic Scoggin Major issues in Tennessee.
+Fund law enforcement 1.
 Tennessee is 3rd in the country for violent crimes.
 2., Give non violent felons their 2nd Amendment and voting rights back.
 3.
-No bail, No plea/ justice system reform
-4.
-Homelessness/Mental illness
-5.
-Property tax reform
-6.
-Illegal immigrants/ English only
-7.
-Healthcare/ No lobbyist
-$40.00
-8.
+No bail, No plea/ justice system reform 4.
+Homelessness/Mental illness 5.
+Property tax reform 6.
+Illegal immigrants/ English only 7.
+Healthcare/ No lobbyist There's more "Make Tennessee Great Again" hats $40.00 Buy Now American Made hats.
+Velcro adjusting.
+Coffee cups $25 More Tennessee Issues 8.
 No Columbia Tn Duck River Dam 9.
 Rico Laws for Antifa and Gangs 10.
-No wait till you're 70 to make unlimited income (Social Security rule) Get all you SS if you die your beneficiaries get it with interest. 11.
+No wait till you're 70 to make unlimited income (Social Security rule) Get all you SS if you die your beneficiaries get it with interest.
+11.
 No Mail in ballots unless overseas in military 12.
 Biodegradable on consumable products, no styrofoam 13.
 Drug testing for government employees 14.
@@ -108,7 +106,8 @@ It's States Rights.
 Put our hard earned money into an account with our name on it, or WE will refuse to have it taken out.
 Then we want it all back with interest when we retire.
 YOU ARE NOT STEALINGOUR MONEY ANYMORE.!!!!!
-Sign up for newsletter and info on rallies
+Sign up for newsletter and info on rallies Email Sign up Get involved!
+Let's form that 10,000 man army.
 Sign up to receive updates from the candidate on the backroads of Tennessee.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Email* Sign up Copyright © # Capt Vic Scoggin 4 Tennessee Governor - All Rights Reserved.
+Powered by

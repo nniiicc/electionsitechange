@@ -1,5 +1,5 @@
-About
-Kevin Ford was born and raised in Maryland, right in the heart of District 42.
+Please enable JavaScript in your browser.
+Donate Menu Home About Issues Volunteer Contact Donate About Kevin Ford was born and raised in Maryland, right in the heart of District 42.
 Kevin is the son of Gary and Ginny Ford and has two brothers, Brandon and David.
 Today, the Ford family lives throughout District 42 in Baltimore and Carroll Counties.
 He began his love of agriculture at nine years old working on a local horse farm.
@@ -16,3 +16,5 @@ Kevin was educated at Loyola Blakefield, Virginia Military Institute, and Towson
 Kevin has served the Baltimore County Fire Department since 2005 and after 3 promotions currently serves as a Fire Lieutenant.
 Kevin volunteers in many community organizations including the Among the Stars Foundation, the Baltimore County Farm Bureau, the Hereford Junior Farm Fair, and as a youth athletics coach.
 Kevin was recently appointed to the Baltimore County Agricultural Advisory Board.
+Home About Issues Volunteer Contact Donate 443-797-7164 P.O.
+Box 11 White Hall, MD 21161 info@friendsofkevinford.com Privacy & Terms Authority: Friends of Kevin Ford, Aimee O’Neill, Treasurer

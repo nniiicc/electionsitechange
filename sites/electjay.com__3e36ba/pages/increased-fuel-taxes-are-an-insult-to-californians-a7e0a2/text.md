@@ -1,12 +1,7 @@
-Last week, Gov.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute Increased Fuel Taxes Are An Insult to Californians experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat Last week, Gov.
 Jerry Brown and his capitol cronies passed their solution to fix our crumbling roads and highways.
 Despite the fact that Californians already pay the highest sales tax, state income tax and the second highest gas taxes in the nation, their solution was to pass Senate Bill 1, the largest gas tax increase in our state’s history.
-SB 1 will raise taxes $5.2 billion annually by:
-• Increasing the gas tax by 19.5 cents per gallon;
-• Increasing the diesel excise tax by 20 cents per gallon;
-• Increasing the diesel sales tax by 4 percent;
-• Creating a new “road user fee” ranging from $25 to $175 annually based on the value of each car;
-• Charging a $100 annual fee to electric vehicles.
+SB 1 will raise taxes $5.2 billion annually by: • Increasing the gas tax by 19.5 cents per gallon; • Increasing the diesel excise tax by 20 cents per gallon; • Increasing the diesel sales tax by 4 percent; • Creating a new “road user fee” ranging from $25 to $175 annually based on the value of each car; • Charging a $100 annual fee to electric vehicles.
 The average family with two cars will be paying over $15 more every time they fill up, not including local and federal taxes.
 This new tax is also indexed for inflation, so costs will continue to rise in the future.
 Including the new “highway user fee” that will be added to our vehicle registration bill, motorists will be paying over $300 more annually in new taxes and fees.
@@ -41,4 +36,4 @@ With our cost of living and tax rates already amongst the highest in the nation,
 After the passage of SB 1, we now pay the highest gas taxes in the country.
 California families should not be forced to pay more at the pump just because the Legislature has failed to prioritize spending.
 This $5.2 billion tax increase is unfair to my constituents and to the people of California.
-Jay Obernolte, R-Hesperia, represents the 33rd District, which includes all of the High Desert, in the California Assembly.
+Jay Obernolte, R-Hesperia, represents the 33rd District, which includes all of the High Desert, in the California Assembly. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

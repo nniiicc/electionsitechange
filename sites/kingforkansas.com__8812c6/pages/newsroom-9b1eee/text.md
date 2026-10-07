@@ -1,30 +1,20 @@
-Facebook Posts
-Halstead Brick Street Arts & Crafts FestivalWhat was your favorite activity or vendor this year? 🧱🧵🧶🌯🍔Held yesterday, the vendors and public could not asked for a better day to celebrate, shop and eat in downtown Halstead.
+Toggle navigation Latest News Meet Mike Volunteer Endorsements Contact Contribute Latest News Newsroom Facebook Posts King For Kansas #ago Halstead Market – A Hometown Grocery and Bakery This has been a staple business on Main Street for over 50 years!
+Owner, Russ Friesen, has been delivering daily fresh bread baked, hand-cut steaks, authentic German sausage, organic produce, and a wide selection of greeting cards paired with knowledgeable staff consistently to the community.
+I grilled the jalapeño cheese sausage this weekend and we will be going back for more!
+With a wide selection of coffee, fresh rolls, and a separate seating area, visitors can enjoy time with friends while shopping local.
+Russ, thanks for showing me your store and for your faithfulness to the community.
+Halstead Market City of Halstead, Kansas Halstead Chamber of Commerce #supportlocal … See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) King For Kansas #ago Moundridge Business Profile – P and M Pumpkin Ranch, LLC 🎃🍁🌻 **What is your favorite activity at P and M Pumpkin Ranch??** Peggy and I recently took our grandkids and had a wonderfully relaxing day watching the pig races, riding the train, watching them enjoy the playground equipment, cutting fresh flowers, and selecting pumpkins in a large acreage field. 🚂🐖🎃🛝 “Here at P & M, gratefulness for our farm, our family & your family are at the heart of everything we do”.
+Their mission is to use their farm to create a family centered environment where you, your family, and your friends, who are like family, can find true joy in spending time together.
+This is a must-visit, family experience.
+Leave your worries behind and enjoy a truly nature-themed experience.
+City Of Moundridge, KS Moundridge Chamber Kansas Tourism Kansas Agritourism … See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) King For Kansas #ago Halstead Brick Street Arts & Crafts Festival What was your favorite activity or vendor this year? 🧱🧵🧶🌯🍔 Held yesterday, the vendors and public could not asked for a better day to celebrate, shop and eat in downtown Halstead.
 These brick streets, laid in 1920, have provided over a century of service to the community, helping to make downtown Halstead an inviting place to visit.
-City of Halstead, Kansas Halstead-Bentley USD 440 School District Halstead Chamber of Commerce
-…
-Goessel Harvest Festival – Fireman’s Pancake breakfast. 🥞A special shout out to the local volunteer fire & rescue team for providing pancakes (blueberry was my favorite) and amazing sausage for the community.
+City of Halstead, Kansas Halstead-Bentley USD 440 School District Halstead Chamber of Commerce … See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) King For Kansas #ago Goessel Harvest Festival – Fireman’s Pancake breakfast. 🥞 A special shout out to the local volunteer fire & rescue team for providing pancakes (blueberry was my favorite) and amazing sausage for the community.
 Proceeds are going to fund a ground lighting for a safe helicopter landing zone.
 Neighbors taking care of neighbors.
-Get Goessel
-…
-2026 Special Committee on Application and Eligibility for Public Assistance Programs I was selected to serve on this Interim committee, providing guidance and oversight to KDHE & DCF executive branch agencies.
+Get Goessel … See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) King For Kansas #ago 2026 Special Committee on Application and Eligibility for Public Assistance Programs I was selected to serve on this Interim committee, providing guidance and oversight to KDHE & DCF executive branch agencies.
 As we prepare for the 2027 legislative session, our goal is to provide client focused value.
 Cleaning up application forms will lead to quicker processing, better accuracy, and benefits delivered timely.
-I think we all agree a 32 page form is a little lengthy. 🗒️
-…
-Hillsboro Business Profile – Grannie’s Homemade Mustard LLCWhat started in a booth at the Hillsboro Arts & Crafts Fair in 1990 has turned into a world wide business.
-They have even served famous customers like Russian President Boris Yeltsin and Senator Nancy Kassebaum served Grannie’s Mustard at a U.S.
-Senate luncheon in Washington D.C.
-Tasty new products are consistently developed and I tried “Sweet & Tangy” on my bierock!
-Supporting local with a nationwide appeal.
-Grannie's Homemade Mustard LLC City of Hillsboro, KS Hillsboro Arts & Crafts Fair
-…
-We will miss seeing all of you at the Hesston homecoming parade this evening.
-Although we know the rain was much needed, we wish the weather would have cooperated for this evening! ☔️⛈️Hesston Chamber
-…
-This content isn't available right now
-When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-- Meet Mike King Fourth-Generation Kansan Seeking Re-Election in District 74 Mike King is a fourth-generation Kansan who still lives on the family farm just outside of Hesston.
+I think we all agree a 32 page form is a little lengthy. 🗒️ … See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Meet Mike King Fourth-Generation Kansan Seeking Re-Election in District 74 Mike King is a fourth-generation Kansan who still lives on the family farm just outside of Hesston.
 Nearly a century ago, his grandfather moved from farming and carpentry into full-time construction across the state — planting a seed that Mike has carried forward ever since.
-That passion for…
+That passion for… Meet Mike Newsroom E-Mail Updates Volunteer Contact Contribute PAID FOR BY MIKE KING FOR STATE REPRESENTATIVE LUALAN WILLEMS, TREASURER

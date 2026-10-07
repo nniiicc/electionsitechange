@@ -1,12 +1,6 @@
-Back to All Events
-Join Alexis & co-hosts Majority Leader Monica Duran, State Senator Lindsey Daugherty, Former CO Senate President Pro-Tem Betty Boyd, State Representatives Rebekah Stewart, and Tammy Story, Lakewood City Councilors Liz Black, Bill Furman, JeffCo School Board member Erin Kenworthy, and Lindsey Rasmussen to share good cheer and strategize about how to effectively turn the tide.
+0 Skip to Content Endorsements Events Voting Guide Media GIVE MONTHLY Open Menu Close Menu Endorsements Events Voting Guide Media GIVE MONTHLY Open Menu Close Menu Endorsements Events Voting Guide Media GIVE MONTHLY Back to All Events Holiday Party Thursday, December 4, 2025 5:30 PM 8:00 PM New Image Brewing 9505 West 44th Avenue Wheat Ridge, CO, 80033 United States (map) Google Calendar ICS Join Alexis & co-hosts Majority Leader Monica Duran, State Senator Lindsey Daugherty, Former CO Senate President Pro-Tem Betty Boyd, State Representatives Rebekah Stewart, and Tammy Story, Lakewood City Councilors Liz Black, Bill Furman, JeffCo School Board member Erin Kenworthy, and Lindsey Rasmussen to share good cheer and strategize about how to effectively turn the tide.
 If you can, please bring a donation of winter clothes, pantry food items, or money for Lakewood Left, the Action Center, and Food Bank of the Rockies!
-RSVP appreciated
-Previous
-Previous
-November 23
-Meet & Greet with Dr.
-Alexis
-Next
-Next
-February 7
+RSVP appreciated Previous Previous November 23 Meet & Greet with Dr.
+Alexis Next Next February 7 Community Canvass Contact Alexis Map of District 23 Register to Vote Donate Site paid for by Alexis for Colorado.
+Registered agent: Alexis Hoffkling.
+Website designed by MHW Consulting, L.L.C.

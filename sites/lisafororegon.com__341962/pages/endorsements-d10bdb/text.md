@@ -1,31 +1,3 @@
-ENDORSEMENTS (2026!)
-Nurses!
-Oregon Nurses Association and Oregon Federation of Nurses and Health Professionals (OFNHP)
-American Federation of State, County, and Municipal Employees (AFSCME)
-Oregon State Firefighters Council
-Oregon Labor Federation, AFL-CIO
-314 Action Fund (Electing scientists to office)
-Oregon State Building and Construction Trades Council
-North Coast States Carpenters Union
-United Food & Commercial Workers (UFCW)
-Service Employees International Union (SEIU)
-Basic Rights Oregon PAC
-Planned Parenthood Action Oregon
-Multifamily NW
-Stand for Children
-Teachers!
-Oregon Education Association, Portland Association of Teachers, Beaverton Education Association
-Moms Demand Action - Gun Sense Candidate
-US Senators Ron Wyden & Jeff Merkley
-US Congresswomen Suzanne Bonamici & Maxine Dexter, MD
-Former Oregon Governor John Kitzhaber, MD
-Oregon Governor Tina Kotek
-Oregon Attorney General Dan Rayfield
-Oregon State Treasurer Elizabeth Steiner, MD
-Oregon State Senate President Rob Wagner
-Oregon State Senator Kate Lieber
-Oregon State Representatives Shannon Jones Isadore, Rob Nosse, & Mari Watanabe
-Metro Councilor Juan Carlos Gonzalez
-Beaverton Mayor Lacey Beaty
-Portland Mayor Keith Wilson
-Portland City Councillors Eric Zimmerman & Olivia Clark
+0 Skip to Content About Lisa Priorities Endorsements Get Involved Donate Open Menu Close Menu About Lisa Priorities Endorsements Get Involved Donate Open Menu Close Menu About Lisa Priorities Endorsements Get Involved Donate ENDORSEMENTS (2026!) Willamette Week! (the May 2026 primary) Portland Mercury! (the May 2026 primary) Nurses!
+Oregon Nurses Association and Oregon Federation of Nurses and Health Professionals (OFNHP) American Federation of State, County, and Municipal Employees (AFSCME) Oregon State Firefighters Council Oregon Labor Federation, AFL-CIO 314 Action Fund (Electing scientists to office) Oregon State Building and Construction Trades Council North Coast States Carpenters Union United Food & Commercial Workers (UFCW) Service Employees International Union (SEIU) Basic Rights Oregon PAC Planned Parenthood Action Oregon Multifamily NW Stand for Children Teachers!
+Oregon Education Association, Portland Association of Teachers, Beaverton Education Association Moms Demand Action - Gun Sense Candidate US Senators Ron Wyden & Jeff Merkley US Congresswomen Suzanne Bonamici & Maxine Dexter, MD Former Oregon Governor John Kitzhaber, MD Oregon Governor Tina Kotek Oregon Attorney General Dan Rayfield Oregon State Treasurer Elizabeth Steiner, MD Oregon State Senate President Rob Wagner Oregon State Senator Kate Lieber Oregon State Representatives Shannon Jones Isadore, Rob Nosse, & Mari Watanabe Metro Councilor Juan Carlos Gonzalez Beaverton Mayor Lacey Beaty Portland Mayor Keith Wilson Portland City Councillors Eric Zimmerman & Olivia Clark Contact lisa@lisafororegon.com Donate Sign Up Follow

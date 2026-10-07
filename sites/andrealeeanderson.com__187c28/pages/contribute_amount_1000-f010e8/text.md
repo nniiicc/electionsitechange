@@ -1,6 +1,6 @@
-Contribute
-Campaign laws allow up to $5,900. from an individual or a PAC for each campaign - the primary and the general election.
+Meet Andrea Issues News Volunteer Contribute Contribute Campaign laws allow up to $5,900. from an individual or a PAC for each campaign - the primary and the general election.
 Any amount you give will be gratefully received.
 We need to get out the message of freedom.
-Committee to Elect Andrea Anderson
-Powered by CampaignPartner.com - Political Campaign Websites
+Complete your $ 1000 contribution: Select Your Information Choose an amount: $10 $15 $25 $50 $100 $250 $500 $1000 $1500 Other Amount $ Choose payment method: Credit Card First Name * Last Name * Email * Phone Street Address Address Line 2 City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip Occupation * Employer * I would like to make a financial contribution Please add me to your list of supporters I would like to volunteer I would like to canvass Get updates and news via email Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution Endorsements Yard Signs Events Photos Contact Committee to Elect Andrea Anderson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrea Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu

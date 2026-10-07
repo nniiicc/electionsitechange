@@ -1,54 +1,234 @@
 [
-"http://townofchesterfieldma.com/",
-"https://bsky.app/profile/sabadosama.bsky.social",
-"https://burgy.org/",
-"https://cummington-ma.gov/",
-"https://facebook.com/LSabadosaMA",
-"https://google.com/url?cd=vfe&psig=AOvVaw0IbdHrqrv9fzohxChsDmgA&sa=i&url=https%3A%2F%2Fwww.gazettenet.com%2FWhat-s-happening-with-downtown-business-27743502&ust=1645046995136000&ved=0CAwQjhxqFwoTCMC78OLTgvYCFQAAAAAdAAAAABAD",
-"https://goshen-ma.us/",
-"https://instagram.com/sabadosama",
-"https://lindsaysabadosa.com/",
-"https://lindsaysabadosa.com/about",
-"https://lindsaysabadosa.com/accessing-health-care",
-"https://lindsaysabadosa.com/advocacy-news",
-"https://lindsaysabadosa.com/caucuses-",
-"https://lindsaysabadosa.com/citation-request",
-"https://lindsaysabadosa.com/committees-copy",
-"https://lindsaysabadosa.com/committeevotes",
-"https://lindsaysabadosa.com/constituent-case-work",
-"https://lindsaysabadosa.com/contact-us",
-"https://lindsaysabadosa.com/criminal-justice-1",
-"https://lindsaysabadosa.com/democracy",
-"https://lindsaysabadosa.com/education-1",
-"https://lindsaysabadosa.com/events-1",
-"https://lindsaysabadosa.com/food-insecurity",
-"https://lindsaysabadosa.com/fuel-assistance",
-"https://lindsaysabadosa.com/giving-and-receiving-aid",
-"https://lindsaysabadosa.com/health-care-1",
-"https://lindsaysabadosa.com/housing-1",
-"https://lindsaysabadosa.com/housing-2",
-"https://lindsaysabadosa.com/immigration",
-"https://lindsaysabadosa.com/intern-with-us",
-"https://lindsaysabadosa.com/labor",
-"https://lindsaysabadosa.com/local-bills-1",
-"https://lindsaysabadosa.com/medicine-disposal",
-"https://lindsaysabadosa.com/new-page-5",
-"https://lindsaysabadosa.com/our-district",
-"https://lindsaysabadosa.com/our-team-1",
-"https://lindsaysabadosa.com/protecting-privacy-1",
-"https://lindsaysabadosa.com/public-health",
-"https://lindsaysabadosa.com/tax-assistance",
-"https://lindsaysabadosa.com/transportation-2",
-"https://lindsaysabadosa.com/working-with-state-agencies",
-"https://malegislature.gov/Laws/SessionLaws/Acts/2021/Chapter83",
-"https://meekins-library.org/Pages/Index/183688/history-of-the-libraries",
-"https://northamptonma.gov/",
-"https://pinterest.com/pin/489836896946077536",
-"https://plainfield-ma.us/",
-"https://thetrustees.org/place/william-cullen-bryant-homestead",
-"https://townofhatfield.org/",
-"https://trailfinder.info/trails/trail/chesterfield-gorge-natural-area",
-"https://visitma.com/blog/2012/08/best-of-western-mas-outdoors-d-a-r-state-forest",
-"https://westhampton-ma.com/",
-"https://worthington-ma.us/"
+{
+"text": "ACCESSING HEALTH CARE",
+"href": "https://www.lindsaysabadosa.com/accessing-health-care"
+},
+{
+"text": "ADVOCACY & NEWS",
+"href": "https://www.lindsaysabadosa.com/advocacy-news"
+},
+{
+"text": "ASK FOR HELP",
+"href": "https://www.lindsaysabadosa.com/constituent-case-work"
+},
+{
+"text": "BIO",
+"href": "https://www.lindsaysabadosa.com/about"
+},
+{
+"text": "CAUCUSES",
+"href": "https://www.lindsaysabadosa.com/caucuses-"
+},
+{
+"text": "CITATION REQUEST",
+"href": "https://www.lindsaysabadosa.com/citation-request"
+},
+{
+"text": "CIVIL RIGHTS & DEMOCRACY",
+"href": "https://www.lindsaysabadosa.com/democracy"
+},
+{
+"text": "CLIMATE",
+"href": "https://www.lindsaysabadosa.com/new-page-5"
+},
+{
+"text": "COMMISSIONS",
+"href": "https://www.lindsaysabadosa.com/committees-copy"
+},
+{
+"text": "COMMITTEES",
+"href": "https://www.lindsaysabadosa.com/committeevotes"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.lindsaysabadosa.com/contact-us"
+},
+{
+"text": "CRIMINAL JUSTICE",
+"href": "https://www.lindsaysabadosa.com/criminal-justice-1"
+},
+{
+"text": "Chapter 83 of the Acts of 2021",
+"href": "https://malegislature.gov/Laws/SessionLaws/Acts/2021/Chapter83"
+},
+{
+"text": "Chesterfield",
+"href": "http://www.townofchesterfieldma.com"
+},
+{
+"text": "Cummington",
+"href": "https://www.cummington-ma.gov/"
+},
+{
+"text": "Daily Hampshire Gazette",
+"href": "https://www.google.com/url?cd=vfe&psig=AOvVaw0IbdHrqrv9fzohxChsDmgA&sa=i&url=https%3A%2F%2Fwww.gazettenet.com%2FWhat-s-happening-with-downtown-business-27743502&ust=1645046995136000&ved=0CAwQjhxqFwoTCMC78OLTgvYCFQAAAAAdAAAAABAD"
+},
+{
+"text": "EDUCATION",
+"href": "https://www.lindsaysabadosa.com/education-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.lindsaysabadosa.com/events-1"
+},
+{
+"text": "FOOD INSECURITY",
+"href": "https://www.lindsaysabadosa.com/food-insecurity"
+},
+{
+"text": "FUEL ASSISTANCE",
+"href": "https://www.lindsaysabadosa.com/fuel-assistance"
+},
+{
+"text": "GIVING AND RECEIVING AID",
+"href": "https://www.lindsaysabadosa.com/giving-and-receiving-aid"
+},
+{
+"text": "Goshen",
+"href": "https://www.goshen-ma.us/"
+},
+{
+"text": "HOME",
+"href": "https://www.lindsaysabadosa.com/"
+},
+{
+"text": "HOUSING",
+"href": "https://www.lindsaysabadosa.com/housing-1"
+},
+{
+"text": "HOUSING",
+"href": "https://www.lindsaysabadosa.com/housing-2"
+},
+{
+"text": "Hatfield",
+"href": "https://www.townofhatfield.org/"
+},
+{
+"text": "IMMIGRATION",
+"href": "https://www.lindsaysabadosa.com/immigration"
+},
+{
+"text": "INTERN WITH US",
+"href": "https://www.lindsaysabadosa.com/intern-with-us"
+},
+{
+"text": "LABOR",
+"href": "https://www.lindsaysabadosa.com/labor"
+},
+{
+"text": "LOCAL BILLS",
+"href": "https://www.lindsaysabadosa.com/local-bills-1"
+},
+{
+"text": "MEDICINE DISPOSAL",
+"href": "https://www.lindsaysabadosa.com/medicine-disposal"
+},
+{
+"text": "Meekins Library Website",
+"href": "https://www.meekins-library.org/Pages/Index/183688/history-of-the-libraries"
+},
+{
+"text": "Northampton",
+"href": "https://www.northamptonma.gov/"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.lindsaysabadosa.com/our-district"
+},
+{
+"text": "OUR TEAM",
+"href": "https://www.lindsaysabadosa.com/our-team-1"
+},
+{
+"text": "PROTECTING PRIVACY",
+"href": "https://www.lindsaysabadosa.com/protecting-privacy-1"
+},
+{
+"text": "PUBLIC HEALTH",
+"href": "https://www.lindsaysabadosa.com/public-health"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/pin/489836896946077536/"
+},
+{
+"text": "Plainfield",
+"href": "https://plainfield-ma.us/"
+},
+{
+"text": "REPRODUCTIVE AND MATERNAL HEALTH CARE",
+"href": "https://www.lindsaysabadosa.com/health-care-1"
+},
+{
+"text": "TAX ASSISTANCE",
+"href": "https://www.lindsaysabadosa.com/tax-assistance"
+},
+{
+"text": "TRANSPORTATION",
+"href": "https://www.lindsaysabadosa.com/transportation-2"
+},
+{
+"text": "The Trustees",
+"href": "https://thetrustees.org/place/william-cullen-bryant-homestead/"
+},
+{
+"text": "Town of Plainfield website",
+"href": "https://plainfield-ma.us"
+},
+{
+"text": "Town of Westhampton Website",
+"href": "https://www.westhampton-ma.com"
+},
+{
+"text": "Town of Worthington Website",
+"href": "https://worthington-ma.us/"
+},
+{
+"text": "TrailFinder",
+"href": "https://www.trailfinder.info/trails/trail/chesterfield-gorge-natural-area"
+},
+{
+"text": "VisitMA",
+"href": "https://www.visitma.com/blog/2012/08/best-of-western-mas-outdoors-d-a-r-state-forest/"
+},
+{
+"text": "WORKING WITH STATE AGENCIES",
+"href": "https://www.lindsaysabadosa.com/working-with-state-agencies"
+},
+{
+"text": "Westhampton",
+"href": "https://www.westhampton-ma.com/"
+},
+{
+"text": "Williamsburg",
+"href": "https://www.burgy.org/"
+},
+{
+"text": "[image: Chesterfield Gorge]",
+"href": "https://www.trailfinder.info/trails/trail/chesterfield-gorge-natural-area"
+},
+{
+"text": "[image: DAR State Park]",
+"href": "https://www.visitma.com/blog/2012/08/best-of-western-mas-outdoors-d-a-r-state-forest/"
+},
+{
+"text": "[image: LINDSAY SABADOSA]",
+"href": "https://www.lindsaysabadosa.com/"
+},
+{
+"text": "[image]",
+"href": "https://plainfield-ma.us"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sabadosama.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LSabadosaMA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sabadosama/"
+}
 ]

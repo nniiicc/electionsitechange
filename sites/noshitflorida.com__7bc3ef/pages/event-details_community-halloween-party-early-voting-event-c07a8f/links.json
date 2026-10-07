@@ -1,17 +1,70 @@
 [
-"https://cindybanyai.com/",
-"https://cindybanyai.com/about",
-"https://cindybanyai.com/blank",
-"https://cindybanyai.com/blank-1",
-"https://cindybanyai.com/blog",
-"https://cindybanyai.com/event-list",
-"https://cindybanyai.com/privacy-policy",
-"https://facebook.com/DrCindyBanyai",
-"https://instagram.com/drcindybanyai?hl=en",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cindybanyai.com%2Fevent-details%2Fcommunity-halloween-party-early-voting-event",
-"https://secure.actblue.com/donate/cindy-banyai-1",
-"https://tiktok.com/@cindylynbanyai",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.cindybanyai.com%2Fevent-details%2Fcommunity-halloween-party-early-voting-event&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/Cindy_Banyai_FL",
-"https://youtube.com/channel/UCvsTAQTIHkc-0MEyyDCBdjA"
+{
+"text": "ABOUT CINDY",
+"href": "https://www.cindybanyai.com/about"
+},
+{
+"text": "BOLD ACTION",
+"href": "https://www.cindybanyai.com/blank-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/cindy-banyai-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.cindybanyai.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.cindybanyai.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.cindybanyai.com/blog"
+},
+{
+"text": "NO SHIT",
+"href": "https://www.cindybanyai.com/blank"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cindybanyai.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://secure.actblue.com/donate/cindy-banyai-1"
+},
+{
+"text": "VOTE@CINDYBANYAI.COM",
+"href": "mailto:VOTE@CINDYBANYAI.COM"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DrCindyBanyai"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/drcindybanyai/?hl=en"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@cindylynbanyai"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/Cindy_Banyai_FL"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCvsTAQTIHkc-0MEyyDCBdjA"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.cindybanyai.com%2Fevent-details%2Fcommunity-halloween-party-early-voting-event&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cindybanyai.com%2Fevent-details%2Fcommunity-halloween-party-early-voting-event"
+}
 ]

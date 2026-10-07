@@ -1,11 +1,38 @@
 [
-"https://facebook.com/RepAdlineClarke",
-"https://msn.com/en-us/health/pregnancyparenting/prefiled-bill-aimed-at-addressing-absentee-voting-challenges-for-disabled-voters/ar-AA1QfDVg?ocid=BingNewsSerp",
-"https://voteadline.com/",
-"https://voteadline.com/about-adline",
-"https://voteadline.com/am-i-in-district-97",
-"https://voteadline.com/gallery",
-"https://voteadline.com/let-me-hear-from-you",
-"https://voteadline.com/my-record",
-"https://voteadline.com/platform"
+{
+"text": "ABOUT ADLINE",
+"href": "https://www.voteadline.com/about-adline"
+},
+{
+"text": "CONTACT",
+"href": "https://www.voteadline.com/let-me-hear-from-you"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://www.voteadline.com/am-i-in-district-97"
+},
+{
+"text": "GALLERY",
+"href": "https://www.voteadline.com/gallery"
+},
+{
+"text": "HOME",
+"href": "https://www.voteadline.com"
+},
+{
+"text": "MY RECORD",
+"href": "https://www.voteadline.com/my-record"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.voteadline.com/platform"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/RepAdlineClarke/"
+},
+{
+"text": "here",
+"href": "https://www.msn.com/en-us/health/pregnancyparenting/prefiled-bill-aimed-at-addressing-absentee-voting-challenges-for-disabled-voters/ar-AA1QfDVg?ocid=BingNewsSerp"
+}
 ]

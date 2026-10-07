@@ -1,14 +1,62 @@
 [
-"https://facebook.com/thomas.hearts",
-"https://facebook.com/tomlovelee",
-"https://instagram.com/tomlovelee",
-"https://linkedin.com/in/thomashearts",
-"https://tiktok.com/@thomas_hearts",
-"https://voteloveheart.com/",
-"https://voteloveheart.com/donate",
-"https://voteloveheart.com/get-involved",
-"https://voteloveheart.com/have-a-convo",
-"https://voteloveheart.com/issues",
-"https://x.com/tomleelove",
-"https://youtube.com/@ThomasLoveheart"
+{
+"text": "Connect",
+"href": "https://www.voteloveheart.com/have-a-convo"
+},
+{
+"text": "Donate",
+"href": "https://www.voteloveheart.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voteloveheart.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.voteloveheart.com/issues"
+},
+{
+"text": "Meet Thomas",
+"href": "https://www.voteloveheart.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/thomas.hearts"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/tomlovelee"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/tomlovelee/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/thomashearts/"
+},
+{
+"text": "[image: Thomas Lee Monroe Loveheart for Utah]",
+"href": "https://www.voteloveheart.com"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@thomas_hearts"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@thomas_hearts"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/tomleelove"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@ThomasLoveheart"
+},
+{
+"text": "tomleemonroe@gmail.com",
+"href": "mailto:tomleemonroe@gmail.com"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Join the Minnesota precinct caucus on February 3rd at 7 PM to shape the future of our party and make your voice heard!",
  "final_url": "https://lobergformnhouse.com/caucus",
+ "fingerprint": "139a20a5e421121b55b4395ecf7d856a9e1c7deb",
+ "format": 3,
  "paid_for_by": "paid for by Loberg For MN House, P",
  "title": "Caucus",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

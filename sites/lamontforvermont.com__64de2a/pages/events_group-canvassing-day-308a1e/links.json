@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Group+Canvassing+Day+&dates=20221023T170000Z%2F20221023T200000Z",
-"https://facebook.com/lamontforvermont",
-"https://instagram.com/lamontforvermont",
-"https://lamontforvermont.com/",
-"https://lamontforvermont.com/about",
-"https://lamontforvermont.com/cart",
-"https://lamontforvermont.com/endorsements",
-"https://lamontforvermont.com/events",
-"https://lamontforvermont.com/events/group-canvassing-day?format=ical",
-"https://lamontforvermont.com/events/meet-and-greet-with-peter-welch",
-"https://lamontforvermont.com/events/virtual-phone-bank-party",
-"https://lamontforvermont.com/get-involved",
-"https://lamontforvermont.com/issues",
-"https://linkedin.com/in/saudia-lamont-vermont",
-"https://mobilize.us/saudialamontforvermont/event/529741?referring_vol=5624996&share_context=dashboard-event-details&sharer_role=SharerRole.ORGANIZER",
-"https://secure.actblue.com/donate/lamont-for-vermont-1",
-"https://sos.vermont.gov/elections/voters/registration"
+{
+"text": "0",
+"href": "https://www.lamontforvermont.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lamontforvermont.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.lamontforvermont.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.lamontforvermont.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lamont-for-vermont-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lamontforvermont.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.lamontforvermont.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Group+Canvassing+Day+&dates=20221023T170000Z%2F20221023T200000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.lamontforvermont.com/events/group-canvassing-day?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.lamontforvermont.com/issues"
+},
+{
+"text": "Next Next October 24 Virtual Phone Bank Party",
+"href": "https://www.lamontforvermont.com/events/virtual-phone-bank-party"
+},
+{
+"text": "Please register here.",
+"href": "https://www.mobilize.us/saudialamontforvermont/event/529741/?referring_vol=5624996&share_context=dashboard-event-details&sharer_role=SharerRole.ORGANIZER"
+},
+{
+"text": "Previous Previous October 17 Meet and Greet with Peter Welch",
+"href": "https://www.lamontforvermont.com/events/meet-and-greet-with-peter-welch"
+},
+{
+"text": "Register to vote",
+"href": "https://sos.vermont.gov/elections/voters/registration/"
+},
+{
+"text": "[image: Saudia LaMont for Vermont]",
+"href": "https://www.lamontforvermont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lamontforvermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lamontforvermont/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/saudia-lamont-vermont/"
+}
 ]

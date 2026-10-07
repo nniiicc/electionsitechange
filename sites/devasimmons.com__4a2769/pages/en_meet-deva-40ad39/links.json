@@ -1,14 +1,66 @@
 [
-"https://devasimmons.com/en",
-"https://devasimmons.com/en/contact",
-"https://devasimmons.com/en/events",
-"https://devasimmons.com/en/gallery",
-"https://devasimmons.com/en/get-involved",
-"https://devasimmons.com/en/issues",
-"https://devasimmons.com/en/meet-deva",
-"https://facebook.com/profile.php?id=61577167209866",
-"https://forms.gle/q83PJFjN6c2Mxc5x9",
-"https://givebutter.com/cBaU50",
-"https://instagram.com/devasimmonsnpa",
-"https://tiktok.com/@deva.simmons.npa"
+{
+"text": "Contact",
+"href": "https://www.devasimmons.com/en/contact"
+},
+{
+"text": "Donate",
+"href": "https://givebutter.com/cBaU50"
+},
+{
+"text": "Donate Now",
+"href": "https://givebutter.com/cBaU50"
+},
+{
+"text": "Events",
+"href": "https://www.devasimmons.com/en/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.devasimmons.com/en/gallery"
+},
+{
+"text": "Get Involved",
+"href": "https://www.devasimmons.com/en/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.devasimmons.com/en"
+},
+{
+"text": "Issues",
+"href": "https://www.devasimmons.com/en/issues"
+},
+{
+"text": "Meet Deva",
+"href": "https://www.devasimmons.com/en/meet-deva"
+},
+{
+"text": "Support the Campaign",
+"href": "https://givebutter.com/cBaU50"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/q83PJFjN6c2Mxc5x9"
+},
+{
+"text": "[image: Deva Simmons]Deva SimmonsFor Congress",
+"href": "https://www.devasimmons.com/en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577167209866"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/devasimmonsnpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@deva.simmons.npa"
+},
+{
+"text": "deva4congress@gmail.com",
+"href": "mailto:deva4congress@gmail.com"
+}
 ]

@@ -1,7 +1,50 @@
 [
-"https://electluc.org/",
-"https://electluc.org/about-luc",
-"https://electluc.org/privacy",
-"https://electluc.org/terms",
-"https://secure.actblue.com/donate/luc-jasmin-1"
+{
+"text": "About Luc",
+"href": "https://electluc.org/about-luc"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/luc-jasmin-1"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/luc-jasmin-1"
+},
+{
+"text": "Endorsements",
+"href": "https://electluc.org/#endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://electluc.org/#volunteer"
+},
+{
+"text": "Home",
+"href": "https://electluc.org/"
+},
+{
+"text": "Priorities",
+"href": "https://electluc.org/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electluc.org/privacy"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://electluc.org/terms"
+},
+{
+"text": "What's At Stake",
+"href": "https://electluc.org/#stakes"
+},
+{
+"text": "[image: Luc Jasmin III for State Representative — 3rd LD]",
+"href": "https://electluc.org/"
+},
+{
+"text": "info@electluc.org",
+"href": "mailto:info@electluc.org"
+}
 ]

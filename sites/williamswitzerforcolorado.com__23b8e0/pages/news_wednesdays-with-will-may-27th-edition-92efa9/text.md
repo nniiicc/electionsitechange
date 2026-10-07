@@ -1,5 +1,4 @@
-Rings and Responsibilities (My First Job)
-We’re almost to June and Colorado’s temperatures are definitely reflecting that now.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (May 27th Edition) 27 May Wednesday, 5:00 PM · 2026 Wednesdays With Will (May 27th Edition) Rings and Responsibilities (My First Job) We’re almost to June and Colorado’s temperatures are definitely reflecting that now.
 With the added pressure, it reminds me of my first job as a freshman in high school.
 I worked at a tuxedo and jewelry store doing rentals and sales.
 In that industry there are major expectations.
@@ -24,9 +23,8 @@ Your involvement.
 All of these factors are what can Move Colorado Forward.
 We are looking for canvassers, callers, and more to join our campaign.
 If you are interested in learning more or signing up, please do not hesitate to contact me.
-Ways to participate:
-(1) Email your name/contact info to: william@williamswitzerforcolorado.com with an “I Want to Volunteer” subject.
-(2) Register to volunteer on our website: https://www.williamswitzerforcolorado.com/volunteer
-(3) Show up to our Campaign Kickoff this Saturday!
+Ways to participate: (1) Email your name/contact info to: william@williamswitzerforcolorado.com with an “I Want to Volunteer” subject.
+(2) Register to volunteer on our website: https://www.williamswitzerforcolorado.com/volunteer (3) Show up to our Campaign Kickoff this Saturday!
 We’ll have signup sheets for specific volunteer events and ways you can get involved.
 The invitation with more information is below.
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

@@ -1,8 +1,4 @@
-Building a better Baker Act, one legislative session at a time
-Orlando Sentinel (Florida)
-August 21, 2023 Monday
-ROP Edition
-The Baker Act was groundbreaking when it first passed in the early 1970s because it created new protections for individuals with mental illness while getting them treatment.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu Latest News Building a better Baker Act, one legislative session at a time August 21, 2023 / in News / by David Silvers Orlando Sentinel (Florida) August 21, 2023 Monday ROP Edition The Baker Act was groundbreaking when it first passed in the early 1970s because it created new protections for individuals with mental illness while getting them treatment.
 Today, it is still a very important part of Florida law for that same reason.
 The Baker Act allows individuals believed to have a mental illness who are dangerous to oneself or others to be deprived of liberty so that they can be medically assessed and stabilized.
 It’s a complicated law, and it interacts with many other laws governing schools, nursing homes and hospitals – places where individuals may be found in serious need of help.
@@ -22,5 +18,4 @@ Looking forward to my final year in the House of Representatives before being te
 I filed another bill on this subject this year that did not pass, which would increase behavioral health performance requirements for Medicaid managed care plans covering children.
 In 2024, re-filing this bill and making sure children get the help they need will be among my top priorities.
 State Rep.
-David Silvers,
-D-West Palm Beach, represents District 89 in the Florida House of Representatives.
+David Silvers , D-West Palm Beach, represents District 89 in the Florida House of Representatives. https://www.votedavidsilvers.com/wp-content/uploads/2025/06/images.jpg 168 299 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2023-08-21 21:27:17 2025-06-17 17:43:56 Building a better Baker Act, one legislative session at a time Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Link to: More work ahead on Fla. mental health laws More work ahead on Fla. mental health laws Link to: 20 current, former lawmakers endorse David Silvers for Senate 20 current, former lawmakers endorse David Silvers for Senate Scroll to top Scroll to top

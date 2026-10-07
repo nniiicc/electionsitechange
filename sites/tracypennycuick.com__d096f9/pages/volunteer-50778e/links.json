@@ -1,14 +1,54 @@
 [
-"https://facebook.com/Tracy4PA",
-"https://instagram.com/tracypennycuickforstatesenate",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://secure.winred.com/friends-of-tracy-pennycuick/donate-today",
-"https://tracypennycuick.com/",
-"https://tracypennycuick.com/about",
-"https://tracypennycuick.com/cdn-cgi/l/email-protection",
-"https://tracypennycuick.com/endorsements",
-"https://tracypennycuick.com/issues",
-"https://tracypennycuick.com/privacy-policy",
-"https://tracypennycuick.com/volunteer",
-"https://x.com/tracy4pa"
+{
+"text": "About",
+"href": "https://www.tracypennycuick.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-tracy-pennycuick/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tracypennycuick.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.tracypennycuick.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.tracypennycuick.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tracypennycuick.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tracypennycuick.com/volunteer/"
+},
+{
+"text": "Vote by Mail",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://www.facebook.com/Tracy4PA"
+},
+{
+"text": "[image: Instagram icon]",
+"href": "https://www.instagram.com/tracypennycuickforstatesenate/"
+},
+{
+"text": "[image: Mail icon] [email protected]",
+"href": "mailto:info@tracypennycuick.com"
+},
+{
+"text": "[image]",
+"href": "https://www.tracypennycuick.com/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/tracy4pa%20"
+}
 ]

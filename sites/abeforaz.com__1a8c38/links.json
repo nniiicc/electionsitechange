@@ -1,22 +1,102 @@
 [
-"https://abeforaz.com/",
-"https://abeforaz.com/about",
-"https://abeforaz.com/contact-us",
-"https://abeforaz.com/media",
-"https://abeforaz.com/mobile-terms",
-"https://abeforaz.com/our-issues",
-"https://abeforaz.com/privacy-policy",
-"https://abeforaz.com/terms-of-use",
-"https://abeforaz.com/volunteer",
-"https://facebook.com/abeforaz",
-"https://instagram.com/abrahamhamadeh",
-"https://secure.winred.com/abe-for-arizona/donate",
-"https://secure.winred.com/abe-for-arizona/donate?amount=100",
-"https://secure.winred.com/abe-for-arizona/donate?amount=25",
-"https://secure.winred.com/abe-for-arizona/donate?amount=250",
-"https://secure.winred.com/abe-for-arizona/donate?amount=50",
-"https://secure.winred.com/abe-for-arizona/donate?amount=75",
-"https://secure.winred.com/abe-for-arizona/donate?exitintent=true",
-"https://x.com/AbrahamHamadeh",
-"https://youtube.com/channel/UCF71fYnHkCg3E53PGP_no6A"
+{
+"text": "$100",
+"href": "https://secure.winred.com/abe-for-arizona/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/abe-for-arizona/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/abe-for-arizona/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/abe-for-arizona/donate?amount=50"
+},
+{
+"text": "$75",
+"href": "https://secure.winred.com/abe-for-arizona/donate?amount=75"
+},
+{
+"text": "About",
+"href": "https://www.abeforaz.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.abeforaz.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/abe-for-arizona/donate"
+},
+{
+"text": "HELP SEND ABE TO CONGRESS >",
+"href": "https://secure.winred.com/abe-for-arizona/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.abeforaz.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.abeforaz.com/our-issues/"
+},
+{
+"text": "Join the happy warrior team > [image]",
+"href": "https://secure.winred.com/abe-for-arizona/donate?exitintent=true"
+},
+{
+"text": "MEDIA",
+"href": "https://www.abeforaz.com/media/"
+},
+{
+"text": "Mobile Terms",
+"href": "https://www.abeforaz.com/mobile-terms/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/abe-for-arizona/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.abeforaz.com/privacy-policy/"
+},
+{
+"text": "RE-ELECT ABE HAMADEH >",
+"href": "https://secure.winred.com/abe-for-arizona/donate"
+},
+{
+"text": "Terms",
+"href": "https://www.abeforaz.com/terms-of-use/"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.abeforaz.com/terms-of-use/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.abeforaz.com/volunteer/"
+},
+{
+"text": "[image: Abe Hamadeh for Congress]",
+"href": "https://www.abeforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/abeforaz"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/abrahamhamadeh/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCF71fYnHkCg3E53PGP_no6A"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AbrahamHamadeh"
+}
 ]

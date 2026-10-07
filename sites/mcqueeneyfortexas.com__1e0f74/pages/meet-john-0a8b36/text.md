@@ -1,6 +1,4 @@
-Meet John McQueeney
-Business Leader | Family Man | Neighbor
-John McQueeney brings to the Texas House a perspective shaped by years of building a family, a career, and a community presence in Fort Worth.
+Skip to content Menu Home Meet John Issues Volunteer Contribute Contact Endorsements X Instagram Facebook Menu Home Meet John Issues Volunteer Contribute Contact Endorsements X Instagram Facebook Meet John McQueeney Business Leader | Family Man | Neighbor John McQueeney brings to the Texas House a perspective shaped by years of building a family, a career, and a community presence in Fort Worth.
 His background as a business owner, volunteer, and parent informs a steady, practical approach to public service and a clear understanding of the people he represents.
 First elected in 2024, Rep.
 John McQueeney serves House District 97, which includes Fort Worth, Benbrook, White Settlement, Crowley, and portions of southwest Tarrant County.
@@ -20,11 +18,12 @@ The McQueeneys are active at St.
 Patrick’s Cathedral, and when he is not at the Capitol, John is usually cheering on TCU football, traveling, or spending time with family and friends.
 At his core, John is a husband, father, and neighbor who believes in showing up, following through, and treating people with respect.
 His motivation is simple: protect the community he calls home, uphold conservative values, and keep Texas strong, safe, and prosperous for generations to come.
-Contribute Today
-Sign up for Updates
-*By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information from John McQueeney Campaign.
+Contribute Today $100 $250 $500 Other Sign up for Updates I consent to receive automated text messages from John McQueeney Campaign Sign Up *By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information from John McQueeney Campaign.
 By participating, you agree to the terms & privacy policy for auto-dialed marketing messages to the phone number you provide.
 Message & data rates may apply.
 For Subscriber help, reply with “HELP”.
 To opt-out reply with “STOP”.
 Message frequency may vary.
+Facebook X-twitter Instagram Privacy Policy Terms & Conditions Pd.
+Pol.
+Ad. by John McQueeney Campaign © # John McQueeney Campaign

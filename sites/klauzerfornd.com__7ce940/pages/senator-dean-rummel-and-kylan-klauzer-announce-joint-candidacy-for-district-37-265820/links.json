@@ -1,9 +1,34 @@
 [
-"https://klauzerfornd.com/",
-"https://klauzerfornd.com/category/press-release",
-"https://klauzerfornd.com/contact",
-"https://klauzerfornd.com/get-involved",
-"https://klauzerfornd.com/home",
-"https://klauzerfornd.com/news",
-"https://secure.winred.com/klauzer-for-nd/donate"
+{
+"text": "Contact",
+"href": "https://klauzerfornd.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/klauzer-for-nd/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://klauzerfornd.com/get-involved/"
+},
+{
+"text": "MEET KYLAN",
+"href": "https://klauzerfornd.com/home/#about"
+},
+{
+"text": "News",
+"href": "https://klauzerfornd.com/news/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://klauzerfornd.com/home/#priorities"
+},
+{
+"text": "Press Release",
+"href": "https://klauzerfornd.com/category/press-release/"
+},
+{
+"text": "[image]",
+"href": "https://klauzerfornd.com/"
+}
 ]

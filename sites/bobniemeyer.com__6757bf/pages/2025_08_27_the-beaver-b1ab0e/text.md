@@ -1,111 +1,19 @@
-Once upon a midnight dreary, while I pondered, weak and weary,
-Over many a curious volumes of legislation galore—
-While I nodded, nearly napping, suddenly there came a tapping,
-As of some voter gently rapping, rapping at my chamber door.
-“’Tis some voter,” I muttered, “tapping at our chamber door—
-Forgotten by the Left, for evermore.”
-Ah, distinctly I remember it was in the bleak November;
-And each separate Constitutional ember wrought its ghost upon the floor.
-Eagerly I wished the morrow;—vainly I had sought to borrow
-From news soaked of sorrow—sorrow for the lost Governor—
-For the rare and brainless maiden whom the Left installed as Governor—
-Supported here by the Left, for evermore.
-And the silken, sad, uncertain rustling of each Blue curtain
-Thrilled me—filled me with fantastic hopes only felt long before;
-So that now, to still the beating of my heart, I stood repeating
-“’Tis the voters entreating entrance at our Capital’s door—
-Some late voter perhaps entreating entrance at our Capital’s door;”—
-Ignored as nothing by the Left, evermore.
-Presently my soul grew stronger; hesitating then no longer,
-“Sir,” said I, “or Madam, there are only two, your forgiveness I implore;
-But the fact is Oregon was napping, and so gently you came rapping,
-And so faintly you came tapping, tapping at our Capital’s door,
-That I scarce was sure Oregon heard you”—here I opened wide the door;—
-In Voters eyes I saw: The People wanting Truth, nothing more.
-Deep into the Voter’s eyes peering, long I stood there wondering, fearing,
-Doubting, dreaming dreams the Voter’s long forgotten, now dared to dream again;
-But the silence had been broken, and the stillness gave a token,
-And the only word there spoken was the whispered word, “Oregon?”
-This I whispered, and an echo murmured back the word, “Oregon!”—
-Avoided by the Left, evermore.
-Back into our Capital turning, all my soul within me burning,
-Soon again I heard a gnawing somewhat louder than the tapping.
-“Surely,” said I, “surely that is something at my plywood window lattice;
-Let me see, then, what thereat is, and this mystery explore—
-Let my heart be still a moment and this mystery explore;—
-’Tis just the wind says the Left, nothing more!”
-Open here I flung the plywood shutter, when, with many a fir and flutter,
-In there stepped a stately Beaver of the saintly days of yore;
-No respect did made he; not a minute stopped or stayed he;
-But, with mien of lord or lady, planted he next to glow of Constitution burning—
-Planted he next to the Seal of Oregon on the Capital’s floor—
-Next to the Seal the Left doesn’t notice any more.
-Then this brown Beaver beguiling my sad fancy into smiling,
-By the grave and stern decorum of the countenance it wore,
-“Though thy tail be shorn and shaven, thou,” I said, “art sure no craven,
-Ghastly grim and ancient Beaver wandering from the Nightly shore—
-Tell me what thy lordly name is on the Night’s Plutonian shore!”
-Quoth the Beaver “Nevermore.”
-Much I marveled this ungainly Beaver to hear discourse so plainly,
-Though its answer little meaning—little relevancy bore;
-For we cannot help agreeing that no living human being
-Ever yet was blessed with seeing Stately Beaver next to the Seal on the floor—
-Beaver or beast next to the Great Seal sculptured near the Capital’s door,
-With such name as “Nevermore.”
-But the Beaver, sitting lonely next to the placid Seal, spoke only
-That one word, as if his soul in that one word he did outpour.
-Nothing farther then he uttered—not any fir then he fluttered—
-Till I scarcely more than muttered “Other friends have run before—
-On the morrow he will leave me, as my Hopes have escaped before.”
-Then the Beaver said “Nevermore.”
-Startled at the stillness broken by reply so aptly spoken,
-“Doubtless,” said I, “what it utters is its only stock and store
-Caught from some unhappy master whom unmerciful Disaster
-Followed fast and followed faster till his songs one burden bore—
-Till the dirges of his Hope that melancholy burden bore
-Of ‘Never—nevermore’.”
-But the Beaver still beguiling all my fancy into smiling,
-Straight I wheeled a cushioned seat in front of Beaver, and Seal and door;
-Then, upon the velvet sinking, I betook myself to linking
-Fancy unto fancy, thinking what this ominous Stately Beaver of yore—
-What this grim, ungainly, ghastly, gaunt, and ominous Beaver of yore
-Meant in croaking: “Nevermore.”
-This I sat engaged in guessing, but no syllable expressing
-To the beast whose fiery eyes now burned into my bosom’s core;
-This and more I sat divining, with my head at ease reclining
-On the cushion’s velvet lining that the lamp-light gloated o’er,
-But who’s velvet-violet lining with the lamp-light gloating o’er,
-“Voters decide, not just the Left Anymore”!
-Then, me thought, the air grew denser, perfumed from an unseen censer
-Swung by Seraphim whose foot-falls tinkled on the polished floor.
-“Wretch,” I cried, “thy God hath lent thee—by these angels he hath sent thee
-Respite—respite and nepenthe from thy memories of Oregon;
-Quaff, oh quaff this kind nepenthe and forget this lost Oregon!”
-Quoth the Beaver: “Nevermore.”
-“Prophet!” said I, “thing of evil!—prophet still, if Beaver or devil!—
-Whether Tempter sent, or whether tempest tossed thee here ashore,
-Desolate yet all undaunted, on this Oregon land enchanted—
-On this home by Horror haunted—tell me truly, I implore—
-Is there—is there a Constitution anymore?—tell me—tell me, I implore!”
-Quoth the Beaver “Honest Voting must decide if Nevermore.”
-“Prophet!” said I, “thing of evil!—prophet still, if Beaver or devil!
-By that Heaven that bends above us—by that God we both adore—
-Tell this soul with sorrow laden if, within this Capital Chamber,
-It shall clasp a Constitution for the State named Oregon—
-Clasp a Constitution for whom the People adore.”
-Quoth the Beaver “Voters want the Constitution Once-more.”
-“Be that word our sign of parting, beast or fiend!” I shrieked, upstarting—
-“Get thee back into the tempest and the Night’s Plutonian shore!
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer The Beaver Once upon a midnight dreary, while I pondered, weak and weary, Over many a curious volumes of legislation galore— While I nodded, nearly napping, suddenly there came a tapping, As of some voter gently rapping, rapping at my chamber door. “’Tis some voter,” I muttered, “tapping at our chamber door— Forgotten by the Left, for evermore.” Ah, distinctly I remember it was in the bleak November; And each separate Constitutional ember wrought its ghost upon the floor.
+Eagerly I wished the morrow;—vainly I had sought to borrow From news soaked of sorrow—sorrow for the lost Governor— For the rare and brainless maiden whom the Left installed as Governor— Supported here by the Left, for evermore.
+And the silken, sad, uncertain rustling of each Blue curtain Thrilled me—filled me with fantastic hopes only felt long before; So that now, to still the beating of my heart, I stood repeating “’Tis the voters entreating entrance at our Capital’s door— Some late voter perhaps entreating entrance at our Capital’s door;”— Ignored as nothing by the Left, evermore.
+Presently my soul grew stronger; hesitating then no longer, “Sir,” said I, “or Madam, there are only two, your forgiveness I implore; But the fact is Oregon was napping, and so gently you came rapping, And so faintly you came tapping, tapping at our Capital’s door, That I scarce was sure Oregon heard you”—here I opened wide the door;— In Voters eyes I saw: The People wanting Truth, nothing more.
+Deep into the Voter’s eyes peering, long I stood there wondering, fearing, Doubting, dreaming dreams the Voter’s long forgotten, now dared to dream again; But the silence had been broken, and the stillness gave a token, And the only word there spoken was the whispered word, “Oregon?” This I whispered, and an echo murmured back the word, “Oregon!”— Avoided by the Left, evermore.
+Back into our Capital turning, all my soul within me burning, Soon again I heard a gnawing somewhat louder than the tapping.
+“Surely,” said I, “surely that is something at my plywood window lattice; Let me see, then, what thereat is, and this mystery explore— Let my heart be still a moment and this mystery explore;— ’Tis just the wind says the Left, nothing more!” Open here I flung the plywood shutter, when, with many a fir and flutter, In there stepped a stately Beaver of the saintly days of yore; No respect did made he; not a minute stopped or stayed he; But, with mien of lord or lady, planted he next to glow of Constitution burning— Planted he next to the Seal of Oregon on the Capital’s floor— Next to the Seal the Left doesn’t notice any more.
+Then this brown Beaver beguiling my sad fancy into smiling, By the grave and stern decorum of the countenance it wore, “Though thy tail be shorn and shaven, thou,” I said, “art sure no craven, Ghastly grim and ancient Beaver wandering from the Nightly shore— Tell me what thy lordly name is on the Night’s Plutonian shore!” Quoth the Beaver “Nevermore.” Much I marveled this ungainly Beaver to hear discourse so plainly, Though its answer little meaning—little relevancy bore; For we cannot help agreeing that no living human being Ever yet was blessed with seeing Stately Beaver next to the Seal on the floor— Beaver or beast next to the Great Seal sculptured near the Capital’s door, With such name as “Nevermore.” But the Beaver, sitting lonely next to the placid Seal, spoke only That one word, as if his soul in that one word he did outpour.
+Nothing farther then he uttered—not any fir then he fluttered— Till I scarcely more than muttered “Other friends have run before— On the morrow he will leave me, as my Hopes have escaped before.” Then the Beaver said “Nevermore.” Startled at the stillness broken by reply so aptly spoken, “Doubtless,” said I, “what it utters is its only stock and store Caught from some unhappy master whom unmerciful Disaster Followed fast and followed faster till his songs one burden bore— Till the dirges of his Hope that melancholy burden bore Of ‘Never—nevermore’.” But the Beaver still beguiling all my fancy into smiling, Straight I wheeled a cushioned seat in front of Beaver, and Seal and door; Then, upon the velvet sinking, I betook myself to linking Fancy unto fancy, thinking what this ominous Stately Beaver of yore— What this grim, ungainly, ghastly, gaunt, and ominous Beaver of yore Meant in croaking: “Nevermore.” This I sat engaged in guessing, but no syllable expressing To the beast whose fiery eyes now burned into my bosom’s core; This and more I sat divining, with my head at ease reclining On the cushion’s velvet lining that the lamp-light gloated o’er, But who’s velvet-violet lining with the lamp-light gloating o’er, “Voters decide, not just the Left Anymore”!
+Then, me thought, the air grew denser, perfumed from an unseen censer Swung by Seraphim whose foot-falls tinkled on the polished floor.
+“Wretch,” I cried, “thy God hath lent thee—by these angels he hath sent thee Respite—respite and nepenthe from thy memories of Oregon; Quaff, oh quaff this kind nepenthe and forget this lost Oregon!” Quoth the Beaver: “Nevermore.” “Prophet!” said I, “thing of evil!—prophet still, if Beaver or devil!— Whether Tempter sent, or whether tempest tossed thee here ashore, Desolate yet all undaunted, on this Oregon land enchanted— On this home by Horror haunted—tell me truly, I implore— Is there—is there a Constitution anymore?—tell me—tell me, I implore!” Quoth the Beaver “Honest Voting must decide if Nevermore.” “Prophet!” said I, “thing of evil!—prophet still, if Beaver or devil!
+By that Heaven that bends above us—by that God we both adore— Tell this soul with sorrow laden if, within this Capital Chamber, It shall clasp a Constitution for the State named Oregon— Clasp a Constitution for whom the People adore.” Quoth the Beaver “Voters want the Constitution Once-more.” “Be that word our sign of parting, beast or fiend!” I shrieked, upstarting— “Get thee back into the tempest and the Night’s Plutonian shore!
 Leave no water as a token of that truth thy soul hath spoken!
 Leave my loneliness unbroken!—quit the place next the Seal by the Chamber door!
-Take thy teeth from out my heart, and take thy form from off my floor!”
-Quoth the Beaver “Voters must decide if Evermore.”
-The Stately Beaver went to the Constitution still casting its ghost upon the floor,
-Shook water from the Nightly shore, and doused the embers near the Chamber door.
-The Beaver returned to the Night’s Plutonian Shore through the window lattice
-As shadows began to form on the floor, from outside the Capital’s door
-I returned with ax in hand and took my place o’er the Seal and land
-My soul uplifted, “The People shall decide”, it showed when I saw into their eyes.
+Take thy teeth from out my heart, and take thy form from off my floor!” Quoth the Beaver “Voters must decide if Evermore.” The Stately Beaver went to the Constitution still casting its ghost upon the floor, Shook water from the Nightly shore, and doused the embers near the Chamber door.
+The Beaver returned to the Night’s Plutonian Shore through the window lattice As shadows began to form on the floor, from outside the Capital’s door I returned with ax in hand and took my place o’er the Seal and land My soul uplifted, “The People shall decide”, it showed when I saw into their eyes.
 The People shall lift me—for evermore!
-Bob Niemeyer
-A Parody of “The Raven” by Edger Allan Poe
+Bob Niemeyer A Parody of “The Raven” by Edger Allan Poe Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

@@ -1,13 +1,50 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61590713094866",
-"https://instagram.com/artstresingfl18",
-"https://voteartstresing.com/",
-"https://voteartstresing.com/contribute",
-"https://voteartstresing.com/events",
-"https://voteartstresing.com/home",
-"https://voteartstresing.com/photos",
-"https://voteartstresing.com/view-endorsements",
-"https://voteartstresing.com/volunteer",
-"https://voteartstresing.com/vote"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contribute",
+"href": "https://voteartstresing.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://voteartstresing.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://voteartstresing.com/events"
+},
+{
+"text": "Home",
+"href": "https://voteartstresing.com/home"
+},
+{
+"text": "Photos",
+"href": "https://voteartstresing.com/photos"
+},
+{
+"text": "VOTING INFO",
+"href": "https://voteartstresing.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://voteartstresing.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://voteartstresing.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://voteartstresing.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590713094866"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/artstresingfl18/"
+}
 ]

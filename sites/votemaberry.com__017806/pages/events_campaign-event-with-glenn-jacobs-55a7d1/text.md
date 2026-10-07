@@ -1,4 +1,4 @@
-We are thrilled to announce that Knox County Mayor Glenn Jacobs, author of Mayor Kane, will be with us on Friday, October 4 at 12 pm (doors open at 11:30 am) at The Emerald in Clarksville for a campaign event in support of Aron Maberry for State Representative in District 68.
+Toggle navigation Meet Aron Maberry Why I’m Running On the Issues “In The News” Events Posts Request A Sign Media Contribute Campaign Event with Glenn Jacobs October 4, 2024 12:00 pm – 1:00 pm ( Central ) The Emerald Clarksville 2631 Hwy 41A Byp, Clarksville, TN 37043 We are thrilled to announce that Knox County Mayor Glenn Jacobs, author of Mayor Kane, will be with us on Friday, October 4 at 12 pm (doors open at 11:30 am) at The Emerald in Clarksville for a campaign event in support of Aron Maberry for State Representative in District 68.
 Deputy Speaker Curtis Johnson, Senator Bill Powers, and Mayor Glenn Jacobs all invite you out to support Aron Maberry as he combats the leftist agenda of his opponent, Garfield Scott, and the entire Montgomery County Democratic party.
 CLICK HERE TO RESERVE YOUR SEAT AT THIS EVENT.
 About our Keynote Speaker: Glenn Jacobs is currently serving his second term as Mayor of Knox County, TN.
@@ -7,5 +7,6 @@ A staunch fiscal conservative and fierce advocate for limited government, during
 In his second term, he is prioritizing workforce and economic development to make East Tennessee even more competitive in the rapidly evolving innovation-based global economy.
 Glenn has appeared on Fox News, Fox Business, CNN, MSNBC, and other outlets, and is the author of the book Mayor Kane.
 Glenn and his wife, Crystal, have two daughters and two grandchildren.
-Campaign Event with Glenn Jacobs
-October 4, 2024 12:00 pm – 1:00 pm ( Central )
+This event has ended Photo Gallery Leave a Reply Cancel Reply Your email address will not be published.
+Required fields are marked * You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Type in the text displayed above Δ About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

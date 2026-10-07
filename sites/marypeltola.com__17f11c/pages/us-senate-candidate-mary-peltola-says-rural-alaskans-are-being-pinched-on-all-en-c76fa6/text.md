@@ -1,7 +1,8 @@
-The campaign trail has led United States Senate candidate Mary Peltola back to her hometown of Bethel in the leadup to the 2026 General Election.
+Skip to content Facebook-f Instagram X-twitter Threads Tiktok ALASKA FIRST.
+CONTACT My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News SALMON RUN CALL FOR ARTISTS STORE DONATE Facebook-f Instagram X-twitter Threads Tiktok SALMON RUN CALL FOR ARTISTS My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact DONATE US Senate candidate Mary Peltola says rural Alaskans are being ‘pinched on all ends’ By Evan Erickson , July 16 2026 Share this Post: The campaign trail has led United States Senate candidate Mary Peltola back to her hometown of Bethel in the leadup to the 2026 General Election.
 Peltola is not hard to find around town as a community member, putting up salmon in her yard or marching in Bethel’s Independence Day parade.
 She’s also been holding candidate meet and greet events in communities across the region.
-In polling, the former Congresswoman appears to be neck and neck with Republican incumbent Sen.
+In polling , the former Congresswoman appears to be neck and neck with Republican incumbent Sen.
 Dan S.
 Sullivan.
 If elected, Peltola would be the first Democrat to represent Alaska in the U.S.
@@ -45,7 +46,7 @@ That’s bottom trawling when it’s on the bottom 80%.
 So let’s look at that.
 Let’s look at the composition of the North Pacific [Fishery] Management Council.
 Let’s get serious about reauthorizing the Magnuson-Stevens Act.
-The last time the Magnuson-Stevens Act was authorized, and that deals with fishing in federal waters, it was 2006 or 2007, 20 years ago.
+The last time the Magnuson-Stevens Act was authorized, and that deals with fishing in federal waters, it was 2006 or 2007, #ago.
 And so many changes have happened since then that we really need to acknowledge and adjust for.
 KYUK: Do you think there’s a political will to change those things across Alaska?
 Peltola: There certainly is.
@@ -84,3 +85,7 @@ If the people of the Kuskokwim River and the airways around the project are comf
 If the people of this region and this river are not comfortable with the level of risk this project proposes, then it shouldn’t go forward.
 I don’t think any one elected official should be dictating what happens or doesn’t happen, and I don’t think any one elected official has that power anyway.
 And again, I want to be optimistic about the [National Environmental Policy Act] process and the process that we have in place.
+Published By: VIEW ORIGINAL More News: Peltola backs gas project, more refining in Senate bid READ MORE PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY Discover more from Mary Peltola Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading WE CAN'T DO IT WITHOUT YOUR HELP.
+Contribute to help Mary’s campaign today.
+MAKE A DONATION GET INVOLVED

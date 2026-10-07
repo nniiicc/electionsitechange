@@ -1,5 +1,4 @@
-participatory_democracy
-##All human beings must be allowed a say in decisions that affect their lives; no one should be subject to the will of another.
+skip to content Dianne Blais for Congress!
+User Tools Register Log In Site Tools Search Tools Show pagesource Old revisions Backlinks Recent Changes Media Manager Sitemap Register Log In > Recent Changes Media Manager Sitemap Trace: • start • about • volunteer_-_let_s_work_for_a_greenus • what_i_stand_for_-_a_greenus • welcome • anti-racism • environmentalism • nonviolence • participatory_democracy participatory_democracy ##All human beings must be allowed a say in decisions that affect their lives; no one should be subject to the will of another.
 We work to improve public participation in every aspect of government and seek to ensure that our public representatives are fully accountable to the people who elect them.
-We also work to create new types of political organizations that expand the process of participatory democracy by directly including citizens in decision-making.##
-participatory_democracy.txt · Last modified: by 127.0.0.1
+We also work to create new types of political organizations that expand the process of participatory democracy by directly including citizens in decision-making.## participatory_democracy.txt · Last modified: 2026/03/19 12:15 by 127.0.0.1 Page Tools Show pagesource Old revisions Backlinks Back to top Except where otherwise noted, content on this wiki is licensed under the following license: CC Attribution-Share Alike 4.0 International

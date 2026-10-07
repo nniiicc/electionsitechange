@@ -1,6 +1,4 @@
-This article was published in the Brandon Valley Journal, January 13, 2026:
-Help with the data center petition in Sioux Falls
-I would like to thank all the volunteers who helped to circulate the “cell tower” petition which succeeded in putting the Brandon City Council’s rezoning decision on the ballot.
+Home Meet Manuel Platform Scorecard News Endorsements Photos Contact News / Letter to the Editor: Help with Sioux Falls Data Center Petition 13 Jan Tuesday, 2:09 PM · 2026 Letter to the Editor: Help with Sioux Falls Data Center Petition This article was published in the Brandon Valley Journal, January 13, 2026 : Help with the data center petition in Sioux Falls I would like to thank all the volunteers who helped to circulate the “cell tower” petition which succeeded in putting the Brandon City Council’s rezoning decision on the ballot.
 As reported in the BV Journal on 12/03/2025, the campaign was able to collect more than the 394 signatures needed to force a public vote on the matter.
 This undertaking forged new connections in the community through lots of fruitful discussions among Brandon residents who did not previously know each other.
 The result is that the citizens of Brandon themselves get to decide in November 2026.
@@ -34,4 +32,4 @@ We used to be able to trust politicians to have their constituents’ best inter
 We have to face the fact that big corporate interests are controlling more and more aspects of our life, even in Brandon, SD.
 The time has come for more civic engagement.
 I hope to see you somewhere on the streets of Sioux Falls in the next 2 weeks.
-Manuel Luschas, Brandon, SD
+Manuel Luschas, Brandon, SD Paid for By: Manuel Luschas Powered by CampaignPartner.com - Political Websites Home Meet Manuel Platform Scorecard News Endorsements Photos Contact Close Menu

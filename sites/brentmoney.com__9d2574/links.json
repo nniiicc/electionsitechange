@@ -1,10 +1,46 @@
 [
-"https://brentmoney.com/",
-"https://brentmoney.com/endorsements",
-"https://brentmoney.com/get-involved",
-"https://brentmoney.com/issues",
-"https://brentmoney.com/terms",
-"https://facebook.com/brentmoneytx",
-"https://secure.winred.com/brent-money-for-texas/donate-now",
-"https://twitter.com/BrentMoneyTX"
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/brent-money-for-texas/donate-now"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/brent-money-for-texas/donate-now"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brentmoney.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.brentmoney.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.brentmoney.com"
+},
+{
+"text": "Issues",
+"href": "https://www.brentmoney.com/issues/"
+},
+{
+"text": "Privacy Policy & Terms of Use",
+"href": "https://www.brentmoney.com/terms/"
+},
+{
+"text": "[image: State Rep Brent Money]",
+"href": "https://www.brentmoney.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.brentmoney.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BrentMoneyTX"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/brentmoneytx"
+}
 ]

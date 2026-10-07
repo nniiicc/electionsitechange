@@ -1,6 +1,6 @@
-Hi, I’m Gretchen.
+0 Skip to Content Meet Gretchen Legislation News Endorsements Events Take Action Open Menu Close Menu Meet Gretchen Legislation News Endorsements Events Take Action Open Menu Close Menu Meet Gretchen Legislation News Endorsements Events Take Action Hi, I’m Gretchen.
 I’m a therapist, social worker, musician, and I serve in the Colorado House of Representatives.
-In 2024, I was elected as the state representative for House District 38, which includes Littleton and parts of Centennial.
+View fullsize In 2024, I was elected as the state representative for House District 38, which includes Littleton and parts of Centennial.
 In 2021, I was elected to the Littleton City Council.
 I served the first two years as Mayor Pro Tem.
 I was raised by two school teachers and am the granddaughter of two engineers who started their own small businesses.
@@ -17,4 +17,6 @@ Playing the viola is a way I connect with and bring peace to those around me.
 I love performing with others, am a member of the Denver Pops Orchestra, and play regularly for my church.
 This year, we even played in the Capitol on the House floor!
 Like so many Coloradans, I love getting outside and embracing a little adventure.
-I take pride in my identity as “the fun aunt”.
+I take pride in my identity as “the fun aunt”. gretchenforcolorado@gmail.com Paid for by Gretchen for Colorado.
+Registered Agent: Gretchen Rydin.
+Made with Squarespace

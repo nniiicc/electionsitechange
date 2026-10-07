@@ -1,34 +1,134 @@
 [
-"https://facebook.com/mikeandradein",
-"https://iga.in.gov/",
-"https://iga.in.gov/legislative/2021/bills/house/1032/details",
-"https://iga.in.gov/legislative/2021/bills/senate/259/details",
-"https://iga.in.gov/legislative/2021/bills/senate/82/details",
-"https://iga.in.gov/legislative/2022/bills/house/1112/details",
-"https://iga.in.gov/legislative/2022ss1/bills/senate/1/details",
-"https://iga.in.gov/legislative/2023/bills/house/1034/details",
-"https://iga.in.gov/legislative/2023/bills/house/1211/details",
-"https://iga.in.gov/legislative/2023/bills/house/1396/details",
-"https://iga.in.gov/legislative/2023/bills/senate/160/details",
-"https://iga.in.gov/legislative/2023/bills/senate/277/details",
-"https://iga.in.gov/legislative/2024/bills/house/1004/details",
-"https://iga.in.gov/legislative/2024/bills/senate/253/details",
-"https://iga.in.gov/legislative/2025/bills/house/1095/details",
-"https://iga.in.gov/legislative/2025/bills/house/1593/details",
-"https://iga.in.gov/legislative/2025/bills/senate/103/details",
-"https://iga.in.gov/legislative/2025/bills/senate/324/details",
-"https://iga.in.gov/legislative/2025/bills/senate/464/details",
-"https://instagram.com/mikeandradein",
-"https://mikeandrade.com/",
-"https://mikeandrade.com/about",
-"https://mikeandrade.com/community",
-"https://mikeandrade.com/legislation",
-"https://mikeandrade.com/platform-2",
-"https://mikeandrade.com/privacy",
-"https://mikeandrade.com/sign",
-"https://mikeandrade.com/terms",
-"https://mikeandrade.com/volunteer",
-"https://secure.actblue.com/donate/citizens-for-mike-andrade-general",
-"https://twitter.com/mikeandradein",
-"https://youtube.com/channel/UChEjBPKGLq3C0leElaitwQA?sub_confirmation=1"
+{
+"text": "About Mike",
+"href": "https://mikeandrade.com/about/"
+},
+{
+"text": "Community",
+"href": "https://mikeandrade.com/community/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@mikeandrade.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/citizens-for-mike-andrade-general"
+},
+{
+"text": "HOUSE BILL 1004",
+"href": "https://iga.in.gov/legislative/2024/bills/house/1004/details"
+},
+{
+"text": "HOUSE BILL 1032",
+"href": "https://iga.in.gov/legislative/2021/bills/house/1032/details"
+},
+{
+"text": "HOUSE BILL 1034",
+"href": "https://iga.in.gov/legislative/2023/bills/house/1034/details"
+},
+{
+"text": "HOUSE BILL 1095",
+"href": "https://iga.in.gov/legislative/2025/bills/house/1095/details"
+},
+{
+"text": "HOUSE BILL 1112",
+"href": "https://iga.in.gov/legislative/2022/bills/house/1112/details"
+},
+{
+"text": "HOUSE BILL 1211",
+"href": "https://iga.in.gov/legislative/2023/bills/house/1211/details"
+},
+{
+"text": "HOUSE BILL 1396",
+"href": "https://iga.in.gov/legislative/2023/bills/house/1396/details"
+},
+{
+"text": "HOUSE BILL 1593",
+"href": "https://iga.in.gov/legislative/2025/bills/house/1593/details"
+},
+{
+"text": "Indiana General Assembly",
+"href": "https://iga.in.gov/"
+},
+{
+"text": "Legislation",
+"href": "https://mikeandrade.com/legislation/"
+},
+{
+"text": "Platform",
+"href": "https://mikeandrade.com/platform-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikeandrade.com/privacy/"
+},
+{
+"text": "SENATE BILL 1",
+"href": "https://iga.in.gov/legislative/2022ss1/bills/senate/1/details"
+},
+{
+"text": "SENATE BILL 103",
+"href": "https://iga.in.gov/legislative/2025/bills/senate/103/details"
+},
+{
+"text": "SENATE BILL 160",
+"href": "https://iga.in.gov/legislative/2023/bills/senate/160/details"
+},
+{
+"text": "SENATE BILL 253",
+"href": "https://iga.in.gov/legislative/2024/bills/senate/253/details"
+},
+{
+"text": "SENATE BILL 259",
+"href": "https://iga.in.gov/legislative/2021/bills/senate/259/details"
+},
+{
+"text": "SENATE BILL 277",
+"href": "https://iga.in.gov/legislative/2023/bills/senate/277/details"
+},
+{
+"text": "SENATE BILL 324",
+"href": "https://iga.in.gov/legislative/2025/bills/senate/324/details"
+},
+{
+"text": "SENATE BILL 464",
+"href": "https://iga.in.gov/legislative/2025/bills/senate/464/details"
+},
+{
+"text": "SENATE BILL 82",
+"href": "https://iga.in.gov/legislative/2021/bills/senate/82/details"
+},
+{
+"text": "Terms of Service",
+"href": "https://mikeandrade.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://mikeandrade.com/volunteer/"
+},
+{
+"text": "Yard Sign",
+"href": "https://mikeandrade.com/sign/"
+},
+{
+"text": "[image]",
+"href": "https://mikeandrade.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/mikeandradein"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/mikeandradein"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mikeandradein"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UChEjBPKGLq3C0leElaitwQA?sub_confirmation=1"
+}
 ]

@@ -1,10 +1,38 @@
 [
-"http://facebook.com/hartforsc",
-"http://instagram.com/hartforsc",
-"https://hartforsc.com/",
-"https://hartforsc.com/cart",
-"https://hartforsc.com/contact",
-"https://hartforsc.com/join",
-"https://mbkbrands.com/",
-"https://secure.actblue.com/donate/hartforsc"
+{
+"text": "0",
+"href": "https://www.hartforsc.com/cart"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/hartforsc"
+},
+{
+"text": "Contact",
+"href": "https://www.hartforsc.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/hartforsc"
+},
+{
+"text": "Join Team Hart",
+"href": "https://www.hartforsc.com/join"
+},
+{
+"text": "[image: Heather Hart for South Carolina State House District 66]",
+"href": "https://www.hartforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/hartforsc"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/hartforsc"
+},
+{
+"text": "mbk brands",
+"href": "https://mbkbrands.com"
+}
 ]

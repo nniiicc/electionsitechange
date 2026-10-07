@@ -1,3 +1,2 @@
-Join Chad, Sign Up Now
-Tell us how you’d like to get involved, a member of our team will get in touch soon
-Thanks for submitting!
+top of page Meet Chad Team Endorsements Priorities Creating Leaders PAC Newsletters Subscribe District 37 Contact Get Involved Events Donate GET INVOLVED Join Chad, Sign Up Now WAYS TO HELP Tell us how you’d like to get involved, a member of our team will get in touch soon Knock on Doors Make Calls Social Media Blitz Host Fundraiser SUBMIT Thanks for submitting!
+DONATE C H A D C L I F F O R D - State Representative- C H A D C L I F F O R D - State Representative- © # Paid for by Chad for Colorado, Registered Agent Chad Clifford bottom of page

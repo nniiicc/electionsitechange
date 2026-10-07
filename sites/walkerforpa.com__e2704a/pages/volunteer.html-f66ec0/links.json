@@ -1,10 +1,42 @@
 [
-"https://secure.winred.com/friends-of-joe-walker-26558a74/donate-today",
-"https://walkerforpa.com/about.html",
-"https://walkerforpa.com/donate.html",
-"https://walkerforpa.com/index.html",
-"https://walkerforpa.com/issues.html",
-"https://walkerforpa.com/volunteer.html",
-"https://walkerforpa.com/vote.html",
-"https://walkerforpa.com/yardsigns.html"
+{
+"text": "About",
+"href": "https://www.walkerforpa.com/about.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-joe-walker-26558a74/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforpa.com/donate.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.walkerforpa.com/volunteer.html"
+},
+{
+"text": "Issues",
+"href": "https://www.walkerforpa.com/issues.html"
+},
+{
+"text": "Joe Walker",
+"href": "https://www.walkerforpa.com/index.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforpa.com/volunteer.html"
+},
+{
+"text": "Vote",
+"href": "https://www.walkerforpa.com/vote.html"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.walkerforpa.com/yardsigns.html"
+},
+{
+"text": "info@walkerforpa.com",
+"href": "mailto:info@walkerforpa.com"
+}
 ]

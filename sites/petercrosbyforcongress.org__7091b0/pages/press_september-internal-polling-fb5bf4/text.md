@@ -1,45 +1,23 @@
-For immediate release
-Northern Utah on track to flip a 2nd Congressional seat this November
-Providence, UT — September 14, 2026
-A traditionally safe conservative district is now statistically tied, with Blake Moore leading by 1.7 points in latest Peter Crosby for Congress Campaign internal polling.
+Ballots Mail · Oct 13, 2026 Election Day · Tue, Nov 3 Register to Vote ↗ 🌐 English ▾ HOME ABOUT POLICIES NEWSROOM Media coverage Interviews, articles and video Press releases Statements from the campaign Data Room New Polling and the numbers behind the race EVENTS ENDORSEMENTS CONTACT Volunteer DONATE HOME ABOUT POLICIES NEWSROOM Media coverage Press releases Data Room New EVENTS ENDORSEMENTS CONTACT Request a Yard Sign Volunteer ← All press releases For immediate release Northern Utah on track to flip a 2nd Congressional seat this November Providence, UT — September 14, 2026 A traditionally safe conservative district is now statistically tied, with Blake Moore leading by 1.7 points in latest Peter Crosby for Congress Campaign internal polling.
 New head-to-head polling conducted by the Peter Crosby for Congress campaign has the political newcomer surging into a dead heat with Republican incumbent, Representative Blake Moore in the newly redrawn Utah Congressional District 2 (CD2).
-The Campaign is releasing its latest internal polling, conducted Sept. 8-10, 2026, which shows the Democratic candidate neck and neck with Rep.
+The Campaign is releasing its latest internal polling, conducted Sept.
+8-10, 2026, which shows the Democratic candidate neck and neck with Rep.
 Moore.
-While the new Congressional district has not yet elected its own representative, traditional race watchers had suggested it will be an R+15 district, a rating which has not been updated since November of 2025.
+While the new Congressional district has not yet elected its own representative, traditional race watchers had suggested it will be an R+15 district , a rating which has not been updated since November of 2025.
 Recent data indicate a very different reality on the ground.
 The survey, conducted across a randomized sample of registered voters in Davis, Weber, Box Elder, Cache, and Rich counties, places Crosby within a 1.7-point range of Moore in a head-to-head matchup if the election were to happen today, with over 25% of respondents still unsure.
 Combined with recent polling showing that incumbent Rep.
-Moore is deeply unpopular in the new district, the race for the new CD2 is not just competitive – it offers a significant opportunity for Utah to send two Democratic representatives to Congress this cycle.
-- Rep.
+Moore is deeply unpopular in the new district , the race for the new CD2 is not just competitive – it offers a significant opportunity for Utah to send two Democratic representatives to Congress this cycle.
+Rep.
 Moore is currently polling at 32.4%, and Peter Crosby is currently polling at 30.71%.
-- Over 25% of respondents are still unsure, including 24% of registered Republicans.
-- Affordability and Accountability are the top issues identified by respondents (74.4% are concerned with affordability related issues, and 69.8% are concerned with corruption, insider trading, and related concerns).
-| Response | Share |
-|---|---|
-| Peter Crosby | 30.71% |
-| Blake Moore | 32.41% |
-| Other | 3.28% |
-| Unsure | 25.07% |
-| None of the Above | 8.53% |
-Voter Survey, Peter Crosby for Congress Campaign.
+Over 25% of respondents are still unsure, including 24% of registered Republicans.
+Affordability and Accountability are the top issues identified by respondents (74.4% are concerned with affordability related issues, and 69.8% are concerned with corruption, insider trading, and related concerns).
+If the election were held today, who would you vote for?
+35% 30% 25% 20% 15% 10% 5% 0% 30.71% 32.41% 3.28% 25.07% 8.53% Peter Crosby Blake Moore Other Unsure None of the Above Response Share Peter Crosby 30.71% Blake Moore 32.41% Other 3.28% Unsure 25.07% None of the Above 8.53% Voter Survey, Peter Crosby for Congress Campaign.
 Internal polling of 762 randomized, registered voters across Davis, Weber, Box Elder, Cache, and Rich Counties (CD2), Utah, 9/8–10/2026. ±4% margin of error.
-| Response | Share |
-|---|---|
-| Peter Crosby | 18% |
-| Blake Moore | 45.7% |
-| Other | 3.7% |
-| Unsure | 24% |
-| None of the Above | 8.6% |
-Voter Survey, Peter Crosby for Congress Campaign.
+Voter Preference by Party Affiliation: Republican 50% 40% 30% 20% 10% 0% 18% 45.7% 3.7% 24% 8.6% Peter Crosby Blake Moore Other Unsure None of the Above Response Share Peter Crosby 18% Blake Moore 45.7% Other 3.7% Unsure 24% None of the Above 8.6% Voter Survey, Peter Crosby for Congress Campaign.
 Internal polling of 762 randomized, registered voters across Davis, Weber, Box Elder, Cache, and Rich Counties (CD2), Utah, 9/8–10/2026. ±4% margin of error.
-| Response | Share |
-|---|---|
-| Peter Crosby | 39.4% |
-| Blake Moore | 16.5% |
-| Other | 2.8% |
-| Unsure | 30.3% |
-| None of the Above | 11% |
-Voter Survey, Peter Crosby for Congress Campaign.
+Voter Preference by Party Affiliation: Unaffiliated 40% 30% 20% 10% 0% 39.4% 16.5% 2.8% 30.3% 11% Peter Crosby Blake Moore Other Unsure None of the Above Response Share Peter Crosby 39.4% Blake Moore 16.5% Other 2.8% Unsure 30.3% None of the Above 11% Voter Survey, Peter Crosby for Congress Campaign.
 Internal polling of 762 randomized, registered voters across Davis, Weber, Box Elder, Cache, and Rich Counties (CD2), Utah, 9/8–10/2026. ±4% margin of error.
 While the Campaign intended to hold these results until after the release of independently commissioned polling conducted on behalf of the Utah Debate Commission, typically available by early September each election cycle, that data has yet to be released.
 The Utah Debate Commission polling data is significant as it determines thresholds for which candidates make it to the stage in the only publicly moderated debate currently scheduled before election day.
@@ -55,17 +33,20 @@ Voters will,” said Utah Democratic Party Chair Brian King.
 “For voters across northern Utah, the priorities are pretty straightforward: they want to know how their representatives are going to make life more affordable and whether they can trust them to put constituents ahead of special interests.
 Peter Crosby is connecting with voters because he’s focused on where Utah is going, not where Washington has been.
 He’s giving voters a chance to turn the page and elect a representative with a fresh perspective and a vision for the future of northern Utah.
-This poll shows that message is breaking through, and we’re proud to stand with Peter as he works to earn the support of voters across CD2.”
-Rep.
+This poll shows that message is breaking through, and we’re proud to stand with Peter as he works to earn the support of voters across CD2.” Rep.
 Blake Moore has been notably reactive to the pressure from the Crosby Campaign, recently scheduling a series of four short-notice, in-person town halls in counties in the newly drawn CD-2, the first such meetings since September 2025.
 Crosby has held 35 public town-halls across the district since launching his campaign in November 2025, and has 6 more scheduled for the month of September.
 If elected, Crosby has pledged to continue holding those in-person town halls on a regular basis.
 With voters seeking responsive representation that is focused on their concerns regarding affordability and governmental accountability, the Crosby campaign enters the final stage of the mid-term election cycle positioned to compete—and win—in Northern Utah.
 Peter Crosby is the Democratic nominee for Utah’s U.S.
 Congressional District 2, a first-time political candidate, and a girl-dad.
+He is running a strictly clean-money, grassroots campaign: Peter is not accepting corporate PAC donations or funding from PACs aligned with foreign interests, and has raised just over $100,000 from small-dollar and individual donors, with over 95% coming from right here in Utah.
 The campaign is fully volunteer-supported with over 400 registered campaign volunteers.
 Peter believes citizens of Northern Utah deserve a representative that lives in the district, listens to their concerns, and puts the people of Utah ahead of party or the pursuit of personal power.
 He is holding public town halls throughout the district, with at least one in Cache, Box Elder, Davis, and Weber counties each month.
 To learn more, visit petercrosbyforcongress.org.
 The figures in this release are charted in the Data Room, with sample sizes, field dates and margins of error.
-Open the Data Room →
+Open the Data Room → ↓ Download the release (PDF) Press contact Amanda@petercrosbyforcongress.org Donate Endorsements Data Room Contact Us Request a Yard Sign Sponsor a yard sign ↗ Get Campaign Updates News, events, and ways to help — straight to your inbox.
+Leave this field empty Sign up We’ll never share your email. © # Peter Crosby for Congress.
+All rights reserved.
+Paid for by Peter Crosby for Congress

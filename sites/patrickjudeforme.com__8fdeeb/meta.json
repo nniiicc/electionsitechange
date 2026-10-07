@@ -1,9 +1,13 @@
 {
  "description": "A fresh voice for Brewer!",
  "final_url": "https://www.patrickjudeforme.com/",
- "paid_for_by": null,
+ "fingerprint": "475a1ceb682d45d13c051870fd466ef7b48f9b1a",
+ "format": 3,
+ "paid_for_by": "authorized by Patrick Jude",
  "title": "Patrick Jude for Maine House",
  "years_mentioned": [
+  "1995",
+  "1997",
   "2024"
  ]
 }

@@ -1,0 +1,74 @@
+[
+{
+"text": "Add Dates",
+"href": "data:text/calendar;charset=utf-8,BEGIN%3AVCALENDAR%0D%0AVERSION%3A2.0%0D%0APRODID%3A-%2F%2FPacheco%20for%20Assembly%2F%2FVoting%20Dates%2F%2FEN%0D%0ACALSCALE%3AGREGORIAN%0D%0AMETHOD%3APUBLISH%0D%0ABEGIN%3AVEVENT%0D%0AUID%3Avp2-1005%40pachecoforca.com%0D%0ADTSTAMP%3A20261004T170000Z%0D%0ADTSTART%3BVALUE%3DDATE%3A20261005%0D%0ADTEND%3BVALUE%3DDATE%3A20261006%0D%0ASUMMARY%3ABallots%20start%20arriving%20by%20mail%0D%0ADESCRIPTION%3ACounty%20elections%20officials%20begin%20mailing%20ballots.%20Return%20yours%20as%20soon%20as%20you%20receive%20it.%0D%0AEND%3AVEVENT%0D%0ABEGIN%3AVEVENT%0D%0AUID%3Avp2-1006%40pachecoforca.com%0D%0ADTSTAMP%3A20261004T170000Z%0D%0ADTSTART%3BVALUE%3DDATE%3A20261006%0D%0ADTEND%3BVALUE%3DDATE%3A20261007%0D%0ASUMMARY%3ASecure%20ballot%20drop%20boxes%20open%0D%0ADESCRIPTION%3AReturn%20your%20ballot%20at%20an%20official%20drop%20box.%20Find%20locations%20at%20https%3A%2F%2Fcaearlyvoting.sos.ca.gov%2F%0D%0AEND%3AVEVENT%0D%0ABEGIN%3AVEVENT%0D%0AUID%3Avp2-1019%40pachecoforca.com%0D%0ADTSTAMP%3A20261004T170000Z%0D%0ADTSTART%3BVALUE%3DDATE%3A20261019%0D%0ADTEND%3BVALUE%3DDATE%3A20261020%0D%0ASUMMARY%3ARegistration%20deadline%0D%0ADESCRIPTION%3ALast%20day%20to%20register%20to%20vote%20at%20https%3A%2F%2Fregistertovote.ca.gov%2F%20.%20After%20today%20same%20day%20registration%20is%20available%20at%20your%20county%20elections%20office%20or%20voting%20location.%0D%0ABEGIN%3AVALARM%0D%0AACTION%3ADISPLAY%0D%0ADESCRIPTION%3AReminder%0D%0ATRIGGER%3A-P1D%0D%0AEND%3AVALARM%0D%0AEND%3AVEVENT%0D%0ABEGIN%3AVEVENT%0D%0AUID%3Avp2-1024%40pachecoforca.com%0D%0ADTSTAMP%3A20261004T170000Z%0D%0ADTSTART%3BVALUE%3DDATE%3A20261024%0D%0ADTEND%3BVALUE%3DDATE%3A20261025%0D%0ASUMMARY%3AVote%20centers%20open%20in%20Voter%27s%20Choice%20Act%20counties%0D%0ADESCRIPTION%3AEarly%20in%20person%20voting%20begins.%20Find%20locations%20at%20https%3A%2F%2Fcaearlyvoting.sos.ca.gov%2F%0D%0AEND%3AVEVENT%0D%0ABEGIN%3AVEVENT%0D%0AUID%3Avp2-1031%40pachecoforca.com%0D%0ADTSTAMP%3A20261004T170000Z%0D%0ADTSTART%3BVALUE%3DDATE%3A20261031%0D%0ADTEND%3BVALUE%3DDATE%3A20261101%0D%0ASUMMARY%3AEarly%20voting%20locations%20open%20statewide%0D%0ADESCRIPTION%3AFind%20locations%20and%20hours%20at%20https%3A%2F%2Fcaearlyvoting.sos.ca.gov%2F%0D%0AEND%3AVEVENT%0D%0ABEGIN%3AVEVENT%0D%0AUID%3Avp2-1103%40pachecoforca.com%0D%0ADTSTAMP%3A20261004T170000Z%0D%0ADTSTART%3BVALUE%3DDATE%3A20261103%0D%0ADTEND%3BVALUE%3DDATE%3A20261104%0D%0ASUMMARY%3AElection%20Day%3A%20polls%20open%207%20a.m.%20to%208%20p.m.%0D%0ADESCRIPTION%3AVote%20in%20person%20or%20return%20your%20ballot%20by%208%20p.m.%20Mailed%20ballots%20must%20be%20postmarked%20by%20today.%0D%0ABEGIN%3AVALARM%0D%0AACTION%3ADISPLAY%0D%0ADESCRIPTION%3AReminder%0D%0ATRIGGER%3A-P1D%0D%0AEND%3AVALARM%0D%0AEND%3AVEVENT%0D%0AEND%3AVCALENDAR%0D%0A"
+},
+{
+"text": "California Secretary of State",
+"href": "https://www.sos.ca.gov/elections/upcoming-elections/general-election-november-3-2026"
+},
+{
+"text": "Check Registration (opens in a new tab)",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "Donate",
+"href": "https://www.efundraisingconnections.com/c/BrianPacheco2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.pachecoforca.com/endorsements"
+},
+{
+"text": "Find a Voting Location (opens in a new tab)",
+"href": "https://caearlyvoting.sos.ca.gov/"
+},
+{
+"text": "Issues",
+"href": "https://www.pachecoforca.com/issues"
+},
+{
+"text": "Meet Brian",
+"href": "https://www.pachecoforca.com/about"
+},
+{
+"text": "News",
+"href": "https://www.pachecoforca.com/news-media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.pachecoforca.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to Vote (opens in a new tab)",
+"href": "https://registertovote.ca.gov/"
+},
+{
+"text": "Track Ballot (opens in a new tab)",
+"href": "https://www.sos.ca.gov/elections/ballot-status/wheres-my-ballot"
+},
+{
+"text": "[image: Brian Pacheco for California Assembly District 27 | 2026]",
+"href": "https://www.pachecoforca.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/pachecoforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/pachecoforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BrianPachecoForAssembly"
+},
+{
+"text": "caearlyvoting.sos.ca.gov",
+"href": "https://caearlyvoting.sos.ca.gov/"
+}
+]

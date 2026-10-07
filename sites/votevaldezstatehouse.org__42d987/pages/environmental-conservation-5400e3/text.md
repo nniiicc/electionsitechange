@@ -1,4 +1,4 @@
-The push for data centers in Georgia is a dangerous economic gamble that ignores the long-term damage to our communities.
+0 Skip to Content Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Folder: Our Georgia Back Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Back Donate The push for data centers in Georgia is a dangerous economic gamble that ignores the long-term damage to our communities.
 Contrary to the promises of an economic boom, data centers are not long-term job engines.
 Most of the employment they generate is temporary and rooted solely in construction, with very few permanent, local jobs created once the facility is operational and automated.
 Furthermore, these facilities are not built in remote locations; we are seeing them proposed directly between residential developments.
@@ -14,3 +14,6 @@ In Columbus and across Georgia, data center development feels like the "wild wes
 The environmental and economic costs extend to the depreciation of the technology itself.
 The servers, chips, and other computing components housed in these buildings are destined to become electronic waste in just a few years.
 With global recycling systems unable to keep up with this glut of trash, we are looking at a massive environmental liability that will burden future generations, not to mention the strain on power grids and rising utility bills for local residents who are told these tax breaks are necessary for growth.
+Learn more Newsletter and Volunteer Sign-up! make a difference!
+Email: georgia@votevaldezstatehouse.org P.O.
+Box 14 Cataula, GA 31804 Paid for by the Committee to Elect Elliot Valdez

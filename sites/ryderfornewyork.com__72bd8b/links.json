@@ -1,18 +1,74 @@
 [
-"https://amiregistered.vote.nyc/",
-"https://bsky.app/profile/ryderkessler.bsky.social",
-"https://facebook.com/ryderfornewyork",
-"https://findmypollsite.vote.nyc/",
-"https://instagram.com/ryderfornewyork",
-"https://mobilize.us/ryderfornewyork2026/event/886097",
-"https://ryderfornewyork.com/",
-"https://ryderfornewyork.com/about-ryder",
-"https://ryderfornewyork.com/cart",
-"https://ryderfornewyork.com/endorsements",
-"https://ryderfornewyork.com/events",
-"https://ryderfornewyork.com/platform",
-"https://secure.actblue.com/donate/r4ny",
-"https://tiktok.com/@ryderkessler",
-"https://x.com/ryderkessler",
-"https://youtube.com/@ryderfornewyork"
+{
+"text": "0",
+"href": "https://www.ryderfornewyork.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ryderfornewyork.com/about-ryder"
+},
+{
+"text": "Am I registered to vote in AD66?",
+"href": "https://amiregistered.vote.nyc/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/r4ny/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ryderfornewyork.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ryderfornewyork.com/events"
+},
+{
+"text": "FIND YOUR POLL SITE",
+"href": "https://findmypollsite.vote.nyc/"
+},
+{
+"text": "Get involved",
+"href": "https://www.mobilize.us/ryderfornewyork2026/event/886097/"
+},
+{
+"text": "Home",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.ryderfornewyork.com/platform"
+},
+{
+"text": "[image: Ryder for New York]",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ryderkessler.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ryderfornewyork/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ryderkessler"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ryderkessler"
+},
+{
+"text": "hello@ryderfornewyork.com",
+"href": "mailto:hello@ryderfornewyork.com"
+}
 ]

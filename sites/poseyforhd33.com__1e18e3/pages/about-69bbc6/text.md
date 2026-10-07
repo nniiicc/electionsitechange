@@ -1,5 +1,4 @@
-Ivan Posey
-A Father, Tribal Leader, and Educator.
+0 Skip to Content About Platform Voter Information News Contact Donate Open Menu Close Menu About Platform Voter Information News Contact Donate Open Menu Close Menu About Platform Voter Information News Contact Donate Ivan Posey A Father, Tribal Leader, and Educator.
 Ivan has spent a lifetime serving his community!
 Ivan Posey, born on January 11, 1960, was the youngest of 13 children.
 His upbringing on the Wind River Indian Reservation, along with his education at Fort Washakie Elementary, Chilocco Indian School in Chilocco, Oklahoma, and Central Wyoming College, shaped his journey in tribal leadership and education.
@@ -15,3 +14,10 @@ He is the founder of the Eastern Shoshone Boys and Girls Club and served as Chai
 Posey currently serves on the following boards: Americans for Indian Opportunity, Advancement for Indigenous Opportunity International, Wind River Development Fund, and Community Entry Services.
 An enrolled member of the Eastern Shoshone tribe, Posey is also Northern Cheyenne and Northern Arapaho.
 Ivan has three children: Alex, Sadie, and Seth.
+Send Ivan Posey to Cheyenne!
+Donate Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for our newsletter!
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Ivan Posey for House District 33 Contact the Campaign

@@ -1,4 +1,4 @@
-I’m Kristin Davis, and I’m running for the Maine House of Representatives District 145 for the town of Wells.
+0 Skip to Content Home Meet Kristin Contact Donate $5 Donate $5 Open Menu Close Menu Home Meet Kristin Contact Donate $5 Donate $5 Open Menu Close Menu Home Meet Kristin Contact Donate $5 Donate $5 I’m Kristin Davis, and I’m running for the Maine House of Representatives District 145 for the town of Wells.
 I grew up in Maine, the daughter of a Marine, teacher, and coach to hundreds of Maine students, and my mom, who dedicated her life to service as an EMT and Fire and Rescue Dispatcher.
 I received my Bachelor’s of Science in Business Administration and Bachelor’s of Science in Economics from the University of Southern Maine.
 I attended American University in D.C., where I received my Master’s in Public Administration and Public Policy in 2023.
@@ -31,3 +31,4 @@ I’m running to serve all Wells residents and deliver power back home—because
 I would be honored if you joined our coalition.
 Vote for me, Kristin Davis, for your State Representative District 145.
 Together, We Are Wells.
+Donate

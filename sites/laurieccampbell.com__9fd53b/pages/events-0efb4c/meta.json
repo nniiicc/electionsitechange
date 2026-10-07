@@ -1,7 +1,12 @@
 {
  "description": "Laurie Campbell Campaign Events",
  "final_url": "https://laurieccampbell.com/events",
+ "fingerprint": "46652ec3ae9b29a14fdba6736b2c37fcc2fb4ed0",
+ "format": 3,
  "paid_for_by": "Paid for by Campaign Fund of Laurie C",
  "title": "Laurie Campbell Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

@@ -1,12 +1,4 @@
-Back to All Events
-Flat Iron Co-op, 51 The Square, Bellows Falls, VT
-Chris Lundberg will join Democratic gubernatorial candidate Amanda Janoo for a community conversation.
+0 Skip to Content Donate Open Menu Close Menu Donate Open Menu Close Menu Donate Back to All Events Meet & Greet & Walk with Amanda (Bellows Falls) Friday, September 18, 2026 8:30 AM 10:00 AM Google Calendar ICS Flat Iron Co-op, 51 The Square, Bellows Falls, VT Chris Lundberg will join Democratic gubernatorial candidate Amanda Janoo for a community conversation.
 Join Amanda for coffee and a short talk followed by questions.
 A walking tour of the downtown area is planned following this free event.
-Previous
-Previous
-September 17
-Meet the Candidates: Fundraiser & Potluck (Brattleboro)
-Next
-Next
-October 1
+Learn more Previous Previous September 17 Meet the Candidates: Fundraiser & Potluck (Brattleboro) Next Next October 1 Early Childhood Candidate Forum (Bellows Falls) CHRIS LUNDBERG For Vermont House of Representatives Windham-3 (Rockingham, Westminster, & Brookline) Donate Contact Paid for by Chris Lundberg for State Representative, 19 Prospect St., Bellows Falls, VT 05101

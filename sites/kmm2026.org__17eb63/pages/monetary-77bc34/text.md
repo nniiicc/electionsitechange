@@ -1,13 +1,11 @@
-By Dennis Kucinich and John Conyers
-By Prof.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home Monetary The NEED Act (HR 2990) Details By Dennis Kucinich and John Conyers The Battle for the Control of Money Details By Prof.
 Dr.
-Asad Zaman
-By Stephen Zarlenga and Robert Poteat
-by Christine A.
-Desan
-Irving Fisher, Lead Author
-By Gerald Grattan McGeer
-By Frederick Soddy
-By Wright Patman
-Articles from the Green Party Banking and Monetary Reform Committee newsletter
-Page 1 of 2
+Asad Zaman The Nature of Money in Modern Economy -- Implications and Consequences Details By Stephen Zarlenga and Robert Poteat How to Spend a Trillion Dollars Details by Christine A.
+Desan A Program for Monetary Reform Details Irving Fisher, Lead Author The Conquest of Poverty or Money, Humanity and Christianity Details By Gerald Grattan McGeer The Role of Money Details By Frederick Soddy A Primer on Money Details By Wright Patman Currency and Banking Teachings History of Usury Prohibition Financial Instability and the Decline (?) of Banking: Public Policy Implications A Monetary and Fiscal Framework for Economic Stability The Science of Money Subcategories MR-Blog Articles from the Green Party Banking and Monetary Reform Committee newsletter Page 1 of 2 1 2 Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief

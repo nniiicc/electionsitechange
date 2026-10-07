@@ -1,18 +1,1 @@
-Jim Donchess, Mayor of Nashua
-Annie Kuster, former Congresswoman, NH-02
-Cindy Rosenwald, NH State Senator
-Bette Lasky, former NH State Senator
-Mary Nelson, former NH State Senator
-Melanie Levesque, former NH State Senator
-Lori Wilshire, President, Nashua Board of Aldermen
-Michael O’Brien, Alderman at-Large
-Benjamin Clemons, Alderman at-Large
-Alicia Gregg, Alderwoman at-Large
-Amber Morgan, Alderwoman at-Large
-Shoshanna Kelly, Alderwoman at-Large
-Patricia Klee, Alderwoman
-Vengerflutta Smith, Alderwoman
-Derek Thibeault, Alderman
-Jennifer Bishop, President, Nashua Board of Education
-David Cote, former NH House Democratic Leader
-Manny Espitia, former NH House Democratic Floor Leader
+0 Skip to Content Laura Telerski for NH State Senate District 13 Home Endorsements Donate to Laura Open Menu Close Menu Laura Telerski for NH State Senate District 13 Home Endorsements Donate to Laura Open Menu Close Menu Home Endorsements Donate to Laura Endorsements from Community Leaders Jim Donchess , Mayor of Nashua Annie Kuster, former Congresswoman, NH-02 Cindy Rosenwald , NH State Senator Bette Lasky, former NH State Senator Mary Nelson, former NH State Senator Melanie Levesque, former NH State Senator Lori Wilshire , President, Nashua Board of Aldermen Michael O’Brien, Alderman at-Large Benjamin Clemons, Alderman at-Large Alicia Gregg, Alderwoman at-Large Amber Morgan, Alderwoman at-Large Shoshanna Kelly, Alderwoman at-Large Patricia Klee, Alderwoman Vengerflutta Smith, Alderwoman Derek Thibeault, Alderman Jennifer Bishop, President, Nashua Board of Education David Cote, former NH House Democratic Leader Manny Espitia, former NH House Democratic Floor Leader info@LauraTelerski.com Friends of Laura Telerski PO Box 89 Nashua, NH 03060 Donate to laura Paid for by Friends of Laura Telerski, Jason Telerski, Fiscal Agent PO Box 89, Nashua, NH 03060

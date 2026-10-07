@@ -1,9 +1,30 @@
 [
-"https://thehazelfloydcollective.com/",
-"https://thehazelfloydcollective.com/bio",
-"https://thehazelfloydcollective.com/cart",
-"https://thehazelfloydcollective.com/contact",
-"https://thehazelfloydcollective.com/recent-events",
-"https://thehazelfloydcollective.com/signs",
-"https://thehazelfloydcollective.com/the-issues"
+{
+"text": "0",
+"href": "https://www.thehazelfloydcollective.com/cart"
+},
+{
+"text": "Bio",
+"href": "https://www.thehazelfloydcollective.com/bio"
+},
+{
+"text": "Contact",
+"href": "https://www.thehazelfloydcollective.com/contact"
+},
+{
+"text": "On Air",
+"href": "https://www.thehazelfloydcollective.com/recent-events"
+},
+{
+"text": "Signs",
+"href": "https://www.thehazelfloydcollective.com/signs"
+},
+{
+"text": "The Hazel Floyd Collective",
+"href": "https://www.thehazelfloydcollective.com/"
+},
+{
+"text": "The Pillars",
+"href": "https://www.thehazelfloydcollective.com/the-issues"
+}
 ]

@@ -1,6 +1,4 @@
-Get Involved
-Get involved and help shape a stronger Ohio.
-Help Us at the Franklin County Fair
-The Franklin County Fair is one of our biggest opportunities to meet voters and spread our message.
-Sign up for a shift to help represent the campaign, connect with your neighbors, and be part of this exciting grassroots effort.
-👉 Sign up for a fair shift below.
+Home Meet Don Priorities Volunteer Events Photos Donate Now Get Involved Get involved and help shape a stronger Ohio.
+Help Us at the Franklin County Fair The Franklin County Fair is one of our biggest opportunities to meet voters and spread our message.
+Sign up for a shift to help represent the campaign, connect with your neighbors, and be part of this exciting grassroots effort. 👉 Sign up for a fair shift below.
+Sign Up Connect with us to find opportunities to get involved Name Email Address Phone Address Message Ways You Can Help Ways You Can Help Display a Yard Sign Make Phone Calls or Write Letters Host an Event Knock Doors Donate Supplies Technology Support Attend an Event 5 + 2 = Send Message Name Email Address Phone Street Address City and Zip Message Ways You Can Help Ways You Can Help Display a Yard Sign Make Phone Calls Write Letters Host an Event Knock Doors Donate Supplies Technology Support Attend an Event 7 + 14 = Send Message $25 $50 $100 $200 $500 $25 $50 $100 $200 $500 Expungement Expansion Equal Parental Rights Kitchen Table Economics  (614) 207-1673  Connect on Facebook  Contact@DonRobertsforOhio.com Paid for by Friends for Don Roberts Customize Reject All Accept All Powered by

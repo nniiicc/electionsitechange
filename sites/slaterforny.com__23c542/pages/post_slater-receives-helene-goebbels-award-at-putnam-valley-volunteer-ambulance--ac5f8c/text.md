@@ -1,18 +1,18 @@
-SLATER RECEIVES HELENE GOEBBELS AWARD AT PUTNAM VALLEY VOLUNTEER AMBULANCE CORPS’ 65TH ANNIVERSARY DINNER
-New York State Assemblyman Matt Slater (R,C-Yorktown) was honored with the Helene Goebbels Award during the Putnam Valley Volunteer Ambulance Corps’ (PVVAC) 65th Anniversary Dinner.
+top of page Home Volunteer Lawn Sign About Matt Issues Latest News Latest Petitions Clean Slate Petition Cashless Bail Petition Gas Tax Petition MTA Tax Petition Netflix Tax Petition Stop the CCP Stop NYSEG Rate Hike More Use tab to navigate through the menu items.
+DONATE All Posts Search SLATER RECEIVES HELENE GOEBBELS AWARD AT PUTNAM VALLEY VOLUNTEER AMBULANCE CORPS’ 65TH ANNIVERSARY DINNER #ago 2 min read New York State Assemblyman Matt Slater (R,C-Yorktown) was honored with the Helene Goebbels Award during the Putnam Valley Volunteer Ambulance Corps’ (PVVAC) 65th Anniversary Dinner.
 Slater joined members of the Corps, community leaders and supporters in celebrating the organization’s 65 years of service to Putnam Valley.
 The award is named in honor of Helene Goebbels, whose generosity played an important role in the history of PVVAC.
 Goebbels donated the land on which the Corps’ building stands today, providing a permanent home for generations of volunteers.
 The award is presented in her spirit to individuals who demonstrate a strong commitment to community service and supporting others.
 “For 65 years, the dedicated volunteers of the Putnam Valley Volunteer Ambulance Corps have answered the call and been there for our neighbors when they need them most,” said Slater.
 “I am honored and humbled to receive an award that carries such a meaningful legacy of generosity and community service.
-This recognition means a great deal to me, and I am incredibly grateful for the partnership we have built.”
-Slater has worked alongside PVVAC to support the organization and ensure its volunteers have the resources necessary to continue serving the community.
+This recognition means a great deal to me, and I am incredibly grateful for the partnership we have built.” Slater has worked alongside PVVAC to support the organization and ensure its volunteers have the resources necessary to continue serving the community.
 Most recently, Slater was instrumental in securing an $80,000 state grant to replace the Corps’ aging generator, helping ensure the organization can remain operational and respond when residents need emergency assistance.
 “Our volunteer first responders dedicate countless hours to keeping our communities safe, and they deserve to know that we have their backs,” Slater continued.
-“I am proud of what we have been able to accomplish together and remain committed to supporting PVVAC and the critical work its volunteers do every day.”
-“We are proud to recognize Assemblyman Slater with this award and thank him for his continued support of our Corps and our community,” said Sheryl Luongo, President of the Putnam Valley Volunteer Ambulance Corps.
+“I am proud of what we have been able to accomplish together and remain committed to supporting PVVAC and the critical work its volunteers do every day.” “We are proud to recognize Assemblyman Slater with this award and thank him for his continued support of our Corps and our community,” said Sheryl Luongo, President of the Putnam Valley Volunteer Ambulance Corps.
 The anniversary dinner celebrated PVVAC’s longstanding commitment to providing emergency medical services and recognized the generations of volunteers who have contributed to the organization throughout its history.
 “Congratulations to the entire Putnam Valley Volunteer Ambulance Corps on 65 remarkable years of service,” concluded Slater.
 “Thank you to every past and present member who has given their time to help their neighbors and strengthen Putnam Valley.
-I look forward to continuing our partnership for many years to come.”
+I look forward to continuing our partnership for many years to come.” Recent Posts See All SLATER ANNOUNCES PROJECTED $1.9 MILLION INCREASE IN UPK FUNDING FOR LOCAL SCHOOL DISTRICTS SLATER JOINS VOLUNTEER FIREFIGHTERS IN CALLING ON GOV.
+HOCHUL TO SIGN TAX CREDIT INCREASE SLATER'S 9/11 EDUCATION LEGISLATION GAINS SUPPORT FROM 9/11 EDUCATION FOUNDATION Leadership that's making a difference.
+Friends of Matt Slater 2026 334 Underhill Ave., Ste 4B Yorktown Heights, NY 10598 ​ (914) 302-4134 matt@slaterforny.com ​ © Paid for by Friends of Matt Slater # ​ Privacy Policy Join Team Slater ​​Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law. bottom of page

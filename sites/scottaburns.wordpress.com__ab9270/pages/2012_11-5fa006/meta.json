@@ -1,9 +1,19 @@
 {
  "description": "2 posts published by Scott Burns for State Representative during November 2012",
  "final_url": "https://scottaburns.wordpress.com/2012/11/",
- "paid_for_by": null,
+ "fingerprint": "d731314cfa07ee91cc240639992b053b6a72110a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "November | 2012 | scottaburns",
  "years_mentioned": [
-  "2012"
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2018",
+  "2020",
+  "2022",
+  "2026"
  ]
 }

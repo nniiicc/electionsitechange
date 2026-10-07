@@ -1,6 +1,8 @@
 {
  "description": "information for voters",
  "final_url": "https://voteforbobmason.com/vote",
+ "fingerprint": "aa19c111e715296303b77c2aeecd08573bdbcf3f",
+ "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner",
  "title": "Information for voters",
  "years_mentioned": []

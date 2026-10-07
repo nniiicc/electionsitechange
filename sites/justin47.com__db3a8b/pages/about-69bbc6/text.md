@@ -1,10 +1,8 @@
-About Justin
-Meet Justin Griffis
-Attorney.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate About Justin Meet Justin Griffis Attorney.
 Former prosecutor.
 Husband.
 Common-sense Republican.
-Justin Griffis and his wife are residents of Dexter, Michigan.
+Biography Justin Griffis and his wife are residents of Dexter, Michigan.
 Justin played college football for the University of Dayton (Ohio) as an offensive lineman for 5 seasons.
 He graduated from the University of Dayton with a Bachelor of Arts in Political Science in 2011.
 Justin continued his education at the University of Dayton School of Law and graduated with a Juris Doctor degree in 2015.
@@ -17,7 +15,7 @@ Justin moved to Dexter after his wife accepted a position as an Assistant Women'
 After obtaining reciprocity, Justin began working as an Assistant Prosecutor for Jackson County, Michigan in January 2025.
 He resigned from his position at the Prosecutor's Office in August 2025 due to frustration with Michigan's Criminal Justice System.
 He felt it was too lenient on convicted criminals — which says a lot given that he spent the vast majority of his legal career defending accused individuals and convicted criminals as a criminal defense attorney.
-I have had the privilege to practice law for 10 years.
+Why I Am Running I have had the privilege to practice law for 10 years.
 The Criminal Justice Systems in Ohio and Wisconsin made sense to me.
 The guilty were punished and their punishment fit their crime.
 That is not the case here in Michigan.
@@ -40,3 +38,6 @@ As a former offensive lineman, I spent my athletic career in the trenches doing 
 That is the type of attitude that I would bring to Lansing.
 I would roll up my sleeves, get in the trenches, and do the work that needs to be done to make the 47th District and the State of Michigan a better place to live.
 It is time that we get rid of Carrie Rheingans and her far-left nonsense and get back to common sense.
+Ready to Get Involved?
+Donate Volunteer Read the Platform Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

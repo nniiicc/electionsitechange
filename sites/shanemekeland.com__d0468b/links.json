@@ -1,9 +1,38 @@
 [
-"http://shanemekeland.com/donate",
-"https://facebook.com/RepShaneMekeland",
-"https://shanemekeland.com/",
-"https://shanemekeland.com/about-me",
-"https://shanemekeland.com/contact",
-"https://shanemekeland.com/donate",
-"https://twitter.com/ShaneMekeland"
+{
+"text": "About Me",
+"href": "https://shanemekeland.com/about-me/"
+},
+{
+"text": "Contact",
+"href": "https://shanemekeland.com/contact/"
+},
+{
+"text": "Donate",
+"href": "http://shanemekeland.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://shanemekeland.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RepShaneMekeland/"
+},
+{
+"text": "Home",
+"href": "https://shanemekeland.com/"
+},
+{
+"text": "Shane Mekeland",
+"href": "https://shanemekeland.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ShaneMekeland"
+},
+{
+"text": "shane@shanemekeland.com",
+"href": "mailto:shane@shanemekeland.com"
+}
 ]

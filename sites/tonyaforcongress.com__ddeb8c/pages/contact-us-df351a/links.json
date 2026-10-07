@@ -1,16 +1,70 @@
 [
-"http://lp.org/",
-"http://lpin.org/",
-"https://maps.google.com/maps?z=16&q=tonya%2Bhudson%2Bcampaign%2Bp.o.%2Bbox%2B378%2Bmitchell%2C%2Bin%2B47446%2Bphone%3A%2B812.%2Bemail%3A",
-"https://tonyaforcongress.com/",
-"https://tonyaforcongress.com/contact-us",
-"https://tonyaforcongress.com/contact-us?share=facebook",
-"https://tonyaforcongress.com/contact-us?share=twitter",
-"https://tonyaforcongress.com/donate",
-"https://tonyaforcongress.com/issues-2",
-"https://tonyaforcongress.com/photo-gallery",
-"https://tonyaforcongress.com/photo-gallery/102-2/bio-tonya-millis",
-"https://tonyaforcongress.com/rollitback",
-"https://tonyaforcongresscom.wordpress.com/",
-"https://wordpress.com/"
+{
+"text": "812-508-5577",
+"href": "tel:812-508-5577"
+},
+{
+"text": "A WordPress.com Website",
+"href": "https://wordpress.com/"
+},
+{
+"text": "BIOGRAPHY",
+"href": "https://tonyaforcongress.com/photo-gallery/102-2/bio-tonya-millis/"
+},
+{
+"text": "CONTACT US:",
+"href": "https://tonyaforcongress.com/contact-us/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://tonyaforcongress.com/donate/"
+},
+{
+"text": "HOME",
+"href": "https://tonyaforcongresscom.wordpress.com"
+},
+{
+"text": "HudsonforHoosiers@gmail.com",
+"href": "mailto:HudsonforHoosiers@gmail.com"
+},
+{
+"text": "ISSUES",
+"href": "https://tonyaforcongress.com/issues-2/"
+},
+{
+"text": "PHOTO GALLERY",
+"href": "https://tonyaforcongress.com/photo-gallery/"
+},
+{
+"text": "ROLL IT BACK",
+"href": "https://tonyaforcongress.com/rollitback/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://tonyaforcongress.com/contact-us/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://tonyaforcongress.com/contact-us/?share=twitter"
+},
+{
+"text": "Tonya Hudson CampaignP.O. Box 378Mitchell, IN 47446Phone: 812.Email:",
+"href": "https://maps.google.com/maps?z=16&q=tonya%2Bhudson%2Bcampaign%2Bp.o.%2Bbox%2B378%2Bmitchell%2C%2Bin%2B47446%2Bphone%3A%2B812.%2Bemail%3A"
+},
+{
+"text": "Tonya Hudson For Congress",
+"href": "https://tonyaforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://tonyaforcongress.com/"
+},
+{
+"text": "http://www.lp.org",
+"href": "http://www.lp.org"
+},
+{
+"text": "http://www.lpin.org",
+"href": "http://www.lpin.org"
+}
 ]

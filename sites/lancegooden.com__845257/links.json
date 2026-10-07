@@ -1,6 +1,26 @@
 [
-"https://lancegooden.com/",
-"https://lancegooden.com/cart",
-"https://lancegooden.com/privacypolicy",
-"https://secure.anedot.com/lancegooden/donate"
+{
+"text": "0",
+"href": "https://www.lancegooden.com/cart"
+},
+{
+"text": "DONATE TO LANCE'S CAMPAIGN HERE",
+"href": "https://secure.anedot.com/lancegooden/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/lancegooden/donate"
+},
+{
+"text": "Home",
+"href": "https://www.lancegooden.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lancegooden.com/privacypolicy"
+},
+{
+"text": "[image: Lance Gooden for Congress]",
+"href": "https://www.lancegooden.com/"
+}
 ]

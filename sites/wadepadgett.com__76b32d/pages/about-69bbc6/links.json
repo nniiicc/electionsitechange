@@ -1,7 +1,38 @@
 [
-"https://secure.anedot.com/committee-to-elect-j-wade-padgett/2b32c30f-06da-44bb-9767-b0a67d4474d1",
-"https://wadepadgett.com/",
-"https://wadepadgett.com/about",
-"https://wadepadgett.com/contact",
-"https://wadepadgett.com/donate"
+{
+"text": "About",
+"href": "https://wadepadgett.com/about"
+},
+{
+"text": "Contact",
+"href": "https://wadepadgett.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-j-wade-padgett/2b32c30f-06da-44bb-9767-b0a67d4474d1"
+},
+{
+"text": "Donate",
+"href": "https://wadepadgett.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://wadepadgett.com/contact"
+},
+{
+"text": "Home",
+"href": "https://wadepadgett.com"
+},
+{
+"text": "[image: Judge Wade Padgett Logo - White]",
+"href": "https://wadepadgett.com"
+},
+{
+"text": "[image: Judge Wade Padgett Logo]",
+"href": "https://wadepadgett.com"
+},
+{
+"text": "wade@wadepadgett.com",
+"href": "mailto:wade@wadepadgett.com"
+}
 ]

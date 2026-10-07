@@ -1,12 +1,66 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://mainewebsite.design/",
-"https://mikeperkinsformainehouse.com/",
-"https://mikeperkinsformainehouse.com/about",
-"https://mikeperkinsformainehouse.com/contact",
-"https://mikeperkinsformainehouse.com/issues",
-"https://mikeperkinsformainehouse.com/privacy",
-"https://mikeperkinsformainehouse.com/terms",
-"https://x.com/"
+{
+"text": "(207) 716-6968",
+"href": "tel:+12077166968"
+},
+{
+"text": "About",
+"href": "https://mikeperkinsformainehouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://mikeperkinsformainehouse.com/contact"
+},
+{
+"text": "Contact Mike",
+"href": "https://mikeperkinsformainehouse.com/contact"
+},
+{
+"text": "Home",
+"href": "https://mikeperkinsformainehouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://mikeperkinsformainehouse.com/issues"
+},
+{
+"text": "Mike Perkins for Maine House",
+"href": "https://mikeperkinsformainehouse.com/"
+},
+{
+"text": "Privacy policy",
+"href": "https://mikeperkinsformainehouse.com/privacy"
+},
+{
+"text": "Terms of use",
+"href": "https://mikeperkinsformainehouse.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://x.com"
+},
+{
+"text": "mainewebsite.design",
+"href": "https://mainewebsite.design"
+},
+{
+"text": "mike@kmddrivingschool.com",
+"href": "mailto:mike@kmddrivingschool.com"
+},
+{
+"text": "📞Call",
+"href": "tel:+12077166968"
+},
+{
+"text": "📩Email",
+"href": "mailto:mike@kmddrivingschool.com"
+}
 ]

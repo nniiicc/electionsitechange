@@ -1,22 +1,86 @@
 [
-"https://beerfornh.com/",
-"https://beerfornh.com/about",
-"https://beerfornh.com/cart",
-"https://beerfornh.com/get-involved",
-"https://beerfornh.com/home",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057820495-7CEKOI5VJ25971UPR7Z3/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057821702-2KNZLMS3J186BM4ARSXI/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057822892-IG1UIUXZNL2JYZX4S8VX/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057824039-VMP2ISNP4G7L0HNNAA40/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057825106-I38Z4X5PBBABV08DWAG1/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057826406-PAXQMWWAPEMTRWX9S8GK/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057827378-8K274YTFALNH3IFB78UD/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057828539-8GDAIXGALM4SC7NFPQ4W/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779980551303-NB086HXFU72GN4637T3J/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1780269172344-UIVV5IGOD1QHNM4WW4C8/image-asset.jpeg",
-"https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1781226016517-91IGVNUPIEUWC7WNUUJ0/image-asset.jpeg",
-"https://instagram.com/beer4nh",
-"https://linkedin.com/in/marianabeer",
-"https://secure.actblue.com/donate/mariana-beer-1",
-"https://vivianbeer.com/"
+{
+"text": "0",
+"href": "https://beerfornh.com/cart"
+},
+{
+"text": "About Mariana",
+"href": "https://beerfornh.com/about"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/mariana-beer-1"
+},
+{
+"text": "Get Involved",
+"href": "https://beerfornh.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://beerfornh.com/home"
+},
+{
+"text": "Mariana Beer // State Rep // Pembroke",
+"href": "https://beerfornh.com/"
+},
+{
+"text": "View fullsize [image: Great times with this crew! I love every opportunity to hang out with my friends from all over the state and get fired up for what's to come. 192 days!][image: Great times with this crew! I love every opportunity to hang out with my friends from all over the state and get fired up for what's to come. 192 days!]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057821702-2KNZLMS3J186BM4ARSXI/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image: I can always count on my friends to capture the silly faces I make when I speak up. Thankful for the platform and opportunity to hear from my peers. Hosted by Rep. Maggie Goodlander and Rep. Jake Auchincloss][image: I can always count on my friends to capture the silly faces I make when I speak up. Thankful for the platform and opportunity to hear from my peers. Hosted by Rep. Maggie Goodlander and Rep. Jake Auchincloss]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057820495-7CEKOI5VJ25971UPR7Z3/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image: Local Elections are increasingly important for our communities. I'm grateful to all the volunteers and neighbors that show up to vote!][image: Local Elections are increasingly important for our communities. I'm grateful to all the volunteers and neighbors that show up to vote!]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057825106-I38Z4X5PBBABV08DWAG1/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image: Quick stop at the Vintage Cup for some cold brew and a treat to fuel my day! Campaign kick-off happening soon!][image: Quick stop at the Vintage Cup for some cold brew and a treat to fuel my day! Campaign kick-off happening soon!]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057822892-IG1UIUXZNL2JYZX4S8VX/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image: Serving on Pembroke's Budget Commitee IS fun. Just look at our smiles during the last Town Meeting][image: Serving on Pembroke's Budget Commitee IS fun. Just look at our smiles during the last Town Meeting]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057827378-8K274YTFALNH3IFB78UD/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image: Super thankful to the team at @603forward for putting this together!! I was able to attend Saturday's training and it was great!!! I have tons of follow-up work and a helpful guide! . Also... I met lots of great folks running for office!!! . #votef][image: Super thankful to the team at @603forward for putting this together!! I was able to attend Saturday's training and it was great!!! I have tons of follow-up work and a helpful guide! . Also... I met lots of great folks running for office!!! . #votef]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1780269172344-UIVV5IGOD1QHNM4WW4C8/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image: The NH Latino Caucus held their monthly meeting yesterday, AND it was a plant swap!! We had a great time catching up with each other and talking about the issues we face across the state. . We are getting ready to co-host candidate forums in Concord][image: The NH Latino Caucus held their monthly meeting yesterday, AND it was a plant swap!! We had a great time catching up with each other and talking about the issues we face across the state. . We are getting ready to co-host candidate forums in Concord]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779980551303-NB086HXFU72GN4637T3J/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image: The Pembroke Democrats were happy to host @repgoodlander for a Town Hall at our fantastic Town Library. Thanks to all who joined and asked very important and diverse questions! . Civic engagement matters!][image: The Pembroke Democrats were happy to host @repgoodlander for a Town Hall at our fantastic Town Library. Thanks to all who joined and asked very important and diverse questions! . Civic engagement matters!]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057826406-PAXQMWWAPEMTRWX9S8GK/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image: This crew!!! Old Home Day 2025! Can't wait for the next one!][image: This crew!!! Old Home Day 2025! Can't wait for the next one!]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057824039-VMP2ISNP4G7L0HNNAA40/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image: Two big wins today! First, Mexico wins the first match of the 2026 #worldcup against South Africa (great game!) and second, my first yard sign is up! . Be on the lookout. They'll be out soon! . . . . Original design by @campnevernice][image: Two big wins today! First, Mexico wins the first match of the 2026 #worldcup against South Africa (great game!) and second, my first yard sign is up! . Be on the lookout. They'll be out soon! . . . . Original design by @campnevernice]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1781226016517-91IGVNUPIEUWC7WNUUJ0/image-asset.jpeg"
+},
+{
+"text": "View fullsize [image][image]",
+"href": "https://images.squarespace-cdn.com/content/v1/6a0127ca3248586fcec403bf/1779057828539-8GDAIXGALM4SC7NFPQ4W/image-asset.jpeg"
+},
+{
+"text": "Vivian Beer",
+"href": "https://www.vivianbeer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beer4nh"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/marianabeer"
+},
+{
+"text": "beerfornh@gmail.com",
+"href": "mailto:beerfornh@gmail.com"
+}
 ]

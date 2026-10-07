@@ -1,27 +1,154 @@
 [
-"http://jlbtestsite.com/",
-"https://facebook.com/Lynch.Stephen",
-"https://secure.actblue.com/donate/stephen-lynch-2",
-"https://stephenflynch.com/",
-"https://stephenflynch.com/11-2",
-"https://stephenflynch.com/11-2/join-the-team",
-"https://stephenflynch.com/category/8th-congressional-district",
-"https://stephenflynch.com/category/essential-infrastructure",
-"https://stephenflynch.com/category/jobs-economic-opportunity",
-"https://stephenflynch.com/category/national-security",
-"https://stephenflynch.com/category/news-updates",
-"https://stephenflynch.com/category/protecting-the-post-office",
-"https://stephenflynch.com/deja-vu-for-congressman-lynch",
-"https://stephenflynch.com/essential-infrastructure/page/2",
-"https://stephenflynch.com/essential-infrastructure/www.jlbtestsite.com/privacy-policy",
-"https://stephenflynch.com/lets-protect-folks-rep-lynch-urges-congress-to-invalidate-trumps-mail-in-ballot-order",
-"https://stephenflynch.com/lynch-warns-as-job-cuts-continue",
-"https://stephenflynch.com/massachusetts-congressman-stephen-lynch-reacts-to-fta-report-on-mbta-safety",
-"https://stephenflynch.com/rep-lynch-and-ma-delegation-announce-first-round-of-federal-transit-funding-for-massachusetts-and-regional-transit-authorities-from-bipartisan-infrastructure-law",
-"https://stephenflynch.com/rep-lynch-and-massachusetts-congressional-delegation-applaud-first-round-of-bridge-formula-funding-from-bipartisan-infrastructure-law",
-"https://stephenflynch.com/rep-lynch-transportation-commitee-member-advocates-for-receivership-of-mbta",
-"https://stephenflynch.com/rep-stephen-lynch-discusses-woes-facing-the-mbta",
-"https://stephenflynch.com/us-representative-lynch-seeking-review-of-flight-operations-at-logan-airport-after-safety-incidents",
-"https://stephenflynch.com/us-representatives-union-workers-warn-critical-boston-ship-repair-vanishing-without-investment-work",
-"https://twitter.com/replynch"
+{
+"text": "8th Congressional District",
+"href": "https://www.stephenflynch.com/category/8th-congressional-district/"
+},
+{
+"text": "Contact Us",
+"href": "mailto: info@stephenflynch.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/stephen-lynch-2"
+},
+{
+"text": "Déjà vu for Congressman Lynch",
+"href": "https://www.stephenflynch.com/deja-vu-for-congressman-lynch/"
+},
+{
+"text": "Essential Infrastructure",
+"href": "https://www.stephenflynch.com/category/essential-infrastructure/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/replynch"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/Lynch.Stephen"
+},
+{
+"text": "Jobs & Economic Opportunity",
+"href": "https://www.stephenflynch.com/category/jobs-economic-opportunity/"
+},
+{
+"text": "Join the Team",
+"href": "https://www.stephenflynch.com/11-2/join-the-team"
+},
+{
+"text": "Lynch warns as job cuts continue",
+"href": "https://www.stephenflynch.com/lynch-warns-as-job-cuts-continue/"
+},
+{
+"text": "Massachusetts Congressman Stephen Lynch reacts to FTA report on MBTA safety",
+"href": "https://www.stephenflynch.com/massachusetts-congressman-stephen-lynch-reacts-to-fta-report-on-mbta-safety/"
+},
+{
+"text": "Meet Stephen",
+"href": "https://www.stephenflynch.com/11-2/#meet-stephen"
+},
+{
+"text": "National Security",
+"href": "https://www.stephenflynch.com/category/national-security/"
+},
+{
+"text": "News & Updates",
+"href": "https://www.stephenflynch.com/11-2/#news"
+},
+{
+"text": "News & Updates",
+"href": "https://www.stephenflynch.com/category/news-updates/"
+},
+{
+"text": "Our Priorities",
+"href": "https://www.stephenflynch.com/11-2/#our-priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stephenflynch.com/essential-infrastructure/www.jlbtestsite.com/privacy-policy"
+},
+{
+"text": "Protecting the Post Office",
+"href": "https://www.stephenflynch.com/category/protecting-the-post-office/"
+},
+{
+"text": "Read about additional priorities",
+"href": "http://www.jlbtestsite.com/#our-priorities"
+},
+{
+"text": "Rep. Lynch and MA Delegation Announce First Round of Federal Transit Funding for Massachusetts and Regional Transit Authorities from Bipartisan Infrastructure Law",
+"href": "https://www.stephenflynch.com/rep-lynch-and-ma-delegation-announce-first-round-of-federal-transit-funding-for-massachusetts-and-regional-transit-authorities-from-bipartisan-infrastructure-law/"
+},
+{
+"text": "Rep. Lynch and Massachusetts Congressional Delegation Applaud First Round of Bridge Formula Funding from Bipartisan Infrastructure Law",
+"href": "https://www.stephenflynch.com/rep-lynch-and-massachusetts-congressional-delegation-applaud-first-round-of-bridge-formula-funding-from-bipartisan-infrastructure-law/"
+},
+{
+"text": "Rep. Lynch, transportation commitee member, advocates for receivership of MBTA",
+"href": "https://www.stephenflynch.com/rep-lynch-transportation-commitee-member-advocates-for-receivership-of-mbta/"
+},
+{
+"text": "Rep. Stephen Lynch discusses woes facing the MBTA",
+"href": "https://www.stephenflynch.com/rep-stephen-lynch-discusses-woes-facing-the-mbta/"
+},
+{
+"text": "US Representative Lynch seeking review of flight operations at Logan Airport after safety incidents",
+"href": "https://www.stephenflynch.com/us-representative-lynch-seeking-review-of-flight-operations-at-logan-airport-after-safety-incidents/"
+},
+{
+"text": "US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work",
+"href": "https://www.stephenflynch.com/us-representatives-union-workers-warn-critical-boston-ship-repair-vanishing-without-investment-work/"
+},
+{
+"text": "[image: Stephen F Lynch]",
+"href": "https://www.stephenflynch.com/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/deja-vu-for-congressman-lynch/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/lets-protect-folks-rep-lynch-urges-congress-to-invalidate-trumps-mail-in-ballot-order/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/lynch-warns-as-job-cuts-continue/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/massachusetts-congressman-stephen-lynch-reacts-to-fta-report-on-mbta-safety/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/rep-lynch-and-ma-delegation-announce-first-round-of-federal-transit-funding-for-massachusetts-and-regional-transit-authorities-from-bipartisan-infrastructure-law/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/rep-lynch-and-massachusetts-congressional-delegation-applaud-first-round-of-bridge-formula-funding-from-bipartisan-infrastructure-law/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/rep-lynch-transportation-commitee-member-advocates-for-receivership-of-mbta/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/rep-stephen-lynch-discusses-woes-facing-the-mbta/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/us-representative-lynch-seeking-review-of-flight-operations-at-logan-airport-after-safety-incidents/"
+},
+{
+"text": "read more",
+"href": "https://www.stephenflynch.com/us-representatives-union-workers-warn-critical-boston-ship-repair-vanishing-without-investment-work/"
+},
+{
+"text": "« Older Entries",
+"href": "https://www.stephenflynch.com/essential-infrastructure/page/2/?et_blog="
+},
+{
+"text": "‘Let’s protect folks’: Rep. Lynch urges Congress to invalidate Trump’s mail-in ballot order",
+"href": "https://www.stephenflynch.com/lets-protect-folks-rep-lynch-urges-congress-to-invalidate-trumps-mail-in-ballot-order/"
+}
 ]

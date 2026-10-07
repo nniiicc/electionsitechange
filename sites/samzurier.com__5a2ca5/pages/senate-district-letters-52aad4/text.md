@@ -1,5 +1,4 @@
-2023 Letters
-My December 3 letter discusses an upcoming community meeting and describes a range of efforts to improve the Providence Public Schools.
+Home About Bio Public Service Record Projects 2022-23 District Letters 2024 District Letters 2025 District Letters 2026 District Letters Legislation State Legislation State Issues DONATE Join My Email List Select Page 2021-23 Senate District Letters 2023 Letters My December 3 letter discusses an upcoming community meeting and describes a range of efforts to improve the Providence Public Schools.
 My November 19 letter discusses Health Equity Zones and an update on the work of the Senate commission studying the Providence Public Schools.
 My November 5 letter discusses the draft report of the Non-Plurality Voting Commission.
 My October 29 letter provides updates on Senate commissions studying non-plurality voting systems and labor-management relations in the Providence Public Schools.
@@ -26,11 +25,10 @@ My January 29 letter describes the changes the Governor’s budget proposes to t
 My January 22 letter discusses the State education aid funding formula’s method for calculating the State share of the foundation budget.
 My January 15 letter describes the State education aid funding formula’s “student success factor,” explaining its shortcomings and proposing reforms.
 I am maintaining a collection of documents related to the 2023 Budget.
-You can view these source materials by clicking here.
+You can view these source materials by clicking here .
 My January 8 letter discusses the “core instruction budget” component of the State education aid funding formula.
 My January 1 letter provides an initial overview of the State’s school aid funding formula.
-2022 Letters
-My December 18 letter discusses the School Department’s decision to close three schools.
+2022 Letters My December 18 letter discusses the School Department’s decision to close three schools.
 My October 30 letter discusses the voter questions that appear on the November ballot.
 My October 2 letter discusses a recent Senate Oversight Committee hearing concerning the State’s takeover of the Providence Public Schools.
 My September 14 letter thanks voters for supporting my nomination as the Democratic Party candidate in November’s election, and shares some of my initial observations from the recently concluded campaign.
@@ -53,25 +51,23 @@ My April 10 letter describes the State’s decision to hire a permanent superint
 My April 3 letter discusses a bill I have introduced to reform our State’s takeover of schools and school districts generally, and the State’s takeover of the Providence Public Schools in particular.
 My March 27 letter describes two examples of why greater accountability and transparency is needed in the State’s takeover of the Providence Public Schools.
 My March 20 letter discusses the consequences of building future funding obligations into the use of “one time” federal ARPA funds.
-In my March 13 letter, I discuss the City’s pension obligation bond performance and the administration’s failure to use funds previously appropriated to mend the social services “safety net.”
-In my March 6, 2022 Letter, I discuss the Senate Oversight Committee’s recent hearing on the State’s takeover of the Providence Public Schools.
-In my February 27, 2022 Letter, I discuss legislation I have introduced or co-sponsored in the area of education.
-In my February 20, 2022 Letter, I discuss the relationship among the different budgets the General Assembly will be reviewing and acting upon this year.
-In my February 13, 2022 letter, I discuss an environmental issue in the Governor’s budget and legislation I introduced concerning ranked choice voting.
+In my March 13 letter , I discuss the City’s pension obligation bond performance and the administration’s failure to use funds previously appropriated to mend the social services “safety net.” In my March 6, 2022 Letter , I discuss the Senate Oversight Committee’s recent hearing on the State’s takeover of the Providence Public Schools.
+In my February 27, 2022 Letter , I discuss legislation I have introduced or co-sponsored in the area of education.
+In my February 20, 2022 Letter , I discuss the relationship among the different budgets the General Assembly will be reviewing and acting upon this year.
+In my February 13, 2022 letter , I discuss an environmental issue in the Governor’s budget and legislation I introduced concerning ranked choice voting.
 In my February 6, 2022 letter, I discuss the Providence pension obligation bond proposal and preview upcoming hearings in the Senate.
-In my January 30, 2022 letter, I discuss items in three major components of the Governor’s budget, and invite neighbords to join me for a virtual town hall meeting
-In my January 23, 2022 letter, I provide an initial overview of the Governor’s State budget.
-I have created a Budget Documents Page, which includes the “budget books” prepared by the administration in connection with its presentation of the budget, and the Department of Treasury’s Interim Final Rule, which governs the use of the American Rescue Plan Act funds incorporated into the budget.
+In my January 30, 2022 letter, I discuss items in three major components of the Governor’s budget, and invite neighbords to join me for a virtual town hall meeting In my January 23, 2022 letter , I provide an initial overview of the Governor’s State budget.
+I have created a Budget Documents Page , which includes the “budget books” prepared by the administration in connection with its presentation of the budget, and the Department of Treasury’s Interim Final Rule, which governs the use of the American Rescue Plan Act funds incorporated into the budget.
 I will update this page as additional information becomes available.
-In my January 16, 2022 Letter, I provide an update on the legislative redistricting process and discuss the housing shortage in the City and the State.
+In my January 16, 2022 Letter , I provide an update on the legislative redistricting process and discuss the housing shortage in the City and the State.
 In my January 9, 2022 Letter , I discuss three votes in the Senate’s opening session, in which it approved a supplemental budget of federal American Rescue Plan Act (ARPA) funds and overrode two vetoes.
-2021 Letters
-In my December 19 letter, I discuss the supplemental federal budget that the Senate Finance Committee approved as a “down payment” of American Rescue Plan Act funds.
-In my December 12 letter, I discuss this year’s legislative grants and the Governor’s changes to the Council 94 collective bargaining agreement.
-In my December 9, 2021 Letter, I discuss the Senate redistricting process.
-In my December 5 letter, I discuss the recently approved collective bargaining agreement with State employee Council 94.
-In my November 28 letter, I discuss the Senate Finance Committee’s review of “safety net” programs contained with the Governor’s “down payment” budget for spending the first 10% of federal funds.
-In my November 24 letter, I describe the legislative grant process.
-In my November 21 letter, I review the Rhode Island 2030 working document prepared by the administration to provide guidance for the use of American Rescue Plan Act funds.
-In my November 14 letter, I describe the general principles Congress established for the proper use of American Rescue Plan Act funds allocated to States through the State Fiscal Relief Fund program.
-In my November 5 letter, I discuss the Senate Oversight Committee’s second hearing on the Providence Public Schools takeover by the State.
+2021 Letters In my December 19 letter , I discuss the supplemental federal budget that the Senate Finance Committee approved as a “down payment” of American Rescue Plan Act funds.
+In my December 12 letter , I discuss this year’s legislative grants and the Governor’s changes to the Council 94 collective bargaining agreement.
+In my December 9, 2021 Letter , I discuss the Senate redistricting process.
+In my December 5 letter , I discuss the recently approved collective bargaining agreement with State employee Council 94.
+In my November 28 letter , I discuss the Senate Finance Committee’s review of “safety net” programs contained with the Governor’s “down payment” budget for spending the first 10% of federal funds.
+In my November 24 letter , I describe the legislative grant process.
+In my November 21 letter , I review the Rhode Island 2030 working document prepared by the administration to provide guidance for the use of American Rescue Plan Act funds.
+In my November 14 letter , I describe the general principles Congress established for the proper use of American Rescue Plan Act funds allocated to States through the State Fiscal Relief Fund program.
+In my November 5 letter , I discuss the Senate Oversight Committee’s second hearing on the Providence Public Schools takeover by the State.
+Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Join My Email List [ctct form="3808" show_title="false"] © Copyright # Paid for and Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer.

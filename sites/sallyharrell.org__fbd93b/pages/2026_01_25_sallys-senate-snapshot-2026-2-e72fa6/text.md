@@ -1,7 +1,5 @@
-Sally’s Senate Snapshot 2026 #2
-Budget Week — Rhetoric vs.
-Reality
-The second week of Georgia’s legislative session is reserved for what we colloquially call “budget hearings.” Officially, these are Joint Committee meetings of the House & Senate Appropriations Committees.
+Facebook Twitter Mail About Sally 2024 Endorsements 2022 Endorsements 2020 Endorsements 2018 Endorsements Priorities Healthcare Education Transportation Environment Criminal Justice & Police Reform Other Issues Voter Info Events Newsletters Contact DONATE Menu Menu Sally’s Senate Snapshot 2026 #2 News Sally’s Senate Snapshot 2026 #2 Budget Week — Rhetoric vs.
+Reality The second week of Georgia’s legislative session is reserved for what we colloquially call “budget hearings.” Officially, these are Joint Committee meetings of the House & Senate Appropriations Committees.
 The “hearings” give agency heads the opportunity to pitch their budget proposals to legislators.
 Most agency heads are appointed by the Governor, so they tend to be Republicans, and many have served as legislators or Governor’s staff prior to their appointment.
 During my years in the Senate, I’ve noticed a pattern.
@@ -19,8 +17,7 @@ Georgia’s recent surpluses are a result of the Governor repeatedly underestima
 That’s not a long-term funding strategy.
 Governor Kemp is in his final year, future governors will budget differently, and the current $10 billion surplus will be spent down quickly if it’s used to backfill income tax cuts.
 Even the Wall Street Journal, owned by the same family that owns Fox News, said this week that the Burt Jones’ tax plan would fail the state.
-Affordability Talk, Healthcare Silence
-Republicans are talking about affordability — but when it comes to healthcare, there’s a deafening silence.
+Affordability Talk, Healthcare Silence Republicans are talking about affordability — but when it comes to healthcare, there’s a deafening silence.
 Hundreds of thousands of Georgians are at risk of losing coverage.
 Hospitals are warning of serious financial strain.
 Communities across the state are bracing for cuts in care.
@@ -32,11 +29,9 @@ Democrats, meanwhile, are actually offering solutions.
 The Senate Democratic Caucus filed SB 380 to expand Medicaid and SB 379, the Health Insurance Affordability and Consumer Protection Act, to lower costs and strengthen consumer protections in the private insurance market.
 I also filed SB 360, a public option that would allow any Georgian to buy into the state’s Medicaid program — driving down insurance costs for families and small businesses.
 But it’s doubtful that Republicans will allow these measures to move forward.
-Where the Rubber Hits the Road
-If political speeches tell you what leaders want you to hear, Budget Week tells you what’s actually happening.
+Where the Rubber Hits the Road If political speeches tell you what leaders want you to hear, Budget Week tells you what’s actually happening.
 As agency heads testified before the Joint Appropriations Committee, it became clear Governor Kemp’s incremental income tax cuts have left major parts of state government stretched to the breaking point.
-The most troubling to me is what I heard about Georgia’s child welfare system — children who are placed in the state’s care because the state has determined they are not safe in their own home:
-- Child welfare on the brink: There’s an old African proverb that says a child who is not embraced by the village will burn it down to feel its warmth.
+The most troubling to me is what I heard about Georgia’s child welfare system — children who are placed in the state’s care because the state has determined they are not safe in their own home: Child welfare on the brink: There’s an old African proverb that says a child who is not embraced by the village will burn it down to feel its warmth.
 I remember a training exercise I did at the University of Georgia when I was a new legislator.
 Assigned to bi-partisan working groups, we were asked to solve difficult policy issues using a structured set of values.
 Our group was tasked with figuring out how to strengthen our child welfare system.
@@ -46,25 +41,30 @@ Why are we talking about tax refunds and income tax cuts when we can’t even pr
 And why are we not using our reserve funds?
 I blame this solely on Governor Kemp, who hoards reserve funds while he watches Georgians suffer.
 It’s pathological.
-- Mental health and public safety strain: Despite recent progress in expanding Georgia’s mental health capacity, we still face a shortage of 232 forensic hospital beds, with more than 800 people waiting for placement, many stuck in emergency rooms, out-of-state hospitals, and local jails unequipped to treat them.
+Mental health and public safety strain: Despite recent progress in expanding Georgia’s mental health capacity, we still face a shortage of 232 forensic hospital beds, with more than 800 people waiting for placement, many stuck in emergency rooms, out-of-state hospitals, and local jails unequipped to treat them.
 I stay in regular contact with a mother whose son, who has complex medical and behavioral challenges, has been sent to Texas because Georgia cannot meet his needs.
 In an 11-Alive interview, she says, “There’s a level of sadness, and just pressure, and just pain, that you feel from not being close to your loved one.” There’s only so much the Commissioner of the Department of Behavioral Health & Developmental Disabilities can do within the limits of the Governor’s merciless budget restrictions.
-- Unemployment system unprepared: According to Labor Commissioner Barbara Rivera Holmes, Georgia’s unemployment insurance trust fund remains $1.5 billion below federal solvency standards after it was depleted during the pandemic.
+Unemployment system unprepared: According to Labor Commissioner Barbara Rivera Holmes, Georgia’s unemployment insurance trust fund remains $1.5 billion below federal solvency standards after it was depleted during the pandemic.
 Georgia’s UI trust fund is currently $1.98 billion.
 The US Department of Labor’s standard to weather a recession is $3.48 billion.
 This leaves the state exposed when the next downturn hits.
 There’s a plan to address it, but it’s going to take some work.
-- Disaster recovery delays: With 98% of GEMA funding coming from the federal government, Washington red tape has slowed reimbursements.
+Disaster recovery delays: With 98% of GEMA funding coming from the federal government, Washington red tape has slowed reimbursements.
 Nearly $400 million in Hurricane Helene funds are still owed to local governments, creating serious cash-flow challenges for cities and counties.
-- Workforce crisis across state government: Severe staffing shortages and turnover threaten core functions.
+Workforce crisis across state government: Severe staffing shortages and turnover threaten core functions.
 Chief Justice Nels Peterson testified that both the Supreme Court and Court of Appeals have experienced roughly 75% staff attorney turnover over the past five to six years — calling it “catastrophic” and “unsustainable.” Similar turnover and staffing shortages exist at the GBI, Public Health, and the Department of Agriculture.
 These aren’t abstract concerns.
 They are immediate threats to public safety, child welfare, economic stability, disaster recovery, and the basic functioning of state government.
-What’s Next
-Due to the weather and many legislators having to come to Atlanta from all over the state, the legislature will gavel in on Monday with no one in the chambers, burning a day on the legislative calendar.
+What’s Next Due to the weather and many legislators having to come to Atlanta from all over the state, the legislature will gavel in on Monday with no one in the chambers, burning a day on the legislative calendar.
 Regular business will resume as soon as the weather allows.
 What’s It Matter to You?
 Speaking of affordability, I’ve resumed my “What’s It Matter to You?” video series, focused on helping young people understand how state government decisions affect their lives.
 My latest video encourages young people to pay attention this year to who offers the best solutions for affordability.
 This November, every statewide officeholder and every legislator will be on the ballot, and voters will get to decide who’s in charge at the Capitol.
 View the video here.
+January 25, 2026 / by Sally Harrell Share this entry Share on Facebook Share on Twitter Share on WhatsApp Share by Mail https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png 0 0 Sally Harrell https://sallyharrell.org/wp-content/uploads/2020/08/Senator_SallyHarrell_Site_Logo-new.png Sally Harrell 2026-01-25 18:54:34 2026-01-25 18:54:40 Sally’s Senate Snapshot 2026 #2 Stay in Touch Subscribe to Sally’s email list.
+Newsletter Volunteer Yard Sign Support Sally’s Campaign Our supporters are the heart of our campaign.
+Thank you!
+Yard Sign Volunteer DONATE © # Paid for by The Committee to Elect Sally Harrell.
+Designed by Benton Creative .
+Facebook Twitter Mail Sally’s Senate Snapshot 2026 #1 Sally’s Senate Snapshot 2026 #3 Scroll to top

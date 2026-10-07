@@ -1,0 +1,2 @@
+Skip to content Julián Villarreal, PhD for Texas Senate About Campaign Issues Events Contact Donate Facebook Instagram X Bluesky Date: October 14, 2026 Time: All Day Calendar: My Calendar We will be blockwalking in a different precinct every day through Election Day.
+Send us a message via the contact form to get involved or email the campaign at: info@julianfortxsenate.org Julián Villarreal, PhD for Texas Senate Pol. adv. paid by Julián Villarreal for Texas Senate English Español de México

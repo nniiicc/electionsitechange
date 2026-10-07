@@ -1,4 +1,4 @@
-I am a stay-at-home-mom and committed public servant serving three terms in the Kansas House of Representatives.
+Skip to main content Jo Ella Hoye for Kansas Menu About Me My Priorities Newsletter Contribute Meet Jo Ella Hoye I am a stay-at-home-mom and committed public servant serving three terms in the Kansas House of Representatives.
 I serve as the House Minority Whip and am a member of House Appropriations, Transportation, and Transportation and Public Safety Budget committees.
 I’ve held various local government management positions in the public, private, and non-profit sectors; most recently as a Senior Analyst in the Johnson County Manager’s Office.
 I volunteered for Moms Demand Action for Gun Sense in America for over three and a half years, including as Kansas Chapter Leader.
@@ -12,4 +12,7 @@ I earned my Master’s Degree in Public Administration from the University of Ka
 Brian, William (our high school Freshman), and I live in Lenexa with our mini dachshund girl, Tonks.
 I vow to be respectful of my constituents and colleagues.
 At the end of the day, we are all neighbors living and working in the wonderful State of Kansas; we can’t let our differences divide us.
-AD ASTRA PER ASPERA
+AD ASTRA PER ASPERA About Me My Priorities Newsletter Contribute Facebook Twitter joellaforkansas@gmail.com · (816) 248-2601 Jo Ella for Kansas P.O.
+Box 14534 Lenexa, KS 66285 Paid for by Jo Ella for Kansas.
+Megan Langford, Treasurer.
+Privacy Policy

@@ -1,4 +1,5 @@
-Volunteer Have a skill or talent to share with #TeamPrice?
+0 Skip to Content Home Meet Natalie About Natalie Natalie's Record Endorsements Priorities Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Open Menu Close Menu Home Meet Natalie About Natalie Natalie's Record Endorsements Priorities Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Open Menu Close Menu Home Folder: Meet Natalie Back About Natalie Natalie's Record Endorsements Folder: Priorities Back Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Volunteer Have a skill or talent to share with #TeamPrice?
 Help us connect with voters across the district and spread the word about my campaign.
 Sign up for a volunteer shift!
 SIGN UP NOW!
+Paid for by the Committee to Elect Natalie Price for State Senate | 2428 Phillips Ave, Berkley, MI 48072 Privacy Policy

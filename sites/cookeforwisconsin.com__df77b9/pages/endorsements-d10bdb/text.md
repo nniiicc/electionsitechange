@@ -1,43 +1,18 @@
-AFGE Local 704
-AFSCME
-Amalgamated Transit Union International
-American Association for Justice
-American Postal Workers Union
-Association of Flight Attendants
-Blue Dog Caucus
-Communication Workers of America, District 4
-Council for a Livable World
-Defend the Vote
-EDF Action
-Elect Democratic Women
-EMILY’s List
-End Citizens United
-Get Out The Vote
-International Brotherhood of Electrical Workers
-International Union of Painters and Allied Trades
-Iron Workers Local 383
-Iron Workers Local 512
-Laborers’ International Union of America
-National Committee to Preserve Social Security and Medicare
-New Dems Action Fund
-Northern Midwest Regional Council of Carpenters
-SEIU Wisconsin State Council
-Sheet Metal, Air, Transportation and Rail (SMART) Union
-Social Security Works
-Steelworkers District 7
-Teamsters Joint Council 32
-Teamsters Joint Council 39
-UAW Region 4
-UFCW Local 1473
-WI-AFL CIO
-Wisconsin Bricklayers and Allied Craftworkers Union
-Wisconsin Education Association Council
-Wisconsin State Council of Machinists
-Trusted Leaders
-Tammy Baldwin, Wisconsin, Senator
-Bernie Sanders, Vermont, Senator
-Mark Kelly, Arizona, Senator
-Elissa Slotkin, Michigan, Senator
-Pete Buttigieg, Former U.S.
-Secretary of Transportation
-Brad Pfaff | SD-32, State Senator
+About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate About Rebecca Meet Rebecca Priorities Endorsements Press Join the Movement Join a Coalition Volunteer Get a Yard Sign Buy Merch Contact Connect With the Campaign Media Toolkit Donate A Coalition of Support Endorsements AFGE Local 704 AFSCME Amalgamated Transit Union International American Association for Justice American Postal Workers Union Association of Flight Attendants Blue Dog Caucus Communication Workers of America, District 4 Council for a Livable World Defend the Vote EDF Action Elect Democratic Women EMILY’s List End Citizens United Get Out The Vote International Brotherhood of Electrical Workers International Union of Painters and Allied Trades Iron Workers Local 383 Iron Workers Local 512 Laborers’ International Union of America National Committee to Preserve Social Security and Medicare New Dems Action Fund Northern Midwest Regional Council of Carpenters SEIU Wisconsin State Council Sheet Metal, Air, Transportation and Rail (SMART) Union Social Security Works Steelworkers District 7 Teamsters Joint Council 32 Teamsters Joint Council 39 UAW Region 4 UFCW Local 1473 WI-AFL CIO Wisconsin Bricklayers and Allied Craftworkers Union Wisconsin Education Association Council Wisconsin State Council of Machinists Trusted Leaders Tammy Baldwin, Wisconsin, Senator Bernie Sanders, Vermont, Senator Mark Kelly, Arizona, Senator Elissa Slotkin, Michigan, Senator Pete Buttigieg, Former U.S.
+Secretary of Transportation Brad Pfaff | SD-32, State Senator And 50+ Members of the U.S.
+House Trusted Local Electeds Alison Page Mayor of River Falls Alyssa Mueller River Falls City Council Bob Gates Platteville Common Council Member Brady Weiss Mayor of Mondovi Bruce Humphrey Fmr.
+Sparta City Council Member & Fmr.
+Monroe County Board Chair Bruce Thielen Altoona City Council Member Carlton Peterson Elroy Common Council Member Chloris Lowe Camp Douglas Village Trustee Chris Kahlow La Crosse City Council Member Clara Serrano Eau Claire City Council Member Cody Gentz Menomonie City Council Member Danielle Johnson Former State Assembly Candidate Daryl Boe Jackson County Board Member Elizabeth Bauer Pepin County Board Member Emily Anderson La Crosse County Board Member Erin Goggin La Crosse City Council Member Gary Stanton Mondovi City Council Member Gary Stene Dunn County Board Member Grant Mathu La Crosse County Board Member Greg Decker Norwalk Village Board Jacqui Guthrie Stevens Point City Council Member Jay Churco Adams County Board Member Jenasea Hameister La Crosse City Council Jerry Schmidt Jackson County Board Member Jerry Wilkie Eau Claire County Board Jim Schultz Town of Washington Supervisor Joe Knight Eau Claire County Board John Benbow Jr.
+Wisconsin Rapids School Board Member John Krings Wisconsin Rapids School Board Member Josh Pettis Mayor of Osseo Justin Pluess Wisconsin Rapids Common Council Member Kelly McCullough Chair, Dunn County Board of Supervisors Kevin Brueggeman Sparta City Council Member Larry Bjork Dunn County Board Member Larry Grisen Alma Common Council Member Laura McCullough Menomonie City Council Leah Spicer Former State Assembly Candidate Leland Schwebs Menomonie City Council Member Lisa Weston La Crosse City Council Member Loren Mueller Alma Common Council Member Lynne Parrott Platteville Common Council Member Mark Gilberts Crawford County Board Member Mary Henry Fmr.
+Vernon County Board Member Mary Miller Richland County Board Member Max Hart Jackson County Board Member Mike Michaud Pepin Village Trustee Nick Carow River Falls City Council Member Nicole Pettibone Jackson County Board Member Patrick Sullivan Vernon County Board Member Paul Anderson Arcadia City Council Member Rachel Schultz Richland Center Common Council Member Randy Sommerfeld Menomonie City Council Member Sean Downing River Falls City Council Todd Wells Sparta City Council Member Toni Wissestad Monroe County Board Member Tony McFall Platteville Common Council Member Will Scheder Fmr.
+Stevens Point Area School Board Member Small Business Owners Abigal Maxon Rhythmic Renewal | Eau Claire Andrew Gehrke Eau Claire Cocktail Company | Eau Claire Angie Whelen YB Urban | Ellsworth Anna Ledebuhr Coulee Boutique | Galesville Ariel Cafarelli Bird's Eye Tattoo | Menomonie Ben Hanson Quality Quick Print | Eau Claire Bobbie Baker Ver Salon | Eau Claire Chris Bartlett Knorth Studios | Menomonie Christopher Johnson Passion Board Shop | Eau Claire Clinton Hardesty Viroqua Floral Mercantile | Viroqua David Page Page Dentistry | River Falls Erin Klaus Tangled up in Hue | Eau Claire Kathryn Ashley-Wright Ewetopia | Viroqua Leslie Norris Grace & Ease | Menomonie Luisa Hutchinson Basic Graphics LLC | Chippewa Falls Lydia Bethmann Our Dwelling Place | Eau Claire Maria Bamonti Dancing Yarrow | Mondovi Mike Tarr Mike's Art + Design | Menomonie Robbie Young Coulee Bike Company | La Crosse Roxanne Birkel O'Neil 5 Star, LLC | Ellsworth Sara Bowe Uplift Counseling | Eau Claire Sarah Lambert-Freeman Hive & Hollow | Menomonie Scott Feraro Talent Enthusiasts | Fountain City Sheila Arredondo Silly Serrano | Eau Claire Terry Meyer Terry Meyer Fine Art | Eau Claire Whitney Stuart Half Moon Clay Center LLC | Eau Claire Zack Jacobson Foxwalk Timber | Menomonie Farmers Barry Barringer Barringer Family Farms | Ellsworth Don Myers Retired Farmer | Potosi Glennette Rosenow Rosenholm Wolfe Dairy | Cochrane Helen Kees Wheatfield Hill Organics | Durand Jeremiah Fredrickson Jeremiah's Bullfrog Fish Farm | Menomonie Joe Behlen Farmer | Vesper Katie Swenson Town & Country Farm | Melrose Larry Bjork Sedgeley Farms | Menomonie Paul Adams Farmer | Eleva Rachel Henderson Mary Dirty Face Farms | Menomonie Tony Bowe Triple T Farms | Chippewa Falls Travis Schultz Schultz Farms | Mauston Educators Alicia Howe Eau Claire Area School District Andrew Patrie Eau Claire Area School District Arthur Kneeland University of Wisconsin – Stout Colleen O’Leary Eau Claire Area School District Elena Marshall University of Wisconsin – Stout Eric Rasmussen Eau Claire Area School District Hannah Judisch La Crosse School District Jason Collins School District of the Menomonie Area Jennifer Astwood University of Wisconsin – Stout Keith Johnson Nekoosa School District Kelly Steinmeyer Attendance Secretary at the School District of the Menomonie Area Kris Woolsey Teacher at the Saint Ambrose School Lisa Bee Osseo-Fairchild School District Myron Bucholz Eau Claire Area School District (Retired) Rebecca Weaver Reading Interventionist at the Eau Claire Area School District Rob Sheppard Lecturer at the University of Wisconsin – Platteville Taylor Nix Independence School District Thomas Dorr Eau Claire Area School District Tisha King-Heiden University of Wisconsin – La Crosse Tom Kidd Eau Claire Area School District (Retired) Healthcare Workers Adam Koskis Eurofins BioDiagnostics Dr.
+Erik Dovre Marshfield Clinic Dr.
+James Groskreutz Emplify Dr.
+Megan Bayrd Mayo Clinic Health System Dr.
+Paul Horvath Mayo Clinic Health Systems Dr.
+Rita Raverty Alina Health Dr.
+Taylor Neff Physician (Retired) Dr.
+Thomas Dow Ophthalmologist (Retired) Eddie Luker Mayo Clinic Health System Emily O’ Meara Chippewa Valley Technical College Eva Igler Gillette Children's Hospital Jaclyn Edmonds Oakleaf Clinics Lennet Radke Lakeview Hospital Linda Capra, D.C.
+Helios Chiropractic Peter Fransen La Crosse Pediatric Dentistry Our campaign is 100% people powered.
+Join us to keep building the movement.
+Media Toolkit Privacy Policy PO Box 1846, Eau Claire, WI 54702 Paid for by Cooke for Congress Branding and photography by Knorth Studios Website design and development by Andrew Tarcon

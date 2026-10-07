@@ -1,16 +1,10 @@
-Vote Henderson-Myers
-Spartanburg Enrichment
-Elevate, Engage, Empower, Enhance
-Spartanburg Community
-SPARTANBURG ENRICHMENT: SEPTEMBER 2023 - MARCH 2024
-✓ April 2023: Representative Rosalyn Henderson-Myers stood against a proposed bill in the South Carolina House of Representatives.
+top of page Home Endorsements Legislative Accomplishments Spartanburg Enrichment Donate Here Contact More Use tab to navigate through the menu items.
+Vote Henderson-Myers Vote Henderson-Myers Vote Henderson-Myers Vote Henderson-Myers Log In Doante Here Spartanburg Enrichment Spartanburg Enrichment Spartanburg Enrichment Spartanburg Enrichment Elevate, Engage, Empower, Enhance Spartanburg Community SPARTANBURG ENRICHMENT: SEPTEMBER 2023 - MARCH 2024 ​ ✓ April 2023: Representative Rosalyn Henderson-Myers stood against a proposed bill in the South Carolina House of Representatives.
 The bill aimed to redefine the electoral districts for the Board of Trustees in School District 7, which she argued could undermine the representation of the community, particularly given that nearly 60% of the students in the district are minorities.
-She emphasized the importance of electoral boundaries that allow voters to elect candidates who truly reflect the community's demographics.
-✓ June 1, 2023: The White House issued a statement urging Congress to ensure fair workplace conditions for new mothers, highlighting the necessity for reasonable break times and private spaces for expressing breast milk.
+She emphasized the importance of electoral boundaries that allow voters to elect candidates who truly reflect the community's demographics. ​ ✓ June 1, 2023: The White House issued a statement urging Congress to ensure fair workplace conditions for new mothers, highlighting the necessity for reasonable break times and private spaces for expressing breast milk.
 Representative Henderson-Myers supported this initiative, highlighting its benefits for both employees and employers by preventing the need for employees to choose between breastfeeding and their jobs, and for employers to avoid the turnover costs of replacing and retraining staff.
-This advocacy contributed to the nationwide enactment of the "PUMP for Nursing Mothers Act," which mandates these accommodations in workplaces across the United States.
-✓ September 2023 - March 2024: The Southside Cultural Monument in Spartanburg, a project dedicated to celebrating the history and contributions of the city's Black communities, is on the verge of completion.
+This advocacy contributed to the nationwide enactment of the "PUMP for Nursing Mothers Act," which mandates these accommodations in workplaces across the United States. ​ ✓ September 2023 - March 2024: The Southside Cultural Monument in Spartanburg, a project dedicated to celebrating the history and contributions of the city's Black communities, is on the verge of completion.
 Initiated in early 2023 after years of planning, the monument is a community-led effort, championed by State Representative Rosalyn Henderson-Myers and managed by the city with guidance from the African-American Heritage And Cultural Committee.
 Positioned at the northern end of the Mary H.
 Wright Greenway, the project, costing over $1 million, is financed through state funding and local contributions.
-Deputy City Manager Mitch Kennedy expressed hope that the monument will inspire young people by showcasing the significant figures and their contributions to the community.
+Deputy City Manager Mitch Kennedy expressed hope that the monument will inspire young people by showcasing the significant figures and their contributions to the community. © # Paid for by Rosalyn Henderson-Myers bottom of page

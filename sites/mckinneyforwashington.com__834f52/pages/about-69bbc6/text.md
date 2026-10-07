@@ -1,4 +1,4 @@
-I’m Amanda McKinney, faithful servant, wife, mother and current Yakima County Commissioner, running for Congress to deliver proven, common-sense conservative leadership to Washington, D.C.
+0 Skip to Content ENDORSEMENTS ENDORSE AMANDA DONATE Open Menu Close Menu DONATE ENDORSEMENTS ENDORSE AMANDA Open Menu Close Menu ENDORSEMENTS ENDORSE AMANDA DONATE I’m Amanda McKinney, faithful servant, wife, mother and current Yakima County Commissioner, running for Congress to deliver proven, common-sense conservative leadership to Washington, D.C.
 I was raised in a family rooted in faith, agriculture, respect for law and order and service to our country.
 I’ve fought tirelessly for our Central Washington values: individual freedoms, strong families, thriving agriculture, fiscal accountability, and support for first responders.
 From my banking career to county leadership, I’ve achieved real results—challenging COVID overreach, securing water resources, preventing fraud, and advocating for rural communities at the state and national levels.
@@ -35,4 +35,4 @@ Preserve and promote free markets.
 Uphold the traditional American values of marriage and family.
 We are proud to support Erika and the TPUSA team as they carry on his mission.
 In Congress, I will champion secure borders, affordable and reliable energy, protected rights, and policies empowering farmers, families, and rural America—while continuing to focus on changing our home in Washington for the better, remaining a strong local presence in our communities.
-Join me—with Central Washington’s fighting spirit, we’ll defend our way of life here at home and in D.C.
+Join me—with Central Washington’s fighting spirit, we’ll defend our way of life here at home and in D.C. contact@mckinneyforwashington.com 509-731-3130 4001 Summitview Ave PMB 5-273 Yakima, WA 98908 DONATE

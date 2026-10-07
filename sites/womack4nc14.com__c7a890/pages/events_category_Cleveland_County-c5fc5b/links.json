@@ -1,102 +1,574 @@
 [
-"http://facebook.com/lakeshawomack",
-"http://google.com/calendar/event?action=TEMPLATE&text=A+Blue-tiful+Evening+of+HOPE&dates=20260731T220000Z%2F20260801T003000Z&location=Shelby+NC",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats&dates=20260305T233000Z%2F20260306T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats&dates=20260321T153000Z%2F20260321T173000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats&dates=20260604T223000Z%2F20260605T003000Z&location=106+West+Marion+Street%2C+Shelby%2C+North+Carolina%2C+28150%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats+Candidate%27s+Forum&dates=20260221T193000Z%2F20260221T213000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Meet+and+Greet&dates=20260217T223000Z%2F20260217T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Meet+and+Greet&dates=20260220T223000Z%2F20260221T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Meet+and+Greet&dates=20260520T213000Z%2F20260520T223000Z&location=106+West+Marion+Street%2C+Shelby%2C+NC%2C+28150%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+NAACP+Candidate+Meet+and+Greet&dates=20260207T180000Z%2F20260207T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Political+Forum&dates=20260927T203000Z%2F20260927T223000Z&location=300+Ross+Grove+Road+East%2C+Shelby%2C+North+Carolina%2C+28150%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Cookout+with+the+Candidates&dates=20260705T170000Z%2F20260705T220000Z&location=1655+McBrayer-Springs+Road%2C+Shelby%2C+North+Carolina%2C+28150%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kings+Mountain+Women%27s+Forum&dates=20260928T220000Z%2F20260929T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rooted+in+Community%3A+Cleveland+County+Listening+Tour&dates=20260819T190000Z%2F20260819T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=The+ML+Campbell+Freedom+Fund+Banquet&dates=20260117T230000Z%2F20260118T020000Z&location=1800+East+Marion+Street%2C+Shelby%2C+NC%2C+28152%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Unity+in+the+Community&dates=20260711T150000Z%2F20260711T180000Z&location=Shelby+NC",
-"http://google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z",
-"http://instagram.com/lakeshawomack",
-"http://maps.google.com/?q=+Shelby+NC",
-"http://maps.google.com/?q=106+West+Marion+Street+Shelby%2C+NC%2C+28150+United+States",
-"http://maps.google.com/?q=106+West+Marion+Street+Shelby%2C+North+Carolina%2C+28150+United+States",
-"http://maps.google.com/?q=1655+McBrayer-Springs+Road+Shelby%2C+North+Carolina%2C+28150+United+States",
-"http://maps.google.com/?q=1800+East+Marion+Street+Shelby%2C+NC%2C+28152+United+States",
-"http://maps.google.com/?q=300+Ross+Grove+Road+East+Shelby%2C+North+Carolina%2C+28150+United+States",
-"http://maps.google.com/?q=Cleveland+County+Democratic+Headquarters",
-"http://maps.google.com/?q=Jammin%27+J%27s+Pizza+Factory",
-"http://threads.com/@lakeshawomack",
-"http://twitter.com/lakeshawomack",
-"https://facebook.com/share/1JiP47BNpF",
-"https://mobilize.us/s/Y2Tw9O",
-"https://ncsbe.gov/news/events/election-day-2026-primary-election",
-"https://ncvoter.org/early-voting",
-"https://secure.actblue.com/donate/blue-tiful",
-"https://secure.actblue.com/donate/lakesha-womack",
-"https://tiktok.com/@lakeshaswomack",
-"https://vt.ncsbe.gov/RegLkup",
-"https://womack4nc14.com/",
-"https://womack4nc14.com/bio",
-"https://womack4nc14.com/calendar",
-"https://womack4nc14.com/cart",
-"https://womack4nc14.com/contact",
-"https://womack4nc14.com/events/a-blue-tiful-evening-of-hope",
-"https://womack4nc14.com/events/a-blue-tiful-evening-of-hope?format=ical",
-"https://womack4nc14.com/events/cleveland-county-democrats",
-"https://womack4nc14.com/events/cleveland-county-democrats-1",
-"https://womack4nc14.com/events/cleveland-county-democrats-1?format=ical",
-"https://womack4nc14.com/events/cleveland-county-democrats-2",
-"https://womack4nc14.com/events/cleveland-county-democrats-2?format=ical",
-"https://womack4nc14.com/events/cleveland-county-democrats-candidates-forum",
-"https://womack4nc14.com/events/cleveland-county-democrats-candidates-forum?format=ical",
-"https://womack4nc14.com/events/cleveland-county-democrats?format=ical",
-"https://womack4nc14.com/events/cleveland-county-meet-and-greet",
-"https://womack4nc14.com/events/cleveland-county-meet-and-greet-1",
-"https://womack4nc14.com/events/cleveland-county-meet-and-greet-1?format=ical",
-"https://womack4nc14.com/events/cleveland-county-meet-and-greet-2",
-"https://womack4nc14.com/events/cleveland-county-meet-and-greet-2?format=ical",
-"https://womack4nc14.com/events/cleveland-county-meet-and-greet?format=ical",
-"https://womack4nc14.com/events/cleveland-county-naacp-candidate-meet-and-greet",
-"https://womack4nc14.com/events/cleveland-county-naacp-candidate-meet-and-greet?format=ical",
-"https://womack4nc14.com/events/cleveland-county-political-forum",
-"https://womack4nc14.com/events/cleveland-county-political-forum?format=ical",
-"https://womack4nc14.com/events/community-cookout-with-the-candidates",
-"https://womack4nc14.com/events/community-cookout-with-the-candidates?format=ical",
-"https://womack4nc14.com/events/early-voting-in-north-carolina",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical",
-"https://womack4nc14.com/events/early-voting-in-north-carolina?format=ical",
-"https://womack4nc14.com/events/kings-mountain-womens-forum",
-"https://womack4nc14.com/events/kings-mountain-womens-forum?format=ical",
-"https://womack4nc14.com/events/primary-voting",
-"https://womack4nc14.com/events/primary-voting-jexbb",
-"https://womack4nc14.com/events/primary-voting-jexbb?format=ical",
-"https://womack4nc14.com/events/primary-voting?format=ical",
-"https://womack4nc14.com/events/rooted-in-community-cleveland-county-listening-tour",
-"https://womack4nc14.com/events/rooted-in-community-cleveland-county-listening-tour?format=ical",
-"https://womack4nc14.com/events/the-ml-campbell-freedom-fund-banquet",
-"https://womack4nc14.com/events/the-ml-campbell-freedom-fund-banquet?format=ical",
-"https://womack4nc14.com/events/unity-in-the-community",
-"https://womack4nc14.com/events/unity-in-the-community?format=ical",
-"https://womack4nc14.com/events/virtual-campaign-launch",
-"https://womack4nc14.com/events/virtual-campaign-launch?format=ical",
-"https://womack4nc14.com/events?category=Burke+County",
-"https://womack4nc14.com/events?category=Cleveland+County",
-"https://womack4nc14.com/events?category=Gaston+County",
-"https://womack4nc14.com/events?category=Mecklenburg+County",
-"https://womack4nc14.com/events?category=NC-14+District",
-"https://womack4nc14.com/events?category=Polk+County",
-"https://womack4nc14.com/events?category=Rutherford+County",
-"https://womack4nc14.com/events?category=Virtual+Event",
-"https://womack4nc14.com/events?category=Voting",
-"https://womack4nc14.com/give",
-"https://womack4nc14.com/issues",
-"https://womack4nc14.com/news-and-resources",
-"https://womack4nc14.com/privacy-policy",
-"https://womack4nc14.com/shop",
-"https://youtube.com/@LaKeshaWomack"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+shelby+nc+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=106+west+marion+street+shelby%2C+nc%2C+28150+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=106+west+marion+street+shelby%2C+north+carolina%2C+28150+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1655+mcbrayer-springs+road+shelby%2C+north+carolina%2C+28150+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1800+east+marion+street+shelby%2C+nc%2C+28152+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=300+ross+grove+road+east+shelby%2C+north+carolina%2C+28150+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=cleveland+county+democratic+headquarters"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=jammin%27+j%27s+pizza+factory"
+},
+{
+"text": "0",
+"href": "https://www.womack4nc14.com/cart"
+},
+{
+"text": "A Blue-tiful Evening of HOPE",
+"href": "https://www.womack4nc14.com/events/a-blue-tiful-evening-of-hope"
+},
+{
+"text": "Burke County",
+"href": "https://www.womack4nc14.com/events?category=Burke+County"
+},
+{
+"text": "Calendar",
+"href": "https://www.womack4nc14.com/calendar"
+},
+{
+"text": "Cleveland County",
+"href": "https://www.womack4nc14.com/events?category=Cleveland+County"
+},
+{
+"text": "Cleveland County Democrats",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats"
+},
+{
+"text": "Cleveland County Democrats",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-1"
+},
+{
+"text": "Cleveland County Democrats",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-2"
+},
+{
+"text": "Cleveland County Democrats Candidate's Forum",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-candidates-forum"
+},
+{
+"text": "Cleveland County Meet and Greet",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet"
+},
+{
+"text": "Cleveland County Meet and Greet",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet-1"
+},
+{
+"text": "Cleveland County Meet and Greet",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet-2"
+},
+{
+"text": "Cleveland County NAACP Candidate Meet and Greet",
+"href": "https://www.womack4nc14.com/events/cleveland-county-naacp-candidate-meet-and-greet"
+},
+{
+"text": "Cleveland County Political Forum",
+"href": "https://www.womack4nc14.com/events/cleveland-county-political-forum"
+},
+{
+"text": "Community Cookout with the Candidates",
+"href": "https://www.womack4nc14.com/events/community-cookout-with-the-candidates"
+},
+{
+"text": "Contact",
+"href": "https://www.womack4nc14.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "Election Day",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "Find Your Early Voting Location in North Carolina",
+"href": "https://www.ncvoter.org/early-voting/"
+},
+{
+"text": "Gaston County",
+"href": "https://www.womack4nc14.com/events?category=Gaston+County"
+},
+{
+"text": "Get Tickets",
+"href": "https://secure.actblue.com/donate/blue-tiful"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=A+Blue-tiful+Evening+of+HOPE&dates=20260731T220000Z%2F20260801T003000Z&location=Shelby+NC"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats&dates=20260305T233000Z%2F20260306T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats&dates=20260321T153000Z%2F20260321T173000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats&dates=20260604T223000Z%2F20260605T003000Z&location=106+West+Marion+Street%2C+Shelby%2C+North+Carolina%2C+28150%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Democrats+Candidate%27s+Forum&dates=20260221T193000Z%2F20260221T213000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Meet+and+Greet&dates=20260217T223000Z%2F20260217T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Meet+and+Greet&dates=20260220T223000Z%2F20260221T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Meet+and+Greet&dates=20260520T213000Z%2F20260520T223000Z&location=106+West+Marion+Street%2C+Shelby%2C+NC%2C+28150%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+NAACP+Candidate+Meet+and+Greet&dates=20260207T180000Z%2F20260207T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+County+Political+Forum&dates=20260927T203000Z%2F20260927T223000Z&location=300+Ross+Grove+Road+East%2C+Shelby%2C+North+Carolina%2C+28150%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Cookout+with+the+Candidates&dates=20260705T170000Z%2F20260705T220000Z&location=1655+McBrayer-Springs+Road%2C+Shelby%2C+North+Carolina%2C+28150%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kings+Mountain+Women%27s+Forum&dates=20260928T220000Z%2F20260929T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rooted+in+Community%3A+Cleveland+County+Listening+Tour&dates=20260819T190000Z%2F20260819T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=The+ML+Campbell+Freedom+Fund+Banquet&dates=20260117T230000Z%2F20260118T020000Z&location=1800+East+Marion+Street%2C+Shelby%2C+NC%2C+28152%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Unity+in+the+Community&dates=20260711T150000Z%2F20260711T180000Z&location=Shelby+NC"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/a-blue-tiful-evening-of-hope?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-candidates-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-naacp-candidate-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/cleveland-county-political-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/community-cookout-with-the-candidates?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/kings-mountain-womens-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-cleveland-county-listening-tour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/the-ml-campbell-freedom-fund-banquet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/unity-in-the-community?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.womack4nc14.com/issues"
+},
+{
+"text": "Kings Mountain Women's Forum",
+"href": "https://www.womack4nc14.com/events/kings-mountain-womens-forum"
+},
+{
+"text": "Mecklenburg County",
+"href": "https://www.womack4nc14.com/events?category=Mecklenburg+County"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.womack4nc14.com/bio"
+},
+{
+"text": "NC-14 District",
+"href": "https://www.womack4nc14.com/events?category=NC-14+District"
+},
+{
+"text": "News and Resources",
+"href": "https://www.womack4nc14.com/news-and-resources"
+},
+{
+"text": "Polk County",
+"href": "https://www.womack4nc14.com/events?category=Polk+County"
+},
+{
+"text": "Primary Voting",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.womack4nc14.com/privacy-policy"
+},
+{
+"text": "Rooted in Community: Cleveland County Listening Tour",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-cleveland-county-listening-tour"
+},
+{
+"text": "Rutherford County",
+"href": "https://www.womack4nc14.com/events?category=Rutherford+County"
+},
+{
+"text": "Shop",
+"href": "https://www.womack4nc14.com/shop"
+},
+{
+"text": "Sign Up!",
+"href": "https://mobilize.us/s/Y2Tw9O"
+},
+{
+"text": "The ML Campbell Freedom Fund Banquet",
+"href": "https://www.womack4nc14.com/events/the-ml-campbell-freedom-fund-banquet"
+},
+{
+"text": "Unity in the Community",
+"href": "https://www.womack4nc14.com/events/unity-in-the-community"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/a-blue-tiful-evening-of-hope"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-candidates-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/cleveland-county-naacp-candidate-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/cleveland-county-political-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/community-cookout-with-the-candidates"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/kings-mountain-womens-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-cleveland-county-listening-tour"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/the-ml-campbell-freedom-fund-banquet"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/unity-in-the-community"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "Virtual Campaign Launch",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "Virtual Event",
+"href": "https://www.womack4nc14.com/events?category=Virtual+Event"
+},
+{
+"text": "Voter Search",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Voting",
+"href": "https://www.womack4nc14.com/events?category=Voting"
+},
+{
+"text": "Ways to Give",
+"href": "https://www.womack4nc14.com/give"
+},
+{
+"text": "[image: A Blue-tiful Evening of HOPE]",
+"href": "https://www.womack4nc14.com/events/a-blue-tiful-evening-of-hope"
+},
+{
+"text": "[image: Cleveland County Democrats Candidate's Forum]",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-candidates-forum"
+},
+{
+"text": "[image: Cleveland County Democrats]",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats"
+},
+{
+"text": "[image: Cleveland County Democrats]",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-1"
+},
+{
+"text": "[image: Cleveland County Democrats]",
+"href": "https://www.womack4nc14.com/events/cleveland-county-democrats-2"
+},
+{
+"text": "[image: Cleveland County Meet and Greet]",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet"
+},
+{
+"text": "[image: Cleveland County Meet and Greet]",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet-1"
+},
+{
+"text": "[image: Cleveland County Meet and Greet]",
+"href": "https://www.womack4nc14.com/events/cleveland-county-meet-and-greet-2"
+},
+{
+"text": "[image: Cleveland County NAACP Candidate Meet and Greet]",
+"href": "https://www.womack4nc14.com/events/cleveland-county-naacp-candidate-meet-and-greet"
+},
+{
+"text": "[image: Cleveland County Political Forum]",
+"href": "https://www.womack4nc14.com/events/cleveland-county-political-forum"
+},
+{
+"text": "[image: Community Cookout with the Candidates]",
+"href": "https://www.womack4nc14.com/events/community-cookout-with-the-candidates"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "[image: Election Day]",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "[image: LaKesha Womack for NC-14]",
+"href": "https://www.womack4nc14.com/"
+},
+{
+"text": "[image: Primary Voting]",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "[image: Rooted in Community: Cleveland County Listening Tour]",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-cleveland-county-listening-tour"
+},
+{
+"text": "[image: The ML Campbell Freedom Fund Banquet]",
+"href": "https://www.womack4nc14.com/events/the-ml-campbell-freedom-fund-banquet"
+},
+{
+"text": "[image: Unity in the Community]",
+"href": "https://www.womack4nc14.com/events/unity-in-the-community"
+},
+{
+"text": "[image: Virtual Campaign Launch]",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lakeshaswomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.womack4nc14.com/events/kings-mountain-womens-forum"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LaKeshaWomack"
+},
+{
+"text": "[no text]",
+"href": "mailto:connect@womack4nc14.com"
+},
+{
+"text": "https://www.facebook.com/share/1JiP47BNpF/",
+"href": "https://www.facebook.com/share/1JiP47BNpF/"
+},
+{
+"text": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election",
+"href": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election"
+}
 ]

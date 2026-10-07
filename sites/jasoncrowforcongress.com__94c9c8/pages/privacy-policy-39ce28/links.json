@@ -1,14 +1,54 @@
 [
-"https://act.jasoncrowforcongress.com/zt2aBUGBkUKcCWFEZPH65A2",
-"https://facebook.com/JasonCrowforCongress",
-"https://jason-crow-store.myshopify.com/",
-"https://jasoncrow.org/",
-"https://jasoncrow.org/cdn-cgi/l/email-protection",
-"https://jasoncrow.org/endorsements",
-"https://jasoncrow.org/events",
-"https://jasoncrow.org/meet",
-"https://jasoncrow.org/values",
-"https://jasoncrowforcongress.com/privacy-policy",
-"https://secure.actblue.com/donate/crow-website",
-"https://x.com/JasonCrowCO"
+{
+"text": "Contact Us",
+"href": "mailto:info@jasoncrowforcongress.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/crow-website"
+},
+{
+"text": "Endorsements",
+"href": "https://jasoncrow.org/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://jasoncrow.org/events/"
+},
+{
+"text": "Meet",
+"href": "https://jasoncrow.org/meet/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jasoncrowforcongress.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://jason-crow-store.myshopify.com/"
+},
+{
+"text": "Values",
+"href": "https://jasoncrow.org/values/"
+},
+{
+"text": "Volunteer [image: external icon]",
+"href": "https://act.jasoncrowforcongress.com/zt2aBUGBkUKcCWFEZPH65A2"
+},
+{
+"text": "Volunteer [image]",
+"href": "https://act.jasoncrowforcongress.com/zt2aBUGBkUKcCWFEZPH65A2"
+},
+{
+"text": "[image]",
+"href": "https://jasoncrow.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/JasonCrowforCongress/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/JasonCrowCO"
+}
 ]

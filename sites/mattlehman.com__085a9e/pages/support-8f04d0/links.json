@@ -1,9 +1,38 @@
 [
-"https://linkedin.com/in/mattlehman1",
-"https://mattlehman.com/",
-"https://mattlehman.com/about",
-"https://mattlehman.com/contact",
-"https://mattlehman.com/issues",
-"https://mattlehman.com/support",
-"https://paypal.com/"
+{
+"text": "About",
+"href": "https://www.mattlehman.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mattlehman.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.mattlehman.com/issues"
+},
+{
+"text": "MATT LEHMAN",
+"href": "https://www.mattlehman.com"
+},
+{
+"text": "STATE REPRESENTATIVE",
+"href": "https://www.mattlehman.com"
+},
+{
+"text": "Support",
+"href": "https://www.mattlehman.com/support"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/mattlehman1/"
+},
+{
+"text": "contact us",
+"href": "https://www.mattlehman.com/contact"
+}
 ]

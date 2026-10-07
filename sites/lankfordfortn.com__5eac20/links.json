@@ -1,11 +1,50 @@
 [
-"https://facebook.com/RepresentativeLankford",
-"https://lankfordfortn.com/",
-"https://lankfordfortn.com/donate",
-"https://lankfordfortn.com/media",
-"https://lankfordfortn.com/meet-michael",
-"https://lankfordfortn.com/privacy",
-"https://lankfordfortn.com/request-a-sign",
-"https://lankfordfortn.com/terms-of-service",
-"https://sos.tn.gov/govotetn"
+{
+"text": "DONATE",
+"href": "https://www.lankfordfortn.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.lankfordfortn.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.lankfordfortn.com/media"
+},
+{
+"text": "MEET MICHAEL",
+"href": "https://www.lankfordfortn.com/meet-michael"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lankfordfortn.com/privacy"
+},
+{
+"text": "REQUEST A SIGN",
+"href": "https://www.lankfordfortn.com/request-a-sign"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.lankfordfortn.com/terms-of-service"
+},
+{
+"text": "[image: About Button.png]",
+"href": "https://www.lankfordfortn.com/meet-michael"
+},
+{
+"text": "[image: GOVOTETN LINK.png]",
+"href": "https://sos.tn.gov/govotetn"
+},
+{
+"text": "[image: Media Button.png]",
+"href": "https://www.lankfordfortn.com/media"
+},
+{
+"text": "[image: follow us.png]",
+"href": "https://www.facebook.com/RepresentativeLankford"
+},
+{
+"text": "[image]",
+"href": "https://www.lankfordfortn.com/donate"
+}
 ]

@@ -1,5 +1,5 @@
-ABOUT CHRIS
-I’m Chris Corry and I am honored to bring our common sense Central Washington values to Olympia.
+top of page HOME ISSUES ABOUT DONATE CONTACT More Use tab to navigate through the menu items.
+ABOUT CHRIS I’m Chris Corry and I am honored to bring our common sense Central Washington values to Olympia.
 I was born in inland Southern California and grew up on a small farm.
 When I was a teenager, my parents relocated to Western Washington and after graduating high school, I moved to Seattle to attend the University of Washington.
 Being a conservative on a college campus is becoming increasingly difficult, and it certainly was interesting to be the only conservative discussing policy with liberal professors back in the early 2000s, but that only encouraged me to graduate with a B.A. in Political Science.
@@ -21,4 +21,4 @@ These roles have provided countless experience in finance, risk management, busi
 We have three children.
 Our family enjoys building LEGO and traveling together!
 I am an ardent supporter of our Constitution and believer that the government serves at the will of the people.
-I am running to be your representative because I want to serve the people of Central Washington and bring our common sense values to Olympia.
+I am running to be your representative because I want to serve the people of Central Washington and bring our common sense values to Olympia. ​ BACK TO TOP ©# Friends of Chris Corry ​ bottom of page

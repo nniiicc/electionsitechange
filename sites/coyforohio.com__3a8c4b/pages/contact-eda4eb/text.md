@@ -1,2 +1,2 @@
-Contact Megan
-Whether you have a question, an idea, or just want to say hello, feel free to reach out—we’re here to help.
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Contact Megan Whether you have a question, an idea, or just want to say hello, feel free to reach out—we’re here to help.
+Paid for by Friends of Megan Coy

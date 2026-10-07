@@ -1,4 +1,4 @@
-In my very first article to you one year ago, I talked about how, on January 10th, 2017, the day I was sworn in as a State Representative, my family also celebrated the 90th birthday of my grandfather, W.E.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements January 11, 2018 Jeff Frazier Sit-Rep #13 - What We Leave Behind January 11, 2018 Jeff Frazier In my very first article to you #ago, I talked about how, on January 10th, 2017, the day I was sworn in as a State Representative, my family also celebrated the 90th birthday of my grandfather, W.E.
 “Bill” Howard.
 You all gave my family a memory we will treasure for a lifetime, and I could not be more grateful for that gift.
 On January 10th of this year, my family once again gathered to celebrate W.E.
@@ -23,9 +23,8 @@ My grandfather followed the young man’s progress through school, mentoring him
 He saw in that young man that same spirit of determination and self investment that bought him through the worst situations, and made sure that spirit could grow and spread to others.
 There are so many stories just like from across his entire life, and in every one of them he never once asked for recognition, pubic acclaim, or attention for himself.
 The reward he sought was the joy of seeing other flourish, of knowing that the blessings and wisdom he had been given would be passed on, and, most importantly, that those to whom he gave everything he had would then go out and do the same.
-1 Timothy 6:17-19 described him best - “As for the rich in this present age, charge them not to be haughty, nor to set their hopes on the uncertainty of riches, but on God, who richly provides us with everything to enjoy.
-They are to do good, to be rich in good works, to be generous and ready to share, thus storing up treasure for themselves as a good foundation for the future, so that they may take hold of that which is truly life.”
-Though his every action, my grandfather taught me that leadership is a verb, not a noun.
+1 Timothy 6:17-19 described him best - “ As for the rich in this present age , charge them not to be haughty, nor to set their hopes on the uncertainty of riches, but on God, who richly provides us with everything to enjoy.
+They are to do good, to be rich in good works, to be generous and ready to share, thus storing up treasure for themselves as a good foundation for the future, so that they may take hold of that which is truly life.” Though his every action, my grandfather taught me that leadership is a verb, not a noun.
 It is a thing you do, not a position you hold.
 If you want people to give of themselves, don’t lecture them, guilt them, or coerce them; give of yourself first, lead by being the example they will want to follow.
 Show them a love and a light so bright that everything else will seem but a mere shadow in its wake.
@@ -35,3 +34,15 @@ His body may be gone, but he lives on thought every act of kindness, every act o
 My hope is that we do the same with the remaining members of the Greatest Generation.
 Learn their stories, their values, and their principles before they are gone from us.
 Those stories and lessons came at too high a price to allow them to vanish from existence.
+January 11, 2018 Jeff Frazier Jeff Frazier Sit-Rep #14 - Our Greatest Threat Sit-Rep #12 - The Vote Not Taken Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

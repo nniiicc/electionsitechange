@@ -1,7 +1,5 @@
-Preserving America the Beautiful
-Updated: Feb 15
-By Steve Gunderson
-From the rugged peaks of Glacier National Park to the quiet fishing spots along the Yellowstone River, our outdoor heritage is the heartbeat of our economy and the soul of our communities.
+top of page Log In HOW CAN I HELP?
+SUBSCRIBE Home Endorsements About Contact Get Involved News Photo Gallery Video Gallery All Posts Search Preserving America the Beautiful gundersonsd1 Feb 5 3 min read Updated: Feb 15 By Steve Gunderson From the rugged peaks of Glacier National Park to the quiet fishing spots along the Yellowstone River, our outdoor heritage is the heartbeat of our economy and the soul of our communities.
 However, for decades, the infrastructure supporting these treasures—roads, water systems, and trails—was allowed to crumble under the weight of a multi-billion-dollar federal maintenance backlog.
 In 2020, we took a historic step to fix this.
 With the passage of the Great American Outdoors Act (GAOA), Congress made a generational commitment to restoring our National Parks and other federal infrastructure on public lands.
@@ -20,7 +18,8 @@ And that backlog continues to grow—especially after damage caused by extreme w
 That damage included washed out bridges, eroded roads and trails, and other infrastructure disruptions that will make it harder for the public to access parts of the park.
 With the original LRF funding set to expire, we risk losing the momentum that has finally started to modernize our public lands infrastructure.
 Recognizing this urgency, Senator Daines has once again stepped up to lead.
-Alongside a bipartisan group including Senators Angus King, Kevin Cramer, and Mark Warner, Daines has introduced the America the Beautiful Act (S. 1547).
+Alongside a bipartisan group including Senators Angus King, Kevin Cramer, and Mark Warner, Daines has introduced the America the Beautiful Act (S.
+1547).
 This legislation would extend the LRF for eight years, through 2033 and increase the funding to $2 billion annually.
 Critically, LFR is not funding by the American taxpayer.
 All of the revenue comes from energy development revenues from the sale of federally owned oil, gas, coal and other resources.
@@ -30,4 +29,14 @@ And just as importantly, investing in the maintenance backlog in our National Pa
 Senator Daines’ leadership has brought us to this threshold.
 Now, it is time for Congress to pass the America the Beautiful Act and ensure that Montana’s—and America’s—National Parks remain vibrant and accessible for decades to come.
 Steve Gunderson is a former Montana legislator from Libby.
-###
+### Recent Posts See All Senator Sheehy's Fix Our Forests Act Montana: Oro -Y- Plata (Gold and Silver) Experience and Integrity: My Commitment to Voters ​ Support The Campaign All political campaigns run on Money and Volunteers.
+Asking for contributions is one of the hardest parts of a campaign.
+Asking for Volunteers is even more difficult!
+Contributing to my campaign will allow me to send letters and flyers out and with the high costs of printing and postage, every dollar helps!
+Volunteering will help enable many fronts to be covered at the same time.
+Remember that the Maximum Contribution is $470.00 Per Person per Election.
+Couples can contribute a maximum of $940.00.
+If you can contribute anything, you have my heartfelt thanks!!
+WinRed Campaign Contribution How Can I Help or Get Involved??
+SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Steve Gunderson FOR MONTANA -SENATE DISTRICT 1- 167 Skyline Road Libby, MT 59923 gundersonsd1@gmail.com 406-334-4370 Terms & Conditions Privacy Policy Accessibility Statement Paid for by Gunderson for Senate.
+167 Skyline Road, Libby, MT 59923 Cherie Gunderson Treasurer - Powered and secured by Wix © # bottom of page

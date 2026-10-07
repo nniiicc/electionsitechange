@@ -1,38 +1,166 @@
 [
-"http://topdogmktg.com/",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab1020",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab106",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab309",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab351",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab438",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab542",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab80",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab842",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab874",
-"https://docs.legis.wisconsin.gov/2025/proposals/ab983",
-"https://docs.legis.wisconsin.gov/2025/proposals/ajr34",
-"https://docs.legis.wisconsin.gov/2025/proposals/ajr41",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb1006",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb1007",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb435",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb504",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb74",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb825",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb832",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb96",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb984",
-"https://docs.legis.wisconsin.gov/2025/proposals/sjr34",
-"https://facebook.com/nancyforassembly",
-"https://nancyforwisconsin.com/",
-"https://nancyforwisconsin.com/about",
-"https://nancyforwisconsin.com/authored-proposals",
-"https://nancyforwisconsin.com/co-sponsored-proposals",
-"https://nancyforwisconsin.com/contact",
-"https://nancyforwisconsin.com/contribute",
-"https://nancyforwisconsin.com/copy-of-legislation",
-"https://nancyforwisconsin.com/district",
-"https://nancyforwisconsin.com/issues",
-"https://nancyforwisconsin.com/photos",
-"https://nancyforwisconsin.com/successes",
-"https://nancyforwisconsin.com/volunteer"
+{
+"text": "2025 Assembly Bill 1020",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab1020"
+},
+{
+"text": "2025 Assembly Bill 1021",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb984"
+},
+{
+"text": "2025 Assembly Bill 106",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab106"
+},
+{
+"text": "2025 Assembly Bill 309",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab309"
+},
+{
+"text": "2025 Assembly Bill 351",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab351"
+},
+{
+"text": "2025 Assembly Bill 438",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab438"
+},
+{
+"text": "2025 Assembly Bill 542",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab542"
+},
+{
+"text": "2025 Assembly Bill 80",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab80"
+},
+{
+"text": "2025 Assembly Bill 842",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab842"
+},
+{
+"text": "2025 Assembly Bill 874",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab874"
+},
+{
+"text": "2025 Assembly Bill 983",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab983"
+},
+{
+"text": "2025 Assembly Joint Resolution 34",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ajr34"
+},
+{
+"text": "2025 Assembly Joint Resolution 41",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ajr41"
+},
+{
+"text": "2025 Senate Bill 1006",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb1006"
+},
+{
+"text": "2025 Senate Bill 1007",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb1007"
+},
+{
+"text": "2025 Senate Bill 309",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab309"
+},
+{
+"text": "2025 Senate Bill 435",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb435"
+},
+{
+"text": "2025 Senate Bill 504",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb504"
+},
+{
+"text": "2025 Senate Bill 74",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb74"
+},
+{
+"text": "2025 Senate Bill 825",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb825"
+},
+{
+"text": "2025 Senate Bill 832",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb832"
+},
+{
+"text": "2025 Senate Bill 96",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb96"
+},
+{
+"text": "2025 Senate Bill 984",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb984"
+},
+{
+"text": "2025 Senate Joint Resolution 34",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sjr34"
+},
+{
+"text": "6/4/2025:",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/ab309"
+},
+{
+"text": "About",
+"href": "https://www.nancyforwisconsin.com/about"
+},
+{
+"text": "Authored Proposals",
+"href": "https://www.nancyforwisconsin.com/authored-proposals"
+},
+{
+"text": "Co-Authored Proposals",
+"href": "https://www.nancyforwisconsin.com/copy-of-legislation"
+},
+{
+"text": "Co-Sponsored Proposals",
+"href": "https://www.nancyforwisconsin.com/co-sponsored-proposals"
+},
+{
+"text": "Contact",
+"href": "https://www.nancyforwisconsin.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.nancyforwisconsin.com/contribute"
+},
+{
+"text": "DONATE",
+"href": "https://www.nancyforwisconsin.com/contribute"
+},
+{
+"text": "District",
+"href": "https://www.nancyforwisconsin.com/district"
+},
+{
+"text": "Home",
+"href": "https://www.nancyforwisconsin.com"
+},
+{
+"text": "Issues & Actions",
+"href": "https://www.nancyforwisconsin.com/issues"
+},
+{
+"text": "Photos",
+"href": "https://www.nancyforwisconsin.com/photos"
+},
+{
+"text": "Successes",
+"href": "https://www.nancyforwisconsin.com/successes"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nancyforwisconsin.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/nancyforassembly"
+},
+{
+"text": "[image: revised logo wh png.png]",
+"href": "http://www.topdogmktg.com"
+},
+{
+"text": "info@nancyforwisconsin.com",
+"href": "mailto:info@nancyforwisconsin.com"
+}
 ]

@@ -1,7 +1,4 @@
-Privacy Policy for Contact Information Collection and Usage by Keith Gudehus for Missouri
-Last Updated: June 30, 2025
-Introduction
-Keith Gudehus for Missouri (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+top of page HOME TERMS Privacy Policy for Contact Information Collection and Usage by Keith Gudehus for Missouri Last Updated: June 30, 2025 Introduction Keith Gudehus for Missouri (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 1.
 By signing up for the program through a form provided on GudehusForMO.com or by giving your information to Us at an in-person event, you are giving your express consent, and opting in to receive automated text messages, alerts, and updates at the phone number you provided.
@@ -23,7 +20,7 @@ To cancel your SMS subscriptions, text STOP in reply to any text message you rec
 You will receive a subsequent message confirming your opt-out request.
 7.
 For additional help, text HELP in reply to a text message you receive.
-You can also contact us at GudehusForMO@gmail.com for additional assistance.
+You can also contact us at ​ GudehusForMO@gmail.com for additional assistance.
 8.
 Supported carriers may change from time to time, but currently include Verizon Wireless, AT&T, T-Mobile®, Sprint, Metro®, Boost, Virgin Mobile USA & U.S.
 Cellular®, among others.
@@ -37,4 +34,5 @@ Your data will not be shared or sold to other third parties.
 Program Availability: Currently, the Program is only available to residents of the United States.
 You understand and acknowledge that you may not sign up for, access, or attempt to access or use the Program from countries outside of the U.S.
 You agree to abide by U.S. and other applicable export control laws and not to transfer, by electronic transmission or otherwise, any content or software subject to restrictions under such laws to a national destination or person prohibited under such laws.
-Paid for by Keith Gudehus for Missouri, Andy Turgeon, Treasurer
+GO BACK Paid for by Keith Gudehus for Missouri, Andy Turgeon, Treasurer DOWNLOAD MY FULL RESUME © # by John Roberts.
+Powered and secured by Wix Follow me on social netwroks bottom of page

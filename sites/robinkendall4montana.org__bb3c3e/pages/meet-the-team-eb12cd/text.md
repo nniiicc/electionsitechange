@@ -1,4 +1,4 @@
-top of page
-Our Team
-“We have to build things that we want to see accomplished, in life and in our country, based on our own personal experiences ... to make sure that others ... do not have to suffer the same discrimination.” Patsy Matsu Mink
-bottom of page
+top of page Robin Kendall for Montana House District 94 ​ About Issues Endorsements Get Involved Events Meet the Team Contact More Use tab to navigate through the menu items.
+DONATE Our Team “We have to build things that we want to see accomplished, in life and in our country, based on our own personal experiences ... to make sure that others ... do not have to suffer the same discrimination.” Patsy Matsu Mink Courtney McRae - Thompson Technology Coordinator Alex Cimperman Treasurer Amelia Tallman Campaign Manager Holly Mahon Communications Email robinkendall4montana@gmail.com Mail P.O.
+Box 7316 Missoula, MT 59802 Follow House District 94 FIND YOUR DISTRICT Home About Me News Events Get Involved Contact ​Robin Kendall - For Montana HD94 - Terms & Conditions Privacy Policy Accessibility Statement © # Paid for by Robin Kendall for Montana Alex Cimperman - Treasurer Powered and secured by Wix P.O.
+Box 7316 Missoula, MT 59802 info@robinkendall4montana.org robinkendall4montana@gmail.com 406-207-1939 bottom of page

@@ -1,23 +1,90 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSeR2XluEyrj-Ov052IIJdqTgi-xhZBtEh-TRZ1KepUgaRlM5w/viewform",
-"https://facebook.com/mollyforvermont",
-"https://instagram.com/mollyforvermont",
-"https://mollyforvt.com/",
-"https://mollyforvt.com/cart",
-"https://mollyforvt.com/contact",
-"https://mollyforvt.com/group-events",
-"https://mollyforvt.com/meet-molly",
-"https://mollyforvt.com/meet-mollygray",
-"https://mollyforvt.com/press",
-"https://mollyforvt.com/priorities",
-"https://mollyforvt.com/supporters",
-"https://mollyforvt.com/volunteer",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50",
-"https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=500",
-"https://x.com/mollyforvermont"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.mollyforvt.com/cart"
+},
+{
+"text": "CONTACT",
+"href": "https://www.mollyforvt.com/contact"
+},
+{
+"text": "Click here to request your lawn sign today!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeR2XluEyrj-Ov052IIJdqTgi-xhZBtEh-TRZ1KepUgaRlM5w/viewform"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mollyforvt.com/group-events"
+},
+{
+"text": "Learn more",
+"href": "https://www.mollyforvt.com/meet-mollygray"
+},
+{
+"text": "MEET MOLLY",
+"href": "https://www.mollyforvt.com/meet-molly"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mollygrayforvermont-ws"
+},
+{
+"text": "PRESS",
+"href": "https://www.mollyforvt.com/press"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.mollyforvt.com/priorities"
+},
+{
+"text": "SUPPORTERS",
+"href": "https://www.mollyforvt.com/supporters"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mollyforvt.com/volunteer"
+},
+{
+"text": "[image: Molly Gray for Vermont]",
+"href": "https://www.mollyforvt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mollyforvermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mollyforvermont/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mollyforvermont"
+}
 ]

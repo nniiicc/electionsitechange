@@ -1,7 +1,11 @@
 {
  "description": "In my last 12 months at ConocoPhillips, we did some significant work on quantifying the process and impact of trade entry errors. It was surprising to see how data entry errors could drive metrics...",
  "final_url": "https://www.rneilwalter.com/posts/quantifying-operational-risk",
- "paid_for_by": null,
+ "fingerprint": "a602b34e4df90d389c0e9f2d976368f2a6df3f8d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "R Neil Walter Blog - R. Neil Walter",
- "years_mentioned": []
+ "years_mentioned": [
+  "2015"
+ ]
 }

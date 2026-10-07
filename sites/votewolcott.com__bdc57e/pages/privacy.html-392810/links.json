@@ -1,4 +1,10 @@
 [
-"https://votewolcott.com/index.html",
-"https://votewolcott.com/privacy.html"
+{
+"text": "Back to Site",
+"href": "https://votewolcott.com/index.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votewolcott.com/privacy.html"
+}
 ]

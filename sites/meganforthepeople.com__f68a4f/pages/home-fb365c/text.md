@@ -1,10 +1,13 @@
-Focused on Practical Solutions for Idaho Families
-Megan Woller for Idaho House, District 16
-Megan Woller is a sixth-generation Idahoan, a dedicated non-profit leader, and your Democratic nominee for the Idaho House of Representatives in District 16.
-From her service in her community to her leadership at the Idaho Head Start Association, Megan has spent her career showing up, listening, and delivering for Idaho families.
-Legislative Priorities
-This Campaign Is Proudly Endorsed By
-"Megan brings extensive experience and knowledge to the legislature around early childhood education, public health, and other issues that affect everyday Idahoans.
-As a mother of two young boys, she understands the real challenges families are experiencing and brings focus and passion to policy areas that affect all of us"
-Senator Ali Rabe
-Idaho State Senate, District 16
+0 Skip to Content About Megan Platform Get Involved Media Donate Open Menu Close Menu About Megan Platform Get Involved Media Donate Open Menu Close Menu About Megan Platform Get Involved Media Donate Focused on Practical Solutions for Idaho Families Megan Woller for Idaho House, District 16 Be a Volunteer Donation Megan Woller is a sixth-generation Idahoan, a dedicated non-profit leader, and your Democratic nominee for the Idaho House of Representatives in District 16.
+From her service in her community to her leadership at the Idaho Head Start Association, Megan has spent her career showing up, listening, and delivering for Idaho families. “ Government works best when we focus on practical solutions, listen to our communities, and put people ahead of politics. ” — Megan Woller More About Megan Legislative Priorities 🎒 Early Childhood Education Investing in early childhood education and affordable child care is one of the smartest decisions we can make for Idaho’s workforce, employers, and long-term economic future. ☀️ Protecting Workers from Extreme Heat Work to implement commonsense protections that help prevent heat-related illness and save lives while working collaboratively with employers, workers, and industry leaders to develop practical solutions that keep Idaho's workforce healthy, productive, and safe. 🌲 Public Lands & Resources Opposing efforts to sell off or transfer public lands, ensuring every Idahoan retains the lifelong freedom to safely hike, fish, hunt, and recreate on our shared lands.
+Read Megan's Platform This Campaign Is Proudly Endorsed By "Megan brings extensive experience and knowledge to the legislature around early childhood education, public health, and other issues that affect everyday Idahoans.
+As a mother of two young boys, she understands the real challenges families are experiencing and brings focus and passion to policy areas that affect all of us" Senator Ali Rabe Idaho State Senate, District 16 Deep Roots and a Clear Vision for Idaho Idaho isn’t just where we live, it’s home.
+Megan Woller is ready to bring practical solutions, accountability, and real leadership to the State House.
+Join us in building a future where every family in District 16 can thrive.
+Donate Volunteer Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join my Mailing List!
+Stay up to date with my campaign and be the first to know about events and volunteer opportunities.
+First Name Last Name Email Address Sign Up Thank you!
+Connect with us on Social Media!
+PO BOX 4672, Boise, ID 83711 208-369-2925 Paid for by Megan For The People | Ali Rabe, Treasurer

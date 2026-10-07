@@ -1,4 +1,5 @@
-Washington, D.C.—Today, over 100 House conservatives—who have worked closely with President Donald J.
+Skip to main content Skip to footer Opens in a new tab Donate Get Your Yard Sign Volunteer Home Meet Andy Issues Kentucky Coal Plan Military & Veterans Law Enforcement News Contact Donate Volunteer Get Your Yard Sign Join the team Endorsements Donate Barr Endorsed by Over 100 House Conservatives for U.S.
+Senate Endorsements — December 16, 2025 Washington, D.C. —Today, over 100 House conservatives—who have worked closely with President Donald J.
 Trump to advance the America First agenda—endorsed Andy Barr to be the next Senator from Kentucky.
 They join President Trump’s allies including U.S.
 Senator Markwayne Mullin (R-OK), U.S.
@@ -7,10 +8,8 @@ Congressman Ronny Jackson (R-TX) who served as President Trump’s WH Physician 
 “Andy Barr has always stood shoulder to shoulder with President Trump to fight for the MAGA agenda that Kentuckians voted for.
 Andy helped us write and guide the Big Beautiful Bill into law, the largest tax cut and border security bill in history,” the Members said in a joint statement.
 “Andy Barr is a proven conservative leader, a relentless fighter for the MAGA movement, and someone you can always count on when it matters most.
-He will be a strong voice for Kentucky and a great United States Senator, and we are proud to endorse him.”
-Barr announced endorsements from 107 House conservatives, including thirteen current House Committee Chairmen and the Vice-Chair of the House Republican Conference.
-The full endorsement list is below:
-Rep.
+He will be a strong voice for Kentucky and a great United States Senator, and we are proud to endorse him.” Barr announced endorsements from 107 House conservatives, including thirteen current House Committee Chairmen and the Vice-Chair of the House Republican Conference.
+The full endorsement list is below: Rep.
 Roger Aderholt (R-AL), Rep.
 Mark Alford (R-MO), Rep.
 Rick Allen (R-GA), Rep.
@@ -117,4 +116,14 @@ Joe Wilson (R-SC), Rep.
 Rob Wittman (R-VA), Rep.
 Steve Womack (R-AR), and Rep.
 Ryan Zinke (R-MT).
-###
+### Share this post: Facebook X Linkedin Email Previous post KY Rep.
+John Blanton Endorses Andy Barr for U.S.
+Senate Next post Congressman Ronny Jackson, Trump’s Former WH Physician, Endorses Barr for Senate Join Team Barr Sign Up Form - Horizontal First Name Email Zip Code Phone By providing your information, you are consenting to receiving text messages from Andy Barr for Senate.
+Privacy Policy / Terms and Conditions Sign Up For press inquiries, please contact press@barrforsenate.com Mailing Address: PO Box 2059 Lexington, KY 40588 Paid for by Andy Barr for Senate Please provide your mobile phone to opt-in to Andy Barr for Senate campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Donations may be solicited.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

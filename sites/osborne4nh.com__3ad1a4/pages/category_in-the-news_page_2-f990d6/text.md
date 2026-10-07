@@ -1,7 +1,27 @@
-Osborne: The New Hampshire Advantage Is ‘On the Table’ Without a Strong Majority
-AUBURN, N.H. – House Majority Leader Jason Osborne today announced five more endorsements in his campaign for Speaker of the New Hampshire House: Rep.
+Skip to content Home News About Speaker’s Campaign Donate In the News Osborne: The New Hampshire Advantage Is ‘On the Table’ Without a Strong Majority July 13, 2026 July 13, 2026 by Chris Maidment AUBURN, N.H. – House Majority Leader Jason Osborne today announced five more endorsements in his campaign for Speaker of the New Hampshire House: Rep.
 Denise DeDe-Poulin (R-Rochester), Rep.
 Henry Giasson III (R-Goffstown), Rep.
 Ray Plante (R-Dunbarton), and Rep.
 David Walker (R-Rochester), along with Hooksett Republican candidate Pam McMahon.
-Their support brings to 26 the number … Read more
+Their support brings to 26 the number … Read more Categories In the News Momentum Builds Behind Osborne for Speaker as Five More Republicans Endorse July 6, 2026 July 6, 2026 by Chris Maidment AUBURN, N.H. – House Majority Leader Jason Osborne today announced five more endorsements in his campaign for Speaker of the New Hampshire House: Rep.
+Sue DeLemus (R-Farmington), Rep.
+Jess Edwards (R-Auburn), Rep.
+Mark McLean (R-Manchester), Rep.
+Mary Murphy (R-Francestown), and Rep.
+Paul Terry (R-Alton).
+Their support brings to 21 the number of House Republicans and … Read more Categories In the News Business tax cut, property tax cap ballot question get final approvals June 6, 2026 June 4, 2026 by jasonosborne New Hampshire lawmakers gave final approval to a business tax cut and a ballot question to cap property taxes, two measures championed by House Majority Leader Jason Osborne (R-Auburn), according to the New Hampshire Union Leader.
+The reporting frames the pair as central pieces of the House GOP’s agenda heading into the fall, linking the … Read more Categories In the News Senate drops opposition to business tax cut bill June 6, 2026 May 28, 2026 by jasonosborne The New Hampshire Senate dropped its opposition to a business tax cut bill, clearing the way for a compromise, the New Hampshire Union Leader reported.
+The development advanced a measure that Republican leaders, including House Majority Leader Jason Osborne, had pushed as part of their broader agenda.
+The breakthrough came after negotiators reached terms on … Read more Categories In the News Right to Work, Bathroom Bill Top of Liberty Wish List After Mixed Session June 6, 2026 May 27, 2026 by jasonosborne Liberty activists and lawmakers gathered this week to take stock of a mixed legislative session in Concord, noting wins, losses, and unfinished business.
+As reported by NH Journal, Americans for Prosperity organizers and allied lawmakers counted off the session’s high points and near misses, and argued the income tax fight ended as a win for … Read more Categories In the News ‘Schrödinger’s Tax:’ House Dems Vote Both For and Against an Income Tax June 6, 2026 May 14, 2026 by jasonosborne House Democrats voted down a constitutional amendment that would have allowed a progressive income tax, then voted against a measure to ban future income taxes, all within minutes.
+As NH Journal reported, the back-to-back votes left Republicans needling Democrats over their position on the issue.
+NH Journal noted that the income tax has long divided … Read more Categories In the News Volinsky Ally to Bring Income Tax Amendment to House Floor June 6, 2026 May 12, 2026 by jasonosborne Rep.
+Thomas Oppel (D-Canaan) planned to bring an amendment to the House floor allowing the legislature to impose progressive income taxes to fund public schools and offset local property taxes.
+As reported by NH Journal, Oppel was tied to former Executive Councilor Andru Volinsky’s property tax group, and Republicans signaled they welcomed a recorded vote … Read more Categories In the News ‘Eat Our Dust:’ NHGOP Cheers Court Victory Over Vehicle Inspection Vendor June 6, 2026 April 29, 2026 by jasonosborne Republican state lawmakers celebrated after a federal judge denied vehicle inspection vendor Gordon-Darby’s attempt to impose penalties on New Hampshire.
+As reported by NH Journal, U.S.
+District Court Judge Landya McCafferty ruled the state was moving to comply with her injunction and should not be punished, prompting a victory lap from House Republicans.
+NH Journal … Read more Categories In the News Judge denies request to fine, hold New Hampshire in contempt over ending auto inspections June 6, 2026 April 29, 2026 by jasonosborne A federal judge denied a request to fine New Hampshire and hold it in contempt over the end of mandatory auto inspections, the New Hampshire Union Leader reported.
+The ruling came as the state continued its appeal of an earlier order while issuing a request for proposals to line up a vendor.
+The judge concluded … Read more Categories In the News House panel again advances anti-income tax amendment June 6, 2026 April 27, 2026 by jasonosborne A House panel again advanced the anti-income tax constitutional amendment brought by House Majority Leader Jason Osborne (R-Auburn), the New Hampshire Union Leader reported.
+The committee’s vote kept the proposal moving toward a possible spot on the November ballot.
+Supporters argued the long-running consensus against an income tax in New Hampshire is reason enough to … Read more Categories In the News Older posts Newer posts ← Previous Page 1 Page 2 Page 3 … Page 19 Next → Paid for by Friends of Jason Osborne 65 Miner Rd Auburn NH 03032 Chairman Jason Osborne Jason@Osborne4NH.com 603 391 2138 © # Friends of Jason Osborne Privacy Policy Search for:

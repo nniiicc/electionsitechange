@@ -1,34 +1,15 @@
-Marty Ryan is a longtime resident of Fond du Lac, a healthcare professional, and a proven leader with more than 20 years of public service.
+Early Voting Information Marty for Assembly-60th AD Marty for Assembly-60th AD Marty for Assembly-60th AD Marty for Assembly-60th AD Home About Issues Make a contribution Endorsements In the News Events Contact Gallery Early Voting Information More Home About Issues Make a contribution Endorsements In the News Events Contact Gallery Early Voting Information Marty for Assembly-60th AD Marty for Assembly-60th AD Marty for Assembly-60th AD Marty for Assembly-60th AD EARLY VOTING INFO Home About Issues Make a contribution Endorsements In the News Events Contact Gallery Early Voting Information EARLY VOTING INFO About Marty Meet Marty Ryan Marty Ryan is a longtime resident of Fond du Lac, a healthcare professional, and a proven leader with more than 20 years of public service.
 Throughout his career, Marty has remained committed to one simple principle: putting people first.
 Marty and his wife, Diane, have built their life in Fond du Lac, raising their two sons, Martin and Matthew.
 His deep roots in the community drive his passion for protecting the values that make the area a great place to live, work, and raise a family.
-Marty has served in key leadership roles at both the city
-and county level, including:
-- Fond du Lac County Board Supervisor
-- Chairman of the Finance, Personnel, and Human Resources Committee
-- Chairman of the Community Programs Committee
-- 2nd Vice President of the County Board
-- President of the Police and Fire Commission
-- Former President FDL City Council
-As City Council President, Marty led efforts to eliminate duplication between city and county services—saving taxpayers millions while improving efficiency and accountability.
-He has also played a key role in:
-- Renovating the Fond du Lac Public Library
-- Improving roads, bridges, and public safety infrastructure
-- Expanding access to state and federal funding through metropolitan planning designation
-- Supporting mental health and addiction recovery programs
-Marty’s commitment goes beyond government.
-He has been actively involved in organizations that strengthen the
-community, including:
-- United Way
-- Noon Rotary
-- Economic Development Corporation
-- Beacon House, supporting women and children in recovery
-He has also led fundraising efforts for the Red Cross and local education initiatives, always stepping up when the community needed him most.
-Marty is also a strong advocate for those who have served our country.
-He authored Fond du Lac Veterans Not Forgotten, preserving the stories of local veterans and ensuring their sacrifices are never forgotten.
+Proven Leadership That Delivers Results Marty has served in key leadership roles at both the city and county level, including: Fond du Lac County Board Supervisor Chairman of the Finance, Personnel, and Human Resources Committee Chairman of the Community Programs Committee 2nd Vice President of the County Board President of the Police and Fire Commission Former President FDL City Council As City Council President, Marty led efforts to eliminate duplication between city and county services—saving taxpayers millions while improving efficiency and accountability.
+He has also played a key role in: Renovating the Fond du Lac Public Library Improving roads, bridges, and public safety infrastructure Expanding access to state and federal funding through metropolitan planning designation Supporting mental health and addiction recovery programs A Record of Community Service Marty’s commitment goes beyond government.
+He has been actively involved in organizations that strengthen the community, including: United Way Noon Rotary Economic Development Corporation Beacon House, supporting women and children in recovery He has also led fundraising efforts for the Red Cross and local education initiatives, always stepping up when the community needed him most.
+Standing Up for Our Community Marty is also a strong advocate for those who have served our country.
+He authored Fond du Lac Veterans Not Forgotten , preserving the stories of local veterans and ensuring their sacrifices are never forgotten.
 A graduate of both the Citizens Police Academy and Fire Academy, Marty brings a real understanding of public safety and the challenges facing first responders.
-Marty Ryan believes government should be efficient, accountable, and focused on real results—not empty promises.
+Leadership You Can Trust Marty Ryan believes government should be efficient, accountable, and focused on real results—not empty promises.
 His record speaks for itself: smart solutions, fiscal responsibility, and a commitment to strengthening the community.
 Now, Marty is ready to bring that same leadership to the State Assembly.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Show More Copyright © # Marty for Assembly - All Rights Reserved.
+Paid for by Marty for Assembly Home

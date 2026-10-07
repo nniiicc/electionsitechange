@@ -1,14 +1,66 @@
 [
-"https://barryfinegold.com/",
-"https://barryfinegold.com/about-folder",
-"https://barryfinegold.com/cart",
-"https://barryfinegold.com/donate",
-"https://barryfinegold.com/in-the-news",
-"https://barryfinegold.com/meet-barry",
-"https://barryfinegold.com/new-dropdown",
-"https://barryfinegold.com/stay-connected-folder",
-"https://facebook.com/BarryFinegoldMA",
-"https://instagram.com/barryfinegoldma",
-"https://linkedin.com/in/barryfinegoldma",
-"https://x.com/Barry_Finegold"
+{
+"text": "0",
+"href": "https://www.barryfinegold.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.barryfinegold.com/"
+},
+{
+"text": "Contact Barry",
+"href": "mailto:barry.finegold@masenate.gov?subject=Website+Inquiry&bcc=Dennis.rosner%40masenate.gov"
+},
+{
+"text": "Donate",
+"href": "https://www.barryfinegold.com/donate"
+},
+{
+"text": "Folder: About Barry",
+"href": "https://www.barryfinegold.com/about-folder/"
+},
+{
+"text": "Folder: Contribute",
+"href": "https://www.barryfinegold.com/new-dropdown"
+},
+{
+"text": "Folder: Stay Connected",
+"href": "https://www.barryfinegold.com/stay-connected-folder/"
+},
+{
+"text": "In the News",
+"href": "https://www.barryfinegold.com/in-the-news"
+},
+{
+"text": "Meet Barry",
+"href": "https://www.barryfinegold.com/meet-barry"
+},
+{
+"text": "Read More",
+"href": "https://barryfinegold.com/meet-barry"
+},
+{
+"text": "State Senator Barry Finegold",
+"href": "https://www.barryfinegold.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.barryfinegold.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BarryFinegoldMA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/barryfinegoldma"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/barryfinegoldma/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Barry_Finegold"
+}
 ]

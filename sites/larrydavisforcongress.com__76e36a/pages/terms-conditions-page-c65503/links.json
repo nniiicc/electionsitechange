@@ -1,10 +1,46 @@
 [
-"https://larrydavisforcongress.com/",
-"https://larrydavisforcongress.com/blank",
-"https://larrydavisforcongress.com/contact",
-"https://larrydavisforcongress.com/larry-s-story",
-"https://larrydavisforcongress.com/policies",
-"https://larrydavisforcongress.com/terms-conditions-page",
-"https://larrydavisforcongress.com/volunteer",
-"https://secure.winred.com/larry-davis-for-congress/donate-today"
+{
+"text": "Contact",
+"href": "https://www.larrydavisforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/larry-davis-for-congress/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.larrydavisforcongress.com"
+},
+{
+"text": "Larry's Story",
+"href": "https://www.larrydavisforcongress.com/larry-s-story"
+},
+{
+"text": "Policies",
+"href": "https://www.larrydavisforcongress.com/policies"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.larrydavisforcongress.com/blank"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.larrydavisforcongress.com/terms-conditions-page"
+},
+{
+"text": "Terms & Conditions Page",
+"href": "https://www.larrydavisforcongress.com/terms-conditions-page"
+},
+{
+"text": "Volunteer",
+"href": "https://www.larrydavisforcongress.com/volunteer"
+},
+{
+"text": "[image: Orange and Teal Bold Political Logo.png]",
+"href": "https://www.larrydavisforcongress.com"
+},
+{
+"text": "info@larrydavisforcongress.com",
+"href": "mailto:info@larrydavisforcongress.com"
+}
 ]

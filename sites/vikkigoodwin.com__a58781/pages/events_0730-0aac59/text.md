@@ -1,15 +1,8 @@
-Back to All Events
-Stand with us on July 30th from 6:00-8:00 PM at the Frisco Hall Event Center, and show that hate has no home here!
-RSVP here for more information.
+0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Back to All Events Hate Has No Home Here: Frisco Town Hall Thursday, July 30, 2026 6:00 PM 8:00 PM Frisco Hall Event Center 5353 Independence Parkway Frisco, Texas, 75035 United States (map) Google Calendar ICS Stand with us on July 30th from 6:00-8:00 PM at the Frisco Hall Event Center, and show that hate has no home here!
+RSVP here for more information .
 As division and xenophobia rise in our communities, this is a moment for us to come together and stand up for one another.
 Join us for a community Town Hall focused on honest conversation and real solutions.
 This will be a space to hear from local leaders and take meaningful steps toward building a safer, more inclusive community.
 This is not about politics, it’s about people.
 It’s about respect, safety, and ensuring that everyone feels they belong.
-Hosted by Pooja Sethi, nominee for HD-47, and Sandeep Shrivastava, nominee for HD-66
-Previous
-Previous
-July 26
-Next
-Next
-August 6
+Hosted by Pooja Sethi , nominee for HD-47, and Sandeep Shrivastava , nominee for HD-66 Previous Previous July 26 100 Days Out: Austin Organizing Rally with Vikki Goodwin Next Next August 6 Phone Bank with Team Vikki Pol. adv. paid for by the Vikki Goodwin Campaign, Allen Biehl, Treasurer Campaign Inquiries: AskMe@VikkiGoodwin.com | ‪(352) 88-VIKKI / (352) 888-4554 | 9901 Brodie Lane, Suite 160-315, Austin, TX 78748 Legislative Inquiries: Vikki.Goodwin@house.texas.gov | (512) 463-0652 | P.O Box 2910, Austin, Texas 78768 Read our privacy policy here.

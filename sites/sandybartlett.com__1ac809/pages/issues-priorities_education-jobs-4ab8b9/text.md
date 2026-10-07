@@ -1,28 +1,14 @@
-Education & Jobs
-Education that lifts every Maryland student
-From Pre K to Career
-Strong public schools begin with great teaching, safe facilities, and clear pathways from early learning to careers.
+Working Together, Works Best!
+Call: (443) 353-9501 Donate Home About Issues & Priorities Education Healthcare Public Safety Get Involved Education & Jobs Education that lifts every Maryland student From Pre K to Career Strong public schools begin with great teaching, safe facilities, and clear pathways from early learning to careers.
 Delegate Sandy Bartlett supports proven strategies that raise achievement, close gaps, and strengthen family partnerships so every student in District 32 can thrive in classrooms and beyond.
 Our focus includes competitive teacher pay, modern classrooms, mental health supports, tutoring, and career and technical education that aligns with regional employers.
 We invest in literacy, STEM, and work-based learning, expand dual enrollment, and ensure students with disabilities receive services and accommodations that help them succeed today and after graduation.
-What strong schools require
-To strengthen education in District 32, we prioritize resources that improve teaching, expand student support, and hold systems accountable for results families can see.
-These priorities guide legislation, oversight, and budget advocacy in Annapolis.
-Teacher Pay
-Competitive compensation, mentoring, and planning time to recruit, support, and retain excellent educators across Maryland.
-Safe Facilities
-Student Support
-Career Pathways
-Clear Reporting
-What students need now
-Students thrive when instruction is engaging, rigorous, and connected to future opportunities.
-We invest in literacy, math, science, digital skills, arts, athletics, and civic learning that build confidence, curiosity, leadership, and belonging for all.
-Early Literacy
-Evidence-based reading instruction, summer programs, and tutoring so every child reads confidently by third grade.
-Middle Grades
-High School
-Special Education
-Family Engagement
-Help strengthen education across District 32
-Have ideas, questions, or needs we should address?
+What strong schools require To strengthen education in District 32, we prioritize resources that improve teaching, expand student support, and hold systems accountable for results families can see.
+These priorities guide legislation, oversight, and budget advocacy in Annapolis.  Teacher Pay Competitive compensation, mentoring, and planning time to recruit, support, and retain excellent educators across Maryland.  Safe Facilities Modern buildings, ventilation, safe water, and reliable transportation so students learn in healthy, well-maintained environments.  Student Support Tutoring, mental health counseling, expanded afterschool, and family partnerships that address barriers and improve attendance.  Career Pathways CTE programs, apprenticeships, dual enrollment, and internships aligned with regional employers offering real skills and credentials.  Clear Reporting Transparent goals, public dashboards, and regular updates so families track progress and hold systems accountable.
+What students need now Students thrive when instruction is engaging, rigorous, and connected to future opportunities.
+We invest in literacy, math, science, digital skills, arts, athletics, and civic learning that build confidence, curiosity, leadership, and belonging for all.  Early Literacy Evidence-based reading instruction, summer programs, and tutoring so every child reads confidently by third grade.  Middle Grades Hands-on science, math enrichment, and counseling that sustains curiosity and smooth transitions into high school.  High School Guided pathways, internships, dual credit, and financial aid advising that connect learning to postsecondary goals.  Special Education Qualified staff, timely evaluations, inclusive classrooms, and services that honor IEP goals and student strengths.  Family Engagement Clear communication, multilingual outreach, and welcoming schools where families partner in decisions and student success.
+Help strengthen education across District 32 Have ideas, questions, or needs we should address?
 Share your feedback and join neighbors shaping better schools and brighter futures for every student right here.
+Get Involved Navigation Home About Get Involved Issues & Priorities Education & Jobs Health & Well-being Justice & Public Safety Designed by: Contact  [email protected]  (443) 353-9501  P.O.
+Box 336, Laurel, MD 20725 Follow Follow Copyright © 2026 Authorized By Citizens For Sandy Bartlett, Scott Bartlett Treasurer Delegate J.
+Sandy Bartlett — District 32

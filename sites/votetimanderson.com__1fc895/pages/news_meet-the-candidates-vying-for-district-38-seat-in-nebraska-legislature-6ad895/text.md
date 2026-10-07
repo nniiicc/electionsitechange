@@ -1,5 +1,2 @@
-Previous
-Previous
-NTV: Who's who in the race for District 38: Part 1
-Next
-Next
+0 Skip to Content News Endorsements Donate Open Menu Close Menu News Endorsements Donate Open Menu Close Menu News Endorsements Donate NCN: Meet the Candidates Vying for District 38 Seat in Nebraska Legislature Feb 19 Written By Zach Herr Zach Herr Previous Previous NTV: Who's who in the race for District 38: Part 1 Next Next McCook Gazette: Commissioners visited by legislative hopeful Endorsements News Privacy Policy Paid for by Tim Anderson for Legislature | P.O.
+Box 15, Sutton, NE 68979

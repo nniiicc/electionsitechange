@@ -1,13 +1,10 @@
-Keeping Kids Safe is Non-Negotiable
-THE PEOPLE’S AGENDA
-We the People demand lawmakers choose our children’s safety over special political interests.
+0 Skip to Content How to Vote!
+About Meet Mallory Priorities Volunteer Join Our Team Sign Up to Help Merch & Signs Contact DONATE Open Menu Close Menu How to Vote!
+About Meet Mallory Priorities Volunteer Join Our Team Sign Up to Help Merch & Signs Contact DONATE Open Menu Close Menu How to Vote!
+Folder: About Back Meet Mallory Priorities Folder: Volunteer Back Join Our Team Sign Up to Help Merch & Signs Contact DONATE Keeping Kids Safe is Non-Negotiable THE PEOPLE’S AGENDA We the People demand lawmakers choose our children’s safety over special political interests.
 Safety shouldn’t be political.
 In order to do the most basic job of government — keeping kids in America safe! — our leaders must be willing to put our children and communities ahead of political pressure and corporate interests.
 For too long, we’ve treated public safety as a series of separate crises instead of one shared responsibility.
-Whether it’s rising youth firearm deaths, dangerous social media algorithms or toxic environmental exposure, the common thread is the same: we know how to prevent harm, but we fail to act.
-When elected to Congress, I will fight to create safer communities by diving into factual, unbiased data, identifying preventable harm, introducing bipartisan-backed safety bills, holding wrongdoers accountable, and fighting for federal funding to support programming in SC-05 to enact proactive public safety reform in our communities.
-Priorities:
-- Ensure safe digital spaces for kids with protections from addictive design, predatory algorithms, and exploitation on social media and gaming platforms
-- Address the reality of gun violence for kids in America with firearm education, secure storage, and Second Amendment-friendly policies that help keep guns away from teens and family members in crisis
-- Limit our kids’ exposure to cancer-causing toxins and over-pollution by ensuring clean air, safe water, and contaminant-free food
-- Address juvenile crime at the source by securing federal funding grants for youth programming that aims to prevent juvenile violence and crime before it starts
+Whether it’s rising youth firearm deaths, dangerous social media algorithms or toxic environmental exposure, the common thread is the same: we know how to prevent harm, but we fail to act. ‍ ‍ When elected to Congress, I will fight to create safer communities by diving into factual, unbiased data, identifying preventable harm, introducing bipartisan-backed safety bills, holding wrongdoers accountable, and fighting for federal funding to support programming in SC-05 to enact proactive public safety reform in our communities.
+Priorities: Ensure safe digital spaces for kids with protections from addictive design, predatory algorithms, and exploitation on social media and gaming platforms Address the reality of gun violence for kids in America with firearm education, secure storage, and Second Amendment-friendly policies that help keep guns away from teens and family members in crisis Limit our kids’ exposure to cancer-causing toxins and over-pollution by ensuring clean air, safe water, and contaminant-free food Address juvenile crime at the source by securing federal funding grants for youth programming that aims to prevent juvenile violence and crime before it starts Previous Previous Education Next Next National Security Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
+Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

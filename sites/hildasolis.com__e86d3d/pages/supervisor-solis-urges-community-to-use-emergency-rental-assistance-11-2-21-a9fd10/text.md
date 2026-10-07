@@ -1,6 +1,6 @@
-Low participation rates in the state’s rental assistance program prompted Supervisor Solis to urge the community to utilize these funds.
+Skip to content Home Join Team Hilda Supporters Gallery Donate Supervisor Solis urges community to use emergency rental assistance (11/2/21) By admin In News Posted November 11, 2021 Low participation rates in the state’s rental assistance program prompted Supervisor Solis to urge the community to utilize these funds.
 Some areas in her district including East LA, Southeast LA, and parts of San Gabriel Valley were among the communities that had the lowest participation rates.
 Supervisor Solis took a leadership approach to ensure the communities most at need take advantage of these funds while they are still available.
 Tenants in households with 2020 income below 80% of the county’s median income are eligible, and priority is given to those with income at or below 50% of that level.
 Supervisor Solis urged anyone in need of help paying their rent, regardless of immigration or citizenship status, to visit stayhousedla.org or call (888) 694-0040.
-View article
+View article Post navigation Previous Previous Metro Chair Solis supports free ride program for LAUSD Students (9/23/21) Next Next Hilda leads efforts to bring $10 Million in funding to provide supportive services at interim housing sites (11/3/21) Contact info@hildasolis.com 10643 Valley Blvd., Suite C #144 El Monte, CA 91731 Join the Movement Join Team Hilda Endorse Hilda Donate Paid for by Solis for Congress

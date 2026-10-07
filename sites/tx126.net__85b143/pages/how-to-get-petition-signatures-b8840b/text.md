@@ -1,11 +1,13 @@
-By: The Candidate: Lisa Emerson How To Get Petition Signatures April 29, 2026Petition, Volunteer Path Well: That is all there is too it folks!
+Main Menu Home About Lisa Blog FAQs Sign Up for Emails Donate Login Register Post detail Home Volunteer Path Single By: The Candidate: Lisa Emerson How To Get Petition Signatures April 29, 2026 Petition , Volunteer Path Well: That is all there is too it folks!
 Will This work?
 Will work better if you come gather signatgures with us.
 Mark the date, May 30, 2026 Huge thanks to my campaign volunteers for assisting in creating this video.
 Campaign inspired earrings by local artist.
-May 30, 2026
-May 30, 2026 Gathering Signatures for Ballot Access: 7 Days Left Petition Party The volunteers received a training on collecting signatures and we prepared to head out to the...
+May 30, 2026 Prev post Next post Related Posts May 30, 2026 Gathering Signatures for Ballot Access: # Days Left Petition Party The volunteers received a training on collecting signatures and we prepared to head out to the...
 Continue reading...
 May 29, 2026 The Race is On: The Runoffs Are Over and the Fight to get on the Ballot Begins As of this week, the Texas primary runoffs are officially behind us.
 Consequently, the narrow legal window for...
 Continue reading...
+Leave a Reply Cancel reply You must be logged in to post a comment.
+Community Home About Me FAQs Blog Join the Email List Useful links Activity Groups Forums Register Log In Copyright # Lisa Emerson Log into your account Email/username Password Remember Me Lost Password?
+Log Into Your Account Create an account

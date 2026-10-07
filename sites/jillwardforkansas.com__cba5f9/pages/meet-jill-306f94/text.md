@@ -1,6 +1,4 @@
-Meet Jill
-Our Hometown Champion
-As a life-long resident of Wichita, I understand the needs facing our community.
+Donate Meet Jill Issues Volunteer Stay Up To Date Media Kit Donate Meet Jill Issues Volunteer Stay Up To Date Media Kit Meet Jill Our Hometown Champion As a life-long resident of Wichita, I understand the needs facing our community.
 In fact, I was born and raised right in the heart of the 105thdistrict on Hazelwood Lane and attended and still attend St.
 Francis of Assisi Catholic church.
 I work in our community as an account executive with one of the nation’s largest distributor of facility supplies.
@@ -15,3 +13,5 @@ At the end of day, we need people in Topeka that truly understand the consequenc
 I do and that’s why I am running.
 If you elect me, I will work as hard for you every day as I did to change the law to honor my son and everyone affected by hit and run drivers.
 I truly hope that I can count on your support in this crucial election.
+Meet Jill Issues Volunteer Stay Up To Date Media Kit PAID FOR BY JILL WARD FOR STATE REPRESENTATIVE.
+KELLY DANDURAND, TREASURER

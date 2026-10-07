@@ -1,7 +1,11 @@
 {
  "description": "Privacy information for the Cheryl Hewes for State Senate campaign website.",
  "final_url": "https://www.hewesforme.com/privacy",
- "paid_for_by": null,
+ "fingerprint": "d57e7d0623d1faaac4180acc9f924d643a3b905b",
+ "format": 3,
+ "paid_for_by": "authorized by Cheryl Hewes for State Senate © # Cheryl Hewes Campaign",
  "title": "Privacy Policy | Cheryl Hewes",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

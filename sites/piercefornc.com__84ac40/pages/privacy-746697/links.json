@@ -1,15 +1,62 @@
 [
-"https://aboutads.info/choices",
-"https://adobe.com/products/flashplayer/security",
-"https://facebook.com/profile.php?id=61554997493469",
-"https://instagram.com/piercefornchouse27",
-"https://piercefornc.com/",
-"https://piercefornc.com/endorsements",
-"https://piercefornc.com/events",
-"https://piercefornc.com/platform",
-"https://piercefornc.com/privacy",
-"https://piercefornc.com/terms",
-"https://secure.actblue.com/donate/r4nc-website",
-"https://twitter.com/Pierce4NCHouse",
-"https://xpslane.com/"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/r4nc-website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/r4nc-website"
+},
+{
+"text": "Endorsements",
+"href": "https://piercefornc.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://piercefornc.com/events"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://piercefornc.com/"
+},
+{
+"text": "Platform",
+"href": "https://piercefornc.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://piercefornc.com/privacy"
+},
+{
+"text": "Terms of Use",
+"href": "https://piercefornc.com/terms"
+},
+{
+"text": "[image: Rodney Pierce for NC House]",
+"href": "https://piercefornc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Pierce4NCHouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61554997493469"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/piercefornchouse27/"
+},
+{
+"text": "[no text]",
+"href": "mailto:piercefornchouse@gmail.com"
+},
+{
+"text": "www.aboutads.info/choices.",
+"href": "https://www.aboutads.info/choices"
+}
 ]

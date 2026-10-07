@@ -1,6 +1,18 @@
 [
-"https://facebook.com/ProschForIowa",
-"https://proschforiowa.com/",
-"https://proschforiowa.com/privacy-policy",
-"https://secure.winred.com/prosch-for-iowa/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/prosch-for-iowa/donate-today"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/ProschForIowa"
+},
+{
+"text": "Privacy Policy",
+"href": "https://proschforiowa.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://proschforiowa.com"
+}
 ]

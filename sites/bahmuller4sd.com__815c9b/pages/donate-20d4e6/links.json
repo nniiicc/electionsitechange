@@ -1,9 +1,42 @@
 [
-"http://facebook.com/",
-"https://bahmuller4sd.com/",
-"https://bahmuller4sd.com/cart",
-"https://bahmuller4sd.com/donate",
-"https://bahmuller4sd.com/home",
-"https://bahmuller4sd.com/privacy",
-"https://secure.winred.com/jessica-bahmuller-for-south-dakota/donate"
+{
+"text": "0",
+"href": "https://www.bahmuller4sd.com/cart"
+},
+{
+"text": "About Jessica",
+"href": "https://www.bahmuller4sd.com/#jessica-anchor"
+},
+{
+"text": "Contact Us",
+"href": "https://www.bahmuller4sd.com/home#contact-anchor"
+},
+{
+"text": "Donate",
+"href": "https://www.bahmuller4sd.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/jessica-bahmuller-for-south-dakota/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.bahmuller4sd.com/#issues-anchor"
+},
+{
+"text": "Privacy",
+"href": "https://www.bahmuller4sd.com/privacy"
+},
+{
+"text": "[image: Jessica Bahmuller for South Dakota]",
+"href": "https://www.bahmuller4sd.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:jessica@bahmuller4sd.com"
+}
 ]

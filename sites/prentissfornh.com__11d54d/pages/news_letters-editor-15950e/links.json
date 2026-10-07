@@ -1,32 +1,122 @@
 [
-"https://concordmonitor.com/-47879459",
-"https://facebook.com/SuePrentissforNH",
-"https://instagram.com/sueprentissfornh",
-"https://prentissfornh.com/",
-"https://prentissfornh.com/2022-priorities",
-"https://prentissfornh.com/about-sue",
-"https://prentissfornh.com/about-sue/video-meet-sue",
-"https://prentissfornh.com/contact",
-"https://prentissfornh.com/district-5",
-"https://prentissfornh.com/endorsements-2024",
-"https://prentissfornh.com/groups",
-"https://prentissfornh.com/members",
-"https://prentissfornh.com/news",
-"https://prentissfornh.com/news/letters-editor",
-"https://prentissfornh.com/news/newsletters",
-"https://prentissfornh.com/sue-in-the-news-2026",
-"https://secure.actblue.com/donate/friends-of-sue-prentiss-for-nh-senate-1",
-"https://static.wixstatic.com/media/c5cb2d_000c3332d9494ff0af236a197fa0c6a1~mv2.png",
-"https://static.wixstatic.com/media/c5cb2d_16550cb130884b3b91f409a596cf3990~mv2.jpeg",
-"https://static.wixstatic.com/media/c5cb2d_1c39a3917a194a7683fe3e9e0ce41576~mv2.png",
-"https://static.wixstatic.com/media/c5cb2d_5ab08ef308c74e469704bc2d8ef94a97~mv2.png",
-"https://static.wixstatic.com/media/c5cb2d_5d753ad1e2064bb9b47df0a27cd3e765~mv2.jpeg",
-"https://static.wixstatic.com/media/c5cb2d_778be31cf25d4386b79c8db47974a8ba~mv2.jpeg",
-"https://static.wixstatic.com/media/c5cb2d_8695a2b451c848fdaed1b051aac6fd4d~mv2.jpeg",
-"https://static.wixstatic.com/media/c5cb2d_9ce38b5ce219485386dce01535073dbd~mv2.jpeg",
-"https://static.wixstatic.com/media/c5cb2d_a56b3df6398549daa86385e10db79fd6~mv2.png",
-"https://static.wixstatic.com/media/c5cb2d_b6256ab17d4a4b669d432a51970942a3~mv2.png",
-"https://static.wixstatic.com/media/c5cb2d_f9c16cbc784e4f5d9f08e89679da225b~mv2.png",
-"https://vnews.com/Forum-for-June-19-2024-55653320",
-"https://x.com/PrentissSuzanne"
+{
+"text": "ABOUT",
+"href": "https://www.prentissfornh.com/about-sue"
+},
+{
+"text": "CONTACT",
+"href": "https://www.prentissfornh.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-sue-prentiss-for-nh-senate-1"
+},
+{
+"text": "District 5",
+"href": "https://www.prentissfornh.com/district-5"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.prentissfornh.com/endorsements-2024"
+},
+{
+"text": "Editorial: Upper Valley Politicians Leave GOP Behind",
+"href": "https://static.wixstatic.com/media/c5cb2d_1c39a3917a194a7683fe3e9e0ce41576~mv2.png"
+},
+{
+"text": "Federal Funding to Thank for NH’s Budget Surplus",
+"href": "https://static.wixstatic.com/media/c5cb2d_f9c16cbc784e4f5d9f08e89679da225b~mv2.png"
+},
+{
+"text": "Groups",
+"href": "https://www.prentissfornh.com/groups"
+},
+{
+"text": "Letters to the Editor",
+"href": "https://www.prentissfornh.com/news/letters-editor"
+},
+{
+"text": "Local officials matter too; Prentiss among the best",
+"href": "https://static.wixstatic.com/media/c5cb2d_a56b3df6398549daa86385e10db79fd6~mv2.png"
+},
+{
+"text": "Members",
+"href": "https://www.prentissfornh.com/members"
+},
+{
+"text": "NEWS",
+"href": "https://www.prentissfornh.com/news"
+},
+{
+"text": "Newsletters",
+"href": "https://www.prentissfornh.com/news/newsletters"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.prentissfornh.com/2022-priorities"
+},
+{
+"text": "Prentiss Serves Her Constituents",
+"href": "https://static.wixstatic.com/media/c5cb2d_8695a2b451c848fdaed1b051aac6fd4d~mv2.jpeg"
+},
+{
+"text": "Prentiss Supports Families",
+"href": "https://static.wixstatic.com/media/c5cb2d_5d753ad1e2064bb9b47df0a27cd3e765~mv2.jpeg"
+},
+{
+"text": "Prentiss for NH Senate District 5",
+"href": "https://www.concordmonitor.com/-47879459"
+},
+{
+"text": "Prentiss to Run Again",
+"href": "https://www.vnews.com/Forum-for-June-19-2024-55653320"
+},
+{
+"text": "Public Education is on the Ballot in N.H.",
+"href": "https://static.wixstatic.com/media/c5cb2d_16550cb130884b3b91f409a596cf3990~mv2.jpeg"
+},
+{
+"text": "Reelect Sue Prentiss",
+"href": "https://static.wixstatic.com/media/c5cb2d_5ab08ef308c74e469704bc2d8ef94a97~mv2.png"
+},
+{
+"text": "Reelect Sue Prentiss",
+"href": "https://static.wixstatic.com/media/c5cb2d_9ce38b5ce219485386dce01535073dbd~mv2.jpeg"
+},
+{
+"text": "Sen. Prentiss Has Served District 5 Well",
+"href": "https://static.wixstatic.com/media/c5cb2d_b6256ab17d4a4b669d432a51970942a3~mv2.png"
+},
+{
+"text": "Sue in the News",
+"href": "https://www.prentissfornh.com/sue-in-the-news-2026"
+},
+{
+"text": "Support for Sue Prentiss",
+"href": "https://static.wixstatic.com/media/c5cb2d_000c3332d9494ff0af236a197fa0c6a1~mv2.png"
+},
+{
+"text": "Support for Sue Prentiss",
+"href": "https://static.wixstatic.com/media/c5cb2d_778be31cf25d4386b79c8db47974a8ba~mv2.jpeg"
+},
+{
+"text": "Video: Meet Sue",
+"href": "https://www.prentissfornh.com/about-sue/video-meet-sue"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SuePrentissforNH"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sueprentissfornh/"
+},
+{
+"text": "[image: Sue Prentiss for State Senate logo]",
+"href": "https://www.prentissfornh.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/PrentissSuzanne"
+}
 ]

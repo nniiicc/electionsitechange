@@ -1,12 +1,42 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/Kentwvsenate",
-"https://kentwvsenate.com/",
-"https://kentwvsenate.com/about",
-"https://kentwvsenate.com/endorsements",
-"https://kentwvsenate.com/events",
-"https://kentwvsenate.com/issues",
-"https://kentwvsenate.com/privacy-policy",
-"https://kentwvsenate.com/volunteer",
-"https://secure.actblue.com/donate/kent-gilkerson-1"
+{
+"text": "About",
+"href": "https://www.kentwvsenate.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kent-gilkerson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kentwvsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kentwvsenate.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.kentwvsenate.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kentwvsenate.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kentwvsenate.com/volunteer"
+},
+{
+"text": "[image: Kent Gilkerson for Senate West Virginia]",
+"href": "https://www.kentwvsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Kentwvsenate"
+}
 ]

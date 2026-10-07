@@ -1,19 +1,74 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61563504616043",
-"https://instagram.com/victorforassembly",
-"https://tiktok.com/@oc_greens",
-"https://victorforassembly.com/",
-"https://victorforassembly.com/about",
-"https://victorforassembly.com/contact",
-"https://victorforassembly.com/donate",
-"https://victorforassembly.com/endorsements",
-"https://victorforassembly.com/events",
-"https://victorforassembly.com/issues",
-"https://victorforassembly.com/news/assembly-candidate-victor-hernandez-advances",
-"https://victorforassembly.com/news/ecosocialist-notes-with-howie-hawkins-episode-287",
-"https://victorforassembly.com/news/ladera-ranch-pesticides-in-our-communities",
-"https://victorforassembly.com/press-kit",
-"https://victorforassembly.com/privacy-policy",
-"https://victorforassembly.com/volunteer"
+{
+"text": "Contact",
+"href": "https://www.victorforassembly.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.victorforassembly.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.victorforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.victorforassembly.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.victorforassembly.com/issues"
+},
+{
+"text": "Meet Victor",
+"href": "https://www.victorforassembly.com/about"
+},
+{
+"text": "Press Kit",
+"href": "https://www.victorforassembly.com/press-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.victorforassembly.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.victorforassembly.com/news/assembly-candidate-victor-hernandez-advances"
+},
+{
+"text": "Read more",
+"href": "https://www.victorforassembly.com/news/ecosocialist-notes-with-howie-hawkins-episode-287"
+},
+{
+"text": "Read more",
+"href": "https://www.victorforassembly.com/news/ladera-ranch-pesticides-in-our-communities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.victorforassembly.com/volunteer"
+},
+{
+"text": "[image: Victor Hernandez for State Assembly District 59 logo]",
+"href": "https://www.victorforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61563504616043"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/victorforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@oc_greens"
+},
+{
+"text": "press@victorforassembly.com",
+"href": "mailto:press@victorforassembly.com"
+}
 ]

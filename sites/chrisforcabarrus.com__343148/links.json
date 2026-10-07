@@ -1,19 +1,74 @@
 [
-"https://aflcionc.org/cmlc",
-"https://bsky.app/profile/chrisforcabarrus.bsky.social",
-"https://cabarruscounty.us/Government/Departments/Board-of-Elections/Early-Voting",
-"https://carolinaforward.org/",
-"https://chrisforcabarrus.com/",
-"https://chrisforcabarrus.com/cart",
-"https://chrisforcabarrus.com/privacy-policy",
-"https://facebook.com/chrisforcabarrus",
-"https://instagram.com/chrisforcabarrus",
-"https://instagram.com/p/DbTWav7EedL?igsh=NTc4MTIwNjQ2YQ%3D%3D",
-"https://iwillvote.com/",
-"https://ncaatinaction.org/endorsements/current",
-"https://plannedparenthoodaction.org/planned-parenthood-votes-south-atlantic/protect-abortion-access-in-nc-2026/north-carolina-endorsed-candidates-26",
-"https://secure.actblue.com/donate/chrisbishopp",
-"https://sierraclub.org/north-carolina/endorsements",
-"https://votevets.org/",
-"https://youtube.com/@ChrisforCabarrus"
+{
+"text": "0",
+"href": "https://www.chrisforcabarrus.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chrisbishopp"
+},
+{
+"text": "Early Voting locations and info",
+"href": "https://www.cabarruscounty.us/Government/Departments/Board-of-Elections/Early-Voting"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.chrisforcabarrus.com/privacy-policy"
+},
+{
+"text": "VOTING ON ELECTION DAY",
+"href": "https://iwillvote.com"
+},
+{
+"text": "[image: Carolina Forward endorses Chris Bishopp for North Carolina House District 82]",
+"href": "https://carolinaforward.org/"
+},
+{
+"text": "[image: Chris Bishopp for NC House]",
+"href": "https://www.chrisforcabarrus.com/"
+},
+{
+"text": "[image: NCAAT in Action (North Carolina Asian Americans Together in Action) endorses Chris Bishopp for North Carolina House District 82]",
+"href": "https://ncaatinaction.org/endorsements/current/#:~:text=Chris%20Bishopp%20%E2%80%93%20North%20Carolina%20House%20District%2082"
+},
+{
+"text": "[image: North Carolina League of Conservation Voters endorses Chris Bishopp for North Carolina House District 82]",
+"href": "https://www.instagram.com/p/DbTWav7EedL/?igsh=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "[image: North Carolina State AFL-CIO endorses Chris Bishopp for North Carolina House District 82]",
+"href": "https://aflcionc.org/cmlc"
+},
+{
+"text": "[image: Planned Parenthood Votes! South Atlantic endorses Chris Bishopp for North Carolina House District 82]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-votes-south-atlantic/protect-abortion-access-in-nc-2026/north-carolina-endorsed-candidates-26"
+},
+{
+"text": "[image: Sierra Club North Carolina Chapter endorses Chris Bishopp for North Carolina House District 82]",
+"href": "https://www.sierraclub.org/north-carolina/endorsements"
+},
+{
+"text": "[image: VoteVets endorses Chris Bishopp for North Carolina House District 82]",
+"href": "https://votevets.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/chrisforcabarrus.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/chrisforcabarrus"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisforcabarrus/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ChrisforCabarrus"
+},
+{
+"text": "[no text]",
+"href": "mailto:chris@chrisforcabarrus.com"
+}
 ]

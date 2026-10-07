@@ -1,6 +1,4 @@
-Mary Wolfe
-State Representative
-I enthusiastically support Liz Bennett's campaign for the Iowa Senate.
+top of page Donate Home Legislative Updates Endorsements Email Signup Video More Use tab to navigate through the menu items. < Back Mary Wolfe State Representative I enthusiastically support Liz Bennett's campaign for the Iowa Senate.
 I have served with Liz on the Iowa House Judiciary Committee; I admire her commitment to the goal of "justice for all" and I can attest that Liz has been an effective and unwavering advocate for the vulnerable Iowans targeted by the mean spirited and often unconstitutional legislation championed by the majority party.
 Liz has helped shut down some of the worst of these bad bills; she's also been an integral factor in the passage of the few "pro" LGBTQ+ bills that have made it though the Iowa House.
-I am grateful for the good work that Liz Bennet has done in the Iowa House, and I know that in the Iowa Senate Liz will continue to "speak truth to power" and speak up in support of the constitutional rights of ALL Iowans.
+I am grateful for the good work that Liz Bennet has done in the Iowa House, and I know that in the Iowa Senate Liz will continue to "speak truth to power" and speak up in support of the constitutional rights of ALL Iowans. ​ ​ Paid for by Iowans for Liz Bennett bottom of page

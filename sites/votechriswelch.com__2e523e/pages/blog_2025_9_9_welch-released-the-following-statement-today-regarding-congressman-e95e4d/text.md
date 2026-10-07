@@ -1,7 +1,4 @@
-Welch released the following statement regarding Congressman Davis’ Retirement and State Central Committee opening
-July 31, 2025
-WESTCHESTER, Ill. — Illinois House Speaker and Proviso Township Democratic Committeeman Emanuel ‘Chris’ Welch released the following statement today regarding Congressman Davis’ Retirement and State Central Committee opening:
-Congressman Danny K.
+Meet Chris Priorities News Get Involved Donate Meet Chris Priorities News Get Involved Donate Illinois State Representative • Speaker of the House Welch released the following statement regarding Congressman Davis’ Retirement and State Central Committee opening July 31, 2025 WESTCHESTER, Ill. — Illinois House Speaker and Proviso Township Democratic Committeeman Emanuel ‘Chris’ Welch released the following statement today regarding Congressman Davis’ Retirement and State Central Committee opening: Congressman Danny K.
 Davis has served as a role model and mentor to many of us for decades.
 Whether as an Alderman for the City of Chicago, Commissioner for the Cook County Board or a United States Congressman, he has always fought for the little guy and made sure folks had a second chance.
 I’m thankful for his leadership, counsel, and guidance in my role as Speaker.
@@ -11,3 +8,4 @@ Congressman Davis’ work on behalf of Illinois Democrats must continue.
 The new challenges we face demand strong leadership, winning coalitions, and the will to fight to make people’s lives a little easier.
 It’s my intention to do just that, by seeking to serve as Democratic State Central Committeeman for the 7th District.
 Today Welch has announced State Central Committee endorsements from: Congressman Davis, Democratic Party of Illinois Chair Lisa Hernandez, and Democratic leaders Alderman Walter Burnett, Former Committeeman Darlena Williams Burnett, State Representative Jawaharial ‘Omar’ Williams, Alderwoman Emma Mitts, State Representative Kam Buckner, State Representative La Shawn Ford, Dan Hynes, Mayor Andre Harvey, Mayor Joe Tamburino, Mayor Katrina Thompson, and Mayor Nathaniel Booker.
+Casimir Stopa September 9, 2025 Facebook 0 Twitter 0 Likes Previous Endorsement List Grows for Speaker Welch State Central Committee Run Casimir Stopa September 9, 2025 Next Welch Secures Votes for Third Term as House Speaker Jordan Evans November 8, 2024 Meet Chris Priorities News Donate Volunteer District Map © Copyright #•Paid for by The People for Emanuel “Chris” Welch

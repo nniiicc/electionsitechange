@@ -1,21 +1,94 @@
 [
-"https://facebook.com/profile.php?id=61578539772678",
-"https://google.com/maps/search?api=1&query=10802+Town+Square+Dr+NE%2C+Blaine%2C+MN+55449",
-"https://instagram.com/matchett4minnesota",
-"https://matchett4minnesota.com/",
-"https://matchett4minnesota.com/about",
-"https://matchett4minnesota.com/accessibility",
-"https://matchett4minnesota.com/book-online",
-"https://matchett4minnesota.com/contact",
-"https://matchett4minnesota.com/endorsements",
-"https://matchett4minnesota.com/events",
-"https://matchett4minnesota.com/events/doorknock-with-mape-2026-08-27",
-"https://matchett4minnesota.com/events/doorknock-with-save-the-boundary-waters-action-fund-2026-08-18",
-"https://matchett4minnesota.com/issues",
-"https://matchett4minnesota.com/press",
-"https://matchett4minnesota.com/privacy-policy",
-"https://matchett4minnesota.com/volunteer",
-"https://mobilize.us/amandamatchettforminnesota",
-"https://secure.actblue.com/donate/amandamatchett",
-"https://tiktok.com/@matchett4minnesota"
+{
+"text": "About",
+"href": "https://matchett4minnesota.com/about/"
+},
+{
+"text": "About Amanda",
+"href": "https://matchett4minnesota.com/about/"
+},
+{
+"text": "Accessibility",
+"href": "https://matchett4minnesota.com/accessibility/"
+},
+{
+"text": "Contact form",
+"href": "https://matchett4minnesota.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amandamatchett"
+},
+{
+"text": "Doorknock with MAPE →",
+"href": "https://matchett4minnesota.com/events/doorknock-with-mape-2026-08-27/"
+},
+{
+"text": "Endorsements",
+"href": "https://matchett4minnesota.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://matchett4minnesota.com/events/"
+},
+{
+"text": "Get directions",
+"href": "https://www.google.com/maps/search/?api=1&query=10802+Town+Square+Dr+NE%2C+Blaine%2C+MN+55449"
+},
+{
+"text": "Home",
+"href": "https://matchett4minnesota.com/"
+},
+{
+"text": "Issues",
+"href": "https://matchett4minnesota.com/issues/"
+},
+{
+"text": "Meet Amanda",
+"href": "https://matchett4minnesota.com/book-online/"
+},
+{
+"text": "Press",
+"href": "https://matchett4minnesota.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://matchett4minnesota.com/privacy-policy/"
+},
+{
+"text": "RSVP on Mobilize",
+"href": "https://www.mobilize.us/amandamatchettforminnesota/"
+},
+{
+"text": "Volunteer",
+"href": "https://matchett4minnesota.com/volunteer/"
+},
+{
+"text": "[image] Amanda Matchett MN House 32A",
+"href": "https://matchett4minnesota.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578539772678"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/matchett4minnesota/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@matchett4minnesota"
+},
+{
+"text": "info@matchett4minnesota.com",
+"href": "mailto:info@matchett4minnesota.com"
+},
+{
+"text": "← Doorknock with Save the Boundary Waters Action Fund",
+"href": "https://matchett4minnesota.com/events/doorknock-with-save-the-boundary-waters-action-fund-2026-08-18/"
+},
+{
+"text": "♥ Donate",
+"href": "https://secure.actblue.com/donate/amandamatchett"
+}
 ]

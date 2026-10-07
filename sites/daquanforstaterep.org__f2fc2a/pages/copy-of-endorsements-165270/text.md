@@ -1,24 +1,5 @@
-top of page
-Organizations that believe in Daquan.
-There is more that Unites us than Divides us.
-Daquan is putting people before politics and has has gained the support of your local businesses and organizations.
-NATIONAL ASSOCIATION OF TEACHERS
-NATIONAL ASSOCIATION OF SOCIAL WORKERS
-MONTGOMERY COUNTY DEMOCRATS
-BLUE OHIO
-T-8 AUTO SALES
-AFSCME Ohio Council 8 AFSCME Retiree Chapter 1184 POWER IN ACTION
-OHIO LEGISLATIVE BLACK CAUCUS
-Ohio Civil Services Employees Association, AFSCME Local 11
-PROGRESSIVE VOTER NETWORK
-MOMS DEMAND ACTION GUN SENSE CANDIDATE DISTINCTION
-OHIO NURSES ASSOCIATION
-OHIO YOUNG DEMOCRATS
-SAVE OHIO PARKS
-BUCKEYE VETERANS COALITION PAC
-RUN FOR SOMETHING
-SPRINGFIELD/DAYTON AREA UAW CAP COUNCIL
-SIERRA CLUB OF OHIO
-PLANNED PARENTHOOD ADVOCATES OF OHIO
-IUE-CWA A FORCE FOR WORKING FAMILIES
-bottom of page
+top of page DAQUAN NEAL FOR STATE REPRESENTATIVE DISTRICT 39 Home About Policies Volunteer ASK Daquan Endorsements Daquan's Student's of Ohio DONATE Organizations that believe in Daquan.
+There is more that Unites us than Divides us. ​ ​ ​ Daquan is putting people before politics and has has gained the support of your local businesses and organizations. ​ ENDORSE AND SUPPORT DAQUAN NATIONAL ASSOCIATION OF TEACHERS NATIONAL ASSOCIATION OF SOCIAL WORKERS MONTGOMERY COUNTY DEMOCRATS BLUE OHIO T-8 AUTO SALES AFSCME Ohio Council 8 AFSCME Retiree Chapter 1184 POWER IN ACTION OHIO LEGISLATIVE BLACK CAUCUS Ohio Civil Services Employees Association, AFSCME Local 11 PROGRESSIVE VOTER NETWORK MOMS DEMAND ACTION GUN SENSE CANDIDATE DISTINCTION OHIO NURSES ASSOCIATION OHIO YOUNG DEMOCRATS SAVE OHIO PARKS BUCKEYE VETERANS COALITION PAC RUN FOR SOMETHING SPRINGFIELD/DAYTON AREA UAW CAP COUNCIL SIERRA CLUB OF OHIO PLANNED PARENTHOOD ADVOCATES OF OHIO IUE-CWA A FORCE FOR WORKING FAMILIES Campaign Compliance Notice Contributions are subject to Ohio campaign finance laws, including contribution limits and reporting requirements.
+Corporate and individual contributions must comply with applicable laws.
+No goods or services may be provided in exchange for official action.
+PRIVACY POLICY Paid for by Friends of Daquan Neal for Ohio bottom of page

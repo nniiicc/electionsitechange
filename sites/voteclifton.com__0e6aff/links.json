@@ -1,7 +1,38 @@
 [
-"http://facebook.com/voteclifton",
-"https://facebook.com/voteclifton",
-"https://secure.psqimpact.com/donate/clifton-for-columbia-county/donate-today",
-"https://voteclifton.com/",
-"https://voteclifton.com/video"
+{
+"text": "About",
+"href": "https://www.voteclifton.com"
+},
+{
+"text": "Contact",
+"href": "https://www.voteclifton.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.psqimpact.com/donate/clifton-for-columbia-county/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.voteclifton.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.voteclifton.com"
+},
+{
+"text": "Video",
+"href": "https://www.voteclifton.com/video"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/voteclifton"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/voteclifton"
+},
+{
+"text": "rob@voteclifton.com",
+"href": "mailto:rob@voteclifton.com"
+}
 ]

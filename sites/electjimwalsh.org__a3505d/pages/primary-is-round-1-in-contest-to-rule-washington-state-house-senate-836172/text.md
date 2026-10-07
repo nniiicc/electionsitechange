@@ -1,6 +1,5 @@
-With the Washington state primary results coming in, the battle lines are being drawn over control of the state Legislature come the November elections.
-Joseph O’Sullivan
-OLYMPIA — A pair of incumbent Washington state senators maintained small leads in Tuesday’s returns in two closely watched primary races.
+Skip to content Home About News Contact Subscribe Campaign Videos Donate To Jim’s Campaign Primary is round 1 in contest to rule Washington state House, Senate Posted on August 8, 2016 September 25, 2017 by abhays With the Washington state primary results coming in, the battle lines are being drawn over control of the state Legislature come the November elections.
+By Joseph O’Sullivan Seattle Times Olympia bureau OLYMPIA — A pair of incumbent Washington state senators maintained small leads in Tuesday’s returns in two closely watched primary races.
 The results will shape the contours of this fall’s battle for control of the Washington state Legislature.
 Democrats hold a thin 50-to-48 House majority.
 In the Senate, Republicans hold power by a slender 26-23 edge.
@@ -41,7 +40,10 @@ Republicans Jim Walsh and Val Tinney were also running.
 Tuesday’s returns showed Walsh narrowly leading, with Rossetti in second.
 In both 30th District House races Tuesday night, Democratic challengers were beating incumbent GOP Reps.
 Teri Hickel and Linda Kochmar, both of Federal Way.
-This story, originally published on Aug. 2, has been corrected.
+This story, originally published on Aug.
+2, has been corrected.
 In the race for the 19th District House seat, Republican Jim Walsh was leading in Tuesday’s returns, not Democratic Rep.
 JD Rossetti.
 And Rossetti was in second, not Teresa Purcell.
+Posted in Uncategorized .
+Post navigation ← Aberdeen Republican Walsh will run… PRIMARY ELECTIONS 2016 → Sign up to receive campaign news and updates Name * First Last Email * Paid for by Friends of Jim Walsh (R) · PO Box 2259 · Aberdeen, WA 98520 A SiteOrigin Theme

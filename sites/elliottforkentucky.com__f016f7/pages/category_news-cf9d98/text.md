@@ -1,3 +1,7 @@
-Dakota Meyer Endorses Daniel Elliott
-from Dakota Meyer: It’s an exciting time of the year with the upcoming March 8th Special Election for State Representative, Kentuckians have the opportunity to flip the House and bring a new majority to Frankfort for the first time in nearly 100 years.
-We have been stuck with the same, ineffective liberal leadership in the… Read More
+Toggle navigation About Issues News COVID-19 Vote Donate News Dakota Meyer Endorses Daniel Elliott February 3, 2016 by Elliott for State Representative in News from Dakota Meyer: It’s an exciting time of the year with the upcoming March 8th Special Election for State Representative, Kentuckians have the opportunity to flip the House and bring a new majority to Frankfort for the first time in nearly 100 years.
+We have been stuck with the same, ineffective liberal leadership in the… Read More Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Daniel B.
+Elliott Nominated to run for Vacancy in the Kentucky House of Representatives, 54th District January 10, 2016 by Elliott for State Representative in News FRANKFORT, KY – Daniel B.
+Elliott, an attorney in Boyle County, was nominated to run for a vacancy in the Kentucky House of Representatives District 54.
+The 54th District includes Boyle County and Casey County.
+“Frankfort needs some common sense leadership, and I intend to be a strong, independent voice for the working families of… Read More Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Latest News Dakota Meyer Endorses Daniel Elliott February 3, 2016 Daniel B.
+Elliott Nominated to run for Vacancy in the Kentucky House of Representatives, 54th District January 10, 2016 First Name Last Name Email * ZIP Code * About News Volunteer Donate Paid for by Daniel Elliott for State Representative

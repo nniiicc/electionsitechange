@@ -1,4 +1,4 @@
-[March 16, 2012] | We returned to the Gold Dome on Monday, March 12, to begin our 31st legislative day of the 2012 session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK Report from the Capitol [ March 16, 2012 ] | We returned to the Gold Dome on Monday, March 12, to begin our 31st legislative day of the 2012 session.
 With ?Crossover Day?
 (Day 30) behind us, bills passed by the State Senate have now ?crossed over? for consideration in the House.
 This means that we will spend the last 10 legislative days of the session debating and voting on Senate bills and resolutions that have already passed the Senate.
@@ -48,3 +48,4 @@ As we continue to review Senate legislation during these last few weeks of sessi
 Though the legislative session may be coming to an end, I still need to know your opinion on the issues that affect you and your family.
 You can reach me at my Capitol office at 404-656-0188 or through email at rick.jasperse@house.ga.gov.
 Thank you for allowing me to serve as your Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

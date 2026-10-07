@@ -1,8 +1,8 @@
-Protect Our Environment
-Climate change poses an existential threat to all life on this planet, and we must respond decisively.
+Skip navigation menu Home Meet Nikhil Issues Endorsements Volunteer Events Contact Donate Home Meet Nikhil Issues Endorsements Volunteer Events Contact Donate Protect and Strengthen Public Schools Universal Health Care for Vermonters Build Affordable Housing and Protect Tenants Defend Our Immigrant Neighbors Dignity for Older Vermonters Protect Our Environment Strengthen Public Safety and Tackle Gun Violence Support Public Transit Ban Social Media for Kids and Tax Big Tech and AI Support Our Small Businesses and Entrepreneurs Protect Our Environment Climate change poses an existential threat to all life on this planet, and we must respond decisively.
 We all deserve clean air and water and a healthy, habitable planet.
 The effort to clean up Lake Champlain has been ongoing for decades, and Nikhil supports bold action to reduce phosphorous pollution in order to improve water quality, health, and tourism.
 We spend more than $2 billion annually on fossil fuels—more than 75 percent of which leaves the Vermont economy.
-By investing in electrification, energy efficiency, battery storage, weatherization, electric vehicle chargers, and restoring wetlands, we can keep more of our dollars in the Vermont economy, create thousands of living-wage jobs, cut energy bills, improve flood resilience, and make progress on our climate goals.
-Nikhil calls on all new commercial buildings to be solar-ready and new residential and commercial buildings with parking to include electric vehicle charging stations.
+By investing in electrification, energy efficiency, battery storage, weatherization, electric vehicle chargers, and restoring wetlands , we can keep more of our dollars in the Vermont economy, create thousands of living-wage jobs, cut energy bills, improve flood resilience, and make progress on our climate goals.
+Nikhil calls on all new commercial buildings to be solar-ready and new residential and commercial buildings with parking to include electric vehicle charging stations .
 Nikhil supports bringing catamounts back to Vermont and working towards creating a national park in the state to ensure permanent conservation of land.
+Email: info@nikhilgoyal.com If donating by mail, make checks payable to: Nikhil Goyal for Vermont | PO BOX 164 Burlington, VT 05402 Powered by RUN! website builder Paid for by Nikhil Goyal for Vermont You need to enable JavaScript to run this app.

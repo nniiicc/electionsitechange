@@ -1,14 +1,9 @@
-Back to All Events
-You’re invited to join us for our kickoff event as I officially begin my campaign to be elected as Downriver Michigan’s State Representative for District 27.
+0 Skip to Content About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Donate Now Open Menu Close Menu About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Donate Now Open Menu Close Menu About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Back Donate Now Back to All Events jaime's Kickoff Fundraiser 2026 Tuesday, April 21, 2026 7:00 PM 9:00 PM Location shared upon RSVP Wyandotte, MI (map) Google Calendar ICS You’re invited to join us for our kickoff event as I officially begin my campaign to be elected as Downriver Michigan’s State Representative for District 27.
 Our seat is one of the most competitive disticts in the entire state.
 We won in 2022 and we are going to do it again.
 It would mean so much to have your support as we launch this campaign and share our vision for the future of our community.
 The event location is in Wyandotte and will be shared upon RSVP.
 If you have any questions please contact us via email at: layla@jaimechurches.com.
-To purchase a ticket in advance, please visit:
-https://secure.actblue.com/donate/churches-kickoff-2026
-I hope to see you there!
--jaime
-Previous
-Previous
-June 26
+To purchase a ticket in advance, please visit: https://secure.actblue.com/donate/churches-kickoff-2026 I hope to see you there! -jaime Previous Previous June 26 Elba Island Event About ‍ ‍ Contact ‍ ‍ Subscribe ‍ ‍ Volunteer ‍ ‍ Donate‍ ‍ Paid for by Friends of Jaime Churches | info@jaimechurches.com | PO Box 23 Grosse Ile, MI 48138 | Political donations are not tax exempt.
+Friends of Jaime Churches upholds stringent privacy standards, guaranteeing that the personal information of our users and members remains confidential and is never sold, rented out, disclosed, or exchanged with any third parties unless explicitly authorized by the user or required by law.
+Contact us at: jaime@jaimechurches.com

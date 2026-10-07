@@ -1,4 +1,2 @@
-Washington DC
-Workinging in our nation's Capitol to push legislation to bring Equality to 3.2 American Citizens residing on the island of Puerto Rico.
-Committee to Elect Ricky Santiago for FL House Dist.50
-Powered by CampaignPartner.com - Political Campaign Websites
+Home/ Inicio Meet Ricky/ Conoce a Ricky Events/ Eventos Issues/ Temas de Campaña Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Washington DC Workinging in our nation's Capitol to push legislation to bring Equality to 3.2 American Citizens residing on the island of Puerto Rico.
+Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com - Political Campaign Websites Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu

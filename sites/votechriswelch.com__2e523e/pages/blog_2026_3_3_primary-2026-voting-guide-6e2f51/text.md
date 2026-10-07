@@ -1,6 +1,3 @@
-Primary 2026 Voting Guide
-Early voting is open in the Tuesday, March 17 primary election.
+Meet Chris Priorities News Get Involved Donate Meet Chris Priorities News Get Involved Donate Illinois State Representative • Speaker of the House Primary 2026 Voting Guide Early voting is open in the Tuesday, March 17 primary election.
 Remember to make a plan to vote, and use this guide to help elect a strong slate of candidates.
-Polling Place Locator: https://bit.ly/3Oefm5K
-Cook County Early Voting: https://bit.ly/4bKn2Xi
-Cook County Vote By Mail: https://bit.ly/3Ogc7e1
+Polling Place Locator: https://bit.ly/3Oefm5K Cook County Early Voting: https://bit.ly/4bKn2Xi Cook County Vote By Mail: https://bit.ly/3Ogc7e1 Casimir Stopa March 3, 2026 Facebook 0 Twitter Pinterest 0 0 Likes Previous Illinois House Speaker Emanuel “Chris” Welch Named Executive Vice-Chair of the Cook County Democratic Party Sirean Morea May 4, 2026 Next IUOE Local 150 Leads in Labor Endorsement for Speaker Welch’s State Central Run Sirean Morea February 3, 2026 Meet Chris Priorities News Donate Volunteer District Map © Copyright #•Paid for by The People for Emanuel “Chris” Welch

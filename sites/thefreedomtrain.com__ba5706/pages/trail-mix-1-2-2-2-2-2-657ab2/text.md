@@ -1,8 +1,6 @@
-It’s Time To Take The World Cup Away From The US
-Between kidnapping Venezuela’s leader and killing their mariners on the high seas, and between bombing schoolgirls, America has been a lousy neighbor this year.
+Skip to content It’s Time To Take The World Cup Away From The US Between kidnapping Venezuela’s leader and killing their mariners on the high seas, and between bombing schoolgirls, America has been a lousy neighbor this year.
 So bad that we no longer deserve to host the 2026 World Cup.
-(Canada and Mexico are also hosting games.)
-There is plenty of precedent for this: international sporting events have been moved or canceled many times over the decades as punishment for starting wars.
+(Canada and Mexico are also hosting games.) There is plenty of precedent for this: international sporting events have been moved or canceled many times over the decades as punishment for starting wars.
 We submit to you that if any other nation had been guilty of our atrocities, they would be sanctioned immediately.
 There would be a cost, of course.
 It would be inconvenient for an awful lot of people.
@@ -12,4 +10,6 @@ If FIFA won’t take action, then the time has come for countries to boycott the
 And it doesn’t have to be all 48 nations, either, just enough so that FIFA cannot have a legitimate tournament.
 It’s time for the world to tell America enough, enough ignorance, enough violence, enough damage.
 It is time for the World Cup to be taken away from the US.
-Thank you for reading,
+Thank you for reading, Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

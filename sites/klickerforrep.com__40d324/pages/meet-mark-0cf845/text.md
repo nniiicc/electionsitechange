@@ -1,36 +1,14 @@
+top of page State Representative Position 1, District 16 Re-Elect Mark Klicker DONATE DOWNLOAD W9 HOME MEET MARK PLATFORM NEWS Letter To The Editor GET INVOLVED Request A Yard Sign ENDORSE PAST ENDORSEMENTS More Use tab to navigate through the menu items.
 Meet Mark - Your Current State Rep.
-LEADERSHIP DELIVERING RESULTS FOR OUR COMMUNITY
-I am the son of Bob and Nancy Klicker, born and raised in Walla Walla.
-I have two brothers Kirk, wife Nancy and Kraig, wife Charlotte.
-I have been married over 32 years to my lovely wife Lisa.
+LEADERSHIP DELIVERING RESULTS FOR OUR COMMUNITY I am the son of Bob and Nancy Klicker, born and raised in Walla Walla.
+I have two brothers Kirk, wife Nancy and Kraig, wife Charlotte. ​ I have been married over 32 years to my lovely wife Lisa.
 We have three adult children; my son Nick and his wife Hillary, my daughter Kyla and her husband Colin and my daughter Jami.
 My first job was a young strawberry picker for the Klicker Strawberry Fields.
 This led to many other jobs on the family farm such as working on our wheat and cattle ranches, work in the mountains on our forest land and being an orchardist in Eastern Washington.
-This created an atmosphere for a strong work ethic and also a desire to work with the community abroad.
-I am proud to be your current State Representative for the 16th District.
-During my two terms, I have served on the following committees: Housing (Ranking member), House Transportation, Post Secondary Education/Workforce, Joint Committee on Transportation, Covenant Home Ownership and Joint Committee on Energy Supply, Conservation & Resilience.
-Over the time of my professional careers, I have had the opportunity to advance the agricultural industry in our state and nation.
-Some of my previous and current professions include:
-- 1997-2013 – Regional Field Director, Washington State Farm Bureau
-- Monson Fruit Company Project Coordinator
-- 1991 - 2015 – Owner, ALPHA OMEGA KLICKER CHERRIES
-- 2002-2006 – Founder and previous owner, Klicker Enterprises
-- Current – Owner, Urban, Farm, and Forest Group
-- Current – Licensed Washington State Realtors
-Throughout my life, I was able to accomplish goals that made a difference.
-These include:
-- Passing Walla Walla County Joint Powers Ordinance 219
-- Coordinated and led a mission group to construct a new church in the Blue Mountains of Jamaica
-- Coordinated statewide farmer rallies and tractor parades defending property rights in downtown Seattle and downtown Spokane
-- Developed a program called “COUNTY EMPOWERMENT Bringing People Together”
-- This program educated local governments on equal participation in state and national environmental laws.
-- Developed a statewide program for the Washington State Farm Bureau called “HABITS OF A SUCCESSFUL FARM BUREAU.”
-- This program provided training for struggling county Farm Bureau chapters on how to become a more active and effective organization for their members.
-Finally, I believe in serving my community and making it better for all.
-Here are a few servant leadership roles I have participated in throughout my life;
-- Past board member, Vice President, and President, Walla Walla County Farm Bureau Board of Directors
-- Past member Mill Creek Watershed Fire Protection Committee
-- Present Chairman, Walla Walla County Voluntary Stewardship Program
-- Past Chairman, Country Green Condominium Association
-- Community Advisory Committee – Walla Walla Union-Bulletin.
-- Past board member, Jubilee Christian Academy
+This created an atmosphere for a strong work ethic and also a desire to work with the community abroad. ​ I am proud to be your current State Representative for the 16th District.
+During my two terms, I have served on the following c ommittees: Housing (Ranking member), House Transportation, Post Secondary Education/Workforce, Joint Committee on Transportation, Covenant Home Ownership and Joint Committee on Energy Supply, Conservation & Resilience. ​ Over the time of my professional careers, I have had the opportunity to advance the agricultural industry in our state and nation.
+Some of my previous and current professions include: ​ ​ 1997-2013 – Regional Field Director, Washington State Farm Bureau Monson Fruit Company Project Coordinator 1991 - 2015 – Owner, ALPHA OMEGA KLICKER CHERRIES 2002-2006 – Founder and previous owner, Klicker Enterprises Current – Owner, Urban, Farm, and Forest Group Current – Licensed Washington State Realtors ​ ​ Throughout my life, I was able to accomplish goals that made a difference.
+These include: ​ Passing Walla Walla County Joint Powers Ordinance 219 Coordinated and led a mission group to construct a new church in the Blue Mountains of Jamaica Coordinated statewide farmer rallies and tractor parades defending property rights in downtown Seattle and downtown Spokane Developed a program called “COUNTY EMPOWERMENT Bringing People Together” This program educated local governments on equal participation in state and national environmental laws.
+Developed a statewide program for the Washington State Farm Bureau called “HABITS OF A SUCCESSFUL FARM BUREAU.” This program provided training for struggling county Farm Bureau chapters on how to become a more active and effective organization for their members. ​ ​ Finally, I believe in serving my community and making it better for all.
+Here are a few servant leadership roles I have participated in throughout my life; Past board member, Vice President, and President, Walla Walla County Farm Bureau Board of Directors Past member Mill Creek Watershed Fire Protection Committee Present Chairman, Walla Walla County Voluntary Stewardship Program Past Chairman, Country Green Condominium Association Community Advisory Committee – Walla Walla Union-Bulletin.
+Past board member, Jubilee Christian Academy ​ ​ ​ Please make donations payable to: Mark Klicker for State Representative PO Box 3401 Walla Walla, WA, 99362 © # Paid Mark Klicker for State Representative (R) HOME MEET MARK PLATFORM NEWS Letter To The Editor GET INVOLVED Request A Yard Sign ENDORSE PAST ENDORSEMENTS More Use tab to navigate through the menu items. bottom of page

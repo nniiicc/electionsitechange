@@ -1,8 +1,6 @@
-Over the decades, I have written communications debunking the Old and New Testaments while attempting to reveal scientific and historical evidence to prove my assumptions, which I believe to be true.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact No Gods; Religion Manmade / Blog Post / By Billy Ray Wilson Over the decades, I have written communications debunking the Old and New Testaments while attempting to reveal scientific and historical evidence to prove my assumptions, which I believe to be true.
 Before we start, I want to provide context on two essential topics: the First Amendment to the US Constitution and the internet platform Reddit.
-The First Amendment: “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.”
-Reddit: “Reddit is a social news website, forum, and social media platform that brings together millions of people worldwide to talk about almost any topic.”
-A couple of months ago, I read an interesting question on a Reddit forum and provided comments.
+The First Amendment: “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.” Reddit: “Reddit is a social news website, forum, and social media platform that brings together millions of people worldwide to talk about almost any topic.” A couple of months ago, I read an interesting question on a Reddit forum and provided comments.
 The question was, from memory: why was the United States providing Israel with two and a half billion dollars’ worth of military logistics?
 I responded, “Why the surprise?” The United States began supporting the establishment of a State of Israel in Palestine in 1898.
 The Truman Administration created Israel in 1949.
@@ -23,6 +21,6 @@ Lastly, as a non-person in the United States, but as one who for 83 years has so
 Failure to do so will allow the Socialist State of Israel to continue its aggression to seize the Middle East as part of a “Greater Israel” based on biblical untruths.
 Therefore, to support a ban on man-made religion, the people of the United States must end unlimited support to the world’s aggressor nation—Israel.
 Thank you.
-With respect, I remain,
-BILLY RAY WILSON
-DEFENDER OF THE US CONSTITUTION
+With respect, I remain, BILLY RAY WILSON DEFENDER OF THE US CONSTITUTION ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

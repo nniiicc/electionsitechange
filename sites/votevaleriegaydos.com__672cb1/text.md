@@ -1,18 +1,30 @@
+Donate Yard Signs Home Donate Online About Media Priorities & Accomplishments In The News Endorsements Vote Get Involved Shop Fighting for Us in Harrisburg Qualified • Effective • Accountable Still Fighting!
+Read More Donate Help Valerie to get out her positive message and win re-election!
+Volunteer Join the team to help send Valerie back to Harrisburg to fight for us!
+Vote Don't wait, register today so you can vote for Valerie on election day!
 A Proven, Commonsense Leader Delivering Results!
-Since being elected to the Pennsylvania House of Representatives, Valerie has been proud to have four of her bills signed into
-law, each designed to protect and empower residents across our Commonwealth.
-These laws reflect Valerie’s commitment
-to protect Pennsylvanians by promoting fair and transparent pharmacy pricing, enhancing cybersecurity and
-supporting victims of human trafficking.
-- Pharmacy Benefit Manager Accountability and Patient Protection Act
-Act77 of 2024 strengthens protections for patients and community pharmacies by regulating Pharmacy Benefit Managers (PBMs) and limiting harmful practices such as patient steering, spread pricing and retroactive recoupments.
+Since being elected to the Pennsylvania House of Representatives, Valerie has been proud to have four of her bills signed into law, each designed to protect and empower residents across our Commonwealth.
+These laws reflect Valerie’s commitment to protect Pennsylvanians by promoting fair and transparent pharmacy pricing, enhancing cybersecurity and supporting victims of human trafficking.
+Pharmacy Benefit Manager Accountability and Patient Protection Act Act77 of 2024 strengthens protections for patients and community pharmacies by regulating Pharmacy Benefit Managers (PBMs) and limiting harmful practices such as patient steering, spread pricing and retroactive recoupments.
 The law also establishes a clear complaint resolution process through the Department of Insurance, ensuring PBMs prioritize patient care, fair competition and the sustainability of local pharmacies.
-- Prohibition of ‘Gag Clauses’ by PBMs
-Act 67 of 2020 prohibits “gag clauses” in pharmacy contracts, ensuring pharmacists can inform patients when paying cash could be less expensive than using insurance.
+Prohibition of ‘Gag Clauses’ by PBMs Act 67 of 2020 prohibits “gag clauses” in pharmacy contracts, ensuring pharmacists can inform patients when paying cash could be less expensive than using insurance.
 The law empowers pharmacists to disclose prescription price information, helping patients access the lowest possible out-of-pocket costs and promoting transparency in medication pricing.
-- Protecting Victims of Human Trafficking
-Act 45 of 2021 expands the list of sexual offenses requiring incarcerated offenders to participate in Department of Corrections counseling and therapy programs.
+Protecting Victims of Human Trafficking Act 45 of 2021 expands the list of sexual offenses requiring incarcerated offenders to participate in Department of Corrections counseling and therapy programs.
 By including offenders who subjected minors to sexual servitude, the law aims to reduce recidivism and improve public safety through targeted, evidence-based treatment.
-- PANG Cyber Security
-Act 38 of 2022 allows the Commonwealth to use the expertise of the Pennsylvania National Guard to respond to cyber crises and counteract cyber intrusions.
+PANG Cyber Security Act 38 of 2022 allows the Commonwealth to use the expertise of the Pennsylvania National Guard to respond to cyber crises and counteract cyber intrusions.
 The law strengthens the state’s cybersecurity defenses by enabling rapid, coordinated support during digital threats or attacks.
+Pennsylvania House District 44 is comprised of the following municipalities in western Allegheny County: Aleppo Township Bell Acres Crescent Township Edgeworth Findlay Township Glen Osborne Glenfield Haysville Leet Township Leetsdale Moon Township North Fayette Township Sewickley Sewickley Heights Sewickley Hills Latest News Rematch for Pennsylvania’s 44th State House District More Info Endorsed by Dave Sunday - PA Attorney General More Info Affordability - Gaydos Delivers More Info Rep.
+Valerie Gaydos (R-Allegheny) announces more than $2.5 million in Local Share Account (LSA) Grants More Info Gaydos Secures Grant to Launch Pittsburgh Innovation Park in Findlay Township More Info Gaydos Pushes to Abolish Pennsylvania Inheritance Tax More Info Gaydos Joins Bipartisan Effort to Combat Human Trafficking in Pennsylvania More Info Keystone Grant for Sewickley Public Library Improvements More Info Valerie Gaydos Announces Re-Election Bid More Info Endorsement by Joe Rockey More Info A Bipartisan Approach More Info Keep Valerie Gaydos More Info PBMs Cost PA Taxpayers $7 Million in 2022 More Info Governor's Press Conference - PBMs More Info Endorsed by Americans for Prosperity More Info Gaydos Supports Constitutional Amendments, Returning Power to the People More Info School Safety is Public Safety More Info 2023 Fifty Over 50 - Gaydos is Golden More Info District 44 Representative Valerie Gaydos (R) Accepts Endorsement of the Forward Party More Info Forward Party endorses first GOP candidate in Pennsylvania More Info District 44 Representative Valerie Gaydos (R) Accepts Endorsement of the Forward Party More Info State bill aims to protect local pharmacies with tougher oversight of pharmacy benefit managers.
+More Info School Safety Grants Rep.
+Valerie Gaydos (R-Allegheny) announced today the School Safety and Security Committee (SSSC) approved approximately $1.56 million for schools in the 44th District.
+More Info Residents of the 44th District will receive nearly $137,000 in Marcellus Shale impact fees.
+More Info Landslide Homeowners Insurance Bill More Info Landslide Causes Two Moon Twp.
+Residents to Evacuate More Info Landslide Damage More Info Contact Us " * " indicates required fields First Name * Last Name * Email * Phone * Text Messages I agree to receive text messages.
+By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Vote Valerie Gaydos at the number provided, including messages sent by autodialer.
+Message frequency varies.
+Message and data rates may apply.
+Reply HELP for help.
+Reply STOP to unsubscribe.
+See our Privacy Policy | Terms and Conditions .
+Leave a brief message * I Would Like to Volunteer By: Request a Yard Sign for Your Home or Business (Complete Info Below) Door Knocking & Neighborhood Canvassing Making Calls to Constituents Writing & Addressing Campaign Letters Address * Street Address Address Line 2 City State Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific ZIP Code Submit Home About Media In The News Get Involved Donate Request a Yard Sign or Volunteer © # Paid for by Gaydos for PA Privacy Policy Terms of Service Foundational design crafted with True Fit Marketing Valerie Gaydos Translate » < < < < < < < < < < < Home Donate Online About Media Priorities & Accomplishments In The News Endorsements Vote Get Involved Shop

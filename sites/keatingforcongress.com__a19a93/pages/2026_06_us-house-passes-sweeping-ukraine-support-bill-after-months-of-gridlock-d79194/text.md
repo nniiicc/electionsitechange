@@ -1,3 +1,3 @@
-Radio Free Europe
-Representative Bill Keating argued that the US has a special obligation to Ukraine because of security assurances offered under the 1994 Budapest Memorandum, under which Kyiv surrendered its nuclear arsenal.
+Skip to content Bill Keating for Congress Representing the 9th Congressional District of Massachusetts Menu and widgets US House Passes Sweeping Ukraine Support Bill After Months Of Gridlock Radio Free Europe Representative Bill Keating argued that the US has a special obligation to Ukraine because of security assurances offered under the 1994 Budapest Memorandum, under which Kyiv surrendered its nuclear arsenal.
 “If we can’t honor the agreements we have now, how can we ever honor any agreement in the future?” Keating said.
+READ HERE Posted on June 9, 2026 Author Jim Quigley Post navigation Previous Previous post: Bill Keating Slams Trump For Picking Bill Pulte For Acting National Intelligence Director Next Next post: Foreign Affairs panel advances nuclear energy bill Proudly powered by WordPress

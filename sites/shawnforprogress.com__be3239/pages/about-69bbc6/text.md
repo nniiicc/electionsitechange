@@ -1,14 +1,8 @@
-Hey, nice to meet you.
-I'm
-SHAWN OLORUNDAMI
-Let me tell you a little about me...and us.
-Skip navigation menu
-Hey, nice to meet you.
-I'm
-SHAWN OLORUNDAMI
-Let me tell you a little about me...and us.
-A Son of Sioux City
-I was born here.
+Skip navigation menu About House District 1 Issues and Policy News Events Volunteer Host a Yard Sign Contact Donate Hey, nice to meet you.
+I'm SHAWN OLORUNDAMI Let me tell you a little about me...and us.
+About House District 1 Issues and Policy News Events Volunteer Host a Yard Sign Contact Donate Hey, nice to meet you.
+I'm SHAWN OLORUNDAMI Let me tell you a little about me...and us.
+A Son of Sioux City I was born here.
 Raised here.
 And educated here on the Westside of Sioux City.
 I grew up on the Westside in the days of neighborhood schools you could walk to (RIP Smith!), local markets every few blocks you could sneak away to, and more pools and parks than a kid knew what to do with.
@@ -49,39 +43,21 @@ We are owed better from the people who are meant to represent us and our communi
 We should be getting more than stupid 'solutions' to bullshit culture wars.
 We should be getting solutions that improve the health of our bodies, the health of our bank accounts, the health of our communities, and the health of our families.
 "We should be getting more than stupid 'solutions' to bullshit culture wars.
-We should be getting solutions that improve the health of our bodies, the health of our bank accounts, the health of our communities, and the health of our families."
-Our priorities
-Fighting FOR US
-So, that's why I'm in this fight.
-I know what we've been, and I know what we can be again.
-But it's going to take us taking our power back from the people we've elected, who have no intention of using that power to actually improve our lives.
-We must elect people who move towards
-My priorities for this work are listed here, and you can find more information in the issues section.
-Restoring Affordability
-Protecting Health
-Supporting Families
-Resurrecting Education
-Empowering Workers
-Conserving Communities
-Thanks for taking a few minutes to get to know me.
+We should be getting solutions that improve the health of our bodies, the health of our bank accounts, the health of our communities, and the health of our families." Restoring Affordability Protecting Health Supporting Families Resurrecting Education Empowering Workers Conserving Communities Thanks for taking a few minutes to get to know me.
 If you feel like you miss that Iowa, or that any of this resonates with you, or it feels like a fight you want to join, please help me get to know you by taking a moment to fill out the form below.
-Born
-Work
-Married
-Children
-Party
-Leadership
-Council Member at Trinity Lutheran Church, Bargaining Team Member for ISEA, Active Transportation Advisory Committee Member for Sioux City, Co-Chair for Woodbury County Dems Communications Committee.
-Now that you know me,
-Help us get to know you!
+Thanks, Born Sioux City Work Teacher for Sioux City Schools Married To Mary (Horton) Olorundami 2015 Children Four kids: 8, 6, and 2 year old twins Party Democratic Party Leadership Council Member at Trinity Lutheran Church, Bargaining Team Member for ISEA, Active Transportation Advisory Committee Member for Sioux City, Co-Chair for Woodbury County Dems Communications Committee.
+Now that you know me, Help us get to know you!
+There's always something to do!
 Whether it's filling out postcards, making calls, sending texts, making financial donations, knocking doors, just coming to events, or sharing your ideas.
 This form helps us keep track of who you are, what's important to you, and the type of help you're willing to give.
-Forward Progress.
-For Us.
-Thanks,
-Sioux City
-Teacher for Sioux City Schools
-To Mary (Horton) Olorundami 2015
-Four kids: 8, 6, and 2 year old twins
-Democratic Party
-There's always something to do!
+Name Name Last Name Last Name Email Email Phone Phone What type of help/volunteering Interests You?
+What type of help/volunteering Interests You?
+0 / 255 What are your concerns and Priorities?
+What are your concerns and Priorities?
+0 / 255 By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from OLORUNDAMI FOR PROGRESS.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Terms of Service and Privacy Policy apply.
+Submit Not up for volunteering?
+Consider donating to help in this fight! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Shawn@ShawnForProgress.com Powered by RUN! website builder Paid for by Olorundami For Progress You need to enable JavaScript to run this app.

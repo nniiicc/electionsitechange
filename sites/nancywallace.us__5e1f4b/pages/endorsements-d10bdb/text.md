@@ -1,14 +1,6 @@
-Nancy is endorsed by the following people for the Green Party 8th Congressional District primary:
-- Bill Sher, past president, Montgomery County Council, 1970-74, author of the landmark Moderate Priced Dwelling Unit (MPDU) legislation and co-author of thenationally respected model legislation “Adequate Public Facilities Ordinance” (APFO)
-"What I like most about Nancy is her passion for reform of the legislative system.
+Green Party Home | Meet Nancy | Issues | Endorsements | Join | Donate | Contact | Police Endorsements Nancy is endorsed by the following people for the Green Party 8 th Congressional District primary: Bill Sher , past president, Montgomery County Council, 1970-74, author of the landmark Moderate Priced Dwelling Unit (MPDU) legislation and co-author of thenationally respected model legislation “Adequate Public Facilities Ordinance” (APFO) "What I like most about Nancy is her passion for reform of the legislative system.
 Because she worked on Capitol Hill as a successful lobbyist for environmental issues for over a dozen years, she knows what she's talking about, and she knows how to get things done.
-She's the one."
-- Dan Robinson, Takoma Park Councilmember for two terms*
-- Tim Willard, Green Co-chair, Montgomery County Green Party, candidate for Montgomery County Council, 2014
-"Nancy Wallace is a dedicated and long-time Green Party activist with a proven track record of legislative and vital party-building accomplishments.
+She's the one." Dan Robinson , Takoma Park Councilmember for two terms* Tim Willard , Green Co-chair, Montgomery County Green Party, candidate for Montgomery County Council, 2014 "Nancy Wallace is a dedicated and long-time Green Party activist with a proven track record of legislative and vital party-building accomplishments.
 She has both vision and practical experience and translates vision into policy.
-I whole-heartedly endorse her candidacy."
-- Mary Tyrtle Rooker, Takoma Park activist
-- Linda Schade, Green Party candidate, Maryland House of Delegates from Takoma Park, District 20, 2002
-* Dan Robinson was endorsed by the Washington Post for the 2014 MD House of Delegates race (District 20) where he received almost as many votes as all the Greens in the State of Maryland.
-Dan is a long-time community builder.
+I whole-heartedly endorse her candidacy." Mary Tyrtle Rooker , Takoma Park activist Linda Schade , Green Party candidate, Maryland House of Delegates from Takoma Park, District 20, 2002 * Dan Robinson was endorsed by the Washington Post for the 2014 MD House of Delegates race (District 20) where he received almost as many votes as all the Greens in the State of Maryland.
+Dan is a long-time community builder. © 2026 Nancy Wallace For Congress | This website powered by solar energy through AISO | Website by Teammedia | 🍁

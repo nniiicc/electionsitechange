@@ -1,17 +1,70 @@
 [
-"http://facebook.com/",
-"https://christinefor72nd.com/",
-"https://christinefor72nd.com/blank-2-1",
-"https://christinefor72nd.com/blank-3",
-"https://christinefor72nd.com/blank-3-1",
-"https://christinefor72nd.com/blank-3-1-1-1",
-"https://christinefor72nd.com/blank-3-1-1-1-1",
-"https://christinefor72nd.com/blank-3-1-1-1-1-1",
-"https://christinefor72nd.com/blank-5",
-"https://christinefor72nd.com/blank-8",
-"https://christinefor72nd.com/privacy-policy",
-"https://facebook.com/ChristineFor72",
-"https://instagram.com/christinefor72nd",
-"https://secure.actblue.com/donate/christinefor72nd",
-"https://wisconsinprogress.org/"
+{
+"text": "Connect",
+"href": "https://www.christinefor72nd.com#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/christinefor72nd"
+},
+{
+"text": "Events",
+"href": "https://www.christinefor72nd.com/blank-5#upcoming-events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.christinefor72nd.com/blank-2-1"
+},
+{
+"text": "Learn more ->",
+"href": "https://www.christinefor72nd.com/blank-3"
+},
+{
+"text": "Learn more ->",
+"href": "https://www.christinefor72nd.com/blank-3-1"
+},
+{
+"text": "Learn more ->",
+"href": "https://www.christinefor72nd.com/blank-3-1-1-1"
+},
+{
+"text": "Learn more ->",
+"href": "https://www.christinefor72nd.com/blank-3-1-1-1-1"
+},
+{
+"text": "Learn more ->",
+"href": "https://www.christinefor72nd.com/blank-3-1-1-1-1-1"
+},
+{
+"text": "Meet Christine",
+"href": "https://www.christinefor72nd.com#meet-christine"
+},
+{
+"text": "On The Campaign Trail",
+"href": "https://www.christinefor72nd.com/blank-8"
+},
+{
+"text": "Priorities",
+"href": "https://www.christinefor72nd.com#my-priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.christinefor72nd.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChristineFor72"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/christinefor72nd/"
+},
+{
+"text": "[no text]",
+"href": "https://www.wisconsinprogress.org/"
+}
 ]

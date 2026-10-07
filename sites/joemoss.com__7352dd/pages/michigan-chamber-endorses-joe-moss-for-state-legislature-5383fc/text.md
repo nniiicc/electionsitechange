@@ -1,2 +1,5 @@
-The Michigan Chamber of Commerce, one of Michigan’s most influential voices for the business community, has endorsed Joe Moss for State Representative in House District 89.
+Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer Michigan Chamber Endorses Joe Moss for State Legislature Michigan Chamber Endorses Joe Moss for State Legislature 2026-08-20T16:38:27-04:00 August 18th, 2026 | The Michigan Chamber of Commerce, one of Michigan’s most influential voices for the business community, has endorsed Joe Moss for State Representative in House District 89.
 As a small business owner, Joe understands the importance of entrepreneurs and job creators for Michigan, and will work to reduce taxes and regulation so businesses can thrive.
+Share this page Facebook X Reddit LinkedIn WhatsApp Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
+Msg & data rates may apply.
+Facebook X LinkedIn Page load link Go to Top

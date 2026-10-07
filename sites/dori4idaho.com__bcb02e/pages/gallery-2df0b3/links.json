@@ -1,14 +1,58 @@
 [
-"https://dori4idaho.com/",
-"https://dori4idaho.com/about",
-"https://dori4idaho.com/contact",
-"https://dori4idaho.com/gallery",
-"https://dori4idaho.com/issues",
-"https://dori4idaho.com/privacy-policy",
-"https://dori4idaho.com/volunteer",
-"https://facebook.com/p/Representative-Dori-Healey-61559103210354",
-"https://instagram.com/healeydori",
-"https://ryvall.com/",
-"https://secure.anedot.com/96a2b2d7-706a-48ef-af95-41f505603113/donationswebsite",
-"https://twitter.com/askdorido"
+{
+"text": "Contact",
+"href": "https://www.dori4idaho.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/96a2b2d7-706a-48ef-af95-41f505603113/donationswebsite"
+},
+{
+"text": "Gallery",
+"href": "https://www.dori4idaho.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.dori4idaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dori4idaho.com/issues"
+},
+{
+"text": "Meet Dori",
+"href": "https://www.dori4idaho.com/about"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dori4idaho.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dori4idaho.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/p/Representative-Dori-Healey-61559103210354/?_rdr="
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/healeydori"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/96a2b2d7-706a-48ef-af95-41f505603113/donationswebsite"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/askdorido"
+},
+{
+"text": "[no text]",
+"href": "https://www.dori4idaho.com/gallery"
+}
 ]

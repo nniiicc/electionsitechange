@@ -1,30 +1,10 @@
-Legislative COmmittees
-- co-Chair, joint committee on ways and means
-- co-chair, joint committee on legislative audits
-- co-Chair, House conduct committee
-Honors + Awards
-- fora health samuel c. wheeler freedom award winner, 2022
-- recovery leadership award : oregon recovers, 2022
-- spotlight award - behavioral health champion : oregon council for behavioral heath, 2022
-- 4d recovery hero award winner, 2021
-- MIDORI Hamilton Award : Oregon COalition against domestic and sexual violence
-Community Engagement
-- Red Lodge Transitional Services : Board member
-- Naah Illahee Fund : former Board chair
-- OREGON DOMESTIC AND SEXUAL VIOLENCE SERVICES ADVISORY COMMITTEE : former board Member
-- PEACE DEVELOPMENT FUND : Former Board Member
-- INTERNATIONAL INDIAN TREATY COuncil : Former Board Member
-TAWNA SANCHEZ: FIGHTING FOR OUR COMMUNITY
-Here are some of the legislative highlights passed by my office last year:
-Tribal Schools - Created a direct pathway for federally recognized Tribes to apply directly to the State Board of Education for charter school sponsorship.
+About Priorities Contact Donate Menu Street Address City, State, Zip (503) 459-6472 Your Custom Text Here About Priorities Contact Donate Legislative COmmittees co-Chair, joint committee on ways and means co-chair, joint committee on legislative audits co-Chair, House conduct committee Honors + Awards fora health samuel c. wheeler freedom award winner, 2022 recovery leadership award : oregon recovers, 2022 spotlight award - behavioral health champion : oregon council for behavioral heath, 2022 4d recovery hero award winner, 2021 MIDORI Hamilton Award : Oregon COalition against domestic and sexual violence Community Engagement Red Lodge Transitional Services : Board member Naah Illahee Fund : former Board chair OREGON DOMESTIC AND SEXUAL VIOLENCE SERVICES ADVISORY COMMITTEE : former board Member PEACE DEVELOPMENT FUND : Former Board Member INTERNATIONAL INDIAN TREATY COuncil : Former Board Member TAWNA SANCHEZ: FIGHTING FOR OUR COMMUNITY Here are some of the legislative highlights passed by my office last year: Tribal Schools - Created a direct pathway for federally recognized Tribes to apply directly to the State Board of Education for charter school sponsorship.
 Freedom to Find a Place - Allows tenants to give a 30-day notice to move out during a landlord's 90-day notice to vacate, helping them avoid paying double rent or missing out on finding the place they want to live.
 Youth Substance Abuse Prevention - Directs the Alcohol and Drug Policy Commission to implement a statewide strategy for preventing youth substance abuse.
-ADDRESSING BUDGET CHALLENGES
-Due to the passage of HR 1 by the federal government last summer, our state has been forced to examine our budget priorities that impact our most vulnerable citizens.
+ADDRESSING BUDGET CHALLENGES Due to the passage of HR 1 by the federal government last summer, our state has been forced to examine our budget priorities that impact our most vulnerable citizens.
 As Co-Chair of Ways and Means, I have a duty to make prudent funding decisions while also doing my best to keep our social safety net whole.
 Looking ahead, I plan on examining our revenue system with stakeholders and representatives from Oregon, cities and counties the rest of this year and then working on legislation to restructure our tax system so that we improve the stability of our investments in public services without increasing the burden to lower-income taxpayers.
-Tawna Sanchez
-Representative Tawna Sanchez is a dedicated advocate and proven progressive who has spent her life helping strengthen the community around her.
+Tawna Sanchez Representative Tawna Sanchez is a dedicated advocate and proven progressive who has spent her life helping strengthen the community around her.
 Tawna is Shoshone-Bannock, Ute, and Carrizo, and grew up in Portland.
 She has received a Bachelor of Arts from Marylhurst University, and a Masters in Social Work from Portland State University.
 From early on in life, Tawna was active in the fight for the rights of Native people and women.
@@ -40,3 +20,8 @@ Tawna has been active at the state level as well, serving on the Oregon Domestic
 Tawna is also a personal and professional leader in the area of child welfare and foster care.
 Tawna in her own life has helped raise more than 18 foster kids, kids who attended schools in the District including Humbolt, Sabin, Beaumont, Grant, Jefferson, and Rigler.
 She has also been active in state policy making, serving on the Oregon Family Services Review Commission and Oregon Child Welfare Advisory Commission.
+Summary Block This block is invalid.
+Please check the block settings and try again.
+Featured Aenean eu leo Quam Quisque iaculis facilisis lacinia.
+Mauris euismod pellentesque tellus sit amet mollis.
+Read more → Paid for By Tawna Sanchez for Oregon || PO Box 11246 :: Portland, OR 97211 Tawna@Tawnasanchez.Com

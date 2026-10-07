@@ -1,7 +1,11 @@
 {
  "description": "RSVP Here",
  "final_url": "https://www.voteelmquist.com/events/2026-new-brighton-stockyard-days-parade",
+ "fingerprint": "c26f45123ed4502db945fb0f20bca574fef0cb09",
+ "format": 3,
  "paid_for_by": "Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top",
- "title": "New Brighton Stockyard Days Parade \u2014 Elmquist for House",
- "years_mentioned": []
+ "title": "New Brighton Stockyard Days Parade — Elmquist for House",
+ "years_mentioned": [
+  "2026"
+ ]
 }

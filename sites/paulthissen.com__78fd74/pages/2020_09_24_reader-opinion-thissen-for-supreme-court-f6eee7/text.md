@@ -1,3 +1,1 @@
-Sep 24, 2020 | News
-Read here:
-https://www.brainerddispatch.com/opinion/letters/6671171-Reader-Opinion-Thissen-for-supreme-court
+Home About Paul News Social Media Feed Social Share FAQs Join Contribute Select Page News Reader Opinion: Thissen for supreme court Sep 24, 2020 | News Read here: https://www.brainerddispatch.com/opinion/letters/6671171-Reader-Opinion-Thissen-for-supreme-court Privacy Policy

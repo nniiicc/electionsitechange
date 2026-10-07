@@ -1,5 +1,5 @@
-I am so proud to announce that I have been endorsed by Planned Parenthood Great Plains Votes due to my dedication toward women's rights, LGBTQ rights, abortion access, and bodily autonomy.
+About Wick Issues Get Involved Events Updates Donate Now Home About Wick Issues Get Involved Events Updates Donate Now July 8, 2024 Endorsed By Planned Parenthood Great Plains Votes I am so proud to announce that I have been endorsed by Planned Parenthood Great Plains Votes due to my dedication toward women's rights, LGBTQ rights, abortion access, and bodily autonomy.
 Abortion has been a normal part of human existence for all of our history and only in the last 100 years has become a controversial issue.
 During the campaign, we collected over 150 signatures for the abortion access initiative petition and will be the strongest advocate for it in November.
 I regularly volunteer as a clinic escort and am deeply committed to the issues of healthcare, reproductive freedom, abortion access, and contraception access.
-July 8, 2024
+Planned Parenthood Endorsements Support Wick Thomas’s Campaign for Missouri Donate Now Wick Thomas For Missouri PO Box 6601., Kansas City MO 64123-0601 tel:(816) 799-5428 | team@wickthomas.org Clay Jarratt, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

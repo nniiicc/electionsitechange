@@ -1,4 +1,4 @@
-The best social program in the world is a good-paying job .
+Press enter to search Home Meet Donald Our District Issues Volunteer News Vote Donate Contact Donate Meet Donald Our District Issues Volunteer News Vote Share On The Issues Growing Jobs The best social program in the world is a good-paying job .
 Our economy can’t grow if we don’t invest in the critical infrastructure that allows employers to do business and working families to get to and from work safely.
 I was proud to fight for the infrastructure law that is already bringing billions of dollars back to New Jersey and our region.
 This funding is a critical investment in our roads, bridges, clean water, electric energy systems, and telecommunications network.
@@ -12,3 +12,6 @@ By working hand and hand with our educational institutions and local business co
 I am focused on strengthening our region’s core industries including our colleges and universities, hospitals, and ports.
 I have been proud to fight for major investments in the wind energy manufacturing hub at the Port of Paulsboro that will create hundreds of clean energy jobs right in our communities.
 As your representative in Congress, I will bring these innovative ideas to the national level and work to create family-sustaining jobs for all Americans.
+Next Issue Improving Health Care Meet Donald Our District Issues Volunteer News Vote Privacy Policy Contact us ©# Donald Norcross for Congress.
+All rights reserved.
+Paid for by Norcross for Congress Donate Join our campaign

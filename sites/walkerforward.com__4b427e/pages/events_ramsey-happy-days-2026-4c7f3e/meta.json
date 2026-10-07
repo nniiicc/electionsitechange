@@ -1,7 +1,11 @@
 {
  "description": "Join us at the Ramsey Happy Days parade and celebration this year!",
  "final_url": "https://www.walkerforward.com/events/ramsey-happy-days-2026",
+ "fingerprint": "303b5ec30c97f1016237487b28148eda2ee21273",
+ "format": 3,
  "paid_for_by": "Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward",
- "title": "Ramsey Happy Days Celebration \u2014 Walker Forward",
- "years_mentioned": []
+ "title": "Ramsey Happy Days Celebration — Walker Forward",
+ "years_mentioned": [
+  "2026"
+ ]
 }

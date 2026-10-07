@@ -1,10 +1,9 @@
-Dr.
-Kedner Maxime Joins the Adams Brothers Podcast
-I had the honor of joining the Adams Brothers Podcast for a real, unscripted conversation about who I am, why I'm running, and what I want to bring to Washington.
+top of page Meet Dr.
+Maxime Issues Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Get Involved Events News DONATE All Posts Dr.
+Kedner Maxime Joins the Adams Brothers Podcast Kedner Maxime Sep 9 4 min read I had the honor of joining the Adams Brothers Podcast for a real, unscripted conversation about who I am, why I'm running, and what I want to bring to Washington.
 I want to thank the Adams Brothers for the invitation and for giving me the space to speak directly to the people of District 20.
 Read on for some of what we covered, and you can watch the full conversation below.
-My Story
-I was born and raised in the northwest part of Haiti, in Port-de-Paix.
+My Story I was born and raised in the northwest part of Haiti, in Port-de-Paix.
 I came to the United States in 1981.
 I didn't know much English when I arrived, even though I had studied it back home — I had to go to school here to really learn it.
 I met my lovely wife, Dirana, and we've built a family together, including my granddaughter Kiana, who I love dearly.
@@ -21,32 +20,34 @@ I earned my associate degree, then my bachelor's from Nova Southeastern Universi
 I founded my own business, Adventfirst Consulting Services, working in tax preparation, accounting, and immigration consulting.
 In 2022, I ran for Oakland Park City Commission.
 And now, I'm running for Congress in Florida's District 20 — the district I have called home since 1981.
-Why I Believe Lived Experience Matters
-All my life, I've served people — as a pastor, as a Sunday school teacher, as a small business owner helping families with their taxes and their immigration paperwork.
+Why I Believe Lived Experience Matters All my life, I've served people — as a pastor, as a Sunday school teacher, as a small business owner helping families with their taxes and their immigration paperwork.
 Running for Congress is an extension of that same calling, not a departure from it.
 I believe District 20 deserves a representative who has actually lived the struggles of this district — the cost of living, the frustration, the day-to-day reality of raising a family here.
 I've been in Oakland Park for over 30 years.
 My first daughter was born here in 1983.
 This district's story is my story too, and I believe that matters when it comes to who represents it in Washington.
-Tackling the Property Insurance Crisis
-One of the most urgent issues I hear about from families here is property insurance.
+Tackling the Property Insurance Crisis One of the most urgent issues I hear about from families here is property insurance.
 My own policy used to cost about $5,000 a year.
 Today, I'm paying over $14,000 for the same coverage.
 That is not sustainable for anyone living paycheck to paycheck, and it's not unique to District 20 — this is a statewide crisis.
 If elected, I will introduce legislation to bring real oversight and accountability to how these premiums are set, because rising insurance costs shouldn't be what stands between a family and putting food on the table.
-Getting More Voters to the Polls
-We talked about voter turnout, especially among Black voters in Broward County, where a large share of registered voters did not turn out for the primary.
+Getting More Voters to the Polls We talked about voter turnout, especially among Black voters in Broward County, where a large share of registered voters did not turn out for the primary.
 I believe this district's next election has to be different.
 My campaign is committed to reaching people directly — knocking on doors, having real conversations, and especially engaging younger voters who I believe can reshape not just this district, but the direction of the country, if they show up.
 I also talked about creating real opportunity for young people through financial education.
 As a tax preparer, I see it every year: hardworking people getting a refund, but no path to turn that money into something that builds wealth — a business, an investment, a future.
 I want to help change that, the same way my grandmother, who became a small business owner with very little, once showed me how.
-My Position on Immigration and TPS
-Immigration is personal to me, not theoretical.
+My Position on Immigration and TPS Immigration is personal to me, not theoretical.
 My position is the same one I've held since I arrived here myself in 1981: America has every right to secure its borders, and it can do that while still showing compassion to hardworking, law-abiding people.
 There are hundreds of thousands of Haitians currently on Temporary Protected Status facing an uncertain future.
 If elected, I will introduce legislation creating a real pathway from TPS to permanent residency, and eventually citizenship, for people who have built their lives here lawfully.
 Early voting runs from October 19th through November 1st, and Election Day is November 3rd, 2026.
 I'm asking every voter in District 20 — especially those who've sat out past elections — to make a plan to vote this time.
-Follow the campaign at maximeforcongress.com, and if you'd like to support this movement, you can also make a donation here.
-Watch the Full Interview
+Follow the campaign at maximeforcongress.com , and if you'd like to support this movement, you can also make a donation here .
+Watch the Full Interview Recent Posts See All Why FL-20 Must Stay Rooted in Our Community | Dr.
+Kedner Maxime Barbershop Series Kicks Off | Dr.
+Kedner Maxime Responding to Laura Loomer's Attacks on Black Women in Politics DONATE Follow The Campaign A vision for Florida's District 20.
+Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
+Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+Kedner Maxime for Congress.
+Privacy Policy bottom of page

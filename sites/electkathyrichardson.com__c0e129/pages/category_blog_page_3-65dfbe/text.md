@@ -1,7 +1,8 @@
-- One of the most common frustrations I hear while talking with people across our district is this: “Why does it feel like regular people are no longer being heard?” That question comes from Democrats, Republicans, Independents, and people who have stopped paying attention to politics altogether because they feel their voices no longer matter.
-Many…
-- Over the past several weeks, I’ve spent time talking with people across our communities — parents, healthcare workers, veterans, retirees, small business owners, educators, tradespeople, and working families.
-And regardless of political affiliation, I keep hearing the same thing: People are exhausted Families are working harder, budgeting more carefully, and still feeling like they are…
-- Over the last several weeks, I’ve had conversations with friends, neighbors, small business owners, healthcare workers, veterans, parents, and community members across the 28th Legislative District.
+Dr.
+Kathy Richardson for State Representative Washington 28th District Home Meet Dr Kathy Richardson Priorities I Stand with: Veterans and Military Families Healthcare Providers and first Responders Small Business Owners Educators and Students Updates from the Trail Get Involved Contact Me Donate Category: … Who is Speaking for the Working Families?
+June 17, 2026 … , From the Trail One of the most common frustrations I hear while talking with people across our district is this: “Why does it feel like regular people are no longer being heard?” That question comes from Democrats, Republicans, Independents, and people who have stopped paying attention to politics altogether because they feel their voices no longer matter.
+Many… People Are Exhausted June 9, 2026 … Over the past several weeks, I’ve spent time talking with people across our communities — parents, healthcare workers, veterans, retirees, small business owners, educators, tradespeople, and working families.
+And regardless of political affiliation, I keep hearing the same thing: People are exhausted Families are working harder, budgeting more carefully, and still feeling like they are… Why This Campaign Matters, And How $5 Can Make a Difference May 27, 2026 … Over the last several weeks, I’ve had conversations with friends, neighbors, small business owners, healthcare workers, veterans, parents, and community members across the 28th Legislative District.
 And I keep hearing the same thing: People feel unheard.
-Families are working harder but struggling more with rising costs, housing affordability, taxes, healthcare expenses, and uncertainty about the…
+Families are working harder but struggling more with rising costs, housing affordability, taxes, healthcare expenses, and uncertainty about the… Previous Page 1 2 3 Instagram Facebook X Dr.
+Kathy Richardson for State Representative Washington 28th District Info@electkathyrichardson.com Paid for by Friends of Kathy Richardson PO Box 64345, UP, WA 98464

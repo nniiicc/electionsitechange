@@ -1,18 +1,17 @@
-Lauren Boebert continues her pattern of voting to harm her own district
-With prices high and families hurting, Lauren Bobert voted to keep tariffs in place, the cost of which is making life harder for Coloradans
-Highlands Ranch, CO – Again Lauren Boebert has voted to harm her own district.
+0 Skip to Content Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Folder: Press Back Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Lauren Boebert continues her pattern of voting to harm her own district Feb 17 Written By Sabrina Gross With prices high and families hurting, Lauren Bobert voted to keep tariffs in place, the cost of which is making life harder for Coloradans Highlands Ranch, CO – Again Lauren Boebert has voted to harm her own district.
 When given the opportunity to right the wrongs of tariffs, Boebert voted to give up Congressional responsibility by keeping the tariffs that are harming Colorado's farmers and families in place.
 This was a move that even her Republican colleagues are admitting is a massive tax paid by American families.
-Republican Representative Don Bacon was quoted as saying “American consumers pay the tariffs and thus it is a big tax.” Republican Representative Jeff Hurd of Colorado’s 3rd Congressional district voted to repeal the tariffs on Canada, but Boebert didn’t.
-“This is part of a broader pattern of decisions that don’t reflect what many people in this district need right now,” said Retired Rear Admiral Eileen Laubacher.
+Republican Representative Don Bacon was quoted as saying “American consumers pay the tariffs and thus it is a big tax.” Republican Representative Jeff Hurd of Colorado’s 3rd Congressional district voted to repeal the tariffs on Canada , but Boebert didn’t.
+“This is part of a broader pattern of decisions that don’t reflect what many people in this district need right now,” said Retired Rear Admiral Eileen Laubacher .
 “Families are already feeling stretched.
 Supporting cuts to hospital funding, higher health insurance premiums, and policies that keep costs high makes it harder for hardworking Coloradans to get ahead.
 Leadership should be about listening and responding to the real concerns of the people you represent.
-This district deserves leaders who are focused on practical solutions that improve everyday life.”
-Eileen is not alone in her assessment of the harms these continued tariffs will bring.
+This district deserves leaders who are focused on practical solutions that improve everyday life.” Eileen is not alone in her assessment of the harms these continued tariffs will bring.
 The Yale Budget Lab has found that these tariffs are creating a burden on the average Colorado family to the tune of $1,700 in additional costs each year.
 The US Chamber of Commerce has called on Congress to repeal these tariffs, writing that “American families are facing thousands of dollars in higher prices as a result of these increased taxes.
-Small businesses, manufacturers, farmers, and ranchers are struggling with higher costs.”
-“Colorado's 4th Congressional District has serious issues with its infrastructure, healthcare, water quality, and cost of living.
-Addressing any of those issues requires serious leadership,” said Retired Rear Admiral Eileen Laubacher.
-“Something that Boebert has demonstrated she is lacking.”
+Small businesses, manufacturers, farmers, and ranchers are struggling with higher costs.” “Colorado's 4th Congressional District has serious issues with its infrastructure, healthcare, water quality, and cost of living.
+Addressing any of those issues requires serious leadership,” said Retired Rear Admiral Eileen Laubacher .
+“Something that Boebert has demonstrated she is lacking.” Sabrina Gross Previous Previous Record Turnout: More Voters Backed Eileen Laubacher Than Attended the Last Two Assemblies Combined Next Next Eileen Laubacher Emerges as Best Candidate to Beat Lauren Boebart in November GET INVOLVED WITH TEAM EILEEN Donate Volunteer Contact Privacy Policy/Terms of Service Careers CHECKS CAN BE MAILED TO PO BOX: 9249 S Broadway, #200-172 Highlands Ranch, CO 80129 PAID FOR BY EILEEN FOR COLORADO REAR ADMIRAL EILEEN LAUBACHER (RET) IS A FORMER MEMBER OF THE U.S.
+NAVY.
+USE OF HER MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT FROM THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE. ©# Eileen for Colorado.
+All rights reserved.

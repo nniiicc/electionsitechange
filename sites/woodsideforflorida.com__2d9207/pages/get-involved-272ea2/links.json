@@ -1,7 +1,26 @@
 [
-"https://secure.anedot.com/matt-woodside-campaign/donate",
-"https://woodsideforflorida.com/",
-"https://woodsideforflorida.com/get-involved",
-"https://woodsideforflorida.com/meet-matt",
-"https://woodsideforflorida.com/why-i-m-running"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/matt-woodside-campaign/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.woodsideforflorida.com/get-involved"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.woodsideforflorida.com/meet-matt"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.woodsideforflorida.com/why-i-m-running"
+},
+{
+"text": "[image: W Logo Red Star.png]",
+"href": "https://www.woodsideforflorida.com"
+},
+{
+"text": "[image]",
+"href": "https://www.woodsideforflorida.com"
+}
 ]

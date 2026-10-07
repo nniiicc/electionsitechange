@@ -1,16 +1,4 @@
-Accomplishments
-Kentucky House Committee Assignments
-- Appropriations and Revenue
-- Budget Review for Health & Family Services
-- Health Services
-- Local Government
-- Primary and Secondary Education
-- Medicaid Oversight and Advisory Board (co-Chair)
-- Public Pension Oversight Board
-- Aerospace/Aviation Caucus (co-Chair)
-Ken received numerous awards including the Public Policy Advocate Award from the National Association of Women Business Owners, the Smoke Free Louisville Award, the Celebrate Freedom Award, International Fire Chiefs Association – Kentucky Chapter, Kentucky League of Cities, Children Alliance, Kentucky Dental Association Champion, Kentucky Chamber of Commerce and Kentucky Hospital Association Champion.
-Legislative Recognition
-Children Alliance Champion
-KY Chamber of Commerce Signature Industries Champion
-Kentucky League of Cities Friend of Kentucky Cities
-International Fire Chiefs Association – KY Chapter
+About Ken Accomplishments Issues & Actions Get Involved How to Vote in the General Election Donate Contact Select Page Accomplishments Kentucky House Committee Assignments Appropriations and Revenue Budget Review for Health & Family Services Health Services Local Government Primary and Secondary Education Medicaid Oversight and Advisory Board (co-Chair) Public Pension Oversight Board Aerospace/Aviation Caucus (co-Chair) Ken received numerous awards including the Public Policy Advocate Award from the National Association of Women Business Owners, the Smoke Free Louisville Award, the Celebrate Freedom Award, International Fire Chiefs Association – Kentucky Chapter, Kentucky League of Cities, Children Alliance, Kentucky Dental Association Champion, Kentucky Chamber of Commerce and Kentucky Hospital Association Champion .
+Legislative Recognition Children Alliance Champion KY Chamber of Commerce Signature Industries Champion Kentucky League of Cities Friend of Kentucky Cities International Fire Chiefs Association – KY Chapter Phone: 502.276.5659 | PO Box 6573, Louisville, KY 40206 © Fleming for Kentucky # - #.
+All Rights Reserved.
+PAID FOR BY KEN FLEMING

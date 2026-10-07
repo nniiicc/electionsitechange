@@ -1,3 +1,4 @@
+Skip to content Gonzalo Duran Vice Chairman of the Bronx Conservative Party & Candidate for US Congress in New York’s 15th Congressional District Menu Gonzalo Duran Autobiography Press Videos Articles Press Release Gonzalo In The Press Platforms Veterans Health Safety Housing Education Employment Environment Animal Issues Transportation Civil Engagement Burn Pits – Has Heart Help The Team Volunteer Contribute Events Scheduled Events Event Photos Contact Us Autobiography This photo of Gonzalo Duran does not have a copyright on it and those seeking to use it are welcome to, please give credit if possible to Today’s Pixels.
 My name is Gonzalo Duran and this is my autobiography.
 I was born and raised in the Belmont section of the Bronx, the son of a single mother who immigrated from El Salvador in pursuit of a better life.
 We were raised on public assistance, but my mother’s determination instilled in me resilience, responsibility, and a deep commitment to service.
@@ -18,8 +19,12 @@ As Chief Executive Officer, I have led initiatives focused on mental health awar
 Our advocacy contributed to the passage of New York City Local Law 119 in 2017, recognizing the GI Bill as lawful income for veterans seeking housing.
 In 2026, we launched the Corporal Yegor Zubarev Veterans Bill, a national initiative focused on ensuring that Post 9/11 GI Bill housing stipends are recognized as creditable income for housing purposes, fast tracking the naturalization of non citizen veterans with honorable discharges, and streamlining reimbursement for organizations providing mental health services to veterans.
 Concerned by the economic pressures facing the Bronx, I stepped further into public service to fight for accountability and opportunity.
-I currently serve as District Leader for the 79th Assembly District and as Vice Chairman of the Bronx Conservative Party.
-In 2025, I founded the United Alliance Party, a non partisan independent petitioning organization designed to help everyday citizens, both first time and experienced candidates, gain access to the ballot without being tied to traditional party structures or ideologies.
+I currently serve as District Leader for the 79th Assembly District and as Vice Chairman of the Bronx Conservative Party .
+In 2025, I founded the United Alliance Party , a non partisan independent petitioning organization designed to help everyday citizens, both first time and experienced candidates, gain access to the ballot without being tied to traditional party structures or ideologies.
 Today, I am running for the United States Congress in New York’s 15th Congressional District to ensure the Bronx has a strong, credible voice and a future built on action, dignity, and opportunity.
-Gonzalo Duran
-“Progress remains stagnant without the force of action.”
+Gonzalo Duran “Progress remains stagnant without the force of action.” Social Media View gonzalodurannyc’s profile on Facebook View gonzalodurannyc’s profile on Twitter View gonzalodurannyc’s profile on Instagram View gonzalodurannyc’s profile on Pinterest View gonzalodurannyc’s profile on LinkedIn View @gonzalodurannyc’s profile on YouTube View gonzalodurannyc’s profile on Tumblr Type your email… Subscribe © COPYRIGHT # - PRESENT.
+ALL RIGHTS RESERVED.
+GONZALO DURAN VICE CHAIRMAN OF THE BRONX COUNTY CONSERVATIVE PARTY & (C) DISTRICT LEADER FOR THE 79TH ASSEMBLY DISTRICT.
+Proudly powered by WordPress Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

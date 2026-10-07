@@ -1,5 +1,4 @@
-Education
-Our public schools have been in crisis mode for over a decade, and it's thanks to historic divestments in funding.
+Skip navigation menu About Issues Endorsements Volunteer Contact Donate Issues About Issues Endorsements Volunteer Contact Donate Issues Education Affordability Reproductive Freedom Housing The Environment & Water Education Our public schools have been in crisis mode for over a decade, and it's thanks to historic divestments in funding.
 Districts like Deer Valley, Washington, Glendale Union and Paradise Valley are losing teachers, students, and staff due to pay shortages, overcrowding of classrooms, and a lack of resources for all learner types.
 Public education in Arizona is simply underfunded.
 One of the reasons for the underfunding is the out-of-control growth of Arizona's ESA voucher program.
@@ -15,3 +14,6 @@ Stephanie believes that we must prioritize our children's future – and invest 
 She believes in expanding vocational training opportunities, empowering our young people to succeed in an ever-changing job market.
 Local businesses thrive when we have educated and capable people in our district.
 Together, we can equip our children with the tools they need to lead us into a prosperous future.
+Make checks payable to: Simacek for AZ PO Box 42834 Phoenix, AZ 85080 Powered by RUN! website builder Paid for by Simacek for AZ.
+Authorized by Stephanie Simacek.
+You need to enable JavaScript to run this app.

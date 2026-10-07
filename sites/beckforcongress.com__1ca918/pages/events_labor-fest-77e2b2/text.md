@@ -1,12 +1,5 @@
-Back to All Events
-Laborfest parade will kick off from Zeidler Union Square on 4th and Michigan at 11:00 am and will finish at the Henry W.
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Labor Fest Monday, September 7, 2026 9:00 AM 1:00 PM Summerfest Grounds 200 North Harbor Drive Milwaukee, Wisconsin, 53202 United States (map) Google Calendar ICS Laborfest parade will kick off from Zeidler Union Square on 4th and Michigan at 11:00 am and will finish at the Henry W.
 Maier Festival Grounds.
 This is an all ages free event that will feature special children’s activities, a raffle for children, the splash pad and fountain, the wonderful renovated playground, and more.
 For adults there will be an array of food and beverages, adult bingo, wrestling, a classic car show, and live musical entertainment on the Molson Coors Beverage Company stage.
-Previous
-Previous
-September 2
-Monthly Meeting Dodge County Dems
-Next
-Next
-September 8
+Previous Previous September 2 Monthly Meeting Dodge County Dems Next Next September 8 Muskego Action Team DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

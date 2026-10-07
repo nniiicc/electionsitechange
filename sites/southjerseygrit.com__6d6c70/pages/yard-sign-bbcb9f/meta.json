@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.southjerseygrit.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "1ebd557679b7fa6a9d2b772145dbc686137afd80",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

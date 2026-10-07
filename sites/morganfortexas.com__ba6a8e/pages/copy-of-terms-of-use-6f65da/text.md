@@ -1,12 +1,8 @@
-Privacy Policy
-Privacy Policy for Contact Information Collection and Usage by Morgan4Texas
-Last Updated: 12/10/2023
-Introduction
-Morgan 4 Texas (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these
-Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program
-or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the
-Program.
+top of page Donate Home Endorsements Keys & Cocktails Event About Endorse Matt Join the Team!
+Yard Sign Contact More...
+Use tab to navigate through the menu items.
+Privacy Policy Privacy Policy for Contact Information Collection and Usage by Morgan4Texas Last Updated: 12/10/2023 Introduction Morgan 4 Texas (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 1.
 By signing up for the program through a form provided on morganfortexas.com or by giving your information to Us at an in-person event, you are giving your express consent, and opting in to receive automated text messages, alerts, and updates at the phone number you provided.
 Regardless of your opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
@@ -19,7 +15,7 @@ Carriers and our service providers are not liable for delayed or undelivered mes
 4.
 Data obtained from you in connection with this SMS service may include your cell phone number, your carrier’s name, and the date, time and content of your messages, as well as other information that you provide.
 We may use this information to contact you and to provide the services you request from us.
-If you change, forfeit, or deactivate the phone number you have provided to Morgan4Texas, you agree to notify Us immediately.
+If you change, forfeit, or deactivate the phone number you have provided to Morgan4Texas , you agree to notify Us immediately.
 Failure to do so constitutes a material breach of these SMS Terms.
 5.
 By subscribing or otherwise using the service, you acknowledge and agree that we will have the right to change and/or terminate the service at any time, with or without cause and/or advance notice.
@@ -42,3 +38,12 @@ Your data will not be shared or sold to other third parties.
 Program Availability: Currently, the Program is only available to residents of the United States.
 You understand and acknowledge that you may not sign up for, access, or attempt to access or use the Program from countries outside of the U.S.
 You agree to abide by U.S. and other applicable export control laws and not to transfer, by electronic transmission or otherwise, any content or software subject to restrictions under such laws to a national destination or person prohibited under such laws.
+JOIN THE FIGHT $50 $100 $500 $1,000 $2,800 Pol.
+Adv.
+Pd for by Morgan 4 Texas ​ By submitting this form, you consent to receive recurring texts from Morgan for Texas.
+Message frequency may vary.
+Message and data rates may apply.
+Text STOP to opt-out.
+Text HELP for assistance.
+View our Privacy Policy and Terms & Conditions for more info.
+Privacy Policy bottom of page

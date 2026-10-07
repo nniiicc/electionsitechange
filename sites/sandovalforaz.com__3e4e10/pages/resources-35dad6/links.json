@@ -1,45 +1,182 @@
 [
-"https://211arizona.org/",
-"https://arizonaatwork.com/newsroom/all/arizona-employers-immediate-openings",
-"https://azahcccs.gov/Members/GetCovered/apply.html",
-"https://azcommerce.com/programs",
-"https://azed.gov/parents",
-"https://azfoodbanks.org/",
-"https://azhealthzone.org/resources",
-"https://bia.gov/bia/ois/dhs/housing-program",
-"https://borderlandsproducerescue.org/",
-"https://bsky.app/profile/sandovalforaz.bsky.social",
-"https://cdc.gov/covid?CDC_AAref_Val=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fsymptoms-testing%2Fcoronavirus-self-checker.html",
-"https://des.az.gov/",
-"https://des.az.gov/ERAP",
-"https://des.az.gov/ca",
-"https://des.az.gov/services/basic-needs/food/nutrition-assistance",
-"https://des.az.gov/services/basic-needs/shelter-housing/homeless-services",
-"https://des.az.gov/services/child-and-family/community-resources",
-"https://des.az.gov/services/employment/unemployment-individual/apply-ui-benefits",
-"https://drive.google.com/file/d/1sbvTYfDqheXgnxw9SGbiRv8viqVsnI7d/view",
-"https://facebook.com/SandovalForArizona?eid=ARDk0EkFuD_U-FBWDv8LnymxTcP6L8AvR0JAjjSlJDl1GJftkZC2ymI1JT-otOPocq-UnHMxUTaU5CT0",
-"https://firstthingsfirst.org/wp-content/uploads/2025/05/2025-Yuma-Resource-Guide.pdf",
-"https://hacy.org/",
-"https://housing.az.gov/",
-"https://housing.az.gov/general-public/arizona-home-program",
-"https://housing.az.gov/general-public/rental-assistance-eviction-prevention-programs",
-"https://hud.gov/",
-"https://instagram.com/sandovalforaz",
-"https://lifelinesupport.org/",
-"https://maricopa.gov/1216/Access-Homeless-Services",
-"https://maricopahousing.org/",
-"https://mobile.twitter.com/SandovalForAZ",
-"https://pcoa.org/ways-we-help/covid-19-information.html",
-"https://sandovalforaz.com/",
-"https://sandovalforaz.com/about",
-"https://sandovalforaz.com/cart",
-"https://sandovalforaz.com/donate",
-"https://sandovalforaz.com/endorsements",
-"https://sandovalforaz.com/issues",
-"https://sandovalforaz.com/resources",
-"https://sandovalforaz.com/volunteer",
-"https://secure.actblue.com/donate/sandoval-for-arizona-1",
-"https://tiktok.com/@sandovalforaz",
-"https://yumacountyaz.gov/government/housing/about-us"
+{
+"text": "0",
+"href": "https://www.sandovalforaz.com/cart"
+},
+{
+"text": "211 Center - Services and Programs",
+"href": "https://211arizona.org"
+},
+{
+"text": "Additional Information",
+"href": "https://des.az.gov/"
+},
+{
+"text": "Apply for AHCCCS (health care)",
+"href": "https://www.azahcccs.gov/Members/GetCovered/apply.html"
+},
+{
+"text": "Apply for Cash Benefits",
+"href": "https://des.az.gov/ca"
+},
+{
+"text": "Apply for Nutrition Assistance",
+"href": "https://des.az.gov/services/basic-needs/food/nutrition-assistance"
+},
+{
+"text": "Apply for Unemployment Benefits",
+"href": "https://des.az.gov/services/employment/unemployment-individual/apply-ui-benefits"
+},
+{
+"text": "Arizona Business Resources",
+"href": "https://www.azcommerce.com/programs/"
+},
+{
+"text": "Arizona Department of Housing",
+"href": "https://housing.az.gov"
+},
+{
+"text": "Arizona Food Bank Network",
+"href": "https://azfoodbanks.org"
+},
+{
+"text": "Arizona Rental Assistance Program",
+"href": "https://des.az.gov/ERAP"
+},
+{
+"text": "Back",
+"href": "https://www.sandovalforaz.com/"
+},
+{
+"text": "Borderlands Produce Rescue",
+"href": "https://borderlandsproducerescue.org"
+},
+{
+"text": "COVID-19 Screening Tool",
+"href": "https://www.cdc.gov/covid/?CDC_AAref_Val=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fsymptoms-testing%2Fcoronavirus-self-checker.html"
+},
+{
+"text": "Community Resources",
+"href": "https://des.az.gov/services/child-and-family/community-resources"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sandoval-for-arizona-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.sandovalforaz.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.sandovalforaz.com/endorsements"
+},
+{
+"text": "Find Housing",
+"href": "https://des.az.gov/services/basic-needs/shelter-housing/homeless-services"
+},
+{
+"text": "Food for Children",
+"href": "https://www.azhealthzone.org/resources/"
+},
+{
+"text": "Food for Seniors",
+"href": "https://www.pcoa.org/ways-we-help/covid-19-information.html/"
+},
+{
+"text": "Housing Authority of the City of Yuma",
+"href": "https://www.hacy.org"
+},
+{
+"text": "ISSUES",
+"href": "https://www.sandovalforaz.com/issues"
+},
+{
+"text": "Immediate Employment Openings",
+"href": "https://arizonaatwork.com/newsroom/all/arizona-employers-immediate-openings"
+},
+{
+"text": "K-12 Resources for Parents and Families",
+"href": "https://www.azed.gov/parents"
+},
+{
+"text": "Life Line Support (Low-income Internet)",
+"href": "https://www.lifelinesupport.org"
+},
+{
+"text": "MEET MARIANA",
+"href": "https://www.sandovalforaz.com/about"
+},
+{
+"text": "Maricopa County Housing Support",
+"href": "https://maricopahousing.org/"
+},
+{
+"text": "Maricopa County Resources for the Unsheltered",
+"href": "https://www.maricopa.gov/1216/Access-Homeless-Services"
+},
+{
+"text": "Mortgage Help for Homeowners",
+"href": "https://housing.az.gov/general-public/arizona-home-program"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.sandovalforaz.com/resources"
+},
+{
+"text": "Rental Eviction Protection",
+"href": "https://housing.az.gov/general-public/rental-assistance-eviction-prevention-programs"
+},
+{
+"text": "U.S. Department of Housing",
+"href": "https://www.hud.gov"
+},
+{
+"text": "U.S. Department of the Interior Indian Affairs",
+"href": "https://www.bia.gov/bia/ois/dhs/housing-program"
+},
+{
+"text": "Unemployment Instructions",
+"href": "https://drive.google.com/file/d/1sbvTYfDqheXgnxw9SGbiRv8viqVsnI7d/view"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.sandovalforaz.com/volunteer"
+},
+{
+"text": "Yuma County Housing Department",
+"href": "https://www.yumacountyaz.gov/government/housing/about-us"
+},
+{
+"text": "Yuma Region Connection Guide",
+"href": "https://www.firstthingsfirst.org/wp-content/uploads/2025/05/2025-Yuma-Resource-Guide.pdf"
+},
+{
+"text": "[image: SANDOVAL FOR ARIZONA]",
+"href": "https://www.sandovalforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sandovalforaz.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://mobile.twitter.com/SandovalForAZ"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/sandoval-for-arizona-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SandovalForArizona/?eid=ARDk0EkFuD_U-FBWDv8LnymxTcP6L8AvR0JAjjSlJDl1GJftkZC2ymI1JT-otOPocq-UnHMxUTaU5CT0"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sandovalforaz/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@sandovalforaz"
+}
 ]

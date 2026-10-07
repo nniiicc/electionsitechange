@@ -1,7 +1,11 @@
 {
  "description": "Nick Coffey for OK is a career prosecutor running to be Oklahoma's next Attorney General.",
  "final_url": "https://www.coffeyforok.com/",
- "paid_for_by": null,
+ "fingerprint": "3bedf1c9e486eced7310fc2e6cfb4d699d0e3e92",
+ "format": 3,
+ "paid_for_by": "Authorized by Coffey for Attorney General 2026 PO Box 179 Oklahoma City, OK 73101 More on the Race bottom of page",
  "title": "Home | Nick Coffey For OK",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

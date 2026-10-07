@@ -1,15 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61589334721333",
-"https://jamesmol.com/",
-"https://jamesmol.com/_files/ugd/6d7eb8_77459abea18e423c800c420b264881d7.pdf",
-"https://jamesmol.com/blank",
-"https://jamesmol.com/policy",
-"https://jamesmol.com/policy/ai-datacenters",
-"https://jamesmol.com/policy/economic-opportunity",
-"https://jamesmol.com/policy/education",
-"https://jamesmol.com/policy/electricity",
-"https://jamesmol.com/policy/farming",
-"https://jamesmol.com/policy/propertytaxes",
-"https://jamesmol.com/policy/roads-mobility",
-"https://jamesmol.com/tell-james"
+{
+"text": "ABOUT",
+"href": "https://www.jamesmol.com#about"
+},
+{
+"text": "AI & Data Centers",
+"href": "https://www.jamesmol.com/policy/ai-datacenters"
+},
+{
+"text": "Artificial intelligence is a tool, not a miracle and not a monster. The question is who pays for it.",
+"href": "https://www.jamesmol.com/policy"
+},
+{
+"text": "Download the one-pager (PDF)",
+"href": "https://www.jamesmol.com/_files/ugd/6d7eb8_77459abea18e423c800c420b264881d7.pdf"
+},
+{
+"text": "Education",
+"href": "https://www.jamesmol.com/policy/education"
+},
+{
+"text": "Electricity Costs",
+"href": "https://www.jamesmol.com/policy/electricity"
+},
+{
+"text": "Farming",
+"href": "https://www.jamesmol.com/policy/farming"
+},
+{
+"text": "Fueling Economic Opportunity",
+"href": "https://www.jamesmol.com/policy/economic-opportunity"
+},
+{
+"text": "Home",
+"href": "https://www.jamesmol.com"
+},
+{
+"text": "POLICY",
+"href": "https://www.jamesmol.com/policy"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.jamesmol.com#priorities"
+},
+{
+"text": "Policy / AI & Data Centers",
+"href": "https://www.jamesmol.com/policy"
+},
+{
+"text": "Property Taxes",
+"href": "https://www.jamesmol.com/policy/propertytaxes"
+},
+{
+"text": "Road Safety & Mobility",
+"href": "https://www.jamesmol.com/policy/roads-mobility"
+},
+{
+"text": "TELL JAMES",
+"href": "https://www.jamesmol.com/tell-james"
+},
+{
+"text": "Young Voter Survey",
+"href": "https://www.jamesmol.com/blank"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589334721333"
+}
 ]

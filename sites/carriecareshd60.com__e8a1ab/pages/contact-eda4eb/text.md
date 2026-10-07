@@ -1,7 +1,5 @@
-Contact
-Have a question, concern, or idea to share?
+0 Skip to Content Meet Carrie Issues & Priorities Podcast Videos Support Team of Volunteers Get Involved Events Merchandise Contact DONATE Open Menu Close Menu Meet Carrie Issues & Priorities Podcast Videos Support Team of Volunteers Get Involved Events Merchandise Contact DONATE Open Menu Close Menu Meet Carrie Issues & Priorities Podcast Videos Folder: Support Back Team of Volunteers Get Involved Events Merchandise Contact DONATE Contact Have a question, concern, or idea to share?
 Carrie wants to hear directly from the people of House District 60.
 Your voice matters, and this campaign is built on community connection.
-Get in Touch with the Team
-Email: carriecareshd60@yahoo.com
-Phone:
+Get in Touch with the Team Email : carriecareshd60@yahoo.com Phone : "I will be the voice for Hoosiers and demand accountability and truth at all levels of Government." — Carrie Syczylo Quick Links Meet Carrie Get Involved Issues & Priorities Purchase Supporting Merchandise Contact Email: carriecareshd60@yahoo.com Register to vote ©# Carrie Syczylo All rights reserved.
+Privacy Policy Terms & Conditions Site Design by Kimmy

@@ -1,14 +1,12 @@
-Rekindling the True Spirit of Christmas: Why Remembering the Reason Matters
-Isaiah 9:6-7a “For a child will be born to us, a son will be given to us; And the government will rest on His shoulders; And His name will be called Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace.
-There will be no end to the increase of His government.”
-Merry Christmas!
+top of page HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items.
+DONATE Rekindling the True Spirit of Christmas: Why Remembering the Reason Matters Blair Eddins Dec 21, 2023 2 min read Isaiah 9:6-7a “For a child will be born to us, a son will be given to us; And the government will rest on His shoulders; And His name will be called Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace.
+There will be no end to the increase of His government.” Merry Christmas!
 This is the time of year when we celebrate the birth of Jesus.
 When we say Merry Christmas, what we say is more than a phrase we traditionally express to others this time of year.
 Whether people recognize this or not, the celebration of Christmas is part of our nation’s founding on Judeo-Christian principles.
 Our country has a long history of celebrating the birth of Jesus Christ.
 However, the Left attacks Christmas and seeks to replace it with its multicultural agenda, which aims to destroy the American identity.
-The reason why the Left
-hates Christmas is because Christmas recognizes Jesus as Lord.
+The reason why the Left hates Christmas is because Christmas recognizes Jesus as Lord.
 Christ, not man or government, is King.
 Just as Isaiah points out, Christmas points to King Jesus as ruler over kings, presidents, prime ministers, parliaments, and Congress.
 Also, “there will be no end to the increase of His government.” The rule and authority of Jesus have threatened the influence of governments throughout history.
@@ -22,13 +20,6 @@ We are not going to cave to the multicultural agenda and allow them to erase or 
 In our district and our state, we say Merry Christmas.
 That said, my family and I want to wish you and your family a Merry Christmas.
 We look forward to what God has in store for us in 2024, but more than that, we eagerly await the second coming of His Son.
-He rules the world with
-truth and grace,
-and makes the nations prove
-the glories of His
-righteousness
-and wonders of His love,
-and wonders of His love,
-and wonders, wonders of His love.
-Sincerely,
-Blair Eddins
+He rules the world with truth and grace, and makes the nations prove the glories of His righteousness and wonders of His love, and wonders of His love, and wonders, wonders of His love.
+Sincerely, Blair Eddins Donate Today Recent Posts See All Blair Eddins Files for Re‑Election to Represent North Carolina House District 94 Blair Eddins to be Sworn In as NC State Representative Eddins Picked by District Republicans to Replace Elmore Paid for by Eddins for NC P.O.
+Box 1133 Wilkesboro, NC 28697 HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items. bottom of page

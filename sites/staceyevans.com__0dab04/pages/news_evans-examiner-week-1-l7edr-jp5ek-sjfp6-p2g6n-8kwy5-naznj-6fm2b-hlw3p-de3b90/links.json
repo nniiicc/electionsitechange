@@ -1,28 +1,114 @@
 [
-"http://youtube.com/@repstaceyevans",
-"https://facebook.com/StaceyEvansGA",
-"https://instagram.com/evansforgeorgia",
-"https://legis.ga.gov/legislation/70131?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/70242?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72198?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72468?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72635?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72639?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73480?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73650?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAATlawUEAAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2",
-"https://staceyevans.com/",
-"https://staceyevans.com/cart",
-"https://staceyevans.com/contact",
-"https://staceyevans.com/ga-house-district-57",
-"https://staceyevans.com/get-involved",
-"https://staceyevans.com/issues",
-"https://staceyevans.com/meet-stacey",
-"https://staceyevans.com/news",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm",
-"https://staceyevans.com/news?author=6941670c17540a6865bb3789",
-"https://staceyevans.com/privacy-policy-1",
-"https://x.com/EvansforGeorgia"
+{
+"text": "0",
+"href": "https://www.staceyevans.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.staceyevans.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2"
+},
+{
+"text": "Elijah Johnson",
+"href": "https://www.staceyevans.com/news?author=6941670c17540a6865bb3789"
+},
+{
+"text": "GA House District 57",
+"href": "https://www.staceyevans.com/ga-house-district-57"
+},
+{
+"text": "Get Involved",
+"href": "https://www.staceyevans.com/get-involved"
+},
+{
+"text": "HB 369",
+"href": "https://www.legis.ga.gov/legislation/70131?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Home",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.staceyevans.com/issues"
+},
+{
+"text": "Meet Stacey",
+"href": "https://www.staceyevans.com/meet-stacey"
+},
+{
+"text": "News",
+"href": "https://www.staceyevans.com/news"
+},
+{
+"text": "Next Next Evans Examiner: Week 9",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b"
+},
+{
+"text": "Previous Previous Evans Examiner: Week 11 (Sine Die!)",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.staceyevans.com/privacy-policy-1"
+},
+{
+"text": "SB 150: Supporting Retired Teachers Returning to the Classroom",
+"href": "https://www.legis.ga.gov/legislation/70242?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "SB 395: The Department of Public Health and the Low THC Oil Patient Registry",
+"href": "https://www.legis.ga.gov/legislation/72198?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "SB 428: Waiver Requests for Medicare & Medicaid Services",
+"href": "https://www.legis.ga.gov/legislation/72468?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "SB 442: Harming Noncitizen Commercial Drivers",
+"href": "https://www.legis.ga.gov/legislation/72635?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "SB 443: Enhancing Penalties for Obstructing Highways & Streets",
+"href": "https://www.legis.ga.gov/legislation/72639?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "SB 542: Protecting Congregants & Reigning in Predatory Clergy Members",
+"href": "https://www.legis.ga.gov/legislation/73480?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "SB 589: The Quality Basic Education Act",
+"href": "https://www.legis.ga.gov/legislation/73650?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Watch the House Floor Session at 10am - Tuesday",
+"href": "https://www.legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAATlawUEAAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=ac7ec71d-b92a-f111-9a48-000d3a14b640&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "[image: Rep. Stacey Evans]",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@repstaceyevans"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StaceyEvansGA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/evansforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EvansforGeorgia"
+},
+{
+"text": "elijah@staceyevans.com",
+"href": "mailto:elijah@staceyevans.com?subject=Legislative+Town+Hall+RSVP+-+April+14"
+}
 ]

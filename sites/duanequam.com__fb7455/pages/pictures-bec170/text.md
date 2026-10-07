@@ -1,4 +1,2 @@
-More photos on my Facebook Photo Pages
-Summer fun with volunteers at the Pine Island Parade
-Duane, Son and Gov.
-Tim Pawlenty
+Welcome District 24A News Events Issues Contact Media Pictures Radio Ads Volunteer Donate Duane Quam for Minnesota House Pictures More photos on my Facebook Photo Pages Summer fun with volunteers at the Pine Island Parade Duane, Son and Gov.
+Tim Pawlenty Search for: Recent Posts Legislative Update: July 17, 2026 July 12, 2026 News July 3, 2026 July 2, 2026 News June 12,2026 June 12, 2026 © #-# prepared and paid for by the Quam for House Committee

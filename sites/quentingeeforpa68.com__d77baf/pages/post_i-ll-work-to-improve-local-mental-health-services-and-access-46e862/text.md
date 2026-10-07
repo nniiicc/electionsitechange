@@ -1,6 +1,5 @@
-I'll work to improve local mental health services and access
-I'll work to turn around our region's lack of mental health resources, which have dwindled alarmingly during funding cuts
-over the years.
+top of page DONATE What I believe Events Get Involved Contact More Use tab to navigate through the menu items.
+All Posts Search I'll work to improve local mental health services and access christopher markley Aug 27 3 min read I'll work to turn around our region's lack of mental health resources, which have dwindled alarmingly during funding cuts over the years.
 Residents of Tioga and Bradford counties face mental-health challenges that are common across rural Pennsylvania but which are especially difficult in sparsely populated communities.
 People may live many miles from a psychiatrist, therapist, crisis center, or hospital offering specialized behavioral-health care, and transportation itself can become a barrier to treatment.
 Tioga County has been identified as a mental-health professional shortage area, and county planning documents have previously described long waits for outpatient services, difficulty recruiting providers, and the loss of local acute psychiatric care when psychiatric coverage could not be maintained.
@@ -16,9 +15,9 @@ It could partner with county human-services agencies, schools, hospitals, primar
 Programs such as NAMI Ending the Silence could bring mental-health education directly into schools, while Family-to-Family could give parents and spouses practical help when a loved one is struggling.
 Just as importantly, a recognizable local NAMI presence could reduce the stigma that sometimes makes seeking mental-health care particularly difficult in small communities where people know one another.
 NAMI could also give Tioga and Bradford residents a stronger voice in Harrisburg when decisions are made about behavioral-health funding.
-Pennsylvania has acknowledged a serious rural health-care workforce shortage, including shortages of mental-health professionals, and solutions will require more than simply tell
-ing rural residents to seek treatment that may not actually be available nearby.
+Pennsylvania has acknowledged a serious rural health-care workforce shortage, including shortages of mental-health professionals, and solutions will require more than simply tell ing rural residents to seek treatment that may not actually be available nearby.
 NAMI could advocate for additional psychiatric and counseling capacity, telepsychiatry, provider recruitment and loan-repayment incentives, transportation assistance, stronger crisis services, and adequate reimbursement for clinicians willing to serve rural communities.
 Combined with locally organized peer and family programs, that advocacy could create a bridge between the services currently available and the much more accessible system the Northern Tier needs.
 For Tioga and Bradford counties, expanding NAMI would not solve the provider shortage by itself, but it could make the existing system easier to navigate while helping build the political and community support necessary to improve it.
 The first step is to establish a board with motivated individuals willing to give time and knowledge along with their own experience in dealing with mental health crises and work to improve access and services.
+Recent Posts See All I'll support our local farms, and not corporate factory farms Let's restore our local healthcare options and access We won't let data centers ruin water & raise utility rates bottom of page

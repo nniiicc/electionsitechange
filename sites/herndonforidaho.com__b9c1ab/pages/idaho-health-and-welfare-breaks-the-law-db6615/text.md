@@ -1,15 +1,14 @@
-The Idaho Department of Health & Welfare broke the law.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Idaho Health and Welfare Breaks the Law Sep 6, 2023 | Breaking News , Legislative News , Policy Analysis The Idaho Department of Health & Welfare broke the law.
 Earlier this year I was ridiculed by the liberal press in Boise when I opposed federal CARES Act and ARPA money continuing to go to education three years after the Covid “pandemic”.
 The original concept at the start of Covid was that with businesses shutting down, financial relief should be provided to childcare providers who were also forced by the government to shut down.
-The grant money would help them stay in business and would help children with learning loss caused by the pandemic,
-Of course the federal money given to the state of Idaho was borrowed against future generations of Americans and resulted in massive inflation.
+The grant money would help them stay in business and would help children with learning loss caused by the pandemic, Of course the federal money given to the state of Idaho was borrowed against future generations of Americans and resulted in massive inflation.
 The Idaho legislature set clear guidelines for businesses to receive $68 million of these grants.
 First, only one grant per business.
 Second, the grants could only be used to support children of school age and specifically excluded children under 5.
 The Idaho legislature employs its own internal auditors, and they just issued their audit report finding that the Idaho Department of Health & Welfare (IDHW) did not follow the law when distributing these tens of millions of dollars of grants.
 Here are some of the findings.
-To read the full report, click here:
-1.
+To read the full report, click here: 1.
 IDHW did not maintain sufficient documentation to support why they awarded the grants to recipients.
 2.
 Some grant recipients received more than the amounts allowed by statute by submitting multiple applications that used variations of their business name.
@@ -36,3 +35,5 @@ Even though I voted against the extension of these federal debt laden, unnecessa
 Here is one of the stories in which I am quoted as being against an additional $28 million of these grants that was just for the period of April 1 to June 30 of this year.
 As of July 1, the grants have finally expired.
 And yes, I compared the legislature to crack dealers with this largesse.
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

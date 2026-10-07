@@ -1,4 +1,5 @@
-(The Center Square) – Incumbent U.S.
+Skip to content Facebook-f Twitter Youtube Meet Aaron The New 4th District Donate News & Updates Meet Aaron The New 4th District Donate News & Updates Bean aims to keep Florida’s 4th Congressional District with the GOP September 3, 2024 The Capitolist (The Center Square) – Incumbent U.S.
 Rep Aaron Bean, R-Fla., is looking to keep his seat in the 4th Congressional District this November, facing off in a rematch against an underfunded Democrat rival.
 If he is successful, Bean will serve a second term representing his northeastern Florida district, which encompasses Clay and Nassau counties, along with Duval County east of the St.
 Johns River, which includes downtown Jacksonville.
+According to the Federal Election Commission, Bean has raised $# million in campaign funds, eclipsing his Democratic opponent LaShonda “LJ” Holloway who has raised $# Read More Share This Facebook-f Twitter Youtube Paid for by Aaron Bean for Congress Media Inquiries: Sarah Bascom | Kelsey Deasy Copyright # Aaron Bean for Congress

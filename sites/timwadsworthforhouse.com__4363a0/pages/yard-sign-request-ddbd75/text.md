@@ -1,14 +1,1 @@
-Skip to main content
-Re-Elect Tim Wadsworth for House District 14
-Re-Elect Tim Wadsworth for House District 14
-Home
-About Tim
-Priorities
-News
-Name *
-Physical Address *
-Phone Number
-Email *
-Optional Message
-Leave this field empty
-Submit form
+Skip to main content Re-Elect Tim Wadsworth for House District 14 Re-Elect Tim Wadsworth for House District 14 Home About Tim Priorities News Name * Physical Address * Phone Number Email * Optional Message Leave this field empty Submit form General Election: Tuesday, November 3, 2026 © # / Paid for by: Committee to Elect Tim Wadsworth, 1175 Helicon Rd., Arley, AL 35541

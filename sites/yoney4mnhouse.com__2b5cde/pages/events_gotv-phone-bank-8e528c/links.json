@@ -1,16 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=GOTV+Phone+Bank&dates=20260811T190000Z%2F20260812T003000Z",
-"https://facebook.com/profile.php?id=61585787549924&mibextid=wwXIfr&rdid=NbZQllTR3YTXh42P&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1G2h7DK5ag%2F%3Fmibextid%3DwwXIfr",
-"https://facebook.com/profile.php?id=61585787549924&mibextid=wwXIfr&rdid=S6qkQAhmJEeexkuk&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1G2h7DK5ag%2F%3Fmibextid%3DwwXIfr",
-"https://instagram.com/yoney4house?igsh=anduOHQ4aDkybnFu",
-"https://secure.actblue.com/donate/erika-yoney-1",
-"https://yoney4mnhouse.com/",
-"https://yoney4mnhouse.com/about",
-"https://yoney4mnhouse.com/cart",
-"https://yoney4mnhouse.com/donate",
-"https://yoney4mnhouse.com/endorsements",
-"https://yoney4mnhouse.com/events",
-"https://yoney4mnhouse.com/events/gotv-phone-bank?format=ical",
-"https://yoney4mnhouse.com/events/postcard-party-may-9f7zy",
-"https://yoney4mnhouse.com/get-involved"
+{
+"text": "0",
+"href": "https://www.yoney4mnhouse.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.yoney4mnhouse.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/erika-yoney-1"
+},
+{
+"text": "Donate",
+"href": "https://www.yoney4mnhouse.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.yoney4mnhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.yoney4mnhouse.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61585787549924&mibextid=wwXIfr&rdid=NbZQllTR3YTXh42P&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1G2h7DK5ag%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "Get Involved",
+"href": "https://www.yoney4mnhouse.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=GOTV+Phone+Bank&dates=20260811T190000Z%2F20260812T003000Z"
+},
+{
+"text": "Home",
+"href": "https://www.yoney4mnhouse.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.yoney4mnhouse.com/events/gotv-phone-bank?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/yoney4house/?igsh=anduOHQ4aDkybnFu"
+},
+{
+"text": "My Why",
+"href": "https://www.yoney4mnhouse.com/about"
+},
+{
+"text": "Previous Previous May 19 Postcard Party!",
+"href": "https://www.yoney4mnhouse.com/events/postcard-party-may-9f7zy"
+},
+{
+"text": "Yoney for Minnesota House District 4A",
+"href": "https://www.yoney4mnhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585787549924&mibextid=wwXIfr&rdid=S6qkQAhmJEeexkuk&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1G2h7DK5ag%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/yoney4house/?igsh=anduOHQ4aDkybnFu"
+},
+{
+"text": "yoney4house@gmail.com",
+"href": "mailto:yoney4house@gmail.com"
+}
 ]

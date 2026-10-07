@@ -1,7 +1,4 @@
-Back to All Events
-NOTE: This event starts is at 11:30AM Central/12:30PM Eastern
-Walton County’s 2 Democratic candidates, Gay Valimont and Amanda Green (CDs 1 and 2), will be featured speakers at our September 22nd general membership meeting.
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events Walton County DWC Luncheon Tuesday, September 22, 2026 12:30 PM 1:30 PM Cantina Laredo 585 Grand Boulevard Miramar Beach, Florida, 32550 United States (map) Google Calendar ICS NOTE: This event starts is at 11:30AM Central/12:30PM Eastern Walton County’s 2 Democratic candidates, Gay Valimont and Amanda Green (CDs 1 and 2), will be featured speakers at our September 22nd general membership meeting.
 They’ll be talking about issues of peak importance to them.
-Next
-Next
-September 23
+Next Next September 23 6th Annual Ray Charles Birthday Picnic TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

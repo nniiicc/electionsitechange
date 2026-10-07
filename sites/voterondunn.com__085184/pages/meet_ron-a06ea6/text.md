@@ -1,4 +1,4 @@
-My name is Ron Dunn.
+Home Meet Ron Issues News Contact TANK Events Contribute Volunteer Photos Make Endorsement My name is Ron Dunn.
 I am a NH State Representative for Londonderry, NH District 16 Rockingham.
 I am also your Town Council Chairman for Londonderry, NH.
 I’m a Retail Store Manager and a Certified Pharmacy Technician.
@@ -16,13 +16,7 @@ Unfortunately, many still are not aware of this serious health issue.
 In speaking with other residents, not enough of our community is aware of the PFAS issue and how it impacts their health.
 This issue is finally being addressed after much delay, but it is important for the entire community to be aware of the issue.
 We need to develop a solution for our town that will not cause the taxpayer to bear the burden with a remedy for this situation caused by corporate polluters.
-These are some of the bills that I sponsored or co-sponsored during the last term that had a direct impact on Londonderry:
-HB1649 = this allowed the PFAS Rebate Program to continue until June 2025
-HB1114 = this allows the extension of the PFAS Commission for Londonderry, Hudson, Bedford, Merrimack and Litchfield
-HB1171 = extends the commission to study environmentally triggered chronic illnesses
-HB1385 = establishes the Veteran License Acceleration Program allowing medics who come out of the military to quality for the exam to become an EMT.
-SB589 = allows Londonderry, NH to send sewage to Derry, NH for a 15% fee
-Let’s Get It “Dunn” Together!
-Ron Dunn
-781-640-1006
-voterondunn@protonmail.com
+These are some of the bills that I sponsored or co-sponsored during the last term that had a direct impact on Londonderry: HB1649 = this allowed the PFAS Rebate Program to continue until June 2025 HB1114 = this allows the extension of the PFAS Commission for Londonderry, Hudson, Bedford, Merrimack and Litchfield HB1171 = extends the commission to study environmentally triggered chronic illnesses HB1385 = establishes the Veteran License Acceleration Program allowing medics who come out of the military to quality for the exam to become an EMT.
+SB589 = allows Londonderry, NH to send sewage to Derry, NH for a 15% fee Let’s Get It “Dunn” Together!
+Ron Dunn 781-640-1006 voterondunn@protonmail.com Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Contribute Voter Information Endorsements Events Photos Contact TANK Privacy Policy Committee to Elect Ron Dunn Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues News Contact TANK Events Contribute Volunteer Photos Make Endorsement Voter Information Endorsements Privacy Policy Close Menu

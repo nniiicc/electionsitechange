@@ -1,11 +1,6 @@
-Mike Tannousis: 5 Reasons Why I’m Running
-Former prosecutor and candidate for State Assembly Mike Tannousis outlines why he’s running to represent Staten Island & Brooklyn.
+Skip to Content Donate to Mike Tannousis for State Assembly Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE Tannousis for Assembly NEWSROOM Thu, Dec 26 2019 Featured Mike Tannousis: 5 Reasons Why I’m Running Former prosecutor and candidate for State Assembly Mike Tannousis outlines why he’s running to represent Staten Island & Brooklyn.
 Learn more.
-READ post
-Tannousis Endorsed by the Staten Island & Brooklyn Conservative Party
-The executive committees have jointly nominated and endorsed Tannousis in the 2020 election for the Assembly’s 64th District.
-READ post
-Former Prosecutor Mike Tannousis Blasts Radical Bail Reform Law
-For the past eight years as a prosecutor, I have seen defendants coming into the criminal justice system every single day.
+READ post share Thu, Dec 26 2019 Endorsements Tannousis Endorsed by the Staten Island & Brooklyn Conservative Party The executive committees have jointly nominated and endorsed Tannousis in the 2020 election for the Assembly’s 64th District.
+READ post share Thu, Dec 26 2019 Policy Former Prosecutor Mike Tannousis Blasts Radical Bail Reform Law For the past eight years as a prosecutor, I have seen defendants coming into the criminal justice system every single day.
 It has become a revolving door.
-READ post
+READ post share Posts pagination Previous page 1 2 3 4 Next page STAND WITH MIKE Your email address * Your ZIP code * Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

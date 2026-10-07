@@ -1,35 +1,33 @@
-ON THE ISSUES
-A plan for change
-- Our schools are not always preparing our children to really advance in life.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate ON THE ISSUES A plan for change School Choice for Parents Our schools are not always preparing our children to really advance in life.
 Parents should have the information they need to make decisions about their children’s education, and they should have access to all the educational options in their community.
 I support charter schools and school vouchers to allow all parents to choose the best education for their children.
-- Rising crime is endangering our families and neighborhoods.
+Ensuring Public Safety Rising crime is endangering our families and neighborhoods.
 To make our streets safe again, we need to recruit more police and enforce our laws.
-- Our open borders have allowed in drugs, criminals, and terrorists and prevented us from having a serious discussion about immigration.
+Securing Our Borders Our open borders have allowed in drugs, criminals, and terrorists and prevented us from having a serious discussion about immigration.
 To regain control over our future, we need to secure our border so that we can develop a consistent immigration policy.
-- Small businesses struggle with high costs.
+Supporting Small Businesses Small businesses struggle with high costs.
 Reducing taxes and regulations on small businesses will create jobs and renew our communities.
-- The United States has a debt problem.
+Confronting Our National Debt The United States has a debt problem.
 In 2000, our national debt was half of our GDP.
 Today it is twice that much and rising, primarily due to the steadily increasing costs of our welfare and entitlement programs.
 We cannot solve our debt problem without reforming those programs, and my plan to do this will save over $1 trillion per year, leading to long-term financial stability.
-- I am running for Congress because I want to change the way we relate to our government.
+Reducing the size and scope of government I am running for Congress because I want to change the way we relate to our government.
 My plan is to phase out all of our current welfare and entitlement programs and return this money (over $4 trillion per year) to the American people.
 Whether or not you agree with all the details of this plan, we need to engage in this discussion.
 The current system is unsustainable.
 You can find more details about my plan below.
-- As a professor for over 20 years, I have seen the deterioration of higher education.
+Reforming Education As a professor for over 20 years, I have seen the deterioration of higher education.
 The irreproducibility crisis has undermined academic research, leading to false claims that have driven public policy in the wrong directions.
 The left-wing bias at colleges has become so extreme that few conservative professors remain, creating a form of groupthink that has suppressed real debate.
 We need to create new guidelines for government funding of higher education that demands more accountability from researchers and more diversity of perspectives.
-- In our current welfare programs, people lose benefits such as food stamps, Medicaid, and housing vouchers when they start to earn money on their own or begin to build up assets.
+Reforming Welfare In our current welfare programs, people lose benefits such as food stamps, Medicaid, and housing vouchers when they start to earn money on their own or begin to build up assets.
 This system discourages people from working and saving because working people receive few benefits.
 At the same time, the large bureaucracy is expensive and difficult to navigate.
 One of my main priorities will be to reduce this bureaucracy.
-- We all know that the Social Security Administration is headed for insolvency, but few politicians are willing to address the problem.
+Reforming Social Security We all know that the Social Security Administration is headed for insolvency, but few politicians are willing to address the problem.
 Moreover, the current solutions on offer to either raise taxes or reduce benefits are not very appealing.
 My plan would guarantee existing benefits for everyone 37 and older, while introducing a sustainable system for the next generation.
-- Healthcare costs in the U.S. have spiraled out of control, consuming 18% of our GDP, while no other country in the world spends more than 12%.
+Reforming Our Healthcare System Healthcare costs in the U.S. have spiraled out of control, consuming 18% of our GDP, while no other country in the world spends more than 12%.
 The basic problem is that the people receiving health benefits have no incentive to consider the costs.
 This situation leads to the dominance in the healthcare sector of health insurance companies and government programs such as Medicaid and Medicare, rather than the doctors and nurses providing care.
 We need to bring back the centrality of the doctor-to-patient relationship, without the corporate and government bureaucracies getting in the way.
@@ -41,20 +39,20 @@ Such plans engage the recipients of care in decision-making that optimizes servi
 Finally, my plan to phase out the current welfare and entitlement system to create a universal basic income would pay $4000 per year into every individual American’s health savings account and allow each person to pay health insurance premiums from this account.
 We would have universal healthcare within a private system.
 Medicaid and Medicare would be privatized, and people could still choose to remain in these programs by paying the monthly premiums.
-- I support a Constitutional amendment to prohibit government agencies from providing benefits to some people and not to others.
+Ending the Influence of Lobbyists and Special Interests I support a Constitutional amendment to prohibit government agencies from providing benefits to some people and not to others.
 With this change, we will take the wind out of the entire lobbying process.
 With no special benefits for the government to hand out, there would be no point to having lobbyists for special interests.
 Ordinary Americans would be in control of their government again.
-- -All welfare and entitlement programs would be phased out, and the money saved would be enough to provide $16,000 per year to every citizen 21 years of age and older.
+Summary of the Plan -All welfare and entitlement programs would be phased out, and the money saved would be enough to provide $16,000 per year to every citizen 21 years of age and older.
 Of this money, $12,000 per year would be a direct deposit into bank accounts, and $4000 per year would be in the form of a health insurance voucher, to be used on the private market, thereby creating universal coverage in a totally private system. -Those who are within 30 years of retirement may choose to stay with the existing system of Social Security and Medicare according to the current rules of those programs.
 These plans can stay solvent because there would be a new system for younger people, who would start to receive $16,000 per year right away, and this amount would not change thoughout their lives, though it could adjust for inflation. -Medicaid and Medicare would be privatized and remain as options for people to choose as health care options alongside private plans.
 There would no longer be a special tax deduction for employer-sponsored health insurance.
 Instead, everyone would receive the $4000 per year health insurance voucher and could also choose to devote more money to purchasing more expensive plans.
 Such a system would create universal coverage with a maximum amount of competition amongst health care providers to provide the best coverage at the lowest cost. -Existing programs such as SNAP and housing vouchers would be closed to new applicants.
 Current recipients could choose to either stay in these existing programs or begin receiving $16,000 per year in the new system, but not both.
-The existing welfare and entitlement programs would thereby be phased out gradually through attrition. -While the details of such a plan can be up for debate, the basic premise is that people themselves will have a better idea of how best they can use their money than the government would. -This plan is inspired by Charles Murray’s book, In Our Hands.
-Milton Friedman also argued for a similar plan in this lecture.
-- Will the Universal Basic Income plan create inflation?
+The existing welfare and entitlement programs would thereby be phased out gradually through attrition. -While the details of such a plan can be up for debate, the basic premise is that people themselves will have a better idea of how best they can use their money than the government would. -This plan is inspired by Charles Murray’s book, In Our Hands .
+Milton Friedman also argued for a similar plan in this lecture .
+FAQ Will the Universal Basic Income plan create inflation?
 The plan will not create inflation because it will take money that the federal government is already spending and shift it toward payments to individuals rather than to government agencies.
 Will the plan abandon the neediest people in our society?
 The plan will provide $16,000 per individual to everyone.
@@ -74,3 +72,9 @@ Those under 37 would start receiving the $16,000 per year right away and be able
 If they do this consistently, their retirements accounts would grow to fund a much better retirement than the current Social Security system.
 Will the plan increase our federal budget deficit?
 The plan reduces the federal budget deficit by over $1 trillion per year over the long term.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

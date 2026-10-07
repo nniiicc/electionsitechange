@@ -1,11 +1,50 @@
 [
-"https://facebook.com/Kevinallencolorado",
-"https://kevinallenforsd24.com/",
-"https://kevinallenforsd24.com/privacy-policy",
-"https://secure.anedot.com/kevin-allen-for-sd24/donate",
-"https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=10",
-"https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=100",
-"https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=24",
-"https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=450",
-"https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=50"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=100"
+},
+{
+"text": "$24",
+"href": "https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=24"
+},
+{
+"text": "$450",
+"href": "https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=450"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/kevin-allen-for-sd24/donate?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/kevin-allen-for-sd24/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Kevinallencolorado/"
+},
+{
+"text": "Home",
+"href": "https://kevinallenforsd24.com/"
+},
+{
+"text": "Mail",
+"href": "mailto:info@kevinallenforsd24.com"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/kevin-allen-for-sd24/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kevinallenforsd24.com/privacy-policy"
+},
+{
+"text": "[image: Kevin Allen for Colorado Senate District 24]",
+"href": "https://kevinallenforsd24.com/"
+}
 ]

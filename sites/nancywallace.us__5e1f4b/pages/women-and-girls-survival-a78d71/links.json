@@ -1,23 +1,98 @@
 [
-"http://aiso.net/",
-"http://msnbc.com/the\u2010last\u2010word/watch/emma\u2010watson\u2010if\u2010not\u2010me\u2010who\u2010if\u2010not\u2010now\u2010when\u2010 332137027735",
-"http://nancywallace.us/",
-"http://nancywallace.us/about/community-peacestopping-police-violence",
-"http://nancywallace.us/climate-change",
-"http://nancywallace.us/community%e2%80%90based-economics-and-economic-justice",
-"http://nancywallace.us/contact",
-"http://nancywallace.us/donate",
-"http://nancywallace.us/endorsements",
-"http://nancywallace.us/federal-tax-reform",
-"http://nancywallace.us/foreign-policy",
-"http://nancywallace.us/health-care-for-all",
-"http://nancywallace.us/immigration-reform",
-"http://nancywallace.us/issues",
-"http://nancywallace.us/list",
-"http://nancywallace.us/meet-nancy",
-"http://nancywallace.us/privacy",
-"http://nancywallace.us/vote-for-nancy",
-"http://nancywallace.us/women-and-girls-survival",
-"http://nancywallace.us/women-and-girls-survival/green-party",
-"http://ndvsac.org/get\u2010involved/what\u2010you\u2010can\u2010do\u2010to\u2010stop\u2010domesticsexual\u2010violence"
+{
+"text": "AISO",
+"href": "http://www.aiso.net/"
+},
+{
+"text": "Climate Change",
+"href": "http://www.nancywallace.us/climate-change/"
+},
+{
+"text": "Community Based Economics and Economic Justice",
+"href": "http://www.nancywallace.us/community%e2%80%90based-economics-and-economic-justice/"
+},
+{
+"text": "Community Peace/Stopping Police Violence",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Contact",
+"href": "http://www.nancywallace.us/contact/"
+},
+{
+"text": "Donate",
+"href": "http://www.nancywallace.us/donate/"
+},
+{
+"text": "Endorsements",
+"href": "http://www.nancywallace.us/endorsements/"
+},
+{
+"text": "Federal Tax Reform",
+"href": "http://www.nancywallace.us/federal-tax-reform"
+},
+{
+"text": "Foreign Policy",
+"href": "http://www.nancywallace.us/foreign-policy"
+},
+{
+"text": "Green Party",
+"href": "http://www.nancywallace.us/women-and-girls-survival/green-party"
+},
+{
+"text": "Health Care for All",
+"href": "http://www.nancywallace.us/health-care-for-all/"
+},
+{
+"text": "Home",
+"href": "http://www.nancywallace.us"
+},
+{
+"text": "Immigration Reform",
+"href": "http://www.nancywallace.us/immigration-reform"
+},
+{
+"text": "Issues",
+"href": "http://www.nancywallace.us/issues/"
+},
+{
+"text": "Join",
+"href": "http://www.nancywallace.us/vote-for-nancy/"
+},
+{
+"text": "Meet Nancy",
+"href": "http://www.nancywallace.us/meet-nancy/"
+},
+{
+"text": "Police",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Privacy",
+"href": "http://www.nancywallace.us/privacy"
+},
+{
+"text": "Teammedia",
+"href": "mailto:jmole@teammedia.com"
+},
+{
+"text": "Women and Girls’ Survival",
+"href": "http://www.nancywallace.us/women-and-girls-survival/"
+},
+{
+"text": "[image]",
+"href": "http://nancywallace.us"
+},
+{
+"text": "http://ndvsac.org/get‐involved/what‐you‐can‐do‐to‐stop‐domesticsexual‐violence/",
+"href": "http://ndvsac.org/get%E2%80%90involved/what%E2%80%90you%E2%80%90can%E2%80%90do%E2%80%90to%E2%80%90stop%E2%80%90domesticsexual%E2%80%90violence"
+},
+{
+"text": "http://www.msnbc.com/the‐last‐word/watch/emma‐watson‐if‐not‐me‐who‐if‐not‐now‐when‐ 332137027735",
+"href": "http://www.msnbc.com/the%E2%80%90last%E2%80%90word/watch/emma%E2%80%90watson%E2%80%90if%E2%80%90not%E2%80%90me%E2%80%90who%E2%80%90if%E2%80%90not%E2%80%90now%E2%80%90when%E2%80%90%20332137027735"
+},
+{
+"text": "🍁",
+"href": "http://www.nancywallace.us/list"
+}
 ]

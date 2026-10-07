@@ -1,23 +1,102 @@
 [
-"http://facebook.com/story4co",
-"http://google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvassing%3A+Evergreen+Day+of+Action&dates=20241012T190000Z%2F20241013T000000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States",
-"http://maps.google.com/?q=3229+El+Pinal+Drive+Evergreen%2C+CO%2C+80439+United+States",
-"https://forms.gle/zWsEJkmjgWWe7nTP8",
-"https://instagram.com/story4co",
-"https://story4co.com/",
-"https://story4co.com/achievements",
-"https://story4co.com/contact",
-"https://story4co.com/donate",
-"https://story4co.com/endorsements",
-"https://story4co.com/events",
-"https://story4co.com/events/evergreendayofaction?format=ical",
-"https://story4co.com/events/jointcanvass",
-"https://story4co.com/events/partywithapurpose",
-"https://story4co.com/issues",
-"https://story4co.com/jointheteam",
-"https://story4co.com/news",
-"https://story4co.com/ourstory",
-"https://story4co.com/priorities",
-"https://story4co.com/search",
-"https://story4co.com/yardsigns"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3229+el+pinal+drive+evergreen%2C+co%2C+80439+united+states"
+},
+{
+"text": "720-620-8519",
+"href": "tel:720-620-8519"
+},
+{
+"text": "About",
+"href": "https://www.story4co.com/ourstory"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.story4co.com/events"
+},
+{
+"text": "CONTACT",
+"href": "https://www.story4co.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.story4co.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.story4co.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.story4co.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Team+Tammy+Canvassing%3A+Evergreen+Day+of+Action&dates=20241012T190000Z%2F20241013T000000Z&location=3229+El+Pinal+Drive%2C+Evergreen%2C+CO%2C+80439%2C+United+States"
+},
+{
+"text": "HERE",
+"href": "https://forms.gle/zWsEJkmjgWWe7nTP8"
+},
+{
+"text": "ICS",
+"href": "https://www.story4co.com/events/evergreendayofaction?format=ical"
+},
+{
+"text": "In the News",
+"href": "https://www.story4co.com/news"
+},
+{
+"text": "Issues",
+"href": "https://www.story4co.com/issues"
+},
+{
+"text": "Legislative Achievements",
+"href": "https://www.story4co.com/achievements"
+},
+{
+"text": "Party with a Purpose!",
+"href": "https://www.story4co.com/events/partywithapurpose"
+},
+{
+"text": "Priorities",
+"href": "https://www.story4co.com/priorities"
+},
+{
+"text": "Team Tammy Canvass with Sen. Kolker, Planned Parenthood Votes, Cobalt, and COLOR AF",
+"href": "https://www.story4co.com/events/jointcanvass"
+},
+{
+"text": "Volunteer",
+"href": "https://www.story4co.com/jointheteam"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.story4co.com/yardsigns"
+},
+{
+"text": "[image: Representative Tammy Story]",
+"href": "https://www.story4co.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/story4co"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/story4co/"
+},
+{
+"text": "[no text]",
+"href": "https://www.story4co.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:tammy.story.house@coleg.gov"
+},
+{
+"text": "story4CO@gmail.com",
+"href": "mailto:story4CO@gmail.com"
+}
 ]

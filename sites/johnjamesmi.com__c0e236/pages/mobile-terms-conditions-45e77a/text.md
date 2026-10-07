@@ -1,4 +1,4 @@
-John James for MI (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Skip to content Meet John Meet Jay What We’re Fighting For The Flight Plan 2037 Get the Facts Coalitions News & Events Store Donate Meet John Meet Jay What We’re Fighting For The Flight Plan 2037 Get the Facts Coalitions News & Events Store Donate Mobile Messaging Terms & Conditions John James for MI (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program, such as through online enrollment forms.
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
@@ -31,3 +31,9 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 Any new features, changes, updates or improvements of the Program shall be subject to these Terms unless explicitly stated otherwise in writing.
 From time to time, we may update these Terms, and We encourage you to periodically check these Terms for updates.
 Your continued participation in the Program affirms your agreement to any changes we make to these Terms.
+Fighting for a stronger, safer, and more affordable Michigan.
+People Over Politics.
+Explore About John About Jay Issues The Flight Plan 2037 News & Events Get the Facts Vote Get Involved Volunteer Ask John Anything Coalitions War Room Store Contact Donate Join the Team Paid for by John James for MI, 35744 Van Dyke Avenue, Sterling Heights, MI 48312.
+Use of John James’ military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of War.
+Privacy Policy Terms & Conditions Contact © # John James for Michigan.
+All rights reserved.

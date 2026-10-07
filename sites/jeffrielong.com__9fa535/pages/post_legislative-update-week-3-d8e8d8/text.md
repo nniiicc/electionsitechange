@@ -1,11 +1,12 @@
-Legislative Update Week 3
-Dear Friend, It's an honor to come back for our weekly recap of week 3 of the 445th legislative session in Maryland; we only have 72 days left, and I couldn't be prouder of the work we've already accomplished in such a short time.
+top of page About Issues Resources Calvert County Prince George's County Legislative Updates Scholarship More Use tab to navigate through the menu items.
+Donate Today All Posts Endorsements Updates Community Service Search Legislative Update Week 3 Jan 28, 2023 2 min read Dear Friend, It's an honor to come back for our weekly recap of week 3 of the 445th legislative session in Maryland; we only have 72 days left, and I couldn't be prouder of the work we've already accomplished in such a short time.
 Monday- The Environment and Transportation committee released their early 2023 session briefing schedule.
 I look forward to asking the questions that need to be asked for the people of the District and the State of Maryland.
 During this session, I look forward to working on the issues and finding meaningful solutions on the Environment & Transportation Committee.
 Tuesday- I introduced additional legislation that I believe will be great for the District: HB0311 - This bill would have the State Highway Administration designate the bridge across Fishing Creek on Maryland Route 261 in Calvert County as Falling Hero's Fishing Creek Bridge.
 This bill is a reintroduction from the last session and cross-filed with Senator Jackson.
-HB0317 - This bill would require the Governor of the State of Maryland annually proclaim Aug. 31st as Overdose Awareness Day.
+HB0317 - This bill would require the Governor of the State of Maryland annually proclaim Aug.
+31st as Overdose Awareness Day.
 This bill is a reintroduction from the last session and cross-filed with Senator Jackson.
 Also, I have submitted my first Legislative Bond Initiative, which would allocate $250,000 to Dees House of Hope.
 This Domestic Abuse treatment center provides services for Women and Children affected by Domestic violence in Southern Prince George's County.
@@ -18,10 +19,13 @@ We then held our first public bill hearings ranging a myriad of topics from Rent
 Friday- I attend two meetings simultaneously, The Southern Maryland Delegation & The Prince George's County House Delegation.
 In the Southern Maryland Delegation we received briefings from the Tri-County Council as well as the new President of the College of Southern Maryland.
 In the Prince George's County House Delegation, we received briefings from various health institutions and moved a bill out of Delegation on to a standing committee for further deliberation.
-A full comprehensive list of all the legislation I am sponsoring, co-sponsoring can be found here.
+A full comprehensive list of all the legislation I am sponsoring, co-sponsoring can be found here .
 Please continue to check back frequently as the list is updated.
 If you have any questions regarding legislation, please do not hesitate to contact my office.
 As I continue to fight for you during this 90 day Legislative Session, I will strive with everything in me to serve you in excellence, honesty, and integrity.
 If I can ever be of service to you, please do not hesitate to contact our office.
 Best, Delegate Jeffrie Long Jr.
-House District 27B
+House District 27B Updates Recent Posts See All 2026 End of Session Letter 2024 End of Session Letter Delegate Jeffrie Long Jr. releases his end of session letter after the House adjourned sine die Jeffrie E.
+Long, Jr By Authority: Friends of Jeffrie Long, Burton Sherbert, Treasurer Lowe House Office Building Office 209 6 Bladen Street Annapolis, MD 21401 Stay Connected to Delegate Long!
+Enter Your Email here Submit Thanks for submitting!
+Office Email Address jeffrie.long@house.state.md.us Office Phone Number: 410-841-3398 bottom of page

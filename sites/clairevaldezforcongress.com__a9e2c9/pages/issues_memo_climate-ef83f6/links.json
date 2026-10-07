@@ -1,43 +1,182 @@
 [
-"https://a816-dohbesp.nyc.gov/IndicatorPublic/data-features/heat-report",
-"https://a816-dohbesp.nyc.gov/IndicatorPublic/data-features/hvi",
-"https://bloomberg.com/graphics/2025-ai-data-centers-electricity-prices",
-"https://bsky.app/profile/claireforqueens.bsky.social",
-"https://clairevaldezforcongress.com/",
-"https://clairevaldezforcongress.com/endorsements",
-"https://clairevaldezforcongress.com/es/issues/memo/climate",
-"https://clairevaldezforcongress.com/issues",
-"https://clairevaldezforcongress.com/issues/memo/unionpower",
-"https://clairevaldezforcongress.com/volunteer",
-"https://cleanjobsamerica.e2.org/",
-"https://climateandcommunity.org/research/the-case-for-city-led-housing-retrofits-in-new-york-city",
-"https://climateandcommunity.org/research/who-owns-power-in-the-energy-transition",
-"https://cmu.edu/work-that-matters/energy-innovation/data-center-growth-could-increase-electricity-bills",
-"https://congress.gov/bill/119th-congress/senate-bill/2298/text",
-"https://dataforprogress.org/blog/2025/6/17/voters-are-concerned-about-rising-costs-and-think-climate-change-will-financially-affect-them",
-"https://experience.arcgis.com/experience/0d0603210dde48ad92b77d0efd14eff6",
-"https://facebook.com/claireforqueens",
-"https://forge.coop/",
-"https://gothamist.com/news/epa-cleanup-brooklyn-toxic-newtown-creek-superfund-site-delayed-until-2032",
-"https://grist.org/politics/american-climate-corps-biden-jobs-program-trump",
-"https://hellgatenyc.com/morning-spew-bushwick-inlet-park-when",
-"https://ifpte98.org/",
-"https://instagram.com/claireforny",
-"https://nysenate.gov/legislation/bills/2025/A10141",
-"https://nytimes.com/2026/03/13/climate/ncar-breakup-plan-nasa-noaa.html",
-"https://nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html",
-"https://osha.gov/news/newsreleases/national/20240830",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://projects.thecity.nyc/hazard-nyc-wolff-alport-chemical-company",
-"https://sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act",
-"https://scholarship.law.bu.edu/faculty_scholarship/3658",
-"https://secure.actblue.com/donate/cvct",
-"https://store.clairevaldezforcongress.com/",
-"https://threads.com/@claireforny",
-"https://tiktok.com/@claireforny",
-"https://usdn.org/resilience-hubs.html",
-"https://washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature",
-"https://x.com/claireforny",
-"https://youtube.com/@claireforny"
+{
+"text": "8% nationwide by 2030",
+"href": "https://www.cmu.edu/work-that-matters/energy-innovation/data-center-growth-could-increase-electricity-bills"
+},
+{
+"text": "About",
+"href": "https://clairevaldezforcongress.com/#about"
+},
+{
+"text": "Asunción Valdivia Heat Illness Prevention Act",
+"href": "https://www.congress.gov/bill/119th-congress/senate-bill/2298/text"
+},
+{
+"text": "Clean energy standards have been highly effective job creators for U.S. workers",
+"href": "https://cleanjobsamerica.e2.org/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cvct"
+},
+{
+"text": "Endorsements",
+"href": "https://clairevaldezforcongress.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://clairevaldezforcongress.com/es/issues/memo/climate"
+},
+{
+"text": "Issues",
+"href": "https://clairevaldezforcongress.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://clairevaldezforcongress.com/jobs"
+},
+{
+"text": "Merch",
+"href": "https://store.clairevaldezforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://clairevaldezforcongress.com/volunteer"
+},
+{
+"text": "[image: Built by Forge.coop]",
+"href": "https://www.forge.coop"
+},
+{
+"text": "[image: Claire Valdez for Congress]",
+"href": "https://clairevaldezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/claireforqueens.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/claireforqueens/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/claireforny"
+},
+{
+"text": "been",
+"href": "https://projects.thecity.nyc/hazard-nyc-wolff-alport-chemical-company/"
+},
+{
+"text": "beyond what individual building owners can bear",
+"href": "https://climateandcommunity.org/research/the-case-for-city-led-housing-retrofits-in-new-york-city/"
+},
+{
+"text": "building models of climate risk",
+"href": "https://scholarship.law.bu.edu/faculty_scholarship/3658/"
+},
+{
+"text": "closing climate research centers",
+"href": "https://www.nytimes.com/2026/03/13/climate/ncar-breakup-plan-nasa-noaa.html"
+},
+{
+"text": "comprehensive Occupational Safety and Health Administration (OSHA) heat standard in 2024",
+"href": "https://www.osha.gov/news/newsreleases/national/20240830"
+},
+{
+"text": "cosponsored a similar moratorium",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A10141"
+},
+{
+"text": "dangerously high",
+"href": "https://www.washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature/"
+},
+{
+"text": "delayed",
+"href": "https://gothamist.com/news/epa-cleanup-brooklyn-toxic-newtown-creek-superfund-site-delayed-until-2032"
+},
+{
+"text": "federal jobs guarantee",
+"href": "https://clairevaldezforcongress.com/issues/memo/unionpower#:~:text=Fight%20for%20a,wages%20and%20conditions."
+},
+{
+"text": "heat-related deaths",
+"href": "https://a816-dohbesp.nyc.gov/IndicatorPublic/data-features/heat-report/"
+},
+{
+"text": "increase the risk of coastal flooding",
+"href": "https://experience.arcgis.com/experience/0d0603210dde48ad92b77d0efd14eff6/"
+},
+{
+"text": "info@clairevaldezforcongress.com",
+"href": "mailto:info@clairevaldezforcongress.com"
+},
+{
+"text": "keep them based in NYC",
+"href": "https://www.ifpte98.org/"
+},
+{
+"text": "never received congressional funding",
+"href": "https://grist.org/politics/american-climate-corps-biden-jobs-program-trump/"
+},
+{
+"text": "overwhelmingly prefer policies",
+"href": "https://www.dataforprogress.org/blog/2025/6/17/voters-are-concerned-about-rising-costs-and-think-climate-change-will-financially-affect-them"
+},
+{
+"text": "press@clairevaldezforcongress.com",
+"href": "mailto:press@clairevaldezforcongress.com"
+},
+{
+"text": "proposed bill from Senator Sanders and Representative Ocasio-Cortez",
+"href": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/"
+},
+{
+"text": "purchasing or directly building “off grid” power",
+"href": "https://www.nytimes.com/interactive/2026/03/18/business/energy-environment/data-center-energy-gas-generators.html"
+},
+{
+"text": "resilience hubs",
+"href": "https://www.usdn.org/resilience-hubs.html"
+},
+{
+"text": "slow progress",
+"href": "https://hellgatenyc.com/morning-spew-bushwick-inlet-park-when/"
+},
+{
+"text": "up to 200% or more",
+"href": "https://www.bloomberg.com/graphics/2025-ai-data-centers-electricity-prices/"
+},
+{
+"text": "very high risk of extreme heat",
+"href": "https://a816-dohbesp.nyc.gov/IndicatorPublic/data-features/hvi/"
+},
+{
+"text": "what should be publicly owned",
+"href": "https://climateandcommunity.org/research/who-owns-power-in-the-energy-transition/#:~:text=The%20trends%20we%20explored%20in,system%20could%20deliver%20that%20future."
+}
 ]

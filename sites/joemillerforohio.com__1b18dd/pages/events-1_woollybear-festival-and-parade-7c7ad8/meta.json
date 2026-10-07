@@ -1,7 +1,12 @@
 {
  "description": "Parade starts at 1:30pm",
  "final_url": "https://www.joemillerforohio.com/events-1/woollybear-festival-and-parade",
- "paid_for_by": "Paid for by Friends of Joe Miller \u00a92021 FRIENDS OF JOE MILLER PRIVACY POLICY",
- "title": "Woollybear Festival and Parade \u2014 Joe Miller For Ohio",
- "years_mentioned": []
+ "fingerprint": "abc8a060b2bf85126026f1b935103ae789802017",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY",
+ "title": "Woollybear Festival and Parade — Joe Miller For Ohio",
+ "years_mentioned": [
+  "1973",
+  "2026"
+ ]
 }

@@ -1,26 +1,98 @@
 [
-"https://1199seiu.org/",
-"https://bronxdems.org/",
-"https://cwad1.org/",
-"https://dc37.net/",
-"https://designedtorun.com/",
-"https://facebook.com/galvarezny",
-"https://georgealvarez.org/",
-"https://georgealvarez.org/about",
-"https://georgealvarez.org/contact",
-"https://georgealvarez.org/events",
-"https://georgealvarez.org/issues",
-"https://georgealvarez.org/news",
-"https://georgealvarez.org/volunteer",
-"https://instagram.com/galvareznyc",
-"https://mightyunion.org/",
-"https://nycdistrictcouncil.com/",
-"https://plannedparenthoodaction.org/planned-parenthood-empire-state-votes",
-"https://sdnyc.org/",
-"https://secure.actblue.com/donate/galvareznyc",
-"https://seiu32bj.org/",
-"https://twu.org/",
-"https://twu106.org/",
-"https://unitehere100.org/",
-"https://x.com/galvareznyc"
+{
+"text": "About",
+"href": "https://www.georgealvarez.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.georgealvarez.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "Events",
+"href": "https://www.georgealvarez.org/events"
+},
+{
+"text": "Issues",
+"href": "https://www.georgealvarez.org/issues"
+},
+{
+"text": "News",
+"href": "https://www.georgealvarez.org/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.georgealvarez.org/volunteer"
+},
+{
+"text": "[image: 32BJ SEIU]32BJ SEIU",
+"href": "https://www.seiu32bj.org/"
+},
+{
+"text": "[image: Bronx Democratic Party]Bronx Democratic Party",
+"href": "https://www.bronxdems.org/"
+},
+{
+"text": "[image: CWA District 1]CWA District 1",
+"href": "https://cwad1.org/"
+},
+{
+"text": "[image: District Council 37]District Council 37",
+"href": "https://www.dc37.net/"
+},
+{
+"text": "[image: George Alvarez | New York State Assemblymember | District 78]",
+"href": "https://www.georgealvarez.org/"
+},
+{
+"text": "[image: Planned Parenthood Empire State Votes]Planned Parenthood Empire State Votes",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-empire-state-votes"
+},
+{
+"text": "[image: SSEU LOCAL 371]SSEU LOCAL 371",
+"href": "https://mightyunion.org/"
+},
+{
+"text": "[image: Stonewall Democrats of NYC]Stonewall Democrats of NYC",
+"href": "https://sdnyc.org/"
+},
+{
+"text": "[image: The New York City District Council of Carpenters] The New York City District Council of Carpenters",
+"href": "https://nycdistrictcouncil.com/"
+},
+{
+"text": "[image: Transport Workers Union Local 106]Transport Workers Union Local 106",
+"href": "https://twu106.org/"
+},
+{
+"text": "[image: Transport Workers Union of America AFL-CIO]Transport Workers Union of America AFL-CIO",
+"href": "https://www.twu.org/"
+},
+{
+"text": "[image: UNITE HERE LOCAL 100]UNITE HERELOCAL 100",
+"href": "https://www.unitehere100.org/"
+},
+{
+"text": "[image: United Healthcare Workers East]United Healthcare Workers East",
+"href": "https://www.1199seiu.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/galvarezny"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/galvareznyc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/galvareznyc"
+}
 ]

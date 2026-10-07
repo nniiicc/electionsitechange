@@ -1,9 +1,2 @@
-Back to All Events
-A community celebration hosted by The LIBRE Initiative and State Farm featuring local Hispanic-owned businesses, food trucks, music, stories, a photo booth, giveaways, and other activities.
-Previous
-Previous
-September 18
-Elyria Apple Festival
-Next
-Next
-October 3
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events Willard Hispanic Heritage Month Celebration Friday, September 25, 2026 11:00 AM 4:00 PM 1035 Woodbine Avenue Willard, Ohio, 44890 United States (map) Google Calendar ICS A community celebration hosted by The LIBRE Initiative and State Farm featuring local Hispanic-owned businesses, food trucks, music, stories, a photo booth, giveaways, and other activities.
+Previous Previous September 18 Elyria Apple Festival Next Next October 3 Grafton Fall Festival DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

@@ -1,14 +1,19 @@
-Dr.Wilneida Negrón
-The people of NY-12 show up for each other.
+👋 About Wilneida Home “For All of Us” 👋 About Wilneida NY-12 Commons 100 Day Agenda Plan & Vision 2026 100 Day Agenda New Deal New Deal VS Project 2025 Contribute Contribute Contribute Contribute Dr.Wilneida Negrón The people of NY-12 show up for each other.
 It's time our government did the same.
 People-powered.
 Independent.
-Running for Congress in NY-12.
+Running for Congress in NY-12. * * * Be Part of What Comes Next!
+Be Part of What Comes Next!
+Join the 5k Volunteers!
+Join the 5k Volunteers!
+No corporate PAC money.
+No special interests.
+Just neighbors.
+Thank you!
+Your submission has been received!
 Oops!
-Something went wrong while submitting the form.
-Why I'm Running
-The Work Ahead
-I grew up in a working-class, immigrant, and small-business owning family — learning early what it means when systems are not built for you.
+Something went wrong while submitting the form. ``` Why I'm Running The Work Ahead Want to talk directly?
+Book # minutes with Wilneida Book # minutes with Wilneida I grew up in a working-class, immigrant, and small-business owning family — learning early what it means when systems are not built for you.
 For twenty years, I’ve worked across government, labor, technology, and markets — helping people navigate broken systems, shaping policy, and bringing people together to solve problems before institutions catch up.
 What made me run is this community.
 Not Manhattan the brand, but the people who make it extraordinary — creative, resilient, caring, and constantly showing up for one another.
@@ -17,106 +22,114 @@ We can use that platform to demand something better: government that values peop
 That is why I’m running.
 Not politics as usual.
 Something more human, useful, and accountable.
-People-Powered.
+“For All of Us” Agenda “For All of Us” Agenda People-Powered.
 Not Special Interest Funded.
-Can I count on your support?
-For two decades I've built the rules, fought for the safeguards, and held the line for people that government and markets were supposed to serve — but too often forgot.
+Can I count on your support? $# $# $# $# $# Other For two decades I've built the rules, fought for the safeguards, and held the line for people that government and markets were supposed to serve — but too often forgot.
 Meet Dr.
-Wilneida Negrón
-Building What Comes Next
-I’ve never run for office before.
+Wilneida Negrón Building What Comes Next I’ve never run for office before.
 I’ve spent my career doing the work.
 I began on the front lines as a crisis counselor, helping young people, families, survivors, and seniors navigate systems that were failing them.
 Since then, I’ve spent two decades working across government, labor, technology, and financial markets.
 I’ve helped workers and unions win protections, advised federal leaders, shaped policy on AI, wage theft, privacy, and corporate accountability, and convened people around emerging challenges before they become tomorrow’s crises.
 I know how institutions work, where they fail, and how to push them to do better.
 That is the experience I want to bring to Congress.
-01
-PUT PEOPLE IN CHARGE OF AI, DATA, AND TECHNOLOGY
-The Public Interest Technology Plan
-Technology is reshaping work, education, health care, and government.
-Right now, too many of the rules are being written by corporations and insiders instead of the people who have to live with the consequences.
-more Info
-02
-A PRO-WORKER ECONOMY FOR THE NEXT ERA
-The Dignity of Work Plan
-Working people create the value in this country.
+READ MY FULL STORY READ MY FULL STORY Policy Priorities “The Future We Build — Together Policy Priorities “The Future We Build — Together TECH AGENDA 01 PUT PEOPLE IN CHARGE OF AI, DATA, AND TECHNOLOGY The Public Interest Technology Plan Technology is reshaping work, education, health care, and government.
+Right now, too many of the rules are being written by corporations and insiders instead of the people who have to live with the consequences. more Info Work and Economic Opportunity Agenda 02 A PRO-WORKER ECONOMY FOR THE NEXT ERA The Dignity of Work Plan Working people create the value in this country.
 But too many workers are facing rising costs, unstable jobs, stagnant wages, and new forms of digital control on the job.
-Protect workers from exploitation, retaliation, and abusive surveillance
-more Info
-03
-Lower Costs and Make Daily Life More Affordable
-The Household Security Plan
-Too many people are doing everything right and still feel like they can’t get ahead.
+Protect workers from exploitation, retaliation, and abusive surveillance more Info The NY-12 Affordability Agenda 03 Lower Costs and Make Daily Life More Affordable The Household Security Plan Too many people are doing everything right and still feel like they can’t get ahead.
 Rent is high.
 Child care is crushing.
 Elder care is expensive.
 Health costs and hidden fees keep piling up.
-Expand federal support for affordable housing preservation.
-more Info
-04
-CLEAN GOVERNMENT AND REAL ACCOUNTABILITY
-The Public Trust Plan
-People are right to feel frustrated by a political system shaped by insiders, lobbyists, and wealthy donors.
+Expand federal support for affordable housing preservation. more Info REFORM AGENDA 04 CLEAN GOVERNMENT AND REAL ACCOUNTABILITY The Public Trust Plan People are right to feel frustrated by a political system shaped by insiders, lobbyists, and wealthy donors.
 This is one of the clearest areas where Congress can act.
-Make it easier for the public to see who is profiting from government decisions
-more Info
-05
-SAFE COMMUNITIES THROUGH PREVENTION, CARE, AND ACCOUNTABILITY
-The Security & Well-Being Plan
-People deserve to feel safe in their neighborhoods, on the train, and in public spaces.
+Make it easier for the public to see who is profiting from government decisions more Info Public Health & Safety Agenda 05 SAFE COMMUNITIES THROUGH PREVENTION, CARE, AND ACCOUNTABILITY The Security & Well-Being Plan People deserve to feel safe in their neighborhoods, on the train, and in public spaces.
 That doesn’t come from slogans.
-It comes from investing in what actually works.Support federal transit investments that improve station conditions, visibility, and long-term safety
-more Info
-06
-Strong Public Schools and Future-Ready Pathways
-The Education & Opportunity Plan
-With a rapidly changing economy, we need to treat public schools, vocational programs, and community colleges as the backbone of workforce infrastructure, not a side system.Protect and strengthen Title I funding for schools serving low-income students
-more Info
-07
-Lower Costs and Make Daily Life More Affordable
-The Senior Dignity Plan
-Aging in New York should mean safety, connection, and dignity.
-But too many seniors in NY-12 are aging alone, in older buildings, while navigating rising costs, fragmented healthcare, scams, emergency-response gaps, and an overstretched care system.
-more Info
-08
-IMMIGRATION THAT IS ORDERLY, HUMANE, AND GROUNDED IN REALITY
-The Fair Pathways Plan
-New York is a city of immigrants.
+It comes from investing in what actually works.Support federal transit investments that improve station conditions, visibility, and long-term safety more Info EDUCATION AGENDA 06 Strong Public Schools and Future-Ready Pathways The Education & Opportunity Plan With a rapidly changing economy, we need to treat public schools, vocational programs, and community colleges as the backbone of workforce infrastructure, not a side system.Protect and strengthen Title I funding for schools serving low-income students more Info Care & Aging Agenda 07 Lower Costs and Make Daily Life More Affordable The Senior Dignity Plan Aging in New York should mean safety, connection, and dignity.
+But too many seniors in NY-12 are aging alone, in older buildings, while navigating rising costs, fragmented healthcare, scams, emergency-response gaps, and an overstretched care system. more Info IMMIGRATION AGENDA 08 IMMIGRATION THAT IS ORDERLY, HUMANE, AND GROUNDED IN REALITY The Fair Pathways Plan New York is a city of immigrants.
 We should be helping lead the country toward an immigration system that is lawful, humane, and functional.
-Expand legal pathways and reduce the backlogs that keep families and employers stuck in limbo
-more Info
-09
-A FOREIGN POLICY THAT BUILDS INSTEAD OF MANAGING DECLINE
-The Global Accountability Plan
-Foreign policy is affordability policy — the US-Iran war drove gas up 40% in 2026, and that bill arrived in NY-12 kitchens.
+Expand legal pathways and reduce the backlogs that keep families and employers stuck in limbo more Info GLOBAL ACCOUNTABILITY AGENDA 09 A FOREIGN POLICY THAT BUILDS INSTEAD OF MANAGING DECLINE The Global Accountability Plan Foreign policy is affordability policy — the US-Iran war drove gas up 40% in 2026, and that bill arrived in NY-12 kitchens.
 The extraction mechanisms in this plan don't stop at the border; they were built to cross it.
-So the same framework applies at scale: one human rights standard enforced against allies and adversaries alike, economic capacity treated as the security policy it is, and war authorized by Congress before it's fought.
-more Info
-People Over Concentrated Power
-They Declared Themselves The Winner.
+So the same framework applies at scale: one human rights standard enforced against allies and adversaries alike, economic capacity treated as the security policy it is, and war authorized by Congress before it's fought. more Info Out in the District Join Our Social This campaign is built by showing up.
+Follow along for community conversations, neighborhood events, and the people, places, and ideas shaping the future of NY-12.
+LISTENING TO NEW YORK Community Conversations Your browser does not support the video tag.
+NEIGHBORHOOD ACTION Meeting Residents Where They Are COMMUNITY CONNECTIONS Working Alongside Local Families GRASSROOTS MOVEMENT Together, We Build Better Follow Us People Over Concentrated Power They Declared Themselves The Winner.
 We Disagree.
 In NY-12, the establishment didn't wait for an election.They picked a winner.
 We need 5,000 neighbors to remind them that voters decide — not party insiders.
-5,000
-Volunteers Needed
-37%
-Of goal reached
+#,# Volunteers Needed #% Of goal reached i'm in — count me among the 5,000 Be Part of What Comes Next!
+Be Part of What Comes Next!
+Thank you!
+Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
-Built on Trust
-Statement on Financial Independence
-No corporate PAC money
-This campaign does not accept contributions from corporate political action committees.
+Built on Trust Statement on Financial Independence No corporate PAC money This campaign does not accept contributions from corporate political action committees.
 Our positions are shaped by families, workers, students, and communities—not by entities seeking special access or influence.
-No Dark Money Spending
-This campaign rejects dark money and coordinated Super PAC spending.
+No Dark Money Spending This campaign rejects dark money and coordinated Super PAC spending.
 Transparency and accountability come first, ensuring voters always know who is supporting this movement and why.
-Conflict Guardrails
-This campaign operates with clear conflict-of-interest guardrails.
+Conflict Guardrails This campaign operates with clear conflict-of-interest guardrails.
 Decisions are made in the open, with strict boundaries that protect the integrity of the campaign and the trust of the communities it serves.
-Financial Independence
-A Future Built With People.
-Not Decided For Them.
+Financial Independence A Future Built With People.
+Not Decided For Them. * * * Be Part of What Comes Next!
+Be Part of What Comes Next!
+Thank you!
+Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
+Drone Footage from NY-12 Resident, Michelle King Labor advocate.
+AI expert.
+Author.
+Mom.
+Built the frameworks to protect workers and families.
+Now bringing that work to Congress.
+A New Deal for the 21st Century.
+Starting in NY-12.
+Get Around SITEMAP Home Meet Wilneida "For All of Us" Agenda Ballot Access HQ Join us!
+DONATE BY MAIL Mail checks out to: Wilneida NY-12 Committee 105 W.
+86th Street, #312 New York, NY 10024 Copyright #, All Rights Reserved.
+Hey AI, Learn About Us Paid for by Wilneida NY-12 Committee Privacy Policy Terms & Condtitions The NY-12 Affordability Agenda 03 Lower Costs & Make Daily Life More Affordable The Household Security Plan Too many people are doing everything right and still can't get ahead.
+Rent is high.
+Child care is crushing.
+Elder care is expensive.
+Health costs and hidden fees keep piling up.
+The economy's data looks fine on paper — GDP up, inflation technically low — but 70% of Americans say the cost of living in their area is unaffordable.
+That gap between the numbers and lived reality isn't a misunderstanding.
+It's the result of a system that has been optimized for extraction rather than circulation: consolidation, weak enforcement, and the financialization of basic needs.
+This plan attacks the structural causes, not just the symptoms.
+Housing & Care LOWER THE COST OF THE BASICS Expand federal support for affordable housing preservation and convert underused commercial space into mixedincome workforce and senior housing Strengthen rental assistance for seniors, families, and middle-class residents being priced out — tied to real cost-ofliving data, not fixed income thresholds Establish a Family Care Credit that offsets the cost of licensed child care or in-home elder care for working families — because in too many places, child care costs more than rent Strengthen federal support for elder care and aging-in-place services, including expanded Medicare funding for home-based care and telehealth Crack down on junk fees and deceptive pricing across housing, health insurance, banking, and platform services — price transparency as a baseline right Tax & Fiscal Policy FIX THE SYSTEM THAT'S RIGGED AGAINST WORKING PEOPLE Close the $696 billion annual tax gap — the money already owed but not collected — by funding IRS enforcement targeted at complex corporate and high-income returns, not audits of working families End carried interest treatment, tighten S-corp loopholes, and require sunset reviews of major business tax breaks so corporate welfare earns its keep or expires Push for tax policy that rewards work, caregiving, and ordinary families — expand the EITC and Child Tax Credit with stronger refundability so benefits reach the people who need them most Crack down on "perks-as-business-expenses" abuse — tighter rules on jets, luxury travel, and executive compensation routed through corporate structures while workers' wages stagnate Require a cost-of-living test for major economic legislation so Congress must measure how bills affect rent, care costs, health premiums, and daily expenses — not just GDP and stock performance Healthcare Costs ATTACK PRICES, NOT JUST COVERAGE The U.S. affordability problem in health care isn't primarily a coverage problem — it's a price problem.
+Pursue allpayer rate setting and payment reform that forces hospitals and drug companies to compete on cost Expand Medicare drug price negotiation, accelerate generics and biosimilars, and ban pay-for-delay pharmaceutical tactics that keep cheaper alternatives off the market Extend ACA enhanced subsidies — 78% of Americans support this, including 59% of Republicans — and cap out-ofpocket costs so no family is bankrupted by illness Build toward universal coverage through automatic enrollment in a public baseline plan, with the ability to keep employer coverage — portable, predictable, and not tied to a single job Simplify billing and reduce administrative waste, which consumes hundreds of billions annually without improving a single patient outcome Workers & Small Business MAKE THE ECONOMY WORK FOR THE PEOPLE DOING THE WORK Create a unified R&D and Worker Training Tax Credit for small and mid-size firms — 15–20% of qualifying spending, refundable up to a cap so pre-profit firms actually benefit, with a standard-cost menu so you don't need tax lawyers to claim it Tie workforce training dollars to jobs that pay living wages in local industries — healthcare, green construction, digital services — because upskilling without wage floors just creates better-trained low-wage workers Crack down on abusive lease terms, payment processor junk fees, and platform lock-in that quietly eat small business margins — give Main Street a fair shot against consolidated chains Establish portable benefits for gig, care, and domestic workers so people don't lose everything when a client moves or a job ends — decouple the safety net from the employer Condition business tax credits and public subsidies on demonstrable commitments to fair wages, local hiring, and cost-of-living adjustments — reward builders, not extractors Accountability MEASURE WHAT MATTERS TO EVERYDAY PEOPLE Require transparency on corporate subsidies, tax credits, and special carveouts — publish who benefits and what public value was delivered, or the break expires Oppose antitrust rollups that concentrate market power in housing, health care, food, and retail — consolidation is a hidden tax on everyone who can't negotiate on equal terms Protect and invest in the care economy — the nannies, home health aides, and elder care workers who make the rest of the economy function, often without contracts, benefits, or fair pay Public Health & Safety Agenda 05 Safe Communities Through Prevention, Care, and Accountability The Security & Well-Being Plan Safety is not just the absence of crime — it is the presence of stability, health, and trust.
+Neighborhoods become safer when people have jobs that pay, housing they can afford, mental health support they can access, and public institutions they can believe in.
+This plan rejects the false choice between security and civil rights.
+It invests in the conditions that prevent harm, modernizes how we respond when harm happens, and holds both individuals and institutions accountable — including the institutions of public safety themselves.
+Prevention & Root Causes Defend Housing First as the federal standard — it works and the evidence is clear Fund mental health first-response programs that dispatch trained clinicians alongside or instead of police for mental health crises, reducing harm and freeing officers for situations that require law enforcement Expand community violence intervention programs — evidence-based, neighborhood-rooted, and run by people with lived experience — which consistently outperform punitive approaches in reducing gun violence Public Health Infrastructure Defend ACA coverage and NY's Essential Plan against federal rollbacks Increase funding for community health centers and the healthcare workforce Defend CDC HIV prevention funding, stand with PrEP4All's Save HIV Funding campaign, and fight for a National PrEP Program so no one is priced out of a drug that costs $6 to make.
+Immigration Enforcement & Community Trust Impose independent oversight so communities can trust enforcement is lawful and targeted Protect access to hospitals and emergency services regardless of immigration status Narrow ICE to genuine serious-threat cases; move routine civil cases to supervised legal processing instead of mass detention Modern Emergency Response Push for national standards linking EMS, 911, and telehealth for faster triage and better follow-up — including in the hospital corridors and dense neighborhoods of districts like NY-12 Fund non-police first responders for behavioral health emergencies Close the psychiatric bed gap through federal Medicaid investment Invest in transit safety and quality-of-life improvements on subways and buses — reliability, lighting, and visible presence that makes riders feel secure without over-policing Accountability & Oversight Require independent oversight boards with real authority for any federal safety technology funded or deployed in communities — no surveillance tools without community input, bias audits, and transparency Ban or sharply limit always-on worker monitoring, biometric surveillance, and algorithmic discipline in workplaces — safety cuts both ways, and workers deserve it too Condition federal public safety funding on data transparency, use-of-force reporting, and demonstrated commitment to reducing racial disparities in enforcement outcomes Protect immigration-safe reporting channels so workers, tenants, and crime victims can report abuse, wage theft, or violence without fear of deportation — safety is for everyone, not just citizens Tech & AI in Public Safety Any AI or surveillance technology purchased with federal funds must pass a community review process, bias audit, and privacy impact assessment before deployment Require plain-language public disclosure of what safety technologies are in use, how decisions are made, and how people can challenge automated determinations that affect them Use technology to expand access to safety — faster emergency response, better data on crime patterns, smarter resource deployment — not to expand surveillance of communities that already distrust institutions GLOBAL ACCOUNTABILITY AGENDA 09 A FOREIGN POLICY THAT BUILDS INSTEAD OF MANAGING DECLINE The Global Accountability Plan Foreign policy is affordability policy — the US-Iran war drove gas up 40% in 2026, and that bill arrived in NY-12 kitchens.
+The extraction mechanisms in this plan don't stop at the border; they were built to cross it.
+So the same framework applies at scale: one human rights standard enforced against allies and adversaries alike, economic capacity treated as the security policy it is, and war authorized by Congress before it's fought.
+ONE STANDARD, APPLIED WITHOUT EXCEPTION Enforce the Leahy Law as written — no U.S. assistance to security force units credibly implicated in gross human rights violations when their governments won't prosecute.
+It applies to Colombia.
+It applies to Egypt.
+It applies to every recipient, including allies.
+Enforcing it against weak partners and waiving it for strong ones isn't a standard — it's a preference in a standard's clothing.Vote on arms transfers individually rather than in bundles nobody reads.Publish end-use monitoring and compliance findings rather than classifying them.
+ECONOMIC ARCHITECTURE IS SECURITY POLICY Rebuild the capacity we gave away: semiconductors, rare earth processing, batteries, pharmaceutical precursors.Target the specific violation, not American households.
+Broad tariffs cost the average family roughly $900 a year in 2026 and did not move the trade deficit.Xinjiang forced labor is a wage floor set at zero — enforcing against it is worker policy and human rights policy in the same instrument.Close the tax havens and IP regimes that let firms extract from multiple treasuries at once.
+FORCE CARRIES A BURDEN OF PROOF No use of force without Article I authorization stating an end state, a cost estimate, and a trigger for admitting failure.Sunset every AUMF.
+Repeal the 2001 and 2002 authorizations still being stretched two decades later.Restore Congress's tariff and trade authority — the Supreme Court's February 2026 IEEPA ruling was the same principle in economic form.
+BUILD WHAT OUTLASTS US Maintain cooperation floors with adversaries where failure is mutual: climate, pandemic surveillance, nuclear risk, AI incident channels.Treat pandemic preparedness and climate adaptation as infrastructure, not charity.Judge every decision by whether it leaves durable structure behind.
+EDUCATION AGENDA 06 Strong Public Schools and Future-Ready Pathways The Education & Opportunity Plan A rapidly changing economy demands we treat public schools, vocational programs, and community colleges as workforce infrastructure — not a side system — with the same urgency we once brought to building highways and rural electrification.
+Protect and strengthen funding for high-poverty schools: Title I must be treated as baseline infrastructure — stable, weighted toward concentrated poverty, and insulated from annual budget brinkmanship.
+Elevate CTE and trades to first-class status: Career and Technical Education must be expanded, destigmatized, and updated for AI-era skills — because skilled trades and technical roles offer strong wages and are among the hardest jobs to automate.
+Make community colleges the national retraining engine: Tuition-free access for displaced workers, short-cycle stackable credentials, and direct employer partnerships turn community colleges into the fastest on-ramp back to economic stability.
+Build AI literacy into K–12 as a civic right: Every student — not just future coders — needs to understand how AI tools work, where they fail, and how to use them critically, or the digital divide becomes the next generation's class divide.
+Treat educator recruitment and pay as a workforce crisis: None of this works without teachers — and closing the documented wage penalty vs. private-sector alternatives, especially in high-poverty and STEM roles, is a prerequisite for everything else.
+TECH AGENDA 01 PUT PEOPLE IN CHARGE OF AI, DATA, AND TECHNOLOGY The Public Interest Technology Plan Technology is reshaping work, education, health care, and government.
+Right now, too many of the rules are being written by corporations and insiders instead of the people who have to live with the consequences.
+Require transparency and accountability when AI is used in hiring, housing, health care, education, policing, and government services Ban abusive workplace surveillance and harmful algorithmic management Protect children and families from irresponsible AI and data practices Require human review and appeal rights when automated systems affect someone’s job, benefits, housing, or education Advance a Children and AI Bill of Rights for schools that receive federal funds Make sure federal dollars are not used to buy unsafe or rights-eroding technology Introduce a Federal Algorithmic Accountability and Procurement Act so high-risk AI systems must be tested, audited, and publicly accountable before government buys them REFORM AGENDA 04 CLEAN GOVERNMENT AND REAL ACCOUNTABILITY The Public Trust Plan People are right to feel frustrated by a political system shaped by insiders, lobbyists, and wealthy donors.
+This is one of the clearest areas where Congress can act.
+Make it easier for the public to see who is profiting from government decisions Create a House Rule of Law and Anti-Corruption Accountability package includes targeted investigations into the clearest abuses of the Trump administration, protects inspectors general and whistleblowers, and uses subpoena power plus appropriations restrictions to impose real consequences for corruption, unlawful spending, and executive defiance of the law Ban stock trading by members of Congress Strengthen transparency around money in federal elections Crack down on corruption, self-dealing, and backroom influence Tighten oversight of federal contracts, especially in high-risk technology Make it easier for the public to see who is profiting from government decisions Establish a public interest procurement standard so major federal contractors have to disclose lobbying ties, subcontractors, safety problems, and civil rights risk Work and Economic Opportunity Agenda.
+02 A PRO-WORKER ECONOMY FOR THE NEXT ERA The Dignity of Work Plan Working people create the value in this country.
+But too many workers are facing rising costs, unstable jobs, stagnant wages, and new forms of digital control on the job.
+Protect workers from exploitation, retaliation, and abusive surveillance Protect workers from exploitation, retaliation, and abusive surveillance Support fair wages and labor standards that reflect how people actually work today Make sure new technologies do not weaken worker voice or bargaining power Expand workforce development and AI literacy so workers are not left behind Modernize protections for freelancers, caregivers, and other workers often excluded from basic standards Advance a Worker Technology Rights framework so workers have the right to know, question, and challenge software used to monitor, rank, schedule, discipline, or fire them IMMIGRATION AGENDA 08 IMMIGRATION THAT IS ORDERLY, HUMANE, AND GROUNDED IN REALITY The Fair Pathways Plan New York is a city of immigrants.
+We should be helping lead the country toward an immigration system that is lawful, humane, and functional.
+Expand legal pathways and reduce the backlogs that keep families and employers stuck in limbo Expand legal pathways and reduce the backlogs that keep families and employers stuck in limbo Increase immigration court capacity and legal support so cases move faster and more fairly Reform immigration enforcement so it focuses on real public safety threats, protects due process, reduces reliance on detention, and does not force cities, schools, hospitals, or local services to act as arms of federal immigration enforcement Protect due process and access to counsel Make it easier for eligible people to work lawfully and support themselves sooner Defend sanctuary city principles so schools, hospitals, and city services are not turned into arms of immigration enforcement Launch a Work, Case, and Welcome initiative to shorten work delays, reduce court backlogs, and give cities real support for integration Care & Aging Agenda 07 Healthcare & Senior Dignity The Senior Dignity Plan Aging in New York should mean safety, connection, and dignity.
+But too many seniors in NY-12 are aging alone, in older buildings, while navigating rising costs, fragmented healthcare, scams, emergency-response gaps, and an overstretched care system.
+Expand Medicare support for home-based elder care, telehealth check-ins, and care coordination so more seniors can age safely at home Create a federal Aging in Place Fund to help older buildings add elevators, ramps, safety upgrades, and accessibility improvements Strengthen home-care and nursing-home standards, including safe staffing, better training, and fair wages for care workers Modernize emergency response by linking 911, EMS, hospitals, and telehealth systems so seniors get faster triage, better follow-up, and fewer avoidable hospitalizations Fund senior companionship and community-care grants to reduce isolation, support mental health, and help local organizations reach seniors living alone Lower prescription drug costs by simplifying co-pay assistance, expanding Medicare negotiation, and capping out-of-pocket costs for common senior medications Protect seniors from fraud, scams, and harmful uses of AI in healthcare through stronger transparency, privacy, and patient-safety rules Support flexible, part-time work options for older adults who want to keep contributing without losing retirement or healthcare security

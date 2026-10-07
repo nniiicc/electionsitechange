@@ -1,26 +1,110 @@
 [
-"https://dipietroforyou.com/",
-"https://dipietroforyou.com/about",
-"https://dipietroforyou.com/blog",
-"https://dipietroforyou.com/blog/categories/culture-and-opinions",
-"https://dipietroforyou.com/blog/categories/getting-started",
-"https://dipietroforyou.com/blog/categories/latest-political-news",
-"https://dipietroforyou.com/blog/categories/vaccines-health",
-"https://dipietroforyou.com/blog/categories/your-community",
-"https://dipietroforyou.com/buygiftcards",
-"https://dipietroforyou.com/issues",
-"https://dipietroforyou.com/leadership-partner",
-"https://dipietroforyou.com/post/dipietro-condemns-doccs-memo-as-political-cover-for-prison-violence",
-"https://dipietroforyou.com/post/dipietro-supports-usda-s-move-to-secure-american-farmland",
-"https://dipietroforyou.com/post/sanctity-of-life-hochul-s-record-proves-she-s-no-guardian-of-freedom",
-"https://dipietroforyou.com/post/where-is-justice",
-"https://dipietroforyou.com/profile/daviddipietroforyou/profile",
-"https://dipietroforyou.com/silentmajorityspeakspodcast",
-"https://dipietroforyou.com/thedaviddipietroshow",
-"https://dipietroforyou.com/theshows",
-"https://dipietroforyou.com/volunteer",
-"https://facebook.com/profile.php?id=100057753832479",
-"https://secure.winred.com/dipietro-for-you/donate-to-dave",
-"https://twitter.com/DiPietroForYou",
-"https://youtube.com/@assemblymandipietro"
+{
+"text": "ABOUT DAVE",
+"href": "https://www.dipietroforyou.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.dipietroforyou.com/blog"
+},
+{
+"text": "Culture and Opinions",
+"href": "https://www.dipietroforyou.com/blog/categories/culture-and-opinions"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/dipietro-for-you/donate-to-dave"
+},
+{
+"text": "David Dipietro",
+"href": "https://www.dipietroforyou.com/profile/daviddipietroforyou/profile"
+},
+{
+"text": "DiPietro Condemns DOCCS Memo as Political Cover for Prison Violence",
+"href": "https://www.dipietroforyou.com/post/dipietro-condemns-doccs-memo-as-political-cover-for-prison-violence"
+},
+{
+"text": "DiPietro Supports USDA’s Move to Secure American Farmland",
+"href": "https://www.dipietroforyou.com/post/dipietro-supports-usda-s-move-to-secure-american-farmland"
+},
+{
+"text": "Events",
+"href": "https://www.dipietroforyou.com/blog/categories/getting-started"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.dipietroforyou.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.dipietroforyou.com"
+},
+{
+"text": "LATEST NEWS",
+"href": "https://www.dipietroforyou.com/blog"
+},
+{
+"text": "Latest Political News",
+"href": "https://www.dipietroforyou.com/blog/categories/latest-political-news"
+},
+{
+"text": "OPERATION GIFT CERTIFICATE",
+"href": "https://www.dipietroforyou.com/buygiftcards"
+},
+{
+"text": "POWERFUL PARTNERSHIP",
+"href": "https://www.dipietroforyou.com/leadership-partner"
+},
+{
+"text": "Sanctity of Life? Hochul's Record Proves She's No Guardian of Freedom",
+"href": "https://www.dipietroforyou.com/post/sanctity-of-life-hochul-s-record-proves-she-s-no-guardian-of-freedom"
+},
+{
+"text": "Silent Majority Speaks Podcast",
+"href": "https://www.dipietroforyou.com/silentmajorityspeakspodcast"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.dipietroforyou.com/issues"
+},
+{
+"text": "THE SHOWS",
+"href": "https://www.dipietroforyou.com/theshows"
+},
+{
+"text": "The David DiPietro Show",
+"href": "https://www.dipietroforyou.com/thedaviddipietroshow"
+},
+{
+"text": "Vaccines & Health",
+"href": "https://www.dipietroforyou.com/blog/categories/vaccines-health"
+},
+{
+"text": "Where Is Justice?",
+"href": "https://www.dipietroforyou.com/post/where-is-justice"
+},
+{
+"text": "Your Community",
+"href": "https://www.dipietroforyou.com/blog/categories/your-community"
+},
+{
+"text": "[image: DiPietro For You Logo]",
+"href": "https://www.dipietroforyou.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100057753832479"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/DiPietroForYou"
+},
+{
+"text": "[image: Writer: David Dipietro]",
+"href": "https://www.dipietroforyou.com/profile/daviddipietroforyou/profile"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@assemblymandipietro"
+}
 ]

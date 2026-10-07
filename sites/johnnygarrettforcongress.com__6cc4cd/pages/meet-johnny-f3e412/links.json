@@ -1,13 +1,54 @@
 [
-"https://facebook.com/johnnycgarrett",
-"https://instagram.com/johnnycgarrett45?hl=en",
-"https://johnnygarrettforcongress.com/",
-"https://johnnygarrettforcongress.com/issues",
-"https://johnnygarrettforcongress.com/meet-johnny",
-"https://johnnygarrettforcongress.com/news",
-"https://johnnygarrettforcongress.com/privacy-policy",
-"https://secure.winred.com/johnny-garrett-for-congress/website",
-"https://vimeo.com/1208827909",
-"https://x.com/JohnnyGarrett",
-"https://youtube.com/@johnnycgarrett"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/johnny-garrett-for-congress/website"
+},
+{
+"text": "Home",
+"href": "https://johnnygarrettforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://johnnygarrettforcongress.com/issues/"
+},
+{
+"text": "Meet Johnny",
+"href": "https://johnnygarrettforcongress.com/meet-johnny/"
+},
+{
+"text": "News",
+"href": "https://johnnygarrettforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://johnnygarrettforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: Johnny Garrett for Congress]",
+"href": "https://johnnygarrettforcongress.com/"
+},
+{
+"text": "[image: TV Starter Site]",
+"href": "https://johnnygarrettforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/1208827909"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/johnnycgarrett"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/johnnycgarrett45/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@johnnycgarrett"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JohnnyGarrett"
+}
 ]

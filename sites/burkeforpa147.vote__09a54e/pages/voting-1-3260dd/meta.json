@@ -1,7 +1,9 @@
 {
  "description": "Find essential voter resources for PA 147, including voter registration, polling places, and election dates.",
  "final_url": "https://burkeforpa147.vote/voting-1",
- "paid_for_by": "Paid for by Friends of Margaret Burke This website uses cookies",
+ "fingerprint": "173f62dab306b871d4b683ef9858222e70343317",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Margaret Burke",
  "title": "Voting",
  "years_mentioned": []
 }

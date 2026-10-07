@@ -1,34 +1,8 @@
-District 20 · Reference
-Maps &
-Representation
-Resources
-Senate District 20 spans five counties across two distinct regions.
+Skip to content Annette McRae for Utah Senate District 20 About Annette McRae Annette McRae for Utah Senate District 20 BackRunner District 20 Donate Economic Identity Get Involved Legacy Landscapes Legacy Landscapes Beautification MAPS & REPRESENTATION RESOURCES Rail and Freight Support the Campaign The Plan TRANSPORTATION & CORRIDORS Utah Senate District 20 (SD20) – Wasatch Back & Uintah Basin Overview Water Systems Why Are Fuel Prices So High When We Have So Much Oil in Utah?
+Why Forward Home About ← Home · The Plan · About · Contribute District 20 · Reference Maps & Representation Resources Senate District 20 spans five counties across two distinct regions.
 Here’s the geography, infrastructure, water systems, and official resources for the district.
-District 20
-Summit
-Wasatch
-Duchesne
-Uintah
-Daggett
-“`
-Infrastructure Corridors
-- US-40 — primary east-west freight and commuter corridor
-- US-191 — Uintah Basin north-south connection
-- US-189 — Heber Valley to Provo Canyon corridor
-- Rail and freight movement routes — Uinta Railway in development
-- Regional airport access points across the district
-Water Systems Overview
-- Strawberry Reservoir — critical storage for Wasatch Front and Back
-- Starvation Reservoir — Duchesne County water storage
-- Green River system — flows through Daggett County
-- Colorado River compact — shapes long-term water rights across the district
-- Judge and Spiro tunnels — municipal water reliability infrastructure
-Official Representation Resources
-“`
-“`
-The Campaign Frame
-District 20 shares the same snowpack, water cycle, power grid, and freight corridors — from the Wasatch Back to the Uintah Basin.
-“`
-Want to Know More
-About District 20?
+District 20 Summit Wasatch Duchesne Uintah Daggett “` Official District Map Senate District 20 View Official Utah Legislative District Map → Infrastructure Corridors US-40 — primary east-west freight and commuter corridor US-191 — Uintah Basin north-south connection US-189 — Heber Valley to Provo Canyon corridor Rail and freight movement routes — Uinta Railway in development Regional airport access points across the district Water Systems Overview Strawberry Reservoir — critical storage for Wasatch Front and Back Starvation Reservoir — Duchesne County water storage Green River system — flows through Daggett County Colorado River compact — shapes long-term water rights across the district Judge and Spiro tunnels — municipal water reliability infrastructure Official Representation Resources Utah Legislature — Find My Representative Utah Division of Water Resources Utah State Parks Bureau of Reclamation Dinosaur National Monument “` “` The Campaign Frame District 20 shares the same snowpack, water cycle, power grid, and freight corridors — from the Wasatch Back to the Uintah Basin.
+District 20 At a Glance ◆ 5 counties — Summit, Wasatch, Duchesne, Uintah, Daggett ◆ 2 distinct regions — mountain communities + Uintah Basin ◆ Shared snowpack and water cycle ◆ Energy production + recreation economy ◆ 2034 Winter Olympics — infrastructure deadline The Full Plan 💧 Water First ⚡ Energy & Infrastructure 🚂 Rail & Transportation 🏠 Housing + Water 🌾 Agriculture 🚨 Public Safety “` Want to Know More About District 20?
 See how the district’s systems connect across the full plan.
+See the Full Plan Get Involved Contribute Annette McRae Utah Senate District 20 · Forward Party · 2026 Paid for by Annette McRae for Utah Senate District 20 mcraeforsenate.com Annette McRae for Utah Senate District 20 Forward Party candidate for Utah Senate District 20 — water, energy, housing, and transportation for Summit, Wasatch, Duchesne, Uintah, and Daggett counties.
+About Team History Careers Privacy Privacy Policy Terms and Conditions Contact Us Social Facebook Instagram Twitter/X Designed with WordPress Follow the Campaign @mcraeforsenate McRaeForSenate @mcraeforsenate LinkedIn @mommacrae

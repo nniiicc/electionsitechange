@@ -1,11 +1,3 @@
-Join Perry and Liz Warren of a Holiday Reception
-December 19, 2025 from 4-6 pm
-Trattoria Rosa Bianca, 94 Main Street, Yardley
-Back to All Events
-Join Perry and Liz Warren of a Holiday Reception
-December 19, 2025 from 4-6 pm
-Trattoria Rosa Bianca, 94 Main Street, Yardley
-Earlier Event: July 20
-Come Celebrate National Ice Cream Day with Perry and Liz
-Later Event: August 15
-Perry Warren's Annual Ice Cream Social
+Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Back to All Events Perry Warren's Holiday Reception Friday, December 19, 2025 4:00 PM 4:00 PM 16:00 16:00 Google Calendar ICS Join Perry and Liz Warren of a Holiday Reception December 19, 2025 from 4-6 pm Trattoria Rosa Bianca, 94 Main Street, Yardley Register Here Earlier Event: July 20 Come Celebrate National Ice Cream Day with Perry and Liz Later Event: August 15 Perry Warren's Annual Ice Cream Social Back to Top perry@perrywarren.com Paid for by Perry Warren for State Representative

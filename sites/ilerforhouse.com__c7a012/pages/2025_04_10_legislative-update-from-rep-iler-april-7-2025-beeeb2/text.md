@@ -1,6 +1,5 @@
-Legislative Update from Rep.
-Iler — April 7, 2025
-Last week at the North Carolina General Assembly we saw many more bills filed, going through committees, and coming to the House floor.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Legislative Update from Rep.
+Iler — April 7, 2025 By Frank Iler | April 10, 2025 Last week at the North Carolina General Assembly we saw many more bills filed, going through committees, and coming to the House floor.
 The Senate also had their committees operating in high gear.
 Bills coming to the House floor included wide-ranging subjects, from private property rights and removing squatters from private property, to elk hunting and our own Rice Festival.
 House Bill 15 – Support Private Property Rights states that the inclusion of property on a DOT planning map is not a material fact to be disclosed in a real estate transaction.
@@ -23,3 +22,5 @@ Visitors from home are always a highlight of my time in Raleigh.
 My Legislative Assistant, Carla, and I were happy to have Justin Whiteside and his 9-year-old daughter visit.
 Justin is our Ocean Isle Beach Town Administrator and his daughter’s field trip had been cancelled.
 She got a personal tour and got to visit the House and Senate floors, as well as have lunch in the members’ cafeteria.
+Posted in Legislative Updates © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

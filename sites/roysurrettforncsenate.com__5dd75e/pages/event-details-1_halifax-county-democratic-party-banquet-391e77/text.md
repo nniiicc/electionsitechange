@@ -1,5 +1,1 @@
-Thu, Jul 23
-717 American Legion Rd
-Meet Roy Surrett, Candidate for NC Senate District 2
-Jul 23, 2026, 6:30 PM – 8:00 PM
-717 American Legion Rd, 717 American Legion Rd, Roanoke Rapids, NC 27870, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Halifax County Democratic Party Banquet Thu, Jul 23 | 717 American Legion Rd Meet Roy Surrett, Candidate for NC Senate District 2 Time & Location Jul 23, 2026, 6:30 PM – 8:00 PM 717 American Legion Rd, 717 American Legion Rd, Roanoke Rapids, NC 27870, USA Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

@@ -1,17 +1,94 @@
 [
-"https://chris4colorado.com/",
-"https://chris4colorado.com/about",
-"https://chris4colorado.com/contact",
-"https://chris4colorado.com/endorsements",
-"https://chris4colorado.com/events",
-"https://chris4colorado.com/gallery",
-"https://chris4colorado.com/issues/cleaner-more-sustainable-communities",
-"https://chris4colorado.com/issues/health-care",
-"https://chris4colorado.com/issues/issue-1",
-"https://chris4colorado.com/issues/issue-2",
-"https://chris4colorado.com/issues/public-safety",
-"https://chris4colorado.com/issues/re-invigorated-public-education",
-"https://chris4colorado.com/volunteer",
-"https://designedtorun.com/",
-"https://secure.actblue.com/donate/chris4colorado"
+{
+"text": "About",
+"href": "https://www.chris4colorado.com/about"
+},
+{
+"text": "Affordable communities",
+"href": "https://www.chris4colorado.com/issues/issue-1"
+},
+{
+"text": "Cleaner, more sustainable communities",
+"href": "https://www.chris4colorado.com/issues/cleaner-more-sustainable-communities"
+},
+{
+"text": "Contact",
+"href": "https://www.chris4colorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chris4colorado"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/chris4colorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chris4colorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chris4colorado.com/events"
+},
+{
+"text": "Fair pay for fair work",
+"href": "https://www.chris4colorado.com/issues/issue-2"
+},
+{
+"text": "Gallery",
+"href": "https://www.chris4colorado.com/gallery"
+},
+{
+"text": "Health Care Access for Everyone",
+"href": "https://www.chris4colorado.com/issues/health-care"
+},
+{
+"text": "Home",
+"href": "https://www.chris4colorado.com/"
+},
+{
+"text": "Public Education: Cultivating Young Minds",
+"href": "https://www.chris4colorado.com/issues/re-invigorated-public-education"
+},
+{
+"text": "Public Safety and Resiliency",
+"href": "https://www.chris4colorado.com/issues/public-safety"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View more",
+"href": "https://www.chris4colorado.com/issues/cleaner-more-sustainable-communities"
+},
+{
+"text": "View more",
+"href": "https://www.chris4colorado.com/issues/health-care"
+},
+{
+"text": "View more",
+"href": "https://www.chris4colorado.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.chris4colorado.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.chris4colorado.com/issues/public-safety"
+},
+{
+"text": "View more",
+"href": "https://www.chris4colorado.com/issues/re-invigorated-public-education"
+},
+{
+"text": "Volunteer",
+"href": "https://www.chris4colorado.com/volunteer"
+},
+{
+"text": "[image: Chris4Colorado]",
+"href": "https://www.chris4colorado.com/"
+}
 ]

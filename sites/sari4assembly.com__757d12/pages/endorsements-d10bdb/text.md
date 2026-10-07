@@ -1,29 +1,4 @@
-top of page
-ENDORSEMENTS
-ORGANIZATIONS
-- Santa Barbara County Republican Party
-- San Luis Obispo County Republican Party
-- California Republican Party (CAGOP)
-- Reform California
-- GOP Union Caucas
-- Biblical Voter California
-STATE AND FEDERAL ELECTED OFFICIAL
-- Andrea Seastrand, Former CA Congresswomen
-- Carl DeMaio, CA Assembly District 75
-- Mike Morrell, Former CA Senate District 40
-- Alexandra M.
-Macedo, CA Assembly District 33
-LOCAL ELECTED OFFICIALS
-- Bob Nelson, Santa Barbara County Supervisor District 4
-- Roy Reed, Planning Commission- Santa Barbara County Supervisor District 4
-- Debbie Arnold, Former San Luis Obispo County Supervisor District 5
-- April Huckabey, Orcutt Union School District Board Trustee Area 2
-- LeAnne Woolever, Lompoc Unified School District Trustee Area 5
-- Jim Thomas, Former Santa Barbara County Sheriff – Fire Chief
-OTHER ELECTED OFFICIALS
-- Mari Barke, President, Orange County Board of Education
-PAID FOR BY DOMINGUES FOR ASSEMBLY #37
-FPPC campaign # 1483603
-1130 E.
-Clark Ave, Suite 150 - 193, Orcutt, CA 93455
-bottom of page
+top of page Sari Domingues HOME MEET SARI ABOUT ENDORSEMENTS PLATFORM PLATFORM/SPANISH GET INVOLVED More Use tab to navigate through the menu items.
+DONATE ENDORSEMENTS ORGANIZATIONS Santa Barbara County Republican Party San Luis Obispo County Republican Party California Republican Party (CAGOP) Reform California GOP Union Caucas Biblical Voter California STATE AND FEDERAL ELECTED OFFICIAL Andrea Seastrand, Former CA Congresswomen Carl DeMaio, CA Assembly District 75 Mike Morrell, Former CA Senate District 40 Alexandra M.
+Macedo, CA Assembly District 33 LOCAL ELECTED OFFICIALS Bob Nelson, Santa Barbara County Supervisor District 4 Roy Reed, Planning Commission- Santa Barbara County Supervisor District 4 Debbie Arnold, Former San Luis Obispo County Supervisor District 5 April Huckabey, Orcutt Union School District Board Trustee Area 2 LeAnne Woolever, Lompoc Unified School District Trustee Area 5 Jim Thomas, Former Santa Barbara County Sheriff – Fire Chief OTHER ELECTED OFFICIALS Mari Barke, President, Orange County Board of Education ​ PAID FOR BY DOMINGUES FOR ASSEMBLY #37 FPPC campaign # 1483603 1130 E.
+Clark Ave, Suite 150 - 193, Orcutt, CA 93455 ​ bottom of page

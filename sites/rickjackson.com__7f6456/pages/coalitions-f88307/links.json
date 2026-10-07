@@ -1,31 +1,122 @@
 [
-"http://facebook.com/RickJacksonGA",
-"http://instagram.com/rickjacksonga",
-"https://rickjackson.com/",
-"https://rickjackson.com/about",
-"https://rickjackson.com/action-plan",
-"https://rickjackson.com/coalitions",
-"https://rickjackson.com/conservationists-coalition?coalition=Conservationists",
-"https://rickjackson.com/contact",
-"https://rickjackson.com/democrats-coalition?coalition=Democrats",
-"https://rickjackson.com/educators-coalition?coalition=Educators",
-"https://rickjackson.com/faith-leaders-coalition?coalition=FaithLeaders",
-"https://rickjackson.com/farmers-coalition?coalition=Farmers",
-"https://rickjackson.com/first-responders-coalition?coalition=FirstResponders",
-"https://rickjackson.com/foster-kids-coalition?coalition=FosterKids",
-"https://rickjackson.com/healthcare-workers-coalition?coalition=Healthcare",
-"https://rickjackson.com/lawyers-coalition?coalition=Lawyers",
-"https://rickjackson.com/press",
-"https://rickjackson.com/privacy-policy",
-"https://rickjackson.com/small-business-owners-coalition?coalition=SBO",
-"https://rickjackson.com/sportsmen-coalition?coalition=Sportsmen",
-"https://rickjackson.com/terms-and-conditions",
-"https://rickjackson.com/veterans-coalition?coalition=Veterans",
-"https://rickjackson.com/volunteer",
-"https://rickjackson.com/womens-coalition?coalition=Women",
-"https://rickjackson.com/young-professionals-coalition?coalition=YoungProfessionals",
-"https://secure.psqimpact.com/donate/jackson-for-governor/donate",
-"https://tiktok.com/@rickjacksonga",
-"https://x.com/RickJacksonGA",
-"https://youtube.com/@RickJacksonGA"
+{
+"text": "About Rick",
+"href": "https://rickjackson.com/about/"
+},
+{
+"text": "Action Plan",
+"href": "https://rickjackson.com/action-plan/"
+},
+{
+"text": "Coalitions",
+"href": "https://rickjackson.com/coalitions/"
+},
+{
+"text": "Contact",
+"href": "https://rickjackson.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.psqimpact.com/donate/jackson-for-governor/donate"
+},
+{
+"text": "Follow",
+"href": "http://facebook.com/RickJacksonGA"
+},
+{
+"text": "Follow",
+"href": "http://instagram.com/rickjacksonga"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@rickjacksonga"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@RickJacksonGA"
+},
+{
+"text": "Follow",
+"href": "https://x.com/RickJacksonGA"
+},
+{
+"text": "Home",
+"href": "https://rickjackson.com/"
+},
+{
+"text": "Press",
+"href": "https://rickjackson.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rickjackson.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://rickjackson.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://rickjackson.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/conservationists-coalition/?coalition=Conservationists"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/democrats-coalition/?coalition=Democrats"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/educators-coalition/?coalition=Educators"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/faith-leaders-coalition/?coalition=FaithLeaders"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/farmers-coalition/?coalition=Farmers"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/first-responders-coalition/?coalition=FirstResponders"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/foster-kids-coalition/?coalition=FosterKids"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/healthcare-workers-coalition/?coalition=Healthcare"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/lawyers-coalition/?coalition=Lawyers"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/small-business-owners-coalition/?coalition=SBO"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/sportsmen-coalition/?coalition=Sportsmen"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/veterans-coalition/?coalition=Veterans"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/womens-coalition/?coalition=Women"
+},
+{
+"text": "[image]",
+"href": "https://rickjackson.com/young-professionals-coalition/?coalition=YoungProfessionals"
+}
 ]

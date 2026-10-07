@@ -1,5 +1,4 @@
-Patrick Stickney announces run for State Representative
-Patrick Stickney, advocate for housing and affordability, policy professional, and dedicated Tacoma resident, has announced his run for Washington State Representative to represent Legislative District 29.
+0 Skip to Content Home Meet Patrick Endorsements Priorities Contact Gallery Donate Open Menu Close Menu Home Meet Patrick Endorsements Priorities Contact Gallery Donate Open Menu Close Menu Home Meet Patrick Endorsements Priorities Contact Gallery Donate Donate Patrick Stickney announces run for State Representative Patrick Stickney, advocate for housing and affordability, policy professional, and dedicated Tacoma resident, has announced his run for Washington State Representative to represent Legislative District 29.
 Stickney is running for the legislature with three main priorities: finding solutions to rising costs, building and incentivizing affordable housing, and bolstering worker and civil rights to better protect Washingtonians.
 Growing up in multigenerational and low income households shaped Stickney’s values.
 He worked his first job in high school at a grocery store, learning the value of hard work and the strength of unions to keep workers safe.
@@ -16,3 +15,4 @@ Questions?
 Comments?
 Interested in volunteering?
 Send us a message and we will get back to you!
+Paid for by People for Patrick Stickney PO Box 7437, Tacoma, WA 98417 info@votestickney.com

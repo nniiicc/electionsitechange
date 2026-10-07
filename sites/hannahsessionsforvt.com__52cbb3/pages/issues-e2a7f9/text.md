@@ -1,6 +1,4 @@
-Issues
-Affordability
-As a parent and first-generation farmer and business owner for twenty-five years I know it is hard to get ahead in Vermont today.
+Skip to content Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources DONATE DONATE DONATE DONATE DONATE DONATE Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources Issues Affordability As a parent and first-generation farmer and business owner for twenty-five years I know it is hard to get ahead in Vermont today.
 The rising cost of land and real estate, medical insurance and health care, groceries, and an increasingly heavy tax burden are putting real pressure on Vermonters.
 My two grown kids are wondering how they’ll be able to afford a life here, and I hear that same concern from families across our district.
 I believe the state must practice strong fiscal responsibility while also ensuring we have the revenue needed to support essential services.
@@ -8,8 +6,7 @@ That's why I support exploring a cap on residential property tax rates while inc
 At the same time, I'm committed to exploring additional ways to reduce the tax burden on everyday Vermonters primarily through growing our tax base via increased housing and finding savings by covering more preventative health care.
 We have the solutions to make life more accessible here in Vermont.
 I am committed to listening and gathering feedback from folks on how we can make Vermont better and more fiscally sustainable, and also working regionally with other states to help move our affordability goals.
-Healthcare
-Perhaps the biggest burden to Vermonters as well as state and local budgets is health care.
+Healthcare Perhaps the biggest burden to Vermonters as well as state and local budgets is health care.
 Medical debt is the leading cause of bankruptcy in Vermont, as it is in the rest of the country.
 When Vermonters can’t get access to safe housing and reliable primary care, it puts extra strain on our emergency health care system, which is more expensive.
 I am interested in supportive, wrap-around programs that lessen our reliance on emergency care.
@@ -19,8 +16,7 @@ Some towns aren't waiting, and have hired their own town nurse to provide care t
 We are a small, rural state with an aging population.
 We need to approach this problem determined to think in new ways and ask questions in order to provide quality and accessible health care to every Vermonter regardless of where they live, their income, age or employment status.
 Let's look to others and collaborate with our neighboring states to tackle this huge challenge.
-Education
-I am a proud product of public education here in Vermont, attending Cornwall Elementary School and Middlebury Union Junior and High School (Go, Tigers!).
+Education I am a proud product of public education here in Vermont, attending Cornwall Elementary School and Middlebury Union Junior and High School (Go, Tigers!).
 My kids went through public schools here as well, Leicester Elementary and then Otter Valley Middle and High School (Go, Otters!).
 I come from a long line of educators.
 I served over a dozen years on my local and district school boards, including serving on the Act 46 Committee where we successfully formed the first joint merger school district.
@@ -28,8 +24,7 @@ I learned a lot while sitting in on those conversations: namely, kids need acces
 Vermont can support larger and smaller schools, and deliver a high quality education.
 We need to have teachers and principals, those with hands-on experience, at the table when these decisions are being considered.
 Lastly, in the case of a closure the state needs to support towns in repurposing our school buildings in positive ways that maintain their existence as cultural hubs in another form!
-Agriculture & the Environment
-I believe that good farmers are excellent land stewards, and that agriculture and forward-thinking care for the environment must go hand in hand.
+Agriculture & the Environment I believe that good farmers are excellent land stewards, and that agriculture and forward-thinking care for the environment must go hand in hand.
 With Act 59 Vermont has set a goal to preserve 30% of Vermont by 2030 and 50% by 2050.
 I have served as the farmer representative on the 30 by 30 Technical Advisory Committee as we navigate the consequences of this bill on today’s and future generations.
 I have also served on the Board of the Vermont Land Trust since 2019.
@@ -39,8 +34,7 @@ There are currently no full-time farmers in the State Senate.
 I intend to change that and represent agriculture and working lands as an important economic and cultural part of Vermont!
 My experience as a first-generation dairy farmer and cheesemaker will bring an honest and real-world perspective to these discussions.
 I will draw on my many agricultural connections in Addison County to bring the farmers' voice to Montpelier.
-Housing
-Increasing our housing stock needs to be a top priority!
+Housing Increasing our housing stock needs to be a top priority!
 As an employer I am directly affected by the shortage of housing as it relates to our ability to fill our jobs and attract long-term workers.
 Housing and jobs go hand in hand!
 I also support initiatives like the 2023 HOME Act (S.100) that combats high housing costs by encouraging duplexes and relaxing some zoning regulations in areas of high density housing like village centers- thereby increasing housing stock while maintaining our working lands, keeping downtowns vibrant and fighting sprawl.
@@ -48,8 +42,7 @@ I served on the Board of the Vermont Housing and Conservation Board from 2015-20
 I want to carry that collaborative spirit with me to Montpelier to get results for all Vermonters.
 We can find creative ways to house people while maintaining the unique and self-reliant vibe of Vermont that we know and love.
 Let's get to it!
-Civil Rights & Democracy
-I am running to defend the constitution, and the civil rights of all living in our great state.
+Civil Rights & Democracy I am running to defend the constitution, and the civil rights of all living in our great state.
 I support Legislative efforts such as S.R 21 and Proposition 3 and 4 that support and confirm our civil rights.
 Our civil rights include reproductive and health care rights for all.
 Today our state legislatures are the line of defense against horrific attacks on these rights at the federal level.
@@ -58,3 +51,5 @@ Democracy works best with involvement so I will make every effort to get testimo
 Politicians are public servants.
 I will also always ask "who is not being represented in Montpelier?" and explore ways to create a more equitable system so their voices can be heard.
 Good policy requires many perspectives!
+Get involved Get updates, take action, and help build a better Vermont; join us today.
+LEARN MORE Facebook Instagram Menu Home Issues Updates Endorsements Get Involved Host A Lawn Sign Voter Resources Contact PO Box 107, Middlebury, VT 05753 [email protected] Copyright © # Hannah Sessions for VT Senate Paid for by Hannah Sessions for VT Senate Web Design & Development by Independent Digital Marketing Scroll to Top

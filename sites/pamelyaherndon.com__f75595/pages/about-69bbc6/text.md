@@ -1,4 +1,4 @@
-Pamelya Herndon has spent her career fighting for fairness, access to justice, and opportunity for New Mexicans.
+EARLY VOTING BEGINS OCTOBER 6 → Home About Endorsements Record & Priorites Key Legislation Events Connect Donate Contact More Home About Endorsements Record & Priorites Key Legislation Events Connect Donate Contact DONATE Home About Endorsements Record & Priorites Key Legislation Events Connect Donate Contact DONATE About Pamelya Pamelya Herndon has spent her career fighting for fairness, access to justice, and opportunity for New Mexicans.
 After decades of work as an attorney, public servant, and nonprofit leader, she ran for the New Mexico Legislature to ensure that families in Albuquerque have strong representation in Santa Fe — especially on issues like healthcare access, education, and economic opportunity.
 She was born in a small Texas town, and went to one of the nation’s top Historically Black Colleges and Universities, Howard University.
 She earned her law degree at the University of Texas.
@@ -17,4 +17,8 @@ Additionally, she helped train paralegals and legal secretaries at Brookline Col
 Herndon was elected as a member of the New Mexico Electoral College in 2008, and is a member of the Albuquerque chapter of the American Association of University Women, and Alpha Kappa Alpha Sorority, Incorporated.
 She has served on the boards of Emerge New Mexico, the African American Performing Arts Center Foundation, the Con Alma Health Foundation, and the United States Eagle Federal Credit Union.
 She is licensed to practice law in the states of Colorado and New Mexico, and before the United States Supreme Court.
+Paid for and authorized by Herndon For NM, Bronwen Murray, Treasurer.
+PO Box 27724, Albuquerque, NM 87125.
+(505) 570-5714‬ Copyright © #-# Herndon For NM - All Rights Reserved.
 Support Pamelya's work.
+Donate

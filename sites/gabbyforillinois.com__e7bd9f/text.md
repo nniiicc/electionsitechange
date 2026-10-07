@@ -1,14 +1,13 @@
+0 Skip to Content Home About Plan Our Choice 97th District Endorse Gabby Join Us Donate Open Menu Close Menu Home About Plan Our Choice 97th District Endorse Gabby Join Us Donate Open Menu Close Menu Home About Plan Our Choice 97th District Endorse Gabby Join Us Donate Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address JOIN OUR MOM Thank you!
 I'm Gabby Shanahan, and I’m running to bring integrity back to the office, so families like mine and yours can flourish.
 My promise is simple: Lead with integrity.
 Deliver results.
 Politicians get rich while we struggle with rising prices and crushing property taxes.
 Haven’t you had enough?
 I’ll always be on your side.
-My Plan is SIMPLE and HONEST:
-- Lower prices and the cost of living
-- Create REAL opportunities for our children
-- Honest leadership that drives our community forward
-As a graduate of Plainfield Central, I know this community, and that's why Marty and I chose to plant our roots here.
+My Plan is SIMPLE and HONEST: Lower prices and the cost of living Create REAL opportunities for our children Honest leadership that drives our community forward As a graduate of Plainfield Central, I know this community, and that's why Marty and I chose to plant our roots here.
 But increased taxes and cost of living have me working multiple jobs to make ends meet.
 I see the resilience of this community and know firsthand the strength we all have to get through hard times.
 My life has always been about service: at school, in non-profits, in the community, and as a mom.
@@ -29,3 +28,7 @@ I’m a mom, a neighbor, and a fighter for working families.
 I’m running for State Representative because we deserve better.
 We deserve leaders who work for us, with honesty and integrity, on real plans to lower costs and build a future where families can thrive.
 So I am asking you to vote for Integrity First, because then lower prices, affordable living, and a bright future will follow.
+Together let’s elect a representative with the integrity and grit that matches yours.
+Privacy Policy Privacy Policy & Terms of Use Privacy Policy and Terms of Use Copyright # Team Shanahan.
+All Rights Reserved.
+Paid for by Team Shanahan

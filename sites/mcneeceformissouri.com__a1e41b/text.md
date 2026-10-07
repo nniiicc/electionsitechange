@@ -1,10 +1,6 @@
-THE WAY FORWARD
-Hi, I’m Judy McNeece
-I’m running to be your State Senator in District 12 because I believe that Missouri needs a new Way Forward.
+0 Skip to Content MCNEECE FOR MISSOURI About Judy Priorities Support Contact DONATE Open Menu Close Menu MCNEECE FOR MISSOURI About Judy Priorities Support Contact DONATE Open Menu Close Menu About Judy Priorities Support Contact DONATE THE WAY FORWARD Hi, I’m Judy McNeece I’m running to be your State Senator in District 12 because I believe that Missouri needs a new Way Forward.
 One in which the needs of the many are prioritized, rather than interests of those in power.
-Missouri belongs to its people, not beholden to the whims of its politicians
-I believe this work starts with deeply listening to one another
-The Way Forward is to elect regular people, not politicians, who will listen and work for the people of Missouri.
+Missouri belongs to its people, not beholden to the whims of its politicians I believe this work starts with deeply listening to one another The Way Forward is to elect regular people, not politicians, who will listen and work for the people of Missouri.
 Like most Missourians, I feel that the State Legislature does not see or hear me.
 The concerns we Missourians share are not the ones that the legislature believes are worthy of their attention.
 Healthcare, public education, and the cost of living in rural Missouri are all issues being ignored by those who were elected to represent us.
@@ -25,17 +21,14 @@ Politics as usual is failing us and we need a new way forward.
 I am not a politician.
 I’m a grandmother.
 I am not wealthy.
-I live on a fixed income
-I BELIEVE
-- The Missouri Constitution guarantees free public education, but the state has repeatedly broken this promise.
-When schools don’t get the money they are promised, children suffer, teachers and staff suffer, and communities suffer, leading to their decline
-- Rural hospitals are on the brink of closing.
+I live on a fixed income “ Do we have enough resolve in our heart to act courageously, without giving up — ever — trusting our fellow citizens to join with us in our determined pursuit of a living democracy? ” — Terry Tempest Williams I BELIEVE PUBLIC EDUCATION BUILDS STRONG COMMUNITIES The Missouri Constitution guarantees free public education, but the state has repeatedly broken this promise.
+When schools don’t get the money they are promised, children suffer, teachers and staff suffer, and communities suffer, leading to their decline OUR HEALTHCARE SYSTEM IS FAILING RURAL MISSOURIANS Rural hospitals are on the brink of closing.
 Almost all of the counties in District 12 are considered maternity deserts.
 People are losing their healthcare due to medicaid cuts and rising premiums.
-- No one should have to choose between putting food on their table, paying for increases in utilities, affording rent/mortgage payments, rising costs of healthcare and prescriptions, or putting gas in their tank to get to work.
+EVERYDAY LIFE HAS GOTTEN TOO EXPENSIVE No one should have to choose between putting food on their table, paying for increases in utilities, affording rent/mortgage payments, rising costs of healthcare and prescriptions, or putting gas in their tank to get to work.
 We cannot continue like this, we need a new way forward.
-- We need to come together for change.
+WE CARE ABOUT THE SAME THINGS We need to come together for change.
 As your State Senator, your concerns are my concerns.
 I will work for you.
 Together we can build a new way forward.
-McNeece for Missouri is proud to be endorsed by:
+Donate to Help Build the Way Forward McNeece for Missouri is proud to be endorsed by: MCNEECE FOR MISSOURI mcneeceformissouri@gmail.com Paid for by the Committee to Elect Judy McNeece, Judy McNeece, Treasurer

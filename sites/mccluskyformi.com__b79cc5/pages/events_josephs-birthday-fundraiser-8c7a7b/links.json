@@ -1,23 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Joseph%27s+Birthday+Fundraiser&dates=20260629T220000Z%2F20260630T000000Z&location=248+S+River+Ave%2C+Holland%2C+MI",
-"http://maps.google.com/?q=248+S+River+Ave+Holland%2C+MI",
-"https://facebook.com/profile.php?id=61577899130009",
-"https://instagram.com/mccluskyformi",
-"https://mccluskyformi.com/",
-"https://mccluskyformi.com/about-joseph",
-"https://mccluskyformi.com/cart",
-"https://mccluskyformi.com/contact",
-"https://mccluskyformi.com/endorsements",
-"https://mccluskyformi.com/espanol",
-"https://mccluskyformi.com/events",
-"https://mccluskyformi.com/events/canvass-launch-with-state-rep-joey-andrews",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-joey-andrews",
-"https://mccluskyformi.com/events/josephs-birthday-fundraiser?format=ical",
-"https://mccluskyformi.com/media",
-"https://mccluskyformi.com/platform",
-"https://mccluskyformi.com/privacy-policy",
-"https://secure.actblue.com/donate/mccluskybirthday",
-"https://secure.actblue.com/donate/mccluskywebsite",
-"https://tiktok.com/@mccluskyformi86?_r=1&_t=ZT-95c6RvlFJi1",
-"https://x.com/mccluskyformi"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=248+s+river+ave+holland%2C+mi+"
+},
+{
+"text": "0",
+"href": "https://www.mccluskyformi.com/cart"
+},
+{
+"text": "About Joseph",
+"href": "https://www.mccluskyformi.com/about-joseph"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.mccluskyformi.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.mccluskyformi.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mccluskywebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mccluskyformi.com/endorsements"
+},
+{
+"text": "Espanol",
+"href": "https://www.mccluskyformi.com/espanol"
+},
+{
+"text": "Events",
+"href": "https://www.mccluskyformi.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joseph%27s+Birthday+Fundraiser&dates=20260629T220000Z%2F20260630T000000Z&location=248+S+River+Ave%2C+Holland%2C+MI"
+},
+{
+"text": "Home",
+"href": "https://www.mccluskyformi.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/josephs-birthday-fundraiser?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.mccluskyformi.com/media"
+},
+{
+"text": "Next Next July 25 Door Knocking with Joseph McClusky and Joey Andrews",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-and-joey-andrews"
+},
+{
+"text": "Platform",
+"href": "https://www.mccluskyformi.com/platform"
+},
+{
+"text": "Previous Previous June 27 Canvass Launch with State Rep. Joey Andrews and joseph mcclusky",
+"href": "https://www.mccluskyformi.com/events/canvass-launch-with-state-rep-joey-andrews"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mccluskyformi.com/privacy-policy"
+},
+{
+"text": "[image: Joseph McClusky for State Representative]",
+"href": "https://www.mccluskyformi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577899130009"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mccluskyformi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@mccluskyformi86?_r=1&_t=ZT-95c6RvlFJi1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mccluskyformi"
+},
+{
+"text": "https://secure.actblue.com/donate/mccluskybirthday",
+"href": "https://www.mccluskyformi.com/events/%C2%A0https:/secure.actblue.com/donate/mccluskybirthday"
+}
 ]

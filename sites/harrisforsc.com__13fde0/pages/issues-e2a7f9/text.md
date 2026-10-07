@@ -1,6 +1,4 @@
-Issues
-Here is where I stand on the issues facing South Carolina:
-Citizens First: Your voice matters.
+0 Skip to Content Home About Issues Record Survey Contact CONTRIBUTE Open Menu Close Menu Home About Issues Record Survey Contact CONTRIBUTE Open Menu Close Menu Home About Issues Record Survey Contact CONTRIBUTE Issues Here is where I stand on the issues facing South Carolina: Citizens First: Your voice matters.
 The Columbia swamp should not be able to buy your voice with their boatloads of lobbyist cash.
 I am beholden to no one but you.
 The baseless attacks and garbage politics demonstrate how important it is that we keep fighting for real reform in our state.
@@ -43,4 +41,4 @@ Property Owner Rights: I will defend your rights as a property owner from govern
 A Courageous GOP: It's time we start walking the walk instead of just talking the talk.
 My record speaks for itself.
 That is why the Columbia swamp has targeted me.
-I can't be bought.
+I can't be bought. © # HarrisForSC.com | Paid for by Harris for House Privacy Policy Terms and Conditions

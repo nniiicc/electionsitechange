@@ -1,18 +1,70 @@
 [
-"http://fec.gov/",
-"http://youtube.com/channel/UCuAwpQBO9iLG7c8MQuQLgWg?themeRefresh=1",
-"https://aboutads.info/choices",
-"https://bsky.app/profile/kellymorrisonmn.bsky.social",
-"https://facebook.com/KellyMorrisonforCongress",
-"https://instagram.com/kellymorrisonforcongress",
-"https://kellyforcongress.org/",
-"https://kellyforcongress.org/about",
-"https://kellyforcongress.org/cart",
-"https://kellyforcongress.org/get-involved",
-"https://kellyforcongress.org/info@kellyforcongress",
-"https://kellyforcongress.org/media",
-"https://kellyforcongress.org/privacy-policy",
-"https://secure.actblue.com/donate/morrison-web",
-"https://tiktok.com/@repkellymorrison",
-"https://x.com/Morrison4MN"
+{
+"text": "0",
+"href": "https://www.kellyforcongress.org/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/morrison-web"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kellyforcongress.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.kellyforcongress.org/"
+},
+{
+"text": "Media / Press Photos",
+"href": "https://www.kellyforcongress.org/media"
+},
+{
+"text": "Meet Kelly",
+"href": "https://www.kellyforcongress.org/about"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.kellyforcongress.org/privacy-policy"
+},
+{
+"text": "[image: Kelly Morrison for Congress]",
+"href": "https://www.kellyforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/channel/UCuAwpQBO9iLG7c8MQuQLgWg?themeRefresh=1"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/kellymorrisonmn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/kellymorrisonforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KellyMorrisonforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@repkellymorrison"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Morrison4MN"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@kellyforcongress.org"
+},
+{
+"text": "http://www.fec.gov",
+"href": "http://www.fec.gov"
+},
+{
+"text": "info@kellyforcongress",
+"href": "https://www.kellyforcongress.org/info@kellyforcongress"
+}
 ]

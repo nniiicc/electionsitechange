@@ -1,18 +1,8 @@
-We spend twice as much on healthcare as other developed countries — yet too many Nebraskans can’t see a doctor or afford a prescription.
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE Priorities Making Healthcare Affordable & Accessible We spend twice as much on healthcare as other developed countries — yet too many Nebraskans can’t see a doctor or afford a prescription.
 We are the only industrialized nation without universal healthcare.
 The Affordable Care Act moved us forward, but we need to go further.
-We can achieve universal coverage with common sense reforms
-My priorities include:
-- Enact a true public option to guarantee universal coverage and force insurance companies to compete by offering lower prices and better coverage
-- Extend the ACA premium tax credits to lower monthly costs for millions of families.
-- Restore Medicaid funding and protect rural hospitals
-- Lower the Medicare eligibility age to 60
-- Take on Big Pharma to lower prescription drug costs
-- Protect a woman’s right to choose in Nebraska and nationwide
-Experience to lead.
+We can achieve universal coverage with common sense reforms My priorities include: Enact a true public option to guarantee universal coverage and force insurance companies to compete by offering lower prices and better coverage Extend the ACA premium tax credits to lower monthly costs for millions of families.
+Restore Medicaid funding and protect rural hospitals Lower the Medicare eligibility age to 60 Take on Big Pharma to lower prescription drug costs Protect a woman’s right to choose in Nebraska and nationwide View Priorities Smart, Fair Immigration and a Secure Border Restoring American Leadership & National Security Supporting Agriculture & Rural Communities Lowering Costs & Restoring the Middle Class Ending Washington Dysfunction Reining In Our National Debt Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
 The courage to stand up to Trump.
-Lower costs
-★
-Stop the chaos
-★
-End corruption
+Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

@@ -1,7 +1,4 @@
-Media Record
-“I believe voters deserve more than slogans and mailers.
+DONATE NOW DONATE NOW Home About the Candidate Solutions Housing Healthcare Taxes / Spending Civil Rights Education / Parents Energy & Gas Prices Small Business / Jobs Homelessness Policy Priorities Enact Reform Repeal Events Endorsements Media Record Video Print Contribute & Volunteer Contact Media Record “I believe voters deserve more than slogans and mailers.
 They deserve substance.
-This page includes my in-depth, unfiltered public record on today’s issues, covering housing affordability, tax policy, government reform, healthcare regulation, and how I approach public policy.”
-– Cobi Clark
-Video
-Video
+This page includes my in-depth, unfiltered public record on today’s issues, covering housing affordability, tax policy, government reform, healthcare regulation, and how I approach public policy.” – Cobi Clark  Video  Print  Video  Print FACEBOOK Follow for Updates LINKEDIN Connect Professionally YOUTUBE Watch & Subscribe POLICY SURVEY Take the Survey 206-854-1136 campaign@cobiclark.com Website paid for by the Clark Campaign PO Box 284, Auburn WA, 98071 © #, The Clark Campaign - All Rights Reserved.
+Privacy Policy Website design, hosting, and maintenance by New Tech Web, Inc.

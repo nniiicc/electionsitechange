@@ -1,9 +1,8 @@
-| |
-| My House colleagues and I returned to the Gold Dome on Monday, March 23, for Legislative Day 36, marking the start of week 11 and the second to last week of the 2026 legislative session.
+Skip to content Stan Gunter State Representative ☰ Home Meet Stan Issues Get Involved News and Events Donate Donate X Home Meet Stan Issues Get Involved News and Events Donate Donate Jul 9, 2026 2026 Legislative Update – Week 9, 10 & 11 Recap My House colleagues and I returned to the Gold Dome on Monday, March 23, for Legislative Day 36, marking the start of week 11 and the second to last week of the 2026 legislative session.
 It was another action-packed work week, including three legislative days and two committee workdays, as the House continued working diligently to advance bills and resolutions before the legislative session comes to an end.
 Sine Die is on April 2 and marks the last opportunity for bills to pass both chambers and be sent to the governor’s desk for his signature or veto this year.
 Any legislation that does not receive final passage by this deadline cannot become law this year, making the final days of session among the busiest and most consequential.
-Last week, the House unanimously passed Senate Bill 542, legislation aimed at strengthening punishments for individuals who abuse positions of spiritual trust.
+Last week, the House unanimously passed Senate Bill 542 , legislation aimed at strengthening punishments for individuals who abuse positions of spiritual trust.
 Specifically, the bill would create the offenses of improper sexual conduct by a clergy member in both the first and second degrees.
 A clergy member—defined as a minister, priest, rabbi, imam or similar functionary of a bona fide religious organization—would be guilty of such offense if they knowingly engage in sexually explicit conduct or sexual contact with a victim through coercion or intimidation while acting within a pastoral counseling or spiritual authority relationship.
 SB 542 would define this counseling or spiritual authority relationship as a situation in which the clergy member provides spiritual guidance, religious instruction, mentoring or emotional or spiritual support and is viewed as having influence, trust or authority over another person’s spiritual, emotional or personal well-being.
@@ -11,12 +10,13 @@ An individual convicted of improper sexual contact by a clergy member in the fir
 An individual convicted of improper sexual contact by a clergy member in the second degree would, upon a first conviction, be punished for a misdemeanor of a high and aggravated nature.
 Upon a second or subsequent conviction, the offense would be elevated to a felony, punishable by imprisonment between one to five years.
 Lastly, SB 542 would establish a 15-year statute of limitations, ensuring victims and survivors have additional time to come forward.
-By establishing these clear penalties and definitions, the bill reinforces the seriousness of abusing positions of spiritual authority and the breach of trust between a clergy member and a congregant.House Bill 1009 received final passage in the General Assembly this week and has been sent to Governor Brian Kemp’s desk for consideration.
+By establishing these clear penalties and definitions, the bill reinforces the seriousness of abusing positions of spiritual authority and the breach of trust between a clergy member and a congregant.
+House Bill 1009 received final passage in the General Assembly this week and has been sent to Governor Brian Kemp’s desk for consideration.
 The legislation, which passed in the House earlier this session, would require that all public-school students in grades nine through 12 be prohibited from accessing personal electronic devices—such as smartphones, smartwatches, tablets, headphones and other communication or internet-enabled devices—during the school day, beginning no later than July 1, 2027.
 However, students would be able to access devices as necessary if they have an Individualized Education Program, Section 504 Plan or medical plan that explicitly mandates the use of a personal electronic device for medical or educational purposes.
 HB 1009 would also require each school system to adopt and update policies that continue to prohibit bell-to-bell access to personal devices and continue to establish secure storage options like lockers, locked pouches or designated classroom locations by January 1 of each year.
 If this bill is signed into law, we expect to see improved student focus and reduced classroom distractions, leading to stronger academic outcomes as schools adopt this policy.
-The House also gave final passage to Senate Bill 220, the Putting Georgia’s Patients First Act, which would modernize and expand Georgia’s medical cannabis program.
+The House also gave final passage to Senate Bill 220 , the Putting Georgia’s Patients First Act, which would modernize and expand Georgia’s medical cannabis program.
 The bill would broaden the forms of medical cannabis available to patients to include vaporization, oils and raw plant materials.
 It would also shift from a percentage-based THC cap to milligram-based dosing and adjust the per-package limit to 1,200 milligrams to better align with modern medical practices and help ensure a stable supply for patients.
 Additionally, the bill would expand the list of qualifying conditions to include cancer, inflammatory bowel disease, HIV and lupus.
@@ -31,21 +31,21 @@ Importantly, the bill would clarify that AI-generated content in campaign materi
 Additionally, SB 594 would strengthen protections against exploitation by criminalizing the distribution of AI-generated obscene material depicting a minor, with penalties of one to 15 years in prison, and it would prohibit the use of AI to impersonate others online for the purpose of deception, harm or fraud.
 The legislation would further enhance penalties for a wide range of existing crimes when AI is used, with the goal of reinforcing accountability and helping ensure these emerging technologies are not used to harm individuals or undermine public trust.
 Together, these two measures aim to ensure that rapidly advancing AI technologies are used responsibly by establishing clear safeguards, protecting vulnerable populations and preventing their misuse.
-House Bill 974, the House’s version of the FY 2027 budget, is set by a revenue estimate of $38.5 billion, an increase of $738 million, or 1.95 percent, over the Fiscal Year 2026 (FY 2026) budget.
+Hou se Bill 974 , the House’s version of the FY 2027 budget, is set by a revenue estimate of $38.5 billion, an increase of $738 million, or 1.95 percent, over the Fiscal Year 2026 (FY 2026) budget.
 HB 974 makes significant investments in education, including fully funding the Quality Basic Education (QBE) program at a total of $14.9 billion in state funds, providing $5.5 million for the Special Needs Scholarship and allocating more than $60 million to a statewide literacy initiative.
 The House’s version of the FY 2027 budget also addresses key areas such as Medicaid, providing funding for the state’s correctional system, fully funding the state’s pension obligations, supporting economic development and continuing to make noteworthy investments for Georgia’s transportation needs.
-Notable Legislation: House Bill 1199, which, most importantly, will temporarily suspend Georgia’s excise tax on motor fuel for 60 days.
+Notable Legislation: House Bill 1199 , which, most importantly, will temporarily suspend Georgia’s excise tax on motor fuel for 60 days.
 This suspension comes at a critical time as Georgians have faced sharp increases in gas prices amid ongoing conflicts in the Middle East, placing added financial strain on families and business across the state.
 Prices at the pump will begin to reflect this change in the coming days as retailers receive new shipments of motor fuel.
 Georgia’s excise tax on gasoline is currently 33.3 cents per gallon and 37.3 cents per gallon of diesel.
 My colleagues and I were proud to join Governor Brian Kemp on Friday as he signed this important legislation into law, immediately enacting the gas tax suspension and delivering swift, meaningful relief to Georgians feeling the impact of rising fuel costs.
-House Bill 1000, which Gov.
+House Bill 1000 , which Gov.
 Kemp also signed in to law, provides a one-time income tax refund to eligible Georgians who filed individual income tax returns for both the 2024 and 2025 tax years by the applicable deadlines.
 Once a taxpayer files their 2025 return, the Georgia Department of Revenue will issue a refund equal to the lesser of the taxpayer’s 2024 Georgia income tax liability or a set amount based on filing status: $250 for single filers or married individuals filing separately, $375 for heads of household and $500 for married couples filing jointly.
 This legislation is one of Gov.
-Kemp’s legislative priorities this session and was funded in House Bill 973, the Amended Fiscal Year 2026 (AFY 2026) budget.
+Kemp’s legislative priorities this session and was funded in House Bill 973 , the Amended Fiscal Year 2026 (AFY 2026) budget.
 This is the fourth year in a row that the General Assembly has passed legislation to provide one-time tax refunds to return money to eligible Georgians and ensure families directly benefit from the state’s continued economic growth.
-Senate Bill 399, the Mason Sells AED Coordination Act.
+Senate Bill 399 , the Mason Sells AED Coordination Act.
 This legislation aims to expand access to automated external defibrillators (AEDs) and provide emergency call centers with both AED location information and high-quality telephone cardiopulmonary resuscitation (T-CPR) guidance for Georgians experiencing sudden cardiac arrest.
 Under SB 399, all emergency communications officers would be required to be trained in T-CPR and instructed on how to guide 9-1-1 callers in using AEDs.
 The bill would also create a comprehensive map of all AED locations, which would be made available to 9-1-1 operators.
@@ -81,55 +81,20 @@ In the days leading up to this deadline, we expect to work late into the evening
 Before the session comes to an end, I encourage you to reach out to me regarding any pending legislative measures that are important to you or your family.
 During these final days of the 2026 legislative session, I will continue to monitor legislation and how it will impact our community, and I encourage you to stay informed as we wrap up our final session days under the Gold Dome.
 You can reach my Capitol office at 404-656-5125 and via email at Stan.Gunter@house.ga.gov.
-As always, thank you for allowing me to serve as your state representative for the 2025–2026 legislative term. |
-| |
-| We enjoyed recognizing our Gold Medal Olympian from Georgia – Elana Meyers Taylor.
-She won gold in the monobob. |
-| |
-| Photo Gallery |
-| | | |
-| |
-| |
-| |
-| |
-| |
-| |
-| | |
-| |
-| |
-| |
-| |
-| | |
-| |
-| |
-| |
-| |
-| | |
-| |
-| |
-| | | |
-| |
-| |
-| |
-| |
-| |
-| I encourage you to reach out with any questions or concerns about the bills currently under consideration.
+As always, thank you for allowing me to serve as your state representative for the 2025–2026 legislative term.
+We enjoyed recognizing our Gold Medal Olympian from Georgia – Elana Meyers Taylor.
+She won gold in the monobob.
+Photo Gallery I encourage you to reach out with any questions or concerns about the bills currently under consideration.
 You are welcome to schedule a phone call or a visit to the State Capitol to discuss matters that are important to you and our community.
-You can reach me at 404-656-5125 and via email at stan.gunter@house.ga.gov.
+You can reach me at 404-656-5125 and via email at stan.gunter@house.ga.gov .
 As always, thank you for allowing me to serve as your representative.
-Respectfully, Stan Gunter Representative of Georgia’s 8th District |
-| |
-| |
-| |
-| |
-| House Floor Videos View past or live video of the House Floor during the General Assembly Session – Click Here |
-| |
-| House Committee Assignments: Judiciary – Chairman Agriculture & Consumer Affairs – Member Appropriations Economic Development & Tourism Ethics Health Judiciary Non-Civil – Ex Officio Rules |
-| House Committee Meeting Videos View past or live video of the House Committee Meetings during the General Assembly Session – Click Hereand click on the committee you wish to view.
-I chair the House Judiciary Committee – Click Here to see the upcoming committee meeting schedule. |
-| |
-| |
-| |
-| |
-| |
-| |
+Respectfully, Stan Gunter Representative of Georgia’s 8th District House Floor Videos View past or live video of the House Floor during the General Assembly Session – Click Here House Committee Assignments: Judiciary – Chairman Agriculture & Consumer Affairs – Member Appropriations Economic Development & Tourism Ethics Health Judiciary Non-Civil – Ex Officio Rules House Committee Meeting Videos View past or live video of the House Committee Meetings during the General Assembly Session – Click Here and click on the committee you wish to view.
+I chair the House Judiciary Committee – Click Here to see the upcoming committee meeting schedule.
+Post navigation Rep.
+Stan Gunther Formally Qualified for Re-Election 2026 Legislative Update: Sine Die Latest News 2026 Legislative Update: Sine Die 2026 Legislative Update – Week 9, 10 & 11 Recap Rep.
+Stan Gunther Formally Qualified for Re-Election 2026 Legislative Update – Week 6 Recap 2026 Legislative Update – 2/9/26 2026 Legislative Update: Four Weeks Into The Session Stay Connected Contribute Today Stan Gunter is the Conservative Fighter We Need.
+Can Stan Count on Your Support?
+Make a Donation! $# $# $# $# $# Join the Team!
+Add Your Name to Stay Up to Date on the Gunter Campaign: Email * Cell Phone Zip Code Δ Home Meet Stan Issues Get Involved News and Events Donate Donate Paid for by Stan Gunter for Georgia CONTACT TEAM GUNTER TODAY!
+Phone: 706.897.5609 Email: Stan@StanGunterForGeorgia.com Mail: P.O.
+Box 2376, Blairsville, Georgia 30514 © #

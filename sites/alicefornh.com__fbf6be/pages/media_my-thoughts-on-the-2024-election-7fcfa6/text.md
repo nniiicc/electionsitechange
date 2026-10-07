@@ -1,5 +1,4 @@
-My Thoughts on the 2024 Election
-It's difficult to find the right words right now because I can't blindly reassure folks and tell you everything's going to be fine.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate My Thoughts on the 2024 Election Nov 8 Written By Alice Wade It's difficult to find the right words right now because I can't blindly reassure folks and tell you everything's going to be fine.
 It's ok to be sad, angry, confused, or scared right now for what's going to happen in the next few years.
 In the coming weeks and months, we are going to regroup, organize, and fight to protect our rights.
 I'm not saying that there won't be dark times in the coming years, but we are building communities to support each other because we need each other in times of darkness.
@@ -17,3 +16,4 @@ We are in a battle that's begun long before we were born and it will not end wit
 Those who come after us will take this torch that we've kept lit and keep running forward even in the darkest of times.
 So let us be there for one another, grieve together, and when ready, take up the fight together.
 The work will go on.
+Alice Wade Previous Previous Op-Ed: The local ripple effect, Creating change close to home Next Next NH House candidate 2024: Alice Wade, Strafford District 15 Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

@@ -1,15 +1,62 @@
 [
-"https://facebook.com/people/Friends-of-Thomas-Kucer/61577455379964",
-"https://mobilize.us/kucerforpa",
-"https://secure.actblue.com/donate/thomas-kucer-176",
-"https://secure.actblue.com/donate/thomas-kucer-176?amount=100",
-"https://secure.actblue.com/donate/thomas-kucer-176?amount=25",
-"https://secure.actblue.com/donate/thomas-kucer-176?amount=250",
-"https://secure.actblue.com/donate/thomas-kucer-176?amount=50",
-"https://secure.actblue.com/donate/thomas-kucer-176?amount=500",
-"https://tomkucerforpa.com/about.html",
-"https://tomkucerforpa.com/cdn-cgi/l/email-protection",
-"https://tomkucerforpa.com/donate.html",
-"https://tomkucerforpa.com/index.html",
-"https://tomkucerforpa.com/platform.html"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/thomas-kucer-176?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/thomas-kucer-176?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/thomas-kucer-176?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/thomas-kucer-176?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/thomas-kucer-176?amount=500"
+},
+{
+"text": "About & Bio",
+"href": "https://tomkucerforpa.com/about.html"
+},
+{
+"text": "Donate Now",
+"href": "https://tomkucerforpa.com/donate.html"
+},
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/thomas-kucer-176"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/kucerforpa/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Friends-of-Thomas-Kucer/61577455379964/"
+},
+{
+"text": "Home",
+"href": "https://tomkucerforpa.com/index.html"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/thomas-kucer-176"
+},
+{
+"text": "What I Stand For",
+"href": "https://tomkucerforpa.com/platform.html"
+},
+{
+"text": "[email protected]",
+"href": "https://tomkucerforpa.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Tom Kucer campaign logo] TOM KUCER For PA State House · 176th District",
+"href": "https://tomkucerforpa.com/index.html"
+}
 ]

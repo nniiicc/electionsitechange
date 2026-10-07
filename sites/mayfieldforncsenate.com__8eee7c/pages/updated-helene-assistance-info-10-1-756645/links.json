@@ -1,30 +1,134 @@
 [
-"http://disasterassistance.gov/?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://ashevillenc.gov/news/tropical-storm-helene-recovery-resources?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://buncombecounty.org/Governing/Depts/emergency-services/emergency-preparedness.aspx?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://corporate.walmart.com/purpose/community/disaster-response/hurricane-helene?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://facebook.com/MayfieldforNCSenate",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmayfieldforncsenate.com%2Fupdated-helene-assistance-info-10-1%2F",
-"https://instagram.com/mayfield4ncsenate",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Fmayfieldforncsenate.com%2Fupdated-helene-assistance-info-10-1%2F&title=Updated+Helene+Assistance+Info+10%2F1",
-"https://mayfieldforncsenate.com/",
-"https://mayfieldforncsenate.com/about",
-"https://mayfieldforncsenate.com/blog",
-"https://mayfieldforncsenate.com/donate",
-"https://mayfieldforncsenate.com/endorsements",
-"https://mayfieldforncsenate.com/information-about-water-distribution",
-"https://mayfieldforncsenate.com/issues",
-"https://mayfieldforncsenate.com/majoritymaker",
-"https://mayfieldforncsenate.com/privacy",
-"https://mayfieldforncsenate.com/thank-you",
-"https://mayfieldforncsenate.com/updated-helene-assistance-info-10-2",
-"https://mayfieldforncsenate.com/wp-content/uploads/2019/02/footer-logo.png",
-"https://ncbop.org/emergencyoperatingpharmacieshelene.html?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://ncdps.gov/our-organization/emergency-management/hurricane-helene?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://redcross.org/local/north-carolina/about-us/locations/western-north-carolina.html?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fmayfieldforncsenate.com%2Fupdated-helene-assistance-info-10-1%2F&text=Updated+Helene+Assistance+Info+10%2F1",
-"https://unchealth.org/care-services/virtual-care/virtual-care-now?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://unitedwayabc.org/?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://wllmsg.co/WBSciE?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://x.com/MayfieldforNC"
+{
+"text": "ABOUT",
+"href": "https://mayfieldforncsenate.com/about/"
+},
+{
+"text": "About",
+"href": "https://mayfieldforncsenate.com/about/"
+},
+{
+"text": "BECOME A MAYFIELD MAJORITY MAKER!",
+"href": "https://mayfieldforncsenate.com/majoritymaker/"
+},
+{
+"text": "Buncombe County",
+"href": "https://www.buncombecounty.org/Governing/Depts/emergency-services/emergency-preparedness.aspx?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "City of Asheville",
+"href": "https://www.ashevillenc.gov/news/tropical-storm-helene-recovery-resources/?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "DONATE",
+"href": "https://mayfieldforncsenate.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://mayfieldforncsenate.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://mayfieldforncsenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://mayfieldforncsenate.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://mayfieldforncsenate.com/issues/"
+},
+{
+"text": "Issues",
+"href": "https://mayfieldforncsenate.com/issues/"
+},
+{
+"text": "NC Department of Public Safety",
+"href": "https://www.ncdps.gov/our-organization/emergency-management/hurricane-helene?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "News",
+"href": "https://mayfieldforncsenate.com/blog/"
+},
+{
+"text": "Next Post Updated Helene Assistance Info 10/2 [image]",
+"href": "https://mayfieldforncsenate.com/updated-helene-assistance-info-10-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mayfieldforncsenate.com/privacy/"
+},
+{
+"text": "Red Cross.",
+"href": "https://www.redcross.org/local/north-carolina/about-us/locations/western-north-carolina.html?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Thank You",
+"href": "https://mayfieldforncsenate.com/thank-you/"
+},
+{
+"text": "UNC Health Virtual Care Now",
+"href": "https://www.unchealth.org/care-services/virtual-care/virtual-care-now?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "United Way of Asheville and Buncombe County",
+"href": "https://www.unitedwayabc.org/?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://mayfieldforncsenate.com/#volunteer"
+},
+{
+"text": "[image: Julie Mayfield for NC Senate]",
+"href": "https://mayfieldforncsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://mayfieldforncsenate.com/wp-content/uploads/2019/02/footer-logo.png"
+},
+{
+"text": "[image] Previous Post Information about water distribution",
+"href": "https://mayfieldforncsenate.com/information-about-water-distribution/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fmayfieldforncsenate.com%2Fupdated-helene-assistance-info-10-1%2F&text=Updated+Helene+Assistance+Info+10%2F1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MayfieldforNCSenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmayfieldforncsenate.com%2Fupdated-helene-assistance-info-10-1%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mayfield4ncsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmayfieldforncsenate.com%2Fupdated-helene-assistance-info-10-1%2F&title=Updated+Helene+Assistance+Info+10%2F1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MayfieldforNC"
+},
+{
+"text": "here",
+"href": "https://corporate.walmart.com/purpose/community/disaster-response/hurricane-helene?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "https://wllmsg.co/WBSciE",
+"href": "https://wllmsg.co/WBSciE?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "list of operating pharmacies",
+"href": "https://www.ncbop.org/emergencyoperatingpharmacieshelene.html?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "www.DisasterAssistance.gov",
+"href": "http://www.disasterassistance.gov/?emci=71e53287-4e80-ef11-8474-6045bda8aae9&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+}
 ]

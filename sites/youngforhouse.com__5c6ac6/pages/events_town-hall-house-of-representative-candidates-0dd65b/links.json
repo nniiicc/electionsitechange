@@ -1,14 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+-+House+of+Representative+Candidates&dates=20260923T000000Z%2F20260923T020000Z&location=1875+South+2000+West%2C+Syracuse%2C+Utah%2C+84075%2C+United+States",
-"http://maps.google.com/?q=1875+South+2000+West+Syracuse%2C+Utah%2C+84075+United+States",
-"https://secure.actblue.com/donate/youngforhouse",
-"https://youngforhouse.com/",
-"https://youngforhouse.com/cart",
-"https://youngforhouse.com/contact",
-"https://youngforhouse.com/donate",
-"https://youngforhouse.com/events",
-"https://youngforhouse.com/events/canvassing-blitz-2",
-"https://youngforhouse.com/events/meet-greet-with-peter-crosby",
-"https://youngforhouse.com/events/town-hall-house-of-representative-candidates?format=ical",
-"https://youngforhouse.com/faq"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1875+south+2000+west+syracuse%2C+utah%2C+84075+united+states"
+},
+{
+"text": "0",
+"href": "https://www.youngforhouse.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.youngforhouse.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.youngforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/youngforhouse"
+},
+{
+"text": "Donate",
+"href": "https://www.youngforhouse.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.youngforhouse.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.youngforhouse.com/faq"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+-+House+of+Representative+Candidates&dates=20260923T000000Z%2F20260923T020000Z&location=1875+South+2000+West%2C+Syracuse%2C+Utah%2C+84075%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.youngforhouse.com/events/town-hall-house-of-representative-candidates?format=ical"
+},
+{
+"text": "Next Next October 6 Meet & Greet with Peter Crosby",
+"href": "https://www.youngforhouse.com/events/meet-greet-with-peter-crosby"
+},
+{
+"text": "Previous Previous September 19 Canvassing Blitz",
+"href": "https://www.youngforhouse.com/events/canvassing-blitz-2"
+},
+{
+"text": "[image: Brandon Young for Utah House of Representatives]",
+"href": "https://www.youngforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/bydirector"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577546979131"
+}
 ]

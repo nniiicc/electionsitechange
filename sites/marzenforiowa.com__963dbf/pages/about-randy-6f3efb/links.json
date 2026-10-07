@@ -1,6 +1,30 @@
 [
-"https://marzenforiowa.com/about-randy",
-"https://marzenforiowa.com/donate-1",
-"https://marzenforiowa.com/home",
-"https://marzenforiowa.com/volunteer-1"
+{
+"text": "ABOUT RANDY",
+"href": "https://marzenforiowa.com/about-randy"
+},
+{
+"text": "DONATE",
+"href": "https://marzenforiowa.com/donate-1"
+},
+{
+"text": "HOME",
+"href": "https://marzenforiowa.com/home"
+},
+{
+"text": "Learn more",
+"href": "https://marzenforiowa.com/donate-1"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://marzenforiowa.com/volunteer-1"
+},
+{
+"text": "[image]",
+"href": "https://marzenforiowa.com/home"
+},
+{
+"text": "contact@marzenforiowa.com",
+"href": "mailto:contact@marzenforiowa.com"
+}
 ]

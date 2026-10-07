@@ -1,12 +1,46 @@
 [
-"https://facebook.com/ScottHerndonforIdaho",
-"https://herndonforidaho.com/",
-"https://herndonforidaho.com/category/legislative-news",
-"https://herndonforidaho.com/category/policy-analysis",
-"https://herndonforidaho.com/contact",
-"https://herndonforidaho.com/donate",
-"https://herndonforidaho.com/my-record",
-"https://herndonforidaho.com/news-2",
-"https://herndonforidaho.com/privacy",
-"https://twitter.com/herndonforidaho"
+{
+"text": "Donate",
+"href": "https://herndonforidaho.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ScottHerndonforIdaho/"
+},
+{
+"text": "Home",
+"href": "https://herndonforidaho.com/"
+},
+{
+"text": "Legislative News",
+"href": "https://herndonforidaho.com/category/legislative-news/"
+},
+{
+"text": "My Record",
+"href": "https://herndonforidaho.com/my-record/"
+},
+{
+"text": "News",
+"href": "https://herndonforidaho.com/news-2/"
+},
+{
+"text": "Policy Analysis",
+"href": "https://herndonforidaho.com/category/policy-analysis/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://herndonforidaho.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://herndonforidaho.com/contact/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/herndonforidaho"
+},
+{
+"text": "[image: Scott Herndon]",
+"href": "https://herndonforidaho.com/"
+}
 ]

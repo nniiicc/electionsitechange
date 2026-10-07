@@ -1,8 +1,46 @@
 [
-"https://facebook.com/dolezalforgeorgia",
-"https://gregdolezal.com/",
-"https://gregdolezal.com/privacy-policy",
-"https://instagram.com/teamdolezal",
-"https://x.com/DolezalForGA",
-"https://youtube.com/@TeamDolezal"
+{
+"text": "DONATE",
+"href": "https://gregdolezal.com/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://gregdolezal.com/#contact-form"
+},
+{
+"text": "GREG'S STORY",
+"href": "https://gregdolezal.com/#greg-s-story"
+},
+{
+"text": "Privacy",
+"href": "https://gregdolezal.com/privacy-policy"
+},
+{
+"text": "THE DOLEZAL DIFFERENCE",
+"href": "https://gregdolezal.com/#the-dolezal-difference"
+},
+{
+"text": "[image: Logo Image ]",
+"href": "https://gregdolezal.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://gregdolezal.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/dolezalforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teamdolezal%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@TeamDolezal%20"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DolezalForGA"
+}
 ]

@@ -1,37 +1,4 @@
-Frequently Asked Questions
-Find your polling location
-Girdwood Community Center
-250 Elgolff Street, Girdwood
-Valley Bible Chalet
-29135 Seward Highway, Indian
-Rabbit Creek Elementary School
-13650 Lake Otis Parkway, Anchorage
-South Highschool
-13400 Elmore Road, Anchorage
-Rabbit Creek Community Church
-3401 Rabbit Creek Road, Anchorage
-Goldenview Middle School
-15800 Golden View Drive, Anchorage
-Bear Valley Elementary School
-15001 Mountain Air Drive, Anchorage
-Benny Benson School
-4515 Campbell Airstrip Road, Anchorage
-Kingdom Life Church
-1301 W 100th Avenue, Anchorage
-Christ Community Church
-2222 W 100th Avenue, Anchorage,
-Klatt Elementary School
-11900 Puma Street, Anchorage
-Ocean View Elementary School
-11911 Johns Road, Anchorage
-Christ Our Savior Lutheran Church
-1612 Oceanview Driver, Anchorage
-Sunset Hills Baptist Church
-12130 Old Seward Highway, Anchorage
-Whittier Public Safety Building
-660 Whittier Street, Whittier
-FAQs
-How should the state of Alaska set the amount of the Permanent Fund dividend each year?
+Skip to content Meet Cathy Issues FAQ Volunteer Contact Meet Cathy Issues FAQ Volunteer Contact DONATE Frequently Asked Questions Find your polling location Girdwood Community Center 250 Elgolff Street, Girdwood Valley Bible Chalet 29135 Seward Highway, Indian Rabbit Creek Elementary School 13650 Lake Otis Parkway, Anchorage South Highschool 13400 Elmore Road, Anchorage Rabbit Creek Community Church 3401 Rabbit Creek Road, Anchorage Goldenview Middle School 15800 Golden View Drive, Anchorage Bear Valley Elementary School 15001 Mountain Air Drive, Anchorage Benny Benson School 4515 Campbell Airstrip Road, Anchorage Kingdom Life Church 1301 W 100th Avenue, Anchorage Christ Community Church 2222 W 100th Avenue, Anchorage, Klatt Elementary School 11900 Puma Street, Anchorage Ocean View Elementary School 11911 Johns Road, Anchorage Christ Our Savior Lutheran Church 1612 Oceanview Driver, Anchorage Sunset Hills Baptist Church 12130 Old Seward Highway, Anchorage Whittier Public Safety Building 660 Whittier Street, Whittier STATEWIDE POLLING LOCATIONS ELECTION INFORMATION FAQs How should the state of Alaska set the amount of the Permanent Fund dividend each year?
 Stable.
 Sustainable.
 That’s how you manage your personal budget.
@@ -62,12 +29,14 @@ Workforce shortages are another major challenge that affects many aspects.
 When we can’t recruit and retain teachers, firefighters, and police officers, every community feels it.
 I believe addressing retirement and compensation for our frontline public servants is essential to Alaska’s long-term prosperity.
 What three actions will you support to protect, preserve, and enhance America's democracy?
-- Maintain the current election system in Alaska: open primary election; clear, open, full disclosure of campaign finance sources; ranked choice general election requiring more than 50% of the vote to win.
-- Preserve our independent judiciary, assuring judicial neutrality and applying the same legal standards to everyone who appears in our courtrooms, regardless of who they are or who they know.
-- Defend the legislature’s role as a fiduciary of the state.
+Maintain the current election system in Alaska: open primary election; clear, open, full disclosure of campaign finance sources; ranked choice general election requiring more than 50% of the vote to win.
+Preserve our independent judiciary, assuring judicial neutrality and applying the same legal standards to everyone who appears in our courtrooms, regardless of who they are or who they know.
+Defend the legislature’s role as a fiduciary of the state.
 The legislature is Alaska’s board of directors; elected by Alaskans to protect and grow the state’s resources for future generations.
 I am committed to a strong, independent legislature that fulfills its constitutional duty and makes decisions that empower Alaska’s future.
 What will you do to combat rising costs of housing, childcare, energy, and groceries?
 Inflation has many drivers, some beyond any state’s control.
 Locally, there are ways to construct Arctic-wise housing more wisely with energy efficiency that reduces the overall cost to operate the home.
 Childcare costs result from workforce wage needs; I believe the state government can help families by subsidizing workforce wages.
+Meet Cathy Issues FAQ Volunteer Contact Meet Cathy Issues FAQ Volunteer Contact © #.
+Paid for by Giessel for Alaska, 12701 Ridgewood Road, Anchorage, AK 99516.

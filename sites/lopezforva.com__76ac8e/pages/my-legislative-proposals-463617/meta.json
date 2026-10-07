@@ -1,7 +1,11 @@
 {
  "description": "Explore Taner Lopez&#39;s legislative proposals focused on practical solutions for immigration, veterans, and workforce security to strengthen American values.",
  "final_url": "https://lopezforva.com/my-legislative-proposals",
- "paid_for_by": null,
+ "fingerprint": "a90941e9de1697d2a5807d38b77d1397ab607653",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My Legislative Proposals",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

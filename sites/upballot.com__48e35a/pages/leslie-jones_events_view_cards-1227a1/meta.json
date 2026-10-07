@@ -1,7 +1,9 @@
 {
- "description": "See Leslie\u2019s upcoming campaign events happening near you.",
+ "description": "See Leslie’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/leslie-jones/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "31b0925e8f33c4810d4be2ce04226a621eba9b0f",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Leslie Jones Events",
  "years_mentioned": []
 }

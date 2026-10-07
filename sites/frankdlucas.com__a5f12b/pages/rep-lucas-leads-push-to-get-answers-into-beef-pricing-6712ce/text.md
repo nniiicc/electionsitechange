@@ -1,4 +1,5 @@
-Congressman Frank Lucas, R-OK, wants answers for his cattlemen constituents.
+Skip to content Frank Lucas ☰ About Frank Issues The Latest Press Packet Contact Donate X About Frank Issues The Latest Press Packet Contact Donate May 12, 2020 Rep.
+Lucas leads push to get answers into beef pricing Congressman Frank Lucas, R-OK, wants answers for his cattlemen constituents.
 And he’s not alone.
 On May 1, Lucas delivered a bipartisan letter, signed by 24 of his House colleagues, to U.S.
 Secretary of Agriculture Sonny Perdue.
@@ -21,6 +22,9 @@ Speculators and investors play a key role in the cattle futures markets.
 If they pull their money out of the futures, that can have as dramatic of an effect on the price of cattle as when investors pulled their money out of the stock market in the last month.
 “As one cattlemen told me, ‘if we don’t have someone willing to buy our hedges, we don’t have the ability to hedge,’” Lucas said.
 While USDA is working with the Commodities Futures Trading Commission to address the situation, there needs to be more insight into the relationship between cattle spot and futures markets.
-Volatility during a pandemic “has made market participation difficult to manage and capital intensive.”
-Without the findings of the investigation, Lucas’s hands and those of his colleagues are tied in being able to make any laws that would fix the situation.
+Volatility during a pandemic “has made market participation difficult to manage and capital intensive.” Without the findings of the investigation, Lucas’s hands and those of his colleagues are tied in being able to make any laws that would fix the situation.
 The letter is urging the USDA to release its findings as soon as possible, in order for the situation to be addressed by Capitol Hill, and ultimately bring trust back into the markets.
+Share Post navigation Frank Lucas Running for Re-Election Lucas presses USDA to clarify federal funding disparities for cattle producers Latest News Frank Lucas Endorses President Trump Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason President Trump Endorses Frank Lucas for Congress Frank Lucas Welcomes President Trump to Oklahoma Lucas presses USDA to clarify federal funding disparities for cattle producers Chip In Today! $25 $50 $100 $150 Other Newsletter Sign Up to Receive Email Updates!
+Email * Phone Zip Code About Frank Issues The Latest Contact Donate PAID FOR BY LUCAS FOR CONGRESS CONTACT TEAM LUCAS TODAY!
+Phone: 405.509.3505 Mail: Lucas for Congress P.O.
+Box 1726 Oklahoma City, OK 73101-1726 Copyright © #

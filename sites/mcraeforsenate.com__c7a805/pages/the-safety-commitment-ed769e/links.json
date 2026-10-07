@@ -1,9 +1,30 @@
 [
-"https://facebook.com/McRaeForsenate",
-"https://instagram.com/mcraeforsenate",
-"https://linkedin.com/in/themommacrae",
-"https://mcraeforsenate.com/",
-"https://mcraeforsenate.com/the-plan",
-"https://tiktok.com/@mommacrae",
-"https://x.com/mcraeforsenate"
+{
+"text": "@mcraeforsenate",
+"href": "https://www.instagram.com/mcraeforsenate"
+},
+{
+"text": "@mcraeforsenate",
+"href": "https://x.com/mcraeforsenate"
+},
+{
+"text": "@mommacrae",
+"href": "https://www.tiktok.com/@mommacrae"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/themommacrae"
+},
+{
+"text": "McRaeForSenate",
+"href": "https://www.facebook.com/McRaeForsenate"
+},
+{
+"text": "View The Full Plan",
+"href": "https://mcraeforsenate.com/the-plan/"
+},
+{
+"text": "← Back to Home",
+"href": "https://mcraeforsenate.com/"
+}
 ]

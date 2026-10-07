@@ -1,14 +1,54 @@
 [
-"http://facebook.com/votevasut",
-"http://linkedin.com/in/cvasut",
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"http://twitter.com/cvasut",
-"https://house.texas.gov/members/member-page/email?district=25&session=87",
-"https://house.texas.gov/members/member-page?district=25",
-"https://votevasut.com/",
-"https://votevasut.com/bio",
-"https://votevasut.com/contact",
-"https://votevasut.com/platform",
-"https://votevasut.com/search",
-"https://votevasut.com/values"
+{
+"text": "Contact",
+"href": "https://www.votevasut.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.votevasut.com/"
+},
+{
+"text": "Meet Cody",
+"href": "https://www.votevasut.com/bio"
+},
+{
+"text": "Platform",
+"href": "https://www.votevasut.com/platform"
+},
+{
+"text": "SQUARESPACE",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Values",
+"href": "https://www.votevasut.com/values"
+},
+{
+"text": "[image: Cody Vasut for State Representative]",
+"href": "https://www.votevasut.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/votevasut"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/in/cvasut"
+},
+{
+"text": "[no text]",
+"href": "http://www.twitter.com/cvasut"
+},
+{
+"text": "[no text]",
+"href": "https://www.votevasut.com/search"
+},
+{
+"text": "inquiry form",
+"href": "https://house.texas.gov/members/member-page/email/?district=25&session=87"
+},
+{
+"text": "official state website",
+"href": "https://house.texas.gov/members/member-page/?district=25"
+}
 ]

@@ -1,4 +1,4 @@
-We must prioritize the growth of what we already have, specifically upgrading US 27 and Veterans Parkway from Muscogee County up through Harris County.
+0 Skip to Content Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Folder: Our Georgia Back Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Back Donate We must prioritize the growth of what we already have, specifically upgrading US 27 and Veterans Parkway from Muscogee County up through Harris County.
 The widening of this corridor is currently underway, with construction funds authorized for FY 2026 and completion expected in spring 2027.
 This $40 million investment is designed to improve safety and create alternate routes to the interstate, creating the physical capacity for commerce and connectivity.
 However, infrastructure alone does not guarantee community prosperity.
@@ -11,3 +11,6 @@ When the road improves, the traffic will follow, but only if we are ready to dir
 We cannot rely on the status quo to manage the inevitable changes that come with better infrastructure.
 We need a proactive government that has the capacity to plan for positive growth, ensuring that when the highway is ready, our communities are ready to thrive.
 The government's initial offer is often just the beginning of negotiations and may not reflect the full value of the property, including potential losses like lost business income or diminished value of the remaining land.
+Learn more Newsletter and Volunteer Sign-up! make a difference!
+Email: georgia@votevaldezstatehouse.org P.O.
+Box 14 Cataula, GA 31804 Paid for by the Committee to Elect Elliot Valdez

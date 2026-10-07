@@ -1,8 +1,7 @@
-About Shelly
-Shelly Kates Headen, born in Western North Carolina to a high school teacher and high school principal, grew up in a small mountain town in southern Virginia, and relocated back to the North Carolina mountains when she was 14 years old.
+Skip to content Home About Platform Volunteer Donate Home About Platform Volunteer Donate Menu About Shelly Shelly Kates Headen, born in Western North Carolina to a high school teacher and high school principal, grew up in a small mountain town in southern Virginia, and relocated back to the North Carolina mountains when she was 14 years old.
 Shelly’s academic journey led her to Appalachian State University, where she graduated summa cum laude and ranked second in the college of business.
 During the summer following her sophomore year, Shelly participated in a political science program with the NC Office of State Treasurer where she developed a strong interest in public policy.
-She met her husband, Greg, in their accounting classes, and they both embarked on their careers as auditors at McGladrey (now RSM), an international CPA firm.
+DONATE She met her husband, Greg, in their accounting classes, and they both embarked on their careers as auditors at McGladrey (now RSM), an international CPA firm.
 During those years as an auditor, she gained a wealth of knowledge about manufacturing, telecom, nonprofits, and Medicaid.
 After this initial professional stint, Shelly spent eight fruitful years working for a local pharmaceutical and nutritional manufacturer as a corporate accounting manager.
 However, her most rewarding role came when she became a stay-at-home mom to her three daughters.
@@ -16,3 +15,4 @@ She is deeply engaged in community as a member of her local Lion’s Club where 
 Through The League of Women Voters and Guilford for All, Shelly advocates for civic engagement and social equity.
 As an active member of the Greensboro Builders Association, Shelly aids fundraising efforts for construction industry scholarships.
 Additionally, Shelly serves as chair of her local Democratic Party precinct, facilitating grassroots political organization and outreach.
+Paid for By Shelly Headen for North Carolina | Privacy Policy

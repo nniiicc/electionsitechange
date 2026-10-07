@@ -1,39 +1,202 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Atlanta+Democrats+Canvass+%7C+August&dates=20260829T150000Z%2F20260829T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Beth+Fuller+%26+Adam+Cleveland+with+Indivisible+North+Metro+Atlanta&dates=20260829T160000Z%2F20260829T190000Z&location=925+Riverside+Road%2C+Roswell%2C+Georgia%2C+30075%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Buckhead+-+Rep.+Bryce+Berry%2C+Beth+Fuller%2C+%26+the+Take+It+Back+Fellowship%21&dates=20260905T153000Z%2F20260905T183000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Sandy+Springs+-+Senator+RaShaun+Kemp+%26+Beth+Fuller%21&dates=20260912T160000Z%2F20260912T190000Z&location=7300+Brandon+Mill+Rd+NW%2C+Atlanta%2C+GA+30328",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+North+Fulton+Dems&dates=20260829T160000Z%2F20260829T190000Z&location=200+Morgan+Falls+Road%2C+Sandy+Springs%2C+Georgia%2C+30350%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=North+Fulton+Weekly+Canvass+with+Indivisible+North+Metro+Atlanta&dates=20260912T160000Z%2F20260912T180000Z",
-"http://maps.google.com/?q=200+Morgan+Falls+Road+Sandy+Springs%2C+Georgia%2C+30350+United+States",
-"http://maps.google.com/?q=7300+Brandon+Mill+Rd+NW+Atlanta%2C+GA+30328",
-"http://maps.google.com/?q=925+Riverside+Road+Roswell%2C+Georgia%2C+30075+United+States",
-"http://maps.google.com/?q=Private+%28RSVP+at+mobilize+link+below%29",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august",
-"https://bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august?format=ical",
-"https://bethfullerforgeorgia.com/events/bryce-and-beth",
-"https://bethfullerforgeorgia.com/events/bryce-and-beth?format=ical",
-"https://bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta",
-"https://bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta?format=ical",
-"https://bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller",
-"https://bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller?format=ical",
-"https://bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems",
-"https://bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems?format=ical",
-"https://bethfullerforgeorgia.com/events/weekly-north-fulton-canvass",
-"https://bethfullerforgeorgia.com/events/weekly-north-fulton-canvass?format=ical",
-"https://bethfullerforgeorgia.com/events?category=Canvassing",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/bethfullerforgeorgia/event/1015714",
-"https://mobilize.us/bethfullerforgeorgia/event/1021152",
-"https://mobilize.us/bethfullerforgeorgia/event/1028351",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=200+morgan+falls+road+sandy+springs%2C+georgia%2C+30350+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7300+brandon+mill+rd+nw+atlanta%2C+ga+30328+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=925+riverside+road+roswell%2C+georgia%2C+30075+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=private+%28rsvp+at+mobilize+link+below%29"
+},
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Atlanta Democrats Canvass | August",
+"href": "https://www.bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august"
+},
+{
+"text": "Canvass for Beth Fuller & Adam Cleveland with Indivisible North Metro Atlanta",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta"
+},
+{
+"text": "Canvass in Buckhead - Rep. Bryce Berry, Beth Fuller, & the Take It Back Fellowship!",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth"
+},
+{
+"text": "Canvass in Sandy Springs - Senator RaShaun Kemp & Beth Fuller!",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller"
+},
+{
+"text": "Canvassing",
+"href": "https://www.bethfullerforgeorgia.com/events?category=Canvassing"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Atlanta+Democrats+Canvass+%7C+August&dates=20260829T150000Z%2F20260829T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Beth+Fuller+%26+Adam+Cleveland+with+Indivisible+North+Metro+Atlanta&dates=20260829T160000Z%2F20260829T190000Z&location=925+Riverside+Road%2C+Roswell%2C+Georgia%2C+30075%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Buckhead+-+Rep.+Bryce+Berry%2C+Beth+Fuller%2C+%26+the+Take+It+Back+Fellowship%21&dates=20260905T153000Z%2F20260905T183000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+in+Sandy+Springs+-+Senator+RaShaun+Kemp+%26+Beth+Fuller%21&dates=20260912T160000Z%2F20260912T190000Z&location=7300+Brandon+Mill+Rd+NW%2C+Atlanta%2C+GA+30328"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+North+Fulton+Dems&dates=20260829T160000Z%2F20260829T190000Z&location=200+Morgan+Falls+Road%2C+Sandy+Springs%2C+Georgia%2C+30350%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Fulton+Weekly+Canvass+with+Indivisible+North+Metro+Atlanta&dates=20260912T160000Z%2F20260912T180000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/weekly-north-fulton-canvass?format=ical"
+},
+{
+"text": "Knock Doors with North Fulton Dems",
+"href": "https://www.bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "North Fulton Weekly Canvass with Indivisible North Metro Atlanta",
+"href": "https://www.bethfullerforgeorgia.com/events/weekly-north-fulton-canvass"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "RSVP TO CANVASS",
+"href": "https://www.mobilize.us/bethfullerforgeorgia/event/1015714/"
+},
+{
+"text": "RSVP TO CANVASS",
+"href": "https://www.mobilize.us/bethfullerforgeorgia/event/1021152/"
+},
+{
+"text": "SIGN UP TO CANVASS →",
+"href": "https://www.mobilize.us/bethfullerforgeorgia/event/1028351"
+},
+{
+"text": "View Event →",
+"href": "https://www.bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august"
+},
+{
+"text": "View Event →",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth"
+},
+{
+"text": "View Event →",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta"
+},
+{
+"text": "View Event →",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller"
+},
+{
+"text": "View Event →",
+"href": "https://www.bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems"
+},
+{
+"text": "View Event →",
+"href": "https://www.bethfullerforgeorgia.com/events/weekly-north-fulton-canvass"
+},
+{
+"text": "[image: Atlanta Democrats Canvass | August]",
+"href": "https://www.bethfullerforgeorgia.com/events/atlanta-democrats-canvass-august"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[image: Canvass for Beth Fuller & Adam Cleveland with Indivisible North Metro Atlanta]",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta"
+},
+{
+"text": "[image: Canvass in Buckhead - Rep. Bryce Berry, Beth Fuller, & the Take It Back Fellowship!]",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth"
+},
+{
+"text": "[image: Canvass in Sandy Springs - Senator RaShaun Kemp & Beth Fuller!]",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-in-sandy-springs-senator-rashaun-kemp-beth-fuller"
+},
+{
+"text": "[image: Knock Doors with North Fulton Dems]",
+"href": "https://www.bethfullerforgeorgia.com/events/knock-doors-with-north-fulton-dems"
+},
+{
+"text": "[image: North Fulton Weekly Canvass with Indivisible North Metro Atlanta]",
+"href": "https://www.bethfullerforgeorgia.com/events/weekly-north-fulton-canvass"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+}
 ]

@@ -1,9 +1,8 @@
-John Gannon believes the legislature should be open to all.
+Home About About John Gannon Newsroom News Press Releases Issues Southwest Ada Well Issues Education Open Legislature and Voting Neighborhood Involvement Quality of Life Resources Government Page Program Blog Contact Connect on Facebook Open Legislature and Voting John Gannon believes the legislature should be open to all.
 He has given Legislative testimony regarding his belief that voting is a fundamental right and should not be made difficult by public political party registration and cumbersome voting regulations.
 He has testified and advocated many times against the closed primary and political party registration that results in restrictions on how people choose to vote..
 In June of 2016, John challenged the presidential caucus procedure in the Democratic Party.
 This process actually prevented voters from participating in the selection of the Presidential nominee.
-He wrote a guest editorial in the Statesman and explained the issue on Boise State Radio:
-https://www.idahostatesman.com/opinion/readers-opinion/article81481592.html
-This video from Judy explains why caucuses deny the right to vote:
-https://johngannon.org/wp-content/uploads/2013/10/Judyfeltdisenfranchised.wmv
+He wrote a guest editorial in the Statesman and explained the issue on Boise State Radio: https://www.idahostatesman.com/opinion/readers-opinion/article81481592.html https://boisestatepublicradio.org/post/idaho-democrats-move-toward-presidential-primary-format#stream/0 This video from Judy explains why caucuses deny the right to vote: https://johngannon.org/wp-content/uploads/2013/10/Judyfeltdisenfranchised.wmv Subscribe via Email Enter your email address to subscribe to John's website and receive notifications of new posts by email.
+Email Address Subscribe Paid for by Gannon for Rep Dawn King Treasurer © # Gannon State Rep.
+District 17A : John Gannon is member of the Idaho Legislature representing District 17

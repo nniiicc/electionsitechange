@@ -1,46 +1,4 @@
-Signed in as:
-filler@godaddy.com
-New York Post
-July 17, 2025
-Associated Press
-(Photo cred Associated Press)
-Texas Tribune
-July 16, 2025
-Ayden Runnels
-(Photo cred Chris Stokes, Texas Tribune)
-San Antonio Express News
-Bayliss Wagner
-KSAT 12 News
-November 11, 2024
-Erica Hernandez
-(Photo cred KSAT 12 News)
-September 8, 2021
-June 16, 2021
-June 2, 2021
-May 20, 2021
-Paul Venema
-May 19, 2021
-May 11, 2021
-KIRO 7
-April 7, 2021
-Bob D'Angelo
-(Photo cred Fox 29))
-KENS 5 News
-August 8, 2020
-Kens Staff
-(Photo cred KENS 5 News)
-July 28, 2020
-Elizabeth Zavala
-(Photo cred San Antonio Express News)
-May 17, 2019
-February 26, 2019
-Gilbert Garcia
-January 3, 2019
-FOX 29
-MARCH 11, 2019
-JIM LEFKO
-(Photo cred FOX 29)
-Copyright © 2025 Justice Velia J.
+CONTRIBUTE TO JUSTICE MEZA TODAY Home About Justice Velia About the 4th court CONTRIBUTE In the News Volunteer More Home About Justice Velia About the 4th court CONTRIBUTE In the News Volunteer Sign In My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Justice Velia About the 4th court CONTRIBUTE In the News Volunteer Account My Account Sign out Sign In My Account Velia In The News Uvalde school shooting records ordered to be released after DA pushed for files to be withheld New York Post July 17, 2025 Associated Press (Photo cred Associated Press) Find out more Appeals court orders release of Uvalde school shooting records Texas Tribune July 16, 2025 Ayden Runnels (Photo cred Chris Stokes, Texas Tribune) Find out more San Antonio court orders Uvalde officials to release Robb Elementary shooting records San Antonio Express News July 16, 2025 Bayliss Wagner (Photo cred Associated Press) Find out more Fourth Court of Appeals flips to GOP majority with election of five new justices KSAT 12 News November 11, 2024 Erica Hernandez (Photo cred KSAT 12 News) Find out more Bexar Gives Back program saves thousands in taxpayer dollars KSAT 12 News September 8, 2021 Erica Hernandez (Photo cred KSAT 12 News) Find out more Teen sentenced to prison after agreeing to plea deal in crime spree case KSAT 12 News June 16, 2021 Erica Hernandez (Photo cred KSAT 12 News) Find out more Worried for the safety of the public, Judge says autistic man facing arson charges must keep GPS KSAT 12 News June 2, 2021 Erica Hernandez (Photo cred KSAT 12 News) Find out more Training underway for defense attorneys as judicial system in Bexar County embrace new technology KSAT 12 News May 20, 2021 Paul Venema (Photo cred KSAT 12 News) Find out more Trial date set for woman accused of drunk driving, killing prominent San Antonio surgeon KSAT 12 News May 19, 2021 Paul Venema (Photo cred KSAT 12 News) Find out more Bexar County District Court Judge Prepares for Return of Live Jury Trials KSAT 12 News May 11, 2021 Paul Venema (Photo cred KSAT 12 News) Find out more Texas Woman Accused In Hit and Run Death Asks Court To Return Her BMW KIRO 7 April 7, 2021 Bob D'Angelo (Photo cred Fox 29)) Find out more Sheriff Salazar and District Court Judges Partner for Bexar Gives Back Jail Diversion Program KENS 5 News August 8, 2020 Kens Staff (Photo cred KENS 5 News) Find out more Tech-savvy Bexar County Courts Still Need In-Person Meetings San Antonio Express News July 28, 2020 Elizabeth Zavala (Photo cred San Antonio Express News) Find out more Judge Sets Conditions For San Antonio Man Who Went Off the Radar for 2 Years Following Fatality San Antonio Express News May 17, 2019 Elizabeth Zavala (Photo cred San Antonio Express News) Find out more Podcast: An Interview With District Court Judge Velia Meza San Antonio Express News February 26, 2019 Gilbert Garcia (Photo cred San Antonio Express News) Find out more New District Court Judge Officially On The Job KSAT 12 News January 3, 2019 Paul Venema (Photo cred KSAT 12 News) Find out more Local Woman Facing Second Murder Trial On Same Charge FOX 29 MARCH 11, 2019 JIM LEFKO (Photo cred FOX 29) Find out more Sign Up to Receive News & Updates SUBSCRIBE Copyright © # Justice Velia J.
 Meza Campaign- All Rights Reserved.
 Pol.
 Ad. paid by Justice Velia J.

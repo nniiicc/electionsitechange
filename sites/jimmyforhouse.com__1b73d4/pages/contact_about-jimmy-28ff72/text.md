@@ -1,6 +1,6 @@
-Jimmy Gordon for House
-About Jimmy
-Jimmy was born in Cambridge, MN in 1987.
+Less Government, More Freedom!
+Home About Jimmy My Principles Yard Sign Volunteer Contact Donate Early voting starts September 18th!
+Find My Polling Location Jimmy Gordon for House About Jimmy Jimmy was born in Cambridge, MN in 1987.
 He was raised in Spicer, MN.
 Jimmy first moved to Isanti in 2007.
 He has been married to his lovely wife Megan for 14 years and has four kids.
@@ -21,3 +21,5 @@ A dream come true!
 Jimmy joined the Isanti City Council in 2019.
 He was elected mayor in 2022 and elected to the Minnesota House of Representatives in 2024.
 He has fought for Individual Liberty, Limited Government, 2nd Amendment Rights, Pro Life/Pro Family causes and an improved approach to Education, the Economy, Health Care and Crime.
+Editable Region Save Details Cancel/Close Cancel/Close Contact Details Jimmy Gordon For House PO Box 185 Isanti, MN 55040 [email protected] 763-587-5633 Quick Links About Jimmy Contact Info Terms of Use Privacy Policy Accessibility Statement Mobile Terms and Conditions Copyright: # - # Prepared and Paid For by the Jimmy Gordon For House Campaign.
+Please ensure Javascript is enabled for purposes of website accessibility Type your search into the box below Cancel/Close Window

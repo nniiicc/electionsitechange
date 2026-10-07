@@ -1,13 +1,54 @@
 [
-"https://facebook.com/WixStudio",
-"https://instagram.com/wixstudio",
-"https://kamelasmithfordelaware.com/",
-"https://kamelasmithfordelaware.com/about",
-"https://kamelasmithfordelaware.com/blank",
-"https://kamelasmithfordelaware.com/blank-1",
-"https://kamelasmithfordelaware.com/contrast",
-"https://linkedin.com/company/wix-com",
-"https://secure.actblue.com/donate/kamela-smith-donate",
-"https://signupgenius.com/go/30E0D44A8AF2CA2F58-48756698-community?useFullSite=true",
-"https://twitter.com/WixStudio"
+{
+"text": "About",
+"href": "https://www.kamelasmithfordelaware.com/about"
+},
+{
+"text": "Contrast",
+"href": "https://www.kamelasmithfordelaware.com/contrast"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kamela-smith-donate"
+},
+{
+"text": "Home",
+"href": "https://www.kamelasmithfordelaware.com"
+},
+{
+"text": "Issues",
+"href": "https://www.kamelasmithfordelaware.com/blank"
+},
+{
+"text": "Learn More",
+"href": "https://www.kamelasmithfordelaware.com/about"
+},
+{
+"text": "Media",
+"href": "https://www.kamelasmithfordelaware.com/blank-1"
+},
+{
+"text": "Sign Up",
+"href": "https://www.signupgenius.com/go/30E0D44A8AF2CA2F58-48756698-community?useFullSite=true#/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wixstudio"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/WixStudio"
+},
+{
+"text": "[image]",
+"href": "https://www.kamelasmithfordelaware.com"
+}
 ]

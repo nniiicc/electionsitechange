@@ -1,22 +1,118 @@
 [
-"https://facebook.com/SpencerFryeStateHouse",
-"https://google.com/url?q=https%3A%2F%2F2020census.gov%2Fen%2Fabout-questions.html&sa=D&ust=1580177790922000&usg=AFQjCNGJs-zcCkvGtIagJ1KWnNPSQK2puQ",
-"https://google.com/url?q=https%3A%2F%2Fcensus.georgia.gov%2Fcensus-101%2Ffederal-aid&sa=D&ust=1580177790923000&usg=AFQjCNFm7PS7PLM51b5WfVA-0K5DQWp0vw",
-"https://google.com/url?q=https%3A%2F%2Fwww.ajc.com%2Fnews%2Fstate--regional-govt--politics%2Fcourt-finds-compelling-evidence-race-based-redistricting%2FlBkVuwXe31sbeR6p4Lk9hK%2F&sa=D&ust=1580177790925000&usg=AFQjCNHPVIySlXv3_yoRS-xhKZ5x5GiD7A",
-"https://google.com/url?q=https%3A%2F%2Fwww.census.gov%2Fhistory%2Fwww%2Fthrough_the_decades%2Ffast_facts%2F2010_fast_facts.html&sa=D&ust=1580177790923000&usg=AFQjCNGQXelrbJQ4Fc9ofyse7NVxdyCO3Q",
-"https://google.com/url?q=https%3A%2F%2Fwww.census.gov%2Fquickfacts%2Ffact%2Ftable%2FGA%2FRHI125218%23RHI125218&sa=D&ust=1580177790924000&usg=AFQjCNFgjJtgzb6TISloOT37q7KTLyxNOg",
-"https://google.com/url?q=https%3A%2F%2Fwww.censushardtocountmaps2020.us&sa=D&ust=1580177790926000&usg=AFQjCNF0arIINzIGOi4Irv_suPZt3e5oow",
-"https://google.com/url?q=https%3A%2F%2Fwww.ncsl.org%2Fresearch%2Fredistricting%2F2009-redistricting-commissions-table.aspx&sa=D&ust=1580177790927000&usg=AFQjCNEKCY8IjcCe-4vZQsT-kWWskC7E-g",
-"https://google.com/url?q=https%3A%2F%2Fwww.prb.org%2Fimportance-of-us-census%2F&sa=D&ust=1580177790926000&usg=AFQjCNEcTL2qhFjdYXZyYWupEifljbdLVg",
-"https://google.com/url?q=https%3A%2F%2Fwww.vox.com%2F2014%2F8%2F5%2F17991986%2Fracial-gerrymandering&sa=D&ust=1580177790927000&usg=AFQjCNFbY18dL_qYWgo5nOx0aiDmSuTvKw",
-"https://secure.actblue.com/donate/spencerfrye",
-"https://spencerfrye.com/",
-"https://spencerfrye.com/capitol-corner",
-"https://spencerfrye.com/category/capitol-corner",
-"https://spencerfrye.com/constituents",
-"https://spencerfrye.com/fellowship",
-"https://spencerfrye.com/meet-spencer",
-"https://spencerfrye.com/priorities",
-"https://spencerfrye.com/volunteer",
-"https://x.com/spencerfrye"
+{
+"text": "About",
+"href": "https://www.spencerfrye.com/meet-spencer/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/capitol-corner/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/category/capitol-corner/"
+},
+{
+"text": "Constituents",
+"href": "https://www.spencerfrye.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spencerfrye"
+},
+{
+"text": "Fellowship",
+"href": "https://www.spencerfrye.com/fellowship/"
+},
+{
+"text": "Priorities",
+"href": "https://www.spencerfrye.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.spencerfrye.com/volunteer/"
+},
+{
+"text": "[1]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.census.gov%2Fhistory%2Fwww%2Fthrough_the_decades%2Ffast_facts%2F2010_fast_facts.html&sa=D&ust=1580177790923000&usg=AFQjCNGQXelrbJQ4Fc9ofyse7NVxdyCO3Q"
+},
+{
+"text": "[2]",
+"href": "https://www.google.com/url?q=https%3A%2F%2F2020census.gov%2Fen%2Fabout-questions.html&sa=D&ust=1580177790922000&usg=AFQjCNGJs-zcCkvGtIagJ1KWnNPSQK2puQ"
+},
+{
+"text": "[3]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fcensus.georgia.gov%2Fcensus-101%2Ffederal-aid&sa=D&ust=1580177790923000&usg=AFQjCNFm7PS7PLM51b5WfVA-0K5DQWp0vw"
+},
+{
+"text": "[4]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.prb.org%2Fimportance-of-us-census%2F&sa=D&ust=1580177790926000&usg=AFQjCNEcTL2qhFjdYXZyYWupEifljbdLVg"
+},
+{
+"text": "[5]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.census.gov%2Fquickfacts%2Ffact%2Ftable%2FGA%2FRHI125218%23RHI125218&sa=D&ust=1580177790924000&usg=AFQjCNFgjJtgzb6TISloOT37q7KTLyxNOg"
+},
+{
+"text": "[6]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ajc.com%2Fnews%2Fstate--regional-govt--politics%2Fcourt-finds-compelling-evidence-race-based-redistricting%2FlBkVuwXe31sbeR6p4Lk9hK%2F&sa=D&ust=1580177790925000&usg=AFQjCNHPVIySlXv3_yoRS-xhKZ5x5GiD7A"
+},
+{
+"text": "[7]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.vox.com%2F2014%2F8%2F5%2F17991986%2Fracial-gerrymandering&sa=D&ust=1580177790927000&usg=AFQjCNFbY18dL_qYWgo5nOx0aiDmSuTvKw"
+},
+{
+"text": "[8]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ncsl.org%2Fresearch%2Fredistricting%2F2009-redistricting-commissions-table.aspx&sa=D&ust=1580177790927000&usg=AFQjCNEKCY8IjcCe-4vZQsT-kWWskC7E-g"
+},
+{
+"text": "[9]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.censushardtocountmaps2020.us&sa=D&ust=1580177790926000&usg=AFQjCNF0arIINzIGOi4Irv_suPZt3e5oow"
+},
+{
+"text": "[image: State Representative District 122] State Representative District 122",
+"href": "https://www.spencerfrye.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SpencerFryeStateHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/spencerfrye"
+},
+{
+"text": "https://2020census.gov/en/about-questions.html&sa=D&ust=1580177790922000&usg=AFQjCNGJs-zcCkvGtIagJ1KWnNPSQK2puQ",
+"href": "https://www.google.com/url?q=https%3A%2F%2F2020census.gov%2Fen%2Fabout-questions.html&sa=D&ust=1580177790922000&usg=AFQjCNGJs-zcCkvGtIagJ1KWnNPSQK2puQ"
+},
+{
+"text": "https://census.georgia.gov/census-101/federal-aid&sa=D&ust=1580177790923000&usg=AFQjCNFm7PS7PLM51b5WfVA-0K5DQWp0vw",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fcensus.georgia.gov%2Fcensus-101%2Ffederal-aid&sa=D&ust=1580177790923000&usg=AFQjCNFm7PS7PLM51b5WfVA-0K5DQWp0vw"
+},
+{
+"text": "https://www.ajc.com/news/state–regional-govt–politics/court-finds-compelling-evidence-race-based-redistricting/lBkVuwXe31sbeR6p4Lk9hK/&sa=D&ust=1580177790925000&usg=AFQjCNHPVIySlXv3_yoRS-xhKZ5x5GiD7A",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ajc.com%2Fnews%2Fstate--regional-govt--politics%2Fcourt-finds-compelling-evidence-race-based-redistricting%2FlBkVuwXe31sbeR6p4Lk9hK%2F&sa=D&ust=1580177790925000&usg=AFQjCNHPVIySlXv3_yoRS-xhKZ5x5GiD7A"
+},
+{
+"text": "https://www.census.gov/history/www/through_the_decades/fast_facts/2010_fast_facts.html&sa=D&ust=1580177790923000&usg=AFQjCNGQXelrbJQ4Fc9ofyse7NVxdyCO3Q",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.census.gov%2Fhistory%2Fwww%2Fthrough_the_decades%2Ffast_facts%2F2010_fast_facts.html&sa=D&ust=1580177790923000&usg=AFQjCNGQXelrbJQ4Fc9ofyse7NVxdyCO3Q"
+},
+{
+"text": "https://www.census.gov/quickfacts/fact/table/GA/RHI125218%23RHI125218&sa=D&ust=1580177790924000&usg=AFQjCNFgjJtgzb6TISloOT37q7KTLyxNOg",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.census.gov%2Fquickfacts%2Ffact%2Ftable%2FGA%2FRHI125218%23RHI125218&sa=D&ust=1580177790924000&usg=AFQjCNFgjJtgzb6TISloOT37q7KTLyxNOg"
+},
+{
+"text": "https://www.censushardtocountmaps2020.us&sa=D&ust=1580177790926000&usg=AFQjCNF0arIINzIGOi4Irv_suPZt3e5oow",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.censushardtocountmaps2020.us&sa=D&ust=1580177790926000&usg=AFQjCNF0arIINzIGOi4Irv_suPZt3e5oow"
+},
+{
+"text": "https://www.ncsl.org/research/redistricting/2009-redistricting-commissions-table.aspx&sa=D&ust=1580177790927000&usg=AFQjCNEKCY8IjcCe-4vZQsT-kWWskC7E-g",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.ncsl.org%2Fresearch%2Fredistricting%2F2009-redistricting-commissions-table.aspx&sa=D&ust=1580177790927000&usg=AFQjCNEKCY8IjcCe-4vZQsT-kWWskC7E-g"
+},
+{
+"text": "https://www.prb.org/importance-of-us-census/&sa=D&ust=1580177790926000&usg=AFQjCNEcTL2qhFjdYXZyYWupEifljbdLVg",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.prb.org%2Fimportance-of-us-census%2F&sa=D&ust=1580177790926000&usg=AFQjCNEcTL2qhFjdYXZyYWupEifljbdLVg"
+},
+{
+"text": "https://www.vox.com/2014/8/5/17991986/racial-gerrymandering&sa=D&ust=1580177790927000&usg=AFQjCNFbY18dL_qYWgo5nOx0aiDmSuTvKw",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.vox.com%2F2014%2F8%2F5%2F17991986%2Fracial-gerrymandering&sa=D&ust=1580177790927000&usg=AFQjCNFbY18dL_qYWgo5nOx0aiDmSuTvKw"
+}
 ]

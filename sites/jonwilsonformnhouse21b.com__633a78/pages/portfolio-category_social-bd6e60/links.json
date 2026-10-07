@@ -1,12 +1,66 @@
 [
-"https://jonwilsonformnhouse21b.com/",
-"https://jonwilsonformnhouse21b.com/about",
-"https://jonwilsonformnhouse21b.com/contact",
-"https://jonwilsonformnhouse21b.com/donation",
-"https://jonwilsonformnhouse21b.com/key-issues-values",
-"https://jonwilsonformnhouse21b.com/portfolio",
-"https://jonwilsonformnhouse21b.com/portfolio-category/social",
-"https://jonwilsonformnhouse21b.com/portfolio/emt-funding",
-"https://jonwilsonformnhouse21b.com/portfolio/gun-violence",
-"https://jonwilsonformnhouse21b.com/portfolio/health-care"
+{
+"text": "About",
+"href": "https://jonwilsonformnhouse21b.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://jonwilsonformnhouse21b.com/contact/"
+},
+{
+"text": "Donation or Volunteer",
+"href": "https://jonwilsonformnhouse21b.com/donation/"
+},
+{
+"text": "EMT Funding",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/emt-funding/"
+},
+{
+"text": "Gun Violence",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/gun-violence/"
+},
+{
+"text": "Health Care",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/health-care/"
+},
+{
+"text": "Home",
+"href": "https://jonwilsonformnhouse21b.com"
+},
+{
+"text": "Home",
+"href": "https://jonwilsonformnhouse21b.com/"
+},
+{
+"text": "Issues & Values",
+"href": "https://jonwilsonformnhouse21b.com/key-issues-values/"
+},
+{
+"text": "Social",
+"href": "https://jonwilsonformnhouse21b.com/portfolio-category/social/"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://jonwilsonformnhouse21b.com/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://jonwilsonformnhouse21b.com/"
+},
+{
+"text": "[image]",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/emt-funding/"
+},
+{
+"text": "[image]",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/gun-violence/"
+},
+{
+"text": "[image]",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/health-care/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://jonwilsonformnhouse21b.com/portfolio/"
+}
 ]

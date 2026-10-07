@@ -1,7 +1,6 @@
-For decades, I have written and published said publications on several different communication platforms without much success but, hopefully, someone will read this blog and go forward with sincere efforts to enlighten the people of the United States that we are a Constitutional Republic, not a theocracy or dictatorship.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Thomas Jefferson’s Written Opinion Regarding God Was Correct / Blog Post / By Billy Ray Wilson For decades, I have written and published said publications on several different communication platforms without much success but, hopefully, someone will read this blog and go forward with sincere efforts to enlighten the people of the United States that we are a Constitutional Republic, not a theocracy or dictatorship.
 Thomas Jefferson, our third US President, was a gifted individual that was responsible for the growth of the United States however, there are those that demean him for owning slaves and fathering children, out of wedlock, with his primary slave.
-(Allegedly, his wife’s half sister who was impregnated by Jefferson’s wife’s father.)
-Yes, without a doubt, the possession of another human being is not within the bounds of humanity but was a major economic source for foreign and North American investors.
+(Allegedly, his wife’s half sister who was impregnated by Jefferson’s wife’s father.) Yes, without a doubt, the possession of another human being is not within the bounds of humanity but was a major economic source for foreign and North American investors.
 Sadly, for the citizens of the United States and the international community, a primary investor in our colonial slave trade is one of the owners of the US Federal Reserve and continues to monopolize US Foreign Policy in any manner that brings the family income regardless of the harm imposed on the international community.
 Regarding Mr.
 Jefferson’s printed view on God and the Universe, I recently read and Starred the Communications on the subject identified and read Mr.
@@ -20,6 +19,6 @@ If the people of the United States want to preserve the idea of the United State
 Yes, the Constitution needs Amendments to bring our country to today and future environments.
 We no longer live in 1776 and most Important, in my opinion, our country’s NASA (space administration) confirmed life as a Chemical System coupled with Darwin’s Evolution, no supreme being entity or Arab tribe initiating the origin of mankind and/or life forms on the Planet Earth.
 Thank you.
-With respect, I remain,
-BILLY RAY WILSON
-DEFENDER OF THE US CONSTITUTION
+With respect, I remain, BILLY RAY WILSON DEFENDER OF THE US CONSTITUTION ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

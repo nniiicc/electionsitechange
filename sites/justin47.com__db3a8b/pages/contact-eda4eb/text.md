@@ -1,9 +1,4 @@
-Get in Touch
-Contact
-Questions, press inquiries, event requests — we'd love to hear from you.
-General:
-[email protected]
-Press:
-[email protected]
-Committee Address:
-9175 Dogwood Ln, Dexter, MI 48130
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate Get in Touch Contact Questions, press inquiries, event requests — we'd love to hear from you.
+What's this about?
+General Inquiry Press / Media Event Request Volunteering Endorsement Inquiry Name * Email * Phone Subject Message * Send Message Direct Contact General: [email protected] Press: [email protected] Committee Address: 9175 Dogwood Ln, Dexter, MI 48130 Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

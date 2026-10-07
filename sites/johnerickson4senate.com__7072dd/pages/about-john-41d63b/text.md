@@ -1,5 +1,4 @@
-About John
-Councilmember.
+0 Skip to Content About Endorsements PRIORITIES Volunteer Resources Photos VIDEOS Contact DONATE Open Menu Close Menu About Endorsements PRIORITIES Volunteer Resources Photos VIDEOS Contact DONATE Open Menu Close Menu About Endorsements PRIORITIES Volunteer Folder: Resources Back Photos VIDEOS Contact DONATE About John Councilmember.
 Chief of Staff at Alliance for a Better Community.
 Former VP of Planned Parenthood Los Angeles.
 John Erickson, represents a new kind of Democratic leader—one who has proven to be a courageous, proactive, and effective leader who will never give up a fight for what’s right.
@@ -34,5 +33,5 @@ He helped take on the Trump Administration to make California a sanctuary state 
 Through his work with the Alliance for a Better Community, John organizes allies to protect our immigrant communities and fight back against the inhumane tactics of ICE.
 John believes California must set an example for the rest of the country and say ICE OUT and make our state a safe haven for everyone—regardless of their religion, color of their skin, or who they chose to love.
 WHERE IS THE 24TH STATE SENATE DISTRICT?
-The 24th includes the communities of:
-Agoura Hills, Beverly Hills, Calabasas, El Segundo, Gardena, Hermosa Beach, Hidden Hills, Lomita, Malibu, Manhattan Beach, Palos Verdes Estates, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, Santa Monica, Torrance, West Hollywood, and Westlake Village; the Los Angeles neighborhoods of Bel Air, Beverly Grove, Brentwood, Fairfax, Holmby Hills, Hollywood, Hollywood Hills, Little Holmby, Mid City West, Pacific Palisades, Playa del Rey, Sunset Hills, Venice, West LA/Sawtelle, Westwood, and Westwood Village; and the unincorporated Los Angeles County communities of the Santa Monica Mountains and Marina Del Rey.
+The 24th includes the communities of: Agoura Hills, Beverly Hills, Calabasas, El Segundo, Gardena, Hermosa Beach, Hidden Hills, Lomita, Malibu, Manhattan Beach, Palos Verdes Estates, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, Santa Monica, Torrance, West Hollywood, and Westlake Village; the Los Angeles neighborhoods of Bel Air, Beverly Grove, Brentwood, Fairfax, Holmby Hills, Hollywood, Hollywood Hills, Little Holmby, Mid City West, Pacific Palisades, Playa del Rey, Sunset Hills, Venice, West LA/Sawtelle, Westwood, and Westwood Village; and the unincorporated Los Angeles County communities of the Santa Monica Mountains and Marina Del Rey.
+Join Team Erickson Paid for by John Erickson for State Senate 2026, FPPC ID#1479089 312 Clay Street #300, Oakland CA 94607 Privacy Policy | SMS Terms & Conditions

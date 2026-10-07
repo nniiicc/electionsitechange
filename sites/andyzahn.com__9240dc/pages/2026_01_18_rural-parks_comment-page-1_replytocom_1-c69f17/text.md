@@ -1,5 +1,4 @@
-Enhancing local and regional economies through expanded outdoor recreation opportunities
-Outdoor recreation is among the most popular pastimes in Washington State, with the average Washingtonian spending an average of 56 days per year engaged in outdoor activities.
+Skip to content Andy Zahn Platform About Rural Parks Enhancing local and regional economies through expanded outdoor recreation opportunities Outdoor recreation is among the most popular pastimes in Washington State, with the average Washingtonian spending an average of 56 days per year engaged in outdoor activities.
 As a result, our National Parks and remote wilderness areas have been overwhelmed by the demand for access to hiking and camping opportunities.
 Outdoor recreation supports over 200,000 jobs in Washington, and outdoor enthusiasts spend over $21 Billion each year.
 It is apparent that access to outdoor recreation is a priority to the vast majority of Washingtonians, and that it is a key component of our state’s economy.
@@ -59,18 +58,8 @@ The improvements suggested here are proposed as a means to rapidly achieve the d
 While the cost of the proposed restoration measures and recreation facility construction have been considered specifically to keep costs down while maximizing the visitor appeal and ecological value of these parks, it must be stressed that funding the acquisition of the land itself is paramount.
 Everyone loves parks, most Americans support conservation and participate in outdoor recreation.
 Protecting land in rural areas of Washington State offers perhaps the greatest opportunity for economic diversification in our communities here, and it will drastically improve not only the viability of struggling rural towns, but also make them much better places to live.
-Additional Resources
-- Economic Analysis of Recreation in Washington State: https://rco.wa.gov/wp-content/uploads/2020/07/EconomicReportOutdoorRecreation2020.pdf
-- Defenders of Wildlife poll conducted by Real Clear Politics on public support for conservation issues: https://defenders.org/newsroom/new-defenders-poll-shows-american-public-overwhelmingly-supports-endangered-species-act
-- Poll conducted by the Nature Conservancy establishing broad support for conservation regardless of political affiliation: https://conservationtools-production.s3.amazonaws.com/library_item_files/1205/1098/TNC_National_Poll.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIQFJLILYGVDR4AMQ%2F20251105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251105T182444Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9aebfe214d9361ea59a41d3074f2e27da33aadd2d3a0bb312f25ad4634569865
-- Study documenting the positive impact of outdoor recreation in rural economies in Appalachia (a region for which there are applicable parallels in rural areas of the Pacific Northwest): https://www.scienceimpactpub.com/journals/index.php/jei/article/view/173
-- Study documenting the health benefits of parks: https://www.tpl.org/wp-content/uploads/2023/05/The-Power-of-Parks-to-Promote-Health-A-Trust-for-Public-Land-Special-Report.pdf
-- National Park and Recreation Association fact sheet: https://www.nrpa.org/contentassets/9c491783f73a45f89abb0443b1a3e977/parks-improved-mental-health-quality-life.pdf
-- A Study on the Impact of Public Parks on Community Health: https://journals.sagepub.com/doi/10.1177/10793739241277600
-- The Economic Impact of ParksAn Examination of the Fiscal Effects of Operations and Capital Spending by Local Park and Recreation Agencies on the U.S.
-Economy https://www.nrpa.org/contentassets/f568e0ca499743a08148e3593c860fc5/2023-economic-impact-report.pdf
-Q&A
-Q: How long would it take for a new park to deliver economic benefits to a community?
+Additional Resources Economic Analysis of Recreation in Washington State: https://rco.wa.gov/wp-content/uploads/2020/07/EconomicReportOutdoorRecreation2020.pdf Defenders of Wildlife poll conducted by Real Clear Politics on public support for conservation issues: https://defenders.org/newsroom/new-defenders-poll-shows-american-public-overwhelmingly-supports-endangered-species-act Poll conducted by the Nature Conservancy establishing broad support for conservation regardless of political affiliation: https://conservationtools-production.s3.amazonaws.com/library_item_files/1205/1098/TNC_National_Poll.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIQFJLILYGVDR4AMQ%2F20251105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251105T182444Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9aebfe214d9361ea59a41d3074f2e27da33aadd2d3a0bb312f25ad4634569865 Study documenting the positive impact of outdoor recreation in rural economies in Appalachia (a region for which there are applicable parallels in rural areas of the Pacific Northwest): https://www.scienceimpactpub.com/journals/index.php/jei/article/view/173 Study documenting the health benefits of parks: https://www.tpl.org/wp-content/uploads/2023/05/The-Power-of-Parks-to-Promote-Health-A-Trust-for-Public-Land-Special-Report.pdf National Park and Recreation Association fact sheet: https://www.nrpa.org/contentassets/9c491783f73a45f89abb0443b1a3e977/parks-improved-mental-health-quality-life.pdf A Study on the Impact of Public Parks on Community Health: https://journals.sagepub.com/doi/10.1177/10793739241277600 The Economic Impact of ParksAn Examination of the Fiscal Effects of Operations and Capital Spending by Local Park and Recreation Agencies on the U.S.
+Economy https://www.nrpa.org/contentassets/f568e0ca499743a08148e3593c860fc5/2023-economic-impact-report.pdf Q&A Q: How long would it take for a new park to deliver economic benefits to a community?
 A: This would vary based on the land in question and how quickly a trail system could be established.
 Some parks would require little in the way of environmental restoration, while others would require some years to mature following the long term exploitation which many landscapes here in the Pacific Northwest have endured.
 Once trails, picnic areas, and tent sites are established, visitation should grow quickly.
@@ -93,13 +82,16 @@ I would recommend allocating an acquisition budget of between $2.5 billion and $
 It is worth noting that these figures are assuming current prices, but given the high likelihood of decline in real-estate prices, this total investment necessary could be far lower.
 Basic development and maintenance would be relatively minor, with each park only likely to cost a few thousand dollars to initially develop, with the rustic facilities needing very little in the way of oversight or annual maintenance.
 At a rough estimate, development would cost in total perhaps one or two million dollars, while annual oversight and maintenance would likely only cost a few hundred thousand for the entire park system.
-Pros & Cons
-Pro: Would bring significant, long term economic benefits to struggling rural communities.
+Pros & Cons Pro: Would bring significant, long term economic benefits to struggling rural communities.
 Pro: Benefits to physical and mental health in rural communities.
 Pro: Reduced pressure on overcrowded parks and other public lands.
 Con: Would require a significant upfront investment, though this would be offset by the long term economic benefits of the program.
 Pro: Provides a much needed increase in the number of available campsites.
 Con: A significant amount of time would be required for the benefits of this program to reach their full potential.
 It would be an investment in our future.
-Pro: Protects and restores ecosystems, providing a significant boost to ecosystem services on a local and regional scale (reduced fire/flood danger, moderated wind, heat, and drought, clean air and water, etc.)
-Pro: A dramatic increase in wildlife habitat and the preservation of wildlife corridors.
+Pro: Protects and restores ecosystems, providing a significant boost to ecosystem services on a local and regional scale (reduced fire/flood danger, moderated wind, heat, and drought, clean air and water, etc.) Pro: A dramatic increase in wildlife habitat and the preservation of wildlife corridors.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Response Hopgood Rock Park Plan – Andy Zahn May 14, 2026 Reply Leave a Reply to Hopgood Rock Park Plan – Andy Zahn Cancel reply Connect with me Bluesky: https://bsky.app/profile/electandy.bsky.social Facebook: https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/ YouTube: https://www.youtube.com/@AndyZahn Substack: https://substack.com/@andyzahn1 Contact Email: Andy420th@proton.me Mailing Address: Andy Zahn P.O.
+Box 26 Toutle, WA, 98649 Discover more from Andy Zahn Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

@@ -1,9 +1,9 @@
-I'm On The Ballot!!! - Volunteer!
-Illinois State Representative candidates need 500 signatures to secure a place on the ballot.
+Home Meet Volunteer Voter Information Contribute Contact Photos I'm On The Ballot!!! - Volunteer!
+Illinois State Representative candidates need # signatures to secure a place on the ballot.
 I am a candidate supported by Illinois Policy.
 They committed to getting 500, and I agreed to match that.
 Generally, the goal is to get double the minimum required.
-Tuesday, August 5th, was the first day of the 90-day petition season.
+Tuesday, August 5 th, was the first day of the 90-day petition season.
 I needed an easy sell to build my confidence, so I went to a friend’s house.
 She happily signed and took me across the street to have a relative sign as well.
 I was off to a good start.
@@ -36,3 +36,11 @@ Petition season was quite the positive experience.
 Now the hard work begins.
 Ready to roll up your sleeves?
 Sign up below to volunteer!
+First Name Last Name Email Phone Address City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip Submit Support the Campaign!
+Running a successful campaign takes a team and resources.
+Help me spread my message and build a movement for actual change.
+Please consider donating $25, $50, $100, or any amount you can afford.
+Even if you're not in the district and can't vote for me, I'll be voting for YOU in Springfield.
+I'm grateful for your support. $25 $50 $100 $250 $500 $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+VOLUNTEER CONTRIBUTE Get Updates Thank you for signing up!
+News Make Endorsement Volunteer Contact Contribute Privacy Policy Citizens for Stephanie Trussell Home Contribute Volunteer Contact Make Endorsement Privacy Policy Close Menu

@@ -1,4 +1,4 @@
-| Many have proclaimed their disapproval over elections outcomes.
+UT 74 VOTE ABOUT Posts Experience Contact Path to Less Contentious Politics 1/13/2019 Many have proclaimed their disapproval over elections outcomes.
 Some have suggested foul play because their candidate isn't automatically declared the winner.
 Some have labeled elections processes undemocratic.
 In a few instances, unsatisfied individuals propose a referendum or ballot initiative to change election rules.
@@ -37,4 +37,5 @@ Some issues will move too slowly to appease advocates, but governance is a proce
 By definition it is slow, you don't get everything you want, and there are opposing views trying to stop your efforts.
 Understanding the process is an important part of participation.
 Citizens understand what it means to vote, but frequently misunderstand the process and misinterpret the outcomes.
-We must do a better job educating voters and their children about our elections and legislative processes if we want better voter participation with less contention in the future. | |
+We must do a better job educating voters and their children about our elections and legislative processes if we want better voter participation with less contention in the future.
+Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

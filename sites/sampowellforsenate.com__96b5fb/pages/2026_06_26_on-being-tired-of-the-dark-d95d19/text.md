@@ -1,11 +1,9 @@
-I was going to post a video today.
+Skip to content Sam Powell for Senate Courage, Compassion, Community Menu Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform On being tired of the dark I was going to post a video today.
 Earlier, the road construction outside my porch was in full swing.
 The porch was rattling and the house shaking.
-So the video will have to wait…
-Then I see the news.
+So the video will have to wait… Then I see the news.
 Sometimes I get overwhelmed with the darkness.
-The lies, the false witness, the suffering, the destruction of our monuments, the soaring prices, the struggling farmers, asylum seekers living in fear, the white supremacy in the highest places of our country…
-Abuse, greed, theft, lying as an executive pastime, assault…it gets me.
+The lies, the false witness, the suffering, the destruction of our monuments, the soaring prices, the struggling farmers, asylum seekers living in fear, the white supremacy in the highest places of our country… Abuse, greed, theft, lying as an executive pastime, assault…it gets me.
 I don’t think this is a “politics as usual” campaign.
 I think that this fall we are fighting for the soul of our nation, including right here in Minnesota.
 Why do communities have to “assimilate” or go “back to where they came from”?
@@ -29,14 +27,11 @@ How a madman destroyed so much in 18 short months will be studied for decades to
 But WE, we have work to do.
 We have a country to rebuild, we have safeguards to put in place so that this will never happen again.
 We, together, can do this.
-We can make America the land of the free again…
-It will take all of us, and sometimes the sheer amount of work ahead is so daunting…
-So tonight, I will pray for my neighbors, my community, my district, my country…
-And tomorrow, I will dust myself off again, and head back into the battle.
+We can make America the land of the free again… It will take all of us, and sometimes the sheer amount of work ahead is so daunting… So tonight, I will pray for my neighbors, my community, my district, my country… And tomorrow, I will dust myself off again, and head back into the battle.
 When things are dark, that is the time when even a dim light makes all the difference.
 Won’t you join me?
-Author: Sam Powell
-What am I doing here?
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Related Author: Sam Powell What am I doing here?
 I am an ex-Reformed pastor.
 I love the system of doctrine found in the confessions of the church because they lead to Jesus, exalt Jesus, and clarify the life and work of Jesus.
 But I worship him, not the confessions.
@@ -51,27 +46,19 @@ And one more - in the 70s, a cult leader named Bill Gothard invented a religion 
 He peddled it to millions under the guise of Christianity.
 All of these streams combined into a weird, oppressive, violent, vicious mixture which has infiltrated the churches.
 It is a strange new religion, under the guise of Christianity, but has nothing to do with it.
-It has gone by different names: Moral Majority; Christian Nationalism; Patriarchalism;
-It worships power and authority, it worships traditions and parliamentarian procedures, it worships celebrity, and it worships those who can argue down a liberal or a feminist.
+It has gone by different names: Moral Majority; Christian Nationalism; Patriarchalism; It worships power and authority, it worships traditions and parliamentarian procedures, it worships celebrity, and it worships those who can argue down a liberal or a feminist.
 It values destroying enemies with argument, it values contempt and winning the debate.
-It calls for the release of Barrabas - at least he was trying to do something about Rome-
-And shouts for Jesus to be crucified.
-What this new religion doesn't have is:
-Jesus, the Lamb of God
-Grace
-Mercy
-Compassion
-Understanding
-Listening
-or Good news.
+It calls for the release of Barrabas - at least he was trying to do something about Rome- And shouts for Jesus to be crucified.
+What this new religion doesn't have is: Jesus, the Lamb of God Grace Mercy Compassion Understanding Listening or Good news.
 All it knows is law.
 And all it trusts in is power.
 It knows nothing of washing feet, of letting the mind of Christ dwell in us, or of taking the lowest place.
 So this is why I am here.
-For those who have been run down by Driscoll's bus, who have been crushed by the Gothard machine, cast out by Wilson's cult (or Piper's or MacArthur's)...
-...for those who are so confused that they don't know how to separate the gospel of Jesus Christ from the lies and tangles that the enemy has woven into a snare...
+For those who have been run down by Driscoll's bus, who have been crushed by the Gothard machine, cast out by Wilson's cult (or Piper's or MacArthur's)... ...for those who are so confused that they don't know how to separate the gospel of Jesus Christ from the lies and tangles that the enemy has woven into a snare...
 I offer my services.
 I can listen.
 I can help untangle the lies by pointing you to the simplicity of the faith once for all delivered to the saints.
-You can find me at sampowellministries.com
-View all posts by Sam Powell
+You can find me at sampowellministries.com View all posts by Sam Powell Author Sam Powell Posted on June 26, 2026 Categories Uncategorized Tags america , faith , freedom , hope Leave a comment Cancel reply Δ Post navigation Previous Previous post: Why am I doing this?
+Next Next post: Snap benefits and the idle rich @sampowell_sd19 Sam Powell for Senate Sam Powell for Senate Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Comment Reblog Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
+Log in now.
+Sam Powell for Senate Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

@@ -1,7 +1,9 @@
 {
  "description": "Find essential Nevada voting information and resources, including how to register to vote and candidate filing details.",
  "final_url": "https://andrews4nevada.com/voting-info",
- "paid_for_by": null,
+ "fingerprint": "2b510da0224da31bdfba752db086393192494428",
+ "format": 3,
+ "paid_for_by": "",
  "title": "VOTING INFO",
  "years_mentioned": []
 }

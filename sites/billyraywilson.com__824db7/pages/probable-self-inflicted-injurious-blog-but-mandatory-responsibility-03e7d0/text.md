@@ -1,4 +1,4 @@
-Individuals, from around the international community came to North America, before the idea of a nation, where all people regardless of race, creed, religion, sex orientation, etc., could live as equals without a mandatory religion, government persecution or whatever the negative factor for their own self-interest however, sadly, foreign governments and, of course, the religion oriented insurrections learned of the bountiful wealth and world power North America held for those that owned and/or occupied the continent.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Probable Self-Inflicted Injurious Blog, But Mandatory Responsibility / Blog Post / By Billy Ray Wilson Individuals, from around the international community came to North America, before the idea of a nation, where all people regardless of race, creed, religion, sex orientation, etc., could live as equals without a mandatory religion, government persecution or whatever the negative factor for their own self-interest however, sadly, foreign governments and, of course, the religion oriented insurrections learned of the bountiful wealth and world power North America held for those that owned and/or occupied the continent.
 The great powers, Spain, The British Empire, France came and abused the indigenous population until the powers cited had established colonies that would be traded, sold, bartered, and wars fought to recover other’s lands, without of course, concern for the indigenous population.
 Alas, in 1776, the British North American Colonies on the northeastern seaboard defeated the British Empire and established the United States which at the founding consisted of thirteen colonies.
 My state, one of the four Commonwealth States, Kentucky was the fifteenth state to join the new Union.
@@ -12,5 +12,6 @@ The investors have destroyed Europe, except for the soon expired Ukraine, and th
 There are not now or ever been Gods of Abraham however, sadly, the majority of investors attempting to destroy the United States are converts to Judaism.
 Thomas Jefferson attempted to identify a Wall of Separation between Religion and our Constitutional Republic but failed due to greed and self-interest.
 Thank you.
-BILLY RAY WILSON
-DEFENDER OF THE US CONSTITUTION
+BILLY RAY WILSON DEFENDER OF THE US CONSTITUTION ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

@@ -1,2 +1,3 @@
+Skip to content Home About Endorsements Issues The District Get Involved Contact Home About Endorsements Issues The District Get Involved Contact CONTRIBUTE Education Suzy is a firm supporter of Illinois’ public education system.
 Suzy wants to use resources saved from reduction of bureaucratic redundancies to help offset the property tax burden.
-By making some of this new revenue available for schools, Illinois can work with local governments here in DuPage to lower the impact of property taxes.
+By making some of this new revenue available for schools, Illinois can work with local governments here in DuPage to lower the impact of property taxes. back to issues Facebook X-twitter Youtube The District Get Involved Contact Privacy Policy The District Get Involved Contact Privacy Policy Contribute Paid for by Friends of Suzy Glowiak Scroll to Top

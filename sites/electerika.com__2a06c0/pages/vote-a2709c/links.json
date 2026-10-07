@@ -1,20 +1,98 @@
 [
-"https://cambridgema.gov/departments/electioncommission",
-"https://electerika.com/",
-"https://electerika.com/endorsements",
-"https://electerika.com/meet-erika",
-"https://electerika.com/newsletters",
-"https://electerika.com/platform",
-"https://electerika.com/press",
-"https://electerika.com/privacy",
-"https://electerika.com/volunteer",
-"https://electerika.com/vote",
-"https://instagram.com/electerika",
-"https://medfordma.org/departments/elections-commission",
-"https://sec.state.ma.us/MailInRequestWeb/MailInBallot.aspx",
-"https://sec.state.ma.us/WhereDoIVoteMA",
-"https://sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm",
-"https://secure.actblue.com/donate/erika-uyterhoeven",
-"https://somervillema.gov/departments/elections",
-"https://winchester.us/148/Town-Clerk"
+{
+"text": "(857) 264-1096",
+"href": "tel:8572641096"
+},
+{
+"text": "Apply for Mail Ballot",
+"href": "https://www.sec.state.ma.us/MailInRequestWeb/MailInBallot.aspx"
+},
+{
+"text": "Cambridge",
+"href": "https://www.cambridgema.gov/departments/electioncommission"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/erika-uyterhoeven"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/erika-uyterhoeven"
+},
+{
+"text": "Early Voting Details",
+"href": "https://www.sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm"
+},
+{
+"text": "Endorse Erika",
+"href": "mailto:erika@electerika.com?subject=Endorsement"
+},
+{
+"text": "Endorsements",
+"href": "https://electerika.com/endorsements/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/"
+},
+{
+"text": "Get Involved",
+"href": "https://electerika.com/volunteer/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electerika/"
+},
+{
+"text": "Medford",
+"href": "https://www.medfordma.org/departments/elections-commission"
+},
+{
+"text": "Meet Erika",
+"href": "https://electerika.com/meet-erika/"
+},
+{
+"text": "Newsletter",
+"href": "https://electerika.com/newsletters/"
+},
+{
+"text": "Newsletters",
+"href": "https://electerika.com/newsletters/"
+},
+{
+"text": "Platform",
+"href": "https://electerika.com/platform/"
+},
+{
+"text": "Press",
+"href": "https://electerika.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electerika.com/privacy/"
+},
+{
+"text": "Somerville",
+"href": "https://www.somervillema.gov/departments/elections"
+},
+{
+"text": "Volunteer",
+"href": "https://electerika.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://electerika.com/vote/"
+},
+{
+"text": "Winchester",
+"href": "https://www.winchester.us/148/Town-Clerk"
+},
+{
+"text": "[image: Erika Uyterhoeven for State Senate] [image: Erika Uyterhoeven for State Senate]",
+"href": "https://electerika.com/"
+},
+{
+"text": "erika@electerika.com",
+"href": "mailto:erika@electerika.com"
+}
 ]

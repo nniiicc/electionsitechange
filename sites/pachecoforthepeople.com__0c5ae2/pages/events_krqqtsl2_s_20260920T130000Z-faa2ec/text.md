@@ -1,10 +1,3 @@
-Pizza Party with Pacheco
-Time
-Sunday, Sep 20, 2026
-1:00 PM – 5:00 PM
-Location
-16 Faith Street, Dartmouth, MA, 02748
-About this event
-Location
-16 Faith Street
-Dartmouth, MA 02748
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Events / Pizza Party with Pacheco Pizza Party with Pacheco Time Sunday, Sep 20, 2026 1:00 PM – 5:00 PM Location 16 Faith Street, Dartmouth, MA, 02748 About this event Location 16 Faith Street Dartmouth, MA 02748 Get Driving Directions Add to calendar This event has passed Sign-ups are closed.
+Check the events page for what's coming up next.
+See upcoming events Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

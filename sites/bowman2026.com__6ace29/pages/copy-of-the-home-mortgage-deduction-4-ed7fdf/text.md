@@ -1,15 +1,13 @@
-DATA CENTERS AND KENTUCKY
-Just like King George forced colonists to house soldiers without consent, today’s unchecked data center deals can force communities to bear the costs on roads, water, and public safety without a real say.
+top of page Home Zero-One-Hundred Tax Plan About Jay Issues Congress News Fund the Change DONATE $5.00 DATA CENTERS AND KENTUCKY Just like King George forced colonists to house soldiers without consent, today’s unchecked data center deals can force communities to bear the costs on roads, water, and public safety without a real say.
 Back then, it was taxation and quartering without representation.
 Now, it’s infrastructure strain and environmental risk without accountability.
 The lesson remains: no burden without consent, no cost without compensation.
-Communities deserve the right to set the terms, fair, transparent, and binding, just like the founding principle of self-governance demands.
-Slow down.
+Communities deserve the right to set the terms, fair, transparent, and binding, just like the founding principle of self-governance demands. ​Slow down.
 A moratorium doesn’t halt progress; it gives local governments time to develop sound zoning rules for data centers, including requirements for setbacks, noise, water use, generators, and stormwater management.
 No nondisclosure agreements.
 A project that will use public water, public roads, should not be negotiated under a nondisclosure agreement.
 The developer, not its consultant, should appear by name before the fiscal court or council votes.
-Hire an independent analyst.
+Hire an independent analyst .
 Take nothing at face value and require the developer to hire an independent analyst, paid for by the developer, to verify every claim.
 In Kentucky, some developers have downplayed impacts or inflated job promises, so having a neutral expert ensures communities get the full picture, not just the sales pitch.
 No Promises only obligations.
@@ -35,3 +33,6 @@ Make data centers pay their fair share a per-megawatt-hour tax, paid directly to
 If the industry threatens to leave, tell them to go, Kentucky’s not desperate.
 They’re here because Northern Virginia is tapped out.
 Let’s not repeat the coal extraction past, this time, make the deal work for the people of Kentucky.
+Fund the Change — $5 © # by Bowman for Congress.
+Stay Connected / Volunteer Reach us anytime Email * Yes, subscribe me to your newsletter.
+Submit Paid for by Bowman2026 bottom of page

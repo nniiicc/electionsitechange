@@ -1,13 +1,7 @@
+Home Meet Jodee PROPERTY TAX & VOTES Bills Passed 2023-25 HD 51 CONTACT DONATE Privacy Policy More Home Meet Jodee PROPERTY TAX & VOTES Bills Passed 2023-25 HD 51 CONTACT DONATE Privacy Policy Home Meet Jodee PROPERTY TAX & VOTES Bills Passed 2023-25 HD 51 CONTACT DONATE Privacy Policy PROVEN.
+TRUSTED.
+EFFECTIVE.
 Proven leadership.
 Real results that matter for Montana families.
-- Chair-Health & Human Services Committees
-- Co-Chair Governor's Healthcare Licensing Reform Task Force
-- 24 years as a Physician Assistant
-- Eliminating unnecessary barriers that slow down care, job growth, and economic opportunity
-- Allowing providers to fully use their training, maintaining stable liability protections, and protecting the doctor–patient relationship
-- Advancing solutions that address the growing burden on homeowners and improve long-term predictability
-- Reduced delays to get qualified providers into practice faster
-- Strengthened funding solutions to support reliable emergency care across Montana
-- Improving access for moms, babies, and earlier cancer detection through better coverage and care options
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Chair-Health & Human Services Committees Co-Chair Governor's Healthcare Licensing Reform Task Force 24 years as a Physician Assistant Delivering Results for Montana Cutting Burdensome Regulation Eliminating unnecessary barriers that slow down care, job growth, and economic opportunity Strengthening Access to Care Allowing providers to fully use their training, maintaining stable liability protections, and protecting the doctor–patient relationship Property Tax Balance Advancing solutions that address the growing burden on homeowners and improve long-term predictability Healthcare Licensing Reform Reduced delays to get qualified providers into practice faster EMS & Rural Emergency Response Strengthened funding solutions to support reliable emergency care across Montana Expanding Care Options for Families Improving access for moms, babies, and earlier cancer detection through better coverage and care options Representative Jodee Etchart HD51 Email* Sign up Privacy Policy Terms and Conditions Paid for by Jodee Etchart • Republican • PO Box 22014, Billings, MT 59104.
+Powered by

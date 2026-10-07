@@ -1,5 +1,4 @@
-Hi, I’m
-Alicia Rule.
+Home About Alicia 2026 Endorsements Events Join Our Campaign Contact Donate Home About Alicia 2026 Endorsements Events Join Our Campaign Contact Donate Hi, I’m Alicia Rule.
 My family has lived in Whatcom County for 5 generations.
 I first ran for office to make my community a better place.
 I wanted to use my background as a social worker and small business owner to help our community, families and neighborhoods.
@@ -9,5 +8,7 @@ We must address homelessness in our communities and increase support for behavio
 I have the proven track record of delivering for our families, neighborhoods and communities.
 In Olympia we reduced taxes on small businesses, increased housing working families can afford and services for the homeless.
 I brought funding for behavioral health, and worked closely with police to improve public safety in our communities.
-JOIN THE TEAM
-By providing your cell phone number you consent to receive periodic campaign updates through automated text messages from Friends of Name Candidate.
+Your Contribution Matters $10 $50 $100 $250 $500 $1,200 JOIN THE TEAM Name (Required) First Last Email (Required) Phone Join Today By providing your cell phone number you consent to receive periodic campaign updates through automated text messages from Friends of Name Candidate.
+Paid for by Vote A licia Rule P.O.
+Box 444, Blaine, WA 98231 Campaign Code of Conduct.
+Donate

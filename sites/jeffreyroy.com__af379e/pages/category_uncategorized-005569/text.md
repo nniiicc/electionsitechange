@@ -1,35 +1,25 @@
-Category Archives: Uncategorized
-The world shifted on its axis
-Below are the remarks Rep.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Category Archives: Uncategorized ← Older posts The world shifted on its axis Posted on September 21, 2026 by Jeffrey Roy Below are the remarks Rep.
 Roy delivered at Franklin’s commemoration of the 25th anniversary of 9/11: Twenty-five years ago today, the world shifted on its axis.
-For those of us who lived through that crystal-blue September morning, the memory remains … Continue reading
-What’s up with the audit?
-Recently, I had the opportunity to engage in a discussion with Steve Sherlock and Franklin Matters concerning audits and transparency.
-Steve has compiled a comprehensive resource on this topic, which includes a video recording of our conversation, accompanied by detailed … Continue reading
+For those of us who lived through that crystal-blue September morning, the memory remains … Continue reading → Posted in Uncategorized | Comments Off on The world shifted on its axis What’s up with the audit?
+Posted on June 15, 2026 by Jeffrey Roy Recently, I had the opportunity to engage in a discussion with Steve Sherlock and Franklin Matters concerning audits and transparency.
+Steve has compiled a comprehensive resource on this topic, which includes a video recording of our conversation, accompanied by detailed … Continue reading → Posted in Uncategorized | Comments Off on What’s up with the audit?
 Rep.
-Roy Among Climate Leaders Honored for their Work in Energy Efficiency
-State Representative Jeffrey N.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Posted on January 25, 2025 by Jeffrey Roy State Representative Jeffrey N.
 Roy (D-Franklin) was among those honored at the 2024 Mass Save Climate Leaders ceremony held at the State House on Tuesday, January 21st.
-The annual event, co-hosted by the Sponsors of Mass Save (National Grid, Eversource, Until, Berkshire Gas, Liberty, and … Continue reading
-Governor signs climate and energy bill
-Governor Healey signed into law sweeping climate legislation to empower the state’s fight against climate change and accelerate progress towards the state’s goals of net zero greenhouse gas emissions by 2050.
-Chapter 239 of the Acts of 2024, An Act Promoting … Continue reading
-Franklin Observer online debate question #7: Housing for seniors
-The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
-One question and the candidate’s respective responses will be … Continue reading
-Franklin Observer online debate question #6: Overrides
-The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
-One question and the candidate’s respective responses will be … Continue reading
-Franklin Observer online debate question #5: Voter ID
-The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
-One question and the candidate’s respective responses will be … Continue reading
-Franklin Observer online debate question #4: SNETT trail
-The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
-One question and the candidate’s respective responses will be … Continue reading
-Franklin Observer online debate question #3
-The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
-One question and the candidate’s respective responses will be … Continue reading
-Ladybugs will swarm State House on 50th anniversary of bill signing
-In 1974, something was bugging the second graders at Kennedy Elementary School in Franklin.
+The annual event, co-hosted by the Sponsors of Mass Save (National Grid, Eversource, Until, Berkshire Gas, Liberty, and … Continue reading → Posted in Uncategorized | Tagged climate-change , energy , environment , renewable-energy , sustainability | Comments Off on Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Posted on December 4, 2024 by Jeffrey Roy Governor Healey signed into law sweeping climate legislation to empower the state’s fight against climate change and accelerate progress towards the state’s goals of net zero greenhouse gas emissions by 2050.
+Chapter 239 of the Acts of 2024, An Act Promoting … Continue reading → Posted in Uncategorized | Tagged climate-change , energy , renewable-energy , solar-power , sustainability | Comments Off on Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Posted on October 30, 2024 by Jeffrey Roy The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
+One question and the candidate’s respective responses will be … Continue reading → Posted in Uncategorized | Comments Off on Franklin Observer online debate question #7: Housing for seniors Franklin Observer online debate question #6: Overrides Posted on October 23, 2024 by Jeffrey Roy The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
+One question and the candidate’s respective responses will be … Continue reading → Posted in Uncategorized | Comments Off on Franklin Observer online debate question #6: Overrides Franklin Observer online debate question #5: Voter ID Posted on October 17, 2024 by Jeffrey Roy The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
+One question and the candidate’s respective responses will be … Continue reading → Posted in Uncategorized | Comments Off on Franklin Observer online debate question #5: Voter ID Franklin Observer online debate question #4: SNETT trail Posted on October 10, 2024 by Jeffrey Roy The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
+One question and the candidate’s respective responses will be … Continue reading → Posted in Uncategorized | Comments Off on Franklin Observer online debate question #4: SNETT trail Franklin Observer online debate question #3 Posted on October 2, 2024 by Jeffrey Roy The candidates in the 10th Norfolk District State Representative race agreed to participate in an online debate — responding to questions suggested by Observer readers — in writing, in the Observer.
+One question and the candidate’s respective responses will be … Continue reading → Posted in Uncategorized | Comments Off on Franklin Observer online debate question #3 Ladybugs will swarm State House on 50th anniversary of bill signing Posted on October 1, 2024 by Jeffrey Roy In 1974, something was bugging the second graders at Kennedy Elementary School in Franklin.
 They were puzzled that among all the symbols in the Commonwealth, there was no state insect.
-Since ladybugs are considered good luck and protect plants from … Continue reading
+Since ladybugs are considered good luck and protect plants from … Continue reading → Posted in Uncategorized | Comments Off on Ladybugs will swarm State House on 50th anniversary of bill signing ← Older posts Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

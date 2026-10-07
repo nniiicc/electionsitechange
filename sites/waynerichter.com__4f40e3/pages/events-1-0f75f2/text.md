@@ -1,8 +1,1 @@
-top of page
-DONATE
-VOLUNTEER
-EVENTS
-CAMPAIGN EVENTS
-Join Wayne's Journey
-No events at the moment
-bottom of page
+top of page DONATE VOLUNTEER EVENTS CAMPAIGN EVENTS Join Wayne's Journey No events at the moment PRIVACY POLICY Paid for and approved by Wayne Richter for Florida, Democrat, for State House District 85 bottom of page

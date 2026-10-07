@@ -1,5 +1,7 @@
-About Aiden
-I was born to a mailman and stay-home mother in the small town of Topsham, Vermont.
+0 Skip to Content Home Platform Meet Aiden Press Get Involved!
+Endorsements Donate Open Menu Close Menu Home Platform Meet Aiden Press Get Involved!
+Endorsements Donate Open Menu Close Menu Home Platform Meet Aiden Press Get Involved!
+Endorsements Donate About Aiden I was born to a mailman and stay-home mother in the small town of Topsham, Vermont.
 Raised in our home next to the Waits River, I grew up loving the beautiful natural landscape around me.
 I attended Waits River Valley School for my elementary education, where I struggled for several years with my hyperactive ADHD.
 Despite this, I was still active in school athletics, and a proud member of Cub Scout Troop 727.
@@ -30,5 +32,4 @@ And with that, we are slowly seeing a takeover of not only our children’s educ
 This was the moment I knew I needed to take action.
 To pursue a better future for Vermonters, and for our rural communities that struggle the most.
 From there, I have begun my campaign; a campaign by the people, for the people.
-I hope that you will join me in our fight to jumpstart our economy, support working people, and ensure a better Vermont of tomorrow.
-- Aiden Otterman
+I hope that you will join me in our fight to jumpstart our economy, support working people, and ensure a better Vermont of tomorrow. - Aiden Otterman Get Involved ! | About Me | Contact | Donate Paid for by Otterman for Vermont, PO Box 8, Bradford, VT, 05033

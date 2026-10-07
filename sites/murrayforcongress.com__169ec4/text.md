@@ -1,34 +1,34 @@
-Helping you get to
-where you want to be.
+Meet Robert Connect Donate Helping you get to where you want to be.
 Robert “Family Man” Murray, a candidate for U.S.
-Congress in Virginia’s 4th District, is committed to improving your Health, restoring the “We” in Wealth, and ensuring Respect for both State’s rights and our human/civil rights.
-Helping you get to
-where you want to be.
+Congress in Virginia’s 4th District, is committed to improving your Health , restoring the “We” in Wealth , and ensuring Respect for both State’s rights and our human/civil rights.
+Helping you get to where you want to be.
 Robert “Family Man” Murray, a candidate for U.S.
-Congress in Virginia’s 4th District, is committed to improving your Health, restoring the “We” in Wealth, and ensuring Respect for both State’s rights and our human/civil rights.
+Congress in Virginia’s 4th District, is committed to improving your Health , restoring the “We” in Wealth , and ensuring Respect for both State’s rights and our human/civil rights.
 Health.
-Wealth.
+We alth.
 Respect.
-Get campaign updates
-Robert's Commitments
-Beyond delivering legislation that better protects the civil rights of Virginians and millions of other Americans, Robert will measurably improve our country.
-Federal individual income tax rate by 2032.
+Get campaign updates Leave this field empty Sign Up By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply "STOP" to opt-out & "HELP" for help.
+See our Privacy Policy .
+Robert's Commitments Beyond delivering legislation that better protects the civil rights of Virginians and millions of other Americans, Robert will measurably improve our country.
+0% Federal individual income tax rate by 2032.
 No filing either.
 Not all “taxation is theft,” but you should keep what you earn, not the IRS.
 That means everything: tips, Social Security, and organic produce sold at farmer’s markets.
 Most investments too: markets, metals, crypto.
 Separate from the budget (same or less), Robert will press Congress to stop taxing you and property.
-Robert’s Congressional income donated to charities serving our District.
+100% Robert’s Congressional income donated to charities serving our District.
 Until he stops the IRS from taking individual filings and taxes, he’ll give back what he can: his salary (minus his share of its taxes, of course).
-Overseas military brought back home by 2032.
+20% Overseas military brought back home by 2032.
 This keeps more families together, saves lives and better secures our nation.
 Robert will press to modernize our military, shift operating costs to research, and harden America’s infrastructure (energy source and distribution, telecommunications, transportation, and agriculture).
-Robert’s approval rating goal for his first term in office, on par with the best.
-Congress’ approval rating is around 10%, worse than nearly every other professional entity worldwide.
-Worse still is Congressional Democrats’ 3% approval rating.
-Why Robert
-He’ll do for you what no other candidate will:
-Fix Big, Hairy, Bi-Partisan Problems.
+#% Robert’s approval rating goal for his first term in office, on par with the best.
+Congress’ approval rating is around #%, worse than nearly every other professional entity worldwide.
+Worse still is Congressional Democrats’ #% approval rating.
+Really: Get the facts → See the chart → Why Robert He’ll do for you what no other candidate will: Fix Big, Hairy, Bi-Partisan Problems.
 Affordability.
 Healthcare.
 Social Security.
@@ -63,14 +63,15 @@ Supreme Court to preserve his and his family’s rights, you can trust that he�
 The “Family Man” will fix Family Law.
 He has common sense solutions that can save $25 Billion/year, shield adults from state-court corruption, and keep kids far from needless legal trauma.
 Love wins.
-Robert’s Pledge
-“I pledge allegiance to our Constitutional Republic and to serving its citizens, especially our Virginia District’s.
+Robert’s Pledge “I pledge allegiance to our Constitutional Republic and to serving its citizens, especially our Virginia District’s.
 All of them.
 I pledge to govern by The Golden Rule (“Do to others what you would have them do to you”).
 Opportunities exist to legislate for everyone’s benefit while harming no one.
 I pledge to donate 100% of my post-tax Congressional income to Virginia-based charities that heal division within our District and/or help its most needy: the homeless, children awaiting foster or forever homes, disabled veterans and public safety workers, and/or abused, abandoned, or injured animals.
-I’ll do so until your individual taxes no longer pay for my salary and I’ll show the receipts.”
-— Robert Murray
-Will you stand with Robert?
+I’ll do so until your individual taxes no longer pay for my salary and I’ll show the receipts.” — Robert Murray Will you stand with Robert?
 This campaign runs on neighbors helping neighbors.
 Add your name, chip in, and let’s get to work — for your Health, your Wealth, and your Respect.
+Meet Robert Connect Donate A family man for Virginia's Fourth — Richmond and Southside Virginia.
+Follow us Follow Robert on X, Facebook, and Bluesky — like, share, and subscribe!
+Privacy Policy · Terms of Service HQ Virginia Lovers for Robert Murray 11 S.
+12th St., Suite 100 #3131, Richmond, VA 23219 804-757-6542 (office) [email protected] Paid for by Virginia Lovers for Robert Murray Powered by VOTEGTR.com

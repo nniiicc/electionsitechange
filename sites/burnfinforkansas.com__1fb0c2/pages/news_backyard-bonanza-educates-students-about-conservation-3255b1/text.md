@@ -1,4 +1,5 @@
-The Garden City Telegram
+Meet Becca Issues Photos News Volunteer Yard Signs Contribute News / 🌻'Backyard Bonanza' educates students about conservation 21 Apr Thursday, 1:00 PM · 2016 🌻'Backyard Bonanza' educates students about conservation Michael Maresh The Garden City Telegram Note : This story was originally printed in The Garden City Telegram in 2016.
+The digital version was erased between changes in ownership, but the archived story can be found through the Finney County Library digital database .
 Sixth-grader Kristin Roth, while looking and learning about animal tracks Wednesday during the Party for the Planet Earth Day celebration at the Finnup Center for Conservation Education, said the event to her was all about the animals and the environment.
 Kristin, who attends Bernadine Sitts Intermediate Center, said she learned about the value of recycling.
 Recycling is really important to our environment, Kristin said, who added that she had attended the Earth Day event before as a younger student.
@@ -28,3 +29,4 @@ The duo combined juggling and comedy to educate children about the importance of
 As Jay juggled items, Leslie snatched them out of the air, and when finished she had filled up a plastic bag of recyclable products that often end up thrown away.
 The first Earth Day was held in Washington, D.C., in 1970 to call attention to the declining health of the planet.
 The zoo has made Earth Day celebrations an annual tradition since 1990 to help current and future generations learn how to be better stewards of the Earth.
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

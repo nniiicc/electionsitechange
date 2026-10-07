@@ -1,5 +1,5 @@
-September 10, 2024
-Recent revelations have exposed a troubling plan by scientists with financial ties to the chemical industry to undermine crucial drinking water protections.
+Skip to content MISSOURI’S 3RD DISTRICT · DEMOCRAT FOR CONGRESS Our future is worth showing up for.
+Join us ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Menu ☰ Meet Bethany The issues News & events Get involved Donate ↗ Home / CAMPAIGN NEWS Chemical Industry Scientists Threaten Public Health: Why the 3rd District Needs Bethany Mann to Defend Our Water September 10, 2024 Recent revelations have exposed a troubling plan by scientists with financial ties to the chemical industry to undermine crucial drinking water protections.
 As a Guardian article highlighted, these scientists are working to derail new federal regulations on PFAS, or "forever chemicals," which have been linked to serious health risks such as cancer, kidney disease, and immune disorders.
 Forever chemicals disproportionately impact military veterans and firefighters who have been exposed to these chemicals in their drinking water, fire-resistant uniforms and their use of Aqueous Firefighting Foam (AFFF).
 With profits at stake, industry-aligned scientists are mobilizing to challenge the Environmental Protection Agency’s (EPA) rules that limit the amount of these toxic chemicals in our drinking water.
@@ -18,3 +18,8 @@ Unlike her opponent, Bob Onder, who has consistently ignored rural voters and ca
 This election is pivotal.
 A vote for Bethany Mann is a vote for science, safety, and accountability.
 We need a representative who will fight for our right to clean water—not one who will stand by as industry tries to dismantle environmental protections.
+All campaign news → LET’S BUILD THIS TOGETHER Missouri is worth the work.
+Help power a campaign rooted in our communities.
+Support Bethany ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Bringing Missourians together.
+Facebook ↗ Instagram ↗ TikTok ↗ X ↗ Explore Meet Bethany The issues Endorsements News & events Take part Volunteer Donate ↗ Campaign newsletter ↗ Contact the campaign Mail contributions Bethany Mann for Congress P.O.
+Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗

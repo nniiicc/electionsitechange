@@ -1,75 +1,9 @@
-Endorsements
-- President Donald J.
-Trump
-- Speaker of the House Mike Johnson
-- Turning Point USA
-- SBA Pro-Life America
-- Congressman Jim Jordan
-- Congressman Steve Scalise
-- Congressman Tom Emmer
-- Congressman Rich McCormick
-- Commissioner of Agriculture Tyler Harper
-- Sheriff James Hale, Oconee County
-- Sheriff Tyler Hooks, Morgan County
-- Sheriff Darrell Powers, Wilkes County
-- Sheriff Chris Carroll, Hart County
-- Sheriff David Gabriel, Oglethorpe County
-- Sheriff Scott Andrews, Franklin County
-- Sheriff Donnie Harrison, Greene County
-- Sheriff Jud Smith, Barrow County
-- Sheriff Gary Long, Butts County
-- Sheriff Howard Sills, Putnam County
-- Sheriff Michael Moore, Madison County
-- Sheriff Keith Brooks, Walton County
-- Sheriff Donnie Pope, Jasper County
-- Sheriff Jamie Callaway, Elbert County
-- Former Sheriff Joe Chapman, Walton County
-- Former Sheriff Mike Cleveland, Hart County
-- Former Sheriff Scott Berry, Oconee County
-- State Representative Tim Fleming
-- State Representative Clint Crowe
-- State Representative Chuck Efstration
-- State Representative Rob Leverett
-- State Representative Holt Persinger
-- State Representative Rey Martinez
-- State Representative Alan Powell
-- State Representative Trey Rhodes
-- State Representative Dale Washburn
-- State Representative Marcus Wiedower
-- State Representative Bruce Williamson
-- State Senator Clint Dixon
-- State Senator Bo Hatchett
-- State Senator Rick Williams
-- Former State Senator Rick Jeffares
-- Commission Chairman John Daniell, Oconee County
-- Commission Chairman Pat Graham, Barrow County
-- Commission Chairman Bruce Henry, Jasper County
-- Commission Chairman Courtney Long, Franklin County
-- Commission Chairman Linda Hays, Newton County
-- Commission Chairman Todd Higdon, Madison County
-- Commission Chairman Lee Vaughn, Elbert County
-- Commission Chairman Marshall Sayer, Hart County
-- Commission Chairman Jay Paul, Oglethorpe County
-- District Attorney Randy McGinley
-- District Attorney Wright Barksdale
-- Clerk of Court Trevor Addison, Putnam County
-- Clerk of Court LeAnn Airington, Jasper County
-- Mayor Bruce Bailey, Washington
-- Mayor Brian Brodrick, Watkinsville
-- Mayor Carlos Duffey, Jackson
-- Mayor David Keener, Social Circle
-- Mayor Debi Krause, Statham
-- Mayor Drew Kurtz, Bishop
-- Mayor Daniel Graves, Elberton
-- Mayor John Bostwick, Bostwick
-- Mayor Fleeta Baggett, Covington
-- Mayor John Howard, Monroe
-- Mayor Jimmy Terrell, Winder
-- Mayor Kurt Ward, Braselton
-- Former 10th District Congressional Candidate David Curry
-- Former 10th District Congressional Candidate Alan Sims
-- Former 10th District Congressional Candidate Mitch Swan
-- Former 10th District GOP Chairman Brian Burdette
-- Former GAGOP Chairman John Padgett
-- Frontline Policy Action
-- GOPAC
+Donate About Issues Volunteer News Endorsements Donate Endorsements President Donald J.
+Trump Speaker of the House Mike Johnson Turning Point USA SBA Pro-Life America Congressman Jim Jordan Congressman Steve Scalise Congressman Tom Emmer Congressman Rich McCormick Commissioner of Agriculture Tyler Harper Sheriff James Hale, Oconee County Sheriff Tyler Hooks, Morgan County Sheriff Darrell Powers, Wilkes County Sheriff Chris Carroll, Hart County Sheriff David Gabriel, Oglethorpe County Sheriff Scott Andrews, Franklin County Sheriff Donnie Harrison, Greene County Sheriff Jud Smith, Barrow County Sheriff Gary Long, Butts County Sheriff Howard Sills, Putnam County Sheriff Michael Moore, Madison County Sheriff Keith Brooks, Walton County Sheriff Donnie Pope, Jasper County Sheriff Jamie Callaway, Elbert County Former Sheriff Joe Chapman, Walton County Former Sheriff Mike Cleveland, Hart County Former Sheriff Scott Berry, Oconee County State Representative Tim Fleming State Representative Clint Crowe State Representative Chuck Efstration State Representative Rob Leverett State Representative Holt Persinger State Representative Rey Martinez State Representative Alan Powell State Representative Trey Rhodes State Representative Dale Washburn State Representative Marcus Wiedower State Representative Bruce Williamson State Senator Clint Dixon State Senator Bo Hatchett State Senator Rick Williams Former State Senator Rick Jeffares Commission Chairman John Daniell, Oconee County Commission Chairman Pat Graham, Barrow County Commission Chairman Bruce Henry, Jasper County Commission Chairman Courtney Long, Franklin County Commission Chairman Linda Hays, Newton County Commission Chairman Todd Higdon, Madison County Commission Chairman Lee Vaughn, Elbert County Commission Chairman Marshall Sayer, Hart County Commission Chairman Jay Paul, Oglethorpe County District Attorney Randy McGinley District Attorney Wright Barksdale Clerk of Court Trevor Addison, Putnam County Clerk of Court LeAnn Airington, Jasper County Mayor Bruce Bailey, Washington Mayor Brian Brodrick, Watkinsville Mayor Carlos Duffey, Jackson Mayor David Keener, Social Circle Mayor Debi Krause, Statham Mayor Drew Kurtz, Bishop Mayor Daniel Graves, Elberton Mayor John Bostwick, Bostwick Mayor Fleeta Baggett, Covington Mayor John Howard, Monroe Mayor Jimmy Terrell, Winder Mayor Kurt Ward, Braselton Former 10th District Congressional Candidate David Curry Former 10th District Congressional Candidate Alan Sims Former 10th District Congressional Candidate Mitch Swan Former 10th District GOP Chairman Brian Burdette Former GAGOP Chairman John Padgett Frontline Policy Action GOPAC JOIN TEAM GAINES First Name (Required) Last Name (Required) Email (Required) Phone Consent By submitting this form and signing up for texts, you consent to receive text messages (GOTV, informational, and political donations may also be solicited) from Gaines for Congress Gaines at the number provided, including messages sent by auto-dialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available in the message).
+Reply HELP for help.
+See Privacy Policy & Terms and Conditions .
+JOIN Media Center Paid for by Gaines for congress PRIVACY POLICY · TERMS AND CONDITIONS About Issues Volunteer News Endorsements Donate

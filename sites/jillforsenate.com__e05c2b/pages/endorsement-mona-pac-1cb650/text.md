@@ -1,9 +1,3 @@
-Endorsement · September 22, 2026
-MONA-PAC endorses Senator Carter for the 2026 General Election
-In a letter dated September 22, 2026, the Missouri Nurses Association Political Action Committee (MONA-PAC) endorsed Senator Jill Carter’s campaign for the 2026 General Election.
-“We appreciate your recognition of the important role nurses play in Missouri’s healthcare system and your attention to issues affecting nurses, patients, and access to care.”
-“The Missouri Nurses Association believes all Missourians should have access to affordable, high-quality healthcare.
-Registered nurses (RNs) and advanced practice registered nurses (APRNs) are essential to meeting the healthcare needs of communities across our state.”
-“We appreciate your willingness to listen to the voices of Missouri nurses and look forward to continued dialogue with you about the issues affecting the profession and the patients and community’s nurses serve.” — MONA-PAC
-Read the MONA-PAC endorsement letter (PDF)
-Paid for by Friends of Jill Carter, Tanya Williams, Treasurer
+Endorsement · September 22, 2026 Missouri Nurses Association PAC Endorses Senator Jill Carter MONA-PAC endorses Senator Carter for the 2026 General Election In a letter dated September 22, 2026, the Missouri Nurses Association Political Action Committee (MONA-PAC) endorsed Senator Jill Carter’s campaign for the 2026 General Election.
+“We appreciate your recognition of the important role nurses play in Missouri’s healthcare system and your attention to issues affecting nurses, patients, and access to care.” “The Missouri Nurses Association believes all Missourians should have access to affordable, high-quality healthcare.
+Registered nurses (RNs) and advanced practice registered nurses (APRNs) are essential to meeting the healthcare needs of communities across our state.” “We appreciate your willingness to listen to the voices of Missouri nurses and look forward to continued dialogue with you about the issues affecting the profession and the patients and community’s nurses serve.” — MONA-PAC Read the MONA-PAC endorsement letter (PDF) Share Share on Facebook Paid for by Friends of Jill Carter, Tanya Williams, Treasurer

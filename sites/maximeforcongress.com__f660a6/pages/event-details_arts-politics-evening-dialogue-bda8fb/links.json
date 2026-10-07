@@ -1,24 +1,106 @@
 [
-"https://facebook.com/MaximeForCongress",
-"https://instagram.com/maximeforcongress",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.maximeforcongress.com%2Fevent-details%2Farts-politics-evening-dialogue",
-"https://maximeforcongress.com/",
-"https://maximeforcongress.com/about",
-"https://maximeforcongress.com/accountability",
-"https://maximeforcongress.com/blog",
-"https://maximeforcongress.com/civility-unity",
-"https://maximeforcongress.com/education",
-"https://maximeforcongress.com/event-list",
-"https://maximeforcongress.com/healthcare",
-"https://maximeforcongress.com/immigration",
-"https://maximeforcongress.com/jobs",
-"https://maximeforcongress.com/lower-costs",
-"https://maximeforcongress.com/ownership-equity",
-"https://maximeforcongress.com/privacy-policy",
-"https://maximeforcongress.com/small-business",
-"https://maximeforcongress.com/students",
-"https://secure.anedot.com/dr-kedner-maxime-for-congress/donate",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.maximeforcongress.com%2Fevent-details%2Farts-politics-evening-dialogue&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/KednerMaxime",
-"https://youtube.com/@MaximeforCongress"
+{
+"text": "Accountability",
+"href": "https://www.maximeforcongress.com/accountability"
+},
+{
+"text": "Civility & Unity",
+"href": "https://www.maximeforcongress.com/civility-unity"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/dr-kedner-maxime-for-congress/donate"
+},
+{
+"text": "Education",
+"href": "https://www.maximeforcongress.com/education"
+},
+{
+"text": "Events",
+"href": "https://www.maximeforcongress.com/event-list"
+},
+{
+"text": "Get Involved",
+"href": "https://www.maximeforcongress.com#get-involved"
+},
+{
+"text": "Healthcare",
+"href": "https://www.maximeforcongress.com/healthcare"
+},
+{
+"text": "Immigration",
+"href": "https://www.maximeforcongress.com/immigration"
+},
+{
+"text": "Issues",
+"href": "https://www.maximeforcongress.com#issues"
+},
+{
+"text": "Jobs & Economic Security",
+"href": "https://www.maximeforcongress.com/jobs"
+},
+{
+"text": "Lower Costs",
+"href": "https://www.maximeforcongress.com/lower-costs"
+},
+{
+"text": "Meet Dr. Maxime",
+"href": "https://www.maximeforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://www.maximeforcongress.com/blog"
+},
+{
+"text": "Ownership Equity",
+"href": "https://www.maximeforcongress.com/ownership-equity"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.maximeforcongress.com/privacy-policy"
+},
+{
+"text": "See other events",
+"href": "https://www.maximeforcongress.com/event-list"
+},
+{
+"text": "Small Business",
+"href": "https://www.maximeforcongress.com/small-business"
+},
+{
+"text": "Students & Opportunity",
+"href": "https://www.maximeforcongress.com/students"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.maximeforcongress.com/#get-involved"
+},
+{
+"text": "[image: DRKEDNERMAXIMEFORCONGRESS-logo]",
+"href": "https://www.maximeforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.maximeforcongress.com%2Fevent-details%2Farts-politics-evening-dialogue&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MaximeForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maximeforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.maximeforcongress.com%2Fevent-details%2Farts-politics-evening-dialogue"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaximeforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/KednerMaxime"
+}
 ]

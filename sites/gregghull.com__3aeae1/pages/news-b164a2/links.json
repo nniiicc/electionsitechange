@@ -1,34 +1,154 @@
 [
-"https://facebook.com/GreggHullforNewMexico",
-"https://gregghull.com/",
-"https://gregghull.com/contact",
-"https://gregghull.com/endorsements",
-"https://gregghull.com/meet-the-team",
-"https://gregghull.com/news",
-"https://gregghull.com/news/elephant-buttes-historic-low-should-be-a-wake-up-call-for-new-mexico",
-"https://gregghull.com/news/former-governor-gary-johnson-endorses-gregg-hull-for-governor",
-"https://gregghull.com/news/gregg-hull-condemns-cyfds-decision-to-send-15-year-old-child-across-mexico-border",
-"https://gregghull.com/news/gregg-hull-earns-unanimous-endorsement-of-the-new-mexico-state-fraternal-order-of-police",
-"https://gregghull.com/news/gregg-hull-introduces-four-steps-to-zero-tax-relief-proposal",
-"https://gregghull.com/news/haalands-former-campaign-manager-now-lobbying-for-the-company-powering-project-jupiter",
-"https://gregghull.com/news/hull-campaign-builds-grassroots-momentum-with-overwhelming-new-mexico-support",
-"https://gregghull.com/news/hull-campaign-responds-to-deb-haaland-press-conference",
-"https://gregghull.com/news/hull-kevin-s-progress-means-nothing-without-an-engaged-and-committed-governor",
-"https://gregghull.com/priorities",
-"https://gregghull.com/privacy-policy",
-"https://gregghull.com/volunteer",
-"https://gregghull.com/yard-sign-request",
-"https://hull-for-nm.printify.me/",
-"https://instagram.com/GreggHullforNM",
-"https://linkedin.com/in/gregghullforrr",
-"https://portal1.sos.nm.gov/OVR/WebPages/InstructionsStep1.aspx",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=100",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=25",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=250",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=50",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=500",
-"https://voterportal.servis.sos.state.nm.us/WhereToVoteAddress.aspx",
-"https://x.com/GreggHullforNM",
-"https://youtube.com/@HullForNewMexico"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=500"
+},
+{
+"text": "Contact",
+"href": "https://gregghull.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://gregghull.com/endorsements/"
+},
+{
+"text": "Find your polling place",
+"href": "https://voterportal.servis.sos.state.nm.us/WhereToVoteAddress.aspx"
+},
+{
+"text": "Governor Gregg Hull",
+"href": "https://gregghull.com/meet-the-team/"
+},
+{
+"text": "Issues",
+"href": "https://gregghull.com/priorities/"
+},
+{
+"text": "Lt. Governor David Gallegos",
+"href": "https://gregghull.com/meet-the-team/#meet_david"
+},
+{
+"text": "Meet Gregg",
+"href": "https://gregghull.com/meet-the-team/"
+},
+{
+"text": "Meet the Team",
+"href": "https://gregghull.com/meet-the-team/"
+},
+{
+"text": "News",
+"href": "https://gregghull.com/news/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true"
+},
+{
+"text": "Priorities",
+"href": "https://gregghull.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://gregghull.com/privacy-policy/"
+},
+{
+"text": "Register to vote",
+"href": "https://portal1.sos.nm.gov/OVR/WebPages/InstructionsStep1.aspx"
+},
+{
+"text": "Request Sign",
+"href": "https://gregghull.com/yard-sign-request/"
+},
+{
+"text": "Shop",
+"href": "https://hull-for-nm.printify.me/"
+},
+{
+"text": "Volunteer",
+"href": "https://gregghull.com/volunteer/"
+},
+{
+"text": "Want a Hull / Gallegos yard sign? Click here to request your a free sign delivered right to your door.",
+"href": "https://gregghull.com/yard-sign-request/"
+},
+{
+"text": "[image: Aerial view of Elephant Butte Reservoir at historically low water levels] Elephant Butte’s Historic Low Should Be a Wake-Up Call for New Mexico August 15th, 2026 Read More",
+"href": "https://gregghull.com/news/elephant-buttes-historic-low-should-be-a-wake-up-call-for-new-mexico/"
+},
+{
+"text": "[image: Gregg Hull for Governor] Former Governor Gary Johnson Endorses Gregg Hull for Governor August 5th, 2026 Read More",
+"href": "https://gregghull.com/news/former-governor-gary-johnson-endorses-gregg-hull-for-governor/"
+},
+{
+"text": "[image: Gregg Hull for Governor] Gregg Hull Earns Unanimous Endorsement of the New Mexico State Fraternal Order of Police August 5th, 2026 Read More",
+"href": "https://gregghull.com/news/gregg-hull-earns-unanimous-endorsement-of-the-new-mexico-state-fraternal-order-of-police/"
+},
+{
+"text": "[image: Gregg Hull for Governor] Gregg Hull Introduces “Four Steps to Zero” Tax Relief Proposal October 5th, 2026 Read More",
+"href": "https://gregghull.com/news/gregg-hull-introduces-four-steps-to-zero-tax-relief-proposal/"
+},
+{
+"text": "[image: Gregg Hull for Governor] Haaland’s Former Campaign Manager Now Lobbying for the Company Powering Project Jupiter September 29th, 2026 Read More",
+"href": "https://gregghull.com/news/haalands-former-campaign-manager-now-lobbying-for-the-company-powering-project-jupiter/"
+},
+{
+"text": "[image: Gregg Hull for Governor] Hull Campaign Builds Grassroots Momentum With Overwhelming New Mexico Support August 5th, 2026 Read More",
+"href": "https://gregghull.com/news/hull-campaign-builds-grassroots-momentum-with-overwhelming-new-mexico-support/"
+},
+{
+"text": "[image: Gregg Hull for Governor] Hull Campaign Responds to Deb Haaland Press Conference September 17th, 2026 Read More",
+"href": "https://gregghull.com/news/hull-campaign-responds-to-deb-haaland-press-conference/"
+},
+{
+"text": "[image: Gregg Hull for Governor] Hull: Kevin S. Progress Means Nothing Without an Engaged and Committed Governor September 23rd, 2026 Read More",
+"href": "https://gregghull.com/news/hull-kevin-s-progress-means-nothing-without-an-engaged-and-committed-governor/"
+},
+{
+"text": "[image: Hull Gallegos for New Mexico — Governor and Lieutenant Governor]",
+"href": "https://gregghull.com/"
+},
+{
+"text": "[image: The New Mexico Children, Youth and Families Department building] Gregg Hull Condemns CYFD’s Decision to Send 15-Year-Old Child Across Mexico Border August 5th, 2026 Read More",
+"href": "https://gregghull.com/news/gregg-hull-condemns-cyfds-decision-to-send-15-year-old-child-across-mexico-border/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GreggHullforNewMexico"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/GreggHullforNM/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/gregghullforrr/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HullForNewMexico"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/GreggHullforNM"
+}
 ]

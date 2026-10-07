@@ -1,20 +1,82 @@
 [
-"http://facebook.com/stavamurray",
-"http://instagram.com/annestavamurray4staterep",
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://forms.gle/GhBuBtjwKqg94bcx7",
-"https://secure.actblue.com/donate/annestavamurray",
-"https://secure.actblue.com/donate/stavamurray",
-"https://teamstavamurray.com/",
-"https://teamstavamurray.com/connect",
-"https://teamstavamurray.com/defending",
-"https://teamstavamurray.com/endorsements",
-"https://teamstavamurray.com/ensuring",
-"https://teamstavamurray.com/increasing",
-"https://teamstavamurray.com/issues",
-"https://teamstavamurray.com/meetanne",
-"https://teamstavamurray.com/privacypolicy",
-"https://teamstavamurray.com/stability",
-"https://teamstavamurray.com/strengthening",
-"https://teamstavamurray.com/voting"
+{
+"text": "Click here to read our privacy policy.",
+"href": "https://www.teamstavamurray.com/privacypolicy"
+},
+{
+"text": "Connect",
+"href": "https://www.teamstavamurray.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/annestavamurray"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.actblue.com/donate/stavamurray"
+},
+{
+"text": "Endorsements",
+"href": "https://www.teamstavamurray.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.teamstavamurray.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.teamstavamurray.com/issues"
+},
+{
+"text": "Meet Anne",
+"href": "https://www.teamstavamurray.com/meetanne"
+},
+{
+"text": "Squarespace",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Voting Info",
+"href": "https://www.teamstavamurray.com/voting"
+},
+{
+"text": "Yard Sign Delivery Request",
+"href": "https://forms.gle/GhBuBtjwKqg94bcx7"
+},
+{
+"text": "[image: 1.png][image: 1.png]",
+"href": "https://www.teamstavamurray.com/ensuring"
+},
+{
+"text": "[image: 2.png][image: 2.png]",
+"href": "https://www.teamstavamurray.com/increasing"
+},
+{
+"text": "[image: 3.png][image: 3.png]",
+"href": "https://www.teamstavamurray.com/stability"
+},
+{
+"text": "[image: 4.png][image: 4.png]",
+"href": "https://www.teamstavamurray.com/strengthening"
+},
+{
+"text": "[image: 5.png][image: 5.png]",
+"href": "https://www.teamstavamurray.com/defending"
+},
+{
+"text": "[image: Re-Elect State Rep Anne Stava ]",
+"href": "https://www.teamstavamurray.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/annestavamurray4staterep"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/stavamurray"
+},
+{
+"text": "info@teamstavamurray.com",
+"href": "mailto:info@teamstavamurray.com"
+}
 ]

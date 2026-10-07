@@ -1,19 +1,78 @@
 [
-"https://facebook.com/Pilar4CA",
-"https://instagram.com/pilar4ca",
-"https://lavote.gov/home/voting-elections/voter-registration/register-to-vote/register",
-"https://lavote.gov/home/voting-elections/voting-options/military-overseas",
-"https://lavote.gov/home/voting-elections/voting-options/vote-by-mail/how-to-vote-by-mail",
-"https://locator.lavote.gov/locations/vbm?culture=en",
-"https://locator.lavote.gov/locations/vc?culture=en",
-"https://pilar4ca.com/",
-"https://pilar4ca.com/about",
-"https://pilar4ca.com/donate",
-"https://pilar4ca.com/endorsements",
-"https://pilar4ca.com/gallery",
-"https://pilar4ca.com/privacy-policy",
-"https://pilar4ca.com/volunteer",
-"https://pilar4ca.com/vote",
-"https://twitter.com/Pilar4CA",
-"https://youtube.com/@Pilar4CA"
+{
+"text": "Donate",
+"href": "https://pilar4ca.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://pilar4ca.com/endorsements/"
+},
+{
+"text": "Find the closest in-person vote center.",
+"href": "https://locator.lavote.gov/locations/vc?culture=en"
+},
+{
+"text": "Find the closest official ballot drop box.",
+"href": "https://locator.lavote.gov/locations/vbm?culture=en"
+},
+{
+"text": "Gallery",
+"href": "https://pilar4ca.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://pilar4ca.com/"
+},
+{
+"text": "LA County’s Vote by Mail page",
+"href": "https://www.lavote.gov/home/voting-elections/voting-options/vote-by-mail/how-to-vote-by-mail"
+},
+{
+"text": "LA County’s voter registration page",
+"href": "https://www.lavote.gov/home/voting-elections/voter-registration/register-to-vote/register"
+},
+{
+"text": "Meet Pilar",
+"href": "https://pilar4ca.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pilar4ca.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://pilar4ca.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://pilar4ca.com/vote/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Pilar4CA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/pilar4ca/"
+},
+{
+"text": "[image: Pilar Schiavo for State Assembly]",
+"href": "https://pilar4ca.com/"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/Pilar4CA"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@Pilar4CA"
+},
+{
+"text": "contact@pilar4ca.com",
+"href": "mailto:contact@pilar4ca.com"
+},
+{
+"text": "lavote.gov’s military & overseas page",
+"href": "https://www.lavote.gov/home/voting-elections/voting-options/military-overseas"
+}
 ]

@@ -1,5 +1,4 @@
-Help Us Reach Voters Before It’s Too Late
-Montana families are feeling the squeeze.
+Skip to content × Home Meet Lyn On The Issues Articles Contact Donate Contribute Help Us Reach Voters Before It’s Too Late Montana families are feeling the squeeze.
 Groceries cost more.
 Property taxes keep climbing.
 Government keeps growing.
@@ -11,11 +10,9 @@ Taxes go up.
 Your voice gets ignored.
 Your community changes without your say.
 That’s what’s at stake.
-What Your Donation Helps Do
-$25 helps us reach more voters.
-$50 helps buy yard signs.
-$100 helps fund digital ads.
-$470 helps send a district-wide text message.
+What Your Donation Helps Do $25 helps us reach more voters. $50 helps buy yard signs. $100 helps fund digital ads. $470 helps send a district-wide text message.
 Help us hit our end-of-month goal.
 Help us send a message Helena can’t ignore.
 Donate today.
+Please send checks to: The Lyn Hellegaard Campaign 3828 Bellecrest Dr Missoula MT 59801 Privacy Policy Paid for by The Lyn Hellegaard Campaign, 3828 Bellecrest Dr, Missoula MT 59801 © # Lyn Hellegaard.
+All rights reserved Powered by Verastly ×

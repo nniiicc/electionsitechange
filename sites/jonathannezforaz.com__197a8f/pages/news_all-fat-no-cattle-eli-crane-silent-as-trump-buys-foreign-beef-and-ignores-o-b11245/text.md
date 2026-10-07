@@ -1,17 +1,23 @@
-PRESS RELEASE
-All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers
-FLAGSTAFF, AZ — Today, President Donald Trump moved to lift tariffs on ground beef imported from other countries instead of prioritizing American farmers.
+Skip navigation menu About Agenda Press Endorsements Volunteer Events Donate About Agenda Press Endorsements Volunteer Events Donate PRESS RELEASE Eli Crane Votes Against Making Housing More Affordable for Arizonans PRESS RELEASE Former Transportation Sec.
+Pete Buttigieg Endorses Jonathan Nez Media Advisory Jonathan Nez to Host Rural Healthcare Roundtable in Winslow, AZ Media Advisory Jonathan Nez to Host Flagstaff Small Business Round Table and Tour Fact sheet The True Costs of Rep.
+Eli ‘High Costs’ Crane and Republican Policies on Rural Arizonans PRESS RELEASE Jonathan Nez Responds to President Trump’s Statements Regarding Pope Leo XIV PRESS RELEASE Jonathan Nez Blasts Eli Crane For Voting Against Bipartisan Bills to Lower Housing Costs PRESS RELEASE Congressman Eli “High Costs” Crane Refuses To Hold Arizona Townhalls PRESS RELEASE Congressman Eli Crane’s Response to Arizonans Seeking Answers: “I Hope it Works Out” PRESS RELEASE Congressman Eli Crane Applauds the State of High Costs PRESS RELEASE Jonathan Nez Named to “Red To Blue” Program PRESS RELEASE Congressman Eli Crane Votes to Let Tariffs Raise Costs on Arizona Families PRESS RELEASE Congressman Eli “Higher Costs” Crane Votes To Increase Arizonans’ Healthcare Costs PRESS RELEASE Congressman Eli Crane Again Fails to Deliver for Rural Arizonans PRESS RELEASE Jonathan Nez Defends Head Start Amid Proposed Cuts PRESS RELEASE All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers PRESS RELEASE Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion PRESS RELEASE The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses PRESS RELEASE Jonathan Nez: Arizona’s Water isn’t just a Worry, it’s a Crisis.
+Eli Crane Has Failed Us.
+PRESS RELEASE As Arizona Water Crisis Deepens, Rep.
+Crane Stands with Washington Bureaucrats Making it Worse PRESS RELEASE As Lake Mead Reaches Lowest Level Ever, Jonathan Nez Rips Rep.
+Crane, Trump Admin.
+Over Inaction PRESS RELEASE ICYMI: Poll Shows Dem.
+Jonathan Nez Tied with Rep.
+Eli Crane in District Trump Won by Double Digits PRESS RELEASE Jonathan Nez Reaffirms Commitment to Arizona Workers, Labor Unions Ahead of Labor Day PRESS RELEASE Hypocrisy: Rep.
+Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise PRESS RELEASE Nez Highlights Plan for Rural Arizona, Crane Once Again Doesn’t Show Up to Answer Tough Q’s PRESS RELEASE Congressman Eli Crane Just Voted to Continue the War Driving Up Costs … Again PRESS RELEASE Rep.
+Crane Takes Money from Mega Donor as his Campaign Continues to be Bankrolled by DC Elite PACs PRESS RELEASE Nez Pledges to Introduce Legislation to Claw Back OBBBA Tax Breaks for Data Centers PRESS RELEASE “Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against PRESS RELEASE ICYMI: Congressman Eli Crane Covers Up the Epstein Files After Epstein Enablers Flood Him with Cash PRESS RELEASE Nez Fights for AZ Families as Data Center Debate Exposes Rep.
+Crane’s Allegiance to Billionaires PRESS RELEASE Nez Helps Cut Ribbon for New Hospital Serving Rural Arizona PRESS RELEASE Nez Slams Crane’s Harmful Policies as Jobs Report Shows Arizona Workers Getting Squeezed Aug 21 2026 PRESS RELEASE All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers FLAGSTAFF, AZ — Today, President Donald Trump moved to lift tariffs on ground beef imported from other countries instead of prioritizing American farmers.
 Rep.
 Eli Crane, who has voted with President Trump 100% of the time once again rubber-stamps a president whose policies hurt Arizona ranchers.
-“Typical Congressman Crane is complicit as this administration squeezes Arizona farmers and ranchers already hurting from tariffs and high costs by favoring imported beef over American beef,” said Nez.
-“What ever happened to ‘America First’?”
-The government is allowing 300,000 tons of ground beef to be imported without tariffs after beef prices have risen by 24% since January 2025.
-In Arizona, there are as many as 5,800 farms and ranches that raise cattle and calves, many of them in Arizona’s vast 2nd Congressional District.
-These ranchers, already hurting as a result of Trump’s tariffs and skyrocketing costs of feed and grain, will now have to compete in a market where imported beef could be sold cheaper.
+“Typical Congressman Crane is complicit as this administration squeezes Arizona farmers and ranchers already hurting from tariffs and high costs by favoring imported beef over American beef,” said Nez .
+“What ever happened to ‘ America First ’?” The government is allowing 300,000 tons of ground beef to be imported without tariffs after beef prices have risen by 24% since January 2025.
+In Arizona, there are as many as 5,800 farms and ranches that raise cattle and calves , many of them in Arizona’s vast 2nd Congressional District.
+These ranchers, already hurting as a result of Trump’s tariffs and skyrocketing costs of feed and grain , will now have to compete in a market where imported beef could be sold cheaper.
 The surge in beef prices comes alongside record-high gas and electricity costs plus skyrocketing fertilizer costs, which have been driven in part by the Trump administration’s tariff policies and reckless wars.
-Crane has repeatedly voted to block congressional oversight and protect the government’s sweeping tariffs.
+Crane has repeatedly voted to block congressional oversight and protect the government’s sweeping tariffs .
 These votes prevented measures aimed at rolling back or terminating tariffs on various global imports.
-SEE ALSO:
-- The Hill: Trump temporarily lifts ground beef import tariffs (8/21/26)
-- The Hill: Massie, Greene slam Trump’s move to lower beef prices (8/21/26)
-- Arizona Beef Council: Cattle in Arizona
+SEE ALSO: The Hill: Trump temporarily lifts ground beef import tariffs (8/21/26) The Hill: Massie, Greene slam Trump’s move to lower beef prices (8/21/26) Arizona Beef Council: Cattle in Arizona Privacy Policy JONATHAN NEZ FOR CONGRESS PO BOX 1854 FLAGSTAFF, AZ 86002 General Inquiries info@jonathannezforaz.com Press & Media press@jonathannezforaz.com Powered by RUN! website builder PAID FOR BY JONATHAN NEZ FOR CONGRESS You need to enable JavaScript to run this app.

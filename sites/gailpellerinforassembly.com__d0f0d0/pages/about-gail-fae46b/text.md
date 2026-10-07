@@ -1,14 +1,10 @@
-MEET
-Gail Pellerin
-Assemblymember Gail Pellerin was elected to represent the 28th Assembly District in the California State Assembly in November of 2022.
+top of page HOME ABOUT GAIL PRIORITIES ENDORSEMENTS PRESS VOTING GET INVOLVED More Use tab to navigate through the menu items.
+DONATE 28TH ASSEMBLY DISTRICT MEET Gail Pellerin Assemblymember Gail Pellerin was elected to represent the 28th Assembly District in the California State Assembly in November of 2022.
 In the State Assembly, Gail serves as Chair of the Assembly Elections Committee, as Chair of the Select Committee on California’s Mental Health Crisis, and as Vice-Chair of the California Legislative Women’s Caucus.
-She is a member of the Committees on Appropriations, Business and Professions, Education, Natural Resources and Privacy and Consumer Protection.
-Prior to serving in the State Assembly, Gail served as the chief elections official in Santa Cruz County from 1993 until her retirement in December 2020.
+She is a member of the Committees on Appropriations, Business and Professions, Education, Natural Resources and Privacy and Consumer Protection. ​ ​ Prior to serving in the State Assembly, Gail served as the chief elections official in Santa Cruz County from 1993 until her retirement in December 2020.
 As County Clerk, Gail managed all elections conducted in the county and served as the Commissioner of Civil Marriage.
-Gail served as President of the California
-Association of Clerks and Election Officials from 2010 to 2012 and served as co-chair of the Secretary of State’s Voting Accessibility Advisory Committee.
-She is a graduate of the California Professional Election Administrator Credential program and has taught credential courses on Voters with Specific Needs and Budgets.
-Gail received the Hammer of Justice Award from the Santa Cruz County Chapter of the ACLU in 2009 as well as proclamations from the Santa Cruz County Board of Supervisors and City of Santa Cruz honoring her service to the community.
+Gail served as President of the California VIEW PHOTO GALLERY Download Gail's full bio Download hi-res headshot Association of Clerks and Election Officials from 2010 to 2012 and served as co-chair of the Secretary of State’s Voting Accessibility Advisory Committee.
+She is a graduate of the California Professional Election Administrator Credential program and has taught credential courses on Voters with Specific Needs and Budgets. ​ Gail received the Hammer of Justice Award from the Santa Cruz County Chapter of the ACLU in 2009 as well as proclamations from the Santa Cruz County Board of Supervisors and City of Santa Cruz honoring her service to the community.
 In 2010, she received the Kudos Award from the Santa Cruz County Commission on Disabilities, and in 2020, Gail received the Lifetime (Legacy) Achievement Award from the Santa Cruz County Chamber of Commerce.
 In 2021, Assemblymember Mark Stone honored Gail as a Woman of the Year by the California Legislative Women’s Caucus, recognizing women who are making an extraordinary difference in their communities.
 In 2022, Gail was honored for her work as a 2022 Democracy Hero by California Common Cause who has been fighting for voting rights, redistricting reform, government transparency, and to ensure that democracy includes everyone for over 50 years.
@@ -19,4 +15,4 @@ Gail was involved with the California Democratic Party’s Voter Protection Comm
 Gail has been an outspoken advocate for suicide prevention awareness and mental health resources after her husband, Tom, died by suicide on November 19, 2018.
 Gail has a BS in Journalism from Cal Poly, San Luis Obispo.
 Prior, Gail had worked for the State Legislature, as a campaign assistant to political campaigns, newspaper reporter and photographer, and community college instructor.
-In her spare time, Gail enjoys going to the beach with her labradoodle Darwin and spending time with her two adult children Jacob and Emily.
+In her spare time, Gail enjoys going to the beach with her labradoodle Darwin and spending time with her two adult children Jacob and Emily. ​ PAID FOR and authorized BY GAIL PELLERIN FOR ASSEMBLY PO Box 4100, Santa Cruz CA, 95063 | ‪(408) 214-4521 ‬ | info@gailpellerinforassembly.com | FPPC ID#1476812 bottom of page

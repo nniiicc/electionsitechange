@@ -1,15 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Hannibal+Meet+%26+Greet&dates=20260319T230000Z%2F20260320T010000Z&location=Hannibal%2C+MO",
-"http://maps.google.com/?q=+Hannibal%2C+MO",
-"https://facebook.com/profile.php?id=61577003908156",
-"https://mcelvainformissouri.com/",
-"https://mcelvainformissouri.com/about-me",
-"https://mcelvainformissouri.com/cart",
-"https://mcelvainformissouri.com/contat",
-"https://mcelvainformissouri.com/endorsements",
-"https://mcelvainformissouri.com/events",
-"https://mcelvainformissouri.com/events/fundraiser",
-"https://mcelvainformissouri.com/events/hannibal-meet-greet?format=ical",
-"https://mcelvainformissouri.com/events/lincoln-day",
-"https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+hannibal%2C+mo+"
+},
+{
+"text": "0",
+"href": "https://www.mcelvainformissouri.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.mcelvainformissouri.com/about-me"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.mcelvainformissouri.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.mcelvainformissouri.com/contat"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mcelvainformissouri.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mcelvainformissouri.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61577003908156"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hannibal+Meet+%26+Greet&dates=20260319T230000Z%2F20260320T010000Z&location=Hannibal%2C+MO"
+},
+{
+"text": "Home",
+"href": "https://www.mcelvainformissouri.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.mcelvainformissouri.com/events/hannibal-meet-greet?format=ical"
+},
+{
+"text": "Next Next May 7 Cocktail Fundraiser",
+"href": "https://www.mcelvainformissouri.com/events/fundraiser"
+},
+{
+"text": "Previous Previous February 28 Lincoln Day",
+"href": "https://www.mcelvainformissouri.com/events/lincoln-day"
+},
+{
+"text": "[image: Roth McElvain]",
+"href": "https://www.mcelvainformissouri.com/"
+}
 ]

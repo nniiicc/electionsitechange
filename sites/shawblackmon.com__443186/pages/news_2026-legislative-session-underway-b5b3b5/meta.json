@@ -1,6 +1,8 @@
 {
  "description": "On Monday, February 2, 2026, my colleagues and I returned to the Georgia State Capitol for the fourth week of the legislative session. The first three weeks of...",
  "final_url": "https://www.shawblackmon.com/news/2026-legislative-session-underway",
+ "fingerprint": "5dc9ef1a7eb9b714cfad3d7565592d75f3d78707",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Shaw Blackmon Powered by CampaignPartner",
  "title": "2026 Legislative Session Underway",
  "years_mentioned": [
@@ -8,6 +10,7 @@
   "2022",
   "2025",
   "2026",
-  "2027"
+  "2027",
+  "2032"
  ]
 }

@@ -1,12 +1,50 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=York+State+Fair&dates=20260730T190000Z%2F20260730T220000Z&location=334+Carlisle+Avenue%2C+York%2C+Pennsylvania%2C+17404%2C+United+States",
-"http://maps.google.com/?q=334+Carlisle+Avenue+York%2C+Pennsylvania%2C+17404+United+States",
-"https://paypal.biz/plaidsylvania",
-"https://plaidsylvania.com/",
-"https://plaidsylvania.com/cart",
-"https://plaidsylvania.com/events",
-"https://plaidsylvania.com/events/york-state-fair-1",
-"https://plaidsylvania.com/events/york-state-fair?format=ical",
-"https://plaidsylvania.com/newsletter",
-"https://squarespace.com/"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=334+carlisle+avenue+york%2C+pennsylvania%2C+17404+united+states"
+},
+{
+"text": "0",
+"href": "https://www.plaidsylvania.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.plaidsylvania.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.biz/plaidsylvania"
+},
+{
+"text": "Events",
+"href": "https://www.plaidsylvania.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=York+State+Fair&dates=20260730T190000Z%2F20260730T220000Z&location=334+Carlisle+Avenue%2C+York%2C+Pennsylvania%2C+17404%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.plaidsylvania.com/events/york-state-fair?format=ical"
+},
+{
+"text": "Next Next July 31 York State Fair",
+"href": "https://www.plaidsylvania.com/events/york-state-fair-1"
+},
+{
+"text": "Plaidsylvania",
+"href": "https://www.plaidsylvania.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Subscribe to Edward's Newsletter",
+"href": "https://www.plaidsylvania.com/newsletter"
+},
+{
+"text": "[image: Plaidsylvania]",
+"href": "https://www.plaidsylvania.com/"
+}
 ]

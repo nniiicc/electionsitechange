@@ -1,7 +1,9 @@
 {
  "description": "Support Andrew Hattaway&#39;s campaign donations to strengthen Minnesota&#39;s future. Donate today to make a difference!",
  "final_url": "https://andrewhattawayformn.com/donate-1",
- "paid_for_by": "paid for by Andrew Hattaway for MN | P",
+ "fingerprint": "82dc9abb14d0419225388e8ecb377f187f03d7c6",
+ "format": 3,
+ "paid_for_by": "paid for by Andrew Hattaway for MN",
  "title": "DONATE",
  "years_mentioned": []
 }

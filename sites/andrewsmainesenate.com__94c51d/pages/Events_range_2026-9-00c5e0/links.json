@@ -1,16 +1,70 @@
 [
-"https://andrewsmainesenate.com/",
-"https://andrewsmainesenate.com/Events?range=2026-10",
-"https://andrewsmainesenate.com/Events?range=2026-10-05",
-"https://andrewsmainesenate.com/Events?range=2026-8",
-"https://andrewsmainesenate.com/Events?range=2026-W41",
-"https://andrewsmainesenate.com/contact",
-"https://andrewsmainesenate.com/contribute",
-"https://andrewsmainesenate.com/events",
-"https://andrewsmainesenate.com/home",
-"https://andrewsmainesenate.com/meet_john",
-"https://andrewsmainesenate.com/volunteer",
-"https://andrewsmainesenate.com/vote",
-"https://andrewsmainesenate.com/yard-sign",
-"https://campaignpartner.com/"
+{
+"text": "#ago",
+"href": "https://www.andrewsmainesenate.com/Events?range=%23"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.andrewsmainesenate.com/contribute"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.andrewsmainesenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.andrewsmainesenate.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.andrewsmainesenate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.andrewsmainesenate.com/home"
+},
+{
+"text": "Meet John",
+"href": "https://www.andrewsmainesenate.com/meet_john"
+},
+{
+"text": "Next ›",
+"href": "https://www.andrewsmainesenate.com/Events?range=2026-10"
+},
+{
+"text": "This Month",
+"href": "https://www.andrewsmainesenate.com/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://www.andrewsmainesenate.com/Events?range=2026-W41"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.andrewsmainesenate.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andrewsmainesenate.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.andrewsmainesenate.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.andrewsmainesenate.com/yard-sign"
+},
+{
+"text": "[image: John Andrews for Maine State Senate]",
+"href": "https://www.andrewsmainesenate.com/"
+},
+{
+"text": "‹ Previous",
+"href": "https://www.andrewsmainesenate.com/Events?range=2026-8"
+}
 ]

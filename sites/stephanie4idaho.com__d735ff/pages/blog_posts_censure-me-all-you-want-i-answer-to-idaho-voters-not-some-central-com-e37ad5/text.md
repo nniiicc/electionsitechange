@@ -1,4 +1,4 @@
-Censure me all you want.
+Skip to main content Stephanie Mickelsen Menu Home About Endorsements Volunteer Blog Contact Donate Search the site Expand Search Censure me all you want.
 I answer to Idaho voters, not some central committee.
 In 2022, I earned the honor of representing District 32 and Bonneville County in the Idaho House.
 When I swore my oath of office to uphold the U.S. and Idaho constitutions, I committed to serving my district to the best of my ability.
@@ -12,8 +12,7 @@ Telling you what’s happening and why will be used against me and any other leg
 But you deserve to know what’s being done in the name of Idaho Republicans.
 You deserve to know that some people within the party believe they should call all the shots.
 Only they should have the right to determine who gets to call themselves a Republican and who can run for office as a Republican.
-Under current Republican Party rules, if an elected official receives a second censure by a legislative district, the state, county, or legislative district committee can vote “to remove Party support and prohibit the use of Republican Party identifiers.”
-If approved, the restriction lasts for five years.
+Under current Republican Party rules, if an elected official receives a second censure by a legislative district, the state, county, or legislative district committee can vote “to remove Party support and prohibit the use of Republican Party identifiers.” If approved, the restriction lasts for five years.
 Some have suggested they’ll pursue legal action to enforce this decision.
 When I ran for office, I needed to secure a majority of votes from over 52,000 people in my district.
 Now, 20 precinct committeemen on the District 32 Legislative Committee will vote on whether I can call myself a Republican.
@@ -38,3 +37,6 @@ They get to decide if I should continue to serve, not a central committee.
 That’s how it should be.
 Rep.
 Stephanie Mickelsen, R-Idaho Falls, represents District 32 (Bonneville County) in the Idaho House.
+March 13, 2024 Home Blog Censure me all you want.
+I answer to Idaho voters, not some central committee.
+Paid for by Stephanie Mickelsen For Idaho © # Copyright Stephanie Mickelsen for Idaho | Mario Hernandez - Treasurer Back to top

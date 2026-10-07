@@ -1,20 +1,82 @@
 [
-"https://danielleforgeorgia.com/",
-"https://danielleforgeorgia.com/about",
-"https://danielleforgeorgia.com/contact-us",
-"https://danielleforgeorgia.com/endorsed",
-"https://danielleforgeorgia.com/gallery",
-"https://danielleforgeorgia.com/policy",
-"https://facebook.com/danilelleforgahd44",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/daniellebell4ga",
-"https://linkedin.com/in/danielle-bell-9a818759",
-"https://mobilize.us/cherokeecountydemocraticcommittee/event/999858",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/daniellebell2026",
-"https://secure.actblue.com/donate/webpopup",
-"https://tiktok.com/@daniellebell4ga",
-"https://x.com/danielle4gahd44",
-"https://youtube.com/channel/UCfPOccacrm_UIZNUgeVSK-A"
+{
+"text": "About",
+"href": "https://danielleforgeorgia.com/about"
+},
+{
+"text": "Contact us",
+"href": "https://danielleforgeorgia.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/daniellebell2026"
+},
+{
+"text": "Endorsed",
+"href": "https://danielleforgeorgia.com/endorsed"
+},
+{
+"text": "Gallery",
+"href": "https://danielleforgeorgia.com/gallery"
+},
+{
+"text": "Give",
+"href": "https://secure.actblue.com/donate/webpopup"
+},
+{
+"text": "Home",
+"href": "https://danielleforgeorgia.com/"
+},
+{
+"text": "Policy",
+"href": "https://danielleforgeorgia.com/policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer!",
+"href": "https://www.mobilize.us/cherokeecountydemocraticcommittee/event/999858/"
+},
+{
+"text": "[image]",
+"href": "https://danielleforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/danilelleforgahd44"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/daniellebell4ga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/danielle-bell-9a818759/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@daniellebell4ga"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/danielle4gahd44"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCfPOccacrm_UIZNUgeVSK-A"
+},
+{
+"text": "danielle@danielleforgeorgia.com",
+"href": "mailto:danielle@danielleforgeorgia.com"
+}
 ]

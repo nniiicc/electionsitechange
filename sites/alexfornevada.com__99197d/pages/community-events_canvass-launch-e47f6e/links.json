@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+Launch&dates=20260411T170000Z%2F20260411T210000Z&location=1600+Wigwam+Pkwy%2C+Henderson%2C+NV%2C+89074%2C+United+States",
-"http://maps.google.com/?q=1600+Wigwam+Pkwy+Henderson%2C+NV%2C+89074+United+States",
-"http://x.com/AlexPereszlenyi",
-"https://alexfornevada.com/",
-"https://alexfornevada.com/aboutme",
-"https://alexfornevada.com/cart",
-"https://alexfornevada.com/community-events",
-"https://alexfornevada.com/community-events/canvass-launch?format=ical",
-"https://alexfornevada.com/community-events/family-fun-karaoke-community-event",
-"https://alexfornevada.com/community-events/tactotarian-fundraiser",
-"https://alexfornevada.com/issues",
-"https://alexfornevada.com/volunteer",
-"https://bsky.app/profile/alexpereszlenyi.bsky.social",
-"https://facebook.com/AlexForNevada",
-"https://instagram.com/alexpereszlenyi",
-"https://secure.actblue.com/donate/alex-pereszlenyi-nv",
-"https://threads.com/@alexpereszlenyi",
-"https://tiktok.com/@alexpereszlenyi",
-"https://youtube.com/@AlexPereszlenyi"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1600+wigwam+pkwy+henderson%2C+nv%2C+89074+united+states"
+},
+{
+"text": "0",
+"href": "https://www.alexfornevada.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.alexfornevada.com/aboutme"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.alexfornevada.com/community-events"
+},
+{
+"text": "Community Events",
+"href": "https://www.alexfornevada.com/community-events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alex-pereszlenyi-nv"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+Launch&dates=20260411T170000Z%2F20260411T210000Z&location=1600+Wigwam+Pkwy%2C+Henderson%2C+NV%2C+89074%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.alexfornevada.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.alexfornevada.com/community-events/canvass-launch?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.alexfornevada.com/issues"
+},
+{
+"text": "Next Next April 24 Family Fun Karaoke Community Event",
+"href": "https://www.alexfornevada.com/community-events/family-fun-karaoke-community-event"
+},
+{
+"text": "Previous Previous March 14 Tactotarian Fundraiser",
+"href": "https://www.alexfornevada.com/community-events/tactotarian-fundraiser"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alexfornevada.com/volunteer"
+},
+{
+"text": "[image: Alex For Nevada]",
+"href": "https://www.alexfornevada.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/AlexPereszlenyi"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/alexpereszlenyi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AlexForNevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/alexpereszlenyi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@alexpereszlenyi"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@alexpereszlenyi"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AlexPereszlenyi"
+}
 ]

@@ -1,12 +1,11 @@
-John Bell: President Trump is the easy choice for North Carolina
-New Bern Sun Journal
-Link
-Like many North Carolinians, I am very concerned with the extreme far-left policies of Joe Biden, Kamala Harris and Roy Cooper – and the direction they want to take our great state and country.
+Make a donation Please finish the form below Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form CONTRIBUTE Home ABOUT priorities NEWS Join GAllery John Bell: President Trump is the easy choice for North Carolina Written by: Team Bell August 28, 2020 Back to News John Bell: President Trump is the easy choice for North Carolina New Bern Sun Journal Link Like many North Carolinians, I am very concerned with the extreme far-left policies of Joe Biden, Kamala Harris and Roy Cooper – and the direction they want to take our great state and country.
 For me, President Trump is the easy choice for North Carolina.
 When it comes to the economy, President Trump has delivered on his promises to cut taxes, grow jobs, reduce regulations and increase wages.
 In addition to the pro-growth reforms enacted by the Republican-led state legislature, North Carolina has now become a leading state for business and jobs.
-In fact, for the third year in a row, North Carolina has been recognized by Forbes as the “Best State for Business.”
-As we rebound from the COVID-19 outbreak, President Trump is exactly who we need to get our economy moving again.
+In fact, for the third year in a row, North Carolina has been recognized by Forbes as the “Best State for Business.” As we rebound from the COVID-19 outbreak, President Trump is exactly who we need to get our economy moving again.
 He has done it once – and he will do it again.
 During his first term, President Trump built an economy that has benefitted every North Carolinian.
 While the liberal media won’t give him credit, President Trump has not only helped the middle class, but his policies have lifted over 104,000 North Carolinians out of poverty and another 258,000 off food stamps.
@@ -35,3 +34,6 @@ I will be voting to re-elect President Trump.
 John R.
 Bell, IV is the Majority Leader in the North Carolina House of Representatives.
 He represents House District 10, which includes Greene, Johnston and Wayne counties.
+Contact us john@electjohnbell.com POL.
+AD.
+PAID FOR BY ELECT JOHN BELL COMMITTTEE.

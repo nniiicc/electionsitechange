@@ -1,4 +1,8 @@
-The establishment Democratic Party just tried their last Hail Mary at pushing me out of my Primary Race over $200,000. 2 weeks before the Primary election!
+top of page DAQUAN NEAL FOR STATE REPRESENTATIVE DISTRICT 39 Home About Policies Volunteer ASK Daquan Endorsements Daquan's Student's of Ohio DONATE ASK DAQUAN SUBMIT YOUR QUESTION Daquan wants to speak with you! ​ Ask a question, send a comment and Daquan will respond.
+Look out for a shout out on social media! ​ ASK DAQUAN A QUESTION Daquan's top 3 priorities when in office?
+Can I vote for you if I'm not in District 39?
+The establishment Democratic Party just tried their last Hail Mary at pushing me out of my Primary Race over $200,000.
+2 weeks before the Primary election!
 I have faced pressure to drop out of the race and this attempt to endorse my opponent in a primary election was the last straw for my community, who made their voices heard and said no!
 This is why community is so important!
 This is why your voice and vote matters because in the face of corruption, my community sniffed it out and shut it down!
@@ -9,3 +13,7 @@ And with this conclusion, I am done giving them any more of my energy!
 I am happy I got to share this with all of you and I hope it means something to someone out there that we are going to fight no matter who the opposition is to help and represent our communities!
 What moment made you run for office?
 How does a Super Minority work?
+Campaign Compliance Notice Contributions are subject to Ohio campaign finance laws, including contribution limits and reporting requirements.
+Corporate and individual contributions must comply with applicable laws.
+No goods or services may be provided in exchange for official action.
+PRIVACY POLICY Paid for by Friends of Daquan Neal for Ohio bottom of page

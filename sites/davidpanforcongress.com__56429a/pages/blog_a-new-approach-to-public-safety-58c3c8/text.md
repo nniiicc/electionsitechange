@@ -1,6 +1,4 @@
-A New Approach to Public Safety
-Enforcing Our Laws While Integrating People Back into Our Community
-If we do not feel safe in our homes and on our streets, we will be unable to build a future for ourselves and our children.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate A New Approach to Public Safety Jun 5 Written By Guest User Enforcing Our Laws While Integrating People Back into Our Community If we do not feel safe in our homes and on our streets, we will be unable to build a future for ourselves and our children.
 Some of our local politicians are quietly working to de-fund the police because they see them as our opponents rather than our allies.
 I will work to ensure our police officers have the resources and legal support they need to protect our lives and property.
 Criminals, as well as our police, should be held accountable for their actions, and our laws should be enforced.
@@ -10,3 +8,9 @@ Because the universal basic income would be paid as a direct deposit into every 
 Consequently, those people who today engage in petty crimes or owe child support would have an immediate reason to avoid such behavior under my plan; they will want to protect their basic income.
 Instead of a system that penalizes work and savings, we would have one that rewards responsible decision-making.
 With your help, I can work to ensure public safety and help our communities to thrive.
+Guest User Previous Previous David Pan Has a Plan Next Next Democrats and Republicans can work together Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

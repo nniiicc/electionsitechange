@@ -1,5 +1,3 @@
-So much is happening right now.
-PRESS RELEASE
-Endorsement Announcement
-NEWS ARTICLE
-Endorsement Announcement
+Skip navigation menu About Issues News Endorsements Volunteer Contact About Issues News Endorsements Volunteer Contact news & press Latest Campaign Developments So much is happening right now.
+PRESS RELEASE Mike Scott's Campaign Announcement Read more Jan 7 2026 Endorsement Announcement Professional Fire Fighters of Maine Endorsement Read more Feb 16 2026 NEWS ARTICLE Petition Submission Read more Feb 17 2026 Endorsement Announcement Maine AFL-CIO Endorsement Read more Apr 15 2026 mikescottformaine@gmail.com Powered by RUN! website builder Paid for and authorized by the candidate.
+You need to enable JavaScript to run this app.

@@ -1,14 +1,62 @@
 [
-"http://instagram.com/henryemele",
-"http://x.com/emelehenry",
-"https://facebook.com/HenryEmeleForNH",
-"https://henryemele.com/",
-"https://henryemele.com/cart",
-"https://henryemele.com/donate",
-"https://henryemele.com/events",
-"https://henryemele.com/issues",
-"https://henryemele.com/meet-henry",
-"https://henryemele.com/news",
-"https://henryemele.com/privacy-policy",
-"https://henryemele.com/volunteer"
+{
+"text": "0",
+"href": "https://henryemele.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@henryemele.com"
+},
+{
+"text": "Donate",
+"href": "https://henryemele.com/donate"
+},
+{
+"text": "Events",
+"href": "https://henryemele.com/events"
+},
+{
+"text": "Get a Yard Sign",
+"href": "mailto:info@henryemele.com?subject=Get+a+Yard+Sign"
+},
+{
+"text": "Get in Touch",
+"href": "mailto:info@henryemele.com"
+},
+{
+"text": "Issues",
+"href": "https://henryemele.com/issues"
+},
+{
+"text": "Meet Henry",
+"href": "https://henryemele.com/meet-henry"
+},
+{
+"text": "News",
+"href": "https://henryemele.com/news"
+},
+{
+"text": "Privacy & Terms",
+"href": "https://henryemele.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://henryemele.com/volunteer"
+},
+{
+"text": "[image: HENRY EMELE]",
+"href": "https://henryemele.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/henryemele"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/emelehenry"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HenryEmeleForNH"
+}
 ]

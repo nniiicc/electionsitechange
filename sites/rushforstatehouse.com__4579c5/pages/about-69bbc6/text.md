@@ -1,5 +1,4 @@
-About Your State Representative
-Thank you for taking the time to learn a little bit about me and my story.
+Home About Values Endorsements Contact Volunteer About Your State Representative Thank you for taking the time to learn a little bit about me and my story.
 I come from a humble background.
 My two brothers, two sisters and I were raised by our mother, who was a third-grade public school teacher.
 She instilled in us a foundation of Christian faith and personal responsibility.
@@ -19,9 +18,9 @@ I have been a Coffee County commissioner since 1988.
 For the last ten years have been chairman of the Budget and Finance Committee and Tullahoma Caucus Chairman.
 I was elected as your State Representative in 2018.
 During my free time I enjoy swimming, hiking, reading, and traveling with my family.
-I married my college sweetheart, Belinda, in 1974.
+With my beautiful bride, Belinda I married my college sweetheart, Belinda, in 1974.
 We moved to Tullahoma in 1977 where we raised our four wonderful children, Elizabeth, Ben, Bradford and Blair.
 We have since been blessed with two daughters-in-law, one son-in-law and four grandchildren.
 Thank you for reading!
 I look forward to sharing more with you as I travel through the district.
-Please follow my campaign journey on Facebook (www.Facebook.com/ElectRush)
+Please follow my campaign journey on Facebook (www.Facebook.com/ElectRush) Contact Volunteer Follow the Campaign Facebook Privacy Paid for by Rush Bricken Campaign, Cheryl Swan, Treasurer Campaign Websites by Online Candidate

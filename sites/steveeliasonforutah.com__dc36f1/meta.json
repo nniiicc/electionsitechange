@@ -1,7 +1,11 @@
 {
  "description": "Steve Eliason is running for re-election to Utah State House District 43 to continue to show up for our community and deliver bipartisan results.",
  "final_url": "https://steveeliasonforutah.com/",
- "paid_for_by": null,
+ "fingerprint": "c7e92d32a99b9ee2fe8df58a318d862c69305ce3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Steve Eliason for Utah House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

@@ -1,4 +1,4 @@
-I have enjoyed talking with folks for a long time, as first as a County Agent, and now as your Legislator.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK I have enjoyed talking with folks for a long time, as first as a County Agent, and now as your Legislator.
 I grew up working and helping others.
 I guess I have cooked 20,000 chickens in my life for fundraisers with great help, of course.
 I received the “Defender of Freedom Award” from the NRA.
@@ -13,4 +13,4 @@ Signing of HB 60 that I sponsored.
 Being sworn in for the first time with Marcia using my sweet Dad’s well-worn Bible.
 Thank you for electing me as your State Representative.
 I am the one that started the THANK YOU sign.
-Mailing address: 89 Apple Valley Farm Lane Jasper GA 30143 Phone: (770) 893-2039 Email: Rick@RickJasperse.org
+Previous Next Subscribe to Newsletter REPORT FROM THE CAPITOL EVENTS | MEETINGS Mailing address: 89 Apple Valley Farm Lane Jasper GA 30143 Phone: (770) 893-2039 Email: Rick@RickJasperse.org Tweets by @RickJasperse Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

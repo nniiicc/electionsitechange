@@ -1,12 +1,5 @@
-BUILD, PROTECT, PROSPER
-BARRY BEAUCHAMP
-FOR STATE DELEGATE
-DISTRICT 38B
-BARRY BEAUCHAMP
-FOR STATE DELEGATE
-DISTRICT 38B
-MEET BARRY
-Barry Beauchamp is a proud Eastern Shore native and lifelong resident of Salisbury, Maryland.
+top of page BARRY BEAUCHAMP DONATE BUILD, PROTECT, PROSPER BARRY BEAUCHAMP FOR STATE DELEGATE DISTRICT 38B BARRY BEAUCHAMP FOR STATE DELEGATE DISTRICT 38B Click Here to Request a Yard Sign!
+MEET BARRY Barry Beauchamp is a proud Eastern Shore native and lifelong resident of Salisbury, Maryland.
 He has served as a member of the Maryland House of Delegates since September 10, 2024, representing District 38B.
 In the legislature, Barry is a member of the Appropriations Committee, where he serves on the Education & Economic Development Subcommittee and the Oversight Committee on Pensions.
 He also served on the State Board of On-Site Wastewater Professionals.
@@ -24,16 +17,12 @@ Bennett Senior High School and attended Salisbury University for two and a half 
 He has also served as Chair of the Wicomico County Republican Central Committee, where he has been an active voice for his community since 2022.
 Barry is passionate about protecting individual rights, strengthening local economies, and ensuring future generations have the same opportunities he worked hard to create for himself.
 Barry is married with two children and five grandchildren, and he is deeply committed to building a Maryland that works for every family.
-VISION &
-PRIORITIES
-Learn more about Barry's campaign initiatives
-01
-AFFORDABLE HOUSING THROUGH INFRASTRUCTURE CHANGE
-He’s committed to building the infrastructure our towns desperately need — starting with fixing our water and sewer systems to make homeownership more affordable for working families.
-02
-PROTECTING OUR FARMERS AND WATERMEN
-He’ll protect our farmland, our fishing industry, and the livelihoods that define our way of life on the Eastern Shore of Maryland.
-03
-ADVOCATING FOR SMALL BUSINESSES
-And most of all, he’ll fight to ensure that our families and small businesses can prosper right here at home, without losing the values and traditions that make this district special.
-building a maryland where farms, businesses and families can flourish.
+VISION & PRIORITIES Learn more about Barry's campaign initiatives 01 AFFORDABLE HOUSING THROUGH INFRASTRUCTURE CHANGE He’s committed to building the infrastructure our towns desperately need — starting with fixing our water and sewer systems to make homeownership more affordable for working families.
+02 PROTECTING OUR FARMERS AND WATERMEN He’ll protect our farmland, our fishing industry, and the livelihoods that define our way of life on the Eastern Shore of Maryland.
+03 ADVOCATING FOR SMALL BUSINESSES And most of all, he’ll fight to ensure that our families and small businesses can prosper right here at home, without losing the values and traditions that make this district special. building a maryland where farms, businesses and families can flourish. building a maryland where farms, businesses and families can flourish. building a maryland where farms, businesses and families can flourish. building a maryland where farms, businesses and families can flourish.
+WE'RE GRATEFUL FOR YOUR SUPPORT!
+Barry needs your support!
+Contribute now to help make his vision a reality and our community a better place.
+CLICK HERE TO DONATE $25 $50 $100 CLICK HERE TO DONATE Barry Beauchamp for State Delegate, District 38B VISION ABOUT DONATE Menu Close FACEBOOK A CCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS FRIENDS OF BARRY S.
+BEAUCHAMP, REBECCA TITTERMARY, TREASURER ©.
+Made with Wix Studio™ VISION ABOUT DONATE ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

@@ -1,5 +1,5 @@
-Energy & Environment
-Cleaner Energy.
+Chip in Today Donate anything you can, we will need all the help on this campaign to fight for working people. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram YouTube Twitter Threads Jennifer McClellan for Congress – Menu Meet Jennifer Issues Donate Energy & Environment Cleaner Energy.
 Healthier Communities.
 A Livable Planet.
 The choices we make today about energy and the environment will shape the world our children inherit.
@@ -15,3 +15,8 @@ Preserving Our Communities and Public Lands Jenn fought to protect Virginia comm
 Department of Energy to incorporate climate, environmental justice, and public health considerations into liquified natural gas (LNG) export decisions.
 She continues to oppose Republican efforts to prioritize corporate polluters over the health and safety of Virginia families.
 In Congress, she co-led the introduction of the FERC Greenhouse Gas and Environmental Justice Policy Act of 2025 to require the Federal Energy Regulatory Commission (FERC) to assess and mitigate the impacts that natural gas pipelines approved by FERC under the Natural Gas Act (NGA) will have on climate change and Environmental Justice communities.
+Economic Opportunity Energy & Environment Healthcare Voting Rights National Security Education and Childcare Endorse Sign up as a supporter of Rep.
+McClellan’s grassroots-powered campaign.
+Thank you for your support and endorsement.
+Contribute Will you chip in to support our grassroots campaign today? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Jennifer McClellan for Congress – Meet Jennifer Issues Endorsements Donate Follow Us Facebook Instagram YouTube Twitter Threads Paid for by McClellan for Congress Contact Privacy Policy Made with Middle Seat

@@ -1,7 +1,11 @@
 {
  "description": "Events Archive - David Russ Is For US",
  "final_url": "https://russisforus.com/events/list/",
+ "fingerprint": "56a884306dc4318eb776c12b2d81780170fd347b",
+ "format": 3,
  "paid_for_by": "Paid for by David Russ Is For US",
- "title": "Events from July 25 \u2013 August 12 \u2013 David Russ Is For US",
- "years_mentioned": []
+ "title": "Events from July 25 – August 12 – David Russ Is For US",
+ "years_mentioned": [
+  "2026"
+ ]
 }

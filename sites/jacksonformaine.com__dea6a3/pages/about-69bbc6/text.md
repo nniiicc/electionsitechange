@@ -1,4 +1,4 @@
-Mainer by birth.
+Skip navigation menu About Troy Endorsements Priorities News Volunteer Events DONATE About Troy Endorsements Priorities News Volunteer Events DONATE Mainer by birth.
 Logger by trade.
 Senator for the people.
 Troy Jackson grew up in Aroostook County, a poor kid in a town full of poor kids.
@@ -27,3 +27,8 @@ Senate to put power back in the hands of the people and fix our broken systems â
 Troy earned an Associate's Degree from the University of Maine at Fort Kent in 2000.
 He lives in Allagash with his partner, Lana.
 They have two grown sons.
+Troy is fighting for working people across Maine and America to have more time for what matters.
+To reach the campaign, email info@jacksonformaine.com .
+For press inquiries, email press@jacksonformaine.com .
+If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
+Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

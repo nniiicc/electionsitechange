@@ -1,22 +1,17 @@
-All posts by Tom Mannion
-HB104 Defend the Guard Passes the NH House!
-Credit to Kristin Noble for clipping my floor speech!
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: All posts by Tom Mannion Representative-Elected for New Hampshire State Rep for Hillsborough District 1 (Pelham).
+Interview Interview – PorcReport 2026 January 22, 2026 Tom Mannion Leave a comment Defend the Guard Interview Floor Speech HB104 Defend the Guard Passes the NH House!
+January 9, 2026 Tom Mannion Leave a comment Credit to Kristin Noble for clipping my floor speech!
 In a surprise twist, Defend the Guard’s ITL recommendation from my committee was overturned in a bipartisan, 182-159 vote.
 The flips of (R)s opposed and (D)s in support are symmetrical, similar to the previous term, but the quantity has doubled.
 This could be due to partisan loyalty to the current administration, but I’m only speculating.
 I’m proud of the principled people on both sides of the aisle that put the NH Guard member’s lives above the vague threats of “funding risk” originating from the Pentagon.
 Now, onto the Senate!
-Scorecard – AFP 2025
-I’m proud to report the Mannion brothers scored a perfect 100% with Americans For Prosperity!
-AFP focuses on issues such as education choice, reduced taxes, relaxing regulatory burdens, sound energy policy, and free market solutions to the housing crisis – all issues that help protect the pocketbooks of granite staters!
-Panel – Defend the Guard at Porcfest 2025
-Scorecard – NHLA 2025 (Final)
-I am proud to report the Mannion brothers maintained A+ and A ratings with the New Hampshire Liberty Alliance in 2025!
-Interview – The Granite Discourse
-This interview was an absolute blast, the longest I’ve ever done.
+10th Amendment Defend the Guard Speech Scorecards Scorecard – AFP 2025 September 30, 2025 Tom Mannion Leave a comment I’m proud to report the Mannion brothers scored a perfect 100% with Americans For Prosperity!
+Click to access New-Hampshire-Scorecard-2025-Final-3.pdf AFP focuses on issues such as education choice, reduced taxes, relaxing regulatory burdens, sound energy policy, and free market solutions to the housing crisis – all issues that help protect the pocketbooks of granite staters!
+AFP scorecard Interview Panel – Defend the Guard at Porcfest 2025 August 21, 2025 Tom Mannion Leave a comment 10th Amendment Defend the Guard Nullification Panel Porcfest Veterans Scorecards Scorecard – NHLA 2025 (Final) July 23, 2025 Tom Mannion Leave a comment I am proud to report the Mannion brothers maintained A+ and A ratings with the New Hampshire Liberty Alliance in 2025!
+NHLA scorecard Interview Interview – The Granite Discourse June 27, 2025 Tom Mannion Leave a comment This interview was an absolute blast, the longest I’ve ever done.
 Craig is a fantastic host, our very own NH-focused Joe Rogan!
-Unanimous Consent Speech – June 26, 2025
-Thank you Mr.
+Defend the Guard Housing Interview Floor Speech Unanimous Consent Speech – June 26, 2025 June 27, 2025 Tom Mannion Leave a comment Linked at timestamp Thank you Mr.
 Speaker.
 I was going to save this for veto day, to be closer to the anniversary, but world events this past week motivated me to rise today.
 On October 19, 2005, 6.5miles from the Syrian border along the Euphrates, 3rd Bn 6th Marines, Kilo Company, 1st Platoon, 3rd Squad was on a foot patrol along ASR Diamond in the Al’Qaim Region of the Al’Anbar province in Iraq.
@@ -55,28 +50,23 @@ Remember Iran is bigger than Iraq and Afghanistan combined in both land area and
 I ask that you remember this unanimous consent when I rise before you all again in January.
 I ask that you remember the sacrifices of the men and women that continue to volunteer to wear the uniform.
 I ask you to pray, and speak loudly for peace, and to bring our troops home from places they shouldn’t be, and out of harm’s way.
-And finally, I ask you to remember Lance Corporal Norman “Wally” Anderson III, the man that saved the lives of his squadmates 20 years ago.
+And finally, I ask you to remember Lance Corporal Norman “Wally” Anderson III, the man that saved the lives of his squadmates #ago.
 Thank you.
-2025 Budget (HB1 & HB2) Passed
-At first we failed to pass HB1, requiring us to table HB2, then had to pass a continuing resolution (CR) to keep the government operational for 6 months.
+Defend the Guard foreign policy Iran Iraq Speech Unanimous Consent Veterans Bill Passed 2025 Budget (HB1 & HB2) Passed June 27, 2025 Tom Mannion Leave a comment At first we failed to pass HB1, requiring us to table HB2, then had to pass a continuing resolution (CR) to keep the government operational for 6 months.
 Had that been our final path, the budget would be a Senate + House Democrat written budget, since it became obvious that a small faction of the Republican Party could not be reasoned with.
 While the debate for the CR occurred, several members were whipped to flip their vote, one of those members negotiated with House leadership to address a big ask he made made for the budget since day 1, and will now have the backing of the Majority Office behind his cause (talk about negotiation skills!) I also intend to work with those that voted “no” on legislation next year to address their concerns, because I agree that there’s always room for improvement!
 We reconsidered the failed vote on HB1, and it passed by 5 votes.
 We removed HB2 from the table, moved the question (skipping 9 speeches that would not change the outcome), and passed it by the Speaker’s tie-breaking vote!
-Now, things that made are in the budget that will be signed by Ayotte:
-- Reigning in DHHS rulemaking authority over vaccines
-- Special education reform
-- DEI ban within State agencies similar to Trump’s
-- Cuts to bloated UNH budget
-- Increased transparency and removal of partisan power inside of the Office of the Child Advocate
-- Full repeal of automobile inspections – we will now join the 39 other states that do not have them.
-- Funding Northern Border Alliance for border security
-- Added work requirement to State Medicaid – no more hands outs for those that can, but refuse to work
-- More funding for the developmentally disabled
-- Bell-to-bell cell phone bans in classrooms
-- Certificate of need improvements, allowing critical care facilities to be built to meet market demand and not just outside an arbitrary, protectionist exclusion radius
-All of this occurred without increasing or creating any new taxes, despite the wishes of the Democrats and some bills filed by the Senate.
-Bill Signed – HB230
-I’m pleased to announce HB230 – relative to the adoption of public health ordinances by municipalities was signed by the Governor!
+Now, things that made are in the budget that will be signed by Ayotte: Reigning in DHHS rulemaking authority over vaccines Special education reform DEI ban within State agencies similar to Trump’s Cuts to bloated UNH budget Increased transparency and removal of partisan power inside of the Office of the Child Advocate Full repeal of automobile inspections – we will now join the 39 other states that do not have them.
+Funding Northern Border Alliance for border security Added work requirement to State Medicaid – no more hands outs for those that can, but refuse to work More funding for the developmentally disabled Bell-to-bell cell phone bans in classrooms Certificate of need improvements, allowing critical care facilities to be built to meet market demand and not just outside an arbitrary, protectionist exclusion radius All of this occurred without increasing or creating any new taxes, despite the wishes of the Democrats and some bills filed by the Senate.
+Budget car inspections DHHS education health care medicaid vaccines Bill Passed Bill Signed – HB230 June 6, 2025 Tom Mannion Leave a comment I’m pleased to announce HB230 – relative to the adoption of public health ordinances by municipalities was signed by the Governor!
 I co-sponsored this legislation to fix flaws that were exposed during COVID tyranny.
 This is a bill designed to reign in health officers that took it upon themselves to impose mandates outside of their scope.
+COVID health Local tyranny Interview Panel – Defend the Guard At Liberty Forum May 1, 2025 Tom Mannion Leave a comment You can now watch the complete @DefendTheGuard panel from @NHLibertyForum !
+Featuring our founder @DanMcKnight30 , our Maine sponsor Rep.
+Ben Hymes, our New Hampshire sponsor Rep. @mannion4nh , and our head New Hampshire activist @derek_proulx .
+Learn what YOU can do to help!🇺🇸 pic.twitter.com/LPE95sEjKp — Bring Our Troops Home (@TroopsHomeUS) May 1, 2025 10th Amendment Defend the Guard Liberty Forum Nullification Veterans Posts navigation ← Previous 1 2 3 … 10 Next → State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

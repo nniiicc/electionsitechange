@@ -1,10 +1,6 @@
-Legislative Survey
-Todd Jones • February 19, 2024
-Make your opinions known by participating in my legislative survey
-Please take a moment to complete my legislative survey!
+HOME ABOUT ISSUES THE DISTRICT NEWS CONTACT DONATE Blog Post Legislative Survey Todd Jones • February 19, 2024 Make your opinions known by participating in my legislative survey Please take a moment to complete my legislative survey!
 This is a great opportunity to make your voice heard and help me better understand the issues that are important to you.
-You can also join me Saturday for coffee at 9am at Fuel Coffee to share your thoughts in person.
-Cary Lucas and his campaign have spent over $80k in illegally unreported funds.
+You can also join me Saturday for coffee at 9am at Fuel Coffee to share your thoughts in person. < Older Post Newer Post > Share Tweet Share Mail Brazen, Illegal Activity from the Lucas Campaign By Campaign Staff • May 18, 2024 Cary Lucas and his campaign have spent over $80k in illegally unreported funds.
 In addition those illegal funds, he has refused to file personal financial disclosures.
 Those disclosures are required by law to help prevent fraud and conflict of interest, but Cary has apparently decided to ignore the law.
 This represents one of the most egregious ethics violations in the state’s modern history.
@@ -109,14 +105,14 @@ What kind of corruption is he hiding?
 All of these issues are incredibly alarming.
 Rest assured we are doing everything in our power to hold Mr.
 Lucas accountable, and we are confident the voters will do the same.
-Republican Congressman Rich McCormick endorsed Todd Jones for re-election on Tuesday during his trip to Atlanta to qualify for re-election to Congress.
+Congressman Rich McCormick Endorses Todd Jones By Todd Jones • March 7, 2024 Republican Congressman Rich McCormick endorsed Todd Jones for re-election on Tuesday during his trip to Atlanta to qualify for re-election to Congress.
 During his brief time in office Congressman McCormick has become popular among conservatives for his leadership in Washington.
 Here's what he had to say on Tuesday: "Hey I’m Congressman Rich McCormick.
 I’m here with Representative Todd Jones.
 I’m really excited about the things he’s been able to get done on the local level where real government gets done, the most representative government we have.
 I want to endorse him, say he’s doing a great job, he will continue to fight the good fight, and I want him to be part of this team.
 I want to grow the church, I want to grow the party, I want to continue looking to the future and he’s a big part of that." You can see a video of his endorsement here.
-"Keeping our community safe has always been my top priority.
+Sheriff Ron Freeman Endorses Todd Jones By Todd Jones • February 20, 2024 "Keeping our community safe has always been my top priority.
 But safety isn't just about what happens on our streets; it's about the leaders who shape our future.
 That's why I'm excited to support my friend Todd Jones.
 Todd has been serving our community for nearly two decades, from being the president of the elementary school dad’s club to representing us at the state level.
@@ -124,8 +120,8 @@ Todd works tirelessly to ensure Forsyth County remains the best place to raise a
 If we had more dads like Todd Jones, it would make my job a lot easier.
 His dedication to our community's safety, education, and prosperity is exactly what we need.
 I’m proud to support Todd Jones for State House, and I hope you’ll do the same.
-Thank you, and God bless.” Sheriff Ron Freeman
-Election integrity is an incredibly hot-button issue in American politics, particularly since the 2020 and 2016 elections.
+Thank you, and God bless.” Sheriff Ron Freeman Why do we need an Ai Elections Bill?
+By Todd Jones • February 12, 2024 Election integrity is an incredibly hot-button issue in American politics, particularly since the 2020 and 2016 elections.
 In fact, I think it’s been so hot-button, many people have developed “election integrity fatigue”.
 Frankly, I get it.
 I’m tired of watching grifters from across the political spectrum–like Jill Stein or Sydney Powell–use wild conspiracies to create doubt about our elections.
@@ -151,7 +147,8 @@ I should be able to provide more information about these efforts soon.
 Until then, I hope you will support HB 986.
 As always, if you have questions or concerns please feel free to reach out.
 I would be glad to chat with you over coffee this Saturday at 9am at Fuel House Coffee.
-Please take 5 minutes to give us your feedback.
+Mental Health America Honors Rep.
+Todd Jones for Championing Mental Health Policy By Todd Jones • August 4, 2022 2019 Pre-Legislative Update By Todd Jones • January 21, 2019 Please take 5 minutes to give us your feedback.
 My colleagues and I have put together a short survey to gather your thoughts on the matters facing Georgia.
 We hope you take the time to contribute and submit.
 We would love to have your feedback by Wednesday, January 16th.
@@ -175,8 +172,7 @@ Please send me your resume or LinkedIn profile to todd.jones@house.ga.gov if you
 Thank you!!!
 Thank you for the opportunity to serve you.
 Please reach out to me via text or phone at 770-203-9230 or through email at todd.jones@house.ga.gov if I can be of any assistance.
-In your service, Todd Jones Georgia State Representative
-By Todd Jones Georgia House of Representatives, District 25 May 2, 2018 Georgia sits at a crossroads.
+In your service, Todd Jones Georgia State Representative Meet You in the Next Industrial Revolution By Todd Jones • May 11, 2018 By Todd Jones Georgia House of Representatives, District 25 May 2, 2018 Georgia sits at a crossroads.
 Stay the current course and bet on the tried and true or jump into unchartered waters.
 Our economy is growing, job rates are at an all-time high and our children attend the best schools in the state.
 The challenge is where do we go next.
@@ -205,11 +201,10 @@ Note revolution, not evolution.
 Evolving has been what we have been doing for decades.
 Today is our chance to grab tomorrow.
 The question is, do we have the resolve?
-I would love to hear back from you after you have time to review the results.
+Representative Todd Jones Announces Upcoming Sharon Springs Town Hall By Todd Jones • April 10, 2018 Speaker’s panel to include Peachtree Corners Mayor, UGA Professor, and others to discuss cityhood issue Results of the 2018 Legislative Survey By Todd Jones for State House • January 30, 2018 I would love to hear back from you after you have time to review the results.
 For instance, I was a little surprised by the strong support for a northern expansion of mass transit (about 72% support bus, rail or both).
 My email is todd.jones@house.ga.gov and my mobile is 770-203-9230.
-Here is the link to the file! https://gallery.mailchimp.com/02f89f467ef4b21c0bc1d13c7/files/bd19b237-62a9-4453-a646-11cae3576b18/District_25_Survey_Answers_Jan_30_2018.pdf Best regards, Todd Jones District 25 State Representative
-Can you take a moment to provide me with your thoughts on many of the issues that will arise during this legislative session?
+Here is the link to the file! https://gallery.mailchimp.com/02f89f467ef4b21c0bc1d13c7/files/bd19b237-62a9-4453-a646-11cae3576b18/District_25_Survey_Answers_Jan_30_2018.pdf Best regards, Todd Jones District 25 State Representative The 2018 Legislative Session Constituent Survey By Todd Jones for State House • January 15, 2018 Can you take a moment to provide me with your thoughts on many of the issues that will arise during this legislative session?
 The survey covers K-12 education, transportation and other key areas.
 Please click here to access the survey - https://www.surveymonkey.com/r/2018SurveyforToddJones .
 Please cut and paste the URL into your browser if the hyperlink is not working.
@@ -217,3 +212,4 @@ I truly appreciate the time and please do not hesitate to contact me if I can be
 Best regards, Todd Jones Georgia House Representative, District 25 Todd.Jones@house.ga.gov Mobile - +1 770 203 9230 PS - A town hall is being hosted on January 25th at 7pm at Brookwood Elementary School.
 The hosts include - Forsyth County Commissioners Brown and Semanson, BOE Chair Morrissey, Sheriff Freeman and me.
 It will be a Q&A format and open to all topics.
+1 (current) 2 3 4 HOME ABOUT ISSUES THE DISTRICT NEWS CONTACT DONATE Share by:

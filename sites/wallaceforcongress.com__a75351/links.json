@@ -1,20 +1,122 @@
 [
-"https://alfred.stlouisfed.org/series?seid=MEHOINUSPAA672N",
-"https://designedtorun.com/",
-"https://facebook.com/wallaceforpa",
-"https://instagram.com/wallaceforcongress",
-"https://quiverquant.com/congresstrading/politician/Daniel%20Meuser-M001204/net-worth",
-"https://secure.actblue.com/donate/rw4cweb",
-"https://store.wallaceforcongress.com/",
-"https://wallaceforcongress.com/",
-"https://wallaceforcongress.com/about",
-"https://wallaceforcongress.com/endorsements",
-"https://wallaceforcongress.com/events",
-"https://wallaceforcongress.com/getinvolved",
-"https://wallaceforcongress.com/media",
-"https://wallaceforcongress.com/priorities",
-"https://wallaceforcongress.com/privacy-policy",
-"https://wallaceforcongress.substack.com/",
-"https://x.com/wallaceforpa",
-"https://youtube.com/@WallaceforPA"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/rw4cweb"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/rw4cweb"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/rw4cweb"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/rw4cweb"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/rw4cweb"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rw4cweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wallaceforcongress.com/endorsements"
+},
+{
+"text": "Federal Reserve Bank of St. Louis, 2025",
+"href": "https://alfred.stlouisfed.org/series?seid=MEHOINUSPAA672N"
+},
+{
+"text": "Fixing our health care",
+"href": "https://www.wallaceforcongress.com/priorities#block-011480ac-8381-41f1-8dd6-e59faa282ab0"
+},
+{
+"text": "Keeping our promises to farmers",
+"href": "https://www.wallaceforcongress.com/priorities#block-011480ac-8381-41f1-8dd6-e59faa282ab0"
+},
+{
+"text": "Learn more",
+"href": "https://www.wallaceforcongress.com/about"
+},
+{
+"text": "Lowering the cost of living",
+"href": "https://www.wallaceforcongress.com/priorities#block-011480ac-8381-41f1-8dd6-e59faa282ab0"
+},
+{
+"text": "Media",
+"href": "https://www.wallaceforcongress.com/media"
+},
+{
+"text": "Meet Rachel",
+"href": "https://www.wallaceforcongress.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/rw4cweb"
+},
+{
+"text": "Priorities",
+"href": "https://www.wallaceforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.wallaceforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.wallaceforcongress.com/privacy-policy"
+},
+{
+"text": "Quiver Quantitative, 2025",
+"href": "https://www.quiverquant.com/congresstrading/politician/Daniel%20Meuser-M001204/net-worth"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://store.wallaceforcongress.com/"
+},
+{
+"text": "[image: Rachel Wallace For Congress]",
+"href": "https://www.wallaceforcongress.com/"
+},
+{
+"text": "[image: Wallace for Congress logo]",
+"href": "https://www.wallaceforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/wallaceforpa"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/wallaceforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://wallaceforcongress.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@WallaceforPA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/wallaceforpa"
+},
+{
+"text": "info@wallaceforcongress.com",
+"href": "mailto:info@wallaceforcongress.com"
+},
+{
+"text": "press@wallaceforcongress.com",
+"href": "mailto:press@wallaceforcongress.com"
+}
 ]

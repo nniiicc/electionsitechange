@@ -1,9 +1,7 @@
-Privacy Policy
-This privacy policy tells you how Julia for MN (hereinafter we/our/us) collects, uses, and protects your personal information.
+Skip To Main Home Meet Julia Issues Latest Get Involved Donate Menu Get Involved Donate Home Meet Julia Issues Latest Get Involved Donate Privacy Policy This privacy policy tells you how Julia for MN (hereinafter we/our/us) collects, uses, and protects your personal information.
 By visiting this website, you accept and agree to the terms and conditions of this website privacy policy.
 In particular, you consent to collection and use of your personal information as described in this policy.
-What information we may collect
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information.
+What information we may collect Like most places on the Internet, simply by visiting our website you automatically tell us certain information.
 This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using.
 Our website automatically records this basic information about you.
 And like many other websites, we may use cookies, click redirects, pixel tags, container tags, and similar technologies.
@@ -19,8 +17,7 @@ You can always choose not to provide us with information.
 However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
 Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services.
 In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
-What we do with your information
-We use your information to operate our website’s business activities.
+What we do with your information We use your information to operate our website’s business activities.
 For example, we may use this data to contact you about changes to our website, new products and services, special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
 If you download or use Mobile Apps from our website, the information we learn about you may be used by us to give you personalized content based upon your location and other data you share.
 If you do not want to share your location via Mobile Apps, check the instruction manual for your electronic device or contact your device’s manufacturer to see if you can turn off the locator feature.
@@ -38,77 +35,52 @@ We restrict the way third party suppliers can use your information.
 They are not allowed to sell or give your information to others.
 If we sell our website, we may transfer your information to the purchaser of the site.
 Upon completion of such a transfer, we will no longer possess or control the data received by the purchaser.
-Do-Not-Track
-We try to honor any Do-Not-Track signals you send through your web browser when visiting our website.
+Do-Not-Track We try to honor any Do-Not-Track signals you send through your web browser when visiting our website.
 However, please read the following important information about “Interest-Based Advertising,” “Remarketing,” and “Dynamic Ad Serving” so that you understand the type of tracking that may be done by third party vendors when you visit our site and how you can opt out of such tracking.
-Interest-based advertising
-When you visit our website, you may view advertisements posted on the site by Google or other companies.
+Interest-based advertising When you visit our website, you may view advertisements posted on the site by Google or other companies.
 These advertising companies may collect information about you while you are visiting this website and other websites.
 They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like.
-This website does not collect the information or control the content of the advertisements that you will see.
-You may be able to opt out of such advertising.
-To find out more about Google privacy policies and its DoubleClick cookie used to generate interest-based advertising, go to http://www.google.com/privacy/ads/.
-Remarketing
-This website may use a remarketing tag to advertise online.
+Remarketing This website may use a remarketing tag to advertise online.
 This means that Google and other third-party vendors may show our ads to you on sites across the Internet.
 These third-party vendors, including Google, may use cookies to serve ads to you based upon your past visits to our website.
-If you would like to opt out of Google’s use of cookies, you can visit the company’s Ad Preferences Manager at https://www.google.com/ads/preferences/.
-In the alternative, you can opt out of the use of cookies by third-party vendors by going to the Network Advertising Initiative’s opt-out page located at http://www.networkadvertising.org/choices/.
-Dynamic ad serving
-Our website may use Google’s Dynamic Ad Serving feature.
-To opt out of interest-based ads by Google, follow Google’s opt-out instructions located at https://support.google.com/ads/answer/2662922?hl=en.
-Google remarketing pixels
-Our website may use remarketing pixels.
-If you would like to opt out, you can visit the Google opt-out page at https://www.google.com/settings/ads/onweb#display_optout.
+Dynamic ad serving Our website may use Google’s Dynamic Ad Serving feature.
+To opt out of interest-based ads by Google, follow Google’s opt-out instructions located at https://support.google.com/ads/answer/2662922?hl=en .
+Google remarketing pixels Our website may use remarketing pixels.
+If you would like to opt out, you can visit the Google opt-out page at https://www.google.com/settings/ads/onweb#display_optout .
 Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
-Your use of information and unsolicited commercial email
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+Your use of information and unsolicited commercial email If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
 We hate junk email (spam).
 Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial email or to send unsolicited commercial communications via our website’s posting or other communication systems.
-SMS Disclaimer
-SMS opt-in information will not be shared with third parties.
+SMS Disclaimer SMS opt-in information will not be shared with third parties.
 By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Julia for MN.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.
-Your voluntary disclosure of information to third parties who are not our suppliers
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers.
+Your voluntary disclosure of information to third parties who are not our suppliers You may choose to provide personal information to website visitors or other third parties who are not our suppliers.
 Please use caution when doing so.
 The privacy policies and customs of these third parties determine what is done with your information.
-Autoresponders
-We may use autoresponders to communicate with you by email.
+Autoresponders We may use autoresponders to communicate with you by email.
 To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message.
 If you have difficulties opting out, you may contact us by sending an email to info@colemanforsenate.com or sending us mail to the address listed below.
-Information Security
-We try to keep your information secure.
+Information Security We try to keep your information secure.
 If we become aware of a data vulnerability, where economically feasible, we will attempt to promptly fix it in order to keep your data safe.
 However, with governments spying online using sophisticated technology and hackers data mining sites, no website owner can guarantee your information will be completely safe from unauthorized access by others.
 Please take these security risks into account before giving information to us or any other website owner.
-Data Retention
-We will keep your data for as long as we need it to provide you with products, services, and information and comply with applicable law, resolve any disputes between us or with third parties, and to enforce any contracts between us.
-Policy Changes
-The terms of this policy may change from time to time.
+Data Retention We will keep your data for as long as we need it to provide you with products, services, and information and comply with applicable law, resolve any disputes between us or with third parties, and to enforce any contracts between us.
+Policy Changes The terms of this policy may change from time to time.
 If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made.
 If you disagree with the changes that have been made, please contact us (by email, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 If you are concerned about the topic covered by this website privacy policy, you should read it each time before you use our website.
-California Privacy Rights
-If you are a California resident and our customer, Cal.
+California Privacy Rights If you are a California resident and our customer, Cal.
 Civ.
 Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes.
 To request this information, please send an email to info@colemanforsenate.com or write us at the address below.
-Questions or Concerns
-Any questions or concerns about this website privacy policy should be brought to our attention by sending an email to info@colemanforsenate.com and providing us with information relating to your concern.
-You may also mail your concerns to us at the following address:
-Julia for MN
-P.O.
-Box 339
-Chanhassen, MN 55317
-This website privacy policy was last updated on October 4, 2026.
-Latest From The Campaign
-Senator Coleman secures $13.2 million in local infrastructure investments
-Assistant Leader Coleman, Senate Republicans deliver tab fee tax cut for Minnesota
-Coleman, Senate Republicans propose ‘Tax Relief that Makes a Difference’
-Your Involvement Is Important
-We can't do this without you!
+Questions or Concerns Any questions or concerns about this website privacy policy should be brought to our attention by sending an email to info@colemanforsenate.com and providing us with information relating to your concern.
+You may also mail your concerns to us at the following address: Julia for MN P.O.
+Box 339 Chanhassen, MN 55317 ‍ This website privacy policy was last updated on October 4, 2026.
+Stay Connected Latest From The Campaign Senator Coleman secures $13.2 million in local infrastructure investments News Senator Julia Coleman has secured $13.2 million in critical local infrastructure investments for District 48 Read more Assistant Leader Coleman, Senate Republicans deliver tab fee tax cut for Minnesota News Senator Julia Coleman announced a quarter-billion-dollar tab fee tax cut for Minnesotans Read more Coleman, Senate Republicans propose ‘Tax Relief that Makes a Difference’ News Senate Republicans today released several bills to provide tax relief that will make a difference in the lives of Minnesotans Read more View All Updates Join Us Your Involvement Is Important We can't do this without you!
 Whether you contribute financially or with your time, you can make a difference.
 Don't sit on the sidelines — get involved today!
+Get Involved Donate Today Home Meet Julia Issues Latest Get Involved Donate Prepared & Paid For by Julia for MN P.O.
+Box 339, Chanhassen, MN 55317 © #-# Julia for MN.
+All rights reserved. | Privacy Policy

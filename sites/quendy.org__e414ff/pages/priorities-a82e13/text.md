@@ -1,11 +1,10 @@
-I am not a politician and have never aspired to be a politician.
-I was relaxing at the beach last summer when a good friend of many years texted me out of the blue, “You ready to run for the House of Representatives?”
-I thought he was kidding, but it turns out, he wasn’t.
+Home Meet the Candidate Priorities Give Events Pets Over Politics Blog Gallery More Home Meet the Candidate Priorities Give Events Pets Over Politics Blog Gallery Home Meet the Candidate Priorities Give Events Pets Over Politics Blog Gallery I am not a politician and have never aspired to be a politician.
+I was relaxing at the beach last summer when a good friend of many years texted me out of the blue, “You ready to run for the House of Representatives?” I thought he was kidding, but it turns out, he wasn’t.
 I had been discontent with and worried about what was happening in our government for a long time, and I began to realize that if I wasn’t willing to step up, who would?
 How could I complain about our government leaders, if I wasn’t willing to do something about it.
 As I asked myself hard questions and listened to the concerns of others, I began to understand that there were no good reasons for me to stay silent and plenty of reasons for me to roll up my sleeves and get to work.
 While I am new to the political arena, I bring some qualities that matter.
-I care about people—not politics.
+I care about people—not politics .
 In fact, this is so important to me, it is the slogan for my campaign.
 I listen more than I speak.
 I believe in solving problems through communication and common sense.
@@ -32,7 +31,7 @@ What they want is a fair playing field—one where they can keep their costs dow
 We also need to continue to grow our communities by investing in small businesses to help them remain competitive and to nurture new industry.
 We want to keep our young people in our communities, and to do so, we must create more opportunities for them.
 To attract young families, we need good infrastructure and affordable housing for everyone.
-A third issue that I am focused on is Healthcare.
+A third issue that I am focused on is Healthcare .
 For a community to thrive, it must have strong and accessible healthcare.
 That begins with affordable health insurance and prescription drugs.
 Many rely on Medicare and Medicaid, and these programs must be protected and strengthened—not weakened.
@@ -47,5 +46,5 @@ I am committed to finding practical, effective solutions to address the challeng
 I ask for your support in this election, and I promise to work hard to earn your trust.
 I firmly believe that WE ARE STRONGER TOGETHER!
 We have more in common than we have differences!
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Quendy's Campaign - All Rights Reserved.
+Paid for by the Quendy Gibbins Medlin Campaign Committee Powered by Privacy Policy

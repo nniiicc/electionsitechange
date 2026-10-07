@@ -1,13 +1,50 @@
 [
-"https://facebook.com/votemikestevens",
-"https://sdsos.gov/elections-voting/assets/AbsenteeApplication_202012.PDF",
-"https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf",
-"https://secure.winred.com/stevens-for-house-6b9d7d10/donate-today",
-"https://vip.sdsos.gov/VIPLogin.aspx",
-"https://votemikestevens.com/",
-"https://votemikestevens.com/cart",
-"https://votemikestevens.com/early-voting",
-"https://votemikestevens.com/home",
-"https://votemikestevens.com/privacy",
-"https://votemikestevens.com/terms"
+{
+"text": "0",
+"href": "https://www.votemikestevens.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/stevens-for-house-6b9d7d10/donate-today"
+},
+{
+"text": "EARLY VOTING INFORMATION",
+"href": "https://www.votemikestevens.com/early-voting"
+},
+{
+"text": "Privacy",
+"href": "https://www.votemikestevens.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://www.votemikestevens.com/terms"
+},
+{
+"text": "[image: Mike Stevens for House District 18]",
+"href": "https://www.votemikestevens.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.votemikestevens.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemikestevens"
+},
+{
+"text": "[no text]",
+"href": "mailto:mike@votemikestevens.com"
+},
+{
+"text": "https://sdsos.gov/elections-voting/assets/AbsenteeApplication_202012.PDF",
+"href": "https://sdsos.gov/elections-voting/assets/AbsenteeApplication_202012.PDF"
+},
+{
+"text": "https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf",
+"href": "https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf"
+},
+{
+"text": "https://vip.sdsos.gov/VIPLogin.aspx",
+"href": "https://vip.sdsos.gov/VIPLogin.aspx"
+}
 ]

@@ -1,7 +1,4 @@
-All issues
-Support Local Agriculture and Seafood policy details
-Background
-Louisiana’s 1st Congressional District isn't just suburbs and city blocks.
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE Support Local Agriculture and Seafood ← All issues Support Local Agriculture and Seafood policy details Background Louisiana’s 1st Congressional District isn't just suburbs and city blocks.
 It's strawberry fields in Tangipahoa.
 It's dairy farms that have fed Florida Parishes families for generations.
 It's shrimp boats out of St.
@@ -27,9 +24,15 @@ Steve Scalise voted (HR 5371) to prohibit the processing, sale, or use of hemp.
 While Louisiana does not have a robust hemp farming industry (less than 40 acres of planted farms), it does have a booming hemp beverage and product industry.
 Our hemp products industry generated $33 million in sales and $4.3 million in tax revenues in Louisiana.
 This industry employs Louisiana citizens with good paying jobs and is at risk of closing because of Steve Scalise.
-Lauren’s Priorities in Congress
-Because facts matter:
-By providing your mobile number, you agree to receive periodic campaign updates.
+Lauren’s Priorities in Congress Invest in agricultural research and marketing to preserve Louisiana’s traditional industries and way of life and recognize that our seafood economy is not just an industry but generations of families and coastal communities Fight for truth in seafood labeling and ensuring consumers know what they're eating and where it came from Require that producers who are importing seafood here meet the same labor and environmental standards that our fisherman in America have to meet Advocate that employers are held to ethical and humane labor standards for guest workers in all industries and sectors.
+This includes protecting the wage floor for every individual working within the seafood industry, accountability and enforcement mechanisms so workers can report wage theft or unsafe working conditions without fear of retaliation or deportation, and offering pathways to citizenship for workers who keep these industries running.
+Push for Congress to deliver a Farm BIll as fast as possible that addresses the real and pressing needs of Louisiana's family farms and heritage agricultural industry.
+Expand crop insurance and disaster assistance options for the specialty crops (strawberries, dairy products) that define agriculture within our district Establish programs that create stable domestic markets for our local producers, allowing our local farmers to feed local people Overturn Steve Scalise's ban on hemp farming and federally decriminalize hemp products.
+Because facts matter: NOLA.com Louisiana Economic Development Coastal Review WAFB AN17 Farm Credit Join Our Fight to Put Working People First.
+Email Zip Phone Number (optional) Sign Up By providing your mobile number, you agree to receive periodic campaign updates.
 Message and data rates may apply.
 Reply STOP to opt out.
-Read our privacy policy.
+Read our privacy policy .
+STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

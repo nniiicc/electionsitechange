@@ -1,10 +1,1 @@
-top of page
-HOME
-MEET PAT
-ENDORSEMENTS
-VOLUNTEER
-PAT IN THE NEWS
-MARYVALE UPDATE
-DONATE
-ENDORSEMENTS
-bottom of page
+top of page HOME MEET PAT ENDORSEMENTS VOLUNTEER PAT IN THE NEWS MARYVALE UPDATE DONATE ENDORSEMENTS Straight From Pat Paid for by Chludzinski for Assembly Pat Chludzinski | NYS Assembly District 143 Cheektowaga | Lancaster | Buffalo bottom of page

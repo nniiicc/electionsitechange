@@ -1,4 +1,4 @@
-My Father Taught Me Something Politics Forgot.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (June 17th edition) 17 Jun Wednesday, 5:00 PM · 2026 Wednesdays With Will (June 17th edition) My Father Taught Me Something Politics Forgot.
 One of my favorite days of the year is Father's Day.
 While my wife Megan and I do not have children of our own yet, we have been blessed by incredible parents and mentors throughout our lives.
 We have also been fortunate to give back to our communities and serve as mentors ourselves.
@@ -57,3 +57,4 @@ Your influence extends far beyond your own families.
 It lives on in the lives of those you have guided, supported, and inspired.
 For that, I am deeply thankful.
 This is how we truly Move Colorado Forward.
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

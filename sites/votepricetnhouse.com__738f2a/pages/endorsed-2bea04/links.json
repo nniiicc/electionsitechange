@@ -1,30 +1,118 @@
 [
-"http://nwpctn.org/",
-"https://changetn.vote/",
-"https://directory.runforsomething.net/candidate/398d7e3b040d118b437a39a6e9afd8f2/price-margaret",
-"https://facebook.com/IAmInseparable",
-"https://facebook.com/MomsDemandAction",
-"https://facebook.com/PlannedParenthoodAction",
-"https://facebook.com/changetennessee",
-"https://facebook.com/price4tnhouse",
-"https://facebook.com/runforsomethingpac",
-"https://facebook.com/share/1ELUt35tm7?mibextid=wwXIfr",
-"https://instagram.com/changetn_",
-"https://instagram.com/iaminseparable",
-"https://instagram.com/momsdemand",
-"https://instagram.com/ppact",
-"https://instagram.com/price4tnhouse",
-"https://instagram.com/runforsomethingnow",
-"https://mentalhealthnow.us/",
-"https://momsdemandaction.org/",
-"https://plannedparenthoodaction.org/tennessee-advocates-planned-parenthood",
-"https://secure.actblue.com/donate/price4tnhouse",
-"https://tiktok.com/@momsdemand",
-"https://tiktok.com/@plannedparenthoodaction",
-"https://tiktok.com/@runforsomething",
-"https://votepricetnhouse.com/",
-"https://votepricetnhouse.com/about-margaret",
-"https://votepricetnhouse.com/endorsed",
-"https://votepricetnhouse.com/event-list",
-"https://votepricetnhouse.com/issues"
+{
+"text": "ABOUT",
+"href": "https://www.votepricetnhouse.com/about-margaret"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votepricetnhouse.com/endorsed"
+},
+{
+"text": "EVENTS",
+"href": "https://www.votepricetnhouse.com/event-list"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.votepricetnhouse.com/issues"
+},
+{
+"text": "SUPPORT",
+"href": "https://secure.actblue.com/donate/price4tnhouse"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/IAmInseparable/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MomsDemandAction"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PlannedParenthoodAction/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/changetennessee"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/runforsomethingpac/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/1ELUt35tm7/?mibextid=wwXIfr"
+},
+{
+"text": "[image: IMG_7598.JPG]",
+"href": "http://www.nwpctn.org/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/ppact/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/changetn_/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/iaminseparable/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/momsdemand"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/runforsomethingnow"
+},
+{
+"text": "[image: Margaret Price Logos_2c-Horz.png]",
+"href": "https://www.votepricetnhouse.com"
+},
+{
+"text": "[image: RFS_Logo_KO_RGB_edited.png]",
+"href": "https://directory.runforsomething.net/candidate/398d7e3b040d118b437a39a6e9afd8f2/price-margaret/"
+},
+{
+"text": "[image: TAPP 2026 ENDORSED.png]",
+"href": "https://www.plannedparenthoodaction.org/tennessee-advocates-planned-parenthood"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@momsdemand"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@plannedparenthoodaction"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@runforsomething"
+},
+{
+"text": "[image: images.jpg]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: images_edited.png]",
+"href": "https://changetn.vote/"
+},
+{
+"text": "[image: images_edited.png]",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/price4tnhouse"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/price4tnhouse"
+},
+{
+"text": "info@votepricetnhouse.com",
+"href": "mailto:info@votepricetnhouse.com?subject=I%27d+like+to+mail+a+check+to+the+campaign"
+}
 ]

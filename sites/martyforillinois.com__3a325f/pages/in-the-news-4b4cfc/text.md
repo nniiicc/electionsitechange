@@ -1,16 +1,4 @@
-Rep.
-Martin McLaughlin In the News
-‘Wrong project, wrong place’: Critics push back on rezoning plan for potential Hoffman …
-Daily Herald
-New Bears bill introduced for Arlington Heights | Illinois | thecentersquare.com
-The Center Square
-New Bears bill introduced for Arlington Heights – AOL.com
-AOL.com
-State Republicans renew push to reengage Bears | Rockford Register Star | PressReader
-PressReader
-How Illinois Just Got A Major Reprieve With Chicago Bears Stadium Setback In Hammond
-Ground News
-A Century Before Bears’ Stadium Talks, Hammond, Indiana, Had a Pro Football Team
-Ground News
-Republicans hope to reengage Bears with new proposals – The Breeze Courier
-The Breeze Courier
+Contact Donate About Videos News & Events Get Involved Voter Info 52nd District Map Voter Information Endorsements Calendar In the News Select Page News Rep.
+Martin McLaughlin In the News ‘Wrong project, wrong place’: Critics push back on rezoning plan for potential Hoffman … Daily Herald New Bears bill introduced for Arlington Heights | Illinois | thecentersquare.com The Center Square New Bears bill introduced for Arlington Heights – AOL.com AOL.com State Republicans renew push to reengage Bears | Rockford Register Star | PressReader PressReader How Illinois Just Got A Major Reprieve With Chicago Bears Stadium Setback In Hammond Ground News A Century Before Bears’ Stadium Talks, Hammond, Indiana, Had a Pro Football Team Ground News Republicans hope to reengage Bears with new proposals – The Breeze Courier The Breeze Courier Get our latest updates on social media, click on an icon below: Follow Follow Follow Paid for by Martin McLaughlin Republican for State House.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois. © # Martin McLaughlin Republican for State House.
+All Rights Reserved.

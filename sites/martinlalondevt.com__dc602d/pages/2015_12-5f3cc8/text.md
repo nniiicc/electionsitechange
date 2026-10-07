@@ -1,4 +1,4 @@
-I have been tracking many issues while the legislature is not in session.
+Vermont State House Representative Martin LaLonde South Burlington, Chittenden District 12 Menu Skip to content Home About Martin LaLonde Contact me State House Photos Month: December 2015 Distracted Driving – Lessons in Formulating a Bill December 11, 2015 January 3, 2016 lalonde I have been tracking many issues while the legislature is not in session.
 I have reported on a number of them in my monthly columns in The Other Paper (see previous posts of these columns).
 I have also been working on a couple of bills that I intend to introduce in the coming session.
 One involves strengthening Vermont’s distracted driving laws.
@@ -15,23 +15,25 @@ This Office provides the General Assembly with legal advice and bill-drafting se
 In early September, an attorney was assigned to assist me.
 To get me further grounded in the issue, the Legislative Counsel attorney explained the various laws that the State already has on the books.
 Over the past few years as smartphones have become more prevalent, the legislature has enacted a number of laws and amendments to those laws to address the dangers that the use of such devices cause on our roads.
-Under these laws, anyone who is under 18 years old is banned from using any portable device in any manner while operating a motor vehicle. 23 V.S.A. § 1095a.
+Under these laws, anyone who is under 18 years old is banned from using any portable device in any manner while operating a motor vehicle.
+23 V.S.A. § 1095a .
 For a violation of this provision an individual is subject to up to a $1,000 fine and 2 points on his or her license.
 He or she will receive a 90-day recall of his or her license after 6 points are accumulated.
 Note that a recall is different than a license suspension.
 At the end of a recall, an individual does not have to pay to get a license reissued, as one does after a suspension.
 Further, a recall is not carried on one’s record.
-Individuals over 18 years of age operating a motor vehicle may use a portable electronic device “hands free,” but may not otherwise use such a device. 23 V.S.A. § 1095b.
+Individuals over 18 years of age operating a motor vehicle may use a portable electronic device “hands free,” but may not otherwise use such a device.
+23 V.S.A. § 1095b .
 The penalty for a first offense of this provision is a $100 to $200 fine.
 If the offense occurred in a work zone, the driver is subject to receiving 2 points on his or her driving record.
 A second offense brings a $250 to $500 fine and, if in a work zone, 5 points.
 No points are imposed if the violation occurs outside a work zone.
 An adult operator who accumulates 10 points or more within a 2-year period is subject to a 10-day suspension of his or her license.
-All drivers are banned from texting while operating a motor vehicle. 23 V.S.A. § 1099.
+All drivers are banned from texting while operating a motor vehicle.
+23 V.S.A. § 1099 .
 If a driver violates this provision, he or she is subject to a maximum fine of $200 for the first offense and $500 for a second offense that occurs within two years.
 In addition, the driver is subject to receiving 5 points on his or her driving record.
-(There are separate restrictions for those who are commercial operators of motor vehicles.)
-After this explanation, the legislative counsel and I discussed the perceived problem and possible solutions.
+(There are separate restrictions for those who are commercial operators of motor vehicles.) After this explanation, the legislative counsel and I discussed the perceived problem and possible solutions.
 We agreed that, as a next step, she would research the different means to improve the efficacy of the laws.
 She later provided me her findings, sharing abstracts from studies of the deterrent effect of various penalties on traffic violations.
 The main lesson I took from the research was that increasing the risk of detection and punishment for violators of the distracted driving laws would be more effective than simply increasing the penalty for violations.
@@ -48,7 +50,7 @@ But I also learned that crashes related to distracted driving are of substantial
 I spoke with police officers who told me that they remain concerned with distracted driving.
 They also indicated that the primary problem with enforcing the current laws is the difficulty in detecting violations.
 At the conference, I also established a contact with the Director of State Relations for AAA, which has been studying the impacts of distracted driving and follows legislative and regulatory proposals on traffic safety issues.
-(For further information, go to the recent AAA report, Measuring Cognitive Distractions).
+(For further information, go to the recent AAA report, Measuring Cognitive Distractions ).
 Soon after the conference, the legislative counsel sent me an initial draft bill that focused on increasing the penalties for distracted driving, including doubling of fines.
 During this time, I had also been in contact with AAA and found out that Vermont’s penalties are actually a bit above the national average and that doubling fines would make them among the most severe in the country.
 I also learned that the doubled fines would be higher than just about any other fine that a passenger vehicle operator is likely to face.
@@ -77,3 +79,9 @@ Once the bill is introduced, I will provide a link to it on this website.
 My next step will be to sign up cosponsors for the bill, talk to legislators on the House Transportation Committee that would initially take the bill up, and let interested organizations such as bicycle safety groups know that it is being introduced so they may push for its consideration.
 I am hopeful that this initiative will succeed in the upcoming session.
 I will report its progress in future posts.
+Judiciary Committee Preview Image December 10, 2015 lalonde Upcoming Constituent Meetings No upcoming events Archives June 2026 (2) April 2026 (1) March 2026 (4) February 2026 (1) January 2026 (1) December 2025 (1) October 2025 (1) July 2025 (1) May 2025 (5) April 2025 (1) March 2025 (1) February 2025 (4) January 2025 (1) December 2024 (1) October 2024 (1) May 2024 (3) April 2024 (1) March 2024 (2) February 2024 (1) January 2024 (1) December 2023 (1) November 2023 (1) September 2023 (1) July 2023 (1) June 2023 (1) May 2023 (1) April 2023 (1) March 2023 (3) February 2023 (2) June 2022 (1) May 2022 (1) April 2022 (1) March 2022 (1) February 2022 (2) January 2022 (1) December 2021 (1) October 2021 (1) August 2021 (1) July 2021 (2) June 2021 (1) May 2021 (2) April 2021 (1) March 2021 (4) February 2021 (1) October 2020 (1) September 2020 (3) June 2020 (1) May 2020 (1) April 2020 (1) March 2020 (2) February 2020 (1) January 2020 (1) December 2019 (1) November 2019 (1) October 2019 (1) September 2019 (1) August 2019 (1) July 2019 (1) June 2019 (2) May 2019 (2) April 2019 (1) March 2019 (4) February 2019 (1) January 2019 (2) December 2018 (1) November 2018 (1) October 2018 (1) September 2018 (1) August 2018 (1) July 2018 (1) June 2018 (2) May 2018 (1) April 2018 (1) March 2018 (2) February 2018 (3) January 2018 (2) December 2017 (1) November 2017 (1) October 2017 (1) September 2017 (1) August 2017 (1) July 2017 (1) June 2017 (2) May 2017 (1) April 2017 (2) March 2017 (6) February 2017 (2) January 2017 (4) December 2016 (1) November 2016 (1) October 2016 (1) September 2016 (1) August 2016 (1) July 2016 (1) June 2016 (2) May 2016 (7) April 2016 (5) March 2016 (4) February 2016 (5) January 2016 (4) December 2015 (2) November 2015 (1) October 2015 (1) September 2015 (1) August 2015 (1) July 2015 (1) June 2015 (2) May 2015 (5) April 2015 (10) March 2015 (5) February 2015 (7) January 2015 (2) December 2014 (1) October 2014 (4) June 2014 (1) Follow Vermont State House Representative Martin LaLonde on WordPress.com This site paid for by LaLonde for Vermont House, Michele Kupersmith, Treasurer.
+Blog at WordPress.com.
+Subscribe Subscribed Vermont State House Representative Martin LaLonde Sign me up Have a WordPress.com account?
+Log in now.
+Vermont State House Representative Martin LaLonde View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+You must be logged in to post a comment.

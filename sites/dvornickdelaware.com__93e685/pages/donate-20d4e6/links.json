@@ -1,13 +1,78 @@
 [
-"http://dvornickdelaware.com/",
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.dvornickdelaware.com",
-"https://delaware.gov/guides/voting-in-delaware",
-"https://dvornickdelaware.com/about",
-"https://dvornickdelaware.com/donate",
-"https://elections.delaware.gov/maps/ed/2023/sussex/rep-district-ed-overview_20.pdf",
-"https://facebook.com/profile.php?id=61591483527936",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dvornickdelaware.com",
-"https://linkedin.com/in/eugene-s-dvornick-jr",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dvornickdelaware.com",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dvornickdelaware.com"
+{
+"text": "About",
+"href": "https://www.dvornickdelaware.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.dvornickdelaware.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://www.dvornickdelaware.com/donate"
+},
+{
+"text": "Delaware Voter Portal (iVote)",
+"href": "https://delaware.gov/guides/voting-in-delaware/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dvornickdelaware.com"
+},
+{
+"text": "GET YARD SIGNS",
+"href": "https://www.dvornickdelaware.com/donate"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dvornickdelaware.com"
+},
+{
+"text": "MAP",
+"href": "https://elections.delaware.gov/maps/ed/2023/sussex/rep-district-ed-overview_20.pdf"
+},
+{
+"text": "Platform",
+"href": "https://www.dvornickdelaware.com/about"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.dvornickdelaware.com/donate"
+},
+{
+"text": "Vote!",
+"href": "https://www.dvornickdelaware.com/donate"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send/?phone=&text=https%3A%2F%2Fwww.dvornickdelaware.com"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dvornickdelaware.com"
+},
+{
+"text": "[image: dvornick-logo-name-art-district.png]",
+"href": "http://www.dvornickdelaware.com"
+},
+{
+"text": "[image: facebook-footer]",
+"href": "https://www.facebook.com/profile.php?id=61591483527936"
+},
+{
+"text": "[image: facebook-header]",
+"href": "https://www.facebook.com/profile.php?id=61591483527936"
+},
+{
+"text": "[image: linkedin-footer]",
+"href": "https://www.linkedin.com/in/eugene-s-dvornick-jr/"
+},
+{
+"text": "[image: linkedin-header]",
+"href": "https://www.linkedin.com/in/eugene-s-dvornick-jr/"
+},
+{
+"text": "[image]",
+"href": "http://www.dvornickdelaware.com"
+}
 ]

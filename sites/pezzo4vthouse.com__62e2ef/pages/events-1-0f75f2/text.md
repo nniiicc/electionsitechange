@@ -1,22 +1,3 @@
-top of page
-Gayle Pezzo
-Representing CHI-20
-Home
-About
-Newsletter
-Events
-Contact
-Donate
-Log In
-EVENTS
-Stay Connected
-Tue, Dec 03
-FY2026 Colchester Selectboard Budget Work Session
-/
-Colchester
-Details
-Dec 03, 2024, 8:00 AM
-Colchester, 781 Blakely Rd, Colchester, VT 05446, USA
-November 26th, 2024 & December 3rd, 2024
-Share
-bottom of page
+top of page Gayle Pezzo Representing CHI-20 Home About Newsletter Events Contact Donate Log In EVENTS Stay Connected Tue, Dec 03 FY2026 Colchester Selectboard Budget Work Session / Colchester Details Dec 03, 2024, 8:00 AM Colchester, 781 Blakely Rd, Colchester, VT 05446, USA November 26th, 2024 & December 3rd, 2024 Share Join the list to stay up to date with important information from Colchester, Montpelier, and beyond!
+SUBSCRIBE Thanks for submitting!
+Home About Me Newsletter Events Contact Gayle Pezzo Chittenden -20 Paid for by Gayle Pezzo for House 110 Walden Rd, Colchester VT 05446 Sarah Jorgensen, Treasurer ​ gpezzo@leg.state.vt.us 802 448 0497 bottom of page

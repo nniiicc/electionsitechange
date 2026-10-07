@@ -1,9 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61572009459676",
-"https://korenbergformissouri.com/",
-"https://korenbergformissouri.com/about.html",
-"https://korenbergformissouri.com/donate.html",
-"https://korenbergformissouri.com/get-involved.html",
-"https://korenbergformissouri.com/issues.html",
-"https://korenbergformissouri.com/news.html"
+{
+"text": "About",
+"href": "https://korenbergformissouri.com/about.html"
+},
+{
+"text": "Donate",
+"href": "https://korenbergformissouri.com/donate.html"
+},
+{
+"text": "Donate →",
+"href": "https://korenbergformissouri.com/donate.html"
+},
+{
+"text": "Get Involved",
+"href": "https://korenbergformissouri.com/get-involved.html"
+},
+{
+"text": "Issues",
+"href": "https://korenbergformissouri.com/issues.html"
+},
+{
+"text": "News",
+"href": "https://korenbergformissouri.com/news.html"
+},
+{
+"text": "Roger Korenberg",
+"href": "https://korenbergformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61572009459676"
+}
 ]

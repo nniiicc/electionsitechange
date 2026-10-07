@@ -1,56 +1,226 @@
 [
-"https://facebook.com/collins4senator",
-"https://instagram.com/susancollinsforsenate",
-"https://secure.winred.com/susan-collins/16-oz-tumbler",
-"https://secure.winred.com/susan-collins/207-cap?exitintent=true",
-"https://secure.winred.com/susan-collins/207-crewneck?exitintent=true",
-"https://secure.winred.com/susan-collins/america-250-crewneck",
-"https://secure.winred.com/susan-collins/america-250-tshirt",
-"https://secure.winred.com/susan-collins/blueberry-flag",
-"https://secure.winred.com/susan-collins/boat-flag",
-"https://secure.winred.com/susan-collins/camo-tee",
-"https://secure.winred.com/susan-collins/collins-bandana",
-"https://secure.winred.com/susan-collins/collins-beanie",
-"https://secure.winred.com/susan-collins/collins-bumper-sticker",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_store_donatebar100",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_store_donatebar1000",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_store_donatebar25",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_store_donatebar50",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_store_donatebar500",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_store_donatebar",
-"https://secure.winred.com/susan-collins/maine-crew-long-sleeve",
-"https://secure.winred.com/susan-collins/maine-flag-tshirt",
-"https://secure.winred.com/susan-collins/maine-moose-beanie",
-"https://secure.winred.com/susan-collins/maine-script-crewneck",
-"https://secure.winred.com/susan-collins/maine-script-long-sleeve",
-"https://secure.winred.com/susan-collins/maine-sticker-sheet",
-"https://secure.winred.com/susan-collins/moose-hat",
-"https://secure.winred.com/susan-collins/moose-wink",
-"https://secure.winred.com/susan-collins/pepper-baseball-hat",
-"https://secure.winred.com/susan-collins/pepper-beanie",
-"https://secure.winred.com/susan-collins/pepper-t-shirt",
-"https://secure.winred.com/susan-collins/pine-tree-crewneck",
-"https://secure.winred.com/susan-collins/pine-tree-long-sleeve",
-"https://secure.winred.com/susan-collins/red-moose",
-"https://secure.winred.com/susan-collins/smc-hat-red",
-"https://secure.winred.com/susan-collins/smc-red-tee",
-"https://secure.winred.com/susan-collins/susan-flag-tshirt",
-"https://secure.winred.com/susan-collins/tote-bag",
-"https://secure.winred.com/susan-collins/white-moose",
-"https://susancollins.com/",
-"https://susancollins.com/about",
-"https://susancollins.com/faq",
-"https://susancollins.com/get-involved",
-"https://susancollins.com/get-involved/campaign-chairs",
-"https://susancollins.com/get-involved/coalitions",
-"https://susancollins.com/media-kit",
-"https://susancollins.com/news",
-"https://susancollins.com/privacy-policy",
-"https://susancollins.com/store",
-"https://susancollins.com/terms-and-conditions",
-"https://susancollins.com/track-record",
-"https://susancollins.com/vote",
-"https://x.com/SenSusanCollins",
-"https://youtube.com/@susancollins4senator"
+{
+"text": "$100",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_store_donatebar100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_store_donatebar1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_store_donatebar25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_store_donatebar50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_store_donatebar500"
+},
+{
+"text": "About",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "Campaign Chairs",
+"href": "https://susancollins.com/get-involved/campaign-chairs/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "FAQs",
+"href": "https://susancollins.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://susancollins.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://susancollins.com/"
+},
+{
+"text": "Join a Coalition",
+"href": "https://susancollins.com/get-involved/coalitions/"
+},
+{
+"text": "Media Kit",
+"href": "https://susancollins.com/media-kit/"
+},
+{
+"text": "News",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_store_donatebar"
+},
+{
+"text": "Privacy Policy",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://susancollins.com/terms-and-conditions/"
+},
+{
+"text": "Track Record",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "Vote",
+"href": "https://susancollins.com/vote/"
+},
+{
+"text": "[image: Collins for Senator]",
+"href": "https://susancollins.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://secure.winred.com/susan-collins/moose-wink"
+},
+{
+"text": "[image]207 Baseball Cap$25Purchase",
+"href": "https://secure.winred.com/susan-collins/207-cap?exitintent=true"
+},
+{
+"text": "[image]207 Crewneck in Gray$50Purchase",
+"href": "https://secure.winred.com/susan-collins/207-crewneck?exitintent=true"
+},
+{
+"text": "[image]Blueberry Flag T-Shirt$20Purchase",
+"href": "https://secure.winred.com/susan-collins/blueberry-flag"
+},
+{
+"text": "[image]Maine Sticker Sheet in Red$10Purchase",
+"href": "https://secure.winred.com/susan-collins/maine-sticker-sheet"
+},
+{
+"text": "[image]Moose Baseball Cap$25Purchase",
+"href": "https://secure.winred.com/susan-collins/moose-hat"
+},
+{
+"text": "[image]Moose Logo Pocket Tee in White$20Purchase",
+"href": "https://secure.winred.com/susan-collins/white-moose"
+},
+{
+"text": "[image]Moose Pocket Tee in Red$20Purchase",
+"href": "https://secure.winred.com/susan-collins/red-moose"
+},
+{
+"text": "[image]Senator Collins 16-oz Tervis Tumbler$25Purchase",
+"href": "https://secure.winred.com/susan-collins/16-oz-tumbler"
+},
+{
+"text": "[image]Susan Collins America 250 Crewneck in Red$50Purchase",
+"href": "https://secure.winred.com/susan-collins/america-250-crewneck"
+},
+{
+"text": "[image]Susan Collins America 250 T-Shirt in White$10Purchase",
+"href": "https://secure.winred.com/susan-collins/america-250-tshirt"
+},
+{
+"text": "[image]Susan Collins, Our Senator Baseball Cap in Red$25Purchase",
+"href": "https://secure.winred.com/susan-collins/smc-hat-red"
+},
+{
+"text": "[image]Susan Collins, Our Senator Camo T-Shirt$20Purchase",
+"href": "https://secure.winred.com/susan-collins/camo-tee"
+},
+{
+"text": "[image]Susan Collins, Our Senator T-Shirt in Red$20Purchase",
+"href": "https://secure.winred.com/susan-collins/smc-red-tee"
+},
+{
+"text": "[image]The Classic Maine Script Crewneck in Red$50Purchase",
+"href": "https://secure.winred.com/susan-collins/maine-script-crewneck"
+},
+{
+"text": "[image]The Classic Maine Script Long-Sleeve Tee in Red$35Purchase",
+"href": "https://secure.winred.com/susan-collins/maine-script-long-sleeve"
+},
+{
+"text": "[image]The Maine Crew Long-Sleeve in Light Blue$35Purchase",
+"href": "https://secure.winred.com/susan-collins/maine-crew-long-sleeve"
+},
+{
+"text": "[image]The Maine Flag T-Shirt$20Purchase",
+"href": "https://secure.winred.com/susan-collins/maine-flag-tshirt"
+},
+{
+"text": "[image]The Official Collins Beanie$35Purchase",
+"href": "https://secure.winred.com/susan-collins/collins-beanie"
+},
+{
+"text": "[image]The Pepper Beanie$35Purchase",
+"href": "https://secure.winred.com/susan-collins/pepper-beanie"
+},
+{
+"text": "[image]The Pepper Pocket Tee in Gray$20Purchase",
+"href": "https://secure.winred.com/susan-collins/pepper-t-shirt"
+},
+{
+"text": "[image]The Pepper Signature Hat in Navy$25Purchase",
+"href": "https://secure.winred.com/susan-collins/pepper-baseball-hat"
+},
+{
+"text": "[image]The Pine Tree Crewneck in Forest Green$50Purchase",
+"href": "https://secure.winred.com/susan-collins/pine-tree-crewneck"
+},
+{
+"text": "[image]The Pine Tree Long-Sleeve in Forest Green$35Purchase",
+"href": "https://secure.winred.com/susan-collins/pine-tree-long-sleeve"
+},
+{
+"text": "[image]The Signature Moose Beanie$35Purchase",
+"href": "https://secure.winred.com/susan-collins/maine-moose-beanie"
+},
+{
+"text": "[image]The “Susan” Flag T-Shirt$20Purchase",
+"href": "https://secure.winred.com/susan-collins/susan-flag-tshirt"
+},
+{
+"text": "[image]“Susan Collins, Our Senator” Boat Flags$25Purchase",
+"href": "https://secure.winred.com/susan-collins/boat-flag"
+},
+{
+"text": "[image]“Susan Collins, Our Senator” Bumper Sticker$10Purchase",
+"href": "https://secure.winred.com/susan-collins/collins-bumper-sticker"
+},
+{
+"text": "[image]“Susan Collins, Our Senator” Dog Bandanas$15Purchase",
+"href": "https://secure.winred.com/susan-collins/collins-bandana"
+},
+{
+"text": "[image]“Susan Collins, Our Senator” Tote Bag$70Purchase",
+"href": "https://secure.winred.com/susan-collins/tote-bag"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/collins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/susancollinsforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@susancollins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenSusanCollins"
+}
 ]

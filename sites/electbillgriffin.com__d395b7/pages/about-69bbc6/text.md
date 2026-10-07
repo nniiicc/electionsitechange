@@ -1,4 +1,4 @@
-Bill Griffin has spent a lifetime serving this community.
+0 Skip to Content EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Open Menu Close Menu EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Open Menu Close Menu EVENTS ABOUT THE ISSUES PRESS RELEASES MEDIA CONTACT Donate Bill Griffin has spent a lifetime serving this community.
 He’s ready to keep showing up.
 For 35 years, families in Northeast Philadelphia knew Bill Griffin as the teacher and principal who cared about their kids.
 At Austin Meehan Middle School, Kennedy Crossan Elementary School, John Hancock Elementary Demonstration School and General J.
@@ -13,3 +13,4 @@ Now a grandfather of seven, Bill wants to make sure the next generation can grow
 Bill isn’t a career politician; he’s a neighbor who listens and solves problems.
 He believes government should make life easier, not harder, and focus on the basics families care about most: safe blocks, good schools, reliable health care, and a fair shot for seniors and working families.
 As State Representative, Bill will put people before politics and fight for practical solutions that make everyday life better for Northeast Philadelphia.
+MEEt BILL GRIFFIN Back Bill for State Representative MEET BILL THE ISSUES CONTACT Support Bill for State Representative Bill Griffin for State Representative 8629 Yale Place | Philadelphia, PA 19136 ElectBillGriffin@gmail.com EVERY CONTRIBUTION HELPS US REACH MORE VOTERS © # BILL GRIFFIN | PAID FOR BY FRIENDS OF BILL GRIFFIN | PRIVACY POLICY

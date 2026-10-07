@@ -1,13 +1,12 @@
-The first step in creating jobs and continuing economic growth is to get a clear picture of our recent economic history, so that we will not repeat the mistakes that lead to the financial crisis.
+Contribute Now Make a donation to Bill Foster for Congress!
+Volunteer Contribute Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery On the Issues The Financial Crisis The first step in creating jobs and continuing economic growth is to get a clear picture of our recent economic history, so that we will not repeat the mistakes that lead to the financial crisis.
 The financial crisis of 2008 cost our economy 8 million jobs and cost American families more than $16 trillion dollars of net worth.
 Bill Foster served on the Financial Services Committee during the emergency intervention that was required to avoid another Great Depression, and understands that it will take time to repair the damage caused by a decade of economic mismanagement.
 This means restoring fiscal discipline to our government, re-balancing our economy, improving the health of U.S. manufacturing, rebuilding the middle class and reforming Wall Street to prevent a crisis like this from ever happening again.
-The 2008 Economic Collapse and the Emergency Intervention
-Families in the United States faced their worst economic conditions in generations as a result of the 2008 crisis.
+The 2008 Economic Collapse and the Emergency Intervention Families in the United States faced their worst economic conditions in generations as a result of the 2008 crisis.
 In a period of 18 months, household net worth – the total of everything a family owns: its house, retirement funds, bank accounts, and any small businesses it owns – dropped by more than $16 trillion dollars.
 This is more than $50,000 for every man, woman, and child in the United States.
-As a businessman, Bill Foster supported three crucial steps for economic recovery:
-1) An emergency intervention to prevent our economy from spiraling into another Great Depression.
+As a businessman, Bill Foster supported three crucial steps for economic recovery: 1) An emergency intervention to prevent our economy from spiraling into another Great Depression.
 This intervention included cutting taxes to their lowest point in 60 years and making targeted investments in our economy.
 As a result, a depression has been avoided, retirement funds are recovering, business profits and household net worth have surpassed pre-crisis levels, and jobs are being created at the highest rate since the Clinton years.
 Unfortunately nearly ten years of bad economic leadership and misplaced priorities created this recession, and it will take us years to get out of it.
@@ -26,9 +25,32 @@ The Remaining Work: Although, on average, household net worth now exceeds pre-cr
 Over 90% of the benefits of our economic recovery have gone to the wealthiest few percent.
 This has been aggravated by the regressive nature of Trump’s tax cuts.
 Republicans continue to block Democratic efforts to ensure the recovery is widely shared by raising the minimum wage, reforming our tax code so that billionaires no longer pay taxes at a lower rate than hard-working Americans, investing in education and restoring the bargaining power of workers.
-WORSE THAN THE GREAT DEPRESSION
-The hit that our economy took during the financial crisis was actually worse than in the Great Depression, and the recovery was been much faster.
+WORSE THAN THE GREAT DEPRESSION The hit that our economy took during the financial crisis was actually worse than in the Great Depression, and the recovery was been much faster.
 At the start of the Great Depression, real per-capita household net worth dropped by 12% over a period of three years from 1929-1932.
 In contrast, household net worth dropped by more than 23% in a period of 18 months ending in March 2009.
 In retrospect, it is remarkable that our economy did not fall into a full-blown recession following the 2007 collapse.
 Although the downturn was two times worse than the Great Depression, the recovery has actually been more rapid.
+Reproductive Freedom Bill fight to defend women’s bodily autonomy and the right for every American to access reproductive health care.
+Economy Bill has been deeply involved in writing laws which will prevent crises like the 2008 financial collapse from hurting working families in the future.
+Reducing Gun Violence It is a moral shame that we have so many ways to prevent gun violence in this country, but we have a Congress who has failed to do anything to protect Americans.
+Healthcare Bill believes that health care is a basic human right and that we should continue moving towards universal coverage.
+Immigration The United States is a proud nation of immigrants and we must adhere to the promise of the American Dream.
+Defending the Constitution President Trump's trampling of the Constitution is a threat to our democracy Reviving American Manufacturing As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill than the health of manufacturing in America.
+The Financial Crisis The financial crisis of 2008 cost our economy 8 million jobs and cost American families more than $16 trillion dollars of net worth.
+Reforming Wall Street The financial crisis of 2008 destroyed millions of jobs and crushed the retirement savings of American families.
+Combating the Climate Crisis Our dependence on fossil fuels for energy production has been a growing problem for decades.
+Science and Technology Investments in basic scientific research provide some of the highest returns on investment of any that our society can make.
+Education Wise investments in our children’s education are crucial to our long-term economic health.
+Reproductive Freedom Bill fight to defend women’s bodily autonomy and the right for every American to access reproductive health care.
+Economy Bill has been deeply involved in writing laws which will prevent crises like the 2008 financial collapse from hurting working families in the future.
+Reducing Gun Violence It is a moral shame that we have so many ways to prevent gun violence in this country, but we have a Congress who has failed to do anything to protect Americans.
+Healthcare Bill believes that health care is a basic human right and that we should continue moving towards universal coverage.
+Immigration The United States is a proud nation of immigrants and we must adhere to the promise of the American Dream.
+Defending the Constitution President Trump's trampling of the Constitution is a threat to our democracy Reviving American Manufacturing As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill than the health of manufacturing in America.
+The Financial Crisis The financial crisis of 2008 cost our economy 8 million jobs and cost American families more than $16 trillion dollars of net worth.
+Reforming Wall Street The financial crisis of 2008 destroyed millions of jobs and crushed the retirement savings of American families.
+Combating the Climate Crisis Our dependence on fossil fuels for energy production has been a growing problem for decades.
+Science and Technology Investments in basic scientific research provide some of the highest returns on investment of any that our society can make.
+Education Wise investments in our children’s education are crucial to our long-term economic health.
+Meet Bill Issues Endorsements The District News Contribute Bill Foster for Congress P.O Box 9104 Aurora, IL 60598 630-216-9340.
+Privacy Policy Messaging Contact Us Paid for by Bill Foster for Congress Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Donate Now On the Issues On the Issues Volunteer Volunteer Contribute Contribute

@@ -1,8 +1,38 @@
 [
-"https://secure.anedot.com/votescottmontgomery/donate",
-"https://votescottmontgomery.com/",
-"https://votescottmontgomery.com/action-plan",
-"https://votescottmontgomery.com/meet-scott",
-"https://votescottmontgomery.com/privacy-policy",
-"https://votescottmontgomery.com/sign-up"
+{
+"text": "Action Plan",
+"href": "https://www.votescottmontgomery.com/action-plan"
+},
+{
+"text": "Contact",
+"href": "https://www.votescottmontgomery.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/votescottmontgomery/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votescottmontgomery.com"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.votescottmontgomery.com/meet-scott"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votescottmontgomery.com/privacy-policy"
+},
+{
+"text": "Sign Up",
+"href": "https://www.votescottmontgomery.com/sign-up"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.votescottmontgomery.com/privacy-policy"
+},
+{
+"text": "[image: ScottMontgomery Logo Blue.jpg]",
+"href": "https://www.votescottmontgomery.com"
+}
 ]

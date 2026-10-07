@@ -1,9 +1,38 @@
 [
-"http://facebook.com/WeberForSenate",
-"http://instagram.com/weber4senate38",
-"http://twitter.com/weber4senate38",
-"https://secure.winred.com/bill-weber-for-senate-2026/donate-today?exitintent=true",
-"https://weber4senate.com/",
-"https://weber4senate.com/endorsements",
-"https://weber4senate.com/volunteer"
+{
+"text": "Contact",
+"href": "https://www.weber4senate.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bill-weber-for-senate-2026/donate-today?exitintent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://www.weber4senate.com/endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://www.weber4senate.com/volunteer"
+},
+{
+"text": "[image: BW-logo-wht.png]",
+"href": "https://www.weber4senate.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/WeberForSenate"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/weber4senate38"
+},
+{
+"text": "[image: X ]",
+"href": "http://twitter.com/weber4senate38"
+},
+{
+"text": "info@weber4senate.com",
+"href": "mailto:info@weber4senate.com"
+}
 ]

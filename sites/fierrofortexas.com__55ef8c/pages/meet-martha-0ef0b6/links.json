@@ -1,17 +1,66 @@
 [
-"http://x.com/",
-"https://facebook.com/FierroforTexas?rdid=xBoHDDa5OYD4ulS5&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1A56gj3xBq%2F",
-"https://fierrofortexas.com/",
-"https://fierrofortexas.com/accessibility-statement",
-"https://fierrofortexas.com/blank-14",
-"https://fierrofortexas.com/contact",
-"https://fierrofortexas.com/meet-martha",
-"https://fierrofortexas.com/privacy-policy",
-"https://fierrofortexas.com/team-members",
-"https://fierrofortexas.com/terms-and-conditions",
-"https://form.jotform.com/260515115349049",
-"https://instagram.com/fierroforcongress",
-"https://secure.anedot.com/fierro-for-congress/donate",
-"https://tiktok.com/@fierroforcongress",
-"https://wix.com/"
+{
+"text": "Accessibility Statement",
+"href": "https://www.fierrofortexas.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.fierrofortexas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/fierro-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fierrofortexas.com/team-members"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fierrofortexas.com#get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.fierrofortexas.com/blank-14"
+},
+{
+"text": "Meet Martha",
+"href": "https://www.fierrofortexas.com/meet-martha"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fierrofortexas.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.fierrofortexas.com/terms-and-conditions"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://form.jotform.com/260515115349049"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com/"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.fierrofortexas.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FierroforTexas?rdid=xBoHDDa5OYD4ulS5&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1A56gj3xBq%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fierroforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@fierroforcongress"
+}
 ]

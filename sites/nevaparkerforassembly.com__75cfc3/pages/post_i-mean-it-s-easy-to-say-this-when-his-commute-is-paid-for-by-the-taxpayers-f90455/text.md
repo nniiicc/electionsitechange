@@ -1,5 +1,6 @@
-I mean, it's easy to say this when his commute is paid for by the taxpayers!
-Earlier this month, my opponent bragged online about commuting from his Tahoe home to Sacramento for session.
+top of page HOME MEET NEVA ISSUES ENDORSEMENTS NEWS VOLUNTEER & EVENTS GET YOUR TEAM NEVA T-SHIRT GET YOUR YARD SIGN INTERNSHIP THE DISTRICT More Use tab to navigate through the menu items.
+DONATE All Posts Search I mean, it's easy to say this when his commute is paid for by the taxpayers!
+Neva Parker Aug 19 2 min read Earlier this month, my opponent bragged online about commuting from his Tahoe home to Sacramento for session.
 "From the lake to the swamp in one morning" he said.
 As if we're supposed to take pity on him for having to endure "the swamp" to represent us.
 We called him out of course.
@@ -21,3 +22,6 @@ Even adding the hash tag "NoApologies" to his post about buying frozen yogurt wi
 When elected I'll opt out of receiving the allotted money given to legislators for living and travel expenses.
 It's a simple thing that signifies my commitment to be responsible with your tax dollars.
 You don't work hard every day to make certain I'm subsidized for having the same commute as you.
+Recent Posts See All Doodling with Derwinne Team Member Tuesday: Meet Atticus!
+Team Member Tuesday: Meet Lauren!
+Paid for by Neva Parker for Assembly 2026 FPPC #1481228 bottom of page

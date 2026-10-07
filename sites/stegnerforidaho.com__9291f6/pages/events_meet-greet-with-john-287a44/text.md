@@ -1,11 +1,4 @@
-Back to All Events
-John will be at Bri at the Village for a conversation with residents.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Back to All Events Meet & Greet with John Monday, October 5, 2026 10:45 AM 11:45 AM Bri at the Village 2233 North Records Way Meridian, Idaho, 83646 United States (map) Google Calendar ICS John will be at Bri at the Village for a conversation with residents.
 This event is for residents only.
 If you are not a resident and would like to attend, please reach out to info@stegnerforidaho.com.
-Previous
-Previous
-September 30
-Speed Representing: Conversations with Magic Valley Voters
-Next
-Next
-October 6
+Previous Previous September 30 Speed Representing: Conversations with Magic Valley Voters Next Next October 6 2026 Gubernatorial Candidate Forum Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

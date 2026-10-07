@@ -1,16 +1,2 @@
-Issues
-A Neighbor Who Will Listen
-Why Michanna Tate is running:
-- To listen first
-- To focus on issues affecting those in District 14
-- To stand up for economic opportunity, access to justice, and strong support for working families
-Priority Issues:
-- Strong local schools
-- Reliable infrastructure (i.e. roads)
-- Keeping costs manageable for families and retirees
-- Supporting veterans and seniors
-Practical.
-Local.
-✔ An elected official who will listen
-✔ Someone who shows up and does the work
-✔ Solutions
+Home Meet Michanna Events Endorsements Issues Volunteer Contribute Issues A Neighbor Who Will Listen Why Michanna Tate is running: To listen first To focus on issues affecting those in District 14 To stand up for economic opportunity, access to justice, and strong support for working families Priority Issues: Strong local schools Reliable infrastructure (i.e. roads) Keeping costs manageable for families and retirees Supporting veterans and seniors Practical.
+Local. ✔ An elected official who will listen ✔ Someone who shows up and does the work ✔ Solutions Home News Photos Make Endorsement Contact Privacy Policy Committee to Elect Michanna Tate Powered by CampaignPartner.com - Political Campaign Websites Home Meet Michanna Endorsements Issues Events Contribute Volunteer Close Menu

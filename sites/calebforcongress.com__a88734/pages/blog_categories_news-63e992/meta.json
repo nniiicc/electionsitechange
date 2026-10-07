@@ -1,7 +1,9 @@
 {
  "description": "Press coverage and official campaign announcements.",
  "final_url": "https://www.calebforcongress.com/blog/categories/news",
- "paid_for_by": null,
+ "fingerprint": "8c6d111be32eed52b7c34665330675a5462965cb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": []
 }

@@ -1,15 +1,17 @@
-Join hosts Hon.
+Skip to content Re-Elect John Bucy III Democrat for Texas House District 136 Primary Menu Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Month: October 2019 Cookie Decorating Class Fundraiser Posted on October 10, 2019 April 23, 2020 by John Bucy Campaign Join hosts Hon.
 Gloria Gonzales-Dholakia and Molly Bucy for a Holiday Cookie Decorating Class on Friday, December 6th benefiting Rep.
 John Bucy’s re-election campaign.
 With four time-slots it’s easy to find an option that works best for you and your friends or family.
-Learn more about this fun, festive event and get your ticket today before they are all sold out!Holiday Cookie Decorating Class FundraiserFriday, December 6th starting at 1:00 pmHome of John & Molly BucyAddress upon RSVPAustin, TX
-Month: October 2019
-Texas voters will have 10 Constitutional Amendments to vote on during the Nov. 5, 2019 Election in addition to any local propositions, bonds, or offices.
+Learn more about this fun, festive event and get your ticket today before they are all sold out!Holiday Cookie Decorating Class FundraiserFriday, December 6th starting at 1:00 pmHome of John & Molly BucyAddress upon RSVPAustin, TX Posted in Events Vote in the Nov.
+5th Election!
+Posted on October 4, 2019 April 23, 2020 by John Bucy Campaign Texas voters will have 10 Constitutional Amendments to vote on during the Nov.
+5, 2019 Election in addition to any local propositions, bonds, or offices.
 Each amendment was supported by at least two-thirds of the Texas House and Texas Senate and now is before voters like you for approval.In this guide you’ll find a summary of each proposition and a vote recommendation as well as election information.
-Below you will also find more information about the Williamson County and City of Austin ballot
-I’m honored to have received an A+ from Equality Texas on their Legislative Scorecard!
+Below you will also find more information about the Williamson County and City of Austin ballot Posted in Voting Information Rep.
+Bucy gets A+ from Equality Texas Posted on October 3, 2019 April 23, 2020 by John Bucy Campaign I’m honored to have received an A+ from Equality Texas on their Legislative Scorecard!
 Earlier this year I was proud to be the first ally member to join the newly-created Texas House LGBTQ Caucus and I remain committed to ensuring that every Texan is treated with the respect and dignity they deserve.
-Friends,September has come and gone and fall is just around the corner!
+Posted in Awards Bucy Bulletin: September 2019 Posted on October 2, 2019 April 23, 2020 by John Bucy Campaign Friends,September has come and gone and fall is just around the corner!
 This month we had an Elections Committee meeting in Houston, opened our District Office, and are preparing for our October Town Hall.
 This edition of the monthly Bucy Bulletin will cover that as well as showcase community events, discuss legislative activity over the Interim, and highlight our Artist of the Month.I am so grateful for this opportunity to serve you, HD 136, and the people of Texas.
-Please do not ever hesitate
+Please do not ever hesitate Posted in Bucy Bulletin Categories Awards Bucy Bulletin Events Press Releases Priorities Town Hall Uncategorized Voting Information Archives July 2025 June 2025 January 2025 May 2024 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 January 2022 December 2021 July 2021 June 2021 November 2020 October 2020 September 2020 July 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Connect with us X Facebook Instagram Contact us P.O.
+Box 536, Austin, TX 78767 (512) 680-3762 johnbucy@bucyfortexas.com Privacy Policy Paid for by: POLITICAL ADVERTISING PAID FOR BY JOHN BUCY CAMPAIGN, MOLLY BUCY, TREASURER Powered by Tech for Campaigns

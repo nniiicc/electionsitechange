@@ -1,7 +1,42 @@
 [
-"https://joewatkinsforok.com/",
-"https://joewatkinsforok.com/contact",
-"https://joewatkinsforok.com/privacy-policy",
-"https://joewatkinsforok.com/request-a-sign",
-"https://secure.actblue.com/donate/joewatkins"
+{
+"text": "About",
+"href": "https://joewatkinsforok.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://joewatkinsforok.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joewatkins"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/joewatkins"
+},
+{
+"text": "Donate on ActBlue",
+"href": "https://secure.actblue.com/donate/joewatkins"
+},
+{
+"text": "Get Involved",
+"href": "https://joewatkinsforok.com/#getinvolved"
+},
+{
+"text": "Issues",
+"href": "https://joewatkinsforok.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joewatkinsforok.com/privacy-policy"
+},
+{
+"text": "Request a Sign",
+"href": "https://joewatkinsforok.com/request-a-sign"
+},
+{
+"text": "[image: Campaign Logo]",
+"href": "https://joewatkinsforok.com/"
+}
 ]

@@ -1,17 +1,102 @@
 [
-"http://wix.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLScWUzCHQ2ze2IHOZoEe2WLKceIS5tvHd7tpPtFL0h65KCxqZA/viewform?usp=header",
-"https://facebook.com/PaulTakacPA",
-"https://instagram.com/paultakac_pa",
-"https://paultakac.com/",
-"https://paultakac.com/general-7",
-"https://paultakac.com/get-involved",
-"https://paultakac.com/meetpaul",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://pavoterservices.pa.gov/pages/voterregistrationstatus.aspx",
-"https://secure.actblue.com/donate/pt2025",
-"https://studentaffairs.psu.edu/student-life/civic-engagement/psu-votes",
-"https://tiktok.com/@team_takac?lang=en"
+{
+"text": "Check Your Registration",
+"href": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx"
+},
+{
+"text": "Contact Us",
+"href": "https://www.paultakac.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pt2025"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.paultakac.com"
+},
+{
+"text": "Meet Paul",
+"href": "https://www.paultakac.com/meetpaul"
+},
+{
+"text": "Penn State Votes",
+"href": "https://studentaffairs.psu.edu/student-life/civic-engagement/psu-votes"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Request a Mail-in Ballot",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineMailInBegin"
+},
+{
+"text": "Voting Info",
+"href": "https://www.paultakac.com/general-7"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PaulTakacPA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/paultakac_pa/"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@team_takac?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScWUzCHQ2ze2IHOZoEe2WLKceIS5tvHd7tpPtFL0h65KCxqZA/viewform?usp=header"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/pt2025"
+},
+{
+"text": "[no text]",
+"href": "https://www.paultakac.com/#comp-mu8o1tqk1"
+},
+{
+"text": "[no text]",
+"href": "https://www.paultakac.com/#comp-mu8o1tqm"
+},
+{
+"text": "[no text]",
+"href": "https://www.paultakac.com/#comp-mu8sqlk7"
+},
+{
+"text": "[no text]",
+"href": "https://www.paultakac.com/#comp-mu8sqmr9"
+},
+{
+"text": "[no text]",
+"href": "https://www.paultakac.com/#comp-mu8sqpgs"
+},
+{
+"text": "[no text]",
+"href": "https://www.paultakac.com/#comp-mu8tti4f"
+},
+{
+"text": "[no text]",
+"href": "https://www.paultakac.com/#comp-mu8ttk1e"
+},
+{
+"text": "[no text]",
+"href": "https://www.paultakac.com/#comp-mu8udj39"
+},
+{
+"text": "[no text]",
+"href": "https://www.paultakac.com/#comp-mu8ueh12"
+}
 ]

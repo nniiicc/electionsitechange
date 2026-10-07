@@ -1,11 +1,42 @@
 [
-"https://electcharlesperry.com/",
-"https://electcharlesperry.com/about",
-"https://electcharlesperry.com/contact",
-"https://electcharlesperry.com/donate",
-"https://electcharlesperry.com/issuses",
-"https://electcharlesperry.com/news",
-"https://electcharlesperry.com/take-action",
-"https://facebook.com/ElectCharlesPerry",
-"https://secure.winred.com/charles-perry-campaign/contribute"
+{
+"text": "About",
+"href": "https://www.electcharlesperry.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electcharlesperry.com/contact"
+},
+{
+"text": "Contribute Online",
+"href": "https://secure.winred.com/charles-perry-campaign/contribute"
+},
+{
+"text": "Donate",
+"href": "https://www.electcharlesperry.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.electcharlesperry.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.electcharlesperry.com/issuses"
+},
+{
+"text": "News",
+"href": "https://www.electcharlesperry.com/news"
+},
+{
+"text": "Take Action",
+"href": "https://www.electcharlesperry.com/take-action"
+},
+{
+"text": "[image: Elect Charles Perry]",
+"href": "https://www.electcharlesperry.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectCharlesPerry"
+}
 ]

@@ -1,14 +1,58 @@
 [
-"https://bsky.app/profile/philrubinnc.bsky.social",
-"https://facebook.com/profile.php?id=61573790918410",
-"https://instagram.com/phil_rubin",
-"https://ncleg.gov/Members/Biography/H/844",
-"https://philrubin.com/",
-"https://philrubin.com/contribute",
-"https://philrubin.com/meetphil",
-"https://philrubin.com/principles",
-"https://philrubin.com/priorities",
-"https://philrubin.com/privacypolicy",
-"https://threads.com/@phil_rubin",
-"https://tiktok.com/@phil_rubin"
+{
+"text": "DONATE",
+"href": "https://www.philrubin.com/contribute"
+},
+{
+"text": "Email: phil@philrubin.com",
+"href": "mailto:phil@philrubin.com"
+},
+{
+"text": "Home",
+"href": "https://www.philrubin.com"
+},
+{
+"text": "LEGISLATIVE PROFILE",
+"href": "https://www.ncleg.gov/Members/Biography/H/844"
+},
+{
+"text": "Meet Phil",
+"href": "https://www.philrubin.com/meetphil"
+},
+{
+"text": "Principles",
+"href": "https://www.philrubin.com/principles"
+},
+{
+"text": "Priorities",
+"href": "https://www.philrubin.com/priorities"
+},
+{
+"text": "Privacy Policy & Terms of Service",
+"href": "https://www.philrubin.com/privacypolicy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61573790918410"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/phil_rubin"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@phil_rubin"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@phil_rubin"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/philrubinnc.bsky.social"
+},
+{
+"text": "phil@philrubin.com",
+"href": "mailto:phil@philrubin.com"
+}
 ]

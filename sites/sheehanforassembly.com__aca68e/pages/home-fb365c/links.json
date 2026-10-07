@@ -1,20 +1,98 @@
 [
-"https://facebook.com/sheehanforassembly",
-"https://instagram.com/sheehanforstateassembly",
-"https://secure.actblue.com/donate/sheehan-for-26th-assembly-1",
-"https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=10",
-"https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=100",
-"https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=1000",
-"https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=26",
-"https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=50",
-"https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=500",
-"https://sheehanforassembly.com/",
-"https://sheehanforassembly.com/endorsements",
-"https://sheehanforassembly.com/get-involved",
-"https://sheehanforassembly.com/home",
-"https://sheehanforassembly.com/legislation",
-"https://sheehanforassembly.com/meet-joe",
-"https://sheehanforassembly.com/priorities",
-"https://sheehanforassembly.com/vote",
-"https://x.com/sheehanfor26th"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=1000"
+},
+{
+"text": "$26",
+"href": "https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=26"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/sheehan-for-26th-assembly-1?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sheehan-for-26th-assembly-1"
+},
+{
+"text": "Endorsements",
+"href": "https://sheehanforassembly.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sheehanforassembly"
+},
+{
+"text": "Find Your Current District",
+"href": "https://sheehanforassembly.com/vote/"
+},
+{
+"text": "Get Involved",
+"href": "https://sheehanforassembly.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://sheehanforassembly.com/home/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sheehanforstateassembly"
+},
+{
+"text": "Learn more",
+"href": "https://sheehanforassembly.com/meet-joe/"
+},
+{
+"text": "Learn more",
+"href": "https://sheehanforassembly.com/priorities#priority__education"
+},
+{
+"text": "Learn more",
+"href": "https://sheehanforassembly.com/priorities#priority__healthcare"
+},
+{
+"text": "Learn more",
+"href": "https://sheehanforassembly.com/priorities#priority__womens-healthcare"
+},
+{
+"text": "Legislation",
+"href": "https://sheehanforassembly.com/legislation/"
+},
+{
+"text": "Meet Joe",
+"href": "https://sheehanforassembly.com/meet-joe/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/sheehan-for-26th-assembly-1"
+},
+{
+"text": "Priorities",
+"href": "https://sheehanforassembly.com/priorities/"
+},
+{
+"text": "Vote",
+"href": "https://sheehanforassembly.com/vote/"
+},
+{
+"text": "X",
+"href": "https://x.com/sheehanfor26th"
+},
+{
+"text": "[image: Joe Sheehan for Wisconsin]",
+"href": "https://sheehanforassembly.com/"
+}
 ]

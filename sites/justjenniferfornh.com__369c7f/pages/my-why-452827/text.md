@@ -1,5 +1,4 @@
-My Why
-Why have I decided to enter this race?
+0 Skip to Content Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact My Why Why have I decided to enter this race?
 It’s time for me to lend my voice and stop the continuation by the left to expand their reach to take away and erode our freedoms.
 During the height of the COVID fears, my dad was in rehab recovering from a fall.
 My mother was prohibited from visiting him.

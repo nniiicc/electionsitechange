@@ -1,5 +1,4 @@
-2025 - Motorcade for Medicaid
-Can we live without hospitals in our area?
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2025 - Motorcade for Medicaid Sep 2 Written By John Bartlett for IN State Rep Dist 33 Can we live without hospitals in our area?
 This is an important issue we need to address in District 33.
 The Medicaid cuts in the budget bill that the federal government passed and was signed into law in July seriously endangers the remaining two hospitals in the district, one in Portland and one in Winchester.
 A third hospital in Decatur is also endangered.
@@ -15,3 +14,4 @@ We are participating in the “MOTORCADE FOR MEDICAID” on Saturday, September 
 We are starting in Richmond and ending in Decatur with stops in Winchester and Portland.
 We will highlight the issues and raise awareness that state and federal governments need to be planning to protect rural hospitals if the worst case comes about.
 Please consider to ride with us or show up at one of the stops to support us!
+John Bartlett for IN State Rep Dist 33 Previous Previous 2025 - Motorcade for Medicaid part 2 Next Next 2024 - Property Taxes part 2 - the Braun/Beckwith Proposal Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

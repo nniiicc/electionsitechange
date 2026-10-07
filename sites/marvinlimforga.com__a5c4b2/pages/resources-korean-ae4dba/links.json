@@ -1,109 +1,470 @@
 [
-"http://aarc-atlanta.org/",
-"http://aarpchapter2714gwinnett.com/contact_us.aspx",
-"http://aceloans.org/",
-"http://action.aclu.org/webform/ga-volunteer",
-"http://advancingjustice-atlanta.org/",
-"http://anotherchanceofatlanta.org/",
-"http://atlantalegalaid.org/",
-"http://bit.ly/36pWq8z",
-"http://caminarlatino.org/",
-"http://coast2coastrx.com/",
-"http://cpacs.org/",
-"http://creativeenterprises.org/",
-"http://dbhdd.georgia.gov/",
-"http://dbhdd.georgia.gov/region-3-field-office",
-"http://dca.ga.gov/contact",
-"http://dch.georgia.gov/peachcare-kid",
-"http://dfcs.georgia.gov/",
-"http://dol.georgia.gov/location/gwinnett-county",
-"http://dso.georgia.gov/",
-"http://facebook.com/IndivisibleGA7",
-"http://familypromisegwinnett.org/",
-"http://fcphealth.com/",
-"http://fodac.org/",
-"http://gacares.org/",
-"http://galeo.org/join-galeo/volunteer",
-"http://gamvp.org/?page_id=701",
-"http://gateway85.com/",
-"http://georgiaequality.org/volunteer",
-"http://georgiasbdc.org/gwinnett-office",
-"http://georgiasbdc.org/minority",
-"http://ghcc.org/",
-"http://gnrhealth.com/locations/gwinnett/norcross-health-center",
-"http://goodsamgwinnett.org/",
-"http://goodshepherdatl.org/",
-"http://gwinnettcoalition.org/helpline",
-"http://gwinnettcoalition.org/veterans-resources",
-"http://gwinnettcounty.com/web/gwinnett/Departments/Police/EmergencyManagement",
-"http://gwinnettcounty.com/web/gwinnett/departments/communityservices/healthandhumanservices/ineedhelp",
-"http://gwinnettcounty.com/web/gwinnett/departments/communityservices/healthhumanservices/onestopnorcrossandseniorcenter",
-"http://gwinnettcounty.com/web/gwinnett/departments/financialservices/servicedivision/grants/hudprograms",
-"http://gwinnettcounty.com/web/gwinnett/departments/solicitor/victimwitness",
-"http://gwinnettcounty.com/web/gwinnett/departments/transportation/gwinnettcountytransit",
-"http://gwinnettcounty.com/web/gwinnett/employment",
-"http://gwinnettentrepreneur.com/special-assistance",
-"http://gwinnettflc.atlantalegalaid.org/gwinnett-legal-aid-projects",
-"http://healthyfuturega.org/get-involved/participate/volunteer",
-"http://homeofhopegcs.org/",
-"http://homesafegeorgia.com/",
-"http://hopeclinicgwinnett.info/",
-"http://humantraffickinghotline.org/",
-"http://hungerfreeamerica.org/",
-"http://indivisiblega04.org/",
-"http://lilburnbusiness.org/",
-"http://local.aarp.org/atlanta-ga/volunteering",
-"http://local.aarpfoundation.org/",
-"http://lourdesatlanta.org/society-of-st-vincent-de-paul",
-"http://medicaid.georgia.gov/",
-"http://medicaid.georgia.gov/right-start-medical-assistance-group",
-"http://mosaicgeorgia.org/",
-"http://myviewpointhealth.org/",
-"http://ndo.org/",
-"http://newamericanpathways.org/",
-"http://newamericanpathways.org/volunteer",
-"http://noorfamilyservices.org/",
-"http://norcrossco-op.org/",
-"http://norcrossga.net/113/Housing-Authority",
-"http://padv.org/",
-"http://pcaction.org/",
-"http://positiveimpacthealthcenters.org/",
-"http://qualityrated.org/",
-"http://rainbowvillage.org/",
-"http://raksha.org/",
-"http://redcross.org/local/georgia.html",
-"http://salvationarmyatlanta.org/lawrenceville",
-"http://sba.gov/offices/district/ga/atlanta",
-"http://serfamilia.org/",
-"http://sierraclub.org/georgia/volunteer",
-"http://southwestgwinnettchamber.com/",
-"http://streetgrace.org/",
-"http://tapestri.org/",
-"http://thelaa.org/",
-"http://truthsclinic.org/",
-"http://unitedwayatlanta.org/need-help",
-"http://veterans.georgia.gov/",
-"http://veteranscrisisline.net/",
-"http://volunteergwinnett.net/",
-"http://wrcdv.org/",
-"https://api.whatsapp.com/message/BGFUIBLOJZAJD1?autoload=1&app_absent=0",
-"https://catholiccharitiesatlanta.org/immigration-legal-services",
-"https://facebook.com/MarvinLimforGA",
-"https://goodwillng.org/locations/peachtree-corners-store-donation-center-30092",
-"https://goodwillng.org/locations/pleasant-hill-store-donation-center-30096",
-"https://gwinnettcounty.com/web/gwinnett/departments/communityservices/healthhumanservices/seniorservices",
-"https://instagram.com/marvinlimforga",
-"https://marvinlimforga.com/",
-"https://marvinlimforga.com/about-marvin",
-"https://marvinlimforga.com/contact-us",
-"https://marvinlimforga.com/covid-19",
-"https://marvinlimforga.com/donate",
-"https://marvinlimforga.com/find-resources",
-"https://marvinlimforga.com/neighborhood",
-"https://marvinlimforga.com/resources-spanish",
-"https://marvinlimforga.com/resources-vietnamese",
-"https://marvinlimforga.com/safety",
-"https://plannedparenthood.org/health-center/georgia/lawrenceville/30043/gwinnett-center-2271-90330",
-"https://twitter.com/MarvinLimforGA",
-"https://victoryatl.com/homerepairandcleaningservices"
+{
+"text": "ABOUT MARVIN",
+"href": "https://www.marvinlimforga.com/about-marvin"
+},
+{
+"text": "CONTACT US | SIGN UP FOR UPDATES",
+"href": "https://www.marvinlimforga.com/contact-us"
+},
+{
+"text": "COVID-19",
+"href": "https://www.marvinlimforga.com/covid-19"
+},
+{
+"text": "DONATE",
+"href": "https://www.marvinlimforga.com/donate"
+},
+{
+"text": "English",
+"href": "https://www.marvinlimforga.com/find-resources"
+},
+{
+"text": "Español",
+"href": "https://www.marvinlimforga.com/resources-spanish"
+},
+{
+"text": "HOME",
+"href": "https://www.marvinlimforga.com"
+},
+{
+"text": "IN THE NEIGHBORHOOD",
+"href": "https://www.marvinlimforga.com/neighborhood"
+},
+{
+"text": "RESOURCES-RECURSOS-TÀI NGUYÊN-리소스 목록",
+"href": "https://www.marvinlimforga.com/find-resources"
+},
+{
+"text": "SAFETY",
+"href": "https://www.marvinlimforga.com/safety"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.marvinlimforga.com/resources-vietnamese"
+},
+{
+"text": "[image: Facebook (alt text)]",
+"href": "https://www.facebook.com/MarvinLimforGA"
+},
+{
+"text": "[image: Instagram (alt text)]",
+"href": "https://www.instagram.com/marvinlimforga"
+},
+{
+"text": "[image: Twitter (alt text)]",
+"href": "https://www.twitter.com/MarvinLimforGA"
+},
+{
+"text": "[image: Whatsapp]",
+"href": "https://api.whatsapp.com/message/BGFUIBLOJZAJD1?autoload=1&app_absent=0"
+},
+{
+"text": "aarc-atlanta.org",
+"href": "http://aarc-atlanta.org/"
+},
+{
+"text": "aarpchapter2714gwinnett.com/contact_us.aspx",
+"href": "http://aarpchapter2714gwinnett.com/contact_us.aspx"
+},
+{
+"text": "aceloans.org",
+"href": "http://aceloans.org/"
+},
+{
+"text": "action.aclu.org/webform/ga-volunteer",
+"href": "http://action.aclu.org/webform/ga-volunteer"
+},
+{
+"text": "advancingjustice-atlanta.org",
+"href": "http://advancingjustice-atlanta.org/"
+},
+{
+"text": "anotherchanceofatlanta.org",
+"href": "http://anotherchanceofatlanta.org/"
+},
+{
+"text": "atlantalegalaid.org",
+"href": "http://atlantalegalaid.org/"
+},
+{
+"text": "bit.ly/36pWq8z",
+"href": "http://bit.ly/36pWq8z"
+},
+{
+"text": "caminarlatino.org",
+"href": "http://caminarlatino.org/"
+},
+{
+"text": "catholiccharitiesatlanta.org/immigration-legal-services",
+"href": "https://catholiccharitiesatlanta.org/immigration-legal-services"
+},
+{
+"text": "coast2coastrx.com",
+"href": "http://www.coast2coastrx.com/"
+},
+{
+"text": "cpacs.org",
+"href": "http://cpacs.org/"
+},
+{
+"text": "creativeenterprises.org",
+"href": "http://creativeenterprises.org/"
+},
+{
+"text": "dbhdd.georgia.gov",
+"href": "http://dbhdd.georgia.gov/"
+},
+{
+"text": "dbhdd.georgia.gov/region-3-field-office",
+"href": "http://dbhdd.georgia.gov/region-3-field-office"
+},
+{
+"text": "dca.ga.gov/contact",
+"href": "http://dca.ga.gov/contact"
+},
+{
+"text": "dch.georgia.gov/peachcare-kid",
+"href": "http://dch.georgia.gov/peachcare-kid"
+},
+{
+"text": "dfcs.georgia.gov",
+"href": "http://dfcs.georgia.gov/"
+},
+{
+"text": "dol.georgia.gov/location/gwinnett-county",
+"href": "http://dol.georgia.gov/location/gwinnett-county"
+},
+{
+"text": "dso.georgia.gov",
+"href": "http://dso.georgia.gov/"
+},
+{
+"text": "facebook.com/IndivisibleGA7",
+"href": "http://facebook.com/IndivisibleGA7"
+},
+{
+"text": "familypromisegwinnett.org",
+"href": "http://familypromisegwinnett.org/"
+},
+{
+"text": "fcpchealth.com",
+"href": "http://fcphealth.com/"
+},
+{
+"text": "fodac.org",
+"href": "http://www.fodac.org/"
+},
+{
+"text": "gaaarp@aarp.org",
+"href": "mailto:gaaarp@aarp.org"
+},
+{
+"text": "gacares.org",
+"href": "http://gacares.org/"
+},
+{
+"text": "galeo.org/join-galeo/volunteer",
+"href": "http://galeo.org/join-galeo/volunteer"
+},
+{
+"text": "gamvp.org/?page_id=701",
+"href": "http://gamvp.org/?page_id=701"
+},
+{
+"text": "gasierraclub@gmail.com",
+"href": "mailto:gasierraclub@gmail.com"
+},
+{
+"text": "gateway85.com",
+"href": "http://gateway85.com/"
+},
+{
+"text": "georgiaequality.org/volunteer",
+"href": "http://georgiaequality.org/volunteer"
+},
+{
+"text": "georgiasbdc.org/gwinnett-office",
+"href": "http://georgiasbdc.org/gwinnett-office"
+},
+{
+"text": "georgiasbdc.org/minority",
+"href": "http://georgiasbdc.org/minority"
+},
+{
+"text": "ghcc.org",
+"href": "http://ghcc.org/"
+},
+{
+"text": "gnrhealth.com/locations/gwinnett/norcross-health-center",
+"href": "http://www.gnrhealth.com/locations/gwinnett/norcross-health-center"
+},
+{
+"text": "goodsamgwinnett.org",
+"href": "http://goodsamgwinnett.org/"
+},
+{
+"text": "goodshepherdatl.org",
+"href": "http://goodshepherdatl.org/"
+},
+{
+"text": "goodwillng.org/locations/peachtree-corners-store-donation-center-30092",
+"href": "https://goodwillng.org/locations/peachtree-corners-store-donation-center-30092/"
+},
+{
+"text": "goodwillng.org/locations/pleasant-hill-store-donation-center-30096",
+"href": "https://goodwillng.org/locations/pleasant-hill-store-donation-center-30096/"
+},
+{
+"text": "gwinnettcoalition.org/helpline",
+"href": "http://www.gwinnettcoalition.org/helpline"
+},
+{
+"text": "gwinnettcoalition.org/veterans-resources",
+"href": "http://www.gwinnettcoalition.org/veterans-resources"
+},
+{
+"text": "gwinnettcounty.com/web/gwinnett/Departments/Police/EmergencyManagement",
+"href": "http://gwinnettcounty.com/web/gwinnett/Departments/Police/EmergencyManagement"
+},
+{
+"text": "gwinnettcounty.com/web/gwinnett/departments/communityservices/healthandhumanservices/ineedhelp",
+"href": "http://www.gwinnettcounty.com/web/gwinnett/departments/communityservices/healthandhumanservices/ineedhelp"
+},
+{
+"text": "gwinnettcounty.com/web/gwinnett/departments/communityservices/healthhumanservices/onestopnorcrossandseniorcenter",
+"href": "http://gwinnettcounty.com/web/gwinnett/departments/communityservices/healthhumanservices/onestopnorcrossandseniorcenter"
+},
+{
+"text": "gwinnettcounty.com/web/gwinnett/departments/communityservices/healthhumanservices/seniorservices",
+"href": "https://www.gwinnettcounty.com/web/gwinnett/departments/communityservices/healthhumanservices/seniorservices"
+},
+{
+"text": "gwinnettcounty.com/web/gwinnett/departments/financialservices/servicedivision/grants/hudprograms",
+"href": "http://gwinnettcounty.com/web/gwinnett/departments/financialservices/servicedivision/grants/hudprograms"
+},
+{
+"text": "gwinnettcounty.com/web/gwinnett/departments/solicitor/victimwitness",
+"href": "http://www.gwinnettcounty.com/web/gwinnett/departments/solicitor/victimwitness"
+},
+{
+"text": "gwinnettcounty.com/web/gwinnett/departments/transportation/gwinnettcountytransit",
+"href": "http://gwinnettcounty.com/web/gwinnett/departments/transportation/gwinnettcountytransit"
+},
+{
+"text": "gwinnettcounty.com/web/gwinnett/employment",
+"href": "http://gwinnettcounty.com/web/gwinnett/employment"
+},
+{
+"text": "gwinnettentrepreneur.com/special-assistance",
+"href": "http://gwinnettentrepreneur.com/special-assistance"
+},
+{
+"text": "gwinnettflc.atlantalegalaid.org/gwinnett-legal-aid-projects",
+"href": "http://gwinnettflc.atlantalegalaid.org/gwinnett-legal-aid-projects"
+},
+{
+"text": "harvey@galeo.org",
+"href": "mailto:harvey@galeo.org"
+},
+{
+"text": "healthyfuturega.org/get-involved/participate/volunteer",
+"href": "http://healthyfuturega.org/get-involved/participate/volunteer"
+},
+{
+"text": "homeofhopegcs.org",
+"href": "http://homeofhopegcs.org/"
+},
+{
+"text": "homesafegeorgia.com",
+"href": "http://homesafegeorgia.com/"
+},
+{
+"text": "hopeclinicgwinnett.info",
+"href": "http://www.hopeclinicgwinnett.info/"
+},
+{
+"text": "humantraffickinghotline.org",
+"href": "http://humantraffickinghotline.org/"
+},
+{
+"text": "hungerfreeamerica.org",
+"href": "http://hungerfreeamerica.org/"
+},
+{
+"text": "indivisiblega04.org",
+"href": "http://indivisiblega04.org/"
+},
+{
+"text": "info@acluga.org",
+"href": "mailto:info@acluga.org"
+},
+{
+"text": "info@advancingjustice-atlanta.org",
+"href": "mailto:info@advancingjustice-atlanta.org"
+},
+{
+"text": "info@healthyfuturega.org",
+"href": "mailto:info@healthyfuturega.org"
+},
+{
+"text": "lilburnbusiness.org",
+"href": "http://lilburnbusiness.org/"
+},
+{
+"text": "local.aarp.org/atlanta-ga/volunteering",
+"href": "http://local.aarp.org/atlanta-ga/volunteering"
+},
+{
+"text": "local.aarpfoundation.org",
+"href": "http://local.aarpfoundation.org/"
+},
+{
+"text": "lourdesatlanta.org/society-of-st-vincent-de-paul",
+"href": "http://lourdesatlanta.org/society-of-st-vincent-de-paul"
+},
+{
+"text": "medicaid.georgia.gov",
+"href": "http://medicaid.georgia.gov/"
+},
+{
+"text": "medicaid.georgia.gov/right-start-medical-assistance-group",
+"href": "http://medicaid.georgia.gov/right-start-medical-assistance-group"
+},
+{
+"text": "melinda@georgiaequality.org",
+"href": "mailto:melinda@georgiaequality.org"
+},
+{
+"text": "mosaicgeorgia.org",
+"href": "http://mosaicgeorgia.org/"
+},
+{
+"text": "muriam.nafees@gwinnettcounty.com",
+"href": "mailto:muriam.nafees@gwinnettcounty.com"
+},
+{
+"text": "myviewpointhealth.org",
+"href": "http://www.myviewpointhealth.org/"
+},
+{
+"text": "ndo.org",
+"href": "http://ndo.org/"
+},
+{
+"text": "newamericanpathways.org",
+"href": "http://www.newamericanpathways.org/"
+},
+{
+"text": "newamericanpathways.org/volunteer",
+"href": "http://newamericanpathways.org/volunteer"
+},
+{
+"text": "noorfamilyservices.org",
+"href": "http://noorfamilyservices.org/"
+},
+{
+"text": "norcrossco-op.org",
+"href": "http://www.norcrossco-op.org/"
+},
+{
+"text": "norcrossga.net/113/Housing-Authority",
+"href": "http://norcrossga.net/113/Housing-Authority"
+},
+{
+"text": "padv.org",
+"href": "http://padv.org/"
+},
+{
+"text": "pcaction.org",
+"href": "http://pcaction.org/"
+},
+{
+"text": "plannedparenthood.org/health-center/georgia/lawrenceville/30043/gwinnett-center-2271-90330",
+"href": "https://www.plannedparenthood.org/health-center/georgia/lawrenceville/30043/gwinnett-center-2271-90330"
+},
+{
+"text": "positiveimpacthealthcenters.org",
+"href": "http://www.positiveimpacthealthcenters.org/"
+},
+{
+"text": "qualityrated.org",
+"href": "http://www.qualityrated.org/"
+},
+{
+"text": "rainbowvillage.org",
+"href": "http://rainbowvillage.org/"
+},
+{
+"text": "raksha.org",
+"href": "http://raksha.org/"
+},
+{
+"text": "redcross.org/local/georgia.html",
+"href": "http://www.redcross.org/local/georgia.html"
+},
+{
+"text": "salvationarmyatlanta.org/lawrenceville",
+"href": "http://salvationarmyatlanta.org/lawrenceville"
+},
+{
+"text": "sba.gov/offices/district/ga/atlanta",
+"href": "http://sba.gov/offices/district/ga/atlanta"
+},
+{
+"text": "serfamilia.org",
+"href": "http://serfamilia.org/"
+},
+{
+"text": "sierraclub.org/georgia/volunteer",
+"href": "http://sierraclub.org/georgia/volunteer"
+},
+{
+"text": "southwestgwinnettchamber.com",
+"href": "http://southwestgwinnettchamber.com/"
+},
+{
+"text": "streetgrace.org",
+"href": "http://www.streetgrace.org/"
+},
+{
+"text": "tapestri.org",
+"href": "http://tapestri.org/"
+},
+{
+"text": "thelaa.org",
+"href": "http://thelaa.org/"
+},
+{
+"text": "truthsclinic.org",
+"href": "http://www.truthsclinic.org/"
+},
+{
+"text": "unitedwayatlanta.org/need-help",
+"href": "http://www.unitedwayatlanta.org/need-help"
+},
+{
+"text": "veterans.georgia.gov",
+"href": "http://veterans.georgia.gov/"
+},
+{
+"text": "veteranscrisisline.net",
+"href": "http://www.veteranscrisisline.net/"
+},
+{
+"text": "victoryatl.com/homerepairandcleaningservices",
+"href": "https://victoryatl.com/homerepairandcleaningservices"
+},
+{
+"text": "volunteerengagement@newamericanpathways.org",
+"href": "mailto:volunteerengagement@newamericanpathways.org"
+},
+{
+"text": "volunteergwinnett.net",
+"href": "http://volunteergwinnett.net/"
+},
+{
+"text": "wrcdv.org",
+"href": "http://wrcdv.org/"
+}
 ]

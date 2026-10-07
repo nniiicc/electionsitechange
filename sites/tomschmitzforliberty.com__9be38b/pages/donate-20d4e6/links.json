@@ -1,12 +1,54 @@
 [
-"https://facebook.com/TomSchmitzLP",
-"https://facebook.com/tschmitzesq",
-"https://secure.anedot.com/tom-schmitz-for-liberty/donate",
-"https://tomschmitzforliberty.com/",
-"https://tomschmitzforliberty.com/about-7",
-"https://tomschmitzforliberty.com/blog",
-"https://tomschmitzforliberty.com/donate",
-"https://tomschmitzforliberty.com/issues",
-"https://x.com/TomSchmitzLP",
-"https://youtube.com/@TomSchmitzLP"
+{
+"text": "About",
+"href": "https://www.tomschmitzforliberty.com/about-7"
+},
+{
+"text": "Anedot",
+"href": "https://secure.anedot.com/tom-schmitz-for-liberty/donate"
+},
+{
+"text": "Blog",
+"href": "https://www.tomschmitzforliberty.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://www.tomschmitzforliberty.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.tomschmitzforliberty.com"
+},
+{
+"text": "Issues",
+"href": "https://www.tomschmitzforliberty.com/issues"
+},
+{
+"text": "TomSchmitzForLiberty.com",
+"href": "https://www.tomschmitzforliberty.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/TomSchmitzLP"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/tschmitzesq"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/TomSchmitzLP"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@TomSchmitzLP"
+},
+{
+"text": "https://secure.anedot.com/tom-schmitz-for-liberty/donate",
+"href": "https://secure.anedot.com/tom-schmitz-for-liberty/donate"
+},
+{
+"text": "tomschmitzforliberty@gmail.com",
+"href": "mailto:tomschmitzforliberty@gmail.com"
+}
 ]

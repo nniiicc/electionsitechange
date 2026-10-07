@@ -1,19 +1,90 @@
 [
-"https://courtenayforkalispell.com/",
-"https://courtenayforkalispell.com/connect",
-"https://courtenayforkalispell.com/contribute",
-"https://courtenayforkalispell.com/issues",
-"https://courtenayforkalispell.com/my-story",
-"https://courtenayforkalispell.com/news",
-"https://courtenayforkalispell.com/news/categories/fentanyl",
-"https://courtenayforkalispell.com/news/categories/infrastructure",
-"https://courtenayforkalispell.com/news/categories/inside-the-house",
-"https://courtenayforkalispell.com/news/categories/trades",
-"https://courtenayforkalispell.com/news/categories/video",
-"https://courtenayforkalispell.com/post/montana-hunters-first-act",
-"https://courtenayforkalispell.com/post/sprunger-to-host-mt-dui-reform-summit-on-sept-3",
-"https://courtenayforkalispell.com/post/the-legal-act-and-what-it-means-for-montana-s-employers",
-"https://courtenayforkalispell.com/profile/courtenay/profile",
-"https://facebook.com/CourtenayForKalispell",
-"https://instagram.com/courtenayforkalispell"
+{
+"text": "All Posts",
+"href": "https://www.courtenayforkalispell.com/news"
+},
+{
+"text": "Connect",
+"href": "https://www.courtenayforkalispell.com/connect"
+},
+{
+"text": "Contribute",
+"href": "https://www.courtenayforkalispell.com/contribute"
+},
+{
+"text": "Courtenay Sprunger",
+"href": "https://www.courtenayforkalispell.com/profile/courtenay/profile"
+},
+{
+"text": "Home",
+"href": "https://www.courtenayforkalispell.com"
+},
+{
+"text": "Inside the House",
+"href": "https://www.courtenayforkalispell.com/news/categories/inside-the-house"
+},
+{
+"text": "Issues",
+"href": "https://www.courtenayforkalispell.com/issues"
+},
+{
+"text": "Montana Hunters First Act",
+"href": "https://www.courtenayforkalispell.com/post/montana-hunters-first-act"
+},
+{
+"text": "My Story",
+"href": "https://www.courtenayforkalispell.com/my-story"
+},
+{
+"text": "News",
+"href": "https://www.courtenayforkalispell.com/news"
+},
+{
+"text": "See All",
+"href": "https://www.courtenayforkalispell.com/news"
+},
+{
+"text": "Sprunger to host MT DUI Reform Summit on Sept 3",
+"href": "https://www.courtenayforkalispell.com/post/sprunger-to-host-mt-dui-reform-summit-on-sept-3"
+},
+{
+"text": "The LEGAL Act -- and what it means for Montana's employers",
+"href": "https://www.courtenayforkalispell.com/post/the-legal-act-and-what-it-means-for-montana-s-employers"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/CourtenayForKalispell"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/courtenayforkalispell"
+},
+{
+"text": "[image: Montana Hunters First Act ]",
+"href": "https://www.courtenayforkalispell.com/post/montana-hunters-first-act"
+},
+{
+"text": "[image: Sprunger to host MT DUI Reform Summit on Sept 3]",
+"href": "https://www.courtenayforkalispell.com/post/sprunger-to-host-mt-dui-reform-summit-on-sept-3"
+},
+{
+"text": "[no text]",
+"href": "https://www.courtenayforkalispell.com/post/the-legal-act-and-what-it-means-for-montana-s-employers"
+},
+{
+"text": "fentanyl",
+"href": "https://www.courtenayforkalispell.com/news/categories/fentanyl"
+},
+{
+"text": "infrastructure",
+"href": "https://www.courtenayforkalispell.com/news/categories/infrastructure"
+},
+{
+"text": "trades",
+"href": "https://www.courtenayforkalispell.com/news/categories/trades"
+},
+{
+"text": "video",
+"href": "https://www.courtenayforkalispell.com/news/categories/video"
+}
 ]

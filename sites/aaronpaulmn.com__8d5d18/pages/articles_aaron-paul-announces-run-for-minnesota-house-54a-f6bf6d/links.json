@@ -1,18 +1,74 @@
 [
-"https://aaronpaulmn.com/",
-"https://aaronpaulmn.com/articles",
-"https://aaronpaulmn.com/contact",
-"https://aaronpaulmn.com/donate",
-"https://aaronpaulmn.com/endorsements",
-"https://aaronpaulmn.com/get-involved",
-"https://aaronpaulmn.com/issues",
-"https://aaronpaulmn.com/photos",
-"https://aaronpaulmn.com/priorities-survey",
-"https://aaronpaulmn.com/videos",
-"https://aaronpaulmn.com/voting-information",
-"https://facebook.com/aaronpaulmn",
-"https://instagram.com/aaronpaulformnhouse",
-"https://mngop.org/",
-"https://scottcountygop.com/",
-"https://x.com/aaronpaul54A"
+{
+"text": "Articles",
+"href": "https://aaronpaulmn.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://aaronpaulmn.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://aaronpaulmn.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://aaronpaulmn.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/aaronpaulmn"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/aaronpaulformnhouse/"
+},
+{
+"text": "Follow",
+"href": "https://x.com/aaronpaul54A"
+},
+{
+"text": "Get Involved",
+"href": "https://aaronpaulmn.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://aaronpaulmn.com/"
+},
+{
+"text": "Issues",
+"href": "https://aaronpaulmn.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://aaronpaulmn.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://aaronpaulmn.com/priorities-survey/"
+},
+{
+"text": "Scott County GOP",
+"href": "https://www.scottcountygop.com"
+},
+{
+"text": "The Republican Party of Minnesota",
+"href": "https://www.mngop.org/"
+},
+{
+"text": "Videos",
+"href": "https://aaronpaulmn.com/videos/"
+},
+{
+"text": "Voting Information",
+"href": "https://aaronpaulmn.com/voting-information/"
+},
+{
+"text": "[image: Vote Aaron Paul]",
+"href": "https://aaronpaulmn.com/"
+},
+{
+"text": "info@aaronpaulmn.com",
+"href": "mailto:info@aaronpaulmn.com"
+}
 ]

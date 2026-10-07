@@ -1,8 +1,30 @@
 [
-"http://instagram.com/billielady",
-"https://butlerservesnh.com/",
-"https://butlerservesnh.com/about",
-"https://butlerservesnh.com/blank",
-"https://facebook.com/ButlerBillie",
-"https://tiktok.com/@butlerbillie"
+{
+"text": "About",
+"href": "https://www.butlerservesnh.com/about"
+},
+{
+"text": "Home",
+"href": "https://www.butlerservesnh.com"
+},
+{
+"text": "Substack",
+"href": "https://www.butlerservesnh.com/blank"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.butlerservesnh.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/billielady"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ButlerBillie"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@butlerbillie"
+}
 ]

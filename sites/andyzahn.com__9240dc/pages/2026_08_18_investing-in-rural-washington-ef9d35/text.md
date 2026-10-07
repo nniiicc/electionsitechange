@@ -1,4 +1,4 @@
-It’s no secret that Washington State is locked in a perpetual cycle of economic instability and government budget crisis.
+Skip to content Andy Zahn Platform About Investing in Rural Washington It’s no secret that Washington State is locked in a perpetual cycle of economic instability and government budget crisis.
 One side says we are spending too much, another says we need higher taxes, but most people commenting on the situation aren’t looking beyond the next few years; in practically all discussions the fundamental, underlying economic truths which contribute to the situation we find ourselves in get ignored.
 In all this confused, short-term thinking and tit-for-tat bickering, the one thing we can all agree on is that there’s something wrong, and that in itself results in a hesitancy to commit to the sort of foundational change which is needed to put us on solid economic footing.
 A massive factor dragging down our economy and draining government funds is the impact of excessive and escalating sprawl.
@@ -8,7 +8,7 @@ In small towns and unincorporated areas, counties are actually required to creat
 They are allowed to make these developments as sprawling as they choose, but while the developers pay for the new streets, lights, and sewers, the counties are left to pay maintenance.
 There will be more traffic congestion, longer school bus routes, and further burdens on first responders.
 The result is a devastation of long term county budgets.
-The residents are faced with living in transit deserts, where there is no option besides using cars for transportation.(2)
+The residents are faced with living in transit deserts, where there is no option besides using cars for transportation.(2) Suburban, industrial, and commercial sprawl.
 The subsidization of rural development costs can be seen all the way from the local to the state to the national level, where Washington exists as one of a number of “donor states”, which contribute more in terms of taxes than they receive back in the form of programs and services from the federal government.
 On the state level, we see how Pugetopolis basically keeps the rest of the state afloat financially, and even within the smallest of our counties, the denser population centers support the outlying sprawl.
 This state of affairs only grows worse with each passing year, and it explains why lasting solutions to chronic budget crises are so intractable.
@@ -24,6 +24,7 @@ By ensuring that every community is as self-sufficient as possible, we can achie
 This will insulate us from the increasing instability we see in our nation and the world, and provide a cure for chronic economic, budgetary, and societal problems.
 We must remember that if it were a country, Washington would be the 29th largest in the world by GDP, and if the measures I propose are implemented, that ranking would likely be much more prestigious still.
 It is time we started acting not as a weak and feeble vassal, and instead as the latent world power we truly are.
+Hiking through the forest in autumn.
 In Southwest Washington, and indeed throughout Washington State and the wider Pacific Northwest, the investments we need to make lie primarily in the following: outdoor recreation and tourism through the creation of new parks, industrial hemp production, public transit, and affordable housing in core areas of our communities.
 We also need to make healthcare more accessible, and to provide higher education to enable our children to pursue opportunities without having to leave their home town.
 Furthermore, we need to prevent any more of our productive fields and forests from being paved over by sprawl.
@@ -33,15 +34,15 @@ From a budgetary and economic perspective, these measures are critical.
 If we look at them on an individual level, we also find that such measures should pay for themselves in fairly short order.
 New parks in rural communities will result in existing small businesses thriving, and in new businesses springing up.
 The additional revenue from the increased commerce which large scale parks will generate will eventually pay back whatever the state invests, and then on into perpetuity we will see those parks be an overall net revenue gain each year.
-In 2025, the outdoor recreation industry generated more than $25 Billion in annual spending, and was responsible for supporting 237,000 jobs (Green Economics, 2025).
+In 2025, the outdoor recreation industry generated more than $25 Billion in annual spending, and was responsible for supporting 237,000 jobs ( Green Economics, 2025 ).
 Currently, that spending and job creation is suppressed by the lack of large parks with significant trail systems in close proximity to our communities.
 Our rural communities only see a small fraction of the economic benefit of this massive part of our state economy due to the lack of accessible parks, and that outdoor recreation and tourism economy itself suffers greatly for that lack.
 Keep in mind that our National Parks and existing public lands are already beyond capacity; demand is outstripping supply, and this demonstrates that there is incredible potential for growth in the outdoor recreation and tourism sector.
 Read more about my plan to create new parks in rural areas here.
-Industrial hemp production has, if anything, an even greater potential for quickly repaying a large investment into the necessary infrastructure to expand this nascent industry to an economy of scale.
+John Peterson / Dakota Hemp Industrial hemp production has, if anything, an even greater potential for quickly repaying a large investment into the necessary infrastructure to expand this nascent industry to an economy of scale.
 A key component of a hemp mill is a hemp decorticator, such as the Hemptrack 660.
 The need for a hemp mill is a major bottleneck in hemp production, and in order to kickstart hemp production, the state must invest in these mills.
-A hemptrack 660 decorticator has a path to profitability of as little as 6 months (PSU, 2023), and each 1000 acres of hemp could be worth as much as $14,000,000 per year.
+A hemptrack 660 decorticator has a path to profitability of as little as 6 months ( PSU, 2023 ), and each 1000 acres of hemp could be worth as much as $14,000,000 per year.
 By building and operating numerous hemp mills around Washington State, the Washington Department of Natural Resources would be able to secure a significant source of sustainable revenue for it and its beneficiaries.
 Furthermore, by building hemp mills and taking further measures to ramp-up industrial hemp production, we would both boost the profitability of our agricultural sector, and open the door for a vast expansion of new manufacturers to locate here in Washington.
 It should be clear what that would mean for our economy, and for tax revenue.
@@ -53,17 +54,19 @@ Additionally, by providing such affordable housing, we would dramatically reduce
 Furthermore, this would help prevent people from becoming homeless, and help to get homeless individuals and families back on their feet, thus drastically reducing a variety of costs to taxpayers.
 This would be a big boost to the state, since from 2024 to 2025, homelessness cost the state $4 billion, and each homeless person costs the state about $22,000 a year.
 Preventing homelessness would therefore be a great boost to Washington’s economy.
+Dense, affordable, high quality housing.
 Public transit also offers similar long-term economic and government-revenue benefits to affordable housing.
 First of all, there is an enormous demand for public transit, particularly passenger train service.
 It is common to have to reserve Amtrak tickets far ahead of time, and those come at a fairly steep cost for infrequent and rather inconvenient service.
 Reduced-cost passenger trains running hourly schedules on the I-5 corridor would not only fill the existing demand, but also greatly increase demand, thus it is likely they would be self-supporting, if not profitable.
 Building train stations in small towns along the I-5 corridor would further increase demand for passenger rail, as would extending passenger train service to lines which are either dormant or only currently utilized by freight.
-According to AAA, owning and operating a car costs Americans an average of $12,297 per year.
+According to AAA , owning and operating a car costs Americans an average of $12,297 per year.
 That’s $1,025 that the average American is spending each month just to get around.
 That’s about half the cost of the average price of rent in Washington State.
 By providing affordable, reliable, and frequent public transit, we can make car ownership optional for most Washingtonians, and in doing so deal perhaps the largest single reduction to the minimum cost of living possible.
 This would put more money in Washingtonian’s pockets, driving consumer spending, preventing people from becoming homeless, and helping the homeless to get back on their feet, all of which will benefit our wider economy and tax revenue base.
 Read more about my plan to improve public transit in rural areas here.
+Amtrak Cascades train pulling into the Kelso, WA station.
 It’s no secret that insurance companies are bleeding us dry.
 These vampires are nothing more than repellent middlemen who have sent the cost of healthcare and life saving medication through the roof, while simultaneously gumming up the works of our healthcare system.
 Currently, private health insurance premiums are 32.5% of the cost of individual healthcare.
@@ -77,13 +80,13 @@ By lifting up community colleges to offer a more complete array of degree progra
 This will also serve to provide more highly skilled workers within our communities (doctors and other medical professionals, for example).
 This means that in the long term we retain more of our young people to participate in our economy, and also expand the number of high earners within our communities.
 The bottomline is that higher education access and affordability is essentially a key supporting pillar of long term economic success.
-According to a study by PEW research, there are enormous financial benefits to building housing in core areas of our communities, as opposed to suburban sprawl.
+According to a study by PEW research , there are enormous financial benefits to building housing in core areas of our communities, as opposed to suburban sprawl.
 Not only is the initial construction less expensive, but the ongoing maintenance costs to the government and taxpayers of maintaining related infrastructure is 50% lower for homes built near jobs, stores, and transit than if housing is built outside of such central areas of communities.
 Additionally, local governments benefit from increased tax revenue when dense housing is built in community centers, and the payback time for new infrastructure is 50% faster than in outlying areas.
 When we factor in the benefit to businesses of more foot traffic and residents with more disposable income, we see that such a strategy bolsters not only government financial stability, but also the economic health of our communities.
 We must also consider that sprawl is heavily subsidized by taxpayers, and that the more suburbs, strip malls, warehouses, and data centers swallow up our productive fields and forests, the more we will have to pay to support that unhealthy growth (as well as the hit we suffer from burying precious resources under concrete and asphalt).
 With all this in mind, it is vital that we locate new housing in the heart of our communities, whether they be cities, towns, or rural villages, and that we act to prevent further outwards sprawl.
-It should by now be obvious why major investments and reforms are necessary to our state’s economy and to stabilizing our state budget.
+Centralia Community College It should by now be obvious why major investments and reforms are necessary to our state’s economy and to stabilizing our state budget.
 However, the question of how we pay for these measures is still undoubtedly a hurdle we must cross.
 It’s important to remember, though, that we are in not so much of a bind financially as many politicians would have us believe, particularly if we are spending funds with a clear path towards recouping that investment either directly or indirectly through economic uplift and the resulting increase in tax revenue.
 The first and most obvious solution is to take out a few loans.
@@ -97,12 +100,8 @@ We should pursue every possible method of reclaiming that lost tax revenue.
 It is also true that we could raise more money in state taxes, while also reducing the burden on middle and lower income Washingtonians if we were to reform our broken and regressive tax structure.
 It is clear what needs to happen to revitalize Washington’s economy and pull our state government out of its ongoing cycle of budgetary crises.
 We have the means to enact those necessary changes, and we must not hesitate to do so.
-Sources and further reading
-- “Saving farmland, growing cities”, farmland.org, 12/15/22
-- The Good, the Bad, and the UGA-ly as WA Growth Management Act Turns 35 https://www.theurbanist.org/the-good-the-bad-and-the-uga-ly-as-wa-growth-management-act-turns-35/ 6/29/26
-- How much is spent on personal healthcare in the US? https://usafacts.org/articles/how-much-is-spent-on-personal-healthcare/ 2/19/26
-- Building Homes Near Jobs, Stores, and Transit Saves Public Dollars https://www.pew.org/en/research-and-analysis/articles/2026/05/27/building-homes-near-jobs-stores-and-transit-saves-public-dollars 5/27/26
-- How Much Does it Really Cost to Own a New Car? https://newsroom.aaa.com/wp-content/uploads/2024/09/YDC_Fact-Sheet-FINAL-9.2024.pdf 2024
-- Industrial Hemp – A review of economic potential, carbon sequestration, and bioremediation https://www.pdx.edu/sustainability/sites/sustainability.web.wdt.pdx.edu/files/2022-09/Industrial%20Hemp%20-%20A%20review%20of%20economic%20potential%20carbon%20sequetration%20and%20bioremediation%20ver16%20August18%202022.pdf 8/18/22
-- Industrial Hemp – A review of economic potential, carbon sequestration, and bioremediation https://rco.wa.gov/wp-content/uploads/2025/11/EconomicReportOutdoorRecreation2025.pdf 2025
-- Hemp for Building Materials Marketing Opportunities and Challenges https://cms.agr.wa.gov/WSDAKentico/Documents/Pubs/imported/Final-Hemp-For-Building-Materials-Report-June-2025.pdf 6/30/26
+Sources and further reading “Saving farmland, growing cities”, farmland.org , 12/15/22 The Good, the Bad, and the UGA-ly as WA Growth Management Act Turns 35 https://www.theurbanist.org/the-good-the-bad-and-the-uga-ly-as-wa-growth-management-act-turns-35/ 6/29/26 How much is spent on personal healthcare in the US? https://usafacts.org/articles/how-much-is-spent-on-personal-healthcare/ 2/19/26 Building Homes Near Jobs, Stores, and Transit Saves Public Dollars https://www.pew.org/en/research-and-analysis/articles/2026/05/27/building-homes-near-jobs-stores-and-transit-saves-public-dollars 5/27/26 How Much Does it Really Cost to Own a New Car? https://newsroom.aaa.com/wp-content/uploads/2024/09/YDC_Fact-Sheet-FINAL-9.2024.pdf 2024 Industrial Hemp – A review of economic potential, carbon sequestration, and bioremediation https://www.pdx.edu/sustainability/sites/sustainability.web.wdt.pdx.edu/files/2022-09/Industrial%20Hemp%20-%20A%20review%20of%20economic%20potential%20carbon%20sequetration%20and%20bioremediation%20ver16%20August18%202022.pdf 8/18/22 Industrial Hemp – A review of economic potential, carbon sequestration, and bioremediation https://rco.wa.gov/wp-content/uploads/2025/11/EconomicReportOutdoorRecreation2025.pdf 2025 Hemp for Building Materials Marketing Opportunities and Challenges https://cms.agr.wa.gov/WSDAKentico/Documents/Pubs/imported/Final-Hemp-For-Building-Materials-Report-June-2025.pdf 6/30/26 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Connect with me Bluesky: https://bsky.app/profile/electandy.bsky.social Facebook: https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/ YouTube: https://www.youtube.com/@AndyZahn Substack: https://substack.com/@andyzahn1 Contact Email: Andy420th@proton.me Mailing Address: Andy Zahn P.O.
+Box 26 Toutle, WA, 98649 Discover more from Andy Zahn Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

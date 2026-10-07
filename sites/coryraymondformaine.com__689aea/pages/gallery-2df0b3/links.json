@@ -1,14 +1,58 @@
 [
-"https://campaign.lizzotte.com/",
-"https://coryraymondformaine.com/",
-"https://coryraymondformaine.com/about",
-"https://coryraymondformaine.com/contact",
-"https://coryraymondformaine.com/donate",
-"https://coryraymondformaine.com/endorsements",
-"https://coryraymondformaine.com/gallery",
-"https://coryraymondformaine.com/issues",
-"https://coryraymondformaine.com/news",
-"https://coryraymondformaine.com/team",
-"https://coryraymondformaine.com/volunteer",
-"https://facebook.com/profile.php?id=61555898288004"
+{
+"text": "About",
+"href": "https://coryraymondformaine.com/about"
+},
+{
+"text": "Call 2076910121",
+"href": "tel:2076910121%20"
+},
+{
+"text": "Contact",
+"href": "https://coryraymondformaine.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://coryraymondformaine.com/contact"
+},
+{
+"text": "Cory Raymond for Maine House of Representatives, District 41",
+"href": "https://coryraymondformaine.com/"
+},
+{
+"text": "Donate",
+"href": "https://coryraymondformaine.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://coryraymondformaine.com/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://coryraymondformaine.com/gallery"
+},
+{
+"text": "Get your campaign website live in 24 hours",
+"href": "https://campaign.lizzotte.com"
+},
+{
+"text": "Issues",
+"href": "https://coryraymondformaine.com/issues"
+},
+{
+"text": "News",
+"href": "https://coryraymondformaine.com/news"
+},
+{
+"text": "Team",
+"href": "https://coryraymondformaine.com/team"
+},
+{
+"text": "Volunteer",
+"href": "https://coryraymondformaine.com/volunteer"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/profile.php?id=61555898288004"
+}
 ]

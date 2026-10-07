@@ -1,11 +1,14 @@
 {
- "description": "Biograf\u00eda de Campa\u00f1a \u2013 Melvin Rivera para el Congreso (NY-7) | Brooklyn y Queens",
+ "description": "Biografía de Campaña – Melvin Rivera para el Congreso (NY-7) | Brooklyn y Queens",
  "final_url": "https://melvinforcongress.com/biografia.html",
- "paid_for_by": null,
- "title": "Biograf\u00eda de Campa\u00f1a | Melvin for Congress",
+ "fingerprint": "0a5deb73f274281347615f140b71d85825106e5e",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Biografía de Campaña | Melvin for Congress",
  "years_mentioned": [
   "2018",
   "2019",
-  "2020"
+  "2020",
+  "2026"
  ]
 }

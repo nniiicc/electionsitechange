@@ -1,26 +1,162 @@
 [
-"http://usaspending.gov/",
-"https://bsky.app/profile/did:plc:xofzr2dbp3fxqywterul6vhs",
-"https://facebook.com/electmitchelljacob",
-"https://instagram.com/electmitchelljacob",
-"https://linktr.ee/mitchelljacob",
-"https://mitchelljacob.com/",
-"https://mitchelljacob.com/blog",
-"https://mitchelljacob.com/blog/40-trillion",
-"https://mitchelljacob.com/blog/did-you-vote-for-this-war",
-"https://mitchelljacob.com/blog/entanglement-how-american-bombs-in-iran-reached-oklahomas-gas-stations",
-"https://mitchelljacob.com/blog/generate-this-the-impact-of-ai-on-our-society",
-"https://mitchelljacob.com/blog/one-year-later-built-to-lastnbsp",
-"https://mitchelljacob.com/blog/the-beef-with-tariffsnbsp",
-"https://mitchelljacob.com/blog/the-price-of-arrogance",
-"https://mitchelljacob.com/blog/womens-inequality-day",
-"https://mitchelljacob.com/blog?offset=1786983104356&author=68b48faf628cbb7bf2d62452",
-"https://mitchelljacob.com/cart",
-"https://mitchelljacob.com/media",
-"https://mitchelljacob.com/privacy",
-"https://mitchelljacob.us18.list-manage.com/unsubscribe?u=d42c79f51207706cb87a22bc2&id=62e28e01cd&t=1",
-"https://secure.actblue.com/donate/mj4c-home",
-"https://secure.actblue.com/donate/mj4c-swag",
-"https://threads.com/@electmitchelljacob?hl=en",
-"https://youtube.com/@ElectMitchellJacob"
+{
+"text": "0",
+"href": "https://www.mitchelljacob.com/cart"
+},
+{
+"text": "40 Trillion",
+"href": "https://www.mitchelljacob.com/blog/40-trillion"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/mj4c-home"
+},
+{
+"text": "Did You Vote for This War?",
+"href": "https://www.mitchelljacob.com/blog/did-you-vote-for-this-war"
+},
+{
+"text": "Entanglement: How American Bombs in Iran Reached Oklahoma’s Gas Stations",
+"href": "https://www.mitchelljacob.com/blog/entanglement-how-american-bombs-in-iran-reached-oklahomas-gas-stations"
+},
+{
+"text": "Generate This: The Impact of AI on Our Society",
+"href": "https://www.mitchelljacob.com/blog/generate-this-the-impact-of-ai-on-our-society"
+},
+{
+"text": "Linktr.ee",
+"href": "https://linktr.ee/mitchelljacob"
+},
+{
+"text": "Media",
+"href": "https://www.mitchelljacob.com/media"
+},
+{
+"text": "Older Posts",
+"href": "https://www.mitchelljacob.com/blog?offset=1787347062799&author=68b48faf628cbb7bf2d62452"
+},
+{
+"text": "Order Merchandise",
+"href": "https://secure.actblue.com/donate/mj4c-swag"
+},
+{
+"text": "Read More",
+"href": "https://www.mitchelljacob.com/blog/40-trillion"
+},
+{
+"text": "Read More",
+"href": "https://www.mitchelljacob.com/blog/did-you-vote-for-this-war"
+},
+{
+"text": "Read More",
+"href": "https://www.mitchelljacob.com/blog/entanglement-how-american-bombs-in-iran-reached-oklahomas-gas-stations"
+},
+{
+"text": "Read More",
+"href": "https://www.mitchelljacob.com/blog/generate-this-the-impact-of-ai-on-our-society"
+},
+{
+"text": "Read More",
+"href": "https://www.mitchelljacob.com/blog/the-beef-with-tariffsnbsp"
+},
+{
+"text": "Read More",
+"href": "https://www.mitchelljacob.com/blog/the-economics-of-campaigning-for-office"
+},
+{
+"text": "Read More",
+"href": "https://www.mitchelljacob.com/blog/the-price-of-arrogance"
+},
+{
+"text": "Read More",
+"href": "https://www.mitchelljacob.com/blog/womens-inequality-day"
+},
+{
+"text": "Straight from Mitch",
+"href": "https://www.mitchelljacob.com/blog"
+},
+{
+"text": "Terms and Conditions & Privacy Policy",
+"href": "https://www.mitchelljacob.com/privacy"
+},
+{
+"text": "The Beef with Tariffs",
+"href": "https://www.mitchelljacob.com/blog/the-beef-with-tariffsnbsp"
+},
+{
+"text": "The Economics of Campaigning for Office",
+"href": "https://www.mitchelljacob.com/blog/the-economics-of-campaigning-for-office"
+},
+{
+"text": "The Price of Arrogance",
+"href": "https://www.mitchelljacob.com/blog/the-price-of-arrogance"
+},
+{
+"text": "USASpending.gov",
+"href": "http://usaspending.gov"
+},
+{
+"text": "Unsubscribe",
+"href": "https://mitchelljacob.us18.list-manage.com/unsubscribe?u=d42c79f51207706cb87a22bc2&id=62e28e01cd&t=1"
+},
+{
+"text": "Women’s [In]equality Day",
+"href": "https://www.mitchelljacob.com/blog/womens-inequality-day"
+},
+{
+"text": "[image: 40 Trillion]",
+"href": "https://www.mitchelljacob.com/blog/40-trillion"
+},
+{
+"text": "[image: Did You Vote for This War?]",
+"href": "https://www.mitchelljacob.com/blog/did-you-vote-for-this-war"
+},
+{
+"text": "[image: Entanglement: How American Bombs in Iran Reached Oklahoma’s Gas Stations]",
+"href": "https://www.mitchelljacob.com/blog/entanglement-how-american-bombs-in-iran-reached-oklahomas-gas-stations"
+},
+{
+"text": "[image: Generate This: The Impact of AI on Our Society]",
+"href": "https://www.mitchelljacob.com/blog/generate-this-the-impact-of-ai-on-our-society"
+},
+{
+"text": "[image: Jacob for Congress]",
+"href": "https://www.mitchelljacob.com/"
+},
+{
+"text": "[image: The Beef with Tariffs&nbsp;]",
+"href": "https://www.mitchelljacob.com/blog/the-beef-with-tariffsnbsp"
+},
+{
+"text": "[image: The Economics of Campaigning for Office]",
+"href": "https://www.mitchelljacob.com/blog/the-economics-of-campaigning-for-office"
+},
+{
+"text": "[image: The Price of Arrogance]",
+"href": "https://www.mitchelljacob.com/blog/the-price-of-arrogance"
+},
+{
+"text": "[image: Women’s [In]equality Day]",
+"href": "https://www.mitchelljacob.com/blog/womens-inequality-day"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/did:plc:xofzr2dbp3fxqywterul6vhs"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electmitchelljacob"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electmitchelljacob/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@electmitchelljacob?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectMitchellJacob"
+}
 ]

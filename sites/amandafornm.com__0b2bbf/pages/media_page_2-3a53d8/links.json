@@ -1,30 +1,122 @@
 [
-"https://amandafornm.com/",
-"https://amandafornm.com/./news",
-"https://amandafornm.com/./press",
-"https://amandafornm.com/./videos",
-"https://amandafornm.com/about",
-"https://amandafornm.com/contact",
-"https://amandafornm.com/media",
-"https://amandafornm.com/media/page/1",
-"https://amandafornm.com/media/page/3",
-"https://amandafornm.com/media/page/4",
-"https://amandafornm.com/media/page/5",
-"https://amandafornm.com/press/2025/06/04/u-s-representative-gabe-vasquez-endorses-amanda-lopez-askin-for-new-mexico-secretary-of-state",
-"https://amandafornm.com/press/2026/05/04/governor-michelle-lujan-grisham-endorses-amanda-lopez-askin-for-new-mexico-secretary-of-state",
-"https://amandafornm.com/press/2026/05/08/maggie-toulouse-oliver-endorses-amanda-lopez-askin",
-"https://amandafornm.com/take-action",
-"https://bsky.app/profile/letstalkamanda.bsky.social",
-"https://facebook.com/alafornm",
-"https://instagram.com/amandafornm",
-"https://ladailypost.com/gov-michelle-lujan-grisham-endorses-amanda-lopez-askin-for-new-mexico-secretary-of-state",
-"https://secure.actblue.com/donate/ala-web",
-"https://secure.actblue.com/donate/ala-web?amount=100&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=1000&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=12&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=5",
-"https://secure.actblue.com/donate/ala-web?amount=50&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=500&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?recurring=false",
-"https://tricityrecordnm.com/articles/n-m-u-s-sen-heinrich-elections-officials-seek-to-assuage-fears-about-federal-election-interferen"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=100&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=12&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=50&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=500&express_lane=true&recurring=false"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=1000&express_lane=true&recurring=false"
+},
+{
+"text": "1",
+"href": "https://amandafornm.com/media/page/1/"
+},
+{
+"text": "3",
+"href": "https://amandafornm.com/media/page/3/"
+},
+{
+"text": "4",
+"href": "https://amandafornm.com/media/page/4/"
+},
+{
+"text": "5",
+"href": "https://amandafornm.com/media/page/5/"
+},
+{
+"text": "About",
+"href": "https://amandafornm.com/about/"
+},
+{
+"text": "Chip in $5 right now to join the fight for our future ",
+"href": "https://secure.actblue.com/donate/ala-web?amount=5"
+},
+{
+"text": "Click to read Gov. Michelle Lujan Grisham Endorses Amanda López Askin For New Mexico Secretary Of State",
+"href": "https://ladailypost.com/gov-michelle-lujan-grisham-endorses-amanda-lopez-askin-for-new-mexico-secretary-of-state/"
+},
+{
+"text": "Click to read Governor Michelle Lujan Grisham Endorses Amanda López Askin for New Mexico Secretary of State",
+"href": "https://amandafornm.com/press/2026/05/04/governor-michelle-lujan-grisham-endorses-amanda-lopez-askin-for-new-mexico-secretary-of-state/"
+},
+{
+"text": "Click to read Maggie Toulouse Oliver Endorses Amanda López Askin",
+"href": "https://amandafornm.com/press/2026/05/08/maggie-toulouse-oliver-endorses-amanda-lopez-askin/"
+},
+{
+"text": "Click to read N.M. U.S. Sen. Heinrich, elections officials seek to assuage fears about federal election interference",
+"href": "https://www.tricityrecordnm.com/articles/n-m-u-s-sen-heinrich-elections-officials-seek-to-assuage-fears-about-federal-election-interferen/"
+},
+{
+"text": "Click to read U.S. Representative Gabe Vasquez Endorses Amanda López Askin for New Mexico Secretary of State",
+"href": "https://amandafornm.com/press/2025/06/04/u-s-representative-gabe-vasquez-endorses-amanda-lopez-askin-for-new-mexico-secretary-of-state/"
+},
+{
+"text": "Connect on Bluesky",
+"href": "https://bsky.app/profile/letstalkamanda.bsky.social"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://facebook.com/alafornm/"
+},
+{
+"text": "Connect on Instagram",
+"href": "https://instagram.com/amandafornm/"
+},
+{
+"text": "Contact",
+"href": "https://amandafornm.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/ala-web"
+},
+{
+"text": "Media",
+"href": "https://amandafornm.com/media/"
+},
+{
+"text": "News",
+"href": "https://amandafornm.com/./news/"
+},
+{
+"text": "Next Page",
+"href": "https://amandafornm.com/media/page/3/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ala-web?recurring=false"
+},
+{
+"text": "Press Releases",
+"href": "https://amandafornm.com/./press/"
+},
+{
+"text": "Previous Page",
+"href": "https://amandafornm.com/media/page/1/"
+},
+{
+"text": "Take Action",
+"href": "https://amandafornm.com/take-action/"
+},
+{
+"text": "Videos",
+"href": "https://amandafornm.com/./videos/"
+},
+{
+"text": "[image: Amanda for New Mexico]Amanda for New Mexico",
+"href": "https://amandafornm.com"
+}
 ]

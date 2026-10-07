@@ -1,9 +1,38 @@
 [
-"http://facebook.com/electjasonkyle",
-"https://jasonbkyle.com/",
-"https://jasonbkyle.com/about",
-"https://jasonbkyle.com/donate",
-"https://jasonbkyle.com/endorsements",
-"https://jasonbkyle.com/principles",
-"https://jasonbkyle.com/team-1"
+{
+"text": "About",
+"href": "https://www.jasonbkyle.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.jasonbkyle.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jasonbkyle.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.jasonbkyle.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jasonbkyle.com/team-1"
+},
+{
+"text": "Principles",
+"href": "https://www.jasonbkyle.com/principles"
+},
+{
+"text": "[image: JasonBKyleHD8.png]",
+"href": "https://www.jasonbkyle.com"
+},
+{
+"text": "[image: facebook]",
+"href": "http://facebook.com/electjasonkyle"
+},
+{
+"text": "jason@jasonbkyle.com",
+"href": "mailto:jason@jasonbkyle.com"
+}
 ]

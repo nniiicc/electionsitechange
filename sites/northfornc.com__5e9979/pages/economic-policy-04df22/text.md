@@ -1,3 +1,6 @@
+0 Skip to Content Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
+Open Menu Close Menu Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
+Open Menu Close Menu Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
 We Must Tackle Inflation.
 During my Listening Tour, the issue that reigns supreme with our friends, neighbors, and local business owners are gas prices, paying for groceries, and housing costs.
 More than one quarter of local voters attending our listening tour and talking with us at their doorstep say that inflation and the cost of living will have the largest impact on their vote in November.
@@ -6,8 +9,7 @@ I’m a mom, live music lover, and a history buff, not a prize-winning economist
 Small business owners around here say they still haven’t recovered from pandemic-induced supply shortages and demand shifts, possibly exacerbated by market power and market manipulation.
 What I know is we need to fix it.
 What I can’t figure out is why Jeff Zenger hasn’t done a single thing to try to fight it.
-How To Use This Plan
-Our Fight Inflation in NC Plan can serve as a values guide for local policymakers to take swift action on this urgent challenge to North Carolina families and businesses and set up long-term, durable policies to keep prices low and our economy strong in the years to come.
+How To Use This Plan Our Fight Inflation in NC Plan can serve as a values guide for local policymakers to take swift action on this urgent challenge to North Carolina families and businesses and set up long-term, durable policies to keep prices low and our economy strong in the years to come.
 Our families and businesses deserve better than they’ve been getting from Raleigh, and as our next State Representative I‘ll work to take better care of our pocketbooks.
 1.
 Cut taxes and regulations so families can keep more of the money they earn.
@@ -32,8 +34,7 @@ As a 20-year Forsyth County homeowner myself, I know many of you already know No
 Recently the National Low Income Housing Coalition determined there are 326,751 extremely low-income households in North Carolina, but only 130,930 affordable rental homes.
 By 2030 new home construction led by luxury developers like Jeff Zenger who continue to place profits over people will fall well short of the need for an additional 900,000 houses created by population growth, research shows.
 The NC League of Municipalities has called housing affordability in the state “a crisis,” and I agree.
-As our next State Representative, I will fight to increase the supply of low-income housing in the following ways:
-A.
+As our next State Representative, I will fight to increase the supply of low-income housing in the following ways: A.
 Fully support the new North Carolina Housing Finance Agency (NCHFA) and their new $750 million in revenue bonds to continue its efforts.
 B.
 Fully support existing federal programs to address increasing homeownership like: HUD’s Home Investment Partnership Programs, the Self-Help Homeownership Opportunity Program, and the Housing Choice Voucher program, all of which provide rental assistance to low-income households in North Carolina.
@@ -69,3 +70,5 @@ If workers want to compare salaries, let them do it.
 It only benefits employers to regulate salary conversations.
 Also, make it illegal to hide salary/ compensation when people apply for jobs.
 As our next State Representative, I will fight to require companies to openly display the compensation offered for a job.
+NORTH for NC 6255 Town Center Drive Suite 650 Clemmons, NC 27012 CONTRIBUTE to Do.More.Good.
+Paid for by North for North Carolina.

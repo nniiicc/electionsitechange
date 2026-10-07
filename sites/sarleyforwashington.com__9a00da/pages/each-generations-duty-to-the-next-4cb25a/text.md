@@ -1,5 +1,4 @@
-Each Generation’s Duty to the Next
-One odd feature of property taxes is that homeowners pay based on the assessed value of their home – not on how much of that value they own.
+Skip to content Home About Priorities News Contact Volunteer Donate April 17, 2026 Each Generation’s Duty to the Next One odd feature of property taxes is that homeowners pay based on the assessed value of their home – not on how much of that value they own.
 Consider two neighboring, identical houses.
 One is owned by a retired couple who paid off their mortgage a few years ago.
 The other is owned by a young family that just moved in.
@@ -9,8 +8,7 @@ But consider how odd that result ends up being.
 For the retired couple with a paid-off house, that $10,000 truly does represent 1% of the total wealth captured in that home.
 But for the young family, which just put 20% down and is paying off the rest on a 30-year mortgage, that [ $10,000 / $200,000 ] = 5% of what they actually have as their own!
 The bank owns four-fifths of the property, but the home “owners” get the joy of paying the bank’s share of the property taxes too.
-(And now consider the math for renters.)
-It used to be that the mortgage deduction on federal income taxes helped correct some of this distortion.
+(And now consider the math for renters.) It used to be that the mortgage deduction on federal income taxes helped correct some of this distortion.
 But with the huge expansion of the standard deduction, many families are no longer hitting the threshold where itemizing helps.
 So why does this matter?
 Well, as you may have noticed, Washington has a bit of a taxation issue right now.
@@ -34,4 +32,4 @@ Eleven years ago, I ran for the school board because I had young kids and wanted
 As my kids now head toward adulthood, I’m running for this new role because I see all the ways the world their generation is graduating into isn’t set up for them to thrive.
 It will take hard work and hard choices, but each generation inherits the responsibility to renew and pass on the promise of the American Dream.
 It’s our turn.
-Photo by Vitaly Mazur
+Photo by Vitaly Mazur Uncategorized Archive September 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 Recent Posts Endorsements (Updated) Washington Must Prepare for Budget Volatility Why It Really Is (Almost) All About Costs What Modern Youth Sports Can Tell Us About America Each Generation’s Duty to the Next Home About Priorities News Contact Donate Privacy Policy News Contact Donate Get in Touch: sarleyforwashington@gmail.com Facebook Instagram Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats 🐈‍⬛

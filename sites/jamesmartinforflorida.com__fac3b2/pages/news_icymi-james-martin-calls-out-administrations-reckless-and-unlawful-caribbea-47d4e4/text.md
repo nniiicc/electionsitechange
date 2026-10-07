@@ -1,6 +1,7 @@
-PRESS RELEASE
-ICYMI: James Martin Calls Out Administration’s “Reckless and Unlawful” Caribbean Airstrikes in Appearances on Newsmax, MeidasTouch, Scripps News and Courier Newsroom
-HOBE SOUND, FL — James Martin, national security expert, U.S.
+Skip navigation menu MEET JAMES ISSUES Endorsements NEWS & PRESS Volunteer Donate MEET JAMES ISSUES Endorsements NEWS & PRESS Volunteer Donate PRESS RELEASE James Martin Campaign Responds to Brian Mast Discouraging Debates PRESS RELEASE Former Arabian Gulf Coast Guard Vet, James Martin, Releases Statement on Today’s Air Strikes PRESS RELEASE James Martin for Congress Unveils Anti-Corruption Policy Platform, “Ending Insider Privilege” PRESS RELEASE Veterans for Responsible Leadership Endorses James Martin for Congress PRESS RELEASE Martin Earns Local Endorsements from Community Leaders PRESS RELEASE ICYMI: James Martin Calls Out Administration’s “Reckless and Unlawful” Caribbean Airstrikes in Appearances on Newsmax, MeidasTouch, Scripps News and Courier Newsroom PRESS RELEASE James Martin Calls On Rep.
+Mast, House Foreign Affairs Committee Chair, to Launch Formal Investigation Into Hegseth’s Illegal Airstrikes on Venezuelan Vessels PRESS RELEASE Coast Guard Veteran James Martin Raises Over $150K in First 24 hours PRESS RELEASE Coast Guard Veteran James Martin Announces Run for Florida’s 21st Congressional District PRESS RELEASE Coast Guard Veteran James Martin Endorsed by Vice President Kamala D.
+Harris in Race for Congress NEWS ARTICLE The Palm Beach Post Endorses James Martin PRESS RELEASE James Martin Launches Town Hall Series Across the District PRESS RELEASE James Martin Surges Ahead in Poll Against MAGA Rep.
+Brian Mast Dec 15 2025 PRESS RELEASE ICYMI: James Martin Calls Out Administration’s “Reckless and Unlawful” Caribbean Airstrikes in Appearances on Newsmax, MeidasTouch, Scripps News and Courier Newsroom HOBE SOUND, FL — James Martin, national security expert, U.S.
 Coast Guard veteran, and Democratic candidate for Florida’s 21st Congressional District, continues to be a leading voice for clarity and accountability on the Administration’s illegal and counterproductive airstrikes in the Caribbean and Eastern Pacific Ocean.
 Martin spoke with Newsmax, MeidasTouch, Scripps News, and Courier Newsroom this week to break down the strikes, and to call out officials like Rep.
 Brian Mast for enabling dangerous misinformation.
@@ -11,5 +12,8 @@ As the only candidate in the FL-21 race with national security policy expertise,
 While Rep.
 Mast is supporting a dangerous regime change agenda that could embroil the United States in another foreign conflict for years to come.
 With proven leadership and a mission-focused mindset that puts country over party, Martin is running for Florida’s 21st congressional district to lower the cost of living, fix the Treasure Coast’s clean water crisis, and strengthen the economy for everyone, no matter their politics.
-###
-Appearances can be seen at: Newsmax, MeidasTouch, Scripps News, and Courier Newsroom.
+### Appearances can be seen at: Newsmax , MeidasTouch , Scripps News , and Courier Newsroom .
+If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
+Commander in the United States Coast Guard Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

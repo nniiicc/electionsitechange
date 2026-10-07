@@ -1,10 +1,7 @@
-Together, we can shape the future of South Dakota.
+0 Skip to Content Donate Open Menu Close Menu Open Menu Close Menu Donate Donate Together, we can shape the future of South Dakota.
 I’m running for the South Dakota House in District 14 because I believe we can do better for our families, better for our kids, and better for the future we all want to build together.
 One grounded in common sense, dignity, and heart.
-Erinn for House
-Erinn for House
-About Me
-I grew up in Moorhead, Minnesota—a town about the same size as Sioux Falls.
+Erinn for House Erinn for House Erinn for House Donate Now About Me I grew up in Moorhead, Minnesota—a town about the same size as Sioux Falls.
 My mom stayed at home until I went to kindergarten, then finished her degree and became a social worker for the state.
 She worked with families that fostered children, licensed daycares, and guided minor moms to become successful.
 My dad is a Vietnam veteran and was a small business owner.
@@ -21,20 +18,15 @@ I’ve balanced my checkbook at the kitchen table and planned my life around sch
 I believe good leaders listen first and act with care.
 Moms bring empathy, practicality, and persistence to leadership.
 It’s time for more of us to have a voice in shaping the future of South Dakota.
-Four Things District 14 Can Count On
-College is right for some, but not for everyone.
+Four Things District 14 Can Count On College is right for some, but not for everyone.
 As a tradesperson and small business owner, I have lived the stigma of a system that values a degree over a skilled trade.
 We need apprenticeships and technical schools that lead to good-paying jobs without debt.
-Good Jobs, Real Pathways
-Hyperscale data centers demand millions of gallons of South Dakota water and preferential treatment that no small business would ever receive.
+Good Jobs, Real Pathways Hyperscale data centers demand millions of gallons of South Dakota water and preferential treatment that no small business would ever receive.
 South Dakota has no enforceable standards to hold them accountable.
 No new hyper scale data centers until Pierre sets real rules.
-Protecting Our Water and Our Wallet
-My kids go to public school in this community.
+Protecting Our Water and Our Wallet My kids go to public school in this community.
 I have watched our teachers give everything they have.
 Our schools deserve full funding and our teachers deserve to be paid what they are worth.
 Public education is the foundation of our state’s future, and it deserves our full commitment.
-Strong Schools
-Protecting Your Voice
-South Dakotans used their voice to cap payday lending and expand Medicaid.
-I’ll stand against any attempt to take that voice away.
+Strong Schools Protecting Your Voice South Dakotans used their voice to cap payday lending and expand Medicaid.
+I’ll stand against any attempt to take that voice away. “ Our state needs leaders who understand what it’s like to stretch a paycheck, pack lunches before sunrise, and juggle it all with love and determination. ” — Erinn Williams “ We need people who listen first, lead with compassion, and care more about people than politics. ” — Erinn Williams Get in Touch with Erinn Erinn for House Erinn for House Erinn for House Donate Now “I believe deeply that it’s time for more moms and neighbors to have a seat at the table.” -Erinn Williams FOLLOW US Instagram Facebook Paid for by Erinn For House

@@ -1,5 +1,5 @@
-“Trans troops face a difficult choice with Department of Defense initiative”, All Things Considered, 04 April 2025, Interview, NPR,
-Alleria is featured in an article by NPR - Trans troops face a difficult choice with Department of Defense initiative
-Written By Apple User
-Previous
-Next
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign “Trans troops face a difficult choice with Department of Defense initiative”, All Things Considered, 04 April 2025, Interview, NPR, Sep 22 Written By Apple User Alleria is featured in an article by NPR - Trans troops face a difficult choice with Department of Defense initiative https://www.npr.org/2025/04/04/nx-s1-5342647/trans-troops-face-a-difficult-choice-with-department-of-defense-initiative Apple User Previous Previous “How a Creative Writing Class Stood Between Me and Despair”, 07 April 2025, Op-Ed, The Advocate Next Next “Transgender veterans warn their VA benefits and services ‘are under attack’”, 28 March 2025, Interview, Stars & Stripes Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

@@ -1,8 +1,58 @@
 [
-"https://ericmorrison4the27th.com/",
-"https://ericmorrison4the27th.com/about",
-"https://ericmorrison4the27th.com/blog",
-"https://ericmorrison4the27th.com/contact",
-"https://ericmorrison4the27th.com/initiatives",
-"https://ericmorrison4the27th.com/privacy-policy"
+{
+"text": "About",
+"href": "https://ericmorrison4the27th.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://ericmorrison4the27th.com/contact/"
+},
+{
+"text": "Education Reform",
+"href": "https://ericmorrison4the27th.com/initiatives/"
+},
+{
+"text": "Environmental Programs",
+"href": "https://ericmorrison4the27th.com/initiatives/"
+},
+{
+"text": "Get Involved",
+"href": "https://ericmorrison4the27th.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://ericmorrison4the27th.com/"
+},
+{
+"text": "Initiatives",
+"href": "https://ericmorrison4the27th.com/initiatives/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://ericmorrison4the27th.com/initiatives/"
+},
+{
+"text": "News",
+"href": "https://ericmorrison4the27th.com/blog/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ericmorrison4the27th.com/privacy-policy/"
+},
+{
+"text": "Public Health",
+"href": "https://ericmorrison4the27th.com/initiatives/"
+},
+{
+"text": "[image: logo]",
+"href": "https://ericmorrison4the27th.com/"
+},
+{
+"text": "https://ericmorrison4the27th.com",
+"href": "https://ericmorrison4the27th.com"
+},
+{
+"text": "info@ericmorrison4the27th.com",
+"href": "mailto:info@ericmorrison4the27th.com"
+}
 ]

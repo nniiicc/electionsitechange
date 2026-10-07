@@ -1,14 +1,58 @@
 [
-"https://chrispielli.com/",
-"https://chrispielli.com/about-chris",
-"https://chrispielli.com/blog",
-"https://chrispielli.com/copy-of-endorsements",
-"https://chrispielli.com/events",
-"https://chrispielli.com/get-involved",
-"https://chrispielli.com/home-1",
-"https://chrispielli.com/issues",
-"https://facebook.com/Friends-of-Chris-Pielli-1406846542878184?epa=SEARCH_BOX",
-"https://instagram.com/chrispielli156",
-"https://secure.actblue.com/donate/friends-of-chris-pielli-1",
-"https://twitter.com/ChrisPielli156"
+{
+"text": "About Chris",
+"href": "https://www.chrispielli.com/about-chris"
+},
+{
+"text": "Chris Pielli",
+"href": "https://www.chrispielli.com/home-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-chris-pielli-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chrispielli.com/copy-of-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chrispielli.com/events"
+},
+{
+"text": "FriendsofChrisPielli@gmail.com",
+"href": "mailto:FriendsofChrisPielli@gmail.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chrispielli.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.chrispielli.com"
+},
+{
+"text": "Issues",
+"href": "https://www.chrispielli.com/issues"
+},
+{
+"text": "What's New",
+"href": "https://www.chrispielli.com/blog"
+},
+{
+"text": "[image: Button Yellow.jpg]",
+"href": "https://www.chrispielli.com/home-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Friends-of-Chris-Pielli-1406846542878184/?epa=SEARCH_BOX"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/chrispielli156/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/ChrisPielli156"
+}
 ]

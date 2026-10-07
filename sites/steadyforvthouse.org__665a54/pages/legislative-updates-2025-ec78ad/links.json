@@ -1,18 +1,78 @@
 [
-"http://goldendomevt.com/",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fbrendasteady&sa=D&sntz=1&usg=AOvVaw3X-cXHKxVmNx6v8-YUXWsr",
-"https://legislature.vermont.gov/Documents/2026/Workgroups/Senate%20Education/Bills/H.454/Drafts,%20Amendments,%20and%20Legal%20Documents/H.454~Beth%20St.%20James~%20Draft%209.1,%205-2-2025~5-2-2025.pdf",
-"https://legislature.vermont.gov/committee/detail/2026/16",
-"https://legislature.vermont.gov/committee/streaming/house-appropriations",
-"https://ljfo.vermont.gov/assets/Publications/2025-2026-House-Bills/GENERAL-381670-v5-2025_H91_GA_Housing-HHS-Passed-v2.pdf",
-"https://steadyforvthouse.org/about",
-"https://steadyforvthouse.org/community",
-"https://steadyforvthouse.org/contact",
-"https://steadyforvthouse.org/donate",
-"https://steadyforvthouse.org/endorsements",
-"https://steadyforvthouse.org/highlights",
-"https://steadyforvthouse.org/home",
-"https://steadyforvthouse.org/key-issues",
-"https://steadyforvthouse.org/legislative-updates-2026",
-"https://steadyforvthouse.org/legislature"
+{
+"text": "About",
+"href": "https://www.steadyforvthouse.org/about"
+},
+{
+"text": "Community",
+"href": "https://www.steadyforvthouse.org/community"
+},
+{
+"text": "Contact",
+"href": "https://www.steadyforvthouse.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.steadyforvthouse.org/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.steadyforvthouse.org/endorsements"
+},
+{
+"text": "Highlights",
+"href": "https://www.steadyforvthouse.org/highlights"
+},
+{
+"text": "Home",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "Key Issues",
+"href": "https://www.steadyforvthouse.org/key-issues"
+},
+{
+"text": "Legislative Updates 2026",
+"href": "https://www.steadyforvthouse.org/legislative-updates-2026"
+},
+{
+"text": "Legislature",
+"href": "https://www.steadyforvthouse.org/legislature"
+},
+{
+"text": "SteadyForVTHouse.org",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fbrendasteady&sa=D&sntz=1&usg=AOvVaw3X-cXHKxVmNx6v8-YUXWsr"
+},
+{
+"text": "[image]",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "[image]SteadyForVTHouse.org",
+"href": "https://www.steadyforvthouse.org/home"
+},
+{
+"text": "http://goldendomevt.com",
+"href": "http://goldendomevt.com/"
+},
+{
+"text": "https://legislature.vermont.gov/Documents/2026/Workgroups/Senate%20Education/Bills/H.454/Dra[...]pdf",
+"href": "https://legislature.vermont.gov/Documents/2026/Workgroups/Senate%20Education/Bills/H.454/Drafts,%20Amendments,%20and%20Legal%20Documents/H.454~Beth%20St.%20James~%20Draft%209.1,%205-2-2025~5-2-2025.pdf"
+},
+{
+"text": "https://legislature.vermont.gov/committee/detail/2026/16",
+"href": "https://legislature.vermont.gov/committee/detail/2026/16"
+},
+{
+"text": "https://legislature.vermont.gov/committee/streaming/house-appropriations",
+"href": "https://legislature.vermont.gov/committee/streaming/house-appropriations"
+},
+{
+"text": "https://ljfo.vermont.gov/assets/Publications/2025-2026-House-Bills/GENERAL-381670-v5-2025_H9[...]pdf",
+"href": "https://ljfo.vermont.gov/assets/Publications/2025-2026-House-Bills/GENERAL-381670-v5-2025_H91_GA_Housing-HHS-Passed-v2.pdf"
+}
 ]

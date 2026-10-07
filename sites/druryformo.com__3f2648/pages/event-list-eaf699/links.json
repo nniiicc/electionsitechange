@@ -1,17 +1,90 @@
 [
-"https://druryformo.com/",
-"https://druryformo.com/about-ashley",
-"https://druryformo.com/blank",
-"https://druryformo.com/event-details-1/arnold-days",
-"https://druryformo.com/event-details-1/the-peoples-hearing-on-ai-data-centers",
-"https://druryformo.com/event-details-1/tower-grove-pride",
-"https://druryformo.com/event-details-1/town-hall-know-before-you-vote",
-"https://druryformo.com/event-details-1/town-hall-know-before-you-vote-1",
-"https://druryformo.com/event-details-1/voterpalooza",
-"https://druryformo.com/event-list",
-"https://druryformo.com/sample-ballot-nov-3",
-"https://facebook.com/druryformo",
-"https://instagram.com/modemparty",
-"https://secure.actblue.com/donate/ashley-drury-1",
-"https://youtube.com/channel/UCQjPLbT_t4sDQBcTx7TFd3Q"
+{
+"text": "About Ashley",
+"href": "https://www.druryformo.com/about-ashley"
+},
+{
+"text": "Arnold Days",
+"href": "https://www.druryformo.com/event-details-1/arnold-days"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ashley-drury-1"
+},
+{
+"text": "Details",
+"href": "https://www.druryformo.com/event-details-1/the-peoples-hearing-on-ai-data-centers"
+},
+{
+"text": "Events",
+"href": "https://www.druryformo.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.druryformo.com"
+},
+{
+"text": "Learn more",
+"href": "https://www.druryformo.com/event-details-1/arnold-days"
+},
+{
+"text": "Learn more",
+"href": "https://www.druryformo.com/event-details-1/tower-grove-pride"
+},
+{
+"text": "Learn more",
+"href": "https://www.druryformo.com/event-details-1/town-hall-know-before-you-vote"
+},
+{
+"text": "Learn more",
+"href": "https://www.druryformo.com/event-details-1/town-hall-know-before-you-vote-1"
+},
+{
+"text": "Learn more",
+"href": "https://www.druryformo.com/event-details-1/voterpalooza"
+},
+{
+"text": "Request A Yard Sign!",
+"href": "https://www.druryformo.com/blank"
+},
+{
+"text": "Sample Ballot - Nov 3",
+"href": "https://www.druryformo.com/sample-ballot-nov-3"
+},
+{
+"text": "The People's Hearing on AI Data Centers",
+"href": "https://www.druryformo.com/event-details-1/the-peoples-hearing-on-ai-data-centers"
+},
+{
+"text": "Tower Grove Pride",
+"href": "https://www.druryformo.com/event-details-1/tower-grove-pride"
+},
+{
+"text": "Town Hall - Know Before You Vote!",
+"href": "https://www.druryformo.com/event-details-1/town-hall-know-before-you-vote"
+},
+{
+"text": "Town Hall - Know Before You Vote!",
+"href": "https://www.druryformo.com/event-details-1/town-hall-know-before-you-vote-1"
+},
+{
+"text": "VoterPalooza!",
+"href": "https://www.druryformo.com/event-details-1/voterpalooza"
+},
+{
+"text": "[image: Ashley-Drury-logo]",
+"href": "https://www.druryformo.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/druryformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/modemparty"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCQjPLbT_t4sDQBcTx7TFd3Q"
+}
 ]

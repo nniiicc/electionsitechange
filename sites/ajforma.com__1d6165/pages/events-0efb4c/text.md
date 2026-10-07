@@ -1,2 +1,3 @@
-Events
-Check out these ways to get involved and join Team Andrea and help build a people-powered movement across Massachusetts!
+Meet Andrea Issues Get Involved Events Voter Information Media and Contact Shop Donate Meet Andrea Issues Get Involved Events Voter Information Media and Contact Shop Donate Events Join Now Events Take action with Andrea for Massachusetts Check out these ways to get involved and join Team Andrea and help build a people-powered movement across Massachusetts!
+Take Action Sign up today and be part of our people-powered campaign!
+Get Involved Make Your Voice Heard Volunteer Opportunities Knock Doors Make Phone Calls Collect Signatures Host An Event Talk To Voters Online Help With Video/ Social Media Become A Community Organizer I'm a student Leave this field blank Submit English Español (Spanish) 汉语 (Chinese (Mandarin)) français (French) Haitian Creole Português (Portuguese) Tiếng Việt (Vietnamese) Made in Solidarity Tech

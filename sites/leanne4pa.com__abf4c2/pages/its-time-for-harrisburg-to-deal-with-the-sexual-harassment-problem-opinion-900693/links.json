@@ -1,12 +1,42 @@
 [
-"http://facebook.com/voteleanne",
-"http://maps.google.com/?q=Leanne+for+PA%2C+PO+Box+22%2C+Swarthmore%2C+PA+19081",
-"http://twitter.com/leanne4pa",
-"https://inquirer.com/opinion/commentary/pennsylvania-harrisburg-state-house-sexual-harassment-me-too-20190702.html",
-"https://leanne4pa.com/",
-"https://leanne4pa.com/has-your-polling-location-changed",
-"https://leanne4pa.com/krueger-named-new-hdcc-chair",
-"https://leanne4pa.com/leanne",
-"https://secure.actblue.com/donate/lkbweb",
-"https://twitter.com/leanne4pa"
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/lkbweb"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/voteleanne"
+},
+{
+"text": "Has your polling location changed?",
+"href": "https://www.leanne4pa.com/has-your-polling-location-changed/"
+},
+{
+"text": "Krueger Named New HDCC Chair",
+"href": "https://www.leanne4pa.com/krueger-named-new-hdcc-chair/"
+},
+{
+"text": "Leanne for PA, PO Box 22, Swarthmore, PA 19081",
+"href": "http://maps.google.com/?q=Leanne+for+PA%2C+PO+Box+22%2C+Swarthmore%2C+PA+19081"
+},
+{
+"text": "Meet Leanne",
+"href": "https://www.leanne4pa.com/leanne/"
+},
+{
+"text": "Read more at Inquirer.com",
+"href": "https://www.inquirer.com/opinion/commentary/pennsylvania-harrisburg-state-house-sexual-harassment-me-too-20190702.html"
+},
+{
+"text": "Tweets by leanne4pa",
+"href": "https://twitter.com/leanne4pa"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/leanne4pa"
+},
+{
+"text": "[image: Leanne Krueger for State Representative]",
+"href": "https://www.leanne4pa.com/"
+}
 ]

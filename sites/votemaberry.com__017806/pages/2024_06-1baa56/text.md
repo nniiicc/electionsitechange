@@ -1,8 +1,6 @@
-Wow!
+Toggle navigation Meet Aron Maberry Why I’m Running On the Issues “In The News” Events Posts Request A Sign Media Contribute June 2024 June 20, 2024 Governor Bill Lee Campaign Event Recap Wow!
 I am overwhelmed by the incredible support and large crowd that gathered Wednesday morning to support my campaign for the State Legislature in District 68.
 I want to express my heartfelt thanks to Governor Bill Lee for his endorsement and encouraging words.
-I am also deeply grateful to my friends, Pastor Mike Burnette and Pastor Cal Hampton, for their …
-Continue reading
-“Aron Maberry is a dedicated public servant and conservative champion who stands for parental rights and will work hard to deliver opportunity, security and freedom for Tennesseans, including school choice for every Tennessee family,” said Governor Bill Lee.
-“Aron will represent Montgomery County with integrity, and I fully support his election to the General Assembly.” I am grateful for our …
-Continue reading
+I am also deeply grateful to my friends, Pastor Mike Burnette and Pastor Cal Hampton, for their … Continue reading June 17, 2024 RSVP for our Campaign Event with Gov.
+Bill Lee Continue reading June 6, 2024 Governor Bill Lee Endorsement “Aron Maberry is a dedicated public servant and conservative champion who stands for parental rights and will work hard to deliver opportunity, security and freedom for Tennesseans, including school choice for every Tennessee family,” said Governor Bill Lee.
+“Aron will represent Montgomery County with integrity, and I fully support his election to the General Assembly.” I am grateful for our … Continue reading About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

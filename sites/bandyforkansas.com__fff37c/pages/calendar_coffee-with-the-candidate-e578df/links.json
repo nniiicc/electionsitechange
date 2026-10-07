@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+with+the+Candidate&dates=20260815T140000Z%2F20260815T160000Z&location=4841+Rockridge+Court%2C+Manhattan%2C+Kansas%2C+66503%2C+United+States",
-"http://maps.google.com/?q=4841+Rockridge+Court+Manhattan%2C+Kansas%2C+66503+United+States",
-"https://bandyforkansas.com/",
-"https://bandyforkansas.com/about-1",
-"https://bandyforkansas.com/calendar",
-"https://bandyforkansas.com/calendar/bandy-campaign-kickoff",
-"https://bandyforkansas.com/calendar/coffee-with-the-candidate?format=ical",
-"https://bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl",
-"https://bandyforkansas.com/calendar?category=Coffee+with+the+candidate",
-"https://bandyforkansas.com/cart",
-"https://bandyforkansas.com/donate",
-"https://bandyforkansas.com/endorsements",
-"https://bandyforkansas.com/platform",
-"https://bandyforkansas.com/s/Brenda-Bandy-for-Kansas-State-House-privacy-policy.pdf",
-"https://bandyforkansas.com/support",
-"https://drive.google.com/drive/folders/1g_wxZ5Wb6GAjka_NUNW4zjl3N9oCc1ne?usp=share_link",
-"https://facebook.com/profile.php?id=61588817447942",
-"https://instagram.com/bandy4kansas",
-"https://youtube.com/channel/UCHVkxFc4-Q0dooyqL9m6Fhg"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4841+rockridge+court+manhattan%2C+kansas%2C+66503+united+states"
+},
+{
+"text": "0",
+"href": "https://www.bandyforkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bandyforkansas.com/about-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bandyforkansas.com/calendar"
+},
+{
+"text": "Coffee with the candidate",
+"href": "https://www.bandyforkansas.com/calendar?category=Coffee+with+the+candidate"
+},
+{
+"text": "Donate",
+"href": "https://www.bandyforkansas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bandyforkansas.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bandyforkansas.com/calendar"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+with+the+Candidate&dates=20260815T140000Z%2F20260815T160000Z&location=4841+Rockridge+Court%2C+Manhattan%2C+Kansas%2C+66503%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.bandyforkansas.com/calendar/coffee-with-the-candidate?format=ical"
+},
+{
+"text": "Media",
+"href": "https://drive.google.com/drive/folders/1g_wxZ5Wb6GAjka_NUNW4zjl3N9oCc1ne?usp=share_link"
+},
+{
+"text": "Next Next October 3 League of Women Voters Forum",
+"href": "https://www.bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl"
+},
+{
+"text": "Platform",
+"href": "https://www.bandyforkansas.com/platform"
+},
+{
+"text": "Previous Previous June 23 Bandy Campaign Kickoff",
+"href": "https://www.bandyforkansas.com/calendar/bandy-campaign-kickoff"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bandyforkansas.com/s/Brenda-Bandy-for-Kansas-State-House-privacy-policy.pdf"
+},
+{
+"text": "Support",
+"href": "https://www.bandyforkansas.com/support"
+},
+{
+"text": "[image: Bandy for Kansas]",
+"href": "https://www.bandyforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588817447942"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bandy4kansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCHVkxFc4-Q0dooyqL9m6Fhg"
+},
+{
+"text": "brenda@bandyforkansas.com",
+"href": "mailto:brenda@bandyforkansas.com"
+}
 ]

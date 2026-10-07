@@ -1,15 +1,62 @@
 [
-"https://ericebersole.org/",
-"https://ericebersole.org/cdn-cgi/l/email-protection",
-"https://ericebersole.org/contact.html",
-"https://ericebersole.org/district-44a.html",
-"https://ericebersole.org/donate.html",
-"https://ericebersole.org/events.html",
-"https://ericebersole.org/meet-eric.html",
-"https://ericebersole.org/newsletters.html",
-"https://ericebersole.org/scholarships.html",
-"https://ericebersole.org/volunteer.html",
-"https://facebook.com/ElectEricEbersole",
-"https://instagram.com/eric.ebersole.for.maryland",
-"https://twitter.com/ericebersole"
+{
+"text": "Contact",
+"href": "https://www.ericebersole.org/contact.html"
+},
+{
+"text": "District 44A",
+"href": "https://www.ericebersole.org/district-44a.html"
+},
+{
+"text": "Donate",
+"href": "https://www.ericebersole.org/donate.html"
+},
+{
+"text": "Eric Ebersole",
+"href": "https://www.ericebersole.org/"
+},
+{
+"text": "Events",
+"href": "https://www.ericebersole.org/events.html"
+},
+{
+"text": "Home",
+"href": "https://www.ericebersole.org/"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.ericebersole.org/meet-eric.html"
+},
+{
+"text": "Newsletters",
+"href": "https://www.ericebersole.org/newsletters.html"
+},
+{
+"text": "Scholarships",
+"href": "https://www.ericebersole.org/scholarships.html"
+},
+{
+"text": "Services",
+"href": "https://www.ericebersole.org/scholarships.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ericebersole.org/volunteer.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ericebersole"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectEricEbersole"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/eric.ebersole.for.maryland/"
+},
+{
+"text": "[no text]",
+"href": "mailto:eric.ebersole@house.state.md.us"
+}
 ]

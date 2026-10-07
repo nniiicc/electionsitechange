@@ -1,20 +1,7 @@
-Category: Campaign Donation Update
-Campaign Donation Update
-Read More...
-Posted on 01 Aug 2026, 17:46 - Category: Campaign Donation Update
-Campaign Donation Update
-Read More...
-Posted on 29 Mar 2026, 9:12 - Category: Campaign Donation Update
-Fleming For AD131
-Hope and success for all people!
-Connect With Us
-Events
-Voluncheers For Democracy
-Creating postcards and making phone calls for local Democratic candidates
-10-23-2026
-Voluncheers For Democracy
-Creating postcards and making phone calls for local Democratic candidates
-10-06-2026
-Voluncheers For Democracy
-Creating postcards and making phone calls for local Democratic candidates
-09-23-2026
+Top Fleming For AD131 Hope and success for all people!
+About Issues Events Blog Volunteer Voting Information Contact Donate Category: Campaign Donation Update Campaign Donation Update Read More...
+Posted on 01 Aug 2026, 17:46 - Category: Campaign Donation Update Campaign Donation Update Read More...
+Posted on 29 Mar 2026, 9:12 - Category: Campaign Donation Update Pages: [1] Donate Volunteer Contact Latest Entries A WXXI-NPR article by By Rosemary Misdary, Published July 30, 2026 Finger Lakes Times op-ed on solar energy proposal in NY Shamieh Law and ICE Campaign Donation Update Back to Main Categories Campaign Donation Update Information News Connect With Us COUNTING DOWN TO Election Day Support the Campaign Events Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-23-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-06-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 09-23-2026 Read More...
+Help Us Win!
+Help us raise more money to win on Election Day.
+0 % $0 of $250000 Donate Now Facebook Privacy Terms Print Page Political advertisement paid for and approved by the candidate.

@@ -1,23 +1,106 @@
 [
-"https://facebook.com/repmccravy",
-"https://mccravyforhouse.com/",
-"https://mccravyforhouse.com/about",
-"https://mccravyforhouse.com/contact",
-"https://mccravyforhouse.com/donate",
-"https://mccravyforhouse.com/issues",
-"https://mccravyforhouse.com/privacy",
-"https://mccravyforhouse.com/record",
-"https://mccravyforhouse.com/terms",
-"https://mccravyforhouse.com/updates",
-"https://scstatehouse.gov/sess126_2025-2026/bills/3046.htm",
-"https://scstatehouse.gov/sess126_2025-2026/bills/3827.htm",
-"https://scstatehouse.gov/sess126_2025-2026/bills/4216.htm",
-"https://scvotes.gov/voters/2026prep",
-"https://secure.anedot.com/mccravy-for-house/donate",
-"https://secure.anedot.com/mccravy-for-house/donate?amount=100",
-"https://secure.anedot.com/mccravy-for-house/donate?amount=1000",
-"https://secure.anedot.com/mccravy-for-house/donate?amount=25",
-"https://secure.anedot.com/mccravy-for-house/donate?amount=250",
-"https://secure.anedot.com/mccravy-for-house/donate?amount=50",
-"https://secure.anedot.com/mccravy-for-house/donate?amount=500"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/mccravy-for-house/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/mccravy-for-house/donate?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/mccravy-for-house/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/mccravy-for-house/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/mccravy-for-house/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/mccravy-for-house/donate?amount=500"
+},
+{
+"text": "864.942.8501",
+"href": "tel:8649428501"
+},
+{
+"text": "About",
+"href": "https://www.mccravyforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mccravyforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.mccravyforhouse.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/repmccravy"
+},
+{
+"text": "Find your polling place & voting information",
+"href": "https://scvotes.gov/voters/2026prep/"
+},
+{
+"text": "GENERAL ELECTION Tue, Nov 3, 2026 ›",
+"href": "https://scvotes.gov/voters/2026prep/"
+},
+{
+"text": "H. 3046",
+"href": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3046.htm"
+},
+{
+"text": "H. 3827",
+"href": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3827.htm"
+},
+{
+"text": "H. 4216",
+"href": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4216.htm"
+},
+{
+"text": "Home",
+"href": "https://www.mccravyforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.mccravyforhouse.com/issues"
+},
+{
+"text": "Other Amount →",
+"href": "https://secure.anedot.com/mccravy-for-house/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mccravyforhouse.com/privacy"
+},
+{
+"text": "Record",
+"href": "https://www.mccravyforhouse.com/record"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.mccravyforhouse.com/terms"
+},
+{
+"text": "Updates",
+"href": "https://www.mccravyforhouse.com/updates"
+},
+{
+"text": "[image: John McCravy]",
+"href": "https://www.mccravyforhouse.com/"
+},
+{
+"text": "johnmccravy@schouse.gov",
+"href": "mailto:johnmccravy@schouse.gov"
+},
+{
+"text": "← Back to all updates",
+"href": "https://www.mccravyforhouse.com/updates"
+}
 ]

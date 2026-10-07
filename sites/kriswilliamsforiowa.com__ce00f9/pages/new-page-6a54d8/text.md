@@ -1,5 +1,4 @@
-learn more about
-Our Campaign’s Top Issues
-Like a lot of people, I see that the system is broken.
+Skip navigation menu Home About Take Action Issues News and press Events Endorsements Donate Home About Take Action Issues News and press Events Endorsements Donate learn more about Our Campaign’s Top Issues Like a lot of people, I see that the system is broken.
 It works great for big corporate interests and politicians, but it's failing our families, educators, and our workers.
 This campaign is focused on creating tangible improvements: better schools, affordable healthcare, and support for Main Street, not endless wars and corporate welfare.
+Defend Rights for All Iowans People over Profit Healthcare is a Right, Not a Luxury Fully Fund Great Public Schools Clean Iowa Water: Hold Polluters Accountable Universal Childcare True Democracy Defend Rights for All Iowans View more People over Profit View more Healthcare is a Right, Not a Luxury View more Fully Fund Great Public Schools View more Clean Iowa Water: Hold Polluters Accountable View more Universal Childcare View more True Democracy View more Volunteer Privacy Policy About Donate Contact Terms and Conditions kriswilliamsforiowa@gmail.com Powered by RUN! website builder Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app.

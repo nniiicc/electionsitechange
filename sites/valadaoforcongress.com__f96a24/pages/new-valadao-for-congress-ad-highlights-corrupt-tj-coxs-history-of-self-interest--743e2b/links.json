@@ -1,31 +1,126 @@
 [
-"http://mylemooreleader.com/142071",
-"https://congress.gov/bill/114th-congress/house-bill/2",
-"https://congress.gov/bill/114th-congress/senate-bill/612/text",
-"https://congress.gov/bill/115th-congress/house-bill/1892/text",
-"https://congress.gov/bill/115th-congress/house-bill/195",
-"https://facebook.com/ValadaoforCongress",
-"https://freebeacon.com/politics/ca-dem-who-owes-145000-in-back-taxes-blocks-tax-lien-disclosure-bill",
-"https://fresnobee.com/news/local/article240273921.html",
-"https://news.bloombergenvironment.com/environment-and-energy/california-democrat-divests-from-canadian-mining-company",
-"https://secure.winred.com/valadao-for-congress",
-"https://secure.winred.com/valadao-for-congress?amount=10",
-"https://secure.winred.com/valadao-for-congress?amount=25",
-"https://secure.winred.com/valadao-for-congress?amount=5",
-"https://secure.winred.com/valadao-for-congress?amount=50",
-"https://thelugarcenter.org/ourwork-53.html",
-"https://twitter.com/dgvaladao",
-"https://valadaoforcongress.com/",
-"https://valadaoforcongress.com/about-david",
-"https://valadaoforcongress.com/category/news",
-"https://valadaoforcongress.com/david-valadao-instead-of-helping-valley-water-situation-rep-tj-cox-harms-it-with-vote-fresno-bee-op-ed-8-25-20",
-"https://valadaoforcongress.com/inicio",
-"https://valadaoforcongress.com/issues",
-"https://valadaoforcongress.com/media",
-"https://valadaoforcongress.com/news",
-"https://valadaoforcongress.com/privacy-policy",
-"https://valadaoforcongress.com/showsupportrequestayardsign",
-"https://valadaoforcongress.com/valadao-campaign-releases-first-ad-highlighting-independent-bipartisan-record",
-"https://valadaoforcongress.com/voter-information",
-"https://youtube.com/watch?v=5al6-LKd9Ck&feature=youtu.be"
+{
+"text": "$10",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=50"
+},
+{
+"text": "About David",
+"href": "https://valadaoforcongress.com/about-david/"
+},
+{
+"text": "CLICK HERE TO WATCH THE AD",
+"href": "https://www.youtube.com/watch?v=5al6-LKd9Ck&feature=youtu.be"
+},
+{
+"text": "David Valadao: Instead of helping Valley water situation, Rep. TJ Cox harms it with vote – Fresno Bee Op-ed, 8/25/20",
+"href": "https://valadaoforcongress.com/david-valadao-instead-of-helping-valley-water-situation-rep-tj-cox-harms-it-with-vote-fresno-bee-op-ed-8-25-20/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/valadao-for-congress/"
+},
+{
+"text": "Español",
+"href": "https://valadaoforcongress.com/inicio/"
+},
+{
+"text": "Get Involved",
+"href": "https://valadaoforcongress.com/showsupportrequestayardsign/"
+},
+{
+"text": "Home",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://valadaoforcongress.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://valadaoforcongress.com/media/"
+},
+{
+"text": "News",
+"href": "https://valadaoforcongress.com/category/news/"
+},
+{
+"text": "News",
+"href": "https://valadaoforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://valadaoforcongress.com/privacy-policy"
+},
+{
+"text": "VALADAO CAMPAIGN RELEASES FIRST AD HIGHLIGHTING INDEPENDENT, BIPARTISAN RECORD",
+"href": "https://valadaoforcongress.com/valadao-campaign-releases-first-ad-highlighting-independent-bipartisan-record/"
+},
+{
+"text": "Voter Information",
+"href": "https://valadaoforcongress.com/voter-information/"
+},
+{
+"text": "[image]",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/dgvaladao"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ValadaoforCongress/"
+},
+{
+"text": "andrew@valadaoforcongress.com",
+"href": "mailto:andrew@valadaoforcongress.com"
+},
+{
+"text": "http://www.mylemooreleader.com/142071",
+"href": "http://www.mylemooreleader.com/142071"
+},
+{
+"text": "https://freebeacon.com/politics/ca-dem-who-owes-145000-in-back-taxes-blocks-tax-lien-disclosure-bill/",
+"href": "https://freebeacon.com/politics/ca-dem-who-owes-145000-in-back-taxes-blocks-tax-lien-disclosure-bill/"
+},
+{
+"text": "https://news.bloombergenvironment.com/environment-and-energy/california-democrat-divests-from-canadian-mining-company",
+"href": "https://news.bloombergenvironment.com/environment-and-energy/california-democrat-divests-from-canadian-mining-company"
+},
+{
+"text": "https://www.congress.gov/bill/114th-congress/house-bill/2",
+"href": "https://www.congress.gov/bill/114th-congress/house-bill/2"
+},
+{
+"text": "https://www.congress.gov/bill/114th-congress/senate-bill/612/text",
+"href": "https://www.congress.gov/bill/114th-congress/senate-bill/612/text"
+},
+{
+"text": "https://www.congress.gov/bill/115th-congress/house-bill/1892/text",
+"href": "https://www.congress.gov/bill/115th-congress/house-bill/1892/text"
+},
+{
+"text": "https://www.congress.gov/bill/115th-congress/house-bill/195",
+"href": "https://www.congress.gov/bill/115th-congress/house-bill/195"
+},
+{
+"text": "https://www.fresnobee.com/news/local/article240273921.html",
+"href": "https://www.fresnobee.com/news/local/article240273921.html"
+},
+{
+"text": "https://www.thelugarcenter.org/ourwork-53.html",
+"href": "https://www.thelugarcenter.org/ourwork-53.html"
+}
 ]

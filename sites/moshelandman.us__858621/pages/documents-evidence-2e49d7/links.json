@@ -1,56 +1,234 @@
 [
-"http://piscatawayconoytribe.com/",
-"https://8billiontrees.com/trees/how-many-trees-are-in-the-world",
-"https://assateaguepeopleofdelmarva.org/",
-"https://baltimoresun.com/news/bs-xpm-1994-10-16-1994289068-story.html",
-"https://bea.gov/data/gdp/gross-domestic-product",
-"https://brookings.edu/multi-chapter-report/tackling-the-tax-code-efficient-and-equitable-ways-to-raise-revenue",
-"https://chesapeakebay.net/discover/history/archaeology_and_native_americans",
-"https://climate-woodlands.extension.org/forest-ecosystems",
-"https://cnbc.com/2022/10/24/more-americans-live-paycheck-to-paycheck-as-inflation-outpaces-income.html",
-"https://commonwealthfund.org/publications/issue-briefs/2022/sep/state-us-health-insurance-2022-biennial-survey",
-"https://en.wikipedia.org/wiki/Accohannock_Indian_Tribe",
-"https://en.wikipedia.org/wiki/American_Revolution",
-"https://en.wikipedia.org/wiki/Baron_Baltimore",
-"https://en.wikipedia.org/wiki/Charles_I_of_England",
-"https://en.wikipedia.org/wiki/Henrietta_Maria",
-"https://en.wikipedia.org/wiki/Republic_of_Maryland",
-"https://environmentalpaper.org/2022/09/statement-monoculture-tree-plantations-are-not-forests",
-"https://equalitytrust.org.uk/about-inequality/impacts",
-"https://farmers.gov/conservation/soil-health",
-"https://fiscaldata.treasury.gov/americas-finance-guide/national-debt",
-"https://fool.com/the-ascent/personal-finance/articles/49-of-americans-couldnt-cover-a-400-emergency-expense-today-up-from-32-in-november",
-"https://georgetownclimate.org/media/governing-the-unlikely-comeback-of-cap-and-trade.html",
-"https://goci.maryland.gov/maryland-commission-on-indian-affairs",
-"https://google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSeal_of_Maryland&sa=D&sntz=1&usg=AOvVaw3EuY51slqPIbq4OgK5kEZy",
-"https://google.com/url?q=https%3A%2F%2Fglobalgreens.org%2F&sa=D&sntz=1&usg=AOvVaw0O3oLG8QeNPVhK87KCUWin",
-"https://google.com/url?q=https%3A%2F%2Fmhanational.org%2Fissues%2Fstate-mental-health-america&sa=D&sntz=1&usg=AOvVaw3DQ0a1qyuHlnR_oKvDWU55",
-"https://google.com/url?q=https%3A%2F%2Fmsa.maryland.gov%2Fmsa%2Fmdmanual%2F01glance%2Fnative%2Fhtml%2F01native.html&sa=D&sntz=1&usg=AOvVaw1N1ByTe42bHevGway-L5If",
-"https://google.com/url?q=https%3A%2F%2Fwww.cleanmining.co%2F&sa=D&sntz=1&usg=AOvVaw0V8ibvEPzelrVyiAmpWH-V",
-"https://google.com/url?q=https%3A%2F%2Fwww.mdgreens.org%2F&sa=D&sntz=1&usg=AOvVaw07US05-jg6UjJmVvTjsZai",
-"https://google.com/url?q=https%3A%2F%2Fwww.naiopmd.org%2Fnews%2Funderstanding-marylands-carbon-footprint%2F&sa=D&sntz=1&usg=AOvVaw1PlwM8uM_7V8-KpbvgVHZh",
-"https://greenmaps.us/moshe-landman",
-"https://moneygeek.com/insurance/health/analysis/americans-without-coverage",
-"https://moshelandman.us/10-key-values",
-"https://moshelandman.us/about-moshe",
-"https://moshelandman.us/contact-us",
-"https://moshelandman.us/documents-evidence",
-"https://moshelandman.us/home",
-"https://moshelandman.us/maryland",
-"https://moshelandman.us/news-social-media",
-"https://moshelandman.us/the-green-new-deal",
-"https://moshelandman.us/the-green-party",
-"https://moshelandman.us/the-issues",
-"https://moshelandman.us/vote-support-us",
-"https://pgpf.org/blog/2023/01/why-are-americans-paying-more-for-healthcare",
-"https://piie.com/microsites/how-fix-economic-inequality",
-"https://piscatawayindians.com/",
-"https://pocomokeindiannation.org/",
-"https://rggi.org/",
-"https://statista.com/statistics/203961/wealth-distribution-for-the-us",
-"https://statista.com/statistics/263591/gross-domestic-product-gdp-of-the-united-states",
-"https://treepeople.org/22-benefits-of-trees",
-"https://turtletracks.org/",
-"https://youtube.com/watch?v=c7xlTRW8ZLA",
-"https://youtube.com/watch?v=xguam0TKMw8&feature=youtu.be"
+{
+"text": "$34 trillion in federal debt",
+"href": "https://fiscaldata.treasury.gov/americas-finance-guide/national-debt/"
+},
+{
+"text": "10 Key Values",
+"href": "https://www.moshelandman.us/10-key-values"
+},
+{
+"text": "43% of adults are inadequately insured",
+"href": "https://www.commonwealthfund.org/publications/issue-briefs/2022/sep/state-us-health-insurance-2022-biennial-survey#:~:text=Forty%2Dthree%20percent%20of%20working,to%20health%20care%20%2823%25%29."
+},
+{
+"text": "49% cannot cover a $400 emergency expense",
+"href": "https://www.fool.com/the-ascent/personal-finance/articles/49-of-americans-couldnt-cover-a-400-emergency-expense-today-up-from-32-in-november/"
+},
+{
+"text": "63% of Americans are living paycheck to paycheck",
+"href": "https://www.cnbc.com/2022/10/24/more-americans-live-paycheck-to-paycheck-as-inflation-outpaces-income.html"
+},
+{
+"text": "About Moshe",
+"href": "https://www.moshelandman.us/about-moshe"
+},
+{
+"text": "Accohannock Indian Tribe",
+"href": "https://en.wikipedia.org/wiki/Accohannock_Indian_Tribe"
+},
+{
+"text": "American Revolution",
+"href": "https://en.wikipedia.org/wiki/American_Revolution"
+},
+{
+"text": "Assateague Peoples Tribe",
+"href": "https://assateaguepeopleofdelmarva.org/"
+},
+{
+"text": "Barons Baltimore",
+"href": "https://en.wikipedia.org/wiki/Baron_Baltimore"
+},
+{
+"text": "British King Charles I",
+"href": "https://en.wikipedia.org/wiki/Charles_I_of_England"
+},
+{
+"text": "Campaign to Elect Moshe Landman",
+"href": "https://greenmaps.us/moshe-landman"
+},
+{
+"text": "Cedarville Band of Piscataway Indians",
+"href": "https://www.piscatawayindians.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.moshelandman.us/contact-us"
+},
+{
+"text": "Documents & Evidence",
+"href": "https://www.moshelandman.us/documents-evidence"
+},
+{
+"text": "Forests are critical for healthy ecosystems",
+"href": "https://www.treepeople.org/22-benefits-of-trees/"
+},
+{
+"text": "Gross Domestic Product",
+"href": "https://www.bea.gov/data/gdp/gross-domestic-product"
+},
+{
+"text": "Home",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "Landman for Congress",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "Maryland",
+"href": "https://www.moshelandman.us/maryland"
+},
+{
+"text": "Maryland Commission on Indian Affairs",
+"href": "https://goci.maryland.gov/maryland-commission-on-indian-affairs/"
+},
+{
+"text": "Maryland was originally inhabited by native tribes for thousands of years",
+"href": "https://www.chesapeakebay.net/discover/history/archaeology_and_native_americans#:~:text=Paleo%2DIndians&text=By%201%2C000%20B.C.%20Maryland%20had,colder%20than%20it%20is%20now."
+},
+{
+"text": "Nause-Waiwash Band of Indians",
+"href": "https://turtletracks.org/"
+},
+{
+"text": "Nearly 30 million Americans have no health insurance",
+"href": "https://www.moneygeek.com/insurance/health/analysis/americans-without-coverage/#:~:text=Total%20Americans%20Without%20Health%20Insurance,have%20the%20highest%20uninsured%20rate."
+},
+{
+"text": "News & Social Media",
+"href": "https://www.moshelandman.us/news-social-media"
+},
+{
+"text": "Piscataway Conoy Tribe",
+"href": "http://www.piscatawayconoytribe.com/"
+},
+{
+"text": "Pocomoke Indian Nation",
+"href": "https://pocomokeindiannation.org/"
+},
+{
+"text": "Queen Henrietta Maria",
+"href": "https://en.wikipedia.org/wiki/Henrietta_Maria"
+},
+{
+"text": "Regional Greenhouse Gas Initiative",
+"href": "https://www.rggi.org/"
+},
+{
+"text": "Republic of Maryland in Africa",
+"href": "https://en.wikipedia.org/wiki/Republic_of_Maryland"
+},
+{
+"text": "The Green New Deal",
+"href": "https://www.moshelandman.us/the-green-new-deal"
+},
+{
+"text": "The Green Party",
+"href": "https://www.moshelandman.us/the-green-party"
+},
+{
+"text": "The Issues",
+"href": "https://www.moshelandman.us/the-issues"
+},
+{
+"text": "The Piscataway Indian Nation",
+"href": "https://www.piscatawayindians.com/"
+},
+{
+"text": "The richest 10% of Americans own 68% of the nation's wealth, while the bottom 50% only have 3.3% of our wealth",
+"href": "https://www.statista.com/statistics/203961/wealth-distribution-for-the-us/"
+},
+{
+"text": "Vote & Support Us",
+"href": "https://www.moshelandman.us/vote-support-us"
+},
+{
+"text": "We have 228 billion trees, but should be at 300+ billion. China has planted over 66 billion trees (140 billion total) and plans to cover over 30% of its land with forests by 2050.",
+"href": "https://8billiontrees.com/trees/how-many-trees-are-in-the-world/"
+},
+{
+"text": "We spend too much per capita on healthcare",
+"href": "https://www.pgpf.org/blog/2023/01/why-are-americans-paying-more-for-healthcare"
+},
+{
+"text": "Youghiogheny River Band of Shawnee Indian",
+"href": "https://www.baltimoresun.com/news/bs-xpm-1994-10-16-1994289068-story.html"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSeal_of_Maryland&sa=D&sntz=1&usg=AOvVaw3EuY51slqPIbq4OgK5kEZy"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fglobalgreens.org%2F&sa=D&sntz=1&usg=AOvVaw0O3oLG8QeNPVhK87KCUWin"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fmhanational.org%2Fissues%2Fstate-mental-health-america&sa=D&sntz=1&usg=AOvVaw3DQ0a1qyuHlnR_oKvDWU55"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fmsa.maryland.gov%2Fmsa%2Fmdmanual%2F01glance%2Fnative%2Fhtml%2F01native.html&sa=D&sntz=1&usg=AOvVaw1N1ByTe42bHevGway-L5If"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.cleanmining.co%2F&sa=D&sntz=1&usg=AOvVaw0V8ibvEPzelrVyiAmpWH-V"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.mdgreens.org%2F&sa=D&sntz=1&usg=AOvVaw07US05-jg6UjJmVvTjsZai"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.naiopmd.org%2Fnews%2Funderstanding-marylands-carbon-footprint%2F&sa=D&sntz=1&usg=AOvVaw1PlwM8uM_7V8-KpbvgVHZh"
+},
+{
+"text": "[image]",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "[image]Landman for Congress",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "cap-and-trade system",
+"href": "https://www.georgetownclimate.org/media/governing-the-unlikely-comeback-of-cap-and-trade.html"
+},
+{
+"text": "economic transformation",
+"href": "https://www.youtube.com/watch?v=xguam0TKMw8&feature=youtu.be"
+},
+{
+"text": "enrich soils",
+"href": "https://www.farmers.gov/conservation/soil-health"
+},
+{
+"text": "estimated 2024 US GDP is $28T",
+"href": "https://www.statista.com/statistics/263591/gross-domestic-product-gdp-of-the-united-states/"
+},
+{
+"text": "plant monoculture tree farms",
+"href": "https://environmentalpaper.org/2022/09/statement-monoculture-tree-plantations-are-not-forests/"
+},
+{
+"text": "rebuild entire biodiverse forest ecosystems",
+"href": "https://climate-woodlands.extension.org/forest-ecosystems/#:~:text=Forest%20ecosystems%20are%20the%20combination,trees%20as%20the%20dominant%20vegetation."
+},
+{
+"text": "rebuild our middle class and restore a healthy national wealth distribution matrix",
+"href": "https://www.piie.com/microsites/how-fix-economic-inequality"
+},
+{
+"text": "reformation of federal and state tax codes and laws",
+"href": "https://www.brookings.edu/multi-chapter-report/tackling-the-tax-code-efficient-and-equitable-ways-to-raise-revenue/"
+},
+{
+"text": "we need to upgrade and more than double the size of our entire electric grid with high-speed and high-capacity electricity transmission lines",
+"href": "https://www.youtube.com/watch?v=c7xlTRW8ZLA"
+},
+{
+"text": "wealth distribution crisis",
+"href": "https://equalitytrust.org.uk/about-inequality/impacts"
+}
 ]

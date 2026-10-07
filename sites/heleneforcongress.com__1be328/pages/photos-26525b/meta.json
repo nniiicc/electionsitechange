@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.heleneforcongress.com/photos",
- "paid_for_by": null,
+ "fingerprint": "700fa50fd806b6e999da75b4d34e0f21c9cc5d20",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": []
 }

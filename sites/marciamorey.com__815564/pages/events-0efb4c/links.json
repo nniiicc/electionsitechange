@@ -1,17 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Marcia%E2%80%99s+Halloween+Spooktacular&dates=20231029T190000Z%2F20231029T210000Z&location=914+West+Main+Street%2C+Durham%2C+NC+27701%2C+United+States",
-"http://maps.google.com/?q=914+West+Main+Street+Durham%2C+NC+27701+United+States",
-"https://facebook.com/DurhamRep",
-"https://instagram.com/marcia.morey.1",
-"https://marciamorey.com/",
-"https://marciamorey.com/cart",
-"https://marciamorey.com/endorsements",
-"https://marciamorey.com/events",
-"https://marciamorey.com/events/event-one-ldrra",
-"https://marciamorey.com/events/event-one-ldrra?format=ical",
-"https://marciamorey.com/issues",
-"https://marciamorey.com/joinus",
-"https://marciamorey.com/meetmarcia",
-"https://secure.ngpvan.com/gONdpa_r2EGFPFYWnewa4Q2",
-"https://x.com/marciahmorey"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=914+west+main+street+durham%2C+nc+27701+united+states"
+},
+{
+"text": "0",
+"href": "https://www.marciamorey.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/gONdpa_r2EGFPFYWnewa4Q2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.marciamorey.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.marciamorey.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DurhamRep"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Marcia%E2%80%99s+Halloween+Spooktacular&dates=20231029T190000Z%2F20231029T210000Z&location=914+West+Main+Street%2C+Durham%2C+NC+27701%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.marciamorey.com/events/event-one-ldrra?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/marcia.morey.1/"
+},
+{
+"text": "Issues",
+"href": "https://www.marciamorey.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.marciamorey.com/joinus"
+},
+{
+"text": "Marcia’s Halloween Spooktacular",
+"href": "https://www.marciamorey.com/events/event-one-ldrra"
+},
+{
+"text": "Meet Marcia",
+"href": "https://www.marciamorey.com/meetmarcia"
+},
+{
+"text": "View Event →",
+"href": "https://www.marciamorey.com/events/event-one-ldrra"
+},
+{
+"text": "X",
+"href": "https://x.com/marciahmorey"
+},
+{
+"text": "[image: Marcia Morey - NC House District 30]",
+"href": "https://www.marciamorey.com/"
+},
+{
+"text": "[image: Marcia’s Halloween Spooktacular]",
+"href": "https://www.marciamorey.com/events/event-one-ldrra"
+},
+{
+"text": "campaign@marciamorey.com",
+"href": "mailto:campaign@marciamorey.com"
+}
 ]

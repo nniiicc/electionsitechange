@@ -1,7 +1,11 @@
 {
  "description": "If you need to request a mail in ballot, we recommend doing so by October 20th to ensure it gets back by Election Day to be counted.",
  "final_url": "https://www.walkerforward.com/events/last-day-to-request-absentee-by-mail",
+ "fingerprint": "134faf9de9be08b390150f7330f06fcf6f363a0e",
+ "format": 3,
  "paid_for_by": "Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward",
- "title": "Last Day to Request Absentee By Mail \u2014 Walker Forward",
- "years_mentioned": []
+ "title": "Last Day to Request Absentee By Mail — Walker Forward",
+ "years_mentioned": [
+  "2026"
+ ]
 }

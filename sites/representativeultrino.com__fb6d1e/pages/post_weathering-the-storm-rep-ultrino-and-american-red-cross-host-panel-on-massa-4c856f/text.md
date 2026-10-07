@@ -1,20 +1,13 @@
-Weathering the Storm: Rep.
-Ultrino and American Red Cross Host Panel on Massachusetts’ Disaster Preparedness
-BOSTON – Yesterday, Representative Steven Ultrino (D-Malden) and the Joint Committee on Emergency Preparedness and Management, in partnership with the American Red Cross of Massachusetts, held a briefing on disaster preparedness in Massachusetts.
+top of page Home Meet Steve Meet the Team Contact Steve Policy Legislative Wins Issues Funding Resources Newsroom More Use tab to navigate through the menu items.
+All Posts Press Releases Community Updates Grants & Other Resources Achievements Newsletters Events Wellness Wednesday Search Weathering the Storm: Rep.
+Ultrino and American Red Cross Host Panel on Massachusetts’ Disaster Preparedness Steven Ultrino Sep 25, 2025 2 min read BOSTON – Yesterday, Representative Steven Ultrino (D-Malden) and the Joint Committee on Emergency Preparedness and Management, in partnership with the American Red Cross of Massachusetts, held a briefing on disaster preparedness in Massachusetts.
 The event, “Weathering the Storm: How Prepared is Massachusetts in the Age of Continuous Disaster Response?”, took place at the State House in Room 428 from 1:00 to 2:00 p.m.
-The panel brought together a distinguished group of leaders in meteorology, emergency management, and disaster response, including:
-Dawn Brantley, Director, Massachusetts Emergency Management Agency
-Ryan Avery, Regional Disaster Officer, Red Cross of Massachusetts
-Matt Noyes, Meteorologist and Co-Founder of 1° Outside
-The discussion began with comments from Holly Grant, CEO of the American Red Cross of Massachusetts, and included remarks from Representative Ultrino, House Chair of the Joint Committee on Emergency Preparedness and Management.
-“With the uncertainty on Federal level, we are closely monitoring the situation and continue to work closely with and build a strong network with agencies and advocates,” said Representative Steven Ultrino.
-“Because emergencies affect everyone it is going to take partnerships across all levels of our government along with collaboration with nonprofits and the private sector for us to respond and recover from future disasters.”
-Panelists underscored the urgency of preparing for increasingly frequent and severe disasters.
+The panel brought together a distinguished group of leaders in meteorology, emergency management, and disaster response, including: Dawn Brantley, Director, Massachusetts Emergency Management Agency Ryan Avery, Regional Disaster Officer, Red Cross of Massachusetts Matt Noyes, Meteorologist and Co-Founder of 1° Outside The discussion began with comments from Holly Grant, CEO of the American Red Cross of Massachusetts, and included remarks from Representative Ultrino, House Chair of the Joint Committee on Emergency Preparedness and Management.
+“With the uncertainty on Federal level, we are closely monitoring the situation and continue to work closely with and build a strong network with agencies and advocates,” said Representative Steven Ultrino .
+“Because emergencies affect everyone it is going to take partnerships across all levels of our government along with collaboration with nonprofits and the private sector for us to respond and recover from future disasters.” Panelists underscored the urgency of preparing for increasingly frequent and severe disasters.
 Noyes noted that major storms are no longer a question of “if” but “when,” warning that a Category 3 hurricane striking Massachusetts today could cause unprecedented damage, long-term power outages, and billions in costs.
 Brantley pointed to the rapid warming of the Gulf of Maine, which fuels stronger tropical storms, and highlighted rising wildfire activity across the state, including over 400 brush fires during a six-week period in 2022.
-Representative Ultrino added that the United States now averages 23 billion-dollar disasters annually, compared to just three in the 1980s, with damages over the past five years totaling $750 billion, more than double the cost of disasters in the entire 1990s.
-###
-Press Contact:
-Antonio Nunziata, Legislative Aide
-Office of State Representative Steven Ultrino
-(617) 722-2877
+Representative Ultrino added that the United States now averages 23 billion-dollar disasters annually, compared to just three in the #s, with damages over the past five years totaling $750 billion, more than double the cost of disasters in the entire #s.
+### Press Contact: Antonio Nunziata, Legislative Aide Office of State Representative Steven Ultrino Antonio.Nunziata@mahouse.gov (617) 722-2877 Tags: Press Release Press Releases Recent Posts See All MALDEN DELEGATION SUPPORTS HOUSE ECONOMIC DEVELOPMENT BILL TO DRIVE GROWTH ACROSS THE COMMONWEALTH Malden House Delegation Votes to Pass FY27 Budget BOSTON - Thursday, April 30, 2026 - This Wednesday, the Massachusetts House of Representatives passed H.5500, the Fiscal Year 2027 (FY27) budget.
+Funded at $# billion, the House’s FY27 budget addr MASSACHUSETTS LEADING MANUFACTURERS HONORED BY LEGISLATORS AT 10TH ANNUAL MANUFACTURING AWARDS CEREMONY AT GILLETTE STADIUM Log In Sign Up Thanks for submitting!
+Tel: (617) 722-2877 Email: Steven.Ultrino@MAhouse.gov State House, Room 174, Boston, MA 02133 © # Paid for by The Committee To Elect Steve Ultrino bottom of page

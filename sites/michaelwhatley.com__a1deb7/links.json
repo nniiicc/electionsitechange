@@ -1,20 +1,110 @@
 [
-"https://facebook.com/whatleyfornc",
-"https://instagram.com/whatleyfornc",
-"https://michaelwhatley.com/",
-"https://michaelwhatley.com/about",
-"https://michaelwhatley.com/issues",
-"https://michaelwhatley.com/media-tool-kit",
-"https://michaelwhatley.com/mobile-terms",
-"https://michaelwhatley.com/news",
-"https://michaelwhatley.com/privacy-policy",
-"https://michaelwhatley.com/terms-and-conditions",
-"https://michaelwhatley.com/volunteer",
-"https://secure.winred.com/whatley-for-senate/donate",
-"https://secure.winred.com/whatley-for-senate/donate?amount=100",
-"https://secure.winred.com/whatley-for-senate/donate?amount=25",
-"https://secure.winred.com/whatley-for-senate/donate?amount=50",
-"https://secure.winred.com/whatley-for-senate/donate?amount=500",
-"https://secure.winred.com/whatley-for-senate/storefront",
-"https://x.com/WhatleyNC"
+{
+"text": "$100",
+"href": "https://secure.winred.com/whatley-for-senate/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/whatley-for-senate/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/whatley-for-senate/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/whatley-for-senate/donate?amount=500"
+},
+{
+"text": "About",
+"href": "https://michaelwhatley.com/about/"
+},
+{
+"text": "Click to See More Issues",
+"href": "https://michaelwhatley.com/issues/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/whatley-for-senate/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/whatleyfornc"
+},
+{
+"text": "Home",
+"href": "https://michaelwhatley.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/whatleyfornc/"
+},
+{
+"text": "Issues",
+"href": "https://michaelwhatley.com/issues/"
+},
+{
+"text": "Media Tool Kit",
+"href": "https://michaelwhatley.com/media-tool-kit/"
+},
+{
+"text": "Mobile Terms",
+"href": "https://michaelwhatley.com/mobile-terms/"
+},
+{
+"text": "News",
+"href": "https://michaelwhatley.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://michaelwhatley.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://michaelwhatley.com/about/"
+},
+{
+"text": "Read More",
+"href": "https://michaelwhatley.com/issues/#economy"
+},
+{
+"text": "Read More",
+"href": "https://michaelwhatley.com/issues/#hurricane"
+},
+{
+"text": "Read More",
+"href": "https://michaelwhatley.com/issues/#immigration"
+},
+{
+"text": "Read More",
+"href": "https://michaelwhatley.com/issues/#safe"
+},
+{
+"text": "Read More",
+"href": "https://michaelwhatley.com/issues/#trump"
+},
+{
+"text": "Read More",
+"href": "https://michaelwhatley.com/issues/#values"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/whatley-for-senate/storefront/"
+},
+{
+"text": "Terms of Use",
+"href": "https://michaelwhatley.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://michaelwhatley.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/WhatleyNC"
+},
+{
+"text": "[image]",
+"href": "https://michaelwhatley.com"
+}
 ]

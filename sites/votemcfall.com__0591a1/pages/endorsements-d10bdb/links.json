@@ -1,30 +1,110 @@
 [
-"https://carpenters.org/election-center",
-"https://equalitymiaction.org/2026-endorsements",
-"https://facebook.com/VoteMcFall",
-"https://facebook.com/p/Hazel-Park-Firefighters-Local-1414-100063439797234",
-"https://inseparable.us/",
-"https://instagram.com/votemcfall",
-"https://miafscme.org/",
-"https://secure.actblue.com/donate/mcfall2026",
-"https://secure.actblue.com/donate/mcfall2026?amount=100",
-"https://secure.actblue.com/donate/mcfall2026?amount=1225",
-"https://secure.actblue.com/donate/mcfall2026?amount=25",
-"https://secure.actblue.com/donate/mcfall2026?amount=250",
-"https://secure.actblue.com/donate/mcfall2026?amount=50",
-"https://secure.actblue.com/donate/mcfall2026?amount=500",
-"https://seiumi.org/",
-"https://shyft.wtf/",
-"https://unityfundmi.com/our-candidates",
-"https://votemcfall.com/",
-"https://votemcfall.com/contact",
-"https://votemcfall.com/cookie-policy",
-"https://votemcfall.com/district",
-"https://votemcfall.com/endorsements",
-"https://votemcfall.com/media-coverage",
-"https://votemcfall.com/meet-mike-mcfall",
-"https://votemcfall.com/priorities",
-"https://votemcfall.com/privacy-policy",
-"https://votemcfall.com/volunteer",
-"https://votemcfall.com/yard-sign"
+{
+"text": "$1,225",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=1225"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=500"
+},
+{
+"text": "Contact",
+"href": "https://votemcfall.com/contact/"
+},
+{
+"text": "District",
+"href": "https://votemcfall.com/district/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mcfall2026"
+},
+{
+"text": "Endorsements",
+"href": "https://votemcfall.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteMcFall"
+},
+{
+"text": "Home",
+"href": "https://votemcfall.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votemcfall/"
+},
+{
+"text": "Media",
+"href": "https://votemcfall.com/media-coverage/"
+},
+{
+"text": "Meet Mike",
+"href": "https://votemcfall.com/meet-mike-mcfall/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mcfall2026"
+},
+{
+"text": "Priorities",
+"href": "https://votemcfall.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://votemcfall.com/volunteer/"
+},
+{
+"text": "Yard Signs",
+"href": "https://votemcfall.com/yard-sign/"
+},
+{
+"text": "[image: A campaign logo for Mike McFall featuring his name in bold text. The logo includes an outline of the state of Michigan in orange, positioned to the right of the text. The slogan \"FOR STATE REPRESENTATIVE\" is displayed underneath in a smaller font.]",
+"href": "https://votemcfall.com"
+},
+{
+"text": "[image: A logo featuring the initials \"EQ MI\" in blue and the text \"EQUALITY MICHIGAN ACTION NETWORK\" with \"EQUALITY\" in pink and \"ACTION NETWORK\" in blue, all set against a white background.]",
+"href": "https://equalitymiaction.org/2026-endorsements/"
+},
+{
+"text": "[image: The image features the text \"UNITY FUND\" in multicolored letters, above the word \"ENDORSED\" in bold gray letters. The colors of \"UNITY FUND\" include purple, green, yellow, and orange, set against a white background.]",
+"href": "https://unityfundmi.com/our-candidates"
+},
+{
+"text": "[image]",
+"href": "https://miafscme.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.carpenters.org/election-center/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/p/Hazel-Park-Firefighters-Local-1414-100063439797234/"
+},
+{
+"text": "[image]",
+"href": "https://www.inseparable.us/"
+},
+{
+"text": "[image]",
+"href": "https://www.seiumi.org/"
+}
 ]

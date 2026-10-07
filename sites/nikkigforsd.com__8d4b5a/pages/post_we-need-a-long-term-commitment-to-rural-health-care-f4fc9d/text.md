@@ -1,5 +1,5 @@
-We Need a Long-Term Commitment to Rural Health Care
-One of the defining elements of my career over the last many years is a commitment to investing in and sustaining our rural way of life in South Dakota, which includes protecting access to rural health care.
+top of page NIKKI G FOR SD DONATE HOME PRIORITIES ABOUT EVENTS NEWS ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
+All Posts Search We Need a Long-Term Commitment to Rural Health Care press2950 Aug 19 2 min read One of the defining elements of my career over the last many years is a commitment to investing in and sustaining our rural way of life in South Dakota, which includes protecting access to rural health care.
 It is one of the reasons I decided to run for Congress.
 The “Big Beautiful Bill” included an investment in rural health care that is reason for both optimism and a concern we could let an historic opportunity pass us by.
 Let me back up to explain what I mean.
@@ -16,3 +16,7 @@ Or will this historic rural health investment flow into the pockets of health te
 Will it simply disappear as quickly as it arrived?
 If I am elected to be South Dakota’s voice in Congress, sustaining access to rural health care will be a top priority.
 And I will be committed to monitoring the investments being made through the Rural Health Transformation Fund to ensure that we are taking the lessons learned to build a stronger rural health care system that can be sustained for the long haul.
+Recent Posts See All Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
+As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling South Dakotans Deserve Clear, Secure Elections With just # days until Election Day, and 9 until early voting, South Dakota voters should be able to trust that the rules governing their elections are clear, consistent, and secure.
+Instead, we are Contact Us Nikki G for SD P.O.
+BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

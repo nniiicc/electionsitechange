@@ -1,4 +1,4 @@
-No public financing for this campaign!
+Search this site Embedded Files Skip to main content Skip to navigation rwkarp.com Home Issues My Reform Agenda Education Reform Affordability Learn about Bob Karp Bob's Voter Guide Statement Gail Griffin In Her Own Words About Contact Us Resources Signs Graphics Texting Op-In Mobile Terms of Service Subscribe to newsletter rwkarp.com Home Issues My Reform Agenda Education Reform Affordability Learn about Bob Karp Bob's Voter Guide Statement Gail Griffin In Her Own Words About Contact Us Resources Signs Graphics Texting Op-In Mobile Terms of Service Subscribe to newsletter More Home Issues My Reform Agenda Education Reform Affordability Learn about Bob Karp Bob's Voter Guide Statement Gail Griffin In Her Own Words About Contact Us Resources Signs Graphics Texting Op-In Mobile Terms of Service Subscribe to newsletter About No public financing for this campaign!
 I must raise every dollar to compete against Gail Griffin.
-Click the DONATE button to donate online at ActBlue.com
-Contact me: email bobkarp2026@gmail.com
+Click the DONATE button to donate online at ActBlue.com Contact me: email bobkarp2026@gmail.com (C) Robert W Karp # Paid for by Bob Karp for AZ Senate, authorized by Bob Karp Contact the campaign at bobkarp2026@gmail.com 2069 Kaleigh Ct.
+Sierra Vista, AZ 85635, 520-559-3835 Our privacy policy: https://tinyurl.com/3dxf7cb3 Google Sites Report abuse Page details Page updated Google Sites Report abuse

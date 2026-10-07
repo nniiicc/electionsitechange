@@ -1,5 +1,4 @@
-Fellow Veterans
-Later in my father’s life, I thought it would be a good thing to make a shadow box to display the medals that he received in WWII.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Dad’s Purple Heart Fellow Veterans Later in my father’s life, I thought it would be a good thing to make a shadow box to display the medals that he received in WWII.
 After contacting the VA, we got a set of medals and built the display for a Christmas present in 2004.
 Dad had told us many stories about being in the Navy as a Torpedo-man aboard a PT Boat tender named the “Oyster Bay” in the South Pacific.
 The story-telling became an important part of our camping trips as well.
@@ -26,7 +25,7 @@ One man there that day seemed to recognize dad for some reason.
 Being a Torpedo-man, dad had been on most of the PT Boats loading and arming torpedoes.
 This Veteran was on one of the PT Boats during the Kamikaze attack.
 He and Dad traded stories for a while, and I had to ask what it was like to have thousand pound bomb go off forty yards away?
-Both he and Dad said almost at the same time, “No, it was forty feet”.
+Both he and Dad said almost at the same time, “No, it was forty feet ”.
 The bomb had gone off just below the surface of the water, stowed in the side of dad’s ship, and flipped one of the PT Boats over.
 All of a sudden the stories that Dad had told us about his time in the navy were all true.
 Every one of them.
@@ -42,5 +41,5 @@ My father confided some of the demons that he lived with in his life after WWII.
 They included what happened to his fellow Torpedo-man, firing a torpedo from a PT Boat himself that sank a Japanese destroyer, and getting blown off the same PT Boat trying to get away, just to name a few.
 The one thing that I will remember for the rest of my life, was that Dad told me that there wasn’t a single story that he told my family that was made up.
 One of the greatest things I may have done for my father was listen and believe that what he went through was true.
-With Honor and Respect Dad
-Bob Niemeyer
+With Honor and Respect Dad Bob Niemeyer Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

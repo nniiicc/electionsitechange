@@ -1,7 +1,9 @@
 {
  "description": "- Read the latest news and updates from Bobby Charles for Maine Governor campaign.",
  "final_url": "https://www.bobbyformaine.com/news/bobby-charles-for-governor-campaign-to-hold-town-hall-with-new-hampshire-state-sen-dan-innis-in-kennebunkport-on-thursday",
- "paid_for_by": null,
+ "fingerprint": "623ee2fffe97f95af634f763fe1993598a4b296d",
+ "format": 3,
+ "paid_for_by": "authorized by Bobby Charles for Maine Governor Campaign Committee",
  "title": "| Bobby Charles for Maine",
  "years_mentioned": [
   "2026"

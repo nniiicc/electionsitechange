@@ -1,14 +1,54 @@
 [
-"https://facebook.com/GinaMittenForMissouri",
-"https://forms.gle/CssvmcMxTkDUHjz5A",
-"https://ginamitten.com/",
-"https://ginamitten.com/cart",
-"https://ginamitten.com/contact-us",
-"https://ginamitten.com/endorsements",
-"https://ginamitten.com/meet-gina",
-"https://ginamitten.com/priorities",
-"https://ginamitten.com/truth",
-"https://instagram.com/mitten4mo",
-"https://secure.actblue.com/donate/mitten4missouri-website",
-"https://youtube.com/@Mitten4Missouri"
+{
+"text": "0",
+"href": "https://www.ginamitten.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.ginamitten.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website"
+},
+{
+"text": "DONATE→",
+"href": "https://secure.actblue.com/donate/mitten4missouri-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ginamitten.com/endorsements"
+},
+{
+"text": "Exposing the lies",
+"href": "https://www.ginamitten.com/truth"
+},
+{
+"text": "Meet Gina",
+"href": "https://www.ginamitten.com/meet-gina"
+},
+{
+"text": "Priorities",
+"href": "https://www.ginamitten.com/priorities"
+},
+{
+"text": "VOLUNTEER→",
+"href": "https://forms.gle/CssvmcMxTkDUHjz5A"
+},
+{
+"text": "[image: Gina Mitten for State Senate]",
+"href": "https://www.ginamitten.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GinaMittenForMissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mitten4mo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Mitten4Missouri"
+}
 ]

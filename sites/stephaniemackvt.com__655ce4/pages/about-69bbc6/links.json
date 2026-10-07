@@ -1,7 +1,50 @@
 [
-"https://stephaniemackvt.com/",
-"https://stephaniemackvt.com/about",
-"https://stephaniemackvt.com/blog",
-"https://stephaniemackvt.com/category/campaign-shop",
-"https://stephaniemackvt.com/event-list"
+{
+"text": "About",
+"href": "https://www.stephaniemackvt.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.stephaniemackvt.com/blog"
+},
+{
+"text": "Business and Financial Experience",
+"href": "https://www.stephaniemackvt.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Entrepreneur and Community Member",
+"href": "https://www.stephaniemackvt.com/about"
+},
+{
+"text": "Events",
+"href": "https://www.stephaniemackvt.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Merch",
+"href": "https://www.stephaniemackvt.com/category/campaign-shop"
+},
+{
+"text": "My Mission",
+"href": "https://www.stephaniemackvt.com/about"
+},
+{
+"text": "Staying Connected With Constituents",
+"href": "https://www.stephaniemackvt.com/about"
+},
+{
+"text": "VT HOUSE • CHITTENDEN 24",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Why I’m Running",
+"href": "https://www.stephaniemackvt.com/about"
+}
 ]

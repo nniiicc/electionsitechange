@@ -1,15 +1,62 @@
 [
-"https://facebook.com/KCforStateRep",
-"https://kcforstaterep.com/",
-"https://kcforstaterep.com/about",
-"https://kcforstaterep.com/issues",
-"https://kcforstaterep.com/privacy",
-"https://kcforstaterep.com/terms",
-"https://kcforstaterep.com/volunteer",
-"https://secure.anedot.com/kc-tomlinson-for-state-rep/donate",
-"https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=100",
-"https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=25",
-"https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=250",
-"https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=50",
-"https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=500"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/kc-tomlinson-for-state-rep/donate?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/kc-tomlinson-for-state-rep/donate"
+},
+{
+"text": "Home",
+"href": "https://www.kcforstaterep.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kcforstaterep.com/issues/"
+},
+{
+"text": "Meet KC",
+"href": "https://www.kcforstaterep.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/kc-tomlinson-for-state-rep/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kcforstaterep.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.kcforstaterep.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kcforstaterep.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/KCforStateRep"
+},
+{
+"text": "[image]",
+"href": "https://www.kcforstaterep.com/"
+}
 ]

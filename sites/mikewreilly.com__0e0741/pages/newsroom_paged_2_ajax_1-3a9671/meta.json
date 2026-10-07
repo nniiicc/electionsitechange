@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://mikewreilly.com/newsroom/page/2/?ajax=1",
- "paid_for_by": null,
+ "fingerprint": "6f6859528e1bf0bd090f9d8fd1c770e773bbf184",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
- "years_mentioned": []
+ "years_mentioned": [
+  "1995",
+  "2023",
+  "2024"
+ ]
 }

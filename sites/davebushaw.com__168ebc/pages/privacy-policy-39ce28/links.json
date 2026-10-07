@@ -1,20 +1,82 @@
 [
-"http://aboutads.info/choices",
-"http://facebook.com/BushawforCongress",
-"http://fec.gov/",
-"http://instagram.com/BushawforCongress",
-"http://threads.com/BushawforCongress",
-"http://tiktok.com/@BushawforCongress",
-"http://x.com/Dave_Bushaw",
-"https://davebushaw.com/",
-"https://davebushaw.com/cart",
-"https://davebushaw.com/meet-dave",
-"https://davebushaw.com/news",
-"https://davebushaw.com/platform",
-"https://davebushaw.com/privacy-policy",
-"https://davebushawforcongress.nationbuilder.com/",
-"https://davebushawforcongress.nationbuilder.com/ballot_access",
-"https://davebushawforcongress.nationbuilder.com/event_calendar",
-"https://smartchange.app/donate/dave--ta?mk=web-5",
-"https://youtube.com/@BushawForCongress"
+{
+"text": "0",
+"href": "https://www.davebushaw.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "mailto:digital@davebushaw.com"
+},
+{
+"text": "DONATE",
+"href": "https://smartchange.app/donate/dave--ta?mk=web-5"
+},
+{
+"text": "Events",
+"href": "https://davebushawforcongress.nationbuilder.com/event_calendar"
+},
+{
+"text": "In the News",
+"href": "https://www.davebushaw.com/news"
+},
+{
+"text": "Make a Pledge",
+"href": "https://davebushawforcongress.nationbuilder.com/ballot_access"
+},
+{
+"text": "Meet Dave",
+"href": "https://www.davebushaw.com/meet-dave"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.davebushaw.com/privacy-policy"
+},
+{
+"text": "Platform",
+"href": "https://www.davebushaw.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://davebushawforcongress.nationbuilder.com/"
+},
+{
+"text": "[image: Dave Bushaw for Congress]",
+"href": "https://www.davebushaw.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/BushawforCongress"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/BushawforCongress"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/BushawforCongress"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@BushawforCongress"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/Dave_Bushaw"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BushawForCongress"
+},
+{
+"text": "digital@davebushaw.com",
+"href": "mailto:digital@davebushaw.com"
+},
+{
+"text": "http://www.fec.gov",
+"href": "http://www.fec.gov/"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "http://www.aboutads.info/choices"
+}
 ]

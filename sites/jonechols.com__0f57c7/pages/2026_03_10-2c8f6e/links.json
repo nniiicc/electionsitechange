@@ -1,16 +1,62 @@
 [
-"https://jonechols.com/",
-"https://jonechols.com/author/campaign2026",
-"https://jonechols.com/category/uncategorized",
-"https://jonechols.com/contact-2",
-"https://jonechols.com/echols-receives-nra-defender-of-freedom-award",
-"https://jonechols.com/endorsements-2",
-"https://jonechols.com/media",
-"https://jonechols.com/meet-jon",
-"https://jonechols.com/news",
-"https://jonechols.com/opt-in",
-"https://jonechols.com/priorities",
-"https://jonechols.com/privacypolicy",
-"https://jonechols.com/terms-and-conditions",
-"https://secure.anedot.com/echols-for-attorney-general-2026/donate"
+{
+"text": "Contact",
+"href": "https://jonechols.com/contact-2/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/echols-for-attorney-general-2026/donate"
+},
+{
+"text": "Echols Receives NRA Defender of Freedom Award",
+"href": "https://jonechols.com/echols-receives-nra-defender-of-freedom-award/"
+},
+{
+"text": "Endorsements",
+"href": "https://jonechols.com/endorsements-2/"
+},
+{
+"text": "Home",
+"href": "https://jonechols.com/"
+},
+{
+"text": "Media",
+"href": "https://jonechols.com/media/"
+},
+{
+"text": "Meet Jon",
+"href": "https://jonechols.com/meet-jon/"
+},
+{
+"text": "News",
+"href": "https://jonechols.com/news/"
+},
+{
+"text": "Opt-in",
+"href": "https://jonechols.com/opt-in/"
+},
+{
+"text": "Priorities",
+"href": "https://jonechols.com/priorities/"
+},
+{
+"text": "Privacy",
+"href": "https://jonechols.com/privacypolicy/"
+},
+{
+"text": "Terms",
+"href": "https://jonechols.com/terms-and-conditions/"
+},
+{
+"text": "Uncategorized",
+"href": "https://jonechols.com/category/uncategorized/"
+},
+{
+"text": "[image]",
+"href": "https://jonechols.com"
+},
+{
+"text": "campaign2026",
+"href": "https://jonechols.com/author/campaign2026/"
+}
 ]

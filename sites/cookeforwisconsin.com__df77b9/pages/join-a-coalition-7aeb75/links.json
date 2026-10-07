@@ -1,21 +1,90 @@
 [
-"http://instagram.com/cookeforcongress",
-"http://twitter.com/RebeccaForWI",
-"https://andrewtarcon.com/",
-"https://cookeforwisconsin.com/",
-"https://cookeforwisconsin.com/contact",
-"https://cookeforwisconsin.com/endorsements",
-"https://cookeforwisconsin.com/join-a-coalition",
-"https://cookeforwisconsin.com/media-toolkit",
-"https://cookeforwisconsin.com/meet-rebecca",
-"https://cookeforwisconsin.com/press",
-"https://cookeforwisconsin.com/priorities",
-"https://cookeforwisconsin.com/privacy-policy",
-"https://docs.google.com/forms/d/1fmXFzMTxj6ldyNZWxHo9wm4luS35quDhE6d9enlcjuc/viewform?edit_requested=true",
-"https://facebook.com/Cooke-for-Congress-291391109320335",
-"https://knorthstudios.com/",
-"https://merch.ambientinks.com/collections/rebeccacooke",
-"https://mobilize.us/RebeccaCookeforCongress/event/993544",
-"https://secure.actblue.com/donate/cooke-web-2026",
-"https://youtube.com/@cookeforwisconsin"
+{
+"text": "About Rebecca",
+"href": "https://cookeforwisconsin.com/meet-rebecca/"
+},
+{
+"text": "Andrew Tarcon",
+"href": "https://andrewtarcon.com"
+},
+{
+"text": "Buy Merch",
+"href": "https://merch.ambientinks.com/collections/rebeccacooke"
+},
+{
+"text": "Connect With the Campaign",
+"href": "https://cookeforwisconsin.com/contact/"
+},
+{
+"text": "Contact",
+"href": "https://cookeforwisconsin.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cooke-web-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://cookeforwisconsin.com/endorsements/"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://docs.google.com/forms/d/1fmXFzMTxj6ldyNZWxHo9wm4luS35quDhE6d9enlcjuc/viewform?edit_requested=true"
+},
+{
+"text": "Join a Coalition",
+"href": "https://cookeforwisconsin.com/join-a-coalition/"
+},
+{
+"text": "Join the Movement",
+"href": "https://cookeforwisconsin.com/join-a-coalition/"
+},
+{
+"text": "Knorth Studios",
+"href": "https://knorthstudios.com"
+},
+{
+"text": "Media Toolkit",
+"href": "https://cookeforwisconsin.com/media-toolkit/"
+},
+{
+"text": "Meet Rebecca",
+"href": "https://cookeforwisconsin.com/meet-rebecca/"
+},
+{
+"text": "Press",
+"href": "https://cookeforwisconsin.com/press/"
+},
+{
+"text": "Priorities",
+"href": "https://cookeforwisconsin.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cookeforwisconsin.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/RebeccaCookeforCongress/event/993544/"
+},
+{
+"text": "[image: Rebecca Cooke]",
+"href": "https://cookeforwisconsin.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/Cooke-for-Congress-291391109320335"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "http://instagram.com/cookeforcongress"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "http://www.twitter.com/RebeccaForWI"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/@cookeforwisconsin"
+}
 ]

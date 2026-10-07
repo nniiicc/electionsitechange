@@ -1,4 +1,4 @@
-This state gave me and my family everything.
+Robert Rivas Home Meet Robert Getting Results Affordable Future Endorsements Join the Campaign Shop Donate Robert Rivas An Affordable Future This state gave me and my family everything.
 My grandfather was a farmworker.
 Two generations later, I am Speaker of the State Assembly.
 That’s the California Dream.
@@ -21,5 +21,14 @@ Affordable housing will get people out of homelessness.
 Affordable childcare and elder care will ease the burden on so many families.
 Lower costs for gas and utilities will allow working people to save more money for the future.
 Together, we can build a California that works for everyone — while continuing to stand up for the values that define our state: equality, justice, and human rights.
-Sincerely,
-Speaker Robert Rivas
+Sincerely, Speaker Robert Rivas Join our fight to renew the California Dream.
+Get updates from Speaker Rivas: Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Code number Zip Email address * Zip Code Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
+We will never charge for these text message updates, but carrier message & data rates may apply.
+Text STOP to stop receiving messages.
+Text HELP for more information.
+Privacy policy available here .
+This form is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Robert Rivas Donate Home Meet Robert Getting Results Affordable Future Endorsements Join the Campaign Shop Contact Accessibility Privacy Policy Disclaimer Paid for by Robert Rivas for Assembly 2026 P.O.
+Box 2385, Salinas, CA 93902

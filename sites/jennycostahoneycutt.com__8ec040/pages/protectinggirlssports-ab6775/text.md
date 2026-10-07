@@ -1,7 +1,4 @@
-Thursday, July 2, 2026
-Opinion Editorial: Protecting girls' sports is common senses
-Jenny Costa Honeycutt (Published in Washington Reporter)
-There are some issues in America that become so wrapped in politics that common sense gets lost.
+Home About Platform News Support DONATE DONATE Home About Platform News Support DONATE Thursday, July 2, 2026 Opinion Editorial: Protecting girls' sports is common senses Jenny Costa Honeycutt (Published in Washington Reporter ) There are some issues in America that become so wrapped in politics that common sense gets lost.
 Protecting girls’ sports should never have been one of them.
 The Supreme Court just acknowledged what most Americans have long believed: biological girls deserve girls’ sports.
 That isn’t a partisan statement.
@@ -39,4 +36,5 @@ This one should unite us.
 Every little girl deserves the chance to compete on a level playing field, earn her victories, and pursue her dreams.
 That’s not politics.
 That’s common sense.
-# # #
+# # # Jenny Costa Honeycutt Media Gallery PAID FOR BY JENNY FOR CONGRESS.
+Post Office Box 13823, Charleston, SC 29422 Privacy Policy Share by:

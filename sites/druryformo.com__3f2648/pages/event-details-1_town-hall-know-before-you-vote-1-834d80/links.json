@@ -1,13 +1,50 @@
 [
-"https://druryformo.com/",
-"https://druryformo.com/about-ashley",
-"https://druryformo.com/blank",
-"https://druryformo.com/event-list",
-"https://druryformo.com/sample-ballot-nov-3",
-"https://facebook.com/druryformo",
-"https://instagram.com/modemparty",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.druryformo.com%2Fevent-details-1%2Ftown-hall-know-before-you-vote-1",
-"https://secure.actblue.com/donate/ashley-drury-1",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.druryformo.com%2Fevent-details-1%2Ftown-hall-know-before-you-vote-1&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://youtube.com/channel/UCQjPLbT_t4sDQBcTx7TFd3Q"
+{
+"text": "About Ashley",
+"href": "https://www.druryformo.com/about-ashley"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ashley-drury-1"
+},
+{
+"text": "Events",
+"href": "https://www.druryformo.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.druryformo.com"
+},
+{
+"text": "Request A Yard Sign!",
+"href": "https://www.druryformo.com/blank"
+},
+{
+"text": "Sample Ballot - Nov 3",
+"href": "https://www.druryformo.com/sample-ballot-nov-3"
+},
+{
+"text": "[image: Ashley-Drury-logo]",
+"href": "https://www.druryformo.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.druryformo.com%2Fevent-details-1%2Ftown-hall-know-before-you-vote-1&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/druryformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/modemparty"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.druryformo.com%2Fevent-details-1%2Ftown-hall-know-before-you-vote-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCQjPLbT_t4sDQBcTx7TFd3Q"
+}
 ]

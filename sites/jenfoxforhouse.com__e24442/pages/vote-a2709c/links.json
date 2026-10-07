@@ -1,20 +1,86 @@
 [
-"https://facebook.com/profile.php?id=61555674762051",
-"https://instagram.com/jenfoxforhouse",
-"https://jenfox-signs.vercel.app/signup",
-"https://jenfoxforhouse.com/",
-"https://jenfoxforhouse.com/about",
-"https://jenfoxforhouse.com/blog",
-"https://jenfoxforhouse.com/contact",
-"https://jenfoxforhouse.com/copy-of-lawn-signs",
-"https://jenfoxforhouse.com/copy-of-lawn-signs-1",
-"https://jenfoxforhouse.com/endorsements",
-"https://jenfoxforhouse.com/events-1",
-"https://jenfoxforhouse.com/gallery",
-"https://jenfoxforhouse.com/general-1",
-"https://jenfoxforhouse.com/vote",
-"https://secure.actblue.com/donate/jen-fox-for-house-1",
-"https://sos.mn.gov/elections-voting/election-day-voting/where-do-i-vote",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail",
-"https://sos.mn.gov/elections-voting/register-to-vote/register-online"
+{
+"text": "About Me",
+"href": "https://www.jenfoxforhouse.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jen-fox-for-house-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenfoxforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jenfoxforhouse.com/events-1"
+},
+{
+"text": "FIND YOUR POLL",
+"href": "https://www.sos.mn.gov/elections-voting/election-day-voting/where-do-i-vote/"
+},
+{
+"text": "GET A BALLOT",
+"href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/"
+},
+{
+"text": "Gallery",
+"href": "https://www.jenfoxforhouse.com/gallery"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jenfoxforhouse.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.jenfoxforhouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jenfoxforhouse.com/general-1"
+},
+{
+"text": "Meet Jen",
+"href": "https://www.jenfoxforhouse.com/about"
+},
+{
+"text": "Newsletter",
+"href": "https://www.jenfoxforhouse.com/blog"
+},
+{
+"text": "REGISTER",
+"href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-online/"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.jenfoxforhouse.com/copy-of-lawn-signs-1"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.jenfoxforhouse.com/copy-of-lawn-signs"
+},
+{
+"text": "Vote",
+"href": "https://www.jenfoxforhouse.com/vote"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://jenfox-signs.vercel.app/signup"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61555674762051"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jenfoxforhouse/"
+},
+{
+"text": "[image]",
+"href": "https://www.jenfoxforhouse.com"
+},
+{
+"text": "jenfoxforhouse@gmail.com",
+"href": "mailto:jenfoxforhouse@gmail.com"
+}
 ]

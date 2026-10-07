@@ -1,4 +1,4 @@
-Javier Mabrey pertenece a la tercera generación de una familia Chicana en Denver.
+Home About Issues Legislation Endorsements HD1 Media Donate More Home About Issues Legislation Endorsements HD1 Media Donate Home About Issues Legislation Endorsements HD1 Media Donate Conozca a Javier Para Javier, la lucha es personal Javier Mabrey pertenece a la tercera generación de una familia Chicana en Denver.
 Javier Mabrey se postula a ser su representante para el Distrito 1 de la Cámara de Representantes de Colorado.
 Si es elegido para representar al Distrito 1 de la Cámara, Javier luchará por la justicia económica, la vivienda asequible, la justicia racial y la atención médica universal.
 Javier se convirtió en abogado especializado en desalojos porque para él, los derechos de los inquilinos y la pobreza no son temas abstractos, son personales.
@@ -19,4 +19,5 @@ En 2016, Javier se graduó de la Universidad de Colorado, Boulder y luego se mat
 Mientras fue estudiante, trabajó en el Centro de Derecho Comunitario de East Bay y exitosamente defendió a las familias que estaban enfrentando el desalojo o el acoso de los propietarios.
 Desde que se graduó en 2019, Javier comenzó un grupo de ayuda legal de defensa de desalojos que representa a los inquilinos en Denver gratis, promueven por viviendas asequibles, y defiende los derechos de los inquilinos en el Capitolio del Estado de Colorado.
 Javier lucha por la gente común en la corte y luchará por todos los habitantes de Colorado en el capitolio presionando por viviendas asequibles, justicia racial, mejores escuelas, y seguro médico universal.
-PAID FOR BY JAVIER MABREY FOR COLORADO
+To contact Javier, email info@javierforcolorado.com .
+Donate online PAID FOR BY JAVIER MABREY FOR COLORADO Donate

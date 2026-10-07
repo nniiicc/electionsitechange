@@ -1,6 +1,4 @@
-Fellow Oregonians:
-“No-One should have to move away to be safe”
-Safety requires that enough Police be available to protect your property.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Safety for the People of Tigard Fellow Oregonians: “No-One should have to move away to be safe” Safety requires that enough Police be available to protect your property.
 Property includes what you may own, the money you may have, the food you may have purchased for your dinner, or your business.
 Property also includes, at least for me, your life and your physical wellbeing.
 There are two distinct aspects of requiring that Police be available.
@@ -18,3 +16,5 @@ On the Fire protection front, the cost of fire protection for any given building
 The goal is to take the ability to use Property tax revenues for political leverage away from the Legislature.
 Law makers should not be able to use your safety for political gain or corruption.
 After all, no-one should have to move away to be safe from law makers either.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

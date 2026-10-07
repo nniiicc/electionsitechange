@@ -1,7 +1,8 @@
-Representative Connie Lane Files Bill to Repeal Voter Suppression Law
-One day after Governor Sununu signed a new voter suppression law, I filed a bill to repeal the new law.
+Connie Lane - Merrimack District 16 About Connie Priorities News Volunteer Contact Donate About Connie Priorities News Volunteer Contact Connie Lane - Merrimack District 16 Donate Representative Connie Lane Files Bill to Repeal Voter Suppression Law One day after Governor Sununu signed a new voter suppression law, I filed a bill to repeal the new law.
 The new law does NOT go into effect until after the 2024 election, but will disenfranchise thousands who rely on the affidavits allowed for about 30 years.
 NH is now one of the few states in the nation that requires proof of citizenship when registering to vote, which is not required under federal law.
 It is yet another effort by Republicans to make registering to vote and voting more difficult.
 It is not about voter security, as they claim - it is a flagrant attempt to make it more difficult for people to vote.
-Here is an article about the new law and my bill: https://indepthnh.org/2024/09/13/democrats-file-legislation-to-repeal-new-voter-suppression-law/
+Here is an article about the new law and my bill: https://indepthnh.org/2024/09/13/democrats-file-legislation-to-repeal-new-voter-suppression-law/ Embed Block Add an embed URL or code.
+Embed Block Enter a valid embed URL or code.
+Connie Lane September 22, 2024 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr 0 Likes Previous Connie's Profile Video on Concord Community TV - 2024 Connie Lane October 10, 2024 Next Op-Ed from the Union Leader Connie Lane September 21, 2024 © # Impact (603) 491-7379 connielane4staterep@gmail.com Powered by: Squarespace Photography by: www.jpuzaphoto.com and www.bryanjohnsonphotos.com Info Meet Connie Priorities News Paid for by: Campaign to Elect Connie Lane by Connie Lane, Fiscal Agent Action Volunteer Contact Donate

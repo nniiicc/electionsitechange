@@ -1,6 +1,10 @@
-https://www.mlive.com/news/flint/2021/03/flint-mayor-state-rep-promote-free-community-college-program-for-michigan-residents.html?fbclid=IwAR03RG4VuR7y_cHstUpMg09DKTLECU06CvhHCDsePDoME9c0UPmclKfaEFI By Riley Murdock | rmurdock@mlive.com FLINT, MI — Flint Mayor Sheldon Neeley and State Rep.
-Cynthia Neeley, D-Flint, took part in a Zoom press…
-Please join Representative Cynthia Neeley, Mayor Sheldon Neeley, the McDonalds Team, and The Richfield Early Learning Center Team at the free food give away.
-Happy…
-CITYWIDE trick-or-treating hours 4:30-7 p.m.
-Oct. 31, 2020 To provide our children with safe opportunities to enjoy Halloween please follow all Recommendation from our health…
+Home About News Volunteer Donate Contact Contribute Family Home All Posts Family Home About News Volunteer Donate Contact Family News March 1, 2021 Flint mayor, state rep promote free community college program for Michigan residents by webmaster 0 Comments https://www.mlive.com/news/flint/2021/03/flint-mayor-state-rep-promote-free-community-college-program-for-michigan-residents.html?fbclid=IwAR03RG4VuR7y_cHstUpMg09DKTLECU06CvhHCDsePDoME9c0UPmclKfaEFI By Riley Murdock | rmurdock@mlive.com FLINT, MI — Flint Mayor Sheldon Neeley and State Rep.
+Cynthia Neeley, D-Flint, took part in a Zoom press… Continue reading Family News Rights & Obligations February 22, 2021 Commemorating History Makers by webmaster 0 Comments Continue reading Family Law News Rights & Obligations January 31, 2021 Working together with a positive heart brings about real change. by webmaster 0 Comments Continue reading Family News November 18, 2020 Richfield Early Learning Center Team free food give away by webmaster 0 Comments Please join Representative Cynthia Neeley, Mayor Sheldon Neeley, the McDonalds Team, and The Richfield Early Learning Center Team at the free food give away.
+Happy… Continue reading Family News October 27, 2020 17th Annual Harvest Festival by webmaster 0 Comments CITYWIDE trick-or-treating hours 4:30-7 p.m.
+Oct.
+31, 2020 To provide our children with safe opportunities to enjoy Halloween please follow all Recommendation from our health… Continue reading Posts pagination < Page 1 Page 2 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
+Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.
+October 7, 2024 Election, News Attending the 2024 Democratic National Convention August 26, 2024 Tags articles law news Opinions politics Topics Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Oct twitter facebook youtube Useful Links Home About Cynthia News Volunteer Privacy Policy Contact Contact Info 1809 James P Cole Blvd Flint, MI 48503 (810) 458-3936 cynthia@cynthianeeley.com Stay in Touch Paid for by Committee to Elect Cynthia R.
+Neeley, 2305 Begole St.
+Flint, MI 48504 | ©#.
+All Rights Reserved.

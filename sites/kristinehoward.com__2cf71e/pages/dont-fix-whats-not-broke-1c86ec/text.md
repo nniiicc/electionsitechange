@@ -1,5 +1,5 @@
-| Greetings, In a guest opinion editorial appearing April 5, 2023 in the on-line news site City & State, Nathan Benefield, Senior Vice President of a rightwing corporate think tank, accused Democrats in the Pennsylvania House of Representatives of tanking a constitutional amendment empowering adult victims of childhood sexual abuse the right to sue their abusers.
-As President Biden would say, “that’s a load of malarkey”.
+Meet Kristine Endorsements News & Events Get Involved Select Page Don’t fix what’s not broke! by Kristine Howard | Apr 28, 2023 | News | 0 comments Greetings, In a guest opinion editorial appearing April 5, 2023 in the on-line news site City & State, Nathan Benefield, Senior Vice President of a rightwing corporate think tank , accused Democrats in the Pennsylvania House of Representatives of tanking a constitutional amendment empowering adult victims of childhood sexual abuse the right to sue their abusers.
+As President Biden would say, “that’s a load of malarkey ”.
 A phony baloney sandwich… Mr.
 Benefield’s OpEd is nothing more than a lame attempt to sanitize the effort by Pennsylvania Senate Republicans to package two of their rightwing wish-list constitutional amendments with the universally popular constitutional amendment to help adult victims of childhood sexual abuse.
 Now that Democrats control the House of Representatives in Harrisburg, Mr.
@@ -16,7 +16,12 @@ Mr.
 Benefield tells us, “Voter ID helps protect electoral integrity and boosts people’s confidence in the democratic process.” Addressing the concept of protecting electoral integrity, an Associated Press reporting project after the 2020 election found fewer than 475 potential instances of voter fraud out of more the 25 million votes cast.
 How could such an infinitesimal fraction of a percent of voter fraud justify the risk of disenfranchising more that 21 million Americans who do not have a photo ID?
 I would further suggest to you that the only people whose confidence in the electoral process needs boosting are the 30% of Maga Americans who fell prey to the big lie perpetuated by election denying political opportunists and fund raising grifters.
-The Republican voter suppression buffet Republicans feature many items on their menu of voter suppression tactics including aggressively purging voter rolls; implementing overly stringent voter ID requirements; moving polling places out of minority and student neighborhoods; banning mail-in voting; requiring burdensome signature matches and identification for voting by mail; eliminating drop boxes; disallowing “ballot curing” for minor, inadvertent mistakes; denying felons the right to vote; intimidating voters; spreading misinformation; understaffing and under-equipping polling places; cutting-back early voting; and my favorite, disallowing food and water distribution to voters in line.
+The Republican voter suppression buffet Republicans feature many items on their menu of voter suppression tactics including aggressively purging voter rolls; implementing overly stringent voter ID requirements ; moving polling places out of minority and student neighborhoods; banning mail-in voting; requiring burdensome signature matches and identification for voting by mail; eliminating drop boxes ; disallowing “ballot curing” for minor, inadvertent mistakes; denying felons the right to vote; intimidating voters ; spreading misinformation ; unde rstaffing and under-equipping polling places; cutting-back early voting ; and my favorite, disallowing food and water distribution to voters in line.
 We could go on, but I think you get the point.
 Word salads of Republican talking points pushing voter ID do little more than leave a rancid taste in our mouths.
-Thanks for reading, Kristine |
+Thanks for reading, Kristine Search for: Latest News Don’t fix what’s not broke!
+April 28, 2023 It’s Child Abuse Prevention Month – again.
+Has anything changed since last year?
+April 28, 2023 A dangerous tune!
+April 16, 2023 You are the first to know… March 17, 2023 When will the empty chair be at our table?
+November 30, 2022 Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

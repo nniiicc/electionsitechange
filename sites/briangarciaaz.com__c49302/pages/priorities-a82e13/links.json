@@ -1,12 +1,46 @@
 [
-"http://facebook.com/garciaforaz",
-"http://x.com/briangarciaaz",
-"https://briangarciaaz.com/",
-"https://briangarciaaz.com/about",
-"https://briangarciaaz.com/cart",
-"https://briangarciaaz.com/debate",
-"https://briangarciaaz.com/donate",
-"https://briangarciaaz.com/priorities",
-"https://briangarciaaz.com/record",
-"https://instagram.com/BrianGarciaAZ"
+{
+"text": "0",
+"href": "https://www.briangarciaaz.com/cart"
+},
+{
+"text": "Brian Garcia for AZ House of Representatives",
+"href": "https://www.briangarciaaz.com/"
+},
+{
+"text": "Debate",
+"href": "https://www.briangarciaaz.com/debate"
+},
+{
+"text": "Donate",
+"href": "https://www.briangarciaaz.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.briangarciaaz.com/"
+},
+{
+"text": "Legislative Record",
+"href": "https://www.briangarciaaz.com/record"
+},
+{
+"text": "Meet Brian",
+"href": "https://www.briangarciaaz.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.briangarciaaz.com/priorities"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/garciaforaz"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/briangarciaaz"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/BrianGarciaAZ"
+}
 ]

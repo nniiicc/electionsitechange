@@ -1,20 +1,10 @@
-Voter Information
-Check Your Voter Information & Important Dates
-Request
-Vote-by-Mail Ballot
-Florida law now requires that voters renew their vote-by-mail requests every 2 years.
+Skip to content Meet Phil Priorities Voter Information Press Privacy Policy Volunteer DONATE FL-28 Debate Request: Two Public Debates in Miami-Dade and Monroe Home Meet Phil Press Privacy Policy Volunteer Voter Information DONATE Menu Voter Information Check Your Voter Information & Important Dates Request Vote-by-Mail Ballot Florida law now requires that voters renew their vote-by-mail requests every 2 years.
 You MUST re-enroll to vote-by-mail on November 3, 2026.
-Early Voting
-Get information about early voting sites, schedule, and secure ballot intake locations.
-Find Your Polling Place
-Use your address to find your Election Day polling location along with pertinent precinct details and statistics.
-Voter Information & Important Dates
-General Election: Tuesday, November 3, 2026
-- Deadline to send vote-by-mail ballots to UOCAVA voters: September 19, 2026
-- Deadline to send vote-by-mail ballots to domestic voters: September 24 2026 – October 1, 2026
-- Deadline to register to vote: October 5, 2026
-- Deadline to request vote-by-mail ballot: October 22, 2026
-- Early voting period:
-- Miami-Dade: October 19 – November 1, 2026
-- Monroe: October 19 – October 31, 2026
-- Election Day: November 3, 2026 (You must vote at your assigned polling place on Election Day)
+Miami-Dade County Voters Monroe County Voters Early Voting Get information about early voting sites, schedule, and secure ballot intake locations.
+Miami-Dade County Voters Monroe County Voters Find Your Polling Place Use your address to find your Election Day polling location along with pertinent precinct details and statistics.
+Miami-Dade County Voters Monroe County Voters Voter Information & Important Dates General Election: Tuesday, November 3, 2026 Deadline to send vote-by-mail ballots to UOCAVA voters: September 19, 2026 Deadline to send vote-by-mail ballots to domestic voters: September 24 2026 – October 1, 2026 Deadline to register to vote: October 5, 2026 Deadline to request vote-by-mail ballot: October 22, 2026 Early voting period : Miami-Dade: October 19 – November 1, 2026 Monroe: October 19 – October 31, 2026 Election Day: November 3, 2026 (You must vote at your assigned polling place on Election Day) Request Your Vote-by-Mail Ballot Miami-Dade Voters Vote-by-Mail Request Monroe Voters Vote-by-Mail Request Take back our House majority! $5 $25 $100 $250 $500 $750 $1,000 Custom Share this: Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X *Phil Ehr is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Department of the Navy or the Department of Defense or any other department, agency or service of the United States Government.
+Similarly, references to foreign governments, international organizations, academic or research institutions, publishers, charities and non-profit organizations, professional associations or any associated person or entity do not imply endorsement.
+They are intended to present Phil Ehr’s experiences.
+Meet Phil Priorities Voter Information Press Privacy Policy Volunteer PAID FOR BY EHR FORCE INC.

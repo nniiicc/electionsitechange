@@ -1,13 +1,70 @@
 [
-"https://justin47.com/",
-"https://justin47.com/about",
-"https://justin47.com/cdn-cgi/l/email-protection",
-"https://justin47.com/contact",
-"https://justin47.com/district",
-"https://justin47.com/donate",
-"https://justin47.com/events",
-"https://justin47.com/platform",
-"https://justin47.com/store",
-"https://justin47.com/volunteer",
-"https://justin47.com/vote"
+{
+"text": "About",
+"href": "https://justin47.com/about"
+},
+{
+"text": "About Justin",
+"href": "https://justin47.com/about"
+},
+{
+"text": "Contact",
+"href": "https://justin47.com/contact"
+},
+{
+"text": "District",
+"href": "https://justin47.com/district"
+},
+{
+"text": "Donate",
+"href": "https://justin47.com/donate"
+},
+{
+"text": "Events",
+"href": "https://justin47.com/events"
+},
+{
+"text": "Home",
+"href": "https://justin47.com/"
+},
+{
+"text": "Platform",
+"href": "https://justin47.com/platform"
+},
+{
+"text": "Read the Platform",
+"href": "https://justin47.com/platform"
+},
+{
+"text": "Store",
+"href": "https://justin47.com/store"
+},
+{
+"text": "The 47th District",
+"href": "https://justin47.com/district"
+},
+{
+"text": "Volunteer",
+"href": "https://justin47.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://justin47.com/vote"
+},
+{
+"text": "Voter Info",
+"href": "https://justin47.com/vote"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@justin47.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@justin47.com"
+},
+{
+"text": "[image: Justin Griffis for Michigan House] Justin Griffis State Representative · MI 47",
+"href": "https://justin47.com/"
+}
 ]

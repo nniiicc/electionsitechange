@@ -1,22 +1,18 @@
-Priorities
-Reinvest in Public Education
-Our kids and teachers deserve better than what they have today.
+HOME ABOUT MIRANDA PRIORITIES CONTACT US ENDORSEMENTS DONATE HOME ABOUT MIRANDA PRIORITIES CONTACT US ENDORSEMENTS DONATE Priorities Reinvest in Public Education Our kids and teachers deserve better than what they have today.
 For the last thirty years, Republicans have systematically defunded our K-12 and higher education systems, leading to statewide programming cuts, criminally low teacher salaries, and exponential increases in tuition costs for public university students.
 We need public accountability for public dollars, not reckless spending that jeopardizes the safety of students and the security of our state's general fund.
 As a legislator, I would eliminate the universal voucher system so we can stop wasting our tax dollars on private schools for the wealthy.
 Next I would push to increase diversion and reentry programs as well as to expand probation to reallocate some of the over $1.6 billion we currently spend every year on incarceration towards education instead.
 Finally, I would work to re-establish a progressive tax system, close state tax loopholes, increase corporate taxes, and impose an additional tax on the 15 billionaires currently living in Arizona to generate additional revenue for public education.
 We must also freeze public university tuition rates, fully fund the Arizona Promise Program, and allow public workers including teachers and staff to participate in collective bargaining.
-Make Housing Affordable
-Housing prices are too damn high for both renters and first-time homebuyers.
+Make Housing Affordable Housing prices are too damn high for both renters and first-time homebuyers.
 Many working people today live only one serious health problem away from financial ruin.
 As a former renter and first-time home buyer, I believe that affordable and sustainable housing is a universal right.
 The state legislature needs to invest in measures like Arizona's Low-Income Housing Tax Credit Program and the Arizona Department of Housing.
 We also need lawmakers who will even the playing field for renters and landlords by allowing cities to enact rent control, put caps on security deposits, and provide legal counsel to defendants in eviction court.
 Landlords who are already fair to their tenants and do not take advantage of current state law will not be affected by these changes.
 Instead, these policies will target corporate landlords who have spent too long making huge profit margins at the expense of their tenants.
-Protect Our Water, Land and Air
-It feels like every year is hotter than the year before--and that's because it is.
+Protect Our Water, Land and Air It feels like every year is hotter than the year before--and that's because it is.
 Tucson and Phoenix average temperatures are expected to rise at least 10 degrees Fahrenheit over the next 50 years.
 And what do companies like Amazon want to do?
 Build mega data centers here in the desert that will use what little water we have, pushing huge amounts of heat into local neighborhoods.
@@ -26,8 +22,7 @@ To protect our environment, and our wallets, the state legislature must invest i
 They must publicly encourage cities to switch to public power utility models.
 In 2026, we need representatives who believe in a renewable future and cannot be bought by corporate utility companies.
 I support any efforts to impose a moratorium on building any future data centers or mining projects until environmental impact studies are completed and submitted to affected communities for review.
-Worker Power
-Workers are the lifeblood of the economy, and right now they are struggling more than ever with a cost of living crisis, increased gas prices and rising healthcare costs.
+Worker Power Workers are the lifeblood of the economy, and right now they are struggling more than ever with a cost of living crisis, increased gas prices and rising healthcare costs.
 The "American Dream" is further away than it's ever been before for working people.
 Workers have very few rights in Arizona due to "Right to Work" laws.
 Arizona workers do not have to join their company's union, and employers retain the right to fire their workers for any reason.
@@ -39,8 +34,7 @@ This situation is even worse for public workers like public school teachers, pub
 As a state legislator, my top priority is to empower our unions by repealing these "Right to Work" laws and allowing public workers to enter into collective bargaining agreements.
 Additionally, I will support measures to protect workers from heat conditions and encroachment from AI learning models.
 I will also advocate for state requirements to use union labor for public construction and housing projects.
-Protect Medicaid and SNAP
-For more than sixty years, Medicaid and SNAP have provided hundreds of millions of US citizens with the healthcare and food they need to survive.
+Protect Medicaid and SNAP For more than sixty years, Medicaid and SNAP have provided hundreds of millions of US citizens with the healthcare and food they need to survive.
 The majority of people enrolled in these benefits are retired, children, caretakers, or disabled and unable to work.
 Although I have never benefited from these programs myself, I have spoken with dozens of voters on the doors who depend on these services.
 Parents and grandparents have shared with me their recent experiences of losing their benefits, and their everyday struggle to put food on the table for their families.
@@ -53,8 +47,7 @@ Our government has the ethical and legal obligation to provide meals and medical
 Non-profit organizations do not have the capacity to serve tens of thousands of people, but the government does.
 Universal aid and healthcare creates an overall more healthy and safe society where working people have time to flourish instead of having to focus on survival.
 To further demonstrate my commitment to dismantling a healthcare system based on profit, I have signed on to Patients Over Profits, pledging to put patients over profits and not take contributions over $200 from the executives, lobbyists, and PACs affiliated with the corporate health care industry, including private insurers, pharma corporations, and private hospitals who are organizing to take over our health care system.
-Stop ICE
-The inaction of both major political parties on federal immigration policy has created the perfect conditions in which ICE thrives today.
+Stop ICE The inaction of both major political parties on federal immigration policy has created the perfect conditions in which ICE thrives today.
 Immigrants continue to be framed as dangerous criminals, when in fact they have lower crime rates compared to US citizens.
 For example, the majority of US fentanyl is smuggled across the border by US citizens.
 We forget that immigrants are often from countries that were destabilized by the US, creating poor economies and unsafe conditions that forced families to make impossible decisions.
@@ -72,8 +65,7 @@ We must recognize and stand up for the inherent value of immigrants, whether the
 Instead of building and policing walls, we should push our federal representatives to overhaul the immigration system to make it easier and safer for immigrants to travel to the US and to become citizens.
 Fuck ICE.
 Defund ICE.
-LGBTQ+ Solidarity
-Our queer community, and particularly our trans siblings, have experienced an uptick in federal and state attacks on their personal rights.
+LGBTQ+ Solidarity Our queer community, and particularly our trans siblings, have experienced an uptick in federal and state attacks on their personal rights.
 It's not just books being banned from libraries and schools.
 Again and again, we see Republicans crafting legislation to police bodies, especially trans bodies.
 Instead of banning surgeries, hormone therapy, or puberty blockers, legislators instead ban trans people from having access to these treatments.
@@ -85,5 +77,7 @@ This condescending and unjust way of thinking has made many Democrats betray the
 We must advocate for equal access to healthcare for everyone, regardless of a person's sexual orientation or gender identity.
 If we allow bullies to continue dictating what trans people can and cannot do with their bodies, it will only be a matter of time before other bodies are also subjected to a police state.
 Bodily autonomy must be for everyone, otherwise no one truly has it.
-Join The Movement
-Get updates about Miranda's campaign and how she's addressing the issues that matter most to you!
+Join The Movement Get updates about Miranda's campaign and how she's addressing the issues that matter most to you!
+Name Email* I want to volunteer by Canvassing Phonebanking Hosting an event Other Confirm Your Opt In I want to receive emails from Miranda Lopez for State Representative about how to stay involved.
+SUBMIT MIRANDA LOPEZ FOLLOW OUR CAMPAIGN ON SOCIAL MEDIA: ABOUT MIRANDA PRIORITIES DONATE NOW CONTACT US PAID FOR BY MIRANDA LOPEZ FOR STATE REPRESENTATIVE.
+AUTHORIZED BY MIRANDA LOPEZ.

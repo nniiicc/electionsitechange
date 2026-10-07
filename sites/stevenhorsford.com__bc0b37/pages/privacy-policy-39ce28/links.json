@@ -1,20 +1,98 @@
 [
-"http://fec.gov/",
-"https://aboutads.info/choices",
-"https://adobe.com/products/flashplayer/security",
-"https://andreasalinasfororegon.com/unsubscribe",
-"https://bcom.solutions/",
-"https://facebook.com/stevenhorsford",
-"https://instagram.com/stevenahorsford",
-"https://mobilize.us/horsfordforcongress",
-"https://networkadvertising.org/managing/opt_out.asp",
-"https://secure.actblue.com/donate/shwebsite",
-"https://stevenhorsford.com/about",
-"https://stevenhorsford.com/home",
-"https://stevenhorsford.com/media",
-"https://stevenhorsford.com/priorities",
-"https://stevenhorsford.com/privacy-policy",
-"https://stevenhorsford.com/privacy-policy/info@stevenhorsford.com",
-"https://x.com/stevenhorsford",
-"https://youtube.com/@nevadansforstevenhorsford6170"
+{
+"text": "Built by BCom",
+"href": "https://bcom.solutions"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shwebsite"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/shwebsite"
+},
+{
+"text": "FEC website",
+"href": "http://www.fec.gov/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/stevenhorsford"
+},
+{
+"text": "Hold the Line",
+"href": "https://secure.actblue.com/donate/shwebsite"
+},
+{
+"text": "Home",
+"href": "https://stevenhorsford.com/home"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stevenahorsford"
+},
+{
+"text": "Media",
+"href": "https://stevenhorsford.com/media/"
+},
+{
+"text": "Meet Steven",
+"href": "https://stevenhorsford.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://stevenhorsford.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://stevenhorsford.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/horsfordforcongress"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/horsfordforcongress/"
+},
+{
+"text": "Volunteer Today",
+"href": "https://www.mobilize.us/horsfordforcongress/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/stevenhorsford"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@nevadansforstevenhorsford6170"
+},
+{
+"text": "[image]",
+"href": "https://stevenhorsford.com/home/"
+},
+{
+"text": "[image][image]",
+"href": "https://stevenhorsford.com/home/"
+},
+{
+"text": "contact us electronically",
+"href": "https://stevenhorsford.com/privacy-policy/info@stevenhorsford.com"
+},
+{
+"text": "unsubscribe from our email communications",
+"href": "https://www.andreasalinasfororegon.com/unsubscribe/"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "https://www.aboutads.info/choices"
+},
+{
+"text": "www.networkadvertising.org/managing/opt_out.asp",
+"href": "https://www.networkadvertising.org/managing/opt_out.asp"
+},
+{
+"text": "​info@StevenHorsford.com",
+"href": "mailto:info@stevenhorsford.com"
+}
 ]

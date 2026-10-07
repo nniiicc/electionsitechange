@@ -1,18 +1,74 @@
 [
-"https://act.campaigndeputy.com/vincent4congress",
-"https://facebook.com/vincent4congress",
-"https://https://substack.com/@vincent4congress",
-"https://store.vincent4congress.org/",
-"https://tiktok.com/@vincent4congress",
-"https://vincentforcongress.com/",
-"https://vincentforcongress.com/_sites/www.vincentforcongress.com/about",
-"https://vincentforcongress.com/about",
-"https://vincentforcongress.com/donate",
-"https://vincentforcongress.com/endorsements",
-"https://vincentforcongress.com/events",
-"https://vincentforcongress.com/media",
-"https://vincentforcongress.com/news",
-"https://vincentforcongress.com/official-campaign-shop",
-"https://vincentforcongress.com/policy",
-"https://x.com/Vincent4SC07"
+{
+"text": "ABOUT",
+"href": "https://www.vincentforcongress.com/about"
+},
+{
+"text": "About",
+"href": "https://www.vincentforcongress.com/_sites/www.vincentforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.vincentforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vincentforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.vincentforcongress.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.vincentforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.vincentforcongress.com/policy"
+},
+{
+"text": "Media",
+"href": "https://www.vincentforcongress.com/media"
+},
+{
+"text": "News",
+"href": "https://www.vincentforcongress.com/news"
+},
+{
+"text": "Official Store",
+"href": "https://store.vincent4congress.org/"
+},
+{
+"text": "STORE",
+"href": "https://www.vincentforcongress.com/official-campaign-shop"
+},
+{
+"text": "Volunteer",
+"href": "https://act.campaigndeputy.com/vincent4congress"
+},
+{
+"text": "[image: John Vincent for Congress in South Carolina's 7th District - SC07]",
+"href": "https://www.vincentforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/vincent4congress"
+},
+{
+"text": "[no text]",
+"href": "https://https://substack.com/@vincent4congress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@vincent4congress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Vincent4SC07"
+},
+{
+"text": "info@VincentForCongress.com",
+"href": "mailto:info@Vincent4Congress.org"
+}
 ]

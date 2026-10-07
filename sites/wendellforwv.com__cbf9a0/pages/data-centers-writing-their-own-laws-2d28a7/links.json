@@ -1,12 +1,50 @@
 [
-"https://bsky.app/profile/mwendell.bsky.social",
-"https://facebook.com/profile.php?id=61587160591876",
-"https://secure.actblue.com/donate/wendell-for-wv",
-"https://wendellforwv.com/",
-"https://wendellforwv.com/about-me",
-"https://wendellforwv.com/campaign-news",
-"https://wendellforwv.com/privacy-policy",
-"https://wendellforwv.com/volunteer",
-"https://westvirginiawatch.com/2026/07/22/fundamental-data-rep-says-company-wrote-wv-data-center-law-urges-project-guardrails-in-his-own-town",
-"https://x.com/michaelwendell"
+{
+"text": "About Michael Wendell",
+"href": "https://wendellforwv.com/about-me/"
+},
+{
+"text": "Campaign News",
+"href": "https://wendellforwv.com/campaign-news/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/wendell-for-wv"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/wendell-for-wv/"
+},
+{
+"text": "Home",
+"href": "https://wendellforwv.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wendellforwv.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://wendellforwv.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://westvirginiawatch.com/2026/07/22/fundamental-data-rep-says-company-wrote-wv-data-center-law-urges-project-guardrails-in-his-own-town"
+},
+{
+"text": "[tooltip: Michael Wendell on Bluesky]",
+"href": "https://bsky.app/profile/mwendell.bsky.social"
+},
+{
+"text": "[tooltip: Michael Wendell on Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587160591876"
+},
+{
+"text": "[tooltip: Michael Wendell on X]",
+"href": "https://x.com/michaelwendell"
+},
+{
+"text": "https://westvirginiawatch.com/2026/07/22/fundamental-data-rep-says-company-wrote-wv-data-center-law-urges-project-guardrails-in-his-own-town",
+"href": "https://westvirginiawatch.com/2026/07/22/fundamental-data-rep-says-company-wrote-wv-data-center-law-urges-project-guardrails-in-his-own-town"
+}
 ]

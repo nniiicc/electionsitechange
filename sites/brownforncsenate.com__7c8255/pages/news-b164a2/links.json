@@ -1,11 +1,62 @@
 [
-"https://brownforncsenate.com/",
-"https://brownforncsenate.com/about",
-"https://brownforncsenate.com/contact",
-"https://brownforncsenate.com/events-1",
-"https://brownforncsenate.com/get-involved",
-"https://brownforncsenate.com/news",
-"https://facebook.com/wix",
-"https://instagram.com/brown4ncsenate",
-"https://secure.actblue.com/donate/doylebrownforncsenate"
+{
+"text": "About",
+"href": "https://www.brownforncsenate.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.brownforncsenate.com/about"
+},
+{
+"text": "All Articles",
+"href": "https://www.brownforncsenate.com/news"
+},
+{
+"text": "Contact",
+"href": "https://www.brownforncsenate.com/contact"
+},
+{
+"text": "Contact",
+"href": "mailto:brownforncsenate@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/doylebrownforncsenate"
+},
+{
+"text": "Doyle Brown",
+"href": "https://www.brownforncsenate.com"
+},
+{
+"text": "Events",
+"href": "https://www.brownforncsenate.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.brownforncsenate.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.brownforncsenate.com/news"
+},
+{
+"text": "NC SENATE 48",
+"href": "https://www.brownforncsenate.com"
+},
+{
+"text": "News",
+"href": "https://www.brownforncsenate.com/news"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/brown4ncsenate/"
+},
+{
+"text": "info@mysite.com",
+"href": "mailto:info@mysite.com"
+}
 ]

@@ -1,8 +1,10 @@
 {
  "description": "Campaign news and press coverage for Brad Beekman, candidate for the Illinois 36th Senate District.",
  "final_url": "https://www.beekmanforsenate.com/news",
- "paid_for_by": "Paid for by Beekman for Senate A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (",
- "title": "News \u00b7 Brad Beekman for State Senate",
+ "fingerprint": "881e55b14fac0049fa861bb81fefb81d6e34b376",
+ "format": 3,
+ "paid_for_by": "Paid for by Beekman for Senate A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website ( www",
+ "title": "News · Brad Beekman for State Senate",
  "years_mentioned": [
   "2025"
  ]

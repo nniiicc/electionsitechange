@@ -1,15 +1,74 @@
 [
-"https://facebook.com/profile.php?id=61562034698041",
-"https://instagram.com/terryspahrrocks",
-"https://secure.actblue.com/donate/terry-spahr-for-nh-1",
-"https://spahr4nh.org/",
-"https://spahr4nh.org/about-terry-spahr",
-"https://spahr4nh.org/constituent-services",
-"https://spahr4nh.org/contact",
-"https://spahr4nh.org/donate",
-"https://spahr4nh.org/get-engaged",
-"https://spahr4nh.org/news",
-"https://spahr4nh.org/newsletter",
-"https://spahr4nh.org/nh-strong",
-"https://x.com/terryspahrrocks"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/terry-spahr-for-nh-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/terry-spahr-for-nh-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/terry-spahr-for-nh-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/terry-spahr-for-nh-1"
+},
+{
+"text": "About",
+"href": "https://spahr4nh.org/about-terry-spahr/"
+},
+{
+"text": "Constituent Services",
+"href": "https://spahr4nh.org/constituent-services/"
+},
+{
+"text": "Contact",
+"href": "https://spahr4nh.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/terry-spahr-for-nh-1"
+},
+{
+"text": "Donate",
+"href": "https://spahr4nh.org/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61562034698041"
+},
+{
+"text": "Get Engaged",
+"href": "https://spahr4nh.org/get-engaged/"
+},
+{
+"text": "Home",
+"href": "https://spahr4nh.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/terryspahrrocks"
+},
+{
+"text": "NH Strong",
+"href": "https://spahr4nh.org/nh-strong/"
+},
+{
+"text": "News",
+"href": "https://spahr4nh.org/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://spahr4nh.org/newsletter/"
+},
+{
+"text": "X",
+"href": "https://www.x.com/terryspahrrocks"
+},
+{
+"text": "[image: Terry Spahr for NH]",
+"href": "https://spahr4nh.org/"
+}
 ]

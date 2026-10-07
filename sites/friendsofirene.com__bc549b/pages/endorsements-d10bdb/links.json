@@ -1,11 +1,46 @@
 [
-"https://friendsofirene.com/",
-"https://friendsofirene.com/about-irene",
-"https://friendsofirene.com/endorsements",
-"https://friendsofirene.com/get-involved",
-"https://friendsofirene.com/my-platform",
-"https://friendsofirene.com/news-updates",
-"https://mail.google.com/mail/u/2",
-"https://secure.winred.com/team-guanill/donate-today?qr=true",
-"https://webador.com/"
+{
+"text": "About Irene",
+"href": "https://www.friendsofirene.com/about-irene"
+},
+{
+"text": "Donate now",
+"href": "https://secure.winred.com/team-guanill/donate-today?qr=true"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofirene.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.friendsofirene.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofirene.com/"
+},
+{
+"text": "My Platform",
+"href": "https://www.friendsofirene.com/my-platform"
+},
+{
+"text": "News & Updates",
+"href": "https://www.friendsofirene.com/news-updates"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.friendsofirene.com/endorsements#main-content"
+},
+{
+"text": "Volunteer now",
+"href": "https://mail.google.com/mail/u/2/#inbox"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+},
+{
+"text": "friendsofirene.com",
+"href": "https://www.friendsofirene.com/"
+}
 ]

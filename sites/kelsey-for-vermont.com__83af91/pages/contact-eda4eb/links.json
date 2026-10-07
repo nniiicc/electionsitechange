@@ -1,12 +1,46 @@
 [
-"https://kelsey-for-vermont.com/",
-"https://kelsey-for-vermont.com/about",
-"https://kelsey-for-vermont.com/about-1",
-"https://kelsey-for-vermont.com/cart",
-"https://kelsey-for-vermont.com/contact",
-"https://kelsey-for-vermont.com/endorsements",
-"https://kelsey-for-vermont.com/op-eds",
-"https://kelsey-for-vermont.com/pressmedia",
-"https://kelsey-for-vermont.com/priorities",
-"https://secure.actblue.com/donate/kelsey-pasteris-1"
+{
+"text": "0",
+"href": "https://www.kelsey-for-vermont.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.kelsey-for-vermont.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.kelsey-for-vermont.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kelsey-pasteris-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kelsey-for-vermont.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kelsey-for-vermont.com/"
+},
+{
+"text": "Op-Eds",
+"href": "https://www.kelsey-for-vermont.com/op-eds"
+},
+{
+"text": "Press & Media",
+"href": "https://www.kelsey-for-vermont.com/pressmedia"
+},
+{
+"text": "Priorities",
+"href": "https://www.kelsey-for-vermont.com/priorities"
+},
+{
+"text": "Where Is Kelsey?",
+"href": "https://www.kelsey-for-vermont.com/about-1"
+},
+{
+"text": "[image: Kelsey For Vermont]",
+"href": "https://www.kelsey-for-vermont.com/"
+}
 ]

@@ -1,12 +1,42 @@
 [
-"https://electstephanie.com/",
-"https://electstephanie.com/get-involved",
-"https://electstephanie.com/meet-stephanie",
-"https://electstephanie.com/priorities",
-"https://electstephanie.com/privacy-policy",
-"https://electstephanie.com/voter-info",
-"https://facebook.com/stephanieforsenate",
-"https://instagram.com/electstephanie",
-"https://secure.actblue.com/donate/ws-pitcher",
-"https://twitter.com/steph_pitcher"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ws-pitcher"
+},
+{
+"text": "GET INVOLVED!",
+"href": "https://www.electstephanie.com/get-involved/"
+},
+{
+"text": "MEET STEPHANIE",
+"href": "https://www.electstephanie.com/meet-stephanie/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.electstephanie.com/priorities/"
+},
+{
+"text": "SD-14",
+"href": "https://www.electstephanie.com/voter-info/"
+},
+{
+"text": "[image: Stephanie Pitcher] [image: Stephanie Pitcher]",
+"href": "https://www.electstephanie.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/steph_pitcher"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/stephanieforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electstephanie"
+},
+{
+"text": "privacy policy",
+"href": "https://www.electstephanie.com/privacy-policy"
+}
 ]

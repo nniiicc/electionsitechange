@@ -1,15 +1,58 @@
 [
-"https://chaunteforok.com/",
-"https://chaunteforok.com/contact",
-"https://chaunteforok.com/events",
-"https://chaunteforok.com/issues",
-"https://chaunteforok.com/privacy-policy",
-"https://chaunteforok.com/yard-sign",
-"https://designedtorun.com/",
-"https://facebook.com/ChaunteGilmoreforHD100",
-"https://instagram.com/chauntegilmore",
-"https://mobilize.us/?tag_ids=30962",
-"https://secure.actblue.com/donate/chaunt--gilmore-1",
-"https://secure.actblue.com/donate/gilmore2026&amount=26",
-"https://tiktok.com/@chauntegilmore"
+{
+"text": "Contact",
+"href": "https://www.chaunteforok.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/chaunt--gilmore-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gilmore2026&amount=26"
+},
+{
+"text": "Events",
+"href": "https://www.chaunteforok.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.chaunteforok.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.chaunteforok.com/issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.chaunteforok.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/?tag_ids=30962"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.chaunteforok.com/yard-sign"
+},
+{
+"text": "[image: Chaunté Gilmore for House]",
+"href": "https://www.chaunteforok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/ChaunteGilmoreforHD100"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/chauntegilmore"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@chauntegilmore"
+}
 ]

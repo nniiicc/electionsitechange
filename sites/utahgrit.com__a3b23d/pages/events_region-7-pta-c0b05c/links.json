@@ -1,21 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Region+7+PTA&dates=20261014T000000Z%2F20261014T020000Z&location=615+East+8000+South%2C+Sandy%2C+Utah%2C+84070%2C+United+States",
-"http://maps.google.com/?q=615+East+8000+South+Sandy%2C+Utah%2C+84070+United+States",
-"https://facebook.com/RodMoser.UtahGrit",
-"https://instagram.com/utah.grit",
-"https://saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf",
-"https://secure.actblue.com/donate/utahgrit",
-"https://utahgrit.com/",
-"https://utahgrit.com/cart",
-"https://utahgrit.com/contact",
-"https://utahgrit.com/endorsements",
-"https://utahgrit.com/events",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10",
-"https://utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17",
-"https://utahgrit.com/events/region-7-pta?format=ical",
-"https://utahgrit.com/events?tag=meet+and+greet",
-"https://utahgrit.com/grit-perspective",
-"https://utahgrit.com/issues-that-matter",
-"https://utahgrit.com/volunteer-form",
-"https://youtube.com/@UtahGrit"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=615+east+8000+south+sandy%2C+utah%2C+84070+united+states"
+},
+{
+"text": "0",
+"href": "https://www.utahgrit.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.utahgrit.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/utahgrit"
+},
+{
+"text": "Endorsements",
+"href": "https://www.utahgrit.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.utahgrit.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Region+7+PTA&dates=20261014T000000Z%2F20261014T020000Z&location=615+East+8000+South%2C+Sandy%2C+Utah%2C+84070%2C+United+States"
+},
+{
+"text": "Grit Perspective",
+"href": "https://www.utahgrit.com/grit-perspective"
+},
+{
+"text": "House District 45 MAP",
+"href": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/election-maps/district-maps/state-house-of-representatives/state-house_45.pdf"
+},
+{
+"text": "ICS",
+"href": "https://www.utahgrit.com/events/region-7-pta?format=ical"
+},
+{
+"text": "Issues That Matter",
+"href": "https://www.utahgrit.com/issues-that-matter"
+},
+{
+"text": "Next Next October 17 Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17"
+},
+{
+"text": "Previous Previous October 10 Canvass with Rod Moser for HD45",
+"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10"
+},
+{
+"text": "Volunteer",
+"href": "https://www.utahgrit.com/volunteer-form"
+},
+{
+"text": "[image: Rod Moser For Utah House District 45]",
+"href": "https://www.utahgrit.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RodMoser.UtahGrit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/utah.grit/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@UtahGrit"
+},
+{
+"text": "meet and greet",
+"href": "https://www.utahgrit.com/events?tag=meet+and+greet"
+}
 ]

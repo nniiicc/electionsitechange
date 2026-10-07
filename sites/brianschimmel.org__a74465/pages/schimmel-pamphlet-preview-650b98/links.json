@@ -1,13 +1,46 @@
 [
-"https://brianschimmel.org/about-brian",
-"https://brianschimmel.org/in-the-news",
-"https://brianschimmel.org/schimmel-pamphlet-preview",
-"https://brianschimmel.org/wp-content/uploads/2026/04/Oregons_29th_House_district.pdf",
-"https://brianschimmel.org/wp-content/uploads/2026/09/Pamphlet-Preview.pdf",
-"https://facebook.com/brian.schimmel.35",
-"https://instagram.com/brian.schimmel.35",
-"https://linkedin.com/in/brianschimmel",
-"https://secure.anedot.com/friends-of-brian-schimmel/donate",
-"https://tiktok.com/@brianhschimmel",
-"https://x.com/BrianSchim19211"
+{
+"text": "About Brian",
+"href": "https://brianschimmel.org/about-brian/"
+},
+{
+"text": "District Map",
+"href": "https://brianschimmel.org/wp-content/uploads/2026/04/Oregons_29th_House_district.pdf"
+},
+{
+"text": "Donate!",
+"href": "https://secure.anedot.com/friends-of-brian-schimmel/donate"
+},
+{
+"text": "Download Pamphlet Preview >",
+"href": "https://brianschimmel.org/wp-content/uploads/2026/09/Pamphlet-Preview.pdf"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/brian.schimmel.35"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/brian.schimmel.35/"
+},
+{
+"text": "Follow",
+"href": "https://www.linkedin.com/in/brianschimmel/"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@brianhschimmel"
+},
+{
+"text": "Follow",
+"href": "https://x.com/BrianSchim19211"
+},
+{
+"text": "In the News",
+"href": "https://brianschimmel.org/in-the-news/"
+},
+{
+"text": "Pamphlet Preview",
+"href": "https://brianschimmel.org/schimmel-pamphlet-preview/"
+}
 ]

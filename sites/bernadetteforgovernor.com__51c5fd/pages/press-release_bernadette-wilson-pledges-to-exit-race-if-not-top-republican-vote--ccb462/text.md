@@ -1,6 +1,4 @@
-September 24, 2025
-Dear Republican candidates for governor of Alaska,
-First, thank you for your dedication to Alaska and your willingness to run for governor of our great state.
+Skip to content About Vision for Alaska On the Issues Meet Mike Shower About Vision for Alaska On the Issues Meet Mike Shower Press Kit Press Release Merchandise Email Us Press Kit Press Release Merchandise Email Us Donate Now Donate Now Home About Vision for Alaska On the Issues Press Kit Press Releases Merchandise Contact Home About Vision for Alaska On the Issues Press Kit Press Releases Merchandise Contact Press Release September 24, 2025 Facebook Instagram X-twitter Bernadette Wilson Pledges To Exit Race If Not Top Republican Vote Getter Asks Fellow Republican Candidates to Make Same Commitment September 24, 2025 Dear Republican candidates for governor of Alaska, First, thank you for your dedication to Alaska and your willingness to run for governor of our great state.
 Together, we are engaging in the arena of debate, testing and weighing the best of ideas.
 Together, we are bringing our forefathers vision to fruition and for that, I am thankful to each of you.
 I have no doubt that our robust field of Republican candidates will produce the best nominee for our party who will win next November and keep Alaska’s highest office in Republican hands.
@@ -15,7 +13,9 @@ Until then we must not allow ranked choice voting to silence Alaska’s voices.
 We must unite to overcome it.
 I am 100% committed to dropping out of this race if I am not the top Republican voter getter, and to fully endorsing whoever is that winner.
 Winning this election for the future of Alaska and conservative values is vastly more important than any of us individually, and I am asking you to join me in that pledge today.
-Sincerely,
-Bernadette Wilson
-Paid for by Bernadette for Governor.
-PO Box 112149, Anchorage AK 99511
+Sincerely, Bernadette Wilson Paid for by Bernadette for Governor.
+PO Box 112149, Anchorage AK 99511 Morton Blackwell, Chairman of Conservative Leadership PAC, Endorses Bernadette Wilson for Governor FOR IMMEDIATE RELEASE Tuesday, June 30, 2026 Contact: paul@rivalstrategygroup.com Anchorage, AK – Today Bernadette Wilson, Republican candidate for Governor of Alaska, announced the endorsement of Read More » June 30, 2026 Bernadette Wilson Raises Over $300k FOR IMMEDIATE RELEASE February 18, 2026 Contact: press@bernadetteforgovernor.com Today, Bernadette Wilson, Republican candidate for Governor of Alaska, announced that she raised over $# for her Read More » February 18, 2026 Bernadette Wilson Announces State Senator & Veteran Mike Shower As Running Mate for Gubernatorial Campaign FOR IMMEDIATE RELEASE September 9, 2025 Contact: Press@BernadetteforGovernor.com Big Lake – Today, leading Republican gubernatorial candidate Bernadette Wilson announced that State Senator and Veteran Mike Read More » September 9, 2025 Media and Press Inquiries Are you a member of the media or press interested in covering Bernadette’s campaign?
+We’d love to hear from you. 📩 For all media inquiries, please contact: Connect with Our Team On the Issues Press Kit Press Release Press Inquiries On the Issues Press Kit Press Release Press Inquiries info@bernadetteforgovernor.com PO.
+Box 112149 Anchorage, Alaska 99511 Facebook-f Instagram X-twitter Youtube Tiktok Donate Facebook-f Instagram X-twitter Youtube Tiktok © Copyright # Bernadette For Alaska.
+Paid for by Bernadette for Governor PO.
+Box 112149 Anchorage, Alaska 99511 Privacy Policy

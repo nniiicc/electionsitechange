@@ -1,6 +1,18 @@
 [
-"https://davidblom.com/cart",
-"https://davidblom.com/media-pictures",
-"https://facebook.com/profile.php?id=100004711365130",
-"https://secure.winred.com/friends-of-david-blom/donate-today"
+{
+"text": "0",
+"href": "https://www.davidblom.com/cart"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/friends-of-david-blom/donate-today"
+},
+{
+"text": "[image]",
+"href": "https://www.davidblom.com/media-pictures"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=100004711365130"
+}
 ]

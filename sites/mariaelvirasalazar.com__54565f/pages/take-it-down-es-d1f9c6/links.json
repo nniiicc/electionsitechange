@@ -1,21 +1,98 @@
 [
-"http://facebook.com/sharer/sharer.php",
-"http://mariaelvirasalazar.com/es",
-"https://facebook.com/mariaelvirasalazar",
-"https://instagram.com/maelvirasalazar?hl=en",
-"https://linkedin.com/in/mariaelviralive",
-"https://mariaelvirasalazar.com/",
-"https://mariaelvirasalazar.com/en",
-"https://mariaelvirasalazar.com/es",
-"https://mariaelvirasalazar.com/es/biografia",
-"https://mariaelvirasalazar.com/es/cuestiones",
-"https://mariaelvirasalazar.com/es/dia_de_elecciones",
-"https://mariaelvirasalazar.com/es/noticias",
-"https://mariaelvirasalazar.com/es/politica-de-privacidad",
-"https://mariaelvirasalazar.com/es/unete-al-equipo",
-"https://secure.winred.com/salazar/espanol",
-"https://store.mariaelvirasalazar.com/storefront",
-"https://twitter.com/MaElviraSalazar",
-"https://twitter.com/intent/tweet",
-"https://youtube.com/user/mariaelviratv"
+{
+"text": "+1 (305) 338-3586",
+"href": "tel:+1(305)338-3586"
+},
+{
+"text": "+1 (305) 713-4327",
+"href": "tel:+1(305)713-4327"
+},
+{
+"text": "Biografía",
+"href": "https://mariaelvirasalazar.com/es/biografia/"
+},
+{
+"text": "Donar",
+"href": "https://secure.winred.com/salazar/espanol"
+},
+{
+"text": "Donde Votar",
+"href": "https://mariaelvirasalazar.com/es/dia_de_elecciones/"
+},
+{
+"text": "English",
+"href": "https://mariaelvirasalazar.com/"
+},
+{
+"text": "In English",
+"href": "https://mariaelvirasalazar.com/"
+},
+{
+"text": "Noticias",
+"href": "https://mariaelvirasalazar.com/es/noticias/"
+},
+{
+"text": "POLÍTICA DE PRIVACIDAD",
+"href": "https://mariaelvirasalazar.com/es/politica-de-privacidad"
+},
+{
+"text": "Políticas",
+"href": "https://mariaelvirasalazar.com/es/cuestiones/"
+},
+{
+"text": "Tienda Online",
+"href": "https://store.mariaelvirasalazar.com/storefront/"
+},
+{
+"text": "[image: Maria Elvira Salazar for Congress]",
+"href": "https://mariaelvirasalazar.com/en/"
+},
+{
+"text": "[image: Maria Elvira Salazar for Congress]",
+"href": "https://mariaelvirasalazar.com/es"
+},
+{
+"text": "[image]",
+"href": "http://www.mariaelvirasalazar.com/es"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "http://www.facebook.com/sharer/sharer.php?u="
+},
+{
+"text": "[tooltip: Tweet This]",
+"href": "https://twitter.com/intent/tweet?url="
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/mariaelvirasalazar/"
+},
+{
+"text": "[tooltip: instagram]",
+"href": "https://www.instagram.com/maelvirasalazar/?hl=en"
+},
+{
+"text": "[tooltip: linkedin]",
+"href": "https://www.linkedin.com/in/mariaelviralive/"
+},
+{
+"text": "[tooltip: twitter]",
+"href": "https://twitter.com/MaElviraSalazar"
+},
+{
+"text": "[tooltip: youtube]",
+"href": "https://www.youtube.com/user/mariaelviratv"
+},
+{
+"text": "info@salazar27.com",
+"href": "mailto:info@salazar27.com"
+},
+{
+"text": "press@salazar27.com",
+"href": "mailto:press@salazar27.com"
+},
+{
+"text": "Únete al Equipo",
+"href": "https://mariaelvirasalazar.com/es/unete-al-equipo/"
+}
 ]

@@ -1,216 +1,23 @@
-Underwood for Colorado – ErikUnderwood.com
-Effective Date: February 22, 2026
-Last Updated: February 22, 2026
-ACCEPTANCE OF TERMS
-Welcome to ErikUnderwood.com, the official campaign website for Erik Underwood’s candidacy for Governor of Colorado.
+Skip to content Skip to footer Home About Erik Issues General Election Message Volunteer Endorsements Events News Media Contact +1(720)-722-9404 Donate Now Donate Terms & Condition Close Home About Erik Issues General Election Message Volunteer Endorsements Events News Media Contact facebook-1 instagram twitter-x tik-tok Have Questions? info@website.com Want to Work with Us?
+Send Brief Wish to Support Us?
+Donate Now Underwood for Colorado – ErikUnderwood.com Effective Date: February 22, 2026 Last Updated: February 22, 2026 ACCEPTANCE OF TERMS Welcome to ErikUnderwood.com, the official campaign website for Erik Underwood’s candidacy for Governor of Colorado.
 By accessing, browsing, or using this website, you agree to be bound by these Terms and Conditions (“Terms”) and our Privacy Policy.
 If you do not agree to these Terms, please do not use this website.
 These Terms constitute a legally binding agreement between you and Underwood for Colorado.
-ABOUT THIS WEBSITE
-Campaign Purpose
-This website is operated by Underwood for Colorado to:
-- Provide information about Erik Underwood’s candidacy for Governor of Colorado
-- Share policy positions, campaign updates, and election information
-- Facilitate volunteer engagement and grassroots organizing
-- Process campaign donations and contributions
-- Connect supporters with campaign activities and events
-Political Communication
-This website contains political speech protected by the First Amendment.
+ABOUT THIS WEBSITE Campaign Purpose This website is operated by Underwood for Colorado to: Provide information about Erik Underwood’s candidacy for Governor of Colorado Share policy positions, campaign updates, and election information Facilitate volunteer engagement and grassroots organizing Process campaign donations and contributions Connect supporters with campaign activities and events Political Communication This website contains political speech protected by the First Amendment.
 Content represents the views and positions of Erik Underwood and his campaign team.
-ACCEPTABLE USE
-Permitted Uses
-You may use this website to:
-- View campaign information, policy positions, and news updates
-- Make donations in compliance with election laws
-- Sign up for volunteer opportunities and campaign events
-- Share content through social media and personal communications
-- Subscribe to email updates and newsletters
-Prohibited Uses
-You may NOT use this website to:
-- Violate Laws: Engage in illegal activity or violate federal, state, or local laws
-- Harassment: Harass, threaten, or intimidate campaign staff, volunteers, or other users
-- False Information: Provide false, misleading, or fraudulent information
-- Spam or Abuse: Send unsolicited communications or abuse website functionality
-- Security Threats: Attempt to hack, disrupt, or compromise website security
-- Commercial Use: Use content for commercial purposes without written permission
-- Impersonation: Impersonate Erik Underwood, campaign staff, or other individuals
-- Intellectual Property Violation: Use copyrighted material without authorization
-CAMPAIGN CONTRIBUTIONS AND DONATIONS
-Legal Requirements
-All campaign contributions must comply with:
-- Federal Election Commission (FEC) regulations
-- Colorado Fair Campaign Practices Act
-- Local election laws and ordinances
-Contribution Restrictions
-- Eligibility: Only U.S. citizens and lawful permanent residents may contribute
-- Limits: Contributions are subject to federal and state legal limits
-- Prohibited Sources: Corporate contributions, foreign national contributions, and other restricted sources are prohibited
-- Required Information: Donors must provide accurate name, address, occupation, and employer information
-Refund Policy
-- Prohibited Contributions: Illegal contributions will be refunded promptly
-- Duplicate Charges: Technical errors resulting in duplicate charges will be refunded immediately
-- Voluntary Refunds: Refund requests should be directed to team@erikunderwood.com
-- Processing Time: Refunds are typically processed within 5-10 business days.
-INTELLECTUAL PROPERTY RIGHTS
-Campaign Content
-- Ownership: All content on this website, including text, images, logos, videos, and design elements, is owned by Underwood for Colorado or used with permission
-- Trademarks: “Underwood for Colorado,” “Erik Underwood,” campaign logos, and slogans are trademarks of the campaign
-- Copyright: Website content is protected by U.S. copyright law
-User License
-We grant you a limited, non-exclusive, non-transferable license to:
-- View and Share: Access website content for personal, non-commercial use
-- Social Sharing: Share campaign content through personal social media and communications
-- Print: Print content for personal reference and volunteer activities
-Restrictions
-You may NOT:
-- Modify: Alter, edit, or create derivative works of campaign content
-- Commercial Use: Use content for commercial purposes without written permission
-- Mass Distribution: Republish content for mass distribution without authorization
-- Misrepresentation: Use content in ways that misrepresent Erik Underwood’s positions or the campaign
-USER-GENERATED CONTENT
-Submissions
-When you submit content to our website (comments, messages, photos, testimonials):
-- License Grant: You grant Underwood for Colorado a non-exclusive, royalty-free license to use your content for campaign purposes
-- Accuracy: You represent that your submission is accurate and that you have rights to share it
-- No Compensation: No compensation will be provided for user submissions
-Content Guidelines
-User submissions must:
-- Be Truthful: Contain accurate, honest information
-- Stay On-Topic: Relate to the campaign, elections, or relevant political issues
-- Respect Others: Avoid harassment, hate speech, or discriminatory language
-- Follow Laws: Comply with all applicable laws and regulations
-Moderation Rights
-We reserve the right to:
-- Review: Review all user submissions before publication
-- Edit: Edit content for length, clarity, or compliance with guidelines
-- Remove: Remove content that violates these Terms or our guidelines
-- Block: Block users who repeatedly violate Terms or engage in inappropriate behavior
-THIRD-PARTY LINKS AND SERVICES
-External Links
-Our website may contain links to third-party websites, social media platforms, and services:
-- No Endorsement: Links do not constitute endorsement of third-party content or services
-- No Control: We do not control third-party content and are not responsible for its accuracy or appropriateness
-- User Responsibility: Use of third-party services is governed by their terms and conditions
-Social Media Integration
-Our website may integrate with social media platforms:
-- Platform Terms: Your use is subject to the terms of those platforms
-- Data Sharing: Information may be shared between our website and social platforms according to your privacy settings
-- Content Responsibility: You are responsible for content you share on social media
-DISCLAIMERS AND LIMITATIONS
-Website Availability
-- “As Is” Basis: Website is provided on an “as is” and “as available” basis
-- No Warranties: We make no warranties regarding website functionality, accuracy, or availability
-- Technical Issues: We are not responsible for technical problems, downtime, or service interruptions
-Content Accuracy
-- Information Purpose: Content is provided for informational purposes about Erik Underwood’s candidacy
-- Currency: We strive to keep information current but make no guarantees about timeliness
-- Political Speech: Policy positions and statements represent Erik Underwood’s views and may evolve during the campaign
-Limitation of Liability
-To the fullest extent permitted by law:
-- No Damages: We are not liable for any direct, indirect, incidental, or consequential damages
-- Maximum Liability: Our total liability shall not exceed the amount you paid to us, if any
-- Force Majeure: We are not responsible for failures due to circumstances beyond our control
-PRIVACY AND DATA PROTECTION
-Privacy Policy
-Your privacy is governed by our Privacy Policy, which is incorporated into these Terms by reference.
+ACCEPTABLE USE Permitted Uses You may use this website to: View campaign information, policy positions, and news updates Make donations in compliance with election laws Sign up for volunteer opportunities and campaign events Share content through social media and personal communications Subscribe to email updates and newsletters Prohibited Uses You may NOT use this website to: Violate Laws : Engage in illegal activity or violate federal, state, or local laws Harassment : Harass, threaten, or intimidate campaign staff, volunteers, or other users False Information : Provide false, misleading, or fraudulent information Spam or Abuse : Send unsolicited communications or abuse website functionality Security Threats : Attempt to hack, disrupt, or compromise website security Commercial Use : Use content for commercial purposes without written permission Impersonation : Impersonate Erik Underwood, campaign staff, or other individuals Intellectual Property Violation: Use copyrighted material without authorization CAMPAIGN CONTRIBUTIONS AND DONATIONS Legal Requirements All campaign contributions must comply with: Federal Election Commission (FEC) regulations Colorado Fair Campaign Practices Act Local election laws and ordinances Contribution Restrictions Eligibility : Only U.S. citizens and lawful permanent residents may contribute Limits : Contributions are subject to federal and state legal limits Prohibited Sources : Corporate contributions, foreign national contributions, and other restricted sources are prohibited Required Information : Donors must provide accurate name, address, occupation, and employer information Refund Policy Prohibited Contributions : Illegal contributions will be refunded promptly Duplicate Charges : Technical errors resulting in duplicate charges will be refunded immediately Voluntary Refunds : Refund requests should be directed to team@erikunderwood.com Processing Time : Refunds are typically processed within 5-10 business days.
+INTELLECTUAL PROPERTY RIGHTS Campaign Content Ownership : All content on this website, including text, images, logos, videos, and design elements, is owned by Underwood for Colorado or used with permission Trademarks : “Underwood for Colorado,” “Erik Underwood,” campaign logos, and slogans are trademarks of the campaign Copyright : Website content is protected by U.S. copyright law User License We grant you a limited, non-exclusive, non-transferable license to: View and Share : Access website content for personal, non-commercial use Social Sharing : Share campaign content through personal social media and communications Print : Print content for personal reference and volunteer activities Restrictions You may NOT: Modify : Alter, edit, or create derivative works of campaign content Commercial Use : Use content for commercial purposes without written permission Mass Distribution : Republish content for mass distribution without authorization Misrepresentation : Use content in ways that misrepresent Erik Underwood’s positions or the campaign USER-GENERATED CONTENT Submissions When you submit content to our website (comments, messages, photos, testimonials): License Grant : You grant Underwood for Colorado a non-exclusive, royalty-free license to use your content for campaign purposes Accuracy : You represent that your submission is accurate and that you have rights to share it No Compensation : No compensation will be provided for user submissions Content Guidelines User submissions must: Be Truthful : Contain accurate, honest information Stay On-Topic : Relate to the campaign, elections, or relevant political issues Respect Others : Avoid harassment, hate speech, or discriminatory language Follow Laws : Comply with all applicable laws and regulations Moderation Rights We reserve the right to: Review : Review all user submissions before publication Edit : Edit content for length, clarity, or compliance with guidelines Remove : Remove content that violates these Terms or our guidelines Block : Block users who repeatedly violate Terms or engage in inappropriate behavior THIRD-PARTY LINKS AND SERVICES External Links Our website may contain links to third-party websites, social media platforms, and services: No Endorsement : Links do not constitute endorsement of third-party content or services No Control : We do not control third-party content and are not responsible for its accuracy or appropriateness User Responsibility : Use of third-party services is governed by their terms and conditions Social Media Integration Our website may integrate with social media platforms: Platform Terms : Your use is subject to the terms of those platforms Data Sharing : Information may be shared between our website and social platforms according to your privacy settings Content Responsibility : You are responsible for content you share on social media DISCLAIMERS AND LIMITATIONS Website Availability “As Is” Basis : Website is provided on an “as is” and “as available” basis No Warranties : We make no warranties regarding website functionality, accuracy, or availability Technical Issues : We are not responsible for technical problems, downtime, or service interruptions Content Accuracy Information Purpose : Content is provided for informational purposes about Erik Underwood’s candidacy Currency : We strive to keep information current but make no guarantees about timeliness Political Speech : Policy positions and statements represent Erik Underwood’s views and may evolve during the campaign Limitation of Liability To the fullest extent permitted by law: No Damages : We are not liable for any direct, indirect, incidental, or consequential damages Maximum Liability : Our total liability shall not exceed the amount you paid to us, if any Force Majeure : We are not responsible for failures due to circumstances beyond our control PRIVACY AND DATA PROTECTION Privacy Policy Your privacy is governed by our Privacy Policy, which is incorporated into these Terms by reference.
 Please review our Privacy Policy to understand how we collect, use, and protect your information.
-Data Security
-While we implement security measures to protect your information:
-- No Guarantee: We cannot guarantee complete security of data transmission over the internet
-- User Responsibility: You are responsible for maintaining the confidentiality of any account credentials
-- Breach Notification: We will notify users of any significant data breaches as required by law
-ELECTION LAW COMPLIANCE
-Campaign Finance Laws
-This website and all related activities comply with:
-- Federal Election Campaign Act
-- Colorado Fair Campaign Practices Act
-- IRS regulations for political organizations
-Required Disclosures
-- Paid for by: Underwood for Colorado
-- Not Authorized: This website is not authorized by any candidate or candidate’s committee other than Erik Underwood
-- Public Inspection: Required campaign finance records are available for public inspection
-Reporting Requirements
-We maintain records and file reports as required by:
-- Federal Election Commission
-- Colorado Secretary of State
-- Local election authorities
-TERMINATION
-User Termination
-You may stop using this website at any time.
+Data Security While we implement security measures to protect your information: No Guarantee : We cannot guarantee complete security of data transmission over the internet User Responsibility : You are responsible for maintaining the confidentiality of any account credentials Breach Notification : We will notify users of any significant data breaches as required by law ELECTION LAW COMPLIANCE Campaign Finance Laws This website and all related activities comply with: Federal Election Campaign Act Colorado Fair Campaign Practices Act IRS regulations for political organizations Required Disclosures Paid for by : Underwood for Colorado Not Authorized : This website is not authorized by any candidate or candidate’s committee other than Erik Underwood Public Inspection : Required campaign finance records are available for public inspection Reporting Requirements We maintain records and file reports as required by: Federal Election Commission Colorado Secretary of State Local election authorities TERMINATION User Termination You may stop using this website at any time.
 To unsubscribe from communications, use the provided opt-out methods or contact us directly.
-Campaign Termination
-We may terminate or suspend your access to this website for:
-- Terms Violation: Violation of these Terms or our policies
-- Illegal Activity: Engaging in illegal activity related to the website
-- Security Threats: Threatening website or user security
-- Abusive Behavior: Harassment of staff, volunteers, or other users
-Effect of Termination
-Upon termination:
-- Access Ends: Your right to use the website immediately ceases
-- Data Retention: We may retain your information as required by law or for legitimate campaign purposes
-- Survival: Provisions regarding intellectual property, disclaimers, and limitations of liability survive termination
-GOVERNING LAW AND DISPUTES
-Applicable Law
-These Terms are governed by:
-- Colorado State Law: For general contract and consumer protection matters
-- Federal Law: For election law, campaign finance, and political speech matters
-- Local Law: For applicable municipal ordinances
-Dispute Resolution
-- Informal Resolution: We encourage informal resolution of disputes through direct communication
-- Jurisdiction: Any legal proceedings must be brought in Colorado state or federal courts
-- Venue: Venue for any disputes shall be in Denver, Colorado
-Election Law Disputes
-Disputes related to election law, campaign finance, or political speech may be subject to:
-- Administrative Proceedings: FEC or Colorado Secretary of State processes
-- Expedited Resolution: Due to time-sensitive nature of elections
-- First Amendment Protections: Full protection of political speech rights
-MODIFICATIONS AND UPDATES
-Terms Changes
-We may modify these Terms at any time:
-- Notice: Changes will be posted on this website with updated effective date
-- Material Changes: Significant changes will be highlighted and may require new acceptance
-- Continued Use: Your continued use after changes constitutes acceptance of modified Terms
-Website Updates
-We regularly update website content and functionality:
-- Content Updates: Policy positions, campaign news, and event information may change frequently
-- Feature Changes: Website features and functionality may be added, modified, or removed
-- Maintenance: Periodic maintenance may temporarily affect website availability
-ACCESSIBILITY
-Commitment to Accessibility
-We are committed to making our website accessible to all users, including those with disabilities:
-- Standards Compliance: We strive to meet Web Content Accessibility Guidelines (WCAG)
-- Ongoing Improvements: We continuously work to improve website accessibility
-- Feedback Welcome: Please contact us if you encounter accessibility barriers
-Assistance
-If you need assistance accessing any website content:
-- Contact Us: Use our contact form or call our campaign office
-- Alternative Formats: We can provide information in alternative formats when possible
-- Technical Support: Our team can help troubleshoot accessibility issues
-CONTACT INFORMATION
-For questions, concerns, or assistance regarding these Terms:
-Underwood for Colorado
-Email: team@erikunderwood.com
-Phone: [Campaign Phone Number]
-Mail: [1550 Larimer Street # 779 – Denver, CO 80202]
-Website: Contact form at ErikUnderwood.com
-For Accessibility Issues: team@erikunderwood.com
-For Privacy Concerns: team@erikunderwood.com
-For Technical Support: team@erikunderwood.com
-SEVERABILITY
-If any provision of these Terms is found to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect.
+Campaign Termination We may terminate or suspend your access to this website for: Terms Violation : Violation of these Terms or our policies Illegal Activity : Engaging in illegal activity related to the website Security Threats : Threatening website or user security Abusive Behavior : Harassment of staff, volunteers, or other users Effect of Termination Upon termination: Access Ends : Your right to use the website immediately ceases Data Retention : We may retain your information as required by law or for legitimate campaign purposes Survival : Provisions regarding intellectual property, disclaimers, and limitations of liability survive termination GOVERNING LAW AND DISPUTES Applicable Law These Terms are governed by: Colorado State Law : For general contract and consumer protection matters Federal Law : For election law, campaign finance, and political speech matters Local Law : For applicable municipal ordinances Dispute Resolution Informal Resolution : We encourage informal resolution of disputes through direct communication Jurisdiction : Any legal proceedings must be brought in Colorado state or federal courts Venue : Venue for any disputes shall be in Denver, Colorado Election Law Disputes Disputes related to election law, campaign finance, or political speech may be subject to: Administrative Proceedings : FEC or Colorado Secretary of State processes Expedited Resolution : Due to time-sensitive nature of elections First Amendment Protections : Full protection of political speech rights MODIFICATIONS AND UPDATES Terms Changes We may modify these Terms at any time: Notice : Changes will be posted on this website with updated effective date Material Changes : Significant changes will be highlighted and may require new acceptance Continued Use : Your continued use after changes constitutes acceptance of modified Terms Website Updates We regularly update website content and functionality: Content Updates : Policy positions, campaign news, and event information may change frequently Feature Changes : Website features and functionality may be added, modified, or removed Maintenance : Periodic maintenance may temporarily affect website availability ACCESSIBILITY Commitment to Accessibility We are committed to making our website accessible to all users, including those with disabilities: Standards Compliance : We strive to meet Web Content Accessibility Guidelines (WCAG) Ongoing Improvements : We continuously work to improve website accessibility Feedback Welcome : Please contact us if you encounter accessibility barriers Assistance If you need assistance accessing any website content: Contact Us : Use our contact form or call our campaign office Alternative Formats : We can provide information in alternative formats when possible Technical Support : Our team can help troubleshoot accessibility issues CONTACT INFORMATION For questions, concerns, or assistance regarding these Terms: Underwood for Colorado Email : team@erikunderwood.com Phone : [Campaign Phone Number] Mail : [1550 Larimer Street # 779 – Denver, CO 80202] Website : Contact form at ErikUnderwood.com For Accessibility Issues : team@erikunderwood.com For Privacy Concerns : team@erikunderwood.com For Technical Support : team@erikunderwood.com SEVERABILITY If any provision of these Terms is found to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect.
 Invalid provisions will be modified to the minimum extent necessary to make them valid and enforceable.
-ENTIRE AGREEMENT
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and Underwood for Colorado regarding your use of this website.
+ENTIRE AGREEMENT These Terms, together with our Privacy Policy, constitute the entire agreement between you and Underwood for Colorado regarding your use of this website.
 They supersede all prior or contemporaneous communications and proposals regarding the website.
-ACKNOWLEDGMENT
-By using this website, you acknowledge that:
-- You Have Read: You have read and understood these Terms and our Privacy Policy
-- You Agree: You agree to be bound by all provisions
-- Legal Capacity: You have the legal capacity to enter into this agreement
-- Current Terms: You will review Terms periodically for updates
-Thank you for supporting Erik Underwood’s campaign for Colorado Governor.
+ACKNOWLEDGMENT By using this website, you acknowledge that: You Have Read : You have read and understood these Terms and our Privacy Policy You Agree : You agree to be bound by all provisions Legal Capacity : You have the legal capacity to enter into this agreement Current Terms : You will review Terms periodically for updates Thank you for supporting Erik Underwood’s campaign for Colorado Governor.
 Together, we will fight for transparency, accountability, and justice for all Colorado families.
-Paid for by Underwood for Colorado
-Not authorized by any candidate or candidate’s committee
-Last Updated: February 22, 2026
-These Terms are effective immediately and remain in effect until the conclusion of the 2026 Colorado gubernatorial campaign or until superseded by updated Terms.
+Paid for by Underwood for Colorado Not authorized by any candidate or candidate’s committee Last Updated: February 22, 2026 These Terms are effective immediately and remain in effect until the conclusion of the 2026 Colorado gubernatorial campaign or until superseded by updated Terms.
+Erik Underwood is not a politician... he is a neighbor Address 1550 Larimer Street # 779 Denver, Colorado 80202 Facebook-f Instagram X-twitter Tiktok Youtube Say Hello team@erikunderwood.com +1(720)-722-9404 Erik Underwood is not a politician... he is a neighbor Address 1550 Larimer Street # 779 Denver, Colorado 80202 Facebook-f Instagram X-twitter Tiktok Youtube Say Hello team@erikunderwood.com +1(720)-722-9404 Privacy Policy Terms & Condition Paid for by Underwood for Colorado © #.
+All Rights Reserved.
+UNDERWOOD

@@ -1,11 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61585552611193",
-"https://hummelforthe109th.com/",
-"https://hummelforthe109th.com/issues-and-priorities",
-"https://hummelforthe109th.com/pillars",
-"https://hummelforthe109th.com/videos",
-"https://instagram.com/hummelforthe109th",
-"https://secure.actblue.com/donate/hummel-for-pa-1",
-"https://tiktok.com/@hummelforthe109th?is_from_webapp=1&sender_device=pc",
-"https://wix.com/"
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/hummel-for-pa-1"
+},
+{
+"text": "Home",
+"href": "https://www.hummelforthe109th.com"
+},
+{
+"text": "Issues and Priorities",
+"href": "https://www.hummelforthe109th.com/issues-and-priorities"
+},
+{
+"text": "Pillars",
+"href": "https://www.hummelforthe109th.com/pillars"
+},
+{
+"text": "Video Gallery",
+"href": "https://www.hummelforthe109th.com/videos"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61585552611193"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/hummelforthe109th/"
+},
+{
+"text": "[image: Picture of campaign logo]",
+"href": "https://www.hummelforthe109th.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@hummelforthe109th?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "info@hummelforthe109th.com",
+"href": "mailto:info@mysite.com"
+}
 ]

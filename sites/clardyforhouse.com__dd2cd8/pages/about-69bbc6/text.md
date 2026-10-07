@@ -1,48 +1,20 @@
-About Me
-I am dedicated to improving the lives of those who live in my community.
+0 Skip to Content Home About About Me My Priorities Endorsements Get Involved Volunteer Sign Up for Emails Contact Legislative Impact Vote News & Updates Donate Open Menu Close Menu Home About About Me My Priorities Endorsements Get Involved Volunteer Sign Up for Emails Contact Legislative Impact Vote News & Updates Donate Open Menu Close Menu Home Folder: About Back About Me My Priorities Endorsements Folder: Get Involved Back Volunteer Sign Up for Emails Contact Legislative Impact Vote News & Updates Donate About Me I am dedicated to improving the lives of those who live in my community.
 To do so requires that I serve as a relentless advocate for these neighbors.
 As a result of my career as an educator I have developed keen listening skills and have learned how to bring together those with differing points of view to achieve positive results.
-I did not set out to become an educator, but as I began to search for a school for my daughter 29 years ago, I discovered there were a number of areas in the educational system that needed improvement.
+I did not set out to become an educator, but as I began to search for a school for my daughter #ago, I discovered there were a number of areas in the educational system that needed improvement.
 Instead of sitting back and complaining, I decided to do something about it.
 Simply put, I changed my career, went back to school to secure the credentials I needed to obtain my teaching license so I could be the “difference that make the difference” through advocacy.
 Today, utilizing the skills I have garnered during my 28 year career as an educator, I serve as a mentor to teachers who are in their first three years of teaching.
 In that role, I focus on enhancing their performance and supporting their professional growth.
 I do so by working alongside them to ensure they adopt best practices.
 My goal is to increase their reflective self-directed learning through coaching, as well as collaborating, consulting, and engaging with members of the school’s administration to adopt strategies to support each teacher.
-Prior to joining the legislature, I represented the interest of students and parents, and educators on a policy level by serving as a member of the Inver Grove Heights School Board.
+Prior to joining the legislature, I represented the interest of students and parents, and educators on a policy level by serving as a member of the Inver Grove Heights School Board .
 I decided to run for House in 2022 after spending countless hours listening to parents and students.
 I recognized that there was a greater need for my advocacy to help address the kitchen table issues we all face, to address the issues faced by those with disabilities, to support economic opportunity initiatives that will strengthen small businesses and unions, to ensure safe communities, and to meet our pressing environmental challenges.
 Having been a resident of Dakota County for more than 30 years, I am keenly aware of the issues that my neighbors in District 53A face day in and day out.
 You can always count of me to fight for you as your Minnesota State Representative.
 I invite you to learn more about where I stand on the issues.
-My Experience
-TRAINED EDUCATOR
-- St.
-Paul Public Schools teacher for 28 years
-- Master of Education (M.Ed.) in Curriculum and Instruction
-TRUSTED ADVISOR & LEADER
-Current:
-- Elected Minnesota State Representative since 2022
-Former:
-- ISD199 School Board Member
-- Vice Chair of Association of Metropolitan School District (AMSD)
-- Educators for Excellence Local Advisory Board Member
-- ISD199 Superintendent’s Advisory Council
-- Governor’s appointee to Minnesota Board of School Administrators (present)
-- St.
-Paul Schools Superintendent Shared Accountability Action Team
-- Teaching Fellows Program Assistant Director
-- Minneapolis Educational Leadership Awards Steering Committee
-- Involved in Positive Behavior Management Intervention Teams
-PROJECT & BUDGET MANAGER
-- Helped develop annual Schoolwide Comprehensive Improvement Plans
-- Managed literacy grant budgets
-- St.
-Paul Federation of Educators Contract Action Team
-- Participated in facility construction planning
-- Completed school-wide mandated state reporting
-- Minnesota State University – Mankato Alumni Association Board of Director, President
-ADVOCATE FOR EQUITY IN CLASSROOMS
-- Civil Rights Commissioner for City of Minneapolis
-- Minnesota Department of Education Teacher Equity Stakeholder Advisory Group
-- Involved in the Parent Teacher Organization
+My Experience TRAINED EDUCATOR St.
+Paul Public Schools teacher for 28 years Master of Education (M.Ed.) in Curriculum and Instruction TRUSTED ADVISOR & LEADER Current: Elected Minnesota State Representative since 2022 Former: ISD199 School Board Member Vice Chair of Association of Metropolitan School District (AMSD) Educators for Excellence Local Advisory Board Member ISD199 Superintendent’s Advisory Council Governor’s appointee to Minnesota Board of School Administrators (present) St.
+Paul Schools Superintendent Shared Accountability Action Team Teaching Fellows Program Assistant Director Minneapolis Educational Leadership Awards Steering Committee Involved in Positive Behavior Management Intervention Teams PROJECT & BUDGET MANAGER Helped develop annual Schoolwide Comprehensive Improvement Plans Managed literacy grant budgets St.
+Paul Federation of Educators Contract Action Team Participated in facility construction planning Completed school-wide mandated state reporting Minnesota State University – Mankato Alumni Association Board of Director, President ADVOCATE FOR EQUITY IN CLASSROOMS Civil Rights Commissioner for City of Minneapolis Minnesota Department of Education Teacher Equity Stakeholder Advisory Group Involved in the Parent Teacher Organization Prepared and paid for by the Clardy For House Committee 6566 Cahill Ave #2514, Inver Grove Heights, Minnesota, 55076

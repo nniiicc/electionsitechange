@@ -1,9 +1,38 @@
 [
-"https://electiondaystrategies.com/",
-"https://niksandman.com/",
-"https://niksandman.com/about-nik",
-"https://niksandman.com/contact",
-"https://niksandman.com/donate",
-"https://niksandman.com/priorities",
-"https://niksandman.com/volunteer"
+{
+"text": "About Nik",
+"href": "https://niksandman.com/about-nik/"
+},
+{
+"text": "Contact",
+"href": "https://niksandman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://niksandman.com/donate/"
+},
+{
+"text": "Election Day Strategies",
+"href": "https://electiondaystrategies.com"
+},
+{
+"text": "Home",
+"href": "https://niksandman.com/"
+},
+{
+"text": "Nik Sandman",
+"href": "https://niksandman.com/"
+},
+{
+"text": "Priorities And Policies",
+"href": "https://niksandman.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://niksandman.com/volunteer/"
+},
+{
+"text": "[image: Nik Sandman]",
+"href": "https://niksandman.com/"
+}
 ]

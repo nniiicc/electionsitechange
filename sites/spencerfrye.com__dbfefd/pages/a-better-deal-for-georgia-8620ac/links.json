@@ -1,14 +1,70 @@
 [
-"https://facebook.com/SpencerFryeStateHouse",
-"https://secure.actblue.com/donate/spencerfrye",
-"https://spencerfrye.com/",
-"https://spencerfrye.com/a-better-deal-for-georgia.pdf",
-"https://spencerfrye.com/a-better-deal-for-georgia/read",
-"https://spencerfrye.com/capitol-corner",
-"https://spencerfrye.com/constituents",
-"https://spencerfrye.com/fellowship",
-"https://spencerfrye.com/meet-spencer",
-"https://spencerfrye.com/priorities",
-"https://spencerfrye.com/volunteer",
-"https://x.com/spencerfrye"
+{
+"text": "About",
+"href": "https://www.spencerfrye.com/meet-spencer/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/capitol-corner/"
+},
+{
+"text": "Constituents",
+"href": "https://www.spencerfrye.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spencerfrye"
+},
+{
+"text": "Download the PDF",
+"href": "https://www.spencerfrye.com/a-better-deal-for-georgia.pdf"
+},
+{
+"text": "Fellowship",
+"href": "https://www.spencerfrye.com/fellowship/"
+},
+{
+"text": "Priorities",
+"href": "https://www.spencerfrye.com/priorities/"
+},
+{
+"text": "Read the Full Platform",
+"href": "https://www.spencerfrye.com/a-better-deal-for-georgia/read/"
+},
+{
+"text": "Read the case studies in full",
+"href": "https://www.spencerfrye.com/a-better-deal-for-georgia/read/#case-studies"
+},
+{
+"text": "Read the economic case",
+"href": "https://www.spencerfrye.com/a-better-deal-for-georgia/read/#economic-case"
+},
+{
+"text": "Read the full case for Autonomy",
+"href": "https://www.spencerfrye.com/a-better-deal-for-georgia/read/#autonomy"
+},
+{
+"text": "Read the full case for Justice",
+"href": "https://www.spencerfrye.com/a-better-deal-for-georgia/read/#justice"
+},
+{
+"text": "Read the full case for Prosperity",
+"href": "https://www.spencerfrye.com/a-better-deal-for-georgia/read/#prosperity"
+},
+{
+"text": "Volunteer",
+"href": "https://www.spencerfrye.com/volunteer/"
+},
+{
+"text": "[image: State Representative District 122] State Representative District 122",
+"href": "https://www.spencerfrye.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SpencerFryeStateHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/spencerfrye"
+}
 ]

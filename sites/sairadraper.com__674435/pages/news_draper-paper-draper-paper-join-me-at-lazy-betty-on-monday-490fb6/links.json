@@ -1,46 +1,222 @@
 [
-"https://bsky.app/intent/compose?text=Draper+Paper%3A+Join+me+at+Lazy+Betty+%F0%9F%98%8B+on+Monday+++https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-join-me-at-lazy-betty-on-monday",
-"https://bsky.app/profile/sairaforgeorgia.bsky.social",
-"https://click.ngpvan.com/k/91121556/492788437/102554756?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9OR1AvTkdQMzMvMS85NzAyMCIsDQogICJEaXN0cmlidXRpb25VbmlxdWVJZCI6ICIzYmYwMmFkYi01NDVlLWVmMTEtOTkxYS02MDQ1YmRkYmZjNGIiLA0KICAiRW1haWxBZGRyZXNzIjogIlNhaXJhQHZvdGVzYWlyYS5jb20iDQp9&hmac=w8kG3_G2KBShTiez2RyQDQNST1Mw-fTWiIit1vx3i0U%3D&emci=a3e2cd57-cf5c-ef11-991a-6045bddbfc4b&emdi=3bf02adb-545e-ef11-991a-6045bddbfc4b&ceid=26521737",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-join-me-at-lazy-betty-on-monday",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-join-me-at-lazy-betty-on-monday",
-"https://facebook.com/votesaira",
-"https://gadems.info/voprovol",
-"https://georgiademocrat.org/",
-"https://georgiademocrat.org/2026-dpg-slate",
-"https://instagram.com/votesaira",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-join-me-at-lazy-betty-on-monday",
-"https://mvp.sos.ga.gov/s",
-"https://reddit.com/submit?url=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-join-me-at-lazy-betty-on-monday&title=Draper+Paper%3A+Join+me+at+Lazy+Betty+%F0%9F%98%8B+on+Monday++",
-"https://revupga.thegao.org/",
-"https://sairadraper.com/",
-"https://sairadraper.com/accessibility",
-"https://sairadraper.com/canvass",
-"https://sairadraper.com/contactv.com",
-"https://sairadraper.com/district",
-"https://sairadraper.com/do-not-contact",
-"https://sairadraper.com/endorsements",
-"https://sairadraper.com/es/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday",
-"https://sairadraper.com/get-help",
-"https://sairadraper.com/get-involved",
-"https://sairadraper.com/news",
-"https://sairadraper.com/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday",
-"https://sairadraper.com/privacy",
-"https://sairadraper.com/terms",
-"https://sairadraper.com/vi/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday",
-"https://sairadraper.com/vote",
-"https://sairadraper.com/work-with-saira",
-"https://secure.actblue.com/donate/august31tanya",
-"https://secure.actblue.com/donate/draperpaper",
-"https://secure.actblue.com/donate/hubbard_sept3_em",
-"https://secure.actblue.com/donate/saira-for-sd44-website",
-"https://secure.actblue.com/donate/sept12fund",
-"https://secure.anedot.com/tangieforgeorgia/donate",
-"https://threads.com/@votesaira",
-"https://threads.net/intent/post?text=And+other+fun+ways+to+help+fantastic+candidates+win+in+November+https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-join-me-at-lazy-betty-on-monday",
-"https://tiktok.com/@votesaira",
-"https://twitter.com/intent/tweet?text=And+other+fun+ways+to+help+fantastic+candidates+win+in+November&url=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-join-me-at-lazy-betty-on-monday&via=sairaforGeorgia",
-"https://twitter.com/intent/tweet?text=Draper+Paper%3A+Join+me+at+Lazy+Betty+%F0%9F%98%8B+on+Monday++&url=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-join-me-at-lazy-betty-on-monday",
-"https://twitter.com/sairaforGeorgia",
-"https://youtube.com/@votesaira"
+{
+"text": "888-730-5816",
+"href": "tel:+18887305816"
+},
+{
+"text": "Accessibility",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "Canvass",
+"href": "https://www.sairadraper.com/canvass"
+},
+{
+"text": "Confirm your voter registration",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+},
+{
+"text": "Democratic Party of Georgia website",
+"href": "https://georgiademocrat.org/"
+},
+{
+"text": "Democrats running for statewide office",
+"href": "https://georgiademocrat.org/2026-dpg-slate/"
+},
+{
+"text": "District 44",
+"href": "https://www.sairadraper.com/district"
+},
+{
+"text": "Do Not Contact",
+"href": "https://www.sairadraper.com/do-not-contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/draperpaper"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sairadraper.com/endorsements"
+},
+{
+"text": "English",
+"href": "https://www.sairadraper.com/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "Español",
+"href": "https://www.sairadraper.com/es/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "Get Help",
+"href": "https://www.sairadraper.com/get-help"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sairadraper.com/get-involved"
+},
+{
+"text": "Get in Touch",
+"href": "https://www.sairadraper.com/contactv.com/"
+},
+{
+"text": "Lazy Betty and hearing from Tanya Miller? What a treat!",
+"href": "https://secure.actblue.com/donate/august31tanya"
+},
+{
+"text": "Learn more about voter protection volunteering",
+"href": "https://gadems.info/voprovol"
+},
+{
+"text": "Meet Saira",
+"href": "https://www.sairadraper.com/#about"
+},
+{
+"text": "News + Events",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Privacy Notice",
+"href": "https://www.sairadraper.com/privacy"
+},
+{
+"text": "REV UP Georgia",
+"href": "https://revupga.thegao.org/"
+},
+{
+"text": "Read our full accessibility statement",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "Rep. Herring hold one of the most vulnerable Dem seats in the Georgia House. We must keep her seat in order to flip the House",
+"href": "https://secure.anedot.com/tangieforgeorgia/donate"
+},
+{
+"text": "Saira Draper",
+"href": "https://www.twitter.com/sairaforGeorgia"
+},
+{
+"text": "Saira Draper for State Senate District 44 for SD44",
+"href": "https://www.sairadraper.com/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.sairadraper.com/terms"
+},
+{
+"text": "This seat is crucial in our quest to flip the Georgia House of Representatives- and Beth is an incredible candidate.",
+"href": "https://secure.actblue.com/donate/sept12fund"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.sairadraper.com/vi/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "Vote Early",
+"href": "https://www.sairadraper.com/vote"
+},
+{
+"text": "We flipped this seat recently, breaking the Republican chokehold on the PSC. He’s making a huge difference. Let’s keep him on the PSC, fighting for everyday Georgians. Location in Druid Hills.",
+"href": "https://secure.actblue.com/donate/hubbard_sept3_em"
+},
+{
+"text": "Work with Saira",
+"href": "https://www.sairadraper.com/work-with-saira"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/sept12fund"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/intent/compose?text=Draper+Paper%3A+Join+me+at+Lazy+Betty+%F0%9F%98%8B+on+Monday+++https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sairaforgeorgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/sept12fund"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=And+other+fun+ways+to+help+fantastic+candidates+win+in+November&url=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-join-me-at-lazy-betty-on-monday&via=sairaforGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=Draper+Paper%3A+Join+me+at+Lazy+Betty+%F0%9F%98%8B+on+Monday++&url=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-join-me-at-lazy-betty-on-monday&title=Draper+Paper%3A+Join+me+at+Lazy+Betty+%F0%9F%98%8B+on+Monday++"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/intent/post?text=And+other+fun+ways+to+help+fantastic+candidates+win+in+November+https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Draper+Paper%3A+Join+me+at+Lazy+Betty+%F0%9F%98%8B+on+Monday++&body=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "contact us form on my website",
+"href": "https://click.ngpvan.com/k/91121556/492788437/102554756?nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9OR1AvTkdQMzMvMS85NzAyMCIsDQogICJEaXN0cmlidXRpb25VbmlxdWVJZCI6ICIzYmYwMmFkYi01NDVlLWVmMTEtOTkxYS02MDQ1YmRkYmZjNGIiLA0KICAiRW1haWxBZGRyZXNzIjogIlNhaXJhQHZvdGVzYWlyYS5jb20iDQp9&hmac=w8kG3_G2KBShTiez2RyQDQNST1Mw-fTWiIit1vx3i0U%3D&emci=a3e2cd57-cf5c-ef11-991a-6045bddbfc4b&emdi=3bf02adb-545e-ef11-991a-6045bddbfc4b&ceid=26521737"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+},
+{
+"text": "saira.draper@house.ga.gov",
+"href": "mailto:saira.draper@house.ga.gov"
+},
+{
+"text": "← All News",
+"href": "https://www.sairadraper.com/news"
+}
 ]

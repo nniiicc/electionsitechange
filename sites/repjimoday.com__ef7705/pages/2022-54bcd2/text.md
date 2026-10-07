@@ -1,7 +1,2 @@
-State Representative for the 14th Worcester district of Massachusetts
-HOME
-ISSUES & POLICIES
-GALLERY
-NEWSROOM
-CONTACT
-More
+top of page Jim O Day State Representative for the 14th Worcester district of Massachusetts HOME MEET JIM THE DISTRICT ISSUES & POLICIES LEGISLATION ADVOCACY GALLERY 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2015-2016 2013-2014 2011-2012 2009-2010 NEWSROOM VIDEOS NEWS PRESS RELEASES CONTACT CONSTITUENT SERVICES MEET THE STAFF CONTACT US STAY CONNECTED More Use tab to navigate through the menu items.
+Fair Share Amendment canvasing event Start of the 192nd legislative session Interview on the Healthy Youth Act Healthy Youth advocacy day West Boylston Senior Center BBQ Ukraine community support event Ribbon-cutting ceremony for the new Kraft Community Care in Reach Mobile Unit MA Biomedical Initiatives visit 2022 Massachusetts Democratic Convention Juneteenth Flag Raising Worcester Regional Airport reached 1M passengers Celebrating Division 7 Football State Champions, the West Boylston Lions Two Chefs grand opening in Worcester bottom of page

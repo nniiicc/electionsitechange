@@ -1,4 +1,7 @@
-About Jenny
+Skip to content About Jenny Civic Values Core Issues Jenny’s Substack Events, Media & Endorsements Donate About Jenny Jenny and her husband, Frank Fowler.
+In this Experience Your Smokies class, Jenny went wading with fishery rangers and learned about the Brook Trout and other native fish species in the Great Smoky Mountains National Park.
+Jenny graduated with the 2025 cohort of the Experience Your Smokies program.
+Jenny was recognized for 30 years of service to the University of Tennessee.
 A Knox County resident for more than 30 years, I raised my family in Fountain City.
 District 19 has been my home since 2016, and I live in the Seven Islands area.
 I worked as a Distinguished Lecturer of Mathematics at the University of Tennessee, Knoxville, for over thirty years until my retirement in 2024.
@@ -12,3 +15,9 @@ I was raised in a small-town rural farming area in southern Ohio, and I am a gra
 My family on both sides owned farms in Fayette and Highland counties in Ohio, and my father still owns his family farmland, growing soybeans and corn.
 My parents were self-employed owners of a dental practice, Dad as a dentist and Mom as his dental hygienist, serving our small Ohio community with pride.
 Both of my grandfathers were teachers, and one was a local historian and volunteer fireman in Fayette County, Ohio.
+Mail In Donations : Friends of Jenny Fowler PO Box 34, Kodak, TN, 37764 Find Jenny on Social Media Contact jennyfowlerfortnhouse@yahoo.com (865)297-3077 Paid for by Friends of Jenny Fowler.
+Samuel F.
+Fowler, III, Treasurer.
+Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,5 +1,5 @@
-Affordable Housing Shouldn’t Mean Surrendering Local Control
-Connecticut’s top-down approach to affordable housing is both bad law and bad policy.
+top of page Home About News Get Involved More Use tab to navigate through the menu items.
+All Posts Search Affordable Housing Shouldn’t Mean Surrendering Local Control Admin Aug 10 2 min read Connecticut’s top-down approach to affordable housing is both bad law and bad policy.
 By overriding local zoning authority, the Democratic supermajority in Hartford—including Senator James Maroney—has created a system that punishes municipalities, disregards established zoning principles, restricts public participation, and favors private developers over residents.
 Connecticut can do better.
 With new leadership in state government, we can expand access to housing people can afford while preserving meaningful local control over zoning.
@@ -18,3 +18,9 @@ Recent amendments to the law campaigned by Senator Maroney also allows a private
 We must reform the law so that the burden is on private developers – not our towns – to demonstrate that their proposals will not harm neighborhood character or create unacceptable impacts on our communities.
 We also need to mandate public hearings on all developments outside of single-family homes so that residents have a formal opportunity to question, scrutinize, and help shape projects that may substantially affect their neighborhoods.
 These changes will create a fairer and more transparent system that will actually result in meaningful development of housing that fits our local communities.
+Recent Posts See All Maroney Calls for a Flock Pause.
+His PAC Took Money From the Industry He’s Now Questioning.
+Weaver and Collins Call for Immediate Action.
+Not a Pause, on Surveillance Cameras Make No Mistake: Connecticut Cannot Afford to Subsidize the AI Data Center Boom on the Backs of Working Families Contact Me: Call or Text: 203-444-2167 Email: owen@owforsenate.com Join our mailing list Email * Subscribe I want to subscribe to your mailing list.
+Paid for by Weaver2026, Angela Driver Treasurer.
+Approved by Owen Weaver. bottom of page

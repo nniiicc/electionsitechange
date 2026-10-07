@@ -1,19 +1,12 @@
-After Months of Ads Promising to Self-Fund, Constantino’s Campaign Just Took Its First Check
-July 21, 2026
-FOR IMMEDIATE RELEASE
-Tuesday, July 21, 2026
-CONTACT
-After Months of Ads Promising to Self-Fund, Constantino’s Campaign Just Took Its First Check
-LISBON, N.Y. — Today Blake Gendebein released the following statement on Anthony Constantino’s campaign finance report filed this week with the Federal Election Commission that shows Constantino accepted his first-ever campaign contribution on June 23, from the campaign account and leadership PAC of House Majority Whip Tom Emmer.
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate After Months of Ads Promising to Self-Fund, Constantino’s Campaign Just Took Its First Check July 21, 2026 Press Release FOR IMMEDIATE RELEASE Tuesday, July 21, 2026 CONTACT press@blakeforny.com After Months of Ads Promising to Self-Fund, Constantino’s Campaign Just Took Its First Check LISBON, N.Y. — Today Blake Gendebein released the following statement on Anthony Constantino’s campaign finance report filed this week with the Federal Election Commission that shows Constantino accepted his first-ever campaign contribution on June 23, from the campaign account and leadership PAC of House Majority Whip Tom Emmer.
 The same filing shows Constantino personally loaned his campaign another $2 million on June 30, bringing the total he has poured into his own race to $12 million.
 At the same time, his campaign has begun emailing supporters asking them for donations.
 When Anthony Constantino first launched his bid, he told voters he was self-funding “so that no donor, lobbyist, or special interest will influence me,” and he has spent hundreds of thousands of dollars on TV, radio, and digital ads built around that same pledge.
 “Anthony Constantino promised he’d never take a dime from anyone and would fully fund his own campaign,” said Blake Gendebien, Democratic candidate for New York’s 21st Congressional District.
 “That promise was broken on primary day when he accepted a contribution from House Majority Whip Tom Emmer, a Washington insider whose policies are hurting our friends and neighbors.
 Constantino wants to be a DC insider so badly that he’ll break any promise he’s made to the voters here.
-But, everyone up here knows a farmer doesn’t go back on his word.”
-###
-Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on the Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
+But, everyone up here knows a farmer doesn’t go back on his word.” ### Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on the Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
 Blake and Carmen also started The Jules of Life Foundation, which provides resources and support to North Country families battling pediatric cancer.
 For the past 10 years, Blake has served as the Vice Chair of the Cooperative Board of Agri-Mark where he represented the interests of farmers from across the region.
 He is a former member of the Lisbon Central School Board, and was a longtime junior varsity basketball coach.
+Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

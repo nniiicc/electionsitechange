@@ -1,5 +1,4 @@
-UES & Roosevelt Island
-Our neighborhood deserves infrastructure that is safe, resilient, and built for the future.
+0 Skip to Content Agenda Events Tell Lou Press Release Contribute Open Menu Close Menu Agenda Events Tell Lou Press Release Contribute Open Menu Close Menu Agenda Events Tell Lou Press Release Contribute UES & Roosevelt Island Our neighborhood deserves infrastructure that is safe, resilient, and built for the future.
 I support a comprehensive review of New York City's resiliency initiatives and the East Side Greenway plans to ensure taxpayer dollars are spent effectively, transparently, and with long-term results.
 As an Upper East Sider, I have watched the East River Greenway deteriorate for years.
 The aging seawall is crumbling, creating sinkholes and erosion that threaten not only the Greenway but, eventually, the structural integrity of the FDR Drive.
@@ -15,3 +14,4 @@ Motorized bicycles, electric scooters, and other powered devices should not be o
 Delivery riders and all cyclists must obey traffic laws, stop at red lights, yield to pedestrians, use designated bike lanes whenever available, and walk their bikes with the power off whenever they are on a sidewalk.
 New York should improve enforcement while expanding safe cycling infrastructure so cyclists and pedestrians each have a place where they can travel safely.
 A safer and stronger community means investing in resilient infrastructure, protecting pedestrians, giving Roosevelt Island residents a greater voice in their own government, and ensuring that both the Upper East Side and Roosevelt Island receive the attention and investment they deserve.
+Back to Agenda Contribute Call/Text: (347) 618-9425 Lou@Lou2026.com PAID FOR BY LOU 2026

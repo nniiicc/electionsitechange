@@ -1,24 +1,8 @@
-Policy
-- Put country before party and serve the people of AZ-09 over partisan interests.
-- Protect free and fair elections, constitutional checks and balances, and ethical government.
-- Work across party lines to produce practical results for Arizona families.
-- Strong transition support to civilian careers
-- Accessible healthcare and mental health services
-- Stability for military families
-- Local clean energy jobs
-- Responsible resource management
-- Long-term water protection for Arizona neighborhoods
-- Fixed-income protections
-- Affordable healthcare and housing
-- Inflation relief
-- Eliminate the Social Security tax cap
-- Modernize the legal process to reduce chaos and expedite the legal immigration process
-- Strengthen border security and enforce the law responsibly
-- Protect families, workers, and communities with solutions that are humane and practical
-- Public service as a duty, not a career
-- Support for term limits to restore accountability
-- Dani’s pledge is to (3) two-year House terms and two (2) six-year Senate terms and no longer limit.
-- Full transparency in campaign finance
-- Limits on the influence of big money
-- Public financing options like Arizona’s Clean Elections model
-- Repeal Citizens United
+top of page Menu Close Policy Volunteer Endorsers Contact Privacy Policy Policy Volunteer Endorsers Contact Privacy Policy Policy Purple Pledge Put country before party and serve the people of AZ-09 over partisan interests.
+Protect free and fair elections, constitutional checks and balances, and ethical government.
+Work across party lines to produce practical results for Arizona families.
+Veterans & Military Families Strong transition support to civilian careers Accessible healthcare and mental health services Stability for military families Energy & Water Security Local clean energy jobs Responsible resource management Long-term water protection for Arizona neighborhoods Supporting Seniors Fixed-income protections Affordable healthcare and housing Inflation relief Eliminate the Social Security tax cap Immigration Reform Modernize the legal process to reduce chaos and expedite the legal immigration process Strengthen border security and enforce the law responsibly Protect families, workers, and communities with solutions that are humane and practical Term Limits & Accountability Public service as a duty, not a career Support for term limits to restore accountability Dani’s pledge is to (3) two-year House terms and two (2) six-year Senate terms and no longer limit.
+Getting Money Out of Politics Full transparency in campaign finance Limits on the influence of big money Public financing options like Arizona’s Clean Elections model Repeal Citizens United Media Press Kit Want more information or to volunteer?
+First name * Last name * Email * Phone * Are you in the District?
+Multi choice I would like to help knock doors I want a yard sign I would like to host a house party for Dani Message Submit Privacy Policy Terms & Conditions Accessibility Statement Info@SterbinskyforCongress.com Sterbinsky for Congress P.O.
+Box 76, Wittmann, AZ 85361 Paid for by Sterbinsky for Congress | Approved by Danielle Sterbinsky Policy Volunteer Endorsers Contact Privacy Policy Policy Volunteer Endorsers Contact Privacy Policy bottom of page

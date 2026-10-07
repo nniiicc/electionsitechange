@@ -1,9 +1,7 @@
-Explore upcoming Marquita Bradshaw for United States Senate events across Tennessee, including community gatherings, volunteer trainings, phone banks, and voter outreach activities.
-Explore upcoming Marquita Bradshaw for United States Senate events across Tennessee, including community gatherings, volunteer trainings, phone banks, and voter outreach activities.
-Join Us
-Campaign Events
-Connect with voters across Tennessee by joining this people-powered movement.
+Skip navigation menu Meet Marquita Priorities Events Volunteer Go Vote Store Connect Donate Events Explore upcoming Marquita Bradshaw for United States Senate events across Tennessee, including community gatherings, volunteer trainings, phone banks, and voter outreach activities.
+Meet Marquita Priorities Events Volunteer Go Vote Store Connect Donate Events Explore upcoming Marquita Bradshaw for United States Senate events across Tennessee, including community gatherings, volunteer trainings, phone banks, and voter outreach activities.
+Join Us Campaign Events Connect with voters across Tennessee by joining this people-powered movement.
 There are no upcoming events.
 Tennesseans deserve a senator who answers to them -- not to corporations and billionaires who have spent decades calling the shots.
-Tennesseans deserve better, join Marquita in building a grassroots campaign that moves Tennessee forward.
-This race won’t be easy, and every supporter matters.
+Join Us JOIN OUR MOVEMENT Tennesseans deserve better, join Marquita in building a grassroots campaign that moves Tennessee forward.
+This race won’t be easy, and every supporter matters. $ 25 $ 50 $ 100 $ 250 $ 500 Other $ 25 $ 50 $ 100 $ 250 $ 500 Other DONATE BY MAIL Marquita Bradshaw for United States Senate 1498 Union #901 Memphis, Tennessee 38104 Please provide occupation and employer information for individual donations greater than $# PRESS CONTACT GENERAL CONTACT Designed and Created by Swing State Powered by RUN! website builder PAID FOR BY MARQUITA BRADSHAW FOR UNITED STATES SENATE You need to enable JavaScript to run this app.

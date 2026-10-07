@@ -1,16 +1,66 @@
 [
-"https://doyleforassembly.com/",
-"https://doyleforassembly.com/affordability",
-"https://doyleforassembly.com/cart",
-"https://doyleforassembly.com/contact",
-"https://doyleforassembly.com/endorsements",
-"https://doyleforassembly.com/get-involved-1",
-"https://doyleforassembly.com/issues",
-"https://doyleforassembly.com/media",
-"https://doyleforassembly.com/meet-steve",
-"https://doyleforassembly.com/the-94th-map",
-"https://facebook.com/DoyleForAssembly",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://secure.actblue.com/donate/steve-doyle-1"
+{
+"text": "0",
+"href": "https://www.doyleforassembly.com/cart"
+},
+{
+"text": "Affordability",
+"href": "https://www.doyleforassembly.com/affordability"
+},
+{
+"text": "Contact",
+"href": "https://www.doyleforassembly.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/steve-doyle-1"
+},
+{
+"text": "DOYLEFORASSEMBLY.MANAGER@GMAIL.COM",
+"href": "mailto:doyleforassembly.manager@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.doyleforassembly.com/endorsements"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "Get Involved",
+"href": "https://www.doyleforassembly.com/get-involved-1"
+},
+{
+"text": "Home",
+"href": "https://www.doyleforassembly.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.doyleforassembly.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.doyleforassembly.com/media"
+},
+{
+"text": "Meet Steve",
+"href": "https://www.doyleforassembly.com/meet-steve"
+},
+{
+"text": "Register to Vote",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "The 94th Map",
+"href": "https://www.doyleforassembly.com/the-94th-map"
+},
+{
+"text": "[image: Doyle for Assembly]",
+"href": "https://www.doyleforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DoyleForAssembly/"
+}
 ]

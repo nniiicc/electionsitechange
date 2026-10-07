@@ -1,40 +1,17 @@
-Issues: My Vision for SD59
-Preserving and enhancing our quality of life – and building safer communities
-Our quality of life is built on safe neighborhoods, strong, reliable transportation options, strong businesses and entrepreneurs and affordable public services.
+top of page WELCOME ABOUT ISSUES VOLUNTEER DONATE KEY ISSUES THAT I CARE ABOUT Issues: My Vision for SD59 Preserving and enhancing our quality of life – and building safer communities Our quality of life is built on safe neighborhoods, strong, reliable transportation options, strong businesses and entrepreneurs and affordable public services.
 For Minnesota, a high quality of life is a strategic advantage to attract and retain the next generation of businesses and employees to the state.
-Here are my priorities as your State Senator:
-PUBLIC SAFETY
-Every Minnesotan wants and deserves to make it home at the end of the day.
+Here are my priorities as your State Senator: To view the bills I have authored in the most recent legislative session, please scroll to the bottom of this page.
+PUBLIC SAFETY Every Minnesotan wants and deserves to make it home at the end of the day.
 Jamar Clark, George Floyd, Amir Locke, and far too many others should still be alive, but were killed by those who are supposed to protect and serve.
 We can ensure safety and well-being for everyone--no exceptions.
 Our legal and prison systems do not treat all Minnesotans equally, especially people of color, refugees and new immigrants.
-We will all be safer when we put justice, fairness,
-and redemption first—for everyone.
-That’s why I support a more comprehensive approach to public safety.
+We will all be safer when we put justice, fairness, and redemption first—for everyone. ​ That’s why I support a more comprehensive approach to public safety.
 I am working for a “both and” approach–more social workers, more police, and more imaginative community safety programming.
 We need police who will follow their training and keep our community safe; we need counselors and social workers who can be tapped to support people in crisis; and we need creative oversight, retention tools, restorative justice tables, and programs to support crime victims, community, and people who commit crimes.
 I have also been working to expand community violence interrupters programming.
 I am a leader in reforming and expanding juvenile justice; investing in programs and tools for young people that include prevention, intervention, and resources to get kids back on track.
-In addition to these reforms and investments we need to pass common sense gun violence prevention policies, that we know can save lives, such as: requiring background checks for all sales of guns–including private sales, cracking down on “straw buyers” who purchase guns with the intent to provide it to another person–including consequential penalties for violators, and banning assault-style weapons like the AR-15.
-During my time as State Senator, I have chief authored bills to advance the “both-and” strategy to public safety.
-These bills sought to:
-- Establish and expand community-specific violence prevention programs for adults and
-- Overhaul the approach to juvenile justice by expanding prevention, intervention and barrier reduction services
-- Expand emergency supports and housing options in Minneapolis
-- Improve the safety, wellbeing, and opportunities for people who are incarcerated
-- Create a state-level restorative justice program to expand its use and efficacy
-- Secure legal representation rights for youth in detention
-- Develop an officer misconduct database to improve accountability and prevent the cycle of “bad apples”--This bill is now law
-- Recognize disinvestment in minority communities that make us less safe and deprive us of opportunities
-- Creating opportunities for home ownership
-- Prohibit discrimination based on hair type or style–Minnesota’s Crown Act --This bill is now law
-- Train justice system workers at all levels to recognize and address needs, bias, and racism
-- Expunge records of people found innocent of criminal and civil charges and prevent hiring discrimination where records have been expunged --This bill is now law
-- Provide drivers licenses for all, regardless of immigration status --This bill is now law
-- Curb cash-bail use and improve pre-trial release for low-threat people
-- Keeping families together by passing the Minnesota African American Family Preservation Act --This bill is now law
-HOUSING
-Nothing goes well in your life if you do not have a safe place to go home to.
+In addition to these reforms and investments we need to pass common sense gun violence prevention policies, that we know can save lives, such as: requiring background checks for all sales of guns–including private sales, cracking down on “straw buyers” who purchase guns with the intent to provide it to another person–including consequential penalties for violators, and banning assault-style weapons like the AR-15. ​ During my time as State Senator, I have chief authored bills to advance the “both-and” strategy to public safety.
+These bills sought to: Establish and expand community-specific violence prevention programs for adults and Overhaul the approach to juvenile justice by expanding prevention, intervention and barrier reduction services Expand emergency supports and housing options in Minneapolis Improve the safety, wellbeing, and opportunities for people who are incarcerated Create a state-level restorative justice program to expand its use and efficacy Secure legal representation rights for youth in detention Develop an officer misconduct database to improve accountability and prevent the cycle of “bad apples”--This bill is now law Recognize disinvestment in minority communities that make us less safe and deprive us of opportunities Creating opportunities for home ownership Prohibit discrimination based on hair type or style–Minnesota’s Crown Act --This bill is now law Train justice system workers at all levels to recognize and address needs, bias, and racism Expunge records of people found innocent of criminal and civil charges and prevent hiring discrimination where records have been expunged --This bill is now law Provide drivers licenses for all, regardless of immigration status --This bill is now law Curb cash-bail use and improve pre-trial release for low-threat people Keeping families together by passing the Minnesota African American Family Preservation Act --This bill is now law HOUSING Nothing goes well in your life if you do not have a safe place to go home to.
 Without a stable home, how can a student do their homework, how can a worker relax after a day on the job, and how can a sick person recover from illness?
 Too many Minnesotans pay too much for their housing and due to legacies of racist housing and economic policies, the Twin Cities has the worst home ownership gap between white and Black households.
 And our policies too often favor landlords in disputes with their tenants, causing unnecessary evictions and displaced families.
@@ -46,8 +23,7 @@ We need to expand programs that find permanent housing options for the unhoused,
 And we are seeing innovative programs throughout the state, such as one to replace lost homes on vacant lots with new high quality and affordable homes throughout the state.
 The Legislature has passed legislation to support tenants rights, build more affordable housing, preserve our supply of public and affordable housing, and get more Minnesotans the help they need to purchase their first home.
 We acknowledge the public good that comes from affordable and stable housing.
-HEALTHCARE
-I believe every person should have high-quality, affordable health care, no matter their gender, age, where they live, or what they look like.
+HEALTHCARE I believe every person should have high-quality, affordable health care, no matter their gender, age, where they live, or what they look like.
 COVID-19 has shown us that all of our health and well-being are connected.
 Minnesotans have the right to make their own medical decisions without interference from lawmakers, courts, or their boss.
 By pulling together as we have done in the past, we can make sure that every one of us gets the care we need to make it through any pandemic and rebuild a healthier future for all Minnesotans, no exceptions.
@@ -58,8 +34,7 @@ I support expanding the current, affordable MinnesotaCare plan to allow anyone t
 I’ll never stop fighting companies that put profits over health outcomes and care.
 Corporate health care greed has forced too many Minnesotans to choose between feeding their families and paying their medical bills or seeking care.
 For the same reason, high-quality elder care and home care are out of reach for too many vulnerable, disabled, and elderly residents.
-Lowering the cost of prescription drugs, increasing and incentivizing access to generics are key to ensuring everyone has the care they need.
-We have learned that, racism is embedded in the very algorithms of care.
+Lowering the cost of prescription drugs, increasing and incentivizing access to generics are key to ensuring everyone has the care they need. ​ We have learned that, racism is embedded in the very algorithms of care.
 Black legislators are united in our push to end race and ethnicity as factors for lifesaving organ transplant.
 Too many in our community are alone and isolated in their struggle with addition.
 I support clamping down on opioid access except for those with great need, expanding treatment and community support and safety programs, and ending the stigma associated with asking for help with drugs or alcohol addiction.
@@ -67,9 +42,7 @@ Ensuring kids are healthy and free from addiction and reducing the racial and he
 Having presented SF 2123 to take an overdue step to end the sale of flavored tobacco products in Minnesota, I remain committed to ensuring the safety of youth and adults across the state.
 In addition, ensuring all families have access to affordable and high-quality childcare is critical to reducing ongoing gaps in economic access statewide.
 As many childcare providers are also under-resourced and understaffed, ensuring greater funding to providers is critical to meeting the rising demand from families who rely on them.
-JOBS
-AND ECONOMIC GROWTH
-There is dignity in every job.
+JOBS AND ECONOMIC GROWTH There is dignity in every job.
 A wise person once said, the best social program is a job.
 Our economy will be stronger when more Minnesotans have what they need to rise into the middle-class.
 This is especially true for households of color; the average Black family earns less than half of what the average white family does.
@@ -88,8 +61,7 @@ Much of this work was stalled by Senate Republicans who refused to support fundi
 Paul, but state, federal, and local government investments are paying off.
 We are seeing new life along Broadway Avenue, Lowry Avenue, 44th Avenue, Lake Street, University Avenue, and more.
 I am committed to ensuring this development is done with and for the community; creating new affordable housing where it is needed most and supporting emerging developers of color with my bill (SF3374).
-EDUCATION
-Studies show real learning can’t happen when kids don’t have safe and stable housing, or arrive hungry or stressed; so, let’s make sure those who need it have healthy meals, support, and trusted counselors.
+EDUCATION Studies show real learning can’t happen when kids don’t have safe and stable housing, or arrive hungry or stressed; so, let’s make sure those who need it have healthy meals, support, and trusted counselors.
 The educator workforce and school leadership need to reflect the diversity and experiences of their students.
 Teachers can’t give individual attention in packed classrooms.
 I support fully funding public schools so small class sizes can foster stronger relationships.
@@ -111,9 +83,7 @@ Republicans are deliberately denying public schools the funding they need to thr
 Their ultimate goal is to privatize education.
 This is a regime that will harm Black, Brown, Indigenous, low-income, special needs, and disabled students the most.
 Again, I will continue to fight to fully fund public education!
-CLIMATE CHANGE
-AND ENVIRONMENTAL JUSTICE
-We need to take bold action to secure a clean energy future and healthy communities, a healthy climate.
+CLIMATE CHANGE AND ENVIRONMENTAL JUSTICE We need to take bold action to secure a clean energy future and healthy communities, a healthy climate.
 Climate-denying corporations have risked our future for profits and scarred communities with reckless pollution that has had devastating health outcomes for low income people and Black, Brown, and Indigenous people.
 A bright future is possible with a just transition to clean and renewable energy, investing in environmental justice, and providing good-paying jobs that are healthy for the climate and our neighbors.
 And we must ensure that lower-income residents have as much access to clean energy technologies as their higher income peers including electric vehicle rebates, charging station infrastructure in every neighborhood, and access to utilize solar energy on their homes or through community solar gardens.
@@ -128,41 +98,8 @@ My bill (SF186) would ensure that environmental permitting takes into account cu
 Before we recaptured the majority, climate change denying Republicans stood in the way of even the most common-sense climate change reforms.
 Remediation, restoration, and climate-safe development of the industrial sites in our community are my top climate priorities.
 The people who have endured the costs of pollution and industrial negligence must be those who see the economic benefits of clean energy expansion.
-Bills chief authored by Senator Champion, by category:
-This is a small sampling of the many bills I have authored, to view the full list from the current year, click the link below:
-PUBLIC SAFETY
-- SF 0026: Right to vote restoration to individuals convicted of a felony upon completion of any term of incarceration imposed and executed by a court for the offense
-- SF 0043: Constitutional amendment prohibiting slavery or involuntary servitude as a criminal punishment for a crime
-- SF 0055 : Office of Juvenile Restorative Justice establishment; local steering committees establishment of local juvenile restorative justice programs requirement; appropriating money
-- SF 0395: Disqualification prohibition of individuals subject to human services background studies with expunged criminal records.
-- SF 0498: Expungement of criminal records without petition for individuals not guilty of a crime as a result of identity theft or mistaken identity authorization.
-- SF 1997: Community-based programs appropriation for prerelease and postrelease incarcerated persons
-JOBS & ECONOMIC GROWTH
-- SF 1410: Facility appropriation to provide career and technical education and job training in renewable energy, energy efficiency, energy storage, electric vehicles and grid technologies
-- SF 1734: Minneapolis Central City Storm Tunnel expansion bond issue and appropriation
-- SF 2000: Black Women's Wealth Alliance appropriation
-- SF 4027: 2024 Jobs Committee Omnibus Bill
-CLIMATE CHANGE &
-ENVIRONMENTAL JUSTICE
-- SF 0466: Requirement to analyze and consider cumulative pollution before issuing air quality permit modification; identification of environmental justice areas establishment; demographic analysis in certain environmental permitting and review requirement
-- SF 1067: Pilot grant program establishment for community air-monitoring systems
-- SF 1227: Administrative penalties requirement for repeat or serious environmental violations be unforgivable
-HOUSING
-- SF 3194: Riverfront Development Partners mixed-used buildings including housing units development appropriation
-- SF3903: People Serving People Minneapolis homeless shelter grant appropriation
-- SF 0805: Build Wealth MN grant to establish the 9,000 Equities Fund to increase homeownership opportunities in underserved communities of color authorization and appropriation.
-- SF 3119: Urban Homeworks grant appropriation
-HEALTHCARE
-- SF 2883: Office of Long-term Solutions to Healthcare Disparities and Inequities establishment to address health care needs in the state
-- SF 2123: Sale or offer for sale prohibition of flavored products
-- SF 3196: Establishment of a pilot program to reduce trauma from gun violence and appropriation for program
-EDUCATION
-COMMUNITY, SOCIAL JUSTICE, AND PLANNING FOR MINNESOTA'S FUTURE
-- SF3994: Minnesota Voting Rights Act establishment, prohibiting certain actions, establishing civil cause of action for violations
-SF 0013 : Juneteenth (June 19) state holiday recognition
-- SF 0018: Emmet Louis Till Victims Recovery Program establishment and appropriation
-- SF 0019: Office for missing and murdered Black women and girls establishment
-SF 0516: Absence from work to vote in person before election day authorization.
-- SF 0762: Insurer discrimination based on the breed of the dog owned prohibition
-- SF 1411: Office of Animal Protection creation
-- SF 0019: Office of Missing and Murdered Black Girls and Women
+Bills chief authored by Senator Champion, by category: This is a small sampling of the many bills I have authored, to view the full list from the current year, click the link below: Click HERE for a snapshot of my 2025-2026 List PUBLIC SAFETY SF 0026 : Right to vote restoration to individuals convicted of a felony upon completion of any term of incarceration imposed and executed by a court for the offense SF 0043 : Constitutional amendment prohibiting slavery or involuntary servitude as a criminal punishment for a crime SF 0055 : Office of Juvenile Restorative Justice establishment; local steering committees establishment of local juvenile restorative justice programs requirement; appropriating money SF 0395 : Disqualification prohibition of individuals subject to human services background studies with expunged criminal records.
+SF 0498 : Expungement of criminal records without petition for individuals not guilty of a crime as a result of identity theft or mistaken identity authorization.
+SF 1997 : Community-based programs appropriation for prerelease and postrelease incarcerated persons JOBS & ECONOMIC GROWTH SF 1410 : Facility appropriation to provide career and technical education and job training in renewable energy, energy efficiency, energy storage, electric vehicles and grid technologies SF 1734 : Minneapolis Central City Storm Tunnel expansion bond issue and appropriation SF 2000 : Black Women's Wealth Alliance appropriation SF 4027 : 2024 Jobs Committee Omnibus Bill CLIMATE CHANGE & ENVIRONMENTAL JUSTICE SF 0466 : Requirement to analyze and consider cumulative pollution before issuing air quality permit modification; identification of environmental justice areas establishment; demographic analysis in certain environmental permitting and review requirement SF 1067 : Pilot grant program establishment for community air-monitoring systems SF 1227 : Administrative penalties requirement for repeat or serious environmental violations be unforgivable HOUSING SF 3194 : Riverfront Development Partners mixed-used buildings including housing units development appropriation SF3903 : People Serving People Minneapolis homeless shelter grant appropriation SF 0805 : Build Wealth MN grant to establish the 9,000 Equities Fund to increase homeownership opportunities in underserved communities of color authorization and appropriation.
+SF 3119 : Urban Homeworks grant appropriation HEALTHCARE SF 2883 : Office of Long-term Solutions to Healthcare Disparities and Inequities establishment to address health care needs in the state SF 2123 : Sale or offer for sale prohibition of flavored products SF 3196 : Establishment of a pilot program to reduce trauma from gun violence and appropriation for program EDUCATION SF 1329 : Learning with Music program to early childhood educators expansion and appropriation SF 3036 : Commissioner of employment and economic development requirement to study student loan forgiveness programs SF1981 : "Erin's Law" personal safety instruction requirement COMMUNITY, SOCIAL JUSTICE, AND PLANNING FOR MINNESOTA'S FUTURE SF3994 : Minnesota Voting Rights Act establishment, prohibiting certain actions, establishing civil cause of action for violations SF 0013 : Juneteenth (June 19) state holiday recognition SF 0018 : Emmet Louis Till Victims Recovery Program establishment and appropriation SF 0019 : Office for missing and murdered Black women and girls establishment SF 0516 : Absence from work to vote in person before election day authorization.
+SF 0762 : Insurer discrimination based on the breed of the dog owned prohibition SF 1411 : Office of Animal Protection creation SF 0019 : Office of Missing and Murdered Black Girls and Women bottom of page

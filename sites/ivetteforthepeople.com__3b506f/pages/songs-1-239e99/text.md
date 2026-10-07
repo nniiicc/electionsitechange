@@ -1,7 +1,3 @@
-+1.515.682.4085
-+1.515.682.4085
-Join "Ivette For The People" Movement & Let's Win!
-Des Moines Pkwy, Des Moines, Iowa 50316, USA
-+1.515.682.4085
-Copyright © 2026 IvetteForThePeople - All Rights Reserved.
++1.515.682.4085 Home Register About Issues Calendar News Videos Join Donate Songs Product Contact More Home Register About Issues Calendar News Videos Join Donate Songs Product Contact +1.515.682.4085 Home Register About Issues Calendar News Videos Join Donate Songs Product Contact Ivette For The People - Campaign Theme Songs VOTE FOR IVETTE - JUNE 2nd 2026 - 7:00AM until 8:00PM - FOR THE PEOPLE Home Register About Issues Calendar News Videos Join Subscribe Donate Songs Product Join "Ivette For The People" Movement & Let's Win!
+Des Moines Pkwy, Des Moines, Iowa 50316, USA +1.515.682.4085 Copyright © # IvetteForThePeople - All Rights Reserved.
 Paid For By Ivette For The People Campaign

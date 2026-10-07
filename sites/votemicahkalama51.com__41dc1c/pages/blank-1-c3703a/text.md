@@ -1,8 +1,4 @@
-A Formal Declaration of Commitment
-To the People of District 51
-Message to the People
-Aloha kākou,
-My name is Micah Kalama, and I am proud to announce my candidacy for Hawaiʻi State House of Representatives for District 51, representing Waimānalo, Keolu Hills, Enchanted Lakes, and Lanikai.
+top of page Campaign Hub About - Profile Page Our Initiatives Register to Vote A Formal Declaration of Commitment To the People of District 51 Message to the People Aloha kākou, My name is Micah Kalama, and I am proud to announce my candidacy for Hawaiʻi State House of Representatives for District 51, representing Waimānalo, Keolu Hills, Enchanted Lakes, and Lanikai.
 Born and raised in Waimānalo, I grew up in a family that has helped build these communities long before many dreamed of calling Hawaiʻi home.
 We are a family of construction workers, canoe builders, archaeologist, lei makers, teachers, flight attendants and police officers—hardworking local people who believe in service and family.
 We didn't just move here; we helped create the lifestyle and culture that people now want to be a part of.
@@ -24,6 +20,5 @@ Leadership should never feel distant from the people it represents.
 I am running because I believe in staying connected to you.
 Together, we can find solutions for housing, schools, and safety while protecting the traditions that make District 51 special.
 Mahalo for your support, and I humbly ask for your vote.
-Aloha,
-Micah Kalama
-Candidate for Hawaiʻi State House of Representatives, District 51
+Aloha, Micah Kalama Candidate for Hawaiʻi State House of Representatives, District 51 Kailua & Waimānalo Campaign Office Honolulu House District 51 O'ahu, Hawaiʻi Paid for by Friends of Micah Kalama PO Box 34, Waimanalo, Hi 96795 micahkalamaforhousedistrict51@gmail.com © # Friends of Micah Kalama.
+All rights reserved. bottom of page

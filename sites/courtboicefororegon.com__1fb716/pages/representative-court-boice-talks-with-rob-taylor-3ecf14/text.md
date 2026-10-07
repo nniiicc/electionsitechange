@@ -1,4 +1,8 @@
-Listen to Representative Boice discuss the Secretary of State AI contract with Rob Taylor.
+Skip to content COURT BOICE – THE BOICE OF REASON!
+Home Gallery News Bio Endorse Boice Contact Menu Home Gallery News Bio Endorse Boice Contact COURT BOICE STATE REPRESENTATIVE DISTRICT 1 Coos, Curry and Douglas Counties Easy Online Donation Donate Home Gallery News Bio Endorse Boice Contact Menu Home Gallery News Bio Endorse Boice Contact Representative Court Boice talks with Rob Taylor Listen to Representative Boice discuss the Secretary of State AI contract with Rob Taylor.
 He also discusses the addiction crisis and homeless issues in Oregon.
 Rep.
-Boices discusses how Measure 110 isn’t working as designed and a Special Session has been requested by Oregon Republicans.
+Boices discusses how Measure 110 isn’t working as designed and a Special Session has been requested by Oregon Republicans. https://www.courtboicefororegon.com/wp-content/uploads/2023/12/Rob-Taylor-10.30.2023-VIDEO.mp4 Share : Share on facebook Share on twitter Share on linkedin Share on pinterest news Related articles Curry County commissioner Court Boice sworn into Oregon House December 14, 2023 No Comments Representative Court Boice guest appearance on Lars Larson December 14, 2023 No Comments Representative Court Boice talks with Bill Meyer December 14, 2023 No Comments newsletter Come & Join Our Newsletter Email Subscribe Now Court Boice, My Choice For State Representative I am the one true Oregon State Representative candidate and the one candidate with the breadth of experience and depth of knowledge.
+I will be a working Oregon State Representative. about Home Gallery News Bio Endorse Boice Contact Menu Home Gallery News Bio Endorse Boice Contact Support Donate Easy Online Donation Contact P.O.
+Box 794, Gold Beach, Or.
+97444 Facebook © # COURT BOICE FOR OREGON PAC ID #22133

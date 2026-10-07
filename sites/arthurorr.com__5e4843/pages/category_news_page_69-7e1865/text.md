@@ -1,4 +1,4 @@
-Senator Orr Continues Attempt to Get State Out of Retail Liquor Business Written on February 7, 2019.
-Source: Yellowhammer News Read article
-AL.com Opinion Writer Supports Senator Orr’s Bill of Getting State Out of Retail Liquor Business Written on February 7, 2019.
-Source: AL.com Read article
+Skip to main content Home About Am I in District 3 Constituent Services News Contact Home About Am I in District 3 Constituent Services News Contact Senator Orr Continues Attempt to Get State Out of Retail Liquor Business Written on February 7, 2019 .
+Source: Yellowhammer News Read article AL.com Opinion Writer Supports Senator Orr’s Bill of Getting State Out of Retail Liquor Business Written on February 7, 2019 .
+Source: AL.com Read article 1 … 66 67 68 69 Mailing Address P.O.
+Box 305 Decatur, AL 35602 Montgomery Office Suite 730 | Alabama State House 11 South Union Street Montgomery, AL 36130-4600 Phone: (334) 261-0758 E-newsletter signup Field Offices Decatur 2124 6th Avenue SE, Suite 400 Decatur, AL 35601 Phone: (256) 260-2147 Huntsville Madison County Legislative Delegation 726 Madison Street | Huntsville, AL 35801 (256) 539-5441 Athens Limestone County Legislative Delegation 110 College Street, Suite E4 | Athens, AL 35611 (256) 262-9038 Copyright © Arthur Orr, Alabama State Senator Website Development by Red Sage Communications, Inc.

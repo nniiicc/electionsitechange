@@ -1,4 +1,5 @@
-First, a heartfelt thank you.
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG I Have Some Exciting News to Share!
+Posted by ttordsen February 19, 2024 March 3, 2024 Posted in BLOG First, a heartfelt thank you.
 I want to start out by thanking you if you’ve ever lent your support, encouragement, and engagement during these last two years.
 If you’re reading this, odds are you were one of my earliest supporters who believed in me, invested in my first race, or have kept up with me since.
 That’s why I’m pleased to share some exciting news with you.
@@ -23,5 +24,7 @@ Help kill the bad bills and do all I can to pass the good ones.
 Keeping the focus on South Dakota families, our next generation and addressing real problems.
 If you have any questions, suggestions, or just want to catch up, give me a call at (605) 610-8884 or shoot me a message at tyler@tylertordsen.com anytime.
 I look forward to hearing from you.
-Thank you for your friendship and continued support in 2024!
-– Tyler
+Thank you for your friendship and continued support in 2024! – Tyler Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen February 19, 2024 March 3, 2024 Posted in BLOG Post navigation Previous Post Previous post: SESSION WEEK SIX – Taking Care of our Teachers Next Post Next post: SESSION WEEK EIGHT – Coming to a Close Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

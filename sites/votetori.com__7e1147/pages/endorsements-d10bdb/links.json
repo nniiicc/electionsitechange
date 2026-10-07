@@ -1,9 +1,42 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/share/1DfpJeTDvc?milbextid=wwXlfr",
-"https://instagram.com/toriformissouri",
-"https://secure.actblue.com/donate/torischafer",
-"https://votetori.com/",
-"https://votetori.com/about",
-"https://votetori.com/contact"
+{
+"text": "Contact",
+"href": "https://www.votetori.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/torischafer"
+},
+{
+"text": "Home",
+"href": "https://www.votetori.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votetori.com/"
+},
+{
+"text": "Meet Tori",
+"href": "https://www.votetori.com/about"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votetori.com/"
+},
+{
+"text": "[image: Tori Schafer for Missouri]",
+"href": "https://www.votetori.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/share/1DfpJeTDvc/?milbextid=wwXlfr"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/toriformissouri"
+}
 ]

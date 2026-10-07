@@ -1,16 +1,3 @@
-top of page
-HOME
-ABOUT
-ISSUES
-MEDIA
-More...
+top of page HOME ABOUT ISSUES MEDIA More...
 Use tab to navigate through the menu items.
-DONATE
-VOLUNTEER
-Download Video
-PHOTOS OF EMILIA SYKES
-HOME
-ABOUT
-ISSUES
-MEDIA
-bottom of page
+DONATE VOLUNTEER Download Video PHOTOS OF EMILIA SYKES PO Box 1347 Akron, OH 44309 info@emiliasykesforcongress.com ​ Privacy Policy Paid for by Emilia Sykes for Congress HOME ABOUT ISSUES MEDIA bottom of page

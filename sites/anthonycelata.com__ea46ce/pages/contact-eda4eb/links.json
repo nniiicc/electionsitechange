@@ -1,10 +1,38 @@
 [
-"https://anthonycelata.com/",
-"https://anthonycelata.com/about",
-"https://anthonycelata.com/cart",
-"https://anthonycelata.com/checkout",
-"https://anthonycelata.com/contact",
-"https://anthonycelata.com/my-account",
-"https://anthonycelata.com/shop",
-"https://paypal.com/donate?hosted_button_id=LZLTFC3JPBEF8"
+{
+"text": "About",
+"href": "https://anthonycelata.com/about/"
+},
+{
+"text": "Anthony Celata For Congress",
+"href": "https://anthonycelata.com/"
+},
+{
+"text": "Cart",
+"href": "https://anthonycelata.com/cart/"
+},
+{
+"text": "Checkout",
+"href": "https://anthonycelata.com/checkout/"
+},
+{
+"text": "Contact",
+"href": "https://anthonycelata.com/contact/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://www.paypal.com/donate/?hosted_button_id=LZLTFC3JPBEF8"
+},
+{
+"text": "Home",
+"href": "https://anthonycelata.com/"
+},
+{
+"text": "My account",
+"href": "https://anthonycelata.com/my-account/"
+},
+{
+"text": "Shop",
+"href": "https://anthonycelata.com/shop/"
+}
 ]

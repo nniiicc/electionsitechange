@@ -1,57 +1,258 @@
 [
-"https://bsky.app/profile/sairaforgeorgia.bsky.social",
-"https://facebook.com/votesaira",
-"https://gadems.info/voprovol",
-"https://georgiademocrat.org/",
-"https://georgiademocrat.org/2026-dpg-slate",
-"https://instagram.com/votesaira",
-"https://mvp.sos.ga.gov/s",
-"https://revupga.thegao.org/",
-"https://sairadraper.com/articles",
-"https://sairadraper.com/draper-paper",
-"https://sairadraper.com/es",
-"https://sairadraper.com/es/accessibility",
-"https://sairadraper.com/es/canvass",
-"https://sairadraper.com/es/district",
-"https://sairadraper.com/es/do-not-contact",
-"https://sairadraper.com/es/endorsements",
-"https://sairadraper.com/es/get-help",
-"https://sairadraper.com/es/get-involved",
-"https://sairadraper.com/es/news",
-"https://sairadraper.com/es/news/candidates-can-use-campaign-funds-for-childcare-why-arent-they-georgia-recorder",
-"https://sairadraper.com/es/news/childcare",
-"https://sairadraper.com/es/news/democrats-warn-georgia-redistricting-fight-is-far-from-over",
-"https://sairadraper.com/es/news/draper-paper-draper-paper-and-we-re-off",
-"https://sairadraper.com/es/news/draper-paper-draper-paper-are-you-ready-to-knock-doors",
-"https://sairadraper.com/es/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday",
-"https://sairadraper.com/es/news/early-voting",
-"https://sairadraper.com/es/news/georgia-democrats-blast-requirement-to-recount-votes-by-hand-in-bill-that-would-keep-ballot-qr-codes-the-current",
-"https://sairadraper.com/es/news/how-trump-could-undermine-the-midterms",
-"https://sairadraper.com/es/news/last-minute-qr-code-bill-tweak-could-steer-voting-in-a-new-direction-georgia-recorder",
-"https://sairadraper.com/es/news/new-york-times-covers-georgia-redistricting-pause",
-"https://sairadraper.com/es/news/october-5th-is-your-last-day-to-register-to-vote",
-"https://sairadraper.com/es/news/redistricting",
-"https://sairadraper.com/es/news/running-for-sd-44",
-"https://sairadraper.com/es/news/saira-draper-wins-democratic-nomination-for-state-senate-district-44",
-"https://sairadraper.com/es/news/speaker-burns-promised-transparency-before-redistricting-were-waiting",
-"https://sairadraper.com/es/news/voting-and-elections",
-"https://sairadraper.com/es/news/women-in-politics",
-"https://sairadraper.com/es/privacy",
-"https://sairadraper.com/es/terms",
-"https://sairadraper.com/es/vote",
-"https://sairadraper.com/es/work-with-saira",
-"https://sairadraper.com/events",
-"https://sairadraper.com/in-the-news",
-"https://sairadraper.com/news",
-"https://sairadraper.com/news/early-voting",
-"https://sairadraper.com/news/federal-layoffs",
-"https://sairadraper.com/news/fulton-county-raid-jan-2026",
-"https://sairadraper.com/news/running-for-sd-44",
-"https://sairadraper.com/news/voting-and-elections",
-"https://sairadraper.com/news?page=2",
-"https://sairadraper.com/vi/news",
-"https://secure.actblue.com/donate/saira-for-sd44-website",
-"https://threads.com/@votesaira",
-"https://tiktok.com/@votesaira",
-"https://youtube.com/@votesaira"
+{
+"text": "888-730-5816",
+"href": "tel:+18887305816"
+},
+{
+"text": "AJC: Democrats Say Georgia Redistricting Fight Isn’t Over",
+"href": "https://www.sairadraper.com/es/news/democrats-warn-georgia-redistricting-fight-is-far-from-over"
+},
+{
+"text": "Accesibilidad",
+"href": "https://www.sairadraper.com/es/accessibility"
+},
+{
+"text": "All",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Apoyos",
+"href": "https://www.sairadraper.com/es/endorsements"
+},
+{
+"text": "Articles",
+"href": "https://www.sairadraper.com/articles"
+},
+{
+"text": "Aviso de privacidad",
+"href": "https://www.sairadraper.com/es/privacy"
+},
+{
+"text": "Childcare",
+"href": "https://www.sairadraper.com/es/news/childcare"
+},
+{
+"text": "Confirma tu registro electoral",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Conoce a Saira",
+"href": "https://www.sairadraper.com/es#about"
+},
+{
+"text": "Contáctanos",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+},
+{
+"text": "Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia",
+"href": "https://www.sairadraper.com/es/news/october-5th-is-your-last-day-to-register-to-vote"
+},
+{
+"text": "Distrito 44",
+"href": "https://www.sairadraper.com/es/district"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website"
+},
+{
+"text": "Draper Paper",
+"href": "https://www.sairadraper.com/draper-paper"
+},
+{
+"text": "Draper Paper: And we're off!",
+"href": "https://www.sairadraper.com/es/news/draper-paper-draper-paper-and-we-re-off"
+},
+{
+"text": "Draper Paper: Are you Ready to Knock Doors?",
+"href": "https://www.sairadraper.com/es/news/draper-paper-draper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "Draper Paper: Join me at Lazy Betty 😋 on Monday",
+"href": "https://www.sairadraper.com/es/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "Early Voting",
+"href": "https://www.sairadraper.com/es/news/early-voting"
+},
+{
+"text": "Early Voting5",
+"href": "https://www.sairadraper.com/news/early-voting"
+},
+{
+"text": "English",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Español",
+"href": "https://www.sairadraper.com/es/news"
+},
+{
+"text": "Events",
+"href": "https://www.sairadraper.com/events"
+},
+{
+"text": "Federal Layoffs3",
+"href": "https://www.sairadraper.com/news/federal-layoffs"
+},
+{
+"text": "Fulton County Raid Jan 20264",
+"href": "https://www.sairadraper.com/news/fulton-county-raid-jan-2026"
+},
+{
+"text": "Georgia Democrats blast requirement to recount votes by hand in bill that would keep ballot QR codes - The Current",
+"href": "https://www.sairadraper.com/es/news/georgia-democrats-blast-requirement-to-recount-votes-by-hand-in-bill-that-would-keep-ballot-qr-codes-the-current"
+},
+{
+"text": "Georgia Recorder: Late Bill Change Reshapes Voting System Debate",
+"href": "https://www.sairadraper.com/es/news/last-minute-qr-code-bill-tweak-could-steer-voting-in-a-new-direction-georgia-recorder"
+},
+{
+"text": "In The News",
+"href": "https://www.sairadraper.com/in-the-news"
+},
+{
+"text": "Lee nuestra declaración completa de accesibilidad",
+"href": "https://www.sairadraper.com/es/accessibility"
+},
+{
+"text": "Más información sobre el voluntariado de protección al votante",
+"href": "https://gadems.info/voprovol"
+},
+{
+"text": "New York Times Covers Georgia Redistricting Pause",
+"href": "https://www.sairadraper.com/es/news/new-york-times-covers-georgia-redistricting-pause"
+},
+{
+"text": "No contactar",
+"href": "https://www.sairadraper.com/es/do-not-contact"
+},
+{
+"text": "Noticias y eventos",
+"href": "https://www.sairadraper.com/es/news"
+},
+{
+"text": "Obtén ayuda",
+"href": "https://www.sairadraper.com/es/get-help"
+},
+{
+"text": "Older →",
+"href": "https://www.sairadraper.com/news?page=2"
+},
+{
+"text": "Participa",
+"href": "https://www.sairadraper.com/es/get-involved"
+},
+{
+"text": "REV UP Georgia",
+"href": "https://revupga.thegao.org/"
+},
+{
+"text": "Redistricting",
+"href": "https://www.sairadraper.com/es/news/redistricting"
+},
+{
+"text": "Rep. Draper Secures SD-44 Democratic Nomination",
+"href": "https://www.sairadraper.com/es/news/saira-draper-wins-democratic-nomination-for-state-senate-district-44"
+},
+{
+"text": "Running For Sd 44",
+"href": "https://www.sairadraper.com/es/news/running-for-sd-44"
+},
+{
+"text": "Running For Sd 449",
+"href": "https://www.sairadraper.com/news/running-for-sd-44"
+},
+{
+"text": "Saira Draper Discusses Campaign Childcare in Georgia Recorder",
+"href": "https://www.sairadraper.com/es/news/candidates-can-use-campaign-funds-for-childcare-why-arent-they-georgia-recorder"
+},
+{
+"text": "Saira Draper for State Senate District 44 for SD44",
+"href": "https://www.sairadraper.com/es"
+},
+{
+"text": "Speaker Burns promised transparency before redistricting. We’re waiting.",
+"href": "https://www.sairadraper.com/es/news/speaker-burns-promised-transparency-before-redistricting-were-waiting"
+},
+{
+"text": "The Guardian: How Trump Could Undermine the Midterms",
+"href": "https://www.sairadraper.com/es/news/how-trump-could-undermine-the-midterms"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.sairadraper.com/vi/news"
+},
+{
+"text": "Toca puertas",
+"href": "https://www.sairadraper.com/es/canvass"
+},
+{
+"text": "Todas",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Trabaja con Saira",
+"href": "https://www.sairadraper.com/es/work-with-saira"
+},
+{
+"text": "Términos del servicio",
+"href": "https://www.sairadraper.com/es/terms"
+},
+{
+"text": "Vota anticipadamente",
+"href": "https://www.sairadraper.com/es/vote"
+},
+{
+"text": "Voting And Elections",
+"href": "https://www.sairadraper.com/es/news/voting-and-elections"
+},
+{
+"text": "Voting And Elections20",
+"href": "https://www.sairadraper.com/news/voting-and-elections"
+},
+{
+"text": "Women In Politics",
+"href": "https://www.sairadraper.com/es/news/women-in-politics"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sairaforgeorgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votesaira"
+},
+{
+"text": "demócratas que se postulan a cargos estatales",
+"href": "https://georgiademocrat.org/2026-dpg-slate/"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+},
+{
+"text": "sitio web del Partido Demócrata de Georgia",
+"href": "https://georgiademocrat.org/"
+}
 ]

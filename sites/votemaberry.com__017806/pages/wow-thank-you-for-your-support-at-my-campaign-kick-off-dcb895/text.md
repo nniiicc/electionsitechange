@@ -1,4 +1,6 @@
-Wow!
+Toggle navigation Meet Aron Maberry Why I’m Running On the Issues “In The News” Events Posts Request A Sign Media Contribute Wow!
+Thank you for your support at my campaign kick-off!
+April 26, 2024 Wow!
 I am absolutely thrilled and deeply grateful for the tremendous support I received at the launch of my campaign last week!
 To each and every person who took the time to attend the event, sign up to volunteer, proudly take a campaign sign, or contribute in any way, I extend my heartfelt gratitude.
 Your enthusiasm and commitment are the driving force behind this campaign, and I am truly humbled by your unwavering support!
@@ -14,8 +16,7 @@ Together, we can shape a better tomorrow for District 68.
 Thank you once again for your incredible support.
 Let’s keep pushing forward, let’s keep fighting for conservative values in District 68, and let’s make our voices heard on August 1st and beyond.
 Together, we can achieve great things!
-Here was my speech that night:
-Before I start, I want to pause here just for a moment to recognize my heart and driving forces in life.
+Here was my speech that night: Before I start, I want to pause here just for a moment to recognize my heart and driving forces in life.
 My family means everything to me.
 Elizabeth and I have been faithfully married for over 18 years and have experienced basically all of our lives together, being best friends since we were 15 years old.
 I am so thankful to have her support and the support of our amazing kids, April – who is a senior next year at Clarksville High and will probably be your president one day, Olivia who is every bit of goofy like me and feisty as her mother, and our son Avery who is the sweetest boy you’ll meet who has already been helping dad on the campaign and all who have been helping tonight.
@@ -41,7 +42,7 @@ Our team led and organized service projects that our team would typically take m
 The Tennessee Emergency Management Agency (TEMA) told me that it was the best volunteer organization effort they had ever seen – better than professional organizations.
 It’s you – the people of Montgomery County that made the difference.
 We have the best churches.
-Tonight, I know for a fact members of Salem Community, Living Hope, The Bridge, Trenton Crossing Church of Christ, LifePoint, First Baptist, Real Life Sango, Hilldale, Kenwood Baptist, 2nd Mile, Faith Outreach, Riverside Church, Clarksville International, and Mosaic Church –to name a few a represented in this room and I am sure there are so many more.
+Tonight, I know for a fact members of Salem Community, Living Hope, The Bridge, Trenton Crossing Church of Christ, LifePoint, First Baptist, Real Life Sango, Hilldale, Kenwood Baptist, 2 nd Mile, Faith Outreach, Riverside Church, Clarksville International, and Mosaic Church –to name a few a represented in this room and I am sure there are so many more.
 Our churches in this community walk in unity.
 Just in February, I led and organized, along with leaders from many of those churches, a two-day event to “Invade Our City,” and over 800 students and leaders invaded Clarksville, partnering with Mayor Joe Pitts, Mayor Wes Golden, and the Clarksville Montgomery County School System to do service projects throughout our community.
 It’s you – the people of Montgomery County that made the difference.
@@ -107,3 +108,5 @@ Now, standing at the threshold of representing District 68 in the State Legislat
 I believe I will be a great State Representative, representing you well and making you proud, and I will be the Conservative Voice for a New Generation in District 68.
 I ask you for your vote during the State Primary.
 Thank you!
+Aron Maberry Clarksville Clarksville TN District 68 MoCo Montgomery County State Representative Post navigation Need a sign?
+Show your support! https://votemaberry.com/wp-content/uploads/2024/04/439461979_464998412721740_924457992177359099_n-1130x565.jpg Americans for Prosperity Tennessee Endorsement https://votemaberry.com/wp-content/uploads/2024/05/AFP-Endorsement-1130x565.jpg About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

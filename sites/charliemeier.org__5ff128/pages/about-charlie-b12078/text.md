@@ -1,4 +1,4 @@
-Charlie Meier serves as the State Representative for the 109th House District.
+0 Skip to Content Home About Charlie News District Map Volunteer Contact Us DONATE HERE Open Menu Close Menu DONATE HERE Home About Charlie News District Map Volunteer Contact Us Open Menu Close Menu Home About Charlie News District Map Volunteer Contact Us DONATE HERE Charlie Meier serves as the State Representative for the 109th House District.
 Prior to serving as State Rep, Charlie served six years on the Washington County Board, and was assigned to the Legislative, Sheriff, Highway, Assessment, and Animal Control Committees.
 During his time on the Washington County Board, Charlie was involved in negotiating with Prairie State Energy to build their coal mine and power plant in the SE corner of the county.
 Prairie State is the largest business in Mid America.
@@ -23,4 +23,5 @@ Charlie has been a Chamber member since 1992 and presently serves on the tourism
 Charlie is former chairman and board member of the Washington County Senior Services and served on the Executive board on Building Excellence for the Okawville School District.
 He is a life member of St.
 Peters U.C.C.
-Church and has served on numerous committees there including Sunday school teacher.
+Church and has served on numerous committees there including Sunday school teacher. © # Paid for by Citizens for Charlie Meier.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website(elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

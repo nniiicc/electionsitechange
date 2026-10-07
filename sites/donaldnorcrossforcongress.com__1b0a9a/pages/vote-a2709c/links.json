@@ -1,26 +1,106 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.donaldnorcrossforcongress.com%2Fvote%2F&t=Vote",
-"http://twitter.com/intent/tweet?text=Vote+-+https%3A%2F%2Fwww.donaldnorcrossforcongress.com%2F%3Fp%3D2396+via+%40donnorcross4nj",
-"https://camdencounty.com/service/voting-and-elections/early-voting",
-"https://co.burlington.nj.us/2103/Early-Voting",
-"https://donaldnorcrossforcongress.com/",
-"https://donaldnorcrossforcongress.com/about",
-"https://donaldnorcrossforcongress.com/category/news",
-"https://donaldnorcrossforcongress.com/contact",
-"https://donaldnorcrossforcongress.com/issues",
-"https://donaldnorcrossforcongress.com/our_district",
-"https://donaldnorcrossforcongress.com/privacy-policy",
-"https://donaldnorcrossforcongress.com/volunteer",
-"https://donaldnorcrossforcongress.com/vote",
-"https://donaldnorcrossforcongress.com/vote/burlington-county",
-"https://donaldnorcrossforcongress.com/vote/camden-county",
-"https://donaldnorcrossforcongress.com/vote/gloucester-county",
-"https://facebook.com/DNforC",
-"https://gloucestercountynj.gov/181/Elections",
-"https://instagram.com/donnorcross4nj",
-"https://secure.actblue.com/donate/norcrossfornj?amount=25.00",
-"https://state.nj.us/state/elections/voter-registration.shtml",
-"https://twitter.com/DonNorcross4NJ",
-"https://voter.svrs.nj.gov/mib-request",
-"https://voter.svrs.nj.gov/polling-place-search"
+{
+"text": "Burlington County Drop Box Locations",
+"href": "https://www.donaldnorcrossforcongress.com/vote/burlington-county/"
+},
+{
+"text": "Burlington County Early Voting Locations",
+"href": "https://www.co.burlington.nj.us/2103/Early-Voting"
+},
+{
+"text": "Camden County Drop Box Locations",
+"href": "https://www.donaldnorcrossforcongress.com/vote/camden-county/"
+},
+{
+"text": "Camden County Early Voting Locations",
+"href": "https://www.camdencounty.com/service/voting-and-elections/early-voting/"
+},
+{
+"text": "Contact",
+"href": "https://www.donaldnorcrossforcongress.com/contact"
+},
+{
+"text": "Contact us",
+"href": "https://www.donaldnorcrossforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/norcrossfornj?amount=25.00"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://voter.svrs.nj.gov/polling-place-search"
+},
+{
+"text": "Gloucester County Drop Box Locations",
+"href": "https://www.donaldnorcrossforcongress.com/vote/gloucester-county/"
+},
+{
+"text": "Gloucester County Early Voting Locations",
+"href": "https://gloucestercountynj.gov/181/Elections"
+},
+{
+"text": "Home",
+"href": "https://www.donaldnorcrossforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.donaldnorcrossforcongress.com/issues/"
+},
+{
+"text": "Meet Donald",
+"href": "https://www.donaldnorcrossforcongress.com/about/"
+},
+{
+"text": "NJ VBM Online Application",
+"href": "https://voter.svrs.nj.gov/mib-request"
+},
+{
+"text": "News",
+"href": "https://www.donaldnorcrossforcongress.com/category/news/"
+},
+{
+"text": "Our District",
+"href": "https://www.donaldnorcrossforcongress.com/our_district/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.donaldnorcrossforcongress.com/privacy-policy/"
+},
+{
+"text": "Register Here",
+"href": "https://www.state.nj.us/state/elections/voter-registration.shtml"
+},
+{
+"text": "Volunteer",
+"href": "https://www.donaldnorcrossforcongress.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.donaldnorcrossforcongress.com/vote/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/intent/tweet?text=Vote+-+https%3A%2F%2Fwww.donaldnorcrossforcongress.com%2F%3Fp%3D2396+via+%40donnorcross4nj"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.donaldnorcrossforcongress.com%2Fvote%2F&t=Vote"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DonNorcross4NJ"
+},
+{
+"text": "[no text]",
+"href": "https://www.donaldnorcrossforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DNforC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/donnorcross4nj/"
+}
 ]

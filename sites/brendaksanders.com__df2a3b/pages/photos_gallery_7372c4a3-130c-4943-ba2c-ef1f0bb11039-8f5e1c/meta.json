@@ -1,7 +1,9 @@
 {
  "description": "Photo",
  "final_url": "https://www.brendaksanders.com/photos/gallery/7372c4a3-130c-4943-ba2c-ef1f0bb11039",
- "paid_for_by": null,
+ "fingerprint": "593209473ea86ae873aa22520f5c04911a92ab10",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Just Me!",
  "years_mentioned": []
 }

@@ -1,6 +1,4 @@
-Week 32: Election Integrity Is Election Security AND So Much More
-Dear Colorado Voter,
-Election integrity – one of my priority issues – may seem synonymous with election security.
+top of page Home Meet Priorities News Newsletters Events Help Donate Week 32: Election Integrity Is Election Security AND So Much More Celeste Landry Sep 22 2 min read Dear Colorado Voter, Election integrity – one of my priority issues – may seem synonymous with election security.
 Yet, election integrity is so much more.
 The goal of election integrity is free and fair elections with trusted results.
 The entire electoral process – from ballot access (how candidates get on the ballot) to voter registration to campaign finance to media access to ballot delivery to the voting method (choose-one, ranking, rating) to our semi-open primaries – affects the integrity of elections.
@@ -19,5 +17,6 @@ Nonpartisan municipal elections can’t use Party Lists; after the SoS writes th
 With Election Day only 42 days away, we would love to see Celeste for SOS yard signs in every county.
 Contact us!
 We deliver!
-With enthusiasm and purpose,
-Celeste
+With enthusiasm and purpose, Celeste Celeste Landry for Secretary of State P.O.
+BOX 41 Boulder, CO 80306 720-767-7310 Celeste4sos.com Paid for by Celeste Landry for Secretary of State.
+Registered Agent: Wendy Underhill Website created by Shayna Beckham Privacy Policy bottom of page

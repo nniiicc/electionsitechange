@@ -1,7 +1,12 @@
 {
  "description": "Lynn Ramirez Campaign Events",
  "final_url": "https://www.lynnramirez4sc.com/Events?range=2026-12",
- "paid_for_by": null,
+ "fingerprint": "4faccb05ac4ca27a29f45c4ea37efb7f99d1daf5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Lynn Ramirez Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2005",
+  "2026"
+ ]
 }

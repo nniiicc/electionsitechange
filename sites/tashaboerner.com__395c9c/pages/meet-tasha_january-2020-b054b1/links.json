@@ -1,17 +1,86 @@
 [
-"http://eepurl.com/c8gBO9",
-"http://google.com/calendar/event?action=TEMPLATE&text=Walking+to+Win+with+%23TeamTasha+-+January&dates=20200118T180000Z%2F20200131T040000Z&location=835+North+Vulcan+Avenue%2C+Encinitas%2C+CA%2C+92024%2C+United+States",
-"http://instagram.com/tashaboerner",
-"http://maps.google.com/?q=835+North+Vulcan+Avenue+Encinitas%2C+CA%2C+92024+United+States",
-"https://efundraisingconnections.com/c/TashaBoernerforAssembly2026",
-"https://facebook.com/Tasha4Assembly",
-"https://flickr.com/photos/derekhumphrey/albums/72177720312376632",
-"https://tashaboerner.com/",
-"https://tashaboerner.com/about-tasha",
-"https://tashaboerner.com/issues",
-"https://tashaboerner.com/meet-tasha",
-"https://tashaboerner.com/meet-tasha/february-2020",
-"https://tashaboerner.com/meet-tasha/holiday fundraiser",
-"https://tashaboerner.com/meet-tasha/january-2020?format=ical",
-"https://tashaboerner.com/yourpriorities"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=835+north+vulcan+avenue+encinitas%2C+ca%2C+92024+united+states"
+},
+{
+"text": "About",
+"href": "https://tashaboerner.com/about-tasha"
+},
+{
+"text": "Back to All Events",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Contribute",
+"href": "https://www.efundraisingconnections.com/c/TashaBoernerforAssembly2026/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walking+to+Win+with+%23TeamTasha+-+January&dates=20200118T180000Z%2F20200131T040000Z&location=835+North+Vulcan+Avenue%2C+Encinitas%2C+CA%2C+92024%2C+United+States"
+},
+{
+"text": "Holiday Fundraiser for Tasha",
+"href": "https://tashaboerner.com/meet-tasha/holiday%20fundraiser"
+},
+{
+"text": "Home",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "ICS",
+"href": "https://tashaboerner.com/meet-tasha/january-2020?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://tashaboerner.com/issues"
+},
+{
+"text": "Meet Tasha",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Newsletter sign-up",
+"href": "http://eepurl.com/c8gBO9"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632/"
+},
+{
+"text": "Walking to Win with #TeamTasha - February",
+"href": "https://tashaboerner.com/meet-tasha/february-2020"
+},
+{
+"text": "Your priorities",
+"href": "https://tashaboerner.com/yourpriorities"
+},
+{
+"text": "[image: Tasha Boerner for Assembly 2024]",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/tashaboerner"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Tasha4Assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632"
+},
+{
+"text": "[no text]",
+"href": "mailto:tasha@tasha4assembly.com"
+},
+{
+"text": "katie@tasha4assembly.com",
+"href": "mailto:katie@tasha4assembly.com"
+},
+{
+"text": "tasha@tashaboerner.com",
+"href": "mailto:tasha@tashaboerner.com"
+}
 ]

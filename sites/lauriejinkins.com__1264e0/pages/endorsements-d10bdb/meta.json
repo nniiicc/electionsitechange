@@ -1,9 +1,12 @@
 {
  "description": "Add your name to the list!",
  "final_url": "https://www.lauriejinkins.com/endorsements/",
- "paid_for_by": "Paid for by Friends of Laurie Jinkins PO Box 2032 | Tacoma, WA | 98401",
+ "fingerprint": "ce96705601ecd9837a9742bfdac9b558e2ebf633",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Laurie Jinkins PO Box 2032",
  "title": "Endorsements - Re-Elect Laurie Jinkins",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2032"
  ]
 }

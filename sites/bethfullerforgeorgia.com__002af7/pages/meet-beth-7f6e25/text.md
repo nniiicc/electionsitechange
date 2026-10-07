@@ -1,5 +1,4 @@
-Meet Beth
-My name is Beth Fuller, and I am the Democratic nominee for State House District 53.
+0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Meet Beth My name is Beth Fuller, and I am the Democratic nominee for State House District 53.
 I am running to champion public health, support working families, and protect local communities from the chaos of Washington.
 I am a lifelong Georgian, a mother, and a public health professional.
 My roots in our state run deep.
@@ -25,4 +24,5 @@ I am running for the State House to be a voice for science, a vote for affordabl
 I bring 25 years of real-world experience solving problems at the intersection of policy and people’s lives.
 I understand how government decisions impact your family, and I know how to find common ground to create real, lasting progress.
 We get better results when we put evidence ahead of politics.
-Georgia families deserve a government that works for them, and I’m ready to stand up, cut costs, and deliver results.
+Georgia families deserve a government that works for them, and I’m ready to stand up, cut costs, and deliver results. info@bethfullerforgeorgia.com Paid for by Beth Fuller for Georgia, Inc | P.O.
+Box 566273, Atlanta, GA 31156

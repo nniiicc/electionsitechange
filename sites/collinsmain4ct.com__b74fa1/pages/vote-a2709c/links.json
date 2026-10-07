@@ -1,18 +1,74 @@
 [
-"https://collinsmain4ct.com/",
-"https://collinsmain4ct.com/2026",
-"https://collinsmain4ct.com/about",
-"https://collinsmain4ct.com/cart",
-"https://collinsmain4ct.com/donate",
-"https://collinsmain4ct.com/news",
-"https://collinsmain4ct.com/privacy-policy",
-"https://collinsmain4ct.com/vote",
-"https://instagram.com/ecm4ct",
-"https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do",
-"https://portal.ct.gov/-/media/SOTS/ElectionServices/AB-Application/AB_Application_20220922/ED-3-Rev-English-20220922.pdf",
-"https://portal.ct.gov/-/media/SOTS/ElectionServices/AB-Application/AB_Application_20220922/ED-3-Spanish-20220922.pdf",
-"https://portal.ct.gov/sots/election-services/v5-side-navigation/ele---voter-information",
-"https://stamfordct.gov/government/registrar-of-voters/find-your-voting-location",
-"https://stamfordct.gov/government/town-clerk/elections",
-"https://voterregistration.ct.gov/OLVR/welcome.do"
+{
+"text": "0",
+"href": "https://www.collinsmain4ct.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.collinsmain4ct.com/about"
+},
+{
+"text": "Absentee Ballot application (PDF download - English)",
+"href": "https://portal.ct.gov/-/media/SOTS/ElectionServices/AB-Application/AB_Application_20220922/ED-3-Rev-English-20220922.pdf"
+},
+{
+"text": "Absentee Ballot application (PDF download - Spanish)",
+"href": "https://portal.ct.gov/-/media/SOTS/ElectionServices/AB-Application/AB_Application_20220922/ED-3-Spanish-20220922.pdf"
+},
+{
+"text": "Absentee Ballot application (online)",
+"href": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do"
+},
+{
+"text": "Donate",
+"href": "https://www.collinsmain4ct.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.collinsmain4ct.com/"
+},
+{
+"text": "News",
+"href": "https://www.collinsmain4ct.com/news"
+},
+{
+"text": "Polling Place Locator",
+"href": "https://www.stamfordct.gov/government/registrar-of-voters/find-your-voting-location"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.collinsmain4ct.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Town Clerk",
+"href": "https://www.stamfordct.gov/government/town-clerk/elections"
+},
+{
+"text": "Volunteer",
+"href": "https://www.collinsmain4ct.com/2026"
+},
+{
+"text": "Voting",
+"href": "https://www.collinsmain4ct.com/vote"
+},
+{
+"text": "[image: Eilish Collins Main ]",
+"href": "https://www.collinsmain4ct.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ecm4ct"
+},
+{
+"text": "[no text]",
+"href": "mailto:eilish@collinsmain4ct.com"
+},
+{
+"text": "visiting the Secretary of the State’s website here",
+"href": "https://portal.ct.gov/sots/election-services/v5-side-navigation/ele---voter-information"
+}
 ]

@@ -1,5 +1,18 @@
 [
-"https://facebook.com/StuttingforIA",
-"https://joestutting.com/privacy-policy",
-"https://secure.winred.com/stutting-for-iowa-senate/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/stutting-for-iowa-senate/donate-today"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/StuttingforIA/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joestutting.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy & Terms.",
+"href": "https://joestutting.com/privacy-policy/"
+}
 ]

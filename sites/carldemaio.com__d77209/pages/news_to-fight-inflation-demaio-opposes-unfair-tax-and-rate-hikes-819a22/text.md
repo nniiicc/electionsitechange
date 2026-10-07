@@ -1,8 +1,11 @@
-|
-Image Credit:
-Study calculates the total higher costs paid by Californians versus national averages
-Carl DeMaio says repealing the Death Tax will lower taxes, save generational properties, & help grieving families
-Gavin Newsom and CA Democrat politicians have filed for an “Emergency Injunction” to block the Taxpayer Protection Act
-The California Voter ID Initiative has been formally filed with the Secretary of State
-California Governor Gavin Newsom finally delivered his long-delayed State-of-the State address
-New report lays the blame for higher costs on California politicians for costly mandates and negligent policies.
+ Contribute About District News Reform CA Voter Guide Events Podcast Volunteer Store FAQs  Contribute  Search for articles  Get Reform California's Voter Guide Here >> | To Fight Inflation, DeMaio Opposes Unfair Tax and Rate Hikes  August 25, 2024  Subscribe to YouTube Channel Image Credit: DeMaio Warns Voters on 35 Hidden Tax Hikes on ’24 Ballot Spread the Word — Share This Story!  Share  Tweet  Email Check Out Our Youtube Channel!  Subscribe to Channel Follow Carl on Social Media     Tweets by carldemaio More Campaigns Related News  November 9, 2023 DeMaio Exposes $26,478.72 “Cost-of-Living Penalty” on Typical Middle-Class Family in CA Study calculates the total higher costs paid by Californians versus national averages  October 9, 2023 Carl DeMaio Backs Signature Drive to Repeal Prop 19 “Death Tax” Carl DeMaio says repealing the Death Tax will lower taxes, save generational properties, & help grieving families  October 5, 2023 CA Politicians Ask State Supreme Court to Strip Citizens of Initiative Rights Gavin Newsom and CA Democrat politicians have filed for an “Emergency Injunction” to block the Taxpayer Protection Act Browse all articles Top News  July 17, 2025 DeMaio Authors CA Voter ID Initiative - Leads Campaign for Passage The California Voter ID Initiative has been formally filed with the Secretary of State  September 11, 2025 DeMaio Responds to Newsom’s Dishonest State-of-State Address California Governor Gavin Newsom finally delivered his long-delayed State-of-the State address  November 13, 2025 Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class Family New report lays the blame for higher costs on California politicians for costly mandates and negligent policies.
+Browse all articles Join the Fight $5,000 $1,000 $500 $250 $100 $50 $25 Other Join Carl DeMaio’s Movement to Reform California!
+Receive text message updates?
+Texts may be sent using automatic telephone dialing system.
+Reply/consent not required for any purchase.
+Periodic messages.
+Reply STOP to cancel, Reply HELP for help.
+Message & Data rates may apply.
+No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
+Text messaging originator opt-in data and consent will not be shared by us with any third parties.  Thanks for joining our newsletter Oops!
+Something went wrong while submitting the form.     About About Carl DeMaio Reform California Privacy Policy The Latest News Podcast Get Involved Events Volunteer Contribute Store Contact Carl DeMaio for State Assembly PO Box 27227 San Diego, CA 92198 (619) 786-8019 Ad paid for by Carl DeMaio for State Assembly 2026 - FPPC # 1476859

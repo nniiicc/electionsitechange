@@ -1,6 +1,7 @@
-Kinston Free Press | By John Bell
-July 3, 2018 | Link
-Last week, over 2,000 people traveled to Raleigh to participate in a rally in support of our farmers and agriculture.
+Make a donation Please finish the form below Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form CONTRIBUTE Home ABOUT priorities NEWS Join GAllery John Bell: Standing with our farming communities Written by: John Bell July 3, 2018 Back to News Kinston Free Press | By John Bell July 3, 2018 | Link Last week, over 2,000 people traveled to Raleigh to participate in a rally in support of our farmers and agriculture.
 While it did not get the media coverage that a hand full of liberal activists generate when they routinely stage arrests and disrupt official business, these folks did it the right way.
 They were respectful, but forceful.
 They came with a simple, but strong message.
@@ -38,4 +39,6 @@ I promise to always stand with our farmers, agriculture producers and rural comm
 We must join together and work hard to protect, promote and preserve our agriculture heritage.
 John Richard Bell IV is a Republican member of the North Carolina General Assembly.
 He represents the 10th district.
-Representative Bell was honored with the “2014 Rising Star” award by the North Carolina House Legislative Partners.
+Representative Bell was honored with the “2014 Rising Star” award by the North Carolina House Legislative Partners. ‍ Contact us john@electjohnbell.com POL.
+AD.
+PAID FOR BY ELECT JOHN BELL COMMITTTEE.

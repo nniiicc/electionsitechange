@@ -1,6 +1,5 @@
-About Kristen
-Kristen Gonzalez is a tech worker, community organizer, and born-and-raised New Yorker, running for State Senate to win a dignified life for all New Yorkers.
-On August 23rd she won the Democratic primary with 58% of the vote to become the Democratic Nominee for State Senate District 59.
+0 Skip to Content Home Issues About My Voting Philosophy Events Donate Open Menu Close Menu Home Issues About My Voting Philosophy Events Donate Open Menu Close Menu Home Issues About My Voting Philosophy Events Donate About Kristen Kristen Gonzalez is a tech worker, community organizer, and born-and-raised New Yorker, running for State Senate to win a dignified life for all New Yorkers.
+On August 23rd she won the Democratic primary with #% of the vote to become the Democratic Nominee for State Senate District 59.
 Kristen was raised in a one-bedroom apartment in Elmhurst, Queens by a single mom from Puerto Rico.
 After her father from Colombia passed away, Kristen watched her mother struggle to give her a shot at a better life.
 Like many families in this city, her mom worked multiple jobs to keep them afloat until finally landing a good, union job in New York City’s public schools as a special education paraprofessional.
@@ -20,7 +19,6 @@ And it’s going to take all of us to get there.
 Help build our Movement!
 Our representatives in Albany are putting the profits of millionaire landlords and power plant owners before our lives and our futures.
 That’s why our campaign rejects all corporate and fossil fuel donations.
-We’re powered by small donors like you because we believe that’s who our electeds should be accountable to.
-Join Our Movement
-We're building a different kind of campaign, one led by hundreds of volunteers as part of a larger democratic socialist movement.
+We’re powered by small donors like you because we believe that’s who our electeds should be accountable to. $27 $100 $50 Other Join Our Movement We're building a different kind of campaign, one led by hundreds of volunteers as part of a larger democratic socialist movement.
 Sign up to help us knock on our neighbors’ doors, hang up posters on your block, call voters, and get out every single vote on June 25th.
+Volunteer Socials X Instagram Facebook Contact info@gonzalezforny.com Paid for by Gonzalez for New York 2026 Privacy Policy & Terms of Service

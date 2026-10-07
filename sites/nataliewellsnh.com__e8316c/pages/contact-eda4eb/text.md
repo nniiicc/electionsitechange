@@ -1,36 +1,9 @@
-Natalie Wells
-About
-Issues
-Contact
-Donate
-Get In Touch
-We’d love to hear from you — reach out, ask questions, or join the team.
-Send a Message
-Your Name *
-Email Address *
-Phone Number
-Your Message
-Ways to Get Involved
-Door Knocking
-Phone Banking
-Yard Signs
-Event Help
-Social Media
-Other
-I agree to receive recurring text messages from Natalie Wells and the Committee to Elect House Republicans about campaign updates, events, volunteer opportunities, and election reminders.
+Natalie Wells About Issues Endorsements Contact Donate Get In Touch We’d love to hear from you — reach out, ask questions, or join the team.
+Send a Message Your Name * Email Address * Phone Number Your Message Ways to Get Involved Door Knocking Phone Banking Yard Signs Event Help Social Media Other I agree to receive recurring text messages from Natalie Wells and the Committee to Elect House Republicans about campaign updates, events, volunteer opportunities, and election reminders.
 Msg frequency varies.
 Msg & data rates may apply.
 Reply STOP to opt out, HELP for help.
-See our
-Privacy Policy
-and
-Terms
-.
-Send Message
-Contact Information
-Email
-[email protected]
-Phone
-[phone protected]
-Address
-PO Box 213, Warner, NH 03278
+See our Privacy Policy and Terms .
+Send Message Contact Information Email [email protected] Phone [phone protected] Address PO Box 213, Warner, NH 03278 Natalie Wells Republican for State Representative Merrimack 8 Quick Links About Natalie Key Issues Endorsements Contact Get in Touch Email: [email protected] Mail: P.O.
+Box 213, Warner, NH 03278 Paid for by Natalie Wells, PO Box 213, Warner, NH 03278, Natalie Wells treasurer © # Natalie Wells.
+All rights reserved.

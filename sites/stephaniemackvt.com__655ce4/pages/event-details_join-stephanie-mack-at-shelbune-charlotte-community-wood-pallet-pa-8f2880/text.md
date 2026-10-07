@@ -1,7 +1,1 @@
-top of page
-Join Stephanie Mack at Shelbune-Charlotte Community Wood Pallet Paint
-Sun, Jun 14
-|Shelburne Bay Boat Ramp
-Celebrate the 250th
-Registration is closed
-bottom of page
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate Join Stephanie Mack at Shelbune-Charlotte Community Wood Pallet Paint Sun, Jun 14 | Shelburne Bay Boat Ramp Celebrate the 250th Registration is closed See other events Time & Location Jun 14, 2026, 1:00 PM – 3:00 PM Shelburne Bay Boat Ramp, 1136 Bay Rd, Shelburne, VT 05482, USA Share this event Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page

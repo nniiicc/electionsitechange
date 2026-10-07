@@ -1,9 +1,34 @@
 [
-"https://cathyforalaska.com/",
-"https://cathyforalaska.com/contact",
-"https://cathyforalaska.com/faq",
-"https://cathyforalaska.com/issues",
-"https://cathyforalaska.com/meet-cathy",
-"https://constantcontact.com/legal/about-constant-contact",
-"https://secure.anedot.com/giessel-foralaska/website"
+{
+"text": "Contact",
+"href": "https://cathyforalaska.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/giessel-foralaska/website"
+},
+{
+"text": "Emails are serviced by Constant Contact",
+"href": "https://www.constantcontact.com/legal/about-constant-contact"
+},
+{
+"text": "FAQ",
+"href": "https://cathyforalaska.com/faq/"
+},
+{
+"text": "Issues",
+"href": "https://cathyforalaska.com/issues/"
+},
+{
+"text": "Meet Cathy",
+"href": "https://cathyforalaska.com/meet-cathy/"
+},
+{
+"text": "Volunteer",
+"href": "https://cathyforalaska.com/contact/#volunteer-form"
+},
+{
+"text": "[image]",
+"href": "https://cathyforalaska.com"
+}
 ]

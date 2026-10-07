@@ -1,4 +1,4 @@
-I am proud to have secured $36.2 million in funding for @RideSacRT's Downtown Riverfront Streetcar Connector Project.
-Connecting Sacramento to West Sacramento through sustainable public transit has always been a priority for the region, that's why I always work tirelessly to… pic.twitter.com/ZSt2ZTnI7D
-— Rep.
-Doris Matsui (@DorisMatsui) February 10, 2026
+About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact DONATE February 10, 2026 NEWS & EVENTS Doris Matsui Secures $36.2 million in funding for @RideSacRT’s Downtown Riverfront Streetcar Connector Project I am proud to have secured $36.2 million in funding for @RideSacRT 's Downtown Riverfront Streetcar Connector Project.
+Connecting Sacramento to West Sacramento through sustainable public transit has always been a priority for the region, that's why I always work tirelessly to… pic.twitter.com/ZSt2ZTnI7D — Rep.
+Doris Matsui (@DorisMatsui) February 10, 2026 Prev Previous After Minnesota shooting, Matsui, other Democrats call for Kristi Noem’s impeachment Next Sacramento Rep.
+Doris Matsui tours facility ICE uses to detain people after 2 rejected requests Next MAKE A CONTRIBUTION $15 $25 $50 $100 ANY AMOUNT About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact Facebook X-twitter Instagram Flickr © # ALL RIGHTS RESERVED ••• PAID FOR BY MATSUI FOR CONGRESS Privacy Policy

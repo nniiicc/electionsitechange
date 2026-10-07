@@ -1,8 +1,6 @@
-Rhonda Shader (R) – The Power of Choice | EPISODE # 316 The Paco’s Place Podcast
-Paco's Place Podcast - Episode 316 | November 3, 2025
-In this episode, I sit down with Rhonda Shader, Republican candidate for the California State Senate 2026.
+Skip to content Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE × Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE Rhonda Shader (R) – The Power of Choice | EPISODE # 316 The Paco’s Place Podcast Paco's Place Podcast - Episode 316 | November 3, 2025 In this episode, I sit down with Rhonda Shader, Republican candidate for the California State Senate 2026.
 Our conversation covers many topics, but everything leads back to one key idea—choices.
 Rhonda believes that a healthy democracy thrives on genuine dialogue and diversity of thought.
 When one side dominates, we lose the balance that keeps our government accountable.
 Together we talked about the importance of restoring open discussion in California’s legislature, encouraging debate, and giving voters real options.
-Continue reading at: Paco's Place Podcast - Episode 316
+Continue reading at: Paco's Place Podcast - Episode 316 Share on Facebook 𝕏 Share on X Share on Email DONATE Quickly & Securely Online JOIN RHONDA Endorse | Volunteer | Yard Sign LATEST NEWS Los Angeles wants to cut the costal cleanup team RHONDA SHADER ENDORSED BY GOP UNION CAUCUS Endorsement Highlights Shader’s Commitment to Working Families A Conversation with Past Mayor and Past Chamber Chair Rhonda Shader 2026 Senate Candidate Rhonda Shader, SD-34 candidate, 2026 primary election questionnaire Leadership That Delivers: From City Hall to Real Impact Guest: Rhonda Shader Rhonda Shader Interview All News Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy | Terms of Use Scroll To Top

@@ -1,7 +1,11 @@
 {
- "description": "Watch for Mark in the Oregon Trail Parade, and then stop by Mark\u2018s booth at the Legion Park. Petitions will be available to get Mark on the ballot this November. Mark will also be at the park on Sunday, July 12th from 10am-3pm",
+ "description": "Watch for Mark in the Oregon Trail Parade, and then stop by Mark‘s booth at the Legion Park. Petitions will be available to get Mark on the ballot this November. Mark will also be at the park on Sunday, July 12th from 10am-3pm",
  "final_url": "https://www.markfornebraska.org/events/2026/06/oregon-trail-days",
- "paid_for_by": null,
- "title": "Oregon Trail Days \u2014 Mark for Nebraska",
- "years_mentioned": []
+ "fingerprint": "18c82830289986dba5d6aabaaabbb42502a486aa",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website",
+ "title": "Oregon Trail Days — Mark for Nebraska",
+ "years_mentioned": [
+  "2026"
+ ]
 }

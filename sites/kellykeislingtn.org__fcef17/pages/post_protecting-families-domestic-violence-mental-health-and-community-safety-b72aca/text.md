@@ -1,5 +1,5 @@
-Protecting Families: Domestic Violence, Mental Health, and Community Safety
-The safety and wellbeing of Tennessee families is not a partisan issue.
+top of page HOME ABOUT THE ISSUES NEWS CONTACT More Use tab to navigate through the menu items.
+All Posts Search Protecting Families: Domestic Violence, Mental Health, and Community Safety Team Keisling Jun 14 2 min read The safety and wellbeing of Tennessee families is not a partisan issue.
 It is a human one.
 This session, the 114th General Assembly passed a number of laws that make a real difference for families facing some of the most difficult circumstances a person can encounter.
 Domestic violence is a serious problem in rural Tennessee, and we took meaningful steps to address it.
@@ -19,3 +19,6 @@ This program provides some relief for home modifications, medical equipment, res
 The Promising Futures Act takes on the challenge of childcare access and affordability, creating new funds to stabilize the childcare workforce, support employers who help with childcare costs, and expand access to childcare assistance for working families who earn too much to qualify for existing programs but still cannot afford the real cost of quality care.
 These are the kinds of policies that make a tangible difference in the lives of real families.
 That is exactly what we are in Nashville to do.
+Post Office Box 577, Byrdstown, Tennessee 38549 ( 615) 741-6852 | ktkeisling@gmail.com Paid for by Kelly Keisling for State Representative, John Keisling, Treasurer.
+Web design by ZDStephens Company .
+Privacy Policy: Click Here bottom of page

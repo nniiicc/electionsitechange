@@ -1,6 +1,6 @@
-Getting to Work for Indiana
-Hi everyone,
-I’m Ian Richardson, and I’m running to represent District 79.
+Skip to Content Open Menu Close Menu Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact ( 0 ) Cart ( 0 ) Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Campaign Merchandise More From Ian About Donate Power Our Future Volunteer Contact Getting to Work for Indiana Apr 22 Written By Ian Richardson Hi everyone, I’m Ian Richardson, and I’m running to represent District 79.
+Rain, shine, or snow, I’m putting in the miles.
+I’m Ian Richardson, and I’m ready to get to work for our community.
 I’ve spent a lot of time thinking about what our community needs—not just today, but for the years to come.
 Whether I’m at the drive-in, working on my own projects, or talking to neighbors, I see the potential we have here in Bluffton and across the district.
 But to get things moving, we need leadership that understands the day-to-day reality of working families.
@@ -10,5 +10,5 @@ The website is live, I’ve got stickers and business cards on the way, and we�
 This isn't about fancy slogans or playing political games; it’s about rolling up our sleeves and getting to work for the people who live here.
 I’m looking forward to walking this path with all of you.
 Check back here for updates, or find me over on X, Threads, Instagram, and Facebook to keep the conversation going.
-Let’s get to work.
-— Ian
+Let’s get to work. — Ian Ian Richardson Previous Previous The Three-Hat Campaign Paid for by Elect Ian Richardson Made with Squarespace Contact iangforindiana@gmail.com 260-205-8781 Ian G.
+Richardson PO Box 110 Bluffton, IN 46714

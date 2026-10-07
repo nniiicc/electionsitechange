@@ -1,5 +1,6 @@
-Walberg Gains Support of Local Business Organization
-Jackson, MI- Congressman Tim Walberg is honored to add the Jackson County Chamber of Commerce PAC to his list of endorsements.
+Skip to main content Meet Tim Biography Endorsements News Issues Protecting our National Security Fixing the Biden Crises Building a Healthy Economy Fiscal Responsibility Affordable Health Care Defending Our Values Contact Volunteer Store Contribute Walberg Gains Support of Local Business Organization 16 September Press SHARE Walberg Gains Support of Local Business Organization Jackson, MI - Congressman Tim Walberg is honored to add the Jackson County Chamber of Commerce PAC to his list of endorsements.
 "It is an honor to have the support of an organization focused on supporting, advocating for, and encouraging existing and future businesses throughout Jackson County.
 The Jackson County Chamber continues to show through its community and economic development efforts that it is truly local businesses, hardworking taxpayers, and community organizations that enhance the lives and wellbeing of our families and not Washington DC bureaucrats," said Tim Walberg.
-Link to Jackson County Chamber of Commerce Endorsement: click here
+Link to Jackson County Chamber of Commerce Endorsement: click here GO BACK Stay in Touch Sign up for Emails Submit CONTRIBUTE VOLUNTEER Join The Team!
+FOLLOW TIM Meet Tim News Issues Contact Volunteer Store Contribute PRIVACY POLICY VIDEO OF TIM WALBERG ON THE CAMPAIGN TRAIL PICTURES OF TIM WALBERG ON THE CAMPAIGN TRAIL P.O.
+Box 1362 Jackson, MI 49204 PAID FOR BY WALBERG FOR CONGRESS

@@ -1,14 +1,12 @@
-We once enjoyed the finest highway system in the world, built around the automobile, which offers efficient, economical, convenient, comfortable, adaptive, doorstep-to-doorstep, 24-hour per day on-call service.
+Home About Issues News Volunteer Donate Transportation We once enjoyed the finest highway system in the world, built around the automobile, which offers efficient, economical, convenient, comfortable, adaptive, doorstep-to-doorstep, 24-hour per day on-call service.
 We financed this remarkably simple system through fees, taxes and bonds paid for by highway users in proportion to their use.
 But beginning in the 1970’s, we abandoned all these advantages for rigid, inefficient, inconvenient, bureaucratized mass transit systems.
 We diverted highway taxes for purposes unrelated to our highways and squandered billions of dollars on government transit.
 The result is crumbling and chronically congested highways and breathtakingly expensive mass transit systems that the masses don’t use.
 I believe that we need to restore our highway taxes for our highways, and undertake the long-overdue modernization of our once vaunted highway system.
-Highway Taxes for Highways
-California Asphalt and Pavement Association – January 24, 2001 – Los Angeles, California
-Thank you for your invitation to discuss the transportation crisis in California.
+Highway Taxes for Highways California Asphalt and Pavement Association – January 24, 2001 – Los Angeles, California Thank you for your invitation to discuss the transportation crisis in California.
 The thing that makes it so fascinating to me is how simple the problem is to correct, and how monumentally stupid has been our policy to deal with it during the past 30 years.
-Throughout the first three-quarters of the 20th Century, policymakers understood the simplicity, the efficiency and the necessity of the individualized transportation system made possible by the automobile.
+Throughout the first three-quarters of the 20 th Century, policymakers understood the simplicity, the efficiency and the necessity of the individualized transportation system made possible by the automobile.
 In 1958, they adopted the most visionary infrastructure plan in California’s history that proposed a highway system to link all of the population, commercial and resource centers of the state with this remarkably efficient system – and to do so from existing tax dollars.
 This highway system was on schedule for completion in the 1980’s, until a single climacteric changed everything: the election of Gov.
 Jerry Brown and his “era-of-limits” “small-is-beautiful” “don’t build things and people won’t come” new-age nonsense.
@@ -24,8 +22,7 @@ It wasn’t for lack of funds – it was because of a retrograde ideology that h
 And through two Democratic and two Republican administrations, this basic agenda has not been challenged.
 Since 1974, the miles driven by Californians have increased 116 percent, while lane mileage has increased just 8 percent.
 According to one of Jerry Brown’s deputies: “Our job is to pry John Q.
-Public out of his car, and we are prepared to endure heated public criticism to do so.” Another said, “My job is to make life miserable for the single motorist.”
-This policy has reached a new level with the election of Jerry Brown’s chief of staff, Gray Davis.
+Public out of his car, and we are prepared to endure heated public criticism to do so.” Another said, “My job is to make life miserable for the single motorist.” This policy has reached a new level with the election of Jerry Brown’s chief of staff, Gray Davis.
 Last summer, scant attention was paid when Davis announced that “California’s era of freeway construction is over.” I suggest to you that this statement ranks with “Let them eat cake,” and “Apres nous, le deluge” for sheer irresponsibility and lunacy in public policy.
 Well, we stopped building freeways, the people came anyway, and they’re still in their cars.
 I am here to state what is politically incorrect in bureaucratic circles, but what is self-evident to virtually every motorist on the road today.
@@ -33,7 +30,7 @@ California policy makers have conducted a 30-year hate affair with the automobil
 And it is time – it is long past time – that Californians kicked them out of office and demanded the highways that we have paid for.
 During those 30 years, we have heard the derisive and condescending comments about “Californians’ love affair with their cars.” California’s highway system was not due to an irrational love affair with a machine.
 It was the simple fact that the individualized transportation made possible by the automobile offers advantages that no mass-transit system could ever begin to duplicate: high-speed, low-cost, doorstep-to-doorstep, 24-hour a day on call service in safety, convenience and comfort, offering infinite flexibility in travel schedules and routes.
-It was this efficient, adaptable system that made 20th Century commerce possible – and it is the foundation upon which our ability to socially and commercially interact now rests.
+It was this efficient, adaptable system that made 20 th Century commerce possible – and it is the foundation upon which our ability to socially and commercially interact now rests.
 But it is not popular with big government.
 Highly decentralized systems that respond to individual needs are anathema to the manipulative whims of government.
 Government likes centralized, command-and-control structures that can be dominated politically.
@@ -110,8 +107,7 @@ It seems they like to have a yard for their kids to play in.
 And that’s why they are willing to endure endless traffic delays to provide that room for their kids.
 We can either recognize that and accommodate their needs, or refuse to recognize it and ruin of our standard of living and our quality of life.
 It is one of the ironies of human nature that the more we invest in our mistakes, the less inclined we are to admit them.
-So let me offer these politically incorrect suggestions:
-First, restore highway revenues for highways.
+So let me offer these politically incorrect suggestions: First, restore highway revenues for highways.
 I first proposed dedicating our sales taxes on gasoline for our highways three years ago.
 Today, a similar measure is before us as Proposition 42, and it is a start.
 Second, let’s ask that MTA and all the other mass transit systems pay for themselves through their own fareboxes, just as we expect highway users to pay for their highways through their gas taxes.
@@ -148,9 +144,7 @@ But it’s the truth and it is time we learned the truth – and acted on it.
 What I can promise is that I will continue to press on these issues at every opportunity.
 And every voice that is raised will bring us closer to the day when all Californians can again enjoy high-speed transportation that is perfectly individualized to meet their precise needs — that picks them up at their doorsteps and whisks them to their destinations in safety and comfort – whenever they need to go, wherever they need to go.
 In short, what we once had, what we foolishly threw away, and what we must restore for our children and our grandchildren: the finest highway system the world has known.
-Diamonds Aren’t Forever
-November 20, 1998
-On a December morning last year, a patch of pea soup fog caused a horrific pile-up on Interstate 5, closing all lanes into Sacramento at the beginning of the rush hour commute.
+Diamonds Aren’t Forever November 20, 1998 On a December morning last year, a patch of pea soup fog caused a horrific pile-up on Interstate 5, closing all lanes into Sacramento at the beginning of the rush hour commute.
 The Highway Patrol immediately detoured the blocked traffic onto a parallel freeway, Route 99.
 And the first thing they did on Route 99 was to open the diamond lane to all traffic.
 Why?
@@ -158,11 +152,10 @@ Why?
 A more important question is, why is something so obvious to a CHP officer managing a traffic crisis utterly lost on the bureaucrats at CalTrans?
 California’s highway officials plan to double the number of diamond lanes clogging California freeways by 2015.
 Meanwhile in New Jersey, transportation officials have come to an entirely different conclusion.
-On November 30th, they abolished the diamond lane restrictions along two heavily traveled routes.
+On November 30 th , they abolished the diamond lane restrictions along two heavily traveled routes.
 The relief was immediate.
 One commuter accustomed to diamond lane gridlock marveled, “this morning, it was zooming.
-Everybody was going along like a normal highway.”
-This shouldn’t surprise anyone.
+Everybody was going along like a normal highway.” This shouldn’t surprise anyone.
 A typical diamond lane carries only 7 percent of the traffic, yet it consumes 25 percent of the capacity on a four-lane freeway.
 This means the remaining 93 percent of the traffic is deliberately crammed into 75 percent of the space.
 CalTrans officials insist that diamond lanes encourage carpooling based on the false assumption that every car with more than one person is a carpool specifically created to take advantage of the lane.
@@ -183,13 +176,10 @@ The most common defense is that new lanes will quickly fill up with traffic and 
 In other words, California’s top transportation officials argue, “Don’t built more traffic lanes; people will use them.” Our modern bureaucrats prefer to build transportation systems that people don’t use.
 It is a natural condition of human nature that the more we invest in our mistakes, the less we are willing to admit them.
 Several years ago, a CalTrans official in a rare moment of candor explained the real purpose of the diamond lane.
-He said it was his job “to make life miserable for the single motorist.”
-They have succeeded.
+He said it was his job “to make life miserable for the single motorist.” They have succeeded.
 Diamond lanes now clog virtually every major freeway artery in California.
 But diamonds don’t have to be forever, as New Jersey has proven.
-Principles of Sound Transportation Finance
-California State Senate Transportation Committee Hearing – January 24, 2006
-I want to begin by applauding the administration for finally focusing the government’s attention on our long-neglected public works.
+Principles of Sound Transportation Finance California State Senate Transportation Committee Hearing – January 24, 2006 I want to begin by applauding the administration for finally focusing the government’s attention on our long-neglected public works.
 I have often lamented the tragedy that befell our state in 1974 with the election of Gov.
 Jerry Brown and the introduction of a radical and retrograde ideology.
 He called it his “era of limits.” It was punctuated with such new age nonsense as the mantra “small is beautiful.” I think it can best be described as the naïve notion that if we stopped building things, people would stop coming.
@@ -221,7 +211,7 @@ These 30-year measures rob our children of that flexibility.
 Fifth, by encumbering gasoline taxes to pay for so-called “revenue bonds” for mass transit, you are literally robbing highway users to subsidize mass transit users – destroying the financial connection between the users and the payers of transportation projects.
 Here is the fine point of it.
 Californians pay the fourth highest tax per gallon of gasoline in the country.
-We rank 49th in our per capita spending on our highways.
+We rank 49 th in our per capita spending on our highways.
 Our problem has never been a lack of funds – but rather an abundance of very bad public policy.
 Our gasoline taxes have been siphoned off for purposes unrelated to our highways, and local governments were given what amounts to veto power over state highway projects.
 One other point, just for perspective.
@@ -244,11 +234,8 @@ This is a legislature.
 We are not supposed to be advising on legislation.
 We are supposed to be acting on legislation.
 I cannot offer amendments, so all I can do is protest, and to vote “No” when this breathtakingly bad public policy is finally dumped in our laps for a take-it or leave-it vote.
-Amtrak is on the Wrong Track
-Motion to Amend THUD Appropriations Act – House of Representatives Committee of the Whole House – May 15, 2015
-Mr.
-Chairman:
-Every year, as Amtrak’s operating losses have mounted, Congress has dutifully shoveled more money at it; every year, its Congressional supporters have promised reforms to bring these losses under control; and every year these promises have fallen flat.
+Amtrak is on the Wrong Track Motion to Amend THUD Appropriations Act – House of Representatives Committee of the Whole House – May 15, 2015 Mr.
+Chairman: Every year, as Amtrak’s operating losses have mounted, Congress has dutifully shoveled more money at it; every year, its Congressional supporters have promised reforms to bring these losses under control; and every year these promises have fallen flat.
 This year, we’re told, “don’t worry.
 We’re giving Amtrak five years to get its act together.” How many times have we heard this promise?
 In 1997, facing mounting criticism, The Amtrak Reform and Accountability Act required Amtrak to operate without any federal operating assistance after 2002!
@@ -256,9 +243,7 @@ When it didn’t, in 2008 Pete Sessions attempted to eliminate its most expensiv
 Jim Oberstar called any reduction in subsidies a “preemptive strike” and promised the legislation would solve Amtrak’s problems.
 When it didn’t, in 2014, Paul Broun proposed eliminating subsidies just as my amendment does.
 Tom Latham said “I concede that Amtrak could be more efficient.
-However, it has made significant improvements in this area recently, and it is moving in the right direction.”
-“Moving in the right direction.”
-This year, taxpayers will subsidize Amtrak in the amount of $1.4 billion.
+However, it has made significant improvements in this area recently, and it is moving in the right direction.” “Moving in the right direction.” This year, taxpayers will subsidize Amtrak in the amount of $1.4 billion.
 The bill before us will authorize $1.4 billion for NEXT YEAR.
 Put another way, we will shell out $45 every time a passenger steps aboard an Amtrak train in direct losses billed to taxpayers.
 That’s up from $32 of loss per passenger six years ago.
@@ -280,11 +265,8 @@ Amtrak claims that it runs a profit on the heavily-travelled Northeast corridor;
 Anything Amtrak makes on these profitable routes, Amtrak keeps.
 With this amendment, Amtrak would be perfectly free to continue to operate and expand its Northeast Corridor from its own profits and to subsidize its other money-losing operations to the extent its profits would cover them.
 However, my amendment would end the practice of forcing American taxpayers to grant hundreds of millions of dollars to the profitable Northeast Corridor and shovel billions of dollars into subsidizing unprofitable routes across the rest of the country.
-The Lease Essential Service
-Motion to Amend the THUD Appropriations Bill – House of Representatives, Committee of the Whole House – June 3, 2015
-Mr.
-Chairman:
-My amendment eliminates the $155 million of discretionary spending wasted on one of the least essential programs in the entire United States Government, the so-called “Essential Air Service.” That is the program that subsidizes empty and near-empty planes to fly from small airports to regional hubs just a few hours away or less by car.
+The Lease Essential Service Motion to Amend the THUD Appropriations Bill – House of Representatives, Committee of the Whole House – June 3, 2015 Mr.
+Chairman: My amendment eliminates the $155 million of discretionary spending wasted on one of the least essential programs in the entire United States Government, the so-called “Essential Air Service.” That is the program that subsidizes empty and near-empty planes to fly from small airports to regional hubs just a few hours away or less by car.
 This was supposed to be a temporary program to allow local communities and airports to re-adjust to airline de-regulation in 1978.
 Not only is it still going on today, it has doubled in cost in the last four years, from $130 million in 2011 to roughly $260 million in 2015. $155 million of that is in our control and this amendment zeroes it out and puts it toward deficit reduction.
 We are often told that we now have $200 per person caps on the subsidies (as if that wasn’t bad enough) – but that’s only for flights under 210 miles – it continues unlimited subsidies over that distance.
@@ -306,14 +288,13 @@ This program subsidizes regular, scheduled, commercial service that practically 
 If it actually had a passenger base, we wouldn’t need, in effect, to hand out wads of hundred dollar bills to the few passengers who use it, would we?
 An airline so reckless with its funds would quickly bankrupt itself.
 The same principle holds true for governments.
-The Washington Post is not known as a bastion of fiscal conservatism, but I cannot improve upon an editorial a few years ago when it said,
-“Ideally, EAS would be zeroed out, and the $200 million we waste on it devoted to a truly national purpose: perhaps deficit reduction, military readiness or the social safety net.
-Alas, if Congress and the White House were capable of making such choices, we probably never would have had sequestration in the first place.”
-There are many tough calls in setting fiscal priorities, but this isn’t one of them.
+The Washington Post is not known as a bastion of fiscal conservatism, but I cannot improve upon an editorial a few years ago when it said, “Ideally, EAS would be zeroed out, and the $200 million we waste on it devoted to a truly national purpose: perhaps deficit reduction, military readiness or the social safety net.
+Alas, if Congress and the White House were capable of making such choices, we probably never would have had sequestration in the first place.” There are many tough calls in setting fiscal priorities, but this isn’t one of them.
 If the House of Representatives — where all appropriations begin – with a Republican majority pledged to stop wasting money — can’t even agree to cut this useless program off from the trough, how does it expect to be taken seriously on the much tougher choices that lie ahead?
-This is the kindest cut of all – eliminating a temporary program established 37 years ago and that has become a poster-child for wasteful federal spending.
+This is the kindest cut of all – eliminating a temporary program established #ago and that has become a poster-child for wasteful federal spending.
 Our national debt has doubled in eight years.
 American taxpayers pay $230 billion a year just in interest costs on that debt.
 If you’re an average family paying average taxes, it means $2,000 of those taxes this year did nothing more than RENT the money we have already spent.
 Continuing to pay for this obsolete and wasteful program with money we don’t have is obscene.
 It makes a mockery of any claim that we have cut spending to the bone.
+Thank you for your support! $5 $20 $50 $100 Other Contact the campaign Privacy Policy Terms and Conditions PAID FOR BY MCCLINTOCK FOR CONGRESS

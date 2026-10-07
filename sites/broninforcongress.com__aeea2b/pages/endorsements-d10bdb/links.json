@@ -1,16 +1,58 @@
 [
-"https://broninforcongress.com/",
-"https://broninforcongress.com/about",
-"https://broninforcongress.com/contact",
-"https://broninforcongress.com/issues",
-"https://bsky.app/profile/lukebronin.bsky.social",
-"https://facebook.com/luke.bronin",
-"https://forms.gle/5QurvELnXkRUHiLi8",
-"https://instagram.com/lukebronin",
-"https://mobilize.us/lukebronin/event/955674",
-"https://secure.actblue.com/donate/lb-web",
-"https://threads.net/@lukebronin",
-"https://tiktok.com/@lukebronin",
-"https://x.com/lukebronin",
-"https://youtube.com/@LukeBroninForCongress/shorts"
+{
+"text": "About",
+"href": "https://www.broninforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.broninforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lb-web"
+},
+{
+"text": "Issues",
+"href": "https://www.broninforcongress.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://forms.gle/5QurvELnXkRUHiLi8"
+},
+{
+"text": "Lawn Signs",
+"href": "https://www.mobilize.us/lukebronin/event/955674/"
+},
+{
+"text": "[image: Luke Bronin for Congress]",
+"href": "https://www.broninforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/lukebronin.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/luke.bronin"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/lukebronin"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@lukebronin"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@lukebronin"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LukeBroninForCongress/shorts"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/lukebronin"
+}
 ]

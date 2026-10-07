@@ -1,20 +1,98 @@
 [
-"https://elections.ny.gov/",
-"https://elections.ny.gov/voter-registration-process",
-"https://facebook.com/MenistPK",
-"https://instagram.com/evanmenist",
-"https://instagram.com/p/DZXeNHUDgX2",
-"https://instagram.com/p/DZYlg0_pEx_",
-"https://menistforsenate.com/",
-"https://menistforsenate.com/about-evan",
-"https://menistforsenate.com/cart",
-"https://menistforsenate.com/media",
-"https://menistforsenate.com/privacy-policy",
-"https://menistforsenate.com/text-messages",
-"https://menistforsenate.com/volunteer",
-"https://menistforsenate.com/voting-info",
-"https://nysenate.gov/legislation/bills/2025/S4659/amendment/A",
-"https://secure.actblue.com/donate/menist",
-"https://voterlookup.elections.ny.gov/",
-"https://x.com/EvanMenist"
+{
+"text": "0",
+"href": "https://menistforsenate.com/cart"
+},
+{
+"text": "About Evan",
+"href": "https://menistforsenate.com/about-evan"
+},
+{
+"text": "CHIP IN NOW",
+"href": "https://secure.actblue.com/donate/menist"
+},
+{
+"text": "CHIP IN TODAY!",
+"href": "https://secure.actblue.com/donate/menist"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/menist"
+},
+{
+"text": "Early Voting dates & times",
+"href": "https://menistforsenate.com/voting-info"
+},
+{
+"text": "FIND YOUR DISTRICT",
+"href": "https://voterlookup.elections.ny.gov"
+},
+{
+"text": "Home",
+"href": "https://menistforsenate.com/"
+},
+{
+"text": "Media",
+"href": "https://menistforsenate.com/media"
+},
+{
+"text": "Opt-in for text messages here.",
+"href": "https://menistforsenate.com/text-messages"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://elections.ny.gov/voter-registration-process"
+},
+{
+"text": "REST Act",
+"href": "https://www.nysenate.gov/legislation/bills/2025/S4659/amendment/A"
+},
+{
+"text": "Terms & Privacy Policy",
+"href": "https://menistforsenate.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://menistforsenate.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://menistforsenate.com/voting-info"
+},
+{
+"text": "[image: Bullets leave holes that never heal. A gun violence survivor is anyone who has personally experienced or been profoundly impacted by gun violence. Whether you were directly injured, threatened, or witnessed a shooting, or lost loved ones, survived s][image: Bullets leave holes that never heal. A gun violence survivor is anyone who has personally experienced or been profoundly impacted by gun violence. Whether you were directly injured, threatened, or witnessed a shooting, or lost loved ones, survived s]",
+"href": "https://www.instagram.com/p/DZXeNHUDgX2/"
+},
+{
+"text": "[image: Evan Menist - Democrat]",
+"href": "https://menistforsenate.com/"
+},
+{
+"text": "[image: I&rsquo;m proud to be designated a Moms Demand Action Gun Sense Candidate! Their grassroots movement is fighting for public safety measures that protect people from gun violence. With chapters in every state, it&rsquo;s the largest gun violence pre][image: I&rsquo;m proud to be designated a Moms Demand Action Gun Sense Candidate! Their grassroots movement is fighting for public safety measures that protect people from gun violence. With chapters in every state, it&rsquo;s the largest gun violence pre]",
+"href": "https://www.instagram.com/p/DZYlg0_pEx_/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MenistPK"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/evanmenist/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EvanMenist"
+},
+{
+"text": "more voter information",
+"href": "https://elections.ny.gov"
+},
+{
+"text": "sign up to help out",
+"href": "https://menistforsenate.com/volunteer"
+},
+{
+"text": "small contribution today",
+"href": "https://secure.actblue.com/donate/menist"
+}
 ]

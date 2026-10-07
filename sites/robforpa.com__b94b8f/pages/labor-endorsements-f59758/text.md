@@ -1,20 +1,13 @@
-Unions that have publicly endorsed Rob Bresnahan
-in 2026 election cycle
-Unions that have shown significant public support for Rob Bresnahan
-in 2026 election cycle
-- Air Line Pilots Association PAC
-- Allied Pilots Association PAC
-- International Association of Iron Workers Local 67 PAC
-- International Association of Fire Fighters FIREPAC
-- International Brotherhood of Electrical Workers PAC
-- International Brotherhood of Teamsters
-- International Union of Elevator Constructors PAC
-- International Union of Operating Engineers
-- Laborers International Union of North America LIUNA PAC
-- Machinists International Union Affiliated Unions (Nat.
-Fed. of Federal Employees and Transportation Communications Union) MNPL
-- National Air Traffic Controllers Association PAC
-- National Association of Letter Carriers PAC
-- NetJets Association of Shared Aircraft Pilots PAC
-- Transport Workers Union PAC
-- United Brotherhood of Carpenters Legislative Improvement Committee
+Skip to content Join Team Rob Home About News Labor Endorsements Get Involved Vote Shop Donate Instagram Facebook X YouTube DONATE Unions that have publicly endorsed Rob Bresnahan in 2026 election cycle Amalgamated Transit Union – National American Federation of Government Employees – National American Federation of Government Employees District 3 Brotherhood of Railroad Signalmen – National Brotherhood of Boilermakers Local 13 Electrical Workers (IBEW) Local 163 Electrical Workers (IBEW) Local 1319 Power City FOP Lodge 18 Wyoming Valley FOP Lodge 36 O’Rourke Memorial FOP Lodge 38 Frank Albert Memorial FOP Lodge 43 Paul Bickelman Memorial Lodge 46 Stroud FOP Lodge 75 Laborers Pennsylvania District Council Operating Engineers Local 542 Teamsters Pennsylvania Conference American Maritime Officers – National Seafarers International Union – National Masters, Mates, & Pilots – National Marine Engineers’ Beneficial Association – National SMART-Transportation Division EAS Regional Council of Carpenters Christina-Doherty FOP Lodge 84 Postal Mail Handlers Local 308 Unions that have shown significant public support for Rob Bresnahan in 2026 election cycle Air Line Pilots Association PAC Allied Pilots Association PAC International Association of Iron Workers Local 67 PAC International Association of Fire Fighters FIREPAC International Brotherhood of Electrical Workers PAC International Brotherhood of Teamsters International Union of Elevator Constructors PAC International Union of Operating Engineers Laborers International Union of North America LIUNA PAC Machinists International Union Affiliated Unions (Nat.
+Fed. of Federal Employees and Transportation Communications Union) MNPL National Air Traffic Controllers Association PAC National Association of Letter Carriers PAC NetJets Association of Shared Aircraft Pilots PAC Transport Workers Union PAC United Brotherhood of Carpenters Legislative Improvement Committee Support Rob $25 $50 $75 $100 Join Team Rob!
+First Name (Required) Last Name (Required) Email (Required) Phone Zip Code Text Opt-in (Required) By providing your mobile phone number, you are giving your consent to receive calls and sms/mms messages to that number from Rob for PA.
+Messages may include requests for donations.
+Msg frequency varies.
+Msg & data rates may apply.
+Text Help for support.
+Text Stop to opt out.
+See: Privacy Policy .
+Terms & Conditions .
+I consent Join Us!
+Rob for PA PO Box 971 Pittston, PA 18640 Please send all media inquiries to [email protected] Instagram Facebook X YouTube Privacy Policy Terms & Conditions Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Paid for by Rob for PA

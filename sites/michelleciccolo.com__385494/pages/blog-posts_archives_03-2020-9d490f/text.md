@@ -1,9 +1,11 @@
-| The rapidly changing circumstances due to COVID-19 can be overwhelming.
+MICHELLE CICCOLO STATE REPRESENTATIVE Home About Meet Michelle Career Accomplishments The District Updates Office Hours Newsletter Press Priorities Zero Waste Caucus Legislative Trails Caucus Legislation Contact Campaign Helpful Resources for COVID-19 3/19/2020 Comments The rapidly changing circumstances due to COVID-19 can be overwhelming.
 Here you can find resources that may be helpful for you or others.
-The Joint Committee on Public Health's March 4th Oversight Hearing on Coronavirus Response Efforts in the Commonwealth.
-You can read the report here.
+Read More Comments Coronavirus Virtual Forum 3/12/2020 The Joint Committee on Public Health's March 4th Oversight Hearing on Coronavirus Response Efforts in the Commonwealth .
+You can read the report here .
 As you know, mitigation efforts with regard to COVID-19, also known as the Coronavirus, are underway at a state and local level here in Massachusetts.
 Please tune in tonight at 6:00pm for Lexington's Coronavirus Virtual Forum hosted by the Lexington Office of Public Health and the Lexington Public Schools to discuss what we know and how we are responding to this continuing global public health concern.
-Thank you to all who attended yesterday's event with AG Maura Healey and Congresswoman Katherine Clark.
+Read More Thank you for your support!
+3/2/2020 Comments ​Thank you to all who attended yesterday's event with AG Maura Healey and Congresswoman Katherine Clark.
 It was a fantastic time with a great turnout of more than 75 people.
-Like me, I'm sure you all enjoyed hearing from Maura and Katherine about their work and priorities, and I really enjoyed speaking with you and fielding all of the good questions you had for me. | Archives Categories All Announcement Donate Endorse/Endorsement Event News Press Support |
+Like me, I'm sure you all enjoyed hearing from Maura and Katherine about their work and priorities, and I really enjoyed speaking with you and fielding all of the good questions you had for me.
+Read More Comments Archives May 2021 March 2021 February 2021 January 2021 November 2020 October 2020 September 2020 August 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 June 2019 May 2019 February 2019 January 2019 December 2018 November 2018 September 2018 August 2018 July 2018 June 2018 May 2018 March 2018 February 2018 January 2018 December 2017 Categories All Announcement Donate Endorse/Endorsement Event News Press Support RSS Feed ​ Paid for by the Committee to ​Elect Michelle Ciccolo Copyright © # Home About Meet Michelle Career Accomplishments The District Updates Office Hours Newsletter Press Priorities Zero Waste Caucus Legislative Trails Caucus Legislation Contact Campaign

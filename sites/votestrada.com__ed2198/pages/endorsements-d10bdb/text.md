@@ -1,36 +1,6 @@
-Endorsements
-Support from Law Enforcement, State, and Local leaders
-Joe is grateful for the support of leaders who know his record of creating jobs, training workers, and serving Central Florida communities.
-Endorsed by
-Law Enforcement & First Responders
-- Peyton Grinnell Lake County Sheriff
-- John Mina Orange County Sheriff
-- Patrick Breeden Sumter County Sheriff
-- Grady Judd Polk County Sheriff
-- Wayne Ivey Brevard County Sheriff
-- Dennis Lemma Seminole County Sheriff
-- Bill Gladson State Attorney
-- Professional Firefighters of Lake County IAFF Local 3990
-- Reedy Creek Professional Firefighters IAFF Local 2117
-- Orange County Fire Fighters Association IAFF Local 2057 Read the letter
-Endorsed by
-Statewide and Legislative
-- James Uthmeier Florida Attorney General
-- Keith Truenow State Senator
-- Jason Brodeur State Senator
-- Taylor Yarkosky State Representative
-- Nan Cobb State Representative
-- Richard Gentry State Representative
-- Webster Barnaby State Representative
-- Doug Bankson State Representative
-- Samantha Scott State Representative
-- Carey Baker Former State Senator
-Endorsed by
-Local Leaders
-- David W.
-Jordan Lake County Tax Collector
-- Mark V.
-Jordan Lake County Property Appraiser
-- Don Wiley Sumter County Commissioner
-- Keith Keogh Groveland Mayor
-- Alison Strange Clermont City Council Member
+Skip to main content About Joe Priorities Endorsements Vote Volunteer Contact Donate Open menu Endorsements Support from Law Enforcement, State, and Local leaders Joe is grateful for the support of leaders who know his record of creating jobs, training workers, and serving Central Florida communities.
+Endorsed by Law Enforcement & First Responders Peyton Grinnell Lake County Sheriff John Mina Orange County Sheriff Patrick Breeden Sumter County Sheriff Grady Judd Polk County Sheriff Wayne Ivey Brevard County Sheriff Dennis Lemma Seminole County Sheriff Bill Gladson State Attorney Professional Firefighters of Lake County IAFF Local 3990 Reedy Creek Professional Firefighters IAFF Local 2117 Orange County Fire Fighters Association IAFF Local 2057 Read the letter Endorsed by Statewide and Legislative James Uthmeier Florida Attorney General Keith Truenow State Senator Jason Brodeur State Senator Taylor Yarkosky State Representative Nan Cobb State Representative Richard Gentry State Representative Webster Barnaby State Representative Doug Bankson State Representative Samantha Scott State Representative Carey Baker Former State Senator Endorsed by Local Leaders David W.
+Jordan Lake County Tax Collector Mark V.
+Jordan Lake County Property Appraiser Don Wiley Sumter County Commissioner Keith Keogh Groveland Mayor Alison Strange Clermont City Council Member Florida's 11th Congressional District · General Election - Tuesday, November 3 rd , 2026 Volunteer Donate Admin ↗ Campaign Meet Joe Priorities Endorsements District 11 View district map Vote Take part Contribute Contact the campaign Legal Privacy policy Terms and conditions Accessibility Website proudly created by Stars and Stripes Marketing Election Day November 3 rd , 2026 © 2026 Joe Strada for Congress .
+All rights reserved.
+PAID FOR BY JOE STRADA FOR CONGRESS.

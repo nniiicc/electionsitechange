@@ -1,12 +1,6 @@
-CONOCE A MICHAEL MASUDA
-Como ingeniero, Michael se ha dedicado a resolver problemas.
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate CONOCE A MICHAEL MASUDA Como ingeniero, Michael se ha dedicado a resolver problemas.
 No solo se dirige a los síntomas, sino que también busca comprender las causas y encontrar la manera de solucionarlas.
-Michael llevará al Congreso este enfoque de solucionador de los grandes problemas como:
-- Reducir los riesgos de incendios forestales,
-- Mejorar el acceso a la atención médica a bajo precio,
-- Invertir en una educación para niños y jóvenes que los prepare para carreras significantes, y
-- Hacer todo lo posible para que todos tengan la oportunidad de encontrar un empleo que pague un salario digno
-Michael está aquí para trabajar en beneficio de los que viven en el 5º Distrito.
+Michael llevará al Congreso este enfoque de solucionador de los grandes problemas como: Reducir los riesgos de incendios forestales, Mejorar el acceso a la atención médica a bajo precio, Invertir en una educación para niños y jóvenes que los prepare para carreras significantes, y Hacer todo lo posible para que todos tengan la oportunidad de encontrar un empleo que pague un salario digno Michael está aquí para trabajar en beneficio de los que viven en el 5º Distrito.
 Michael y Brittany viven en el Distrito 5 donde están criando a un hijo de cuatro años y una hija de dos años que son la alegría de sus vidas.
 Al igual que tú, Michael quiere hacer todo lo posible para que nuestros niños tengan un futuro prometedor y un camino hacia el éxito.
 Una vez en el Congreso, Masuda luchará para hacer que nuestros impuestos se devuelvan a nuestro distrito para luego poder invertir en nuestras comunidades con el fin de forjar un futuro mejor para todos.
@@ -30,3 +24,4 @@ Mientras crecía en el condado de Amador que es salpicado de pueblos pequeños, 
 Sus padres le inculcaron una fuerte ética de trabajo durante su juventud que sigue siendo parte principal de la naturaleza de Michael hasta el día de hoy.
 Michael se ha dedicado a darles voz a todos los habitantes del Distrito 5 en Washington, D.C.
 Sin darle importancia al partido – ni rojo ni azul – ¡Michael trabajará para TI!
+Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

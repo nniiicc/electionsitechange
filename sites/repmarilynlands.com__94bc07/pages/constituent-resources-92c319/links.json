@@ -1,31 +1,154 @@
 [
-"https://actionnetwork.org/forms/d702679171a1974fa32c2638467572656168871e",
-"https://alabamahousedems.com/",
-"https://alison.legislature.state.al.us/",
-"https://alison.legislature.state.al.us/live-stream",
-"https://facebook.com/RepMarilynLands",
-"https://fastdemocracy.com/",
-"https://home.army.mil/redstone/index.php",
-"https://huntsvilleal.gov/",
-"https://instagram.com/repmarilynlands",
-"https://madisonal.gov/",
-"https://myinfo.alabamavotes.gov/voterview",
-"https://repmarilynlands.com/",
-"https://repmarilynlands.com/about",
-"https://repmarilynlands.com/about-1",
-"https://repmarilynlands.com/cart",
-"https://repmarilynlands.com/constituent-resources",
-"https://repmarilynlands.com/contact",
-"https://repmarilynlands.com/events",
-"https://repmarilynlands.com/home",
-"https://repmarilynlands.com/issues",
-"https://repmarilynlands.com/legislative-news",
-"https://repmarilynlands.com/newsmedia",
-"https://sos.alabama.gov/alabama-votes",
-"https://sos.alabama.gov/alabama-votes/voter/absentee-voting",
-"https://sos.alabama.gov/alabama-votes/voter/register-to-vote",
-"https://tektite.digital/",
-"https://thealabamachannel.org/",
-"https://townoftrianaal.gov/",
-"https://x.com/repmarilynlands"
+{
+"text": "0",
+"href": "https://www.repmarilynlands.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.repmarilynlands.com/about"
+},
+{
+"text": "Absentee Ballots",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"
+},
+{
+"text": "Alabama House Democratic Caucus",
+"href": "https://alabamahousedems.com"
+},
+{
+"text": "Back",
+"href": "https://www.repmarilynlands.com/"
+},
+{
+"text": "Clete Wetli",
+"href": "mailto:decaturclete@gmai.com"
+},
+{
+"text": "Constituent Resources",
+"href": "https://www.repmarilynlands.com/constituent-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.repmarilynlands.com/contact"
+},
+{
+"text": "Contact Rep. Lands",
+"href": "https://www.repmarilynlands.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.repmarilynlands.com/events"
+},
+{
+"text": "Fast Democracy",
+"href": "https://fastdemocracy.com"
+},
+{
+"text": "Folder: About",
+"href": "https://www.repmarilynlands.com/about-1"
+},
+{
+"text": "House Floor Live Stream",
+"href": "https://alison.legislature.state.al.us/live-stream"
+},
+{
+"text": "Huntsville",
+"href": "https://www.huntsvilleal.gov"
+},
+{
+"text": "Issues",
+"href": "https://www.repmarilynlands.com/issues"
+},
+{
+"text": "Legislative News",
+"href": "https://www.repmarilynlands.com/legislative-news"
+},
+{
+"text": "Madison",
+"href": "https://www.madisonal.gov"
+},
+{
+"text": "News & Media",
+"href": "https://www.repmarilynlands.com/newsmedia"
+},
+{
+"text": "News/Media",
+"href": "https://www.repmarilynlands.com/newsmedia"
+},
+{
+"text": "Newsletter",
+"href": "https://actionnetwork.org/forms/d702679171a1974fa32c2638467572656168871e"
+},
+{
+"text": "Redstone Arsenal",
+"href": "https://home.army.mil/redstone/index.php"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote"
+},
+{
+"text": "Tektite.Digital",
+"href": "https://tektite.digital"
+},
+{
+"text": "The Alabama Channel",
+"href": "https://www.thealabamachannel.org"
+},
+{
+"text": "The Alabama Legislature",
+"href": "https://alison.legislature.state.al.us"
+},
+{
+"text": "Triana",
+"href": "https://townoftrianaal.gov"
+},
+{
+"text": "Voting Information",
+"href": "https://www.sos.alabama.gov/alabama-votes"
+},
+{
+"text": "Your Polling Location",
+"href": "https://myinfo.alabamavotes.gov/voterview"
+},
+{
+"text": "[image: A graphic that says \"Live Stream\".]",
+"href": "https://alison.legislature.state.al.us/live-stream"
+},
+{
+"text": "[image: A screen shot of the Alabama Legislature website]",
+"href": "https://alison.legislature.state.al.us"
+},
+{
+"text": "[image: Rep. Marilyn Lands]",
+"href": "https://www.repmarilynlands.com/"
+},
+{
+"text": "[image: The Alabama Channel logo of the top of the capitol building as a purple icon]",
+"href": "https://www.thealabamachannel.org"
+},
+{
+"text": "[image: The Fast Democracy Icon of a bald eagles head]",
+"href": "https://fastdemocracy.com"
+},
+{
+"text": "[image: The logo of the Alabama House Democratic Caucus which is a large blue letter D with the empty space inside the shape of the state of Alabama]",
+"href": "https://alabamahousedems.com"
+},
+{
+"text": "[image]",
+"href": "https://www.repmarilynlands.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepMarilynLands/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repmarilynlands/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/repmarilynlands"
+}
 ]

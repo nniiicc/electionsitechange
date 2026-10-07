@@ -1,3 +1,5 @@
+Kaeser For Ohio Meet Shawn District 11 In the News Donate!
+Kaeser For Ohio Meet Shawn District 11 In the News Donate!
 As a secondary social studies teacher for Dublin City Schools since 1995, Shawn’s service to our community spans more than thirty years.
 He and his wife Jamie, who is also a DCS teacher, are proud Dublin residents and parents of nine children.
 Lifelong Ohioans, they are deeply committed to Ohio and District 11.
@@ -9,3 +11,7 @@ Shawn guided his students through the legislative process to introduce a bill na
 A decade later, he inspired a new generation of students to create the official bullfrog license plate, raising awareness and funding to protect Ohio's wetlands.
 Beyond the classroom, Shawn expands his students' horizons by leading educational trips to Japan, New Zealand, Australia, France, England, Scotland, and Ireland.
 His innovative and impactful teaching style has earned him widespread recognition, including the prestigious Golden Shamrock Award from Dublin City Schools in November 2024 and the Dublin Chamber of Commerce’s Community Champion Award in April 2026.
+Drawing on his extensive experience as a teacher and a parent, Shawn is seeking to serve the community in a new capacity.
+He's ready to take his passion for students and families to the Ohio House of Representatives.
+There, he will have a seat at the table and give a voice to the residents of Dublin, Hilliard, and Northwest Franklin County.
+Meet Shawn Kaeser Paid for by Kaeser For Ohio Privacy Policy Subscribe for Updates Submit

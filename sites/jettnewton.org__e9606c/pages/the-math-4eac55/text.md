@@ -1,9 +1,1 @@
-SEE THE RESEARCH
-Let Michigan Work
-(Tax Rebate)
-Let Michigan Work
-(Payroll Security)
-Let Michigan Drive
-Let Michigan Speak
-Let Michigan Thrive
-All Of It
+Home The Agenda The Math About Me Home The Agenda The Math About Me Jett Newton For State Representative - The Math SEE THE RESEARCH Let Michigan Work (Tax Rebate) Let Michigan Work (Payroll Security) Let Michigan Drive Let Michigan Speak Let Michigan Thrive All Of It Close modal Home The Agenda The Math About Me Close modal Home The Agenda The Math About Me

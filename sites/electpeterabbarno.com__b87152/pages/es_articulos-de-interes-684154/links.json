@@ -1,31 +1,162 @@
 [
-"http://leg.wa.gov/",
-"https://electpeterabbarno.com/es",
-"https://electpeterabbarno.com/es/abbarno-recibe-un-amplio-abanico-de-apoyos-para-su-reeleccion",
-"https://electpeterabbarno.com/es/articulos-de-interes",
-"https://electpeterabbarno.com/es/articulos-de-interes/page/2",
-"https://electpeterabbarno.com/es/author/peterabbarno",
-"https://electpeterabbarno.com/es/blog-de-peter",
-"https://electpeterabbarno.com/es/category/blog-es",
-"https://electpeterabbarno.com/es/category/elegir-a-peter-abbarno",
-"https://electpeterabbarno.com/es/category/sin-categoria",
-"https://electpeterabbarno.com/es/como-sacar-mas-partido-a-las-mejoras-energeticas-en-los-hogares-para-las-comunidades-de-washington",
-"https://electpeterabbarno.com/es/cuestiones",
-"https://electpeterabbarno.com/es/el-diputado-abbarno-pronuncia-el-discurso-de-bienvenida-al-consejo-de-construccion-y-oficios-del-estado-de-washington",
-"https://electpeterabbarno.com/es/mantengamos-los-bosques-en-funcionamiento-por-el-bien-del-condado-de-lewis",
-"https://electpeterabbarno.com/es/mes-de-concienciacion-sobre-el-tept-reconocer-las-heridas-invisibles",
-"https://electpeterabbarno.com/es/peter-abbarno-regala-lectura-en-el-dia-del-padre",
-"https://electpeterabbarno.com/es/proteger-las-tierras-de-cultivo-de-washington-y-fortalecer-las-comunidades-rurales",
-"https://electpeterabbarno.com/es/se-va-a-modernizar-el-edificio-de-salud-publica-del-condado-de-lewis",
-"https://electpeterabbarno.com/es/sobre-peter",
-"https://electpeterabbarno.com/es/suscribete-al-boletin-de-peter",
-"https://electpeterabbarno.com/es/una-infraestructura-energetica-fiable-impulsa-el-futuro-de-washington",
-"https://electpeterabbarno.com/es/vota-pronto-vota-con-orgullo-ayuda-a-construir-un-washington-mas-fuerte",
-"https://electpeterabbarno.com/items-of-interest",
-"https://facebook.com/peter.abbarno",
-"https://instagram.com/peter_abbarno",
-"https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026",
-"https://silveragency.com/",
-"https://sos.wa.gov/elections",
-"https://twitter.com/peterabbarno"
+{
+"text": "Abbarno recibe un amplio abanico de apoyos para su reelección",
+"href": "https://electpeterabbarno.com/es/abbarno-recibe-un-amplio-abanico-de-apoyos-para-su-reeleccion/"
+},
+{
+"text": "Artículos de interés",
+"href": "https://electpeterabbarno.com/es/articulos-de-interes/"
+},
+{
+"text": "Blog",
+"href": "https://electpeterabbarno.com/es/category/blog-es/"
+},
+{
+"text": "Blog de Peter",
+"href": "https://electpeterabbarno.com/es/blog-de-peter/"
+},
+{
+"text": "Cuestiones",
+"href": "https://electpeterabbarno.com/es/cuestiones/"
+},
+{
+"text": "Cómo sacar más partido a las mejoras energéticas en los hogares para las comunidades de Washington",
+"href": "https://electpeterabbarno.com/es/como-sacar-mas-partido-a-las-mejoras-energeticas-en-los-hogares-para-las-comunidades-de-washington/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026"
+},
+{
+"text": "El diputado Abbarno pronuncia el discurso de bienvenida al Consejo de Construcción y Oficios del Estado de Washington",
+"href": "https://electpeterabbarno.com/es/el-diputado-abbarno-pronuncia-el-discurso-de-bienvenida-al-consejo-de-construccion-y-oficios-del-estado-de-washington/"
+},
+{
+"text": "Elegir a Peter Abbarno",
+"href": "https://electpeterabbarno.com/es/category/elegir-a-peter-abbarno/"
+},
+{
+"text": "LEGISLATURE",
+"href": "http://leg.wa.gov/"
+},
+{
+"text": "Mantengamos los bosques en funcionamiento por el bien del condado de Lewis",
+"href": "https://electpeterabbarno.com/es/mantengamos-los-bosques-en-funcionamiento-por-el-bien-del-condado-de-lewis/"
+},
+{
+"text": "Mes de concienciación sobre el TEPT: reconocer las heridas invisibles",
+"href": "https://electpeterabbarno.com/es/mes-de-concienciacion-sobre-el-tept-reconocer-las-heridas-invisibles/"
+},
+{
+"text": "Peter Abbarno",
+"href": "https://electpeterabbarno.com/es/author/peterabbarno/"
+},
+{
+"text": "Peter Abbarno Regala lectura en el Día del Padre",
+"href": "https://electpeterabbarno.com/es/peter-abbarno-regala-lectura-en-el-dia-del-padre/"
+},
+{
+"text": "Proteger las tierras de cultivo de Washington y fortalecer las comunidades rurales",
+"href": "https://electpeterabbarno.com/es/proteger-las-tierras-de-cultivo-de-washington-y-fortalecer-las-comunidades-rurales/"
+},
+{
+"text": "Recibe el boletín de Peter",
+"href": "https://electpeterabbarno.com/es/suscribete-al-boletin-de-peter/"
+},
+{
+"text": "Se va a modernizar el edificio de Salud Pública del condado de Lewis",
+"href": "https://electpeterabbarno.com/es/se-va-a-modernizar-el-edificio-de-salud-publica-del-condado-de-lewis/"
+},
+{
+"text": "Seguir",
+"href": "https://twitter.com/peterabbarno"
+},
+{
+"text": "Seguir",
+"href": "https://www.facebook.com/peter.abbarno"
+},
+{
+"text": "Seguir",
+"href": "https://www.instagram.com/peter_abbarno"
+},
+{
+"text": "Sin categoría",
+"href": "https://electpeterabbarno.com/es/category/sin-categoria/"
+},
+{
+"text": "Sobre Peter",
+"href": "https://electpeterabbarno.com/es/sobre-peter/"
+},
+{
+"text": "The Silver Agency",
+"href": "https://silveragency.com"
+},
+{
+"text": "Una infraestructura energética fiable impulsa el futuro de Washington",
+"href": "https://electpeterabbarno.com/es/una-infraestructura-energetica-fiable-impulsa-el-futuro-de-washington/"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.sos.wa.gov/elections/"
+},
+{
+"text": "Vota pronto. Vota con orgullo. Ayuda a construir un Washington más fuerte.",
+"href": "https://electpeterabbarno.com/es/vota-pronto-vota-con-orgullo-ayuda-a-construir-un-washington-mas-fuerte/"
+},
+{
+"text": "[image: Abbarno recibe un amplio abanico de apoyos para su reelección]",
+"href": "https://electpeterabbarno.com/es/abbarno-recibe-un-amplio-abanico-de-apoyos-para-su-reeleccion/"
+},
+{
+"text": "[image: Cómo sacar más partido a las mejoras energéticas en los hogares para las comunidades de Washington]",
+"href": "https://electpeterabbarno.com/es/como-sacar-mas-partido-a-las-mejoras-energeticas-en-los-hogares-para-las-comunidades-de-washington/"
+},
+{
+"text": "[image: El diputado Abbarno pronuncia el discurso de bienvenida al Consejo de Construcción y Oficios del Estado de Washington]",
+"href": "https://electpeterabbarno.com/es/el-diputado-abbarno-pronuncia-el-discurso-de-bienvenida-al-consejo-de-construccion-y-oficios-del-estado-de-washington/"
+},
+{
+"text": "[image: Mantengamos los bosques en funcionamiento por el bien del condado de Lewis]",
+"href": "https://electpeterabbarno.com/es/mantengamos-los-bosques-en-funcionamiento-por-el-bien-del-condado-de-lewis/"
+},
+{
+"text": "[image: Mes de concienciación sobre el TEPT: reconocer las heridas invisibles]",
+"href": "https://electpeterabbarno.com/es/mes-de-concienciacion-sobre-el-tept-reconocer-las-heridas-invisibles/"
+},
+{
+"text": "[image: Peter Abbarno Regala lectura en el Día del Padre]",
+"href": "https://electpeterabbarno.com/es/peter-abbarno-regala-lectura-en-el-dia-del-padre/"
+},
+{
+"text": "[image: Proteger las tierras de cultivo de Washington y fortalecer las comunidades rurales]",
+"href": "https://electpeterabbarno.com/es/proteger-las-tierras-de-cultivo-de-washington-y-fortalecer-las-comunidades-rurales/"
+},
+{
+"text": "[image: Se va a modernizar el edificio de Salud Pública del condado de Lewis]",
+"href": "https://electpeterabbarno.com/es/se-va-a-modernizar-el-edificio-de-salud-publica-del-condado-de-lewis/"
+},
+{
+"text": "[image: Una infraestructura energética fiable impulsa el futuro de Washington]",
+"href": "https://electpeterabbarno.com/es/una-infraestructura-energetica-fiable-impulsa-el-futuro-de-washington/"
+},
+{
+"text": "[image: Vota pronto. Vota con orgullo. Ayuda a construir un Washington más fuerte.]",
+"href": "https://electpeterabbarno.com/es/vota-pronto-vota-con-orgullo-ayuda-a-construir-un-washington-mas-fuerte/"
+},
+{
+"text": "[image]",
+"href": "https://electpeterabbarno.com/es/"
+},
+{
+"text": "[image]English (Inglés)",
+"href": "https://electpeterabbarno.com/items-of-interest/"
+},
+{
+"text": "[image]Español",
+"href": "https://electpeterabbarno.com/es/articulos-de-interes/"
+},
+{
+"text": "« Entradas más antiguas",
+"href": "https://electpeterabbarno.com/es/articulos-de-interes/page/2/?et_blog="
+}
 ]

@@ -1,8 +1,30 @@
 [
-"https://facebook.com/profile.php?id=61583440252477",
-"https://kathleenforhouse.com/",
-"https://kathleenforhouse.com/cart",
-"https://kathleenforhouse.com/contact",
-"https://kathleenforhouse.com/volunteer",
-"https://secure.actblue.com/donate/kathleen-brudvig-1"
+{
+"text": "0",
+"href": "https://www.kathleenforhouse.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.kathleenforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kathleen-brudvig-1"
+},
+{
+"text": "Home",
+"href": "https://www.kathleenforhouse.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kathleenforhouse.com/volunteer"
+},
+{
+"text": "[image: Kathleen Brudvig for District 10 House]",
+"href": "https://www.kathleenforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583440252477"
+}
 ]

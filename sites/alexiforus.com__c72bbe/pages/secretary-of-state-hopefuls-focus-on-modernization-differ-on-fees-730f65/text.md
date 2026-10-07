@@ -1,5 +1,4 @@
-By Jerry Nowicki | Capitol News Illinois
-For the first time since 1998, the secretary of state seat in Illinois will be an open one in the general election.
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute Secretary of state hopefuls focus on modernization, differ on fees By Jerry Nowicki | Capitol News Illinois For the first time since 1998, the secretary of state seat in Illinois will be an open one in the general election.
 The candidates to fill it are former state treasurer and Chicago Democrat Alexi Giannoulias, and longtime state Rep.
 Dan Brady, a deputy House minority leader from Bloomington.
 Giannoulias is seeking to re-enter the statewide political landscape for the first time since his 2010 loss in the race for U.S.
@@ -20,8 +19,7 @@ Brady has his own long list of initiatives, including moving services online, us
 One focus has been an electronic lien and title transfer program that’s been written into state law for years but has languished without proper implementation.
 It’s something Giannoulias wants to implement as well.
 “We’re talking about streamlining things that can be done within hours … versus, as I said, the several weeks to months that’s taking right now,” Brady said.
-“What we’re missing here is someone who’s going to take the bull by the horns and get the project done.”
-Brady said he’d also look to fully staff driver services facilities, something he said hasn’t been done because of current “internal decisions.” He said he would prioritize facilities with the heaviest traffic and cross-train driver and vehicle service staff members to reduce wait times.
+“What we’re missing here is someone who’s going to take the bull by the horns and get the project done.” Brady said he’d also look to fully staff driver services facilities, something he said hasn’t been done because of current “internal decisions.” He said he would prioritize facilities with the heaviest traffic and cross-train driver and vehicle service staff members to reduce wait times.
 The office itself has more than 4,000 employees and touches many aspects of state government beyond driver services, including management of the Capitol Complex in Springfield, maintaining a police force, policing securities fraud, registering lobbyists and serving as the state librarian.
 Brady said some of the best ideas for improving operations are likely to come from employees.
 With similar focuses of modernizing the office and reducing wait times, each candidate touted their experience as the reason they’re best fit for the office.
@@ -42,4 +40,8 @@ While the two candidates shared a modernization focus, they diverged on the issu
 Brady has proposed cutting license registration fees by $50 temporarily due to rising inflation, but he had not yet filed a bill to do so.
 Giannoulias, meanwhile, called it “irresponsible budgeting” to suspend fees regardless of a person’s income without identifying funding alternatives.
 But he said he would consider a program that would cut fees for lower-income individuals, provided there is a budget workaround.
-Read on the DailyHearld
+Read on the DailyHearld Related Posts Giannoulias: New Legislation Aims to End the Stigma for Immigrant Drivers; Make Illinois Roads Safer Legislation will allow state to issue standardized licenses to legally licensed immigrant motorists Keep Reading → Food workers serve up support for Giannoulias in Illinois secretary of state race Former state Treasurer Alexi Giannoulias won the backing of two local chapters of the United Food and Commercial Workers International Union in what’s likely to Keep Reading → Former Democrat Congressman Jerry Costello Endorses Giannoulias for SOS Former U.S.
+Rep.
+Jerry F.
+Costello announced his endorsement today for Democrat Secretary of State candidate Alexi Giannoulias in the 2022 election cycle Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

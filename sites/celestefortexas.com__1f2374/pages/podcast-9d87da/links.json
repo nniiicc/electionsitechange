@@ -1,13 +1,50 @@
 [
-"https://celestefortexas.com/",
-"https://celestefortexas.com/become-a-election-worker",
-"https://celestefortexas.com/cart",
-"https://celestefortexas.com/donate",
-"https://celestefortexas.com/events",
-"https://celestefortexas.com/issues",
-"https://celestefortexas.com/media",
-"https://celestefortexas.com/podcast",
-"https://celestefortexas.com/volunteer",
-"https://secure.anedot.com/celeste-for-texas/donate",
-"https://theelephantintheroomwithceleste.podbean.com/"
+{
+"text": "0",
+"href": "https://celestefortexas.com/cart"
+},
+{
+"text": "Become a Election Worker",
+"href": "https://celestefortexas.com/become-a-election-worker"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/celeste-for-texas/donate"
+},
+{
+"text": "Donate",
+"href": "https://celestefortexas.com/donate"
+},
+{
+"text": "Events",
+"href": "https://celestefortexas.com/events"
+},
+{
+"text": "Home",
+"href": "https://celestefortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://celestefortexas.com/issues"
+},
+{
+"text": "Media",
+"href": "https://celestefortexas.com/media"
+},
+{
+"text": "Podcast",
+"href": "https://celestefortexas.com/podcast"
+},
+{
+"text": "Stream Here",
+"href": "https://theelephantintheroomwithceleste.podbean.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://celestefortexas.com/volunteer"
+},
+{
+"text": "[image: Celeste For Texas]",
+"href": "https://celestefortexas.com/"
+}
 ]

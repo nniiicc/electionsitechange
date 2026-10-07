@@ -1,33 +1,26 @@
-In October, the Associated Press reported that the “New South Souls to the Polls Initiative” was paying churches a $6 contribution “for each documented early vote” to cover the expenses for outreach and transportation to help people vote early by absentee ballot.
-Kiel said his bill would not
-House Bill 70 from Rep.
+Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
+Not a member?
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News TOP STORY Partisan divide is deep on election legislation In October, the Associated Press reported that the “New South Souls to the Polls Initiative” was paying churches a $6 contribution “for each documented early vote” to cover the expenses for outreach and transportation to help people vote early by absentee ballot.
+Kiel said his bill would not Continue Reading Legislature’s differences on election legislation reflect a national divide House Bill 70 from Rep.
 Jamie Kiel, R-Russellville, would make it illegal to pay an individual or entity for getting individuals to vote in an election.
 Anyone who violates this law could be convicted of a Class C misdemeanor.
-Kiel said it’s already illegal to pay someone to vote in Alabama and
-Committee member Rep.
+Kiel said it’s already illegal to pay someone to vote in Alabama and Continue Reading COVID-19 relief for Alabama education totals more than $4B Committee member Rep.
 Jamie Kiel, R-Russellville, said he’s pleased the newest funding would be distributed directly to local boards of education.
 “Our local leaders know the needs of our students better than bureaucrats in Washington or Montgomery,” Kiel said.
-“Because this money must be spent
-Rep.
+“Because this money must be spent Continue Reading Born Alive Bill Rep.
 Jamie Kiel, R-Russellville, supports the bill and said the legislation was about protecting the most vulnerable in society.
 “I find it reprehensible that anybody who calls themselves a doctor would deny lifesaving treatment to a baby,” Kiel said.
-READ MORE
-Rep.
+READ MORE Continue Reading House passes “born alive” abortion bill Rep.
 Jamie Kiel, R-Russellville, said he supports the bill, which he said protects vulnerable babies and that he finds it reprehensible that “anybody who calls themselves a doctor would deny lifesaving treatment to a baby.” “We’re not talking about a baby in the womb.
-We’re talking about a baby
-Some Republican representatives spoke against the bill, voicing opposition to releasing anyone before the end of their sentence.
+We’re talking about a baby Continue Reading Alabama House approves bill expanding early release, supervision of inmates Some Republican representatives spoke against the bill, voicing opposition to releasing anyone before the end of their sentence.
 Rep.
-Jamie Kiel, R-Russellville, expressed his concern with the bill, and said that judges at the time of sentencing may not have anticipated they could be released
-Next, Fiscal Responsibility and Economic Development quickly approved HB 103, Rep.
+Jamie Kiel, R-Russellville, expressed his concern with the bill, and said that judges at the time of sentencing may not have anticipated they could be released Continue Reading What Alabamians need to know about the latest activity on Goat Hill — March 11, 2021 Next, Fiscal Responsibility and Economic Development quickly approved HB 103, Rep.
 Jamie Kiel’s (R-Russellville) bill stipulating that the State of Alabama cannot selectively pick which types of businesses or other entities such as churches can remain open during states of emergency.
 Rep.
-Steve
-3.
+Steve Continue Reading Dale Jackson 3.
 Making all businesses essential State Representative Jamie Kiel (R-Russellville) has proposed legislation that would eliminate the distinction between “essential” and “non-essential” businesses.
-It has been approved by the Alabama Senate Fiscal Responsibility and Economic Development
-“I think the best method for making sure a school calendar fits the needs of a community is stakeholder input,” Kiel told ADN.
+It has been approved by the Alabama Senate Fiscal Responsibility and Economic Development Continue Reading School calendar, literacy rollback bills stir debate in State House “I think the best method for making sure a school calendar fits the needs of a community is stakeholder input,” Kiel told ADN.
 “Parents, teachers and students should communicate with their local administrators.
-I do not think that I, as a legislator, should tell a school in Troy or Greenville
-MONTGOMERY, Ala.
+I do not think that I, as a legislator, should tell a school in Troy or Greenville Continue Reading Kiel on WFSA MONTGOMERY, Ala.
 (WSFA) – A Senate committee plans to discuss a bill Wednesday allowing businesses and houses of worship to stay open if they follow guidelines during a pandemic.
-Under the bill, businesses could stay open if they follow all safety precautions issued by the governor or
+Under the bill, businesses could stay open if they follow all safety precautions issued by the governor or Continue Reading 1 2 3 Recent Posts Governor signs Senate Bill 1, bans ballot harvesting Ballot harvesting crackdown passes Alabama House House approves ballot harvesting, DEI bills Alabama House approves bill criminalizing some absentee ballot assistance Alabama House passes controversial ballot harvesting bill Archives March 2024 January 2024 November 2023 October 2023 September 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 November 2022 October 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 March 2019 January 2019 December 2018 November 2018 October 2018 June 2018 May 2018 January 2018 October 2017 August 2017 July 2017 Categories Education In the News Uncategorized Popular Post March 2, 2021 What Alabamians need to know about the latest activity on Goat Hill — March 2, 2021 May 10, 2018 Meet Jamie Kiel January 16, 2019 Kiel assigned to powerful Ways and Means Education Committee September 1, 2019 Development Council presents checks to local festivals March 20, 2024 Governor signs Senate Bill 1, bans ballot harvesting Paid for by Jamie Kiel Campaign 14696 Hwy 43, Russellville, AL 35653 info@jamiekiel.com

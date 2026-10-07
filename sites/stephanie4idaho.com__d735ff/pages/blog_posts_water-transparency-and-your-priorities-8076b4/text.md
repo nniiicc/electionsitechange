@@ -1,5 +1,4 @@
-Water, Transparency, and Your Priorities
-Serving the people of Bonneville County is a privilege that depends on public trust — and that trust must be earned through transparency, hard work, and accountability.
+Skip to main content Stephanie Mickelsen Menu Home About Endorsements Volunteer Blog Contact Donate Search the site Expand Search Water, Transparency, and Your Priorities Serving the people of Bonneville County is a privilege that depends on public trust — and that trust must be earned through transparency, hard work, and accountability.
 This session was no exception.
 The 2025 legislative session was one of the busiest on record.
 With over a thousand bills introduced — including more than 70 by one legislator — it often felt like the flood of legislation risked drowning the very issues Idahoans care most about.
@@ -17,3 +16,4 @@ Your calls, emails, and conversations help shape the work we do.
 That dialogue is essential to making sure your voice is heard at the Capitol.
 My hope is that Bonneville County residents feel more connected to the legislative process.
 The more engaged we are, the stronger our beautiful State becomes.
+April 15, 2025 Home Blog Water, Transparency, and Your Priorities Paid for by Stephanie Mickelsen For Idaho © # Copyright Stephanie Mickelsen for Idaho | Mario Hernandez - Treasurer Back to top

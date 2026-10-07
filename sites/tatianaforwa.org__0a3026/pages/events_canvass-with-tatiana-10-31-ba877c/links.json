@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261031T180000Z%2F20261031T200000Z",
-"https://facebook.com/profile.php?id=61589252729764",
-"https://instagram.com/tatianaforwa",
-"https://linktr.ee/TatianaforWA",
-"https://mobilize.us/dashboard/tatianaforwa/timeslot/6544896",
-"https://tatianaforwa.org/",
-"https://tatianaforwa.org/about-tatiana",
-"https://tatianaforwa.org/cart",
-"https://tatianaforwa.org/events",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-30",
-"https://tatianaforwa.org/events/canvass-with-tatiana-10-31?format=ical",
-"https://tatianaforwa.org/events/canvass-with-tatiana-11-01",
-"https://tatianaforwa.org/gallery",
-"https://tatianaforwa.org/home",
-"https://tatianaforwa.org/our-platform",
-"https://tatianaforwa.org/the-job"
+{
+"text": "0",
+"href": "https://www.tatianaforwa.org/cart"
+},
+{
+"text": "About Tatiana",
+"href": "https://www.tatianaforwa.org/about-tatiana"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.tatianaforwa.org/events"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tatianaforwa.org/gallery"
+},
+{
+"text": "Events",
+"href": "https://www.tatianaforwa.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://linktr.ee/TatianaforWA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Tatiana+in+Skyway%21&dates=20261031T180000Z%2F20261031T200000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-31?format=ical"
+},
+{
+"text": "Next Next November 1 Canvass with Tatiana in Skyway!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-11-01"
+},
+{
+"text": "Our Platform",
+"href": "https://www.tatianaforwa.org/our-platform"
+},
+{
+"text": "Previous Previous October 30 Canvass with Tatiana in Columbia City & Hillman City!",
+"href": "https://www.tatianaforwa.org/events/canvass-with-tatiana-10-30"
+},
+{
+"text": "Talk to Tati",
+"href": "https://tatianaforwa.org/home#talk-to-tati"
+},
+{
+"text": "The Job",
+"href": "https://www.tatianaforwa.org/the-job"
+},
+{
+"text": "[image: Tatiana for Washington]",
+"href": "https://www.tatianaforwa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589252729764"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tatianaforwa"
+},
+{
+"text": "hello@tatianaforwa.org",
+"href": "mailto:hello@tatianaforwa.org"
+},
+{
+"text": "https://www.mobilize.us/dashboard/tatianaforwa/timeslot/6544896/",
+"href": "https://www.mobilize.us/dashboard/tatianaforwa/timeslot/6544896/"
+}
 ]

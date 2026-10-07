@@ -1,51 +1,14 @@
-Water Security, Smart Growth & Infrastructure
-Water Security
-Water is one of Arizona’s most important resources, and we cannot continue treating it like an unlimited commodity.
-I support:
-- Stronger groundwater protections
-- Long-term water conservation planning
-- Responsible development tied to realistic water availability
-- Investments in water reuse, conservation, and infrastructure modernization
-- Drought preparedness and resilience planning
-- Protecting rural and agricultural communities from unsustainable groundwater depletion
-I also believe large corporations and high-consumption industries should be held accountable for the strain they place on Arizona’s natural resources and infrastructure.
+Home Meet Jayme Endorsements Make Endorsement Issues Events Photos Volunteer Voter Information Contribute Yard Signs Contact Home ❭ Issues ❭ Water Security, Smart Growth & Infrastructure Water Security, Smart Growth & Infrastructure Water Security Water is one of Arizona’s most important resources, and we cannot continue treating it like an unlimited commodity.
+I support: Stronger groundwater protections Long-term water conservation planning Responsible development tied to realistic water availability Investments in water reuse, conservation, and infrastructure modernization Drought preparedness and resilience planning Protecting rural and agricultural communities from unsustainable groundwater depletion I also believe large corporations and high-consumption industries should be held accountable for the strain they place on Arizona’s natural resources and infrastructure.
 Companies profiting from Arizona’s growth should contribute fairly toward the long-term sustainability systems that growth requires.
-Data Centers & High-Consumption Development
-Arizona has seen a rapid increase in proposed data centers and other high-consumption industrial developments.
+Data Centers & High-Consumption Development Arizona has seen a rapid increase in proposed data centers and other high-consumption industrial developments.
 While these projects can bring economic investment, they also place enormous demands on water and energy infrastructure.
-I support stronger oversight and accountability for large-scale developments, including:
-- Transparent reporting on projected water and energy usage
-- Infrastructure impact assessments
-- Corporate contributions toward infrastructure expansion and conservation efforts
-- Responsible siting standards
-- Limits on projects that threaten long-term water security
-Arizona should not sacrifice its long-term sustainability for short-term corporate expansion.
-Smart Growth & Responsible Development
-Growth is inevitable, but unmanaged growth creates major problems for infrastructure, housing, traffic, schools, and water systems.
-I support:
-- Responsible growth policies tied to infrastructure capacity
-- Mixed-use and adaptive zoning where appropriate
-- Development standards that prioritize sustainability and community needs
-- Protecting agricultural land and open spaces from unchecked sprawl
-- Investments in transportation and public infrastructure
-Communities should be planned around livability and long-term stability — not short-term speculation.
-Community Infrastructure
-Infrastructure is more than roads and utilities.
+I support stronger oversight and accountability for large-scale developments, including: Transparent reporting on projected water and energy usage Infrastructure impact assessments Corporate contributions toward infrastructure expansion and conservation efforts Responsible siting standards Limits on projects that threaten long-term water security Arizona should not sacrifice its long-term sustainability for short-term corporate expansion.
+Smart Growth & Responsible Development Growth is inevitable, but unmanaged growth creates major problems for infrastructure, housing, traffic, schools, and water systems.
+I support: Responsible growth policies tied to infrastructure capacity Mixed-use and adaptive zoning where appropriate Development standards that prioritize sustainability and community needs Protecting agricultural land and open spaces from unchecked sprawl Investments in transportation and public infrastructure Communities should be planned around livability and long-term stability — not short-term speculation.
+Community Infrastructure Infrastructure is more than roads and utilities.
 It includes parks, shade, schools, sidewalks, public spaces, drainage systems, internet access, and the systems people rely on every day.
-I support:
-- Expanding and modernizing transportation infrastructure
-- Increased investment in shade and heat mitigation projects
-- Safer pedestrian and bicycle infrastructure
-- Reliable broadband and utility infrastructure
-- Investments in public parks, recreation, and community spaces
-Arizona communities should be designed to support people’s quality of life, not just rapid expansion.
-Sustainable Communities & Environmental Resilience
-Extreme heat, drought, and climate pressures are already affecting Arizona communities.
+I support: Expanding and modernizing transportation infrastructure Increased investment in shade and heat mitigation projects Safer pedestrian and bicycle infrastructure Reliable broadband and utility infrastructure Investments in public parks, recreation, and community spaces Arizona communities should be designed to support people’s quality of life, not just rapid expansion.
+Sustainable Communities & Environmental Resilience Extreme heat, drought, and climate pressures are already affecting Arizona communities.
 Ignoring these realities will only create larger economic and public health problems in the future.
-I support practical, locally focused sustainability efforts that improve quality of life while protecting Arizona’s long-term future, including:
-- Urban heat mitigation strategies
-- Native and drought-tolerant landscaping protections
-- Energy efficiency improvements
-- Conservation-focused planning
-- Community resilience initiatives
-Good planning today protects Arizona’s future tomorrow.
+I support practical, locally focused sustainability efforts that improve quality of life while protecting Arizona’s long-term future, including: Urban heat mitigation strategies Native and drought-tolerant landscaping protections Energy efficiency improvements Conservation-focused planning Community resilience initiatives Good planning today protects Arizona’s future tomorrow. « Previous: Working Families, Labor Rights & Workforce Development Next: Agriculture, Food Systems & Rural Communities » Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Jayme Accalia for State Senate LD15 Powered by CampaignPartner.com - Political Websites Home Meet Jayme Issues Endorsements Contribute Volunteer Yard Signs Events Contact Voter Information Close Menu

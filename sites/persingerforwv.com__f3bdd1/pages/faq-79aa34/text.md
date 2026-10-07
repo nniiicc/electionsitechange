@@ -1,8 +1,7 @@
-Frequently Asked Questions
-Have questions about Cy or the campaign?
+0 Skip to Content Persingerforwv.com Home About FAQ Donate Contact Open Menu Close Menu Persingerforwv.com Home About FAQ Donate Contact Open Menu Close Menu Home About FAQ Donate Contact Frequently Asked Questions Have questions about Cy or the campaign?
 Here are answers to some of the most common questions from voters in District 51.
 Why are you running for the House of Delegates?
-I’m running because the people of District 51 deserve a strong, informed voice in Charleston — someone who listens, understands local challenges, and works to make a real difference for our communities.
+I’m running because the people of District 51 deserve a strong, informed voice in Charleston — someone who listens, understands local challenges, and works to make a real difference for our communities .
 What is your Listening Tour?
 My Listening Tour is my commitment to getting out into our communities, attending local events, and talking directly with residents.
 I want to hear the issues that matter most to you.
@@ -15,3 +14,4 @@ I’m always looking to attend community events across District 51.
 Please reach out through email or Facebook.
 How can I get involved?
 You can volunteer, spread the word, or support the campaign with a donation.
+PersingerForWV Made with Squarespace

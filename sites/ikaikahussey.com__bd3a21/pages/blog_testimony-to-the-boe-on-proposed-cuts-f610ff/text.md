@@ -1,6 +1,4 @@
-Testimony to the BOE on proposed cuts
-Aloha
-My name is Ikaika Hussey.
+0 Skip to Content Volunteer Blog Parking Survey Donate Open Menu Close Menu Donate Volunteer Blog Parking Survey Open Menu Close Menu Volunteer Blog Parking Survey Donate Testimony to the BOE on proposed cuts Oct 30 Written By Ikaika Hussey Aloha My name is Ikaika Hussey.
 I live in Kalihi Uka, Oahu.
 I am appearing here today as a private citizen, though for I am a candidate for the office of Representative to the Legislature, which is an institution which Kamehameha III established in 1841, during a time when Hawaii was becoming a global leader in education and literacy.
 Thank you for the opportunity to testify on the budgets of both the library system and the Department of Education.
@@ -15,3 +13,5 @@ Please present us with a budget that incorporates your greatest ambitions for ou
 Set the standards high and give us the vision and pedagogical latticework to achieve it.
 Let us figure out how to fiscally support your vision — that’s our job.
 Mahalo.
+Ikaika Hussey Next Next The nurses won, and so did we all Mahalo for supporting our campaign!
+DONATE Paid for by Ikaika Hussey for Hawaii PO Box 29145 Honolulu HI 96820 Contact 808-221-2843

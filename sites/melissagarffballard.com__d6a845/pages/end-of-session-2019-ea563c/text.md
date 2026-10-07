@@ -1,23 +1,28 @@
-| |
-| |
-| |
-| |
-| |
-| “Every general session has its own history, of course.
-But the 2019 Legislature will likely go down as one of the most important in recent history.” - UtahPolicy.com |
-| |
-| |
-| Dear Friends and Neighbors: As the 2019 legislative session has come to a close, I was impressed at the collaboration of legislators, experts, legal counsel, and public that were involved in every bill to get them amended, passed, or tabled.
+Home About Melissa Platforms Results Endorsements In the News Volunteer Contact Donate Newsletters Back Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Back Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Back June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session Home About Melissa Platforms Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Results Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Endorsements In the News Volunteer Contact Donate Newsletters June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session *|MC_PREVIEW_TEXT|* “Every general session has its own history, of course.
+But the 2019 Legislature will likely go down as one of the most important in recent history.” - UtahPolicy.com Dear Friends and Neighbors: As the 2019 legislative session has come to a close, I was impressed at the collaboration of legislators, experts, legal counsel, and public that were involved in every bill to get them amended, passed, or tabled.
 Legislators themselves come from a variety of professions- there are 6 teachers, 3 university professors, lawyers, grandmothers, insurance agents, doctors, writers, fathers, large and small business owners, home builders, and I’m a pianist and CEO of 6 kids, 3 daughters in-law, 2 dogs, a turtle, and 4 frogs.
 We bring together our experience to vet each bill and work to make Utah a better place for the next generation.
 I answered more than 1500 emails, met with more than 100 individual constituents at the capitol, dozens of state and community specialists, hosted seven K-12 school groups, 2 youth community councils, met with student groups from 4 universities/tech colleges with students from our area, met almost every university and tech college president, and spoke to 14 different community and state organizations.
 With Senator Todd Weiler and Representative Ray Ward we hosted 6 “Bagels and Briefs” every Saturday morning during the session rotating in our homes for our constituents to come and discuss issues being voted on.
-Sincerely, Melissa Ballard Representative for House District 20 |
-| |
-| |
-| Bills for House District 20 Here’s a list of the bills that I sponsored, co-sponsored, or floor sponsored that passed: AIR QUALITY HB109 1st sub, Hydrogen Fuel Production Amendments: adds Hydrogen fuel facilities to apply for tax credits in the Permanent Community Impact Fund, as hydrogen is used for fuel in zero emission motor vehicles, for electrical generation, or for industrial use (It’s output is water) More than $29mil of one time funds and $45k of ongoing funds were funded for air quality improvements in Utah.
-HCR13 Concurrent Resolution Encouraging Utah Refiners to Manufacture Tier 3 Gasoline to Improve Air Quality: This concurrent resolution urges Utah refineries to make the investments necessary to manufacture lower-sulfur Tier 3 gasoline in Utah- 3 of our 5 refineries are currently committed to manufacturing tier 3 fuels.
-It recognizes how vehicle emissions impact Utah's air quality DATA PRIVACY SB125 Vehicle Registration Records Amendments: prevents parking lot owners from accessing driver information from the DMV when issuing parking tickets on private lots EDUCATION HB213 1st sub, Promotion of Student Loan Forgiveness: promoting this existing program through employers for public school teachers to have their school loans forgiven HB227 1st sub, Utah Computer Science: creates a computer science grant program under the Talent Ready Utah Board HB118 Incentive for State Wide Assessment Performance: to use a student's score on certain state assessments to improve the student's academic grade or demonstrate the student's competency (only academic awards permitted for incentives).
+As a freshman legislator, many suggested I just listen and not worry about running any bills.
+I couldn’t help it…I rolled up my sleeves and went to work!
+Sincerely, Melissa Ballard Representative for House District 20 Bills for House District 20 Here’s a list of the bills that I sponsored, co-sponsored, or floor sponsored that passed: AIR QUALITY HB109 1st sub, Hydrogen Fuel Production Amendments: adds Hydrogen fuel facilities to apply for tax credits in the Permanent Community Impact Fund, as hydrogen is used for fuel in zero emission motor vehicles, for electrical generation, or for industrial use (It’s output is water) More than $#il of one time funds and $# of ongoing funds were funded for air quality improvements in Utah.
+HCR13 Concurrent Resolution Encouraging Utah Refiners to Manufacture Tier 3 Gasoline to Improve Air Quality : This concurrent resolution urges Utah refineries to make the investments necessary to manufacture lower-sulfur Tier 3 gasoline in Utah- 3 of our 5 refineries are currently committed to manufacturing tier 3 fuels.
+It recognizes how vehicle emissions impact Utah's air quality DATA PRIVACY SB125 Vehicle Registration Records Amendments: prevents parking lot owners from accessing driver information from the DMV when issuing parking tickets on private lots EDUCATION HB213 1st sub, Promotion of Student Loan Forgiveness: promoting this existing program through employers for public school teachers to have their school loans forgiven HB227 1st sub, Utah Computer Science : creates a computer science grant program under the Talent Ready Utah Board HB118 Incentive for State Wide Assessment Performance: to use a student's score on certain state assessments to improve the student's academic grade or demonstrate the student's competency (only academic awards permitted for incentives).
 FINANCE HB240 Money Management Act Amendments: adds negotiable certificates of deposits to the list of vehicle investments for any public treasurer HB241 Budgetary Procedures Act Amendments: requires any entity receiving state funds to report their goals and expenditures online, allowing state fiscal analysts to flag entities not reporting in a timely manner or not using funds efficiently.
 SCR007 Concurrent Resolution Urging Legal Medical Cannabis Banking: a resolution urging the President of the United States and Congress This concurrent resolution urges the President of the United States and Congress to remove the barriers that prohibit the medical cannabis industry from legally accessing banking services.
 FIREARMS HJR7 Joint Resolution on Existing Weapons Restrictions: provides an overview of existing weapons restrictions laws found in the Utah Code; recognizes that the best manner to protect the vulnerable without infringing on the right of the people to bear arms is to enforce the laws already found in the Utah Code.
@@ -25,16 +30,12 @@ HEALTH HB324 4th sub, Tobacco Age Amendments: moves the minimum age for obtainin
 HB371 1st sub, Consent to Services for Homeless Youth: provides that a homeless youth may consent to temporary shelter, care, or services under certain circumstances.
 SB227 Medicaid Inspector General Amendments: requires the Medicaid Inspector General to submit reports and metrics yearly (a recent audit found this hadn’t been done for 20 years).
 HB370 3rd sub, Pharmacy Benefit Manager Amendments: A pharmacy benefit manager shall permit a pharmacy to collect the amount of a customer's cost share from any source.
-WOMEN HCR16 Concurrent Resolution Designating Utah Women’s Voter Registration Day as Feb 14th, as Feb 14 is the day of the first woman in the country to vote, and she was from Utah: Seraph Young.
+WOMEN HCR16 Concurrent Resolution Designating Utah Women’s Voter Registration Day as Feb 14th , as Feb 14 is the day of the first woman in the country to vote, and she was from Utah: Seraph Young.
 Watch this video to hear about this historic day LEGACY HIGHWAY Due to so much mayoral and community support, Senator Todd Weiler and I ran bills to help extend the truck ban on Legacy (the speed limit is up to UDOT) HB339 1st sub, Legacy Parkway Truck Ban Modifications: failed to pass House Committee 5-6 votes.
-I sponsored this bill, with the support of 13 Mayors, 3 County Commissioners, 16 legislators, and more than 1,000 constituents who reached out! |
-| |
-| |
-| Watch My Video On Utah Women's Voter Registration Day! |
-| |
-| |
-| |
-| HISTORIC BILLS Here’s a brief summary of the major bills that were passed during this session.
+I sponsored this bill, with the support of 13 Mayors, 3 County Commissioners, 16 legislators, and more than 1,000 constituents who reached out!
+Read more about the Legacy Highway issue by clicking here.
+Watch My Video On Utah Women's Voter Registration Day!
+HISTORIC BILLS Here’s a brief summary of the major bills that were passed during this session.
 CONSTITUTION SJR09 Joint Resolution Calling for a Convention to Amend the United States Constitution: this doesn’t change the constitution; it provides the opportunity to add an Amendment if in a 34-state convention legislative delegates can agree on the same amendment: To limit federal spending and/or require term limits for federal legislators.
 “And depending on an arcane item known as an Article V convention of the states, it could be one of the most important in 100 years.” (Source: Utah Policy) MEDICAID After 7 years of working on a Medicaid bill, the 2019 legislature passed SB96 Medicaid Expansion with the help of the newly voted on tax to give federal-based health insurance to those whose incomes equal 100 percent of the federal poverty line.
 Through the Affordable Health Care Act, private, subsidized insurance can already be purchased for those 101 percent to 138 percent of poverty, putting more than 60,000 low-income Utahans into the government-aided health insurance pool.
@@ -42,37 +43,23 @@ CRIMES After 6 years of trying to pass legislation, a new “hate crimes” law 
 Automatic expungement for Utahns with minor convictions in their past.
 Made it legal for 8-15 year-olds to ride their personal scooters on public roads (yahoo!).
 The current law for scooter rental is age 18.
-ALCOHOL Passed a bill that allows beer with around 4 percent alcohol to be sold in retail stores.
+ALCOHOL Passed a bill that allows beer with around 4 percent alcohol to be sold in retail stores .
 The current level is 3.2 percent, and a number of national brewers are saying they will stop selling that low alcohol beer.
 Ninety percent of beer makers will make 4 percent beer – and thus may be legally sold in Utah retail stores.
-(This avoids another initiative on the ballot next year) In the final days of the session, H.B. 495 Tax Restructuring and Equalization Task Force was introduced and passed.
+(This avoids another initiative on the ballot next year) In the final days of the session, H.B.
+495 Tax Restructuring and Equalization Task Force was introduced and passed.
 This legislation set up the legislative task force that will coordinate with expert individuals and entities to study our tax structure, involve the public and solicit feedback over the next few months.
 This is in lieu of the discussed HB441 tax restructuring bill.
-Also include link for HB411 tax pdf powerpoint EDUCATION Passed a budget that gives more than $280 million more to public education, with a 4 percent Weighted Pupil Unit increase and cash coming into a number of other special programs – which would equal more than a 5 percent WPU.
+Also include link for HB411 tax pdf powerpoint EDUCATION Passed a budget that gives more than $280 million more to public education , with a 4 percent Weighted Pupil Unit increase and cash coming into a number of other special programs – which would equal more than a 5 percent WPU.
 The 4 percent WPU hike is usually the base from which teachers negotiate pay raises in the state’s 41 individual school districts.
 Gave 2.5 percent pay raise for state workers including higher ed employees.
 ABORTION HB136 Abortion Amendments limits abortions after 18 weeks.
 HB166 Down Syndrome Nondiscrimination Abortion Act ending the practice in the case of a Down syndrome diagnosis.
 MISC Highlighted bills HB66 Year Round Day-light Savings Time supports Rep.
 Rob Bishop's bill which ends the twice-per-year time change ritual.
-Rural workforce development providing grants for online rural working hubs Changes to ballot initiative process: HB119 4th sub, Initiatives, Referendums, and other Political Activities, HB135 3rd sub, Citizen Political Process Amendments delays implementation dates to be after the next legislative session for tax implementation purposes |
-| |
-| |
-| A Strong Freshman Class We were not a quiet freshman class!
-This year the legislature passed over 500 bills, many of them sponsored by us! |
-| |
-| |
-| |
-| Learn More about Melissa: You can learn more about Melissa and her take on the issues at her website: melissagarffballard.com For daily updates and more information, follow Rep.
-Ballard at: Facebook: Representative Melissa Garff Ballard Instagram: @RepMelissaGarffBallard |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| Sent by the Committee to Elect Melissa Garff Ballard |
+Rural workforce development providing grants for online rural working hubs Changes to ballot initiative process: HB119 4th sub , Initiatives, Referendums, and other Political Activities, HB135 3rd sub, Citizen Political Process Amendments delays implementation dates to be after the next legislative session for tax implementation purposes A Strong Freshman Class We were not a quiet freshman class!
+This year the legislature passed over 500 bills, many of them sponsored by us!
+Learn More about Melissa: You can learn more about Melissa and her take on the issues at her website: melissagarffballard.com For daily updates and more information, follow Rep.
+Ballard at: Facebook : Representative Melissa Garff Ballard Instagram : @RepMelissaGarffBallard Sent by the Committee to Elect Melissa Garff Ballard Paid for By the Committee to Elect Melissa Garff Ballard Copyright # Register To Vote Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for Melissa's Newsletter Email Address Sign Up Thank you for signing up for Melissa’s newsletter!

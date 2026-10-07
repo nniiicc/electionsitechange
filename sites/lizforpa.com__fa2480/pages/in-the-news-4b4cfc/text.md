@@ -1,27 +1,27 @@
-Liz in the News
-Rep.
-From Montco Selected To Participate In Nationwide Fellowship
-Patch; July 12, 2022
-Baby food testing, metal limits proposed in PA House
-Times Observer; May 4, 2022
-Rep.
-Hanbidge: Gender parity should be important to all of us
-The Intelligencer; December 16, 2021
-New PA Bill Would Provide Three Days’ Paid Leave for Pregnancy Loss
-The Keystone; November 24, 2021
-Rep.
-Hanbidge: If we fail to act on women’s reproductive rights, Pa. will become the next Texas
-Penn Capitol Star; September 18, 2021
-House bill aims to protect intellectually disabled from false confessions
-Penn Capitol Star; August 12, 2021
-Rep.
-Hanbidge: Pennsylvania Rescue Plan Makes Crucial Long-term Investment in Child Care
-MyChesCo; May 14, 2021
-Rep.
+0 Skip to Content On the Issues In the House In the 61st In the News Team Liz Survey Vote Home DONATE Open Menu Close Menu Open Menu Close Menu On the Issues In the House In the 61st In the News Team Liz Survey Vote Home DONATE On the Issues In the House In the 61st In the News Team Liz Survey Vote Home DONATE Liz in the News Rep.
+From Montco Selected To Participate In Nationwide Fellowship Patch; July 12, 2022 “ State Rep.
+Liz Hanbidge, D-61, will join the other 48 members, who hail from all three branches of state government, to attend a five-day leadership boot camp at the Council’s headquarters in Lexington, Kentucky.
+Hanbidge is the only Pennsylvanian included in this year’s contingent and she is the first Keystone State official to be selected for the fellowship since 2019, according to the House Democratic Caucus. ”I’m honored to have been selected as a Toll Fellow,” Rep.
+Hanbidge said in a statement.
+“I am grateful for the opportunity to learn from and with other equally dedicated public servants from across the country.
+I am looking forward to the challenge and to expanding my skill set for the betterment of my constituents and commonwealth. ” Baby food testing, metal limits proposed in PA House Times Observer; May 4, 2022 “ We should be taking every precaution necessary to protect Pennsylvania’s most vulnerable residents, our children.
+Therefore, I will be introducing legislation that would require that the Pennsylvania Department of Health test a representative sample of each batch of baby food manufactured in the Commonwealth for the presence of toxic heavy metals. ” Rep.
+Hanbidge: Gender parity should be important to all of us The Intelligencer; December 16, 2021 “ Women’s issues and gender parity are more than just fairness.
+They are linked with growing an economy, strengthening a workforce and improving lives...If the humanitarian and legislative examples of why it is important to have gender parity do not convince you...[o]ur economy could add up to $4.3 trillion in annual GDP by 2025 with gender equality. ” New PA Bill Would Provide Three Days’ Paid Leave for Pregnancy Loss The Keystone; November 24, 2021 “ There are women all over the country at work currently miscarrying and trying to hold that burden alone, without the resources to be able to take the time to go home and heal, or talk to counselors, or see doctors as much as they might want to or need to...I felt alone and lost when it was happening to me, and now I feel less alone because I’ve had the experience of sharing this information and having it shared in return. ” Rep.
+Hanbidge: If we fail to act on women’s reproductive rights, Pa. will become the next Texas Penn Capitol Star; September 18, 2021 “ If we are honest in our intention to reduce the number of abortions, we should be investing in creating a better sex education curricula, lowering Black maternal mortality rates, increasing access to contraception, making childcare accessible and affordable, instituting paid family and medical leave, ending the waiting list for individuals with disabilities, and ensuring that every Pennsylvania worker earns a living wage. ” House bill aims to protect intellectually disabled from false confessions Penn Capitol Star; August 12, 2021 “ This legislation seeks to prevent deceptive interrogation tactics from being used on individuals with autism and/or intellectual disabilities, thus reducing the number of false convictions, saving money and ensuring equality and dignity to all.
+Confessions made due to such tactics would become inadmissible in court, unless the state can prove that the confession was voluntarily given.
+By implementing fair, honest interrogation processes by those most susceptible to falsely confess will be better protected from deceptive practices. ” Rep.
+Hanbidge: Pennsylvania Rescue Plan Makes Crucial Long-term Investment in Child Care MyChesCo; May 14, 2021 “ As Pennsylvania begins a path to recovery, we must ensure that early childhood programs are structured and funded in a way that acknowledges and attempts to correct ingrained inequalities that have persisted for too long and that we are investing in the future of our children and our economy.
+That means leveraging our federal stimulus dollars to provide not just temporary relief from the impacts of COVID, but a reset on the way we support Pennsylvania families. ” Rep.
 Hanbidge & Rep.
-Fiedler: It’s time to end PA’s outrageous practice of non-consensual, unnecessary pelvic exams
-Penn Capitol Star; January 14, 2021
-Through a COVID Lens: Top Legislative Issues of 2021
-NCSL: State Legislatures News; January 11, 2021
-Montco's Laurel House, Haven From Domestic Violence, Gets $1M
-Patch; December 29, 2020
+Fiedler: It’s time to end PA’s outrageous practice of non-consensual, unnecessary pelvic exams Penn Capitol Star; January 14, 2021 “ We believe that pelvic and rectal exams performed without consent are part of a larger societal problem in which our bodies are not respected...
+Trust is integral to the doctor-patient relationship.
+Performance of an unauthorized pelvic exam on an unconscious patient is an obvious violation of those tenants and destroys that doctor-patient bond. ” Through a COVID Lens: Top Legislative Issues of 2021 NCSL: State Legislatures News; January 11, 2021 “ Legislators on both sides of the aisle acknowledge that rebuilding the child care system and supporting their state’s economic recovery go hand in hand.
+But it could be very expensive to overhaul child care, and finding the money will be a big hurdle. ‘As we’re having conversations about rebuilding post-COVID,” says PA Rep.
+Liz Hanbidge, ‘we need to give credence to the fact that child care is part of that conversation.’ ” Montco's Laurel House, Haven From Domestic Violence, Gets $1M Patch; December 29, 2020 “ Founded in 1980, Laurel House began as a shelter as part of the Women’s Center of Montgomery County.
+It became independent and expanded to offer a wide variety of services, ranging from traditional housing to a 24 hour hotline and a children’s program.
+That’s in addition to an array of legal advocacy work and collaboration with the community and local law enforcement.
+Specifically, the grant will fund renovations and additions like a library, ADA-friendly areas, rooms to accommodate residents with disabilities, a reception area, conference room, communal kitchen and dining room, multiple new bathrooms, a children’s play area, storage, and more. ” Child Care a Necessity for Rebuilding the Economy NCSL: State Legislatures News; November 30, 2020 “ ‘The more capacity people have with respect to child care, the more they’re able to work, and the more money that goes into Pennsylvania,’ [Hanbidge] says.
+Her legislation, HB 2810, would allocate $100 million for lower-income working parents who earn more than 200% of the federal poverty level and therefore do not qualify for the state’s child care subsidies.
+Another of Hanbidge’s bills, HB 2809, would use an additional $100 million to cover child care costs for essential workers. ” Volunteer • Contact • Voter Resources • Home 2026 General Election Day: Tuesday, November 3 Register to Vote Request a Mail Ballot DONATE Paid for by Friends of Liz Hanbidge P.O.
+Box 461 • Ambler, PA 19002 • 267-871-9467

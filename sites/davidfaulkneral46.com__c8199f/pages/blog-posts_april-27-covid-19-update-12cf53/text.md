@@ -1,5 +1,4 @@
-Friends,
-We had our weekly call with the Governor this morning, and she confirmed she will be giving a report to the people of Alabama TOMORROW on the State’s new Health Order to be issued by her and Dr.
+    Home About Events News Donate       Constituent Resources April 27 COVID-19 Update February 25, 2026 Friends, We had our weekly call with the Governor this morning, and she confirmed she will be giving a report to the people of Alabama TOMORROW on the State’s new Health Order to be issued by her and Dr.
 Harris for the State moving forward.
 (I still believe that the new Health Order will go in place on May 1st even though it will be announced tomorrow, but I could be wrong).
 She said it had not been completely decided and has not been signed yet.
@@ -9,13 +8,11 @@ Harris intend to issue, would NOT take us back to normal, or the way we were bef
 The Committee advising her on the steps to be taken based on our COVID-19 data as a State gave their recommendations to her on Friday of last week.
 That Committee, whose members I listed in my update last week, looked heavily at AL’s hospital capacity levels, both ICU and non-ICU; the numbers for new cases and deaths on a daily basis from inception to present, as well as all other data and numbers available for COVID-19.
 The Committee and the Governor also looked at the White House and CDC Guidelines for Opening Up America (that I also included in a 2nd update last week), and the Small Business Commission’s COVID-19 Task Force Sub-Committee Recommendations, along with the input from many people, groups, associations and entities.
-WHAT I EXPECT:
-As I indicated last week, I expect the new Health order to allow most all businesses and recreational areas to re-open with limitations.
+WHAT I EXPECT: As I indicated last week, I expect the new Health order to allow most all businesses and recreational areas to re-open with limitations.
 I believe this because I unfortunately believe most were closed in an effort to control human behavior, and not because they could not have operated safely during this pandemic, and in most cases probably could have operated even safer than the grocery stores, pharmacies, big box stores and many others who were allowed to stay open because of their smaller customer base and traffic.
 Trying to control human behavior is a difficult task, and think we all have learned a lot from this going forward.
 There are certainly things we might and should do differently next time based on what we have learned, but hard to fault anyone for the decision they made.
-THE NUMBERS AND THE GOOD NEWS:
-The good news is that AL’s numbers have hit a plateau and the curve has flattened according to our State Health Officer, but it is true we have not seen a sharp decline in our numbers yet.
+THE NUMBERS AND THE GOOD NEWS: The good news is that AL’s numbers have hit a plateau and the curve has flattened according to our State Health Officer, but it is true we have not seen a sharp decline in our numbers yet.
 We have right at a total of just under 6,500 Alabamians test positive for the virus, and 219 reported virus related deaths total to date in the State.
 Of the 6,500 who have tested positive, almost 1,000 of those were health care workers.
 Over the last week, we have averaged around 200 new cases per day, and most of those were coming from 1-3 “hot spot” areas in certain counties in the State (Mobile, Marshall and Tallapoosa) as a result of a particular place being infected.
@@ -28,15 +25,13 @@ To date, we have tested almost 74,000 people in AL.
 They continue to work on and implement the contact tracing plan and ADPH is working with medical students to help ramp contact tracing up.
 Walmart has offered to and has started testing in some areas of the Black Belt as well.
 Dr Harris said we continue to see that the majority of those diagnosed with the virus are seniors and over the age of 65, or those that already have a chronic health diagnosis.
-Secretary of Labor Fitzgerald Washington shared the following:
-DOL has been working tirelessly to process every claim.
+Secretary of Labor Fitzgerald Washington shared the following: DOL has been working tirelessly to process every claim.
 The number of new claims has finally gone down over the last week after seeing record numbers of claims in the last 6 weeks.
 New measures have been implemented throughout the last two weeks to help speed along the claims process.
 Please use the claims tracker available on their website.
 Continue to show patience with the department as they process your claim.
 Also note that they are working with the Attorney General’s office to prosecute any false claims made throughout this pandemic.
-THE LEGISLATURE:
-The AL Legislature will go back into Session Monday, May 4th, but for a very limited scope and with extreme safety precautions in place to ensure social distancing etc.
+THE LEGISLATURE: The AL Legislature will go back into Session Monday, May 4th, but for a very limited scope and with extreme safety precautions in place to ensure social distancing etc.
 We will only be taking up the 2 budgets and local bills in the remainder of the General Session, which by law, must be concluded by May 18th.
 I think the plan is to try and pass the budgets and these local bills as quick as possible in order to limit the days we are in Montgomery “together" as much as possible, so I do not expect us to be in Session until the 18th.
 Because I serve on the House Education Budget Committee, we will be the members primarily meeting the week of May 4th, but our Committee will also be kept at a distance from each other as we work to get the Education budget ready for a vote.
@@ -47,8 +42,7 @@ We also have a great first 6 months of the fiscal year to help offset the last 6
 The April receipts will be down at extremely low levels, but there is no need to panic!
 It does not appear that the anticipated devastating decreases from this will cause us to decrease our appropriations for the upcoming 2021 fiscal year in education from the levels they were funded last year, and we will likely see moderate increases in funding even!
 I also expect the State to issue and do a bond issue for capitol improvement projects this Session.
-PARTING MESSAGE:
-I was reminded recently by Richard Simmons that we all will face trials and storms in our life, but it is how you respond to those trials and storms that make all the difference.
+PARTING MESSAGE: I was reminded recently by Richard Simmons that we all will face trials and storms in our life, but it is how you respond to those trials and storms that make all the difference.
 People who turn to God in those times will find peace in their life.
 People who don’t, will likely become bitter and be unhappy.
 If you turn to God for help and to lead you, and I hope you do, ask Him to help you live in the present, for today!!
@@ -62,4 +56,31 @@ As my priest Rich Webster says all the time, God is at work all around us, here 
 God is at work in and through each of us if we will just ask Him!
 Alabama is a great State with so many great people, and its easy to see God at work if we just take the time to stop and look!!
 Who knows, you might even notice Him at work in you!!
-Peace, David
+Peace, David ‍ More news See what Representative Faulkner is doing to represent District 46 values Sep 17, 2026 | 400,000 Alabama Kids.
+60,000 Volunteer Coaches.
+Nobody Minding the Whole Thing.
+400,000 Alabama kids play organized sports.
+Their families spend $600 million a year.
+About 60,000 volunteer coaches run it, and no one in state government is responsible for the whole thing.
+May 21, 2026 | Legislative Updates Two Wins in Washington Two major wins: the U.S.
+Senate unanimously passed Trey's Law, and the U.S.
+House sent Lulu's Law to President Trump's desk for his signature.
+Apr 20, 2026 | Constituent Resources More Than a Building: What the New Alabama State House Means for the People We Serve After 41 years in a building the legislature was never meant to stay in, Rep.
+David Faulkner explains why Alabama's new $400 million State House is about more than a nicer office - it's about giving citizens a seat at the table.
+Apr 17, 2026 | Legislative Updates A Good Year for Alabama: Recapping the 2026 Regular Session The 2026 Regular Session is in the books.
+Rep.
+David Faulkner recaps eight bills passed, a record education budget, and real tax relief for Alabama families.
+Apr 7, 2026 | Finishing Strong: Final Week of the 2026 Session Alabama Rep.
+David Faulkner previews the final week of the 2026 legislative session, including computer science graduation requirements, teacher pay raises, and tributes to retiring Representatives Jim Hill and Terri Collins.
+Mar 23, 2026 | Legislative Updates Legislative Update: Week 10 in Montgomery From a third-grader advocating for her teachers with a PowerPoint to three high school students landing $250,000 to bring debate to schools across Alabama, Week 10 was a reminder of why this work matters.
+The Camp Safety Act cleared another unanimous vote, the Education Trust Fund budget headed to the Senate with a teacher pay raise included, and the Mountain Brook Fire Department received a grant for state-of-the-art paramedic training equipment.
+Mar 16, 2026 | Legislative Updates Week 9: Camp Safety Act on the Senate Floor, a Bill Reaches the Governor, and the Homestretch Begins The Camp Safety Act is headed for its Senate vote this week.
+One of David's bills clears the full legislature and reaches the Governor's desk.
+And with three weeks left in the session, the homestretch is officially underway.
+Mar 8, 2026 | Legislative Updates Alabama Led the Way - Now Congress Is Following Alabama passed Trey's Law.
+Now Congress is following our lead.
+I was on Capitol Hill this week as Senators Ted Cruz and Katie Britt filed the federal version of the bill - here's what that moment meant. upcoming campaign 25 Sunday, September 25, 2022 Sep Conference on Small Business Organizing for Action: We’re the people who don’t just support 25 Sunday, September 25, 2022 Sep 65-th Annual International Conference Organizing for Action: We’re the people who don’t just support 24 Saturday, September 24, 2022 Sep 25-th Annual Democracy Forum Organizing for Action: We’re the people who don’t just support View All Events Information 505 North 20th Street Birmingham, AL 35203 David@DavidFaulknerAL46.com (334) 261-0442  Navigate Home About Events News Donate NEWSLETTER SIGN UP Thank you for subscribing!
+Oops!
+Something went wrong while submitting the form. © David Faulkner.
+All Rights Reserved.
+Powered by Matchstrike Creative

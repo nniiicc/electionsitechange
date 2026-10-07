@@ -1,5 +1,4 @@
-About Josh Turek
-Josh Turek is a two-time Paralympic gold medalist for Team USA and a State Legislator who represents the reddest seat held by a Democrat in the state of Iowa.
+Skip to main Meet Josh Platform Store Endorsements Latest News Volunteer How to Vote Donate 1 About Josh Turek Josh Turek is a two-time Paralympic gold medalist for Team USA and a State Legislator who represents the reddest seat held by a Democrat in the state of Iowa.
 Born with spina bifida after his dad was exposed to Agent Orange in Vietnam, Josh overcame 21 surgeries by the age of 12 to eventually represent the U.S. at four Paralympics.
 After his basketball career ended with a gold medal in Tokyo in 2021, Josh ran to represent his hometown of Council Bluffs in the legislature.
 Running in a seat that Donald Trump had already won twice, Josh pushed his chair up hills and crawled up stairs to talk to Iowans of all political stripes, eventually winning by six votes.
@@ -17,3 +16,5 @@ He continued his basketball career at Southwest Minnesota State University where
 Josh graduated in 2002 and later earned an MBA.
 Josh has been inducted into the Athletic Halls of Fame at Abraham Lincoln and Southwest Minnesota State University, as well as the National Wheelchair Basketball Association Hall of Fame.
 Josh lives in Council Bluffs with his wife Jarolin, who is an immigrant and now a U.S. citizen, working in health care.
+Home About Platform Endorsements News Sign Up Volunteer How to Vote Store Donate PO.
+Box 1005, Council Bluffs, IA 51502 info@turek4iowa.com Privacy Policy Terms of Service Paid for by Josh Turek for Iowa

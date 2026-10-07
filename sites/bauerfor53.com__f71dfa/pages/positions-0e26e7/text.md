@@ -1,56 +1,63 @@
-Policy/Proposals (8)
-Policy/ProposalsJuly 26, 2026
-It’s Disability Pride Month.
+ELIZABETH BAUER Illinois House District 53 Home Issues Positions Events Donate Commentary & Policy Proposals Where Elizabeth stands, in her own words.
+Elizabeth Bauer writes about Illinois' fiscal problems, education, public safety, and Springfield's process, in detail, as they happen.
+Every post below is here in full, with her original links.
+The Issues Policy/Proposals Commentary Alerts Policy/Proposals (8) Policy/Proposals July 26, 2026 On Disability Pride Month: Yes, it’s the fiscal responsibility issue, again It’s Disability Pride Month.
 With that in mind, here are my key beliefs regarding state-level disability issues.
-I’m not calling these “policy proposals” per se because these are already part of the discussion, just not necessarily visible, and I don’t claim to be an expert on these issues, but the…
-Read the full post →
-Policy/ProposalsFebruary 17, 2026
-News reports say that hearings on the Bears/megaprojects bill are scheduled to begin on Thursday in Springfield.
+I’m not calling these “policy proposals” per se because these are already part of the discussion, just not necessarily visible, and I don’t claim to be an expert on these issues, but the… Read the full post → Policy/Proposals February 17, 2026 Three principles for a better deal for Chicago, Illinois, and the Bears News reports say that hearings on the Bears/megaprojects bill are scheduled to begin on Thursday in Springfield.
 At the same time, ongoing reports have made it clear that the ultimate decision lies with Pritzker and a small handful of top Democrats.
-Whether this means that the Bears’ ploy of using…
-Read the full post →
-Policy/ProposalsJanuary 14, 2026
-Did you miss my speech on January 12th?
+Whether this means that the Bears’ ploy of using… Read the full post → Policy/Proposals January 14, 2026 A Call for Reform in Illinois: January 12th Policy Speech Did you miss my speech on January 12th?
 Watch the full speech here.
-Read the full post →
-Policy/ProposalsJanuary 13, 2026
-What are the House Rules?
+Read the full post → Policy/Proposals January 13, 2026 Why reforming the House Rules is the only path to fixing Illinois What are the House Rules?
 Sounds like such an obscure issue it couldn’t possibly matter but it’s crucial.
-You see, Illinois ranks worst among all 50 states not simply in various economic or budget metrics, but in how the government functions itself, in terms of how much political power is…
-Read the full post →
-Policy/ProposalsJanuary 6, 2026
-Everybody’s worried about their property taxes, yet the only proposals coming from the Democratic Party in Springfield aim to “solve the problem” by shifting the burden or by increasing state taxes with the promise they’ll reduce property taxes – which may or may not happen.
-But there are actually…
-Read the full post →
-Policy/ProposalsNovember 24, 2025
-The news last Monday night was shocking: a young woman was set on fire on the Blue Line, in the Loop, by a man who poured a liquid onto her head and ignited it.
-The report the next day was even worse: the suspect was already charged with another crime but merely released with an
-Read the full post →
-Policy/ProposalsNovember 22, 2025
-This blog post is what I’ll ambitiously call the “first of a series” — because I want to demonstrate that we can, and must, move past the old, stale answers that demand government spending as the solution to every problem Illinois faces.
-Everyone wants “affordable housing.” But for too many…
-Read the full post →
-Policy/ProposalsNovember 7, 2025
-Last Thursday night — or, rather, in the early hours of Friday morning, Illinois ended its veto session by passing three controversial bills: HB1312, the “super-sanctuary state” immigration bill, was passed in the Senate at about 10:30 PM and the House sometime around 12:30 AM.
-SB1950, legalizing…
-Read the full post →
-Alerts (5)
-AlertsMay 30, 2026
-If you watch television or scroll through social media, you’ve likely seen ads promoting the BUILD plan, either by the Realtors, urging you to contact your legislator to support it, or by Pritzker himself.
-In an ad that aired just a week ago, Pritzker promised that his plan would reduce housing…
-Read the full post →
-AlertsApril 13, 2026
+You see, Illinois ranks worst among all 50 states not simply in various economic or budget metrics, but in how the government functions itself, in terms of how much political power is… Read the full post → Policy/Proposals January 6, 2026 How we can actually reduce property taxes: a 5 step reform proposal Everybody’s worried about their property taxes, yet the only proposals coming from the Democratic Party in Springfield aim to “solve the problem” by shifting the burden or by increasing state taxes with the promise they’ll reduce property taxes – which may or may not happen.
+But there are actually… Read the full post → Policy/Proposals November 24, 2025 Gov.
+Pritzker, We Need These Three SAFE-T Act Reforms Immediately The news last Monday night was shocking: a young woman was set on fire on the Blue Line, in the Loop, by a man who poured a liquid onto her head and ignited it.
+The report the next day was even worse: the suspect was already charged with another crime but merely released with an Read the full post → Policy/Proposals November 22, 2025 How to Actually Achieve “Affordable Housing” This blog post is what I’ll ambitiously call the “first of a series” — because I want to demonstrate that we can, and must, move past the old, stale answers that demand government spending as the solution to every problem Illinois faces.
+Everyone wants “affordable housing.” But for too many… Read the full post → Policy/Proposals November 7, 2025 Three key governance reforms I’ll fight for in Springfield Last Thursday night — or, rather, in the early hours of Friday morning, Illinois ended its veto session by passing three controversial bills: HB1312, the “super-sanctuary state” immigration bill, was passed in the Senate at about 10:30 PM and the House sometime around 12:30 AM.
+SB1950, legalizing… Read the full post → Commentary (24) Commentary September 15, 2026 District 214 Referendum: Why I cannot recommend a “Yes” vote Township High School District 214’s boundaries pretty closely overlap with the twin House Districts of 53 and 54, and in November, those voters will be asked to approve a referendum issuing $300 million in bonds for projects called “Renew 214.” I addressed this way back almost #ago, when the… Read the full post → Commentary September 11, 2026 A September 11th Reflection Back in August, in looking at special events, I was surprised that there were no events announced to commemorate the 25th anniversary of the September 11th terrorist attacks, so I made some calls and decided to hold an “unofficial” event in lieu of official events.
+When official events began to… Read the full post → Commentary August 25, 2026 Why it’s time to end the tolls I’ll be honest: for a long time, I thought complaints about tolls were silly.
+Paying tolls is just a part of what’s needed to have a well-maintained highway system, right?
+Not so fast!
+The more I looked into the latest shenanigans around the toll hikes, the more problems I saw.
+First of all, the… Read the full post → Commentary August 15, 2026 Missing safeguards, missing conscience protection: Illinois’ Assisted Suicide Law is literally deadly When, last December, Governor Pritzker signed Rep.
+Grasse’s bill legalizing assisted suicide in Illinois, this is what the press release said: To ensure the highest safeguards for patients, the law is effective in September of 2026, which affords participating health care providers and the Illinois… Read the full post → Commentary June 6, 2026 Who’s to blame for the “Indiana Bears” move?
+Yes, the Illinois Democrats Today the Bears announced that their “Board of Directors met and voted to advance [their] stadium development project in Hammond, Indiana.” Numerous politicians, including Pritzker, Johnson, Kam Buckner, and more, are treating this as yet another negotiating ploy.
+Some have even called on the… Read the full post → Commentary May 20, 2026 “Make the wealthy pay?” Explaining five bad bills Rep.
+Grasse is promoting Today the Chicago Tribune published an op-ed by Nicolle Grasse, along with fellow legislators Kevin John Olickal and Rachel Ventura, “Donald Trump’s cuts broke Illinois’ budget.
+It’s time to make the wealthy pay to fix it.” After a litany of complaints about the reduction in federal government aid… Read the full post → Commentary April 27, 2026 Officer John Bartholomew should not have died.
+We need SAFE-T Act reform now!
+The more we learn about the shooting of two Chicago police officers in the line of duty on Saturday morning, the more outrageous the story becomes.
+John Bartholomew should not have died.
+Another officer should not be fighting for his life.
+The families of the remaining approximately 11,600 patrol… Read the full post → Commentary April 23, 2026 Why the Mega Projects bill highlights everything that’s wrong with Springfield Earlier tonight, the State House voted 78 – 32 to pass the “Mega Project” bill, HB 910 Amendment 3, a bill which in its amended form was only released first thing this morning.
+If you take a look at my home page, you’ll see my three pillars: Fiscal responsibility, Organic job growth, and Rule of Read the full post → Commentary March 30, 2026 Springfield “Halftime” Update: why the process is broken While the primary sucked a lot of air out of the room, more has been going on than simply that election, as the legislature in Springfield has once again proven its ineffectiveness.
+We’re at what amounts to halftime in the Springfield calendar – while we won’t know what new taxes will come with the… Read the full post → Commentary March 8, 2026 The life and times of Amelia Wittkoetter, in recognition of Women’s History Month and International Women’s Day The photograph you see here has no date on it.
+On the back is written, “Amelia Wittkoetter[‘s] mother and sister Anne”; that’s my grandmother’s handwriting, and the photo is of her grandmother, also named Amelia Wittkoetter, and aunt.
+It’s clear that they are not well-off; the girl’s dress is… Read the full post → Commentary February 27, 2026 It’s official: the “Mega Projects” bill would raise your property taxes Last night, the updated text of the “Mega Projects” bill was finally released, yes, as a shell bill, and this morning, I watched the House Revenue and Finance Committee hearing in which they passed through committee the “Mega Projects” bill that the Bears and local civic leaders have been asking… Read the full post → Commentary January 31, 2026 A Statement on Ed Lapinski I am heartbroken about the news that Ed Lapinski, Elk Grove Township Republican committeeman, has made comments in a text exchange indicating that he gave credence to the Holocaust-denying claims of a YouTube video.
+This seems out of character for him and I am struggling to reconcile this with my… Read the full post → Commentary January 28, 2026 A Statement on the Death of Alex Pretti and Immigration Enforcement I want my campaign to be focused on the people of Illinois and on the need for Illinois in all of its beauty and strength to be preserved for future generations.
+Accordingly, I have resisted getting involved in discussions about national topics and national politics, but it seems inescapable to do… Read the full post → Commentary January 20, 2026 Statement regarding the closure of St.
+Stanislaus Kostka School On Friday, Block Club Chicago reported that St.
+Stanislaus Kostka announced the closure of its school after more than 150 years of serving children.
+The church and school, known as the “mother church of Chicago Polonia,” is well-known to anyone who’s driven down the Kennedy, and in fact it was… Read the full post → Commentary January 20, 2026 Why we need property tax reform instead of special “PILOT” tax breaks Now that the Bears’ journey in the playoffs is over, after one very improbable touchdown and one heartbreaking interception, it’s time to think more calmly about the future of the Bears in Illinois, and, more importantly, it’s time to move beyond the stalled debate about the proposed PILOT… Read the full post → Commentary January 20, 2026 Ted Dabrowski needs your votes – and your support The general election may be nearly a year away, but the Illinois primary election is coming up soon, only two months from now, on March 17, and Ted Dabrowski needs your support.
+Take a look at Ted’s story at his website TedforIllinois.com.
+He had a successful career in banking, including working… Read the full post → Commentary December 7, 2025 The cure to education?
+Not more money Second in a series: the answer to Illinois’ troubles is not a money spigot.
+It’s a refrain we hear over and over again: to improve education, we need to spend more money.
+Much more money, in fact.
+But in reality: Illinois already spends significantly more than average and has little to show for it.… Read the full post → Commentary November 10, 2025 A call for Pritzker: To Protect Illinoisans, Veto the Assisted Suicide Bill A week ago, Friday, in the wee hours of the morning after the last day of the Veto Session, the Illinois State Senate passed a bill that, if signed by Gov.
+Pritzker, would legalize assisted suicide.
+At this point, Pritzker has not made any statement about his plans.
+If it weren’t absurdly… Read the full post → Commentary November 8, 2025 The Three Most Egregious Provisions of the Transit Bill – and Why Illinois Must Change As a reminder: The transit bill passed in the middle of the night.
+The bill’s text was released at 11:02pm, mere hours before the bill was voted on, with revenue provisions and other changes nowhere to be found in prior versions.
+And the reason why is apparent in the bill’s egregious provisions… Read the full post → Commentary October 28, 2025 More than just a delivery tax: what to watch for in the transit bill See the end of this article for October 29 updates.
+The General Assembly is in the middle of their Fall Veto Session, and it’s widely understood that one of items on the to-do list is a transit bill, with whatever modifications are needed to get passed through the House, the bill which was passed in Read the full post → Commentary October 11, 2025 October scares: skeletons, ghosts, and the Springfield Fall Veto Session It’s October.
+Walk around the neighborhood and you’ll see an ever-growing number of Halloween displays with tombstones, spider webs, ghosts, and a Frankenstein’s monster or two.
+Click to your favorite streaming service and you’ll see as featured options, horror flicks or other Halloween-themed… Read the full post → Commentary October 4, 2025 A Response to the Bears Stadium Economic Impact Report In the movie Jerry Maguire, Cuba Gooding Jr.’s character uttered the iconic catchphrase, “show me the money!” — and that appears to be the approach being taken by the Bears’ consultants in their newly-released economic impact report on the proposed new Bears stadium in Arlington Heights, enticing… Read the full post → Commentary September 12, 2025 A Response to Charlie Kirk’s assassination First of all, I offer my condolences – not just to Charlie Kirk’s family but also to the many people from our neighboring area who felt a special kinship with him because of his Arlington Heights/Prospect Heights/Wheeling High School childhood.
+But beyond that, over the last few days I’ve been… Read the full post → Commentary September 1, 2025 Elizabeth Bauer announces candidacy for State House District 53 Arlington Heights resident Elizabeth Bauer has begun the process of circulating petitions for the Republican nomination for the Illinois State House of Representatives for District 53, which encompasses portions of Arlington Heights, Rolling Meadows, Mount Prospect, Des Plaines, Palatine, and… Read the full post → Alerts (5) Alerts May 30, 2026 Before it’s too late, stop the BUILD Act If you watch television or scroll through social media, you’ve likely seen ads promoting the BUILD plan, either by the Realtors, urging you to contact your legislator to support it, or by Pritzker himself.
+In an ad that aired just a week ago, Pritzker promised that his plan would reduce housing… Read the full post → Alerts April 13, 2026 Springfield Action Alert: preserve the rights of the elderly and their caregivers This coming week is a key week in the Springfield legislative calendar: all bills originating in the House, have to have been voted on in the House and sent to the Senate, by April 17th (with the exception of the budget, “shell bills” and other loopholes).
+This means that last week was a busy week Read the full post → Alerts April 13, 2026 Springfield Action Alert: Property tax increase headed our way?
 This coming week is a key week in the Springfield legislative calendar: all bills originating in the House, have to have been voted on in the House and sent to the Senate, by April 17th (with the exception of the budget, “shell bills” and other loopholes).
-This means that last week was a busy week
-Read the full post →
-AlertsApril 13, 2026
-This coming week is a key week in the Springfield legislative calendar: all bills originating in the House, have to have been voted on in the House and sent to the Senate, by April 17th (with the exception of the budget, “shell bills” and other loopholes).
-This means that last week was a busy week
-Read the full post →
-AlertsMarch 23, 2026
-In the first part of the Spring legislative session, State Representatives and Senators were busy introducing bills, and much of our attention was on the Bears and the primary.
-Now there are an endless succession of hearings, and with each hearing comes witness slips, the one small way we can all…
-Read the full post →
-AlertsOctober 20, 2025
-Even though the decisions made by the administration and school board at Township High School District 214 are, by definition, not state legislative issues, I am raising this issue because there is a significant overlap between D214 and State House District 53, as the large majority of District 53…
-Read the full post →
+This means that last week was a busy week Read the full post → Alerts March 23, 2026 Springfield Action Alerts – Public Safety, Fair Insurance Rates, and Gun Regulations In the first part of the Spring legislative session, State Representatives and Senators were busy introducing bills, and much of our attention was on the Bears and the primary.
+Now there are an endless succession of hearings, and with each hearing comes witness slips, the one small way we can all… Read the full post → Alerts October 20, 2025 Voter alert: District 214 $850 million referendum Even though the decisions made by the administration and school board at Township High School District 214 are, by definition, not state legislative issues, I am raising this issue because there is a significant overlap between D214 and State House District 53, as the large majority of District 53… Read the full post → Help send an actuary to Springfield.
+Illinois needs someone who reads the numbers and does the math before spending your money.
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com

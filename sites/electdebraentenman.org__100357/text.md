@@ -1,8 +1,9 @@
-Forging a legacy of leadership, service, and solidarity.
-Donate Move forward with us.
+0 Skip to Content Contact Home About Platform Events Team Volunteer Donate Open Menu Close Menu Contact Home About Platform Events Team Volunteer Donate Open Menu Close Menu Contact Home About Platform Events Team Volunteer Donate Forging a legacy of leadership, service, and solidarity.
+Donate Move forward with us .
 Meet Debra Volunteer Donate Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Join the Campaign!
 Sign up with your email address to receive updates.
 First Name Last Name Email Address Sign Up Thank you for signing up for the campaign!
 We’ll be in touch with you soon!
+Paid for By: Elect Debra Entenman (D) 11604 SE 221ST ST KENT, WA, 98031

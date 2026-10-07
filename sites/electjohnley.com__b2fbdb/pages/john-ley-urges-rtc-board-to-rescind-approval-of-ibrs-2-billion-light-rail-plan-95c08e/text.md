@@ -1,4 +1,4 @@
-In the latest 60 Seconds with John Ley video, John Ley urges the RTC Board to reconsider their approval of the Interstate Bridge Replacement (IBR) program’s Locally Preferred Alternative (LPA).
+Home News Latest News 60 Seconds With John Ley About Me Donate 60 Seconds With John Ley Campaign Issues Solutions John Ley Urges RTC Board to Rescind Approval of IBR’s $2 Billion Light Rail Plan September 5, 2024 by John Ley In the latest 60 Seconds with John Ley video, John Ley urges the RTC Board to reconsider their approval of the Interstate Bridge Replacement (IBR) program’s Locally Preferred Alternative (LPA).
 Ley brings attention to the shocking cost of the proposed MAX light rail extension, which totals $2 billion for a mere 1.9 miles—equivalent to $1 billion per mile.
 This cost is more than five times the expense per mile of the 2015 TriMet Orange Line extension, which even included a new bridge over the Willamette River.
 Ley also points out the inconsistencies in the number of light rail vehicles being requested.
@@ -7,9 +7,7 @@ This raises concerns about excessive spending, with vehicle prices inflated to a
 Beyond the exorbitant costs, Ley argues that there is no current need for such high-capacity transit, particularly with the shift toward remote work and declining transit ridership.
 He further criticizes TriMet for requesting Washington taxpayers to fund the replacement of worn-out vehicles that serve areas beyond SW Washington, noting that TriMet has never contributed to replacing C-Tran buses.
 Ley also questions the request for $21 million annually for operations and maintenance of the MAX light rail extension, which is triple the current O&M costs.
-In conclusion, John Ley urges the RTC Board to rescind their approval of the IBR’s Locally Preferred Alternative and protect the taxpayers of SW Washington from what he calls “the world’s most expensive light rail project.”
-Transcript:
-Good afternoon, John Ley, Clark County.
+In conclusion, John Ley urges the RTC Board to rescind their approval of the IBR’s Locally Preferred Alternative and protect the taxpayers of SW Washington from what he calls “the world’s most expensive light rail project.” Transcript: Good afternoon, John Ley, Clark County.
 Do you have an obligation to stop theft, graft, or corruption?
 Do you have an obligation to protect the taxpayers of Southwest Washington?
 I would hope the answer is yes.
@@ -42,4 +40,8 @@ That’s ridiculous when we know there is a new normal of reduced transit riders
 C-Tran carries less than a thousand people a day over the Columbia River on their express buses.
 There is no current need for any high-capacity transit over the river.
 I therefore ask the RTC board to rescind their approval of the IBR’s locally preferred alternative.
-Thank you.
+Thank you. $2 billion project Bus on Shoulder C-TRAN Columbia River IBR inflated costs Interstate Bridge Replacement John Ley light rail extension light rail maintenance light rail vehicles Locally Preferred Alternative MAX Red Line MAX Yellow Line Portland transportation public funding public transportation RTC Board SW Washington SW Washington taxpayers taxpayer protection transit ridership decline TriMet by John Ley previous Ten thousand page Draft Supplemental Environmental Impact Statement likely to be released next month next Vote Yes, Pay Less: John Ley on 4 Citizen Initiatives for November Help me fight for the people and common sense solutions.
+I want to serve YOU in Olympia.
+Donate Contact electjohnley@gmail.com P.O.
+Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.
+Box 822041, Vancouver, WA 98682

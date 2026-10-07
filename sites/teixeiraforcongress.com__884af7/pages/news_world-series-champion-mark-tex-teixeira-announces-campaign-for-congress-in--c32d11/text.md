@@ -1,2 +1,4 @@
+Menu Meet Mark Endorsements Issues News Volunteer Contact Facebook Twitter Instagram Official Merch FOX NEWS: World Series champion Mark Teixeira explains his run for Congress, citing President Trump’s influence on the country as motivation.
 World Series champion Mark Teixeira explains his run for Congress, citing President Trump’s influence on the country as motivation.
-World Series champion @teixeiramark25 explains his run for Congress, citing President Trump’s influence on the country as motivation. pic.twitter.com/y6rK5wH701 — Fox News (@FoxNews) August 29, 2025
+World Series champion @teixeiramark25 explains his run for Congress, citing President Trump’s influence on the country as motivation. pic.twitter.com/y6rK5wH701 — Fox News (@FoxNews) August 29, 2025 Contribute Facebook Twitter Instagram To Donate By Mail: Mark Teixeira for Congress PO Box 1073 1450 W.
+Highway 290 Dripping Springs, TX 78620 © Copyright Mark "Tex" Teixeira for Congress - All Rights Reserved - Privacy Policy | Terms and Conditions Paid for by Mark Teixeira for Congress

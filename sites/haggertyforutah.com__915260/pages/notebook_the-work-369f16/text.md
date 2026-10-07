@@ -1,4 +1,4 @@
-You might have noticed a large gap of time between this post and the previous one.
+Search × Skip to content Home About Policy Get Involved Notebook Donate Now Donate Now The Work You might have noticed a large gap of time between this post and the previous one.
 The reason behind this gap is the work that I’ve been doing to connect with experts, voters, and city officials to get this whole thing moving.
 To a lot of people, I am an unknown.
 It doesn’t matter that my friends and family know who I am, the values I hold, and how sincerely I believe that I can help bring positive change to Cache Valley.

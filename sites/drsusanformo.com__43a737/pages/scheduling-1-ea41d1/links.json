@@ -1,17 +1,66 @@
 [
-"https://drsusanformo.com/",
-"https://drsusanformo.com/about",
-"https://drsusanformo.com/cart",
-"https://drsusanformo.com/endorsements",
-"https://drsusanformo.com/media",
-"https://drsusanformo.com/privacy-policy",
-"https://drsusanformo.com/scheduling",
-"https://drsusanformo.com/scheduling-1",
-"https://drsusanformo.com/volunteer",
-"https://facebook.com/DrSusanforMO",
-"https://s1.sos.mo.gov/elections/voterregistration",
-"https://secure.actblue.com/donate/susan-hoisington-1",
-"https://sos.mo.gov/elections/goVoteMissouri/howtovote",
-"https://voteclaycountymo.gov/elections",
-"https://voteroutreach.sos.mo.gov/portal"
+{
+"text": "0",
+"href": "https://www.drsusanformo.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.drsusanformo.com/about"
+},
+{
+"text": "Acceptable forms of voter ID",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/howtovote#forms"
+},
+{
+"text": "Check your voter registration here",
+"href": "https://voteroutreach.sos.mo.gov/portal"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/susan-hoisington-1"
+},
+{
+"text": "Early Voting information",
+"href": "https://www.voteclaycountymo.gov/elections"
+},
+{
+"text": "Endorsements",
+"href": "https://www.drsusanformo.com/endorsements"
+},
+{
+"text": "Find your polling location",
+"href": "https://voteroutreach.sos.mo.gov/portal"
+},
+{
+"text": "Issues",
+"href": "https://www.drsusanformo.com/scheduling"
+},
+{
+"text": "Media",
+"href": "https://www.drsusanformo.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.drsusanformo.com/privacy-policy"
+},
+{
+"text": "Register to vote here",
+"href": "https://s1.sos.mo.gov/elections/voterregistration/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.drsusanformo.com/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://www.drsusanformo.com/scheduling-1"
+},
+{
+"text": "[image: Susan Hoisington]",
+"href": "https://www.drsusanformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DrSusanforMO/"
+}
 ]

@@ -1,13 +1,54 @@
 [
-"https://facebook.com/moakleyforsenate",
-"https://instagram.com/thomasmoakley",
-"https://secure.actblue.com/donate/thomasmoakley",
-"https://thomasmoakley.com/",
-"https://thomasmoakley.com/about",
-"https://thomasmoakley.com/contact-1",
-"https://thomasmoakley.com/district-map",
-"https://thomasmoakley.com/endorsements",
-"https://thomasmoakley.com/priorities",
-"https://thomasmoakley.com/privacy-policy",
-"https://us8.campaign-archive.com/home?u=be32467896d642189fb0ea1a6&id=f915f0f0e3"
+{
+"text": "About Thomas",
+"href": "https://www.thomasmoakley.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.thomasmoakley.com/contact-1"
+},
+{
+"text": "District Map",
+"href": "https://www.thomasmoakley.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/thomasmoakley"
+},
+{
+"text": "Endorsements",
+"href": "https://www.thomasmoakley.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.thomasmoakley.com/"
+},
+{
+"text": "Newsletter",
+"href": "https://us8.campaign-archive.com/home/?u=be32467896d642189fb0ea1a6&id=f915f0f0e3"
+},
+{
+"text": "Priorities",
+"href": "https://www.thomasmoakley.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.thomasmoakley.com/privacy-policy"
+},
+{
+"text": "[image: Thomas Moakley for State Representative]",
+"href": "https://www.thomasmoakley.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/moakleyforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/thomasmoakley/"
+},
+{
+"text": "[no text]",
+"href": "mailto:thomas@thomasmoakley.com"
+}
 ]

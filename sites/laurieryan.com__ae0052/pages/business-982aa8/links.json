@@ -1,12 +1,58 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Flaurieryanforwestchester%2F&sa=D&sntz=1&usg=AOvVaw2FQ1npdLkcUeIqN5lkLf4L",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Flaurieryan4ny%3Figsh%3DcmsxNHlxem9xMjR6%26utm_source%3Dqr&sa=D&sntz=1&usg=AOvVaw2rACAms5XTgqOUX5bo3S7g",
-"https://laurieryan.com/about-laurie",
-"https://laurieryan.com/donate",
-"https://laurieryan.com/home",
-"https://laurieryan.com/issues",
-"https://laurieryan.com/my-responses",
-"https://laurieryan.com/privacy",
-"https://laurieryan.com/surveys",
-"https://laurieryan.com/vote"
+{
+"text": "ABOUT LAURIE",
+"href": "https://www.laurieryan.com/about-laurie"
+},
+{
+"text": "DONATE",
+"href": "https://www.laurieryan.com/donate"
+},
+{
+"text": "EMAIL",
+"href": "mailto:LAURIERYAN4NY@GMAIL.COM"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Flaurieryanforwestchester%2F&sa=D&sntz=1&usg=AOvVaw2FQ1npdLkcUeIqN5lkLf4L"
+},
+{
+"text": "Home",
+"href": "https://www.laurieryan.com/home"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Flaurieryan4ny%3Figsh%3DcmsxNHlxem9xMjR6%26utm_source%3Dqr&sa=D&sntz=1&usg=AOvVaw2rACAms5XTgqOUX5bo3S7g"
+},
+{
+"text": "ISSUES",
+"href": "https://www.laurieryan.com/issues"
+},
+{
+"text": "MY RESPONSES",
+"href": "https://www.laurieryan.com/my-responses"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.laurieryan.com/privacy"
+},
+{
+"text": "SURVEYS",
+"href": "https://www.laurieryan.com/surveys"
+},
+{
+"text": "VOTE",
+"href": "https://www.laurieryan.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://www.laurieryan.com/home"
+},
+{
+"text": "[image]laurieryan.com",
+"href": "https://www.laurieryan.com/home"
+},
+{
+"text": "laurieryan.com",
+"href": "https://www.laurieryan.com/home"
+}
 ]

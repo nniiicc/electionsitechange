@@ -1,7 +1,11 @@
 {
  "description": "Join Mark Tedford at Upcoming Campaign Events across Oklahoma's First Congressional District",
  "final_url": "https://www.tedfordforcongress.com/events",
- "paid_for_by": null,
+ "fingerprint": "295395a998af8a4918a55e6c1df4961985f66d73",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Upcoming Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

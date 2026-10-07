@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260801T160000Z%2F20260801T190000Z&location=Loveland%2C+CO",
-"http://maps.google.com/?q=+Loveland%2C+CO",
-"https://docs.google.com/forms/d/e/1FAIpQLScP0RzDdF6ZblUzNNiqDVFB1u3arBLRsQxzojmc2bg5DEK_HA/viewform?usp=header",
-"https://facebook.com/janiceforcolorado",
-"https://instagram.com/senatorjanicemarchman",
-"https://janiceforcolorado.com/",
-"https://janiceforcolorado.com/about",
-"https://janiceforcolorado.com/cart",
-"https://janiceforcolorado.com/contact",
-"https://janiceforcolorado.com/events",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman?format=ical",
-"https://janiceforcolorado.com/events/estes-park-fundraiser-with-sen-janice-marchman-and-congressman-joe-neguse",
-"https://janiceforcolorado.com/get-involved",
-"https://janiceforcolorado.com/media",
-"https://janiceforcolorado.com/priorities",
-"https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+loveland%2C+co+"
+},
+{
+"text": "0",
+"href": "https://www.janiceforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.janiceforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.janiceforcolorado.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+},
+{
+"text": "Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.janiceforcolorado.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260801T160000Z%2F20260801T190000Z&location=Loveland%2C+CO"
+},
+{
+"text": "Home",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.janiceforcolorado.com/media"
+},
+{
+"text": "Next Next August 8 Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt"
+},
+{
+"text": "Previous Previous July 27 Estes Park Fundraiser with Sen Janice Marchman and Congressman Joe Neguse",
+"href": "https://www.janiceforcolorado.com/events/estes-park-fundraiser-with-sen-janice-marchman-and-congressman-joe-neguse"
+},
+{
+"text": "Priorities",
+"href": "https://www.janiceforcolorado.com/priorities"
+},
+{
+"text": "Sign up here!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScP0RzDdF6ZblUzNNiqDVFB1u3arBLRsQxzojmc2bg5DEK_HA/viewform?usp=header"
+},
+{
+"text": "[image: Janice Marchman for Colorado State Senate]",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/janiceforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorjanicemarchman/"
+}
 ]

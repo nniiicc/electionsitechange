@@ -1,9 +1,50 @@
 [
-"https://mele4america.com/articles.html",
-"https://mele4america.com/challenge.html",
-"https://mele4america.com/index.html",
-"https://mele4america.com/index.html?interest=mele10",
-"https://mele4america.com/platform.html",
-"https://secure.winred.com/gregg-mele-for-america/donate-today",
-"https://vote.nj.gov/"
+{
+"text": "Articles",
+"href": "https://www.mele4america.com/articles.html"
+},
+{
+"text": "Contact",
+"href": "https://www.mele4america.com/index.html#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/gregg-mele-for-america/donate-today"
+},
+{
+"text": "Get the kit",
+"href": "https://www.mele4america.com/index.html?interest=mele10#volunteer-form"
+},
+{
+"text": "Home",
+"href": "https://www.mele4america.com/index.html"
+},
+{
+"text": "MELEFOR CONGRESS",
+"href": "https://www.mele4america.com/index.html"
+},
+{
+"text": "Mele 10",
+"href": "https://www.mele4america.com/challenge.html"
+},
+{
+"text": "Platform",
+"href": "https://www.mele4america.com/platform.html"
+},
+{
+"text": "Request the kit",
+"href": "https://www.mele4america.com/index.html?interest=mele10#volunteer-form"
+},
+{
+"text": "Send me the challenge kit",
+"href": "https://www.mele4america.com/index.html?interest=mele10#volunteer-form"
+},
+{
+"text": "Visit Vote.NJ.gov →",
+"href": "https://vote.nj.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mele4america.com/index.html#volunteer-form"
+}
 ]

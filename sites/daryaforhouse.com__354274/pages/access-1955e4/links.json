@@ -1,20 +1,74 @@
 [
-"https://blockbyblockcreative.com/vote-for-access",
-"https://daryaforhouse.com/",
-"https://daryaforhouse.com/about",
-"https://daryaforhouse.com/access",
-"https://daryaforhouse.com/cdn-cgi/l/email-protection",
-"https://daryaforhouse.com/contact",
-"https://daryaforhouse.com/endorsements",
-"https://daryaforhouse.com/get-involved",
-"https://daryaforhouse.com/issues",
-"https://daryaforhouse.com/news",
-"https://daryaforhouse.com/rsvp",
-"https://disabilityrightswa.org/publications/remote-testimony-guide",
-"https://facebook.com/DaryaForHouse",
-"https://linkedin.com/in/darya-farivar-52ab61103",
-"https://rootedinrights.org/one-way-to-make-voting-more-accessible-to-the-disability-community-vote-by-mail",
-"https://rootedinrights.org/we-need-to-fix-inaccessibility-at-caucusing-and-campaign-events",
-"https://rootedinrights.org/why-do-i-cripthevote-because-the-disability-vote-is-power",
-"https://twitter.com/Darya4House"
+{
+"text": "About",
+"href": "https://daryaforhouse.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://daryaforhouse.com/access/"
+},
+{
+"text": "Contact",
+"href": "https://daryaforhouse.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://daryaforhouse.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DaryaForHouse"
+},
+{
+"text": "Get Involved",
+"href": "https://daryaforhouse.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://daryaforhouse.com/issues/"
+},
+{
+"text": "Linkedin-in",
+"href": "https://www.linkedin.com/in/darya-farivar-52ab61103/"
+},
+{
+"text": "News",
+"href": "https://daryaforhouse.com/news/"
+},
+{
+"text": "RSVP",
+"href": "https://daryaforhouse.com/rsvp/"
+},
+{
+"text": "Remote Testimony Written and Video Guide",
+"href": "https://www.disabilityrightswa.org/publications/remote-testimony-guide/"
+},
+{
+"text": "Vote for Access (video series)",
+"href": "https://www.blockbyblockcreative.com/vote-for-access"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/Darya4House"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@daryaforhouse.com"
+},
+{
+"text": "[image]",
+"href": "https://daryaforhouse.com"
+},
+{
+"text": "“One Way to Make Voting More Accessible to the Disability Community? Vote-by-Mail”",
+"href": "https://rootedinrights.org/one-way-to-make-voting-more-accessible-to-the-disability-community-vote-by-mail/"
+},
+{
+"text": "“We Need to Fix Inaccessibility at Caucusing and Campaign Events”",
+"href": "https://rootedinrights.org/we-need-to-fix-inaccessibility-at-caucusing-and-campaign-events/"
+},
+{
+"text": "“Why Do I #CripTheVote? Because the Disability Vote is Power.”",
+"href": "https://rootedinrights.org/why-do-i-cripthevote-because-the-disability-vote-is-power/"
+}
 ]

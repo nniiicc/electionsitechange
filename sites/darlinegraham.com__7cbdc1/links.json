@@ -1,19 +1,82 @@
 [
-"https://darlinegraham.com/",
-"https://darlinegraham.com/issues",
-"https://darlinegraham.com/privacy",
-"https://darlinegraham.com/terms",
-"https://darlinegraham.com/volunteer",
-"https://flickr.com/photos/darlinegrahamsc",
-"https://instagram.com/darlinegrahamsc?igsh=ZnUwd2RpYnFkajVq",
-"https://m.facebook.com/DarlineGrahamSC",
-"https://secure.winred.com/darline-for-senate/storefront?sc=20260805_DARLINE_WEB_WEB_OFFICIAL-STORE_WEB",
-"https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC",
-"https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=100",
-"https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=25",
-"https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=250",
-"https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=50",
-"https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=500",
-"https://x.com/DarlineGrahamSC",
-"https://youtu.be/b4lvXMBZh54"
+{
+"text": "$100",
+"href": "https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC&amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC"
+},
+{
+"text": "Facebook",
+"href": "https://m.facebook.com/DarlineGrahamSC/"
+},
+{
+"text": "Flickr",
+"href": "https://www.flickr.com/photos/darlinegrahamsc/"
+},
+{
+"text": "Her Record",
+"href": "https://www.darlinegraham.com/#record"
+},
+{
+"text": "Her Story",
+"href": "https://www.darlinegraham.com/#her"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/darlinegrahamsc?igsh=ZnUwd2RpYnFkajVq"
+},
+{
+"text": "Join the Team",
+"href": "https://www.darlinegraham.com/volunteer"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/darline-graham-majority-fund/website?sc=20260730_DARLINE_WEB_WEB_WEBSITE_PROC"
+},
+{
+"text": "On The Issues",
+"href": "https://www.darlinegraham.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.darlinegraham.com/privacy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/darline-for-senate/storefront/?sc=20260805_DARLINE_WEB_WEB_OFFICIAL-STORE_WEB"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.darlinegraham.com/terms"
+},
+{
+"text": "Twitter/X",
+"href": "https://x.com/DarlineGrahamSC"
+},
+{
+"text": "Volunteer",
+"href": "https://www.darlinegraham.com/volunteer"
+},
+{
+"text": "YouTube",
+"href": "https://youtu.be/b4lvXMBZh54"
+}
 ]

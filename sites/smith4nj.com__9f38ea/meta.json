@@ -1,9 +1,16 @@
 {
  "description": "Header 2 para one test quote",
  "final_url": "https://smith4nj.com/",
- "paid_for_by": "PAID FOR BY FRIENDS OF CHRIS SMITH Privacy Policy",
+ "fingerprint": "fe0d771c0bfc6be7216672a7458058302991e13f",
+ "format": 3,
+ "paid_for_by": "authorized by Rep",
  "title": "Friends of Chris Smith",
  "years_mentioned": [
+  "1976",
+  "1981",
+  "1994",
+  "2000",
+  "2024",
   "2026"
  ]
 }

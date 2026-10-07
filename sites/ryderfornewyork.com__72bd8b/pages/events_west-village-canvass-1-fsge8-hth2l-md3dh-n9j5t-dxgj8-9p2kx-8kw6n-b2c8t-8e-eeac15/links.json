@@ -1,20 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action+for+Ryder+for+New+York+with+Abundance+New+York%21&dates=20260604T210000Z%2F20260604T233000Z",
-"https://bsky.app/profile/ryderkessler.bsky.social",
-"https://facebook.com/ryderfornewyork",
-"https://instagram.com/ryderfornewyork",
-"https://mobilize.us/ryderfornewyork2026/event/963346",
-"https://ryderfornewyork.com/",
-"https://ryderfornewyork.com/about-ryder",
-"https://ryderfornewyork.com/cart",
-"https://ryderfornewyork.com/endorsements",
-"https://ryderfornewyork.com/events",
-"https://ryderfornewyork.com/events/greenwich-village-canvass-3wwas-h9e3m-9gjec-7jgbz-wh9k4-j3ck4-83zzk",
-"https://ryderfornewyork.com/events/opennyphonebank-l28rz-j8hta-k3xle-wn554-xm37c-hsln3-waxw7-rdpcm-n6ktc",
-"https://ryderfornewyork.com/events/west-village-canvass-1-fsge8-hth2l-md3dh-n9j5t-dxgj8-9p2kx-8kw6n-b2c8t-8ez3e-hd842-es72p-65p4a-axtd8-52a6r?format=ical",
-"https://ryderfornewyork.com/platform",
-"https://secure.actblue.com/donate/r4ny",
-"https://tiktok.com/@ryderkessler",
-"https://x.com/ryderkessler",
-"https://youtube.com/@ryderfornewyork"
+{
+"text": "0",
+"href": "https://www.ryderfornewyork.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ryderfornewyork.com/about-ryder"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ryderfornewyork.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/r4ny/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ryderfornewyork.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ryderfornewyork.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action+for+Ryder+for+New+York+with+Abundance+New+York%21&dates=20260604T210000Z%2F20260604T233000Z"
+},
+{
+"text": "Home",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ryderfornewyork.com/events/west-village-canvass-1-fsge8-hth2l-md3dh-n9j5t-dxgj8-9p2kx-8kw6n-b2c8t-8ez3e-hd842-es72p-65p4a-axtd8-52a6r?format=ical"
+},
+{
+"text": "Next Next June 5 Knicks Watch Party & Greenwich Village Canvass with Ryder for New York!",
+"href": "https://www.ryderfornewyork.com/events/greenwich-village-canvass-3wwas-h9e3m-9gjec-7jgbz-wh9k4-j3ck4-83zzk"
+},
+{
+"text": "Platform",
+"href": "https://www.ryderfornewyork.com/platform"
+},
+{
+"text": "Previous Previous June 3 Phonebanking for Ryder Kessler with Open New York",
+"href": "https://www.ryderfornewyork.com/events/opennyphonebank-l28rz-j8hta-k3xle-wn554-xm37c-hsln3-waxw7-rdpcm-n6ktc"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/ryderfornewyork2026/event/963346/"
+},
+{
+"text": "[image: Ryder for New York]",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ryderkessler.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ryderfornewyork/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ryderkessler"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ryderkessler"
+},
+{
+"text": "hello@ryderfornewyork.com",
+"href": "mailto:hello@ryderfornewyork.com"
+}
 ]

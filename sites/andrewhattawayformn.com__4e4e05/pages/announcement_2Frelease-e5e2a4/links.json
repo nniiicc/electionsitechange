@@ -1,22 +1,86 @@
 [
-"https://andrewhattawayformn.com/",
-"https://andrewhattawayformn.com/about-andrew",
-"https://andrewhattawayformn.com/announcement%2Frelease",
-"https://andrewhattawayformn.com/donate-1",
-"https://andrewhattawayformn.com/endorsements",
-"https://andrewhattawayformn.com/events",
-"https://andrewhattawayformn.com/first-responder-support",
-"https://andrewhattawayformn.com/gallery",
-"https://andrewhattawayformn.com/homestead-protection-act",
-"https://andrewhattawayformn.com/re-election-pledge",
-"https://andrewhattawayformn.com/sro-%26-school-traffic",
-"https://andrewhattawayformn.com/support-the-campaign",
-"https://andrewhattawayformn.com/terms-%26-conditions",
-"https://andrewhattawayformn.com/volunteer-1",
-"https://andrewhattawayformn.com/voter-resources",
-"https://andrewhattawayformn.com/why-im-running-1",
-"https://facebook.com/hattawayforhouse",
-"https://instagram.com/andrewhattaway",
-"https://secure.winred.com/andrew-hattawayfor-mn/donate-today",
-"https://x.com/andrewforhouse"
+{
+"text": "ABOUT ANDREW",
+"href": "https://andrewhattawayformn.com/about-andrew"
+},
+{
+"text": "ANNOUNCEMENT/RELEASE",
+"href": "https://andrewhattawayformn.com/announcement%2Frelease"
+},
+{
+"text": "AndrewForMN@gmail.com",
+"href": "mailto:AndrewForMN@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://andrewhattawayformn.com/donate-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/andrew-hattawayfor-mn/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://andrewhattawayformn.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://andrewhattawayformn.com/events"
+},
+{
+"text": "First Responder Support",
+"href": "https://andrewhattawayformn.com/first-responder-support"
+},
+{
+"text": "Gallery",
+"href": "https://andrewhattawayformn.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://andrewhattawayformn.com/"
+},
+{
+"text": "Homestead Protection Act",
+"href": "https://andrewhattawayformn.com/homestead-protection-act"
+},
+{
+"text": "RE-ELECTION PLEDGE",
+"href": "https://andrewhattawayformn.com/re-election-pledge"
+},
+{
+"text": "SRO & School Traffic",
+"href": "https://andrewhattawayformn.com/sro-%26-school-traffic"
+},
+{
+"text": "SUPPORT THE CAMPAIGN",
+"href": "https://andrewhattawayformn.com/support-the-campaign"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://andrewhattawayformn.com/terms-%26-conditions"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://andrewhattawayformn.com/volunteer-1"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://andrewhattawayformn.com/voter-resources"
+},
+{
+"text": "Why I'm Running",
+"href": "https://andrewhattawayformn.com/why-im-running-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/hattawayforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andrewhattaway"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/andrewforhouse"
+}
 ]

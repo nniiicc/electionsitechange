@@ -1,4 +1,22 @@
 [
-"https://mckayforcongress.com/",
-"https://mckayforcongress.com/privacy-policy"
+{
+"text": "Home",
+"href": "https://www.mckayforcongress.com"
+},
+{
+"text": "McKay for Congress",
+"href": "https://www.mckayforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mckayforcongress.com/privacy-policy"
+},
+{
+"text": "dan@mckayforcongress.com",
+"href": "mailto:dan@mckayforcongress.com"
+},
+{
+"text": "https://www.mckayforcongress.com/privacy-policy",
+"href": "https://www.mckayforcongress.com/privacy-policy"
+}
 ]

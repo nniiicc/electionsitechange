@@ -1,10 +1,34 @@
 [
-"https://bcom.solutions/",
-"https://pattyfornebraska.com/",
-"https://pattyfornebraska.com/about",
-"https://pattyfornebraska.com/facebook",
-"https://pattyfornebraska.com/instagram",
-"https://pattyfornebraska.com/volunteer",
-"https://pattyfornebraska.com/x",
-"https://secure.actblue.com/donate/ppb-website"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ppb-website"
+},
+{
+"text": "Facebook",
+"href": "https://pattyfornebraska.com/facebook/"
+},
+{
+"text": "Instagram",
+"href": "https://pattyfornebraska.com/instagram/"
+},
+{
+"text": "Meet Patty",
+"href": "https://pattyfornebraska.com/about/"
+},
+{
+"text": "Volunteer",
+"href": "https://pattyfornebraska.com/volunteer/"
+},
+{
+"text": "Website Built by BCom",
+"href": "https://bcom.solutions"
+},
+{
+"text": "X-twitter",
+"href": "https://pattyfornebraska.com/x"
+},
+{
+"text": "[image]",
+"href": "https://pattyfornebraska.com"
+}
 ]

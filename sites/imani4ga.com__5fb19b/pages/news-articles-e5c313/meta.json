@@ -1,7 +1,12 @@
 {
  "description": "News about Imani Barnes, candidate for GA House District 86 Representative",
  "final_url": "https://imani4ga.com/news-articles",
- "paid_for_by": null,
+ "fingerprint": "e55614b5782ba83035719993de45c5f9721eb864",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Imani Barnes for GA House District 86 - News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2025"
+ ]
 }

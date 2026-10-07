@@ -1,11 +1,38 @@
 [
-"http://facebook.com/squarespace",
-"http://instagram.com/squarespace",
-"http://twitter.com/squarespace",
-"https://johnrindyforwisconsin.com/",
-"https://johnrindyforwisconsin.com/about",
-"https://johnrindyforwisconsin.com/cart",
-"https://johnrindyforwisconsin.com/contact",
-"https://secure.actblue.com/donate/johnrindy",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.johnrindyforwisconsin.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.johnrindyforwisconsin.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.johnrindyforwisconsin.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/johnrindy"
+},
+{
+"text": "John Rindy For Wisconsin",
+"href": "https://www.johnrindyforwisconsin.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+}
 ]

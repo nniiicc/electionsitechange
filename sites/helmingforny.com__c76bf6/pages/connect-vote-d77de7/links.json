@@ -1,27 +1,130 @@
 [
-"http://elections.ny.gov/",
-"http://elections.ny.gov/CountyBoards.html",
-"http://elections.ny.gov/NVRA.html",
-"http://elections.ny.gov/NYSBOE/download/voting/Absentee06152010.pdf",
-"http://elections.ny.gov/NYSBOE/download/voting/Absentee2012-Spanish.pdf",
-"http://elections.ny.gov/NYSBOE/download/voting/spanishvoteform.pdf",
-"http://elections.ny.gov/NYSBOE/download/voting/spanishvoteform_enterable.pdf",
-"http://elections.ny.gov/NYSBOE/download/voting/voteform.pdf",
-"http://elections.ny.gov/NYSBOE/download/voting/voteform_enterable.pdf",
-"http://elections.ny.gov/VoterRegFormRequest.html",
-"http://elections.ny.gov/VotingDeadlines.html",
-"http://fvap.gov/",
-"http://fvap.gov/uploads/FVAP/Forms/fpca2013.pdf",
-"https://facebook.com/HelmingforSenate",
-"https://helmingforny.com/",
-"https://helmingforny.com/about",
-"https://helmingforny.com/blog",
-"https://helmingforny.com/connect-vote",
-"https://helmingforny.com/endorsments",
-"https://helmingforny.com/volunteer",
-"https://helmingforny.com/yardsigns",
-"https://newyork.overseasvotefoundation.org/overseas/home.htm",
-"https://ny.secureballotusa.com/",
-"https://secure.winred.com/helming-for-senate/donate",
-"https://twitter.com/senatorhelming"
+{
+"text": "Agency-Based voter registration center.",
+"href": "http://www.elections.ny.gov/NVRA.html"
+},
+{
+"text": "Bio",
+"href": "https://www.helmingforny.com/about"
+},
+{
+"text": "Complete English Form On-line",
+"href": "http://www.elections.ny.gov/NYSBOE/download/voting/voteform_enterable.pdf"
+},
+{
+"text": "Complete Spanish Form On-LIne",
+"href": "http://www.elections.ny.gov/NYSBOE/download/voting/spanishvoteform_enterable.pdf"
+},
+{
+"text": "Connect & Vote",
+"href": "https://www.helmingforny.com/connect-vote"
+},
+{
+"text": "Contact",
+"href": "https://www.helmingforny.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/helming-for-senate/donate"
+},
+{
+"text": "Deadlines",
+"href": "http://www.elections.ny.gov/VotingDeadlines.html"
+},
+{
+"text": "Deadlines",
+"href": "http://www.elections.ny.gov/VotingDeadlines.html#AbsenteeDeadlines"
+},
+{
+"text": "Download English Form",
+"href": "http://www.elections.ny.gov/NYSBOE/download/voting/Absentee06152010.pdf"
+},
+{
+"text": "Download English Form",
+"href": "http://www.elections.ny.gov/NYSBOE/download/voting/voteform.pdf"
+},
+{
+"text": "Download Spanish Form",
+"href": "http://www.elections.ny.gov/NYSBOE/download/voting/Absentee2012-Spanish.pdf"
+},
+{
+"text": "Download Spanish Form",
+"href": "http://www.elections.ny.gov/NYSBOE/download/voting/spanishvoteform.pdf"
+},
+{
+"text": "Endorsments",
+"href": "https://www.helmingforny.com/endorsments"
+},
+{
+"text": "Federal Post Card Application",
+"href": "http://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf"
+},
+{
+"text": "Federal Voting Assistance Program Website",
+"href": "http://fvap.gov/"
+},
+{
+"text": "JOIN THE FIGHT DONATE TODAY!",
+"href": "https://secure.winred.com/helming-for-senate/donate"
+},
+{
+"text": "Military and Overseas Federal Voting Website",
+"href": "https://newyork.overseasvotefoundation.org/overseas/home.htm"
+},
+{
+"text": "News",
+"href": "https://www.helmingforny.com/blog"
+},
+{
+"text": "PAM HELMING FOR SENATE",
+"href": "https://www.helmingforny.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.helmingforny.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.helmingforny.com/yardsigns"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/HelmingforSenate"
+},
+{
+"text": "[image: PH_logo_white-red-bkg.png]",
+"href": "https://www.helmingforny.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/senatorhelming"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/senatorhelming"
+},
+{
+"text": "county board",
+"href": "http://www.elections.ny.gov/CountyBoards.html"
+},
+{
+"text": "county board of elections",
+"href": "http://www.elections.ny.gov/CountyBoards.html"
+},
+{
+"text": "enter your name",
+"href": "http://www.elections.ny.gov/VoterRegFormRequest.html"
+},
+{
+"text": "here",
+"href": "http://www.elections.ny.gov/"
+},
+{
+"text": "https://ny.secureballotusa.com",
+"href": "https://ny.secureballotusa.com/"
+},
+{
+"text": "pamhelming@gmail.com",
+"href": "mailto:pamhelming@gmail.com?subject=website+submission"
+}
 ]

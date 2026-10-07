@@ -1,9 +1,50 @@
 [
-"https://abbasfornh.com/",
-"https://abbasfornh.com/about-5",
-"https://abbasfornh.com/endorsments",
-"https://abbasfornh.com/friendsgiving-2026",
-"https://abbasfornh.com/issues",
-"https://secure.anedot.com/abbas-for-nh/8e715eea-bad0-49f4-b7c5-0714aeefb68c",
-"https://secure.anedot.com/abbas-for-nh/donate"
+{
+"text": "About",
+"href": "https://www.abbasfornh.com/about-5"
+},
+{
+"text": "Contact",
+"href": "https://www.abbasfornh.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/abbas-for-nh/8e715eea-bad0-49f4-b7c5-0714aeefb68c"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/abbas-for-nh/donate"
+},
+{
+"text": "Daryl@AbbasforNH.com",
+"href": "mailto:Daryl@AbbasforNH.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.abbasfornh.com/endorsments"
+},
+{
+"text": "Friendsgiving 2026",
+"href": "https://www.abbasfornh.com/friendsgiving-2026"
+},
+{
+"text": "Home",
+"href": "https://www.abbasfornh.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.abbasfornh.com#about"
+},
+{
+"text": "Learn More",
+"href": "https://www.abbasfornh.com/about-5"
+},
+{
+"text": "Policy",
+"href": "https://www.abbasfornh.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.abbasfornh.com"
+}
 ]

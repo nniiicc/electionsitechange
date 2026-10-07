@@ -1,18 +1,74 @@
 [
-"http://instagram.com/brittanyfornchouse",
-"https://brittanyfornchouse.com/",
-"https://brittanyfornchouse.com/about-5",
-"https://brittanyfornchouse.com/contact",
-"https://brittanyfornchouse.com/endorsements",
-"https://brittanyfornchouse.com/events",
-"https://brittanyfornchouse.com/issues",
-"https://brittanyfornchouse.com/volunteer",
-"https://facebook.com/brittanyfornchouse",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.brittanyfornchouse.com%2Fevent-details%2Fdoor-knocking-day-tabor-city-nc",
-"https://mobilize.us/nc-coordinated/event/1040008",
-"https://secure.actblue.com/donate/brittanyfornc",
-"https://threads.com/@brittanyfornchouse",
-"https://tiktok.com/@brittanyfornchouse",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.brittanyfornchouse.com%2Fevent-details%2Fdoor-knocking-day-tabor-city-nc&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/brittanyfornc"
+{
+"text": "About",
+"href": "https://www.brittanyfornchouse.com/about-5"
+},
+{
+"text": "Contact",
+"href": "https://www.brittanyfornchouse.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/brittanyfornc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brittanyfornchouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.brittanyfornchouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.brittanyfornchouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.brittanyfornchouse.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.brittanyfornchouse.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.brittanyfornchouse.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/brittanyfornchouse/"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/brittanyfornchouse"
+},
+{
+"text": "[image: Logo Brittany Newton Campaign (820 x 360 px) (1200 x 630 px).png]",
+"href": "https://www.brittanyfornchouse.com"
+},
+{
+"text": "[image: Threads]",
+"href": "https://www.threads.com/@brittanyfornchouse"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@brittanyfornchouse"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/brittanyfornc"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.brittanyfornchouse.com%2Fevent-details%2Fdoor-knocking-day-tabor-city-nc&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.brittanyfornchouse.com%2Fevent-details%2Fdoor-knocking-day-tabor-city-nc"
+},
+{
+"text": "https://www.mobilize.us/nc-coordinated/event/1040008/",
+"href": "https://www.mobilize.us/nc-coordinated/event/1040008/"
+}
 ]

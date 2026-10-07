@@ -1,11 +1,38 @@
 [
-"http://facebook.com/",
-"https://instagram.com/kalama_micah_hawaii",
-"https://olvr.hawaii.gov/",
-"https://olvr.hawaii.gov/SessionExpired.aspx?l=0",
-"https://votemicahkalama51.com/",
-"https://votemicahkalama51.com/blank-1",
-"https://votemicahkalama51.com/our-initiatives",
-"https://votemicahkalama51.com/register-to-vote",
-"https://youtu.be/3UUr3KcYGOw"
+{
+"text": "About - Profile Page",
+"href": "https://www.votemicahkalama51.com/blank-1"
+},
+{
+"text": "Campaign Hub",
+"href": "https://www.votemicahkalama51.com"
+},
+{
+"text": "Our Initiatives",
+"href": "https://www.votemicahkalama51.com/our-initiatives"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://olvr.hawaii.gov/SessionExpired.aspx?l=0"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.votemicahkalama51.com/register-to-vote"
+},
+{
+"text": "Start Registration",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kalama_micah_hawaii/"
+},
+{
+"text": "[no text]",
+"href": "https://youtu.be/3UUr3KcYGOw"
+}
 ]

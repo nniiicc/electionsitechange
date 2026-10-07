@@ -1,54 +1,230 @@
 [
-"http://steveparsonslibertarian.com/",
-"http://tradepartnership.com/pdf_files/2002jobstudy.pdf",
-"https://americanactionforum.org/research/the-total-cost-of-tariffs",
-"https://bloomberg.com/news/articles/2019-09-19/farmers-say-trump-s-28-billion-bailout-isn-t-a-solution",
-"https://cato.org/articles/what-do-we-know-about-great-crash",
-"https://cato.org/blog/new-tariffs-will-push-countries-closer-china",
-"https://cato.org/blog/smoot-hawley-tariff-great-depression",
-"https://cato.org/blog/tariff-sour-grapes-will-cost-taxpayers-20-million-day",
-"https://cato.org/blog/white-house-still-cant-grasp-americans-pay-us-tariffs",
-"https://cato.org/defending-globalization-economics",
-"https://cato.org/publications/comparative-advantage",
-"https://emoryeconomicsreview.org/articles/2020/1/15/impact-of-the-trade-war-on-us-agriculture",
-"https://forbes.com/sites/alisondurkee/2025/07/14/trump-taco-tracker-here-are-the-presidents-28-tariff-flip-flops",
-"https://forbes.com/sites/katharinabuchholz/2025/04/04/trumps-tariffs-biggest-tax-hike-since-1982",
-"https://forbes.com/sites/stuartanderson/2020/06/01/trumps-trade-war-cost-us-company-stock-prices-17-trillion?sh=18e982155279",
-"https://investigatemidwest.org/2025/10/28/us-farmers-face-44-billion-in-losses-as-costs-rise-and-markets-shrink",
-"https://keranews.org/2013-02-05/why-is-it-so-hard-to-make-a-100-percent-american-hand-dryer",
-"https://londondaily.com/peter-navarro-the-man-behind-trump-s-tariff-madness",
-"https://npr.org/2026/01/28/nx-s1-5688905/longtime-u-s-allies-are-shifting-trade-to-asia-due-to-trumps-tariffs-and-rhetoric",
-"https://piie.com/publications/policy-briefs/payoff-america-globalization-fresh-look-focus-costs-workers",
-"https://politifact.com/article/2025/apr/07/did-trump-impose-the-largest-tax-hike-in-our-lifet",
-"https://statista.com/statistics/1076971/us-imports-exports-historical",
-"https://steve-parsons.com/",
-"https://steve-parsons.com/about",
-"https://steve-parsons.com/additional-page-1",
-"https://steve-parsons.com/additional-page-2",
-"https://steve-parsons.com/cart",
-"https://steve-parsons.com/debate",
-"https://steve-parsons.com/fed-reform",
-"https://steve-parsons.com/get-in-touch",
-"https://steve-parsons.com/gym-training-for-libertarians",
-"https://steve-parsons.com/home",
-"https://steve-parsons.com/immigration",
-"https://steve-parsons.com/immigration-1",
-"https://steve-parsons.com/inflation-1",
-"https://steve-parsons.com/platform",
-"https://steve-parsons.com/prison-reform",
-"https://steve-parsons.com/regulation",
-"https://steve-parsons.com/tariffs",
-"https://steve-parsons.com/topics",
-"https://steve-parsons.com/usmca",
-"https://steve-parsons.com/world-police",
-"https://tariffs/",
-"https://taxfoundation.org/blog/lessons-2002-bush-steel-tariffs",
-"https://taxfoundation.org/research/all/federal/tariffs-trump-trade-war",
-"https://taxfoundation.org/research/all/federal/trump-tariffs-income-impact",
-"https://taxfoundation.org/taxedu/glossary/tax",
-"https://taxpolicycenter.org/features/tracking-trump-tariffs",
-"https://tradepartnership.com/pdf_files/2002jobstudy.pdf",
-"https://ukulele-seal-dp7d.squarespace.com/config/pages",
-"https://uschamber.com/international/the-us-chambers-plan-to-help-americans-compete-and-win-in-the-worldwide-economy",
-"https://uschamber.com/international/trade-agreements/the-benefits-of-international-trade"
+{
+"text": "$18,000 annually",
+"href": "https://piie.com/publications/policy-briefs/payoff-america-globalization-fresh-look-focus-costs-workers"
+},
+{
+"text": "0",
+"href": "https://www.steve-parsons.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.steve-parsons.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.steve-parsons.com/"
+},
+{
+"text": "Comparative Advantage | Cato Institute",
+"href": "https://www.cato.org/publications/comparative-advantage"
+},
+{
+"text": "Cut Federal Agencies",
+"href": "https://www.steve-parsons.com/additional-page-2"
+},
+{
+"text": "Debate",
+"href": "https://www.steve-parsons.com/debate"
+},
+{
+"text": "Defending Globalization: Economics | Cato Institute",
+"href": "https://www.cato.org/defending-globalization-economics"
+},
+{
+"text": "Did Trump impose ‘the largest tax hike in our lifetime’? How it compares, as it’s currently proposed – PolitiFact",
+"href": "https://politifact.com/article/2025/apr/07/did-trump-impose-the-largest-tax-hike-in-our-lifet/"
+},
+{
+"text": "Farmers Say Trump’s $28 Billion Bailout Isn't a Solution - Bloomberg",
+"href": "https://www.bloomberg.com/news/articles/2019-09-19/farmers-say-trump-s-28-billion-bailout-isn-t-a-solution"
+},
+{
+"text": "Fed Reform",
+"href": "https://www.steve-parsons.com/fed-reform"
+},
+{
+"text": "Federal Reserve Reform",
+"href": "https://www.steve-parsons.com/fed-reform"
+},
+{
+"text": "Folder: Inflation",
+"href": "https://www.steve-parsons.com/inflation-1"
+},
+{
+"text": "Folder: More Topics",
+"href": "https://www.steve-parsons.com/topics"
+},
+{
+"text": "Get in Touch",
+"href": "https://www.steve-parsons.com/get-in-touch"
+},
+{
+"text": "Gym Training for Libertarians",
+"href": "https://www.steve-parsons.com/gym-training-for-libertarians"
+},
+{
+"text": "Home",
+"href": "https://www.steve-parsons.com/home"
+},
+{
+"text": "Immigration",
+"href": "https://www.steve-parsons.com/immigration"
+},
+{
+"text": "Impact of the Trade War on U.S. Agriculture — EMORY ECONOMICS REVIEW",
+"href": "https://emoryeconomicsreview.org/articles/2020/1/15/impact-of-the-trade-war-on-us-agriculture"
+},
+{
+"text": "Lessons from the 2002 Bush Steel Tariffs | Tax Foundation",
+"href": "https://taxfoundation.org/blog/lessons-2002-bush-steel-tariffs/"
+},
+{
+"text": "Microsoft Word - 2002 jobstudy2",
+"href": "https://tradepartnership.com/pdf_files/2002jobstudy.pdf"
+},
+{
+"text": "New Tariffs Will Push Countries Closer to China | Cato at Liberty Blog",
+"href": "https://www.cato.org/blog/new-tariffs-will-push-countries-closer-china"
+},
+{
+"text": "News Articles",
+"href": "https://www.steve-parsons.com/additional-page-1"
+},
+{
+"text": "Peter Navarro: The Man Behind Trump’s Tariff Madness - London Daily",
+"href": "https://londondaily.com/peter-navarro-the-man-behind-trump-s-tariff-madness"
+},
+{
+"text": "Platform",
+"href": "https://www.steve-parsons.com/platform"
+},
+{
+"text": "Prison Reform",
+"href": "https://www.steve-parsons.com/prison-reform"
+},
+{
+"text": "Regulation",
+"href": "https://www.steve-parsons.com/regulation"
+},
+{
+"text": "Regulation —",
+"href": "https://ukulele-seal-dp7d.squarespace.com/config/pages"
+},
+{
+"text": "Social Security",
+"href": "https://www.steve-parsons.com/immigration-1"
+},
+{
+"text": "SteveParsonsLibertarian.com",
+"href": "http://steveparsonslibertarian.com"
+},
+{
+"text": "TPC Tariff Tracker | Tax Policy Center",
+"href": "https://taxpolicycenter.org/features/tracking-trump-tariffs#:~:text=TPC%20estimates%20that%20tariffs%20announced%20by%20the%20Trump,tax%20unit%20%28or%20household%29%20in%20calendar%20year%202026."
+},
+{
+"text": "Tariff Refund Delays Could Cost Taxpayers $700 Million a Month | Cato at Liberty Blog",
+"href": "https://www.cato.org/blog/tariff-sour-grapes-will-cost-taxpayers-20-million-day"
+},
+{
+"text": "Tariffs",
+"href": "https://tariffs"
+},
+{
+"text": "Tariffs",
+"href": "https://www.steve-parsons.com/tariffs"
+},
+{
+"text": "Tariffs Imposed by the Trump Administration | Economic Analysis (taxfoundation.org)",
+"href": "https://taxfoundation.org/research/all/federal/trump-tariffs-income-impact/#:~:text=According%20to%20the%20Tax%20Foundation%20model%2C%20the%20tariffs,0.08%20percent%20and%20eliminate%2094%2C300%20full-time%20equivalent%20jobs."
+},
+{
+"text": "The Benefits of International Trade | U.S. Chamber of Commerce (uschamber.com)",
+"href": "https://www.uschamber.com/international/trade-agreements/the-benefits-of-international-trade"
+},
+{
+"text": "The Smoot-Hawley Tariff and the Great Depression | Cato at Liberty Blog",
+"href": "https://www.cato.org/blog/smoot-hawley-tariff-great-depression"
+},
+{
+"text": "The Total Cost of U.S. Tariffs - AAF (americanactionforum.org)",
+"href": "https://www.americanactionforum.org/research/the-total-cost-of-tariffs/"
+},
+{
+"text": "The U.S. Chamber's Plan to Help Americans Compete and Win in the Worldwide Economy | U.S. Chamber of Commerce",
+"href": "https://www.uschamber.com/international/the-us-chambers-plan-to-help-americans-compete-and-win-in-the-worldwide-economy"
+},
+{
+"text": "The Unintended Consequences of U.S. Steel Import Tariffs",
+"href": "http://www.tradepartnership.com/pdf_files/2002jobstudy.pdf"
+},
+{
+"text": "The White House Still Can’t Grasp That Americans Pay US Tariffs | Cato at Liberty Blog",
+"href": "https://www.cato.org/blog/white-house-still-cant-grasp-americans-pay-us-tariffs"
+},
+{
+"text": "Trump Tariff Flip-Flops: ‘TACO Trump’ Has Changed His Mind 28 Times Since ‘Liberation Day’",
+"href": "https://www.forbes.com/sites/alisondurkee/2025/07/14/trump-taco-tracker-here-are-the-presidents-28-tariff-flip-flops/"
+},
+{
+"text": "Trump Tariffs & Trade War: Details & Analysis of Economic Impact (taxfoundation.org)",
+"href": "https://taxfoundation.org/research/all/federal/tariffs-trump-trade-war/"
+},
+{
+"text": "Trump's Tariffs: Biggest Tax Hike Since 1982",
+"href": "https://www.forbes.com/sites/katharinabuchholz/2025/04/04/trumps-tariffs-biggest-tax-hike-since-1982/"
+},
+{
+"text": "Trump’s Trade War Cost U.S. Company Stock Prices $1.7 Trillion (forbes.com)",
+"href": "https://www.forbes.com/sites/stuartanderson/2020/06/01/trumps-trade-war-cost-us-company-stock-prices-17-trillion/?sh=18e982155279"
+},
+{
+"text": "U.S. allies looking to China for deals as Trump threatens them with tariffs : NPR",
+"href": "https://www.npr.org/2026/01/28/nx-s1-5688905/longtime-u-s-allies-are-shifting-trade-to-asia-due-to-trumps-tariffs-and-rhetoric"
+},
+{
+"text": "U.S. total imports, exports and trade balance 1790-1970 | Statista",
+"href": "https://www.statista.com/statistics/1076971/us-imports-exports-historical/"
+},
+{
+"text": "US farmers face $44 billion in losses as costs rise and markets shrink - Investigate Midwest",
+"href": "https://investigatemidwest.org/2025/10/28/us-farmers-face-44-billion-in-losses-as-costs-rise-and-markets-shrink/"
+},
+{
+"text": "US-Mexico-Canada-A",
+"href": "https://www.steve-parsons.com/usmca"
+},
+{
+"text": "USMCA",
+"href": "https://www.steve-parsons.com/usmca"
+},
+{
+"text": "What Do We Know about the Great Crash?",
+"href": "https://www.cato.org/articles/what-do-we-know-about-great-crash"
+},
+{
+"text": "Why Is It So Hard To Make A 100 Percent American Hand Dryer? | KERA News",
+"href": "https://www.keranews.org/2013-02-05/why-is-it-so-hard-to-make-a-100-percent-american-hand-dryer"
+},
+{
+"text": "World Charity and the World Police",
+"href": "https://www.steve-parsons.com/world-police"
+},
+{
+"text": "World Police",
+"href": "https://www.steve-parsons.com/world-police"
+},
+{
+"text": "[image: SteveParsonsLibertarian.com]",
+"href": "https://www.steve-parsons.com/"
+},
+{
+"text": "https://www.americanactionforum.org/research/the-total-cost-of-tariffs/#ixzz8XNj4reTg",
+"href": "https://www.americanactionforum.org/research/the-total-cost-of-tariffs/#ixzz8XNj4reTg"
+},
+{
+"text": "tax",
+"href": "https://taxfoundation.org/taxedu/glossary/tax/"
+}
 ]

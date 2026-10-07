@@ -1,7 +1,22 @@
-What is the best one-sentence summary of Mike Steele?
+Facebook Mail Home Connect Volunteer Priorities Endorsements About Mike News & Updates Connect Menu Menu MIKE STEELE COLLABORATION.
+INNOVATION.
+INTEGRITY.
+ABOUT A Leader for North Central Washington First elected in 2016, Mike is currently serving his fIfth term in the Washington State House of Representatives.
+He serves as the Ranking Member on the Capital Budget Committee.
+Mike also serves on the K-12 Education and the Consumer Protection and Business Committees.
+Mike has been an incredible advocate for the people of the 12th Legislative District.
+He has spent his entire professional career advocating for small business.
+He grew up here.
+He was educated in our school system.
+He still works in the 112-year-old family orchard business overseeing the company finances and payroll.
+He has a committed track record of community involvement and philanthropy.
+He understands the issues that face the small business owners and the people of our district and has been active in sponsoring legislation that supports those ideals.
+DISTRICT 12 Proudly representing communities across Chelan, Douglas, King, and Snohomish counties.
+EXPERIENCED LEADER Serving since 2017, Mike has proven leadership in Olympia and in our local communities.
+COMMUNITY FOCUSED Listening to constituents and delivering practical solutions that make a difference.
+What Sets Mike Apart From Other Candidates What is the best one-sentence summary of Mike Steele?
 Mike Steele is a proven, bipartisan leader who puts people over politics and delivers real results for North Central Washington.
-Core Campaign Message
-Mike Steele believes in putting people over politics and working across the aisle to get things done for North Central Washington.
+Core Campaign Message Mike Steele believes in putting people over politics and working across the aisle to get things done for North Central Washington.
 Throughout his time in Olympia, Mike has earned a reputation as a practical, solutions-oriented leader who focuses on delivering results — not political theater.
 He has worked with Republicans, Democrats, local leaders, businesses, schools, and community organizations to secure major investments for the 12th District and communities across Washington State.
 This campaign is about steady leadership, bipartisan problem-solving, and protecting the future of our communities.
@@ -31,38 +46,15 @@ He also believes leadership requires respect, collaboration, and the ability to 
 Mike believes elected officials should focus more on solving problems and less on fueling division.
 What does “people over politics” mean?
 It means focusing on what actually improves people’s lives rather than prioritizing partisan talking points or political theater.
-For Mike, that includes:
-- Supporting strong schools
-- Improving infrastructure
-- Expanding workforce opportunities
-- Supporting small businesses
-- Investing in rural communities
-- Increasing housing opportunities
-- Supporting public safety
-- Protecting affordability for families
-The goal is always practical results — not political headlines.
+For Mike, that includes: Supporting strong schools Improving infrastructure Expanding workforce opportunities Supporting small businesses Investing in rural communities Increasing housing opportunities Supporting public safety Protecting affordability for families The goal is always practical results — not political headlines.
 What does Mike believe about separation of church and state?
 Mike believes faith can be an important part of people’s personal lives and values, but government should represent and serve everyone equally — regardless of religion or political affiliation.
 Public office requires leaders to make decisions that reflect the Constitution, the rule of law, and the diverse perspectives of the communities they represent.
 Mike believes elected officials should focus on bringing people together, not dividing communities along religious or political lines.
 What leadership positions does Mike currently hold?
-Mike currently serves as / has served as:
-- Former Deputy Minority Leader in the Washington State House of Representatives
-- Assistant Ranking Member on the Capital Budget Committee
-- Member of the Executive Rules Committee
-- Member of the Rules Committee
-- Member of the K-12 Education Committee
-These leadership positions allow Mike to advocate effectively for North Central Washington and help secure important investments for local communities.
+Mike currently serves as / has served as: Former Deputy Minority Leader in the Washington State House of Representatives Assistant Ranking Member on the Capital Budget Committee Member of the Executive Rules Committee Member of the Rules Committee Member of the K-12 Education Committee These leadership positions allow Mike to advocate effectively for North Central Washington and help secure important investments for local communities.
 What are some accomplishments Mike has delivered for the district?
-Mike has helped secure funding and support for:
-- Schools and education investments
-- Transportation and infrastructure projects
-- Housing and economic development
-- Tourism initiatives
-- Rural healthcare support
-- Community projects throughout the district
-- Workforce and career training programs
-He has also played a key role in bipartisan budget negotiations and capital investments across Washington State.
+Mike has helped secure funding and support for: Schools and education investments Transportation and infrastructure projects Housing and economic development Tourism initiatives Rural healthcare support Community projects throughout the district Workforce and career training programs He has also played a key role in bipartisan budget negotiations and capital investments across Washington State.
 Why do people from both parties support Mike?
 Because he is respected as someone who listens, collaborates, and works hard for his district.
 Mike has built strong relationships with Republicans, Democrats, labor organizations, business leaders, local governments, and community organizations because people trust him to approach issues thoughtfully and respectfully.
@@ -72,27 +64,21 @@ Mike was born and raised in North Central Washington and grew up in Manson worki
 He attended local schools and has spent his career advocating for local businesses, economic development, and rural communities.
 Before serving in the Legislature, Mike served on the Chelan City Council and currently works as Executive Director of the Lake Chelan Chamber of Commerce.
 What issues matter most to Mike?
-Mike’s priorities include:
-- Education and workforce development
-- Supporting small businesses
-- Economic growth and job creation
-- Transportation and infrastructure
-- Housing and affordability
-- Healthcare access
-- Agriculture and tourism
-- Fiscal responsibility
-- Rural community investment
-How should supporters talk about this race?
+Mike’s priorities include: Education and workforce development Supporting small businesses Economic growth and job creation Transportation and infrastructure Housing and affordability Healthcare access Agriculture and tourism Fiscal responsibility Rural community investment How should supporters talk about this race?
 Stay positive, respectful, and focused on leadership and results.
 This campaign is not about attacking people personally.
 It is about contrasting two different approaches to leadership.
-Mike’s campaign is focused on:
-- Experience
-- Stability
-- Bipartisan leadership
-- Community
-- Respect
-- Practical solutions
-- Delivering results
-Avoid online arguments or personal attacks.
+Mike’s campaign is focused on: Experience Stability Bipartisan leadership Community Respect Practical solutions Delivering results Avoid online arguments or personal attacks.
 Focus on why Mike’s leadership matters for the future of North Central Washington.
+First elected in 2016, Mike is currently serving his fIfth term in the Washington State House of Representatives.
+He serves as the Ranking Member on the Capital Budget Committee.
+Mike also serves on the K-12 Education and the Consumer Protection and Business Committees.
+Mike has been an incredible advocate for the people of the 12th Legislative District.
+He has spent his entire professional career advocating for small business.
+He grew up here.
+He was educated in our school system.
+He still works in the 112-year-old family orchard business overseeing the company finances and payroll.
+He has a committed track record of community involvement and philanthropy.
+He understands the issues that face the small business owners and the people of our district and has been active in sponsoring legislation that supports those ideals.
+Mike with his brother, sister-in-law, niece, and nephews Mike with his brother, sister-in-law, nieces, and nephew Mike with his niece Mike with his niece and nephews Mike carving a pumpkin with his niece Mike reading with his niece in her classroom Mike with his niece and nephew at the Washington State Apple Blossom Festival Mike with his brother, mom, and dad at the Capitol Mike with his sister-in-law, brother, parents, niece, and nephews DONATE Connect with Mike Steele Citizens to Elect Mike Steele P.O.
+Box 1072 Chelan, WA 98816 Learn More Priorities Endorsements About Mike News & Updates Connect Paid for by Citizens to Elect Mike Steele (R) State Representative Priorities Endorsements About Mike News & Updates Connect Scroll to top

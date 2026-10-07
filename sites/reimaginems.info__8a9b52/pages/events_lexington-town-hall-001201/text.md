@@ -1,9 +1,7 @@
-Back to All Events
-Join Bennie Foster at Hamp’s Place in Lexington, MS for a town hall meeting where Foster will take questions from voters, and share his platform and vision for Mississippi as our next congressman.
-Previous
-Previous
-October 4
-Durant City Hall (On the steps)
-Next
-Next
-October 5
+0 Skip to Content Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Folder: Resources Back Voting Contact Donate DONATE Back to All Events Lexington Town Hall Sunday, October 4, 2026 6:00 PM 7:30 PM Hamp's Place 20735 Mississippi 12 Lexington, Mississippi, 39095 United States (map) Google Calendar ICS Join Bennie Foster at Hamp’s Place in Lexington, MS for a town hall meeting where Foster will take questions from voters, and share his platform and vision for Mississippi as our next congressman.
+Previous Previous October 4 Durant City Hall (On the steps) Next Next October 5 Walnut Grove Meet and Greet Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up to stay connected with the campaign and receive updates.
+Email Address Sign Up Thank you!

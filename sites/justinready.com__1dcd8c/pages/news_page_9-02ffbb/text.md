@@ -1,43 +1,12 @@
-Stay Up To Date
-The Ready Report
-October 30, 2024
-Ready Report: Voting, Upcoming Delegation Public Meeting, MPRP Updates & More…
-Early voting is happening NOW in Carroll County and runs until the polls close at 8:00 PM tomorrow (Thursday, 10/31).
-Then your final chance to make your voice heard will be Election Day, November 5th so…
-October 29, 2024
-Carroll County Legislative Delegation to Hold Public Hearing & Town Hall Meeting on November 21st Focus is on Local Legislative Requests & Community Input
-The Carroll County Delegation will hold their annual public hearing on proposed county legislation on Thursday, November 21, 2024 at 6:00 p.m.
-The hearing will take place at the County Office Building, 225 North Center…
-October 23, 2024
-Ready Report: Early Voting Thursday, MPRP Update & Calling for DJS Secretary Removal
-Last week, I sent an email with my official endorsements for the 2024 Election.
-If you missed it, you can click the link below to see my full breakdown, including my thoughts on Question 1…
-October 17, 2024
-2024 Election Breakdown
-As Election Day 2024 approaches, many people have been reaching out for advice about the offices and ballot questions that we’ll be casting votes on.
-See the graphic below for who I’m supporting and explanation…
-October 14, 2024
-Ready Report: Remembering Don Elliott, MPRP Update & More…
-Last week, we lost a great leader and man when former Delegate Don Elliott passed away at the age of 92.
-I had the honor of serving with Delegate Elliott in his last term in…
-October 4, 2024
-Ready Report: Public Comment Request, Upcoming Events & More…
-I hope you and your family are doing well.
-I wanted to share some upcoming events, an opportunity to make your voice heard to the state government on the implementation of major environmental and energy…
-September 27, 2024
-Ready Report: MPRP Letter from Carroll Delegation, Upcoming Events & More…
-There was a huge crowd earlier this week in Westminster supporting Kristen Zihmer, a conservative candidate for Board of Education!
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report October 30, 2024 Ready Report: Voting, Upcoming Delegation Public Meeting, MPRP Updates & More… Early voting is happening NOW in Carroll County and runs until the polls close at 8:00 PM tomorrow (Thursday, 10/31).
+Then your final chance to make your voice heard will be Election Day, November 5th so… Read More > October 29, 2024 Carroll County Legislative Delegation to Hold Public Hearing & Town Hall Meeting on November 21st Focus is on Local Legislative Requests & Community Input The Carroll County Delegation will hold their annual public hearing on proposed county legislation on Thursday, November 21, 2024 at 6:00 p.m.
+The hearing will take place at the County Office Building, 225 North Center… Read More > October 23, 2024 Ready Report: Early Voting Thursday, MPRP Update & Calling for DJS Secretary Removal Last week, I sent an email with my official endorsements for the 2024 Election.
+If you missed it, you can click the link below to see my full breakdown, including my thoughts on Question 1… Read More > October 17, 2024 2024 Election Breakdown As Election Day 2024 approaches, many people have been reaching out for advice about the offices and ballot questions that we’ll be casting votes on.
+See the graphic below for who I’m supporting and explanation… Read More > October 14, 2024 Ready Report: Remembering Don Elliott, MPRP Update & More… Last week, we lost a great leader and man when former Delegate Don Elliott passed away at the age of 92.
+I had the honor of serving with Delegate Elliott in his last term in… Read More > October 4, 2024 Ready Report: Public Comment Request, Upcoming Events & More… I hope you and your family are doing well.
+I wanted to share some upcoming events, an opportunity to make your voice heard to the state government on the implementation of major environmental and energy… Read More > September 27, 2024 Ready Report: MPRP Letter from Carroll Delegation, Upcoming Events & More… There was a huge crowd earlier this week in Westminster supporting Kristen Zihmer, a conservative candidate for Board of Education!
 Momentum is building for both Dr.
-Greg Malveaux and Kristen Zihmer as we head towards…
-September 19, 2024
-Carroll County Delegation MPRP Letter to MD Public Service Commission
-Earlier this week, our Carroll County Delegation sent a joint letter to the Maryland Public Service Commission (maryland_psc) outlining our strong opposition to the Maryland Piedmont Reliability Project (MPRP) and laying out several specific concerns…
-September 13, 2024
-Ready Report: September 11th, MPRP Update & ARC Visit
-2,977 people didn’t come home on September 11, 2001.
+Greg Malveaux and Kristen Zihmer as we head towards… Read More > September 19, 2024 Carroll County Delegation MPRP Letter to MD Public Service Commission Earlier this week, our Carroll County Delegation sent a joint letter to the Maryland Public Service Commission (maryland_psc) outlining our strong opposition to the Maryland Piedmont Reliability Project (MPRP) and laying out several specific concerns… Read More > September 13, 2024 Ready Report: September 11th, MPRP Update & ARC Visit 2,977 people didn’t come home on September 11, 2001.
 Many many more lost their lives or were disabled as a result of combing through wreckage to find, rescue, or recover those in the rubble.
-I…
-September 1, 2024
-Ready Fall Family Fundraiser
-Join Senator Ready and family on Tuesday, October 8th for his annual Fall fundraiser at Island Green outside Westminster for food, networking and family-friendly golf activities.
-This year we are rallying for the 2024 Presidential…
+I… Read More > September 1, 2024 Ready Fall Family Fundraiser Join Senator Ready and family on Tuesday, October 8th for his annual Fall fundraiser at Island Green outside Westminster for food, networking and family-friendly golf activities.
+This year we are rallying for the 2024 Presidential… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

@@ -1,68 +1,15 @@
-7th Congressional District Reps and Latino Caucus Step Up with Welch for 7th District State Central Committeeman
-More 7th Congressional District Leaders are joining the chorus for Speaker Welch to fill the State Central Committeeman post vacated by Congressman Danny Davis’ retirement.
+Meet Chris Priorities News Get Involved Donate Meet Chris Priorities News Get Involved Donate Illinois State Representative • Speaker of the House 7th Congressional District Reps and Latino Caucus Step Up with Welch for 7th District State Central Committeeman More 7th Congressional District Leaders are joining the chorus for Speaker Welch to fill the State Central Committeeman post vacated by Congressman Danny Davis’ retirement.
 State Representatives Eva-Dina Delgado, Lilian Jiménez, Edgar Gonzalez, Aaron Ortiz (previously announced), and Norma Hernandez are stepping out with Welch calling on him to represent their Districts at the state party level.
 Rep.
 Norma Hernandez represents a west suburban district that includes Melrose Park and also serves as Proviso Township Democratic Committeewoman and Chair of the House Latino Caucus.
 She works to be at the forefront of advocating for Black and Latino districts to continue being represented by people of color, ensuring that strong voices are at the table to raise and address community concerns.
 “I’m honored to endorse Speaker Chris Welch for State Central Committeeman,” said Hernandez.
 “In moments of challenge, he leads with vision, integrity, and purpose.
-His commitment to representation reminds us that when every voice is at the table, we can truly fight for and achieve our shared values.”
-Welch agreed that representation now is more important than ever.
+His commitment to representation reminds us that when every voice is at the table, we can truly fight for and achieve our shared values.” Welch agreed that representation now is more important than ever.
 “Across the country, we see how communities of color are being silenced,” said Welch.
 “That’s why in Illinois, it’s so important that our diverse communities always have a seat at the table on our local government boards, in our State Capitol, in Washington, and within our Democratic Party.
 Representation matters–and I am proud to deliver on that belief with legislation that I have supported, with our diverse caucus, with Democrats I’ve helped to the bench and onto the ballot, and with all of the local parties that I visit every day to uplift and inspire.
-The state central committee should be strengthened by a leader with vision, integrity, and purpose.”
-An Illinois State Central Committeeperson (SCC) plays a crucial role in uplifting community voices to the state party level.
+The state central committee should be strengthened by a leader with vision, integrity, and purpose.” An Illinois State Central Committeeperson (SCC) plays a crucial role in uplifting community voices to the state party level.
 As Republicans and the Trump administration work to erase proper representation with redistricting, coalitions are pushing for the 7th District State Central Committee post to be held by Speaker Welch.
-Welch’s full endorsement list includes:
-Congressman Danny K.
-Davis
-Former Secretary of State Jesse White
-Democratic Party of Illinois Chair Lisa Hernandez
-Cook County Clerk Monica Gordon
-Bellwood Mayor Andre Harvey
-Broadview Mayor Katrina Thompson
-Hillside Mayor Joe Tamburino
-Maywood Mayor Nathaniel Booker
-River Forest President and Committeeperson Cathy Adduci
-Westchester President Greg Hribal
-State Representative Kam Buckner
-State Representative Lisa Davis
-State Representative Michael Crawford
-State Representative Margaret Croke
-State Representative Kelly Cassidy
-State Representative Kimberly DuBuclet
-State Representative Eva-Dina Delgado
-State Representative Marcus Evans
-State Representative La Shawn Ford
-State Representative Edgar Gonzalez
-State Representative Norma Hernandez
-State Representative Lilian Jiménez
-State Representative Theresa Mah
-State Representative Debbie Meyers-Martin
-State Representative Yolonda Morris
-State Representative and Committeeperson Aaron Ortiz
-State Representative Jawaharial ‘Omar’ Williams
-1st Ward Committeeperson Laura Yepez
-2nd Ward Committeeperson Tim Egan
-3rd Ward Alderwoman and Committeeperson Pat Dowell
-4th Ward Alderman Lamont Robinson
-11th Ward Alderwoman Nicole Lee
-14th Ward Alderwoman Jeylú Gutiérrez
-15th Ward Alderman and Committeeperson Ray Lopez
-16th Ward Alderwoman and Committeeperson Stephanie Coleman
-18th Ward Alderman Derrick Curtis
-24th Ward Alderwoman and Committeeperson Monique Scott
-25th Ward Alderwoman and Committeeperson Byron Sigcho-Lopez
-26th Ward Alderperson Jessie Fuentes
-27th Ward Alderman Walter Burnett
-36th Ward Alderman and Committeeperson Gilbert Villegas
-37th Ward Alderwoman and State Central Committeewoman Emma Mitts
-42nd Ward Alderman and Committeeperson Brendan Reilly
-43rd Ward Alderman Timmy Knudsen
-43rd Ward Committeeperson Lucy Moog
-Cicero Township Village President and Committeeperson Larry Dominick
-Cook County Commissioner and 11th Ward Committeeperson John Daley
-DNC member Dan Hynes
-Former State Central Committeewoman Darlena Williams Burnett
-Chicago LGBTQ Hall of Famer and Former Personal PAC President Terry Cosgrove
+Welch’s full endorsement list includes: Congressman Danny K.
+Davis Former Secretary of State Jesse White Democratic Party of Illinois Chair Lisa Hernandez Cook County Clerk Monica Gordon Bellwood Mayor Andre Harvey Broadview Mayor Katrina Thompson Hillside Mayor Joe Tamburino Maywood Mayor Nathaniel Booker River Forest President and Committeeperson Cathy Adduci Westchester President Greg Hribal State Representative Kam Buckner State Representative Lisa Davis State Representative Michael Crawford State Representative Margaret Croke State Representative Kelly Cassidy State Representative Kimberly DuBuclet State Representative Eva-Dina Delgado State Representative Marcus Evans State Representative La Shawn Ford State Representative Edgar Gonzalez State Representative Norma Hernandez State Representative Lilian Jiménez State Representative Theresa Mah State Representative Debbie Meyers-Martin State Representative Yolonda Morris State Representative and Committeeperson Aaron Ortiz State Representative Jawaharial ‘Omar’ Williams 1st Ward Committeeperson Laura Yepez 2nd Ward Committeeperson Tim Egan 3rd Ward Alderwoman and Committeeperson Pat Dowell 4th Ward Alderman Lamont Robinson 11th Ward Alderwoman Nicole Lee 14th Ward Alderwoman Jeylú Gutiérrez 15th Ward Alderman and Committeeperson Ray Lopez 16th Ward Alderwoman and Committeeperson Stephanie Coleman 18th Ward Alderman Derrick Curtis 24th Ward Alderwoman and Committeeperson Monique Scott 25th Ward Alderwoman and Committeeperson Byron Sigcho-Lopez 26th Ward Alderperson Jessie Fuentes 27th Ward Alderman Walter Burnett 36th Ward Alderman and Committeeperson Gilbert Villegas 37th Ward Alderwoman and State Central Committeewoman Emma Mitts 42nd Ward Alderman and Committeeperson Brendan Reilly 43rd Ward Alderman Timmy Knudsen 43rd Ward Committeeperson Lucy Moog Cicero Township Village President and Committeeperson Larry Dominick Cook County Commissioner and 11th Ward Committeeperson John Daley DNC member Dan Hynes Former State Central Committeewoman Darlena Williams Burnett Chicago LGBTQ Hall of Famer and Former Personal PAC President Terry Cosgrove Casimir Stopa September 15, 2025 Facebook 0 Twitter Pinterest 0 0 Likes Previous MWRD President Kari Steele with Welch for Central Committeeman Casimir Stopa September 16, 2025 Next 7th Congressional District State Reps Deepen the Call for Welch as State Central Committeeman Casimir Stopa September 10, 2025 Meet Chris Priorities News Donate Volunteer District Map © Copyright #•Paid for by The People for Emanuel “Chris” Welch

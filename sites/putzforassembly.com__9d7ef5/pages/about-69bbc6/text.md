@@ -1,5 +1,4 @@
-About Randy
-Randall Putz has been a dedicated public servant and community leader in Big Bear Lake for over 15 years.
+0 Skip to Content Home About On The Issues Affordable Healthcare Public Safety Affordable Housing Rural Development Public Education Fair Taxation Environment Civil Rights and Protections Empowering Local Voices Our District Endorsements Get Involved Donate Open Menu Close Menu Donate Home About On The Issues Affordable Healthcare Public Safety Affordable Housing Rural Development Public Education Fair Taxation Environment Civil Rights and Protections Empowering Local Voices Our District Endorsements Get Involved Open Menu Close Menu Home About Folder: On The Issues Back Affordable Healthcare Public Safety Affordable Housing Rural Development Public Education Fair Taxation Environment Civil Rights and Protections Empowering Local Voices Our District Endorsements Get Involved Donate About Randy Randall Putz has been a dedicated public servant and community leader in Big Bear Lake for over 15 years.
 First elected to the Bear Valley Unified School District Governing Board in 2008 and re-elected in 2012, he went on to join the Big Bear Lake City Council in 2014, earning re-elections in 2018 and 2022.
 On the Council, Randall has served multiple terms as Mayor Pro Tem and was appointed Mayor in both 2020 and 2023.
 In addition to his Council work, Randall has chaired the Mountain Area Regional Transit Authority and the Big Bear Fire Authority, and served as Director of the Mojave Desert Mountain Integrated Waste Joint Powers Authority.
@@ -15,3 +14,6 @@ In 2018, he opened the Chirp Nature Center in Big Bear Lake’s Village, combini
 He also co-founded the Big Bear Valley Trails Foundation, working to expand access to the outdoors.
 A longtime resident of Big Bear Lake, Randall raised his children in the community and is deeply rooted in its civic and environmental life.
 An avid outdoorsman, he can often be found trail running or mountain biking in the surrounding San Bernardino National Forest.
+Paid for by Putz for Assembly 2026, FPPC #1480258 Connect with us on social media!
+Reach out to us!
+Email: info@putzforassembly.com Phone: (909) 276 - 7889

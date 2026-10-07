@@ -1,31 +1,7 @@
-Check out upcoming events and press releases
-Event
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-Event
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-Event
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-Event
-PRESS RELEASE
-Event
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-Event
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
-Event
-PRESS RELEASE
-PRESS RELEASE
-PRESS RELEASE
+Skip navigation menu Home About Take Action Issues News and press Events Endorsements Donate Home About Take Action Issues News and press Events Endorsements Donate news & press Latest Campaign Developments Check out upcoming events and press releases Event Meet Chris Jones and Clean Water Candidates in Kiron Read more Oct 9 2026 PRESS RELEASE Weekly Campaign Calendar Sep 21-27 Read more Sep 23 2026 PRESS RELEASE Weekly Update 9/21 Read more Sep 21 2026 PRESS RELEASE Weekly update 9/13 Read more Sep 13 2026 PRESS RELEASE Campaign Calendar week of Sep 14-20 Read more Sep 14 2026 Event Chris Jones for Sec. of Ag. (and local candidates) Rally Read more Sep 3 2026 PRESS RELEASE Weekly Update 8/31 Read more Aug 31 2026 PRESS RELEASE Weekly Update 8/24 Read more Aug 24 2026 PRESS RELEASE Weekly Update 8/17 Read more Aug 17 2026 PRESS RELEASE Karaoke with the Candidates!
+Read more Aug 15 2026 PRESS RELEASE Weekly Update 5/8 Read more Aug 5 2026 Event Kris Williams Canvass Event!
+Read more Jul 25 2026 PRESS RELEASE Weekly update 7/13 Read more Jul 13 2026 PRESS RELEASE 4th of July!
+Read more Jul 4 2026 PRESS RELEASE Weekly update #11 "Money out of Politics" Read more Jun 28 2026 Event Door Knocking Event Read more Jun 28 2026 PRESS RELEASE Fort Dodge Pride!
+Read more Jun 27 2026 Event Ice Cream Social Read more Jun 20 2026 PRESS RELEASE Weekly update #10 "Woke Trans Agenda" Read more Jun 14 2026 PRESS RELEASE Weekly update #9 Water Quality Read more Jun 7 2026 PRESS RELEASE Frontier Days Read more Jun 6 2026 PRESS RELEASE Weekly update #8 Cost of Living Read more May 31 2026 Event Canvassing Event Read more May 23 2026 PRESS RELEASE Weekly update #6/7 Read more May 22 2026 PRESS RELEASE Weekly update #5 Read more May 8 2026 PRESS RELEASE Weekly update #3/4 Read more May 1 2026 Event May Day!
+Read more May 1 2026 PRESS RELEASE Weekly update #2 Read more Apr 18 2026 PRESS RELEASE Weekly update #1 Read more Apr 10 2026 PRESS RELEASE Letter To The Editor 4/06/2026 Read more Apr 6 2026 Campaign On!
+Read more Apr 5 2026 Volunteer Privacy Policy About Donate Contact Terms and Conditions kriswilliamsforiowa@gmail.com Powered by RUN! website builder Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app.

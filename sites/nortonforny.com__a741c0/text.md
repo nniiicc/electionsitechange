@@ -1,9 +1,6 @@
-Ratings and Endorsements
-New York League of Conservation Voters
-100% Rating
-Meet Dan
-A Lifelong Commitment to Our Community
-Dan Norton is a lifelong Broome County resident who has spent his life working, raising a family, and standing up for the community where he grew up.
+Skip to main content Dan Norton for NY State Assembly I'm running to make life more affordable for our families and to deliver meaningful results for the Southern Tier.
+Donate Now Volunteer Ratings and Endorsements New York League of Conservation Voters 100% Rating Stay Connected Sign up to receive campaign updates and learn how you can get involved.
+Meet Dan A Lifelong Commitment to Our Community Dan Norton is a lifelong Broome County resident who has spent his life working, raising a family, and standing up for the community where he grew up.
 He was born at Wilson Memorial Hospital and raised on Hall Street in Endwell, where he learned early that if something needs fixing, you show up and do the work.
 That belief has guided him throughout his career and his involvement in the community.
 Dan comes from a union family with deep working class roots.
@@ -13,8 +10,7 @@ Dan's father also served for twenty years on the Maine Endwell School Board, whi
 From an early age, Dan learned that government should be practical, accountable, and focused on people, not politics.
 Dan is running for office because he believes our area deserves steady, practical leadership in Albany.
 He understands how state decisions affect schools, local governments, nonprofits, small businesses, and families because he has worked alongside them for years.
-Read Dan's Full Story
-Dan Norton is a lifelong Broome County resident who has spent his life working, raising a family, and standing up for the community where he grew up.
+Read Dan's Full Story Dan Norton is a lifelong Broome County resident who has spent his life working, raising a family, and standing up for the community where he grew up.
 He was born at Wilson Memorial Hospital and raised on Hall Street in Endwell, where he learned early that if something needs fixing, you show up and do the work.
 That belief has guided him throughout his career and his involvement in the community.
 Dan comes from a union family with deep working class roots.
@@ -59,44 +55,16 @@ He understands how state decisions affect schools, local governments, nonprofits
 Dan works across lines, partners with local leaders, and uses his legal and policy background to turn ideas into action.
 Dan Norton is ready to be a strong, effective voice for us.
 He will bring his experience and his deep understanding of the issues impacting our community to Albany and deliver results for the people of the Southern Tier.
-Dan's Priorities
-Fighting for the Southern Tier
-Endorsement
-I enthusiastically support Dan Norton.
+Cornell Law School Endwell Native Community Leader Dan's Priorities Fighting for the Southern Tier Housing Healthcare Public Safety Childcare Small Businesses Education See Where Dan Stands Endorsement I enthusiastically support Dan Norton.
 Having all of the qualities of an exceptional representative, we are very fortunate to have someone of Dan's caliber running for this seat.
 He is a well-respected member of our community, active in many important organizations, and dedicated to public service.
 I know he will work hard to represent all of us.
-Assemblywoman Donna Lupardo New York State Assembly
-Endorsement
-I am pleased to announce my support for Dan Norton in the Democratic primary for State Assembly.
+Assemblywoman Donna Lupardo New York State Assembly Endorsement I am pleased to announce my support for Dan Norton in the Democratic primary for State Assembly.
 Dan Norton is a great candidate to continue the important work and support for the Southern Tier.
 The positive impact of Assemblymember Donna Lupardo's decades of work in our region is significant, and Dan Norton will help ensure we can continue to build on the foundation she has created by centering our community in the Assembly.
 Dan is a devoted community servant who has served in leadership roles with key organizations focused on affordable housing, education, and community development.
 He brings a wealth of experience, and it is clear he will be a strong partner for me in state government, as well as for our municipal partners and local leaders.
-Senator Lea Webb New York State Senate
-Local Leaders Endorse Dan Norton for Assembly
-- County Executive Jason Garnar Broome County
-- Minority Leader Kim Myers Broome County Legislature
-- Legislator Bob Weslar Broome County Legislature
-- Legislator Suzy Ryan Broome County Legislature
-- Legislator Mary Kaminsky Broome County Legislature
-- Mayor Christina Charuk Johnson City
-- Councilmember Sue Messina Town of Vestal
-- City Councilmember Kinya Middleton Binghamton
-- Nicholas Libous Former Candidate for NYS Assembly
-- Barbara Fiala Former Broome County Executive & Broome Dems Chair
-- Karen Beebe Former Broome Dems Chair & County Legislator
-- Jim Testani Former Broome Dems Chair & Binghamton City Councilmember
-Get Ready to Vote
-Voting & Election Information
-Polling Place Lookup
-Find your polling place →
-Early Voting
-October 24th – November 1st
-See early voting info →
-Election Day
-November 3rd
-6:00 AM – 9:00 PM
-Support the Campaign
-Your contribution helps us reach more voters and fight for the Southern Tier.
+Senator Lea Webb New York State Senate Local Leaders Endorse Dan Norton for Assembly County Executive Jason Garnar Broome County Minority Leader Kim Myers Broome County Legislature Legislator Bob Weslar Broome County Legislature Legislator Suzy Ryan Broome County Legislature Legislator Mary Kaminsky Broome County Legislature Mayor Christina Charuk Johnson City Councilmember Sue Messina Town of Vestal City Councilmember Kinya Middleton Binghamton Nicholas Libous Former Candidate for NYS Assembly Barbara Fiala Former Broome County Executive & Broome Dems Chair Karen Beebe Former Broome Dems Chair & County Legislator Jim Testani Former Broome Dems Chair & Binghamton City Councilmember Get Ready to Vote Voting & Election Information Polling Place Lookup Find your polling place → Early Voting October 24th – November 1st See early voting info → Election Day November 3rd 6:00 AM – 9:00 PM Support the Campaign Your contribution helps us reach more voters and fight for the Southern Tier.
 Every dollar makes a difference.
+Donate Now Volunteer Contact Dan [email protected] Contact the Campaign [email protected] Friends of Daniel Norton PO Box 5561 Endicott, NY 13763-5561 Paid for by Friends of Daniel Norton Privacy Policy © # Friends of Daniel Norton.
+All rights reserved.

@@ -1,4 +1,5 @@
-Because I make it a point not to get into debates in comments sections, here are a few responses to statements made there on some of the Facebook advertisement posts.
+Roy D.
+Gott Home About Contact Positions Blog I Don’t Debate in the Comments Section admin October 3, 2022 12:17 am Because I make it a point not to get into debates in comments sections, here are a few responses to statements made there on some of the Facebook advertisement posts.
 These are my positions and people are welcome to accept or reject them.
 I'm not going to argue them further.
 1 - As a member of the RSU 24 Board of Directors, every single one of my votes is a matter of public record.
@@ -18,3 +19,10 @@ Forget for a second that in Maine the statutory responsibility of school board m
 This was the first year the position was contested since being elected in 2012, and I won 103 to 67.
 If the majority of my community felt I had so poorly executed the responsibilities of my office, this was their opportunity to demonstrate that.
 6 - I have made no decisions on a caucus yet and come election day, I will vote for the candidates who I feel will do the most to protect and improve the lives of the people of the State of Maine.
+Category : Positions Previous I Support Our Lobster Industry Next Lobster Rule Scoping Session in Portland Search Search Recent Posts Endorsements & Distinctions Lobster Rule Scoping Session in Portland I Don’t Debate in the Comments Section I Support Our Lobster Industry Encouraging Words are a Sign Recent Comments Ken Gleason on Encouraging Words are a Sign Archives September 2026 October 2022 September 2022 Categories Campaigning Positions Uncategorized Roy D.
+Gott Roy D.
+Gott serves the communities of Franklin, Gouldsboro, Hancock, Milbridge, Sorrento, Steuben, Sullivan, Tremont, Trenton, and Winter Harbor with technical support and sales for their municipal, utility, and public safety functions.
+He served as Franklin's member of the Regional School Unit No.
+24 Board of Directors (2012-2025, Chair 2016-2025), and as Region IV (Hancock County) Director (2022-2024) and Vice President (2024-2025) for the Maine School Boards Association.
+He served as chair of the Schoodic Peninsula Broadband Committee and is founder of the Sumner Alumni Association.
+Quick Links Home About Contact Get in Touch PO Box 94, Franklin, ME 04634 2075653666 roy@roygott.com

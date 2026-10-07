@@ -1,33 +1,4 @@
-Back to All Events
-Join Us for the Krista L.
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events Campaign Kick-Off Thursday, March 14, 2024 4:30 PM 6:30 PM The 19th Hole 101 Central Plaza South Canton, OH, 44702 United States (map) Google Calendar ICS Join Us for the Krista L.
 Allison Campaign Kick-Off for the Ohio House 49th District!
-#block-89c1c198fde26eacc2ea {
---stroke-style: none;--stroke-thickness: 6px;
-}
-#block-89c1c198fde26eacc2ea .sqs-html-content {
---tweak-text-block-padding: 6% 6% 6% 6%;
---tweak-text-block-padding: initial;
-}
-#block-89c1c198fde26eacc2ea {
-mix-blend-mode: var(--tweak-text-block-blend
-);
-border-radius: var(--tweak-text-block-radius);
-}
-#block-89c1c198fde26eacc2ea {
---tweak-text-block-radius: 0px 0px 0px 0px;
-}
-#block-89c1c198fde26eacc2ea {
-}
-@media screen and (max-width: 767px) {
-#block-89c1c198fde26eacc2ea {
-}
-}
-@media screen and (max-width: 767px) {
-#block-89c1c198fde26eacc2ea .sqs-html-content {
-}
-}
-@media screen and (max-width: 767px) {
-}
-Next
-Next
-April 13
+Next Next April 13 Spaghetti Dinner Fundraiser Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

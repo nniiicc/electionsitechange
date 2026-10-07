@@ -1,24 +1,10 @@
-Retiring Representative Jim Marshall has endorsed Roman as the best choice to continue the fight for our families.
-Fraternal Order of Police Lodge 4 Beaver County
-Fraternal Order of Police Brady Paul Memorial Lodge 54
-International Association of Fire Fighters - IAFF 1 Pittsburgh
-National Federation of Independent Business NFIB-PAC
-PA Chamber of Commerce PAC
-One of America's largest pro-economic growth organizations.
-Operating Engineers Local 66
-IUPAT DC 57
-LIUNA Laborers Local 833
-Eastern Atlantic Region Council of Carpenters
-Protecting Your 2nd Amendment Rights
-National Association for Gun Rights
-PA State Troopers Association
-NRA - National Rifle Association PVF
-Health Freedom PA
-Beaver County Recorder of Deeds
-Beaver County Treasurer
-Beaver County Coroner
-Beaver County Sheriff
-Beaver County Controller
-Beaver Falls Councilman
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+HOME ABOUT DONATE ISSUES ENDORSEMENTS VOLUNTEER VOTE HOME ABOUT DONATE ISSUES ENDORSEMENTS VOLUNTEER VOTE More HOME ABOUT DONATE ISSUES ENDORSEMENTS VOLUNTEER VOTE HOME ABOUT DONATE ISSUES ENDORSEMENTS VOLUNTEER VOTE ENDORSEMENTS REP.
+JIM MARSHALL REP.
+JIM MARSHALL REP.
+JIM MARSHALL Retiring Representative Jim Marshall has endorsed Roman as the best choice to continue the fight for our families.
+FOP Lodge 4 REP.
+JIM MARSHALL REP.
+JIM MARSHALL Fraternal Order of Police Lodge 4 Beaver County FOP Lodge 54 REP.
+JIM MARSHALL FIRE FIGHTERS Fraternal Order of Police Brady Paul Memorial Lodge 54 FIRE FIGHTERS PA'S JOB CREATORS FIRE FIGHTERS International Association of Fire Fighters - IAFF 1 Pittsburgh SMALL BUSINESS PA'S JOB CREATORS PA'S JOB CREATORS National Federation of Independent Business NFIB-PAC PA'S JOB CREATORS PA'S JOB CREATORS PA'S JOB CREATORS PA Chamber of Commerce PAC AMERICANS FOR PROSPERITY AMERICANS FOR PROSPERITY AMERICANS FOR PROSPERITY One of America's largest pro-economic growth organizations.
+ORGANIZED LABOR AMERICANS FOR PROSPERITY AMERICANS FOR PROSPERITY Operating Engineers Local 66 ORGANIZED LABOR AMERICANS FOR PROSPERITY ORGANIZED LABOR IUPAT DC 57 ORGANIZED LABOR FIREARMS OWNERS AGAINST CRIME ORGANIZED LABOR LIUNA Laborers Local 833 ORGANIZED LABOR FIREARMS OWNERS AGAINST CRIME FIREARMS OWNERS AGAINST CRIME Eastern Atlantic Region Council of Carpenters FIREARMS OWNERS AGAINST CRIME FIREARMS OWNERS AGAINST CRIME FIREARMS OWNERS AGAINST CRIME Protecting Your 2nd Amendment Rights NAT'L ASSOC FOR GUN RIGHTS NAT'L ASSOC FOR GUN RIGHTS NAT'L ASSOC FOR GUN RIGHTS National Association for Gun Rights PA STATE TROOPERS ASSOC.
+NAT'L ASSOC FOR GUN RIGHTS NAT'L ASSOC FOR GUN RIGHTS PA State Troopers Association NAT'L RIFLE ASSOCIATION NAT'L ASSOC FOR GUN RIGHTS NAT'L RIFLE ASSOCIATION NRA - National Rifle Association PVF HEALTH FREEDOM PA PA YOUNG REPUBLICANS NAT'L RIFLE ASSOCIATION Health Freedom PA PA YOUNG REPUBLICANS PA YOUNG REPUBLICANS PA YOUNG REPUBLICANS RON ALBERTI PA YOUNG REPUBLICANS PA YOUNG REPUBLICANS Beaver County Recorder of Deeds SANDIE EGLEY DAVID GABAUER DAVID GABAUER Beaver County Treasurer DAVID GABAUER DAVID GABAUER DAVID GABAUER Beaver County Coroner TONY GUY DAVID GABAUER MARIA LONGO Beaver County Sheriff MARIA LONGO MARIA LONGO MARIA LONGO Beaver County Controller DEAN DINELL MARIA LONGO DEAN DINELL Beaver Falls Councilman KozakForPA Copyright © # - Paid for by Citizens For Kozak - All Rights Reserved Powered by

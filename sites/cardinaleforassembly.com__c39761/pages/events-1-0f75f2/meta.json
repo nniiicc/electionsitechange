@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.cardinaleforassembly.com/events-1",
- "paid_for_by": null,
+ "fingerprint": "4605ce77c29dc179009186ffb462d2725de0491c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | CardinaleForAssembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

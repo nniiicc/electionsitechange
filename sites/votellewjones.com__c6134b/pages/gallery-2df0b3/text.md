@@ -1,15 +1,14 @@
-Fires stopped early, property tax relief, rural health care, strong schools and tight-fisted budgets.
-The 2025 session issue by issue: fire response, bridges, tax cuts, rural health care, schools and budgets.
-Senators Daines and Sheehy, and the Governor’s remarks at the bill signings.
-Tim Sheehy, Waded Cruzado, Taylor Brown and neighbors from across the district.
-Education handout: the STARS Act (HB 252), more options for families and local school board control.
-The back of the education handout: what Montana educators and neighbors say about Llew’s work for schools.
-Senator Steve Daines and Taylor Brown.
-Wylie Gustafson of Conrad and Dean Lerum of Galata.
-Ross and Sandy Salmond and Frankie Hanson of Choteau.
-Ross Fitzgerald, Abraham Osmundson and Casey Wheeler.
-Waded Cruzado, Les Meyer and Dustin Gordon.
-Letter of March 24, 2026, from Montana’s largest agricultural organization.
-Dania Jones Law School Graduation.
-Llew Jones for SD 9
-1102 4th Avenue Southwest, Conrad, Montana 59425, United States
+Home About About Llew Awards Voting Record Issues Economic Development Education Energy Environmental Stewardship Rural Health Care Contact Donate Gallery Endorsements More Home About About Llew Awards Voting Record Issues Economic Development Education Energy Environmental Stewardship Rural Health Care Contact Donate Gallery Endorsements Home About About Llew Awards Voting Record Issues Economic Development Education Energy Environmental Stewardship Rural Health Care Contact Donate Gallery Endorsements Gallery Jump to a section Handouts and Mailers Newspaper Ads and Endorsement Letter The Record in Charts Photo Albums Handouts and Mailers Doing the Job — For Rural Montana Doing the Job — For Rural Montana Fires stopped early, property tax relief, rural health care, strong schools and tight-fisted budgets.
+View full size 2025 Legislative Report Card Doing the Job — For Rural Montana The 2025 session issue by issue: fire response, bridges, tax cuts, rural health care, schools and budgets.
+View full size What Montana’s Republican Leaders Are Saying Senators Daines and Sheehy, and the Governor’s remarks at the bill signings.
+View full size Endorsed by Our Community Leaders Tim Sheehy, Waded Cruzado, Taylor Brown and neighbors from across the district.
+View full size Trusted Leadership for Montana Students Trusted Leadership for Montana Students Education handout: the STARS Act (HB 252), more options for families and local school board control.
+View full size Education Results Trusted Leadership for Montana Students The back of the education handout: what Montana educators and neighbors say about Llew’s work for schools.
+View full size Newspaper Ads and Endorsement Letter, Spring 2026 Proven Results You Can Count On The Workhorse Rural Montana Deserves The Workhorse Rural Montana Deserves Senator Steve Daines and Taylor Brown.
+View full size The Workhorse Rural Montana Deserves The Workhorse Rural Montana Deserves The Workhorse Rural Montana Deserves Wylie Gustafson of Conrad and Dean Lerum of Galata.
+View full size The Workhorse Rural Montana Deserves The Workhorse Rural Montana Deserves Fifteen Years, No Red Ink, Real Results Ross and Sandy Salmond and Frankie Hanson of Choteau.
+View full size Fifteen Years, No Red Ink, Real Results Montana Farm Bureau PAC Endorsement Letter Fifteen Years, No Red Ink, Real Results Ross Fitzgerald, Abraham Osmundson and Casey Wheeler.
+View full size Real Skills for Montana’s Next Generation Montana Farm Bureau PAC Endorsement Letter Montana Farm Bureau PAC Endorsement Letter Waded Cruzado, Les Meyer and Dustin Gordon.
+View full size Montana Farm Bureau PAC Endorsement Letter Montana Farm Bureau PAC Endorsement Letter Montana Farm Bureau PAC Endorsement Letter Letter of March 24, 2026, from Montana’s largest agricultural organization.
+Read the letter The Record in Charts Home on the Ranch On the Campaign Trail Family First Dania Jones Law School Graduation.
+On the Trail and at Home Through the Years Around Our Hometowns From Past Campaigns (2024) Donate Privacy Policy Llew Jones for SD 9 1102 4th Avenue Southwest, Conrad, Montana 59425, United States 4062713104 Paid for by Llew Jones for SD 9, Republican, Carole Jones Treasurer, 1102 4th Ave SW, Conrad, MT 59425 Powered by

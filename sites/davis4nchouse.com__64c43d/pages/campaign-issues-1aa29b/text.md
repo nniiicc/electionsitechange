@@ -1,21 +1,19 @@
-What Danny Stands For
-Priorities for Western North Carolina
-Families across Western North Carolina are facing real challenges: rising costs, strained healthcare access, limited childcare, and the long road to recovery after devastating storms.
+Skip to content Yard signs now available!
+Contact (828) 400-4812 to request yours Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact Donate Donate YARD SIGNS NOW AVAILABLE!
+CONTACT (828) 400-4812 TO REQUEST YOURS Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact What Danny Stands For Priorities for Western North Carolina Families across Western North Carolina are facing real challenges: rising costs, strained healthcare access, limited childcare, and the long road to recovery after devastating storms.
 Danny Davis has spent his life serving this community, and he’s running for the NC House to bring practical, fair-minded solutions that strengthen our families, support our workers, and rebuild our region.
 Below are the issues that matter most to the people of Haywood and Madison counties, and how Danny will fight for them.
-Cost of Living & Working Wages
-Too many families are working hard yet falling behind.
+Economy Cost of Living & Working Wages Too many families are working hard yet falling behind.
 Danny will fight for wages that keep up with costs and policies that help young people stay in WNC.
-Affordable, Accessible Healthcare
-No one should have to choose between paying bills and getting care.
+Learn More Healthcare Affordable, Accessible Healthcare No one should have to choose between paying bills and getting care.
 Danny will work to expand access to mental health, addiction treatment, and basic medical services.
-Education, Families & Opportunity
-From childcare and pre-K to college affordability, Danny will support strong schools and pathways that help young people build a future here at home.
-Small Business, Farms & the Local Economy
-Our region thrives when local businesses and family farms thrive.
+Learn More Education Education, Families & Opportunity From childcare and pre-K to college affordability, Danny will support strong schools and pathways that help young people build a future here at home.
+Learn More Local Economy Small Business, Farms & the Local Economy Our region thrives when local businesses and family farms thrive.
 Danny will support fair taxes and the infrastructure needed to attract and keep good jobs.
-Safe Communities & Fair Justice
-With 33 years on the bench, Danny understands how to keep communities safe while ensuring fairness under the law, free from political interference.
-Disaster Recovery & Community Resilience
-Helene devastated lives, homes, and small businesses.
+Learn More Public Safety Safe Communities & Fair Justice With 33 years on the bench, Danny understands how to keep communities safe while ensuring fairness under the law, free from political interference.
+Learn More Recovery Disaster Recovery & Community Resilience Helene devastated lives, homes, and small businesses.
 Danny will fight for full recovery funding and long-term resilience for WNC communities.
+Learn More PAID FOR BY DAVIS FOR NC HOUSE 118 Email * Stay Informed QUICK LINKS Meet Danny Issues Contact GET INVOLVED Volunteer Events Donate STAY CONNECTED Facebook Instagram TikTok X/Twitter YouTube Contact: Danny@Davis4NCHouse.com | P.O.
+Box 196, Waynesville, NC 28786 Copyright © 2026 Davis For NC House 118 | Privacy Policy | Designed by WNC Web Design English English Deutsch Español Français Italiano Polski Svenska Suomi Português Română Slovenščina Slovenčina Nederlands Dansk Ελληνικά Čeština Magyar Lietuvių Latviešu Eesti Hrvatski Gaeilge Български Norsk Türkçe Bahasa Indonesia Português (Brasil) 日本語 한국어 简体中文 العربية Русский हिन्दी Українська Srpski English (UK) فارسی עברית Македонски ไทย Tiếng Việt Accessibility Adjustments Powered by OneTap Hide Toolbar Back How long do you want to hide the toolbar?
+Hide Toolbar Duration Only for this session 24 hours A Week Not Now Hide Toolbar Select your accessibility profile Vision Impaired Mode Enhances website's visuals Vision Impaired Mode Seizure Safe Profile Clear flashes & reduces color Seizure Safe Profile ADHD Friendly Mode Focused browsing, distraction-free ADHD Friendly Mode Blindness Mode Reduces distractions, improves focus Blindness Mode Epilepsy Safe Mode Dims colors and stops blinking Epilepsy Safe Mode Content Modules Font Size + Default - Readable Font Line Height + Default - Cursor Letter Spacing Align Text Font Weight Color Modules Light Contrast High Contrast Monochrome Orientation Modules Reading Line Reading Mask Hide Images Highlight Content Stop Animations Highlight Links Skip To Content Choose...
+Main Content Navigation Footer Reset Settings

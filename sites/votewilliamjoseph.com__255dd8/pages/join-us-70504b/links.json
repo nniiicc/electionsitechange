@@ -1,10 +1,34 @@
 [
-"https://facebook.com/VoteWilliamJoseph",
-"https://secure.winred.com/campaign-of-william-joseph-for-florida-house-district-88/donate-for-the-win",
-"https://votewilliamjoseph.com/",
-"https://votewilliamjoseph.com/cart",
-"https://votewilliamjoseph.com/home",
-"https://votewilliamjoseph.com/join-us",
-"https://votewilliamjoseph.com/my-vision",
-"https://votewilliamjoseph.com/tosandprivacy"
+{
+"text": "0",
+"href": "https://www.votewilliamjoseph.com/cart"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.votewilliamjoseph.com/join-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/campaign-of-william-joseph-for-florida-house-district-88/donate-for-the-win"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/VoteWilliamJoseph"
+},
+{
+"text": "HOME",
+"href": "https://www.votewilliamjoseph.com/home"
+},
+{
+"text": "My Vision",
+"href": "https://www.votewilliamjoseph.com/my-vision"
+},
+{
+"text": "TERMS OF SERVICE and Privacy Policy",
+"href": "https://www.votewilliamjoseph.com/tosandprivacy"
+},
+{
+"text": "[image: William Joseph]",
+"href": "https://www.votewilliamjoseph.com/"
+}
 ]

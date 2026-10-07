@@ -1,4 +1,4 @@
-Congressional candidate Jim Marter was the obvious winner in a well attended debate that took place in Yorkville, Illinois on Wednesday evening.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 21 Apr Congressional candidate Jim Marter was the obvious winner in a well attended debate that took place in Yorkville, Illinois on Wednesday evening.
 Organized by the Stamp Act Pac, Jim participated along with two opponents.
 A third opponent, declined the invitation and later scheduled a fundraiser instead.
 “I think Marter won by every measurement.
@@ -21,5 +21,5 @@ I have the knowledge, experience and core values to do the job successfully and 
 “I was the only one on stage who lives in the district and I have well over 100 endorsements at the local, district, state and national level.
 I’m perfectly positioned to beat Lauren Underwood and it’s becoming increasing clear to the voters.
 My goal is to save America and the American Dream.
-I’m thankful to my two opponents who showed up tonight and I look forward to their support, after I win this Primary.”
-The campaign would like to thank the Stamp Act Pac for organizing and excellent debate.
+I’m thankful to my two opponents who showed up tonight and I look forward to their support, after I win this Primary.” The campaign would like to thank the Stamp Act Pac for organizing and excellent debate.
+Share:

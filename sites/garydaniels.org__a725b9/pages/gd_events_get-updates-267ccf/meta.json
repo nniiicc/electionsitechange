@@ -1,7 +1,9 @@
 {
  "description": "Sign Up For Updates and Campaign Events * indicates required Email Address *First Name *Last Name *Town *View previous campaigns /* real people should not fill this in and expect good things - do not",
  "final_url": "https://garydaniels.org/gd/events/get-updates/",
- "paid_for_by": null,
+ "fingerprint": "683010b19b6f720c264be7360c120ec20ce9f697",
+ "format": 3,
+ "paid_for_by": "",
  "title": "GET UPDATES | Gary Daniels",
  "years_mentioned": []
 }

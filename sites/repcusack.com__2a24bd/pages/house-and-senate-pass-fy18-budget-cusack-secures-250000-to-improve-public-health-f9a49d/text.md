@@ -1,5 +1,4 @@
-For immediate release: July 7, 2017
-BOSTON – Representative Mark J.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services House and Senate Pass FY18 Budget; Cusack Secures $250,000 to Improve Public Health and Safety in Braintree For immediate release: July 7, 2017 BOSTON – Representative Mark J.
 Cusack (D-Braintree) joined his colleagues in the Massachusetts House of Representatives to pass a $40.2 billion FY18 Budget which represents a commitment to fiscal responsibility.
 The Senate subsequently passed the budget.
 The spending bill protects vulnerable residents through investments in early education and care, substance addiction initiatives, homelessness programs, and funding to help individuals with developmental disabilities.
@@ -15,12 +14,11 @@ This nearly $1,000,000 increase will bring Braintree’s total state education f
 In addition, the FY18 budget fully funds the Special Education Circuit Breaker which will further help the town manage increasing special education costs.
 “I would like to thank Speaker DeLeo and House Ways & Means Chairman Dempsey for their efforts with the Conference Committee and hard work on the FY18 Budget,” said Representative Cusack.
 “I’m happy to report that the funds allocated to Braintree did not change during Conference Committee from the original House budget to the final budget passed by the House and Senate,” said Representative Cusack.
-“We fought for this money to be included within the FY18 Budget in order to help create a safer place for all the residents of Braintree and to fight against this ever-growing epidemic.”
-“The increase in local aid will help the town fully fund education, public safety, veterans’ services, our public works operation and many other areas that are crucial to continuing to improve our quality of life in Braintree,” said Representative Cusack.
-“The nearly $1,000,000 increase in education funding will assist the schools in providing the education and resources our students, teachers and staff need to excel.”
-Representative Cusack was successful in securing an amendment of $150,000 to be put towards Braintree’s Community Partnership on Substance Use.
+“We fought for this money to be included within the FY18 Budget in order to help create a safer place for all the residents of Braintree and to fight against this ever-growing epidemic.” “The increase in local aid will help the town fully fund education, public safety, veterans’ services, our public works operation and many other areas that are crucial to continuing to improve our quality of life in Braintree,” said Representative Cusack.
+“The nearly $1,000,000 increase in education funding will assist the schools in providing the education and resources our students, teachers and staff need to excel.” Representative Cusack was successful in securing an amendment of $150,000 to be put towards Braintree’s Community Partnership on Substance Use.
 The money will be used to help the Substance Abuse Prevention Coordinator and the lead stakeholders continue their work in educating the community on prevention and treatment for substance abuse.
 Last year, Representative Cusack was able to secure funding in the budget that established this position and office.
 Cusack was also able to secure $100,000 to increase public safety in Braintree.
 The budget will now be sent to Governor Baker’s office where he must decide whether or not to approve what the House and Senate have agreed upon.
-###
+### Newsroom Press Releases Previous MSBA Invests in Braintree’s East Middle School Next House Passes FY20 Budget; Cusack Secures $400,000 in improvements for Braintree Related Posts ...
+House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph Newsroom , Press Releases House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Newsroom , Press Releases House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Newsroom , Press Releases Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

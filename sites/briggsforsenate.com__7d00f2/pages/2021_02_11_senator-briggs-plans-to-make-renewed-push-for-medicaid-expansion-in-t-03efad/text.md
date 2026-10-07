@@ -1,6 +1,4 @@
-Senator Briggs plans to make renewed push for Medicaid expansion in Tennessee
-February 11, 2021
-Senator Richard Briggs is once again putting the health and financial security of everyday Tennesseans front and center, announcing plans to reintroduce a Medicaid expansion proposal that would provide coverage to hundreds of thousands of working people who currently fall through the cracks.
+Home About Issues Endorsements News Volunteer Donate Senator Briggs plans to make renewed push for Medicaid expansion in Tennessee February 11, 2021 Senator Richard Briggs is once again putting the health and financial security of everyday Tennesseans front and center, announcing plans to reintroduce a Medicaid expansion proposal that would provide coverage to hundreds of thousands of working people who currently fall through the cracks.
 The proposal would cover Tennesseans who cannot afford insurance but earn too much to qualify for TennCare.
 This would be made possible through federal funding under the Affordable Care Act, a step that dozens of other states have already taken.
 Drawing on his decades of experience as a physician, Dr.
@@ -16,3 +14,4 @@ Ever the pragmatist, Dr.
 Briggs is taking a measured, strategic approach, watching how the state’s recently approved federal block grant waiver plays out before determining the best path forward for those Tennesseans who currently have no insurance at all.
 This effort reflects the heart of who Dr.
 Briggs is: a physician-legislator who understands both the human cost of inaction and the policy levers needed to drive real change, and who refuses to stop fighting for the Tennesseans who need it most.
+Home About Issues Endorsements News Volunteer Donate Contact Privacy Policy Donations are not tax deductible Paid for by Briggs for Senate

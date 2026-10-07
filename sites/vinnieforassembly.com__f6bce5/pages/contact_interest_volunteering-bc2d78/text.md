@@ -1,3 +1,4 @@
-Mailing Address Friends of Vincent Miresse P.O.
-Box 458 Stevens Point, WI 54481 Contact Form Notify First Name Last Name Email Address Phone What can I help you with? – Select –I have a questionI need a yard signI’m interested in volunteeringI’m interested in hosting a fundraising eventSomething Else Address Address Line 1 Address Line 2 Zip Code May we leave a yard sign at your home?
-Yes, please leave it outside my door Yes, please stake it in my yard No, I’d like to arrange pickup Message Submit
+Skip to content Menu Menu Home About Meet Vinnie 71st District Map Issues Endorsements Voting Contact Donate Menu Home About Meet Vinnie 71st District Map Issues Endorsements Voting Contact Donate Contact Mailing Address Friends of Vincent Miresse P.O.
+Box 458 Stevens Point, WI 54481 Contact Form Newsletter First Name Last Name Email Address Phone What can I help you with? – Select – I have a question I need a yard sign I’m interested in volunteering I’m interested in hosting a fundraising event Something Else Address Address Line 1 Address Line 2 Zip Code May we leave a yard sign at your home?
+Yes, please leave it outside my door Yes, please stake it in my yard No, I’d like to arrange pickup Message Submit vinnie@vinnieforassembly.com Donations can be sent to Friends of Vincent Miresse P.O.
+Box 458, Stevens Point, WI 54481 Paid for by Friends of Vincent Miresse Close Home Meet Vinnie 71st District Map Issues Endorsements Voting Contact Donate

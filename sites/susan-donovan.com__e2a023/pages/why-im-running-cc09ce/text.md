@@ -1,6 +1,4 @@
-“I hope you will join me in protecting this exceptional place we call home and work to make our community stronger and more resilient into the future.”
-A Message to My Constituents
-I want to continue to fight for families, our businesses and for seniors struggling to get by.
+Home Why I'm Running --A Message to My Constituents Biography Act Blue Donation Site Photo Gallery In the News Contact Join Endorsements Susan Donovan Home Why I'm Running --A Message to My Constituents Biography Act Blue Donation Site Photo Gallery In the News Contact Join Endorsements “I hope you will join me in protecting this exceptional place we call home and work to make our community stronger and more resilient into the future.” A Message to My Constituents I want to continue to fight for families, our businesses and for seniors struggling to get by.
 In these uncertain times we need our government to protect our access to affordable health care and our reprpoductive privacy.
 Our seniors deserve services that allow them to stay in their homes longer, and when they need specialized care, that care is in a well-funded facility with health workers that are well compensated.
 A quality education should not be a matter of zip code.
@@ -30,3 +28,4 @@ But more can be done to keep citizens safe such as passing a ban on future purch
 Science reveals that we are being impacted by sea level rise and intense, sustained rain events that lead to flash flooding.
 Rhode Islanders want their government to provide guidance using the latest scientific information, prepare for the problems and plan the solutions.But there is much work to do toward Rhode Island’s climate resiliency.
 I hope you will join me in protecting this exceptional place we call home and work to make our community stronger and more resilient into the future.
+Back to Top Paid for by the Friends of Susan Donovan © #

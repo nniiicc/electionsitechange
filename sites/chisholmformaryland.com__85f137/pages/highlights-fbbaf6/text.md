@@ -1,17 +1,5 @@
-Highlights
-Articles
-In The Press
-Read my past newsletters
-Check out some of my Podcasts!
-Condoms for Kindergartners
-Maryland Exit Tax
-Business Exit Tax
-Vending Machine Tax
-War on Cars
-Pages
-Campaign Contact Info
-Citizens for Brian Chisholm
-P.O.
-Box 1532
-Severna Park, MD 21146
-Brian@Chisholm4md.com
+Home Meet Brian Highlights Whats on the Line Connect Take Action Highlights Connect Highlights Articles “The budget crisis we now face was entirely predictable” Severna Park Voice Maryland Democrats “threaten to leave residents in the dark” Severna Park Voice “Our energy infrastructure is struggling to meet growing demands” Severna Park Voice We are committed to enhancing emergency services in the area Severna Park Voice Experts in the field of utilities warn about outages that could lead to extensive power failures and rolling brownouts.
+Capital Gazette In The Press Read my past newsletters State Budget End of Session Letter Check out some of my Podcasts!
+Condoms for Kindergartners Maryland Exit Tax Business Exit Tax Vending Machine Tax War on Cars See all Podcasts Pages Home Meet Brian Highlights Whats On the Line Connect Campaign Contact Info Citizens for Brian Chisholm P.O.
+Box 1532 Severna Park, MD 21146 Brian@Chisholm4md.com Check out my socials!
+Follow Follow Follow DONATE By Authority: Citizens for Brian Chisholm; Brian Crepeau - Treasurer Terms / Privacy Policy

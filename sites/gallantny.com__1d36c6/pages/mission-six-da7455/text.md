@@ -1,35 +1,21 @@
-Mission Six: Restoring Trust in Government
-Mission Six: Restoring Trust in Government
-Objective:
-Why This Matters:
-Americans are losing faith in Congress, and for good reason.
+Skip to content Chip in to support chris Instagram X-twitter Facebook-f Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop donate Mission Six: Restoring Trust in Government Mission Six: Restoring Trust in Government​ Objective: Restore trust in government by bringing transparency, accountability, and integrity back to Washington.
+Why This Matters: Americans are losing faith in Congress, and for good reason.
 Recent polling shows congressional disapproval has reached historic levels, with Gallup reporting disapproval at 86% in April 2026, tying a record high.
 RealClearPolling’s average from late April through late May 2026 also showed only 19.7% approval and 68.7% disapproval of Congress.
 That is not just a polling number.
 It is a warning sign.
 People feel like Washington is broken, politicians are looking out for themselves, and regular families are being left behind.
 Long Islanders deserve a representative who is accessible, honest, and accountable to the people of Congressional District 1.
-Congressional Action Plan:
-- Ban members of Congress from trading individual stocks while in office.
-- Increase transparency requirements so the public can see who is influencing legislation and how taxpayer dollars are being spent.
-- Strengthen ethics rules for members of Congress, senior officials, and federal agencies.
-- Support campaign finance reforms to reduce the influence of special interests and dark money in politics.
-- Hold government agencies accountable through stronger oversight, public reporting, and follow-through when agencies fail to serve the public.
-- Host monthly town halls across Congressional District 1, rotating throughout Suffolk County so residents from every community have the chance to ask questions, raise concerns, and hear directly from their representative.
-- Push for the responsible release of the Epstein files and related records, with full transparency for the public while protecting survivors, victims, minors, and sensitive personal information.
+Congressional Action Plan: Ban members of Congress from trading individual stocks while in office.
+Increase transparency requirements so the public can see who is influencing legislation and how taxpayer dollars are being spent.
+Strengthen ethics rules for members of Congress, senior officials, and federal agencies.
+Support campaign finance reforms to reduce the influence of special interests and dark money in politics.
+Hold government agencies accountable through stronger oversight, public reporting, and follow-through when agencies fail to serve the public.
+Host monthly town halls across Congressional District 1, rotating throughout Suffolk County so residents from every community have the chance to ask questions, raise concerns, and hear directly from their representative.
+Push for the responsible release of the Epstein files and related records, with full transparency for the public while protecting survivors, victims, minors, and sensitive personal information.
 Recent DOJ disclosures have emphasized the need to redact victim information and other private or sensitive materials, while survivor advocates have continued pushing for truth and accountability.
-- Demand transparency across government, whether it involves federal spending, ethics violations, agency failures, abuse of power, or information the public has a right to know.
-Mission Success Metrics:
-Greater transparency in Congress
-Reduced conflicts of interest
-Increased public trust
-Monthly town halls across the district
-Stronger ethics and accountability rules
-Less influence from dark money and special interests
-More responsive federal agencies
-Responsible release of public records while protecting victims
-Chris Gallant’s Commitment :
-Restoring trust starts with showing up.
+Demand transparency across government, whether it involves federal spending, ethics violations, agency failures, abuse of power, or information the public has a right to know.
+Mission Success Metrics: Greater transparency in Congress Reduced conflicts of interest Increased public trust Monthly town halls across the district Stronger ethics and accountability rules Less influence from dark money and special interests More responsive federal agencies Responsible release of public records while protecting victims Chris Gallant’s Commitment : Restoring trust starts with showing up.
 That means holding regular town halls, answering tough questions, and making sure every community in NY-01 has access to its representative, not just donors, lobbyists, or political insiders.
 It also means ending the culture of self-dealing in Washington.
 Members of Congress should not be using public office to enrich themselves through stock trading.
@@ -38,3 +24,8 @@ Public service should be about serving the people, not protecting the powerful.
 Chris Gallant believes Long Islanders deserve a government that is transparent, accountable, and worthy of their trust.
 In Congress, he will fight to ban congressional stock trading, strengthen ethics laws, support campaign finance reform, hold federal agencies accountable, and push for the release of records the public deserves to see, including the Epstein files, while ensuring victims and survivors are protected.
 The mission is simple: bring honesty, accountability, and public service back to Washington.
+This Campaign Needs You This race will be decided by the people who show up early.
+Whether you contribute, volunteer, or spread the word, you help power the campaign.
+Donate Volunteer Paid for by Gallant for Congress info@gallantny.com PO Box 574 Smithtown NY 11787 Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
+Use of fire department photographs in uniform does not constitute endorsement by the Copiague Fire Department.
+Privacy Policy | Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Donate Instagram Facebook-f X-twitter Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Donate Volunteer Instagram Facebook-f X-twitter Youtube

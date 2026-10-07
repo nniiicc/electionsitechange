@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://liishforduluth.com/education",
- "paid_for_by": "paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON\u00a9 2026",
- "title": "Education \u2014 Liish For Duluth",
- "years_mentioned": []
+ "fingerprint": "6a3eb68c5d81333833bff0433e7ebc83d74e2b6c",
+ "format": 3,
+ "paid_for_by": "paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON© 2026",
+ "title": "Education — Liish For Duluth",
+ "years_mentioned": [
+  "2026"
+ ]
 }

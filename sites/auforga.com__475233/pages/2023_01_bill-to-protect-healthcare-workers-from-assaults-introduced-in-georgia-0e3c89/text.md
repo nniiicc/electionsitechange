@@ -1,2 +1,7 @@
-By Doug Richards
-“Already in a high stress environment, we are already having a lot more burnout and people leaving our profession at a time when we are already vastly understaffed when it comes to health care workers,” said Au (D-Johns Creek), an anesthesiologist.
+Meet Michelle Priorities Economic Prosperity Public Safety Reproductive Rights Healthcare Education Voting Rights Voter Guide News Join #TeamAu DONATE Menu Menu Meet Michelle Priorities Economic Prosperity Public Safety Reproductive Rights Healthcare Education Voting Rights News Voter Guide Join #TeamAu Assaults on those in the health care field soared during the COVID-19 pandemic By Doug Richards “Already in a high stress environment, we are already having a lot more burnout and people leaving our profession at a time when we are already vastly understaffed when it comes to health care workers,” said Au (D-Johns Creek), an anesthesiologist.
+READ MORE Recent Posts Threat To Mail-In Ballots September 8, 2026 Special Session Recap June 29, 2026 Deep Dive into Next Week’s Redistricting Special Session June 8, 2026 Today is Sine Die!
+April 2, 2026 From operating room to the Gold Dome: How Georgia’s medical lawmakers shape policy March 23, 2026 Au for Georgia, Inc.
+5805 State Bridge Road, Suite G238 Johns Creek, Georgia 30097 michelle@auforga.com 770-405-9418 Site Map Meet Michelle Voter Guide In the News Join #TeamAu Privacy Policy Terms of Use © # Paid for by Au for Georgia, inc.
+Designed by Benton Creative .
+Link to: Georgia’s abortion law raises questions Georgia’s abortion law raises questions Link to: Gun safety storage bill gets hearing in Georgia legislature, a first since Atlanta spa shootings Gun safety storage bill gets hearing in Georgia legislature, a first since Atlanta...
+Scroll to top Scroll to top

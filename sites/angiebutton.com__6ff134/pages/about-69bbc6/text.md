@@ -1,5 +1,4 @@
-Meet Angie
-When communism took over China, Angie Chen Button’s parents were forced to flee to Taiwan because of persecution for their Christian faith.
+Toggle navigation Home Meet Angie Issues Volunteer Ask Angie Media Donate Meet Angie When communism took over China, Angie Chen Button’s parents were forced to flee to Taiwan because of persecution for their Christian faith.
 Angie grew up with her family of seven packed into a living space of only about 300 square feet made of bamboo and mud.
 Her parents sometimes struggled to make ends meet, but they gave Angie and her siblings a happy childhood.
 Angie’s parents instilled in her the importance of hard work, education, and not letting her present define her future.
@@ -19,3 +18,7 @@ The Young Women’s Christian Association awarded her the 100 Years 100 Women Aw
 In 2006, she earned the SMU Women Helping Women Maura Award and the Profile in Leadership Award for her work as a mentor and role model for tomorrow’s future women leaders.
 Girls Inc. honored Angie with the “She Knows Where She is Going” Award and the Southwest Jewish Congress granted her an “Inspiring Women of the Southwest” Award.
 Angie was featured in the Dallas Regional Chamber 2018 Women’s Business Conference “Practically Perfect” video series.
+Home Meet Angie Issues Volunteer Ask Angie Media Donate Pol.
+Adv.
+Paid for by Angie Chen Button Campaign POLITICAL DONATIONS ARE NOT TAX EXEMPT Angie Chen Button Campaign P.O.
+Box 832748 Richardson, TX 75083 (972) 763-5869 Privacy Policy

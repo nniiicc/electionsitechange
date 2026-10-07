@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.electdavidfabrikant.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "45d1ad7faeb41f61d91502c42272be749d773fea",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

@@ -1,10 +1,10 @@
-Press
-Becerra on facing Steve Hilton in November: "California will not be Trump's next casualty"
-LOS ANGELES, CA — With the Associated Press projecting a Becerra-Hilton general election matchup, Xavier Becerra today issued the following statement:
-“Last week, Californians sent a clear message: more than four million voters chose a different path than the one Steve Hilton and Donald Trump are offering.
+Contribute Now This is a break-glass moment – for our families, our neighbors, and folks all across our great state.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Contribute Volunteer About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Volunteer Contribute Press Becerra on facing Steve Hilton in November: "California will not be Trump's next casualty" June 9, 2026 LOS ANGELES, CA — With the Associated Press projecting a Becerra-Hilton general election matchup, Xavier Becerra today issued the following statement: “Last week, Californians sent a clear message: more than four million voters chose a different path than the one Steve Hilton and Donald Trump are offering.
 That’s the mandate I’ll carry into November.
 “Here’s what we’re fighting for: a California where every child gets a great education, every family can afford a home, and no one loses their health care because of where they were born or how much money they have.
 This November, voters will choose between a governor who will fight for that future and one who would hand Sacramento to Donald Trump.
 California will not be his next casualty.
 “Whoever you voted for on June 2nd, whatever party you belong to — I want to earn your support.
-Every Californian deserves a governor who answers to them, not Washington D.C.”
+Every Californian deserves a governor who answers to them, not Washington D.C.” Contribute Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other OR Volunteer About Issues Take Action News Room Store Privacy Policy Paid for by Becerra for Governor 2026

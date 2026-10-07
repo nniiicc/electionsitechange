@@ -1,40 +1,218 @@
 [
-"http://pushdigital.com/",
-"https://facebook.com/TomColeForCongress",
-"https://tomcoleforcongress.com/",
-"https://tomcoleforcongress.com/about-tom",
-"https://tomcoleforcongress.com/about-tom/about-the-district",
-"https://tomcoleforcongress.com/about-tom/press-packet",
-"https://tomcoleforcongress.com/breaking-president-trump-endorses-congressman-tom-cole",
-"https://tomcoleforcongress.com/category/icymi",
-"https://tomcoleforcongress.com/category/news-room",
-"https://tomcoleforcongress.com/category/news-room/page/3",
-"https://tomcoleforcongress.com/cole-announces-reelection-campaign",
-"https://tomcoleforcongress.com/cole-promises-made-promises-kept",
-"https://tomcoleforcongress.com/connect",
-"https://tomcoleforcongress.com/icymi-america-and-the-global-pandemic-response",
-"https://tomcoleforcongress.com/issues",
-"https://tomcoleforcongress.com/issues/debt-and-spending",
-"https://tomcoleforcongress.com/issues/energyindependence",
-"https://tomcoleforcongress.com/issues/growing-the-economy",
-"https://tomcoleforcongress.com/issues/protecting-our-military-installations",
-"https://tomcoleforcongress.com/issues/protecting-the-unborn",
-"https://tomcoleforcongress.com/issues/securingourborder",
-"https://tomcoleforcongress.com/issues/taxes",
-"https://tomcoleforcongress.com/issues/veterans",
-"https://tomcoleforcongress.com/news",
-"https://tomcoleforcongress.com/pbs-news-hour-tom-cole-on-the-2020-rnc",
-"https://tomcoleforcongress.com/privacy-policy",
-"https://tomcoleforcongress.com/tom-cole-announces-for-re-election",
-"https://tomcoleforcongress.com/tom-cole-announces-run-for-reelection",
-"https://tomcoleforcongress.com/tom-cole-is-endorsed-by-the-republican-jewish-coalition",
-"https://tomcoleforcongress.com/tom-cole-is-endorsed-by-the-state-chamber-of-oklahoma-pac",
-"https://tomcoleforcongress.com/tom-cole-wins-oklahomas-fourth-district-2020-general-election",
-"https://tomcoleforcongress.com/tom-cole-wins-oklahomas-fourth-district-republican-primary",
-"https://tomcoleforcongress.com/tom-cole-wins-republican-primary-in-oklahomas-fourth-district",
-"https://tomcoleforcongress.com/trump-campaign-announces-top-surrogates-for-tulsa-rally",
-"https://tomcoleforcongress.com/trump-endorses-tom-cole-for-oklahomas-fourth-district",
-"https://tomcoleforcongress.com/trump-endorses-tom-cole-for-reelection-for-oklahomas-fourth-district",
-"https://trailblz.info/ColeTom/Donations.aspx",
-"https://twitter.com/ColeForCongress"
+{
+"text": "1",
+"href": "https://tomcoleforcongress.com/category/news-room/"
+},
+{
+"text": "3",
+"href": "https://tomcoleforcongress.com/category/news-room/page/3/"
+},
+{
+"text": "About Tom",
+"href": "https://tomcoleforcongress.com/about-tom/"
+},
+{
+"text": "About the District",
+"href": "https://tomcoleforcongress.com/about-tom/about-the-district/"
+},
+{
+"text": "All Issues",
+"href": "https://tomcoleforcongress.com/issues/"
+},
+{
+"text": "American Energy Independence",
+"href": "https://tomcoleforcongress.com/issues/energyindependence/"
+},
+{
+"text": "Breaking: President Trump Endorses Congressman Tom Cole",
+"href": "https://tomcoleforcongress.com/breaking-president-trump-endorses-congressman-tom-cole/"
+},
+{
+"text": "Cole Announces Reelection Campaign",
+"href": "https://tomcoleforcongress.com/cole-announces-reelection-campaign/"
+},
+{
+"text": "Cole: Promises Made, Promises Kept",
+"href": "https://tomcoleforcongress.com/cole-promises-made-promises-kept/"
+},
+{
+"text": "Connect",
+"href": "https://tomcoleforcongress.com/connect/"
+},
+{
+"text": "Debt and Spending",
+"href": "https://tomcoleforcongress.com/issues/debt-and-spending/"
+},
+{
+"text": "Donate",
+"href": "https://www.trailblz.info/ColeTom/Donations.aspx"
+},
+{
+"text": "Growing the Economy",
+"href": "https://tomcoleforcongress.com/issues/growing-the-economy/"
+},
+{
+"text": "ICYMI",
+"href": "https://tomcoleforcongress.com/category/icymi/"
+},
+{
+"text": "ICYMI: America and the Global Pandemic Response",
+"href": "https://tomcoleforcongress.com/icymi-america-and-the-global-pandemic-response/"
+},
+{
+"text": "National Security",
+"href": "https://tomcoleforcongress.com/issues/taxes/"
+},
+{
+"text": "News Room",
+"href": "https://tomcoleforcongress.com/category/news-room/"
+},
+{
+"text": "News Room",
+"href": "https://tomcoleforcongress.com/news/"
+},
+{
+"text": "Next",
+"href": "https://tomcoleforcongress.com/category/news-room/page/3/"
+},
+{
+"text": "On The Issues",
+"href": "https://tomcoleforcongress.com/issues/"
+},
+{
+"text": "PBS News Hour: Tom Cole On The 2020 RNC",
+"href": "https://tomcoleforcongress.com/pbs-news-hour-tom-cole-on-the-2020-rnc/"
+},
+{
+"text": "Preserving our Second Amendment",
+"href": "https://tomcoleforcongress.com/issues/protecting-our-military-installations/"
+},
+{
+"text": "Press Packet",
+"href": "https://tomcoleforcongress.com/about-tom/press-packet/"
+},
+{
+"text": "Previous",
+"href": "https://tomcoleforcongress.com/category/news-room/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tomcoleforcongress.com/privacy-policy/"
+},
+{
+"text": "Protecting the Unborn",
+"href": "https://tomcoleforcongress.com/issues/protecting-the-unborn/"
+},
+{
+"text": "Push Digital",
+"href": "http://pushdigital.com/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/cole-announces-reelection-campaign/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/icymi-america-and-the-global-pandemic-response/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/pbs-news-hour-tom-cole-on-the-2020-rnc/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/tom-cole-announces-run-for-reelection/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/tom-cole-wins-oklahomas-fourth-district-2020-general-election/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/tom-cole-wins-oklahomas-fourth-district-republican-primary/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/tom-cole-wins-republican-primary-in-oklahomas-fourth-district/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/trump-campaign-announces-top-surrogates-for-tulsa-rally/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/trump-endorses-tom-cole-for-oklahomas-fourth-district/"
+},
+{
+"text": "Read More",
+"href": "https://tomcoleforcongress.com/trump-endorses-tom-cole-for-reelection-for-oklahomas-fourth-district/"
+},
+{
+"text": "Securing Our Border",
+"href": "https://tomcoleforcongress.com/issues/securingourborder/"
+},
+{
+"text": "Tom Cole",
+"href": "https://tomcoleforcongress.com/"
+},
+{
+"text": "Tom Cole Announces For Re-Election",
+"href": "https://tomcoleforcongress.com/tom-cole-announces-for-re-election/"
+},
+{
+"text": "Tom Cole Announces Run For Reelection",
+"href": "https://tomcoleforcongress.com/tom-cole-announces-run-for-reelection/"
+},
+{
+"text": "Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC",
+"href": "https://tomcoleforcongress.com/tom-cole-is-endorsed-by-the-state-chamber-of-oklahoma-pac/"
+},
+{
+"text": "Tom Cole Is Endorsed By the Republican Jewish Coalition",
+"href": "https://tomcoleforcongress.com/tom-cole-is-endorsed-by-the-republican-jewish-coalition/"
+},
+{
+"text": "Tom Cole Wins Oklahoma’s Fourth District 2020 General Election",
+"href": "https://tomcoleforcongress.com/tom-cole-wins-oklahomas-fourth-district-2020-general-election/"
+},
+{
+"text": "Tom Cole Wins Oklahoma’s Fourth District Republican Primary",
+"href": "https://tomcoleforcongress.com/tom-cole-wins-oklahomas-fourth-district-republican-primary/"
+},
+{
+"text": "Tom Cole Wins Republican Primary In Oklahoma’s Fourth District",
+"href": "https://tomcoleforcongress.com/tom-cole-wins-republican-primary-in-oklahomas-fourth-district/"
+},
+{
+"text": "Trump Campaign Announces Top Surrogates for Tulsa Rally",
+"href": "https://tomcoleforcongress.com/trump-campaign-announces-top-surrogates-for-tulsa-rally/"
+},
+{
+"text": "Trump Endorses Tom Cole For Reelection For Oklahoma’s Fourth District",
+"href": "https://tomcoleforcongress.com/trump-endorses-tom-cole-for-reelection-for-oklahomas-fourth-district/"
+},
+{
+"text": "Trump Endorses Tom Cole for Oklahoma’s Fourth District",
+"href": "https://tomcoleforcongress.com/trump-endorses-tom-cole-for-oklahomas-fourth-district/"
+},
+{
+"text": "Veterans",
+"href": "https://tomcoleforcongress.com/issues/veterans/"
+},
+{
+"text": "[image: Tom Cole U.S. Congress]",
+"href": "https://tomcoleforcongress.com/"
+},
+{
+"text": "[image: Tom Cole]",
+"href": "https://tomcoleforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ColeForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TomColeForCongress"
+}
 ]

@@ -1,10 +1,10 @@
-As I campaign throughout the 28th Senatorial District, at times I am asked “Why are you running for state senate?” I want to answer that question for all of the voters.
+Skip to content Kristin Phillips-Hill for State Senate Kristin Phillips-Hill for State Senate Home Meet Kristin Issues Join Kristin’s Team Contact Donate Facebook page opens in new window Home Meet Kristin Issues Join Kristin’s Team Contact Donate Kristin Shares Why She is Running for State Senate As I campaign throughout the 28 th Senatorial District, at times I am asked “Why are you running for state senate?” I want to answer that question for all of the voters.
 I am running for this position to continue to work to end business as usual in Harrisburg by providing a strong voice for fiscal responsibility and common-sense political reform.
-I have an unmatched record, and want to build on the work we began in the House by challenging the status quo, and leading and shaping an agenda in the Senate that:
-- assures fiscal discipline, limited government, and personal responsibility
-- delivers high quality government in a responsible manner that efficiently and effectively meets the needs of the people
-- puts people over politics by ensuring that government works for the people, not the politicians
-Grateful for the support of so many of my constituents, I pledge to you that I will listen to you, work hard for you, and bring my passion, drive and determination to represent the people of the 28th Senatorial District.
+I have an unmatched record, and want to build on the work we began in the House by challenging the status quo, and leading and shaping an agenda in the Senate that: assures fiscal discipline, limited government, and personal responsibility delivers high quality government in a responsible manner that efficiently and effectively meets the needs of the people puts people over politics by ensuring that government works for the people, not the politicians Grateful for the support of so many of my constituents, I pledge to you that I will listen to you, work hard for you, and bring my passion, drive and determination to represent the people of the 28 th Senatorial District.
 Mark your calendar for May 15, 2018—I would appreciate your vote.
-Please consider joining our campaign team by visiting www.kristin2018.com.
-Help us by volunteering, or making a donation at http://kristin2018.com/donate/
+Please consider joining our campaign team by visiting www.kristin2018.com .
+Help us by volunteering, or making a donation at http://kristin2018.com/donate/ Join the Team Help elect Kristin to the State Senate.
+Stay Informed Subscribe to Kristin’s newsletter.
+Donate Contribute to Kristin’s campaign.
+Recent Posts A Special THANK YOU from Kristin Phillips-Hill smashes petition signature requirement to get on ballot PHILLIPS-HILL TO SEEK RE-ELECTION FOR SECOND TERM TO STATE SENATE Phillips-Hill: Full Potential Not Realized in Full Year 18-19 Budget Lunch at the Farm with Kristin Archives March 2022 June 2018 April 2018 August 2017 Important Information Find Your Polling Place Register to Vote Apply for an Absentee Ballot Follow Me on Facebook Facebook PAID FOR BY FRIENDS OF KRISTIN PHILLIPS-HILL Site content ©# Friends of Kristin Phillips-Hill.
+Go to Top

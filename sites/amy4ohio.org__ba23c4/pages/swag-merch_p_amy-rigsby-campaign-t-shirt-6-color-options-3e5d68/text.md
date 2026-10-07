@@ -1,31 +1,9 @@
-Amy Rigsby Campaign T-Shirt (6 Color Options)
-| | S | M | L | XL | 2XL | 3XL | 4XL |
-|---|---|---|---|---|---|---|---|
-| Width, in | 18.25 | 20.25 | 22.00 | 24.00 | 26.00 | 27.75 | 29.75 |
-| Length, in | 26.62 | 28.00 | 29.37 | 30.75 | 31.62 | 32.50 | 33.50 |
-| Sleeve length from center back, in | 16.25 | 17.75 | 19.00 | 20.50 | 21.75 | 23.25 | 24.63 |
-| Size tolerance, in | 1.50 | 1.50 | 1.50 | 1.50 | 1.50 | 1.50 | 1.50 |
-Comfort Colors introduces the “Comfort Colors 1717” garment-dyed t-shirt; a fully customizable tee made with 100% ring-spun cotton.
+0 Skip to Content Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu About Contact Donate Topics Voter Info Swag & Merch Swag & Merch › Amy Rigsby Campaign T-Shirt (6 Color Options) Image 1 of 43 Image 2 of 43 Image 3 of 43 Image 4 of 43 Image 5 of 43 Image 6 of 43 Image 7 of 43 Image 8 of 43 Image 9 of 43 Image 10 of 43 Image 11 of 43 Image 12 of 43 Image 13 of 43 Image 14 of 43 Image 15 of 43 Image 16 of 43 Image 17 of 43 Image 18 of 43 Image 19 of 43 Image 20 of 43 Image 21 of 43 Image 22 of 43 Image 23 of 43 Image 24 of 43 Image 25 of 43 Image 26 of 43 Image 27 of 43 Image 28 of 43 Image 29 of 43 Image 30 of 43 Image 31 of 43 Image 32 of 43 Image 33 of 43 Image 34 of 43 Image 35 of 43 Image 36 of 43 Image 37 of 43 Image 38 of 43 Image 39 of 43 Image 40 of 43 Image 41 of 43 Image 42 of 43 Image 43 of 43 Amy Rigsby Campaign T-Shirt (6 Color Options) from $21.19 S M L XL 2XL 3XL 4XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 29.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 33.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 24.63 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Comfort Colors introduces the “Comfort Colors 1717” garment-dyed t-shirt; a fully customizable tee made with 100% ring-spun cotton.
 The soft-washed, garment-dyed fabric brings extra coziness to your wardrobe while the relaxed fit makes it an excellent daily choice.
 The double-needle stitching throughout the tee makes it highly durable, while the lack of side seams helps the shirt retain its tubular shape.
-Discover all 58 colors in our charts below.
-.: Heavyweight fabric (6.1 oz/yd² (206.8 g/m²))
-.: Relaxed fit
-.: Pre-shrunk 100% ring-spun US cotton
-.: Available in 6 colors
-.: Sewn-in label
-| | S | M | L | XL | 2XL | 3XL | 4XL |
-|---|---|---|---|---|---|---|---|
-| Width, in | 18.25 | 20.25 | 22.00 | 24.00 | 26.00 | 27.75 | 29.75 |
-| Length, in | 26.62 | 28.00 | 29.37 | 30.75 | 31.62 | 32.50 | 33.50 |
-| Sleeve length from center back, in | 16.25 | 17.75 | 19.00 | 20.50 | 21.75 | 23.25 | 24.63 |
-| Size tolerance, in | 1.50 | 1.50 | 1.50 | 1.50 | 1.50 | 1.50 | 1.50 |
-Comfort Colors introduces the “Comfort Colors 1717” garment-dyed t-shirt; a fully customizable tee made with 100% ring-spun cotton.
+Discover all 58 colors in our charts below. .: Heavyweight fabric (6.1 oz/yd² (206.8 g/m²)) .: Relaxed fit .: Pre-shrunk 100% ring-spun US cotton .: Available in 6 colors .: Sewn-in label Color: Select Color Black White Granite Chambray Crimson Sage Size: Select Size S M L XL 2XL 3XL 4XL Add To Cart Added!
+S M L XL 2XL 3XL 4XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 29.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 33.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 24.63 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Comfort Colors introduces the “Comfort Colors 1717” garment-dyed t-shirt; a fully customizable tee made with 100% ring-spun cotton.
 The soft-washed, garment-dyed fabric brings extra coziness to your wardrobe while the relaxed fit makes it an excellent daily choice.
 The double-needle stitching throughout the tee makes it highly durable, while the lack of side seams helps the shirt retain its tubular shape.
-Discover all 58 colors in our charts below.
-.: Heavyweight fabric (6.1 oz/yd² (206.8 g/m²))
-.: Relaxed fit
-.: Pre-shrunk 100% ring-spun US cotton
-.: Available in 6 colors
-.: Sewn-in label
+Discover all 58 colors in our charts below. .: Heavyweight fabric (6.1 oz/yd² (206.8 g/m²)) .: Relaxed fit .: Pre-shrunk 100% ring-spun US cotton .: Available in 6 colors .: Sewn-in label Rigsby 4 Representative Paid for by Friends of Amy Rigsby Location: Fairfield, Licking, & Perry Counties, Ohio Contact: AmyR4Ohio@gmail.com Send Donation Checks to: Friends of Amy Rigsby, P.O.
+Box 43, Amanda, OH 43102

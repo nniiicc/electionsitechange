@@ -1,6 +1,22 @@
 [
-"https://jahanahayes.com/",
-"https://jahanahayes.com/contact",
-"https://jahanahayes.com/privacy-policy",
-"https://middleseat.co/"
+{
+"text": "Contact",
+"href": "https://jahanahayes.com/contact"
+},
+{
+"text": "Jahana Hayes for Congress – Leaving no one behind.",
+"href": "https://jahanahayes.com"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jahanahayes.com/privacy-policy/"
+},
+{
+"text": "info@jahanahayes.com",
+"href": "mailto:info@jahanahayes.com"
+}
 ]

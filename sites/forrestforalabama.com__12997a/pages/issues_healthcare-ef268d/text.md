@@ -1,10 +1,10 @@
-Healthcare
+Skip to main content About Issues Vote News Events Contact Shop Donate Volunteer Volunteer Donate Healthcare We're caught in a healthcare death spiral.
 One system.
 No competition.
 No federal antitrust review.
 No full legal recourse if a patient is harmed.
 This is how it works, and this is what we're building to break it.
-How it works
+How it works Start with the system, not the symptom.
 When Huntsville Hospital closed its roughly $450 million acquisition of Crestwood Medical Center on April 1, 2026, it took over the last hospital in this region it did not already own.
 Health policy reporters described the result as a de facto monopoly on inpatient care.
 There is no existing competitor left to fill the gap, and Alabama's Certificate of Need laws make it nearly impossible for a new one to enter.
@@ -13,8 +13,9 @@ It's a structural one.
 When one system controls the market, it controls four things at once: what you pay, what you get, where you can work, and what recourse you have.
 Each of those tightens because of the same root cause.
 The competitive force that normally restrains them is gone.
-Patients.
-The federal Department of Health and Human Services' review of the research finds a single significant merger raises prices in concentrated markets by anywhere from 6% to 65%.
+Who pays Patients.
+In our part of Madison County, a real emergency can already mean thirty minutes to the ER, hours of waiting, then a two-hour transfer to Birmingham or Nashville.
+Research on hospital mergers finds they raise prices, most of all when the merging hospitals were direct competitors.
 Those increases pass through, close to dollar-for-dollar, into insurance premiums.
 After this acquisition, families in Hazel Green, Meridianville, Moores Mill, and downtown Huntsville no longer have a meaningful choice if their care is poor, their bill is wrong, or their specialist is unavailable.
 And the hospital's public-authority structure positions it to argue for governmental damages limits a private hospital could not invoke, including the statutory $100,000 cap under Alabama Code § 11-93-2.
@@ -33,22 +34,28 @@ Employers.
 Higher hospital prices raise the cost of every employer's health plan.
 Yale/Chicago/Treasury research on comparable mergers found that the average one costs its surrounding community roughly 203 jobs at non-healthcare employers, $32 million in forgone wages, and $42 million in total aggregate harm.
 Taxpayers and the public.
-A consolidated system in Madison County operates on nearly $3 billion in untaxed annual revenue, holds $1.8 billion in net assets, and is shielded from federal antitrust enforcement by §22-21-318, exempt from the Alabama Ethics Act by §22-21-334, and exempt from competitive-bid rules by §22-21-335.
-Huntsville Hospital is not a conventional nonprofit.
-It is a public authority, the Health Care Authority of the City of Huntsville, whose board is appointed by the Huntsville City Council and which operates as a political subdivision of the State of Alabama.
+A consolidated system in Madison County operates on nearly $3 billion in annual revenue that is exempt from income and property taxes, holds $1.8 billion in net assets, and is shielded from federal antitrust enforcement by §22-21-318, exempt from the Alabama Ethics Act by §22-21-334, and exempt from competitive-bid rules by §22-21-335.
+Why “nonprofit” doesn't solve the problem Huntsville Hospital is not a conventional nonprofit.
+It is a public authority , the Health Care Authority of the City of Huntsville, whose board is appointed by the Huntsville City Council and which operates as a political subdivision of the State of Alabama.
 That structure comes with three legal protections a private nonprofit would not have: express antitrust immunity under state law, exemption from the Ethics Act, and exemption from competitive-bid laws.
 Nonprofit status doesn't restrain monopoly behavior.
 The legal structure of this particular nonprofit actively enables it.
-- Legislative review of the merger and the antitrust immunity that enabled it.
+What we're building Legislative review of the merger and the antitrust immunity that enabled it.
 The Alabama Legislature should examine §22-21-318 directly and consider repeal or narrowing.
-- Reform of Alabama's Certificate of Need program so new healthcare competitors can actually enter the market.
-- Public financial disclosure for health care authorities, the same Form 990-equivalent transparency that private nonprofits provide.
-- Repeal the Ethics Act and competitive-bid exemptions for health care authorities.
+Reform of Alabama's Certificate of Need program so new healthcare competitors can actually enter the market.
+Public financial disclosure for health care authorities , the same Form 990-equivalent transparency that private nonprofits provide.
+Repeal the Ethics Act and competitive-bid exemptions for health care authorities.
 Public officials should follow public-official rules.
-- Settle the malpractice-damages question for health care authorities so patients know where they stand before they need to.
+Settle the malpractice-damages question for health care authorities so patients know where they stand before they need to.
 A patient's right to recover for a negligent injury should not turn on the legal structure of the hospital that injured them.
+Close the Medicaid coverage gap.
+About 92,000 Alabamians are in it.
+Whatever structure can pass, the goal is getting them covered.
 Whether by passing legislation or organizing the community, these next four years progress will be made one way or another.
-Take action
+Read the full hospital merger brief → Read how Certificate of Need keeps new hospitals out → Take action Build the campaign with us.
 Donate, volunteer, or request a yard sign.
 Every dollar funds a door knocked.
 Every hour makes a story heard.
+Donate Volunteer Request Yard Sign Focused on problems, not politics. candidate@forrestforalabama.com ‪(256) 384-4931‬ Paid for by Forrest Via Satterfield 740 SW Constellation Pl Dr, Apt.
+202, Huntsville, AL 35801 Get Involved Volunteer, Donate, or Connect with Forrest.
+Connect Menu Home About Issues Vote News Events Contact Shop Donate Volunteer Privacy Policy

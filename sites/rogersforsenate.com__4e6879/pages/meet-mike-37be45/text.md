@@ -1,5 +1,4 @@
-MEET MIKE
-Service, that is what has defined the life of Mike Rogers.
+0 Skip to Content MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE MEET MIKE Service, that is what has defined the life of Mike Rogers.
 Mike was born and raised in Livingston County, Michigan.
 His parents were leaders in the community, his dad was a teacher, a coach, and a vice principal, and his mother led the local chamber of commerce, fighting for small businesses.
 After graduating from Howell High School and Adrian College, Mike began his service to the American people as a lieutenant in the United States Army.
@@ -26,3 +25,9 @@ Mike’s daughter served in AmeriCorps after college, helping armed service memb
 His son, the 4th generation of the Rogers family to serve in the U.S. military, is a graduate of the United States Naval Academy and is currently serving as an officer in the U.S.
 Navy.
 Mike Rogers has always answered the call to serve, and he is ready to serve Michigan in the United States Senate.
+CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Box 132 St.
+Joseph, MI 49085 Mike Rogers is a former member of the U.S.
+Army.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement of the United States Army or the Department of Defense.
+Paid for by Rogers for Senate © # Rogers for Senate Privacy Policy | Notice at Collection of Personal Information | Do Not Sell My Personal Information

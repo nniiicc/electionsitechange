@@ -1,14 +1,94 @@
 [
-"https://facebook.com/stevescalise",
-"https://instagram.com/geauxscalise",
-"https://secure.anedot.com/scalise-for-congress/website",
-"https://secure.anedot.com/scalise-for-congress/website?amount=10",
-"https://secure.anedot.com/scalise-for-congress/website?amount=25",
-"https://secure.anedot.com/scalise-for-congress/website?amount=50",
-"https://stevescalise.com/",
-"https://stevescalise.com/meet-steve",
-"https://stevescalise.com/privacy-policy",
-"https://stevescalise.com/take-action",
-"https://stevescalise.com/your-priorities",
-"https://twitter.com/stevescalisegop"
+{
+"text": "$10.00",
+"href": "https://secure.anedot.com/scalise-for-congress/website/?amount=10"
+},
+{
+"text": "$25.00",
+"href": "https://secure.anedot.com/scalise-for-congress/website/?amount=25"
+},
+{
+"text": "$50.00",
+"href": "https://secure.anedot.com/scalise-for-congress/website/?amount=50"
+},
+{
+"text": "BUILDING THE WALL",
+"href": "https://stevescalise.com/your-priorities/"
+},
+{
+"text": "CREATING JOBS",
+"href": "https://stevescalise.com/your-priorities/"
+},
+{
+"text": "CUTTING SPENDING",
+"href": "https://stevescalise.com/your-priorities/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/scalise-for-congress/website"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/scalise-for-congress/website/"
+},
+{
+"text": "DRAINING THE SWAMP",
+"href": "https://stevescalise.com/your-priorities/"
+},
+{
+"text": "FIXING HEALTHCARE",
+"href": "https://stevescalise.com/your-priorities/"
+},
+{
+"text": "Home",
+"href": "https://stevescalise.com/"
+},
+{
+"text": "Learn more",
+"href": "https://stevescalise.com/meet-steve/"
+},
+{
+"text": "MAKING AMERICA SAFE",
+"href": "https://stevescalise.com/your-priorities/"
+},
+{
+"text": "Meet Steve",
+"href": "https://stevescalise.com/meet-steve/"
+},
+{
+"text": "Privacy policy",
+"href": "https://stevescalise.com/privacy-policy/"
+},
+{
+"text": "Take Action",
+"href": "https://stevescalise.com/take-action/"
+},
+{
+"text": "Take the survey",
+"href": "https://stevescalise.com/your-priorities/"
+},
+{
+"text": "Your Priorities",
+"href": "https://stevescalise.com/your-priorities/"
+},
+{
+"text": "[no text]",
+"href": "https://stevescalise.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stevescalisegop"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/stevescalise"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/geauxscalise"
+},
+{
+"text": "info@stevescalise.com",
+"href": "mailto:info@stevescalise.com"
+}
 ]

@@ -1,6 +1,4 @@
-An Update From Under the Gold Dome: Week Four
-Friday, February 03, 2023
-As the fourth week of the 2023 session winds down to a close, the Senate has a number of accomplishments we can build upon to continue a productive session.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back An Update From Under the Gold Dome: Week Four Friday, February 03, 2023 As the fourth week of the 2023 session winds down to a close, the Senate has a number of accomplishments we can build upon to continue a productive session.
 Not only did committees get down to work and begin the process of assessing assigned pieces of legislation, we also passed our first measure on the Senate floor.
 Tuesday, the Senate Committee on Public Safety held its first committee meeting of the session.
 As Chairman, we wasted no time getting right to work and quickly passed Senate Bill 11, known as the “Georgia Fights Terrorism Act.” Over the last few years, the jobs of our public safety officers has grown increasingly more difficult and complex and the issues we ask them to take on have an increased potential to turn violent.
@@ -32,8 +30,7 @@ I am proud of all she has accomplished in such a relatively short political care
 Next week, we expect discussions around the budget to increase as HB 18 makes its way through the final stages in the House.
 As Chairman of the Senate Appropriations Subcommittee on Criminal Justice and Public Safety, I look forward to examining in detail any budgetary items specifically related to these subject areas.
 If you have any questions about any legislation under consideration to this point, please do not hesitate to reach out to my office.
-# # # #
-Sen.
+# # # # Sen.
 John Albers serves as Chairman of the Senate Committee on Public Safety.
-He represents the 56th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
+He represents the 56 th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
+He may be reached at his office at 404.463.8055 or by email at [email protected] Senator John Albers GA DISTRICT 56 Privacy Policy

@@ -1,9 +1,7 @@
-The Rich Aren't Getting Richer Because They Work Hard.
+0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate Campaign Statement The Rich Aren't Getting Richer Because They Work Hard.
 They're Getting Rich Because We Do.
-September 22, 2026
-New York, NY — A report by the New York City Comptroller has found that income inequality is even worse than it was during the pandemic.
-Andre Easton, Bronx teacher, father, and socialist candidate running for New York's 15th Congressional District, issued the following statement in response:
-“Since 2019, the richest 0.1% of NYC took more than half of all the city's income growth.
+September 22, 2026 New York, NY — A report by the New York City Comptroller has found that income inequality is even worse than it was during the pandemic.
+Andre Easton, Bronx teacher, father, and socialist candidate running for New York's 15th Congressional District, issued the following statement in response: “Since 2019, the richest 0.1% of NYC took more than half of all the city's income growth.
 For the bottom 90%, our real incomes fell by 3.2%.
 Prices rose faster than our paychecks.
 “How is the wealth at the very top growing so fast?
@@ -32,4 +30,4 @@ He's a symptom.
 Both the Democratic and Republican parties answer to their billionaire donors before working people.
 The billionaires have two parties.
 It's time working people had one of our own.
-Learn more about my proudly independent, socialist campaign for the Bronx: http://andreforthebronx.nyc/platform
+Learn more about my proudly independent, socialist campaign for the Bronx: http://andreforthebronx.nyc/platform info@andreforthebronx.nyc PAID FOR BY ANDRE EASTON FOR CONGRESS 2026

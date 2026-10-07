@@ -1,7 +1,9 @@
 {
  "description": "Log In",
  "final_url": "https://krisfair.com/signin?backTo=%2Flearn",
- "paid_for_by": null,
+ "fingerprint": "b0f11ece9df7580fa2599f124f86372cbe11d345",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Log In",
  "years_mentioned": []
 }

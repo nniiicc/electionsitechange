@@ -1,5 +1,4 @@
-About Heather
-Hi, I’m Heather Holmes.
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact About Heather Hi, I’m Heather Holmes.
 I’m a mom, a scientist, a former school board member, and a proud resident of Byron.
 I’m running for the Minnesota House because I’m tired of seeing rural communities like ours treated like an afterthought while the well-connected get all the attention.
 I grew up along the shores of Lake Superior in northern Wisconsin, and I’ve called southeastern Minnesota home since 2006.
@@ -13,12 +12,9 @@ Serving the community isn’t just a job — it’s who we are.
 I’m running to bring that same commitment to service, common sense, and community to the Capitol.
 This isn’t about chasing headlines or climbing a political ladder—it’s about showing up, doing the work, and making sure the people of District 24A have a voice that actually reflects who we are.
 Together, we can make sure our towns have the resources, respect, and representation we deserve.
-What Drives Me
-Family Comes First
-Everything I do starts with the same commitment I bring to my own home: show up, do your part, and take care of the people around you.
+What Drives Me Family Comes First Everything I do starts with the same commitment I bring to my own home: show up, do your part, and take care of the people around you.
 Whether it’s raising a child, serving on the school board, or supporting my husband’s time volunteering as a firefighter—public service isn’t a slogan in our house, it’s a way of life.
-Economic Security Is Non-Negotiable
-No one should have to work two jobs and still fall behind.
+Economic Security Is Non-Negotiable No one should have to work two jobs and still fall behind.
 From childcare to housing to healthcare, I believe our policies should make it easier for working families to get ahead—not harder.
 We need to rebuild a system that rewards work, values local business, and puts rural Minnesota first.
 Show Up.
@@ -28,3 +24,5 @@ People are tired of political games.
 I believe in straight talk, showing up where people are, and getting things done.
 That’s how I served on the school board, and that’s exactly how I’ll serve in the House.
 Politics should be about results, not grandstanding.
+Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

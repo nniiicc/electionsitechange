@@ -1,25 +1,98 @@
 [
-"https://amp.kansas.com/news/politics-government/election/article316749548.html",
-"https://communityvoiceks.com/2026/08/10/katy-tyndell-wins-democratic-primary-4th-congressional-district",
-"https://facebook.com/katyforkansas",
-"https://google.com/maps/search?api=1&query=7803+E+Osie+St+Suite+110+Wichita+KS+67207",
-"https://instagram.com/katyforkansas",
-"https://kansas.com/news/business/aviation/article317160001.html",
-"https://kansascity.com/opinion/readers-opinion/guest-commentary/article315328861.html",
-"https://kansasreflector.com/2026/03/30/people-are-hurting-kansas-democrat-takes-aim-at-republican-incumbents-congressional-seat",
-"https://katyforkansas.com/",
-"https://katyforkansas.com/events",
-"https://katyforkansas.com/in-the-news",
-"https://katyforkansas.com/issues",
-"https://katyforkansas.com/privacy-policy",
-"https://katyforkansas.com/vote",
-"https://katyforkansas.substack.com/",
-"https://kineticstrategies.us/",
-"https://kwch.com/2026/07/18/kansas-4th-district-democratic-primary-narrows-two-candidates",
-"https://secure.actblue.com/donate/tyndell_web",
-"https://store.katyforkansas.com/",
-"https://thesunflower.com/108270/opinion/letter-to-the-editor-voting-rights-and-the-fierce-urgency-of-now",
-"https://tiktok.com/@katyforkansas",
-"https://wellingtondailynews.com/tyndell-brings-message-of-community-2",
-"https://youtube.com/@KatyforKansas"
+{
+"text": "7803 E Osie St, Suite 110 Wichita, KS 67207",
+"href": "https://www.google.com/maps/search/?api=1&query=7803+E+Osie+St+Suite+110+Wichita+KS+67207"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tyndell_web"
+},
+{
+"text": "Events",
+"href": "https://katyforkansas.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/katyforkansas/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/katyforkansas/"
+},
+{
+"text": "Issues",
+"href": "https://katyforkansas.com/issues/"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "News",
+"href": "https://katyforkansas.com/in-the-news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://katyforkansas.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://amp.kansas.com/news/politics-government/election/article316749548.html"
+},
+{
+"text": "Read More",
+"href": "https://kansasreflector.com/2026/03/30/people-are-hurting-kansas-democrat-takes-aim-at-republican-incumbents-congressional-seat/"
+},
+{
+"text": "Read More",
+"href": "https://thesunflower.com/108270/opinion/letter-to-the-editor-voting-rights-and-the-fierce-urgency-of-now/"
+},
+{
+"text": "Read More",
+"href": "https://www.communityvoiceks.com/2026/08/10/katy-tyndell-wins-democratic-primary-4th-congressional-district/"
+},
+{
+"text": "Read More",
+"href": "https://www.kansas.com/news/business/aviation/article317160001.html"
+},
+{
+"text": "Read More",
+"href": "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article315328861.html"
+},
+{
+"text": "Read More",
+"href": "https://www.kwch.com/2026/07/18/kansas-4th-district-democratic-primary-narrows-two-candidates/"
+},
+{
+"text": "Read More",
+"href": "https://www.wellingtondailynews.com/tyndell-brings-message-of-community-2/"
+},
+{
+"text": "Store",
+"href": "https://store.katyforkansas.com/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@katyforkansas"
+},
+{
+"text": "Vote",
+"href": "https://katyforkansas.com/vote/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@KatyforKansas"
+},
+{
+"text": "[image]",
+"href": "https://katyforkansas.com"
+},
+{
+"text": "[no text]",
+"href": "https://katyforkansas.substack.com/"
+},
+{
+"text": "info@katyforkansas.com",
+"href": "mailto:info@katyforkansas.com"
+}
 ]

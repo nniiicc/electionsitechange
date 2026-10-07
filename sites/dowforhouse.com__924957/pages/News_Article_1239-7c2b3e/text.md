@@ -1,6 +1,4 @@
-Governor focused on school lunch policies while ignoring student outcomes
-By Rebecca Dow / Project director for Opportunity for All Kids-NM Jun 23, 2024
-There is a concerning trend at the New Mexico Public Education Department: excessive rule making that is focused on micromanaging day-to-day operations of school sites rather than addressing the larger, systemic issues that plague New Mexico’s education system.
+Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 19 Jul Governor focused on school lunch policies while ignoring student outcomes By opportunityforallkids By Rebecca Dow / Project director for Opportunity for All Kids-NM Jun 23, 2024 There is a concerning trend at the New Mexico Public Education Department: excessive rule making that is focused on micromanaging day-to-day operations of school sites rather than addressing the larger, systemic issues that plague New Mexico’s education system.
 From taking over control of local school calendars, to the newest nutrition rules, Gov.
 Michelle Lujan Grisham’s heavy hand raises significant questions about her priorities and effectiveness.
 Instead of empowering local educators and administrators to tailor solutions to their community’s needs, MLG is channeling her energy into areas that distract from real educational reforms.
@@ -29,4 +27,5 @@ Rebecca Dow, Truth or Consequences, formerly served as a representative in the N
 This article appeared in the Albuquerque Journal.
 Photo: Osuna Elementary School students enjoy their lunch in the school’s cafeteria in November 2023.
 Critics of the state Public Education Department say the agency and governor are fiddling with fish sticks while student outcomes remain among the worst in the nation.
-Jon Austria/Journal
+Jon Austria/Journal Contact Rebecca Address: 1309 N.
+Riverside, Truth or Consequences, NM 87901 Phone: (575) 341-1301 Email: rebecca@dowforhouse.com Links Home News Contact Rebecca Contribute PAID FOR BY COMMITTEE TO ELECT REBECCA DOW

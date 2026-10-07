@@ -1,3 +1,3 @@
-Lancaster County Democrats had a good year.
+0 Skip to Content Meet Brad District 41 Issues Endorsements Press Volunteer Donate Open Menu Close Menu Meet Brad District 41 Issues Endorsements Press Volunteer Donate Open Menu Close Menu Meet Brad District 41 Issues Endorsements Press Volunteer Donate Lancaster County Democrats had a good year.
 Does that mean blue wave will ensue in 2026?
-In the News Nov 9 Written By Brad Chambers 11/8/2025 • IN THE NEWS in the news Brad Chambers
+In the News Nov 9 Written By Brad Chambers 11/8/2025 • IN THE NEWS in the news Brad Chambers Previous Previous Lancaster County Democrats unlikely to face challengers in May primary election Next Next Brad Chambers Announces Campaign for Pennsylvania’s 41st State House District with High-Profile Endorsements HOME VOLUNTEER PRESS Contact DONATE STATE / OF / THE / RACE PAID FOR BY BRAD FOR PA PO BOX 471 • EAST PETERSBURG, PA 17520 © BRAD FOR PA / PRIVACY POLICY

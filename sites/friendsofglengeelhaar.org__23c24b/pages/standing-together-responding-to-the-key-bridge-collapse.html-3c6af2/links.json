@@ -1,7 +1,38 @@
 [
-"https://friendsofglengeelhaar.org/",
-"https://friendsofglengeelhaar.org/blog-index.php",
-"https://friendsofglengeelhaar.org/events.html",
-"https://friendsofglengeelhaar.org/maryland-taxpayer-cost-tracker.html",
-"https://wmar2news.com/local/over-140-000-jobs-could-be-impacted-by-francis-scott-key-bridge-collapse"
+{
+"text": "Channel 2 News",
+"href": "https://www.wmar2news.com/local/over-140-000-jobs-could-be-impacted-by-francis-scott-key-bridge-collapse"
+},
+{
+"text": "Maryland Taxpayer Cost Tracker",
+"href": "https://www.friendsofglengeelhaar.org/maryland-taxpayer-cost-tracker.html"
+},
+{
+"text": "[image]",
+"href": "https://www.friendsofglengeelhaar.org/"
+},
+{
+"text": "about",
+"href": "https://www.friendsofglengeelhaar.org/#meetglen"
+},
+{
+"text": "blog",
+"href": "https://www.friendsofglengeelhaar.org/blog-index.php"
+},
+{
+"text": "contact",
+"href": "https://www.friendsofglengeelhaar.org/#contact"
+},
+{
+"text": "endorsements",
+"href": "https://www.friendsofglengeelhaar.org/#endorsements"
+},
+{
+"text": "events",
+"href": "https://www.friendsofglengeelhaar.org/events.html"
+},
+{
+"text": "issues",
+"href": "https://www.friendsofglengeelhaar.org/#issues"
+}
 ]

@@ -1,24 +1,102 @@
 [
-"https://bsky.app/profile/sliccardo.bsky.social",
-"https://congress.gov/bill/119th-congress/house-bill/1712?q=%7B%22search%22%3A%22liccardo%22%7D&s=3&r=9",
-"https://congress.gov/bill/119th-congress/house-bill/4998/text?s=1&r=4&q=%7B%22search%22%3A%22liccardo%22%7D",
-"https://congress.gov/bill/119th-congress/house-bill/5591/text",
-"https://congress.gov/bill/119th-congress/house-bill/6010/text?s=1&r=1",
-"https://congress.gov/bill/119th-congress/house-bill/6533?q=%7B%22search%22%3A%22liccardo%22%7D&s=3&r=10",
-"https://congress.gov/bill/119th-congress/house-bill/8013/text",
-"https://congress.gov/bill/119th-congress/house-bill/8395/text",
-"https://designedtorun.com/",
-"https://facebook.com/SamLiccardo1",
-"https://instagram.com//samliccardo",
-"https://liccardo.house.gov/",
-"https://liccardo.house.gov/media/press-releases/amid-pressure-trump-administration-backs-down-changes-critical-housing-program",
-"https://mercurynews.com/2025/09/12/west-valley-stakeholders-discuss-priorities-for-wildfire-resilience-partnership",
-"https://samliccardo.com/",
-"https://samliccardo.com/get-involved",
-"https://samliccardo.com/innovation-for-good",
-"https://samliccardo.com/news",
-"https://samliccardo.com/privacy",
-"https://samliccardo.com/the-innovation-agenda",
-"https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress",
-"https://x.com/sliccardo"
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Sam-Liccardo-for-Congress"
+},
+{
+"text": "Fix It Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6010/text?s=1&r=1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.samliccardo.com/get-involved"
+},
+{
+"text": "Innovation Agenda",
+"href": "https://www.samliccardo.com/the-innovation-agenda"
+},
+{
+"text": "Innovation for Good",
+"href": "https://www.samliccardo.com/innovation-for-good"
+},
+{
+"text": "Keep Innovators in America Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8013/text"
+},
+{
+"text": "MEME Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/1712?q=%7B%22search%22%3A%22liccardo%22%7D&s=3&r=9"
+},
+{
+"text": "Military in Law Enforcement Accountability Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6533?q=%7B%22search%22%3A%22liccardo%22%7D&s=3&r=10"
+},
+{
+"text": "News",
+"href": "https://www.samliccardo.com/news"
+},
+{
+"text": "PACE Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/8395/text"
+},
+{
+"text": "Privacy",
+"href": "https://www.samliccardo.com/privacy"
+},
+{
+"text": "Protect Our Constitution and Communities Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/6533?q=%7B%22search%22%3A%22liccardo%22%7D&s=3&r=10"
+},
+{
+"text": "RESIDE Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/5591/text"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "SUN Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/4998/text?s=1&r=4&q=%7B%22search%22%3A%22liccardo%22%7D"
+},
+{
+"text": "Wildfire Resilience Partnership",
+"href": "https://www.mercurynews.com/2025/09/12/west-valley-stakeholders-discuss-priorities-for-wildfire-resilience-partnership/"
+},
+{
+"text": "[image: samliccardo.com logo]",
+"href": "https://www.samliccardo.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.samliccardo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sliccardo.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SamLiccardo1"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com//samliccardo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/sliccardo"
+},
+{
+"text": "here.",
+"href": "https://liccardo.house.gov/"
+},
+{
+"text": "info@samliccardo.com",
+"href": "mailto:info@samliccardo.com"
+},
+{
+"text": "successfully opposing",
+"href": "https://liccardo.house.gov/media/press-releases/amid-pressure-trump-administration-backs-down-changes-critical-housing-program"
+}
 ]

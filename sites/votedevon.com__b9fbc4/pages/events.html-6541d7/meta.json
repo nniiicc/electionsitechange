@@ -1,7 +1,9 @@
 {
  "description": "Meet Devon Wellington in person. Find upcoming events across Noblesville and Fishers, or host a neighborhood chat and bring her to you.",
  "final_url": "https://www.votedevon.com/events.html",
- "paid_for_by": null,
+ "fingerprint": "a2f1d827308e646e909c279ec487071a3ee54066",
+ "format": 3,
+ "paid_for_by": "authorized by the Committee to Elect Devon Wellington",
  "title": "Upcoming Events | Devon Wellington for IN HD-29",
  "years_mentioned": []
 }

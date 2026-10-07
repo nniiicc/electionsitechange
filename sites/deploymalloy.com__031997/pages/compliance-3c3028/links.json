@@ -1,7 +1,30 @@
 [
-"https://automattic.com/privacy",
-"https://deploymalloy.com/compliance",
-"https://deploymalloy.com/manage-subscription",
-"https://facebook.com/geraldmalloyvt",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+{
+"text": "Attorney General to submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+},
+{
+"text": "Media Request",
+"href": "mailto:mediarequests@deploymalloy.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/geraldmalloyvt"
+},
+{
+"text": "https://automattic.com/privacy/",
+"href": "https://automattic.com/privacy/"
+},
+{
+"text": "https://deploymalloy.com/manage-subscription/",
+"href": "https://deploymalloy.com/manage-subscription/"
+},
+{
+"text": "https://www.deploymalloy.com/manage-subscription/",
+"href": "https://www.deploymalloy.com/manage-subscription/"
+}
 ]

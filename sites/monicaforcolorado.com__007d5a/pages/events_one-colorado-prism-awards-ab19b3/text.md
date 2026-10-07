@@ -1,5 +1,6 @@
-Every year, Monica looks forward to joining One Colorado’s Prism Awards.
+0 Skip to Content About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Back to All Events One Colorado Prism Awards Saturday, October 3, 2026 6:00 PM 10:00 PM Denver Art Museum (map) Google Calendar ICS Every year, Monica looks forward to joining One Colorado’s Prism Awards.
 The Prism Awards is One Colorado’s annual gala to honor individuals and organizations who have made a substantive difference in the lives of LGBTQIA+ Coloradans and their families.
-Join hundreds of LGBTQIA+ Coloradans, allies, community leaders, and supporters for an unforgettable evening celebrating the people and organizations making a difference across our state.
-The evening begins with a cocktail reception and silent auction, followed by the Prism Awards ceremony with inspiring honorees and special guests, dessert, and an opportunity to invest in a future where every LGBTQIA+ Coloradan can thrive.
-Tickets for purchase at https://www.one-colorado.org/events/prism-awards
+Join hundreds of LGBTQIA+ Coloradans, allies, community leaders, and supporters for an unforgettable evening celebrating the people and organizations making a difference across our state. ‍The evening begins with a cocktail reception and silent auction, followed by the Prism Awards ceremony with inspiring honorees and special guests, dessert, and an opportunity to invest in a future where every LGBTQIA+ Coloradan can thrive.
+Tickets for purchase at https://www.one-colorado.org/events/prism-awards Previous Previous October 3 Taco Bell 50k (yes, 50k) Next Next October 8 Coffee Hour for HD9 Paid for by Monica for Colorado.
+Registered Agent Monica VanBuskirk.
+Privacy policy

@@ -1,13 +1,70 @@
 [
-"https://facebook.com/repjeremygray",
-"https://instagram.com/repjeremygray",
-"https://jeremygrayforcongress.com/",
-"https://jeremygrayforcongress.com/issues",
-"https://jeremygrayforcongress.com/media-2",
-"https://jeremygrayforcongress.com/privacy-policy",
-"https://jeremygrayforcongress.com/terms-of-service",
-"https://linkedin.com/in/jeremy-gray-80008682",
-"https://myinfo.alabamavotes.gov/voterview",
-"https://secure.actblue.com/donate/web-gra",
-"https://twitter.com/repjeremygray"
+{
+"text": "ABOUT",
+"href": "https://jeremygrayforcongress.com/#about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://jeremygrayforcongress.com/#contribute"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/web-gra"
+},
+{
+"text": "Donate Today to Elect Jeremy Gray for Congress",
+"href": "https://secure.actblue.com/donate/web-gra"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://jeremygrayforcongress.com/#getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://jeremygrayforcongress.com/#home"
+},
+{
+"text": "Home",
+"href": "https://jeremygrayforcongress.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://jeremygrayforcongress.com/issues/"
+},
+{
+"text": "LOCATING VOTING INFORMATION",
+"href": "https://myinfo.alabamavotes.gov/voterview"
+},
+{
+"text": "MEDIA",
+"href": "https://jeremygrayforcongress.com/media-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jeremygrayforcongress.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://jeremygrayforcongress.com/terms-of-service"
+},
+{
+"text": "[image: Jeremy Gray For Congress]",
+"href": "https://jeremygrayforcongress.com"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/repjeremygray"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/repjeremygray"
+},
+{
+"text": "linkedin",
+"href": "https://www.linkedin.com/in/jeremy-gray-80008682/"
+},
+{
+"text": "twitter",
+"href": "https://twitter.com/repjeremygray"
+}
 ]

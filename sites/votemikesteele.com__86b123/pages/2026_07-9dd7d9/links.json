@@ -1,16 +1,66 @@
 [
-"http://votemikesteele.com/connect",
-"https://facebook.com/votemikesteele",
-"https://votemikesteele.com/",
-"https://votemikesteele.com/2026/05",
-"https://votemikesteele.com/2026/07",
-"https://votemikesteele.com/about",
-"https://votemikesteele.com/category/news-article",
-"https://votemikesteele.com/category/press-release",
-"https://votemikesteele.com/connect",
-"https://votemikesteele.com/endorsements",
-"https://votemikesteele.com/news-updates",
-"https://votemikesteele.com/priorities",
-"https://votemikesteele.com/volunteer",
-"https://votemikesteele.com/what-the-public-record-shows"
+{
+"text": "About Mike",
+"href": "https://www.votemikesteele.com/about/"
+},
+{
+"text": "Connect",
+"href": "https://www.votemikesteele.com/connect/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemikesteele.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votemikesteele/"
+},
+{
+"text": "Home",
+"href": "https://www.votemikesteele.com/"
+},
+{
+"text": "July 2026",
+"href": "https://www.votemikesteele.com/2026/07/"
+},
+{
+"text": "Mail",
+"href": "http://www.votemikesteele.com/connect/"
+},
+{
+"text": "May 2026",
+"href": "https://www.votemikesteele.com/2026/05/"
+},
+{
+"text": "News & Updates",
+"href": "https://www.votemikesteele.com/news-updates/"
+},
+{
+"text": "News Article",
+"href": "https://www.votemikesteele.com/category/news-article/"
+},
+{
+"text": "Press Release",
+"href": "https://www.votemikesteele.com/category/press-release/"
+},
+{
+"text": "Priorities",
+"href": "https://www.votemikesteele.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemikesteele.com/volunteer/"
+},
+{
+"text": "What the Public Record Shows",
+"href": "https://www.votemikesteele.com/what-the-public-record-shows/"
+},
+{
+"text": "[image: Re-Elect Mike Steele]",
+"href": "https://www.votemikesteele.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.votemikesteele.com/what-the-public-record-shows/"
+}
 ]

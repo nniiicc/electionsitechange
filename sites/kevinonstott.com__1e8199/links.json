@@ -1,5 +1,22 @@
 [
-"https://facebook.com/profile.php?id=61579392663393",
-"https://kevinonstott.com/",
-"https://secure.winred.com/friends-of-kevin-onstott/donate-today?exitintent=true"
+{
+"text": "Contact",
+"href": "https://www.kevinonstott.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-kevin-onstott/donate-today?exitintent=true"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61579392663393"
+},
+{
+"text": "[image: qr-code.png]",
+"href": "https://secure.winred.com/friends-of-kevin-onstott/donate-today?exitintent=true"
+},
+{
+"text": "friendsofkevinonstott@gmail.com",
+"href": "mailto:friendsofkevinonstott@gmail.com"
+}
 ]

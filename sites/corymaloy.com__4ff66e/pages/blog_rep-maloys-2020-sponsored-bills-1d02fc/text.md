@@ -1,6 +1,5 @@
-2020 Bill Files for Representative Maloy
-Current: 1/23/2020
-During the General Session of the Legislature, watch for my videos and blog posts on The 6 Report blog at www.corymaloy.com.
+Meet Cory The Record Issues The 52 Report Donate Stand With Cory in November Meet Cory The Record Issues The 52 Report Donate Contact Stand With Cory in November ← The 52 Report Jan 24, 2020 · Legislation Rep.
+Maloy's 2020 Sponsored Bills By Representative Cory Maloy Share Link copied 2020 Bill Files for Representative Maloy Current: 1/23/2020 During the General Session of the Legislature, watch for my videos and blog posts on The 6 Report blog at www.corymaloy.com .
 Here are the bills I am sponsoring this session.
 There is a possibility of one or two more, but these are the current ones.
 HB57—Towing Signage Revisions.
@@ -17,8 +16,7 @@ Stops the practice of suspending someone’s drivers license who does not appear
 It does not prevent courts from issuing warrants or eliminates their fees.
 HB149–Prohibition on Certain Restrictions on Firearms.
 This bill allows those who rent/lease property and who have virtually sole control of the property to have firearms for all legal purposes just as a normal property owner can.
-(Still working on this one to make sure it doesn’t infringe on property rights.)
-HB180—Emissions Inspection Amendments.
+(Still working on this one to make sure it doesn’t infringe on property rights.) HB180—Emissions Inspection Amendments.
 Removes the requirement for electric vehicles to obtain an emissions inspection.
 Credit Reporting Notification Amendments.
 This bill will allow financial institutions to use email as a form of communication regarding credit notifications.
@@ -40,8 +38,16 @@ Currently, the law states the downed animal must be tagged at the site before it
 It is more difficult for fowl when a dog may go and retrieve the game, or if the hunter needs to wade out into water making it difficult to tag and notch the tag.
 This change allows for those situations.
 Senate Bills: Rep.
-Maloy as House Sponsor
-Election Process Amendments – (Senator McCay) Adds a convention only option in SB54 allowing parties to choose their route.
+Maloy as House Sponsor Election Process Amendments – (Senator McCay) Adds a convention only option in SB54 allowing parties to choose their route.
 It also adds a fourth option for unaffiliated to provide a nominee to the general election ballot without a party affiliation.
-Reach Maloy at:
-801-477-0019 call/or text
+Reach Maloy at: 801-477-0019 call/or text [email protected] [email protected] www.corymaloy.com Share Link copied ← The Referendum: A grassroots effort at its finest Rep.
+Maloy releases HB 282: Voluntary Firearms Restrictions Amendments → Search Posts Recent Posts Sep 28, 2026 Utah Education Funding Is Up.
+Reading Isn't.
+Sep 28, 2026 School Choice in Utah Starts with the Parent Sep 11, 2026 A Day of Infamy at 25, and a Year Without Charlie Kirk Sep 8, 2026 My Principles Made Me a Republican.
+Not the Other Way Around.
+Jun 8, 2026 Where I Stand on the Stratos Data Center in Box Elder County Categories Community 4 Education 2 Elections 8 Legislation 36 Opinion 1 Popular Tags #Elections 27 #Education 19 #Budget 15 #Taxes 13 #Convention 12 #Growth 11 #Second Amendment 10 #Transparency 10 #Public Safety 8 #Water 8 #Healthcare 6 #Energy 5 #Housing 5 #Life 3 #Data Centers 2 #HB 120 2 #HB 143 2 #HB 146 2 #HB 180 2 #HB 184 2 District 52 Needs a Proven Conservative Voice at the Table.
+Stand With Cory in November Cory Maloy ™ Utah Values.
+Firmly Defended. [email protected] 801-477-0019 (call or text) Republican · Utah House District 52 The Campaign Meet Cory The Record Issues The 52 Report Blog Contact Stand Firm Stand With Cory in November Volunteer Donate © #–# Albert Cory Maloy.
+All rights reserved.
+Cory Maloy™ and the Cory Maloy campaign logo are trademarks of Albert Cory Maloy.
+Paid for by the Campaign to Elect Cory Maloy.

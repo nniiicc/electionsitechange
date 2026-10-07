@@ -1,7 +1,9 @@
 {
  "description": "Explore the Edmond Laplante platform for a New Hampshire Senate campaign rooted in constitutional values and local control. Join us for updates!",
  "final_url": "https://laplante4constitutionalnh.com/my-platform",
- "paid_for_by": null,
+ "fingerprint": "5e75f80f44f4203909083a22cd8c0ba50ff20542",
+ "format": 3,
+ "paid_for_by": "authorized by the people",
  "title": "My Platform",
  "years_mentioned": [
   "2026"

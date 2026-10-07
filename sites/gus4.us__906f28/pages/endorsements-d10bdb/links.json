@@ -1,10 +1,46 @@
 [
-"https://facebook.com/Gus4Us",
-"https://gus4.us/",
-"https://gus4.us/copy-of-media-hits-press-releases",
-"https://gus4.us/endorsements",
-"https://instagram.com/gus4.us",
-"https://myvote.wi.gov/en-us",
-"https://secure.winred.com/neighbors-for-nate-gustafson/donate-today",
-"https://twitter.com/Gus_4_Us"
+{
+"text": "About",
+"href": "https://www.gus4.us"
+},
+{
+"text": "Contact",
+"href": "https://www.gus4.us"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/neighbors-for-nate-gustafson/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gus4.us/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.gus4.us"
+},
+{
+"text": "Voting Info",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Weekly Newsletters",
+"href": "https://www.gus4.us/copy-of-media-hits-press-releases"
+},
+{
+"text": "[image: Facebook link to Gus4Us]",
+"href": "https://www.facebook.com/Gus4Us"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/Gus_4_Us"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/gus4.us/"
+},
+{
+"text": "[no text]",
+"href": "https://www.gus4.us/endorsements"
+}
 ]

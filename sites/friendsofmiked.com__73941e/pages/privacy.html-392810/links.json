@@ -1,6 +1,22 @@
 [
-"https://friendsofmiked.com/about.html",
-"https://friendsofmiked.com/index.html",
-"https://friendsofmiked.com/issues.html",
-"https://swipesimple.com/links/lnk_80362b62da118c4bafc0eba9e5b8924d"
+{
+"text": "ABOUT MIKE",
+"href": "https://friendsofmiked.com/about.html"
+},
+{
+"text": "DONATE",
+"href": "https://swipesimple.com/links/lnk_80362b62da118c4bafc0eba9e5b8924d"
+},
+{
+"text": "ISSUES",
+"href": "https://friendsofmiked.com/issues.html"
+},
+{
+"text": "[image: Logo]",
+"href": "https://friendsofmiked.com/index.html"
+},
+{
+"text": "[image: Mike]",
+"href": "https://friendsofmiked.com/index.html"
+}
 ]

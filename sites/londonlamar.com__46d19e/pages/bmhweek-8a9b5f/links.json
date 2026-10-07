@@ -1,18 +1,78 @@
 [
-"https://facebook.com/SenatorLondonLamar",
-"https://facebook.com/replondonlamar",
-"https://instagram.com/londonlamartn",
-"https://instagram.com/senatorlondonlamar",
-"https://londonlamar.com/",
-"https://londonlamar.com/about-london-lamar",
-"https://londonlamar.com/aboutlondon",
-"https://londonlamar.com/bmhweek",
-"https://londonlamar.com/contact",
-"https://londonlamar.com/copy-of-healthy-families",
-"https://londonlamar.com/copy-of-strong-schools",
-"https://londonlamar.com/donate",
-"https://londonlamar.com/news",
-"https://londonlamar.com/services-7",
-"https://londonlamar.com/volunteer",
-"https://twitter.com/replamar"
+{
+"text": "ABOUT",
+"href": "https://www.londonlamar.com/about-london-lamar"
+},
+{
+"text": "About Me",
+"href": "https://www.londonlamar.com/aboutlondon"
+},
+{
+"text": "CONTACT",
+"href": "https://www.londonlamar.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.londonlamar.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.londonlamar.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.londonlamar.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.londonlamar.com"
+},
+{
+"text": "Healthy Families",
+"href": "https://www.londonlamar.com/copy-of-strong-schools"
+},
+{
+"text": "Home",
+"href": "https://www.londonlamar.com/bmhweek"
+},
+{
+"text": "News",
+"href": "https://www.londonlamar.com/news"
+},
+{
+"text": "Safe Communities",
+"href": "https://www.londonlamar.com/copy-of-healthy-families"
+},
+{
+"text": "Strong Schools",
+"href": "https://www.londonlamar.com/services-7"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.londonlamar.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SenatorLondonLamar/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/replondonlamar"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/londonlamartn"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/senatorlondonlamar"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/replamar"
+},
+{
+"text": "info@LondonLamar.com",
+"href": "mailto:info@LondonLamar.com"
+}
 ]

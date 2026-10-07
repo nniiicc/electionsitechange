@@ -1,15 +1,58 @@
 [
-"https://bsky.app/profile/ryu4senate.bsky.social",
-"https://cindyryu.com/",
-"https://cindyryu.com/about",
-"https://cindyryu.com/contact",
-"https://cindyryu.com/donate",
-"https://cindyryu.com/endorsements",
-"https://cindyryu.com/issues",
-"https://cindyryu.com/volunteer",
-"https://designedtorun.com/",
-"https://instagram.com/ryu4senate",
-"https://secure.actblue.com/donate/noble-ryu-oct10",
-"https://threads.net/@ryu4senate",
-"https://x.com/ryu4senate"
+{
+"text": "About",
+"href": "https://www.cindyryu.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.cindyryu.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.cindyryu.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cindyryu.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.cindyryu.com/issues"
+},
+{
+"text": "RSVP",
+"href": "https://secure.actblue.com/donate/noble-ryu-oct10"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cindyryu.com/volunteer"
+},
+{
+"text": "[image: Cindy Ryu]",
+"href": "https://www.cindyryu.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ryu4senate.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ryu4senate"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@ryu4senate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ryu4senate"
+},
+{
+"text": "cindy@cindyryu.com",
+"href": "mailto:cindy@cindyryu.com"
+}
 ]

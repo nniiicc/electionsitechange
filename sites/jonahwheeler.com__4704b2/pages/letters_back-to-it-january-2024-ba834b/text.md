@@ -1,5 +1,4 @@
-January 2024 Letter
-The New Year is here and with it the gaveling in of the second year of the 168th General Court.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Back to It Back to It Back to It Jan 31, 2024 Jan 31, 2024 January 2024 Letter View from Criminal Justice -19 January 2024 - 15:43 - Concord, NH - Taken by Jonah View from Criminal Justice -19 January 2024 - 15:43 - Concord, NH - Taken by Jonah The New Year is here and with it the gaveling in of the second year of the 168th General Court.
 On our first convening day of the second year the House handles all the legislation which the various committees retained for more work in the fall session of the first year.
 The convening day for 2024 was the 3rd.
 There were two hundred and twelve bills on the House calendar from the various committees.
@@ -44,7 +43,9 @@ Putting everyone involved in an ethical dilemma.
 By requiring an initial application for a permit, early identification of improper sites for a landfill can be done, eliminating those spots early without prejudice.
 Overall, the two-step process for new landfill applications would help to ensure a more robust and comprehensive proposal evaluation, leading to better decision-making, reduced environmental and public health risks, and increased public trust in the process.
 Representatives Kelley Potenza, Nicholas Germana, Catherine Sofikitas, and many more deserve a hearty round of applause for their hard work to protect our State’s environment.
-Presidential primary politics also took up a decent portion of the month.
+U.S.S.
+Liberty Veterans - 12 January 2024 U.S.S.
+Liberty Veterans - 12 January 2024 Presidential primary politics also took up a decent portion of the month.
 I continued my work for Marianne Williamson, Peter hosted a house party for Dean Phillips, the two of them held a debate, and the write-in effort for Joe Biden pressed on to victory.
 Dean had the advantage of legacy wealth to fund his campaign, and Marianne did her best up against a media system which didn’t want to report on the primary.
 With her rag tag team of committed supporters, events she held over these last few weeks have been hearty conversations on making our Republic one in which all it’s citizens can participate.
@@ -58,7 +59,7 @@ It was Vermin Supreme.
 In true New Hampshire fashion.
 A bookend of a good campaign in a classic Granite State moment.
 Vermin and Marianne walk into an Irish bar…I am sure there’s a joke there but I don’t have the funny bone strong enough to find it at this moment.
-There are very few easy votes in the legislature.
+Marianne x Vermin - 23 January 2024 - 22:44 - Manchester, NH - Taken by Jonah Marianne x Vermin - 23 January 2024 - 22:44 - Manchester, NH - Taken by Jonah There are very few easy votes in the legislature.
 If you’re doing your job correctly and reading each bill before you carefully.
 Diligently parsing the arguments on all sides of the bill.
 Listening to what stakeholders in the issue on both sides have to say, and speaking to those affected by the impact of the bill or what the bill is trying to correct.
@@ -96,4 +97,4 @@ My line is always open.
 Whether by phone, email, or snail mail I am unafraid to take any and all inquiries.
 The snow is on the ground and winter is here.
 The final year of the 168th General Court has begun.
-Back to all
+Dean Phillips - 17 January 2024 - 19:31 - Peterborough, NH - Taken by Jonah Dean Phillips - 17 January 2024 - 19:31 - Peterborough, NH - Taken by Jonah ‹ Workers Rights and Synchronicities ‹ Workers Rights and Synchronicities ‹ Workers Rights and Synchronicities Empty Nest › Empty Nest › Empty Nest › Back to all

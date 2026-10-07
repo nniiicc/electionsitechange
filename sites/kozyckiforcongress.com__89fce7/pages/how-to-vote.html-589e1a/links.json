@@ -1,17 +1,102 @@
 [
-"http://kozyckiforcongress.com/ga07-district-map.html",
-"http://kozyckiforcongress.com/how-to-vote.html",
-"http://kozyckiforcongress.com/index.html",
-"http://kozyckiforcongress.com/news-press.php",
-"http://kozyckiforcongress.com/privacy-policy.html",
-"https://cherokeega.com/elections",
-"https://dawsoncounty.org/elections",
-"https://forsythco.com/departments-offices/voter-registrations-elections",
-"https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections",
-"https://hallcounty.org/192/Elections",
-"https://lumpkincounty.gov/157/Board-of-Elections",
-"https://mvp.sos.ga.gov/s",
-"https://registertovote.sos.ga.gov/GAOLVR/welcome.do",
-"https://secure.actblue.com/donate/kozyckiwebsite",
-"https://securemyabsenteeballot.sos.ga.gov/s"
+{
+"text": "About",
+"href": "http://kozyckiforcongress.com/index.html#about"
+},
+{
+"text": "Am I in the District?",
+"href": "http://kozyckiforcongress.com/ga07-district-map.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kozyckiwebsite"
+},
+{
+"text": "Election Office",
+"href": "https://www.cherokeega.com/elections/"
+},
+{
+"text": "Election Office",
+"href": "https://www.dawsoncounty.org/elections"
+},
+{
+"text": "Election Office",
+"href": "https://www.forsythco.com/departments-offices/voter-registrations-elections"
+},
+{
+"text": "Election Office",
+"href": "https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/registration-and-elections"
+},
+{
+"text": "Election Office",
+"href": "https://www.hallcounty.org/192/Elections"
+},
+{
+"text": "Election Office",
+"href": "https://www.lumpkincounty.gov/157/Board-of-Elections"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Find early voting locations",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Georgia My Voter Page",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Get Involved",
+"href": "http://kozyckiforcongress.com/index.html#involved"
+},
+{
+"text": "How to Vote",
+"href": "http://kozyckiforcongress.com/how-to-vote.html"
+},
+{
+"text": "Issues",
+"href": "http://kozyckiforcongress.com/index.html#issues"
+},
+{
+"text": "News & Press",
+"href": "http://kozyckiforcongress.com/news-press.php"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "http://kozyckiforcongress.com/privacy-policy.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.sos.ga.gov/GAOLVR/welcome.do"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://securemyabsenteeballot.sos.ga.gov/s/"
+},
+{
+"text": "Request your ballot",
+"href": "https://securemyabsenteeballot.sos.ga.gov/s/"
+},
+{
+"text": "Service",
+"href": "http://kozyckiforcongress.com/index.html#service"
+},
+{
+"text": "Support Tony's Campaign",
+"href": "https://secure.actblue.com/donate/kozyckiwebsite"
+},
+{
+"text": "[image: Tony Kozycki for Congress — Home]",
+"href": "http://kozyckiforcongress.com/index.html"
+},
+{
+"text": "interactive district map",
+"href": "http://kozyckiforcongress.com/ga07-district-map.html"
+},
+{
+"text": "mvp.sos.ga.gov",
+"href": "https://mvp.sos.ga.gov/s/"
+}
 ]

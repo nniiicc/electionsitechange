@@ -1,10 +1,15 @@
 {
  "description": "https://secure.actblue.com/donate/zack-fields-for-state-house-1",
  "final_url": "https://zackforalaska.blogspot.com/p/donate.html",
+ "fingerprint": "afd4240e9f01e72a557466901854d9944d8d178e",
+ "format": 3,
  "paid_for_by": "Paid for by Zack Fields for State House, 1320 K St Anchorage AK 99501",
  "title": "Zack Fields for State House: Donate!",
  "years_mentioned": [
+  "2018",
+  "2020",
   "2021",
+  "2022",
   "2024"
  ]
 }

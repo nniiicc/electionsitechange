@@ -1,5 +1,2 @@
-Chula Vista Celebrates El Grito - Heritage, Family and the Cry for a Better Future
-FAITH FAMILY FREEDOM FUTURE
-Written By Art Hodges
-Previous
-Next
+0 Skip to Content Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Folder: Meet Art Back About Art Candidate Comparison Photo Gallery 250 Club Folder: Media Back News Events Issues Endorsements District Map Get Involved English Back DONATE Chula Vista Celebrates El Grito - Heritage, Family and the Cry for a Better Future Sep 13 Written By Art Hodges FAITH FAMILY FREEDOM FUTURE Art Hodges Previous Previous Art Hodges Visits Ocean View Church in San Diego Next Next Honored to address the SoCal IRONMEN Conference — 600 strong Contact Us: info@arthodgesforsenate.com DONATE CALIFORNIA ISSUES Privacy Policy Follow Us on Social Media CONNECT WITH US Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #.
+All Rights Reserved

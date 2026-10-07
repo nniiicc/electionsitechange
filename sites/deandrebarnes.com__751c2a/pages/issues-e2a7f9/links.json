@@ -1,11 +1,42 @@
 [
-"https://deandrebarnes.com/",
-"https://deandrebarnes.com/about",
-"https://deandrebarnes.com/cart",
-"https://deandrebarnes.com/donate",
-"https://deandrebarnes.com/endorsements",
-"https://deandrebarnes.com/events",
-"https://deandrebarnes.com/get-involved",
-"https://deandrebarnes.com/issues",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.deandrebarnes.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.deandrebarnes.com/about"
+},
+{
+"text": "Deandre Barnes for Michigan Senate",
+"href": "https://www.deandrebarnes.com/"
+},
+{
+"text": "Donate",
+"href": "https://www.deandrebarnes.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.deandrebarnes.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.deandrebarnes.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.deandrebarnes.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.deandrebarnes.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.deandrebarnes.com/issues"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+}
 ]

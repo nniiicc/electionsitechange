@@ -1,12 +1,42 @@
 [
-"https://easthaddam.org/",
-"https://easthamptonct.gov/",
-"https://melissaziobron.com/",
-"https://melissaziobron.com/posts/answering-the-call-to-duty",
-"https://melissaziobron.com/posts/whats-homegrown-leadership-about",
-"https://melissaziobron.com/posts/why-not-run-again",
-"https://portal.ct.gov/DSS/Common-Elements/Register-Online-to-Vote",
-"https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://salemct.gov/"
+{
+"text": "Absentee Ballots",
+"href": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
+},
+{
+"text": "Answering the Call to Duty",
+"href": "https://melissaziobron.com/posts/answering-the-call-to-duty"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "Register to Vote",
+"href": "https://portal.ct.gov/DSS/Common-Elements/Register-Online-to-Vote"
+},
+{
+"text": "Town of East Haddam",
+"href": "https://www.easthaddam.org/"
+},
+{
+"text": "Town of East Hampton",
+"href": "https://www.easthamptonct.gov/"
+},
+{
+"text": "Town of Salem",
+"href": "https://www.salemct.gov/"
+},
+{
+"text": "What’s Homegrown Leadership About?",
+"href": "https://melissaziobron.com/posts/whats-homegrown-leadership-about"
+},
+{
+"text": "Why Not Run Again?",
+"href": "https://melissaziobron.com/posts/why-not-run-again"
+},
+{
+"text": "[image: Site Logo]Site Logo",
+"href": "https://melissaziobron.com/"
+}
 ]

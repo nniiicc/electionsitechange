@@ -1,20 +1,13 @@
-WA law mandating clergy report child abuse to be investigated by Trump’s Justice Department
-By Wilson Criscione for Investigate West • May 5, 2025
-President Trump’s Department of Justice is investigating a new Washington state law that makes clergy mandatory reporters of child abuse, arguing it violates the First Amendment.
+0 Skip to Content Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Folder: Issues Back Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment Folder: 2026 Endorsements Back 2026 Endorsements News Events Folder: Get Involved Back Volunteer Contact Endorse Noel Donate WA law mandating clergy report child abuse to be investigated by Trump’s Justice Department WA SENATE BILL 5375 NEWS May 5 Written By Upper Left Strategies By Wilson Criscione for Investigate West • May 5, 2025 President Trump’s Department of Justice is investigating a new Washington state law that makes clergy mandatory reporters of child abuse, arguing it violates the First Amendment.
 The state legislation was signed into law on Friday, May 2, by Gov.
 Bob Ferguson.
 It means church leaders will now be required to report child abuse or neglect to authorities, and unlike many other states, it mandates that clergy do so even if they learned of the allegations during a confession.
-The Justice Department said it would open a civil rights investigation “into the development and passage” of the bill, “which appears on its face to violate the First Amendment.”
-In a statement Monday evening, Ferguson stood by the legislation.
+The Justice Department said it would open a civil rights investigation “into the development and passage” of the bill, “which appears on its face to violate the First Amendment.” In a statement Monday evening, Ferguson stood by the legislation.
 “We look forward to protecting Washington kids from sexual abuse in the face of this ‘investigation’ from the Trump Administration,” Ferguson said.
 The bill’s passage came after three straight years of intense debate within the state Legislature, often spurred by strong opposition from Catholic lobbyists who opposed any requirement that priests report child abuse if the allegations were revealed during a confession.
-The announcement from the DOJ expressed similar opposition, noting that the law includes “no exception for the absolute seal of confidentiality that applies to Catholic Priests.”
-But in signing the bill on Friday, Ferguson noted that as a Catholic himself, he believes the bill “protects Washingtonians from abuse and harm.”
-“I always have a personal perspective on this,” Ferguson said.
-“For me, this is very clear and important legislation.”
-Rep.
-Noel Frame, D-36
-State Sen.
+The announcement from the DOJ expressed similar opposition, noting that the law includes “no exception for the absolute seal of confidentiality that applies to Catholic Priests.” But in signing the bill on Friday, Ferguson noted that as a Catholic himself, he believes the bill “protects Washingtonians from abuse and harm.” “I always have a personal perspective on this,” Ferguson said.
+“For me, this is very clear and important legislation.” Rep.
+Noel Frame, D-36 State Sen.
 Noel Frame, who introduced the bill, rejected the notion that the bill is targeting Catholics, pointing out, as she has repeatedly in legislative hearings, that she introduced the legislation after reading InvestigateWest’s coverage of the way Jehovah’s Witnesses hid sexual abuse for decades and how Washington was one of the few states that did not require clergy to report such allegations.
 She also disagrees with the argument that the bill is a violation of the First Amendment.
 In its press release, the DOJ argues that the law “singles out” clergy by making them the only “supervisors,” as defined by state law, “who may not rely on legal privileges” to avoid reporting child abuse.
@@ -30,3 +23,7 @@ She said ultimately she isn’t too surprised at the news of the investigation.
 “I shouldn’t be surprised that the Trump administration is launching an investigation into a law that seeks to protect children from child abuse and neglect,” she said in an interview.
 Wilson Criscione is InvestigateWest’s news and investigations editor.
 He’s spent more than a decade reporting and supervising major investigations that uncover corruption, misconduct and injustice in the Pacific Northwest.
+WASHINGTON SENATE BILL 5375 NEWS TRUMP ADMINISTRATION Upper Left Strategies https://upperleftstrategies.com Previous Previous Ferguson signs rent stabilization, suite of other housing proposals into Washington state law Next Next WA Senate Dems advance several tax hike bills as session enters last week HOME ABOUT DONATE POLICIES Sign up TO receive news and updates Since 2016, Sen.
+Noel Frame has served the 36th Legislative District, fighting for economic prosperity for all of us, rebalancing our tax code, and strengthening our diverse communities.
+Reelect Noel Frame for Senate.
+NOEL FRAME FOR SENATE Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms & Conditions

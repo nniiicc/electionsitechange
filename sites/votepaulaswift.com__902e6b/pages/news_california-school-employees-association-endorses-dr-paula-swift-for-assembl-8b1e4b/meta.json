@@ -1,6 +1,8 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.votepaulaswift.com/news/california-school-employees-association-endorses-dr-paula-swift-for-assembly-district-70",
+ "fingerprint": "6abb5b538bdfc1a558bb9538618e1d681ec5148a",
+ "format": 3,
  "paid_for_by": "Paid for by Swift for Assembly 2026 FPPC #1485309 1 W",
  "title": "California School Employees Association Endorses Dr. Paula Swift for Assembly District 70",
  "years_mentioned": [

@@ -1,27 +1,24 @@
-Calls Hoyle’s Rubberstamping Biden Border Invasion While Defunding Veterans’ Healthcare “Thoroughly Egregious" and a "Dereliction of Duty to Our Veteran Constituents”
-Eugene, OR – Today, Republican candidate Monique DeSpain responded to Val Hoyle’s vote opposing H.R. 8580, which would fund Veterans Affairs and critical military programs while ending the current use of the Veteran Administration to pay for free healthcare for illegal migrants.
+About Meet Monique News Priorities Media Get Involved Volunteer Endorse Monique Voter Resources Donate Shop Like Monique Despain for Congress on Facebook Follow Monique Despain for Congress on X (formerly Twitter) Follow Monique Despain for Congress on Instagram Follow Monique Despain for Congress on YouTube Follow Monique Despain for Congress on TikTok Meet Monique News Priorities Media Volunteer Endorse Monique Voter Resources Donate Shop Retired Colonel Monique DeSpain Blasts Congresswoman Val Hoyle For Putting Illegal Immigrants Above Our Veterans Calls Hoyle’s Rubberstamping Biden Border Invasion While Defunding Veterans’ Healthcare “Thoroughly Egregious" and a "Dereliction of Duty to Our Veteran Constituents” Eugene, OR – Today, Republican candidate Monique DeSpain responded to Val Hoyle’s vote opposing H.R.
+8580 , which would fund Veterans Affairs and critical military programs while ending the current use of the Veteran Administration to pay for free healthcare for illegal migrants.
 “Today, Val Hoyle chose partisan politics and illegal migrants over our precious military veterans to whom our nation owes so much,” stated DeSpain.
-“As a veteran and a retired Air Force Colonel who is deeply concerned by the clear and present national security crisis at the border, I am appalled by Val Hoyle’s thoroughly egregious vote to greenlight the Biden Administration’s looting of VA resources to pay for the chaotic border invasion that President Biden caused, and Congresswoman Hoyle repeatedly enabled.”
-In her first term as our Representative, Val Hoyle has voted against fully funding veterans’ health care and benefits and voted to block pay raises for active-duty military personnel in July 2023.
-Earlier this year, Val Hoyle went to El Paso, TX, and praised open borders while lecturing her constituents who asked her, “Why don’t you just shut down the border?” explaining that “We need to have movement through the border and how much we need the workforce.” Seven weeks later, Texas National Guard Troops at an El Paso, TX checkpoint were overrun and assaulted by foreign military-aged males forcing their way into our country.
+“As a veteran and a retired Air Force Colonel who is deeply concerned by the clear and present national security crisis at the border, I am appalled by Val Hoyle’s thoroughly egregious vote to greenlight the Biden Administration’s looting of VA resources to pay for the chaotic border invasion that President Biden caused, and Congresswoman Hoyle repeatedly enabled.” In her first term as our Representative, Val Hoyle has voted against fully funding veterans’ health care and benefits and voted to block pay raises for active-duty military personnel in July 2023.
+Earlier this year, Val Hoyle went to El Paso, TX, and praised open borders while lecturing her constituents who asked her , “Why don’t you just shut down the border?” explaining that “ We need to have movement through the border and how much we need the workforce .” Seven weeks later, Texas National Guard Troops at an El Paso, TX checkpoint were overrun and assaulted by foreign military-aged males forcing their way into our country.
 These are the people Val wants to allow access to our limited veteran resources.
-In a slap to law enforcement, Hoyle recently voted against H.R.7343, the Detain and Deport Illegal Aliens Who Assault Cops Act.
-Last week, the Democratic Congressional Campaign Committee moved Val Hoyle to its “frontline” list of vulnerable incumbents.
+In a slap to law enforcement, Hoyle recently voted against H.R.7343 , the Detain and Deport Illegal Aliens Who Assault Cops Act.
+Last week, the Democratic Congressional Campaign Committee moved Val Hoyle to its “frontline” list of vulnerable incumbents .
 “After spending her entire time in Congress voting against any effort to hold the Biden Administration accountable for its catastrophic border policy and even lecturing her constituents that we ‘need this movement through the border,’ now she has voted to take resources Congress reserved for veterans, and instead she wants to fund free healthcare for illegal migrants invited by President Biden’s border policy,” said DeSpain.
 “However, Val’s vote is worse than rubberstamping bad behavior by the Biden Administration.
 It is a real stab in the backs of my veteran brothers and sisters waiting to access often unreasonably delayed health treatments to which they are entitled - a dereliction of duty to our veteran constituents,” added DeSpain.
 “Our veterans and active duty should be at the top of our priority list, but Val has put them at the back of the line.
 They won’t forget.
-Neither will I, nor will the voters.”
-“Val has cast numerous shocking votes at the expense of the citizens of our district, which has exposed who her true priority is - her radical special interest ‘open borders’ masters in Washington D.C.,” said DeSpain.
+Neither will I, nor will the voters.” “Val has cast numerous shocking votes at the expense of the citizens of our district, which has exposed who her true priority is - her radical special interest ‘open borders’ masters in Washington D.C.,” said DeSpain.
 “Now Val’s gone too far by victimizing our veterans.
 Blatantly corrupt, self-serving, hyperpartisan career politician Val Hoyle is at the heart of the dysfunction in our Nation’s Capitol.
-Perhaps it’s no surprise that her party bosses have put her on the list of incumbents most in jeopardy of defeat in 2024.”
-“As a retired Air Force Colonel and lawyer, I know what fighting for our country and our communities looks like,” said DeSpain.
+Perhaps it’s no surprise that her party bosses have put her on the list of incumbents most in jeopardy of defeat in 2024.” “As a retired Air Force Colonel and lawyer, I know what fighting for our country and our communities looks like,” said DeSpain.
 “I am ready to deploy to Congress to make sure my 53,000 fellow 4th District veterans are the priority while still securing our borders by all means necessary and ending the public safety crisis of fentanyl, meth, human smuggling, and crime gripping the 4th District.
-It all starts with retiring Val Hoyle this November.”
-Monique DeSpain is a retired U.S.
+It all starts with retiring Val Hoyle this November.” Monique DeSpain is a retired U.S.
 Air Force Colonel, mother of twin boys, and public policy advocate who resides in Eugene, Oregon.
 She is a candidate for the Republican nomination for Oregon’s 4th Congressional District in a bid to unseat incumbent Congresswoman Val Hoyle in 2024 and bring about a safer, more prosperous Oregon.
-Her campaign website is www.MoniqueForCongress.com
-To arrange a candidate interview or obtain additional information about her campaign, please contact the Communications Director, Kevin Hoar, at press@moniqueforcongress.com or call 541-321-6095.
+Her campaign website is www.MoniqueForCongress.com To arrange a candidate interview or obtain additional information about her campaign, please contact the Communications Director, Kevin Hoar, at press@moniqueforcongress.com or call 541-321-6095.
+Paid For By Monique For Congress PO Box 51034 Eugene, OR 97405 info@moniqueforcongress.com 541-321-6016 Privacy Policy The use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense.
+Watch our latest ad!

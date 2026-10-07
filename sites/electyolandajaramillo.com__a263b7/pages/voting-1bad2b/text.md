@@ -1,56 +1,17 @@
-VOTING
-Election Day
-Tuesday, June 2, 2026
-7am-7pm
-New this year, voters registered as Independent or Declined to State can vote in Democratic or Republican primaries.
-Election Day Polling Locations
-Remember: You can vote at any Voting Convenience Center in your county, regardless of where you live within the county.
+0 Skip to Content About Yolanda District 41 Priorities Endorsements Events In the News Get Involved Candidate Comparison Voting Contact CONTRIBUTE Open Menu Close Menu About Yolanda District 41 Priorities Endorsements Events In the News Get Involved Candidate Comparison Voting Contact CONTRIBUTE Open Menu Close Menu Folder: About Back Yolanda District 41 Priorities Endorsements Events In the News Get Involved Candidate Comparison Voting Contact CONTRIBUTE VOTING Election Day Tuesday, June 2, 2026 7am-7pm New this year, voters registered as Independent or Declined to State can vote in Democratic or Republican primaries.
+Election Day Polling Locations Remember: You can vote at any Voting Convenience Center in your county, regardless of where you live within the county.
 See our map with voting locations here.
-Rio Arriba County
-In Rio Arriba County, there are 28 Voting Convenience Centers.
-The closest locations for voters in House District 41 include:
-- Chama Senior Center, 2449 US Hwy 84-64, Chama, NM 87520
-- Canjilon Community Center, 3115 CR 455, Canjilon, NM 87515
-- Mesa Vista School, HWY 285 Road 111, Ojo Caliente, NM 87549
-- Lindrith Fire Department, 1380 SR 595, Lindrith, NM 87029
-- Gallina School House, 1 PR 1650, Gallina, NM 87017
-- Abiquiu Rural Events Center, 122A US Hwy 84 SR 554, Abiquiu, NM 87510
-- El Rito Community Center, 1115 SR 554, El Rito, NM 87530
-- Medanales Community Center, 214 CR 142, Medanales, NM 87548
-- Dixon Community Center, 318 ST RD 75, Dixon, NM 87527
-- Lucero Center Gym, 313 N.
-Paseo De Oñate, Española, NM 87532
-- San Pedro Community Center, 30 CR 8, Española, NM 87532
-- Fairview Elementary, 1000 Zuni Lane, Española, NM 87532
-- Clerk’s Election Warehouse, 112 Calle Don Diego or 714 East Hill Street, Española, NM 87532
-- Tierra Amarilla Clerk's Office, #7 Main Street / 10 State Road 531, Tierra Amarilla, NM 87575
-- Hernandez Community Center, 19418A US 84/285, Hernandez, NM 87537
-- Santa Clara Senior Citizens Bldg, 636 One Kee St, Española, NM 87532
-- Velarde Community Center, 6 CR 60A, Velarde, NM 87582
-- Chamita Fire Department, 46 CR 56A, Chamita, NM 87566
-- Alcalde Community Center, 26 CR 41A, Alcalde, NM 87511
-Sandoval County
-In Sandoval County, there are 42 Voting Convenience Centers.
-The closest locations for voters in House District 41 include:
-- La Jara Volunteer Fire Station, 108 County Rd., La Jara, NM 87027
-- Sandoval County Fair Grounds, 37 Rodeo Rd., Cuba, NM 87013
-Santa Fe County
-In Santa Fe County, there are 31 Voting Convenience Centers.
-The closest location for voters in House District 41 include:
-- Tony E.
+Rio Arriba County In Rio Arriba County, there are 28 Voting Convenience Centers .
+The closest locations for voters in House District 41 include: Chama Senior Center, 2449 US Hwy 84-64, Chama, NM 87520 Canjilon Community Center, 3115 CR 455, Canjilon, NM 87515 Mesa Vista School, HWY 285 Road 111, Ojo Caliente, NM 87549 Lindrith Fire Department, 1380 SR 595, Lindrith, NM 87029 Gallina School House, 1 PR 1650, Gallina, NM 87017 Abiquiu Rural Events Center, 122A US Hwy 84 SR 554, Abiquiu, NM 87510 El Rito Community Center, 1115 SR 554, El Rito, NM 87530 Medanales Community Center, 214 CR 142, Medanales, NM 87548 Dixon Community Center, 318 ST RD 75, Dixon, NM 87527 Lucero Center Gym, 313 N.
+Paseo De Oñate, Española, NM 87532 San Pedro Community Center, 30 CR 8, Española, NM 87532 Fairview Elementary, 1000 Zuni Lane, Española, NM 87532 Clerk’s Election Warehouse, 112 Calle Don Diego or 714 East Hill Street, Española, NM 87532 Tierra Amarilla Clerk's Office, #7 Main Street / 10 State Road 531, Tierra Amarilla, NM 87575 Hernandez Community Center, 19418A US 84/285, Hernandez, NM 87537 Santa Clara Senior Citizens Bldg, 636 One Kee St, Española, NM 87532 Velarde Community Center, 6 CR 60A, Velarde, NM 87582 Chamita Fire Department, 46 CR 56A, Chamita, NM 87566 Alcalde Community Center, 26 CR 41A, Alcalde, NM 87511 Sandoval County In Sandoval County, there are 42 Voting Convenience Centers .
+The closest locations for voters in House District 41 include: La Jara Volunteer Fire Station, 108 County Rd., La Jara, NM 87027 Sandoval County Fair Grounds, 37 Rodeo Rd., Cuba, NM 87013 Santa Fe County In Santa Fe County, there are 31 Voting Convenience Centers .
+The closest location for voters in House District 41 include: Tony E.
 Quintana Elementary, 18670 US 84/285, Española, NM 87532.
-Taos County
-In Taos County, there are 22 Voting Convenience Centers.
-The closest locations for voters in House District 41 include:
-- Arroyo Hondo Firehouse, 78 Hondo Seco Rd, Arroyo Hondo, NM 87513
-- Ojo Caliente Fire House, 20 Los Banos, Ojo Caliente, NM 87549
-- Tres Piedras Fire House, 38391 Hwy 285, Tres Piedras, NM 87577
-- Arroyo Seco Community Center, 498 Hwy 150, Arroyo Seco, NM 87514
-- Carson Firehouse, 591 NM 567, Carson, NM 87517
-- San Cristobal Community Center, 38 Camino del Medio, San Cristobal, NM 87564
-Absentee Voting
-If you have an absentee ballot, please return it to a voting location.
-Register to Vote/Same Day Registration
-Same Day Registration (SDR) opens at all Early or Election Day voting locations.
+Taos County In Taos County, there are 22 Voting Convenience Centers .
+The closest locations for voters in House District 41 include: Arroyo Hondo Firehouse, 78 Hondo Seco Rd, Arroyo Hondo, NM 87513 Ojo Caliente Fire House, 20 Los Banos, Ojo Caliente, NM 87549 Tres Piedras Fire House, 38391 Hwy 285, Tres Piedras, NM 87577 Arroyo Seco Community Center, 498 Hwy 150, Arroyo Seco, NM 87514 Carson Firehouse, 591 NM 567, Carson, NM 87517 San Cristobal Community Center, 38 Camino del Medio, San Cristobal, NM 87564 Absentee Voting If you have an absentee ballot, please return it to a voting location.
+Register to Vote/Same Day Registration Same Day Reg istration (SDR) opens at all Early or Election Day voting locations.
 Please bring proper ID to update your voter registration or toregister to vote.
 Bring a photo ID and a current utility bill, bank statement, government check, paycheck, student identification card or other government document, including identification issued by an Indian nation, tribe or pueblo that shows your name and current address.
+Find County Clerk websites in HD41 here: Rio Arriba ‍ Santa Fe ‍ Sandoval ‍ Taos Vote Yolanda “Pancha” Jaramillo Democratic Primary, June 2, 2026 Rooted in Our Communities.
+Moving Northern New Mexico Forward.
+CONTRIBUTE Website Design | BGC

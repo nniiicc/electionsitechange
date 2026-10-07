@@ -1,10 +1,58 @@
 [
-"https://kansashistory.gov/",
-"https://kslegislature.gov/",
-"https://portal.kansas.gov/",
-"https://smithforkansas.com/",
-"https://smithforkansas.com/about",
-"https://smithforkansas.com/contact",
-"https://smithforkansas.com/contribute",
-"https://smithforkansas.com/latest-news"
+{
+"text": "About",
+"href": "https://smithforkansas.com/about/"
+},
+{
+"text": "Adam.Smith@House.KS.GovAdam.Smith@House.KS.Gov",
+"href": "mailto:Adam.Smith@House.KS.Gov"
+},
+{
+"text": "Adam.Smith@House.KS.gov",
+"href": "mailto:Adam.Smith@House.KS.gov"
+},
+{
+"text": "Adam@SmithForKansas.com",
+"href": "mailto:Adam.Smith@House.KS.gov"
+},
+{
+"text": "Close Menu Close Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "Contact",
+"href": "https://smithforkansas.com/contact/"
+},
+{
+"text": "ContributeDonate Now",
+"href": "https://smithforkansas.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://smithforkansas.com"
+},
+{
+"text": "Kansas Historical Society",
+"href": "https://www.kansashistory.gov/"
+},
+{
+"text": "Kansas Legislature",
+"href": "https://kslegislature.gov/"
+},
+{
+"text": "Kansas.gov",
+"href": "https://portal.kansas.gov/"
+},
+{
+"text": "Latest News",
+"href": "https://smithforkansas.com/latest-news/"
+},
+{
+"text": "Representative Adam Smith",
+"href": "https://smithforkansas.com/"
+},
+{
+"text": "[image: State Representative Adam Smith campaign logo]",
+"href": "https://smithforkansas.com/"
+}
 ]

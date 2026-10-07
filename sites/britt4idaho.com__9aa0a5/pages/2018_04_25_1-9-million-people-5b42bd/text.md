@@ -1,4 +1,5 @@
-Based on current projections, Idaho’s population could grow to 1.9 million by 2030.
+Toggle navigation Home About Volunteer News Donate Campaign Update: 1.9 Million People – Are We Ready?
+April 25, 2018 Based on current projections, Idaho’s population could grow to 1.9 million by 2030.
 That’s an increase of almost 300,000 people.
 Just imagine adding at least five new cities the size of Idaho Falls to the state.
 To support that kind of growth, we must make smart decisions about how to manage it statewide while respecting local goals.
@@ -30,4 +31,12 @@ State agencies must report to the governor’s office this summer with their ass
 Idaho can and should take advantage of the changes headed our way.
 But we need to weigh our options with care and make wise investments in Idaho’s future that respect the great state we all know and love.
 I’m excited to get to work.
-I hope you’ll join me.
+I hope you’ll join me. economic growth education infrastructure Post navigation Campaign Update: I Support Castle Doctrine 100% https://www.britt4idaho.com/wp-content/uploads/2018/04/castledoctrine.jpg District 34 Campaign Forum https://www.britt4idaho.com/wp-content/uploads/2018/01/Idahocommittee2.jpg Home About Volunteer for Britt Donate Have questions?
+Email hello@britt4idaho.com Copyright © # Britt Raybould for Idaho | Paid for by Britt Raybould for Idaho – Ron Walker, Treasurer Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website.
+Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website.
+We also use third-party cookies that help us analyze and understand how you use this website.
+These cookies will be stored in your browser only with your consent.
+You also have the option to opt-out of these cookies.
+But opting out of some of these cookies may affect your browsing experience.
+Visitor data can be shared with third parties to perform services on behalf of this website.
+Necessary Necessary Always Enabled Functional Functional Advertisement Advertisement Others Others SAVE & ACCEPT

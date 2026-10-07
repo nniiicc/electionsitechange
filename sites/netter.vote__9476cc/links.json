@@ -1,31 +1,130 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/mike.netter.5",
-"https://linkedin.com/in/mike-netter-2889a9",
-"https://netter.vote/",
-"https://netter.vote/contact",
-"https://netter.vote/contribute",
-"https://netter.vote/contribute?amount=10",
-"https://netter.vote/contribute?amount=100",
-"https://netter.vote/contribute?amount=1000",
-"https://netter.vote/contribute?amount=25",
-"https://netter.vote/contribute?amount=250",
-"https://netter.vote/contribute?amount=50",
-"https://netter.vote/contribute?amount=500",
-"https://netter.vote/events",
-"https://netter.vote/get-involved",
-"https://netter.vote/home",
-"https://netter.vote/issues",
-"https://netter.vote/meet_mike",
-"https://netter.vote/my-promise",
-"https://netter.vote/my-record",
-"https://netter.vote/my-vision",
-"https://netter.vote/news",
-"https://netter.vote/photos",
-"https://netter.vote/privacy-policy",
-"https://netter.vote/view-endorsements",
-"https://netter.vote/volunteer",
-"https://netter.vote/vote",
-"https://netter.vote/yard-sign",
-"https://x.com/nettermike"
+{
+"text": "$#",
+"href": "https://netter.vote/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://netter.vote/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://netter.vote/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://netter.vote/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://netter.vote/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://netter.vote/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://netter.vote/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://netter.vote/contact"
+},
+{
+"text": "Donate",
+"href": "https://netter.vote/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://netter.vote/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://netter.vote/events"
+},
+{
+"text": "Get Involved",
+"href": "https://netter.vote/get-involved"
+},
+{
+"text": "Home",
+"href": "https://netter.vote/home"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://netter.vote/volunteer"
+},
+{
+"text": "Meet Mike",
+"href": "https://netter.vote/meet_mike"
+},
+{
+"text": "My Promise",
+"href": "https://netter.vote/my-promise"
+},
+{
+"text": "My Record",
+"href": "https://netter.vote/my-record"
+},
+{
+"text": "My Vision",
+"href": "https://netter.vote/my-vision"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://netter.vote/vote"
+},
+{
+"text": "News",
+"href": "https://netter.vote/news"
+},
+{
+"text": "Other",
+"href": "https://netter.vote/contribute"
+},
+{
+"text": "Photos",
+"href": "https://netter.vote/photos"
+},
+{
+"text": "Priorities",
+"href": "https://netter.vote/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://netter.vote/privacy-policy"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://netter.vote/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://netter.vote/contribute"
+},
+{
+"text": "Voter Information",
+"href": "https://netter.vote/vote"
+},
+{
+"text": "[image]",
+"href": "https://netter.vote/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mike.netter.5"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/mike-netter-2889a9/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/nettermike"
+}
 ]

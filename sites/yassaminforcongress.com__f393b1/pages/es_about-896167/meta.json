@@ -1,11 +1,14 @@
 {
- "description": "Congresswoman Yassamin Ansari represents Arizona\u2019s Third Congressional District \u2013 one of the most diverse communities in the country and home to Phoenix, the",
+ "description": "Congresswoman Yassamin Ansari represents Arizona’s Third Congressional District – one of the most diverse communities in the country and home to Phoenix, the",
  "final_url": "https://yassaminforcongress.com/es/about/",
- "paid_for_by": null,
+ "fingerprint": "5fc236f534bde23c65dff4a367e4023bd21d10a0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Yassamin - Yassamin for Congress",
  "years_mentioned": [
   "2014",
   "2020",
-  "2025"
+  "2025",
+  "2040"
  ]
 }

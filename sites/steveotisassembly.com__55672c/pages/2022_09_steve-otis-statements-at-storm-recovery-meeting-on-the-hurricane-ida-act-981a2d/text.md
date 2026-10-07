@@ -1,6 +1,4 @@
-Steve Otis Statements at Storm Recovery Meeting on the Hurricane Ida Action Plan
-Statement of Assemblyman Steve Otis, Governor’s Office of Storm Recovery Meeting on the Hurricane Ida Action Plan, September 8, 2022, New Rochelle City Hall
-Welcome to New Rochelle and to the Sound Shore of Westchester County.
+Home News About Steve Priorities Endorsements Voter Info Volunteer Contribute Contact Steve Otis Statements at Storm Recovery Meeting on the Hurricane Ida Action Plan September 8, 2022 Statement of Assemblyman Steve Otis, Governor’s Office of Storm Recovery Meeting on the Hurricane Ida Action Plan, September 8, 2022, New Rochelle City Hall Welcome to New Rochelle and to the Sound Shore of Westchester County.
 Thank you for your Hurricane Ida Action Plan and Program Design proposal.
 And thank you for coming here to share your plan and solicit further comments.
 Westchester County communities suffered severe damage from Hurricane Ida, some of the worst flood loss challenges in the region.
@@ -43,3 +41,4 @@ The bond act, if approved by the voters, will provide at least $250 million for 
 Our municipalities and local property taxpayers need state assistance to help pay for these needed upgrades.
 I look forward to hearing other comments on the Hurricane Ida Action Plan and know the GOSR will make adjustments.
 I want to again thank Governor Hochul, my colleagues in both houses of the legislature, Katie Brennan, Executive Director of the Governor’s Office of Storm Recovery and the entire GOSR team for securing these federal funds and making a commitment to addressing the housing and infrastructure needs that continue to require our attention and commitment.
+Make a Contribution Contact Us Follow Friends of Steve Otis Paid for by Friends of Steve Otis | 57 High Point Circle, Rye Brook, NY 10573

@@ -1,9 +1,2 @@
-About
-PRIORITIES
-THE RECORD
-EVENTS
-NEWS
-JOIN US
-DONATE
-Donate
-Your generous support powers Mark's grassroots campaign.
+About PRIORITIES THE RECORD EVENTS NEWS JOIN US DONATE info@electedelson.com (410) 324-2173‬ Friends of Mark Edelson PO Box 38265 Baltimore, MD 21231 Donate Your generous support powers Mark's grassroots campaign.
+ABOUT PRIORITIES ACCOMPLISHMENTS DONATE JOIN US (410) 324-2173‬ info@electedelson.com Friends of Mark Edelson PO Box 38265 Baltimore, MD 21231 Paid for and Authorized by Friends of Mark Edelson, Gregory Arbogast, Treasurer.

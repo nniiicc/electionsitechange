@@ -1,9 +1,8 @@
-Press
-Becerra addresses energized supporters in Los Angeles as primary election returns roll in
-LOS ANGELES, CA — With votes still being counted across California tonight, Xavier Becerra took the stage at La Plaza de Cultura y Artes in Los Angeles to address energized supporters whose enthusiasm for his campaign remains undiminished.
-Becerra’s full remarks are available at this link.
-Remarks as prepared:
-The California dream — it’s alive tonight.
+Contribute Now This is a break-glass moment – for our families, our neighbors, and folks all across our great state.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Contribute Volunteer About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Volunteer Contribute Press Becerra addresses energized supporters in Los Angeles as primary election returns roll in June 2, 2026 LOS ANGELES, CA — With votes still being counted across California tonight, Xavier Becerra took the stage at La Plaza de Cultura y Artes in Los Angeles to address energized supporters whose enthusiasm for his campaign remains undiminished.
+Becerra’s full remarks are available at this link .
+Remarks as prepared: The California dream — it’s alive tonight.
 We stand here at the birthplace of El Pueblo de Nuestra Señora la Reina de los Ángeles del Río de Porciúncula — better known as “LA”.
 Like my family, LA is the starting line for millions of success stories across this great state.
 And, here in Hollywood’s hometown, we love a good underdog story.
@@ -97,8 +96,7 @@ Its optimism.
 Its inclusion.
 Its ambition and invention.
 That is what makes America great.
-Not the wealth and privilege, but one people –
-e pluribus unum – lifting all boats.
+Not the wealth and privilege, but one people – e pluribus unum – lifting all boats.
 You know, we have a White House that ran on ‘America First’ and an affordable middle class.
 And, almost immediately, they ran away from their own promises.
 Now the country is mired in an economy without mooring, a war without purpose, a job market without prospects and an American community without common ground.
@@ -120,3 +118,5 @@ We will not be bought.
 We will not be bullied.
 And we are never backing down.
 November, here we come.
+Contribute Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other OR Volunteer About Issues Take Action News Room Store Privacy Policy Paid for by Becerra for Governor 2026

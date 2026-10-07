@@ -1,4 +1,5 @@
-RALEIGH – Today, Michael Whatley was endorsed by the U.S.
+DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE Michael Whatley Endorsed by the U.S.
+Chamber of Commerce September 30, 2026 RALEIGH – Today, Michael Whatley was endorsed by the U.S.
 Chamber of Commerce.
 The Chamber endorsed Whatley because they know he is the Pro-Job-Creator candidate who will support policies that help create more and better jobs and more and better opportunities for all North Carolinians.
 Under Roy Cooper’s reign, he was consistently against North Carolina job creators.
@@ -16,3 +17,4 @@ Chamber of Commerce.
 Chamber of Commerce endorsement in my race.
 Business owners know that Roy Cooper’s agenda will bring higher taxes, more regulations and higher costs, stifling innovation and cut off job growth.
 As your Senator I will fight for tax, trade and regulatory policies that will allow small businesses, manufacturers and farmers to create more jobs here in North Carolina!” said Michael Whatley.
+X-twitter Facebook Instagram Privacy Policy Terms of Use Mobile Terms Media Tool Kit Privacy Policy Terms of Use Mobile Terms Media Tool Kit Paid for by Whatley for Senate

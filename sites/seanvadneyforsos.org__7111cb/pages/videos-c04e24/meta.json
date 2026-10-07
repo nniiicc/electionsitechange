@@ -1,7 +1,9 @@
 {
  "description": "Explore Colorado Secretary of State videos featuring Sean Vadney, advocating for election integrity and fair access to the electoral process.",
  "final_url": "https://seanvadneyforsos.org/videos",
- "paid_for_by": null,
+ "fingerprint": "e1ce49837dd05b74db3b14acb124e6a2d2fbf43b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Colorado Secretary of State Videos by Sean Vadney",
  "years_mentioned": []
 }

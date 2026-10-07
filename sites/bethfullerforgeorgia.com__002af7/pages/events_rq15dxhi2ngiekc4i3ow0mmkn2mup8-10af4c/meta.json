@@ -1,7 +1,11 @@
 {
  "description": "https://secure.actblue.com/donate/adamclevelandbethfuller",
  "final_url": "https://www.bethfullerforgeorgia.com/events/rq15dxhi2ngiekc4i3ow0mmkn2mup8",
- "paid_for_by": "Paid for by Beth Fuller for Georgia, Inc | P",
- "title": "North Fulton Unity Fundraiser \u2014 Beth Fuller for Georgia | District 53 State House",
- "years_mentioned": []
+ "fingerprint": "14e557dd7241370997df1c60baf45b88d7aa85c3",
+ "format": 3,
+ "paid_for_by": "Paid for by Beth Fuller for Georgia, Inc",
+ "title": "North Fulton Unity Fundraiser — Beth Fuller for Georgia | District 53 State House",
+ "years_mentioned": [
+  "2026"
+ ]
 }

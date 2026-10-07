@@ -1,19 +1,9 @@
-Phone Bank Blitz to the Primaries — Community Call Night
-Monday, March 16, 2026, • 5:30–8:00 PM (CT)
-Link opens at 5:30 PM for setup & training
-Calling from 6:00–8:00 PM
-We’re bringing neighbors together from Granite City, Alton, Collinsville, Wood River, and Edwardsville for an evening of community calls.
+0 Skip to Content Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Folder: Home Back Rosie's Political Agenda Contact Folder: About Back Bio News Blog Events Folder: Donate Back Donate Now ActBlue Get Involved Schedule with Rosie Back to All Events Phone Bank Blitz to the Primaries — Community Call Night Monday, March 16, 2026 5:30 PM 8:00 PM Google Calendar ICS Phone Bank Blitz to the Primaries — Community Call Night Monday, March 16, 2026, • 5:30–8:00 PM (CT) Link opens at 5:30 PM for setup & training Calling from 6:00–8:00 PM We’re bringing neighbors together from Granite City, Alton, Collinsville, Wood River, and Edwardsville for an evening of community calls.
 Scripts provided and support on standby —jump in at any experience level!
-Join the Google Meet (for training & coordination):
-https://meet.google.com/knh-svib-pof
-Pro tip for smooth calling:
-- Use a laptop or tablet for the Google Meet
-- Use your phone separately to place calls
-- Keep the script handy and mute yourself on Meet when dialing
-Phone‑banking assistance provided:
-We’ll walk through the script, FAQs, and best practices at 5:30 PM.
+Join the Google Meet (for training & coordination): https://meet.google.com/knh-svib-pof Pro tip for smooth calling: - Use a laptop or tablet for the Google Meet - Use your phone separately to place calls - Keep the script handy and mute yourself on Meet when dialing Phone‑banking assistance provided: We’ll walk through the script, FAQs, and best practices at 5:30 PM.
 Live helpers will be available throughout.
 Want a reminder before Monday?
 Email: rosie@rosiebrownforillinoisstaterep111.com and we’ll send you a quick nudge with the link and tips.
 Let’s connect with our community and keep participation strong across Madison County!
-#PhoneBankBlitz #CommunityCallNight #MadisonCountyIL #GraniteCity #Alton #Collinsville #WoodRiver #Edwardsville #NeighborsHelpingNeighbors #VolunteerTogether
+#PhoneBankBlitz #CommunityCallNight #MadisonCountyIL #GraniteCity #Alton #Collinsville #WoodRiver #Edwardsville #NeighborsHelpingNeighbors #VolunteerTogether Previous Previous March 14 FAMILY BOWLING NIGHT!
+Blitz to the Primaries Next Next May 24 FROM COMMUNITY TO CAPITOL: DISTRICT 111 ADVOCACY IN ACTION TOWN HALL Rosie Brown for Illinois State Representative District #111 Paid for by Friends of Rosetta Brown Email rosie@rosiebrownforillinoisstaterep111.com

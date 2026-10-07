@@ -1,24 +1,110 @@
 [
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Van+Oort+for+Vermont",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Van+Oort+for+Vermont",
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/event/amanda-janoo-town-hall",
-"https://vanoortforvermont.com/event/postcard-party",
-"https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort",
-"https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort-2",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/events/2026-09-28",
-"https://vanoortforvermont.com/events/2026-09-30",
-"https://vanoortforvermont.com/events/2026-10-13",
-"https://vanoortforvermont.com/events/2026-10-18",
-"https://vanoortforvermont.com/events/list",
-"https://vanoortforvermont.com/events/month",
-"https://vanoortforvermont.com/events/month/2026-09",
-"https://vanoortforvermont.com/events/month/2026-11",
-"https://vanoortforvermont.com/events/month?ical=1",
-"https://vanoortforvermont.com/events/month?outlook-ical=1",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates"
+{
+"text": "13",
+"href": "https://vanoortforvermont.com/events/2026-10-13/"
+},
+{
+"text": "18",
+"href": "https://vanoortforvermont.com/events/2026-10-18/"
+},
+{
+"text": "28",
+"href": "https://vanoortforvermont.com/events/2026-09-28/"
+},
+{
+"text": "30",
+"href": "https://vanoortforvermont.com/events/2026-09-30/"
+},
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Amanda Janoo town hall",
+"href": "https://vanoortforvermont.com/event/amanda-janoo-town-hall/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://vanoortforvermont.com/events/month/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://vanoortforvermont.com/events/month/?outlook-ical=1"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "List",
+"href": "https://vanoortforvermont.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://vanoortforvermont.com/events/month/"
+},
+{
+"text": "Nov",
+"href": "https://vanoortforvermont.com/events/month/2026-11/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Van+Oort+for+Vermont"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvanoortforvermont.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Van+Oort+for+Vermont+Van+Oort+for+Vermont"
+},
+{
+"text": "Postcard party",
+"href": "https://vanoortforvermont.com/event/postcard-party/"
+},
+{
+"text": "Sep",
+"href": "https://vanoortforvermont.com/events/month/2026-09/"
+},
+{
+"text": "This Month",
+"href": "https://vanoortforvermont.com/events/month/"
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "Virtual Phone Bank for Jessica Van Oort",
+"href": "https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort-2/"
+},
+{
+"text": "Virtual Phone Bank for Jessica Van Oort",
+"href": "https://vanoortforvermont.com/event/virtual-phone-bank-for-jessica-van-oort/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "[tooltip: Next month]",
+"href": "https://vanoortforvermont.com/events/month/2026-11/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://vanoortforvermont.com/events/month/2026-09/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vanoortforvermont.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

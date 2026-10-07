@@ -1,11 +1,38 @@
 [
-"https://amazon.com/dp/B0F2N8DQBT/ref=tmm_pap_swatch_0",
-"https://facebook.com/profile.php?id=61555465286264",
-"https://newgreenhorizons.us/",
-"https://welzerforcongress.org/",
-"https://welzerforcongress.org/about",
-"https://welzerforcongress.org/cart",
-"https://welzerforcongress.org/contact",
-"https://welzerforcongress.org/donate-and-downloads",
-"https://welzerforcongress.org/links"
+{
+"text": "0",
+"href": "https://www.welzerforcongress.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.welzerforcongress.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.welzerforcongress.org/contact"
+},
+{
+"text": "Donate and Downloads",
+"href": "https://www.welzerforcongress.org/donate-and-downloads"
+},
+{
+"text": "Links",
+"href": "https://www.welzerforcongress.org/links"
+},
+{
+"text": "New Green Horizons",
+"href": "https://newgreenhorizons.us"
+},
+{
+"text": "Vote Steven Welzer for US Congress NJ CD 3",
+"href": "https://www.welzerforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555465286264"
+},
+{
+"text": "https://www.amazon.com/dp/B0F2N8DQBT/ref=tmm_pap_swatch_0",
+"href": "https://www.amazon.com/dp/B0F2N8DQBT/ref=tmm_pap_swatch_0"
+}
 ]

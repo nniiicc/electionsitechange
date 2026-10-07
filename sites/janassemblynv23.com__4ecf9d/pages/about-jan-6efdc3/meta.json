@@ -1,9 +1,13 @@
 {
  "description": "Meet your candidate",
  "final_url": "https://janassemblynv23.com/about-jan",
- "paid_for_by": null,
+ "fingerprint": "43a7c7f17213087ea4aec855906899148b781bb4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Jan",
  "years_mentioned": [
+  "1983",
+  "2004",
   "2023"
  ]
 }

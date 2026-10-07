@@ -1,37 +1,146 @@
 [
-"http://mastforcongress.com/seniors",
-"http://mastforcongress.com/veterans",
-"https://facebook.com/BrianMastFL",
-"https://mastforcongress.com/",
-"https://mastforcongress.com/biden-left-them-dead-and-abandoned",
-"https://mastforcongress.com/blog",
-"https://mastforcongress.com/contact",
-"https://mastforcongress.com/freedom-is-earned-honoring-those-who-answer-the-call",
-"https://mastforcongress.com/freedom-isnt-free",
-"https://mastforcongress.com/honoring-the-battle-after-the-battlefield",
-"https://mastforcongress.com/honoring-the-sacrifice-better-healthcare-for-our-heroes",
-"https://mastforcongress.com/meet-brian",
-"https://mastforcongress.com/priorities",
-"https://mastforcongress.com/priorities/america-first",
-"https://mastforcongress.com/priorities/community",
-"https://mastforcongress.com/priorities/healthcare",
-"https://mastforcongress.com/priorities/israel",
-"https://mastforcongress.com/priorities/life",
-"https://mastforcongress.com/priorities/second-amendment",
-"https://mastforcongress.com/priorities/seniors",
-"https://mastforcongress.com/priorities/swamp",
-"https://mastforcongress.com/priorities/tax",
-"https://mastforcongress.com/priorities/veterans",
-"https://mastforcongress.com/priorities/water",
-"https://mastforcongress.com/privacy-policy",
-"https://mastforcongress.com/promises-kept-the-medal-of-sacrifice-is-now-law",
-"https://mastforcongress.com/put-veterans-in-the-drivers-seat",
-"https://mastforcongress.com/shop",
-"https://mastforcongress.com/take-action",
-"https://mastforcongress.com/veterans-lets-talk-about-it",
-"https://mastforcongress.com/why-this-month-is-important-to-me",
-"https://secure.winred.com/mast-for-congress/donate",
-"https://truthsocial.com/@BrianMastFL",
-"https://twitter.com/BrianMastFL",
-"https://youtube.com/channel/UCFHmV3VcjZxOEFeTitzUszQ"
+{
+"text": "America First",
+"href": "https://mastforcongress.com/priorities/america-first/"
+},
+{
+"text": "Biden left them dead and abandoned August 4, 2022",
+"href": "https://mastforcongress.com/biden-left-them-dead-and-abandoned/"
+},
+{
+"text": "Blog",
+"href": "https://mastforcongress.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://mastforcongress.com/contact/"
+},
+{
+"text": "Defending Life",
+"href": "https://mastforcongress.com/priorities/life/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mast-for-congress/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/mast-for-congress/donate"
+},
+{
+"text": "Drain The Swamp",
+"href": "https://mastforcongress.com/priorities/swamp/"
+},
+{
+"text": "Ensuring Care for Seniors",
+"href": "https://mastforcongress.com/priorities/seniors/"
+},
+{
+"text": "Fighting For Clean Water",
+"href": "https://mastforcongress.com/priorities/water/"
+},
+{
+"text": "Freedom Isn’t Free: Making Veterans the Heart of America’s 250th Anniversary April 20, 2026",
+"href": "https://mastforcongress.com/freedom-isnt-free/"
+},
+{
+"text": "Freedom is Earned: Honoring Those Who Answer the Call May 4, 2026",
+"href": "https://mastforcongress.com/freedom-is-earned-honoring-those-who-answer-the-call/"
+},
+{
+"text": "Homeless Veterans & The Border. Let’s Talk About It… May 13, 2024",
+"href": "https://mastforcongress.com/veterans-lets-talk-about-it/"
+},
+{
+"text": "Honoring the Battle After the Battlefield June 8, 2026",
+"href": "https://mastforcongress.com/honoring-the-battle-after-the-battlefield/"
+},
+{
+"text": "Honoring the Sacrifice: Better Healthcare for Our Heroes May 26, 2026",
+"href": "https://mastforcongress.com/honoring-the-sacrifice-better-healthcare-for-our-heroes/"
+},
+{
+"text": "Improving Care for Veterans",
+"href": "https://mastforcongress.com/priorities/veterans/"
+},
+{
+"text": "Making Healthcare More Affordable",
+"href": "https://mastforcongress.com/priorities/healthcare/"
+},
+{
+"text": "Meet Brian",
+"href": "https://mastforcongress.com/meet-brian/"
+},
+{
+"text": "Priorities",
+"href": "https://mastforcongress.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mastforcongress.com/privacy-policy/"
+},
+{
+"text": "Promises Kept: The Medal of Sacrifice is Now Law June 1, 2026",
+"href": "https://mastforcongress.com/promises-kept-the-medal-of-sacrifice-is-now-law/"
+},
+{
+"text": "Protecting The Second Amendment",
+"href": "https://mastforcongress.com/priorities/second-amendment/"
+},
+{
+"text": "Put Veterans in the Driver’s Seat September 21, 2026",
+"href": "https://mastforcongress.com/put-veterans-in-the-drivers-seat/"
+},
+{
+"text": "Safer And Stronger Communities",
+"href": "https://mastforcongress.com/priorities/community/"
+},
+{
+"text": "Shop",
+"href": "https://mastforcongress.com/shop/"
+},
+{
+"text": "Supporting our Ally Israel",
+"href": "https://mastforcongress.com/priorities/israel/"
+},
+{
+"text": "Take Action",
+"href": "https://mastforcongress.com/take-action/"
+},
+{
+"text": "Tax Cuts And Jobs",
+"href": "https://mastforcongress.com/priorities/tax/"
+},
+{
+"text": "Why this month is important to me May 16, 2022",
+"href": "https://mastforcongress.com/why-this-month-is-important-to-me/"
+},
+{
+"text": "[image: Mast for Congress]",
+"href": "https://mastforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://truthsocial.com/@BrianMastFL"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BrianMastFL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BrianMastFL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCFHmV3VcjZxOEFeTitzUszQ"
+},
+{
+"text": "click here",
+"href": "http://mastforcongress.com/seniors"
+},
+{
+"text": "click here",
+"href": "http://mastforcongress.com/veterans"
+}
 ]

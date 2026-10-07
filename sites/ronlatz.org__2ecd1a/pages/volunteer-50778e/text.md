@@ -1,3 +1,2 @@
-Volunteer Click here to see our upcoming volunteer events!
-Volunteer to be on Ron’s people-powered team!
-(complete the form)
+0 Skip to Content Home Endorsements About Volunteer Policy DONATE Open Menu Close Menu Home Endorsements About Volunteer Policy DONATE Open Menu Close Menu Home Endorsements About Volunteer Policy DONATE Volunteer Click here to see our upcoming volunteer events!
+Volunteer to be on Ron’s people-powered team! (complete the form) About ‍ ‍ Endorsements ‍ ‍ Volunteer ‍ ‍ Donate ‍ Photos ron@ronlatz.org Prepared and paid for by the Latz for Senate Volunteer Committee, 4530 Douglas Ave, Golden Valley, MN 55416-3527

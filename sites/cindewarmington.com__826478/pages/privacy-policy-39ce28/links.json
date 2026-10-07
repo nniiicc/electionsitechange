@@ -1,16 +1,66 @@
 [
-"http://cindewarmington.com/",
-"https://bsky.app/profile/cindewarmington.bsky.social",
-"https://cindewarmington.com/",
-"https://cindewarmington.com/endorsements",
-"https://cindewarmington.com/news",
-"https://cindewarmington.com/priorities",
-"https://cindewarmington.com/privacy-policy",
-"https://facebook.com//CindeWarmingtonNH",
-"https://friends-of-cinde-warmington.solidarity.tech/events",
-"https://instagram.com/cindewarmington",
-"https://secure.actblue.com/donate/cw-website26",
-"https://tiktok.com/@cinde.warmington",
-"https://x.com/CindeWarmington",
-"https://youtube.com/@CindeWarmingtonNH"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cw-website26"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cindewarmington.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://friends-of-cinde-warmington.solidarity.tech/events"
+},
+{
+"text": "Home",
+"href": "https://www.cindewarmington.com/"
+},
+{
+"text": "News",
+"href": "https://www.cindewarmington.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.cindewarmington.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cindewarmington.com/privacy-policy"
+},
+{
+"text": "Vote@CindeWarmington.com",
+"href": "mailto:Vote@CindeWarmington.com"
+},
+{
+"text": "[image: Cinde Warmington for Governor]",
+"href": "https://www.cindewarmington.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/cindewarmington.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//CindeWarmingtonNH"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cindewarmington/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@cinde.warmington"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CindeWarmingtonNH"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CindeWarmington"
+},
+{
+"text": "cindewarmington.com",
+"href": "http://cindewarmington.com"
+}
 ]

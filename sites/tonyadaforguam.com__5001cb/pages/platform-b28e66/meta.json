@@ -1,7 +1,9 @@
 {
  "description": "This is the platform page for the election of Tony Ada to the 36th Guam Legislature. Tony Ada is a former senator of the 30th, 31st, 32nd, and 33rd Guam Legislatures serving in politics as the Minority Whip (31st) and the Minority Leader (32nd, 33rd).",
  "final_url": "https://www.tonyadaforguam.com/platform",
- "paid_for_by": null,
+ "fingerprint": "d076fade206a4e6ea58e28c5d734db4ffb3080d0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Platform | Tony Ada for Senator",
  "years_mentioned": []
 }

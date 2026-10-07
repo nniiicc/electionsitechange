@@ -1,11 +1,42 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://kentroberson.org/about-kent",
-"https://kentroberson.org/contact-us",
-"https://kentroberson.org/donate",
-"https://kentroberson.org/legislative-updates",
-"https://kentroberson.org/privacy",
-"https://kentroberson.org/scholarships",
-"https://kentroberson.org/upcoming-events-1",
-"https://kentroberson.org/welcome"
+{
+"text": "About Kent",
+"href": "https://kentroberson.org/about-kent"
+},
+{
+"text": "Contact Us",
+"href": "https://kentroberson.org/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://kentroberson.org/donate"
+},
+{
+"text": "Kentaroberson@gmail.com",
+"href": "mailto:Kentaroberson@gmail.com"
+},
+{
+"text": "Legislative Updates",
+"href": "https://kentroberson.org/legislative-updates"
+},
+{
+"text": "Privacy",
+"href": "https://kentroberson.org/privacy"
+},
+{
+"text": "Scholarships",
+"href": "https://kentroberson.org/scholarships"
+},
+{
+"text": "Upcoming Events",
+"href": "https://kentroberson.org/upcoming-events-1"
+},
+{
+"text": "Welcome",
+"href": "https://kentroberson.org/welcome"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

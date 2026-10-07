@@ -1,4 +1,4 @@
-The story of Alabama’s 7th District is the story of our fight for civil rights and voting rights for all Americans.
+About Terri Sewell Join Team Terri Issues News Photos Donate Donate Historic Preservation The historic sites of Alabama's 7th Congressional District are national treasures which must be preserved The story of Alabama’s 7th District is the story of our fight for civil rights and voting rights for all Americans.
 By preserving that story and sharing it with the public, we can cultivate a stronger understanding of our nation’s history and generate economic growth here at home.
 From the Edmund Pettus Bridge to the 16th St.
 Baptist Church, I have led the fight to bring federal preservation efforts and investment home to Alabama.
@@ -7,6 +7,7 @@ In our state’s rural Black Belt, I have led the fight to save Selma’s histor
 In Congress, I introduced legislation, supported by the entire Alabama congressional delegation, urging the creation of a national civil rights monument in Birmingham.
 As one of his final acts in the White House, President Obama followed our recommendation and used his executive power to create the Birmingham Civil Rights National Monument.
 I have also introduced and passed amendments to the federal budget, increasing funding for historic preservation efforts on HBCU campuses by $40 million.
-Alabama’s 7th District is home to some of the most prominent HBCUs in the country, and I will continue fighting to preserve the civil rights and voting rights sites at these historic institutions.
+Alabama’s 7 th District is home to some of the most prominent HBCUs in the country, and I will continue fighting to preserve the civil rights and voting rights sites at these historic institutions.
 Together, it is our job to protect the historic sites of Alabama’s 7th District.
 The future of our district depends on our fight to preserve its history.
+Join Team Terri About Terri Join Team Terri Issues News Photos ©# Terri Sewell for Congress Paid for by Terri Sewell for Congress Privacy Policy

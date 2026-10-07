@@ -1,7 +1,26 @@
 [
-"https://kenfornm.com/",
-"https://kenfornm.com/cdn-cgi/l/email-protection",
-"https://kenfornm.com/privacy-policy.html",
-"https://kenfornm.com/terms-and-conditions.html",
-"https://secure.anedot.com/committee-to-elect-Ken-Brennan/donate"
+{
+"text": "Ken Brennan for NM",
+"href": "https://kenfornm.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kenfornm.com/privacy-policy.html"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://kenfornm.com/terms-and-conditions.html"
+},
+{
+"text": "[email protected]",
+"href": "mailto:kenfornm@gmail.com"
+},
+{
+"text": "secure.anedot.com/committee-to-elect-Ken-Brennan/donate",
+"href": "https://secure.anedot.com/committee-to-elect-Ken-Brennan/donate"
+},
+{
+"text": "← Back to Home",
+"href": "https://kenfornm.com/"
+}
 ]

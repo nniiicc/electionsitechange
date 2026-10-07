@@ -1,18 +1,66 @@
 [
-"https://acornforgeorgia.com/",
-"https://acornforgeorgia.com/about",
-"https://acornforgeorgia.com/donate",
-"https://acornforgeorgia.com/issues",
-"https://acornforgeorgia.com/join",
-"https://facebook.com/61557984899071/videos/393372006838803",
-"https://facebook.com/WixStudio",
-"https://house.ga.gov/mediaServices/Documents/Maps/2023HD137.pdf",
-"https://instagram.com/acornforgeorgia",
-"https://instagram.com/wix",
-"https://linkedin.com/company/wix-com",
-"https://tiktok.com/@wix",
-"https://twitter.com/",
-"https://twitter.com/WixStudio",
-"https://youtube.com/",
-"https://youtube.com/user/Wix"
+{
+"text": "About",
+"href": "https://www.acornforgeorgia.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.acornforgeorgia.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.acornforgeorgia.com"
+},
+{
+"text": "Issues",
+"href": "https://www.acornforgeorgia.com/issues"
+},
+{
+"text": "Join",
+"href": "https://www.acornforgeorgia.com/join"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/61557984899071/videos/393372006838803"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/acornforgeorgia/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/user/Wix"
+},
+{
+"text": "[image]",
+"href": "https://www.house.ga.gov/mediaServices/Documents/Maps/2023HD137.pdf"
+}
 ]

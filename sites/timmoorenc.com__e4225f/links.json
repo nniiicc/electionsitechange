@@ -1,9 +1,30 @@
 [
-"https://facebook.com/reptimmoore",
-"https://secure.winred.com/friends-of-tim-moore/storefront",
-"https://timmoore.com/",
-"https://timmoore.com/press",
-"https://timmoore.com/privacy-policy",
-"https://timmoore.com/terms-and-conditions",
-"https://youtube.com/channel/UC8BAImTFHINcN7qSu0qvO1w"
+{
+"text": "Press",
+"href": "https://www.timmoore.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.timmoore.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/friends-of-tim-moore/storefront/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.timmoore.com/terms-and-conditions"
+},
+{
+"text": "[image: Tim Moore for Congress]",
+"href": "https://www.timmoore.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reptimmoore"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC8BAImTFHINcN7qSu0qvO1w"
+}
 ]

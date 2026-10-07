@@ -1,7 +1,12 @@
-Thank you for visiting my campaign website.
-If your intention was to visit my official House of Representatives website, please click here.
-If you would like to make a donation via mail, please send a check payable to Mast For Congress to the following address:
-Mast For Congress
-PO Box 3016
-Stuart, FL 34995
-Other campaign-related inquiries may be submitted here:
+Thanks for your interest in our AMERICA FIRST movement.
+Will you please take a moment to join our team?
+Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Contact Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+If you would like to make a donation via mail, please send a check payable to Mast For Congress to the following address: Mast For Congress PO Box 3016 Stuart, FL 34995 Other campaign-related inquiries may be submitted here: Name * First Last Email * Phone * Message * CAPTCHA Stay Up To Date First Name Last Name Email Address * Phone Sign up here to receive text updates.
+By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
+No consent required to buy.
+Msg&data rates may apply.
+Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+Brian Mast is a retired member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

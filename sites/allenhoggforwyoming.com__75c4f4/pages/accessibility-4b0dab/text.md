@@ -1,40 +1,10 @@
-Our Commitment
-Allen Hogg for Wyoming is committed to ensuring that our
-website is accessible to all visitors, including people with disabilities.
-We believe that every
-constituent deserves equal access to information about our campaign and the ability to
-participate in the democratic process.
-Standards
-We strive to conform to the Web Content Accessibility
-Guidelines (WCAG) 2.1, Level AA.
-These guidelines cover a wide range of recommendations for
-making web content more accessible to people with disabilities, including those who are blind,
-have low vision, are deaf or hard of hearing, or have cognitive or motor disabilities.
-Accessibility Features
-Our website includes the following accessibility
-features:
-- Semantic HTML — Proper use of headings, lists, and landmarks for screen
-reader navigation
-- Keyboard navigation — All interactive elements are accessible via keyboard
-- Alt text — Descriptive alternative text for images
-- ARIA labels — Accessible labels for interactive components
-- Color contrast — Text meets WCAG AA contrast ratio requirements
-- Responsive design — Content adapts to different screen sizes and zoom
-levels
-- Accessibility widget — On-page controls for font size adjustment and high
-contrast mode
-- Form labels — All form inputs have associated labels
-Known Limitations
-While we strive for full accessibility, some areas may have
-limitations as we continue to improve.
-We are committed to addressing any issues as they are
-identified.
-Reporting Issues
-If you encounter any accessibility barriers or have
-suggestions for improvement, we want to hear from you.
-Please contact us with:
-- A description of the accessibility issue
-- The page or feature where you encountered the problem
-- The assistive technology you were using (if applicable)
-We take all accessibility feedback seriously and will
-work to resolve issues as quickly as possible.
+Allen Hogg for Wyoming Home About Issues Events Get Involved Contact Menu Home About Issues Events Get Involved Contact Accessibility Statement Our commitment to an inclusive website Our Commitment Allen Hogg for Wyoming is committed to ensuring that our website is accessible to all visitors, including people with disabilities.
+We believe that every constituent deserves equal access to information about our campaign and the ability to participate in the democratic process.
+Standards We strive to conform to the Web Content Accessibility Guidelines (WCAG) 2.1, Level AA.
+These guidelines cover a wide range of recommendations for making web content more accessible to people with disabilities, including those who are blind, have low vision, are deaf or hard of hearing, or have cognitive or motor disabilities.
+Accessibility Features Our website includes the following accessibility features: Semantic HTML — Proper use of headings, lists, and landmarks for screen reader navigation Keyboard navigation — All interactive elements are accessible via keyboard Alt text — Descriptive alternative text for images ARIA labels — Accessible labels for interactive components Color contrast — Text meets WCAG AA contrast ratio requirements Responsive design — Content adapts to different screen sizes and zoom levels Accessibility widget — On-page controls for font size adjustment and high contrast mode Form labels — All form inputs have associated labels Known Limitations While we strive for full accessibility, some areas may have limitations as we continue to improve.
+We are committed to addressing any issues as they are identified.
+Reporting Issues If you encounter any accessibility barriers or have suggestions for improvement, we want to hear from you.
+Please contact us with: A description of the accessibility issue The page or feature where you encountered the problem The assistive technology you were using (if applicable) We take all accessibility feedback seriously and will work to resolve issues as quickly as possible.
+Paid for by the committee to Elect Allen Hogg for Wyoming Home About Issues Contact Privacy Accessibility © # Allen Hogg for Wyoming.
+All rights reserved.

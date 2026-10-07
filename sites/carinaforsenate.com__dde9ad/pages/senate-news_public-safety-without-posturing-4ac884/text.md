@@ -1,9 +1,7 @@
-Public Safety Without the Posturing
-When I knock doors and public safety comes up, it's almost always one of two conversations.
+0 Skip to Content Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Public Safety Without the Posturing Get to Know Carina Sep 28 Written By Carina Santa Maria When I knock doors and public safety comes up, it's almost always one of two conversations.
 What's happening with immigration enforcement, and crime in general.
 They deserve different answers, so let me take them in order.
-Immigration Enforcement
-On immigration enforcement, what people describe to me is lawlessness, agencies coming into our neighborhoods and taking people without warrants and without identifying themselves.
+Immigration Enforcement On immigration enforcement, what people describe to me is lawlessness, agencies coming into our neighborhoods and taking people without warrants and without identifying themselves.
 People with no criminal history at all.
 I think most of us agree on the baseline: if someone has a serious criminal history and an active warrant, that's a different situation.
 But that is not what's playing out in our communities.
@@ -14,8 +12,7 @@ Our taxpayer-funded facilities should not be the launch point for taking people 
 It's immigrants today.
 It's someone else tomorrow.
 That's a slippery slope and I'd rather stand at the top of it.
-Crime Concerns
-On crime: I'm a mom, so of course I worry about it.
+Crime Concerns On crime: I'm a mom, so of course I worry about it.
 But I let the data guide me.
 Give me the evidence.
 And the evidence in our district right now shows crime at historic lows, which I credit to community policing, to the genuine relationships our departments have built with residents, and to making sure officers are protected, well-equipped, and trained to handle a range of situations.
@@ -43,6 +40,13 @@ The leadership I bring to this is servant leadership: hear from the people doing
 Thank you to everyone who continues to show up, speak up, and invest in the work of shaping our shared future.
 I’m deeply grateful to be on this journey with you.
 Let’s keep going—because together, we’re stronger.
-With gratitude,
-Carina Santa Maria
-Candidate for Illinois State Senate, District 27
+With gratitude, Carina Santa Maria Candidate for Illinois State Senate, District 27 Get to Know Carina Carina Santa Maria Previous Previous Officially Endorsed by Planned Parenthood Illinois Action Next Next Officially Endorsed by the Western Suburban Teachers Union (Local 571) HOME | ABOUT CARINA | ISSUES | VOLUNTEER | NEWS + EVENTS | RESOURCES | DISTRICT MAP | CONTACT (630) 788-1985 info@citizensforcarina.com PRIVACY POLICY Website paid for by Citizens for Carina Custom designed website by This Way to Fabulous Inc.
+DONATE NOW Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Updated Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up We respect your privacy.
+By providing your email, you are opting into receiving emails from Citizens for Carina.
+You may opt out at anytime.
+If you have any questions, contact info@citizensforcarina.com.
+Thank you!
+FOLLOW ALONG @CSMFORILLINOIS

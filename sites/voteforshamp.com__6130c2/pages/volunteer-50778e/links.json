@@ -1,14 +1,66 @@
 [
-"https://go.azsos.gov/wzld",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://google.com/analytics/terms",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/voteshamp/donate",
-"https://usa.gov/optout-instructions",
-"https://voteforshamp.com./",
-"https://voteforshamp.com/home",
-"https://voteforshamp.com/legislation",
-"https://voteforshamp.com/media-%26-gallery",
-"https://voteforshamp.com/volunteer"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/voteshamp/donate"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://secure.anedot.com/voteshamp/donate"
+},
+{
+"text": "Google Analytics Terms of Use",
+"href": "https://www.google.com/analytics/terms/"
+},
+{
+"text": "Google Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Home",
+"href": "https://voteforshamp.com/home"
+},
+{
+"text": "Legislation",
+"href": "https://voteforshamp.com/legislation"
+},
+{
+"text": "Media & Gallery",
+"href": "https://voteforshamp.com/media-%26-gallery"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Sign my Petition",
+"href": "https://go.azsos.gov/wzld"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://voteforshamp.com/volunteer"
+},
+{
+"text": "[image: Janae Shamp, BSN, RN For Arizona State House of Representatives ]",
+"href": "https://voteforshamp.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "disabling cookies",
+"href": "https://www.usa.gov/optout-instructions"
+},
+{
+"text": "https://voteforshamp.com.",
+"href": "https://voteforshamp.com."
+},
+{
+"text": "voteforshamp@gmail.com",
+"href": "mailto:voteforshamp@gmail.com"
+}
 ]

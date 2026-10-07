@@ -1,12 +1,9 @@
-"Something Needs to Be Done to Protect Us"
-Earlier today, I was out canvassing and I asked a guy named Mike what he thought about data centers.
+0 Skip to Content About Me Priorities Get Involved Blog FAQ Donate Now Open Menu Close Menu About Me Priorities Get Involved Blog FAQ Donate Now Open Menu Close Menu About Me Priorities Get Involved Blog FAQ Donate Now "Something Needs to Be Done to Protect Us" Jul 25 Written By Amanda Potter Earlier today, I was out canvassing and I asked a guy named Mike what he thought about data centers.
 He didn't hesitate.
-"I'm normally not a big fan of regulation," he told me, "but something needs to be done to protect us."
-That one sentence stuck with me, because Mike said out loud something I'd been circling for months without quite landing on the words for it.
+"I'm normally not a big fan of regulation," he told me, "but something needs to be done to protect us." That one sentence stuck with me, because Mike said out loud something I'd been circling for months without quite landing on the words for it.
 He wasn't contradicting himself.
 He was drawing a line — one that I think most South Dakotans draw instinctively, even if we don't always say it out loud: there's a difference between regulation that controls you, and regulation that protects you from something bigger than you.
-Two different questions
-A traditional dividing line in party politics is “big government.” That often boils down to how much regulation a person is comfortable with.
+Two different questions A traditional dividing line in party politics is “big government.” That often boils down to how much regulation a person is comfortable with.
 But here’s the thing — if someone were to ask whether I'm "pro-regulation" or "anti-regulation," I don't think that's actually the right question.
 The right question is: who is the regulation protecting, and who is it protecting them from?
 I am against big government intruding on the decisions that belong to a person and their family — how you start your family, what you do with your own body, who you marry, how you worship, what you read.
@@ -18,8 +15,7 @@ A fair price.
 A livable electric bill.
 A small business's ability to compete with a company that can operate at a loss for a decade in order to put the small business under.
 That's not "big government." That's the government doing one of the best things it can possibly do: standing between power and the people who don't have any.
-Data centers are the clearest example we have right now
-South Dakota had this exact argument in Pierre last session, and it maps onto this framework almost perfectly.
+Data centers are the clearest example we have right now South Dakota had this exact argument in Pierre last session, and it maps onto this framework almost perfectly.
 Applied Digital wanted to build a $5 billion, 430-megawatt data center campus in Deuel County, near the small town of Toronto — a town of about 200 people.
 The company said the project could generate real money for the county and school district, and it wasn't shy about wanting a deal: a 50-year sales tax exemption on equipment and software.
 The legislature said no.
@@ -33,19 +29,17 @@ A community organizer noting that residents living closest to the proposed site 
 None of those people were arguing against data centers on principle.
 They were asking the same thing Mike was asking: protect us.
 Not from choice.
-From being steamrolled.
-Where this shows up everywhere else
-Once you see this framework, you start seeing it everywhere in the choices we make in Pierre.
-And it's why "less regulation" isn't a value I hold on its own.
+From being steamrolled.‍ ‍ Where this shows up everywhere else Once you see this framework, you start seeing it everywhere in the choices we make in Pierre.‍ ‍ And it's why "less regulation" isn't a value I hold on its own.
 Avoiding regulation on a family's personal decisions?
 Yes.
 Regulation on a company big enough to reshape a small town's water table and power grid without ever having to live with the consequences?
-No.
-Where I landed after the conversation
-I'd rather South Dakota be a place that welcomes investment on our terms, not a place that gives away the store because we're afraid the word "regulation" makes us sound less business-friendly.
+No. ‍ ‍ Where I landed after the conversation ‍I'd rather South Dakota be a place that welcomes investment on our terms, not a place that gives away the store because we're afraid the word "regulation" makes us sound less business-friendly.
 Being pro-business and being pro-accountability aren't opposites.
 Deuel County proved you can hold a line and the sky doesn't fall — the legislature said no to a bad deal, and South Dakota is still, by every measure, open for the kind of investment that pays its own way.
 Mike put it better than I could have in a hundred campaign speeches: something needs to be done to protect us.
 That's not an argument against small government.
 It's the whole reason we have government at all.
 Thanks, Mike, for the insight.
+Amanda Potter Previous Previous Show Your Work…?
+Next Next Penny Wise, Pound Foolish: What South Dakota's "Surplus" Really Tells Us potterforsd@gmail.com Mailing Address: 2501 S.
+Louise Ave, Box 87986, Sioux Falls, SD 57109 Donate Now Paid for by Citizens for Amanda Potter

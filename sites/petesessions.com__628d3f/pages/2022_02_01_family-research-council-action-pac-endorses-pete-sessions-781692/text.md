@@ -1,11 +1,8 @@
-Family Research Council Action PAC Endorses Pete Sessions
-February 1, 2022
-FRC Action PAC, the political action committee connected with Family Research Council Action, is endorsing Congressman Pete Sessions to continue representing Texas’ 17th Congressional District in Congress.
+Toggle navigation Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate Family Research Council Action PAC Endorses Pete Sessions February 1, 2022 FRC Action PAC, the political action committee connected with Family Research Council Action, is endorsing Congressman Pete Sessions to continue representing Texas’ 17th Congressional District in Congress.
 FRC Action Executive Vice President, Lt.
 Gen.
 (Ret.) William G.
-Boykin commented:
-“Since its inception, FRC Action PAC has supported candidates who take a strong stand for faith, family, and freedom.
+Boykin commented: “Since its inception, FRC Action PAC has supported candidates who take a strong stand for faith, family, and freedom.
 In this critical hour, Americans are looking for bold leaders who are willing to defend these values.
 From working with Pete, evaluating his record, and speaking with those who know him, we believe he is such a leader.
 Pete understands the fundamental importance of protecting the right to life, the central role strong families must play if our country is to thrive, and that religious liberty is the bedrock of a truly prosperous nation.
@@ -18,4 +15,6 @@ We believe Pete will fight for these shared values once again in the 118th Congr
 “FRC Action PAC is confident that Pete will continue to be a dedicated advocate for life, freedom, and strong family values.
 He is the leader that Texas desperately needs, and we are pleased to offer our endorsement of his candidacy for election to the U.S.
 House of Representatives.
-Together we will create a culture in which all human life is valued, families flourish, and religious liberty thrives,” concluded Boykin.
+Together we will create a culture in which all human life is valued, families flourish, and religious liberty thrives,” concluded Boykin .
+P.O.
+Box 7754 Waco, TX 76714-7754 [email protected] Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate Paid for by Pete Sessions for Congress Privacy Policy

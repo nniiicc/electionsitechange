@@ -1,8 +1,5 @@
-A PROVEN CONSERVATIVE
-WORKING FOR RURAL TEXAS
-Proudly serving Andrews, Bailey, Briscoe, Castro, Childress, Cochran, Collingsworth, Donley, Gaines, Gray, Hale, Hall, Hemphill, Hockley, Lamb, Roberts, Swisher, Wheeler, and Yoakum counties.
-ABOUT KEN
-Born and raised in the Texas Panhandle, Ken King is no stranger to hard work.
+0 Skip to Content Home Issues Get Involved Voting Locations Donate Open Menu Close Menu Home Issues Get Involved Voting Locations Donate Open Menu Close Menu Home Issues Get Involved Voting Locations Donate A PROVEN CONSERVATIVE WORKING FOR RURAL TEXAS Proudly serving Andrews, Bailey, Briscoe, Castro, Childress, Cochran, Collingsworth, Donley, Gaines, Gray, Hale, Hall, Hemphill, Hockley, Lamb, Roberts, Swisher, Wheeler, and Yoakum counties.
+Voting Locations ABOUT KEN Born and raised in the Texas Panhandle, Ken King is no stranger to hard work.
 Since we elected him, Ken has built a reliable reputation for standing up for his neighbors.
 He fights to preserve our way of life and protect our local businesses from job-killing Austin regulations that hobble growth and prosperity.
 In the Texas House, King successfully turns conservative values into statewide law.
@@ -19,3 +16,6 @@ Whether it’s working in the oil patch or passing conservative laws in Austin, 
 That’s the Texas way and Ken is one of our own – fighting for us.
 Ken and his wife, Robin, raised their two kids in Canadian, Texas, where they are active members of First United Methodist Church.
 Ken and Robin also co-founded KK-125, an Ovarian Cancer Research Foundation.
+ENDORSED BY CONTACT Ken King Campaign P.O.
+Box 517 Canadian, TX 79014 806-323-3080 Pol.
+Ad Paid for by the Ken King Campaign Privacy Policy | Terms & Conditions

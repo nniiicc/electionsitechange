@@ -1,5 +1,5 @@
-When Disaster Strikes, South Dakotans Come Together
-Just last week, I was in Highmore celebrating Old Settler Days.
+top of page NIKKI G FOR SD DONATE HOME PRIORITIES ABOUT EVENTS NEWS ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
+All Posts Search When Disaster Strikes, South Dakotans Come Together nikkigronli Jun 30 2 min read Just last week, I was in Highmore celebrating Old Settler Days.
 I had planned to use this week’s News from the Road to reflect on the thoughtful conversations I had there about the future of public education.
 Then everything changed.
 On Monday, June 29, straight-line winds devastated the Highmore community.
@@ -30,4 +30,8 @@ South Dakotans have always taken care of one another in times of need.
 Now it’s up to our public institutions and private partners to do the same.
 To see drone footage of the damage, check out AeroAg Drone Services video.
 Want to help the community of Highmore recover?
-You can find information here.
+You can find information here .
+Recent Posts See All Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
+As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling South Dakotans Deserve Clear, Secure Elections With just # days until Election Day, and 9 until early voting, South Dakota voters should be able to trust that the rules governing their elections are clear, consistent, and secure.
+Instead, we are Contact Us Nikki G for SD P.O.
+BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

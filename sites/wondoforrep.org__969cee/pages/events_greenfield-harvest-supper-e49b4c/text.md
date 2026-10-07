@@ -1,10 +1,4 @@
-Back to All Events
-Meet Lora at her table at the Greenfield Town Common to celebrate the summer harvest.
+Skip to Content Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store DONATE Back to All Events Greenfield Harvest Supper Saturday, August 22, 2026 4:00 PM 6:00 PM Greenfield Common 1 Court Square Greenfield, Massachusetts, 01301 United States (map) Google Calendar ICS Meet Lora at her table at the Greenfield Town Common to celebrate the summer harvest.
 Local farmers, producers, and chefs donate ingredients, time, and talent to create a chef-prepared meal featuring food from more than 50 local farms and producers across the Pioneer Valley.
-Previous
-Previous
-August 20
-League of Women Voters Forum
-Next
-Next
-September 1
+Previous Previous August 20 League of Women Voters Forum Next Next September 1 Election Night Party DONATE Contact info@wondoforrep.org P.O.
+Box 19, Greenfield, MA 01302

@@ -1,18 +1,98 @@
 [
-"http://julianforhouse65.com/",
-"https://candidates.wp-site.xyz/events",
-"https://facebook.com/julianforhouse65",
-"https://heyvictor.com/",
-"https://instagram.com/julianforhoused65",
-"https://julianforhouse65.com/",
-"https://julianforhouse65.com/accessibility-statement",
-"https://julianforhouse65.com/endorsements",
-"https://julianforhouse65.com/event/fairview-canvass-with-team-julian-david-hardy-for-senate",
-"https://julianforhouse65.com/event/meet-and-greet-mission-cigar-and-social-spring-hill",
-"https://julianforhouse65.com/event/team-julian-weekday-canvass",
-"https://julianforhouse65.com/events",
-"https://julianforhouse65.com/issues",
-"https://julianforhouse65.com/meet-candidate",
-"https://julianforhouse65.com/terms-of-service",
-"https://julianforhouse65.com/volunteer"
+{
+"text": "About Me",
+"href": "https://www.julianforhouse65.com#donate"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.julianforhouse65.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://www.julianforhouse65.com#donate"
+},
+{
+"text": "Donate Today!",
+"href": "https://www.julianforhouse65.com#donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.julianforhouse65.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://candidates.wp-site.xyz/events/"
+},
+{
+"text": "Events",
+"href": "https://www.julianforhouse65.com/events/"
+},
+{
+"text": "Home",
+"href": "https://www.julianforhouse65.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.julianforhouse65.com/issues/"
+},
+{
+"text": "Meet & Greet Mission Cigar and Social – Spring Hill",
+"href": "https://www.julianforhouse65.com/event/meet-and-greet-mission-cigar-and-social-spring-hill/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://www.julianforhouse65.com/meet-candidate/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/fairview-canvass-with-team-julian-david-hardy-for-senate/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/meet-and-greet-mission-cigar-and-social-spring-hill/"
+},
+{
+"text": "See event info",
+"href": "https://www.julianforhouse65.com/event/team-julian-weekday-canvass/"
+},
+{
+"text": "Take Me Home",
+"href": "http://www.julianforhouse65.com"
+},
+{
+"text": "Team Julian & David Hardy for Senate Fairview Canvass",
+"href": "https://www.julianforhouse65.com/event/fairview-canvass-with-team-julian-david-hardy-for-senate/"
+},
+{
+"text": "Team Julian Canvass Every Tuesday-Thursday",
+"href": "https://www.julianforhouse65.com/event/team-julian-weekday-canvass/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.julianforhouse65.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.julianforhouse65.com/volunteer/"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.julianforhouse65.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/julianforhouse65/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/julianforhoused65/"
+}
 ]

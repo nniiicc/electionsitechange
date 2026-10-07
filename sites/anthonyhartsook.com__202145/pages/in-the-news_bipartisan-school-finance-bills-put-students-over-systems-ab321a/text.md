@@ -1,7 +1,4 @@
-Bipartisan school-finance bills put students over systems
-Colorado Politics
-By Anthony Hartsook | Jul 3, 2024
-Colorado’s education system is at a crossroads.
+0 Skip to Content About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu Folder: About Anthony Back About Legislative Accomplishments Gallery Vision Folder: News Back In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Bipartisan school-finance bills put students over systems Jul 3 Written By Jack Cutter Colorado Politics By Anthony Hartsook | Jul 3, 2024 Colorado’s education system is at a crossroads.
 Student achievement in basic graduation requirements for all subjects is at a dismal level.
 The resulting student test scores for science, reading, writing and math hinder numerous kids from achieving their full potential.
 Thousands of Colorado students are leaving our public high schools unprepared for the next step of career development whether that is in college, trade schools or another certification program.
@@ -44,4 +41,5 @@ I spent 26 years in the U.S.
 Army where accountability for performance and potential was not only expected but often the difference between life and death.
 Now that I am two years in as a state legislator, I have seen the dire need for our state government to be held accountable for how taxpayer dollars are spent.
 By funding individual students instead of systems, and by leveraging data-driven insights, my fellow policymakers and I can work to ensure resources are allocated efficiently, and that there are real feedback loops between businesses and our education system to strengthen our workforce and promote student success.
-Anthony Hartsook is a Republican representing District 44 in the Colorado House of Representatives.
+Anthony Hartsook is a Republican representing District 44 in the Colorado House of Representatives. anthony hartsook representative anthony hartsook education Jack Cutter Previous Previous Merchants throughout downtown Parker see benefits to Wine Walk Next Next How Wine Walk will return to Parker after a lobbyingeffort at the state CapitolGov.
+Jared Polis signs bill outside at Parker Station Privacy Policy “Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.” PAID FOR BY HARTSOOK 4 HOUSE; REGISTERED AGENT MARJORIE KLEIN

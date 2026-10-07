@@ -1,22 +1,14 @@
-Meet Thomas
-Thomas believes public service should start with a simple question:
-What do families actually need to build a good life?
-For him, that question is personal.
-He lives in Manchester with his husband, Jonathan, and their four adopted children.
-Like many families across our region, they are navigating the same pressures—rising housing costs, property taxes that strain family budgets, and real uncertainty about whether the next generation will be able to build their lives here in Vermont.
-Those realities shape how he approaches leadership and how he thinks about the responsibility of public service.
-A Life of Service
-Thomas served five years in the United States Army as a Russian cryptologic linguist, supporting national security work.
-His time in the military shaped a lasting belief that citizenship means showing up for the communities we share.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Meet Thomas Thomas believes public service should start with a simple question: ​ What do families actually need to build a good life? ​ For him, that question is personal. ​​ He lives in Manchester with his husband, Jonathan, and their four adopted children.
+Like many families across our region, they are navigating the same pressures—rising housing costs, property taxes that strain family budgets, and real uncertainty about whether the next generation will be able to build their lives here in Vermont. ​ Those realities shape how he approaches leadership and how he thinks about the responsibility of public service.
+A Life of Service Thomas served five years in the United States Army as a Russian cryptologic linguist, supporting national security work. ​ His time in the military shaped a lasting belief that citizenship means showing up for the communities we share.
 After leaving the Army, he continued that commitment to service here in Vermont.
 Today, he works as the Project Manager for Prevention Lead Region 4 at The Collaborative, helping coordinate substance use prevention efforts across southern Vermont.
 His work brings together schools, community organizations, and local leaders to support young people and strengthen the health of our communities.
-Working for Stronger Communities
-Thomas has continued that commitment to service through local leadership.
-He serves on the Manchester Planning Commission and the Southwest Vermont Regional Technical School District Board.
-In these roles, he focuses on practical solutions that help communities thrive—expanding housing opportunities, strengthening career and technical education, and making sure local decisions reflect the needs of the people who live here.
-He believes good leadership starts with listening, and that real progress happens when communities work together.
-Why Thomas Is Running
-Thomas is running for State Representative because rural families deserve leaders who understand their lives and are willing to fight for them.
+Working for Stronger Communities T homas has continued that commitment to service through local leadership. ​ He serves on the Manchester Planning Commission and the Southwest Vermont Regional Technical School District Board.
+In these roles, he focuses on practical solutions that help communities thrive—expanding housing opportunities, strengthening career and technical education, and making sure local decisions reflect the needs of the people who live here. ​ He believes good leadership starts with listening, and that real progress happens when communities work together. ​ ​ ​ ​ Why Thomas Is Running Thomas is running for State Representative because rural families deserve leaders who understand their lives and are willing to fight for them.
 Across our communities, families are working hard, but too many feel like the cost of living keeps rising while opportunity becomes harder to reach.
 He believes Vermont can do better.
+Home Meet Thomas Issues Get Involved News Contact PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255​ (802) 768-7801​​ thomas@ westforvermont.com Thomas West is a former member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense, or any branch of the U.S. government. bottom of page

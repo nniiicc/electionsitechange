@@ -1,4 +1,4 @@
-Create a Space CCC: to Rebuild the Bronx and the U.S.
+Skip to content Meet Jose Press News & Media Campaign Statements Events Policy A real medicare for all policy Make the Bronx the center for reindustrialization of the United States A robust immigration reform A revolutionary approach to foreign policy: Peace through Development All Policies Esp Donate Sign Up Create a Space CCC: to Rebuild the Bronx and the U.S.
 The young people of the South Bronx today are faced with a miserable and hopeless future, ultimately the result of 50 years of benign neglect, planned shrinkage, and indifference of those who have shaped New York City’s financial and related policies.
 A report from New York State Comptroller Thomas DiNapoli, revealed in December 2022 that the Bronx had the highest poverty rate in the state at around 24%.
 The South Bronx itself has over 40% of its children living in poverty.
@@ -52,3 +52,8 @@ Congress, representing New York’s District 15, I will fully commit to making t
 The United States is now on the precipice of an unprecedented financial meltdown, as is reflected in the now $34 trillion national debt and the soaring interest payments arising from such debt.
 As was revealed in the 2008 financial crisis, the economy is essentially dead, surviving on the reckless creation of liquidity into an over indebted system at the cost of neglecting the physical capabilities of the economy.
 A revived U.S. workforce, not based on the so-called “service economy,” but on real productivity, will put the United States on the right track, as FDR did for the nation to bring it out of a depression.
+Support Our Movement Your contribution powers real change in the Bronx.
+Every donation helps us fight for Medicare for All, reindustrialization, and peace through development.
+Donate Now Join Our Campaign Stay informed about our fight to transform the Bronx.
+Get updates on events, policy announcements, and campaign news.
+Join Now press@votevega.nyc Bronx, NY 10459 (800) 498-8561 Privacy Policy | Terms and Conditions | Paid for by Vega for Congress

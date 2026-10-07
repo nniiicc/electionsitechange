@@ -1,6 +1,4 @@
-Embedded Files
-MEET COLBY
-My name is Colby Hoffman and I am running to represent the 4th Hampden District.
+Search this site Embedded Files Skip to main content Skip to navigation colbyhoffman.org HOME WHY I'M RUNNING GET INVOLVED CONTACT colbyhoffman.org HOME WHY I'M RUNNING GET INVOLVED CONTACT More HOME WHY I'M RUNNING GET INVOLVED CONTACT GET INVOLVED LEARN MORE MEET COLBY My name is Colby Hoffman and I am running to represent the 4th Hampden District.
 I grew up in a working class family in Enfield, CT; my Army Veteran father was a mail handler for the US Postal Service during the day, while my mother worked as a waitress at night.
 They taught me the values of hard work, dignity and respect that have guided me throughout my life.
 My incredible public school teachers nurtured my curiosity about American History and politics.
@@ -18,8 +16,7 @@ We live in a time where forces outside of the area attempt to decide local issue
 I believe, however, that local issues are best addressed at the local level, resolved by the people who live here and who have built, and who are preserving, the communities we are so proud of.
 If elected, I promise to be accessible to all constituents and to bring an open mind to all issues and to listen humbly to all points of view.
 Please support me with your vote so that I may make sure that your voices are heard in Boston.
-WHY I'M RUNNING
-I am running for office because I truly understand the struggles ordinary Americans face at this moment in history.
+WHY I'M RUNNING I am running for office because I truly understand the struggles ordinary Americans face at this moment in history.
 I've worked my way through college, struggled to pay back student loans while also paying for healthcare, saving to purchase a home of my own while still having a little left over from my hard-earned paycheck.
 The American Dream is becoming more and more unaffordable and this is only getting worse.
 Our Democracy has been hijacked by the concentrated wealth of greedy corporations and we are being forced to embrace dangerous, predatory technologies that are advancing far too quickly.
@@ -41,14 +38,13 @@ Our communities deserve laws that get ahead of these threats, not ones that play
 Throughout my career I've learned how to cooperate with people of different backgrounds and beliefs to work toward shared, positive outcomes.
 If an idea hurts our community, I'll push back - regardless of who's promoting it.
 Westfield deserves a representative who listens first and brings real-world experience to Beacon Hill.
-GET INVOLVED
-VOLUNTEER
-Help knock doors, share the word, or join us at events.
+GET INVOLVED Building a campaign from the ground up.
+Join us.
+VOLUNTEER Help knock doors, share the word, or join us at events.
 No experience needed - just a willingness to talk to neighbors.
-DONATE
-This is a grassroots campaign.
+SIGN UP DONATE This is a grassroots campaign.
 Every contribution (small or large) helps us reach more people and build something real.
-GET IN TOUCH
-Page updated
-Google Sites
-Report abuse
+CONTRIBUTE Register, check your status, and find your polling place at vote.gov GET IN TOUCH Questions?
+Want to help?
+Reach out.
+Colby Hoffman @HOFFMAN4HAMPDEN hoffman4hampden@gmail.com Website created by BANANALOVEMUFFIN PAID FOR BY HOFFMAN COMMITTEE Google Sites Report abuse Page details Page updated Google Sites Report abuse

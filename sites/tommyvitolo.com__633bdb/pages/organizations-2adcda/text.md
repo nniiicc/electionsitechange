@@ -1,11 +1,4 @@
-Tommy is a member of the following organizations:
-- Town Meeting (at large)
-- Town Meeting Recorded Vote Coalition
-- Town Meeting Green Caucus
-- Committee to Commemorate John Wilson
-- Democratic Town Committee (elected)
-- Brookline PAX (board member)
-- Progressive Democrats of Massachusetts (sustaining member)
-- Friends of Hall’s Pond (board member 2014-2019)
-- Friends of the Carlton Street Footbridge (board member 2008-2019)
-- Benevolent and Protective Order of Elks, Lodge #886, Brookline
+Skip to content Facebook Twitter Instagram Search for: Meet Tommy Background Committees Organizations News Bills Contact Contribute Meet Tommy Background Committees Organizations News Bills Contact Contribute Organizations Home / Organizations Organizations jranft48 2021-07-03T16:09:37-04:00 Tommy is a member of the following organizations: Town Meeting (at large) Town Meeting Recorded Vote Coalition Town Meeting Green Caucus Committee to Commemorate John Wilson Democratic Town Committee (elected) Brookline PAX (board member) Progressive Democrats of Massachusetts (sustaining member) Friends of Hall’s Pond (board member 2014-2019) Friends of the Carlton Street Footbridge (board member 2008-2019) Benevolent and Protective Order of Elks, Lodge #886, Brookline Join Our Mailing List Name (required) Email (required) Δ × Donate to the Campaign Whether it’s $25 or $1000, every contribution counts.
+Donate today to help elect Tommy Vitolo!
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $25 $50 $100 $250 $500 $1,000 Home | Meet Tommy | News | Endorsements | Bills | Contact | Contribute Paid for by the Committee to Elect Tommy Vitolo Neil Gordon, Treasurer 87 Ivy Street Brookline, MA 02446 By clicking the links above, you certify that you are responsible for paying all charges incurred in using the debit or credit card to be charged, and that your personal funds will be the true source of the contribution.
+Meet Tommy ▼ Background Committees Organizations News Bills Contact Contribute Go to Top

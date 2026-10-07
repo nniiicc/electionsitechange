@@ -1,12 +1,7 @@
-Travel just got an upgrade.
+Home / The mission / Hard-shell suitcase Hard-shell suitcase $ 175.00 – $ 235.00 Price range: $175.00 through $235.00 Size Choose an option Large Medium Small Clear Quantity - Hard-shell suitcase quantity + Add to cart SKU: N/A Category: The mission Share Description Additional information Travel just got an upgrade.
 This suitcase glides like a dream with 360° wheels, keeps your essentials safe with a built-in lock, and offers plenty of room, plus a little extra in the large size.
-With bold design, a durable build, and smart inner pockets, it’s your new favorite travel mate.
-• 100% polycarbonate front
-• Black ABS back hard-shell
-• Sizes: Small (22″ × 14″ × 9″), Medium (26″ × 18″ × 10″), Large (30″ × 20″ × 11″) with optional extended storage
-• 4 double-wheels with 360° swivel
-• 2 inner pockets
-• Built-in safety lock
-• Blank product sourced from China
-This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you.
+With bold design, a durable build, and smart inner pockets, it’s your new favorite travel mate. • 100% polycarbonate front • Black ABS back hard-shell • Sizes: Small (22″ × 14″ × 9″), Medium (26″ × 18″ × 10″), Large (30″ × 20″ × 11″) with optional extended storage • 4 double-wheels with 360° swivel • 2 inner pockets • Built-in safety lock • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you.
 Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
+Weight N/A Related products Quick View The mission Mug with Color Inside $ 15.00 – $ 18.00 Price range: $15.00 through $18.00 Select options This product has multiple variants.
+The options may be chosen on the product page Quick View Help Deploy Malloy! , The mission Playing cards $ 18.00 Quick View The mission Deploy Malloy Spiral notebook $ 16.50 Quick View The mission Organic cotton apron $ 32.00 Use of candidate’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Copyright # Gerald Malloy for US Congress, Limited Contact for the campaign volunteer@deploymalloy.com PO Box 103 Perkinsville, VT 05151 802-263-5405 Media Request Privacy Policy Paid for by Gerald Malloy for US Congress , Limited Privacy Settings Youtube Consent to display content from - Youtube Vimeo Consent to display content from - Vimeo Google Maps Consent to display content from - Google Spotify Consent to display content from - Spotify Sound Cloud Consent to display content from - Sound Save Cart Overview

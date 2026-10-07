@@ -1,7 +1,12 @@
 {
- "description": "The latest news from the Meghann Foster for Iowa campaign \u2014 serving the citizens of Coralville, North Liberty, Solon, and West Iowa City.",
+ "description": "The latest news from the Meghann Foster for Iowa campaign — serving the citizens of Coralville, North Liberty, Solon, and West Iowa City.",
  "final_url": "https://meghannfoster.com/news/",
- "paid_for_by": "Paid for by Meghann Foster for Iowa Contact \u202a(319) 853-8004\u202c meghann@meghannfoster",
+ "fingerprint": "8275ccb1728afdbbba8e373505779c6ff96ede4f",
+ "format": 3,
+ "paid_for_by": "Paid for by Meghann Foster for Iowa Contact ‪(319) 853-8004‬ meghann@meghannfoster",
  "title": "News - Meghann Foster for Iowa Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

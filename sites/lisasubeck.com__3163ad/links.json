@@ -1,7 +1,30 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://lisasubeck.com/",
-"https://lisasubeck.com/contact",
-"https://secure.actblue.com/donate/lisa-subeck-2",
-"https://secure.ngpvan.com/8Q2W9a5oHkyhrxQnpGCwYA2"
+{
+"text": "Contact",
+"href": "https://lisasubeck.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/lisa-subeck-2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lisa-subeck-2"
+},
+{
+"text": "Home",
+"href": "https://lisasubeck.com/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://secure.ngpvan.com/8Q2W9a5oHkyhrxQnpGCwYA2"
+},
+{
+"text": "[image: Reelect Lisa Subeck, Democrat for the 79th Assembly District]",
+"href": "https://lisasubeck.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

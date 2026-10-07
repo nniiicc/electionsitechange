@@ -1,7 +1,22 @@
 [
-"http://robincomey.weebly.com/",
-"https://robincomey.com/",
-"https://robincomey.com/endorsements.html",
-"https://robincomey.com/volunteer.html",
-"https://weebly.com/signup"
+{
+"text": "Endorsements",
+"href": "https://www.robincomey.com/endorsements.html"
+},
+{
+"text": "Powered by [image] Create your own unique website with customizable templates. Get Started",
+"href": "https://www.weebly.com/signup"
+},
+{
+"text": "Robin Comey State Representative",
+"href": "https://www.robincomey.com/"
+},
+{
+"text": "The Issues",
+"href": "http://robincomey.weebly.com#theissues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.robincomey.com/volunteer.html"
+}
 ]

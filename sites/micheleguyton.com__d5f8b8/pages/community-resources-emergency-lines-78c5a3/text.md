@@ -1,15 +1,2 @@
-24-Hour Help Lines
-Maryland’s Help Line
-9-8-8
-Alzheimer's Association Helpline
-800-272-3900
-Baltimore County Crisis Response System
-410-931-2214
-Grassroots Crisis Line - Suicide Intervention Hotline
-410-531-6677
-REACH Hotline for Substance Use Information
-410-887-3224
-The Family Tree
-800-243-7337
-Maryland Youth Crisis - Suicide and Other Interventions
-800-422-0009
+0 Skip to Content Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Folder: Get Involved Back August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign 24-Hour Help Lines Maryland’s Help Line 9-8-8 Alzheimer's Association Helpline 800-272-3900 Baltimore County Crisis Response System 410-931-2214 Grassroots Crisis Line - Suicide Intervention Hotline 410-531-6677 REACH Hotline for Substance Use Information 410-887-3224 The Family Tree 800-243-7337 Maryland Youth Crisis - Suicide and Other Interventions 800-422-0009 Are You in District 42B?
+Get Your District Info View District Map By Authority: Michele Guyton for Baltimore County | Manda Simon, Treasurer

@@ -1,10 +1,4 @@
-Jana Brown for Richmond State Representative Campaign
-May 11, 2020
-Contact:
-Jana Brown
-(802) 999-4333
-janabrownforstaterep@gmail.com
-Jana Brown has announced her candidacy for the Vermont House of Representatives representing Richmond.
+(802) 999-4333 janabrownforstaterep@gmail.com Facebook Facebook Home Priorities About Jana News Endorsements Photo Gallery Contact Donate Select Page Jana Brown for Richmond State Representative Campaign by janabrown | May 11, 2020 | Uncategorized Jana Brown for Richmond State Representative Campaign May 11, 2020 Contact: Jana Brown (802) 999-4333 janabrownforstaterep@gmail.com Jana Brown has announced her candidacy for the Vermont House of Representatives representing Richmond.
 She currently serves Richmond as a Richmond Free Library Trustee, a board member of Our Community Cares Camp, and is a member of the Richmond Democratic Caucus.
 Brown grew up in Fair Haven, VT, a rural town in Rutland County.
 She is a graduate of Ohio Wesleyan University and the Ohio State University Moritz College of Law.
@@ -15,7 +9,6 @@ She joined the nonprofit sector in 2014 and currently works as the Program Manag
 She was elected as a trustee of the Richmond Free Library in 2018, and she is a long-time volunteer at the Ronald McDonald House in Burlington.
 “As a working parent with a young student at our local elementary school, an employee of a local nonprofit organization, and an active member of the community, I have a valuable perspective to add in Montpelier,” says Brown.
 “I’ve lived in rural Vermont and Chittenden County and I care deeply about our state.
-I would be honored to continue Representative Marcia Gardner’s history of dedicated service to Richmond.”
-Richmond’s current state representative Marcia Gardner has announced that she is not seeking re-election in 2020 after serving two terms in the legislature.
+I would be honored to continue Representative Marcia Gardner’s history of dedicated service to Richmond.” Richmond’s current state representative Marcia Gardner has announced that she is not seeking re-election in 2020 after serving two terms in the legislature.
 She has endorsed Brown’s candidacy stating, “Jana has the education, experience, and work ethic for the job.
-She will serve Richmond well.”
+She will serve Richmond well.” Facebook Designed by Elegant Themes | Powered by WordPress

@@ -1,17 +1,14 @@
-Mary Dye: Vote yes on I-2117 to pay less and protect critical projects
-PRINTED IN THE SPOKESMAN-REVIEW // Oct 19, 2024
-By Mary Dye
-Important news: Citizens can vote “yes” and pay less for Initiative 2117 and repeal the costly Climate Commitment Act, knowing that critical projects will be protected.
+0 Skip to Content Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Mary Dye: Vote yes on I-2117 to pay less and protect critical projects Oct 20 Written By Jim Hedemark PRINTED IN THE SPOKESMAN-REVIEW // Oct 19, 2024 By Mary Dye Important news: Citizens can vote “yes” and pay less for Initiative 2117 and repeal the costly Climate Commitment Act, knowing that critical projects will be protected.
 As the well-funded TV blitz against Initiative 2117 heats up, voters deserve to know the truth: The proponents of the state’s disastrous cap-and-trade scheme have crossed the line, threatening Washington families by holding vital road construction projects hostage.
 Worse, the glossy ads don’t say that the unpopular hidden gas tax threatens to bankrupt Spokane’s Waste-to-Energy plant, forcing the waste to be landfilled hundreds of miles away.
 The North Spokane Corridor and the Waste-to-Energy Plant were addressed at a recent Spokane City Council meeting.
-The Washington State Department of Transportation reported to the Spokane City Council on Oct. 3 that the North Spokane Corridor is on track to be completed by 2030.
+The Washington State Department of Transportation reported to the Spokane City Council on Oct.
+3 that the North Spokane Corridor is on track to be completed by 2030.
 Spokane City Council President Betsy Wilkerson even asked the WSDOT officials to repeat the good news.
-As reported in the Center Square, a transportation official clearly stated, “The North Spokane Corridor truly is a catalyst project, not just in the work that we’re doing with WSDOT, but many of the projects that you all have funded or pursued are the result of the community engagement that your staff has participated in.”
-In contrast to the good news, on Aug. 21 of this year, state Sen.
+As reported in the Center Square, a transportation official clearly stated, “The North Spokane Corridor truly is a catalyst project, not just in the work that we’re doing with WSDOT, but many of the projects that you all have funded or pursued are the result of the community engagement that your staff has participated in.” In contrast to the good news, on Aug.
+21 of this year, state Sen.
 Andy Billig was quoted in The Spokesman-Review claiming that 30% of the state’s transportation budget is derived from the Climate Commitment Act.
-Billig said, “If that much money gets ripped out of the transportation budget, every road project, including the (North Spokane Corridor) will be in jeopardy.”
-In reality, road construction projects like the North Spokane Corridor were already approved in 2015, funded by an 11.9-cent gas tax that generated $16 billion.
+Billig said, “If that much money gets ripped out of the transportation budget, every road project, including the (North Spokane Corridor) will be in jeopardy.” In reality, road construction projects like the North Spokane Corridor were already approved in 2015, funded by an 11.9-cent gas tax that generated $16 billion.
 Your gas tax dollars are protected in the state constitution and can only be used for road maintenance and construction.
 CCA funds are not allowed to be used for actual highway projects.
 Cap-and-taxers are cavalier, knowing full well they have been poaching the transportation budget for years to fund projects meant to get you out of your car and onto transit, bikes or tennis shoes while short-sheeting road funding.
@@ -31,3 +28,6 @@ Climate activists have found the perfect foil to harvest billions from hard-work
 If you believe the ads that claim that an extra 40 cents per gallon will cure asthma, then by all means, vote “no.” However, if you want to pay 40 cents less at the pump, keep environmental programs like the Spokane’s Waste-to-Energy Plant open, and send a message to Seattle-area politicians that we are not going to subsidize their bike paths, battery-operated ferries and rebates for new Tesla’s, then vote “yes” and pay less with Initiative 2117.
 State Rep.
 Mary Dye is a Republican from Pomeroy, Washington.
+Jim Hedemark Previous Previous Rep.
+Dye earns award for ag service Next Next WA Rep.
+Mary Dye to introduce legislation empowering local communities Committee to Elect Mary Dye Republican for Washington State Representative District 9, Position 1 PO Box 336 Pomeroy, WA 99347 electmarydye@gmail.com Meet Mary Priorities District News Gallery

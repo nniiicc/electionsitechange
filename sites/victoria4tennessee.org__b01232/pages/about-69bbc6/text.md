@@ -1,7 +1,4 @@
-Skip navigation menu
-meet Victoria Broderick
-A working mom fighting to make sure District 4 is never treated as an afterthought again
-I grew up all across the South, from Atlanta to Dallas, before landing in Lincoln County, Tennessee.
+Skip navigation menu early voting october 14-29 | election day november 3 Home About Issues Volunteer Events Voting Shop Donate Home About Issues Volunteer Events Voting Shop Donate meet Victoria Broderick A working mom fighting to make sure District 4 is never treated as an afterthought again I grew up all across the South, from Atlanta to Dallas, before landing in Lincoln County, Tennessee.
 Wherever we lived, the lesson stayed the same: look out for the people around you, even when nobody's watching.
 That lesson runs deeper than my own childhood.
 My dad came to this country as an immigrant, and my grandmother was a refugee during World War II.
@@ -32,4 +29,4 @@ This district has always been a place where neighbors look out for each other.
 We show up, sacrifice, and do our part because we know our communities are worth it.
 I don't show up only when it's time to ask for your vote.
 I show up in the carpool line, the grocery store, the waiting room, because this is my community too.
-I’ll bring that same connection and commitment to Washington.
+I’ll bring that same connection and commitment to Washington. help elect victoria Request a Sign Contact Privacy Policy Powered by RUN! website builder Paid for by Victoria4Tennessee You need to enable JavaScript to run this app.

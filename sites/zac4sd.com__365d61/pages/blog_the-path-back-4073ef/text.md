@@ -1,6 +1,5 @@
-From the campaign
-The Path Back
-Six states have a Shared Parenting presumption.
+Skip to content Zac .
+Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate Home / Blog From the campaign June 13, 2026 The Path Back Six states have a Shared Parenting presumption.
 None of them answered the question of what happens to the parent who already lost time and has since done the work.
 Six states have passed a strong Shared Parenting presumption.
 Kentucky, Arkansas, West Virginia, Florida, Missouri, and Mississippi.
@@ -15,8 +14,7 @@ What happens to the parent who has already lost time?
 The parent who made real mistakes three years ago and has done the work since.
 The parent pushed out by allegations that never became findings.
 The parent who fell apart at the worst moment of his life, got help, got sober, got stable, and now stands outside a door the law gives him no way to reopen.
-What the 2027 bill adds
-When a parent has lost parenting time, the court must provide a clear and reasonable route to restoration.
+What the 2027 bill adds When a parent has lost parenting time, the court must provide a clear and reasonable route to restoration.
 Counseling.
 Testing.
 Completed programs.
@@ -27,8 +25,7 @@ A parent who will not do the work never advances down the path.
 A parent who presents a danger never starts it.
 The Path Back exists only for the parent willing to be tested, supervised, and proven.
 What it removes is permanence without purpose, which is the current reality: losing time means losing your child, and nothing you do afterward changes the arithmetic.
-Why I keep coming back to this one
-A family court case is what brought my son to Rapid City eight years ago, and it is what brought me here after him.
+Why I keep coming back to this one A family court case is what brought my son to Rapid City eight years ago, and it is what brought me here after him.
 Through Kids Deserve Dads, the nonprofit I founded in 2017, I have heard from thousands of parents around the country.
 The most common story is not the custody battle itself.
 It is what comes after it: a fit, healed, willing parent with no road back to his kid.
@@ -41,4 +38,18 @@ South Dakota can lead in 2027.
 Read the full eleven-bill Family Court Reform Stack at zac4sd.com/platform/family-court-reform.
 If you believe in the Path Back, send this to one parent who needs to hear it.
 Strong Families.
+Strong South Dakota. ← All posts Subscribe on Substack → Join the campaign We win District 32 the old fashioned way .
+Door by door.
+Neighbor by neighbor.
+Yard sign by yard sign.
+Every conversation, every donation, every shift counts.
+This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes.
+Donate Volunteer Yard Sign Zac .
+Martin SD House 32 Strong Families.
 Strong South Dakota.
+For South Dakota House District 32.
+The heart of Rapid City: downtown and North Rapid.
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+All rights reserved.
+Paid for by Zac Martin for South Dakota.
+Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .

@@ -1,4 +1,4 @@
-I caught a good conversation on Morning Wire last week that I think is worth passing along, especially for folks in central Montana who’ve been hearing a lot of noise — mostly bad — about data centers.
+top of page News Principles Calendar About Menu Close Donate Go Back to News I caught a good conversation on Morning Wire last week that I think is worth passing along, especially for folks in central Montana who’ve been hearing a lot of noise — mostly bad — about data centers.
 The guest was Mark Mills, founder of the National Center for Energy Analytics and author of a book called The Cloud Revolution.
 He’s spent a lot of time studying what these facilities actually do to a community, and his answers were a lot more measured than what you’ll find in most headlines.
 First, a little context.
@@ -39,5 +39,7 @@ Central Montanans are skeptical by nature, and that’s healthy.
 But skeptical is different from reflexively opposed.
 These are decisions worth making with clear eyes.
 Morning Wire guest Mark Mills offers a nuanced look at AI data centers’ energy, water, tax and security impacts on rural Montana communities.
-Lewistown News-Argus Logged In - May 10-16th, 2026 - Week in Review
-logged-in-may-10-16th-2026-week-in-review
+Lewistown News-Argus Logged In - May 10-16th, 2026 - Week in Review logged-in-may-10-16th-2026-week-in-review Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

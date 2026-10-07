@@ -1,5 +1,4 @@
-Signed in as:
-filler@godaddy.com
-Follow Denise Rosado's campaign across social media for the latest updates, events, and ways to get involved.
+Home Donate Now Platform About me FCC/USAC Complaint Connect Register to Vote Events Español Volunteer Blog Media Contact Press Home Donate Now Platform About me FCC/USAC Complaint Connect Register to Vote Events Español Volunteer Blog Media Contact Press More Home Donate Now Platform About me FCC/USAC Complaint Connect Register to Vote Events Español Volunteer Blog Media Contact Press Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Donate Now Platform About me FCC/USAC Complaint Connect Register to Vote Events Español Volunteer Blog Media Contact Press Account My Account Sign out Sign In My Account Join the Movement Stay Connected Follow Denise Rosado's campaign across social media for the latest updates, events, and ways to get involved.
 Join the movement and help bring real change to Washington, D.C.
-Copyright © 2026 Rosado for Congress - All Rights Reserved.
+Get Involved Connect With Us Copyright © # Rosado for Congress - All Rights Reserved.
+Donate Now Register to Vote Volunteer Powered by

@@ -1,11 +1,11 @@
-| |
-| Rep.
+Contact Representative Steve Berch: sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 Contribute Now Get Involved Home How to Contribute How to Volunteer Subscribe to Newsletter Back Subscribe to Newsletter Newsletter Archive (2019-present) Meet Steve Contact Request a Yard Sign!
+Rep.
+Steve Berch Newsletter: Freedom of whose religion?
+Rep.
 Steve Berch Newsletter: Freedom of whose religion?
 Note to readers: This is not one of my “yellow flag” newsletters, but it might qualify as one (perhaps even as a red flag).
-My next yellow flag newsletter concerning the Idaho Legislature’s DOGE task force will be coming soon. |
-| |
-| |
-| Anyone who cherishes Freedom of Religion should be concerned about the growing influence of extreme religious-based nationalism in the Idaho Legislature.
+My next yellow flag newsletter concerning the Idaho Legislature’s DOGE task force will be coming soon.
+Anyone who cherishes Freedom of Religion should be concerned about the growing influence of extreme religious-based nationalism in the Idaho Legislature.
 The following article recently appeared in the Idaho Statesman.
 It was written by former Idaho state representative Chenel Dixon (R- Kimberly).
 She is a member of the LDS faith and serves on the board of the Unity Alliance of Southern Idaho.
@@ -17,16 +17,13 @@ Here are some thoughts to consider after reading her article that follows below:
 Those are great values.
 They aren’t partisan values – they are American values.
 People of all political stripes attend a house of worship, raise a family, and die for their country.
-But there is one critical value missing from that slogan: COMMUNITY.
-When community is a shared value, we treat our neighbors, colleagues, acquaintances, and even strangers with respect, even if they look different, sound different, or hold different points of view.
-When community is a shared value, we live in an “us-AND-them” society, instead of a divisive “us-VERSUS-them” society being encouraged by too many people in leadership positions locally and beyond.
+But there is one critical value missing from that slogan: COMMUNITY .
+When community is a shared value , we treat our neighbors, colleagues, acquaintances, and even strangers with respect , even if they look different, sound different, or hold different points of view.
+When community is a shared value , we live in an “us-AND-them” society, instead of a divisive “us-VERSUS-them” society being encouraged by too many people in leadership positions locally and beyond.
 And for those who embrace an “us-versus-them” world, consider this: You may be one of “us” today, but be labeled one of “them” tomorrow amidst rapidly shifting political winds.
 The respect and rights afforded “them” today may be the respect and rights you’ll want to have tomorrow.
 You can only have freedom of religion if you also have freedom from any one religion forced upon you. ------------------------------------ Note: These two articles below provide more insight into the forces behind this effort.
-What was once whispered behind closed doors is now out in the open: Deseret News: https://www.deseret.com/politics/2025/07/24/idaho-family-policy-center-wants-a-christian-state-what-does-that-mean-for-voters/ InvestigateWest: https://www.investigatewest.org/for-and-by-christians-how-idahos-influential-christian-nationalist-group-wants-to-reshape-the-state/ |
-| |
-| |
-| Christian nationalism is not Christianity By: Chenele Dixon Shared with the author’s permission.
+What was once whispered behind closed doors is now out in the open: Deseret News: https://www.deseret.com/politics/2025/07/24/idaho-family-policy-center-wants-a-christian-state-what-does-that-mean-for-voters/ InvestigateWest: https://www.investigatewest.org/for-and-by-christians-how-idahos-influential-christian-nationalist-group-wants-to-reshape-the-state/ Christian nationalism is not Christianity By: Chenele Dixon Shared with the author’s permission.
 I am a Latter-day Saint, a woman and an Idahoan.
 If Christian nationalism has its way, my faith and my voice would be pushed out of the public square.
 Christian nationalism is not about faith.
@@ -66,4 +63,9 @@ Abandoning that principle betrays both the Constitution and the gospel of Christ
 If Idaho wants to defend faith, family and freedom, we must reject Christian nationalism.
 What our state needs is not politics in religious clothing, but people of all faiths — and no faith — living out Christ’s command: “Love your neighbor as yourself.” That is strength.
 That is freedom.
-That is the Idaho I want my children and grandchildren to inherit. |
+That is the Idaho I want my children and grandchildren to inherit.
+Steve Berch Campaign Office P.O.
+Box 4903 Boise, ID 83711 sberch@house.idaho.gov Capitol: 208-332-1039 Cell: 208-890-9339 SOCIAL MEDIA POLICY Legislative Committees Education Business Local Government Meet Steve Steve's Newsletters Legislature Coverage Eye on Boise Idaho Education News IPTV Idaho Reports Idaho in Session Support Steve Contribute Volunteer Contact © 2018 - 2026 by Committee to Elect Steve Berch.
+Joan Wallace, Treasurer.
+All rights reserved.
+Facebook Twitter YouTube Social Media Policy Privacy Policy Terms and Conditions

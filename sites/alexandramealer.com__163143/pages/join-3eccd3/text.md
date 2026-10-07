@@ -1,7 +1,2 @@
-Join Alex's Army
-Contact
-info@alexandramealer.com
-Alex Mealer for Congress
-P.O.
-Box 1007
-Pasadena, TX 77501
+DONATE  About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a    DONATE  About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a    About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex Join Alex's Army Contact  info@alexandramealer.com  Alex Mealer for Congress P.O.
+Box 1007 Pasadena, TX 77501 About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex a About Alex Endorsements Map Press Kit Action Center Join Alex’s Army Get A Yard Sign Contact Alex Follow Follow Follow

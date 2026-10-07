@@ -1,18 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Fall+Fundraiser&dates=20260924T123000Z%2F20260924T140000Z&location=879+Smith+Avenue+South%2C+West+Saint+Paul%2C+Minnesota%2C+55118%2C+United+States",
-"http://maps.google.com/?q=879+Smith+Avenue+South+West+Saint+Paul%2C+Minnesota%2C+55118+United+States",
-"https://bsky.app/profile/reprickhansen.bsky.social",
-"https://facebook.com/RepRickHansen",
-"https://secure.actblue.com/donate/voterickhansen",
-"https://twitter.com/reprickhansen",
-"https://votehansen.com/",
-"https://votehansen.com/about",
-"https://votehansen.com/cart",
-"https://votehansen.com/donate",
-"https://votehansen.com/events",
-"https://votehansen.com/events/fall-fundraiser?format=ical",
-"https://votehansen.com/events/rep-rick-hansen-doorknock-xsd36-5d5z2",
-"https://votehansen.com/gallery",
-"https://votehansen.com/volunteer",
-"https://votehansen.com/vote"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=879+smith+avenue+south+west+saint+paul%2C+minnesota%2C+55118+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votehansen.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votehansen.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.votehansen.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votehansen.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.votehansen.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fall+Fundraiser&dates=20260924T123000Z%2F20260924T140000Z&location=879+Smith+Avenue+South%2C+West+Saint+Paul%2C+Minnesota%2C+55118%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/fall-fundraiser?format=ical"
+},
+{
+"text": "Meet Rick",
+"href": "https://www.votehansen.com/about"
+},
+{
+"text": "Previous Previous October 23 Rep Rick Hansen Doorknock",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36-5d5z2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votehansen.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.votehansen.com/vote"
+},
+{
+"text": "[image: Rick Hansen for House]",
+"href": "https://www.votehansen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/reprickhansen.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reprickhansen"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepRickHansen/"
+},
+{
+"text": "https://secure.actblue.com/donate/voterickhansen",
+"href": "https://secure.actblue.com/donate/voterickhansen"
+}
 ]

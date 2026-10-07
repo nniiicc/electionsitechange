@@ -1,0 +1,6 @@
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Article feature: Lawmakers acted to rein in fellow state officials on no-bid contracts, luxury cars and more Putting People First May 5 Written By Carey Hamilton Quoted in the Indianapolis Star on May 5, 2025: Democratic state Rep.
+Carey Hamilton of Indianapolis said lawmakers this year made "small steps in the right direction" but it wasn't enough.
+She credited a series of "embarrassing headlines" with convincing lawmakers to take action.
+"I was truly stunned to learn that a statewide elected official could put out a large no-bid contract, let alone that it could go to a campaign donor," said Hamilton, referring to Morales' contracts .
+"We've discovered over the past few years that there are significant holes in transparency in state government spending and also in campaign finance reporting.
+We definitely have work to do to stave off corruption with public dollars." People First Carey Hamilton Previous Previous Hamilton responds to continued redistricting push Next Next I voted ‘no’ on the property tax bill for our public safety and public schools Paid for and authorized by the Committee to Elect Carey Hamilton

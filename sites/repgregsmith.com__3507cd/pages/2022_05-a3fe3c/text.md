@@ -1,16 +1,28 @@
-Press Release: Representative Greg Smith gives Legislative Update to Hermiston Chamber
-FOR IMMEDIATE RELEASE:
-May 18, 2022
-Representative Greg Smith gives Legislative Update to Hermiston Chamber
-Hermiston, Ore. – Today, Representative Greg Smith (R-Heppner) gave a legislative update to the Hermiston Chamber at the Hermiston Community Center.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Representative Greg Smith gives Legislative Update to Hermiston Chamber May 18, 2022 / in News FOR IMMEDIATE RELEASE : May 18, 2022 Representative Greg Smith gives Legislative Update to Hermiston Chamber Hermiston, Ore. – #ago , Representative Greg Smith (R-Heppner) gave a legislative update to the Hermiston Chamber at the Hermiston Community Center.
 “The Hermiston Chamber has re-launched their in-person luncheons.
 It was great to give a legislative update and answer all of the excellent questions chamber members had,” said Representative Smith.
 Representative Greg Smith is currently serving his eleventh term as an Oregon State Representative, making him the longest serving member in the House of Representatives.
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
 Additionally, he is the ranking member on the House Revenue and Joint Legislative Audits Committees.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ​ ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-05-18 10:45:27 2023-10-02 11:01:49 Press Release: Representative Greg Smith gives Legislative Update to Hermiston Chamber Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast May 18, 2022 / in News FOR IMMEDIATE RELEASE : May 18, 2022 Representative Greg Smith Comments on Quarterly Revenue Forecast SALEM, Ore. – Representative Greg Smith (R-Heppner) release d the following statement in response to the revenue forecast announced today: “Today’s revenue forecast continues the upward trend of previous forecasts.
+Despite the crises of the past two years, Oregon’s economy shows resiliency as its growth persists.
+However, it would be wise to remember that this strong economy Oregon is currently experiencing has been boosted by federal borrowing that may not be available in the future.
+Additionally, this borrowing and has caused a major rise in inflation.
+Fiscal prudence is paramount when managing Oregon’s finances.
+However, a balanced approach is also essential and, as a Legislature, we must continue investing in critical programs.” Representative Greg Smith is currently serving his eleventh term as an Oregon State Representative, making him the longest serving member in the House of Representatives.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue and Joint Legislative Audits Committees.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-05-18 10:42:37 2023-10-02 10:44:51 Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast Press Release: Representative Greg Smith Attends Department of Revenue’s Job Fair in Fossil May 12, 2022 / in News FOR IMMEDIATE RELEASE : May 12, 2022 Representative Greg Smith Attends Department of Revenue’s Job Fair in Fossil Fossil, Ore. – Today, Representative Greg Smith (R-Heppner) attended a job fair put on by the Department of Revenue (DOR) at the Isobel Edwards Hall.
+The event was spearheaded by Representative Smith and he opened the event with a brief speech.
+DOR Director Betsy Imholt lead the event, highlighting the agency’s remote work options.
+Additional DOR staff helped attendees in one-on-one consultations with the State of Oregon’s employment software ‘WorkDay’.
+“I appreciate the Department of Revenue’s dedication to providing equal opportunity hiring opportunities.
+This event was a success and is a model for rural hiring,” said Representative Smith.
+Representative Greg Smith is currently serving his eleventh term as an Oregon State Representative, making him the longest serving member in the House of Representatives.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue and Joint Legislative Audits Committees.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-05-12 10:39:45 2023-10-02 10:41:53 Press Release: Representative Greg Smith Attends Department of Revenue’s Job Fair in Fossil July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

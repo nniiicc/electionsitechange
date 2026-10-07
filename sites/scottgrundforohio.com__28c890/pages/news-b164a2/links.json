@@ -1,17 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://scottgrundforohio.com/",
-"https://scottgrundforohio.com/contact",
-"https://scottgrundforohio.com/events",
-"https://scottgrundforohio.com/home",
-"https://scottgrundforohio.com/issues",
-"https://scottgrundforohio.com/meet_scott",
-"https://scottgrundforohio.com/news",
-"https://scottgrundforohio.com/news/scott-prepares-for-an-expanded-town-hall-for-october-more-info-soon",
-"https://scottgrundforohio.com/photos",
-"https://scottgrundforohio.com/trusted-news",
-"https://scottgrundforohio.com/volunteer",
-"https://scottgrundforohio.com/vote",
-"https://scottgrundforohio.com/yard-sign",
-"https://scottgrundforohio.substack.com/"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://scottgrundforohio.com/contact"
+},
+{
+"text": "Events",
+"href": "https://scottgrundforohio.com/events"
+},
+{
+"text": "HERE",
+"href": "https://scottgrundforohio.com/trusted-news"
+},
+{
+"text": "Home",
+"href": "https://scottgrundforohio.com/home"
+},
+{
+"text": "Issues",
+"href": "https://scottgrundforohio.com/issues"
+},
+{
+"text": "Meet Scott",
+"href": "https://scottgrundforohio.com/meet_scott"
+},
+{
+"text": "NEWS!!",
+"href": "https://scottgrundforohio.com/news"
+},
+{
+"text": "Photos",
+"href": "https://scottgrundforohio.com/photos"
+},
+{
+"text": "Scott Prepares for an EXPANDED Town Hall for October (more info soon)",
+"href": "https://scottgrundforohio.com/news/scott-prepares-for-an-expanded-town-hall-for-october-more-info-soon"
+},
+{
+"text": "Visit my Substack publication",
+"href": "https://scottgrundforohio.substack.com"
+},
+{
+"text": "Volunteer",
+"href": "https://scottgrundforohio.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://scottgrundforohio.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://scottgrundforohio.com/yard-sign"
+},
+{
+"text": "[image: Scott Grund For Ohio House Dist. 98]",
+"href": "https://scottgrundforohio.com/"
+}
 ]

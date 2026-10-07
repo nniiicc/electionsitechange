@@ -1,6 +1,5 @@
-Platform - Education
-Education
-Every Ohio child deserves a high-quality, well-funded public education that prepares them for success—whether heading to college, a trade, or directly into a rewarding career.
+top of page Ari for Ohio Home About News Events Issues Equality Families Education Healthcare Economy Accountability Farms 2nd Amendment Yard Sign Request Contact Vote More Use tab to navigate through the menu items.
+Donate Now Log In Platform - Education Support Ari's Campaign > Education Every Ohio child deserves a high-quality, well-funded public education that prepares them for success—whether heading to college, a trade, or directly into a rewarding career.
 As your representative, I will prioritize strengthening our public schools, supporting educators, and ensuring resources stay where they belong: in classrooms serving all students, not siphoned off to unaccountable private options.
 Repeal the EdChoice voucher program (often called the "voucher scam") that diverts taxpayer dollars from public schools to private institutions with little oversight or accountability—redirecting those funds back to support our public education system and level the playing field for every Ohio student.
 Restore full autonomy to the Ohio Board of Education so educators and experts—not political interference—can make decisions focused on what's best for students, curriculum, standards, and school improvement.
@@ -8,3 +7,7 @@ Protect special education services and oppose book bans, ensuring full funding a
 Increase school funding and teacher salaries to attract and retain the best educators, reduce class sizes, update facilities, and provide the resources our schools need—addressing chronic underfunding that hurts student outcomes and teacher morale.
 Expand vocational and career-technical education programs in high schools to offer more hands-on training in in-demand fields like manufacturing, healthcare, IT, and trades—helping students earn certifications, apprenticeships, and high-paying jobs right out of high school while reducing the burden of expensive college debt.
 Fight to repeal anti-LGBTQ+ and anti-diversity legislation impacting education, including forced outing requirements (like HB 8), restrictions on preferred names/pronouns, bathroom bans, limits on inclusive curriculum or materials mentioning sexual orientation/gender identity, and efforts to ban or restrict diversity, equity, and inclusion (DEI) programs in K-12 schools—defending safe, affirming learning environments for all students.
+These steps will build stronger public schools, empower teachers, equip students with real-world skills, protect vulnerable learners, and ensure Ohio's education system reflects fairness, inclusion, and facts—not division or censorship.
+Together, we can make public education a point of pride again.
+ABOUT ARI > Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
+Sign up for occasional campaign emails: Email * Yes, sign me up! * Subscribe Now FACEBOOK TWITTER CONTACT > E: ARI4OHIO@GMAIL.COM © # Paid for by Friends of Arienne Childrey. bottom of page

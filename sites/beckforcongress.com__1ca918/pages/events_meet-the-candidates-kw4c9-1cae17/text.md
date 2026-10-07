@@ -1,12 +1,1 @@
-Back to All Events
-Meet the Candidates - an Evening of Conversation
-Andy Beck, Running for WI 5th Congressional District
-Terri Wenkman, Running for WI 38th Assembly District
-Sasha Ripley, Running for WI 13th Senate District
-Previous
-Previous
-September 20
-Audubon Days Parade
-Next
-Next
-September 22
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Meet the Candidates - Watertown Monday, September 21, 2026 5:00 PM 7:30 PM Rose Garden/Leonardo's Italian Bistro 500 Bernard Street Watertown, Wisconsin, 53094 United States (map) Google Calendar ICS Meet the Candidates - an Evening of Conversation Andy Beck, Running for WI 5th Congressional District Terri Wenkman, Running for WI 38th Assembly District Sasha Ripley, Running for WI 13th Senate District Previous Previous September 20 Audubon Days Parade Next Next September 22 JeffDems Monthly Meeting DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

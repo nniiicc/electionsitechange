@@ -1,26 +1,35 @@
-Texas House District 124 Election Schedule
-Voter Registration Deadline
-📅 October 5, 2026
-Eligible voters must be registered by this date to participate in the November election.
-Early Voting Period
-📅 October 19 through October 30, 2026
-Registered voters may cast their ballots during the early voting period.
-Election Day
-📅 November 3, 2026
-The final day to vote in the 2026 General Election.
-Bexar County Early Voting Information
-These dates apply to all Texas House races, including Texas House District 124.
-✅ Any registered voter in Bexar County may vote early.
-No special reason or excuse is required.
-✅ During the early voting period, voters can cast their ballot at any designated early voting location within Bexar County.
-✅ Voters should bring an approved photo ID, such as:
-- Texas Driver License
-- Texas Identification Card
-- U.S.
-Passport
-- Military Identification Card
-✅ Voters who do not possess an approved photo ID may still be able to vote by completing a Reasonable Impediment Declaration and presenting an acceptable supporting document.
+Skip to content L.D.
+Howard for Texas House District 124 2026 Home About News A Direct Question About Children Deserves an Answer LD Howard Launches Independent Write-in Campaign NEWS RELEASE: Leadership Means Showing Up for Texas HD 124 L.D.
+Howard Files for Texas House District 124 NEWS RELEASE: L.
+D.
+Howard Announces Independent Candidacy for Texas House District 124 NEWS RELEASE: Opposing Third Future Takeover of Four Edgewood ISD Campuses L.D.
+Howard Warns of "ADA Funding Black Hole" MEDIA ADVISORY: Candidate L.D.
+Howard to Host "Valentine’s Meet & Greet" for District 124 Independent Candidate L.D.
+Howard Hosts "Tea & Tacos," Calling for History-Making Unity in District 124 Media Advisory: Tea & Breakfast with L.D.
+Howard Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
+Howard Events Event Details Get Involved Donate Contact Us Search Events Texas House District 124 Election Schedule Voter Registration Deadline 📅 October 5, 2026 Eligible voters must be registered by this date to participate in the November election.
+Early Voting Period 📅 October 19 through October 30, 2026 Registered voters may cast their ballots during the early voting period.
+Election Day 📅 November 3, 2026 The final day to vote in the 2026 General Election.
+Bexar County Early Voting Information These dates apply to all Texas House races, including Texas House District 124 . ✅ Any registered voter in Bexar County may vote early.
+No special reason or excuse is required. ✅ During the early voting period, voters can cast their ballot at any designated early voting location within Bexar County. ✅ Voters should bring an approved photo ID, such as: Texas Driver License Texas Identification Card U.S.
+Passport Military Identification Card ✅ Voters who do not possess an approved photo ID may still be able to vote by completing a Reasonable Impediment Declaration and presenting an acceptable supporting document.
 Plan Ahead.
 Vote Early.
 Make Your Voice Heard.
 Your vote helps shape the future of Texas House District 124 and the communities we serve.
+Elect L.D.
+Howard for Texas House of Representatives District 124 in 2026 Help Elect LD Howard to Texas HD 124 Find Your Polling Place L.D.
+Howard for Texas House District 124 Privacy Policy Contact Details: P.O.
+Box 760024 San Antonio, TX 78245 Home About News A Direct Question About Children Deserves an Answer LD Howard Launches Independent Write-in Campaign NEWS RELEASE: Leadership Means Showing Up for Texas HD 124 L.D.
+Howard Files for Texas House District 124 NEWS RELEASE: L.
+D.
+Howard Announces Independent Candidacy for Texas House District 124 NEWS RELEASE: Opposing Third Future Takeover of Four Edgewood ISD Campuses L.D.
+Howard Warns of "ADA Funding Black Hole" MEDIA ADVISORY: Candidate L.D.
+Howard to Host "Valentine’s Meet & Greet" for District 124 Independent Candidate L.D.
+Howard Hosts "Tea & Tacos," Calling for History-Making Unity in District 124 Media Advisory: Tea & Breakfast with L.D.
+Howard Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
+Howard Events Event Details Get Involved Donate Contact Us Search Copyright ©# Team L.
+D.
+Howard for Texas House District 124.
+All Rights Reserved.
+Designed by Sandbank Group, Inc.

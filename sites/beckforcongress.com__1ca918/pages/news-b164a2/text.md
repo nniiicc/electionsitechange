@@ -1,11 +1,1 @@
-News
-Andy Beck Media Coverage
-July 6, 2026
-Interview with Lantern News
-July 14, 2026
-Milwaukee suburbs on edge as Fitzgerald, Beck duke it out in 5th district
-January 4, 2026
-Beck campaign: Builds momentum in Wisconsin's 5th as election year kicks off
-November 22, 2025
-Democratic candidate Andy Beck launches campaign for 5th Congressional District
-October 7, 2025
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute News Andy Beck Media Coverage July 6, 2026 Interview with Lantern News Watch Lantern News July 14, 2026 Milwaukee suburbs on edge as Fitzgerald, Beck duke it out in 5th district Read the article on Hoodline January 4, 2026 Beck campaign: Builds momentum in Wisconsin's 5th as election year kicks off Read the article on Wispolitics November 22, 2025 Democratic candidate Andy Beck launches campaign for 5th Congressional District Read the Washington County Daily News October 7, 2025 Andy Beck announces candidacy for Wisconsin's 5th Congressional District Read the announcement DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

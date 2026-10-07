@@ -1,4 +1,8 @@
-Western Minnesota needs a voice at the table.
+Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Store Updates Get Involved 38 Door Club 38 Phones Club Donate Menu Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Updates Get Involved Donate Agriculture & the Farm Bill Erik Osberg for Congress > Priorities > Agriculture & the Farm Bill Western Minnesota needs a voice at the table.
 Agriculture is woven into the very fabric of our communities.
 Our district is built on farms, cooperatives, grain elevators, equipment dealers, rural banks, small businesses, and towns that depend on a healthy farm economy.
 When agriculture is strong, rural communities are stronger.
@@ -20,20 +24,8 @@ That matters.
 The differences between the House and Senate versions, on nutrition, farmer assistance, pesticide policy, conservation, rural development, and the real costs facing family farms, are exactly the kinds of decisions Western Minnesota should be helping shape.
 Erik is running because we can do better.
 He will seek a seat on the House Agriculture Committee on day one and fight for a Farm Bill that reflects the real conditions facing farmers, ranchers, and rural communities across Western Minnesota.
-Erik’s Priorities
-Erik will fight to:
-- Restore Western Minnesota’s voice on the House Agriculture Committee
-- Pass a full, updated Farm Bill that reflects today’s costs, markets, and conditions
-- Support small and mid-sized family farms, not just large corporate ones
-- Protect crop insurance and strengthen programs farmers rely on
-- Address consolidation in meat processing, seed, fertilizer, and agricultural supply chains
-- Push for trade policy that gives farmers more stability and less uncertainty
-- Support conservation programs that are practical, voluntary, and accessible
-- Make sure Farm Bill negotiations account for SNAP, rural development, conservation, and farmer financial assistance
-- Make sure farm policy strengthens the rural communities agriculture supports
-…by putting someone on the Agriculture Committee who actually represents the farmers of Western Minnesota and will fight for a final Farm Bill that reflects the real costs, real conditions, and real opportunities facing one of the most important farming districts in the country.
-Protect Competition in Agriculture
-When a handful of companies control too much of the market, farmers lose options.
+Erik’s Priorities Erik will fight to: Restore Western Minnesota’s voice on the House Agriculture Committee Pass a full, updated Farm Bill that reflects today’s costs, markets, and conditions Support small and mid-sized family farms, not just large corporate ones Protect crop insurance and strengthen programs farmers rely on Address consolidation in meat processing, seed, fertilizer, and agricultural supply chains Push for trade policy that gives farmers more stability and less uncertainty Support conservation programs that are practical, voluntary, and accessible Make sure Farm Bill negotiations account for SNAP, rural development, conservation, and farmer financial assistance Make sure farm policy strengthens the rural communities agriculture supports …by putting someone on the Agriculture Committee who actually represents the farmers of Western Minnesota and will fight for a final Farm Bill that reflects the real costs, real conditions, and real opportunities facing one of the most important farming districts in the country.
+Protect Competition in Agriculture When a handful of companies control too much of the market, farmers lose options.
 That is true in meat processing.
 It is true in seed.
 It is true in fertilizer.
@@ -43,16 +35,14 @@ Erik supports stronger antitrust enforcement in agricultural markets and will op
 Competition matters.
 Fair markets matter.
 Farmers should not be trapped in systems where they have less and less control over the price they pay and the price they receive.
-Reduce Trade Uncertainty
-Western Minnesota agriculture depends on stable markets.
+Reduce Trade Uncertainty Western Minnesota agriculture depends on stable markets.
 Corn, soybeans, wheat, beef, pork, dairy, and other products are tied to national and global trade.
 When tariff disputes or retaliatory measures hit, farmers often pay the price.
 Erik believes trade policy affecting agriculture should be shaped with input from farmers and rural communities.
 Farmers should not be left absorbing the cost of political decisions they had no voice in making.
 Congress has a responsibility to debate and oversee trade and tariff policy.
 Erik will push for agricultural trade policy that is stable, transparent, and built around the people whose livelihoods are on the line.
-Right to Repair
-A farmer who owns a piece of equipment should be able to fix it.
+Right to Repair A farmer who owns a piece of equipment should be able to fix it.
 That used to go without saying.
 As modern farm machinery has become increasingly software-dependent, manufacturers have used those systems to restrict farmers and independent mechanics from making repairs that once required nothing more than the right tools and some know-how.
 A breakdown during planting or harvest no longer means a call to a neighbor or a trip to a local shop.
@@ -60,16 +50,14 @@ It can mean days of waiting for an authorized technician (at premium cost) durin
 These repair restrictions are a real and growing cost burden on independent family farms that are already operating on thin margins.
 Erik believes that if you bought the equipment, you should have the right to repair it using the tools, parts, and diagnostic information needed to do the job.
 Federal legislation to establish that right permanently is the direction policy should move, and Erik will support efforts to make it the law of the land.
-Support Practical Conservation
-Farmers have always been stewards of the land they depend on.
+Support Practical Conservation Farmers have always been stewards of the land they depend on.
 Farm Bill conservation programs can help farmers protect soil, water, wildlife habitat, and long-term productivity and their own health.
 These programs are not just environmental policy.
 They’re farm policy.
 Erik supports strong funding for voluntary conservation programs that are practical, accessible, and designed to work for farms of different sizes.
 Sustainable agriculture and productive agriculture are not opposites.
 The goal should be to support farmers with tools, incentives, and resources, not one-size-fits-all rules that are harder for small and mid-sized farms to absorb.
-Strengthen Rural Communities
-Farm policy is community policy.
+Strengthen Rural Communities Farm policy is community policy.
 Off-farm jobs are how we start our operations.
 Not enough grant money in the world can replace a good full-time job.
 When farms struggle, local businesses feel it.
@@ -78,6 +66,23 @@ This is especially important as we begin to see the trickle-down effects of the 
 Supporting agriculture is not just about commodity prices or crop insurance.
 It is about protecting the communities that agriculture sustains.
 Erik believes federal farm policy should be measured not only by what it does for farm income, but by whether it helps rural communities survive, adapt, and thrive.
-Erik Wants to Hear From You
-Agriculture is the foundation of Western Minnesota.
+Erik Wants to Hear From You Agriculture is the foundation of Western Minnesota.
 Erik wants to hear directly from farmers, ranchers, producers, small business owners, and rural community members about what is working, what is not, and what federal policy needs to get right.
+GET IN TOUCH JOIN THE CAMPAIGN Learn more about the issues and Erik’s priorities Defend The Constitution Get Corporate Money Out Of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty & Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Stay Connected!
+Don’t miss campaign news, events, volunteer opportunities, and important voting updates.
+By providing your phone number, you agree to receive political and donation related text messages from Erik Osberg for Congress.
+Message and data rates may apply.
+Message frequency varies.
+Reply HELP to request help or STOP to opt out of text messages.
+Privacy Policy and Terms & Conditions.
+Stay Connected!
+Don’t miss campaign news, events, volunteer opportunities, and important voting updates.
+By providing your phone number, you agree to receive political and donation related text messages from Erik Osberg for Congress.
+Message and data rates may apply.
+Message frequency varies.
+Reply HELP to request help or STOP to opt out of text messages.
+Privacy Policy and Terms & Conditions.
+Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

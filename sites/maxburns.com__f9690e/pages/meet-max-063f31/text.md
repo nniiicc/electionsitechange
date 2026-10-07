@@ -1,4 +1,4 @@
-Max was born in Millen and raised in rural Screven County Georgia.
+Home Meet Max News Issues Contribute Signs Newsletter Press Contact More Home Meet Max News Issues Contribute Signs Newsletter Press Contact Home Meet Max News Issues Contribute Signs Newsletter Press Contact Meet Max Burns Max was born in Millen and raised in rural Screven County Georgia.
 His father was the local bread truck driver and mother the county nurse.
 Max and his sister lost their mother when they were young.
 Through hard work and education, Max has served his state and country in many ways.
@@ -26,3 +26,5 @@ In his spare time Dr.
 Burns enjoys reading, travel, golf and bass fishing.
 The Burns' are active members of Jackson Baptist Church in Sylvania.
 Max is a retired Deacon at Jackson Baptist.
+Max at the Jenkins County COC Forum in October Copyright © # Max Burns for State Senate - All Rights Reserved.
+Powered by Archived News Privacy Statement

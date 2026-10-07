@@ -1,5 +1,4 @@
-Skip navigation menu
-Jessica Killin is running for Congress to bring competence, courage, and character back to Washington and to be a fierce advocate for Colorado families.
+Skip navigation menu About Priorities Endorsements Press Contact Events & Yard Signs Volunteer Merch Store Ads Donate About Jessica Killin About Priorities Endorsements Press Contact Events & Yard Signs Volunteer Merch Store Ads Donate About Jessica Killin Jessica Killin is running for Congress to bring competence, courage, and character back to Washington and to be a fierce advocate for Colorado families.
 A proud fourth-generation Coloradan, Jessica’s story is deeply rooted in the Rocky Mountain State.
 From camping and hiking to skiing at Monarch Mountain, she grew up with a love for the outdoors and an appreciation for the places that make Southern Colorado special.
 Raised in Colorado Springs by two public school educators, Jessica was taught to value hard work and the importance of public service.
@@ -15,3 +14,9 @@ Drawing on her military and private sector experience and fueled by her patrioti
 In Washington, Jessica saw firsthand the urgent need for change in both parties.
 Now, she’s ready to bring her patriotism, proven tenacity, and independent voice to deliver solutions to improve the lives of Coloradans.
 Jessica is an Army veteran, public servant, and devoted mom.
+Privacy Policy Contact: info@killinforcolorado.com Mailing address: 2316 N Wahsatch Ave #262, Colorado Springs, CO 80907 Jessica Killin is a former member of the U.S.
+Army.
+Use of any military rank, photos, or job titles does not imply the endorsement of the U.S.
+Army or Department of Defense.
+Resources: B-Roll Powered by RUN! website builder Paid for by Killin for Colorado.
+You need to enable JavaScript to run this app.

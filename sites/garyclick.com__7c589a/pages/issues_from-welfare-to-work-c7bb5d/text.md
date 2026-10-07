@@ -1,5 +1,4 @@
-From Welfare to Work
-On a personal note, my father's addiction led to my godly mother raising three kids as a single parent.
+Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Home ❭ On the Issues ❭ From Welfare to Work From Welfare to Work On a personal note, my father's addiction led to my godly mother raising three kids as a single parent.
 She had no choice but to receive assistance.
 However, she wasn't happy being dependent on the government and believed in the dignity of work.
 But every time she tried to better herself she was threatened with the inability to care for her family.
@@ -27,4 +26,4 @@ My hope is that someone else's mother or father doesn't have to work so hard to 
 Ultimately these solutions will aide both families and the workforce.
 I'm proud to note that a version of my HB 410 from the 134th General Assembly was passed by the legislature in HB 33 in the form of the "Benefit Bridge Employer Pilot Program".
 This program will help financially dependent Ohioans overcome the benefits cliff and enjoy the dignity of work and financial security.
-It is also expected to help meet workforce demands by assisting people who are ready to work as they struggle to overcome the difficult demands that accompany stepping away from government assistance and engaging in a life of independence.
+It is also expected to help meet workforce demands by assisting people who are ready to work as they struggle to overcome the difficult demands that accompany stepping away from government assistance and engaging in a life of independence. « Previous: Lower Taxes - Fewer Regulations Next: Unfunded Mandates for Local Municipalities » The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

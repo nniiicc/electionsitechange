@@ -1,34 +1,230 @@
 [
-"https://facebook.com/RepGruenhagen",
-"https://glenngruenhagen.com/",
-"https://glenngruenhagen.com/Resources",
-"https://glenngruenhagen.com/about-glenn",
-"https://glenngruenhagen.com/books",
-"https://glenngruenhagen.com/books-1",
-"https://glenngruenhagen.com/cart",
-"https://glenngruenhagen.com/contact",
-"https://glenngruenhagen.com/core-policies",
-"https://glenngruenhagen.com/founding-philosophy",
-"https://glenngruenhagen.com/get-involved",
-"https://glenngruenhagen.com/important-issues",
-"https://glenngruenhagen.com/issues-beliefs",
-"https://glenngruenhagen.com/issues-beliefs-content/2ndammendment",
-"https://glenngruenhagen.com/issues-beliefs-content/economy",
-"https://glenngruenhagen.com/issues-beliefs-content/education",
-"https://glenngruenhagen.com/issues-beliefs-content/elections",
-"https://glenngruenhagen.com/issues-beliefs-content/energy",
-"https://glenngruenhagen.com/issues-beliefs-content/environment",
-"https://glenngruenhagen.com/issues-beliefs-content/healthcare",
-"https://glenngruenhagen.com/issues-beliefs-content/immigration",
-"https://glenngruenhagen.com/issues-beliefs-content/judiciary",
-"https://glenngruenhagen.com/issues-beliefs-content/religion",
-"https://glenngruenhagen.com/issues-beliefs-content/righttolife",
-"https://glenngruenhagen.com/issues-beliefs-content/welfare",
-"https://glenngruenhagen.com/news",
-"https://glenngruenhagen.com/overview",
-"https://glenngruenhagen.com/radio-ads",
-"https://glenngruenhagen.com/speaking",
-"https://glenngruenhagen.com/what-we-do",
-"https://paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J9TQZAL8AYAQA",
-"https://twitter.com/glenngruenhagen"
+{
+"text": "0",
+"href": "https://www.glenngruenhagen.com/cart"
+},
+{
+"text": "2nd Amendment",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/2ndammendment"
+},
+{
+"text": "About Glenn",
+"href": "https://www.glenngruenhagen.com/about-glenn"
+},
+{
+"text": "Articles",
+"href": "https://www.glenngruenhagen.com/what-we-do"
+},
+{
+"text": "Back",
+"href": "https://www.glenngruenhagen.com/"
+},
+{
+"text": "Books",
+"href": "https://www.glenngruenhagen.com/books"
+},
+{
+"text": "Contact",
+"href": "https://www.glenngruenhagen.com/contact"
+},
+{
+"text": "Core Policies",
+"href": "https://www.glenngruenhagen.com/core-policies"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J9TQZAL8AYAQA"
+},
+{
+"text": "Education",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/education"
+},
+{
+"text": "Elections",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/elections"
+},
+{
+"text": "Energy",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/energy"
+},
+{
+"text": "Folder: Policies & Issues",
+"href": "https://www.glenngruenhagen.com/issues-beliefs"
+},
+{
+"text": "Folder: Resources",
+"href": "https://www.glenngruenhagen.com/Resources"
+},
+{
+"text": "Founding Philosophy",
+"href": "https://www.glenngruenhagen.com/founding-philosophy"
+},
+{
+"text": "Get Involved",
+"href": "https://www.glenngruenhagen.com/get-involved"
+},
+{
+"text": "Healthcare",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/healthcare"
+},
+{
+"text": "Immigration",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/immigration"
+},
+{
+"text": "Important Issues",
+"href": "https://www.glenngruenhagen.com/important-issues"
+},
+{
+"text": "Judiciary",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/judiciary"
+},
+{
+"text": "News",
+"href": "https://www.glenngruenhagen.com/news"
+},
+{
+"text": "Overview",
+"href": "https://www.glenngruenhagen.com/overview"
+},
+{
+"text": "Radio Ads",
+"href": "https://www.glenngruenhagen.com/radio-ads"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/2ndammendment"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/economy"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/education"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/elections"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/energy"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/environment"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/healthcare"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/immigration"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/judiciary"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/religion"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/righttolife"
+},
+{
+"text": "Read more →",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/welfare"
+},
+{
+"text": "Religion",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/religion"
+},
+{
+"text": "Right to Life",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/righttolife"
+},
+{
+"text": "Speaking",
+"href": "https://www.glenngruenhagen.com/speaking"
+},
+{
+"text": "The Economy",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/economy"
+},
+{
+"text": "The Environment",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/environment"
+},
+{
+"text": "Video",
+"href": "https://www.glenngruenhagen.com/books-1"
+},
+{
+"text": "Welfare",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/welfare"
+},
+{
+"text": "[image: 2nd Amendment]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/2ndammendment"
+},
+{
+"text": "[image: Education]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/education"
+},
+{
+"text": "[image: Elections]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/elections"
+},
+{
+"text": "[image: Energy]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/energy"
+},
+{
+"text": "[image: Glenn Gruenhagen]",
+"href": "https://www.glenngruenhagen.com/"
+},
+{
+"text": "[image: Healthcare]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/healthcare"
+},
+{
+"text": "[image: Immigration]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/immigration"
+},
+{
+"text": "[image: Judiciary.jpg]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/judiciary"
+},
+{
+"text": "[image: Religion]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/religion"
+},
+{
+"text": "[image: Right to Life]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/righttolife"
+},
+{
+"text": "[image: The Economy]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/economy"
+},
+{
+"text": "[image: The Environment]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/environment"
+},
+{
+"text": "[image: Welfare]",
+"href": "https://www.glenngruenhagen.com/issues-beliefs-content/welfare"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/glenngruenhagen/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepGruenhagen"
+}
 ]

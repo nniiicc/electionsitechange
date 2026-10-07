@@ -1,7 +1,5 @@
-Boston’s property tax system disproportionately burdens Black homeowners
-Sen.
-Nick Collins
-Most people assume their property tax bill reflects what their home is actually worth.
+Skip to content Menu Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Bay State Banner Opinion July 17, 2026 July 2, 2026 Boston’s property tax system disproportionately burdens Black homeowners Sen.
+Nick Collins Most people assume their property tax bill reflects what their home is actually worth.
 However, in Boston, that is not always the case.
 The city decides how much to raise in property taxes each year, but it is not always transparent about the process.
 That total is then divided based on what officials say your home is worth.
@@ -52,3 +50,7 @@ Boston cannot claim to be a city of equity while its tax system tells a differen
 If we do not fix this, the same communities will continue to pay more than their fair share.
 Fixing Boston’s tax system starts with making sure the wealthiest finally carry their share of the burden.
 Senator Nick Collins serves as a member of the Massachusetts Senate representing the 1st Suffolk District.
+Contact Committee to Elect Nick Collins P.O.
+Box E-51 South Boston, MA 02127 Connect © # Massachusetts State Senator Nick Collins.
+All Rights Reserved.
+Close Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate

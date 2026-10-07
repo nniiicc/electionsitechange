@@ -1,4 +1,3 @@
-Murray touts session success: Local legislator sponsored 10 bills that passed General Assembly
-WOONSOCKET – Ten of the 21 bills Sen.
+0 Skip to Content Home About 25/26 Term Highlights News Contact Donate Open Menu Close Menu Donate Home About 25/26 Term Highlights News Contact Open Menu Close Menu Home About 25/26 Term Highlights News Contact Donate Murray touts session success: Local legislator sponsored 10 bills that passed General Assembly Jul 1 Written By Melissa Murray WOONSOCKET – Ten of the 21 bills Sen.
 Melissa Murray sponsored are becoming law, covering a wide range of policy areas in a legislative session that saw a higher than usual number of bills introduced.
-“I worked really hard this year and I was fortunate that the issues I cared about, others cared about too,” she said…
+“I worked really hard this year and I was fortunate that the issues I cared about, others cared about too,” she said… Melissa Murray Previous Previous Senator Murray Named Senate Deputy Majority Leader Next Next HIV-prevention and post-exposure medications now available with no out-of-pocket cost to insured Paid for by Friends of Melissa Murray

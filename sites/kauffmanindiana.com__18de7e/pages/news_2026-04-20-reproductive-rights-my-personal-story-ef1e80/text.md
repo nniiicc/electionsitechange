@@ -1,5 +1,7 @@
-Reproductive Rights: My Personal Story
-A reflection from Kelsey Kauffman on a pregnancy that changed how she sees this issue.
+Skip to content Home About Issues Our District News Get Involved Contact Donate Donate Home About Issues Our District News Get Involved Contact Home News Reproductive Rights: My Personal Story Issues April 20, 2026 · Kelsey Kauffman Reproductive Rights: My Personal Story No two pregnancies are the same.
+No two women are the same.
+And no law can capture the complexity, uncertainty, and deeply personal nature of these decisions.
+Reproductive Rights: My Personal Story A reflection from Kelsey Kauffman on a pregnancy that changed how she sees this issue.
 I think most women view abortion and reproductive rights through the lens of their own reproductive experiences.
 I know I do.
 Before I became pregnant the first time, I opposed abortion, especially after the first trimester.
@@ -18,8 +20,7 @@ Eventually, I made the decision to proceed.
 The surgery was traumatic.
 I hemorrhaged severely, came close to an emergency hysterectomy, and spent time in intensive care.
 A few years later, after I had been blessed with a second baby, I was at a county fair in upstate New York with the kids.
-A local pastor walked by wearing a t-shirt that read: "God gave woman a womb, not a tomb."
-I remember standing there, stunned.
+A local pastor walked by wearing a t-shirt that read: "God gave woman a womb, not a tomb." I remember standing there, stunned.
 I wanted to stop him and say: you have no idea what some of us have been through.
 You have no idea what it feels like to carry pregnancies that cannot survive, to lose them again and again, to make decisions no one ever wants to face.
 I didn't say anything.
@@ -32,4 +33,8 @@ No two women are the same.
 And no law can capture the complexity, uncertainty, and deeply personal nature of these decisions.
 I cannot imagine having legislators — or even doctors — take that choice away from me.
 That experience gave me the humility to believe that every woman, every family, should be trusted to make these decisions for themselves.
-Paid for by Kelsey Kauffman for House District 44
+Paid for by Kelsey Kauffman for House District 44 Share this article Help spread the word across the district.
+Link copied! ← Back to all news Keep reading More from the trail.
+Jun 17 Issues Healthcare Is a Right: Building a Bridge to Better Care Read more → Apr 22 Personal Statement The Compass My Father Gave Me Read more → Feb 9 Press Release Kelsey Kauffman Announces Candidacy for Indiana House District 44 Read more → Donate Now Making Our Voices Heard at the Statehouse .
+Fighting for strong schools, affordable healthcare, and working families in District 44 .
+Navigate Home About Kelsey Issues News Contact Issues Education Healthcare Economy and Jobs Property Taxes Childcare Immigration Connect Greencastle, Indiana Paid for by Kelsey Kauffman for House District 44 Image Credits

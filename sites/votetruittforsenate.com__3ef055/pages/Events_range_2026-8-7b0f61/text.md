@@ -1,8 +1,3 @@
-Events
-29
-Aug
-Saturday, 10:00 AM – 12:00 PM
-Canvassing in Nelson County
-206 W.
-Broadway Avenue, Bardstown, KY
-Add your event description here
+Meet Carrie Events Issues News Volunteer Contribute Events #ago This Week This Month ‹ Previous Sat Aug 1 2026 - Mon Aug 31 2026 Next › 29 Aug Saturday, 10:00 AM – 12:00 PM Canvassing in Nelson County 206 W.
+Broadway Avenue, Bardstown, KY Add your event description here More info › CONTRIBUTE VOLUNTEER VOTING INFO Get Updates Thank you for signing up!
+News Kentucky AFL-CIO, Teamsters Local 89, and IBEW Local 369 Endorse Carrie Gribbins Truitt for State Senate CARRIE TRUITT EARNS ENDORSEMENT OF TEAMSTERS LOCAL 89 Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Carrie Gribbins Truitt, PO Box 463, Lebanon, KY 40033 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Carrie Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

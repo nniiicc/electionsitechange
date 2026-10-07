@@ -1,29 +1,12 @@
-Re-imagine Our Criminal Justice System
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share Criminal Justice Re-imagine Our Criminal Justice System If we are going to dismantle systemic racism in our country, we must radically transform our approach to criminal justice and invest in restorative justice practices.
 The criminal justice system has been built to criminalize People of Color and Indigenous people, disproportionately sending them to prison for minor offenses and entrapping them in a vicious cycle of incarceration.
 If we are going to dismantle systemic racism in our country, we must radically transform our approach to criminal justice and invest in restorative justice practices.
-- The United States spends over $80 billion each year towards incarcerating people
-- Black people are disproportionately represented in prisons and jails, despite not committing crimes at a higher rate than their white peers
-- Hundreds of civilians are killed by police violence every year
-Vision and policy priorities
-Invest in alternatives to incarceration and restore humane practices
-It is unacceptable for any corporation to make money off of incarcerating human beings.
+The United States spends over $80 billion each year towards incarcerating people Black people are disproportionately represented in prisons and jails, despite not committing crimes at a higher rate than their white peers Hundreds of civilians are killed by police violence every year Vision and policy priorities Invest in alternatives to incarceration and restore humane practices​ It is unacceptable for any corporation to make money off of incarcerating human beings.
 For-profit prisons reinforce a criminal justice system that seeks out reasons to incarcerate People of Color and Indigenous people.
 We must prioritize restorative justice models and fully fund these programs at the national level.
 We must work to drastically lower the number of people incarcerated in the United States.
-- Ban private prisons and end inhumane, punitive practices like solitary confinement
-- Fund preventative and diversionary programs, specifically focusing on ending the school-to-prison pipeline
-- Restore voting rights nationwide for those who have completed their sentence
-- Ensure that those being released from incarceration are fully supported in their transition back to society
-- Invest in mental healthcare for those incarcerated and for the recently-released
-Oppose federal programs that criminalize communities of color
-Programs like Countering Violent Extremism (CVE) and the Black Identity Extremism program function to monitor and criminalize black immigrants and African-Americans, especially black Muslims.
+Ban private prisons and end inhumane, punitive practices like solitary confinement Fund preventative and diversionary programs, specifically focusing on ending the school-to-prison pipeline Restore voting rights nationwide for those who have completed their sentence Ensure that those being released from incarceration are fully supported in their transition back to society Invest in mental healthcare for those incarcerated and for the recently-released​ Oppose federal programs that criminalize communities of color Programs like Countering Violent Extremism (CVE) and the Black Identity Extremism program function to monitor and criminalize black immigrants and African-Americans, especially black Muslims.
 They are based on a model of racial profiling and meant to incite fear and the suppression of black organizers and activists.
-- Pressure the FBI to end these harmful programs
-- Ban all racial profiling by federal, state, and local agencies
-End the War on Drugs
-The War on Drugs has disproportionately impacted communities of color.
+Pressure the FBI to end these harmful programs Ban all racial profiling by federal, state, and local agencies​ End the War on Drugs The War on Drugs has disproportionately impacted communities of color.
 The only way to repair the harm caused in communities across the country is to end the War on Drugs, and invest intentionally in education, housing, healthcare, and employment.
-- Legalize recreational cannabis nationwide, expunge the records and seek amnesty for those incarcerated for cannabis-related offenses
-- End mandatory minimum sentencing laws for low-level offenses
-- Invest in a public-health approach to the addiction crisis
-- Demilitarize police departments and push for federal investigations into local departments who utilize practices like arrest quotas
+Legalize recreational cannabis nationwide, expunge the records and seek amnesty for those incarcerated for cannabis-related offenses End mandatory minimum sentencing laws for low-level offenses Invest in a public-health approach to the addiction crisis Demilitarize police departments and push for federal investigations into local departments who utilize practices like arrest quotas Back to all Vision's ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

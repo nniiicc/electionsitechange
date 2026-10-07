@@ -1,5 +1,4 @@
-About Kyle
-The core of my belief system is that of stewardship.
+Skip to content Home About Pillars Education Stewardship: Conservation, Energy & The Future Democracy & Representation Rights & Liberties Housing & Main Street Justice, Safety & Accountability Schedule Contact Home About Pillars Education Stewardship: Conservation, Energy & The Future Democracy & Representation Rights & Liberties Housing & Main Street Justice, Safety & Accountability Schedule Contact Kyle Haines for Hillsborough 12 About Kyle The core of my belief system is that of stewardship.
 The belief that we owe it to future generations to leave things better than we inherited.
 This includes creating robust infrastructure, protected wilderness, and resolute institutions.
 I believe the role of public office is to use power carefully, transparently, and with restraint; guided by evidence, accountability, and respect for the people it serves.
@@ -19,3 +18,5 @@ We can make our Republic stronger.
 This is why I chose to run.
 As Representative I will make sure to advocate for the best interests of the people of Merrimack.
 I will devote myself to the preservation of our institutions, ensure meaningful accountability and oversight, lead based on data, and refute bad logic, regardless of source.
+Explore the policies I’ll fight for on behalf of Merrimack © # .
+Created for free using WordPress and Colibri

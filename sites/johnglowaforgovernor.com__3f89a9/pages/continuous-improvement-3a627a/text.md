@@ -1,4 +1,4 @@
-MAINE’S GOVERNMENT IS MIRED IN A SWAMP OF ITS OWN MAKING.
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute Continuous Improvement Home / Issues / Continuous Improvement MAINE’S GOVERNMENT IS MIRED IN A SWAMP OF ITS OWN MAKING.
 As governor, I will implement a continuous improvement process.
 This is something that Maine’s government does not have and has never had.
 Maine elects politicians, bureaucrats, or businessmen for governor.
@@ -31,3 +31,11 @@ In truth, the legislature only knows what the governor wants them to know.
 The checks and balances between the branches of government effectively do not exist.
 Programs, policies and procedures in all branches of government must be periodically reviewed and optimized.
 This is continuous improvement and as governor, we will begin implementation of continuous improvement on day one.
+Issues John M.
+Glowa, Sr.
+An experienced public servant and lifelong advocate for government reform, environmental protection, and putting people before politics.
+Recent Post ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News John Glowa, Sr.
+Announces Gubernatorial Candidacy Why Should You Vote For Me?
+See All Posts John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

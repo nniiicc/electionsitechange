@@ -1,4 +1,8 @@
-My name is Cherie Cruz.
+0 Skip to Content Vote!
+About Volunteer Issues Highlights Contact Donate Open Menu Close Menu Donate Vote!
+About Volunteer Issues Highlights Contact Open Menu Close Menu Vote!
+About Volunteer Issues Highlights Contact Donate A letter from Cherie This letter was mailed to the community members of House District 58 (Woodlawn and Fairlawn) at the beginning of August 2024.
+Click here to read this letter in Spanish Click here to read this letter in Portuguese Creole My name is Cherie Cruz.
 I am honored to have served as your State Representative for the past two years here in Pawtucket.
 I am running again because while much has been accomplished, I know that there is more work to be done.
 I care deeply about my community and I believe that our voices—strong and deserving—must be heard.
@@ -40,13 +44,13 @@ I’ve seen far too many family and friends retire in poverty like that.
 I have seen Seniors—many who are disabled veterans—suffer as they wait months for important medications.
 As your Representative, I will keep advocating for investments in senior care so everyone is treated with respect and compassion, even after they have transitioned out of working.
 Our seniors need someone who will fight for them so they can enjoy their lives with dignity.
-I also know firsthand the impact that our broken criminal legal system can have on families.
+I also know firsthand the impact that our broken criminal legal system can have on families .
 Both my parents were formerly incarcerated.
 As a young adult, I was impacted by the criminal legal system due to the criminalization of cannabis, and further criminalized after surviving domestic violence.
 Long after I served my probation sentence, our laws kept me from finding stable housing and employment when I needed help the most.
 That’s why I worked to restore voting rights to those with records—a right my parents died without having—and why I helped lead the fight to fully legalize and expunge past cannabis records.
 Working families are struggling while big corporations, greedy employers, and lifelong political insiders become successful off of your hard work.
-You deserve to live without worrying everyday about how to pay the bills or how to feed your family.
+You deserve to live without worrying everyday about how to pay the bills or how to feed your family .
 You deserve to thrive.
 That means electing someone who has fought to ensure that working families earn a living wage, who has taken on high rents, who has looked the bad guys in the eye and said, “ENOUGH.” I will keep taking our fight from the streets of Pawtucket to the halls of the State House.
 I won’t stop until we have true justice for our community.
@@ -54,6 +58,4 @@ You can call or text me at 401-378-6804.
 I’m always proud to help my constituents with issues in their neighborhood, and to navigate the ins and outs of city and state bureaucracy.
 I love being able to help neighbors, or if I can’t, to try to connect them with someone who can.
 People just want and need a chance.
-I ask for your vote in the primary election on September 10th.
--Cherie Cruz
-State Representative, District 58
+I ask for your vote in the primary election on September 10th. -Cherie Cruz State Representative, District 58 Cherie Cruz State Representative Paid for by Friends of Cherie Cruz • Jazzmin Andrade, Treasurer About Volunteer Contact Donate

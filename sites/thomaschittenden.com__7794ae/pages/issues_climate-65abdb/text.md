@@ -1,9 +1,11 @@
-We are in a climate emergency and the State of Vermont must continue to lead with policies that reduce our carbon footprint.
+About Get Involved Issues Donate Climate Donate issues Climate We are in a climate emergency and we need our state strategies to support our people and our planet by reducing our CO2 emissions.
+Thomas Chittenden Read more posts by this author.
+Thomas Chittenden 5 Jun 2022 • 2 min read We are in a climate emergency and the State of Vermont must continue to lead with policies that reduce our carbon footprint.
 In each of my roles, I have been a staunch advocate for policies and practices that have environmental benefits reducing CO2 emissions from our human activity and will take this priority into the Vermont State Senate.
 Since I have been a member of the South Burlington City Council we have installed solar panels on the capped landfill, modernized our city hall/buildings with energy efficiencies and created a special fund to collect and redirect energy savings into more projects with economic and environmental benefits.
 While on the Green Mountain Transit Board (a.k.a.
 CCTA) we added our first two Proterra Electric Busses, entered in a contract to allow solar panels on our headquarters roof and smart investments made in AVL software to allow people to track and plan for their bus arriving - this investment is an essential component to attract choice riders to opt for public transportation.
-It’s these sort of smart solutions you can expect from me as your Chittenden County State Senator.
+It’s these sort of smart solutions you can expect from me as your Chittenden County State Senator .
 At the University of Vermont, I wrote the grant that successfully brought Virtual Desktop Computer labs to campus, designed a new course on Green IT covering environmentally & economically beneficial applications of Information Technology in the Modern Enterprise and was a champion for a new online course evaluation platform designed to replace the ~50,000+ pieces of paper previously used each year.
 Environmental change starts small and grows, and I know how to make it happen.
 There is more that needs to be done.
@@ -13,3 +15,9 @@ Over parking lots, these solar panels will shield our cars from the snow, the sl
 But most importantly, to reduce our carbon footprint, we need a growing economy, a growing revenue base and a growing population.
 Growth attracts investment, renewal and enrichment.
 We can't upgrade our practices with stagnation and we need growth to support strategic investments in new infrastructure to implement environmental strategies that support our people and our planet.
+More in issues Growth 5 Jun 2022 – # min read Regionalization 5 Jun 2022 – # min read Affordability 5 Jun 2022 – # min read See all 4 posts → issues Affordability Affordability is about more than just affordable housing.
+We need to reduce the tax burden on our residents.
+This can be done with regionalizing our services, growing our economy, growing our grand lists and attracting more people to our state.
+Thomas Chittenden Thomas Chittenden 5 Jun 2022 • 1 min read READ MORE ▶ issues Justice Black lives matter.
+And we have a lot of work to do.
+Thomas Chittenden Thomas Chittenden 5 Jun 2022 • 2 min read READ MORE ▶ Paid for by Thomas Chittenden for State Senate 1600 Dorset Street, South Burlington, VT 05403 thomas@thomaschittenden.com (802) 233 1913 Privacy Policy Facebook Twitter

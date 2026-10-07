@@ -1,7 +1,1 @@
-top of page
-POLICY
-Public Education
-Fund public education and recognize it as a pathway to success for our youth, including trade and vocational schools
-Cost-Of-Living
-Explore low-cost utility programs and expand utility infrastructure district-wide
-bottom of page
+top of page Home About Policy Get Involved DONATE POLICY Public Education Fund public education and recognize it as a pathway to success for our youth, including trade and vocational schools Read More Economic Development Support our state and district economies by Read More Cost-Of-Living Explore low-cost utility programs and expand utility infrastructure district-wide Read More Small Business Reduce cost of doing business for entrepreneurs and family-owned businesses Read More Local Goverment Keep funding for local government, ensuring decision-making follow Read More Prescription Prices ​Lower out-of-pocket costs and protect hometown pharmacies Read More Home Contact Paid for by Friends of Louis Murphy bottom of page

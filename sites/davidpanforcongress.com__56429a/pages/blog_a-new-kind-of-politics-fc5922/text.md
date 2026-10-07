@@ -1,5 +1,4 @@
-A New Kind of Politics
-Politics has become about elections where the votes don't matter.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate A New Kind of Politics May 8 Written By Guest User Politics has become about elections where the votes don't matter.
 Let's change that together.
 The typical political strategy has always been about appealing to your own party and getting out the vote.
 Both sides ignore each other.
@@ -16,3 +15,10 @@ Our victory in this race will be a victory for common sense solutions that benef
 If you support my plan, please help me in any way that you can.
 By voting, by telling your friends, relatives, and neighbors, by donating, by volunteering.
 A new chapter in our country’s history can start here and now, and it depends on you.
+Guest User Previous Previous Should parents be able to choose the best schools for their children?
+Next Next New opportunities for our youth Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

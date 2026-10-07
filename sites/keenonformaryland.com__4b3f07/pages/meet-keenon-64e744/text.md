@@ -1,4 +1,4 @@
-A native Prince Georgian, Keenon was raised in a working class family in Fort Washington where he attended Prince George's County Public Schools Rose Valley Elementary School and the former Lord Baltimore, now Isaac J.
+Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Home Meet Keenon Priorities #KeenTeam Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Public safety, healthcare, and working families advocate Home Meet Keenon Priorities #KeenTeam More Home Meet Keenon Priorities #KeenTeam Home Meet Keenon Priorities #KeenTeam Meet Keenon A native Prince Georgian, Keenon was raised in a working class family in Fort Washington where he attended Prince George's County Public Schools Rose Valley Elementary School and the former Lord Baltimore, now Isaac J.
 Gourdine, Middle School.
 After graduating with honors from Bishop McNamara High School, Keenon received athletic and academic scholarships to North Carolina Wesleyan College where he played on the men's soccer team and excelled in the classroom.
 Keenon then decided to continue his family's legacy by attending a historically black college choosing North Carolina Central University (NCCU).
@@ -17,5 +17,9 @@ In addition to being a national leader in public safety policy and criminal just
 A certified practitioner of oversight, Keenon is the former vice chairman of the Prince George's County Police Accountability Board.
 His deep commitment to democratic ideals and priorities is evidenced by his selection to represent the 23rd district on the Prince George's County Democratic Central Committee.
 Keenon is a member of several community, philanthropic, and service organizations including the Board of Visitors for Elizabeth City State University, Kappa Youth Development, Incorporated, Upper Marlboro/ Waldorf (MD) Alumni Chapter of Kappa Alpha Psi Fraternity, Incorporated, The AK Foundation, Prince Hall Free Masons, and Bachelor-Benedict Club.
-Keenon, his wife, and their daughters reside in Upper Marlboro.
-*Organizational affiliation, job titles, and photographs provided for identification purposes only and not an indication of individual/organizational support or endorsement.
+Keenon, his wife, and their daughters reside in Upper Marlboro. * Organizational affiliation, job titles, and photographs provided for identification purposes only and not an indication of individual/organizational support or endorsement.
+Addressing the Issues Learn about Keenon's ideas on priority issues.
+Learn more Community Involvement Learn how Keenon is impacting the community.
+Learn more Follow.
+Like.
+Share Authorized by Friends of Keenon James - London Wills, PhD, MBA - Treasurer Events Powered by

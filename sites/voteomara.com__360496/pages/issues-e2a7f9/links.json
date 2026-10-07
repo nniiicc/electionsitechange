@@ -1,14 +1,54 @@
 [
-"https://facebook.com/JennOMara4PA",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://secure.actblue.com/donate/jennomara",
-"https://vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-"https://voteomara.com/",
-"https://voteomara.com/issues",
-"https://voteomara.com/media",
-"https://voteomara.com/meet-jenn",
-"https://voteomara.com/on-the-issues",
-"https://voteomara.com/volunteer",
-"https://voteomara.com/vote-by-mail"
+{
+"text": "Apply for a Mail-in Ballot",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jennomara"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.voteomara.com/"
+},
+{
+"text": "How To Vote By Mail",
+"href": "https://www.voteomara.com/vote-by-mail"
+},
+{
+"text": "Issues",
+"href": "https://www.voteomara.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.voteomara.com/on-the-issues"
+},
+{
+"text": "Media",
+"href": "https://www.voteomara.com/media"
+},
+{
+"text": "Meet Jenn",
+"href": "https://www.voteomara.com/meet-jenn"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteomara.com/volunteer"
+},
+{
+"text": "[image: Jennifer O&#39;Mara for State Representative]",
+"href": "https://www.voteomara.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JennOMara4PA/"
+}
 ]

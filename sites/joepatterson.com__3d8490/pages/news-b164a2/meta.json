@@ -1,7 +1,11 @@
 {
  "description": "News READ MORE",
  "final_url": "https://joepatterson.com/news/",
+ "fingerprint": "cef8d6ab92b54226b4bf9076f5a375950129ae20",
+ "format": 3,
  "paid_for_by": "Paid for by Joe Patterson for Assembly 2026 (ID# 1476880)",
  "title": "News - Joe Patterson",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

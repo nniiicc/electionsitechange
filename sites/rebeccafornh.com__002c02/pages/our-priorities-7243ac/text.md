@@ -1,7 +1,4 @@
-The strongest economies and most resilient towns are not created by chance.
-They emerge when leaders make thoughtful decisions today that position future generations to thrive.
-Fiscal Responsibility
-No Sales or Income Tax
-Lower Property Taxes
-Protecting Public Education
-Environmental Stewardship
+Skip navigation menu About Priorities Endorsements News Connect Invest fighting for our communities Our Priorities About Priorities Endorsements News Connect Invest fighting for our communities Our Priorities Why I'm Running The strongest economies and most resilient towns are not created by chance.
+They emerge when leaders make thoughtful decisions today that position future generations to thrive. state budget Fiscal Responsibility The new hampshire advantage No Sales or Income Tax local leadership Lower Property Taxes invest in our future Protecting Public Education the outdoor economy Environmental Stewardship info@rebeccafornh.com Mailing Address: Rebecca for NH PO Box 198 North Sutton, NH 03260 Powered by RUN! website builder Paid for by Rebecca for NH.
+PO Box 198 North Sutton, NH 03260.
+Rebecca Harned, Treasurer You need to enable JavaScript to run this app.

@@ -1,5 +1,5 @@
-I have over two decades of experience as a community organizer and advocate.
-WHY I AM RUNNING FOR RE-ELECTION
-I have called Montana my home for almost my entire life.
+0 Skip to Content Home Support Contact SJ Howell for HD 100 Donate Open Menu Close Menu Home Support Contact SJ Howell for HD 100 Donate Open Menu Close Menu Home Support Contact Donate I have over two decades of experience as a community organizer and advocate.
+WHY I AM RUNNING FOR RE-ELECTION I have called Montana my home for almost my entire life.
 Montana is where I graduated from high school, where I am raising my family, and where I have learned most of what I know about the importance of community.
-I will continue to bring my devoted commitment to issues like
+I will continue to bring my devoted commitment to issues like affordable health care, public education, affordable housing, tenants rights, criminal justice reform, and fair tax policy to the Montana Capitol in 2027.
+View this profile on Instagram SJ Howell (@ howell4mt ) • Instagram photos and videos JOIN TEAM HOWELL DONATE VOLUNTEER CONTACT Made with Squarespace PAID FOR BY SJ HOWELL FOR HD 100 PO BOX 8623, MISSOULA, MT 59807 SJ HOWELL, TREASURER DEMOCRAT CONTACT ME sjhowell4mt@gmail.com

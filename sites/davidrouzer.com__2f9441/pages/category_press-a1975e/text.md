@@ -1,2 +1,6 @@
-FOR IMMEDIATE RELEASE October 28, 2014 Wilmington, NC — Former Arkansas Governor Mike Huckabee has endorsed David Rouzer for Congress in North Carolina’s 7th Congressional District.
-“David Rouzer’s commitment to protect the unborn, his defense of traditional marriage, and his support for our Second Amendment rights make him the best choice for North…
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Press All Blog News Press Video 28 October 2014 Share Facebook Twitter Email Governor Mike Huckabee endorses David Rouzer FOR IMMEDIATE RELEASE October 28, 2014 Wilmington, NC — Former Arkansas Governor Mike Huckabee has endorsed David Rouzer for Congress in North Carolina’s 7th Congressional District.
+“David Rouzer’s commitment to protect the unborn, his defense of traditional marriage, and his support for our Second Amendment rights make him the best choice for North… 25 September 2014 Share Facebook Twitter Email US Chamber of Commerce Endorses David Rouzer Wilmington, NC – The US Chamber of Commerce endorsed David Rouzer’s campaign for Congress at a press conference in Wilmington Thursday afternoon.
+Moore Hallmark, Executive Director of the Southeastern Region Office of the U.S.
+Chamber of Commerce, joined David Rouzer and local business owners at the Wilmington Regional Association of REALTORS for the announcement.
+Rex Creech,… Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

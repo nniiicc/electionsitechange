@@ -1,20 +1,14 @@
-Press Releases
-FOR IMMEDIATE RELEASE
-Tracey Tackett Officially Qualifies for November Ballot as Independent Candidate for Ohio’s Fourth Congressional District
-SPRINGFIELD, Ohio — July 6, 2026 — Tracey Tackett has officially qualified for the November General Election ballot after election officials certified the campaign’s petition signatures, making her the Independent candidate for Ohio’s Fourth Congressional District.
+0 Skip to Content Home About Events Endorsements Issues Press Releases Volunteer Donate Open Menu Close Menu Home About Events Endorsements Issues Press Releases Volunteer Donate Open Menu Close Menu Home About Events Endorsements Issues Press Releases Volunteer Donate Press Releases FOR IMMEDIATE RELEASE Tracey Tackett Officially Qualifies for November Ballot as Independent Candidate for Ohio’s Fourth Congressional District SPRINGFIELD, Ohio — July 6, 2026 — Tracey Tackett has officially qualified for the November General Election ballot after election officials certified the campaign’s petition signatures, making her the Independent candidate for Ohio’s Fourth Congressional District.
 The certification follows a 90-day grassroots effort in which campaign volunteers collected more than 4,000 signatures from voters throughout the district.
 “Today’s certification is a victory for every voter who believes our democracy is stronger when people have more choices,” Tackett said.
-“This campaign proved that ordinary citizens, working together, can accomplish extraordinary things.”
-Unlike candidates representing the major political parties, Independent candidates must complete an extensive petition process before qualifying for the ballot.
+“This campaign proved that ordinary citizens, working together, can accomplish extraordinary things.” Unlike candidates representing the major political parties, Independent candidates must complete an extensive petition process before qualifying for the ballot.
 Tackett said the successful certification demonstrates both the dedication of local volunteers and the public’s desire for independent leadership.
 “Collecting more than 4,000 signatures in just 90 days required thousands of conversations and countless volunteer hours,” Tackett said.
 “While the major parties are automatically placed on the ballot through their organizations, Independents must first earn the opportunity to compete.
-I believe voters—not political parties—should determine who represents them.”
-Tackett thanked the volunteers who staffed community events, knocked on doors, and gathered signatures throughout the district.
+I believe voters—not political parties—should determine who represents them.” Tackett thanked the volunteers who staffed community events, knocked on doors, and gathered signatures throughout the district.
 “This milestone belongs to every volunteer who sacrificed evenings, weekends, and time with their families to help build this campaign.
-It belongs to every voter who signed a petition because they believe in giving our communities another voice.”
-Tackett’s campaign is centered on empowering local communities, returning greater resources to local governments, supporting first responders, strengthening infrastructure, improving educational opportunities, and bringing practical, bipartisan solutions to Congress.
-“Our campaign is built on one principle: People Over Politics.
-With ballot access secured, we’re ready to take that message to every corner of Ohio’s Fourth District.”
-Media Contact
-Tracey Tackett for Congress
+It belongs to every voter who signed a petition because they believe in giving our communities another voice.” Tackett’s campaign is centered on empowering local communities, returning greater resources to local governments, supporting first responders, strengthening infrastructure, improving educational opportunities, and bringing practical, bipartisan solutions to Congress.
+“Our campaign is built on one principle: People Over Politics .
+With ballot access secured, we’re ready to take that message to every corner of Ohio’s Fourth District.” Media Contact Tracey Tackett for Congress Info@traceytackett.org traceytackett.or g Contact Us Send contributions: Checks written to: Friends of Tracey Tackett Mail to: Tracey Tackett C/O Sip & Dipity Paint Bar 117 S.
+Fountain Ave.
+Springfield, OH 45502 Email: friendsoftraceytackett@yahoo.com Links About Endorsements Support Donate ©# by Assistant Mayor Tracey Tackett.

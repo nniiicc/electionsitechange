@@ -1,8 +1,38 @@
 [
-"https://culpforvermont.com/",
-"https://culpforvermont.com/contact-8",
-"https://culpforvermont.com/press",
-"https://culpforvermont.com/privacy-policy",
-"https://support.wix.com/en/article/creating-a-privacy-policy",
-"https://wix.com/"
+{
+"text": "About Susan",
+"href": "https://www.culpforvermont.com"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "Get Involved",
+"href": "https://www.culpforvermont.com/contact-8"
+},
+{
+"text": "PAID FOR BY CULP FOR VERMONT",
+"href": "https://www.culpforvermont.com/privacy-policy"
+},
+{
+"text": "Press",
+"href": "https://www.culpforvermont.com/press"
+},
+{
+"text": "Priorities",
+"href": "https://www.culpforvermont.com"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "culpforvermont@gmail.com",
+"href": "mailto:culpforvermont@gmail.com?subject=Campaign+inquiry"
+},
+{
+"text": "​",
+"href": "https://www.culpforvermont.com"
+}
 ]

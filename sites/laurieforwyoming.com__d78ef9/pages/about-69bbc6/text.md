@@ -1,5 +1,5 @@
-MEET LAURIE
-Laurie graduated with a BA in Biology and Comprehensive Science Education from Miami University in Ohio, where she was born and raised.
+top of page HOME ABOUT MEDIA GET INVOLVED CONTACT More Use tab to navigate through the menu items.
+DONATE MEET LAURIE Laurie graduated with a BA in Biology and Comprehensive Science Education from Miami University in Ohio, where she was born and raised.
 She taught in a mid-sized public high school for seven years, then put her biology degree to use as a pharmaceutical salesperson, quickly advancing to top sales production positions.
 Shortly after the birth of her first child, Chelsea, she made the choice to put a career on hold and focus on raising a family.
 While it was a difficult decision to make from a financial perspective, it was an easy one to make personally that she never regretted and one that she wishes more families could have an opportunity to make today.
@@ -21,3 +21,5 @@ It’s the traditional values, the simple truths of the Code of the West, that d
 Wyoming is more than just a place.
 It is the very embodiment of the principles upon which this nation was founded.
 Laurie is committed to help preserve those values for your family and hers… for everyone who calls Wyoming home.
+HOME ABOUT MEDIA GET INVOLVED CONTACT More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Privacy Policy PAID FOR BY THE COMMITTEE TO ELECT LAURIE BRATTEN 1004 BIG GOOSE RD., SHERIDAN WY 82801 ​ 307-683-1788 bottom of page

@@ -1,7 +1,9 @@
 {
  "description": "The Monthly Periodical for Representative Jonah Orion Wheeler",
  "final_url": "https://jonahwheeler.com/letters/the-power-of-the-sun",
- "paid_for_by": null,
+ "fingerprint": "c92c8c195f103caa185861075b2a75d373c97b04",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Monthly Letter",
  "years_mentioned": [
   "2026"

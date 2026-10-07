@@ -1,9 +1,30 @@
 [
-"https://facebook.com/profile.php?id=61579731537637",
-"https://instagram.com/mcneelyforwv",
-"https://mcneelyforwv.com/",
-"https://mcneelyforwv.com/about-5",
-"https://mcneelyforwv.com/blog",
-"https://secure.winred.com/friends-of-tim-mcneely/donate-today",
-"https://x.com/McneelyforWV"
+{
+"text": "About",
+"href": "https://www.mcneelyforwv.com/about-5"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-tim-mcneely/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.mcneelyforwv.com"
+},
+{
+"text": "News",
+"href": "https://www.mcneelyforwv.com/blog"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61579731537637"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mcneelyforwv/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/McneelyforWV"
+}
 ]

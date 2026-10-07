@@ -1,17 +1,17 @@
-With pipeline 5 crossing over the straits of Mackinac, restarting of the Palisades nuclear plant, the Flint water crisis and PFAS contaminated wells, clean and affordable water and energy is not just a priority, it is a necessity.
-The cost of living continues to rise, crushing the middle class and working poor under the weight of financial burdens.
+Jared Polonowski Jared Polonowski Jared Polonowski Jared Polonowski Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Jared Polonowski Jared Polonowski Jared Polonowski Jared Polonowski Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us More Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Home Meet Jared Michigan's Green Party Invest Educate Protect Michigan's 39th Cohorts Events Donate Contact Us Investing In Our Future Energy and Water Wages and Healthcare Wages and Healthcare With pipeline 5 crossing over the straits of Mackinac, restarting of the Palisades nuclear plant, the Flint water crisis and PFAS contaminated wells, clean and affordable water and energy is not just a priority, it is a necessity.
+Wages and Healthcare Wages and Healthcare Wages and Healthcare The cost of living continues to rise, crushing the middle class and working poor under the weight of financial burdens.
 The cost and ability to access basic healthcare has become nearly impossible for a majority of Americans.
-40 years ago the internet came into existence and today almost one third of Michigan households do not have adequate access to affordable internet even as the internet has become a basic necessity.
-For many Michiganders having an affordable place to live is only a dream.
+Communication Wages and Healthcare Communication #ago the internet came into existence and today almost one third of Michigan households do not have adequate access to affordable internet even as the internet has become a basic necessity.
+Housing Community Services Communication For many Michiganders having an affordable place to live is only a dream.
 The high cost of homes and rentals in combination with low inventory has made it impossible for many Americans to afford a place to call their own.
 High Interest rates combined with investment firms hoarding available real estate has continued to make this situation more hopeless.
-Police, Fire and Hospitals are services that most Americans have become accustomed to, however, today we are seeing a turning back of the clock.
+Community Services Community Services Community Services Police, Fire and Hospitals are services that most Americans have become accustomed to, however, today we are seeing a turning back of the clock.
 Small towns and villages are struggling to fund public services and are being forced to eliminate these vital services in order to balance their budgets while Hospitals are eliminating services that are no longer profitable leaving citizens to die.
-Whether its roadways, railways all Michiganders have the right to move and travel as they choose.
+Transportation Community Services Community Services Whether its roadways, railways all Michiganders have the right to move and travel as they choose.
 No matter the mode of transportation, it should always be safe, reliable and affordable.
 Unfortunately how it should be is often not how it actually is.
 With the rising costs of owning a vehicles and the lack of investment in private and public transit systems, Michiganders will continue to have a difficult time getting to where they need to go.
-The Great Lakes make up the largest body of fresh water in the world, it is an irreplaceable natural resource that we, as Michiganders, have a duty to protect.
+The Plan Environmental Protections The Great Lakes make up the largest body of fresh water in the world, it is an irreplaceable natural resource that we, as Michiganders, have a duty to protect.
 Pipeline 5 that carries oil across the straits of mackinaw and the palisades nuclear plant that sits on the shoreline of lake Michigan right here in southwest Michigan are two of many threats to the safety and security of the Great Lakes.
 In addition, we have an abundance of ground water in our state which continues to be drawn out for Profit by water bottling companies and contaminated with PFAS and other carcinogens by corporations who avoid taking responsibility for their negligence.
 As your State Representative, Jared Polonowski will work to remove the threats to our natural resources and protect them for the generations to come.
@@ -21,7 +21,7 @@ When situations arise like the Flint water Crisis or having contaminated wells a
 Clean and Affordable energy and water is possible but its not going to happen overnight.
 Its going to take a creative multi-stage plan with a large investment in our infrastructure and communities over that period of time.
 It can not be done with annual budgets and two year election cycles.
-"The purpose of the minimum wage was to stabilize the post-depression economy and protect the workers in the labor force.
+A living Wage "The purpose of the minimum wage was to stabilize the post-depression economy and protect the workers in the labor force.
 The minimum wage was designed to create a minimum standard of living to protect the health and well-being of employees." American's had lost their life saving in bank failures and many struggled to secure food and housing.
 Sound familiar?
 Let's run some numbers together.
@@ -36,11 +36,10 @@ If the standard requirement to qualify for a lease is an income at least 3 times
 This would ensure that all working Michiganders have the opportunity to afford food, shelter and transportation.
 A living wage for all workers can be achieved and it is possible for this law to remain effective for the long term.
 Reevaluation of the rate annually and adjusting the minimum wage accordingly, just as most companies adjust salaries annually due to inflation, will ensure that every year, workers are compensated properly and that the compensation reflects the cost of living.
-They Protect our citizens, our property and our communities.
+Funding Community Services They Protect our citizens, our property and our communities.
 They are your Police and Fire Departments and their funding and operation is crucial to the safety and security of our local communities.
 Unfortunately these services have continued to see reductions in funding and support over the past decade and the costs to operate these facilities have continued to increase with inflation and technology.
-Many communities have been forced to pass additional millages, taxing citizens who are already underpaid and over taxed, just to maintain the life saving equipment that the fire department requires all while the state has reduced revenue sharing due to budget short falls during the 2008 recession and now boasting record breaking surpluses as the economy is now in recovery, Local communities are having to choose between funding life saving first responders and not bankrupting their community
-In addition to Police and Fire, hospitals operate solely to serve the community and save lives.
+Many communities have been forced to pass additional millages, taxing citizens who are already underpaid and over taxed, just to maintain the life saving equipment that the fire department requires all while the state has reduced revenue sharing due to budget short falls during the 2008 recession and now boasting record breaking surpluses as the economy is now in recovery, Local communities are having to choose between funding life saving first responders and not bankrupting their community In addition to Police and Fire, hospitals operate solely to serve the community and save lives.
 While they are not funded by the government, these non-profits were intended to operate within our communities, providing life saving practices that otherwise would not exist especially in poor rural communities where it would not be profitable for a corporation to operate.
 Unfortunately in recent years, the ability for these Hospitals to pay executives million dollar salaries has become more important than helping those in need of life saving procedures and we have seen a fundamental shift in the operation of these organizations.
 Whole departments are being eliminated and services removed from many rural hospitals as they are deemed to be not profitable in that area.
@@ -48,7 +47,7 @@ For many Michigan residents this means driving an hour to have a baby or waiting
 As your State Representative, Jared Polonowski will work to ensure that every community in Michigan is fully funded and that they receive the revenue sharing from the state that they require to operate a safe and productive community.
 He will make sure that Police and Fire departments are able to meet their basic requirements for service and set up support and resources for communities to receive additional services to help meet those requirements in rural and impoverished areas where revenue is lower.
 Jared will work to ensure that all Michiganders have affordable and accessible medical care and facilities locally especially in rural communities where many services will not generate enough profit for greedy executives.
-Roads have been a sensitive subject in Michigan for a very long time, from having some of the worst roads in the country to our governors campaign slogan "fix the damn roads" but fixing the roads and improving our infrastructure is going to take more than a catchy slogan.
+Funding and Planning of Roadways Roads have been a sensitive subject in Michigan for a very long time, from having some of the worst roads in the country to our governors campaign slogan "fix the damn roads" but fixing the roads and improving our infrastructure is going to take more than a catchy slogan.
 Today in many communities across Michigan, roads remain closed from washing out with no money to repair them.
 Sidewalks have fallen into rivers leaving pedestrians to walk into oncoming traffic and unimproved roads are in such bad condition that residents have difficulty getting to work.
 In 2018-19 9% of the state's budget went to transportation.
@@ -62,10 +61,7 @@ Jared also will work to ensure that the materials and products that we use on ou
 These changes cannot happen with annual budgets.
 The whole idea that if a department or community doesn't use it, then they lose it has got to go.
 We need to examine where this money is being spent and if the money being spent is actually effective.
-Are we improving the roads and our communities? or are we just wasting tax payer dollars in order to improve someones political appearance.
-https://www.house.mi.gov/HFA/Archives/PDF/Briefings/MDOT_BudgetBriefing_fy18-19.pdf
-https://www.house.mi.gov/hfa/PDF/Briefings/MDOT_BudgetBriefing_fy22-23.pdf
-If you travel to many of the European counties, you will notice that Michigan's public transportation is outdated and ineffective.
+Are we improving the roads and our communities? or are we just wasting tax payer dollars in order to improve someones political appearance. https://www.house.mi.gov/HFA/Archives/PDF/Briefings/MDOT_BudgetBriefing_fy18-19.pdf https://www.house.mi.gov/hfa/PDF/Briefings/MDOT_BudgetBriefing_fy22-23.pdf Public Transportation If you travel to many of the European counties, you will notice that Michigan's public transportation is outdated and ineffective.
 For most rural communities public transit doesn't exist.
 Where there are public transit services in rural areas, it takes so long to utilize these services that they have become ineffective and end up being a waste of tax payer money.
 Leaving citizens in rural communities stranded and feeling isolated.
@@ -75,7 +71,7 @@ As your Representative, Jared Polonowski will work to fund the expansion of an e
 Jared believes that there are social, environmental and economic reasons to fund and construct effective pubic transit systems to service all of our communities.
 Effective public transit will improve our citizen's ability to travel as well as reduce the number of cars on Michigan roadways and greenhouse gas emissions.
 These systems will also stimulate growth in our economy, Tourism and jobs market while lowing the burden on other areas of infrastructure.
-Over 30% of Michigan residents rely on insurance through the state.
+Funding Healthcare Over 30% of Michigan residents rely on insurance through the state.
 Another 20% rely on medicare and another 10% don't have insurance.
 This means that today the current system for medical care only works for less than 40% of Michiganders.
 If you owned a car that only worked 40% of the time, would you keep it or would you fix or replace it?
@@ -90,3 +86,5 @@ Most large companies and corporations have self-funded insurance plans because t
 In fact, all of your elected representatives here in Michigan have self-funded insurance through BCBS. so, if its good enough them, why isn't it good enough for you?
 Jared believes that every Michigan resident should have free access to medical care with their doctor, at their hospital and in their community.
 Together we can ensure everyone gets the care they need and reduce the financial burden for individuals, families and the state assistance programs.
+Paid for by the Committee to elect Jared Polonowski - 1146 22nd st Otsego, MI 49078 Copyright © # The Committee to elect Jared Polonowski - All Rights Reserved.
+Powered by

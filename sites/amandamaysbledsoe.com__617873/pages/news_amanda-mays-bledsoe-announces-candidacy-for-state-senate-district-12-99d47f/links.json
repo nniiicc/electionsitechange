@@ -1,13 +1,58 @@
 [
-"https://amandamaysbledsoe.com/",
-"https://amandamaysbledsoe.com/about",
-"https://amandamaysbledsoe.com/contact",
-"https://amandamaysbledsoe.com/news",
-"https://amandamaysbledsoe.com/privacy",
-"https://amandamaysbledsoe.com/volunteer",
-"https://amandamaysbledsoe.com/work",
-"https://facebook.com/AmandaMaysBledsoe",
-"https://flic.kr/s/aHsmXgmYTR",
-"https://secure.anedot.com/amanda-mays-bledsoe-for-state-senate/donate",
-"https://youtube.com/channel/UCzomOo_UCZQpN92MEbPDYWA"
+{
+"text": "Amanda's Bio",
+"href": "https://www.amandamaysbledsoe.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.amandamaysbledsoe.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/amanda-mays-bledsoe-for-state-senate/donate"
+},
+{
+"text": "Help Out Volunteer",
+"href": "https://www.amandamaysbledsoe.com/volunteer"
+},
+{
+"text": "In the News",
+"href": "https://www.amandamaysbledsoe.com/news"
+},
+{
+"text": "My Work",
+"href": "https://www.amandamaysbledsoe.com/work"
+},
+{
+"text": "News",
+"href": "https://www.amandamaysbledsoe.com/news"
+},
+{
+"text": "Privacy",
+"href": "https://www.amandamaysbledsoe.com/privacy"
+},
+{
+"text": "Share",
+"href": "https://www.amandamaysbledsoe.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.amandamaysbledsoe.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.amandamaysbledsoe.com"
+},
+{
+"text": "[no text]",
+"href": "https://flic.kr/s/aHsmXgmYTR"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AmandaMaysBledsoe"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCzomOo_UCZQpN92MEbPDYWA"
+}
 ]

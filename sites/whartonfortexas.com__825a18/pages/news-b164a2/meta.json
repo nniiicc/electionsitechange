@@ -1,7 +1,12 @@
 {
  "description": "News",
  "final_url": "https://whartonfortexas.com/news/",
- "paid_for_by": null,
+ "fingerprint": "efb7d43bec43a3d15368fa212c8f977a85814670",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News - Trey Wharton For Texas State Representative District 12",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

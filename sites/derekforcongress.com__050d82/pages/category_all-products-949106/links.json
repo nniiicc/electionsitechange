@@ -1,17 +1,102 @@
 [
-"https://derekforcongress.com/",
-"https://derekforcongress.com/category/all-products",
-"https://derekforcongress.com/donations",
-"https://derekforcongress.com/learn-about-the-candidate",
-"https://derekforcongress.com/product-page/bubble-free-stickers",
-"https://derekforcongress.com/product-page/golf-rope-cap",
-"https://derekforcongress.com/product-page/help-spread-the-word-with-my-business-card",
-"https://derekforcongress.com/product-page/independent-voice-yard-sign",
-"https://derekforcongress.com/product-page/power-for-people-yard-sign",
-"https://derekforcongress.com/product-page/short-sleeve-t-shirt",
-"https://derekforcongress.com/product-page/short-sleeve-t-shirt-1",
-"https://derekforcongress.com/product-page/status-quo-yard-sign",
-"https://derekforcongress.com/product-page/two-party-failure-yard-sign",
-"https://derekforcongress.com/viewsontheissues",
-"https://derekforcongress.com/volunteer-sign-up"
+{
+"text": "About the Candidate",
+"href": "https://www.derekforcongress.com/learn-about-the-candidate"
+},
+{
+"text": "About the Issues",
+"href": "https://www.derekforcongress.com/viewsontheissues"
+},
+{
+"text": "All Products",
+"href": "https://www.derekforcongress.com/category/all-products"
+},
+{
+"text": "Bubble-free stickersPrice$8.00",
+"href": "https://www.derekforcongress.com/product-page/bubble-free-stickers"
+},
+{
+"text": "Donations",
+"href": "https://www.derekforcongress.com/donations"
+},
+{
+"text": "Get involved",
+"href": "https://www.derekforcongress.com/volunteer-sign-up"
+},
+{
+"text": "Golf rope capPrice$35.00",
+"href": "https://www.derekforcongress.com/product-page/golf-rope-cap"
+},
+{
+"text": "Help spread the word with my business cardPrice$25.00",
+"href": "https://www.derekforcongress.com/product-page/help-spread-the-word-with-my-business-card"
+},
+{
+"text": "Home",
+"href": "https://www.derekforcongress.com"
+},
+{
+"text": "Independent voice yard signPrice$30.00",
+"href": "https://www.derekforcongress.com/product-page/independent-voice-yard-sign"
+},
+{
+"text": "Power for people Yard signPrice$30.00",
+"href": "https://www.derekforcongress.com/product-page/power-for-people-yard-sign"
+},
+{
+"text": "Shop",
+"href": "https://www.derekforcongress.com/category/all-products"
+},
+{
+"text": "Short-Sleeve T-Shirt small logoPrice$35.00",
+"href": "https://www.derekforcongress.com/product-page/short-sleeve-t-shirt"
+},
+{
+"text": "Short-Sleeve T-ShirtPrice$35.00",
+"href": "https://www.derekforcongress.com/product-page/short-sleeve-t-shirt-1"
+},
+{
+"text": "Status quo yard signPrice$30.00",
+"href": "https://www.derekforcongress.com/product-page/status-quo-yard-sign"
+},
+{
+"text": "Two party failure yard signPrice$30.00",
+"href": "https://www.derekforcongress.com/product-page/two-party-failure-yard-sign"
+},
+{
+"text": "[image][image]Add to Cart",
+"href": "https://www.derekforcongress.com/product-page/bubble-free-stickers"
+},
+{
+"text": "[image][image]Add to Cart",
+"href": "https://www.derekforcongress.com/product-page/golf-rope-cap"
+},
+{
+"text": "[image][image]Add to Cart",
+"href": "https://www.derekforcongress.com/product-page/help-spread-the-word-with-my-business-card"
+},
+{
+"text": "[image][image]Add to Cart",
+"href": "https://www.derekforcongress.com/product-page/independent-voice-yard-sign"
+},
+{
+"text": "[image][image]Add to Cart",
+"href": "https://www.derekforcongress.com/product-page/power-for-people-yard-sign"
+},
+{
+"text": "[image][image]Add to Cart",
+"href": "https://www.derekforcongress.com/product-page/short-sleeve-t-shirt"
+},
+{
+"text": "[image][image]Add to Cart",
+"href": "https://www.derekforcongress.com/product-page/short-sleeve-t-shirt-1"
+},
+{
+"text": "[image][image]Add to Cart",
+"href": "https://www.derekforcongress.com/product-page/status-quo-yard-sign"
+},
+{
+"text": "[image][image]Add to Cart",
+"href": "https://www.derekforcongress.com/product-page/two-party-failure-yard-sign"
+}
 ]

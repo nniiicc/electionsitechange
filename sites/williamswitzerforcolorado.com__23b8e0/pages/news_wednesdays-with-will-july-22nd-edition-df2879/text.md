@@ -1,4 +1,4 @@
-With all the talk of unity, there is an elephant in the room that must be addressed.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (July 22nd Edition) 22 Jul Wednesday, 10:00 AM · 2026 Wednesdays With Will (July 22nd Edition) With all the talk of unity, there is an elephant in the room that must be addressed.
 Primary season is over.
 Like many campaign cycles before, both parties have sounded the call for unity from within.
 But I challenge you with this: What are you unifying for?
@@ -29,3 +29,4 @@ This past special election has my district on high alert.
 We have to reevaluate our leadership in HD30.
 We can not expect to Move Colorado Forward if we do not work to solve the problems of our own neighbors.
 I look forward to continue this as your next State Representative for Edgewater and Lakewood this fall.
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

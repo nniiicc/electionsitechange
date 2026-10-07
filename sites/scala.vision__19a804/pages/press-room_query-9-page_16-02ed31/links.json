@@ -1,34 +1,154 @@
 [
-"http://maps.google.com/?q=Queens%2C+NY",
-"http://ny1.com/nyc/queens/news/2015/09/14/queens-transit-advocates-rally-against-select-bus-service.html",
-"http://qgazette.com/news/2014-03-19/Front_Page/Rally_For_Reactivation_Of_Rockaway_Beach_Line.html",
-"http://qns.com/story/2014/01/16/composting_on_the_way",
-"http://rockawave.com/news/2014-12-12/Columnists/Beachcomber.html",
-"http://theforumnewsgroup.com/2014/03/13/drive-by-rallies-urge-support-for-reactivating-queens-rail-line",
-"http://theforumnewsgroup.com/2014/10/16/queensway-draws-raves-but-some-still-oppose-park-plan",
-"http://timesledger.com/stories/2016/8/connector_2016_02_19_q.html",
-"https://facebook.com/realmikescala",
-"https://instagram.com/scalavision",
-"https://issuu.com/rockawaytimes/docs/rockaway_times_072414",
-"https://issuu.com/rockawaytimes/docs/rockaway_times_082814_rev1",
-"https://qgazette.com/articles/letters-to-the-editor-366",
-"https://rockawave.com/articles/ferry-ferry-dead",
-"https://rockawave.com/articles/its-my-turn-107",
-"https://rockawave.com/articles/its-my-turn-22",
-"https://rockawave.com/articles/mayors-proposed-streetcars-might-hurt-streets-and-cars",
-"https://rockawave.com/articles/page-5-op-ed-12",
-"https://rockawave.com/articles/page-5-op-ed-16",
-"https://rockawave.com/articles/stuck-bridge-points-to-peninsula-problem",
-"https://rockawaytimes.com/op-ed-the-return-of-democracy",
-"https://scala.vision/",
-"https://scala.vision/issues",
-"https://scala.vision/meet-mike",
-"https://scala.vision/press-room",
-"https://scala.vision/press-room?query-9-page=14",
-"https://scala.vision/press-room?query-9-page=15",
-"https://scala.vision/press-room?query-9-page=16&query-1-page=2",
-"https://scala.vision/press-room?query-9-page=17",
-"https://scala.vision/volunteer",
-"https://secure.actblue.com/donate/mike-scala",
-"https://twitter.com/mikegscala"
+{
+"text": "1",
+"href": "https://scala.vision/press-room/?cst="
+},
+{
+"text": "14",
+"href": "https://scala.vision/press-room/?query-9-page=14&cst="
+},
+{
+"text": "15",
+"href": "https://scala.vision/press-room/?query-9-page=15&cst="
+},
+{
+"text": "17",
+"href": "https://scala.vision/press-room/?query-9-page=17&cst="
+},
+{
+"text": "Beachcomber",
+"href": "http://www.rockawave.com/news/2014-12-12/Columnists/Beachcomber.html#new_tab"
+},
+{
+"text": "Close the Loophole That Shortchanges Our Workers",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-12/"
+},
+{
+"text": "Composting On The Way",
+"href": "http://qns.com/story/2014/01/16/composting_on_the_way/#new_tab"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/mike-scala"
+},
+{
+"text": "FERRY FERRY DEAD",
+"href": "https://www.rockawave.com/articles/ferry-ferry-dead/#new_tab"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/realmikescala"
+},
+{
+"text": "Fight for the Rockaway Beach Branch",
+"href": "https://www.rockawave.com/articles/its-my-turn-22/#new_tab"
+},
+{
+"text": "Home",
+"href": "https://scala.vision/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/scalavision"
+},
+{
+"text": "Issues",
+"href": "https://scala.vision/issues/"
+},
+{
+"text": "It’s My Turn",
+"href": "https://www.rockawave.com/articles/its-my-turn-107/#new_tab"
+},
+{
+"text": "Letters to the Editor",
+"href": "https://www.qgazette.com/articles/letters-to-the-editor-366/#new_tab"
+},
+{
+"text": "Mayor offers some more detail on BQX streetcar project",
+"href": "http://www.timesledger.com/stories/2016/8/connector_2016_02_19_q.html#new_tab"
+},
+{
+"text": "Mayor’s Proposed Streetcars Might Hurt Streets and Cars",
+"href": "https://www.rockawave.com/articles/mayors-proposed-streetcars-might-hurt-streets-and-cars/#new_tab"
+},
+{
+"text": "Meet Mike",
+"href": "https://scala.vision/meet-mike/"
+},
+{
+"text": "Next Page",
+"href": "https://scala.vision/press-room/?query-9-page=16&query-1-page=2"
+},
+{
+"text": "Next Page",
+"href": "https://scala.vision/press-room/?query-9-page=17"
+},
+{
+"text": "Op-Ed: The Return of Democracy",
+"href": "https://www.rockawaytimes.com/op-ed-the-return-of-democracy/#new_tab"
+},
+{
+"text": "Op-Ed: When Politics Becomes Politricks",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-16/#new_tab"
+},
+{
+"text": "Press Room",
+"href": "https://scala.vision/press-room/"
+},
+{
+"text": "Previous Page",
+"href": "https://scala.vision/press-room/?query-9-page=15"
+},
+{
+"text": "Queens Transit Advocates Rally Against Select Bus Service",
+"href": "http://www.ny1.com/nyc/queens/news/2015/09/14/queens-transit-advocates-rally-against-select-bus-service.html#new_tab"
+},
+{
+"text": "Queens Transit Meeting Report, page 26",
+"href": "https://issuu.com/rockawaytimes/docs/rockaway_times_082814_rev1#new_tab"
+},
+{
+"text": "Queens Transit Meeting Report, page 6",
+"href": "https://issuu.com/rockawaytimes/docs/rockaway_times_072414#new_tab"
+},
+{
+"text": "Queens, NY",
+"href": "http://maps.google.com/?q=Queens%2C+NY"
+},
+{
+"text": "QueensWay Draws Raves, but Some Still Oppose Park Plan",
+"href": "http://theforumnewsgroup.com/2014/10/16/queensway-draws-raves-but-some-still-oppose-park-plan/#new_tab"
+},
+{
+"text": "Rally For Reactivation Of Rockaway Beach Line",
+"href": "http://www.qgazette.com/news/2014-03-19/Front_Page/Rally_For_Reactivation_Of_Rockaway_Beach_Line.html#new_tab"
+},
+{
+"text": "Stuck Bridge Points To Peninsula Problem",
+"href": "https://www.rockawave.com/articles/stuck-bridge-points-to-peninsula-problem/#new_tab"
+},
+{
+"text": "Twitter",
+"href": "https://www.twitter.com/mikegscala"
+},
+{
+"text": "[image: Contribute]",
+"href": "https://secure.actblue.com/donate/mike-scala"
+},
+{
+"text": "[image: Scala for Assembly]",
+"href": "https://scala.vision/"
+},
+{
+"text": "[image: Volunteer to help Mike Scala for New York State Assembly]",
+"href": "https://scala.vision/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/realmikescala"
+},
+{
+"text": "‘Drive-by’ Rallies Urge Support for Reactivating Queens Rail Line",
+"href": "http://theforumnewsgroup.com/2014/03/13/drive-by-rallies-urge-support-for-reactivating-queens-rail-line/#new_tab"
+}
 ]

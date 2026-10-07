@@ -1,5 +1,4 @@
-Public Schools & Education
-North Carolina used to be a leader in the South for public education.
+0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Public Schools & Education Aug 2 Written By Mary Lee North Carolina used to be a leader in the South for public education.
 Now, North Carolina received an F in Funding Level per pupil and an F in Funding Effort compared to our fiscal capacity (per Education Law Center).
 Our state teacher salary remains the lowest in the Southeast and 43rd lowest in the country.
 Schools are faced with budget cuts across every department.
@@ -11,3 +10,4 @@ Our children, educators, and educational support staff deserve better.
 Over the last ten years with the focus on increasing charter school allotments and millions of dollars going to “opportunity scholarships” to private and charter schools, public tax dollars are being siphoned into private pocketbooks.
 We must invest in raising teacher pay, support classrooms with teacher assistants, ensure there is a nurse and counselor in every school, and restore masters pay.
 Every child has the constitutional right to a “sound, basic education.” I fully support that right and will do everything possible to fulfill that promise.
+Mary Lee Previous Previous Workers’ Rights & Workplace Safety Next Next Ethical & Efficient Government Marcia Morey Campaign PO Box 61030 Durham, NC 27715 campaign@marciamorey.com Follow Facebook Instagram X

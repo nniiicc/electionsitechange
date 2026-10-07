@@ -1,4 +1,5 @@
-| Friends-- If you only read one article today, let this one be it.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+A Health Care Kitchen Table Story 11/25/2019 Friends-- If you only read one article today, let this one be it.
 I hear stories like this all the time.
 And, it saddens me to think that this is the country we live in: the wealthiest nation on Earth, yet we have so many shortcomings when it comes to basic humanity.
 This is why I’m running for Congress.
@@ -35,7 +36,8 @@ It's about a Medicare/Medicaid system so eat up with bureaucratic ineptitude tha
 This is why we fight.
 Because there are more Susan’s, Jennifer’s, and Bob’s than we care to admit.
 And, this is why we must win.
-Please support my campaign with a donation to help us win. <<<Click Here>> #KitchenTableStory My wife & I just renewed our 2020 health insurance.
+Please support my campaign with a donation to help us win. <<<Click Here>> What's Your Kitchen Table Story?
+11/21/2019 #KitchenTableStory My wife & I just renewed our 2020 health insurance.
 It’s now over $1000 a month for our family of five.
 Over 12k a year or a monthly mortgage payment.
 A 10% increase compared to this years 80/20 plan.
@@ -49,7 +51,12 @@ Whether it's Health Care, Student Loan Debt or any thing that we need to know ab
 It is important to know your #KitchenTableStory.
 Together, we can work to fix out of control healthcare and prescription drug costs.
 But it's going to take all of us.
-Thank you - Scott Huffman Tell us your story here. | Posts from before 2025 were written during Scott's campaigns for U.S.
+Thank you - Scott Huffman Tell us your story here.
+Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

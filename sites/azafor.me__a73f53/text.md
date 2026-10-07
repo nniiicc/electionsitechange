@@ -1,9 +1,6 @@
-My name is Azalea Cormier,
-& I am running to become your
-State House Representative.
+0 Skip to Content Home Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Donate $5 Contact Lend me a Hand My name is Azalea Cormier , & I am running to become your State House Representative.
 Welcome residents of Buckfield, Hebron, Otisfield, and Oxford.
-Why I’m Running
-I was born at Stephens Memorial in ‘97, raised by nurses, tradesmen, and farmers.
+Why I’m Running I was born at Stephens Memorial in ‘97, raised by nurses, tradesmen, and farmers.
 My family has called Western Maine home for generations, and public service was instilled in me by my community.
 Today I am proud to be serving my 2nd term on Buckfield's Select Board.
 However, that privilege has come with heartache.
@@ -20,15 +17,11 @@ Especially while my neighbors beg for tax relief, wonder how they’re going to 
 This election is about them, you, and about building a Western Maine where our hard work doesn’t just get us by, but actually pays off.
 To get what we need, we cannot elect another Representative who will sit on their hands and vote on party lines when the stakes are so high.
 As your independent voice in Augusta, my allegiance lies with no party, no agenda, and no special interests.
-Only you.
+Only you .
 Below I’ve outlined what priorities I hold to illustrate for you what I will fight for, and what lines you can expect to see me vote on.
 Please visit my contact page to let me know what worries you, especially if I’ve failed to include it here.
 I hope to hear from you soon, and would be honored to earn your vote on November 3rd.
-- • Lowering & capping property taxes for Mainers
-• Protecting your hard-earned benefits
-• Working to repair our broken healthcare systems
-• Increasing workforce training and trades opportunities
-• Increasing childcare access for working families.
+Our Neighbors & Families • Lowering & capping property taxes for Mainers • Protecting your hard-earned benefits • Working to repair our broken healthcare systems • Increasing workforce training and trades opportunities • Increasing childcare access for working families.
 When I first set out knocking on doors as I ran for the Buckfield Select Board, I can’t lie- I was incredibly nervous.
 Any anxieties that could come into my head, did.
 Would anyone like me?
@@ -52,13 +45,7 @@ The answer I found was that there are no teams.
 Not how we’re often told there are, between left and right.
 Beyond the sensationalism and “culture war,” whatever label one neighbor gave themselves or another, we all shared in these same struggles and values.
 And we all hate to watch each other go through them.
-- • Cutting taxes & red tape holding small businesses back.
-• Affordable housing that trains our workforce & fits the character of its locality.
-• Restricting home purchasing by private equity firms.
-• School funding solutions that don’t position property owners against the education of our next generation.
-• Property maintenance assistance & access, so we can stop losing our already short housing supply to neglect.
-• Putting Mainers over our designation as “Vacationland.”
-I can tell when I speak to my neighbors that I carry something many no longer do.
+Our Communities • Cutting taxes & red tape holding small businesses back. • Affordable housing that trains our workforce & fits the character of its locality. • Restricting home purchasing by private equity firms. • School funding solutions that don’t position property owners against the education of our next generation. • Property maintenance assistance & access, so we can stop losing our already short housing supply to neglect. • Putting Mainers over our designation as “Vacationland.” I can tell when I speak to my neighbors that I carry something many no longer do.
 Some would call it hope, others may call it naiveté.
 I have memories of our vibrant towns before the recession of 2008.
 In Buckfield, of the many corner stores, restaurants, the Buckfield Inn, the Oddfellow Theatre.
@@ -78,20 +65,20 @@ Providing healthcare for us is a wish they cannot afford.
 We deserve better, and you deserve a representative who lives alongside you in this everyday struggle.
 I, like you, struggle to find a balance with this all.
 I believe we can build a system that truly serves us.
-- Growing up, I was blessed with the gift of a small school.
+Our Schools Growing up, I was blessed with the gift of a small school.
 That’s not to say it didn’t have its imperfections, or even failures.
 But not everyone has the chance to attend a school with its own food-producing garden, gaggle of pigs and rabbits, and working sugar shack.
 Attending Buckfield High School gave me those opportunities which I have carried with me, and for that I am continually grateful.
 Our schools now face enormous struggles.
-- Aging facilities which are increasingly expensive to heat in the winter, and as time goes on, now require more cooling capabilities near the summers.
-- Teachers who are underpaid and overworked.
+Aging facilities which are increasingly expensive to heat in the winter, and as time goes on, now require more cooling capabilities near the summers.
+Teachers who are underpaid and overworked.
 The fulfillment that historically feeds their care and passion, derived from the curiosity sparked in their students when beginning to understand or engage with a subject, fades more as we struggle to keep our children’s attention or emotions in check.
 This directly conflicting with expectations from administrators and Federal standards which blanket all students, no matter their abilities or the nuances we see in our children.
-- A student body facing many struggles- a lack of funding, and therefore resources, to set them up for their best chance at success.
+A student body facing many struggles- a lack of funding, and therefore resources, to set them up for their best chance at success.
 What they lack at home shows up throughout the school day, causing disruption and unease for other children.
-- A lack of accountability or access to independent avenues of reporting & assistance.
-- Maintenance costs climbing steadily as a result of inflation, or even corporate greed.
-- School Consolidation struggles nearly two decades after a state mandate that no longer exists, but has left communities to struggle with the effects of.
+A lack of accountability or access to independent avenues of reporting & assistance.
+Maintenance costs climbing steadily as a result of inflation, or even corporate greed.
+School Consolidation struggles nearly two decades after a state mandate that no longer exists, but has left communities to struggle with the effects of.
 And yet at the Municipal level, we see much of our property taxes needing to be committed to schools, often leaving important infrastructure projects and capital improvement investments for another cycle.
 I believe my community wants their neighbors to be educated.
 I understand why it cannot come at the cost of their home security.
@@ -104,9 +91,9 @@ Every single person benefits from an educated population - parents, students, em
 It’s far past time to bring these funding formulas into the modern era, so we can build a more fair and unbiased school funding methodology that no longer has our struggling and senior communities left holding the bill.
 Our children deserve the best education possible, and that cannot depend solely on the income of Maine’s aging communities.
 These are things I would push for should I be elected, and I would use my position to this office hand-in-hand with other representatives in other struggling communities to encourage federal investment as well.
-- Protecting & maintaining our hunting + fishing pastimes.
-- Preserving heritage farmland and forests for both their beauty and the livelihood they bring our inland economies.
-- Enabling the preservation of our woods & waters for the generations to come.
+Protecting Maine's Natural Beauty & Heritage Protecting & maintaining our hunting + fishing pastimes.
+Preserving heritage farmland and forests for both their beauty and the livelihood they bring our inland economies.
+Enabling the preservation of our woods & waters for the generations to come.
 While I haven’t been hunting myself much since the days of getting my license at age 13, I have many family members and friends who enjoy the recreation.
 I greatly respect what it brings to its enthusiasts, and for many, the food it brings to the dinner table, especially during these tough times.
 You can expect to see me vote to protect these rights as someone who was born and raised here.
@@ -114,8 +101,8 @@ Growing up, I spent most of my time as a child working on and exploring my grand
 Tripping on the rocky soil, splashing in the Darnit Brook, and staring up at vibrant, starry night skies.
 In my adult life, there are few things that have brought me peace the way that driving through our lakes region, or recreating in its woods & bodies of water have.
 I want to protect these spaces for generations to come, while responsibly managing the industries that keep food on our tables and money in our communities.
-Today you can often find me taking advantage of the Western Foothills Land Trust’s steadfast work in protecting our local environment, thanks to their conservation and stewardship of natural spaces in our communities.
-- Looking for more specific policy?
+Today you can often find me taking advantage of the Western Foothills Land Trust ’s steadfast work in protecting our local environment, thanks to their conservation and stewardship of natural spaces in our communities.
+Community Needs & Perspectives Looking for more specific policy?
 I don’t mean to be vague in a way that leaves you feeling my positions are obscured from you - anything not specifically outlined are points that I have more abstract feelings on than hands-on experience.
 I would love to hear from you as I build out a community rolodex.
 I am not looking to make decisions singlehandedly based on my own ideas, but rather will rely on those with experience and knowledge to add to my understanding of these values as it relates to lawmaking.
@@ -123,16 +110,12 @@ Do not hesitate to reach out via my contact page to lend me your perspective and
 I personally am of the belief that conversation and the sharing of perspectives is what good representation relies on.
 I understand the urgency of this time, and live with it everyday alongside you.
 That’s why, win or lose, I will be in Augusta fighting for our interests & bringing attention to the dire straits we are in.
-By electing me, your vote can move me beyond pleading with lawmakers, and grants me more power than many Americans see in their lifetimes -
-that is something I take very seriously.
+By electing me, your vote can move me beyond pleading with lawmakers, and grants me more power than many Americans see in their lifetimes - that is something I take very seriously.
 Everything I have I owe to the life this community has given me.
 It would be an honor and a privilege to serve you in the Maine Legislature.
-I hope that I can count on your vote November 3rd, 2026
-This is a Maine Clean Election Campaign.
-From now until the election, we will be relying on individual, $5 donations from only people in my district of Buckfield, Hebron, Otisfield, and Oxford.
+I hope that I can count on your vote November 3rd, 2026 This is a Maine Clean Election Campaign.
+From now until the election, we will be relying on individual, $# donations from only people in my district of Buckfield, Hebron, Otisfield, and Oxford.
 This is matched x22, so if you think your $5 won’t make the difference, it actually means us losing out on $110!
 Your pocket change is incredibly impactful in helping me run a campaign as a young, working Mainer.
-To become eligible for continued Maine Clean Elections funding,
-I must raise up to 180 $5 donations from those who live in my district.
-You are only able to contribute $5 once for the duration of this campaign.
-If you already have, thank you so much for your contribution and support.
+To become eligible for continued Maine Clean Elections funding, I must raise up to 180 $# donations from those who live in my district. make your $# donation here You are only able to contribute $5 once for the duration of this campaign.
+If you already have, thank you so much for your contribution and support. paid for & authorized by the candidate

@@ -1,5 +1,4 @@
-THE PLATFORM
-The campaign is built on three pillars.
+top of page DONATE HOME PRIVACY POLICY MEET JOHNNIE PLATFORM CONTACT THE PLATFORM The campaign is built on three pillars.
 Everything Johnnie will fight for in Columbia comes back to these commitments.
 01 INFRASTRUCTURE: Roads Before Rooftops.
 Families on James Island, Johns Island and Folly Beach lose hours every week to gridlock while the state manages 42,000 miles of roads from Columbia and our secondary roads go neglected.
@@ -12,3 +11,5 @@ The coastal character of the Lowcountry is not for sale.
 South Carolina sits near the bottom of the nation in long term care while families juggle childcare and aging parents at the same time.
 Johnnie founded six healthcare companies that served thousands of seniors across this state, and he will put that experience to work lowering healthcare costs, protecting hospital access for the islands and helping seniors age at home with dignity.
 And one promise above all: no child should be hungry in the state of South Carolina.
+First name Last name Email Phone Text me for Updates Submit Thanks for signing up!
+DONATE TODAY DONATE Info@TogetherWithGarmon.com Election Day: Tuesday, November 3rd • Vote early October 19th through 31st bottom of page

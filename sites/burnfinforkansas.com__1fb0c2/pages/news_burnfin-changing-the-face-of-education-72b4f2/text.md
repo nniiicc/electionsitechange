@@ -1,7 +1,5 @@
-By Josh Harbour
-The Garden City Telegram
-Note: This story was originally printed in The Garden City Telegram in 2016.
-The digital version was erased between changes in ownership, but the archived story can be found through the Finney County Library digital database.
+Meet Becca Issues Photos News Volunteer Yard Signs Contribute News / 🌻Burnfin changing the face of education 11 Nov Friday, 11:44 AM · 2016 🌻Burnfin changing the face of education By Josh Harbour The Garden City Telegram Note : This story was originally printed in The Garden City Telegram in 2016.
+The digital version was erased between changes in ownership, but the archived story can be found through the Finney County Library digital database .
 Rebecca (Becca) Burnfin was more than a teacher on Monday.
 In fact, she's more than a teacher everyday, she's her students' biggest advocate.
 On Monday, Burnfin was a registrar for students in her social studies class, helping them through the voting registration process, a preview to a mock-election on Tuesday.
@@ -52,3 +50,4 @@ Even if I don't win, it gives me the thought that what I m doing isn't bad, and 
 If she won the Crystal Apple, it would mean her students have worked hard.
 The recognition would be more for her students than herself.
 I challenge them every day and they challenge me even more, so I really feel like winning would be for them, Burnfin said.
+Home Voter Information Make Endorsement Endorsements Events News Contact Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner.com - Political Websites Home Meet Becca Issues Photos Volunteer Yard Signs Contribute Voter Information Close Menu

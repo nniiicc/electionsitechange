@@ -1,6 +1,4 @@
-PRIORITIES • Protect Our Future • Policy to
-Fight for Our Growers and Winemakers
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy to Fight for Our Growers and Winemakers Why I believe this — and how I’ll fight for it.
 Federal farm policy was built around a handful of row crops — corn, soybeans, wheat.
 Rice belongs on that list, and our rice growers earn every bit of the support they get.
 Rice is the backbone of the Sacramento Valley, it feeds the world from Colusa and Sutter and Yuba, and it comes with its own hard fight — water transfers, export markets, and a razor-thin margin in a dry year.
@@ -15,8 +13,7 @@ California produces nearly half of this country’s fruits and vegetables and 90
 So the people who put the actual food on America’s plate are an afterthought to the people writing the checks.
 That’s what happens when a region has nobody in the room.
 And then there’s wine — the industry this district is known for around the world, and one where the deck is stacked in a way most people have never heard of.
-The rigged middle of the wine business
-After Prohibition, this country built what’s called the three-tier system: a winery sells to a distributor, the distributor sells to the store or restaurant, and the winery is mostly forbidden from selling to you.
+The rigged middle of the wine business After Prohibition, this country built what’s called the three-tier system : a winery sells to a distributor, the distributor sells to the store or restaurant, and the winery is mostly forbidden from selling to you.
 It was meant to prevent the abuses of the old days.
 What it created instead was a tollbooth — and over time, a few companies bought the tollbooth.
 One distributor alone now moves roughly a third of all the wine and spirits in the United States.
@@ -29,11 +26,10 @@ Imagine a law that lets your only salesman ignore you, and forbids you from hiri
 That’s not a market.
 It’s a captive one, and it was built by lobbyists.
 This isn’t a theory.
-In December 2024 the Federal Trade Commission sued that largest distributor, alleging pricing practices that disadvantage small independent retailers.
+In December 2024 the Federal Trade Commission sued that largest distributor , alleging pricing practices that disadvantage small independent retailers.
 The case is still live.
 The government’s own competition regulator looked at this business and saw a problem.
-Here’s what I’ll do — and why
-Write farm policy for the crops we actually grow.
+Here’s what I’ll do — and why Write farm policy for the crops we actually grow.
 I’d bring specialty crop support into line with what specialty crops actually contribute — real parity in the farm bill for research, pest and disease response, market development, and block grants that are oversubscribed several times over.
 If we’re 30 to 40% of the value of American agriculture, we shouldn’t be a rounding error in the bill that governs it.
 And I’d push export and market-access dollars toward the crops this state actually sells to the world.
@@ -42,7 +38,7 @@ Ask a peach grower in Sutter County what happens when the cannery closes.
 When Del Monte went bankrupt and shut its Modesto plant, it canceled 20-year grower contracts worth more than $550 million and left roughly 74,000 tons of cling peaches with nowhere to go.
 The one remaining canner picked up 24,000 tons on one-year deals.
 That left about 50,000 tons stranded — fruit on the tree with no buyer.
-Washington’s answer was $9 million in federal funding, and it doesn’t save a single orchard.
+Washington’s answer was $9 million in federal funding , and it doesn’t save a single orchard.
 It pays growers to bulldoze their trees — up to 420,000 of them, about 3,000 acres, cut down before harvest.
 Against $550 million in canceled contracts, that is roughly a penny and a half on the dollar, and what it buys is a chainsaw.
 That request was bipartisan, and people from both parties signed it.
@@ -55,7 +51,7 @@ Every rate hike is a direct tax on growing food.
 I’d fight for agricultural rate relief on the federal levers available and back on-farm generation and storage, so an operation can make its own power instead of renting it.
 Break the chokehold in the middle of the wine business.
 The consolidation of alcohol distribution into a handful of national companies is exactly the kind of monopoly problem I’ve spent this whole platform talking about, and it deserves the same treatment.
-I’d back aggressive federal antitrust enforcement against distributor consolidation, support the FTC’s action rather than letting it quietly settle into nothing, and scrutinize further mergers in a business already far too concentrated.
+I’d back aggressive federal antitrust enforcement against distributor consolidation , support the FTC’s action rather than letting it quietly settle into nothing, and scrutinize further mergers in a business already far too concentrated.
 A grower with a great product should be able to find a buyer.
 Right now they have to find a gatekeeper.
 Free producers from the franchise-law trap.
@@ -68,7 +64,8 @@ Direct-to-consumer shipping is the most important channel a small winery has, an
 Two states still ban it outright.
 I’d push for a clear national standard for direct-to-consumer shipping so a family winery in Napa can sell to a customer in any state without hiring a law firm.
 The tasting room shouldn’t stop at the state line.
-Back a public option in distribution — and be honest that this one starts in Sacramento. 17 states already run their own alcohol wholesaling rather than leaving it to private distributors.
+Back a public option in distribution — and be honest that this one starts in Sacramento.
+17 states already run their own alcohol wholesaling rather than leaving it to private distributors.
 California could do the same, and it should look hard at it — a state option small producers can choose, priced to serve them rather than extract from them, would put real competitive pressure on companies that face almost none.
 That’s a decision California makes.
 It’s not one for Congress.
@@ -76,9 +73,8 @@ But I’ll champion it loudly, and make sure federal law and antitrust clear the
 Make crop insurance work for the crops we grow.
 Federal crop insurance was built around row crops, and it fits a vineyard or an orchard badly.
 A grower who loses a season to smoke exposure, a late frost, or drought often finds the coverage doesn’t match the loss — and unlike a corn farmer, they can’t replant next spring, because a vine or a tree takes years to come back.
-I’d fight to build specialty-crop realities into federal crop insurance, including the losses our growers keep absorbing alone.
-What this means for Our District
-This is the district’s signature industry and its daily work.
+I’d fight to build specialty-crop realities into federal crop insurance , including the losses our growers keep absorbing alone.
+What this means for Our District This is the district’s signature industry and its daily work.
 Napa and Sonoma wine.
 Sacramento Valley rice.
 The peaches, prunes, and walnuts of Sutter and Yuba.
@@ -92,24 +88,14 @@ So I can go after the tollbooth and demand a fair share of the farm bill without
 These are our neighbors.
 This is what we make.
 It’s long past time somebody in Washington fought for it.
-The bottom line
-The people here grow food and make wine the whole world wants, on land their families have worked for generations.
+The bottom line The people here grow food and make wine the whole world wants, on land their families have worked for generations.
 They have never asked for a handout.
 What they want is a farm bill that counts them, a market they can actually reach, and the freedom to fire a distributor who won’t sell their wine.
 Get federal policy to treat this district’s agriculture as seriously as it treats a cornfield in Iowa, and our growers will do the rest — because they always have.
 Let’s go get them a fair shot.
-SOURCES
-- Specialty crops account for roughly 30–40% of the total value of U.S. agricultural production but receive no direct income supports comparable to commodity crops: Congressional Research Service — Specialty Crops: Selected Farm Bill Programs, R48625 · National Agricultural Law Center
-- The farm bill’s Horticulture title (specialty crops and organic) receives under 0.5% of farm bill funding versus roughly 5% for the Commodity title; 70–75% of Market Access Program funding goes to non-specialty crops: Congressional Research Service · American Farm Bureau Federation — Specialty Crop Considerations for the Farm Bill
-- California received about $24.2 million of roughly $72.9 million awarded nationally under the 2025 Specialty Crop Block Grant Program, against in-state requests totaling approximately $65 million; California produces nearly half of U.S. fruits and vegetables and 90% of its nuts: California Department of Food and Agriculture — Specialty Crop Block Grant Program · USDA Agricultural Marketing Service
-- The three-tier system of alcohol distribution and its post-Prohibition origins: U.S.
-Alcohol and Tobacco Tax and Trade Bureau · National Alcohol Beverage Control Association
-- The largest U.S. alcohol distributor moves roughly one-third of all wine and spirits sold in the United States; state franchise laws restrict a producer’s ability to terminate a distribution agreement: The Drinks Business
-- Federal Trade Commission enforcement action filed December 2024 against the largest alcohol distributor alleging discriminatory pricing harming small independent retailers: Federal Trade Commission
-- 17 states operate as alcohol “control states,” with the state controlling wholesale distribution (and in seven, retail as well): National Alcohol Beverage Control Association — Control State Directory
-- Direct-to-consumer wine shipping is governed state by state following Granholm v.
+All Policies Next Policy Return to Top SOURCES Specialty crops account for roughly 30–40% of the total value of U.S. agricultural production but receive no direct income supports comparable to commodity crops: Congressional Research Service — Specialty Crops: Selected Farm Bill Programs, R48625 · National Agricultural Law Center The farm bill’s Horticulture title (specialty crops and organic) receives under 0.5% of farm bill funding versus roughly 5% for the Commodity title; 70–75% of Market Access Program funding goes to non-specialty crops: Congressional Research Service · American Farm Bureau Federation — Specialty Crop Considerations for the Farm Bill California received about $24.2 million of roughly $72.9 million awarded nationally under the 2025 Specialty Crop Block Grant Program, against in-state requests totaling approximately $65 million; California produces nearly half of U.S. fruits and vegetables and 90% of its nuts: California Department of Food and Agriculture — Specialty Crop Block Grant Program · USDA Agricultural Marketing Service The three-tier system of alcohol distribution and its post-Prohibition origins: U.S.
+Alcohol and Tobacco Tax and Trade Bureau · National Alcohol Beverage Control Association The largest U.S. alcohol distributor moves roughly one-third of all wine and spirits sold in the United States; state franchise laws restrict a producer’s ability to terminate a distribution agreement: The Drinks Business Federal Trade Commission enforcement action filed December 2024 against the largest alcohol distributor alleging discriminatory pricing harming small independent retailers: Federal Trade Commission 17 states operate as alcohol “control states,” with the state controlling wholesale distribution (and in seven, retail as well): National Alcohol Beverage Control Association — Control State Directory Direct-to-consumer wine shipping is governed state by state following Granholm v.
 Heald (2005); as of 2026 only two states fully prohibit it: National Conference of State Legislatures — Direct Shipment of Alcohol State Statutes · Granholm v.
-Heald, 544 U.S. 460 (2005)
-- Federal crop insurance program structure and specialty crop coverage: USDA Risk Management Agency
-- Del Monte Foods bankruptcy and Modesto cannery closure: canceled 20-year grower contracts valued at more than $550 million and left roughly 74,000 tons of cling fruit unsold, with the last remaining canner contracting for about 24,000 tons: Agri-Pulse — USDA aid targets peach growers stranded by Del Monte closure · Ag Alert — Peach growers seek relief following cannery closure
-- USDA made up to $9 million available to fund removal of up to 420,000 clingstone peach trees (about 3,000 acres); the request came from a bipartisan group of members of the California delegation: FreshFruitPortal — California peach growers secure $9M in USDA aid · NSPR — California lawmakers secure federal aid for Yuba-Sutter peach farmers · Appeal-Democrat — Yuba-Sutter peach farmers to get more than half of $10.5 millionwww.freshfruitportal.comwww.mynspr.orgwww.appeal-democrat.com
+Heald, 544 U.S.
+460 (2005) Federal crop insurance program structure and specialty crop coverage: USDA Risk Management Agency Del Monte Foods bankruptcy and Modesto cannery closure: canceled 20-year grower contracts valued at more than $550 million and left roughly 74,000 tons of cling fruit unsold, with the last remaining canner contracting for about 24,000 tons: Agri-Pulse — USDA aid targets peach growers stranded by Del Monte closure · Ag Alert — Peach growers seek relief following cannery closure USDA made up to $9 million available to fund removal of up to 420,000 clingstone peach trees (about 3,000 acres); the request came from a bipartisan group of members of the California delegation: FreshFruitPortal — California peach growers secure $9M in USDA aid · NSPR — California lawmakers secure federal aid for Yuba-Sutter peach farmers · Appeal-Democrat — Yuba-Sutter peach farmers to get more than half of $10.5 million www.freshfruitportal.com www.mynspr.orgwww.appeal-democrat.com Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

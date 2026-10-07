@@ -1,6 +1,6 @@
-I would like to say what a privilege and honor it is to represent and serve the people of the 91st District.
+Meet Emil News Issues District Map Volunteer Donate Meet Emil I would like to say what a privilege and honor it is to represent and serve the people of the 91 st District.
 After serving as your Representative since 2018, I want to take this opportunity to share a little about my background.
-My wife, Ralene, and I have lived in the area that is now the 91st District for most of our lives.
+My wife, Ralene, and I have lived in the area that is now the 91 st District for most of our lives.
 We have four adult children and quite a few grandchildren!
 I retired recently after a lifetime career at Beechcraft, which is now Textron Aviation.
 For sixteen of those years, I served as Councilman and Mayor of Park City.
@@ -18,6 +18,5 @@ Your letters and emails have been appreciated and helpful in this process.
 Your comments are welcome anytime throughout the year.
 It is an honor to serve you.
 See you around the District!
-Contact Emil
-316-680-4697
-Click here to send me an e-mail!
+Contact Emil 316-680-4697 Click here to send me an e-mail!
+Meet Emil News Issues District Map Volunteer Donate Sign up to get involved Leave this field empty if you're human: Paid for by Emil Bergquist for District 91, Myron Higerd, Treasurer

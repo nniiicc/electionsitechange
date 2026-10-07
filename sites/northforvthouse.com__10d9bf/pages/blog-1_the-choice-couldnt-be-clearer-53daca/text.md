@@ -1,12 +1,11 @@
-The Choice Couldn’t be Clearer
-On Wednesday, Vermont’s House of Representatives voted on the annual Property Tax Yield bill, H.949.
+0 Skip to Content Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact Open Menu Close Menu Home About Endorsements Blog Photos Contact The Choice Couldn’t be Clearer Mar 28 Written By North for VT House On Wednesday, Vermont’s House of Representatives voted on the annual Property Tax Yield bill, H.949 .
 This bill is the result of gathering the grand total of all voter-approved school district budgets, then applying a complex formula that determines the yield that is needed from property tax collections to pay for next school year's education.
 This process identifies the average statewide increase (or decrease) in property tax.
 A key step in this yield calculation process that the House voted on, is how much money from this year's general fund (taxes that have already been collected) the state has available to apply toward the total education budget to “buy-down” our property tax rates for this year.
 Based on data from the now three-quarters complete current fiscal year, the Governor was able to identify and offer $105M from this year's general fund to buy-down Vermonters' property tax bills due later this year.
 That would bring us from what was projected last December to be an approximately 12% increase down to a 3.8% average increase in property taxes.
 Even a 3.8% increase is too much, but that's certainly better than 12%!
-As the Governor explains in his press conference, this is only intended to be a temporary bridge to the more stable foundation formula mechanism for funding education as put in place by act 73.
+As the Governor explains in his press conference , this is only intended to be a temporary bridge to the more stable foundation formula mechanism for funding education as put in place by act 73.
 But wait!
 Unfortunately, the House Ways and Means committee that produces this yield bill thought it would be better to use half of the $105M this year and save half for next year since we really don’t know what's coming, and it looks rather bleak.
 Nice thought, but that decision means many towns would see increases in the double digits again this year.
@@ -33,6 +32,9 @@ These examples continue to emphasize the need for the Vermont legislature to wak
 The House majority party continues to block our efforts to do exactly this.
 Stay tuned as we fight the affordability battle for you.
 The choice couldn’t be clearer.
-I remain honored to be your Representative,
-Rob North
-Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham
+I remain honored to be your Representative, Rob North www.NorthForVTHouse.com Addison, Ferrisburgh, New Haven, Panton, Vergennes, and Waltham Support Rob North’s Re-Election Campaign North for VT House Previous Previous Collaboration and Democracy Next Next House of Cards in Flames Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Paid for by North for State Representative Committee, Warren VanWyck, Treas.
+3502 Middlebrook Rd, Ferrisburgh, VT 05456 info@NorthForVTHouse.com

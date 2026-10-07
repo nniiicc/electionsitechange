@@ -1,5 +1,4 @@
-Wealth Inequality
-Jeff Bezos, Elon Musk, Michael Bloomberg, George Soros and others paid ZERO federal income tax in recent years.
+Skip navigation menu Home About Issues Donate Home About Issues Donate Education Dear Republicans Role of Government Crime Rigged System Wealth Inequality AI and Data Centers The Promise: Wealth Inequality Jeff Bezos, Elon Musk, Michael Bloomberg, George Soros and others paid ZERO federal income tax in recent years.
 They do this legally by being paid in stocks and then borrowing money at a low interest rate against those stocks.
 They have unlimited money, but no income, so no income tax.
 These loopholes need to be closed.
@@ -8,7 +7,8 @@ Elon Musk is worth over $800,000,000,000.
 (800 Billion).
 I wrote it out so you can see all the zeros and try to wrap your head around the number. $1 million would be life changing for me and for most people and he is worth that 800,000 times over.
 Eight-hundred thousand million dollars.
-The richest 35 people in America have more wealth than the bottom 50%. 35 people vs 150,000,000 people.
+The richest 35 people in America have more wealth than the bottom 50%.
+35 people vs 150,000,000 people.
 How many houses, yachts, private jets and private islands does one person need and how many will it take for normal people to realize no one should have so much when so many have so little?
 People work an entire year of their lives breaking their backs to make $50,000 a year just to get by.
 While someone with $1 million dollars in the stock market makes more money just by having money in the first place.
@@ -34,3 +34,5 @@ We need to make it easier for small businesses to compete and ensure strong unio
 The issue isn’t only that someone is able to accumulate large amounts of wealth, but what can be done with that amount of money.
 That money is used to buy politicians, influence legislation and elections.
 Control the food supply, the media, our healthcare and now they are coming for your children’s education.
+Luke.r.rae@gmail.com P.O.
+Box 135 716 SE Grand DD Faucett, MO 64448 Powered by RUN! website builder Paid for by Committee to Elect Luke Rae, Robert Bergland Treasurer You need to enable JavaScript to run this app.

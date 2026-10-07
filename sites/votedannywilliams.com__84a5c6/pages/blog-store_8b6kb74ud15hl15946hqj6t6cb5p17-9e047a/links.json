@@ -1,14 +1,78 @@
 [
-"http://instagram.com/squarespace",
-"http://twitter.com/squarespace",
-"https://facebook.com/VoteDannyWilliams",
-"https://secure.anedot.com/friends-of-danny-williams/donate",
-"https://votedannywilliams.com/",
-"https://votedannywilliams.com/about",
-"https://votedannywilliams.com/blog-store/when-is-the-2024-oklahoma-primary-election",
-"https://votedannywilliams.com/blog-store?author=5fb46340ba2cc64bbc5c556a",
-"https://votedannywilliams.com/cart",
-"https://votedannywilliams.com/contact",
-"https://votedannywilliams.com/events",
-"https://votedannywilliams.com/home"
+{
+"text": "0",
+"href": "https://www.votedannywilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votedannywilliams.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votedannywilliams.com/contact"
+},
+{
+"text": "Contact us",
+"href": "https://www.votedannywilliams.com/contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/friends-of-danny-williams/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votedannywilliams.com/events"
+},
+{
+"text": "Faq's",
+"href": "https://www.votedannywilliams.com/home#faq"
+},
+{
+"text": "Gallery",
+"href": "https://www.votedannywilliams.com/home#Gallery"
+},
+{
+"text": "Home",
+"href": "https://www.votedannywilliams.com/"
+},
+{
+"text": "Md Rahamat Ali",
+"href": "https://www.votedannywilliams.com/blog-store?author=5fb46340ba2cc64bbc5c556a"
+},
+{
+"text": "News",
+"href": "https://www.votedannywilliams.com/home#news"
+},
+{
+"text": "Next Next When Is the 2024 Oklahoma Primary Election?",
+"href": "https://www.votedannywilliams.com/blog-store/when-is-the-2024-oklahoma-primary-election"
+},
+{
+"text": "VOTE DANNY WILLIAMS",
+"href": "https://www.votedannywilliams.com/home"
+},
+{
+"text": "[image: Vote Danny Williams]",
+"href": "https://www.votedannywilliams.com/"
+},
+{
+"text": "[image] Md Rahamat Ali",
+"href": "https://www.votedannywilliams.com/blog-store?author=5fb46340ba2cc64bbc5c556a"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteDannyWilliams/"
+},
+{
+"text": "donate",
+"href": "https://secure.anedot.com/friends-of-danny-williams/donate"
+}
 ]

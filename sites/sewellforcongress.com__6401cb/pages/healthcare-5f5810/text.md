@@ -1,4 +1,4 @@
-Terri believes that all Alabamians should have access to quality, affordable healthcare.
+About Terri Sewell Join Team Terri Issues News Photos Donate Donate Healthcare All Americans deserve access to quality, affordable healthcare Terri believes that all Alabamians should have access to quality, affordable healthcare.
 Every day, she is fighting back against Donald Trump and MAGA Republicans’ attacks on the Affordable Care Act, Medicare, and Medicaid.
 Expanding Medicaid: Terri knows that Alabama must expand Medicaid to close the healthcare coverage gap for working families.
 She authored the Bridge to Medicaid Act, which would provide a temporary option for healthcare to those caught in the coverage gap in non-Medicaid expansion states like Alabama.
@@ -13,3 +13,4 @@ Fighting to End Cancer: In 2026, Terri passed the Nancy Gardner Sewell Medicare 
 This law will give many seniors new access to cutting-edge screenings that can detect dozens of forms of cancer with a simple blood test.
 Improving Rural Medical Transportation: Terri is a leading advocate for improving rural access to medical transportation.
 She wrote the Protecting Access to Ground Ambulance Act, which would ensure the ground ambulance services in rural and underserved communities are expanded.
+Join Team Terri About Terri Join Team Terri Issues News Photos ©# Terri Sewell for Congress Paid for by Terri Sewell for Congress Privacy Policy

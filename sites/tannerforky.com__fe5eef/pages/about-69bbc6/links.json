@@ -1,8 +1,34 @@
 [
-"https://secure.winred.com/tanner-hesterberg-for-state-representative/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true",
-"https://tannerforky.com/",
-"https://tannerforky.com/about",
-"https://tannerforky.com/contact",
-"https://tannerforky.com/issues",
-"https://tannerforky.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.tannerforky.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tannerforky.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tanner-hesterberg-for-state-representative/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "Home",
+"href": "https://www.tannerforky.com"
+},
+{
+"text": "Issues",
+"href": "https://www.tannerforky.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tannerforky.com/privacy-policy"
+},
+{
+"text": "Tanner@TannerForKY.com",
+"href": "mailto:Tanner@TannerForKY.com"
+},
+{
+"text": "[image: tinywow_IMG_2012_86784038.jpg]",
+"href": "https://www.tannerforky.com"
+}
 ]

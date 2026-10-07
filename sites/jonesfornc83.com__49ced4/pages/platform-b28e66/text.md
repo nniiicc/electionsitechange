@@ -1,12 +1,9 @@
-top of page
-"I'm a hard-working, blue collar guy, and I'm in this for every single person in Cabarrus, Rowan, and ultimately, North Carolina.
-My job is to listen to you, take your concerns to Raleigh, and help pass legislation that will help, not hurt, your family."
-KEY ISSUES
-AI datacenters are the 'big, magic lie' that's been forced into our communities.
+top of page Johnnie Jones for NC 83 HOME MEET JOHNNIE PLATFORM GET INVOLVED More Use tab to navigate through the menu items.
+DONATE "I'm a hard-working, blue collar guy, and I'm in this for every single person in Cabarrus, Rowan, and ultimately, North Carolina.
+My job is to listen to you, take your concerns to Raleigh, and help pass legislation that will help , not hurt, your family." KEY ISSUES AI datacenters are the 'big, magic lie' that's been forced into our communities.
 The companies running them deplete water systems and deforest every acre of land they buy.
 They’re given power subsidies to lower their rates – all while the leaders in the NC General Assembly allow public rates to keep increasing.
-It needs to be halted and reviewed now.
-I will support more research, an environmental survey before construction can even be considered, and community-led answers.
+It needs to be halted and reviewed now. ​ I will support more research, an environmental survey before construction can even be considered, and community-led answers.
 You shouldn't ever have to worry about one of these in your backyard.
 As a former union member in the movie and commercial industry for many years, I know the importance of organized labor and workers' rights.
 Workers in North Carolina have the right to fair wages, proper healthcare, and the ability to negotiate for these things.
@@ -19,4 +16,5 @@ I know that we’re all facing economic hardships right now – and I’m not go
 That said, the current supermajority in the North Carolina Senate and House have done little to nothing to address it.
 In office, I will not help pass bills that put hardships on my constituents.
 Period.
-bottom of page
+HOME MEET JOHNNIE PLATFORM GET INVOLVED More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: PAID FOR BY THE COMMITTEE TO ELECT JOHNNIE JONES bottom of page

@@ -1,14 +1,50 @@
 [
-"http://x.com/arminmizanitx",
-"https://arminfortexas.com/",
-"https://arminfortexas.com/endorsements",
-"https://arminfortexas.com/issues",
-"https://arminfortexas.com/meet-armin",
-"https://arminfortexas.com/news",
-"https://arminfortexas.com/privacy-policy",
-"https://arminfortexas.com/volunteer",
-"https://facebook.com/arminmizanitx",
-"https://flickr.com/photos/204284875@N08/albums",
-"https://secure.anedot.com/armin-mizani/donation",
-"https://youtu.be/eg7iQ7W-IxI"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/armin-mizani/donation"
+},
+{
+"text": "Endorsements",
+"href": "https://arminfortexas.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/arminmizanitx"
+},
+{
+"text": "In the News",
+"href": "https://arminfortexas.com/news/"
+},
+{
+"text": "Issues",
+"href": "https://arminfortexas.com/issues/"
+},
+{
+"text": "Meet Armin",
+"href": "https://arminfortexas.com/meet-armin/"
+},
+{
+"text": "Pictures",
+"href": "https://www.flickr.com/photos/204284875@N08/albums/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://arminfortexas.com/privacy-policy/"
+},
+{
+"text": "Video",
+"href": "https://youtu.be/eg7iQ7W-IxI"
+},
+{
+"text": "Volunteer",
+"href": "https://arminfortexas.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "http://x.com/arminmizanitx"
+},
+{
+"text": "[image]",
+"href": "https://arminfortexas.com/"
+}
 ]

@@ -1,16 +1,12 @@
-Map of Texas House District 57
-Video Links [TikTok] [YouTube]
-After the 2020 census, the state of Texas was forced to redraw the boundaries for federal Congressional districts as well as state House and Senate districts.
+☰ MENU Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns questionnaires Alliance Defending Freedom Andres Masters Research Association of Texas Professional Educators Denton Record-Chronicle HOA Reform Coalition iVoter Guide National Alliance on Mental Illness (NAMI) VoteSmart Political Courage Test GenZ for Change News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party Map of Texas House District 57 Video Links [ TikTok ] [ YouTube ] After the 2020 census, the state of Texas was forced to redraw the boundaries for federal Congressional districts as well as state House and Senate districts.
 This ensures that each district has roughly the same count of residents.
 The body responsible for redrawing the legislative maps is the Legislative Redistricting Board consisting of the Lieutenant Governor (Dan Patrick - R), Speaker of the Texas House of Representatives (Dade Phelan - R), Attorney General (Ken Paxton - R), Comptroller (Glenn Hegar - R), and the Commissioner of the General Land Office (Dawn Buckingham - R).
 That about as partisan a group as any state can get.
 The redrawn District 57 includes the towns of Corinth, Dish, Hickory Creek, Lake Dallas, Lakewood Village, Little Elm, Oak Point, Ponder, and Shady Shores.
 It also includes parts of Argyle, Copper Canyon, Crossroads, Hackberry, and Highland Village.
-Clearly, the new district (as well as multiple surrounding districts in the DFW, Houston, Austin, and San Antonio areas) has been heavily gerrymandered ("to manipulate the boundaries of an electoral constituency so as to favor one party or class") in an attempt to promote a specific outcome.
-(A more detailed map can be found on the Texas Capitol District Viewer site.
+Clearly, the new district (as well as multiple surrounding districts in the DFW, Houston, Austin, and San Antonio areas) has been heavily gerrymandered ( "to manipulate the boundaries of an electoral constituency so as to favor one party or class" ) in an attempt to promote a specific outcome. ( A more detailed map can be found on the Texas Capitol District Viewer site.
 It starts out showing the entire state.
-Just zoom in to the area you want to see.)
-Our district boundaries are totally nuts.
+Just zoom in to the area you want to see.) Our district boundaries are totally nuts.
 The district spans almost all of central Denton County from almost the eastern edge of Denton County to the extreme western edge of the county, but it wraps around the city of Denton completely, avoiding any possibility that residents of the city will ever be able to affect the representation within the district.
 Obviously, when you look at it, a district like this has nothing to do with actually representing the people of central Denton County but has everything to do with maximizing Republican partisan power.
 As drawn, this district basically bends over backward to retain Republican representation in the state legislature.
@@ -20,10 +16,10 @@ Admittedly, given the two choices (me, and my Republican opponent), people eithe
 To be fair, the Denton Country Democratic Party has fielded a candidate this year.
 At the time of this writing, I know very little about him but as far as I can tell, he is NOT the wide receiver for the Chicago Bears.
 But there is still one thing that neither of Denton County's Old Parties has counted on, and that's you and that you can vote for any candidate on the ballot (regardless of what they may try to tell you).
-Obviously, I am biased, but I can tell you that I won't vote on issues based solely on party loyalty; I will vote on them based on my loyalty to you, the people of central Denton County.
+Obviously, I am biased, but I can tell you that I won't vote on issues based solely on party loyalty; I will vote on them based on my loyalty to you , the people of central Denton County.
 But I encourage you to vote for the candidate that you think will best represent you and your issues in the Texas legislature.
 If that's one of them, great; if it's me, better.
 I'm not going to claim that I'm a better candidate, merely a "different" one.
 All I ask is that you consider my candidacy.
-If you don't like what I have to offer, well, there's still the other guys
-- Partisan Gerrymandering [Article Link]
+If you don't like what I have to offer, well, there's still the other guys Partisan Gerrymandering [Article Link] VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Voter Information Endorsements Events Contact Privacy Policy Committee to Elect Darren Hamilton Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns questionnaires Alliance Defending Freedom Andres Masters Research Association of Texas Professional Educators Denton Record-Chronicle HOA Reform Coalition iVoter Guide National Alliance on Mental Illness (NAMI) VoteSmart Political Courage Test GenZ for Change News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party Close Menu

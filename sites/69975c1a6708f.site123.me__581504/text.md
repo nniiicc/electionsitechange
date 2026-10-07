@@ -1,12 +1,7 @@
-Steven L.
-Smith for House of Delegates- District 8
-✅ Pro Life
-✅ Pro 2nd Amendment
-✅ Pro Family Values
-✅ Pro Life
-✅ Pro 2nd Amendment
-✅ Pro Family Values
-Some of you may not know me and therefore, I would like to introduce myself.
+Committee to Elect Steven L.
+Smith Home About My Story Testimonials ABOUT Contact Committee to Elect Steven L.
+Smith Home About My Story Testimonials ABOUT Contact Standing Strong for Local Growth Committed to Making Positive Changes for District 8 Steven L.
+Smith for House of Delegates- District 8 ✅ Pro Life ✅ Pro 2nd Amendment ✅ Pro Family Values My Story Some of you may not know me and therefore, I would like to introduce myself.
 I am a native of Doddridge County and I was raised on my Grandparents farm (Millard and Willa Maxwell) in Blandville.
 I attended the Blandville United Methodist Church where my Grandfather was a Deacon and my Grandmother was the pianist.
 My grandmother and I went to churches throughout the area and I would sing.
@@ -32,8 +27,7 @@ In my teens, I worked as a stockboy at Garden Fresh Supermarkets, as a Laborer o
 My wife and I lived in Clarksburg during my college years and I worked for Union National Bank in the computer room and for a local CPA doing tax returns and audits.
 It was this phase of my life that I learned how messed up our tax system is.
 I hope to help improve that if I am elected.
-After college-Union National Bank- Trust Operations Supervisor
-Weston National Bank and Heritage Bancorp- Hired initially as the Controller and later I became the Chief Financial Officer.
+After college-Union National Bank- Trust Operations Supervisor Weston National Bank and Heritage Bancorp- Hired initially as the Controller and later I became the Chief Financial Officer.
 Heritage was an SEC regulated Bank Holding Company and I learned SEC accounting here.
 Ameribank- I became the youngest Bank President in modern banking history when I became President and CEO on July 1, 1990.
 I was later elected Chairman and I sold the bank to Bank One in 1993 at a price that made our shareholder very happy.
@@ -73,8 +67,7 @@ When I joined the Board in 2006, the pensions were less than 30% funded.
 It was announced at the last meeting that on a combined basis, we are now 100% funded!
 I was instrumental in getting the Legislature to allow us to invest in alternative investments in 2009 and I was the founding Charirman of the Private Equity Committee.
 Our Private Equity funds have consistently ranked as one of the best in the Nation when compared to other public funds!
-I have also served as Chairman of the Audit Committee, the Hedge Fund Committee, and the Personnel Committee.
-Çreative- I love music especially Gospel and Classic Rock.
+I have also served as Chairman of the Audit Committee, the Hedge Fund Committee, and the Personnel Committee. Çreative- I love music especially Gospel and Classic Rock.
 For several years, I was the Lead Singer of the Sycamore Ridge Classic Rock Band.
 I also played keyboards and guitar.
 I wrote a Science Fiction Novel last year and it is published and available on Amazon- “Trinarian Dawn”!
@@ -83,17 +76,16 @@ I maintain our family cemetery located just above the church that goes back to t
 I love this area, we are lucky to live in District 8.
 I hope to represent you in Charleston!
 Message me if you have any questions!
-Volunteer with Us
-Your support makes change possible.
-Donations
-If you desire to help the Campaign with a donation, you may send a check to:
-The Committee to Elect Steven L.
+Volunteer with Us Your support makes change possible.
+Volunteer with Us Your support makes change possible.
+Testimonials All Teacher and parent Ella Johnson Steven’s dedication to addressing our needs is truly commendable.
+Laborer's District Council We support Steve!
+He is a good man and supports working people!
+Upper Ohio Valley Building and Construction Trades Steve will utilize his experience to help the families of District 8!
+We proudly endorse him.
+Roger Romine I endorse Steve Smith for House of Delegates, District 8!
+Donations ​If you desire to help the Campaign with a donation, you may send a check to: The Committee to Elect Steven L.
 Smith, Ava C.
-Smith, Treasurer
-33 Taylor Drain Road
-West Union, WV 26456
-33 Taylor Drain Road
-West Union, WV 26456
-- 33 Taylor Drain Road, West Union, WV, USA
-Committee to Elect Steven L.
-Smith, Ava Smith, Treasurer
+Smith, Treasurer 33 Taylor Drain Road West Union, WV 26456 Contact 33 Taylor Drain Road, West Union, WV, USA avanlee1961@gmail.com Committee to Elect Steven L.
+Smith, Ava Smith, Treasurer Contact Us Committee to Elect Steven L.
+Smith Copyright © # All rights reserved Powered By SITE123 - How to create a website Home About My Story Testimonials ABOUT Contact I BUILT MY SITE FOR FREE USING CREATE YOUR WEBSITE Report Abuse

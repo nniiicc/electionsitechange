@@ -1,15 +1,6 @@
-Previous
-Previous
-June 15
-Bennett Headquarters Grand Opening!
-Next
-Next
-June 20
-Back to All Events
-Meet Rick in Portland
-Support Rick Bennett
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events Meet Rick in Portland Wednesday, June 17, 2026 5:30 PM 7:00 PM The Home of Victoria Furman and Joseph Smith 24 Partridge Circle Portland, ME 04102 United States (map) Google Calendar ICS Click here for more details and to RSVP Source: https://www.supportrickbennett.com/portland_furman_cady_6_17 Previous Previous June 15 Bennett Headquarters Grand Opening!
+Next Next June 20 Walk with Rick in the Portland Pride Parade Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
 This is your movement.
 We can’t do it without your help.
-Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing.
-Donate Now See All Donation Options
-Choose an amount above or continue to the full donation page.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

@@ -1,5 +1,8 @@
-BigSky55+ works towards making life better for Montanans of all ages, especially older Montanans.
+October 7, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Meet Our 100% Champions BigSky55+ works towards making life better for Montanans of all ages, especially older Montanans.
 They followed Jane’s work in the legislature this session and it matched their mission as an organization.
 They will be celebrating Jane today across their socials!
 They’ve released their scorecard for the 2025 session and Jane has 100% with them.
 This means Jane has voted and advocated for the issues that really matter to them and their members.
+Meet Our 100% Champions 2026-02-05 2026-02-05 https://weberforhd19.com/new/wp-content/uploads/2026/02/w419-reelect-logo.png Weber for House District 19 https://weberforhd19.com/new/wp-content/uploads/2026/02/big-sky-55-ad.jpg 200px 200px Recent News 2025 Legislative Score Card February 19, 2026 Meet Our 100% Champions February 5, 2026 Welcome to Bozangeles!
+March 27, 2025 Early Weeks in the 2025 Legislature February 10, 2025 Endorsed by Montana Conservation Voters October 10, 2024 Jane Weber talks about getting out to vote October 3, 2024 Jane Weber talks about getting out to vote, tip 1 October 3, 2024 Jane Weber talks about getting out to vote, tip 2 October 3, 2024 Jane Weber talks about getting out to vote, tip 3 October 3, 2024 Jane Weber on education short October 3, 2024 Pam Guschausky, Treasurer PO 818, Great Falls, MT 59403 406-781-0741 DONATE NOW! br> Or, send a contribution in the form of a check to: Weber for HD 19 PO Box 818 Great Falls, MT 59403 Any amount helps.
+(Limit $470) Paid for by Weber for HD 19 PO Box 818 Great Falls, MT 59403 Pam Guschausky – Treasurer Designed by Slingshot Creative Group

@@ -1,18 +1,18 @@
-| Last week I had my first bill hearing on legislation I am sponsoring, the Maryland Metro Funding Act which alters a provision of state law to match the contribution to our regional Metro system in the Governor's budget.
-You can watch it here.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe LATEST NEWS Hearings - Weekly Update 1/31/2024 ​Last week I had my first bill hearing on legislation I am sponsoring, the Maryland Metro Funding Act which alters a provision of state law to match the contribution to our regional Metro system in the Governor's budget.
+You can watch it here .
 And yesterday was the first day of bill hearings that I presided over in my committee.
 We had over 50 witnesses testifying on 11 bills related to housing and land use issues.
 Dear Friend: Last week I had my first bill hearing on legislation I am sponsoring, the Maryland Metro Funding Act which alters a provision of state law to match the contribution to our regional Metro system in the Governor's budget.
-You can watch it here.
+You can watch it here .
 And yesterday was the first day of bill hearings that I presided over in my committee.
 We had over 50 witnesses testifying on 11 bills related to housing and land use issues.
 LEGISLATIVE UPDATE Last week I attended a joint House and Senate press conference to announce a set of consumer protection bills we will work to pass this legislative session.
 Importantly, this includes the Maryland Online Data Privacy Act authored by District 16's own Delegate Sara Love.
-Here are all of the bills in the legislative package: Electricity and Gas - Retail Supply - Regulation and Consumer Protection (SB1/HB267): balances electricity choice with tighter electricity supplier licensing regulations to protect customers from dishonest business practices, like confusing variable rates and unwanted, automatic renewals.
-Commercial Law – Consumer Protection – Sale and Resale of Tickets (SB539): requires ticketing platforms to implement all-in-ticketing (to allow consumers to see the total cost of a ticket up front); prevents tickets from being resold for a large profit; caps ticket reseller fees at a reasonable rate (10%); and ends the sale of speculative tickets.
-Maryland Online Data Privacy Act of 2024 (SB541/HB567): gives consumers more protection and control over their personal data; requires companies to keep collected data safe; and adds extra layers of protection for sensitive data.
-Consumer Protection - Online Products and Services - Data of Children (Maryland Kids Code) (HB603): requires tech companies to design their online products with kids’ privacy, safety, and wellness in mind.
-This means not collecting or selling kids’ data, setting high privacy standards by default, and avoiding manipulative design. ----- Last week's Montgomery County Delegation meeting included a briefing by Montgomery County Park & Planning that you can watch here.
+Here are all of the bills in the legislative package: Electricity and Gas - Retail Supply - Regulation and Consumer Protection (SB1/HB267) : balances electricity choice with tighter electricity supplier licensing regulations to protect customers from dishonest business practices, like confusing variable rates and unwanted, automatic renewals.
+Commercial Law – Consumer Protection – Sale and Resale of Tickets (SB539) : requires ticketing platforms to implement all-in-ticketing (to allow consumers to see the total cost of a ticket up front); prevents tickets from being resold for a large profit; caps ticket reseller fees at a reasonable rate (10%); and ends the sale of speculative tickets.
+Maryland Online Data Privacy Act of 2024 (SB541/HB567) : gives consumers more protection and control over their personal data; requires companies to keep collected data safe; and adds extra layers of protection for sensitive data.
+Consumer Protection - Online Products and Services - Data of Children (Maryland Kids Code) (HB603) : requires tech companies to design their online products with kids’ privacy, safety, and wellness in mind.
+This means not collecting or selling kids’ data, setting high privacy standards by default, and avoiding manipulative design. ----- Last week's Montgomery County Delegation meeting included a briefing by Montgomery County Park & Planning that you can watch here .
 At the same meeting, the Delegation unanimously voted to support my bill reforming the Washington Suburban Transit Commission (WSTC).
 Because WSTC is a bi-county agency, the bill now goes to the Prince George's County Delegation for consideration.
 Also at the meeting, the Delegation voted to accept another local bill I drafted for late file related to teacher training at Montgomery County Public Schools for anti-Semitism, Islamophobia, and other forms of discrimination based on religion.
@@ -20,42 +20,41 @@ BUDGET UPDATE I received a few questions about some of the District 16 capital p
 The Whitman High School upgrades are to replace the HVAC system which is over 30 years and past its useful life.
 As for the North Bethesda Metro Station second entrance, you are not imagining that this project has received state taxpayer support before.
 The $8 million in state funds committed so far is being combined with local funds to seek a federal RAISE grant to build the entrance. ---- I have written quite a bit in recent newsletters about the state transportation budget.
-The Governor recently submitted his first supplemental budget, which allocates $150 million in one time money to help mitigate cuts to transportation and updates the language for the BOOST program, a $9 million program the Governor chose to fund for private school scholarships.
+The Governor recently submitted his first supplemental budget , which allocates $150 million in one time money to help mitigate cuts to transportation and updates the language for the BOOST program, a $9 million program the Governor chose to fund for private school scholarships.
 TRANSPORTATION UPDATE The Montgomery County Council recently passed a compromise approach to Little Falls Parkway.
-You can read about the project here. ----- Last year, the Maryland Department of Transportation sought over $2 billion in federal funds to support their planned replacement and widening of the American Legion Bridge and portions of the Beltway.
+You can read about the project here . ----- Last year, the Maryland Department of Transportation sought over $2 billion in federal funds to support their planned replacement and widening of the American Legion Bridge and portions of the Beltway.
 Local media covered last week that Maryland did not receive federal support but plans to apply again.
 COMMUNITY NEWS The Bethesda Chevy Chase Democratic Breakfast Club has a series of upcoming meetings.
-To obtain links for any of the below, please email [email protected]: -Monday, February 5 at 7:30am: Council President Andrew Friedson -March 4, at 7:30am: Lisa Taylor, Chair of the Montgomery County Committee Against Hate/Violence -April 10, at 7:30am: District 18 state legislators ---- Congratulations to District 16's Amy Maron and Barry Shanoff on their recent appointments to the Montgomery County Solid Waste Advisory Committee. ----- District 16's Kari Swenson--co-owner of Horizon (a franchisee of fast food restaurants)--was recently profiled by the Maryland Department of Transportation for the transit benefit she offers her employees.
-Read about it here.
+To obtain links for any of the below, please email [email protected] : -Monday, February 5 at 7:30am: Council President Andrew Friedson -March 4, at 7:30am: Lisa Taylor, Chair of the Montgomery County Committee Against Hate/Violence -April 10, at 7:30am: District 18 state legislators ---- Congratulations to District 16's Amy Maron and Barry Shanoff on their recent appointments to the Montgomery County Solid Waste Advisory Committee. ----- District 16's Kari Swenson--co-owner of Horizon (a franchisee of fast food restaurants)--was recently profiled by the Maryland Department of Transportation for the transit benefit she offers her employees.
+Read about it here .
 BOOK CORNER If you watched the Montgomery County Delegation meeting linked above, you would have seen be show a copy of Suburb by Royce Hanson.
 Hanson was the two-time chair of the County's Planning Board and at the center of many of the most significant planning issues in the county over the past 60 years including establishment of the Ag Reserve, establishing a growth policy, and rethinking our suburban strip malls.
-You can read a more fulsome review I wrote about this book for a local Dear Friend: Last week the Governor introduced his proposed budget for the fiscal year that begins July 1, 2024.
+You can read a more fulsome review I wrote about this book for a local The State Budget - Weekly Update 1/24/2024 Dear Friend: Last week the Governor introduced his proposed budget for the fiscal year that begins July 1, 2024.
 Although I no longer serve on the Appropriations Committee, I recognize the importance of the state budget as it reflects our priorities and values.
 The budget is made up of three parts: -Operating Budget: These are funds for people and programs, such as state education aid. -Capital Budget: This is the state construction budget, such as to build schools or hospitals. -The Budget Reconciliation and Financing Act (BRFA): This is a piece of legislation necessary to balance the budget and alters provisions of state statute as necessary to do so, typically to adjust statutory budget formulas.
-The complete budget as proposed by the Governor can be found here.
+The complete budget as proposed by the Governor can be found here .
 The non-partisan Department of Legislative Services prepares a fiscal briefing on the budget each year.
-The briefing materials can be found here and the briefing can be watched here.
+The briefing materials can be found here and the briefing can be watched here .
 Some relevant highlights of the budget are: -The budget is balanced--as it must be each year--and actually reduces spending from the prior year by 1.7%. -All pre-k through 12th grade education funding formulas are fully funded, including $1.1 billion in state support for Montgomery County Public Schools. -There is a modification to the community college formula to reduce it based on enrollment. -$90 million is being allocated to implementation of the Climate Solutions Now Act to help reduce our greenhouse gas emissions. -The budget contains important capital support relevant to District 16 including $3 million for a second entrance to the North Bethesda Metro Station, $2 million for a new building for the University System of Maryland Institute for Health Computing in North Bethesda, and $2.7 million for Walt Whitman High School upgrades. -The Rainy Day Fund will be maintained at 9.4% of General Fund revenue (a few years ago a 5% Rainy Day Fund was considered strong). -The full actuarially required contribution to the state pension is being made. -A one-time $150 million withdrawal from the Rainy Day Fund will mitigate some of the transportation budget cuts I have previously written about, which in Montgomery County means no cut to state support for the Ride On system, no cuts to MARC Commuter Rail Brunswick Line service, the launch of expanded service on the Brunswick Line, maintenance of Motor Vehicle Administration Saturday hours, and no cut to trash clean-up and mowing along state highways. -Although the budget is balanced as it must be every year, future year deficits are projected.
 Although this has been the historic norm since the Great Recession, it is worth noting.
 LEGISLATIVE UPDATE I have formally introduced two more pieces of legislation.
-Port of Baltimore - Renaming (HB 375) officially renames the state's port the Helen Delich Bentley Port of Baltimore, something done 20 years ago via Executive Order but never codified in statute.
+Port of Baltimore - Renaming (HB 375) officially renames the state's port the Helen Delich Bentley Port of Baltimore, something done #ago via Executive Order but never codified in statute.
 The Open Source Phonics Matching Grant Program Act (HB 475) was brought to me by a constituent to help give parents access to open source phonics-based teaching tools to support childhood literacy. ----- As I wrote last week, the Montgomery County Delegation meets most Fridays early in the legislative session to consider local bills (bills that only affect Montgomery County).We also hear from governmental guest speakers at those meeting and last week we heard from State's Attorney John McCarthy.
 The State's Attorney shared information about juvenile crime in Montgomery County and you can view the discussion here. ----- I am one of 20 Jewish legislators in the Maryland General Assembly and we have recently formed a Jewish Caucus to advocate for policies important to the Jewish communities of Maryland.
-You can read all about it here.
+You can read all about it here .
 TRANSPORTATION UPDATE As part of the state budget we require the Maryland Transit Administration to submit bimonthly Purple Line status reports.
 Below is a progress chart which includes a new metric for progress on reconstructing the Capital Crescent Trail.
-The full report is available here.
+The full report is available here .
 COMMUNITY NEWS The Bethesda Chevy Chase Democratic Breakfast Club has a series of upcoming meetings.
-To obtain links for any of the below, please email [email protected]: -Monday, February 5 at 7:30am: Council President Andrew Friedson -March 4, at 7:30am: Lisa Taylor, Chair of the Montgomery County Committee Against Hate/Violence -April 10, at 7:30am: District 18 state legislators ---- Congratulations to several District 16 residents recently appointed or re-appointed to County Boards and Commissions: Commission on Common Ownership Communities: Stephen Kraskin County-wide Recreation and Parks Advisory Board: Edward Krauze Commission on Landlord-Tenant Affairs: Nurith Berstein-Rosales; Carol Lubin; and Thomas Jackson Taxicab Services Commission: Elizabeth Ellis Bethesda Downtown Implementation Advisory Committee: David Yampolsky; Naomi Spinrad; and Michael Fetchko. ----- Two District 16 residents have been re-appointed to the leadership of the Montgomery County Republican Party: Lori Jaffe and Monte Gingery.
+To obtain links for any of the below, please email [email protected] : -Monday, February 5 at 7:30am: Council President Andrew Friedson -March 4, at 7:30am: Lisa Taylor, Chair of the Montgomery County Committee Against Hate/Violence -April 10, at 7:30am: District 18 state legislators ---- Congratulations to several District 16 residents recently appointed or re-appointed to County Boards and Commissions: Commission on Common Ownership Communities: Stephen Kraskin County-wide Recreation and Parks Advisory Board: Edward Krauze Commission on Landlord-Tenant Affairs: Nurith Berstein-Rosales; Carol Lubin; and Thomas Jackson Taxicab Services Commission: Elizabeth Ellis Bethesda Downtown Implementation Advisory Committee: David Yampolsky; Naomi Spinrad; and Michael Fetchko. ----- Two District 16 residents have been re-appointed to the leadership of the Montgomery County Republican Party: Lori Jaffe and Monte Gingery.
 We may be of different political parties but we share one political system, so congratulations to Lori and Monte.
 BOOK CORNER Although not a big issue in our Washington Post-reading area, the Baltimore Sun was recently sold and the new ownership announced that the paper would no longer endorse political candidates.
 This had me reflecting on the most famous newspaper endorsement in Maryland political history: the Baltimore Evening Sun's front page endorsement of former state legislator and Transportation Secretary (Maryland's first one in fact) Harry Hughes in the Democratic Primary for Governor in 1978.
 The endorsement is largely credited with his primary win (including over the ticket of Blair Lee III (from Montgomery County) and Steny Hoyer.
 You can read about that and more in the autobiography of former Maryland Governor Harry Hughes, My Unexpected Journey.
-Dear Friend: Later today, the Governor will introduce his proposed budget and I will have plenty more to say about that in a future email.
+A New Committee 1/17/2024 ​Dear Friend: Later today, the Governor will introduce his proposed budget and I will have plenty more to say about that in a future email.
 But in these early days of session before there are many bills to have hearings on or votes to take, the committees participate in briefings on various topics of interest to perform our oversight functions.
-I chair the Environment and Transportation Committee and some of the briefings we have held or will hold during these first few weeks of session include: -Electrification Impacts on the Maryland Electric Grid -Clean Cars & Electric Vehicle Equipment -State of Agriculture -Housing -Maryland Department of Transportation Major Projects -State of the Chesapeake Bay Further briefings are in the planning phase.
-And if you are really into the minutiae of how these committees work, you can watch the Environment and Transportation Committee's organizational meeting from last week, my first one as chair.
+I chair the Environment and Transportation Committee and some of the briefings we have held or will hold during these first few weeks of session include: -Electrification Impacts on the Maryland Electric Grid -Clean Cars & Electric Vehicle Equipment -State of Agriculture -Housing -Maryland Department of Transportation Major Projects -State of the Chesapeake Bay Further briefings are in the planning phase. ​And if you are really into the minutiae of how these committees work, you can watch the Environment and Transportation Committee's organizational meeting from last week, my first one as chair.
 LEGISLATIVE UPDATE Two of my pieces of legislation have been scheduled for their first hearings.
 I shared further information about both bills in last week's email.
 The Maryland Metro Funding Act (HB 198) would ensure that Maryland can provide additional resources to the Metro system that serves Montgomery County.
@@ -63,18 +62,18 @@ The bill will be heard by the Appropriations Committee on January 23rd.
 The Electric Vehicle Recharging Equipment Act (HB 159) updates the law on how Homeowners Association, Condo Board, and Co-op Board governed housing can provide access to vehicle charging equipment.
 The bill will be heard by the Environment and Transportation Committee on February 6. ----- The Montgomery County Delegation meets most Fridays early in the legislative session to consider local bills (bills that only affect Montgomery County).
 Our first meeting of the session was last Friday where we also heard from the County Executive and County Council President.
-You can watch the meeting here.
-And the calendar for all of the Delegation's meetings is regularly updated and can be found here.
+You can watch the meeting here .
+And the calendar for all of the Delegation's meetings is regularly updated and can be found here .
 ENVIRONMENT UPDATE Last week I shared a few recent reports related to Maryland's work to implement our greenhouse gas reduction goals.
-Another relevant report is the annual submission from the Maryland Commission on Climate Change, which you can review here.
+Another relevant report is the annual submission from the Maryland Commission on Climate Change, which you can review here .
 It includes recommendations from the Commission for legislative and executive action to help meet our climate goals.
 COMMUNITY NEWS We have experienced our first significant weather in quite some time.
 Below is a list of useful storm contacts for the future. ----- The Bethesda Chevy Chase Democratic Breakfast Club has a series of upcoming meetings.
-To obtain links for any of the below, please email [email protected]: -Monday, February 5 at 7:30am: Council President Andrew Friedson -March 4, at 7:30am: Lisa Taylor, Chair of the Montgomery County Committee Against Hate/Violence -April 10, at 7:30am: District 18 state legislators BOOK CORNER Given the bill hearing being scheduled for my Metro legislation, I thought I would tie-in this week's recommended book: Zachary M.
+To obtain links for any of the below, please email [email protected] : -Monday, February 5 at 7:30am: Council President Andrew Friedson -March 4, at 7:30am: Lisa Taylor, Chair of the Montgomery County Committee Against Hate/Violence -April 10, at 7:30am: District 18 state legislators BOOK CORNER Given the bill hearing being scheduled for my Metro legislation, I thought I would tie-in this week's recommended book: Zachary M.
 Schrag's The Great Society Subway.
 Scrag's book is a history of the development and construction of the DC-area Metro.
 It was written in 2006 and is focused on Metro's formative stages, as opposed to its actual operation.
-I actually reviewed this book for a local political website 15 years ago and you can read that throw-back here: https://maryland-politics.blogspot.com/2008/07/summer-reading-list.html Today marks the start of the 2024 legislative session.
+I actually reviewed this book for a local political website #ago and you can read that throw-back here: https://maryland-politics.blogspot.com/2008/07/summer-reading-list.html A New Legislative Session 1/10/2024 ​Today marks the start of the 2024 legislative session.
 Unlike the United States Congress, the Maryland General Assembly is part-time and meets for 90 days each year.
 Also unlike Congress, the House of Delegates only has six standing committees--the U.S.
 House has about 20--and I am starting my first session as chair of one: the Environment and Transportation Committee.
@@ -82,13 +81,13 @@ Below I will discuss my legislative agenda--the bills I will be primarily sponso
 Specifically, in addition to having the usual opportunity to weigh in on the state budget, public education, healthcare (including reproductive health), sensible gun control and public safety, and myriad other issues, the committee I chair has jurisdiction over the environment, transportation, housing, agriculture, ethics, and more.
 In fact, as committee chair I am the sponsor of 17 bills as a courtesy to various state departments and agencies seeking changes to their governing statutes.
 That said, I currently plan to sponsor five pieces of legislation with a few more still under development.
-I will share more about these bills in the weeks ahead but here are brief summaries: Electric Vehicle Recharging Equipment Act of 2024: Senator Ariana Kelly is cross-filing this bill which has been pre-filed (already introduced).
+I will share more about these bills in the weeks ahead but here are brief summaries: Electric Vehicle Recharging Equipment Act of 2024 : Senator Ariana Kelly is cross-filing this bill which has been pre-filed (already introduced).
 The bill updates a law we passed several years ago on access to vehicle charging equipment in buildings governed by homeowners associations and condo boards.
 Specifically, the bill adds co-ops to the existing law, expands the definition of vehicles to include charging equipment for e-bikes, and puts in place a process for the state's Department of Housing and Community Development to implement the law and serve as a point of contact for individuals who need assistance with the law.
-Maryland Metro Funding Act of 2024: This is another pre-filed bill I am working on with Senator Brian Feldman, as well as Senator Malcolm Augustine and Delegate Jazz Lewis.
+Maryland Metro Funding Act of 2024 : This is another pre-filed bill I am working on with Senator Brian Feldman, as well as Senator Malcolm Augustine and Delegate Jazz Lewis.
 As you may know, our local Metro system is facing an operating funding short-fall.
 The Moore Administration has stepped up with additional funds but this requires a change to our state law capping the operating fund increases to Metro.
-The Washington Suburban Transit Commission Reform Act: This is a local bill already introduced for which the local hearings were previously held.
+The Washington Suburban Transit Commission Reform Act : This is a local bill already introduced for which the local hearings were previously held.
 The bill reforms the Montgomery and Prince George's bi-county commission that oversees our state's Metro commitment by clarifying how the state Transportation Secretary's designee can serve on the Metro board, revises how the other Metro board seat can shift back and forth, and alters what budgetary actions the commission can take independently.
 The Open-Source Phonics Matching Grant Program Act: This legislation came from my work with a constituent and will put some state support into free reading materials to help support literacy in and out of schools.
 The Transportation Funding Act of 2024: Through my work on a state transportation revenue and investment commission (more on that below) and the Administration's recently announced transportation cuts (which I discussed in last month's email), it is clear that more support is needed for the type of infrastructure I often hear constituents want: less trash on the roads, fewer potholes, well-functioning mass transit, roadway improvements, and so on.
@@ -96,23 +95,23 @@ Given the federal government's current historic investment in infrastructure, it
 For that reason, I am sponsoring a bill to increase revenue for transportation infrastructure by charging low fees on transportation network company (Uber) trips and certain home deliveries.
 I do not do this lightly and will explain more of my thinking in future newsletters, but safe, reliable, and efficient infrastructure costs money.
 The Maryland General Assembly website has many great resources if you are interested in following our work over the next 90 days.
-I will highlight just a few: The general schedule is available here.
+I will highlight just a few: The general schedule is available here .
 You can look up legislation and track its progress here.
 Every bill introduced by the bill introduction deadline is guaranteed a hearing and before the hearing, a fiscal and policy note about the bill will be published.
-You can view the Committee Schedule, which will be regularly updated, here.
+You can view the Committee Schedule, which will be regularly updated, here .
 I also recommend a few different news resources for those of you interested in the legislature.
 In addition to the Washington Post and Baltimore Sun, there are three websites that specialize in coverage of Annapolis: Maryland Reporter: http://marylandreporter.com/ Maryland Matters: https://marylandmatters.org/ Center Maryland: http://www.centermaryland.org/ ENVIRONMENT UPDATE The Climate Solutions Now Act is our state's ambitious law to reduce greenhouse gas emissions in Maryland and ultimately make us a net zero state.
-As a result of the bill, the Maryland Department of the Environment recently released its comprehensive Climate Pollution Reduction Plan, which you can view here.
+As a result of the bill, the Maryland Department of the Environment recently released its comprehensive Climate Pollution Reduction Plan, which you can view here .
 The Climate Solutions Now Act also required the Maryland Public Service Commission to assess the capacity of the large electric and gas utilities to serve customers under a managed transition to highly electrified buildings between now and 2031.
 The key takeaways are below.
 But the bottom line is that the report finds that the system-wide load growth is manageable based on the history of load growth in MD.
 However, that does not negate the need for granular study in specific locations.
-You can read the full report here.
-LEGISLATIVE UPDATE If you missed the District 16 send-off last week, you can watch the town hall style event on YouTube here. ----- Legislation can be "pre-filed" before we convene, This year, 255 House bills and 310 Senate bills were pre-filed.
+You can read the full report here .
+LEGISLATIVE UPDATE If you missed the District 16 send-off last week, you can watch the town hall style event on YouTube here . ----- Legislation can be "pre-filed" before we convene, This year, 255 House bills and 310 Senate bills were pre-filed.
 Notably, 68 of the House bills are in my committee, the most of any House committee.
-You can browse the full list of bills here.
+You can browse the full list of bills here .
 TRANSPORTATION NEWS As I have shared before, I am serving as a House appointee on the state's Transportation Revenue and Investment Needs (TRAIN) Commission.
-The Commission is meeting for two years and our interim report has been released which you can read here.
+The Commission is meeting for two years and our interim report has been released which you can read here .
 I support the recommendations but they are also inadequate not only to meet our long-term infrastructure investment needs, but our immediate needs as well.
 Given the Governor's proposed transportation cuts and some of the investments we already know we want to make as a state, I do not think we can wait another year to act on transportation revenue which is why I am introducing one of the bills referenced above. ----- The General Assembly prepares the Joint Chairs Report as part of the budget requesting info and reports from the executive branch.
 We requested that the Maryland Aviation Administration prepare a report on solar opportunities at Marshall BWI Airport and Martin State Airport.
@@ -120,13 +119,13 @@ The report is in.
 The report recommends seven sites at Marshall BWI and three at Martin State that are financially viable for near-term implementation to help decarbonize the airports.
 COMMUNITY NEWS The Montgomery Perspective blog recognized some of my work in 2023. ----- On Thursday, January 11th at 7:30am, the Bethesda Chevy Chase Democratic Breakfast Club will hear from Montgomery County Police Chief Marcus Jones.
 Email [email protected] for more information.
-Book Corner As those of you who know me or follow me on social media know, I read a fair bit about Maryland history and politics and I thought it would be a nice addition to these newsletters to highlight some of these books.
+Book Corner ​ As those of you who know me or follow me on social media know, I read a fair bit about Maryland history and politics and I thought it would be a nice addition to these newsletters to highlight some of these books.
 This month I will highlight John W.
 Frece's 2009 book Sprawl and Politics: The Inside Story of Smart Growth in Maryland.
 Smart growth was a program pushed through a package of bills and initiatives by then Governor Parris Glendening.
 The book is a great "how a bill becomes a law" tale in Maryland but also touches on land use policies that are still central to our state and local politics almost 30 years later.
 If you read the book or have read it previously, let me know what you think.
-Frece, by the way, has been a writer or co-writer on other Maryland books I may cover in the future. | Author Write something about yourself.
+Frece, by the way, has been a writer or co-writer on other Maryland books I may cover in the future.
+Author Write something about yourself.
 No need to be fancy, just an overview.
-Archives Categories |
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+Archives July 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 March 2025 February 2025 January 2025 December 2024 November 2024 October 2024 September 2024 August 2024 July 2024 June 2024 May 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 December 2016 November 2016 October 2016 September 2016 August 2016 July 2016 June 2016 May 2016 April 2016 March 2016 February 2016 January 2016 December 2015 November 2015 October 2015 September 2015 August 2015 July 2015 June 2015 May 2015 April 2015 March 2015 February 2015 January 2015 December 2014 November 2014 October 2014 June 2014 May 2014 March 2014 February 2014 January 2014 September 2013 August 2013 July 2013 June 2013 May 2013 Categories All Legislative Session Update Monthly Update News Clip RSS Feed By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

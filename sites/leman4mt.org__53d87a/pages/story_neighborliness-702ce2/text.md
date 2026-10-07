@@ -1,4 +1,4 @@
-Out here, neighborliness isn't just a polite word.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Neighborliness × Out here, neighborliness isn't just a polite word.
 It is an essential way of life.
 If your truck ends up in a ditch on a slick, icy winter road, the person who pulls you out isn't going to check your political registration first.
 They aren't going to ask who you voted for before they grab their recovery gear.
@@ -12,4 +12,6 @@ A representative's job should be to stand up for our independent, self-starting 
 We believe that real, meaningful solutions come from local folks watching each other's backs, rather than a government mandate.
 That's Montana common sense.
 These value posts were originally shared on Facebook.
-You can follow the entire series at facebook.com/leman4mt.
+You can follow the entire series at facebook.com/leman4mt . ← Back to Montana Common Sense Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

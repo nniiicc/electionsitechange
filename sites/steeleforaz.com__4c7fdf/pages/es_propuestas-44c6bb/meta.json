@@ -1,7 +1,9 @@
 {
- "description": "Conoce las propuestas de Frank Steele sobre impuestos, educaci\u00f3n, seguridad y gobierno para Arizona.",
+ "description": "Conoce las propuestas de Frank Steele sobre impuestos, educación, seguridad y gobierno para Arizona.",
  "final_url": "https://steeleforaz.com/es/propuestas/",
- "paid_for_by": null,
+ "fingerprint": "134adbf24e847a4c8b9d0824856ebb80defca7c9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Las propuestas de Frank Steele",
  "years_mentioned": []
 }

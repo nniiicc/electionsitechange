@@ -1,10 +1,4 @@
-← Back to Issues
-Strong Family Farms and Clean Water
-We can have both - strong family farms and responsible environmental stewardship.
+Polly Denison For State House District 84 Home Meet Polly Issues Events Contact Donate Home Meet Polly Issues Events Contact Donate ← Back to Issues Strong Family Farms and Clean Water We can have both - strong family farms and responsible environmental stewardship.
 Polly supports public investment in more diverse and sustainable rural landscapes and stronger penalties for polluters.
-Polly’s Plan
-- Incentivizing the production of alternative crops and livestock systems
-- Returning zoning authority to the counties for local control over livestock systems
-- Investing in public parks and conservation of critical water sources
-Support Polly's fight for strong family farms and clean water.
-Donate Now
+Polly’s Plan Incentivizing the production of alternative crops and livestock systems Returning zoning authority to the counties for local control over livestock systems Investing in public parks and conservation of critical water sources Support Polly's fight for strong family farms and clean water.
+Donate Now Polly Denison For State House District 84 7170 21st Avenue Van Horne, IA 52346 pollydenisonforiowa@gmail.com Quick Links Home Meet Polly Issues Events Contact Connect Donate Now Scan to donate Paid for by Polly Denison for Iowa. © # All rights reserved.

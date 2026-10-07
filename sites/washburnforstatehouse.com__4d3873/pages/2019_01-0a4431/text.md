@@ -1,8 +1,7 @@
-by Dale Washburn | Jan 29, 2019 | News
-The House reconvened Tuesday, January 22 for the second week of the 2019 Legislative Session.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page 2019 Legislative Session Week Two by Dale Washburn | Jan 29, 2019 | News The House reconvened Tuesday, January 22 for the second week of the 2019 Legislative Session.
 This week, the House and the Senate held joint Appropriations Committee hearings on this year’s budget.
 I have listed some key highlights of the AFY 2019 and FY 2020 budget...
-by Dale Washburn | Jan 22, 2019 | News
-The 2019 Legislative Session of the Georgia General Assembly officially began on Monday, January 14, 2019.
+2019 Legislative Session Week One by Dale Washburn | Jan 22, 2019 | News The 2019 Legislative Session of the Georgia General Assembly officially began on Monday, January 14, 2019.
 During the past week, my colleagues and I completed legislative days 1-4 which leave us with just 36 days remaining for this legislative session.
 We are prepared...
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

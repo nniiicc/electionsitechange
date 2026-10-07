@@ -1,9 +1,30 @@
 [
-"https://campaignpartner.com/",
-"https://markbornformn.com/",
-"https://markbornformn.com/contact-2",
-"https://markbornformn.com/contribute",
-"https://markbornformn.com/home",
-"https://markbornformn.com/meet_mark",
-"https://markbornformn.com/volunteer"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://markbornformn.com/contact-2"
+},
+{
+"text": "Contribute",
+"href": "https://markbornformn.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://markbornformn.com/home"
+},
+{
+"text": "Meet Mark",
+"href": "https://markbornformn.com/meet_mark"
+},
+{
+"text": "Volunteer",
+"href": "https://markbornformn.com/volunteer"
+},
+{
+"text": "[image: Mark Born for House of Representatives in District 66A]",
+"href": "https://markbornformn.com/"
+}
 ]

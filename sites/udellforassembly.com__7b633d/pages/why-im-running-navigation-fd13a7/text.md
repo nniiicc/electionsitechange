@@ -1,5 +1,4 @@
-Why I’m Running
-My deeply held belief, and my experience in local government, is that government works best when we bring people together to solve tough problems.
+0 Skip to Content Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Folder: Bio Back Bio Bio de Randy Udell Folder: Why I'm Running Back Why I'm Running Porque Me Estoy Postulando Folder: Issues Back Issues Sobre Los Temas Endorsements 47th District Contact Contribute Why I’m Running My deeply held belief, and my experience in local government, is that government works best when we bring people together to solve tough problems.
 I want to continue bringing those values to the State Assembly.
 When my husband Brad and I moved to Seminole Forest twenty-eight years ago, we fell in love with the Fitchburg area.
 We cherish Fitchburg’s vibrant culture, the blend of urban and rural environments, our beautiful parks, and—above all—the caring and engaged residents who live here.
@@ -15,3 +14,4 @@ As a District 4 alderperson and Dane County Board Supervisor, I have focused on 
 My style involves listening more than I talk - I consider all points of view and collaborate to find the best solutions.
 I ask for your support to continue representing District 47 on Tuesday, November 3rd.
 Let's keep moving District 47 and the state forward, together!
+Randy’s Blueprint for Wisconsin ON THE ISSUES FOLLOW ALONG Contact CONTRIBUTE Paid for by the Committee to Elect Randy Udell © # Committee to elect randy udell — All Rights Reserved photos of randy with politicians and other public figures does not imply an endorsement or affiliation

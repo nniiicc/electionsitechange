@@ -1,4 +1,4 @@
-James is an eighth-generation Texan, former middle school teacher, and Presbyterian seminarian.
+Skip to main content Skip to footer Meet James Why I’m Running Issues Events Volunteer Store Contribute Meet James Why I’m Running Issues Events Volunteer Store Contribute Contribute Meet James Talarico James is an eighth-generation Texan, former middle school teacher, and Presbyterian seminarian.
 As a state representative, he’s led the fight against the billionaire mega-donors and puppet politicians who have taken over Texas.
 Now, he’s running for U.S.
 Senate to take his fight against corruption to Washington and win power back for working people.
@@ -22,3 +22,15 @@ Now, as those same billionaire mega-donors take over the federal government, we 
 That’s what my mom showed me on the eastside of Austin.
 That’s what my students showed me on the westside of San Antonio.
 And together, that is what Texans will show the country in 2026.
+Why I’m Running Join Our fight to Take Power back for working People.
+Not ?
+Click here.
+First name * Last name Email address * ZIP Code * Postal code Mobile phone SIGN UP By providing your cell phone number, you consent to receive periodic campaign updates and fundraising asks from Talarico for Texas, including by automated text message.
+Messages include donation asks.
+Message frequency varies.
+Msg & Data rates may apply.
+Text HELP for help, STOP to end.
+Terms & Privacy policy .
+Meet James Why I’m Running Issues Events Volunteer Store Donate Careers Donate by Mail Talarico for Texas PO Box 14508 Austin, TX 78761 Press Inquiries Contact Us Information Paid for by Talarico for Texas ©# Talarico for Texas.
+All Rights Reserved.
+Privacy & Terms

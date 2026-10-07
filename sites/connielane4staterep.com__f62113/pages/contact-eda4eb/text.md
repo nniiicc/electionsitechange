@@ -1,8 +1,1 @@
-Contact Connie
-I'd like to hear from you about what you'd like accomplished by
-our legislature.
-connielane4houserep@gmail.com
-Campaign to Elect Connie Lane
-34-1 Cabernet Drive
-Concord, NH 03303
-Connie Lane, Fiscal Agent
+Connie Lane - Merrimack District 16 About Connie Priorities News Volunteer Contact Donate About Connie Priorities News Volunteer Contact Connie Lane - Merrimack District 16 Donate Contact Connie I'd like to hear from you about what you'd like accomplished by our legislature. connielane4houserep@gmail.com Campaign to Elect Connie Lane 34-1 Cabernet Drive Concord, NH 03303 Connie Lane, Fiscal Agent © # Impact (603) 491-7379 connielane4staterep@gmail.com Powered by: Squarespace Photography by: www.jpuzaphoto.com and www.bryanjohnsonphotos.com Info Meet Connie Priorities News Paid for by: Campaign to Elect Connie Lane by Connie Lane, Fiscal Agent Action Volunteer Contact Donate

@@ -1,40 +1,202 @@
 [
-"http://eepurl.com/h9YzzL",
-"http://google.com/calendar/event?action=TEMPLATE&text=CEA+Canvass&dates=20261017T160000Z%2F20261017T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=House+District+28+Day+at+the+Capitol&dates=20260422T150000Z%2F20260422T200000Z&location=200+East+Colfax+Avenue%2C+Denver%2C+CO%2C+80203%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+with+the+Story+Campaign+%28HD-25%29&dates=20261003T150000Z%2F20261003T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=May+Town+Hall+&dates=20260516T200000Z%2F20260516T213000Z&location=433+South+Allison+Parkway%2C+Lakewood%2C+CO%2C+80226%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall&dates=20260418T153000Z%2F20260418T170000Z&location=7706+West+Bowles+Avenue%2C+Littleton%2C+CO%2C+80123%2C+United+States",
-"http://maps.google.com/?q=200+East+Colfax+Avenue+Denver%2C+CO%2C+80203+United+States",
-"http://maps.google.com/?q=433+South+Allison+Parkway+Lakewood%2C+CO%2C+80226+United+States",
-"http://maps.google.com/?q=7706+West+Bowles+Avenue+Littleton%2C+CO%2C+80123+United+States",
-"https://facebook.com/share/1BjJugqn7n?mibextid=wwXIfr",
-"https://forms.gle/j78a3Nyknc28JQj1A",
-"https://forms.gle/osYv22WmFRXJXym3A",
-"https://instagram.com/rep_sheila_lieder?igsh=c2U1cmc2dmNicWlr",
-"https://liederforcolorado.com/",
-"https://liederforcolorado.com/2023-2024",
-"https://liederforcolorado.com/2025",
-"https://liederforcolorado.com/2026",
-"https://liederforcolorado.com/capitol",
-"https://liederforcolorado.com/cart",
-"https://liederforcolorado.com/contact-7",
-"https://liederforcolorado.com/endorsements",
-"https://liederforcolorado.com/events",
-"https://liederforcolorado.com/events/cea-canvass",
-"https://liederforcolorado.com/events/cea-canvass?format=ical",
-"https://liederforcolorado.com/events/house-district-28-day-at-the-capitol",
-"https://liederforcolorado.com/events/house-district-28-day-at-the-capitol?format=ical",
-"https://liederforcolorado.com/events/joint-canvass-with-the-story-campaign-hd-30",
-"https://liederforcolorado.com/events/joint-canvass-with-the-story-campaign-hd-30?format=ical",
-"https://liederforcolorado.com/events/may-town-hall",
-"https://liederforcolorado.com/events/may-town-hall?format=ical",
-"https://liederforcolorado.com/events/town-hall",
-"https://liederforcolorado.com/events/town-hall?format=ical",
-"https://liederforcolorado.com/hd28map",
-"https://liederforcolorado.com/meetsheila",
-"https://liederforcolorado.com/new-dropdown",
-"https://secure.actblue.com/donate/lieder-for-colorado-2",
-"https://secure.actblue.com/donate/liederforcolorado",
-"https://x.com/lieder4co?s=11"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=200+east+colfax+avenue+denver%2C+co%2C+80203+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=433+south+allison+parkway+lakewood%2C+co%2C+80226+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7706+west+bowles+avenue+littleton%2C+co%2C+80123+united+states"
+},
+{
+"text": "0",
+"href": "https://www.liederforcolorado.com/cart"
+},
+{
+"text": "2023 - 2024",
+"href": "https://www.liederforcolorado.com/2023-2024"
+},
+{
+"text": "2025",
+"href": "https://www.liederforcolorado.com/2025"
+},
+{
+"text": "2026",
+"href": "https://www.liederforcolorado.com/2026"
+},
+{
+"text": "About Sheila",
+"href": "https://www.liederforcolorado.com/meetsheila"
+},
+{
+"text": "Back",
+"href": "https://www.liederforcolorado.com/"
+},
+{
+"text": "CEA Canvass",
+"href": "https://www.liederforcolorado.com/events/cea-canvass"
+},
+{
+"text": "Contact",
+"href": "https://www.liederforcolorado.com/contact-7"
+},
+{
+"text": "District Map HD28",
+"href": "https://www.liederforcolorado.com/hd28map"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lieder-for-colorado-2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/liederforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.liederforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.liederforcolorado.com/events"
+},
+{
+"text": "Folder: Campaign",
+"href": "https://www.liederforcolorado.com/new-dropdown"
+},
+{
+"text": "Folder: Capitol",
+"href": "https://www.liederforcolorado.com/capitol"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=CEA+Canvass&dates=20261017T160000Z%2F20261017T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=House+District+28+Day+at+the+Capitol&dates=20260422T150000Z%2F20260422T200000Z&location=200+East+Colfax+Avenue%2C+Denver%2C+CO%2C+80203%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+with+the+Story+Campaign+%28HD-25%29&dates=20261003T150000Z%2F20261003T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=May+Town+Hall+&dates=20260516T200000Z%2F20260516T213000Z&location=433+South+Allison+Parkway%2C+Lakewood%2C+CO%2C+80226%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall&dates=20260418T153000Z%2F20260418T170000Z&location=7706+West+Bowles+Avenue%2C+Littleton%2C+CO%2C+80123%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.liederforcolorado.com/"
+},
+{
+"text": "House District 28 Day at the Capitol",
+"href": "https://www.liederforcolorado.com/events/house-district-28-day-at-the-capitol"
+},
+{
+"text": "ICS",
+"href": "https://www.liederforcolorado.com/events/cea-canvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.liederforcolorado.com/events/house-district-28-day-at-the-capitol?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.liederforcolorado.com/events/joint-canvass-with-the-story-campaign-hd-30?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.liederforcolorado.com/events/may-town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.liederforcolorado.com/events/town-hall?format=ical"
+},
+{
+"text": "Joint Canvass with the Story Campaign (HD-25)",
+"href": "https://www.liederforcolorado.com/events/joint-canvass-with-the-story-campaign-hd-30"
+},
+{
+"text": "May Town Hall",
+"href": "https://www.liederforcolorado.com/events/may-town-hall"
+},
+{
+"text": "Newsletter",
+"href": "http://eepurl.com/h9YzzL"
+},
+{
+"text": "Town Hall",
+"href": "https://www.liederforcolorado.com/events/town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.liederforcolorado.com/events/cea-canvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.liederforcolorado.com/events/house-district-28-day-at-the-capitol"
+},
+{
+"text": "View Event →",
+"href": "https://www.liederforcolorado.com/events/joint-canvass-with-the-story-campaign-hd-30"
+},
+{
+"text": "View Event →",
+"href": "https://www.liederforcolorado.com/events/may-town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.liederforcolorado.com/events/town-hall"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/osYv22WmFRXJXym3A"
+},
+{
+"text": "[image: House District 28 Day at the Capitol]",
+"href": "https://www.liederforcolorado.com/events/house-district-28-day-at-the-capitol"
+},
+{
+"text": "[image: Joint Canvass with the Story Campaign (HD-25)]",
+"href": "https://www.liederforcolorado.com/events/joint-canvass-with-the-story-campaign-hd-30"
+},
+{
+"text": "[image: Lieder For Colorado]",
+"href": "https://www.liederforcolorado.com/"
+},
+{
+"text": "[image: May Town Hall ]",
+"href": "https://www.liederforcolorado.com/events/may-town-hall"
+},
+{
+"text": "[image: Town Hall]",
+"href": "https://www.liederforcolorado.com/events/town-hall"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BjJugqn7n/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rep_sheila_lieder?igsh=c2U1cmc2dmNicWlr"
+},
+{
+"text": "[no text]",
+"href": "https://www.liederforcolorado.com/events/cea-canvass"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/lieder4co?s=11"
+},
+{
+"text": "https://forms.gle/j78a3Nyknc28JQj1A",
+"href": "https://forms.gle/j78a3Nyknc28JQj1A"
+}
 ]

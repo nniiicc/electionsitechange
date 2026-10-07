@@ -1,5 +1,18 @@
 [
-"https://judgebond.com/",
-"https://judgebond.com/about",
-"https://judgebond.com/cart"
+{
+"text": "0",
+"href": "https://www.judgebond.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.judgebond.com/about"
+},
+{
+"text": "Home",
+"href": "https://www.judgebond.com/"
+},
+{
+"text": "[image: Judge Rachel Bond]",
+"href": "https://www.judgebond.com/"
+}
 ]

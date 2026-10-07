@@ -1,4 +1,4 @@
-There are many reasons to oppose AI.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles News and Articles / That's enough of this AI nonsense 9 Sep Wednesday, 6:09 PM · 2026 That's enough of this AI nonsense There are many reasons to oppose AI.
 For morality; I believe it devalues truth.
 For our humanity; it destroys, degrades, steals, and insults human art, endeavor, and accomplishment.
 For our minds; generative AI is behavioral lead poisoning.
@@ -45,3 +45,4 @@ Ban any use of AI in grade school, as well as in government and by public employ
 It’s been pretty popular this year in the state legislature to quote Billy Preston with “Nothing from nothing leaves nothing”, when trying to sell us on AI centered economic development.
 But I say instead of rushing headlong into this nonsense because everyone else is, let’s take some advice from George Harrison.
 Think for yourself.
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

@@ -1,4 +1,4 @@
-Maura is a mother, activist, community organizer, and former elementary educator.
+About Issues Events Vote Donate Contact Back Maura's Story Illinois District 49 Back Contact Maura Volunteer Yard Signs Candidate Endorsement Questionnaire Media Resources About Maura's Story Illinois District 49 Issues Events Vote Donate Contact Contact Maura Volunteer Yard Signs Candidate Endorsement Questionnaire Media Resources Candidate for 2020 Illinois House of Representative District 49 It has all led to this… Maura’s Story Maura is a mother, activist, community organizer, and former elementary educator.
 She and her husband, Jim, have three children, Emma, Maggie, and Teddy.
 The family made Batavia their home in 2010 when Jim accepted a job as a physicist at Fermilab.
 The Hirschauers quickly fell in love with the beauty and the close-knit communities of the Fox Valley and feel fortunate to have the opportunity to raise their family in the 49th District.
@@ -23,3 +23,6 @@ During the 2018 election the Hirschauers knocked on countless doors for capable,
 Emma, Maggie, and Teddy were campaign office regulars and became enamored with the energy and excitement of political life.
 This year the entire family is ready to knock on doors for their mom.
 They are excited and ready to share her voice with the people of the 49th District.
+Friends of Maura Hirschauer Batavia, IL, United States hello@votemaura.com Hours Join Team Maura volunteer registration email Facebook Instagram Twitter YouTube A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Contributions to Friends of Maura Hirschauer are not tax deductible.
+Privacy Policy

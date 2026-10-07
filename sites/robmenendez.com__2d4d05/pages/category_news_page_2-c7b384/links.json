@@ -1,34 +1,182 @@
 [
-"https://bsky.app/profile/robmenendez.com",
-"https://facebook.com/RobMenendez4NJ",
-"https://instagram.com/robmenendez4nj",
-"https://robmenendez.com/",
-"https://robmenendez.com/2024/08/24/statement-on-pou-candidacy-for-new-jerseys-ninth-congressional-district-from-rep-rob-menendez",
-"https://robmenendez.com/2024/09/03/health-professionals-and-allied-employees-hpae-endorses-congressman-rob-menendez-for-re-election-in-2024",
-"https://robmenendez.com/2024/09/30/rob-menendez-leans-in-to-fight-to-take-back-the-house-of-representatives-with-200k-in-support-for-house-democrats",
-"https://robmenendez.com/2024/10/08/planned-parenthood-action-fund-endorses-congressman-rob-menendez-for-re-election-to-the-u-s-house-of-representatives",
-"https://robmenendez.com/2024/11/06/thank-you-message",
-"https://robmenendez.com/2025/03/03/congressman-rob-menendez-in-leadership-roles-to-deliver-a-democratic-majority-in-2026",
-"https://robmenendez.com/2026/01/06/2bj-seiu-endorses-congressman-rob-menendez-for-re-election",
-"https://robmenendez.com/2026/01/07/hotel-and-gaming-trades-council-endorses-congressman-rob-menendez-for-re-election",
-"https://robmenendez.com/2026/01/08/hudson-county-executive-craig-guy-senator-mayor-brian-stack-and-hudson-county-mayors-endorse-congressman-rob-menendez-for-re-election",
-"https://robmenendez.com/2026/01/16/release-congresswomen-bonnie-watson-coleman-and-lamonica-mciver-endorse-congressman-rob-menendez-for-re-election",
-"https://robmenendez.com/accessibility-statement",
-"https://robmenendez.com/category/news",
-"https://robmenendez.com/category/news/page/1",
-"https://robmenendez.com/category/news/page/12",
-"https://robmenendez.com/category/news/page/3",
-"https://robmenendez.com/category/news/page/4",
-"https://robmenendez.com/category/news/page/5",
-"https://robmenendez.com/cdn-cgi/l/email-protection",
-"https://robmenendez.com/endorsements-2",
-"https://robmenendez.com/get-involved",
-"https://robmenendez.com/meet-rob",
-"https://robmenendez.com/priorities",
-"https://robmenendez.com/privacy-policy",
-"https://robmenendez.com/votinginfo",
-"https://robmenendez.com/what-voters-need-to-know",
-"https://secure.actblue.com/donate/robmenendez-website",
-"https://threads.net/@robmenendez4nj",
-"https://twitter.com/RobMenendez4NJ"
+{
+"text": "1",
+"href": "https://www.robmenendez.com/category/news/page/1/"
+},
+{
+"text": "12",
+"href": "https://www.robmenendez.com/category/news/page/12/"
+},
+{
+"text": "3",
+"href": "https://www.robmenendez.com/category/news/page/3/"
+},
+{
+"text": "32BJ SEIU Endorses Congressman Rob Menendez for Re-Election",
+"href": "https://www.robmenendez.com/2026/01/06/2bj-seiu-endorses-congressman-rob-menendez-for-re-election/"
+},
+{
+"text": "4",
+"href": "https://www.robmenendez.com/category/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://www.robmenendez.com/category/news/page/5/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.robmenendez.com/accessibility-statement/"
+},
+{
+"text": "Congressman Rob Menendez in Leadership Roles to Deliver a Democratic Majority in 2026",
+"href": "https://www.robmenendez.com/2025/03/03/congressman-rob-menendez-in-leadership-roles-to-deliver-a-democratic-majority-in-2026/"
+},
+{
+"text": "Congresswomen Bonnie Watson Coleman and LaMonica McIver Endorse Congressman Rob Menendez for Re-Election",
+"href": "https://www.robmenendez.com/2026/01/16/release-congresswomen-bonnie-watson-coleman-and-lamonica-mciver-endorse-congressman-rob-menendez-for-re-election/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/robmenendez-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robmenendez.com/endorsements-2/"
+},
+{
+"text": "Follow on bluesky",
+"href": "https://bsky.app/profile/robmenendez.com"
+},
+{
+"text": "Follow on facebook",
+"href": "https://www.facebook.com/RobMenendez4NJ"
+},
+{
+"text": "Follow on instagram",
+"href": "https://www.instagram.com/robmenendez4nj/"
+},
+{
+"text": "Follow on threads",
+"href": "https://www.threads.net/@robmenendez4nj"
+},
+{
+"text": "Follow on twitter",
+"href": "https://twitter.com/RobMenendez4NJ"
+},
+{
+"text": "Get Involved",
+"href": "https://www.robmenendez.com/get-involved/"
+},
+{
+"text": "Health Professionals and Allied Employees (HPAE) Endorses Congressman Rob Menendez for Re-Election in 2024",
+"href": "https://www.robmenendez.com/2024/09/03/health-professionals-and-allied-employees-hpae-endorses-congressman-rob-menendez-for-re-election-in-2024/"
+},
+{
+"text": "Hotel and Gaming Trades Council Endorses Congressman Rob Menendez for Re-Election",
+"href": "https://www.robmenendez.com/2026/01/07/hotel-and-gaming-trades-council-endorses-congressman-rob-menendez-for-re-election/"
+},
+{
+"text": "Hudson County Executive Craig Guy, Senator/Mayor Brian Stack, and Hudson County Mayors Endorse Congressman Rob Menendez for Re-Election",
+"href": "https://www.robmenendez.com/2026/01/08/hudson-county-executive-craig-guy-senator-mayor-brian-stack-and-hudson-county-mayors-endorse-congressman-rob-menendez-for-re-election/"
+},
+{
+"text": "Latest News",
+"href": "https://www.robmenendez.com/category/news/"
+},
+{
+"text": "Meet Rob",
+"href": "https://www.robmenendez.com/meet-rob/"
+},
+{
+"text": "Planned Parenthood Action Fund Endorses Congressman Rob Menendez for Re-Election to the U.S. House of Representatives",
+"href": "https://www.robmenendez.com/2024/10/08/planned-parenthood-action-fund-endorses-congressman-rob-menendez-for-re-election-to-the-u-s-house-of-representatives/"
+},
+{
+"text": "Priorities",
+"href": "https://www.robmenendez.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robmenendez.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/08/24/statement-on-pou-candidacy-for-new-jerseys-ninth-congressional-district-from-rep-rob-menendez/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/09/03/health-professionals-and-allied-employees-hpae-endorses-congressman-rob-menendez-for-re-election-in-2024/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/09/30/rob-menendez-leans-in-to-fight-to-take-back-the-house-of-representatives-with-200k-in-support-for-house-democrats/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/10/08/planned-parenthood-action-fund-endorses-congressman-rob-menendez-for-re-election-to-the-u-s-house-of-representatives/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2024/11/06/thank-you-message/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2025/03/03/congressman-rob-menendez-in-leadership-roles-to-deliver-a-democratic-majority-in-2026/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2026/01/06/2bj-seiu-endorses-congressman-rob-menendez-for-re-election/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2026/01/07/hotel-and-gaming-trades-council-endorses-congressman-rob-menendez-for-re-election/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2026/01/08/hudson-county-executive-craig-guy-senator-mayor-brian-stack-and-hudson-county-mayors-endorse-congressman-rob-menendez-for-re-election/"
+},
+{
+"text": "Read More",
+"href": "https://www.robmenendez.com/2026/01/16/release-congresswomen-bonnie-watson-coleman-and-lamonica-mciver-endorse-congressman-rob-menendez-for-re-election/"
+},
+{
+"text": "Rob Menendez Leans in to Fight to Take Back the House of Representatives with $200K in Support for House Democrats",
+"href": "https://www.robmenendez.com/2024/09/30/rob-menendez-leans-in-to-fight-to-take-back-the-house-of-representatives-with-200k-in-support-for-house-democrats/"
+},
+{
+"text": "Statement on Pou Candidacy for New Jersey’s Ninth Congressional District from Rep. Rob Menendez",
+"href": "https://www.robmenendez.com/2024/08/24/statement-on-pou-candidacy-for-new-jerseys-ninth-congressional-district-from-rep-rob-menendez/"
+},
+{
+"text": "Thank You",
+"href": "https://www.robmenendez.com/2024/11/06/thank-you-message/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.robmenendez.com/votinginfo/"
+},
+{
+"text": "What Voters Need to Know",
+"href": "https://www.robmenendez.com/what-voters-need-to-know/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@robmenendez.com"
+},
+{
+"text": "[image: Logo for Rob Menendez]",
+"href": "https://www.robmenendez.com"
+},
+{
+"text": "[image: Rob Menendez: Our Congressman. For our toughest fights.]",
+"href": "https://www.robmenendez.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.robmenendez.com/category/news/page/1/"
+},
+{
+"text": "[no text]",
+"href": "https://www.robmenendez.com/category/news/page/3/"
+}
 ]

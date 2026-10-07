@@ -1,57 +1,234 @@
 [
-"http://blackboxvoting.org/the-case-of-dr-laura-pressley",
-"http://columbian.com/news/2012/jan/22/political-parties-not-private-organizations",
-"http://gp.org/democracy_2016",
-"http://search.txcourts.gov/Case.aspx?cn=17-0052&coa=cossup",
-"https://bbc.com/news/world-us-canada-43597908",
-"https://brilliantmaps.com/did-not-vote",
-"https://caselaw.findlaw.com/tx-supreme-court/1573066.html",
-"https://caselaw.findlaw.com/us-supreme-court/479/208.html",
-"https://caselaw.findlaw.com/us-supreme-court/544/581.html",
-"https://counterpunch.org/2018/03/12/democrats-and-the-crisis-of-legitimacy",
-"https://courthousenews.com/texas-ag-continues-crusade-against-voter-fraud",
-"https://discord.com/login",
-"https://environmentamerica.org/texas/articles/data-center-moratorium-now",
-"https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows",
-"https://feeds.texastribune.org/link/16799/17489722/ken-paxton-third-quarter-fundraising-texas-senate-race-2026",
-"https://feeds.texastribune.org/link/16799/17489834/vote-2",
-"https://gcn.com/articles/2016/08/17/dhs-voting-security.aspx",
-"https://greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school",
-"https://greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade",
-"https://instagram.com/kevinmccormick2026",
-"https://ivn.us/2017/08/08/third-party-candidates-fight-against-mafia-state-duopoly",
-"https://kmm2026.org/",
-"https://kmm2026.org/2016campaign",
-"https://kmm2026.org/about",
-"https://kmm2026.org/business-cards",
-"https://kmm2026.org/campaign2026",
-"https://kmm2026.org/contact",
-"https://kmm2026.org/donate-now",
-"https://kmm2026.org/issues2026",
-"https://kmm2026.org/issues2026/the-war-on-drugs-promotes-crime",
-"https://kmm2026.org/monetary",
-"https://kmm2026.org/monetary/mrblog",
-"https://kmm2026.org/transportation",
-"https://leagle.com/decision/19741182415us76711148",
-"https://nakedcapitalism.com/2017/04/want-know-democratic-party-just-ask-lawyer.html",
-"https://publicaffairsbooks.com/titles/bruce-bueno-de-mesquita/the-dictators-handbook/9781610390453",
-"https://reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica",
-"https://reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols",
-"https://rollingstone.com/politics/politics-features/the-gops-stealth-war-against-voters-247905",
-"https://secure.facebook.com/login",
-"https://statutes.capitol.texas.gov/?link=EL",
-"https://statutes.capitol.texas.gov/Docs/CN/htm/CN.1.htm",
-"https://statutes.capitol.texas.gov/Docs/CN/htm/CN.6.htm",
-"https://texasfarmbureau.org/citrus-harvest-set-to-begin-after-hot-dry-summer",
-"https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief",
-"https://texasfarmbureau.org/invasive-pests-threaten-texas-agriculture",
-"https://texastribune.org/2018/03/02/over-13-pro-trump-candidates-money-comes-non-texas-donors-including-pe",
-"https://thetab.com/us/2016/08/12/how-electronic-voting-machines-can-be-faulty-46986",
-"https://tshaonline.org/handbook/online/articles/wmafr",
-"https://usenix.org/legacy/event/evt08/tech/full_papers/butler/butler_html",
-"https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs",
-"https://usrtk.org/covid-19-origins/origin-of-sars-cov-2-gain-of-function-readings",
-"https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity",
-"https://x.com/signin",
-"https://youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+{
+"text": "2016 Campaign",
+"href": "https://www.kmm2026.org/2016campaign"
+},
+{
+"text": "About",
+"href": "https://www.kmm2026.org/about"
+},
+{
+"text": "African Americans and Politics",
+"href": "https://tshaonline.org/handbook/online/articles/wmafr"
+},
+{
+"text": "American Party of Texas v. White",
+"href": "https://www.leagle.com/decision/19741182415us76711148"
+},
+{
+"text": "Andrade v. NAACP of Austin",
+"href": "https://caselaw.findlaw.com/tx-supreme-court/1573066.html"
+},
+{
+"text": "BlackBox Voting",
+"href": "http://blackboxvoting.org/the-case-of-dr-laura-pressley/"
+},
+{
+"text": "Business Card Campaign",
+"href": "https://www.kmm2026.org/business-cards"
+},
+{
+"text": "Campaign Donations",
+"href": "https://www.kmm2026.org/donate-now"
+},
+{
+"text": "Campaign-2026",
+"href": "https://www.kmm2026.org/campaign2026"
+},
+{
+"text": "Clingman v. Beaver",
+"href": "https://caselaw.findlaw.com/us-supreme-court/544/581.html"
+},
+{
+"text": "Contact",
+"href": "https://www.kmm2026.org/contact"
+},
+{
+"text": "Data center moratorium now",
+"href": "https://environmentamerica.org/texas/articles/data-center-moratorium-now/"
+},
+{
+"text": "Democrats and the Crisis of Legitimacy",
+"href": "https://www.counterpunch.org/2018/03/12/democrats-and-the-crisis-of-legitimacy/"
+},
+{
+"text": "Election Code",
+"href": "https://statutes.capitol.texas.gov/?link=EL"
+},
+{
+"text": "FOI documents on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs/"
+},
+{
+"text": "FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-litigation-on-origins-of-sars-cov-2-gain-of-function-2/"
+},
+{
+"text": "Farmers call for federal diesel price relief",
+"href": "https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief/"
+},
+{
+"text": "Home",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "Hormone-disrupting chemical mixtures linked to excess childhood weight",
+"href": "https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity/"
+},
+{
+"text": "Issues-2026",
+"href": "https://www.kmm2026.org/issues2026"
+},
+{
+"text": "MR-Blog",
+"href": "https://www.kmm2026.org/monetary/mrblog"
+},
+{
+"text": "Monetary",
+"href": "https://www.kmm2026.org/monetary"
+},
+{
+"text": "Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica",
+"href": "https://www.reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica/"
+},
+{
+"text": "Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols",
+"href": "https://www.reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols/"
+},
+{
+"text": "Pressley v. Casar",
+"href": "http://www.search.txcourts.gov/Case.aspx?cn=17-0052&coa=cossup"
+},
+{
+"text": "Pressley v. Cosar",
+"href": "http://www.search.txcourts.gov/Case.aspx?cn=17-0052&coa=cossup"
+},
+{
+"text": "Previous article: The War on Drugs Promotes Crime Prev",
+"href": "https://www.kmm2026.org/issues2026/the-war-on-drugs-promotes-crime"
+},
+{
+"text": "PublicAffairs Books",
+"href": "https://www.publicaffairsbooks.com/titles/bruce-bueno-de-mesquita/the-dictators-handbook/9781610390453/"
+},
+{
+"text": "RELEASE: Gas power plant proposals surging, new interactive map shows",
+"href": "https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows/"
+},
+{
+"text": "Reflections on academic tenure prompted by events at The New School",
+"href": "https://www.greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school/"
+},
+{
+"text": "Students discuss ag issues during 2026 SOFA Challenge",
+"href": "https://texasfarmbureau.org/students-discuss-ag-issues-during-2026-sofa-challenge/"
+},
+{
+"text": "Tashjian v. Repubican Party of Connecticut",
+"href": "https://caselaw.findlaw.com/us-supreme-court/479/208.html"
+},
+{
+"text": "Texas Constitution, Article 6, Section 2(c)",
+"href": "https://statutes.capitol.texas.gov/Docs/CN/htm/CN.6.htm"
+},
+{
+"text": "Texas Constitution, Article I, Section 2",
+"href": "https://statutes.capitol.texas.gov/Docs/CN/htm/CN.1.htm"
+},
+{
+"text": "Texas comptroller investigating spending in Austin ISD, other districts",
+"href": "https://feeds.texastribune.org/link/16799/17490892/texas-school-district-spending-review"
+},
+{
+"text": "Texas governor 2026: Who is running and what to know",
+"href": "https://feeds.texastribune.org/link/16799/17490893/texas-governor-2026-guide-abbott-hinojosa"
+},
+{
+"text": "Transportation",
+"href": "https://www.kmm2026.org/transportation"
+},
+{
+"text": "Trump signs order that expands access to tax-exempt diesel",
+"href": "https://texasfarmbureau.org/trump-signs-order-that-expands-access-to-tax-exempt-diesel/"
+},
+{
+"text": "U.S. Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade",
+"href": "https://www.greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade/"
+},
+{
+"text": "[image: acacia farnesiana]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://discord.com/login"
+},
+{
+"text": "[no text]",
+"href": "https://secure.facebook.com/login/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kevinmccormick2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/signin"
+},
+{
+"text": "convictions in Texas",
+"href": "https://www.courthousenews.com/texas-ag-continues-crusade-against-voter-fraud/"
+},
+{
+"text": "crosscheck stratagem",
+"href": "https://www.rollingstone.com/politics/politics-features/the-gops-stealth-war-against-voters-247905/"
+},
+{
+"text": "declining voter participation",
+"href": "https://brilliantmaps.com/did-not-vote/"
+},
+{
+"text": "deep state control",
+"href": "https://gcn.com/articles/2016/08/17/dhs-voting-security.aspx"
+},
+{
+"text": "electoral system reform",
+"href": "http://www.gp.org/democracy_2016"
+},
+{
+"text": "hacked without leaving any evidence",
+"href": "https://www.usenix.org/legacy/event/evt08/tech/full_papers/butler/butler_html/"
+},
+{
+"text": "limiting the candidates",
+"href": "https://ivn.us/2017/08/08/third-party-candidates-fight-against-mafia-state-duopoly/"
+},
+{
+"text": "manage internal participation",
+"href": "https://www.nakedcapitalism.com/2017/04/want-know-democratic-party-just-ask-lawyer.html"
+},
+{
+"text": "private corporations",
+"href": "https://thetab.com/us/2016/08/12/how-electronic-voting-machines-can-be-faulty-46986"
+},
+{
+"text": "public-private status",
+"href": "http://www.columbian.com/news/2012/jan/22/political-parties-not-private-organizations/"
+},
+{
+"text": "simple misunderstandings about eligibility",
+"href": "https://www.bbc.com/news/world-us-canada-43597908"
+},
+{
+"text": "usually try to appear impartial",
+"href": "https://www.texastribune.org/2018/03/02/over-13-pro-trump-candidates-money-comes-non-texas-donors-including-pe/"
+}
 ]

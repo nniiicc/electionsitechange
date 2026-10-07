@@ -1,10 +1,7 @@
-About Judge Birk
-A fifth-generation Washingtonian, Judge Birk has spent his career serving the people of this state—as a Supreme Court law clerk, a trial and appellate lawyer, a longtime pro bono volunteer, and now as an appellate judge trusted to decide complex cases from every corner of Washington.
+About Judge Birk Endorsements Values News Get Involved Endorse Donate About Judge Birk Endorsements Values News Get Involved Endorse Donate About Judge Birk A fifth-generation Washingtonian, Judge Birk has spent his career serving the people of this state—as a Supreme Court law clerk, a trial and appellate lawyer, a longtime pro bono volunteer, and now as an appellate judge trusted to decide complex cases from every corner of Washington.
 Judge Birk serves on Division I of the Washington State Court of Appeals, where he was appointed in 2022 and elected by the voters later that year without opposition.
 As a Court of Appeals judge, Judge Birk has authored more than 200 opinions and participated in hundreds of additional appellate decisions across civil, criminal, family, administrative, and constitutional law.
-He has sat in all three divisions of the Court of Appeals—Seattle, Tacoma, and Spokane—giving him statewide perspective on how the law is applied in diverse communities
-He brings to the bench more than twenty years of experience as a civil litigator, appellate advocate, and Supreme Court law clerk, along with a deep commitment to fairness, independence, and equal treatment under the law
-Before joining the Court of Appeals, Judge Birk spent two decades in private practice, most recently as a partner at Keller Rohrback LLP.
+He has sat in all three divisions of the Court of Appeals—Seattle, Tacoma, and Spokane—giving him statewide perspective on how the law is applied in diverse communities He brings to the bench more than twenty years of experience as a civil litigator, appellate advocate, and Supreme Court law clerk, along with a deep commitment to fairness, independence, and equal treatment under the law Before joining the Court of Appeals, Judge Birk spent two decades in private practice, most recently as a partner at Keller Rohrback LLP.
 His work focused on representing individuals, families, and small businesses—often against powerful corporate interests—in cases involving insurance claims, consumer protection, workplace discrimination, and complex civil litigation.
 He tried cases to verdict across Washington and argued appeals before all three divisions of the Court of Appeals and the Washington State Supreme Court.
 Throughout his career, Judge Birk has worked to ensure that the courts remain open and fair to everyone—regardless of wealth, background, or circumstance.
@@ -16,3 +13,4 @@ After law school, he clerked for the Washington State Supreme Court, gaining fir
 Judge Birk is a fifth-generation Washingtonian and a lifelong resident of the state.
 He lives in Seattle with his wife and partner of more than 30 years.
 His deep roots in Washington—and his appreciation for the opportunities the state has provided—continue to shape his commitment to public service.
+Paid for by Birk for Justice PO Box 27113, Seattle, WA 98165

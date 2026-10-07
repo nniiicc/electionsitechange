@@ -1,4 +1,4 @@
-| As a physics teacher, I used to give an assignment that asked students to do an informal energy assessment of their own homes using resources from Efficiency Vermont.
+A Closer Look at Issues Meet Anne How to Vote Issues In the Press Volunteer Donate & Support Blog Events 3/7/2023 S.5 The Affordable Heat Act Read Now As a physics teacher, I used to give an assignment that asked students to do an informal energy assessment of their own homes using resources from Efficiency Vermont.
 We would have honest conversations about the challenges, solutions, and questions students had about heating their homes.
 For me, Vermont’s heating challenges are not an abstraction.
 Families need support to make their heating bills more affordable.
@@ -43,6 +43,8 @@ And who will be paying those costs?
 Our children.
 We can no longer shirk our carbon pollution responsibility.
 Most of us need help to make the transition off of carbon, and this bill will provide that help.
-Please join me in supporting the Affordable Heat Act. | Details Author Write something about yourself.
+Please join me in supporting the Affordable Heat Act.
+Share Comments are closed.
+Details Author Write something about yourself.
 No need to be fancy, just an overview.
-Archives Categories Paid For By Anne Watson For Vermont Senate, PO Box 120, Barre City, VT |
+Archives June 2026 June 2024 May 2024 January 2024 March 2023 Categories All RSS Feed Paid For By Anne Watson For Vermont Senate, PO Box 120, Barre City, VT Proudly powered by Weebly Meet Anne How to Vote Issues In the Press Volunteer Donate & Support Blog Events

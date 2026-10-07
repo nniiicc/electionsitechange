@@ -1,38 +1,146 @@
 [
-"https://facebook.com/MikeOdioso",
-"https://legislature.ohio.gov/legislation/136/hb127",
-"https://legislature.ohio.gov/legislation/136/hb565",
-"https://odiosoforohio.com/",
-"https://odiosoforohio.com/contact",
-"https://odiosoforohio.com/deliveringresults",
-"https://odiosoforohio.com/getinvolved",
-"https://odiosoforohio.com/meetmike",
-"https://odiosoforohio.com/news",
-"https://odiosoforohio.com/privacypolicy",
-"https://odiosoforohio.com/tos",
-"https://ohiohouse.gov/legislation/136/hb144",
-"https://ohiohouse.gov/legislation/136/hb23",
-"https://ohiohouse.gov/legislation/136/hb3",
-"https://ohiohouse.gov/legislation/136/hb386",
-"https://ohiohouse.gov/legislation/136/hb47",
-"https://ohiohouse.gov/legislation/136/hb484",
-"https://ohiohouse.gov/legislation/136/hb5",
-"https://ohiohouse.gov/legislation/136/hb505",
-"https://ohiohouse.gov/legislation/136/hb581",
-"https://ohiohouse.gov/legislation/136/hb585",
-"https://ohiohouse.gov/legislation/136/hb587",
-"https://ohiohouse.gov/legislation/136/hb594",
-"https://ohiohouse.gov/legislation/136/hb728",
-"https://ohiohouse.gov/legislation/136/hb88",
-"https://ohiohouse.gov/legislation/136/hb91",
-"https://ohiohouse.gov/members/mike-odioso/news/representatives-odioso-dovilla-highlight-legislation-to-expand-inspector-generals-search-warrant-authority-143066",
-"https://ohiohouse.gov/members/mike-odioso/news/reps-bird-odioso-introduce-legislation-to-protect-middle-and-high-school-students-ban-nil-deals-141894",
-"https://ohiohouse.gov/members/mike-odioso/news/reps-manning-and-odioso-introduce-house-bill-715-142364",
-"https://ohiohouse.gov/members/mike-odioso/news/reps-odioso-lett-announce-creation-of-the-developmental-disabilities-legislative-caucus-144519",
-"https://ohiohouse.gov/members/mike-odioso/news/state-representatives-mike-odioso-mark-sigrist-highlight-legislation-to-strengthen-pedestrian-safety-and-clarify-vehicular-assault-laws-142627",
-"https://ohiohouse.gov/members/mike-odioso/news/white-odioso-introduce-bill-to-ensure-ohios-youngest-children-have-access-to-early-intervention-145281",
-"https://ohiohouse.gov/news/republican/ohio-house-passes-she-wins-act-143041",
-"https://ohiohouse.gov/news/republican/representatives-odioso-and-adam-mathews-announce-passage-of-bill-clarifying-ohio-law-on-court-procedures-138951",
-"https://secure.anedot.com/mike-odioso-for-ohio/donate",
-"https://twitter.com/mikeodioso"
+{
+"text": "CONTACT",
+"href": "https://www.odiosoforohio.com/contact"
+},
+{
+"text": "DELIVERING RESULTS",
+"href": "https://www.odiosoforohio.com/deliveringresults"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mike-odioso-for-ohio/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.odiosoforohio.com/getinvolved"
+},
+{
+"text": "MEET MIKE",
+"href": "https://www.odiosoforohio.com/meetmike"
+},
+{
+"text": "NEWS",
+"href": "https://www.odiosoforohio.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.odiosoforohio.com/privacypolicy"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb144"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb23"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb3"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb386"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb47"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb484"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb5"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb505"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb581"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb585"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb587"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb594"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb728"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb88"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/legislation/136/hb91"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/representatives-odioso-dovilla-highlight-legislation-to-expand-inspector-generals-search-warrant-authority-143066"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/reps-bird-odioso-introduce-legislation-to-protect-middle-and-high-school-students-ban-nil-deals-141894"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/reps-manning-and-odioso-introduce-house-bill-715-142364"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/reps-odioso-lett-announce-creation-of-the-developmental-disabilities-legislative-caucus-144519"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/state-representatives-mike-odioso-mark-sigrist-highlight-legislation-to-strengthen-pedestrian-safety-and-clarify-vehicular-assault-laws-142627"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/members/mike-odioso/news/white-odioso-introduce-bill-to-ensure-ohios-youngest-children-have-access-to-early-intervention-145281"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/news/republican/ohio-house-passes-she-wins-act-143041"
+},
+{
+"text": "Read More >>>",
+"href": "https://ohiohouse.gov/news/republican/representatives-odioso-and-adam-mathews-announce-passage-of-bill-clarifying-ohio-law-on-court-procedures-138951"
+},
+{
+"text": "Read More >>>",
+"href": "https://www.legislature.ohio.gov/legislation/136/hb127"
+},
+{
+"text": "Read More >>>",
+"href": "https://www.legislature.ohio.gov/legislation/136/hb565"
+},
+{
+"text": "TERMS OF SERVICE",
+"href": "https://www.odiosoforohio.com/tos"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MikeOdioso/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/mikeodioso"
+},
+{
+"text": "[no text]",
+"href": "https://www.odiosoforohio.com"
+}
 ]

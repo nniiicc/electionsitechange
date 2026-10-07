@@ -1,143 +1,930 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Allenspark+Meet+%26+Greet&dates=20260523T200000Z%2F20260523T220000Z&location=Allenspark%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Back-to-School+Fundraiser+in+Support+of+Janice+Marchman&dates=20260816T200000Z%2F20260816T220000Z&location=Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Boulder+County+Fundraiser+in+Support+of+Janice+Marchman&dates=20260920T200000Z%2F20260920T213000Z&location=Loveland%2C+CO+80538",
-"http://google.com/calendar/event?action=TEMPLATE&text=Boulder+County+Fundraiser+with+Senator+Judy+Amabile&dates=20260712T220000Z%2F20260713T000000Z&location=Boulder%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Boulder+Valley+April+Meet+%2B+Greet&dates=20260418T200000Z%2F20260418T220000Z&location=Boulder%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260801T160000Z%2F20260801T190000Z&location=Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260808T160000Z%2F20260808T190000Z&location=Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260822T160000Z%2F20260822T190000Z&location=Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260829T160000Z%2F20260829T190000Z&location=Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260905T160000Z%2F20260905T190000Z&location=Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260912T160000Z%2F20260912T190000Z&location=Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260919T160000Z%2F20260919T190000Z&location=Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260926T160000Z%2F20260926T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261003T160000Z%2F20261003T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261010T160000Z%2F20261010T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261017T160000Z%2F20261017T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261024T160000Z%2F20261024T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261031T160000Z%2F20261031T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261101T170000Z%2F20261101T200000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261102T170000Z%2F20261102T200000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261103T170000Z%2F20261103T200000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Caucus+%2B+Assembly+Social&dates=20260224T020000Z%2F20260224T030000Z&location=3121+North+Garfield+Avenue%2C+Loveland%2C+CO%2C+80538%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Estes+Park+-+Listening+Tour+2026&dates=20260108T210000Z%2F20260108T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Estes+Park+Fundraiser+with+Sen+Janice+Marchman+and+Congressman+Joe+Neguse&dates=20260727T230000Z%2F20260728T010000Z&location=Estes+Park%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Estes+Valley+Listening+Session&dates=20260205T213000Z%2F20260205T223000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Estes+Valley+Meet+and+Greet&dates=20260425T223000Z%2F20260426T000000Z&location=Boulder%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Team+Marchman&dates=20260620T160000Z%2F20260620T190000Z&location=1125+W+29th+St%2C+Loveland%2C+Colorado%2C+80537%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Loveland+-+Listening+Tour+2026&dates=20260108T000000Z%2F20260108T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Loveland+Meet-and-Greet&dates=20260912T200000Z%2F20260912T213000Z&location=Loveland%2C+CO+80538",
-"http://google.com/calendar/event?action=TEMPLATE&text=MARCH+Meet+%2B+Greet+IN+LOVELAND&dates=20260321T200000Z%2F20260321T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Nederland+-+Listening+Tour+2026&dates=20260106T000000Z%2F20260106T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Red+Feather+-+Listening+Your+2026&dates=20260106T190000Z%2F20260106T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=SD-15+Virtual+Listening+Session&dates=20260417T010000Z%2F20260417T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sugarloaf+Meet+%2B+Greet&dates=20260207T210000Z%2F20260207T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+House+Party+in+Lyons&dates=20260719T230000Z%2F20260720T010000Z&location=Lyons%2C+CO",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wellington+-+Listening+Tour+2026&dates=20260108T020000Z%2F20260108T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wellington+canvass+launch&dates=20260919T160000Z%2F20260919T190000Z&location=7745+Kelbran+Lane%2C+Wellington%2C+Colorado%2C+80549%2C+United+States",
-"http://maps.google.com/?q=+Allenspark%2C+CO",
-"http://maps.google.com/?q=+Boulder%2C+CO",
-"http://maps.google.com/?q=+Estes+Park%2C+CO",
-"http://maps.google.com/?q=+Loveland%2C+CO",
-"http://maps.google.com/?q=+Loveland%2C+CO+80538",
-"http://maps.google.com/?q=+Lyons%2C+CO",
-"http://maps.google.com/?q=1125+W+29th+St%2C+Loveland%2C+CO+80538+Loveland%2C+CO",
-"http://maps.google.com/?q=1125+W+29th+St+Loveland%2C+CO",
-"http://maps.google.com/?q=1125+W+29th+St+Loveland%2C+Colorado%2C+80537+United+States",
-"http://maps.google.com/?q=3121+North+Garfield+Avenue+Loveland%2C+CO%2C+80538+United+States",
-"http://maps.google.com/?q=7745+Kelbran+Lane+Wellington%2C+Colorado%2C+80549+United+States",
-"http://maps.google.com/?q=Estes+Valley+Library",
-"http://maps.google.com/?q=Virtual",
-"https://facebook.com/janiceforcolorado",
-"https://instagram.com/senatorjanicemarchman",
-"https://janiceforcolorado.com/",
-"https://janiceforcolorado.com/about",
-"https://janiceforcolorado.com/cart",
-"https://janiceforcolorado.com/contact",
-"https://janiceforcolorado.com/events",
-"https://janiceforcolorado.com/events/allenspark-meet-greet",
-"https://janiceforcolorado.com/events/allenspark-meet-greet?format=ical",
-"https://janiceforcolorado.com/events/back-to-school-fundraiser-in-support-of-janice-marchman",
-"https://janiceforcolorado.com/events/back-to-school-fundraiser-in-support-of-janice-marchman?format=ical",
-"https://janiceforcolorado.com/events/boulder-county-fundraiser-with-senator-judy-amabile",
-"https://janiceforcolorado.com/events/boulder-county-fundraiser-with-senator-judy-amabile?format=ical",
-"https://janiceforcolorado.com/events/boulder-valley-april-meet-greet",
-"https://janiceforcolorado.com/events/boulder-valley-april-meet-greet?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-ln8pb",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-ln8pb?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt?format=ical",
-"https://janiceforcolorado.com/events/canvassing-with-team-marchman?format=ical",
-"https://janiceforcolorado.com/events/caucus-assembly-social",
-"https://janiceforcolorado.com/events/caucus-assembly-social?format=ical",
-"https://janiceforcolorado.com/events/estes-park-fundraiser-with-sen-janice-marchman-and-congressman-joe-neguse",
-"https://janiceforcolorado.com/events/estes-park-fundraiser-with-sen-janice-marchman-and-congressman-joe-neguse?format=ical",
-"https://janiceforcolorado.com/events/estes-valley-meet-and-greet",
-"https://janiceforcolorado.com/events/estes-valley-meet-and-greet?format=ical",
-"https://janiceforcolorado.com/events/estesvalley",
-"https://janiceforcolorado.com/events/estesvalley?format=ical",
-"https://janiceforcolorado.com/events/knock-doors-with-team-marchman",
-"https://janiceforcolorado.com/events/knock-doors-with-team-marchman?format=ical",
-"https://janiceforcolorado.com/events/listening-jan-5",
-"https://janiceforcolorado.com/events/listening-jan-5?format=ical",
-"https://janiceforcolorado.com/events/listening-jan-6",
-"https://janiceforcolorado.com/events/listening-jan-6?format=ical",
-"https://janiceforcolorado.com/events/listening-jan-7a",
-"https://janiceforcolorado.com/events/listening-jan-7a?format=ical",
-"https://janiceforcolorado.com/events/listening-jan-7b",
-"https://janiceforcolorado.com/events/listening-jan-7b?format=ical",
-"https://janiceforcolorado.com/events/listening-jan-8",
-"https://janiceforcolorado.com/events/listening-jan-8?format=ical",
-"https://janiceforcolorado.com/events/loveland-meet-and-greet",
-"https://janiceforcolorado.com/events/loveland-meet-and-greet-r4yyw",
-"https://janiceforcolorado.com/events/loveland-meet-and-greet-r4yyw?format=ical",
-"https://janiceforcolorado.com/events/loveland-meet-and-greet?format=ical",
-"https://janiceforcolorado.com/events/march-meet-and-greet",
-"https://janiceforcolorado.com/events/march-meet-and-greet?format=ical",
-"https://janiceforcolorado.com/events/sd-15-virtual-listening-session",
-"https://janiceforcolorado.com/events/sd-15-virtual-listening-session?format=ical",
-"https://janiceforcolorado.com/events/sugarloaf-meet-greet",
-"https://janiceforcolorado.com/events/sugarloaf-meet-greet?format=ical",
-"https://janiceforcolorado.com/events/summer-house-party-in-lyons",
-"https://janiceforcolorado.com/events/summer-house-party-in-lyons?format=ical",
-"https://janiceforcolorado.com/get-involved",
-"https://janiceforcolorado.com/media",
-"https://janiceforcolorado.com/priorities",
-"https://secure.actblue.com/donate/estesevent",
-"https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1",
-"https://secure.actblue.com/donate/listening_tour_estes",
-"https://secure.actblue.com/donate/listening_tour_loveland",
-"https://secure.actblue.com/donate/listening_tour_ned",
-"https://secure.actblue.com/donate/listening_tour_rfl",
-"https://secure.actblue.com/donate/listening_tour_wellington"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+allenspark%2C+co+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+boulder%2C+co+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+estes+park%2C+co+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+loveland%2C+co+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+loveland%2C+co+80538+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+lyons%2C+co+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1125+w+29th+st%2C+loveland%2C+co+80538+loveland%2C+co+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1125+w+29th+st+loveland%2C+co+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1125+w+29th+st+loveland%2C+colorado%2C+80537+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3121+north+garfield+avenue+loveland%2C+co%2C+80538+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7745+kelbran+lane+wellington%2C+colorado%2C+80549+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=estes+valley+library"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=virtual"
+},
+{
+"text": "0",
+"href": "https://www.janiceforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.janiceforcolorado.com/about"
+},
+{
+"text": "Allenspark Meet & Greet",
+"href": "https://www.janiceforcolorado.com/events/allenspark-meet-greet"
+},
+{
+"text": "Back-to-School Fundraiser in Support of Janice Marchman",
+"href": "https://www.janiceforcolorado.com/events/back-to-school-fundraiser-in-support-of-janice-marchman"
+},
+{
+"text": "Boulder County Fundraiser in Support of Janice Marchman",
+"href": "https://www.janiceforcolorado.com/events/loveland-meet-and-greet-r4yyw"
+},
+{
+"text": "Boulder County Fundraiser with Senator Judy Amabile",
+"href": "https://www.janiceforcolorado.com/events/boulder-county-fundraiser-with-senator-judy-amabile"
+},
+{
+"text": "Boulder Valley April Meet + Greet",
+"href": "https://www.janiceforcolorado.com/events/boulder-valley-april-meet-greet"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-7lt82"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-fnb4f"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z"
+},
+{
+"text": "Canvassing with Team Marchman!",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z-jz553"
+},
+{
+"text": "Caucus + Assembly Social",
+"href": "https://www.janiceforcolorado.com/events/caucus-assembly-social"
+},
+{
+"text": "Contact",
+"href": "https://www.janiceforcolorado.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/janice-marchman-for-colorado-senate-1"
+},
+{
+"text": "Estes Park - Listening Tour 2026",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-8"
+},
+{
+"text": "Estes Park Fundraiser with Sen Janice Marchman and Congressman Joe Neguse",
+"href": "https://www.janiceforcolorado.com/events/estes-park-fundraiser-with-sen-janice-marchman-and-congressman-joe-neguse"
+},
+{
+"text": "Estes Valley Listening Session",
+"href": "https://www.janiceforcolorado.com/events/estesvalley"
+},
+{
+"text": "Estes Valley Meet and Greet",
+"href": "https://www.janiceforcolorado.com/events/estes-valley-meet-and-greet"
+},
+{
+"text": "Events",
+"href": "https://www.janiceforcolorado.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.janiceforcolorado.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Allenspark+Meet+%26+Greet&dates=20260523T200000Z%2F20260523T220000Z&location=Allenspark%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Back-to-School+Fundraiser+in+Support+of+Janice+Marchman&dates=20260816T200000Z%2F20260816T220000Z&location=Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Boulder+County+Fundraiser+in+Support+of+Janice+Marchman&dates=20260920T200000Z%2F20260920T213000Z&location=Loveland%2C+CO+80538"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Boulder+County+Fundraiser+with+Senator+Judy+Amabile&dates=20260712T220000Z%2F20260713T000000Z&location=Boulder%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Boulder+Valley+April+Meet+%2B+Greet&dates=20260418T200000Z%2F20260418T220000Z&location=Boulder%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260801T160000Z%2F20260801T190000Z&location=Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260808T160000Z%2F20260808T190000Z&location=Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260822T160000Z%2F20260822T190000Z&location=Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260829T160000Z%2F20260829T190000Z&location=Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260905T160000Z%2F20260905T190000Z&location=Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260912T160000Z%2F20260912T190000Z&location=Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260919T160000Z%2F20260919T190000Z&location=Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20260926T160000Z%2F20260926T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261003T160000Z%2F20261003T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261010T160000Z%2F20261010T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261017T160000Z%2F20261017T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261024T160000Z%2F20261024T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261025T160000Z%2F20261025T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261031T160000Z%2F20261031T190000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261101T170000Z%2F20261101T200000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261102T170000Z%2F20261102T200000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261102T210000Z%2F20261103T000000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261103T170000Z%2F20261103T200000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+with+Team+Marchman%21&dates=20261103T210000Z%2F20261104T000000Z&location=1125+W+29th+St%2C+Loveland%2C+CO+80538%2C+Loveland%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Caucus+%2B+Assembly+Social&dates=20260224T020000Z%2F20260224T030000Z&location=3121+North+Garfield+Avenue%2C+Loveland%2C+CO%2C+80538%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Estes+Park+-+Listening+Tour+2026&dates=20260108T210000Z%2F20260108T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Estes+Park+Fundraiser+with+Sen+Janice+Marchman+and+Congressman+Joe+Neguse&dates=20260727T230000Z%2F20260728T010000Z&location=Estes+Park%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Estes+Valley+Listening+Session&dates=20260205T213000Z%2F20260205T223000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Estes+Valley+Meet+and+Greet&dates=20260425T223000Z%2F20260426T000000Z&location=Boulder%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Team+Marchman&dates=20260620T160000Z%2F20260620T190000Z&location=1125+W+29th+St%2C+Loveland%2C+Colorado%2C+80537%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Loveland+-+Listening+Tour+2026&dates=20260108T000000Z%2F20260108T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Loveland+Meet-and-Greet&dates=20260912T200000Z%2F20260912T213000Z&location=Loveland%2C+CO+80538"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=MARCH+Meet+%2B+Greet+IN+LOVELAND&dates=20260321T200000Z%2F20260321T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Nederland+-+Listening+Tour+2026&dates=20260106T000000Z%2F20260106T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Red+Feather+-+Listening+Your+2026&dates=20260106T190000Z%2F20260106T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=SD-15+Virtual+Listening+Session&dates=20260417T010000Z%2F20260417T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sugarloaf+Meet+%2B+Greet&dates=20260207T210000Z%2F20260207T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+House+Party+in+Lyons&dates=20260719T230000Z%2F20260720T010000Z&location=Lyons%2C+CO"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wellington+-+Listening+Tour+2026&dates=20260108T020000Z%2F20260108T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wellington+canvass+launch&dates=20260919T160000Z%2F20260919T190000Z&location=7745+Kelbran+Lane%2C+Wellington%2C+Colorado%2C+80549%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/allenspark-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/back-to-school-fundraiser-in-support-of-janice-marchman?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/boulder-county-fundraiser-with-senator-judy-amabile?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/boulder-valley-april-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-7lt82?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-fnb4f?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z-jz553?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-ln8pb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/caucus-assembly-social?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/estes-park-fundraiser-with-sen-janice-marchman-and-congressman-joe-neguse?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/estes-valley-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/estesvalley?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/knock-doors-with-team-marchman?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-7a?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-7b?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/loveland-meet-and-greet-r4yyw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/loveland-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/march-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/sd-15-virtual-listening-session?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/sugarloaf-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.janiceforcolorado.com/events/summer-house-party-in-lyons?format=ical"
+},
+{
+"text": "Knock Doors with Team Marchman",
+"href": "https://www.janiceforcolorado.com/events/knock-doors-with-team-marchman"
+},
+{
+"text": "Loveland - Listening Tour 2026",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-7a"
+},
+{
+"text": "Loveland Meet-and-Greet",
+"href": "https://www.janiceforcolorado.com/events/loveland-meet-and-greet"
+},
+{
+"text": "MARCH Meet + Greet IN LOVELAND",
+"href": "https://www.janiceforcolorado.com/events/march-meet-and-greet"
+},
+{
+"text": "Media",
+"href": "https://www.janiceforcolorado.com/media"
+},
+{
+"text": "Nederland - Listening Tour 2026",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-5"
+},
+{
+"text": "Priorities",
+"href": "https://www.janiceforcolorado.com/priorities"
+},
+{
+"text": "Red Feather - Listening Your 2026",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-6"
+},
+{
+"text": "SD-15 Virtual Listening Session",
+"href": "https://www.janiceforcolorado.com/events/sd-15-virtual-listening-session"
+},
+{
+"text": "Sugarloaf Meet + Greet",
+"href": "https://www.janiceforcolorado.com/events/sugarloaf-meet-greet"
+},
+{
+"text": "Summer House Party in Lyons",
+"href": "https://www.janiceforcolorado.com/events/summer-house-party-in-lyons"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/allenspark-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/back-to-school-fundraiser-in-support-of-janice-marchman"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/boulder-county-fundraiser-with-senator-judy-amabile"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/boulder-valley-april-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-7lt82"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-fnb4f"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z-jz553"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-ln8pb"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/caucus-assembly-social"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/estes-park-fundraiser-with-sen-janice-marchman-and-congressman-joe-neguse"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/estes-valley-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/estesvalley"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/knock-doors-with-team-marchman"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-5"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-6"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-7a"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-7b"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-8"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/loveland-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/loveland-meet-and-greet-r4yyw"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/march-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/sd-15-virtual-listening-session"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/sugarloaf-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.janiceforcolorado.com/events/summer-house-party-in-lyons"
+},
+{
+"text": "Wellington - Listening Tour 2026",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-7b"
+},
+{
+"text": "Wellington canvass launch",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-ln8pb"
+},
+{
+"text": "[image: Allenspark Meet & Greet]",
+"href": "https://www.janiceforcolorado.com/events/allenspark-meet-greet"
+},
+{
+"text": "[image: Back-to-School Fundraiser in Support of Janice Marchman]",
+"href": "https://www.janiceforcolorado.com/events/back-to-school-fundraiser-in-support-of-janice-marchman"
+},
+{
+"text": "[image: Boulder County Fundraiser in Support of Janice Marchman]",
+"href": "https://www.janiceforcolorado.com/events/loveland-meet-and-greet-r4yyw"
+},
+{
+"text": "[image: Boulder County Fundraiser with Senator Judy Amabile]",
+"href": "https://www.janiceforcolorado.com/events/boulder-county-fundraiser-with-senator-judy-amabile"
+},
+{
+"text": "[image: Boulder Valley April Meet + Greet]",
+"href": "https://www.janiceforcolorado.com/events/boulder-valley-april-meet-greet"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-7lt82"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-fnb4f"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z"
+},
+{
+"text": "[image: Canvassing with Team Marchman!]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-72452-zy6d7-3cadt-bj27b-b5kmw-54epn-ate5m-z75dp-3wzbw-yntan-k8n3z-jz553"
+},
+{
+"text": "[image: Caucus + Assembly Social]",
+"href": "https://www.janiceforcolorado.com/events/caucus-assembly-social"
+},
+{
+"text": "[image: Estes Park - Listening Tour 2026]",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-8"
+},
+{
+"text": "[image: Estes Park Fundraiser with Sen Janice Marchman and Congressman Joe Neguse]",
+"href": "https://www.janiceforcolorado.com/events/estes-park-fundraiser-with-sen-janice-marchman-and-congressman-joe-neguse"
+},
+{
+"text": "[image: Estes Valley Listening Session]",
+"href": "https://www.janiceforcolorado.com/events/estesvalley"
+},
+{
+"text": "[image: Estes Valley Meet and Greet]",
+"href": "https://www.janiceforcolorado.com/events/estes-valley-meet-and-greet"
+},
+{
+"text": "[image: Janice Marchman for Colorado State Senate]",
+"href": "https://www.janiceforcolorado.com/"
+},
+{
+"text": "[image: Knock Doors with Team Marchman]",
+"href": "https://www.janiceforcolorado.com/events/knock-doors-with-team-marchman"
+},
+{
+"text": "[image: Loveland - Listening Tour 2026]",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-7a"
+},
+{
+"text": "[image: Loveland Meet-and-Greet]",
+"href": "https://www.janiceforcolorado.com/events/loveland-meet-and-greet"
+},
+{
+"text": "[image: MARCH Meet + Greet IN LOVELAND]",
+"href": "https://www.janiceforcolorado.com/events/march-meet-and-greet"
+},
+{
+"text": "[image: Nederland - Listening Tour 2026]",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-5"
+},
+{
+"text": "[image: Red Feather - Listening Your 2026]",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-6"
+},
+{
+"text": "[image: SD-15 Virtual Listening Session]",
+"href": "https://www.janiceforcolorado.com/events/sd-15-virtual-listening-session"
+},
+{
+"text": "[image: Sugarloaf Meet + Greet]",
+"href": "https://www.janiceforcolorado.com/events/sugarloaf-meet-greet"
+},
+{
+"text": "[image: Summer House Party in Lyons]",
+"href": "https://www.janiceforcolorado.com/events/summer-house-party-in-lyons"
+},
+{
+"text": "[image: Wellington - Listening Tour 2026]",
+"href": "https://www.janiceforcolorado.com/events/listening-jan-7b"
+},
+{
+"text": "[image: Wellington canvass launch]",
+"href": "https://www.janiceforcolorado.com/events/canvassing-with-team-marchman-gtjpt-cdjj7-3tdp4-2fz7x-8w7w4-ln8pb"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/janiceforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorjanicemarchman/"
+},
+{
+"text": "https://secure.actblue.com/donate/estesevent",
+"href": "https://secure.actblue.com/donate/estesevent"
+},
+{
+"text": "https://secure.actblue.com/donate/listening_tour_estes",
+"href": "https://secure.actblue.com/donate/listening_tour_estes"
+},
+{
+"text": "https://secure.actblue.com/donate/listening_tour_loveland",
+"href": "https://secure.actblue.com/donate/listening_tour_loveland"
+},
+{
+"text": "https://secure.actblue.com/donate/listening_tour_ned",
+"href": "https://secure.actblue.com/donate/listening_tour_ned"
+},
+{
+"text": "https://secure.actblue.com/donate/listening_tour_rfl",
+"href": "https://secure.actblue.com/donate/listening_tour_rfl"
+},
+{
+"text": "https://secure.actblue.com/donate/listening_tour_wellington",
+"href": "https://secure.actblue.com/donate/listening_tour_wellington"
+},
+{
+"text": "mackenzie@janiceforcolorado.com",
+"href": "mailto:mackenzie@janiceforcolorado.com"
+}
 ]

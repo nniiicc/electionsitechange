@@ -1,15 +1,66 @@
 [
-"https://dorazio.candidatesites.wpengine.com/wp-content/uploads/sites/76/2021/11/mark-dorazio-profile.jpg",
-"https://dorazio.candidatesites.wpengine.com/wp-content/uploads/sites/76/2021/11/mark-grandchildren.jpg",
-"https://facebook.com/DorazioforTexas",
-"https://instagram.com/doraziofortexas",
-"https://markdorazio.com/",
-"https://markdorazio.com/about",
-"https://markdorazio.com/contact",
-"https://markdorazio.com/endorsements",
-"https://markdorazio.com/issues",
-"https://markdorazio.com/legislative-victories",
-"https://markdorazio.com/volunteer",
-"https://secure.winred.com/mark-dorazio-campaign/fr2_default",
-"https://twitter.com/DorazioforTexas"
+{
+"text": "About",
+"href": "https://markdorazio.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://markdorazio.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/mark-dorazio-campaign/fr2_default"
+},
+{
+"text": "Endorsements",
+"href": "https://markdorazio.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://markdorazio.com/"
+},
+{
+"text": "Issues",
+"href": "https://markdorazio.com/issues/"
+},
+{
+"text": "Legislative Victories",
+"href": "https://markdorazio.com/legislative-victories/"
+},
+{
+"text": "Reach Out",
+"href": "https://markdorazio.com/contact/"
+},
+{
+"text": "Volunteer",
+"href": "https://markdorazio.com/volunteer/"
+},
+{
+"text": "[image: Mark Dorazio and his grandchildren]",
+"href": "https://dorazio.candidatesites.wpengine.com/wp-content/uploads/sites/76/2021/11/mark-grandchildren.jpg"
+},
+{
+"text": "[image: Mark Dorazio]",
+"href": "https://dorazio.candidatesites.wpengine.com/wp-content/uploads/sites/76/2021/11/mark-dorazio-profile.jpg"
+},
+{
+"text": "[image: Mark Dorazio]",
+"href": "https://markdorazio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DorazioforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DorazioforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/doraziofortexas/"
+},
+{
+"text": "campaign@markdorazio.com",
+"href": "mailto:campaign@markdorazio.com"
+}
 ]

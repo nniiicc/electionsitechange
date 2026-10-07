@@ -1,4 +1,4 @@
-[February 05, 2023] | When I look back on this past week, my thoughts were best defined as ...
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK THE BILL PROCESS [ February 05, 2023 ] | When I look back on this past week, my thoughts were best defined as ...
 Busy.
 Since legislators are putting bills in for consideration by the committees, my email has lit up.
 I spent a lot of time over the weekend answering email.
@@ -30,3 +30,4 @@ Thank you for the opportunity to be your voice in the Capitol.
 Easiest way to contact me is by email right now: rick.jasperse@house.ga.gov.
 You can also call the Capitol to reach me at 404-656-7153.
 Please leave a message, so I can call you back if I am not there.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

@@ -1,46 +1,202 @@
 [
-"https://facebook.com/GreggHullforNewMexico",
-"https://gregghull.com/",
-"https://gregghull.com/contact",
-"https://gregghull.com/endorsements",
-"https://gregghull.com/four-steps-to-zero",
-"https://gregghull.com/meet-the-team",
-"https://gregghull.com/news",
-"https://gregghull.com/priorities",
-"https://gregghull.com/priorities/2nd-amendment",
-"https://gregghull.com/priorities/artificial-intelligence",
-"https://gregghull.com/priorities/child-safety",
-"https://gregghull.com/priorities/education",
-"https://gregghull.com/priorities/election-integrity",
-"https://gregghull.com/priorities/energy-innovation",
-"https://gregghull.com/priorities/energy-reliability",
-"https://gregghull.com/priorities/healthcare",
-"https://gregghull.com/priorities/indigenous-public-safety",
-"https://gregghull.com/priorities/infrastructure",
-"https://gregghull.com/priorities/oil-gas",
-"https://gregghull.com/priorities/protecting-new-mexico",
-"https://gregghull.com/priorities/public-pensions",
-"https://gregghull.com/priorities/putting-new-mexico-to-work-plan",
-"https://gregghull.com/priorities/regulatory-reform",
-"https://gregghull.com/priorities/small-business",
-"https://gregghull.com/priorities/tribal-relations",
-"https://gregghull.com/priorities/veterans",
-"https://gregghull.com/priorities/water-future",
-"https://gregghull.com/priorities/wildfire-resilience",
-"https://gregghull.com/privacy-policy",
-"https://gregghull.com/volunteer",
-"https://gregghull.com/yard-sign-request",
-"https://hull-for-nm.printify.me/",
-"https://instagram.com/GreggHullforNM",
-"https://linkedin.com/in/gregghullforrr",
-"https://portal1.sos.nm.gov/OVR/WebPages/InstructionsStep1.aspx",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=100",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=25",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=250",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=50",
-"https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=500",
-"https://voterportal.servis.sos.state.nm.us/WhereToVoteAddress.aspx",
-"https://x.com/GreggHullforNM",
-"https://youtube.com/@HullForNewMexico"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true&amount=500"
+},
+{
+"text": "Contact",
+"href": "https://gregghull.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://gregghull.com/endorsements/"
+},
+{
+"text": "Find your polling place",
+"href": "https://voterportal.servis.sos.state.nm.us/WhereToVoteAddress.aspx"
+},
+{
+"text": "Governor Gregg Hull",
+"href": "https://gregghull.com/meet-the-team/"
+},
+{
+"text": "Issues",
+"href": "https://gregghull.com/priorities/"
+},
+{
+"text": "Lt. Governor David Gallegos",
+"href": "https://gregghull.com/meet-the-team/#meet_david"
+},
+{
+"text": "Meet Gregg",
+"href": "https://gregghull.com/meet-the-team/"
+},
+{
+"text": "Meet the Team",
+"href": "https://gregghull.com/meet-the-team/"
+},
+{
+"text": "News",
+"href": "https://gregghull.com/news/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/hull-for-new-mexico/donate?exitIntent=true"
+},
+{
+"text": "Priorities",
+"href": "https://gregghull.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://gregghull.com/privacy-policy/"
+},
+{
+"text": "READ THE PLAN",
+"href": "https://gregghull.com/four-steps-to-zero/"
+},
+{
+"text": "READ THE PLAN",
+"href": "https://gregghull.com/priorities/education/"
+},
+{
+"text": "READ THE PLAN",
+"href": "https://gregghull.com/priorities/healthcare/"
+},
+{
+"text": "READ THE PLAN",
+"href": "https://gregghull.com/priorities/protecting-new-mexico/"
+},
+{
+"text": "READ THE PLAN",
+"href": "https://gregghull.com/priorities/putting-new-mexico-to-work-plan/"
+},
+{
+"text": "Register to vote",
+"href": "https://portal1.sos.nm.gov/OVR/WebPages/InstructionsStep1.aspx"
+},
+{
+"text": "Request Sign",
+"href": "https://gregghull.com/yard-sign-request/"
+},
+{
+"text": "Shop",
+"href": "https://hull-for-nm.printify.me/"
+},
+{
+"text": "Volunteer",
+"href": "https://gregghull.com/volunteer/"
+},
+{
+"text": "Want a Hull / Gallegos yard sign? Click here to request your a free sign delivered right to your door.",
+"href": "https://gregghull.com/yard-sign-request/"
+},
+{
+"text": "[image: Hull Gallegos for New Mexico — Governor and Lieutenant Governor]",
+"href": "https://gregghull.com/"
+},
+{
+"text": "[image] 2nd Amendment Protecting the constitutional rights of law-abiding New Mexicans while ensuring safety.",
+"href": "https://gregghull.com/priorities/2nd-amendment/"
+},
+{
+"text": "[image] Artificial Intelligence Positioning our state as a leader in ethical AI development and technological growth.",
+"href": "https://gregghull.com/priorities/artificial-intelligence/"
+},
+{
+"text": "[image] Child Safety Strengthening the protective net for our most vulnerable citizens through systemic reform.",
+"href": "https://gregghull.com/priorities/child-safety/"
+},
+{
+"text": "[image] Election Integrity Ensuring secure, transparent, and accessible elections for every New Mexican.",
+"href": "https://gregghull.com/priorities/election-integrity/"
+},
+{
+"text": "[image] Energy Innovation Leading the nation in clean energy technology and advanced research initiatives.",
+"href": "https://gregghull.com/priorities/energy-innovation/"
+},
+{
+"text": "[image] Energy Reliability Ensuring a stable, affordable, and resilient energy grid for homes and industry.",
+"href": "https://gregghull.com/priorities/energy-reliability/"
+},
+{
+"text": "[image] Indigenous Public Safety Protecting Indigenous families through stronger prevention, response, and coordination.",
+"href": "https://gregghull.com/priorities/indigenous-public-safety/"
+},
+{
+"text": "[image] Infrastructure Modernizing our roads, bridges, and digital connectivity to support a 21st-century economy.",
+"href": "https://gregghull.com/priorities/infrastructure/"
+},
+{
+"text": "[image] Oil & Gas Responsible stewardship of our natural resources and the jobs they provide.",
+"href": "https://gregghull.com/priorities/oil-gas/"
+},
+{
+"text": "[image] Public Pensions Securing the retirement promises made to our public servants through fiscal discipline.",
+"href": "https://gregghull.com/priorities/public-pensions/"
+},
+{
+"text": "[image] Regulatory Reform Cutting the red tape that prevents our businesses from competing and thriving.",
+"href": "https://gregghull.com/priorities/regulatory-reform/"
+},
+{
+"text": "[image] Small Business The backbone of New Mexico. Supporting local shops and community commerce.",
+"href": "https://gregghull.com/priorities/small-business/"
+},
+{
+"text": "[image] Tribal Relations Fostering strong, respectful partnerships with Sovereign Nations across New Mexico.",
+"href": "https://gregghull.com/priorities/tribal-relations/"
+},
+{
+"text": "[image] Veterans Honoring those who served with expanded access to healthcare and career opportunities.",
+"href": "https://gregghull.com/priorities/veterans/"
+},
+{
+"text": "[image] Water Future Securing our most precious resource through sustainable management and infrastructure.",
+"href": "https://gregghull.com/priorities/water-future/"
+},
+{
+"text": "[image] Wildfire Resilience Proactive forest management and emergency response to protect our communities.",
+"href": "https://gregghull.com/priorities/wildfire-resilience/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GreggHullforNewMexico"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/GreggHullforNM/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/gregghullforrr/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HullForNewMexico"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/GreggHullforNM"
+}
 ]

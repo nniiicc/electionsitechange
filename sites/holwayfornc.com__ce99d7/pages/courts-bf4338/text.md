@@ -1,17 +1,11 @@
-issue:
-Courts
-The democracy I grew up with isn't working.
-Our Need: We’ve lost our “checks and balances” as the integrity of our judicial system has been eroded by Republican efforts to maintain power, not justice.
-Perspective
-Our whole justice system, rooted in our constitution, is being systemically dismantled by MAGA efforts, rather than reflecting constitutionally-based decisions.
+top of page Home About Issues Schools Flock Cameras Voting Access Data Centers & Environment Government Priorities Health Care Human Rights Farms Courts Gun Ownership Parental Rights General Perspective Volunteer Voting Contact DONATE issue: Courts The democracy I grew up with isn't working. ​ Our Need: We’ve lost our “checks and balances” as the integrity of our judicial system has been eroded by Republican efforts to maintain power, not justice.
+Perspective Our whole justice system, rooted in our constitution, is being systemically dismantled by MAGA efforts, rather than reflecting constitutionally-based decisions.
 In other words, more and more judges are protecting certain people and ideas above the weight that should be given to our constitution, above existing laws, and above the agreed upon “norms” of American democracy.
-In short, our courts are increasingly used by MAGA as weapons against selected people and groups.
-We need to appoint/approve and elect judges that will hold all people accountable according to the law, not according to their financial power, and make sure the state legislature upholds the constitution.
+In short, our courts are increasingly used by MAGA as weapons against selected people and groups. ​ We need to appoint/approve and elect judges that will hold all people accountable according to the law, not according to their financial power, and make sure the state legislature upholds the constitution.
 A one-party court will not do that—it does not reflect balance.
-Within our own state, we can assure we protect the intended balance by re-electing Justice Anita Earls to our state supreme court to protect the balance and accountability that make courts fair.
-We also need to make sure that civil legal aid for people does not disappear!
-The Constitution mandates legal aid be available for criminal cases, and for 40 years we had a functioning system in NC (that did NOT rely on taxpayer money!) for civil cases, and the Republicans in NC have killed it.
+Within our own state, we can assure we protect the intended balance by re-electing Justice Anita Earls to our state supreme court to protect the balance and accountability that make courts fair. ​ We also need to make sure that civil legal aid for people does not disappear!
+The Constitution mandates legal aid be available for criminal cases, and f or 40 years we had a functioning system in NC ( that did NOT rely on taxpayer money! ) for civil cases, and the Republicans in NC have killed it .
 This system benefited primarily women trying to escape abuse, but others who were not financially able to afford lawyers fighting for veterans benefits or landlord abuse, and so on.
-Apparently Republicans did this just to oppress people and make them less able to stand up for themselves.
-Look up IOLTA, and/or check out this Facebook posting that explains how it worked and the impact killing this service will have--less than 5 minutes of your time to understand.
-https://www.facebook.com/share/v/1FTrGRdcYH/?mibextid=wwXlfr
+Apparently Republicans did this just to oppress people and make them less able to stand up for themselves .
+Look up IOLTA, and/or check out this Facebook posting that explains how it worked and the impact killing this service will have--less than 5 minutes of your time to understand. https://www.facebook.com/share/v/1FTrGRdcYH/?mibextid=wwXlfr ​ Back to Issues > Paid for by Matt Holway for NC Committee P.O.
+Box 193, West End, NC 27376 bottom of page

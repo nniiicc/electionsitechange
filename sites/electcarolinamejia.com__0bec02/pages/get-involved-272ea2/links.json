@@ -1,10 +1,34 @@
 [
-"https://electcarolinamejia.com/",
-"https://electcarolinamejia.com/about",
-"https://electcarolinamejia.com/cart",
-"https://electcarolinamejia.com/endorsements",
-"https://electcarolinamejia.com/gallery-1-1",
-"https://electcarolinamejia.com/get-involved",
-"https://electcarolinamejia.com/mejia-issues",
-"https://secure.anedot.com/mejia/donate"
+{
+"text": "0",
+"href": "https://www.electcarolinamejia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electcarolinamejia.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mejia/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electcarolinamejia.com/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.electcarolinamejia.com/gallery-1-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electcarolinamejia.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.electcarolinamejia.com/mejia-issues"
+},
+{
+"text": "[image: Elect Carolina Mejia]",
+"href": "https://www.electcarolinamejia.com/"
+}
 ]

@@ -1,5 +1,4 @@
-ABOUT DARREN THORNE
-Darren Thorne is a lifelong Hampshire County resident, farmer, husband, father, and grandfather who believes public service should be rooted in faith, hard work, and common sense.
+top of page HOME ABOUT ISSUES Agriculture & Food Security Cost of Living & Affordability Personal Liberty & Constitutional Gov't Medical Freedom & Informed Consent Faith & Religious Freedom Jobs & Economic Investment Second Amendment Rights School Choice & Parental Rights Contact DONATE ABOUT DARREN THORNE Darren Thorne is a lifelong Hampshire County resident, farmer, husband, father, and grandfather who believes public service should be rooted in faith, hard work, and common sense.
 Raised in Slanesville by a single mother, Darren learned early the values that still guide his life today: personal responsibility, resilience, and service to others.
 His mother worked long days for the local school system, never relying on government assistance, and instilled in her children the importance of independence, faith, and perseverance.
 Darren credits her strength and sacrifice as the foundation of his character.
@@ -16,3 +15,4 @@ He describes himself first and foremost as a Christian conservative and his legi
 He has consistently voted to limit emergency powers, protect parental rights, defend religious freedom, prohibit irreversible medical procedures on minors, and ensure informed consent in healthcare decisions.
 He believes families, not bureaucrats, are best equipped to make decisions for their children.
 Darren and his family attend Delray Christian Church, a small rural congregation that reflects the close-knit community he represents.
+DONATE PAID FOR BY THE COMMITTEE TO ELECT DARREN J THORNE bottom of page

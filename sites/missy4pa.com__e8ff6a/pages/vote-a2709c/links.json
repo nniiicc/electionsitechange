@@ -1,17 +1,74 @@
 [
-"https://facebook.com/missy4pa",
-"https://missy4pa.com/",
-"https://missy4pa.com/cart",
-"https://missy4pa.com/community-survey",
-"https://missy4pa.com/home",
-"https://missy4pa.com/in-harrisburg",
-"https://missy4pa.com/in-the-151",
-"https://missy4pa.com/meet-melissa",
-"https://missy4pa.com/vote",
-"https://montcopa.org/3587/Secure-Ballot-Drop-Box-Locations",
-"https://montgomerycountypa.gov/759/Get-Involved",
-"https://pa.gov/agencies/vote/voter-registration/update-my-registration",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://secure.actblue.com/donate/friends-of-melissa-cerrato-1",
-"https://vote.pa.gov/polls"
+{
+"text": "0",
+"href": "https://missy4pa.com/cart"
+},
+{
+"text": "Apply for a Mail Ballot",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineMailInBegin"
+},
+{
+"text": "CONFIRM YOUR POLL",
+"href": "https://vote.pa.gov/polls"
+},
+{
+"text": "Community Survey",
+"href": "https://missy4pa.com/community-survey"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-melissa-cerrato-1"
+},
+{
+"text": "Find a drop box",
+"href": "https://montcopa.org/3587/Secure-Ballot-Drop-Box-Locations"
+},
+{
+"text": "Home",
+"href": "https://missy4pa.com/"
+},
+{
+"text": "In Harrisburg",
+"href": "https://missy4pa.com/in-harrisburg"
+},
+{
+"text": "In the 151st",
+"href": "https://missy4pa.com/in-the-151"
+},
+{
+"text": "Meet Melissa",
+"href": "https://missy4pa.com/meet-melissa"
+},
+{
+"text": "Register to Vote",
+"href": "https://montcopa.org/3587/Secure-Ballot-Drop-Box-Locations"
+},
+{
+"text": "Update Your Registration",
+"href": "https://www.pa.gov/agencies/vote/voter-registration/update-my-registration"
+},
+{
+"text": "Vote",
+"href": "https://missy4pa.com/vote"
+},
+{
+"text": "[image: Melissa Cerrato for PA]",
+"href": "https://missy4pa.com/"
+},
+{
+"text": "[image]",
+"href": "https://missy4pa.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/missy4pa"
+},
+{
+"text": "[no text]",
+"href": "mailto:missyforpa@gmail.com"
+},
+{
+"text": "work the polls",
+"href": "https://www.montgomerycountypa.gov/759/Get-Involved"
+}
 ]

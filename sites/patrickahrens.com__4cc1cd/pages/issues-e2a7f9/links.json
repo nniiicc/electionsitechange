@@ -1,17 +1,66 @@
 [
-"https://cnbc.com/2023/04/11/58percent-of-americans-are-living-paycheck-to-paycheck-cnbc-survey-reveals.html",
-"https://facebook.com/patrickahrens",
-"https://instagram.com/patrickforassembly",
-"https://osh.sccgov.org/continuum-care/reports-and-publications/santa-clara-county-homeless-census-and-survey-reports",
-"https://patrickahrens.com/",
-"https://patrickahrens.com/about",
-"https://patrickahrens.com/contact",
-"https://patrickahrens.com/gallery",
-"https://patrickahrens.com/issues",
-"https://patrickahrens.com/privacy-policy",
-"https://patrickahrens.com/volunteer",
-"https://ppic.org/blog/mass-shootings-rise-in-california-amid-national-surge",
-"https://ppic.org/publication/crime-trends-in-california",
-"https://secure.actblue.com/donate/patrick-ahrens-2",
-"https://twitter.com/PatrickForAD26"
+{
+"text": "About",
+"href": "https://patrickahrens.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://patrickahrens.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/patrick-ahrens-2"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/patrickahrens"
+},
+{
+"text": "Gallery",
+"href": "https://patrickahrens.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://patrickahrens.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/patrickforassembly"
+},
+{
+"text": "Issues",
+"href": "https://patrickahrens.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://patrickahrens.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://patrickahrens.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://patrickahrens.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/PatrickForAD26"
+},
+{
+"text": "https://osh.sccgov.org/continuum-care/reports-and-publications/santa-clara-county-homeless-census-and-survey-reports",
+"href": "https://osh.sccgov.org/continuum-care/reports-and-publications/santa-clara-county-homeless-census-and-survey-reports"
+},
+{
+"text": "https://www.cnbc.com/2023/04/11/58percent-of-americans-are-living-paycheck-to-paycheck-cnbc-survey-reveals.html",
+"href": "https://www.cnbc.com/2023/04/11/58percent-of-americans-are-living-paycheck-to-paycheck-cnbc-survey-reveals.html"
+},
+{
+"text": "https://www.ppic.org/blog/mass-shootings-rise-in-california-amid-national-surge/",
+"href": "https://www.ppic.org/blog/mass-shootings-rise-in-california-amid-national-surge/"
+},
+{
+"text": "https://www.ppic.org/publication/crime-trends-in-california/",
+"href": "https://www.ppic.org/publication/crime-trends-in-california/"
+}
 ]

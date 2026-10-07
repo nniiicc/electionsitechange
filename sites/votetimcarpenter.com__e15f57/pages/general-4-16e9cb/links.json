@@ -1,12 +1,58 @@
 [
-"https://ci.greenfield.wi.us/669/City-Clerk",
-"https://city.milwaukee.gov/election",
-"https://disabilityrightswi.org/",
-"https://elections.wi.gov/voters/photo-id/photo-id-bring-it-ballot",
-"https://myvote.wi.gov/en-us",
-"https://votetimcarpenter.com/",
-"https://votetimcarpenter.com/about-tim",
-"https://votetimcarpenter.com/general-4",
-"https://westalliswi.gov/page/clerks-office",
-"https://westmilwaukee.org/gov/departments/clerks"
+{
+"text": "844-347-8683",
+"href": "tel:+1%20844-347-8683"
+},
+{
+"text": "About Tim",
+"href": "https://www.votetimcarpenter.com/about-tim"
+},
+{
+"text": "BringIt.WI.gov",
+"href": "https://elections.wi.gov/voters/photo-id/photo-id-bring-it-ballot"
+},
+{
+"text": "Disability Rights Wisconsin",
+"href": "https://disabilityrightswi.org/"
+},
+{
+"text": "Home",
+"href": "https://www.votetimcarpenter.com"
+},
+{
+"text": "Info for Voting",
+"href": "https://www.votetimcarpenter.com/general-4"
+},
+{
+"text": "MyVote.WI.gov",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Visit Website",
+"href": "https://city.milwaukee.gov/election"
+},
+{
+"text": "Visit Website",
+"href": "https://www.ci.greenfield.wi.us/669/City-Clerk"
+},
+{
+"text": "Visit Website",
+"href": "https://www.westalliswi.gov/page/clerks-office"
+},
+{
+"text": "Visit Website",
+"href": "https://www.westmilwaukee.org/gov/departments/clerks/"
+},
+{
+"text": "[image: Vote Tim Carpenter Logo.png]",
+"href": "https://www.votetimcarpenter.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@drwi.org"
+},
+{
+"text": "info@drwi.org",
+"href": "mailto:info@drwi.org"
+}
 ]

@@ -1,7 +1,22 @@
 [
-"https://facebook.com/mcintyreforkansas",
-"https://mcintyreforkansas.com/",
-"https://mcintyreforkansas.com/about-siobhan",
-"https://mcintyreforkansas.com/platform",
-"https://mcintyreforkansas.com/support-the-campaign"
+{
+"text": "About Siobhan",
+"href": "https://mcintyreforkansas.com/about-siobhan"
+},
+{
+"text": "Home",
+"href": "https://mcintyreforkansas.com/"
+},
+{
+"text": "Platform",
+"href": "https://mcintyreforkansas.com/platform"
+},
+{
+"text": "Support the campaign",
+"href": "https://mcintyreforkansas.com/support-the-campaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mcintyreforkansas"
+}
 ]

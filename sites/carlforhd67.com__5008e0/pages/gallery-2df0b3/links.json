@@ -1,8 +1,54 @@
 [
-"https://carlforhd67.com/",
-"https://carlforhd67.com/events",
-"https://carlforhd67.com/gallery",
-"https://carlforhd67.com/gallery?album=My+Policies+and+Platform+for+HD+67",
-"https://carlforhd67.com/gallery?album=Outdoors",
-"https://carlforhd67.com/login"
+{
+"text": "About",
+"href": "https://carlforhd67.com/#about"
+},
+{
+"text": "About Carl",
+"href": "https://carlforhd67.com/#about"
+},
+{
+"text": "All",
+"href": "https://carlforhd67.com/gallery"
+},
+{
+"text": "Carl Ingwell for Utah House District 67",
+"href": "https://carlforhd67.com/"
+},
+{
+"text": "Contact",
+"href": "https://carlforhd67.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://carlforhd67.com/#donate"
+},
+{
+"text": "Events",
+"href": "https://carlforhd67.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://carlforhd67.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://carlforhd67.com/"
+},
+{
+"text": "Issues",
+"href": "https://carlforhd67.com/#issues"
+},
+{
+"text": "Login",
+"href": "https://carlforhd67.com/login"
+},
+{
+"text": "My Policies And Platform For HD 67",
+"href": "https://carlforhd67.com/gallery?album=My+Policies+and+Platform+for+HD+67"
+},
+{
+"text": "Outdoors",
+"href": "https://carlforhd67.com/gallery?album=Outdoors"
+}
 ]

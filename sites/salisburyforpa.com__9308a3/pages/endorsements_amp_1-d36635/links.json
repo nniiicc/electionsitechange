@@ -1,5 +1,14 @@
 [
-"https://salisburyforpa.com/?amp=1",
-"https://salisburyforpa.com/endorsements?noamp=mobile",
-"https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+{
+"text": "Exit mobile version",
+"href": "https://salisburyforpa.com/endorsements/?noamp=mobile"
+},
+{
+"text": "[image][image: Site icon] Salisbury for PA 34",
+"href": "https://salisburyforpa.com/?amp=1"
+},
+{
+"text": "click now to donate",
+"href": "https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+}
 ]

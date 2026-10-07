@@ -1,19 +1,86 @@
 [
-"https://bradbatt.com/",
-"https://bradbatt.com/issues",
-"https://bradbatt.com/meet-brad",
-"https://bradbatt.com/vote",
-"https://bsky.app/profile/bradbatt.bsky.social",
-"https://capitol.tn.gov/Bills/114/Fiscal/SB2624.pdf",
-"https://facebook.com/BradBatt4TN",
-"https://publications.tnsosfiles.com/acts/109/pub/pc0822.pdf",
-"https://publications.tnsosfiles.com/acts/113/pub/pc0309.pdf",
-"https://publications.tnsosfiles.com/acts/114/pub/pc0530.pdf",
-"https://publications.tnsosfiles.com/acts/114/pub/pc1142.pdf",
-"https://secure.actblue.com/donate/bradbatt2026",
-"https://takedownthesecameras.com/",
-"https://threads.com/@bradbatt",
-"https://tn.gov/content/dam/tn/health/documents/copa/COPA-Department-Annual-Report-on-FY23.pdf",
-"https://tn.gov/content/dam/tn/health/pdf/TDH-COPA-Department-Annual-Report-FY2025.pdf",
-"https://tn.gov/content/dam/tn/revenue/documents/pubs/Annual%20Report%202025.pdf"
+{
+"text": "2025 Public Chapter 530, Sec. 60 Item 3, striking $60 million from the Starter Home Revolving Fund",
+"href": "https://publications.tnsosfiles.com/acts/114/pub/pc0530.pdf"
+},
+{
+"text": "2026 Public Chapter 1142, Sec. 60 Item 30, striking a further $30 million",
+"href": "https://publications.tnsosfiles.com/acts/114/pub/pc1142.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bradbatt2026"
+},
+{
+"text": "How to Vote",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "Issues",
+"href": "https://bradbatt.com/issues"
+},
+{
+"text": "Learn more at takedownthesecameras.com →",
+"href": "https://takedownthesecameras.com"
+},
+{
+"text": "Make a plan to vote",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "Meet Brad",
+"href": "https://bradbatt.com/meet-brad"
+},
+{
+"text": "Public Chapter 309 (2023), amending T.C.A. 50-2-112",
+"href": "https://publications.tnsosfiles.com/acts/113/pub/pc0309.pdf"
+},
+{
+"text": "Public Chapter 822 (2016); rent control preemption at T.C.A. 66-35-102",
+"href": "https://publications.tnsosfiles.com/acts/109/pub/pc0822.pdf"
+},
+{
+"text": "Records obtained from the Johnson City Police Department, July 7 to August 6, 2026",
+"href": "https://takedownthesecameras.com/"
+},
+{
+"text": "Register to vote by Oct 5Register now →",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "TN Department of Health, COPA Annual Report FY2025",
+"href": "https://www.tn.gov/content/dam/tn/health/pdf/TDH-COPA-Department-Annual-Report-FY2025.pdf"
+},
+{
+"text": "TN Department of Health, COPA Annual Report FY23, pp.15-16",
+"href": "https://www.tn.gov/content/dam/tn/health/documents/copa/COPA-Department-Annual-Report-on-FY23.pdf"
+},
+{
+"text": "TN Department of Revenue Annual Report 2024-2025, p.11",
+"href": "https://www.tn.gov/content/dam/tn/revenue/documents/pubs/Annual%20Report%202025.pdf"
+},
+{
+"text": "TN General Assembly fiscal note, SB 2624 / HB 2286, February 2026",
+"href": "https://capitol.tn.gov/Bills/114/Fiscal/SB2624.pdf"
+},
+{
+"text": "Vote",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "[image: Brad Batt]",
+"href": "https://bradbatt.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/bradbatt.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/BradBatt4TN/"
+},
+{
+"text": "[tooltip: Threads]",
+"href": "https://www.threads.com/@bradbatt"
+}
 ]

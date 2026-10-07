@@ -1,29 +1,23 @@
-Record Turnout: More Voters Backed Eileen Laubacher Than Attended the Last Two Assemblies Combined
-Laubacher Wins Over 85% of Delegates Across District
-Highlands Ranch - Over the last two weeks, hundreds of voters showed up across congressional district four to show their support for Eileen Laubacher.
+0 Skip to Content Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Folder: Press Back Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Record Turnout: More Voters Backed Eileen Laubacher Than Attended the Last Two Assemblies Combined Mar 16 Written By Sabrina Gross Laubacher Wins Over 85% of Delegates Across District Highlands Ranch - Over the last two weeks, hundreds of voters showed up across congressional district four to show their support for Eileen Laubacher.
 Eileen received nearly 900 of the 1200 votes cast across the district.
 In 2024 and 2022, there were less than a total of 800 people who turned out to vote for all the candidates.
 The record attendance was evident all across the district, and it is clear that voters are ready for Retired Rear Admiral Eileen Laubacher to take the fight to Lauren Boebert.
 Of the 168 delegates elected across the district, 143 delegates — more than 85 percent — were chosen by their peers to support Retired Rear Admiral Eileen Laubacher at the upcoming CD-4 assembly.
 “The turnout across the district shows voters are energized and ready for change,” said Retired Rear Admiral Eileen Laubacher.
-“They have put their trust in this campaign because we’ve shown up, listened and done the hard work - that is exactly how I’ll serve in Congress and the fight that I will take to Lauren Boebert.”
-Support for Laubacher was strong and consistent across the entire district.
+“They have put their trust in this campaign because we’ve shown up, listened and done the hard work - that is exactly how I’ll serve in Congress and the fight that I will take to Lauren Boebert.” ​​Support for Laubacher was strong and consistent across the entire district.
 In Douglas County—the district’s largest—delegates overwhelmingly backed Laubacher, winning all 92 delegates elected there, while rural counties across the district also delivered decisive support.
 In communities like Cheyenne, Kit Carson, and Logan counties, Laubacher won all of the delegates as turnout surged to historic levels.
 From small rural communities to the suburbs, voters showed up in record numbers and delivered overwhelming support for Laubacher, underscoring the broad coalition forming across the district to defeat Lauren Boebert in November.
-Since launching, the campaign has:
-- Held 58 meet-and-greets across the district with over 1,600 attendees.
-- Engaged over 900 first-time caucus-goers
-- Made 29,000 calls to past and new caucus-goers
-- Mobilized over 100 veterans who committed to caucus for Eileen
-- Recruited more than 900 volunteers
-- Helped over 130 supporters switch their registration from UAF to DEM to caucus for Eileen (a conservative estimate)
-- Elected 482 brand-new caucus-goers as County Delegates to support Eileen.
+Since launching, the campaign has: Held 58 meet-and-greets across the district with over 1,600 attendees.
+Engaged over 900 first-time caucus-goers Made 29,000 calls to past and new caucus-goers Mobilized over 100 veterans who committed to caucus for Eileen Recruited more than 900 volunteers Helped over 130 supporters switch their registration from UAF to DEM to caucus for Eileen (a conservative estimate) Elected 482 brand-new caucus-goers as County Delegates to support Eileen.
 The energy behind Laubacher’s campaign reflects a true grassroots movement built through months of organizing across the district.
 Shortly after launching, Retired Rear Admiral Eileen Laubacher and her team began traveling across the district — visiting nearly every county, meeting with communities, and engaging directly with rural hospitals, veterans’ organizations, and local leaders.
 The campaign consistently urged voters that meeting this moment required more than support — it required showing up and getting involved.
 That organizing paid off at caucus and county assemblies, where more than half of the voters supporting Laubacher were first-time caucus participants.
 More than 100 veterans also turned out in support after meeting Laubacher at community gatherings across the district.
 The historic turnout was no accident — it was the result of sustained grassroots engagement and a growing coalition of voters ready to defeat Lauren Boebert and elect a representative who will show up and deliver for Colorado.
-“As we look ahead to November, this election will be won by the candidate who puts in the work, listens to voters, and shows up consistently,” Laubacher added.
-“That’s what this campaign has done from day one, and we’re just getting started.”
+“As we look ahead to November, this election will be won by the candidate who puts in the work, listens to voters, and shows up consistently,” Laubacher added .
+“That’s what this campaign has done from day one, and we’re just getting started.” Sabrina Gross Previous Previous Eileen Laubacher Officially on the Ballot, Marks Turning Point in Fight Against Boebert Next Next Lauren Boebert continues her pattern of voting to harm her own district GET INVOLVED WITH TEAM EILEEN Donate Volunteer Contact Privacy Policy/Terms of Service Careers CHECKS CAN BE MAILED TO PO BOX: 9249 S Broadway, #200-172 Highlands Ranch, CO 80129 PAID FOR BY EILEEN FOR COLORADO REAR ADMIRAL EILEEN LAUBACHER (RET) IS A FORMER MEMBER OF THE U.S.
+NAVY.
+USE OF HER MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT FROM THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE. ©# Eileen for Colorado.
+All rights reserved.

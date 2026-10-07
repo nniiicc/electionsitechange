@@ -1,5 +1,26 @@
 [
-"http://wix.com/",
-"https://mahacekformissouri.com/",
-"https://mahacekformissouri.com/terms"
+{
+"text": "Home",
+"href": "https://www.mahacekformissouri.com"
+},
+{
+"text": "MahacekForMissouri@gmail.com",
+"href": "mailto:MahacekForMissouri@gmail.com"
+},
+{
+"text": "Norah Horowitz, Ph.D.",
+"href": "https://www.mahacekformissouri.com"
+},
+{
+"text": "Terms",
+"href": "https://www.mahacekformissouri.com/terms"
+},
+{
+"text": "Wix",
+"href": "http://wix.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.mahacekformissouri.com"
+}
 ]

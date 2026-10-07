@@ -1,5 +1,2 @@
-Infrastructure Repair
-John supports fair funding for infrastructure repair.
-Allocated funding for road repair does not reflect additional commercial traffic since the construction of warehouses in this district.
-Committee to Elect John Deatrich
-Powered by CampaignPartner.com - Political Websites
+Meet John Issues News Volunteer Contribute Infrastructure Repair John supports fair funding for infrastructure repair.
+Allocated funding for road repair does not reflect additional commercial traffic since the construction of warehouses in this district. « Previous: Data Centers Next: Child Care Reform » Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com - Political Websites Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu

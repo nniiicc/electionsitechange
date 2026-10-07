@@ -1,16 +1,1 @@
-These community leaders are proud to support Michael Finch
-- Ben McAdams
-- Liz Weight Former State House Representative
-- Jeanetta Williams Community Leader
-- AFL-CIO Description goes here
-- Stewardship Utah
-- IBEW #354
-- Teamsters #222
-- UA #140
-- IBEW #57
-- UPEA Utah Public Employees Association
-- Better Boundaries Better Boundaries Accountability PAC
-- Carol Spackman Moss State House of Representatives
-- OE3 Operating Engineers
-- UEA PAC The teachers and educators of the Utah and Granite Education Association
-- Equality Utah PAC Description goes here
+0 Skip to Content Home About On the Issues Endorsements Volunteer Español Donate Open Menu Close Menu Home About On the Issues Endorsements Volunteer Español Donate Open Menu Close Menu Home About On the Issues Endorsements Volunteer Español Donate These community leaders are proud to support Michael Finch Ben McAdams Liz Weight Former State House Representative Jeanetta Williams Community Leader AFL-CIO Description goes here Stewardship Utah IBEW #354 Teamsters #222 UA #140 IBEW #57 UPEA Utah Public Employees Association Better Boundaries Better Boundaries Accountability PAC Carol Spackman Moss State House of Representatives OE3 Operating Engineers UEA PAC The teachers and educators of the Utah and Granite Education Association Equality Utah PAC Description goes here Add your name to the list Contact Michael Michael@votefinch.com Privacy Policy Paid for by Elect Michael Finch

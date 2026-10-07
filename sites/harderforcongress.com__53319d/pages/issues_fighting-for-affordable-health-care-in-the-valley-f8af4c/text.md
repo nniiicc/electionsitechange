@@ -1,7 +1,8 @@
-Health care is personal for Josh.
+Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter DONATE Fighting for Affordable Health Care in the Valley November 5, 2021 contact@veracitymedia.com Comments off Health care is personal for Josh.
 His brother was born prematurely and the hospital left his family with a hundred page medical bill.
 Josh knows the health care system is broken.
 It’s too hard to find care and too expensive to get the care you need.
 At the same time, Insurance executives are getting rich while our families have to choose between prescriptions and putting gas in the tank.
 Josh supports measures to get costs down including a $35 per month cap on insulin.
-He’s also working to bring more doctors to the Valley so people can get care more quickly and closer to home.
+He’s also working to bring more doctors to the Valley so people can get care more quickly and closer to home. prev post next post Related Posts Harder Statement on Reelection November 4, 2020 Largest Law Enforcement Organization in California Endorses Harder for Reelection September 11, 2020 Harder to Host First-Ever Drive-In Town Hall September 4, 2020 Search Search Recent Posts Harder Statement on Reelection Largest Law Enforcement Organization in California Endorses Harder for Reelection Harder to Host First-Ever Drive-In Town Hall Harder Endorsed by U.S.
+Chamber of Commerce Harder Endorses Joe Biden for President Recent Comments A WordPress Commenter on Harder Statement on Reelection Josh Harder for Congress, PO Box 4220, Manteca, CA 95337 Phone: (209) 299-7487 volunteer donate Campaign Media Center is available here Privacy Policy PAID FOR BY JOSH HARDER FOR CONGRESS Built by Veracity Media Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Facebook-f Twitter Chip in to our campaign! $5 $25 $50 $100 $200 Chip In Continue to Website →

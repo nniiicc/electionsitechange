@@ -1,15 +1,58 @@
 [
-"https://facebook.com/ValadaoforCongress",
-"https://flickr.com/photos/79670811@N05",
-"https://secure.winred.com/valadao-for-congress?amount=10",
-"https://secure.winred.com/valadao-for-congress?amount=25",
-"https://secure.winred.com/valadao-for-congress?amount=5",
-"https://secure.winred.com/valadao-for-congress?amount=50",
-"https://twitter.com/dgvaladao",
-"https://valadaoforcongress.com/",
-"https://valadaoforcongress.com/inicio",
-"https://valadaoforcongress.com/medios-de-comunicacion",
-"https://valadaoforcongress.com/privacy-policy",
-"https://valadaoforcongress.com/sobre",
-"https://valadaoforcongress.com/temas"
+{
+"text": "$10",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=50"
+},
+{
+"text": "INICIO",
+"href": "https://valadaoforcongress.com/inicio/"
+},
+{
+"text": "Inglés",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "Medios de Comunicación",
+"href": "https://valadaoforcongress.com/medios-de-comunicacion/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://valadaoforcongress.com/privacy-policy"
+},
+{
+"text": "Sobre David",
+"href": "https://valadaoforcongress.com/sobre/"
+},
+{
+"text": "Temas",
+"href": "https://valadaoforcongress.com/temas/"
+},
+{
+"text": "[image]",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.flickr.com/photos/79670811@N05"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/dgvaladao"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ValadaoforCongress/"
+}
 ]

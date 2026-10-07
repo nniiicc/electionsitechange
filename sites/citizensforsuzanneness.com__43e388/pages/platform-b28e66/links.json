@@ -1,30 +1,130 @@
 [
-"https://citizensforsuzanneness.com/",
-"https://citizensforsuzanneness.com/about-suzanne",
-"https://citizensforsuzanneness.com/author/adminroxie",
-"https://citizensforsuzanneness.com/calendar",
-"https://citizensforsuzanneness.com/contact",
-"https://citizensforsuzanneness.com/endorsements",
-"https://citizensforsuzanneness.com/platform",
-"https://citizensforsuzanneness.com/privacy-policy",
-"https://citizensforsuzanneness.com/volunteer",
-"https://facebook.com/vote4SuzanneNess",
-"https://followthemoney.org/entity-details?eid=48524776",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=2433&GAID=16&SessionID=110&LegID=131208",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=2741&GAID=16&SessionID=110&LegID=131585",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=2748&GAID=16&SessionID=110&LegID=131592",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=3296&GAID=16&SessionID=110&LegID=132230",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=SB&DocNum=1977&GAID=16&SessionID=110&LegID=134633",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=SB&DocNum=2969&GAID=16&SessionID=110&LegID=137298",
-"https://ilga.gov/legislation/billstatus.asp?DocNum=2293&GAID=17&GA=103&DocTypeID=SB&LegID=147183&SessionID=112",
-"https://ilga.gov/legislation/billstatus.asp?DocNum=2401&GAID=16&GA=102&DocTypeID=HB&LegID=131159&SessionID=110",
-"https://ilga.gov/legislation/billstatus.asp?DocNum=2474&GAID=17&GA=103&DocTypeID=HB&LegID=147558&SessionID=112",
-"https://ilga.gov/legislation/billstatus.asp?DocNum=2569&GAID=17&GA=103&DocTypeID=HB&LegID=147677&SessionID=112",
-"https://ilga.gov/legislation/billstatus.asp?DocNum=2800&GAID=17&GA=103&DocTypeID=HB&LegID=147927&SessionID=112",
-"https://ilga.gov/legislation/billstatus.asp?DocNum=3140&GAID=17&GA=103&DocTypeID=HB&LegID=148294&SessionID=112",
-"https://ilga.gov/legislation/billstatus.asp?DocNum=3224&GAID=17&GA=103&DocTypeID=HB&LegID=148380&SessionID=112",
-"https://instagram.com/suzanne_for66",
-"https://secure.actblue.com/donate/citizens-for-suzanne-ness-1",
-"https://tiktok.com/@vote4suzanneness?is_from_webapp=1&sender_device=pc",
-"https://youtube.com/channel/UCEoICbnW3Eo7J8E59ghGyUQ/featured"
+{
+"text": "ABOUT",
+"href": "https://citizensforsuzanneness.com/about-suzanne/"
+},
+{
+"text": "CONTACT",
+"href": "https://citizensforsuzanneness.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/citizens-for-suzanne-ness-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://citizensforsuzanneness.com/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://citizensforsuzanneness.com/calendar/"
+},
+{
+"text": "FOLLOW THE MONEY",
+"href": "https://www.followthemoney.org/entity-details?eid=48524776"
+},
+{
+"text": "HB2433",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=2433&GAID=16&SessionID=110&LegID=131208"
+},
+{
+"text": "HB2474: DAY CARE HOME CAPACITY",
+"href": "https://www.ilga.gov/legislation/billstatus.asp?DocNum=2474&GAID=17&GA=103&DocTypeID=HB&LegID=147558&SessionID=112"
+},
+{
+"text": "HB2569 : SOLID WASTE-COMPOST PRODUCTS",
+"href": "https://www.ilga.gov/legislation/billstatus.asp?DocNum=2569&GAID=17&GA=103&DocTypeID=HB&LegID=147677&SessionID=112"
+},
+{
+"text": "HB2741",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=2741&GAID=16&SessionID=110&LegID=131585"
+},
+{
+"text": "HB2748",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=2748&GAID=16&SessionID=110&LegID=131592"
+},
+{
+"text": "HB2800: QUICK-TAKE-MENARD/MCHENRY CO",
+"href": "https://www.ilga.gov/legislation/billstatus.asp?DocNum=2800&GAID=17&GA=103&DocTypeID=HB&LegID=147927&SessionID=112"
+},
+{
+"text": "HB3140: YOUTH CONFINEMENT-RESTRICTIONS",
+"href": "https://www.ilga.gov/legislation/billstatus.asp?DocNum=3140&GAID=17&GA=103&DocTypeID=HB&LegID=148294&SessionID=112"
+},
+{
+"text": "HB3224: SCH CD-SPECIAL ED-TRANSITION",
+"href": "https://www.ilga.gov/legislation/billstatus.asp?DocNum=3224&GAID=17&GA=103&DocTypeID=HB&LegID=148380&SessionID=112"
+},
+{
+"text": "HB3296: SCH CD-CAREER/TECH ED PATHWAY.",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=3296&GAID=16&SessionID=110&LegID=132230"
+},
+{
+"text": "HOME",
+"href": "https://citizensforsuzanneness.com/"
+},
+{
+"text": "PLATFORM",
+"href": "https://citizensforsuzanneness.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://citizensforsuzanneness.com/privacy-policy/"
+},
+{
+"text": "Roxie S",
+"href": "https://citizensforsuzanneness.com/author/adminroxie/"
+},
+{
+"text": "SB1977: DHFS Long-Term Care Services",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?DocTypeID=SB&DocNum=1977&GAID=16&SessionID=110&LegID=134633"
+},
+{
+"text": "SB2293: DCFS-YOUTH IN CARE FUND",
+"href": "https://www.ilga.gov/legislation/billstatus.asp?DocNum=2293&GAID=17&GA=103&DocTypeID=SB&LegID=147183&SessionID=112"
+},
+{
+"text": "SB2969: INS-GLUCOSE MONITOR MANDATE",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?DocTypeID=SB&DocNum=2969&GAID=16&SessionID=110&LegID=137298"
+},
+{
+"text": "Secretary of State Act",
+"href": "https://www.ilga.gov/legislation/billstatus.asp?DocNum=2401&GAID=16&GA=102&DocTypeID=HB&LegID=131159&SessionID=110"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://citizensforsuzanneness.com/volunteer/"
+},
+{
+"text": "[image: Citizens For Suzanne Ness Logo] [image: Citizens For Suzanne Ness Logo] [image: Citizens For Suzanne Ness Logo]",
+"href": "https://citizensforsuzanneness.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/vote4SuzanneNess/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/suzanne_for66/"
+},
+{
+"text": "[tooltip: Mail]",
+"href": "mailto:vote4suzanneness@gmail.com"
+},
+{
+"text": "[tooltip: Phone]",
+"href": "tel:224-493-2154"
+},
+{
+"text": "[tooltip: Tiktok]",
+"href": "https://www.tiktok.com/@vote4suzanneness?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UCEoICbnW3Eo7J8E59ghGyUQ/featured"
+},
+{
+"text": "vote4suzanneness@gmail.com",
+"href": "mailto:vote4suzanneness@gmail.com"
+}
 ]

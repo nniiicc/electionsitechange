@@ -1,4 +1,3 @@
-Julie Cunningham: Ian Goodnow for State Rep
-I would like to thank Tristan Toleno for his many years of service in the Vermont Legislature and for endorsing Ian Goodnow to continue the dedicated representation that Windham County needs.
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate Julie Cunningham: Ian Goodnow for State Rep Ian Goodnow for State Representative on July 22, 2024 I would like to thank Tristan Toleno for his many years of service in the Vermont Legislature and for endorsing Ian Goodnow to continue the dedicated representation that Windham County needs.
 I have known Ian for the past three years and have been incredibly impressed with his facilitation as the chair of the Brattleboro Select Board, his deep listening skills and his commitment to making our community work for us all.
-Julie Cunningham (Brattleboro Reformer)
+Julie Cunningham (Brattleboro Reformer) Read the full story Category: In the News Post navigation Previous: Previous post: Richard Davis: Vote for Ian Goodnow Next: Next post: Peter Case: Vote for Ian Goodnow Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

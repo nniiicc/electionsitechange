@@ -1,26 +1,15 @@
-Diana on the front lines in Southern Oregon answering the call, standing strong, and putting service above self.
-Meet Diana Perez
-I never imagined myself running for office and now I believe it’s what I am supposed to do.
-My leadership has been recognized in the following ways:
-- Washington State Housing Finance Commission, Commissioner
-- Ending Community Homeless Organization, Vice Chair - Clark County
-- Community Action Advisory Board, Board Member - Clark County
-- Elder Justice Center, Executive Board Member, Clark County
-- FISH, Board Member, Clark County
-- National League of Cities, Member
-- Received USDA Secretary's Honor Award for Excellence - Dedication Beyond Measure: Celebrating Extraordinary Commitment to Serving the American People
-- Appointed by Governor Jay Inslee to serve as a Commissioner for Washington State Parks and Recreation.
-- Featured in “Founding Mothers: Portraits of Progress” Clark County Historical Museum.
-- Honored with Dr.
+0 Skip to Content Home Meet Diana Priorities Endorsements Events RSVP Get Involved Donate Now Open Menu Close Menu Home Meet Diana Priorities Endorsements Events RSVP Get Involved Donate Now Open Menu Close Menu Home Meet Diana Priorities Endorsements Folder: Events Back RSVP Get Involved Donate Now Diana on the front lines in Southern Oregon answering the call, standing strong, and putting service above self.
+Meet Diana Perez I never imagined myself running for office and now I believe it’s what I am supposed to do.
+My leadership has been recognized in the following ways: Washington State Housing Finance Commission, Commissioner Ending Community Homeless Organization, Vice Chair - Clark County Community Action Advisory Board, Board Member - Clark County Elder Justice Center, Executive Board Member, Clark County FISH, Board Member, Clark County National League of Cities, Member Received USDA Secretary's Honor Award for Excellence - Dedication Beyond Measure: Celebrating Extraordinary Commitment to Serving the American People Appointed by Governor Jay Inslee to serve as a Commissioner for Washington State Parks and Recreation.
+Featured in “Founding Mothers: Portraits of Progress” Clark County Historical Museum.
+Honored with Dr.
 Anita Del Rio Award for Latina Leadership and Women’s Advocacy from the National President of League of United Latin American Citizens.
-- Appointed by former Mayor of Vancouver Tim Leavitt to serve on Stronger Vancouver, to make certain our tax codes are in alignment with the values of our city.
-- Awarded the BRAVO Community Award by the Hispanic Metropolitan Chamber of Commerce.
-- Recipient of YWCA Clark County Val Joshua Racial Justice Award.
-- Nominee for Washington State University Vancouver’s ‘Distinguished Woman of the Year’.
-- Awarded the Upstream Award by Hope Heart Institute for volunteer work to advance policy, education, services and community awareness regarding heart-healthy lifestyles.
-- Board member of Clark County Volunteer Lawyers Program, collaborated efforts to hold a law clinic that creates a safe space specifically for the underserved community in Clark County.
-“
-Having had the honor of serving on the Vancouver City Council, I am ready to take that experience to Olympia as your next State Representative for Legislative District 17, Position 2 - continuing to lead with purpose and intention, and fighting to ensure every resident has the opportunity to succeed and reach their fullest potential.
+Appointed by former Mayor of Vancouver Tim Leavitt to serve on Stronger Vancouver, to make certain our tax codes are in alignment with the values of our city.
+Awarded the BRAVO Community Award by the Hispanic Metropolitan Chamber of Commerce.
+Recipient of YWCA Clark County Val Joshua Racial Justice Award.
+Nominee for Washington State University Vancouver’s ‘Distinguished Woman of the Year’.
+Awarded the Upstream Award by Hope Heart Institute for volunteer work to advance policy, education, services and community awareness regarding heart-healthy lifestyles.
+Board member of Clark County Volunteer Lawyers Program, collaborated efforts to hold a law clinic that creates a safe space specifically for the underserved community in Clark County. “ Having had the honor of serving on the Vancouver City Council, I am ready to take that experience to Olympia as your next State Representative for Legislative District 17, Position 2 - continuing to lead with purpose and intention, and fighting to ensure every resident has the opportunity to succeed and reach their fullest potential.
 Together, we can build on our shared vision, that is both powerful and inclusive, creating a brighter future for all.
 My Story.
 I was raised in the Chihuahuan desert of El Paso, TX where my parents instilled a hard-working ethic in me.
@@ -43,3 +32,10 @@ When people need someone they trust to get something done they come to me.
 And that’s why I heeded the call of my community.
 To run for office.
 For the people.
+Join The Campaign Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Sign Up Thank you for signing up!
+I'm so glad to have you on this journey with us.
+Want to do even more?Chip in with a donation here .
+Mailing Address: PO Box 142, Vancouver, WA 98666 electdianaperez@gmail.com Media Gallery Paid for by Elect Diana Perez © # Elect Diana Perez.
+Web Design by Uniweb Digital LLC.

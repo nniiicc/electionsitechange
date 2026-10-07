@@ -1,69 +1,28 @@
-Oct 1, 2026
-Sep 21, 2026
-Sep 21, 2026
-Sep 17, 2026
-Sep 15, 2026
-Sep 11, 2026
-Sep 5, 2026
-Sep 3, 2026
-Sep 3, 2026
-Aug 19, 2026
-Aug 19, 2026
-Aug 19, 2026
-Aug 4, 2026
-Jul 21, 2026
-Jun 22, 2026
-Jun 4, 2026
-May 28, 2026
-May 28, 2026
-May 27, 2026
-May 19, 2026
-May 18, 2026
-May 12, 2026
-May 6, 2026
-May 2, 2026
-Apr 24, 2026
-Apr 24, 2026
-Apr 22, 2026
-Apr 24, 2026
-Apr 22, 2026
-Apr 13, 2026
-Mar 12, 2026
-Mar 23, 2026
-Mar 2, 2026
-Mar 12, 2026
-Feb 25, 2026
-Feb 24, 2026
-Feb 19, 2026
-Jan 21, 2026
-Jan 26, 2026
-Jan 29, 2026
-Jan 14, 2026
-Nov 19, 2025
-Nov 19, 2025
-Nov 19, 2025
-Nov 7, 2025
-Nov 3, 2025
-Oct 28, 2025
-Oct 20, 2025
-Oct 20, 2025
-Oct 20, 2025
-Oct 8, 2025
-Sep 30, 2025
-Sep 15, 2025
-Jun 24, 2025
-May 30, 2025
-May 6, 2025
-May 6, 2025
-Apr 29, 2025
-Mar 25, 2025
-Mar 20, 2025
-Mar 13, 2025
-Mar 13, 2025
-Feb 14, 2025
-Feb 14, 2025
-Feb 3, 2025
-Jan 29, 2025
-Jan 24, 2025
-Feb 14, 2025
-Mar 6, 2025
+top of page Home Meet Don Priorities An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights Endorsements News Voting Information Menu Close GET INVOLVED DONATE Latest News Veterans, lawmakers protest Trump's triumphal arch in Memorial Circle Oct 1, 2026 Read More FAA launches AI tool to assist air traffic control at major D.C.-area airports Sep 21, 2026 Read More Rep.
+Beyer whose family members are buried at Arlington reacts to Trump’s arch: ‘Terrible idea’ Sep 21, 2026 Read More House Democrat pursuing degree in AI defends 'kill switch bill' amid 'existential threat' Sep 17, 2026 Read More Rep.
+Beyer says AI "threat is very real" and "not a hoax," calls for regulatory body Sep 15, 2026 Read More Congressman Don Beyer talks about the legacy of 9/11 in Arlington Sep 11, 2026 Read More Trump's arch may break ground without final approval.
+Veterans are trying to stop it Sep 5, 2026 Read More Trump to Break Ground on Arch Before Getting Approval Sep 3, 2026 Read More Congressman Highlights $3,800 Cost Increase As Virginia Families Pay More Sep 3, 2026 Read More Reps.
+Beyer and Subramanyam on ICE Activity in Northern Virginia Aug 19, 2026 Read More Virginia congressmen announce investigation into ‘ICE brutality' Aug 19, 2026 Read More Lawmakers demand answers after ICE agent points gun at Virginia woman Aug 19, 2026 Read More Beyer squashes challengers Aug 4, 2026 Read More Rep.
+Don Beyer urges Congress to reject more Iran war funding Jul 21, 2026 Read More Rep.
+Beyer Introduces Comprehensive Paid Leave for Federal Employees Act Jun 22, 2026 Read More Falls Church Mayor, Leaders Endorse Beyer for Congress Jun 4, 2026 Read More Co-led by Virginia Congressman Don Beyer, a group of Democrats are filing legislation Friday to block construction of President Trump's Triumphal Arch.
+May 28, 2026 Read More Rep.
+Beyer introduces bill to block Trump arch project May 28, 2026 Read More Rep.
+Beyer touts package of endorsements from Arlington officials in re-election bid May 27, 2026 Read More Numerous Alexandria officials endorse Rep.
+Don Beyer’s reelection bid May 19, 2026 Read More Alexandria leaders line up behind Beyer ahead of crowded Democratic primary May 18, 2026 Read More Beyer blasts Trump as Iran war drives inflation to three-year high May 12, 2026 Read More Alexandria to install memorial for victims of 2025 mid-air collision next month May 6, 2026 Read More If redistricting is approved, big changes in store for Historic Triangle May 2, 2026 Read More GOP bill to return Arlington, Alexandria to D.C. condemned as ‘unconstitutional’ by Rep.
+Beyer Apr 24, 2026 Read More 'Make DC square again'?
+Democrat Don Beyer responds to Rich McCormick's proposed bill Apr 24, 2026 Read More Defenders of Wildlife Partners with Rep.
+Don Beyer on Monumental Corridors Act Apr 22, 2026 Read More GOP bill to return Arlington, Alexandria to D.C. condemned as ‘unconstitutional’ by Rep.
+Beyer Apr 24, 2026 Read More Rep.
+Don Beyer speaks on Virginia redistricting Apr 22, 2026 Read More Democrats kick off response to Trump’s annihilation threats Apr 13, 2026 Read More Beyer Says Lawmakers Are Behind on AI Policy, Calls for Bipartisan Action Mar 12, 2026 Read More Northern Virginia job fair helps displaced federal workers with opportunities Mar 23, 2026 Read More Virginia’s Democratic lawmakers denounce ‘illegal’ U.S. strikes on Iran Mar 2, 2026 Read More Democratic Lawmakers Pitch Millionaire Tax in Affordability Plan Mar 12, 2026 Read More Beyer leads regional delegation demanding federal funding for Potomac Interceptor repairs, and a backup water supply for the region Feb 25, 2026 Read More Beyer praises Supreme Court decision on tariffs Feb 24, 2026 Read More House Oversight Democrats, Northern Virginia congressmen hear federal workers’ pleas at Fairfax hearing Feb 19, 2026 Read More The Future of Fusion Energy and AI with the Hon.
+Don Beyer Jan 21, 2026 Read More Beyer calls Minneapolis killings 'murder,' demands Noem impeachment Jan 26, 2026 Read More Kaine, Beyer file bill to increase transparency for police misconduct Jan 29, 2026 Read More JD Vance Calling Woman Shot by ICE ‘Deranged Leftist’ Sparks Liberal Fury Jan 14, 2026 Read More Representatives Beyer and Zinke introduce bipartisan wildlife crossing bill Nov 19, 2025 Read More Rep.
+Don Beyer criticizes GOP policies on tariffs and cost-of-living increases Nov 19, 2025 Read More Beyer, Ciscomani, and McGarvey Introduce Bipartisan Legislation to Improve Disability Claims Process for Veterans Nov 19, 2025 Read More ‘This is day one’: Alexandria Democrats celebrate statewide wins with Rep.
+Beyer Nov 7, 2025 Read More ‘A really hard hit’: Food banks struggle as government shutdown passes one month mark Nov 3, 2025 Read More ‘No Idea How Long People Can Hold Out’: Federal Workers Feel Brunt of Shutdown Oct 28, 2025 Read More PHOTOS: Market Square packed at ‘No Kings’ protest in Old Town Oct 20, 2025 Read More Beyer Statement On Trump’s Illegal Mass Firings Of Federal Workers Oct 20, 2025 Read More Beyer Leads Delegation Demanding Largest Power Grid Operator in the US Take Additional Steps to Lower Energy Costs Oct 20, 2025 Read More Virginia congressman proposes bill to help furloughed employees Oct 8, 2025 Read More Warner, Beyer, Subramanyam and Walkinshaw Statement Following Oversight Visit to ICE Field Office in Chantilly, VA Sep 30, 2025 Read More Beyer to host financial guidance event for federal workers amid agency layoffs Sep 15, 2025 Read More Congressman Don Beyer will seek reelection Jun 24, 2025 Read More Beyer Statement On U.S.
+Court of International Trade Ruling Striking Down Key Trump Tariffs May 30, 2025 Read More Rep.
+Beyer pushes for $5.9 million in federal funding for Alexandria projects May 6, 2025 Read More ‘I’m ready to work seven days a week, ten-hour days’ | Fired federal workers flock to Alexandria job fair May 6, 2025 Read More Rep.
+Don Beyer: Trump Has Way Overused Tariff Authority Congress Gave Him Apr 29, 2025 Read More Rep.
+Beyer backs permanent air traffic changes near National Airport Mar 25, 2025 Read More DOGE staff enter U.S.
+Institute of Peace building after standoff Mar 20, 2025 Read More Democratic Rep.
+Don Beyer on the possibility of a government shutdown Mar 13, 2025 Read More Hundreds rally in support of NOAA after mass firings Mar 13, 2025 Read More Congressman Don Beyer reacts to plane, Army helicopter crash over Potomac River Feb 14, 2025 Read More Beyer Publishes Open Letter To Federal Employees Weighing “Deferred Resignation” Feb 14, 2025 Read More Democrats blocked from entering USAID headquarters Feb 3, 2025 Read More Beyer blasts federal funding freeze as illegal and unconstitutional Jan 29, 2025 Read More Virginia Democrats Say Trump’s Executive Actions Could Upend Life for Federal Workers Jan 24, 2025 Read More Federal employees, contractors grow frustrated after USAID was “shut down” Feb 14, 2025 Read More Rep.
+Don Beyer Hosting Resource Fair for Federal Workers Mar 6, 2025 Read More Home Meet Don Priorities An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights Endorsements News Voting Information Menu Close Please mail checks to: Friends of Don Beyer 2503-D N.
+Harrison St.
+Box #310 Arlington, VA 22207 Privacy Policy Contact PAID FOR BY FRIENDS OF DON BEYER Home Meet Don Priorities An Equitable Economy Education Energy & The Environment Federal Workforce Foreign Policy Gun Violence Prevention Healthcare Housing Immigration Oversight of the Administration Racial Justice Transportation Veterans Women's Rights Endorsements News Voting Information bottom of page

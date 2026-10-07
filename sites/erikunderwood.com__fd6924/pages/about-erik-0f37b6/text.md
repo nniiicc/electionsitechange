@@ -1,6 +1,6 @@
-ERIK UNDERWOOD FOR COLORADO GOVERNOR
-Fighting for Colorado • Speaking Truth to Power • Standing Up for What’s Right
-Colorado, you know me, and you know my story.
+Skip to content Skip to footer Home About Erik Issues General Election Message Volunteer Endorsements Events News Media Contact +1(720)-722-9404 Donate Now Donate About Erik Close Home About Erik Issues General Election Message Volunteer Endorsements Events News Media Contact facebook-1 instagram twitter-x tik-tok Have Questions? info@website.com Want to Work with Us?
+Send Brief Wish to Support Us?
+Donate Now ERIK UNDERWOOD FOR COLORADO GOVERNOR Fighting for Colorado • Speaking Truth to Power • Standing Up for What’s Right Colorado, you know me, and you know my story.
 I’m Erik, and I didn’t grow up in a mansion in Cherry Hills or learn politics in some Ivy League boardroom.
 I grew up in the housing projects, raised by a single mother who sometimes had to choose between keeping the lights on and putting food on our table.
 That struggle – that reality of working families getting left behind while the powerful get richer – that’s not just policy to me.
@@ -25,9 +25,7 @@ I’ve been fighting the powerful my entire life, and I’m not about to stop no
 Colorado deserves a Governor who understands what it’s like to worry about rent, who knows the weight of choosing between groceries and medical bills, who will stand up to corporate landlords and insurance companies the same way I stood up to Bank of America.
 I’m not running to manage the status quo.
 I’m running to change it.
-Erik Underwood Gubernatorial Speech: April 2018
-WHY I'M RUNNING - WHY NOW
-Because I made a promise to a scared kid in the projects – and I intend to keep it.
+Erik Underwood Gubernatorial Speech: April 2018 WHY I'M RUNNING - WHY NOW Because I made a promise to a scared kid in the projects – and I intend to keep it.
 When I was nine years old, lying awake listening to my mother cry because she couldn’t afford both rent and groceries, I promised myself that someday I’d have the power to make sure no child ever had to hear those tears.
 Forty years later, Colorado children are still hearing those same tears from their parents.
 That promise kept me going through eight years of fighting Bank of America.
@@ -49,3 +47,10 @@ I didn’t choose to take on Bank of America – their fraud chose me.
 I didn’t choose to fight for affordable housing – corporate greed chose me.
 I didn’t choose to run for Governor – Colorado’s crisis chose me.
 But once you’re chosen, you don’t get to walk away.
+I'm Erik Underwood, and I'm keeping my promise - to that kid, and to you.
+Erik Throughout The Years Contribute Make a donation for Colorado's future Donate Now Top Events Upcoming campaign Free Lobbying for environmental legislation New York November 18, 2024 - December 29, 2026 $105 Human rights advocacy campaign New York November 5, 2023 - September 18, 2028 Contact Have questions?
+Get in touch!
+I agree with the site’s privacy policy .
+Erik Underwood is not a politician... he is a neighbor Address 1550 Larimer Street # 779 Denver, Colorado 80202 Facebook-f Instagram X-twitter Tiktok Youtube Say Hello team@erikunderwood.com +1(720)-722-9404 Erik Underwood is not a politician... he is a neighbor Address 1550 Larimer Street # 779 Denver, Colorado 80202 Facebook-f Instagram X-twitter Tiktok Youtube Say Hello team@erikunderwood.com +1(720)-722-9404 Privacy Policy Terms & Condition Paid for by Underwood for Colorado © #.
+All Rights Reserved.
+UNDERWOOD

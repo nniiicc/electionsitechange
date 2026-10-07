@@ -1,75 +1,37 @@
-Cocktail Hour with Tasha and Friends
-Join us for a pre-presidential debate cocktail making demonstration and enjoy signature cocktails by Shawn VanDiver, Gil Cabrera, Kim Miller, Tasha, and friends.
-Meet Tasha
-Oct
-15
-5:00 PM17:00
-7
-Join us for virtual happy hour on Wednesday, October 7 at 5:00pm!
-6
-5:30 PM17:30
-Join Assemblymember Tasha Boerner Horvathfor a virtual Meet and Greet with Encinitas Union School Board candidates Marlon Taylor & Jodie Williams!
-1
-Join Tasha and local elected officials for a virtual BINGO night on Thursday, October 1st at 5:30 PM!
-Sep
-13
-11:00 AM11:00
-Join Tasha and her daughter Maya to make a family favorite—Lemon-Blueberry Mini Bundt Cakes.
-Aug
-1:00 PM13:00
-- Tasha Boerner Horvath for Assembly 2018 (map)
-- Google Calendar ICS
-Join Team Tasha to check on our neighbors in Encinitas, Carlsbad, Oceanside and Vista.
-Apr
-26
-to Jun 30
-Feb
-25
-to Mar 3
-Join Team Tasha to talk to our neighbors in Encinitas, Carlsbad, Oceanside and Vista!
-to Feb 23
-Jan
-18
-to Jan 30
-Dec
-8
-3:00 PM15:00
-Please join Encinitas Mayor Catherine S.
+Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Meet Tasha Oct 15 5:00 PM 17:00 Cocktail Hour with Tasha and Friends Thursday, October 15, 2020 5:00 PM 6:00 PM 17:00 18:00 Google Calendar ICS Join us for a pre-presidential debate cocktail making demonstration and enjoy signature cocktails by Shawn VanDiver, Gil Cabrera, Kim Miller, Tasha, and friends.
+View Event → Oct 7 5:00 PM 17:00 Happy Hour with Tasha Wednesday, October 7, 2020 5:00 PM 6:00 PM 17:00 18:00 Google Calendar ICS Join us for virtual happy hour on Wednesday, October 7 at 5:00pm!
+View Event → Oct 6 5:30 PM 17:30 Meet Encinitas Union School Board Candidates Marlon Taylor and Jodie Williams Tuesday, October 6, 2020 5:30 PM 6:30 PM 17:30 18:30 Google Calendar ICS Join Assemblymember Tasha Boerner Horvathfor a virtual Meet and Greet with Encinitas Union School Board candidates Marlon Taylor & Jodie Williams!
+View Event → Oct 1 5:30 PM 17:30 TBH Bingo with Local Leaders Thursday, October 1, 2020 5:30 PM 7:00 PM 17:30 19:00 Google Calendar ICS Join Tasha and local elected officials for a virtual BINGO night on Thursday, October 1st at 5:30 PM!
+View Event → Sep 13 11:00 AM 11:00 Baking with Tasha Sunday, September 13, 2020 11:00 AM 12:30 PM 11:00 12:30 Google Calendar ICS Join Tasha and her daughter Maya to make a family favorite—Lemon-Blueberry Mini Bundt Cakes.
+View Event → Aug 1 1:00 PM 13:00 Saturday Census Phonebanks with #TeamTasha!
+Saturday, August 1, 2020 1:00 PM 4:00 PM 13:00 16:00 Tasha Boerner Horvath for Assembly 2018 (map) Google Calendar ICS Join Team Tasha to check on our neighbors in Encinitas, Carlsbad, Oceanside and Vista.
+View Event → Apr 26 to Jun 30 Join Team Tasha to Check in on Our Neighbors Sun, Apr 26, 2020 5:00 PM 17:00 Tue, Jun 30, 2020 8:00 PM 20:00 Tasha Boerner Horvath for Assembly 2018 (map) Google Calendar ICS Join Team Tasha to check on our neighbors in Encinitas, Carlsbad, Oceanside and Vista.
+View Event → Feb 25 to Mar 3 Get Out the Vote with #TeamTasha!
+Tue, Feb 25, 2020 5:00 PM 17:00 Tue, Mar 3, 2020 8:00 PM 20:00 Tasha Boerner Horvath for Assembly 2018 (map) Google Calendar ICS Join Team Tasha to talk to our neighbors in Encinitas, Carlsbad, Oceanside and Vista!
+View Event → Feb 1 to Feb 23 Walking to Win with #TeamTasha - February Sat, Feb 1, 2020 10:00 AM 10:00 Sun, Feb 23, 2020 8:00 PM 20:00 Tasha Boerner Horvath for Assembly 2018 (map) Google Calendar ICS Join Team Tasha to talk to our neighbors in Encinitas, Carlsbad, Oceanside and Vista!
+View Event → Jan 18 to Jan 30 Walking to Win with #TeamTasha - January Sat, Jan 18, 2020 10:00 AM 10:00 Thu, Jan 30, 2020 8:00 PM 20:00 Tasha Boerner Horvath for Assembly 2018 (map) Google Calendar ICS Join Team Tasha to talk to our neighbors in Encinitas, Carlsbad, Oceanside and Vista!
+View Event → Dec 8 3:00 PM 15:00 Holiday Fundraiser for Tasha Sunday, December 8, 2019 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Please join Encinitas Mayor Catherine S.
 Blakespear and others to help re-elect Tasha Boerner Horvath for State Assembly!
-Nov
-17
-Please join your mom-friends to help re-elect Tasha Boerner Horvath for State Assembly!
-3
-Please join us to celebrate the opening of our new campaign office to re-elect Tasha Boerner Horvath to State Assembly District in 2020!
-Jun
-22
-2:00 PM14:00
-Please join us to help re-elect Tasha Boerner Horvath for State Assembly!
-31
-to Nov 6
-2
-Please join special guest San Diego City Attorney Mara Elliot and co-hosts Rob and Cass Mougin & Arie Spangler for a happy hour reception on Tuesday, October 2 from 5:30-7 PM in Encinitas to support Tasha for Assembly!
-23
-12:30 PM12:30
-Please join our neighbors at the home of Carol Wolf for a meet and greet with Catherine S.
+View Event → Nov 17 3:00 PM 15:00 Moms for Tasha Fundraiser Sunday, November 17, 2019 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Please join your mom-friends to help re-elect Tasha Boerner Horvath for State Assembly!
+View Event → Nov 3 3:00 PM 15:00 TBH 2020 Campaign Office Opening Celebration Sunday, November 3, 2019 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Please join us to celebrate the opening of our new campaign office to re-elect Tasha Boerner Horvath to State Assembly District in 2020!
+View Event → Jun 22 2:00 PM 14:00 Fundraiser for Tasha for Assembly Saturday, June 22, 2019 2:00 PM 4:00 PM 14:00 16:00 Google Calendar ICS Please join us to help re-elect Tasha Boerner Horvath for State Assembly!
+View Event → Oct 31 to Nov 6 Walking to Win with #TeamTasha Get Out The Vote!
+Wed, Oct 31, 2018 10:00 AM 10:00 Tue, Nov 6, 2018 5:00 PM 17:00 Tasha Boerner Horvath for Assembly 2018 (map) Google Calendar ICS Join Team Tasha to talk to our neighbors in Encinitas, Carlsbad, Oceanside and Vista!
+View Event → Oct 2 5:30 PM 17:30 Fundraiser hosted by San Diego City Attorney Mara Elliott, Rob and Cass Mougin & Arie Spangler Tuesday, October 2, 2018 5:30 PM 7:00 PM 17:30 19:00 Google Calendar ICS Please join special guest San Diego City Attorney Mara Elliot and co-hosts Rob and Cass Mougin & Arie Spangler for a happy hour reception on Tuesday, October 2 from 5:30-7 PM in Encinitas to support Tasha for Assembly!
+View Event → Sep 23 12:30 PM 12:30 Meet and Greet with Catherine S.
+Blakespear and Tasha Boerner Horvath Sunday, September 23, 2018 12:30 PM 2:30 PM 12:30 14:30 Google Calendar ICS Please join our neighbors at the home of Carol Wolf for a meet and greet with Catherine S.
 Blakespear, Encinitas Mayor and Candidate for Re-election and Tasha Boerner Horvath, Encinitas Councilmember and Candidate for State Assembly District 76.
-to Aug 30
-5
-7:45 PM19:45
-Please join us for a watch party on Tuesday, June 5th starting at 8 pm at a local Encinitas restaurant.
+View Event → Aug 18 to Aug 30 Walking to Win with #TeamTasha in August Sat, Aug 18, 2018 10:00 AM 10:00 Thu, Aug 30, 2018 8:00 PM 20:00 Tasha Boerner Horvath for Assembly 2018 (map) Google Calendar ICS Join Team Tasha to talk to our neighbors in Encinitas, Carlsbad, Oceanside and Vista!
+View Event → Jun 5 7:45 PM 19:45 Watch Party with Team Tasha Tuesday, June 5, 2018 7:45 PM 11:00 PM 19:45 23:00 Google Calendar ICS Please join us for a watch party on Tuesday, June 5th starting at 8 pm at a local Encinitas restaurant.
 We’ll have streaming of election results and there will be a band.
 Thank you for all you have done!
-4
-to Jun 16
-Join Team Tasha for talking to our neighbors in Encinitas, Carlsbad, Oceanside and Vista!
-May
-19
-Please join special guests Assemblymembers Todd Gloria and Lorena Gonzalez Fletcher with co-hosts Congressman Scott Peters and San Diego City Attorney Mara Elliott from 3-5 PM on Saturday, May 19 to support Tasha for Assembly!
-Mar
-Please join Bob Echter and Nicole Jackson for a nursery tour and fundraiser in support of Encinitas City Councilmember Tasha Boerner Horvath's bid for State Assembly District 76.
-Please join Carris Rhodes, Josh Sherman and friends for a fundraiser on Saturday, December 23 from 3-5 p.m. to support Encinitas Councilmember Tasha Boerner Horvath, in her run for California State Assembly District 76.
-6:00 PM18:00
-Please join Assemblymember Todd Gloria and San Diego City Attorney Mara Elliot on Tuesday, December 19 from 6-8 p.m. in San Diego to support Tasha for Assembly!
-Please join Brett Farrow and John Resnick on Monday, December 18 from 6-7 p.m. to support Tasha for Assembly!
-Please join Encinitas Mayor Catherine S.
+View Event → Jun 4 to Jun 16 Talking to Voters for Team Tasha Mon, Jun 4, 2018 7:00 PM 19:00 Sat, Jun 16, 2018 9:00 PM 21:00 Tasha Boerner Horvath for Assembly 2018 (map) Google Calendar ICS Join Team Tasha for talking to our neighbors in Encinitas, Carlsbad, Oceanside and Vista!
+View Event → May 19 3:00 PM 15:00 Fundraiser for Tasha for Assembly Saturday, May 19, 2018 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Please join special guests Assemblymembers Todd Gloria and Lorena Gonzalez Fletcher with co-hosts Congressman Scott Peters and San Diego City Attorney Mara Elliott from 3-5 PM on Saturday, May 19 to support Tasha for Assembly!
+View Event → Mar 26 5:30 PM 17:30 Fundraiser hosted by Bob Echter and Nicole Jackson Monday, March 26, 2018 5:30 PM 7:00 PM 17:30 19:00 Google Calendar ICS Please join Bob Echter and Nicole Jackson for a nursery tour and fundraiser in support of Encinitas City Councilmember Tasha Boerner Horvath's bid for State Assembly District 76.
+View Event → Dec 23 3:00 PM 15:00 Sunset, Sips and State Assembly Fundraiser hosted by Carris Rhodes, Josh Sherman and Friends Saturday, December 23, 2017 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Please join Carris Rhodes, Josh Sherman and friends for a fundraiser on Saturday, December 23 from 3-5 p.m. to support Encinitas Councilmember Tasha Boerner Horvath, in her run for California State Assembly District 76.
+View Event → Dec 19 6:00 PM 18:00 Fundraiser hosted by Assemblymember Todd Gloria and San Diego City Attorney Mara Elliott Tuesday, December 19, 2017 6:00 PM 8:00 PM 18:00 20:00 Google Calendar ICS Please join Assemblymember Todd Gloria and San Diego City Attorney Mara Elliot on Tuesday, December 19 from 6-8 p.m. in San Diego to support Tasha for Assembly!
+View Event → Dec 18 6:00 PM 18:00 Fundraiser hosted by Brett Farrow and John Resnick Monday, December 18, 2017 6:00 PM 7:00 PM 18:00 19:00 Google Calendar ICS Please join Brett Farrow and John Resnick on Monday, December 18 from 6-7 p.m. to support Tasha for Assembly!
+View Event → Dec 17 1:00 PM 13:00 Fundraiser hosted by Mayor Catherine S.
+Blakespear and Councilmember Joe Mosca Sunday, December 17, 2017 1:00 PM 3:00 PM 13:00 15:00 Google Calendar ICS Please join Encinitas Mayor Catherine S.
 Blakespear and Encinitas Councilmember Joe Mosca on Sunday, December 17 from 1-3 p.m. to support Tasha for Assembly!
+View Event → Back to Top Your priorities Meet Tasha tasha@tashaboerner.com Paid for by Tasha Boerner for Assembly 2026 #1477389

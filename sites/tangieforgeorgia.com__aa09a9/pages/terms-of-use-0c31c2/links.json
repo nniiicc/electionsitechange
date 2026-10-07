@@ -1,22 +1,94 @@
 [
-"https://facebook.com/TangieforGeorgia",
-"https://instagram.com/tangieforgeorgia",
-"https://secure.anedot.com/tangieforgeorgia/donate",
-"https://secure.anedot.com/tangieforgeorgia/donate?amount=100",
-"https://secure.anedot.com/tangieforgeorgia/donate?amount=25",
-"https://secure.anedot.com/tangieforgeorgia/donate?amount=250",
-"https://secure.anedot.com/tangieforgeorgia/donate?amount=50",
-"https://secure.anedot.com/tangieforgeorgia/donate?amount=500",
-"https://tangieforgeorgia.com/",
-"https://tangieforgeorgia.com/about-1",
-"https://tangieforgeorgia.com/accomplishments",
-"https://tangieforgeorgia.com/cart",
-"https://tangieforgeorgia.com/contact",
-"https://tangieforgeorgia.com/home",
-"https://tangieforgeorgia.com/issues-1",
-"https://tangieforgeorgia.com/meet-tangie",
-"https://tangieforgeorgia.com/priorities",
-"https://tangieforgeorgia.com/privacy-policy",
-"https://tangieforgeorgia.com/terms-of-use",
-"https://tangieforgeorgia.com/wins"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/tangieforgeorgia/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/tangieforgeorgia/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/tangieforgeorgia/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/tangieforgeorgia/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/tangieforgeorgia/donate?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.tangieforgeorgia.com/cart"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.tangieforgeorgia.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://www.tangieforgeorgia.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tangieforgeorgia/donate"
+},
+{
+"text": "H‍ome",
+"href": "https://www.tangieforgeorgia.com/home"
+},
+{
+"text": "Meet Tangie",
+"href": "https://www.tangieforgeorgia.com/about-1"
+},
+{
+"text": "Meet Tangie",
+"href": "https://www.tangieforgeorgia.com/meet-tangie"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.anedot.com/tangieforgeorgia/donate"
+},
+{
+"text": "Priorities",
+"href": "https://www.tangieforgeorgia.com/issues-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.tangieforgeorgia.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tangieforgeorgia.com/privacy-policy"
+},
+{
+"text": "Tangie's Wins",
+"href": "https://www.tangieforgeorgia.com/wins"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.tangieforgeorgia.com/terms-of-use"
+},
+{
+"text": "[image: Tangie for Georgia]",
+"href": "https://www.tangieforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TangieforGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tangieforgeorgia"
+},
+{
+"text": "www.tangieforgeorgia.com",
+"href": "https://www.tangieforgeorgia.com/home"
+},
+{
+"text": "www.tangieforgeorgia.org",
+"href": "https://www.tangieforgeorgia.com/home"
+}
 ]

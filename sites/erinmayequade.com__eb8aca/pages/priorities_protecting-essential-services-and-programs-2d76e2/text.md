@@ -1,19 +1,12 @@
-Priorities
-Protecting Essential Services and Programs
-As the cost of living crisis worsens, we need leaders who will fight for the essential services and programs including SNAP, WIC, and Medicaid.
+HOME MEET ERIN PRIORITIES Affordability Big Tech and AI Protecting Essential Services Fighting Corporate Fraud Working Families Democracy Protecting Our Rights ENDORSEMENTS DONATE Select Page Priorities Protecting Essential Services and Programs As the cost of living crisis worsens, we need leaders who will fight for the essential services and programs including SNAP, WIC, and Medicaid.
 Unfortunately, we have a federal administration that cares more about lining the pockets of the ultra-wealthy while working families in our community struggle to get by.
 Shortly after the 2024 presidential election, I along with over a dozen Minnesota legislators came together to analyze how our state government can respond to threats from the federal government and protect the essential services and programs our communities rely on.
-With the passage of H.R. 1 (the “Big Beautiful Bill”) in early July and the longest federal shutdown in US history taking place this fall, cuts to SNAP, Medicaid, and more disruptions became reality.
+With the passage of H.R.
+1 (the “Big Beautiful Bill”) in early July and the longest federal shutdown in US history taking place this fall, cuts to SNAP, Medicaid, and more disruptions became reality.
 So we got to work.
 I serve on the Subcommittee on the Federal Impact on Minnesotans and Economic Stability Committee where we hear testimony from those directly impacted by the reckless federal cuts and decisions from our food shelf operators to our rural health care professionals to federal workers working without pay during the shutdown.
 By hearing directly from impacted community members, we can develop the policy solutions we need to counteract negative federal actions.
-In addition to the work of this committee, I’m proud to:
-- Co-author the Medicaid, Not Millionaires Act which will raise taxes on millionaires at the level necessary to offset any cuts to Medicaid in Minnesota
-- Introduce legislation to fully fund SNAP in Minnesota
-- Advance legislation to repeal tax breaks for large, wealthy corporations and put money back in the pockets of working Minnesotans
-I know that there is more work to do.
+In addition to the work of this committee, I’m proud to: Co-author the Medicaid, Not Millionaires Act which will raise taxes on millionaires at the level necessary to offset any cuts to Medicaid in Minnesota Introduce legislation to fully fund SNAP in Minnesota Advance legislation to repeal tax breaks for large, wealthy corporations and put money back in the pockets of working Minnesotans I know that there is more work to do.
 Essential programs and services ensure seniors in our district with fixed incomes can live with dignity, make healthcare for people with disabilities more affordable, and allow families experiencing food insecurity to access the healthy, nutritious foods they need.
-We need steadfast leadership that will stand up for our residents and fight to preserve the programs and services we know keep people safe and supported.
-Sign Up for Campaign Updates
-Stay in Touch!
-Prepared and paid for by the Erin Maye Quade for Senate committee
+We need steadfast leadership that will stand up for our residents and fight to preserve the programs and services we know keep people safe and supported.  Restoring Democracy to the People  Protecting Essential Services and Programs  Increasing Program Integrity and Fighting Corporate Fraud  Tackling the Affordability Crisis  Uplifting Children and Families  Holding Big Tech and AI Accountable  Protecting Rights and Expanding Freedoms Sign Up for Campaign Updates Stay in Touch!
+DONATE VOLUNTEER Name Email Address Phone Message Send Prepared and paid for by the Erin Maye Quade for Senate committee Learn More About Voting in the Primary Election Facebook X Instagram

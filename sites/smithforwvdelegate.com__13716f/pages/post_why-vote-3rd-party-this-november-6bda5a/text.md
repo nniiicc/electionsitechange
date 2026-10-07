@@ -1,5 +1,5 @@
-Why Vote "3rd Party" this November?
-Political parties have always reflected their membership at any given time.
+top of page Home Get Involved Get Involved About Stephen News from Stephen DONATE All Posts Why Vote "3rd Party" this November?
+Stephen Smith Aug 5 2 min read Political parties have always reflected their membership at any given time.
 In the 1860s, the Democratic Party was pro-slavery, and the newer Republican Party championed first limitations on slavery and finally total abolition of slavery.
 In the 1960s, Democrats championed civil rights for minority groups, and Republicans became the party of Barry Goldwater and Richard Nixon, both staunchly opposed to the Civil Rights Act of 1964.
 Both major parties often speak of being a “big tent” where many views can exist within their group.
@@ -23,4 +23,6 @@ Our country was founded on the concept of majority rule with minority rights.
 Until we look beyond the “two-party system,” we will never truly have all our views represented, and we will be worse off for it.
 My question to you this November is, do you really think there should be just two ways of looking at how our government is run?
 Or will you reject this notion, and vote for the candidate that you think is qualified for the job, regardless of party?
-Stephen Thomas Smith
+Stephen Thomas Smith Recent Posts See All On Data Centers West Virginia’s Temporary Assistance for Needy Families Crisis On Last Week's Homecoming Parade wvhd12.stephenthomassmith@gmail.com Stay up to date Email address * Yes, I agree to receive campaign emails and updates. * SUBSCRIBE © # by Stephen T.
+Smith.
+Powered and secured by Wix bottom of page

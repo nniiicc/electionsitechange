@@ -1,27 +1,16 @@
-Getting Involved in Local BPOU
-Bring logic and reason back to Minnesota.
+Meet Mike Platform Vlog Get Involved Articles of Impeachment Petition Donate Getting Involved in Local BPOU by Mike Wiener Oct 12, 2022 Business Regulations , Election Process , Voting Bring logic and reason back to Minnesota.
 By getting involved in your local BPOU (Basic Political Operating Unit) you can make your voice heard.
 This is the first level of getting involved in the political process.
 The BPOU is where your delegates are chosen and political endorsements are made.
 Don’t let a small number of people speak for you, get involved to help make the changes you are longing to see.
 Listen to Mike as he talks about the power of a BPOU, Business Regulations, and other political issues.
-Issues Minnesotans Care About
-Knowledge is Power.
+Issues Minnesotans Care About 2nd Amendment Accountability Agriculture Budget Surplus Buying Local Campaign Financing Carbon Capture Climate Change Coal Delegates Democracy DNR Dress code Environment Ethics Farming Gas Prices Governance Governement Control Governor Gun control Health Bill Homelessness Income Inflation Legalizing drugs Lock-downs Omnibus Bills Power Outages Pro-Life Public funding of abortion Public vote Red Wave Republicans Sanctity of Life School Boards School Choice School Vouchers Special Interests Sustainability Taxpayers Tiny Homes Transparency Wildfires Wildlife Management Search Search Recent Videos Health, Children, and Families Finance Bill Homelessness, Drugs, & Carbon Gas Prices, Climate, and Wildlife Management Be Genuine Debate 2022 Issues Bills Business Regulations Education Election Process Endorsements Government Spending Healthcare Platform Politics Taxes Voting Ask Mike a Question Name Email Address Message 12 + 6 = Send Knowledge is Power.
 Explore More Videos from Mike.
-Health, Children, and Families Finance Bill
-MN State House Representative Mike Wiener addressing the Minnesota House on the Health, Children & Families Finance BillMike Wiener representing Minnesota.
+Health, Children, and Families Finance Bill by Mike Wiener | May 22, 2025 | Bills , Government Spending , Healthcare MN State House Representative Mike Wiener addressing the Minnesota House on the Health, Children & Families Finance BillMike Wiener representing Minnesota.
 See original post by Representative Ben Davis here.Issues Minnesotans Care AboutKnowledge is Power....
-Homelessness, Drugs, & Carbon
-Discussion on political issues on the show Pints & Politics with Drew PetersonAre you passionate about political issues affecting Minnesota?
+Homelessness, Drugs, & Carbon by MWienerHouseAdmin875_159 | Oct 11, 2023 | Politics Discussion on political issues on the show Pints & Politics with Drew PetersonAre you passionate about political issues affecting Minnesota?
 Join State Representative Mike Wiener and Drew Peterson from Pints & Politics as they discuss pressing topics like...
-Gas Prices, Climate, and Wildlife Management
-Discussion on political issues with Drew Peterson on show Pints & PoliticsLooking for a fresh perspective on political issues?
-Join a meeting at Clarissa Liquors as Mike and Drew from the Pints & Politics show, as they delve into topics like gas prices, taxes,...
-DAYS UNTIL YOU VOTE FOR CHANGE
-Day(s)
-:
-Hour(s)
-:
-Minute(s)
-:
-Second(s)
+Gas Prices, Climate, and Wildlife Management by Mike Wiener | Oct 11, 2023 | Politics , Taxes Discussion on political issues with Drew Peterson on show Pints & PoliticsLooking for a fresh perspective on political issues?
+Join a meeting at Clarissa Liquors as Mike and Drew from the Pints & Politics show, as they delve into topics like gas prices, taxes,... « Older Entries DAYS UNTIL YOU VOTE FOR CHANGE Day(s) : Hour(s) : Minute(s) : Second(s) DB+ VOTE MIKE WIENER FOR MINNESOTA STATE SENATE DISTRICT 5 Prepared and paid for by Mike Wiener for Senate Committee P.O.
+Box 413 Long Prairie, MN 56347 www.mikewienerformn.com (320) 360-6477 Follow Follow Follow DB+ About Mike Get Involved Contributions Privacy Policy © #-# All Rights Reserved.
+Mike Wiener for Minnesota State Senate District 5.

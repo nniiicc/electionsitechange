@@ -1,42 +1,234 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Barberton+on+Parade+with+Cynthia+Curtin&dates=20260907T140000Z%2F20260907T170000Z&location=Barberton%2C+Ohio%2C+44203%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff+Fundraiser&dates=20260225T223000Z%2F20260226T000000Z&location=2155+Middleton+Road%2C+Hudson%2C+OH%2C+44236%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Celebrate+St.+Patrick%E2%80%99s+Day&dates=20260316T213000Z%2F20260316T230000Z&location=8870+Darrow+Road%2C+Twinsburg%2C+OH%2C+44087%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Medina+Maven%E2%80%99s+Meet+the+Candidates&dates=20260917T213000Z%2F20260917T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Poolside+Fundraiser&dates=20260903T210000Z%2F20260903T230000Z&location=1315+Connecticut+Woods+Drive%2C+Hudson%2C+Ohio%2C+44236%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Reception+in+Support+of+Cynthia+Curtin+for+Judge&dates=20260624T213000Z%2F20260624T230000Z&location=1312+Brittain+Road%2C+Akron%2C+Ohio%2C+44310%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Stow+Steps+Up%3A+Candidate+Forum&dates=20260923T223000Z%2F20260924T003000Z&location=4157+Hudson+Drive%2C+Stow%2C+Ohio%2C+44224%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wooster+Welcomes+Curtin%3A+A+Fundraiser+Event&dates=20260909T213000Z%2F20260909T230000Z&location=505+North+Market+Street%2C+Wooster%2C+Ohio%2C+44691%2C+United+States",
-"http://maps.google.com/?q=+Barberton%2C+Ohio%2C+44203+United+States",
-"http://maps.google.com/?q=1312+Brittain+Road+Akron%2C+Ohio%2C+44310+United+States",
-"http://maps.google.com/?q=1315+Connecticut+Woods+Drive+Hudson%2C+Ohio%2C+44236+United+States",
-"http://maps.google.com/?q=2155+Middleton+Road+Hudson%2C+OH%2C+44236+United+States",
-"http://maps.google.com/?q=4157+Hudson+Drive+Stow%2C+Ohio%2C+44224+United+States",
-"http://maps.google.com/?q=505+North+Market+Street+Wooster%2C+Ohio%2C+44691+United+States",
-"http://maps.google.com/?q=8870+Darrow+Road+Twinsburg%2C+OH%2C+44087+United+States",
-"https://curtin4judge.com/",
-"https://curtin4judge.com/calendar",
-"https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq",
-"https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq?format=ical",
-"https://curtin4judge.com/calendar/barberton-labor-day-parade",
-"https://curtin4judge.com/calendar/barberton-labor-day-parade?format=ical",
-"https://curtin4judge.com/calendar/campaign-kickoff-fundraiser",
-"https://curtin4judge.com/calendar/campaign-kickoff-fundraiser?format=ical",
-"https://curtin4judge.com/calendar/celebrate-st-patricks-day",
-"https://curtin4judge.com/calendar/celebrate-st-patricks-day?format=ical",
-"https://curtin4judge.com/calendar/mn7gtn6ym4zyavra1dre7lere9kyf3",
-"https://curtin4judge.com/calendar/mn7gtn6ym4zyavra1dre7lere9kyf3?format=ical",
-"https://curtin4judge.com/calendar/poolside-fundraiser",
-"https://curtin4judge.com/calendar/poolside-fundraiser?format=ical",
-"https://curtin4judge.com/calendar/stow-steps-up-candidate-forum",
-"https://curtin4judge.com/calendar/stow-steps-up-candidate-forum?format=ical",
-"https://curtin4judge.com/calendar/wooster-welcomes-curtin",
-"https://curtin4judge.com/calendar/wooster-welcomes-curtin?format=ical",
-"https://curtin4judge.com/campaign-committee",
-"https://curtin4judge.com/cart",
-"https://curtin4judge.com/endorsements",
-"https://curtin4judge.com/help-the-campaign",
-"https://curtin4judge.com/meet-cynthia",
-"https://curtin4judge.com/meet-the-candidate",
-"https://facebook.com/people/Cynthia-Curtin-for-Judge/61577337141123"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+barberton%2C+ohio%2C+44203+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1312+brittain+road+akron%2C+ohio%2C+44310+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1315+connecticut+woods+drive+hudson%2C+ohio%2C+44236+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2155+middleton+road+hudson%2C+oh%2C+44236+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4157+hudson+drive+stow%2C+ohio%2C+44224+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=505+north+market+street+wooster%2C+ohio%2C+44691+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=8870+darrow+road+twinsburg%2C+oh%2C+44087+united+states"
+},
+{
+"text": "0",
+"href": "https://curtin4judge.com/cart"
+},
+{
+"text": "Barberton on Parade with Cynthia Curtin",
+"href": "https://curtin4judge.com/calendar/barberton-labor-day-parade"
+},
+{
+"text": "Campaign Committee",
+"href": "https://curtin4judge.com/campaign-committee"
+},
+{
+"text": "Campaign Kickoff Fundraiser",
+"href": "https://curtin4judge.com/calendar/campaign-kickoff-fundraiser"
+},
+{
+"text": "Celebrate St. Patrick’s Day",
+"href": "https://curtin4judge.com/calendar/celebrate-st-patricks-day"
+},
+{
+"text": "Endorsements",
+"href": "https://curtin4judge.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Barberton+on+Parade+with+Cynthia+Curtin&dates=20260907T140000Z%2F20260907T170000Z&location=Barberton%2C+Ohio%2C+44203%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff+Fundraiser&dates=20260225T223000Z%2F20260226T000000Z&location=2155+Middleton+Road%2C+Hudson%2C+OH%2C+44236%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Celebrate+St.+Patrick%E2%80%99s+Day&dates=20260316T213000Z%2F20260316T230000Z&location=8870+Darrow+Road%2C+Twinsburg%2C+OH%2C+44087%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Medina+Maven%E2%80%99s+Meet+the+Candidates&dates=20260917T213000Z%2F20260917T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Poolside+Fundraiser&dates=20260903T210000Z%2F20260903T230000Z&location=1315+Connecticut+Woods+Drive%2C+Hudson%2C+Ohio%2C+44236%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Reception+in+Support+of+Cynthia+Curtin+for+Judge&dates=20260624T213000Z%2F20260624T230000Z&location=1312+Brittain+Road%2C+Akron%2C+Ohio%2C+44310%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Stow+Steps+Up%3A+Candidate+Forum&dates=20260923T223000Z%2F20260924T003000Z&location=4157+Hudson+Drive%2C+Stow%2C+Ohio%2C+44224%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wooster+Welcomes+Curtin%3A+A+Fundraiser+Event&dates=20260909T213000Z%2F20260909T230000Z&location=505+North+Market+Street%2C+Wooster%2C+Ohio%2C+44691%2C+United+States"
+},
+{
+"text": "Help the Campaign",
+"href": "https://curtin4judge.com/help-the-campaign"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/barberton-labor-day-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/campaign-kickoff-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/celebrate-st-patricks-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/mn7gtn6ym4zyavra1dre7lere9kyf3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/poolside-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/stow-steps-up-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/wooster-welcomes-curtin?format=ical"
+},
+{
+"text": "Medina Maven’s Meet the Candidates",
+"href": "https://curtin4judge.com/calendar/mn7gtn6ym4zyavra1dre7lere9kyf3"
+},
+{
+"text": "Meet Cynthia Curtin",
+"href": "https://curtin4judge.com/meet-cynthia"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://curtin4judge.com/meet-the-candidate"
+},
+{
+"text": "Poolside Fundraiser",
+"href": "https://curtin4judge.com/calendar/poolside-fundraiser"
+},
+{
+"text": "Reception in Support of Cynthia Curtin for Judge",
+"href": "https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq"
+},
+{
+"text": "Stow Steps Up: Candidate Forum",
+"href": "https://curtin4judge.com/calendar/stow-steps-up-candidate-forum"
+},
+{
+"text": "Upcoming Events",
+"href": "https://curtin4judge.com/calendar"
+},
+{
+"text": "View Event →",
+"href": "https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq"
+},
+{
+"text": "View Event →",
+"href": "https://curtin4judge.com/calendar/barberton-labor-day-parade"
+},
+{
+"text": "View Event →",
+"href": "https://curtin4judge.com/calendar/campaign-kickoff-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://curtin4judge.com/calendar/celebrate-st-patricks-day"
+},
+{
+"text": "View Event →",
+"href": "https://curtin4judge.com/calendar/mn7gtn6ym4zyavra1dre7lere9kyf3"
+},
+{
+"text": "View Event →",
+"href": "https://curtin4judge.com/calendar/poolside-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://curtin4judge.com/calendar/stow-steps-up-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://curtin4judge.com/calendar/wooster-welcomes-curtin"
+},
+{
+"text": "Wooster Welcomes Curtin: A Fundraiser Event",
+"href": "https://curtin4judge.com/calendar/wooster-welcomes-curtin"
+},
+{
+"text": "[image: Barberton on Parade with Cynthia Curtin]",
+"href": "https://curtin4judge.com/calendar/barberton-labor-day-parade"
+},
+{
+"text": "[image: Campaign Kickoff Fundraiser]",
+"href": "https://curtin4judge.com/calendar/campaign-kickoff-fundraiser"
+},
+{
+"text": "[image: Celebrate St. Patrick’s Day]",
+"href": "https://curtin4judge.com/calendar/celebrate-st-patricks-day"
+},
+{
+"text": "[image: Cynthia Curtin for Judge]",
+"href": "https://curtin4judge.com/"
+},
+{
+"text": "[image: Poolside Fundraiser]",
+"href": "https://curtin4judge.com/calendar/poolside-fundraiser"
+},
+{
+"text": "[image: Reception in Support of Cynthia Curtin for Judge]",
+"href": "https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq"
+},
+{
+"text": "[image: Wooster Welcomes Curtin: A Fundraiser Event]",
+"href": "https://curtin4judge.com/calendar/wooster-welcomes-curtin"
+},
+{
+"text": "[no text]",
+"href": "https://curtin4judge.com/calendar/mn7gtn6ym4zyavra1dre7lere9kyf3"
+},
+{
+"text": "[no text]",
+"href": "https://curtin4judge.com/calendar/stow-steps-up-candidate-forum"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Cynthia-Curtin-for-Judge/61577337141123"
+},
+{
+"text": "[no text]",
+"href": "mailto:curtin4judge@gmail.com"
+},
+{
+"text": "curtin4judge@gmail.com",
+"href": "mailto:curtin4judge@gmail.com"
+}
 ]

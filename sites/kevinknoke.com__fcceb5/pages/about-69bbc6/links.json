@@ -1,9 +1,46 @@
 [
-"https://kevinknoke.com/",
-"https://kevinknoke.com/about",
-"https://kevinknoke.com/connect",
-"https://kevinknoke.com/endorsements",
-"https://kevinknoke.com/issues",
-"https://kevinknoke.com/privacy-policy",
-"https://secure.actblue.com/donate/kevin-knoke-1"
+{
+"text": "ABOUT",
+"href": "https://www.kevinknoke.com/about"
+},
+{
+"text": "Ask a Question",
+"href": "mailto:knokeforad30@gmail.com?subject=I+have+a+question+relating+to+your+campaign"
+},
+{
+"text": "Back to Top",
+"href": "https://www.kevinknoke.com/about"
+},
+{
+"text": "CONNECT",
+"href": "https://www.kevinknoke.com/connect"
+},
+{
+"text": "Click Here to See My Endorsements",
+"href": "https://www.kevinknoke.com/endorsements"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kevin-knoke-1"
+},
+{
+"text": "HOME",
+"href": "https://www.kevinknoke.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.kevinknoke.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kevinknoke.com/privacy-policy"
+},
+{
+"text": "There is an old saying to judge people by the company they keep. Well... there is some truth to that point. That's why I'm so proud to receive the endorsement of these organizations.",
+"href": "https://www.kevinknoke.com/endorsements"
+},
+{
+"text": "[image: Kevin Knoke for Assembly campaign logo]",
+"href": "https://www.kevinknoke.com"
+}
 ]

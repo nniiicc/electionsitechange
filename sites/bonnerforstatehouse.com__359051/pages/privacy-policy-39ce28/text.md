@@ -1,17 +1,9 @@
-Privacy Policy
-Who we are
-Our website address is: www.bonnerforstatehouse.com
-What personal data do we collect and why
-Comments
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+top of page Home Meet Josh Issues Contact Donate More Use tab to navigate through the menu items.
+Privacy Policy Who we are Our website address is: www.bonnerforstatehouse.com What personal data do we collect and why Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.
 The Gravatar service privacy policy is available here: https://automattic.com/privacy/.
-After approval of your comment, your profile picture is visible to the public in the context of your comment.
-media
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included.
-Visitors to the website can download and extract any location data from images on the website.
-contact forms cookies
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies.
+After approval of your comment, your profile picture is visible to the public in the context of your comment. media If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included.
+Visitors to the website can download and extract any location data from images on the website. contact forms cookies If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies.
 These are for your convenience so that you do not have to fill in your details again when you leave another comment.
 These cookies will last for one year.
 If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies.
@@ -22,30 +14,19 @@ If you select “Remember Me”, your login will persist for two weeks.
 If you log out of your account, the login cookies will be removed.
 If you edit or publish an article, an additional cookie will be saved in your browser.
 This cookie includes no personal data and simply indicates the post ID of the article you just edited.
-It expires after 1 day.
-embedded content from other websites
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.).
-Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
-analytics
-who we share your data with how long we retain your data
-If you leave a comment, the comment and its metadata are retained indefinitely.
+It expires after 1 day. embedded content from other websites analytics who we share your data with how long we retain your data If you leave a comment, the comment and its metadata are retained indefinitely.
 This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 For users that register on our website (if any), we also store the personal information they provide in their user profile.
 All users can see, edit, or delete their personal information at any time (except they cannot change their username).
-Website administrators can also see and edit that information.
-what rights you have over your data
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.
+Website administrators can also see and edit that information. what rights you have over your data If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.
 You can also request that we erase any personal data we hold about you.
-This does not include any data we are obliged to keep for administrative, legal, or security purposes.
-where we send your data
-Vistor comments may be checked through an automated spam detection service.
-mobile opt-in data will not be share with 3rd parties.
-terms & conditions - sms opt-in
-By opting into Commitee to Elect Josh Bonner text messages, you agree to receive informational messages including updates, polling, campaign alerts, and volunteer or donation opportunities.
+This does not include any data we are obliged to keep for administrative, legal, or security purposes. where we send your data Vistor comments may be checked through an automated spam detection service. mobile opt-in data will not be share with 3rd parties. terms & conditions - sms opt-in By opting into Commitee to Elect Josh Bonner text messages, you agree to receive informational messages including updates, polling, campaign alerts, and volunteer or donation opportunities.
 Message frequency may vary.
 Message and data rates may apply.
 Reply STOP to opt out.
-Reply HELP for help or email josh@bonnerforstatehouse.com.
+Reply HELP for help or email josh@bonnerforstatehouse.com .
 Your information will not be sold or shared with third parties.
 Consent is not a condition of any donation or volunteer participation.
+Contact Email * Name * Subject Message Thanks!
+Message sent.
+Send Join our mailing list Subscribe Now Paid for by Committee to Elect Josh Bonner Privacy Policy bottom of page

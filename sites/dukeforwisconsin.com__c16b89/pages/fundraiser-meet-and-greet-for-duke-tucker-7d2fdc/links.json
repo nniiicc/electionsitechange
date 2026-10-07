@@ -1,14 +1,58 @@
 [
-"http://kirkandersonmarketing.com/",
-"https://dukeforwisconsin.com/",
-"https://dukeforwisconsin.com/author/admin01",
-"https://dukeforwisconsin.com/biography",
-"https://dukeforwisconsin.com/category/events",
-"https://dukeforwisconsin.com/contact",
-"https://dukeforwisconsin.com/district-75",
-"https://dukeforwisconsin.com/donate",
-"https://dukeforwisconsin.com/endorsements",
-"https://dukeforwisconsin.com/news",
-"https://dukeforwisconsin.com/the-issues",
-"https://facebook.com/Duke75Assembly"
+{
+"text": "Admin01",
+"href": "https://dukeforwisconsin.com/author/admin01/"
+},
+{
+"text": "Biography",
+"href": "https://dukeforwisconsin.com/biography/"
+},
+{
+"text": "Contact",
+"href": "https://dukeforwisconsin.com/contact/"
+},
+{
+"text": "District 75",
+"href": "https://dukeforwisconsin.com/district-75/"
+},
+{
+"text": "Donate",
+"href": "https://dukeforwisconsin.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://dukeforwisconsin.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://dukeforwisconsin.com/category/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Duke75Assembly"
+},
+{
+"text": "Home",
+"href": "https://dukeforwisconsin.com/"
+},
+{
+"text": "KAM",
+"href": "http://www.kirkandersonmarketing.com/"
+},
+{
+"text": "News",
+"href": "https://dukeforwisconsin.com/news/"
+},
+{
+"text": "The Issues",
+"href": "https://dukeforwisconsin.com/the-issues/"
+},
+{
+"text": "[image: Duke for Wisconsin | Duke Tucker for the 75th Assembly District]",
+"href": "https://dukeforwisconsin.com/"
+},
+{
+"text": "campaign@DukeforWisconsin.com",
+"href": "mailto:campaign@DukeforWisconsin.com"
+}
 ]

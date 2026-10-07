@@ -1,6 +1,4 @@
-Skip navigation menu
-NC-10 Congressional Race 2026
-Ashley Bell isn't a career politician.
+Skip navigation menu About VOLUNTEER Donate Issues Events Contact FreeAgents Yard Sign Request Get Our Emails About - Ashley About VOLUNTEER Donate Issues Events Contact FreeAgents Yard Sign Request Get Our Emails About - Ashley NC-10 Congressional Race 2026 Ashley Bell isn't a career politician.
 She's a Physician Associate (PA) working four jobs in North Carolina.
 Every shift, she sees what happens when Washington gets healthcare wrong.
 She's watched patients choose between prescriptions and groceries.
@@ -8,8 +6,23 @@ She's filled out the paperwork that insurance companies use to say no.
 She's had the conversations that politicians never have to have.
 That's why she's running.
 Not for a title — but because she knows what's broken, she knows how to fix it, and NC's 10th District deserves someone in Congress who can say that honestly.
-The story behind the candidate
-I'm a Physician Associate, an educator, and a straight talker.
+15 years in medicine.
+Ashley has worked in emergency medicine, primary care, rural clinics, and telemedicine across North Carolina — treating not just symptoms, but the stories behind them.
+20 years as an educator.
+From public school teacher, to a university professor training the next generation of PAs — Ashley has spent her career putting people first in the classroom and the clinic.
+Rural roots.
+Ashley was raised in ruby-red rural East Texas by small-business owners.
+She was the first in her family to go to college, and she paid her way through on Pell grants, scholarships, and part-time jobs.
+Lives and works in NC-10.
+A Wake Forest School of Medicine graduate, Ashley has called the Triad home for years — and she's still here, still working, still seeing patients.
+A long track record of leadership.
+Ashley has experience in leadership at national, state and local levels in her profession, serving on boards of directors and national committees.
+She has visited Capitol Hill many times advocating for PAs and patients.
+A record of accountability.
+As a professor, Ashley took on a billion-dollar ed-tech company exploiting students.
+Working with media and the U.S.
+Department of Education, she helped force that company to shut down its predatory practices.
+The story behind the candidate I'm a Physician Associate, an educator, and a straight talker.
 Ashley Bell didn't grow up thinking she'd run for Congress.
 She grew up in ruby-red rural East Texas, raised by small-business owners — her grandfather started an HVAC company in 1957 that still operates today.
 She was the first in her family to attend college, getting there on Pell grants, music scholarships, and sheer determination.
@@ -49,20 +62,5 @@ She's not running to climb a ladder — she's answering a call from working fami
 She believes healthcare shouldn't depend on your job.
 She believes every child deserves a fully funded public school.
 She believes no one — no company, no politician — should be above the law.
-As Pat Harrigan's challenger, she believes NC-10 is ready for someone who will actually show up.
-- 15 years in medicine.
-Ashley has worked in emergency medicine, primary care, rural clinics, and telemedicine across North Carolina — treating not just symptoms, but the stories behind them.
-- 20 years as an educator.
-From public school teacher, to a university professor training the next generation of PAs — Ashley has spent her career putting people first in the classroom and the clinic.
-- Rural roots.
-Ashley was raised in ruby-red rural East Texas by small-business owners.
-She was the first in her family to go to college, and she paid her way through on Pell grants, scholarships, and part-time jobs.
-- Lives and works in NC-10.
-A Wake Forest School of Medicine graduate, Ashley has called the Triad home for years — and she's still here, still working, still seeing patients.
-- A long track record of leadership.
-Ashley has experience in leadership at national, state and local levels in her profession, serving on boards of directors and national committees.
-She has visited Capitol Hill many times advocating for PAs and patients.
-- A record of accountability.
-As a professor, Ashley took on a billion-dollar ed-tech company exploiting students.
-Working with media and the U.S.
-Department of Education, she helped force that company to shut down its predatory practices.
+As Pat Harrigan's challenger, she believes NC-10 is ready for someone who will actually show up. info@ashleybellforcongress.com Powered by RUN! website builder Paid For by Ashley Bell for Congress.
+Photos by Liz Nemeth and Alan Petrozelle Privacy Policy | Terms and Conditions You need to enable JavaScript to run this app.

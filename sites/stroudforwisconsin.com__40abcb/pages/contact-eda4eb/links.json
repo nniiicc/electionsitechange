@@ -1,6 +1,26 @@
 [
-"https://stroudforwisconsin.com/",
-"https://stroudforwisconsin.com/candidate",
-"https://stroudforwisconsin.com/contact",
-"https://stroudforwisconsin.com/issues"
+{
+"text": "Angela Stroud For Wisconsin",
+"href": "https://stroudforwisconsin.com"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://stroudforwisconsin.com/contact/"
+},
+{
+"text": "The Candidate",
+"href": "https://stroudforwisconsin.com/candidate/"
+},
+{
+"text": "The Issues",
+"href": "https://stroudforwisconsin.com/issues/"
+},
+{
+"text": "[image: Stroud for Wisconsin Logo]",
+"href": "https://stroudforwisconsin.com/"
+},
+{
+"text": "← Back",
+"href": "https://stroudforwisconsin.com/contact/"
+}
 ]

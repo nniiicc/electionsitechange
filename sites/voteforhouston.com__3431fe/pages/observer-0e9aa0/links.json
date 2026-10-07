@@ -1,9 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61583938376787",
-"https://instagram.com/vote4houston",
-"https://voteforhouston.com/",
-"https://voteforhouston.com/ca36",
-"https://voteforhouston.com/solutions",
-"https://voteforhoustonopenletter.blob.core.windows.net/openletter/RE-Congressional%20Observer.pdf",
-"https://x.com/vote4houston"
+{
+"text": "Back to home",
+"href": "https://www.voteforhouston.com/"
+},
+{
+"text": "CA-36",
+"href": "https://www.voteforhouston.com/ca36"
+},
+{
+"text": "JOIN US",
+"href": "https://www.voteforhouston.com/#getinvolved"
+},
+{
+"text": "Open the full PDF in a new tab",
+"href": "https://voteforhoustonopenletter.blob.core.windows.net/openletter/RE-Congressional%20Observer.pdf"
+},
+{
+"text": "Solutions",
+"href": "https://www.voteforhouston.com/solutions"
+},
+{
+"text": "[image]",
+"href": "https://www.voteforhouston.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583938376787"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vote4houston/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/vote4houston"
+}
 ]

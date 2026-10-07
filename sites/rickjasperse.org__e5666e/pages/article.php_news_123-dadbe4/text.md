@@ -1,15 +1,11 @@
-[January 29, 2023] | The General Assembly spent the second week of session for the purpose of Joint Appropriations Budget Hearings to hear Gov.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK BUDGET HEARINGS [ January 29, 2023 ] | The General Assembly spent the second week of session for the purpose of Joint Appropriations Budget Hearings to hear Gov.
 Brian Kemp's $32.5 billion budget proposal.
 Every year these hearings begin with the Governor presenting his budget and legislative ideas that lay out key proposals designed to better the lives of Georgians.
 This year was no different.
-The Governor proposed the following budgetary changes:
-?
-Education: to include $2,000 pay raises for teachers and other school employees, hire school counselors, train paraprofessionals for full teaching certification, and provide HOPE scholarships at 100% of tuition.
-?
-Healthcare: to include funds for Kemps improved Georgia's Medicaid coverage program- that requires those who are able, to work, volunteer, or attend school or training programs.
-?
-Public Safety: to include emergency maintenance and repairs at prisons, a new statewide radio network allowing interagency communications, and a education loan repayment program for state and local law enforcement officers to ensure we're hiring and retaining the best and the brightest.
-?
+The Governor proposed the following budgetary changes: ?
+Education: to include $2,000 pay raises for teachers and other school employees, hire school counselors, train paraprofessionals for full teaching certification, and provide HOPE scholarships at 100% of tuition. ?
+Healthcare: to include funds for Kemps improved Georgia's Medicaid coverage program- that requires those who are able, to work, volunteer, or attend school or training programs. ?
+Public Safety: to include emergency maintenance and repairs at prisons, a new statewide radio network allowing interagency communications, and a education loan repayment program for state and local law enforcement officers to ensure we're hiring and retaining the best and the brightest. ?
 Included in this proposal is an income tax refund, as well as a property tax rebate that puts your money back in your pocket.
 It's important to remember that the Governor's initial budget proposal is just that - a proposal.
 The General Assembly will spend time over the next few weeks of our session holding further hearings, and drafting and voting on legislation to implement budget priorities that put Georgia and Georgians first.
@@ -25,3 +21,4 @@ My email is rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative.
 Enjoyed using my Son in Law Elizabeth Jasperse Wright's Husband Justin Wright at the Capitol for Cities Day.
 He is on the city council in Centerville.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

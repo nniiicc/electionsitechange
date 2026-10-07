@@ -1,9 +1,7 @@
-To provide the best experiences, we use technologies like cookies to store and/or access device information.
-Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.
-Not consenting or withdrawing consent, may adversely affect certain features and functions.
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-The technical storage or access that is used exclusively for statistical purposes.
-The technical storage or access that is used exclusively for anonymous statistical purposes.
-Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Skip to primary navigation Skip to main content Skip to footer Dan Ugaste for State Representative A Voice of Reason in a Time of Extremism Home About Dan’s Plan for Illinois Issues Contact Volunteer News Donate Ugaste Endorsed: Illinois Chamber of commerce October 15, 2024 by Ugaste Admin “Representative Dan Ugaste plays a unique and vital role for the Illinois business community in our State Capitol.
+As an expert in workers’ compensation, he provides important insights and balance which protects both workers and employers.
+Rep.
+Ugaste understands the needs of main street businesses and negotiates real solutions that are a win/win for all parties and he has earned the endorsement of the Illinois Chamber of Commerce PAC. “ About Ugaste Admin Footer Contact Us Dan@UgasteforIllinois.com (847) 595-0522 Contribute Today Every contribution to the campaign helps ensure Victory in November!
+DONATE Copyright © # · Dan Ugaste, All Rights Reserved · Log in Paid for by Citizens for Dan Ugaste.
+A copy of our reports filed with the State Board of Elections is (or will be) available on the Board’s official website .
+Manage consent

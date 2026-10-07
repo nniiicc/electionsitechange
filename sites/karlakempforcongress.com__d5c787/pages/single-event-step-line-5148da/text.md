@@ -1,10 +1,4 @@
-5
-October
-Register to Vote
-15
-6:30 PM
-Pinellas NOW and Voter Action
-We meet at King of Peace Metropolitan Community Church (formerly Good Samaritan), 6085 Park Blvd, Pinellas Park, FL 33781.
+Home About Me Endorsements Find Karla on Social Media Issues Volunteering Donation 2026 IMPORTANT DATES Home 2026 IMPORTANT DATES 5 October Register to Vote 15 October 6:30 PM Pinellas NOW and Voter Action We meet at King of Peace Metropolitan Community Church (formerly Good Samaritan), 6085 Park Blvd, Pinellas Park, FL 33781.
 Arrive at 6 pm for mixing and mingling with NOW members.
 Meeting starts at 6:30 pm.
 Learn how to help voter turnout in the all-important November election!
@@ -15,19 +9,5 @@ This includes using the Reach app to build a network of voters made up of family
 Download Reach - Progressive Organizing onto your smartphone from the App Store and bring that device to the meeting.
 Can’t attend, but want to get involved?
 Sign up through Voter Action Pinellas’ volunteer page and you will be contacted.
-Go to https://voteractionpinellas.org/volunteer-with-us/
-When
-Thursday Oct 15, 2026 ⋅ 6pm – 7pm (Eastern Time - New York)
-Location
-6085 Park Blvd, Pinellas Park, FL 33781-3232, United States
-View map
-Meeting starts at 6:30 pm.
-When
-Location
-View map
-3
-November
-ELECTION DAY
-VOTE!, Bring you neighbors,
-Cast your ballot.
-Cast your ballot.
+Go to https://voteractionpinellas.org/volunteer-with-us/ When Thursday Oct 15, 2026 ⋅ 6pm – 7pm (Eastern Time - New York) Location 6085 Park Blvd, Pinellas Park, FL 33781-3232, United States View map 3 November ELECTION DAY VOTE!, Bring you neighbors, Cast your ballot.
+Political advertisement paid for and approved by Karla Kemp, Democrat Candidate, for Florida Senate District 18 Contact ‪(727) 346-6440‬ betheimpact26@gmail.com 3615 49th St N Unit 119 St Petersburg, FL 33710 Threads Threads Popular Links Volunteering Privacy Policy How Can You Help Volunteering Donation

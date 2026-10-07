@@ -1,58 +1,19 @@
-Fighting for a Kentucky That Works for Everyone
-A Commitment to Accountability:
-Term Limits Now
-“I’ve proudly signed the U.S.
+0 Skip to Content About Megan Megan's Story Platform Values Get Involved Volunteer Contact Calendar On the Trail Donate Open Menu Close Menu About Megan Megan's Story Platform Values Get Involved Volunteer Contact Calendar On the Trail Donate Open Menu Close Menu Folder: About Megan Back Megan's Story Platform Values Folder: Get Involved Back Volunteer Contact Calendar On the Trail Donate Fighting for a Kentucky That Works for Everyone A Commitment to Accountability: Term Limits Now “I’ve proudly signed the U.S.
 Term Limits pledge because career politicians shouldn’t have a monopoly on power.
 Real change requires fresh leadership and new voices.
-I’ll fight for term limits in Congress—because our democracy should work for the people, not political insiders.”
-Our Values
-Economic Justice
-Hard work should lead to stability, not survival.
-It’s time to rebuild an economy where:
-✅ One job is enough to support a family.
-✅ Workers are paid a living wage.
-✅ Small towns thrive—not just big corporations.
-Healthcare for ALL
-Healthcare is a human right.
+I’ll fight for term limits in Congress—because our democracy should work for the people, not political insiders.” Our Values Economic Justice Hard work should lead to stability, not survival.
+It’s time to rebuild an economy where: ✅ One job is enough to support a family. ✅ Workers are paid a living wage. ✅ Small towns thrive—not just big corporations.
+Healthcare for ALL Healthcare is a human right.
 No one should go bankrupt because they got sick.
-I will fight for:
-✅ Universal, affordable, and accessible healthcare.
-✅ An end to medical debt.
-✅ Investment in rural and underserved communities.
-Women’s Rights Are Human Rights
-Every woman deserves the freedom to make her own healthcare choices and live with dignity:
-✅ Protect reproductive freedom and the right to choose.
-✅ End period poverty by providing free menstrual products in schools, prisons, and public spaces.
-✅ Expand access to contraception, maternal care, and cancer screenings—especially in rural areas.
-Childcare & Early Education
-Every child deserves a strong start—and every parent deserves affordable, reliable care.
-I support:
-✅ Universal Pre-K and affordable childcare.
-✅ Increased funding for early childhood programs.
-✅ Support for working families balancing care and careers.
-Auto Shop Protections
-Automakers’ proprietary software and restricted access to diagnostic tools hurt small businesses and working families:
-✅ Legislation that prevents auto manufacturers from hiding essential diagnostics behind a paywall, ensuring independent mechanics, small shops, and consumers have full access to repair their vehicles.
-✅ A reduced design patent enforcement window of 2.5 years for car parts, so affordable aftermarket options can hit the market faster.
-✅ Expanded small business loans for independent auto shops to help them invest in advanced diagnostics and specialty tools—leveling the playing field with dealership service centers.
-Veterans Deserve More Than Thanks
-Our veterans have sacrificed for our country.
-We must honor them with action:
-✅ Expand access to VA care and mental health services.
-✅ Eliminate the disability claims backlog.
-✅ Invest in housing, job training, and suicide prevention.
-LGBTQIA+ Rights & Protections
-Every person deserves dignity, safety, and equality—no matter their identity or who they love.
-I will advocate for:
-✅ Codifying same-sex marriage in federal law to protect love and families.
-✅ Nationwide protections for transgender and non-binary individuals, including the right to accurate gender markers on IDs and protections from discriminatory “bathroom bills.”
-✅ Inclusive family leave laws, with FMLA protections extended to all LGBTQ+ families and partners.
-✅ A federal ban on conversion therapy to protect LGBTQ+ youth and adults from harm.
-A People-First Economy
-Our economy should reward hard work—not just wealth.
-I’m committed to building a fair and inclusive system by:
-✅ Reducing everyday costs for working families and cracking down on corporate price gouging.
-✅ Pushing for tax equity—where corporations and the ultra-wealthy pay their fair share.
-✅ Expanding affordable housing programs and supporting Medicare for All to ease financial burdens.
-✅ Raising the minimum wage and protecting gig workers and union organizing efforts.
-✅ Fighting for an economy that invests in Main Street, not just Wall Street.
+I will fight for: ✅ Universal, affordable, and accessible healthcare. ✅ An end to medical debt. ✅ Investment in rural and underserved communities.
+Women’s Rights Are Human Rights Every woman deserves the freedom to make her own healthcare choices and live with dignity: ✅ Protect reproductive freedom and the right to choose. ✅ End period poverty by providing free menstrual products in schools, prisons, and public spaces. ✅ Expand access to contraception, maternal care, and cancer screenings—especially in rural areas.
+View fullsize Childcare & Early Education Every child deserves a strong start—and every parent deserves affordable, reliable care.
+I support: ✅ Universal Pre-K and affordable childcare. ✅ Increased funding for early childhood programs. ✅ Support for working families balancing care and careers.
+Auto Shop Protections Automakers’ proprietary software and restricted access to diagnostic tools hurt small businesses and working families: ✅ Legislation that prevents auto manufacturers from hiding essential diagnostics behind a paywall, ensuring independent mechanics, small shops, and consumers have full access to repair their vehicles. ✅ A reduced design patent enforcement window of 2.5 years for car parts, so affordable aftermarket options can hit the market faster. ✅ Expanded small business loans for independent auto shops to help them invest in advanced diagnostics and specialty tools—leveling the playing field with dealership service centers.
+Veterans Deserve More Than Thanks Our veterans have sacrificed for our country.
+We must honor them with action: ✅ Expand access to VA care and mental health services. ✅ Eliminate the disability claims backlog. ✅ Invest in housing, job training, and suicide prevention.
+LGBTQIA+ Rights & Protections Every person deserves dignity, safety, and equality—no matter their identity or who they love.
+I will advocate for: ✅ Codifying same-sex marriage in federal law to protect love and families. ✅ Nationwide protections for transgender and non-binary individuals, including the right to accurate gender markers on IDs and protections from discriminatory “bathroom bills.” ✅ Inclusive family leave laws, with FMLA protections extended to all LGBTQ+ families and partners. ✅ A federal ban on conversion therapy to protect LGBTQ+ youth and adults from harm.
+A People-First Economy Our economy should reward hard work—not just wealth.
+I’m committed to building a fair and inclusive system by: ✅ Reducing everyday costs for working families and cracking down on corporate price gouging. ✅ Pushing for tax equity—where corporations and the ultra-wealthy pay their fair share. ✅ Expanding affordable housing programs and supporting Medicare for All to ease financial burdens. ✅ Raising the minimum wage and protecting gig workers and union organizing efforts. ✅ Fighting for an economy that invests in Main Street, not just Wall Street.
+DONATE PAID FOR BY WINGFIELD FOR CONGRESS © Megan Wingfield for Congress # Site designed and created by sisumarketing.com

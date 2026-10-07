@@ -1,5 +1,4 @@
-Child Tax Credits Pitched as Anti-Poverty Tool for Nebraska Children
-It all begins with an idea.
+0 Skip to Content Meet Danielle Why I'm Running Volunteer News Awards & Recognition Donate Open Menu Close Menu Donate Meet Danielle Why I'm Running Volunteer News Awards & Recognition Open Menu Close Menu Meet Danielle Why I'm Running Volunteer News Awards & Recognition Donate Child Tax Credits Pitched as Anti-Poverty Tool for Nebraska Children Sep 3 Written By Neal Mattox It all begins with an idea.
 Maybe you want to launch a business.
 Maybe you want to turn a hobby into something more.
 Or maybe you have a creative project to share with the world.
@@ -13,3 +12,5 @@ The beauty of your story is that it’s going to continue to evolve and your sit
 Your goal should be to make it feel right for right now.
 Later will take care of itself.
 It always does.
+Neal Mattox Previous Previous Tips and overtime pay would be exempt from state income tax under Legislative proposals Next Next Nebraska Sen.
+Danielle Conrad has returned to politics as nonpartisan 'voice of reason' We all belong in Nebraska. ❤️ PAID FOR BY CONRAD FOR LEGISLATURE 3818 Dudley Street, Lincoln NE 68503 Kate Wofe, Treasurer Meet Danielle Why I’m Running Volunteer Donate

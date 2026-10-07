@@ -1,7 +1,6 @@
-What to Know About Iowa's Education College Savings Accounts
-Apr 1
-Updated: Apr 5
-Iowa approved Education College Savings Accounts to help pay for students who choose to attend private school.
+top of page Menu Schmidt for IA House Donate Close State Politics Religion Education Health Agriculture Economy Terms & Conditions Privacy Policy Accessibility Statement Contact Us State Politics Religion Education Health Agriculture Economy Donate All Posts Health Politics Education Religion Rural Iowa Agriculture Economy Environment What to Know About Iowa's Education College Savings Accounts Apr 1 1 min read Updated: Apr 5 Iowa approved Education College Savings Accounts to help pay for students who choose to attend private school.
 Here's how they work.
-top of page
-bottom of page
+Education Recent Posts See All Campaign Blog: Independence Day Book banning discussed at Mason City School Board Meeting Join Our Movement to Take Back Iowa Be a part of something that you will be proud of the rest of your life... help Alexander Schmidt win Iowa House - District 60 and make Iowa the welcoming state it was always intended to be.
+First name Last name Phone Email * How can you help our campaign?
+Yard sign Volunteer Host an event Other Send Alexander Schmidt for Iowa House Categories State Politics Religion Education Health Rural Iowa Environment Agriculture Economy Popular Tags No tags yet.
+Contact Us Privacy Policy © # PAID FOR BY ALEXANDER SCHMIDT FOR IOWA HOUSE State Politics Religion Education Health Agriculture Economy bottom of page

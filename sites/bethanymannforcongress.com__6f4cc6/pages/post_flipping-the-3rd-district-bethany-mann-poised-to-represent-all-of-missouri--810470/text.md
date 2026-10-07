@@ -1,6 +1,6 @@
-August 26, 2024
-The race for Missouri’s 3rd Congressional District is heating up, and the recent developments indicate that this seat is more flippable than ever.
-The front-page story in the News Tribune this week, with the headline “Mid-Missouri Republicans Worried About Representation in 3rd Congressional District,” underscores the growing concern within the GOP ranks.
+Skip to content MISSOURI’S 3RD DISTRICT · DEMOCRAT FOR CONGRESS Our future is worth showing up for.
+Join us ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Menu ☰ Meet Bethany The issues News & events Get involved Donate ↗ Home / CAMPAIGN NEWS Flipping the 3rd District: Bethany Mann Poised to Represent All of Missouri’s 3rd August 26, 2024 The race for Missouri’s 3rd Congressional District is heating up, and the recent developments indicate that this seat is more flippable than ever.
+The front-page story in the News Tribune this week, with the headline “ Mid-Missouri Republicans Worried About Representation in 3rd Congressional District ,” underscores the growing concern within the GOP ranks.
 Bob Onder, who secured just 47 percent of the Republican primary vote, is facing criticism for his failure to resonate with rural voters, leaving many in the Republican Party anxious about their standing in the district.
 The News Tribune article highlights key concerns surrounding Bob Onder’s ability to reach voters in Mid-Missouri counties.
 Kurt Schaefer, the runner up in the Republican primary, won the majority of votes in nine out of the 16 counties within the district, all located in the more central part of the state.
@@ -15,9 +15,14 @@ She knows that the challenges facing rural communities are just as important as 
 From healthcare access to agricultural support, Bethany has a plan that reflects the real needs of the district.
 This is our moment.
 The 3rd District is not just a battleground; it’s an opportunity to elect a representative who truly understands and cares about the people of Mid-Missouri.
-The GOP’s internal concerns, as highlighted by the News Tribune, show that they know this seat is in play.
+The GOP’s internal concerns, as highlighted by the News Tribune , show that they know this seat is in play.
 Bethany Mann’s campaign is gaining momentum because she’s connecting with voters who feel left behind by the current leadership.
 As the election approaches, it’s becoming increasingly clear that Bethany Mann is the candidate who can unite the 3rd District.
 This is more than just a race; it’s a chance to ensure that every community, every family, and every individual in our district has a voice in Washington.
 With your support, we can flip this seat and bring true representation to Missouri’s 3rd District.
-To read the full News Tribune article, click here.
+To read the full News Tribune article, click here .
+All campaign news → LET’S BUILD THIS TOGETHER Missouri is worth the work.
+Help power a campaign rooted in our communities.
+Support Bethany ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Bringing Missourians together.
+Facebook ↗ Instagram ↗ TikTok ↗ X ↗ Explore Meet Bethany The issues Endorsements News & events Take part Volunteer Donate ↗ Campaign newsletter ↗ Contact the campaign Mail contributions Bethany Mann for Congress P.O.
+Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗

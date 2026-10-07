@@ -1,9 +1,8 @@
-During the interim LSO, Legislative Service Office, prepared a research document for me which provides a “snapshot” of State Government by comparing what Wyoming General Fund Agency Budgets looked like the last time revenues were at similar levels to those we face currently.
-The comparison includes:
-- 2001-2002 budget when revenues were $1,576,829,971
-- 2003-2004 budget when revenues were $1,985,784,731
-- 2017-2018 budget when revenues were projected to be $2,669,000,000
-It is worthwhile to note that even with the reduced revenues we:
-- Saved $176,704,728 in the 01-2002 biennia
-- Saved $31,466,078 in the 02-2003 biennia
-- While in a similar revenue climate the 2017-18 budget spends from the LSRA, (Least-squares Regression Analysis).
+Skip to content Wyoming Senator Cheri Steinmetz SD3 Menu Home Bio News Calendar Sponsor/Co-sponsor Bills + BILLS 2026 Bills 2025 Bills 2024 Bills 2023 Bills 2022 Bills 2021 Bills 2020 Bills 2019 Bills 2018 Bills 2017 Position on the Issues Articles of Interest Endorsements Wyoming Senator Cheri Steinmetz SD3 | News | Budget | Budget Comparisons Budget Comparisons Published on: December 28, 2018 December 28, 2018 by Admin &nbsp Category: Budget Budget During the interim LSO, Legislative Service Office, prepared a research document for me which provides a “snapshot” of State Government by comparing what Wyoming General Fund Agency Budgets looked like the last time revenues were at similar levels to those we face currently.
+The comparison includes: 2001-2002 budget when revenues were $1,576,829,971 2003-2004 budget when revenues were $1,985,784,731 2017-2018 budget when revenues were projected to be $2,669,000,000 It is worthwhile to note that even with the reduced revenues we: Saved $176,704,728 in the 01-2002 biennia Saved $31,466,078 in the 02-2003 biennia While in a similar revenue climate the 20 17-18 budget spends from the LSRA , (Least-squares Regression Analysis).
+2017 Biennial Revenue History 2017 appopriations comparison 01-02 to 17-18 final 2017 01-02 and 03-04 inflated appropriations comparison 8-22-17 2017 K-12 appropriations and shortfalls Share this: Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on X (Opens in new window) X Like this: Like Loading...
+Article Information Last Modified on December 28, 2018 This entry was posted in Budget Bookmark this article Budget Comparisons Post navigation More Articles Wyoming State Debt Clock News Release 2-14-2022 Search for: News BILLS 2026 Bills and Status Bills 2025 Bills 2024 Bills 2023 Address Cheri Steinmetz P.O.
+Box 101 Lingle, WY 82223 307-534-5342 Email Contact Wyoming Larger government equals less individual freedom and prosperity.
+We must address the structural budget deficit without increasing taxes.
+Select Menu Home Donate Contact Committees 2026 - Senate Corporations, Elections & Political Subdivisions 2026 - Senate Labor, Health & Social Services "Paid for by the Committee to Elect Steinmetz for Senate" © # Cheri Steinmetz Senate District 3.
+All rights reserved. %d

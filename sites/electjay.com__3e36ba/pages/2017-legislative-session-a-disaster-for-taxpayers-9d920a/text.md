@@ -1,4 +1,4 @@
-Mark Twain once said, “No man’s life, liberty, or property are safe while the legislature is in session.” That observation was especially applicable to the 2017 session of the California State Legislature.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute 2017 Legislative Session: A Disaster for Taxpayers experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat Mark Twain once said, “No man’s life, liberty, or property are safe while the legislature is in session.” That observation was especially applicable to the 2017 session of the California State Legislature.
 Middle-class taxpayers in California were hit with more tax increases than any year since 1935; the Legislature reduced penalties on criminals, endangering public safety; and few reforms were made to reduce waste, fraud, and abuse in our state government.
 In April, taxpayers were burdened with the largest gas tax increase in state history when the Legislature passed Senate Bill 1, which took effect Wednesday.
 Once the tax is fully implemented, it will increase gasoline taxes by 20 cents per gallon, increase taxes on diesel fuel by 20 cents per gallon, increase vehicle registration fees by between $25 and $175 per year, and add a new $100 fee on all electric vehicles.
@@ -31,4 +31,4 @@ There is still an opportunity to repeal the gas, diesel, and car registration ta
 I am working with several of my colleagues to place a gas tax repeal on the November 2018 ballot so the voters can have their say on these regressive taxes.
 I will continue to fight for everyday Californians and a return to fiscal sanity in our state.
 It is an honor to represent you in Sacramento.
-Jay Obernolte, R-Hesperia, represents the High Desert in the state Assembly.
+Jay Obernolte, R-Hesperia, represents the High Desert in the state Assembly. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

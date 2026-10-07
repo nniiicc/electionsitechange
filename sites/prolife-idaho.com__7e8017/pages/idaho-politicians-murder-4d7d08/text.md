@@ -1,9 +1,13 @@
-The 14th Amendment to the US Constitution says, ..."nor shall any State deprive any 'person' of life"...
+ProLife Idaho About The Issues Idaho Politicians & Murder More...
+About Us On The Platform Resources Contact VOTE PROLIFE IDAHO!
+VOTE PROLIFE IDAHO!
+Idaho Politicians & Baby Murder The 14th Amendment to the US Constitution says, ..."nor shall any State deprive any 'person' of life"...
 Senator Roger Wicker (R) MS in past years introduced a bill which defines 'person' as beginning at fertilization.
 Senator Risch was a cosponsor and Senator Crapo was 'not' a cosponsor.
 Any politician who is really interested in stopping the holocaust of preborn baby murder will sponsor this kind of bill.
 In past years in the House, Paul Broun (R) GA, and Duncan Hunter (R) CA introduced similar bills.
-Duncan Hunter's bill, H.R. 374, had many cosponsors, one from Idaho, Raul Labrador.
+Duncan Hunter's bill, H.R.
+374, had many cosponsors, one from Idaho, Raul Labrador.
 Congressman Fulcher seems to be open to personhood at fertilization and should be a sponsor.
 We hope he accepts the responsibility.
 Duncan Hunter's bill (Duncan is not in Congress now) needed to be discarded because it said, "no prosecution of any woman for the death of her unborn child." To declare, that a women who willingly participates in the murder of her baby should not recieve punishment shows just how sick the GOP Congress people are.
@@ -17,8 +21,7 @@ Most of them take campaign donations from preborn baby murder groups like Planne
 Senator Risch of Idaho can now show how pro-life he really is.
 He is on record as saying "abortion is a state issue" and "the woman should not be punished for having an abortion." Mr Risch in years past cosponsored Senator Wicker's bill to establish personhood at fertilization.
 Senator Crapo's website indicates nothing regarding legal personhood of the preborn baby.
-I am on record as saying that, "abortion is murder and everyone connected with the murder of a pre-born baby should be charged with murder, or assesory to murder, including the person who drives the mother to the baby murder center."
-Very few members of the Idaho Legislature are willing to introduce personhood legislation as of this date (2023).
+I am on record as saying that, "abortion is murder and everyone connected with the murder of a pre-born baby should be charged with murder, or assesory to murder, including the person who drives the mother to the baby murder center." Very few members of the Idaho Legislature are willing to introduce personhood legislation as of this date (2023).
 Those who are willing to sponsor legislation get rejected by leadership.
 The reason for this, Idaho Right to Life, and Idaho Chooses Life, believe that personhood will be struck down by Federal courts.
 This obviously is right, but nevertheless we must introduce personhood legislation to educate the public that 'abortion is murder' and that Idaho can ignore Federal courts and stop the murders.
@@ -44,6 +47,7 @@ Was the baby killed in self defense?
 Or was the mother being selfish, and the doctor went along with baby murder?
 No baby should ever be murdered for rape or incest, yes never.
 Legal personhood begins at fertilization (when sperm meets egg).
-Women should be charged with murder for knowingly, selfishly, killing their babies.
-© Copyright 2026 ProLife Idaho.
+Women should be charged with murder for knowingly, selfishly, killing their babies. © Copyright # ProLife Idaho.
 All rights reserved.
+Account Login × Please enter your credentials...
+Cancel Login

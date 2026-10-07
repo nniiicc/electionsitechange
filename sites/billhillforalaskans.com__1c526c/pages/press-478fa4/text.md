@@ -1,20 +1,14 @@
-Press
-Press Releases
-Labor support for Bill Hill continues to grow
-Bill Hill has fished Bristol Bay his whole life.
+Skip to content Bill’s Platform Bill’s Story Volunteer Press Endorsements Endorse Bill Contact Upcoming Events Jobs Request a Yard Sign Store Bill’s Platform Bill’s Story Volunteer Press Endorsements Endorse Bill Contact Upcoming Events Jobs Request a Yard Sign Store DONATE Facebook Instagram X-twitter Tiktok Youtube Flickr Press Press Releases The United Auto Workers Region 6 Western States CAP & PAC Council endorse Bill Hill Labor support for Bill Hill continues to grow Read More July 6, 2026 Bill Hill returns to Bristol Bay for 49th commercial fishing opener Bill Hill has fished Bristol Bay his whole life.
 Running for Congress won’t change that.
-Alaska Native leaders from across Alaska back Bill Hill
-Organized labor support for Bill Hill grows as union representing thousands of grocery and retail workers endorses campaign
-Largest union representing flight attendants backs Hill for Congress
-APEA/AFT represents thousands of Alaska public employees
-Update: April 8, 2026
-Alaskan leaders and pundits need to see announcements that indicate:
-- There is a coalition ready to put serious resources behind the effort to elect Bill to Congress.
-- Bill Hill is the most viable candidate to beat Nick Begich in November, as demonstrated by polling that tests Bill head to head vs.
+Read More July 3, 2026 Alaska Native leaders from across Alaska back Bill Hill Alaska Native leaders from across Alaska back Bill Hill Read More June 29, 2026 UFCW Local 1496 Endorses Bill Hill for Congress Organized labor support for Bill Hill grows as union representing thousands of grocery and retail workers endorses campaign Read More June 24, 2026 The Association of Flight Attendants-CWA endorses Bill Hill Largest union representing flight attendants backs Hill for Congress Read More June 23, 2026 The Alaska Public Employees Association endorses Bill Hill APEA/AFT represents thousands of Alaska public employees Read More June 22, 2026 Load More Update: April 8, 2026 Alaskan leaders and pundits need to see announcements that indicate: There is a coalition ready to put serious resources behind the effort to elect Bill to Congress.
+Bill Hill is the most viable candidate to beat Nick Begich in November, as demonstrated by polling that tests Bill head to head vs.
 Begich.
-National race raters, journalists, endorsers, and funders need to be shown that:
-- Independent candidates have a track record of success in Alaska.
-- Bill’s background as an Alaska Native leader, commercial fisherman, longtime educator, and construction worker make him uniquely suited to bring together the coalition that can win in Alaska, and a uniquely strong contrast against Nick Begich.
-- Bill is running the most viable campaign to beat Nick Begich.
-- Endorsements: Bill is the only labor-endorsed candidate, with sole endorsements from the National Education Association, Alaska Professional Fire Fighters Association, and Pacific Northwest Iron Workers.
-- Fundraising: Bill is leading on fundraising among challengers to Nick Begich.
+National race raters, journalists, endorsers, and funders need to be shown that: Independent candidates have a track record of success in Alaska.
+Bill’s background as an Alaska Native leader, commercial fisherman, longtime educator, and construction worker make him uniquely suited to bring together the coalition that can win in Alaska, and a uniquely strong contrast against Nick Begich.
+Bill is running the most viable campaign to beat Nick Begich.
+Endorsements: Bill is the only labor-endorsed candidate, with sole endorsements from the National Education Association, Alaska Professional Fire Fighters Association, and Pacific Northwest Iron Workers.
+Fundraising: Bill is leading on fundraising among challengers to Nick Begich.
+He raised over $# in the first quarter and has by far the highest raise of anyone running against Nick Begich.
+Photos and video Photos Video It's going to take hard work to fix this country.
+But that's okay, hard work is what we're all about.
+DONATE CONTACT Commercial fisherman Construction worker Teacher and Superintendent Small business owner Menu Home Bill’s Platform Bill’s Story Volunteer Press Endorsements Contact Donate Request a Yard Sign Store Home Bill’s Platform Bill’s Story Volunteer Press Endorsements Contact Donate Request a Yard Sign Store Social Media Bill Hill for Alaskans billhillforalaskans @BillHillAK billhillforalaskans BillHillForAlaskans billhillforalaskans Checks can be mailed to: Bill Hill For Alaskans PO Box 220703, Anchorage AK 99522 Messaging & visual assets Paid for by Bill Hill for Alaskans Privacy Policy

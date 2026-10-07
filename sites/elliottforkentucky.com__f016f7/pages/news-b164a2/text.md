@@ -1,12 +1,2 @@
-Toggle navigation
-About
-Issues
-News
-COVID-19
-Vote
-Donate
-News
-Share this:
-Click to share on Twitter (Opens in new window)
-Click to share on Facebook (Opens in new window)
-Load More
+Toggle navigation About Issues News COVID-19 Vote Donate News Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Load More Latest News Dakota Meyer Endorses Daniel Elliott February 3, 2016 Daniel B.
+Elliott Nominated to run for Vacancy in the Kentucky House of Representatives, 54th District January 10, 2016 First Name Last Name Email * ZIP Code * About News Volunteer Donate Paid for by Daniel Elliott for State Representative

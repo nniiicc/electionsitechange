@@ -1,5 +1,10 @@
-About Neal
-Neal is a descendent of Otton and Aukpayook (she is pictured on the right).
+Neal Foster For State House Neal Foster For State House Neal Foster For State House Neal Foster For State House Neal Foster For State House Neal Foster For State House Neal Foster For State House Neal Foster For State House Home Issues District 39 Map Experience Background Photo Gallery Alakanuk Brevig Mission Chevak Diomede Elim Emmonak Galena Gambell Golovin Hooper Bay Huslia Kaltag Kotlik Koyuk Koyukuk Marshall Mountain Village Nome Nulato Nunam Iqua Pilot Station Ruby Russian Mission Savoonga Scammon Bay Shaktoolik Shishmaref St.
+Mary's & Pitkas Point St.
+Michael Stebbins Teller Unalakleet Wales White Mountain More Home Issues District 39 Map Experience Background Photo Gallery Alakanuk Brevig Mission Chevak Diomede Elim Emmonak Galena Gambell Golovin Hooper Bay Huslia Kaltag Kotlik Koyuk Koyukuk Marshall Mountain Village Nome Nulato Nunam Iqua Pilot Station Ruby Russian Mission Savoonga Scammon Bay Shaktoolik Shishmaref St.
+Mary's & Pitkas Point St.
+Michael Stebbins Teller Unalakleet Wales White Mountain Home Issues District 39 Map Experience Background Photo Gallery Alakanuk Brevig Mission Chevak Diomede Elim Emmonak Galena Gambell Golovin Hooper Bay Huslia Kaltag Kotlik Koyuk Koyukuk Marshall Mountain Village Nome Nulato Nunam Iqua Pilot Station Ruby Russian Mission Savoonga Scammon Bay Shaktoolik Shishmaref St.
+Mary's & Pitkas Point St.
+Michael Stebbins Teller Unalakleet Wales White Mountain About Neal Neal is a descendent of Otton and Aukpayook (she is pictured on the right).
 Otton was born in Koyuk.
 Aukpayook was born in Kotzebue in 1848 and passed away in Golovin in 1933.
 They had 7 children.
@@ -23,3 +28,5 @@ He served on the Sitnasuak Native Corporation board for 15-years and the Bering 
 He sat on the Nome City Council, is a member of the Pioneers of Alaska Igloo #1, and is a tribal member of Nome Eskimo Community.
 He has served as the state representative for House District 39 since 2009.
 While working up the seniority ladder he has served as the temporary Speaker of the House as well as the chairman of both the house finance committee's operating and capital budgets.
+Copyright © # Neal Foster For House - All Rights Reserved.
+Powered by

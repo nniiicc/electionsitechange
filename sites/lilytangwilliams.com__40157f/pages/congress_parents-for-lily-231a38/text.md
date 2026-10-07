@@ -1,4 +1,4 @@
-I grew up under a regime where the state claimed ownership over everything, including the minds of the youth.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate I grew up under a regime where the state claimed ownership over everything, including the minds of the youth.
 In America, our children belong to their families, not the government.
 As a mother who raised three adult children to understand the value of freedom, I know firsthand that parents are a child’s first and most important teachers.
 I am running for Congress to ensure that New Hampshire moms, dads, and guardians remain the ultimate authority in their children’s lives and education.
@@ -8,7 +8,10 @@ Education, Not Indoctrination: Our schools should focus on academic excellence�
 Lily will work to ensure local tax dollars stay under local control, empowering New Hampshire parents with transparency, curriculum access, and true educational choice.
 Securing Their Economic Future: Reckless D.C. spending isn’t just causing inflation today; it’s borrowing against our children’s futures.
 Lily is committed to restoring fiscal sanity so the next generation of Granite Staters can actually afford to buy a home, start a business, and achieve the American Dream.
-Stand with Lily: Join the Parents Coalition
-Join the growing coalition of New Hampshire parents, grandparents, and families who are backing Lily Tang Williams for Congress.
-Let’s send a clear message to Washington: Our children are our future, and The People are the Boss.
-"*" indicates required fields
+Stand with Lily: Join the Parents Coalition Join the growing coalition of New Hampshire parents, grandparents, and families who are backing Lily Tang Williams for Congress.
+Let’s send a clear message to Washington: Our children are our future, and The People are the Boss. " * " indicates required fields Name * First Last What is your biggest concern as a Parent? * Phone Number * Email * Endorsement Quote (Optional) Why are you standing with Lily?
+Agreement * I agree to receive text message updates about Lily's campaign periodically.
+Lily will never spam you, and you will receive important updates only.
+(You can unsubscribe anytime by texting STOP to unsubscribe).
+Message & data rates may apply. Δ © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

@@ -1,3 +1,6 @@
+0 Skip to Content Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
+Open Menu Close Menu Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
+Open Menu Close Menu Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
 Our Kids, Schools & Teachers Deserve MORE.
 In 2020, North Carolina schools ranked 21st nationally, according to US News and World Report.
 Just four years later, under Jeff Zenger’s leadership, we have dropped to 43rd.
@@ -78,3 +81,5 @@ And we will pass a much-needed teacher pay raise.
 Eight out of 10 NC students attend our public schools, like both of my boys did.
 Zenger’s kids never went to public schools.
 We must invest more NOW in educating our kids; the cost of failure is too great.
+NORTH for NC 6255 Town Center Drive Suite 650 Clemmons, NC 27012 CONTRIBUTE to Do.More.Good.
+Paid for by North for North Carolina.

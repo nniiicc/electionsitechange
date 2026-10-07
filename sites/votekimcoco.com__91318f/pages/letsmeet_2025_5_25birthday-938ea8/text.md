@@ -1,11 +1,8 @@
-You’re invited to my annual Birthday Campaign Fundraiser!
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Back to All Events Kim Coco Campaign FUNraiser at Scarlet Honolulu Saturday, May 24, 2025 8:30 PM 11:59 PM 20:30 23:59 Google Calendar ICS You’re invited to my annual Birthday Campaign Fundraiser!
 Let’s toast to the progress we’ve made—and rally for the work ahead.
-8:30 PM - Scarlet FUNdraiser
-A more casual celebration with dancing, drag, and joy until 2 AM.
-Bring friends, stay for an hour, or dance all night!
+8:30 PM - Scarlet FUNdraiser A more casual celebration with dancing, drag, and joy until 2 AM.
+Tickets: $25 Bring friends, stay for an hour, or dance all night!
 Mahalo for your support, and I hope to see you there to celebrate another trip around the sun—and another year of people-powered progress.
-Back to All Events
-Earlier Event: May 24
-Kim Coco Campaing FUNDraiser at Tchin Tchin
-Later Event: May 11
-Bishop @ Beretania
+Earlier Event: May 24 Kim Coco Campaing FUNDraiser at Tchin Tchin Later Event: May 11 Bishop @ Beretania Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

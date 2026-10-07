@@ -1,18 +1,6 @@
-04/04/2025 News Local preservation leaders need support saving black history in Richland County 5/18/2023 News WATCH
-08/09/2022 News SC Democrats call on their US Senate nominee to quit South Carolina Public Radio/Associated Press
-06/04/2022 News Some Lowcountry lawmakers, candidates commit to action on gun violence.
+JOIN US DONATE house About Catherine Catherine’s Platform In the News Voting Information Catherine Fleming Bruce in the Press 04/04/2025 News Trump Endorses Lindsey Graham’s 2026 Reelection Bid 3/27/2025 News NTD Television 04/04/2025 News Local preservation leaders need support saving black history in Richland County 5/18/2023 News WATCH 08/09/2022 News SC Democrats call on their US Senate nominee to quit South Carolina Public Radio/Associated Press 06/15/2022 News Nevada, South Carolina, Maine and North Dakota primaries CNN 06/04/2022 News Some Lowcountry lawmakers, candidates commit to action on gun violence.
 Most don’t.
-Charleston City Paper
-06/04/2022 News Breakfast Meeting Feb 2022: Catherine Fleming Bruce, candidate for US Senate Greenwood County Democratic Party
-05/31/2022 News Celebrating the victory of having Early Voting access for the first time ever in the State of South Carolina.
-Facebook Live
-05/31/2022 News WJCL helps you meet the candidates: Hear from U.S.
-Senate candidate Catherine Fleming Bruce WJCL
-05/27/2022 News WQAT-LP Greenville interview with Catherine Fleming Bruce, U.S.
-Senate candidate WQAT Michael Forsyth
-05/17/2022 News The Lurie Daniel Favors Show with Catherine Fleming Bruce The Lurie Daniel Favors Show
-01/20/2022 News Daughter of Late Sumter County Council Chairman to Challenge Tim Scott for US Senate Seat The Sumpter Item
-01/18/2022 News Columbia activist enters 2022 US Senate race to take on SC’s Tim Scott in November The State
-01/17/2022 News Columbia preservationist joins US Senate race for Tim Scott’s seat Columbia Post & Courier
-05/08/2021 News Lower Richland residents, officials wary of home-building burst in rural area Columbia Post & Courier
-07/13/2020 News Doing Social Good through Preservation Activism with Catherine Fleming Bruce PreserveCast
+Charleston City Paper 06/04/2022 News Breakfast Meeting Feb 2022: Catherine Fleming Bruce, candidate for US Senate Greenwood County Democratic Party 05/31/2022 News Celebrating the victory of having Early Voting access for the first time ever in the State of South Carolina.
+Facebook Live 05/31/2022 News WJCL helps you meet the candidates: Hear from U.S.
+Senate candidate Catherine Fleming Bruce WJCL 05/27/2022 News WQAT-LP Greenville interview with Catherine Fleming Bruce, U.S.
+Senate candidate WQAT Michael Forsyth 05/17/2022 News The Lurie Daniel Favors Show with Catherine Fleming Bruce The Lurie Daniel Favors Show 05/11/2022 News Catherine Fleming Bruce page on Ballotpedia Ballotpedia 05/11/2022 News The Dig on Catherine Fleming Bruce for US Senate The Dig on America 03/31/2022 News 2022 South Carolina Senate Overview Cook Political Report 01/25/2022 News These Senate seats are up for election in 2022 The Hill 01/20/2022 News Daughter of Late Sumter County Council Chairman to Challenge Tim Scott for US Senate Seat The Sumpter Item 01/18/2022 News Columbia activist enters 2022 US Senate race to take on SC’s Tim Scott in November The State 01/17/2022 News Columbia preservationist joins US Senate race for Tim Scott’s seat Columbia Post & Courier 01/06/2022 News South Carolinians Remember January 6 News 19 WLTX 01/04/2022 News January 6th – A Virtual Conversation with South Carolina Scholars YouTube 10/18/2021 News How the media will cover jury selection in the Ahmaud Arbery trial NPR 07/13/2021 News Doing Good with Preservation Activism with Catherine Fleming Bruce PreserveCast 05/08/2021 News Lower Richland residents, officials wary of home-building burst in rural area Columbia Post & Courier 09/16/2020 News Take a Virtual Tour of South Carolina’s Only Civil Rights Museum National Geographic 07/13/2020 News Doing Social Good through Preservation Activism with Catherine Fleming Bruce PreserveCast 04/12/2019 News Lawmakers Should Pass Ethics Bills ASAP The Statehouse Report 05/10/2017 News UMW Awards Historic Preservation Book Prize UMW Voice 08/18/2016 News Columbia, SC honors Columbia, MS with sister city designation WDAM 09/25/2015 News MY TURN: On Pope Francis’ visit and change for South Carolina Statehouse Report PAID FOR BY CATHERINE FLEMING BRUCE FOR UNITED STATES SENATE · PO Box 50055, Columbia, South Carolina 29250 cfb@catherineflemingbruce.com Menu

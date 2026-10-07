@@ -1,5 +1,5 @@
-SPRINGFIELD – State Senator Doris Turner (D-Springfield) released the following statement regarding recent revelations of racist and antisemitic social media posts from a now-former Springfield police officer.
+Skip to content Home About Issues Contact Volunteer Events Legislative Updates Menu Home About Issues Contact Volunteer Events Legislative Updates CONTRIBUTE Senator Turner Shocked At Hateful Social Media Posts April 26, 2022 4:03 pm SPRINGFIELD – State Senator Doris Turner (D-Springfield) released the following statement regarding recent revelations of racist and antisemitic social media posts from a now-former Springfield police officer.
 “The comments and views that have been unearthed are shocking and disgusting.
 They are an affront to our great community and the remarkable men and women of the police department that serves it.
 I believe there needs to be a thorough, independent investigation of this former officer and his conduct.
-But I want to thank the department for taking swift action, and I hope to be a resource as we move forward together as a community.”
+But I want to thank the department for taking swift action, and I hope to be a resource as we move forward together as a community.” Prev Previous Senate Approves Turner’s Initiative To Plan Celebrations In Honor of The Country’s 250th Anniversary Next Turner: Tax Relief Plan Will Put Money Back In Families’ Pockets Next Facebook Linkedin Twitter About Issues Endorsements Contact About Issues Endorsements Contact PAID FOR BY FRIENDS OF DORIS TURNER

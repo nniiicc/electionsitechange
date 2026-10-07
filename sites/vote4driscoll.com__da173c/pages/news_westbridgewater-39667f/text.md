@@ -1,12 +1,2 @@
-top of page
-TEAM DRISCOLL
-Aug 1, 2026
-Results for West Bridgewater in first term as State Senator for West Bridgewater
-Noteworthy funding secured in partnership with State Representative Bridget Plouffe for West Bridgewater thus far as West Bridgewater's State Senator since 2025.
-- $25,000 for the Council on Aging
-- $50,000 for the Food Pantry
-- Voted to fund free school meals for all public school students
-- $150,000 for the operation of the regional, mutual aid dispatch system used by local & regional first responders.
-- $50,000 for school maintenance needs
-- $1M in bonding authorization to install a herring fish ladder at War Memorial Park (pending, still in conference committee)
-bottom of page
+top of page MEET BILL ENDORSEMENTS RESULTS VOTING INFO DONATE GET INVOLVED VIDEOS HOME More Use tab to navigate through the menu items. < Back West Bridgewater TEAM DRISCOLL Aug 1, 2026 Results for West Bridgewater in first term as State Senator for West Bridgewater Noteworthy funding secured in partnership with State Representative Bridget Plouffe for West Bridgewater thus far as West Bridgewater's State Senator since 2025. $25,000 for the Council on Aging $50,000 for the Food Pantry Voted to fund free school meals for all public school students $150,000 for the operation of the regional, mutual aid dispatch system used by local & regional first responders. $50,000 for school maintenance needs $1M in bonding authorization to install a herring fish ladder at War Memorial Park (pending, still in conference committee) Previous Next MEET BILL ENDORSEMENTS RESULTS VOTING INFO DONATE GET INVOLVED VIDEOS HOME More Use tab to navigate through the menu items.
+Senate Office FB Subscribe Now Senate Campaign FB © #-# The Committee to Elect Bill Driscoll Jr. bottom of page

@@ -1,11 +1,9 @@
-Forward Together: A Green–Forward Dialogue on Building a Multiparty Maryland
-Hosted by:
-Andy Ellis- seeking the Green Party nomination for Governor of Maryland
-PJ Benenati- Chair, Maryland Forward Party
-Join us for an evening of connection, conversation, and collaboration between supporters of the Forward Party and the Ellis-Andrews Green Party campaign for Governor.
+0 Skip to Content Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Open Menu Close Menu Open Menu Close Menu Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Home Folder: About Back Meet Andy Meet Owen Why We Are Running Campaign Plan Folder: Media Back News Livestream Podcast Folder: Get Involved Back Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Folder: Issues Back Priorities Platform Donate Back to All Events Forward Party & Go Green 2026 Happy Hour and Conversation Monday, October 20, 2025 6:00 PM 8:30 PM Peabody Heights Brewery 401 East 30th Street Baltimore, MD, 21218 United States (map) Google Calendar ICS Forward Together: A Green–Forward Dialogue on Building a Multiparty Maryland Hosted by: Andy Ellis- seeking the Green Party nomination for Governor of Maryland PJ Benenati- Chair, Maryland Forward Party Join us for an evening of connection, conversation, and collaboration between supporters of the Forward Party and the Ellis-Andrews Green Party campaign for Governor.
 This gathering is about more than one campaign—it’s about advancing a more responsive democracy in Maryland and making the case for a real multiparty system.
 The evening will kick off with a happy hour and mingle (6:00–6:30 PM)—a chance to meet fellow Marylanders who believe politics can and should do better.
-At 6:30 PM, we’ll share pizza and small-table discussions, focused on two important and timely topics.
-- What can we do over the next decade to move Maryland to a healthy multiparty system.
-- What should we do to reform the primary process in the meantime.
+At 6:30 PM, we’ll share pizza and small-table discussions, focused on two important and timely topics. - What can we do over the next decade to move Maryland to a healthy multiparty system. - What should we do to reform the primary process in the meantime.
 Whether you’re a long-time Green, a Forward supporter, or simply curious about how we can break out of the two-party stranglehold, this is a space for honest dialogue, shared ideas, and building bridges toward the future.
+Previous Previous October 5 Takoma Park Street Festival Next Next October 23 Building The Green Party Community Meeting: Elkridge Like what you see?
+Join the movement.
+DONATE volunteer Green Party Candidates for Governor & Lt.
+Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

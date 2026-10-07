@@ -1,9 +1,34 @@
 [
-"https://facebook.com/PhilforOIC",
-"https://votefortunato.org/",
-"https://votefortunato.org/about-me",
-"https://votefortunato.org/blueprint-for-washington",
-"https://votefortunato.org/contact-me",
-"https://votefortunato.org/contribute",
-"https://votefortunato.org/endorsements"
+{
+"text": "About Me",
+"href": "https://www.votefortunato.org/about-me/"
+},
+{
+"text": "Blueprint for Washington",
+"href": "https://www.votefortunato.org/blueprint-for-washington/"
+},
+{
+"text": "Contact",
+"href": "https://www.votefortunato.org/contact-me/"
+},
+{
+"text": "Contribute",
+"href": "https://www.votefortunato.org/contribute/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votefortunato.org/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.votefortunato.org"
+},
+{
+"text": "Phil Fortunato for Senate",
+"href": "https://www.votefortunato.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/PhilforOIC/"
+}
 ]

@@ -1,17 +1,98 @@
 [
-"https://designedtorun.com/",
-"https://elections.virginia.gov/casting-a-ballot/early-absentee",
-"https://elections.virginia.gov/casting-a-ballot/early-voting-office-locations",
-"https://facebook.com/TomPerriello",
-"https://instagram.com/TomPerrielloForCongress",
-"https://secure.actblue.com/donate/tp4cwebsite",
-"https://tomperriello.com/about",
-"https://tomperriello.com/contact",
-"https://tomperriello.com/issues",
-"https://tomperriello.com/media-kit",
-"https://tomperriello.com/privacy-policy",
-"https://tomperriello.com/students",
-"https://tomperriello.com/terms-conditions",
-"https://vote.elections.virginia.gov/VoterInformation",
-"https://x.com/TomPerriello"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/tp4cwebsite"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/tp4cwebsite"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/tp4cwebsite"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/tp4cwebsite"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/tp4cwebsite"
+},
+{
+"text": "About",
+"href": "https://www.tomperriello.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tomperriello.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tp4cwebsite"
+},
+{
+"text": "Early voting locations",
+"href": "https://www.elections.virginia.gov/casting-a-ballot/early-voting-office-locations/"
+},
+{
+"text": "Issues and Priorities",
+"href": "https://www.tomperriello.com/issues"
+},
+{
+"text": "Media Kit",
+"href": "https://www.tomperriello.com/media-kit"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/tp4cwebsite"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tomperriello.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://vote.elections.virginia.gov/VoterInformation"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.elections.virginia.gov/casting-a-ballot/early-absentee/"
+},
+{
+"text": "Students",
+"href": "https://www.tomperriello.com/students"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.tomperriello.com/terms-conditions"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TomPerriello"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/TomPerrielloForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TomPerriello"
+},
+{
+"text": "info@tomperriello.com",
+"href": "mailto:info@tomperriello.com"
+},
+{
+"text": "press@tomperriello.com",
+"href": "mailto:press@tomperriello.com"
+},
+{
+"text": "terms and conditions",
+"href": "https://www.tomperriello.com/terms-conditions"
+}
 ]

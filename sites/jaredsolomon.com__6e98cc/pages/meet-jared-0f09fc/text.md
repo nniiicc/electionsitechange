@@ -1,6 +1,4 @@
-Meet Jared Solomon
-About Jared
-Jared was raised on the second floor of his great-grandparents’ butcher shop in Northeast Philadelphia by his single mother, who was a public school teacher.
+0 Skip to Content Meet Jared Issues Donate Open Menu Close Menu Meet Jared Issues Donate Open Menu Close Menu Meet Jared Issues Donate Meet Jared Solomon About Jared Jared was raised on the second floor of his great-grandparents’ butcher shop in Northeast Philadelphia by his single mother, who was a public school teacher.
 While his family didn’t have much, Jared Solomon learned from his mother that if you create a better future for your community, everybody can prosper.
 He worked and borrowed his way through Swarthmore College and Villanova Law School.
 Jared fought corporate abuse for a Philadelphia law firm and decided to serve his country by joining the Army Reserves as a JAG officer and currently serves in the Pennsylvania National Guard.
@@ -12,3 +10,5 @@ In addition to Jared’s legislative record in Harrisburg, he is the leading voi
 In 2019, after the sweeping 116-count federal indictment that ensnared many of the political power brokers in Philadelphia, Jared stood up and spoke out against corruption.
 He was the first elected official to speak out in 2019, and continues to be one of the only elected officials in Harrisburg publicly advocating for truly transparent, ethical, and good government.
 Jared lives with his wife, Tiffani, and their daughter, Charlotte, around the corner from his mom’s house in the same Northeast Philadelphia neighborhood where he was raised.
+Paid for by Friends of Jared Solomon, Megan Smith — Treasurer Jared Solomon is a member of the Pennsylvania National Guard.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense. ©# Friends of Jared Solomon PO Box 7522, Philadelphia, PA 19101 Built by Blue Nation Strategies

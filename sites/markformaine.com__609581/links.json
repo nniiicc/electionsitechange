@@ -1,13 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/markformaine",
-"https://instagram.com/markformaine",
-"https://markformaine.com/",
-"https://markformaine.com/about",
-"https://markformaine.com/donate",
-"https://markformaine.com/endorsements",
-"https://markformaine.com/issues",
-"https://markformaine.com/news",
-"https://markformaine.com/volunteer",
-"https://registertovote.sos.maine.gov/"
+{
+"text": "About",
+"href": "https://www.markformaine.com/about"
+},
+{
+"text": "Check your voter registration today",
+"href": "https://registertovote.sos.maine.gov/"
+},
+{
+"text": "Donate",
+"href": "https://www.markformaine.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.markformaine.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.markformaine.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.markformaine.com/about"
+},
+{
+"text": "News",
+"href": "https://www.markformaine.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markformaine.com/volunteer"
+},
+{
+"text": "[image: Mark for Maine]",
+"href": "https://www.markformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/markformaine/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/markformaine/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Discover political endorsements for Margaret Burke, a dedicated candidate for Pennsylvania House Representative District 147. Support her vision for change.",
  "final_url": "https://burkeforpa147.vote/endorsements",
- "paid_for_by": "Paid for by Friends of Margaret Burke This website uses cookies",
+ "fingerprint": "93a04ddf1a77783fba71954581405c88ea3afd73",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Margaret Burke",
  "title": "Endorsements",
  "years_mentioned": [
   "2026"

@@ -1,11 +1,42 @@
 [
-"https://facebook.com/Rockee4AZ",
-"https://instagram.com/rockee4az",
-"https://rockee4az.com/",
-"https://rockee4az.com/home-2",
-"https://rockee4az.com/home-2-2",
-"https://rockee4az.com/home-2-2-2",
-"https://rockee4az.com/home-2-2-3",
-"https://secure.actblue.com/donate/rockee-armstrong",
-"https://x.com/Rockee4AZ"
+{
+"text": "Contact",
+"href": "https://rockee4az.com/home-2-2-2/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/rockee-armstrong"
+},
+{
+"text": "Endorsement",
+"href": "https://rockee4az.com/home-2-2-3/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Rockee4AZ/"
+},
+{
+"text": "Home",
+"href": "https://rockee4az.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rockee4az"
+},
+{
+"text": "Meet Rockee",
+"href": "https://rockee4az.com/home-2/"
+},
+{
+"text": "Priorities",
+"href": "https://rockee4az.com/home-2-2/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/Rockee4AZ"
+},
+{
+"text": "[image]",
+"href": "https://rockee4az.com"
+}
 ]

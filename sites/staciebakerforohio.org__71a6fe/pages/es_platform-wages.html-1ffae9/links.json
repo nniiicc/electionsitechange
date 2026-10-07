@@ -1,15 +1,70 @@
 [
-"https://secure.actblue.com/donate/citizens-for-baker-2026",
-"https://staciebakerforohio.org/announcements.html",
-"https://staciebakerforohio.org/es",
-"https://staciebakerforohio.org/es/contact.html",
-"https://staciebakerforohio.org/es/endorsements.html",
-"https://staciebakerforohio.org/es/events.html",
-"https://staciebakerforohio.org/es/get-involved.html",
-"https://staciebakerforohio.org/es/platform-wages.html",
-"https://staciebakerforohio.org/es/volunteer.html",
-"https://staciebakerforohio.org/es/yard-sign.html",
-"https://staciebakerforohio.org/ne/platform-wages.html",
-"https://staciebakerforohio.org/platform-wages.html",
-"https://staciebakerforohio.org/so/platform-wages.html"
+{
+"text": "Anuncios",
+"href": "https://www.staciebakerforohio.org/announcements.html"
+},
+{
+"text": "Baker para Ohio",
+"href": "https://www.staciebakerforohio.org/es/"
+},
+{
+"text": "Carteles",
+"href": "https://www.staciebakerforohio.org/es/yard-sign.html"
+},
+{
+"text": "Contacto",
+"href": "https://www.staciebakerforohio.org/es/contact.html"
+},
+{
+"text": "Donar Ahora",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "EN",
+"href": "https://www.staciebakerforohio.org/platform-wages.html"
+},
+{
+"text": "ES",
+"href": "https://www.staciebakerforohio.org/es/platform-wages.html"
+},
+{
+"text": "Eventos",
+"href": "https://www.staciebakerforohio.org/es/events.html"
+},
+{
+"text": "Involúcrate",
+"href": "https://www.staciebakerforohio.org/es/get-involved.html"
+},
+{
+"text": "NE",
+"href": "https://www.staciebakerforohio.org/ne/platform-wages.html"
+},
+{
+"text": "Plataforma",
+"href": "https://www.staciebakerforohio.org/es/#issues"
+},
+{
+"text": "Respaldos",
+"href": "https://www.staciebakerforohio.org/es/endorsements.html"
+},
+{
+"text": "SO",
+"href": "https://www.staciebakerforohio.org/so/platform-wages.html"
+},
+{
+"text": "Sobre Mí",
+"href": "https://www.staciebakerforohio.org/es/#about"
+},
+{
+"text": "Voluntario",
+"href": "https://www.staciebakerforohio.org/es/volunteer.html"
+},
+{
+"text": "← Volver a la Plataforma",
+"href": "https://www.staciebakerforohio.org/es/#issues"
+}
 ]

@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.gregschwartz.org/health",
- "paid_for_by": null,
+ "fingerprint": "be3a1d250fd4869fc53b0ff92c6d7593d002344d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Health | Rep. Greg Schwartz",
- "years_mentioned": []
+ "years_mentioned": [
+  "1955",
+  "1991"
+ ]
 }

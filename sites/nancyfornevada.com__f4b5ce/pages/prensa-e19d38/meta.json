@@ -1,7 +1,11 @@
 {
- "description": "Cobertura medi\u00e1tica, entrevistas y respaldos para Nancy \"Nan\" Roecker, candidata republicana al Nevada Assembly District 12.",
+ "description": "Cobertura mediática, entrevistas y respaldos para Nancy \"Nan\" Roecker, candidata republicana al Nevada Assembly District 12.",
  "final_url": "https://nancyfornevada.com/prensa",
- "paid_for_by": "Paid for by Nan for Nevada \u00a9 2026 Nancy &quot;Nan&quot; Roecker",
- "title": "Respaldos y Medios \u2014 Nancy \"Nan\" Roecker",
- "years_mentioned": []
+ "fingerprint": "fea3ffa92819922e7c630ddb143163607f142e18",
+ "format": 3,
+ "paid_for_by": "Paid for by Nan for Nevada © 2026 Nancy \"Nan\" Roecker",
+ "title": "Respaldos y Medios — Nancy \"Nan\" Roecker",
+ "years_mentioned": [
+  "2026"
+ ]
 }

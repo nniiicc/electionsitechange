@@ -1,7 +1,26 @@
 [
-"https://nateforcolorado.com/",
-"https://nateforcolorado.com/endorsements",
-"https://nateforcolorado.com/hear-from-nate",
-"https://nateforcolorado.com/privacy-policy",
-"https://secure.anedot.com/nate-for-colorado-hd43/donate"
+{
+"text": "Endorsements",
+"href": "https://nateforcolorado.com/endorsements"
+},
+{
+"text": "Hear From Nate",
+"href": "https://nateforcolorado.com/hear-from-nate"
+},
+{
+"text": "Home",
+"href": "https://nateforcolorado.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nateforcolorado.com/privacy-policy"
+},
+{
+"text": "Support the Cause",
+"href": "https://secure.anedot.com/nate-for-colorado-hd43/donate"
+},
+{
+"text": "[image: Nate for Colorado]",
+"href": "https://nateforcolorado.com/"
+}
 ]

@@ -1,5 +1,5 @@
-Meet Christina
-Christina Delisio moved to Massachusetts with her family during the Blizzard of 1978 — arriving with the same resilience and determination that would come to shape her life and career.
+Welcome Meet Christina Priorities Events Get Involved!
+Volunteer Request A Lawn Sign Find Your Polling Location Donate Get In Touch In The News Donate Select Page Meet Christina Christina Delisio moved to Massachusetts with her family during the Blizzard of 1978 — arriving with the same resilience and determination that would come to shape her life and career.
 She was raised in a household devoted to public service: her father worked for the federal Department of Health and Human Services, and her mother was a nurse.
 From an early age, Christina learned the value of service, responsibility, and looking out for others.
 As the oldest of four children, she understood the importance of opportunity and affordability.
@@ -17,3 +17,5 @@ Her community involvement led to her appointment to the Manchester Planning Boar
 On the Planning Board, Christina led community outreach efforts, modernized zoning codes, and helped guide thoughtful local policy decisions that reflect both resident input and long-term planning.
 Christina Delisio is running for State Representative because she believes government works best when it listens, plans responsibly, and respects local voices and local choices.
 With a background spanning environmental protection, law, education, and local government, she brings real-world experience, steady leadership, and a lifelong commitment to public service.
+Support Christina Welcome Meet Christina Priorities Events Get Involved!
+Get In Touch In The News Donate Paid For by the Delisio Committee

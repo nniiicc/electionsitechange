@@ -1,22 +1,86 @@
 [
-"https://carolammonsforillinois.com/",
-"https://carolammonsforillinois.com/about",
-"https://carolammonsforillinois.com/aboutmain",
-"https://carolammonsforillinois.com/accomplishments",
-"https://carolammonsforillinois.com/contact",
-"https://carolammonsforillinois.com/contribute",
-"https://carolammonsforillinois.com/events-meetings",
-"https://carolammonsforillinois.com/legislation",
-"https://carolammonsforillinois.com/panel-1",
-"https://carolammonsforillinois.com/request-forms",
-"https://carolammonsforillinois.com/search",
-"https://carolammonsforillinois.com/volunteer",
-"https://carolammonsforillinois.com/volunteer-1",
-"https://carolammonsforillinois.com/women-making-waves",
-"https://carolammonsforillinois.com/women-making-waves-2015",
-"https://carolammonsforillinois.com/women-making-waves-2016",
-"https://carolammonsforillinois.com/women-making-waves-2017",
-"https://carolammonsforillinois.com/women-making-waves-2018",
-"https://carolammonsforillinois.com/women-making-waves-2019",
-"https://secure.actblue.com/donate/wmw2023"
+{
+"text": "About",
+"href": "https://www.carolammonsforillinois.com/aboutmain"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.carolammonsforillinois.com/accomplishments"
+},
+{
+"text": "Carol Ammons",
+"href": "https://www.carolammonsforillinois.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.carolammonsforillinois.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.carolammonsforillinois.com/contribute"
+},
+{
+"text": "Events & Meetings",
+"href": "https://www.carolammonsforillinois.com/events-meetings"
+},
+{
+"text": "Home",
+"href": "https://www.carolammonsforillinois.com/"
+},
+{
+"text": "Legislation",
+"href": "https://www.carolammonsforillinois.com/legislation"
+},
+{
+"text": "Meet Carol",
+"href": "https://www.carolammonsforillinois.com/about"
+},
+{
+"text": "Purchase Tickets Here",
+"href": "https://secure.actblue.com/donate/wmw2023"
+},
+{
+"text": "Request Forms",
+"href": "https://www.carolammonsforillinois.com/request-forms"
+},
+{
+"text": "The People's Agenda",
+"href": "https://www.carolammonsforillinois.com/volunteer-1"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carolammonsforillinois.com/volunteer"
+},
+{
+"text": "Women Making Waves",
+"href": "https://www.carolammonsforillinois.com/women-making-waves"
+},
+{
+"text": "Women Making Waves 2015",
+"href": "https://www.carolammonsforillinois.com/women-making-waves-2015"
+},
+{
+"text": "Women Making Waves 2016",
+"href": "https://www.carolammonsforillinois.com/women-making-waves-2016"
+},
+{
+"text": "Women Making Waves 2017",
+"href": "https://www.carolammonsforillinois.com/women-making-waves-2017"
+},
+{
+"text": "Women Making Waves 2018",
+"href": "https://www.carolammonsforillinois.com/women-making-waves-2018"
+},
+{
+"text": "Women Making Waves 2019",
+"href": "https://www.carolammonsforillinois.com/women-making-waves-2019"
+},
+{
+"text": "Your Voice Matters",
+"href": "https://www.carolammonsforillinois.com/panel-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolammonsforillinois.com/search"
+}
 ]

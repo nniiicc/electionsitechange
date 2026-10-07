@@ -1,4 +1,4 @@
-I am originally from Alabama, where my grandparents and their young children were small farmers, raising what they needed in order to eat.
+Skip navigation menu About Why I'm Running Policy Positions Endorsements News Contact Donate About Why I'm Running Policy Positions Endorsements News Contact Donate I am originally from Alabama, where my grandparents and their young children were small farmers, raising what they needed in order to eat.
 My grandparents were my heroes; they cleared land in order to build the house they lived in, and the barn to keep their livestock and store their harvest to sustain them through the winter.
 My father learned to plow with a mule and plow blade, milking cows before school each day, and doing chores after classes.
 Water was fetched from the pump outside the kitchen door, and the only heat was from the living room fireplace or kitchen stove where everything was cooked in a cast-iron skillet.
@@ -22,3 +22,6 @@ It was my job, when necessary, to deny questionable costs and maintain fiscal in
 I wasn’t always popular, but I did my best to protect those I served.
 I also learned how critical it is for those tasked with regulating activities and enterprises to maintain independence or arms-length relationships from those they regulate.
 Independence guarantees objective oversight for compliance with standards/laws that directly impact the well-being of citizens and their families.
+Through my government service, I have always been aware of how critical it is for citizens to be encouraged, empowered, and protected through state programs and oversight.
+Let it snow on November 3.
+Powered by RUN! website builder Paid for by Leigh Estes, Democrat, for State House District 83 You need to enable JavaScript to run this app.

@@ -1,4 +1,4 @@
-Why this, Why me, Why now?
+Skip to content Home About Endorsements Volunteer Donate Home About Meet James Endorsements Volunteer Donate Menu Why this, Why me, Why now?
 Our rights are under attack, and we deserve judges who will defend them.
 Our current court have failed: they have allowed extreme partisan gerrymandering, blocked nearly $1 billion from our public schools, and sought to discard thousands of lawful votes.
 I am part of a small group of North Carolina attorneys fighting to protect our rights.
@@ -7,8 +7,7 @@ We have won on the law, but lost on the politics.
 Democrats have lost every Court of Appeals campaign since 2018, and if we lose this time, there will not be a single Democrat left on our court.
 The only way to secure our rights is to support a new generation of judicial candidates who have the right experience to meet this moment.
 That’s why I’m running, and I hope to have your support.
-Meet James
-Originally from Charlotte, James met his wife, Anna, at UNC Asheville.
+Meet James Originally from Charlotte, James met his wife, Anna, at UNC Asheville.
 Before becoming an attorney, James interned on President Barack Obama’s reelection campaign, worked in the NC General Assembly, and managed winning political campaigns.
 James earned a scholarship to UNC School of Law and graduated with honors.
 He began his legal career in Winston-Salem clerking and being mentored by U.S.
@@ -38,3 +37,6 @@ Not everyone is comfortable with this approach.
 Some think judicial candidates should be silent on these issues.
 We will never win voters by being silent on what affects their lives most.
 We must have the courage to meet this moment.
+Paid for by Friends of James Whalen.
+Website designed by Express Lane Strategies .
+EN ES

@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.arthodgesforsenate.com/events/event-one-26tme",
- "paid_for_by": "Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright \u00a9 2026",
- "title": "The Hope Event \u2014 ArtHodgesForSenate",
+ "fingerprint": "f1b1e805c83f7853686ac405e055fc39835e980c",
+ "format": 3,
+ "paid_for_by": "Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #",
+ "title": "The Hope Event — ArtHodgesForSenate",
  "years_mentioned": [
-  "2025"
+  "2025",
+  "2026"
  ]
 }

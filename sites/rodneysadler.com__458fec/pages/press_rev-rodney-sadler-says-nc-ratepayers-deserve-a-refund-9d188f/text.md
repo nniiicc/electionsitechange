@@ -1,10 +1,11 @@
-Charlotte, NC — Last week, the North Carolina Court of Appeals ruled ratepayers will not receive reimbursement for improperly collected fuel charges.
+Skip to content Home About Meet Rodney Platform Endorsements Press Releases News Take Action Get Involved Vote Donate Home About Meet Rodney Platform Endorsements News Articles Press Releases Take Action Vote Get Involved Donate Menu REV.
+RODNEY SADLER SAYS NC RATEPAYERS DESERVE A REFUND!
+February 25, 2026 Charlotte, NC — Last week, the North Carolina Court of Appeals ruled ratepayers will not receive reimbursement for improperly collected fuel charges.
 The court cited a provision in SB266, the “Duke Energy Bill,” a bill which incumbent Rep.
 Carla Cunningham played a decisive role in passing by voting to override Gov.
 Josh Stein’s veto.
 Rev.
-Rodney Sadler released the following statement on Tuesday:
-Working families in North Carolina need and deserve heat in the winter, air conditioning in the summer, and bills we can afford.
+Rodney Sadler released the following statement on Tuesday: Working families in North Carolina need and deserve heat in the winter, air conditioning in the summer, and bills we can afford.
 For too long, Duke Energy has used their monopoly power to hike rates and line their own pockets.
 Last summer, the incumbent voted with Republicans to enable this big corporation to further raise rates on the backs of everyday North Carolinians.
 The incumbent claims that she’s cutting deals to benefit our district, but we know the truth: those deals are costing us dearly.
@@ -18,4 +19,11 @@ Carla Cunningham, who has voted with Republicans almost 85% of the time, and dec
 Cunningham’s largest past contributors include Duke Energy and Unitedhealth Group.
 More information on Rev.
 Dr.
-Sadler and his campaign is available on his website, RodneySadler.com.
+Sadler and his campaign is available on his website, RodneySadler.com .
+### Friends of Rev.
+Dr.
+Rodney Sadler PO Box 480053 Charlotte, NC 28269 Media Inquiries Paid for by Friends of Rev.
+Dr.
+Rodney Sadler.
+Website designed by Express Lane Strategies .
+Privacy Policy .

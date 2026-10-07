@@ -1,30 +1,118 @@
 [
-"https://facebook.com/fallonfortexas",
-"https://fallonforcongress.com/",
-"https://fallonforcongress.com/about",
-"https://fallonforcongress.com/contact",
-"https://fallonforcongress.com/donate",
-"https://fallonforcongress.com/endorsements",
-"https://fallonforcongress.com/fake-news",
-"https://fallonforcongress.com/issues",
-"https://fallonforcongress.com/issues/2nd-amendment",
-"https://fallonforcongress.com/issues/afghanistan-debacle",
-"https://fallonforcongress.com/issues/bidens-covid-hypocrisy",
-"https://fallonforcongress.com/issues/border-catastrophe",
-"https://fallonforcongress.com/issues/build-back-better",
-"https://fallonforcongress.com/issues/covid-science",
-"https://fallonforcongress.com/issues/crt-communist-race-theory",
-"https://fallonforcongress.com/issues/dc-statehood",
-"https://fallonforcongress.com/issues/energy",
-"https://fallonforcongress.com/issues/hr-1-one-party-rule",
-"https://fallonforcongress.com/issues/infrastructure",
-"https://fallonforcongress.com/issues/pro-life",
-"https://fallonforcongress.com/issues/religious-liberty",
-"https://fallonforcongress.com/issues/russia",
-"https://fallonforcongress.com/issues/taiwan",
-"https://fallonforcongress.com/issues/vaccine-mandates",
-"https://fallonforcongress.com/news",
-"https://fallonforcongress.com/privacy",
-"https://fallonforcongress.com/volunteer",
-"https://twitter.com/FallonForTexas"
+{
+"text": "Contact",
+"href": "https://www.fallonforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.fallonforcongress.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fallonforcongress.com/endorsements/"
+},
+{
+"text": "Fake News",
+"href": "https://www.fallonforcongress.com/fake-news/"
+},
+{
+"text": "Home",
+"href": "https://www.fallonforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.fallonforcongress.com/issues/"
+},
+{
+"text": "Meet Pat",
+"href": "https://www.fallonforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.fallonforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fallonforcongress.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fallonforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/FallonForTexas"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/fallonfortexas"
+},
+{
+"text": "[image]",
+"href": "https://www.fallonforcongress.com/"
+},
+{
+"text": "[image]Biden’s Covid Hypocrisy",
+"href": "https://www.fallonforcongress.com/issues/bidens-covid-hypocrisy/"
+},
+{
+"text": "[image]Border Catastrophe",
+"href": "https://www.fallonforcongress.com/issues/border-catastrophe/"
+},
+{
+"text": "[image]Build Back Better?",
+"href": "https://www.fallonforcongress.com/issues/build-back-better/"
+},
+{
+"text": "[image]CRT: Communist Race Theory",
+"href": "https://www.fallonforcongress.com/issues/crt-communist-race-theory/"
+},
+{
+"text": "[image]Covid ‘Science’? Fire Fauci!",
+"href": "https://www.fallonforcongress.com/issues/covid-science/"
+},
+{
+"text": "[image]D.C. Statehood: Blatant Power Grab",
+"href": "https://www.fallonforcongress.com/issues/dc-statehood/"
+},
+{
+"text": "[image]Energy: Unleash America’s Bounty",
+"href": "https://www.fallonforcongress.com/issues/energy/"
+},
+{
+"text": "[image]HR 1: An Attempt at One Party Rule",
+"href": "https://www.fallonforcongress.com/issues/hr-1-one-party-rule/"
+},
+{
+"text": "[image]Infrastructure? Anything But!",
+"href": "https://www.fallonforcongress.com/issues/infrastructure/"
+},
+{
+"text": "[image]Pro-Life",
+"href": "https://www.fallonforcongress.com/issues/pro-life/"
+},
+{
+"text": "[image]Religious Liberty: Merry Christmas, Texas!",
+"href": "https://www.fallonforcongress.com/issues/religious-liberty/"
+},
+{
+"text": "[image]Russia: Putin on the March",
+"href": "https://www.fallonforcongress.com/issues/russia/"
+},
+{
+"text": "[image]Sleepy Joe’s Afghanistan Debacle",
+"href": "https://www.fallonforcongress.com/issues/afghanistan-debacle/"
+},
+{
+"text": "[image]Taiwan: Protect Freedom, Deter Aggression",
+"href": "https://www.fallonforcongress.com/issues/taiwan/"
+},
+{
+"text": "[image]The 2nd Amendment Shall Not Be Infringed",
+"href": "https://www.fallonforcongress.com/issues/2nd-amendment/"
+},
+{
+"text": "[image]Vaccine Mandates: Ban ‘em All!",
+"href": "https://www.fallonforcongress.com/issues/vaccine-mandates/"
+}
 ]

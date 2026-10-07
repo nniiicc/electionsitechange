@@ -1,61 +1,8 @@
-Endorsements
-- Bob Orr Former NC Supreme Court Associate Justice
-- Burley Mitchell Former NC Supreme Court Chief Justice
-- Eva Clayton Former Member of Congress
-- G.K.
-Butterfield Former NC Supreme Court Associate Justice & Congressman
-- Henry & Shirley Frye Former NC Supreme Court Chief Justice & Civil Rights Advocates
-- Patricia Timmons-Goodson Former NC Supreme Court Associate Justice
-- Walter Dalton Former Lieutenant Governor
-- Aisha Dew State Representative Mecklenburg County
-- Allen Wellons Former State Senator Johnston County
-- Allison Dahle State Representative Wake County
-- Amos Quick State Representative Guilford County
-- Angela Bryant Former State Senator Halifax, Nash, Vance, Warren, and Wilson Counties
-- Ann McKown Former District Court Judge Durham County
-- Billy Richardson Former State Representative Cumberland County
-- Brian Turner State Representative Buncombe County
-- Bryan Cohn State Representative Granville and Vance Counties
-- Charles Smith State Representative Cumberland County
-- Cynthia Ball State Representative, Deputy Democratic Leader Wake County
-- Don Overby Former NC Administrative Law Judge Johnston County
-- Eric Ager State Representative Buncombe County
-- Francisco Rivas-Diaz Wallace Town Councilman Duplin County
-- Garland Pierce State Representative Scotland County
-- Gladys Robinson State Senator Guilford County
-- Howard Hunter III Former State Representative Hertford County
-- J.
-Henry Banks Former District Court Judge Franklin, Granville, Vance, and Warren Counties
-- James Roberson State Representative Wake County
-- Jean Farmer-Butterfield Former State Representative Wilson and Nash Counties
-- John Ager Former State Representative Buncombe County
-- Jordan Lopez State Representative Mecklenburg County
-- Kanika Brown State Representative Forsyth County
-- Ken Spaulding Former State Representative Durham County
-- Lindsey Prather State Representative Buncombe County
-- Mary Wills Bode Former State Senator Wake and Granville Counties
-- Mickey Michaux Former State Senator Durham County
-- Monika Johnson-Hostler State Representative Wake County
-- Natalie Murdock State Senator Durham County
-- Phil Rubin State Representative Wake County
-- Ray Warren Former State Representative Alexander County
-- Rodney Pierce State Representative Halifax, Northampton, and Warren Counties
-- Shelly Willingham State Representative Bertie, Edgecombe, and Martin Counties
-- Terry Van Duyn Former State Senator Buncombe County
-- Toby Fitch Former State Senator Wilson County
-- Zack Hawkins State Representative Durham County
-- Bill Bell Former Mayor of Durham Durham County
-- Brenda Howerton Former County Commissioner Durham County
-- Dr.
-David Cox Former Raleigh City Council Member Wake County
-- Drew Reisinger Register of Deeds Buncombe County
-- Dumont Clarke Former County Commissioner Mecklenburg County
-- Dustin Ingalls Wendell Town Commissioner Wake County
-- Javiera Caballero Durham City Council Member Durham County
-- Kevin Foy Former Mayor of Chapel Hill Orange County
-- Lorrin Freeman District Attorney Wake County
-- Michelle Burton Durham County Commissioner Durham County
-- Scott Padgett Former Mayor of Concord Cabarrus County
-- Susan Frye Former Clerk of Court Forsyth County
-- Theodore Nollert Chapel Hill Town Council Member Orange County
-- Zeb Smathers Mayor of Canton Haywood County
+Skip to content Home About Endorsements Volunteer Donate Home About Meet James Endorsements Volunteer Donate Menu Endorsements Bob Orr Former NC Supreme Court Associate Justice Burley Mitchell Former NC Supreme Court Chief Justice Eva Clayton Former Member of Congress G.K.
+Butterfield Former NC Supreme Court Associate Justice & Congressman Henry & Shirley Frye Former NC Supreme Court Chief Justice & Civil Rights Advocates Patricia Timmons-Goodson Former NC Supreme Court Associate Justice Walter Dalton Former Lieutenant Governor Aisha Dew State Representative Mecklenburg County Allen Wellons Former State Senator Johnston County Allison Dahle State Representative Wake County Amos Quick State Representative Guilford County Angela Bryant Former State Senator Halifax, Nash, Vance, Warren, and Wilson Counties Ann McKown Former District Court Judge Durham County Billy Richardson Former State Representative Cumberland County Brian Turner State Representative Buncombe County Bryan Cohn State Representative Granville and Vance Counties Charles Smith State Representative Cumberland County Cynthia Ball State Representative, Deputy Democratic Leader Wake County Don Overby Former NC Administrative Law Judge Johnston County Eric Ager State Representative Buncombe County Francisco Rivas-Diaz Wallace Town Councilman Duplin County Garland Pierce State Representative Scotland County Gladys Robinson State Senator Guilford County Howard Hunter III Former State Representative Hertford County J.
+Henry Banks Former District Court Judge Franklin, Granville, Vance, and Warren Counties James Roberson State Representative Wake County Jean Farmer-Butterfield Former State Representative Wilson and Nash Counties John Ager Former State Representative Buncombe County Jordan Lopez State Representative Mecklenburg County Kanika Brown State Representative Forsyth County Ken Spaulding Former State Representative Durham County Lindsey Prather State Representative Buncombe County Mary Wills Bode Former State Senator Wake and Granville Counties Mickey Michaux Former State Senator Durham County Monika Johnson-Hostler State Representative Wake County Natalie Murdock State Senator Durham County Phil Rubin State Representative Wake County Ray Warren Former State Representative Alexander County Rodney Pierce State Representative Halifax, Northampton, and Warren Counties Shelly Willingham State Representative Bertie, Edgecombe, and Martin Counties Terry Van Duyn Former State Senator Buncombe County Toby Fitch Former State Senator Wilson County Zack Hawkins State Representative Durham County Bill Bell Former Mayor of Durham Durham County Brenda Howerton Former County Commissioner Durham County Dr.
+David Cox Former Raleigh City Council Member Wake County Drew Reisinger Register of Deeds Buncombe County Dumont Clarke Former County Commissioner Mecklenburg County Dustin Ingalls Wendell Town Commissioner Wake County Javiera Caballero Durham City Council Member Durham County Kevin Foy Former Mayor of Chapel Hill Orange County Lorrin Freeman District Attorney Wake County Michelle Burton Durham County Commissioner Durham County Scott Padgett Former Mayor of Concord Cabarrus County Susan Frye Former Clerk of Court Forsyth County Theodore Nollert Chapel Hill Town Council Member Orange County Zeb Smathers Mayor of Canton Haywood County NC National Organization for Women PAC Durham Committee on the Affairs of Black People Raleigh-Wake Citizens Association George C.
+Simkins, Jr.
+Memorial PAC Guilford County Community PA Henderson-Vance Black Leadership Caucus Bladen Improvement Association Pam’s Picks Young Democrats of North Carolina College Democrats of North Carolina North Carolina Democratic Party Progressive Caucus Paid for by Friends of James Whalen.
+Website designed by Express Lane Strategies .
+EN ES

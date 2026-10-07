@@ -1,15 +1,5 @@
-Filtering by: “Birmingham”
-Jul
-31
-Mahjong for the Matriarchy
-Join us for cocktails, the basics, and a game of friendly play with Supreme Court Candidate AshLeigh Meyer Dunham.
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Filtering by: “Birmingham” Jul 31 Mahjong for the Matriarchy Friday, July 31, 2026 6:00 PM 9:00 PM Green Trails Clubhouse 2920 Henry Pass Hoover, Alabama 35244 (map) Google Calendar ICS Join us for cocktails, the basics, and a game of friendly play with Supreme Court Candidate AshLeigh Meyer Dunham.
 No experience needed!
-Individual Ticket: $75.00
-Friends Package (2): $125.00
-Table for Four: $250
-RSVP to Kim Weaver via $40 Venmo: @thespunkylilmonkey
-Jul
-11
-Birmingham Meet-and-Greet
-AshLeigh Meyer Dunham, a Jefferson County Juvenile Court Referee and attorney at Magic City Fertility Law, has 15 years of legal experience, including roles as a family law attorney and Special Circuit Court Judge.
+Individual Ticket: $75.00 Friends Package (2): $125.00 Table for Four: $250 RSVP to Kim Weaver via $40 Venmo: @thespunkylilmonkey View Event → Jul 11 Birmingham Meet-and-Greet Saturday, July 11, 2026 2:00 PM 4:00 PM 5145 7th Court South Birmingham, Alabama, 35212 United States (map) Google Calendar ICS AshLeigh Meyer Dunham, a Jefferson County Juvenile Court Referee and attorney at Magic City Fertility Law, has 15 years of legal experience, including roles as a family law attorney and Special Circuit Court Judge.
 After seeking IVF care to start her family, she is now running for the Alabama Supreme Court, aiming to bring a family-centered perspective and ensure integrity, empathy, and equal access to justice for all Alabamians.
+View Event → AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

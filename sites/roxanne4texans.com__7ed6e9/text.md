@@ -1,12 +1,9 @@
-Early voting starts October 19-30.
+0 Skip to Content Meet Roxanne Donate Issues Google Signup Form Endorsements Volunteer TX House of Representatives District 11 Donate Open Menu Close Menu Donate Meet Roxanne Donate Issues Google Signup Form Endorsements Volunteer TX House of Representatives District 11 Open Menu Close Menu Meet Roxanne Donate Issues Google Signup Form Endorsements Volunteer Donate Early voting starts October 19-30.
 Election Day is Tuesday, November 3, 2026.
 Plan ahead and check with your local county elections administrator to know if you are registered to vote.
 Last day to register to vote is October 5, 2026.
-Coffee & Conversation with Roxanne Lathan
-Every Monday, except holidays, from 12:00 - 4:00PM
-117 North St., Ste. 1, Nacogdoches, 75961
-Meet Roxanne
-I was raised in East Texas and I graduated from Nacogdoches High School.
+Coffee & Conversation with Roxanne Lathan Every Monday, except holidays, from 12:00 - 4:00PM 117 North St., Ste.
+1, Nacogdoches, 75961 DONATE Meet ‍ ‍ Roxanne I was raised in East Texas and I graduated from Nacogdoches High School.
 I met my husband in church while he was a senior at SFASU.
 He became a state trooper with the Texas DPS in 1986, and we married the following year.
 Over the next few years, we had our daughters.
@@ -25,51 +22,38 @@ I’m running to be your voice in Austin, and I need your help to get there.
 I want to help those in East Texas who are struggling to put food on the table, afford healthcare and housing, and find decent-paying jobs.
 These are real challenges that affect families every day.
 There are many other issues like fighting for our water rights, putting regulations on already built data centers and pausing those not built yet, and more.
-Legislators always seem to find money for what they want—now it’s time we find money for the people.
-I believe that with compassion, dedication, and practical solutions, we can ease these burdens—so people can worry less and enjoy their families more.
-Make checks payable to Roxanne Lathan
-Send Checks to: PO Box 630511, Nacogdoches, TX 75963
-Other ways to give: Venmo @Roxanne-Lathan
-CashApp $RoxanneLathan
-Be a Part of the Movement
-Donate Today
-Issues
-Issues
-Affordability & the Economy
-- Putting food on the table requires livable wages and economic growth.
+Legislators always seem to find money for what they want—now it’s time we find money for the people .
+I believe that with compassion, dedication, and practical solutions , we can ease these burdens—so people can worry less and enjoy their families more.
+Donate Make checks payable to Roxanne Lathan Send Checks to: PO Box 630511, Nacogdoches, TX 75963 Other ways to give: Venmo @Roxanne-Lathan CashApp $RoxanneLathan Be a Part of the Movement Donate Today Issues Issues Issues Affordability & the Economy Working class people shouldn’t have to struggle to pay for food, gas, and keeping a roof over their heads.
+Putting food on the table requires livable wages and economic growth.
 When people earn more, they can afford groceries, housing, and a better quality of life.
-- Some ideas to bring good paying jobs to East Texas is to recruit companies wanting to expand their territory and grow.
+Some ideas to bring good paying jobs to East Texas is to recruit companies wanting to expand their territory and grow.
 We can better market our region and partner with businesses interested in relocating to East Texas to create higher income jobs.
-- Advocate for small businesses for payroll tax cuts and subsidies to help increase revenue.
+Advocate for small businesses for payroll tax cuts and subsidies to help increase revenue.
 Lower taxes mean more room to hire, grow, and reinvest in our communities.
-- Enhance local schools' vocational training and higher education to create a skilled workforce.
+Enhance local schools' vocational training and higher education to create a skilled workforce.
 Investing in workers can ease inflation and increase economic growth.
 We need smart policies to effectively manage inflation and make things more affordable for American families.
-- Some solutions: • End the harmful tariffs • Address affordable housing, which is a major driver of higher costs • Address the out-of-control costs of health care and health insurance • Address the deficit, by controlling spending and ending tax breaks for the wealthy • Invest in productivity and workforce development
-Public Education
-- Teachers in rural areas are paid low salaries and it's time that changed.
+Some solutions: • End the harmful tariffs • Address affordable housing, which is a major driver of higher costs • Address the out-of-control costs of health care and health insurance • Address the deficit, by controlling spending and ending tax breaks for the wealthy • Invest in productivity and workforce development Public Education Say NO to vouchers!
+Yes, to teacher pay raises and fully funding public education.
+Teachers in rural areas are paid low salaries and it's time that changed.
 They can find money for what they want to find money for.
 Say NO to vouchers!
 The vouchers do not provide a choice when a majority of parents already made the choice to put their students in private schools or home schools.
 Public funds are for public education.
 No business or organization can survive without proper funding, yet it is expected for public schools to do well without the needed state dollars.
-- Low funding and an unstable educator workforce make it harder for schools to improve.
-- Districts face rising costs for staffing, transportation, insurance, utilities, and special education.
-Healthcare
-- Everyone deserves access to care without the fear of financial ruin, but for too many people in East Texas, that is not the reality today.
+Low funding and an unstable educator workforce make it harder for schools to improve.
+Districts face rising costs for staffing, transportation, insurance, utilities, and special education.
+Healthcare Access to Healthcare Keep Local Hospitals Open Everyone deserves access to care without the fear of financial ruin, but for too many people in East Texas, that is not the reality today.
 Texas has more uninsured people than any other state, by far.
 And too many of our local hospitals have closed or are at risk of closing.
 As your representative, I will: - Support the expansion of Medicaid, which almost every other state has done.
 This will provide health insurance to almost a million Texans, and will strengthen rural communities and rural hospitals. - Increase and protect funding for rural hospitals. - Increase access to maternal healthcare services.
-Our Water Future
-Water is critical to our future growth and success.
+Our Water Future Water is critical to our future growth and success.
 However, with current resources Texas faces a large and growing gap between supply and demand.
 We need to build and invest in capacity building, infrastructure, and conservation to secure Texas’ water future.
-Water shortages threaten the growth of our economy, especially the fast-growing tech industries.The 2025 ASCE (American Society of Civil Engineers) Report Card shows Texas’s water infrastructure is deteriorating and the increase in boil water notices is due to this.
-● AI large data centers are increasing rapidly in Texas, and they are also emerging as major water users.
-Democracy for the People
-No More Corruption
-Right now, democracy feels broken.
+Water shortages threaten the growth of our economy, especially the fast-growing tech industries.The 2025 ASCE (American Society of Civil Engineers) Report Card shows Texas’s water infrastructure is deteriorating and the increase in boil water notices is due to this. ● AI large data centers are increasing rapidly in Texas, and they are also emerging as major water users.
+Democracy for the People No More Corruption Right now, democracy feels broken.
 Too often, there is corruption without accountability.
 Tax dollars disappear into projects we never asked for, and transparency is almost nonexistent.
 Politicians seem more focused on pleasing big donors and corporations than listening to the people who elected them.
@@ -79,32 +63,26 @@ They rarely speak with their constituents — regardless of party — because th
 Democracy should not be about quid pro quo deals in back rooms.
 It should be about open government, accountability, and leaders who serve the people first.
 Our Voting Rights are under attack, and our elected leaders want to make it harder to vote.
-Reducing Gun Violence
-I support the 2nd Amendment.
+Reducing Gun Violence I support the 2nd Amendment.
 Owning guns is a constitutional right that can’t be taken away.
 My parents, grandparents, and on, hunted to eat.
 We grew up riding horses and shooting our guns.
 My husband is a retired Hwy Patrol Captain, and we all love our guns.
 We taught our girls about gun safety.
 We can implement common sense gun laws that will reduce gun deaths, while respecting the 2nd Amendment.
-Immigration
-True christians would do what God says in Leviticus 19:33-34, to not mistreat him, but to love him as one born among you as you love yourself.
+Immigration True christians would do what God says in Leviticus 19:33-34, to not mistreat him, but to love him as one born among you as you love yourself.
 Luke 10 teaches about the Good Samaritan.
 I know we live in a land of laws, even though our Constitution is being trampled daily.
 There are many bills that are already written that need to be passed and enforced to keep people safe.
-Safe & Secure Borders
-We must use the latest technologies to patrol the border to keep out illegal drugs, weapons, and terrorists.
+Safe & Secure Borders We must use the latest technologies to patrol the border to keep out illegal drugs, weapons, and terrorists.
 However, people migrating to the US who have not broken any laws and apply for asylum/visas should be able to immediately apply for and become citizens within six months as long as all requirements are met.
-Develop a clear path to citizenship
-We can pass legislation that would enable both undocumented workers, who have provided valuable labor to small businesses and DACA recipients, who have lived and worked in our country since they were children, to earn their US citizenship within six months.
+Develop a clear path to citizenship We can pass legislation that would enable both undocumented workers, who have provided valuable labor to small businesses and DACA recipients, who have lived and worked in our country since they were children, to earn their US citizenship within six months.
 It is unreasonable that people live here, work, pay taxes, and go to school for decades and never become a US citizen.
 Streamline the process, make sure immigrants do not have a criminal history and assist with a clear and easy documentation process.
-ICE
-The systems that were put in place over the past decades have worked well in reference to deportation.
+ICE The systems that were put in place over the past decades have worked well in reference to deportation.
 This was the humane and dignified way to deport.
 No doors should be kicked in, or people pulled out of cars, or people killed.
-Español
-- Los verdade ros cristianos harían lo que Dios dice en Levítico 19:33-34: no maltratar al extranjero, sino amarlo como a uno nacido entre ustedes, como se aman a sí mismos.
+Español En Espanol Los verdade ros cristianos harían lo que Dios dice en Levítico 19:33-34: no maltratar al extranjero, sino amarlo como a uno nacido entre ustedes, como se aman a sí mismos.
 En Lucas 10 se enseña sobre el Buen Samaritano.
 Sé que vivimos en un país de leyes, aunque nuestra Constitución es ignorada muchas veces.
 Ya existen muchas leyes escritas que deben aprobarse y aplicarse para mantener a las personas seguras.
@@ -118,7 +96,7 @@ No deberían existir acciones violentas como derribar puertas, sacar a personas 
 Otras preocupaciones importantes para la comunidad hispana incluyen el acceso justo a servicios de salud y educación, la protección contra la discriminación y el racismo, así como salarios justos y condiciones laborales dignas.
 También es fundamental mantener unidas a las familias, evitando separaciones, y contar con procesos migratorios más rápidos y transparentes.
 Además, es clave garantizar el acceso a representación legal para los inmigrantes, de manera que puedan defender sus derechos de forma adecuada.
-- Acerca de mi DEMOCRAT Nací y crecí en el este de Texas y me gradué de la preparatoria Nacogdoches.
+"Conoce a ROXANNE" en Español Acerca de mi DEMOCRAT Nací y crecí en el este de Texas y me gradué de la preparatoria Nacogdoches.
 Conocí a mi esposo en la iglesia cuando cursaba el último año de la Universidad Estatal Stephen F.
 Austin.
 Se incorporó a la policía estatal del Departamento de Seguridad Pública de Texas en 1986 y nos casamos al año siguiente.
@@ -160,27 +138,16 @@ La verdad y la transparencia parecen haber desaparecido.
 Los funcionarios electos republicanos parecen más centrados en complacer a los grandes donantes y corporaciones que en preocuparse por quienes los eligieron.
 La democracia no debería basarse en acuerdos de intercambio a escondidas.
 Debería basarse en un gobierno abierto, rendición de cuentas y líderes que prioricen al pueblo.
-Volunteer and Contact Me Section
-ENDORSEMENTS
-- Eric Holder, Jr. 82nd US Attorney General, Chair National Democratic Redistricting Committee
-- Rep.
+Volunteer Google Form Volunteer and Contact Me Section ENDORSEMENTS Eric Holder, Jr.
+82nd US Attorney General, Chair National Democratic Redistricting Committee https://democraticredistricting.com/eric-holder-announces-endorsements-for-texas-governor-and-state-house/ Rep.
+Gina Hinojosa, HD 49 Democratic nominee for Texas Governor Rep.
 Vikki Goodwin Rep.
 HD 47, and Nominee for Lt.
-Governor
-- Rep.
+Governor Rep.
 Christina Morales HD 145, Chair HDCC “Last session, Roxanne Lathan’s opponent voted to take money from our public schools and hand it to private schools.
 Roxanne spent 21 years in East Texas classrooms as a teacher and principal — she knows exactly what vouchers steal from our kids.
 I’m proud to endorse her for House District 11.
-East Texas deserves a fighter for public schools, and that’s Roxanne.”
-- Rep.
-Gene Wu, HD 137 Texas House Democratic Minority Leader
-- Nancy Nichols, President Roxanne demonstrates exceptional alignment with the NETNOW mission and values, consistently exemplifying leadership, integrity, and a strong commitment to community engagement beyond expected standards.
-- Mothers Against Greg Abbott
-- Blue Texas
-- Moms Demand Action Gun Sense Candidate: Receiving the Gun Sense Candidate Distinction is a prerequisite to be considered for endorsement by Everytown for Gun Safety Action Fund Gun Safety
-- Texas Democrats with Disabilities TDWD
-- John Watt Nacogdoches County Democratic Party Chair
-- Marc Wheeler Rusk County Democratic Party Chair
-- Sue Baack, Chair Panola County Democratic Club
-- Panola County Democrats
-- Patsy Handy, Chair Shelby County Democratic Party
+East Texas deserves a fighter for public schools, and that’s Roxanne.” Rep.
+Gene Wu, HD 137 Texas House Democratic Minority Leader Nancy Nichols, President Roxanne demonstrates exceptional alignment with the NETNOW mission and values, consistently exemplifying leadership, integrity, and a strong commitment to community engagement beyond expected standards.
+Mothers Against Greg Abbott Blue Texas Moms Demand Action Gun Sense Candidate: Receiving the Gun Sense Candidate Distinction is a prerequisite to be considered for endorsement by Everytown for Gun Safety Action Fund Gun Safety Texas Democrats with Disabilities TDWD John Watt Nacogdoches County Democratic Party Chair Marc Wheeler Rusk County Democratic Party Chair Sue Baack, Chair Panola County Democratic Club Panola County Democrats Patsy Handy, Chair Shelby County Democratic Party Donate District 11 includes six counties in East Texas: Nacogdoches, Newton, Panola, Rusk, Sabine, and Shelby Contact me at 936-339-3961 Make checks payable to Roxanne Lathan Send to PO Box 630511, Nacogdoches, TX 75963-0511 Pol.
+Adv. paid for by Roxanne for HD 11

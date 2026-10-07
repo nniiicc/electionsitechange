@@ -1,19 +1,3 @@
-Privacy Policy
-Paid for by Herzig for Congress — Approved by Hillary Herzig
-Contributions to Herzig for Congress are not tax-deductible as charitable contributions for federal income tax purposes.
-By using this website and making a donation, you certify that:
-• You are a U.S. citizen or lawful permanent resident.
-• You are making this contribution using your own personal funds, and not with funds provided by any
-other person or entity.
-• You are at least 18 years old.
-• You are not a federal contractor.
-• This contribution is not made from the funds of a corporation, labor organization, foreign national, or any entity prohibited by federal law.
-Federal law requires us to use our best efforts to collect and report the name, address, occupation, and employer of each individual whose total contributions exceed
-$200 in an election cycle.
-Contribution limits for the 2025–2026 Federal Election Cycle:
-• Individuals: $3,300 per election
-(Primary: $3,300 + General: $3,300 = $6,600 total)
-• Multicandidate PACs: $5,000 per election
-By providing your phone number and email address,
-you consent to receive campaign updates, messages, and notifications from Herzig for Congress.
-You may unsubscribe at any time.
+top of page Menu Close Home About Hillary Welcome Donate Watch Videos Subscribe GET INVOLVED Events Join Privacy Policy Paid for by Herzig for Congress — Approved by Hillary Herzig Contributions to Herzig for Congress are not tax-deductible as charitable contributions for federal income tax purposes.
+By using this website and making a donation, you certify that: • You are a U.S. citizen or lawful permanent resident. • You are making this contribution using your own personal funds, and not with funds provided by any other person or entity. • You are at least 18 years old. • You are not a federal contractor. • This contribution is not made from the funds of a corporation, labor organization, foreign national, or any entity prohibited by federal law. ​ Federal law requires us to use our best efforts to collect and report the name, address, occupation, and employer of each individual whose total contributions exceed $200 in an election cycle. ​ Contribution limits for the 2025–2026 Federal Election Cycle: • Individuals: $3,300 per election (Primary: $3,300 + General: $3,300 = $6,600 total) • Multicandidate PACs: $5,000 per election ​ By providing your phone number and email address, you consent to receive campaign updates, messages, and notifications from Herzig for Congress.
+You may unsubscribe at any time. bottom of page

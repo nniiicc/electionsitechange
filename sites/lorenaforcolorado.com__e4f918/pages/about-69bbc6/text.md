@@ -1,6 +1,4 @@
-About
-Me
-Lorena Garcia has been supporting communities throughout Colorado for nearly 20 years, by organizing community on social justice issues, developing and executing meaningful and effective life changing programs and drafting and supporting people first policies.
+Home About Contact Issues Read Select Page About Me Subscribe Lorena Garcia has been supporting communities throughout Colorado for nearly 20 years, by organizing community on social justice issues, developing and executing meaningful and effective life changing programs and drafting and supporting people first policies.
 Dedicated to serving nonprofit organizations her entire career, Garcia works tirelessly to build up the dignity of marginalized communities by co creating programs and services that are relevant to the community that drive confidence and success.
 Touching the lives of people both Colorado and around the globe, Garcia also supported communities in Nepal and Nicaragua, helping them create self-sufficient, circular economies that allow them to thrive in their isolated areas.
 As Representative for House District 35, Garcia is committed to community driven representation and leadership.
@@ -17,3 +15,4 @@ As a 7th generation Coloradan on her father’s side and first generation on her
 Her commitment to the well-being of families can be tied back to her own as the youngest of six siblings and aunt of 16 nieces and nephews.
 She and her wife Jaimi, have been married for 14 years and they have called this area their home for 11 of those years.
 Garcia has a Bachelor’s in film studies from CU Boulder and MBA from The George Washington University.
+Facebook Instagram Paid for by LORENAFORCOLORADO

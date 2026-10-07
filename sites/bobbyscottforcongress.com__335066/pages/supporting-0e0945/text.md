@@ -1,5 +1,4 @@
-Fighting For Our Veterans
-Hampton Roads is home to hundreds of thousands of veterans.
+About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE Fighting For Our Veterans Hampton Roads is home to hundreds of thousands of veterans.
 Bobby is committed to ensuring that our veterans have access to quality health care at the V.A. and receive the benefits they earned through their sacrifices protecting and defending our nation in uniform.
 In 2008, Bobby worked with then-Virginia Senator Jim Webb to introduce and pass the Post-9/11 G.I.
 Bill in the House of Representatives.
@@ -13,3 +12,6 @@ As chairman of the Education and Labor Committee, Bobby has also led efforts to 
 Bobby’s College Affordability Act protects veterans from these schools by closing loopholes that have perversely incentivized for-profit institutions to aggressively target veterans and their generous G.I.
 Bill benefits.
 Bobby is also working to improve the V.A. health system and has supported efforts to reduce wait times, increase recruitment of doctors and specialists into the V.A., and provide community access to health care to veterans who live too far from a V.A. medical center.
+Paid for by Bobby Scott for Congress P.O.
+Box 251 | Newport News, Virginia 23607 | (757) 245-2000 DONATE Virginia Dems Where Do I Vote?
+VAYD

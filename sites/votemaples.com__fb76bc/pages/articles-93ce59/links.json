@@ -1,21 +1,86 @@
 [
-"https://secure.anedot.com/jon-maples-campaign/donate",
-"https://votemaples.com/",
-"https://votemaples.com/articles",
-"https://votemaples.com/contact",
-"https://votemaples.com/district-87-rallies-behind-jon-maples-in-resounding-primary-victory",
-"https://votemaples.com/events",
-"https://votemaples.com/faq",
-"https://votemaples.com/florida-district-87",
-"https://votemaples.com/issues",
-"https://votemaples.com/its-time-a-night-of-gratitude-victory-momentum",
-"https://votemaples.com/meet-jon",
-"https://votemaples.com/neighbors-who-endorse-jon",
-"https://votemaples.com/news",
-"https://votemaples.com/privacy-policy",
-"https://votemaples.com/representation-starts-at-home",
-"https://votemaples.com/support-starts-at-homejon-maples-earns-powerful-support-across-district-87-and-beyond",
-"https://votemaples.com/terms-conditions",
-"https://votemaples.com/the-10-maples-movement",
-"https://votemaples.com/their-future-is-in-our-hands"
+{
+"text": "Articles",
+"href": "https://votemaples.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://votemaples.com/contact/"
+},
+{
+"text": "District 87",
+"href": "https://votemaples.com/florida-district-87/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jon-maples-campaign/donate"
+},
+{
+"text": "Events",
+"href": "https://votemaples.com/events/"
+},
+{
+"text": "FAQ",
+"href": "https://votemaples.com/faq/"
+},
+{
+"text": "Home",
+"href": "https://votemaples.com/"
+},
+{
+"text": "Issues",
+"href": "https://votemaples.com/issues/"
+},
+{
+"text": "Meet Jon",
+"href": "https://votemaples.com/meet-jon/"
+},
+{
+"text": "More",
+"href": "https://votemaples.com/district-87-rallies-behind-jon-maples-in-resounding-primary-victory/"
+},
+{
+"text": "More",
+"href": "https://votemaples.com/its-time-a-night-of-gratitude-victory-momentum/"
+},
+{
+"text": "More",
+"href": "https://votemaples.com/representation-starts-at-home/"
+},
+{
+"text": "More",
+"href": "https://votemaples.com/support-starts-at-homejon-maples-earns-powerful-support-across-district-87-and-beyond/"
+},
+{
+"text": "More",
+"href": "https://votemaples.com/the-10-maples-movement/"
+},
+{
+"text": "More",
+"href": "https://votemaples.com/their-future-is-in-our-hands/"
+},
+{
+"text": "More",
+"href": "https://votemaples.com/whats-at-stake-for-district-87/"
+},
+{
+"text": "Neighbors for Jon",
+"href": "https://votemaples.com/neighbors-who-endorse-jon/"
+},
+{
+"text": "News",
+"href": "https://votemaples.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votemaples.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votemaples.com/terms-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://votemaples.com/"
+}
 ]

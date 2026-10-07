@@ -1,19 +1,94 @@
 [
-"https://facebook.com/nancyfornevada",
-"https://instagram.com/nanfornevada",
-"https://nancyfornevada.com/",
-"https://nancyfornevada.com/api/auth/signin",
-"https://nancyfornevada.com/candidates/nancy-roecker/keystone-endorsement-letter.pdf",
-"https://nancyfornevada.com/contact",
-"https://nancyfornevada.com/donate",
-"https://nancyfornevada.com/events",
-"https://nancyfornevada.com/faq",
-"https://nancyfornevada.com/issues",
-"https://nancyfornevada.com/meet-nancy",
-"https://nancyfornevada.com/prensa",
-"https://nancyfornevada.com/press",
-"https://nancyfornevada.com/privacy-policy",
-"https://twitter.com/nanfornevada",
-"https://youtube.com/watch?v=WlcLrOh2sTg",
-"https://youtube.com/watch?v=m4L4tw3Jd7w"
+{
+"text": "702.370.8970",
+"href": "tel:7023708970"
+},
+{
+"text": "About",
+"href": "https://nancyfornevada.com/meet-nancy"
+},
+{
+"text": "Contact",
+"href": "https://nancyfornevada.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://nancyfornevada.com/donate/"
+},
+{
+"text": "ESP",
+"href": "https://nancyfornevada.com/prensa"
+},
+{
+"text": "Endorsements",
+"href": "https://nancyfornevada.com/press"
+},
+{
+"text": "Endorsements",
+"href": "https://nancyfornevada.com/press#endorsements"
+},
+{
+"text": "Events",
+"href": "https://nancyfornevada.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://nancyfornevada.com/faq"
+},
+{
+"text": "Issues",
+"href": "https://nancyfornevada.com/issues"
+},
+{
+"text": "Log In",
+"href": "https://nancyfornevada.com/api/auth/signin"
+},
+{
+"text": "Media",
+"href": "https://nancyfornevada.com/press#media"
+},
+{
+"text": "Press inquiries",
+"href": "mailto:nancy@nancyfornevada.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nancyfornevada.com/privacy-policy"
+},
+{
+"text": "Read / Watch →",
+"href": "https://www.youtube.com/watch?v=WlcLrOh2sTg"
+},
+{
+"text": "Read the letter →",
+"href": "https://nancyfornevada.com/candidates/nancy-roecker/keystone-endorsement-letter.pdf"
+},
+{
+"text": "Watch on YouTube →",
+"href": "https://www.youtube.com/watch?v=WlcLrOh2sTg"
+},
+{
+"text": "Watch on YouTube →",
+"href": "https://www.youtube.com/watch?v=m4L4tw3Jd7w"
+},
+{
+"text": "[image: Nancy \"Nan\" Roecker for Nevada State Assembly District 12 campaign logo]",
+"href": "https://nancyfornevada.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/nanfornevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nancyfornevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nanfornevada"
+},
+{
+"text": "nancy@nancyfornevada.com",
+"href": "mailto:nancy@nancyfornevada.com"
+}
 ]

@@ -1,150 +1,934 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F10&dates=20261010T150000Z%2F20261010T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F17&dates=20261017T150000Z%2F20261017T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F24&dates=20261024T150000Z%2F20261024T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F3&dates=20261003T150000Z%2F20261003T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F31&dates=20261031T150000Z%2F20261031T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+7%2F11&dates=20260711T150000Z%2F20260711T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+7%2F18&dates=20260718T150000Z%2F20260718T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F1&dates=20260801T150000Z%2F20260801T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F15&dates=20260815T150000Z%2F20260815T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F22&dates=20260822T150000Z%2F20260822T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F29&dates=20260829T150000Z%2F20260829T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F8&dates=20260808T150000Z%2F20260808T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+9%2F12&dates=20260912T150000Z%2F20260912T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+9%2F19&dates=20260919T150000Z%2F20260919T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+9%2F26&dates=20260926T150000Z%2F20260926T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F1&dates=20261001T210000Z%2F20261002T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F15&dates=20261015T210000Z%2F20261016T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F22&dates=20261022T210000Z%2F20261023T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F29&dates=20261029T210000Z%2F20261030T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F8&dates=20261008T210000Z%2F20261009T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+9%2F10&dates=20260910T210000Z%2F20260911T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+9%2F17&dates=20260917T210000Z%2F20260918T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+9%2F24&dates=20260924T210000Z%2F20260925T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door-Knocking+Tuesday+3%2F11&dates=20250311T190000Z%2F20250311T230000Z&location=3460+Lexington+Avenue+North%2C+Shoreview%2C+MN%2C+55126%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day%21&dates=20250311T120000Z%2F20250312T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+10%2F14&dates=20261014T210000Z%2F20261014T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+10%2F21&dates=20261021T210000Z%2F20261021T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+10%2F28&dates=20261028T210000Z%2F20261028T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+10%2F7&dates=20261007T210000Z%2F20261007T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+7%2F15&dates=20260715T210000Z%2F20260715T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+7%2F22&dates=20260722T210000Z%2F20260722T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+7%2F29&dates=20260729T210000Z%2F20260729T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+7%2F8&dates=20260708T210000Z%2F20260708T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+8%2F12&dates=20260812T210000Z%2F20260812T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+8%2F19&dates=20260819T210000Z%2F20260819T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+8%2F26&dates=20260826T210000Z%2F20260826T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+8%2F5&dates=20260805T210000Z%2F20260805T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+9%2F16&dates=20260916T210000Z%2F20260916T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+9%2F23&dates=20260923T210000Z%2F20260923T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+9%2F30&dates=20260930T210000Z%2F20260930T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+9%2F9&dates=20260909T210000Z%2F20260909T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebanking+Tuesday+3%2F11&dates=20250311T220000Z%2F20250312T003000Z",
-"http://maps.google.com/?q=2805+Hamline+Avenue+North+Roseville%2C+Minnesota%2C+55113+United+States",
-"http://maps.google.com/?q=3460+Lexington+Avenue+North+Shoreview%2C+MN%2C+55126+United+States",
-"http://maps.google.com/?q=Remote+%28link+upon+RSVP%29",
-"https://bsky.app/profile/davidformn40b.bsky.social",
-"https://david-gottfried.com/",
-"https://david-gottfried.com/cart",
-"https://david-gottfried.com/contact",
-"https://david-gottfried.com/endorsements-distinctions",
-"https://david-gottfried.com/meet-david",
-"https://david-gottfried.com/new-dropdown",
-"https://david-gottfried.com/photos",
-"https://david-gottfried.com/vision",
-"https://david-gottfried.com/volunteer",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-2k2k4",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-2k2k4?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-728fn",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-728fn?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-8nfxy",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-8nfxy?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-fd7el",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-fd7el?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-sw8b5",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-sw8b5?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-wme57",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-wme57?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-xmyse",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-xmyse?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-ykf9p",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-ykf9p?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-9jtj6",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-9jtj6?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-aef6r",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-aef6r?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229-9kt7f",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229-9kt7f?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-efegg",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-efegg?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-h7mf4",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-h7mf4?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-r2axb",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-r2axb?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-35pxp",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-35pxp?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-96al9",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-96al9?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-g3spp",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-g3spp?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-lrt8n",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-lrt8n?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-wjptk",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-wjptk?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-ztrex",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-ztrex?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54?format=ical",
-"https://david-gottfried.com/volunteer/door-knocking-saturday-711?format=ical",
-"https://david-gottfried.com/volunteer/election-day-t7mx6",
-"https://david-gottfried.com/volunteer/election-day-t7mx6?format=ical",
-"https://david-gottfried.com/volunteer/event-one-kr4ab-w2hgy-3x9hl-dtf6b-4ssjd-8lryt-9f838-r252x-dchw7-x7tzh-2k2wa-dsbkc",
-"https://david-gottfried.com/volunteer/event-one-kr4ab-w2hgy-3x9hl-dtf6b-4ssjd-8lryt-9f838-r252x-dchw7-x7tzh-2k2wa-dsbkc?format=ical",
-"https://david-gottfried.com/volunteer/h5bs6lg544h8mhb-spspw-2n2tf-yrsdz-paj98-l8cnx-kja2h-8hhzl-s2c99-ap5z2-ytd2j-gx5dc-ecmtw",
-"https://david-gottfried.com/volunteer/h5bs6lg544h8mhb-spspw-2n2tf-yrsdz-paj98-l8cnx-kja2h-8hhzl-s2c99-ap5z2-ytd2j-gx5dc-ecmtw?format=ical",
-"https://david-gottfried.com/volunteer?category=Door-knocking",
-"https://david-gottfried.com/volunteer?category=Election+Day",
-"https://david-gottfried.com/volunteer?category=Phonebanking",
-"https://davidgottfried.us/vote",
-"https://facebook.com/profile.php?id=61556122410352",
-"https://forms.gle/fdfiTYyeeETfS8g29",
-"https://secure.actblue.com/donate/dgformn",
-"https://secure.ngpvan.com/gCprls-31E-f_U72rFz5dg2",
-"https://secure.ngpvan.com/rNANjJrPV0y1EhzZjMXIsw2"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2805+hamline+avenue+north+roseville%2C+minnesota%2C+55113+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3460+lexington+avenue+north+shoreview%2C+mn%2C+55126+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=remote+%28link+upon+rsvp%29"
+},
+{
+"text": "0",
+"href": "https://www.david-gottfried.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.david-gottfried.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.david-gottfried.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dgformn"
+},
+{
+"text": "Door Knocking Saturday, 10/10",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-efegg"
+},
+{
+"text": "Door Knocking Saturday, 10/17",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-aef6r"
+},
+{
+"text": "Door Knocking Saturday, 10/24",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-9jtj6"
+},
+{
+"text": "Door Knocking Saturday, 10/3",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-r2axb"
+},
+{
+"text": "Door Knocking Saturday, 10/31",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-2k2k4"
+},
+{
+"text": "Door Knocking Saturday, 7/11",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711"
+},
+{
+"text": "Door Knocking Saturday, 7/18",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw"
+},
+{
+"text": "Door Knocking Saturday, 8/1",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x"
+},
+{
+"text": "Door Knocking Saturday, 8/15",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5"
+},
+{
+"text": "Door Knocking Saturday, 8/22",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5"
+},
+{
+"text": "Door Knocking Saturday, 8/29",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl"
+},
+{
+"text": "Door Knocking Saturday, 8/8",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375"
+},
+{
+"text": "Door Knocking Saturday, 9/12",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229"
+},
+{
+"text": "Door Knocking Saturday, 9/19",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229-9kt7f"
+},
+{
+"text": "Door Knocking Saturday, 9/26",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-h7mf4"
+},
+{
+"text": "Door Knocking Thursday, 10/1",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-sw8b5"
+},
+{
+"text": "Door Knocking Thursday, 10/15",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-wme57"
+},
+{
+"text": "Door Knocking Thursday, 10/22",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-8nfxy"
+},
+{
+"text": "Door Knocking Thursday, 10/29",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-728fn"
+},
+{
+"text": "Door Knocking Thursday, 10/8",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-fd7el"
+},
+{
+"text": "Door Knocking Thursday, 9/10",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype"
+},
+{
+"text": "Door Knocking Thursday, 9/17",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-xmyse"
+},
+{
+"text": "Door Knocking Thursday, 9/24",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-ykf9p"
+},
+{
+"text": "Door-Knocking Tuesday 3/11",
+"href": "https://www.david-gottfried.com/volunteer/event-one-kr4ab-w2hgy-3x9hl-dtf6b-4ssjd-8lryt-9f838-r252x-dchw7-x7tzh-2k2wa-dsbkc"
+},
+{
+"text": "Door-knocking",
+"href": "https://www.david-gottfried.com/volunteer?category=Door-knocking"
+},
+{
+"text": "Election Day",
+"href": "https://www.david-gottfried.com/volunteer?category=Election+Day"
+},
+{
+"text": "Election Day!",
+"href": "https://www.david-gottfried.com/volunteer/election-day-t7mx6"
+},
+{
+"text": "Endorsements & Distinctions",
+"href": "https://www.david-gottfried.com/endorsements-distinctions"
+},
+{
+"text": "Folder: About",
+"href": "https://www.david-gottfried.com/new-dropdown"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F10&dates=20261010T150000Z%2F20261010T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F17&dates=20261017T150000Z%2F20261017T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F24&dates=20261024T150000Z%2F20261024T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F3&dates=20261003T150000Z%2F20261003T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+10%2F31&dates=20261031T150000Z%2F20261031T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+7%2F11&dates=20260711T150000Z%2F20260711T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+7%2F18&dates=20260718T150000Z%2F20260718T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F1&dates=20260801T150000Z%2F20260801T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F15&dates=20260815T150000Z%2F20260815T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F22&dates=20260822T150000Z%2F20260822T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F29&dates=20260829T150000Z%2F20260829T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+8%2F8&dates=20260808T150000Z%2F20260808T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+9%2F12&dates=20260912T150000Z%2F20260912T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+9%2F19&dates=20260919T150000Z%2F20260919T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Saturday%2C+9%2F26&dates=20260926T150000Z%2F20260926T180000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F1&dates=20261001T210000Z%2F20261002T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F15&dates=20261015T210000Z%2F20261016T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F22&dates=20261022T210000Z%2F20261023T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F29&dates=20261029T210000Z%2F20261030T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+10%2F8&dates=20261008T210000Z%2F20261009T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+9%2F10&dates=20260910T210000Z%2F20260911T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+9%2F17&dates=20260917T210000Z%2F20260918T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+Thursday%2C+9%2F24&dates=20260924T210000Z%2F20260925T000000Z&location=2805+Hamline+Avenue+North%2C+Roseville%2C+Minnesota%2C+55113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door-Knocking+Tuesday+3%2F11&dates=20250311T190000Z%2F20250311T230000Z&location=3460+Lexington+Avenue+North%2C+Shoreview%2C+MN%2C+55126%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day%21&dates=20250311T120000Z%2F20250312T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+10%2F14&dates=20261014T210000Z%2F20261014T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+10%2F21&dates=20261021T210000Z%2F20261021T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+10%2F28&dates=20261028T210000Z%2F20261028T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+10%2F7&dates=20261007T210000Z%2F20261007T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+7%2F15&dates=20260715T210000Z%2F20260715T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+7%2F22&dates=20260722T210000Z%2F20260722T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+7%2F29&dates=20260729T210000Z%2F20260729T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+7%2F8&dates=20260708T210000Z%2F20260708T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+8%2F12&dates=20260812T210000Z%2F20260812T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+8%2F19&dates=20260819T210000Z%2F20260819T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+8%2F26&dates=20260826T210000Z%2F20260826T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+8%2F5&dates=20260805T210000Z%2F20260805T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+9%2F16&dates=20260916T210000Z%2F20260916T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+9%2F23&dates=20260923T210000Z%2F20260923T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+9%2F30&dates=20260930T210000Z%2F20260930T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Banking+Wednesday%2C+9%2F9&dates=20260909T210000Z%2F20260909T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebanking+Tuesday+3%2F11&dates=20250311T220000Z%2F20250312T003000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-2k2k4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-728fn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-8nfxy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-fd7el?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-sw8b5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-wme57?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-xmyse?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-ykf9p?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-9jtj6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-aef6r?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229-9kt7f?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-efegg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-h7mf4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-r2axb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-35pxp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-96al9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-g3spp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-lrt8n?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-wjptk?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-ztrex?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/election-day-t7mx6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/event-one-kr4ab-w2hgy-3x9hl-dtf6b-4ssjd-8lryt-9f838-r252x-dchw7-x7tzh-2k2wa-dsbkc?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.david-gottfried.com/volunteer/h5bs6lg544h8mhb-spspw-2n2tf-yrsdz-paj98-l8cnx-kja2h-8hhzl-s2c99-ap5z2-ytd2j-gx5dc-ecmtw?format=ical"
+},
+{
+"text": "Meet David",
+"href": "https://www.david-gottfried.com/meet-david"
+},
+{
+"text": "Phone Banking Wednesday, 10/14",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-lrt8n"
+},
+{
+"text": "Phone Banking Wednesday, 10/21",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-g3spp"
+},
+{
+"text": "Phone Banking Wednesday, 10/28",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-35pxp"
+},
+{
+"text": "Phone Banking Wednesday, 10/7",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-96al9"
+},
+{
+"text": "Phone Banking Wednesday, 7/15",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754"
+},
+{
+"text": "Phone Banking Wednesday, 7/22",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz"
+},
+{
+"text": "Phone Banking Wednesday, 7/29",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg"
+},
+{
+"text": "Phone Banking Wednesday, 7/8",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54"
+},
+{
+"text": "Phone Banking Wednesday, 8/12",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p"
+},
+{
+"text": "Phone Banking Wednesday, 8/19",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs"
+},
+{
+"text": "Phone Banking Wednesday, 8/26",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3"
+},
+{
+"text": "Phone Banking Wednesday, 8/5",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj"
+},
+{
+"text": "Phone Banking Wednesday, 9/16",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-wjptk"
+},
+{
+"text": "Phone Banking Wednesday, 9/23",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw"
+},
+{
+"text": "Phone Banking Wednesday, 9/30",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-ztrex"
+},
+{
+"text": "Phone Banking Wednesday, 9/9",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd"
+},
+{
+"text": "Phonebanking",
+"href": "https://www.david-gottfried.com/volunteer?category=Phonebanking"
+},
+{
+"text": "Phonebanking Tuesday 3/11",
+"href": "https://www.david-gottfried.com/volunteer/h5bs6lg544h8mhb-spspw-2n2tf-yrsdz-paj98-l8cnx-kja2h-8hhzl-s2c99-ap5z2-ytd2j-gx5dc-ecmtw"
+},
+{
+"text": "Photos",
+"href": "https://www.david-gottfried.com/photos"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-2k2k4"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-728fn"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-8nfxy"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-fd7el"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-sw8b5"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-wme57"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-xmyse"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-ykf9p"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-9jtj6"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-aef6r"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229-9kt7f"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-efegg"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-h7mf4"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-r2axb"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-35pxp"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-96al9"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-g3spp"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-lrt8n"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-wjptk"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-ztrex"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/election-day-t7mx6"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/event-one-kr4ab-w2hgy-3x9hl-dtf6b-4ssjd-8lryt-9f838-r252x-dchw7-x7tzh-2k2wa-dsbkc"
+},
+{
+"text": "View Event →",
+"href": "https://www.david-gottfried.com/volunteer/h5bs6lg544h8mhb-spspw-2n2tf-yrsdz-paj98-l8cnx-kja2h-8hhzl-s2c99-ap5z2-ytd2j-gx5dc-ecmtw"
+},
+{
+"text": "Vision",
+"href": "https://www.david-gottfried.com/vision"
+},
+{
+"text": "Volunteer",
+"href": "https://www.david-gottfried.com/volunteer"
+},
+{
+"text": "[image: David Gottfried for MN40B]",
+"href": "https://www.david-gottfried.com/"
+},
+{
+"text": "[image: Door-Knocking Tuesday 3/11]",
+"href": "https://www.david-gottfried.com/volunteer/event-one-kr4ab-w2hgy-3x9hl-dtf6b-4ssjd-8lryt-9f838-r252x-dchw7-x7tzh-2k2wa-dsbkc"
+},
+{
+"text": "[image: Election Day!]",
+"href": "https://www.david-gottfried.com/volunteer/election-day-t7mx6"
+},
+{
+"text": "[image: Phonebanking Tuesday 3/11]",
+"href": "https://www.david-gottfried.com/volunteer/h5bs6lg544h8mhb-spspw-2n2tf-yrsdz-paj98-l8cnx-kja2h-8hhzl-s2c99-ap5z2-ytd2j-gx5dc-ecmtw"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/davidformn40b.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-2k2k4"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-728fn"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-8nfxy"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-fd7el"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-sw8b5"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-wme57"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-xmyse"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-8eype-ykf9p"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-9jtj6"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-aef6r"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-e9229-9kt7f"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-efegg"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-h7mf4"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-h45hw-rxy67-r8t5x-xs375-44xe5-z7lp5-bktpl-r2axb"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-35pxp"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-96al9"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-g3spp"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-lrt8n"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-wjptk"
+},
+{
+"text": "[no text]",
+"href": "https://www.david-gottfried.com/volunteer/door-knocking-saturday-711-mhg54-3c754-bwghz-tdysg-3s7xj-9w98p-whmjs-l2fp3-cpewd-fgfyw-ztrex"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61556122410352"
+},
+{
+"text": "https://davidgottfried.us/vote",
+"href": "https://davidgottfried.us/vote"
+},
+{
+"text": "https://forms.gle/fdfiTYyeeETfS8g29",
+"href": "https://forms.gle/fdfiTYyeeETfS8g29"
+},
+{
+"text": "https://secure.ngpvan.com/gCprls-31E-f_U72rFz5dg2",
+"href": "https://secure.ngpvan.com/gCprls-31E-f_U72rFz5dg2"
+},
+{
+"text": "https://secure.ngpvan.com/rNANjJrPV0y1EhzZjMXIsw2",
+"href": "https://secure.ngpvan.com/rNANjJrPV0y1EhzZjMXIsw2"
+}
 ]

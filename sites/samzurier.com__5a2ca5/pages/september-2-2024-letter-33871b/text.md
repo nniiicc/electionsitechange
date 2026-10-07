@@ -1,4 +1,4 @@
-| Dear Neighbors: The abrupt closure of the Washington Bridge harmed (and ended) many businesses while causing delays and hassles for tens of thousands on a daily basis.
+Home About Bio Public Service Record Projects 2022-23 District Letters 2024 District Letters 2025 District Letters 2026 District Letters Legislation State Legislation State Issues DONATE Join My Email List Select Page September 2, 2024 Letter Dear Neighbors: The abrupt closure of the Washington Bridge harmed (and ended) many businesses while causing delays and hassles for tens of thousands on a daily basis.
 Since this calamity began last December, many of you have asked for accountability, demanding that I, as your representative, do my part to learn how and why the failure occurred.
 In this letter, I explain why legislative oversight has failed to date, and how the Attorney General has a crucial role in promoting accountability.
 A.
@@ -11,7 +11,7 @@ Also, RIDOT has announced that it will not produce the promised forensic audit r
 By deferring their answers in February by promising a forensic audit report they later refused to produce, RIDOT treated the Joint Oversight Committee to a classic example of a Catch-22.
 B.
 The Importance Of Discovery In The Lawsuit In a recent press conference, the Governor offered an alternative way to answer the accountability question.
-According to WPRI-12, he stated that “[d]uring that [legal] discovery you’re going to see whether there were any management issues that need to be addressed.” This is promising, but I fear it will become part of a second Catch-22.
+According to WPRI-12 , he stated that “[d]uring that [legal] discovery you’re going to see whether there were any management issues that need to be addressed.” This is promising, but I fear it will become part of a second Catch-22.
 Civil discovery documents start out as “public” in the sense that they can be disclosed by the parties, but only if they choose to do so.
 Even worse, it is common in complex civil litigation for the parties to ask the Court to enter a protective order that prevents disclosure until after the conclusion of the lawsuit (and possibly even after that).
 This is exactly what happened with the 38 Studios case, where the public did not learn the role and responsibility of State officials until the civil case settled, years after the fiasco took place.
@@ -25,5 +25,5 @@ Two weeks ago, I sent the Attorney General this Letter urging him to apply his p
 The letter asks him to set up a website that contains all of the pleadings, motions and non-privileged discovery materials from the Washington Bridge lawsuit, and to object to any attempts to cloak those materials in a protective order.
 D.
 Conclusion It is my hope that the Attorney General will conduct this lawsuit in a manner consistent with open government and accountability.
-In my view, his decisions as co-counsel can both defend the public’s right to know and ensure that the State learns any appropriate lessons from this failure in time to ensure that the new Washington Bridge (as well as possible other RIDOT projects) has a better chance of durable success. |
-| |
+In my view, his decisions as co-counsel can both defend the public’s right to know and ensure that the State learns any appropriate lessons from this failure in time to ensure that the new Washington Bridge (as well as possible other RIDOT projects) has a better chance of durable success.
+Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Join My Email List [ctct form="3808" show_title="false"] © Copyright # Paid for and Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer.

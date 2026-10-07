@@ -1,6 +1,4 @@
-Election Results
-Thursday, November 10, 2022
-Thank you for the great honor and privilege to serve you in elected office.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back Election Results Thursday, November 10, 2022 Thank you for the great honor and privilege to serve you in elected office.
 I am humbled and overwhelmed to achieve another re-election victory.
 A very special thank you to my wife Kari, sons Will & Ryan, extended family, friends and volunteers for their unending support of me.
 You make the difference in every election and I am blessed.
@@ -18,5 +16,4 @@ Please call personally to concede the race and find a time very soon to meet per
 After all, the goal of public service is just that – serving the public.
 Thank you again for allowing me to serve you.
 Our greatest days are still ahead – God Bless Georgia & America!
-Most sincerely,
-John
+Most sincerely, John Senator John Albers GA DISTRICT 56 Privacy Policy

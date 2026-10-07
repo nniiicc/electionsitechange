@@ -1,6 +1,26 @@
 [
-"https://facebook.com/voteyonianijar",
-"https://secure.anedot.com/yoni-anijar-for-state-house/donate",
-"https://yonianijar.com/privacy.html",
-"https://yonianijar.com/signup.html"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/yoni-anijar-for-state-house/donate"
+},
+{
+"text": "Privacy and Terms & Conditions",
+"href": "https://www.yonianijar.com/privacy.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.yonianijar.com/signup.html"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/voteyonianijar"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/yoni-anijar-for-state-house/donate"
+},
+{
+"text": "info@yonianijar.com",
+"href": "mailto:info@yonianijar.com"
+}
 ]

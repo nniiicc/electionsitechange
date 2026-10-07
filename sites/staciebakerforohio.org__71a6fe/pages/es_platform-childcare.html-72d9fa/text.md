@@ -1,22 +1,19 @@
-El Problema
-El costo promedio del cuidado infantil en Ohio supera los $10,000 por año por niño.
+Baker para Ohio Sobre Mí Plataforma Respaldos Anuncios Eventos Involúcrate Voluntario Carteles Contacto Donate EN ES SO NE Sobre Mí Plataforma Respaldos Anuncios Eventos Involúcrate Voluntario Carteles Contacto Donate ← Volver a la Plataforma Prioridad 06 Financiando el Cuidado Infantil Stacie Baker es padre de dos hijos.
+Sabe que el costo del cuidado infantil en Ohio no es solo alto, es una barrera que mantiene a los padres fuera de la fuerza laboral y a los niños fuera de una educación temprana de calidad.
+Luchará para cambiar eso. $10,000+ Costo promedio de cuidado infantil en Ohio por niño por año 40.° Posición de Ohio en la accesibilidad del cuidado infantil a nivel nacional > Matrícula Muchas familias del Distrito 3 pagan más por cuidado infantil que por la universidad El Problema El costo promedio del cuidado infantil en Ohio supera los $10,000 por año por niño.
 Para muchas familias del Distrito 3, eso es más de lo que pagan en alquiler, y más del costo de la matrícula en una universidad pública.
 Ohio ocupa el puesto 40 en la nación en accesibilidad del cuidado infantil, lo que significa que casi todos los estados lo hacen mejor.
 El resultado es una elección dolorosa e imposible: uno de los padres se queda en casa (a menudo la madre, y a menudo a largo costo para su carrera), o una familia estira su presupuesto más allá del límite para seguir trabajando.
 La propia fuerza laboral del cuidado infantil está en crisis.
 Los trabajadores que cuidan a los niños más pequeños de Ohio ganan salarios cercanos a la pobreza, lo que lleva a una crónica falta de personal, cierres de centros y listas de espera que se extienden meses o años.
 Las familias del Distrito 3 lo sienten todos los días.
-El Plan de Stacie
-- Ampliar los subsidios estatales de cuidado infantil para cubrir a más familias trabajadoras, con elegibilidad escalada según ingresos para que la ayuda llegue a quienes más la necesitan
-- Aumentar el pago de los trabajadores de cuidado infantil a través de suplementos salariales financiados por el estado y becas de incentivo de calidad
-- Crear incentivos de cuidado infantil patrocinados por empleadores, créditos fiscales y subvenciones para empresas que proporcionen o financien el cuidado infantil para sus empleados
-- Financiar la expansión de programas de educación infantil temprana de calidad en el Distrito 3, especialmente en vecindarios desatendidos
-- Agilizar el proceso de solicitud de subsidios para que las familias puedan acceder a la ayuda sin navegar por un laberinto burocrático
-- Invertir en subvenciones de infraestructura de cuidado infantil para ayudar a los proveedores a ampliar la capacidad y cumplir con los estándares de seguridad
-La Perspectiva de un Padre
-Stacie Baker no aborda este tema desde un manual de políticas.
+El Plan de Stacie Ampliar los subsidios estatales de cuidado infantil para cubrir a más familias trabajadoras, con elegibilidad escalada según ingresos para que la ayuda llegue a quienes más la necesitan Aumentar el pago de los trabajadores de cuidado infantil a través de suplementos salariales financiados por el estado y becas de incentivo de calidad Crear incentivos de cuidado infantil patrocinados por empleadores, créditos fiscales y subvenciones para empresas que proporcionen o financien el cuidado infantil para sus empleados Financiar la expansión de programas de educación infantil temprana de calidad en el Distrito 3, especialmente en vecindarios desatendidos Agilizar el proceso de solicitud de subsidios para que las familias puedan acceder a la ayuda sin navegar por un laberinto burocrático Invertir en subvenciones de infraestructura de cuidado infantil para ayudar a los proveedores a ampliar la capacidad y cumplir con los estándares de seguridad La Perspectiva de un Padre Stacie Baker no aborda este tema desde un manual de políticas.
 Es padre de dos hijos que ha vivido la realidad de lo que los costos de cuidado infantil hacen a un presupuesto familiar.
 Ha hablado con padres en todo el Distrito 3 que toman decisiones de carrera, y decisiones de vida, basadas en el costo y la disponibilidad del cuidado infantil.
 Ha conocido a trabajadores de cuidado infantil que aman su trabajo y ganan salarios de pobreza haciéndolo.
 Este es un problema económico, laboral y familiar a la vez.
 En el Senado de Ohio, Stacie lo tratará con la urgencia que merece, porque ningún padre debería tener que elegir entre su carrera y su hijo.
+"Como padre de dos hijos, sé que esto no es abstracto.
+Ningún padre debería tener que elegir entre su carrera y su hijo." Stacie Baker Respaldado Por Ohio Democratic Party Franklin County Democratic Party Sheet Metal Workers Local Union #24 AFSCME Ohio Council 8 AFSCME Retiree Chapter 1184 Ohio Federation of Teachers OCSEA / AFSCME Local 11 Ohio AFL-CIO Central Ohio Labor Council Columbus/Central Ohio Building & Construction Trades Council Brotherhood of Locomotive Engineers and Trainmen (Ohio State Legislative Board) Ohio Environmental Council Action Committee Hilliard Democrats Baptist Ministerial Alliance of Greater Columbus Apoya a Stacie el 3 de Noviembre Cada voto en la elección general es un voto por los niños de Ohio y las familias trabajadoras.
+Donar Ahora Involúcrate Pagado por Citizens For Baker • © # Todos los Derechos Reservados • P.O.
+Box, Reynoldsburg, OH 43068

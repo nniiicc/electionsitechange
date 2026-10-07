@@ -1,4 +1,5 @@
-I am a fiscal conservative and believe in limited government.
+Skip to content Welcome.
+Cannon for Idaho House Seat 30A Menu Home Common Sense Conservatism Contact Us Infrastructure I am a fiscal conservative and believe in limited government.
 That said, infrastructure is an area where, to me, it makes sense to invest tax dollars.
 Infrastructure includes physical structures such as roads and bridges; water supply and sewers.
 It also includes electrical grids and telecommunications, including internet connectivity and broadband access.
@@ -13,3 +14,4 @@ As a fiscal conservative, wasteful spending is “public enemy number one” for
 However, failing to make wise investments in sound infrastructure–which can bring real, tangible benefits to Idaho’s society and economy–is as big of a danger as is wasteful spending.
 As I Idaho legislator, I will avoid wasteful spending.
 And, I will embrace wise spending on sound infrastructure to allow our society and our economy to thrive and to grow.
+Paid for by Cannon 4 Idaho - David Cannon, Treasurer Facebook Proudly powered by WordPress | Theme: Dyad by WordPress.com .

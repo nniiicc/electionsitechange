@@ -1,7 +1,22 @@
 [
-"https://chaplainstevenstjohnforcongress.com/About.html",
-"https://chaplainstevenstjohnforcongress.com/Donation.html",
-"https://chaplainstevenstjohnforcongress.com/Endorsements.html",
-"https://chaplainstevenstjohnforcongress.com/Solutions.html",
-"https://chaplainstevenstjohnforcongress.com/index.html"
+{
+"text": "About",
+"href": "https://chaplainstevenstjohnforcongress.com/About.html"
+},
+{
+"text": "Donate",
+"href": "https://chaplainstevenstjohnforcongress.com/Donation.html"
+},
+{
+"text": "Home",
+"href": "https://chaplainstevenstjohnforcongress.com/index.html"
+},
+{
+"text": "Solutions",
+"href": "https://chaplainstevenstjohnforcongress.com/Solutions.html"
+},
+{
+"text": "Your Endorsement",
+"href": "https://chaplainstevenstjohnforcongress.com/Endorsements.html"
+}
 ]

@@ -1,16 +1,66 @@
 [
-"https://discord.gg/B3RrSAqe",
-"https://facebook.com/profile.php?id=61585859085519",
-"https://fountain4georgia.com/",
-"https://fountain4georgia.com/about",
-"https://fountain4georgia.com/cart",
-"https://fountain4georgia.com/contact",
-"https://fountain4georgia.com/policies",
-"https://fountain4georgia.com/policies/the-rebuild-georgia-initiative",
-"https://fountain4georgia.com/policies?author=69607605f7e60e0730322be5",
-"https://instagram.com/fountainforgeorgia",
-"https://secure.actblue.com/donate/fountain4ga",
-"https://squarespace.com/",
-"https://tiktok.com/@ryan.fountain68",
-"https://x.com/FountainforGA"
+{
+"text": "0",
+"href": "https://www.fountain4georgia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.fountain4georgia.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.fountain4georgia.com/contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/fountain4ga"
+},
+{
+"text": "Home",
+"href": "https://www.fountain4georgia.com/"
+},
+{
+"text": "Next Next The Rebuild Georgia Initiative",
+"href": "https://www.fountain4georgia.com/policies/the-rebuild-georgia-initiative"
+},
+{
+"text": "Policies",
+"href": "https://www.fountain4georgia.com/policies"
+},
+{
+"text": "Ryan Fountain",
+"href": "https://www.fountain4georgia.com/policies?author=69607605f7e60e0730322be5"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Fountain For Georgia]",
+"href": "https://www.fountain4georgia.com/"
+},
+{
+"text": "[image] Ryan Fountain",
+"href": "https://www.fountain4georgia.com/policies?author=69607605f7e60e0730322be5"
+},
+{
+"text": "[no text]",
+"href": "https://discord.gg/B3RrSAqe"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585859085519"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/fountainforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ryan.fountain68"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/FountainforGA"
+}
 ]

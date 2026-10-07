@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for ARTHUR BOYER for State Representative District 82",
  "final_url": "https://www.voteboyer2026.com/",
- "paid_for_by": null,
+ "fingerprint": "d5891345716f9f4140bb6373c636e0d1918275a1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "ARTHUR BOYER for House of Representatives District 82 (D)",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

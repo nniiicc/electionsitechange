@@ -1,20 +1,86 @@
 [
-"http://x.com/darrensoto",
-"https://darrensoto.com/",
-"https://darrensoto.com/issues",
-"https://darrensoto.com/media",
-"https://darrensoto.com/new-map",
-"https://darrensoto.com/privacy-policy",
-"https://darrensoto.com/spanish",
-"https://darrensoto.com/support",
-"https://darrensoto.com/volunteer",
-"https://darrensoto.com/volunteer-1",
-"https://darrensoto.com/vote",
-"https://facebook.com/DarrenSotoFlorida",
-"https://glades.electionsfl.org/vrservices/mbrs",
-"https://secure.actblue.com/contribute/page/soto?amount=9",
-"https://voteglades.gov/",
-"https://voteglades.gov/voting-info/early-voting",
-"https://voterfocus.com/PrecinctFinder/addressSearch?county=gla",
-"https://youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+{
+"text": "Canvassing",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+},
+{
+"text": "En Español",
+"href": "https://www.darrensoto.com/spanish"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://www.voterfocus.com/PrecinctFinder/addressSearch?county=gla"
+},
+{
+"text": "Glades County Supervisor of Elections website",
+"href": "https://voteglades.gov/"
+},
+{
+"text": "Home",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.darrensoto.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.darrensoto.com/media"
+},
+{
+"text": "New FL-9 District Map",
+"href": "https://www.darrensoto.com/new-map"
+},
+{
+"text": "Organizational Support",
+"href": "https://www.darrensoto.com/support"
+},
+{
+"text": "Phone Banking",
+"href": "https://www.darrensoto.com/volunteer-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.darrensoto.com/privacy-policy"
+},
+{
+"text": "REQUEST A VOTE-BY-MAIL BALLOT",
+"href": "https://glades.electionsfl.org/vrservices/mbrs"
+},
+{
+"text": "VIEW EARLY VOTING LOCATIONS",
+"href": "https://voteglades.gov/voting-info/early-voting/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "Voting Information",
+"href": "https://www.darrensoto.com/vote"
+},
+{
+"text": "[image: Darren Soto]",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/darrensoto"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DarrenSotoFlorida/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+}
 ]

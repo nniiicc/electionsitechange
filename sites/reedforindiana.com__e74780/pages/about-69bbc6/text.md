@@ -1,5 +1,4 @@
-About John Reed
-John Reed serves as a minister and a college administrator and has resided in Greenwood for over 15 years.
+Skip to main content Skip to footer Opens in a new tab Home About Policies Contact Donate About John Reed John Reed serves as a minister and a college administrator and has resided in Greenwood for over 15 years.
 John spent his childhood and much of his teen years in farm country, where he learned the lessons of hard work and the importance of our rural communities.
 His wife, Lauren, was born and raised in Johnson County and comes from a large family that is active throughout the county in a variety of ways, including farming, law enforcement, pastoring, construction, and local government.
 Lauren is a music teacher and serves alongside her husband as the Dean of Women.
@@ -12,3 +11,4 @@ John has voted in every election since the first time he was eligible to vote an
 In his free time, John enjoys playing basketball, volleyball, and pickleball, as well as card games with his kids.
 He values highly his rural upbringing, loves studying American history and keeping up with current news, and cares deeply that his state stays true to the Christian and traditional ideals that have made both Indiana and America great.
 John’s extensive travels in Indiana and beyond, coupled with his more than ten years of experience in various administrative and leadership roles in an institution of higher learning, give him a broad perspective and a set of abilities that suit him well for representing Hoosiers in Indianapolis.
+Home About Policies Donate Get In Touch Contact Form Newsletter Name Email Message Send Paid for by the Committee to Elect John Reed.

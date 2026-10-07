@@ -1,12 +1,8 @@
-Governor Jim Douglas
-80th Governor of Vermont
-Jim Douglas is an American politician who served as the 80th governor of Vermont from 2003 to 2011.
+0 Skip to Content Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Governor Jim Douglas 80th Governor of Vermont Jim Douglas is an American politician who served as the 80th governor of Vermont from 2003 to 2011.
 A member of the Republican Party, his decades-long career in public service began immediately upon his graduation from Middlebury College when he was elected to the Vermont House of Representatives in 1972.
 He went on to hold statewide offices as Vermont's Secretary of State and State Treasurer before winning four terms as governor, where he focused on economic development, environmental protection, and healthcare reform.
-Known for his personal popularity in a traditionally left-leaning state, Douglas also served as the chair of the National Governors Association and was appointed by President Barack Obama as co-chair of the Council of Governors in 2010.
-TRANSCRIPT
-(Intro) Javen Sears: “This man deserves no introduction—this is the former governor we're talking about here, the 80th governor of Vermont, Jim Douglas.”
-They say that the importance of the speaker is inversely proportional to the length of the introduction, so thank you very much.
+Known for his personal popularity in a traditionally left-leaning state, Douglas also served as the chair of the National Governors Association and was appointed by Presiden t Barack Obama as co-chair of the Council of Governors in 2010.
+TRANSCRIPT (Intro) Javen Sears: “This man deserves no introduction—this is the former governor we're talking about here, the 80th governor of Vermont, Jim Douglas.” They say that the importance of the speaker is inversely proportional to the length of the introduction, so thank you very much.
 You know, I'm really thrilled to be here because so often these days I go to events around the state and almost everybody is my age.
 But what a great group of young people we have!
 And that's one reason I'm really excited to be here to support Javen, because although wisdom comes with age, Javen and his contemporaries have a lot more at stake in the future of Vermont than I do.
@@ -35,5 +31,7 @@ It's going to be a long summer and fall; I think he knows that already.
 But we've heard from all of his friends and his coach that he's up to the task.
 I hope we'll all be there with him to offer whatever support we can to make sure that when the votes are counted in November, he's on top.
 Let's work hard, and good luck to Javen!
-Governor Jim Douglas
-Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party
+Governor Jim Douglas Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party S I G N U P UPDATES By providing your mobile number, you consent to receive periodic campaign updates from Javen Sears for Vermont State Senate.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Donate

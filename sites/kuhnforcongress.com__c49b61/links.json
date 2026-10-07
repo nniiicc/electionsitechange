@@ -1,22 +1,94 @@
 [
-"https://bsky.app/profile/kuhnforcongress.com",
-"https://facebook.com/KuhnforCongress",
-"https://kuhnforcongress.com/",
-"https://kuhnforcongress.com/about",
-"https://kuhnforcongress.com/about/event-calendar",
-"https://kuhnforcongress.com/about/photos",
-"https://kuhnforcongress.com/cdn-cgi/l/email-protection",
-"https://kuhnforcongress.com/district-map",
-"https://kuhnforcongress.com/endorsements",
-"https://kuhnforcongress.com/heidi-talks/photos/preparing-for-my-interview-on-behind-the-headlines-with-eric-barnes-and-bill-dries",
-"https://kuhnforcongress.com/heidi-talks/photos/thank-you-constituents-from-millington-and-the-surrounding-area",
-"https://kuhnforcongress.com/heidi-talks/photos/thank-you-to-the-indian-american-heritage-foundation-for-inviting-me-to-share-my-vision-for-district-8-with-the-indian-community",
-"https://kuhnforcongress.com/heidi-talks/photos/tomorrow-is-the-last-day-to-register-to-vote",
-"https://kuhnforcongress.com/heidi-talks/videos/almost-ten-years-of-david-kustoff-only-5-bills-passed-into-law-time-for-a-change",
-"https://kuhnforcongress.com/heidi-talks/videos/gas-is-up-energy-is-up-housing-is-up-food-is-up-tired-of-rising-numbers-yet",
-"https://kuhnforcongress.com/issues",
-"https://kuhnforcongress.com/privacy-policy",
-"https://kuhnforcongress.com/videos",
-"https://kuhnforcongress.com/volunteer",
-"https://secure.actblue.com/donate/heidikuhn"
+{
+"text": "- Almost TEN YEARS of David Kustoff, only 5 bills passed into law. Time for a CHANGE!",
+"href": "https://kuhnforcongress.com/heidi-talks/videos/almost-ten-years-of-david-kustoff-only-5-bills-passed-into-law-time-for-a-change/"
+},
+{
+"text": "- Gas is up. Energy is up. Housing is up. Food is up. Tired of rising numbers, yet?",
+"href": "https://kuhnforcongress.com/heidi-talks/videos/gas-is-up-energy-is-up-housing-is-up-food-is-up-tired-of-rising-numbers-yet/"
+},
+{
+"text": "- Tennessee’s Education is ranked dead last in the nation. Heidi will fight for public education!",
+"href": "https://kuhnforcongress.com/heidi-talks/videos/tennessees-education-is-ranked-dead-last-in-the-nation-heidi-will-fight-for-public-education/"
+},
+{
+"text": "About",
+"href": "https://kuhnforcongress.com/about/"
+},
+{
+"text": "District Map",
+"href": "https://kuhnforcongress.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heidikuhn"
+},
+{
+"text": "Endorsements",
+"href": "https://kuhnforcongress.com/endorsements/"
+},
+{
+"text": "Event Calendar",
+"href": "https://kuhnforcongress.com/about/event-calendar/"
+},
+{
+"text": "Issues",
+"href": "https://kuhnforcongress.com/issues/"
+},
+{
+"text": "Kuhn Conversations",
+"href": "https://kuhnforcongress.com/videos/"
+},
+{
+"text": "Meet Heidi Kuhn",
+"href": "https://kuhnforcongress.com/about/"
+},
+{
+"text": "Photos",
+"href": "https://kuhnforcongress.com/about/photos/"
+},
+{
+"text": "Privacy and Opt Out Policies",
+"href": "https://kuhnforcongress.com/privacy-policy/"
+},
+{
+"text": "TN District Map",
+"href": "https://kuhnforcongress.com/district-map/"
+},
+{
+"text": "Thank you constituents from Millington and the surrounding area!",
+"href": "https://kuhnforcongress.com/heidi-talks/photos/thank-you-constituents-from-millington-and-the-surrounding-area/"
+},
+{
+"text": "Thank you, Decatur, Perry, and Henderson Counties!",
+"href": "https://kuhnforcongress.com/heidi-talks/photos/thank-you-decatur-perry-and-henderson-counties/"
+},
+{
+"text": "Tomorrow is the last day to register to vote.",
+"href": "https://kuhnforcongress.com/heidi-talks/photos/tomorrow-is-the-last-day-to-register-to-vote/"
+},
+{
+"text": "View Full Calendar",
+"href": "https://kuhnforcongress.com/about/event-calendar/"
+},
+{
+"text": "Volunteer",
+"href": "https://kuhnforcongress.com/volunteer/"
+},
+{
+"text": "[email protected]‍",
+"href": "mailto:info@kuhnforcongress.com‍"
+},
+{
+"text": "[image: BlueSky]",
+"href": "https://bsky.app/profile/kuhnforcongress.com"
+},
+{
+"text": "[image: Facebook (Square)]",
+"href": "https://www.facebook.com/KuhnforCongress"
+},
+{
+"text": "[image: Kuhn for Congress]",
+"href": "https://kuhnforcongress.com/"
+}
 ]

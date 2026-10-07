@@ -1,15 +1,10 @@
-Back to All Events
-Volunteers will meet in-person for a brief training before jumping on the phones.
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Back to All Events October 30 Phone Banking for Matt (In-Person) Wednesday, October 30, 2024 6:30 PM 8:30 PM DFL Action Center 558 Lilac Street Lino Lakes, MN, 55014 United States (map) Google Calendar ICS Volunteers will meet in-person for a brief training before jumping on the phones.
 You must have your own computer and phone to complete this volunteer opportunity!
 This opportunity is in-person at the DFL Action Center in Lino Lakes.
 Snacks and beverages will be provided.
 Further instruction to be provided via email a few days in advance, so watch your email for more info.
 Sign up below to join us!
-Previous
-Previous
-October 19
-October 19 Door Knocking with Matt & R.T.
-Rybak
-Next
-Next
-November 2
+Previous Previous October 19 October 19 Door Knocking with Matt & R.T.
+Rybak Next Next November 2 November 2 Door Knocking with Matt Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

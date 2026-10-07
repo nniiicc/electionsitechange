@@ -1,5 +1,5 @@
-MEET MEKYAH MCQUEEN
-Mekyah McQueen is an educator, a fierce advocate for youth and families, and an unwavering problem solver.
+top of page Home Meet Mekyah Issues Volunteer Contact More Use tab to navigate through the menu items.
+REGISTER TO VOTE DONATE NOW MEET MEKYAH MCQUEEN Mekyah McQueen is an educator, a fierce advocate for youth and families, and an unwavering problem solver.
 She is the strongest advocate to represent District 61 in the Georgia State House and fight for our Democratic values - a well-funded public education system, protecting our right to vote, and expanding Medicaid.
 A daughter of the district, Mekyah grew up in the Ben Hill and Welcome All neighborhoods in South Fulton, where she attended Atlanta Public Schools.
 She is the eldest daughter of hardworking parents, who instilled in her a deep appreciation for education and social justice.
@@ -14,3 +14,4 @@ When Mekyah moved back home to care for her mother, her experience navigating ou
 As a result, she now sits on the Board of Directors for TAMTAM Global, a non-profit dedicated to research on Black Women’s Health.
 Mekyah resides in Smyrna with her sister and her dog, Jace.
 She finds joy in music and the arts, and is a proud member of Delta Sigma Theta, Inc.
+DONATE TO MY CAMPAIGN Home Meet Mekyah Issues Get Involved Contact Paid for by the Committee to Elect Mekyah McQueen 2451 Cumberland Parkway Suite 3359 Atlanta GA 30339 DONATE NOW REGISTER TO VOTE SITE CREDIT PRIVACY POLICY bottom of page

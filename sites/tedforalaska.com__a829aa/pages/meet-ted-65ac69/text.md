@@ -1,5 +1,5 @@
-I’m proud to be an Alaskan, and I hope to earn your vote to represent House District 22 in Juneau for another two years.
-Before being elected to serve you as your State House Representative, I recently retired from a 5+ year career as a Planner with the Mat-Su Borough.
+Skip to content Home Meet Ted Priorities Media Endorsements Vote Get Involved Home Meet Ted Priorities Media Endorsements Vote Get Involved Donate Meet Ted I’m proud to be an Alaskan, and I hope to earn your vote to represent House District 22 in Juneau for another two years.
+Before being elected to serve you as your State House Representative, I recently retired from a 5+ year career as a Planner with the Mat-Su Borough .
 As a Planner, I focused on the efficient use of land and resources within the Borough.
 I also worked closely with the public and policy makers to design plans for land use that helped communities meet their goals.
 An educator for most of my career, I care deeply about increasing education funding and creating opportunities for our students.
@@ -13,5 +13,4 @@ I believe that our best days are ahead of us.
 The best way forward is to dialogue, find our areas of common interests, and find compromise.
 I believe in working across the aisle, putting people before politics, and always remembering that I represent HD22/North Muldoon.
 I respectfully ask for your vote.
-Thank you,
-Ted
+Thank you, Ted Donate Donate Today Contact 907-215-0312 ted4ak@gmail.com Follow Us X-twitter Facebook Instagram Paid for by Ted for Alaska 410 Mellow Pl, Anchorage, AK 99508

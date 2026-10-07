@@ -1,7 +1,7 @@
-Signed in as:
-filler@godaddy.com
-ANNE FUNDNER
-My name is Anne Fundner.
+Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Home Platform About Damon Endorsements Contact Us Tell me about You!
+Register to Vote Video Donate Press Releases More Home Platform About Damon Endorsements Contact Us Tell me about You!
+Register to Vote Video Donate Press Releases Signed in as: filler@godaddy.com Home Platform About Damon Endorsements Contact Us Tell me about You!
+Register to Vote Video Donate Press Releases Account My Account Sign out Sign In My Account Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Facebook Instagram X Endorsements ANNE FUNDNER My name is Anne Fundner.
 I am a mother who lost my precious son to fentanyl poisoning.
 No parent should ever have to endure the heartbreak of burying their child because of this deadly crisis.
 That's why I am writing today to wholeheartedly endorse Damon Galdo, a strong conservative Republican, for Congress in CD-1.
@@ -19,6 +19,5 @@ Damon Galdo shares our conservative values and has the courage to take on the to
 He is the best choice to represent us and save lives.
 Please join me in voting for Damon Galdo for Congress.
 Together, we can honor our loved ones by building a safer New Jersey.
-Sincerely,
-Anne Fundner
-Mother to Weston, Forever 15, and Fentanyl Awareness Advocate
+Sincerely, Anne Fundner Mother to Weston, Forever 15, and Fentanyl Awareness Advocate Paid for by Damon Galdo for Congress Stay Connected: damongaldoforcongress@gmail.com Home Platform Contact Us Tell me about You!
+Privacy Policy Register to Vote Donate

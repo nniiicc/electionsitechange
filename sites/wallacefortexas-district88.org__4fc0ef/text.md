@@ -1,6 +1,4 @@
-Heather Wallace for House District 88
-Meet Heather
-Heather Wallace is a educator and community advocate running for the Texas House of Representatives because she believes government should serve people—not politics.
+0 Skip to Content Education Meet Candidate Issues Events Endorsements and Designations Volunteer DONATE Open Menu Close Menu Education Meet Candidate Issues Events Endorsements and Designations Volunteer DONATE Open Menu Close Menu Education Meet Candidate Issues Events Endorsements and Designations Volunteer DONATE Heather Wallace for House District 88 Volunteer Donate Meet Heather Heather Wallace is a educator and community advocate running for the Texas House of Representatives because she believes government should serve people—not politics.
 Heather has spent most of her career in the classroom, working directly with students and families and seeing firsthand how decisions made in Austin affect real lives.
 She understands the challenges facing Texas schools, parents, and teachers because she lives them.
 From overcrowded classrooms to unfunded mandates, Heather knows that one-size-fits-all policies don’t work for local communities—especially in the Panhandle.
@@ -18,8 +16,7 @@ Bridging generational gaps serves as a reminder that we need both the past and t
 Our Voice.
 Our Liberty.
 Our Texas.
-Issues
-- Texas works best when leaders listen before they legislate.
+Issues OUR VOICE Texas works best when leaders listen before they legislate.
 But too often, people here feel like decisions are already made by the time anyone asks what we think.
 Our voice means rural towns matter just as much as big cities.
 It means parents are respected.
@@ -28,7 +25,7 @@ It means business owners, farmers, and first responders don’t have to fight to
 I believe representation isn’t about titles or committees — it’s about accountability.
 Leadership means showing up, listening carefully, and carrying your community’s concerns with you into every vote.
 That’s what our voice looks like — steady, informed, and rooted right here.
-- Liberty isn’t a slogan.
+OUR LIBERTY Liberty isn’t a slogan.
 It’s the freedom to work hard and keep more of what you earn.
 It’s the freedom to raise your family according to your values.
 It’s the freedom to run a business, farm your land, and plan for the future without constantly wondering what Austin will do next.
@@ -39,7 +36,7 @@ And basic things we should be able to count on — like reliable infrastructure 
 Liberty only works when government remembers its role: to serve the people — not manage them.
 Liberty starts with families and with community.
 The joining of voices for common goals.
-- Our Texas is strong — not because it’s loud, but because it’s grounded.
+OUR TEXAS Our Texas is strong — not because it’s loud, but because it’s grounded.
 It’s a Texas that values hard work, responsibility, and common sense.
 A Texas that solves problems instead of picking fights.
 A Texas that understands rural communities don’t need special treatment — they need fair treatment.
@@ -49,7 +46,7 @@ It grows the economy without forgetting the people who make that growth possible
 Most of all, our Texas remembers that leadership is stewardship — of our resources, our institutions, and our future.
 Our Texas gives a voice to every seat at the table.
 In every voice a spark and in unity a rising flame.
-- I’m running because I believe District 88 deserves leadership that’s focused on results people can feel — not just policies people hear about.
+WHY I’M RUNNING I’m running because I believe District 88 deserves leadership that’s focused on results people can feel — not just policies people hear about.
 I respect anyone who serves.
 But after years of the same conversations, it’s fair to ask: Are families better off?
 Are rural schools stronger?
@@ -65,12 +62,9 @@ Our Voice — heard clearly and carried faithfully.
 Our Liberty — protected through responsibility and restraint.
 Our Texas — strong, practical, and united.
 If you believe Texas works best when decisions are made close to home… If you believe leadership should listen first and act with purpose… Then I would be honored to earn your trust and your support.
-Upcoming Events
-- Block Walk Date Time Come out and knock doors with us!
+Upcoming Events Block Walk Date Time Come out and knock doors with us!
 A quick training and waters will provided.
-- Rally Date Time Want to meet like minded folks and find out more about where you can help?
+RSVP Rally Date Time Want to meet like minded folks and find out more about where you can help?
 Join us at location with guest speakers.
-- Phone Bank Date Time Register to virtually help with outreach and identify eligible voters.
-- Upcoming Tours
-- Podcasts
-Endorsed By:
+RSVP Phone Bank Date Time Register to virtually help with outreach and identify eligible voters.
+RSVP Upcoming Tours Click Here Podcasts Click Here Endorsed By: Heather Wallace for Texas House District 88 Contact wallaceforlibertyandvoicetxh88@gmail.com

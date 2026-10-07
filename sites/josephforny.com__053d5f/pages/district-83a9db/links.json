@@ -1,15 +1,58 @@
 [
-"https://facebook.com/josephchouforny",
-"https://instagram.com/josephforny",
-"https://josephforny.com/",
-"https://josephforny.com/about",
-"https://josephforny.com/contact",
-"https://josephforny.com/district",
-"https://josephforny.com/donation",
-"https://josephforny.com/issues-1",
-"https://josephforny.com/privacy-policy",
-"https://josephforny.com/request-a-sign",
-"https://josephforny.com/voting",
-"https://tiktok.com/@josephchou.forcongress",
-"https://x.com/joseph4ny6"
+{
+"text": "About",
+"href": "https://josephforny.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://josephforny.com/contact"
+},
+{
+"text": "DONATION",
+"href": "https://josephforny.com/donation"
+},
+{
+"text": "District",
+"href": "https://josephforny.com/district"
+},
+{
+"text": "Home",
+"href": "https://josephforny.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://josephforny.com/issues-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://josephforny.com/privacy-policy"
+},
+{
+"text": "REQUEST A SIGN",
+"href": "https://josephforny.com/request-a-sign"
+},
+{
+"text": "Voting",
+"href": "https://josephforny.com/voting"
+},
+{
+"text": "[image: JOSEPH CHOU]",
+"href": "https://josephforny.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/josephchouforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/josephforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josephchou.forcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/joseph4ny6"
+}
 ]

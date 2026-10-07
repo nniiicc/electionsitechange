@@ -1,5 +1,5 @@
-On Stoneham’s annual Town Day, I was proud to join the Stoneham Republican Town Committee at our booth to meet neighbors from Stoneham and Winchester, listen to your concerns, and share my vision as a candidate for State Representative for the 31st Middlesex District.
+ternulloforstonehamwinchester@gmail.com Home Issues Military to Community Volunteer News More Home Issues Military to Community Volunteer News ternulloforstonehamwinchester@gmail.com Home Issues Military to Community Volunteer News Stoneham Town Day 2025 – Connecting With Our Community On Stoneham’s annual Town Day, I was proud to join the Stoneham Republican Town Committee at our booth to meet neighbors from Stoneham and Winchester, listen to your concerns, and share my vision as a candidate for State Representative for the 31st Middlesex District.
 Many residents spoke with me about the pressures of rising taxes and the importance of keeping our communities affordable for working families and seniors.
 Your voices are driving my campaign, and I will bring that same commitment to Beacon Hill.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Photo Gallery Stephen G Ternullo for State Representative (781) 789-0744 Copyright © # Stephen G Ternullo for State Representative - All Rights Reserved.
+Paid for by The Committee to Elect Stephen G Ternullo Powered by

@@ -1,18 +1,74 @@
 [
-"http://x.com/@jacquiirwin",
-"https://a42.asmdc.org/",
-"https://bsky.app/profile/irwinforcongress.bsky.social",
-"https://facebook.com/ElectJacquiIrwin",
-"https://jacquiirwin.com/",
-"https://jacquiirwin.com/about-1",
-"https://jacquiirwin.com/about-jacqui",
-"https://jacquiirwin.com/cart",
-"https://jacquiirwin.com/contact-us",
-"https://jacquiirwin.com/district-map-26",
-"https://jacquiirwin.com/endorsements2026",
-"https://jacquiirwin.com/photo-gallery",
-"https://jacquiirwin.com/privacy-policy",
-"https://jacquiirwin.com/sign-up",
-"https://jacquiirwin.com/terms-conditions",
-"https://secure.actblue.com/donate/jacqui-irwin-5"
+{
+"text": "0",
+"href": "https://jacquiirwin.com/cart"
+},
+{
+"text": "About Jacqui",
+"href": "https://jacquiirwin.com/about-jacqui"
+},
+{
+"text": "Back",
+"href": "https://jacquiirwin.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://jacquiirwin.com/contact-us"
+},
+{
+"text": "District 26 Map",
+"href": "https://jacquiirwin.com/district-map-26"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jacqui-irwin-5"
+},
+{
+"text": "Endorsements",
+"href": "https://jacquiirwin.com/endorsements2026"
+},
+{
+"text": "Folder: About",
+"href": "https://jacquiirwin.com/about-1"
+},
+{
+"text": "Home",
+"href": "https://jacquiirwin.com/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://jacquiirwin.com/photo-gallery"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jacquiirwin.com/privacy-policy"
+},
+{
+"text": "SIGN UP",
+"href": "https://jacquiirwin.com/sign-up"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://jacquiirwin.com/terms-conditions"
+},
+{
+"text": "[image: Jacqui Irwin for Congress]",
+"href": "https://jacquiirwin.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/@jacquiirwin"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/irwinforcongress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectJacquiIrwin"
+},
+{
+"text": "https://a42.asmdc.org)",
+"href": "https://a42.asmdc.org"
+}
 ]

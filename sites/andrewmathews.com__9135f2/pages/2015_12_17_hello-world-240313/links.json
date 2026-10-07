@@ -1,20 +1,82 @@
 [
-"https://andrewmathews.com/",
-"https://andrewmathews.com/2015/12/17/hello-world",
-"https://andrewmathews.com/2015/12/17/hello-world?replytocom=1",
-"https://andrewmathews.com/author/josh",
-"https://andrewmathews.com/category/uncategorized",
-"https://andrewmathews.com/contact",
-"https://andrewmathews.com/donate",
-"https://andrewmathews.com/issues",
-"https://facebook.com/SenAndrewMathews",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&description=Welcome+to+WordPress.+This+is+your+first+post.+Edit+or+delete+it%2C+then+start+writing%21",
-"https://reddit.com/submit?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&title=Hello+world%21",
-"https://tumblr.com/share/link?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&name=Hello+world%21&description=Welcome+to+WordPress.+This+is+your+first+post.+Edit+or+delete+it%2C+then+start+writing%21",
-"https://twitter.com/AndrewMathewsMN",
-"https://vk.com/share.php?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&title=Hello+world%21&description=Welcome+to+WordPress.+This+is+your+first+post.+Edit+or+delete+it%2C+then+start+writing%21",
-"https://wordpress.org/",
-"https://x.com/intent/post?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&text=Hello+world%21"
+{
+"text": "- Reply",
+"href": "https://andrewmathews.com/2015/12/17/hello-world/?replytocom=1#respond"
+},
+{
+"text": "1 Comment",
+"href": "https://andrewmathews.com/2015/12/17/hello-world/#comments"
+},
+{
+"text": "Andrew’s Issues",
+"href": "https://andrewmathews.com/issues/"
+},
+{
+"text": "Cancel reply",
+"href": "https://andrewmathews.com/2015/12/17/hello-world/#respond"
+},
+{
+"text": "Contact Andrew",
+"href": "https://andrewmathews.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://andrewmathews.com/donate/"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&subject=Hello+world%21"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SenAndrewMathews/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F"
+},
+{
+"text": "Mr WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Pinterest",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&description=Welcome+to+WordPress.+This+is+your+first+post.+Edit+or+delete+it%2C+then+start+writing%21&media="
+},
+{
+"text": "Reddit",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&title=Hello+world%21"
+},
+{
+"text": "Tumblr",
+"href": "https://www.tumblr.com/share/link?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&name=Hello+world%21&description=Welcome+to+WordPress.+This+is+your+first+post.+Edit+or+delete+it%2C+then+start+writing%21"
+},
+{
+"text": "Uncategorized",
+"href": "https://andrewmathews.com/category/uncategorized/"
+},
+{
+"text": "Vk",
+"href": "https://vk.com/share.php?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&title=Hello+world%21&description=Welcome+to+WordPress.+This+is+your+first+post.+Edit+or+delete+it%2C+then+start+writing%21"
+},
+{
+"text": "X",
+"href": "https://twitter.com/AndrewMathewsMN"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/post?url=https%3A%2F%2Fandrewmathews.com%2F2015%2F12%2F17%2Fhello-world%2F&text=Hello+world%21"
+},
+{
+"text": "[image: Andrew Mathews for State Senate Logo]",
+"href": "https://andrewmathews.com/"
+},
+{
+"text": "josh",
+"href": "https://andrewmathews.com/author/josh/"
+}
 ]

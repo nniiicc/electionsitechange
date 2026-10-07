@@ -1,5 +1,4 @@
-Meet Michaelle
-Michaelle C.
+Skip to content Michaelle Solages Michaelle for State Assembly DONATE Home Volunteer Meet Michaelle In The News Issues Endorsements Contact Us Michaelle Solages Michaelle for State Assembly DONATE Home Volunteer Meet Michaelle In The News Issues Endorsements Contact Us Meet Michaelle Michaelle C.
 Solages, a fifth-term legislator, is a lifelong resident of Elmont.
 Assemblywoman Solages represents the communities of Valley Stream, North Valley Stream, Elmont, South Valley Stream, South Floral Park, Floral Park, the Village of Bellerose, Bellerose Terrace, North Woodmere, Stewart Manor, and sections of Franklin Square.
 Before serving in the New York State Assembly, Michaelle earned her Bachelor’s Degree from Hofstra University’s Education, Health, and Human Services.
@@ -23,3 +22,5 @@ It is also worth noting that Michaelle is a lifetime member of AHRC, an organiza
 She is more than honored to represent the diverse communities of the 22nd Assembly District in the New York State Legislature.
 Michaelle resides in Elmont with her family and her dog.
 Please feel free to contact us with any questions or concerns!
+FRIENDS OF MICHAELLE SOLAGES Email: ms@michaellesolages.com P.O.
+Box 30754, Elmont, NY 11003 Phone: (516) 366-0522 Twitter Facebook Instagram YouTube Copyright © # Michaelle Solages | Powered by CGM

@@ -1,55 +1,386 @@
 [
-"http://barlowforwyo.com/healthcare",
-"https://barlowforwyo.com/",
-"https://barlowforwyo.com/about",
-"https://barlowforwyo.com/cart",
-"https://barlowforwyo.com/contact",
-"https://barlowforwyo.com/events",
-"https://barlowforwyo.com/healthcare",
-"https://barlowforwyo.com/in-the-media/barlow-introduces-statewide-campaign-leadership",
-"https://barlowforwyo.com/in-the-media/barlow-raises-350000-in-less-than-three-months-surging-ahead-with-grassroots-momentum",
-"https://barlowforwyo.com/in-the-media/barlow-raises-over-500k-brings-historic-fundraising-momentum-into-2026",
-"https://barlowforwyo.com/in-the-media/blog-post-title-four-mhr7k",
-"https://barlowforwyo.com/in-the-media/cash-based-budgeting-a-transparent-stable-approach-to-statenbsp-budgeting",
-"https://barlowforwyo.com/in-the-media/cody-enterprise-barlow-says-he-will-use-wyomings-bully-pulpit-to-defend-public-lands-state-interests",
-"https://barlowforwyo.com/in-the-media/cowboy-state-daily-jakes-morning-show-mar-26th",
-"https://barlowforwyo.com/in-the-media/cowboy-state-daily-wyoming-lawmakers-move-to-bypass-fda-on-stem-cell-treatments",
-"https://barlowforwyo.com/in-the-media/eric-barlows-statement-on-responsible-energy-development",
-"https://barlowforwyo.com/in-the-media/gillette-news-record-stem-cell-freedom-act-passes-house-and-senate-without-a-single-no-vote",
-"https://barlowforwyo.com/in-the-media/healthcare-striketeam",
-"https://barlowforwyo.com/in-the-media/jackson-hole-news-and-guide-barlow-wants-to-avoid-the-mud-in-anticipated-multi-million-dollar-wyoming-governors-race",
-"https://barlowforwyo.com/in-the-media/kota-wyoming-legislature-passes-stem-cell-freedom-act-giving-access-to-unapproved-treatments",
-"https://barlowforwyo.com/in-the-media/lovell-chronicle-barlow-says-he-answers-to-wyoming-not-white-house",
-"https://barlowforwyo.com/in-the-media/mlh3ndbp3y0ugwblbhmkbgzssop7la",
-"https://barlowforwyo.com/in-the-media/oil-city-news-firearm-rights-restoration-may-soon-be-possible-for-nonviolent-offenders",
-"https://barlowforwyo.com/in-the-media/protecting-wyoming-beef-producers",
-"https://barlowforwyo.com/in-the-media/wake-up-wyoming-eric-barlow-is-running-for-governor-of-wyoming",
-"https://barlowforwyo.com/in-the-media/wyofile-a-turning-point-for-public-lands-and-the-businesses-they-support",
-"https://barlowforwyo.com/in-the-media/wyoming-news-now-barlow-for-wyoming-governor-on-air-segment",
-"https://barlowforwyo.com/in-the-media?offset=1761929520177&author=6999ed4f66283759ed70d85d",
-"https://barlowforwyo.com/meeteric",
-"https://barlowforwyo.com/positions",
-"https://barlowforwyo.com/privacy-policy",
-"https://barlowforwyo.com/setting-the-record-straight",
-"https://codyenterprise.com/news/local/article_d3257101-ee32-4cc0-b0c7-de8544146f40.html",
-"https://cowboystatedaily.com/2026/02/13/wyoming-lawmakers-move-to-bypass-fda-on-stem-cell-treatments",
-"https://facebook.com/EricBarlowRidingForWyoming",
-"https://facebook.com/wakeupwyoming?__cft__%5B0%5D=AZbjZ6ex7EcEiC2olx3HFeEaX2LNA9gMEvhCc0448k4UGTiAsdZjIh7o4rGqwzYRxp9Pr1lVPgYfd-wCznhgu3dPVZZnCfLYmWoaIqR1G0XQnKDBQcMIrjaTDcby0FeDt-h7AflWoNmYoP3PZOD-jSmvlw8BCTdPtll82KazOrZhGe5zSwPlmEZNnTljKlnV0Mk&__tn__=-%5DK-R",
-"https://gillettenewsrecord.com/news/local/article_c15ccdb4-93f6-4a58-b3a2-65873f43c9b1.html",
-"https://instagram.com/barlow_wyo",
-"https://jhnewsandguide.com/news/election/barlow-wants-to-avoid-the-mud-in-anticipated-multi-million-dollar-wyoming-governors-race/article_e4d4c599-2f83-4aa3-b927-3d4edaef1117.html",
-"https://kotatv.com/2026/03/03/wyoming-legislature-passes-stem-cell-freedom-act-giving-access-unapproved-treatments",
-"https://lovellchronicle.com/content/barlow-says-he-answers-wyoming-not-white-house",
-"https://oilcity.news/legislature-community/2026/03/03/firearm-rights-restoration-may-soon-be-possible-for-non-violent-offenders",
-"https://secure.winred.com/eric-barlow-32097f9d/donate",
-"https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://tiktok.com/@barlowforwyo",
-"https://wakeupwyo.com/",
-"https://wakeupwyo.com/eric-barlow-governor-wyoming",
-"https://wyofile.com/a-turning-point-for-public-lands-and-the-businesses-they-support",
-"https://wyoleg.gov/Legislation/2025/SJ0002",
-"https://wyoleg.gov/Legislation/2026/HB0039",
-"https://wyomingnewsnow.tv/barlow-for-wyoming-governor-on-air-segment/video_e8dfe0a9-cc35-5190-9829-169eba2c5d2c.html",
-"https://x.com/Barlowforwyo",
-"https://youtube.com/watch?v=pqtbGys8-68"
+{
+"text": "0",
+"href": "https://www.barlowforwyo.com/cart"
+},
+{
+"text": "After Victory, Barlow Gets To Work Immediately to Launch Healthcare Strike Team",
+"href": "https://www.barlowforwyo.com/in-the-media/healthcare-striketeam"
+},
+{
+"text": "Barlow Introduces Statewide Campaign Leadership",
+"href": "https://www.barlowforwyo.com/in-the-media/barlow-introduces-statewide-campaign-leadership"
+},
+{
+"text": "Barlow Raises $350,000 in Less Than Three Months, Surging Ahead with Grassroots Momentum",
+"href": "https://www.barlowforwyo.com/in-the-media/barlow-raises-350000-in-less-than-three-months-surging-ahead-with-grassroots-momentum"
+},
+{
+"text": "Barlow Raises Over $500k, Brings Historic Fundraising Momentum Into 2026",
+"href": "https://www.barlowforwyo.com/in-the-media/barlow-raises-over-500k-brings-historic-fundraising-momentum-into-2026"
+},
+{
+"text": "Cash-based Budgeting: A Transparent, Stable Approach to State Budgeting",
+"href": "https://www.barlowforwyo.com/in-the-media/cash-based-budgeting-a-transparent-stable-approach-to-statenbsp-budgeting"
+},
+{
+"text": "Cody Enterprise: Barlow says he will use Wyoming’s ‘bully pulpit’ to defend public lands, state interests",
+"href": "https://www.barlowforwyo.com/in-the-media/cody-enterprise-barlow-says-he-will-use-wyomings-bully-pulpit-to-defend-public-lands-state-interests"
+},
+{
+"text": "Contact",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "Cowboy State Daily: Jake’s morning Show Mar. 26th",
+"href": "https://www.barlowforwyo.com/in-the-media/cowboy-state-daily-jakes-morning-show-mar-26th"
+},
+{
+"text": "Cowboy State Daily: Wyoming Lawmakers Move To Bypass FDA On Stem Cell Treatments",
+"href": "https://www.barlowforwyo.com/in-the-media/cowboy-state-daily-wyoming-lawmakers-move-to-bypass-fda-on-stem-cell-treatments"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate"
+},
+{
+"text": "Eric Barlow Interviews with Cowboy State Daily Morning Show",
+"href": "https://www.barlowforwyo.com/in-the-media/mlh3ndbp3y0ugwblbhmkbgzssop7la"
+},
+{
+"text": "Eric Barlow's",
+"href": "https://www.barlowforwyo.com/about"
+},
+{
+"text": "Eric Barlow’s statement on responsible energy development",
+"href": "https://www.barlowforwyo.com/in-the-media/eric-barlows-statement-on-responsible-energy-development"
+},
+{
+"text": "Events",
+"href": "https://www.barlowforwyo.com/events"
+},
+{
+"text": "Gillette News Record: Stem Cell Freedom Act passes House and Senate without a single 'no' vote",
+"href": "https://www.barlowforwyo.com/in-the-media/gillette-news-record-stem-cell-freedom-act-passes-house-and-senate-without-a-single-no-vote"
+},
+{
+"text": "Glenn Woods on the Wake Up Wyoming morning show",
+"href": "https://wakeupwyo.com/"
+},
+{
+"text": "Healthcare Strike Team",
+"href": "https://www.barlowforwyo.com/healthcare"
+},
+{
+"text": "Jackson hole news and guide: Barlow wants to avoid the 'mud' in anticipated multi-million dollar Wyoming governor's race",
+"href": "https://www.barlowforwyo.com/in-the-media/jackson-hole-news-and-guide-barlow-wants-to-avoid-the-mud-in-anticipated-multi-million-dollar-wyoming-governors-race"
+},
+{
+"text": "KOTA: Wyoming legislature passes Stem Cell Freedom Act, giving access to unapproved treatments",
+"href": "https://www.barlowforwyo.com/in-the-media/kota-wyoming-legislature-passes-stem-cell-freedom-act-giving-access-to-unapproved-treatments"
+},
+{
+"text": "Lovell Chronicle: Barlow says he answers to Wyoming, not White House",
+"href": "https://www.barlowforwyo.com/in-the-media/lovell-chronicle-barlow-says-he-answers-to-wyoming-not-white-house"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.barlowforwyo.com/meeteric"
+},
+{
+"text": "Oil CIty News: Firearm rights restoration may soon be possible for nonviolent offenders",
+"href": "https://www.barlowforwyo.com/in-the-media/oil-city-news-firearm-rights-restoration-may-soon-be-possible-for-nonviolent-offenders"
+},
+{
+"text": "Older Posts",
+"href": "https://www.barlowforwyo.com/in-the-media?offset=1761929520177&author=6999ed4f66283759ed70d85d"
+},
+{
+"text": "Op-Ed: The Wyoming Way: Neighbor Helping Neighbor",
+"href": "https://www.barlowforwyo.com/in-the-media/blog-post-title-four-mhr7k"
+},
+{
+"text": "Positions",
+"href": "https://www.barlowforwyo.com/positions"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.barlowforwyo.com/privacy-policy"
+},
+{
+"text": "Protecting Wyoming Beef Producers",
+"href": "https://www.barlowforwyo.com/in-the-media/protecting-wyoming-beef-producers"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/barlow-introduces-statewide-campaign-leadership"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/barlow-raises-350000-in-less-than-three-months-surging-ahead-with-grassroots-momentum"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/barlow-raises-over-500k-brings-historic-fundraising-momentum-into-2026"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/blog-post-title-four-mhr7k"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/cash-based-budgeting-a-transparent-stable-approach-to-statenbsp-budgeting"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/cody-enterprise-barlow-says-he-will-use-wyomings-bully-pulpit-to-defend-public-lands-state-interests"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/cowboy-state-daily-jakes-morning-show-mar-26th"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/cowboy-state-daily-wyoming-lawmakers-move-to-bypass-fda-on-stem-cell-treatments"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/eric-barlows-statement-on-responsible-energy-development"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/gillette-news-record-stem-cell-freedom-act-passes-house-and-senate-without-a-single-no-vote"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/healthcare-striketeam"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/jackson-hole-news-and-guide-barlow-wants-to-avoid-the-mud-in-anticipated-multi-million-dollar-wyoming-governors-race"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/kota-wyoming-legislature-passes-stem-cell-freedom-act-giving-access-to-unapproved-treatments"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/lovell-chronicle-barlow-says-he-answers-to-wyoming-not-white-house"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/mlh3ndbp3y0ugwblbhmkbgzssop7la"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/oil-city-news-firearm-rights-restoration-may-soon-be-possible-for-nonviolent-offenders"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/protecting-wyoming-beef-producers"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/wake-up-wyoming-eric-barlow-is-running-for-governor-of-wyoming"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/wyofile-a-turning-point-for-public-lands-and-the-businesses-they-support"
+},
+{
+"text": "Read More",
+"href": "https://www.barlowforwyo.com/in-the-media/wyoming-news-now-barlow-for-wyoming-governor-on-air-segment"
+},
+{
+"text": "Read more at Oil City News",
+"href": "https://oilcity.news/legislature-community/2026/03/03/firearm-rights-restoration-may-soon-be-possible-for-non-violent-offenders/"
+},
+{
+"text": "Read more from KOTA Territory News",
+"href": "https://www.kotatv.com/2026/03/03/wyoming-legislature-passes-stem-cell-freedom-act-giving-access-unapproved-treatments/"
+},
+{
+"text": "Read more in the Cody Enterprise.",
+"href": "https://www.codyenterprise.com/news/local/article_d3257101-ee32-4cc0-b0c7-de8544146f40.html"
+},
+{
+"text": "Read more in the Gillette News Record",
+"href": "https://www.gillettenewsrecord.com/news/local/article_c15ccdb4-93f6-4a58-b3a2-65873f43c9b1.html"
+},
+{
+"text": "Read more in the Jackson Hole News and Guide",
+"href": "https://www.jhnewsandguide.com/news/election/barlow-wants-to-avoid-the-mud-in-anticipated-multi-million-dollar-wyoming-governors-race/article_e4d4c599-2f83-4aa3-b927-3d4edaef1117.html"
+},
+{
+"text": "Read more in the Lovell Chronicle",
+"href": "https://www.lovellchronicle.com/content/barlow-says-he-answers-wyoming-not-white-house"
+},
+{
+"text": "Read more on WyoFile.",
+"href": "https://wyofile.com/a-turning-point-for-public-lands-and-the-businesses-they-support/"
+},
+{
+"text": "Read the rest of the article on Cowboy State Daily",
+"href": "https://cowboystatedaily.com/2026/02/13/wyoming-lawmakers-move-to-bypass-fda-on-stem-cell-treatments/"
+},
+{
+"text": "Senate Joint Resolution 2 called for the transfe",
+"href": "https://www.wyoleg.gov/Legislation/2025/SJ0002"
+},
+{
+"text": "Sign UP",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "The Facts",
+"href": "https://www.barlowforwyo.com/setting-the-record-straight"
+},
+{
+"text": "Wake Up Wyoming",
+"href": "https://www.facebook.com/wakeupwyoming?__cft__%5B0%5D=AZbjZ6ex7EcEiC2olx3HFeEaX2LNA9gMEvhCc0448k4UGTiAsdZjIh7o4rGqwzYRxp9Pr1lVPgYfd-wCznhgu3dPVZZnCfLYmWoaIqR1G0XQnKDBQcMIrjaTDcby0FeDt-h7AflWoNmYoP3PZOD-jSmvlw8BCTdPtll82KazOrZhGe5zSwPlmEZNnTljKlnV0Mk&__tn__=-%5DK-R"
+},
+{
+"text": "Wake Up Wyoming: Eric Barlow is running for governor of wyoming",
+"href": "https://www.barlowforwyo.com/in-the-media/wake-up-wyoming-eric-barlow-is-running-for-governor-of-wyoming"
+},
+{
+"text": "Watch and listen on Cowboy State Daily here.",
+"href": "https://www.youtube.com/watch?v=pqtbGys8-68"
+},
+{
+"text": "Watch on Wyoming News Now Here",
+"href": "https://www.wyomingnewsnow.tv/barlow-for-wyoming-governor-on-air-segment/video_e8dfe0a9-cc35-5190-9829-169eba2c5d2c.html"
+},
+{
+"text": "WyoFILE: A turning point for public lands and the businesses they support",
+"href": "https://www.barlowforwyo.com/in-the-media/wyofile-a-turning-point-for-public-lands-and-the-businesses-they-support"
+},
+{
+"text": "Wyoming NEws NOW: Barlow for Wyoming Governor on-air segment",
+"href": "https://www.barlowforwyo.com/in-the-media/wyoming-news-now-barlow-for-wyoming-governor-on-air-segment"
+},
+{
+"text": "You can listen to the interview with Glenn here.",
+"href": "https://wakeupwyo.com/eric-barlow-governor-wyoming/"
+},
+{
+"text": "[image: Barlow Introduces Statewide Campaign Leadership]",
+"href": "https://www.barlowforwyo.com/in-the-media/barlow-introduces-statewide-campaign-leadership"
+},
+{
+"text": "[image: Barlow Raises $350,000 in Less Than Three Months, Surging Ahead with Grassroots Momentum]",
+"href": "https://www.barlowforwyo.com/in-the-media/barlow-raises-350000-in-less-than-three-months-surging-ahead-with-grassroots-momentum"
+},
+{
+"text": "[image: Barlow Raises Over $500k, Brings Historic Fundraising Momentum Into 2026]",
+"href": "https://www.barlowforwyo.com/in-the-media/barlow-raises-over-500k-brings-historic-fundraising-momentum-into-2026"
+},
+{
+"text": "[image: Cash-based Budgeting: A Transparent, Stable Approach to State&nbsp; Budgeting]",
+"href": "https://www.barlowforwyo.com/in-the-media/cash-based-budgeting-a-transparent-stable-approach-to-statenbsp-budgeting"
+},
+{
+"text": "[image: Cody Enterprise: Barlow says he will use Wyoming’s ‘bully pulpit’ to defend public lands, state interests]",
+"href": "https://www.barlowforwyo.com/in-the-media/cody-enterprise-barlow-says-he-will-use-wyomings-bully-pulpit-to-defend-public-lands-state-interests"
+},
+{
+"text": "[image: Cowboy State Daily: Jake’s morning Show Mar. 26th]",
+"href": "https://www.barlowforwyo.com/in-the-media/cowboy-state-daily-jakes-morning-show-mar-26th"
+},
+{
+"text": "[image: Cowboy State Daily: Wyoming Lawmakers Move To Bypass FDA On Stem Cell Treatments]",
+"href": "https://www.barlowforwyo.com/in-the-media/cowboy-state-daily-wyoming-lawmakers-move-to-bypass-fda-on-stem-cell-treatments"
+},
+{
+"text": "[image: Eric Barlow Interviews with Cowboy State Daily Morning Show]",
+"href": "https://www.barlowforwyo.com/in-the-media/mlh3ndbp3y0ugwblbhmkbgzssop7la"
+},
+{
+"text": "[image: Eric Barlow’s statement on responsible energy development]",
+"href": "https://www.barlowforwyo.com/in-the-media/eric-barlows-statement-on-responsible-energy-development"
+},
+{
+"text": "[image: Gillette News Record: Stem Cell Freedom Act passes House and Senate without a single 'no' vote]",
+"href": "https://www.barlowforwyo.com/in-the-media/gillette-news-record-stem-cell-freedom-act-passes-house-and-senate-without-a-single-no-vote"
+},
+{
+"text": "[image: Jackson hole news and guide: Barlow wants to avoid the 'mud' in anticipated multi-million dollar Wyoming governor's race]",
+"href": "https://www.barlowforwyo.com/in-the-media/jackson-hole-news-and-guide-barlow-wants-to-avoid-the-mud-in-anticipated-multi-million-dollar-wyoming-governors-race"
+},
+{
+"text": "[image: KOTA: Wyoming legislature passes Stem Cell Freedom Act, giving access to unapproved treatments]",
+"href": "https://www.barlowforwyo.com/in-the-media/kota-wyoming-legislature-passes-stem-cell-freedom-act-giving-access-to-unapproved-treatments"
+},
+{
+"text": "[image: Lovell Chronicle: Barlow says he answers to Wyoming, not White House]",
+"href": "https://www.barlowforwyo.com/in-the-media/lovell-chronicle-barlow-says-he-answers-to-wyoming-not-white-house"
+},
+{
+"text": "[image: Oil CIty News: Firearm rights restoration may soon be possible for nonviolent offenders]",
+"href": "https://www.barlowforwyo.com/in-the-media/oil-city-news-firearm-rights-restoration-may-soon-be-possible-for-nonviolent-offenders"
+},
+{
+"text": "[image: Op-Ed: The Wyoming Way: Neighbor Helping Neighbor]",
+"href": "https://www.barlowforwyo.com/in-the-media/blog-post-title-four-mhr7k"
+},
+{
+"text": "[image: Protecting Wyoming Beef Producers]",
+"href": "https://www.barlowforwyo.com/in-the-media/protecting-wyoming-beef-producers"
+},
+{
+"text": "[image: Wake Up Wyoming: Eric Barlow is running for governor of wyoming]",
+"href": "https://www.barlowforwyo.com/in-the-media/wake-up-wyoming-eric-barlow-is-running-for-governor-of-wyoming"
+},
+{
+"text": "[image: WyoFILE: A turning point for public lands and the businesses they support]",
+"href": "https://www.barlowforwyo.com/in-the-media/wyofile-a-turning-point-for-public-lands-and-the-businesses-they-support"
+},
+{
+"text": "[image: Wyoming NEws NOW: Barlow for Wyoming Governor on-air segment]",
+"href": "https://www.barlowforwyo.com/in-the-media/wyoming-news-now-barlow-for-wyoming-governor-on-air-segment"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.barlowforwyo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EricBarlowRidingForWyoming"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/barlow_wyo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@barlowforwyo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Barlowforwyo"
+},
+{
+"text": "barlowforwyo.com/healthcare",
+"href": "http://barlowforwyo.com/healthcare"
+},
+{
+"text": "federal land in Wyoming",
+"href": "https://www.wyoleg.gov/Legislation/2025/SJ0002"
+},
+{
+"text": "for having me",
+"href": "https://www.facebook.com/wakeupwyoming?__cft__%5B0%5D=AZbjZ6ex7EcEiC2olx3HFeEaX2LNA9gMEvhCc0448k4UGTiAsdZjIh7o4rGqwzYRxp9Pr1lVPgYfd-wCznhgu3dPVZZnCfLYmWoaIqR1G0XQnKDBQcMIrjaTDcby0FeDt-h7AflWoNmYoP3PZOD-jSmvlw8BCTdPtll82KazOrZhGe5zSwPlmEZNnTljKlnV0Mk&__tn__=-%5DK-R"
+},
+{
+"text": "“Firearms rights–restoration amendments,”",
+"href": "https://wyoleg.gov/Legislation/2026/HB0039"
+},
+{
+"text": "“Firearms rights–restoration amendments,” would clarify that Wyoming recognizes fi",
+"href": "https://wyoleg.gov/Legislation/2026/HB0039"
+}
 ]

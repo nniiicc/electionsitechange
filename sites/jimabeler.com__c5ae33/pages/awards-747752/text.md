@@ -1,88 +1,18 @@
-Awards & Recognition
-25 Years of Bipartisan Service & Proven Leadership
-Throughout his time in the Minnesota House and Senate, Senator Jim Abeler has earned more than 100 recognitions from community advocates, local businesses, healthcare providers, and civic leaders across Minnesota.
-Featured Awards
-Cancer Fighter Award—American Cancer Society
-Recognized for legislative efforts expanding access to care and funding vital health programs.
-Legislator of Distinction—League of Minnesota Cities
-Awarded for supporting local mayors, emergency responders, and municipal needs across District 35.
-Paul Wellstone Advocacy Award—The Minnesota Psychiatric Society
-Honored for long-standing, cross-party commitment to advancing mental healthcare parity.
-Guardian of Small Business—National Federation of Independent Business (NFIB)
-2002, 2012, 2020, 2022, & 2024
-Recognized for voting to protect local employers, small businesses, and economic growth.
-Categorized Awards Record
-- Cancer Fighter Award — American Cancer Society
-- Legislator of the Year — Minnesota Homecare Association
-- Legislator of the Year — Minnesota Chapter of the National MS Society
-- Healthy Body Healthy Mind Award — Mental Wellness Campaign for Anoka County
-- Legislator of the Year — National Alliance for the Mentally Ill
-- Leadership and Service Award — Gillette Children’s
-- Friend of EMS — Regions Hospital
-- Public Official Award — Minnesota Nurses Association
-- Legislator of the Year — Minnesota Psychological Association
-- Legislator of the Year (2019, 2021) — MARRCH
-- Distinguished Legislator Award (2017) — Minnesota Pediatric Medical Association
-- Public Official of the Year (2017 & 2022) — Leading Age Minnesota
-- Public Official Champion of the Year (2022) — Care Providers of Minnesota
-- Children’s Health Hero — Children’s Minnesota
-- Betty Bednarczyk Courage Award — SEIU Healthcare MN & IA
-- Appreciation for Contributions — American Psychiatric Association
-- John Allenburg Meritorious Award — Minnesota Chiropractic Association
-- Outstanding Community Services Award — Hemophilia Foundation of Minnesota/Dakotas
-- Mn Legislative Session All Star Advocate — Consortium of Citizens with Disabilities
-- Legislator of the Year — ARC Minnesota
-- Special Transportation Accessible Ridership Award — Minnesota Paratransit Providers Assoc / Minnesota Ambulance Assoc / Special Transportation Services Assoc
-- Lifetime Champion Award — Comm of Deaf, Blind, and Hard of Hearing MN’s
-- Leadership Award — Minnesota Habilitation Coalition
-- Lifetime Achievement Award — MNDACA–MOHR
-- Legislative Session All Star Advocate / Outstanding Legislator — Minnesota Consortium for Citizens With Disabilities
-- Elinor D.
-Hands Award — Brain Injury Association of Minnesota
-- Autism Hero of the Year (2016) — Autism Recovery Foundation
-- Outstanding Leadership — Achieve Services, Inc.
-- ARRM Cares Leadership Award — ARRM
-- Certificates / Letters of Appreciation — Metropolitan Center for Independent Living, Opportunity Partners, MN Coalition for the Homeless, MN Commission of the Deaf, Deafblind & Hard of Hearing, MN Council on Disability, MN School of Social Workers Association
-- Champion for Babies — March Of Dimes
-- Friend of Professional School Counseling — Minnesota School Counselors Association
-- Guardian of Minnesota Public Schools — Minnesota School Boards Association
-- Headstart Support Award — Headstart Program
-- Representative of the Year — Minnesota State College Students’ Association
-- Legislative Champion Award — Start Early Funders Coalition
-- Community Partner of the Year — RISE
-- Hero of Hope Award — Anoka Community Mission
-- Paul Wellstone Advocacy Award — The Minnesota Psychiatric Society
-- Nonprofit Ally Award — Minnesota Council of Nonprofits
-- Public Policy Champion — Lutheran Social Services of MN
-- Housing Hero Award — Clare Housing
-- Lifetime Achievement Award — Opportunity Partners / MOHR / ARRM
-- Legislative Champion Award — Adult and Teen Challenge Minnesota
-- Community Champion Award — ISUROON
-- Wellness In the Woods Honors — Wellness in the Woods
-- Governing Board of Directors Award — ACCAP
-- Outstanding Leadership — Organization of Liberians in Minnesota
-- Outstanding Service — Parker College of Chiropractic
-- Dedication and Service — MCCL
-- Recognition & Leadership — Benedictine Living Community Anoka, YMCA
-- Certificates of Appreciation — People Incorporated, Center for Victims of Torture, Acupuncture and Oriental Medicine Assoc of MN, MN Displaced Homemaker Program Consortium, Minnesota Counseling Association, Anaphylaxis and Food Allergy Association of MN
-- Guardian of Small Business — NFIB / Minnesota (2002/2012)
-- Friend of Agriculture — Minnesota Farm Bureau Federation
-- Friend Of Retail — Minnesota Retailers Association
-- Honorary Biodiesel Buddy — Minnesota Biodiesel Council
-- Legislator of Distinction — League of Minnesota Cities
-- Legislative Dean’s List — MN State University Student Association
-- Outstanding Legislator — Legislative Evaluation Assembly
-- 5% Campaign Award — 5% Campaign
-- Northstar Chapter Leadership Award — Sierra Club
-- Conservative Achievement — The American Conservative Union Foundation
-- Accra Champion Award — Accra Champions of Homecare
-- Friend of EMS — Regions Hospital & Minnesota Ambulance Association
-- Special Transportation Accessible Ridership Award — MN Paratransit Providers / Ambulance / STS Assoc
-- Legislator Appreciation Day — Minnesota Department of Corrections
-- Certificate of Commendation — State of Minnesota – Jesse Ventura
-- Certificate of Commendation — World Autism Awareness Day
-- Proclamation for Disability Employment Awareness Month — State of Minnesota
-- Champion for Racial Justice — Organizing Apprenticeship Project
-- Champion For Racial Equity — Voices for Racial Justice
-- All Star Champions for Choice — A Team MN
-- Counselor Advocate — MACD
+0 Skip to Content Jim Abeler | MN Senate About Priorities What People Are Saying Endorsements Awards Get Involved Voting Info CONTRIBUTE Open Menu Close Menu Jim Abeler | MN Senate About Priorities What People Are Saying Endorsements Awards Get Involved Voting Info CONTRIBUTE Open Menu Close Menu About Priorities What People Are Saying Endorsements Awards Get Involved Voting Info CONTRIBUTE A wards & Recognition 25 Years of Bipartisan Service & Proven Leadership Throughout his time in the Minnesota House and Senate, Senator Jim Abeler has earned more than 100 recognitions from community advocates, local businesses, healthcare providers, and civic leaders across Minnesota.
+Featured Awards Cancer Fighter Award —American Cancer Society Recognized for legislative efforts expanding access to care and funding vital health programs.
+Legislator of Distinction —League of Minnesota Cities Awarded for supporting local mayors, emergency responders, and municipal needs across District 35.
+Paul Wellstone Advocacy Award —The Minnesota Psychiatric Society Honored for long-standing, cross-party commitment to advancing mental healthcare parity.
+Guardian of Small Business —National Federation of Independent Business (NFIB) 2002, 2012, 2020, 2022, & 2024 Recognized for voting to protect local employers, small businesses, and economic growth.
+Categorized Awards Record Healthcare & Mental Health Cancer Fighter Award — American Cancer Society Legislator of the Year — Minnesota Homecare Association Legislator of the Year — Minnesota Chapter of the National MS Society Healthy Body Healthy Mind Award — Mental Wellness Campaign for Anoka County Legislator of the Year — National Alliance for the Mentally Ill Leadership and Service Award — Gillette Children’s Friend of EMS — Regions Hospital Public Official Award — Minnesota Nurses Association Legislator of the Year — Minnesota Psychological Association Legislator of the Year (2019, 2021) — MARRCH Distinguished Legislator Award (2017) — Minnesota Pediatric Medical Association Public Official of the Year (2017 & 2022) — Leading Age Minnesota Public Official Champion of the Year (2022) — Care Providers of Minnesota Children’s Health Hero — Children’s Minnesota Betty Bednarczyk Courage Award — SEIU Healthcare MN & IA Appreciation for Contributions — American Psychiatric Association John Allenburg Meritorious Award — Minnesota Chiropractic Association Disability & Accessibility Outstanding Community Services Award — Hemophilia Foundation of Minnesota/Dakotas Mn Legislative Session All Star Advocate — Consortium of Citizens with Disabilities Legislator of the Year — ARC Minnesota Special Transportation Accessible Ridership Award — Minnesota Paratransit Providers Assoc / Minnesota Ambulance Assoc / Special Transportation Services Assoc Lifetime Champion Award — Comm of Deaf, Blind, and Hard of Hearing MN’s Leadership Award — Minnesota Habilitation Coalition Lifetime Achievement Award — MNDACA–MOHR Legislative Session All Star Advocate / Outstanding Legislator — Minnesota Consortium for Citizens With Disabilities Elinor D.
+Hands Award — Brain Injury Association of Minnesota Autism Hero of the Year (2016) — Autism Recovery Foundation Outstanding Leadership — Achieve Services, Inc.
+ARRM Cares Leadership Award — ARRM Certificates / Letters of Appreciation — Metropolitan Center for Independent Living, Opportunity Partners, MN Coalition for the Homeless, MN Commission of the Deaf, Deafblind & Hard of Hearing, MN Council on Disability, MN School of Social Workers Association Children, Families & Education Champion for Babies — March Of Dimes Friend of Professional School Counseling — Minnesota School Counselors Association Guardian of Minnesota Public Schools — Minnesota School Boards Association Headstart Support Award — Headstart Program Representative of the Year — Minnesota State College Students’ Association Legislative Champion Award — Start Early Funders Coalition Community & Human Services Community Partner of the Year — RISE Hero of Hope Award — Anoka Community Mission Paul Wellstone Advocacy Award — The Minnesota Psychiatric Society Nonprofit Ally Award — Minnesota Council of Nonprofits Public Policy Champion — Lutheran Social Services of MN Housing Hero Award — Clare Housing Lifetime Achievement Award — Opportunity Partners / MOHR / ARRM Legislative Champion Award — Adult and Teen Challenge Minnesota Community Champion Award — ISUROON Wellness In the Woods Honors — Wellness in the Woods Governing Board of Directors Award — ACCAP Outstanding Leadership — Organization of Liberians in Minnesota Outstanding Service — Parker College of Chiropractic Dedication and Service — MCCL Recognition & Leadership — Benedictine Living Community Anoka, YMCA Certificates of Appreciation — People Incorporated, Center for Victims of Torture, Acupuncture and Oriental Medicine Assoc of MN, MN Displaced Homemaker Program Consortium, Minnesota Counseling Association, Anaphylaxis and Food Allergy Association of MN Business, Agriculture & Economic Development Guardian of Small Business — NFIB / Minnesota (2002/2012) Friend of Agriculture — Minnesota Farm Bureau Federation Friend Of Retail — Minnesota Retailers Association Honorary Biodiesel Buddy — Minnesota Biodiesel Council Legislator of Distinction — League of Minnesota Cities Legislative Dean’s List — MN State University Student Association Outstanding Legislator — Legislative Evaluation Assembly 5% Campaign Award — 5% Campaign Northstar Chapter Leadership Award — Sierra Club Conservative Achievement — The American Conservative Union Foundation Accra Champion Award — Accra Champions of Homecare Public Safety, Emergency & State Commendations Friend of EMS — Regions Hospital & Minnesota Ambulance Association Special Transportation Accessible Ridership Award — MN Paratransit Providers / Ambulance / STS Assoc Legislator Appreciation Day — Minnesota Department of Corrections Certificate of Commendation — State of Minnesota – Jesse Ventura Certificate of Commendation — World Autism Awareness Day Proclamation for Disability Employment Awareness Month — State of Minnesota Advocacy & Community Equity Champion for Racial Justice — Organizing Apprenticeship Project Champion For Racial Equity — Voices for Racial Justice All Star Champions for Choice — A Team MN Counselor Advocate — MACD Learn more about Abeler & what he stands for.
+25 Years of experience that matters.
+Start Here Read About Abeler's Priorities and Issues “I’ve built my life here, raising a family, running a business, and staying connected to this community.
+I believe in listening, showing up, and getting things done.” Read More Get Involved Find out how you can support Jim and get involved!
+Learn More Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive important news and updates.
+Email Address Sign Up Thank you!
+Your email has been added to our mailing list!
+Jim Abeler for MN Senate 600 East Main St.
+Anoka, MN 55303 jimabeler@hotmail.com (612) 245 3764 Prepared and paid for by Abeler Volunteer Committee, 600 East Main Street, Anoka, MN 55303.

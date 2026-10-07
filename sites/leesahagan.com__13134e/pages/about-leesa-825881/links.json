@@ -1,23 +1,86 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fabout-leesa%2F&t=About+Leesa",
-"http://leesahagan.com/endorsements",
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fabout-leesa%2F&title=About+Leesa",
-"http://printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fabout-leesa%2F&title=About+Leesa",
-"http://twitter.com/share?text=About+Leesa&url=https%3A%2F%2Fleesahagan.com%2Fabout-leesa%2F&via=LeesaHagan",
-"https://cardinalisdesign.com/political-website-design",
-"https://cviog.uga.edu/training/legislative-training/index.html",
-"https://facebook.com/LeesaHaganforGeorgia",
-"https://gopac.org/",
-"https://leesahagan.com/",
-"https://leesahagan.com/about-leesa",
-"https://leesahagan.com/about-leesa/endorsements",
-"https://leesahagan.com/constituent-services",
-"https://leesahagan.com/elections",
-"https://leesahagan.com/help-out",
-"https://leesahagan.com/news",
-"https://leesahagan.com/wp-content/uploads/2025/06/2025-Hagan-Biography.pdf",
-"https://linkedin.com/in/leesahagan",
-"https://mailchi.mp/064a8e45ec4a/campaign-email-signup",
-"https://sllf.org/events/emerging-legislative-leaders-program",
-"https://twitter.com/LeesaHagan"
+{
+"text": "About Leesa",
+"href": "https://leesahagan.com/about-leesa/"
+},
+{
+"text": "Cardinalis",
+"href": "https://cardinalisdesign.com/political-website-design/"
+},
+{
+"text": "Click here",
+"href": "https://leesahagan.com/about-leesa/endorsements/"
+},
+{
+"text": "Click here",
+"href": "https://leesahagan.com/wp-content/uploads/2025/06/2025-Hagan-Biography.pdf"
+},
+{
+"text": "Constituent Services",
+"href": "https://leesahagan.com/constituent-services/"
+},
+{
+"text": "Elections",
+"href": "https://leesahagan.com/elections/"
+},
+{
+"text": "Emerging Leaders Summit",
+"href": "https://www.gopac.org/"
+},
+{
+"text": "Emerging Legislative Leaders Program",
+"href": "https://www.sllf.org/events/emerging-legislative-leaders-program/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LeesaHaganforGeorgia"
+},
+{
+"text": "Follow",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/LeesaHagan"
+},
+{
+"text": "Help Out",
+"href": "https://leesahagan.com/help-out/"
+},
+{
+"text": "Legislative Leadership Institute",
+"href": "https://cviog.uga.edu/training/legislative-training/index.html"
+},
+{
+"text": "News",
+"href": "https://leesahagan.com/news/"
+},
+{
+"text": "See Supporters",
+"href": "http://leesahagan.com/endorsements"
+},
+{
+"text": "Sign Up",
+"href": "https://mailchi.mp/064a8e45ec4a/campaign-email-signup"
+},
+{
+"text": "[image]",
+"href": "https://leesahagan.com"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?text=About+Leesa&url=https%3A%2F%2Fleesahagan.com%2Fabout-leesa%2F&via=LeesaHagan"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fabout-leesa%2F&t=About+Leesa"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fabout-leesa%2F&title=About+Leesa"
+},
+{
+"text": "[no text]",
+"href": "http://www.printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fabout-leesa%2F&title=About+Leesa"
+}
 ]

@@ -1,11 +1,14 @@
 {
  "description": "REPORT FROM THE CAPITOL - As I type this, we have about eight days left in this year's session. This is when there are long da ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=117",
- "paid_for_by": null,
+ "fingerprint": "3b2f0c35f9afce73764ba9d513ac50affe906e8c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - REPORT FROM THE CAPITOL",
  "years_mentioned": [
   "2020",
   "2022",
-  "2023"
+  "2023",
+  "2039"
  ]
 }

@@ -1,5 +1,6 @@
-To the Citizens of Senate District 15
-The 2025 Session of the 114th General Assembly adjourned on Tuesday, April 22nd.
+Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
+Not a member?
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 4/25/2025 Capitol Hill Update 4/25/2025 To the Citizens of Senate District 15 The 2025 Session of the 114th General Assembly adjourned on Tuesday, April 22nd.
 The General Assembly will reconvene at 12:00 noon on Tuesday, January 13, 2026.
 This was a tremendously successful and efficient legislative session.
 Not only did we continue our tradition of passing a fiscally responsible balanced budget, we also made great strides on boosting our state’s infrastructure, increasing our commitment to public safety and demagnetizing our state from the scourge of illegal immigration.
@@ -9,40 +10,5 @@ Your input guided my decisions and helped ensure your voice was heard in the Sen
 While the legislative session has ended, my work on your behalf continues.
 Please don’t hesitate to reach out to my office with any questions, concerns, or ideas.
 It’s an honor to represent you in the Tennessee Senate.
-All My Best,
-Paul
-LEGISLATIVE HIGHLIGHTS OF THE 2025 SESSION:
-Strong Public Schools
-- Increased investments in K-12 education by $439 million, including teacher pay raises and infrastructure improvements
-Illegal Immigration
-- Created the Centralized Immigration Enforcement Division, within the Department of Safety, to coordinate with federal and local governments to implement immigration policies
-- Established the Immigration Enforcement Grant Program to aid local law enforcement
-- Created a felony offense for smuggling and trafficking illegal immigrants
-- Increased accountability for organizations housing criminal illegal immigrants
-Agriculture
-- Established $25 million Farmland Preservation Fund landowners to put property in conservation easement
-- Dismantled DEI and Restored Merit-Based Systems
-Prohibited public and private colleges in Tennessee from using race or national origin to make admissions or scholarship decisions
-- Ended race-based selection for membership of state boards
-- Prohibited state and local governments and public universities from having DEI departments or hiring practices
-Caring for Communities and Infrastructure
-- Added $1 Billion to the road fund to help address the $30 billion backlog
-- Redirected tire sales tax revenues from General Fund to TDOT
-- Provided $516 million for Hurricane Helene recovery to individuals and local governments
-Public Safety
-- Protected private property rights
-- Cracked down on organized retail crime
-- Raised penalty for exposing children to fentanyl
-- Strengthened penalties for sexual abuse
-Protecting Children and Families
-- Strengthened several penalties related to child abuse
-- Improved the adoption and foster care system
-- Enhanced protections and rights for children in DCS custody
-- Established a domestic violence registry
-- Cracked down on AI-generated child pornography
-Pro-Life
-- Targeted illegal distribution of abortion pills
-- Established pro-life protections for mothers facing serious pregnancy complications
-Health
-- Expanded prenatal screenings to protect mothers and babies
-- Required medical examinations of deceased mass shooters to test for psychotropic drugs
+All My Best, Paul LEGISLATIVE HIGHLIGHTS OF THE 2025 SESSION: Strong Public Schools Increased investments in K-12 education by $439 million, including teacher pay raises and infrastructure improvements Illegal Immigration Created the Centralized Immigration Enforcement Division, within the Department of Safety, to coordinate with federal and local governments to implement immigration policies Established the Immigration Enforcement Grant Program to aid local law enforcement Created a felony offense for smuggling and trafficking illegal immigrants Increased accountability for organizations housing criminal illegal immigrants Agriculture Established $25 million Farmland Preservation Fund landowners to put property in conservation easement Dismantled DEI and Restored Merit-Based Systems Prohibited public and private colleges in Tennessee from using race or national origin to make admissions or scholarship decisions Ended race-based selection for membership of state boards Prohibited state and local governments and public universities from having DEI departments or hiring practices Caring for Communities and Infrastructure Added $1 Billion to the road fund to help address the $30 billion backlog Redirected tire sales tax revenues from General Fund to TDOT Provided $516 million for Hurricane Helene recovery to individuals and local governments Public Safety Protected private property rights Cracked down on organized retail crime Raised penalty for exposing children to fentanyl Strengthened penalties for sexual abuse Protecting Children and Families Strengthened several penalties related to child abuse Improved the adoption and foster care system Enhanced protections and rights for children in DCS custody Established a domestic violence registry Cracked down on AI-generated child pornography Pro-Life Targeted illegal distribution of abortion pills Established pro-life protections for mothers facing serious pregnancy complications Health Expanded prenatal screenings to protect mothers and babies Required medical examinations of deceased mass shooters to test for psychotropic drugs Previous Article Next Article Share With Facebook Tweet With Twitter SEARCH RECENT UPDATES Capitol Hill Update 4/17/2026 Capitol Hill Update 4/10/2026 Capitol Hill Update 4/3/2026 NEWSLETTER Please enable JavaScript in your browser to complete this form.
+Email * SUBMIT

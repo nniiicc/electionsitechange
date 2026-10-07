@@ -1,4 +1,3 @@
-Get Involved
-This campaign is rooted in the belief that progress comes from people working together.
+0 Skip to Content Yoney for Minnesota House District 4A Home My Why Donate Get Involved Events Endorsements DONATE Open Menu Close Menu Yoney for Minnesota House District 4A Home My Why Donate Get Involved Events Endorsements DONATE Open Menu Close Menu Home My Why Donate Get Involved Events Endorsements DONATE Get Involved This campaign is rooted in the belief that progress comes from people working together.
 Erika is ready to show up and do the work—and she’s building a team of neighbors and volunteers who are ready to do it alongside her.
-Let us know how you can help.
+Let us know how you can help. yoney4house@gmail.com PO Box 488 Moorhead, MN 56561 (218) 303-7607 Yoney for Minnesota House District 4A Paid for by Campaign Fund of Erika Yoney Facebook Instagram

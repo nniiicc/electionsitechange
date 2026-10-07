@@ -1,5 +1,4 @@
-Faith and Families
-Defend faithand family values -My core priority will always be to protect our faith, our families, and our freedoms from subtle or egregious erosions that undermine these institutions.
+0 Skip to Content Home Bio Issues Contact Donate Endorsements Calendar DONATE Open Menu Close Menu Home Bio Issues Contact Donate Endorsements Calendar DONATE Open Menu Close Menu Home Bio Issues Contact Donate Endorsements Calendar DONATE Faith and Families Defend faithand family values -My core priority will always be to protect our faith, our families, and our freedoms from subtle or egregious erosions that undermine these institutions.
 Housing affordability for new families - This challenge has to be addressed as we face a potential and significant market correction in housing and finance.
 Local municipalities should maintain most decision-making authority based on the local wishes, desires, and demands of their citizens.
 State legislatures should be judicious when looking for ways to assist without overstepping these bounds and increasing tax burdens.
@@ -18,9 +17,8 @@ School choice helps, but parents should be given more power to voice concerns wi
 The majority of primary and secondary educators are amazing, a small few frankly should not continue to teach.
 Higher education, if funded by tax payers, should have similar scrutiny.
 From the words of a parent, “universities have become havens of moral corruption for young adults.” Universities should educate, not indoctrinate.
-They need to be held accountable.
-Parent-approved, evidence-based education curricula -Davis School District is launching a new strategic plan in 2026.
-While I appreciate their efforts to improve the education for all, I am concerned about the intent and results after having been burned by the common core standard changes 15 years ago which ultimately needed many revisions to improve it.
+They need to be held accountable. ‍ ‍ ‍ ‍ Parent-approved, evidence-based education curricula -Davis School District is launching a new strategic plan in 2026.
+While I appreciate their efforts to improve the education for all, I am concerned about the intent and results after having been burned by the common core standard changes #ago which ultimately needed many revisions to improve it.
 Because the school district is the largest expense and putting the greatest pressure on our property taxes, citizens are demanding greater accountability and transparency for what is being proposed.
 How will it be measured and adopted and what are the costs?
 Utah has done well in taking care of teachers recently with pay increases, but I hear concerns about the top-heavy bureaucracy and salaries, which are some of the highest in the nation.
@@ -45,11 +43,7 @@ It was not always fun, but it was necessary.
 People in these institutions should be accountable to their work.
 Good performance and merit based reward should be the standard.
 A DEI approach to hiring should be dissolved.
-Abuse, cheating, and derelict performance should be resolved.
-Utahns United for Public Education
-Primary and General Election Education Questionnaire
-Funding & Budget Priorities
-1.
+Abuse, cheating, and derelict performance should be resolved. ‍ ‍ Utahns United for Public Education Primary and General Election Education Questionnaire Funding & Budget Priorities 1.
 What role do you believe public education plays in a healthy democracy and economy?
 Education is critical for a successful and health republic to work.
 History must be accurately taught.
@@ -92,8 +86,7 @@ Many parents have demanded options.
 They want their taxes to give them options.
 Public school is important but a Utah fits all approach brings competition and options and competition drives improvement in the product.
 Free market approach in education will always driver better outcomes across the board.
-Governance & Accountability
-5.
+Governance & Accountability 5.
 What does “local control” mean to you in education policy?
 Let the elected school boards have influence and say and not the federal bureaucrats.
 However, many have expressed frustration with school boards but that is representative governance via elections.
@@ -113,8 +106,7 @@ We should listen and understand feedback from our teachers.
 These are smart, intelligent people who see first line the needs of their students.
 Their challenges, complaints, and ideas for improvements should be highly considered.
 Successful businesses operate this way and so should public education.
-Teachers & School Workforce
-8.
+Teachers & School Workforce 8.
 What do you believe are the biggest causes of teacher burnout and attrition?
 Class sizes are just too big.
 We have also seen a little bit of parent bullying.
@@ -136,8 +128,7 @@ Do you believe teachers should be treated primarily as public employees implemen
 They should be professionals.
 Let them teach based on their talents.
 Don’t provide such a highly directive approach to education because it diminishes and strengths and talents of teachers.
-Curriculum, Culture, & Politics
-11.
+Curriculum, Culture, & Politics 11.
 How should schools balance parental input, professional expertise, and state standards?
 All sides need better communication and collaboration.
 We must meet the parents needs and desires within reason.
@@ -151,8 +142,7 @@ I’m also very concerned that education dollars are being used for political ac
 That is grossly inappropriate and must be addressed.
 Public tax dollars should have the single priority of helping children learn, grow, and thrive in life.
 Anything else is frivolous and meaningless.
-School Choice
-13.
+School Choice 13.
 What do you see as the strengths and weaknesses of the Utah Fits All Scholarship?
 I think it provides a much needed choice and alternative that parents are demanding.
 However, I see some abuses with the funds being received in these other options.
@@ -171,8 +161,7 @@ Free market is a beautiful thing for driving competition and improvement in all 
 I don’t think we pick and choose a failing school more over a thriving school.
 I want the best product to win and I want the inferior product to diminish and I don’t think we should try and prop a more failing system over a more successful one.
 Free market approacht just creates better outcomes for kids all around.
-Students & Educational Outcomes
-16.
+Students & Educational Outcomes 16.
 Beyond test scores, how do you define a successful school?
 Denmark model.
 17.
@@ -182,22 +171,19 @@ My kids went to Syracuse Arts Academy and loved this curriculum.
 They have also attended public schools in Jr.
 High and High school and had great experiences.
 A whole approach to foster many talents and needs is important.
-Civic Leadership & Tone
-18.
+Civic Leadership & Tone 18.
 How do you build trust with educators and families who disagree with you?
 Outline rules for decorum for both sides.
 Have a conflict resolution protocol in place for all parents and teachers.
 We can learn to be civil and communicate respectfully.
 We are all people doing the best we can.
 Contention is the deal-breaker and we need to address it.
-All sides need a win win scenario
-19.
+All sides need a win win scenario 19.
 What education policy position have you changed your mind about over time?
 The utilization and effectiveness of some of the teen centers.
 My son goes to one but seems to abuse it.
 I’m glad that many of these are funded by private donations and I can see a benefit and need but it needs to be measured for its success and audited to see how to make it better meet needs.
-Taxes and Government
-Limit government - rebalance spending - triage priorities - When our tax dollars get appropriated for a specific purpose, they become stagnant and immovable despite the success or failure of the initiative.
+Taxes and Government Limit government - rebalance spending - triage priorities - When our tax dollars get appropriated for a specific purpose, they become stagnant and immovable despite the success or failure of the initiative.
 We have seen this in Davis County with building animal shelters, libraries, and sports facilities, but then when it comes to services like police and fire personnel, we run out and have to raise taxes because the other pots are untouchable.
 A business would never run this way.
 A business allows to reallocate and reprioritize toward other needs.
@@ -254,10 +240,10 @@ Do the math and the U.S. can’t continue to pay for social nets, social securit
 The austerity approach to fix it requires cutting ALL government funded programs by half.
 I’m not sure that will happen.
 The hard default approach in declaring no more payments will destroy all global banking and throw us into world chaos with other nations.
-The reality and only viable option is going to be the Fed’s approach to massive devaluation of the dollar through printing and inflation. 2026 will see a massive change to our money and we face real challenges.
+The reality and only viable option is going to be the Fed’s approach to massive devaluation of the dollar through printing and inflation.
+2026 will see a massive change to our money and we face real challenges.
 As one who follows markets and monetary policies, I see significant changes and we need to negotiate through this storm without causing further harm and control from the solutions and fixes that will be proposed.
-Constitution & Public Safety
-Uphold principals of the Constitution – restore balance of powers - The recent debate for Proposition 4 here in Utah has triggered the Federalist 51 papers debate again, discussing the separation of powers and checks and balances between the legislature and the judiciary.
+Constitution & Public Safety Uphold principals of the Constitution – restore balance of powers - The recent debate for Proposition 4 here in Utah has triggered the Federalist 51 papers debate again, discussing the separation of powers and checks and balances between the legislature and the judiciary.
 This seems to be a never-ending struggle.
 I am surprised at how many people haven’t read to understand this.
 The point is that branches of government do sometimes overstep their bounds and it should always be debated to keep proper checks in place.
@@ -295,8 +281,7 @@ We must hold social media/tech platforms accountable for it.
 This is extremely complex to detect, enforce, and legislate, but it is a necessary battle.
 Utah has done some things well in this regard, but more can be done.
 I will work to protect our children & families from this stealthy destroyer.
-Business, infrastructure, quality of Life
-Energy independence - promote efficient forms of energy - Let the free markets dictate the type and demand of energy we consume.
+Business, infrastructure, quality of Life Energy independence - promote efficient forms of energy - Let the free markets dictate the type and demand of energy we consume.
 I’m opposed to government overreach trying to force inefficient and costly forms of alternative energy.
 Let’s not forget the failure of Obama with solar energy company Solyndra, who received 535 million in federal loan guarantees, once again proving the incompetence of government ran by Democrats.
 Energy demands are skyrocketing, especially with the tech advancements, and we will need the most efficient and cheapest forms of energy by all avenues available.
@@ -334,12 +319,9 @@ I cringe when tax dollars are spent for these types of projects.
 I will work to protect from legislative proposals that are not in the best interest of the citizens.
 Good, frugal, responsible, government is essential.
 Additionally, I will work to continue to attract new business to Utah that can revitalize our economy for years to come.
-Contact us
-Interested in working together?
+Contact us Interested in working together?
 Fill out the form and we will be in touch shortly.
 We can’t wait to hear from you!
-Services
-Filters
-No results found
-No results match your search.
+Services Clear Filters Filter Clear Filter No results found No results match your search.
 Try removing a few filters.
+JohnTaylor4Utah Made with Squarespace Contact johntaylor4utah@gmail.com 801-589-2178 Copyright # All Rights Reserved Paid for by Friends of John Taylor

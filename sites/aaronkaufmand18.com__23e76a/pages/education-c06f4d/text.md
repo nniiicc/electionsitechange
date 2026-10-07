@@ -1,15 +1,12 @@
-Education
-As a K-12 student who graduated from Montgomery County Public Schools, then Montgomery College
-and finally the University of Maryland College Park, I know the profoundly positive impact that education had on me.
-Students:
-As a graduate of MCPS, Montgomery College and the University of Maryland College Park, I personally know that education is the gateway to opportunity.
+0 Skip to Content About About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Priorities My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Contact Legislative Contact Campaign Contact DONATE Open Menu Close Menu About About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Priorities My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Contact Legislative Contact Campaign Contact DONATE Open Menu Close Menu Folder: About Back About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Folder: Priorities Back My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Folder: Contact Back Legislative Contact Campaign Contact DONATE Education As a K-12 student who graduated from Montgomery County Public Schools, then Montgomery College and finally the University of Maryland College Park, I know the profoundly positive impact that education had on me.
+Students: As a graduate of MCPS, Montgomery College and the University of Maryland College Park, I personally know that education is the gateway to opportunity.
 I will be a tireless advocate to ensure that every child receives a world-class education.
 In particular, I will focus on ESOL students and those with disabilities.
 These populations have been particularly impacted by the detrimental effects of pandemic-related learning loss.
 The Covid-related impact is doubly troubling as these students have long lagged behind their peers in support, counseling and achievement.
 At the same time, we must also ensure that every student is given optimal opportunities to excel, be it through AP classes or Baccalaureate Programs based on their abilities and talents.
 We must provide every student with a quality educational experience in a safe and healthy environment so that every student can reach their potential.
-Teachers and Staff:
-There is no more important component in our children’s lives outside the home than their teachers and school staff.
+Teachers and Staff: There is no more important component in our children’s lives outside the home than their teachers and school staff.
 Teachers, counselors and other school staff have historically been undervalued, underpaid, unappreciated and not provided with the tools, resources and supplies that they need in order to allow them to provide the quality education that they so desperately want to offer our children.
 Teachers need to be provided with more resources so that they can spend their time teaching and not being bogged down with unnecessary paperwork and bureaucratic tasks.
+Stay Connected Legislative Contact Campaign Contact By Authority: Friends of Aaron Kaufman -Joshua Kaufman, Treasurer Elect Aaron Kaufman PO Box 151542 Chevy Chase, MD 20815 e-mail: aaronkaufmand18@gmail.com Phone: 240.600.1812 Privacy Policy

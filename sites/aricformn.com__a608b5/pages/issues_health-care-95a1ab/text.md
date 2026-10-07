@@ -1,23 +1,11 @@
-Health Care
-Lowering health care costs
-Nearly 300,000 Minnesotans don’t have health insurance.
+Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate Lowering health care costs ← All policy Health Care Lowering health care costs Nearly 300,000 Minnesotans don’t have health insurance.
 When people don’t have health care, they typically miss the routine checks that catch illness before it gets worse, or they have to use the emergency room for basic health needs.
 That isn’t just inhumane.
 It is also incredibly expensive for the rest of us.
 So many of the rest of us are underinsured, or work just to pay our premiums.
 No one should have to choose between basic necessities and taking care of their health.
-As our State Senator, I have
-- Supported bills that stabilize our health care costs, lower prescription drug prices, and expand medical assistance for moms
-- Advocated for greater transparency in our health care system, requiring drug companies to publicly disclose how much they spend on research and development, advertising, and executive salaries
-- Voted for a reinsurance program that lowers health care premiums by as much as 40%
-- Established oversight of large hospital mergers to prevent mergers that would create monopolies, increase prices, or reduce access to care
-- Secured $30 million in hospital stabilization funding for hospitals across the state, including $15 million for rate increases for critical access hospitals
-- Passed $24 million for rural EMS financial stability and established the successful Sprint Medic pilot program, which reduces response times for ambulance services in Greater Minnesota
-- Championed the bill that opened a UMN Med School campus in St.
-Cloud, focused on recruiting and training physicians to serve Greater Minnesota
-- Strengthened the public input process and public notification requirement before hospitals close, relocate, or end services
-- Required insurance to cover more services, like wigs for cancer patients and prosthetics
-- Increased mental health rates and coverage across the state
-- Voted for a bill to limit the use of AI to make health insurance coverage decisions
-- Authored legislation to encourage and support people getting degrees in nursing, and to increase reimbursement rates so people who work in nursing homes and with people with disabilities get paid a fair wage
-- Passed $300 million in direct aid to nursing homes across the state
+As our State Senator, I have Supported bills that stabilize our health care costs, lower prescription drug prices, and expand medical assistance for moms Advocated for greater transparency in our health care system, requiring drug companies to publicly disclose how much they spend on research and development, advertising, and executive salaries Voted for a reinsurance program that lowers health care premiums by as much as 40% Established oversight of large hospital mergers to prevent mergers that would create monopolies, increase prices, or reduce access to care Secured $30 million in hospital stabilization funding for hospitals across the state, including $15 million for rate increases for critical access hospitals Passed $24 million for rural EMS financial stability and established the successful Sprint Medic pilot program, which reduces response times for ambulance services in Greater Minnesota Championed the bill that opened a UMN Med School campus in St.
+Cloud, focused on recruiting and training physicians to serve Greater Minnesota Strengthened the public input process and public notification requirement before hospitals close, relocate, or end services Required insurance to cover more services, like wigs for cancer patients and prosthetics Increased mental health rates and coverage across the state Voted for a bill to limit the use of AI to make health insurance coverage decisions Authored legislation to encourage and support people getting degrees in nursing, and to increase reimbursement rates so people who work in nursing homes and with people with disabilities get paid a fair wage Passed $300 million in direct aid to nursing homes across the state Championed the bill that opened a UMN Med School campus in St.
+Cloud that recruits and trains physicians to serve Greater Minnesota.
+Join us Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue Next Safe, thriving neighborhoods → PO Box 5012 St.
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

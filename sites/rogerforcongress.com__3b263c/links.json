@@ -1,15 +1,86 @@
 [
-"https://facebook.com/rogerwilliamstx",
-"https://facebook.com/wofford4ag",
-"https://instagram.com/",
-"https://rogerforcongress.com/",
-"https://rogerforcongress.com/about",
-"https://rogerforcongress.com/contact",
-"https://rogerforcongress.com/privacy",
-"https://rogerforcongress.com/volunteer",
-"https://secure.winred.com/roger-williams-for-us-congress/donate",
-"https://secure.winred.com/roger-williams-for-us-congress/storefront",
-"https://twitter.com/RogerWilliamsTX",
-"https://votetexas.gov/voting/where.html",
-"https://youtube.com/"
+{
+"text": "Contact",
+"href": "https://www.rogerforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/roger-williams-for-us-congress/donate"
+},
+{
+"text": "Home",
+"href": "https://www.rogerforcongress.com/"
+},
+{
+"text": "Meet Roger",
+"href": "https://www.rogerforcongress.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rogerforcongress.com/privacy/"
+},
+{
+"text": "Read More",
+"href": "https://www.rogerforcongress.com/about/"
+},
+{
+"text": "Roger Williams",
+"href": "https://www.facebook.com/wofford4ag/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/roger-williams-for-us-congress/storefront"
+},
+{
+"text": "Tweets by Roger Williams",
+"href": "https://twitter.com/RogerWilliamsTX"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rogerforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/RogerWilliamsTX"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/rogerwilliamstx/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com"
+},
+{
+"text": "[image]",
+"href": "https://www.rogerforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com"
+},
+{
+"text": "[image]Follow Rogeron Twitter",
+"href": "https://twitter.com/RogerWilliamsTX"
+},
+{
+"text": "[image]Like Rogeron Facebook",
+"href": "https://www.facebook.com/rogerwilliamstx/"
+},
+{
+"text": "[image]Make aContribution",
+"href": "https://secure.winred.com/roger-williams-for-us-congress/donate"
+},
+{
+"text": "https://www.votetexas.gov/voting/where.html",
+"href": "https://www.votetexas.gov/voting/where.html"
+},
+{
+"text": "terms and conditions and privacy policy",
+"href": "https://www.rogerforcongress.com/privacy/"
+},
+{
+"text": "terms and privacy policy",
+"href": "https://www.rogerforcongress.com/privacy/"
+}
 ]

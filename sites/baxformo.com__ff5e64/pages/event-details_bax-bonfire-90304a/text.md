@@ -1,8 +1,3 @@
-top of page
-Bax Bonfire
-Thu, Oct 01
-|4435 US-50
-Tie-dye, s’mores, and saving democracy.
+top of page LOGO GET INVOLVED DONATE Bax Bonfire Thu, Oct 01 | 4435 US-50 Tie-dye, s’mores, and saving democracy.
 Join us for the Bax Bonfire on October 1st at 6:30 PM for a laid-back night with good people, good food, and some campaign fun.
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Oct 01, 2026, 6:30 PM – 9:00 PM 4435 US-50, 4435 US-50, Loose Creek, MO 65054, USA Share this event HOME ABOUT INSTAGRAM FACEBOOK ACCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS Paid for by Citizens for Bax; Treasurer, Rob Overly © # by Sapphire Strategies HOME ABOUT Log In CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 bottom of page

@@ -1,10 +1,42 @@
 [
-"http://tonyriveroforhouse.com/about.html",
-"http://tonyriveroforhouse.com/contact.html",
-"http://tonyriveroforhouse.com/index.html",
-"http://tonyriveroforhouse.com/issues.html",
-"http://tonyriveroforhouse.com/privacypolicy.html",
-"https://paypal.me/RepTonyRivero?country.x=US&locale.x=en_US",
-"https://secure.anedot.com/tony-rivero-for-house/tonyriverohouse",
-"https://x.com/RepTonyRivero?s=07"
+{
+"text": "About",
+"href": "http://www.tonyriveroforhouse.com/about.html"
+},
+{
+"text": "Contact",
+"href": "http://www.tonyriveroforhouse.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tony-rivero-for-house/tonyriverohouse"
+},
+{
+"text": "Donate Now",
+"href": "https://paypal.me/RepTonyRivero?country.x=US&locale.x=en_US"
+},
+{
+"text": "Home",
+"href": "http://www.tonyriveroforhouse.com/index.html"
+},
+{
+"text": "Issues",
+"href": "http://www.tonyriveroforhouse.com/issues.html"
+},
+{
+"text": "Privacy Policy",
+"href": "http://www.tonyriveroforhouse.com/privacypolicy.html"
+},
+{
+"text": "[image]",
+"href": "http://www.tonyriveroforhouse.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "http://www.tonyriveroforhouse.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RepTonyRivero?s=07"
+}
 ]

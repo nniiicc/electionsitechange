@@ -1,7 +1,9 @@
 {
  "description": "Add your event description here",
  "final_url": "https://votemichannatate.com/events/8tlgpct8?s=20260924T180000Z",
- "paid_for_by": null,
+ "fingerprint": "e6fd1195a294392e62c5f3533d9dea481ca66fb7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Phone Banking Training",
  "years_mentioned": [
   "2026"

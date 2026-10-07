@@ -1,12 +1,54 @@
 [
-"https://facebook.com/electjasonwoolford",
-"https://jasonwoolford.com/",
-"https://jasonwoolford.com/agenda",
-"https://jasonwoolford.com/author/jwoolford",
-"https://jasonwoolford.com/endorsements",
-"https://jasonwoolford.com/join",
-"https://jasonwoolford.com/meet-jason",
-"https://jasonwoolford.com/press-releases",
-"https://secure.anedot.com/49ac2066-dfd7-4153-a8da-15a58fe6fcd0/e49e363e-c512-4ab2-a730-6cdfe8afd6b0",
-"https://youtube.com/@JWMChannel"
+{
+"text": "AGENDA",
+"href": "https://jasonwoolford.com/agenda/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/49ac2066-dfd7-4153-a8da-15a58fe6fcd0/e49e363e-c512-4ab2-a730-6cdfe8afd6b0"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jasonwoolford.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electjasonwoolford"
+},
+{
+"text": "Give Endorsement",
+"href": "https://jasonwoolford.com/join/"
+},
+{
+"text": "HOME",
+"href": "https://jasonwoolford.com/"
+},
+{
+"text": "JOIN US",
+"href": "https://jasonwoolford.com/join/"
+},
+{
+"text": "MEET JASON",
+"href": "https://jasonwoolford.com/meet-jason/"
+},
+{
+"text": "PRESS & EVENTS",
+"href": "https://jasonwoolford.com/press-releases/"
+},
+{
+"text": "X",
+"href": "https://www.facebook.com/electjasonwoolford"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@JWMChannel"
+},
+{
+"text": "[image: Jason Woolford Logo]",
+"href": "https://jasonwoolford.com/"
+},
+{
+"text": "jwoolford",
+"href": "https://jasonwoolford.com/author/jwoolford/"
+}
 ]

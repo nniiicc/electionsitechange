@@ -1,5 +1,4 @@
-Op-Ed: What I've learned in my first term at the NH State House
-It’s been an interesting first term in the house to put it mildly.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Op-Ed: What I've learned in my first term at the NH State House Apr 23 Written By Alice Wade It’s been an interesting first term in the house to put it mildly.
 I’ve gotten to see how things get done, or more often than not don’t get done, in one of the largest legislative bodies in the world.
 I thought it would be worth taking a bit of time to collect my thoughts on what I’ve learned so far.
 The first thing is, no one really grows out of high school level grudges.
@@ -33,3 +32,5 @@ It’s messy, it’s interesting, it’s frustrating, and yet hopeful all the sa
 I don’t want to give into the notion that this is how it will always be, because democracies exist to change and reform themselves.
 It’s not often a smooth path, and there may be times of steep backsliding on many fronts, but as long as we have the choice to elect our representatives, there will be opportunities to improve.
 As for money in politics, that’s a bigger can of worms than I have time to get into today.
+Alice Wade Previous Previous Boston Globe: NH lawmakers move to censure Rep.
+Travis Corcoran for Holocaust reference Next Next Op-Ed: Accountability is dead in the New Hampshire House Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

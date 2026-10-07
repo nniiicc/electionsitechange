@@ -1,13 +1,10 @@
-Privacy Policy
-To stop receiving text messages, reply with the word STOP.
+0 Skip to Content Meet Fred Policy Volunteer Events Endorsements Merch Media Press Center Blog Contact DONATE Open Menu Close Menu Meet Fred Policy Volunteer Events Endorsements Merch Media Press Center Blog Contact DONATE Open Menu Close Menu Meet Fred Policy Volunteer Events Endorsements Merch Folder: Media Back Press Center Blog Contact DONATE Privacy Policy To stop receiving text messages, reply with the word STOP.
 We may confirm your opt-out by text message.
-Disclosure Of Personal Information
-Text messaging originator opt-in data will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); or (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
-When you visit the Wellman for Missouri website the following information may be collected:
-- The type of the domain from which you accessed the Internet.
-- The date and time you accessed wellmanformo.com.
-- The IP address from which you accessed wellmanformo.com.
-- The type of browser software used to view wellmanformo.com.
+Disclosure Of Personal Information Text messaging originator opt-in data will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); or (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+When you visit the Wellman for Missouri website the following information may be collected: The type of the domain from which you accessed the Internet.
+The date and time you accessed wellmanformo.com .
+The IP address from which you accessed wellmanformo.com .
+The type of browser software used to view wellmanformo.com .
 When you visit the wellmanformo.com website, personally identifying information is not collected, unless you choose to provide such information.
 Personally identifying information is collected when submitted through one of the following web forms: Donate, Email Sign-up, Contact Us, Volunteer, Petition, and Survey pages.
 Submitted information is collected and used for campaign-related purposes related to Fred Wellman's election.
@@ -21,17 +18,18 @@ Your contribution will be used in connection with Federal elections and is subje
 Text messaging originator opt-in data will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); or (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
 To stop receiving text messages, reply with the word STOP.
 We may confirm your opt-out by text message.
-Disclosure Of Personal Information
-Text messaging originator opt-in data will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); or (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
-If you have questions about this privacy statement, please feel free to contact: info@wellmanformo.com
-Terms of Use
-These Terms of Service (“Terms”) apply to your access to and use of the websites, mobile applications, and other online offerings (collectively, the “Sites”) provided by Wellman for Missouri (the “Committee,” “we,” or “us”).
+Disclosure Of Personal Information Text messaging originator opt-in data will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); or (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+If you have questions about this privacy statement, please feel free to contact: info@wellmanformo.com Terms of Use These Terms of Service (“Terms”) apply to your access to and use of the websites, mobile applications, and other online offerings (collectively, the “Sites”) provided by Wellman for Missouri (the “Committee,” “we,” or “us”).
 By accessing or by using the Sites, you agree to these Terms, and any terms incorporated by reference.
 If you do not agree to these Terms, do not use the Sites.
-Consent to Receive Text Messages
-By providing your mobile number and opting in, you agree to be contacted by or on behalf of Wellman for Missouri at the provided mobile number.
+Consent to Receive Text Messages By providing your mobile number and opting in, you agree to be contacted by or on behalf of Wellman for Missouri at the provided mobile number.
 This includes text messages for informational, product, or service-related purposes (e.g., donation requests, advocacy actions, etc.).
 Message frequency varies, and standard message and data rates may apply.
 To stop receiving text messages, reply with the word STOP.
 We may confirm your opt-out by text message.
 For support or assistance, please email us at info@wellmanformo.com.
+Support our campaign online here : Donate To contribute by mail, please include your occupation and employer (we can’t accept the donation without it!) and make checks payable to: Wellman for Missouri 15455 Manchester Road, P.O.
+Box 36, Ballwin, MO 63011 PAID FOR BY WELLMAN FOR MISSOURI USE OF MILITARY RANK, JOB TITLES, PHOTOGRAPHS IN UNIFORM, AND THE APPEARANCE OF U.S.
+DEPARTMENT OF DEFENSE VISUAL INFORMATION DOES NOT IMPLY ENDORSEMENT BY THE U.S.
+DEPARTMENT OF DEFENSE OR ANY OF ITS BRANCHES.
+Privacy Policy Media Kit

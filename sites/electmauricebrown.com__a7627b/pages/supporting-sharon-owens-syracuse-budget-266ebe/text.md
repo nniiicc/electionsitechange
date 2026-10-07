@@ -1,7 +1,6 @@
-Governing During a Deficit Is Hard.
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Governing During a Deficit Is Hard.
 Mayor Owens Deserves Credit for Meeting the Moment.
-May 8th 2026
-Budget season often brings out the easiest kind of politics.
+May 8th 2026 Budget season often brings out the easiest kind of politics.
 Some people demand more services while pretending budgets are unlimited.
 Others call for cuts without being honest about what those cuts would actually mean for working families.
 Too often, budget season becomes political theater instead of what it should be: a serious conversation about how government delivers services while staying financially responsible.
@@ -31,7 +30,7 @@ Recent reporting noted that this year’s budget process has been far less drama
 Residents deserve stability.
 They deserve competence.
 They deserve elected officials focused on governing rather than creating chaos.
-As someone who helps oversee county finances, I understand how difficult these conversations can be.
+As someone who helps oversee county finances , I understand how difficult these conversations can be.
 Counties often have more flexibility than cities when it comes to revenue options, and even then budgets are rarely easy.
 Cities are expected to maintain roads, respond to neighborhood concerns, invest in public safety, and improve quality of life while operating with fewer tools.
 That reality is exactly why state government needs to do more to support municipalities like Syracuse.
@@ -40,7 +39,7 @@ Local government can only do so much when larger structural issues remain unreso
 We need stronger state investment in housing, infrastructure, and public transportation so cities are not constantly forced to choose between raising taxes and cutting services.
 Until those larger reforms happen, local leaders still have to make difficult decisions in real time.
 On this budget, Mayor Owens made difficult decisions while keeping residents in mind, and she deserves credit for that.
-Did Mayor Sharon Owens raise taxes in her first budget?
+Read More of My Thoughts on Current Events Frequently Asked Questions: Did Mayor Sharon Owens raise taxes in her first budget?
 No.
 Mayor Sharon Owens proposed a budget that keeps property taxes flat despite the city facing a significant deficit.
 Why does Maurice Brown support this budget?
@@ -49,4 +48,6 @@ It avoids unnecessary tax increases while acknowledging the real financial press
 What role should New York State play in helping Syracuse?
 New York State Assembly and state leaders can help cities like Syracuse by investing more in housing, infrastructure, and public transportation so local governments are not forced into impossible financial decisions.
 Does Bill Magnarelli have an opinion on the Syracuse City Budget?
-Assemblyman William Magnarelli does not have an official stance on the Syracuse city budget
+Assemblyman William Magnarelli does not have an official stance on the Syracuse city budget ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

@@ -1,16 +1,62 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/SwansonForOhio",
-"https://instagram.com/electdaveswanson",
-"https://secure.actblue.com/donate/daveswanson81st",
-"https://swansonforohio.com/",
-"https://swansonforohio.com/contact",
-"https://swansonforohio.com/endorsements",
-"https://swansonforohio.com/events",
-"https://swansonforohio.com/get-a-yard-sign",
-"https://swansonforohio.com/issues",
-"https://swansonforohio.com/make-a-plan-to-vote",
-"https://swansonforohio.com/privacy-policy",
-"https://swansonforohio.com/volunteer",
-"https://youtube.com/@SwansonForOhio"
+{
+"text": "Contact Us",
+"href": "https://www.swansonforohio.com/contact"
+},
+{
+"text": "Dave's Values",
+"href": "https://www.swansonforohio.com/issues"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/daveswanson81st"
+},
+{
+"text": "Endorsements",
+"href": "https://www.swansonforohio.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.swansonforohio.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.swansonforohio.com/volunteer"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://www.swansonforohio.com/get-a-yard-sign"
+},
+{
+"text": "Issues",
+"href": "https://www.swansonforohio.com/issues"
+},
+{
+"text": "Plan to Vote",
+"href": "https://www.swansonforohio.com/make-a-plan-to-vote"
+},
+{
+"text": "Privacy & Terms",
+"href": "https://www.swansonforohio.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Dave Swanson for Ohio House District 81]",
+"href": "https://www.swansonforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SwansonForOhio"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/electdaveswanson"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@SwansonForOhio"
+}
 ]

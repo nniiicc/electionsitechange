@@ -1,5 +1,4 @@
-Early Life
-Joshua Brant was born in January 1982, and grew up in Lafayette, Indiana.
+For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH The Candidate Early Life Joshua Brant was born in January 1982, and grew up in Lafayette, Indiana.
 His parents married when he was about two years old and then divorced about two years later with a little brother on the way.
 His first core memory was the violent exchange between his parents on the day his mother left his father.
 In the years that followed, Joshua and his younger brother would be subjected to various forms of abuse and dysfunction as the toxic divorce took its toll on the whole family.
@@ -8,7 +7,7 @@ Joshua’s father came from a German-Irish heritage and is probably where the AD
 His own upbringing was far more abusive than Joshua’s and his mother divorced his father in a time when women just didn’t do that.
 When he was 18, he set out on his own and moved to California.
 He returned a few years later and met Joshua’s mother while they were both in their ‘partying’ years.
-Joshua’s mother came from an Irish-Indigenous heritage, with her father being a part of the Great Hillbilly Migration to Indiana from Tennessee in the 20th century and her mother descending from the native people of Indiana.
+Joshua’s mother came from an Irish-Indigenous heritage , with her father being a part of the Great Hillbilly Migration to Indiana from Tennessee in the 20th century and her mother descending from the native people of Indiana.
 Her own childhood had been marked by a terrible burn as a child, and a lot of complicated fallout afterwards that led to subsequent compounding traumas.
 Neither of Joshua’s parents were ready to be parents, but they tried to make it work anyway.
 For the first few years, the new family lived in a small trailer.
@@ -41,8 +40,7 @@ By the time he reached high school, Joshua was so burned out, depressed, and dis
 His grades had plummeted, and he had turned to using drugs & alcohol as a coping mechanism.
 It was so bad that one of his teachers even suggested he drop out and get his GED.
 It wasn’t until the attack on 9/11 and his commitment to join the Marine Corps that his life began to take direction again.
-Marine Corps
-After the attack on the Twin Towers on September 11th, Joshua attempted to enlist in the Marine Corps Infantry, but the recruiter wouldn’t hear of it after seeing his ASVAB scores.
+Marine Corps After the attack on the Twin Towers on September 11th, Joshua attempted to enlist in the Marine Corps Infantry, but the recruiter wouldn’t hear of it after seeing his ASVAB scores.
 He was given free rein to choose from any 3 jobs in the Marine Corps, and then he was shuffled into Aviation due to youthful naivety and a little recruit trickery (IYKYK).
 Nevertheless, Joshua set out to serve however his country needed him, but ADHD was a disqualifying condition.
 The only way he could serve was to hide this fact, which meant he would face one of the toughest challenges a person could go through without access to medications that put him on an even playing field for an extended period of time.
@@ -56,22 +54,19 @@ Due to a combination of circumstances, Joshua didn’t end up deploying to the M
 For Joshua, his great sacrifice will always be those last few years with one of the most important and beloved people in his life.
 Between that and the continued toll of forcing himself to conform to such a rigid lifestyle without the aid of medication, he decided to leave active-duty service.
 After attaining the rank of Corporal, Joshua separated from the Marine Corps with an Honorable Discharge after 5 years.
-Education
-After leaving the service, Joshua returned home to Indiana and began studying business at Ivy Tech Community College during the day while working odd jobs at night.
+Education damienbowman · Jim Nabors – Back Home Again in Indiana After leaving the service, Joshua returned home to Indiana and began studying business at Ivy Tech Community College during the day while working odd jobs at night.
 An unexpected segue from private security into manufacturing led to him taking part in a manufacturing management summer internship program through a factory in nearby Frankfort, Indiana.
 He then went on to work at Subaru of Indiana Automotive, where he continued his education.
 Building on his leadership training from the service, some civilian supervisory experience, and what he’d picked up from the internship, Joshua began to incorporate more elements of leadership into his studies, and even some engineering as he moved up in the company.
 He received an Organizational Leadership Certificate from Purdue in 2022, and his Associate of Science in Business Management in 2023.
-Career
-After leaving the Marine Corps, Joshua Brant worked odd jobs while going back to school.
+Career After leaving the Marine Corps, Joshua Brant worked odd jobs while going back to school.
 One of which was private security, which is what led to him working in manufacturing.
 After rising to a supervisory role, Joshua was invited by one of his company’s clients to take part in a manufacturing management internship program, where he was given glimpses into all of the different facets and departments of manufacturing.
 After the internship ended, he went to work for Subaru of Indiana Automotive, where he worked for about ten years.
 During his time at SIA, Joshua worked in multiple areas within his shop, learned many jobs, earned several internal certifications, and worked his way up to team leader before being accepted for a role in Maintenance.
 Unfortunately, before Joshua was able to start the Maintenance role, two special needs children that attended his wife’s daycare were taken into custody by the state, and DCS asked the Brant family if they could take them in; implying that the children had nobody else that could take them and that they would otherwise be separated.
 After considering that the kids needed him more than Subaru did, seeing how much supervision and care the kids required, and discussing it with his wife, Joshua made the choice to leave the factory life behind him.
-Fostering
-Joshua Brant had always aspired to be the kind of support that his own uncle had been for him, so it didn’t take much to convince him, when he and his wife were dating, to foster children for the state.
+Fostering Joshua Brant had always aspired to be the kind of support that his own uncle had been for him, so it didn’t take much to convince him, when he and his wife were dating, to foster children for the state.
 Together, they saw plenty of examples of situations where DCS was both necessary and government overreach, but they always tried to put the needs of the children first.
 After a particular case in which the biological parent began to target Joshua & Kayla as part of their efforts to get their kid back, instead of just doing what the courts said, they decided to leave fostering behind them.
 It wasn’t until the state of Indiana asked the couple, several years later, to take in a special needs brother and sister that they considered fostering again.
@@ -85,8 +80,7 @@ He chose family over career.
 Unfortunately, an unintended pregnancy would change everything, and Joshua would have to make one of the hardest decisions of his life: He had to ask that the children be removed, and another placement be found for them.
 Between the eldest child’s behaviors and the difficulties of his wife’s previous pregnancy (with their son), it was unlikely to be a healthy environment for anybody involved.
 The weight of this decision would go on to haunt Joshua through three consecutive miscarriages, and Joshua swore off of fostering forever.
-Family Life
-Joshua met his wife, Kayla, in 2013 at Barnes & Noble by the Mall in Lafayette.
+Family Life Joshua met his wife, Kayla, in 2013 at Barnes & Noble by the Mall in Lafayette.
 They had coffee together and bonded over nerdy things in the aisles between books and stories of days gone by.
 They had maybe two dates before Joshua’s summer shutdown from the Subaru plant, and somehow, they went from spending every day of that shutdown together to just moving in together in about two weeks.
 Kayla blames the cats.
@@ -103,15 +97,12 @@ In December of 2019, Kayla gave birth to their son James; named after his uncle.
 James is such a special little boy.
 He’s got his Great Grandma Ferry’s eyes and his father’s orneriness.
 His dad would say he’s got his mother’s mischievous side too, for double the trouble.
-It’s true what they say, though…
-They grow up too fast.
+It’s true what they say, though… They grow up too fast.
 Blink and you miss it.
-And just when you think you got it all figured out…
-Life throws you a little curveball.
+And just when you think you got it all figured out… Life throws you a little curveball.
 The Brant family is currently in the process of adopting Joshua’s niece, which is why her face has to be blurred out for the time being, unfortunately.
 The family is coming together nicely, though, and they are ready to see where this next chapter takes them.
-Faith
-Joshua’s faith is rooted in a Southern Baptist upbringing, but disagreements with the church pushed the family away from brick & mortar worship pretty early on.
+Faith Joshua’s faith is rooted in a Southern Baptist upbringing, but disagreements with the church pushed the family away from brick & mortar worship pretty early on.
 By the time his parents remarried, Joshua began to question his faith altogether.
 At that age, he just couldn’t understand how a good and just God would subject him & his brother to so much suffering.
 For a time, he rejected religion altogether and even declared himself an atheist, but when he was introduced to the concept of agnosticism, he realized that his faith was still alive & well.
@@ -134,8 +125,7 @@ It is a detachment from one’s own id, the part of us that drives basic instinc
 Joshua has found a great deal of inner peace through this philosophy of unselfing.
 Though he had already entertained the idea of running for office, Joshua credits the lifestyle change as the deciding factor for actually taking concrete steps towards running.
 He recognizes that the road ahead will be filled with criticisms, insults, attacks on his character, and possibly worse, but he believes wholeheartedly that a little bit of selflessness is just what this country needs.
-Politics
-It was our nation’s invasion of Iraq that inspired Joshua to start taking more of an interest in the actions of our government.
+Politics It was our nation’s invasion of Iraq that inspired Joshua to start taking more of an interest in the actions of our government.
 They announced we would be going to Iraq while he was in bootcamp, and it almost seemed like a bait & switch scam to him.
 He had joined the service to defend America after the attacks on 9/11, but Iraq didn’t seem to have anything to do with that.
 Of course, now we know that we were sold on a lie to fight another nation’s war for them.
@@ -222,15 +212,14 @@ This isn’t about one party over another, and Joshua isn’t asking anybody to 
 This is about recognizing that things are spiraling out of control.
 This is about a man answering a call to service for his country, as he did after 9/11, and making sure the last few years he lost with his grandmother during that time weren’t in vain.
 This is about handling our business, walking our own path, and not letting anyone push us around.
-Let Freedom Ring…
-Campaign
-In addition to the priorities outlined HERE, Joshua Brant vows to run on these 3 Guiding Principles:
-- Reunification: Focusing on common goals and bringing Americans together.
-- Maximum Transparency/Anti-Corruption: These things go hand-in-hand.
-- Paving the Way for a More Prosperous & Virtuous Nation for All.
-Vision For The Future
-Joshua Brant envisions a future America that serves the needs of all Americans, and Americans First.
+Let Freedom Ring… Campaign In addition to the priorities outlined HERE , Joshua Brant vows to run on these 3 Guiding Principles: Reunification: Focusing on common goals and bringing Americans together.
+Maximum Transparency/Anti-Corruption: These things go hand-in-hand.
+Paving the Way for a More Prosperous & Virtuous Nation for All.
+Vision For The Future Joshua Brant envisions a future America that serves the needs of all Americans, and Americans First.
 He believes in an America where the needs of the many need not be weighed against the needs of the few.
 Most importantly, he believes in a strong, virtuous, and United States of America.
-“Why settle for GREAT when we can Do Better?”
-~Joshua Brant
+“Why settle for GREAT when we can Do Better?” ~Joshua Brant Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Type your email… Subscribe Recent posts Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Summit Summation Part 2 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
+Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

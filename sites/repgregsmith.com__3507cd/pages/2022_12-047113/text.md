@@ -1,14 +1,8 @@
-Press Release: Busy Day at the Capitol
-FOR IMMEDIATE RELEASE:
-December 9, 2022
-SALEM, Ore. – Today, the Joint Emergency Board voted both to increase the federal funds capital construction expenditure limitation by $404,000 for the Modified Record Fire Range at the Rees Training Center and to increase the other funds expenditure limitation for the Department of Public Safety Standards and Training by $1,280,000 for two additional Basic Police courses.
-“This funding was passed to increase public safety efforts in the State of Oregon” said Representative Greg Smith (R-Heppner) “As Co-Chair of the General Government Subcommittee of the Joint Emergency Board, it was my pleasure to spearhead additional public safety measures in District 57 and the State of Oregon”.
-Representative Greg Smith is currently serving his eleventh term as an Oregon State Representative, making him the longest serving member in the House of Representatives.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Busy Day at the Capitol December 9, 2022 / in News FOR IMMEDIATE RELEASE : December 9, 2022 Busy Day at the Capitol SALEM, Ore. – Today, t he Joint Emergency Board voted both to i ncrease the federal funds capital construction expenditure limitation by $404,000 for the Modified Record Fire Range at the Rees Training Center and to increase the other funds expenditure limitation for the Department of Public Safety Standards and Training by $1,280,000 for two additional Basic Police courses.
+“This funding was passed to increase public safety efforts in the State of Oregon” said Representative Greg Smith (R-Heppner) “As Co-Chair of the General Government Subcommittee of the Joint Emergency Board, it was my pleasure to spearhead additional public safety measures in District 57 and the State of Oregon ”.
+Representative Greg Smith is currently serving his eleventh term as a n Oregon State Representative, making him the longest serving member in the House of Representatives.
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
-Additionally, he is the ranking member on the House Revenue and Joint Legislative Audits Committees.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+Additional ly, he is the ranking member on the House Revenue and Joint Legislative Audits Committees.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-12-09 11:13:33 2023-10-02 11:14:43 Press Release: Busy Day at the Capitol July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

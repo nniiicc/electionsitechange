@@ -1,4 +1,3 @@
-Back to All Events
-July 4th Schedule: Parade
-Later Event: August 26
-2024 Sunset Cruise Bash
+Home About About Matt Sign Up Contact Vote New Events Issues Get Involved Useful Links Maine State Legislature Maine Senate Republicans Maine GOP SHOP Donate Home About About Matt Sign Up Contact Vote New Events Issues Get Involved Useful Links Maine State Legislature Maine Senate Republicans Maine GOP SHOP Donate Back to All Events Sanford Independence Day Parade Thursday, July 4, 2024 9:00 AM 12:00 PM 09:00 12:00 Sanford, ME 04073 USA (map) Google Calendar ICS Join us in the Parade!
+Sign up on our website: www.Harringtonformaine.com July 4th Schedule: Parade 9:00am - Parade Line Up Starts 10:00 - Parade Starts Later Event: August 26 2024 Sunset Cruise Bash Donate Today!
+Back to Top Paid for and Authorized by the Committee to Elect Matt Harrington, Donna Ring Treasurer.

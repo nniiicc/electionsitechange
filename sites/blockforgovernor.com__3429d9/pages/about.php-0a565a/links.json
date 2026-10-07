@@ -1,15 +1,58 @@
 [
-"https://blockforgovernor.com/",
-"https://blockforgovernor.com/about.php",
-"https://blockforgovernor.com/donate.php",
-"https://blockforgovernor.com/event.php",
-"https://blockforgovernor.com/issues.php",
-"https://blockforgovernor.com/kenbehonest.php",
-"https://blockforgovernor.com/media.php",
-"https://blockforgovernor.com/poll-results.php",
-"https://blockforgovernor.com/privacy-policy.php",
-"https://blockforgovernor.com/terms-of-use.php",
-"https://facebook.com/KenBlockRI",
-"https://instagram.com/kenblock_ri",
-"https://x.com/KenBlockRI"
+{
+"text": "About",
+"href": "https://www.blockforgovernor.com/about.php"
+},
+{
+"text": "Appearances",
+"href": "https://www.blockforgovernor.com/event.php"
+},
+{
+"text": "Donate",
+"href": "https://www.blockforgovernor.com/donate.php"
+},
+{
+"text": "Home",
+"href": "https://www.blockforgovernor.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.blockforgovernor.com/issues.php"
+},
+{
+"text": "Ken I Be Honest",
+"href": "https://www.blockforgovernor.com/kenbehonest.php"
+},
+{
+"text": "Media & Press",
+"href": "https://www.blockforgovernor.com/media.php"
+},
+{
+"text": "Polls",
+"href": "https://www.blockforgovernor.com/poll-results.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.blockforgovernor.com/privacy-policy.php"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.blockforgovernor.com/terms-of-use.php"
+},
+{
+"text": "[image]",
+"href": "https://www.blockforgovernor.com/"
+},
+{
+"text": "[tooltip: Facebook: @KenBlockRI]",
+"href": "https://www.facebook.com/KenBlockRI"
+},
+{
+"text": "[tooltip: Instagram: @KenBlock_RI]",
+"href": "https://instagram.com/kenblock_ri"
+},
+{
+"text": "[tooltip: X: @KenBlockRI]",
+"href": "https://x.com/KenBlockRI"
+}
 ]

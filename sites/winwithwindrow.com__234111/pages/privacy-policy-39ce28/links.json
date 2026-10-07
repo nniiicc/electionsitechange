@@ -1,8 +1,38 @@
 [
-"http://instagram.com/winwithwindrow",
-"http://winwithwindrow.com/",
-"https://forms.gle/rAn4tYLJ2nZuzQiM9",
-"https://secure.actblue.com/donate/brett-windrow-1",
-"https://winwithwindrow.com/",
-"https://winwithwindrow.com/privacy-policy"
+{
+"text": "Brett Windrow © #",
+"href": "https://winwithwindrow.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/brett-windrow-1"
+},
+{
+"text": "Envelope",
+"href": "mailto:winwithwindrow@gmail.com"
+},
+{
+"text": "Home",
+"href": "http://winwithwindrow.com"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/winwithwindrow"
+},
+{
+"text": "Privacy Policy",
+"href": "https://winwithwindrow.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/rAn4tYLJ2nZuzQiM9"
+},
+{
+"text": "[image: Brett-Windrow_Wordmark_Cream]",
+"href": "https://winwithwindrow.com"
+},
+{
+"text": "[image]",
+"href": "http://winwithwindrow.com"
+}
 ]

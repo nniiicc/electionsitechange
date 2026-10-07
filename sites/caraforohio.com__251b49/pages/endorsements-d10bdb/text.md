@@ -1,13 +1,4 @@
-Endorsements: Organizations
-Endorsements: Elected officials
-Hamilton County Auditor Jessica Miranda
-State Representative Karen Brownlee (HD28)
-State Representative Rachel Baker (HD27)
-Hamilton County Clerk of Courts Pavan Parikh
-State Representative Dr.
-Anita Somani (HD08)
-Deer Park City Councilmember Neil Kelly
-OH House Minority Leader Dani Isaacsohn (HD24)
-State School Board Member Katie Hofmann
-Mason City Councilmember Joy Bennett
-State Senator Kent Smith (SD21)
+0 Skip to Content About Platform Endorsements Events Store Volunteer Open Menu Close Menu About Platform Endorsements Events Store Volunteer Open Menu Close Menu About Platform Endorsements Events Store Volunteer Endorsements: Organizations Endorsements: Elected officials Hamilton County Auditor Jessica Miranda State Representative Karen Brownlee (HD28) State Representative Rachel Baker (HD27) Hamilton County Clerk of Courts Pavan Parikh State Representative Dr.
+Anita Somani (HD08) Deer Park City Councilmember Neil Kelly OH House Minority Leader Dani Isaacsohn (HD24) State School Board Member Katie Hofmann Mason City Councilmember Joy Bennett State Senator Kent Smith (SD21) Get involved with Team CARA Volunteer Donate Contact Mobile Terms of Service PAID FOR BY FRIENDS OF CARA JACOB 545 E TOWN ST, COLUMBUS, OH 43215 ©# Friends of Cara Jacob.
+All rights reserved.
+Privacy Policy

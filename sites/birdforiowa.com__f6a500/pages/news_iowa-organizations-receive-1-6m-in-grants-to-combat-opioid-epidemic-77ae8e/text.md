@@ -1,4 +1,5 @@
-More than $1.6 million in grants will be distributed to five separate organizations across Iowa to fight opioid addiction, Iowa Attorney General Brenna Bird announced Thursday, Sept. 3, at a news conference.
+Donate Connect with Brenna News Donate News Iowa organizations receive $1.6M in grants to combat opioid epidemic September 3, 2026 Des Moines Register More than $1.6 million in grants will be distributed to five separate organizations across Iowa to fight opioid addiction, Iowa Attorney General Brenna Bird announced Thursday, Sept.
+3, at a news conference.
 Organizations that will receive grants are the Johnson County Sheriff's Office, awarded $6,660; the Boys & Girls Clubs of Central Iowa, awarded $57,000; The Warming Shelter in Sioux City, awarded $304,218; the Cerro Gordo Department of Public Health, awarded $317,344; and St.
 Vincent de Paul, awarded $919,480.
 "These are organizations that are making a big difference to stop that cycle of addiction and to help with prevention and recovery," Bird said.
@@ -14,8 +15,7 @@ St.
 Vincent de Paul offers reentry services with the Polk County Jail and a sobering center, as well as child care, job placement, and training and recovery resources.
 "This grant will allow us to grow our services," CEO Steve Havemann said.
 "Getting folks the treatment, knocking down barriers to housing, workforce training, continuing education, and reentry." Bird said the five organizations are first of many; more grants will be announced on a rolling basis.
-Applicants can apply for a grant at iowadoj.intelligrants.com.
-"[Wel encourage communities from all across Iowa that have a way that they can prevent opioid addiction or help people who are addicted to save lives from overdoses to apply for grants from our office because we know that together, working together as a team, we can combat the opioid crisis," Bird said.
+Applicants can apply for a grant at iowadoj.intelligrants.com. "[Wel encourage communities from all across Iowa that have a way that they can prevent opioid addiction or help people who are addicted to save lives from overdoses to apply for grants from our office because we know that together, working together as a team, we can combat the opioid crisis," Bird said.
 "We've already seen tremendous steps forward, but there's still an awful lot of work to do." In 2021, 258 Iowans died from drug overdoses, according to Bird.
 In 2025, 125 died, she said.
 "Every single number that adds to that total is a person in Iowa and a family member, somebody that we care about.
@@ -23,3 +23,4 @@ But we know every life that is lost to a drug overdose is a preventable tragedy,
 All drug overdose deaths nationwide decreased 23% to 69,172 during the reporting period of August 2024 to August 2025, according to the National Center for Health Statistics.
 Of those, 38,514 were associated with fentanyl, a synthetic opiate, a 34% decrease from the year prior.
 Iowa saw 22 fewer fentanyl deaths during the same time period, a 5.2% decrease.
+Read More Here Share: Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

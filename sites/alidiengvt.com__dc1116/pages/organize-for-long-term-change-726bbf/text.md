@@ -1,4 +1,4 @@
-This moment has been a long time coming.
+Menu Ali Dieng For Vermont House of Representatives – Chittenden 18 Primary Menu Skip to content Home Our Priorities Donate Get Involved Blog Media Search Search for: Call to protestors to pause the protest and organize for long-term systemic change Posted on September 10, 2020 January 6, 2021 Author steve This moment has been a long time coming.
 In 2018, several young black men suffered due to the unnecessary use of force by Burlington police officers.
 As elected officials we were not aware of these incidents until eight months after the incidents occurred and inappropriate discipline had already been applied by the former chief of police and members of the Police Commission.
 There have been multiple attempts to bring about justice for these past incidents without any concrete positive results.
@@ -33,3 +33,7 @@ I will not quit and nobody should, especially now.
 Protestors, please listen to my perspective as a black person.
 Take the energy and passion you have for justice and channel it from protest into organizing.
 It is time to organize for the long-term systemic change we need to create a just and equitable Burlington.
+Categories Ali , blog Post navigation ← Previous Previous post: Let’s Work Together Next → Next post: Open Burning and Outside Fires DONATE I am running for the Vermont House of Representitives - Chittenden 18.
+Please consider making a donation to help our campaign.
+Search for: RESOLUTION Parks Arts and Cutlure Committee To Create A Dog Task Force Priorities Donate Volunteer Media ©# Ali Dieng, All rights reserved.
+Website hosting by Champlain Hosting Scroll Up Home Our Priorities Donate Get Involved Blog Media

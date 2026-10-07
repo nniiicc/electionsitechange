@@ -1,9 +1,12 @@
 {
  "description": "The Monthly Periodical for Representative Jonah Orion Wheeler",
  "final_url": "https://jonahwheeler.com/letters/may-flowers-may-2023",
- "paid_for_by": null,
+ "fingerprint": "714c47a35489cbb713bf79daa80a56f45366c919",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Monthly Letter",
  "years_mentioned": [
-  "2023"
+  "2023",
+  "2024"
  ]
 }

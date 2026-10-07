@@ -1,13 +1,8 @@
-Back to All Events
-Meet Your Blaine and Lexington Community!
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Back to All Events 10/15/2022 Door Knock with Team Norris Saturday, October 15, 2022 10:00 AM 1:00 PM Google Calendar ICS Meet Your Blaine and Lexington Community!
 Volunteers will meet for a brief training before heading out to knock on doors in the area.
 Bring your best walking shoes and enthusiasm!
 Further instruction to be provided via email roughly 24 hours in advance, so watch your email for more info.
 Sign up below to join us!
-Previous
-Previous
-October 12
-10/12/2022 Phone Bank for Team Norris
-Next
-Next
-October 16
+Previous Previous October 12 10/12/2022 Phone Bank for Team Norris Next Next October 16 10/16/2022 Phone Bank for Team Norris Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

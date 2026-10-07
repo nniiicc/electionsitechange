@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.johnsjaarda.net/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "2381115684dea6e0d05836381b5b1b027987cbe2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": [
   "2022"

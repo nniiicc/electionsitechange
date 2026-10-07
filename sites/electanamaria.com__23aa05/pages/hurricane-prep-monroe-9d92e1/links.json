@@ -1,24 +1,106 @@
 [
-"http://monroecounty-fl.gov/148/Special-Needs-Registry",
-"http://monroecounty-fl.gov/894/Get-A-Plan",
-"http://monroecounty-fl.gov/895/Create-an-Emergency-Supply-Kit",
-"https://electanamaria.com/",
-"https://electanamaria.com/about-ana-maria",
-"https://electanamaria.com/es/ana-maria-rodriguez-florida-state-senator-espanol",
-"https://electanamaria.com/hurricane-prep-miami",
-"https://electanamaria.com/hurricane-prep-monroe",
-"https://electanamaria.com/miami-dade-county",
-"https://electanamaria.com/monroe-county",
-"https://electanamaria.com/privacy-policy",
-"https://electanamaria.com/terms-of-service",
-"https://monroecounty-fl.gov/1032/Create-a-Car-Emergency-Kit",
-"https://monroecounty-fl.gov/1214/Hurricane-Prepardness",
-"https://monroecounty-fl.gov/896/Be-Informed---Emergency-Information",
-"https://monroecounty-fl.gov/897/Evacuation-Information",
-"https://monroecounty-fl.gov/898/Hazards",
-"https://monroecounty-fl.gov/916/Obtain-Re-Entry-Vehicle-Windshield-Stick",
-"https://monroecounty-fl.gov/938/Pet-Sheltering",
-"https://monroecounty-fl.gov/992/Shelters",
-"https://ready.gov/kids",
-"https://secure.anedot.com/anamaria/2026"
+{
+"text": "About Ana Maria",
+"href": "https://electanamaria.com/about-ana-maria/"
+},
+{
+"text": "BE INFORMED",
+"href": "https://www.monroecounty-fl.gov/896/Be-Informed---Emergency-Information"
+},
+{
+"text": "CREATE A CAR/TRUCK EMERGENCY KIT",
+"href": "https://www.monroecounty-fl.gov/1032/Create-a-Car-Emergency-Kit"
+},
+{
+"text": "CREATE AN EMERGENCY KIT",
+"href": "http://www.monroecounty-fl.gov/895/Create-an-Emergency-Supply-Kit"
+},
+{
+"text": "Click here",
+"href": "https://www.monroecounty-fl.gov/1214/Hurricane-Prepardness"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/anamaria/2026/"
+},
+{
+"text": "EVACUATION INFORMATION",
+"href": "https://www.monroecounty-fl.gov/897/Evacuation-Information"
+},
+{
+"text": "Español",
+"href": "https://electanamaria.com/es/ana-maria-rodriguez-florida-state-senator-espanol/"
+},
+{
+"text": "FOR KIDS, PARENTS, AND TEACHERS",
+"href": "https://www.ready.gov/kids"
+},
+{
+"text": "GET A PLAN",
+"href": "http://www.monroecounty-fl.gov/894/Get-A-Plan"
+},
+{
+"text": "GET RE-ENTRY STICKERS",
+"href": "https://www.monroecounty-fl.gov/916/Obtain-Re-Entry-Vehicle-Windshield-Stick"
+},
+{
+"text": "HAZARDS",
+"href": "https://www.monroecounty-fl.gov/898/Hazards"
+},
+{
+"text": "Home",
+"href": "https://electanamaria.com/"
+},
+{
+"text": "Miami-Dade County",
+"href": "https://electanamaria.com/miami-dade-county/"
+},
+{
+"text": "Miami-Dade Hurricane Preparedness",
+"href": "https://electanamaria.com/hurricane-prep-miami/"
+},
+{
+"text": "Monroe County",
+"href": "https://electanamaria.com/monroe-county/"
+},
+{
+"text": "Monroe Hurricane Preparedness",
+"href": "https://electanamaria.com/hurricane-prep-monroe/"
+},
+{
+"text": "PROTECTING YOUR PETS",
+"href": "https://www.monroecounty-fl.gov/938/Pet-Sheltering"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electanamaria.com/privacy-policy/"
+},
+{
+"text": "SHELTERS",
+"href": "https://www.monroecounty-fl.gov/992/Shelters"
+},
+{
+"text": "SPECIAL NEEDS REGISTRY",
+"href": "http://www.monroecounty-fl.gov/148/Special-Needs-Registry"
+},
+{
+"text": "Terms of Use",
+"href": "https://electanamaria.com/terms-of-service/"
+},
+{
+"text": "[image: Mobile Logo]",
+"href": "https://electanamaria.com/"
+},
+{
+"text": "[image: logo] [image: dark logo] [image: light logo]",
+"href": "https://electanamaria.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "amr@electanamaria.com",
+"href": "mailto:amr@electanamaria.com"
+}
 ]

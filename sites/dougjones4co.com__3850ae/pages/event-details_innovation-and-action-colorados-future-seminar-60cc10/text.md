@@ -1,7 +1,3 @@
-top of page
-Innovation and Action: Colorado's Future Seminar
-Sat, May 23
-|Innovation Auditorium
-A seminar focused on empowering local action through innovative solutions, with Doug Jones sharing his vision.
-Tickets are not on sale
-bottom of page
+top of page Home Events Blog Notifications Volunteer DONATE Innovation and Action: Colorado's Future Seminar Sat, May 23 | Innovation Auditorium A seminar focused on empowering local action through innovative solutions, with Doug Jones sharing his vision.
+Tickets are not on sale See other events Time & Location May 23, 2026, 12:52 PM – 2:52 PM Innovation Auditorium, Colorado Springs, CO 80910, USA About the event Seminar on local action and innovation Show More Share this event Colorado Springs, CO | Doug Jones for Colorado House District 15 © # All Rights Reserved.
+Paid for by Doug Jones for Colorado. bottom of page

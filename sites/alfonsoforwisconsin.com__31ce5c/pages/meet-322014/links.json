@@ -1,10 +1,42 @@
 [
-"https://alfonsoforwisconsin.com/",
-"https://alfonsoforwisconsin.com/issues",
-"https://alfonsoforwisconsin.com/media",
-"https://alfonsoforwisconsin.com/meet",
-"https://alfonsoforwisconsin.com/privacy-policy",
-"https://facebook.com/AlfonsoforCongress",
-"https://secure.anedot.com/alfonso-victory/donate",
-"https://x.com/mikealfonsowi"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/alfonso-victory/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.alfonsoforwisconsin.com/issues/"
+},
+{
+"text": "Join the Team",
+"href": "https://www.alfonsoforwisconsin.com/media/#join"
+},
+{
+"text": "Media & Endorsements",
+"href": "https://www.alfonsoforwisconsin.com/media/"
+},
+{
+"text": "Meet Michael",
+"href": "https://www.alfonsoforwisconsin.com/meet/"
+},
+{
+"text": "Michael on the Issues",
+"href": "https://www.alfonsoforwisconsin.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.alfonsoforwisconsin.com/privacy-policy"
+},
+{
+"text": "[image: Alfonso Congress logo]",
+"href": "https://www.alfonsoforwisconsin.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/AlfonsoforCongress/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/mikealfonsowi"
+}
 ]

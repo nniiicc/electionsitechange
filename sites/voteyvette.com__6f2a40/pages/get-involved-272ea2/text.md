@@ -1,14 +1,1 @@
-DONATE
-Menu
-Close
-Toggle navigation
-DONATE
-About Yvette
-About Yvette
-Yvette’s Wins
-Issues
-Community Resources
-Get Involved
-Endorsements
-Press
-Get Involved
+DONATE Menu Close Toggle navigation DONATE About Yvette About Yvette Yvette’s Wins Issues Community Resources Get Involved Endorsements Press Get Involved Paid for by Clarke for Congress Built by Veracity Media

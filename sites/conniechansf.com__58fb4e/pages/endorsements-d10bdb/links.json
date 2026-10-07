@@ -1,16 +1,66 @@
 [
-"https://conniechansf.com/",
-"https://conniechansf.com/Chinese",
-"https://conniechansf.com/espaol",
-"https://conniechansf.com/issues",
-"https://conniechansf.com/media",
-"https://conniechansf.com/news",
-"https://conniechansf.com/privacy-policy",
-"https://conniechansf.myshopify.com/",
-"https://facebook.com/conniechansanfrancisco",
-"https://flickr.com/photos/190636507@N04",
-"https://instagram.com/connie_chan_sf",
-"https://secure.actblue.com/donate/chan-website",
-"https://tiktok.com/@connie_chan",
-"https://youtube.com/@ConnieChanSF"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chan-website"
+},
+{
+"text": "Español",
+"href": "https://www.conniechansf.com/espaol"
+},
+{
+"text": "Media",
+"href": "https://www.conniechansf.com/media"
+},
+{
+"text": "Merch Store",
+"href": "https://conniechansf.myshopify.com/"
+},
+{
+"text": "News",
+"href": "https://www.conniechansf.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.conniechansf.com/privacy-policy"
+},
+{
+"text": "Privacy Policy & Terms of Service",
+"href": "https://www.conniechansf.com/privacy-policy"
+},
+{
+"text": "Working People's Plan",
+"href": "https://www.conniechansf.com/issues"
+},
+{
+"text": "[image: Connie Chan for Congress | Proven San Francisco Leader Fighting for Working Families in CA-11]",
+"href": "https://www.conniechansf.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/conniechansanfrancisco"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/190636507@N04/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/connie_chan_sf"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@connie_chan"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ConnieChanSF"
+},
+{
+"text": "campaign@conniechansf.com",
+"href": "mailto:campaign@conniechansf.com"
+},
+{
+"text": "關於陳詩敏",
+"href": "https://www.conniechansf.com/Chinese"
+}
 ]

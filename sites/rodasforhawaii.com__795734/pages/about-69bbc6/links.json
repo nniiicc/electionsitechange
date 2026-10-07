@@ -1,20 +1,90 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSc01JnJ8mSCXs7kvHfKwAQhf_Bby-oJYdC2ChBskTdDLg7CIA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSdVFmHcWGN0OtES2526fq5AcYQ3PlmybPgt9l8g-X7tTgcijQ/viewform",
-"https://facebook.com/voterodas",
-"https://forms.gle/GU1u2ajuceRNYafz5",
-"https://forms.gle/NMbYsGWwv4MsPfM5A",
-"https://forms.gle/SG5kmbhTa1BHL6RQ6",
-"https://forms.gle/gRNmpwj2uWMrhhzs6",
-"https://forms.gle/ysnnHVmWWMxv69qHA",
-"https://instagram.com/voterodas",
-"https://olvr.hawaii.gov/",
-"https://rodasforhawaii.com/",
-"https://rodasforhawaii.com/about",
-"https://rodasforhawaii.com/accessibility-statement",
-"https://rodasforhawaii.com/community-events",
-"https://rodasforhawaii.com/post/library-fix-exposes-a-bigger-problem",
-"https://rodasforhawaii.com/privacy-policy",
-"https://rodasforhawaii.com/terms-and-conditions",
-"https://secure.anedot.com/rodas-for-hawaii/donate"
+{
+"text": "About Me",
+"href": "https://www.rodasforhawaii.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.rodasforhawaii.com/accessibility-statement"
+},
+{
+"text": "Community Events",
+"href": "https://www.rodasforhawaii.com/community-events"
+},
+{
+"text": "Community News",
+"href": "https://www.rodasforhawaii.com/post/library-fix-exposes-a-bigger-problem"
+},
+{
+"text": "Community Survey",
+"href": "https://forms.gle/gRNmpwj2uWMrhhzs6"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/rodas-for-hawaii/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdVFmHcWGN0OtES2526fq5AcYQ3PlmybPgt9l8g-X7tTgcijQ/viewform"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://forms.gle/NMbYsGWwv4MsPfM5A"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://forms.gle/SG5kmbhTa1BHL6RQ6"
+},
+{
+"text": "Get Your Free Bumper Sticker",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSc01JnJ8mSCXs7kvHfKwAQhf_Bby-oJYdC2ChBskTdDLg7CIA/viewform"
+},
+{
+"text": "JOIN THE MOVEMENT",
+"href": "https://forms.gle/ysnnHVmWWMxv69qHA"
+},
+{
+"text": "More",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rodasforhawaii.com/privacy-policy"
+},
+{
+"text": "READ WHY I'M RUNNING",
+"href": "https://www.rodasforhawaii.com/about#Section%208"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "STAY IN TOUCH",
+"href": "mailto:ale@rodasforhawaii.com?subject=Aloha+%27Ale%21"
+},
+{
+"text": "Stay Informed >>",
+"href": "https://forms.gle/GU1u2ajuceRNYafz5"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.rodasforhawaii.com/terms-and-conditions"
+},
+{
+"text": "[image: Rodas 2026.png]",
+"href": "https://www.rodasforhawaii.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voterodas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voterodas/"
+},
+{
+"text": "ale@rodasforhawaii.com",
+"href": "https://forms.gle/GU1u2ajuceRNYafz5"
+}
 ]

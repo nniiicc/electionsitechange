@@ -1,21 +1,102 @@
 [
-"https://ashleybeanthornton.com/es",
-"https://ashleybeanthornton.com/es/blog",
-"https://ashleybeanthornton.com/es/construye-el-texas",
-"https://ashleybeanthornton.com/es/descargo-de-responsabilidad",
-"https://ashleybeanthornton.com/es/donar",
-"https://ashleybeanthornton.com/es/economia-de-texas",
-"https://ashleybeanthornton.com/es/escuelas-publicas",
-"https://ashleybeanthornton.com/es/la-economia-de-texas-deberia-funcionar-para-todos-nosotros",
-"https://ashleybeanthornton.com/es/mantente-informado",
-"https://ashleybeanthornton.com/es/politica-de-privacidad",
-"https://ashleybeanthornton.com/es/terminos-de-servicio",
-"https://ashleybeanthornton.com/es/trabajar-juntos",
-"https://ashleybeanthornton.com/es/voluntario",
-"https://ashleybeanthornton.com/texas-economy",
-"https://digitalmediabutterfly.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfphAk0jaOzBtCjSFXqzUPm_ktb3To70vRNxnz59sKJDp9peQ/viewform?pli=1",
-"https://facebook.com/ThorntonForTexas",
-"https://instagram.com/thorntonfortexas",
-"https://store.holeintheroof.com/ashleybeanthornton/shop/products/all?page=1"
+{
+"text": "Blog",
+"href": "https://ashleybeanthornton.com/es/blog/"
+},
+{
+"text": "Boletín informativo",
+"href": "https://ashleybeanthornton.com/es/mantente-informado/"
+},
+{
+"text": "Descargo de responsabilidad",
+"href": "https://ashleybeanthornton.com/es/descargo-de-responsabilidad/"
+},
+{
+"text": "Donar",
+"href": "https://ashleybeanthornton.com/es/donar/"
+},
+{
+"text": "El Texas que queremos",
+"href": "https://ashleybeanthornton.com/es/construye-el-texas/"
+},
+{
+"text": "Escuelas públicas sólidas",
+"href": "https://ashleybeanthornton.com/es/escuelas-publicas/"
+},
+{
+"text": "FB",
+"href": "https://www.facebook.com/ThorntonForTexas/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ThorntonForTexas/"
+},
+{
+"text": "IG",
+"href": "https://www.instagram.com/thorntonfortexas/"
+},
+{
+"text": "Info@AshleyBeanThornton.com",
+"href": "mailto:info@ashleybeanthornton.com"
+},
+{
+"text": "Inicio",
+"href": "https://ashleybeanthornton.com/es/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/thorntonfortexas/"
+},
+{
+"text": "La Economía de Texas",
+"href": "https://ashleybeanthornton.com/es/economia-de-texas/"
+},
+{
+"text": "Letrero de jardín",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfphAk0jaOzBtCjSFXqzUPm_ktb3To70vRNxnz59sKJDp9peQ/viewform?pli=1"
+},
+{
+"text": "Mariposa de los medios digitales",
+"href": "https://digitalmediabutterfly.com"
+},
+{
+"text": "Política de privacidad",
+"href": "https://ashleybeanthornton.com/es/politica-de-privacidad/"
+},
+{
+"text": "Profundizar",
+"href": "https://ashleybeanthornton.com/es/la-economia-de-texas-deberia-funcionar-para-todos-nosotros/"
+},
+{
+"text": "Suscríbete al boletín informativo",
+"href": "https://ashleybeanthornton.com/es/mantente-informado/"
+},
+{
+"text": "Tienda",
+"href": "https://store.holeintheroof.com/ashleybeanthornton/shop/products/all?page=1"
+},
+{
+"text": "Trabajando juntos",
+"href": "https://ashleybeanthornton.com/es/trabajar-juntos/"
+},
+{
+"text": "Términos del servicio",
+"href": "https://ashleybeanthornton.com/es/terminos-de-servicio/"
+},
+{
+"text": "Voluntario",
+"href": "https://ashleybeanthornton.com/es/voluntario/"
+},
+{
+"text": "[image]",
+"href": "https://ashleybeanthornton.com/es/"
+},
+{
+"text": "[image] English",
+"href": "https://ashleybeanthornton.com/texas-economy/"
+},
+{
+"text": "[image] Spanish",
+"href": "https://ashleybeanthornton.com/es/economia-de-texas/"
+}
 ]

@@ -1,37 +1,154 @@
 [
-"https://priscillaghaznaviforcongress.com/",
-"https://priscillaghaznaviforcongress.com/arabic",
-"https://priscillaghaznaviforcongress.com/bengali",
-"https://priscillaghaznaviforcongress.com/castellano-spanish-2",
-"https://priscillaghaznaviforcongress.com/chinese-simplified",
-"https://priscillaghaznaviforcongress.com/community-concerns-1",
-"https://priscillaghaznaviforcongress.com/donate",
-"https://priscillaghaznaviforcongress.com/english",
-"https://priscillaghaznaviforcongress.com/farsi",
-"https://priscillaghaznaviforcongress.com/filipino",
-"https://priscillaghaznaviforcongress.com/greek",
-"https://priscillaghaznaviforcongress.com/haitian-creole",
-"https://priscillaghaznaviforcongress.com/hindi",
-"https://priscillaghaznaviforcongress.com/italian",
-"https://priscillaghaznaviforcongress.com/korea",
-"https://priscillaghaznaviforcongress.com/m/account",
-"https://priscillaghaznaviforcongress.com/m/create-account",
-"https://priscillaghaznaviforcongress.com/m/orders",
-"https://priscillaghaznaviforcongress.com/polish",
-"https://priscillaghaznaviforcongress.com/portuguese",
-"https://priscillaghaznaviforcongress.com/privacy-policy-1",
-"https://priscillaghaznaviforcongress.com/russian",
-"https://priscillaghaznaviforcongress.com/shop?olsPage=cart",
-"https://priscillaghaznaviforcongress.com/urdu",
-"https://priscillaghaznaviforcongress.com/volunteer",
-"https://priscillaghaznaviforcongress.com/yiddish",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=10",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=100",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=1000",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=25",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=250",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=3",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=50",
-"https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=500"
+{
+"text": "Arabic",
+"href": "https://priscillaghaznaviforcongress.com/arabic"
+},
+{
+"text": "Bengali",
+"href": "https://priscillaghaznaviforcongress.com/bengali"
+},
+{
+"text": "Build Momentum!",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=50"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate"
+},
+{
+"text": "Castellano (Spanish)",
+"href": "https://priscillaghaznaviforcongress.com/castellano-spanish-2"
+},
+{
+"text": "Chinese (Simplified)",
+"href": "https://priscillaghaznaviforcongress.com/chinese-simplified"
+},
+{
+"text": "Choose your amount $____",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate"
+},
+{
+"text": "Community Concerns",
+"href": "https://priscillaghaznaviforcongress.com/community-concerns-1"
+},
+{
+"text": "Create Account",
+"href": "https://priscillaghaznaviforcongress.com/m/create-account"
+},
+{
+"text": "Donate",
+"href": "https://priscillaghaznaviforcongress.com/donate"
+},
+{
+"text": "English",
+"href": "https://priscillaghaznaviforcongress.com/english"
+},
+{
+"text": "Farsi",
+"href": "https://priscillaghaznaviforcongress.com/farsi"
+},
+{
+"text": "Filipino",
+"href": "https://priscillaghaznaviforcongress.com/filipino"
+},
+{
+"text": "Find out more",
+"href": "https://priscillaghaznaviforcongress.com/donate"
+},
+{
+"text": "For Our Future!",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=100"
+},
+{
+"text": "Fuel the campaign!",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=25"
+},
+{
+"text": "Greek",
+"href": "https://priscillaghaznaviforcongress.com/greek"
+},
+{
+"text": "Haitian Creole",
+"href": "https://priscillaghaznaviforcongress.com/haitian-creole"
+},
+{
+"text": "Hindi",
+"href": "https://priscillaghaznaviforcongress.com/hindi"
+},
+{
+"text": "Home",
+"href": "https://priscillaghaznaviforcongress.com/"
+},
+{
+"text": "I'm in!",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=3"
+},
+{
+"text": "Italian",
+"href": "https://priscillaghaznaviforcongress.com/italian"
+},
+{
+"text": "Korea",
+"href": "https://priscillaghaznaviforcongress.com/korea"
+},
+{
+"text": "Let's get this started!",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=10"
+},
+{
+"text": "Let's get this started!",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=250"
+},
+{
+"text": "Let's make history!",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=500"
+},
+{
+"text": "Let's win this!",
+"href": "https://secure.anedot.com/priscilla-ghaznavi-for-congress/donate?amount=1000"
+},
+{
+"text": "My Account",
+"href": "https://priscillaghaznaviforcongress.com/m/account"
+},
+{
+"text": "Orders",
+"href": "https://priscillaghaznaviforcongress.com/m/orders"
+},
+{
+"text": "Polish",
+"href": "https://priscillaghaznaviforcongress.com/polish"
+},
+{
+"text": "Portuguese",
+"href": "https://priscillaghaznaviforcongress.com/portuguese"
+},
+{
+"text": "Privacy Policy",
+"href": "https://priscillaghaznaviforcongress.com/privacy-policy-1"
+},
+{
+"text": "Russian",
+"href": "https://priscillaghaznaviforcongress.com/russian"
+},
+{
+"text": "Sign In",
+"href": "https://priscillaghaznaviforcongress.com/m/account"
+},
+{
+"text": "Urdu",
+"href": "https://priscillaghaznaviforcongress.com/urdu"
+},
+{
+"text": "Volunteer",
+"href": "https://priscillaghaznaviforcongress.com/volunteer"
+},
+{
+"text": "Yiddish",
+"href": "https://priscillaghaznaviforcongress.com/yiddish"
+},
+{
+"text": "[no text]",
+"href": "https://priscillaghaznaviforcongress.com/shop?olsPage=cart"
+}
 ]

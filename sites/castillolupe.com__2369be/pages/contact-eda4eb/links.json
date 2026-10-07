@@ -1,11 +1,46 @@
 [
-"https://castillolupe.com/",
-"https://castillolupe.com/?page_id=443",
-"https://castillolupe.com/about",
-"https://castillolupe.com/contact",
-"https://castillolupe.com/latest-news",
-"https://castillolupe.com/values",
-"https://instagram.com/castillolupe4",
-"https://x.com/castillolupe4",
-"https://youtube.com/@castillolupe4"
+{
+"text": "Checkout",
+"href": "https://castillolupe.com/?page_id=443"
+},
+{
+"text": "Contact",
+"href": "https://castillolupe.com/contact/"
+},
+{
+"text": "Follow me on Instagram",
+"href": "https://www.instagram.com/castillolupe4"
+},
+{
+"text": "Follow me on Twitter",
+"href": "https://x.com/castillolupe4"
+},
+{
+"text": "Follow me on YouTube",
+"href": "https://www.youtube.com/@castillolupe4"
+},
+{
+"text": "Get Involved",
+"href": "https://castillolupe.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://castillolupe.com/"
+},
+{
+"text": "Meet Lupe",
+"href": "https://castillolupe.com/about/"
+},
+{
+"text": "News",
+"href": "https://castillolupe.com/latest-news/"
+},
+{
+"text": "Values",
+"href": "https://castillolupe.com/values/"
+},
+{
+"text": "[image: lupe castillo logo share]",
+"href": "https://castillolupe.com/"
+}
 ]

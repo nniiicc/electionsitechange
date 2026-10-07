@@ -1,8 +1,26 @@
 [
-"https://alaskansforgenevieve.com/",
-"https://alaskansforgenevieve.com/about",
-"https://alaskansforgenevieve.com/cart",
-"https://alaskansforgenevieve.com/contact-us",
-"https://facebook.com/minagenevieve",
-"https://twitter.com/spifffy"
+{
+"text": "0",
+"href": "https://alaskansforgenevieve.com/cart"
+},
+{
+"text": "About",
+"href": "https://alaskansforgenevieve.com/about"
+},
+{
+"text": "Contact",
+"href": "https://alaskansforgenevieve.com/contact-us"
+},
+{
+"text": "[image: Alaskans for Genevieve]",
+"href": "https://alaskansforgenevieve.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/spifffy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/minagenevieve"
+}
 ]

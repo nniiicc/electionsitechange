@@ -1,36 +1,9 @@
-News from the State Capitol | October 2023
-Updated: May 6, 2024
-The Georgia General Assembly completed the 2023 legislative session on Wednesday, March 29th.
+top of page DONATE Home About News & Announcements Community Awards District 60 | 2022 Race 2022 Endorsements Events Free Services & Programs Contact All Posts Capitol News Community Event Legislation Search News from the State Capitol | October 2023 Sheila Jones Oct 31, 2023 2 min read Updated: May 6, 2024 The Georgia General Assembly completed the 2023 legislative session on Wednesday, March 29th.
 I have returned home to District 60 (Fulton County: city of Atlanta & city of South Fulton) to spend more time in our community.
 During the 40 legislative days that spanned over three months, my colleagues and I worked diligently to pass impactful and beneficial legislation on behalf of our constituents.
 As a result, the House sent 87 general bills, 183 local bills and three resolutions to the governor for his consideration (this does not include any Senate legislation that received final passage).
 Some of the Bills that have been signed by the governor.
-State Government
-- HB 373 – Sponsored by Rep.
-Sheila Jones
-- Designating September 11 of each year as "First Responders Appreciation Day" in Georgia
-- Thank you Audraine Jackson for asking me to introduce this important legislation
-Voting and Elections
-- SB 129 - relating to primaries & elections generally; provide time off for employees to advance vote
-Judiciary Non-Civil/ Public Safety
-- HB 497 - authorize the use of certified medication aides in penal institutions
-- SB 11 – enact Georgia Fights Terrorism Act
-- SB 44 - mandatory minimum penalties for violations of the Street Gang Terrorism and Prevention Act
-- SB 60 - illegal for certain persons to purchase, possess, obtain, or sell or attempt to purchase, possess, obtain, or sell used, detached catalytic converters, used utility wire, or used communications copper
-- SB 68 - include the offense of dogfighting as racketeering activity
-- SB 155 - provide for offense of interfering w/ harming a public safety animal/ search & rescue animal
-SB 218 - provide for the issuance of identification cards to persons completing a term of incarceration
-Other Bills Signed by the Governor
-K-12 Education
-- HB 147 – enact Safe Schools Act; provide for a school safety anti-gang endorsement for eligible certificated professional personnel and
-- HB 340 - provide for daily duty-free planning periods for teachers in grades six through 12
-- HB 538 - provide for the "Georgia Early Literacy Act"; to require the State Board of Education to approve high-quality instructional
-- SB 45 - relating to health of students in elementary and secondary education, so as to provide for the care of students being treated for epilepsy or a seizure disorder
-- SB 211 – establish Georgia Council on Literacy to require local school systems to develop and implement five-year literacy plans for students in kindergarten through grade five
-Children & Families
-- HB 129 - expand temporary assistance for needy families’ eligibility criteria to pregnant women
-To See All Bills Signed By the Governor got to www.gov.gerogia.gov
-- Click the 3 lines at the top right.
-- Click Executive Action
-- Click Legislation.
-- Click ‘Signed Legislation’ -or- ‘Vetoed Legislation’
+State Government HB 373 – Sponsored by Rep.
+Sheila Jones Designating September 11 of each year as "First Responders Appreciation Day" in Georgia Thank you Audraine Jackson for asking me to introduce this important legislation Voting and Elections SB 129 - relating to primaries & elections generally; provide time off for employees to advance vote Judiciary Non-Civil/ Public Safety HB 497 - authorize the use of certified medication aides in penal institutions SB 11 – enact Georgia Fights Terrorism Act SB 44 - mandatory minimum penalties for violations of the Street Gang Terrorism and Prevention Act SB 60 - illegal for certain persons to purchase, possess, obtain, or sell or attempt to purchase, possess, obtain, or sell used, detached catalytic converters, used utility wire, or used communications copper SB 68 - include the offense of dogfighting as racketeering activity SB 155 - provide for offense of interfering w/ harming a public safety animal/ search & rescue animal SB 218 - provide for the issuance of identification cards to persons completing a term of incarceration Other Bills Signed by the Governor K-12 Education HB 147 – enact Safe Schools Act; provide for a school safety anti-gang endorsement for eligible certificated professional personnel and HB 340 - provide for daily duty-free planning periods for teachers in grades six through 12 HB 538 - provide for the "Georgia Early Literacy Act"; to require the State Board of Education to approve high-quality instructional SB 45 - relating to health of students in elementary and secondary education, so as to provide for the care of students being treated for epilepsy or a seizure disorder SB 211 – establish Georgia Council on Literacy to require local school systems to develop and implement five-year literacy plans for students in kindergarten through grade five Children & Families HB 129 - expand temporary assistance for needy families’ eligibility criteria to pregnant women To See All Bills Signed By the Governor got to www.gov.gerogia.gov Click the 3 lines at the top right.
+Click Executive Action Click Legislation.
+Click ‘Signed Legislation’ -or- ‘Vetoed Legislation’ Tags: 2023 news Capitol News Recent Posts See All 2023 Sponsored/Co-sponsored Georgia Legislation 2024 Sponsored/Co-sponsored Legislation February 2023 | Legislative Report Reach Out Call 404-542-8683 Email sheilajones_jones@yahoo.com Address 3246 Amhurst Drive NW Atlanta, GA 30318 bottom of page

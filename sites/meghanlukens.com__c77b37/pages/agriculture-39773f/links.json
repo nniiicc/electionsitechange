@@ -1,22 +1,90 @@
 [
-"http://meghanlukens.com/join-us",
-"https://docs.google.com/forms/d/e/1FAIpQLSefr50R7Jpf6ReKcMH-7HoAyIJq_zt6E-DHXCeUh5L4Ay4uMw/viewform?usp=publish-editor",
-"https://facebook.com/MeghanLukensforColorado",
-"https://instagram.com/meghanlukensforcolorado",
-"https://leg.colorado.gov/bills/HB26-1034",
-"https://leg.colorado.gov/bills/hb23-1094",
-"https://leg.colorado.gov/bills/sb23-255",
-"https://leg.colorado.gov/bills/sb23-256",
-"https://leg.colorado.gov/bills/sb24-031",
-"https://leg.colorado.gov/bills/sb24-055",
-"https://leg.colorado.gov/bills/sb24-126",
-"https://meghanlukens.com/",
-"https://meghanlukens.com/about",
-"https://meghanlukens.com/contact",
-"https://meghanlukens.com/en-espanol",
-"https://meghanlukens.com/endorsements",
-"https://meghanlukens.com/issues",
-"https://meghanlukens.us5.list-manage.com/subscribe?u=8fb9e8dae992384184f1839f0&id=c30d007cdd",
-"https://secure.actblue.com/donate/lukens-for-state-rep",
-"https://x.com/MeghanLukens"
+{
+"text": "About",
+"href": "https://meghanlukens.com/about"
+},
+{
+"text": "Contact",
+"href": "https://meghanlukens.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/lukens-for-state-rep"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lukens-for-state-rep"
+},
+{
+"text": "En Español",
+"href": "https://meghanlukens.com/en-espanol"
+},
+{
+"text": "Endorsements",
+"href": "https://meghanlukens.com/endorsements"
+},
+{
+"text": "HB23-1094",
+"href": "https://leg.colorado.gov/bills/hb23-1094"
+},
+{
+"text": "HB26-1034",
+"href": "https://leg.colorado.gov/bills/HB26-1034"
+},
+{
+"text": "Home",
+"href": "https://meghanlukens.com/"
+},
+{
+"text": "Issues",
+"href": "https://meghanlukens.com/issues"
+},
+{
+"text": "Join Us",
+"href": "http://meghanlukens.com/join-us"
+},
+{
+"text": "Newsletter",
+"href": "https://meghanlukens.us5.list-manage.com/subscribe?u=8fb9e8dae992384184f1839f0&id=c30d007cdd"
+},
+{
+"text": "SB23-255",
+"href": "https://leg.colorado.gov/bills/sb23-255"
+},
+{
+"text": "SB23-256",
+"href": "https://leg.colorado.gov/bills/sb23-256"
+},
+{
+"text": "SB24-031",
+"href": "https://leg.colorado.gov/bills/sb24-031"
+},
+{
+"text": "SB24-055",
+"href": "https://leg.colorado.gov/bills/sb24-055"
+},
+{
+"text": "SB24-126",
+"href": "https://leg.colorado.gov/bills/sb24-126"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSefr50R7Jpf6ReKcMH-7HoAyIJq_zt6E-DHXCeUh5L4Ay4uMw/viewform?usp=publish-editor"
+},
+{
+"text": "[image: Visit page main]",
+"href": "https://meghanlukens.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MeghanLukensforColorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/meghanlukensforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MeghanLukens"
+}
 ]

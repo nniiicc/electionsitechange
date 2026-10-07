@@ -1,37 +1,242 @@
 [
-"https://ballotpedia.org/Micah_King",
-"https://facebook.com/micahkingforstatehouse",
-"https://instagram.com/micahkingforstatehouse",
-"https://linkedin.com/in/micahking1",
-"https://micahkingforstatehouse.com/",
-"https://micahkingforstatehouse.com/district",
-"https://micahkingforstatehouse.com/ga-district-157.pdf",
-"https://micahkingforstatehouse.com/get-involved",
-"https://micahkingforstatehouse.com/issues",
-"https://micahkingforstatehouse.com/issues/agriculture",
-"https://micahkingforstatehouse.com/issues/economy",
-"https://micahkingforstatehouse.com/issues/rural-healthcare",
-"https://micahkingforstatehouse.com/newsroom",
-"https://micahkingforstatehouse.com/newsroom/announcing-district-157-community-opportunity-board",
-"https://micahkingforstatehouse.com/newsroom/georgia-2026-ballot-measures-explained-district-157",
-"https://micahkingforstatehouse.com/newsroom/glennville-sweet-onion-parade",
-"https://micahkingforstatehouse.com/newsroom/history-of-georgia-house-district-157",
-"https://micahkingforstatehouse.com/newsroom/lowering-living-costs",
-"https://micahkingforstatehouse.com/newsroom/supporting-local-farmers",
-"https://micahkingforstatehouse.com/opportunities",
-"https://micahkingforstatehouse.com/privacy",
-"https://micahkingforstatehouse.com/puffs",
-"https://micahkingforstatehouse.com/reviews",
-"https://micahkingforstatehouse.com/sitemap",
-"https://micahkingforstatehouse.com/store",
-"https://micahkingforstatehouse.com/terms",
-"https://partnerwithmercury.com/",
-"https://secure.actblue.com/donate/micahking1",
-"https://secure.actblue.com/donate/micahking1?amount=100",
-"https://secure.actblue.com/donate/micahking1?amount=25",
-"https://secure.actblue.com/donate/micahking1?amount=250",
-"https://secure.actblue.com/donate/micahking1?amount=3300",
-"https://secure.actblue.com/donate/micahking1?amount=50",
-"https://secure.actblue.com/donate/micahking1?amount=500",
-"https://tiktok.com/@micahmeshach"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/micahking1?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/micahking1?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/micahking1?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/micahking1?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/micahking1?amount=500"
+},
+{
+"text": "$#,# Max Gift",
+"href": "https://secure.actblue.com/donate/micahking1?amount=3300"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/micahking1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/micahking1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/micahking1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/micahking1?amount=50"
+},
+{
+"text": "(470) 632 - 5651",
+"href": "tel:4706325651"
+},
+{
+"text": "Agriculture and Farm Policy How rural hospital cuts, rising utility costs, and property tax pressure threaten family farms in District 157. Read the Plan",
+"href": "https://micahkingforstatehouse.com/issues/agriculture/"
+},
+{
+"text": "Claim Your Yard Sign & Volunteer",
+"href": "https://micahkingforstatehouse.com/get-involved/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@votega157.com"
+},
+{
+"text": "Cost of Living and Economy A data-driven look at wages, taxes, utility bills, and housing costs squeezing families across our district. Read the Plan",
+"href": "https://micahkingforstatehouse.com/issues/economy/"
+},
+{
+"text": "Digital Capital deployed by ♿️ Mercury Media Partners",
+"href": "https://partnerwithmercury.com"
+},
+{
+"text": "Digital Stewardship ♿️ by Mercury Media Partners",
+"href": "https://partnerwithmercury.com"
+},
+{
+"text": "Donate to Campaign",
+"href": "https://secure.actblue.com/donate/micahking1"
+},
+{
+"text": "Donate: Send Micah to Atlanta",
+"href": "https://secure.actblue.com/donate/micahking1"
+},
+{
+"text": "Download Map",
+"href": "https://micahkingforstatehouse.com/ga-district-157.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://micahkingforstatehouse.com/ga-district-157.pdf"
+},
+{
+"text": "Explore Jobs →",
+"href": "https://micahkingforstatehouse.com/opportunities/"
+},
+{
+"text": "Fund the Fight",
+"href": "https://secure.actblue.com/donate/micahking1"
+},
+{
+"text": "Georgia 2026 Ballot Measures Explained: What Amendments 1, 2, and 3 Mean for District 157",
+"href": "https://micahkingforstatehouse.com/newsroom/georgia-2026-ballot-measures-explained-district-157/"
+},
+{
+"text": "Get Involved",
+"href": "https://micahkingforstatehouse.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://micahkingforstatehouse.com/"
+},
+{
+"text": "Introducing the District 157 Opportunity Board: Keeping Good Jobs and Local Talent Right Here at Home",
+"href": "https://micahkingforstatehouse.com/newsroom/announcing-district-157-community-opportunity-board/"
+},
+{
+"text": "Issues",
+"href": "https://micahkingforstatehouse.com/issues/"
+},
+{
+"text": "Jobs",
+"href": "https://micahkingforstatehouse.com/opportunities/"
+},
+{
+"text": "Join the Fight for 157",
+"href": "https://micahkingforstatehouse.com/get-involved/"
+},
+{
+"text": "Meet Micah",
+"href": "https://micahkingforstatehouse.com/#meet-micah"
+},
+{
+"text": "Newsroom",
+"href": "https://micahkingforstatehouse.com/newsroom/"
+},
+{
+"text": "Opportunity Board",
+"href": "https://micahkingforstatehouse.com/opportunities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://micahkingforstatehouse.com/privacy/"
+},
+{
+"text": "Read Dispatch",
+"href": "https://micahkingforstatehouse.com/newsroom/georgia-2026-ballot-measures-explained-district-157/"
+},
+{
+"text": "Read Post",
+"href": "https://micahkingforstatehouse.com/newsroom/announcing-district-157-community-opportunity-board/"
+},
+{
+"text": "Read Post",
+"href": "https://micahkingforstatehouse.com/newsroom/history-of-georgia-house-district-157/"
+},
+{
+"text": "Rural Healthcare Crisis How Medicaid cuts, maternity deserts, and hospital budget shortfalls are hitting Southeast Georgia. Read the Plan",
+"href": "https://micahkingforstatehouse.com/issues/rural-healthcare/"
+},
+{
+"text": "See Cost Pledges",
+"href": "https://micahkingforstatehouse.com/newsroom/lowering-living-costs"
+},
+{
+"text": "See Family Pledges",
+"href": "https://micahkingforstatehouse.com/newsroom/glennville-sweet-onion-parade"
+},
+{
+"text": "See Farmer Pledges",
+"href": "https://micahkingforstatehouse.com/newsroom/supporting-local-farmers"
+},
+{
+"text": "See How We Win",
+"href": "https://micahkingforstatehouse.com/#meet-micah"
+},
+{
+"text": "See the Battleground",
+"href": "https://micahkingforstatehouse.com/district/"
+},
+{
+"text": "See the full Wall of Love →",
+"href": "https://micahkingforstatehouse.com/reviews/"
+},
+{
+"text": "Shop the Official Store",
+"href": "https://micahkingforstatehouse.com/store/"
+},
+{
+"text": "Sitemap",
+"href": "https://micahkingforstatehouse.com/sitemap/"
+},
+{
+"text": "Store",
+"href": "https://micahkingforstatehouse.com/store/"
+},
+{
+"text": "Support the Fundraiser",
+"href": "https://micahkingforstatehouse.com/puffs"
+},
+{
+"text": "Terms of Service",
+"href": "https://micahkingforstatehouse.com/terms/"
+},
+{
+"text": "Text Us",
+"href": "sms:4706325651"
+},
+{
+"text": "The Lineage of Georgia House District 157: Honoring Our Heritage and the Sacred Trust of Public Service",
+"href": "https://micahkingforstatehouse.com/newsroom/history-of-georgia-house-district-157/"
+},
+{
+"text": "View All News",
+"href": "https://micahkingforstatehouse.com/newsroom/"
+},
+{
+"text": "[image: Micah King for GA State House]",
+"href": "https://micahkingforstatehouse.com/"
+},
+{
+"text": "[tooltip: Ballotpedia]",
+"href": "https://ballotpedia.org/Micah_King"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://facebook.com/micahkingforstatehouse"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://instagram.com/micahkingforstatehouse"
+},
+{
+"text": "[tooltip: LinkedIn]",
+"href": "https://www.linkedin.com/in/micahking1/"
+},
+{
+"text": "[tooltip: Official Merch Store]",
+"href": "https://micahkingforstatehouse.com/store/"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@micahmeshach"
+},
+{
+"text": "info@votega157.com",
+"href": "mailto:info@votega157.com"
+}
 ]
