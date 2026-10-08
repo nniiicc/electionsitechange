@@ -1,39 +1,166 @@
 [
-"https://actionnetwork.org/forms/request-a-vote-safely-kit?link_id=3&can_id=91707e77923c31b8bc960552a5feb77d&email_subject=can-i-count-on-your-vote",
-"https://facebook.com/LindaforNM",
-"https://lindafornm.com/",
-"https://lindafornm.com/2019/10",
-"https://lindafornm.com/2020/03",
-"https://lindafornm.com/2020/04",
-"https://lindafornm.com/2020/05",
-"https://lindafornm.com/2020/06",
-"https://lindafornm.com/2020/07",
-"https://lindafornm.com/2020/08",
-"https://lindafornm.com/2020/09",
-"https://lindafornm.com/2020/10",
-"https://lindafornm.com/about",
-"https://lindafornm.com/author/jaredluceronmgmail-com",
-"https://lindafornm.com/before-results-come-in",
-"https://lindafornm.com/category/campaign-updates",
-"https://lindafornm.com/category/endorsement",
-"https://lindafornm.com/category/news",
-"https://lindafornm.com/category/press-releases",
-"https://lindafornm.com/category/uncategorized",
-"https://lindafornm.com/comments/feed",
-"https://lindafornm.com/every-vote-deserves-to-be-counted",
-"https://lindafornm.com/feed",
-"https://lindafornm.com/full?link_id=1&can_id=91707e77923c31b8bc960552a5feb77d&email_subject=can-i-count-on-your-vote",
-"https://lindafornm.com/get-involved",
-"https://lindafornm.com/if-you-missed-our-launch",
-"https://lindafornm.com/join-governor-michelle-lujan-grisham-and-linda-as-we-launch-for-the-general-election",
-"https://lindafornm.com/new-endorsements-2",
-"https://lindafornm.com/one-more-day",
-"https://lindafornm.com/peaceful-transition",
-"https://lindafornm.com/this-week-has-been-many-things",
-"https://lindafornm.com/todays-swearing-in",
-"https://lindafornm.com/values",
-"https://lindafornm.com/we-did-it",
-"https://lindafornm.com/wp-login.php",
-"https://thework.education/resources-for-parents",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://lindafornm.com/about/"
+},
+{
+"text": "April 2020",
+"href": "https://lindafornm.com/2020/04/"
+},
+{
+"text": "August 2020",
+"href": "https://lindafornm.com/2020/08/"
+},
+{
+"text": "Before results come in",
+"href": "https://lindafornm.com/before-results-come-in/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://lindafornm.com/category/campaign-updates/"
+},
+{
+"text": "Comments feed",
+"href": "https://lindafornm.com/comments/feed/"
+},
+{
+"text": "Endorsement",
+"href": "https://lindafornm.com/category/endorsement/"
+},
+{
+"text": "Entries feed",
+"href": "https://lindafornm.com/feed/"
+},
+{
+"text": "Every vote deserves to be counted",
+"href": "https://lindafornm.com/every-vote-deserves-to-be-counted/"
+},
+{
+"text": "Get Involved",
+"href": "https://lindafornm.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://lindafornm.com/"
+},
+{
+"text": "If you missed our launch…",
+"href": "https://lindafornm.com/if-you-missed-our-launch/"
+},
+{
+"text": "If you're still making a decision in HD 45, please take a moment to learn more about Linda Serrato",
+"href": "https://lindafornm.com/full/?link_id=1&can_id=91707e77923c31b8bc960552a5feb77d&email_referrer=&email_subject=can-i-count-on-your-vote"
+},
+{
+"text": "Join Governor Michelle Lujan Grisham and Linda as we launch for the general election!",
+"href": "https://lindafornm.com/join-governor-michelle-lujan-grisham-and-linda-as-we-launch-for-the-general-election/"
+},
+{
+"text": "July 2020",
+"href": "https://lindafornm.com/2020/07/"
+},
+{
+"text": "June 2020",
+"href": "https://lindafornm.com/2020/06/"
+},
+{
+"text": "Log in",
+"href": "https://lindafornm.com/wp-login.php"
+},
+{
+"text": "March 2020",
+"href": "https://lindafornm.com/2020/03/"
+},
+{
+"text": "May 2020",
+"href": "https://lindafornm.com/2020/05/"
+},
+{
+"text": "New Endorsements!",
+"href": "https://lindafornm.com/new-endorsements-2/"
+},
+{
+"text": "News",
+"href": "https://lindafornm.com/category/news/"
+},
+{
+"text": "October 2019",
+"href": "https://lindafornm.com/2019/10/"
+},
+{
+"text": "October 2020",
+"href": "https://lindafornm.com/2020/10/"
+},
+{
+"text": "One more day!",
+"href": "https://lindafornm.com/one-more-day/"
+},
+{
+"text": "Paid for by Our Neighbors for Linda (Treasurer: Soledad Roybal)",
+"href": "https://www.lindafornm.com"
+},
+{
+"text": "Peaceful Transition",
+"href": "https://lindafornm.com/peaceful-transition/"
+},
+{
+"text": "Press Releases",
+"href": "https://lindafornm.com/category/press-releases/"
+},
+{
+"text": "September 2020",
+"href": "https://lindafornm.com/2020/09/"
+},
+{
+"text": "This week has been many things",
+"href": "https://lindafornm.com/this-week-has-been-many-things/"
+},
+{
+"text": "Today’s Swearing in",
+"href": "https://lindafornm.com/todays-swearing-in/"
+},
+{
+"text": "Today’s Swearing in",
+"href": "https://lindafornm.com/todays-swearing-in/#comment-2"
+},
+{
+"text": "Uncategorized",
+"href": "https://lindafornm.com/category/uncategorized/"
+},
+{
+"text": "Values",
+"href": "https://lindafornm.com/values/"
+},
+{
+"text": "We did it!",
+"href": "https://lindafornm.com/we-did-it/"
+},
+{
+"text": "WordPress.org",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image: Linda Serrato for New Mexico]",
+"href": "https://lindafornm.com"
+},
+{
+"text": "[image]by Team Linda",
+"href": "https://lindafornm.com/author/jaredluceronmgmail-com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LindaforNM/"
+},
+{
+"text": "grassroots@lindafornm.com",
+"href": "mailto:grassroots@lindafornm.com"
+},
+{
+"text": "https://thework.education/resources-for-parents/",
+"href": "https://thework.education/resources-for-parents/"
+},
+{
+"text": "request a Vote Safely Kit from Team Linda!",
+"href": "https://actionnetwork.org/forms/request-a-vote-safely-kit/?link_id=3&can_id=91707e77923c31b8bc960552a5feb77d&email_referrer=&email_subject=can-i-count-on-your-vote"
+}
 ]

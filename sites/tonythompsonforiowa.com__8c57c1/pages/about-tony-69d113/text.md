@@ -1,4 +1,4 @@
-Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Early Voting Donate Now Volunteer Newsletter Request a Sign About Tony Tony is a husband, dad, 4th generation on the farm near Elkhart, and small-business owner.
+Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Voting Donate Now Volunteer Newsletter Request a Sign About Tony Tony is a husband, dad, 4th generation on the farm near Elkhart, and small-business owner.
 He's running for the Iowa State Senate because he believes deeply in the power of strong families and strong communities to build a strong future.
 This district isn’t just where Tony campaigns.
 It’s where his family lives.

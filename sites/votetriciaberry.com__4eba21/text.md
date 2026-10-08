@@ -1,6 +1,6 @@
 Conservative Leadership Rooted in Service Get Involved Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * Last Name * Email Address * Number Address Email Phone Number Submit Donate COMMUNITY CHAMPION AND CONSERVATIVE LEADER TRICIA BERRY FILES FOR STATE HOUSE IN DISTRICT 6 Panama City, FL – Community leader Tricia Berry filed to succeed Representative Griff Griffitts in the State House of Representatives in District 6.
+First Name * Last Name * Email Address * Layout Name Number Phone Number Submit Donate COMMUNITY CHAMPION AND CONSERVATIVE LEADER TRICIA BERRY FILES FOR STATE HOUSE IN DISTRICT 6 Panama City, FL – Community leader Tricia Berry filed to succeed Representative Griff Griffitts in the State House of Representatives in District 6.
 “Over nearly the last two decades, my family and I have worked to make Bay County, and our entire region, a better place to raise children, grow a business, and enjoy the natural beauty of Florida.
 That journey of service blessed us with the opportunity to meet thousands of our Bay County neighbors and I am confident I know what they want and expect out of their elected representatives in Tallahassee – common sense, Constitutional, conservative leadership,” Berry said.
 “Florida is a global economic engine and the nationwide leader in conservative governance, but it will only stay that way if we have leaders who understand what it takes to support our local businesses and make Florida more affordable for everyone.

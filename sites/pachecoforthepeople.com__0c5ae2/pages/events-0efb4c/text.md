@@ -15,7 +15,7 @@ Tickets are selling Fast !
 2/10-3/18/26 - Nomination Paper Signature Capture ----- Sunday April 12, 2026 - Coffee Social Event/Campaign Kick off. [Coffee, Tea, Hot Chocolate, and Baked Goods] Location: Stackhouse Club 16 Faith Street, Dartmouth MA 02748 Time: 2:00-4:00pm Minimum Donation $# please.
 Make checks Payable to Pacheco Committee.
 No corporate checks please.
-Please email or contact us for tickets ! ---- #ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › 10 Oct Saturday, 9:00 AM – 10:30 AM Campaign Stand Out Fire Station 9 , New Bedford, MA, 02745 More info › 22 Oct Thursday, 5:00 PM – 8:00 PM Cocktail Party 427 County Street, New Bedford, MA, 02740 Come spend an evening with Ed Pacheco and Friends at the Wamsutta Club at the Historic James Arnold Mansion.
+Please email or contact us for tickets ! ---- #ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › 10 Oct Saturday, 9:00 AM – 10:30 AM Campaign Stand Out Fire Station 9 , New Bedford, MA, 02745 More info › 22 Oct Thursday, 5:00 PM – 8:00 PM Cocktail Party 427 County Street, New Bedford, MA, 02740 Come spend an evening with Ed Pacheco and Friends at the Wamsutta Club at the Historic James Arnold Mansion.
 Cash Bar, Light Appetizers, Music.
 Tickets $50 prior to Oct 17, $60 afterwards.
 No Corporate Checks, Please.

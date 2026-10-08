@@ -24,4 +24,4 @@ Get In Touch Have a question, concern, or want to get involved?
 I'd love to hear from you.
 Reach out directly or fill out the form and I'll get back to you as soon as possible.
 Address 119 Buzzell Hill Rd Weare, NH 03281 Email Ross@BerryForNH.com Phone (603) 803-3448 Call or text First Name * Last Name * Email * Phone Comment / Question Submit Ross Berry State Representative Fighting for New Hampshire's families in Goffstown and Weare.
-Quick Links Home About Privacy Policy Terms & Conditions Request Yard Signs Donate Contact 119 Buzzell Hill Rd Weare, NH 03281 Ross@BerryForNH.com (603) 803-3448 Facebook Paid for by Berry For New Hampshire · Ross Berry, Chair · 119 Buzzell Hill Rd, Weare, NH
+Quick Links Home About Issues Privacy Policy Terms & Conditions Request Yard Signs Donate Contact 119 Buzzell Hill Rd Weare, NH 03281 Ross@BerryForNH.com (603) 803-3448 Facebook Paid for by Berry For New Hampshire · Ross Berry, Chair · 119 Buzzell Hill Rd, Weare, NH

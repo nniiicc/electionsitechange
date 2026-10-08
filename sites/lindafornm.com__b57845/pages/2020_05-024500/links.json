@@ -1,39 +1,170 @@
 [
-"https://actionnetwork.org/forms/request-a-vote-safely-kit",
-"https://facebook.com/LindaforNM",
-"https://lindafornm.com/",
-"https://lindafornm.com/2019/10",
-"https://lindafornm.com/2020/03",
-"https://lindafornm.com/2020/04",
-"https://lindafornm.com/2020/05",
-"https://lindafornm.com/2020/06",
-"https://lindafornm.com/2020/07",
-"https://lindafornm.com/2020/08",
-"https://lindafornm.com/2020/09",
-"https://lindafornm.com/2020/10",
-"https://lindafornm.com/about",
-"https://lindafornm.com/author/jaredluceronmgmail-com",
-"https://lindafornm.com/author/linda-serrato",
-"https://lindafornm.com/category/campaign-updates",
-"https://lindafornm.com/category/endorsement",
-"https://lindafornm.com/category/news",
-"https://lindafornm.com/category/press-releases",
-"https://lindafornm.com/category/uncategorized",
-"https://lindafornm.com/comments/feed",
-"https://lindafornm.com/conservation-voters-nm-american-federation-of-teachers-nm-and-animal-protection-voters-nm",
-"https://lindafornm.com/feed",
-"https://lindafornm.com/get-involved",
-"https://lindafornm.com/how-far-weve-come",
-"https://lindafornm.com/if-you-missed-our-launch",
-"https://lindafornm.com/join-governor-michelle-lujan-grisham-and-linda-as-we-launch-for-the-general-election",
-"https://lindafornm.com/new-endorsements",
-"https://lindafornm.com/new-endorsements-2",
-"https://lindafornm.com/peaceful-transition",
-"https://lindafornm.com/this-memorial-day",
-"https://lindafornm.com/todays-swearing-in",
-"https://lindafornm.com/values",
-"https://lindafornm.com/vote-safely",
-"https://lindafornm.com/working-families",
-"https://lindafornm.com/wp-login.php",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://lindafornm.com/about/"
+},
+{
+"text": "April 2020",
+"href": "https://lindafornm.com/2020/04/"
+},
+{
+"text": "August 2020",
+"href": "https://lindafornm.com/2020/08/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://lindafornm.com/category/campaign-updates/"
+},
+{
+"text": "Click here to sign up!",
+"href": "https://actionnetwork.org/forms/request-a-vote-safely-kit"
+},
+{
+"text": "Comments feed",
+"href": "https://lindafornm.com/comments/feed/"
+},
+{
+"text": "Conservation Voters NM, American Federation of Teachers - NM, and Animal Protection Voters NM",
+"href": "https://lindafornm.com/conservation-voters-nm-american-federation-of-teachers-nm-and-animal-protection-voters-nm/"
+},
+{
+"text": "Endorsement",
+"href": "https://lindafornm.com/category/endorsement/"
+},
+{
+"text": "Entries feed",
+"href": "https://lindafornm.com/feed/"
+},
+{
+"text": "Get Involved",
+"href": "https://lindafornm.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://lindafornm.com/"
+},
+{
+"text": "How far we’ve come",
+"href": "https://lindafornm.com/how-far-weve-come/"
+},
+{
+"text": "If you missed our launch…",
+"href": "https://lindafornm.com/if-you-missed-our-launch/"
+},
+{
+"text": "Join Governor Michelle Lujan Grisham and Linda as we launch for the general election!",
+"href": "https://lindafornm.com/join-governor-michelle-lujan-grisham-and-linda-as-we-launch-for-the-general-election/"
+},
+{
+"text": "July 2020",
+"href": "https://lindafornm.com/2020/07/"
+},
+{
+"text": "June 2020",
+"href": "https://lindafornm.com/2020/06/"
+},
+{
+"text": "Log in",
+"href": "https://lindafornm.com/wp-login.php"
+},
+{
+"text": "March 2020",
+"href": "https://lindafornm.com/2020/03/"
+},
+{
+"text": "May 2020",
+"href": "https://lindafornm.com/2020/05/"
+},
+{
+"text": "NEW Endorsements!",
+"href": "https://lindafornm.com/new-endorsements/"
+},
+{
+"text": "New Endorsements!",
+"href": "https://lindafornm.com/new-endorsements-2/"
+},
+{
+"text": "News",
+"href": "https://lindafornm.com/category/news/"
+},
+{
+"text": "October 2019",
+"href": "https://lindafornm.com/2019/10/"
+},
+{
+"text": "October 2020",
+"href": "https://lindafornm.com/2020/10/"
+},
+{
+"text": "Paid for by Our Neighbors for Linda (Treasurer: Soledad Roybal)",
+"href": "https://www.lindafornm.com"
+},
+{
+"text": "Peaceful Transition",
+"href": "https://lindafornm.com/peaceful-transition/"
+},
+{
+"text": "Press Releases",
+"href": "https://lindafornm.com/category/press-releases/"
+},
+{
+"text": "September 2020",
+"href": "https://lindafornm.com/2020/09/"
+},
+{
+"text": "This Memorial Day",
+"href": "https://lindafornm.com/this-memorial-day/"
+},
+{
+"text": "Today’s Swearing in",
+"href": "https://lindafornm.com/todays-swearing-in/"
+},
+{
+"text": "Today’s Swearing in",
+"href": "https://lindafornm.com/todays-swearing-in/#comment-2"
+},
+{
+"text": "Uncategorized",
+"href": "https://lindafornm.com/category/uncategorized/"
+},
+{
+"text": "Values",
+"href": "https://lindafornm.com/values/"
+},
+{
+"text": "Vote Safely",
+"href": "https://lindafornm.com/vote-safely/"
+},
+{
+"text": "WordPress.org",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Working Families Stand with Linda",
+"href": "https://lindafornm.com/working-families/"
+},
+{
+"text": "[image: Linda Serrato for New Mexico]",
+"href": "https://lindafornm.com"
+},
+{
+"text": "[image]",
+"href": "https://lindafornm.com/conservation-voters-nm-american-federation-of-teachers-nm-and-animal-protection-voters-nm/"
+},
+{
+"text": "[image]by Democrat Linda Serrato",
+"href": "https://lindafornm.com/author/linda-serrato/"
+},
+{
+"text": "[image]by Team Linda",
+"href": "https://lindafornm.com/author/jaredluceronmgmail-com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LindaforNM/"
+},
+{
+"text": "grassroots@lindafornm.com",
+"href": "mailto:grassroots@lindafornm.com"
+}
 ]

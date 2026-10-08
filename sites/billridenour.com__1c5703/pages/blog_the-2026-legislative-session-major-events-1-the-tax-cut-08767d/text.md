@@ -20,6 +20,6 @@ After careful consideration, however, we decided against accepting jewelry and f
 I also suggested that the Treasurer provide an annual report identifying how many generous civic-minded Democrat socialists voluntarily contributed additional funds to the state's coffers.
 I look forward to the results.
 It should be enlightening.
-Amanda Ridenour Previous Previous The 2026 Legislative Session – Major Events #2: Education Next Next Door-knocking in Jefferson County Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

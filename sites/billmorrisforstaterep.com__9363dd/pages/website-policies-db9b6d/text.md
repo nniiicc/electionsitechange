@@ -32,9 +32,9 @@ Because of reporting requirements, contributions are final and non-refundable un
 Refund requests must be submitted in writing within 30 days of the donation.
 Contact for Refund Requests: bmorris5252@gmail.com © #-# Bill Morris for Alabama House District 50 | Paid for by Bill Morris for Alabama House District 50 | 1703 Carl Jones Road, Moody, Alabama 35004 | t: 205.936.8356 | Website Policies | Website by adrBMS.com Join Our Team Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name Email Comment Name * First Last Email * Phone Comment or Message Submit CLOSE Contact Us Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Phone or Name Phone Comment or Message Submit CLOSE Contact Us Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone Checkboxes Message Name Checkboxes By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Name * First Last Email * Phone Checkboxes Email Message Checkboxes By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.

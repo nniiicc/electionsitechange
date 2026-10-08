@@ -1,11 +1,42 @@
 [
-"http://cesystems.tech/campaign/friendsofwillychotzen",
-"https://chotzenfororegon.com/",
-"https://chotzenfororegon.com/cart",
-"https://chotzenfororegon.com/endorsements",
-"https://chotzenfororegon.com/home",
-"https://chotzenfororegon.com/meetwilly",
-"https://chotzenfororegon.com/willyscoverage",
-"https://facebook.com/chotzen4oregon",
-"https://instagram.com/Chotzen4Oregon"
+{
+"text": "0",
+"href": "https://www.chotzenfororegon.com/cart"
+},
+{
+"text": "Coverage",
+"href": "https://www.chotzenfororegon.com/willyscoverage"
+},
+{
+"text": "DONATE",
+"href": "http://www.cesystems.tech/campaign/friendsofwillychotzen"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chotzenfororegon.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chotzenfororegon.com/home#getinvolved"
+},
+{
+"text": "Meet Willy",
+"href": "https://www.chotzenfororegon.com/meetwilly"
+},
+{
+"text": "Priorities",
+"href": "https://www.chotzenfororegon.com/home#priorities"
+},
+{
+"text": "[image: Re-Elect Willy Chotzen for Oregon]",
+"href": "https://www.chotzenfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/chotzen4oregon/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Chotzen4Oregon"
+}
 ]

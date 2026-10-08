@@ -83,7 +83,7 @@ Message and data rates may apply.
 We will not sell or share information collected through text messaging with any third party.
 For help, reply HELP or email us at info@denisefornevada.com .
 You can opt out at any time by replying STOP.
-This website privacy policy was last updated on October 7, 2026.
+This website privacy policy was last updated on October 8, 2026.
 About Endorsements Issues Volunteer DeniseForNevada.com Donate Now → Paid for and approved by Denise for Nevada.
 DeniseForNevada.com · PO Box 751271, Las Vegas, NV 89136 By providing your phone number, you consent to receive periodic text messages.
 Message and data rates may apply.

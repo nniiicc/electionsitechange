@@ -2,7 +2,7 @@
 Peabody Heights has great local beers and non-alcoholic beverages as well.
 Help support this local business by having a drink with us!
 Come on out and learn more about the Green Party.
-Previous Previous October 23 Building The Green Party Community Meeting: Elkridge Next Next November 12 GoGreen 2026 Live Stream launch Like what you see?
+Like what you see?
 Join the movement.
 DONATE volunteer Green Party Candidates for Governor & Lt.
 Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

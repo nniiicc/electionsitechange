@@ -35,4 +35,4 @@ Politicians shouldn’t pick their voters.
 The voters should pick them.
 Get that right, and there’s almost nothing this country can’t fix.
 All Policies Next Policy Return to Top SOURCES California’s independent Citizens Redistricting Commission — created by Proposition 11 (2008), extended to congressional maps by Proposition 20 (2010) — and what Proposition 50 (2025) changed: California Legislative Analyst’s Office — Proposition 50 Ballot Analysis (2025) Official text of Proposition 50 (November 4, 2025 special election): California Secretary of State — Proposition 50, Text of Proposed Law Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

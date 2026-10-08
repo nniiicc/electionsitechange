@@ -9,4 +9,4 @@ Strengthening Workers' Rights Working class Iowans are taken advantage of all to
 The least workers should be afforded is a safe place to work.
 That's why I’m heading to Des Moines to be a watchdog for the workers, ensuring that every person who goes to work, makes an honest day’s pay and comes home safely to their family at night.
 That means: Funding Workplace Safety Programs Strengthening Workers' Ability to Organize Restoring Collective Bargaining for Public Sector Workers Workers build this state, it's time we had their backs.
-Paid for by Matt Robinson for Iowa Home MY STORY Issues Press VOLUNTEER DONATE
+Paid For by Matt Robinson for Iowa Home MY STORY Issues Press VOLUNTEER DONATE

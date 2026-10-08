@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Statement · August 3, 2025 Statement by State Rep.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Statement · August 3, 2025 Statement by State Rep.
 Vince Perez on Quorum Break Over Texas Redistricting Map Vince explains why he and his House Democratic colleagues broke quorum to deny the supermajority the votes needed to pass the redistricting map.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .

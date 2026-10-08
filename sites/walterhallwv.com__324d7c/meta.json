@@ -1,9 +1,11 @@
 {
  "description": "Walter Hall is running for re-election for the West Virginia House of Delegates for District 58.",
  "final_url": "https://www.walterhallwv.com/",
- "fingerprint": "73741f11ad9e0210df6db11866e58f946fd52d91",
+ "fingerprint": "4a6097dfc1aa324bcfe69358a29cc303328211f1",
  "format": 3,
  "paid_for_by": "Paid for by the Committee To Elect Walter Hall WV",
  "title": "Walter Hall | west virginia district 58 | Saint Albans, WV, USA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

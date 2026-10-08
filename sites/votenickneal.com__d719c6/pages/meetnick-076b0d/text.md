@@ -1,33 +1,41 @@
-0 Skip to Content Meet Nick Get Involved Donate Open Menu Close Menu Open Menu Close Menu Meet Nick Get Involved Donate Meet Nick Get Involved Donate Meet Nick Neal Democrat Running for Indiana's 19th House District Hoosier Values.
+0 Skip to Content Meet Nick Get Involved Donate Open Menu Close Menu Open Menu Close Menu Meet Nick Get Involved Donate Meet Nick Get Involved Donate Meet Nick Neal Democratic Candidate for Indiana State Representative District 19 Hoosier Values.
 Real Experience.
 Putting District 19 First.
 I’m Nick Neal, and I’m Region born through and through.
-I grew up in Gary, graduated from Andrean High School, and earned my bachelor’s degree in criminal justice from Indiana University Northwest.
-I stayed right here in Northwest Indiana to further my education, completing a dual master’s degree in law enforcement administration and public administration.
-This community shaped me, gave me opportunities and instilled the belief that when one of us succeeds, we all succeed.
-My wife, LaToya, and I have raised our sons, Eli and Jayden, right here in the Region.
-We’re a blended family — one that’s navigated real struggles, leaned on one another and celebrated every milestone side by side.
-That lived experience grounds my values and the way I lead.
-I also come from a union household.
+I grew up in Northwest Indiana.
+My wife, LaToya, and I have raised our sons, Eli and Jayden, here.
+This is home, and it’s where I’ve spent nearly 20 years working with local families.
+My background Andrean High School graduate.
+Bachelor’s degree in criminal justice from Indiana University Northwest.
+Dual master’s degree in law enforcement administration and public administration , completed here in Northwest Indiana.
+Family and union roots We’re a blended family.
+We’ve had struggles, leaned on each other and celebrated milestones together.
+Those experiences help me understand what families are dealing with.
 My dad worked more than 30 years at U.S.
-Steel Gary Works in the Sheet and Tin Division.
-Growing up with the stability that his union job provided taught me the power of worker solidarity and the importance of protecting the jobs that keep families strong.
-Professionally, I’ve spent nearly two decades working on the front lines with families across Lake and Porter counties, first as a police officer, and then as a nonprofit leader focused on preventing child abuse, reducing truancy, addressing domestic violence and helping families find stability.
-I’ve seen the difference it makes when people receive real support — and the consequences when systems fail them.
-Those experiences shaped my core belief: We accomplish more through conversation than confrontation.
-People don’t want to be lectured to — they want to be heard.
-That’s why I’ve always led by talking with people, not at them.
-Over the years, I’ve worked alongside churches, schools, state agencies and community leaders to build programs that help families break cycles of hardship.
-I’ve helped secure millions of dollars in funding for Northwest Indiana — investments that created jobs, expanded services and provided the wraparound support families need to thrive.
-And through it all, I’ve stayed committed to something simple but essential: showing up, listening and voting in every election I can — because participation matters.
-Why I’m Running Because families in our district are facing real pressure — rising costs, reduced local funding, strained services — while too many lawmakers in Indianapolis overlook the very communities that fuel our state’s economy.
-Lake and Porter counties deserve a representative who understands our challenges because they’ve lived them.
-Someone who knows the Region, respects its people and will fight to make sure we get our fair share.
-I’m running to put Hoosiers first.
-To listen before I speak.
-To work with anyone — regardless of party — who’s willing to improve life for the people of District 19.
-This community made me who I am.
-Now, I’m ready to serve it in a new way.
-Together, we can build a stronger future for Northwest Indiana.
+Steel Gary Works in the Sheet and Tin Division .
+His union job gave our family stability.
+I grew up knowing what a good job means to a household and why workers need to stand together.
+Nearly 20 years serving families I started as a police officer and later became a nonprofit leader, working across Lake and Porter counties .
+My work has included: Preventing child abuse.
+Helping students stay in school.
+Addressing domestic violence.
+Connecting families with services and support.
+I’ve worked with churches, schools, state agencies and community leaders to build programs that help families through hard times.
+I’ve also helped secure millions of dollars for Northwest Indiana , creating jobs and expanding local services.
+What I believe We accomplish more through conversation than confrontation.
+That means taking the time to hear someone out and working through disagreements.
+I’ve seen the difference it makes when families get help, and what happens when the systems they depend on fail them.
+I keep showing up for this community, and I vote in every election I can.
+The decisions made here affect my family, too.
+Endorsements Thank you for your support!
+Why I’m Running I’m running because families in District 19 are dealing with rising costs while local funding and services are stretched thin.
+I want the concerns I hear here at home to get the attention they deserve in Indianapolis.
+After nearly 20 years working with families across Lake and Porter counties, I’ve seen how decisions at the state level affect people’s daily lives.
+As your representative, my priorities would be: Making everyday costs more manageable for families.
+Making sure our communities receive their fair share of state funding.
+Supporting the local services people depend on.
+I’ll listen to the people I represent and work with anyone willing to help, regardless of party.
+I grew up here, and LaToya and I are raising our sons here.
+I’m running because I care about what comes next for our family and yours.
 Paid for by the Campaign to Elect Nick Neal P.O.
 Box 1141, Crown Point, IN 46308

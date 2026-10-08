@@ -2,7 +2,7 @@ A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this webs
 The best thing you can do to help this campaign is tell your friends and other people that you intend to vote for me, Kevin McCormick, for Lieutenant Governor.
 Then ask them to tell their friends and other people as well.
 I expect little or no coverage in the corporate media, so my campaign will depend on word of mouth publicity.
-Help My Campaign Give out business cards Use your vote to say you want a new and better direction in Texas government.
+Help My Campaign Give out business cards Post my flyer Use your vote to say you want a new and better direction in Texas government.
 As Lieutenant Governor my commitment will be to serve the public interest .
 I think of the public interest as: healthy people – do we have access to nutritious food, affordable shelter, and healthy activities? healthy society – do we have economic security, opportunities for growth, and useful public services? healthy environment – because we live in the environment.
 The public interest is not simply a good idea — the public interest is a guiding principal that qualifies legislation and keeps special interests in check.
@@ -33,11 +33,11 @@ The more votes I receive the more likely it becomes that the Texas state governm
 Please tell others that you plan to vote for me for Lieutenant Governor in 2026.
 Thank you Choose Language Select your language Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
 Trusted by Texans.
-Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+What to know about Texas’ affordability crisis and how candidates want to fix it Democrat Nathan Johnson pitches back-to-basics attorney general’s office after 12 years under Paxton U.S.
 Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
 Distribute it fairly.
 Create a greener world for all.
 U.S.
-Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief © # Kevin McCormick for Lt.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Singer Sara Bareilles Tells UT Students: Give Grief the Space to be Heard Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS World Cotton Day highlights cotton’s impact Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge © # Kevin McCormick for Lt.
 Governor.
 All Rights Reserved. | Privacy Policy | Contact

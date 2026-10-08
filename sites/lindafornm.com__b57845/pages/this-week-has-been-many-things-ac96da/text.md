@@ -1,12 +1,12 @@
-It’s heartbreaking as we continue to live our lives and celebrate our victories when their is so much hurt in our communities today.
-I keep coming back to this James Baldwin quote: “I love America more than any other country in this world, and, exactly for this reason, I insist on the right to criticize her perpetually.”
-Since Mr.
+Home About Values Get Involved This week has been many things June 11, 2020 | In Campaign Updates | By Team Linda It’s heartbreaking as we continue to live our lives and celebrate our victories when their is so much hurt in our communities today.
+I keep coming back to this James Baldwin quote: “I love America more than any other country in this world, and, exactly for this reason, I insist on the right to criticize her perpetually.” Since Mr.
 Floyd’s murder, Santa Fe activists have sustained ongoing protests, engaged our leaders, and demanded we invest in our communities first.
 Already we’ve seen positive steps, but make no mistake: Santa Fe and New Mexico have a lot further to go.
 Modern policing overextends our police forces and the results are fatal.
 We need to invest in our communities and make sure our families – especially our Black, Indigenous, Brown and Immigrant brothers and sisters – are treated as community members and not enemy combatants.
-To that end, a friend recommended a thoughtful read that I want to share with you: The End of Policing by Alex Vitale
-My husband – who I have immense respect for on the topic – recommended this massive resource list for families: https://thework.education/resources-for-parents/
-And I hope you’ll take a moment to recommend materials that may have been helpful to you.
+To that end, a friend recommended a thoughtful read that I want to share with you: The End of Policing by Alex Vitale My husband – who I have immense respect for on the topic – recommended this massive resource list for families: https://thework.education/resources-for-parents/ And I hope you’ll take a moment to recommend materials that may have been helpful to you.
 Please leave any articles, papers, or books in the comments that you may recommend.
 I’m listening and learning right now so that we can pass thoughtful New Mexico-specific policies that enable us all to rise up together.
+Recent Posts Today’s Swearing in New Endorsements!
+Peaceful Transition If you missed our launch… Join Governor Michelle Lujan Grisham and Linda as we launch for the general election!
+Recent Comments Mark on Today’s Swearing in Archives October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 October 2019 Categories Uncategorized News Press Releases Campaign Updates Endorsement Meta Log in Entries feed Comments feed WordPress.org Prev Next [fts_facebook type=page id=106115987493807 access_token=EAAP9hArvboQBAENCZAf9AbAtg41ZAKn1fTxSWKTgXXHqDt8sBLQbcPuxHr7sfGzWDRi1z0YsaPtt3czOrRdnrYVuteYgSu95ZCfPvYONwXb7JffZAw7CBFG4NbO2V5iEpvGPfP9EFybvuafGZC58BZBTzA1eFio7AP5DYZAKxJEiygAfIo1ZCNfS posts=3 description=no posts_displayed=page_only images_align=center] grassroots@lindafornm.com 505-395-6356 Paid for by Our Neighbors for Linda (Treasurer: Soledad Roybal) Privacy Preference Center Privacy Preferences

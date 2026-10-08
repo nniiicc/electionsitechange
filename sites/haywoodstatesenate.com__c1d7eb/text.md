@@ -20,7 +20,8 @@ Art became the state senator for the 14th district of Philadelphia in 2014 to th
 In addition to many accomplishments in the state senate he co-founded Turn PA Blue to elect Democrats in Southeastern Pennsylvania 2017.
 He is a graduate of Morehouse College, London School of Economics and Political Science as a Marshall Scholar to complete his master’s degree, and the University of Michigan Law school.
 Pennsylvania State Senator 2014 - Present University of Michigan Law School Community and Regional Housing Legal Service About Senator Haywood Would you like to become one of our donors?
-5$ Donation Art Haywood for State Senate #ago Do you have mail or other documents that contain sensitive information, but you no longer need?
-Join us on Saturday, October 10 at Copper Beach Elementary School.
-Sensitive information could be your name, address, date of birth, work or school address, or any other information that identifies who you are. ...
+5$ Donation Art Haywood for State Senate #ago Thank you to all those who attended the rally for Governor Shapiro in Chestnut Hill this morning.
+Our message is clear: just like the ancient story of a boy with one smooth stone defeating the giant, our smooth stone is our vote, when we all vote we can win too.
+Together, we can flip the Pennsylvania Senate blue.
+#PADems #DignityForAll ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Paid for by Art Haywood. © # Contact art@haywoodstatesenate.com The Campaign for Compassion PO Box 30234 Elkins Park, PA 19027 Make A Plan To Vote Ballot Request Application Register To Vote How Can You Help Donations Volunteer Campaign Updates Contact Us

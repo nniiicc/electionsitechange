@@ -11,6 +11,7 @@ Drew Stokesbary , R-Auburn, has been recognized for his work in Olympia to prese
 “For several years, he has been there for the Fire Chiefs, listening carefully to our issues and advocating for stronger public safety measures.” Robertson added, “Our job is to keep our communities safe and Rep.
 Stokesbary has become an important partner by leading the effort on passage on several important bills which help us.
 Whether it is leading the charge on initiatives to help firefighters in their jobs, or modernize our administrative statute to save taxpayers money, Rep.
-Stokesbary has listened, researched, and worked to get those bills passed.” Awards good government public safety More For You Endorsed by WACOPS!
-(2022) Endorsements Endorsed by League of Education Voters Endorsements Transportation package offers relief to Auburn drivers In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Stokesbary has listened, researched, and worked to get those bills passed.” Awards good government public safety More For You Drew Stokesbary receives NRA endorsement Endorsements Rep.
+Drew Stokesbary wants to prevent campaign fundraising before special sessions of the Legislature In the News Council of Metropolitan Police and Sheriffs unanimously endorse Rep.
+Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

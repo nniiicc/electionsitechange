@@ -1,6 +1,6 @@
 0 Skip to Content Elect Bennie Foster for U.S.
-Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
-Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Folder: Resources Back Voting Contact Donate DONATE Our Story isn’t stuck in the past… Mississippi, a state rich in history and potential, stands at a pivotal moment.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Updates Folder: Resources Back Voting Contact Donate DONATE Our Story isn’t stuck in the past… Mississippi, a state rich in history and potential, stands at a pivotal moment.
 The challenges we face are real, but so is our resolve.
 ReIMAGINE Mississippi is not just a good idea or suggestive concept; it’s a historic movement.
 It's an invitation to every citizen, every leader, and every community to rise up and Foster Our Future Together!

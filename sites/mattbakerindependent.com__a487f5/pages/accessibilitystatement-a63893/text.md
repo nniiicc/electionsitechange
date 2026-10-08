@@ -5,4 +5,4 @@ We are working to conform to the Web Content Accessibility Guidelines (WCAG) 2.1
 Include the web page and a description of the issue, and we will work to address it as quickly as possible. ​ Accessibility is an ongoing effort, and we welcome feedback that helps us serve every voter in Virginia's 2nd Congressional District.
 Paid for by Matt Baker for Congress Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or the U.S.
 Marine Corps.
-Terms & Conditions | Privacy Policy | Accessibility Statement bottom of page
+Terms & Conditions | Privacy Policy | Accessibility Statement | FAQs bottom of page

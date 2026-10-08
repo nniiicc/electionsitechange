@@ -1,4 +1,2 @@
-Voter Information
-Use the link provided here to find out information about elections in SC.
-Forrest For House
-Powered by CampaignPartner.com - Political Campaign Websites
+Home About Cal Events News On the Issues Photo Gallery Contact Voter Information Use the link provided here to find out information about elections in SC. https://www.scvotes.org VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News 2026 Update 3 2026 Update 2 2026 Update 1 2025-26 Budget Summary 2025 Session Recap Forrest For House Powered by CampaignPartner.com - Political Campaign Websites Home About Cal Events News On the Issues Photo Gallery Contact Close Menu

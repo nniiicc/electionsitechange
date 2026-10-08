@@ -1,4 +1,4 @@
-Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate Articles NH CLP Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate Articles NH CLP © # Daryl D’Angelo for Amherst and Milford Issues Where I Stand Some of the issues that matter in Hillsborough District 37 — and what I believe about them.
+Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate NH CLP Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate NH CLP © # Daryl D’Angelo for Amherst and Milford Issues Where I Stand Some of the issues that matter in Hillsborough District 37 — and what I believe about them.
 Schools and Education Funding I believe families should have real choices in how their children are educated.
 That means traditional public schools, charter schools, private schools, homeschooling — whatever works best for a given child and family.
 Towns that want to maintain strong traditional public schools should absolutely be able to do that.

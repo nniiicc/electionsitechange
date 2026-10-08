@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News State Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News State Rep.
 Kiel: ‘We owe it to our taxpayers’ to see that the First Amendment is protected at state universities Last week, the Alabama House Republican caucus took a stand to back University of North Alabama Student Government Association President Jake Statom in a dispute over a social media post that included a photo of a T-shirt with a rainbow that read, “Born this way?
 You must be born again.” Continue Reading Alabama House GOP Caucus passes resolution supporting UNA Student Government Presiden “My Republican colleagues and I recognize the courage it takes for college leaders to promote biblical principles and traditional values on campuses that are increasingly embracing the Cancel Culture and its ‘woke’ demands,” State Rep.
 Jamie Kiel said.

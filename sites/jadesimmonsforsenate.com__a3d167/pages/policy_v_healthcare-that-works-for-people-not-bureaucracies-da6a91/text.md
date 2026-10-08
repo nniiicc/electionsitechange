@@ -47,7 +47,7 @@ Putting a maximum wait-time guarantee on healthcare, between referral to service
 It’s the healthcare we deserve.
 The future is wholeness, health, wellness, and fair care.
 Texas, we have it in us to do better for us.
-Previous Independence from Party Control Next Humane Immigration Reform and Border Security You Might Also Like Independence from Party Control A New Era in Education Humane Immigration Reform and Border Security The Thurgood Marshall Plan A Breakthrough Brief: Thrivability for Small Business STAY UPDATED Let’s Build the Future Together.
+Previous Independence from Party Control Next Humane Immigration Reform and Border Security You Might Also Like A New Era in Education Thrivability: Beyond Affordability to Economic Possibility The Thurgood Marshall Plan Humane Immigration Reform and Border Security Independence from Party Control STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.

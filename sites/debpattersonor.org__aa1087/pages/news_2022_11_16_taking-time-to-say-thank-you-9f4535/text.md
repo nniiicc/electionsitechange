@@ -1,0 +1,7 @@
+Home About Deb Priorities Endorsements Get Involved Español Donate Home About Deb Priorities Endorsements Get Involved Español Donate Taking Time to Say Thank You I am so proud to be able to continue representing Senate District 10 in the Capitol for the next 4 years and I am forever grateful to everyone who volunteered their time, resources and effort to getting me across the finish line.
+This is truly our victory.
+That is why I am hoping you will join me on December 10th from 2-4pm at Indy Commons (154 S Main St.
+Independence, OR) for a Volunteer Appreciation event so that I can say thank you for helping me make this a reality.
+We will be providing drinks and food from local stores around Senate District 10 and hope that we will see you there.
+If you would like to join us on December 10th, please RSVP to emily@debpattersonor.org .
+News Deb Patterson November 16, 2022 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Volunteer Appreciation Party News Deb Patterson November 28, 2022 Volunteer Next About Those Lawn Signs News Deb Patterson November 16, 2022 DONATE Friends of Deb Patterson PO Box 8, Salem, OR 97308 (503) 400-5224 deb@debpattersonor.org Hours Home About Deb Priorities Endorsements Get Involved Donate Oregon Voter Registration FRIENDS OF DEB PATTERSON, PO BOX 8, SALEM, OR 97308 DEB@DEBPATTERSONOR.ORG Paid for by Friends of Deb Patterson, PAC ID #18821 ©# Friends of Deb Patterson

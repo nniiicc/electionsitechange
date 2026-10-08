@@ -25,7 +25,7 @@ Whether you take on a recurring role or help at a one-time event, your time and 
 Join Team Wirth and make a difference.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name First Last Email Phone Email Name Phone Number Submit Facebook Instagram TikTok IN THE NEWS WFYI News Now Hear from Cinde about key issues, including affordability, stronger public education, improved healthcare access and more protection for the environment.
+Name First Last Name Number Phone Email Phone Number Submit Facebook Instagram TikTok IN THE NEWS WFYI News Now Hear from Cinde about key issues, including affordability, stronger public education, improved healthcare access and more protection for the environment.
 Listen Now Professional Left Podcast In this extended conversation, Cinde shares what drove her to run for office, her priorities around working families, public education, healthcare access and the environment, as well as what it takes to flip a seat in deep-red Indiana.
 Listen Now Turn Left Podcast Cinde chats about issues within public education and the systemic reasons why many people, particularly women, are underserved and under-supported through our education system.
 Listen Now Hoosiers are Wirth the fight! ​Join us and send Dr.

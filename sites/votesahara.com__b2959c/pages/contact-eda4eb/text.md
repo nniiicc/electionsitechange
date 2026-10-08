@@ -5,5 +5,5 @@ Message frequency varies.
 Message and data rates may apply.
 Text HELP for support or email info@votesahara.com for more information.
 Click for our privacy statement.
-11 + 3 = Submit Contact@VoteSahara.com We love volunteers!
+10 + 14 = Submit Contact@VoteSahara.com We love volunteers!
 Find out how you can have a hand in better representation.

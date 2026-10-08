@@ -1,15 +1,12 @@
-About Shannon
-Shannon Erickson is an educator, small-business owner, and longtime community leader who has proudly represented South Carolina House District 124 in Beaufort County since 2007.
-Today, Shannon serves as Chairman of the House Education and Public Works Committee, where she helps lead the House's work on issues impacting South Carolina's schools, teachers, higher education, roads, transportation, and public safety.
-Her leadership on the committee brings together two issues that have long been central to her service: strengthening education and ensuring South Carolina's infrastructure keeps pace with a growing state.
-Throughout her time in the House, Shannon has taken on a number of important leadership roles.
-She previously served on the House Ways and Means Committee, where she chaired the Transportation and Regulatory Budget Subcommittee, and on the Labor, Commerce and Industry Committee, where she chaired the Regulation Subcommittee.
+top of page REPRESENTATIVE SHANNON ERICKSON Home About Shannon Issues Contact More Use tab to navigate through the menu items.
+DONATE About Shannon Shannon Erickson is an educator, small-business owner, and longtime community leader who has proudly represented South Carolina House District 124 in Beaufort County since 2007. ​ Today, Shannon serves as Chairman of the House Education and Public Works Committee , where she helps lead the House's work on issues impacting South Carolina's schools, teachers, higher education, roads, transportation, and public safety.
+Her leadership on the committee brings together two issues that have long been central to her service: strengthening education and ensuring South Carolina's infrastructure keeps pace with a growing state. ​ Throughout her time in the House, Shannon has taken on a number of important leadership roles.
+She previously served on the House Ways and Means Committee , where she chaired the Transportation and Regulatory Budget Subcommittee, and on the Labor, Commerce and Industry Committee, where she chaired the Regulation Subcommittee.
 She has also served as a Republican Whip and held leadership positions in both the General Assembly Women's Caucus and Republican Women's Leadership Caucus.
 Shannon's work has extended beyond committee leadership.
-She chaired the South Carolina House Domestic Violence Reform Task Force, which helped develop and advance major domestic violence reform legislation, and served for eight years on the Joint Citizens and Legislative Committee on Children, including service as both Chair and Vice Chair.
-Before serving in the State House, Shannon built her career around education and small business.
+She chaired the South Carolina House Domestic Violence Reform Task Force, which helped develop and advance major domestic violence reform legislation, and served for eight years on the Joint Citizens and Legislative Committee on Children, including service as both Chair and Vice Chair. ​ Before serving in the State House, Shannon built her career around education and small business.
 She earned a bachelor's degree in Early Childhood Education and is President of Lowcountry Building Blocks, Inc., which operates preschool and child development centers in Beaufort.
 That experience has given Shannon a firsthand understanding of the challenges facing parents, educators, employees, and small-business owners.
 Shannon grew up in Florence and now calls the Lowcountry home with her husband, Kendall.
-She has remained active in organizations throughout the Beaufort community and continues to bring the perspective of an educator, business owner, and community advocate to her work in Columbia.
-For Shannon, public service is about listening to the people she represents, bringing people together, and delivering responsible solutions that strengthen Beaufort County and South Carolina for generations to come.
+She has remained active in organizations throughout the Beaufort community and continues to bring the perspective of an educator, business owner, and community advocate to her work in Columbia. ​ For Shannon, public service is about listening to the people she represents, bringing people together, and delivering responsible solutions that strengthen Beaufort County and South Carolina for generations to come.
+PAID FOR BY ELECT SHANNON ERICKSON 129 S Hermitage Rd. | Beaufort, SC 29902 repshannonerickson@gmail.com bottom of page

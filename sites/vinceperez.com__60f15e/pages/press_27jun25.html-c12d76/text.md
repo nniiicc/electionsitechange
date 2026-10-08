@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · June 27, 2025 Representative Perez Announces New UTEP Student Union Bill Becomes Law HB 2853 is signed into law, modernizing the UTEP Student Union and delivering on one of Vince's top higher-ed priorities for the 89th session.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · June 27, 2025 Representative Perez Announces New UTEP Student Union Bill Becomes Law HB 2853 is signed into law, bringing a new UTEP Student Union and delivering on one of Vince's top higher-ed priorities for the 89th session.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .
 ### Vince Perez is State Representative for House District 77 in El Paso.

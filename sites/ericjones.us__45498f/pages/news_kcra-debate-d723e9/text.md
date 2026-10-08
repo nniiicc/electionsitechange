@@ -18,4 +18,4 @@ Margin of error plus or minus 2.8%.
 ### Voters can sign the petition, demanding Rep.
 Thompson participate in the debates, here.
 Nick Sanitsky Previous Previous Eric Jones Releases Comprehensive Agriculture and Water Platform Ahead of Farm Bureau Forum Next Next Republican Primary Candidate Crosses Party Lines to Endorse Democrat Eric Jones Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

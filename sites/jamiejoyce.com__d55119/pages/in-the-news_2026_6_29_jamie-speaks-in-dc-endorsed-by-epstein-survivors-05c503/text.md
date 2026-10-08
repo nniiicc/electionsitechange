@@ -24,7 +24,7 @@ It is a thread worth pulling on until we reveal the truth about whether there is
 If our government is, in any way, implicated in the horrific abuse of Epstein, the American people demand to know and they demand justice.” A part of Jamie’s argument for her candidacy is that the fact this bill passed without any amendments that would have protected survivors and surfaced more files is evidence that the people should elect representatives who have expertise - and pay attention to details.
 Jamie Joyce is making the full legislative draft available to any member of Congress or candidate who wishes to introduce it as a separate title: Title VII .
 Watch the full presentation below.
-Jamie Joyce Previous Previous Jamie Covered in National News In the News We can’t let a “blue wave” become “business as usual” Jamie is running to represent Berkeley, Oakland, Alameda, Albany, Emeryville, San Leandro, and Piedmont Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for.
+Jamie Joyce In the News We can’t let a “blue wave” become “business as usual” Jamie is running to represent Berkeley, Oakland, Alameda, Albany, Emeryville, San Leandro, and Piedmont Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for.
 In tests we performed, they bias towards incumbents.
 They were not trained to be nuanced about political matters, accept surface-level claims, and it’s highly unethical that they would even suggest an opinion.
 LLMs focus on items like voting record, when a challenger who is not an incumbent has no opportunity to demonstrate one.

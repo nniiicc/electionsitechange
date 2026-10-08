@@ -16,4 +16,4 @@ The Jones campaign today formally issued the challenge to Thompson's campaign an
 ### Voters can sign the petition, demanding Rep.
 Thompson participate in the debates, here.
 Nick Sanitsky Previous Previous Republican Primary Candidate Crosses Party Lines to Endorse Democrat Eric Jones Next Next Letter to Thompson’s Campaign Issuing a Debate Challenge Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

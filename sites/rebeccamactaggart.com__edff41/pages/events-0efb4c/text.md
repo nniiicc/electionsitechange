@@ -1,6 +1,4 @@
-0 Skip to Content Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Oct 7 Yard Signs & Pizza Wednesday, October 7, 2026 5:00 PM 8:00 PM Ignite (map) Google Calendar ICS Come get your Rebecca MacTaggart for PA yard sign AND a slice of pizza, featuring Panhead Pie Company, Steve Aloia’s brand new Detroit-style pop-up shop here in Washington.
-It’s our way of showing our appreciation for your support!
-View Event → Oct 11 Pregame Fill Up Lunch at the Croatian Club in Donora Sunday, October 11, 2026 12:00 PM 2:00 PM American Croatian Citizens Club (map) Google Calendar ICS Meet Rebecca, find out what kind of state representative she wants to be, and fill up for the Steelers game at 1pm!
+0 Skip to Content Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Oct 11 Pregame Fill Up Lunch at the Croatian Club in Donora Sunday, October 11, 2026 12:00 PM 2:00 PM American Croatian Citizens Club (map) Google Calendar ICS Meet Rebecca, find out what kind of state representative she wants to be, and fill up for the Steelers game at 1pm!
 View Event → Oct 14 Meet the Candidates Night - LWV & NAACP Wednesday, October 14, 2026 6:30 PM 9:00 PM Washington High School (map) Google Calendar ICS The League of Women Voters of Washington County and the NAACP Washington Branch are holding a “Meet the Candidates Night” 6:30 pm, October 14, 2026, at Washington High School.
 The event is hosted by the school’s Student Life Group.
 View Event → Oct 17 to Oct 18 No Kings Rally - October 17 Sat, Oct 17, 2026 12:00 PM Sun, Oct 18, 2026 1:00 PM Washington County Courthouse (map) Google Calendar ICS Because no one person gets to decide our leaders before voters do.
@@ -12,6 +10,8 @@ View Event → Oct 24 Signs and Sweets in Palmer Park Saturday, October 24, 2026
 It only takes a minute to put up and keeps working every day until Election Day.
 Stop by Palmer Park’s Pavilion #1 at noon, grab a sign or two, and meet Rebecca.
 The first 100 guests get a treat from Olivia Walker’s May Contain Nuts Bake Shop, just down the road in Elrama.
+View Event → Oct 7 Yard Signs & Pizza Wednesday, October 7, 2026 5:00 PM 8:00 PM Ignite (map) Google Calendar ICS Come get your Rebecca MacTaggart for PA yard sign AND a slice of pizza, featuring Panhead Pie Company, Steve Aloia’s brand new Detroit-style pop-up shop here in Washington.
+It’s our way of showing our appreciation for your support!
 View Event → Sep 28 Town Hall with Alan Bradstock Monday, September 28, 2026 6:00 PM 8:00 PM American Legion Post 175 (map) Google Calendar ICS I’ll be appearing at Alan Bradstock’s Town Hall at American Legion Post 175 on Park Avenue.
 Come meet us both!
 Alan Bradstock is a U.S.

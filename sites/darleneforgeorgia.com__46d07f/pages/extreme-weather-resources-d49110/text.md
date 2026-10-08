@@ -1,10 +1,3 @@
-Stay Prepared
-Extreme Weather Resources
-GENERAL ELECTION
-NOVEMBER 5th
-Emergency Dial Numbers
-For Fire and Medical Emergencies Dial 911
-Mental Health Supports Dial 988
-County Emergency Links
-Thomas County Emergency Management
-Grady County Emergency Management
+Skip to content Menu Home Resources Legislative Updates Contact Donate Close Menu Stay Prepared Extreme Weather Resources GENERAL ELECTION NOVEMBER 5th Donate Today Emergency Dial Numbers For Fire and Medical Emergencies Dial 911 Mental Health Supports Dial 988 County Emergency Links Thomas County Emergency Management Grady County Emergency Management Emergency Management Federal Emergency Management National Hurricane Center Gas Availability Tracker (Gasbuddy) Red Cross Shelter Covid State Resources Georgia Emergency Management For Florida Evacuees The Salvation Army Disaster Relief Mpox Guidance and Resources Avian Influenza (Bird Flu) Georgia Department of Agriculture Disaster Relief Back To Top Darlene Taylor Post Office Box 6580 Thomasville, GA 31757 (229) 225-9943 Ext.
+215 ⓒ Rep.
+Darlene Taylor 2022 ☆ Paid by Darlene For Georgia Campaign

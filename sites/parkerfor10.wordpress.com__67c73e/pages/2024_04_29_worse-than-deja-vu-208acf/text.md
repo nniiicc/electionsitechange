@@ -1,8 +1,7 @@
-Back in the late 1500s, a young scholar named Valentius Acidalius thought he would publish an outrageous theory and gain recognition.
+Skip to content Time For A Change Home April 29, 2024 politics , Uncategorized Worse than Deja Vu Back in the late 1500s, a young scholar named Valentius Acidalius thought he would publish an outrageous theory and gain recognition.
 He wrote a pamphlet arguing that women have no souls.
 Church authorities found the satire(?) less than amusing.
-It prompted several vehement printed rebuttals, and was put on the church list of banned books in 1651. [this is not an endorsement of book banning.]
-It is now the 21st century.
+It prompted several vehement printed rebuttals, and was put on the church list of banned books in 1651. [this is not an endorsement of book banning.] It is now the 21st century.
 And we are treated to the spectacle of a bunch of mostly male, mostly Catholic, very corrupt judges, solemnly debating exactly HOW CLOSE TO DEATH a pregnant woman has to be to deserve emergency medical treatment.
 Is it OK if she loses a kidney?
 If she loses her ability ever to have a future child?
@@ -21,3 +20,8 @@ And the only way we get our equal rights back is by voting.
 An initiative is needed to restore women’s freedom, because this legislature is blindly determined on their tyrannical course.
 Enough Democrats defeating Republicans could turn that around, but that might that may take a while.
 Will you help turn the tide?
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Protecting whom?
+From whom? → Home, Not So Sweet Leave a comment Cancel reply Δ Create a free website or blog at WordPress.com.
+Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
+Log in now.
+Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started

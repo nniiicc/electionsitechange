@@ -1,18 +1,74 @@
 [
-"https://facebook.com/profile.php?id=61575406576743",
-"https://indivisiblestjohnsbury.org/",
-"https://instagram.com/tuckerforvermont",
-"https://letsgrowkidsactionnetwork.org/",
-"https://plannedparenthood.org/",
-"https://secure.actblue.com/donate/david-tucker-1",
-"https://sierraclub.org/",
-"https://tuckerforvermont.com/",
-"https://tuckerforvermont.com/campaign-endorsements",
-"https://tuckerforvermont.com/contact",
-"https://tuckerforvermont.com/issues",
-"https://tuckerforvermont.com/meet-david-tucker",
-"https://tuckerforvermont.com/news",
-"https://vermontconservationvoters.com/",
-"https://vpirg.org/",
-"https://vtnea.org/"
+{
+"text": "Campaign Endorsements",
+"href": "https://tuckerforvermont.com/campaign-endorsements/"
+},
+{
+"text": "Contact",
+"href": "https://tuckerforvermont.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-tucker-1"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61575406576743"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/tuckerforvermont"
+},
+{
+"text": "Home",
+"href": "https://tuckerforvermont.com/"
+},
+{
+"text": "Issues",
+"href": "https://tuckerforvermont.com/issues/"
+},
+{
+"text": "Meet David",
+"href": "https://tuckerforvermont.com/meet-david-tucker/"
+},
+{
+"text": "News & Events",
+"href": "https://tuckerforvermont.com/news/"
+},
+{
+"text": "[image]",
+"href": "https://letsgrowkidsactionnetwork.org/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/"
+},
+{
+"text": "[image]",
+"href": "https://vermontconservationvoters.com/"
+},
+{
+"text": "[image]",
+"href": "https://vtnea.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.indivisiblestjohnsbury.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthood.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.vpirg.org/"
+},
+{
+"text": "info@tuckerforvermont.com",
+"href": "mailto:into@tuckerforvermont.com"
+}
 ]

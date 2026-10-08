@@ -107,4 +107,4 @@ The only thing it costs is our privacy if we wait.
 Read Full Policy THE BOTTOM LINE Protecting the future means making hard choices now — balancing the budget, securing our water, defending our farms, and refusing to gamble our kids' wellbeing for corporate profit.
 That's the inheritance worth fighting for.
 Join the Fight Contribute Return to the Top Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

@@ -1,4 +1,4 @@
-Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Early Voting Donate Now Volunteer Newsletter Request a Sign 2026 Democratic Candidate for Iowa Senate District 23 Strong Families.
+Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Voting Donate Now Volunteer Newsletter Request a Sign 2026 Democratic Candidate for Iowa Senate District 23 Strong Families.
 Strong Communities.
 Strong Futures.
 These aren’t just words — they’re the roadmap.

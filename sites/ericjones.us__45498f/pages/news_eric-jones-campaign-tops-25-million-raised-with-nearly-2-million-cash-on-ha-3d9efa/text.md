@@ -1,4 +1,4 @@
 0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Statement on endorsement from the American Independent Party Apr 30 Written By Brian Parvizshahi From the desk of Eric Jones: I want to be clear: I never sought, was notified of, or accepted an endorsement from the American Independent Party.
 Any submission of an endorsement by the American Independent Party was made without my consent.
 ### Brian Parvizshahi Previous Previous Eric Jones Advances to November General Election Next Next Eric Jones Campaign Tops $# Million Raised, With Nearly $# Million Cash on Hand — Powered by People, Not Special Interests Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

@@ -5,8 +5,7 @@ That means keeping the focus right where it belongs: on the care and well-being 
 That’s why I am proud to endorse Chris McGowan.
 Chris will always fight to put patients first.
 He understands the challenges our communities face and will work tirelessly to protect rural healthcare clinics, expand access to care, and ensure quality medical services are never out of reach.
-Just as importantly, Chris isn’t afraid to stand up to big insurance companies when they put barriers between patients and their doctors.
-We need leaders who will champion common-sense, accessible healthcare for all of our communities.
+Just as importantly, Chris isn’t afraid to stand up to big insurance companies when they put barriers between patients and their doctors.We need leaders who will champion common-sense, accessible healthcare for all of our communities.
 Chris McGowan is ready to do just that, and he has my full support!” - Rep.
 Ann Meyer - Chair, Iowa House Health & Human Services Budget Committee Monday, September 28, 2026 “Chris McGowan will be an exceptional addition to what is shaping up to be an outstanding class of incoming House Republicans.
 His background as a military veteran, attorney, economic development professional, and long-time business leader in the tri-state area of Iowa, Nebraska, and South Dakota will serve him well in Washington.

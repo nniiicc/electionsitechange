@@ -3,6 +3,6 @@ Our lives are inundated with attention draining programs, apps and websites that
 It can be overwhelming to know what to do.
 Join Reps.
 Emily Carris Duncan + Monique Priestley on Monday December 15th 2025 at the Pettee Memorial Library from 6:30-8pm to learn about the effect of Data Privacy, AI, and digital advertising on our everyday lives and what we can do about it.
-REGISTER HERE Previous Previous May 3 Coffee Hour at the Halifax Community Hall Next Next February 9 Community Zoom Donate Wilmington.
+REGISTER HERE Donate Wilmington.
 Whitingham.
 Halifax

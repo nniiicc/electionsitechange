@@ -3,7 +3,7 @@ Turf and materials will be provided.
 Bring comfortable shoes and a friend if you can.
 No experience necessary.
 All are welcome.
-Previous Previous September 26 Iron Workers Local Union #3 Open House and Festival Next Next September 28 Town Hall with Alan Bradstock Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
+Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
 PEOPLE FIRST.
 ALWAYS.
 Rebecca MacTaggart for PA Mailing Address: 60 South Lincoln Street Ignite Mailbox #12 Washington, PA 15301 Contact

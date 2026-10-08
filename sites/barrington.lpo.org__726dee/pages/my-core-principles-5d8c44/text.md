@@ -61,6 +61,6 @@ I do not, however, accept decentralization as a way to decentralize tyranny.
 There is no meaningful difference between my mayor telling me what to do at implicit gunpoint and the President doing the same.
 My vision includes a federal government which still guarantees and protects the basic rights of all from abuses by any state or local government, including ensuring freedom of movement.
 In contrast, prison sentences are intended to deter the behavior through punishment, or prevent the offender from committing similar offenses.
-The former is inefficient, and the latter is clearly ineffective given the nature of existence in prison. ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+The former is inefficient, and the latter is clearly ineffective given the nature of existence in prison. ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

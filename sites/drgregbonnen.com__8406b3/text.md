@@ -57,7 +57,7 @@ Let’s hear it.
 This campaign is built on listening to Texans like you.
 Contact Form Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * Name I First Last Name * Phone Email * I would like: a yard sign a large 8x4 road sign to host an event to volunteer to publicly endorse to help in another way email signup By providing your phone number, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from the Greg Bonnen Campaign.
+First Name * Last Name * Phone I Name Name Email * I would like: a yard sign a large 8x4 road sign to host an event to volunteer to publicly endorse to help in another way email signup By providing your phone number, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from the Greg Bonnen Campaign.
 Message and data rates may apply.
 Reply STOP to opt-out.
 Terms & Conditions/Privacy Policy apply.

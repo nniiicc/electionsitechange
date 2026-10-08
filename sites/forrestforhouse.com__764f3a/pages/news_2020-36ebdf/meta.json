@@ -1,7 +1,11 @@
 {
  "description": "Overview I hope everyone stayed safe during the storms that spanned across our entire state yesterday. The bad weather did not stop the legislature from taking...",
  "final_url": "https://forrestforhouse.com/news/2020",
- "paid_for_by": null,
+ "fingerprint": "f53360b775365e6676370590d3957eb8d017dd6d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2020 Statehouse Report #4",
- "years_mentioned": []
+ "years_mentioned": [
+  "2020"
+ ]
 }

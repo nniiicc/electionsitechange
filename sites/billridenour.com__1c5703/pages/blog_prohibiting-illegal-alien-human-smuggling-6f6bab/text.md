@@ -16,6 +16,6 @@ There will be others.
 We used to be a nation of laws.
 The Left and those who refuse to stand up to them are making us a nation of lawlessness.
 We must demand our governments do the right thing and stop illegal immigration and the enormous costs to our society.
-MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous The Anti-Terrorism Act Next Next Resolution to Congress Demanding a Federal Balanced Budget Amendment Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+MONTANI SEMPER LIBERI Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

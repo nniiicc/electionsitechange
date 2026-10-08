@@ -1,7 +1,12 @@
 {
  "description": "Volunteer for Cal Forrest&#39;s campaign",
  "final_url": "https://forrestforhouse.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "e9536153d2d3e4e263a27f8c3ce0a0b6be3e2bcb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

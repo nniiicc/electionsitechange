@@ -8,6 +8,6 @@ Constitution.
 The amendment will be put onto our general election ballot this November.
 The draft Resolution is on my campaign website.
 If our Country is to survive, we must rein in our out-of-control federal government and its insane spending which is destroying any future for the People.
-MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous Prohibiting Illegal Alien Human Smuggling Next Next Resolution to Nullify Federal Actions Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+MONTANI SEMPER LIBERI Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

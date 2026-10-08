@@ -1,5 +1,4 @@
-Georgia Legislative Update – Week 1 Ending January 17, 2026
-We are back!
+Skip to content Menu Home Resources Legislative Updates Contact Donate Close Menu January 24, 2026 Georgia Legislative Update – Week 1 Ending January 17, 2026 We are back!
 The Georgia General Assembly returned on Monday, January 12, 2026, for the first day of the 2026 legislative session and the start of the second year of the 158th Session.
 The House celebrated the first day of the 2026 session with a special performance by Miss Georgia 2025, Audrey Kittila, she delivered a violin rendition of “Georgia on My Mind,” The memorable rendition was a great way to begin the session and to prepare us for the business before us.
 In addition to the special performance, we also took time to recognize the work completed during the 2025 interim to restore and renovate the House Chamber.
@@ -8,7 +7,7 @@ It was designed to preserve the Capitol’s original character, while ushering i
 From locally produced carpet manufactured in Dalton to gold leaf accents sourced from Dahlonega, the project reflects a deep commitment honoring the legacy and historical integrity of Our State Capitol.
 The renovations to our beautiful Chamber were completed in an astonishing timeframe, and GBA shared a timelapse video capturing the restoration process from start to finish.
 We hope you all can take a moment this session to visit the “People’s House” to see the beauty of the House Chamber.
-We moved on with our business Monday as the House voted to adopt House Resolution 998, the Adjournment Resolution establishing the legislative calendar for the entire 2026 legislative session.
+We moved on with our business Monday as the House voted to adopt House Resolution 998 , the Adjournment Resolution establishing the legislative calendar for the entire 2026 legislative session.
 Georgia’s Constitution requires the Georgia General Assembly to convene for 40 non-consecutive legislative days, and the final day of this year’s session—also known as “Sine Die”— is scheduled for Thursday, April 2, 2026.
 With the goal of ensuring a smooth and efficient legislative process, this calendar provides a clear schedule for the session, allowing legislators, staff and visitors to plan ahead as we conduct the people’s business.
 On Wednesday, members of the General Assembly attended the Georgia Chamber of Commerce’s annual Eggs & Issues breakfast, where Gov.
@@ -16,7 +15,7 @@ Kemp gave a preview of some of his priorities for the year.
 He announced plans for a one-time $35 million natural gas infrastructure fund through the Georgia Environmental Finance Authority.
 He also proposed major transportation projects, including $1.8 billion for the always congested McDonough Area at I-75 Henry County Express Lanes; $250 million for local roads and $100 million for rural bridge improvements.
 The governor also unveiled a one-time $50 million Homeless Response Grant.
-Later in the week, members of both Houses of the General Assembly, gathered in the House Chamber for a joint session to hear the governor deliver his final State of the State Address as Georgia’s 83rd governor.
+Later in the week, members of both Houses of the General Assembly, gathered in the House Chamber for a joint session to hear the governor deliver his final State of the State Address as Georgia’s 83 rd governor.
 Each year the General Assembly provides the governor an opportunity to share his assessment of the state’s condition and outlines his legislative priorities for the year ahead.
 Gov.
 Kemp’s final address centered on lowering the cost of living for Georgians, while prioritizing education, workforce training, school safety, strengthening retirement security for law enforcement and intensifying efforts to combat human trafficking and gang-related crime across Georgia.
@@ -35,6 +34,7 @@ He also noted that as of the current fiscal year, the state has fully funded the
 He also spoke of the state’s efforts to support school safety.
 The governor noted, in his first year, the state began with three campus security grants, totaling more than $184.5 million, and since then, the state has added $109 million into the base budget with the objective of providing funds to improve safety in Georgia’s classrooms.
 He also stated that his proposals would bring the total amount allocated to public safety during his time in office to more than $511 million.
+He then touted that during his tenure as Governor; his Administration has raised teacher pay by $9,500—increasing the starting salary for a Georgia teacher by almost 28%.
 Next, Gov.
 Kemp turned his focus to higher education and scholarship programs.
 Over the last several years, the Kemp Administration has returned the HOPE scholarship to 100% of its promise, while the Board of Regents has worked to hold tuition rates to allow greater opportunity for students.
@@ -73,9 +73,11 @@ Following the observance of the Martin Luther King Jr. holiday, we will return t
 During what is often referred to as “budget week,” we will hear directly from Governor Kemp and state agency leaders as they present their budget requests to the joint House and Senate Appropriations Committees.
 These committees will continue meeting throughout the week, and we look forward to providing updates as we work through the budget process in the House.
 As House committee meetings continue throughout the legislative session, you are invited and encouraged to attend meetings in person or watch live streams of all official House committee and subcommittee meetings on the House website.
-Meeting schedules and live streams are available at https://www.legis.ga.gov/schedule/house
-Throughout this time here at the State Capitol,we look forward to continuing to work to support you and your family.
+Meeting schedules and live streams are available at https://www.legis.ga.gov/schedule/house Throughout this time here at the State Capitol,we look forward to continuing to work to support you and your family.
 You may reach out to me with any questions and concerns you may have as this legislative session progresses.
 Rep.
-Darlene Taylor may be reached at her office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246.
+Darlene Taylor may be reached at her office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246 .
 Thank you for allowing us to serve as your state representative for the 2025-2026 legislative term.
+Georgia Legislative Update – Session Report Related Posts Updates Georgia Legislative Update – Session Report Updates Georgia Legislative Update – Press Release Updates Georgia Legislative Update – Week 12 Part 2 Back To Top Darlene Taylor Post Office Box 6580 Thomasville, GA 31757 (229) 225-9943 Ext.
+215 ⓒ Rep.
+Darlene Taylor 2022 ☆ Paid by Darlene For Georgia Campaign

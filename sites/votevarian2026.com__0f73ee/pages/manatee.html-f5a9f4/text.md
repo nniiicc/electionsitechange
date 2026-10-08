@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid The 16 Converging Crisis Inputs (Updated) U.S.
 National Debt Exceeds $40 Trillion : Uncapped federal spending drives total sovereign debt to historic highs.
 Net Interest on National Debt Surpasses $1.2 Trillion : High baseline rates make interest the single largest line item in the federal budget.

@@ -1,4 +1,4 @@
-Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Issues My Public Policy Plan for Illinois.
+Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Issues My Public Policy Plan for Illinois.
 CORRUPTION: Illinois is the first in the nation for public corruption.
 We need a public integrity Police investigative unit to investigate crooked politicians.
 We need stiffer penalties for corruption.
@@ -101,4 +101,4 @@ Illinois provides only 6 homes for veterans.
 One (Prince Home) only occupies 15.
 For too long veterans homes have been mismanaged contributing to many veteran deaths due to the spread of diseases because of poor healthcare and management.
 We need more funds to build new veteran nursing homes and we need housing vouchers for homeless veterans including placement for permanent homes.
-Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Close Menu
+Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu

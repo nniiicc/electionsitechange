@@ -84,10 +84,6 @@
 "href": "https://joysanbuenaventura.com/#mobile-menu-toggle"
 },
 {
-"text": "Newsletter",
-"href": "https://joysanbuenaventura.com/newsletter-2/"
-},
-{
 "text": "October 2020",
 "href": "https://joysanbuenaventura.com/2020/10/"
 },
@@ -132,12 +128,12 @@
 "href": "viber://forward?text=https%3A%2F%2Fjoysanbuenaventura.com%2Fveteran-day-address%2F"
 },
 {
-"text": "Puna District",
-"href": "https://joysanbuenaventura.com/puna-district/"
+"text": "Postcard/ ENDORSEMENTS",
+"href": "https://joysanbuenaventura.com/postcard/"
 },
 {
-"text": "Senator Ruderman Endorsement",
-"href": "https://joysanbuenaventura.com/senator-ruderman-endorsement/"
+"text": "Puna District",
+"href": "https://joysanbuenaventura.com/puna-district/"
 },
 {
 "text": "September 2018",
@@ -234,6 +230,10 @@
 {
 "text": "meet Joy",
 "href": "https://joysanbuenaventura.com/about/"
+},
+{
+"text": "newsletter",
+"href": "https://joysanbuenaventura.com/newsletter/"
 },
 {
 "text": "redistricting Hawaii Senate",

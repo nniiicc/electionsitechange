@@ -1,4 +1,4 @@
-Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT Republican-Conservative for Congress · NY-18 Meet Jackie Mary Auringer Affordability.
+Skip to main content Home About Jackie Events Gallery Volunteer News & Press Track AIPAT DONATE CONTACT Republican-Conservative for Congress · NY-18 Meet Jackie Mary Auringer Affordability.
 Accountability.
 Opportunity.
 In Her Own Words Why I'm Running I am watching the place I call home become increasingly unaffordable for the people who built it.
@@ -55,7 +55,7 @@ Blooming Grove Chester Cornwall Crawford Deerpark Goshen Greenville Hamptonburgh
 Whether you can donate, volunteer, or simply spread the word, every bit of support makes a real difference.
 Donate Now Volunteer Paid for by Jackie Auringer for Congress .
 Not authorized by any candidate or candidate's committee.
-Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Campaign About Jackie Gallery News & Press Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
 Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
 All rights reserved.
 I consent to receive SMS text message updates from Jackie Auringer for Congress By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Jackie Auringer for Congress.

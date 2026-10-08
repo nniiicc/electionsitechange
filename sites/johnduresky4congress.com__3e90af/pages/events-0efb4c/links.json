@@ -9,6 +9,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=119+1st+ave.+zillah%2C+washington%2C+98953+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=1500+south+oak+street+kennewick%2C+washington%2C+99337+united+states"
 },
 {
@@ -30,10 +34,6 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=350+north+14th+avenue+pasco%2C+washington%2C+99301+united+states"
-},
-{
-"text": "(map)",
-"href": "http://maps.google.com?q=3953+airway+dr+ne+moses+lake%2C+washington%2C+98837+united+states"
 },
 {
 "text": "(map)",
@@ -317,10 +317,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grant+County+Fair+-+Day+2&dates=20260822T230000Z%2F20260823T020000Z&location=3953+Airway+Dr+NE%2C+Moses+Lake%2C+Washington%2C+98837%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Latino+Heritage+Picnic&dates=20260926T180000Z%2F20260927T000000Z&location=350+North+14th+Avenue%2C+Pasco%2C+Washington%2C+99301%2C+United+States"
 },
 {
@@ -392,8 +388,8 @@
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=YouTube+Live+Townhall+-+District-Wide&dates=20260925T020000Z%2F20260925T030000Z"
 },
 {
-"text": "Grant County Fair - Day 2",
-"href": "https://www.johnduresky4congress.com/events/benton-franklin-fair-parade-j8mxy-hs36b"
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Zillah+Chamber+of+Commerce+Candidate+Forum&dates=20261009T000000Z%2F20261009T020000Z&location=119+1st+Ave.%2C+Zillah%2C+Washington%2C+98953%2C+United+States"
 },
 {
 "text": "Home",
@@ -406,10 +402,6 @@
 {
 "text": "ICS",
 "href": "https://www.johnduresky4congress.com/events/benton-franklin-fair-parade-j8mxy-hs36b-5k7xn?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.johnduresky4congress.com/events/benton-franklin-fair-parade-j8mxy-hs36b?format=ical"
 },
 {
 "text": "ICS",
@@ -572,6 +564,10 @@
 "href": "https://www.johnduresky4congress.com/events/youtube-live-townhall-district-wide?format=ical"
 },
 {
+"text": "ICS",
+"href": "https://www.johnduresky4congress.com/events/zillah-chamber-of-commerce-candidate-forum?format=ical"
+},
+{
 "text": "Issues",
 "href": "https://www.johnduresky4congress.com/issues"
 },
@@ -666,10 +662,6 @@
 {
 "text": "View Event →",
 "href": "https://www.johnduresky4congress.com/events/aarp-candidate-forum-live-on-youtube-facebook"
-},
-{
-"text": "View Event →",
-"href": "https://www.johnduresky4congress.com/events/benton-franklin-fair-parade-j8mxy-hs36b"
 },
 {
 "text": "View Event →",
@@ -836,6 +828,10 @@
 "href": "https://www.johnduresky4congress.com/events/youtube-live-townhall-district-wide-sept24"
 },
 {
+"text": "View Event →",
+"href": "https://www.johnduresky4congress.com/events/zillah-chamber-of-commerce-candidate-forum"
+},
+{
 "text": "Volunteer",
 "href": "https://www.johnduresky4congress.com/volunteer"
 },
@@ -854,6 +850,10 @@
 {
 "text": "YouTube channel",
 "href": "https://nam12.safelinks.protection.outlook.com/?url=https%253A%252F%252Furldefense.com%252Fv3%252F__https%253A%252Fwww.youtube.com%252Fplaylist%253Flist%253DPL6pHcbVJ2q0FBsPPWI3e-qEfNSdVVJwBc__%253B%21%21JmPEgBY0HMszNaDT%21ryDZs9TIrzKqc3nntM_TJWb47TIFHjNE2fELNyQBB41jElVmbGBA5XAZgKfb77xOS_BSmfEjBXZ-T-WYQg%2524&data=05%257C02%257CJErskine%2540aarp.org%257Cabd19e8be4d846de8a3308df07afc3aa%257Ca395e38b4b754e4493499a37de460a33%257C0%257C0%257C639238123643318792%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C&sdata=bSqXQl8IyEtVzZW2CgFElRIJYjharMNg4GECPJSxDr8%253D&reserved=0"
+},
+{
+"text": "Zillah Chamber of Commerce Candidate Forum",
+"href": "https://www.johnduresky4congress.com/events/zillah-chamber-of-commerce-candidate-forum"
 },
 {
 "text": "[image: AARP Candidate Forum-Live on YouTube & Facebook]",
@@ -952,10 +952,6 @@
 "href": "https://www.johnduresky4congress.com/events/goldendale-meet-greet-townhall"
 },
 {
-"text": "[image: Grant County Fair - Day 2]",
-"href": "https://www.johnduresky4congress.com/events/benton-franklin-fair-parade-j8mxy-hs36b"
-},
-{
 "text": "[image: JOHN DURESKY FOR CONGRESS]",
 "href": "https://www.johnduresky4congress.com/"
 },
@@ -1030,6 +1026,10 @@
 {
 "text": "[image: YouTube Live Townhall - District-Wide]",
 "href": "https://www.johnduresky4congress.com/events/youtube-live-townhall-district-wide-sept24"
+},
+{
+"text": "[image: Zillah Chamber of Commerce Candidate Forum]",
+"href": "https://www.johnduresky4congress.com/events/zillah-chamber-of-commerce-candidate-forum"
 },
 {
 "text": "[image]",

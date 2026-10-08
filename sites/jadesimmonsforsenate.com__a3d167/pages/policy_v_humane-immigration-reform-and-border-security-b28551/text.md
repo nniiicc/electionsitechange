@@ -54,7 +54,7 @@ The truth is, that has not been the experience for so many who live here and cal
 Yet, fear, hate, crime and dysfunction is becoming the norm for many who were born here or came here imagining a different existence.
 A better system is way better than just a bigger wall.
 We can build something more powerful, more secure, and more humane for our future.
-Previous Healthcare That Works for People, Not Bureaucracies Next Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like Independence from Party Control A New Era in Education Women’s Empowerment & A Fresh Take on Life and Choice A Breakthrough Brief: Thrivability for Small Business Healthcare That Works for People, Not Bureaucracies STAY UPDATED Let’s Build the Future Together.
+Previous Healthcare That Works for People, Not Bureaucracies Next Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like The Thurgood Marshall Plan A Breakthrough Brief: Thrivability for Small Business A New Era in Education Independence from Party Control Healthcare That Works for People, Not Bureaucracies STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.

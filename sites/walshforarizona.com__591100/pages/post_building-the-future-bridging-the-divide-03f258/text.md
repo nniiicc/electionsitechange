@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
 All Articles Press Announcement Search Building the Future - Bridging the Divide Jun 8 1 min read Updated: Aug 2 Latest literature from Stephanie.
 This palm card outlines her primary issues.
 Recent Posts See All Gilbert Chamber Candidate Endorsement Frequently Asked Questions about Stephanie Walsh for Arizona Senate ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.

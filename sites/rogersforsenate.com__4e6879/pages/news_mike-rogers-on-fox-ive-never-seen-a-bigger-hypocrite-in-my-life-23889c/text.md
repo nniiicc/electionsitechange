@@ -70,7 +70,7 @@ There's a reason he's bringing in Barack Obama after saying he was ineffective f
 I mean, this guy has attacked everybody.
 But boy, when he needs it, he's calling all the friends he can try to find to muster up.
 The reason they're doing that, Martha, is because we're making such big, important inroads to the African American community, especially in Detroit.” Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
-### Hinson Peed Next Next MIKE ROGERS ON FOX: ABDUL EL-SAYED HAD A NO GOOD, VERY BAD WEEK CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+### Hinson Peed Previous Previous MIKE ROGERS STATEMENT ON THE ANNIVERSARY OF OCTOBER 7TH ATTACKS Next Next MIKE ROGERS ON FOX: ABDUL EL-SAYED HAD A NO GOOD, VERY BAD WEEK CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

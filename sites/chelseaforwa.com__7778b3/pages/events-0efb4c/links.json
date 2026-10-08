@@ -48,10 +48,6 @@
 "href": "https://www.chelseaforwa.com/about"
 },
 {
-"text": "Buy Tickets",
-"href": "https://secure.actblue.com/donate/juntossomosmas"
-},
-{
 "text": "Canvas with Chelsea!",
 "href": "https://www.chelseaforwa.com/events/canvas-with-chelsea"
 },
@@ -69,10 +65,6 @@
 },
 {
 "text": "Donate Now",
-"href": "https://secure.actblue.com/donate/chelseaforwa"
-},
-{
-"text": "Donate now/done ahora!",
 "href": "https://secure.actblue.com/donate/chelseaforwa"
 },
 {
@@ -196,6 +188,10 @@
 "href": "https://www.chelseaforwa.com/events/yakima-community-canvass?format=ical"
 },
 {
+"text": "Issues",
+"href": "https://www.chelseaforwa.com/#:~:text=What%20I%E2%80%99m%20fighting%20for%0APor%20lo%20que%20estoy%20luchando"
+},
+{
 "text": "Juntos Pa' La Gente Community Canvass",
 "href": "https://www.chelseaforwa.com/events/juntos-pa-la-gente-community-canvass"
 },
@@ -206,34 +202,6 @@
 {
 "text": "News",
 "href": "https://www.chelseaforwa.com/news"
-},
-{
-"text": "RSVP Here!/Regístrese Aquí!",
-"href": "https://secure.actblue.com/donate/sunnysidemeetandgreet"
-},
-{
-"text": "RSVP here!/Regístrese aquí!",
-"href": "https://docs.google.com/forms/d/e/1FAIpQLScqzFHJCeIQsHTX68Hrdni6BgMA2dEC1ZJdLgMJ8qzd8pY_zQ/viewform?usp=sf_link"
-},
-{
-"text": "RSVP today!",
-"href": "https://secure.actblue.com/donate/dimas-5-13"
-},
-{
-"text": "Sign up by clicking this link!",
-"href": "https://forms.gle/RCX1PxRu31omWvL36"
-},
-{
-"text": "Sign-Up Now!",
-"href": "https://docs.google.com/forms/d/e/1FAIpQLSdSg2DWUez3WJ_p_P3Ji_49RM5HAg5MGscr3SrOzqNRcZ91WQ/viewform?usp=header"
-},
-{
-"text": "Sign-up",
-"href": "https://docs.google.com/forms/d/e/1FAIpQLSc8BLZ-6SAzDezl5a2-lSiy9Ew6ugaVKW2DhUskBhlq7SPX6Q/viewform?usp=header"
-},
-{
-"text": "Sign-up Now!",
-"href": "https://forms.gle/RCX1PxRu31omWvL36"
 },
 {
 "text": "Squarespace",
@@ -385,10 +353,6 @@
 },
 {
 "text": "[no text]",
-"href": "mailto:info@chelseaforwa.com"
-},
-{
-"text": "info@chelseaforwa.com",
 "href": "mailto:info@chelseaforwa.com"
 }
 ]

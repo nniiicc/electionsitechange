@@ -1,4 +1,4 @@
-Donate Home Meet Santosh Priorities Record Legislative Record Board of Education Community Work Endorsements & Media In the News Endorsements 2026 Endorsements 2024-25 Testimonials Contact Santosh Re-Elect Rep.
+Donate Home Meet Santosh Priorities Record Legislative Record Board of Education Community Work Media In the News Testimonials Endorsements Endorsements 2026 Endorsements 2024-25 Contact Santosh Re-Elect Rep.
 Santosh Salvi — State Representative, Nashua Ward 5.
 General Election: Tuesday, November 3, 2026.
 Santosh Salvi Serving on the Nashua Board of Education Elected November 2025 As a member of the Nashua Board of Education, Representative Santosh Salvi is a strong proponent of an affordable, high-quality public education.

@@ -1,57 +1,546 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fnews%2F&t=News",
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fnews%2F&title=News",
-"http://printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fnews%2F&title=News",
-"http://twitter.com/share?text=News&url=https%3A%2F%2Fleesahagan.com%2Fnews%2F&via=LeesaHagan",
-"https://cardinalisdesign.com/political-website-design",
-"https://facebook.com/LeesaHaganforGeorgia",
-"https://leesahagan.com/",
-"https://leesahagan.com/2023-week-12-update-sine-die-yall",
-"https://leesahagan.com/2024-session-legislative-summary",
-"https://leesahagan.com/2024-week-1-update-legislative-session-begins",
-"https://leesahagan.com/about-leesa",
-"https://leesahagan.com/amended-fy-2026-budget-passes-house",
-"https://leesahagan.com/bills-passed-the-house-week-6-session-update",
-"https://leesahagan.com/budget-week-in-the-books",
-"https://leesahagan.com/budget-work-continues-week-3",
-"https://leesahagan.com/constituent-services",
-"https://leesahagan.com/crossover-day-2026",
-"https://leesahagan.com/crossover-week-week-7-session-update",
-"https://leesahagan.com/elections",
-"https://leesahagan.com/final-2026-session-update",
-"https://leesahagan.com/final-session-update-2025-week-12",
-"https://leesahagan.com/georgia-tort-reform-week-10-session-update",
-"https://leesahagan.com/hagan-completes-republican-leadership-georgia",
-"https://leesahagan.com/halfway-point-of-session",
-"https://leesahagan.com/help-out",
-"https://leesahagan.com/house-bills-passed-week-5",
-"https://leesahagan.com/new-cottage-food-law-georgia",
-"https://leesahagan.com/new-georgia-laws-affecting-rural-areas-2025",
-"https://leesahagan.com/new-georgia-laws-effective-july-1",
-"https://leesahagan.com/new-laws-in-effect-july-1-2023",
-"https://leesahagan.com/news",
-"https://leesahagan.com/paper-mill-closures-south-georgia",
-"https://leesahagan.com/rep-hagan-named-chair-of-the-house-rural-development-committee",
-"https://leesahagan.com/rural-development-council-members-announced",
-"https://leesahagan.com/session-update-responsible-budget-policy-georgia",
-"https://leesahagan.com/state-of-the-state-week-1",
-"https://leesahagan.com/stay-informed-during-session",
-"https://leesahagan.com/week-1-session-update-i-swear",
-"https://leesahagan.com/week-10-session-update",
-"https://leesahagan.com/week-11-session-update",
-"https://leesahagan.com/week-12-session-update-sine-die",
-"https://leesahagan.com/week-2-budget-week",
-"https://leesahagan.com/week-3-session-update-tort-reform-georgia",
-"https://leesahagan.com/week-3-update-hate-has-no-place",
-"https://leesahagan.com/week-4-session-update-richard-smith-remembered",
-"https://leesahagan.com/week-5-session-update-legislative-process-continues",
-"https://leesahagan.com/week-6-update-second-chance",
-"https://leesahagan.com/week-7-2026-amended-budget",
-"https://leesahagan.com/week-7-update-a-crowded-capitol",
-"https://leesahagan.com/week-8-session-update-crossover-week",
-"https://leesahagan.com/week-9-update-2027-budget",
-"https://leesahagan.com/what-bills-passed-week-7-legislative-highlights",
-"https://linkedin.com/in/leesahagan",
-"https://mailchi.mp/064a8e45ec4a/campaign-email-signup",
-"https://twitter.com/LeesaHagan"
+{
+"text": "2023 Week 12 Update: Sine Die, Y’all!",
+"href": "https://leesahagan.com/2023-week-12-update-sine-die-yall/"
+},
+{
+"text": "2024 Session: Legislative Summary",
+"href": "https://leesahagan.com/2024-session-legislative-summary/"
+},
+{
+"text": "2024 Week 1 Update: A Strong Start to the Legislative Session!",
+"href": "https://leesahagan.com/2024-week-1-update-legislative-session-begins/"
+},
+{
+"text": "2024 Week 2 Update: Budget Week",
+"href": "https://leesahagan.com/week-2-budget-week/"
+},
+{
+"text": "2024 Week 3 Update: Hate has no place in Georgia",
+"href": "https://leesahagan.com/week-3-update-hate-has-no-place/"
+},
+{
+"text": "About Leesa",
+"href": "https://leesahagan.com/about-leesa/"
+},
+{
+"text": "Amended FY 2026 budget: Week 4 Update",
+"href": "https://leesahagan.com/amended-fy-2026-budget-passes-house/"
+},
+{
+"text": "Budget Week is In the Books",
+"href": "https://leesahagan.com/budget-week-in-the-books/"
+},
+{
+"text": "Budget Work Continues as the Legislative Session Moves Forward",
+"href": "https://leesahagan.com/budget-work-continues-week-3/"
+},
+{
+"text": "Cardinalis",
+"href": "https://cardinalisdesign.com/political-website-design/"
+},
+{
+"text": "Constituent Services",
+"href": "https://leesahagan.com/constituent-services/"
+},
+{
+"text": "Crossover Week: Week 8 Session Update",
+"href": "https://leesahagan.com/crossover-week-week-7-session-update/"
+},
+{
+"text": "Elections",
+"href": "https://leesahagan.com/elections/"
+},
+{
+"text": "Final 2026 Session Update",
+"href": "https://leesahagan.com/final-2026-session-update/"
+},
+{
+"text": "Final Session Update of 2025: Week 12",
+"href": "https://leesahagan.com/final-session-update-2025-week-12/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LeesaHaganforGeorgia"
+},
+{
+"text": "Follow",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/LeesaHagan"
+},
+{
+"text": "Georgia Expands Cottage Food Law: A Win for Entrepreneurs",
+"href": "https://leesahagan.com/new-cottage-food-law-georgia/"
+},
+{
+"text": "Georgia Tort Reform: Week 10 Session Update",
+"href": "https://leesahagan.com/georgia-tort-reform-week-10-session-update/"
+},
+{
+"text": "Help Out",
+"href": "https://leesahagan.com/help-out/"
+},
+{
+"text": "House Bills Passed: Week 5 Session Update",
+"href": "https://leesahagan.com/house-bills-passed-week-5/"
+},
+{
+"text": "New Georgia Laws Affecting Rural Communities: 2025 summary",
+"href": "https://leesahagan.com/new-georgia-laws-affecting-rural-areas-2025/"
+},
+{
+"text": "New Georgia Laws Effective on July 1",
+"href": "https://leesahagan.com/new-georgia-laws-effective-july-1/"
+},
+{
+"text": "New Laws in Effect July 1, 2023",
+"href": "https://leesahagan.com/new-laws-in-effect-july-1-2023/"
+},
+{
+"text": "News",
+"href": "https://leesahagan.com/news/"
+},
+{
+"text": "Press Release: Mill Closings in South Georgia",
+"href": "https://leesahagan.com/paper-mill-closures-south-georgia/"
+},
+{
+"text": "Press Release: SPEAKER BURNS ANNOUNCES RURAL DEVELOPMENT COUNCIL Members FOR THE 2023 SESSION",
+"href": "https://leesahagan.com/rural-development-council-members-announced/"
+},
+{
+"text": "Rep. Hagan Named Chair of the House Rural Development Committee",
+"href": "https://leesahagan.com/rep-hagan-named-chair-of-the-house-rural-development-committee/"
+},
+{
+"text": "Rep. Leesa Hagan Completes Republican Leadership for Georgia",
+"href": "https://leesahagan.com/hagan-completes-republican-leadership-georgia/"
+},
+{
+"text": "Several Bills Passed in the House: Week 6 Session Update",
+"href": "https://leesahagan.com/bills-passed-the-house-week-6-session-update/"
+},
+{
+"text": "Sign Up",
+"href": "https://mailchi.mp/064a8e45ec4a/campaign-email-signup"
+},
+{
+"text": "State of the State & Week 1 Update",
+"href": "https://leesahagan.com/state-of-the-state-week-1/"
+},
+{
+"text": "Stay informed during the legislative session",
+"href": "https://leesahagan.com/stay-informed-during-session/"
+},
+{
+"text": "Week 1 Session Update: I Swear!",
+"href": "https://leesahagan.com/week-1-session-update-i-swear/"
+},
+{
+"text": "Week 10 Session Update",
+"href": "https://leesahagan.com/week-10-session-update/"
+},
+{
+"text": "Week 11 Session Update",
+"href": "https://leesahagan.com/week-11-session-update/"
+},
+{
+"text": "Week 12 Session Update: Sine Die",
+"href": "https://leesahagan.com/week-12-session-update-sine-die/"
+},
+{
+"text": "Week 3 Session Update: Tort Reform in Georgia",
+"href": "https://leesahagan.com/week-3-session-update-tort-reform-georgia/"
+},
+{
+"text": "Week 4 Session Update: A Responsible Budget Policy for Georgia",
+"href": "https://leesahagan.com/session-update-responsible-budget-policy-georgia/"
+},
+{
+"text": "Week 4 Session Update: Richard Smith Remembered",
+"href": "https://leesahagan.com/week-4-session-update-richard-smith-remembered/"
+},
+{
+"text": "Week 5 Session Update: The Legislative Process Continues",
+"href": "https://leesahagan.com/week-5-session-update-legislative-process-continues/"
+},
+{
+"text": "Week 6 Session Update: A Second Chance",
+"href": "https://leesahagan.com/week-6-update-second-chance/"
+},
+{
+"text": "Week 7 Session Update: The amended budget",
+"href": "https://leesahagan.com/week-7-2026-amended-budget/"
+},
+{
+"text": "Week 7 Update: A Crowded Capitol",
+"href": "https://leesahagan.com/week-7-update-a-crowded-capitol/"
+},
+{
+"text": "Week 8 Session Update: Crossing Over",
+"href": "https://leesahagan.com/crossover-day-2026/"
+},
+{
+"text": "Week 8 Session Update: Crossover Week",
+"href": "https://leesahagan.com/week-8-session-update-crossover-week/"
+},
+{
+"text": "Week 9 Update: 2027 budget",
+"href": "https://leesahagan.com/week-9-update-2027-budget/"
+},
+{
+"text": "We’ve Reached the Halfway Point of Session",
+"href": "https://leesahagan.com/halfway-point-of-session/"
+},
+{
+"text": "What Bills Passed? A Look at Week 7 Legislative Highlights",
+"href": "https://leesahagan.com/what-bills-passed-week-7-legislative-highlights/"
+},
+{
+"text": "[image: 2023 Week 12 Update: Sine Die, Y’all!]",
+"href": "https://leesahagan.com/2023-week-12-update-sine-die-yall/"
+},
+{
+"text": "[image: 2024 Session: Legislative Summary]",
+"href": "https://leesahagan.com/2024-session-legislative-summary/"
+},
+{
+"text": "[image: 2024 Week 1 Update: A Strong Start to the Legislative Session!]",
+"href": "https://leesahagan.com/2024-week-1-update-legislative-session-begins/"
+},
+{
+"text": "[image: 2024 Week 2 Update: Budget Week]",
+"href": "https://leesahagan.com/week-2-budget-week/"
+},
+{
+"text": "[image: 2024 Week 3 Update: Hate has no place in Georgia]",
+"href": "https://leesahagan.com/week-3-update-hate-has-no-place/"
+},
+{
+"text": "[image: Amended FY 2026 budget: Week 4 Update]",
+"href": "https://leesahagan.com/amended-fy-2026-budget-passes-house/"
+},
+{
+"text": "[image: Budget Week is In the Books]",
+"href": "https://leesahagan.com/budget-week-in-the-books/"
+},
+{
+"text": "[image: Budget Work Continues as the Legislative Session Moves Forward]",
+"href": "https://leesahagan.com/budget-work-continues-week-3/"
+},
+{
+"text": "[image: Crossover Week: Week 8 Session Update]",
+"href": "https://leesahagan.com/crossover-week-week-7-session-update/"
+},
+{
+"text": "[image: Final 2026 Session Update]",
+"href": "https://leesahagan.com/final-2026-session-update/"
+},
+{
+"text": "[image: Final Session Update of 2025: Week 12]",
+"href": "https://leesahagan.com/final-session-update-2025-week-12/"
+},
+{
+"text": "[image: Georgia Expands Cottage Food Law: A Win for Entrepreneurs]",
+"href": "https://leesahagan.com/new-cottage-food-law-georgia/"
+},
+{
+"text": "[image: Georgia Tort Reform: Week 10 Session Update]",
+"href": "https://leesahagan.com/georgia-tort-reform-week-10-session-update/"
+},
+{
+"text": "[image: House Bills Passed: Week 5 Session Update]",
+"href": "https://leesahagan.com/house-bills-passed-week-5/"
+},
+{
+"text": "[image: New Georgia Laws Affecting Rural Communities: 2025 summary]",
+"href": "https://leesahagan.com/new-georgia-laws-affecting-rural-areas-2025/"
+},
+{
+"text": "[image: New Georgia Laws Effective on July 1]",
+"href": "https://leesahagan.com/new-georgia-laws-effective-july-1/"
+},
+{
+"text": "[image: New Laws in Effect July 1, 2023]",
+"href": "https://leesahagan.com/new-laws-in-effect-july-1-2023/"
+},
+{
+"text": "[image: Press Release: Mill Closings in South Georgia]",
+"href": "https://leesahagan.com/paper-mill-closures-south-georgia/"
+},
+{
+"text": "[image: Press Release: SPEAKER BURNS ANNOUNCES RURAL DEVELOPMENT COUNCIL Members FOR THE 2023 SESSION]",
+"href": "https://leesahagan.com/rural-development-council-members-announced/"
+},
+{
+"text": "[image: Rep. Hagan Named Chair of the House Rural Development Committee]",
+"href": "https://leesahagan.com/rep-hagan-named-chair-of-the-house-rural-development-committee/"
+},
+{
+"text": "[image: Rep. Leesa Hagan Completes Republican Leadership for Georgia]",
+"href": "https://leesahagan.com/hagan-completes-republican-leadership-georgia/"
+},
+{
+"text": "[image: Several Bills Passed in the House: Week 6 Session Update]",
+"href": "https://leesahagan.com/bills-passed-the-house-week-6-session-update/"
+},
+{
+"text": "[image: State of the State & Week 1 Update]",
+"href": "https://leesahagan.com/state-of-the-state-week-1/"
+},
+{
+"text": "[image: Stay informed during the legislative session]",
+"href": "https://leesahagan.com/stay-informed-during-session/"
+},
+{
+"text": "[image: Week 1 Session Update: I Swear!]",
+"href": "https://leesahagan.com/week-1-session-update-i-swear/"
+},
+{
+"text": "[image: Week 10 Session Update]",
+"href": "https://leesahagan.com/week-10-session-update/"
+},
+{
+"text": "[image: Week 11 Session Update]",
+"href": "https://leesahagan.com/week-11-session-update/"
+},
+{
+"text": "[image: Week 12 Session Update: Sine Die]",
+"href": "https://leesahagan.com/week-12-session-update-sine-die/"
+},
+{
+"text": "[image: Week 3 Session Update: Tort Reform in Georgia]",
+"href": "https://leesahagan.com/week-3-session-update-tort-reform-georgia/"
+},
+{
+"text": "[image: Week 4 Session Update: A Responsible Budget Policy for Georgia]",
+"href": "https://leesahagan.com/session-update-responsible-budget-policy-georgia/"
+},
+{
+"text": "[image: Week 4 Session Update: Richard Smith Remembered]",
+"href": "https://leesahagan.com/week-4-session-update-richard-smith-remembered/"
+},
+{
+"text": "[image: Week 5 Session Update: The Legislative Process Continues]",
+"href": "https://leesahagan.com/week-5-session-update-legislative-process-continues/"
+},
+{
+"text": "[image: Week 6 Session Update: A Second Chance]",
+"href": "https://leesahagan.com/week-6-update-second-chance/"
+},
+{
+"text": "[image: Week 7 Session Update: The amended budget]",
+"href": "https://leesahagan.com/week-7-2026-amended-budget/"
+},
+{
+"text": "[image: Week 7 Update: A Crowded Capitol]",
+"href": "https://leesahagan.com/week-7-update-a-crowded-capitol/"
+},
+{
+"text": "[image: Week 8 Session Update: Crossing Over]",
+"href": "https://leesahagan.com/crossover-day-2026/"
+},
+{
+"text": "[image: Week 8 Session Update: Crossover Week]",
+"href": "https://leesahagan.com/week-8-session-update-crossover-week/"
+},
+{
+"text": "[image: Week 9 Update: 2027 budget]",
+"href": "https://leesahagan.com/week-9-update-2027-budget/"
+},
+{
+"text": "[image: We’ve Reached the Halfway Point of Session]",
+"href": "https://leesahagan.com/halfway-point-of-session/"
+},
+{
+"text": "[image: What Bills Passed? A Look at Week 7 Legislative Highlights]",
+"href": "https://leesahagan.com/what-bills-passed-week-7-legislative-highlights/"
+},
+{
+"text": "[image]",
+"href": "https://leesahagan.com"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?text=News&url=https%3A%2F%2Fleesahagan.com%2Fnews%2F&via=LeesaHagan"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fnews%2F&t=News"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fnews%2F&title=News"
+},
+{
+"text": "[no text]",
+"href": "http://www.printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fnews%2F&title=News"
+},
+{
+"text": "here. ←",
+"href": "https://leesahagan.com/elections/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/2023-week-12-update-sine-die-yall/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/2024-session-legislative-summary/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/2024-week-1-update-legislative-session-begins/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/amended-fy-2026-budget-passes-house/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/bills-passed-the-house-week-6-session-update/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/budget-week-in-the-books/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/budget-work-continues-week-3/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/crossover-day-2026/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/crossover-week-week-7-session-update/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/final-2026-session-update/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/final-session-update-2025-week-12/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/georgia-tort-reform-week-10-session-update/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/hagan-completes-republican-leadership-georgia/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/halfway-point-of-session/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/house-bills-passed-week-5/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/new-cottage-food-law-georgia/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/new-georgia-laws-affecting-rural-areas-2025/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/new-georgia-laws-effective-july-1/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/new-laws-in-effect-july-1-2023/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/paper-mill-closures-south-georgia/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/rep-hagan-named-chair-of-the-house-rural-development-committee/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/rural-development-council-members-announced/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/session-update-responsible-budget-policy-georgia/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/state-of-the-state-week-1/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/stay-informed-during-session/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-1-session-update-i-swear/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-10-session-update/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-11-session-update/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-12-session-update-sine-die/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-2-budget-week/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-3-session-update-tort-reform-georgia/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-3-update-hate-has-no-place/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-4-session-update-richard-smith-remembered/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-5-session-update-legislative-process-continues/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-6-update-second-chance/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-7-2026-amended-budget/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-7-update-a-crowded-capitol/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-8-session-update-crossover-week/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/week-9-update-2027-budget/"
+},
+{
+"text": "read more",
+"href": "https://leesahagan.com/what-bills-passed-week-7-legislative-highlights/"
+}
 ]

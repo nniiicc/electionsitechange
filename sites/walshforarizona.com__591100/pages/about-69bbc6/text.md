@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
 Hello Gilbert I am running for the Arizona State Senate in LD14 to bring practical, solutions-focused leadership to the Legislature.
 I believe Arizona’s future depends on our ability to work together, solve problems, and make smart decisions today.
 My priorities include strengthening Arizona's economy, rejuvenating public education, promoting responsible energy production, and protecting Arizona’s water resources so families, businesses, and communities can thrive.

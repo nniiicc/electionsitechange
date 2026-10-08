@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 3/14/2025 Capitol Hill Update 3/14/2025 Tennessee farmland preservation legislation passes Senate The Tennessee Senate passed legislation on Thursday to protect Tennessee farmland from development.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 3/14/2025 Capitol Hill Update 3/14/2025 Tennessee farmland preservation legislation passes Senate The Tennessee Senate passed legislation on Thursday to protect Tennessee farmland from development.
 Senate Bill 207 would establish a $25 million Farmland Preservation Fund to provide grants for property owners who voluntarily place their farm or forestry land into an agricultural easement with the Tennessee Department of Agriculture.
 The program aims to make farmland preservation financially feasible for family farms, ensuring they remain in agricultural use for future generations.
 While property owners can already place their land in a conservation easement through various entities, rising land prices provide little incentive to do so.

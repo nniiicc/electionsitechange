@@ -3,7 +3,7 @@ Message frequency varies.
 Message and data rates may apply.
 For help, reply HELP or email us at lyndon.yearick34rd@gmail.com.
 You can opt-out at any time by replying STOP.
-12 + 15 = Submit By providing my mobile number I consent to receive informational text messages from Yearick for Delaware.
+3 + 4 = Submit By providing my mobile number I consent to receive informational text messages from Yearick for Delaware.
 Message frequency may vary.
 Msg & Data rates may apply.
 Donations may be solicited.

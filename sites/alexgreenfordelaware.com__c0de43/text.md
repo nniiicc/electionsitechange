@@ -1,5 +1,5 @@
 top of page DONATE Home Issues Political Career Professional Life Contact Who is Alex Green ?
-Alex Green is a long time district resident having lived in the greater Hockessin area for over 27 years.
+Alex Green is a lifetime resident of greater Hockessin.
 He is active in the community, church, and politics.
 The vision Alex has is one of strength, hope, and empathy.
 The Democratic Party has played a substantial role in my life and I will maintain my party affiliation but I understand the sensitivity of party lines in today's political climate.

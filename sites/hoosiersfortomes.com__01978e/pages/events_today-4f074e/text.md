@@ -1,7 +1,7 @@
 Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute Archives: Events 0 events found.
-Events for October 7, 2026 Notice There are no upcoming events.
+Events for October 8, 2026 Notice There are no upcoming events.
 Notice There are no upcoming events.
 Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation Day List Month Day #ago 10/7/2026 October 7, 2026 Select date.
+Find Events Event Views Navigation Day List Month Day #ago 10/8/2026 October 8, 2026 Select date.
 Previous Day Next Day Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul News The Data Center Issue Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election SHOTGUN SHOWDOWN GROUNDBREAKING OF NEW CGB EXPANSION Expanded Indiana Early Voting Indiana Senate District 49 Copyright © # Elect Jim Tomes – Powered by My Campaign Web. *Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes

@@ -1,4 +1,4 @@
-Skip Navigation Menu Priorities About Get Involved Volunteer Merch Donate Priorities About Get Involved Volunteer Merch Donate Privacy Policy & Terms of Service Last updated: July 8, 2025 1.
+Skip Navigation Menu Vote Priorities About Get Involved Volunteer Merch Donate Vote Priorities About Get Involved Volunteer Merch Donate Privacy Policy & Terms of Service Last updated: July 8, 2025 1.
 INTRODUCTION This website, KirosforCO.com, (the “Site”) is operated by Kiros for Congress (“We” or “Us”).
 We are committed to protecting your privacy online.
 By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.

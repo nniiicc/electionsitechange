@@ -12,9 +12,9 @@ The drawdown also gives lake residents and businesses an opportunity to perform 
 Dominion Energy urges all boaters to use extra caution during this period.
 Lake Murray is expected to return to its normal summer elevation of 358 feet by late spring 2027, depending on rainfall and river flows.
 For more information, contact Dominion Energy’s Lake Management at 803-217-9221.
-Share Post navigation Ahead of schedule, eyesore removed (video) American Legion Post 193 – 9/11 remembrance Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign signs are going up!
+Share Post navigation Ahead of schedule, eyesore removed (video) American Legion Post 193 – 9/11 remembrance Label {} [+] Name* Email* Δ Label {} [+] Name* Email* Δ 0 Comments Oldest Newest Most Voted Latest News Campaign Update – 4 weeks til Election Day Campaign signs are going up!
 Let me know where to deliver yours!
-Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Dominion Energy to begin Lake Murray draw down this fall Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
+Okra Strut marks 51 years in Irmo 21st Annual Irmo Community Prayer Breakfast – Jack’s Pack Mom on the Campaign Trail (video) Ahead of schedule, eyesore removed (video) Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date! " * " indicates required fields Email * Phone Zip Code Opt-in I would like to receive messages from Nathan Ballentine for State House.
 Opt-in By submitting this form and signing up for texts, you consent to receive marketing, donation asks, and informational messages from Nathan Ballentine for State House.
 Msg & data rates may apply.
 Msg frequency varies.

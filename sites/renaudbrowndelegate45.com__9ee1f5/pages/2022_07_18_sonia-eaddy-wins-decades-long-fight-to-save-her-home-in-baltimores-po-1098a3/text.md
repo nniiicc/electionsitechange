@@ -47,7 +47,7 @@ Eaddy framed her victory Monday as much more than a decadeslong struggle over a 
 “This is what it’s going to take for all of Baltimore City,” Eaddy said.
 To “the residents who are invested in these neighborhoods, who have suffered and lived through all of the disinvestment, this victory is for us — all of us.” Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
 Related Posted by singer39 July 18, 2022 Posted in Uncategorized Published by singer39 Aspiring and inspiring tenor, teacher, publisher, activist, coach, GREEN View more posts Post navigation Previous Post Previous post: Govans residents seek to overturn zoning approval for crematorium, cite potentially harmful environmental effects Next Post Next post: IN PERSON AND ONLINE VIA ZOOM!
-Leave a comment Cancel reply Δ Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,288 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
+Leave a comment Cancel reply Δ Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,303 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
 Comment Reblog Subscribe Subscribed Renaud Brown for Delegate 2026 Sign me up Have a WordPress.com account?
 Log in now.
 Renaud Brown for Delegate 2026 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

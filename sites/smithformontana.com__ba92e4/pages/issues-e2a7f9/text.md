@@ -39,7 +39,7 @@ I also want to bring home the federal dollars we already pay for .
 That's how we fund our priorities while protecting the family budget at the kitchen table.
 Subscribe for Updates This campaign is informed by our community.
 The best solutions happen when we learn from each other what's important.
-Subscribe to News Subscribe Email Subscribe Ideas on the Issues View More Issues Healthcare Endorsed by Planned Parenthood Advocates of Montana Planned Parenthood Advocates of Montana has endorsed my campaign.
+Subscribe to News Contact Email Subscribe Ideas on the Issues View More Issues Healthcare Endorsed by Planned Parenthood Advocates of Montana Planned Parenthood Advocates of Montana has endorsed my campaign.
 Health care decisions belong between a person and their doctor.
 Read More Worker's Rights Three Times in Five Years, Montana Kept the Right to Bargain Labor Day is a good day to say something out loud that Montana has already decided, three separate times, in the last five years....
 Read More Our Rights Endorsed by Western Native Voice Action Fund Western Native Voice Action Fund has endorsed my campaign.

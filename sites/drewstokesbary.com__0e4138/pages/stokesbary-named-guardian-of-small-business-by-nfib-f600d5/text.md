@@ -5,5 +5,5 @@ Here’s what NFIB’s Washington State Director had to say: Ask every member of
 Watch them when it comes time to prove it, and you’ll find 44 whose actions matched their words.
 I’m proud that my voting record on small business issues indeed matches my rhetoric!
 Awards More For You Rep.
-Stokesbary helps pass property tax relief for seniors In the News Improving the Traffic Avenue bridge above Highway 410 In the News Stokesbary launches campaign for 31st District state Representative In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Stokesbary updates City of Sumner on state issues In the News The Seattle Times recommends Drew Stokesbary Endorsements Endorsed by League of Education Voters Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

@@ -11,6 +11,6 @@ It’s time we reclaim our power, our voice, and our state.
 Join me in this mission to bring back a government that listens, represents, and fights for every Texan.
 This is more than a campaign; it is a movement aimed at reclaiming our voice within the government, and the time for listening is now.
 I invite you to connect with me directly through the form below.
-Email Address Full Name Phone Number Message 11 + 14 = Send Message Political advertisement paid for by Sara McGee.
+Email Address Full Name Phone Number Message 13 + 8 = Send Message Political advertisement paid for by Sara McGee.
 Copyright #.
 Follow Follow Follow Web site design provided by Complete Computing Services .

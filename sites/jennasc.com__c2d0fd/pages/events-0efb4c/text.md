@@ -2,8 +2,6 @@ Skip navigation menu Home Meet Jenna Priorities Events District 112 Volunteer Co
 P, IOP, SI, Awendaw) Canvass for Jenna on your own timeline .
 We'll set you up with a turf and training.
 You knock doors when it's convenient for you.
-More Info Postcard Writing & Bracelet Making Party Hobcaw Brewing 496 Long Point Road, Mount Pleasant, SC 29464 Join Jenna, Katie & friends for a fun, laid-back evening of writing postcards, making bracelets, chatting with neighbors, and enjoying a few drinks!
-Come for the conversation, stay to help us spread the word and build momentum for our campaign!
 More Info League of Women Voters District 112 Candidate Forum Wando Mount Pleasant Library 1400 Carolina Park Blvd.
 Mount Pleasant, SC 29466 A non-partisan forum with candidates for State House District 112.
 Sponsored by League of Women Voters of the Charleston Area and the Mount Pleasant Chamber of Commerce.

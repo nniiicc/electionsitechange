@@ -26,4 +26,4 @@ Spread the Word Donate Your Contribution powers yard signs, mailers, and outreac
 Your concerns, your hopes, your voice—it all matters here. .
 Share Your Concerns Get In Touch Contact the Campaign 📍 Campaign Office 235 S Mill St, Suite 3 Redwood Falls, MN 56283 ✉️ Email Geritheis@hotmail.com 📤 Election Dates Primary: August 11, 2026 General: November 3, 2026 Stay Connected Join Our Email List Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Comment Email Name Name * First Last Email * Comment or Message Submit Theis for House Prepared and paid for by Theis For House · 235 S Mill St Suite 3, Redwood Falls, MN 56283 · Geritheis@hotmail.com Scroll to Top
+Email Comment Message Name * First Last Email * Comment or Message Submit Theis for House Prepared and paid for by Theis For House · 235 S Mill St Suite 3, Redwood Falls, MN 56283 · Geritheis@hotmail.com Scroll to Top

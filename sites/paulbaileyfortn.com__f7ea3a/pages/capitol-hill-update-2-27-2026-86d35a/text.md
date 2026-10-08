@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 2/27/2026 Capitol Hill Update 2/27/2026 To the Citizens of Tennessee Senate District 15 Friends, This week at the Capitol we received significant news as Lt.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 2/27/2026 Capitol Hill Update 2/27/2026 To the Citizens of Tennessee Senate District 15 Friends, This week at the Capitol we received significant news as Lt.
 Governor Randy McNally announced he will not seek re-election to the State Senate in 2026.
 His nearly five decades of service have helped shape Tennessee into the strong, thriving state it is today.
 For the past ten years as Senate Speaker and Lt.

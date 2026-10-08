@@ -17,7 +17,7 @@ Senate Race ICYMI “We are gaining momentum”: Independent Seth Bodnar on CNN'
 Senate in Montana PRESS RELEASE Veterans for All Voters Action Endorses Independent Seth Bodnar for U.S.
 Senate in Montana icymi Independent Seth Bodnar on CNN: "The Question We Should Be Asking Isn't What's Good for Republicans or Democrats.
 It's What's Good for the Country." PRESS RELEASE Former Montana Governor Steve Bullock Endorses Independent Candidate Seth Bodnar for U.S.
-Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” Jul 2 2026 PRESS RELEASE Air Force Veteran and "Country First" Leader Adam Kinzinger Endorses Seth Bodnar for U.S.
+Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” ICYMI Kurt Alme Says “We can't vote to limit the use of force in the Gulf,” Doubles Down on His Support of the Costly and Unauthorized War in Iran ICYMI Former NARAL Head Calls Out Alani Bankhead for Lying About Reproductive Freedom Record Jul 2 2026 PRESS RELEASE Air Force Veteran and "Country First" Leader Adam Kinzinger Endorses Seth Bodnar for U.S.
 Senate MISSOULA, MT — Adam Kinzinger, the former Republican congressman and decorated Air Force veteran who became one of the most prominent voices in American politics for putting country before party, today endorsed Seth Bodnar's Independent campaign for U.S.
 Senate in Montana.
 "From day one at West Point, we were taught what it means to put the country, the mission and your fellow soldiers before yourself,” said Bodnar.

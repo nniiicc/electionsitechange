@@ -17,6 +17,6 @@ One of the important bills we passed was a fix to help taxpayers with the tax cr
 The attached graphic provides an explanation.
 This was the easy part.
 I’ll cover the rest of the Special Circus in my next post.
-Montani Semper Liberi Bill Ridenour Amanda Ridenour Previous Previous Resolution to Prohibit Election Interference Next Next The Special Circus - Part 2 Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Montani Semper Liberi Bill Ridenour Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

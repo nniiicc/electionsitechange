@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News Rep.
 Jamie Kiel appointed to House Ways and Means Committee RUSSELLVILLE — Alabama Speaker of the House Mac McCutcheon has appointed state Rep.
 Jamie Kiel, R-Russellville, to the House Ways and Means Education Committee.
 The legislative committee is responsible for researching and developing the annual multi-billion dollar education budget that funds Continue Reading Kiel accepts appointment to education committee State Rep.

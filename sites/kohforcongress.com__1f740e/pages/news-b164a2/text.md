@@ -1,4 +1,7 @@
-Skip navigation menu Home Meet Dan Endorsements Press Issues Donate Press Releases Home Meet Dan Endorsements Press Issues Donate Press Releases news & press Latest Campaign Developments PRESS RELEASE CONGRESSMAN JIM MCGOVERN (MA-02) ENDORSES DAN KOH “Dan Koh has dedicated his career to public service, and he has the experience, the energy, and the commitment our country needs right now,” says Rep.
+Skip navigation menu Home Meet Dan Endorsements Press Issues Donate Press Releases Home Meet Dan Endorsements Press Issues Donate Press Releases news & press Latest Campaign Developments PRESS RELEASE MASSACHUSETTS ATTORNEY GENERAL ANDREA CAMPBELL ENDORSES DAN KOH “Dan has the local and federal experience to deliver on lowering costs for families, protecting the health care coverage they depend on, and defending our fundamental freedoms” says AG Campbell.
+Read more Oct 7 2026 PRESS RELEASE CONGRESSWOMAN LORI TRAHAN (MA-03) ENDORSES DAN KOH “I've seen the fight Dan brought to the campaign trail, and I know he'll fight just as hard in Congress as a colleague,” says Rep.
+Trahan.
+Read more Oct 6 2026 PRESS RELEASE CONGRESSMAN JIM MCGOVERN (MA-02) ENDORSES DAN KOH “Dan Koh has dedicated his career to public service, and he has the experience, the energy, and the commitment our country needs right now,” says Rep.
 McGovern.
 Read more Oct 6 2026 PRESS RELEASE KOH ANNOUNCES NEARLY #M RAISED IN Q3 Dan Koh has raised a record $# million without accepting corporate PAC money; his newly formed leadership PAC, Do the Work PAC, has raised nearly $# to help elect Democrats across the country.
 Read more Oct # 2026 PRESS RELEASE REPRODUCTIVE FREEDOM FOR ALL ENDORSES DAN KOH “We’re proud to endorse him for the U.S.

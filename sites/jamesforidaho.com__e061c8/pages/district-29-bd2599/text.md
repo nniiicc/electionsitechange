@@ -5,5 +5,5 @@ Shea Civil rights attorney, certified child welfare specialist, and educator ded
 Visit Mary’s Site → House Seat 29B Nate Roberts Representative, electrician, and community leader fighting for fair wages, infrastructure, and practical solutions in the Idaho House.
 Visit Nate’s Site → Idaho State Senate James Ruchti State Senator, Army veteran, and attorney advocating for fiscal responsibility, public safety, and strong Idaho communities.
 Read James’s Bio → Local Grassroots Power Bannock County Democrats Organizing, supporting local candidates, and building a stronger community right here in Pocatello and Bannock County.
-Visit Bannock Dems HQ → Contact Me Email: info@jamesforidaho.com Mailing Address: COMMITTEE TO ELECT JAMES RUCHTI P.O.
+Visit Bannock Dems HQ → Contact Me Phone: 208-251-4104 Email: info@jamesforidaho.com Mailing Address: COMMITTEE TO ELECT JAMES RUCHTI P.O.
 BOX 6046 POCATELLO, ID 83205-6406 Follow Me on Social Media Paid for by the Committee to Elect James Ruchti | Treasurer – Dave Bagley

@@ -1,4 +1,4 @@
-0 Skip to Content About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Back Donate Issues Fire chiefs, business owners, county hospital directors, sheriffs, activists, residents, and commissioners developed my plan to lower costs.
+0 Skip to Content About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Back Donate Issues Fire chiefs, business owners, county hospital directors, sheriffs, activists, residents, and commissioners developed my plan to lower costs.
 Hank Sanders 5/16/26 Hank Sanders 5/16/26 No new data centers.
 No more tax breaks .
 Transparency about water usage and employment figures.

@@ -2,8 +2,8 @@ Home About News Volunteer Donate Contact Contribute Meet the Candidates: Michiga
 Meet the Candidates: Michigan’s 70th...
 Home About News Volunteer Donate Contact Election News July 31, 2024 by webmaster 0 Comments ABC12 full interview with Rep.
 Cynthia Neeley, candidate for state representative in Michigan’s 70th House District.
-Watch it on Youtube: https://www.youtube.com/watch?v=-FTgA00gQJE Share: twitter facebook youtube Post navigation Previous post House Criminal Justice Committee holds hearing on Messiah’s Law Next post Attending the 2024 Democratic National Convention You May Also Like Family News March 25, 2021 We Introduced bills for EQUAL pay for everyone Family Law News Rights & Obligations January 31, 2021 Working together with a positive heart brings about real change.
-Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Watch it on Youtube: https://www.youtube.com/watch?v=-FTgA00gQJE Share: twitter facebook youtube Post navigation Previous post House Criminal Justice Committee holds hearing on Messiah’s Law Next post Attending the 2024 Democratic National Convention You May Also Like News Priorities & Structure Rights & Obligations April 1, 2022 Recognizing Civil Rights leader and Union organizer Cesar Chavez News January 26, 2022 Cynthia Neeley on Gov.
+Whitmer’s State of the State Address Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

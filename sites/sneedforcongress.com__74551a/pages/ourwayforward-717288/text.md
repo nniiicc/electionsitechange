@@ -9,4 +9,4 @@ SOCIAL SECURITY It’s YOUR money ENERGY Sustainable | Available | Abundant Our 
 FIX THE HOUSE Government Reform Restore the balance.
 Demand accountability.
 DATA CENTERS DATA CENTERS & NEW TECH Protecting Your Privacy and Rights ​Join Us at One of Our Upcoming Events Multiple Dates Knock and Roll for Sneed!
-Sat, Sep 12 Andrew Sneed for Congress HQ More info RSVP Multiple Dates Daily Phone Banking Wed, Oct 07 303 Williams Ave SW Building 1 Suite 116 More info RSVP Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page
+Sat, Sep 12 Andrew Sneed for Congress HQ More info RSVP Multiple Dates Daily Phone Banking Thu, Oct 08 303 Williams Ave SW Building 1 Suite 116 More info RSVP Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

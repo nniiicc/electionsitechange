@@ -1,14 +1,1 @@
-top of page
-NEWS & PRESS
-Latest Campaign News
-22
-2026
-MAR
-JerMarkus Jacobs, Candidate for GA State Senate-District 6, Responds to Proposal to Suspend Georgia Gas Tax
-Press Release
-17
-2026
-MAR
-JerMarkus Jacobs, Candidate for GA State Senate-District 6, Calls for Smarter Infrastructure and Environmental Action Following Statewide Power Outages
-Press Release
-bottom of page
+top of page MEET JERMARKUS AGENDA NEWS CONNECT Donate NEWS & PRESS Latest Campaign News 22 2026 MAR JerMarkus Jacobs, Candidate for GA State Senate-District 6, Responds to Proposal to Suspend Georgia Gas Tax Press Release READ MORE 17 2026 MAR JerMarkus Jacobs, Candidate for GA State Senate-District 6, Calls for Smarter Infrastructure and Environmental Action Following Statewide Power Outages Press Release READ MORE 17 2026 MAR JerMarkus Jacobs Launches Campaign for Georgia State Senate District 6 Peachtree City Citizen READ MORE 16 2026 MAR JerMarkus Jacobs Launches Campaign for Georgia State Senate District 6 Press Release READ MORE 08 2024 JAN Newnan resident becomes White House intern Peachtree TV READ MORE 26 2023 DEC East Coweta grad interns at White House The Newnan Times-Herald READ MORE PRIVACY POLICY | MOBILE TERMS AND CONDITIONS | VOLUNTEER PRESS INQUIRIES: PRESS@JACOBSFORGA.COM CONTACT: INFO@JACOBSFORGA.COM Paid for Jacobs for GA bottom of page

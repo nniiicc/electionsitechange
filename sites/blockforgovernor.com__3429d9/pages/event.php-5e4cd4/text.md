@@ -1,11 +1,6 @@
 ★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate Where to find us Upcoming Appearances Meet Ken at upcoming campaign stops and community events across Rhode Island.
 Invite Ken to your event Please contact Michelle Conway at michelle@blockforgovernor.com .
-OCT 07 2026 Upcoming Wednesday Eggs & Issues: Gubernatorial Candidate Forum Time 8:30 - 10:00 a.m.
-Location Kirkbrae Country Club 197 Old River Road Lincoln Event details The Northern Rhode Island Chamber of Commerce invites you to Eggs & Issues featuring candidates for Rhode Island Governor to hear from candidates about the issues shaping our state's future.
-This is a rare opportunity to hear directly from the candidates vying to lead Rhode Island, ask questions, and weigh in on the policies that matter most to the business community.
-Seating is limited - register early to secure your spot.
-Get directions Register to attend OCT 07 2026 Upcoming Wednesday Sankofa World Market Time 3:00 - 4:30 PM Location Sankofa World Market 275 Elmwood Avenue Providence, RI Event Information Visit the Sankofa World Market in Providence.
-View event details OCT 07 2026 Upcoming Wednesday WJAR Channel 10 Gubernatorial Debates Time 7:00 - 8:00 pm Location WJAR Channel 10 Event details Moderated by Gene Valicenti Airs live on NBC 10 and COASTAL ABC Streams live on: turnto10.com, coastalabc.com, NBC 10 Facebook page and YouTube channel Wednesday WJAR Channel 10 Gubernatorial Debates OCT 08 2026 Upcoming Thursday Conversation with Ken - Newport Time 5:00 - 7:00 p.m.
+OCT 08 2026 Upcoming Thursday Conversation with Ken - Newport Time 5:00 - 7:00 p.m.
 Location Provence sur Mer 39 Touro Street Newport Event details Attendance is limited to 70 R.S.V.P by October 5 to: Michelle@blockforgovernor.com Refreshments will be served Get directions Thursday Conversation with Ken - Newport OCT 10 2026 Upcoming Saturday Scituate Arts Festival Time 11:00 a.m. - 1:00 p.m.
 Location Village Green, North Scituate Village Green North Scituate Event details Come celebrate the fall season by visiting us on the Village Green in North Scituate.
 Browse and buy original fine art, handmade crafts and antiques in an open-air market.
@@ -41,7 +36,12 @@ Advance registration is encouraged.
 Hear directly from the candidates vying to become Rhode Island's next Governor The East Bay Chamber of Commerce invites business leaders, community members, and voters to attend this free public forum.
 Gain firsthand insights into where the candidates stand on key issues impacting public policy, regional economic growth, and the business climate across Rhode Island.
 Get directions Register to attend On the campaign trail Past Appearances A look back at recent campaign stops and community events.
-Past appearance OCT 02 2026 Completed Friday Gubernatorial Forum on Aging, Disability and Behavioral Health Time 5:00 - 7:00 p.m.
+Past appearance OCT 07 2026 Completed Wednesday WJAR Channel 10 Gubernatorial Debates Time 7:00 - 8:00 pm Location WJAR Channel 10 Event details Moderated by Gene Valicenti Airs live on NBC 10 and COASTAL ABC Streams live on: turnto10.com, coastalabc.com, NBC 10 Facebook page and YouTube channel Wednesday WJAR Channel 10 Gubernatorial Debates Past appearance OCT 07 2026 Completed Wednesday Sankofa World Market Time 3:00 - 4:30 PM Location Sankofa World Market 275 Elmwood Avenue Providence, RI Event Information Visit the Sankofa World Market in Providence.
+View event details Past appearance OCT 07 2026 Completed Wednesday Eggs & Issues: Gubernatorial Candidate Forum Time 8:30 - 10:00 a.m.
+Location Kirkbrae Country Club 197 Old River Road Lincoln Event details The Northern Rhode Island Chamber of Commerce invites you to Eggs & Issues featuring candidates for Rhode Island Governor to hear from candidates about the issues shaping our state's future.
+This is a rare opportunity to hear directly from the candidates vying to lead Rhode Island, ask questions, and weigh in on the policies that matter most to the business community.
+Seating is limited - register early to secure your spot.
+Get directions Past appearance OCT 02 2026 Completed Friday Gubernatorial Forum on Aging, Disability and Behavioral Health Time 5:00 - 7:00 p.m.
 Location Rhodes on the Pawtuxet 60 Rhodes Place Cranston Event details Free and Open to the Public.
 As Rhode Island's demographics shift, the intersection of aging, disability, and behavioral health has become a defining policy challenge for the next administration.
 This forum offers the public an opportunity to engage directly with the frontrunning candidates for RI Governor.

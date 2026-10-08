@@ -1,4 +1,4 @@
-0 Skip to Content About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign I’m running for State Senate in SD32 I’ve dedicated my life to serving Minnesotans.
+0 Skip to Content About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases I’m running for State Senate in SD32 I’ve dedicated my life to serving Minnesotans.
 As a firefighter for 21 years, including 13 years as Captain in Rochester.
 As a paraprofessional at Blaine High School, helping to educate our kids.
 As a Blaine City Council Member, leading efforts to make our communities safer, healthier and more affordable and to restore accountability in government.

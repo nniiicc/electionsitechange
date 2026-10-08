@@ -42,7 +42,7 @@ Apoye nuestra campaña Donación única Donación mensual Los intereses especial
 Su contribución inmediata financia nuestros letreros locales, materiales informativos y caminatas en los vecindarios. $ 20 $ 50 $ 100 $ 300 $ 500 Otro Ayuda a expandir la divulgación digital de votantes en todo el distrito.
 Contribuir $100 ahora → ¿Prefiere enviar un cheque?
 Obtenga instrucciones aquí Tenga en cuenta que la contribución máxima por elección (ya sea primaria o general) para personas individuales, empresas y comités de acción política (PAC) es de $5,900.
-Eventos Comunitarios Acompañe a Greg en la campaña Próximos Eventos Sat, Oct 10 Rendezvous Back to Route 66 Downtown San Bernardino/ La Plaza Park at 6th Street Detalles → Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Detalles → Thu, Oct 22 Small Business Summit Elks Lodge - San Bernardino Detalles → Ver Todos los Eventos → → Devolvamos el sentido común a California.
+Eventos Comunitarios Acompañe a Greg en la campaña Próximos Eventos Sat, Oct 10 Rendezvous Back to Route 66 Downtown San Bernardino/ La Plaza Park at 6th Street Detalles → Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Detalles → Sat, Oct 17 IE Live Marketnite Fall Festival 2450 Blake St Detalles → Ver Todos los Eventos → → Devolvamos el sentido común a California.
 Juntos podemos marcar la diferencia.
 Manténgase informado y reciba actualizaciones sobre temas clave y eventos de campaña.
 Un líder con sentido común que lucha por restaurar la seguridad, la asequibilidad y la rendición de cuentas en el Distrito 45 de la Asamblea del Estado de California.

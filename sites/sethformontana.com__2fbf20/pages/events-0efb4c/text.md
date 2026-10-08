@@ -8,9 +8,8 @@ Can't make it to an in-person canvass?
 Knock doors right w… Show more Missoula Saturday Canvass Launch Multiple Times 426 N Higgins Ave, Missoula, MT 59802, USA RSVP here !
 Knock doors with us in Missoula every Saturday!
 We meet at 11:30am at our cam… Show more Harvest Fest Walkabout in Billings South Lawn of County Courthouse RSVP here !
-Come join the Seth for Montana staff and volunteers as we walk around the Billi… Show more Montana Broadcasters Association Candidates Debate Will be broadcast on Montana PBS and streamed.
-More information forthcoming!
-Information on how to watch will be posted here once it becomes available.
+Come join the Seth for Montana staff and volunteers as we walk around the Billi… Show more Montana Broadcasters Association Candidates Debate Will be broadcast on Montana PBS and streamed online.
+It will air live on Montana PBS and can be watched online .
 Encourage your friends and family to watch, too!
 Bozeman Town Hall Gallatin Labor Temple 1422 E Mendenhall St, 59715 RSPV here !
 Join Seth Bodnar for a Bozeman Town Hall on Sunday, October 11, 5:30-7:00pm!

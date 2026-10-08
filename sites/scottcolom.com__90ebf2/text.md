@@ -1,4 +1,4 @@
-Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Scott Colom for Senate: MISSISSIPPI MATTERS.
+Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Scott Colom for Senate: MISSISSIPPI MATTERS.
 Email Zip Code Cell Phone Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.

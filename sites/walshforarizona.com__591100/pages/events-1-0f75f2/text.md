@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
 UPCOMING EVENTS Get Involved No events at the moment ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
 Your donations support our campaign outreach and help us ensure real solutions for energy, water, education, and a strong economy in Arizona.
 Let's work together for our future!

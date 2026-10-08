@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid Rays Stadium Proposal [Date] Bob Buckhorn [Address] Tampa, FL [Zip Code] Dear Bob, I am writing to share that I am officially running to represent Florida’s 14th Congressional District in the U.S.
 House of Representatives.
 As a fellow advocate for Tampa Bay, I have always admired your dedication to the growth and modernization of our city.

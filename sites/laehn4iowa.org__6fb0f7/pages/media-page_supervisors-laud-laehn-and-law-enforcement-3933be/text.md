@@ -1,4 +1,4 @@
 0 Skip to Content Issues Petition About Media Volunteer Contact Donate Open Menu Close Menu Issues Petition About Media Volunteer Contact Donate Open Menu Close Menu Issues Petition About Media Volunteer Contact Donate Supervisors laud Laehn and law enforcement Jun 13 Written By Kara Glenn At the March 6 meeting, county attorney Thomas Laehn told the county board of supervisors there is a state-wide ban on specialty courts.
-Laehn said the ban in Iowa prevents the establishment of a drug court in Greene County that could have used opioid settlement money to operate… read the full story at greenecountynewsonline.com Kara Glenn Previous Previous Thomas Laehn, Iowa Libertarian, Elected As Greene County Attorney Stay in touch.
+Laehn said the ban in Iowa prevents the establishment of a drug court in Greene County that could have used opioid settlement money to operate… read the full story at greenecountynewsonline.com Kara Glenn Stay in touch.
 Contact Us Copyright © # Paid for by Thomas Laehn Exploratory Committee, Inc.
 About Issues Media Volunteer Contact

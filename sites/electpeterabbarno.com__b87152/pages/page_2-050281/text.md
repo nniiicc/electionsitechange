@@ -1,9 +1,10 @@
-Join Peter’s Campaign For info and updates Name Zip Email Address JOIN US ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow DONATE Election Day Day(s) : Hour(s) : Minute(s) : Second(s) Stay Informed on Latest Updates from Peter Abbarno Vote Early.
+Join Peter’s Campaign For info and updates Name Zip Email Address JOIN US ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow DONATE Election Day Day(s) : Hour(s) : Minute(s) : Second(s) Stay Informed on Latest Updates from Peter Abbarno Protecting Washington’s Working Lands and Strengthening Rural Communities by Peter Abbarno | Aug 27, 2026 Washington’s farms, forests, rivers, and working lands are part of what makes our state special.
+They also support...
+Vote Early.
 Vote Proud.
 Help Build a Stronger Washington. by Peter Abbarno | Jul 9, 2026 Every election matters, but the 2026 Primary Election is especially important for the future of our communities and...
 Keep Working Forests Working For Lewis County by Peter Abbarno | Jun 29, 2026 In the Centralia-Chehalis Chamber of Commerce by Rep.
-Peter Abbarno In Lewis County, our forests are more than...
-Reliable Energy Infrastructure Powers Washington’s Future by Peter Abbarno | Jun 25, 2026 The energizing of the new Lewis County Public Utility District substation near... « Older Entries Next Entries » Stronger Families.
+Peter Abbarno In Lewis County, our forests are more than... « Older Entries Next Entries » Stronger Families.
 Stronger Communities.
 Stronger Washington.
 The newly redistricted 20th District includes a small portion of South Thurston County (West of Bucoda to Interstate 5); Lewis County East of Interstate 5 (including all of Centralia, Chehalis, and Napavine); Cowlitz County East of Interstate 5 (including all of Kalama and Woodland); and parts of Clark County (including all of La Center and Ridgefield) to the City of Vancouver.

@@ -64,4 +64,4 @@ We can reward the people who cure diseases and still refuse to let anyone be pri
 Picture an America where a diagnosis isn’t a financial death sentence , where your parents can afford the medicine that keeps them here, where the miracles of modern medicine actually reach the people they were made for.
 Every bit of that is overdue, and it’s within reach.
 All Policies Next Policy Return to Top SOURCES U.S. drug prices vs. other wealthy countries (~2.8× overall; ~4× for brand-name drugs): HHS/ASPE–RAND — International Prescription Drug Price Comparisons (2022 data) · RAND research summary Contributions to Thompson from drug-industry PACs: FEC — Mike Thompson for Congress, Committee C00326363 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

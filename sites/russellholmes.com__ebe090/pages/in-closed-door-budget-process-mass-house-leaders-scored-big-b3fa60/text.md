@@ -88,19 +88,17 @@ House Minority Leader Brad Jones — whose $275,000 in earmarks led all members 
 Late last year, the few Republican members of the House repeatedly blocked a spending bill with money for the emergency shelter system by using parliamentary maneuvering, ultimately forcing dozens of Democrats to attend an informal session to push it through.
 At the time, Mariano released statements accusing House Republicans of “obstructionism.” “I’ve been in the building long enough to know it’s a cause and effect,” Jones said, “even if it’s not stated.” Mariano’s office did not comment on the treatment of GOP budget amendments.
 Share this Post navigation PREVIOUS Previous post: Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-Related Post Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
-Holmes Russell E.
-Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More The Interview: State Representative Russell Holmes The Interview: State Representative Russell Holmes July 25, 2022 July 25, 2022 | Russell E.
+Related Post The Interview: State Representative Russell Holmes The Interview: State Representative Russell Holmes July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 11:34 am The outspoken state representative on what’s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.
-Share this Read More Read More ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters July 25, 2022 July 25, 2022 | Russell E.
+Share this Read More Read More Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:36 am State Rep.
-Russell Holmes (left) and former Boston Police Capt.
-Haseeb Hosein were out last Friday evening taking down ‘Cash for Diabetic Supplies’ signs on American Legion Highway.
-Seth Daniel Read More Read More “I Work for You.” You're my neighbors.
+Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More Rep.
+Holmes rolls to re-election in 6th Suffolk district Rep.
+Holmes rolls to re-election in 6th Suffolk district September 9, 2022 September 9, 2022 | Russell E.
+Holmes Russell E.
+Holmes | 0 Comment | 11:37 am State Rep.
+Russell Holmes was re-elected on Tuesday as he dominated his Democratic challenger Haris Hassan Hardaway, winning 75 percent of the vote in the Sixth Suffolk district, which includes Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

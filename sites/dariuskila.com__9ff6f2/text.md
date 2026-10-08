@@ -1,4 +1,4 @@
-Skip to content Toggle Navigation About Record Issues Contact Donate HOME aveda_3skt1g 2026-07-16T13:49:18-10:00 HOUSE DISTRICT 44 • Māʻili • Nānākulu • Lualualei • Ko Olina • Honokai Hale From Our Community.
+Skip to content Toggle Navigation ABOUT RECORD ISSUES Contact DONATE HOME aveda_3skt1g 2026-07-16T13:49:18-10:00 HOUSE DISTRICT 44 • Māʻili • Nānākulu • Lualualei • Ko Olina • Honokai Hale From Our Community.
 DELIVERING FOR OUR FUTURE.
 Born and raised on the Waiʻanae Coast – committed to building a stronger, more stable future for West Oʻahu where our keiki and kūpuna have opportunities, our families can afford to stay, and our communities continue to thrive.
 MEET DARIUS SEE ThE RECORD DONATE NOW RE-ELECT DARIUS KILA · 2028 #M+ SECURED FOR WEST OʻAHU 2022 ELECTED TO HOUSE DISTRICT 44 # MAJOR PROJECTS FUNDED #% WON WITH STRONG MANDATE ABOUT DARIUS MEET REPRESENTATIVE DARIUS KILA Born and raised on the Waiʻanae Coast, Representative Darius Kila understands firsthand the challenges West Oʻahu families face every day.

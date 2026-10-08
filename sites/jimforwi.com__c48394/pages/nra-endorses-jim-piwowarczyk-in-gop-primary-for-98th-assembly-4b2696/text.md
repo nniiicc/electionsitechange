@@ -21,7 +21,7 @@ The district includes Hartford, Richfield, the Town of Erin, Merton, Sussex, and
 Piwowarczyk, 54, has growing momentum in the race; he has also been endorsed by top local leaders, like Washington and Waukesha County Sheriffs Marty Schulteis and Eric Severson, County Executive Josh Schoemann, DA Mark Bensen, and the Washington County Deputy Sheriff’s Association.
 The latter called him a “staunch supporter of the righteous.” For more information, see jimforwi.com.
 Paid for by Jim for Wisconsin.
-Post navigation Previous post: Prev Protect Our Checks & Balances System: Vote YES on the State Referendum Questions July 26, 2024 Next post: Next WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK July 29, 2024 You May Also Like Posted March 11, 2024 in Endorsements , News , ticker Washington County Exec Josh Schoemann Endorses Jim Piwowarczyk for Assembly Posted October 3, 2024 in Endorsements , News , ticker WISCONSIN FRATERNAL ORDER OF POLICE ENDORSES JIM PIWOWARCZYK IN THE 98TH ASSEMBLY RACE How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Protect Our Checks & Balances System: Vote YES on the State Referendum Questions July 26, 2024 Next post: Next WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK July 29, 2024 You May Also Like Posted October 3, 2024 in Endorsements , News , ticker WISCONSIN FRATERNAL ORDER OF POLICE ENDORSES JIM PIWOWARCZYK IN THE 98TH ASSEMBLY RACE Posted May 2, 2024 in Endorsements , News , ticker Washington County Sheriff Martin Schulteis Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

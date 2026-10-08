@@ -1,4 +1,7 @@
-Skip navigation menu Meet Claire News Issues Press Kit Get Involved Español Donate Meet Claire News Issues Press Kit Get Involved Español Donate news & press Latest Democracy News Editorial Endorsement Reynolds offers U.S.
+Skip navigation menu Meet Claire News Issues Press Kit Get Involved Español Donate Meet Claire News Issues Press Kit Get Involved Español Donate news & press Latest Democracy News PRESS RELEASE Reynolds Presses Pfluger on Trump’s Policies and Calls for Congressional Accountability MIDLAND, TX – Incumbent Congressman August Pfluger and Democratic nominee Claire Reynolds faced off Monday night in a debate hosted by Basin PBS, where Reynolds challenged Pfluger’s positions on presidential power and called for a Congress willing to stand up for the people it represents.
+Read more Oct 7 2026 NEWS ARTICLE Pfluger, Reynolds spar over oil, data centers and the ‘radical left’ in Midland debate MIDLAND, TX – Rep.
+August Pfluger and Democratic challenger Claire Reynolds spent an hour Monday night arguing over who actually works for Texas’ 11th Congressional District, in a Basin PBS debate that ran from oil prices and data centers to Iran, ICE and the price of beef.
+Read more Oct 6 2026 Editorial Endorsement Reynolds offers U.S.
 House 11 a stronger Central Texas voice AUSTIN, TX – The Austin American-Statesman Editorial Board reports that Claire Reynolds, the Democratic nominee for U.S.
 House District 11, understands the Central Texans added to this district and stands for a more accountable Congress.
 Read more Oct 5 2026 Youtube / PBS Texas Congressional District 11 Debate MIDLAND, TX – Claire Reynolds faced off with August Pfluger in the first televised Congressional debate in the 2026 election in Texas, sponsored by Diamondback Energy .

@@ -1,10 +1,42 @@
 [
-"https://electloriwilson.com/",
-"https://electloriwilson.com/about",
-"https://electloriwilson.com/bnb",
-"https://electloriwilson.com/contact",
-"https://electloriwilson.com/get-involved",
-"https://flickr.com/photos/204823626@N03",
-"https://flickr.com/photos/204823626@N03/albums",
-"https://secure.anedot.com/lori-wilson-for-assembly-2026/donate"
+{
+"text": "ABOUT LORI",
+"href": "https://www.electloriwilson.com/about"
+},
+{
+"text": "Bourbon & Beignet Photos",
+"href": "https://www.flickr.com/photos/204823626@N03/albums"
+},
+{
+"text": "Bourbon & Beignets",
+"href": "https://www.electloriwilson.com/bnb"
+},
+{
+"text": "CONTACT",
+"href": "https://www.electloriwilson.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lori-wilson-for-assembly-2026/donate"
+},
+{
+"text": "Download Photos",
+"href": "https://www.flickr.com/photos/204823626@N03/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electloriwilson.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.electloriwilson.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.electloriwilson.com"
+},
+{
+"text": "info@electloriwilson.com",
+"href": "mailto:info@mysite.com"
+}
 ]

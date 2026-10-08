@@ -1,5 +1,4 @@
-Endorsements
-Leesa is proud to be CERTIFIED PRO-LIFE by the Georgia Life Alliance!
+About Leesa News Help Out Elections Constituent Services About Leesa News Help Out Elections Constituent Services Endorsements Leesa is proud to be CERTIFIED PRO-LIFE by the Georgia Life Alliance!
 I will defend the unborn, because I know that God is the creator of all life and that it begins at conception.
 We are all unique people with a special purpose.
 Leesa is endorsed by the Georgia Chamber of Commerce.
@@ -26,18 +25,6 @@ Leesa is endorsed by Frontline Policy Action.
 The TRUTH matters to me, and the truth is that strong families make a stronger Georgia.
 I will stand up for Biblical principles and freedom to protect our citizens from those who would take away our rights.
 I am proud to have been endorsed by Frontline Policy and to work with them to win for Georgia families.
-District Leaders
-- Toombs County Sheriff Alvie “Junior” Kight
-- Toombs County Board of Commissioners Chairman David Sikes
-- Toombs County Commissioner Wendell Dixon
-- Toombs County Commissioner Tommy Rollins
-- Toombs County Commissioner Darriel Nobels
-- Toombs County Commissioner Alfred Cason
-- Montgomery County Board of Commissioners Chairman Leland Adams
-- Lyons Mayor Willis NeSmith
-- Vidalia Mayor Doug Roper
-- Vidalia City Councilwoman Jennifer Evans
-- Vidalia City Councilman Bob Dixon
-- Vidalia City Councilman Cecil Thompson
-- Vidalia City Councilman Loyd Mobley
-- Mount Vernon Mayor Joey Fountain
+District Leaders Toombs County Sheriff Alvie “Junior” Kight Toombs County Board of Commissioners Chairman David Sikes Toombs County Commissioner Wendell Dixon Toombs County Commissioner Tommy Rollins Toombs County Commissioner Darriel Nobels Toombs County Commissioner Alfred Cason Montgomery County Board of Commissioners Chairman Leland Adams Lyons Mayor Willis NeSmith Vidalia Mayor Doug Roper Vidalia City Councilwoman Jennifer Evans Vidalia City Councilman Bob Dixon Vidalia City Councilman Cecil Thompson Vidalia City Councilman Loyd Mobley Mount Vernon Mayor Joey Fountain Friends of Leesa Hagan P.
+O.
+Box 1228 | Lyons, GA 30436 contact@LeesaHagan.com Follow Follow Follow Paid for by Friends of Leesa Hagan Design by Cardinalis – Websites – SEO – Graphic Design

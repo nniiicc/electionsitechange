@@ -1,21 +1,23 @@
-Rev.
-Jesse Jackson Sr. to Lie in State in South Carolina After Capitol Hill Dispute
-By Ashlee Banks, Special to the AFRO, The San Diego Voice & Viewpoint, March 2, 2026
-Rev.
+top of page Home Meet Hamilton Legislative Updates District Map Press Get Involved Campaign Merch More Use tab to navigate through the menu items.
+Invest In The Vision All Posts Search Rev.
+Jesse Jackson Sr. to Lie in State in South Carolina After Capitol Hill Dispute Grant For SC Mar 2 3 min read By Ashlee Banks, Special to the AFRO, The San Diego Voice & Viewpoint, March 2, 2026 Rev.
 Jesse Jackson Sr., the civil rights titan and two-time presidential candidate who rose from the Jim Crow era to the heights of American political influence, will return to his native South Carolina on March 2.
 Jackson will lie in state at the State House Rotunda in Columbia, S.C.
 The homecoming, announced by Gov.
 Henry McMaster, follows a week of national mourning and a sharp dispute in Washington, D.C., where supporters originally sought to have Jackson lie in state on Capitol Hill.
-Jackson died on Feb. 17 at the age of 84, following a years-long battle with a rare neurological disorder.
+Jackson died on Feb.
+17 at the age of 84, following a years-long battle with a rare neurological disorder.
 In a gesture of state-level tribute, Gov.
 McMaster ordered all flags at the South Carolina State House to be lowered to half-staff from sunrise to sunset on March 2.
-In an interview with the AFRO on March 1, South Carolina State Representative Grant Hamilton (D-SC- District 79) stated that it was a “collaborative effort” to get approval for Jackson to lie in state at the South Carolina State House Rotunda.
+The Rev.
+Jesse Jackson Sr. will return to his native South Carolina to lie in state at the State House on March 2.
+Shown here, Jackson, at Game 1 of basketball’s NBA Finals between the Golden State Warriors and the Cleveland Cavaliers in Oakland, Calif., Thursday, May 31, 2018.
+Credit: AP Photo File /Marcio Jose Sanchez In an interview with the AFRO on March 1, South Carolina State Representative Grant Hamilton (D-SC- District 79) stated that it was a “collaborative effort” to get approval for Jackson to lie in state at the South Carolina State House Rotunda.
 “Early that morning when we received word that Reverend Jackson passed, I reached out to the governor’s office.
 I was going to request that we fly the flag at half staff,” said Grant.
 “They told me that they were on top of it and were just waiting to hear from the family on when the memorial or funeral service would be because that’s when the governor had planned on doing it,” he added.
 “Initially, the only events were going to be in Chicago.
-With some conversations, they found it appropriate and gracious enough to bring Reverend Jackson back home to South Carolina one last time.”
-The decision to honor Rev.
+With some conversations, they found it appropriate and gracious enough to bring Reverend Jackson back home to South Carolina one last time.” The decision to honor Rev.
 Jackson in Columbia, South Carolina gained momentum after Republican House Speaker Mike Johnson (D-La.-4) denied a request from the Jackson family for the civil rights leader to lie in honor at the United States Capitol.
 Speaker Johnson’s office cited “past precedent,” stating that the U.S.
 Capitol Rotunda is generally reserved for select military and government officials.
@@ -26,4 +28,9 @@ Representative Grant told the AFRO that he was not “surprised” Speaker Johns
 Capitol Building.
 “This administration disrespects American heroes everyday.
 While we would hope that a figure like Jesse Jackson would have the honor bestowed upon him of lying in state in the Capitol Rotunda of the most powerful house in the country, I’m not surprised that they said ‘no’ and rejected it,” said the state representative.
-“When Washington D.C. closed its doors to an American hero, South Carolina opened its doors to their native son.”
+“When Washington D.C. closed its doors to an American hero, South Carolina opened its doors to their native son.” Recent Posts See All Columbia native Trick Williams honored by South Carolina lawmakers after WWE title win-WWE United States Champion reflects on Columbia roots during hometown appearance.
+Southern Republicans press ahead with election-year redistricting of US House despite protests Lt.
+Gov.
+Evette set to give SC State commencement speech, causing student protest Paid for by The Committee to Elect Hamilton Grant PO Box 2506, Columbia, SC 29202 Info@GrantForSC.com (803) 386-1055 Subscribe To Our Email List Submit Privacy Policy ©# The Winning Platform, LLC, Hamilton R.
+Grant, Jeffery H.
+Roberts bottom of page

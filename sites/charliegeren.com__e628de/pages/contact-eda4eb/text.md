@@ -4,6 +4,6 @@ By providing your telephone number and checking this box, you consent to receive
 Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.
-Reply "STOP" to opt-out & "HELP" for help. www.charliegeren.com/privacy/ Message Please prove you are human by selecting the House .
+Reply "STOP" to opt-out & "HELP" for help. www.charliegeren.com/privacy/ Message Please prove you are human by selecting the Cup .
 Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Political Ad paid for by Charlie Geren Campaign, Kit Moncrief, Treasurer Charlie Geren Campaign P.O.
 Box 1440 Fort Worth, TX 76101 Privacy Policy

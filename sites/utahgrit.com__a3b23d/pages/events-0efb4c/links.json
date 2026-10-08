@@ -17,10 +17,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=11000+south+park+road+south+jordan%2C+utah%2C+84095+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=11267+south+river+front+parkway+south+jordan%2C+utah%2C+84095+united+states"
 },
 {
@@ -281,10 +277,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+&dates=20260630T000000Z%2F20260630T020000Z&location=11000+South+Park+Road%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+VIRTUAL+&dates=20260805T233000Z%2F20260806T003000Z"
 },
 {
@@ -433,10 +425,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.utahgrit.com/events/meet-greet?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.utahgrit.com/events/meet-rod-zach-and-ofa?format=ical"
 },
 {
@@ -482,10 +470,6 @@
 {
 "text": "Learn more",
 "href": "https://www.facebook.com/groups/5364412134/?rdid=caUQXu9PUNxDZLhl&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F19LvLurWXL%2F"
-},
-{
-"text": "Meet & Greet",
-"href": "https://www.utahgrit.com/events/meet-greet"
 },
 {
 "text": "Meet & Greet VIRTUAL",
@@ -641,10 +625,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.utahgrit.com/events/meet-greet"
-},
-{
-"text": "View Event →",
 "href": "https://www.utahgrit.com/events/meet-greet-virtual"
 },
 {
@@ -794,10 +774,6 @@
 {
 "text": "[image: Meet & Greet VIRTUAL ]",
 "href": "https://www.utahgrit.com/events/meet-greet-virtual"
-},
-{
-"text": "[image: Meet & Greet ]",
-"href": "https://www.utahgrit.com/events/meet-greet"
 },
 {
 "text": "[image: Meet Rod, Zach and Ofa]",

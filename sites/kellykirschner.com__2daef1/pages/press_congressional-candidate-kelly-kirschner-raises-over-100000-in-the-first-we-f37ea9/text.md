@@ -10,7 +10,7 @@ PETERSBURG Bipartisan endorsements from both sides of Tampa Bay Led by former St
 Pete Mayor, Rick Kriseman Additional endorsements in his first week Kirschner’s record of getting things done has drawn immediate financial and grassroots support, including endorsements from bipartisan leaders across the region.
 Among the first to endorse: two-time St.
 Petersburg Mayor, Rick Kriseman.
-National Bipartisan Voices Former US Senator Kent Conrad (D) Former US Congressman Dave Trott (R) Former US Congressman Dan Miller (R) National Leaders Dr.
+National Bipartisan Voices Congresswoman Lois Frankel (D) Former US Senator Kent Conrad (D) Former US Congressman Dave Trott (R) Former US Congressman Dan Miller (R) National Leaders Dr.
 Henry David Abraham, Nobel Peace Prize Laureate James Story, Former US Ambassador to Venezuela Douglas McElhaney, Former US Ambassador to Bosnia Kevin McGuire, Former US Ambassador to Namibia Florida Bipartisan Elected Officials Current and Former Pinellas & St.
 Petersburg Elected Officials René Flowers, Pinellas County Commissioner Rick Kriseman, Former St.
 Petersburg Mayor, State Representative Deborah Figgs-Sanders, St.
@@ -23,7 +23,7 @@ Murphy, Sr.
 Petersburg) Reverend Charles S.
 McKenzie, Jr.
 (Manatee) Merrie Lynn Parker, Former school district administrator (Manatee) Rob Perry, President and Coach, Sowing Seeds Tennis (St.
-Petersburg) Sarah Pappas, Former President, State College of Florida (Manatee) Reverend Willie Charles Shaw, Former Mayor and veteran (Sarasota) Civic Organizations Florida AFL-CIO / Working Families West Central Florida Labor Council “I have known and worked with Kelly for nearly twenty years.
+Petersburg) Sarah Pappas, Former President, State College of Florida (Manatee) Reverend Willie Charles Shaw, Former Mayor and veteran (Sarasota) Nadine Smith, Executive Director, Equality Florida Civic Organizations Florida AFL-CIO / Working Families West Central Florida Labor Council “I have known and worked with Kelly for nearly twenty years.
 He has a proven record of making government work for the people it represents; solving problems for our families, seniors, and communities.” Rick Kriseman, former St.
 Petersburg Mayor “ Working families were promised relief eighteen months ago.
 What we got instead are skyrocketing prices for property insurance, taxes, medical care, gasoline, and groceries, while a far-right majority in Washington openly debates cuts to Medicare and Social Security. “ “For decades, billionaires, lobbyists, and corporations have treated Congress like a vending machine: insert dollars, receive influence.

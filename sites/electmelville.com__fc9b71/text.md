@@ -20,10 +20,15 @@ Colleagues describe him as kind, principled, and hard-working—values he's demo
 Tom is a husband, father, grandfather, and longtime community volunteer who believes leadership means staying in close conversation with the people you represent .
 He plans to hold regular open office hours and build strong partnerships with cities and towns to address housing affordability, strengthen public health and healthcare access, and ensure every child feels welcome and supported in our public schools.
 At a moment when many people feel unheard, Tom is running to bring thoughtful, steady leadership and a deep commitment to service to the 9th Norfolk District.
-Featured HELP TOM WIN!
+Voting Information Make a plan to vote!
+Election Day November 3 Early In-Person Voting October 17 - 30 Mail-in Voting Apply by October 24 Check if you're registered to vote Register to vote Request a mail ballot Early voting locations Team Tom Needs You!
+HELP TOM WIN!
 Canvass with Tom!
 Sign up here to knock on doors with Tom from now until November 3rd.
-Sign up sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By submitting your information here, you're authorizing to be contacted by the Melville Committee.
-Submit Vote Voting Information Make a plan to vote!
-Election Day November 3 Early In-Person Voting October 17 - 30 Mail-in Voting Apply by October 24 Check if you're registered to vote Register to vote Request a mail ballot Early voting locations Watch the recording of the Wrentham Forum Visit Tom's YouTube Reach out any time: tom@electmelville.com Privacy Policy and Terms and Conditions Powered by RUN! website builder Paid for by The Melville Committee.
+Sign up Volunteer Opportunities Maybe canvassing isn't your cup of tea, there are so many other ways to get involved in the campaign.
+Phone Banking Holding signs on visibility days Holding signs on Election Day Attend and invite family and friends to a forum.
+You can also use the form below to indicate how you can help or visit the volunteer page to sign up.
+Let's help Tom finish strong on November 3!
+I Want to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code By submitting your information here, you're authorizing to be contacted by the Melville Committee.
+Submit Watch the recording of the Wrentham Forum Visit Tom's YouTube Reach out any time: tom@electmelville.com Privacy Policy and Terms and Conditions Powered by RUN! website builder Paid for by The Melville Committee.
 You need to enable JavaScript to run this app.

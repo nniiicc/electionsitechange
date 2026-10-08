@@ -1,12 +1,8 @@
-Endorsements
-While running for the NC House, I received endorcements from all 20 County Commissioners, both Democrat and Republican, in the 4 County District.
+Menu Home Endorsements Donate Photo Gallery In The News Contact Endorsements While running for the NC House, I received endorcements from all 20 County Commissioners, both Democrat and Republican, in the 4 County District.
 I hope to do the same as I run for NC Senate District 50.
 “I can’t think of anyone in this district that is more qualified than Kevin Corbin to represent us in Raleigh.
-He will hit the ground running and do great things for far Western North Carolina.”
-– Rep.
-Roger West, NC House of Representatives
-“I am so happy Kevin is running for NC House.
+He will hit the ground running and do great things for far Western North Carolina.” – Rep.
+Roger West, NC House of Representatives “I am so happy Kevin is running for NC House.
 He has the knowledge, and the experience to get the job done.
-We are fortunate that he is willing to run and serve.”
-– Ashley Welch, District Attorney
-– Also pictured are (L-R): Gary Shields, Kevin Corbin, Robbie Holland, and Fred Goldsmith
+We are fortunate that he is willing to run and serve.” – Ashley Welch, District Attorney – Also pictured are (L-R): Gary Shields, Kevin Corbin, Robbie Holland, and Fred Goldsmith We the undersigned, have endorsed Kevin Corbin for the NC House of Representatives, District 120 National Rifle Association National Federation of Independent Business North Carolina Board of Realtors North Carolina Dental Society North Carolina Police Benevolent Association North Carolina Right To Life, Inc.
+PAC BB&T Bank Independent Agents of NC Dr Dan Eichenbaum – Cherokee County Roy Dickey – Cherokee County Commissioner Dr Rob Peck – Clay County Jacob Nelms – Graham County Commissioner Kevin Corbin – Macon County Commissioner CB McKinnon, Cherokee County Commission Chair Cal Stiles, Cherokee County Commissioner Gary Westmorland, Cherokee County Commissioner Keith Eller, Graham County Commission Chair Connie Orr, Graham County Commissioner Raymond Williams, Graham County Commissioner Lynn Cody, Graham County Commissioner Gary Shields, Macon County Commissioner Jim Tate, Macon County Commissioner Paul Higdon, Macon County Commissioner Ronnie Beale, Macon County Commissioner Randy Nichols, Clay County Commissioner Clay Logan, Clay County Commissioner Ed Roach, Clay County Commissioner Robert Penland, Clay County Commissioner Robert Holland, Macon County Sheriff Copyright Ⓒ Kevin Corbin for North Carolina Senate | Website Design & Development by SiteDart Studio Scroll to top

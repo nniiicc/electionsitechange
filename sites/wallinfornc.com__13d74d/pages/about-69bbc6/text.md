@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Volunteer Donate Home About Priorities Volunteer Donate Menu Meet Charlie Wallin , Candidate for NC House District 93 I grew up in Madison County here in the mountains of Western NC.
+Skip to content Home About Priorities Volunteer Vote Donate Home About Priorities Volunteer Vote Donate Menu Meet Charlie Wallin , Candidate for NC House District 93 I grew up in Madison County here in the mountains of Western NC.
 I am the son of a family of educators and farmers who go back generations in these mountains.
 I moved to Boone at the age of 18 and have lived here for 34 years.
 I came here for an education and found a place that I wanted to live and to become my own person.

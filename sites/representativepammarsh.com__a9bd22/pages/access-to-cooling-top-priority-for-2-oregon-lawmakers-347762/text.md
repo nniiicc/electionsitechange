@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Access to cooling top priority for 2 Oregon lawmakers Sen.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Access to cooling top priority for 2 Oregon lawmakers Sen.
 Kayse Jama and Rep.
 Pam Marsh are working on bills that will address extreme heat conditions Kelcie Grega | Oregon Capital Insider LINK TO ARTICLE Last summer’s triple-digit temperatures proved to be one of the deadliest recorded natural disasters in Oregon’s history.
 At least 96 people died during the late June heat wave, when temperatures topped out at 116 degrees, according to data the Oregon Medical Examiner’s Office released to Oregon Public Broadcasting.

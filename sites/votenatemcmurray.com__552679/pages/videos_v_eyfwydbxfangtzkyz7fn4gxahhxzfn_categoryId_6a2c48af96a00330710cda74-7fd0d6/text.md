@@ -58,7 +58,8 @@ The only question is: who’s willing to step forward?
 I am.
 How about you?
 Previous Why Is Southern Ontario Doing Better Than Western New York?
-Next North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP IS NATE A RADICAL COMMUNIST?
+Next North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) You Might Also Like North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+WHO GETS TO DECIDE WHO IS A CHRISTIAN?
+PODCAST CLIP: THEY DIDN’T EVEN SHOW UP WE ARE AT A CROSSROADS IN WESTERN NEW YORK IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
-PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Volunteer and Sign Up for Updates!
+Volunteer and Sign Up for Updates!

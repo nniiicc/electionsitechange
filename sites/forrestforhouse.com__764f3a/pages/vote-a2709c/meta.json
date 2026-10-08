@@ -1,7 +1,12 @@
 {
  "description": "Register to vote",
  "final_url": "https://forrestforhouse.com/vote",
- "paid_for_by": null,
+ "fingerprint": "a0a868b7655d1ecdf2f85dc1459b8ddb04678d3f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

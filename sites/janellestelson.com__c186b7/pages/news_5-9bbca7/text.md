@@ -1,4 +1,6 @@
-Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Recent news Stay Up To Date May 6, 2025 PennLive Scott Perry is refusing to meet with the people he’s supposed to represent On April 17th, more than 100 people gathered in Harrisburg for a standing room only event to meet with their Congressman, Scott Perry.
+Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Recent news Stay Up To Date June 4, 2025 In The News ‘Spineless’: Freedom Caucus stalwart mocked for attacking MAGA bill he voted for After tech billionaire Elon Musk made his biggest break yet from President Donald Trump’s One Big Beautiful Bill Act, calling the controversial legislation a “disgusting abomination,” one hard-right member of Congress readily agreed: Rep.
+Scott Perry (R-PA).
+“So @elonmusk is right to call out House Leadership,” Perry posted to Musk’s X platform on Tuesday evening. […] Read More May 6, 2025 PennLive Scott Perry is refusing to meet with the people he’s supposed to represent On April 17th, more than 100 people gathered in Harrisburg for a standing room only event to meet with their Congressman, Scott Perry.
 But he was a no-show.
 Read More April 28, 2025 Associated Press Republicans in the toughest swing districts become hard to find for people angry about Trump Many days over the past two weeks, no one answered the phone at any of U.S.
 Rep.

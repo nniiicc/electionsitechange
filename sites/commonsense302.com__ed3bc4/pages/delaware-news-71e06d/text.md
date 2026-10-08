@@ -31,7 +31,7 @@ Wednesday July 15th, 2026 View on Facebook · Share Share on Facebook Share on T
 Of course it was a moral blight, but it was the cultural norm of the time - and not just here, but worldwide, and had been since the dawn of time.
 The founders weren't perfect, but what they created was a HUGE LEAP FORWARD from everything that had come before - and what they created made possible the moral and social progress that we reap the benefit of today.
 And they did so at great personal peril; that's why we honor them as heroes.
-#Delaware #politicsnews #history #AmericanHistory ...
+#Delaware #politicsnews #History #AmericanHistory ...
 See More See Less 250 years since his ride, how does Delaware reckon with Caesar Rodney’s legacy? spotlightdelaware.org As time ticks until the Caesar Rodney statue's return to Delaware, leaders are unsure how to reckon with his legacy as a slaveholder.
 Tuesday July 7th, 2026 View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email This type of legislation makes a farce out of the entire concept of voting.
 Voters should choose their politicians - NOT the other way around.

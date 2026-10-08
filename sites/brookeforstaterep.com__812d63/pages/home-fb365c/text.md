@@ -7,7 +7,8 @@ A practical, people-first voice for Derby, Hamden, Orange, and Woodbridge.
 Brooke is ready to protect local control, lower everyday costs, and bring nearly three decades of service to Hartford.
 Get Involved View Priorities Vote Tuesday November 3, 2026 Our towns.
 Our voice.
-Brooke for State Representative Oct 6, 2026 #BrookeForStateRep #PeopleOverPolitics #TaxpayerAccountability #GovernmentAccountability #TransparencyMatters #AskQuestions #ConnecticutPolitics Open Post Visit Page Brooke for State Representative Oct 6, 2026 Here are a few Connecticut issues I’m watching this week: New privacy protections took effect October 1.
+Brooke for State Representative Oct 8, 2026 View this post on Facebook.
+Open Post Visit Page Brooke for State Representative Oct 6, 2026 #BrookeForStateRep #PeopleOverPolitics #TaxpayerAccountability #GovernmentAccountability #TransparencyMatters #AskQuestions #ConnecticutPolitics Open Post Visit Page Brooke for State Representative Oct 6, 2026 Here are a few Connecticut issues I’m watching this week: New privacy protections took effect October 1.
 Connecticut’s new AI and data privacy laws include additional protections involving geolocation information, facia...
 Open Post Visit Page Brooke for State Representative Oct 5, 2026 View this post on Facebook.
 Open Post Visit Page Brooke for State Representative Oct 5, 2026 Where did the weekend go? ❤️ Do you ever ask yourself that on a Sunday night?
@@ -15,7 +16,6 @@ As a mom, sometimes I wonder if we try to fit just a little too much into our da
 This weekend was definitely one of those whirlwinds.
 I st...
 Open Post Visit Page Brooke for State Representative Oct 3, 2026 The Weekly me, Somewhere between my #UConn Interns, Recordings at the Town Hall, Campaign door knocking, answering a million texts, and trying to remember where I left my coffee… there’s a routine. 😂 This week was a pr...
-Open Post Visit Page Brooke for State Representative Oct 2, 2026 View this post on Facebook.
 Open Post Visit Page BROOKE IS 30 YEARS SOCIAL WORKER & ADVOCATE Nearly 30 years helping young people and families.
 MOTHER OF THREE Raising three children in the Amity school district.
 BUSINESS OWNER CO-OWNED CT YOUTH RESOURCES Supporting at-risk youth and families.

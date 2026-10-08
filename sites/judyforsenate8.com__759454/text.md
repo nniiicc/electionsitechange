@@ -1,5 +1,5 @@
 top of page ABOUT ISSUES EVENTS VOLUNTEER NEWSLETTER CONTACT More Use tab to navigate through the menu items.
-DONATE A Voice for Working Families Send a Teacher to Tallahassee After 28 years teaching in our public schools, I am running to protect education, lower costs for working families and defend our freedoms.
+REQUEST A YARD SIGN DONATE A Voice for Working Families Send a Teacher to Tallahassee After 28 years teaching in our public schools, I am running to protect education, lower costs for working families and defend our freedoms.
 DONATE GET INVOLVED DONATE TODAY Thank you for your support! $5 $25 $50 $100 $500 Judy isn’t running to be another politician in Tallahassee.
 She’s running because she believes Florida belongs to all of us.
 LEARN MORE ABOUT JUDY A Better Future for Every Floridian I’m running for State Senate because I believe Florida should work for all of us, not just corporations and wealthy special interests.

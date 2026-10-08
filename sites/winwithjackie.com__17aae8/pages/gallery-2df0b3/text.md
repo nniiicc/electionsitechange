@@ -1,4 +1,4 @@
-Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT Photo Gallery On the trail with Jackie across Ulster, Dutchess, and Orange Counties.
+Skip to main content Home About Jackie Events Gallery Volunteer News & Press Track AIPAT DONATE CONTACT Photo Gallery On the trail with Jackie across Ulster, Dutchess, and Orange Counties.
 All Counties Ulster Dutchess Orange Outside District Orange County 34 photos August 15, 2026 Bites and Ballots Bash Orange County 68 photos August 15, 2026 Bites and Ballots Bash Orange County 16 photos July 8, 2026 Great American Weekend What a Great American Weekend in Goshen!
 It was wonderful spending time with the Orange County Republican Committee, the Orange County Young Republicans, Orange County Sheriff Paul Arteta, and Attorney General candidate Saritha Komatireddy while meeting so many residents and local businesses from across the district.
 Events like this are a reminder of what makes the Hudson Valley such a special place to call home.
@@ -100,7 +100,7 @@ I'm doing this to serve the people of my community and to represent them the rig
 This is not a stepping stone for me because this community is ME.
 If you missed it, I know you were there in spirit and I can't wait to have you join us next time!
 Stayed tuned, good things are coming.
-Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Campaign About Jackie Gallery News & Press Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
 Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
 All rights reserved.
 I consent to receive SMS text message updates from Jackie Auringer for Congress By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Jackie Auringer for Congress.

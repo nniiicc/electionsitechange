@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 3/08/2025 Capitol Hill Update 3/08/2025 Save Rural Hospitals Act On Tuesday, the Commerce and Labor Committee passed Senate Bill 185, the Save Rural Hospitals Act, to improve TennCare reimbursements to help the financial stability of rural hospitals.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 3/08/2025 Capitol Hill Update 3/08/2025 Save Rural Hospitals Act On Tuesday, the Commerce and Labor Committee passed Senate Bill 185, the Save Rural Hospitals Act, to improve TennCare reimbursements to help the financial stability of rural hospitals.
 The legislation would set a minimum and maximum level for aggregate reimbursement rates for a set of services to TennCare enrollees at rural hospitals.
 This would be a change from the current corridor reimbursement rates set for individual services.
 A closed hospital is not just a healthcare crisis, it’s an economic crisis.

@@ -1,4 +1,5 @@
-About Marko Record News Contact Endorsements Donate About Marko Record News Contact Endorsements Donate News The Herald Net WSDOT ‘weeks away’ from releasing US 2 trestle project plans September 25, 2026 EVERETT — The Washington State Department of Transportation will release its plans by November to replace the U.S.
+About Marko Record News Contact Endorsements Donate About Marko Record News Contact Endorsements Donate News Lynnwood Times Community Transit celebrates 50th Anniversary with an Intimate Celebration October 7, 2026 Senator Liias, along with several other elected officials and community transit leaders gather, for an intimate celebration of Community Transits 50th Anniversary.
+With Senator Liias sharing a few quotes about the work he has done on community transit, and his personal experiences with the Read More The Herald Net WSDOT ‘weeks away’ from releasing US 2 trestle project plans September 25, 2026 EVERETT — The Washington State Department of Transportation will release its plans by November to replace the U.S.
 2 trestle.
 Then it’s up to local and state leaders to find the funding.
 Read More My Edmonds News Edmonds turns out for a gala Pride Month finale September 2, 2026 Senator Liias attends Edmonds Pride!
@@ -11,5 +12,4 @@ Read More Puget Sound Institute Washington Lawmakers to decide whether to ban a 
 Read More Mukilteo Beacon Ceremony in Florida for Hybrid ferry bound for Mukilteo September 2, 2026 Senator Liias and other top officials gather in Florida to celebrate the completion of hybrid ferry headed towards Mukilteo.
 Read More Washington State Standard Wa governor lays groundwork for cellphone ban in public schools September 2, 2026 Governor Bob Ferguson signs legislation sponsored by Senator Liias to put into action a statewide plan for a school cellphone ban.
 Read More King 5 State senator talks broken transit promises, Sound Transit light rail projects falling short September 2, 2026 Senator Liias discusses the Sound Transit shortfalls, and cancellation of Ballard expansion.
-Read More Lynden Tribune Senate bill would expand pedestrian access at construction zones September 2, 2026 Senator Liias has worked on legislation that would expand pedestrian access routes in construction zones, specifically around important areas such as schools, hospitals, and parks.
 Read More Posts navigation Older posts Donate Paid for by Marko Liias for Senate 401 2nd Ave S Ste 303, Seattle, WA 98104

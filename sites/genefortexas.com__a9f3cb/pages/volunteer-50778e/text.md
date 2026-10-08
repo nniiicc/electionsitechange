@@ -8,8 +8,8 @@ Msg & data rates may apply.
 Reply STOP to unsubscribe, HELP for help.
 Add more — languages, availability… (all optional) I'm in Or jump into an event Ready right now?
 RSVP to an upcoming shift.
-Wed, Oct 7 · 6-7:30PM Phone Bank for Gene Wu Virtual RSVP Sat, Oct 10 · 9:00am-11:30am Block Walk for Gene Wu Campaign HQ RSVP Sun, Oct 11 · 7:00 PM – 8:00 PM AAPI Town Hall with Rep.
-Gene Wu Virtual RSVP See all events Chip in Gene Wu Democrat for Texas House Re-elect Gene Wu — Texas House.
+Sat, Oct 10 · 9:00am-11:30am Block Walk for Gene Wu Campaign HQ RSVP Sun, Oct 11 · 7:00 PM – 8:00 PM AAPI Town Hall with Rep.
+Gene Wu Virtual RSVP Wed, Oct 14 · 6-7:30PM Phone Bank for Gene Wu Virtual RSVP See all events Chip in Gene Wu Democrat for Texas House Re-elect Gene Wu — Texas House.
 Explore Meet Gene Issues Events Get Involved Invest in the Campaign → Contact Gene Wu for State Representative PO Box 742442 Houston , TX 77274 gene@genefortexas.com Press & media kit Political advertising paid for by the Gene for Texas Campaign.
 Privacy © 2026 Gene for Texas Campaign .
 All rights reserved.

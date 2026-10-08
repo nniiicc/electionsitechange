@@ -8,6 +8,10 @@
 "href": "https://www.dan4mo.com/blog/categories/agriculture"
 },
 {
+"text": "All Posts",
+"href": "https://www.dan4mo.com/blog"
+},
+{
 "text": "Alliances and Betrayals",
 "href": "https://www.dan4mo.com/post/alliances-and-betrayals"
 },
@@ -202,9 +206,5 @@
 {
 "text": "[image: YouTube]",
 "href": "https://www.youtube.com/@dan4mo"
-},
-{
-"text": "[no text]",
-"href": "https://www.dan4mo.com/blog"
 }
 ]

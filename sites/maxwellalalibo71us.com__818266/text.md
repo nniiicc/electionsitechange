@@ -20,7 +20,8 @@ Completed Corrosion Technology (HCC) while working in retail and mental health (
 Texas Grassroots Leadership Elected Precinct Chairman and Election Judge in Fort Bend County; focused on voting rights and community awareness.
 A Call to Serve Consolidating 40 years of human relations, technical precision, and community advocacy into a single mission: To Serve the constituents of District 27 through a concrete, 5-pronged strategy: Safety, Healthcare (Veterans/Seniors), Growth, Infrastructure, and Accountability .
 JOIN THE MOVEMENT Please enable JavaScript in your browser to complete this form.
-Please enable JavaScript in your browser to complete this form. / Next Area Name * Email * Zip Code 77xxx Area of Concern / Inquiry Public Safety Healthcare & Seniors Infrastructure & Roads Small Business & Economy Government Accountability General Inquiry Share your Concern What is on your mind regarding District 27?
+Please enable JavaScript in your browser to complete this form.
+Email Code Next Name * Email * Zip Code 77xxx Area of Concern / Inquiry Public Safety Healthcare & Seniors Infrastructure & Roads Small Business & Economy Government Accountability General Inquiry Share your Concern What is on your mind regarding District 27?
 Whether it's a neighborhood issue or a vision for the future, Max is listening Next Steps I want to receive campaign updates I support Max to Lead District 27 Log your concern keep in touch Linkedin Facebook Paid for by Max-Alalibo for Texas House District 27.
 Max-Alalibo, Candidate. © # Max-Alalibo for Texas House District 27.
 All Rights Reserved.

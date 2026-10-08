@@ -1,27 +1,118 @@
 [
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fmeet-christina&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fopen-house&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fvolunteer-meetup&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/wix",
-"https://hugleyforgeorgia.com/",
-"https://hugleyforgeorgia.com/about",
-"https://hugleyforgeorgia.com/accessibility-statement",
-"https://hugleyforgeorgia.com/contact",
-"https://hugleyforgeorgia.com/events-1",
-"https://hugleyforgeorgia.com/events/meet-christina",
-"https://hugleyforgeorgia.com/events/open-house",
-"https://hugleyforgeorgia.com/events/volunteer-meetup",
-"https://hugleyforgeorgia.com/get-involved",
-"https://hugleyforgeorgia.com/news",
-"https://hugleyforgeorgia.com/privacy-policy",
-"https://hugleyforgeorgia.com/terms-and-conditions",
-"https://instagram.com/wix",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fmeet-christina",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fopen-house",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fvolunteer-meetup",
-"https://secure.actblue.com/donate/carolynhugley",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fmeet-christina&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fopen-house&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fvolunteer-meetup&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/wix"
+{
+"text": "About Me",
+"href": "https://www.hugleyforgeorgia.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.hugleyforgeorgia.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.hugleyforgeorgia.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/carolynhugley"
+},
+{
+"text": "Events",
+"href": "https://www.hugleyforgeorgia.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.hugleyforgeorgia.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.hugleyforgeorgia.com"
+},
+{
+"text": "Home",
+"href": "https://www.hugleyforgeorgia.com/events-1"
+},
+{
+"text": "News",
+"href": "https://www.hugleyforgeorgia.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.hugleyforgeorgia.com/privacy-policy"
+},
+{
+"text": "REGISTER NOW",
+"href": "https://www.hugleyforgeorgia.com/events/meet-christina"
+},
+{
+"text": "REGISTER NOW",
+"href": "https://www.hugleyforgeorgia.com/events/open-house"
+},
+{
+"text": "REGISTER NOW",
+"href": "https://www.hugleyforgeorgia.com/events/volunteer-meetup"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.hugleyforgeorgia.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.hugleyforgeorgia.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.hugleyforgeorgia.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fmeet-christina&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fopen-house&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fvolunteer-meetup&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fmeet-christina&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fopen-house&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fvolunteer-meetup&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fmeet-christina"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fopen-house"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hugleyforgeorgia.com%2Fevents%2Fvolunteer-meetup"
+},
+{
+"text": "info@HugleyforGeorgia.com",
+"href": "mailto:info@HugleyforGeorgia.com"
+}
 ]

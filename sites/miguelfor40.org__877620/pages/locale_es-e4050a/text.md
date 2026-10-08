@@ -102,15 +102,15 @@ No upcoming events at this time.
 Miguel en las noticias Las autodefensas vecinales contra la represión trumpista Esta es el área de contenido de su publicación.
 Reemplace este texto con la introducción de su artículo - capture a los lectores con un párrafo inicial convincente que presente lo que están a punto de leer.Agregue su contenido principal aquí, dividido en párrafos claros.
 Considere incluir:Puntos ...
-Dec 11, 2025 Read More As Budget Stalemate Drags On, Some Warn Of Potential City Hall Shutdown Esta es el área de contenido de su publicación.
+Dec 10, 2025 Read More As Budget Stalemate Drags On, Some Warn Of Potential City Hall Shutdown Esta es el área de contenido de su publicación.
 Reemplace este texto con la introducción de su artículo - capture a los lectores con un párrafo inicial convincente que presente lo que están a punto de leer.Agregue su contenido principal aquí, dividido en párrafos claros.
 Considere incluir:Puntos ...
-Dec 8, 2025 Read More How to Stand up to ICE: Lessons From Chicago and Charlotte Esta es el área de contenido de su publicación.
+Dec 7, 2025 Read More How to Stand up to ICE: Lessons From Chicago and Charlotte Esta es el área de contenido de su publicación.
 Reemplace este texto con la introducción de su artículo - capture a los lectores con un párrafo inicial convincente que presente lo que están a punto de leer.Agregue su contenido principal aquí, dividido en párrafos claros.
 Considere incluir:Puntos ...
-Dec 3, 2025 Read More Visible and Invisible: How ICE Is Terrorizing Chicago’s Working Class Esta es el área de contenido de su publicación.
+Dec 2, 2025 Read More Visible and Invisible: How ICE Is Terrorizing Chicago’s Working Class Esta es el área de contenido de su publicación.
 Reemplace este texto con la introducción de su artículo - capture a los lectores con un párrafo inicial convincente que presente lo que están a punto de leer.Agregue su contenido principal aquí, dividido en párrafos claros.
 Considere incluir:Puntos ...
-Nov 25, 2025 Read More English Español (Spanish) Pagado por Miguel Para El Pueblo.
+Nov 24, 2025 Read More English Español (Spanish) Pagado por Miguel Para El Pueblo.
 Una copia de nuestro informe presentado ante la Junta Estatal de Elecciones está (o estará) disponible en el sitio web oficial de la Junta. www.elecciones.il.gov ) o para comprar en la Junta Estatal de Elecciones, Springfield, Illinois.
 Prensa: hello@miguelfor40.org Paid for by Miguel Para El Pueblo Made in Solidarity Tech

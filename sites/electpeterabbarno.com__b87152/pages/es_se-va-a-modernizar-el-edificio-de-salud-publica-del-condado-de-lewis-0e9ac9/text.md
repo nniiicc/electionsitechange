@@ -26,15 +26,10 @@ El condado va a reanudar pronto las obras en el edificio de ladrillo de la aveni
 El condado compró el edificio en 2020.
 Su último inquilino había sido DB Cooper Appliances.
 Tras completar algunas de las obras estructurales necesarias, el proyecto se estancó más o menos al mismo tiempo que los confinamientos por la pandemia de COVID-19 se extendieron por todo el país.
-Según Patana, el condado espera seguir adelante pronto con la renovación del edificio, utilizando fondos para infraestructuras procedentes de la venta de un antiguo edificio de obras públicas del condado. ← Artículo anterior Entradas más recientes Cómo sacar más partido a las mejoras energéticas en los hogares para las comunidades de Washington Ago 27, 2026 | Blog Para muchas familias de Washington, sobre todo las que viven en casas antiguas y en comunidades rurales, la eficiencia energética no es solo una cuestión política abstracta.
+Según Patana, el condado espera seguir adelante pronto con la renovación del edificio, utilizando fondos para infraestructuras procedentes de la venta de un antiguo edificio de obras públicas del condado. ← Artículo anterior Entradas más recientes Cuando las prioridades locales se convierten en inversiones estatales Oct 7, 2026 | Elegir a Peter Abbarno Para la Cámara de Comercio de C-C Una de las cosas más importantes a la hora de representar a nuestra comunidad en Olympia es escuchar a los líderes locales, identificar las necesidades reales y, después, trabajar juntos para convertir esas prioridades en resultados....
+Cómo sacar más partido a las mejoras energéticas en los hogares para las comunidades de Washington Ago 27, 2026 | Blog Para muchas familias de Washington, sobre todo las que viven en casas antiguas y en comunidades rurales, la eficiencia energética no es solo una cuestión política abstracta.
 Puede significar un hogar más calentito en invierno, facturas mensuales más bajas, poder hacer...
 Proteger las tierras de cultivo de Washington y fortalecer las comunidades rurales Ago 27, 2026 | Blog Las granjas, los bosques, los ríos y las tierras de cultivo de Washington son parte de lo que hace que nuestro estado sea especial.
 Además, generan miles de puestos de trabajo, producen alimentos y madera, protegen los hábitats y la calidad del agua, y sostienen a las...
-Vota pronto.
-Vota con orgullo.
-Ayuda a construir un Washington más fuerte.
-Jul 9, 2026 | Sin categoría Todas las elecciones son importantes, pero las elecciones primarias de 2026 son especialmente importantes para el futuro de nuestras comunidades y de nuestro estado.
-Las decisiones que tomemos hoy ayudan a marcar el rumbo que tomará Washington mañana.
-Si queremos......
 Mantente al día de las últimas noticias de Olimpia.
 Recibe el boletín de Peter Pagado por el comité para la elección de Peter Abbarno | Diseñado por The Silver Agency English ( Inglés ) Español

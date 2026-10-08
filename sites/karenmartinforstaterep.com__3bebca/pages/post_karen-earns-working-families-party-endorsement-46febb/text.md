@@ -11,7 +11,7 @@ My priority is fighting for the people of East Haven.
 That means making life more affordable, ensuring we get our fair share of state funding for our schools and roads, and always voting to bring more resources back home to our town." The Working Families Party endorses candidates who demonstrate dedication to social, economic, and environmental justice.
 Martin’s alignment with the WFP reinforces her track record of advocating for practical solutions that directly benefit working individuals and families.
 As the campaign progresses, Martin remains focused on grassroots organizing, listening to voter concerns, and building a coalition dedicated to bringing affordable change and strong state advocacy to East Haven.
-Recent Posts See All Join us on Wednesdays...Notes for Votes!
+Recent Posts See All Karen Receives CT Against Gun Violence Endorsement!
+Join us on Wednesdays...Notes for Votes!
 Rescheduled Grand Opening - East Haven DTC Headquarters!
-Karen Receives Endorsement From AFSCME Council 4!
 Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page

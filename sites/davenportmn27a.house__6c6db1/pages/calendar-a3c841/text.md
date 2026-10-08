@@ -1,7 +1,4 @@
-0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Oct 7 Clear Lake Door Knocking Wednesday, October 7, 2026 4:00 PM 7:00 PM Clear Lake City Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
-Mobilize Signup Facebook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Clear Lake City Hall Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
-Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
-View Event → Oct 13 Big Lake Door Knocking Tuesday, October 13, 2026 4:00 PM 7:00 PM Big Lake Lions Park (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Oct 13 Big Lake Door Knocking Tuesday, October 13, 2026 4:00 PM 7:00 PM Big Lake Lions Park (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
 Mobilize Signup FaceBook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake Lions Park Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Doug Chapin, Candidate for MN CD6 Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 14 DFL SD27 Monthly Meeting Wednesday, October 14, 2026 6:30 PM 7:30 PM Papa's Italian (map) Google Calendar ICS Join us for our next meeting at Papa's Italian in Zimmerman.
@@ -28,6 +25,9 @@ Tuesday, November 3, 2026 11:00 AM 12:00 PM Google Calendar ICS Ballots availabl
 Social hour begins at 5:30 pm.
 Meeting begins at 6:30.
 Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
+View Event → Oct 7 Clear Lake Door Knocking Wednesday, October 7, 2026 4:00 PM 7:00 PM Clear Lake City Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
+Mobilize Signup Facebook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Clear Lake City Hall Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
+Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 4 Bonfire Bash Sunday, October 4, 2026 3:00 PM 6:00 PM Princeton, MN (map) Google Calendar ICS Bring your family and your flannel for a fun fall afternoon!
 Chili & beverages Bonfire Pumpkin decorating Cornhole & yard games Fall photo booth Then stick around to meet Vanessa Davenport, candidate for MN House District 27A, and Charles McConaughay, candidate for MN House District 27B.
 Come say hello, ask questions, and enjoy some time with neighbors and community.
@@ -178,5 +178,4 @@ Date & Time: Saturday, July 18th Line up starts at 8:30.
 Parade starts at 10 AM Location: Lining up along Main St. near the Handke Center.
 Enter from the east by the downtown area.
 Parade ends at Orono Parkway and Joplin.
-View Event → Jul 16 to Jul 19 Sherburne County Fair SD27/27 Booth Thu, Jul 16, 2026 8:00 AM Sun, Jul 19, 2026 7:00 PM Elk River Fair Grounds (map) Google Calendar ICS Come visit your local DFL candidates at the Sherburne Country Fair DFL Booth!
-If you are interested in volunteering, please use the Google Sheets View Event → Paid for by Davenport for Minnesota House 27A
+View Event → Paid for by Davenport for Minnesota House 27A

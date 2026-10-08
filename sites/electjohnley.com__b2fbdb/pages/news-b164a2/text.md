@@ -1,4 +1,9 @@
-Home News Latest News 60 Seconds With John Ley About Me Donate Latest News Washington has a spending addiction Issues Statement October 3, 2026 by John Ley Two former Governors agree with me — Washington has a spending problem My closing remarks at the League of Women Voters debate.
+Home News Latest News 60 Seconds With John Ley About Me Donate Latest News Opinion: They’re coming for your money — and your retirement Issues October 7, 2026 by John Ley Rep.
+John Ley discusses the Democrats’ fight to lower the income tax threshold By John Ley · October 6, 2026 Clark County Today Rep.
+John Ley for Clark County Today...
+Read more Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset Issues October 7, 2026 by John Ley Every family and small business in Washington knows the basic rule of budgeting: you cannot spend money you do not have.
+When household costs rise, families prioritize essentials, cut back...
+Read more Washington has a spending addiction Issues Statement October 3, 2026 by John Ley Two former Governors agree with me — Washington has a spending problem My closing remarks at the League of Women Voters debate.
 Our state has a spending addiction.
 There is...
 Read more Washington lawmaker warns ballooning bridge budget needs reality check Issues Solutions September 12, 2026 by John Ley Rep.
@@ -18,10 +23,7 @@ Read more Northwest Politics NOW — KOIN Interview Issues July 29, 2026 by John
 Washington state democrats have a spending addiction...
 Read more Washington State’s Fiscal Suicide – Are Democrats deaf to warning signs, as taxpayers foot the bill Issues July 29, 2026 by John Ley Rep.
 John Ley says Washington doesn’t have a revenue problem; it has a spending addiction Thursday, July 23, 2026 — Clark County Today Governor Bob Ferguson proudly declared himself a...
-Read more Peter Abbarno: Sarah Mittelman is the ‘perfect candidate’ for the 49th District Issues July 25, 2026 by John Ley Rep.
-Peter Abbarno says Sarah Mittelman is the “perfect candidate” for Washington’s 49th Legislative District and explains why successful candidates must fit the communities they seek to represent.
-Read more Fighting to get Brockmann open Issues July 8, 2026 by John Ley Pushing for a public-private partnership to open Brockmann There was a meeting of state government health and social service staff and several legislators at the Brockmann Campus on July 8....
-Read more Older Posts Latest Episode: 60 Seconds With John Ley Latest News Washington has a spending addiction Washington lawmaker warns ballooning bridge budget needs reality check Stop rewarding fiscal mismanagement on the IBR; enough is enough Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
+Read more Older Posts Latest Episode: 60 Seconds With John Ley Latest News Opinion: They’re coming for your money — and your retirement Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset Washington has a spending addiction Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

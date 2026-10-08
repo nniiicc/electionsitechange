@@ -6,6 +6,7 @@ Kelly is running on a platform centered on affordability, healthcare reform that
 Issue focus Affordability and the cost of living Healthcare: fewer middlemen, lower costs, real access Education, workforce readiness, and student loan relief Government accountability, civil rights, and due process Infrastructure, resilience, and preparedness Quote “People in NJ-03 don’t have time for Washington’s dysfunction.
 I’m running to focus on affordability, accountability, and practical governance.” Brand and naming Name: Ryan Michael Kelly Race: U.S.
 House — New Jersey’s 3rd Congressional District (NJ-03) Party: Independent Media resources Download full media kit (ZIP) One-page media facts (PDF) Short candidate bio (TXT) Additional assets may be added as the campaign progresses.
+Rowan student interview: Watch the three-part interview series on YouTube (Interview by Alex Tongas).
 Links Website: kellyfornj03.com Issues: kellyfornj03.com/issues Get involved: kellyfornj03.com/get-involved Donate: kellyfornj03.com/donate Paid for by Ryan Michael Kelly for Congress .
 Ryan Michael Kelly, Treasurer.
 PO Box 68, Hightstown, NJ 08520 Contact: info@KellyForNJ03.com © 2026 Ryan Michael Kelly for Congress Privacy Accessibility Media Transparency Endorsements Volunteer YouTube Instagram Facebook X Share this campaign Share the Connect page or let someone scan the QR code.

@@ -1,4 +1,4 @@
-October 7, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Meet Our 100% Champions BigSky55+ works towards making life better for Montanans of all ages, especially older Montanans.
+October 8, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Meet Our 100% Champions BigSky55+ works towards making life better for Montanans of all ages, especially older Montanans.
 They followed Jane’s work in the legislature this session and it matched their mission as an organization.
 They will be celebrating Jane today across their socials!
 They’ve released their scorecard for the 2025 session and Jane has 100% with them.

@@ -3,6 +3,6 @@ PARTNER WITH US.
 VOLUNTEER.
 Home Meet Cristian Platform Volunteer District Map Contact FOR ALL VOICES 2026 Search District Map Stay Informed Email (Required) Sign up Δ Stay connected Download Campaign Flyer Choose From: English Spanish Chinese Japanese Korean Vietnamese Contact Us Cristian Morales for Congress 2026 3025 Artesia Blvd.
 #37 Torrance, CA 90504 info@forallvoices.com Paid for by Cristian Morales for Congress 2026.
-Committee ID: C00944405 Privacy Policy Accessibility © # Cristian Morales for All Voices.
+Committee ID: C00944405 Email and Text Messaging Privacy Policy and Terms and Conditions Accessibility © # Cristian Morales for All Voices.
 All Rights Reserved.
 Stay connected @CMoralesCAGov on Truth Social Manage consent Close Necessary Necessary Always Enabled Functional Functional Advertisement Advertisement Others Others SAVE & ACCEPT Please ensure Javascript is enabled for purposes of website accessibility

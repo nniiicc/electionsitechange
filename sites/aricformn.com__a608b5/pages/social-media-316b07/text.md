@@ -4,4 +4,4 @@ Your support on these platforms helps us to reach voters across the district, ke
 Please take a moment to like, follow, and subscribe to our channels below, and be sure to invite your friends and family to do the same.
 Liking and sharing our posts on social media is an easy way for you to get involved with this campaign and an excellent way to help spread our message across the district.
 Facebook Instagram YouTube PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

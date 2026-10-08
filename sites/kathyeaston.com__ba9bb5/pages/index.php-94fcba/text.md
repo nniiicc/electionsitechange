@@ -1,4 +1,4 @@
-Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information Join Us Talk to Kathy Donate THE MISSION Service Over Politics.
+Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information 68th District Join Us Talk to Kathy Donate THE MISSION Service Over Politics.
 Results Over Rhetoric.
 Most political websites start with a polished script and a list of empty promises.
 That’s not me.

@@ -1,4 +1,4 @@
-Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA Dom's Priorities Reduce the Cost of Living Families are struggling as inflation hits its highest in a generation, with California facing the worst effects.
+Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us DONATE ENDORSE DOM BELZA Dom's Priorities Reduce the Cost of Living Families are struggling as inflation hits its highest in a generation, with California facing the worst effects.
 Our taxes and poverty rates are the highest in the nation, and everyday costs are soaring.
 I will fight for lower taxes, reduce regulations that drive up costs, and support policies that help working families keep more of their hard-earned money.
 Protecting the North State’s Water Sources Water is vital for Northern California’s communities, agriculture, and ecosystems.

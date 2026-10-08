@@ -1,7 +1,7 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate The Record Built in El Paso.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate The Record Built in El Paso.
 Fought for in Texas.
 Here is what we have actually delivered for El Paso — at the Legislature and at the County.
-Higher education & workforce UTEP Student Union expansion signed into law HB 2853 · Signed 2025 Modernizes the student union at one of the largest Hispanic-serving research universities in the country.
+Higher education & workforce New UTEP Student Union signed into law HB 2853 · Signed 2025 A new Student Union for one of the largest Hispanic-serving research universities in the country.
 Read the release → El Paso public law school through the House HB 3475 · Passed House 2025 Clears the path for the first accredited law school in one of the nation's largest metros without one.
 Read the release → Dual credit teacher pipeline expansion Filed 2025 Increases the number of teachers eligible to lead dual credit classrooms statewide.
 Read the release → Healthcare Foreign-trained doctor licensure signed into law Joint-authored · Signed 2025 Allows experienced foreign-trained physicians to practice in Texas, easing a chronic shortage in border and rural communities.

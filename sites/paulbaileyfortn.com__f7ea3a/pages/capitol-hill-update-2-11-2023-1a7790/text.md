@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 2/11/2023 Capitol Hill Update 2/11/2023 It was another busy week on Capitol Hill.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 2/11/2023 Capitol Hill Update 2/11/2023 It was another busy week on Capitol Hill.
 I was excited to welcome so many wonderful constituents of Senate District 15 to Nashville.
 If you would like to be my guest on the Senate floor or schedule a tour of our beautiful State Capitol, please contact my office at (615) 741-3978 .
 This week was highlighted by Governor Bill Lee delivering his fifth State of the State Address on Monday evening in a joint session of the General Assembly.

@@ -133,7 +133,15 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Greenwood+Meet+and+Greets&dates=20261007T213000Z%2F20261007T223000Z"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grenada+County+Meet+and+Greet&dates=20261006T193000Z%2F20261006T213000Z&location=1655+Sunset+Drive%2C+Grenada%2C+Mississippi%2C+38901%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Itta+Bena+Meet+and+Greets&dates=20261007T203000Z%2F20261007T211500Z"
 },
 {
 "text": "Google Calendar",
@@ -153,7 +161,15 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Tchula+Meet+and+Greets&dates=20261007T191500Z%2F20261007T200000Z"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walnut+Grove+Meet+and+Greet&dates=20261005T190000Z%2F20261005T200000Z&location=132+MS-35%2C+Walnut+Grove%2C+MS%2C+39189"
+},
+{
+"text": "Greenwood Meet and Greets",
+"href": "https://www.electbenniefoster.com/events/greenwood-meet-and-greets"
 },
 {
 "text": "Grenada County Meet and Greet",
@@ -177,11 +193,19 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/greenwood-meet-and-greets?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
 "href": "https://www.electbenniefoster.com/events/holmes-tour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets?format=ical"
 },
 {
 "text": "ICS",
@@ -201,6 +225,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/walnut-grove-meet-and-greet?format=ical"
 },
 {
@@ -210,6 +238,10 @@
 {
 "text": "Instagram",
 "href": "https://www.instagram.com/fosterforcongress"
+},
+{
+"text": "Itta Bena Meet and Greets",
+"href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets"
 },
 {
 "text": "Kosciusko Meet and Greet",
@@ -244,6 +276,14 @@
 "href": "https://www.electbenniefoster.com/questions-answers"
 },
 {
+"text": "Tchula Meet and Greets",
+"href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet"
+},
+{
+"text": "Updates",
+"href": "https://www.electbenniefoster.com/updates"
+},
+{
 "text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/an5hmgtn66pw7v7uymyvni0zgbf109"
 },
@@ -261,11 +301,19 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/greenwood-meet-and-greets"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet"
 },
 {
 "text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/holmes-tour"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets"
 },
 {
 "text": "View Event →",
@@ -282,6 +330,10 @@
 {
 "text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/our-voice-our-vote-with-guest-speaker-mark-burns"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet"
 },
 {
 "text": "View Event →",
@@ -316,8 +368,16 @@
 "href": "https://www.electbenniefoster.com/events/holmes-tour"
 },
 {
+"text": "[image: Greenwood Meet and Greets]",
+"href": "https://www.electbenniefoster.com/events/greenwood-meet-and-greets"
+},
+{
 "text": "[image: Grenada County Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet"
+},
+{
+"text": "[image: Itta Bena Meet and Greets]",
+"href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets"
 },
 {
 "text": "[image: Kosciusko Meet and Greet]",
@@ -334,6 +394,10 @@
 {
 "text": "[image: Our Voice Our Vote with guest speaker Mark Burns]",
 "href": "https://www.electbenniefoster.com/events/our-voice-our-vote-with-guest-speaker-mark-burns"
+},
+{
+"text": "[image: Tchula Meet and Greets]",
+"href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet"
 },
 {
 "text": "[image: Walnut Grove Meet and Greet]",

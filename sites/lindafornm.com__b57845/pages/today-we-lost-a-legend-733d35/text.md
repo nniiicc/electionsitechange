@@ -1,6 +1,7 @@
-The Honorable John Lewis impacted my life beyond my full understanding but I’ll always strive for his optimism and endless efforts to ensure our nation fulfills its promises.
+Home About Values Get Involved Today we lost a legend July 30, 2020 | In News | By Team Linda The Honorable John Lewis impacted my life beyond my full understanding but I’ll always strive for his optimism and endless efforts to ensure our nation fulfills its promises.
 Too many young Americans are cynical or disenchanted and we must respond like the Honorable John Lewis: ceaselessly fighting through activism, elections and policy.
-As President Barack Obama said “John Lewis will be a Founding Father of that fuller, fairer, better America.”
-I encourage you to read President Obama’s full speech or watch it if you can.
+As President Barack Obama said “John Lewis will be a Founding Father of that fuller, fairer, better America.” I encourage you to read President Obama’s full speech or watch it if you can.
 You deserve to feel hope for the future of our nation.
-Let us honor that legacy and keep fighting for our ideals for a more perfect Union
+Let us honor that legacy and keep fighting for our ideals for a more perfect Union Recent Posts Today’s Swearing in New Endorsements!
+Peaceful Transition If you missed our launch… Join Governor Michelle Lujan Grisham and Linda as we launch for the general election!
+Recent Comments Mark on Today’s Swearing in Archives October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 October 2019 Categories Uncategorized News Press Releases Campaign Updates Endorsement Meta Log in Entries feed Comments feed WordPress.org Prev Next [fts_facebook type=page id=106115987493807 access_token=EAAP9hArvboQBAENCZAf9AbAtg41ZAKn1fTxSWKTgXXHqDt8sBLQbcPuxHr7sfGzWDRi1z0YsaPtt3czOrRdnrYVuteYgSu95ZCfPvYONwXb7JffZAw7CBFG4NbO2V5iEpvGPfP9EFybvuafGZC58BZBTzA1eFio7AP5DYZAKxJEiygAfIo1ZCNfS posts=3 description=no posts_displayed=page_only images_align=center] grassroots@lindafornm.com 505-395-6356 Paid for by Our Neighbors for Linda (Treasurer: Soledad Roybal) Privacy Preference Center Privacy Preferences

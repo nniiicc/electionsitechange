@@ -1,4 +1,4 @@
-0 Skip to Content Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Election Information Here’s all the information you need to ensure you are ready to vote in this year’s Primary (August 4, 2026) and General (November 3, 2026)!
+0 Skip to Content Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Election Information Here’s all the information you need to ensure you are ready to vote in this year’s Primary (August 4, 2026) and General (November 3, 2026)!
 How do I register to vote?
 It's easy and secure to register online , by mail with a paper form , or at a county elections office .
 Check your registration at VoteWA.gov .

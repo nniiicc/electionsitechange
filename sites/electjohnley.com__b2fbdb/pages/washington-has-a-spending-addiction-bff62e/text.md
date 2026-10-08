@@ -5,7 +5,7 @@ Since 2021, Idaho has cut taxes by $4 billion.
 Since 2019, Florida has cut taxes by $6.7 billion.
 Since 2020, Colorado has lowered taxes four times.
 In the last two years, Washington state has increased taxes by $17 billion.
-Governor Christine Gregoire Governor Gary Locke lower taxes Washington state spending addiction by John Ley previous Washington lawmaker warns ballooning bridge budget needs reality check Help me fight for the people and common sense solutions.
+Governor Christine Gregoire Governor Gary Locke lower taxes Washington state spending addiction by John Ley previous Washington lawmaker warns ballooning bridge budget needs reality check next Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

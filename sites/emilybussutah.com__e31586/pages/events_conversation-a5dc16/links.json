@@ -1,7 +1,7 @@
 [
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=1344+devonshire+drive+salt+lake+city%2C+utah%2C+84108+united+states"
+"href": "http://maps.google.com?q=salt+lake+city+%28address+provided+after+rsvp%29"
 },
 {
 "text": "0",
@@ -20,6 +20,10 @@
 "href": "https://www.emilybussutah.com/events"
 },
 {
+"text": "Connect With Emily",
+"href": "https://www.emilybussutah.com/contact"
+},
+{
 "text": "Contact",
 "href": "https://www.emilybussutah.com/contact"
 },
@@ -36,8 +40,8 @@
 "href": "https://www.emilybussutah.com/events"
 },
 {
-"text": "Folder: Join the Team",
-"href": "https://www.emilybussutah.com/join-the-team"
+"text": "Folder: Get Involved/Contact",
+"href": "https://www.emilybussutah.com/get-involved"
 },
 {
 "text": "Forward Party of Utah",
@@ -49,7 +53,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=A+Conversation+About+Utah%E2%80%99s+Environment&dates=20261012T010000Z%2F20261012T030000Z&location=1344+Devonshire+Drive%2C+Salt+Lake+City%2C+Utah%2C+84108%2C+United+States"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=A+Conversation+About+Utah%E2%80%99s+Environment&dates=20261012T010000Z%2F20261012T030000Z"
 },
 {
 "text": "ICS",
@@ -81,15 +85,11 @@
 },
 {
 "text": "[no text]",
-"href": "https://www.facebook.com/EmilyBussforUtah/"
+"href": "https://www.facebook.com/EmilyBussforUtah"
 },
 {
 "text": "[no text]",
 "href": "https://www.instagram.com/emilybussforutah/"
-},
-{
-"text": "[no text]",
-"href": "https://x.com/EmilyforUtah"
 },
 {
 "text": "team@emilybussutah.com",

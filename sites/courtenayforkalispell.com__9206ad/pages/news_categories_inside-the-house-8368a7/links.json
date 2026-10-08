@@ -1,15 +1,58 @@
 [
-"https://courtenayforkalispell.com/",
-"https://courtenayforkalispell.com/connect",
-"https://courtenayforkalispell.com/contribute",
-"https://courtenayforkalispell.com/issues",
-"https://courtenayforkalispell.com/my-story",
-"https://courtenayforkalispell.com/news",
-"https://courtenayforkalispell.com/post/inside-the-house-halftime-update",
-"https://courtenayforkalispell.com/post/inside-the-house-week-2",
-"https://courtenayforkalispell.com/post/inside-the-house-week-4-courtenaysprunger",
-"https://courtenayforkalispell.com/post/watch-list-five-issues-you-should-be-following-in-the-69th-session",
-"https://courtenayforkalispell.com/profile/courtenay/profile",
-"https://facebook.com/CourtenayForKalispell",
-"https://instagram.com/courtenayforkalispell"
+{
+"text": "Connect",
+"href": "https://www.courtenayforkalispell.com/connect"
+},
+{
+"text": "Contribute",
+"href": "https://www.courtenayforkalispell.com/contribute"
+},
+{
+"text": "Courtenay Sprunger",
+"href": "https://www.courtenayforkalispell.com/profile/courtenay/profile"
+},
+{
+"text": "Home",
+"href": "https://www.courtenayforkalispell.com"
+},
+{
+"text": "Inside The House with Courtenay Sprunger: Week 4",
+"href": "https://www.courtenayforkalispell.com/post/inside-the-house-week-4-courtenaysprunger"
+},
+{
+"text": "Inside The House: Halftime update",
+"href": "https://www.courtenayforkalispell.com/post/inside-the-house-halftime-update"
+},
+{
+"text": "Inside The House: Week 2",
+"href": "https://www.courtenayforkalispell.com/post/inside-the-house-week-2"
+},
+{
+"text": "Issues",
+"href": "https://www.courtenayforkalispell.com/issues"
+},
+{
+"text": "My Story",
+"href": "https://www.courtenayforkalispell.com/my-story"
+},
+{
+"text": "News",
+"href": "https://www.courtenayforkalispell.com/news"
+},
+{
+"text": "Watch List: Five issues you should be following in the 69th Session",
+"href": "https://www.courtenayforkalispell.com/post/watch-list-five-issues-you-should-be-following-in-the-69th-session"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/CourtenayForKalispell"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/courtenayforkalispell"
+},
+{
+"text": "[no text]",
+"href": "https://www.courtenayforkalispell.com/profile/courtenay/profile"
+}
 ]

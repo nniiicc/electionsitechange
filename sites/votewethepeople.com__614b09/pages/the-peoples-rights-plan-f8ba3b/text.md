@@ -1,4 +1,4 @@
-Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant to Oklahoma Platform and Policy Agenda Take the Oath The Creed The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
+Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant Platform and Policy Agenda Take the Oath The Creed The Four Choices The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
 Touch device users, explore by touch or with swipe gestures.
 Home → The People’s Rights Plan The People’s Rights Plan <br> Protecting the Constitutional and Civil Rights of Every Oklahoman One of the Governor’s most important responsibilities is not to decide whose rights matter.
 It is to protect the rights of every person equally.

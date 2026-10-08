@@ -1,11 +1,50 @@
 [
-"https://atr.org/pledge-database",
-"https://ballotpedia.org/William_Henry_(Indiana)",
-"https://facebook.com/WilliamHenryforCongress",
-"https://termlimits.com/",
-"https://twitter.com/LibertarianIndy",
-"https://williamhenry.us/",
-"https://williamhenry.us/cdn-cgi/l/email-protection",
-"https://williamhenry.us/contact.html",
-"https://williamhenry.us/issues.html"
+{
+"text": "CLICK HERE TO SEE DATABASE",
+"href": "https://www.atr.org/pledge-database/"
+},
+{
+"text": "CLICK HERE TO SEE MORE",
+"href": "https://www.termlimits.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.williamhenry.us/contact.html"
+},
+{
+"text": "Home",
+"href": "https://www.williamhenry.us/"
+},
+{
+"text": "Issues",
+"href": "https://www.williamhenry.us/issues.html"
+},
+{
+"text": "[email protected]",
+"href": "mailto:Contact@williamHenry.us"
+},
+{
+"text": "[image: Picture]",
+"href": "https://www.atr.org/pledge-database/"
+},
+{
+"text": "[image: Picture]",
+"href": "https://www.termlimits.com/"
+},
+{
+"text": "[no text]",
+"href": "https://ballotpedia.org/William_Henry_(Indiana)"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LibertarianIndy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WilliamHenryforCongress"
+},
+{
+"text": "[no text]",
+"href": "mailto:Contact@WilliamHenry.us"
+}
 ]

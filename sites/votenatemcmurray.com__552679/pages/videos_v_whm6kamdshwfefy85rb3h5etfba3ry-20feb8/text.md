@@ -26,5 +26,8 @@ We do a quick review because honestly… what is even happening anymore?
 WATCH LIVE OR CATCH THE FULL EPISODE: Search:“Nate Cast with Nate McMurray” Available on YouTube, Spotify, and Apple Podcasts.
 Previous PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Next NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-You Might Also Like THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics PODCAST CLIP: THEY DIDN’T EVEN SHOW UP I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Volunteer and Sign Up for Updates!
+You Might Also Like PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+WHO GETS TO DECIDE WHO IS A CHRISTIAN?
+North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+Why Is Southern Ontario Doing Better Than Western New York?
+Volunteer and Sign Up for Updates!

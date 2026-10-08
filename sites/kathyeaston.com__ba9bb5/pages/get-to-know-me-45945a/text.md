@@ -1,4 +1,4 @@
-Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information Join Us Talk to Kathy Donate GET TO KNOW ME Kathy (Johnson) Easton is a lifelong Rockford resident who proudly calls the 68th District home.
+Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information 68th District Join Us Talk to Kathy Donate GET TO KNOW ME Kathy (Johnson) Easton is a lifelong Rockford resident who proudly calls the 68th District home.
 She is a graduate of Boylan High School and attended Rock Valley College, where she played tennis and served on the Student Commission.
 Beginning her freshman year at Boylan High School, tennis became a central part of Kathy Easton’s life.
 To pay for lessons, she worked at The Last Straw and Logli’s.

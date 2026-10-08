@@ -6,7 +6,7 @@ As a dedicated advocate for public education, Deirdre is truly grateful to recei
 Read More Deirdre has received the endorsement of Rights & Democracy New Hampshire, an organization working to protect fundamental rights, strengthen democracy, and build thriving communities across the Granite State.
 Read More NHYM Action Fund has endorsed Deirdre McEachern in the 2026 election, recognizing her commitment to younger generations and responsive, community-centered leadership.
 Deirdre McEachern made Steve Marchand's first-round cut of ten (out of roughly 50 planned) 2026 NH House endorsements, with Marchand citing her education, entrepreneurial, and civic-life background as a strong fit for the district.
-Read More The weathered pilings along our shoreline remind us of what makes our communities strong.
+Read More Deirdre McEachern Endorsements EMILYs List 350NH Action American Federation of Teachers AFT-NH Rights & Democracy New Hampshire NHYM Action Fund Move the Goalposts Sierra Club NH The weathered pilings along our shoreline remind us of what makes our communities strong.
 Each stands on its own, but bound together, they are strong enough to weather the storms and steady enough to meet changing waters.
 That same strength comes from neighbors working together—listening to one another, finding common ground, and remaining firmly anchored in the values we share.
 Deirdre McEachern for NH State Rep Proudly endorsed by: © Deirdre McEachern.

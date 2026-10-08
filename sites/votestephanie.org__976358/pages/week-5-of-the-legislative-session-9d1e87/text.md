@@ -27,4 +27,4 @@ This is the first time in state history that the Legislature has censured an ele
 A public figure should never use their platform to bully a child.
 I send my love and support to the student athlete who was targeted and her family.
 Click here to read the full censure.
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 14 + 1 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 5 + 12 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

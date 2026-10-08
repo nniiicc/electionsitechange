@@ -18,4 +18,4 @@ Thank you for your consideration.
 We look forward to hearing from you.
 Sincerely, Eric Jones Eric Jones for Congress ### Voters can sign the petition, demanding Rep.
 Thompson participate in the debates, here Nick Sanitsky Previous Previous Eric Jones Challenges Mike Thompson to Debate in All Nine Counties of the District Next Next Eric Jones Advances to November General Election Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

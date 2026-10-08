@@ -1,4 +1,4 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote? electbarnhill Jun 16, 2026 0 Comments Dear Nevada Voter, Nevadans deserve a Secretary of State who puts election integrity, transparency, and practical service to citizens first—without the influence of party machines or special interests.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote? electbarnhill Jun 16, 2026 0 2 Comments Dear Nevada Voter, Nevadans deserve a Secretary of State who puts election integrity, transparency, and practical service to citizens first—without the influence of party machines or special interests.
 Among the Nevada Secretary of State candidates 2026, I’m the only one running as #YourIndependentVoice — part of the 2026 IAP Nevada ticket .
 The Problem Too often, the top job overseeing our elections, business filings, and key state services goes to candidates tied to one major party.
 This can lead to questions about impartiality, slower progress on real reforms like Voter ID implementation, and systems that feel more geared toward insiders than everyday Nevadans trying to vote, start a business, or hold government accountable.
@@ -35,9 +35,14 @@ Click here to contribute securely .
 Your gift directly fuels voter education and turnout efforts.
 Thank you for standing with practical leadership.
 Together, we’ll deliver elections and government Nevadans can believe in.
-Brad Lee Barnhill Candidate for Nevada Secretary of State Independent American Party of Nevada #YourIndependentVoice — Results, Not Noise “I solve problems for a living.” See the independent alternative ticket for 2026.
-Share: Categories: Announcements Commentary 1 thought on “Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote?” Pingback: How to Check Nevada Voter Registration Status - Nevadans for Barnhill Post navigation Previous Previous post: Declare Your Independence from Partisan Politics: Nevada Voter ID Plan Next Next post: Nevada’s New Majority footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
+Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
+If not, it’s time to take a closer look.
+Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
+I’m asking you to hold the office accountable for solving real problems.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise See the independent alternative ticket for 2026.
+Share: Categories: Announcements Commentary 2 thoughts on “Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote?” Pingback: How to Check Nevada Voter Registration Status - Nevadans for Barnhill Pingback: Nevada Mail Ballot Tracking: How to Follow Your Ballot Post navigation Previous Previous post: Declare Your Independence from Partisan Politics: Nevada Voter ID Plan Next Next post: Nevada’s New Majority footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

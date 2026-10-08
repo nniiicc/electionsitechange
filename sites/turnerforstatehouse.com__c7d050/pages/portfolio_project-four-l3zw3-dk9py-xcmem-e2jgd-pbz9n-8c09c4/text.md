@@ -64,5 +64,5 @@ It’s time we stop letting national political games divide us on issues where c
 If we can agree that saving lives and saving money are both good things, then we’ve got a starting point.
 I believe in a Texas where our freedoms are matched by our wisdom, where our independence is balanced with our interdependence, and where we prepare for dangers we can prevent while courageously facing those we cannot.
 That’s the Texas I’m fighting for, and with your support, it’s the Texas we can build together.
-PORTFOLIO Previous Previous Data Centers Next Next LGBTQ+ Ready to Build a Stronger HD-59?
+PORTFOLIO Ready to Build a Stronger HD-59?
 WEAR THE FIGHT CONTACT FUEL THE MISSION GET INVOLVED Paid for by Citizens for SGT Turner Andrew@sgtturnerforstatehouse.com

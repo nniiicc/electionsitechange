@@ -1,7 +1,7 @@
 Skip to content Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab About Hannah 2025 Endorsements News Priorities Donate Contact Menu Sign up to receive info from the Committee to Elect Hannah Bowen.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name First Last Email * Email Name Phone Phone * Sign me up for SMS texts By selecting this checkbox you are agreeing to receive up to 1 text message per day from the Committee to Elect Hannah Bowen.
+Name First Last Phone Name Email Email * Phone * Sign me up for SMS texts By selecting this checkbox you are agreeing to receive up to 1 text message per day from the Committee to Elect Hannah Bowen.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.

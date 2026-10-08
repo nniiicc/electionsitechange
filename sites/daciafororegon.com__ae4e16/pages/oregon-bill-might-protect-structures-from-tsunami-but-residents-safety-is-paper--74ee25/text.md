@@ -1,4 +1,9 @@
-Dacia Grayber, a firefighter and paramedic who recently entered the state Legislature in January of this year, said she joined the earthquake commission right after H.B. 3309 passed…
-Skip to content
-Oregon Bill Might Protect Structures from Tsunami, but Residents’ Safety is Paper Thin
-Dacia Grayber, a firefighter and paramedic who recently entered the state Legislature in January of this year, said she joined the earthquake commission right after H.B. 3309 passed…
+Skip to content Dacia for Oregon Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact DONATE Meet Dacia Our Work Endorsements Media Volunteer Contact Oregon Bill Might Protect Structures from Tsunami, but Residents’ Safety is Paper Thin / Emergency Management / By Dacia Grayber Dacia Grayber, a firefighter and paramedic who recently entered the state Legislature in January of this year, said she joined the earthquake commission right after H.B.
+3309 passed… Post navigation ← Previous Post Next Post → Join Dacia Grayber for Oregon House District 28 Please enable JavaScript in your browser to complete this form.
+Name * First Last Number Postal Name Email * Phone Number Postal Code Checkboxes By checking this box, you consent to receive campaign and news updates from Dacia Grayber.
+You can unsubscribe anytime.
+COUNT ME IN Donate Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact Meet Dacia Our Work Endorsements Media Volunteer Contact

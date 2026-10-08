@@ -1,7 +1,9 @@
 {
  "description": "Edward Pacheco Campaign Events",
  "final_url": "https://www.pachecoforthepeople.com/Events?range=2026-W40",
- "paid_for_by": null,
+ "fingerprint": "65a7301c7d974b90c61dbb6a1e49e23d36d7c236",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Edward Pacheco Campaign Events",
  "years_mentioned": [
   "2026"

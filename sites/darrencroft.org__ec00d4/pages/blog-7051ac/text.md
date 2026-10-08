@@ -23,6 +23,6 @@ Thanks!
 Watch for my campaign-mobile, and you’ll know I’m nearby running or walking to get to know the people and places of our district!
 Hope to see you!
 We’ll be posting about it on our social media pages.
-Please 1 2 Search Search Recent Posts Campaign Events Meet Darren Croft and Kathleen Anderson Neighborhood Meet and Greet Come Visit During Butlerville Days!
-Primary Results Recent Comments No comments to show.
+Please 1 2 Search Search Recent Posts Edie Smart Campaign Events Meet Darren Croft and Kathleen Anderson Neighborhood Meet and Greet Come Visit During Butlerville Days!
+Recent Comments No comments to show.
 District 41 Map Privacy Policy/Terms & Conditions © # Darren Croft for Utah House Close Home Top 3 About Issues Endorsements News

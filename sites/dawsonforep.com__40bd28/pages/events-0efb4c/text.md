@@ -1,7 +1,2 @@
-top of page
-Upcoming Events
-- Election DayTue, Nov 08Your Local Polling Place
-- RI Democratic PrimaryTue, Sep 13Your Local Polling Place
-- Fundraiser for Matt Dawson for State RepresentativeWed, Jun 29East Providence
-- Friends of Matt Dawson FundraiserThu, Mar 24East Providence
-bottom of page
+top of page Matthew Dawson for State Representative District 65 East Providence Home About News Events Endorsements Signs Contact Donate More Use tab to navigate through the menu items.
+MDawson@dawsonforep.com 4012583660 Upcoming Events Election Day Tue, Nov 08 Your Local Polling Place More info Details RI Democratic Primary Tue, Sep 13 Your Local Polling Place More info Details Fundraiser for Matt Dawson for State Representative Wed, Jun 29 East Providence More info Details Friends of Matt Dawson Fundraiser Thu, Mar 24 East Providence More info Details 401-258-3660 Matthew Dawson bottom of page

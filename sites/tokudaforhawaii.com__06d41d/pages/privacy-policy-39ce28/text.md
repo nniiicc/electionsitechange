@@ -38,7 +38,7 @@ You can opt out at any time by replying STOP.
 Your Choices Security We take reasonable measures to protect the information we collect, but no method of transmission over the internet is completely secure.
 Contact Us If you have any questions about this Privacy Policy, please contact us at info@tokudaforhawaii.com .
 Join the Campaign Please enable JavaScript in your browser to complete this form.
-Phone Layout Email Email * Phone Zip Code Opt-in I agree to opt-in.
+Phone Code Email Email * Phone Zip Code Opt-in I agree to opt-in.
 By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Tokuda for Hawaii at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.

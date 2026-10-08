@@ -1,8 +1,7 @@
 0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Campaign Events Join Representative Goodwin on her journey to visit every corner of our great state before Election Day!
 Interested in having Rep.
 Goodwin attend an event in your area?
-Please drop us an email to info@VikkiGoodwin.com Oct 7 Meet & Greet — UT Arlington Wednesday, October 7, 2026 12:00 PM 2:00 PM UTA Library Mall (map) Google Calendar ICS Join Mav Democrats at UT Arlington for a meet-and-greet with Vikki Goodwin featuring brief remarks, a moderated discussion, and an opportunity for students to engage with her.
-RSVP HERE View Event → Oct 8 Reception — Houston Heights Thursday, October 8, 2026 8:00 PM 8:00 PM Location provided upon RSVP (map) Google Calendar ICS Houston Heights Reception for Vikki Goodwin RSVP HERE Please join David and Sandy Steitz for a reception in support of Vikki Goodwin in The Heights.
+Please drop us an email to info@VikkiGoodwin.com Oct 8 Reception — Houston Heights Thursday, October 8, 2026 8:00 PM 8:00 PM Location provided upon RSVP (map) Google Calendar ICS Houston Heights Reception for Vikki Goodwin RSVP HERE Please join David and Sandy Steitz for a reception in support of Vikki Goodwin in The Heights.
 Address provided upon RSVP.
 View Event → Oct 10 Blockwalk — Dallas Saturday, October 10, 2026 12:00 PM 3:00 PM Kickoff @ Cuquita's Restaurant (map) Google Calendar ICS Blockwalk with Vikki and Democratic nominee for Congress Kevin Burge in Dallas!
 RSVP HERE We're knocking doors and talking with voters across Dallas County to make sure every Democrat has a plan to vote.
@@ -94,7 +93,8 @@ If you do not possess a form of acceptable photo identification and you cannot r
 The election official will ask if you have moved and then ask you to sign the list of people who have voted in the precinct.
 You will be handed one of the following: A paper ballot on which you will select your choices and which will be counted by hand; A paper ballot on which you will select your choices by darkening an oval, completing an arrow, or “marking” with the aid of a voting machine; or A slip of paper with a numerical access code or, in some counties, a ballot activator card.
 In the next available voting booth, enter your code or card and let the on-screen instructions guide you through the process of electronic voting. ➜ Find more information here , including Mail-In Voting, Emergency Ballots Due To Death in the Family, Curbside Voting, Assistance at the Polls, and more.
-View Event → Oct 5 Voter Registration Deadline Monday, October 5, 2026 7:00 AM 5:00 PM Texas (map) Google Calendar ICS The deadline to register to vote or update your voter information is 5 PM on October 5, 2026 to be eligible to vote in the midterm elections.
+View Event → Oct 7 Meet & Greet — UT Arlington Wednesday, October 7, 2026 12:00 PM 2:00 PM UTA Library Mall (map) Google Calendar ICS Join Mav Democrats at UT Arlington for a meet-and-greet with Vikki Goodwin featuring brief remarks, a moderated discussion, and an opportunity for students to engage with her.
+RSVP HERE View Event → Oct 5 Voter Registration Deadline Monday, October 5, 2026 7:00 AM 5:00 PM Texas (map) Google Calendar ICS The deadline to register to vote or update your voter information is 5 PM on October 5, 2026 to be eligible to vote in the midterm elections.
 First time voter registration must be done BY MAIL or IN PERSON.
 Updating your registration with a new legal name or new residential address can be done online. ⚠️ Start a new voter registration application here . ⚠️ Confirm your voter registration status using the Am I Registered?’ portal, which allows you to look up your voter registration record in the statewide voter registration database.
 Update Your Registration: Texans who have recently changed their name or moved can easily update their voter registration online through Texas.gov .
@@ -374,15 +374,6 @@ Nuestras “Audiencias Populares” brindarán a los trabajadores de Texas una v
 El Caucus Legislativo Progresista de Texas (TLPC) trabaja para reducir el costo de vida de todos los trabajadores texanos, sin importar su raza, origen o credo.
 Como miembros electos de la Cámara de Representantes y del Senado de Texas, presentamos y promovemos legislación innovadora que prioriza a las familias trabajadoras en la Legislatura de Texas.
 TLPC brinda recursos y apoyo a sus miembros y colabora con comunidades locales en todo Texas.
-View Event → Jul 20 South Plains Swing: Abilene Monday, July 20, 2026 5:00 PM 7:00 PM Abilene Public Library South Branch (map) Google Calendar ICS Representative Goodwin will be swimmin’ through Abilene on Monday, July 20 with a shoal of Democratic candidates.
-Doors open at 4:30 PM, event starts at 5:00 PM.
-RSVP here .
-You’ll have a chance to meet: Lt.
-Governor nominee Rep.
-Vikki Goodwin U.S.
-House District 19 nominee Kyle Rable Comptroller nominee Senator Sarah Eckhardt AG Commissioner nominee Clayton Tucker Railroad Commissioner nominee Rep.
-Jon Rosenthal Texas Court of Criminal Appeals Place 9 nominee Holly Taylor State Senate District 28 nominee Riley Rodriquez Texas House District 71 nominee Diana Luna This event is part of the South Plains Swing Tour: Connecting South Plains Voters with Democratic Candidates.
-The inclusion of any judge or judicial candidate does not constitute an endorsement by that judge or judicial candidate of any other candidate.
 View Event → Hear From Vikki By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from the Vikki Goodwin Campaign.
 Vikki Goodwin Campaign’s mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 Messages may include donation asks.

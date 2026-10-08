@@ -31,8 +31,8 @@ By choosing to give, you help us reach more voters across Florida's District 20.
 Who is eligible to make a donation?
 Donations are to be made by individuals or eligible LLCs.
 Contributions from corporations are not permitted.
-Donate Now DONATE Follow The Campaign A vision for Florida's District 20.
+Donate Now DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

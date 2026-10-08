@@ -1,5 +1,5 @@
-Greg Wallis for Assembly 2026 TEXT/SMS/MMS PRIVACY POLICY
-We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+top of page MEET GREG ISSUES ENDORSEMENTS MEDIA AD 47 Contact More Use tab to navigate through the menu items.
+DONATE Greg Wallis for Assembly 2026 TEXT/SMS/MMS PRIVACY POLICY We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 We respect your right to privacy.
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
@@ -10,3 +10,5 @@ You agree not to use a false or misleading name or a name that you are not autho
 If We, in Our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 Please make sure you review those separate Privacy Policies, located on our website, to understand those governing terms.
+Submit Thanks for submitting!
+Paid for by Greg Wallis for Assembly 2026, ID #1477044. bottom of page

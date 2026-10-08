@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Text Terms and Conditions Home Text Terms and Conditions SMS Terms & Conditions Please read these SMS Terms and Conditions (“Terms”) carefully before opting in to receive text messages from Paul Bailey for TN (“us”, “we”, or “our”).
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Text Terms and Conditions Home Text Terms and Conditions SMS Terms & Conditions Please read these SMS Terms and Conditions (“Terms”) carefully before opting in to receive text messages from Paul Bailey for TN (“us”, “we”, or “our”).
 By opting in to receive text messages from us, you agree to be bound by these Terms.
 If you disagree with any part of these terms, please do not opt in to receive text messages.
 Opting In to Receive Text Messages By providing your mobile phone number and opting in to receive text messages, you consent to receive automated marketing and informational text messages from us to the provided number.

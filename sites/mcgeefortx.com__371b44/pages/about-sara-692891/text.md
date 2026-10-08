@@ -8,6 +8,6 @@ I am running for office because I believe passionately that our collective voice
 Let’s ensure our district is represented by someone who truly understands and lives the life of a Texan.
 This is more than a campaign; it is a movement aimed at reclaiming our voice within the government, and the time for listening is now.
 I invite you to connect with me directly through the form below.
-Email Address Full Name Phone Number Message 8 + 12 = Send Message Political advertisement paid for by Sara McGee.
+Email Address Full Name Phone Number Message 8 + 2 = Send Message Political advertisement paid for by Sara McGee.
 Copyright #.
 Follow Follow Follow Web site design provided by Complete Computing Services .

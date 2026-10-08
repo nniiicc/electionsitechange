@@ -1,22 +1,86 @@
 [
-"http://elections.il.gov/",
-"https://delgadoforstaterep.com/",
-"https://delgadoforstaterep.com/accomplishments",
-"https://delgadoforstaterep.com/endorsements",
-"https://delgadoforstaterep.com/events",
-"https://delgadoforstaterep.com/get-involved",
-"https://delgadoforstaterep.com/how-to-vote",
-"https://delgadoforstaterep.com/issues",
-"https://delgadoforstaterep.com/meet-eva-dina",
-"https://facebook.com/EvaDina4Rep",
-"https://ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=3699&GAID=16&SessionID=110&LegID=132747",
-"https://ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=3772&GAID=16&SessionID=110&LegID=132834",
-"https://ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=4382&GAID=16&SessionID=110&LegID=137677",
-"https://ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=4434&GAID=16&SessionID=110&LegID=137788",
-"https://ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=4973&GAID=16&SessionID=110&LegID=139436",
-"https://ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=SB&DocNum=2952&GAID=16&SessionID=110&LegID=137130",
-"https://ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=SB&DocNum=3848&GAID=16&SessionID=110&LegID=138911",
-"https://instagram.com/evadina4staterep",
-"https://secure.actblue.com/donate/friends-for-eva-dina-delgado-1",
-"https://twitter.com/delgadorep"
+{
+"text": "Accomplishments",
+"href": "https://www.delgadoforstaterep.com/accomplishments"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-for-eva-dina-delgado-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.delgadoforstaterep.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.delgadoforstaterep.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.delgadoforstaterep.com/get-involved"
+},
+{
+"text": "HB3699:",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=3699&GAID=16&SessionID=110&LegID=132747"
+},
+{
+"text": "HB3772:",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=3772&GAID=16&SessionID=110&LegID=132834"
+},
+{
+"text": "HB4382:",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=4382&GAID=16&SessionID=110&LegID=137677"
+},
+{
+"text": "HB4434:",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=4434&GAID=16&SessionID=110&LegID=137788"
+},
+{
+"text": "HB4973:",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=HB&DocNum=4973&GAID=16&SessionID=110&LegID=139436"
+},
+{
+"text": "Home",
+"href": "https://www.delgadoforstaterep.com"
+},
+{
+"text": "Issues",
+"href": "https://www.delgadoforstaterep.com/issues"
+},
+{
+"text": "Meet Eva-Dina",
+"href": "https://www.delgadoforstaterep.com/meet-eva-dina"
+},
+{
+"text": "SB2952:",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=SB&DocNum=2952&GAID=16&SessionID=110&LegID=137130"
+},
+{
+"text": "SB3848:",
+"href": "https://www.ilga.gov/legislation/BillStatus.asp?GA=102&DocTypeID=SB&DocNum=3848&GAID=16&SessionID=110&LegID=138911"
+},
+{
+"text": "Voter Information",
+"href": "https://www.delgadoforstaterep.com/how-to-vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/EvaDina4Rep"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/evadina4staterep/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/delgadorep"
+},
+{
+"text": "evadina@delgadoforstaterep.com",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

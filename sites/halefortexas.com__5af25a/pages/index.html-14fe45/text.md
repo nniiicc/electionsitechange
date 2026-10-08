@@ -33,7 +33,10 @@ Learn more → Support Constitutional Conservative Leadership Your contribution 
 Every dollar makes a difference. $ 25 $ 50 $ 100 $ 250 $ 500 $ 1,000 $ 2,000 $ 3,500 Contribute Now Write a check instead Total campaign contribution maximum is $7,000 ($3,500 for primary plus $3,500 for general election).
 Contributions are not tax-deductible.
 Federal law requires us to use our best efforts to collect and report contributor information for individuals whose contributions exceed $200 in an election cycle.
-Campaign News Stay up to date with the latest from Hale for Congress.
+Events Join Alexander and the campaign team across TX-07.
+Saturday, October 10, 2026 at 8:30 AM-10:30 AM Hale for Texas Block Walk Meet in the parking garage of HEB to collect your block walking supplies like shirts, buttons, door hangers, signs, and other campaign materials!
+HEB, 5106 Bissonnet St, Bellaire Details & RSVP Thursday, October 15, 2026 at 5:30 PM-7:30 PM Hale for Texas Fundraising Reception - Location TBD For one night only, meet Alex Hale, a young rising star in the political world, as he looks to flip a Congressional seat in the heart of Houston!
+Royal Oaks Country Club, 2910 Royal Oaks Club Dr, Houston, TX Details & RSVP Campaign News Stay up to date with the latest from Hale for Congress.
 December 8, 2025 Alexander Hale Files for TX-07 Congressional Race Officially on the ballot for the March 2026 Republican primary, Alexander Hale brings a next-generation conservative perspective into the race.
 Coming Soon Campaign Kickoff Event Join us for the official campaign launch.
 Sign up for the email list to be the first to know.

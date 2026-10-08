@@ -1,11 +1,42 @@
 [
-"https://campaignpartner.com/",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/photos"
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "calforrest@schouse.gov",
+"href": "mailto:calforrest@schouse.gov"
+}
 ]

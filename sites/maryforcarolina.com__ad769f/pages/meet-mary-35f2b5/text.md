@@ -1,4 +1,4 @@
-HOME MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT More HOME MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT Sign In My Account Signed in as: filler@godaddy.com My Account Sign out DONATE Signed in as: filler@godaddy.com HOME MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT Account My Account Sign out Sign In My Account DONATE It’s time to put politics aside, lift each other up, and fight for affordable living.
+HOME #ICE CHEST CHALLENGE MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT More HOME #ICE CHEST CHALLENGE MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT DONATE HOME #ICE CHEST CHALLENGE MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT DONATE It’s time to put politics aside, lift each other up, and fight for affordable living.
 I will bring your struggles to Raleigh and construct solutions.
 MEET MARY Mary Insprucker is known in her community as “Mary for Cary.” She’s a neighbor, a volunteer, and a leader who has spent decades serving others in local classrooms and national organizations.
 Mary’s not a career politician.
@@ -17,4 +17,4 @@ Kind.
 Smart.
 Courageous Leadership.
 For Cary, Apex, Holly Springs, Fuquay-Varina and all of North Carolina.
-PRIORITIES CONTACT VOLUNTEER DONATE Paid for by the Mary Insprucker Committee PRIVACY POLICY | Political Ad Paid for by the Mary Insprucker Committee © # Mary Insprucker for NC
+#ICE CHEST CHALLENGE PRIORITIES CONTACT VOLUNTEER DONATE Paid for by the Mary Insprucker Committee PRIVACY POLICY | Political Ad Paid for by the Mary Insprucker Committee © # Mary Insprucker for NC

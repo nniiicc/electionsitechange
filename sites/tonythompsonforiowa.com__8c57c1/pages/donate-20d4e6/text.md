@@ -1,4 +1,4 @@
-Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Early Voting Donate Now Volunteer Newsletter Request a Sign Donate to Our Campaign This campaign is powered by neighbors — not corporate PACs or political insiders.
+Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Voting Donate Now Volunteer Newsletter Request a Sign Donate to Our Campaign This campaign is powered by neighbors — not corporate PACs or political insiders.
 Your contribution helps us reach voters, stay visible in the district, and build a campaign rooted in community, not special interests.
 If you believe in: Strong Families.
 Strong Communities.

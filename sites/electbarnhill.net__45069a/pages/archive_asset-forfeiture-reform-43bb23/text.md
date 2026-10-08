@@ -19,6 +19,6 @@ From a conservative perspective, asset forfeiture reform in Nevada should focus 
 This approach would better align with the principles of conservative jurisprudence and serve the interests of justice more transparently and fairly.
 Share: Categories: Archive Post navigation Previous Previous post: Meet Brad Lee Barnhill – Your Independent Voice Next Next post: Justice is not Revenge: A Call for True Accountability footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

@@ -1,4 +1,10 @@
-0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS September 30 - Former Nebraska Cattlemen President Endorses Mark Jerry Kuenning, the former president of the Nebraska Cattlemen has endorsed Mark.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS October 7 - Former Valentine City Manager Rick Medema Endorses Mark I am honored that former Valentine City Manager Rick Medema has endorsed me.
+Rick is an expert in economic development, and I’m grateful for his advice.
+On top of that, Valentine is one of my favorite places in Nebraska.
+Floating the Niobrara River is a must for every Nebraskan.
+October 5 - Mark Holds Town Hall in Grant On October 5th, I held a town hall in Grant in Perkins County.
+We were competing with a high school sports event, but I enjoyed meeting those who attended and learning from them.
+September 30 - Former Nebraska Cattlemen President Endorses Mark Jerry Kuenning, the former president of the Nebraska Cattlemen has endorsed Mark.
 Kuenning, who has gotten to know Mark since Mark first purchased his home in Lemoyne in 2020, said, “I’ve discussed issues with Mark.
 I’ve see how hard he works.
 I know his values.

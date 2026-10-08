@@ -1,18 +1,70 @@
 [
-"https://azleg.gov/emailazleg?legislatorId=2399",
-"https://facebook.com/FlavioBravoAZ",
-"https://flaviobravo.com/",
-"https://flaviobravo.com/accomplishments",
-"https://flaviobravo.com/endorsements",
-"https://flaviobravo.com/meetflavio",
-"https://flaviobravo.com/ourdistrict",
-"https://flaviobravo.com/priorities",
-"https://flaviobravo.com/volunteer",
-"https://instagram.com/FlavioBravoAZ",
-"https://secure.actblue.com/donate/bravo-for-arizona-2",
-"https://secure.actblue.com/donate/bravo-for-arizona-2?amount=100",
-"https://secure.actblue.com/donate/bravo-for-arizona-2?amount=250",
-"https://secure.actblue.com/donate/bravo-for-arizona-2?amount=26",
-"https://secure.actblue.com/donate/bravo-for-arizona-2?amount=50",
-"https://twitter.com/FlavioGBravo"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bravo-for-arizona-2?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bravo-for-arizona-2?amount=250"
+},
+{
+"text": "$26",
+"href": "https://secure.actblue.com/donate/bravo-for-arizona-2?amount=26"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bravo-for-arizona-2?amount=50"
+},
+{
+"text": "About Our District",
+"href": "https://www.flaviobravo.com/ourdistrict"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.flaviobravo.com/accomplishments"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bravo-for-arizona-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.flaviobravo.com/endorsements"
+},
+{
+"text": "Meet Flavio",
+"href": "https://www.flaviobravo.com/meetflavio"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/bravo-for-arizona-2"
+},
+{
+"text": "Priorities",
+"href": "https://www.flaviobravo.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.flaviobravo.com/volunteer"
+},
+{
+"text": "WRITE TO FLAVIO",
+"href": "https://www.azleg.gov/emailazleg/?legislatorId=2399"
+},
+{
+"text": "[image: 2024 BRAVO Logo.png]",
+"href": "https://www.flaviobravo.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FlavioBravoAZ"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/FlavioBravoAZ"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/FlavioGBravo"
+}
 ]

@@ -1,15 +1,12 @@
-Senator Sheehy's Fix Our Forests Act
-The health of our forests is critical to the environment, economy, and communities that depend on them.
+top of page Log In HOW CAN I HELP?
+SUBSCRIBE Home Endorsements About Contact Get Involved News Photo Gallery Video Gallery All Posts Search Senator Sheehy's Fix Our Forests Act gundersonsd1 Dec 2, 2025 3 min read The health of our forests is critical to the environment, economy, and communities that depend on them.
 Senator Sheehy’s Fix Our Forests Act aims to address the pressing challenges facing forest management and conservation.
-Senator Sheehy’s Fix Our Forests Act represents a significant step toward healthier forests and stronger communities.
+Senator Sheehy's Fix Our Forests Act aims to protect and restore forest ecosystems Senator Sheehy’s Fix Our Forests Act represents a significant step toward healthier forests and stronger communities.
 By addressing key threats and promoting collaboration, the Act can help ensure forests continue to provide clean air, water, wildlife habitat, and economic benefits.
 For citizens, this means supporting policies that protect natural resources and investing in the future of the environment.
 For policymakers and forest managers, it offers a roadmap to more effective and sustainable forest care.
 The Fix Our Forests Act invites all stakeholders to engage in restoring and preserving one of our most valuable natural assets.
-It’s Time to Fix Our Forests
-Senator Tim Sheehy’s new bill, the Fix Our Forests Act provides immediate help for taking on forest fires
-By Steve Gunderson November 30, 2025
-Every year, wildfires torch more than just trees.
+It’s Time to Fix Our Forests Senator Tim Sheehy’s new bill, the Fix Our Forests Act provides immediate help for taking on forest fires By Steve Gunderson November 30, 2025 Every year, wildfires torch more than just trees.
 They scorch homes, overwhelm emergency services, and they cost us more money every year in damages.
 Wildfires cost about half a trillion dollars in annual damage to the U.S.
 Outside of just property damage, the fires are burning seven million acres of forest annually.
@@ -39,7 +36,8 @@ However much it bothers coastal elites who don’t understand the Mountain west,
 It allows for quick replanting on the back end of a fire, too.
 Together, these are long term solutions too, because healthier forests will sink more carbon and slow climate change.
 The U.S.
-House of Representatives has already passed FOFA (H.R. 471), with both Montana representatives voting in favor.
+House of Representatives has already passed FOFA (H.R.
+471), with both Montana representatives voting in favor.
 The Senate should now follow suit.
 You never want a moment wasted when your house is on fire.
 Even though Montana isn’t burning today, the danger is always one spark away.
@@ -48,3 +46,14 @@ Thankfully, with Tim Sheehy, a firefighter, serving as our Senator, FOFA covers 
 It’s a breath of fresh air to the smoke-filled chambers of Washington, DC.
 Steve Gunderson is a former legislator from Libby.
 He chaired the House Natural Resources Committee for two sessions, as well as the interim Environmental Quality Council.
+Recent Posts See All Preserving America the Beautiful Montana: Oro -Y- Plata (Gold and Silver) Experience and Integrity: My Commitment to Voters ​ Support The Campaign All political campaigns run on Money and Volunteers.
+Asking for contributions is one of the hardest parts of a campaign.
+Asking for Volunteers is even more difficult!
+Contributing to my campaign will allow me to send letters and flyers out and with the high costs of printing and postage, every dollar helps!
+Volunteering will help enable many fronts to be covered at the same time.
+Remember that the Maximum Contribution is $470.00 Per Person per Election.
+Couples can contribute a maximum of $940.00.
+If you can contribute anything, you have my heartfelt thanks!!
+WinRed Campaign Contribution How Can I Help or Get Involved??
+SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Steve Gunderson FOR MONTANA -SENATE DISTRICT 1- 167 Skyline Road Libby, MT 59923 gundersonsd1@gmail.com 406-334-4370 Terms & Conditions Privacy Policy Accessibility Statement Paid for by Gunderson for Senate.
+167 Skyline Road, Libby, MT 59923 Cherie Gunderson Treasurer - Powered and secured by Wix © # bottom of page

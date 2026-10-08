@@ -1,12 +1,58 @@
 [
-"https://ericflores.com/",
-"https://ericflores.com/abouteric",
-"https://ericflores.com/endorsements",
-"https://ericflores.com/getinvolved",
-"https://ericflores.com/media",
-"https://ericflores.com/news",
-"https://ericflores.com/priorities",
-"https://ericflores.com/privacypolicy",
-"https://secure.winred.com/eric-flores-for-congress/donate-today",
-"https://youtube.com/watch?v=xjrq3J3fsBc"
+{
+"text": "ABOUT ERIC",
+"href": "https://www.ericflores.com/abouteric"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/eric-flores-for-congress/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.ericflores.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ericflores.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.ericflores.com"
+},
+{
+"text": "HOME",
+"href": "https://www.ericflores.com/abouteric"
+},
+{
+"text": "JOIN",
+"href": "https://www.ericflores.com/getinvolved"
+},
+{
+"text": "MEDIA",
+"href": "https://www.ericflores.com/media"
+},
+{
+"text": "NEWS",
+"href": "https://www.ericflores.com/news"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.ericflores.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ericflores.com/privacypolicy"
+},
+{
+"text": "View on YouTube",
+"href": "https://www.youtube.com/watch?v=xjrq3J3fsBc"
+},
+{
+"text": "[image: EricFlores_Approved_Logo_Alternate.png]",
+"href": "https://www.ericflores.com"
+},
+{
+"text": "[image: EricFlores_Approved_Logo_FullColor.png]",
+"href": "https://www.ericflores.com"
+}
 ]

@@ -1,9 +1,9 @@
-Skip navigation menu About Endorsements Issues News Volunteer Events Store Donate Join our campaign to level the playing field for all Iowans Email Email Phone Phone ZIP Code ZIP Code Submit By checking this box, you are agreeing to receive informational text messages regarding campaign updates, event and fundraising reminders from the Lindsay James for Congress campaign.
+Skip navigation menu About Endorsements Issues News Vote Volunteer Events Store Donate Join our campaign to level the playing field for all Iowans Email Email Phone Phone ZIP Code ZIP Code Submit By checking this box, you are agreeing to receive informational text messages regarding campaign updates, event and fundraising reminders from the Lindsay James for Congress campaign.
 Message frequency varies.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy Policy and Terms & Conditions About Endorsements Issues News Volunteer Events Store Donate Join our campaign to level the playing field for all Iowans Email Email Phone Phone ZIP Code ZIP Code Submit By checking this box, you are agreeing to receive informational text messages regarding campaign updates, event and fundraising reminders from the Lindsay James for Congress campaign.
+Privacy Policy and Terms & Conditions About Endorsements Issues News Vote Volunteer Events Store Donate Join our campaign to level the playing field for all Iowans Email Email Phone Phone ZIP Code ZIP Code Submit By checking this box, you are agreeing to receive informational text messages regarding campaign updates, event and fundraising reminders from the Lindsay James for Congress campaign.
 Message frequency varies.
 Message and data rates may apply.
 Text HELP for more information.

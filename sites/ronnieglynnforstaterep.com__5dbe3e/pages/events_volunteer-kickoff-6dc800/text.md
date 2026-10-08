@@ -6,6 +6,4 @@ No experience needed — we’ll train you to talk with voters in Clarksville an
 We’ve won this seat because people showed up.
 Let’s do it again.
 See you there.
-RSVP: https://www.mobilize.us/ronnieglynnfordistrict67/event/956213/ Previous Previous August 3 Door Knock for Ronnie Glynn Next Next June 25 Join Rep.
-Bob Freeman in support of Rep.
-Ronnie Glynn on Thursday, June 25th ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know
+RSVP: https://www.mobilize.us/ronnieglynnfordistrict67/event/956213/ ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know

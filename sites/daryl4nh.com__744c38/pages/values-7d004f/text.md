@@ -1,4 +1,4 @@
-Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate Articles NH CLP Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate Articles NH CLP © # Daryl D’Angelo for Amherst and Milford Values How I think.
+Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate NH CLP Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate NH CLP © # Daryl D’Angelo for Amherst and Milford Values How I think.
 How I’ll vote.
 Individual Liberty and Free Speech Your life is yours to direct.
 Your choices about how to live, what to believe, how to raise your children, and what risks to take belong to you — not to the state, not to a party, and not to a majority that thinks it knows better.

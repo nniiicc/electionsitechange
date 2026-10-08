@@ -22,19 +22,17 @@ I will work with each county to advocate for new businesses to come to our area.
 As I stated in the education section, we must have a workforce available to encourage new businesses to come and that starts with offering educational classes that will train our students in the skills needed for future jobs.
 Having broadband that is accessible to all of the district is essential to economic development.
 2023 Legislative Updates Week 1 Legislative Update Week 2 Legislative Update Week 3 Legislative Update Week 4 Legislative Update Week 6 Legislative Update Week 7 Legislative Update Week 8 Legislative Update Week 9 Legislative Update Follow me on Twitter Jason R.
-Anavitarte Follow 17,399 2,340 Husband.
+Anavitarte Follow 17,407 2,340 Husband.
 Father. 🏀 Coach.
 Senator GA’s 31st District.
 Proud 🇺🇸 Hispanic 🇵🇷 Majority Leader @GASenateGOP.
 Go Jackets! 🐝 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; Rahul Bali @rahulbali · 12h 2107593880652902443 BREAKING: Governor Brian Kemp extends the suspension of the gas tax through November 5th.
-He also waives penalties for the use of off-road diesel for on-road uses.
-#gapol https://www.wabe.org/plugged-into-politics-kemp-suspends-state-gas-tax/ Twitter feed image.
-Twitter feed image.
-Reply on Twitter 2107593880652902443 Retweet on Twitter 2107593880652902443 8 Like on Twitter 2107593880652902443 29 Twitter 2107593880652902443 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; Team Jackson @TeamJacksonHQ · 12h 2107607333001941411 Before the debate, meet @RickJacksonGA Twitter feed video.
-Reply on Twitter 2107607333001941411 Retweet on Twitter 2107607333001941411 9 Like on Twitter 2107607333001941411 29 Twitter 2107607333001941411 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; James Spann @spann · 12h 2107605645222658506 TUESDAY EVENING NOTES.... *Tropical Depression Nine is forecast to become Hurricane Isaias by Thursday, with landfall near the Alabama Gulf Coast late Friday night or Saturday morning. *NHC is forecasting Isaias to reach category two strength with winds of 100 mph south of the Twitter feed image.
-Twitter feed image.
-Twitter feed image.
-Reply on Twitter 2107605645222658506 Retweet on Twitter 2107605645222658506 26 Like on Twitter 2107605645222658506 166 Twitter 2107605645222658506 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE
+Anavitarte Retweeted ; Ron DeSantis @GovRonDeSantis · 7 Oct 2107623580582453329 Today, I signed Executive Order 26-202, declaring a state of emergency for 25 counties in preparation for Tropical Depression Nine.
+This order ensures communities have the time and resources necessary to prepare for potential severe weather impacts to the Panhandle and Big Bend Reply on Twitter 2107623580582453329 Retweet on Twitter 2107623580582453329 553 Like on Twitter 2107623580582453329 4355 Twitter 2107623580582453329 Retweet on Twitter Jason R.
+Anavitarte Retweeted ; Gavin Clark @_GavinClark_ · 5 Oct 2107079606289182822 Extremely blessed and honored to receive a D1 offer from Eastern Kentucky University!! 🔴⚪️ Huge thank you to @CoachWatson9 and the entire staff for believing in me and validating the grind!
+#GoColonels #GodsPlan @EKUFootball @NPHSRecruiting @RecruitGeorgia @NwGaFootball Twitter feed image.
+Reply on Twitter 2107079606289182822 Retweet on Twitter 2107079606289182822 21 Like on Twitter 2107079606289182822 47 Twitter 2107079606289182822 ; Jason R.
+Anavitarte @jasonanavitarte · 7 Oct 2107646139306831911 👇🏼👇🏼👇🏼🇺🇸 GA Senate Republicans @GASenateGOP Tonight, Rick Jackson showed why he is the clear choice to be Georgia’s next Governor.
+Georgia needs a proven leader who will be a champion for affordability, safe streets, and world-class schools.
+Rick Jackson is that leader.
+With a record of burning police cars and rioting Reply on Twitter 2107646139306831911 Retweet on Twitter 2107646139306831911 2 Like on Twitter 2107646139306831911 10 Twitter 2107646139306831911 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE

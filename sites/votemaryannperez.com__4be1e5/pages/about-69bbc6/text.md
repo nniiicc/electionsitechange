@@ -9,12 +9,18 @@ In 2009, Mary Ann was elected to the Houston Community College Board of Trustees
 As a trustee, Mary Ann worked hard to move HCC and her community forward by partnering with area employers to ensure the programs reflected the needs of the current workforce and community.
 She worked with area schools and community groups to develop programs to keep students in school and on a path to higher education.
 During her first term in the Texas House, Mary Ann was named Freshman of the Year by the bipartisan Legislative Study Group and continues to work across the aisle to move Texas forward.
-State Representative Mary Ann Perez Honored to have the endorsement of Council Member Jonathan Estrada!
+State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of presenting a resolution to Linda Bridges in recognition of her retirement after more than four decades at Frost Bank.
+Congratulations, Linda!
+Wishing you all the best in this next chapter!
+#txlege #HD144 1 Comments 6 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post It was wonderful to join neighbors across our community for National Night Out!
+I had the opportunity to visit with neighbors in Deepwater, Scarsdale, South Houston, Queens, and Meadowcreek.
+Thank you to our local law enforcement officers and first responders for ...
+6 Likes Posted: #ago State Representative Mary Ann Perez Honored to have the endorsement of Council Member Jonathan Estrada!
 Thank you, Council Member Estrada, for your trust and support.
 I’m truly grateful to have you standing with me.
-#txlege #HD144 #TeamMaryAnn 4 Likes Posted: #ago State Representative Mary Ann Perez I am deeply grateful to have the endorsement of Council Member Pat Van Houte as I run for re-election.
+#txlege #HD144 #TeamMaryAnn 1 Comments 13 Likes Posted: #ago State Representative Mary Ann Perez I am deeply grateful to have the endorsement of Council Member Pat Van Houte as I run for re-election.
 Thank you, Council Member Van Houte, for your confidence and support!
-#txlege #HD144 #TeamMaryAnn 10 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of attending the Latin Women’s Initiative Annual Membership Luncheon on Friday.
+#txlege #HD144 #TeamMaryAnn 11 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of attending the Latin Women’s Initiative Annual Membership Luncheon on Friday.
 I’m always grateful for the opportunity to spend time with so many incredible women who are making a difference in our community.
 Thank you to ...
 3 Comments 17 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post Always enjoy attending the Red Hot Gala, an annual event hosted by the Houston Professional Fire Fighters Association Charitable Foundation to support Houston firefighters and their families.
@@ -34,8 +40,6 @@ For four decades, ETC has helped connect people in our community with employment
 Congratulations to everyone at ETC on this incredible milestone, and here’s ...
 14 Likes Posted: #ago State Representative Mary Ann Perez 11 Comments 84 Likes Posted: #ago State Representative Mary Ann Perez Happy to support Congressman Joaquin Castro!
 Thank you to Rick Noriega for hosting and to the entire host committee for bringing everyone together for a wonderful evening.
-18 Comments 111 Likes Posted: #ago State Representative Mary Ann Perez I'm grateful to have the support of Constable Jerry Garcia as I run for re-election!
-Thank you, Constable Garcia, for standing alongside me!
-#txlege #HD144 #TeamMaryAnn 2 Comments 7 Likes Posted: #ago Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
+18 Comments 118 Likes Posted: #ago Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
 Adv.
 Paid for by the Mary Ann Perez Campaign | Privacy Policy Page load link Go to Top

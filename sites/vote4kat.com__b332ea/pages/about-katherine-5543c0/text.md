@@ -1,5 +1,8 @@
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters More...
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue Your neighbor who shows up - Katherine Gauer for NM House of Representatives for District 8 Why I show up: Being your neighbor, and soon your representative, is a gift.
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer More...
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue Your neighbor who shows up - Katherine Gauer for NM House of Representatives for District 8 Why I show up: Being your neighbor, and soon your representative, is a gift.
 It's also an opportunity to give back to my community and advocate for the issues that matter to us .
 I entered this race because I saw a startling lack of representation in a time of crisis for the county - the 2025 property tax season.
 Last November, residents of Valencia County were shocked to receive massive property tax bills that were twice or three times the anticipated amount.

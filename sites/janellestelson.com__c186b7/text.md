@@ -26,7 +26,12 @@ He also played a central role in the plot to overturn the results of the 2020 el
 Capitol, for which he sought a Presidential pardon.
 As a non-partisan trusted voice, Janelle Stelson has spent her career listening and addressing the concerns of this district.
 Janelle will stand up to business as usual in Washington and be the new voice and fresh leadership that we need.
-Perry's Social Security Plan Updates From The Campaign Recent News, Campaign Updates, and More September 24, 2026 PennLive Dissident Republicans throw support to Stelson in Pa.
+Perry's Social Security Plan Updates From The Campaign Recent News, Campaign Updates, and More September 28, 2026 York Daily Record Dissident Republicans may hold key to 10th District Perry-Stelson race Tracy Pawelski’s Republican bona fides are impressive.
+The 63-year-old northern York County resident worked for former Republican U.S.
+Rep.
+George Gekas, who represented the district that included Harrisburg for two decades.
+Next, she worked for the Conservative Opportunity Society, a group of 35 House Republicans founded by former Speaker Newt Gingrich.
+During the first Bush […] Read More September 24, 2026 PennLive Dissident Republicans throw support to Stelson in Pa.
 10th race A group of Republicans dissatisfied with the direction of the party under President Donald J.
 Trump called Wednesday for 10th Congressional District voters who feel likewise to vote for Democrat Janelle Stelson this fall.
 The event at a farm near York Haven was headlined by former Illinois Congressman Adam Kinzinger, one of two Republicans who […] Read More September 23, 2026 abc27 Dissident Republicans may hold key to 10th District Perry-Stelson race Former Illinois GOP Congressman Adam Kinzinger headlined Republicans supporting Democrat Janelle Stelson.
@@ -67,10 +72,7 @@ Stelson came within a hair’s breadth […] Read More April 6, 2026 City & Stat
 Read More April 6, 2026 Fox43 Janelle Stelson, Rep.
 Perry trade attacks over gas prices, Iran war Stelson attacked Rep.
 Scott Perry for supporting the war in Iran, which has led to prices skyrocketing.
-Read More March 20, 2026 Pennsylvania Independent Rep.
-Scott Perry faces mounting criticism over health care cuts ‘I never, ever thought that we’d be paying this much for health care, never,’ said Carol Shaw, a York County resident who lives in Perry’s district.
-Carol Shaw began saving for retirement immediately after finishing her undergraduate degree.
-For years, she and her husband, Tom, diligently put money away for the day when the York […] Read More More Recent News Join The Campaign First Name Last Name Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
+Read More More Recent News Join The Campaign First Name Last Name Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.
 Privacy Policy.

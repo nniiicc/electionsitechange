@@ -1,11 +1,46 @@
 [
-"https://facebook.com/share/1BxFw4rZbS?mibextid=wwXIfr",
-"https://instagram.com/irisbenderfornc?igsh=MTlrOTBqbDJ0azVldg%3D%3D",
-"https://irisbenderfornc.com/",
-"https://irisbenderfornc.com/about",
-"https://irisbenderfornc.com/contact",
-"https://irisbenderfornc.com/priorities",
-"https://secure.actblue.com/donate/iris-bender-1",
-"https://tiktok.com/@iris.bender.for.n",
-"https://x.com/irisbenderfornc?s=21"
+{
+"text": "About",
+"href": "https://www.irisbenderfornc.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.irisbenderfornc.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/iris-bender-1"
+},
+{
+"text": "Home",
+"href": "https://www.irisbenderfornc.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.irisbenderfornc.com/priorities"
+},
+{
+"text": "Vote",
+"href": "https://www.irisbenderfornc.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/1BxFw4rZbS/?mibextid=wwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/irisbenderfornc?igsh=MTlrOTBqbDJ0azVldg%3D%3D"
+},
+{
+"text": "[image: Iris Bender Logo in Purple]",
+"href": "https://www.irisbenderfornc.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@iris.bender.for.n"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/irisbenderfornc?s=21"
+}
 ]

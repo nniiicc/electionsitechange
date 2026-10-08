@@ -7,4 +7,4 @@ A Vision for the Future Dedicated to building a stronger Ohio through education,
 Building a Brighter Future for Ohio Join us in supporting Vote Kishman’s vision for Ohio by subscribing, volunteering, or donating to help implement key initiatives shaping our community’s future.
 Donate Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * Subject Message Name Email * Subject Message * Submit Vote Kishman Instagram Facebook X
+Name Email Message Name * Email * Subject Message * Submit Vote Kishman Instagram Facebook X

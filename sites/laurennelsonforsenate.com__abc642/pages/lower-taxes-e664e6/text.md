@@ -1,4 +1,4 @@
-Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Skip to content Thursday, October 08, 2026 Lauren Nelson for Senate P.O.
 Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … News Videos Lower Taxes Editor May 20, 2024 LOWER TAXES is one of ten principles of the SD Republican Platform.
 This is “real” economic development.
 To ask me about this topic in person, plan to attend the Yankton County Republican District 18 Legislative Candidate Forum on Monday, May 20th, at 6:30 pm at the Riverfront Event Center.

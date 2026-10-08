@@ -1,3 +1,4 @@
-0 Skip to Content Request a Lawn Sign About Doron Priorities Endorsements Events Contact Us DONATE Open Menu Close Menu Request a Lawn Sign About Doron Priorities Endorsements Events Contact Us DONATE Open Menu Close Menu Request a Lawn Sign About Doron Priorities Endorsements Events Contact Us DONATE Let’s do more: strengthen schools, keep all of our neighbors safe, stand up to oppression and bullies, and create housing for all.
+0 Skip to Content Request a Lawn Sign About Doron Priorities Endorsements Events Contact Us DONATE Open Menu Close Menu Request a Lawn Sign About Doron Priorities Endorsements Events Contact Us DONATE Open Menu Close Menu Request a Lawn Sign About Doron Priorities Endorsements Events Contact Us DONATE Let’s do more!
+Let’s strengthen schools, keep all of our neighbors safe, stand up to oppression and bullies, and create housing for all.
 I’ll keep working to ensure the promise of Minnesota is fulfilled.
 Follow our Campaign About Doron Priorities Endorsements Donate CONTACT / FEEDBACK Prepared and paid for by Neighbors for Doron 1600 18th Avenue NE, #18552 Minneapolis, MN 55418

@@ -1,2 +1,5 @@
 Official Campaign Website of Monica Alponte for Congress Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS More Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS "Seniors * Disabled * Vets * TASKFORCE" Announcing our "Seniors * Disabled * Vets * TASKFORCE!" Who said 'Libertarians only pursue obscure Libertarian issues' and don't care about bread and butter issues?
-PAID FOR BY MONICA ALPONTE FOR CONGRESS Home Newsletters Powered by
+Disability community town hall— A non-partisan event We were there!
+A chance for candidates to meet Arizona's Disability Community Disabled Persons • Caregivers • Families • Advocates • Candidates • Elected Officials • Support Organizations • Community Leaders RaisingVoicesCoalition.com Raising Voices Coalition: Legislative Advocacy HB 2945 Signed into Law Date: April 30, 2025 Event: Ceremonial signing of House Bill 2945 , legislation providing supplemental funding for Arizona’s Division of Developmental Disabilities (DDD), at the Arizona State Capitol in Phoenix .
+Raising Voices Coalition co-founder Brandi Coon spoke at the ceremony, which brought together disability advocates, families, and legislators.
+Photo: Caitlin Sievers | Arizona Mirror PAID FOR BY MONICA ALPONTE FOR CONGRESS Home Newsletters Powered by

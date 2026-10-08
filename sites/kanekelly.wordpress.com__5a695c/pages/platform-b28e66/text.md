@@ -20,6 +20,6 @@ Let’s give a pathway and opportunity to law-abiding DACA recipients.
 Reform immigration to focus on criminals of high crimes and stop unconstitution attacks on working families.
 7.
 Common Sense Equality for All Reform state-sponsored programs so that equality includes everyone regardless of class, ethnicity, race or sex.
-Home Platform Volunteer The Compass About Blog at WordPress.com.
+Home Platform Volunteer The Compass About Create a free website or blog at WordPress.com.
 Subscribe Subscribed kanekelly.com Sign me up Have a WordPress.com account?
 Log in now. kanekelly.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

@@ -1,5 +1,5 @@
-Skip navigation menu About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate I've done my homework.
-About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate I've done my homework.
+Skip navigation menu About What I Stand For My Priorities What Voters Need to Know Endorsements Press & Media Events Volunteer Contact Donate I've done my homework.
+About What I Stand For My Priorities What Voters Need to Know Endorsements Press & Media Events Volunteer Contact Donate I've done my homework.
 As a public school educator, I made sure my students always did their homework.
 That’s why I’ve done mine.
 I have a plan to build a better California.

@@ -1,1 +1,3 @@
-
+top of page HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items.
+DONATE All Posts Search Papan Takes On Tough Issues Jul 14, 2022 1 min read Editor, I have lived in this dynamic city of San Mateo for over 20 years, and have seen our local leaders tackling issues such as affordable housing, climate change and the replacement of aging infrastructure; Deputy Mayor Diane Papan has been at the forefront of these efforts.
+Read more Recent Posts See All San Mateo Deputy Mayor Diane Papan Decisively Wins June Primary By A 2:1 Margin Vote For Papan Vote Diane Papan For State Assembly HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items. © PAPAN FOR ASSEMBLY # 5445 Madison Ave Sacramento CA 95841 | FPPC ID 1477408 Join Team Papan bottom of page

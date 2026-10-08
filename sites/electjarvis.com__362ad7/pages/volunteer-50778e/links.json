@@ -1,7 +1,26 @@
 [
-"https://electjarvis.com/",
-"https://electjarvis.com/meet-steve",
-"https://facebook.com/ElectJarvis",
-"https://flickr.com/photos/186478187@N07/albums/72157712686604937",
-"https://secure.psqimpact.com/donate/committee-to-elect-jarvis/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.psqimpact.com/donate/committee-to-elect-jarvis/donate-today"
+},
+{
+"text": "Meet Steve",
+"href": "https://www.electjarvis.com/meet-steve"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electjarvis.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ElectJarvis/"
+},
+{
+"text": "[image: Flickr]",
+"href": "https://www.flickr.com/photos/186478187@N07/albums/72157712686604937/"
+},
+{
+"text": "[image]",
+"href": "https://www.electjarvis.com"
+}
 ]

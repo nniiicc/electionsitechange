@@ -40,4 +40,4 @@ We can build a district where working hard and paying your rent is enough to get
 All Policies Next Policy Return to Top SOURCES The 21st Century ROAD to Housing Act (H.R.
 6644, 119th Congress) became law July 11, 2026 — its institutional-investor restrictions apply only at the 350-home threshold, grandfather existing holdings, and reach existing homes only: Congress.gov — H.R.
 6644, 21st Century ROAD to Housing Act The “like-kind exchange” rules (IRC §1031) that let real-estate investors defer capital-gains tax when they swap one property for another: IRS — Like-Kind Exchanges Under IRC Section 1031, Fact Sheet FS-2008-18 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

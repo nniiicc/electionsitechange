@@ -1,5 +1,5 @@
 0 Skip to Content Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Open Menu Close Menu Open Menu Close Menu Donate Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Roe v.
-Wade Jun 24 Written By Ronnie Glynn Statement from State Rep.
+Wade Jun 24 Written by Ronnie Glynn Statement from State Rep.
 Candidate Ronnie Glynn on Supreme Court decision overturning Roe v.
 Wade CLARKSVILLE, Tenn.ー Today’s Supreme Court decision is a step backward for personal liberty for women and their economic independence.
 Each pregnancy is different and everyone’s circumstances are unique, which is why women should be trusted to make the decision that is best for their situation, without the interference of politicians.

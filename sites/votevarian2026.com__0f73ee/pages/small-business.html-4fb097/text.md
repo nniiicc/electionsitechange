@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid Strategic Coalition Letter: Local Business Owner Outreach Objective: Mobilize local business owners, chambers of commerce, and taxpayers into a unified coalition.
 This letter frames the stadium pause not as an anti-development stance, but as a mandatory defensive measure to protect the local economy from a cascading energy and fiscal crisis.
 SUBJECT: PROTECTING OUR LOCAL ECONOMY: Why We Must Pause the Stadium Deal to Save Small Businesses Dear Fellow [Hillsborough County / Tampa] Business Owner, We are all feeling the strain.

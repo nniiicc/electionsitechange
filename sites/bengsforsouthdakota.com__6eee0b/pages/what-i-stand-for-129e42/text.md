@@ -37,13 +37,17 @@ Cowboys had few material possessions so were instead focused on enjoying God’s
 Public officials acting on behalf of regular folks must keep their priorities in the proper order.
 Know Where To Draw The Line Everyone has a personal limit on what you will say, do, or allow to happen in your personal or professional life.
 Because of the potential risk to our society, however, public officials have a greater obligation to recognize, respect, and ensure accountability for violations of the boundaries.
-Partisanship undermines this responsibility by expecting inaction for violations supported by the party. your independent choice Download Video Likely voters in South Dakota need to understand that Independent candidate Brian Bengs learned his love of country and commitment to service from growing up in a small town.
-He joined the Navy, retired as an Air Force lieutenant colonel, and served as a military ethics advisor helping uphold the highest ethical standards.
-Now he is running for Senate as Independent to take on the corrupt career politicians and Washington special interests making life harder and more expensive for South Dakotans.
-He isn’t taking a penny of corporate PAC money, wants to ban congressional stock trading, and supports 12-year term limits on all members of Congress.
-Mike Rounds is a career politician who’s been in Washington too long and become captive of the Washington special interests, even when it hurts South Dakota.
-He’s enriched himself through illegal stock trades , abused the taxpayer trust with $5M for his personal travel, and taken millions in campaign cash from special interests.
-Now Rounds is selling out South Dakota families and farmers to Big Tech Social Media Companies to give more land and tax breaks to data centers while they drive up our utility bills.
+Partisanship undermines this responsibility by expecting inaction for violations supported by the party. your independent choice Download Video Likely voters in South Dakota urgently need to know Mike Rounds has been in Washington too long.
+He’s a career politician who answers to special interests, even when it hurts South Dakota.
+Rounds raised more from data center and tech groups than from South Dakota donors ( here ).
+He let his top staffer lobby for Facebook to build data centers in South Dakota while that same staffer was paid more than $400,000 a year as both a Senate aide and Rounds’ campaign manager ( here ).
+Rounds is one of Washington’s top backers of data centers, his campaign is funded by data center companies, and Rounds voted to fast-track data center construction that lets them take our water and raise our utility bills.
+Voters need to see and hear this message on broadcast, cable, streaming, and YouTube.
+The next thing voters need to know is that at a time where there is rampant corruption in Washington from career politicians, Rounds leads the entire Senate in charter flight spending , $350,000 ahead of the next senator ( here ) over the last two years and has spent over $1.3 million in private charter flights to travel to his home in South Dakota since 2021.
+He’s charged taxpayers $5 million for his travel and taken $2 million in campaign cash from special interests.
+Now he’s selling out South Dakota families and farmers, handing Big Tech more land and tax breaks for data centers while our utility bills go up.
+Lastly, South Dakota need to understand Mike Rounds has been in Washington too long and is out for himself.
+He violated the law against insider trading by failing to report up to $5 million stock trades while in office.
 Back To All Policies Sign Nominating Petition Donate to Campaign Get Involved Register to Vote What I Believe What I Stand For Get Involved Information and Resources PO Box 404 Hot Springs, SD 57747 Paid for by Bengs for South Dakota.
 Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
 By providing your phone number, you agree to receive political and/or donation-related text messages from Bengs for Senate.

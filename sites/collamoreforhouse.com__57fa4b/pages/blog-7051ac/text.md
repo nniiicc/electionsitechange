@@ -1,4 +1,4 @@
-top of page Home Blog Events Frequently Asked Questions DONATE Collamore Statement “I intend to run for Maine House District 45 because many constituents asked me to represent them,” Clinton Collamore of Waldoboro said in a statement.
+top of page Home Blog Events Frequently Asked Questions DONATE All Posts Collamore Statement “I intend to run for Maine House District 45 because many constituents asked me to represent them,” Clinton Collamore of Waldoboro said in a statement.
 Collamore was elected to the seat in 2022 but resigned after making a mistake with Clean Elections paperwork.
 He said he collected some $5 donations from community members and later filled out the paperwork himself not realizing that wasn’t allowed.
 “It was an honest mistake for which I have paid dearly.” All the campaign mone Mar 31 2 min read How to help!

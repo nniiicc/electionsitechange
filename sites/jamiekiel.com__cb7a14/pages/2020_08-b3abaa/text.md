@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Six statewide constitutional amendments on Nov.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News Six statewide constitutional amendments on Nov.
 3 ballot Rep.
 Jamie Kiel, R-Russellville, last year said he thinks the Franklin County amendment will be approved by statewide voters.
 “It may give the statewide legislation some traction,” he said then.

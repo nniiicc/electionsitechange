@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press September 9, 2026 Minnesota Small Businesses Endorse Pro-Small Business Candidates for Election to the U.S.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press September 9, 2026 Minnesota Small Businesses Endorse Pro-Small Business Candidates for Election to the U.S.
 House of Representatives FOR IMMEDIATE RELEASE NFIB announces support for five Minnesota candidates SAINT PAUL, Minn.
 (Sept.
 9, 2026) – The National Federation of Independent Business (NFIB), the nation’s leading small business advocacy organization, endorsed the following candidates for election to the U.S. … Continue reading Minnesota Small Businesses Endorse Pro-Small Business Candidates for Election to the U.S.

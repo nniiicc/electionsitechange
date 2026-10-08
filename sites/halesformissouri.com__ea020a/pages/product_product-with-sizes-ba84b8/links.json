@@ -4,6 +4,10 @@
 "href": "https://halesformissouri.com/about-jeff/"
 },
 {
+"text": "Add to cart",
+"href": "https://halesformissouri.com/product/product-with-sizes/?add-to-cart=195"
+},
+{
 "text": "Cancel reply",
 "href": "https://halesformissouri.com/product/product-with-sizes/#respond"
 },
@@ -32,6 +36,10 @@
 "href": "https://halesformissouri.com/product/green-blouse/"
 },
 {
+"text": "Green Necklace $299.00 Original price was: $299.00.$199.00Current price is: $199.00.",
+"href": "https://halesformissouri.com/product/green-necklace/"
+},
+{
 "text": "Grey Polo $65.00",
 "href": "https://halesformissouri.com/product/grey-polo/"
 },
@@ -56,12 +64,12 @@
 "href": "https://halesformissouri.com/my-account/"
 },
 {
-"text": "Navy Blue Shirt $45.00",
-"href": "https://halesformissouri.com/product/navy-blue-shirt/"
-},
-{
 "text": "Privacy Policy",
 "href": "https://halesformissouri.com/privacy/"
+},
+{
+"text": "Sale! [image: Green Necklace]",
+"href": "https://halesformissouri.com/product/green-necklace/"
 },
 {
 "text": "Select options",
@@ -70,10 +78,6 @@
 {
 "text": "Select options",
 "href": "https://halesformissouri.com/product/grey-polo/"
-},
-{
-"text": "Select options",
-"href": "https://halesformissouri.com/product/navy-blue-shirt/"
 },
 {
 "text": "Shop",
@@ -102,10 +106,6 @@
 {
 "text": "[image: Hales for Missouri]",
 "href": "https://halesformissouri.com/"
-},
-{
-"text": "[image: Navy Blue Shirt]",
-"href": "https://halesformissouri.com/product/navy-blue-shirt/"
 },
 {
 "text": "[image: Product with Sizes]",

@@ -1,6 +1,4 @@
-Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT OCT 2 Want to get involved with Republicans for Jolly?
-Join our webinar, Friday at 1 p.m.
-ET Sign up now Principles Over Party.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT Principles Over Party.
 Join the movement In short David Jolly's position is grounded in principles over party affiliation.
 He supports local control, private sector leadership, individual freedom from government interference in personal decisions, and government action when markets fail.
 Jolly's approach to Florida's challenges in housing, insurance, health care, education, and affordability focuses on solutions that work regardless of whether they originate from the right or left.

@@ -15,6 +15,7 @@ These people will be held accountable for their fundraising actions and ignoranc
 Holding IDF Personnel in America Accountable Those Americans who have served in the IDF will be tracked and brought to justice under my plan as senator.
 The fact that we as Americans allowed these individuals to take advantage of our society is sickening.
 In addition to their arrest and prosecution, any proceeds directed toward helping the IDF will be confiscated.
+Conclusion I will end all ties with Israel, as well as prosecute all individuals who have contributed to Israel’s crimes.
 Anti-Zionism by Zul Mohamed Leave a Reply Cancel Reply Your email address will not be published.
 Required fields are marked * Comment * Email * Name * Website Save my name, email, and website in this browser for the next time I comment.
 Post Comment Δ previous Texas Cities Should End Their Agreements with Flock Safety Would you like to become one of our donors? $# $# $# $# $# $# Would you like to become one of our donors?

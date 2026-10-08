@@ -1,5 +1,4 @@
-Healthy Eats for the Kids & Economic Growth for Alabama’s Farmers
-The beginning of the school year is an exciting and sometimes challenging time for families, teachers, and students.
+Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact News / Win-Win for Farmers and Students 7 Sep Thursday, 10:11 AM · 2017 Win-Win for Farmers and Students Healthy Eats for the Kids & Economic Growth for Alabama’s Farmers The beginning of the school year is an exciting and sometimes challenging time for families, teachers, and students.
 My wife and I have three children, and I know how excited my kids always are for the first day of school.
 The primary goal of K-12 education is to develop the minds and hearts of our young people.
 We want our students to master the fundamentals of science, history, math, civics, and the English language, and to learn what true wisdom is.
@@ -15,9 +14,7 @@ The law that I sponsored specifies that the State Department of Education may us
 Indeed, last year, even before it was clarified that federal money could be used to purchase from local farms, the Alabama Farm-to-School program had a $2.3 million impact on the state economy.
 Now that schools can also use federal money to purchase produce from local farms, we should be able to keep even more taxpayer dollars in-state.
 I wish all of our local teachers and students a successful school year.
-If I can be of service to any teacher or administrator in my district, please don’t hesitate to reach out to my office at 334-247-7872 or send me an email at clyde.chambliss@alsenate.gov
-Thank you for allowing me to represent you in Montgomery!
+If I can be of service to any teacher or administrator in my district, please don’t hesitate to reach out to my office at 334-247-7872 or send me an email at clyde.chambliss@alsenate.gov Thank you for allowing me to represent you in Montgomery!
 Clyde Chambliss, Jr.
-ALABAMA STATE SENATE
-STATE SENATOR, District 30
-clyde.chambliss@alsenate.gov
+ALABAMA STATE SENATE STATE SENATOR, District 30 clyde.chambliss@alsenate.gov Paid for By Clyde Chambliss Jr.
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

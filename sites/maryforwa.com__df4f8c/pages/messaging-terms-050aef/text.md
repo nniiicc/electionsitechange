@@ -1,4 +1,4 @@
-top of page State Representative 34th District Position 2 - Democrat Donate About Mary Why Mary Get Involved Events Mary for WA Terms & Conditions 1.
+top of page State Representative 34th District Position 2 - Democrat ​ About Mary Why Mary Get Involved Seattle Times Endorses Mary Donate Spaghetti Dinner 10/16 Mary for WA Terms & Conditions 1.
 By opting in to receive text messages from MARY FOR WA/Mary Anito for State Rep, you consent to receive voter contact, donation asks, and informational messages 2.
 You can cancel the SMS service at any time.
 Just text "STOP" to the short code.

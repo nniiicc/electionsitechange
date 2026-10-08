@@ -1,13 +1,13 @@
-0 Skip to Content About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Back Donate Fighting for our future.
+0 Skip to Content About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Back Donate Fighting for our future.
 Hank for State Representative, House District 52 Ballot boxes near me!
-Supporters of Hank Sanders for Oregon Join our Mobilize Group for staying up to date on events, door-knocking events, forums and much more as we get closer to election day!
-Click the button below to sign-up and stay informed.
-Join Our Mobilize Group Here!
 Why I’m Running As a reporter for The New York Times, I’ve stood up to corporations.
 Working in the Oregon Senate, I’ve helped pass progressive policies.
 Growing up in Oregon, I know that this is the most amazing place in the world.
 We face huge challenges.
 But with energetic leadership, a track record of fighting back, and experience passing policies, we can fight for a better future.
+Supporters of Hank Sanders for Oregon Join our Mobilize Group for staying up to date on events, door-knocking events, forums and much more as we get closer to election day!
+Click the button below to sign-up and stay informed.
+Join Our Mobilize Group Here!
 Support my independent campaign $9 $26 $50 $101 $500 Other My Plans for Lowering Costs Featured No new data centers.
 No more tax breaks .
 Transparency about water usage and employment figures.

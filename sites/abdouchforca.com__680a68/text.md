@@ -47,7 +47,7 @@ Support Greg's Campaign One-Time Gift Monthly Sustainer Sacramento status-quo in
 Your immediate contribution fuels our local yard signs, voter materials, and community precinct walks. $ 20 $ 50 $ 100 $ 300 $ 500 Other Helps expand digital voter outreach across the district.
 Contribute $100 Now → Prefer to mail a check?
 Get instructions here Please note that the maximum contribution per election (either primary or general) for individuals, businesses, and PACs is $5,900.
-Community Events Join Greg on the campaign trail Upcoming Events Preview Sat, Oct 10 Rendezvous Back to Route 66 Downtown San Bernardino/ La Plaza Park at 6th Street Details → Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Details → Thu, Oct 22 Small Business Summit Elks Lodge - San Bernardino Details → View All Campaign Events → Let’s Bring Common Sense Back to California.
+Community Events Join Greg on the campaign trail Upcoming Events Preview Sat, Oct 10 Rendezvous Back to Route 66 Downtown San Bernardino/ La Plaza Park at 6th Street Details → Fri, Oct 16 Golf Tournament- Ballots, Birdies and BBQ Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Details → Sat, Oct 17 IE Live Marketnite Fall Festival 2450 Blake St Details → View All Campaign Events → Let’s Bring Common Sense Back to California.
 Together, We Can Make a Difference.
 Stay Informed & Get updates on key issues and campaign events.
 A common-sense leader fighting to restore safety, affordability, and accountability to California State Assembly District 45.

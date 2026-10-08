@@ -1,0 +1,9 @@
+Skip to main content Amanda Matchett MN House 32A About Issues Endorsements Events News Vote Volunteer ♥ Donate About Issues Endorsements Events News Vote Volunteer Donate Meet Amanda Home Events Phonebanking Campaign event Phonebanking Thursday, October 8, 2026 at 9:00 am Expand Date Thursday, October 8, 2026 Time 9:00 am – 8:00 pm CDT (Central time) Format Online Sign up RSVP so the team knows to expect you.
+RSVP on Mobilize Opens on mobilize.us Share Copy link Share Help the campaign by calling supporters– from anywhere in the world!
+Upcoming dates Thursday, October 8, 9:00 am to 8:00 pm Friday, October 9, 9:00 am to 8:00 pm Saturday, October 10, 9:00 am to 8:00 pm Sunday, October 11, 9:00 am to 8:00 pm Monday, October 12, 9:00 am to 8:00 pm Tuesday, October 13, 9:00 am to 8:00 pm Wednesday, October 14, 9:00 am to 8:00 pm Thursday, October 15, 9:00 am to 8:00 pm Friday, October 16, 9:00 am to 8:00 pm Saturday, October 17, 9:00 am to 8:00 pm Plus 16 more.
+See every date on Mobilize (opens in a new tab) ← Doorknock with MAPE Doorknock with Childcare for All → Stay Connected Be Part of the Campaign Be the first to hear about events, policy positions, and ways to help.
+Volunteer, donate, or invite Amanda to your neighborhood.
+Every action helps build a stronger District 32A.
+Leave this field empty Email address Sign Up We send campaign updates and event invitations.
+Unsubscribe any time. ♥ Donate Volunteer Meet Amanda DFL-endorsed candidate for Minnesota House District 32A: Blaine, Ham Lake, and Columbus.
+Campaign About Amanda Issues Endorsements Events Media & News Voter Information Volunteer Press Get Involved Volunteer Donate Meet Amanda Events Contact info@matchett4minnesota.com Contact form Prepared and paid for by Amanda Matchett for Minnesota PO Box 490251, Blaine, MN 55449 info@matchett4minnesota.com Privacy Policy Accessibility © # Matchett for Minnesota

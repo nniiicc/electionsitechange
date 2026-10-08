@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid Building a Resilient Future The Direct Core Message "Prices aren't just rising because of the economy; they are rising because giant corporations are using inflation as an excuse to pad their profits.
 While your grocery bill goes up, big businesses are making record-breaking money off your hard work.
 Our plan stops this price gouging and protects your wallet. 🚨 Tampa Bay families are trapped in an economic chokehold, and the choices on our ballot aren't offering real relief.

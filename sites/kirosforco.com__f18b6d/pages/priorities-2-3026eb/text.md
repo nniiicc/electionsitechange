@@ -1,4 +1,4 @@
-Skip Navigation Menu Priorities About Get Involved Volunteer Merch Donate Priorities About Get Involved Volunteer Merch Donate "I'm running for Congress to deliver change for Denver." "Establishment Democrats are beholden to the same billionaires who keep our prices high, burn our planet, and profit from a genocide.
+Skip Navigation Menu Vote Priorities About Get Involved Volunteer Merch Donate Vote Priorities About Get Involved Volunteer Merch Donate "I'm running for Congress to deliver change for Denver." "Establishment Democrats are beholden to the same billionaires who keep our prices high, burn our planet, and profit from a genocide.
 We can change that.
 It starts by changing who we send to Congress.
 As the only candidate rejecting all corporate PAC money, I'll always stand for Medicare for All, Housing First, Universal Childcare, and an Arms Embargo." Downloadable PDF of Candidate Platform Medicare for All healthcare is a Human right Access to healthcare is directly linked to longer life expectancy, better mental health, and greater economic productivity.

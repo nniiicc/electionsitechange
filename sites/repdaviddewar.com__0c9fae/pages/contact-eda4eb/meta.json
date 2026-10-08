@@ -1,7 +1,9 @@
 {
  "description": "Contact the David Dewar Campaign",
  "final_url": "https://www.repdaviddewar.com/contact",
- "paid_for_by": null,
+ "fingerprint": "f81f7beea906bbfa26b311f2ba1fa68f157c0702",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the David Dewar Campaign",
  "years_mentioned": []
 }

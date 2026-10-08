@@ -1,4 +1,4 @@
-Skip to main content Tuesday, September 29 · An Evening with Lou Riley · Alpine Country Club, Cranston RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues Real Estate Pros How to Vote Get Involved Endorsements RSVP · Sept 29 Get in Touch Support the Campaign In a district this size, a lawn sign on a busy road and an hour of door-knocking are worth more than a check.
+Skip to main content Saturday, October 17 · Come Meet Lou · Merola’s, Scituate · 3–5 PM RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues How to Vote Get Involved Endorsements RSVP · Oct 17 Get in Touch Support the Campaign In a district this size, a lawn sign on a busy road and an hour of door-knocking are worth more than a check.
 Here's how to help — money is the last item on the list on purpose.
 Start here — the things that actually move votes District 41 is decided by a few hundred conversations between neighbors.
 That is not a thing money can buy.
@@ -13,8 +13,8 @@ Gen.
 Laws § 17-25-10.1(a)(1) , no one person may contribute more than $2,000 to a candidate within a calendar year, and a campaign may not accept more than that from any one person.
 Business entity contributions are prohibited by § 17-25-10.1(h)(1) .
 Contributions to a state candidate committee are not deductible as charitable contributions for federal income tax purposes.
-Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Endorsements How to Vote Get Involved Sept.
-29 Reception Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
+Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Real Estate Pros Endorsements How to Vote Get Involved Oct.
+17 Meet & Greet Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
 178 Broadway, Providence, RI 02903.
 Authorized by the candidate.
 Privacy Policy © 2026 Friends of Michael Riley

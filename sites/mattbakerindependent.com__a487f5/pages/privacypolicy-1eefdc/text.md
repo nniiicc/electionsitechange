@@ -20,4 +20,4 @@ After you send the message STOP to us, we will send you a reply message to confi
 After this, you will no longer receive SMS messages from us. ​ If you need assistance with text messaging, reply with HELP or contact us generalemail@mattbakerindependent.com . ​ Policy Updates We may update this privacy policy from time to time.
 We will notify you of any changes by posting the new policy on this page and, where appropriate, via SMS message. ​ Contact Information If you have any questions about our privacy practices or this policy, please contact us at: Email: generalemail@mattbakerindependent.com Paid for by Matt Baker for Congress Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or the U.S.
 Marine Corps.
-Terms & Conditions | Privacy Policy | Accessibility Statement bottom of page
+Terms & Conditions | Privacy Policy | Accessibility Statement | FAQs bottom of page

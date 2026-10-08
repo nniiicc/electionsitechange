@@ -2,7 +2,7 @@
 Ballots will be arriving to voters next month and the conversations we have with our neighbors will make a difference.
 Whether you've knocked thousands of doors or this would be your very first time, we'd love to have you on the team.
 Training, materials, and turf in both Franklin and Benton Counties will be provided.
-Sign up here, and choose your dates to canvass: https://forms.gle/BxbrhVigGB8Y6Y9X9 Saturday, October 10th 9:30 AM – 1:00 PM Meet at the CSA Building - 713 C Jadwin Ave, Richland Previous Previous October 7 Phonebanking Session Next Next October 10 Canvassing Event (Yakima) Home ‍ ‍ About‍ ‍ Issues‍ ‍ Events ‍ ‍ Endorsements‍ ‍ Volunteer ‍ Donate © # John Duresky for Congress.
+Sign up here, and choose your dates to canvass: https://forms.gle/BxbrhVigGB8Y6Y9X9 Saturday, October 10th 9:30 AM – 1:00 PM Meet at the CSA Building - 713 C Jadwin Ave, Richland Previous Previous October 8 Zillah Chamber of Commerce Candidate Forum Next Next October 10 Canvassing Event (Yakima) Home ‍ ‍ About‍ ‍ Issues‍ ‍ Events ‍ ‍ Endorsements‍ ‍ Volunteer ‍ Donate © # John Duresky for Congress.
 All rights reserved.
 Privacy Policy‍ Plain Talk.
 Real Service. info@johnduresky.com John Duresky is a retired member of the U.S.

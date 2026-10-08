@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Category: OPINION OPINION Viewpoint: A landmark week for Ashland Food Project It’s always a feel-good moment to pack that bag with soup, chili and peanut butter, knowing that the food I supply will help sustain my neighbors.
+Skip to content Wed.
+Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Category: OPINION OPINION Viewpoint: A landmark week for Ashland Food Project It’s always a feel-good moment to pack that bag with soup, chili and peanut butter, knowing that the food I supply will help sustain my neighbors.
 But this week’s pickup… OPINION My view on the situation facing the university by Rep.
 Pam Marsh This is a tumultuous time for Southern Oregon University and the administration, staff, students and community members who deeply love the place.
 Here’s my view on the situation facing the… OPINION GUEST COLUMN: Rep.

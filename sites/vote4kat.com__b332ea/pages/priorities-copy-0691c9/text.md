@@ -1,5 +1,8 @@
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters More...
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue Everyday Affordability - Two in five New Mexico households struggle to afford basics.
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer More...
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue Everyday Affordability - Two in five New Mexico households struggle to afford basics.
 Any one working (and often working more than full-time and more than one job) should not be be "one emergency away from falling into poverty." Our families, our seniors and the more than 356,000 households who struggle to make it paycheck to paycheck deserve better.
 Protect the programs that protect people - Supplemental Nutrition Assistance Program (SNAP), Women, Infants and Children (WIC), Medicaid/Medicare, Temporary Assistance for Needy Families (TANF), Social Security Disability Income (SSDI), et cetera and allow greater access for our elders, disabled community members, young professionals, and more families.
 Livable wages lift workers and their families - raising the minimum wage while using a ranged, scalable rate considering cost of living (COL) and inflation so the burden on smaller businesses and areas with lower COL is not too great, while lifting all working New Mexicans.

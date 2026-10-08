@@ -13,6 +13,6 @@ I am a member of the LPO’s Central Committee.
 In my spare time, I enjoy grand strategy games (including modding), distance running, and baking.
 I love to spend time with my nephew and niece (who devour my brownies and pumpkin bars).
 This page lists some (but not all) of those who have substantially shaped my thinking.
-Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

@@ -1,4 +1,4 @@
-☰ Home Priorities Meet Connie Volunteer Contribute Building a Tennessee That Works for Everyone CONTRIBUTE VOLUNTEER Educator.
+☰ Home Priorities Meet Connie Vote Volunteer Contribute Building a Tennessee That Works for Everyone CONTRIBUTE VOLUNTEER Educator.
 Advocate.
 Community leader.
 For decades, Connie Casha has dedicated her life to helping Tennessee's children and families thrive.

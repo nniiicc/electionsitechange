@@ -1,4 +1,4 @@
-0 Skip to Content About Priorities Events Take Action Endorsements Contact Us Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Donate Born and raised in Seattle and ready to represent the community that raised him!
+0 Skip to Content About Priorities Events Take Action Endorsements Contact Us Media Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Media Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Media Donate Born and raised in Seattle and ready to represent the community that raised him!
 Meet Kelabe Kelabe was raised in a working class union family by his single mother who came to this country as a refugee.
 She had dreams that were put on hold because of the barriers that come with raising a child on your own.
 They were priced out of neighborhood after neighborhood because no matter how hard she worked, rising costs always moved faster than her wages.

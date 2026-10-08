@@ -22,4 +22,4 @@ Children deserve the best NH can offer.
 Election Reform I helped reform New Hampshire's election system for the first time in 30 years, ensuring fair and accessible elections for all citizens.
 Community Service Through the Elliot Perry Foundation, I support handicap-accessible playgrounds and youth sports teams, investing in our community's future.
 Back to Home Ross Berry State Representative Fighting for New Hampshire's families in Goffstown and Weare.
-Quick Links Home About Privacy Policy Terms & Conditions Request Yard Signs Donate Contact 119 Buzzell Hill Rd Weare, NH 03281 Ross@BerryForNH.com (603) 803-3448 Facebook Paid for by Berry For New Hampshire · Ross Berry, Chair · 119 Buzzell Hill Rd, Weare, NH
+Quick Links Home About Issues Privacy Policy Terms & Conditions Request Yard Signs Donate Contact 119 Buzzell Hill Rd Weare, NH 03281 Ross@BerryForNH.com (603) 803-3448 Facebook Paid for by Berry For New Hampshire · Ross Berry, Chair · 119 Buzzell Hill Rd, Weare, NH

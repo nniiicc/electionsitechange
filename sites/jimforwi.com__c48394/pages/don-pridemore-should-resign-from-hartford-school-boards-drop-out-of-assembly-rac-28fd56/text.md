@@ -18,7 +18,7 @@ Piwowarczyk, 54, and Pridemore, are squaring off in the Aug.
 13 primary for the 98 th Assembly District seat.
 For more information, see jimforwi.com.
 Paid for by Jim for Wisconsin.
-Post navigation Previous post: Prev DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS July 29, 2024 Next post: Next VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY August 6, 2024 You May Also Like Posted June 27, 2024 in Endorsements , News , Political Issues , ticker Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk Posted July 29, 2024 in News DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS July 29, 2024 Next post: Next VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY August 6, 2024 You May Also Like Posted April 30, 2024 in ticker , Endorsements , News Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly Posted May 2, 2024 in Endorsements , News , ticker Washington County Sheriff Martin Schulteis Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

@@ -12,7 +12,7 @@ Horsford will fight the big corporations and special interests responsible for h
 Congressman Steven Horsford believes no one should be forced into bankruptcy or lose their home because an insurance company refuses to pay a claim.
 Horsford says it is wrong to pay for expensive insurance policies, while at every turn, insurance companies do everything to avoid paying health care claims.
 Horsford wants to change that by banning insurance companies from denying health care prescribed by a doctor and limiting how much they can raise rates on customers.
-YOUTUBE October 7, 2026 Help Me Hold the Line.
+YOUTUBE October 8, 2026 Help Me Hold the Line.
 Winning back the House majority depends on our district.
 I need you in this fight.
 Donate Now Volunteer Today Get Updates Facebook Instagram X-twitter Youtube Meet Steven Priorities Media Meet Steven Priorities Media Volunteer Donate Paid for by Nevadans for Steven Horsford Copyright © # Steven Horsford for Congress.

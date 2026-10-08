@@ -9,10 +9,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=12330+james+street+holland%2C+mi+49424+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=1774+perry+street+holland%2C+michigan%2C+49424+united+states"
 },
 {
@@ -349,10 +345,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=January+Coffee+Hour&dates=20260124T150000Z%2F20260124T160000Z&location=12330+James+Street%2C+Holland%2C+MI+49424%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joseph%27s+Birthday+Fundraiser&dates=20260629T220000Z%2F20260630T000000Z&location=248+S+River+Ave%2C+Holland%2C+MI"
 },
 {
@@ -473,10 +465,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.mccluskyformi.com/events/january-coffee-hour?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.mccluskyformi.com/events/josephs-birthday-fundraiser?format=ical"
 },
 {
@@ -530,10 +518,6 @@
 {
 "text": "ICS",
 "href": "https://www.mccluskyformi.com/events/ws6hpl923xdnbb3awm4e8xdde85lex?format=ical"
-},
-{
-"text": "January Coffee Hour",
-"href": "https://www.mccluskyformi.com/events/january-coffee-hour"
 },
 {
 "text": "Joseph's Birthday Fundraiser",
@@ -654,10 +638,6 @@
 {
 "text": "View Event →",
 "href": "https://www.mccluskyformi.com/events/halloween-canvassing-with-joseph-mcclusky"
-},
-{
-"text": "View Event →",
-"href": "https://www.mccluskyformi.com/events/january-coffee-hour"
 },
 {
 "text": "View Event →",
@@ -834,10 +814,6 @@
 {
 "text": "[image: Halloween Canvassing with Joseph McClusky]",
 "href": "https://www.mccluskyformi.com/events/halloween-canvassing-with-joseph-mcclusky"
-},
-{
-"text": "[image: January Coffee Hour]",
-"href": "https://www.mccluskyformi.com/events/january-coffee-hour"
 },
 {
 "text": "[image: Joseph McClusky for State Representative]",

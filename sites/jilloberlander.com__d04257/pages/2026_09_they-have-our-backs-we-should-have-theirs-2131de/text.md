@@ -18,7 +18,7 @@ My daughter chose to become an EMT.
 She studied hard and joined an organization of volunteers and trained professionals, GEMS, who have made our community one of the safest places to live if you need emergency response services.
 I have enormous respect for the first responders who serve our community and our state.
 They have our backs every day.
-As your state senator, you can count on me to have theirs. ← A little more about me Jill Has A Senior Agenda Grounded in Compassion → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
+As your state senator, you can count on me to have theirs. ← A little more about me Jill Has A Senior Agenda Grounded in Compassion → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts Joe Kelly gets the math wrong We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
 We should have theirs.
-A little more about me A common-sense approach is why Jill Oberlander has earned my vote for State Senator CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+A little more about me CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

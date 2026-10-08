@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home News / Weekly Capitol Update – Week of Feb.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home News / Weekly Capitol Update – Week of Feb.
 14, 2018 Weekly Capitol Update – Week of Feb.
 14, 2018 Hello, I’m Senator Paul Bailey bringing you a capitol update from Nashville.
 We’re picking up the pace this week in the Tennessee General Assembly.

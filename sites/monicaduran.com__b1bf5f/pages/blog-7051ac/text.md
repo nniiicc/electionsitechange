@@ -1,5 +1,5 @@
 top of page About Legislation Leadership and Committees Updates Issues Endorsements More Use tab to navigate through the menu items.
-Contribute All Posts Search Log in / Sign up 2026 Legislative Session Wrap-Up Rep.
+Contribute All Posts Search 2026 Legislative Session Wrap-Up Rep.
 Monica Duran Jun 29 2025 Legislative Session is Complete!
 Rep.
 Monica Duran Jun 22 Rep.

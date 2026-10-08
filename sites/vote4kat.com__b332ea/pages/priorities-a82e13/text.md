@@ -1,5 +1,8 @@
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters More...
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue Healthcare Access for all New Mexicans - 1 in 10 New Mexicans do not have access to health insurance.
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer More...
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue Healthcare Access for all New Mexicans - 1 in 10 New Mexicans do not have access to health insurance.
 The first priority must be to increase access to healthcare via more insurance coverage and retaining medical providers.
 Legislating for more access to insurance will save the state millions in costly emergency room visits, free up critical response services and help keep insurance rates lower for everyone.
 Fund a statewide public option Medicaid insurance program to reach those families who do not meet the criteria for Turquoise Care and cannot afford insurance rates on the marketplace.

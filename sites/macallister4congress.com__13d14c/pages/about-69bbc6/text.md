@@ -14,4 +14,5 @@ He's running for Congress in the 9th District to be a steady, accessible voice f
 Donate Get Involved Local Roots.
 Common Sense Results.
 U.S.
-Congress · Massachusetts 9th District Home ​ About ​ Solutions ​ Events ​ Media ​ Get Involved Email Tyler (508) 538-1631 PAID FOR BY MACALLISTER FOR CONGRESS · 2026 Privacy Policy Terms & Conditions Election Day — November 3, 2026 (add to calendar) Scroll to Top
+Congress · Massachusetts 9th District Home ​ About ​ Solutions ​ Events ​ Media ​ Get Involved Email Tyler (508) 538-1631 PAID FOR BY MACALLISTER FOR CONGRESS · 2026 Privacy Policy Terms & Conditions Election Day — November 3, 2026 (add to calendar) Scroll to Top Video drops soon Tyler on The G.O.A.T.
+Podcast Get the video link › ×

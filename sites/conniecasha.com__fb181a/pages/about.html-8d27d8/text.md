@@ -1,4 +1,4 @@
-☰ Home Priorities Meet Connie Volunteer Contribute Connie speaking at a community event in Smyrna "When a flower doesn't bloom, you fix the environment in which it grows, not the flower." — Alexander Den Heijer This quote has guided much of my work with children and families.
+☰ Home Priorities Meet Connie Vote Volunteer Contribute Connie speaking at a community event in Smyrna "When a flower doesn't bloom, you fix the environment in which it grows, not the flower." — Alexander Den Heijer This quote has guided much of my work with children and families.
 Instead of blaming people for the issues they are facing, we must look closely at their environment, their access to services, resources, and their support systems.
 What are the circumstances that keep them from thriving?
 Meet Connie Connie is a long-time resident of Smyrna with a history of working with children and families throughout those years.

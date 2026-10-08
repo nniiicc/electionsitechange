@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Issues News Volunteer Events Store Donate About Endorsements Issues News Volunteer Events Store Donate Privacy Policy of Lindsay for Iowa Last Updated: April 8 2026 1.
+Skip navigation menu About Endorsements Issues News Vote Volunteer Events Store Donate About Endorsements Issues News Vote Volunteer Events Store Donate Privacy Policy of Lindsay for Iowa Last Updated: April 8 2026 1.
 Introduction Welcome to Lindsay for Iowa.
 We are committed to protecting your privacy and ensuring you have a positive experience on our website.
 This policy outlines our handling of information we collect from you or that you provide to us.

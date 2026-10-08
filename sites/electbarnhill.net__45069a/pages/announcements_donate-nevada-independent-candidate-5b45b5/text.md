@@ -55,12 +55,16 @@ But it also creates a clear line of responsibility.
 If I’m elected, Nevada will know exactly who I answer to: you.
 Give with purpose Before making any contribution, take a moment to decide whether these priorities reflect the public service you want.
 A contribution, of any lawful amount, is a civic choice about which ideas reach voters and which candidates can compete.
-If you want elections run so well that nobody has to argue about whether the systems were prepared or the rules were applied fairly, learn more about my background , join the campaign , or donate today .
 The independent vote isn’t a wasted vote or someone else’s to lose.
 It’s yours to give to the candidate who earns it.
-Share: Categories: Announcements Post navigation Previous Previous post: While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster Next Next post: Where’s My Ballot?
+I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
+Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
+If not, it’s time to take a closer look.
+Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
+I’m asking you to hold the office accountable for solving real problems.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Announcements Post navigation Previous Previous post: While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster Next Next post: Where’s My Ballot?
 How to Track Your Nevada Mail Ballot footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

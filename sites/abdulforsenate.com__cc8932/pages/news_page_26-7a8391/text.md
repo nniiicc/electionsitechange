@@ -5,7 +5,17 @@ Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
 To learn more about Abdul, visit our about page.
-Congresswoman Rashida Tlaib Endorses Abdul El-Sayed for U.S.
+ICYMI: Rev.
+Horace Sheffield III Endorses Abdul El-Sayed for U.S.
+Senate Press Release November 13, 2025 DETROIT, MI – On Saturday, November 8, U.S Senate candidate Dr.
+Abdul El-Sayed received the endorsement of Detroit political powerhouse and community advocate Rev.
+Horace Sheffield III.
+Rev.
+Sheffield announced his endorsement live on his weekly show “Wake-Up Call”, with Abdul as the guest.
+Following … VIDEO: Abdul El-Sayed Highlights Michigan Coast Guard Veteran, Speaks Out Against VA Layoffs Press Release November 11, 2025 MICHIGAN – This morning, U.S.
+Senate Candidate Dr.
+Abdul E-Sayed released a moving new video honoring Tony Hall, a Coast Guard veteran living in Central Michigan – one of the first responders to the Edmund Fitzgerald tragedy #ago.
+In … Congresswoman Rashida Tlaib Endorses Abdul El-Sayed for U.S.
 Senate Press Release November 8, 2025 DETROIT, MI – Tonight, at the Detroit stop of Dr.
 Abdul El-Sayed’s statewide “Open Our Healthcare” town hall tour, Congresswoman Rashida Tlaib took the stage to endorse Abdul for U.S.
 Senate.
@@ -25,12 +35,7 @@ Senate Candidate Abdul El-Sayed Announces $# Million Raised In Under Three Month
 8,000 Michigan miles traveled.
 Zero corporate PACs.
 ANN ARBOR, MICHIGAN – Today, U.S.
-Senate candidate Abdul El-Sayed announced $# million raised in the second quarter of 2025 in the 75 … Michigan State Representatives and Local Leaders Endorse Abdul El-Sayed for U.S.
-Senate Press Release May 8, 2025 Momentum builds as key elected officials back Abdul’s campaign DETROIT, MI – U.S.
-Senate candidate Abdul El-Sayed is proud to announce endorsements from several Michigan State Representatives and local leaders, reflecting the growing grassroots momentum behind … Wayne County Executive Warren Evans and Flint Mayor Sheldon Neeley Endorse Abdul El-Sayed for U.S.
-Senate Press Release May 3, 2025 Top local leaders back Abdul’s people-powered campaign for U.S.
-Senate DETROIT, MI – U.S.
-Senate candidate Abdul El-Sayed is proud to announce the endorsement of Wayne County Chief Executive Warren Evans and Flint Mayor Sheldon Neeley. … « Previous 1 … 24 25 26 27 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Senate candidate Abdul El-Sayed announced $# million raised in the second quarter of 2025 in the 75 … « Previous 1 … 24 25 26 27 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
 Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
 Senate PO Box 126 St.
 Clair Shores, MI 48080 Paid for by Abdul for U.S.

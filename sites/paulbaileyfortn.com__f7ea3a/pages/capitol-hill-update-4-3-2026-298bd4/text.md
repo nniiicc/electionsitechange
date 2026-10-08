@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 4/3/2026 Capitol Hill Update 4/3/2026 To the Citizens of Tennessee Senate District 15 Friends, On this Good Friday heading into Easter weekend, I hope you and your family have a chance to slow down and reflect on the blessings of this season and the sacrifice of our Savior.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 4/3/2026 Capitol Hill Update 4/3/2026 To the Citizens of Tennessee Senate District 15 Friends, On this Good Friday heading into Easter weekend, I hope you and your family have a chance to slow down and reflect on the blessings of this season and the sacrifice of our Savior.
 Here at the Capitol, it’s hard to believe we’re already into April, but we’ve continued moving legislation forward focused on protecting Tennessee families, strengthening public safety, and ensuring government remains accountable.
 Protecting Tennessee Taxpayers The Senate passed legislation to ensure taxpayer dollars are not used to fund gender reassignment procedures.
 This is about making sure public funds are used responsibly and reflect the values of Tennesseans.

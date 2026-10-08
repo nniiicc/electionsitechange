@@ -1,8 +1,4 @@
-0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 7 Door knock in Elk River Wednesday, October 7, 2026 5:00 PM 7:00 PM 1104 Lions Park Drive Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Elk River Wednesday afternoon.
-Make sure to bring a charged phone, bottle of water and your walking shoes.
-We will make sure you have everything you need to knock doors with us!
-Make sure to sign up so we know you will be joining us.
-Doorknock for Keenan Gentry · Mobilize View Event → Oct 10 Pumpkins in the Park-Nowthen Saturday, October 10, 2026 5:00 PM 8:00 PM Beach Shelter (map) Google Calendar ICS Keenan Gentry and Jen Bloomquist are partnering together for an event in Nowthen.
+0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 10 Pumpkins in the Park-Nowthen Saturday, October 10, 2026 5:00 PM 8:00 PM Beach Shelter (map) Google Calendar ICS Keenan Gentry and Jen Bloomquist are partnering together for an event in Nowthen.
 Both Jen and Keenan cover Oak Grove with districts 30B and 31B.
 Come out to the park with us as we celebrate moving into the fall season.
 Take a break and enjoy the crisp air while attending a family friendly event.
@@ -46,7 +42,11 @@ Bring your questions, concerns, and ideas.
 We will also be collection for Mutual Aid.
 If you have anything you would like to donate, bring that along.
 We can even take things to Open Doors for Youth, Boys and Girls club, or CAER food shelf. *Note: Mobilize description needs to be updated.
-Coffee and Conversation with Keenan Gentry · Mobilize View Event → Oct 5 Door knock in Elk River Monday, October 5, 2026 5:00 PM 7:00 PM 1104 Lions Park Drive Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Elk River Monday afternoon.
+Coffee and Conversation with Keenan Gentry · Mobilize View Event → Oct 7 Door knock in Elk River Wednesday, October 7, 2026 5:00 PM 7:00 PM 1104 Lions Park Drive Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Elk River Wednesday afternoon.
+Make sure to bring a charged phone, bottle of water and your walking shoes.
+We will make sure you have everything you need to knock doors with us!
+Make sure to sign up so we know you will be joining us.
+Doorknock for Keenan Gentry · Mobilize View Event → Oct 5 Door knock in Elk River Monday, October 5, 2026 5:00 PM 7:00 PM 1104 Lions Park Drive Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Elk River Monday afternoon.
 Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
@@ -169,16 +169,6 @@ We will also be playing board games, card games, and even Guitar Hero too!
 This will be a great opportunity to connect with neighbors through games, food, and conversation.
 We look forward to seeing you there!
 We will be in Gries Lenhardt Allen Room.
-Mobilize View Event → Jun 24 Coffee and Conversation Wednesday, June 24, 2026 11:00 AM 1:00 PM Dunn Brothers Coffee (map) Google Calendar ICS Come join us for coffee and conversation.
-Get to know me and why I’m running for seat 30B.
-Would you like to discuss what matters to you most?
-Bring your questions, concerns, and ideas.
-We have an open discussion where all are welcome!
-My campaign will also be collecting for Mutual Aid.
-If you have anything you would like to donate, bring that along.
-We can bring items to Open Doors for Youth, Boys and Girls club, or CAER food shelf.
-This will be my last Wednesday coffee and convo.
-Starting July we will be moving them to Sundays from 10:30am - 12:30pm.
 Mobilize View Event → Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Join Our Mailing List Subscribe for expert tips on navigating public programs, upcoming policy changes, and exclusive early access to new digital tools.

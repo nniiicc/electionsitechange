@@ -1,16 +1,58 @@
 [
-"https://electlombardo.com/",
-"https://electlombardo.com/about",
-"https://electlombardo.com/contact",
-"https://electlombardo.com/election-info",
-"https://electlombardo.com/events",
-"https://electlombardo.com/privacy-policy",
-"https://electlombardo.com/termsandconditions",
-"https://electlombardo.com/yardsign",
-"https://facebook.com/electjohnlombardo",
-"https://instagram.com/electjohnlombardo",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://secure.winred.com/friends-of-john-lombardo/donate-today"
+{
+"text": "ABOUT",
+"href": "https://www.electlombardo.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.electlombardo.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-john-lombardo/donate-today"
+},
+{
+"text": "ELECTION INFO",
+"href": "https://www.electlombardo.com/election-info"
+},
+{
+"text": "EVENTS",
+"href": "https://www.electlombardo.com/events"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "HOME",
+"href": "https://www.electlombardo.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electlombardo.com/privacy-policy"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "REQUEST A MAIL-IN BALLOT",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineMailInBegin"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://www.electlombardo.com/yardsign"
+},
+{
+"text": "Text Terms & Conditions",
+"href": "https://www.electlombardo.com/termsandconditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electjohnlombardo/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electjohnlombardo/"
+}
 ]

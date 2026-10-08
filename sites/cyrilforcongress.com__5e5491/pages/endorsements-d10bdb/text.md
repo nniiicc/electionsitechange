@@ -32,6 +32,10 @@ Term Limits U.S.
 Term Limits is a national, nonpartisan organization advocating for term limits on members of Congress as a way to reduce entrenched career politics and increase accountability to voters.
 The organization supports candidates who pledge to advance reforms that encourage citizen leadership, limit the influence of special interests, and bring fresh perspectives to Washington.
 Their endorsement reflects Cyril's commitment to reform-minded leadership and restoring public trust in government.
+Down Home NC Down Home North Carolina is a grassroots, member-led organization building power with working-class people across North Carolina’s small towns and rural communities.
+Through local organizing and civic engagement, Down Home works to ensure working families have a meaningful voice, with a focus on economic opportunity, affordable housing, healthcare, education, and a stronger democracy.
+Their endorsement reflects Cyril’s commitment to listening to and delivering for communities too often overlooked, expanding opportunity for working families, and advancing practical solutions on affordability, housing, and workforce development.
+His service-first approach aligns with Down Home’s mission to build a North Carolina where every community has the opportunity to thrive.
 PAC to the Future PAC to the Future is the leadership PAC founded by Speaker Emerita Nancy Pelosi to support Democratic candidates who are committed to effective governance, protecting democratic institutions, and delivering real results for working families.
 The PAC backs leaders who understand that governing requires experience, coalition-building, and a willingness to stand up for democratic norms, economic opportunity, and equal rights.
 This endorsement reflects confidence in Cyril's readiness to lead and his focus on service, accountability, and outcomes.

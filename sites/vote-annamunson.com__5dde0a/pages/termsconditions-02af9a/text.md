@@ -22,4 +22,4 @@ We will not be liable for any delays or failures in the receipt of any mobile me
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator, and is outside of our control.
 We are not liable for delayed or undelivered mobile messages.
 These Terms and Conditions and our Privacy Policy are strictly limited to these Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts.
-Vote Anna Munson 4742 Liberty Road South #609 Salem, Oregon 97302 ~~~ VoteAnnaMunson@gmail.com Phone: 503-877-3662 PAC ID # 23340 Log In Vote Anna Munson for House District 19 Privacy Policy Terms & Conditions bottom of page
+Vote Anna Munson 4742 Liberty Road South #609 Salem, Oregon 97302 ~~~ VoteAnnaMunson@gmail.com Phone: 503-877-3662 PAC ID # 23340 Log In Vote Anna Munson for House District 19 | Munson Leadership PAC Privacy Policy Terms & Conditions bottom of page

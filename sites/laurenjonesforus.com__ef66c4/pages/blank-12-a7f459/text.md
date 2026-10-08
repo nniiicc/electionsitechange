@@ -62,4 +62,12 @@ Briefly explain what it represents, why it matters, and how it aligns with the t
 Briefly explain what it represents, why it matters, and how it aligns with the theme of your gallery.
 15 image7.jpeg This is the area to introduce viewers to the context of this image.
 Briefly explain what it represents, why it matters, and how it aligns with the theme of your gallery.
+Previous 01 02 image2.jpeg This is the area to introduce viewers to the context of this image.
+Briefly explain what it represents, why it matters, and how it aligns with the theme of your gallery.
+03 image3.jpeg This is the area to introduce viewers to the context of this image.
+Briefly explain what it represents, why it matters, and how it aligns with the theme of your gallery.
+Next 01 / 03 Close Previous Next 01 02 image2.jpeg This is the area to introduce viewers to the context of this image.
+Briefly explain what it represents, why it matters, and how it aligns with the theme of your gallery.
+03 image3.jpeg This is the area to introduce viewers to the context of this image.
+Briefly explain what it represents, why it matters, and how it aligns with the theme of your gallery.
 Contact Repjonesgeorgia@gmail.com Location Bartow County / District 15 Legal © # Lauren Jones for Georgia LEADERSHIP FOR BARTOW bottom of page

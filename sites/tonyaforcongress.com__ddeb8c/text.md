@@ -1,8 +1,7 @@
 Skip to content Menu HOME BIOGRAPHY ISSUES PHOTO GALLERY ROLL IT BACK CONTACT US: DONATE TODAY Tonya Hudson For Congress Candidate for U.S.
-House of Representatives, Indiana's 9th District HUDSON FOR HOOSIERS “I believe leaders should answer questions, hold town halls, and be accessible to the people.” Tonya Hudson Authentic, Consistent, Driven UPCOMING EVENTS: October 3, 9:30-11:00am – District 9 Candidate Forum/debate hosted by the League of Women Voters (Monroe, Bloomington) via Zoom.
-October 3, 2:30-5:00pm – Meet the Candidate hosted by Hudson for Hoosiers & Floyd Co Libertarians at the Dog Haus Biergarten in New Albany.
-Visit Hudson for Hoosiers Facebook page for statements on current issues.
-October 7, 7:00pm – Secretary of State Debate hosted by the Indiana Debate Commission (WFYI Public Television) – watch the Libertarian candidate, Lauri Shillings, go head to head with her opponents.
+House of Representatives, Indiana's 9th District HUDSON FOR HOOSIERS “I believe leaders should answer questions, hold town halls, and be accessible to the people.” Tonya Hudson Authentic, Consistent, Driven ELECTION DAY IS NOVEMBER 3RD!
+Early voting has already started.
+Please gather as much information you can from this website, including my Roll It Back page, I will appreciate your vote!
 It’s time to – R OLL I T B ACK!
 Let’s take back our R ights, L iberties and F reedoms that have been stripped away.
 A balanced budget is required!

@@ -22,8 +22,8 @@ That is the standard of leadership I believe America deserves. — Dr.
 Kedner Maxime Candidate for U.S.
 Congress, Florida District 20 Source and Attribution Essence. "[Laura Loomer Targets Angie Nixon And Other Black Women]" https://www.essence.com/news/laura-loomer-targets-angie-nixon-and-other-black-women/ Recent Posts See All Why FL-20 Must Stay Rooted in Our Community | Dr.
 Kedner Maxime Barbershop Series Kicks Off | Dr.
-Kedner Maxime A Closer Look at Amendment 3 and Our Property Tax Debate DONATE Follow The Campaign A vision for Florida's District 20.
+Kedner Maxime A Closer Look at Amendment 3 and Our Property Tax Debate DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

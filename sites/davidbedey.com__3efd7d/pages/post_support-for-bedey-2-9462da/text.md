@@ -1,5 +1,8 @@
-Support for Bedey
-Updated: Feb 8
-"Forrest Gump coined a phrase, “stupid is as stupid does.” That phrase accurately describes former Rep.
-Lyn Hellegaard’s January 20 response to David Bedey in which she attacks legislation written by Bedey..."
-Read more online at: https://bitterrootstar.com/2026/02/support-for-bedey-10/
+top of page REP.
+DAVID BEDEY ABOUT POLITICAL PHILOSOPHY IN THE NEWS LEGISLATIVE ACTIVITY LEGISLATIVE FOCUS 2025 LEGISLATIVE RECORD 2023 LEGISLATIVE RECORD 2021 LEGISLATIVE RECORD 2019 LEGISLATIVE RECORD COMMITTEE ASSIGNMENTS SCORECARDS CONTACT PRIVACY POLICY MORE Use tab to navigate through the menu items.
+CONTRIBUTE All Posts Letters of Support Search Support for Bedey Feb 3 1 min read Updated: Feb 8 "Forrest Gump coined a phrase, “stupid is as stupid does.” That phrase accurately describes former Rep.
+Lyn Hellegaard’s January 20 response to David Bedey in which she attacks legislation written by Bedey..." Read more online at: https://bitterrootstar.com/2026/02/support-for-bedey-10/ Related Posts See All Message to Republican primary voters—SD 43 "Recently, former legislator Fred Thomas voiced his support for David Bedey’s opponent in the upcoming election for Senate District 43—the south end of Ravalli County.
+But the reasons that he gives a Support for Bedey " Across Montana – on television, radio, streaming services, mailers, and social media – tens of thousands of dollars are being spent attacking three Bitterroot Valley legislative candidates known for Support for Bedey "In a recent letter, a former state representative from Missoula, Lyn Hellegaard, accused my representative in the Montana House of Representatives, David Bedey, of favoring voting by noncitizens and Copyright © # David Bedey.
+Paid for by Bedey for Senate District 43, P.O.
+Box 692, Hamilton, MT 59840.
+Opt in to text messages from David bottom of page

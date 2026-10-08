@@ -1,5 +1,8 @@
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters More...
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue No Fossil Fuel Money Pledge After the dinner dishes are cleared, the dinner table becomes the office!
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer More...
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue No Fossil Fuel Money Pledge After the dinner dishes are cleared, the dinner table becomes the office!
 I am proud to have signed the No Fossil Fuel Money Pledge, joining leaders across the nation to prioritize the people over profits.
 New Mexico is a rich state from extractive wealth and with that wealth is the responsibility to steward our land and resources.
 I value investing in alternative energy technologies.

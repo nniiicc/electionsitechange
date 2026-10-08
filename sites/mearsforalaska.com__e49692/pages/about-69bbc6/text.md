@@ -3,7 +3,7 @@ Throughout the past two and a half decades she has built water and sewer systems
 Donna and her husband, Mike, moved into their East Anchorage home as newlyweds in 2001, and have raised their boys in the mountains and on the trails from APU to Winterberry to East High to Russian Jack.
 Both kids are accomplished nordic skiers and love life in Alaska.
 Providing opportunities for our kids is top of mind for Donna as she serves in the Legislature.
-Donate Now Endorsed By State Senator Forrest Dunbar Anchorage School Board President Carl Jacobs Pete Peterson Anchorage Assembly Member Yarrow Silvers State Senator Bill Wielechowski In the News Alaska House passes draft state budget amid warnings that state spending doesn’t balance Alaska Beacon Rep.
+Donate Now Endorsed By Anchorage Assembly Member Yarrow Silvers State Senator Bill Wielechowski Pete Peterson Anchorage School Board President Carl Jacobs State Senator Forrest Dunbar In the News Alaska House passes draft state budget amid warnings that state spending doesn’t balance Alaska Beacon Rep.
 Donna Mears, D-Anchorage, was among the members of the minority caucus who said they opposed the final bill because it failed to address the impending Southcentral Alaska energy crunch .
 Alaska House approves relaxed environmental rules for ‘advanced recycling’ Alaska Beacon Some legislators, including Rep.
 Donna Mears, D-Anchorage, were skeptical of supporters’ claims.

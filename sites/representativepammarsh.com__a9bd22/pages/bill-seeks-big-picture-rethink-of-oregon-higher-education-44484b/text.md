@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Bill seeks ‘big picture’ rethink of Oregon higher education Jefferson Public Radio | By Jane Vaughan , Tiffany Camhi Published February 4, 2026 at 4:21 PM PST LISTEN TO THE STORY HERE Jane Vaughan/JPR A Southern Oregon University sign on campus.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Bill seeks ‘big picture’ rethink of Oregon higher education Jefferson Public Radio | By Jane Vaughan , Tiffany Camhi Published February 4, 2026 at 4:21 PM PST LISTEN TO THE STORY HERE Jane Vaughan/JPR A Southern Oregon University sign on campus.
 The bill follows a recent state report on spending and efficiency at public universities that recommends targeted institutional integration.
 Rep.
 Pam Marsh, D-Ashland, is cosponsoring a bill to plan for the future viability of Oregon’s higher education system.

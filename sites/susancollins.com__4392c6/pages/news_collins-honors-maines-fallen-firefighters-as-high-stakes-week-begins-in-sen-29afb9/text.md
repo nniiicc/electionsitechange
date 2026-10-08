@@ -4,7 +4,7 @@ Susan Collins joined firefighters, first responders and grieving families in Aug
 Collins delivered remarks during the annual Firefighter Memorial Service at the Maine Fallen Firefighters Memorial, where more than 100 firefighters, family members, first responders and state and local officials gathered to remember those who dedicated their lives to protecting Maine communities.
 Read More .
 Previous post Why I’m supporting Sen.
-Susan Collins | Opinion Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
+Susan Collins | Opinion Next post Collins made one call and Maine towns got relief Join Our Team Sign Up Form - Vertical Full Name Email Zip Code Phone By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Collins for Senator.
 Reply HELP for help, STOP to end.
 Message frequency may vary.
 Message and data rates may apply.

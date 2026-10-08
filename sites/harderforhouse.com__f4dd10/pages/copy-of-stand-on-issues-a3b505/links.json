@@ -1,16 +1,62 @@
 [
-"https://facebook.com/profile.php?id=100079239288881",
-"https://fbmn.org/",
-"https://gunowners.mn/",
-"https://harderforhouse.com/",
-"https://harderforhouse.com/about",
-"https://harderforhouse.com/contact",
-"https://harderforhouse.com/copy-of-stand-on-issues",
-"https://harderforhouse.com/donate",
-"https://harderforhouse.com/stand-on-issues",
-"https://harderforhouse.com/volunteer",
-"https://mnchamber.com/",
-"https://mppoa.com/",
-"https://nfib.com/",
-"https://womenleadmn.org/"
+{
+"text": "ABOUT",
+"href": "https://www.harderforhouse.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.harderforhouse.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.harderforhouse.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.harderforhouse.com/copy-of-stand-on-issues"
+},
+{
+"text": "GALLERY",
+"href": "https://www.harderforhouse.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.harderforhouse.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.harderforhouse.com/stand-on-issues"
+},
+{
+"text": "[image: 5_edited.jpg]",
+"href": "https://nfib.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100079239288881"
+},
+{
+"text": "[image: Farm Bureau MN.png]",
+"href": "https://fbmn.org/"
+},
+{
+"text": "[image: Gun Owners Caucus MN]",
+"href": "https://gunowners.mn"
+},
+{
+"text": "[image: Minnesota Chamber of Commerce]",
+"href": "https://www.mnchamber.com/"
+},
+{
+"text": "[image: Minnesota Police and Peace Officers Association]",
+"href": "https://mppoa.com"
+},
+{
+"text": "[image: Women Lead MN]",
+"href": "https://womenleadmn.org"
+},
+{
+"text": "harderforhouse@gmail.com",
+"href": "mailto:harderforhouse@gmail.com?subject=Working+HARDER+for+the+residents+of+District+17B"
+}
 ]

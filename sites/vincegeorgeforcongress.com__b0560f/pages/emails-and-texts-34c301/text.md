@@ -1,4 +1,4 @@
-top of page Fill out the form below to receive texts and/or emails from Vince George for Congress.
+top of page Home Platform About Vince Volunteer Get Emails & Texts Donate Fill out the form below to receive texts and/or emails from Vince George for Congress.
 Once opted in to receive text messages, text STOP to unsubscribe and text HELP for help.
 Texts and emails will include messages about fundraising solicitations, volunteer opportunities, the Vince George for Congress campaign, and voting information.
 Message and email frequency will vary.

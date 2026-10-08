@@ -1,4 +1,4 @@
-top of page Donate RSVP RSVP | Meet & Greet About Platform Donate Get Involved Voting Info Menu Close About Rahim I have been fortunate and now it’s my responsibility to give back and serve.
+top of page Donate RSVP | Meet & Greet About Platform Donate Get Involved Voting Info Menu Close About Rahim I have been fortunate and now it’s my responsibility to give back and serve.
 My focus is simple: to keep Lilburn a place where families can afford to live, work, and build their futures.
 Rahim Asani moved to Lilburn in 2004 for its affordable housing, strong schools, and economic opportunity.
 For over 20 years, he has proudly called this city home, building a life, supporting his family, and growing his business in Gwinnett County.

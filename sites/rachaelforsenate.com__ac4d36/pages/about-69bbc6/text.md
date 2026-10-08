@@ -1,4 +1,4 @@
-Rachael Cabral-Guevara is a mother of 4 living in Fox Crossing.
+Skip to content Menu Home About News Endorsements Policy Priorities Absentee Information Donate Contact Paid for by Friends of Rachael Cabral-Guevara Rachael for Wisconsin 19th State Senate District Donate Now About Rachael Cabral-Guevara is a mother of 4 living in Fox Crossing.
 Rachael was born in Appleton and raised in the Air Force, which gave her the opportunity to live across our country.
 She returned to attend college after high school and hasn’t left Wisconsin since.
 Rachael’s family is from the Kimberly, Little Chute, Doty Island and Kaukauna areas.
@@ -14,23 +14,5 @@ Rachael’s passion for travel and adventure stem from her family life in the Ai
 She loves hiking, visiting new places and learning new things.
 One item on her bucket list is obtaining a pilot’s license allowing her to travel even more.
 Rachael served in the state assembly during the 2021-22 session and has represented the 19th Senate District since 2023.
-Education
-- Masters in Nursing from the University of Wisconsin-Milwaukee | 2008
-- Bachelor’s of Science in Nursing from the University of Wisconsin-Oshkosh | 2004
-- Bachelor’s of Science in Biology, Chemistry from Mount Mary College in Milwaukee | 2000
-Memberships
-- ANA – American Nursing Association
-- ANCC – American Nurses Credentialing Center
-- APRN Coalition of Wisconsin
-- Fox Valley Health Professionals
-- Adams County Republican Party
-- Portage County Republican Party
-- Outagamie County Republican Party
-- Waupaca County Republican Party
-- Waushara County Republican Party
-- Winnebago County Republican Party
-- Sigma Theta Tau Honor Society
-- WNA – Wisconsin Nursing Association
-Volunteer
-- Boy Scout Troop and Events
-- Xavier High School
+Education Masters in Nursing from the University of Wisconsin-Milwaukee | 2008 Bachelor’s of Science in Nursing from the University of Wisconsin-Oshkosh | 2004 Bachelor’s of Science in Biology, Chemistry from Mount Mary College in Milwaukee | 2000 Memberships ANA – American Nursing Association ANCC – American Nurses Credentialing Center APRN Coalition of Wisconsin Fox Valley Health Professionals Adams County Republican Party Portage County Republican Party Outagamie County Republican Party Waupaca County Republican Party Waushara County Republican Party Winnebago County Republican Party Sigma Theta Tau Honor Society WNA – Wisconsin Nursing Association Volunteer Boy Scout Troop and Events Xavier High School © Paid for by Friends of Rachael Cabral-Guevara 2026.
+Powered by WordPress

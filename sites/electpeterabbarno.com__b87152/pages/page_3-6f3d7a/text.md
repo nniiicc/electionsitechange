@@ -1,8 +1,7 @@
-Join Peter’s Campaign For info and updates Name Zip Email Address JOIN US ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow DONATE Election Day Day(s) : Hour(s) : Minute(s) : Second(s) Stay Informed on Latest Updates from Peter Abbarno Abbarno earns wide range of re-election endorsements by Peter Abbarno | Jun 25, 2026 One of the most important responsibilities of an elected official is bringing people together to solve problems.
+Join Peter’s Campaign For info and updates Name Zip Email Address JOIN US ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow DONATE Election Day Day(s) : Hour(s) : Minute(s) : Second(s) Stay Informed on Latest Updates from Peter Abbarno Reliable Energy Infrastructure Powers Washington’s Future by Peter Abbarno | Jun 25, 2026 The energizing of the new Lewis County Public Utility District substation near...
+Abbarno earns wide range of re-election endorsements by Peter Abbarno | Jun 25, 2026 One of the most important responsibilities of an elected official is bringing people together to solve problems.
 In...
-PTSD Awareness Month: Recognizing the Invisible Injuries by Peter Abbarno | Jun 11, 2026 June is PTSD Awareness Month, a time to recognize the impact of Post-Traumatic Stress Disorder (PTSD), support those...
-Peter Abbarno: Give the gift of reading for Father’s Day by Peter Abbarno | Jun 4, 2026 June is a special month for families.
-As we celebrate Father’s Day and recognize the role fathers, grandfathers,... « Older Entries Next Entries » Stronger Families.
+PTSD Awareness Month: Recognizing the Invisible Injuries by Peter Abbarno | Jun 11, 2026 June is PTSD Awareness Month, a time to recognize the impact of Post-Traumatic Stress Disorder (PTSD), support those... « Older Entries Next Entries » Stronger Families.
 Stronger Communities.
 Stronger Washington.
 The newly redistricted 20th District includes a small portion of South Thurston County (West of Bucoda to Interstate 5); Lewis County East of Interstate 5 (including all of Centralia, Chehalis, and Napavine); Cowlitz County East of Interstate 5 (including all of Kalama and Woodland); and parts of Clark County (including all of La Center and Ridgefield) to the City of Vancouver.

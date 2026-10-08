@@ -9,7 +9,7 @@ Bring your questions, your ideas, and the issues that matter most in Calvert Cou
 Join the Campaign – Find out how you can be part of a people-powered run for Governor: volunteering, spreading the word, and helping build the campaign.
 Who should attend?
 Anyone who wants to meet a candidate for Governor face to face Independents searching for a real political home Democrats and Republicans who want more choices on the ballot Anyone fed up with politics as usual and ready to build something better RSVP now and join the conversation! * This event is not affiliated with the Calvert County Public Library.
-Previous Previous September 5 Greenbelt Labor Day Festival - Information Day Next Next September 21 Frederick County Meet & Greet Like what you see?
+Like what you see?
 Join the movement.
 DONATE volunteer Green Party Candidates for Governor & Lt.
 Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

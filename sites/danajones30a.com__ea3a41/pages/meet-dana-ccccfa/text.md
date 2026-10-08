@@ -1,6 +1,7 @@
-Hi!
-I'm Dana
-Dana Jones was born, raised, and educated in Maryland.
+top of page I'M RUNNING FOR RE-ELECTION, SUPPORT MY CAMPAIGN!
+Meet Dana Endorsements Results End of Session Letters Freedom to Read Act Volunteer Projects For the District Shutdown Resources Contact Me Newsletters Privacy Policy More Use tab to navigate through the menu items.
+DONATE Hi!
+I'm Dana Dana Jones was born, raised, and educated in Maryland.
 Before joining the Maryland Legislature, Dana spent 23 years working with elected officials including serving as a Legislative Assistant to then-Congressman Benjamin Cardin (MD-3) on Capitol Hill, as a Senior Researcher at the Democratic Congressional Campaign Committee, Senior staff at EMILY's List and partner in her own national consulting firm.
 In 2020, just days after a statewide stay-at-home order was issued due to the COVID-19 pandemic, Dana was chosen by the Anne Arundel County Democratic Central Committee and appointed by Governor Larry Hogan to represent District 30A in the Maryland General Assembly.
 In 2022 she was reelected to her purple district winning by 11% points.
@@ -11,24 +12,6 @@ She currently serves on the Appropriations Committee, where she is the Vice Chai
 She also serves as the Capital Budget Chair of the Anne Arundel County House Delegation.
 Most recently, she concluded two years as President of the Maryland Legislative Women’s Caucus.
 In those two years the Caucus passed more legislation than any other year in their history.
-The Maryland Legislative Women’s Caucus, the oldest in the Nation!
-She and her family are active with numerous local community organizations in Annapolis & Anne Arundel county and most weekends can be found volunteering or at a youth sports event for their son with their puppy, Annie Chesapeake.
-Membership:
-- Appropriations Committee
-- Vice Chair: Health and Social Services Subcommittee of the Appropriations Committee
-- Oversight Committee on Pensions Subcommittee of the Appropriations Committee
-- Chair, Capital Budget Subcommittee, Anne Arundel County Delegation
-- Joint Committee on Administrative, Executive, and Legislative Review
-- President - Women Legislators of Maryland
-- Maryland's Student Data Privacy Council - Member
-- Aquaculture Coordinating Council - Member
-- Latino Caucus - Member
-- Transportation Caucus - Member
-- Veterans Caucus - Member
-- LGBTQ+ Caucus - Associate Member
-Awards While in Office & Local Awards:
-- Maryland Library Association Distinguished Service Award, 2023
-- Fannie Lou Hamer Award Winner, 2022
-- Michelle Obama Award, Anne Arundel County and The Caucus of African American Leaders, 2021
-- New Leaders Honoree, Leadership Anne Arundel, 2020
-- Jennifer Summers Barrett Volunteer of the Year Award, Junior League of Annapolis, 2019.
+The Maryland Legislative Women’s Caucus, the oldest in the Nation! ​She and her family are active with numerous local community organizations in Annapolis & Anne Arundel county and most weekends can be found volunteering or at a youth sports event for their son with their puppy, Annie Chesapeake. ​ Membership: Appropriations Committee Vice Chair: Health and Social Services Subcommittee of the Appropriations Committee Oversight Committee on Pensions Subcommittee of the Appropriations Committee Chair, Capital Budget Subcommittee, Anne Arundel County Delegation Joint Committee on Administrative, Executive, and Legislative Review President - Women Legislators of Maryland Maryland's Student Data Privacy Council - Member Aquaculture Coordinating Council - Member Latino Caucus - Member Transportation Caucus - Member Veterans Caucus - Member LGBTQ+ Caucus - Associate Member ​ Awards While in Office & Local Awards: Maryland Library Association Distinguished Service Award, 2023 Fannie Lou Hamer Award Winner, 2022 Michelle Obama Award, Anne Arundel County and The Caucus of African American Leaders, 2021 New Leaders Honoree, Leadership Anne Arundel, 2020 Jennifer Summers Barrett Volunteer of the Year Award, Junior League of Annapolis, 2019.
+Join Team Dana!
+DONATE Sign up for updates State Office Contact Delegate Dana Jones 410-841-3211 Dana.Jones@house.maryland.gov 161 House Office Bldg 6 Bladen Street Annapolis, MD 21401-1912 Campaign Contact Friends of Dana Jones 821 Chesapeake Ave PO Box 4237 Annapolis MD 21403 - 9998 ​ DONATE​ By Authority: Friends of Dana Jones, Ray Feldmann, Treasurer bottom of page

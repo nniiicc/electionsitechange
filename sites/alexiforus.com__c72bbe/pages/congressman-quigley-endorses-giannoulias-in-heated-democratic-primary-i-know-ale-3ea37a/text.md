@@ -36,8 +36,6 @@ Late last month, Quigley joined a growing list of politicians announcing they’
 So far, only Ald.
 Ray Lopez (15th) and millionaire businessman Willie Wilson have declared their intention to run for mayor next year.
 Read the article in the Chicago Sun-Times.
-Related Posts Ban the ban, not the book?
-Giannoulias caps return with string of legislative wins, including anti-censorship law Illinois Secretary of State Alexi Giannoulias told the Sun-Times he was “blown away” after reading about book bans across the country.
-“To me, this is a slippery slope, and it goes against what education is about,” he said.
-Keep Reading → Giannoulias Receives Big Democrat Support Several elected state and township officials announce endorsements Keep Reading → Giannoulias Lanza Su Primer Video En Español El Ex Tesorero de Estado Explora Campaña para Secretario de Estado Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Secretary of State to Offer REAL IDs for the First Time at Chicago Auto Show TVDL renewals will also be offered for the first time as well Keep Reading → Giannoulias Receives Support from Key Suburban Lawmakers Villivalam, Hernandez, Pierog joins other Democrats from Aurora and Kane County in endorsing Giannoulias’ SOS bid Keep Reading → Giannoulias Secures LIUNA Support for Secretary of State Bid Democrat candidate for Illinois Secretary of State Alexi Giannoulias has secured a key statewide labor endorsement from the Laborers’ International Union of North America (LIUNA).
+Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

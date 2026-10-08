@@ -1,4 +1,4 @@
-Skip to content 1.404.804.3643 ChrisForGeorgia103@gmail.com Facebook-f Instagram X-twitter Home Priorities For District 103 Campaign Strategy Chris gallery Contact Donate Home Priorities For District 103 Campaign Strategy Chris gallery Contact Donate Priorities home Priorities Gun Violence Prevention Advocate for comprehensive background checks and closing loopholes in gun sales.
+Skip to content 404-804-3643 ChrisForGeorgia103@gmail.com Facebook-f Instagram X-twitter Home MEET CHRIS Priorities For District 103 IN THE COMMUNITY MAKE A PLAN TO VOTE Contact Home MEET CHRIS Priorities For District 103 IN THE COMMUNITY MAKE A PLAN TO VOTE Contact Priorities home Priorities Gun Violence Prevention Advocate for comprehensive background checks and closing loopholes in gun sales.
 Push for red flag laws to keep guns out of the hands of those deemed dangerous.
 Partner with local law enforcement and community organizations to reduce violence in high-risk areas.
 Equality and Social Justice Champion civil rights and anti-discrimination legislation to ensure equal opportunities for all citizens.
@@ -22,4 +22,4 @@ Fight against voter suppression efforts, including gerrymandering and restrictiv
 Income Inequality Tax Plan Introduce tax policies that close loopholes for corporations and the wealthy, redistributing resources to support working and middle-class families.
 Push for a progressive tax structure that supports public services such as education, healthcare, and infrastructure.
 Ending Gerrymandering Advocate for non-partisan redistricting committees to ensure fair representation for all Georgians, fighting back against manipulated electoral maps.
-Facebook-f Instagram X-twitter 1.404.804.3643 ChrisForGeorgia103@gmail.com Vote By November 5, 2024 Days Hours Minutes Seconds © # Paid For By chris luchey For House of Representatives – Georgia State District 103 website devloped by sajjat
+Facebook-f Instagram X-twitter 404-804-3643 ChrisForGeorgia103@gmail.com Vote By November 3, 2026 © # Paid For By chris luchey – Democratic Nominee for Georgia House District 103.

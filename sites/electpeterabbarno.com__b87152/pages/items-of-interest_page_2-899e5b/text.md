@@ -1,6 +1,8 @@
 Stronger Families.
 Stronger Communities.
 Stronger Washington ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow News Rep.
+Abbarno delivers welcome address to Washington State Building and Trades Council by Peter Abbarno | Jun 4, 2026 | Uncategorized This week, I had the pleasure of giving opening remarks at the Washington State Building and Construction Trades Council convention in Ridgefield at...
+Rep.
 Abbarno meets with Eagle Scout by Peter Abbarno | Jun 4, 2026 | Uncategorized It was such a great pleasure meeting Gunnar!
 His Eagle-required merit badge required him to conduct an interview with his state representative and I...
 Rep.
@@ -20,6 +22,5 @@ Abbarno visits Centralia High School, highlights career-connected learning oppor
 Peter Abbarno, R-Chehalis, recently spent the day at Centralia High School connecting with students and...
 Abbarno hostes Ridgefield Raptors Fundraiser by Peter Abbarno | Apr 18, 2026 | Uncategorized State Representative Peter Abbarno is hosting a "Night Out at the Ballpark" fundraiser at the Ridgefield Raptors Game on June 2nd.
 Only 50 tickets...
-Accountability and opportunity — getting childcare right in Washington by Peter Abbarno | Apr 18, 2026 | Uncategorized In the Chronicle Recent childcare reports raise serious concerns about Washington state’s handling of funding, with the state auditor questioning...
-Governor Signs Capital Budget: Major Win for Clean Water in Centralia by Peter Abbarno | Apr 3, 2026 | Elect Peter Abbarno I am very pleased to see Governor Bob Ferguson sign the 2026 Capital Budget SB 6003; delivering meaningful investments across Southwest Washington... « Older Entries Next Entries » Stay up to date on the lastest news from Olympia.
+Accountability and opportunity — getting childcare right in Washington by Peter Abbarno | Apr 18, 2026 | Uncategorized In the Chronicle Recent childcare reports raise serious concerns about Washington state’s handling of funding, with the state auditor questioning... « Older Entries Next Entries » Stay up to date on the lastest news from Olympia.
 Get Peter's Newsletter Paid for by the committee to elect Peter Abbarno | Designed by The Silver Agency English Español ( Spanish )

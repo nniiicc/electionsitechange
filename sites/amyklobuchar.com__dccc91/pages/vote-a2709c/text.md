@@ -16,5 +16,5 @@ New to voting?
 No problem!
 Click here to learn about the in-person voting process in four simple steps.
 Meet Amy Meet Ben Priorities Newsroom Yard Signs Store Get Involved Minnesotans for Klobuchar PO Box 4009 St.
-Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
+Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy llms.txt Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
 Paul, MN 55104.

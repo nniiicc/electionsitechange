@@ -17,14 +17,13 @@ Nevada’s largest voting bloc isn’t Republican or Democrat.
 It’s independent .
 It’s time we had a voice in this office too.
 Brad Lee Barnhill is #YourIndependentVoice for Nevada Secretary of State.
-Learn more about Brad Lee Barnhill’s background and experience .
-Make a difference!
-Join the Campaign !
-See more policy position outlines cooked up by Brad Lee Barnhill, #YourIndependentVoice for Nevada Secretary of State.
-I’m not asking you to trust a party on any of this — I’m not part of one.
+I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
+Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
+If not, it’s time to take a closer look.
+Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
 I’m asking you to hold the office accountable for solving real problems.
-That’s the job, and I intend to do it. — Brad Lee Barnhill Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Commentary Policy Positions 3 thoughts on “Twenty Years in Courtrooms, Twenty Years in Systems: Why Nevada’s Next Secretary of State Needs Both” Pingback: Nevada Secretary of State: Barnhill's 20/20 Plan for Reform Pingback: Question 7 Nevada Voter ID: What Comes Next - Nevadans for Barnhill Pingback: Nevada Mail Ballot Tracking: How to Follow Your Ballot Post navigation Previous Previous post: Results, Not Noise: My 20/20 Plan for Nevada Secretary of State Next Next post: Nevada’s Voter Rolls Deserve More Than Slogans — Here’s How I’d Clean Them Up footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Commentary Policy Positions 3 thoughts on “Twenty Years in Courtrooms, Twenty Years in Systems: Why Nevada’s Next Secretary of State Needs Both” Pingback: Nevada Secretary of State: Barnhill's 20/20 Plan for Reform Pingback: Question 7 Nevada Voter ID: What Comes Next - Nevadans for Barnhill Pingback: Nevada Mail Ballot Tracking: How to Follow Your Ballot Post navigation Previous Previous post: Results, Not Noise: My 20/20 Plan for Nevada Secretary of State Next Next post: Nevada’s Voter Rolls Deserve More Than Slogans — Here’s How I’d Clean Them Up footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

@@ -5,7 +5,10 @@ Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
 To learn more about Abdul, visit our about page.
-El-Sayed Campaign Breaks the Mold With Early College Football TV Buy Press Release December 19, 2025 MICHIGAN – Tonight, Abdul El-Sayed’s campaign will become the first in Michigan’s U.S.
+Abdul El-Sayed on Deadly ICE Shooting in Minnesota Press Release January 7, 2026 MICHIGAN – Today, U.S.
+Senate candidate Abdul El-Sayed released the following statement on the ICE shooting that killed a woman in cold blood in the streets Minneapolis, MN: “This is the logical outcome of putting untrained personnel who have … Abdul El-Sayed Closes Out 2025 with Statewide Momentum Press Release December 30, 2025 MICHIGAN – Abdul El-Sayed’s campaign for U.S.
+Senate wraps up 2025 with strong statewide, people-powered momentum.
+Abdul spent the pre-election year meeting Michiganders where they are: standing with striking nurses and autoworkers on the picket line, organizing … El-Sayed Campaign Breaks the Mold With Early College Football TV Buy Press Release December 19, 2025 MICHIGAN – Tonight, Abdul El-Sayed’s campaign will become the first in Michigan’s U.S.
 Senate primary to go up on TV, launching an ad buy during highly-viewed college football bowl games – a savvy move that demonstrates the dynamism … Abdul El-Sayed Earns Key Endorsements from Michigan State Representatives Myers Phillips, Hope, and Neeley Press Release December 11, 2025 DETROIT, MI – Today, U.S.
 Senate candidate Abdul El-Sayed announced the endorsements of three key Michigan State Representatives: Tonya Myers Phillips (District 7, Detroit), Kara Hope (District 74, Lansing and Delhi Township) and Cynthia Neeley (District 70, Flint).
 Their support brings Abdul’s total Statehouse endorsements … ICYMI: Dr.
@@ -25,17 +28,7 @@ Senate in a joint op-ed published in The Detroit News.
 Levin represented Michigan’s 9th Congressional District, encompassing parts of Oakland and Macomb counties, from 2019-2023.
 “The … Abdul El-Sayed Endorses “MOP Up Michigan” and “Invest in MI Kids” Ballot Initiatives Press Release November 13, 2025 ANN ARBOR, MI – Today, U.S.
 Senate candidate Abdul El-Sayed announced support for two statewide ballot initiatives in Michigan.
-MOP (Money Out of Politics) Up Michigan would ban regulated utility monopolies like DTE and Consumers Energy … ICYMI: Rev.
-Horace Sheffield III Endorses Abdul El-Sayed for U.S.
-Senate Press Release November 13, 2025 DETROIT, MI – On Saturday, November 8, U.S Senate candidate Dr.
-Abdul El-Sayed received the endorsement of Detroit political powerhouse and community advocate Rev.
-Horace Sheffield III.
-Rev.
-Sheffield announced his endorsement live on his weekly show “Wake-Up Call”, with Abdul as the guest.
-Following … VIDEO: Abdul El-Sayed Highlights Michigan Coast Guard Veteran, Speaks Out Against VA Layoffs Press Release November 11, 2025 MICHIGAN – This morning, U.S.
-Senate Candidate Dr.
-Abdul E-Sayed released a moving new video honoring Tony Hall, a Coast Guard veteran living in Central Michigan – one of the first responders to the Edmund Fitzgerald tragedy #ago.
-In … « Previous 1 … 23 24 25 26 27 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+MOP (Money Out of Politics) Up Michigan would ban regulated utility monopolies like DTE and Consumers Energy … « Previous 1 … 23 24 25 26 27 Next » Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bluesky Instagram YouTube TikTok Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
 Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
 Senate PO Box 126 St.
 Clair Shores, MI 48080 Paid for by Abdul for U.S.

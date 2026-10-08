@@ -2,6 +2,6 @@
 I’ll give an update on the work we’re doing in committee and at the State House.
 I also hope to hear about your concerns and any ideas you have to improve Vermont.
 Looking forward to seeing you.
-Register Here Previous Previous December 15 The People Vs Big Tech Next Next February 23 Community Zoom Donate Wilmington.
+Register Here Donate Wilmington.
 Whitingham.
 Halifax

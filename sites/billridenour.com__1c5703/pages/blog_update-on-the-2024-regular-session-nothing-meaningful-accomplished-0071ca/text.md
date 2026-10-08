@@ -14,6 +14,6 @@ Unfortunately, the Conservatives in our Legislature are outnumbered.
 Corporatists, RINOs, and Democrats hold a bare majority in the House of Delegates and a larger majority in the Senate.
 Our successes in this session were in stopping insanity, particularly preventing more massive corporate handouts (aka economic subsidies) for Leftist companies, such as Form Energy, but we did not have enough votes to drive an agenda to defend and benefit our great state.
 I will detail more regarding our pathetic Regular Session in a future post.
-Sincerely, Bill Ridenour Delegate, District 100 Amanda Ridenour Previous Previous Door-knocking in Jefferson County Next Next Prohibiting Entry of Illegal Aliens Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Sincerely, Bill Ridenour Delegate, District 100 Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

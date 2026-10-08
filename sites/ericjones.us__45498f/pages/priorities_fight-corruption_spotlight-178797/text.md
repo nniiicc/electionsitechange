@@ -45,4 +45,4 @@ Imagine a democracy where you can see every dollar behind every decision, where 
 That’s a government we can trust again, and the one we owe our kids.
 Let’s turn the lights on.
 All Policies Next Policy Return to Top SOURCES The FEC currently lacks the quorum required to open investigations, enforce campaign finance law, or issue rules: FEC — Notice of Lack of Quorum, April 2026 Background on the FEC’s four-vote quorum requirement and what the agency cannot do without it: Congressional Research Service — “Federal Election Commission: Membership and Policymaking Quorum,” R45160 Enforcement impact of the quorum loss: The Hill — “FEC’s lack of quorum impacts election process and enforcement” Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

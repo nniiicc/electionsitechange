@@ -1,6 +1,18 @@
 [
-"https://elizabethmaier.com/get-involved",
-"https://elizabethmaier.com/home",
-"https://elizabethmaier.com/meet-elizabeth",
-"https://elizabethmaier.com/privacy-policy"
+{
+"text": "Get to Know Elizabeth",
+"href": "https://www.elizabethmaier.com/meet-elizabeth"
+},
+{
+"text": "Join the Campaign",
+"href": "https://www.elizabethmaier.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.elizabethmaier.com/privacy-policy"
+},
+{
+"text": "[image: Maier for Ohio]",
+"href": "https://www.elizabethmaier.com/home"
+}
 ]

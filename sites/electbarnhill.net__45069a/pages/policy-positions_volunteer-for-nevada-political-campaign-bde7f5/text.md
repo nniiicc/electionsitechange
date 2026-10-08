@@ -70,11 +70,15 @@ A steady two-hour shift each week does more good than an ambitious plan that fal
 Tell us when you’re available, what work you prefer, and whether you can help in person, remotely, or both.
 If you bring friends or family along, share the same standard: be informed, be respectful, and focus on the voter in front of you.
 Campaigning should strengthen civic participation, not add to the noise people are already tired of hearing.
-If you want to help elect a Secretary of State who answers to citizens instead of parties, join the campaign , get to know me , or donate .
 Independence isn’t a wasted vote.
 It’s a vote no party owns, and it’s how you can stop being unrepresented .
-Share: Categories: Policy Positions Post navigation Previous Previous post: Secure Ballot Counting in Nevada Starts Here Next Next post: While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
+Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
+If not, it’s time to take a closer look.
+Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
+I’m asking you to hold the office accountable for solving real problems.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Policy Positions Post navigation Previous Previous post: Secure Ballot Counting in Nevada Starts Here Next Next post: While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

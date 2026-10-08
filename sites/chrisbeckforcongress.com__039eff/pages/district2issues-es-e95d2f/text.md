@@ -13,7 +13,7 @@ Cuando falta comida en algunas mesas , todos pagamos Cuando los centros de datos
 Cuando los precios de la gasolina se disparan , bueno… todos —y repito, todos — pagamos.
 Con el tiempo, la gente se marcha.
 Las comunidades se vacían.
-Muchos de los problemas que aquejan a las comunidades rurales se originaron a nivel federal, y es ahí donde deben abordarse; la medida más inmediata consiste en reducir las pérdidas humanas (18 vidas americanas perdidas y más de 600 heridos) y económicas (más de 100.000 millones de dólares) en Irán, así como en controlar los costos del combustible para nuestros agricultores y, francamente, para cualquier persona que conduzca, coma o haga compras.
+Muchos de los problemas que aquejan a las comunidades rurales se originaron a nivel federal, y es ahí donde deben abordarse; la medida más inmediata consiste en reducir las pérdidas humanas (19 vidas americanas perdidas y más de 800 heridos) y económicas (más de 100.000 millones de dólares) en Irán, así como en controlar los costos del combustible para nuestros agricultores y, francamente, para cualquier persona que conduzca, coma o haga compras.
 Incluso si la guerra terminara mañana, podría pasar un año entero antes de que los precios mundiales del petróleo —y los precios que pagamos en las gasolineras— desciendan a los niveles antes del conflicto.
 Algunas estimaciones prevén que podrían transcurrir muchos años.
 El Congreso debe eliminar cuanto antes la ley HR 1 (conocido como Big “Beautiful” Bill) y restituir la enorme cantidad de fondos que quitó de los programas Medicaid y SNAP .

@@ -15,8 +15,7 @@ Richard Pan, Primary Dollars raised in Q4 2025 $# - Ho, Primary Dollars raised i
 Pan has built a broad coalition of support, touting endorsements from national organizations; 314 Action, SEIU, AFSCME, Equality California, American Academy of Pediatrics, CA, Healthcare for Action, Congressional Leaders Judy Chu, Dave Min, Kevin Mullin, Luz Rivas, California State Superintendent Tony Thurmond, and dozens of local leaders and elected officials.
 Dr.
 Richard Pan leads the CA-06 Democratic Primary in every metric and statistical category and is the best positioned candidate to defeat Kevin Kiley in the fall.
-Daisy Stein Previous Previous Politico: ‘I share your outrage’: Democrats woo MAHA moms ahead of the midterms Next Next Dr.
-Richard Pan Statement on Kevin Kiley Entering CA-06 Race ABOUT ‍ ‍ ISSUES ‍ ‍ NEWS ‍ ‍ ENDORSEMENTS ‍ GET INVOLVED ‍ PAID FOR BY Dr.
+Daisy Stein ABOUT ‍ ‍ ISSUES ‍ ‍ NEWS ‍ ‍ ENDORSEMENTS ‍ GET INVOLVED ‍ PAID FOR BY Dr.
 Richard Pan for Congress Prefer to donate by check?
 2701 Del Paso Road, Ste 130-159 Sacramento CA 95835 © Copyright #.
 All Rights Reserved.

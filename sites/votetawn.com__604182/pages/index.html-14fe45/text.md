@@ -1,7 +1,7 @@
 Running for YOU About Issues Events Endorsements Get Involved Endorse Donate T Running for YOU About Issues Events Endorsements Get Involved Endorse Tawn Donate Now T VOTE TAWN Tawn Shawnelle Beliger Republican for Michigan State Senate District 14 Former Northfield Township trustee.
 Lifelong Michigander.
 Common-sense conservative leadership for Washtenaw and Jackson Counties.
-JOIN THE CAMPAIGN Running for YOU | 100+ miles — now every city, township, and village in District 14 See the route Meet Tawn Beliger Tawn Beliger is a lifelong Michigander, proud Republican, and community leader from Northfield Township.
+JOIN THE CAMPAIGN Running for YOU | 127.8 miles — now every city, township, and village in District 14 See the route Meet Tawn Beliger Tawn Beliger is a lifelong Michigander, proud Republican, and community leader from Northfield Township.
 She and her husband Gerry have been married 36 years, and have made Northfield Township their home since 2015.
 She previously served as Northfield Township Trustee from 2016 to 2020.
 Tawn currently serves as Vice-Chair of the Washtenaw County Republican Committee (elected by precinct delegates), sits on the Executive Committee of the 6th Congressional District Republican Committee, and was a delegate to the 2024 Republican National Convention.
@@ -18,9 +18,9 @@ On the route Leg 4 · Public Safety & Crime → Veterans Honor those who served.
 Keep the promises made to the men and women who wore the uniform.
 How she’ll do it She will fight for veterans’ care, opportunity, and respect — and cut the red tape that stands between them and what they were promised.
 On the route Leg 9 · Support Veterans → Freedom Township · Because of People Like You → Family Values Pro-Life • Protect Parental Rights • Faith and Religious Liberty • Fairness for Women and Girls • Defend the Second Amendment How she’ll do it She will protect unborn life and the mothers who choose it, keep parents in charge of their children, defend the right to live out our faith, stand for fairness for women and girls in sports and spaces, and stand with law-abiding gun owners.
-On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Education Excellence Empower parents, expand school choice, and demand accountability.
+On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Napoleon · Patriotism and love of country → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Education Excellence Empower parents, expand school choice, and demand accountability.
 How she’ll do it She will put parents — not bureaucrats — at the center of education, expand school choice, and demand honesty and accountability in the classroom.
-On the route Leg 3 · Parental Rights in Education → Sandstone Township · Taxes and the schools → Health Freedom Medical freedom, informed consent, and parental rights in care — not mandate-first government.
+On the route Leg 3 · Parental Rights in Education → Sandstone Township · Taxes and the schools → Napoleon · Wing Classical Academy → Health Freedom Medical freedom, informed consent, and parental rights in care — not mandate-first government.
 How she’ll do it She will defend informed consent and medical freedom, keep parents in charge of their children’s care, and reject one-size-fits-all health mandates from Lansing.
 On the route Leg 14 · Make Michigan Healthy Again → Economic Freedom Cut regulations, attract jobs, and make Michigan affordable again.
 Reinstate right-to-work so workers — not union bosses or Lansing — decide what’s best for their paycheck.
@@ -33,17 +33,16 @@ How she’ll do it She will push to return those decisions to cities and townshi
 On the route Leg 11 · Rural Strength & Local Control → Henrietta · Taxes & Local Control → Read the full platform on Leg 15 or see the whole route .
 Upcoming Events Come meet Tawn and show your support!
 ONGOING Tawn Running for YOU Tawn is running in every city, township, and village in Senate District 14.
-Latest: Sandstone Township, a 5.4-mile loop through Parma village.
-Neighbors talked about property taxes and the schools.
-Sandstone Township run → See the route → THURSDAY, October 1st Turning Point Action Super Chase — Jackson 11:00 AM Rally and a day of voter outreach with Tawn.
-Bring friends and family.
-Jackson GOP Headquarters 209 E.
-Washington Ave, Suite 320 Jackson, MI 49201 Sign up → MONDAY, October 5th 6th Congressional District Republican Committee Monthly Meeting 5:30 PM – 8:30 PM 5:30 Pizza & Politics 6:30 Meeting Wayne County Fairgrounds 10871 Quirk Rd, Belleville, MI 48111 More Info → WEDNESDAY, October 7th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
+Latest: Napoleon Township, 3 miles on a warm fall day.
+People noticed the flag.
+That evening, a fundraiser for Wing Classical Academy.
+Napoleon Township run → See the route → WEDNESDAY, October 7th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
 Meet at Jackson GOP Headquarters 209 E.
 Washington Ave, Suite 320 Jackson, MI 49201 THURSDAY, October 8th Washtenaw GOP Monthly Meeting 6:00 PM Pizza & Politics 7:00 PM – 9:00 PM Meeting Monthly Pizza Plus & Politics, then the general meeting.
 Tawn serves as Vice Chair.
 Washtenaw GOP Headquarters 3025 Boardwalk Dr, Suite 90 Ann Arbor, MI 48108 Washtenaw GOP → TUESDAY, October 13th Turning Point Action Super Chase — Washtenaw 11:00 AM Ballot-chasing rally and voter outreach with Heather Smiley and Tawn Beliger.
-Washtenaw GOP Headquarters 3025 Boardwalk Dr, Suite 90 Ann Arbor, MI 48108 RSVP → FRIDAY, October 16th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
+Washtenaw GOP Headquarters 3025 Boardwalk Dr, Suite 90 Ann Arbor, MI 48108 RSVP → TUESDAY, October 13th Tawn Beliger Meet & Greet 6:00 PM – 8:00 PM Come meet Tawn, ask a question, and bring a neighbor.
+Dexter’s Pub 8114 Main St Dexter, MI 48130 FRIDAY, October 16th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
 Meet at Jackson GOP Headquarters 209 E.
 Washington Ave, Suite 320 Jackson, MI 49201 FRIDAY, October 23rd Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
 Meet at Jackson GOP Headquarters 209 E.
@@ -105,6 +104,8 @@ A great work ethic.
 Tawn will be a true fighter for Michigan's families, farms, and businesses.
 Edward McCall Chair of the 6th Congressional District Republican Committee Tawn is a great human being who will fight for you with calm but relentless energy in Lansing.
 Please give her your support this year!
+SK Sebastian Krage Endorsement I am proud to endorse Tawn Beliger for State Senator.
+She will return common sense to Lansing and fight for our individual liberties, just as our founders intended!
 Neighbors for Tawn Family, friends, and neighbors — tap to read their endorsements Joe Farkas Precinct Delegate I have worked with Tawn on different political efforts over the last 16 years.
 I know her to be a hardworking, principled, faith-based conservative.
 Her passion for fighting for what’s right makes her a person we can trust.

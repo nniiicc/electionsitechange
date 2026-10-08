@@ -1,9 +1,5 @@
 [
 {
-"text": "#YourIndependentVoice",
-"href": "https://x.com/electbarnhill"
-},
-{
 "text": "702-613-2576",
 "href": "tel:%20702-613-2576"
 },
@@ -34,10 +30,6 @@
 {
 "text": "Blog",
 "href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
-"text": "Brad Lee Barnhill’s background and experience",
-"href": "https://electbarnhill.net/about/about-brad/"
 },
 {
 "text": "Commentary",
@@ -72,6 +64,10 @@
 "href": "https://electbarnhill.net/events/"
 },
 {
+"text": "Get to know me",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
 "text": "Home",
 "href": "https://electbarnhill.net/"
 },
@@ -84,8 +80,12 @@
 "href": "https://electbarnhill.net/promise-kept/"
 },
 {
-"text": "Join the Campaign",
+"text": "Join the campaign",
 "href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "Nevada Voter ID and Question 7 | Brad Barnhill",
+"href": "https://electbarnhill.net/commentary/declare-your-independence/"
 },
 {
 "text": "Nevada Voter Roll Cross-Checks: Barnhill's Plan vs. Aguilar's Approach",
@@ -130,6 +130,10 @@
 {
 "text": "Secure Ballot Counting in Nevada Starts Here",
 "href": "https://electbarnhill.net/policy-positions/secure-ballot-counting-nevada/"
+},
+{
+"text": "See all policy positions",
+"href": "https://electbarnhill.net/policy-positions/"
 },
 {
 "text": "VW Themes",
@@ -230,10 +234,6 @@
 {
 "text": "here",
 "href": "https://electbarnhill.net/policy-positions/twenty-years-courtrooms-twenty-years-systems-nevada-secretary-of-state/"
-},
-{
-"text": "policy position outlines",
-"href": "https://electbarnhill.net/policy-positions/"
 },
 {
 "text": "srcoll arrow",

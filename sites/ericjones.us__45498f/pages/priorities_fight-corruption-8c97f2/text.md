@@ -17,4 +17,4 @@ Independent redistricting commissions in every state — California included , b
 Change who government answers to, and everything else becomes possible.
 Read about Eric’s plan to Lower the Cost of Living !
 Join the Fight Contribute Return to Top of Page Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

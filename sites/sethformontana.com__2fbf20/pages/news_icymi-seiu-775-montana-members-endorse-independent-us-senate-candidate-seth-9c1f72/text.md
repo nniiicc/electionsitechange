@@ -17,7 +17,7 @@ Senate Race ICYMI “We are gaining momentum”: Independent Seth Bodnar on CNN'
 Senate in Montana PRESS RELEASE Veterans for All Voters Action Endorses Independent Seth Bodnar for U.S.
 Senate in Montana icymi Independent Seth Bodnar on CNN: "The Question We Should Be Asking Isn't What's Good for Republicans or Democrats.
 It's What's Good for the Country." PRESS RELEASE Former Montana Governor Steve Bullock Endorses Independent Candidate Seth Bodnar for U.S.
-Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” Aug 6 2026 PRESS RELEASE ICYMI: SEIU 775 Montana Members Endorse Independent U.S.
+Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” ICYMI Kurt Alme Says “We can't vote to limit the use of force in the Gulf,” Doubles Down on His Support of the Costly and Unauthorized War in Iran ICYMI Former NARAL Head Calls Out Alani Bankhead for Lying About Reproductive Freedom Record Aug 6 2026 PRESS RELEASE ICYMI: SEIU 775 Montana Members Endorse Independent U.S.
 Senate Candidate Seth Bodnar MISSOULA, MT — SEIU 775 , which represents more than 60,000 long-term care workers providing quality home care, nursing home care, and residential services in Washington, Montana, and Alaska, has endorsed Independent Seth Bodnar for U.S.
 Senate in Montana.
 “Care workers show up for Montanans and our families every single day, and it’s long past time Washington showed up for them,” said Bodnar.

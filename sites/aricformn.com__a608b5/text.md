@@ -6,8 +6,7 @@ Cloud region since January 2021.
 I’ve been a teacher for more than twenty-five years.
 My wife Laurie runs the 742 school district, and our kids grew up here.
 I got into this because some of our legislators didn’t work very hard to talk with us, and I thought we deserved better than that.
-More about Aric → Get involved Events & volunteering → Upcoming events Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue In the news More → October 1, 2026 KWLM: “Senate DFLers want Walz to allow Red Dye Diesel use on MN roads” October 1, 2026 Minnesota News Network: “Minnesota Senators Pushing Governor for Diesel Fuel Tax Relief” September 30, 2026 KNSI: “Senator Putnam Calls for Diesel Tax Holiday for Farmers” July 31, 2026 St.
-Cloud Live: “Putnam named to commission to identify candidates for Inspector General” June 19, 2026 St.
-Cloud Times: “St.
-Cloud gets $12.4 million for city improvements” PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+More about Aric → Get involved Events & volunteering → Upcoming events Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue In the news More → October 6, 2026 KNSI: “Putnam Hears Senior Care Concerns at St.
+Cloud Roundtable” October 1, 2026 KWLM: “Senate DFLers want Walz to allow Red Dye Diesel use on MN roads” October 1, 2026 Minnesota News Network: “Minnesota Senators Pushing Governor for Diesel Fuel Tax Relief” September 30, 2026 KNSI: “Senator Putnam Calls for Diesel Tax Holiday for Farmers” July 31, 2026 St.
+Cloud Live: “Putnam named to commission to identify candidates for Inspector General” PO Box 5012 St.
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

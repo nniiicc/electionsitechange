@@ -20,10 +20,11 @@ Remove confirmed ineligible registrations according to law.
 Report the results publicly.
 Accurate voter rolls and protecting eligible voters are not competing objectives.
 A good system should do both.
-Tags: Election Integrity Nebraska Elections Citizenship Verification Voter Rolls SAVE Recent Posts See All Protecting Nebraska’s Most Vulnerable Voters: Their Vote.
+Tags: Election Integrity Nebraska Elections Citizenship Verification Voter Rolls SAVE Recent Posts See All Who Has Access to Nebraska's Election Systems?
+Recent federal election-security developments raise an important question for Nebraska: who has privileged access to our election systems, voter data and infrastructure—and how is that access controll Protecting Nebraska’s Most Vulnerable Voters: Their Vote.
 Their Choice.
 Every eligible Nebraskan deserves the opportunity to vote—and the assurance that the choice reflected on their ballot is truly their own.
 Here’s what families should know about protecting the rights a CISA’s 2026 Election Infrastructure Security Plan Is a Warning, Not a Reassurance CISA’s 2026 Election Infrastructure Security Plan identifies vulnerabilities involving voter-registration databases, election software, vendors and insider access.
-Scott Petersen explains why Nebraska The Election Integrity Spotlight is on Nebraska's Republican Primary for Secretary of State Scott Petersen acknowledges the growing national movement for election transparency and thanks the cybersecurity experts, data analysts, poll watchers, attorneys, and grassroots activists closely watc RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
+Scott Petersen explains why Nebraska RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
 All Rights Reserved.
 Paid for by Scott Petersen for Nebraska | 4121 S 87th Street, Omaha, NE 68127 DONATE REQUEST SIGN bottom of page

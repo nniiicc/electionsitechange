@@ -3,24 +3,28 @@ Serving Idaho. " * " indicates required fields First Name * Email * GFI Tracking
 Meet Jim Risch Jim Risch is currently serving a second term in the U.S.
 Senate from Idaho.
 Known for “pragmatic decision-making,” his peers call him a “no-nonsense, get-the-job-done leader.” He has been recognized by the National Journal as the “Most Conservative” Senator in the United States Senate.
-Read More Latest from X Jim Risch for US Senate Follow 611 2,069 Husband, father, grandfather, Idahoan.
+Read More Latest from X Jim Risch for US Senate Follow 623 2,078 Husband, father, grandfather, Idahoan.
 Official account for the Jim Risch for U.S.
 Senate Campaign.
-Jim Risch for US Senate @Risch4Idaho · 8h 2105417535164391490 Thank you, Rep.
-Brandon Mitchell!
+Jim Risch for US Senate @Risch4Idaho · 6 Oct 2107536670522490979 Great food, even better company!
+Fantastic turnout in Meridian last night, huge thank you to everyone who came out to talk about how we keep fighting for Idaho values.
+Appreciate all your support!
+Twitter feed image.
+Twitter feed image.
+Twitter feed image.
+Reply on Twitter 2107536670522490979 6 Retweet on Twitter 2107536670522490979 4 Like on Twitter 2107536670522490979 17 X 2107536670522490979 Jim Risch for US Senate @Risch4Idaho · 6 Oct 2107476941679042866 Thank you, Attorney General Raúl Labrador!
 Grateful for another endorsement of my work fighting for Idaho values.
 Twitter feed image.
-Reply on Twitter 2105417535164391490 Retweet on Twitter 2105417535164391490 0 Like on Twitter 2105417535164391490 2 X 2105417535164391490 Jim Risch for US Senate @Risch4Idaho · 30 Sep 2105091919181500753 Thank you, Rep.
-Jaron Crane!
+Reply on Twitter 2107476941679042866 Retweet on Twitter 2107476941679042866 1 Like on Twitter 2107476941679042866 8 X 2107476941679042866 Jim Risch for US Senate @Risch4Idaho · 6 Oct 2107270520744071504 Thank you, Brent Reinke!
 Grateful for another endorsement of my work fighting for Idaho values.
 Twitter feed image.
-Reply on Twitter 2105091919181500753 1 Retweet on Twitter 2105091919181500753 0 Like on Twitter 2105091919181500753 3 X 2105091919181500753 Retweet on Twitter Jim Risch for US Senate Retweeted Idaho GOP @IdahoGOP · 29 Sep 2104971446070268321 Vote Risch!
-Reply on Twitter 2104971446070268321 19 Retweet on Twitter 2104971446070268321 6 Like on Twitter 2104971446070268321 43 X 2104971446070268321 Jim Risch for US Senate @Risch4Idaho · 29 Sep 2104934814533222623 I am proud to receive the endorsement of @GunOwners of America.
-My support for the Second Amendment is not new -- I've fought to protect Idahoans' constitutional rights from the first day of my career and it will always be a top priority.
-Twitter feed image.
-Reply on Twitter 2104934814533222623 10 Retweet on Twitter 2104934814533222623 5 Like on Twitter 2104934814533222623 25 X 2104934814533222623 Jim Risch for US Senate @Risch4Idaho · 28 Sep 2104708189912736148 Thank you, Rep.
-Barbara Ehardt!
+Reply on Twitter 2107270520744071504 Retweet on Twitter 2107270520744071504 0 Like on Twitter 2107270520744071504 3 X 2107270520744071504 Jim Risch for US Senate @Risch4Idaho · 4 Oct 2106883807689474060 Thank you, Rep.
+Bruce Skaug!
 Grateful for another endorsement of my work fighting for Idaho values.
 Twitter feed image.
-Reply on Twitter 2104708189912736148 Retweet on Twitter 2104708189912736148 1 Like on Twitter 2104708189912736148 8 X 2104708189912736148 Load More Help Defend Idaho Values DONATE NOW 208-506-5500 [email protected] For all media related inquiries please contact [email protected] PAID FOR BY JIM RISCH FOR U.S.
+Reply on Twitter 2106883807689474060 2 Retweet on Twitter 2106883807689474060 0 Like on Twitter 2106883807689474060 5 X 2106883807689474060 Jim Risch for US Senate @Risch4Idaho · 4 Oct 2106854659336073285 Beautiful night in Canyon County with great friends and supporters!
+Twitter feed image.
+Twitter feed image.
+Twitter feed image.
+Reply on Twitter 2106854659336073285 5 Retweet on Twitter 2106854659336073285 2 Like on Twitter 2106854659336073285 17 X 2106854659336073285 Load More Help Defend Idaho Values DONATE NOW 208-506-5500 [email protected] For all media related inquiries please contact [email protected] PAID FOR BY JIM RISCH FOR U.S.
 SENATE COMMITTEE Privacy Policy NEW POLL READ MORE >

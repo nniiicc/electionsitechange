@@ -56,9 +56,10 @@ Knox has noticed twice as many offers on homes this year.
 Schools: Perrywood Elementary, Kettering Middle and Largo High.
 Transit: Perrywood is a 10- to 15-minute drive from the Largo Town Center Metro station.
 The Prince George’s County Transit System offers bus service along Largo Road.
-Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like Condo Buildings Are at Risk.
+Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias July 10, 2022 The Maryland House of Delegates November 6, 2020 Condo Buildings Are at Risk.
 So Is All Real Estate.
-July 10, 2021 Pepco Reminds Customers of Important Programs and Assistance Available to Aid Those Who Are Behind on Their Energy Bills January 14, 2021 The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+July 10, 2021 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
 Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments What’s Your Home Worth?
 A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments By Authority: Friends of Marvin E.
 Holmes, Jr.

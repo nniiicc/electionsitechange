@@ -20,7 +20,7 @@ He is running on a platform of getting tough on immigration, improving the econo
 You can learn more about him here .
 Don Pridemore , 77, a former legislator, is also running.
 Paid for by Jim for Wisconsin.
-Post navigation Previous post: Prev Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly April 30, 2024 Next post: Next Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly May 3, 2024 You May Also Like Posted July 29, 2024 in News DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS Posted March 11, 2024 in Endorsements , News , ticker Washington County Exec Josh Schoemann Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly April 30, 2024 Next post: Next Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly May 3, 2024 You May Also Like Posted August 6, 2024 in Endorsements , News , ticker VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY Posted November 4, 2024 in Endorsements , News , ticker Milwaukee Police Association Endorses Jim Piwowarczyk for State Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

@@ -4,8 +4,16 @@
 "href": "https://vickidavisny121.com/calendar/list/"
 },
 {
+"text": "Conklin Meet & Greet",
+"href": "https://vickidavisny121.com/event/conklin-meet-greet/"
+},
+{
 "text": "Contact",
 "href": "https://vickidavisny121.com/contact/"
+},
+{
+"text": "Deposit Chamber of Commerce Octoberfest",
+"href": "https://vickidavisny121.com/event/deposit-chamber-of-commerce-octoberfest/"
 },
 {
 "text": "Donate Now",
@@ -20,16 +28,32 @@
 "href": "https://vickidavisny121.com/events/"
 },
 {
-"text": "Greene Apple Fest",
-"href": "https://vickidavisny121.com/event/greene-apple-fest/"
+"text": "Export .ics file",
+"href": "https://vickidavisny121.com/calendar/list/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://vickidavisny121.com/calendar/list/?outlook-ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvickidavisny121.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
 },
 {
 "text": "List",
 "href": "https://vickidavisny121.com/calendar/list/"
 },
 {
+"text": "Madison County NY Democratic Committee Special Event",
+"href": "https://vickidavisny121.com/event/madison-county-ny-democratic-committee-special-event/"
+},
+{
 "text": "Map of NY121",
 "href": "https://vickidavisny121.com/map-of-ny-assembly-district-121/"
+},
+{
+"text": "Meet the Candidates – Gilbertsville",
+"href": "https://vickidavisny121.com/event/meet-the-candidates-gilbertsville/"
 },
 {
 "text": "Month",
@@ -40,16 +64,20 @@
 "href": "https://vickidavisny121.com/news/"
 },
 {
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvickidavisny121.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vicki+Davis+for+NY+Assembly+121+Events+%7C+Vicki+Davis+for+NY+Assembly+121"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvickidavisny121.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vicki+Davis+for+NY+Assembly+121+Events+%7C+Vicki+Davis+for+NY+Assembly+121"
+},
+{
 "text": "Platform",
 "href": "https://vickidavisny121.com/platform/"
 },
 {
-"text": "South New Berlin House Party",
-"href": "https://vickidavisny121.com/event/south-new-berlin-house-party/"
-},
-{
-"text": "Unadilla House Party",
-"href": "https://vickidavisny121.com/event/unadilla-house-party/"
+"text": "Previous Events",
+"href": "https://vickidavisny121.com/calendar/list/?eventDisplay=past"
 },
 {
 "text": "Vicki Davis for NY Assembly 121",
@@ -58,6 +86,10 @@
 {
 "text": "Volunteer",
 "href": "https://vickidavisny121.com/contact/"
+},
+{
+"text": "Winsor Acres Halloween Touch-a-Truck and Trunk or Treat",
+"href": "https://vickidavisny121.com/event/winsor-acres-halloween-touch-a-truck-and-trunk-or-treat/"
 },
 {
 "text": "[no text]",
@@ -70,5 +102,9 @@
 {
 "text": "[tooltip: Previous Events]",
 "href": "https://vickidavisny121.com/calendar/list/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vickidavisny121.com/?post_type=tribe_events&ical=1&eventDisplay=list"
 }
 ]

@@ -21,8 +21,8 @@ Shelley will: Push for stormwater upgrades and flood-mitigation funding Preserve
 In Annapolis, she will: Fight for funding to address mold, bacteria, and unsafe living conditions Strengthen support for both tenants and responsible landlords Increase state oversight and accountability for delayed permits Repurpose vacant or neglected properties into safe homes  Stronger Schools & Opportunities for Youth Our children deserve the best.
 Shelley will: Advocate for equitable school funding across Eastern Shore counties Expand after-school programs, community centers, and youth jobs Support teachers, staff, and mental health resources Strengthen partnerships between schools, nonprofits, and families  Protecting Our Seniors Shelley is committed to honoring and protecting elders in the community.
 She will: Fight for better senior housing and aging-in-place support Improve access to healthcare and transportation Support caregivers and community programs for older adults Ensure safe, respectful living conditions for every elder Ready to take the next step and support Shelley?
-Join the Movement Donate Fuel a grassroots, people-first campaign Volunteer Name Email Address 5 + 4 = Sign me up!
-Get Updates Name Email Address 7 + 3 = Sign me up!
+Join the Movement Donate Fuel a grassroots, people-first campaign Volunteer Name Email Address 14 + 10 = Sign me up!
+Get Updates Name Email Address 10 + 12 = Sign me up!
 Let’s Get Out and Vote!
 Election Day | November 3rd Day(s) : Hour(s) : Minute(s) : Second(s) Donate to my Campaign!
 Upcoming Events Crisfield Hard Crab Derby Parade Hosted by Crisfield Chamber of Commerce More info Saturday, Sept 5th Parade starts at 11 am on Main Street Deal Island Skipjack Festival Hosted by Deal Island-Chance Lions Club More info Sunday, Sept 6th See the parade, car show, DJ & live music!

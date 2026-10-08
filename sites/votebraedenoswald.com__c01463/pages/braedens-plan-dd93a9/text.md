@@ -12,4 +12,4 @@ Prioritize public safety and family support programs—practical steps to keep o
 Braeden's Initiative Manage Growth Responsibly and Protect Our State Back smart infrastructure for public transit, roads, and water systems to handle urban growth without straining taxpayers.
 Champion air quality measures and conservation efforts for the Great Salt Lake to enhance quality of life.
 Focus on sustainable, common-sense policies that benefit families, businesses, and future generations in our vibrant city.
-Braeden's Initiative Visit Braeden https://ivoterguide.com/candidate/91616/race/33756/election/1486 Navigation Home About Braeden Braeden’s Plan Contact Volunteer Donate Site Information Copyright # All rights reserved Paid for by the Braeden Oswald Campaign Committee
+Braeden's Initiative Visit Braeden https://ivoterguide.com/candidate/91616/race/33756/election/1486 https://ballotpedia.org/Braeden_Oswald Navigation Home About Braeden Braeden’s Plan Contact Volunteer Donate Site Information Copyright # All rights reserved Paid for by the Braeden Oswald Campaign Committee

@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News More than 200 people attend 200th birthday party It is not every day there is a chance to commemorate a 200th birthday, so residents of Franklin County packed the A.W.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News More than 200 people attend 200th birthday party It is not every day there is a chance to commemorate a 200th birthday, so residents of Franklin County packed the A.W.
 Todd Center Thursday night to celebrate the state of Alabama, Franklin County and Russellville city turning 200 years old.
 More than 200 people attend 200th birthday party Continue Reading Officials plant tree, kick off beautification project at Northwest-Shoals Officials from Northwest-Shoals Community College and Alabama Power, along with State Rep.
 Jamie Kiel at Tuesday’s Good Roots tree planting ceremony on the college’s Phil Campbell campus.

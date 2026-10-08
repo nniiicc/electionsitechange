@@ -17,7 +17,7 @@ Senate Race ICYMI “We are gaining momentum”: Independent Seth Bodnar on CNN'
 Senate in Montana PRESS RELEASE Veterans for All Voters Action Endorses Independent Seth Bodnar for U.S.
 Senate in Montana icymi Independent Seth Bodnar on CNN: "The Question We Should Be Asking Isn't What's Good for Republicans or Democrats.
 It's What's Good for the Country." PRESS RELEASE Former Montana Governor Steve Bullock Endorses Independent Candidate Seth Bodnar for U.S.
-Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” May 1 2026 LISTEN Montana Public Radio, Q&A: Seth Bodnar, independent U.S.
+Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” ICYMI Kurt Alme Says “We can't vote to limit the use of force in the Gulf,” Doubles Down on His Support of the Costly and Unauthorized War in Iran ICYMI Former NARAL Head Calls Out Alani Bankhead for Lying About Reproductive Freedom Record May 1 2026 LISTEN Montana Public Radio, Q&A: Seth Bodnar, independent U.S.
 Senate candidate Missoula, MT— Independent candidate for U.S.
 Senate Seth Bodnar today announced that county officials across Montana have accepted more than 20,000 signatures of the nearly 30,000 collected by the Bodnar campaign and submitted them to the Montana Secretary of State’s office.
 In order for Bodnar to be officially qualified for the November General Election ballot, the Secretary of State must now validate more than the required 13,237 signatures.

@@ -1,4 +1,4 @@
-Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT All Press Print Jackie Auringer for Congress Kingston, New York • winwithjackie.com For Immediate Release September 30, 2026 Media Contact Jackie Auringer for Congress info@winwithjackie.com Auringer Files for D.C.
+Skip to main content Home About Jackie Events Gallery Volunteer News & Press Track AIPAT DONATE CONTACT All Press Print Jackie Auringer for Congress Kingston, New York • winwithjackie.com For Immediate Release September 30, 2026 Media Contact Jackie Auringer for Congress info@winwithjackie.com Auringer Files for D.C.
 Public Schools to Conduct Residency Investigation of Ryan Ryan abandoned NY schools; does he pay his fair share anywhere?
 KINGSTON, NY - September 30, 2026 - Congressional candidate Jackie Auringer today filed a request for D.C. education officials to investigate whether Congressman Pat Ryan or another member of his household claimed D.C. residency in connection with tuition-free public school enrollment.
 Auringer sent a letter to the D.C.
@@ -28,7 +28,7 @@ I respectfully request that OSSE investigate the residency under which Congressm
 Please confirm receipt of this request and whether it has been referred for investigation.
 Sincerely, Jackie Auringer cc: Office of Congressional Conduct House Committee on Ethics ### About Jackie Auringer for Congress Jackie Auringer is running for Congress because the community she grew up in deserves a stronger voice in Washington, focused on restoring affordability, strengthening local economies, and fighting for the families and small businesses that make the Hudson Valley thrive.
 Paid for by Jackie Auringer for Congress .
-Contact Press Team Share on X Share on Facebook Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Contact Press Team Share on X Share on Facebook Campaign About Jackie Gallery News & Press Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
 Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
 All rights reserved.
 I consent to receive SMS text message updates from Jackie Auringer for Congress By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Jackie Auringer for Congress.

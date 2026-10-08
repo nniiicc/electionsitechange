@@ -1,7 +1,11 @@
 0 Skip to Content Amanda Fontana’s Plan Endorsements DONATE Open Menu Close Menu Amanda Fontana’s Plan Endorsements DONATE Open Menu Close Menu Amanda Fontana’s Plan Endorsements DONATE AMANDA FONTANA’S PLAN: Tax Relief & Strong Public Schools Ohio families shouldn't be taxed out of their homes, and our children shouldn't be shortchanged in their classrooms.
 We do not have to choose between lower taxes and great public schools.
 As your Representative, I will introduce two specific bills to lower your property taxes, fully fund our public schools, and protect our first responders, without raising a single cent in new taxes.
-BILL 1: The Property Tax Stabilization Act The #% "Circuit Breaker" Cap: No primary homeowner will pay more than #% of their household income toward property taxes.
+Lowering the Cost of Childcare Real affordability means tackling the skyrocketing costs crushing our families.
+Current legislation in Columbus (House Bill 2) shifts a massive 40% cost burden onto working families and an identical 40% mandate onto local businesses, while capping state support at a mere 20%.
+As your State Representative, my priority is to rebalance this math.
+I am championing a framework that seeks to utilize existing state budget surpluses and federal grants to cap out-of-pocket costs for parents and protect our local small businesses.
+See the table below: BILL 1: The Property Tax Stabilization Act The #% "Circuit Breaker" Cap: No primary homeowner will pay more than #% of their household income toward property taxes.
 If inflation drives your bill over that cap, the state sends you a rebate check for the difference.
 Doubling the Senior Exemption: We will double the property tax Homestead Exemption from $25,000 to $50,000 for seniors, disabled, veterans, and qualifying Ohioans.
 The Working-Family Credit: A brand new $15,000 property tax exemption for primary homeowners making under $100,000.

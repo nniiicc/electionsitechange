@@ -16,9 +16,9 @@ I look forward to hearing from you. – Sharon Cooper DISTRICT 45 INFORMATION Re
 Genuine Leadership.
 Genuine Caring.
 Genuinely Effective.
-Facebook Posts Sharon Cooper #ago More from the East Cobber Parade…this year was again so much fun being surrounded by the best friends and neighbors!
-East Cobb is a wonderful place to live and raise a family and I am grateful to represent this area of our great state.
-Thank you! 🇺🇸 ...
+Facebook Posts Sharon Cooper #ago I am excited to have had the opportunity to read to the children again for the 16th Annual Georgia Pre-K week October 5-9, 2026.
+This event is more than an opportunity to read to children; it is a chance for state leaders to hear from teachers and community partners about the value of early education.
+Cora Bear joined me in the classroom! 🐻 ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Let’s Stay in Touch!
 Leave this field empty if you're human: Paid for by Sharon Cooper for State House Back To Top Sharon Cooper for State House About Priorities Contact Donate Resources © # Sharon Cooper for State House.
 All Rights Reserved.

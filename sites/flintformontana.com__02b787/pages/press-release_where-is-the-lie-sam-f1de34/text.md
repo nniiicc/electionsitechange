@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate Where is the lie, Sam?
+Home About Issues News Get Involved Contact Store Media Donate Where is the lie, Sam?
 Press Release September 23, 2026 Kalispell, MT – Today, lobbyist and former part-time smokejumper Sam Forstag launched a new ad campaign called “Pure Lies,” where his campaign repeats tired tropes such as don’t believe the nonsense and lies.
 The ad was a real head scratcher because the Forstag campaign failed to actually call out any lies.
 The Flint campaign launched an aggressive attack exposing lobbyist Sam Forstag’s record of lobbying for the most extreme liberal positions.

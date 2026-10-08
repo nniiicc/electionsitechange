@@ -72,10 +72,11 @@ We already have the physical evidence necessary to verify our results.
 Let's use it.
 Nebraska elections must remain Nebraska’s responsibility.
 That is the responsibility of the Secretary of State, and it is one I intend to take seriously.
-Tags: Election Integrity Nebraska Elections Election Security Cybersecurity Secretary of State Paper Ballots Voter Rools CISA Election Infrastructure Recent Posts See All What Kansas's SAVE Law Can Teach Nebraska Kansas has adopted a new approach to citizenship verification and voter-list maintenance using the federal SAVE system.
+Tags: Election Integrity Nebraska Elections Election Security Cybersecurity Secretary of State CISA Paper Ballots Voter Rools Election Infrastructure Recent Posts See All Who Has Access to Nebraska's Election Systems?
+Recent federal election-security developments raise an important question for Nebraska: who has privileged access to our election systems, voter data and infrastructure—and how is that access controll What Kansas's SAVE Law Can Teach Nebraska Kansas has adopted a new approach to citizenship verification and voter-list maintenance using the federal SAVE system.
 Scott Petersen examines what Nebraska can learn from its neighboring state while Protecting Nebraska’s Most Vulnerable Voters: Their Vote.
 Their Choice.
 Every eligible Nebraskan deserves the opportunity to vote—and the assurance that the choice reflected on their ballot is truly their own.
-Here’s what families should know about protecting the rights a The Election Integrity Spotlight is on Nebraska's Republican Primary for Secretary of State Scott Petersen acknowledges the growing national movement for election transparency and thanks the cybersecurity experts, data analysts, poll watchers, attorneys, and grassroots activists closely watc RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
+Here’s what families should know about protecting the rights a RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
 All Rights Reserved.
 Paid for by Scott Petersen for Nebraska | 4121 S 87th Street, Omaha, NE 68127 DONATE REQUEST SIGN bottom of page

@@ -1,6 +1,6 @@
-Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes More Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes More Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
 Mail Boxes Oregon's On Fire.
 But this is nothing new for Oregon summers Oregon timber harvesting/sales down sharply - boosting timber sales could raise firefighting monies Randal O'Toole, who up until recently worked for the CATO Institute and previously represented environmental groups opposing U.S Forest policies as a researcher, writes that Oregon is naturally situated in a wildfire plain.
 There is not a lot we can do to avoid wildfires and forest fires in Oregon and the Pacific Northwest.

@@ -1,4 +1,18 @@
-Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate Press Releases September 23, 2026 – XI VAN FLEET ENDORSES LILY TANG WILLIAMS FOR CONGRESS WEARE, N.H. — Xi Van Fleet, author and outspoken critic of communism, endorsed Lily Tang Williams for Congress, citing their shared experience growing up in Chengdu, China, during Mao’s Cultural Revolution.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate Press Releases October 7, 2026 – LILY TANG WILLIAMS HITS THE AIRWAVES WITH NEW ADS AS CAMPAIGN ENTERS HOME STRETCH WEARE, N.H. — Lily Tang Williams is taking her message directly to Granite Staters’ TVs and devices, launching two new ads that sharpen her home-stretch contrast with Maggie Goodlander and the Washington establishment on affordability, freedom, and the American Dream.
+The first spot, Make the American Dream Affordable , tells Lily’s story of growing up under Mao’s communist regime and coming to America in search of freedom and opportunity.
+Against stark images of communist China and Lily’s life today, the ad warns against collectivism and promises Lily will fight for a more affordable life for Granite Staters.
+“I lived under communism.
+I saw firsthand where it leads: poverty, despair and the loss of individual freedom,” said Williams.
+“I came to America because here, hard work and freedom give people the opportunity to build a better life.
+I will fight to make sure we never lose that American Dream.” The second spot, Complaints Department , takes aim at the affordability crisis.
+Lily sits behind a literal complaints desk as the ad highlights rising healthcare costs and Washington’s failure to deliver relief — closing with a simple message: “NEW HAMPSHIRE CAN’T AFFORD MORE GOODLANDER.” VIEW THE ADS HERE: Make the American Dream Affordable Complaints Department “Granite Staters have one big complaint: life costs too much,” said Williams.
+“Maggie Goodlander and the Washington establishment aren’t fixing it.
+New Hampshire can’t afford more of the same.” The six-figure broadcast and digital push marks a major home-stretch escalation for Williams, taking her campaign’s defining message — freedom, affordability, and preserving the American Dream — directly to voters across the district.
+About Lily Tang Williams Born in China just before Mao’s Cultural Revolution to working-class parents, Lily Tang Williams immigrated to the United States with nothing and built a life as an entrepreneur, educator, and community leader in Weare, NH.
+A living embodiment of the American Dream, she brings a uniquely powerful perspective to the fight for freedom and limited government.
+In 2024, Williams won the Republican nomination and captured 47% of the general election vote against current incumbent Maggie Goodlander — coming closer than any Republican has in more than a decade to flipping NH-02.
+She is back and running stronger than ever in 2026.
+### September 23, 2026 – XI VAN FLEET ENDORSES LILY TANG WILLIAMS FOR CONGRESS WEARE, N.H. — Xi Van Fleet, author and outspoken critic of communism, endorsed Lily Tang Williams for Congress, citing their shared experience growing up in Chengdu, China, during Mao’s Cultural Revolution.
 The endorsement comes as President Trump hosts Chinese President Xi Jinping in Washington today for a historic state visit.
 “My friend Lily Tang Williams and I are both from Chengdu, China.
 We each lived through the horrors of communism and Mao’s Cultural Revolution,” said Van Fleet.

@@ -1,7 +1,7 @@
 Support Rashida Tlaib for U.S.
 Congress We need Rashida’s bold, transformative leadership in Congress.
 Can you chip in to keep her in office fighting for us? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI primary How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Human Rights Around the World Rashida is leading a massive shift in Congress to end oppression everywhere and put a stop to forever wars.
+Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI general How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Human Rights Around the World Rashida is leading a massive shift in Congress to end oppression everywhere and put a stop to forever wars.
 As the only Palestinian-American in Congress and one of the first Muslim women in Congress, Rep.
 Rashida Tlaib is leading a massive shift in Congress in support of all human rights.
 Rashida has led policies in Congress to raise awareness about and to end U.S. support for the Israeli government’s apartheid, occupation, genocide, and ethnic cleansing of Palestinians.
@@ -33,5 +33,5 @@ Raised $# in 2023 for Adalah Justice Project, a Palestinian-led advocacy organiz
 Priorities Economic and Housing Justice Racial and Immigration Justice Environmental Justice Quality Healthcare For All Gender Justice & LGBTQI+ Rights Human Rights Around the World Join Our Campaign Sign up for email updates so you can stay in the loop.
 Chip In Rashida does not take any money from corporate PACs.
 Every donation makes a big difference. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI primary Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
+Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI general Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
 Box 32777 Detroit, MI 48232 Paid for by Rashida Tlaib for Congress Contact Privacy Policy Terms of Service Made with Middle Seat

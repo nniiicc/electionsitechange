@@ -1,6 +1,6 @@
-Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes More Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes More Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
 Mail Boxes JFK inspired America to take up physical exercise John F Kenedy was America's 35th President, a great, inspirational leader!
 I remember the day President Kennedy is assassinated, November 22, 1963.
 I am sent home early that day from grade school.

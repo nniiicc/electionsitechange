@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Franklin County Community Development Commission announces grants The Franklin County Community Development Commission met February 26th and approved a number of grants to local schools and non-profit agencies.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News Franklin County Community Development Commission announces grants The Franklin County Community Development Commission met February 26th and approved a number of grants to local schools and non-profit agencies.
 The commission, which includes Brad Bolton, Jeremy Campbell, Chris Wallace and Charlene Fancher, meets quarterly to review grant applications.
 The Continue Reading Kiel objects to mandatory kindergarten bill “I take issue with us suggesting that a parent does not know the best path forward for the education for their child,” Kiel said.
 Warren explained that parents don’t have to send a child into a kindergarten classroom, but do have to pass an assessment showing they meet the requirements to go Continue Reading EDUCATION: Kiel Votes NO “I take issue with us suggesting that a parent does not know the best path forward for the education for their child,” Kiel said.

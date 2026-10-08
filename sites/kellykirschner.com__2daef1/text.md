@@ -112,12 +112,14 @@ Grassroots donors—not corporate PACs—power this campaign.
 A donation today helps us reach more voters across the Gulf Coast.
 Donate via ActBlue Media In The News .
 Press, photos, and stories from the trail across Florida's 16th District.
-Florida's new District 16 Endorsements “I am proud to stand with the working men and women of Florida.
-It is a true honor to be endorsed by the Florida AFL-CIO and the West Central Florida Labor Council, Social Security Works, the Florida Alliance for Retired Americans, the Florida High School Democrats, the Democratic Environmental Caucus of Florida, the Sierra Club, the Florida LGBTQ+ Democratic Caucus, the National Organization for Women, and Florida Veterans for Common Sense.
+Florida's new District 16 “He has a proven record solving problems.” Rick Kriseman, former St.
+Petersburg Mayor — “His decades of service to others are the antidote to the ‘me-first’ mentality in D.C.” Jennifer Webb, Gulfport City Council Member, former State Representative Endorsements “I am proud to stand with the working men and women of Florida.
+It is a true honor to be endorsed by the Florida AFL-CIO and the West Central Florida Labor Council, the Florida Democratic Party Jewish Caucus Board, Social Security Works, the Florida Alliance for Retired Americans, the Florida High School Democrats, the Democratic Environmental Caucus of Florida, the Sierra Club, the Florida LGBTQ+ Democratic Caucus, the National Organization for Women, and Florida Veterans for Common Sense.
 I am committed to fighting for, and protecting, everyone's rights in Congress.” – Kelly Kirschner More than two dozen current and former elected officials from across the district—spanning federal, state, and local government—have endorsed Kelly Kirschner.
-Here's a sampling: “Kelly Kirschner will do right by veterans, and bring back value-driven leadership." Rev.
-Willie Shaw, former Sarasota Mayor — “He has a proven record solving problems.” Rick Kriseman, former St.
-Petersburg Mayor — “His decades of service to others are the antidote to the ‘me-first’ mentality in D.C.” Jennifer Webb, Gulfport City Council Member, former State Representative Press Kirschner Backs “Scalpel Plan”: Former Federal CFOs’ Ideas to Cut Waste Special Interests Protect How Washington can bring down $40 trillion national debt while protecting benefits Americans have earned: Social Security, Medicare, and veterans care.
+Here's a sampling: “I know firsthand what it takes to go from City Hall to Congress, and Kelly has what it takes.
+I'm proud to endorse him for Florida's 16th Congressional District." Congresswoman Lois Frankel, FL-22 — “Kelly Kirschner will do right by veterans, and bring back value-driven leadership." Rev.
+Willie Shaw, former Sarasota Mayor Press Kirschner Backs “Scalpel Plan”: Former Federal CFOs’ Ideas to Cut Waste Special Interests Protect How Washington can bring down $40 trillion national debt while protecting benefits Americans have earned.
+Plan targets contractor markups and year-end spending sprees, so savings protect Social Security, Medicare and veterans’ care Americans earned.
 Press Even Republican Senators Reject Trump’s Taxpayer Funded Ads.
 Does Congressional Candidate Sydney Gruters?
 Kelly Kirschner condemned President Donald Trump’s illegal use of taxpayer money for political propaganda promoting himself and called on his opponent, Sydney Gruters, to reject the corrupt misuse of public power for private gain, including her husband’s – Joe Gruters, RNC Chair.

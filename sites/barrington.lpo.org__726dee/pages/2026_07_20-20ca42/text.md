@@ -3,6 +3,6 @@ Website Staff Uncategorized This is the website for Brennan Barrington, Libertar
 See the top banner for links to my main pages.
 Because of issues with rendering on mobile devices, the pages are also linked below.
 Click this post to access the links.
-If you like what you see, please Read more Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+If you like what you see, please Read more Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

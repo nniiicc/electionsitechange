@@ -11,9 +11,7 @@ We have cut property tax collections five of the last ten years, saving our taxp
 “In the 2024 budget cycle, we’re on pace to cut another quarter of a million dollars from property tax collections, marking the fifth time we made a reduction in such collections in the last decade.” You can read more about Piwowarczyk’s campaign here.
 Piwowarczyk, who is supporting Donald Trump for president, is a lifelong conservative running on a platform of public safety, parents’ rights in schools, delivering tax cuts, and border security, among other issues.
 This article was paid for by Jim For Wisconsin.
-Post navigation Previous post: Prev Jim Piwowarczyk Announces Run for Assembly: ‘Conservatives Must Start Winning Again’ March 5, 2024 Next post: Next Washington County Treasurer, Former Hartford Mayor Scott Henke Endorses Jim Piwowarczyk for Assembly March 14, 2024 You May Also Like Posted June 7, 2024 in Endorsements , News , ticker Washington Co.
-Supervisor Jodi Schulteis Endorses Jim Piwowarczyk for Assembly, Praises His Fiscal Conservatism Posted March 18, 2024 in ticker , Endorsements , News Rep.
-Barbara Dittrich Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Jim Piwowarczyk Announces Run for Assembly: ‘Conservatives Must Start Winning Again’ March 5, 2024 Next post: Next Washington County Treasurer, Former Hartford Mayor Scott Henke Endorses Jim Piwowarczyk for Assembly March 14, 2024 You May Also Like Posted July 31, 2024 in News DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE Posted May 3, 2024 in Endorsements , News , ticker Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

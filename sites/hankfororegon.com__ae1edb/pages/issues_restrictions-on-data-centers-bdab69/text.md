@@ -1,4 +1,4 @@
-0 Skip to Content About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Back Donate No new data centers.
+0 Skip to Content About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Back Donate No new data centers.
 May 16 Written By Hank Sanders Data centers are not paying their fair share.
 We know that they get millions of dollars of tax breaks, use our water, use our electricity, and create a lot of well paid but short-term jobs.
 My opponent, Scott Hege, built the data centers and gave them all the tax breaks.

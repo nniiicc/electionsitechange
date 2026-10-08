@@ -1,11 +1,8 @@
-Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE Deaton Statement on Ed Markey Vote Against Ratepayer Protection Act FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
+Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE Deaton Statement on Ed Markey Vote Against Ratepayer Protection Act FOR IMMEDIATE RELEASE October 1, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
 Senate candidate John Deaton issued the following statement after U.S.
-Senator Ed Markey (D-MA) voted against passage of the Stop Insider Trading Act: "There are two reasons Ed Markey voted against this bill: It didn't ban President Trump from owning stocks, and it required voter ID.
-Both are poor excuses.
-Nothing prevents future bills from banning the president and family members from owning stocks, a measure I support too.
-And the voter ID rider is a common-sense requirement implemented by some of the most progressive countries in the world.
-Ed Markey's far-left base would crucify him for voting in favor of something so inside the mainstream of American opinion," said Deaton .
-### < Older Post JOHN DEATON will fight for what is right.
+Senator Ed Markey (D-MA) voted against passage of the Ratepayer Protection Act: "Ed Markey once again declined to think for himself, following Chuck Schumer's advice to let perfect get in the way of good bipartisan legislation.
+While this bill didn't provide every protection I've called for, it would have laid the foundation for future reforms, including establishing a national model to mandate that data centers receive community input, including the ability to negotiate community benefit agreements, such as revenue sharing and bonuses, and that corporations must pay for utility upgrades and energy costs, without stiffing taxpayers," said Deaton .
+"We have data centers racing to build in Massachusetts, and the federal status quo is letting them jack up our energy bills while Ed Markey pays half the cost on his utilities where he lives in Maryland." ### < Older Post Newer Post > JOHN DEATON will fight for what is right.
 Stay Connected Last Name Email Address Zip Code Thank you for signing up.
 We will continue to stay connected and share with you the latest from our campaign.
 Oops, there was an error sending your message.

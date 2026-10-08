@@ -7,6 +7,6 @@ DJ Music and fun for everyone.
 Come make new friends and join the RickyFor 50 Army!
 Proceeds from coctails will be Pro Campaign.
 Saturday September 19th at the Well in Lakeland. https://www.eventbrite.com/e/the-official-ricky-for-50-campaign-launch-party-tickets-1996418578711?aff=oddtdtcreator More events coming soon!
-#ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+#ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
 Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com - Political Campaign Websites Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu

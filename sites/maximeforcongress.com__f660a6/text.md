@@ -1,16 +1,14 @@
 top of page Meet Dr.
-Maxime Issues Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Get Involved Events News DONATE Service Over Politics .
+Maxime Issues Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Get Involved Events News DONATE FLORIDA'S 20TH CONGRESSIONAL DISTRICT Service Over Politics .
 Solutions Over Promises .
-FLORIDA'S 20TH CONGRESSIONAL DISTRICT Dr.
+Dr.
 Kedner Maxime is a pastor, community servant, and candidate for the U.S.
 House — running to bring real solutions, not empty promises, to the families of District 20.
-DONATE JOIN THE MOVEMENT Voter Resources Make Sure You're Ready To Vote Register to vote or update your information through Florida’s official website.
+DONATE JOIN THE MOVEMENT Voter Resources Make Sure You're Ready To Vote Register to vote or update your information through Florida’s official website, or request your Vote-By-Mail ballot from the Broward County Supervisor of Elections.
 Your Voter Information Matters.
-The state portal handles new registrations and updates to existing Florida voter records.
-REGISTER OR UPDATE ↗ Official Florida voter registration website Voter Resources Make Sure You're Ready To Vote Register to vote or update your information through Florida’s official website.
+REGISTER OR UPDATE ↗ Official Florida Voter Registration Website REQUEST A VOTE-BY-MAIL BALLOT ↗ Broward County Supervisor of Elections Deadline to Request: October 22 at 5:00 PM Voter Resources Make Sure You're Ready To Vote Register to vote or update your information through Florida’s official website, or request your Vote-By-Mail ballot from the Broward County Supervisor of Elections.
 Your Voter Information Matters.
-The state portal handles new registrations and updates to existing Florida voter records.
-REGISTER OR UPDATE ↗ Official Florida voter registration website MEET Dr.
+REGISTER OR UPDATE ↗ Official Florida Voter Registration Website REQUEST A VOTE-BY-MAIL BALLOT ↗ Broward County Supervisor of Elections Deadline to Request: October 22 at 5:00 PM MEET Dr.
 Kedner Maxime Rooted in Service, Ready to Lead Dr.
 Kedner Maxime’s journey is the story of the American Dream built entirely on faith, resilience, and hard work.
 Arriving in the United States from Haiti in April 1981 as an 18-year-old student, he spoke little English and started with nothing.
@@ -39,7 +37,7 @@ Maxime will fight to raise funding and pay, and build real pathways to careers s
 LEARN MORE Stay Up to Date Latest News Why FL-20 Must Stay Rooted in Our Community | Dr.
 Kedner Maxime Dr.
 Kedner Maxime, independent candidate for Florida's 20th District, on protecting a historic seat of Black representation this November.
-Kedner Maxime #ago 2 min read Barbershop Series Kicks Off | Dr.
+Kedner Maxime Sep 30 2 min read Barbershop Series Kicks Off | Dr.
 Kedner Maxime Some of the best conversations happen in the barber's chair.
 That's the idea behind our new Barbershop Series — real talk, real cuts, at barbershops across District 20.
 Dr.
@@ -57,8 +55,8 @@ Messaging may include requests for donation.
 Reply “STOP” to opt-out & “HELP” for help.
 View Privacy Policy for more info. (required for text/email — TCPA) Sign Me Up Paid for by Dr.
 Kedner Maxime for Congress, Inc.
-DONATE Follow The Campaign A vision for Florida's District 20.
+DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

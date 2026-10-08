@@ -1,4 +1,4 @@
-Home Meet Denise Priorities TAKE ACTION/Get Your SIGN Donate ENDORSEMENTS EARLY VOTING INFOMATION More Home Meet Denise Priorities TAKE ACTION/Get Your SIGN Donate ENDORSEMENTS EARLY VOTING INFOMATION Home Meet Denise Priorities TAKE ACTION/Get Your SIGN Donate ENDORSEMENTS EARLY VOTING INFOMATION Meet Denise Mentzer OVER A decade of service to the community My prior 10 years of experience on the Mount Clemens City commission has offered valuable lessons.
+Home Meet Denise Priorities TAKE ACTION/Get Your SIGN Donate ENDORSEMENTS EARLY VOTING INFOMATION More Home Meet Denise Priorities TAKE ACTION/Get Your SIGN Donate ENDORSEMENTS EARLY VOTING INFOMATION Home Meet Denise Priorities TAKE ACTION/Get Your SIGN Donate ENDORSEMENTS EARLY VOTING INFOMATION Meet Denise Mentzer OVER A decade of service to the community My prior 10 years of experience on the Mount Clemens City Commission has offered valuable lessons.
 I have experience with municipal budgets, taxes, enterprise funds, and special assessments.
 I have learned when to compromise and when to stand up and hold my ground.
 I have learned to listen.
@@ -11,7 +11,7 @@ A family tradition of public service I grew up right here in Clinton Township an
 My father retired as a Detective Lieutenant from the Macomb County Sheriff's Department after 34 years of service.
 My brother still serves in the Sheriff's Department.
 I earned a degree in Business Administration from Baker College while working full-time and taking night classes.
-In 2011, I purchased a home in Mount Clemens and became interested in City issues.
+In 2011, I purchased a home in Mount Clemens and became interested in city issues.
 In 2013 I was elected to serve on the Mount Clemens City Commission and served for nearly 10 years.
 In 2022, I was honored to earn the support of District 61 and represent us in Michigan's House of Representatives.
 In 2024, I again won the support of the people of Mount Clemens, Clinton Township, and eastern Sterling Heights.

@@ -9,6 +9,6 @@ By picking one group over another we effectively told most West Virginians that 
 This is not the role of government.
 Our priorities should have been: • Protecting the People from the tyrannical Biden regime • Reducing, not increasing, the size of and spending by government, and lowering taxes • Deregulating our economy and society • Enhancing our overall infrastructure • Stopping the sexualization and indoctrination of our children • Criminalizing child mutilation and grooming • Stopping ‘emergency’ powers that allow vaccine and mask mandates • Prohibiting political prosecutions and persecution Instead the legislature, once again, favored certain groups over the vast bulk of West Virginians, to benefit a select few.
 I looked at what we did in this session and asked myself, "is this what Reagan, Eisenhower, Coolidge, Lincoln, Jefferson and Washington would have done" or is this what "Wilson, FDR, Lyndon Johnson, Clinton, Obama and Biden would have done." The answer is we did what Clinton would have done, and we spit on Reagan's legacy.
-MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous The Special Circus - Part 4 Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+MONTANI SEMPER LIBERI Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

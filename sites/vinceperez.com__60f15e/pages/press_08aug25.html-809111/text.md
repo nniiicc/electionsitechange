@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · August 8, 2025 Rep.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · August 8, 2025 Rep.
 Vince Perez and Four Texas Dems Land in California to Meet with Governor Newsom, Top State & Federal Leaders Vince and four Texas House Democrats fly to Sacramento to meet with Governor Gavin Newsom and federal and state leaders to build the national coalition the fight over the Texas redistricting map requires.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .

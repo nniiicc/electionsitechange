@@ -1,4 +1,4 @@
-Skip navigation menu About Issues Events Volunteer Yard Signs Donate About Issues Events Volunteer Yard Signs Donate About Shannon Shannon Chandley is the daughter of a firefighter and a school food service worker.
+Skip navigation menu About Issues Volunteer Yard Signs Donate About Issues Volunteer Yard Signs Donate About Shannon Shannon Chandley is the daughter of a firefighter and a school food service worker.
 From them, she learned the values of love, honesty, hard work and compassion.
 Public service and working for the greater good are foundational to her being.
 Shannon has lived in Amherst for over two decades with her husband, Tom Silvia.

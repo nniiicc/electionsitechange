@@ -1,25 +1,13 @@
 Charles Hoelter is committed to transparency.
 View his official campaign filings here.
-Charles Hoelter believes in smaller government, stronger communities, secure borders, and a future where families can thrive.
-With your support, we can bring integrity back to leadership and build a better tomorrow
-Charles hoelter Priorities
-for our Community , our State, our Nation & our Democracy.
-This campaign is about you — your family, your job, your safety, and your freedom.
-Charles Hoelter is running to ensure that our government serves the people, not special interests
-Charles is proud to have support from individuals who believe in real leadership and strong conservative values
-San Mateo, CA 94401 — February 13, 2026
-— Charles Hoelter is proud to announce that as of last
-night, he has officially received the endorsement of the
-SMGOP Party, marking a significant
-milestone in his campaign and reinforcing the growing
-momentum behind his mission to serve the people.
-“I
-am honored and grateful to receive the endorsement of the
-SMGOP Party,” said Charles Hoelter .
-“This endorsement represents a shared commitment to
-protecting our values, restoring strong leadership, and
-putting the needs of our community and country first.”
-Apr
-06
-2026
-CAMPAIGN NEWS
+Home About Me Top News Economy & Inflation Endoresements Contact Us Charles Hoelter Fighting for Freedom.
+Protecting Our Future Charles Hoelter is committed to restoring accountability, defending constitutional values, and putting hardworking Americans first.
+It’s time for leadership that listens, leads, and delivers real results Join the Campaign JOIN THE CAMPAIGN SUBMIT Meet Charles Hoelter A Leader Who Puts People First Charles Hoelter believes in smaller government, stronger communities, secure borders, and a future where families can thrive.
+With your support, we can bring integrity back to leadership and build a better tomorrow Read More Key Priorities view all Secure Borders Lower Taxes Protect Our Constitution Support Law Enforcement Charles hoelter Priorities Charles hoelter: Fighting for our Community , our State, our Nation & our Democracy.
+Top News Government Integrity & Accountability Fiscal Responsibility & Auditing Protecting Our Systems & Borders Education & The Future Workforce It’s Time to Take Back Our Voice This campaign is about you — your family, your job, your safety, and your freedom.
+Charles Hoelter is running to ensure that our government serves the people, not special interests Energy Independence Charles supports American energy production to lower costs and reduce reliance on foreign nations READ MORE Veterans Our veterans deserve better healthcare, better support, and respect for their service.
+READ MORE Trusted by Community Leaders Charles is proud to have support from individuals who believe in real leadership and strong conservative values San Mateo, CA 94401 — February 13, 2026 — Charles Hoelter is proud to announce that as of last night, he has officially received the endorsement of the SMGOP Party, marking a significant milestone in his campaign and reinforcing the growing momentum behind his mission to serve the people.
+“I am honored and grateful to receive the endorsement of the SMGOP Party,” said Charles Hoelter .
+“This endorsement represents a shared commitment to protecting our values, restoring strong leadership, and putting the needs of our community and country first.” MARIA SILVERII PEOPLE Read More Charles Hoelter’s - Campaign News Charles Hoelter Meets with California Attorney General Candidate Michael Gates Apr 06 2026 CAMPAIGN NEWS “Charles Hoelter with Michael Gates at Stamps Restaurant during a recent discussion on California policy and leadership.” Campaign Update: Productive Discussion with Statewide Leader READ MORE View All News Join Charles Hoelter in the Fight for a Stronger America Sign up for updates, campaign news, and ways you can get involved.
+Sign Up 1900 S Norfolk st #350 San Mateo CA 94403 For Media Inquiries & More Information: (650)458-7785 info@Hoelterforuscongress.com PAID FOR BY CHARLES HOELTER FOR CONGRESS Copyright © # by Charles Hoelter.
+All Right Reserved

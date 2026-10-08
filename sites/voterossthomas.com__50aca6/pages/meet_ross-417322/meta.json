@@ -1,7 +1,14 @@
 {
  "description": "Ross Thomas, candidate for Indiana State Senate",
  "final_url": "https://www.voterossthomas.com/meet_ross",
- "paid_for_by": null,
+ "fingerprint": "a5c5af5e2b107de8ca72b8971e38988cb515577e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Ross | Ross Thomas",
- "years_mentioned": []
+ "years_mentioned": [
+  "1988",
+  "1992",
+  "1994",
+  "1995"
+ ]
 }

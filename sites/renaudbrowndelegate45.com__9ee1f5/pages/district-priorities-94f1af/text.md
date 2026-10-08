@@ -59,7 +59,7 @@ Question H (Size of city council to 8 members, rejected 63.12% ) and F (Harborpl
 Turn old pharmacy spaces in community use.
 One of the latest efforts I’ve asking of our Baltimore council members and state legislators and will promote is having the old CVS in Belair-Edison be used as a community center, we owe this to Rita Crews, and the Walgreens at Harford and North to will be a laundromat (2027 Sudsville).
 Email your concerns: friendsofrenaudbrown@gmail.com Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,288 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
+Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,303 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
 Subscribe Subscribed Renaud Brown for Delegate 2026 Sign me up Have a WordPress.com account?
 Log in now.
 Renaud Brown for Delegate 2026 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

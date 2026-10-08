@@ -1,5 +1,5 @@
-Skip to content Wed.
-Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements COVID RENTAL SUBSIDY MORE IMPORTANT THAN EVER In this critical moment, it is essential that individuals and families who still have homes get the support they need to stay housed.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements COVID RENTAL SUBSIDY MORE IMPORTANT THAN EVER In this critical moment, it is essential that individuals and families who still have homes get the support they need to stay housed.
 Funding is available to help tenants who have suffered financial loss associated with the COVID pandemic.
 Applicants may qualify for subsidies for rent due between April and December of this year.
 Here are English and Spanish versions of a one-pager that describes where and how to get help.

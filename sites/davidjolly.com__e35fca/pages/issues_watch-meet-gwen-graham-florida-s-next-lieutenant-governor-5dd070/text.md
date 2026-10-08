@@ -40,7 +40,17 @@ Why did Gwen Graham join the David Jolly campaign?
 Gwen Graham joined the campaign because she believes David Jolly's ideas will help everyone in Florida, regardless of political party.
 She's committed to helping restore the Florida she's grown up loving.
 See the video at 1:32 for her reasoning.
-More on leadership Leadership means serving everyone Have a question for David?
+More on leadership Overview Meet David Jolly — Florida Governor 2026 In depth Voices on the trail - Jadene In depth Believe in Better - David Jolly for Florida Governor In depth Believe In Better In depth It Takes You Back - The Power of Hymns In depth David Jolly: People and Priorities First.
+Always.
+In depth David Jolly - Tomorrow is a big day for our state In depth Gwen Graham - Competency.
+Character.
+Trust.
+In depth Gwen Graham - Proud to serve beside David Jolly In depth Gwen Graham - Like My Father In depth What Makes America Great Has Nothing to Do with Politics In depth Voices on the Trail - Rev.
+Dr.
+R.B.
+Holmes In depth David Jolly: It's Not Want.
+It's Willingness.
+Leadership means serving everyone Have a question for David?
 Visit the Town Hall and ask.
 About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
 All rights reserved.

@@ -1,14 +1,8 @@
-Why I Chose To Become A Legislator
-My name is Erica Mosca (She/Her) and I ran to represent our community in Nevada Assembly District 14.
-Growing up my dad would fry pancit before rushing out the door to work the graveyard shift.
-With my mom getting off at the same time, we never ate dinner together, but he made sure the rice was hot.
-A man that immigrated to the United States at 17, learned English from Sesame Street and earned his GED– a man that works harder than any other person I know– could not afford to board the plane with me or send money to help support me when I was the first in our family to go to college.
-He taught me the values of determination, empathy and equity.
-I ran for Nevada State Assembly to ensure we have someone who will work tirelessly and with empathy to ensure all Nevadans make a living wage, have equitable access to education and will work to lower the cost of prescription drugs, address climate issues and increase access to affordable healthcare for hard-working Nevadan Families.
-Because of my parents, I became a 5th grader teacher driving up Sahara and Nellis every day to ensure moms and dads like mine could see their dreams come true for their children.
-And I started a non-profit 10 years ago to make sure those children could become adults with real choices, real access and real opportunities for a real American dream.
-I’m ready.
+top of page EN ESPAÑOL & SA TAGALOG SA TAGALOG ABOUT ERICA MY WHY BILLS LEGISLATIVE AWARDS & WORK GET INVOLVED DONATE MEDIA & NEWS 2025 COMMUNITY ENDORSEMENTS CONTACT MORE Use tab to navigate through the menu items.
+Why I Chose To Become A Legislator My name is Erica Mosca (She/Her) and I ran to represent our community in Nevada Assembly District 14. ​ Growing up my dad would fry pancit before rushing out the door to work the graveyard shift.
+With my mom getting off at the same time, we never ate dinner together, but he made sure the rice was hot. ​ A man that immigrated to the United States at 17, learned English from Sesame Street and earned his GED– a man that works harder than any other person I know– could not afford to board the plane with me or send money to help support me when I was the first in our family to go to college. ​ He taught me the values of determination, empathy and equity.
+I ran for Nevada State Assembly to ensure we have someone who will work tirelessly and with empathy to ensure all Nevadans make a living wage, have equitable access to education and will work to lower the cost of prescription drugs, address climate issues and increase access to affordable healthcare for hard-working Nevadan Families. ​ Because of my parents, I became a 5th grader teacher driving up Sahara and Nellis every day to ensure moms and dads like mine could see their dreams come true for their children.
+And I started a non-profit #ago to make sure those children could become adults with real choices, real access and real opportunities for a real American dream. ​ I’m ready.
 I’m ready to represent my father and all our families in the Nevada state legislature.
-Thank you for voting for me this past November for Assembly District 14.
-Your Assemblywoman,
-Erica
+Thank you for voting for me this past November for Assembly District 14. ​ Your Assemblywoman, Erica Paid for & Authorized by the Committee to Elect Erica Mosca 2126 Citroen St.
+Las Vegas, NV 89142 702-250-2320 Ericamosca14@gmail.com ABOUT ERICA Bills GET INVOLVED Donate Legislative Awards & Work MEDIA & NEWS CONTACT Community Endorsements bottom of page

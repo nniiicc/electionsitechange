@@ -2,7 +2,8 @@ top of page Dr.
 Kem Smith State Representative for Missouri House District 68 Home About Events Constituent Corner Join the Movement Contact Blog More Use tab to navigate through the menu items.
 Donate Home About Events Constituent Corner Join the Movement Contact Blog Constituent Corner To play, press and hold the enter key.
 To stop, release the enter key.
-Welcome to the Constituent Corner Whether your facing a challenge, seeking support, or simply want to stay informed, this was was created with you in mind.
+Send us a message and we’ll get back to you shortly.
+First name Email * Subject Write a message Send Welcome to the Constituent Corner Whether your facing a challenge, seeking support, or simply want to stay informed, this was was created with you in mind.
 As the State Representative for Missouri's 68th District, I'm here to help you navigate state services and connect you with the resources you deserve.
 In this corner, residents can request assistance with housing, public benefits, and state agencies such as Department of Elementary and Secondary Education or the Department of Social Services.
 You can also find updates on townhalls, career fairs, and local events designed to uplift our community.

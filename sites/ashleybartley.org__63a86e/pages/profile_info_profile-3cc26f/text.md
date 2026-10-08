@@ -9,7 +9,7 @@ I've seen her not just reach across the aisle, but sit in it, making...
 Working closely with the Vermont Police Association, we were finally able to pass survivor benefits; also known as Jessica's Law here in Vermont.
 Collaboration is critical if you want to make progress in Montpelier.
 I'm looking forward to working closely with the VPA next year as your Vermont State Senator.
-3 0 Aug 9, 2026 ∙ 1 min Tee up the Vote with Ashley Bartley!
+4 0 Aug 9, 2026 ∙ 1 min Tee up the Vote with Ashley Bartley!
 This event will help support Ashley Bartley's Vermont State Senate campaign but also down ballot with our local house candidates.
 Interested in sponsoring?
 Eagle, Birdie, and Par sponsorships are listed below.

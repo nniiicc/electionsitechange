@@ -57,8 +57,8 @@ Parents who have questions concerning this Privacy Policy or our practices can c
 The Sites are directed to users who are U.S. residents and this Privacy Policy is intended for them.
 The information we collect is processed and stored in the United States and is therefore governed by U.S. law.
 By accessing or using the Sites or otherwise providing information to us, you consent to the processing, transfer, and disclosure of information in the United States and other countries as described herein. ​ Contact Us If you have any questions about this Privacy Policy or our privacy practices, please contact us at campaign@maximeforcongress.com or (954) 671-7402.
-DONATE Follow The Campaign A vision for Florida's District 20.
+DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

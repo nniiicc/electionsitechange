@@ -1,4 +1,4 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Results, Not Noise: My 20/20 Plan for Nevada Secretary of State electbarnhill Jul 28, 2026 0 10 Comments Nevada’s next Secretary of State needs to deliver results — not manage the status quo, and not chase headlines for the wrong reasons.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Results, Not Noise: My 20/20 Plan for Nevada Secretary of State electbarnhill Jul 28, 2026 0 11 Comments Nevada’s next Secretary of State needs to deliver results — not manage the status quo, and not chase headlines for the wrong reasons.
 I’m Brad Lee Barnhill, and I’m running as your independent voice for Secretary of State because Nevada deserves better than politics as usual on either side.
 I bring 20 years as a Nevada civil litigation paralegal and 20 years as a computer systems analyst — courtroom-tested legal precision paired with real technical oversight.
 No other candidate in this race matches that combination, and this office needs both (more on why that dual background matters here ).
@@ -37,17 +37,16 @@ I’m ready to use the six BDRs strategically, fix the operational issues under 
 I am Brad Lee Barnhill, Independent American Party candidate for Nevada Secretary of State.
 I am #YourIndependentVoice for Nevada Secretary of State.
 See who else is on the ticket: the full 2026 IAP Nevada slate .
-Learn more about Brad Lee Barnhill’s background and experience .
-Make a difference!
-Join the Campaign !
-See more policy position outlines cooked up by Brad Lee Barnhill, #YourIndependentVoice for Nevada Secretary of State.
-I’m not asking you to trust a party on any of this — I’m not part of one.
+I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
+Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
+If not, it’s time to take a closer look.
+Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
 I’m asking you to hold the office accountable for solving real problems.
-That’s the job, and I intend to do it. — Brad Lee Barnhill Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Commentary Policy Positions 10 thoughts on “Results, Not Noise: My 20/20 Plan for Nevada Secretary of State” Pingback: Voter ID Is Coming.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Commentary Policy Positions 11 thoughts on “Results, Not Noise: My 20/20 Plan for Nevada Secretary of State” Pingback: Voter ID Is Coming.
 Let’s Talk About Making It Actually Work For People.
 Pingback: Nevada Voter Roll Cross-Checks: Barnhill's Plan vs.
-Aguilar's Approach Pingback: What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature Pingback: Why Paper Records for Nevada Elections Matter - Nevadans for Barnhill Pingback: Nevada Voter Roll Maintenance: Accuracy and Due Process | Barnhill Pingback: Rural Voting Access in Nevada: Secure and Simple for Every County Pingback: Why Donate to a Nevada Independent Candidate? | Brad Barnhill Pingback: Volunteer for a Nevada Political Campaign This Fall Pingback: Secure Ballot Counting in Nevada Starts Here Pingback: How Nevada Election Audits Build Voter Confidence Post navigation Previous Previous post: Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands Next Next post: Twenty Years in Courtrooms, Twenty Years in Systems: Why Nevada’s Next Secretary of State Needs Both footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+Aguilar's Approach Pingback: What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature Pingback: Why Paper Records for Nevada Elections Matter - Nevadans for Barnhill Pingback: Nevada Voter Roll Maintenance: Accuracy and Due Process | Barnhill Pingback: Rural Voting Access in Nevada: Secure and Simple for Every County Pingback: Why Donate to a Nevada Independent Candidate? | Brad Barnhill Pingback: Volunteer for a Nevada Political Campaign This Fall Pingback: Secure Ballot Counting in Nevada Starts Here Pingback: How Nevada Election Audits Build Voter Confidence Pingback: Nevada Voter ID and Question 7 | Brad Barnhill Post navigation Previous Previous post: Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands Next Next post: Twenty Years in Courtrooms, Twenty Years in Systems: Why Nevada’s Next Secretary of State Needs Both footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

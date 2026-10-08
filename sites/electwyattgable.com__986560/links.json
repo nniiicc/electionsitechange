@@ -1,9 +1,62 @@
 [
-"https://electwyattgable.com/",
-"https://electwyattgable.com/contact",
-"https://electwyattgable.com/meet-wyatt",
-"https://facebook.com/gablefornc",
-"https://instagram.com/gablefornc",
-"https://secure.anedot.com/gablefornc/donate",
-"https://twitter.com/gablefornc"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/gablefornc/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/gablefornc/donate"
+},
+{
+"text": "$3,600",
+"href": "https://secure.anedot.com/gablefornc/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/gablefornc/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/gablefornc/donate"
+},
+{
+"text": "$6,800",
+"href": "https://secure.anedot.com/gablefornc/donate"
+},
+{
+"text": "Contact",
+"href": "https://www.electwyattgable.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/gablefornc/donate"
+},
+{
+"text": "Learn More",
+"href": "https://www.electwyattgable.com/meet-wyatt"
+},
+{
+"text": "Meet Wyatt",
+"href": "https://www.electwyattgable.com/meet-wyatt"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/gablefornc/donate"
+},
+{
+"text": "[image: Copy of CampaignLogo-Small - 1.png]",
+"href": "https://www.electwyattgable.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/gablefornc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gablefornc"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/gablefornc"
+}
 ]

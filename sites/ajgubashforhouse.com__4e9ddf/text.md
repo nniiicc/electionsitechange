@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Contact Open Menu Close Menu Open Menu Close Menu Home About Issues Contact Home About Issues Contact A New Generation of Principled Conservative Leadership I’m running for the Minnesota House because our communities deserve leadership that answers to the people, not to a growing government or political insiders.
+0 Skip to Content Home About Issues Speech Contact Open Menu Close Menu Open Menu Close Menu Home About Issues Speech Contact Home About Issues Speech Contact A New Generation of Principled Conservative Leadership I’m running for the Minnesota House because our communities deserve leadership that answers to the people, not to a growing government or political insiders.
 This community is home.
 I grew up here, and I believe in conservative values - limited government, personal responsibility, and individual rights.
 I’ve served my country, studied law and politics, and worked in Washington.

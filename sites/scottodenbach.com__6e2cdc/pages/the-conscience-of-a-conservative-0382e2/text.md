@@ -1,11 +1,10 @@
-In 1960, Sen.
+Meet Scott News Join Donate Follow Follow “The Conscience of a Conservative” by Scott | Apr 23, 2022 | Conservatism , Issues , Lower Tax | 0 comments In 1960, Sen.
 Barry Goldwater wrote the book, “The Conscience of a Conservative,” which helped define conservatism and set the stage for the Reagan revolution in the 1980s.
 Things go in cycles and it’s now evident that we must again define the term “conservative.” So consider: What policies do you think of when you use the term “conservative?” Tax cuts, less government, traditional values, families over big corporations, right to life, personal freedom?
 While you read this post give it some thought.
 I can tell you I’ve given it some thought.
 I’ve been thinking and working the conservative cause since listening to Rush Limbaugh in the tractor working summer fallow north of Eureka as a teenager in the 1980s, continuing in College Republicans at SDSU, a few years as Executive Director of the Minnehaha County Republican Party in Sioux Falls, work with a number of South Dakota campaigns, Federalist Society President at USD Law School, time in Florida working on education reform at the DOE under Jeb Bush, over 15 years talking to business people, ranchers and families as an attorney in Spearfish, and the last two years as State Representative from Lawrence County, arguably the most conservative district in South Dakota.
-(God’s country.)
-Most recently I was ranked the #1 conservative in South Dakota by CPAC, which is the gold standard in monitoring voting records of politicians throughout the nation.
+(God’s country.) Most recently I was ranked the #1 conservative in South Dakota by CPAC, which is the gold standard in monitoring voting records of politicians throughout the nation.
 The conservative message is right, conservative policies work, and people are better off when government is limited.
 Those who know history, put logic over emotion, and value intellectual honesty over ideology and raw power politics know it.
 Believe it or not, some in our state are trying to re-define conservative to mean ever-growing government spending and never cutting taxes.
@@ -30,5 +29,11 @@ This confusion must end.
 The people of South Dakota deserve to be informed about who is and who is not a conservative.
 Go to http://ratings.conservative.org/states/SD to see for yourself.
 Of course it isn’t the only metric to judge a legislator, but it’s a good start if you care about conservatism.
-As you can see, the current Senate President Pro Tempore, who’s facing a strong primary challenge of his own, has a lifetime rating of “F.” So pardon me if I laugh when he calls others crazy people or sends out postcards trying to tell anybody what’s “conservative.”
-For further discussion about the conservative cause, feel free to call or DM me on Facebook any time, because as the ad says, “I know a thing or two because I’ve seen a thing or two.”
+As you can see, the current Senate President Pro Tempore, who’s facing a strong primary challenge of his own, has a lifetime rating of “F.” So pardon me if I laugh when he calls others crazy people or sends out postcards trying to tell anybody what’s “conservative.” For further discussion about the conservative cause, feel free to call or DM me on Facebook any time, because as the ad says, “I know a thing or two because I’ve seen a thing or two.” Submit a Comment Cancel reply You must be logged in to post a comment.
+Search Search Recent Posts “If not now, when?
+If not us, who?” “The Conscience of a Conservative” Rep.
+Odenbach Ranked as Top SD Legislator by American Conservative Union Rep.
+Odenbach Calls for Elimination of Food Tax: “If not now, when?
+If not us, who?” Rep.
+Odenbach Calls for Private Sector Housing Solutions Recent Comments No comments to show.
+Archives June 2022 April 2022 March 2022 February 2022 January 2022 December 2021 October 2021 Categories Articles Conservatism Economic Development Education Housing Issues Lower Tax Keep South Dakota Free Donate Follow Follow Paid for by Friends of Scott Odenbach

@@ -1,4 +1,4 @@
-Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant to Oklahoma Platform and Policy Agenda Take the Oath The Creed The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
+Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant Platform and Policy Agenda Take the Oath The Creed The Four Choices The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
 Touch device users, explore by touch or with swipe gestures.
 Home → The Farmer Servant’s Prayer The Farmer Servant’s Prayer Heavenly Father, I come before You today as a humble servant of the people, a Farmer Servant, seeking the same courage Your Son Jesus showed when He walked into the temples, when He confronted the governments and the Pharisees of His day, and when He turned over the tables of corruption without fear.
 Lord, walk with me now as You walked with Him then.

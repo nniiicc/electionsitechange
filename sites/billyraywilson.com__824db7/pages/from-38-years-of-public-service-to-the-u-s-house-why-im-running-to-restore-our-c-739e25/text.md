@@ -22,6 +22,6 @@ Equally important, I will submit Constitutional Amendments to bring the US Const
 For example, my first amendment proposal (echoing former President George Washington’s request) would be to remove the title and authority of Commander in Chief of the US Armed Forces from the President.
 Other amendments will address immigration, socialism, religious abuse, and foreign policy.
 Thank you for your attention.
-With respect, I remain, BILLY RAY WILSON DEFENDER OF THE US CONSTITUTION KENTUCKY’S 5TH US CONGRESSIONAL CANDIDATE FOR THE US HOUSE OF REPRESENTATIVES ← Previous Post Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+With respect, I remain, BILLY RAY WILSON DEFENDER OF THE US CONSTITUTION KENTUCKY’S 5TH US CONGRESSIONAL CANDIDATE FOR THE US HOUSE OF REPRESENTATIVES ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
 All Rights Reserved.
 Scroll to Top

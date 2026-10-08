@@ -1,4 +1,4 @@
-top of page Issues Affordability ​ Making life affordable for working West Virginians is my top priority.
+top of page Home Platform About Vince Volunteer Get Emails & Texts Donate Issues Affordability ​ Making life affordable for working West Virginians is my top priority.
 I support fully funding SNAP, Social Security, and veterans’ benefits, and I oppose harmful funding cuts to safety net programs.
 West Virginians also deserve to earn higher wages for their hard work.
 Our state minimum wage is still $8.75 an hour, less than half of what you need to survive.

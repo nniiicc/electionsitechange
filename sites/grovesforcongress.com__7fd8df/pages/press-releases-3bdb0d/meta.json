@@ -1,9 +1,14 @@
 {
  "description": "Ralph Groves recent press releases.",
  "final_url": "https://www.grovesforcongress.com/press-releases",
- "paid_for_by": null,
+ "fingerprint": "ff7061d34cbcc5dafc55b8086d9d7dacaba90a47",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Press Releases | Groves for Congress 2026",
  "years_mentioned": [
+  "2001",
+  "2002",
+  "2009",
   "2024",
   "2025",
   "2026"

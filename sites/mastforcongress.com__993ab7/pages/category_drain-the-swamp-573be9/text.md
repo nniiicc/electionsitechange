@@ -19,9 +19,9 @@ Read More Get Email Updates First Name Last Name Email Address * Phone Sign up h
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.
-Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me # Days.
+Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me 56 Days.
 One Mission.
-# Days To Defend Florida’s Future Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Stay Up To Date First Name Last Name Email Address * Phone Sign up here to receive text updates.
+Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Stay Up To Date First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.

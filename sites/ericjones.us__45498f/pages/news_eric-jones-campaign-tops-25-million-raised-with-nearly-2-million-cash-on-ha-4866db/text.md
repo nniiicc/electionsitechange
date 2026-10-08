@@ -10,4 +10,4 @@ The Jones campaign will continue focusing on kitchen-table issues facing familie
 Jones is a candidate in California’s 4th Congressional District, which stretches from Napa to Placer County, including Napa, Davis, Woodland, Lincoln, Petaluma, and Marysville.
 ### For more information, visit ericjones.us .
 Brian Parvizshahi Previous Previous Statement on endorsement from the American Independent Party Next Next ERIC JONES CONTINUES NEW DAY TOUR WITH NAPA TOWN HALL Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

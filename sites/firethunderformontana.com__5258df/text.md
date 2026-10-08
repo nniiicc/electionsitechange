@@ -7,6 +7,6 @@ Soon after, she co-founded Bozeman Tenants United, a union of working-class resi
 Professionally, Katie knows how state government works first hand .
 She has spent the legislative session in Helena with the Montana Budget and Policy Center, tracking the state budget, and today she serves on the legislature's Law & Justice Interim Committee while working full-time as a legal assistant at the Gallatin County Attorney's Office.
 And she's just getting started.
-This map is an estimate.
-To confirm your district, check your My Voter Page .
-DONATE Logo and brand design by Meredith Miele (Instagram) Paid for by Katie Fire Thunder 4 Montana, Democrat for House District 59
+House District 59 Katie represents House District 59 in the Montana State House of Representatives.
+HD 59 is one of Montana’s 100 state house districts and it includes stretches from southern Bozeman east to the Park County line.
+Check if Katie is your representative using the map below: DONATE Logo and brand design by Meredith Miele (Instagram) Paid for by Katie Fire Thunder 4 Montana, Democrat for House District 59

@@ -37,11 +37,11 @@
 },
 {
 "text": "Export .ics file",
-"href": "https://davis4nchouse.com/events/today/?ical=1"
+"href": "https://davis4nchouse.com/events/2026-10-07/?ical=1"
 },
 {
 "text": "Export Outlook .ics file",
-"href": "https://davis4nchouse.com/events/today/?outlook-ical=1"
+"href": "https://davis4nchouse.com/events/2026-10-07/?outlook-ical=1"
 },
 {
 "text": "Facebook",
@@ -49,7 +49,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist"
 },
 {
 "text": "Healthcare",
@@ -93,11 +93,11 @@
 },
 {
 "text": "Outlook 365",
-"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse"
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse"
 },
 {
 "text": "Outlook Live",
-"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse"
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse"
 },
 {
 "text": "Previous Day",
@@ -145,6 +145,6 @@
 },
 {
 "text": "iCalendar",
-"href": "webcal://davis4nchouse.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+"href": "webcal://davis4nchouse.com/?post_type=tribe_events&tribe-bar-date=%23&ical=1&eventDisplay=list"
 }
 ]

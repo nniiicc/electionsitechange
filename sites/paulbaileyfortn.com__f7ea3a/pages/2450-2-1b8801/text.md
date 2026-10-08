@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 3/10/2023 Capitol Hill Update 3/10/2023 As we approach the halfway point in Session, I was honored to be joined by so many amazing constituents of Senate District 15 in Nashville.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 3/10/2023 Capitol Hill Update 3/10/2023 As we approach the halfway point in Session, I was honored to be joined by so many amazing constituents of Senate District 15 in Nashville.
 If you would like to be my guest on the Senate floor or schedule a tour of our beautiful State Capitol, please contact my office at (615) 741-3978.
 Addressing the Shortage of Special Education Teachers I am proud to sponsor legislation that passed the Education Committee this week that seeks to increase the number of special education teachers in Tennessee amid an ongoing shortage.
 There are over 1,200 teacher vacancies in school districts across the state, and most of them are in special education.

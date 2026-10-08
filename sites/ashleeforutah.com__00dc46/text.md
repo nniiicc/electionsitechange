@@ -19,7 +19,9 @@ During my time in the Legislature, I’ve stayed focused on the issues that matt
 This November, I’m asking for your support so I can continue fighting for the people I serve and continue being a voice – for US.
 JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
-Ashlee Matthews Facebook Posts Representative Ashlee Matthews updated their status.
+Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago Hope to see you next Wednesday to meet with local decision makers and share your ideas, priorities and concerns! ...
+See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
+View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews updated their status.
 #ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
 View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago "Childcare is infrastructure.
 It is the foundation that our entire economy is built upon," Matthews said.
@@ -32,8 +34,6 @@ View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new
 #ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
 View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews updated their status.
 #ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago So excited for this fun event!!! ...
-See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
 View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.

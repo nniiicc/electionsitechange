@@ -3,7 +3,11 @@ Here’s everything you need to vote in Illinois’s 4th District, whether you l
 Election Day Nov 3 Tuesday Polls open 6:00 a.m. – 7:00 p.m.
 Look for Patty García , Democrat for U.S.
 Representative, 4th Congressional District .
-Vote all the way down the ballot Three ways to vote Pick the way that works for you 01 Vote early Early voting is open now in DuPage, downtown Chicago and suburban Cook.
+Vote all the way down the ballot Illinois’s 4th District Do you live in IL-04?
+The district stretches from Chicago’s Southwest Side through suburban Cook County into DuPage County.
+Enter your address to check.
+Check Example: 5200 W 26th St, Cicero, IL 60804 See the full district map Zoom in on your neighborhood and see exactly where the lines fall.
+Open map ↗ IL-04 boundary Illinois’s 4th Congressional District Open in Google Maps ↗ × Three ways to vote Pick the way that works for you 01 Vote early Early voting is open now in DuPage, downtown Chicago and suburban Cook.
 Starting October 19, early voting opens in every Chicago ward and across the suburbs.
 Any registered voter can use any early voting site in their county or city.
 Last day: November 2.

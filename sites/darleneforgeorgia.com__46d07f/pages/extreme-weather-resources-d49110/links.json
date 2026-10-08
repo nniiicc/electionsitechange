@@ -1,20 +1,86 @@
 [
-"https://agr.georgia.gov/disaster-relief",
-"https://cdc.gov/bird-flu",
-"https://darleneforgeorgia.com/",
-"https://darleneforgeorgia.com/contact",
-"https://darleneforgeorgia.com/legislative-updates",
-"https://darleneforgeorgia.com/resources",
-"https://dph.georgia.gov/epidemiology/acute-disease-epidemiology/monkeypox-guidance-and-resources",
-"https://floridadisaster.org/",
-"https://gasbuddy.com/",
-"https://gema.georgia.gov/",
-"https://gradycountyga.gov/public-safety/emergency-management-agency",
-"https://house.ga.gov/en-US/COVID-19_Info.aspx",
-"https://nhc.noaa.gov/",
-"https://redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html",
-"https://salvationarmyusa.org/usn/help-disaster-survivors",
-"https://secure.anedot.com/darlene-for-georgia/donate",
-"https://thomascountyboc.org/emergency-management",
-"https://usa.gov/federal-agencies/federal-emergency-management-agency"
+{
+"text": "Avian Influenza (Bird Flu)",
+"href": "https://www.cdc.gov/bird-flu/"
+},
+{
+"text": "Contact",
+"href": "https://www.darleneforgeorgia.com/contact/"
+},
+{
+"text": "Covid State Resources",
+"href": "https://www.house.ga.gov/en-US/COVID-19_Info.aspx"
+},
+{
+"text": "Darlene Taylor",
+"href": "https://www.darleneforgeorgia.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/darlene-for-georgia/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/darlene-for-georgia/donate"
+},
+{
+"text": "Federal Emergency Management",
+"href": "https://www.usa.gov/federal-agencies/federal-emergency-management-agency"
+},
+{
+"text": "For Florida Evacuees",
+"href": "https://www.floridadisaster.org/"
+},
+{
+"text": "Gas Availability Tracker (Gasbuddy)",
+"href": "https://www.gasbuddy.com/"
+},
+{
+"text": "Georgia Department of Agriculture Disaster Relief",
+"href": "https://agr.georgia.gov/disaster-relief"
+},
+{
+"text": "Georgia Emergency Management",
+"href": "https://gema.georgia.gov/"
+},
+{
+"text": "Grady County Emergency Management",
+"href": "https://gradycountyga.gov/public-safety/emergency-management-agency/"
+},
+{
+"text": "Home",
+"href": "https://www.darleneforgeorgia.com/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.darleneforgeorgia.com/legislative-updates/"
+},
+{
+"text": "Mpox Guidance and Resources",
+"href": "https://dph.georgia.gov/epidemiology/acute-disease-epidemiology/monkeypox-guidance-and-resources"
+},
+{
+"text": "National Hurricane Center",
+"href": "https://www.nhc.noaa.gov/"
+},
+{
+"text": "Red Cross Shelter",
+"href": "https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html"
+},
+{
+"text": "Resources",
+"href": "https://www.darleneforgeorgia.com/resources/"
+},
+{
+"text": "The Salvation Army Disaster Relief",
+"href": "https://www.salvationarmyusa.org/usn/help-disaster-survivors/"
+},
+{
+"text": "Thomas County Emergency Management",
+"href": "https://thomascountyboc.org/emergency-management"
+},
+{
+"text": "[image: Darlene Taylor]",
+"href": "https://www.darleneforgeorgia.com"
+}
 ]

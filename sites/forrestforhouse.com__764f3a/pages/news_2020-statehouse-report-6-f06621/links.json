@@ -1,18 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/SCHouseGOP",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/photos",
-"https://scdot.org/travel/pdf/DamageClaimForm.pdf",
-"https://scstatehouse.gov/billsearch.php?billnumbers=4974&session=123&summary=B",
-"https://scstatehouse.gov/sess123_2019-2020/bills/3576.htm",
-"https://scstatehouse.gov/sess123_2019-2020/bills/4355.htm",
-"https://scstatehouse.gov/sess123_2019-2020/bills/4711.htm",
-"https://twitter.com/SCHouseGOP"
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "H. 3576",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3576.htm"
+},
+{
+"text": "H. 4355",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4355.htm"
+},
+{
+"text": "H. 4711",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4711.htm"
+},
+{
+"text": "H. 4974",
+"href": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4974&session=123&summary=B"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "calforrest@schouse.gov",
+"href": "mailto:calforrest@schouse.gov"
+},
+{
+"text": "https://twitter.com/SCHouseGOP",
+"href": "https://twitter.com/SCHouseGOP"
+},
+{
+"text": "https://www.facebook.com/SCHouseGOP/",
+"href": "https://www.facebook.com/SCHouseGOP/"
+},
+{
+"text": "https://www.scdot.org/travel/pdf/DamageClaimForm.pdf",
+"href": "https://www.scdot.org/travel/pdf/DamageClaimForm.pdf"
+}
 ]

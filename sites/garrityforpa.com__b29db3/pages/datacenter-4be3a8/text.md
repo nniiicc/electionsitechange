@@ -46,7 +46,21 @@ See our Privacy Policy and Terms here .
 Sign the Petition Pennsylvania Communities First Pennsylvanians working together for the common good have built strong communities across the Commonwealth, achieving remarkable accomplishments and inspiring pride.
 Raising Hope in Pennsylvania Campaign launch Honor the legacy of freedom William Penn established by sharing the best about the community you love and are proud to call home.
 Share what you love about the commonwealth: Full Name (Required) Email (Required) Link to Your Video ...Or Upload a File Accepted file types: mp4, mov, m4v, webm, Max. file size: 48 MB.
-Your Message (optional) Submit My Video Latest From This Campaign The latest from Stacy Garrity on the campaign trail. @GarrityForPA #ago Pennsylvanians deserve an insurance system that works for them, not against them.
+Your Message (optional) Submit My Video Latest From This Campaign The latest from Stacy Garrity on the campaign trail. @GarrityForPA #ago Instead of being in Harrisburg working to find a remedy to the Supreme Court’s 2nd degree murder ruling, @joshshapiropa was in Philadelphia at his mega-donor Michael Rubin’s shareholder meeting.
+Josh sold the families of PA murder victims out.
+View Post on X → @GarrityForPA #ago When @joshshapiropa’s top lieutenant Mike Vereb resigned after sexual harassment allegations, Shapiro tried to sweep the scandal under the rug and use $295,000 of OUR MONEY to keep the victim quiet!
+View Post on X → @GarrityForPA #ago 7 in 10 PA 8th graders cannot read at grade level. @joshshapiropa is failing our children.
+View Post on X → @GarrityForPA #ago Under @joshshapiropa, Pennsylvania is running a $5 BILLION deficit, we’ve burned through our state surplus, and now we’re dependent on our Rainy Day Fund.
+The Rainy Day Fund is for emergencies, it’s not a slush fund for Josh Shapiro’s presidential wish list.
+View Post on X → @GarrityForPA #ago Four years ago, @joshshapiropa promised every PA driver a $250 gas rebate.
+Did you get yours?
+I didn’t!
+My administration will deliver $250 for each of the 3 summer driving months to provide gas relief.
+View Post on X → @GarrityForPA #ago Tonight on the debate stage, I’ll be setting the record straight on Josh Shapiro’s failed record throughout his decades-long tenure as a career politician.
+But before I step on stage, I want to hear from you.
+What issues matter most to your family?
+What do you want the Governor to answer for tonight?
+Take 30 seconds and tell me: https://t.co/Krq42ieITK View Post on X → @GarrityForPA #ago Pennsylvanians deserve an insurance system that works for them, not against them.
 #GarrityRichey https://t.co/JNslfBrE4g View Post on X → @GarrityForPA #ago It’s always a great time at the Bloomsburg Fair! https://t.co/cvu8XK3du6 View Post on X → @GarrityForPA #ago Pennsylvanians deserve a real shot at the American Dream.
 It's time to address the rising costs making that dream harder to achieve.
 #GarrityRichey https://t.co/VYobNai5tf View Post on X → @GarrityForPA #ago The least transparent Governor in America got caught trying to sneak a 502 page invasion of privacy and parental rights through, and he was caught.
@@ -54,23 +68,7 @@ Thank you to every Pennsylvanian who joined me in speaking out and having your v
 #JoshShapiro #GarrityRichey https://t.co/jd90H7aAE3 View Post on X → @GarrityForPA #ago Josh Shapiro’s Department of Health has proposed a sweeping rewrite of Pennsylvania’s health regulations!
 If you believe these changes go too far, staying silent is not an option.
 Today is your final opportunity during the public comment period to formally respond and put your concerns on the record.
-Your voice belongs in this process. 🔗: https://t.co/c6nQe5IMR1 #JoshShapiro #GarrityRichey View Post on X → @GarrityForPA #ago To all those observing Yom Kippur, may this sacred day bring reflection, renewal, and peace.
-Wishing you an easy and meaningful fast.
-G’mar Chatimah Tovah. https://t.co/FMAOtPGP0o View Post on X → @GarrityForPA #ago There’s an important difference between a pause and a moratorium.
-No arbitrary deadline.
-No automatic green light.
-Pennsylvania communities and ratepayers must always come first.
-#GarrityRichey #DataCenters https://t.co/J49EIs1RZv View Post on X → @GarrityForPA #ago In the summer of 1787, delegates gathered in Philadelphia to debate and draft the U.S.
-Constitution, signing the final document on September 17 at what we now know as Independence Hall.
-Today, we honor the document that has guided our nation for more than two centuries and the history made right here in Pennsylvania.
-View Post on X → @GarrityForPA #ago Your prescription should never come down to what your family can afford to sacrifice that month.
-As Governor, lowering the cost of the medication Pennsylvanians rely on will be part of making this Commonwealth affordable again.
-#GarrityRichey https://t.co/iwSwNhlDqQ View Post on X → @GarrityForPA #ago Josh Shapiro’s 502-page Health Code rewrite goes far beyond public health.
-These are decisions that affect all Pennsylvanians, and they shouldn’t be buried in hundreds of pages of government regulations.
-Make sure Harrisburg hears from you.
-Submit your public comment before September 21. 🔗: https://t.co/nvkkdc1rp4 #JoshShapiro #GarrityRichey View Post on X → @GarrityForPA #ago On National Voter Registration Day, take a minute to check your registration status or register to vote for the first time.
-The deadline to register to vote in Pennsylvania for the November 3 General Election is October 19.
-Check your registration at 🔗 https://t.co/46gAtmQPVH Register online at 🔗 https://t.co/QVilvPo3EK View Post on X → Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
+Your voice belongs in this process. 🔗: https://t.co/c6nQe5IMR1 #JoshShapiro #GarrityRichey View Post on X → Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
 All Rights Reserved.
 Garrity for PA 4075 Linglestown Rd.
 #119 Harrisburg, PA 17112 X-twitter Instagram PAID FOR BY GARRITY FOR PA Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.

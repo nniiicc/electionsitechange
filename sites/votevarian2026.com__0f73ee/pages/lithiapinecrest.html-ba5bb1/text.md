@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid Suburban Commuter Backlog $796 million of Hillsborough County tax money is going to the Rays Stadium Build.
 That money was your Road widening and Expansion.
 I sent a letter to the Rays owners, Jane Castor, the Tampa city Council and Hillsborough County Commision back in April requesting critical upgrades to the Rays Memorandum of Understanding including The Raise Grant a Hud Grant and a few other things like empty muni-bonds to control interest rates of inflation rises, etc.

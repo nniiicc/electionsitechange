@@ -1,9 +1,11 @@
 {
- "description": "",
+ "description": "Read Greg Maye's latest campaign announcements, press releases, and updates about his campaign for DC Shadow Senator.",
  "final_url": "https://www.gregmayefordc.com/press-release-campaign-announcement",
- "fingerprint": "1743211e72c29964e28f0c6c3fe20455723a68eb",
+ "fingerprint": "320086d65ea14e932a6b61c0f8b77c0012585e55",
  "format": 3,
  "paid_for_by": "",
- "title": "",
- "years_mentioned": []
+ "title": "PR _CAMPAIGN ANMNT | Greg Maye for DC",
+ "years_mentioned": [
+  "2026"
+ ]
 }

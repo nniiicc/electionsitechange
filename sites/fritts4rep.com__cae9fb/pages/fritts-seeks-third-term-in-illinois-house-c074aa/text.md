@@ -8,9 +8,9 @@ Fritts continued, “Being your State Representative is about serving our commun
 I’m running for reelection because I believe we deserve honest leadership, real accountability, and someone who will fight every day to make Illinois a better place for everyone.
 I am honored to serve my constituents by focusing on real, bipartisan solutions, and I look forward to receiving your vote on March 17th.” For more information about State Representative Bradley Fritts, visit his website at fritts4rep.com .
 ### You Might Also Like Rep.
-Brad Fritts Endorses Chris Bishop for State Senate March 8, 2024 Rep.
 Fritts Condemns Senate Bill 2412 May 2, 2024 Rep.
-Bradley Fritts Announces Campaign to Seek Re-election for House District 74 September 15, 2023 Young Conservative Voice Fighting for Common Sense Values.
+Bradley Fritts Announces Campaign to Seek Re-election for House District 74 September 15, 2023 Rep.
+Fritts Completes Summer Tour; Continues Efforts to Meet Every Constituent in District 74 September 13, 2023 Young Conservative Voice Fighting for Common Sense Values.
 Facebook Instagram Home Meet Brad The Issues Agriculture Public Safety Local Control Affordability Get Involved Newsroom Contact Donate Hamburger Toggle Menu Address Citizens for Bradley J.
 Fritts P.O.
 Box 1014 Dixon, IL 61021 Paid for by Citizens for Bradley J.

@@ -4,21 +4,7 @@ Every putt you take helps build a government that works FORE the people!
 Let’s go!
 Sponsorship Opportunities: Hole-in-One: $2,500 Eagle: $1,000 Birdie: $500 Caddy: $250 Sponsors receive: Prominent signage at a hole Recognition online and at the event The satisfaction of supporting real change Let’s Putt the 65th back on course!
 Come for the mini-golf, stay for the movement!
-View Event → Jul 14 Campaign Kick-off Monday, July 14, 2025 5:00 PM 7:00 PM Google Calendar ICS Join us for an exciting evening in support of Ricky Rivard, a candidate for State Representative who is Putting People First!
-This Campaign Kick-Off Fundraiser will be held at Global Brew (2100 Prairie St., Saint Charles, IL) on Monday, July 14th, from 5:00 PM to 7:00 PM.
-Meet Ricky, hear his vision for our community, and help fuel his campaign to bring fresh leadership to Springfield.
-Your support will make a real difference!
-Ticket & Donation Details: General Admission: $50 Young Dems (under 35): $25 Sponsorship Levels: Flip ($250), Momentum ($500), Landslide ($1000), Gamechanger ($3500) Can’t attend?
-You can still support the campaign by donating online at secure.actblue.com/donate/rivard65 .
-Contributions can also be made payable to Friends of Richard Rivard and mailed to 1029 Ronzheimer Ave, St.
-Charles, IL 60174.
-Let’s build a winning campaign together—see you there!
-Ricky Rivard announcing his candidacy at the STC picnic View Event → Jul 25 Trivia Night Fundraiser Thursday, July 25, 2024 5:00 PM 7:00 PM Aurelio's Pizza (map) Google Calendar ICS Put your knowledge to the test and flex your mental muscles at our Trivia Night Fundraiser for Ricky Rivard for County Board!
-Join us for an evening of friendly competition, laughter, and brain teasers on July 25th at 5 pm at Aurelio’s Pizza in Geneva.
-Gather your smartest friends and form a team to battle it out for trivia glory!
-Here's what awaits: Family-friendly night of fun Rounds of challenging trivia across a variety of topics Pizza and drinks included Prizes for the top teams and most creative team name So, mark your calendars and get ready to prove you're the smartest team in Kane County!
-Tickets: $25 per person (team discounts available!) Get your tickets now at VoteRicky.com or by following the link below. https://secure.actblue.com/donate/trivia12 Sponsorships include a table for a team for the event and special recognition Don't miss out on this fun and rewarding event!
-View Event → Jul 21 Kane County Fair Meet and Greet Sunday, July 21, 2024 2:00 PM 5:00 PM Kane County Fair (map) Google Calendar ICS Come to the Kane County Fair and visit the Kane County Democrats booth.
+View Event → Jul 14 Campaign Kick-off Monday, July 14, 2025 5:00 PM 7:00 PM Google Calendar ICS View Event → Jul 25 Trivia Night Fundraiser Thursday, July 25, 2024 5:00 PM 7:00 PM Aurelio's Pizza (map) Google Calendar ICS View Event → Jul 21 Kane County Fair Meet and Greet Sunday, July 21, 2024 2:00 PM 5:00 PM Kane County Fair (map) Google Calendar ICS Come to the Kane County Fair and visit the Kane County Democrats booth.
 We can meet and discuss how We Win Together with our People First Agenda for Kane County.
 Let’s work together to deliver a Kane County that reflects our shared values.
 View Event → Apr 30 We Win Together Fundraiser Tuesday, April 30, 2024 5:00 PM 7:00 PM Google Calendar ICS Location: Pollyanna Brewing - 106 Riverside Ave St.

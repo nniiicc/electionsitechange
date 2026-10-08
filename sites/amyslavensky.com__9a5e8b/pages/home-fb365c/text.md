@@ -1,9 +1,9 @@
-Skip navigation menu About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate District 7 We can do better Join me Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Amy Slavensky for Assembly 2026.
+Skip navigation menu About What I Stand For My Priorities What Voters Need to Know Endorsements Press & Media Events Volunteer Contact Donate District 7 We can do better Join me Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Amy Slavensky for Assembly 2026.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
 Terms of Service and Privacy Policy apply.
-About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate District 7 We can do better Join me Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Amy Slavensky for Assembly 2026.
+About What I Stand For My Priorities What Voters Need to Know Endorsements Press & Media Events Volunteer Contact Donate District 7 We can do better Join me Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Amy Slavensky for Assembly 2026.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.

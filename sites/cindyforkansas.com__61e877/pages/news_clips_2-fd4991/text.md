@@ -1,4 +1,10 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News Salina Post • July 27, 2026 Op-Ed: They say I'm too anti-establishment.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate In the news News Clips Page 2 of 2 ← Back to News NBC News • August 5, 2026 Republican Ty Masterson and Democrat Cindy Holscher to face off in Kansas governor’s race Republican state Senate President Ty Masterson will face Democratic state Sen.
+Cindy Holscher in Kansas’ election for governor this fall, NBC News projects....
+Politico • August 4, 2026 Populist Cindy Holscher beats establishment pick for Kansas Democratic gubernatorial primary State Sen.
+Cindy Holscher won the Democratic gubernatorial primary in Kansas on Tuesday, a resounding defeat for establishment Democrats as they seek to hold onto the governor’s mansion.
+New York Times • August 4, 2026 Lawmaker Who Wants Data Center Pause Wins Kansas Democratic Primary Kansas Democrats have defied political gravity for eight years by holding the governor’s office in one of the country’s most reliably Republican states.
+On Tuesday, primary voters selected State Senator Cindy Holscher as the candidate to try to keep that seat in Democratic hands....
+Salina Post • July 27, 2026 Op-Ed: They say I'm too anti-establishment.
 I say that's a good thing ...Kansans deserve more than empty promises and political theater.
 They deserve leaders who are willing to roll up their sleeves and follow through — no matter whose feathers they ruffle in the process.
 Kansas City Star • July 25, 2026 Cindy Holscher: Kansas needs a governor for the people, not billionaires I stand up for working people, even when it’s not politically convenient, because they’re the people who make Kansas run.

@@ -1,0 +1,10 @@
+0 Skip to Content About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Chris Ford Outraises Republican Incumbent Michael Kreun in 2026 Jul 29 Written By Chris Ford Chris Ford is Meeting the Moment and Working Hard to Win for SD 32 Blaine, MN. — Minnesota Senate DFL candidate Chris Ford has reportedly raised $#,#.# in 2026, out fundraising his opponent Michael Kreun by $6,625.82 this year.
+Chris Ford has also received a higher number of individual donations at this point in the campaign cycle, more than doubling the number of donations he received last year in just over six months.
+This demonstrates just how invested people are in Chris’ vision for Senate District 32 and who are also willing to put their dollars behind him to ensure he flips the seat this November.
+“This campaign is strong because of the people who are invested in it.
+I am honored that such a broad coalition of people are donating to help me achieve a better future for our district: safer communities, lower costs, better schools and affordable health care,” said Chris Ford.
+“We have more money to raise and doors to knock but my deepest gratitude goes out to the support we have received in this race so far.” ### Chris Ford is a former firefighter of 21 years, including 13 years as Captain in Rochester.
+He currently serves on the Blaine City Council, leading efforts to make his community safer, healthier and more affordable and works as a paraprofessional at Blaine High School, helping to educate kids.
+He has spent his career as a trusted public servant and is now running for State Senator in Minnesota Senate District 32.
+Chris Ford Previous Previous In First Campaign Ad, Chris Ford Tackles Affordability and Quality of Life for Minnesotans Chris Ford for MN Prepared and paid for by the Chris Ford for MN committee.
+PO Box 490021, 10611 Baltimore St NE STE 100, Blaine, MN 55449.

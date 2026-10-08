@@ -1,4 +1,4 @@
-Skip to content Skip to content Contact the Campaign: (404) 953-5268 Email: info@scotttjacksonforga.com Follow Us Home Meet Scott Priorities Responsible Government Economic Opprotunity Education & Workforce Healthcare Access Safe Communities Infrastructure Get Involved Volunteer Endorse Scott Events News Contact Us Donate Search for: Search Community Meet & Greet 207 207 people viewed this event.
+Skip to content Skip to content Contact the Campaign: (404) 953-5268 Email: info@scotttjacksonforga.com Follow Us Home Meet Scott Priorities Responsible Government Economic Opprotunity Education & Workforce Healthcare Access Safe Communities Infrastructure Get Involved Volunteer Endorse Scott Events News Contact Us Donate Search for: Search Community Meet & Greet 208 208 people viewed this event.
 Join Scott T.
 Jackson for a community meet and greet in Loganville.
 This informal event is an opportunity to meet Scott, discuss the future of District 111, and share your ideas about strengthening our community.

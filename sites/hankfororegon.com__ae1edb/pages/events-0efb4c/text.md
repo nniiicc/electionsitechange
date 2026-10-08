@@ -1,10 +1,10 @@
-0 Skip to Content About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Back Donate Supporters of Hank Sanders for Oregon Join our Mobilize Group for staying up to date on events, door-knocking events, forums and much more as we get closer to election day!
+0 Skip to Content About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Back Donate Supporters of Hank Sanders for Oregon Join our Mobilize Group for staying up to date on events, door-knocking events, forums and much more as we get closer to election day!
 Click the button below to sign-up and stay informed.
 Join Our Mobilize Group Here!
 Current Events Meet Hank & Hit the Doors!
 Come meet candidate Hank Sanders and join us in talking with voters across the Gorge!
 We’ll be door knocking in The Dalles on Saturday and Hood River on Sunday.
-Whether you’ve been volunteering for years or are joining us for the first time, we’d love to have you with us.
+Whether you’ve been volunteering with the campaign or are joining us for the first time, we’d love to have you join us.
 Come knock doors, meet your neighbors, and help make a difference in our community.
 Join Us in the Dalles Join Us in Hood River Past Events Join us for a candidate forum!
 Will be hosted by Columbia Grange 267 in Corbett, OR.

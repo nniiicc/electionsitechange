@@ -8,6 +8,6 @@ My Resolution is based principally on the Constitution itself, the Federalist Pa
 The full Resolution is on my campaign website.
 It lays out the case why the States are in fact superior to the federal government that the States created by way of the Constitution.
 I will fight to get this Resolution passed to signal that West Virginia will not succumb to tyranny.
-MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous Resolution to Congress Demanding a Federal Balanced Budget Amendment Next Next Resolution to Prohibit Election Interference Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+MONTANI SEMPER LIBERI Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

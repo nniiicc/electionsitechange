@@ -122,7 +122,7 @@ But, we should fight to make opportunity real.
 And when opportunity becomes real, people will do what Americans have always done when given a genuine chance: They will build, create, innovate, lead…and they will rise.
 OPEN EVERY DOOR.
 LET TALENT RISE.
-Previous Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like Healthcare That Works for People, Not Bureaucracies Independence from Party Control A Breakthrough Brief: Thrivability for Small Business Women’s Empowerment & A Fresh Take on Life and Choice A New Era in Education STAY UPDATED Let’s Build the Future Together.
+Previous Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like Independence from Party Control A New Era in Education Women’s Empowerment & A Fresh Take on Life and Choice Humane Immigration Reform and Border Security Thrivability: Beyond Affordability to Economic Possibility STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.

@@ -5,8 +5,7 @@ My career has been in financial services technology, and I currently serve as th
 Essentially, I lead teams to solve complex problems and build products that help people manage risk in commercial real estate.
 My much more fun job is being the owner of a local shop that sells olive oils and balsamic vinegars!
 Both of my children have grown up.
-My son is studying at the University of North Georgia and my daughter is studying at the University of Georgia.
-Questions people ask me Questions are a great way to get to know someone.
+My son is studying at the University of North Georgia and my daughter is studying at the University of Georgia. ‍ ‍ Questions people ask me Questions are a great way to get to know someone.
 Here are a few that I get asked a lot.
 If you have one that isn't listed, let me know!
 Why did you run for office?

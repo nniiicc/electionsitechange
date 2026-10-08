@@ -1,4 +1,4 @@
-top of page Home Meet Priorities News Newsletters Events Help Donate Week 33: The Politics of Endorsements and Voter Guides Celeste Landry Sep 29 # min read Updated: #ago Dear Colorado Voter, By now, Colorado’s big Blue Book on ballot measures has arrived in voters’ mailboxes.
+top of page Home Meet Priorities News Newsletters Events Help Donate Week 33: The Politics of Endorsements and Voter Guides Celeste Landry Sep 29 2 min read Updated: Sep 30 Dear Colorado Voter, By now, Colorado’s big Blue Book on ballot measures has arrived in voters’ mailboxes.
 Various other voter guides cover candidates and/or may include endorsements.
 I didn’t realize how much I would appreciate the voter guides that use the candidates’ exact words.
 A candidate like me with a platform that goes beyond a soundbite doesn’t always get portrayed accurately when the voter guide editors do the writing.

@@ -8,7 +8,12 @@ An effective conservative who delivers for rural communities and stands up to th
 Paul, Jared knows how to stand up for our values.
 Where Do I Vote ?
 Donate Your browser does not support the video tag.
-Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 #ago We need to take a serious look at ALL programs at the state level.
+Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 #ago Yesterday, we had the opportunity to take part in the Benton County Board Cookout, where we helped prepare and serve lunch for the hardworking employees of Benton County.
+We’re incredibly thankful for the men and women who show up every day to serve our communities and keep county services running.
+Their hard work, dedication, and commitment often happen behind the scenes, but they make a real difference in the lives of the people they serve.
+Thank you to all of our Benton County employees for everything you do.
+We appreciate you and the important role you play in making our county a great place to live, work, and raise a family! ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 42 Shares: 2 Comments: 2 2 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago We need to take a serious look at ALL programs at the state level.
 Minnesotans who need help are looking for a hand up, not a handout.
 At the same time, we need to dig deeper into funded and unfunded mandates pushed down to local governments.
 Those mandates have real consequences for taxpayers when local levies are set each year.
@@ -27,7 +32,7 @@ If money were no object, we could fund everything.
 Unfortunately, that isn’t reality.
 It’s time for a serious conversation about our priorities, our spending, and what Minnesota taxpayers can actually afford. www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #BloatedGovernment #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
 See More See Less Jared Gapinski for Minnesota Senate – District 13 www.gapinskiformnsenate.com Jared Gapinski is running for Minnesota Senate District 13 — a Fire Captain, business owner, and county commissioner delivering proven, accountable leadership.
-View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 28 Shares: 1 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 is with Lisa Demuth.
+View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 29 Shares: 2 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 is with Lisa Demuth.
 #ago Last week, I had the opportunity to participate in the Association of Minnesota Counties (AMC) Fall Policy Conference in Bemidji.
 As a Benton County Commissioner and Chair of AMC’s Public Safety Policy Committee, I spend a great deal of time working on issues that affect counties across Minnesota.
 The Fall Policy Conference brings county officials together for important conversations and presentations on policies that affect Minnesotans, their communities, and their wallets.
@@ -52,16 +57,4 @@ I was grateful for the opportunity to participate, discuss the issues facing Sen
 Forums like this are an important part of the election process.
 Thank you to the Chamber, everyone who helped organize the event, and those who took the time to attend and stay engaged in the future of our communities.
 I’m looking forward to continuing the conversation across Senate District 13 as we head toward Election Day on November 3! www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #SmallBusiness #chamberofcommerce #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 54 Shares: 0 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago As we mark the 25th anniversary of September 11th, we pause to remember the nearly 3,000 innocent lives stolen from us, the families whose lives were permanently altered, and the extraordinary citizens who showed unmatched courage in our darkest hour.
-For those that have worn the turnout gear, today carries a heavy, sacred weight.
-I am forever humbled by the memory of the 343 FDNY firefighters, alongside police officers, paramedics, and first responders, who ran toward danger and made the ultimate sacrifice.
-What the terrorists failed to realize is that the American spirit cannot be crushed by steel and smoke.
-In the days and weeks that followed, we didn't look at each other through the lens of politics or division.
-We looked at each other as neighbors, as protectors, and as Americans.
-We met unimaginable hatred with an overwhelming wave of compassion, unity, and shared humanity.
-Today, let us honor the fallen not just with our words, but by how we live.
-Let us recommit to the unity that carried us through twenty-five years ago.
-Let us support our first responders who step up to protect our communities every single day.
-And above all, let us ensure that future generations understand the cost of our freedom.
-We will #neverforget ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 30 Shares: 4 Comments: 0 0 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 54 Shares: 0 Comments: 0 0 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy

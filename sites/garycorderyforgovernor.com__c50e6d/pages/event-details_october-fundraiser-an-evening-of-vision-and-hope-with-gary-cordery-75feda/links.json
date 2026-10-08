@@ -1,29 +1,118 @@
 [
-"https://facebook.com/garycorderyforgovernor",
-"https://garycorderyforgovernor.com/",
-"https://garycorderyforgovernor.com/about-gary",
-"https://garycorderyforgovernor.com/accessibility",
-"https://garycorderyforgovernor.com/blog",
-"https://garycorderyforgovernor.com/business-vision",
-"https://garycorderyforgovernor.com/contact-us",
-"https://garycorderyforgovernor.com/donate",
-"https://garycorderyforgovernor.com/event-list",
-"https://garycorderyforgovernor.com/event-signin",
-"https://garycorderyforgovernor.com/key-issues-priorities",
-"https://garycorderyforgovernor.com/linktree",
-"https://garycorderyforgovernor.com/listen-to-gary",
-"https://garycorderyforgovernor.com/photo-consent",
-"https://garycorderyforgovernor.com/privacy-policy",
-"https://garycorderyforgovernor.com/sms-terms",
-"https://garycorderyforgovernor.com/subscribe",
-"https://garycorderyforgovernor.com/terms-and-conditions",
-"https://garycorderyforgovernor.com/vision",
-"https://garycorderyforgovernor.com/volunteer",
-"https://garycorderyforgovernor.com/vote-resources",
-"https://instagram.com/garycorderyforgovernor",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.garycorderyforgovernor.com%2Fevent-details%2Foctober-fundraiser-an-evening-of-vision-and-hope-with-gary-cordery%3Flang%3Den",
-"https://tiktok.com/@garycordery4governor",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.garycorderyforgovernor.com%2Fevent-details%2Foctober-fundraiser-an-evening-of-vision-and-hope-with-gary-cordery%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/GCForGov",
-"https://youtube.com/@Garycorderyforgovernor2026"
+{
+"text": "ABOUT GARY",
+"href": "https://www.garycorderyforgovernor.com/about-gary"
+},
+{
+"text": "ACCESSIBILITY",
+"href": "https://www.garycorderyforgovernor.com/accessibility"
+},
+{
+"text": "BLOG",
+"href": "https://www.garycorderyforgovernor.com/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.garycorderyforgovernor.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://www.garycorderyforgovernor.com/donate"
+},
+{
+"text": "EVENT SIGN IN",
+"href": "https://www.garycorderyforgovernor.com/event-signin"
+},
+{
+"text": "EVENTS",
+"href": "https://www.garycorderyforgovernor.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.garycorderyforgovernor.com"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.garycorderyforgovernor.com/key-issues-priorities"
+},
+{
+"text": "LISTEN TO GARY",
+"href": "https://www.garycorderyforgovernor.com/listen-to-gary"
+},
+{
+"text": "LOCAL BUSINESSES",
+"href": "https://www.garycorderyforgovernor.com/business-vision"
+},
+{
+"text": "PHOTO CONSENT POLICY",
+"href": "https://www.garycorderyforgovernor.com/photo-consent"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.garycorderyforgovernor.com/privacy-policy"
+},
+{
+"text": "SMS TERMS",
+"href": "https://www.garycorderyforgovernor.com/sms-terms"
+},
+{
+"text": "SOCIAL MEDIA",
+"href": "https://www.garycorderyforgovernor.com/linktree"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.garycorderyforgovernor.com/subscribe"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.garycorderyforgovernor.com/terms-and-conditions"
+},
+{
+"text": "VISION",
+"href": "https://www.garycorderyforgovernor.com/vision"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.garycorderyforgovernor.com/volunteer"
+},
+{
+"text": "VOTE + LINKS",
+"href": "https://www.garycorderyforgovernor.com/vote-resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/garycorderyforgovernor"
+},
+{
+"text": "[image: Gary Cordey - Hawai‘i Governor Candidate 2026]",
+"href": "https://www.garycorderyforgovernor.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/garycorderyforgovernor/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@garycordery4governor"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/GCForGov"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@Garycorderyforgovernor2026"
+},
+{
+"text": "[image: name.png]",
+"href": "https://www.garycorderyforgovernor.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.garycorderyforgovernor.com%2Fevent-details%2Foctober-fundraiser-an-evening-of-vision-and-hope-with-gary-cordery%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.garycorderyforgovernor.com%2Fevent-details%2Foctober-fundraiser-an-evening-of-vision-and-hope-with-gary-cordery%3Flang%3Den"
+}
 ]

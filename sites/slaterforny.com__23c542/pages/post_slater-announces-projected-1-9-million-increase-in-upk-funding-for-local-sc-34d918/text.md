@@ -12,6 +12,6 @@ The 2026–27 figures are preliminary estimates generated before actual student 
 NYSED will use student enrollment data reported this fall to determine final UPK payments; the department has designated Oct.
 7, 2026, as Basic Education Data System Day, the day final child counts are calculated for 2026–27 payments.
 “This is encouraging progress, but our work does not end with one budget,” Slater said.
-“I will continue working with our local school districts and families to ensure our communities have the resources they need to give every child the opportunity to succeed.” Recent Posts See All SLATER RECEIVES HELENE GOEBBELS AWARD AT PUTNAM VALLEY VOLUNTEER AMBULANCE CORPS’ 65TH ANNIVERSARY DINNER SLATER JOINS VOLUNTEER FIREFIGHTERS IN CALLING ON GOV.
-HOCHUL TO SIGN TAX CREDIT INCREASE SLATER'S 9/11 EDUCATION LEGISLATION GAINS SUPPORT FROM 9/11 EDUCATION FOUNDATION Leadership that's making a difference.
+“I will continue working with our local school districts and families to ensure our communities have the resources they need to give every child the opportunity to succeed.” Recent Posts See All SLATER HOSTS FIRST SENIOR RESOURCE FAIR IN MAHOPAC SLATER RECEIVES HELENE GOEBBELS AWARD AT PUTNAM VALLEY VOLUNTEER AMBULANCE CORPS’ 65TH ANNIVERSARY DINNER SLATER JOINS VOLUNTEER FIREFIGHTERS IN CALLING ON GOV.
+HOCHUL TO SIGN TAX CREDIT INCREASE Leadership that's making a difference.
 Friends of Matt Slater 2026 334 Underhill Ave., Ste 4B Yorktown Heights, NY 10598 ​ (914) 302-4134 matt@slaterforny.com ​ © Paid for by Friends of Matt Slater # ​ Privacy Policy Join Team Slater ​​Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law. bottom of page

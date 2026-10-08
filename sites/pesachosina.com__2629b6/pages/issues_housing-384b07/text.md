@@ -1,4 +1,4 @@
-Skip navigation menu Meet Pesach Issues Endorsements Volunteer Contact Donate Meet Pesach Issues Endorsements Volunteer Contact Donate Lowering Costs Improving Public Safety Fixing Transportation Protecting Seniors & Retirees Supporting Veterans Resiliency & Emergency Preparedness Responsible Housing Fighting Hate Animal Protection Responsible Housing Housing in our district isn’t one-size-fits-all — and it shouldn’t be treated that way.
+Skip navigation menu Meet Pesach Issues Endorsements Volunteer Contact Donate Meet Pesach Issues Endorsements Volunteer Contact Donate Lowering Costs Improving Public Safety Protecting Seniors & Retirees Fixing Transportation Supporting Veterans Resiliency & Emergency Preparedness Responsible Housing Fighting Hate Animal Protection Responsible Housing Housing in our district isn’t one-size-fits-all — and it shouldn’t be treated that way.
 From single-family homes in Howard Beach and Ozone Park, to co-ops in Lindenwood, to buildings along Shore Front Parkway, every community is different.
 And the people who live here want a real say in what happens in their neighborhoods.
 Pesach Osina believes that voice should come first.

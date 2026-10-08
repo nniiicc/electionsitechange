@@ -13,7 +13,7 @@ Hannah is smart and compassionate, and we will make a great team serving the Add
 You have two senators and two votes for senate in the Addison District.
 Please vote for both Ruth Hardy and Hannah Sessions!
 Thank you for your support.
-Latest Posts: Everywhere, All of the Time Keep reading October 2, 2026 October 2, 2026 Setting the record straight about my work Keep reading September 24, 2026 October 2, 2026 Vergennes Opera House All Access Project Keep reading September 17, 2026 Load more posts Something went wrong.
+Latest Posts: 3 Things You Can Do for Equality Keep reading October 7, 2026 Everywhere, All of the Time Keep reading October 2, 2026 October 2, 2026 Setting the record straight about my work Keep reading September 24, 2026 October 2, 2026 Load more posts Something went wrong.
 Please refresh the page and/or try again.
 Meet Ruth Ruth is a community leader and working mother of three children.
 She has spent her career working for good public policy, financially stable organizations, and opportunities for everyone to participate in democracy and community.

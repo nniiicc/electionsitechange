@@ -1,14 +1,10 @@
 [
 {
-"text": ".",
-"href": "mailto:info@forallvoices.com"
-},
-{
 "text": "Bản đồ quận",
 "href": "https://forallvoices.com/vi/district-map/"
 },
 {
-"text": "Chính sách bảo mật",
+"text": "Chính sách bảo mật và Điều khoản và Điều kiện về email và tin nhắn văn bản",
 "href": "https://forallvoices.com/vi/privacy-policy/"
 },
 {
@@ -130,6 +126,18 @@
 {
 "text": "[tooltip: Youtube]",
 "href": "https://www.youtube.com/channel/UC_L9DxCqB9mlAjzsfRUqNvA"
+},
+{
+"text": "cm@forallvoices.com",
+"href": "mailto:cm@forallvoices.com"
+},
+{
+"text": "https://forallvoices.com/",
+"href": "https://forallvoices.com/vi/"
+},
+{
+"text": "https://forallvoices.com/privacy-policy/",
+"href": "https://forallvoices.com/vi/privacy-policy/"
 },
 {
 "text": "info@forallvoices.com",

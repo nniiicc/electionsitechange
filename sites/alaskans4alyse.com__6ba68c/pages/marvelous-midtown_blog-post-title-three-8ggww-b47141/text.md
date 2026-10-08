@@ -10,5 +10,5 @@ Some neighbors were meeting each other for the first time and it sparked great c
 We met the spouse of one of the first public health doctors in Alaska and one of the first families to grow cross-country skiing throughout Anchorage.
 Keep an eye out for our upcoming lemonade stands in different neighborhoods throughout the district!
 June 17th, 2022 - 1852 E 26th Ave July 10th, 2022 - 4071 MacInnes St July 16th, 2022 - 1640 Crescent Dr July 23rd, 2022 - 3200 Brookside Dr August 6th, 2022 - 2311 W 48th Ave Stay Connected!
-Alyse Galvin Previous Previous Alaska Run For Women Paid for by: Alaskans For Alyse, P.O.
+Alyse Galvin Paid for by: Alaskans For Alyse, P.O.
 Box 212613, Anchorage, AK 99521 alyse@alaskans4alyse.com

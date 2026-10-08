@@ -23,7 +23,6 @@ It’s a basic human right .” Community Grants & Local Impact In addition to l
 Dutemple Elementary School Stadium Elementary School Edward S.
 Rhodes Elementary School Looking Ahead While 2025 delivered meaningful progress, there is always more work to be done.
 Senator Vargas remains committed to listening to constituents, addressing local concerns, and shaping thoughtful legislative priorities for the year ahead.
-You May Also Like Posted September 11, 2024 Press Release: Lammis Vargas Declares Victory in Senate District 28 Primary Posted July 17, 2024 Secretary Gorbea Hires Lammis J.
-Vargas as Deputy Secretary of State/Director of Administration Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+You May Also Like Posted October 3, 2024 Vargas and team reopen Edgewood Highland Playground Posted September 11, 2024 Press Release: Lammis Vargas Declares Victory in Senate District 28 Primary Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
 #teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
 Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

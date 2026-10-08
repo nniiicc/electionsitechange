@@ -2,4 +2,4 @@ top of page DONATE Home About Issues Get Involved Video & Media Contact Ronald R
 4 0 Sep 24, 2026 ∙ 0 min Video: Meet Ron Ruman 4 0 Sep 18, 2026 ∙ 1 min Ron Ruman's Statement on Data Centers Data centers must play by OUR rules, not theirs.
 Data centers must: pay for the electricity they use, and not push these costs onto residents and businesses strictly abide by water use guidelines so as not to threaten the community’s water supply be transparent with local residents and officials hire local residents whenever possible strictly abide by local noise and lighting ordinances I support repealing the sales tax exemption for data centers to buy equipment.
 The richest companies in...
-13 0 Ron Ruman - FOR PENNSYLVANIA REPRESENTATIVE - © # RumanforRep Paid for by RumanforRep info@rumanforrep.com bottom of page
+14 0 Ron Ruman - FOR PENNSYLVANIA REPRESENTATIVE - © # RumanforRep Paid for by RumanforRep info@rumanforrep.com bottom of page

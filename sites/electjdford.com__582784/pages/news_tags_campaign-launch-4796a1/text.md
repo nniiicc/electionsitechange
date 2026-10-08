@@ -29,12 +29,7 @@ Ford appointed to Midwestern Education and Workforce Committee IN Senate Dems 6/
 J.D.
 Ford: Trump’s Order to Close the U.S.
 Department of Education is a Direct Threat to Hoosier Students IN Senate Dems 3/20/25 Ford Becomes First Openly Gay State Lawmaker, Defeating Delph WFYI 11/7/18 Democrat J.D.
-Ford will become Indiana's first openly gay lawmaker IndyStar 11/6/18 Start Now ​ STATE SENATOR J.D.
-FORD ANNOUNCES CAMPAIGN FOR U.S.
-HOUSE OF REPRESENTATIVES Indiana State Senator J.D.
-Ford announced his candidacy for the U.S.
-House of Representatives in Indiana’s 5th Congressional District, launching a campaign prioritizing affordability, healthcare, and giving Hoosiers a voice in their government.
-Press Release Dec 7, 2025 2 min read Candidate for Indiana's 5th Congressional District Delaware • Grant • Hamilton • Howard • Madison • Tipton Subscribe to the J.D.
+Ford will become Indiana's first openly gay lawmaker IndyStar 11/6/18 Start Now ​ Candidate for Indiana's 5th Congressional District Delaware • Grant • Hamilton • Howard • Madison • Tipton Subscribe to the J.D.
 Ford newsletter Email * Yes, subscribe me to your newsletter and read the privacy statement . * Submit Meet J.D.
 News Events Endorsements Volunteer Platform Merch Media Kit Privacy Policy Accessibility Statement Terms & Conditions Log In We can't AFFORD politics as usual.
 Paid for and authorized by the Neighbors to Elect J.D.

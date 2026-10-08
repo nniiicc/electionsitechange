@@ -1,4 +1,4 @@
-0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Workers’ Rights & Workplace Safety Aug 3 Written By Mary Lee North Carolina is ranked one of the worst states for workers.
+0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Workers’ Rights & Workplace Safety Aug 3 Written by Mary Lee North Carolina is ranked one of the worst states for workers.
 This is because our minimum wage is too low to keep up with our cost of living and our laws are hostile to organized labor.
 I believe that fair pay and workers rights are issues intertwined with social justice.
 We must recognize our hourly workers and laborers as the backbone of our community.

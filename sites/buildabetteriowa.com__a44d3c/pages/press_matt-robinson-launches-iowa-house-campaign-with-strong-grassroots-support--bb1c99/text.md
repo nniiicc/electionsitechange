@@ -7,4 +7,4 @@ With the campaign off to a strong start, Robinson says he's focused on building 
 “We’re done waiting on solutions from out-of-touch politicians.
 I’m ready to fight for working class Iowans.
 It’s time we do more than just merely get by, we need paychecks that keep up with costs and the security to know if we work hard and do the right thing we will be able to thrive.” 0 Comments Leave a Reply.
-For press inquiries Please email: MattRobinsonForIowa ​@gmail.com Home MY STORY Issues Press VOLUNTEER DONATE
+For press inquiries Please email: MattRobinsonForIowa ​@gmail.com Paid For by Matt Robinson for Iowa Home MY STORY Issues Press VOLUNTEER DONATE

@@ -1,7 +1,7 @@
-Skip navigation menu About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate Dignity.
+Skip navigation menu About What I Stand For My Priorities What Voters Need to Know Endorsements Press & Media Events Volunteer Contact Donate Dignity.
 Fairness.
 Opportunity.
-About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate Dignity.
+About What I Stand For My Priorities What Voters Need to Know Endorsements Press & Media Events Volunteer Contact Donate Dignity.
 Fairness.
 Opportunity.
 I stand for dignity, fairness, and opportunity for every person in our community.

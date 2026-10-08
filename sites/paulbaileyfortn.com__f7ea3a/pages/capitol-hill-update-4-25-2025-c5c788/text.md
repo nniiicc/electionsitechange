@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 4/25/2025 Capitol Hill Update 4/25/2025 To the Citizens of Senate District 15 The 2025 Session of the 114th General Assembly adjourned on Tuesday, April 22nd.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 4/25/2025 Capitol Hill Update 4/25/2025 To the Citizens of Senate District 15 The 2025 Session of the 114th General Assembly adjourned on Tuesday, April 22nd.
 The General Assembly will reconvene at 12:00 noon on Tuesday, January 13, 2026.
 This was a tremendously successful and efficient legislative session.
 Not only did we continue our tradition of passing a fiscally responsible balanced budget, we also made great strides on boosting our state’s infrastructure, increasing our commitment to public safety and demagnetizing our state from the scourge of illegal immigration.

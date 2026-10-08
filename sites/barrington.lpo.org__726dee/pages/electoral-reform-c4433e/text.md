@@ -121,6 +121,6 @@ In reality we could expect there to be several more parties making similar deals
 However, as the need for constituent service would not disappear, this would be easily solved by having each state delegation, or each party’s Representatives within a state delegation, agree on some allocation of constituent service tasks.
 Representatives in this model have an obvious interest in keeping their party’s vote share high in their state. ↩︎ These primaries in Alaska are often mistakenly conflated with ranked choice voting.
 In fact, how candidates for the general election are selected is a separate question from how the general election winner is determined.
-Alaska’s general election uses ranked choice; its primaries do not. ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+Alaska’s general election uses ranked choice; its primaries do not. ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

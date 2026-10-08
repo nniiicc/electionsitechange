@@ -14,7 +14,7 @@ When data centers in some communities pollute the water and raise energy prices,
 When gas prices skyrocket , well… everyone—and I mean everyone —pays.
 Eventually people leave.
 Communities hollow out.
-Many of the issues that plague rural communities started at the federal level, and that’s where they must be addressed—most immediately by cutting our human (18 American lives lost; 600+ wounded) and financial ($100+ billion) losses in Iran and getting fuel costs under control for our farmers and, frankly, for anyone that drives, eats or shops.
+Many of the issues that plague rural communities started at the federal level, and that’s where they must be addressed—most immediately by cutting our human (19 American lives lost; 800+ wounded) and financial ($100+ billion) losses in Iran and getting fuel costs under control for our farmers and, frankly, for anyone that drives, eats or shops.
 Even if the war ended tomorrow, it could take a full year for global oil prices—and our prices at the pump—to drop to prewar levels.
 Some estimates predict it could be many years.
 As soon as possible, Congress must repeal HR 1 (aka Big “Beautiful” Bill) and restore the mountain of funding it stripped away from Medicaid and SNAP benefits .

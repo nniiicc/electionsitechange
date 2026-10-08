@@ -20,7 +20,10 @@ Check your inbox for updates from Jeff.
 By joining you agree to our Privacy Policy .
 Support Jeff Clark Your contribution helps Jeff fight for the values of the 88th District.
 Every dollar makes a difference.
-Donate Now 📄 View Full Letter (PDF) Pennsylvania State Troopers Association (PSTA) Official Endorsement — General Election 2026 The Pennsylvania State Troopers Association (PSTA) — representing more than 9,000 active and retired State Troopers — has endorsed Jeff Clark for State Representative in Pennsylvania's 88th District's General Election.
+Donate Now Setting the Record Straight 📄 View Full Letter (PDF) “The attack ads about me are simply not true.
+I served four years in the U.S.
+Air Force and 23 years in law enforcement, and I’m proud of my service.
+My former police chief confirmed I was eligible for rehire.” — Jeff Clark Read Jeff's Full Response Endorsements 📄 View Full Letter (PDF) Pennsylvania State Troopers Association (PSTA) Official Endorsement — General Election 2026 The Pennsylvania State Troopers Association (PSTA) — representing more than 9,000 active and retired State Troopers — has endorsed Jeff Clark for State Representative in Pennsylvania's 88th District's General Election.
 PSTA cited Jeff's demonstrated support for law enforcement officers and his commitment to public safety across the Commonwealth.
 “The PSTA seeks to endorse candidates who have the best interest of Pennsylvania and its law enforcement community at heart.
 Your demonstrated support of law enforcement officers shows resolute determination in making Pennsylvania a safe place for our citizens to live, work and raise a family.” — Stephen Polishan, President, Pennsylvania State Troopers Association 📄 View Full Letter (PDF) Fraternal Order of Police Tri-County Lodge 76 Official Endorsement — General Election 2026 The Fraternal Order of Police Tri-County Lodge 76 — representing law enforcement officers across Cumberland, Adams, Franklin, Fulton, and Perry Counties — has voted to endorse Jeff Clark for State Representative in Pennsylvania's 88th District.

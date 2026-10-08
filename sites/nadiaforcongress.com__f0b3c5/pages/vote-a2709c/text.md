@@ -1,12 +1,4 @@
-Voter Information
-Massachusetts’ First Congressional District covers a good portion of the west side of the state.
+Skip to content 413-377-6223 Campaign Headquarters 24 I sland Pond Rd, Springfield Main Menu Home Meet Nadia Policies Main Menu How to Vote Volunteer Donate Donate Volunteer Main Menu Home Meet Nadia Policies How to Vote Volunteer Donate Voter Information Massachusetts’ First Congressional District covers a good portion of the west side of the state.
 It includes five counties: parts of Franklin, Hampshire, and Worcester counties, and the entirety of Berkshire and Hampden counties.
 Below, you can see an interactive map of the district.
-District Map
-Important Dates:
-- October 17, 2026 - First Day to Early Vote in Person
-- October 24, 2026 - Last Day to Register to Vote
-- October 27, 2026 5 pm - Last Day to Apply for Mail In Ballots
-- Early Voting Period October 17-30
-- November 3, 2026 - Election Day
-- Election Day Polling Hours 7am - 8pm
+District Map Important Dates: October 17, 2026 - First Day to Early Vote in Person October 24, 2026 - Last Day to Register to Vote October 27, 2026 5 pm - Last Day to Apply for Mail In Ballots Early Voting Period October 17-30 November 3, 2026 - Election Day Election Day Polling Hours 7am - 8pm Important Links: Register to Vote Online Apply to Vote by Mail Online Track Your Mail In Ballot Check Your Voter Registration Status Facebook X-twitter Instagram Apple Paid for by Nadia for Congress Privacy Policy

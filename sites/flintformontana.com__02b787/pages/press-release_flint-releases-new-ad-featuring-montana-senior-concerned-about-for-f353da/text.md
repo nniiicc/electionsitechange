@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate Flint Releases New Ad Featuring Montana Senior Concerned About Forstag’s Social Security Tax Hike Press Release September 24, 2026 Watch the ad here KALISPELL, MT — Today, Aaron Flint’s campaign released a new ad featuring Tammy Hall, a senior living on a fixed income who also cares for her disabled daughter.
+Home About Issues News Get Involved Contact Store Media Donate Flint Releases New Ad Featuring Montana Senior Concerned About Forstag’s Social Security Tax Hike Press Release September 24, 2026 Watch the ad here KALISPELL, MT — Today, Aaron Flint’s campaign released a new ad featuring Tammy Hall, a senior living on a fixed income who also cares for her disabled daughter.
 In the ad, Hall says Sam Forstag’s proposed Social Security tax increase would make it harder for her and her family to get by.
 “When you’re a senior citizen living on a fixed income, every penny counts,” Hall says in the ad.
 “I can’t afford Sam Forstag’s tax increase.

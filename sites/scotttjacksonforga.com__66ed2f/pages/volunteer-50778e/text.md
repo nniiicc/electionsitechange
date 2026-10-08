@@ -2,7 +2,7 @@ Skip to content Skip to content Contact the Campaign: (404) 953-5268 Email: info
 Sign up below to volunteer and help us build momentum across our community.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-How to Number Name * First Last Email * Phone Number * How would you like to get involved? * Canvassing Phone Banking Event Support Yard Signs General Volunteer Comment or Message Submit Volunteer Leadership.
+Name * First Last Email * Phone Number * or get to How would you like to get involved? * Canvassing Phone Banking Event Support Yard Signs General Volunteer Comment or Message Submit Volunteer Leadership.
 Integrity.
 Results.
 Powered by people — not special interests — this campaign is focused on strengthening families, expanding opportunity, and delivering results for District 111.

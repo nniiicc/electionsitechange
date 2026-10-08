@@ -1,4 +1,3 @@
-“I am proud to endorse David Tucker for the Vermont House.
+Donate Home Meet David Issues News & Events Contact Honored to have the endorsement of US Senator Peter Welch “I am proud to endorse David Tucker for the Vermont House.
 Throughout his public service career, David has proven himself to be an independent, hard-working advocate who will deliver for our rural communities.
-The residents of Barnet, Ryegate, and Waterford need a representative who listens and follows through, and David is exactly the right person for the job.”
-– Peter Welch, US Senator
+The residents of Barnet, Ryegate, and Waterford need a representative who listens and follows through, and David is exactly the right person for the job.” – Peter Welch, US Senator Back to News & Events Campaign Endorsements Tucker for Vermont Campaign Endorsements Donate Follow Follow David Tucker for Vermont PO Box 15, Lower Waterford, VT 05848 info@tuckerforvermont.com Paid for by Tucker for Vermont, Celina Wright Treasurer © # Tucker for Vermont

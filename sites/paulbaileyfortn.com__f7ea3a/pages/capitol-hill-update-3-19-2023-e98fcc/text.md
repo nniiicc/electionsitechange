@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 3/19/2023 Capitol Hill Update 3/19/2023 On Tuesday, Daniel Austin, a student at White County High School, spent the day job shadowing me and learning more about the functions of State Government.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 3/19/2023 Capitol Hill Update 3/19/2023 On Tuesday, Daniel Austin, a student at White County High School, spent the day job shadowing me and learning more about the functions of State Government.
 He aspires to one day be the State Veterinarian.
 I also had the privilege of welcoming several other outstanding citizens of Senate District 15 to Capitol Hill who were advocating in support of various pieces of legislation.
 If you would like to be my guest on the Senate floor or schedule a tour of our beautiful State Capitol, please contact my office at (615) 741-3978 .

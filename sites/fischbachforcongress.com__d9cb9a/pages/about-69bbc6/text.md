@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact About Michelle About Michelle Michelle Fischbach is the U.S.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact About Michelle About Michelle Michelle Fischbach is the U.S.
 Congressional Representative for western Minnesota’s 7 th District.
 She is a trailblazer and proven conservative leader, continuing to make her mark as a member of the House Committees on Ways and Means and Rules.
 On Ways and Means, she serves on the Trade Subcommittee and the Oversight Subcommittee.

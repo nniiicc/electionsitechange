@@ -1,3 +1,2 @@
-The Committee to Elect Kamilah Bywaters
-6415 S Fort Apache Rd, Ste 185, Las Vegas, NV 89148
+6415 S Fort Apache Rd, Ste 185, Las Vegas, NV 89148 kamilah4nevadans@gmail.com Social Media: X-twitter Instagram Facebook Home About Action Merch Contact Donate Endorsements Contact Us Mailing Address The Committee to Elect Kamilah Bywaters 6415 S Fort Apache Rd, Ste 185, Las Vegas, NV 89148 Email Address kamilah4nevadans@gmail.com Phone Number 725-500-2111 This campaign is about families, fairness, and the future of Nevada communities.
 Kamilah Bywaters is running to ensure the laws passed today create opportunity, stability, and dignity for generations to come.

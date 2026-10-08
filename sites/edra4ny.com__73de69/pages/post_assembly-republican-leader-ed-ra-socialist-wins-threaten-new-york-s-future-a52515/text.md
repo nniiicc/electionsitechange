@@ -1,11 +1,11 @@
-ASSEMBLY REPUBLICAN LEADER ED RA: SOCIALIST WINS THREATEN NEW YORK’S FUTURE
-Updated: Jul 14
-New York State Assembly Republican Leader Ed Ra (R-Franklin Square) today commented on democratic-socialist victories in legislative and congressional primaries, warning that their radical agenda and growing presence in the Democratic party will deepen the state’s fiscal crisis and future prosperity.
+top of page DONATE SUBSCRIBE MEET ED ON THE ISSUES LATEST UPDATES GET INVOLVED VOLUNTEER LAWN SIGN REQUEST GET IN TOUCH EVENTS Use tab to navigate through the menu items.
+ALL ARTICLES PRESS RELEASES LATEST UPDATES MEDIA ADVISORY Search ASSEMBLY REPUBLICAN LEADER ED RA: SOCIALIST WINS THREATEN NEW YORK’S FUTURE Jun 24 1 min read Updated: Jul 14 New York State Assembly Republican Leader Ed Ra (R-Franklin Square) today commented on democratic-socialist victories in legislative and congressional primaries, warning that their radical agenda and growing presence in the Democratic party will deepen the state’s fiscal crisis and future prosperity.
 “New York’s Democratic party is headed in one clear direction—the extreme left.
 After last night’s primaries it appears socialists are no longer merely a ‘wing’ of the party, they’re taking over the entire house,” Leader Ra said.
 “Their vision for New York is built on higher taxes, defunding police, ending capitalism, expanding government control and erasing public safety policies.
-It is a recipe for disaster and a direct threat to the future of our state.”
-Leader Ra emphasized that these victories, concentrated in safe Democratic districts, will burden working families, small businesses and upstate and suburban communities with more debt, regulations and job-killing policies.
+It is a recipe for disaster and a direct threat to the future of our state.” Leader Ra emphasized that these victories, concentrated in safe Democratic districts, will burden working families, small businesses and upstate and suburban communities with more debt, regulations and job-killing policies.
 “We have seen this failed experiment play out in cities across the country.
 It leads to population loss, business flight and declining quality of life.
 As Democrats welcome more radical socialists into their party, Republicans will continue fighting for hardworking New Yorkers and common-sense priorities of tax relief, safer streets, lower costs, and economic growth,” Leader Ra said.
+Recent Posts See All STATEMENT FROM ASSEMBLY MINORITY LEADER ED RA ON AMERICA’S 250TH ANNIVERSARY STATEMENT FROM ASSEMBLY MINORITY LEADER ED RA ON THE DIVISION OF BUDGET’S RELEASE OF THE STATE FINANCIAL PLAN STATEMENT FROM ASSEMBLY MINORITY LEADER ED RA ON THE END OF THE 2026 LEGISLATIVE SESSION ENDORSEMENTS GET THE LATEST UPDATES Home Meet Ed Latest Updates Events Get Involved Get In Touch © # by Ed Ra.
+Powered and secured by Wix Friends of Ed Ra ​ PO Box 8088 Garden City, NY 11530 ​ ​ ​ ​ ​ voteedra@gmail.com bottom of page

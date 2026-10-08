@@ -14,8 +14,7 @@ There is no incumbent in the 98 th Assembly race.
 The district includes Hartford, Richfield, the Town of Erin, Merton, Sussex, and Lisbon.
 Piwowarczyk, 54, has growing momentum in the race; he has also been endorsed by top local leaders, like Washington and Waukesha County Sheriffs Marty Schulteis and Eric Severson, County Executive Josh Schoemann, DA Mark Bensen, and the Washington County Deputy Sheriff’s Association.
 The latter called him a “staunch supporter of the righteous.” For more information see jimforwi.com.
-Post navigation Previous post: Prev NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY July 29, 2024 Next post: Next DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS July 29, 2024 You May Also Like Posted April 11, 2024 in ticker , Endorsements , News Rep.
-Bob Donovan Endorses Jim Piwowarczyk for Assembly Posted July 29, 2024 in News DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY July 29, 2024 Next post: Next DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS July 29, 2024 You May Also Like Posted July 29, 2024 in News DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS Posted May 3, 2024 in Endorsements , News , ticker Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

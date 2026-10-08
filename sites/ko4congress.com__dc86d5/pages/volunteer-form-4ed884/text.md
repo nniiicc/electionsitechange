@@ -1,4 +1,4 @@
-0 Skip to Content Top Policy Priorities Get Involved Media Get to Know Karen please donate Open Menu Close Menu Top Policy Priorities Get Involved Media Get to Know Karen please donate Open Menu Close Menu Top Policy Priorities Get Involved Media Get to Know Karen please donate Sign up to Volunteer We’re walking neighborhoods, making phone calls, putting up signs, and doing outreach.
+0 Skip to Content Top Policy Priorities Get Involved Media Get to Know Karen Endorsements please donate Open Menu Close Menu Top Policy Priorities Get Involved Media Get to Know Karen Endorsements please donate Open Menu Close Menu Top Policy Priorities Get Involved Media Get to Know Karen Endorsements please donate Sign up to Volunteer We’re walking neighborhoods, making phone calls, putting up signs, and doing outreach.
 Join our campaign today to help us spread the word that Karen Ortiz is the best leader to represent the 12th Congressional District in NYC!
 Host a house party Volunteer Donate Checks can be made payable to “Karen Ortiz for Congress” and sent to: 5 Union Square West FRNT 1 #1253 New York, NY 10003 Copyright © # Karen Ortiz for Congress.
 All rights reserved.

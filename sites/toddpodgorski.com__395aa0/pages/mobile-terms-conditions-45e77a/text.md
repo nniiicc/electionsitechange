@@ -1,4 +1,4 @@
-Join Us for a Fundraiser on October 1st from 6 - 8pm @ The Croation Hall Mobile Terms & Conditions Mobile Terms & Conditions Todd Podgorski for Senate is offering a mobile messaging program (the "Program"), subject to these Mobile Messaging Terms and Conditions (the "Terms").
+Mobile Terms & Conditions Mobile Terms & Conditions Todd Podgorski for Senate is offering a mobile messaging program (the "Program"), subject to these Mobile Messaging Terms and Conditions (the "Terms").
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply "STOP" to any mobile message from us in order to opt out of the Program.
 By signing up for the program through a form provided or by giving your information to Us at an in-person event, you are giving your express consent, and opting in to receive automated text messages, alerts, and updates at the phone number you provided.
 Regardless of your opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.

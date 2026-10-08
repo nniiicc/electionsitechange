@@ -29,7 +29,7 @@ Message frequency may vary, and standard message and data rates may apply.
 Text Messaging and TCPA Compliance The Campaign complies with the Telephone Consumer Protection Act and applicable state laws governing text messaging.
 Explicit opt-in consent is required prior to sending automated text messages.
 Consent may be withdrawn at any time by replying STOP.
-Text message opt-in data and consent are not sold or shared, except with service providers assisting the Campaign in delivering messages or as required by law.
+The above excludes text messaging originator opt-in data and consent, which information will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); and (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
 10.
 Information Sharing and Disclosure The Campaign may share personal information with campaign staff, volunteers, consultants, professional service providers, and vendors solely for lawful campaign-related purposes.
 The Campaign does not sell, rent, or trade personal information for commercial purposes.

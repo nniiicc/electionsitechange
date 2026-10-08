@@ -1,5 +1,4 @@
-About Linda
-Linda is a first-generation college graduate with a Bachelors in Public Policy from Stanford University.
+Home About Values Get Involved About Linda Linda is a first-generation college graduate with a Bachelors in Public Policy from Stanford University.
 She has spent her career fighting for New Mexicans and working families across the United States.
 Linda Serrato began her career, organizing communities in eastern New Mexico for President Barack Obama’s 2008 campaign.
 From Raton and Clayton in the North, down to Carlsbad and Hobbs in the South, Linda worked with organizers and community members on the 2008 election.
@@ -14,4 +13,4 @@ As a community member in Santa Fe, Linda organized the Santa Fe Families Belong 
 She is an active member of Big Brothers Big Sisters, an alumni and former boardmember for Emerge New Mexico, and a proud member of Raising Santa Fe.
 As the daughter of a lifelong union worker, Linda knows that if we work together, we will make our community stronger and create a better future for our children.
 She is ready to fight for New Mexicans in the Roundhouse.
-She proudly lives in House District 45 with her husband, Matt, daughter, Alma and pup, Hemingway.
+She proudly lives in House District 45 with her husband, Matt, daughter, Alma and pup, Hemingway. [fts_facebook type=page id=106115987493807 access_token=EAAP9hArvboQBAENCZAf9AbAtg41ZAKn1fTxSWKTgXXHqDt8sBLQbcPuxHr7sfGzWDRi1z0YsaPtt3czOrRdnrYVuteYgSu95ZCfPvYONwXb7JffZAw7CBFG4NbO2V5iEpvGPfP9EFybvuafGZC58BZBTzA1eFio7AP5DYZAKxJEiygAfIo1ZCNfS posts=3 description=no posts_displayed=page_only images_align=center] grassroots@lindafornm.com 505-395-6356 Paid for by Our Neighbors for Linda (Treasurer: Soledad Roybal) Privacy Preference Center Privacy Preferences

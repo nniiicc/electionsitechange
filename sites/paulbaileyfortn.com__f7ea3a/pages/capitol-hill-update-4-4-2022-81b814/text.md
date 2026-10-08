@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 4/4/2022 Capitol Hill Update 4/4/2022 Capitol Hill Week (NASHVILLE, Tenn.), April 4, 2022 – Action on Capitol Hill continued to shift from committees to the floor of the Senate this week as lawmakers worked diligently to approve many important bills.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 4/4/2022 Capitol Hill Update 4/4/2022 Capitol Hill Week (NASHVILLE, Tenn.), April 4, 2022 – Action on Capitol Hill continued to shift from committees to the floor of the Senate this week as lawmakers worked diligently to approve many important bills.
 Over half of the Senate’s nine standing committees have completed their business for the 112th General Assembly.
 Meanwhile, the state budget will be the central focus during the final weeks before adjournment.
 Governor Lee proposes new budget amendment Finance and Administration Commissioner Butch Eley briefed members of the Senate Finance Committee this week on Governor Bill Lee’s proposed additions to the 2022-2023 state budget.

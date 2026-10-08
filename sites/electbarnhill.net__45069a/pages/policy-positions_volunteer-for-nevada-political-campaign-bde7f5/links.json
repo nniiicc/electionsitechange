@@ -68,12 +68,20 @@
 "href": "https://electbarnhill.net/events/"
 },
 {
+"text": "Get to know me",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
 "text": "Home",
 "href": "https://electbarnhill.net/"
 },
 {
 "text": "Independent",
 "href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Join the campaign",
+"href": "https://electbarnhill.net/get-involved/"
 },
 {
 "text": "Next Next post: While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster",
@@ -98,6 +106,10 @@
 {
 "text": "Previous Previous post: Secure Ballot Counting in Nevada Starts Here",
 "href": "https://electbarnhill.net/policy-positions/secure-ballot-counting-nevada/"
+},
+{
+"text": "See all policy positions",
+"href": "https://electbarnhill.net/policy-positions/"
 },
 {
 "text": "VW Themes",
@@ -178,14 +190,6 @@
 {
 "text": "cybersecurity plan",
 "href": "https://electbarnhill.net/policy-positions/nevada-election-cybersecurity-plan/"
-},
-{
-"text": "get to know me",
-"href": "https://electbarnhill.net/about/about-brad/"
-},
-{
-"text": "join the campaign",
-"href": "https://electbarnhill.net/get-involved/"
 },
 {
 "text": "more about my background here",

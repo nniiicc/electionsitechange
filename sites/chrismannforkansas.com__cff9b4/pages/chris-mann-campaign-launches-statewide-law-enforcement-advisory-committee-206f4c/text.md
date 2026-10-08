@@ -1,4 +1,4 @@
-Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved News Donate Chris Mann campaign launches Statewide Law Enforcement Advisory Committee September 10, 2026 LAWRENCE, KS – Today, the Chris Mann campaign launched its first statewide coalition of the cycle, Law Enforcement for Chris Mann.
+Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved Merch Vote News Donate Chris Mann campaign launches Statewide Law Enforcement Advisory Committee September 10, 2026 LAWRENCE, KS – Today, the Chris Mann campaign launched its first statewide coalition of the cycle, Law Enforcement for Chris Mann.
 Mann’s Law Enforcement Advisory Committee, which was also announced today, is spearheading the coalition.
 The Law Enforcement Advisory Committee comprises current and retired sheriffs and chiefs of police, a former U.S. attorney, and a former judge, representing communities across Kansas.
 “As a former police officer and prosecutor, I’m honored to have the backing of current and retired law enforcement leaders across Kansas,” said Chris Mann, candidate for Kansas Attorney General.
@@ -26,6 +26,6 @@ While prosecuting in Wyandotte County, Chris began volunteering with Mothers Aga
 In 2014, Chris began prosecuting as a Senior Staff Attorney in the Office of the Kansas Securities Commissioner, investigating and prosecuting scam artists and white-collar criminals.
 Chris now owns his own law firm where he represents victims of drunk driving and their families.
 Chris is running for Kansas Attorney General to defend the Constitution, protect the rule of law, and ensure Kansas families are safe.
-### Post navigation Previous: “Kansans need an Attorney General that works for working people,” Chris Mann clinches several new endorsements from organized labor in his race for Kansas Attorney General Next: FIRST AD: Chris Mann highlights record of taking on violent offenders and greedy corporations Meet Chris Priorities Get Involved News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
+### Post navigation Previous: “Kansans need an Attorney General that works for working people,” Chris Mann clinches several new endorsements from organized labor in his race for Kansas Attorney General Next: FIRST AD: Chris Mann highlights record of taking on violent offenders and greedy corporations Meet Chris Priorities Get Involved Merch Vote News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
 Docking Treasurer.
 Privacy Policy

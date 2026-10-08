@@ -7,5 +7,5 @@ Video / Audio / Print 2024 candidate forum on CCTV, Oct.
 Click to hear August 2022 opponent on WVMT.
 Click to hear Wrenner's 2022 fall interview.
 November opponent declined an interview.
-Talking w/Kurt & Anthony about the VT Legislative session on May 1st, 2023 ... ... and on July 3rd, 2023 on WVMT. ​ Pre-election conversation #1, October 1, 2024. ​ Pre-election conversation #2, October 29, 2024. ​ ​ Pre-election conversation, September 1, 2026 ​ Quick Chat with Guy Page at 12:42 September 28, 2026 2023 Legislative Update in Fairfax Power Lunch Feature by VTDigger , Jan.
+Talking w/Kurt & Anthony about the VT Legislative session on May 1st, 2023 ... ... and on July 3rd, 2023 on WVMT. ​ Pre-election conversation #1, October 1, 2024. ​ Pre-election conversation #2, October 29, 2024. ​ ​ Pre-election conversation, September 1, 2026 ​ Quick Chat with Guy Page at 12:42 September 28, 2026 Quick Chat with Guy Page at 2:26 October 7, 2026 2023 Legislative Update in Fairfax Power Lunch Feature by VTDigger , Jan.
 2024 Watch 2022 General Election forum Watch 2022 Democratic candidate forum Click to watch 2022 presentation on LCATV © # by Irene Wrenner irene@wrenner4senate.org bottom of page

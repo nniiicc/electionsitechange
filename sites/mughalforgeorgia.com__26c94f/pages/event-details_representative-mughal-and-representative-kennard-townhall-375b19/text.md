@@ -1,6 +1,1 @@
-top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
-CONTRIBUTE SUBSCRIBE Sat, Feb 17 | Collins Hill Library Meeting Room Representative Mughal and Representative Kennard Townhall Registration is closed See other events Time & Location Feb 17, 2024, 10:00 AM – 12:00 PM Collins Hill Library Meeting Room, 455 Camp Perrin Rd NE, Lawrenceville, GA 30043, USA Guests + 12 other guests About the event Representatives Farooq Mughal and Greg Kenard will be hosting a town hall together in the meeting room in the Collins Hill Library.
-They will talk about what is currently happening in the 2024 legislative session.
-They will also discuss issues such as small business, Medicaid, and education.
-Show More Share this event START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
-MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page
+

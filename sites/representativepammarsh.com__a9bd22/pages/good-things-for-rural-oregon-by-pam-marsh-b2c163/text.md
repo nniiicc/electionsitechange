@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements 2017 Session produced good things for rural Oregon On Friday, July 7, the gavel came down one last time to signal the end of Oregon’s 2017 legislative session.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements 2017 Session produced good things for rural Oregon On Friday, July 7, the gavel came down one last time to signal the end of Oregon’s 2017 legislative session.
 It was the final moment of a packed, productive, sometimes disappointing and occasionally contentious five months in the Capitol.
 From the first day of the session, much of our discussion, sometimes heated, centered around our perceptions of the differing needs between rural and urban areas of the state.
 Here in Jackson County we sit somewhere in the middle of that polarity.

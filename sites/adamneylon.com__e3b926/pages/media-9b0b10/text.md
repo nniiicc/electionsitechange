@@ -1,0 +1,7 @@
+Meet Adam Waukesha County Winning Media Volunteer DONATE The Latest from Team Neylon Follow the campaign, hear directly from Adam, and stay informed on the ideas, announcements, and conversations shaping the future of Waukesha County.
+22 Sep Tuesday, 1:10 PM · 2026 Kapenga, Neylon Try Double Run For Legislature And Waukesha County Executive Two Waukesha County Republicans are asking voters to reelect them to the state Legislature in November while simultaneously campaigning to become the county’s next executive in a December special election.
+Read more 12 Sep Saturday, 1:04 PM · 2026 We Asked Adam Neylon 4 Questions Why is Adam running for County Executive?
+Read more 10 Sep Thursday, 1:03 PM · 2026 Neylon Announces Campaign "We have something great here" “I’m running because Waukesha County is my home.
+I love this place.
+I believe our families deserve leadership that puts community first, delivers results, protects taxpayers and preserves the values that make this place so special,” said Neylon.
+Read more 10 Sep Thursday, 1:00 PM · 2026 Neylon Announces Campaign For Waukesha County Executive Adam Neylon Announces Campaign For Waukesha County Executive Read more Voter Information Yard Signs Contact Adam for Waukesha County Powered by CampaignPartner.com - Political Websites Home Meet Adam Waukesha County Winning DONATE Volunteer Media Yard Signs Contact Voter Information Close Menu

@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate Flathead County Sheriff Heino, Lt.
+Home About Issues News Get Involved Contact Store Media Donate Flathead County Sheriff Heino, Lt.
 Col Aaron Flint join locals to support law enforcement, expose Portland lobbyist Sam Forstag’s pro-Illegal Alien, anti-Law Enforcement Record Press Release October 2, 2026 WHITEFISH, MT – Flathead County Sheriff Brian Heino and retired Army Lt.
 Colonel Aaron Flint joined dozens of local residents in Whitefish today for a rally thanking local Border Patrol and law enforcement agents and exposing Portland lobbyist Sam Forstag’s dangerous soft-on-crime agenda.
 Following recent death threats against local agents , Flint called out Portland socialist Sam Forstag’s long and lucrative record of lobbying against immigration enforcement and tougher penalties for violent criminals.

@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements As summers heat up, Oregon lawmakers may revisit heat pump expansion programs Published: Jun.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements As summers heat up, Oregon lawmakers may revisit heat pump expansion programs Published: Jun.
 24, 2026, 8:17 a.m.
 LINK TO ARTICLE A newly installed heat pump is shown in Multnomah County.
 The demand for more resources to support access to air conditioning is continuing to rise in Oregon.

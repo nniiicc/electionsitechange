@@ -40,10 +40,6 @@
 "href": "https://kielreid.com/?mo=11&yr=2026&pno=6"
 },
 {
-"text": "7",
-"href": "https://kielreid.com/?mo=11&yr=2026&pno=7"
-},
-{
 "text": ">",
 "href": "https://kielreid.com/?mo=11&yr=2026&pno=2"
 },
@@ -72,24 +68,24 @@
 "href": "https://kielreid.com/events/categories/canvassing/"
 },
 {
+"text": "Canvassing - Friday, Oct 9: Grand Haven",
+"href": "https://kielreid.com/events/canvassing-friday-oct-9/"
+},
+{
 "text": "Canvassing - Monday, Nov 2: Spring Lake",
 "href": "https://kielreid.com/events/canvassing-monday-nov-2/"
 },
 {
-"text": "Canvassing - Monday, Oct 5: Spring Lake",
-"href": "https://kielreid.com/events/canvassing-monday-oct-5/"
+"text": "Canvassing - Monday, Oct 12: Spring Lake",
+"href": "https://kielreid.com/events/canvassing-monday-oct-12/"
+},
+{
+"text": "Canvassing - Saturday, Oct 10",
+"href": "https://kielreid.com/events/canvassing-saturday-oct-10/"
 },
 {
 "text": "Canvassing - Tuesday, Nov 3 (Election Day): Grand Haven Township",
 "href": "https://kielreid.com/events/canvassing-tuesday-nov-3-election-day/"
-},
-{
-"text": "Canvassing - Tuesday, Oct 6: Grand Haven Township",
-"href": "https://kielreid.com/events/canvassing-tuesday-oct-6/"
-},
-{
-"text": "Canvassing - Wednesday, Oct 7",
-"href": "https://kielreid.com/events/canvassing-wednesday-oct-7/"
 },
 {
 "text": "Central Park Place",
@@ -113,11 +109,19 @@
 },
 {
 "text": "Download ICS",
+"href": "https://kielreid.com/events/canvassing-friday-oct-9/ical/"
+},
+{
+"text": "Download ICS",
 "href": "https://kielreid.com/events/canvassing-monday-nov-2/ical/"
 },
 {
 "text": "Download ICS",
-"href": "https://kielreid.com/events/canvassing-monday-oct-5/ical/"
+"href": "https://kielreid.com/events/canvassing-monday-oct-12/ical/"
+},
+{
+"text": "Download ICS",
+"href": "https://kielreid.com/events/canvassing-saturday-oct-10/ical/"
 },
 {
 "text": "Download ICS",
@@ -126,14 +130,6 @@
 {
 "text": "Download ICS",
 "href": "https://kielreid.com/events/canvassing-tuesday-nov-3-election-day/ical/"
-},
-{
-"text": "Download ICS",
-"href": "https://kielreid.com/events/canvassing-tuesday-oct-6/ical/"
-},
-{
-"text": "Download ICS",
-"href": "https://kielreid.com/events/canvassing-wednesday-oct-7/ical/"
 },
 {
 "text": "Download ICS",
@@ -165,23 +161,23 @@
 },
 {
 "text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+-+Friday%2C+Oct+9%3A+Grand+Haven&dates=20261009T120000%2F20261009T190000&details=Join+us+Friday%2C+October+9+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Grand+Haven+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&trp=false&sprop=https%3A%2F%2Fkielreid.com%2Fevents%2Fcanvassing-friday-oct-9%2F&sprop=name%3AKiel+Reid+for+State+Representative&ctz=UTC"
+},
+{
+"text": "Google Calendar",
 "href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+-+Monday%2C+Nov+2%3A+Spring+Lake&dates=20261102T120000%2F20261102T190000&details=Join+us+Monday%2C+November+2+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Spring+Lake+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893882-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&trp=false&sprop=https%3A%2F%2Fkielreid.com%2Fevents%2Fcanvassing-monday-nov-2%2F&sprop=name%3AKiel+Reid+for+State+Representative&ctz=UTC"
 },
 {
 "text": "Google Calendar",
-"href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+-+Monday%2C+Oct+5%3A+Spring+Lake&dates=20261005T120000%2F20261005T190000&details=Join+us+Monday%2C+October+5+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Spring+Lake+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&trp=false&sprop=https%3A%2F%2Fkielreid.com%2Fevents%2Fcanvassing-monday-oct-5%2F&sprop=name%3AKiel+Reid+for+State+Representative&ctz=UTC"
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+-+Monday%2C+Oct+12%3A+Spring+Lake&dates=20261012T120000%2F20261012T190000&details=Join+us+Monday%2C+October+12+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Spring+Lake+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893875-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&trp=false&sprop=https%3A%2F%2Fkielreid.com%2Fevents%2Fcanvassing-monday-oct-12%2F&sprop=name%3AKiel+Reid+for+State+Representative&ctz=UTC"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+-+Saturday%2C+Oct+10&dates=20261010T110000%2F20261010T170000&details=Join+us+Saturday%2C+October+10+for+a+shift+of+canvassing+across+House+District+88.+Shifts+start+at+11+AM+and+2+PM+from+the+Grand+Haven+Ottawa+Dems+office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Pick+the+one+that+works+for+you%2C+and+let%27s+get+to+doors+together.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893875-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&trp=false&sprop=https%3A%2F%2Fkielreid.com%2Fevents%2Fcanvassing-saturday-oct-10%2F&sprop=name%3AKiel+Reid+for+State+Representative&ctz=UTC"
 },
 {
 "text": "Google Calendar",
 "href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+-+Tuesday%2C+Nov+3+%28Election+Day%29%3A+Grand+Haven+Township&dates=20261103T120000%2F20261103T190000&details=It%27s+Election+Day%21+Join+us+Tuesday%2C+November+3+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Grand+Haven+Township+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893882-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&trp=false&sprop=https%3A%2F%2Fkielreid.com%2Fevents%2Fcanvassing-tuesday-nov-3-election-day%2F&sprop=name%3AKiel+Reid+for+State+Representative&ctz=UTC"
-},
-{
-"text": "Google Calendar",
-"href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+-+Tuesday%2C+Oct+6%3A+Grand+Haven+Township&dates=20261006T120000%2F20261006T190000&details=Join+us+Tuesday%2C+October+6+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Grand+Haven+Township+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&trp=false&sprop=https%3A%2F%2Fkielreid.com%2Fevents%2Fcanvassing-tuesday-oct-6%2F&sprop=name%3AKiel+Reid+for+State+Representative&ctz=UTC"
-},
-{
-"text": "Google Calendar",
-"href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+-+Wednesday%2C+Oct+7&dates=20261007T120000%2F20261007T190000&details=Join+us+Wednesday%2C+October+7+to+knock+doors+across+House+District+88.+Our+evening+canvass+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+We%27ll+hand+out+turf+when+you+get+there.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&trp=false&sprop=https%3A%2F%2Fkielreid.com%2Fevents%2Fcanvassing-wednesday-oct-7%2F&sprop=name%3AKiel+Reid+for+State+Representative&ctz=UTC"
 },
 {
 "text": "Google Calendar",
@@ -213,23 +209,23 @@
 },
 {
 "text": "More Info",
+"href": "https://kielreid.com/events/canvassing-friday-oct-9/"
+},
+{
+"text": "More Info",
 "href": "https://kielreid.com/events/canvassing-monday-nov-2/"
 },
 {
 "text": "More Info",
-"href": "https://kielreid.com/events/canvassing-monday-oct-5/"
+"href": "https://kielreid.com/events/canvassing-monday-oct-12/"
+},
+{
+"text": "More Info",
+"href": "https://kielreid.com/events/canvassing-saturday-oct-10/"
 },
 {
 "text": "More Info",
 "href": "https://kielreid.com/events/canvassing-tuesday-nov-3-election-day/"
-},
-{
-"text": "More Info",
-"href": "https://kielreid.com/events/canvassing-tuesday-oct-6/"
-},
-{
-"text": "More Info",
-"href": "https://kielreid.com/events/canvassing-wednesday-oct-7/"
 },
 {
 "text": "More Info",
@@ -245,19 +241,19 @@
 },
 {
 "text": "Office 365",
+"href": "https://outlook.office.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Friday%2C+October+9+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Grand+Haven+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Friday%2C+Oct+9%3A+Grand+Haven"
+},
+{
+"text": "Office 365",
 "href": "https://outlook.office.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Monday%2C+November+2+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Spring+Lake+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893882-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Monday%2C+Nov+2%3A+Spring+Lake"
 },
 {
 "text": "Office 365",
-"href": "https://outlook.office.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Monday%2C+October+5+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Spring+Lake+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Monday%2C+Oct+5%3A+Spring+Lake"
+"href": "https://outlook.office.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Monday%2C+October+12+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Spring+Lake+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893875-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Monday%2C+Oct+12%3A+Spring+Lake"
 },
 {
 "text": "Office 365",
-"href": "https://outlook.office.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Tuesday%2C+October+6+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Grand+Haven+Township+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Tuesday%2C+Oct+6%3A+Grand+Haven+Township"
-},
-{
-"text": "Office 365",
-"href": "https://outlook.office.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Wednesday%2C+October+7+to+knock+doors+across+House+District+88.+Our+evening+canvass+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+We%27ll+hand+out+turf+when+you+get+there.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Wednesday%2C+Oct+7"
+"href": "https://outlook.office.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Saturday%2C+October+10+for+a+shift+of+canvassing+across+House+District+88.+Shifts+start+at+11+AM+and+2+PM+from+the+Grand+Haven+Ottawa+Dems+office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Pick+the+one+that+works+for+you%2C+and+let%27s+get+to+doors+together.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893875-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T11%3A00%3A00%2B00%3A00&enddt=%23T17%3A00%3A00%2B00%3A00&subject=Canvassing+-+Saturday%2C+Oct+10"
 },
 {
 "text": "Office 365",
@@ -277,19 +273,19 @@
 },
 {
 "text": "Outlook Live",
+"href": "https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Friday%2C+October+9+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Grand+Haven+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Friday%2C+Oct+9%3A+Grand+Haven"
+},
+{
+"text": "Outlook Live",
 "href": "https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Monday%2C+November+2+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Spring+Lake+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893882-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Monday%2C+Nov+2%3A+Spring+Lake"
 },
 {
 "text": "Outlook Live",
-"href": "https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Monday%2C+October+5+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Spring+Lake+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Monday%2C+Oct+5%3A+Spring+Lake"
+"href": "https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Monday%2C+October+12+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Spring+Lake+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893875-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Monday%2C+Oct+12%3A+Spring+Lake"
 },
 {
 "text": "Outlook Live",
-"href": "https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Tuesday%2C+October+6+to+knock+doors+across+House+District+88.+Our+evening+canvass+works+Grand+Haven+Township+and+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Tuesday%2C+Oct+6%3A+Grand+Haven+Township"
-},
-{
-"text": "Outlook Live",
-"href": "https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Wednesday%2C+October+7+to+knock+doors+across+House+District+88.+Our+evening+canvass+launches+at+5%3A00+PM+from+the+Ottawa+Dems+Grand+Haven+Office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+We%27ll+hand+out+turf+when+you+get+there.+Daytime+shifts+are+open+too.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893864-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T12%3A00%3A00%2B00%3A00&enddt=%23T19%3A00%3A00%2B00%3A00&subject=Canvassing+-+Wednesday%2C+Oct+7"
+"href": "https://outlook.live.com/calendar/0/deeplink/compose?allday=false&body=Join+us+Saturday%2C+October+10+for+a+shift+of+canvassing+across+House+District+88.+Shifts+start+at+11+AM+and+2+PM+from+the+Grand+Haven+Ottawa+Dems+office%2C+601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven.+Pick+the+one+that+works+for+you%2C+and+let%27s+get+to+doors+together.+Sign+up+for+a+shift+below.%3Ca+style%3D%22display%3A+none%22+href%3D%22https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F10C044AACA628ABF8C25-64893875-reid%23%2F%22%3ESign+Up+Here%3C%2Fa%3E&location=601+S.+Beacon+Blvd%2C+Suite+101%2C+Grand+Haven%2C+MI%2C+49417%2C+United+States&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=%23T11%3A00%3A00%2B00%3A00&enddt=%23T17%3A00%3A00%2B00%3A00&subject=Canvassing+-+Saturday%2C+Oct+10"
 },
 {
 "text": "Outlook Live",
@@ -425,11 +421,19 @@
 },
 {
 "text": "iCalendar",
+"href": "webcal://kielreid.com/events/canvassing-friday-oct-9/ical/"
+},
+{
+"text": "iCalendar",
 "href": "webcal://kielreid.com/events/canvassing-monday-nov-2/ical/"
 },
 {
 "text": "iCalendar",
-"href": "webcal://kielreid.com/events/canvassing-monday-oct-5/ical/"
+"href": "webcal://kielreid.com/events/canvassing-monday-oct-12/ical/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://kielreid.com/events/canvassing-saturday-oct-10/ical/"
 },
 {
 "text": "iCalendar",
@@ -438,14 +442,6 @@
 {
 "text": "iCalendar",
 "href": "webcal://kielreid.com/events/canvassing-tuesday-nov-3-election-day/ical/"
-},
-{
-"text": "iCalendar",
-"href": "webcal://kielreid.com/events/canvassing-tuesday-oct-6/ical/"
-},
-{
-"text": "iCalendar",
-"href": "webcal://kielreid.com/events/canvassing-wednesday-oct-7/ical/"
 },
 {
 "text": "iCalendar",

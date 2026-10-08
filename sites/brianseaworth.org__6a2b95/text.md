@@ -3,4 +3,4 @@ Skip to content Brian Seaworth for Pembroke State Representative Menu Home About
 I am asking for your vote to select me for one of the two residents of Pembroke to Represent our town in the New Hampshire House of Representatives.
 Contact Volunteer November 3rd Reelect Brian Contact Me Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Comment or Name Name * First Last Email * Comment or Message Submit Paid for by Brian Seaworth, 161 Buck St., Pembroke, NH 03275 Copyright © # Brian Seaworth – OnePress theme by FameThemes
+Name * First Last Email Name Message Email * Comment or Message Submit Paid for by Brian Seaworth, 161 Buck St., Pembroke, NH 03275 Copyright © # Brian Seaworth – OnePress theme by FameThemes

@@ -31,5 +31,10 @@ Bryan believes state government should work with towns rather than impose one-si
 Bryan supports protecting the right of eligible citizens to vote while maintaining election integrity.
 He believes voting requirements should verify eligibility without creating unnecessary barriers for lawful voters.
 He'll bring the same approach to Concord that he's used throughout his career: listening first, finding common ground, and working with people who may see things differently.
+Protecting Our Lakes, Forests, and Water Why this matters to me I'm a licensed social worker, a father, and a Moultonborough resident since 2013.
+Before I worked in mental health, I studied outdoor education and adventure leadership and worked in outdoor programs for young people.
+In recent summers, cyanobacteria warnings have become more common on lakes across the Lakes Region, and that worries me, because our lakes are central to how we live here.
+This isn't an abstract issue for District 3.
+Clean water is the reason people move here, the reason visitors come, and a big part of what supports property values and local jobs.
 Leadership That Listens Quick Links Home About Bryan Issues FAQ Contact Get Involved Get Involved Donate Follow Bryan Facebook-f Instagram Icon-linkedin Paid for by Friends of Bryan Randolph Fiscal Agent Bryan Randolph 9 Brick Kiln Rd.
 Moultonborough, NH 03254

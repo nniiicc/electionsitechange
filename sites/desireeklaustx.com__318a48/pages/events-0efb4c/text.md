@@ -38,5 +38,5 @@ Our Future.
 I’M NOT BOUGHT.
 I’M BUILDING.
 Help us build a campaign that shows up for every neighborhood, family, and community across HD-128.
-Join the Team Donate Today #ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Join the Team Donate Today #ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Home Meet Desiree Issues HD-128 Events Paid for Desiree Klaus for Texas Powered by CampaignPartner.com - Political Campaign Websites Home Events HD-128 Issues Meet Desiree Close Menu

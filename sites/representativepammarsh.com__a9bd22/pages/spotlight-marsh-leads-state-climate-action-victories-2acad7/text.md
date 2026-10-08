@@ -1,5 +1,5 @@
-Skip to content Wed.
-Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Spotlight: Marsh leads state climate action victories By Lorrie Kaplan | Mail Tribune LINK TO ARTICLE Editor’s note: Part 1 of a 2-part series Pam Marsh admits she is “kind of exhausted” after achieving a slew of climate action victories to close the 2021 state legislative session last weekend.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Spotlight: Marsh leads state climate action victories By Lorrie Kaplan | Mail Tribune LINK TO ARTICLE Editor’s note: Part 1 of a 2-part series Pam Marsh admits she is “kind of exhausted” after achieving a slew of climate action victories to close the 2021 state legislative session last weekend.
 Marsh, who represents Ashland and neighboring communities in the Oregon House of Representatives, was tapped to chair the House Energy and Environment Committee for this session.
 The appointment elevated her to an ideal position to champion her longtime climate action priorities in a way that she calls “distinctly Oregonian.” “As I got in and looked around, it was clear that there were five key priorities that we needed to come out with,” Marsh explains.
 “And we were able to deliver on all of them.” On the top of the pile of climate wins was the 100% clean energy bill.

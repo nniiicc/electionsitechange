@@ -26,4 +26,4 @@ You agree to receive updates on the campaign (up to 5/mo.) via SMS from the Comm
 Message rates may apply.
 Reply STOP to unsubscribe.
 Privacy policy can be found at reedforindiana.com/privacy.
-Let's Win This Home About Policies Donate Get In Touch Contact Form Updates Name Email Message Send Paid for by the Committee to Elect John Reed.
+Let's Win This Home About Policies Donate Get In Touch Contact Form Newsletter Name Email Message Send Paid for by the Committee to Elect John Reed.

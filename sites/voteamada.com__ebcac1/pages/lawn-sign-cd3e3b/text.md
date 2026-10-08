@@ -9,7 +9,7 @@ Lawn signs must only be displayed on residential property by the property owner 
 If you received a lawn sign by mistake, or if your sign is broken or lost, please let us know , and we’ll fix the problem immediately.
 Request Your Sign Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Select lawn Street Email * Phone Where you want the lawn sign displayed.
+Name * First Last Name Phone City Email * Phone Where you want the lawn sign displayed.
 Certain corner properties may host two lawn signs.
 Street Address * City * Columbia Heights New Brighton St.
 Anthony ZIP * Partnering Campaigns The candidates below have similar progressive values and are running as a slate.

@@ -1,4 +1,8 @@
-The state House on Tuesday passed a firearms bill that would ban untraceable guns, raise the minimum age from 18 to 21 to purchase powerful firearms like semiautomatic weapons and allow local agencies to ban firearms on government property…
-Skip to content
-Oregon House passes divisive firearms bill that would reshape the state’s gun regulations
-The state House on Tuesday passed a firearms bill that would ban untraceable guns, raise the minimum age from 18 to 21 to purchase powerful firearms like semiautomatic weapons and allow local agencies to ban firearms on government property…
+Skip to content Dacia for Oregon Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact DONATE Meet Dacia Our Work Endorsements Media Volunteer Contact Oregon House passes divisive firearms bill that would reshape the state’s gun regulations / Oregon Policy / By Dacia Grayber The state House on Tuesday passed a firearms bill that would ban untraceable guns, raise the minimum age from 18 to 21 to purchase powerful firearms like semiautomatic weapons and allow local agencies to ban firearms on government property… Post navigation ← Previous Post Next Post → Join Dacia Grayber for Oregon House District 28 Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Checkboxes Phone Name Phone Number Postal Code Checkboxes By checking this box, you consent to receive campaign and news updates from Dacia Grayber.
+You can unsubscribe anytime.
+COUNT ME IN Donate Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact Meet Dacia Our Work Endorsements Media Volunteer Contact

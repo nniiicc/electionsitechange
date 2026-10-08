@@ -26,6 +26,6 @@ The deck is stacked against us.
 However, with faith, we can begin to turn and improve things around for California's 43rd Congressional District.
 FOR ALL VOICES: A Conservative Voice for Opportunity, Security, and the American Dream Stay Informed Email (Required) Sign up Δ Stay connected Download Campaign Flyer Choose From: English Spanish Chinese Japanese Korean Vietnamese Contact Us Cristian Morales for Congress 2026 3025 Artesia Blvd.
 #37 Torrance, CA 90504 info@forallvoices.com Paid for by Cristian Morales for Congress 2026.
-Committee ID: C00944405 Privacy Policy Accessibility © # Cristian Morales for All Voices.
+Committee ID: C00944405 Email and Text Messaging Privacy Policy and Terms and Conditions Accessibility © # Cristian Morales for All Voices.
 All Rights Reserved.
 Stay connected @CMoralesCAGov on Truth Social Manage consent Close Necessary Necessary Always Enabled Functional Functional Advertisement Advertisement Others Others SAVE & ACCEPT Please ensure Javascript is enabled for purposes of website accessibility

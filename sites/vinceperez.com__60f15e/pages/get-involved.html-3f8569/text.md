@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Get Involved El Paso deserves a fighter who also delivers.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Get Involved El Paso deserves a fighter who also delivers.
 Pick a step.
 Or do all four.
 Every name on the list, every dollar, and every shared video makes the next fight easier to win.

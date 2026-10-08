@@ -1,10 +1,6 @@
-RALPH GROVES' LETTERS
-Letter to Secretary of State Marco Rubio
-29 June 2025
-To: Secretary of State Marco Rubio
-Dear Mr.
-Secretary:
-I am Ralph Groves, the 2026 Candidate of the Libertarian Party of Florida for the 11th Congressional District of Florida.
+top of page Ralph Groves For Congress DONATE Home Meet Ralph Groves Mission Position Papers Letters Resolutions Press Releases Gallery Use tab to navigate through the menu items.
+RALPH GROVES' LETTERS Letter to Secretary of State Marco Rubio 29 June 2025 To: Secretary of State Marco Rubio Dear Mr.
+Secretary: I am Ralph Groves, the 2026 Candidate of the Libertarian Party of Florida for the 11th Congressional District of Florida.
 As a former DIA analyst of Iran, and a former resident of Iran during the late Shah's reign, I hereby share with you some of my knowledge of Iran pertaining to potential regime change.
 Iran is susceptible to regime change principally because the theocratic Islamic Republic is an innovative type of government that is without precedent in Iran's history.
 Lacking precedent, the theocracy is contrary to the character of the Iranian people, who are mostly pragmatic rather than apocalyptic fanatics.
@@ -28,31 +24,19 @@ He visited Israel, lived in Iran, and was stationed in Iraq while he was an Army
 In addition, he majored in Middle East Studies while he was a college student.
 Prior to retirement, he served in the Pentagon.
 In retirement, he wrote two books on Iran.
-The totality of his experiences and education supports his conformity to the Libertarian principle of a non-interventionist foreign policy and his forecast that regime change will occur in Iran under the leadership of a nationalistic Napoleon type figure who will be religiously pious.
-cc: Lt.
+The totality of his experiences and education supports his conformity to the Libertarian principle of a non-interventionist foreign policy and his forecast that regime change will occur in Iran under the leadership of a nationalistic Napoleon type figure who will be religiously pious. cc: Lt.
 Col.
 Daniel Davis, senior fellow and military expert at the Defense Priorities think tank based in Washington, D.C.
-Letter to Senator Josh Hawley
-25 July 2025
-To: Josh Hawley, U.S.
-Senator (R-Missouri)
-Dear Sir:
-I thank you for writing to me concerning the need to reduce abortions in our country.
+Letter to Senator Josh Hawley 25 July 2025 To: Josh Hawley, U.S.
+Senator (R-Missouri) Dear Sir: I thank you for writing to me concerning the need to reduce abortions in our country.
 I applaud your pro-life stance, and, in particular, your support for the Susan B.
 Anthony Pro-Life America Organization.
 Your effort to stop mail-order abortions -- via distribution of Mifepristone without medical supervision -- is commendable.
 When I am elected to Congress, I will work with you and pro-life organizations to promote a culture of life to welcome all babies into the world.
-Very Respectfully,
-Ralph Groves
-2026 Libertarian Candidate for Congress
-11th Congressional District, Florida
-P.S.
+Very Respectfully, Ralph Groves 2026 Libertarian Candidate for Congress 11th Congressional District, Florida P.S.
 I am endorsed by the Pro-Life Caucus of the Libertarian Party of Florida.
 Disclaimer: Candidate Groves exercises his right to protected free speech, but is not a spokesman for the Libertarian Party of Florida.
-Letter to Editor, Orlando Sentinel, about Carter's failure in Iran
-5 January 2025
-Dear Editor, Orlando Sentinel:
-The recent passing of President Jimmy Carter prompts recollection of one of his unfortunate legacies: His lack of support for our ally, the late Shah of Iran, which emboldened anti-Shah militant Islamists in that country.
+Letter to Editor, Orlando Sentinel, about Carter's failure in Iran 5 January 2025 Dear Editor, Orlando Sentinel: The recent passing of President Jimmy Carter prompts recollection of one of his unfortunate legacies: His lack of support for our ally, the late Shah of Iran, which emboldened anti-Shah militant Islamists in that country.
 Without continuity of U.S. backing, Carter weakened the Shah, who had been a rock of stability in the Middle East and a staunch U.S. ally.
 Iranian clerics who were willing to work with the Shah were undermined.
 These were “accommodationists” who cooperated with the Shah provided he ruled according to Iran’s Constitution rather than by royal decree.
@@ -70,12 +54,8 @@ In 1980, Iraq’s Saddam Hussein perceived that Iran’s armed forces were in di
 Meanwhile, Iran became assertive against Israel via proxy groups, including Hamas and Hezbollah, which continue to endanger Israel.
 Carter’s weakness and lack of support for the Shah resulted in a cascading effect of repercussions that the world has been suffering for decades.
 Carter’s tragic legacy is his betrayal of our ally, which resulted in regional instability, revolution, the rise of Islamism, invasions, wars, and the deaths of millions of people.
-Ralph Groves, Doctor of Arts
-U.S.
-Army Major (Ret.), Veteran, Iraq War
-Letter: Bulwark against militant Islamism in West Africa
-PUBLISHED: July 12, 2018 at 6:15 p.m. | UPDATED: December 13, 2018 at 3:25 a.m.
-As a former analyst of West Africa, I was interested in your article “Islamist terror groups eye West Africa” (Orlando Sentinel, July 6).
+Ralph Groves, Doctor of Arts U.S.
+Army Major (Ret.), Veteran, Iraq War Letter: Bulwark against militant Islamism in West Africa PUBLISHED: July 12, 2018 at 6:15 p.m. | UPDATED: December 13, 2018 at 3:25 a.m. ​ As a former analyst of West Africa, I was interested in your article “Islamist terror groups eye West Africa” (Orlando Sentinel, July 6).
 The article correctly stated that Islamist militant groups threaten West African countries.
 As you mentioned, these groups include Boko Haram and al-Qaida affiliates (e.g. al-Qaida in the Islamic Maghreb, a Salafi-Islamist group).
 Though not mentioned, Ansar al-Din, an Islamist group in northern Mali, is also a threat.
@@ -83,5 +63,4 @@ More important, your article’s discussion about security forces (with American
 Over centuries, Sufism accommodated African traditions, has been tolerant of Animism and Christianity, and has emphasized spirituality instead of overt control of governments — therefore opposing militant Islamism in these regards.
 While Sufism in West Africa has been the main bulwark against Islamist militants, its cultural influence may be eventually undermined.
 Saudi Arabia and Iran fund expansion of Wahhabism and Shi’ism, respectively, eroding the influence of anti-Islamist Sufism.
-Security forces and governments will never be strong enough to counter Islamist militants if Sufism loses its predominant position in West African culture.
-Ralph Groves Winter Garden
+Security forces and governments will never be strong enough to counter Islamist militants if Sufism loses its predominant position in West African culture. ​ Ralph Groves Winter Garden © # Ralph Groves for Congress bottom of page

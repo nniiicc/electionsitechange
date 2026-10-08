@@ -1,7 +1,5 @@
-Sen.
-Borrello Endorsed by Business Council of NYS
-lhill5000
-Oct 25, 2022
-Proud to be endorsed by the Business Council of New York State PAC!
+top of page All Posts Search Sen.
+Borrello Endorsed by Business Council of NYS lhill5000 Oct 25, 2022 1 min read Proud to be endorsed by the Business Council of New York State PAC!
 As one of the few small business owners in the legislature, I’ve made it my mission to advocate for our job creators and to provide a private sector perspective on the many bills and proposals that flow through Albany.
 Our business community is the economic engine that drives New York forward and they will always have a champion in me.
+Recent Posts See All SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Senator George Borrello Recognized as One of New York State’s Most Effective Republican Legislator SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

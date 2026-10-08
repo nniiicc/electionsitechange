@@ -23,5 +23,5 @@ Do you want to support him?
 Or do you want to check his power?
 You will answer that question when you cast your ballot for one of these two women.
 November is coming soon.
-Steve Kobb Concerned Citizen You can read my other blog posts at https://www.laura4tx.com/blog Recent Posts See All Hawks, Hawkeyes, and the defense of Donald Trump The Way We Were Community First info@laura4tx.com laurajonesforcongress@gmail.com Laura Jones - FOR CONGRESS - © Paid for by Laura Jones for Congress P.O.
+Steve Kobb Concerned Citizen You can read my other blog posts at https://www.laura4tx.com/blog Recent Posts See All Character and Class Hawks, Hawkeyes, and the defense of Donald Trump The Way We Were info@laura4tx.com laurajonesforcongress@gmail.com Laura Jones - FOR CONGRESS - © Paid for by Laura Jones for Congress P.O.
 Box 742, Coldspring, Texas 77331 R bottom of page

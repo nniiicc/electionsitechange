@@ -24,7 +24,7 @@ Together, we can build a California that works for everyone — while continuing
 Sincerely, Speaker Robert Rivas Join our fight to renew the California Dream.
 Get updates from Speaker Rivas: Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Code number Zip Email address * Zip Code Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
+Email address * Zip Code Phone Code Zip Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
 We will never charge for these text message updates, but carrier message & data rates may apply.
 Text STOP to stop receiving messages.
 Text HELP for more information.

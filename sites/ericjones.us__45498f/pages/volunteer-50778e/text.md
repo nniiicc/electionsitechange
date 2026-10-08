@@ -11,12 +11,5 @@ Make Phone Calls Sign up for a Phone Banking Shift Knock on Doors Sign up for a 
 Want to be a part of the volunteer team but not sure where to start?
 Don’t worry!
 Fill out this general interest form, and we'll have someone from our team reach out!
-By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Eric Jones for Congress.
-Msg & data rates may apply.
-Msg frequency varies.
-Donations may be solicited.
-Unsubscribe at any time by replying STOP.
-Text START to opt in.
-Text HELP for help.
-Privacy Policy and SMS Terms and Conditions Join us at upcoming events Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Join us at upcoming events Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

@@ -1,4 +1,4 @@
-0 Skip to Content Top Policy Priorities Get Involved Media Get to Know Karen please donate Open Menu Close Menu Top Policy Priorities Get Involved Media Get to Know Karen please donate Open Menu Close Menu Top Policy Priorities Get Involved Media Get to Know Karen please donate People Over Power.
+0 Skip to Content Top Policy Priorities Get Involved Media Get to Know Karen Endorsements please donate Open Menu Close Menu Top Policy Priorities Get Involved Media Get to Know Karen Endorsements please donate Open Menu Close Menu Top Policy Priorities Get Involved Media Get to Know Karen Endorsements please donate People Over Power.
 Karen Ortiz is a community-rooted leader running to restore accountability, protect human dignity, and deliver real change.
 She believes no one is above the law, healthcare is a human right, and civil rights must be fully codified and enforced.
 Unafraid to challenge failed systems or party complacency, Karen is committed to ending endless wars, defending due process, and putting people over power.
@@ -68,7 +68,8 @@ She was terminated after her whistleblowing and refusal to follow Trump’s anti
 Despite veiled threats from the Trump administration, she continues to speak out in support of the LGBTQIA+ community and all marginalized New Yorkers.
 Karen is a certified yoga instructor, former Girl Scout (Silver Award), and recently participated in the Global Sumud Flotilla as a U.S.
 Delegate.
-Support karen's campaign NY-12 are you registered to vote?
+Support karen's campaign Endorsements More to come!
+NY-12 are you registered to vote?
 Register to vote Carnegie Hill Chelsea Flatiron Gramercy Hell's Kitchen Hudson Yards Kips Bay Lenox Hill Lincoln Square Manhattan Valley Midtown Midtown South Murray Hill Roosevelt Island Stuyvesant Town–Peter Cooper Village Times Square Turtle Bay Union Square Upper East Side Upper West Side Yorkville Host a house party Volunteer Donate Checks can be made payable to “Karen Ortiz for Congress” and sent to: 5 Union Square West FRNT 1 #1253 New York, NY 10003 Copyright © # Karen Ortiz for Congress.
 All rights reserved.
 PAID FOR BY KAREN ORTIZ FOR CONGRESS +1 646 462 3497

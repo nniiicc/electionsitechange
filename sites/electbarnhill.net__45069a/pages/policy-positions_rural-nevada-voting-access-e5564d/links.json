@@ -64,12 +64,20 @@
 "href": "https://electbarnhill.net/events/"
 },
 {
+"text": "Get to know me",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
 "text": "Home",
 "href": "https://electbarnhill.net/"
 },
 {
 "text": "Independent",
 "href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Join the campaign",
+"href": "https://electbarnhill.net/get-involved/"
 },
 {
 "text": "Next Next post: Consistent County Election Standards: The Same Protections for Every Nevada Voter",
@@ -98,6 +106,10 @@
 {
 "text": "Question 7",
 "href": "https://electbarnhill.net/commentary/question-7-nevada-voter-id/"
+},
+{
+"text": "See all policy positions",
+"href": "https://electbarnhill.net/policy-positions/"
 },
 {
 "text": "VW Themes",
@@ -182,14 +194,6 @@
 {
 "text": "electbarnhill",
 "href": "https://electbarnhill.net/author/electbarnhill/"
-},
-{
-"text": "get to know me",
-"href": "https://electbarnhill.net/about/about-brad/"
-},
-{
-"text": "join the campaign",
-"href": "https://electbarnhill.net/get-involved/"
 },
 {
 "text": "making voter ID actually work for people",

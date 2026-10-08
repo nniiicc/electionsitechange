@@ -1,5 +1,6 @@
 top of page STORE DONATE Home About Issues Endorsements News Join the Team Contact MIKE IN THE NEWS Keep your finger on the pulse of the campaign!
 Below we share some of the news coverage of Mike Haridopolos with links to the publications.
+Brightline station in Cocoa expected to create 3,500 jobs, boost economy Congressman Mike Haridopolos recently helped secure $57.5 million for the station.
 GOP rising star helped topple Trump-backed incumbent.
 Now he's caught leadership's eye Florida freshman Rep Mike Haridopolos helped oust Rep Cory Mills in a primary and secured billions more for NASA's budget Congressman Mike Haridopolos warns of AI regulations Congressman Mike Haridopolos joins Good Day Orlando to discuss the need for government policy and regulations as AI evolves.
 Artemis II will Circle the Moon for the First Time Since 1972 ​ Roman Space Telescope launches successfully from Kennedy Space Center Haridopolos hails milestone mission that will give scientists a new view of the universe ‘Proven pro-growth voice’: U.S.

@@ -7,5 +7,5 @@ Share an idea Share an idea Tell us what to fix.
 Donate Donate Every dollar counts.
 Get a lawn sign Get a lawn sign Free at offices statewide.
 Meet Amy Meet Ben Priorities Newsroom Yard Signs Store Get Involved Minnesotans for Klobuchar PO Box 4009 St.
-Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
+Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy llms.txt Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
 Paul, MN 55104.

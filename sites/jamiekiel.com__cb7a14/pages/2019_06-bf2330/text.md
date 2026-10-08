@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Franklin County Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News Franklin County Rep.
 Kiel pushing for more church security CLICK HERE WATCH STORY by: Kayla CarlilePosted: Jun 17, 2019 / 06:33 PM CDT / Updated: Jun 18, 2019 / 06:00 AM CDT Alabama voters will decide next year whether to approve a Constitutional amendment that would extend the ‘stand your ground’ law allowing someone to use Continue Reading AL Legislature sends amendments to voters By WAFF 48 Digital Staff| June 16, 2019 at 6:55 PM CDT – Updated June 16 at 6:55 PM (WAFF) –According to our news partners at the Times Daily, Alabama legislators passed hundreds of new laws this year, but they also sent several decisions to Alabama voters in the form Continue Reading Jeff and State Representative Jamie Kiel talk about his vote to have armed security in churches, the pardons and parole board, and local infrastructure Listen Here Continue Reading State Rep.
 Kiel pushes for Franklin County church security ‘stand-your-ground’ protections on March statewide ballot One of the most vulnerable venues to mass shootings in recent years nationwide has been places of worship, specifically churches.
 Over the past several years, Rep.

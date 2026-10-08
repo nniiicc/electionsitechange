@@ -1,4 +1,0 @@
-Skip to content Vote Victoria Martz Home About the Candidate Policies Endorsements Media Donate & Merch Info Voting Info Contact & Volunteer Vote Victoria Martz Home About the Candidate Policies Endorsements Media Donate & Merch Info Voting Info Contact & Volunteer Register to vote!
-Upcoming primary election is May 5, 2026: Deadline to register to vote is April 6, 2026.
-You must register by October 5th, 2025 to vote in the midterm election on November 5, 2025.
-Register to vote Here Menu Home About the Candidate Policies Endorsements Media Donate & Merch Info Voting Info Contact & Volunteer External-link-alt Facebook Instagram Tiktok Reddit-square Donate via act blue Copyright © # Vote Victoria Martz Home About the Candidate Donate & Merch Info Voting Info Contact & Volunteer Paid for by Friends of Victoria Martz

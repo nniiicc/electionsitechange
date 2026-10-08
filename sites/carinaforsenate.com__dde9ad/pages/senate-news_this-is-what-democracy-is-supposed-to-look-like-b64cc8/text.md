@@ -34,7 +34,7 @@ Watch the full forum here.
 Watch the forum replay online Thank you to everyone who continues to show up, speak up, and invest in the work of shaping our shared future.
 I’m deeply grateful to be on this journey with you.
 Let’s keep going—because together, we’re stronger.
-With gratitude, Carina Santa Maria Candidate for Illinois State Senate, District 27 Event Recaps Carina Santa Maria Next Next Are You Registered Where You Live Right Now?
+With gratitude, Carina Santa Maria Candidate for Illinois State Senate, District 27 Event Recaps Carina Santa Maria Previous Previous Officially Endorsed by Arlington Heights Village Trustee, Colin Gilbert Next Next Are You Registered Where You Live Right Now?
 Here's How to Check in Five Minutes.
 HOME | ABOUT CARINA | ISSUES | VOLUNTEER | NEWS + EVENTS | RESOURCES | DISTRICT MAP | CONTACT (630) 788-1985 info@citizensforcarina.com PRIVACY POLICY Website paid for by Citizens for Carina Custom designed website by This Way to Fabulous Inc.
 DONATE NOW Newsletter Block This newsletter signup form needs a storage option.

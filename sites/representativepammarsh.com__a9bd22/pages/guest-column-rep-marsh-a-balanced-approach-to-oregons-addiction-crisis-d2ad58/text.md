@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements GUEST COLUMN: Rep.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements GUEST COLUMN: Rep.
 Marsh: A balanced approach to Oregon’s addiction crisis BY STATE REP.
 PAM MARSH D-Ashland, House District 5 GUEST COLUMN IN THE ROGUE VALLEY TIMES Feb 27, 2024 Updated Feb 28, 2024 This week, the Oregon Legislature is considering HB 4002, a treatment-focused bill drafted to respond to the state’s addiction crisis and address Measure 110.
 The bill will include behavioral health investments/reforms, rigorous penalties for drug dealers, medical treatment for individuals in our jails, and the institution of criminal penalties for possession that will allow police to confiscate drugs.

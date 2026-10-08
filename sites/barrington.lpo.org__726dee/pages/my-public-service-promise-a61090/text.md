@@ -38,6 +38,6 @@ I am your chance to prove them wrong.
 On a related note, members of Congress have abrogated their function as legislators under the Hastert Rule.
 If party leaders determine the agenda and what passes, we might as well simply elect them as dictators.
 If elected, I would sign any discharge petition presented to me, regardless of the subject or effects of the bill, even if I did not intend to vote for it.
-I believe every proposal by a Representative duly elected by the American people deserves full consideration. ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+I believe every proposal by a Representative duly elected by the American people deserves full consideration. ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

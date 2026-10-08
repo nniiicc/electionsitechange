@@ -26,7 +26,7 @@ No será fácil.
 Las circunstancias nos son desfavorables.
 Sin embargo, con fe, podemos empezar a cambiar las cosas y mejorar la situación del 43.º distrito congresional de California.
 PARA TODAS LAS VOCES: Una voz conservadora en favor de las oportunidades, la seguridad y el sueño americano Manténgase informado Correo electrónico (Obligatorio) Inscríbete Δ Manténgase conectado Descargar el folleto de la campaña Elija entre: Inglés Español Chino Japonés Coreano Vietnamita Contacto Cristian Morales para el Congreso 2026 3025 Artesia Blvd. n.º 37 Torrance, CA 90504 info@forallvoices.com Financiado por «Cristian Morales para el Congreso 2026».
-N.º de identificación del comité: C00944405 Política de privacidad Accesibilidad © # Cristian Morales para All Voices.
+N.º de identificación del comité: C00944405 Política de privacidad y términos y condiciones relativos al correo electrónico y los mensajes de texto Accesibilidad © # Cristian Morales para All Voices.
 Todos los derechos reservados.
 Manténgase conectado @CMoralesCAGov en la Verdad Social Gestionar el consentimiento Cerrar Resumen de la privacidad Este sitio web utiliza cookies para mejorar su experiencia mientras navega por el sitio web.
 De ellas, las cookies clasificadas como necesarias se almacenan en su navegador, ya que son esenciales para el funcionamiento de las funciones básicas del sitio web.

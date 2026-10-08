@@ -30,7 +30,8 @@ I understand and share this frustration.
 We are going to build a strong rural Vermont coalition so our voices are heard loud and clear!
 HOSER FOR THE HOUSE 〰️ HOSER FOR THE HOUSE 〰️ HOSER FOR THE HOUSE 〰️ About WILL Photo taken at Will’s childhood home.
 Born and raised on a dairy farm.
-Chester resident for 31 years Raised 3 children in Chester Former owner of 2 local small businesses Local practicing PA for over 3 decades Testified in the State House on various healthcare issues Public service in state medical regulation ensuring the safety, welfare and protection of the public.
+Chester resident for 31 years Raised 3 children in Chester Former owner of 2 local small businesses Local practicing PA for over 3 decades First PA elected as Chair of the Vermont Board of Medical practice.
+Testified in the State House on various healthcare issues Public service in state medical regulation ensuring the safety, welfare and protection of the public.
 Current Board Chair of Valley Village Senior Living Center Let’s Connect I would sincerely like to hear from you!
 Looking to have productive conversations with voters.
 EMAIL WILL EMAIL WILL Contact us Join Our Campaign!

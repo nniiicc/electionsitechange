@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid To stand out as a candidate for Florida's 14th Congressional District (FL-14) , I must move beyond generic political talking points and offer hyperlocal, actionable economic relief.
 FL-14 is uniquely vulnerable to fuel spikes due to its heavy reliance on tourism, commuter traffic across Tampa Bay, and a sprawling small business ecosystem in Tampa and St.
 Petersburg.

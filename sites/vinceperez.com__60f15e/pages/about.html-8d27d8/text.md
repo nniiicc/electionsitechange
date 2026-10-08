@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Meet Vince El Paso raised.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Meet Vince El Paso raised.
 Texas fighter.
 State Representative · Texas House District 77 · Ways & Means · Deputy Whip.
 Texas HD 77 — El Paso, including UTEP, Texas Tech HSC El Paso, downtown El Paso, and the Franklin Mountains.
@@ -7,7 +7,7 @@ Leadership: Deputy Whip, House Democratic Caucus · House Democratic Policy & St
 Vince Perez is the State Representative for Texas House District 77 — the El Paso seat at the heart of one of the largest binational metro areas in the world.
 In the 89th Legislature he serves on the House Ways and Means Committee — the tax-writing committee — alongside Higher Education and Local, Consent, & Resolutions Calendars.
 He is a Deputy Whip of the House Democratic Caucus and a member of the Democratic Policy & Steering Committee.
-The 89th session In his first session, Vince passed a UTEP Student Union expansion into law, moved a bill through the House to create a public law school for El Paso County, and joint-authored a foreign-trained doctor licensure bill that the Governor signed.
+The 89th session In his first session, Vince passed a new UTEP Student Union into law, moved a bill through the House to create a public law school for El Paso County, and joint-authored a foreign-trained doctor licensure bill that the Governor signed.
 Then in August 2025, Vince was one of the Texas House Democrats who broke quorum to oppose a redistricting map he later described from the floor as "an abomination." He flew to Sacramento with four colleagues to meet with Governor Gavin Newsom and federal and state leaders to make the national case.
 When the House returned, he delivered floor remarks against HB 4 that have been viewed millions of times — and that grounded the fight in the actual math of the map: under the proposed lines, one Hispanic Texan would carry one-third the political weight of one white Texan, and one Black Texan one-fifth.
 "Partisanship is not a license to engage in racial discrimination." Before Austin Before joining the Legislature, Vince served two terms as El Paso County Commissioner for Precinct 3 (2013–2020).

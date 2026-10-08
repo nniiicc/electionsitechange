@@ -5,7 +5,7 @@ Kedner Maxime stands and how we're fighting for a stronger District 20.
 All Posts Why FL-20 Must Stay Rooted in Our Community | Dr.
 Kedner Maxime Dr.
 Kedner Maxime, independent candidate for Florida's 20th District, on protecting a historic seat of Black representation this November.
-Kedner Maxime #ago 2 min read Barbershop Series Kicks Off | Dr.
+Kedner Maxime Sep 30 2 min read Barbershop Series Kicks Off | Dr.
 Kedner Maxime Some of the best conversations happen in the barber's chair.
 That's the idea behind our new Barbershop Series — real talk, real cuts, at barbershops across District 20.
 Dr.
@@ -40,8 +40,8 @@ A Promise T Kedner Maxime Aug 26 4 min read A Call for Unity in District 20 Flor
 But they did not redraw the people.
 District 20 is still District 20 — the same families, the same struggles, the same hope.
 Now that the primary is behind us, I want to talk to you about what happened, and about what comes next, the same way I talk to people at the kitchen table.
-What the Primary Showed Us According to Bill Barrow's reporting for the Associated Press, District 20 is 42% Black, with a large Haitian American community, and Kedner Maxime Aug 25 3 min read DONATE Follow The Campaign A vision for Florida's District 20.
+What the Primary Showed Us According to Bill Barrow's reporting for the Associated Press, District 20 is 42% Black, with a large Haitian American community, and Kedner Maxime Aug 25 3 min read DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

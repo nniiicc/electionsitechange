@@ -12,9 +12,9 @@ Aguilar.
 Now that Secretary Aguilar and the Nevada Attorney General's office have been served, here's what a motion to dismiss would look like in Barnhill v.
 Aguilar — and why Sep 04 electbarnhill Comments 7 The Lawsuit Is Filed: Barnhill v.
 Aguilar Brad Lee Barnhill has filed a federal NVRA lawsuit against Secretary of State Francisco Aguilar, asking a court to order the audit Nevada wouldn't.
-Aug 23 electbarnhill Comments 5 Who Will Protect Your Vote?
+Aug 23 electbarnhill Comments 7 Who Will Protect Your Vote?
 Nevada’s voter rolls have a problem the Secretary of State’s office already knows about and has refused to investigate.
-Using the same public data Nevada’s Secretary of State makes Jun 16 electbarnhill Comment 1 Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote?
+Using the same public data Nevada’s Secretary of State makes Jun 16 electbarnhill Comments 2 Nevada Secretary of State Candidates 2026: Who Will Protect Your Vote?
 Dear Nevada Voter, Nevadans deserve a Secretary of State who puts election integrity, transparency, and practical service to citizens first—without the influence of party machines or special interests.
 Among May 30 electbarnhill 0 Comment Nevada’s New Majority Why Independent Voters Will Decide the Future For decades, Nevada politics has been framed as a fight between Democrats and Republicans.
 Turn on the television.
@@ -27,6 +27,6 @@ You’re Unrepresented.
 Let’s Talk About Making It Actually Work For People.
 (September 12, 2026) What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature (September 12, 2026) The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning (August 17, 2026) Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands (August 16, 2026) footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

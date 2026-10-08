@@ -1,122 +1,482 @@
 [
-"http://twitter.com/CallyForrest",
-"https://campaignpartner.com/",
-"https://facebook.com/ForrestForHouse",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/contribute",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/news/2019-statehouse-report-10",
-"https://forrestforhouse.com/news/2019-statehouse-report-11",
-"https://forrestforhouse.com/news/2019-statehouse-report-12",
-"https://forrestforhouse.com/news/2019-statehouse-report-14",
-"https://forrestforhouse.com/news/2019-statehouse-report-15",
-"https://forrestforhouse.com/news/2019-statehouse-report-16",
-"https://forrestforhouse.com/news/2019-statehouse-report-17",
-"https://forrestforhouse.com/news/2019-statehouse-report-18",
-"https://forrestforhouse.com/news/2019-statehouse-report-5",
-"https://forrestforhouse.com/news/2019-statehouse-report-5_1",
-"https://forrestforhouse.com/news/2019-statehouse-report-7",
-"https://forrestforhouse.com/news/2019-statehouse-report-8",
-"https://forrestforhouse.com/news/2019-statehouse-report-9",
-"https://forrestforhouse.com/news/2020",
-"https://forrestforhouse.com/news/2020-statehouse-report-1",
-"https://forrestforhouse.com/news/2020-statehouse-report-10",
-"https://forrestforhouse.com/news/2020-statehouse-report-2",
-"https://forrestforhouse.com/news/2020-statehouse-report-3",
-"https://forrestforhouse.com/news/2020-statehouse-report-5",
-"https://forrestforhouse.com/news/2020-statehouse-report-6",
-"https://forrestforhouse.com/news/2020-statehouse-report-7",
-"https://forrestforhouse.com/news/2020-statehouse-report-8",
-"https://forrestforhouse.com/news/2020-statehouse-report-9",
-"https://forrestforhouse.com/news/2021-statehouse-report-1",
-"https://forrestforhouse.com/news/2021-statehouse-report-10",
-"https://forrestforhouse.com/news/2021-statehouse-report-11",
-"https://forrestforhouse.com/news/2021-statehouse-report-12",
-"https://forrestforhouse.com/news/2021-statehouse-report-13",
-"https://forrestforhouse.com/news/2021-statehouse-report-14",
-"https://forrestforhouse.com/news/2021-statehouse-report-15",
-"https://forrestforhouse.com/news/2021-statehouse-report-16",
-"https://forrestforhouse.com/news/2021-statehouse-report-17",
-"https://forrestforhouse.com/news/2021-statehouse-report-18",
-"https://forrestforhouse.com/news/2021-statehouse-report-19",
-"https://forrestforhouse.com/news/2021-statehouse-report-2",
-"https://forrestforhouse.com/news/2021-statehouse-report-20",
-"https://forrestforhouse.com/news/2021-statehouse-report-3",
-"https://forrestforhouse.com/news/2021-statehouse-report-4",
-"https://forrestforhouse.com/news/2021-statehouse-report-5",
-"https://forrestforhouse.com/news/2021-statehouse-report-6",
-"https://forrestforhouse.com/news/2021-statehouse-report-7",
-"https://forrestforhouse.com/news/2021-statehouse-report-8",
-"https://forrestforhouse.com/news/2021-statehouse-report-9",
-"https://forrestforhouse.com/news/2022-budget-week",
-"https://forrestforhouse.com/news/2022-end-of-session-update",
-"https://forrestforhouse.com/news/2022-statehouse-report-1",
-"https://forrestforhouse.com/news/2022-statehouse-report-11",
-"https://forrestforhouse.com/news/2022-statehouse-report-12",
-"https://forrestforhouse.com/news/2022-statehouse-report-13",
-"https://forrestforhouse.com/news/2022-statehouse-report-14",
-"https://forrestforhouse.com/news/2022-statehouse-report-15",
-"https://forrestforhouse.com/news/2022-statehouse-report-16",
-"https://forrestforhouse.com/news/2022-statehouse-report-2",
-"https://forrestforhouse.com/news/2022-statehouse-report-3",
-"https://forrestforhouse.com/news/2022-statehouse-report-4",
-"https://forrestforhouse.com/news/2022-statehouse-report-5",
-"https://forrestforhouse.com/news/2022-statehouse-report-6",
-"https://forrestforhouse.com/news/2022-statehouse-report-7",
-"https://forrestforhouse.com/news/2022-statehouse-report-8",
-"https://forrestforhouse.com/news/2022-statehouse-report-9",
-"https://forrestforhouse.com/news/2024-week-1-update",
-"https://forrestforhouse.com/news/2024-week-10-update",
-"https://forrestforhouse.com/news/2024-week-11-update",
-"https://forrestforhouse.com/news/2024-week-2-update",
-"https://forrestforhouse.com/news/2024-week-3-update",
-"https://forrestforhouse.com/news/2024-week-4-update",
-"https://forrestforhouse.com/news/2024-week-5-update",
-"https://forrestforhouse.com/news/2024-week-6-update",
-"https://forrestforhouse.com/news/2024-week-8-update",
-"https://forrestforhouse.com/news/2024-week-9-update",
-"https://forrestforhouse.com/news/2025-26-budget-summary",
-"https://forrestforhouse.com/news/2025-session-recap",
-"https://forrestforhouse.com/news/2025-update-1",
-"https://forrestforhouse.com/news/2025-update-10",
-"https://forrestforhouse.com/news/2025-update-11",
-"https://forrestforhouse.com/news/2025-update-12",
-"https://forrestforhouse.com/news/2025-update-13",
-"https://forrestforhouse.com/news/2025-update-14",
-"https://forrestforhouse.com/news/2025-update-2",
-"https://forrestforhouse.com/news/2025-update-3",
-"https://forrestforhouse.com/news/2025-update-4",
-"https://forrestforhouse.com/news/2025-update-5",
-"https://forrestforhouse.com/news/2025-update-6",
-"https://forrestforhouse.com/news/2025-update-7",
-"https://forrestforhouse.com/news/2025-update-8",
-"https://forrestforhouse.com/news/2025-update-9",
-"https://forrestforhouse.com/news/2026-update-1",
-"https://forrestforhouse.com/news/2026-update-2",
-"https://forrestforhouse.com/news/2026-update-3",
-"https://forrestforhouse.com/news/bonus-2019-education-bill-h3759",
-"https://forrestforhouse.com/news/statehouse-report-13_1",
-"https://forrestforhouse.com/news/week-10-legislative-update-23",
-"https://forrestforhouse.com/news/week-11-legislative-update-23",
-"https://forrestforhouse.com/news/week-3-legislative-update-23",
-"https://forrestforhouse.com/news/week-4-legislative-update-23",
-"https://forrestforhouse.com/news/week-5-legislative-update-23",
-"https://forrestforhouse.com/news/week-6-legislative-update-23",
-"https://forrestforhouse.com/news/week-7-legislative-update-23",
-"https://forrestforhouse.com/news/week-8-legislative-update-23",
-"https://forrestforhouse.com/news/week-9-legislative-update-23",
-"https://forrestforhouse.com/photos",
-"https://forrestforhouse.com/volunteer",
-"https://forrestforhouse.com/vote",
-"https://scdhec.gov/covid19/covid-19-vaccine",
-"https://scstatehouse.gov/CommitteeInfo/Ways&MeansBudgetDocuments/BudgetDocuments.php",
-"https://scstatehouse.gov/CommitteeInfo/Ways&MeansBudgetDocuments/FY2022-23/FY%202022-23%20Budget%20Briefing%20(WM%20Version).pdf",
-"https://scstatehouse.gov/meetings.php?chamber=H",
-"https://scstatehouse.gov/sess125_2023-2024/appropriations2024/gab5100.php",
-"https://scstatehouse.gov/video/archives.php"
+{
+"text": "2019 Statehouse Report #10",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-10"
+},
+{
+"text": "2019 Statehouse Report #11",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-11"
+},
+{
+"text": "2019 Statehouse Report #12",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-12"
+},
+{
+"text": "2019 Statehouse Report #13",
+"href": "https://forrestforhouse.com/news/statehouse-report-13_1"
+},
+{
+"text": "2019 Statehouse Report #14",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-14"
+},
+{
+"text": "2019 Statehouse Report #15",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-15"
+},
+{
+"text": "2019 Statehouse Report #16",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-16"
+},
+{
+"text": "2019 Statehouse Report #17",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-17"
+},
+{
+"text": "2019 Statehouse Report #18",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-18"
+},
+{
+"text": "2019 Statehouse Report #5",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-5"
+},
+{
+"text": "2019 Statehouse Report #6",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-5_1"
+},
+{
+"text": "2019 Statehouse Report #7",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-7"
+},
+{
+"text": "2019 Statehouse Report #8",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-8"
+},
+{
+"text": "2019 Statehouse Report #9",
+"href": "https://forrestforhouse.com/news/2019-statehouse-report-9"
+},
+{
+"text": "2020 Statehouse Report #1",
+"href": "https://forrestforhouse.com/news/2020-statehouse-report-1"
+},
+{
+"text": "2020 Statehouse Report #10",
+"href": "https://forrestforhouse.com/news/2020-statehouse-report-10"
+},
+{
+"text": "2020 Statehouse Report #2",
+"href": "https://forrestforhouse.com/news/2020-statehouse-report-2"
+},
+{
+"text": "2020 Statehouse Report #3",
+"href": "https://forrestforhouse.com/news/2020-statehouse-report-3"
+},
+{
+"text": "2020 Statehouse Report #4",
+"href": "https://forrestforhouse.com/news/2020"
+},
+{
+"text": "2020 Statehouse Report #5",
+"href": "https://forrestforhouse.com/news/2020-statehouse-report-5"
+},
+{
+"text": "2020 Statehouse Report #6",
+"href": "https://forrestforhouse.com/news/2020-statehouse-report-6"
+},
+{
+"text": "2020 Statehouse Report #7",
+"href": "https://forrestforhouse.com/news/2020-statehouse-report-7"
+},
+{
+"text": "2020 Statehouse Report #8",
+"href": "https://forrestforhouse.com/news/2020-statehouse-report-8"
+},
+{
+"text": "2020 Statehouse Report #9",
+"href": "https://forrestforhouse.com/news/2020-statehouse-report-9"
+},
+{
+"text": "2021 Statehouse Report # 10",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-10"
+},
+{
+"text": "2021 Statehouse Report # 11",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-11"
+},
+{
+"text": "2021 Statehouse Report # 12",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-12"
+},
+{
+"text": "2021 Statehouse Report # 13",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-13"
+},
+{
+"text": "2021 Statehouse Report # 14",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-14"
+},
+{
+"text": "2021 Statehouse Report # 15",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-15"
+},
+{
+"text": "2021 Statehouse Report # 17",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-17"
+},
+{
+"text": "2021 Statehouse Report # 18",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-18"
+},
+{
+"text": "2021 Statehouse Report # 19",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-19"
+},
+{
+"text": "2021 Statehouse Report # 20",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-20"
+},
+{
+"text": "2021 Statehouse Report # 4",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-4"
+},
+{
+"text": "2021 Statehouse Report # 6",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-6"
+},
+{
+"text": "2021 Statehouse Report # 7",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-7"
+},
+{
+"text": "2021 Statehouse Report # 8",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-8"
+},
+{
+"text": "2021 Statehouse Report # 9",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-9"
+},
+{
+"text": "2021 Statehouse Report #1",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-1"
+},
+{
+"text": "2021 Statehouse Report #16",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-16"
+},
+{
+"text": "2021 Statehouse Report #3",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-3"
+},
+{
+"text": "2021 Statehouse Report #5",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-5"
+},
+{
+"text": "2021 Statehouse report #2",
+"href": "https://forrestforhouse.com/news/2021-statehouse-report-2"
+},
+{
+"text": "2022 Budget Week",
+"href": "https://forrestforhouse.com/news/2022-budget-week"
+},
+{
+"text": "2022 End of Session Update",
+"href": "https://forrestforhouse.com/news/2022-end-of-session-update"
+},
+{
+"text": "2022 Statehouse Report # 1",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-1"
+},
+{
+"text": "2022 Statehouse Report # 2",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-2"
+},
+{
+"text": "2022 Statehouse Report # 3",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-3"
+},
+{
+"text": "2022 Statehouse Report # 4",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-4"
+},
+{
+"text": "2022 Statehouse Report # 5",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-5"
+},
+{
+"text": "2022 Statehouse Report # 6",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-6"
+},
+{
+"text": "2022 Statehouse Report # 7",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-7"
+},
+{
+"text": "2022 Statehouse Report # 8",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-8"
+},
+{
+"text": "2022 Statehouse Report # 9",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-9"
+},
+{
+"text": "2022 Statehouse Report #11",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-11"
+},
+{
+"text": "2022 Statehouse Report #12",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-12"
+},
+{
+"text": "2022 Statehouse Report #13",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-13"
+},
+{
+"text": "2022 Statehouse Report #14",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-14"
+},
+{
+"text": "2022 Statehouse Report #15",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-15"
+},
+{
+"text": "2022 Statehouse Report #16",
+"href": "https://forrestforhouse.com/news/2022-statehouse-report-16"
+},
+{
+"text": "2024 Week 1 Update",
+"href": "https://forrestforhouse.com/news/2024-week-1-update"
+},
+{
+"text": "2024 Week 10 Update",
+"href": "https://forrestforhouse.com/news/2024-week-10-update"
+},
+{
+"text": "2024 Week 11 Update",
+"href": "https://forrestforhouse.com/news/2024-week-11-update"
+},
+{
+"text": "2024 Week 2 Update",
+"href": "https://forrestforhouse.com/news/2024-week-2-update"
+},
+{
+"text": "2024 Week 3 Update",
+"href": "https://forrestforhouse.com/news/2024-week-3-update"
+},
+{
+"text": "2024 Week 4 Update",
+"href": "https://forrestforhouse.com/news/2024-week-4-update"
+},
+{
+"text": "2024 Week 5 Update",
+"href": "https://forrestforhouse.com/news/2024-week-5-update"
+},
+{
+"text": "2024 Week 6 Update",
+"href": "https://forrestforhouse.com/news/2024-week-6-update"
+},
+{
+"text": "2024 Week 8 Update",
+"href": "https://forrestforhouse.com/news/2024-week-8-update"
+},
+{
+"text": "2024 Week 9 Update",
+"href": "https://forrestforhouse.com/news/2024-week-9-update"
+},
+{
+"text": "2025 Session Recap",
+"href": "https://forrestforhouse.com/news/2025-session-recap"
+},
+{
+"text": "2025 Update 1",
+"href": "https://forrestforhouse.com/news/2025-update-1"
+},
+{
+"text": "2025 Update 10",
+"href": "https://forrestforhouse.com/news/2025-update-10"
+},
+{
+"text": "2025 Update 11",
+"href": "https://forrestforhouse.com/news/2025-update-11"
+},
+{
+"text": "2025 Update 12",
+"href": "https://forrestforhouse.com/news/2025-update-12"
+},
+{
+"text": "2025 Update 13",
+"href": "https://forrestforhouse.com/news/2025-update-13"
+},
+{
+"text": "2025 Update 14",
+"href": "https://forrestforhouse.com/news/2025-update-14"
+},
+{
+"text": "2025 Update 2",
+"href": "https://forrestforhouse.com/news/2025-update-2"
+},
+{
+"text": "2025 Update 3",
+"href": "https://forrestforhouse.com/news/2025-update-3"
+},
+{
+"text": "2025 Update 4",
+"href": "https://forrestforhouse.com/news/2025-update-4"
+},
+{
+"text": "2025 Update 5",
+"href": "https://forrestforhouse.com/news/2025-update-5"
+},
+{
+"text": "2025 Update 6",
+"href": "https://forrestforhouse.com/news/2025-update-6"
+},
+{
+"text": "2025 Update 7",
+"href": "https://forrestforhouse.com/news/2025-update-7"
+},
+{
+"text": "2025 Update 8",
+"href": "https://forrestforhouse.com/news/2025-update-8"
+},
+{
+"text": "2025 Update 9",
+"href": "https://forrestforhouse.com/news/2025-update-9"
+},
+{
+"text": "2025-26 Budget Summary",
+"href": "https://forrestforhouse.com/news/2025-26-budget-summary"
+},
+{
+"text": "2026 Update 1",
+"href": "https://forrestforhouse.com/news/2026-update-1"
+},
+{
+"text": "2026 Update 2",
+"href": "https://forrestforhouse.com/news/2026-update-2"
+},
+{
+"text": "2026 Update 3",
+"href": "https://forrestforhouse.com/news/2026-update-3"
+},
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Bonus Update 2019 Education bill H.3759",
+"href": "https://forrestforhouse.com/news/bonus-2019-education-bill-h3759"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://forrestforhouse.com/contribute"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "H.5100",
+"href": "https://www.scstatehouse.gov/sess125_2023-2024/appropriations2024/gab5100.php"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forrestforhouse.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://forrestforhouse.com/vote"
+},
+{
+"text": "Week 10 Legislative Update '23",
+"href": "https://forrestforhouse.com/news/week-10-legislative-update-23"
+},
+{
+"text": "Week 11 Legislative Update '23",
+"href": "https://forrestforhouse.com/news/week-11-legislative-update-23"
+},
+{
+"text": "Week 3 Legislative Update '23",
+"href": "https://forrestforhouse.com/news/week-3-legislative-update-23"
+},
+{
+"text": "Week 4 Legislative Update '23",
+"href": "https://forrestforhouse.com/news/week-4-legislative-update-23"
+},
+{
+"text": "Week 5 Legislative Update '23",
+"href": "https://forrestforhouse.com/news/week-5-legislative-update-23"
+},
+{
+"text": "Week 6 Legislative Update '23",
+"href": "https://forrestforhouse.com/news/week-6-legislative-update-23"
+},
+{
+"text": "Week 7 Legislative Update '23",
+"href": "https://forrestforhouse.com/news/week-7-legislative-update-23"
+},
+{
+"text": "Week 8 Legislative Update '23",
+"href": "https://forrestforhouse.com/news/week-8-legislative-update-23"
+},
+{
+"text": "Week 9 Legislative Update '23",
+"href": "https://forrestforhouse.com/news/week-9-legislative-update-23"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/CallyForrest"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ForrestForHouse/"
+},
+{
+"text": "here",
+"href": "https://www.scstatehouse.gov/CommitteeInfo/Ways&MeansBudgetDocuments/FY2022-23/FY%202022-23%20Budget%20Briefing%20(WM%20Version).pdf"
+},
+{
+"text": "https://scdhec.gov/covid19/covid-19-vaccine",
+"href": "https://scdhec.gov/covid19/covid-19-vaccine"
+},
+{
+"text": "https://www.scstatehouse.gov/CommitteeInfo/Ways&MeansBudgetDocuments/BudgetDocuments.php",
+"href": "https://www.scstatehouse.gov/CommitteeInfo/Ways&MeansBudgetDocuments/BudgetDocuments.php"
+},
+{
+"text": "https://www.scstatehouse.gov/meetings.php?chamber=H",
+"href": "https://www.scstatehouse.gov/meetings.php?chamber=H"
+},
+{
+"text": "https://www.scstatehouse.gov/video/archives.php",
+"href": "https://www.scstatehouse.gov/video/archives.php"
+}
 ]

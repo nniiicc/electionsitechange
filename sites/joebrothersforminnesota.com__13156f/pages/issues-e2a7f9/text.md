@@ -20,7 +20,7 @@ I will work hard to provide affordable early child care and childhood exploratio
 Colleges and universities in Minnesota should not cost more than colleges and universities in Wisconsin.
 I will work hard to make higher education in Minnesota more affordable for those who don't qualify for the North Star Promise program.
 Protect the BWCA The Boundary Waters and Voyageurs National Park are a Minnesota treasure.
-It's important that we do all we can to preserve the Minnesota Boundary Waters and Voyageurs National Park while as the same time ensure the wealth from the mines are kept in the Arrowhead.
+It's important that we do all we can to preserve the Minnesota Boundary Waters and Voyageurs National Park while at the same time ensuring the wealth from the mines are kept in the Arrowhead.
 Encourage an Ownership Society I will work to create a better Minnesota where more people own their own homes, more people run small family businesses, more farmers operate small family farms, more employees are working for employee-owned businesses, more people receive their electricity from electric cooperatives, and more farmers have the right to repair their own equipment and plant their own seeds.
 This will bring prosperity and people back to rural and Greater Minnesota.
 We need to make rural and Greater Minnesota great again.
@@ -39,6 +39,10 @@ I also believe responsible gun owners don't want kids gunned down in schools or 
 Therefore, where the laws are not strong enough or there are no laws, we need a serious politician to take a serious look at what we can do to reduce gun violence, protect kids, church, synagogue, and mosque goers, and all Minnesotans, and protect the second amendment.
 I believe we can do all at the same time.
 We also need to enforce the laws to get and keep criminals off our streets.
+I will work to make our communities safe from violence of all types.
+We need a leader committed to collaborating with the community to hold criminals accountable.
+We need to ensure law enforcement and prosecutors have the resources and tools they need and ensure judges have the resources and guidance they need to prosecute and sentence criminals appropriately.
+We ALL do better when we ALL are safer.
 Prevent Domestic and Sexual Violence We need to hear and trust survivors.
 One in three women and one in four men are forever impacted by domestic violence.
 Too often, the lives of women and men are forever impacted due to domestic and sexual abuse and violence.

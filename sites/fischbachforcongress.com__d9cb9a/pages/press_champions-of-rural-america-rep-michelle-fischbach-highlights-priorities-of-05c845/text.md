@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press Champions of Rural America: Rep.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press Champions of Rural America: Rep.
 Michelle Fischbach Highlights Priorities of the Working Families Tax Cut Jan 7 | Press Rep.
 Michelle Fischbach shares her appreciation for rural communities and outlines how the Working Families Tax Cut is aimed to support farm families on RFD-TV’s Champions of Rural America.
 WASHINGTON, D.C.

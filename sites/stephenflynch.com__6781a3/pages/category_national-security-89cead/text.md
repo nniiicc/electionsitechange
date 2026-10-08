@@ -1,20 +1,21 @@
-by Jay Cincotti | Apr 10, 2026 | 8th Congressional District, National Security, News & Updates
-Updated: 5:37 PM EDT Apr 10, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Massachusetts Democratic Congressman Stephen Lynch questioned the United States’ gains from its involvement in the Iran conflict during...
-by Jay Cincotti | Jun 24, 2025 | National Security, News & Updates, Uncategorized
-By Logan Hall WBZ NEWS Updated on: June 23, 2025 / 7:49 AM EDT / CBS Boston A crowd of approximately 500 demonstrators took to the streets of downtown Boston Sunday to protest recent U.S. military strikes against Iran, while Gov.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page Congressman Lynch questions U.S. gains in Iran conflict by Jay Cincotti | Apr 10, 2026 | 8th Congressional District , National Security , News & Updates Updated: 5:37 PM EDT Apr 10, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Massachusetts Democratic Congressman Stephen Lynch questioned the United States’ gains from its involvement in the Iran conflict during...
+Boston protesters condemn U.S. attack in Iran as Rep.
+Lynch criticizes president’s decision by Jay Cincotti | Jun 24, 2025 | National Security , News & Updates , Uncategorized By Logan Hall WBZ NEWS Updated on: June 23, 2025 / 7:49 AM EDT / CBS Boston A crowd of approximately 500 demonstrators took to the streets of downtown Boston Sunday to protest recent U.S. military strikes against Iran, while Gov.
 Maura Healey was briefed by...
-by Jay Cincotti | Jun 18, 2025 | 8th Congressional District, Essential Infrastructure, Jobs & Economic Opportunity, National Security, News & Updates
-Rep.
+US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work by Jay Cincotti | Jun 18, 2025 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , National Security , News & Updates Rep.
 Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one...
-by Jay Cincotti | Jun 13, 2025 | National Security, News & Updates
 Rep.
+Lynch blasts Trump as ‘wannabe gangster’ in immigration hearing by Jay Cincotti | Jun 13, 2025 | National Security , News & Updates Rep.
 Stephen Lynch, D-Mass., delivered his remarks at a hearing conducted by the House Oversight Committee.
 June 12, 2025 Watch the full video here:...
-by Jay Cincotti | May 15, 2024 | 8th Congressional District, National Security, News & Updates
-Congressman Lynch sat with Ed Harding and Sharman Sacchetti to discuss the issues effecting our district.
-Watch the OTR interview here: https://www.wcvb.com/article/otr-mass-rep-stephen-lynch-on-immigration/60628614
-by Jay Cincotti | Feb 24, 2024 | 8th Congressional District, National Security, News & Updates
-WCVB Boston Channel 5 • Updated: 6:30 PM EST Feb 24, 2024 BOSTON — A Massachusetts congressman is calling for the United States to send aid to Ukraine, as two years have passed since Russia invaded its neighbor in Eastern Europe.
+OTR: Mass.
+Rep.
+Stephen Lynch on immigration by Jay Cincotti | May 15, 2024 | 8th Congressional District , National Security , News & Updates Congressman Lynch sat with Ed Harding and Sharman Sacchetti to discuss the issues effecting our district.
+Watch the OTR interview here: https://www.wcvb.com/article/otr-mass-rep-stephen-lynch-on-immigration/60628614 Massachusetts congressman calls for aid to Ukraine during Boston rally by Jay Cincotti | Feb 24, 2024 | 8th Congressional District , National Security , News & Updates WCVB Boston Channel 5 • Updated: 6:30 PM EST Feb 24, 2024 BOSTON — A Massachusetts congressman is calling for the United States to send aid to Ukraine, as two years have passed since Russia invaded its neighbor in Eastern Europe.
 U.S.
 Rep.
-Stephen Lynch was among the...
+Stephen Lynch was among the... « Older Entries Search for: Recent Posts Rep.
+Lynch Concerns: Medicaid Cuts, Strain On Hospitals ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order Congressman Lynch questions U.S. gains in Iran conflict ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Legislators Advocate for State Takeover of Norwood Hospital and Potential Reopening as a Not-For-Profit Hospital Recent Comments Archives June 2026 May 2026 April 2026 March 2026 February 2026 December 2025 October 2025 September 2025 June 2025 May 2025 February 2025 August 2024 May 2024 February 2024 January 2024 December 2023 November 2023 September 2023 March 2023 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 October 2019 September 2019 August 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 September 2018 April 2018 Categories 8th Congressional District Advancing Equality Affordable Healthcare Combatting Addiction Common Sense Gun Laws COVID-19 Essential Infrastructure Financial Security Investing in Education Jobs & Economic Opportunity National Security News & Updates Protecting Our Environment Protecting the Post Office Supporting Our Seniors Uncategorized Veterans Meta Log in Entries feed Comments feed WordPress.org Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

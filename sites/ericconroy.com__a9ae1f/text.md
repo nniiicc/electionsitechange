@@ -1,6 +1,6 @@
 Skip to content Donate to Eric Conroy for Congress Home Meet Eric Issues Close Issues Open Issues Border Security Cryptocurrency and Blockchain Education Jobs and the Economy National Defense Protecting Women's Sports Safe Neighborhoods Small Business Social Security and Medicare Transportation and Infrastructure Veterans Media Center Close Media Center Open Media Center In the News Press Kit Action Center Close Action Center Open Action Center Endorse Eric Volunteer for Eric Contact Facebook X-twitter Instagram Youtube Donate Defending the American Dream for Southwest Ohio Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Phone Cell Layout Email * Cell Phone * Disclaimer * Yes, please text me updates from the campaign.
+Phone Disclaimer Email Email * Cell Phone * Disclaimer * Yes, please text me updates from the campaign.
 By providing your telephone number, you consent to receive calls and Voter Information, Campaign Update, and GOTV Reminder text messages from Conroy for Congress.
 Message & data rates may apply.
 Message frequency may vary.
@@ -23,7 +23,7 @@ Stay Connected Sign up for campaign updates, events, and breaking news.
 Be the first to know what's happening on the trail.
 Contact The Team is Standing By Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Message Comment Name Email * Phone Comment or Message Send Message Address 2692 Madison Rd Suite N1, Box #358 Cincinnati, OH 45208 Phone (513) 201-7327 Email info@ericconroy.com Conroy for Congress 2692 Madison Rd.
+Email Comment Message Name * First Last Email * Phone Comment or Message Send Message Address 2692 Madison Rd Suite N1, Box #358 Cincinnati, OH 45208 Phone (513) 201-7327 Email info@ericconroy.com Conroy for Congress 2692 Madison Rd.
 Suite N1, Box #358 Cincinnati, OH 45208 Quick Links Meet Eric Issues News Press Kit Volunteer Endorse Privacy Policy Terms and Conditions Facebook X-twitter Instagram Youtube Issues Jobs and the economy Safe Neighborhoods Border Security Transportation and Infrastructure Education Small Business Veterans Cryptocurrency and Blockchain Social Security and Medicare National Defense DisclaimerS By providing your telephone number, you consent to receive calls and text messages from Conroy for Congress.
 Message & data rates may apply.
 Message frequency may vary.

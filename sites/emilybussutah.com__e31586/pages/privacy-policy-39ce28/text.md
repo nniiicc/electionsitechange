@@ -1,4 +1,4 @@
-0 Skip to Content Meet Emily Priorities Endorsements Contact Events Join the Team Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Contact Events Join the Team Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Contact Events Folder: Join the Team Back Donate Volunteer Request a Yard Sign DONATE Last updated: September 22, 2026 These Terms and Conditions (“Terms”) govern your use of the website www.emilybussutah.com and related online properties operated by the campaign committee for Emily Buss’s candidacy for Utah State Senate District 11 (“Campaign,” “we,” “us,” or “our”).
+0 Skip to Content Meet Emily Priorities Endorsements Events Get Involved/Contact Connect With Emily Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Events Get Involved/Contact Connect With Emily Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Events Folder: Get Involved/Contact Back Connect With Emily Donate Volunteer Request a Yard Sign DONATE Last updated: September 22, 2026 These Terms and Conditions (“Terms”) govern your use of the website www.emilybussutah.com and related online properties operated by the campaign committee for Emily Buss’s candidacy for Utah State Senate District 11 (“Campaign,” “we,” “us,” or “our”).
 By using our website or opting in to receive text messages from us, you agree to these Terms.
 1.
 About This Campaign Emily Buss for Utah Senate District 11 is a political campaign committee supporting Emily Buss’s candidacy for the Utah State Senate.
@@ -51,7 +51,7 @@ Continued use of the website or SMS program after changes are posted constitutes
 Governing Law These Terms are governed by the laws of the State of Utah, without regard to conflict-of-law principles.
 10.
 Contact For questions about these Terms, use our contact page or visit www.emilybussutah.com/contact .
-RE-ELECT EMILY BUSS FOR SD 11 About Volunteer Request a Yard Sign Donate Contact team@emilybussutah.com (801) 885-5826 Newsletter Block This newsletter signup form needs a storage option.
+Emily Buss for Utah Senate District 11 About Volunteer Request a Yard Sign Donate Contact team@emilybussutah.com (801) 885-5826 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up to receive news and updates.
 Email Address Sign Up Thank you!

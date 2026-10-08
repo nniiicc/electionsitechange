@@ -1,7 +1,1 @@
-Donate
-Home
-Meet David
-Issues
-News & Events
-Contact
-Tucker for Vermont Campaign Endorsements
+Donate Home Meet David Issues News & Events Contact Tucker for Vermont Campaign Endorsements Donate Follow Follow David Tucker for Vermont PO Box 15, Lower Waterford, VT 05848 info@tuckerforvermont.com Paid for by Tucker for Vermont, Celina Wright Treasurer © # Tucker for Vermont

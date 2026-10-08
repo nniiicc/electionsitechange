@@ -37,15 +37,19 @@
 },
 {
 "text": "Log in",
-"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2025%2F11%2F06%2Fpublic-transportation-dependency%2F&signup_flow=account"
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2026%2F10%2F08%2Fterrorism-usa%2F&signup_flow=account"
 },
 {
 "text": "Log in now.",
-"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2025%2F11%2F06%2Fpublic-transportation-dependency%2F&signup_flow=account"
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2026%2F10%2F08%2Fterrorism-usa%2F&signup_flow=account"
 },
 {
 "text": "Manage subscriptions",
 "href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "News.- Blog",
+"href": "https://sboyledetroit.wordpress.com/category/news-blog/"
 },
 {
 "text": "Nov 18.2024",
@@ -58,6 +62,10 @@
 {
 "text": "Nov 6.2025",
 "href": "https://sboyledetroit.wordpress.com/2025/11/06/public-transportation-dependency/"
+},
+{
+"text": "Oct 8.2026",
+"href": "https://sboyledetroit.wordpress.com/2026/10/08/terrorism-usa/"
 },
 {
 "text": "Open Meetings Act Compliant?",
@@ -86,6 +94,10 @@
 {
 "text": "Taxes",
 "href": "https://sboyledetroit.wordpress.com/2025/06/19/taxes/"
+},
+{
+"text": "Terrorism USA",
+"href": "https://sboyledetroit.wordpress.com/2026/10/08/terrorism-usa/"
 },
 {
 "text": "Transforming I-375: Restoring Black Bottom’s Legacy",

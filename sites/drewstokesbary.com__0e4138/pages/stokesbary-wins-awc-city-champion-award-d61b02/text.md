@@ -7,6 +7,6 @@ Here’s what AWC said about my role in the Legislature on behalf of cities: Rep
 Stokesbary was a cosponsor of our TIF bill in 2020.
 As a ranking member on the House Appropriations Committee and a member of the House Finance Committee, he often provides cities with a listening ear and good feedback on how to address our fiscal needs.
 Stokesbary appreciates our challenges in making city budgets work and he’s always willing to look for solutions that help cities.
-Awards More For You Moscow-Pullman Daily News: Rep.
-Drew Stokesbary “Said it Best” In the News Making state government more effective, efficient, and accountable In the News Unanimous endorsement from State Patrol Troopers Association Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Awards More For You Tacoma News Tribune picks Stokesbary Endorsements Rep.
+Stokesbary takes oath, begins work for 31st District In the News Ferguson’s Attack on Our Constitutional Rights Current Events Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

@@ -38,4 +38,4 @@ Its because of them, I’ve been able to reach out to so many people in our Dubu
 They’re part of the team that will build a better Iowa.
 That team is always growing and we need your help.
 Join us as we take on special interest groups and ensure Des Moines is working for the everyday Iowan.
-Volunteer Paid for by Matt Robinson for Iowa Home MY STORY Issues Press VOLUNTEER DONATE
+Volunteer Paid For by Matt Robinson for Iowa Home MY STORY Issues Press VOLUNTEER DONATE

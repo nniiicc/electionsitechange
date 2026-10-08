@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Volunteer Donate Events Home About Priorities Endorsements Volunteer Events Donate Menu I’m Paul and I’m running for Congress to serve you.
+Skip to content Home About Priorities Volunteer Donate Events Donate Home About Priorities Endorsements Volunteer Events Vote Menu I’m Paul and I’m running for Congress to serve you.
 I’m a health care and public policy leader with a track record of solving tough problems, building coalitions, and delivering results – without insults or drama.
 Throughout my career, I’ve worked at the intersection of health care, law, technology, and government to make programs work better for the people they serve – by improving operations and results through smarter systems, greater accountability, and adoption of innovative technology.
 I’ve always worked to bring people together to solve problems, and that’s what I’ll do as your elected representative in Congress.

@@ -1,4 +1,4 @@
-Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Scott’s Anti-Corruption Plan Fighting Corruption.
+Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Scott’s Anti-Corruption Plan Fighting Corruption.
 Restoring Trust.
 Putting Mississippi First.
 “My record as a district attorney is proof of how I make decisions: based on the evidence and the law.” For too long, politicians in Washington have looked out for themselves, their donors and their special interests instead of the people they were elected to serve.

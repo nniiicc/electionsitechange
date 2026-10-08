@@ -1,15 +1,66 @@
 [
-"https://facebook.com/RepLongoria",
-"https://instagram.com/replongoria",
-"https://oscarlongoria.com/",
-"https://oscarlongoria.com/about",
-"https://oscarlongoria.com/contact",
-"https://oscarlongoria.com/donate",
-"https://oscarlongoria.com/endorsements",
-"https://oscarlongoria.com/events",
-"https://oscarlongoria.com/news",
-"https://oscarlongoria.com/privacy-policy",
-"https://oscarlongoria.com/social",
-"https://twitter.com/RepLongoria",
-"https://youtube.com/@replongoria"
+{
+"text": "About Oscar",
+"href": "https://oscarlongoria.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://oscarlongoria.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://oscarlongoria.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://oscarlongoria.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://oscarlongoria.com/events"
+},
+{
+"text": "Home",
+"href": "https://oscarlongoria.com/"
+},
+{
+"text": "News",
+"href": "https://oscarlongoria.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://oscarlongoria.com/privacy-policy/"
+},
+{
+"text": "Social Media Feed",
+"href": "https://oscarlongoria.com/social/"
+},
+{
+"text": "[image: Oscar Longoria State Representative]",
+"href": "https://oscarlongoria.com/"
+},
+{
+"text": "[image: logo-footer-image]",
+"href": "https://oscarlongoria.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RepLongoria"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepLongoria/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/replongoria"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@replongoria"
+},
+{
+"text": "our homepage",
+"href": "https://oscarlongoria.com/"
+}
 ]

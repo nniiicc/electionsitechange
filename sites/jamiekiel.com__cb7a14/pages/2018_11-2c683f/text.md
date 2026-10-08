@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Kiel pledges loyalty to District 18 residents, not just political party When the vote tally finally showed Jamie Kiel would be the next representative of House District 18, it was the culmination of more than 18 months of work.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News Kiel pledges loyalty to District 18 residents, not just political party When the vote tally finally showed Jamie Kiel would be the next representative of House District 18, it was the culmination of more than 18 months of work.
 It was April of 2017 when Kiel and his wife Melissa sat down and decided together that he would take the leap into politics.
 They told Continue Reading County votes Morrow, Kiel Franklin County had 8,949 ballots cast in the Nov.
 6 general election.

@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Issues Issues Protecting Life We must protect the unborn, who have the fundamental right to life, and defend the sanctity of innocent human life at all stages from conception to natural death.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Issues Issues Protecting Life We must protect the unborn, who have the fundamental right to life, and defend the sanctity of innocent human life at all stages from conception to natural death.
 As a co-chair of the House Pro-Life Caucus, I have continued to fight for policies that defend life, stop federal funding for abortion and support protections for the most vulnerable.
 I will continue standing up to efforts by the radical left to promote infanticide and taxpayer-funded abortions.
 We have achieved significant wins, such as the 2022 Supreme Court decision that overturned Roe v.

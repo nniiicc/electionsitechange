@@ -33,7 +33,7 @@ No one can carry a corpse “to term”.
 THERE IS NO “TERM” FOR CORPSES.
 It needs to be expelled or evacuated for the same reason a gangrenous toe has to be amputated.
 Rational lawmakers would let doctors practice medicine, not try to do it themselves.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Home, Not So Sweet → Public Lands For the Public Leave a comment Cancel reply Δ Create a free website or blog at WordPress.com.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Home, Not So Sweet → Public Lands For the Public Leave a comment Cancel reply Δ Blog at WordPress.com.
 Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
 Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started

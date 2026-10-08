@@ -1,4 +1,4 @@
-Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Special Assistant Scott Colom for Senate seeks a talented, organized, innovative individual to join our growing operations team.
+Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Special Assistant Scott Colom for Senate seeks a talented, organized, innovative individual to join our growing operations team.
 The Special Assistant will serve as the primary driver and body person for Scott Colom as well as aide in administrative and scheduling duties.
 The ideal candidate is ambitious, hardworking, and able to work in a fast-paced environment.
 MUST BE WILLING TO RELOCATE TO COLUMBUS, MISSISSIPPI AREA Reports to: Operations Director Start date: ASAP Salary: Starting at $4,000/month.

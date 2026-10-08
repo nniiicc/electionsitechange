@@ -35,6 +35,13 @@ Every one of these counties gets the same attention.
 Carroll County Chester County Crockett County Decatur County Fayette County Gibson County Haywood County Henderson County Madison County Perry County Tipton County Shelby County Tennessee U.S.
 Congress districts adopted May 7, 2026 — District 8 in green.
 Source: Tennessee Comptroller of the Treasury.
+On the Air Hear Horace on the Air Three messages about independent leadership, West Tennessee roots, and the issues families discuss around the kitchen table.
+Voices of the District Independent Voice 0:34 No party bosses or Washington agenda — a commitment to affordable living, accessible healthcare, safe communities, and responsible government.
+Your browser does not support the audio element.
+From Here 0:34 A message rooted in West Tennessee’s farms, small businesses, churches, families, and communities.
+Your browser does not support the audio element.
+Kitchen Table 0:34 A focus on the everyday cost pressures facing working families — from groceries and healthcare to opportunity and responsible spending.
+Your browser does not support the audio element.
 Voice of the District Paul DW says what a lot of us are thinking.
 A West Tennessee singer-songwriter wrote a song about politicians who promise to drain the swamp and leave it deeper than they found it.
 It is exactly the kind of independent voice this campaign is built around.

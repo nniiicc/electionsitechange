@@ -1,11 +1,2 @@
-top of page
-Search this site
-Events (4)
-Blog Posts (3)
-Other Pages (13)
-4 results found with an empty search
-- Volunteer IntroductionsJanuary 21, 2026 | 12:00 AM
-- Community Town Hall on Key IssuesJanuary 28, 2026 | 9:56 PM200 E Main St, Fort Wayne, IN 46802, USA
-- Citizen Empowerment Workshop SeriesJanuary 28, 2026 | 9:56 PM1501 E Berry St, Fort Wayne, IN 46803, USA
-- Empathy Gala: Voices for ChangeJanuary 28, 2026 | 9:56 PM3500 N Anthony Blvd, Fort Wayne, IN 46805, USATickets: $0.00
-bottom of page
+top of page Sharon Wight for District 81 Donate Get Involved Yard Sign Request Menu Wight for Indiana House Home About Sharon Platform Get Involved Socials and More Events Yard Sign Request Media Privacy Policy Accessibility Statement Search Results Search this site Events (4) Blog Posts (3) Other Pages (13) 4 results found with an empty search Sort By: Best Match Volunteer Introductions January 21, 2026 | 12:00 AM Community Town Hall on Key Issues January 28, 2026 | 9:56 PM 200 E Main St, Fort Wayne, IN 46802, USA Citizen Empowerment Workshop Series January 28, 2026 | 9:56 PM 1501 E Berry St, Fort Wayne, IN 46803, USA Empathy Gala: Voices for Change January 28, 2026 | 9:56 PM 3500 N Anthony Blvd, Fort Wayne, IN 46805, USA Tickets: $0.00 Wight for Indiana House Yard Sign Request Volunteer Stay Connected Email * Yes, subscribe me to your newsletter. * Submit 260-342-4487 electsharonwight@gmail.com 429 East Dupont Road #94, Fort Wayne, IN, 46825 USA Accessibility Statement ​ © # by Wight for Indiana House 81.
+Paid for by Friends of Sharon Wight bottom of page

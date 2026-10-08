@@ -1,29 +1,6 @@
-Mahalo
-MAHALO LETTER (clickable link) Aloha: As your new State Senator for Puna and East Ka`u, I want to thank you for your support. 2021 and the next several years will be…
-Skip to content
-Author: ellen
-Mahalo
-MAHALO LETTER (clickable link) Aloha: As your new State Senator for Puna and East Ka`u, I want to thank you for your support. 2021 and the next several years will be…
-Veteran Day Address
-https://joysanbuenaventura.com/wp-content/uploads/2020/10/veterans.mov#t=1
-Food Drive
-With the continuing problems raised by the Covid pandemic the democratic party held a food drive to help during these trying times.
-This was one of the events we participated…
-Candidate Spotlight
-JCCIH 2020 Candidate SpotlightWednesday October 7,2020Congratulations to Joy San Buenaventura on your endorsement by the Japanese Chamber of Commerce and Industry of Hawai'i for Hawai'i Senate District 2https://mailchi.mp/664d6efb8c21/jccih-2020-endorses-candidates-for-the-primary-election-5492546?e=5dddea9152
-MAHALO TO ALL
-Mahalo Nui Loa for all the support now on to the general election
-Ohana zone housing for homeless
-The first Ohana Zone project on Hawaii Island – Keolahou Assessment Center – opened at the site of the Old Hilo Hospital building in October 2019.https://homelessness.hawaii.gov/ohana-zone-funded-projects/
-Status of released inmates from OCCC
-The House Committee on Human Services and Homelessness held a hearing Friday focused mostly on how vulnerable populations are faring during the pandemic, including the inmates who were released from…
-Eruption Disaster Relief
-State Rep.
+Skip to content home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Menu Close home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Search this website Author: ellen This author has written 35 articles Home > ellen Mahalo Post author: ellen Post published: December 10, 2020 Post category: campaign / Covid MAHALO LETTER (clickable link) Aloha: As your new State Senator for Puna and East Ka`u, I want to thank you for your support.
+2021 and the next several years will be… Continue Reading Mahalo Veteran Day Address Post author: ellen Post published: October 22, 2020 Post category: campaign / Covid / housing https://joysanbuenaventura.com/wp-content/uploads/2020/10/veterans.mov#t=1 Continue Reading Veteran Day Address Food Drive Post author: ellen Post published: October 22, 2020 Post category: campaign / Covid With the continuing problems raised by the Covid pandemic the democratic party held a food drive to help during these trying times.
+This was one of the events we participated… Continue Reading Food Drive Candidate Spotlight Post author: ellen Post published: October 8, 2020 Post category: campaign / Covid / housing / internet / legislation JCCIH 2020 Candidate SpotlightWednesday October 7,2020Congratulations to Joy San Buenaventura on your endorsement by the Japanese Chamber of Commerce and Industry of Hawai'i for Hawai'i Senate District 2https://mailchi.mp/664d6efb8c21/jccih-2020-endorses-candidates-for-the-primary-election-5492546?e=5dddea9152 Continue Reading Candidate Spotlight MAHALO TO ALL Post author: ellen Post published: September 6, 2020 Post category: campaign Mahalo Nui Loa for all the support now on to the general election Continue Reading MAHALO TO ALL Ohana zone housing for homeless Post author: ellen Post published: September 2, 2020 Post category: housing The first Ohana Zone project on Hawaii Island – Keolahou Assessment Center – opened at the site of the Old Hilo Hospital building in October 2019.https://homelessness.hawaii.gov/ohana-zone-funded-projects/ Continue Reading Ohana zone housing for homeless Status of released inmates from OCCC Post author: ellen Post published: September 2, 2020 Post category: Covid / health / housing The House Committee on Human Services and Homelessness held a hearing Friday focused mostly on how vulnerable populations are faring during the pandemic, including the inmates who were released from… Continue Reading Status of released inmates from OCCC Eruption Disaster Relief Post author: ellen Post published: September 2, 2020 Post category: disaster / eruption State Rep.
 Joy San Buenaventura, of Puna, says sending the funds would be subject to the Hawaii County Council approval.
-She says lawmakers have been working on this since last…
-Homeless and the pandemic
-San Buenaventura added that the statement from Bridging the Gap showed a testing rate of 77% of Hawaii County’s homeless population.
-Of these, zero active cases are on the Big…
-Fil-Am Courier
-In this article, Pinays in the PrimaryTyler Dos Santos-Tam looks at the promise that the 2020 election holds for the Filipino community Current State Representative Joy San Buenaventura is hoping to…
-This author has written 35 articles
+She says lawmakers have been working on this since last… Continue Reading Eruption Disaster Relief Homeless and the pandemic Post author: ellen Post published: September 2, 2020 Post category: housing / Covid San Buenaventura added that the statement from Bridging the Gap showed a testing rate of 77% of Hawaii County’s homeless population.
+Of these, zero active cases are on the Big… Continue Reading Homeless and the pandemic Fil-Am Courier Post author: ellen Post published: August 5, 2020 Post category: legislation / campaign In this article, Pinays in the PrimaryTyler Dos Santos-Tam looks at the promise that the 2020 election holds for the Filipino community Current State Representative Joy San Buenaventura is hoping to… Continue Reading Fil-Am Courier 1 2 3 4 Go to the next page Recent Posts Mahalo Veteran Day Address Food Drive Candidate Spotlight MAHALO TO ALL Recent Comments Archives December 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 September 2018 July 2018 May 2018 April 2018 March 2018 February 2018 Categories agriculture campaign Covid disaster eruption health HOA housing internet legislation transportation Contact Info Friends of Joy San Buenaventura Address: PO Box 1675 Kea'au Hi 96749 Phone: Frank Commendador 808-217-2215 Email: Joy4Puna joy4puna@outlook.com Opens in your application Follow Us Opens in a new tab Opens in a new tab Opens in a new tab Useful Links register to vote Opens in a new tab redistricting Hawaii Senate Opens in a new tab unemployment insurance information Opens in a new tab Hawaii County assistance programs Opens in a new tab Kīlauea eruption recovery Opens in a new tab Donate Copyright # - emsbmd@yahoo.com

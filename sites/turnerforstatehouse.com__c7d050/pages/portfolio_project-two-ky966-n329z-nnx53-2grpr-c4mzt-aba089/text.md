@@ -58,5 +58,5 @@ And as someone who loves his wife deeply, I believe our commitment would be no l
 The conversation about marriage’s place in society is ultimately a conversation about what kinds of caring relationships we value as a community.
 Before we can return marriage to the church, we must first return fairness to our financial systems.
 That’s not just good policy, it’s the Texas way.
-HOME PORTFOLIO Previous Previous Gun Rights Next Next Medicare Medicaid Nonprofit Healthcare Ready to Build a Stronger HD-59?
+HOME PORTFOLIO Ready to Build a Stronger HD-59?
 WEAR THE FIGHT CONTACT FUEL THE MISSION GET INVOLVED Paid for by Citizens for SGT Turner Andrew@sgtturnerforstatehouse.com

@@ -16,6 +16,6 @@ We also must prevent the entry of terrorists into West Virginia.
 Entities that support terrorists and terrorist groups should be chargeable as accessories to terrorism.
 My bill is posted on my website here .
 We cannot let the Biden Regime state terrorism or Leftist surrogate terrorist groups, or foreign terrorists, like Hamas, threaten our People and our Liberty.
-MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous Prohibiting Entry of Illegal Aliens Next Next Prohibiting Illegal Alien Human Smuggling Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+MONTANI SEMPER LIBERI Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

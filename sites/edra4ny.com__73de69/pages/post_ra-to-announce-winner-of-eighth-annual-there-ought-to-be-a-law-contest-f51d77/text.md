@@ -1,1 +1,7 @@
-
+top of page DONATE SUBSCRIBE MEET ED ON THE ISSUES LATEST UPDATES GET INVOLVED VOLUNTEER LAWN SIGN REQUEST GET IN TOUCH EVENTS Use tab to navigate through the menu items.
+ALL ARTICLES PRESS RELEASES LATEST UPDATES MEDIA ADVISORY Search RA TO ANNOUNCE WINNER OF EIGHTH ANNUAL ‘THERE OUGHT TO BE A LAW’ CONTEST Jun 22 1 min read Assemblyman Ed Ra (R-Franklin Square) will host a ceremony at Mineola High School today at 4:30 p.m . where he will honor the 30 semi-finalists and announce the winner of his 2026 “There Ought To Be A Law” contest.
+The annual contest invites students to think critically about public policy by proposing ideas they believe could make effective laws.
+This year, the contest received 553 submissions from students throughout the district.
+WHO: Assemblyman Ed Ra (R-Franklin Square) Semi-finalists and families Teachers and administrators from each of the nine participating schools WHEN: Today, June 22, 2026 – 4:30 p.m.
+WHERE: Mineola High School 10 Armstrong Rd., Garden City Park, NY 11040 Recent Posts See All REPUBLICANS REJECT DEMOCRATS’ 11-HOUR REDISTRICTING SCHEME ASSEMBLY & SENATE REPUBLICANS OPPOSE ‘REVIVE ACT,’ CITE STATE OVERREACH, DEFEND LOCAL CONTROL ENDORSEMENTS GET THE LATEST UPDATES Home Meet Ed Latest Updates Events Get Involved Get In Touch © # by Ed Ra.
+Powered and secured by Wix Friends of Ed Ra ​ PO Box 8088 Garden City, NY 11530 ​ ​ ​ ​ ​ voteedra@gmail.com bottom of page

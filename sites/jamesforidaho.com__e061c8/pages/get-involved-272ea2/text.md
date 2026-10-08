@@ -6,5 +6,5 @@ Subscribe Sign up with your email address to receive news and updates.
 Email Address Sign Up We respect your privacy.
 Thank you!
 Connect with us on social media Become a monthly donor Make a Donation MY IDAHO ROOTS RUN DEEP your support helps me keep fighting for an Idaho that works for all of us.
-Chip In Volunteer Contact Me Email: info@jamesforidaho.com Mailing Address: COMMITTEE TO ELECT JAMES RUCHTI P.O.
+Chip In Volunteer Contact Me Phone: 208-251-4104 Email: info@jamesforidaho.com Mailing Address: COMMITTEE TO ELECT JAMES RUCHTI P.O.
 BOX 6046 POCATELLO, ID 83205-6406 Follow Me on Social Media Paid for by the Committee to Elect James Ruchti | Treasurer – Dave Bagley

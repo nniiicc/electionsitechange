@@ -1,4 +1,4 @@
-top of page MEET VINCE No matter who you talk to, there’s something you can find in common with them.
+top of page Home Platform About Vince Volunteer Get Emails & Texts Donate MEET VINCE No matter who you talk to, there’s something you can find in common with them.
 I’ve lived in West Virginia for most of my life, and I’m running for Congress to serve the community that raised me.
 I know things haven’t always been perfect here in West Virginia, but, in some ways, they used to be better.
 I wasn’t born in West Virginia because, like many families at the time, my parents had to leave Huntington in 1955 in search of work.

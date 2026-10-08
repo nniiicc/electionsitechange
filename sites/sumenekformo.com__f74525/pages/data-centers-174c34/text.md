@@ -37,7 +37,7 @@ Responsible Growth.
 Strong Communities.
 We don't have to choose between economic development and protecting the people who live here.
 Data centers that want to be part of our community should pay their own way, protect our resources, follow the rules, and be good neighbors.
-Here’s my plan: Support Respect MO Voters in their plan to protect the Voter Initiative Process in Missouri Say “no” to any laws that try to make it harder for people to vote or be heard Listen to our community and support laws that help us all live better lives MORE ON MEREDITH'S PLATFORM EXPLORE MEET MEREDITH PLATFORM THE DISTRICT SUPPORT EVENTS VOLUNTEER DONATE FOLLOW PRIVACY POLICY MEREDITH SUMENEK FOR MISSOURI Paid for by Meredith Sumenek Campaign Fund, Laura Metz, Treasurer Call Meredith: 314.649.8049 Email: info@sumenekformo.com Mail: 4648 Villa Knoll Drive, Saint Louis MO 63128 DONATE When you donate through ActBlue, ActBlue will retain 3.95% of the contribution for processing fees.
+MORE ON MEREDITH'S PLATFORM EXPLORE MEET MEREDITH PLATFORM THE DISTRICT SUPPORT EVENTS VOLUNTEER DONATE FOLLOW PRIVACY POLICY MEREDITH SUMENEK FOR MISSOURI Paid for by Meredith Sumenek Campaign Fund, Laura Metz, Treasurer Call Meredith: 314.649.8049 Email: info@sumenekformo.com Mail: 4648 Villa Knoll Drive, Saint Louis MO 63128 DONATE When you donate through ActBlue, ActBlue will retain 3.95% of the contribution for processing fees.
 Meredith Sumenek Campaign Fund will retain the remaining 96.05%.
 Prefer to send a check?
 Please send to Meredith Sumenek Campaign Fund, 4648 Villa Knoll Dr, Saint Louis MO 63128

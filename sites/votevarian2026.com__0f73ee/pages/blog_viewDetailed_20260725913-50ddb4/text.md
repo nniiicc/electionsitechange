@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid Demand Destruction You’re going to hear the words Demand Destruction over the next several weeks, it’s tough to put this one in a 3 minute story.
 Here goes, Think back to how things used to be years ago, when a handshake meant something, a dollar went a long way, and you could count on the neighborhood stores to be there decade after decade.
 You knew what things cost, and you could budget your retirement or savings accordingly.

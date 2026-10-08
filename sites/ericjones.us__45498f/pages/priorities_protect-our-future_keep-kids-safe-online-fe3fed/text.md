@@ -48,4 +48,4 @@ Let’s give it back.
 All Policies Next Policy Return to Top SOURCES U.S.
 Surgeon General’s Advisory on social media and youth mental health (2023): HHS — “Social Media and Youth Mental Health: The U.S.
 Surgeon General’s Advisory” Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

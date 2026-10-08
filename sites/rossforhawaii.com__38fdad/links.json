@@ -1,9 +1,38 @@
 [
-"http://instagram.com/ianrosshi",
-"https://docs.google.com/forms/d/e/1FAIpQLSdQYY8mNzBa9knJja2CD3kwIDzuY0hcNbicAP3me7uHcbVPGQ/viewform?usp=header",
-"https://olvr.hawaii.gov/",
-"https://rossforhawaii.com/",
-"https://rossforhawaii.com/events",
-"https://secure.actblue.com/donate/ianrossforrep",
-"https://secure.actblue.com/donate/ianrosshawaii"
+{
+"text": "Contact Ian",
+"href": "mailto:rossforhawaii@gmail.com"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/ianrossforrep"
+},
+{
+"text": "Events",
+"href": "https://rossforhawaii.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdQYY8mNzBa9knJja2CD3kwIDzuY0hcNbicAP3me7uHcbVPGQ/viewform?usp=header"
+},
+{
+"text": "Instagram",
+"href": "http://www.instagram.com/ianrosshi"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "[image: Ian Ross for Hawaii State House]",
+"href": "https://rossforhawaii.com"
+},
+{
+"text": "[image: Ian Ross for Hawaii]",
+"href": "https://secure.actblue.com/donate/ianrosshawaii"
+},
+{
+"text": "[image]",
+"href": "https://rossforhawaii.com"
+}
 ]

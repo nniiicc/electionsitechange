@@ -1,6 +1,5 @@
-The Battle for Education
-Updated: Nov 7, 2023
-Hello, my fellow citizens of the 94th district.
+top of page HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items.
+DONATE The Battle for Education Blair Eddins Nov 6, 2023 2 min read Updated: Nov 7, 2023 Hello, my fellow citizens of the 94th district.
 In the months leading to the primary election next year, I'd like to share my thoughts on issues facing our district and our great state.
 Today, I want to discuss with you some of the concerns I have regarding education.
 The Bible says, "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction." Friends, our country has lost its fear of God.
@@ -21,4 +20,5 @@ We all need to be vigilant in attending our local school board meetings and hold
 Friends, we need to send brave and courageous leaders to Raleigh who will stand against the Left's agenda to target our children and do what is right above what is easy.
 That is why I am running to represent you in the 94th district.
 Together, with your support and prayers, we can make sure that our communities and state have the tools they need to fight against the Democrats who want to destroy our great land and endanger the futures of our children.
-"An educated citizenry is a vital requisite for our survival as a free people." - Thomas Jefferson
+"An educated citizenry is a vital requisite for our survival as a free people." - Thomas Jefferson Donate to Eddins for NC Recent Posts See All Blair Eddins Files for Re‑Election to Represent North Carolina House District 94 Blair Eddins to be Sworn In as NC State Representative Eddins Picked by District Republicans to Replace Elmore Paid for by Eddins for NC P.O.
+Box 1133 Wilkesboro, NC 28697 HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items. bottom of page

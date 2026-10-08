@@ -10,9 +10,9 @@ And they’re exposing us to harmful pollution in our air and water.
 But Luz Rivas is fighting back .
 She doesn’t care if Trump and others attack her.
 She has the courage to stand up for us.
-Meet Luz Rivas Luz was raised in the Valley by a single mother.
-She earned a degree in Electrical Engineering from MIT and a Masters from Harvard.
-Luz was was elected in 2025 to represent California’s 29th Congressional District.
-Prior to being elected to Congress, she served in the California State Assembly.
-Learn More We are strongly supporting Luz Rivas for Congress Luz is the only candidate endorsed by teachers, labor unions, and Democrats!
+Luz Fights for Us She voted against the Trump bill that made massive cuts in health care .
+She helped pass the law requiring Trump to release the Epstein files .
+She has conducted oversight of ICE detention centers to expose Trump’s inhumane deportation program and has called to abolish ICE .
+She secured $15 million in federal funding for higher education, infrastructure and public housing projects in the Valley.
+We are strongly supporting Luz Rivas for Congress Luz is the only candidate endorsed by teachers, labor unions, and Democrats!
 Support Luz Today! $ 50 $ 100 $ 500 $ 1000 $ 3500 Other $ 50 $ 100 $ 500 $ 1000 $ 3500 Other General Inquiries: info@luzforcongress.com Press Inquiries: Roy@behr-communications.com Powered by RUN! website builder Paid for by Luz Rivas for Congress You need to enable JavaScript to run this app.

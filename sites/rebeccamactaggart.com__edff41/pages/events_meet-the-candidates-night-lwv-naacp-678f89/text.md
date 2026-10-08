@@ -7,7 +7,7 @@ This forum will provide an opportunity for residents of your district to hear yo
 It will be moderated by an independent local journalist and will consist of questions prepared by the League and NAACP, and from the audience.
 As the event hosts, Washington High School students will be serving as greeters and gathering written questions from the audience.
 Every effort will be made to give each candidate equal opportunity to express his/her views.
-Previous Previous October 11 Pregame Fill Up Lunch at the Croatian Club in Donora Next Next October 17 No Kings Rally - October 17 Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
+Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
 PEOPLE FIRST.
 ALWAYS.
 Rebecca MacTaggart for PA Mailing Address: 60 South Lincoln Street Ignite Mailbox #12 Washington, PA 15301 Contact

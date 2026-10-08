@@ -6,7 +6,7 @@ Msg frequency may vary.
 Messaging may include requests for donation.
 Reply "STOP" to opt-out & "HELP" for help.
 View Privacy Policy for more info.
-Comments: ★ To help prevent spam, please answer this math question: 1+3?
+Comments: ★ To help prevent spam, please answer this math question: 6-1?
 EARLY VOTING October 13 th – October 30 th mail in ballots begin October 5 th and are due in on October 23 rd On November 3, 2026, Vote for Tyrone A.
 Evans for Georgia State Representative – District 128 COUNTING DOWN TO Election Day Support the Campaign Privacy Terms Political advertisement paid for and approved by Tyrone Evans for Georgia.
 Powered by OnlineCandidate.com

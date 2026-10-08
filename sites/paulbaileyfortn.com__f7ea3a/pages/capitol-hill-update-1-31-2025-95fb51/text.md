@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 1/31/2025 Capitol Hill Update 1/31/2025 This week, lawmakers convened on Capitol Hill, in Nashville, for a Special Session called by Governor Bill Lee.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 1/31/2025 Capitol Hill Update 1/31/2025 This week, lawmakers convened on Capitol Hill, in Nashville, for a Special Session called by Governor Bill Lee.
 The agenda included establishing statewide school choice, providing essential relief and support for those affected by Hurricane Helene, and creating a framework to aid President Trump in enforcing federal immigration laws and removing criminal aliens from the country.
 Education Freedom Act During the Special Session, lawmakers passed Governor Lee’s Education Freedom Act of 2025, expanding Tennessee’s school choice initiative statewide.
 This legislation ensures families across the state have the opportunity to choose the educational path that best fits their child’s needs.

@@ -9,10 +9,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=1107+smyth+street+plainview%2C+texas%2C+79072+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=2001+mac+davis+lane+lubbock%2C+texas%2C+79401+united+states"
 },
 {
@@ -336,10 +332,6 @@
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing-+Big+Spring&dates=20260719T203000Z%2F20260719T213000Z&location=1001+Birdwell+Lane%2C+Big+Spring%2C+Texas%2C+79720%2C+United+States"
 },
 {
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=South+Plains+Swing-+Plainview&dates=20260719T160000Z%2F20260720T053000Z&location=1107+Smyth+Street%2C+Plainview%2C+Texas%2C+79072%2C+United+States"
-},
-{
 "text": "ICS",
 "href": "https://www.rableforwesttexas.com/events/44rhelymhyjzwhjta78w7gza3b6aj5?format=ical"
 },
@@ -490,10 +482,6 @@
 {
 "text": "ICS",
 "href": "https://www.rableforwesttexas.com/events/south-plains-swing-big-spring?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.rableforwesttexas.com/events/south-plains-swing-plainview?format=ical"
 },
 {
 "text": "ICS",
@@ -716,10 +704,6 @@
 "href": "https://www.rableforwesttexas.com/events/south-plains-swing-big-spring"
 },
 {
-"text": "South Plains Swing- Plainview",
-"href": "https://www.rableforwesttexas.com/events/south-plains-swing-plainview"
-},
-{
 "text": "Terms & Conditions",
 "href": "https://www.rableforwesttexas.com/termsandconditions"
 },
@@ -877,10 +861,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.rableforwesttexas.com/events/south-plains-swing-plainview"
-},
-{
-"text": "View Event →",
 "href": "https://www.rableforwesttexas.com/events/ssmapa4ascshl865tadje2wfdsf6xc"
 },
 {
@@ -918,10 +898,6 @@
 {
 "text": "[image: South Plains Swing- Big Spring]",
 "href": "https://www.rableforwesttexas.com/events/south-plains-swing-big-spring"
-},
-{
-"text": "[image: South Plains Swing- Plainview]",
-"href": "https://www.rableforwesttexas.com/events/south-plains-swing-plainview"
 },
 {
 "text": "[no text]",
@@ -1122,117 +1098,5 @@
 {
 "text": "campaign@rableforwesttexas.com",
 "href": "mailto:campaign@rableforwesttexas.com"
-},
-{
-"text": "https://mobilize.us/s/ya5NCz",
-"href": "https://mobilize.us/s/ya5NCz"
-},
-{
-"text": "https://www.mobilize.us/dashboard/texasdemocrats/event/1013489/",
-"href": "https://www.mobilize.us/dashboard/texasdemocrats/event/1013489/"
-},
-{
-"text": "https://www.mobilize.us/mobilize/event/1005798/",
-"href": "https://www.mobilize.us/mobilize/event/1005798/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1013487/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1013487/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1013493/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1013493/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1013494/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1013494/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1013495/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1013495/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1018380/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1018380/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1018382/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1018382/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1018384/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1018384/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1018387/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1018387/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1018388/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1018388/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1018389/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1018389/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1034206/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1034206/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1034208/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1034208/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041051/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041051/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041058/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041058/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041072/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041072/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041078/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041078/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041082/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041082/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041089/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041089/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041097/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041097/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041107/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041107/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041113/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041113/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041117/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041117/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041123/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041123/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041131/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041131/"
-},
-{
-"text": "https://www.mobilize.us/texasdemocrats/event/1041135/",
-"href": "https://www.mobilize.us/texasdemocrats/event/1041135/"
 }
 ]

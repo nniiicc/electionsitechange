@@ -1,7 +1,8 @@
-Sen.
-Helming Urges Protection of Girls’ Sports Ahead of Board of Regents Vote
-As the new school year approaches, State Senator Pam Helming is voicing strong opposition to a proposed rule by the New York State Education Department that would mandate schools to allow boys to participate on girls’ sports teams when an equivalent boys’ team does not exist.
+top of page About Bio Endorsments Yard Signs News Contact Connect & Vote Volunteer More Use tab to navigate through the menu items.
+DONATE All Posts Search Sen.
+Helming Urges Protection of Girls’ Sports Ahead of Board of Regents Vote Samuel Close Sep 22, 2024 1 min read As the new school year approaches, State Senator Pam Helming is voicing strong opposition to a proposed rule by the New York State Education Department that would mandate schools to allow boys to participate on girls’ sports teams when an equivalent boys’ team does not exist.
 The rule, if approved by the Board of Regents in September, could take effect later this month.
 In a column published this week, Helming, who represents New York’s 54th District, argues that the proposed gender-neutral rule would undermine the progress made for female student-athletes under Title IX, which has granted generations of girls and young women opportunities to participate in sports.
 She contends that the rule eliminates the “significant adverse effect” standard, which currently allows schools to consider the impact on girls’ opportunities before allowing boys to join girls’ teams.
-Read the full article here:
+Read the full article here: https://www.fingerlakes1.com/2024/08/23/sen-helming-urges-protection-of-girls-sports-ahead-of-board-of-regents-vote/ Recent Posts See All NEW YORK STATE SENATOR PAM HELMING ANNOUNCES BID FOR RE-ELECTION CONTACT PAM First Name Last Name Email Subject Message Submit Thanks for submitting!
+PAM HELMING FOR SENATE PO Box 591 Canandaigua, NY 14424 ​ pamhelming@gmail.com MENU About Bio Endorsments Yard Signs News Contact Connect & Vote Volunteer SOCIAL MEDIA © # PAM HELMING FOR SENATE. bottom of page

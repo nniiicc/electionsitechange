@@ -1,5 +1,6 @@
 Skip to content Mike Kirchner About OAS Paper Walk or Talk with Mike Kirchner Walk or Talk with Mike Kirchner Please enable JavaScript in your browser to complete this form.
-Please enable JavaScript in your browser to complete this form. if sign Number Name * First Last Email * Phone Number Would you like a sign in your yard?
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * or yard? in Phone Number Would you like a sign in your yard?
 Please provide address in comment if you do.
 Yes No Comment or Message Please choose a day you would like to walk or talk with Mike Kirchner Saturday October 3, 9:30am, North Chagrin Nature Center Sunday October 4, 11:00am, Euclid Creek Welsh Picnic Area Monday October 5, 5:30pm, 30 minutes before Beachwood City Council meeting Tuesday October 6, 5:30pm, 30 minutes before Newburgh Heights City Council meeting Tuesday October 6, 6:30pm, 30 minutes before Bedford Hts.
 City Council meeting Wednesday October 7,6:30pm, 30 minutes before Maple Hts.

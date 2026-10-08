@@ -1,7 +1,9 @@
 {
  "description": "Come see me at the Owasso Gathering on Main",
  "final_url": "https://www.forstforok.com/events/owasso-gathering-on-main-4",
- "paid_for_by": null,
+ "fingerprint": "c4571879fb65254755c912da2d1a9ebd00743dfc",
+ "format": 3,
+ "paid_for_by": "authorized by Forst for OK Aaron@ForstForOK",
  "title": "Owasso Gathering on Main | Aaron Forst For State Senate",
  "years_mentioned": [
   "2026"

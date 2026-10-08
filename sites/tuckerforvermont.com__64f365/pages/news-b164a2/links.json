@@ -1,29 +1,158 @@
 [
-"https://facebook.com/profile.php?id=61575406576743",
-"https://forms.gle/PzbQ5VPMDj7r2YV68",
-"https://indivisiblestjohnsbury.org/",
-"https://instagram.com/tuckerforvermont",
-"https://letsgrowkidsactionnetwork.org/",
-"https://plannedparenthood.org/",
-"https://secure.actblue.com/donate/david-tucker-1",
-"https://sierraclub.org/",
-"https://tuckerforvermont.com/",
-"https://tuckerforvermont.com/4th-annual-big-ol-river-event",
-"https://tuckerforvermont.com/barnet-library-april-15",
-"https://tuckerforvermont.com/campaign-endorsements",
-"https://tuckerforvermont.com/contact",
-"https://tuckerforvermont.com/davies-library-may-29",
-"https://tuckerforvermont.com/donuts-with-david",
-"https://tuckerforvermont.com/donuts-with-david-june-13",
-"https://tuckerforvermont.com/donuts-with-david-june-27",
-"https://tuckerforvermont.com/donuts-with-david-sept5",
-"https://tuckerforvermont.com/dump-day-with-david-august-29",
-"https://tuckerforvermont.com/honored-to-have-the-endorsement-of-us-senator-peter-welch",
-"https://tuckerforvermont.com/issues",
-"https://tuckerforvermont.com/meet-david-tucker",
-"https://tuckerforvermont.com/news",
-"https://tuckerforvermont.com/wp-content/uploads/2026/09/BORE-Flyer.jpg",
-"https://vermontconservationvoters.com/",
-"https://vpirg.org/",
-"https://vtnea.org/"
+{
+"text": "4th Annual Big ’ol River Event",
+"href": "https://tuckerforvermont.com/4th-annual-big-ol-river-event/"
+},
+{
+"text": "Barnet Library, April 15",
+"href": "https://tuckerforvermont.com/barnet-library-april-15/"
+},
+{
+"text": "Campaign Endorsements",
+"href": "https://tuckerforvermont.com/campaign-endorsements/"
+},
+{
+"text": "Click here to download the event flier.",
+"href": "https://tuckerforvermont.com/wp-content/uploads/2026/09/BORE-Flyer.jpg"
+},
+{
+"text": "Contact",
+"href": "https://tuckerforvermont.com/contact/"
+},
+{
+"text": "Davies Library, May 29",
+"href": "https://tuckerforvermont.com/davies-library-may-29/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-tucker-1"
+},
+{
+"text": "Donuts with David",
+"href": "https://tuckerforvermont.com/donuts-with-david-june-27/"
+},
+{
+"text": "Donuts with David at the Dump, June 13",
+"href": "https://tuckerforvermont.com/donuts-with-david-june-13/"
+},
+{
+"text": "Donuts with David at the Dump, June 6",
+"href": "https://tuckerforvermont.com/donuts-with-david/"
+},
+{
+"text": "Donuts with David, Sept. 5!",
+"href": "https://tuckerforvermont.com/donuts-with-david-sept5/"
+},
+{
+"text": "Dump Day with David – August 29!",
+"href": "https://tuckerforvermont.com/dump-day-with-david-august-29/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61575406576743"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/tuckerforvermont"
+},
+{
+"text": "Home",
+"href": "https://tuckerforvermont.com/"
+},
+{
+"text": "Honored to have the endorsement of US Senator Peter Welch",
+"href": "https://tuckerforvermont.com/honored-to-have-the-endorsement-of-us-senator-peter-welch/"
+},
+{
+"text": "Issues",
+"href": "https://tuckerforvermont.com/issues/"
+},
+{
+"text": "Meet David",
+"href": "https://tuckerforvermont.com/meet-david-tucker/"
+},
+{
+"text": "News & Events",
+"href": "https://tuckerforvermont.com/news/"
+},
+{
+"text": "[image: Contact David Tucker]",
+"href": "https://tuckerforvermont.com/donuts-with-david-june-13/"
+},
+{
+"text": "[image]",
+"href": "https://letsgrowkidsactionnetwork.org/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/4th-annual-big-ol-river-event/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/barnet-library-april-15/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/davies-library-may-29/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/donuts-with-david-june-27/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/donuts-with-david-sept5/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/donuts-with-david/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/dump-day-with-david-august-29/"
+},
+{
+"text": "[image]",
+"href": "https://tuckerforvermont.com/honored-to-have-the-endorsement-of-us-senator-peter-welch/"
+},
+{
+"text": "[image]",
+"href": "https://vermontconservationvoters.com/"
+},
+{
+"text": "[image]",
+"href": "https://vtnea.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.indivisiblestjohnsbury.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.plannedparenthood.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.vpirg.org/"
+},
+{
+"text": "https://forms.gle/PzbQ5VPMDj7r2YV68",
+"href": "https://forms.gle/PzbQ5VPMDj7r2YV68"
+},
+{
+"text": "info@tuckerforvermont.com",
+"href": "mailto:info@tuckerforvermont.com"
+},
+{
+"text": "info@tuckerforvermont.com",
+"href": "mailto:into@tuckerforvermont.com"
+}
 ]

@@ -1,9 +1,9 @@
-0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Come Out and Meet Eunice Oct 7 LWV USCD3 Candidate Forum Wednesday, October 7, 2026 6:30 PM 7:30 PM Anderson Main Library (map) Google Calendar ICS Eunice will participate in the League of Women Voters Candidate Forum on Wednesday, October 07, in Anderson.
-Sponsored by LWV of Oconee, Pickens, and Anderson Counties.
-View Event → Oct 12 Democratic Women of Greenville County Monthly Meeting Monday, October 12, 2026 5:30 PM 7:30 PM Younts Conference Center (map) Google Calendar ICS Eunice will be at the Democratic Women of Greenville County Monthly Meeting on Monday, October 12.
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Come Out and Meet Eunice Oct 12 Democratic Women of Greenville County Monthly Meeting Monday, October 12, 2026 5:30 PM 7:30 PM Younts Conference Center (map) Google Calendar ICS Eunice will be at the Democratic Women of Greenville County Monthly Meeting on Monday, October 12.
 Register for the meeting here .
 View Event → Oct 15 Clemson City Council and State Representative Candidate Forum Thursday, October 15, 2026 6:00 PM 8:00 PM Abel Baptist Church (map) Google Calendar ICS Eunice and other candidates will be at the Clemson City Council and State Representative Candidate Forum at Abel Baptist Church in Clemson on Thursday, October 15.
 View Event → Oct 17 Pastors United for Action Unite Our Vote Rally and Candidate Forum Saturday, October 17, 2026 11:00 AM 4:00 PM Valley Brook Outreach Baptist Church (map) Google Calendar ICS Eunice will be at this forum including pastors, community leaders, and other candidates in Pelzer on Saturday, October 17.
+View Event → Oct 7 LWV USCD3 Candidate Forum Wednesday, October 7, 2026 6:30 PM 7:30 PM Anderson Main Library (map) Google Calendar ICS Eunice will participate in the League of Women Voters Candidate Forum on Wednesday, October 07, in Anderson.
+Sponsored by LWV of Oconee, Pickens, and Anderson Counties.
 View Event → Sep 28 Meet & Greet in Pendleton Monday, September 28, 2026 3:00 PM 4:00 PM Brews at the Square (map) Google Calendar ICS Eunice will be in Pendleton to meet voters and tour the town with Mayor Sarah.
 View Event → Sep 27 OCDP 14th Annual Fundraiser Picnic Sunday, September 27, 2026 4:00 PM 7:00 PM High Falls County Park (map) Google Calendar ICS This is your chance to: Hear directly from Eunice and other candidates about their vision and plans for Oconee County Ask questions and share your concern Meet neighbors and show your support Admission $35.
 View Event → Sep 26 A Dem Good Time Fish Fry Fundraiser for Greenville County Democratic Party Saturday, September 26, 2026 11:00 AM 1:30 PM Mountain View Baptist Church (map) Google Calendar ICS Eunice will be at the GCDP Fish Fry on Saturday, September 26.
@@ -98,7 +98,5 @@ View Event → Jun 3 Meet Eunice at the Carolina Bauernhaus in Anderson Wednesda
 Bring along a friend who you’re encouraging to vote in the primary on June 09.
 People who meet Eunice in person are more likely to vote.
 There will be a $1 “Support Eunice” brew as well as plenty of other drink options.
-View Event → Jun 2 McCormick County Democratic Party Monthly Community Meeting Tuesday, June 2, 2026 6:00 PM 7:00 PM MCDP Headquarters (map) Google Calendar ICS Eunice will be a guest speaker at the McCormick County Democratic Party’s Monthly Community Meeting on Tuesday, June 02.
-Go to the MCDP Website for more details.
 View Event → Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
 Privacy Policy DONATE

@@ -1,4 +1,4 @@
-HOME MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT More HOME MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT Sign In My Account Signed in as: filler@godaddy.com My Account Sign out DONATE Signed in as: filler@godaddy.com HOME MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT Account My Account Sign out Sign In My Account DONATE PRIORITIES PROPERTY TAXES I support funding police, fire, EMS, roads, water, schools.
+HOME #ICE CHEST CHALLENGE MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT More HOME #ICE CHEST CHALLENGE MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT DONATE HOME #ICE CHEST CHALLENGE MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT DONATE PRIORITIES PROPERTY TAXES I support funding police, fire, EMS, roads, water, schools.
 TRAFFIC REDUCTION—and more!
 I Do NOT support using fear as a motivator- Before someone plays the fear card—(without tax increases it will be the end of times and services will be cut) Let’s for once consider helping citizens pay their bills, instead of worrying about counties paying their bills.
 Something needs to be done when evaluations Rise 50%-but Paychecks & Retirements do not!
@@ -62,4 +62,4 @@ Mary supports the preservation, protection, and restoration of our natural envir
 Mary supports: Practical, nonpartisan conservation measures.
 Partnering with the Department of Energy on innovative recycling and fuel alternatives.
 Smarter transportation planning to reduce pollution.
-PRIORITIES CONTACT VOLUNTEER DONATE Paid for by the Mary Insprucker Committee PRIVACY POLICY | Political Ad Paid for by the Mary Insprucker Committee © # Mary Insprucker for NC
+#ICE CHEST CHALLENGE PRIORITIES CONTACT VOLUNTEER DONATE Paid for by the Mary Insprucker Committee PRIVACY POLICY | Political Ad Paid for by the Mary Insprucker Committee © # Mary Insprucker for NC

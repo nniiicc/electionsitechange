@@ -88,10 +88,6 @@ Usar la ciencia y los datos para guiar la política del agua.
 Las decisiones de Arizona sobre el agua deben basarse en la mejor hidrología, ciencia climática, datos de agua subterránea y proyecciones de largo plazo disponibles, y no en intereses políticos de corto plazo.
 Planificar para un futuro más caluroso y más seco.
 La política del agua debe tomar en cuenta la sequía, la disminución de los niveles de los embalses, el agotamiento del agua subterránea, el crecimiento de la población y las condiciones cambiantes que Arizona ya está viviendo.
-Propongo que la Legislatura asigne fondos a un Programa de Subvenciones para la Mitigación del Polvo, administrado por el Departamento de Calidad Ambiental de Arizona (ADEQ), para ayudar a los condados y municipios en zonas de no cumplimiento (nonattainment areas) a pavimentar caminos de tierra, estabilizar el suelo alterado en obras de construcción y demolición, y monitorear los puntos críticos de partículas.
-Una zona de no cumplimiento es una región geográfica que la Agencia de Protección Ambiental de los EE.
-UU.
-(EPA) ha designado oficialmente como incapaz de cumplir los Estándares Nacionales de Calidad del Aire Ambiental (NAAQS) federales para uno o más contaminantes, con mayor frecuencia el ozono a nivel del suelo o las partículas (PM2.5 y PM10).
 El futuro hídrico de Arizona no se asegurará con un solo proyecto ni con una sola política.
 Hará falta conservación, protección del agua subterránea, eficiencia agrícola, reciclaje, recarga, inversión en infraestructura, desarrollo responsable de nuevos suministros y una gestión cuidadosa del nuevo crecimiento.
 Debemos asegurarnos de que el crecimiento económico de Arizona fortalezca nuestras comunidades en lugar de pedir a los residentes actuales que lo subsidien con su agua, su electricidad y sus facturas de servicios.

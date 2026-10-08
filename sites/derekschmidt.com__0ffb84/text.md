@@ -14,7 +14,7 @@ As Attorney General, he fought for Kansas every day.
 He sued President Biden and won.
 In Congress, he's continuing to put Kansans first - every day.
 Your support helps us tell his story and share our values. $10 $25 $50 $250 Other ★ 2026 Endorsements ★ Kansas Is Standing With Derek Trusted leaders and organizations across the Sunflower State are backing Derek Schmidt. ★ Endorsed by President Donald J.
-Trump Organizations Standing With Derek 60 Plus Association Kansans for Life PAC Kansas Family Voice Kansas Farm Bureau Kansas Livestock Association Kansas State Council of Fire Fighters National Sorghum Producers NRA-PVF Meet Derek Schmidt U.S.
+Trump Organizations Standing With Derek 60 Plus Association Kansans for Life PAC Kansas Family Voice Kansas Farm Bureau Kansas Fraternal Order of Police Kansas Livestock Association Kansas State Council of Fire Fighters National Sorghum Producers NFIB Federal PAC NRA-PVF Meet Derek Schmidt U.S.
 Representative for Kansas' 2nd Congressional district Derek Schmidt is a fifth-generation Kansan who has spent his career standing tall for the values, safety, and prosperity of our state.
 Since taking office on January 3, 2025, Derek has hit the ground running in the 119th Congress, bringing his experience and love of Kansas to Washington to deliver real results for the people of the 2nd District.
 Delivering for the 2nd District As your Representative, Derek's top priority is ensuring that Kansas has a strong voice in the nation's capital.

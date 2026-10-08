@@ -40,9 +40,9 @@ Throughout her career, she has worked with law enforcement, educators, Tribes, m
 She knows that progress happens when people listen to one another, find common ground, and stay focused on results.
 That’s the approach Ida will bring to Olympia.
 She will work with anyone willing to put community needs first, protect taxpayer dollars, and deliver results for local families.
-Follow Ida Keeley for WA #ago 8 1 Share 1108195102383524_122116617902631455 Follow Ida Keeley for WA #ago 3 0 Share 1108195102383524_122116564166631455 Follow Ida Keeley for WA #ago 🚨 ACTION ALERT: Stand Up for Head Start & Early Learning in WA State!
+Follow Ida Keeley for WA #ago 11 1 Share 1108195102383524_122116617902631455 Follow Ida Keeley for WA #ago 7 1 Share 1108195102383524_122116564166631455 Follow Ida Keeley for WA #ago 🚨 ACTION ALERT: Stand Up for Head Start & Early Learning in WA State!
 I sent in my comment and you can too!
-5 0 Share 1108195102383524_122116545938631455 Follow Ida Keeley for WA #ago Lightbox link for post with description Beyond grateful that Transportation for ...
+7 1 Share 1108195102383524_122116545938631455 Follow Ida Keeley for WA #ago Lightbox link for post with description Beyond grateful that Transportation for ...
 Beyond grateful that Transportation for Washington has endorsed my campaign for the 39th Legislative District!
 In Snohomish and Skagit counties, getting around is about more than a commute.
 It's whether a senior can reach a medical appointment, whether a worker can get to a job, ... whether a student can get to school safely, and whether emergency responders can reach us quickly.
@@ -51,7 +51,7 @@ And in our rural communities, where distances are long and options are few, it c
 Every person in our district deserves safe, reliable, accessible ways to get where they need to go.
 Thank you to Transportation for Washington for your trust.
 I'll bring my budgeting experience and my commitment to working across agencies and communities to make sure the disability community and rural communities have a voice in Olympia.
-#LD39 #IdaForWA #TransportationforWa #Repforall #Community 11 0 Share 1108195102383524_122116515110631455 Follow Ida Keeley for WA #ago Lightbox link for post with description It was an honor to share the day with LD39 Pos 1...
+#LD39 #IdaForWA #TransportationforWa #Repforall #Community 13 0 Share 1108195102383524_122116515110631455 Follow Ida Keeley for WA #ago Lightbox link for post with description It was an honor to share the day with LD39 Pos 1...
 It was an honor to share the day with LD39 Pos 1 candidate Kathryn4LD39 and Snohomish County PUD candidate Janet St Clair.
 A special Thank you to Emily Wicks, Cindy Gobel, and the Women’s Auxiliary Board.
 We had fun with individual conversations along with speeches and rapid fire questions. ...
@@ -61,7 +61,7 @@ We know when more hands make light work vs when there are too many cooks in the 
 Women's representation matters.
 LD39 needs experienced leaders who will make sure our communities are heard and bring home the resources we need.
 Thank you, Oso, for the great conversations and for showing up for each other.
-#LD39 #IdaforWa #Voteforwomen #Oso #peopleoverpolitics Reel credit: Emily Wicks 14 3 Share 1108195102383524_122116454186631455 Follow Ida Keeley for WA #ago Lightbox link for post with description ⏰We're one month out from the General ... ⏰We're one month out from the General Election!
+#LD39 #IdaforWa #Voteforwomen #Oso #peopleoverpolitics Reel credit: Emily Wicks 16 3 Share 1108195102383524_122116454186631455 Follow Ida Keeley for WA #ago Lightbox link for post with description ⏰We're one month out from the General ... ⏰We're one month out from the General Election!
 Thank you to our amazing volunteers who came out this morning to doorbell in Marysville.
 I also had lovely conversations in Sedro-Woolley this afternoon.
 What I keep hearing at the door, including from several Republican voters, ... is that people are tired of the same old party line, where folks complain but nothing gets done.

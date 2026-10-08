@@ -57,15 +57,10 @@ Menores costes energéticos.
 Hogares más saludables.
 Comunidades más fuertes.
 Un uso más inteligente de nuestros recursos energéticos.
-Es una inversión práctica en las familias de Washington y en nuestro futuro. ← Artículo anterior Entradas más recientes Se va a modernizar el edificio de Salud Pública del condado de Lewis Oct 2, 2026 | Sin categoría En «The Chronicle» El edificio de Salud Pública y Servicios Sociales del condado de Lewis, en Chehalis, lleva mucho tiempo necesitando una reforma.
+Es una inversión práctica en las familias de Washington y en nuestro futuro. ← Artículo anterior Entradas más recientes Cuando las prioridades locales se convierten en inversiones estatales Oct 7, 2026 | Elegir a Peter Abbarno Para la Cámara de Comercio de C-C Una de las cosas más importantes a la hora de representar a nuestra comunidad en Olympia es escuchar a los líderes locales, identificar las necesidades reales y, después, trabajar juntos para convertir esas prioridades en resultados....
+Se va a modernizar el edificio de Salud Pública del condado de Lewis Oct 2, 2026 | Sin categoría En «The Chronicle» El edificio de Salud Pública y Servicios Sociales del condado de Lewis, en Chehalis, lleva mucho tiempo necesitando una reforma.
 Pronto la tendrá gracias a una asignación directa de 1,5 millones de dólares del presupuesto de capital suplementario...
 Proteger las tierras de cultivo de Washington y fortalecer las comunidades rurales Ago 27, 2026 | Blog Las granjas, los bosques, los ríos y las tierras de cultivo de Washington son parte de lo que hace que nuestro estado sea especial.
 Además, generan miles de puestos de trabajo, producen alimentos y madera, protegen los hábitats y la calidad del agua, y sostienen a las...
-Vota pronto.
-Vota con orgullo.
-Ayuda a construir un Washington más fuerte.
-Jul 9, 2026 | Sin categoría Todas las elecciones son importantes, pero las elecciones primarias de 2026 son especialmente importantes para el futuro de nuestras comunidades y de nuestro estado.
-Las decisiones que tomemos hoy ayudan a marcar el rumbo que tomará Washington mañana.
-Si queremos......
 Mantente al día de las últimas noticias de Olimpia.
 Recibe el boletín de Peter Pagado por el comité para la elección de Peter Abbarno | Diseñado por The Silver Agency English ( Inglés ) Español

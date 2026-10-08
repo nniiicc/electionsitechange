@@ -1,11 +1,46 @@
 [
-"https://convergepay.com/hosted-payments?ssl_txn_auth_token=BWYRELlcT4uXd%2BaGEQIg7AAAAY2PJi3p",
-"https://grovesforcongress.com/",
-"https://grovesforcongress.com/gallery",
-"https://grovesforcongress.com/libertarian-resolutions",
-"https://grovesforcongress.com/meet-ralph-groves",
-"https://grovesforcongress.com/my-letters",
-"https://grovesforcongress.com/my-mission",
-"https://grovesforcongress.com/position-papers",
-"https://grovesforcongress.com/press-releases"
+{
+"text": "DONATE",
+"href": "https://www.convergepay.com/hosted-payments/?ssl_txn_auth_token=BWYRELlcT4uXd%2BaGEQIg7AAAAY2PJi3p"
+},
+{
+"text": "Gallery",
+"href": "https://www.grovesforcongress.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.grovesforcongress.com"
+},
+{
+"text": "Letters",
+"href": "https://www.grovesforcongress.com/my-letters"
+},
+{
+"text": "Meet Ralph Groves",
+"href": "https://www.grovesforcongress.com/meet-ralph-groves"
+},
+{
+"text": "Mission",
+"href": "https://www.grovesforcongress.com/my-mission"
+},
+{
+"text": "Position Papers",
+"href": "https://www.grovesforcongress.com/position-papers"
+},
+{
+"text": "Press Releases",
+"href": "https://www.grovesforcongress.com/press-releases"
+},
+{
+"text": "Ralph Groves For Congress",
+"href": "https://www.grovesforcongress.com"
+},
+{
+"text": "Resolutions",
+"href": "https://www.grovesforcongress.com/libertarian-resolutions"
+},
+{
+"text": "[image: Libertarian Party logo]",
+"href": "https://www.grovesforcongress.com"
+}
 ]

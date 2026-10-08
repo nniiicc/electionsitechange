@@ -13,7 +13,7 @@ Without asking you to prejudge any future case, how would you approach constitut
 Bloom: My professional experience, education and training certainly inform me with respect to understanding, or at least having a baseline understanding of, a lot of the technical terminology and statutory language.
 It is important to keep an open mind, evaluate and listen to all the evidence and arguments, and exhaust every avenue or line of inquiry so that the decision is robust, fully developed, well-grounded in the law and supported by the Constitution.
 Read more here .
-Emily Strode Previous Previous Candidate Interview with the League of Women Voters of WA Paid for by Todd Bloom for Supreme Court | P.
+Emily Strode Paid for by Todd Bloom for Supreme Court | P.
 O.
 Box 7685 | Tacoma, WA 98417 info@electtoddbloom.com Military information and photographs do not imply endorsement by the United States Navy or the DOW.
 Terms and Conditions Privacy Policy

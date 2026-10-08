@@ -19,4 +19,4 @@ Learn More Help Bob Win!
 Bob has done an amazing job in his two terms.
 Donating today to his campaign will insure that he can continue to bring common sense leadership back to District 56.
 Make A Donation To The Campaign Donate Today!
-Get In Touch Name Email Address Message 1 + 14 = Send Message Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Site By ManOverMachine | Privacy Policy
+Get In Touch Name Email Address Message 4 + 8 = Send Message Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Site By ManOverMachine | Privacy Policy

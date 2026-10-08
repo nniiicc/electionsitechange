@@ -1,10 +1,38 @@
 [
-"https://elisonforutah.com/",
-"https://elisonforutah.com/beliefs-1",
-"https://elisonforutah.com/goals-1",
-"https://elisonforutah.com/important-dates",
-"https://elisonforutah.com/meet-joseph",
-"https://elisonforutah.com/videos-1",
-"https://elisonforutah.com/why-donate",
-"https://house.utleg.gov/rep/ELISOJ"
+{
+"text": "BELIEFS",
+"href": "https://www.elisonforutah.com/beliefs-1"
+},
+{
+"text": "Elison For Utah",
+"href": "https://www.elisonforutah.com"
+},
+{
+"text": "GOALS",
+"href": "https://www.elisonforutah.com/goals-1"
+},
+{
+"text": "HOME",
+"href": "https://www.elisonforutah.com"
+},
+{
+"text": "HOUSE UPDATES",
+"href": "https://www.elisonforutah.com/important-dates"
+},
+{
+"text": "MEET JOSEPH",
+"href": "https://www.elisonforutah.com/meet-joseph"
+},
+{
+"text": "VIDEOS",
+"href": "https://www.elisonforutah.com/videos-1"
+},
+{
+"text": "WHY DONATE",
+"href": "https://www.elisonforutah.com/why-donate"
+},
+{
+"text": "subscribe",
+"href": "https://house.utleg.gov/rep/ELISOJ/"
+}
 ]

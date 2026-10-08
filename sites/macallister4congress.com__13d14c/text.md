@@ -2,7 +2,7 @@ Home About Solutions Events Media Get Involved Yard Sign Ballot Positions Donate
 Congress · Massachusetts 9th District Tyler Macallister for Congress Local Roots.
 Common Sense Results.
 A lifelong Cape Codder and five-term Mattapoisett Select Board member, running to bring real-world experience, common sense, and accountability back to Washington — for the Cape, the Islands, the South Coast, and the South Shore.
-Join the Crew TYLER MACALLISTER FOR CONGRESS MACALLISTER4CONGRESS.COM Get a yard sign — free → Upcoming events See all → OCT 6 League of Women Voters Forum · New Bedford Tuesday · 6 PM · Keith Middle School → OCT 6 Candidate Forum · New Bedford Tuesday · 7 PM · New Life South Coast, 1331 Cove Road → Find your polling place → EARLY VOTING STARTS OCT 17 Election Day is November 3, 2026 · see how to vote → Meet Tyler · Twenty-Five Miles Offshore Macallister & Minogue Inside Vineyard Wind Congressional candidate for MA-09, and forty-plus years fishing this water.
+Join the Crew TYLER MACALLISTER FOR CONGRESS MACALLISTER4CONGRESS.COM Get a yard sign — free → Upcoming events See all → OCT 8 Hear Tyler on the GOAT Podcast Thursday · Middleborough · time to be announced → OCT 8 Debate Watch Party · New Bedford Thursday · 5 to 7 PM · Rose Alley Ale House → OCT 14 League of Women Voters Forum · Falmouth Wednesday · 7 PM · Falmouth High School · live on FCTV 6 → OCT 15 Come Meet Tyler · Lobster Dinner, Kingston Thursday · 6 to 9 PM · Hilltop Athletic Association Club → Find your polling place → EARLY VOTING STARTS OCT 17 Election Day is November 3, 2026 · see how to vote → Meet Tyler · Twenty-Five Miles Offshore Macallister & Minogue Inside Vineyard Wind Congressional candidate for MA-09, and forty-plus years fishing this water.
 In August, Tyler ran twenty-five miles south of Nantucket with Mike Minogue to see the Vineyard Wind turbines up close.
 He went out expecting a reef.
 Watch what isn’t out there — three minutes.
@@ -62,4 +62,5 @@ Come say hello, ask me anything, and let's bring Cape Cod common sense to Washin
 This campaign belongs to the people of this district, and I'm grateful you're here for it. — Tyler Local Roots.
 Common Sense Results.
 U.S.
-Congress · Massachusetts 9th District Home ​ About ​ Solutions ​ Events ​ Media ​ Get Involved Email Tyler (508) 538-1631 PAID FOR BY MACALLISTER FOR CONGRESS · 2026 Privacy Policy Terms & Conditions Election Day — November 3, 2026 (add to calendar) Donate Scroll to Top
+Congress · Massachusetts 9th District Home ​ About ​ Solutions ​ Events ​ Media ​ Get Involved Email Tyler (508) 538-1631 PAID FOR BY MACALLISTER FOR CONGRESS · 2026 Privacy Policy Terms & Conditions Election Day — November 3, 2026 (add to calendar) Donate Scroll to Top Video drops soon Tyler on The G.O.A.T.
+Podcast Get the video link › ×

@@ -1,5 +1,4 @@
-Service Over Self Means Telling the Whole Story
-Like a lot of folks around Haywood and Madison counties, I enjoy getting out to local festivals and community gatherings.
+Skip to content Home Contact Me Donate Meet Jimmy Service over Self Service over self Service Over Self Means Telling the Whole Story Like a lot of folks around Haywood and Madison counties, I enjoy getting out to local festivals and community gatherings.
 It’s where you see people you know, shake a few hands, and hear what’s really on folks’ minds.
 Not long ago, at one of those events, I noticed Mark Pless’s campaign booth contained three banners with millions of dollars in budget appropriations.
 One of his banners outrageously said, “Hurricane Helene funding I have obtained from the State of NC $2,100,000,000.” According to Mark, he was able to wrestle more than two BILLION dollars from the state single-handedly, and all of it came home to Haywood County.
@@ -50,3 +49,7 @@ We can appreciate the help we’ve received, be thankful for recovery funds when
 That’s the kind of representation I believe in.
 That kind of representation is who I am as a person.
 And that kind of representation is what I’ll work to deliver.
+Get involved.
+Stay informed.
+Be part of the work that matters.
+Contact Me Facebook Instagram Customize Reject All Accept All Powered by

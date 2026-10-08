@@ -1,18 +1,9 @@
-Voter Registration Information
-Click Here to Register to Vote or Check Your Voting Status
-I am Larry Thompson and I am running for United States Congress in California's 32nd District.
-I am running as a centrist Republican.
-The Primary Election was on June 2, 2026.
-I have advanced to the General Election on November 3, 2026.
-LOS ANGELES COUNTY BEGINS MAILING BALLOTS AND OPENS DROP BOXES ON OCTOBER 1
-Please click here for the Official LA County Election Toolkit
-I ask you for your vote.
-Confirm which Congressional District you live and vote in:
-The new 32nd District after Prop 50 passed - Enter your address or zoom in to see boundaries:
-The new 32nd Congressional District includes the communities of Bel-Air, Bell Canyon, Beverly Glen, Beverly Hills, Brentwood, Canoga Park, Encino, Malibu, North Hills, Northridge, Pacific Palisades, Porter Ranch, Reseda, Sherman Oaks, Simi Valley, Studio City, Tarzana, Topanga, West Hills, Winnetka, and Woodland Hills.
+Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos Voter Registration Information Click Here to Register to Vote or Check Your Voting Status I am Larry Thompson and I am running for United States Congress in California's 32nd District .
+I am running as a centrist Republican .
+The Primary Election was on June 2, 2026 .
+I have advanced to the General Election on November 3, 2026 .
+LOS ANGELES COUNTY BEGINS MAILING BALLOTS AND OPENS DROP BOXES ON OCTOBER 1 Please click here for the Official LA County Election Tool kit I ask you for your vote.
+Confirm which Congressional District you live and vote in: Find your district The new 32nd District after Prop 50 passed - Enter your address or zoom in to see boundaries: The new 32nd Congressional District includes the communities of Bel-Air, Bell Canyon, Beverly Glen, Beverly Hills, Brentwood, Canoga Park, Encino, Malibu, North Hills, Northridge, Pacific Palisades, Porter Ranch, Reseda, Sherman Oaks, Simi Valley, Studio City, Tarzana, Topanga, West Hills, Winnetka, and Woodland Hills.
 The district is currently represented by Democrat Brad Sherman.
-Information about the 32nd Congressional District:
-https://www.census.gov/mycd/?st=06&cd=32
-Find your Voting Center:
-https://locator.lavote.net/locations/vc
-Other Election Information:
+Information about the 32nd Congressional District: https://www.census.gov/mycd/?st=06&cd=32 Find your Voting Center: https://locator.lavote.net/locations/vc Other Election Information: https://www.sos.ca.gov/elections/ VOTE NOW - VOTING ENDS IN November 3, 2026 at 8:00 PM CONTRIBUTE VOLUNTEER GIVE ENDORSEMENT REQUEST YARD SIGN VOTER INFO VOTING IN THE AGE OF CHAOS AI BILL OF RIGHTS WIKIPEDIA Get Updates Thank you for signing up!
+News Los Angeles Daily News - Larry Thompson, CA-32 candidate, 2026 election questionnaire Los Angeles Daily News - SHERMAN, THOMPSON TO FACE OFF Los Angeles Daily News - Brad Sherman and Larry Thompson lead in the top two spots New York Times - Representative Brad Sherman to Face Larry Thompson in November Simi Valley Acorn - Thompson edges Sherman in District 32 congressional race PAID FOR BY LARRY THOMPSON FOR CONGRESS Powered by CampaignPartner.com - Political Campaign Websites Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos Close Menu

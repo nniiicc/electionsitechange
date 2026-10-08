@@ -92,6 +92,6 @@ She has held seveal town halls, three open houses and organized 5 sessions to ef
 Kristine also instituted monthly email updates to bring awareness to the day-to-day battles being waged in Harrisburg, and staffed weekly satellite office hours in local libraries because she understands that this job is 24/7 and her constituents come first.
 Get in Touch Want the latest updates?
 Follow us.
-Follow Follow Follow Get in Touch First Name Last Name Email Address Message 10 + 8 = SEND Want the latest updates?
+Follow Follow Follow Get in Touch First Name Last Name Email Address Message 5 + 5 = SEND Want the latest updates?
 Follow us.
 Follow Follow Follow DONATE HOME MEET KRISTINE OUR PRIORITIES ENDORSEMENTS GET INVOLVED LATEST NEWS Landmark Reform for Victims of Child Sex Abuse Back in Session Frackers Must Be Taxed VIDEO – Kristine Speaks to the House Floor DONATE HOME MEET KRISTINE OUR PRIORITIES ENDORSEMENTS GET INVOLVED LATEST NEWS Landmark Reform for Victims of Child Sex Abuse Back in Session Frackers Must Be Taxed VIDEO – Kristine Speaks to the House Floor Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

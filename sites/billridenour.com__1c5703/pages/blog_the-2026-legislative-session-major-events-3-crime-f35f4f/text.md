@@ -11,6 +11,6 @@ The law expands the definition of domestic violence, creates a felony for domest
 Domestic violence strangulation is now punishable by substantially enhanced penalties, including imprisonment up to 10 years.
 Repeat offenders also face more severe criminal sanctions, reflecting the serious threat that domestic violence poses to families and communities.
 These measures demonstrate our commitment to protecting children, supporting victims, and ensuring that violent and sexual offenders are held accountable for their actions.
-All the bills mentioned can be accessed here - https://www.wvlegislature.gov/Bill_Status/Bill_Status.cfm Montani Semper Liberi Amanda Ridenour Previous Previous The Constitutional Crisis and Judicial Oligarchy Next Next The 2026 Legislative Session – Major Events #2: Education Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+All the bills mentioned can be accessed here - https://www.wvlegislature.gov/Bill_Status/Bill_Status.cfm Montani Semper Liberi Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

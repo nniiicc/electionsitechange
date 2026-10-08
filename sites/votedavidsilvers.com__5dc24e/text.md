@@ -1,6 +1,6 @@
 Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu FIGHTING FOR YOU Join The Team Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Number Last Phone First Name * Last Name * Email Address * Phone Number * Join Team Meet David Widely recognized as one of Florida’s most effective Democratic legislators, David has written, lead, and passed legislation that improves the lives of Florida residents.
+Address Name Number First Name * Last Name * Email Address * Phone Number * Join Team Meet David Widely recognized as one of Florida’s most effective Democratic legislators, David has written, lead, and passed legislation that improves the lives of Florida residents.
 Meet David PBC Voting Information Learn More Priorities Fighting for you David Silvers has a track record of getting things done for Florida’s families, seniors, and children.
 From creating housing that’s affordable to mental health reforms that protect our kids, David is making sure Florida’s residents come first.
 Learn More Endorse David Join the team Add your name to be one of our first supporters and endorse David Silvers for State Senate Endorse Proud Ambassador for Project Lifesaver International David Silvers is proud to serve as an Ambassador for Project Lifesaver International, an organization that works with first responders to help quickly locate individuals with cognitive conditions who may wander.

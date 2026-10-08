@@ -1,7 +1,9 @@
 {
  "description": "Vote in person today in the General Election!",
  "final_url": "https://www.holmforhouse.com/events/election-day",
- "paid_for_by": "paid for by the Holm For House Committee | PO Box 334, St",
+ "fingerprint": "0457833cd611353144206ab4ae764156555af8f2",
+ "format": 3,
+ "paid_for_by": "paid for by the Holm For House Committee",
  "title": "Election Day! | Holm For House",
  "years_mentioned": [
   "2026"

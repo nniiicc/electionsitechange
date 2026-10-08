@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements ABOUT PAM Pam Marsh was first elected to House District 5 in Southern Oregon in November 2016.
+Skip to content Wed.
+Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements ABOUT PAM Pam Marsh was first elected to House District 5 in Southern Oregon in November 2016.
 Prior to joining the Oregon Legislature, Pam served the City of Ashland as a City Councilor for four years, and as a member and chair of the city Planning Commission and a member of the Ashland Charter Review Committee.
 From 2006-2012 Pam worked as Deputy Director of a local nonprofit providing drug and alcohol prevention and treatment.
 She served as Executive Director of Ashland Emergency Food Bank from 2012 until December 2016.

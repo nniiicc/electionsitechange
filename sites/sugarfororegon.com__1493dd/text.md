@@ -16,7 +16,7 @@ Bridge-Builder.
 Michael is a teacher, debate coach, and union leader in Clackamas County.
 He has dedicated his life to helping young people find their voice.
 Now he’s running for State Representative to make sure Oregon continues to be a place where families can build their lives.
-Learn more Read below for some of our top priorities Lower Cost of Living Safe Communities & a Stronger Oregon Affordable & Accessible Health Care Better Education & Opportunities for Students More Affordable Housing & Opportunities for First Time Homebuyers And more!
+Learn more Share Now Lower Cost of Living Safe Communities & a Stronger Oregon Affordable & Accessible Health Care Better Education & Opportunities for Students More Affordable Housing & Opportunities for First Time Homebuyers And more!
 We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Endorsements A Sweeter Future for Oregon: Michael Sugar Many local leaders, unions, and organizations are standing together!
 State Rep.
 Annessa Hartman Current representative (Outgoing in 2027) Oregon Education Association - PAC Planned Parenthood Action Oregon State Sen.

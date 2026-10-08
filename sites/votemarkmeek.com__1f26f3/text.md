@@ -41,4 +41,4 @@ Mark passed legislation to prevent elder abuse and raise residential care standa
 We Proudly Support Mark Meek for State Senate Elected and community leaders U.S.
 Senator Jeff Merkley Congresswoman Janelle Bynum Congresswoman Maxine Dexter State Representative Annessa Hartman State Representative April Dobson Clackamas County Chair Craig Roberts Oregon City Mayor Denyse McGriff Gladstone Mayor Michael Milch Happy Valley Mayor Tom Ellis Trusted Organizations Oregon Nurses Association Oregon State Fire Fighters Council Oregon Chiefs of Police Association Oregon Business and Industry United Food and Commercial Workers Local 555 North Coast States Carpenters Union Let’s Stay in Touch!
 Sign-up to receive regular updates.
-Mark Meek for State Senate Paid for by Friends of Mark Meek 10121 SE Sunnyside Rd #300 | Clackamas, OR 97015 info@votemarkmeek.com
+Mark Meek for State Senate Paid for by Friends of Mark Meek PO Box 42307 | Portland, OR 97242 info@votemarkmeek.com

@@ -31,7 +31,7 @@ Mary answers to you.
 In 2025, Messmer voted with President Trump 99% of the time while refusing to hold in-person town halls.
 Mary has spent the last year traveling the district and listening to your needs and your concerns.
 She will continue to be an independent voice who listens to you.
-Learn more CQ.com - 2025 Presidential Support Scores — House List of Messmer’s votes against working people in 2025 He’s for an endless war.
+Learn more CQ.com - 2025 Presidential Support Scores — House List of Messmer’s votes against working people in 2025 He’s for Trump's War.
 Mary’s for ending needless conflict.
 The majority of Americans oppose Trump’s war in Iran.
 When presented with the opportunity to limit President Trump’s actions in Iran, Messmer voted against the War Powers Resolution Act – three times.

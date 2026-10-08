@@ -68,16 +68,18 @@ They were arrested.
 They took up legal action again and again and were told to sit down and shut up.
 Nevertheless, they persisted.
 Earlier this month, we celebrated their determination and their legacy that has allowed women not only to be empowered, but in power, with the dedication of a monument at Legislative Hall.
-HB 102 September 17, 2019 admin Criminal Law and Courts Comments are Closed 0 This bill allows a person who is arrested or convicted of any crime, except a violent felony, which was a direct result of being a victim of human trafficking may file an application or for a pardon or expungement or make a motion to vacate judgment.
-This bill also makes changes to the Human Trafficking Interagency coordinating by adding another member of the judicial branch and a representative of the Department of Education.
-This bill also adds locations where a public awareness sign must be placed.
-Co-Prime Sponsor: Poore; Status: Signed SB 57 September 17, 2019 admin Consumer Protection Comments are Closed 0 This Act makes clear that a retail licensee may only purchase authorized product from an importer, also known as wholesaler, except that a retail licensee may purchase up to 20 gallons a day from a premises licensed to sell for off-premises consumption.
-This Act also clarifies that off-premises licensees may sell untapped kegs for off-premises consumption.
-Co-Prime Sponsor: Poore; Status: Signed SB 56 September 17, 2019 admin Consumer Protection Comments are Closed 0 This Act modernizes the process and requirements for issuance of liquor licenses for off premises consumption.
-The current process and requirements do not consider population growth.
-Minimum distance requirements are enhanced while increases in population growth will now be considered to arrive at a safety and convenience balance.
-This Act also grandfathers existing licensees into the current process.
-Co-Prime Sponsor: Poore; Status: Signed Prev.
+HS 1 for HB 123 September 17, 2019 admin Health and Social Services Comments are Closed 3 This Act allows the Public Guardian to act as a representative payee for Social Security benefits or as a VA fiduciary for Department of Veterans Affairs benefits.
+This Act also allows the Court to appoint a guardian with limited powers, to act as guardian for specific areas of decision-making or for a specific term.
+By making these changes, this Act will allow the Public Guardian to serve in a more limited role where appropriate, and assist more Delawareans who need short-term assistance, such as to qualify for Medicaid in order to arrange for long-term care or to handle routine financial matters but not make decisions about the care of the person.
+The ability to serve in a more limited role will increase the Public Guardian’s capacity to assist people while the Non-Acute Patient Medical Guardianship Task Force studies options and develops recommendations to improve non-acute patient transitions from acute care settings to more appropriate locations.
+This Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual.
+House Substitute No.
+1 for House Bill No.
+123 differs from House Bill No.
+117 by clarifying that limited guardianships can be ordered for specific purposes, the process for terminating a limited guardianship, and that the Public Guardian serves as a representative payee or VA Fiduciary of last resort.
+Co-Prime Sponsor: Poore; Status: Signed HCR 6 September 17, 2019 admin Social Policy Comments are Closed 0 This Concurrent Resolution recognizes January, 2019 as Human Trafficking Awareness Month in Delaware.
+Co-Prime Sponsor: Poore; Status: Passed HCR 35 September 17, 2019 admin Health and Social Services Comments are Closed 0 This House Concurrent Resolution establishes an Interagency Pharmaceuticals Purchasing Study Group (“Study Group”) to coordinate the existing efforts to leverage bulk purchasing to negotiate lower prices and make recommendations to maximize the opportunities to coordinate State-funded pharmaceutical purchases.
+Co-Prime Sponsor: Poore; Status: Passed Prev.
 1 2 3 4 5 … 16 Next Senator Poore’s Newsletter Latest News Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 New Air Quality Initiatives Launching in Delaware… admin 11 Apr 2026 Legislative Recap: April 2026 admin 7 Apr 2026 About Lifelong New Castle County resident Senator Nicole Poore is a family-oriented professional who consistently demonstrates how hard work, dedication, integrity, and solid family values are paramount to achieving family, personal, and professional goals.
 Contact Senator Poore Quick Links Home 12th District Contact Legislation News/Blog Donate Accessibility Latest Posts Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 Delaware Voting Information 2016 Delaware Election Calendar Delaware Polling Place Locator Registering to Vote Voters with Special Needs Voting by Absentee Ballot © # Nicole Poore.
 Site design by The Writer's Block .

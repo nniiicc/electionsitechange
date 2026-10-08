@@ -1,5 +1,25 @@
 [
 {
+"text": "$#",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=1000"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=500"
+},
+{
 "text": "About",
 "href": "https://www.bermanforcongress.com"
 },
@@ -12,28 +32,12 @@
 "href": "https://secure.actblue.com/donate/berman-website"
 },
 {
-"text": "Donate $1,000",
-"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=1000"
-},
-{
-"text": "Donate $100",
-"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=100"
-},
-{
-"text": "Donate $25",
-"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=25"
-},
-{
-"text": "Donate $50",
-"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=50"
-},
-{
-"text": "Donate $500",
-"href": "https://secure.actblue.com/donate/berman-website?express_lane=true&amount=500"
-},
-{
 "text": "Endorsements",
 "href": "https://www.bermanforcongress.com"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.bermanforcongress.com/priorities"
 },
 {
 "text": "Media",
@@ -46,6 +50,10 @@
 {
 "text": "Priorities",
 "href": "https://www.bermanforcongress.com/priorities"
+},
+{
+"text": "See the full list",
+"href": "https://www.bermanforcongress.com/endorsers"
 },
 {
 "text": "Store",

@@ -1,8 +1,1 @@
-Home
-About
-Values
-Get Involved
-Learn more about Linda
-Meet Linda
-Privacy Preference Center
-Privacy Preferences
+Home About Values Get Involved Learn more about Linda Meet Linda [fts_facebook type=page id=106115987493807 access_token=EAAP9hArvboQBAENCZAf9AbAtg41ZAKn1fTxSWKTgXXHqDt8sBLQbcPuxHr7sfGzWDRi1z0YsaPtt3czOrRdnrYVuteYgSu95ZCfPvYONwXb7JffZAw7CBFG4NbO2V5iEpvGPfP9EFybvuafGZC58BZBTzA1eFio7AP5DYZAKxJEiygAfIo1ZCNfS posts=3 description=no posts_displayed=page_only images_align=center] grassroots@lindafornm.com 505-395-6356 Paid for by Our Neighbors for Linda (Treasurer: Soledad Roybal) Privacy Preference Center Privacy Preferences

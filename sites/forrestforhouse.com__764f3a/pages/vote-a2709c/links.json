@@ -1,22 +1,82 @@
 [
-"http:///",
-"http://twitter.com/CallyForrest",
-"https://campaignpartner.com/",
-"https://facebook.com/ForrestForHouse",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/contribute",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/news/2025-26-budget-summary",
-"https://forrestforhouse.com/news/2025-session-recap",
-"https://forrestforhouse.com/news/2026-update-1",
-"https://forrestforhouse.com/news/2026-update-2",
-"https://forrestforhouse.com/news/2026-update-3",
-"https://forrestforhouse.com/photos",
-"https://forrestforhouse.com/volunteer",
-"https://forrestforhouse.com/vote"
+{
+"text": "2025 Session Recap",
+"href": "https://forrestforhouse.com/news/2025-session-recap"
+},
+{
+"text": "2025-26 Budget Summary",
+"href": "https://forrestforhouse.com/news/2025-26-budget-summary"
+},
+{
+"text": "2026 Update 1",
+"href": "https://forrestforhouse.com/news/2026-update-1"
+},
+{
+"text": "2026 Update 2",
+"href": "https://forrestforhouse.com/news/2026-update-2"
+},
+{
+"text": "2026 Update 3",
+"href": "https://forrestforhouse.com/news/2026-update-3"
+},
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://forrestforhouse.com/contribute"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forrestforhouse.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://forrestforhouse.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/CallyForrest"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ForrestForHouse/"
+},
+{
+"text": "https://www.scvotes.org",
+"href": "http://"
+}
 ]

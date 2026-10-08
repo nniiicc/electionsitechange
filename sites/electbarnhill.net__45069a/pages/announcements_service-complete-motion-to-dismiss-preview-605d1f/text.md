@@ -45,9 +45,7 @@ If a motion to dismiss is filed, we’ll respond on the record and keep you upda
 If the case proceeds past that stage, it moves toward the fact-finding the Secretary’s office avoided back in June.
 Either way, this is what accountability looks like: not noise, not accusations — a documented question, asked in the right forum, that Nevada voters deserve an answer to.
 The same administrative-authority argument at the heart of this case applies to Question 7 implementation as well — see Voter ID Is Coming: Let’s Talk About Making It Actually Work for People .
-For the complete chronology—from the original voter-roll analysis, through the administrative complaint, to the federal filing and service—see the earlier voter-roll investigation report and federal filing announcement .
-Who will protect your vote?
-I will. — Brad Lee Barnhill Candidate for Nevada Secretary of State electbarnhill.net | 702-613-2576 Barnhill v.
+For the complete chronology—from the original voter-roll analysis, through the administrative complaint, to the federal filing and service—see the earlier voter-roll investigation report and federal filing announcement . — Brad Lee Barnhill Candidate for Nevada Secretary of State electbarnhill.net | 702-613-2576 Barnhill v.
 Aguilar — Case Timeline May 20, 2026 Barnhill submitted a sworn complaint concerning alleged duplicate voter-registration records to the Nevada Secretary of State’s Elections Division and Clark County officials.
 See Who Will Protect Your Vote ?
 June 3–4, 2026 Formal notice was sent under the National Voter Registration Act .
@@ -73,11 +71,13 @@ The Court has not yet ruled on the September 16 e-filing motion.
 See Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer .
 October 6, 2026 Barnhill mailed a Notice of Lodging Proposed Order and Request for Ruling on the September 16 e-filing motion, with a proposed order attached.
 Latest update: I’ve Asked the Court to Rule on My E-Filing Request .
-Share: Categories: Announcements 3 thoughts on “Service Is Complete.
+I took the Secretary of State to federal court to protect your vote.
+Has your candidate?
+Get to know me · Join the campaign · Donate Share: Categories: Announcements 3 thoughts on “Service Is Complete.
 Here’s What Comes Next in Barnhill v.
 Aguilar.” Pingback: Nevadans for Barnhill - Barnhill Sues Nevada Secretary of State Over Voter Rolls Pingback: Nevadans for Barnhill - Barnhill Files Federal Lawsuit Against Nevada Secretary of State Pingback: Barnhill Opposes Aguilar's Motion to Stay, Moves to Consolidate NVRA Suit Post navigation Previous Previous post: What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature Next Next post: The Lawsuit Is Filed: Barnhill v.
 Aguilar footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

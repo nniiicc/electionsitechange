@@ -40,20 +40,18 @@ Getting Involved Help us keep Baldwin County strong and represented with common 
 Too often, politics gets in the way of progress.
 Many communities feel unheard, forgotten, or left out of the conversation in Montgomery Jennifer Fidler is not a career politician—she’s a problem-solver.
 With more than 25 years of hands-on public service experience, including leading public works in Fairhope and serving on local planning boards, Jennifer brings practical leadership and deep roots in our community.
-Used for the like, share, comment, and reaction icons Jennifer Fidler #ago Attending a White House briefing in the Eisenhower building as part of our 50 legisladies event.
-Where there is one female legislator from each of the 50 states attending a leadership Institute. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha wow 138 Shares: 0 Comments: 18 18 Comments Comment on Facebook Jennifer Fidler updated their status.
+Used for the like, share, comment, and reaction icons Jennifer Fidler #ago Once a month the Baldwin County ‘think tank’ gathers at Mama Lou’s.
+Today’s speakers include Corey Hill for Ag commissioner and Jim Ziegler for Public Service Commissioner. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 35 Shares: 0 Comments: 2 2 Comments Comment on Facebook Jennifer Fidler #ago Memorable day in Mobile.
+The president came to Mobile and we had a groundbreaking for the new Bridge across the bay.
+The Mobile bridge would not happen without the Presidents authorization.
+Thankfully, with the work that many leaders have done over many years, we have it. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha wow angry 328 Shares: 7 Comments: 13 13 Comments Comment on Facebook Jennifer Fidler #ago Visited our nations Capitol this week and attended the White House Leadership conference with colleagues.
+Read captions under photos for details! ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 44 Shares: 0 Comments: 2 2 Comments Comment on Facebook Jennifer Fidler updated their status.
 #ago ...
 See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes 0 Shares: 0 Comments: 0 0 Comments Comment on Facebook Jennifer Fidler updated their status.
-#ago ...
-See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes 2 Shares: 0 Comments: 0 0 Comments Comment on Facebook Jennifer Fidler #ago PRIMARY RUNOFF ELECTIONS TODAY Today we have the honor and privilege of voting.
-Thank you to all the men and women that sacrificed their lives for the benefit of our freedom so that we all can participate in this, a process coveted by many worldwide.
-It’s up to us to steward these freedoms and liberties for the next generations.
-Do your part, ignore the negativity, we have great candidates for you to consider casting your vote upon.
-May God continue to Bless the USA and ALABAMA! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 65 Shares: 3 Comments: 3 3 Comments Comment on Facebook Load more The Plan Here’s how we keep Alabama strong—together: # Stay Informed Follow Jennifer’s updates and see what’s happening in Montgomery.
+View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes 1 Shares: 0 Comments: 0 0 Comments Comment on Facebook Load more The Plan Here’s how we keep Alabama strong—together: # Stay Informed Follow Jennifer’s updates and see what’s happening in Montgomery.
 # Get Involved Volunteer, share your story, or host a local event.
 # Support the Campaign Every donation helps ensure your values have a voice.
 Friends of Jennifer Fidler 20103 Bohemian Hall Road Silverhill, AL 36576 Email: jennifer@fidlerforhouse.com Tel: 251.239.0624‬ Terms and Conditions Subscribe To Our Newsletter Join our mailing list to receive the latest news and updates from our team.

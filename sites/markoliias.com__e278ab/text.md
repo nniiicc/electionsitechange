@@ -4,7 +4,8 @@ Growing up in Snohomish County, the son of a carpenter and a school lunch lady, 
 With your continued support,I’ll continue to use this platform to create an economy that works for everyone, expand access to education and opportunity, and ensure that we continue to tear down barriers and guarantee every Washingtonian is welcome and respected.
 Share your name and email and join our people-powered campaign for the middle class.
 Go!
-Recent Highlights The Herald Net WSDOT ‘weeks away’ from releasing US 2 trestle project plans September 25, 2026 EVERETT — The Washington State Department of Transportation will release its plans by November to replace the U.S.
+Recent Highlights Lynnwood Times Community Transit celebrates 50th Anniversary with an Intimate Celebration October 7, 2026 Senator Liias, along with several other elected officials and community transit leaders gather, for an intimate celebration of Community Transits 50th Anniversary.
+With Senator Liias sharing a few quotes about the work he has done on community transit, and his personal experiences with the Read More The Herald Net WSDOT ‘weeks away’ from releasing US 2 trestle project plans September 25, 2026 EVERETT — The Washington State Department of Transportation will release its plans by November to replace the U.S.
 2 trestle.
 Then it’s up to local and state leaders to find the funding.
 Read More My Edmonds News Edmonds turns out for a gala Pride Month finale September 2, 2026 Senator Liias attends Edmonds Pride!
@@ -16,5 +17,4 @@ While it will only be one boat, from one terminal, we will learn a lot about pub
 Read More Puget Sound Institute Washington Lawmakers to decide whether to ban a tire chemical shown to be toxic to salmon September 2, 2026 Senator Liias sponsored legislation banning tire chemicals shown to be toxic to salmon.
 Read More Mukilteo Beacon Ceremony in Florida for Hybrid ferry bound for Mukilteo September 2, 2026 Senator Liias and other top officials gather in Florida to celebrate the completion of hybrid ferry headed towards Mukilteo.
 Read More Washington State Standard Wa governor lays groundwork for cellphone ban in public schools September 2, 2026 Governor Bob Ferguson signs legislation sponsored by Senator Liias to put into action a statewide plan for a school cellphone ban.
-Read More King 5 State senator talks broken transit promises, Sound Transit light rail projects falling short September 2, 2026 Senator Liias discusses the Sound Transit shortfalls, and cancellation of Ballard expansion.
 Read More Donate Paid for by Marko Liias for Senate 401 2nd Ave S Ste 303, Seattle, WA 98104

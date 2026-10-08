@@ -1,7 +1,7 @@
 About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY 17 events found.
 Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 5/2/2022 May 2, 2022 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 5/2/2022 May 2, 2022 - 10/8/2026 Now Select date.
 May 2022 Mon 2 May 2, 2022 @ 7:30 am - 11:00 am Legislative Breakfast with Andrew Chesney Monday, May 2nd 7:30 am Breakfast 8:00 am Update Logan’s 1805 S West Ave • Freeport, IL 61032 SPONSORSHIPS AVAILABLE $1,000 • $500 • $250 • $100 Chesney for Illinois Effective Local Leadership–Positive State Wide Reform June 2022 Thu 9 June 9, 2022 @ 5:00 pm - 7:00 pm Rep.
 Andrew Chesney Blaum Brothers Distilling Fundraiser – Galena Please join Rep.
 Andrew Chesney and support him as a candidate for Illinois State Senate at Blaum Brothers Distilling Co. in Galena for some great drinks and conversation.

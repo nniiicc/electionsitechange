@@ -1,59 +1,290 @@
 [
-"http://elections.hawaii.gov/",
-"http://labor.hawaii.gov/",
-"http://needhelppayingbills.com/",
-"http://olvr.hawaii.gov/",
-"http://recovery.hawaiicounty.gov/",
-"https://facebook.com/senjoydistrict2",
-"https://instagram.com/senjoysanbuenaventura",
-"https://joysanbuenaventura.com/",
-"https://joysanbuenaventura.com/2018/02",
-"https://joysanbuenaventura.com/2018/03",
-"https://joysanbuenaventura.com/2018/04",
-"https://joysanbuenaventura.com/2018/05",
-"https://joysanbuenaventura.com/2018/07",
-"https://joysanbuenaventura.com/2018/09",
-"https://joysanbuenaventura.com/2020/05",
-"https://joysanbuenaventura.com/2020/06",
-"https://joysanbuenaventura.com/2020/07",
-"https://joysanbuenaventura.com/2020/08",
-"https://joysanbuenaventura.com/2020/09",
-"https://joysanbuenaventura.com/2020/10",
-"https://joysanbuenaventura.com/2020/12",
-"https://joysanbuenaventura.com/about",
-"https://joysanbuenaventura.com/about-2",
-"https://joysanbuenaventura.com/author/ellen",
-"https://joysanbuenaventura.com/author/ellen/page/2",
-"https://joysanbuenaventura.com/author/ellen/page/3",
-"https://joysanbuenaventura.com/author/ellen/page/4",
-"https://joysanbuenaventura.com/category/agriculture",
-"https://joysanbuenaventura.com/category/campaign",
-"https://joysanbuenaventura.com/category/covid",
-"https://joysanbuenaventura.com/category/disaster",
-"https://joysanbuenaventura.com/category/eruption",
-"https://joysanbuenaventura.com/category/health",
-"https://joysanbuenaventura.com/category/hoa",
-"https://joysanbuenaventura.com/category/housing",
-"https://joysanbuenaventura.com/category/internet",
-"https://joysanbuenaventura.com/category/legislation",
-"https://joysanbuenaventura.com/category/transportation",
-"https://joysanbuenaventura.com/contact",
-"https://joysanbuenaventura.com/donate",
-"https://joysanbuenaventura.com/eruption-disaster-relief",
-"https://joysanbuenaventura.com/fil-am-courier",
-"https://joysanbuenaventura.com/food-drive",
-"https://joysanbuenaventura.com/get-involved",
-"https://joysanbuenaventura.com/homeless-and-the-pandemic",
-"https://joysanbuenaventura.com/issues",
-"https://joysanbuenaventura.com/jccih",
-"https://joysanbuenaventura.com/join-us",
-"https://joysanbuenaventura.com/mahalo-letter-to-all",
-"https://joysanbuenaventura.com/mahalo-to-all",
-"https://joysanbuenaventura.com/ohana-zone-housing-for-homeless",
-"https://joysanbuenaventura.com/puna-district",
-"https://joysanbuenaventura.com/status-of-released-inmates-from-occc",
-"https://joysanbuenaventura.com/veteran-day-address",
-"https://joysanbuenaventura.com/whos-with-joy",
-"https://secure.actblue.com/donate/joy4puna",
-"https://twitter.com/senjoydistrict2"
+{
+"text": "2",
+"href": "https://joysanbuenaventura.com/author/ellen/page/2/"
+},
+{
+"text": "3",
+"href": "https://joysanbuenaventura.com/author/ellen/page/3/"
+},
+{
+"text": "4",
+"href": "https://joysanbuenaventura.com/author/ellen/page/4/"
+},
+{
+"text": "April 2018",
+"href": "https://joysanbuenaventura.com/2018/04/"
+},
+{
+"text": "August 2020",
+"href": "https://joysanbuenaventura.com/2020/08/"
+},
+{
+"text": "Candidate Spotlight",
+"href": "https://joysanbuenaventura.com/jccih/"
+},
+{
+"text": "Continue ReadingCandidate Spotlight",
+"href": "https://joysanbuenaventura.com/jccih/"
+},
+{
+"text": "Continue ReadingEruption Disaster Relief",
+"href": "https://joysanbuenaventura.com/eruption-disaster-relief/"
+},
+{
+"text": "Continue ReadingFil-Am Courier",
+"href": "https://joysanbuenaventura.com/fil-am-courier/"
+},
+{
+"text": "Continue ReadingFood Drive",
+"href": "https://joysanbuenaventura.com/food-drive/"
+},
+{
+"text": "Continue ReadingHomeless and the pandemic",
+"href": "https://joysanbuenaventura.com/homeless-and-the-pandemic/"
+},
+{
+"text": "Continue ReadingMAHALO TO ALL",
+"href": "https://joysanbuenaventura.com/mahalo-to-all/"
+},
+{
+"text": "Continue ReadingMahalo",
+"href": "https://joysanbuenaventura.com/mahalo-letter-to-all/"
+},
+{
+"text": "Continue ReadingOhana zone housing for homeless",
+"href": "https://joysanbuenaventura.com/ohana-zone-housing-for-homeless/"
+},
+{
+"text": "Continue ReadingStatus of released inmates from OCCC",
+"href": "https://joysanbuenaventura.com/status-of-released-inmates-from-occc/"
+},
+{
+"text": "Continue ReadingVeteran Day Address",
+"href": "https://joysanbuenaventura.com/veteran-day-address/"
+},
+{
+"text": "Covid",
+"href": "https://joysanbuenaventura.com/category/covid/"
+},
+{
+"text": "December 2020",
+"href": "https://joysanbuenaventura.com/2020/12/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joy4puna"
+},
+{
+"text": "Eruption Disaster Relief",
+"href": "https://joysanbuenaventura.com/eruption-disaster-relief/"
+},
+{
+"text": "February 2018",
+"href": "https://joysanbuenaventura.com/2018/02/"
+},
+{
+"text": "Fil-Am Courier",
+"href": "https://joysanbuenaventura.com/fil-am-courier/"
+},
+{
+"text": "Food Drive",
+"href": "https://joysanbuenaventura.com/food-drive/"
+},
+{
+"text": "Go to the next page",
+"href": "https://joysanbuenaventura.com/author/ellen/page/2/"
+},
+{
+"text": "HOA",
+"href": "https://joysanbuenaventura.com/category/hoa/"
+},
+{
+"text": "Hawaii County assistance programs",
+"href": "http://www.needhelppayingbills.com"
+},
+{
+"text": "Home",
+"href": "https://joysanbuenaventura.com"
+},
+{
+"text": "Homeless and the pandemic",
+"href": "https://joysanbuenaventura.com/homeless-and-the-pandemic/"
+},
+{
+"text": "July 2018",
+"href": "https://joysanbuenaventura.com/2018/07/"
+},
+{
+"text": "July 2020",
+"href": "https://joysanbuenaventura.com/2020/07/"
+},
+{
+"text": "June 2020",
+"href": "https://joysanbuenaventura.com/2020/06/"
+},
+{
+"text": "Kīlauea eruption recovery",
+"href": "http://recovery.hawaiicounty.gov"
+},
+{
+"text": "MAHALO TO ALL",
+"href": "https://joysanbuenaventura.com/mahalo-to-all/"
+},
+{
+"text": "Mahalo",
+"href": "https://joysanbuenaventura.com/mahalo-letter-to-all/"
+},
+{
+"text": "March 2018",
+"href": "https://joysanbuenaventura.com/2018/03/"
+},
+{
+"text": "May 2018",
+"href": "https://joysanbuenaventura.com/2018/05/"
+},
+{
+"text": "May 2020",
+"href": "https://joysanbuenaventura.com/2020/05/"
+},
+{
+"text": "Menu Close",
+"href": "https://joysanbuenaventura.com/#mobile-menu-toggle"
+},
+{
+"text": "October 2020",
+"href": "https://joysanbuenaventura.com/2020/10/"
+},
+{
+"text": "Ohana zone housing for homeless",
+"href": "https://joysanbuenaventura.com/ohana-zone-housing-for-homeless/"
+},
+{
+"text": "Puna District",
+"href": "https://joysanbuenaventura.com/puna-district/"
+},
+{
+"text": "September 2018",
+"href": "https://joysanbuenaventura.com/2018/09/"
+},
+{
+"text": "September 2020",
+"href": "https://joysanbuenaventura.com/2020/09/"
+},
+{
+"text": "Status of released inmates from OCCC",
+"href": "https://joysanbuenaventura.com/status-of-released-inmates-from-occc/"
+},
+{
+"text": "Veteran Day Address",
+"href": "https://joysanbuenaventura.com/veteran-day-address/"
+},
+{
+"text": "[image: Joy San Buenaventura]",
+"href": "https://joysanbuenaventura.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/senjoydistrict2"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/senjoydistrict2"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senjoysanbuenaventura/"
+},
+{
+"text": "about",
+"href": "https://joysanbuenaventura.com/about-2/"
+},
+{
+"text": "agriculture",
+"href": "https://joysanbuenaventura.com/category/agriculture/"
+},
+{
+"text": "campaign",
+"href": "https://joysanbuenaventura.com/category/campaign/"
+},
+{
+"text": "contact",
+"href": "https://joysanbuenaventura.com/contact/"
+},
+{
+"text": "disaster",
+"href": "https://joysanbuenaventura.com/category/disaster/"
+},
+{
+"text": "donate",
+"href": "https://joysanbuenaventura.com/donate/"
+},
+{
+"text": "ellen",
+"href": "https://joysanbuenaventura.com/author/ellen/"
+},
+{
+"text": "eruption",
+"href": "https://joysanbuenaventura.com/category/eruption/"
+},
+{
+"text": "get involved",
+"href": "https://joysanbuenaventura.com/get-involved/"
+},
+{
+"text": "health",
+"href": "https://joysanbuenaventura.com/category/health/"
+},
+{
+"text": "home",
+"href": "https://joysanbuenaventura.com/"
+},
+{
+"text": "housing",
+"href": "https://joysanbuenaventura.com/category/housing/"
+},
+{
+"text": "internet",
+"href": "https://joysanbuenaventura.com/category/internet/"
+},
+{
+"text": "issues",
+"href": "https://joysanbuenaventura.com/issues/"
+},
+{
+"text": "join us",
+"href": "https://joysanbuenaventura.com/join-us/"
+},
+{
+"text": "joy4puna@outlook.com",
+"href": "mailto:joy4puna@outlook.com"
+},
+{
+"text": "legislation",
+"href": "https://joysanbuenaventura.com/category/legislation/"
+},
+{
+"text": "meet Joy",
+"href": "https://joysanbuenaventura.com/about/"
+},
+{
+"text": "redistricting Hawaii Senate",
+"href": "http://elections.hawaii.gov"
+},
+{
+"text": "register to vote",
+"href": "http://olvr.hawaii.gov"
+},
+{
+"text": "transportation",
+"href": "https://joysanbuenaventura.com/category/transportation/"
+},
+{
+"text": "unemployment insurance information",
+"href": "http://labor.hawaii.gov"
+},
+{
+"text": "who’s with Joy",
+"href": "https://joysanbuenaventura.com/whos-with-joy/"
+}
 ]

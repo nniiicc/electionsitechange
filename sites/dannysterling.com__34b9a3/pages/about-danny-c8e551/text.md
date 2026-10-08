@@ -27,7 +27,7 @@ I have listened to your concerns and diligently worked to bring about needed cha
 My commitment to honest, responsible representation at the State Capitol remains unwavering.
 I respectfully ask for your vote in the June 16th Republican Primary.
 Please feel free to call me at 405-620-1015 if you have questions or would like to visit about my campaign.
-Danny Contact Danny Name Email Address Message 1 + 9 = Submit Let’s Elect Danny!
+Danny Contact Danny Name Email Address Message 13 + 3 = Submit Let’s Elect Danny!
 Danny will work tirelessly to help revitalize the economy and prosperity of our rural communities.
 Contribute State Voter Tool Where do I vote?
 Can I get an absentee ballot?

@@ -13,4 +13,4 @@ We do not knowingly collect or maintain personal information from children.
 Changes to This Privacy Policy We may update this Privacy Policy from time to time.
 Any changes will be posted on this page with an updated effective date.
 Back to Home Ross Berry State Representative Fighting for New Hampshire's families in Goffstown and Weare.
-Quick Links Home About Privacy Policy Terms & Conditions Request Yard Signs Donate Contact 119 Buzzell Hill Rd Weare, NH 03281 Ross@BerryForNH.com (603) 803-3448 Facebook Paid for by Berry For New Hampshire · Ross Berry, Chair · 119 Buzzell Hill Rd, Weare, NH
+Quick Links Home About Issues Privacy Policy Terms & Conditions Request Yard Signs Donate Contact 119 Buzzell Hill Rd Weare, NH 03281 Ross@BerryForNH.com (603) 803-3448 Facebook Paid for by Berry For New Hampshire · Ross Berry, Chair · 119 Buzzell Hill Rd, Weare, NH

@@ -7,7 +7,7 @@ As a former union member herself, she knows firsthand the dedication and sacrifi
 “I am deeply grateful for AFSCME Council 4's support,” said Karen Martin .
 “This endorsement reflects our shared commitment to ensuring that the public employees who keep Connecticut running receive fair pay, secure retirement benefits, quality healthcare, and safe working conditions.” AFSCME Council 4 represents public service workers across Connecticut's municipalities, schools, state agencies, and healthcare facilities.
 Having dedicated her life to medical care, Karen uniquely understands that strong public services depend on treating workers with dignity and giving them the resources they need to do their jobs safely.
-Recent Posts See All Join us on Wednesdays...Notes for Votes!
+Recent Posts See All Karen Receives CT Against Gun Violence Endorsement!
+Join us on Wednesdays...Notes for Votes!
 Rescheduled Grand Opening - East Haven DTC Headquarters!
-Karen Receives Planned Parenthood Endorsement!
 Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page

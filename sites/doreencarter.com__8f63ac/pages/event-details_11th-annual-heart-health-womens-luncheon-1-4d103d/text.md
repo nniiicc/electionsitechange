@@ -1,0 +1,5 @@
+top of page DONATE ABOUT PLATFORM GET INVOLVED CONTACT Events PRESS Menu Close DONATE Make a Donation Today!
+Checks mailable to P.
+O.
+Box 2186, Lithonia, Ga 30058 DONATE $# $# $# $1000 Single Parent Day Breakfast Sat, Mar 21 | Piedmont Rockdale Hospital Join State Representative Doreen Carter for a Community Breakfast celebrating Single Parents Day on March 21, 9–11 AM at Piedmont Rockdale Hospital in Conyers.
+Registration is closed See other events Time & Location Mar 21, 2026, 9:00 AM – 11:00 AM Piedmont Rockdale Hospital, 1412 Milstead Ave, Conyers, GA 30012, USA About the event Show More Share this event Contact Doreen Friends for Doreen Carter PO Box 2186 Lithonia, GA 30058 doreen@doreencarter.com 678-964-IWIN(4946) ABOUT PLATFORM EVENTS CONTACT Menu Close Privacy Policy © Powered by CCS: Marketing & Technology | Re-elect Doreen Carter | State Representative House District 93 ABOUT PLATFORM EVENTS CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

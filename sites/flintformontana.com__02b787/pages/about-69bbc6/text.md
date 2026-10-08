@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate About Aaron Veteran, Father, Husband, and fifth-generation Montanan.
+Home About Issues News Get Involved Contact Store Media Donate About Aaron Veteran, Father, Husband, and fifth-generation Montanan.
 Learn more about Aaron and his journey to Congress.
 Aaron Flint is a decorated combat veteran, a father and husband, and a fifth-generation Montanan who has been fighting for our Western way of life every day on the radio.
 Now he’s raising his hand to serve Montana again by running for Congress.

@@ -1,5 +1,8 @@
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters More...
-Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements Media No Fossil Fuel Pledge Decline-To-State Voters Donate Via ActBlue Katherine Gauer ﻿for NM Representative House District 8 I have been an advocate my whole life, professionally and personally.
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer More...
+Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue Donate Via ActBlue Home About Priorities Endorsements No Fossil Fuel Pledge Apply Now!
+Donate and Volunteer Donate Via ActBlue Katherine Gauer ﻿for NM Representative House District 8 I have been an advocate my whole life, professionally and personally.
 It's been my honor to serve individuals from birth through senior care in my various professional and education avenues.
 I am excited to bring my history of advocacy to the Roundhouse in 2027!
 My Vision, Your Priorities, Our Future: Residents across the county are sharing their concerns and experiences with me.

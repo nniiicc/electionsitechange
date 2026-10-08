@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Contact Open Menu Close Menu Open Menu Close Menu Home About Issues Contact Home About Issues Contact ISSUES Taxes, Spending & Free Enterprise Lower Minnesota’s tax burden by restraining government spending and allowing families and businesses to keep more of what they earn.
+0 Skip to Content Home About Issues Speech Contact Open Menu Close Menu Open Menu Close Menu Home About Issues Speech Contact Home About Issues Speech Contact ISSUES Taxes, Spending & Free Enterprise Lower Minnesota’s tax burden by restraining government spending and allowing families and businesses to keep more of what they earn.
 Remove unnecessary barriers to free enterprise, investment, and economic growth.
 Prosperity comes from Minnesotans working, creating, investing, and building—not from an ever-expanding state government.
 Restore government to its proper role.

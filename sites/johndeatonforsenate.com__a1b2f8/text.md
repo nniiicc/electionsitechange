@@ -19,14 +19,65 @@ Thank you!
 Andrew Love John Deaton for U.S.
 Senate Campaign Political Director andrew@johndeatonforsenate.com Oops, there was an error sending your message.
 Please try again later.
-LATEST NEWS Deaton Statement on Ed Markey Vote Against Ratepayer Protection Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
+LATEST NEWS Deaton: AI That Passes for Human on a Video Call Demands a National Standard Now By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Senate nominee calls for mandatory AI disclosure, protections for seniors and children, and real accountability for companies that deceive BOSTON, MA. -- John Deaton, nominee for U.S.
+Senate in Massachusetts, today called on Congress to pass a national AI standard with enforceable consumer protections.
+The call follows this week's announcement of an AI video model that its maker says nearly half of test subjects mistook for a real person.
+AI company Tavus unveiled the model, called Griffin, on October 1.
+The company reports that 48% of participants in its study believed they were talking to a real human after a live one-minute video call.
+It says earlier systems fooled fewer than 3%.
+Tavus itself acknowledges the model can deceive people into believing it is not AI.
+"When a machine can look you in the eye on a video call and half the people talking to it think it's human, the scam writes itself," Deaton said.
+"A grandmother gets a call from a face and a voice she trusts.
+Minutes later her life savings are gone.
+That is where this goes if Washington does nothing." "I've spent my career taking on corporations that knew their products would hurt people and sold them anyway," Deaton continued.
+"I'm not waiting for the body count this time.
+Fraud rings will use this against seniors.
+Lonely and vulnerable people will be sold relationships with people who don’t exist.
+Isolated or lonely children battling depression or other mental health issues will be especially vulnerable.” Deaton's national standard would: Require disclosure.
+Any AI in a live video or voice conversation must identify itself as AI, up front and whenever asked.
+Ban impersonation.
+No AI may use a real person's face or voice without that person's consent.
+Protect children.
+No romantic or companion AI products for minors, backed by age verification.
+Protect seniors.
+Banks and payment apps must flag and verify large, unusual transfers before the money leaves.
+Hold companies accountable.
+Firms that deploy undisclosed human-passing AI answer for the harm, with FTC and state attorney general enforcement and a right for victims to sue.
+Set one clear rule.
+A single national standard, so protection doesn't depend on which state you live in.
+"I'm for innovation.
+I've fought regulators who tried to strangle it," Deaton said.
+"But there is a bright line between building tools that serve people and building machines designed to pass as people.
+If it's AI, it has to say so.
+That's not anti-technology.
+That's basic honesty, and it should be the law." ### John Deaton Statement on 3rd Anniversary of Oct.
+7 Attacks by Hamas By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, MA. -- U.S.
+Senate candidate John Deaton acknowledged the third anniversary of the Hamas attack on Israel on Wednesday, stating: "Time stands still for the families of victims whose lives were cut short by Hamas terrorists hellbent on inflicting their evil and oppressive ideology on the world.
+"Hostages who survived captivity emerged as heroes.
+Today's focus should be recognizing their suffering, honoring the thousands who were brutally murdered, and assisting their families in rebuilding their lives by every possible means." ### STATEMENT ON LAW OFFICE VANDALISM & ED MARKEY’S RECKLESS POLITICS AND COWARDICE By Vincent Errichetti • October 2, 2026 FOR IMMEDIATE RELEASE October 2, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, MA. -- Following a violent attack today at my East Providence law office; where a window was shattered while my employee was inside; I am holding Ed Markey directly accountable for the toxic, dangerous climate he has manufactured.
+For months, Ed Markey has peddled blatant lies, smearing me as a "Trumper," a "Trump sycophant," and a "MAGA Republican." Markey knows these are malicious fabrications meant to incite anger and hatred towards me.
+Ed Markey knows that I have never voted for Donald Trump.
+He is fully aware that I have never supported Donald Trump.
+Yet Markey continues to weaponize these lies because he cannot defend his own record and is afraid to face me on the issues most important to working families across the Commonwealth.
+His reckless rhetoric has caused the harassment of my children and now an act of violence against my law firm, directly endangering my staff.
+While Markey hides behind lies to stir up hate, he is simultaneously hiding from voters.
+Markey has canceled/rejected a debate set by Channel 5 and flatly refuses to participate in more than a single debate, turning his back on four other separate media debate requests, including in Western Massachusetts - an area Markey promised not to ignore.
+Markey hasn't even been reelected yet and he's already broke that promise.
+If he won't respect Western Massachusetts BEFORE the election - he certainly won't after.
+Ed Markey is running a campaign built entirely on deceit, division, and cowardice.
+He is too afraid to face me on a debate stage to discuss the real issues, preferring instead to sit in the shadows and sling dangerous smears that put innocent people and working families in harm's way.
+This is not leadership.
+It is dishonorable political desperation.
+When Seth Moulton engaged in such conduct, suggesting Senator Markey was complicit in the Jeffrey Epstein files, I spoke out against it - calling Moulton's conduct shameful.
+Markey, himself, called Moulton's conduct despicable.
+Yet, Ed Markey has now proven himself to be no better.
+It is time for Senator Markey to stop spreading dangerous lies, stop dodging debates, and answer to the people he claims to represent.
+I am deeply grateful to the East Providence Police Department for their prompt response and urge anyone with information to contact local authorities.
+### Deaton Statement on Ed Markey Vote Against Ratepayer Protection Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE October 1, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
 Senate candidate John Deaton issued the following statement after U.S.
-Senator Ed Markey (D-MA) voted against passage of the Stop Insider Trading Act: "There are two reasons Ed Markey voted against this bill: It didn't ban President Trump from owning stocks, and it required voter ID.
-Both are poor excuses.
-Nothing prevents future bills from banning the president and family members from owning stocks, a measure I support too.
-And the voter ID rider is a common-sense requirement implemented by some of the most progressive countries in the world.
-Ed Markey's far-left base would crucify him for voting in favor of something so inside the mainstream of American opinion," said Deaton .
-### Deaton Statement on Ed Markey Vote Against Stop Insider Trading Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
+Senator Ed Markey (D-MA) voted against passage of the Ratepayer Protection Act: "Ed Markey once again declined to think for himself, following Chuck Schumer's advice to let perfect get in the way of good bipartisan legislation.
+While this bill didn't provide every protection I've called for, it would have laid the foundation for future reforms, including establishing a national model to mandate that data centers receive community input, including the ability to negotiate community benefit agreements, such as revenue sharing and bonuses, and that corporations must pay for utility upgrades and energy costs, without stiffing taxpayers," said Deaton .
+"We have data centers racing to build in Massachusetts, and the federal status quo is letting them jack up our energy bills while Ed Markey pays half the cost on his utilities where he lives in Maryland." ### Deaton Statement on Ed Markey Vote Against Stop Insider Trading Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
 Senate candidate John Deaton issued the following statement after U.S.
 Senator Ed Markey (D-MA) voted against passage of the Stop Insider Trading Act: "There are two reasons Ed Markey voted against this bill: It didn't ban President Trump from owning stocks, and it required voter ID.
 Both are poor excuses.
@@ -156,59 +207,8 @@ They don’t get the candidate in their backyard.
 They feel ignored because they are ignored.” “A Senate debate in Western Massachusetts is the minimum,” Deaton said.
 “It is not optional.
 Show up in Springfield and answer for it.” The Deaton campaign is appreciative of the 22News team for also offering a separate press room so any member of the press from across the Commonwealth can watch the debate and interview the candidates immediately following the event.
-### Deaton Accepts 22News Springfield Debate, Agreed to All Four TV Debate Offers By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE September 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com ﻿ IF HE COULD DO IT SEVEN TIMES IN A PANDEMIC, HE CAN DO IT NOW!
-BOSTON — John Deaton, the Republican nominee for U.S.
-Senate, today called on Sen.
-Ed Markey to stop hiding from Massachusetts voters and agree to a full slate of general-election debates.
-In 2020, during COVID, Markey debated Joe Kennedy seven times.
-There is no excuse now.
-“If Ed Markey could stand on a debate stage seven times in the middle of a pandemic, he can stand on one now,” Deaton said.
-“Massachusetts families are paying some of the highest electric bills in the country.
-Young people raised here can’t stay here.
-After 53 years, he should have to answer for that record in public; not from Maryland.
-On the night of the Massachusetts Primary, while appearing on NightSide with Dan Rea on WBZ News Radio1030, the host asked, "I assume that if Ed Markey would be willing to engage in a debate here on NightSide you would be more than happy to take up that challenge?" And Deaton replied, "Absolutely!
-I would welcome it!" He continued, "I know that four media outlets, now yours would be the fifth, have inquired about debates, and I have accepted all of them." Deaton, a Marine veteran and small-business owner who raised three daughters paycheck to paycheck, said the contrast is simple: lived experience versus a career in the same seat.
-“I grew up in one of America’s toughest neighborhoods.
-I never quit.
-I built a business and a family the hard way,” Deaton said.
-“Markey has had 53 years.
-Tenure without results is just tenure.
-Let’s debate energy.
-Let’s debate housing.
-Let’s debate the cost of staying in Massachusetts.
-If he’s proud of his record, he should defend it." Deaton has already shown up.
-Markey declined the June WBZ debate that Deaton attended.
-Deaton is prepared to debate Markey anywhere in the Commonwealth, as many times as voters deserve, before November.
-### Deaton Calls Out Markey to Debate By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE September 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com IF HE COULD DO IT SEVEN TIMES IN A PANDEMIC, HE CAN DO IT NOW!
-BOSTON — John Deaton, the Republican nominee for U.S.
-Senate, today called on Sen.
-Ed Markey to stop hiding from Massachusetts voters and agree to a full slate of general-election debates.
-In 2020, during COVID, Markey debated Joe Kennedy seven times.
-There is no excuse now.
-“If Ed Markey could stand on a debate stage seven times in the middle of a pandemic, he can stand on one now,” Deaton said.
-“Massachusetts families are paying some of the highest electric bills in the country.
-Young people raised here can’t stay here.
-After 53 years, he should have to answer for that record in public; not from Maryland.
-On the night of the Massachusetts Primary, while appearing on NightSide with Dan Rea on WBZ News Radio1030, the host asked, "I assume that if Ed Markey would be willing to engage in a debate here on NightSide you would be more than happy to take up that challenge?" And Deaton replied, "Absolutely!
-I would welcome it!" He continued, "I know that four media outlets, now yours would be the fifth, have inquired about debates, and I have accepted all of them." Deaton, a Marine veteran and small-business owner who raised three daughters paycheck to paycheck, said the contrast is simple: lived experience versus a career in the same seat.
-“I grew up in one of America’s toughest neighborhoods.
-I never quit.
-I built a business and a family the hard way,” Deaton said.
-“Markey has had 53 years.
-Tenure without results is just tenure.
-Let’s debate energy.
-Let’s debate housing.
-Let’s debate the cost of staying in Massachusetts.
-If he’s proud of his record, he should defend it." Deaton has already shown up.
-Markey declined the June WBZ debate that Deaton attended.
-Deaton is prepared to debate Markey anywhere in the Commonwealth, as many times as voters deserve, before November.
-### Western Mass Deserves Debates Before the Ballots Go Out By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE July 10, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Deaton on Dems Debate: "It wasn't a debate, there were no solutions to people's problems." Restates his Challange for Five Single Issue Debates Massachusetts - John Deaton, candidate for US Senate. took to social media to respond to the first Democrat Primary debate between Congressman Seth Moulton and Senator Ed Markey.
-"It wasn't a debate, there were no solutions to people's problems.
-There were a lot of slogans, but no solutions," said Deaton, who was amused by their focus on avoiding real answers.
-He continued, “I hope they accept my ‘Five Single-Issue Debates Challenge.’ This format would give voters a full hour on each topic, allowing us to discuss foreign policy, solving the energy crisis, our housing agenda, the best plan for healthcare reform, and more.” John Deaton is a Republican candidate for U.S.
-Senate in Massachusetts, running as a voice for balance, accountability, and practical solutions for working families.
 ### 1 (current) 2 3 ...
-5 let's shake up washington ﻿ Chip in Today to Retire Ed Markey $50 $100 $250 $500 $1,000 $2,500 OTHER CRYPTO WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
+6 let's shake up washington ﻿ Chip in Today to Retire Ed Markey $50 $100 $250 $500 $1,000 $2,500 OTHER CRYPTO WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
 Every donation counts.
 DONATE TODAY JOHN DEATON FOR SENATE INC.
 General inquiries: info@johndeatonforsenate.com Press inquiries: press@johndeatonforsenate.com Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security PAID FOR BY JOHN DEATON FOR SENATE INC.

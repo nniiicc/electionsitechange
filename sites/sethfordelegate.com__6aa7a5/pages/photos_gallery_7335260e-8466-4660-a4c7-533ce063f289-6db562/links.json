@@ -1,20 +1,74 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/18610/2300d35bb4484b269de5aa8746c22990.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/18610/301a10ee0adc40deb1d8eca01cfa3188.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/18610/3d7f57e1bcab4a3aa051b1ebc5ef657f.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/18610/527ebc217e0449c39c8d119bb066c465.jpg",
-"https://secure.anedot.com/sethhoward/2022",
-"https://sethfordelegate.com/",
-"https://sethfordelegate.com/about_seth",
-"https://sethfordelegate.com/contact",
-"https://sethfordelegate.com/endorsements",
-"https://sethfordelegate.com/events",
-"https://sethfordelegate.com/home",
-"https://sethfordelegate.com/issues",
-"https://sethfordelegate.com/my_priorities",
-"https://sethfordelegate.com/news",
-"https://sethfordelegate.com/photos",
-"https://sethfordelegate.com/volunteer",
-"https://sethfordelegate.com/vote"
+{
+"text": "About Seth",
+"href": "https://www.sethfordelegate.com/about_seth"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.sethfordelegate.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/sethhoward/2022"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sethfordelegate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sethfordelegate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.sethfordelegate.com/home"
+},
+{
+"text": "My Priorities",
+"href": "https://www.sethfordelegate.com/my_priorities"
+},
+{
+"text": "News",
+"href": "https://www.sethfordelegate.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.sethfordelegate.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.sethfordelegate.com/photos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sethfordelegate.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.sethfordelegate.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/2300d35bb4484b269de5aa8746c22990.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/301a10ee0adc40deb1d8eca01cfa3188.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/3d7f57e1bcab4a3aa051b1ebc5ef657f.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/18610/527ebc217e0449c39c8d119bb066c465.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.sethfordelegate.com/"
+}
 ]

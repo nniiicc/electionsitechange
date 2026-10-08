@@ -3,7 +3,7 @@ Town Hall – Iron Range What are the obstacles to having a good life right here
 How can we create more opportunity at home?
 Join Trina in Biwabik for the fifth Let’s Fix It!
 Town Hall.
-Donate Today BACK TO ALL EVENTS OCT 14 Wednesday Date October 14, 2026 Time 5:30 PM – 7:30 PM Location Biwabik Park Pavilion 100 5th Ave N, Biwabik, MN Get Directions Paid for by Trina for Congress Mailing Address: PO Box 1063 Duluth, MN 55810 Navigation Home Meet Trina Priorities News Events Get Involved Volunteer Donate Sign Up Campaign Headquarters 4877 Miller Trunk Highway Hermantown, MN 55811 Hours: Monday–Thursday: 11am–2pm; 4pm–7pm Friday: 11am–2pm Saturday: 12pm–2pm Sunday: Closed contact@trinaforcongress.com Facebook Instagram X-twitter Threads © # Trina Swanson for Congress.
+Donate Today BACK TO ALL EVENTS OCT 14 Wednesday In 7 days Date October 14, 2026 Time 5:30 PM – 7:30 PM Location Biwabik Park Pavilion 100 5th Ave N, Biwabik, MN Get Directions Paid for by Trina for Congress Mailing Address: PO Box 1063 Duluth, MN 55810 Navigation Home Meet Trina Priorities News Events Get Involved Volunteer Donate Sign Up Campaign Headquarters 4877 Miller Trunk Highway Hermantown, MN 55811 Hours: Monday–Thursday: 11am–2pm; 4pm–7pm Friday: 11am–2pm Saturday: 12pm–2pm Sunday: Closed contact@trinaforcongress.com Facebook Instagram X-twitter Threads © # Trina Swanson for Congress.
 All rights reserved.
 Privacy Policy Sign Up for Updates to Stay Connected First Name Last Name Email SIGN UP!
 Support Trina's Campaign Trina doesn't take corporate PAC money.

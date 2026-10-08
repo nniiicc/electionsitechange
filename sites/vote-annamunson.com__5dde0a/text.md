@@ -8,4 +8,4 @@ Anna is committed to listening to taxpayers, small businesses, and working famil
 She’s ready to serve and bring real-world perspective and common-sense solutions back to Salem.
 Are you ready to join the fight for a better Oregon?
 Contribute Volunteer Connect Gallery HD19 Map Oregon House District 19 is located entirely within Marion County and includes many businesses and homes in southeastern Salem, the Salem airport (McNary Field), Willamette University, and the Four Corners area.
-Click here to enter your address and find your district​ Empower the Salem Community Support Now Vote Anna Munson 4742 Liberty Road South #609 Salem, Oregon 97302 ~~~ VoteAnnaMunson@gmail.com Phone: 503-877-3662 PAC ID # 23340 Log In Vote Anna Munson for House District 19 Privacy Policy Terms & Conditions bottom of page
+Click here to enter your address and find your district​ Empower the Salem Community Support Now Vote Anna Munson 4742 Liberty Road South #609 Salem, Oregon 97302 ~~~ VoteAnnaMunson@gmail.com Phone: 503-877-3662 PAC ID # 23340 Log In Vote Anna Munson for House District 19 | Munson Leadership PAC Privacy Policy Terms & Conditions bottom of page

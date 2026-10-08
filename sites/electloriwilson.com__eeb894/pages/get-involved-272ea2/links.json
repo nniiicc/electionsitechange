@@ -1,13 +1,58 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScO33Ogq4NXFCPXnr1j0J0D2lLbG3cBeYhFJcI35s01Iqhq0Q/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSd42WLZyXAT-JNq_YZJyCq0eWXk88tBgIg4vZ91kntaLnSaFA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfTMswGRPYgbeB0XhI4l8NOBLMRolqEzsCLzIOHof6oYuYOeg/viewform",
-"https://electloriwilson.com/",
-"https://electloriwilson.com/_files/ugd/630343_2e10310d73c5492d846ce2ece0576296.pdf",
-"https://electloriwilson.com/about",
-"https://electloriwilson.com/bnb",
-"https://electloriwilson.com/contact",
-"https://electloriwilson.com/get-involved",
-"https://secure.anedot.com/lori-wilson-for-assembly-2024/donate",
-"https://secure.anedot.com/lori-wilson-for-assembly-2026/donate"
+{
+"text": "ABOUT LORI",
+"href": "https://www.electloriwilson.com/about"
+},
+{
+"text": "Bourbon & Beignets",
+"href": "https://www.electloriwilson.com/bnb"
+},
+{
+"text": "CONTACT",
+"href": "https://www.electloriwilson.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lori-wilson-for-assembly-2026/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/lori-wilson-for-assembly-2024/donate"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.anedot.com/lori-wilson-for-assembly-2026/donate"
+},
+{
+"text": "Download a Remit Form",
+"href": "https://www.electloriwilson.com/_files/ugd/630343_2e10310d73c5492d846ce2ece0576296.pdf"
+},
+{
+"text": "Endorse",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScO33Ogq4NXFCPXnr1j0J0D2lLbG3cBeYhFJcI35s01Iqhq0Q/viewform"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electloriwilson.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.electloriwilson.com"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfTMswGRPYgbeB0XhI4l8NOBLMRolqEzsCLzIOHof6oYuYOeg/viewform"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd42WLZyXAT-JNq_YZJyCq0eWXk88tBgIg4vZ91kntaLnSaFA/viewform"
+},
+{
+"text": "[no text]",
+"href": "https://www.electloriwilson.com"
+},
+{
+"text": "info@electloriwilson.com",
+"href": "mailto:info@mysite.com"
+}
 ]

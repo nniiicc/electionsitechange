@@ -4,7 +4,7 @@ Unlike previous No Kings actions, No Kings: Vote Early, is not purely a protest.
 Instead, on October 17th, it's a day of nonpartisan voter participation: we are bringing our community together to make a plan to vote early and ensuring every eligible voter understands their options for how to vote and has the opportunity to make their voice heard.
 Because no one person gets to decide our leaders before voters do.
 On October 17th, join us in local events across the country as we get out the early vote and say it loud: no thrones, no crowns, no kings.
-Previous Previous October 14 Meet the Candidates Night - LWV & NAACP Next Next October 24 Canvassing Drive in Donora Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
+Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
 PEOPLE FIRST.
 ALWAYS.
 Rebecca MacTaggart for PA Mailing Address: 60 South Lincoln Street Ignite Mailbox #12 Washington, PA 15301 Contact

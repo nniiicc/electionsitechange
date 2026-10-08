@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid No Money for roads and bridges The looming shortfall in the Federal Highway Trust Fund(HTF) poses a significant risk to long-term infrastructure project’s in Florida’s 16th District, as, current law mandates immediate spending cuts when reserves are exhausted.
 Vern Buchanan did earmark $12 million last April, for road projects within a radius of his beach house.
 No options for replenishing the Trust Fund.

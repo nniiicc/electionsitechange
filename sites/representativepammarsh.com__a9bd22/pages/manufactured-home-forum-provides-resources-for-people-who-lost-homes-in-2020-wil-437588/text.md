@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Manufactured home forum provides resources for people who lost homes in 2020 wildfires Jefferson Public Radio | By Jane Vaughan LISTEN HERE April Ehrlich / JPR News A manufactured home in Medford barely survived the Almeda Fire, but it took some damage.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Manufactured home forum provides resources for people who lost homes in 2020 wildfires Jefferson Public Radio | By Jane Vaughan LISTEN HERE April Ehrlich / JPR News A manufactured home in Medford barely survived the Almeda Fire, but it took some damage.
 A variety of programs are being offered by the state and nonprofits to help those who lived in manufactured homes purchase or rebuild energy-efficient units.
 A year and a half ago, the Almeda fire destroyed about 2,300 residences in the Rogue Valley, including about 1,500 manufactured homes.
 While many single-family homeowners had insurance, that’s been less common for manufactured home owners, according to Southern Oregon Rep.

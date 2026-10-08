@@ -16,7 +16,7 @@ I look forward to partnering with her to strengthen our infrastructure, schools,
 Mary Tweten #ago Honored to Receive the Endorsement of Congresswoman Sarah McBride I am honored to receive the endorsement of Congresswoman Sarah McBride.
 Thank you, Sarah, for your support and confidence in my campaign.
 I look forward to working together to make a positive difference for the people of District 4 and communities across Delaware.
-Mary Tweten #ago 1 2 3 4 5 Putting My Experience to Work LEADERSHIP, INTEGRITY, and RIGHTS ​ My name is Gregg Lindner, and I am a Democrat in Delaware District 4.
+Mary Tweten #ago 1 2 3 4 5 Upcoming Events 13 days to the event Oct 21, 2026, 7:00 PM EDT LWV Candidate Forum / Indian River Senior Center, 214 Irons Ave, Millsboro, DE 19966, USA Learn more Oct 21, 2026, 7:00 PM EDT Indian River Senior Center, 214 Irons Ave, Millsboro, DE 19966, USA The League of Women Voters of Sussex County, Delaware (LWVSCDE) is hosting a public forum for the candidates Gregg Lindner (D) and Dan Zitofsky (R) for Delaware House Representative District #4 Share Putting My Experience to Work LEADERSHIP, INTEGRITY, and RIGHTS ​ My name is Gregg Lindner, and I am a Democrat in Delaware District 4.
 With a background spanning leadership in the business community, elected office, and volunteer work, I believe I possess the necessary experience and skills to effectively represent our district in the legislature.
 Our community faces a diverse range of challenges that must be addressed to move forward together.
 Background and Values I t all starts with family and friends.

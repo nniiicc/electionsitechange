@@ -1,4 +1,4 @@
-Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Skip to content Thursday, October 08, 2026 Lauren Nelson for Senate P.O.
 Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … News Thank you Gov Rhoden Info March 6, 2025 Today, with Governor Larry Rhoden’s historic signing of HB 1052 into law today, our South Dakota values and principles were upheld.
 Our South Dakota Republican Party supports private property rights as guaranteed by the fifth amendment to the United States Constitution.
 Today is a great day for our citizens.

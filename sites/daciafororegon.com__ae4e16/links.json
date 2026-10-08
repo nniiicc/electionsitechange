@@ -1,24 +1,158 @@
 [
-"https://bsky.app/profile/djgrayber.bsky.social",
-"https://cesystems.tech/campaign/daciafororegon",
-"https://cesystems.tech/campaign/daciafororegon?amt=100",
-"https://cesystems.tech/campaign/daciafororegon?amt=1000",
-"https://cesystems.tech/campaign/daciafororegon?amt=25",
-"https://cesystems.tech/campaign/daciafororegon?amt=50",
-"https://cesystems.tech/campaign/daciafororegon?amt=500",
-"https://daciafororegon.com/",
-"https://daciafororegon.com/contact",
-"https://daciafororegon.com/endorsements",
-"https://daciafororegon.com/media",
-"https://daciafororegon.com/meet-dacia-grayber",
-"https://daciafororegon.com/our-fights",
-"https://daciafororegon.com/our-work",
-"https://daciafororegon.com/volunteer",
-"https://daciafororegon.us4.list-manage.com/subscribe?u=e1c3a98cd42203efcf25aa3d2&id=398df23540",
-"https://facebook.com/DaciaforOregon",
-"https://instagram.com/daciafororegon",
-"https://pin-up-aze.com/",
-"https://pin-up-giris-az.com/",
-"https://pinup-play.in/",
-"https://x.com/RepDaciaGrayber"
+{
+"text": "$#",
+"href": "https://www.cesystems.tech/campaign/daciafororegon?amt=100"
+},
+{
+"text": "$#",
+"href": "https://www.cesystems.tech/campaign/daciafororegon?amt=25"
+},
+{
+"text": "$#",
+"href": "https://www.cesystems.tech/campaign/daciafororegon?amt=50"
+},
+{
+"text": "$#",
+"href": "https://www.cesystems.tech/campaign/daciafororegon?amt=500"
+},
+{
+"text": "$1000",
+"href": "https://www.cesystems.tech/campaign/daciafororegon?amt=1000"
+},
+{
+"text": "Contact",
+"href": "https://www.daciafororegon.com/contact/"
+},
+{
+"text": "Dacia for Oregon",
+"href": "https://www.daciafororegon.com"
+},
+{
+"text": "Donate",
+"href": "https://www.cesystems.tech/campaign/daciafororegon"
+},
+{
+"text": "Endorsements",
+"href": "https://www.daciafororegon.com/endorsements/"
+},
+{
+"text": "Learn More",
+"href": "https://www.daciafororegon.com/meet-dacia-grayber/"
+},
+{
+"text": "Learn more",
+"href": "https://www.daciafororegon.com/our-fights/#redefining-environmental"
+},
+{
+"text": "Learn more",
+"href": "https://www.daciafororegon.com/our-fights/#redefining-fight"
+},
+{
+"text": "Learn more",
+"href": "https://www.daciafororegon.com/our-fights/#redefining-future"
+},
+{
+"text": "Learn more",
+"href": "https://www.daciafororegon.com/our-work/#elevate-families"
+},
+{
+"text": "Learn more",
+"href": "https://www.daciafororegon.com/our-work/#redefine-accountability"
+},
+{
+"text": "Learn more",
+"href": "https://www.daciafororegon.com/our-work/#redefine-education"
+},
+{
+"text": "Learn more",
+"href": "https://www.daciafororegon.com/our-work/#redefine-healing"
+},
+{
+"text": "Learn more",
+"href": "https://www.daciafororegon.com/our-work/#redefine-resilience"
+},
+{
+"text": "Media",
+"href": "https://www.daciafororegon.com/media/"
+},
+{
+"text": "Meet Dacia",
+"href": "https://www.daciafororegon.com/meet-dacia-grayber"
+},
+{
+"text": "Meet Dacia",
+"href": "https://www.daciafororegon.com/meet-dacia-grayber/"
+},
+{
+"text": "OTHER",
+"href": "https://www.cesystems.tech/campaign/daciafororegon"
+},
+{
+"text": "Our Work",
+"href": "https://www.daciafororegon.com/our-work/"
+},
+{
+"text": "Redefine our economic future [image][image] Oregon can have a bright future if we center the prosperity of workers and ensure that corporations pay their fair share.",
+"href": "https://www.daciafororegon.com/our-work/"
+},
+{
+"text": "Redefine our environmental impact [image][image] Climate change threatens all of us, and Oregon can lead the fight to a clean energy future.",
+"href": "https://www.daciafororegon.com/our-work/"
+},
+{
+"text": "Redefine our future with stronger schools [image][image] Education funding and accountability must meet the needs of students, teachers, and parents.",
+"href": "https://www.daciafororegon.com/our-work/"
+},
+{
+"text": "STAND WITH DACIA",
+"href": "https://daciafororegon.us4.list-manage.com/subscribe?u=e1c3a98cd42203efcf25aa3d2&id=398df23540"
+},
+{
+"text": "STAND WITH DACIA",
+"href": "https://www.cesystems.tech/campaign/daciafororegon"
+},
+{
+"text": "Volunteer",
+"href": "https://www.daciafororegon.com/volunteer/"
+},
+{
+"text": "[image: Dacia Grayber For House District 35]",
+"href": "https://www.daciafororegon.com"
+},
+{
+"text": "[image: Dacia Grayber logo]",
+"href": "https://www.daciafororegon.com"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.daciafororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/djgrayber.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DaciaforOregon/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/daciafororegon/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RepDaciaGrayber"
+},
+{
+"text": "pin up",
+"href": "https://pinup-play.in/"
+},
+{
+"text": "pin up az",
+"href": "https://pin-up-aze.com/"
+},
+{
+"text": "pinup",
+"href": "https://pin-up-giris-az.com/"
+}
 ]

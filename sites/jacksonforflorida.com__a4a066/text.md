@@ -31,14 +31,12 @@ Their family continues to grow as they welcomed a wonderful son-in-law last year
 Bonnie attends St.
 Margaret Mary Catholic Church and has served as a Sunday preschool teacher and in various ministries.
 She is fluent in Spanish and remains committed to giving back to her community.
-Florida House District 42 Belle Isle Belle Isle Belle Isle Eatonville Belle Isle Belle Isle Edgewood Belle Isle Edgewood Maitland Winter Park Edgewood Orlando Winter Park Winter Park Winter Park Winter Park Winter Park Download PDF Back to Basics Agenda Affordability Limiting Artifical Intelligence Safe Communities Property tax relief for Floridians with homestead property Expanding affordable housing for families Promoting economic growth for good paying jobs and a stable economy Safe Communities Limiting Artifical Intelligence Safe Communities Protecting children from artifical intelligence ("AI") exploitation Investing in infrastructure and innovation, especially for transportation, sewer, and water quality Supporting law enforcement, firefighters, and correctional officers Limiting Artifical Intelligence Limiting Artifical Intelligence Limiting Artifical Intelligence No use of individual name, image or likeness without consent Mandating disclosure when interacting with AI No AI "licensed" therapy or mental health counseling Limiting insurance from using AI as the sole determination to adjust or deny claims Reforms Sensible Environmental Policies Limiting Artifical Intelligence Transparent pricing in healthcare Degree programs must disclose hiring and pay projections Increase reward to whistleblowers who report insurance fraud Sensible Environmental Policies Sensible Environmental Policies Sensible Environmental Policies Preserving Florida's natural beauty and protecting our lakes Supporting ecotourism Increasing parks and athletic fields Endorsements & Supporting Jason Brodeur Susan Plasencia Jason Brodeur Florida State Senate District 10 Doug Bankson Susan Plasencia Jason Brodeur Florida State Representative District 39 Susan Plasencia Susan Plasencia Susan Plasencia Florida State Representative District 37 Rachel Plakon Susan Plasencia Susan Plasencia Florida State Representative District 36 Erika Booth Mark Bender, Esq.
-Erika Booth Florida State Representative District 35 Paula Stark Mark Bender, Esq.
-Erika Booth Florida State Representative District 47 Jorge Martinez Mark Bender, Esq.
-Mark Bender, Esq.
-Certified Public Accountant and Republican candidate for Florida's 9th Congressional District Mark Bender, Esq.
-Mark Bender, Esq.
-Mark Bender, Esq.
-Former Prosecutor & Past President of the Central Florida Association of Criminal Defense Attorneys practicing for 40 years Florida Fraternal Order of Police Florida Family Action Orange County Stand for Health Freedom Stand for Health Freedom Stand for Health Freedom Col.
+Florida House District 42 Belle Isle Belle Isle Belle Isle Eatonville Belle Isle Belle Isle Edgewood Belle Isle Edgewood Maitland Winter Park Edgewood Orlando Winter Park Winter Park Winter Park Winter Park Winter Park Download PDF Back to Basics Agenda Affordability Limiting Artifical Intelligence Safe Communities Property tax relief for Floridians with homestead property Expanding affordable housing for families Promoting economic growth for good paying jobs and a stable economy Safe Communities Limiting Artifical Intelligence Safe Communities Protecting children from artifical intelligence ("AI") exploitation Investing in infrastructure and innovation, especially for transportation, sewer, and water quality Supporting law enforcement, firefighters, and correctional officers Limiting Artifical Intelligence Limiting Artifical Intelligence Limiting Artifical Intelligence No use of individual name, image or likeness without consent Mandating disclosure when interacting with AI No AI "licensed" therapy or mental health counseling Limiting insurance from using AI as the sole determination to adjust or deny claims Reforms Sensible Environmental Policies Limiting Artifical Intelligence Transparent pricing in healthcare Degree programs must disclose hiring and pay projections Increase reward to whistleblowers who report insurance fraud Sensible Environmental Policies Sensible Environmental Policies Sensible Environmental Policies Preserving Florida's natural beauty and protecting our lakes Supporting ecotourism Increasing parks and athletic fields Improving water quality Endorsements & Supporting Jason Brodeur Susan Plasencia Jason Brodeur Florida State Senate District 10 Doug Bankson Susan Plasencia Jason Brodeur Florida State Representative District 39 Susan Plasencia Susan Plasencia Susan Plasencia Florida State Representative District 37 Rachel Plakon Susan Plasencia Susan Plasencia Florida State Representative District 36 Erika Booth Florida Fraternal Order of Police Erika Booth Florida State Representative District 35 Paula Stark Florida Fraternal Order of Police Erika Booth Florida State Representative District 47 Orange County Florida Fraternal Order of Police Florida Fraternal Order of Police Florida Fraternal Order of Police Florida Fraternal Order of Police Florida Fraternal Order of Police Conservative Ministers Orange County, Florida Florida Family Action Stand for Health Freedom Stand for Health Freedom Mark Bender, Esq.
+Col.
+Guy D.
+Colado Col.
+Guy D.
+Colado Former Prosecutor & Past President of the Central Florida Association of Criminal Defense Attorneys practicing for 40 years Col.
 Guy D.
 Colado Col.
 Guy D.
@@ -46,15 +44,13 @@ Colado Col.
 Guy D.
 Colado Board member of multiple Central Florida organizations, Community Leader, Business Owner, & Vietnam Army Combat Veteran Hattie Bryant Col.
 Guy D.
-Colado Col.
-Guy D.
-Colado Author, Television Producer and Anchor G.
+Colado G.
+Trevor Vietor Author, Television Producer and Anchor G.
 Trevor Vietor Col.
 Guy D.
 Colado G.
-Trevor Vietor Finance Marilyn Singer Patti Strandberg G.
-Trevor Vietor Real Estate Broker Patti Strandberg Patti Strandberg Patti Strandberg Retired, Former Sr.
-Manager for Lockheed Martin Campaign Contributions Contributions are the fuel needed for a successful political campaign.
+Trevor Vietor Finance Marilyn Singer Patti Strandberg Patti Strandberg Real Estate Broker Patti Strandberg Patti Strandberg Patti Strandberg Retired, Former Sr.
+Manager for Lockheed Martin Jorge Martinez Patti Strandberg Jorge Martinez Certified Public Accountant and Republican candidate for Florida's 9th Congressional District Campaign Contributions Contributions are the fuel needed for a successful political campaign.
 Your financial support will help us purchase signs, send out mailers, and provide asssistance in turning out voters for a better Florida House District 42.
 Donate Contact Bonnie CONNECT.
 SUPPORT.

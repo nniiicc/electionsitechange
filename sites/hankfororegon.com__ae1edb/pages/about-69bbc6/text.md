@@ -1,4 +1,4 @@
-0 Skip to Content About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Back Donate About Hank Growing up: Rural Oregon Growing up in rural Oregon meant running through Gaston’s thick forests, swimming in Hagg Lake, and hiking through wine country.
+0 Skip to Content About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Back Donate About Hank Growing up: Rural Oregon Growing up in rural Oregon meant running through Gaston’s thick forests, swimming in Hagg Lake, and hiking through wine country.
 It also meant fighting off corporations that wanted to put liquified natural gas pipelines through our ground.
 Fighting off this LNG pipeline taught me a few things: There are people and corporations that stand to gain by destroying rural Oregon.
 When we fight back, WE WIN!

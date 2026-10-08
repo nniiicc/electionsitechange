@@ -1,5 +1,3 @@
-People are more likely to catch COVID East of 82nd Avenue.
-Portland's housing most overcrowded area
-Feb 4, 2022
-Updated: Feb 11, 2022
-Read this story on the disproportionate impact of COVID-19 on people living east of 82nd in multigenerational households like Representative Valderrama's
+top of page Home Meet Drea Volunteer In the News About HD 47 Endorsements Donate More Use tab to navigate through the menu items.
+All Posts Search People are more likely to catch COVID East of 82nd Avenue.
+Portland's housing most overcrowded area Feb 4, 2022 1 min read Updated: Feb 11, 2022 Read this story on the disproportionate impact of COVID-19 on people living east of 82nd in multigenerational households like Representative Valderrama's Recent Posts See All Opinion: Oregon's education system needs this youth-led racial justice collaborative Oregon lawmakers press for immigration, refugee reform Oregon lawmakers revive proposal for stimulus payments to essential workers DREA FOR OREGON@GMAIL.COM #DREA FOR OREGON © # Friends of Andrea Valderrama Donate Today bottom of page

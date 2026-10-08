@@ -50,4 +50,4 @@ Bills Passed by the House this Week H.B.
 67 First Responder Mental Health Services Grant Program Amendments H.B.
 88 Landowner Liability Amendments S.J.R.
 1 Joint Resolution Reappointing John Q.
-Cannon as Director of the Office of Legislative Research and General Counsel Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 2 + 14 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Cannon as Director of the Office of Legislative Research and General Counsel Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 8 + 8 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

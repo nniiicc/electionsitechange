@@ -1,18 +1,66 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fhagan-completes-republican-leadership-georgia%2F&t=Rep.+Leesa+Hagan+Completes+Republican+Leadership+for+Georgia",
-"http://leesahagan.com/about-Leesa",
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fhagan-completes-republican-leadership-georgia%2F&title=Rep.+Leesa+Hagan+Completes+Republican+Leadership+for+Georgia",
-"http://printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fhagan-completes-republican-leadership-georgia%2F&title=Rep.+Leesa+Hagan+Completes+Republican+Leadership+for+Georgia",
-"http://twitter.com/share?text=Rep.+Leesa+Hagan+Completes+Republican+Leadership+for+Georgia&url=https%3A%2F%2Fleesahagan.com%2Fhagan-completes-republican-leadership-georgia%2F&via=LeesaHagan",
-"https://cardinalisdesign.com/political-website-design",
-"https://facebook.com/LeesaHaganforGeorgia",
-"https://leesahagan.com/",
-"https://leesahagan.com/about-leesa",
-"https://leesahagan.com/constituent-services",
-"https://leesahagan.com/elections",
-"https://leesahagan.com/help-out",
-"https://leesahagan.com/news",
-"https://legis.ga.gov/house",
-"https://linkedin.com/in/leesahagan",
-"https://twitter.com/LeesaHagan"
+{
+"text": "About Leesa",
+"href": "https://leesahagan.com/about-leesa/"
+},
+{
+"text": "Cardinalis",
+"href": "https://cardinalisdesign.com/political-website-design/"
+},
+{
+"text": "Constituent Services",
+"href": "https://leesahagan.com/constituent-services/"
+},
+{
+"text": "Elections",
+"href": "https://leesahagan.com/elections/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LeesaHaganforGeorgia"
+},
+{
+"text": "Follow",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/LeesaHagan"
+},
+{
+"text": "Help Out",
+"href": "https://leesahagan.com/help-out/"
+},
+{
+"text": "House of Representatives",
+"href": "https://www.legis.ga.gov/house"
+},
+{
+"text": "LeesaHagan.com",
+"href": "http://leesahagan.com/about-Leesa"
+},
+{
+"text": "News",
+"href": "https://leesahagan.com/news/"
+},
+{
+"text": "[image]",
+"href": "https://leesahagan.com"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?text=Rep.+Leesa+Hagan+Completes+Republican+Leadership+for+Georgia&url=https%3A%2F%2Fleesahagan.com%2Fhagan-completes-republican-leadership-georgia%2F&via=LeesaHagan"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fhagan-completes-republican-leadership-georgia%2F&t=Rep.+Leesa+Hagan+Completes+Republican+Leadership+for+Georgia"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fhagan-completes-republican-leadership-georgia%2F&title=Rep.+Leesa+Hagan+Completes+Republican+Leadership+for+Georgia"
+},
+{
+"text": "[no text]",
+"href": "http://www.printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fhagan-completes-republican-leadership-georgia%2F&title=Rep.+Leesa+Hagan+Completes+Republican+Leadership+for+Georgia"
+}
 ]

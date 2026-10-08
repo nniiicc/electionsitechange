@@ -1,5 +1,4 @@
-Bipartisan Bennett the best choice to be Maine’s next governor | Letter
-If Mainers are tired of partisan politics, vote for Sen.
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Bipartisan Bennett the best choice to be Maine’s next governor | Letter Sep 2 Written By Victoria Furman If Mainers are tired of partisan politics, vote for Sen.
 Rick Bennett for governor because he will reach across the aisle to collaborate and find common ground instead of continuing the polarization that exists today.
 The following are just a few of the issues Bennett has been involved with: he sponsored high-speed broadband for all of Maine; co-sponsored laws that target forever chemicals; created a bill to ban foreign meddling in Maine elections; ended predatory lending practices by payday lenders; and voted to expand the existing Universal Childhood Immunization Program.
 His proposal to make housing and affordability a reality is doable and practical.
@@ -10,5 +9,8 @@ Bennett introduced a bill that would have mandated that pest control companies n
 Rick Bennett cares about the future of Maine and its inhabitants.
 He is intelligent, kind and has the experience of having served for 16 years in the Maine Legislature.
 No one, let alone a governor, can please everyone all of the time, but independent Rick Bennett is the candidate who can be counted on to listen to all sides of an issue and make decisions after considering best evidence and practices, not partisan politics.
-Lega Sammut-Medcalf
-Bridgton
+Lega Sammut-Medcalf Bridgton Victoria Furman Previous Previous Independent Rick Bennett pounds the pavement in his campaign for governor Next Next Rick Bennett, Independent for Governor, walks the campaign trail Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Listerhill Foundation provides new socks, shoes to every TES student Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News Listerhill Foundation provides new socks, shoes to every TES student Rep.
 Jamie Kiel was on hand for the event as well.
 “We appreciate Listerhill and their foundation for bringing this special event to Tharptown Elementary School,” said Kiel.
 “It means a lot to the community that they would do this for our kids.” Thorn agreed.

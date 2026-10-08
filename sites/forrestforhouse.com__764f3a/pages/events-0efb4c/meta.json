@@ -1,7 +1,12 @@
 {
  "description": "Cal Forrest Campaign Events",
  "final_url": "https://forrestforhouse.com/events",
- "paid_for_by": null,
+ "fingerprint": "133f3d1a3b90df8646332789e12268f27abad252",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

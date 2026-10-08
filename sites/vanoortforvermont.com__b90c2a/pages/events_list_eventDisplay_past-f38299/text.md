@@ -1,7 +1,7 @@
 Skip to content Jessica Van Oort for State Representative Home Get Involved About Events Updates Home Get Involved About Events Updates 8 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month #ago 6/13/2026 June 13 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month #ago 6/13/2026 June 13 - 10/8/2026 Now Select date.
 June 2026 Sat 13 Launch party June 13 @ 4:00 pm - 6:00 pm Pawlet Public Library 141 School St, Pawlet, VT, United States Come kick off Jessica's campaign with food and friends!
 Join us at the Pawlet Public Library to celebrate.
 August 2026 Tue 11 Primary election August 11 September 2026 Sat 12 Middletown Springs House Party September 12 @ 3:00 pm - 5:00 pm 70 Spruce Knob Road 70 Spruce Knob Road, Middletown Springs, VT After moving the books to the new library in Middletown Springs, come meet Jessica later in the afternoon and enjoy food, beverages, and hanging out with your neighbors.

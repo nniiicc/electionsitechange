@@ -1,5 +1,4 @@
-Georgia Legislative Update – Week 5
-This week, the Members of Georgia House of Representatives returned to the Capitol on Monday, February 10th for the fifth week of the 2025 legislative session.
+Skip to content Menu Home Resources Legislative Updates Contact Donate Close Menu February 18, 2025 Georgia Legislative Update – Week 5 This week, the Members of Georgia House of Representatives returned to the Capitol on Monday, February 10th for the fifth week of the 2025 legislative session.
 We have been hard at work, addressing the many issues that matter most to you and advancing important legislation through the legislative process.
 This week, and for the first time this year, we passed several bills on the House Floor making progress on a range of priorities.
 While this week was certainly our busiest yet, we recognize that the pace will only continue to speed up as we move closer to Crossover Day.
@@ -35,19 +34,11 @@ Consistent with one of Governor Kemp’s priorities, HB 105 raises the financial
 The payment would be made to the estate of the eligible person and given in installments of equal payments over the course of five years or in a lump sum.
 Only immediate family members would be eligible to receive these funds, and if there is no spouse or family, the indemnity would not be paid.
 While we know that no amount of money could ever bring a loved one back, by increasing the funds, immediate family members would be guaranteed better financial security following such a devastating loss.
-We also passed the following House bills and resolutions during the fifth week of session:
-• House Bill 15 revises Georgia’s banking law by modifying filing requirements to require counties of residence instead of addresses for incorporators, directors and subscribers of financial institutions, such as banks and credit unions, and would alter credit union subscriber requirements by establishing procedures for applying for a certificate of incorporation.
-The bill would also update provisions related to the credit union application review process, mortgage lending services and practices and criminal history checks;
-• House Bill 36, revises Georgia guardianship law by adding physician assistants, nurses, therapists and counselors to the types of approved professionals authorized to participate in appointments of guardians or conservators, as well as those who evaluate the state of a ward or proposed ward.
-Additionally, definitions for gross settlement would be provided with respect to applicable financial arrangements;
-• House Bill 55, increases the number of superior court judges in the Alapaha Judicial Circuit from two to three.
+We also passed the following House bills and resolutions during the fifth week of session: • House Bill 15 revises Georgia’s banking law by modifying filing requirements to require counties of residence instead of addresses for incorporators, directors and subscribers of financial institutions, such as banks and credit unions, and would alter credit union subscriber requirements by establishing procedures for applying for a certificate of incorporation.
+The bill would also update provisions related to the credit union application review process, mortgage lending services and practices and criminal history checks; • House Bill 36, revises Georgia guardianship law by adding physician assistants, nurses, therapists and counselors to the types of approved professionals authorized to participate in appointments of guardians or conservators, as well as those who evaluate the state of a ward or proposed ward.
+Additionally, definitions for gross settlement would be provided with respect to applicable financial arrangements; • House Bill 55, increases the number of superior court judges in the Alapaha Judicial Circuit from two to three.
 The third judge would be appointed for a term beginning January 1, 2026, continuing through December 31, 2028.
-Their successor would be elected at the nonpartisan judicial election in 2028;
-• House Bill 74, amends the general powers of the Georgia Lottery Corporation and make the promulgation of licenses, rules and regulations concerning coin operated amusement machines (COAMs) and administrative hearings concerning COAMs subject to the Administrative Procedure Act;
-• House Bill 114, addresses federal regulations for safe operations for drivers and vehicles transporting hazardous materials, changing the effective date from January 1, 2024, to January 1, 2025;
-• House Bill 137, increases the contract value amount from $100,000 or less to $250,000 or less for certain contracts that are exempt from specified contracting and bidding requirements;
-• House Resolution 97, which is a conveyance resolution for properties in 13 counties and would amend or transfer specific state-owned properties within those counties;
-• House Resolution 98, authorizes the State of Georgia, acting through the State Properties Commission, to grant easements over certain state-owned properties in 12 counties.
+Their successor would be elected at the nonpartisan judicial election in 2028; • House Bill 74, amends the general powers of the Georgia Lottery Corporation and make the promulgation of licenses, rules and regulations concerning coin operated amusement machines (COAMs) and administrative hearings concerning COAMs subject to the Administrative Procedure Act; • House Bill 114, addresses federal regulations for safe operations for drivers and vehicles transporting hazardous materials, changing the effective date from January 1, 2024, to January 1, 2025; • House Bill 137, increases the contract value amount from $100,000 or less to $250,000 or less for certain contracts that are exempt from specified contracting and bidding requirements; • House Resolution 97, which is a conveyance resolution for properties in 13 counties and would amend or transfer specific state-owned properties within those counties; • House Resolution 98, authorizes the State of Georgia, acting through the State Properties Commission, to grant easements over certain state-owned properties in 12 counties.
 In addition to passing legislation this week, we also had the privilege of honoring several outstanding groups whose dedication and hard work continue to leave a lasting impact on our great state.
 On Monday, we paid tribute the members of the Georgia Electric Membership Cooperatives with a Resolution on the House Floor.
 In the aftermath of Hurricane Helene’s devastation, these dedicated individuals worked tirelessly to restore power to hard-hit communities, showcasing both their steadfast commitment to their neighbors and the resilience of our state.
@@ -92,5 +83,9 @@ You can track the status of legislation and votes on the official Georgia Genera
 Your input is always valued, so please feel free to schedule a call or visit to discuss the issues that matter most to you and your family.
 Feel free to schedule a call or visit to discuss the issues that are most important to you and your family.
 Please know that I can be can be reached at my office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246.
-Please contact the District office in Thomasville for any constituent matters regarding state agency issues at 225-9943 Ext. 215 and gahouseseat173@gmail.com We look forward to hearing from you.
+Please contact the District office in Thomasville for any constituent matters regarding state agency issues at 225-9943 Ext.
+215 and gahouseseat173@gmail.com We look forward to hearing from you.
 As always, thank you for allowing me to serve as your representative.
+Georgia Legislative Update – Week 4 Georgia Legislative Update – Week 6 Related Posts Updates Georgia Legislative Update – Week 1 Ending January 17, 2026 Updates Georgia Legislative Update – Session Report Updates Georgia Legislative Update – Press Release Back To Top Darlene Taylor Post Office Box 6580 Thomasville, GA 31757 (229) 225-9943 Ext.
+215 ⓒ Rep.
+Darlene Taylor 2022 ☆ Paid by Darlene For Georgia Campaign

@@ -1,7 +1,7 @@
 Home About Endorsements News Yard Signs Photos Gracey's Opponent Home About Endorsements News Yard Signs Photos Gracey's Opponent Volunteer DONATE Help Gracey!
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Volunteer Checkboxes Phone Email * Phone Checkboxes Opt-in for text messages Volunteer Options * Walk a Precinct Make Phone Calls Place a Yard Sign Place a Larger 4X8 Sign Host a Meet and Greet Host a Donor Event Intern for the Campaign Join the Team!
+Volunteer Phone Name Name * First Last Email * Phone Checkboxes Opt-in for text messages Volunteer Options * Walk a Precinct Make Phone Calls Place a Yard Sign Place a Larger 4X8 Sign Host a Meet and Greet Host a Donor Event Intern for the Campaign Join the Team!
 By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Gracey Van Der Mark For Assembly 2026 at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.

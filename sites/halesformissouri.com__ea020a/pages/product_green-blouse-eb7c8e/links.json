@@ -64,10 +64,6 @@
 "href": "https://halesformissouri.com/privacy/"
 },
 {
-"text": "Product with Sizes $70.00",
-"href": "https://halesformissouri.com/product/product-with-sizes/"
-},
-{
 "text": "Sale! [image: Green Necklace]",
 "href": "https://halesformissouri.com/product/green-necklace/"
 },
@@ -77,11 +73,15 @@
 },
 {
 "text": "Select options",
-"href": "https://halesformissouri.com/product/product-with-sizes/"
+"href": "https://halesformissouri.com/product/support-the-party/"
 },
 {
 "text": "Shop",
 "href": "https://halesformissouri.com/shop/"
+},
+{
+"text": "Support the Party $5.00",
+"href": "https://halesformissouri.com/product/support-the-party/"
 },
 {
 "text": "Terms and Conditions",
@@ -108,7 +108,7 @@
 "href": "https://halesformissouri.com/product/navy-blue-shirt/"
 },
 {
-"text": "[image: Product with Sizes]",
-"href": "https://halesformissouri.com/product/product-with-sizes/"
+"text": "[image: Support the Party]",
+"href": "https://halesformissouri.com/product/support-the-party/"
 }
 ]

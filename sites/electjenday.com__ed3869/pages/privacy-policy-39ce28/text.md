@@ -1,4 +1,4 @@
-Home MEET JENNIFER PLATFORM ENDORSEMENTS Get Involved DONATE Home MEET JENNIFER PLATFORM ENDORSEMENTS DONATE Get Involved PRIVACY POLICY Jen Day for Kansas | Privacy Policy Effective Date: 10/27/2025 Jen Day for Kansas ("we," "us," or "our") is committed to protecting the privacy of visitors and users ("you" or "your") of our political website.
+Home MEET JENNIFER PLATFORM ENDORSEMENTS Get Involved Press Releases DONATE Home MEET JENNIFER PLATFORM ENDORSEMENTS DONATE Get Involved PRIVACY POLICY Jen Day for Kansas | Privacy Policy Effective Date: 10/27/2025 Jen Day for Kansas ("we," "us," or "our") is committed to protecting the privacy of visitors and users ("you" or "your") of our political website.
 This Privacy Policy outlines our practices regarding the collection, use, and disclosure of personal information through our website.
 By accessing and using our website, you consent to the terms of this Privacy Policy.
 1.
@@ -38,4 +38,4 @@ If we become aware that we have collected personal information from a child unde
 Updates to this Privacy Policy: This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our information practices and applicable law.
 We suggest that you periodically review the Privacy Policy for amendments.
 8.
-Contact Us: If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please contact us at: info@electjenday.com (785) 329-1078 info@electjenday.com Jen Day for Kansas PO Box 104 | Mission, KS 66202 Press Kit PAID FOR BY JEN DAY FOR KANSAS STACEY KNOELL, TREASURER Home MEET JENNIFER PLATFORM ENDORSEMENTS Get Involved Terms of Service Privacy Policy
+Contact Us: If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please contact us at: info@electjenday.com (785) 329-1078 info@electjenday.com Jen Day for Kansas PO Box 104 | Mission, KS 66202 Press Kit PAID FOR BY JEN DAY FOR KANSAS STACEY KNOELL, TREASURER Home MEET JENNIFER PLATFORM ENDORSEMENTS Get Involved Press Releases Terms of Service Privacy Policy

@@ -1,7 +1,9 @@
 {
  "description": "Join us for a fundraiser event for State Senate Candidates in our area.",
  "final_url": "https://www.forstforok.com/events/fundraiser",
- "paid_for_by": null,
+ "fingerprint": "9419ddb53a5010894b73bb3c91b5698cdaaf0d4e",
+ "format": 3,
+ "paid_for_by": "authorized by Forst for OK Aaron@ForstForOK",
  "title": "Fundraiser | Aaron Forst For State Senate",
  "years_mentioned": [
   "2026"

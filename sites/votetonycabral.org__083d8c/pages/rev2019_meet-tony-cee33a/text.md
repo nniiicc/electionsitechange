@@ -1,4 +1,4 @@
-State Representative Antonio F.
+Skip to content Home Meet Tony Priorities Legislation Gateway cities caucus Joint committee on state administration and regulatory oversight Leadership New Bedford New Bedford Priorities Constituent Services News Volunteer contact Donate Donate Home Meet Tony Priorities Legislation Gateway cities caucus Joint committee on state administration and regulatory oversight Leadership New Bedford New Bedford Priorities Constituent Services News Volunteer contact Donate Donate State Representative Antonio F.
 D.
 Cabral, House Chair of Joint Committee on State Administration and Regulatory Oversight, is one of the highest ranking Portuguese-American legislators in the country.
 Tony immigrated to the United States with his family when he was 14 years old.
@@ -22,20 +22,6 @@ Tony is thankful for the support of his family and the sacrifices they have made
 Tony is grateful to the many staffers, supporters, sign-holders, and canvassers who have been a part of TEAM CABRAL.
 He extends a sincere thank you.
 Tony has a saying, “No one, absolutely no one, works harder.” He hopes the people of New Bedford agree.
-Experience
-- New Bedford State Representative (1991 – present)
-- Chairman, Joint Committee on State Administration and Regulatory Oversight (2021 – Present)
-- Chairman, Joint Committee on Bonding, Capital Expenditures & State Assets (2009 – 2020)
-- Co-Chair, Gateway Cities Legislative Caucus (2008 – present)
-- Member, Federal Stimulus Oversight Committee (2008 – 2010)
-- Chairman, Joint Committee on State Administration & Regulatory Oversight (2005 – 2009)
-- Chairman, Joint Committee on Human Services & Elderly Services (2001 – 2004)
-- Chairman, Speaker’s Task Force on Human Services Reform (2003)
-- Chairman, Joint Committee on Election Laws (1999 – 2001)
-- Chairman, Joint Committee on Counties (1997 – 1999)
-- Vice-Chairman, Joint Committee on Insurance (1994 – 1997)
-- Public school teacher
-Education
-- Brown University, Graduate Studies
-- University of Massachusetts Dartmouth ’78
-- Bristol Community College ’76
+Experience New Bedford State Representative (1991 – present) Chairman, Joint Committee on State Administration and Regulatory Oversight (2021 – Present) Chairman, Joint Committee on Bonding, Capital Expenditures & State Assets (2009 – 2020) Co-Chair, Gateway Cities Legislative Caucus (2008 – present) Member, Federal Stimulus Oversight Committee (2008 – 2010) Chairman, Joint Committee on State Administration & Regulatory Oversight (2005 – 2009) Chairman, Joint Committee on Human Services & Elderly Services (2001 – 2004) Chairman, Speaker’s Task Force on Human Services Reform (2003) Chairman, Joint Committee on Election Laws (1999 – 2001) Chairman, Joint Committee on Counties (1997 – 1999) Vice-Chairman, Joint Committee on Insurance (1994 – 1997) Public school teacher Education Brown University, Graduate Studies University of Massachusetts Dartmouth ’78 Bristol Community College ’76 TOP Contact State House 24 Beacon St.
+Room 466 Boston, MA 02133 Email: antonio.cabral@mahouse.gov Phone: (6 1 7) 7 2 2 - 2 0 1 7 Falamos Portugês • Hablamos Español • No Ta Fala Criol De Cabo Verde Local Office Hours First Saturday of each month Howland Green Branch Library 3 Rodney French Blvd.
+New Bedford 10:30 am - 12:00 pm Campaign Contact 25 Moreland Terrace New Bedford, MA 02740 Phone: (5 0 8) 9 9 7 - 8 1 1 3 Email: reptonycabral@gmail.com Copyright © # Tony Cabral | Paid for by The Cabral Committee Privacy & Legal

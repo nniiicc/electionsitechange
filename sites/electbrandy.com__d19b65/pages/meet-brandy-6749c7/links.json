@@ -1,22 +1,86 @@
 [
-"https://electbrandy.com/",
-"https://electbrandy.com/committeevotes",
-"https://electbrandy.com/community-cabinet",
-"https://electbrandy.com/contact",
-"https://electbrandy.com/endorsements",
-"https://electbrandy.com/get-involved",
-"https://electbrandy.com/issues",
-"https://electbrandy.com/jobs",
-"https://electbrandy.com/meet-brandy",
-"https://electbrandy.com/news",
-"https://electbrandy.com/newsletters",
-"https://electbrandy.com/why-i-m-running",
-"https://electbrandy.com/wins",
-"https://facebook.com/teambrandy617",
-"https://instagram.com/teambrandy617",
-"https://malegislature.gov/Committees/Detail/H53/Committees",
-"https://malegislature.gov/Committees/Detail/J50/Committees",
-"https://secure.actblue.com/donate/teambrandy617",
-"https://twitter.com/teambrandy617",
-"https://youtube.com/channel/UCgjsjs7CSKnHg_SV_OcX86g"
+{
+"text": "Committee Votes",
+"href": "https://www.electbrandy.com/committeevotes"
+},
+{
+"text": "Community Cabinet",
+"href": "https://www.electbrandy.com/community-cabinet"
+},
+{
+"text": "Contact",
+"href": "https://www.electbrandy.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/teambrandy617"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electbrandy.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electbrandy.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.electbrandy.com"
+},
+{
+"text": "House Committee on Operations, Facilities and Security and the",
+"href": "https://malegislature.gov/Committees/Detail/H53/Committees"
+},
+{
+"text": "Issues",
+"href": "https://www.electbrandy.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://www.electbrandy.com/jobs"
+},
+{
+"text": "Joint Committee on Cannabis Policy",
+"href": "https://malegislature.gov/Committees/Detail/J50/Committees"
+},
+{
+"text": "Meet Brandy",
+"href": "https://www.electbrandy.com/meet-brandy"
+},
+{
+"text": "News & Events",
+"href": "https://www.electbrandy.com/news"
+},
+{
+"text": "Newsletters",
+"href": "https://www.electbrandy.com/newsletters"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.electbrandy.com/why-i-m-running"
+},
+{
+"text": "Wins",
+"href": "https://www.electbrandy.com/wins"
+},
+{
+"text": "[image: BFR Website Header Logo(1)_edited.png]",
+"href": "https://www.electbrandy.com/meet-brandy"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/teambrandy617"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/teambrandy617"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://www.twitter.com/teambrandy617"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCgjsjs7CSKnHg_SV_OcX86g"
+}
 ]

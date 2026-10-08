@@ -64,12 +64,20 @@
 "href": "https://electbarnhill.net/events/"
 },
 {
+"text": "Get to know me",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
 "text": "Home",
 "href": "https://electbarnhill.net/"
 },
 {
 "text": "Independent",
 "href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Join the campaign",
+"href": "https://electbarnhill.net/get-involved/"
 },
 {
 "text": "Nevada voter roll maintenance",
@@ -98,6 +106,10 @@
 {
 "text": "Previous Previous post: What Nevada Secretary of State Candidates Owe Voters",
 "href": "https://electbarnhill.net/commentary/what-nevada-secretary-of-state-candidates-owe-voters/"
+},
+{
+"text": "See all policy positions",
+"href": "https://electbarnhill.net/policy-positions/"
 },
 {
 "text": "VW Themes",
@@ -180,10 +192,6 @@
 "href": "https://electbarnhill.net/policy-positions/nevada-election-cybersecurity-plan/"
 },
 {
-"text": "join the campaign",
-"href": "https://electbarnhill.net/get-involved/"
-},
-{
 "text": "my approach",
 "href": "https://electbarnhill.net/about/about-brad/"
 },
@@ -194,9 +202,5 @@
 {
 "text": "srcoll arrow",
 "href": "javascript:"
-},
-{
-"text": "the 20/20 plan",
-"href": "https://electbarnhill.net/policy-positions/results-not-noise-20-20-plan-nevada-secretary-of-state/"
 }
 ]

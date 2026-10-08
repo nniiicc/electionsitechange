@@ -15,7 +15,7 @@ Tom is a board member for the Rural Restoration Project, a nonprofit that seeks 
 Our doors are wide open!
 Contact us if you’d like to volunteer , donate resources or help with our campaign in any way.
 We’re a grassroots team working for everyone in our community and we welcome you to join us in building a better future for rural Iowans.
-Name Email Address Message 12 + 1 = Send Get Involved Follow our Campaign and Share our content on Social BlueSky Instagram Facebook Threads TikTok Join our Mailing List Press Teachers and Labor Unions Endorse O’Donnell for HD 87 Jul 21, 2026 Two of Iowa’s largest labor organizations have endorsed Tom O’Donnell, a candidate for Iowa House of Representatives in District 87.
+Name Email Address Message 1 + 13 = Send Get Involved Follow our Campaign and Share our content on Social BlueSky Instagram Facebook Threads TikTok Join our Mailing List Press Teachers and Labor Unions Endorse O’Donnell for HD 87 Jul 21, 2026 Two of Iowa’s largest labor organizations have endorsed Tom O’Donnell, a candidate for Iowa House of Representatives in District 87.
 The Iowa State Education Association (ISEA), representing education professionals across the state, endorsed O’Donnell in June.
 In a...
 O’Donnell names House District 87 campaign chairs May 25, 2026 Kathleen Paulek KEOSAUQUA, IOWA – Tom O’Donnell has named three veteran educators as co-chairs for his Iowa House of Representatives campaign, touting his rural public education advocacy.

@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News NW-SCC holds grand re-opening of the nature trail and outdoor classroom April 27, 2021 Alabama State Representative, Jamie Kiel, opened the program by commending the College on the completion of the revitalized nature trail and outdoor classroom.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News NW-SCC holds grand re-opening of the nature trail and outdoor classroom April 27, 2021 Alabama State Representative, Jamie Kiel, opened the program by commending the College on the completion of the revitalized nature trail and outdoor classroom.
 He added that he wished it existed when he was a student at NW-SCC.
 NW-SCC received funds $10,000 from the Northwest Alabama RC&D Continue Reading HACKLEBURG REFLECTS ON DEADLY TORNADO FROM #ago On Tuesday, Hackleburg held a ceremony to remember those lost and reflect on their growing community.
 “It’s about, to me, one word.

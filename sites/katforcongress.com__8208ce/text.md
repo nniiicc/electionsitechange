@@ -5,6 +5,8 @@ Message and data rates may apply.
 Reply "STOP" to opt-out and "HELP" for help or email info@katforcongress.com.
 Terms and Conditions & Privacy Policy apply.
 SIGN ME UP Meet Kat Kat Cammack is serving her third term representing the Sunshine State in Congress as a proven conservative fighter with unapologetic grit.
+Kat is a proud wife to her husband, Matt, a first responder who serves with Gainesville Fire Rescue as a firefighter/paramedic and SWAT medic.
+Together they are raising their daughter, Augusta Dair “Auggie,” and are grateful to call the “Gator Nation” of North Central Florida home.
 WATCH THE VIDEO LEARN MORE Fighting For You In Congress, Kat has a record of holding the far-Left in Washington accountable.
 She’s adamant about securing the southern border, will always advocate for our small businesses, and has never wavered in her support for the Second Amendment.
 An ardent budget hawk, she believes taxes should be low and that we must keep government spending minimal and efficient.

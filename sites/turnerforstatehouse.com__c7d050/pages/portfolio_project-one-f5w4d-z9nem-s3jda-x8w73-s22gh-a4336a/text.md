@@ -127,5 +127,5 @@ As a veteran, I believe in a fair fight.
 As a Texan, I believe in paying your way.
 It’s time our tax policy reflected those values.
 Let’s grow our economy without mortgaging our security and saddling our taxpayers with the hidden bills.
-PORTFOLIO Next Next Gun Rights Ready to Build a Stronger HD-59?
+PORTFOLIO Ready to Build a Stronger HD-59?
 WEAR THE FIGHT CONTACT FUEL THE MISSION GET INVOLVED Paid for by Citizens for SGT Turner Andrew@sgtturnerforstatehouse.com

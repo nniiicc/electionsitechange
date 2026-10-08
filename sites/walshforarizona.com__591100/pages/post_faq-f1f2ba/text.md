@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
 All Articles Press Announcement Search Frequently Asked Questions about Stephanie Walsh for Arizona Senate Aug 2 3 min read Updated: Sep 10 How to Stay Updated on Campaign News I often receive questions about how to get updates from my campaign.
 If you want to stay informed about campaign news and volunteer opportunities, please send me a message through the website's Volunteer link or email me at contactus@WalshForArizona.com .
 I appreciate your interest and support!

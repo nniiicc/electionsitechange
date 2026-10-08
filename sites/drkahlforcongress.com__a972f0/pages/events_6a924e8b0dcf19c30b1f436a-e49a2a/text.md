@@ -17,4 +17,4 @@ Message frequency varies.
 Message & data rates may apply.
 Reply STOP to unsubscribe or HELP for help.
 Confirm RSVP By submitting, you agree to our Privacy Policy and Terms of Service .
-Spread the Word Share Event Don't Miss More Events 06 Oct Pacific City Chamber of Commerce Meeting Kiawanda Community Center 34600 Cape Kiwanda Drive, Pacific City, OR Community Meetup 11 Oct Astoria-Warrenton Great Columbia Crossing 10K Walk/Run Astoria Megler Bridge, Astoria, Oregon Community Meetup 13 Oct Coffee with Kahl TBD Community Meetup
+Spread the Word Share Event Don't Miss More Events 11 Oct Astoria-Warrenton Great Columbia Crossing 10K Walk/Run Astoria Megler Bridge, Astoria, Oregon Community Meetup 13 Oct Coffee with Kahl TBD Community Meetup 13 Oct Hillsboro Business Network The Reserve Vineyard and Golf Course Club 4805 SE Century Blvd, Hillsboro, OR 97123 Community Meetup

@@ -2,5 +2,4 @@
 This is a Green Bay Packer themed event after Scott Fitzgerald attacked our state team.
 Shameful!.
 More details to follow.
-Previous Previous August 1 Coffee Talk Sussex Next Next August 12 Forward for Wisconsin Rally: Milwaukee!
 DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

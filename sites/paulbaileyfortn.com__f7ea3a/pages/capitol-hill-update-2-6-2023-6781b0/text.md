@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 2/6/2023 Capitol Hill Update 2/6/2023 It’s been a busy few weeks on Capitol Hill.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 2/6/2023 Capitol Hill Update 2/6/2023 It’s been a busy few weeks on Capitol Hill.
 My staff and I were excited to kick of the 2023 Legislative Session by attending Governor Lee’s inaugural events.
 After the inauguration, it was back to work preparing my legislative package in anticipation for the bill filing deadline on February 2nd.
 This year, I will continue to work to prioritize education, reduce taxes, and fight for our second amendment rights.

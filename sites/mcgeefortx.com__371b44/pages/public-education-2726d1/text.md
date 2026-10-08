@@ -72,6 +72,6 @@ Our Future.
 Our Fight.
 This is more than a campaign; it is a movement aimed at reclaiming our voice within the government, and the time for listening is now.
 I invite you to connect with me directly through the form below.
-Email Address Full Name Phone Number Message 5 + 12 = Send Message Political advertisement paid for by Sara McGee.
+Email Address Full Name Phone Number Message 9 + 7 = Send Message Political advertisement paid for by Sara McGee.
 Copyright #.
 Follow Follow Follow Web site design provided by Complete Computing Services .

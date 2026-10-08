@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press Caucus Letter 2026 Feb 3 | Press February 3, 2026 Dear Fellow Conservatives, Thank you for your time and participation at tonight’s Republican caucus.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press Caucus Letter 2026 Feb 3 | Press February 3, 2026 Dear Fellow Conservatives, Thank you for your time and participation at tonight’s Republican caucus.
 It is an honor and a privilege to be your voice in our nation’s capital.
 I am Michelle Fischbach, a proven conservative running to continue being your representative for the Seventh District in Congress.
 Scott and I have been married for 38 years and live in the Paynesville area, where we raised our two children.

@@ -2,5 +2,5 @@ Saltar al contenido Julián Villarreal, PhD para el Senado de Texas Acerca de Te
 Por favor, déjenos un mensaje detallado y un voluntario de la campaña se pondrá en contacto con usted. ¡Gracias!
 Por favor, activa JavaScript en tu navegador para completar este formulario.
 Por favor, activa JavaScript en tu navegador para completar este formulario.
-Nombre * Nombre del mensaje de correo electrónico Correo electrónico * Asunto Mensaje * Enviar Julián Villarreal, PhD para el Senado de Texas Anuncio político pagado por Julián Villarreal para el Senado de Texas.
+Nombre * Correo electrónico * Asunto Email Subject Message Mensaje * Enviar Julián Villarreal, PhD para el Senado de Texas Anuncio político pagado por Julián Villarreal para el Senado de Texas.
 Español de México English

@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Constituent Services Need help from the state?
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Constituent Services Need help from the state?
 That's what we're here for.
 If you live in House District 77 — anywhere in central El Paso, downtown, UTEP, or Mission Valley — and you're stuck dealing with a state agency, a school district, or a benefit application, our district office can help.
 We track every case.

@@ -1,4 +1,4 @@
-Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information Join Us Talk to Kathy Donate TALK TO KATHY Your Opinion Matters to Me!
+Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information 68th District Join Us Talk to Kathy Donate TALK TO KATHY Your Opinion Matters to Me!
 “I’m not a career politician, and I don’t want to be one.
 I’m a neighbor who believes that the best solutions don’t come from a state capital, they come from the families, parents, and seniors living right here in our district.” — Kathy Why Reach Out?
 I know the stress you’re feeling because I’m feeling it too.

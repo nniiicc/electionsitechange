@@ -1,4 +1,4 @@
-Home Meet Danica Endorsements News Events Get Involved Contact Donate English en עברית he Español es русский ru polski pl 简体中文 zh Home Meet Danica Endorsements News Events Get Involved Contact Donate Now ★ Events ★ Join Danica on the Campaign Trail Be part of the movement.
+Home Meet Danica Endorsements News Events Get Involved Contact Donate English en polski pl 简体中文 zh עברית he Español es русский ru Home Meet Danica Endorsements News Events Get Involved Contact Donate Now ★ Events ★ Join Danica on the Campaign Trail Be part of the movement.
 From community meet-and-greets to volunteer events, here’s where you can connect with Danica and the campaign team.
 Danica believes campaigns are about people, not politics.
 Every event is an opportunity to listen, share, and work together for a stronger community.

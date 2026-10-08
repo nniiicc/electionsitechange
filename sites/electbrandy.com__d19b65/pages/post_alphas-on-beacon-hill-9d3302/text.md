@@ -1,4 +1,7 @@
-Alphas On Beacon Hill
-Founded in 1906, Alpha Phi Alpha Fraternity, Inc. continues to lead nationally in advancing equity, civic engagement, and social justice.
+top of page Home Meet Brandy Why I'm Running Wins Newsletters Issues Committee Votes Endorsements News & Events Get Involved Community Cabinet Contact Jobs More Use tab to navigate through the menu items.
+DONATE GET INVOLVED All Articles Search Alphas On Beacon Hill Team Brandy Mar 31 1 min read Founded in 1906, Alpha Phi Alpha Fraternity, Inc. continues to lead nationally in advancing equity, civic engagement, and social justice.
 Members from across the Commonwealth will be present to engage with legislators on key policy priorities, including education, public health, economic opportunity, and criminal justice reform.
 This will be a valuable opportunity to connect directly with community leaders and advocates, share your work, and engage in meaningful dialogue on legislation impacting our communities.
+Recent Posts See All Representative Brandy Fluker-Reid Endorses Frank Baker For Councilor At-Large Citing His Experience to Deliver Results For The 12th Suffolk Boston Communities Representative Brandy Fluker-Reid Announces Support for Mayor Wu’s Re-Election Campaign And Eager To Partner to Deliver Results For Constituents Halloween Prep at Pope Park The annual Pumpkin Parade drew hundreds of kids and families to Pope John Paul II Park in Neponset last Thursday (Oct.
+24 Home Meet Brandy Why I'm Running Wins Newsletters Get Involved Contact Jobs Paid for by the Committee to Elect Brandy Fluker Oakley © # 42 Gladeside Ave.
+Mattapan, MA, 02126 bottom of page

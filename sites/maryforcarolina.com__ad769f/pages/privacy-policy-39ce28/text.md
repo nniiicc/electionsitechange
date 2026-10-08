@@ -1,4 +1,4 @@
-HOME MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT More HOME MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT Sign In My Account Signed in as: filler@godaddy.com My Account Sign out DONATE Signed in as: filler@godaddy.com HOME MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT Account My Account Sign out Sign In My Account DONATE Privacy Policy Effective Date: September 30, 2025 The Mary Insprucker Committee www.maryforcarolina.com The Mary Insprucker Committee (“we,” “us,” or “our”) respects your privacy and is committed to protecting the personal information you provide when visiting our website, www.maryforcarolina.com (the “Site”).
+HOME #ICE CHEST CHALLENGE MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT More HOME #ICE CHEST CHALLENGE MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT DONATE HOME #ICE CHEST CHALLENGE MEET MARY PRIORITIES ENDORSEMENTS EVENTS CONTACT DONATE Privacy Policy Effective Date: September 30, 2025 The Mary Insprucker Committee www.maryforcarolina.com The Mary Insprucker Committee (“we,” “us,” or “our”) respects your privacy and is committed to protecting the personal information you provide when visiting our website, www.maryforcarolina.com (the “Site”).
 This Privacy Policy explains how we collect, use, and safeguard your information.
 1.
 Information We Collect We may collect the following types of information when you interact with our Site: 2.
@@ -25,4 +25,4 @@ Opt-Out & Contact Preferences You may unsubscribe from campaign emails at any ti
 Updates to This Policy We may update this Privacy Policy periodically.
 Changes will be posted on this page with an updated effective date.
 9.
-Contact Us If you have any questions about this Privacy Policy or how your information is handled, please contact us at: maryforcarolina@gmail.com PRIORITIES CONTACT VOLUNTEER DONATE Paid for by the Mary Insprucker Committee PRIVACY POLICY | Political Ad Paid for by the Mary Insprucker Committee © # Mary Insprucker for NC
+Contact Us If you have any questions about this Privacy Policy or how your information is handled, please contact us at: maryforcarolina@gmail.com #ICE CHEST CHALLENGE PRIORITIES CONTACT VOLUNTEER DONATE Paid for by the Mary Insprucker Committee PRIVACY POLICY | Political Ad Paid for by the Mary Insprucker Committee © # Mary Insprucker for NC

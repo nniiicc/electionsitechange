@@ -62,4 +62,4 @@ House Clerk — Roll Call 320, Dec.
 1071 as its legislative vehicle, so the Clerk’s page displays that bill’s original title; this 312–112 vote of Dec.
 10, 2025 is the FY2026 NDAA final passage) The 312–112 passage, ~$900 billion topline, and 18 Republicans voting no: Roll Call — “House votes overwhelmingly to pass compromise NDAA,” Dec.
 10, 2025 Contributions to Thompson from Lockheed Martin, Boeing, Chevron, and American Petroleum Institute PACs: FEC — Mike Thompson for Congress, Committee C00326363 Lockheed Martin’s own 2025 PAC disclosure lists a $3,000 contribution to Mike Thompson for Congress (CA-04): Lockheed Martin — 2025 LMEPAC Disbursements Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

@@ -1,13 +1,8 @@
-District 8 Delegate Carl Jackson’s crime reduction efforts are gaining clarity…to empower criminals.
-In 2021, Delegate Jackson voted to override Governor Hogan’s Veto of HB0670, stripping our brave Police officers of their protections which has since decimated Maryland’s retention and recruiting of Law Enforcement Officers.
-Ironically, FOP Lodge 4 President Dave Folderauer endorsed Carl Jackson for Delegate in the 2022 election.
-In 2023, following the robbery and murder of a Parkville High School student, Delegate Jackson took to Facebook to say,
-“I will continue to sound the alarm to leaders in Annapolis that we have to invest in our young people through Community Recreation Centers and after school programs.
-We HAVE to give our young people a different alternative to the streets.”
-There is an RAC located at 1111 Halstead Rd in Hillendale (with no educational opportunities, just basketball courts).
+endorsements about issues events blog contact menu endorsements about issues events contact blog MD Taxpayer Cost Tracker Maryland Taxpayer Cost Tracker Catalytic Converters - Theft Prevention?
+03/25/2024 ‍District 8 Delegate Carl Jackson’s crime reduction efforts are gaining clarity…to empower criminals. ‍In 2021, Delegate Jackson voted to override Governor Hogan’s Veto of HB0670 , stripping our brave Police officers of their protections which has since decimated Maryland’s retention and recruiting of Law Enforcement Officers.
+Ironically, FOP Lodge 4 President Dave Folderauer endorsed Carl Jackson for Delegate in the 2022 election. ‍In 2023, following the robbery and murder of a Parkville High School student, Delegate Jackson took to Facebook to say, ‍“I will continue to sound the alarm to leaders in Annapolis that we have to invest in our young people through Community Recreation Centers and after school programs.
+We HAVE to give our young people a different alternative to the streets.” ‍There is an RAC located at 1111 Halstead Rd in Hillendale (with no educational opportunities, just basketball courts).
 For the millions of dollars spent on this “crime reduction center”, has this facility actually reduced crime?
-People are afraid to walk on that very street at night.
-During this Legislative session, Delegate Carl Jackson sponsored HB0871, which mandates record-keeping for junk dealers, scrap metal processors, and automotive dismantlers/recyclers regarding catalytic converters.
+People are afraid to walk on that very street at night. ‍During this Legislative session, Delegate Carl Jackson sponsored HB0871 , which mandates record-keeping for junk dealers, scrap metal processors, and automotive dismantlers/recyclers regarding catalytic converters.
 He claims on the social app Nextdoor that this will “stop this ongoing crime epidemic”.
-However, does anyone besides Delegate Jackson truly believe that imposing laborious record-keeping on law-abiding business owners with no way to punish offenders (many under 17) will reduce crime?
-It's time for legislators to prioritize law enforcement, tough sentences, and imposing fines/penalties for catalytic converter thefts on perpetrators/parents to compensate victims.
+However, does anyone besides Delegate Jackson truly believe that imposing laborious record-keeping on law-abiding business owners with no way to punish offenders (many under 17) will reduce crime? ‍It's time for legislators to prioritize law enforcement, tough sentences, and imposing fines/penalties for catalytic converter thefts on perpetrators/parents to compensate victims. back Authority: Friends of Glen Geelhaar, Brianna Geelhaar Treasurer

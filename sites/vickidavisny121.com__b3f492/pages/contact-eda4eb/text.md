@@ -7,4 +7,5 @@ Vicki, please add me to your mailing list May the campaign send text messages to
 It’s ok to text campaign news to the above number By checking the above box you indicate you have read and agree to the campaign’s Privacy Policy and Terms and Conditions.
 Want to help Vicki get elected?
 Select one or more options: Phone bank Knock on doors Postcards Tabling at an event Join Vicki at parades Host a fundraiser Anything the campaign needs!
-Submit Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top
+Submit Vicki Davis for NYS Assembly 121 P.O.
+Box 135 Unadilla, NY 13849 Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

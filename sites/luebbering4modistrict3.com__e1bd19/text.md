@@ -18,11 +18,9 @@ I will vote accordingly with the feedback I receive.
 It should not be on you to reach out to me as a legislator, but for me as your representative to reach out to you on how you want to be represented.
 We all deserve to be heard, to be represented.
 And at the end of the day, WE ARE ALL MISSOURIANS.
-Upcoming Events! - Come and Dialogue Adair County SB40 5th Annual Legislative Coffee Chat Where - ATSU IPE Building Kirksville, MO When - Wednesday, September 30 @ 1 PM Kirksville Chamber of Commerce Candidate Forum Where - ATSU IPE Building Rooms 151/153 500 W.
-Jefferson St.
-Kirksville, MO When - Tuesday, October 6 @ 6 PM Josh Smead Bus Tour Stop #1 Where - Poole Amphitheater - 113 E.
+Upcoming Events! - Come and Dialogue Sullivan County Democrats Meeting Where - Milan Courthouse Milan, MO When - Wednesday, October 7 @ 6 PM Josh Smead Bus Tour Stop #1 Where - Poole Amphitheater - 113 E.
 3rd Street Milan, MO When - Friday, October 16 @ 3 PM Josh Smead Bus Tour Stop #2 Where - Kirksville Courthouse Kirksville, MO When - Friday, October 16 @ 6:30 PM Josh Smead Bus Tour Stop #3 Where - Unionville Square - 17th and Main St.
-Unionville, MO When - Saturday, October 17 @ 10:35 AM Adair County Democrats Club Meeting Where - Dukum Inn Kirksville, MO When - Tuesday, October 20 @ 5:30 PM Truman State University Homecoming Parade Where - Kirksville, MO When - Saturday, October 24 @ 9 AM Learn more about my Beliefs and Policies Follow us on Instagram Follow me on Instagram Follow us on social for updates.
+Unionville, MO When - Saturday, October 17 @ 10:35 AM Adair County Democrats Club Meeting Where - Dukum Inn Kirksville, MO When - Tuesday, October 20 @ 5:30 PM SB40 Truck or Treat Where - Newman Center Kirksville, MO When - Friday, October 23 @ 5 PM Truman State University Homecoming Parade Where - Kirksville, MO When - Saturday, October 24 @ 9 AM Learn more about my Beliefs and Policies Follow us on Instagram Follow me on Instagram Follow us on social for updates.
 Donate to Help Our Cause Your support and contributions will enable us to meet our goals and fund our campaign.
 This cannot be done without your support.
 You can donate by clicking the button below or by mailing your donation to: Corey Luebbering for Missouri House District 3 2306 James Street Kirksville, MO 63501 Donate With ActBlue Contact Us or Get Involved!

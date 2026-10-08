@@ -8,8 +8,13 @@ Maine Dems Voter Access 2026 Volunteer Interest Group Virtual Event The Maine De
 We are recruiting volunteers for two roles on Election Day, … Show more RSVP Weekly Phone Bank: Every Call Counts!
 Multiple Times Virtual Event Join the team and help us connect with voters across Maine!
 Whether you’re a returning volunteer or making your very first calls, we’d love to have you on the team.
-Every conversation gets us closer t… Show more RSVP Augusta Canvass!
+Every conversation gets us closer t… Show more RSVP Poll Observer Training with the Maine Dems Voter Access Team Multiple Times Virtual Event Poll Observers are the eyes and ears of the Voter Access Team on Election Day.
+When a machine goes down, a line runs long, or a voter is turned away, we only know about it because someone in the room … Show more RSVP Machias Saturday Canvass!
+Multiple Times Washington County Democratic Committee Office 6 Colonial Way, Suite 3 Machias, ME, 04654 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Augusta Canvass!
 Multiple Times Maine Democratic Party Office 320 Water St 3rd floor, Augusta, ME, 04330 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Scarborough Weekend Canvass!
+Multiple Times Memorial Park 5 Durant Drive, Scarborough, ME, 04074 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
 Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Portland Canvass!
 Multiple Times Maine Democratic Party Coordinated Campaign Office 650 Brighton Ave, Portland, ME, 04102 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
 Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Lewiston Canvass!
@@ -18,14 +23,6 @@ Don't worry if you've never done a canvassing shift before, there wi… Show mor
 Multiple Times Kennebunk Dems Office 2 Storer St Suite 111, Kennebunk, ME, 04043 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
 Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Rockland Canvass!
 Multiple Times Knox County Dems Office 33 Park St, Rockland, ME, 04841 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
-Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Topsham Canvass!
-Multiple Times Democratic County Party Office 24 Main St, Topsham, ME, 04086 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
-Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Voter Protection Phone Banking Multiple Times Virtual Event Join the Maine Democratic Party Voter Access Team and help us build the team that protects the vote on Election Day!
-Whether you're a returning volunteer or making your very first calls, we'd love to … Show more RSVP Poll Observer Training with the Maine Dems Voter Access Team Multiple Times Virtual Event Poll Observers are the eyes and ears of the Voter Access Team on Election Day.
-When a machine goes down, a line runs long, or a voter is turned away, we only know about it because someone in the room … Show more RSVP Machias Saturday Canvass!
-Multiple Times Washington County Democratic Committee Office 6 Colonial Way, Suite 3 Machias, ME, 04654 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
-Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Scarborough Weekend Canvass!
-Multiple Times Memorial Park 5 Durant Drive, Scarborough, ME, 04074 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
 Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Brunswick Weekend Canvass!
 Multiple Times Brunswick Democrats / Coordinated Campaign Office 12 Pleasant St, Brunswick, ME, 04011 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
 Don't worry if you've never canvassed before; there will be training… Show more RSVP Belfast Weekend Canvass!
@@ -49,7 +46,9 @@ Sign up for more details This event’s address is private.
 Sign up for more details, Wiscasset, ME, 04578 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
 Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Bangor Weekend Canvass!
 Multiple Times Matt Dunlap for Congress Office 25 Hammond St, Bangor, ME, 04401 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
-Don't worry if you've never done a canvassing shift before, there wil… Show more RSVP Biddeford Weekend Canvass!
+Don't worry if you've never done a canvassing shift before, there wil… Show more RSVP Topsham Canvass!
+Multiple Times Democratic County Party Office 24 Main St, Topsham, ME, 04086 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
+Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Biddeford Weekend Canvass!
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Biddeford, ME, 04005 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
@@ -119,7 +118,8 @@ Multiple Times Ecotat Gardens and Arboretum 25 Annis Rd, Hermon, ME, 04401 Talki
 Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Bridgton Canvass This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Bridgton, ME, 04009 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
-Don't worry if you've never done a canvassing shift before; there wi… Show more RSVP Movement Ally Call Multiple Times Virtual Event We know that Maine has a rich tapestry of movements, and that no matter whether you are fighting to protect immigrant neighbors, save democracy, end foreign wars, bring home wins for workers, ensure e… Show more RSVP Chip in to power Troy's grassroots campaign: $ 10 $ 25 $ 50 $ 100 $ 500 Other $ 10 $ 25 $ 50 $ 100 $ 500 Other To reach the campaign, email info@jacksonformaine.com .
+Don't worry if you've never done a canvassing shift before; there wi… Show more RSVP Voter Protection Phone Banking Multiple Times Virtual Event Join the Maine Democratic Party Voter Access Team and help us build the team that protects the vote on Election Day!
+Whether you're a returning volunteer or making your very first calls, we'd love to … Show more RSVP Movement Ally Call Multiple Times Virtual Event We know that Maine has a rich tapestry of movements, and that no matter whether you are fighting to protect immigrant neighbors, save democracy, end foreign wars, bring home wins for workers, ensure e… Show more RSVP Chip in to power Troy's grassroots campaign: $ 10 $ 25 $ 50 $ 100 $ 500 Other $ 10 $ 25 $ 50 $ 100 $ 500 Other To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

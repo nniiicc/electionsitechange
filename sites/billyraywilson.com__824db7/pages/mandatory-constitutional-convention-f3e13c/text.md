@@ -1,0 +1,22 @@
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Mandatory Constitutional Convention / Blog Post / By Billy Ray Wilson October 2, 2026, at our weekly lunch, my friend, a retired Kentucky Master’s Degree teacher, and I discussed the Articles of Confederation US Government from 1781 – 1789.
+The reason for the interest was I wanted to learn about the Article of Confederation years of government and compare the said years with the current presidential administration and congressional session.
+One would assume that during my school years, I would have become knowledgeable of the Articles of Confederation; however, I do not recall the Articles of Confederation ever being explained, much less the years of governing the United States.
+And, at the end of the meal day and returning home, I queried the Internet’s Co-Pilot system, which provided the following answer: “In short: From 1781 to 1789, U.S.
+Government operations under the Articles were defined by a unified but powerless Congress, heavy reliance on states for resources, and a lack of mechanisms to enforce national policy – a system that proved too weak to manage the growing nation’s needs.” Moreover, in my opinion, the Articles were drafted by individuals that believed in the history of Zion and New Jerusalem that took our nation on the wrong, immoral path of the Manifest Destiny Policies, which are in effect by the current presidential administration and congressional sessions.
+Fortunately for our country, Thomas Jefferson and the other drafters of the Declaration of Independence used the word ‘Creator’ instead of the fictional God of Abraham and the untruths of the Old and New Testaments leading, hopefully, into Jefferson’s statement of “Separation of Church and State.” And, for the Christian Nationalists, Jews, and Muslims, today’s scientific community and truthful historical societies report “billions of years past, the Creator entity and/or entities devised and implemented a plan to initiate space objects such as planets, suns, moons, etc., which continues to date, but, equally important, in my opinion, the Creator added chemical Life Building Blocks on different types of space objects to spread the possibility of life forms on planets such as in our Milky Way Galaxy.
+Our planet Earth became the ultimate example of establishing life forms.” There was no God of Abraham or any other Supreme Being that began life on Earth.
+The Old and New Testaments are frauds.
+Enough, returning to the Articles.
+Realizing the Articles’ failure, Congress directed the establishment and implementation of the US Constitution and ratification by the States of the Union.
+For almost two hundred forty years, the dictates of the US Constitution established the Federal Legislative Branch (Congress) as the government of the United States.
+From the Articles’ failure, a Federal Executive Branch was established, designating an Administrator of the dictates of the Legislative Branch, plus duties as Head of State, Commander in Chief of US Armed Forces, and the leader of a Federal Cabinet to assist in assuring the security and prosperity of the United States—until the arrival of an investor, Donald J.
+Trump, and members of the two major political parties, especially Republicans, that abdicated their Constitutional duties and allowed Trump to become a dictator and/or king.
+On November 3, 2026, the people of the United States, if they want the United States to continue as a World Leader and the hope for mankind, must vote to end Trump’s dictatorship, which would result in Trump’s impeachment and removal from office—and, of course, voting out Republican and Democrat members of Congress that abdicated their duties to the people and allowed Trump to make, in my opinion, the United States into an aggressor nation and ridiculed by the international community.
+Hopefully, if the people are successful in replacing the traitors, in my opinion, the new members of Congress must approve a New Constitutional Convention, headed by Professor Lawrence Tribe, with other U.S.
+Law Professors, to submit Constitutional Amendments that would bring the U.S.
+Constitution up to date and into the future.
+Our year today is 2026, not 1776, 1789, etc.
+Thank you.
+With respect, I remain, BILLY RAY WILSON DEFENDER OF THE US CONSTITUTION ← Previous Post Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

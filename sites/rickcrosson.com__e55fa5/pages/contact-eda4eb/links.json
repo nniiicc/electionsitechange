@@ -1,23 +1,23 @@
 [
 {
 "text": "$100",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=100"
+"href": "https://secure.actblue.com/donate/crosson-general?amount=100"
 },
 {
 "text": "$25",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=25"
+"href": "https://secure.actblue.com/donate/crosson-general?amount=25"
 },
 {
 "text": "$250",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=250"
+"href": "https://secure.actblue.com/donate/crosson-general?amount=250"
 },
 {
 "text": "$5",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=5"
+"href": "https://secure.actblue.com/donate/crosson-general?amount=5"
 },
 {
 "text": "$50",
-"href": "https://secure.actblue.com/donate/crosson-primary?amount=50"
+"href": "https://secure.actblue.com/donate/crosson-general?amount=50"
 },
 {
 "text": "Contact",
@@ -25,7 +25,7 @@
 },
 {
 "text": "Donate",
-"href": "https://secure.actblue.com/donate/crosson-primary"
+"href": "https://secure.actblue.com/donate/crosson-general"
 },
 {
 "text": "Endorsements",
@@ -49,7 +49,7 @@
 },
 {
 "text": "Other",
-"href": "https://secure.actblue.com/donate/crosson-primary"
+"href": "https://secure.actblue.com/donate/crosson-general"
 },
 {
 "text": "P.O. Box 11321, Green Bay, WI 54307",

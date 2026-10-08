@@ -70,4 +70,4 @@ Donate Donate Donate to Stand with Allred for Texas $5 $25 $56 $100 $250 Other A
 Continue to Website ASK MARLEY!
 Marley Hi!
 I'm Colin Allred's pup — and I'm here to help you learn about what he's fighting for in Texas's 33rd Congressional District.
-3:15 AM Click to Start Chat
+2:27 AM Click to Start Chat

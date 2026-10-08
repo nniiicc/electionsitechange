@@ -19,4 +19,5 @@ In a time when trust in government feels harder to come by, I believe that kind 
 I believe Betsy will bring honesty, thoughtfulness, courage, and a genuine heart for service to the Wyoming Legislature.
 More importantly, I believe she will remember why she went there in the first place: to serve the people who sent her.
 I am honored to stand behind Betsy Erickson and give her my wholehearted endorsement.
-Erickson for House District 37 ericksonforhd37@yahoo.com PO Box 452 Casper Wy 82602 Wyoming, USA Paid for by Erickson for HD 37 bottom of page
+Amanda Litman, Co-Founder and President of Run for Something: “Run for Something is committed to changing what leadership looks like in communities across the country, and Betsy Erickson is at the forefront of that movement.
+This election is about bringing in a new class of leaders who are focused on delivering real results for their neighbors, which is why we’re proud to back Betsy Erickson as she works to create lasting change for the community.” Erickson for House District 37 ericksonforhd37@yahoo.com PO Box 452 Casper Wy 82602 Wyoming, USA Paid for by Erickson for HD 37 bottom of page

@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Statement · July 22, 2025 Rep.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Statement · July 22, 2025 Rep.
 Perez Urges El Pasoans to Participate in Upcoming Redistricting Hearing Vince calls on El Pasoans to attend and testify at the upcoming Texas House redistricting hearing.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .

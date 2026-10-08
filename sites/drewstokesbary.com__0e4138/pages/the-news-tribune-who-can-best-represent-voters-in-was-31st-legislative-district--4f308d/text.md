@@ -6,6 +6,5 @@ He’s also been a frequent critic of the liberal inclination toward taxing and 
 Stokesbary has also been a vocal but thoughtful critic of what too often amounts to one-party rule in Olympia.
 In recent years, emboldened by strong majorities, conversations that have historically been more bipartisan affairs — like budget and transportation package negotiations — have become far more one-sided, with Republicans left on the outside looking in.
 You can find the full endorsement at https://www.thenewstribune.com/article263111338.html .
-Endorsements In the News More For You Rep.
-Stokesbary speaks against budget that will raise taxes In the News “The trouble with politicians” In the News Republican Drew Stokesbary Launches Campaign for State House of Representatives Press Releases Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements In the News More For You Representative Drew Stokesbary obtains important funding for White River project In the News The News Tribune endorses Stokesbary Endorsements Saving Washington’s Charter Schools In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

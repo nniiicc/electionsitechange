@@ -1,4 +1,4 @@
-0 Skip to Content Volunteer Endorsements Media News Contact Donate Open Menu Close Menu Donate Volunteer Endorsements Media News Contact Open Menu Close Menu Volunteer Endorsements Media News Contact Donate Voter ID Initiative Townhall - Sunday July 20th Jul 18 Written By Austin Gilbert Dead people shouldn’t vote.
+0 Skip to Content Volunteer Endorsements Media News Contact Donate Open Menu Close Menu Donate Volunteer Endorsements Media News Contact Open Menu Close Menu Volunteer Endorsements Media News Contact Donate Voter ID Initiative Townhall - Sunday July 20th Jul 18 Written by Austin Gilbert Dead people shouldn’t vote.
 It’s just common sense.
 That’s why this Sunday, July 20th, we are kicking off California’s Voter ID campaign — and I’m inviting you to be part of it.
 Join me for the first Reform California Voter ID Townhall in Fresno! 📍 Where: William H.

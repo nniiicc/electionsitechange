@@ -1,4 +1,4 @@
-About Schedule Issues In the News Contact DONATE Leadership you can trust.
+About Schedule Issues In the News Contact DONATE Putting people before politics.
 DISTRICT 3A DESERVES A LEADER WHO LISTENS.
 Local concerns should matter at the Capitol.
 Leadership should be present and accessible.
@@ -20,7 +20,6 @@ District 3A needs a bipartisan representative at the Capitol.
 I have decades of experience bringing people together across parties and communities to fight natural disasters, keep us safe, and deliver real results.
 Share a priority by completing the Contact Us form below. > Donations help us reach voters across District 3A with events, materials, and outreach.
 DONATE TODAY Schedule Upcoming events and opportunities to meet the campaign.
-Northland Progressives Meeting October 7 • 12:00 pm - 1:30 pm • 12068 Main St, Northome, MN 56661, USA Meeting starts at 1200 Aaron speaks around 1230/1245 I-Falls Door Knock - Kania and Hauschild October 7 • 4:30 pm - 7:00 pm • The Library Bistro, 1323 3rd St, International Falls, MN 56649, USA Join Grant Hauschild and Aaron Kania for an evening of door knocking in International Falls.
 I-Falls Chamber of Commerce Meet & Greet October 8 • 5:30 pm - 7:30 pm • Backus Community Center, 900 5th Street, International Falls The International Falls Area Chamber of Commerce invites you to participate in a Candidate Meet & Greet on Thursday, October 8, from 5:30 p.m. to 7:30 p.m. at the Backus...
 Door knock Hoyt lakes October 11 • 12:00 pm - 5:00 pm • Hoyt Lakes Public Library, 206 Kennedy Memorial Dr, Hoyt Lakes, MN 55750, USA Join Aaron for a door knock in Hoyt Lakes - we will be meeting at the public library. at 12pm Event Details Request a visit by completing the Contact Us form below. > View Full Calendar Endorsements Proud to have the support of organizations across Minnesota and here in District 3A.
 Contact Us Have a question, an idea, or want to connect with the campaign?

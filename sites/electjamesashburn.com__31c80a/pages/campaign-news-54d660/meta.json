@@ -1,7 +1,12 @@
 {
  "description": "Check out what is going on with the campaign to Elect James Ashburn to Charles County Maryland's 4th District.",
  "final_url": "https://www.electjamesashburn.com/campaign-news",
- "paid_for_by": null,
+ "fingerprint": "d1caca1c65651364f3d57df29e9060336a2497d0",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends to Elect James Ashburn, Leland Ashburn Treasurer bottom of page",
  "title": "Campaign News I Elect James Ashburn",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2022"
+ ]
 }

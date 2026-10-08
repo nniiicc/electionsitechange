@@ -14,7 +14,7 @@ Over the coming months, I will be knocking on doors throughout Ward 7, not just 
 It is about service.
 It is about protecting the state we love and making sure the New Hampshire our children inherit is even stronger than the one we found.
 I look forward to meeting you, listening to you, and earning your trust and your vote.
-Let’s get to work. - Henry Osinachi Emele Candidate for NH State Representative Hillsborough District 26, Manchester Ward 7 Kara Myrick-Emele http://www.karamyrick.com Previous Previous Speaking Up for Manchester Families on Housing Donate by Mail Henry Emele for NH State Rep 9 Clarendon Way Manchester, NH 03103 Newsletter Block This newsletter signup form needs a storage option.
+Let’s get to work. - Henry Osinachi Emele Candidate for NH State Representative Hillsborough District 26, Manchester Ward 7 Kara Myrick-Emele http://www.karamyrick.com Donate by Mail Henry Emele for NH State Rep 9 Clarendon Way Manchester, NH 03103 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up to join Henry Emele’s campaign for New Hampshire State Representative.
 Email Address Sign Up We respect your privacy.

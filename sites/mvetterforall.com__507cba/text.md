@@ -1,8 +1,13 @@
 Neighbors For M Vetter Home News Issues Join Our Team!
 Donate Resources News Issues Join Our Team!
-Donate Empowering Tennessee’s District 52 Together Neighbors For M Vetter Campaign Support our vision for a stronger, safer, greener community for all District 52 residents.
-Volunteer, donate, and engage with your neighbors to shape a better future.
-Donate Now i We need your consent to load this video We use a third party service to embed video content that may collect data about your activity.
+Donate i We need your consent to load this video We use a third party service to embed video content that may collect data about your activity.
+Please review the details in the privacy policy and accept the service to view the video.
+Accept Meet Michele Vetter!
+Michele speaks about her background, what brought her to Nashville and what she'd like to get accomplished.
+Make MNPS Better (with Vetter!) - Sign the petition We are deeply concerned about the integrity of our public education system in Metro Nashville.
+Multiple whistleblowers from various schools, including Overton, McGavock, Stratford, Antioch, JFK, and Napier, have bravely stepped forward with serious allegations that cannot be ignored any longer.
+These allegations include harassment, threats, and the creation of toxic and unprofessional work environments that have driven many competent educators to resign or face wrongful termination.
+Click here to access the petition that our state government conduct a complete and comprehensive audit of MNPS. i We need your consent to load this video We use a third party service to embed video content that may collect data about your activity.
 Please review the details in the privacy policy and accept the service to view the video.
 Accept Helping Teachers Unfairly Terminated Michele Vetter has stepped up to answer the call from MNPS teachers unfairly retaliated against for doing their jobs.
 She and former Napier Elementary teacher Rene Jordan held a press conference to address these claims.
@@ -10,13 +15,14 @@ They are calling for the state to conduct a complete forensic audit of all termi
 There will be a community meeting this Saturday, Sept.
 26 from 10am-noon at the Smith Springs Community Center, 2801 Smith Springs Road, Nashville, TN 37217 to discuss these claims and to hear from you!
 Please join us and make our voice heard!
-Support Michele Vetter Strong, experienced, proven leadership and service - Michele has been instrumental in creating the Priest Lake Peninsula Neighborhood Network to keep our neighborhoods safe and out of the hands of huge developers who would ruin our beautiful lakefront communities.
+Empowering Tennessee’s District 52 Together Neighbors For M Vetter Campaign Support our vision for a stronger, safer, greener community for all District 52 residents.
+Volunteer, donate, and engage with your neighbors to shape a better future.
+Donate Now Support Michele Vetter Strong, experienced, proven leadership and service - Michele has been instrumental in creating the Priest Lake Peninsula Neighborhood Network to keep our neighborhoods safe and out of the hands of huge developers who would ruin our beautiful lakefront communities.
 Boots on the ground and finger on the pulse of district - Michele has lived in District 52 for 20+ years, and she is always active in distributing important information that affects our communities, getting our neighbors' feedback and interacting with community officials to make sure our voices are heard in government.
 Creating a culture of working together to make our District BETTER for everyone - it's not about the party line - it's about making sure that all residents in District 52 are represented well in our state government, and that we live in a safe, healthy, beautiful environment.
 Help us to bring Community Back to the Capitol!
-Join Our Team Here's Where You Can Meet and Talk with Michele Click Here for More Community Meeting 9-26-26 Saturday, Sept.
-26, 10am-noon Smith Springs Community Center 2801 Smith Springs Road Nashville, TN 37217 Fundraiser/Comedy Night!
-Thursday, Oct 1, 6-9pm The Eighth Room 2106 Eighth Avenue South Nashville, TN 37204 Join us for an evening of comedy with Dan Whitehurst, "the World's Funniest Cop"!
+Join Our Team Here's Where You Can Meet and Talk with Michele Click Here for More National Night Out Against Crime with MNPD Tuesday, Oct.
+6, 5-7pm Home Depot 1155 Bell Road Antioch, TN 37013 Community Zoning Meeting District 13 Thursday, Oct 8, 6:30-7:30pm Smith Springs Community Center 2801 Smith Springs Road Nashville, TN 37217 Topic: Information and community feedback regarding a proposed zone change for 2183 Smith Springs Road .
 Early Voting - General Wed., Oct.
 14 through Thurs, Oct.
 29 Various locations Click link above for more information 50+ Volunteer Signups 40 Community Events Hosted 100% District 52 Coverage Key Campaign Features Discover how Michele’s campaign is driven by community connection and effective action.

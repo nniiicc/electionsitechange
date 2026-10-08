@@ -4,7 +4,7 @@ THE RECEIPTS TOUR Life costs way too much for working people, and Congress just 
 That's why Jake's embarking on a Receipts Tour, making stops all across southern Minnesota this month to collect your receipts from all the jacked-up bills we're paying, from gas and groceries, to utilities and housing.
 He'll be talking to folks about why things have gotten so expensive and what he'll do in Congress to bring down costs.
 After each stop, Jake will collect the receipts and then, if elected, drive his minivan (yes, the one on TV) to Washington and demand they actually do something to bring costs down.
-Tell Jake about How You're Dealing With high Costs Sign Up to Hear News About Upcoming Stops Near You First Name First Name Last Name Last Name Email Email What town do you live in or closest to?
+Tell Jake about How You're Dealing With high Costs Sign Up to Hear About Upcoming Stops Near You First Name First Name Last Name Last Name Email Email What town do you live in or closest to?
 What town do you live in or closest to?
 I consent to receiving emails from the campaign.
 Upload a picture(s) of your recent receipts here: Drag & drop or click to browse (up to 3 files) Tell Jake how high costs are affecting you: Tell Jake how high costs are affecting you: Submit Town Hall Schedule All of Jake's town halls are open to the public .

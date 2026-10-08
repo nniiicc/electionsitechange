@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Contact How to reach the office.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Contact How to reach the office.
 Four ways in — pick the one that fits.
 Campaign For donations, volunteering, events, scheduling, and anything related to the campaign.
 Email: info@vinceperez.com Phone: (915) 487-9819 Mail: PO Box 71309, El Paso, TX 79917 Donate: ActBlue Donate Now District office For HD 77 constituents who need help from a state agency or want to schedule a Capitol tour.

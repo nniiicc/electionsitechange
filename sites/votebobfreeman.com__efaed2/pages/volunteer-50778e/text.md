@@ -8,4 +8,4 @@ Volunteer Work a polling station Get a yard sign at your home or business (Type 
 Bob Freeman.
 You can make these calls from the comfort of your own home or office!
 To sign up or for more information, please email April@votebobfreeman.com.
-Get In Touch Name Email Address Message 4 + 4 = Send Message Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Site By ManOverMachine | Privacy Policy
+Get In Touch Name Email Address Message 2 + 7 = Send Message Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Site By ManOverMachine | Privacy Policy

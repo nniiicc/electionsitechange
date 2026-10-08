@@ -1,6 +1,30 @@
 [
-"http://twitter.com/voteborrello",
-"https://facebook.com/BorrelloForNY",
-"https://georgeborrello.com/contact",
-"https://secure.winred.com/borrello-for-senate/donate"
+{
+"text": "607-438-2701",
+"href": "tel:607-438-2701"
+},
+{
+"text": "Contact",
+"href": "https://www.georgeborrello.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/borrello-for-senate/donate"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/BorrelloForNY"
+},
+{
+"text": "[image: Black Twitter Icon]",
+"href": "http://www.twitter.com/voteborrello"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BorrelloForNY"
+},
+{
+"text": "voteborrello@gmail.com",
+"href": "mailto:voteborrello@gmail.com"
+}
 ]

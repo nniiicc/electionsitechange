@@ -20,7 +20,18 @@ Jobs & Workforce Development District 26 needs more local employers offering ful
 I’ll support workforce training and retraining programs that connect residents with in-demand skills.
 My Five Priorities for District 26 Listening Tour Thomas Township (Saginaw Co.), June 1, 2026 Marathon Township (Lapeer Co.), March 25, 2026 Watertown Township (Tuscola Co.), May 13, 2026 I’m on a listening tour across the townships, cities, and villages of District 26, going to local government meetings to find out what people are actually dealing with and what they want changed.
 34 Meetings Attended (0.5 = partial) 4 of 4 District Counties Visited 276,378 Miles on my ’06 Corolla See the towns of District 26 Latest From the Campaign Meeting recaps, constituent conversations, and updates from the listening tour, all on Facebook.
-Follow on Facebook Ready to Help?
+Here’s an example of what I post: Brendan J.
+Johnson for State Senate Posted on Facebook, August 18, 2026 At the packed Maple Grove Township meeting last night, I got to learn how the Twin Township Ambulance is practicing total transparency.
+They're a non-profit ambulance servicing Maple Grove and Hazelton Townships so the locals don't have to rely on the for-profit ambulance services that are farther away.
+Their operation costs are staying flat, with a yearly difference of merely $22, but last year they ran 536 fewer calls than the year prior, meaning they lost a big chunk of income.
+See more Keeping the crew ready to go around the clock costs the same whether they get called twice that day or twelve times, and the part that got me was the math for their calls.
+On average, they receive $411 from insurance and patients, township and government support adds $152, donations and events add another $30, but they still lost $80 on every single call.
+They finished the year down $212,323 with $3,736 left in the bank.
+They're not even asking the township for money, they're just being clear about how things have been going.
+People from the Twin Township Ambulance preemptively came out to say where things stand while they have multiple options to choose from, and they even asked for the residents to weigh in.
+To be honest, I've never thought of an ambulance as a business before last night, but it was good to be able to learn and talk about it with them directly.
+30 meetings across all 4 counties for my listening tour.
+#BrendanForSenate View this post on Facebook Follow on Facebook Ready to Help?
 This is a lean, grassroots campaign (no hired staff, no paid consultants, and no unnecessary overhead).
 My only recurring expense is a PO box.
 I handle most of it myself, the same way I approach everything else: as efficiently as possible.

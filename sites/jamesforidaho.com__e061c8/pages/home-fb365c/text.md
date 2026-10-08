@@ -24,5 +24,5 @@ UNITE members across the aisle to do what’s best for Idahoans.
 IMPACT and improve the lives of Idahos’ working families.
 Recent Legislation “I am a proud dad and husband, a former military intelligence officer, a trial lawyer, a small business owner, a legislator, and just like you all, someone who loves this place and wants the best for Pocatello.
 That is who I am.” MY IDAHO ROOTS RUN DEEP your support helps me keep fighting for an Idaho that works for all of us.
-Chip In Volunteer Contact Me Email: info@jamesforidaho.com Mailing Address: COMMITTEE TO ELECT JAMES RUCHTI P.O.
+Chip In Volunteer Contact Me Phone: 208-251-4104 Email: info@jamesforidaho.com Mailing Address: COMMITTEE TO ELECT JAMES RUCHTI P.O.
 BOX 6046 POCATELLO, ID 83205-6406 Follow Me on Social Media Paid for by the Committee to Elect James Ruchti | Treasurer – Dave Bagley

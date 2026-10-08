@@ -1,4 +1,4 @@
-top of page Donate RSVP RSVP | Meet & Greet About Platform Donate Get Involved Voting Info Menu Close Meet & Greet with Rahim Registration is closed See other events Time & Location Sep 20, 2026, 1:00 PM – 3:00 PM J.
+top of page Donate RSVP | Meet & Greet About Platform Donate Get Involved Voting Info Menu Close Meet & Greet with Rahim Registration is closed See other events Time & Location Sep 20, 2026, 1:00 PM – 3:00 PM J.
 B.
 Williams Park, 4935 Five Forks Trickum Rd SW, Lilburn, GA 30047 About the event I’m pleased to invite you to a Meet & Greet on September 20th.
 It would be wonderful to see you there.

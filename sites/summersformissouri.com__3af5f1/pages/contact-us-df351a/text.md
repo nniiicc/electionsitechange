@@ -2,4 +2,4 @@ Home Policy & Beliefs Endorsements Amendments Media Store Contact Us Join our Te
 Msg frequency varies.
 Msg & data rates may apply.
 Text HELP for support, reply STOP to Optout, or e-mail summersformissouri@gmail.com.
-7 + 2 = Submit Privacy Policy Cathy Summers for Missouri State Representative Change You WILL Feel!! summersformissouri@gmail.com 314-675-0096 Privacy Policy Copyright © # Paid for by Cathy Summers for MO State Representative, John Summers, Treasurer Follow Follow
+3 + 13 = Submit Privacy Policy Cathy Summers for Missouri State Representative Change You WILL Feel!! summersformissouri@gmail.com 314-675-0096 Privacy Policy Copyright © # Paid for by Cathy Summers for MO State Representative, John Summers, Treasurer Follow Follow

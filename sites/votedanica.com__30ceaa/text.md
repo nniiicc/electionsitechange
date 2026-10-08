@@ -1,4 +1,4 @@
-Home Meet Danica Endorsements News Events Get Involved Contact Donate English en 简体中文 zh עברית he Español es русский ru polski pl Home Meet Danica Endorsements News Events Get Involved Contact Donate Now ★ Danica Hartenfels for State Representative ★ Trusted.
+Home Meet Danica Endorsements News Events Get Involved Contact Donate English en polski pl Español es עברית he 简体中文 zh русский ru Home Meet Danica Endorsements News Events Get Involved Contact Donate Now ★ Danica Hartenfels for State Representative ★ Trusted.
 Proven.
 Ready to Serve.
 A strong voice for working families and small businesses in Pennsylvania’s 189th District Meet Danica Donate Now Upcoming Events Get Involved A Leader for Real Life, Not Just Politics.

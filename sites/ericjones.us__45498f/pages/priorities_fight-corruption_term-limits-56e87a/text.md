@@ -62,4 +62,4 @@ All Policies Next Policy Return to Top SOURCES The Supreme Court’s 1995 ruling
 Term Limits, Inc. v.
 Thornton, 514 U.S.
 779 (1995) Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

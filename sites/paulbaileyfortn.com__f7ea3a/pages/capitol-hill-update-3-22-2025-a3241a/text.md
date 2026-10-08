@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 3/22/2025 Capitol Hill Update 3/22/2025 Tennessee lawmakers and agriculture leaders gather for Ag Day on the Hill.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 3/22/2025 Capitol Hill Update 3/22/2025 Tennessee lawmakers and agriculture leaders gather for Ag Day on the Hill.
 More than 600 people gathered on the Beth Harwell Plaza to celebrate Ag Day on the Hill, an annual event highlighting the importance of agriculture in Tennessee.
 The event featured participation from key agricultural organizations, including the Tennessee Farm Bureau, the Tennessee Department of Agriculture, Pick Tennessee Products, and university schools of agriculture.
 Agriculture is the number one industry in Tennessee, and it’s essential we do all we can as a state to support our hard-working farmers.

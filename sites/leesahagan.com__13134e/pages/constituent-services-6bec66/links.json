@@ -1,44 +1,170 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fconstituent-services%2F&t=Constituent+Services",
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fconstituent-services%2F&title=Constituent+Services",
-"http://printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fconstituent-services%2F&title=Constituent+Services",
-"http://twitter.com/share?text=Constituent+Services&url=https%3A%2F%2Fleesahagan.com%2Fconstituent-services%2F&via=LeesaHagan",
-"https://agr.georgia.gov/agribusiness-resources",
-"https://agr.georgia.gov/hurricane-response-helene",
-"https://allen.house.gov/constituent-services/casework/ssa.htm",
-"https://cardinalisdesign.com/political-website-design",
-"https://congress.gov/members",
-"https://consumer.georgia.gov/",
-"https://dca.georgia.gov/affordable-housing/home-ownership",
-"https://dch.georgia.gov/divisionsoffices/state-office-rural-health",
-"https://dds.drives.ga.gov/_",
-"https://discover.va.gov/external-resources?_resource_type=state-veterans-affairs-office",
-"https://dor.georgia.gov/taxes/check-my-refund-status",
-"https://facebook.com/LeesaHaganforGeorgia",
-"https://gba.georgia.gov/services/public-tours",
-"https://georgia.gov/your-government",
-"https://georgiawildlife.com/hunting/hunter-resources",
-"https://house.ga.gov/mediaServices/Documents/Maps/2023HD156.pdf",
-"https://irs.gov/businesses/small-businesses-self-employed",
-"https://leesahagan.com/",
-"https://leesahagan.com/about-leesa",
-"https://leesahagan.com/constituent-services",
-"https://leesahagan.com/elections",
-"https://leesahagan.com/help-out",
-"https://leesahagan.com/news",
-"https://legis.ga.gov/committees/house",
-"https://legis.ga.gov/find-my-legislator",
-"https://legis.ga.gov/house",
-"https://legis.ga.gov/house/page-program",
-"https://legis.ga.gov/legislation/about",
-"https://legis.ga.gov/legislation/all",
-"https://linkedin.com/in/leesahagan",
-"https://mailchi.mp/064a8e45ec4a/campaign-email-signup",
-"https://militaryonesource.mil/",
-"https://mvp.sos.ga.gov/s",
-"https://sba.gov/",
-"https://travel.state.gov/content/travel/en/passports.html",
-"https://twitter.com/LeesaHagan",
-"https://va.gov/dublin-health-care",
-"https://veteranscrisisline.net/"
+{
+"text": "About Leesa",
+"href": "https://leesahagan.com/about-leesa/"
+},
+{
+"text": "Agribusiness Resources",
+"href": "https://www.agr.georgia.gov/agribusiness-resources"
+},
+{
+"text": "Cardinalis",
+"href": "https://cardinalisdesign.com/political-website-design/"
+},
+{
+"text": "Carl Vinson VA Medical Center",
+"href": "https://www.va.gov/dublin-health-care/"
+},
+{
+"text": "Check your state tax refund status",
+"href": "https://dor.georgia.gov/taxes/check-my-refund-status"
+},
+{
+"text": "Constituent Services",
+"href": "https://leesahagan.com/constituent-services/"
+},
+{
+"text": "Consumer Protection Division",
+"href": "https://consumer.georgia.gov/"
+},
+{
+"text": "Driver’s License online services",
+"href": "https://dds.drives.ga.gov/_/"
+},
+{
+"text": "Elections",
+"href": "https://leesahagan.com/elections/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LeesaHaganforGeorgia"
+},
+{
+"text": "Follow",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/LeesaHagan"
+},
+{
+"text": "Help Out",
+"href": "https://leesahagan.com/help-out/"
+},
+{
+"text": "Home ownership help",
+"href": "https://dca.georgia.gov/affordable-housing/home-ownership"
+},
+{
+"text": "How your state government works",
+"href": "https://georgia.gov/your-government"
+},
+{
+"text": "Hunting & Fishing Regulations",
+"href": "https://georgiawildlife.com/hunting/hunter-resources"
+},
+{
+"text": "Hurricane Helene Resources",
+"href": "https://www.agr.georgia.gov/hurricane-response-helene"
+},
+{
+"text": "Military OneSource",
+"href": "https://www.militaryonesource.mil/"
+},
+{
+"text": "News",
+"href": "https://leesahagan.com/news/"
+},
+{
+"text": "Passports",
+"href": "https://travel.state.gov/content/travel/en/passports.html"
+},
+{
+"text": "Sign Up",
+"href": "https://mailchi.mp/064a8e45ec4a/campaign-email-signup"
+},
+{
+"text": "Small Business & Self-Employed Tax Center",
+"href": "https://www.irs.gov/businesses/small-businesses-self-employed"
+},
+{
+"text": "Small Business Administration",
+"href": "https://www.sba.gov/"
+},
+{
+"text": "Social Security",
+"href": "https://allen.house.gov/constituent-services/casework/ssa.htm"
+},
+{
+"text": "State Office of Rural Health",
+"href": "https://dch.georgia.gov/divisionsoffices/state-office-rural-health"
+},
+{
+"text": "Veterans Affairs",
+"href": "https://discover.va.gov/external-resources/?_resource_type=state-veterans-affairs-office"
+},
+{
+"text": "Veterans Crisis Line",
+"href": "https://www.veteranscrisisline.net/"
+},
+{
+"text": "[image]",
+"href": "https://gba.georgia.gov/services/public-tours"
+},
+{
+"text": "[image]",
+"href": "https://leesahagan.com"
+},
+{
+"text": "[image]",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "[image]",
+"href": "https://www.legis.ga.gov/house/page-program"
+},
+{
+"text": "[image]",
+"href": "https://www.legis.ga.gov/legislation/about"
+},
+{
+"text": "[image]",
+"href": "https://www.legis.ga.gov/legislation/all"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?text=Constituent+Services&url=https%3A%2F%2Fleesahagan.com%2Fconstituent-services%2F&via=LeesaHagan"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fconstituent-services%2F&t=Constituent+Services"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fconstituent-services%2F&title=Constituent+Services"
+},
+{
+"text": "[no text]",
+"href": "http://www.printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fconstituent-services%2F&title=Constituent+Services"
+},
+{
+"text": "here",
+"href": "https://www.house.ga.gov/mediaServices/Documents/Maps/2023HD156.pdf"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/committees/house"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/house"
+},
+{
+"text": "this link",
+"href": "https://www.congress.gov/members"
+},
+{
+"text": "this link",
+"href": "https://www.legis.ga.gov/find-my-legislator"
+}
 ]

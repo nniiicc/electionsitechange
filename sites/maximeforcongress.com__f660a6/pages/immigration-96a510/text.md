@@ -18,8 +18,8 @@ Maxime believes we can have both security and compassion — and that we should 
 05 A clear, fair pathway to legal permanent residency for those who follow the law.
 Fair, faster processing so people who follow the rules aren't punished for doing so.
 06 The Promise "We are a nation of laws and a nation of compassion." — Dr.
-Kedner Maxime DONATE VOLUNTEER DONATE Follow The Campaign A vision for Florida's District 20.
+Kedner Maxime DONATE VOLUNTEER DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

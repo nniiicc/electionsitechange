@@ -11,8 +11,8 @@ This is an unacceptable attempt at swaying election results in a year where they
 As a member of the minority party, I was proud to stand with all forty of my colleagues in a unanimous ‘Present’ vote.
 I am tired of the tricks and when one of the countless pieces of legislation filed actually secures elections, empowers families, protects poll workers, and lowers property taxes; I will be a proud supporter.
 It is time to drop the politics and tricks and work for real results.” ### You Might Also Like Rep.
-Fritts Responds to State of the State and Budget Address February 22, 2024 Rep.
-Fritts Completes Summer Tour; Continues Efforts to Meet Every Constituent in District 74 September 13, 2023 Fritts Seeks Third Term in Illinois House July 14, 2025 Young Conservative Voice Fighting for Common Sense Values.
+Bradley Fritts Announces Campaign to Seek Re-election for House District 74 September 15, 2023 Rep.
+Brad Fritts Wins Bid for Re-Election to Illinois House District 74 November 5, 2024 Fritts Seeks Third Term in Illinois House July 14, 2025 Young Conservative Voice Fighting for Common Sense Values.
 Facebook Instagram Home Meet Brad The Issues Agriculture Public Safety Local Control Affordability Get Involved Newsroom Contact Donate Hamburger Toggle Menu Address Citizens for Bradley J.
 Fritts P.O.
 Box 1014 Dixon, IL 61021 Paid for by Citizens for Bradley J.

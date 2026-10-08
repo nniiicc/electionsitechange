@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Jamie Kiel takes Oath of Office The race is over, he’s been sworn in, and now District 18 State Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News Jamie Kiel takes Oath of Office The race is over, he’s been sworn in, and now District 18 State Rep.
 Jamie Kiel is ready to get to work.
 “I knew the important thing during the campaign was to go to as many homes as possible to find out the needs of the district, and I did that thousands of times,” Kiel […] Continue Reading Kiel: “I’m ready to go to work” Moments before he presided over the swearing-in ceremony for Rep.
 Jamie Kiel (R-Russellville), Franklin County Probate Judge Barry Moore reflected on how the political climate in Franklin County has changed in recent years.

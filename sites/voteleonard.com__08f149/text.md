@@ -41,7 +41,7 @@ I believe Bay County deserves leadership that truly listens to the community and
 We must protect the land and waters that define our way of life while also making sure families and small businesses can afford to live, work, and build a future here.
 I’m running because I care deeply about this place and the people who call it home.
 Simply Stated My goal is simple: to protect what makes Bay County special while helping create a stronger, more affordable, and more hopeful future for the next generation.
-Find out more Vote for Lyn Leonard Primary Election - November 3, 2026 # # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Find Your Precinct Support the Campaign Donate Online or by Mail Let's protect what makes Bay County special, lower everyday costs, and build a stronger future for our community.
+Find out more Vote for Lyn Leonard General Election - November 3, 2026 # # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Find Your Precinct Support the Campaign Donate Online or by Mail Let's protect what makes Bay County special, lower everyday costs, and build a stronger future for our community.
 By Mail: Stephanie 'Lyn' Leonard State Representative District 6 1016 Navy Boulevard #329 Panama City Beach, Florida 32408 Donate Online Copyright © # Vote Leonard - All Rights Reserved.
 Paid for by Stephanie "Lyn" Leonard, Democrat for State Representative District 6.
 Home About Priorities Donate Contact Privacy

@@ -1,4 +1,4 @@
-0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Public Safety & Gun Laws Aug 5 Written By Mary Lee As a former judge, I presided over thousands of gun violence cases in Durham.
+0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Public Safety & Gun Laws Aug 5 Written by Mary Lee As a former judge, I presided over thousands of gun violence cases in Durham.
 All were senseless and tragic.
 Public safety is diminished with every incidence of a shooting and death.
 Today there are more guns in this country than there are people.

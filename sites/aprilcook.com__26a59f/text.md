@@ -1,1 +1,3 @@
-top of page Menu Close Home Meet April Platform Donate Contact Us Events Yard Signs REAL LEADERSHIP FOR DISTRICT 34 Home Meet April Platform Donate Contact Us Events Yard Signs DONATE Election Day is November 3, 2026 REGISTER TO VOTE VOTE BY MAIL FIND YOUR POLLING PLACE GET INVOLVED Paid for by April Cook for NC PAID FOR BY APRIL COOK FOR NC bottom of page
+top of page Menu Close Home Meet April Platform Donate Contact Us Events Yard Signs REAL LEADERSHIP FOR DISTRICT 34 Home Meet April Platform Donate Contact Us Events Yard Signs DONATE ​ April Cook is the Democratic candidate for North Carolina Senate District 34 in Cabarrus County.
+A Concord resident for more than 30 years, she co-founded the Cook Community Clinic and leads the North Carolina Association of Free and Charitable Clinics.
+Election Day is November 3, 2026 REGISTER TO VOTE VOTE BY MAIL FIND YOUR POLLING PLACE GET INVOLVED Paid for by April Cook for NC PAID FOR BY APRIL COOK FOR NC bottom of page

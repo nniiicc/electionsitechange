@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Statement · August 4, 2025 Statement from State Representative Vince Perez in Response to Warrant for Arrest Vince responds to the warrant for arrest issued during the quorum break over the Texas redistricting map.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Statement · August 4, 2025 Statement from State Representative Vince Perez in Response to Warrant for Arrest Vince responds to the warrant for arrest issued during the quorum break over the Texas redistricting map.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .
 ### Vince Perez is State Representative for House District 77 in El Paso.

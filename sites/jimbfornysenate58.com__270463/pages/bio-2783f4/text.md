@@ -1,4 +1,4 @@
-0 Skip to Content Home Bio News Merchandise Cards Contact Us Open Menu Close Menu Home Bio News Merchandise Cards Contact Us Open Menu Close Menu Home Bio News Merchandise Cards Contact Us About Jim Bobreski: Jim Bobreski is President of Synchronicity1 LLC .
+0 Skip to Content Home Bio Jim B Articles News Merchandise Cards Contact Us Open Menu Close Menu Home Bio Jim B Articles News Merchandise Cards Contact Us Open Menu Close Menu Home Bio Jim B Articles News Merchandise Cards Contact Us About Jim Bobreski: Jim Bobreski is President of Synchronicity1 LLC .
 He is a process control engineer whose main work was electrical power production.
 During his career as an instrument technician and engineer, he serviced coal, oil, gas and nuclear facilities throughout the country.
 Jim is the inventor of the Widget WireSorter, Port-A-Score, and he is currently working on agricultural projects such as water collection and efficient irrigation system that uses gravity feed, low height wind turbine, and robotics .

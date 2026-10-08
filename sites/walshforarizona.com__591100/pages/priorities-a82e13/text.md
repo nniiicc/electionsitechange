@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
 Priorities Stephanie will bring practical, solutions-focused leadership to the Legislature.
 She is committed to ensuring that all residents have their voices heard.
 Affordability and a Robust Economy Affordability is one of the biggest concerns facing Arizona families, from groceries and gas to housing, childcare, and healthcare.

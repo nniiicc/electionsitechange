@@ -1,4 +1,4 @@
-0 Skip to Content Home Issues About Volunteer Donate Donate Open Menu Close Menu Home Issues About Volunteer Donate Donate Open Menu Close Menu Home Issues About Volunteer Donate Donate HELP THE TIDE RISE 🌊 DONATE TODAY Ocean Fitts is refusing money from insurance companies, utilities, Big Sugar, Big Pharma, and the NRA.
+0 Skip to Content Home District 71 Issues About Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Volunteer Donate Donate HELP THE TIDE RISE 🌊 DONATE TODAY Ocean Fitts is refusing money from insurance companies, utilities, Big Sugar, Big Pharma, and the NRA.
 His campaign is powered by everyday supporters instead of corporate interests.
 Every contribution directly funds voter outreach across District 71, supporting field canvassing, direct mail, digital communication, printing, and the essential day-to-day operations of a full-time grassroots campaign.
 Give online 📧 Donate via ActBlue Choose $20, $50, $100, $500, $1,000, or enter your own amount.

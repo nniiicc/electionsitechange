@@ -27,16 +27,32 @@ Your kid`s team.
 Your street`s pothole.
 Your worry about the grocery bill.
 She wants to hear it straight from you.
-Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Real solutions, not political buzzwords.
-Michelle Embree Ku is ready to fight for: Lower energy &amp; healthcare costs Fair state education funding Real property tax relief for local families Learn more and join the campaign at the link in bio! 🔗 #VoteNow #VoteBlue #VoteEarly #election #Connecticut #Newtown #HealthCare #education #taxes … See More See Less Play View Comments Like reaction Love reaction Haha reaction Reactions: 9 Comments: 1 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference Is Clear Day 3: Traffic Anyone who drives I-84 through Danbury and Newtown knows the backups aren’t just frustrating — they affect safety, commutes, and our quality of life.
-This year, Mitch Bolinsky voted against PA 26-63, a bill that includes the I-84 flex lane project to help reduce congestion in the Danbury area.
-The bill also included stronger distracted-driving measures and more frequent background checks for Uber and Lyft drivers.
-Michelle Embree Ku will support practical transportation investments and safety measures that help prevent accidents, reduce traffic, and keep Newtown moving.
-Sitting in traffic isn’t partisan.
-Finding solutions shouldn’t be either. [ www.cga.ct.gov/2026/VOTE/H/PDF/2026HV-00131-R00HB05464-HV.PDF ] #TheDifferenceIsClear #NewtownCT #I84 #TrafficSafety #ConnecticutPolitics #MichelleEmbreeKu #lookitup … See More See Less Play View Comments Like reaction Love reaction Reactions: 22 Comments: 2 Shares: 2 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Six neighbors.
-One word each.
-No time to think!
-Watch the video, then drop your word for Michelle in the comments.
-#newtownct #Newtown #Connecticut #representative #caring #authenticity #intelligence #school #hereforyou #vote … See More See Less Play View Comments Like reaction Love reaction Reactions: 27 Comments: 5 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 5 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) On Saturday night, using the cover of darkness and masks, about a dozen men stood outside Danbury police headquarters holding a banner that read, “Keep New England White.” This racism and hate cannot go unanswered.
+I grew up in Evanston, Illinois, a community much like Danbury in its diversity.
+In our neighboring community of Skokie, many Holocaust survivors had rebuilt their lives.
+In the late 1970s, neo-Nazis sought to march through Skokie.
+The ensuing legal battle ultimately affirmed their First Amendment rights, but the march itself never took place.
+Instead, the threat of that march galvanized Holocaust survivors, neighbors, and faith leaders to stand together against hatred and intimidation.
+That important lesson has stayed with me.
+Danbury, and every city, deserves the same response.
+We cannot answer hatred by pretending it isn't there, and we cannot answer it by abandoning the principles that protect everyone's right to speak.
+We answer it by standing together and making clear that intimidation and bigotry do not represent who we are.
+I grew up in a community committed to inclusion, but racism, prejudice, and stereotyping existed there, as they do everywhere.
+I learned early that this is a fight worth fighting.
+I've also always known that I was fortunate to be born in this country.
+I didn’t earn the circumstances of my birth, and I don't believe anyone should be judged—or treated as more or less American—because of where they, their parents, or earlier generations were born.
+Danbury is our neighbor, and its diversity is one of its strengths.
+It’s part of what makes our community, our region, and our country strong.
+We must never be silent when people are targeted for who they are or where they come from.
+And, we must not let a handful of people who want to divide us, convince us that they speak for New England.
+They do not.
+#antiracism #StandTogether #community first #community #speakout … See More See Less View Comments Like reaction Love reaction Angry reaction Reactions: 61 Comments: 9 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 9 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference Is Clear Day 4: Healthcare This year, Mitch Bolinsky voted against Connecticut setting its own vaccine standards based on science and trusted medical guidance.
+Reference: www.cga.ct.gov/2026/SUM/PDF/2026SUM00003-R02HB-05044-SUM.PDF PA 26-3 (HB-5044) protects access to recommended vaccines by letting Connecticut’s Department of Public Health set standards of care for children and adults, informed by organizations like the American Academy of Pediatrics, the American Academy of Family Physicians, and others.
+It also helps protect insurance coverage, expands access for uninsured and underinsured adults, and allows Connecticut to secure vaccines if federal access is disrupted.
+At a time when the federal government is putting vaccine access at risk, Connecticut needs leaders who will protect affordable health care and keep families healthy.
+Michelle Embree Ku will vote to protect vaccine access.
+And, that’s the difference!
+Michelle Embree Ku Democrat for State Representative, 106th District #TheDifferenceIsClear #CTPolitics #Healthcare #VaccineAccess #Connecticut #lookitup #science … See More See Less Play View Comments Like reaction Love reaction Reactions: 21 Comments: 3 Shares: 2 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 3 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Real solutions, not political buzzwords.
+Michelle Embree Ku is ready to fight for: Lower energy &amp; healthcare costs Fair state education funding Real property tax relief for local families Learn more and join the campaign at the link in bio! 🔗 Michelle Embree Ku Democrat for State Representative, 106th District #VoteNow #VoteBlue #VoteEarly #election #Connecticut #Newtown #HealthCare #education #taxes … See More See Less Play View Comments Like reaction Love reaction Haha reaction Reactions: 12 Comments: 1 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
 Brian Hartgraves Treasurer.
 Approved by Michelle Embree Ku.

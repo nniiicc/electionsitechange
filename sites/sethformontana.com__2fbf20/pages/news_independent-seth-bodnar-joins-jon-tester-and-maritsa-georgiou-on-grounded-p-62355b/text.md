@@ -17,7 +17,7 @@ Senate Race ICYMI “We are gaining momentum”: Independent Seth Bodnar on CNN'
 Senate in Montana PRESS RELEASE Veterans for All Voters Action Endorses Independent Seth Bodnar for U.S.
 Senate in Montana icymi Independent Seth Bodnar on CNN: "The Question We Should Be Asking Isn't What's Good for Republicans or Democrats.
 It's What's Good for the Country." PRESS RELEASE Former Montana Governor Steve Bullock Endorses Independent Candidate Seth Bodnar for U.S.
-Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” Sep 8 2026 ICYMI Independent Seth Bodnar Joins Jon Tester and Maritsa Georgiou on Grounded Podcast MISSOULA, MT — Independent U.S.
+Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” ICYMI Kurt Alme Says “We can't vote to limit the use of force in the Gulf,” Doubles Down on His Support of the Costly and Unauthorized War in Iran ICYMI Former NARAL Head Calls Out Alani Bankhead for Lying About Reproductive Freedom Record Sep 8 2026 ICYMI Independent Seth Bodnar Joins Jon Tester and Maritsa Georgiou on Grounded Podcast MISSOULA, MT — Independent U.S.
 Senate candidate Seth Bodnar joined former U.S.
 Senator from Montana Jon Tester and journalist Maritsa Georgiou on the Grounded podcast for a candid, wide-ranging conversation about how and why he decided to run for the U.S.
 Senate, what he would focus on when elected, and why he believes Montana’s next senator shouldn’t answer to either national Party.

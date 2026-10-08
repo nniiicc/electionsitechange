@@ -1,5 +1,4 @@
-Home Join the Team Contact Tracy Donate Bills Watch Party Tickets Here!
-ELECT Tracy DiFlorio for Assembly District 138 Follow on Facebook Check Voter Status Get Absentee Ballot Join The Team Donate Welcome, Dear Friend!
+Home Join the Team Contact Tracy Donate ELECT Tracy DiFlorio for Assembly District 138 Follow on Facebook Check Voter Status Get Absentee Ballot Join The Team Donate Welcome, Dear Friend!
 I’ve served our area as a dedicated public servant for the past seventeen years as Chili Town Councilwoman and then Monroe County Legislator.
 Most importantly, I’m a Blue Star Mom and proud wife that’s fed up with the partisan status quo in Albany.
 The issues facing our community are more clear than ever.

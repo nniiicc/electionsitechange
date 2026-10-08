@@ -7,6 +7,6 @@ The Supreme Court ruled that the U.S.
 Postal Service may NOT change mail-ballot procedures this year.
 Justices Alito and Thomas dissented, while Justice Kavanaugh thought the USPS argument had merit but concurred with the majority that “officials do not have sufficient time to reasonably implement the rule before” the November 2026 election.
 As a candidate, my life continues to proceed...
-5 0 Load More Celeste Landry for Secretary of State P.O.
+6 0 Load More Celeste Landry for Secretary of State P.O.
 BOX 41 Boulder, CO 80306 720-767-7310 Celeste4sos.com Paid for by Celeste Landry for Secretary of State.
 Registered Agent: Wendy Underhill Website created by Shayna Beckham Privacy Policy bottom of page

@@ -16,7 +16,7 @@ Over those years, families have sometimes offered me money in appreciation for b
 I have never taken their money.
 Not because their gratitude did not mean something to me.
 It did.
-I have always held off from taking money because I have always believed that what I do is an act of service to God and to others.
+I have always held off from taking money because I have always believed that what I do is an act of service to others and to my faith.
 My faith has taught me to serve, do the work placed before me, and trust that in the end, God will take care of me.
 That philosophy did not change when I decided to run for Congress.
 This campaign is being built largely with my own resources, on a hospital chaplain's salary and a shoestring budget.

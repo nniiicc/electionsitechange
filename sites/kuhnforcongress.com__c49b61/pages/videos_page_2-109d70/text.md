@@ -1,6 +1,8 @@
-Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Tennessee’s Education is ranked dead last in the nation.
-Heidi will fight for public education!
-More Conversations Sep 13, 2026 - Imagine a healthcare that actually works for YOU.
+Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Thank you to everyone who joined us in Eads, TN, for our fundraiser and early birthday celebration!
+More Conversations Sep 16, 2026 - ICE’s tactics of profiling, intimidation, and fear are not making us safer, they are tearing communities apart.
+Sep 15, 2026 - Thank you, District One Democrats, for inviting me to your first meeting!
+Sep 15, 2026 - Families across District 8 are working harder and stretching every dollar just to make ends meet.
+Sep 13, 2026 - Imagine a healthcare that actually works for YOU.
 Sep 12, 2026 - Thank you, Germantown Festival attendees!
 Sep 12, 2026 - Celebrating Millington Goat Days Sep 11, 2026 - We will never forget the lives lost, the heroes who ran toward danger, and the families forever changed on 9/11.
 Sep 11, 2026 - Telling Americans they’ll get a $5,000 check if Republicans win Congress isn’t governing.
@@ -31,9 +33,6 @@ Aug 27, 2026 - I have always met with and talked to my constituents directly.
 Aug 26, 2026 - Canada isn’t just a trading partner, it’s our neighbor and longtime ally.
 Aug 25, 2026 - When you live in Tennessee, losing Dolly Parton just hits differently.
 Aug 24, 2026 - This November, put West Tennessee in “D” and let’s drive our communities forward.
-Aug 24, 2026 - West Tennessee farmers work too hard to compete on an uneven playing field.
-Aug 23, 2026 - It’s time for change.
-Vote Kuhn for Congress.
-Aug 22, 2026 - I’m fighting for her rights and freedoms Previous Next Footer Left section [email protected] ‍ P.O.
+Previous Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

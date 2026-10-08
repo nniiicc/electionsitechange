@@ -1,4 +1,14 @@
 [
-"https://elizabethmaier.com/home",
-"https://elizabethmaier.com/privacy-policy"
+{
+"text": "Privacy Policy",
+"href": "https://www.elizabethmaier.com/privacy-policy"
+},
+{
+"text": "[image: Maier for Ohio]",
+"href": "https://www.elizabethmaier.com/home"
+},
+{
+"text": "elizabeth@elizabethmaier.com",
+"href": "mailto:elizabeth@elizabethmaier.com?subject=Message+from+Website"
+}
 ]

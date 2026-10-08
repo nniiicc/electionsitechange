@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Two Alabama brothers raise $3000 for dolls for children with limb differences RUSSELLVILLE, Ala.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News Two Alabama brothers raise $3000 for dolls for children with limb differences RUSSELLVILLE, Ala.
 (WIAT) — A 5 and 9-year-old from north Alabama could teach you a thing or two about showing kindness.
 Bronner and Brody Hellums are raising money to donate dolls to children with limb differences in honor of their soon-to-be 1-year-old cousin, Sloan.
 Sloan was born on Continue Reading Development Council presents checks to local festivals By Dennis Sherer | September 1, 2019 | Filed under: News TUSCUMBIA-On Friday, August 30 The Northwest Alabama Resource Conservation and Development Council presented checks totaling $15,000 to three Tuscumbia events to help them boost the economy of The Shoals.

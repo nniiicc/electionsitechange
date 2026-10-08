@@ -30,18 +30,12 @@ The county is soon to renew work on the brick building on Northwest Chehalis Ave
 The county originally purchased the building back in 2020.
 It had most recently been occupied by DB Cooper Appliances.
 After completing some of the necessary structural work, the project stalled out around the same time as lockdowns related to the COVID-19 pandemic swept the nation.
-According to Patana, the county expects to move forward with the renovation of the building soon, using capital facilities funding coming from the sale of an old county public works building. ← Previous Article Most Recent Posts Making Home Energy Improvements Work Better for Washington Communities Aug 27, 2026 | Blog For many Washington families, particularly those living in older homes and rural communities, energy efficiency isn't an abstract policy issue.
+According to Patana, the county expects to move forward with the renovation of the building soon, using capital facilities funding coming from the sale of an old county public works building. ← Previous Article Most Recent Posts When Local Priorities Become State Investments Oct 7, 2026 | Elect Peter Abbarno For the C-C Chamber of Commerce One of the most important parts of representing our community in Olympia is listening to local leaders, identifying real needs, and then working together to turn those priorities into results.
+I recently toured the Lewis County Public...
+Making Home Energy Improvements Work Better for Washington Communities Aug 27, 2026 | Blog For many Washington families, particularly those living in older homes and rural communities, energy efficiency isn't an abstract policy issue.
 It can mean a warmer home in the winter, lower monthly utility bills, needed home repairs, and a safer and healthier place...
 Protecting Washington’s Working Lands and Strengthening Rural Communities Aug 27, 2026 | Blog Washington’s farms, forests, rivers, and working lands are part of what makes our state special.
 They also support thousands of jobs, produce food and timber, protect habitat and water quality, and sustain rural communities across our state.
 As Assistant Ranking...
-Vote Early.
-Vote Proud.
-Help Build a Stronger Washington.
-Jul 9, 2026 | Uncategorized Every election matters, but the 2026 Primary Election is especially important for the future of our communities and our state.
-The choices we make today help determine the direction of Washington tomorrow.
-If we want Stronger Families.
-Stronger Communities.
-Stronger...
 Stay up to date on the lastest news from Olympia.
 Get Peter's Newsletter Paid for by the committee to elect Peter Abbarno | Designed by The Silver Agency English Español ( Spanish )

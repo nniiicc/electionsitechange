@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate Privacy Policy Last Updated: December 5, 2025 Overview Welcome to the official web site (the “Site”) of Flint for Montana (“https://flintformontana.com”, “we”, “us” or “our”).
+Home About Issues News Get Involved Contact Store Media Donate Privacy Policy Last Updated: December 5, 2025 Overview Welcome to the official web site (the “Site”) of Flint for Montana (“https://flintformontana.com”, “we”, “us” or “our”).
 This Privacy Policy, and as amended from time to time (“Privacy Policy”), outlines our practices, and the practices of any of our affiliates who link to this Privacy Policy, for online collection, use, and disclosure of your information that you provide to us when you use our Site as well as data that we collect through our Services.
 By using this Site, you agree that your use of the Site is governed by this Privacy Policy and our Terms of Service.
 From time to time, we may update this Privacy Policy.

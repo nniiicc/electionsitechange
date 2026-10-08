@@ -1,3 +1,5 @@
+Skip to content Time For A Change Home April 24, 2024 politics , Uncategorized Protecting whom?
+From whom?
 Our leadership continues to be obsessed with sex.
 Specifically, with people who do not fit neatly into the precise sex roles that they consider themselves empowered to define.
 Anyone even talking or writing about different possible ways of living and being is DANGEROUS!
@@ -38,3 +40,7 @@ You protect them by teaching them, from the earliest possible age, what parts of
 You empower them to say NO, and to raise hell if that NO is not honored.
 And you back them up with social and legal power.
 None of this shielding-the-good-old-boys-network stuff.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Is Anyone Listening? → Worse than Deja Vu Leave a comment Cancel reply Δ Create a free website or blog at WordPress.com.
+Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
+Log in now.
+Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started

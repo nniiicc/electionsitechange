@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 2/21/2026 Capitol Hill Update 2/21/2026 To the Citizens of Tennessee Senate District 15 Friends, We had a strong week in the Senate advancing legislation that protects first responders, supports volunteer firefighters, and holds violent offenders accountable.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 2/21/2026 Capitol Hill Update 2/21/2026 To the Citizens of Tennessee Senate District 15 Friends, We had a strong week in the Senate advancing legislation that protects first responders, supports volunteer firefighters, and holds violent offenders accountable.
 Here’s what moved forward: Stronger Protections for First Responders I’m proud to sponsor Senate Bill 1900 (SB1900) , which strengthens penalties for assaulting first responders.
 Right now, assaulting a firefighter or emergency responder is only a misdemeanor.
 This bill increases that offense to a Class E felony, carrying a mandatory minimum $10,000 fine and 60 days in jail.

@@ -1,4 +1,4 @@
-Skip Navigation Menu Priorities About Get Involved Volunteer Merch Donate Priorities About Get Involved Volunteer Merch Donate We strongly support Melat Kiros for Congress Senator Bernie Sanders Us SenatE - Vermont Chris Rabb Democratic nominee for U.S.
+Skip Navigation Menu Vote Priorities About Get Involved Volunteer Merch Donate Vote Priorities About Get Involved Volunteer Merch Donate We strongly support Melat Kiros for Congress Senator Bernie Sanders Us SenatE - Vermont Chris Rabb Democratic nominee for U.S.
 House of Representatives, PA-200 Pattie Gonia Climate activist Senator Iman Jodeh Co State senator district 29 Senator Cathy Kipp co state senator district 14 Rep.
 Javier Mabrey Co State Rep House District 1 Rep.
 Brianna Titone Co State Rep House district 27 Rep.

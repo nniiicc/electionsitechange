@@ -20,6 +20,6 @@ This change will help families better manage educational expenses throughout the
 I will continue working to ensure that our teachers, school personnel, State Police, and state workers remain priorities for the Legislature.
 We must provide compensation that allows them to live and work in Jefferson County and remain competitive with neighboring states and localities.
 I will also continue to defend educational choice and the rights of parents to determine the educational path that is best for their children.
-All of the bills mentioned can be accessed here - https://www.wvlegislature.gov/Bill_Status/Bill_Status.cfm Montani Semper Liberi Amanda Ridenour Previous Previous The 2026 Legislative Session – Major Events #3: Crime Next Next The 2026 Legislative Session – Major events #1 – The Tax Cut Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+All of the bills mentioned can be accessed here - https://www.wvlegislature.gov/Bill_Status/Bill_Status.cfm Montani Semper Liberi Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

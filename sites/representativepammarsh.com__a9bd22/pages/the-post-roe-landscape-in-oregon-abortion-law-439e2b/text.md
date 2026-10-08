@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements The post-Roe landscape in Oregon abortion law By The Jefferson Exchange Team Published June 24, 2022 at 9:44 AM PDT LISTEN HERE About 200 people, the majority of them women, gathered at the Deschutes County Courthouse in Bend, Ore., to rally in support of abortion access on May 3, 2022.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements The post-Roe landscape in Oregon abortion law By The Jefferson Exchange Team Published June 24, 2022 at 9:44 AM PDT LISTEN HERE About 200 people, the majority of them women, gathered at the Deschutes County Courthouse in Bend, Ore., to rally in support of abortion access on May 3, 2022.
 The Supreme Court decision in the Dobbs case reverses Roe vs Wade and makes big changes to abortion law across the United States.
 Because it is now up to the states to decide if abortion is legal or not, and if so, with what restrictions.
 Oregon and California have some of the most liberal abortion laws in the country, and that is unlikely to change in the short term.

@@ -1,5 +1,4 @@
-About Stephanie
-I grew up in Ohio and moved to New England after I graduated Case Western Reserve University with a Bachelor of Science in Accounting.
+Skip to content Stephanie Grund for NH House Partnering for Progress, Innovating for Tomorrow About Contact About Stephanie I grew up in Ohio and moved to New England after I graduated Case Western Reserve University with a Bachelor of Science in Accounting.
 I worked as an auditor for Arthur Andersen for four years and then entered the corporate environment and worked for large multi-national firms consolidating financial statements, working with auditors, and preparing SEC filings.
 After marrying Victor and having children, I made the choice to stay home and raise our children.
 While managing the household duties, I also became involved in the Amherst community.

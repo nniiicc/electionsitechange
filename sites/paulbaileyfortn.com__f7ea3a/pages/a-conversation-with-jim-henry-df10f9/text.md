@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Podcast / A Conversation with Jim Henry A Conversation with Jim Henry Sen.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Podcast / A Conversation with Jim Henry A Conversation with Jim Henry Sen.
 Paul Bailey sits down with Jim Henry.
 Throughout his career, Jim Henry has worn many hats, including a Vietnam veteran, a state representative, a cabinet member, a Deputy Governor, a candidate for governor, a city councilman, a city mayor, and, now, the state director for U.S.
 Senator Bill Haggerty.

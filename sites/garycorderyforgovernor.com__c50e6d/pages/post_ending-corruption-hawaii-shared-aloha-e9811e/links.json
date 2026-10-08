@@ -1,46 +1,202 @@
 [
-"http://civilbeat.org/2019",
-"http://civilbeat.org/2021",
-"http://failures.files.hawaii.gov/",
-"http://files.hawaii.org/2024",
-"https://alohafreedomcoalition.org/about",
-"https://auditor.hawaii.gov/follow-up",
-"https://environment-hawaii.org/?p=3571",
-"https://facebook.com/garycorderyforgovernor",
-"https://files.hawaii.gov/auditor/Reports/2023/23-09.pdf",
-"https://garycorderyforgovernor.com/",
-"https://garycorderyforgovernor.com/about-gary",
-"https://garycorderyforgovernor.com/accessibility",
-"https://garycorderyforgovernor.com/blog",
-"https://garycorderyforgovernor.com/blog/categories/affordable-housing",
-"https://garycorderyforgovernor.com/blog/categories/community",
-"https://garycorderyforgovernor.com/blog/categories/cost-of-living",
-"https://garycorderyforgovernor.com/blog/categories/education",
-"https://garycorderyforgovernor.com/blog/categories/government-transparency",
-"https://garycorderyforgovernor.com/blog/categories/honoring-native-hawaiian",
-"https://garycorderyforgovernor.com/blog/categories/plan-for-transparency",
-"https://garycorderyforgovernor.com/blog/tags/government-transparency",
-"https://garycorderyforgovernor.com/business-vision",
-"https://garycorderyforgovernor.com/contact-us",
-"https://garycorderyforgovernor.com/donate",
-"https://garycorderyforgovernor.com/donate-1",
-"https://garycorderyforgovernor.com/event-list",
-"https://garycorderyforgovernor.com/event-signin",
-"https://garycorderyforgovernor.com/home-1-1-1",
-"https://garycorderyforgovernor.com/key-issues-priorities",
-"https://garycorderyforgovernor.com/linktree",
-"https://garycorderyforgovernor.com/listen-to-gary",
-"https://garycorderyforgovernor.com/photo-consent",
-"https://garycorderyforgovernor.com/post/native-hawaiian-rights-justice-aloha",
-"https://garycorderyforgovernor.com/privacy-policy",
-"https://garycorderyforgovernor.com/sms-terms",
-"https://garycorderyforgovernor.com/subscribe",
-"https://garycorderyforgovernor.com/terms-and-conditions",
-"https://garycorderyforgovernor.com/vision",
-"https://garycorderyforgovernor.com/volunteer",
-"https://garycorderyforgovernor.com/vote-resources",
-"https://instagram.com/garycorderyforgovernor",
-"https://tiktok.com/@garycordery4governor",
-"https://x.com/GCForGov",
-"https://youtube.com/@Garycorderyforgovernor2026"
+{
+"text": "ABOUT GARY",
+"href": "https://www.garycorderyforgovernor.com/about-gary"
+},
+{
+"text": "ACCESSIBILITY",
+"href": "https://www.garycorderyforgovernor.com/accessibility"
+},
+{
+"text": "AFC About Page",
+"href": "https://www.alohafreedomcoalition.org/about/"
+},
+{
+"text": "Affordable Housing",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/affordable-housing"
+},
+{
+"text": "All Posts",
+"href": "https://www.garycorderyforgovernor.com/blog"
+},
+{
+"text": "BLOG",
+"href": "https://www.garycorderyforgovernor.com/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.garycorderyforgovernor.com/contact-us"
+},
+{
+"text": "CivilBeat.Org/2019",
+"href": "http://civilbeat.org/2019"
+},
+{
+"text": "CivilBeat.Org/2021",
+"href": "http://civilbeat.org/2021"
+},
+{
+"text": "Community",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/community"
+},
+{
+"text": "Cost of Living",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/cost-of-living"
+},
+{
+"text": "DONATE",
+"href": "https://www.garycorderyforgovernor.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://www.garycorderyforgovernor.com/donate-1"
+},
+{
+"text": "EVENT SIGN IN",
+"href": "https://www.garycorderyforgovernor.com/event-signin"
+},
+{
+"text": "EVENTS",
+"href": "https://www.garycorderyforgovernor.com/event-list"
+},
+{
+"text": "Education",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/education"
+},
+{
+"text": "EnvironmentHawaii.Org",
+"href": "https://www.environment-hawaii.org/?p=3571"
+},
+{
+"text": "File.Hawaii.Org/2023",
+"href": "https://files.hawaii.gov/auditor/Reports/2023/23-09.pdf"
+},
+{
+"text": "Files.Hawaii.Org/2024",
+"href": "http://files.hawaii.org/2024"
+},
+{
+"text": "Government Transparency",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/government-transparency"
+},
+{
+"text": "Government Transparency",
+"href": "https://www.garycorderyforgovernor.com/blog/tags/government-transparency"
+},
+{
+"text": "HOME",
+"href": "https://www.garycorderyforgovernor.com"
+},
+{
+"text": "Hawaii State Auditor Report",
+"href": "https://auditor.hawaii.gov/follow-up/"
+},
+{
+"text": "Honoring Native Hawaiian",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/honoring-native-hawaiian"
+},
+{
+"text": "Justice Through Aloha — Advancing Native Hawaiian Rights & Cultural Resilience",
+"href": "https://www.garycorderyforgovernor.com/post/native-hawaiian-rights-justice-aloha"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.garycorderyforgovernor.com/key-issues-priorities"
+},
+{
+"text": "LISTEN TO GARY",
+"href": "https://www.garycorderyforgovernor.com/listen-to-gary"
+},
+{
+"text": "LOCAL BUSINESSES",
+"href": "https://www.garycorderyforgovernor.com/business-vision"
+},
+{
+"text": "PHOTO CONSENT POLICY",
+"href": "https://www.garycorderyforgovernor.com/photo-consent"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.garycorderyforgovernor.com/privacy-policy"
+},
+{
+"text": "Plan for Transparency",
+"href": "https://www.garycorderyforgovernor.com/blog/categories/plan-for-transparency"
+},
+{
+"text": "SMS TERMS",
+"href": "https://www.garycorderyforgovernor.com/sms-terms"
+},
+{
+"text": "SOCIAL MEDIA",
+"href": "https://www.garycorderyforgovernor.com/linktree"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.garycorderyforgovernor.com/subscribe"
+},
+{
+"text": "See All",
+"href": "https://www.garycorderyforgovernor.com/blog"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.garycorderyforgovernor.com/terms-and-conditions"
+},
+{
+"text": "VISION",
+"href": "https://www.garycorderyforgovernor.com/vision"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.garycorderyforgovernor.com/volunteer"
+},
+{
+"text": "VOTE + LINKS",
+"href": "https://www.garycorderyforgovernor.com/vote-resources"
+},
+{
+"text": "Volunteer Today",
+"href": "https://www.garycorderyforgovernor.com/home-1-1-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/garycorderyforgovernor"
+},
+{
+"text": "[image: Gary Cordery For Governor Hawaii 2026 ]",
+"href": "https://www.garycorderyforgovernor.com/home-1-1-1"
+},
+{
+"text": "[image: Gary Cordey - Hawai‘i Governor Candidate 2026]",
+"href": "https://www.garycorderyforgovernor.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/garycorderyforgovernor/"
+},
+{
+"text": "[image: Justice Through Aloha — Advancing Native Hawaiian Rights & Cultural Resilience]",
+"href": "https://www.garycorderyforgovernor.com/post/native-hawaiian-rights-justice-aloha"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@garycordery4governor"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/GCForGov"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@Garycorderyforgovernor2026"
+},
+{
+"text": "[image: name.png]",
+"href": "https://www.garycorderyforgovernor.com"
+},
+{
+"text": "failures.",
+"href": "http://failures.files.hawaii.gov"
+}
 ]

@@ -4,20 +4,17 @@ Holmes | 0 Comment | 11:25 am Categories: News Trash and grit swirl in the air a
 The weekly chore dates back about 15 years to when Holmes first bought a house and moved to Wellington Hill.
 “I believe my neighborhood should be clean.
 I hate coming home to a dirty neighborhood,” Holmes says.
-Share this Post navigation PREVIOUS Previous post: ‘I want this thing to land’ NEXT Next post: Cote Village: A Victory for Hope over Blight Related Post Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
-Holmes Russell E.
-Holmes | 0 Comment | 8:05 am State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
-One measure, pushed by state Representative Russell Holmes, Read More Read More ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters July 25, 2022 July 25, 2022 | Russell E.
-Holmes Russell E.
-Holmes | 0 Comment | 11:36 am State Rep.
-Russell Holmes (left) and former Boston Police Capt.
-Haseeb Hosein were out last Friday evening taking down ‘Cash for Diabetic Supplies’ signs on American Legion Highway.
-Seth Daniel Read More Read More The Interview: State Representative Russell Holmes The Interview: State Representative Russell Holmes July 25, 2022 July 25, 2022 | Russell E.
+Share this Post navigation PREVIOUS Previous post: ‘I want this thing to land’ NEXT Next post: Cote Village: A Victory for Hope over Blight Related Post The Interview: State Representative Russell Holmes The Interview: State Representative Russell Holmes July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 11:34 am The outspoken state representative on what’s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.
-Share this Read More Read More “I Work for You.” You're my neighbors.
+Share this Read More Read More ‘I want this thing to land’ ‘I want this thing to land’ July 25, 2022 July 25, 2022 | Russell E.
+Holmes Russell E.
+Holmes | 0 Comment | 11:23 am Rep.
+Russell Holmes is ready to start screaming again over police reform bill.
+Holmes knows the “enormous amount of fire and pressure” now on lawmakers.
+The state must do something, Read More Read More Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
+Holmes Russell E.
+Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

@@ -4,13 +4,13 @@ His mother, Wende, is a healthcare professional.
 Raised alongside three siblings, Dillon was grounded in Christian family values, a strong work ethic, and the perseverance to stand by his principles no matter the challenge.
 Dillon graduated from Bettendorf High School in 2023 and is currently pursuing an Associate's Degree in Criminal Justice at Scott Community College.
 A talented hockey player, he chose to decline further hockey opportunities in order to focus on his education and his advocacy for the people of Iowa.
-A Record of Action Dillon began his activism during his junior year of high school and has since built an impressive record of real campaign experience.
-He has worked on Congresswoman Mariannette Miller-Meeks' reelection campaign, Scott Webster's State Senate campaign, Chris Rose's West Virginia State Senate campaign, and Eric Early's U.S.
-Senate campaign in California.
-Dillon also served as a field operator and precinct captain for Donald Trump's Iowa caucus operations.
-Across these campaigns, he has made tens of thousands of phone calls — connecting directly with voters and fighting for Iowa values at every level of government.
-Rooted in Faith and the Constitution Dillon is a Christian constitutionalist whose priorities are grounded in faith and principle.
-He is committed to defending religious freedom, supporting law enforcement, protecting Second Amendment rights, ensuring election integrity, and protecting the sanctity of life.
-Dillon is running because Iowans deserve a representative who truly understands their values and will fight for them every single day.
-He is running to be the true voice the everyday Iowan deserves.
+Rooted in Faith, Family, and Iowa Values Dillon is a young leader who is grounded in faith, family, hard work, and a deep love for the state of Iowa.
+He believes in serving others, working hard, keeping his word, and standing up for the people and communities he represents.
+Dillon brings a fresh perspective, a strong work ethic, and a genuine commitment to making Iowa an even better place to live, work, and raise a family.
+Dillon is running because Iowans deserve a representative who will listen to them, work for them, and never forget who he represents.
+He is running to be a strong, honest, and hardworking voice for the people of House District 81.
+A Grassroots Leader with Real Experience Dillon has volunteered and worked on political campaigns, gaining firsthand experience connecting with voters and communities.
+Through those experiences, he has had the opportunity to meet and learn from the great people of Iowa and see firsthand the values, hard work, and dedication that make Iowa such a special place.
+Those experiences have shaped Dillon and strengthened his commitment to serving the people of House District 81.
+He believes leadership starts with listening to people, understanding their concerns, and earning their trust through hard work and service.
 T G Paid for by Fillion for Iowa House Contact Us Privacy Policy Donation Policy

@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate Retired Lt.
+Home About Issues News Get Involved Contact Store Media Donate Retired Lt.
 Colonel and Host of “Montana Talks” Aaron Flint Launches Campaign for Congress in MT-01 Press Release March 2, 2026 Endorsed by Montana Leadership: Ryan Zinke, Greg Gianforte, Tim Sheehy, Troy Downing, Austin Knudsen WATCH: LAUNCH VIDEO (KALISPELL, MT) Today, retired Lieutenant Colonel and longtime Montana broadcaster, Aaron Flint, launched his campaign for Montana’s first congressional district.
 Flint seeks to succeed incumbent Congressman Ryan Zinke who announced his retirement after four terms.
 In 2024, Zinke won reelection by more than 8-points, and Donald Trump carried the district by 12-points.

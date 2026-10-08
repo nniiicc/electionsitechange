@@ -1,7 +1,4 @@
-Public Employees Federation (PEF) Endorses Borrello
-lhill5000
-Oct 15, 2022
-"As the candidate for the 57th Senate District, I am honored and grateful to have the endorsement of the Public Employees Federation (Official) (PEF).
+top of page All Posts Search Public Employees Federation (PEF) Endorses Borrello lhill5000 Oct 15, 2022 1 min read " As the candidate for the 57th Senate District, I am honored and grateful to have the endorsement of the Public Employees Federation (Official) (PEF).
 PEF’s 50,000 hardworking members invest their skills and expertise to help New York deliver critical programs and services while advancing goals important to our future.
 Their contributions are the engine that keeps New York moving forward.
-They are a credit to public servants everywhere and I am proud to have their support."
+They are a credit to public servants everywhere and I am proud to have their support. " Recent Posts See All SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Senator George Borrello Recognized as One of New York State’s Most Effective Republican Legislator SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

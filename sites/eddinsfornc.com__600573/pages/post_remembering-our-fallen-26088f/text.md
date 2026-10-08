@@ -1,6 +1,5 @@
-Remembering Our Fallen
-Updated: May 28, 2024
-Memorial Day has a special place in the hearts of all Americans.
+top of page HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items.
+DONATE Remembering Our Fallen Blair Eddins May 27, 2024 2 min read Updated: May 28, 2024 Memorial Day has a special place in the hearts of all Americans.
 It is not just another day that passes us by – it’s one that carries great significance.
 Today, Americans across our great country are gathering to pay tribute to the men and women who lost their lives defending the promise of America.
 They fought to protect our communities, our values and the very freedoms upon which our republic was founded.
@@ -17,5 +16,5 @@ But how do we do that?
 We teach our children, grandchildren, and future generations that loving America and its freedoms is not radical.
 Respecting the flag, reciting the Pledge of Allegiance, and singing the National Anthem are not radical either.
 Let’s teach them about the selfless sacrifices that were made, and are being made, to protect them.
-And let’s teach them that loving and serving your country, in any capacity, is not a radical or illegal idea either.
--Blair Eddins
+And let’s teach them that loving and serving your country, in any capacity, is not a radical or illegal idea either. -Blair Eddins Recent Posts See All Blair Eddins Files for Re‑Election to Represent North Carolina House District 94 Blair Eddins to be Sworn In as NC State Representative Eddins Picked by District Republicans to Replace Elmore Paid for by Eddins for NC P.O.
+Box 1133 Wilkesboro, NC 28697 HOME MEET BLAIR ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items. bottom of page

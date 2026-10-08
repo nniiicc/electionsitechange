@@ -44,10 +44,10 @@ Northfield Village Reminderville Sagamore Hills Twinsburg City Twinsburg Twp.
 Portage Aurora Mantua Twp.
 Streetsboro Volunteer With Us We appreciate any and all help! sign up here Upcoming Events Proudly Endorsed By: Send Samantha A Message Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * select I First Last Name * Email * Phone # * I Would Like To: (Please select ALL that Apply) Receive Campaign Updates via EMAIL Receive Campaign Updates via TEXT Receive a Promotional YARD SIGN Message Submit Paid for by Friends of Samantha Salamon JOIN SAMANTHA'S LIST FOR CAMPAIGN UPDATES!
+First Name * Last Name * Email * Phone # * I Would Like To: (Please select ALL that Apply) Receive Campaign Updates via EMAIL Receive Campaign Updates via TEXT Receive a Promotional YARD SIGN that To: ALL Message Submit Paid for by Friends of Samantha Salamon JOIN SAMANTHA'S LIST FOR CAMPAIGN UPDATES!
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * Last Name * Phone # (Please Email * Phone # * I Would Like To: (Please select ALL that Apply) Receive Campaign Updates via EMAIL Receive Campaign Updates via TEXT Receive a Promotional YARD SIGN Submit JOIN SAMANTHA'S LIST FOR CAMPAIGN UPDATES!
+First Name * Last Name * Email * Like Name # Phone # * I Would Like To: (Please select ALL that Apply) Receive Campaign Updates via EMAIL Receive Campaign Updates via TEXT Receive a Promotional YARD SIGN Submit JOIN SAMANTHA'S LIST FOR CAMPAIGN UPDATES!
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * select Would First Last Name * Email * Phone # * I Would Like To: (Please select ALL that Apply) Receive Campaign Updates via EMAIL Receive Campaign Updates via TEXT Receive a Promotional YARD SIGN Submit About Samantha Samantha’s Priorities About District 35 Event Calendar DONATE EMAIL SAMANTHA
+Name Name Would First Name * Last Name * Email * Phone # * I Would Like To: (Please select ALL that Apply) Receive Campaign Updates via EMAIL Receive Campaign Updates via TEXT Receive a Promotional YARD SIGN Submit About Samantha Samantha’s Priorities About District 35 Event Calendar DONATE EMAIL SAMANTHA

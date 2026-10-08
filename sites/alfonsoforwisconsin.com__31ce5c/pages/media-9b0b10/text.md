@@ -1,4 +1,20 @@
-Skip to content Meet Michael Issues Media & Endorsements Join the Team Back Donate Michael Alfonso Endorsed by Trusted Conservative Leaders & Organizations Endorsements Organizations/Grassroots Pro-Life Wisconsin CatholicVote American Conservation Coalition Action Wisconsin Federation of College Republicans College Republicans of America Turning Point Action Stand for Health Freedom Wisconsin Young Republicans Wisconsin Family Action State PAC MAHA Action Scarlett Johnson Jack Hoogendyk Joe Giganti Press releases: Wisconsin REALTORS Association Endorses Michael Alfonso for Congress October 6, 2026 The Wisconsin REALTORS Association endorsed Michael Alfonso for Congress in Wisconsin’s 7th Congressional District.
+Skip to content Meet Michael Issues Media & Endorsements Join the Team Back Donate Michael Alfonso Endorsed by Trusted Conservative Leaders & Organizations Endorsements Organizations/Grassroots Pro-Life Wisconsin CatholicVote American Conservation Coalition Action Wisconsin Federation of College Republicans College Republicans of America Turning Point Action Stand for Health Freedom Wisconsin Young Republicans Wisconsin Family Action State PAC MAHA Action Scarlett Johnson Jack Hoogendyk Joe Giganti Press releases: Alfonso Campaign Releases New Six-Figure Ad: “We Deserve Better Than Fred Clark” October 7, 2026 Fred Clark says he stands up for women.
+This is the same Fred Clark who threatened to “smack”’ around a female constituent, and who stands with DC Democrats pushing biological men into women’s sports, locker… Read More × Alfonso Campaign Releases New Six-Figure Ad: “We Deserve Better Than Fred Clark” Fred Clark says he stands up for women.
+This is the same Fred Clark who threatened to “smack”’ around a female constituent, and who stands with DC Democrats pushing biological men into women’s sports, locker rooms, and private spaces.
+DC Democrats also pretend men can get pregnant and use deeply offensive terms like “birthing person” and “chest feeding.” As the new ad says, Wisconsin’s 7th “deserves better than Fred Clark” who: Refused to pay child support for his own child and had to be forced by a court to pay.
+Court records show his payments were not raised for more than a year after he won his Assembly seat, leaving him 26 months behind.
+Threatened to “smack” around a female constituent.
+In 2011, Clark was calling voters in a recall race against Republican state Sen.
+Luther Olsen when he reached constituent Sue Stapelman.
+Clark pitched Stapelman on voting for him.
+Stapelman responded dismissively to his pitch, and hung up.
+Clark then told a campaign aide, “OK.
+I feel like calling her back and smackin’ her around.” The six-figure ad buy released today from the Alfonso campaign hammers Fred Clark for being a Deadbeat Dad and will run on broadcast, cable, and streaming, as well as digital and will air in the Wausau, Minneapolis, Duluth, La Crosse, Madison & Marquette markets.
+The ad contrasts Democrat Fred Clark’s poor character with Michael Alfonso who “knows the struggles families are facing and will fight to lower taxes, tame inflation, and keep good-paying jobs here at home” in Wisconsin’s 7th district.
+Watch the new ad here.
+“A court had to order my Democrat opponent to pay child support for his own kid.
+He also wanted to ‘slap around’ his female constituent, says men can get pregnant, and wants men in girls’ private spaces.
+WI-7 doesn’t need Deadbeat Dad Fred Clark representing them in Congress.” -Michael Alfonso, Republican nominee for WI-7 Wisconsin REALTORS Association Endorses Michael Alfonso for Congress October 6, 2026 The Wisconsin REALTORS Association endorsed Michael Alfonso for Congress in Wisconsin’s 7th Congressional District.
 In Congress, Alfonso will work to lower the cost of buying a home and cut the regulations that make it harder… Read More × Wisconsin REALTORS Association Endorses Michael Alfonso for Congress The Wisconsin REALTORS Association endorsed Michael Alfonso for Congress in Wisconsin’s 7th Congressional District.
 In Congress, Alfonso will work to lower the cost of buying a home and cut the regulations that make it harder to build, so more Wisconsin families can achieve homeownership.
 “I’m honored to have the endorsement of the Wisconsin REALTORS® Association,” said Alfonso.
@@ -155,15 +171,6 @@ Decreased the agriculture trade deficit by over 40% in just 18 months.
 Ended the electric vehicle mandate, which would have gutted the ethanol industry.
 Issued a new rule giving farmers the right to repair, saving the average farmer up to $30,000 on major repairs.
 President Trump promised to fight for America’s farmers, and he is delivering — and Michael Alfonso is running to be a partner in Congress to keep that promise for 7th District voters.
-Trump-endorsed Michael Alfonso Announced He’s Raised More than $1.2 Million in Bid for Wisconsin’s 7th Congressional District July 16, 2026 Trump-endorsed Michael Alfonso announced that his campaign has raised more than $1.2 million cycle to date in the race to represent Wisconsin’s 7th Congressional District.
-Alfonso has been endorsed by President Donald J.
-Trump,Speaker of… Read More × Trump-endorsed Michael Alfonso Announced He’s Raised More than $# Million in Bid for Wisconsin’s 7th Congressional District Trump-endorsed Michael Alfonso announced that his campaign has raised more than $1.2 million cycle to date in the race to represent Wisconsin’s 7th Congressional District.
-Alfonso has been endorsed by President Donald J.
-Trump, Speaker of the House Mike Johnson, House Majority Leader Steve Scalise, House Majority Whip Tom Emmer, and numerous grassroots leaders from across Wisconsin and the nation.
-The campaign’s second-quarter fundraising success reflects growing enthusiasm from grassroots supporters across Wisconsin’s 7th District.
-Wisconsin remains the campaign’s top state for donations, underscoring the strong home-state support behind Alfonso’s candidacy as momentum continues to build heading into the final stretch before the primary.
-“This quarter’s fundraising success sends a clear message: conservatives are uniting behind Michael Alfonso because they know he’ll stand up for Wisconsin values and be a strong partner for President Trump in Congress,” said Alfonso for Congress Campaign Manager William Blathras.
-In the final weeks before the primary, Alfonso will continue traveling across Wisconsin’s 7th District, meeting with voters and discussing the issues that matter most to Wisconsin families, farmers, small businesses, and rural communities.
 News Headlines: Breitbart: Democrat Fred Clark Backed Taxpayer-Funded ‘Support Planned Parenthood’ License Plate Plan in Wisconsin August 31, 2026 Wisconsin Democrat congressional nominee for WI-7, Fred Clark, cosponsored legislation during his time in the State Assembly that would have created special “Support Planned Parenthood” license plates, authorized $23,700 in state funding for their initial production, and directed proceeds from an additional $25 annual plate fee, after initial production costs, to Planned Parenthood of Wisconsin.
 Clark, who is now running against Trump-endorsed Republican Michael Alfonso in Wisconsin’s 7th Congressional District, joined forces with then-state Rep.
 Mark Pocan, now a Democratic congressman representing Wisconsin’s 2nd Congressional District to try to push this through.

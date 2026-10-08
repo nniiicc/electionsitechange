@@ -1,5 +1,4 @@
-About Me
-My husband and I moved to Amherst in 2004 looking for a town with a good education and activities for families.
+Skip to content Stephanie Grund for NH House Partnering for Progress, Innovating for Tomorrow About Contact About Me My husband and I moved to Amherst in 2004 looking for a town with a good education and activities for families.
 We raised our two children in Amherst and they both graduated from Souhegan Cooperative High School.
 I have volunteered in town through Amherst Junior Women’s Club running various fundraisers and activities as well as being a past President of the organization.
 I was a Girl Scout Leader for two troops for over twelve years as well as being the Finance Coordinator for the town wide Girl Scout program.
@@ -7,8 +6,7 @@ I have volunteered for the Amherst Ways & Means Committee and worked with the To
 I also volunteered with the PTSA coordinating teacher lunches and giving grants to teachers to support their programs and giving scholarships to graduating Seniors.
 Most recently, I am Chair of the Souhegan Cooperative School Board working on providing a strong education for all students.
 We need to ensure that there are different pathways for education whether the student is considering a two or four year college or university, interested in CTE programs, the military, or entering the workforce.
-Why I want to represent Amherst
-I want to represent the people of Amherst because we believe in a strong education and learning pathways.
+Why I want to represent Amherst I want to represent the people of Amherst because we believe in a strong education and learning pathways.
 We need to look at our housing concerns and we need to look where our tax revenue is coming from to support growth and changes.
 This is true throughout New Hampshire.
 We need common sense, fiscally responsible approaches and solutions.

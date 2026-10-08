@@ -1,20 +1,12 @@
-A labor look at the 2024 Oregon Legislature
-Organized labor notched several legislative wins in the five-week “short session” of the Oregon Legislature that ended March 7…
-A labor look at the 2024 Oregon Legislature Read More »
-Skip to content
-In The Capitol
-A labor look at the 2024 Oregon Legislature
-Organized labor notched several legislative wins in the five-week “short session” of the Oregon Legislature that ended March 7…
-A labor look at the 2024 Oregon Legislature Read More »
-The Good, the Bad and the Awful: Oregon House
-A firefighter for Tualatin Valley Fire & Rescue in her day job, Grayber, 48, rocketed to the top of this year’s rankings.
-“Smart, tough and a quick learner” was a typical assessment…
-The Good, the Bad and the Awful: Oregon House Read More »
-Could this Year’s Class of First-Term Lawmakers be Oregon’s Most Effective?
-As the Oregon Legislature wrapped up the 2021 session last month with historic investments in just about every area, lawmakers agreed on one bold reality: This year’s “freshman” class might be the most effective in recent memory…
-Could this Year’s Class of First-Term Lawmakers be Oregon’s Most Effective?
-Read More »
-Bill Readings in the Oregon Legislature Become Battleground for More Partisan Gridlock
-How fast can you read through a 170-page bill?
-That very question is what has Oregon House Democrats on edge as the pandemic ignites tensions over workplace safety…
-Bill Readings in the Oregon Legislature Become Battleground for More Partisan Gridlock Read More »
+Skip to content Dacia for Oregon Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact DONATE Meet Dacia Our Work Endorsements Media Volunteer Contact In The Capitol A labor look at the 2024 Oregon Legislature In The Capitol , Labor / Dacia Grayber Organized labor notched several legislative wins in the five-week “short session” of the Oregon Legislature that ended March 7… A labor look at the 2024 Oregon Legislature Read More » The Good, the Bad and the Awful: Oregon House In The Capitol / Dacia Grayber A firefighter for Tualatin Valley Fire & Rescue in her day job, Grayber, 48, rocketed to the top of this year’s rankings.
+“Smart, tough and a quick learner” was a typical assessment… The Good, the Bad and the Awful: Oregon House Read More » Could this Year’s Class of First-Term Lawmakers be Oregon’s Most Effective?
+In The Capitol / Dacia Grayber As the Oregon Legislature wrapped up the 2021 session last month with historic investments in just about every area, lawmakers agreed on one bold reality: This year’s “freshman” class might be the most effective in recent memory… Could this Year’s Class of First-Term Lawmakers be Oregon’s Most Effective?
+Read More » Bill Readings in the Oregon Legislature Become Battleground for More Partisan Gridlock In The Capitol / Dacia Grayber How fast can you read through a 170-page bill?
+That very question is what has Oregon House Democrats on edge as the pandemic ignites tensions over workplace safety… Bill Readings in the Oregon Legislature Become Battleground for More Partisan Gridlock Read More » Join Dacia Grayber for Oregon House District 28 Please enable JavaScript in your browser to complete this form.
+Name * First Last Postal Email Name Email * Phone Number Postal Code Checkboxes By checking this box, you consent to receive campaign and news updates from Dacia Grayber.
+You can unsubscribe anytime.
+COUNT ME IN Donate Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact Meet Dacia Our Work Endorsements Media Volunteer Contact

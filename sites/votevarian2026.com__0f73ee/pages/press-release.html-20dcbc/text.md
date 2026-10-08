@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid OP-ED The Omission in FL-14: How Stadium Deals are Blindfolding Tampa to the 2028 Financial Cliff As the midterm elections approach in Florida’s 14th Congressional District, voters are being treated to a highly predictable script.
 The major campaigns debate national inflation and federal spending from a safe distance, but both are participating in a glaring, dangerous omission regarding the fiscal reality right here in Tampa.
 They are celebrating local growth and short-term state surpluses while completely blindfolding voters to a massive economic pincer movement set to collide in 2028.

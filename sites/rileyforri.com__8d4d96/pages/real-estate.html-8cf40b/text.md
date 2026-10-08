@@ -1,4 +1,4 @@
-Skip to main content Tuesday, September 29 · An Evening with Lou Riley · Alpine Country Club, Cranston RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues Real Estate Pros How to Vote Get Involved Endorsements RSVP · Sept 29 Get in Touch For Rhode Island Real Estate Professionals Brokers, agents, lenders, title people, appraisers, investors, landlords, and the attorneys who close it all.
+Skip to main content Saturday, October 17 · Come Meet Lou · Merola’s, Scituate · 3–5 PM RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues How to Vote Get Involved Endorsements RSVP · Oct 17 Get in Touch For Rhode Island Real Estate Professionals Brokers, agents, lenders, title people, appraisers, investors, landlords, and the attorneys who close it all.
 This page is for you, and it assumes you already know the terminology.
 If I win this seat, I will be the member of the Rhode Island House with the deepest working knowledge of land use and development, brokerage, real estate investment, tax sales, mortgage foreclosure, and landlord-tenant law.
 Not the most opinions about it — the most reps.
@@ -14,14 +14,8 @@ What this page is not.
 Nothing here is legal advice, and reading it does not make you my client.
 Everything below is a policy position I am running on.
 If you have an actual matter, talk to your own counsel about your own facts.
-The centerpiece Rhode Island’s foreclosure and tax sale statutes are decades behind the practice.
-That gap costs people their equity, and it costs the rest of us title certainty.
-I have represented people on the wrong end of a wrongful or improperly conducted foreclosure sale.
-I have also represented buyers and lenders who inherited the mess a defective sale left behind.
-Both sides of that are expensive, and both sides are avoidable.
-The statutes governing how property is taken in this state were not written for how property is actually taken in this state.
-This is the single area where my experience converts most directly into better law, so it is the first thing I will work on.
-Mortgage foreclosure: bring the statute up to current practice Rhode Island foreclosure is overwhelmingly non-judicial.
+Mortgage foreclosure: bring the statute up to current practice The rest of this page is the longer-term work — the statutory cleanup that does not make headlines but decides whether people keep their equity and whether title in this state is worth anything.
+Rhode Island foreclosure is overwhelmingly non-judicial.
 A lender exercises the statutory power of sale, publishes, mails, auctions on the courthouse steps or the front lawn, and delivers a foreclosure deed.
 There is no judge in the ordinary case.
 That makes the statutory formalities the only protection a homeowner has, and it makes those same formalities the only thing standing between a subsequent buyer and a clouded title.
@@ -152,8 +146,8 @@ Rhode Island is about to have a real estate lawyer in the House.
 Use him.
 The industry has spent years reacting to bills after they pass.
 It would be nice to have someone in the room while they are being drafted.
-Talk to Lou Where Lou Stands Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Endorsements How to Vote Get Involved Sept.
-29 Reception Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
+Talk to Lou Where Lou Stands Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Real Estate Pros Endorsements How to Vote Get Involved Oct.
+17 Meet & Greet Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
 178 Broadway, Providence, RI 02903.
 Authorized by the candidate.
 Privacy Policy © 2026 Friends of Michael Riley

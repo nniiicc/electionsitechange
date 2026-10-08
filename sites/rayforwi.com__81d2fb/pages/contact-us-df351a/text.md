@@ -1,4 +1,8 @@
-0 Skip to Content Home About Volunteer Upcoming Events Platform The Issues Media Donate Open Menu Close Menu Home About Volunteer Upcoming Events Platform The Issues Media Donate Open Menu Close Menu Home About Volunteer Upcoming Events Folder: Platform Back The Issues Media Donate Volunteer with us!
+0 Skip to Content Home About Volunteer/Signs Upcoming Events Platform The Issues Media Donate Open Menu Close Menu Home About Volunteer/Signs Upcoming Events Platform The Issues Media Donate Open Menu Close Menu Home About Volunteer/Signs Upcoming Events Folder: Platform Back The Issues Media Donate Signs!
+Interested in a yard sign?
+Please click the button below and sign up to get yours!
+If you experience any difficulties or have questions, reach out to info@rayforwi.com and we will assist.
+Sign Form Volunteer with us!
 Our campaign is committed to putting people first and working for the North.
 Join us as we work together to protect rural communities and build a better future for Northwest Wisconsin!
 Want to be part of the campaign?

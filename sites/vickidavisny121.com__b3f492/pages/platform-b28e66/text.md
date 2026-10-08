@@ -5,4 +5,5 @@ My priorities: Quality of Life Basic necessities from broadband to water Childca
 We underestimate our assets here in Central New York.
 Too often our leaders pitch solutions that are cost-effective in the short term but devastating in the long term.
 Let’s invest in our citizens.
-New York Health Act Read More Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top
+New York Health Act Read More Vicki Davis for NYS Assembly 121 P.O.
+Box 135 Unadilla, NY 13849 Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

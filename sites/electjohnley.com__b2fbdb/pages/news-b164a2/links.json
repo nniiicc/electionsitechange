@@ -12,10 +12,6 @@
 "href": "https://secure.anedot.com/friends-to-elect-john-ley/donate"
 },
 {
-"text": "Fighting to get Brockmann open",
-"href": "https://electjohnley.com/fighting-to-get-brockmann-open/"
-},
-{
 "text": "Home",
 "href": "https://electjohnley.com/"
 },
@@ -48,12 +44,12 @@
 "href": "https://electjohnley.com/news/page/2/"
 },
 {
-"text": "Peter Abbarno: Sarah Mittelman is the ‘perfect candidate’ for the 49th District",
-"href": "https://electjohnley.com/peter-abbarno-sarah-mittelman-is-the-perfect-candidate-for-the-49th-district/"
+"text": "Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset",
+"href": "https://electjohnley.com/olympias-spending-spree-why-washingtons-17-billion-tax-surge-demands-a-fiscal-reset/"
 },
 {
-"text": "Read more",
-"href": "https://electjohnley.com/fighting-to-get-brockmann-open/"
+"text": "Opinion: They’re coming for your money — and your retirement",
+"href": "https://electjohnley.com/opinion-theyre-coming-for-your-money-and-your-retirement/"
 },
 {
 "text": "Read more",
@@ -61,7 +57,11 @@
 },
 {
 "text": "Read more",
-"href": "https://electjohnley.com/peter-abbarno-sarah-mittelman-is-the-perfect-candidate-for-the-49th-district/"
+"href": "https://electjohnley.com/olympias-spending-spree-why-washingtons-17-billion-tax-surge-demands-a-fiscal-reset/"
+},
+{
+"text": "Read more",
+"href": "https://electjohnley.com/opinion-theyre-coming-for-your-money-and-your-retirement/"
 },
 {
 "text": "Read more",
@@ -136,12 +136,16 @@
 "href": "https://electjohnley.com/"
 },
 {
-"text": "[image: Fighting to get Brockmann open]",
-"href": "https://electjohnley.com/fighting-to-get-brockmann-open/"
-},
-{
 "text": "[image: Northwest Politics NOW — KOIN Interview]",
 "href": "https://electjohnley.com/northwest-politics-now-koin-interview/"
+},
+{
+"text": "[image: Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset]",
+"href": "https://electjohnley.com/olympias-spending-spree-why-washingtons-17-billion-tax-surge-demands-a-fiscal-reset/"
+},
+{
+"text": "[image: Opinion: They’re coming for your money — and your retirement]",
+"href": "https://electjohnley.com/opinion-theyre-coming-for-your-money-and-your-retirement/"
 },
 {
 "text": "[image: Stop rewarding fiscal mismanagement on the IBR; enough is enough]",
@@ -173,15 +177,15 @@
 },
 {
 "text": "[image]",
-"href": "https://electjohnley.com/stop-rewarding-fiscal-mismanagement-on-the-ibr-enough-is-enough/"
+"href": "https://electjohnley.com/olympias-spending-spree-why-washingtons-17-billion-tax-surge-demands-a-fiscal-reset/"
+},
+{
+"text": "[image]",
+"href": "https://electjohnley.com/opinion-theyre-coming-for-your-money-and-your-retirement/"
 },
 {
 "text": "[image]",
 "href": "https://electjohnley.com/washington-has-a-spending-addiction/"
-},
-{
-"text": "[image]",
-"href": "https://electjohnley.com/washington-lawmaker-warns-ballooning-bridge-budget-needs-reality-check/"
 },
 {
 "text": "[no text]",
@@ -201,15 +205,15 @@
 },
 {
 "text": "[tooltip: Share on Facebook]",
-"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Ffighting-to-get-brockmann-open%2F"
-},
-{
-"text": "[tooltip: Share on Facebook]",
 "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Fnorthwest-politics-now-koin-interview%2F"
 },
 {
 "text": "[tooltip: Share on Facebook]",
-"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Fpeter-abbarno-sarah-mittelman-is-the-perfect-candidate-for-the-49th-district%2F"
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Folympias-spending-spree-why-washingtons-17-billion-tax-surge-demands-a-fiscal-reset%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectjohnley.com%2Fopinion-theyre-coming-for-your-money-and-your-retirement%2F"
 },
 {
 "text": "[tooltip: Share on Facebook]",
@@ -241,15 +245,15 @@
 },
 {
 "text": "[tooltip: Share on Linkedin]",
-"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Ffighting-to-get-brockmann-open%2F"
-},
-{
-"text": "[tooltip: Share on Linkedin]",
 "href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Fnorthwest-politics-now-koin-interview%2F"
 },
 {
 "text": "[tooltip: Share on Linkedin]",
-"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Fpeter-abbarno-sarah-mittelman-is-the-perfect-candidate-for-the-49th-district%2F"
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Folympias-spending-spree-why-washingtons-17-billion-tax-surge-demands-a-fiscal-reset%2F"
+},
+{
+"text": "[tooltip: Share on Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Felectjohnley.com%2Fopinion-theyre-coming-for-your-money-and-your-retirement%2F"
 },
 {
 "text": "[tooltip: Share on Linkedin]",
@@ -281,15 +285,15 @@
 },
 {
 "text": "[tooltip: Share on Twitter]",
-"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Ffighting-to-get-brockmann-open%2F"
-},
-{
-"text": "[tooltip: Share on Twitter]",
 "href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Fnorthwest-politics-now-koin-interview%2F"
 },
 {
 "text": "[tooltip: Share on Twitter]",
-"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Fpeter-abbarno-sarah-mittelman-is-the-perfect-candidate-for-the-49th-district%2F"
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Folympias-spending-spree-why-washingtons-17-billion-tax-surge-demands-a-fiscal-reset%2F"
+},
+{
+"text": "[tooltip: Share on Twitter]",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Felectjohnley.com%2Fopinion-theyre-coming-for-your-money-and-your-retirement%2F"
 },
 {
 "text": "[tooltip: Share on Twitter]",

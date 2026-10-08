@@ -1,9 +1,9 @@
 Skip to content Yard signs now available!
 Contact (828) 400-4812 to request yours Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact Donate Donate YARD SIGNS NOW AVAILABLE!
-CONTACT (828) 400-4812 TO REQUEST YOURS Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact 10 events found.
+CONTACT (828) 400-4812 TO REQUEST YOURS Home About Issues Disaster Recovery Economy Education Healthcare Public Safety Small Businesses Volunteer News Events Contact 11 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 1/10/2026 January 10 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 1/10/2026 January 10 - 10/8/2026 Now Select date.
 January 2026 Sat 10 Meet Danny Davis January 10 @ 3:00 pm - 5:00 pm Asheville Yards 75 Coxe Ave, Asheville, North Carolina, United States Come out and meet Danny Davis this Saturday at Asheville Yards!
 No speeches, no pressure; just a chance to connect, enjoy good company, and kick off the year with community.
 We’d love to see you there!
@@ -41,6 +41,8 @@ Join us Saturday, October 3 from 4–6 PM at Big Pillow Brewing in Hot Springs f
 No speeches from across a room.
 No ticket required.
 No RSVP needed....
+Wed 7 Meet Danny Davis in Mars hill October 7 @ 5:30 pm - 7:30 pm Bentley Fellowship Hall 265 Cascade Street, Mars Hill, North Carolina, United States Join us Wednesday, October 7 at Mars Hill University for a community conversation with Danny Davis and Frank Hughes.
+This is an opportunity to hear directly from the candidates, ask questions of your own, and be part of the conversation about the future of our community. 📅 Wednesday, October 7⏰ 5:30 PM📍 Bentley Fellowship Hall,...
 Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file PAID FOR BY DAVIS FOR NC HOUSE 118 Email * Stay Informed QUICK LINKS Meet Danny Issues Contact GET INVOLVED Volunteer Events Donate STAY CONNECTED Facebook Instagram TikTok X/Twitter YouTube Contact: Danny@Davis4NCHouse.com | P.O.
 Box 196, Waynesville, NC 28786 Copyright © 2026 Davis For NC House 118 | Privacy Policy | Designed by WNC Web Design English English Deutsch Español Français Italiano Polski Svenska Suomi Português Română Slovenščina Slovenčina Nederlands Dansk Ελληνικά Čeština Magyar Lietuvių Latviešu Eesti Hrvatski Gaeilge Български Norsk Türkçe Bahasa Indonesia Português (Brasil) 日本語 한국어 简体中文 العربية Русский हिन्दी Українська Srpski English (UK) فارسی עברית Македонски ไทย Tiếng Việt Accessibility Adjustments Powered by OneTap Hide Toolbar Back How long do you want to hide the toolbar?
 Hide Toolbar Duration Only for this session 24 hours A Week Not Now Hide Toolbar Select your accessibility profile Vision Impaired Mode Enhances website's visuals Vision Impaired Mode Seizure Safe Profile Clear flashes & reduces color Seizure Safe Profile ADHD Friendly Mode Focused browsing, distraction-free ADHD Friendly Mode Blindness Mode Reduces distractions, improves focus Blindness Mode Epilepsy Safe Mode Dims colors and stops blinking Epilepsy Safe Mode Content Modules Font Size + Default - Readable Font Line Height + Default - Cursor Letter Spacing Align Text Font Weight Color Modules Light Contrast High Contrast Monochrome Orientation Modules Reading Line Reading Mask Hide Images Highlight Content Stop Animations Highlight Links Skip To Content Choose...

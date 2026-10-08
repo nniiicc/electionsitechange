@@ -1,7 +1,9 @@
 {
  "description": "Cal Forrest in the News",
  "final_url": "https://forrestforhouse.com/news",
- "paid_for_by": null,
+ "fingerprint": "46b15c2f6e67034146fbdad8aca022de8bb8e5ac",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
  "years_mentioned": [
   "2018",

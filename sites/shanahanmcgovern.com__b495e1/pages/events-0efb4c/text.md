@@ -1,2 +1,2 @@
-Meet Christine Issues Volunteer Donate Contact Events Christine McGovern Illinois State Senate District 18 #ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Meet Christine Issues Volunteer Donate Contact Events Christine McGovern Illinois State Senate District 18 #ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

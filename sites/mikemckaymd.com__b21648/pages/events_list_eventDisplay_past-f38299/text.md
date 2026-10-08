@@ -4,7 +4,7 @@ Mike McKay has voted on Senate Scholarship Program Information on how to apply O
 Mike McKay Volunteer Meet Mike Georges Creek Flood Response Sponsored Legislation Voting Record Senate Scholarship Program Office Contact News & Updates Events Volunteer Donate 12 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 10/11/2023 October 11, 2023 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 10/11/2023 October 11, 2023 - 10/8/2026 Now Select date.
 October 2023 Wed 11 Join State Senator Mike McKay For A Scenic Trip Through Western Maryland October 11, 2023 @ 6:00 pm - 8:00 pm Western Maryland Scenic Railroad 13 Canal St, Cumberland, MD, United States You’re Invited!
 Climb Aboard A Steam Train Through Scenic Western Maryland While Enjoying Scotch And Cigars!
 Deluxe Coach & Cash Bar- $100 Per Ticket Premium Experience (Cigar Included)- $175 Per Ticket Western Maryland Scenic Railroad 13 Canal St, Cumberland, MD 21502 October 11th | 7:00-9:30pm Check-In 5:00-5:30pm To Purchase Tickets, Click Here.

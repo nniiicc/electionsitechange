@@ -1,14 +1,15 @@
 Skip navigation menu About Endorsements Issues Volunteer Store News Media Donate Only Marni Can Flip the 48th!
 About Endorsements Issues Volunteer Store News Media Donate Only Marni Can Flip the 48th!
 We strongly support Marni von Wilpert for Congress Barbara Boxer former u.s.
-Senator Mark Takano u.s.
-Representative (CA-39) Adam Schiff U.s.
+Senator Alex Padilla U.S.
+Senator Adam Schiff U.s.
 Senator I.A.F.F.
-Local 145 California Federation of Labor Unions, AFL-CIO California Teachers Association SEIU California Planned Parenthood Action Fund Equality PAC Juan Vargas u.s.
+Local 145 California Federation of Labor Unions, AFL-CIO California Teachers Association SEIU California San Diego Police Officers Association Planned Parenthood Action Fund Juan Vargas u.s.
 Representative (CA-52) Sara Jacobs u.s.
 Representative (CA-51) Scott Peters u.s.
 Representative (CA-50) Mike Levin u.s.
-Representative (CA-49) Gil Cisneros u.s.
+Representative (CA-49) Mark Takano u.s.
+Representative (CA-39) Gil Cisneros u.s.
 Representative (CA-31) Julia Brownley u.s.
 Representative (CA-26) Becca Balint u.s.
 Representative (VT-AL) Emily Randall u.s.

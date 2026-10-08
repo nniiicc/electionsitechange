@@ -35,18 +35,31 @@ My focus won’t be on policing our personal lives: instead, it’ll be to grow 
 Building Strong Communities I will ensure that Nebraska is a place where our children will want to live when they grow up.
 In addition to creating economic opportunities, we need to ensure our communities are thriving so families want to live here.
 We need strong schools, vibrant community spaces, strong main streets, and continued investments for police officers and firefighters to keep us safe.
-Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) Play Nebraska's farmers are having their worst year in decades, and Jim Pillen's answer is a campaign stop.
-But while he needs help from Washington, Nebraska's farmers need their markets back.
-Here's the truth Jim Pillen doesn't want you to hear. ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 1359 Shares: 183 Comments: 160 160 Comments Comment on Facebook Ben and I are in Scottsbluff tomorrow afternoon at the Legacy of the Plains Museum.
-Stop in, bring a neighbor, and tell us what the Panhandle needs from its next Governor! ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 188 Shares: 25 Comments: 21 21 Comments Comment on Facebook Lynne Walz Follow 985 2,829 Proud wife, mother, grandmother, and Nebraskan.
+Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) 🚨Another week, another poll showing this race tied.
+Four weeks out, we've moved to being neck and neck with Jim Pillen.
+Help us carry it across the finish line and build a better Nebraska. secure.actblue.com/donate/lwne-all-social-oct2026-fr-yougovpoll ...
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 591 Shares: 18 Comments: 149 149 Comments Comment on Facebook What a turnout in Gering yesterday!
+Ben and I are grateful to everyone who came out.
+Western Nebraska's challenges deserve a Governor who has actually listened to them.
+We'll keep showing up in every corner of this state - and that's a promise. ...
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 416 Shares: 25 Comments: 47 47 Comments Comment on Facebook Lynne Walz Follow 987 2,832 Proud wife, mother, grandmother, and Nebraskan.
 Running to be Nebraska’s next Governor.
-Lynne Walz @lynnewalz · 5 Oct 2107217242320470493 Nebraska's farmers are having their worst year in decades, and Jim Pillen's answer is a campaign stop.
+Lynne Walz @lynnewalz · 14h 2107907235590623363 🚨Another week, another poll showing this race tied.
+Four weeks out, we've moved to being neck and neck with Jim Pillen.
+Help us carry it across the finish line and build a better Nebraska. https://secure.actblue.com/donate/lwne-all-social-oct2026-fr-yougovpoll Twitter feed image.
+Reply on Twitter 2107907235590623363 17 Retweet on Twitter 2107907235590623363 24 Like on Twitter 2107907235590623363 80 X 2107907235590623363 Lynne Walz @lynnewalz · 18h 2107840520798261264 What a turnout in Gering yesterday!
+Ben and I are grateful to everyone who came out.
+Western Nebraska's challenges deserve a Governor who has actually listened to them.
+We'll keep showing up in every corner of this state — and that's a promise.
+Twitter feed image.
+Twitter feed image.
+Twitter feed image.
+Twitter feed image.
+Reply on Twitter 2107840520798261264 10 Retweet on Twitter 2107840520798261264 11 Like on Twitter 2107840520798261264 76 X 2107840520798261264 Lynne Walz @lynnewalz · 5 Oct 2107217242320470493 Nebraska's farmers are having their worst year in decades, and Jim Pillen's answer is a campaign stop.
 But while he needs help from Washington, Nebraska's farmers need their markets back.
 Here's the truth Jim Pillen doesn't want you to hear.
 Twitter feed video.
-Reply on Twitter 2107217242320470493 32 Retweet on Twitter 2107217242320470493 52 Like on Twitter 2107217242320470493 183 X 2107217242320470493 Lynne Walz @lynnewalz · 5 Oct 2107208271580856722 Ben and I are in Scottsbluff tomorrow afternoon at the Legacy of the Plains Museum.
+Reply on Twitter 2107217242320470493 38 Retweet on Twitter 2107217242320470493 53 Like on Twitter 2107217242320470493 189 X 2107217242320470493 Lynne Walz @lynnewalz · 5 Oct 2107208271580856722 Ben and I are in Scottsbluff tomorrow afternoon at the Legacy of the Plains Museum.
 Stop in, bring a neighbor, and tell us what the Panhandle needs from its next Governor!
 Twitter feed image.
 Reply on Twitter 2107208271580856722 6 Retweet on Twitter 2107208271580856722 5 Like on Twitter 2107208271580856722 23 X 2107208271580856722 Lynne Walz @lynnewalz · 5 Oct 2106938258944881135 Chadron, Ben Steffen is coming your way tomorrow for a meet and greet at the Chadron Country Kitchen at 5:00.
@@ -84,18 +97,7 @@ Reply on Twitter 2105005745116729681 54 Retweet on Twitter 2105005745116729681 7
 Join me tomorrow night at Jackson's Fair Deal Cafe from 6 to 7 for a listening session.
 Come say hello and bring a neighbor - I want to hear what's on your mind and how we can win this November!
 Twitter feed image.
-Reply on Twitter 2104827236708663473 5 Retweet on Twitter 2104827236708663473 7 Like on Twitter 2104827236708663473 30 X 2104827236708663473 Lynne Walz @lynnewalz · 25 Sep 2103295302371594383 Thank you, Blair!
-Nights like this are the best part of this job.
-Great turnout at the Depot tonight and a lot of honest conversation about what Nebraskans are facing right now - and the kind of leadership it's going to take to change it.
-Forty days to go.
-Let's finish strong!
-Twitter feed image.
-Twitter feed image.
-Reply on Twitter 2103295302371594383 10 Retweet on Twitter 2103295302371594383 15 Like on Twitter 2103295302371594383 85 X 2103295302371594383 Lynne Walz @lynnewalz · 23 Sep 2102861204247187683 Nebraskans are paying more to get married, put gas in their cars, and file a case in court — all to cover a budget hole Jim Pillen dug himself.
-As Governor, I'll stop balancing the books on the backs of working families.
-Nebraskans are paying higher fees to offset the state’s budget woes Nebraska state agencies are looking for ways to make ends meet as Gov.
-Jim Pillen continues to cut budgets.
-But ... nebraskapublicmedia.org Reply on Twitter 2102861204247187683 39 Retweet on Twitter 2102861204247187683 42 Like on Twitter 2102861204247187683 148 X 2102861204247187683 Load More lynne_walz Proud wife, mother, grandmother, and Nebraskan.
+Reply on Twitter 2104827236708663473 5 Retweet on Twitter 2104827236708663473 7 Like on Twitter 2104827236708663473 30 X 2104827236708663473 Load More lynne_walz Proud wife, mother, grandmother, and Nebraskan.
 Running to be Nebraska’s next Governor.
 127 lynne_walz Sep 25 Thank you, Blair!
 Nights like this are the best part of this job.
@@ -110,18 +112,18 @@ Let`s finish strong! ...
 66 1 lynne_walz Sep 24 40 days out, and we`re not slowing down.
 Ben and I are talking to voters across Nebraska, from Valentine to Hastings and Scottsbluff to Lincoln - and it`s worth every mile.
 Let`s get it done!
-65 0 Open post by lynne_walz with ID 17955697458018017 40 days out, and we`re not slowing down.
+65 1 Open post by lynne_walz with ID 17955697458018017 40 days out, and we`re not slowing down.
 Ben and I are talking to voters across Nebraska, from Valentine to Hastings and Scottsbluff to Lincoln - and it`s worth every mile.
 Let`s get it done! ...
-65 0 lynne_walz Sep 24 Washington County, I`m headed your way!
+65 1 lynne_walz Sep 24 Washington County, I`m headed your way!
 I`ll be at Blair Deport at Lion`s Park tonight at 5:30 for a meet-and-greet and listening session.
 Come say hello, and bring a neighbor!
 I can`t wait to hear what`s on your mind.
-11 0 Open post by lynne_walz with ID 17906142426556964 Washington County, I`m headed your way!
+12 0 Open post by lynne_walz with ID 17906142426556964 Washington County, I`m headed your way!
 I`ll be at Blair Deport at Lion`s Park tonight at 5:30 for a meet-and-greet and listening session.
 Come say hello, and bring a neighbor!
 I can`t wait to hear what`s on your mind. ...
-11 0 lynne_walz Sep 24 My running mate Ben Steffen is making his way across rural Nebraska, sitting down with the people who keep this state running.
+12 0 lynne_walz Sep 24 My running mate Ben Steffen is making his way across rural Nebraska, sitting down with the people who keep this state running.
 He`s hearing that Nebraskans are tired of being talked at instead of listened to, and tired of finding out about decisions after they`re made.
 Ben and I will govern openly and honestly - because that`s the only way it works.
 90 2 Open post by lynne_walz with ID 18022216736871792 My running mate Ben Steffen is making his way across rural Nebraska, sitting down with the people who keep this state running.

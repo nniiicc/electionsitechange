@@ -1,4 +1,4 @@
-top of page Vince George FOR WEST VIRGINIA'S 1ST CONGRESSIONAL DISTRICT DONATE Mail Mail Hi there!
+top of page Home Platform About Vince Volunteer Get Emails & Texts Donate Vince George FOR WEST VIRGINIA'S 1ST CONGRESSIONAL DISTRICT DONATE Mail Mail Hi there!
 My name’s Vince George, and I’m a public servant, former teacher, and community advocate running for Congress to advocate for working class West Virginians.
 For too long, our communities' needs have been ignored.
 Minimum wage has stayed at $8.75.

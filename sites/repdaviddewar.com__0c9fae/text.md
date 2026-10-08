@@ -1,5 +1,5 @@
-Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote About David David Dewar is on a mission to bring truth & transparency to how political office holders are voting on policies.
-His main weapon for uncovering their record is at the link (SCROLLCARD ).
+Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote About David David Dewar is on a mission to bring truth & transparency to how political office holders are voting on policies.
+His main weapon for uncovering their record is at the link ( SCROLLCARD ).
 Many politicians have not been honest with their constituents and voted differently than their campaign promise.
 David Dewar grew up in the south suburbs of Chicago (Calumet Park) and moved to Chicago's Mt.
 Greenwood community #ago.
@@ -20,4 +20,4 @@ We the People, Not They the Politicians Dave the DEWAR (DOER), Gets it Done!
 Issue Comparison Upcoming Events!
 District Map Lets Support Police and REPEAL the Safe-T-Act House Bill 3653!
 Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
-Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Close Menu
+Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu

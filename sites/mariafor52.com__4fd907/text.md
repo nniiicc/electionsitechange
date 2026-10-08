@@ -1,6 +1,10 @@
-Follow us Menu Home Meet Candidate Events Endorsements Issues News Voting Info Volunteer Donate Follow us Donate Let's Work Together Join us First Name First Name Email * Email Phone Number Phone Number Join Us *By providing your cell phone number you consent to receive periodic campaign updates from Maria for 52.
-Message & Data rates may apply.
-Why I'm Running Meet Candidate Maria Peterson is running for Illinois House of Representatives District 52 because she’s tired of watching working families across the district struggle with impossible choices.
+Follow us Menu Home Meet Candidate Events Endorsements Issues News Voting Info Volunteer Donate Follow us Donate Let's Work Together Join us First Name First Name Email * Email Phone Number Phone Number Join Us *By entering a phone # and submitting this form, you are consenting to receive texts (campaign information, event reminders, etc.) from Maria for 52 , including autodialed messages.
+Msg & data rates may apply.
+Msg frequency varies.
+Donations will be solicited.
+Opt-in data and consent will not be shared with any third parties.
+Reply STOP to unsubscribe, HELP for help.
+Privacy Policy: https://mariafor52.com/privacy-policy Why I'm Running Meet Candidate Maria Peterson is running for Illinois House of Representatives District 52 because she’s tired of watching working families across the district struggle with impossible choices.
 She’s tired of seeing young teachers, nurses, and firefighters unable to afford homes in the communities they serve.
 And she’s done with politicians who talk about “kitchen table issues” but have never actually sat at those kitchen tables, trying to make the numbers work.
 District 52 deserves better.

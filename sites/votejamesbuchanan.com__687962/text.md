@@ -3,7 +3,7 @@ Conservative.
 Leadership.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * Last Name * Email Address * Phone Email Name Phone * Policy * By providing your telephone number and checking this box, you consent to receive calls and text messages.
+First Name * Last Name * Email Address * Phone Layout Email Phone * Policy * By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.

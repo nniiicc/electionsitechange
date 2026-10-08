@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 4/04/2025 Capitol Hill Update 4/04/2025 Savanna’s Law aims to create a domestic violence registry Senate Bill 324 was passed the Senate Judiciary Committee this week to create a persistent domestic violence registry.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 4/04/2025 Capitol Hill Update 4/04/2025 Savanna’s Law aims to create a domestic violence registry Senate Bill 324 was passed the Senate Judiciary Committee this week to create a persistent domestic violence registry.
 The registry would provide public access to offender information including their name, birthdate, conviction date and photograph while protecting sensitive details like addresses or Social Security numbers.
 Offenders will be required to register with the Tennessee Bureau of Investigation (TBI) following their second and subsequent domestic violence offenses.
 The fees paid by the offender to register will be used for violence prevention efforts across the state.

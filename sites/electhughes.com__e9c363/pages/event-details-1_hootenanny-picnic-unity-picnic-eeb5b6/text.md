@@ -1,1 +1,2 @@
-
+top of page Home About Vote Platform Platform Policy Positions Contact Events DONATE Hootenanny Picnic (Unity Picnic) Sat, Sep 26 | Black Bear Campground and Park Pavilion Hosted by the McDowell County Democratic Party, a "thank you with all the fixins" picnic at Lake James.
+Registration is closed See other events Time & Location Sep 26, 2026, 12:00 PM – 3:00 PM Black Bear Campground and Park Pavilion, 6192 Lake James Rd, Marion, NC 28752, USA Guests See All Share this event Paid for by Frank Hughes for NC Senate bottom of page

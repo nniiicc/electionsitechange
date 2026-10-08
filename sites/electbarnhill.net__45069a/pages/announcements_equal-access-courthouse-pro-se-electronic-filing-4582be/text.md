@@ -60,7 +60,7 @@ They arrived on October 5.
 By then I had already read them on the public docket, written my opposition, and mailed it to the court, which stamped it filed on October 1.
 I keep a close eye on the docket.
 A citizen who doesn’t would have lost a week of a two-week deadline before the envelope ever arrived.
-Get to know me · Join the campaign · Donate Barnhill v.
+Barnhill v.
 Aguilar — Case Timeline May 20, 2026 Barnhill submitted a sworn complaint concerning alleged duplicate voter-registration records to the Nevada Secretary of State’s Elections Division and Clark County officials.
 See Who Will Protect Your Vote ?
 June 3–4, 2026 Formal notice was sent under the National Voter Registration Act .
@@ -86,9 +86,11 @@ The Court has not yet ruled on the September 16 e-filing motion.
 See Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer .
 October 6, 2026 Barnhill mailed a Notice of Lodging Proposed Order and Request for Ruling on the September 16 e-filing motion, with a proposed order attached.
 Latest update: I’ve Asked the Court to Rule on My E-Filing Request .
-Share: Categories: Announcements 1 thought on “Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer” Pingback: Request for Ruling on E-Filing in Barnhill v.
+I took the Secretary of State to federal court to protect your vote.
+Has your candidate?
+Get to know me · Join the campaign · Donate Share: Categories: Announcements 1 thought on “Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer” Pingback: Request for Ruling on E-Filing in Barnhill v.
 Aguilar Post navigation Previous Previous post: I’ve Asked the Court to Rule on My E-Filing Request Next Next post: How Nevada Election Audits Build Voter Confidence footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

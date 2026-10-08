@@ -1,25 +1,118 @@
 [
-"https://facebook.com/RepLongoria",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Foscarlongoria.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/replongoria",
-"https://oscarlongoria.com/",
-"https://oscarlongoria.com/about",
-"https://oscarlongoria.com/contact",
-"https://oscarlongoria.com/donate",
-"https://oscarlongoria.com/endorsements",
-"https://oscarlongoria.com/events",
-"https://oscarlongoria.com/events/list",
-"https://oscarlongoria.com/events/month",
-"https://oscarlongoria.com/events/month/2026-09",
-"https://oscarlongoria.com/events/month/2026-11",
-"https://oscarlongoria.com/events/month?ical=1",
-"https://oscarlongoria.com/events/month?outlook-ical=1",
-"https://oscarlongoria.com/events/today",
-"https://oscarlongoria.com/news",
-"https://oscarlongoria.com/privacy-policy",
-"https://oscarlongoria.com/social",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Foscarlongoria.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Oscar+Longoria+State+Representative+Oscar+Longoria+State+Representative",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Foscarlongoria.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Oscar+Longoria+State+Representative+Oscar+Longoria+State+Representative",
-"https://twitter.com/RepLongoria",
-"https://youtube.com/@replongoria"
+{
+"text": "About Oscar",
+"href": "https://oscarlongoria.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://oscarlongoria.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://oscarlongoria.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://oscarlongoria.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://oscarlongoria.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://oscarlongoria.com/events"
+},
+{
+"text": "Export .ics file",
+"href": "https://oscarlongoria.com/events/month/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://oscarlongoria.com/events/month/?outlook-ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Foscarlongoria.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://oscarlongoria.com/"
+},
+{
+"text": "List",
+"href": "https://oscarlongoria.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://oscarlongoria.com/events/month/"
+},
+{
+"text": "News",
+"href": "https://oscarlongoria.com/news/"
+},
+{
+"text": "Nov",
+"href": "https://oscarlongoria.com/events/month/2026-11/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Foscarlongoria.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Oscar+Longoria+State+Representative+Oscar+Longoria+State+Representative"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Foscarlongoria.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Oscar+Longoria+State+Representative+Oscar+Longoria+State+Representative"
+},
+{
+"text": "Privacy Policy",
+"href": "https://oscarlongoria.com/privacy-policy/"
+},
+{
+"text": "Sep",
+"href": "https://oscarlongoria.com/events/month/2026-09/"
+},
+{
+"text": "Social Media Feed",
+"href": "https://oscarlongoria.com/social/"
+},
+{
+"text": "This Month",
+"href": "https://oscarlongoria.com/events/month/"
+},
+{
+"text": "[image: Oscar Longoria State Representative]",
+"href": "https://oscarlongoria.com/"
+},
+{
+"text": "[image: logo-footer-image]",
+"href": "https://oscarlongoria.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RepLongoria"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepLongoria/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/replongoria"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@replongoria"
+},
+{
+"text": "[tooltip: Next month]",
+"href": "https://oscarlongoria.com/events/month/2026-11/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://oscarlongoria.com/events/month/2026-09/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://oscarlongoria.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

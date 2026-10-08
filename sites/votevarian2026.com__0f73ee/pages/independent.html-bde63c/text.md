@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid 1776 The Next 250 Years The Glass is Half Full As we Celebrate 250 years, a sense of heavy anticipation hangs over the nation.
 The Semiquincentennial isn't arriving with just fireworks and parades; it is arriving with what many are calling "birth pains" —the messy, turbulent, and often painful transition from an old era into a new one .
 The Great Fracturing The story of the 250th anniversary begins with the breakdown of the traditional "two-party" monolith.

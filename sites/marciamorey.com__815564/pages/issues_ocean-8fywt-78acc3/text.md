@@ -1,4 +1,4 @@
-0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Protecting Democracy: Voting Rights & Fair Elections Aug 4 Written By Mary Lee The biggest problem we face as a state, and a country, is the impending threat to Democracy.
+0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Protecting Democracy: Voting Rights & Fair Elections Aug 4 Written by Mary Lee The biggest problem we face as a state, and a country, is the impending threat to Democracy.
 Democracy depends on voting rights and integrity.
 For the last 10 years, Republicans have drawn unconstitutional congressional and legislative districts, curbed voting accessibility, mandated voter photo IDs and restricted the Board of Elections’ authority.
 All this being done to manipulate and suppress voting rights.

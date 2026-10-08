@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid Refilling Strategic Petroleum Reserve(SPR) T he Big Picture Our national oil reserve (the Strategic Petroleum Reserve) is down to its lowest level in over 40 years because of recent global crises.This bill is a master plan to refill our emergency oil tanks over the next five and a half years without costing regular taxpayers a fortune and without driving up gas prices.
 "Folks, as we head right into the peak of the Atlantic hurricane season, Florida drivers are incredibly vulnerable.
 Right now, America’s emergency oil reserve is sitting at its lowest level in over forty years—emptied out to less than half capacity.

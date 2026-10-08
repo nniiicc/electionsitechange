@@ -27,5 +27,5 @@ Click on an option to get started.
 If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# other Voter resources Voter Resources Election Day is November 3 Early voting begins Early voting begins September 18 Register in advance by Register in advance by October 13 Same-day registration also available.
 Last day to vote early Last day to vote early November 2 Tell us your idea about how to make government more innovative, effective, and accountable.
 Submit Your Idea Meet Amy Meet Ben Priorities Newsroom Yard Signs Store Get Involved Minnesotans for Klobuchar PO Box 4009 St.
-Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
+Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy llms.txt Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
 Paul, MN 55104.

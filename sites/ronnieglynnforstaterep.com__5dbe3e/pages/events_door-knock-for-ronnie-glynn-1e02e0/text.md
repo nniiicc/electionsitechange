@@ -1,4 +1,3 @@
 0 Skip to Content Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Open Menu Close Menu Open Menu Close Menu Donate Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Back to All Events Door Knock for Ronnie Glynn Saturday, August 3, 2024 10:00 AM 3:00 PM Google Calendar ICS Join Team Glynn as we kick off our fall door knocking!
 Grab your yard sign, a t-shirt, and get ready to head out and tell the people of Clarksville that Ronnie Glynn needs to be sent back to Nashville.
-See you there!
-Previous Previous September 8 Door Knocking for Dems Next Next May 30 Volunteer Kickoff ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know
+See you there! ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know

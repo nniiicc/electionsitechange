@@ -29,7 +29,7 @@ Commited to Agriculture David and wife, Julie, along with their friends and part
 A major asset of our region is the availability of good, clean water which David will work to protect.
 WE'RE GRATEFUL FOR YOUR SUPPORT!
 Rebecca needs your support!
-Your monthly contribution will play a major role in our success! $25 $50 $100 $200 Donate GET INVOLVED AND IMPACT OUR CAMPAIGN SEE INVOLVEMENT Proven Commitment to the Community ​This Campaign is about Character and Experience.
+Your monthly contribution will play a major role in our success! $25 $50 $100 $200 Donate GET INVOLVED AND IMPACT OUR CAMPAIGN JOIN TEAM REBECCA First name * Last name * Email * Join us Submit SEE INVOLVEMENT Proven Commitment to the Community ​This Campaign is about Character and Experience.
 My record reflects that I am the Common Sense Conservative Candidate.
 With your vote and support on August 6, together we can make 148 GREAT.
 DAVID DOLAN HOME FACEBOOK David Dolan for State Representative 148 © # HOME REBECCA C.

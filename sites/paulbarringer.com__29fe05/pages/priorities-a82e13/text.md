@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Volunteer Donate Events Home About Priorities Endorsements Volunteer Events Donate Menu Here’s what I’ll fight for in Congress.
+Skip to content Home About Priorities Volunteer Donate Events Donate Home About Priorities Endorsements Volunteer Events Vote Menu Here’s what I’ll fight for in Congress.
 In the US House, I’ll put the needs of everyday Americans and our Constitution first.
 Click on any of my platform planks to learn more about what I believe.
 Affordable Healthcare Foreign Policy Immigration Fiscal Policy Education Police & Justice Reproductive Health 2nd Amendment Rights Agriculture & Farming Veterans Support Conservation & Public Lands Tariffs Affordable Healthcare I believe every American should have access to affordable, quality healthcare.

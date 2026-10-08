@@ -1,4 +1,4 @@
-Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Skip to content Thursday, October 08, 2026 Lauren Nelson for Senate P.O.
 Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Category: Important Issues Important Issues Videos I am on a mission for the people and families of District 18 Editor October 30, 2024 View More I am on a mission for the people and families of District 18 Education Important Issues Videos I pledge to support K-12 students and teachers Editor October 16, 2024 Please take a moment to watch my video below where I share what my 30+ years as a teacher has taught me.
 You will also… View More I pledge to support K-12 students and teachers Education Important Issues Videos Unwavering support for K-12 Education.
 Editor October 16, 2024 “As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for… View More Unwavering support for K-12 Education.

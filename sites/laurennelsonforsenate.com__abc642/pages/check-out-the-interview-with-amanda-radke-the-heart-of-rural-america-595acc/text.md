@@ -1,4 +1,4 @@
-Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Skip to content Thursday, October 08, 2026 Lauren Nelson for Senate P.O.
 Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … News Check out the interview with Amanda Radke: The Heart of Rural America Editor May 31, 2024 Check out the Apple Podcast interview with Amanda Radke : The Heart of Rural America.
 The long-awaited update on the private property rights battle in South Dakota is finally here.
 Be inspired by Rep Julie Auch ( julieauchforhouse.com ) and Lauren Nelson ( laurennelsonforsenate.com ), both running for the state legislature, and what fueled these two fearless women to step into the political arena.

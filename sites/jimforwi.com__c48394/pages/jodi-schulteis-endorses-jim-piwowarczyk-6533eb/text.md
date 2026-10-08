@@ -16,7 +16,7 @@ She is chairperson of the Human Services Committee and a member of the Executive
 “I am thrilled to receive the endorsement of an accomplished local leader like Supervisor Schulteis,” Piwowarczyk said.
 “I am humbled by the strong support I am receiving from local officials in this race.
 I will work hard to earn the support of district voters, who tell me that they are deeply concerned about the economy, border, education, election integrity, and the state of the country.” You can learn more about Piwowarczyk’s campaign at https://jimforwi.com/.
-Post navigation Previous post: Prev Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows May 24, 2024 Next post: Next Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk June 27, 2024 You May Also Like Posted March 5, 2024 in News Jim Piwowarczyk Announces Run for Assembly: ‘Conservatives Must Start Winning Again’ Posted July 26, 2024 in News , Political Issues Protect Our Checks & Balances System: Vote YES on the State Referendum Questions How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows May 24, 2024 Next post: Next Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk June 27, 2024 You May Also Like Posted July 29, 2024 in Endorsements , News , ticker WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK Posted March 5, 2024 in News Jim Piwowarczyk Announces Run for Assembly: ‘Conservatives Must Start Winning Again’ How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

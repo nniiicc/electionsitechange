@@ -3,7 +3,7 @@ CHR $ Sen.
 Bob Hall Our Trusted Conservative Leader Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
 A compelling sense of duty, shaped by his military service, business experience, and love for this country, drives Sen.
 Bob Hall to leave behind the legacy of a patriotic servant for his children and grandchildren.
-Envisioning their futures compelled him to become actively involved in the state’s political process and strongly believes it is time to stand in the gap for our children, our liberties and our future. @SenatorBobHall · Oct 7 · Follow Senator Hall Priorities In God We Trust Limited Government Fiscal Responsibility Rule of Law Personal Responsibility Priorities Although Texans have a vast list of priorities that need to be addressed, here are a few of my top priorities for the 89th Legislative Session.
+Envisioning their futures compelled him to become actively involved in the state’s political process and strongly believes it is time to stand in the gap for our children, our liberties and our future. @SenatorBobHall · Oct 8 · Follow Senator Hall Priorities In God We Trust Limited Government Fiscal Responsibility Rule of Law Personal Responsibility Priorities Although Texans have a vast list of priorities that need to be addressed, here are a few of my top priorities for the 89th Legislative Session.
 Election Integrity The lack of accuracy verifiability, transparency, and accountability in the current Texas election process means it would be impossible to present sufficient evidence in a court of...
 Read more In God We Trust Exceptionalism is the basis for America’s success.
 A continued drift from God will ultimately result in the loss of this blessing.

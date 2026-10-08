@@ -1,10 +1,54 @@
 [
-"https://rachaelforsenate.com/",
-"https://rachaelforsenate.com/about",
-"https://rachaelforsenate.com/absentee-information",
-"https://rachaelforsenate.com/contact",
-"https://rachaelforsenate.com/donate",
-"https://rachaelforsenate.com/endorsements",
-"https://rachaelforsenate.com/news",
-"https://rachaelforsenate.com/policy"
+{
+"text": "About",
+"href": "https://rachaelforsenate.com/about/"
+},
+{
+"text": "Absentee Information",
+"href": "https://rachaelforsenate.com/absentee-information/"
+},
+{
+"text": "Contact",
+"href": "https://rachaelforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://rachaelforsenate.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://rachaelforsenate.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://rachaelforsenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://rachaelforsenate.com/"
+},
+{
+"text": "News",
+"href": "https://rachaelforsenate.com/news/"
+},
+{
+"text": "Paid for by Friends of Rachael Cabral-Guevara",
+"href": "https://rachaelforsenate.com/"
+},
+{
+"text": "Policy Priorities",
+"href": "https://rachaelforsenate.com/policy/"
+},
+{
+"text": "RachaelforSenate@gmail.com",
+"href": "mailto:Rachaelcg55th@gmail.com"
+},
+{
+"text": "View Policies",
+"href": "https://rachaelforsenate.com/policy"
+},
+{
+"text": "[image: Paid for by Friends of Rachael Cabral-Guevara]",
+"href": "https://rachaelforsenate.com/"
+}
 ]

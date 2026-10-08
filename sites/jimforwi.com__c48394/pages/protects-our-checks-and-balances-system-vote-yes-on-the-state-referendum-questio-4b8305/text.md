@@ -29,7 +29,8 @@ All areas of the state deserve an equal opportunity at this money if it needs to
 The misleading card voters are receiving says voting YES would risk the ability of the state to respond quickly in an emergency.
 But Evers spent COVID money on many things that weren’t emergencies, like a railroad museum in Green Bay and an arts center in Milwaukee.
 I’m voting YES on both state referendums because I believe it’s better fiscal policy to have more oversight and restraint over taxpayer dollars. -Jim Piwowarczyk is a Republican candidate for the 98th Assembly District, which includes Hartford, Erin, Richfield, Merton, Sussex, and Lisbon.
-Post navigation Previous post: Prev Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk June 27, 2024 Next post: Next NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY July 29, 2024 You May Also Like Posted August 6, 2024 in Endorsements , News , ticker VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY Posted May 3, 2024 in Endorsements , News , ticker Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk June 27, 2024 Next post: Next NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY July 29, 2024 You May Also Like Posted August 6, 2024 in Endorsements , News , ticker VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY Posted April 11, 2024 in ticker , Endorsements , News Rep.
+Bob Donovan Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

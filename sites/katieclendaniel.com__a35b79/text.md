@@ -1,4 +1,6 @@
-Skip navigation menu Home Meet Katie Issues Voter Resources Connect Get Involved!
+Skip navigation menu Katie invites Senator Mautz to debate.
+District 37 deserves a conversation.
+Read the Statement Home Meet Katie Issues Voter Resources Connect Get Involved!
 Donate FOR MARYLAND SENATE DISTRICT 37 Good for the Shore Katie Clendaniel has spent twenty years bringing people, plans, and resources together.
 She is running to lower costs, expand local opportunity, strengthen rural health care and schools, and make Annapolis deliver for our communities.
 First Name First Name Last Name Last Name Email Email Phone Phone Join Katie I agree to receive recurring campaign updates, fundraising messages, voter information, event invitations, volunteer opportunities, and other calls to action from Friends of Kathleen Clendaniel at the phone number provided.
@@ -45,14 +47,13 @@ We gather at the Wicomico County Democratic Central Committee office in Salisbur
 Sign up for more details This event’s address is private.
 Sign up for more details, Claiborne, MD, 21624 Join us for a reception in Claiborne supporting Katie Clendaniel for State Senate on Thursday, October 15, 2026, from 5:00–6:30 PM.
 Come meet Katie, hear more about her campaign for Maryland State Se… Show more RSVP VOTE 2026 VOTER RESOURCES Make a Plan to Vote MAIL IN VOTING Request by October 27 EARLY VOTING October 22 through October 29 ELECTION DAY November 3, 2026 Check Registration or Ballot Status Request a Mail In Ballot Register or Update Voter Information Find Your Polling Place CAMPAIGN UPDATES News From District 37 Follow Katie’s campaign, community events, and the practical work ahead across District 37.
-PRESS RELEASE MSEA Endorses Katie Clendaniel Katie Clendaniel has received the endorsement of the Maryland State Education Association (MSEA) in her campaign to represent Maryland District 37.
+PRESS RELEASE Katie Clendaniel Invites Senator Johnny Mautz to Public Debate Write your news blurb here.
+Read more Oct 7 2026 PRESS RELEASE MSEA Endorses Katie Clendaniel Katie Clendaniel has received the endorsement of the Maryland State Education Association (MSEA) in her campaign to represent Maryland District 37.
 MSEA joins the rapidly growing list of organizations supporting Clendaniel’s campaign and her work to strengthen communities across the Eastern Shore.
 Read more Oct 5 2026 PRESS RELEASE Maryland NOW Endorses Katie Clendaniel In exciting news, Katie Clendaniel has received the endorsement of the Maryland NOW committee in her campaign for Maryland State Senate District 37!
 Maryland NOW supports candidates working to advance equality and opportunity across Maryland.
 “This group of strong women promotes legislative priorities focused on women’s economic security, safety, and independence.
-Read more Sep 29 2026 PRESS RELEASE Sierra Club Endorses Katie Clendaniel Katie Clendaniel has received the endorsement of the Sierra Club Maryland Chapter in her campaign to represent Maryland District 37!
-The Sierra Club’s endorsement recognizes Clendaniel’s commitment to environmental resiliency, infrastructure investment and protecting the health of the Chesapeake Bay.
-Read more Aug 21 2026 Seeds of Change Support Katie's Campaign with a contribution of $25 and we'll send you a packet of Black-Eyed Susans - our Maryland State flower!
+Read more Sep 29 2026 Seeds of Change Support Katie's Campaign with a contribution of $25 and we'll send you a packet of Black-Eyed Susans - our Maryland State flower!
 Order Yours Email info@katieclendaniel.com | Call 410-205-4770 Privacy Policy | Terms and Conditions | Press Inquiry Powered by RUN! website builder By Authority: Friends of Kathleen Clendaniel.
 Cathy Frey, Treasurer.
 You need to enable JavaScript to run this app.

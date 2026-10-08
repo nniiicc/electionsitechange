@@ -4,6 +4,6 @@ Join Treasurer Pieciak and Brattleboro-area legislators & officials to get the l
 Register here.
 I will join Treasurer Mike Pieciak and your other county legislators to discuss how Vermont is responding to federal policy changes.
 The event will take place at Brattleboro Area Middle School 109 Sunny Acres Road Brattleboro, VT 05301.
-Previous Previous December 17 Wilmington Selectboard Meeting Next Next March 22 DJing Valley Craft Ale's Friend Of Fermentation Fest Donate Wilmington.
+Donate Wilmington.
 Whitingham.
 Halifax

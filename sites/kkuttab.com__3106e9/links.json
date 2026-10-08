@@ -1,22 +1,98 @@
 [
-"https://facebook.com/kkuttab",
-"https://famethemes.com/themes/onepress",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2023&id=295&txtFormat=pdf&v=current",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1089&txtFormat=pdf&v=current",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1093&txtFormat=pdf&v=current",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1126&txtFormat=pdf&v=current",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=469&txtFormat=pdf&v=current",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=95&txtFormat=pdf&v=current",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1477&txtFormat=pdf&v=current",
-"https://instagram.com/kkuttab",
-"https://kkuttab.com/",
-"https://kkuttab.com/accomplishments",
-"https://kkuttab.com/contact",
-"https://kkuttab.com/donate",
-"https://kkuttab.com/house-info",
-"https://kkuttab.com/issues",
-"https://kkuttab.com/nh-house-seating-map",
-"https://kkuttab.com/volunteer",
-"https://kkuttab.com/voting-info",
-"https://twitter.com/katelyn4nh"
+{
+"text": "Accomplishments",
+"href": "https://kkuttab.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "https://kkuttab.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://kkuttab.com/donate/"
+},
+{
+"text": "HB1003",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1089&txtFormat=pdf&v=current"
+},
+{
+"text": "HB1006",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1093&txtFormat=pdf&v=current"
+},
+{
+"text": "HB1433",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1477&txtFormat=pdf&v=current"
+},
+{
+"text": "HB1564",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=1126&txtFormat=pdf&v=current"
+},
+{
+"text": "HB243",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=469&txtFormat=pdf&v=current"
+},
+{
+"text": "HB377",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2023&id=295&txtFormat=pdf&v=current"
+},
+{
+"text": "HB76",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=95&txtFormat=pdf&v=current"
+},
+{
+"text": "Home",
+"href": "https://kkuttab.com/"
+},
+{
+"text": "House Info",
+"href": "https://kkuttab.com/house-info/"
+},
+{
+"text": "Issues",
+"href": "https://kkuttab.com/issues/"
+},
+{
+"text": "NH House Seating Map",
+"href": "https://kkuttab.com/nh-house-seating-map/"
+},
+{
+"text": "OnePress",
+"href": "https://www.famethemes.com/themes/onepress"
+},
+{
+"text": "Request Yard Sign or Volunteer",
+"href": "https://kkuttab.com/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "https://kkuttab.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://kkuttab.com/voting-info/"
+},
+{
+"text": "[image: Katelyn Kuttab NH State Representative]",
+"href": "https://kkuttab.com/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "mailto:katelyn@kkuttab.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/kkuttab"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/kkuttab"
+},
+{
+"text": "[tooltip: Phone]",
+"href": "tel:+16036898065"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.twitter.com/katelyn4nh"
+}
 ]

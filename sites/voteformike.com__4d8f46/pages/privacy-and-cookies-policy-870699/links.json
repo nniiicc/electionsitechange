@@ -1,15 +1,30 @@
 [
-"http://google.com/",
-"http://opera.com/help/tutorials/security/cookies",
-"https://cloudflare.com/cookie-policy",
-"https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en",
-"https://google.com/policies/privacy",
-"https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy",
-"https://privacyshield.gov/",
-"https://support.apple.com/guide/safari/privacy-sfri35610/mac",
-"https://support.google.com/chrome/answer/95647?hl=en",
-"https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies",
-"https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences",
-"https://voteformike.com/",
-"https://voteformike.com/privacy-and-cookies-policy"
+{
+"text": "About",
+"href": "https://voteformike.com/#s-3f8c0ece-fb42-4dad-a069-266593a27d84/"
+},
+{
+"text": "Contact",
+"href": "https://voteformike.com/#s-a3a42dab-9d44-447e-85cf-91973ec2153b/"
+},
+{
+"text": "Home",
+"href": "https://voteformike.com/"
+},
+{
+"text": "Testimonials",
+"href": "https://voteformike.com/#s-c239c595-0c4b-4165-bdbd-35e3613de0eb/"
+},
+{
+"text": "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en",
+"href": "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en"
+},
+{
+"text": "https://www.cloudflare.com/cookie-policy/",
+"href": "https://www.cloudflare.com/cookie-policy/"
+},
+{
+"text": "https://www.privacyshield.gov",
+"href": "https://www.privacyshield.gov"
+}
 ]

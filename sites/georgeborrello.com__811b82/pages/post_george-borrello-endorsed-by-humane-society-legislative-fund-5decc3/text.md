@@ -1,8 +1,5 @@
-George Borrello Endorsed by Humane Society Legislative Fund
-lhill5000
-Oct 15, 2022
-"I am proud to have the endorsement of the Humane Society Legislative Fund.
+top of page All Posts Search George Borrello Endorsed by Humane Society Legislative Fund lhill5000 Oct 15, 2022 1 min read " I am proud to have the endorsement of the Humane Society Legislative Fund .
 Animal welfare and protection have always been high priorities for me.
 From spearheading an animal abuse registry when I was Chautauqua County Executive, to hosting pet adoption events, to my Senate efforts to establish the Canine Officer Health Monitoring Fund, I believe that the care we show to animals helps reinforce civility and compassion in the world around us.
 Kelly and I are happily doing our part as pet parents to four cats we adore.
-Thanks to the Humane Society and all the animal lovers out there who make the world a better place."
+Thanks to the Humane Society and all the animal lovers out there who make the world a better place. " Recent Posts See All SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Senator George Borrello Recognized as One of New York State’s Most Effective Republican Legislator SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

@@ -1,4 +1,4 @@
-Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information Join Us Talk to Kathy Donate THE “SLEEVES UP” PLAN Common Sense.
+Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information 68th District Join Us Talk to Kathy Donate THE “SLEEVES UP” PLAN Common Sense.
 Real Service.
 No More Insanity.
 They say the definition of insanity is doing the same thing over and over and expecting a different result.

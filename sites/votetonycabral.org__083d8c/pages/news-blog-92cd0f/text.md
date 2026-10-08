@@ -1,6 +1,7 @@
-Op-Ed: Massachusetts’ Competitiveness Begins at Home: The Case for Reforming the State’s Outdated Local Aid Formula October 30, 2023 Read More »
-PRESIDENT BOLIEIRO MEETS WITH REP.
-CABRAL; MAYOR MITCHELL AND CABRAL TO JOIN CEREMONIES IN FAIAL August 30, 2023 Read More »
-STATE LEGISLATURE PASSES FY2024 BUDGET; New Bedford local projects and programs to benefit from funds July 31, 2023 Read More »
-MA HOUSE PASSES SUPPLEMENTAL BUDGET FEATURING REP.
-CABRAL TOP PRIORITY — THE HOUSING DEVELOPMENT INCENTIVE PROGRAM July 13, 2023 Read More »
+Skip to content Home Meet Tony Priorities Legislation Gateway cities caucus Joint committee on state administration and regulatory oversight Leadership New Bedford New Bedford Priorities Constituent Services News Volunteer contact Donate Donate Home Meet Tony Priorities Legislation Gateway cities caucus Joint committee on state administration and regulatory oversight Leadership New Bedford New Bedford Priorities Constituent Services News Volunteer contact Donate Donate Internship Opportunity with Team Cabral August 26, 2025 Read More » Tackling the housing crisis: Interview November 4, 2024 Read More » Opinion: Moving Beyond MCAS October 21, 2024 Read More » JINGLE AND MINGLE HOLIDAY FUNDRAISER November 16, 2023 Read More » Rep.
+Cabral Honors Von Marie Moniz for 2023 Latino Excellence Award November 1, 2023 Read More » Op-Ed: Massachusetts’ Competitiveness Begins at Home: The Case for Reforming the State’s Outdated Local Aid Formula October 30, 2023 Read More » PRESIDENT BOLIEIRO MEETS WITH REP.
+CABRAL; MAYOR MITCHELL AND CABRAL TO JOIN CEREMONIES IN FAIAL August 30, 2023 Read More » STATE LEGISLATURE PASSES FY2024 BUDGET; New Bedford local projects and programs to benefit from funds July 31, 2023 Read More » REP.
+CABRAL ON “THE BEACON HILL REPORT” WITH JIM MARSHALL July 28, 2023 Read More » MA HOUSE PASSES SUPPLEMENTAL BUDGET FEATURING REP.
+CABRAL TOP PRIORITY — THE HOUSING DEVELOPMENT INCENTIVE PROGRAM July 13, 2023 Read More » « Previous Next » Contact State House 24 Beacon St.
+Room 466 Boston, MA 02133 Email: antonio.cabral@mahouse.gov Phone: (6 1 7) 7 2 2 - 2 0 1 7 Falamos Portugês • Hablamos Español • No Ta Fala Criol De Cabo Verde Local Office Hours First Saturday of each month Howland Green Branch Library 3 Rodney French Blvd.
+New Bedford 10:30 am - 12:00 pm Campaign Contact 25 Moreland Terrace New Bedford, MA 02740 Phone: (5 0 8) 9 9 7 - 8 1 1 3 Email: reptonycabral@gmail.com Copyright © # Tony Cabral | Paid for by The Cabral Committee Privacy & Legal

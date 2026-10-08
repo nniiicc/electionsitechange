@@ -1,9 +1,13 @@
 {
  "description": "Latest News from the Jacobs for GA Campaign",
  "final_url": "https://www.jacobsforga.com/news",
- "paid_for_by": null,
+ "fingerprint": "cef7964b0b031b8955499d2688ab8cb177b63d53",
+ "format": 3,
+ "paid_for_by": "",
  "title": "NEWS | Jacobs For GA",
  "years_mentioned": [
+  "2023",
+  "2024",
   "2026"
  ]
 }

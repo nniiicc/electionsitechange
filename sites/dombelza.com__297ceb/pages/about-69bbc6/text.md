@@ -1,4 +1,4 @@
-Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA About Dom Belza The North State of California is a unique and special place, admired by all of California for its lifestyle and Americana.
+Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us DONATE ENDORSE DOM BELZA About Dom Belza The North State of California is a unique and special place, admired by all of California for its lifestyle and Americana.
 As a fourth-generation North State resident, raising the next generation here, Dom Belza is deeply committed to protecting our way of life.
 Belza is an agricultural business owner, from a generational farming family, and, most recently, a Marysville City Councilman.
 For the past 19 years, he has worked as a local realtor and businessman, investing in and selling agricultural and commercial properties.

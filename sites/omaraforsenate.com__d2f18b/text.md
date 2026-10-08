@@ -14,6 +14,6 @@ Senator O'Mara offers his weekly perspective on many of the key challenges and i
 Stop back every Monday for Senator O'Mara's latest column...
 This week, "Tax-and-spend government leading to a #ago O'Mara, Senate colleagues hold energy roundtable: Today’s roundtable discussion centered on large-scale solar projects, their impacts on local communities I appreciate this opportunity to join my legislative colleagues to try to advance a broader and more transparent public discussion surrounding New York State's aggressive push to site large-scale solar projects in communities, particularly rural communities across the upstate region.
 It's not getting the attention it demands.
-Syracuse, NY - Senator Tom O'Mara and Senator Pam Helming along with Senator Mark Walczyk led a roundtable discussion focused on addressing the issue of #ago “The future cannot be predicted, but we can build a foundation for it and influence its development.” Email : omaraforsenate@gmail.com Get Email Updates Enter your email here Sign Up!
+Syracuse, NY - Senator Tom O'Mara and Senator Pam Helming along with Senator Mark Walczyk led a roundtable discussion focused on addressing the issue of Sep 29 “The future cannot be predicted, but we can build a foundation for it and influence its development.” Email : omaraforsenate@gmail.com Get Email Updates Enter your email here Sign Up!
 Thanks for submitting!
 FRIENDS OF TOM O’MARA - PO Box 428, Elmira, NY 14902 Quick Links About Support Us News Events Contact © # O'Mara for Senate -- NYS Senate Republican Campaign Committee bottom of page

@@ -1,4 +1,4 @@
-Skip to content Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First Menu My “Why” About Issues News & Events Donate Volunteer Endorsements Contact My Bills My “Why” Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First With single-party rule over the past 7+ years, Colorado Democrats have taken our state down the wrong path.
+Skip to content Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First Menu My “Why” About Issues News & Events Donate Volunteer Contact Endorsements My Bills My “Why” Lori Garcia Sander for House District 65 Putting Colorado Citizens and Families First With single-party rule over the past 7+ years, Colorado Democrats have taken our state down the wrong path.
 Parents and employers are concerned about our education system.
 Crime is on the rise, good jobs are fleeing, and the cost of living is soaring.
 These failures did not happen in a vacuum.

@@ -18,4 +18,4 @@ You can learn more here .
 Remember to Vote County and municipal general elections will take place next month on Tuesday, November 21st.
 Voting is an important constitutional right and I encourage you all to participate.
 Find more info at vote.utah.gov .
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 8 + 9 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 1 + 10 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

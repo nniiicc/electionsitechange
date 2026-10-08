@@ -1,4 +1,4 @@
-Skip to main content Tuesday, September 29 · An Evening with Lou Riley · Alpine Country Club, Cranston RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues Real Estate Pros How to Vote Get Involved Endorsements RSVP · Sept 29 Get in Touch Issues / Cut the Tax Burden Cut the Tax Burden Scituate families and small businesses are being taxed at the closing table, at death, and on the assessment roll.
+Skip to main content Saturday, October 17 · Come Meet Lou · Merola’s, Scituate · 3–5 PM RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues How to Vote Get Involved Endorsements RSVP · Oct 17 Get in Touch Issues / Cut the Tax Burden Cut the Tax Burden Scituate families and small businesses are being taxed at the closing table, at death, and on the assessment roll.
 Plank Three of four.
 As a real estate attorney, Lou sees Rhode Island's rising tax burden up close — not as abstract policy, but as numbers on a settlement statement.
 Three changes in particular are worth every homeowner's attention: Real Estate Conveyance Tax ("Tax Stamps") Rhode Island's real estate conveyance tax rose 63%, from $2.30 to $3.75 per $500 of consideration, effective October 1, 2025, under R.I.
@@ -31,8 +31,8 @@ The exemption is not portable between spouses, and the top rate is 16%.
 Who does the Non-Owner-Occupied Property Tax apply to? + Non-owner-occupied residential property assessed over $1 million, under R.I.
 Gen.
 Laws § 44-72-1 et seq., effective July 1, 2026 — with an exemption for properties rented 183 or more days per year.
-Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Endorsements How to Vote Get Involved Sept.
-29 Reception Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
+Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Real Estate Pros Endorsements How to Vote Get Involved Oct.
+17 Meet & Greet Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
 178 Broadway, Providence, RI 02903.
 Authorized by the candidate.
 Privacy Policy © 2026 Friends of Michael Riley

@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Bill to help Phoenix-Talent school funding introduced By Kevin Opsahl | Mail Tribune LINK TO ARTICLE file photo Phoenix-Talent Superintendent Brent Barry.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Bill to help Phoenix-Talent school funding introduced By Kevin Opsahl | Mail Tribune LINK TO ARTICLE file photo Phoenix-Talent Superintendent Brent Barry.
 Bill would allow the district ravaged by the Almeda fire to recoup funding Fulfilling a promise she made for the 2022 legislative session, Rep.
 Pam Marsh, D-Ashland, has introduced a bill that would help the Phoenix-Talent School District recover the money it lost as a result of the Sept.
 8, 2020 Almeda fire.

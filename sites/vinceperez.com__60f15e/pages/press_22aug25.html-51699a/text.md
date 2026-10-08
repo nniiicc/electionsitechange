@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Floor Remarks · August 22, 2025 Rep.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Floor Remarks · August 22, 2025 Rep.
 Vince Perez delivers floor remarks opposing HB 4, Texas House redistricting proposal Watch the full floor remarks Texas House floor · August 22, 2025 AUSTIN, TX — Today, the Texas House of Representatives took up House Bill 4, the chamber's redistricting proposal, for full debate.
 State Representative Vince Perez delivered remarks on the House floor opposing the measure, warning that the plan entrenches racial disparities in representation while denying fair political power to millions of Texans.
 The full text of Rep.

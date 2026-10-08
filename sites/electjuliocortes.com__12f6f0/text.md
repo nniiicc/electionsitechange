@@ -42,10 +42,10 @@ Our BIPOC community, our business owners, our residents who are traveling to wor
 WA Immigrant Solidarity Network’s Immigrant and Refugee Advocacy Day – January 22, 2026 Follow the Campaign Used for the like, share, comment, and reaction icons Julio Cortes for State Rep.
 #ago Thank you to the North Coast States Carpenters Union for their support of my re-election campaign and their partnership to protect workers 🙌🏽.
 I look forward to continuing our work in Olympia. ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Reactions: 7 Shares: 2 Comments: 1 1 Comments Comment on Facebook Julio Cortes for State Rep.
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Reactions: 12 Shares: 2 Comments: 1 1 Comments Comment on Facebook Julio Cortes for State Rep.
 #ago A busy few days/weekend supporting colleagues, learning from businesses, and getting out into the community to hear from everyone!
 Thankful to be surrounded by so many amazingly dedicated people 🙌🏽 ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 11 Shares: 0 Comments: 2 2 Comments Comment on Facebook Julio Cortes for State Rep.
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 13 Shares: 0 Comments: 2 2 Comments Comment on Facebook Julio Cortes for State Rep.
 #ago Hitting them doors, meeting neighbors and listening to our community!
 Thank you to our amazing volunteers, we make it fun 🙌🏽 ...
 See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 16 Shares: 2 Comments: 1 1 Comments Comment on Facebook Julio Cortes for State Rep.

@@ -1,7 +1,7 @@
 top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Events Endorse Shannon News Blog Shannon Kessler Admin Follow More actions Profile Profile Join date: Jul 18, 2025 Posts (3) Aug 31, 2026 ∙ 1 min Women Leaders Endorse Shannon Kessler for California Assembly District 30 Former San Luis Obispo County Supervisors Lynn Compton and Debbie Arnold have announced their support for Shannon Kessler for California Assembly District 30.
 Leadership grounded in community The endorsements recognize Kessler’s community involvement, experience in business and public service, and commitment to families across the Central Coast.
 Priorities for District 30 Kessler’s platform addresses affordable housing, public safety, education, women’s sports, environmental stewardship, and...
-2 0 Aug 31, 2026 ∙ 1 min Central Coast County Republican Parties Endorse Shannon Kessler for Assembly District 30 Shannon Kessler is honored to announce endorsements from the Santa Cruz, Monterey, and San Luis Obispo County Republican Parties in the 30th Assembly District.
+3 0 Aug 31, 2026 ∙ 1 min Central Coast County Republican Parties Endorse Shannon Kessler for Assembly District 30 Shannon Kessler is honored to announce endorsements from the Santa Cruz, Monterey, and San Luis Obispo County Republican Parties in the 30th Assembly District.
 A Central Coast campaign Kessler is a longtime Central Coast resident, small business owner, and community advocate.
 Her campaign focuses on practical solutions for housing affordability, public safety, education, government accountability, and economic opportunity.
 Local priorities The campaign is focused on listening to residents...

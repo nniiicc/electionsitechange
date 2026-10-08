@@ -1,6 +1,6 @@
 About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact DONATE Contact Us Send Us a Message Use this form to get in touch, or write to us at the address below.
 Please enable JavaScript in your browser to complete this form.
-Email or Comment Name * First Last Email * Comment or Message SMS Updates Yes – Sign me up for SMS text updates Phone Number Submit By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from Matsui for Congress.
+Comment or Updates Name * First Last Email * Comment or Message SMS Updates Yes – Sign me up for SMS text updates Phone Number Submit By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from Matsui for Congress.
 Matsui for Congress campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 Messages may include donation asks.
 Message and data rates may apply.

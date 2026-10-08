@@ -1,6 +1,6 @@
 Meet Bill Issues News Volunteer Contribute Events MEET & MINGLE with 2026 CANDIDATES Saturday, March 14th, 10am-Noon $# per person at door or Anedot donation https://secure.anedot.com/lcrcc/2026candidatemingle Informal receiving-line format for individual introductions to all the candidates and friendly conversations throughout the morning.
 Beverages and snacks provided.
-2645 Suzanne Way, Eugene, OR #ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › 10 Oct Saturday, 10:00 AM – 12:00 PM Lane County Republican Party PCP Monthly Meeting - Meet Bill Vivian Veterans Memorial Building, 1626 Willamette Street, Eugene, OR Meet with your Lane County Republican Officers and Delegates!
+2645 Suzanne Way, Eugene, OR #ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › 10 Oct Saturday, 10:00 AM – 12:00 PM Lane County Republican Party PCP Monthly Meeting - Meet Bill Vivian Veterans Memorial Building, 1626 Willamette Street, Eugene, OR Meet with your Lane County Republican Officers and Delegates!
 Also several local candidates!
 More info › 8 Nov Sunday, 10:00 AM – 12:00 PM Lane County Republican Party PCP Monthly Meeting - Meet Bill Vivian Veterans Memorial Building, 1626 Willamette Street, Eugene, OR Meet with your Lane County Republican Officers and Delegates!
 Also several local candidates!

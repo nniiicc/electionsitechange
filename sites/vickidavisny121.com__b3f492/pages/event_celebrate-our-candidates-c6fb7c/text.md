@@ -11,4 +11,5 @@ Vicki Davis, candidate in NYS Assembly District 121.
 Ihor Semko, who is running for NYS Assembly in the 122nd District.
 Al Stirpe, seeking re-election in NYS Assembly District 127 There will be free admission at Foothills, along with live music, food truck, and a cash bar.
 Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: August 25 Time: 4:00 pm - 7:30 pm Website: https://www.madisoncountynydems.org/news/meet-democratic-candidates?source=2f85c12f-96bf-436d-a6f3-14eaa742370c Organizer Madison County Democratic Committee View Organizer Website Venue Foothill Hops Farm Brewery 5024 Bear Path Rd.
-Munnsville , NY 13409 United States + Google Map View Venue Website « Binghamton House Party Hamilton House Party » Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top
+Munnsville , NY 13409 United States + Google Map View Venue Website « Binghamton House Party Hamilton House Party » Vicki Davis for NYS Assembly 121 P.O.
+Box 135 Unadilla, NY 13849 Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

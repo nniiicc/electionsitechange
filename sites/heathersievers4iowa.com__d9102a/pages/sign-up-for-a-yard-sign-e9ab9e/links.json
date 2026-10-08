@@ -1,11 +1,46 @@
 [
-"https://facebook.com/wix",
-"https://heathersievers4iowa.com/",
-"https://heathersievers4iowa.com/about-heather",
-"https://heathersievers4iowa.com/sign-up-for-a-yard-sign",
-"https://heathersievers4iowa.com/the-issues",
-"https://instagram.com/wix",
-"https://secure.actblue.com/donate/heather-sievers-for-iowa-1",
-"https://secure.actblue.com/donate/sievers-yard-signs-2026",
-"https://twitter.com/wix"
+{
+"text": "About Heather",
+"href": "https://www.heathersievers4iowa.com/about-heather"
+},
+{
+"text": "Click here to contribute and receive a campaign yard sign →",
+"href": "https://secure.actblue.com/donate/sievers-yard-signs-2026"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/heather-sievers-for-iowa-1"
+},
+{
+"text": "HeatherSievers4Iowa@gmail.com",
+"href": "mailto:HeatherSievers4Iowa@gmail.com"
+},
+{
+"text": "Home",
+"href": "https://www.heathersievers4iowa.com"
+},
+{
+"text": "The Issues",
+"href": "https://www.heathersievers4iowa.com/the-issues"
+},
+{
+"text": "Volunteer Sign Up and Sign Request Form",
+"href": "https://www.heathersievers4iowa.com/sign-up-for-a-yard-sign"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Heather Logo Transparent.png]",
+"href": "https://www.heathersievers4iowa.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+}
 ]

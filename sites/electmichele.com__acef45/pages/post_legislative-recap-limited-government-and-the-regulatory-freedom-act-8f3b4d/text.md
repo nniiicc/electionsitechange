@@ -1,5 +1,6 @@
-Legislative Recap: Limited Government and the Regulatory Freedom Act
-Tennesseans are self-reliant people.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES All Posts Search Legislative Recap: Limited Government and the Regulatory Freedom Act Team Reneau Jun 14 3 min read Tennesseans are self-reliant people.
 We do not need bureaucrats in Washington or unaccountable regulators in Nashville telling us how to run our businesses, raise our children, or live our lives.
 Limited government means more than talking about freedom.
 It means keeping government accountable, reducing unnecessary burdens, and protecting the ability of citizens to challenge government when it oversteps.
@@ -29,3 +30,5 @@ I will continue pushing for a smaller, more disciplined state government that re
 Limited government is not a slogan.
 It is a discipline.
 It requires transparency, restraint, and the humility to remember that the government exists to serve the people, not the other way around.
+Recent Posts See All Citizen's Voices: A Digital Collection of Community Op-Eds Legislative Recap: Investments in Rural Tennessee and Hamilton County Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

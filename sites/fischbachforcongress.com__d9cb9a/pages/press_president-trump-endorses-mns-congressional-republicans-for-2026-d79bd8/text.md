@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press President Trump endorses MN’s congressional Republicans for 2026 Nov 4 | Press In a series of Truth Social posts, Trump endorsed Michelle Fischbach, Brad Finstad, Tom Emmer and Pete Stauber President Donald Trump endorsed Minnesota’s four congressional Republicans earlier this week.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press President Trump endorses MN’s congressional Republicans for 2026 Nov 4 | Press In a series of Truth Social posts, Trump endorsed Michelle Fischbach, Brad Finstad, Tom Emmer and Pete Stauber President Donald Trump endorsed Minnesota’s four congressional Republicans earlier this week.
 The endorsements came in a series of Truth Social posts on Monday for Michelle Fischbach of Minnesota’s 7th District, Brad Finstad of the 1st District, Tom Emmer of the 6th District and Pete Stauber of the 8th District.
 The four Republicans are running as incumbents for their seats in the U.S.
 House.

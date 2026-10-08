@@ -1,5 +1,0 @@
-Skip to content HOME ABOUT ISSUES VOLUNTEER MEDIA Show submenu for MEDIA ENDORSEMENTS MEETINGS Open main navigation Close main navigation HOME ABOUT ISSUES VOLUNTEER MEDIA Show submenu for MEDIA ENDORSEMENTS MEETINGS DONATE DONATE Press Release (Nov 25) officially announcing my campaign for Clark County Commissioner District F Download Press Release (AD 8) officially announcing my campaign for State Assembly District 8 Download Press Release (June 10th) Officially Accepting the Republican Nominee and winning the primary June 9th 2026 Download DONATE TODAY HOME ABOUT ISSUES VOLUNTEER MEETINGS Contact the Campaign Call our office anytime: (702) 204-1872 Press inquiries: VoteCharafi@gmail.com Media & updates: www.charafi4nevada.com/media To contribute by mail Please make checks payable to: Committee to Elect Joseph Charafi.
-Mailing address available upon request: info@charafi4nevada.com Contributions are not tax-deductible.
-Nevada law (NRS Chapter 294A) requires us to collect and report the name, residential address, occupation, and employer of all contributors.
-Paid for by Committee to Elect Joseph Charafi.
-Copyright © #, Paid for by Charafi4Nevada

@@ -1,4 +1,4 @@
-0 Skip to Content Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Homegrown in the 14th—with comunidad behind us.
+0 Skip to Content Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Homegrown in the 14th—with comunidad behind us.
 De aquí somos, con el apoyo de nuestra comunidad .
 Endorsements From the Lower Yakima Valley to every corner of the 14th LD and beyond, local leaders are standing with Chelsea.
 Desde el Valle de Yakima hasta cada rincón del Distrito 14 y más allá, líderes locales están con Chelsea.

@@ -58,4 +58,4 @@ So let’s build it: cover the teeth, the eyes, and the ears, and bring the nurs
 That’s a country that takes care of the people who took care of us.
 Together, we can make it real.
 All Policies Next Policy Return to Top SOURCES Hearing loss and untreated vision loss among the leading modifiable dementia risk factors: The Lancet — “Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission” Chronically ill patients in their last two years of life account for about one-third of Medicare spending: Dartmouth Atlas of Health Care — Care for the Chronically Ill (Last Two Years of Life) Rural hospital closures and the growing distance to care — more than 100 rural hospitals closed from 2013 to 2020, and affected residents traveled about 20 miles farther for common services: GAO — “Rural Hospital Closures: Affected Residents Had Reduced Access to Health Care Services,” GAO-21-93 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

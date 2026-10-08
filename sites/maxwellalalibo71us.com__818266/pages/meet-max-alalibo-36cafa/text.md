@@ -30,7 +30,7 @@ Max is listening.
 Your voice matters in District 27.
 Phone: (281) 739-9924 Email: maxwellalalibous20@gmail.com Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * Email * Zip Code 77xxx Area of Concern / Inquiry Public Safety Healthcare & Seniors Infrastructure & Roads Small Business & Economy Government Accountability General Inquiry Concern your Zip Share your Concern What is on your mind regarding District 27?
+Name * Email * Email Steps Area Zip Code 77xxx Area of Concern / Inquiry Public Safety Healthcare & Seniors Infrastructure & Roads Small Business & Economy Government Accountability General Inquiry Share your Concern What is on your mind regarding District 27?
 Whether it's a neighborhood issue or a vision for the future, Max is listening Next Steps I want to receive campaign updates I support Max to Lead District 27 Log your concern keep in touch Linkedin Facebook Paid for by Max-Alalibo for Texas House District 27.
 Max-Alalibo, Candidate. © # Max-Alalibo for Texas House District 27.
 All Rights Reserved.

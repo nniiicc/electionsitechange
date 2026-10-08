@@ -19,5 +19,5 @@ But that's the job: Defend Trump, NO MATTER WHAT.
 That's what she'd be expected to do by the wealthy people who've financed her campaign.
 Please don't help her to succeed in this nasty effort.
 Send Laura Jones to Congress.
-Steve Kobb Concerned Citizen You can read my other blog posts at https://www.laura4tx.com/blog Recent Posts See All Similarities and Differences The Way We Were Community First info@laura4tx.com laurajonesforcongress@gmail.com Laura Jones - FOR CONGRESS - © Paid for by Laura Jones for Congress P.O.
+Steve Kobb Concerned Citizen You can read my other blog posts at https://www.laura4tx.com/blog Recent Posts See All Character and Class Similarities and Differences The Way We Were info@laura4tx.com laurajonesforcongress@gmail.com Laura Jones - FOR CONGRESS - © Paid for by Laura Jones for Congress P.O.
 Box 742, Coldspring, Texas 77331 R bottom of page

@@ -1,6 +1,8 @@
 Thanks for your interest in our AMERICA FIRST movement.
 Will you please take a moment to join our team?
-Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Category: Safer And Stronger Communities June 18, 2026 • Brian Mast Back The Blue For years, the radical Left told us that supporting law enforcement would make our communities less safe.
+Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Category: Safer And Stronger Communities October 7, 2026 • Brian Mast Safe Roads Are Not Optional Three people left home on August 12, 2025, and never made it back.
+On Florida’s Turnpike, minutes from my home, a commercial tractor-trailer driver used an “Official Use Only” access point to make an illegal U-turn.
+Read More June 18, 2026 • Brian Mast Back The Blue For years, the radical Left told us that supporting law enforcement would make our communities less safe.
 They were wrong.
 The FBI just released new data showing violent crime dropped 9.3% in 2025—the largest decline since 1937.
 Read More May 22, 2025 • Brian Mast Tell The Senate: Pass Trump’s One Big, Beautiful Bill!
@@ -30,9 +32,9 @@ Read More Get Email Updates First Name Last Name Email Address * Phone Sign up h
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.
-Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me # Days.
+Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me 56 Days.
 One Mission.
-# Days To Defend Florida’s Future Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Stay Up To Date First Name Last Name Email Address * Phone Sign up here to receive text updates.
+Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Stay Up To Date First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.

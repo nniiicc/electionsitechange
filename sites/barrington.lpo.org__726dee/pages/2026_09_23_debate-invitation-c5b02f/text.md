@@ -6,6 +6,6 @@ I am not afraid to have my ideas challenged by my opponents.
 Why are you?
 Leave a Reply Cancel Reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
-Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

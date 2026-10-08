@@ -1,6 +1,6 @@
 Skip to content Home Bio Issues News Volunteer Donate Contact Search for: Search Donate Today Skip to content Home Bio At A Glance Issues News Volunteer Donate Contact Contact Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Number Name / Name * First Last Email * Email Confirm Email Phone Number * 000-000-0000 | Area Code + Phone Number ZIP Code * 00000 | Numbers Only Comment or Message Text Message / SMS Opt-In: By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from the Committee to Elect Judge Blair Downing Edwards.
+Name * First Last Text Email Message Email * Email Confirm Email Phone Number * 000-000-0000 | Area Code + Phone Number ZIP Code * 00000 | Numbers Only Comment or Message Text Message / SMS Opt-In: By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from the Committee to Elect Judge Blair Downing Edwards.
 Message frequency varies.
 Message and data rates may apply.
 Donations may be solicited.

@@ -1,4 +1,4 @@
-Skip navigation menu About Issues Events Volunteer Yard Signs Donate About Issues Events Volunteer Yard Signs Donate Show your support with a yard sign!
+Skip navigation menu About Issues Volunteer Yard Signs Donate About Issues Volunteer Yard Signs Donate Show your support with a yard sign!
 Yard signs are a great way to support the campaign and introduce Shannon to your neighbors.
 Sign up to host a yard sign!
 We will deliver the sign to you!

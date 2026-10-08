@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Volunteer Donate Events Home About Priorities Endorsements Volunteer Events Donate Menu Common sense.
+Skip to content Home About Priorities Volunteer Donate Events Donate Home About Priorities Endorsements Volunteer Events Vote Menu Common sense.
 North Carolina values.
 Paul Barringer, Democrat for Congress.
 I’m running for US Congress to put the people of District 13 first – ahead of any big corporations, partisan agenda, or the DC establishment.

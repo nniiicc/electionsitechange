@@ -64,9 +64,7 @@ A Harvard-trained pediatrician and UC Davis professor, he has cared for underser
 Known for flipping his state legislative seat from Red to Blue, Dr.
 Pan is a proven fighter who brings people together to get results — expanding access to health care, strengthening schools, and improving public safety.
 A husband, father, and small business owner, he understands the challenges families face and is running for Congress to make government work for people again, so every child and family in California has the chance to succeed.
-Daisy Stein Previous Previous Asian Americans for Good Government, ASPIRE PAC, CAPA21, AAA Fund, and AAPI Victory Fund Endorse Dr.
-Richard Pan for Congress Next Next On Dobbs Anniversary, Dr.
-Richard Pan Calls Out Kevin Kiley’s Extreme Anti-Abortion Record ABOUT ‍ ‍ ISSUES ‍ ‍ NEWS ‍ ‍ ENDORSEMENTS ‍ GET INVOLVED ‍ PAID FOR BY Dr.
+Daisy Stein ABOUT ‍ ‍ ISSUES ‍ ‍ NEWS ‍ ‍ ENDORSEMENTS ‍ GET INVOLVED ‍ PAID FOR BY Dr.
 Richard Pan for Congress Prefer to donate by check?
 2701 Del Paso Road, Ste 130-159 Sacramento CA 95835 © Copyright #.
 All Rights Reserved.

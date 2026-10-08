@@ -1,4 +1,4 @@
-Toggle navigation Home Meet Roger Volunteer Contact Shop Donate Contact First Name * Last Name * Email Address * Phone Number * Message Please prove you are human by selecting the Star .
+Toggle navigation Home Meet Roger Volunteer Contact Shop Donate Contact First Name * Last Name * Email Address * Phone Number * Message Please prove you are human by selecting the Truck .
 Submit Home Meet Roger Volunteer Contact Shop Donate Paid for by the Roger Williams for U.S.
 Congress Committee Roger Williams for U.S.
 Congress 10 N.

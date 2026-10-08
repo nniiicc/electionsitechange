@@ -9,8 +9,8 @@ Msg & data rates may apply.
 Reply STOP to unsubscribe, HELP for help.
 Add more — languages, availability… (all optional) I'm in Or jump into an event Ready right now?
 RSVP to an upcoming shift.
-Wed, Oct 7 · 6-7:30PM Phone Bank for Gene Wu Virtual RSVP Sat, Oct 10 · 9:00am-11:30am Block Walk for Gene Wu Campaign HQ RSVP Sun, Oct 11 · 7:00 PM – 8:00 PM AAPI Town Hall with Rep.
-Gene Wu Virtual RSVP See all events Take the next step Ready to do more?
+Sat, Oct 10 · 9:00am-11:30am Block Walk for Gene Wu Campaign HQ RSVP Sun, Oct 11 · 7:00 PM – 8:00 PM AAPI Town Hall with Rep.
+Gene Wu Virtual RSVP Wed, Oct 14 · 6-7:30PM Phone Bank for Gene Wu Virtual RSVP See all events Take the next step Ready to do more?
 Volunteer Raise your hand — knock doors, make calls, or help at an event.
 We'll train you.
 Volunteer Organize an event Lead a house party, block walk, or phone bank — we bring the program and the kit.

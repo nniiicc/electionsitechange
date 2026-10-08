@@ -9,4 +9,4 @@ Throughout history, socialism and collectivism have never led to positive outcom
 It is time to stop experimenting with failed ideologies and start betting on ourselves again.
 We are a nation of builders, not dependents.
 Let us rebuild New York.
-See Caroline Shinkle's Priorities DONATE NOW Donate Now ↗     Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress
+See Caroline Shinkle's Priorities DONATE NOW Donate Now ↗      Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress

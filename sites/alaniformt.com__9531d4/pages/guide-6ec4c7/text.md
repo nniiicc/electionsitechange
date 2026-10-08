@@ -1,12 +1,12 @@
 2026 Montana U.S.
-Senate · Voter Guide Proposition by proposition Where all four candidates — Alani Bankhead , Kurt Alme, Seth Bodnar, and Kyle Austin — stand on 114 specific propositions , side by side.
+Senate · Voter Guide Proposition by proposition Where all four candidates — Alani Bankhead , Kurt Alme, Seth Bodnar, and Kyle Austin — stand on 117 specific propositions , side by side.
 Every position is located and sourced the same way, from the candidates' own words and public filings.
 A gap means no position was found, not that none exists.
-Current as of October 5, 2026.
-Who's on the record — and who isn't Across 114 propositions · current as of October 5, 2026 · every candidate's positions located and sourced the same way Kurt Alme Republican 32 Alani Bankhead Democrat 110 Seth Bodnar Independent 61 Kyle Austin Libertarian 31 This chart counts one thing: how many of these 114 issues each candidate has taken a clear, sourced position on.
+Current as of October 7, 2026.
+Who's on the record — and who isn't Across 117 propositions · current as of October 7, 2026 · every candidate's positions located and sourced the same way Kurt Alme Republican 32 Alani Bankhead Democrat 113 Seth Bodnar Independent 61 Kyle Austin Libertarian 31 This chart counts one thing: how many of these 117 issues each candidate has taken a clear, sourced position on.
 It doesn’t say who is right.
-Alani has the most detail: 93 of her 110 positions carry a specific plan, and the other three candidates have 30 plans between them.
-She has a position on 110 of the 114 issues.
+Alani has the most detail: 95 of her 113 positions carry a specific plan, and the other three candidates have 30 plans between them.
+She has a position on 113 of the 117 issues.
 The next closest has 61.
 A short bar means a candidate hasn’t said, and it doesn’t mean they disagree.
 Some of these issues only Alani has addressed so far, and every candidate’s gaps are marked the same way.
@@ -344,6 +344,11 @@ Immigration reform beyond enforcement Sources: 2·5·11·3 Kurt Alme Rep Not fou
 Alani Bankhead Dem Supports Plan Secure the border and go after traffickers, clear the visa backlog, shut ICE down and build its replacement from scratch, move immigration courts out of the DOJ into independent judges, keep the military out of immigration enforcement, and oppose family detention.
 “Treat people like people.” Seth Bodnar Ind Supports Plan Secure the border and build an orderly, fair immigration system: reliable legal labor for farmers and ranchers, constitutional protections for everyone on American soil, and immigration recognized as a source of prosperity.
 Kyle Austin Lib Not found No position located.
+Let Ukrainians here legally stay while the war goes on, with a path to permanent residence Sources: 2 Kurt Alme Rep Not found No position located.
+Alani Bankhead Dem Supports Plan Extend Temporary Protected Status for Ukrainians for as long as Russia’s war makes it unsafe to go home, and pass the Ukrainian Adjustment Act so those who came legally and passed vetting have a path to permanent residence.
+Clear the work-permit backlog so people here legally can work.
+Seth Bodnar Ind Not found No position located.
+Kyle Austin Lib Not found No position located.
 Federal drug prevention and treatment funding alongside enforcement Sources: 5·19 Kurt Alme Rep Supports Plan Cites the HEART Fund he helped create as budget director; would build public-private recovery partnerships.
 Alani Bankhead Dem Supports Stance Fund prevention and treatment alongside enforcement.
 You can't arrest your way out of addiction.
@@ -434,6 +439,15 @@ Kyle Austin Lib Not found No position located.
 Maintain or expand foreign aid Sources: 2 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Restore USAID and rebuild it stronger with real fraud controls, reauthorize PEPFAR, replenish the Global Fund, rejoin the WHO, and protect the food-aid programs that buy Montana’s peas and lentils.
 One of the cheapest national-security tools we have.
+Seth Bodnar Ind Not found No position located.
+Kyle Austin Lib Not found No position located.
+Keep giving Ukraine the weapons and intelligence to defend itself Sources: 2 Kurt Alme Rep Not found No position located.
+Alani Bankhead Dem Supports Stance Stand with Ukraine with the weapons, intelligence, and sanctions it needs to hold the line, and make Russia bear the cost of its aggression.
+In 1994 Ukraine gave up the world’s third-largest nuclear arsenal for security assurances Russia broke.
+Seth Bodnar Ind Not found No position located.
+Kyle Austin Lib Not found No position located.
+Send frozen Russian assets held in the U.S. to Ukraine’s defense and rebuilding Sources: 2 Kurt Alme Rep Not found No position located.
+Alani Bankhead Dem Supports Plan Make Russia pay for the damage: pass the bipartisan REPO Implementation Act and send the frozen Russian assets held in the U.S. to Ukraine’s defense and rebuilding.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
 Sentinel missile program must use union Montana labor Sources: 5·40 Kurt Alme Rep Not found No position located.

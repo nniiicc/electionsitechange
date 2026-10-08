@@ -1,4 +1,4 @@
-Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA MAJOR ENDORSEMENT ALERT Chico Mayor Endorses Dom Belza For 3 rd Assembly District Chico, Calif. – – Today, Dom Belza released a major endorsement in his campaign for the 3 rd Assembly District.
+Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us DONATE ENDORSE DOM BELZA MAJOR ENDORSEMENT ALERT Chico Mayor Endorses Dom Belza For 3 rd Assembly District Chico, Calif. – – Today, Dom Belza released a major endorsement in his campaign for the 3 rd Assembly District.
 Making an early statement in the campaign to replace Assembly Republican Leader James Gallagher who is serving his final term, Belza announced Chico Mayor Kasey Reynolds is endorsing his campaign.
 Chico is the largest city in the 3 rd Assembly District.
 Mayor Kasey Reynolds is one of the most recognizable leaders in Butte County.

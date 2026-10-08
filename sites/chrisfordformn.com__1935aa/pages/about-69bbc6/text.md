@@ -1,4 +1,4 @@
-0 Skip to Content About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Who I Am Chris Ford has dedicated his life to service to Minnesotans.
+0 Skip to Content About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Who I Am Chris Ford has dedicated his life to service to Minnesotans.
 He served as a firefighter for 21 years, including 13 years as Captain in Rochester.
 He works as a paraprofessional at Blaine High School, helping to educate our kids.
 He supports our community as a Park Board member and member of the Neighborhood Traffic Commission.

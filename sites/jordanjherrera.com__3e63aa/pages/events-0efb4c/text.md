@@ -1,7 +1,7 @@
 Phone: +1 816-287-2326 DONATE About Message from Jordan Issues Merch Volunteer Vote Events Contact 35 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation Month List Month Day This Month 10/7/2026 October 2026 Select date.
+Find Events Event Views Navigation Month List Month Day This Month 10/8/2026 October 2026 Select date.
 Calendar of Events M Monday T Tuesday W Wednesday T Thursday F Friday S Saturday S Sunday 1 event 28 1 event, 28 6:00 pm - 9:00 pm Trivia Night for Michael Scott September 28 @ 6:00 pm - 9:00 pm CDT Trivia Night for Michael Scott Test your knowledge and support Michael Scott for Missouri House of Representatives District 35 at a trivia night fundraiser! $20 admission, 6 rounds of trivia with prizes for 1st, 2nd, and 3rd place. $20 1 event 29 1 event, 29 7:00 pm - 10:00 pm Democratic Convention (Lebanon) September 29 @ 7:00 pm - 10:00 pm CDT Democratic Convention (Lebanon) Join us for an evening with our local, state, and federal Democratic candidates.
 There will be dinner available for purchase.
 Throughout dinner and speeches, there will be a silent auction, benefitting participating county Democratic committees.

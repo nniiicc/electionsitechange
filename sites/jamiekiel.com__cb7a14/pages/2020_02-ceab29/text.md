@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News House passes teacher retirement bill; fate uncertain in the Senate Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News House passes teacher retirement bill; fate uncertain in the Senate Rep.
 Jamie Kiel, R-Russellville, thinks the retirement benefits need to apply to all school personnel because shortages can be seen in multiple fields, not just classroom educators.
 “We not only have a teacher shortage in Alabama, we have a support personnel shortage as well in many areas of Continue Reading Transgender athlete bill stalls in House committee Rep.
 Jamie Kiel, R-Russellville, said he agrees with Pringle’s bill, but wasn’t sure it had the needed support to advance Thursday.

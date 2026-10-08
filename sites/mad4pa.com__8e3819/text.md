@@ -12,13 +12,14 @@ LEARN MORE VIEW OUR ENDORSEMENTS VIEW OUR ENDORSEMENTS PRIORITIES Our bridges, r
 LEARN MORE SUPPORT TEAM DEAN Without the proper resources, we can't fight back against the attacks that are sure to come our way.
 Chip in to join the fight! $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # OTHER AMOUNT OTHER AMOUNT Choose any amount to get started!
 If you've saved your information with ActBlue Express, your donation will go through immediately.
-#ago on Twitter The president, serving his own ego, is violating our First Amendment right to freedom of the press.
+#ago on Twitter TWO WEEKS left to register to vote for the 2026 General Election.
+Use the link in our bio to register to vote by October 19th. https://t.co/qFX4rRmc5... @madeleinedean #ago on Twitter This weekend I joined Planned Parenthood and Governor Josh Shapiro at a terrific canvass launch in Bucks County.
+With just under # days left until E... @madeleinedean #ago on Twitter The president, serving his own ego, is violating our First Amendment right to freedom of the press.
 It is unacceptable.
 In less than 50 days, the Ame... @madeleinedean #ago on Twitter I am thrilled to have joined Gov.
 Shapiro and State Senate candidate Chris Thomas at a canvass launch in Towamencin.
 Together, we will elect terrifi... @madeleinedean #ago on Twitter No amount of lies can convince Americans they are better off now than two years ago.
-While the President enriches himself and his family, uses taxpay... @madeleinedean #ago on Twitter We’re in Dallas today to remind people to focus on facts over farce.
-Reality check: Republicans have actively backed the President’s cruel polici... @madeleinedean #ago on Twitter When Democrats regain control of the House this November — our goal is crystal clear: We will make life more affordable by putting an end to these... @madeleinedean Get Involved By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
+While the President enriches himself and his family, uses taxpay... @madeleinedean Get Involved By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.

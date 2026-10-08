@@ -1,4 +1,9 @@
-Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Category: York Daily Record This York County couple was hit with a 221% health insurance increase Tom and Carol Shaw are both 63.
+Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Category: York Daily Record Dissident Republicans may hold key to 10th District Perry-Stelson race Tracy Pawelski’s Republican bona fides are impressive.
+The 63-year-old northern York County resident worked for former Republican U.S.
+Rep.
+George Gekas, who represented the district that included Harrisburg for two decades.
+Next, she worked for the Conservative Opportunity Society, a group of 35 House Republicans founded by former Speaker Newt Gingrich.
+During the first Bush […] This York County couple was hit with a 221% health insurance increase Tom and Carol Shaw are both 63.
 Tom is retired – he worked for 16 years for Capitol Blue Cross – and Carol teaches project management, part-time, at Harrisburg University.
 They live in a comfortable home on a cul-de-sac near Lewisberry, where they received the occasional visit from wild turkeys or songbirds who knock on the back door. […] Former WGAL anchor Stelson announces she will seek a rematch with Scott Perry in 2026 Former WGAL News anchor Janelle Stelson has announced that she will seek the Democratic nomination for the 10th Congressional District and a rematch with Republican U.S.
 Rep, Scott Perry in the 2026 midterm election.

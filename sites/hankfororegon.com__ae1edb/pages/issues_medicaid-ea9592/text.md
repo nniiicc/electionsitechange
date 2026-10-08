@@ -1,4 +1,4 @@
-0 Skip to Content About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Back Donate Reduce Medicaid Cuts Jan 18 Written By Hank Sanders In 2025, Trump led HR1 which will kick millions off Medicaid through arcane paperwork and eligibility requirements.
+0 Skip to Content About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Back Donate Reduce Medicaid Cuts Jan 18 Written By Hank Sanders In 2025, Trump led HR1 which will kick millions off Medicaid through arcane paperwork and eligibility requirements.
 This threatens our hospital closures and staff layoffs.
 That’s why I will work to create the Agency of Medicaid Paperwork Support (AMPS).
 AMPS will help people fill out paperwork and stay on Medicaid.

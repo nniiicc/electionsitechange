@@ -1,4 +1,7 @@
-0 Skip to Content About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Proudly Endorsed by Community Leaders Endorse Jules “Jules is steadfast in her support for protecting abortion and LGBTQ+ rights.
+0 Skip to Content About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Community Leaders Endorse Jules Endorse Jules Endorsements Endorsements Matter.
+They show support by advocates who fight every day for the important issues facing our communities.
+And they show that a candidate is willing to share their positions on those issues with honesty and transparency.
+“Jules is steadfast in her support for protecting abortion and LGBTQ+ rights.
 She’s a dependable progressive who’s leading the fight against climate change and working to lower health care and housing costs to level the playing field for working people.” U.S.
 Senator Jeff Merkley “While mayor of West Linn, Jules and I worked together on joint meetings between our cities on issues of mutual concern.
 She is providing a voice for our cities.

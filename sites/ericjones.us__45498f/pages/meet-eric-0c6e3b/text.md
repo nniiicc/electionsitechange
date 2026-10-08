@@ -84,4 +84,4 @@ CA-4 is nine counties — Colusa, Lake, Napa, Placer, Sacramento, Sonoma, Sutter
 Almost half the people living here have never once been represented by the man who holds the seat.
 I'm running to redeem the American Dream for my kids, and for everybody else's.
 Read the whole story My family My nonprofit work My business career Where I stand Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

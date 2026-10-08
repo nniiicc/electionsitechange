@@ -16,7 +16,7 @@ The Maryland Green Party is in its 25th year, and in 2024, it was the top-perfor
 Now, we're building something even bigger.
 This is your chance to be part of the movement and take action for a Maryland that works for everyone.
 RSVP Now and Join the Conversation!
-Previous Previous October 20 Forward Party & Go Green 2026 Happy Hour and Conversation Next Next November 11 Baltimore City Green Party Happy Hour Like what you see?
+Like what you see?
 Join the movement.
 DONATE volunteer Green Party Candidates for Governor & Lt.
 Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

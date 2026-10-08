@@ -1,4 +1,4 @@
-0 Skip to Content Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Chelsea Dimas 7/7/25 Chelsea Dimas 7/7/25 It’s Official: We’re Running in 2026—Pa’ la Gente!
+0 Skip to Content Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Chelsea Dimas 7/7/25 Chelsea Dimas 7/7/25 It’s Official: We’re Running in 2026—Pa’ la Gente!
 In 2024, Dimas made history as the first Democrat in 16 years to advance from the primary in the district, coming historically close to flipping the seat in the general election.
 Now, she is launching her campaign with renewed determination, focused on bringing this win home pa’ la gente .
 Read More Chelsea Dimas 7/7/25 Chelsea Dimas 7/7/25 Es oficial: ¡Nos postulamos en 2026—Pa’ la Gente!

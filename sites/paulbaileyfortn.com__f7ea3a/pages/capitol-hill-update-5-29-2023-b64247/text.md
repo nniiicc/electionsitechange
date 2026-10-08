@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 5/29/2023 Capitol Hill Update 5/29/2023 Home of the free, because of the brave.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 5/29/2023 Capitol Hill Update 5/29/2023 Home of the free, because of the brave.
 As we pause this Memorial Day, I hope you will join me in remembering those brave men and women who have made the ultimate sacrifice for our country.
 As we honor those who have served and continue to serve our country each day, I reflect back to April when I had the pleasure of welcoming World War II and Korean War Veterans, and their families, pictured below, to the Senate floor.
 The 113th General Assembly wrapped up its business for the 2023 legislative session on Friday, April 21.

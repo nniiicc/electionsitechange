@@ -1,51 +1,210 @@
 [
-"https://darleneforgeorgia.com/",
-"https://darleneforgeorgia.com/category/updates",
-"https://darleneforgeorgia.com/contact",
-"https://darleneforgeorgia.com/georgia-legislative-update-session-report",
-"https://darleneforgeorgia.com/georgia-legislative-update-week-1-2",
-"https://darleneforgeorgia.com/georgia-legislative-update-week-12",
-"https://darleneforgeorgia.com/georgia-legislative-update-week-12-2",
-"https://darleneforgeorgia.com/georgia-legislative-update-week-press-release",
-"https://darleneforgeorgia.com/legislative-updates",
-"https://darleneforgeorgia.com/resources",
-"https://legis.ga.gov/legislation/69274",
-"https://legis.ga.gov/legislation/69324",
-"https://legis.ga.gov/legislation/69368",
-"https://legis.ga.gov/legislation/69383",
-"https://legis.ga.gov/legislation/69412",
-"https://legis.ga.gov/legislation/69556",
-"https://legis.ga.gov/legislation/69579",
-"https://legis.ga.gov/legislation/69808",
-"https://legis.ga.gov/legislation/69936",
-"https://legis.ga.gov/legislation/69937",
-"https://legis.ga.gov/legislation/70041",
-"https://legis.ga.gov/legislation/70079",
-"https://legis.ga.gov/legislation/70087",
-"https://legis.ga.gov/legislation/70088",
-"https://legis.ga.gov/legislation/70106",
-"https://legis.ga.gov/legislation/70175",
-"https://legis.ga.gov/legislation/70239",
-"https://legis.ga.gov/legislation/70241",
-"https://legis.ga.gov/legislation/70341",
-"https://legis.ga.gov/legislation/70372",
-"https://legis.ga.gov/legislation/70386",
-"https://legis.ga.gov/legislation/70405",
-"https://legis.ga.gov/legislation/70476",
-"https://legis.ga.gov/legislation/70479",
-"https://legis.ga.gov/legislation/70493",
-"https://legis.ga.gov/legislation/70494",
-"https://legis.ga.gov/legislation/70528",
-"https://legis.ga.gov/legislation/70540",
-"https://legis.ga.gov/legislation/70591",
-"https://legis.ga.gov/legislation/70659",
-"https://legis.ga.gov/legislation/70673",
-"https://legis.ga.gov/legislation/70712",
-"https://legis.ga.gov/legislation/70787",
-"https://legis.ga.gov/legislation/70789",
-"https://legis.ga.gov/legislation/70797",
-"https://legis.ga.gov/legislation/70916",
-"https://legis.ga.gov/legislation/70943",
-"https://legis.ga.gov/search",
-"https://secure.anedot.com/darlene-for-georgia/donate"
+{
+"text": "Contact",
+"href": "https://www.darleneforgeorgia.com/contact/"
+},
+{
+"text": "Darlene Taylor",
+"href": "https://www.darleneforgeorgia.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/darlene-for-georgia/donate"
+},
+{
+"text": "Georgia Legislative Update – Press Release",
+"href": "https://www.darleneforgeorgia.com/georgia-legislative-update-week-press-release/"
+},
+{
+"text": "Georgia Legislative Update – Session Report",
+"href": "https://www.darleneforgeorgia.com/georgia-legislative-update-session-report/"
+},
+{
+"text": "Georgia Legislative Update – Week 1 Ending January 17, 2026",
+"href": "https://www.darleneforgeorgia.com/georgia-legislative-update-week-1-2/"
+},
+{
+"text": "Georgia Legislative Update – Week 12",
+"href": "https://www.darleneforgeorgia.com/georgia-legislative-update-week-12/"
+},
+{
+"text": "Georgia Legislative Update – Week 12 Part 2",
+"href": "https://www.darleneforgeorgia.com/georgia-legislative-update-week-12-2/"
+},
+{
+"text": "Home",
+"href": "https://www.darleneforgeorgia.com/"
+},
+{
+"text": "House Resolution 347",
+"href": "https://www.legis.ga.gov/legislation/70659"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.darleneforgeorgia.com/legislative-updates/"
+},
+{
+"text": "Resources",
+"href": "https://www.darleneforgeorgia.com/resources/"
+},
+{
+"text": "Senate Bill 1",
+"href": "https://www.legis.ga.gov/legislation/69274"
+},
+{
+"text": "Senate Bill 10",
+"href": "https://www.legis.ga.gov/legislation/69368"
+},
+{
+"text": "Senate Bill 100",
+"href": "https://www.legis.ga.gov/legislation/69936"
+},
+{
+"text": "Senate Bill 12",
+"href": "https://www.legis.ga.gov/legislation/69383"
+},
+{
+"text": "Senate Bill 121",
+"href": "https://www.legis.ga.gov/legislation/70041"
+},
+{
+"text": "Senate Bill 125",
+"href": "https://www.legis.ga.gov/legislation/70079"
+},
+{
+"text": "Senate Bill 130",
+"href": "https://www.legis.ga.gov/legislation/70087"
+},
+{
+"text": "Senate Bill 132",
+"href": "https://www.legis.ga.gov/legislation/70088"
+},
+{
+"text": "Senate Bill 140",
+"href": "https://www.legis.ga.gov/legislation/70106"
+},
+{
+"text": "Senate Bill 141",
+"href": "https://www.legis.ga.gov/legislation/70175"
+},
+{
+"text": "Senate Bill 148",
+"href": "https://www.legis.ga.gov/legislation/70241"
+},
+{
+"text": "Senate Bill 151",
+"href": "https://www.legis.ga.gov/legislation/70239"
+},
+{
+"text": "Senate Bill 173",
+"href": "https://www.legis.ga.gov/legislation/70341"
+},
+{
+"text": "Senate Bill 179",
+"href": "https://www.legis.ga.gov/legislation/70372"
+},
+{
+"text": "Senate Bill 185",
+"href": "https://www.legis.ga.gov/legislation/70386"
+},
+{
+"text": "Senate Bill 191",
+"href": "https://www.legis.ga.gov/legislation/70405"
+},
+{
+"text": "Senate Bill 199",
+"href": "https://www.legis.ga.gov/legislation/70479"
+},
+{
+"text": "Senate Bill 20",
+"href": "https://www.legis.ga.gov/legislation/69412"
+},
+{
+"text": "Senate Bill 201",
+"href": "https://www.legis.ga.gov/legislation/70494"
+},
+{
+"text": "Senate Bill 204",
+"href": "https://www.legis.ga.gov/legislation/70476"
+},
+{
+"text": "Senate Bill 207",
+"href": "https://www.legis.ga.gov/legislation/70493"
+},
+{
+"text": "Senate Bill 212",
+"href": "https://www.legis.ga.gov/legislation/70528"
+},
+{
+"text": "Senate Bill 218",
+"href": "https://www.legis.ga.gov/legislation/70540"
+},
+{
+"text": "Senate Bill 241",
+"href": "https://www.legis.ga.gov/legislation/70673"
+},
+{
+"text": "Senate Bill 244",
+"href": "https://www.legis.ga.gov/legislation/70712"
+},
+{
+"text": "Senate Bill 255",
+"href": "https://www.legis.ga.gov/legislation/70787"
+},
+{
+"text": "Senate Bill 256",
+"href": "https://www.legis.ga.gov/legislation/70789"
+},
+{
+"text": "Senate Bill 259",
+"href": "https://www.legis.ga.gov/legislation/70797"
+},
+{
+"text": "Senate Bill 291",
+"href": "https://www.legis.ga.gov/legislation/70916"
+},
+{
+"text": "Senate Bill 298",
+"href": "https://www.legis.ga.gov/legislation/70943"
+},
+{
+"text": "Senate Bill 36",
+"href": "https://www.legis.ga.gov/legislation/69556"
+},
+{
+"text": "Senate Bill 46",
+"href": "https://www.legis.ga.gov/legislation/69579"
+},
+{
+"text": "Senate Bill 82",
+"href": "https://www.legis.ga.gov/legislation/69808"
+},
+{
+"text": "Senate Bill 99",
+"href": "https://www.legis.ga.gov/legislation/69937"
+},
+{
+"text": "Senate Resolution 231",
+"href": "https://www.legis.ga.gov/legislation/70591"
+},
+{
+"text": "Senate Resolution 8",
+"href": "https://www.legis.ga.gov/legislation/69324"
+},
+{
+"text": "Updates",
+"href": "https://www.darleneforgeorgia.com/category/updates/"
+},
+{
+"text": "[image: Darlene Taylor]",
+"href": "https://www.darleneforgeorgia.com"
+},
+{
+"text": "gahouseseat173@gmail.com",
+"href": "mailto:gahouseseat173@gmail.com"
+},
+{
+"text": "https://www.legis.ga.gov/search",
+"href": "https://www.legis.ga.gov/search"
+}
 ]

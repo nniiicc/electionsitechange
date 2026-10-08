@@ -9,6 +9,6 @@ Have a question about the campaign, drop it here.
 We’ll get back to you as soon as we can!
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * Email * Email Text Name Subject Message Text Submit Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+Name * Email * Subject Message Name Subject Message Text Submit Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
 Brian Hartgraves Treasurer.
 Approved by Michelle Embree Ku.

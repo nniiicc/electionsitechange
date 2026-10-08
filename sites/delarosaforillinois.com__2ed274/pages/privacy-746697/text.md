@@ -23,6 +23,6 @@ Any changes will be posted on this page with an updated "Last Updated" date.
 Contact Us If you have questions about this privacy policy or wish to exercise your privacy rights, please contact the campaign through our official channels.
 This privacy policy applies to the Margaret DeLaRosa for Illinois House District 42 campaign.
 By signing up for updates or using this website, you acknowledge that you have read and understood this privacy policy.
-Fighting for our community in Illinois House District 42 Quick Links Meet Margaret Issues Endorsements Yard Signs Get Involved Volunteer Donate Connect Email [email protected] Follow Us Paid for by Committee to Elect Margaret DeLaRosa � 2026 Margaret DeLaRosa for Illinois.
+Fighting for our community in Illinois House District 42 Quick Links Meet Margaret Issues Endorsements Yard Signs Get Involved Volunteer Donate Connect Email [email protected] Follow Us Paid for by Committee to Elect Margaret DeLaRosa © 2026 Margaret DeLaRosa for Illinois.
 All rights reserved.
 Privacy Policy & Terms

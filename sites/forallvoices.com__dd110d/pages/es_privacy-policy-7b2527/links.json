@@ -60,7 +60,7 @@
 "href": "https://forallvoices.com/es/platform/"
 },
 {
-"text": "Política de privacidad",
+"text": "Política de privacidad y términos y condiciones relativos al correo electrónico y los mensajes de texto",
 "href": "https://forallvoices.com/es/privacy-policy/"
 },
 {
@@ -126,6 +126,18 @@
 {
 "text": "[tooltip: Youtube]",
 "href": "https://www.youtube.com/channel/UC_L9DxCqB9mlAjzsfRUqNvA"
+},
+{
+"text": "cm@forallvoices.com",
+"href": "mailto:cm@forallvoices.com"
+},
+{
+"text": "https://forallvoices.com/",
+"href": "https://forallvoices.com/es/"
+},
+{
+"text": "https://forallvoices.com/privacy-policy/",
+"href": "https://forallvoices.com/es/privacy-policy/"
 },
 {
 "text": "info@forallvoices.com",

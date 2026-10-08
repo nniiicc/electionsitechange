@@ -51,4 +51,4 @@ In reality, a lower cost of living is the difference between getting ahead and f
 End the corruption, and we can stop corporate tax cheats, and eliminate waste & fraud.
 All so that we can lower the cost of living for every family in CA-04 — without adding a dime to the debt.
 Read about Eric’s priority to Protect Our Future Join the Fight Contribute Return to the Top Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

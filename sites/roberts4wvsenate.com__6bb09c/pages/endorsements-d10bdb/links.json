@@ -1,9 +1,38 @@
 [
-"https://facebook.com/SenatorRollanRoberts",
-"https://instagram.com/roberts4wv",
-"https://roberts4wvsenate.com/",
-"https://roberts4wvsenate.com/about",
-"https://roberts4wvsenate.com/contact",
-"https://roberts4wvsenate.com/endorsements",
-"https://roberts4wvsenate.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.roberts4wvsenate.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.roberts4wvsenate.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.roberts4wvsenate.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/SenatorRollanRoberts"
+},
+{
+"text": "Home",
+"href": "https://www.roberts4wvsenate.com"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/roberts4wv"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.roberts4wvsenate.com/privacy-policy/"
+},
+{
+"text": "Roberts4WVSenate",
+"href": "https://www.roberts4wvsenate.com"
+},
+{
+"text": "[image: Roberts4WVSenate]",
+"href": "https://www.roberts4wvsenate.com/"
+}
 ]

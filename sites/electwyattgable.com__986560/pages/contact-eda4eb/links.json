@@ -1,9 +1,30 @@
 [
-"https://electwyattgable.com/",
-"https://electwyattgable.com/contact",
-"https://electwyattgable.com/meet-wyatt",
-"https://facebook.com/gablefornc",
-"https://instagram.com/gablefornc",
-"https://secure.anedot.com/gablefornc/donate",
-"https://twitter.com/gablefornc"
+{
+"text": "Contact",
+"href": "https://www.electwyattgable.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/gablefornc/donate"
+},
+{
+"text": "Meet Wyatt",
+"href": "https://www.electwyattgable.com/meet-wyatt"
+},
+{
+"text": "[image: Copy of CampaignLogo-Small - 1.png]",
+"href": "https://www.electwyattgable.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/gablefornc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gablefornc"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/gablefornc"
+}
 ]

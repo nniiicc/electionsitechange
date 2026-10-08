@@ -1,11 +1,58 @@
 [
-"https://automattic.com/cookies",
-"https://parkerfor10.wordpress.com/",
-"https://parkerfor10.wordpress.com/2026/09/30/green-energy-is-energy-sovereignty",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fparkerfor10.wordpress.com",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fparkerfor10.wordpress.com%2F2026%2F09%2F30%2Fgreen-energy-is-energy-sovereignty%2F&signup_flow=account",
-"https://wordpress.com/reader/feeds/156241207",
-"https://wordpress.com/start"
+{
+"text": "Blog at WordPress.com.",
+"href": "https://wordpress.com/"
+},
+{
+"text": "Get started",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Green Energy is Energy Sovereignty",
+"href": "https://parkerfor10.wordpress.com/2026/09/30/green-energy-is-energy-sovereignty/"
+},
+{
+"text": "Home",
+"href": "https://parkerfor10.wordpress.com/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fparkerfor10.wordpress.com%2F2026%2F09%2F30%2Fgreen-energy-is-energy-sovereignty%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fparkerfor10.wordpress.com%2F2026%2F09%2F30%2Fgreen-energy-is-energy-sovereignty%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fparkerfor10.wordpress.com"
+},
+{
+"text": "September 30, 2026",
+"href": "https://parkerfor10.wordpress.com/2026/09/30/green-energy-is-energy-sovereignty/"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Time For A Change",
+"href": "https://parkerfor10.wordpress.com"
+},
+{
+"text": "View site in Reader",
+"href": "https://wordpress.com/reader/feeds/156241207"
+},
+{
+"text": "[image]Time For A Change",
+"href": "https://parkerfor10.wordpress.com"
+},
+{
+"text": "[no text]",
+"href": "https://wordpress.com/start/"
+}
 ]

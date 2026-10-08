@@ -1,7 +1,26 @@
 [
-"https://ericksonforhouse.com/",
-"https://ericksonforhouse.com/about-shannon",
-"https://ericksonforhouse.com/contact",
-"https://ericksonforhouse.com/donate-form",
-"https://ericksonforhouse.com/issues"
+{
+"text": "About Shannon",
+"href": "https://www.ericksonforhouse.com/about-shannon"
+},
+{
+"text": "Contact",
+"href": "https://www.ericksonforhouse.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.ericksonforhouse.com/donate-form"
+},
+{
+"text": "Home",
+"href": "https://www.ericksonforhouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.ericksonforhouse.com/issues"
+},
+{
+"text": "repshannonerickson@gmail.com",
+"href": "mailto:repshannonerickson@gmail.com"
+}
 ]

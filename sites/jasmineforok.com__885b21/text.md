@@ -1,4 +1,4 @@
-0 Skip to Content HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER NEWS MEDIA RUNOFF SECURED // NEXT UP: NOVEMBER 2026 ELECTION THE WORK CONTINUES.
+0 Skip to Content HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA RUNOFF SECURED // NEXT UP: NOVEMBER 2026 ELECTION THE WORK CONTINUES.
 Same neighbors.
 Bigger room.
 We’re building a stronger, fairer Oklahoma together—no corporate scripts, no political games, just real work for real people.
@@ -8,11 +8,10 @@ Thousands of Oklahomans proved that real community power beats big-money politic
 Nurses.
 Working parents.
 First-time voters who decided they were done waiting on career politicians to care.
-You aren't just supporters on a list—you are the reason this campaign exists, and you are the ones driving it forward. → JOIN THE FAMILY Key Election Information GENERAL ELECTION · NOVEMBER 3, 2026 2026 01 Voter Registration Deadline October 3rd COUNTDOWN TO THE General election # Days : # Hours : # Minutes : # Seconds Days until Oklahoma General Election Check Your Voter Status upcoming events Voter Registration Ends Oct.
+You aren't just supporters on a list—you are the reason this campaign exists, and you are the ones driving it forward. → JOIN THE FAMILY Key Election Information GENERAL ELECTION · NOVEMBER 3, 2026 2026 01 Voter Registration Deadline October 3rd COUNTDOWN TO THE General election # Days : # Hours : # Minutes : # Seconds Days until Oklahoma General Election → Check Your Voter Status upcoming events Voter Registration Ends Oct.
 3rd ★ Voter Registration Ends Oct.
 3rd ★ Voter Registration Ends Oct.
-3rd ★ StayElection Ready Receive important election updates, registration reminders, voting information, and campaign announcements directly from Team Jasmine.
-Facecbook Newsletter Voter Registration Ends Oct.
+3rd ★ StayElection Ready Receive important election updates, registration reminders, voting information, and campaign announcements directly from Team Jasmine. → Facecbook → Newsletter Voter Registration Ends Oct.
 3rd ★ Voter Registration Ends Oct.
 3rd ★ Voter Registration Ends Oct.
 3rd ★ did you hear?
@@ -20,7 +19,8 @@ Media coverage, interviews, appearances, and statements.
 THE RECORD September 3, 2026 AP news: “Oklahoma primary runoff election results” September 3, 2026 2026 RUNOFF ELECTION RESULTS Read more → September 3, 2026 August 27, 2026 Tangle news: “Resurfaced TikTok of Democratic nominee for Oklahoma’s Senate seat goes viral.” August 27, 2026 Read more → August 27, 2026 August 27, 2026 mediaite: “WATCH: OK Democrat’s TikTok Showing Her Having a Bizarre ‘Mean Girls’-Style Meltdown Goes Viral After She Wins Senate Primary” August 27, 2026 Read more → August 27, 2026 PEOPLE ARE STANDING WITH JASMINE.
 Every endorsement tells a story.
 Together, they tell ours.
-Explore the growing archive of Oklahomans building this movement. → view the Stamp Book You’ve got questions, and you deserve answers.
+Explore the growing archive of Oklahomans building this movement. → view the Stamp Book s upport the campaign Show some OKLAhomie love 💙 Grab some campaign merch, rep the movement, or simply show your support.
+Every little bit of community love means a lot. → DONATE → MERCH You’ve got questions, and you deserve answers.
 Who is funding your campaign?
 You.
 Everyday Oklahomans.

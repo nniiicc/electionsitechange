@@ -11,8 +11,8 @@ Disclaimer Cristian Morales For Congress 2026 continues its efforts to constantl
 Despite our efforts to make all pages and content on Cristian Morales For Congress 2026 fully accessible, some content may not have yet been fully adapted to the strictest accessibility standards.
 This may be a result of not having found or identified the most appropriate technological solution.
 Here For You If you are experiencing difficulty with any content on Cristian Morales For Congress 2026 or require assistance with any part of our site, please contact us as detailed below and we will be happy to assist.
-Contact Us If you wish to report an accessibility issue, have any questions or need assistance, please contact Cristian Morales For Governor 2022 at: info@forallvoices.com Stay Informed Email (Required) Sign up Δ Stay connected Download Campaign Flyer Choose From: English Spanish Chinese Japanese Korean Vietnamese Contact Us Cristian Morales for Congress 2026 3025 Artesia Blvd.
+Contact Us If you wish to report an accessibility issue, have any questions or need assistance, please contact Cristian Morales For Congress 2026 at: info@forallvoices.com Stay Informed Email (Required) Sign up Δ Stay connected Download Campaign Flyer Choose From: English Spanish Chinese Japanese Korean Vietnamese Contact Us Cristian Morales for Congress 2026 3025 Artesia Blvd.
 #37 Torrance, CA 90504 info@forallvoices.com Paid for by Cristian Morales for Congress 2026.
-Committee ID: C00944405 Privacy Policy Accessibility © # Cristian Morales for All Voices.
+Committee ID: C00944405 Email and Text Messaging Privacy Policy and Terms and Conditions Accessibility © # Cristian Morales for All Voices.
 All Rights Reserved.
 Stay connected @CMoralesCAGov on Truth Social Manage consent Close Necessary Necessary Always Enabled Functional Functional Advertisement Advertisement Others Others SAVE & ACCEPT Please ensure Javascript is enabled for purposes of website accessibility

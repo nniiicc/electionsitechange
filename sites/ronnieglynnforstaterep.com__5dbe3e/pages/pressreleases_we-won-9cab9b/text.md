@@ -1,6 +1,6 @@
 0 Skip to Content Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Open Menu Close Menu Open Menu Close Menu Donate Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate We won!
 Thank you for all your support.
-Nov 9 Written By Ronnie Glynn Here is an adaption of my speech from Election Night.
+Nov 9 Written by Ronnie Glynn Here is an adaption of my speech from Election Night.
 By now, you are probably tired of seeing me on your tv, on your phone, in your mailbox, knocking on your door, asking for your money, bugging on the streets.
 So I'm especially appreciative that you stuck with me until the end.
 Let me take a few minutes to thank a few folks that made this possible.

@@ -18,4 +18,4 @@ Public safety and support for survivors $300 million in public safety aid, and $
 The Minnesota Farmers Union, Big Brothers Big Sisters of Central Minnesota, the Minnesota Grocers Association, Clean Water Action, the Minnesota Rural Electric Association and others have named me Legislator of the Year.
 They come from people who do this work every day, and who would know whether it was being done well.
 PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

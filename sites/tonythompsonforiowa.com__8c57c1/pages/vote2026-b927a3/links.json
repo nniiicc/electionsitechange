@@ -4,7 +4,11 @@
 "href": "https://tonythompsonforiowa.com/about-tony"
 },
 {
-"text": "Dallas County Auditor Site Voting Information",
+"text": "Am I registered to Vote?",
+"href": "https://sos.iowa.gov/voters/am-i-registered-vote"
+},
+{
+"text": "Dallas County Auditor Voting Information",
 "href": "https://www.dallascountyiowa.gov/503/Elections"
 },
 {
@@ -16,16 +20,20 @@
 "href": "https://secure.actblue.com/donate/tony_t"
 },
 {
-"text": "Early Voting",
-"href": "https://tonythompsonforiowa.com/vote2026"
-},
-{
 "text": "Events",
 "href": "https://tonythompsonforiowa.com/events"
 },
 {
+"text": "Find your polling place",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
 "text": "Home",
 "href": "https://tonythompsonforiowa.com/"
+},
+{
+"text": "Iowa Secretary of State's Elections page, including:",
+"href": "https://sos.iowa.gov/elections-voting"
 },
 {
 "text": "Issues",
@@ -42,6 +50,10 @@
 {
 "text": "Polk County's General Election Voter Information",
 "href": "https://www.polkcountyiowa.gov/county-auditor/election/news-and-press-releases/general-election-november-3-2026-voter-information/"
+},
+{
+"text": "Register to Vote",
+"href": "https://sos.iowa.gov/voters/voter-registration"
 },
 {
 "text": "Request a Sign",
@@ -70,6 +82,14 @@
 {
 "text": "Volunteer",
 "href": "https://tonythompsonforiowa.com/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://tonythompsonforiowa.com/vote2026"
+},
+{
+"text": "What to bring",
+"href": "https://sos.iowa.gov/voters/election-day"
 },
 {
 "text": "[image: Tony Thompson for Iowa]",

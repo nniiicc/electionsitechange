@@ -4,9 +4,9 @@ They help us understand how visitors interact with our website, allowing us to o
 In the table below, you will find detailed information about each type of cookie we use, their purpose, and how long they remain on your device.
 We are committed to respecting your privacy and providing transparency about the data we collect through cookies.
 For more information on how we handle your personal data, please see our Privacy Policy.
-Essential Comments Name Description Duration comment_author Used to track the user across multiple sessions.
-Session comment_author_email Used to track the user across multiple sessions.
+Essential Comments Name Description Duration comment_author_email Used to track the user across multiple sessions.
 Session comment_author_url Used to track the user across multiple sessions.
+Session comment_author Used to track the user across multiple sessions.
 Session Statistics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
 Learn more Sign Nominating Petition Donate to Campaign Get Involved Register to Vote What I Believe What I Stand For Get Involved Information and Resources PO Box 404 Hot Springs, SD 57747 Paid for by Bengs for South Dakota.
 Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.

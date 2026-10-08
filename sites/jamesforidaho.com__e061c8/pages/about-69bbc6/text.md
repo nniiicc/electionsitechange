@@ -40,5 +40,5 @@ Since returning to the Legislature in 2020, I have held at least three public to
 I take being your state senator seriously, and I believe good representation starts with listening.
 When I stand up at the Capitol, I want to do it knowing I am carrying the concerns, values, and priorities of the people I serve.
 MY IDAHO ROOTS RUN DEEP your support helps me keep fighting for an Idaho that works for all of us.
-Chip In Volunteer Contact Me Email: info@jamesforidaho.com Mailing Address: COMMITTEE TO ELECT JAMES RUCHTI P.O.
+Chip In Volunteer Contact Me Phone: 208-251-4104 Email: info@jamesforidaho.com Mailing Address: COMMITTEE TO ELECT JAMES RUCHTI P.O.
 BOX 6046 POCATELLO, ID 83205-6406 Follow Me on Social Media Paid for by the Committee to Elect James Ruchti | Treasurer – Dave Bagley

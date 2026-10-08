@@ -1,4 +1,4 @@
-☰ Home Priorities Meet Connie Volunteer Contribute Strong Schools = Strong Communities Strong public schools are the foundation of thriving communities.
+☰ Home Priorities Meet Connie Vote Volunteer Contribute Strong Schools = Strong Communities Strong public schools are the foundation of thriving communities.
 Tennessee ranks last in per-pupil public education funding, and our students deserve better.
 I will fight for: Fully funded public schools Support for teachers Strong literacy and early learning Career & technical education Safe, well-resourced classrooms Our children deserve schools that prepare them for whatever comes next.
 Quality Affordable Child Care = Working and Thriving Families The first three years of life build the foundation for all future learning — but quality child care is often out of reach for working families.

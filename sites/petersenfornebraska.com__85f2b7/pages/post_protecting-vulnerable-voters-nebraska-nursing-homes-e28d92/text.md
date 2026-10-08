@@ -3,7 +3,7 @@ Where Does Your Election Data Go?
 NBC News Investigation Stealing Military Votes?
 Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE Protecting Nebraska’s Most Vulnerable Voters: Their Vote.
 Their Choice.
-#ago 4 min read Every eligible Nebraskan deserves the opportunity to exercise the right to vote.
+Sep 30 4 min read Every eligible Nebraskan deserves the opportunity to exercise the right to vote.
 Just as importantly, every Nebraskan deserves to know that the choice reflected on their ballot is truly their own .
 That principle is especially important for elderly and vulnerable Nebraskans living in nursing homes and other long-term-care settings.
 On July 20, 2026, the Centers for Medicare & Medicaid Services (CMS) issued a Quality & Safety Special Alert addressing the voting rights and autonomy of residents in Medicare- and Medicaid-certified nursing facilities.
@@ -67,8 +67,9 @@ Their Vote.
 Their Choice.
 That's not a partisan principle.
 It's a fundamental part of protecting the integrity of Nebraska's elections.
-Tags: Election Integrity Nebraska Elections CMS Voter Protection Voting Rights Nursing Homes Centers for Medicare & Medicaid Services Recent Posts See All What Kansas's SAVE Law Can Teach Nebraska Kansas has adopted a new approach to citizenship verification and voter-list maintenance using the federal SAVE system.
+Tags: Election Integrity Nebraska Elections CMS Voter Protection Voting Rights Nursing Homes Centers for Medicare & Medicaid Services Recent Posts See All Who Has Access to Nebraska's Election Systems?
+Recent federal election-security developments raise an important question for Nebraska: who has privileged access to our election systems, voter data and infrastructure—and how is that access controll What Kansas's SAVE Law Can Teach Nebraska Kansas has adopted a new approach to citizenship verification and voter-list maintenance using the federal SAVE system.
 Scott Petersen examines what Nebraska can learn from its neighboring state while CISA’s 2026 Election Infrastructure Security Plan Is a Warning, Not a Reassurance CISA’s 2026 Election Infrastructure Security Plan identifies vulnerabilities involving voter-registration databases, election software, vendors and insider access.
-Scott Petersen explains why Nebraska The Election Integrity Spotlight is on Nebraska's Republican Primary for Secretary of State Scott Petersen acknowledges the growing national movement for election transparency and thanks the cybersecurity experts, data analysts, poll watchers, attorneys, and grassroots activists closely watc RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
+Scott Petersen explains why Nebraska RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
 All Rights Reserved.
 Paid for by Scott Petersen for Nebraska | 4121 S 87th Street, Omaha, NE 68127 DONATE REQUEST SIGN bottom of page

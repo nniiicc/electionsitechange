@@ -1,5 +1,4 @@
-End Abusive Corporate Control of Politics
-Five years ago, a defective Boeing 737 MAX crashed in Ethiopia and killed my daughter Samya, along with everyone else on board.
+Skip to content 413-377-6223 Campaign Headquarters 24 I sland Pond Rd, Springfield Main Menu Home Meet Nadia Policies Main Menu How to Vote Volunteer Donate Donate Volunteer Main Menu Home Meet Nadia Policies How to Vote Volunteer Donate End Abusive Corporate Control of Politics Five years ago, a defective Boeing 737 MAX crashed in Ethiopia and killed my daughter Samya, along with everyone else on board.
 That tragedy threw me into the fight for corporate accountability, and what I found changed everything I thought I knew about how our democracy works.
 I helped pass the bipartisan Aircraft Certification, Safety, and Accountability Act unanimously through Congress, and traveled to Illinois to strengthen state law so corporations can be held criminally responsible when they knowingly cause deaths.
 I know how to get things done.
@@ -14,3 +13,4 @@ Real representation means showing up, answering calls, doing the work, and using
 It means passing single-subject bills so voters know what they’re getting.
 It means term limits so Congress doesn’t become a career for insiders.
 And it means a Congress that answers to the people of Massachusetts, not to corporate donors writing checks from Washington boardrooms.
+Facebook X-twitter Instagram Apple Paid for by Nadia for Congress Privacy Policy

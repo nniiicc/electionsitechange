@@ -1,6 +1,6 @@
-Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes More Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes More Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
 Mail Boxes A Yummy Fish-to-eat (Coho) comes in big this year The Coho fish count at the Willamette Falls hits record last year and looking good this year, too!
 It is reported that the Coho salmon is not native to the Willamette Basin, but it is increasingly taking to the slow water tributaries that feed the Willamette.
 There has been talk in recent years of removing the eight dams that are on rivers that feed into the Willamette River, so as to boost the river's fish habitat for all fish.

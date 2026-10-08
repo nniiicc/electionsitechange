@@ -1,4 +1,13 @@
-Home About Deb Priorities Endorsements Get Involved Español Donate Home About Deb Priorities Endorsements Get Involved Español Donate Scroll Sign Up For The Newsletter Support Our Campaign Email Deb Senator Deb Patterson fights for Oregon’s future because she knows that we can move forward together.
+Home About Deb Priorities Endorsements Get Involved Español Donate Home About Deb Priorities Endorsements Get Involved Español Donate Scroll Sign Up For The Newsletter Support Our Campaign Email Deb Latest Updates Featured October 7, 2026 Indifference is Not Creative October 7, 2026 On April 12, 1999, a few months before the turn of the millennium, Holocaust survivor Elie Wiesel was invited to give a speech in the White House’s historic East Room.
+He reminded those present of the conflicts of the past century – two world wars, countless civil wars and assassinations of leaders like Gandhi, Martin Luther King, John F.
+Kennedy and the inhumanity of gulags and concentration camps.
+And he warned them of the “perils of indifference.” Read more → October 7, 2026 September 17, 2026 Campaign Update September 17, 2026 Election Day is less than 50 days away.
+We want to start by saying thank you.
+Every door you've knocked on, every call you've made, every yard sign you've put up, and every conversation you've had with a neighbor about why this election matters is adding up.
+We see the hours you are putting in, and we are grateful for every one of them.
+Read more → September 17, 2026 September 9, 2026 We need your help to win this election September 9, 2026 Canvassing and speaking to voters directly is one of the most effective ways to make sure Deb wins this seat.
+We need volunteers to knock doors, talk with neighbors, and help turn out support before Election Day.
+Read more → September 9, 2026 Senator Deb Patterson fights for Oregon’s future because she knows that we can move forward together.
 As a healthcare leader, Deb saw too many people skip the care they needed simply because they couldn’t afford it.
 That’s why she’s committed to ensuring every Oregonian has access to affordable, high-quality healthcare.
 Deb knows that strong schools are the foundation of a strong future.
@@ -35,5 +44,5 @@ COMMON SENSE GUN LAWS I respect the Second Amendment and come from a family of r
 But gun deaths are on the rise, and the number one killer of children.
 I believe we must act swiftly to prevent gun violence in our communities.
 I will always support straightforward and balanced policies that keep children, families, and neighborhoods safe.
-Why I'm Running Why Deb is Running Priorities Will You Help?
+Why I'm Running Oregonians Why Deb is Running Priorities Will You Help?
 DONATE Friends of Deb Patterson PO Box 8, Salem, OR 97308 (503) 400-5224 deb@debpattersonor.org Hours Home About Deb Priorities Endorsements Get Involved Donate Oregon Voter Registration FRIENDS OF DEB PATTERSON, PO BOX 8, SALEM, OR 97308 DEB@DEBPATTERSONOR.ORG Paid for by Friends of Deb Patterson, PAC ID #18821 ©# Friends of Deb Patterson

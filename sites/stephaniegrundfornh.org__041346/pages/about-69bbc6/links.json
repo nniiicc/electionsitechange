@@ -1,5 +1,18 @@
 [
-"https://stephaniegrundfornh.org/",
-"https://stephaniegrundfornh.org/about",
-"https://stephaniegrundfornh.org/contact"
+{
+"text": "About",
+"href": "https://stephaniegrundfornh.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://stephaniegrundfornh.org/contact/"
+},
+{
+"text": "Stephanie Grund for NH House",
+"href": "https://stephaniegrundfornh.org"
+},
+{
+"text": "[image: Stephanie Grund for NH House]",
+"href": "https://stephaniegrundfornh.org/"
+}
 ]

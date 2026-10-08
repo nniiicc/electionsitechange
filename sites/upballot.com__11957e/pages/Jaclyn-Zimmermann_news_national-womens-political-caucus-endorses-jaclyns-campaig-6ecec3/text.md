@@ -1,4 +1,4 @@
-About Jaclyn Issues Get Involved Events Updates Donate Now Home About Jaclyn Issues Get Involved Events Updates Donate Now October 7, 2026 National Women's Political Caucus Endorses Jaclyn's Campaign Jaclyn is proud to announce she has been endorsed by the National Women's Political Caucus.
+About Jaclyn Issues Get Involved Events Updates Donate Now Home About Jaclyn Issues Get Involved Events Updates Donate Now October 8, 2026 National Women's Political Caucus Endorses Jaclyn's Campaign Jaclyn is proud to announce she has been endorsed by the National Women's Political Caucus.
 Women's rights and issues are very important to Jaclyn and if elected, she will fight for reproductive freedom, for equal pay for women, and for affordable child care.
 For more information, click here.
 Support Jaclyn Zimmermann’s Campaign for Missouri Donate Now Zimmermann for Missouri PO Box 841 Manchester, MO 63021 tel:314-304-6442 | jaclyn4missouri@gmail.com Todd Zimmermann, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

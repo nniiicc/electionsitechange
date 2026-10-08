@@ -1,12 +1,50 @@
 [
-"https://https://www.facebook.com/Senatorkevincorbin",
-"https://kevincorbin.com/",
-"https://kevincorbin.com/contact",
-"https://kevincorbin.com/donate",
-"https://kevincorbin.com/endorsements",
-"https://kevincorbin.com/in-the-news",
-"https://kevincorbin.com/photo-gallery",
-"https://kevincorbin.com/wp-content/uploads/2016/08/kevin-corbin-nc-senate-500.jpg",
-"https://kevincorbin.com/wp-content/uploads/2016/09/national-federation-of-independent-business.pdf",
-"https://sitedartstudio.com/"
+{
+"text": "Contact",
+"href": "https://kevincorbin.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://kevincorbin.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://kevincorbin.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://kevincorbin.com/"
+},
+{
+"text": "In The News",
+"href": "https://kevincorbin.com/in-the-news/"
+},
+{
+"text": "National Federation of Independent Business",
+"href": "https://kevincorbin.com/wp-content/uploads/2016/09/national-federation-of-independent-business.pdf"
+},
+{
+"text": "North Carolina Right To Life, Inc. PAC",
+"href": "https://kevincorbin.com/wp-content/uploads/2016/08/kevin-corbin-nc-senate-500.jpg"
+},
+{
+"text": "Photo Gallery",
+"href": "https://kevincorbin.com/photo-gallery/"
+},
+{
+"text": "SiteDart Studio",
+"href": "https://sitedartstudio.com/"
+},
+{
+"text": "[image]",
+"href": "https://https://www.facebook.com/Senatorkevincorbin/"
+},
+{
+"text": "[image]",
+"href": "https://kevincorbin.com/"
+},
+{
+"text": "[image]",
+"href": "https://kevincorbin.com/contact/"
+}
 ]

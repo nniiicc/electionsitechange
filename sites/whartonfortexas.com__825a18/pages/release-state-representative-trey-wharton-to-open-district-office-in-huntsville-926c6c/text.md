@@ -10,8 +10,8 @@ Later this year, Representative Wharton will also launch mobile district office 
 “JoLynne and I invite everyone from across House District 12 to join us for the ribbon cutting on Tuesday, July 1 at 5:15 PM.
 We look forward to welcoming the community, introducing our staff, and officially opening the doors to this new chapter of constituent service,” said Wharton.
 ### Ribbon Cutting District Office Release 6.25.25 FINAL Download Post navigation Previous post: Prev RELEASE: Rep.
-Wharton’s Law Enforcement Protection Bill Headed to the Governor May 30, 2025 Next post: Next RELEASE: State Representative Trey Wharton Announces Reelection Campaign for Texas House July 1, 2025 You May Also Like Posted May 30, 2025 in TXLege News RELEASE: Rep.
-Wharton’s Law Enforcement Protection Bill Headed to the Governor Posted May 27, 2025 in TXLege News RELEASE: Wharton Bill Honoring Navasota Sergeant Mark Butler Advances to Governor Search for: Archives March 2026 July 2025 June 2025 May 2025 February 2025 Recent Posts RELEASE: Texas State Rep.
+Wharton’s Law Enforcement Protection Bill Headed to the Governor May 30, 2025 Next post: Next RELEASE: State Representative Trey Wharton Announces Reelection Campaign for Texas House July 1, 2025 You May Also Like Posted February 7, 2025 in TXLege News RELEASE: Rep.
+Trey Wharton Joins Texas Bicameral Water Caucus Posted May 27, 2025 in TXLege News RELEASE: Wharton Bill Honoring Navasota Sergeant Mark Butler Advances to Governor Search for: Archives March 2026 July 2025 June 2025 May 2025 February 2025 Recent Posts RELEASE: Texas State Rep.
 Trey...
 March 27, 2026 RELEASE: State Representative ...
 July 1, 2025 RELEASE: State Representative ...

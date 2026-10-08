@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues More Photos Endorsements Disaster Preparedness Free Kids Activity Workbook Volunteer Contact Us DONATE Open Menu Close Menu DONATE Home About Issues More Photos Endorsements Disaster Preparedness Free Kids Activity Workbook Volunteer Contact Us Open Menu Close Menu Home About Issues Folder: More Back Photos Endorsements Disaster Preparedness Free Kids Activity Workbook Volunteer Contact Us DONATE “Our state would benefit tremendously from having Garner in government.
+0 Skip to Content Home About Issues More Photos Endorsements Disaster Preparedness Free Kids Activity Workbook Volunteer Contact Us 'Ohana Card SEE THE WORK Open Menu Close Menu SEE THE WORK Home About Issues More Photos Endorsements Disaster Preparedness Free Kids Activity Workbook Volunteer Contact Us 'Ohana Card Open Menu Close Menu Home About Issues Folder: More Back Photos Endorsements Disaster Preparedness Free Kids Activity Workbook Volunteer Contact Us 'Ohana Card SEE THE WORK “Our state would benefit tremendously from having Garner in government.
 Garner is a true public servant who will put the people’s voices and priorities first without compromise.” -Augie T., District 9 Councilmember “ We Support Garner Shimizu for District 32” Debby Nakata Yee Founder of Jammers Volleyball Club “Growing up together in Moanalua, our two families were very close.
 I have always known Garner to be thoughtful, kind, intelligent and fair.
 I heartily support his views on term limits, diversifying our local economy and creating affordable housing.
@@ -47,5 +47,5 @@ In his questionnaires, you can see how his mind as an engineer is able to be tho
 While all his accolades will undoubtedly position him into the role as a strong voice for our community, the most impressive qualities I've experienced first hand are his willingness to learn and caring for others.
 I am proud and honored to call Garner Shimizu my dad, and encourage you to give him an opportunity to show you why he is well-loved and respected by many." - Taryn, Garner’s Daughter Ft.
 Shafter • Moanalua • Red Hill • AMR • Foster Village • Stadium • parts of Aliamanu, Halawa, Aiea, and Pearlridge To learn more about my Legislative work, visit www.repshimizu.com and follow my Instagram at www.instagram.com/repshimizu .
-Paid for by Friends for Garner Shimizu • P.O.
+Paid for by Friends for Garner Shimizu P.O.
 Box 51, Aiea, Hawaii 96701-9998 updated 2026

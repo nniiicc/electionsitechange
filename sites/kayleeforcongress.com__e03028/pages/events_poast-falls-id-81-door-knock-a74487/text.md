@@ -1,5 +1,5 @@
 0 Skip to Content Platform About About Kaylee District 1 Volunteer Events Videos Merch English Donate Open Menu Close Menu English Donate Platform About About Kaylee District 1 Volunteer Events Videos Merch Open Menu Close Menu Platform Folder: About Back About Kaylee District 1 Volunteer Events Videos Merch English Back Donate Post Falls, ID 8/1 - Door Knock!
-Jul 8 Written By Adam Bennett Come knock with Kaylee!
+Jul 8 Written by Adam Bennett Come knock with Kaylee!
 Register here for full details! https://www.mobilize.us/kayleeforcongress/event/981800/ Adam Bennett Previous Previous Caldwell, ID 8/8 - Hispanic Community & Voter Registration Event Next Next Wallace, ID 8/1 - Launch Party!
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

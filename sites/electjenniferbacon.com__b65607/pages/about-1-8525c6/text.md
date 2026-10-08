@@ -1,9 +1,6 @@
-top of page
-About Us
-Welcome to House District 7
-House District 7 is small geographically but extremely dense in population.
-Referred to as the Far Northeast of Denver, HD 7 encompasses the neighborhoods the furthest east in Denver, the land annexed from Adams county nearly 40 years ago.
+top of page Jennifer Bacon HOME PRIORITIES LEGISLATION HOUSE DISTRICT 7 GET INVOLVED More Use tab to navigate through the menu items.
+DONATE About Us Welcome to House District 7 House District 7 is small geographically but extremely dense in population.
+Referred to as the Far Northeast of Denver, HD 7 encompasses the neighborhoods the furthest east in Denver, the land annexed from Adams county nearly #ago.
 The FNE too is the area of Denver proper that has the most open land to build new development.
-Primarily residential, the FNE has also anthropologically been described as exurban or a bedroom community, where most people sleep but work and play elsewhere.
-Other Elected Leaders within House District 7
-bottom of page
+Primarily residential, the FNE has also anthropologically been described as exurban or a bedroom community, where most people sleep but work and play elsewhere. ​ House District 7 Democrats ​ ​ ​ ​ Other Elected Leaders within House District 7 James Coleman Senator District 33 www.colemanforcolorado.com Stacie Gilmore City Council District 11 https://www.rtd-denver.com/board-of-directors#districtB Monica Hunter Denver Board of Education District 4 https://www.dpsk12.org/o/dps/page/district-4 Shontel Lewis City Council District 8 https://www.shontelforcouncil.com/meet-shontel Amy Klein Molk Denver School Board Director https://www.dpsk12.org/o/dps/page/at-large-1 JoyAnn Ruscha RTD District B https://joyannforrtd.com/ Diana DeGette 1st District of Colorado https://degette.house.gov/ Michael Bennet John Hickenlooper United State Senators https://www.bennet.senate.gov https://www.hickenlooper.senate.gov Common Links ​ ​ City of Denver Mayor's Office Colorado General Assembly Denver Parks and Recreation Department of Labor & Employment District 5 Precinct Denver Health Register to Vote Local Leads & Features House District 7 Democrat s Montbello Organizing Committee Zero Fare for Youth Museum of Contemporary Art FaithBridge Struggle of Love Foundation Center for African American Health HOME PRIORITIES LEGISLATION HOUSE DISTRICT 7 GET INVOLVED More Use tab to navigate through the menu items.
+BACON FOR COLORADO 4860 CHAMBERS RD BOX 53 DENVER, CO 80239 720.593.9618 BACONFORCOLORADO@GMAIL.COM © # PAID FOR BY BACON FOR COLORADO bottom of page

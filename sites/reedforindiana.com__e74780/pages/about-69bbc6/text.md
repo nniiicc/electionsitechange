@@ -11,4 +11,4 @@ John has voted in every election since the first time he was eligible to vote an
 In his free time, John enjoys playing basketball, volleyball, and pickleball, as well as card games with his kids.
 He values highly his rural upbringing, loves studying American history and keeping up with current news, and cares deeply that his state stays true to the Christian and traditional ideals that have made both Indiana and America great.
 John’s extensive travels in Indiana and beyond, coupled with his more than ten years of experience in various administrative and leadership roles in an institution of higher learning, give him a broad perspective and a set of abilities that suit him well for representing Hoosiers in Indianapolis.
-Home About Policies Donate Get In Touch Contact Form Newsletter Name Email Message Send Paid for by the Committee to Elect John Reed.
+Home About Policies Donate Get In Touch Contact Form Updates Name Email Message Send Paid for by the Committee to Elect John Reed.

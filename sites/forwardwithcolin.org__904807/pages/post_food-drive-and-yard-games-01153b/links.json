@@ -1,18 +1,78 @@
 [
-"https://facebook.com/wix",
-"https://forwardwithcolin.org/",
-"https://forwardwithcolin.org/about",
-"https://forwardwithcolin.org/blog",
-"https://forwardwithcolin.org/donate",
-"https://forwardwithcolin.org/events",
-"https://forwardwithcolin.org/post/forward-party-state-convention",
-"https://forwardwithcolin.org/post/march-statement",
-"https://forwardwithcolin.org/post/salt-lake-county-convention",
-"https://forwardwithcolin.org/privacy-policy",
-"https://forwardwithcolin.org/profile/amessner94170082/profile",
-"https://forwardwithcolin.org/saving-the-lake",
-"https://forwardwithcolin.org/volunteer",
-"https://instagram.com/wix",
-"https://wix.com/",
-"https://x.com/wix"
+{
+"text": "About",
+"href": "https://www.forwardwithcolin.org/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.forwardwithcolin.org/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.forwardwithcolin.org/blog"
+},
+{
+"text": "Colin Smith",
+"href": "https://www.forwardwithcolin.org"
+},
+{
+"text": "Donate",
+"href": "https://www.forwardwithcolin.org/donate"
+},
+{
+"text": "Events",
+"href": "https://www.forwardwithcolin.org/events"
+},
+{
+"text": "Forward Party State Convention",
+"href": "https://www.forwardwithcolin.org/post/forward-party-state-convention"
+},
+{
+"text": "Home",
+"href": "https://www.forwardwithcolin.org"
+},
+{
+"text": "March Statement",
+"href": "https://www.forwardwithcolin.org/post/march-statement"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.forwardwithcolin.org/privacy-policy"
+},
+{
+"text": "Salt Lake County Convention",
+"href": "https://www.forwardwithcolin.org/post/salt-lake-county-convention"
+},
+{
+"text": "Saving The Lake",
+"href": "https://www.forwardwithcolin.org/saving-the-lake"
+},
+{
+"text": "See All",
+"href": "https://www.forwardwithcolin.org/blog"
+},
+{
+"text": "Volunteer",
+"href": "https://www.forwardwithcolin.org/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/wix"
+},
+{
+"text": "amessner941",
+"href": "https://www.forwardwithcolin.org/profile/amessner94170082/profile"
+}
 ]

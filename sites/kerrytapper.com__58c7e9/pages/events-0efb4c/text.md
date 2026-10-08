@@ -1,2 +1,2 @@
-Home Meet Kerry Endorsements Contribute News Volunteer Events #ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Home Meet Kerry Endorsements Contribute News Volunteer Events #ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com - Political Websites Home Meet Kerry Endorsements Contribute News Volunteer Close Menu

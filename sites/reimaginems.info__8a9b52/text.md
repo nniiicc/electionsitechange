@@ -1,6 +1,6 @@
 0 Skip to Content Elect Bennie Foster for U.S.
-Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
-Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Folder: Resources Back Voting Contact Donate DONATE Bennie Foster THE INDEPENDENT IMPLEMENTER Vote November 3, 2026 Voting Resources We are bringing the campaign to YOUR county.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Updates Folder: Resources Back Voting Contact Donate DONATE Bennie Foster THE INDEPENDENT IMPLEMENTER Vote November 3, 2026 Voting Resources We are bringing the campaign to YOUR county.
 Join us at one of our next tour stops and let us know what you want to see from your next congressman!
 TOUR DATES THE INDEPENDENT IMPLEMENTER Bennie Foster is the independent candidate for Mississippi’s 2nd U.S.
 Congressional District in 2026.

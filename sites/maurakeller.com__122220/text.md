@@ -32,9 +32,7 @@ She served, so she knows exactly how broken the current system is.
 Read More FULL PLATFORM support maura’S campaign $5 $50 $10 $100 $25 Other We can’t afford to let Brian Jack serve another term in Congress where his voting record shows he stands with Trump and not the people of our district.
 Maura needs your help to stop him.
 Help Maura set up District 3’s biggest ever opposition ground game—every single dollar counts for lawn signs , t-shirts , and more!
-Endorsements Georgia AFL-CIO VFRL Common Defense Hold the Line Recognized Candidate: Mental Health Now Recognized Candidate: Moms Demand Action March On PAC All Endorsements events All Events Events Oct 6 October 6, 2026 Texting Tuesdays with Maura Keller October 6, 2026 Volunteer with the Maura Keller campaign!
-Come join our text-banking party every Tuesday.
-Read more → October 6, 2026 Oct 7 October 7, 2026 Canvass with the Fayette Young Dems October 7, 2026 Volunteer with the Maura Keller campaign!
+Endorsements Georgia AFL-CIO VFRL Common Defense Hold the Line Recognized Candidate: Mental Health Now Recognized Candidate: Moms Demand Action March On PAC All Endorsements events All Events Events Oct 7 October 7, 2026 Canvass with the Fayette Young Dems October 7, 2026 Volunteer with the Maura Keller campaign!
 Come join our text-banking party every Tuesday.
 Read more → October 7, 2026 Oct 11 October 11, 2026 Canvass with the Maura Keller for Congress Campaign | Fayette County October 11, 2026 Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.

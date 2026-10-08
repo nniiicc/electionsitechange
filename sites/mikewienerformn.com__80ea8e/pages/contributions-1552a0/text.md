@@ -5,7 +5,7 @@ Online contributions are accepted below and are processed securely through PayPa
 Donate Now For donations of more than $# please fill out the form below Minnesota law requires us to collect and report the name, mailing address, occupation, and name of employer of individuals whose donations exceed $100 per the calendar year.
 Contributions are not tax-deductible.
 Campaign rules do not allow contributions to exceed more than $1,000 per individual or $2,000 per married couple.
-First Name Last Name Email Address Phone Street Address State Zip Code Company/Employer Position 1 + 1 = Submit Information If you prefer to send a check please make it payable to: ​Campaign for Mike Wiener P.O.
+First Name Last Name Email Address Phone Street Address State Zip Code Company/Employer Position 2 + 4 = Submit Information If you prefer to send a check please make it payable to: ​Campaign for Mike Wiener P.O.
 Box 413 Long Prairie, MN 56347 Per Minnesota law please include the following information Your name Mailing address Occupation Name of employer We appreciate any way you can help.
 Join us in bringing change.
 Learn more about how you can be involved.

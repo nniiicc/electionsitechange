@@ -1,4 +1,4 @@
-Skip to main content Tuesday, September 29 · An Evening with Lou Riley · Alpine Country Club, Cranston RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues Real Estate Pros How to Vote Get Involved Endorsements RSVP · Sept 29 Get in Touch Meet Lou Third-generation Scituate resident.
+Skip to main content Saturday, October 17 · Come Meet Lou · Merola’s, Scituate · 3–5 PM RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues How to Vote Get Involved Endorsements RSVP · Oct 17 Get in Touch Meet Lou Third-generation Scituate resident.
 Real estate attorney.
 Father of four.
 Candidate for RI House District 41.
@@ -35,8 +35,8 @@ He has advocated for legislation that helps our community, our district, and our
 He reads bills for a living, and he knows how one gets submitted, heard, amended, and passed — or quietly changed on page 12, after everyone has stopped reading.
 See the four planks → Hometown Roots Growing up in Scituate Long before law school, Lou grew up playing Little League right here in town.
 The 1995 Scituate Foster Little League All Stars brought home the Rhode Island District 4 championship — a small piece of the same hometown story that eventually brought his family back to Scituate to raise the next generation.
-Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Endorsements How to Vote Get Involved Sept.
-29 Reception Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
+Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Real Estate Pros Endorsements How to Vote Get Involved Oct.
+17 Meet & Greet Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
 178 Broadway, Providence, RI 02903.
 Authorized by the candidate.
 Privacy Policy © 2026 Friends of Michael Riley

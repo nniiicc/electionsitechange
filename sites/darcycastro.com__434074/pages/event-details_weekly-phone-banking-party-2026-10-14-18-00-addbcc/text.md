@@ -1,0 +1,4 @@
+top of page Donate Volunteer En Español Menu Close Priorities Endorsements Vote Media News and Press Downloadable Resources Get Involved How to Help Merch Events Contact En Español Votación Cómo Ayudar Weekly phone banking party Wed, Oct 14 | Kirkwood Presbyterian Church Time & Location Oct 14, 2026, 6:00 PM – 8:00 PM Kirkwood Presbyterian Church, 618 Acworth Due West Rd NW, Kennesaw, GA 30152, USA Other dates Wed, Oct 21, 6:00 PM Wed, Oct 28, 6:00 PM About the event Join us for writing postcards and building community!
+Bring a pen, a friend and some postcard stamps if you have them!
+Show More Share this event Donate Darcy Castro for Georgia Inc.
+3600 Dallas Highway Suite 230-237 Marietta, GA 30064 Paid for by Darcy Castro for Georgia Inc ​ Info@DarcyCastro.com 203.297.4994 bottom of page

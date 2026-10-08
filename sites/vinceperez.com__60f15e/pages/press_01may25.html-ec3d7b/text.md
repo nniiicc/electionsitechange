@@ -1,6 +1,6 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · May 1, 2025 Texas House Passes H.B.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · May 1, 2025 Texas House Passes H.B.
 2853, Paving the Way for a New UTEP Student Union The Texas House passes H.B.
-2853, modernizing the UTEP Student Union and advancing one of the largest investments in the campus in years.
+2853, paving the way for a new UTEP Student Union and advancing one of the largest investments in the campus in years.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .
 ### Vince Perez is State Representative for House District 77 in El Paso.

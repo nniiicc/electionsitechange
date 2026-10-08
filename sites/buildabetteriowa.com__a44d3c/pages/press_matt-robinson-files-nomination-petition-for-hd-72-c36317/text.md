@@ -16,4 +16,4 @@ When I am in Des Moines, I won’t settle for anything less than an $ 18-an-hour
 Robinson will now appear on the June primary ballot.
 The winner will face the incumbent, Jennifer Smith, in the November election.
 0 Comments Leave a Reply.
-For press inquiries Please email: MattRobinsonForIowa ​@gmail.com Home MY STORY Issues Press VOLUNTEER DONATE
+For press inquiries Please email: MattRobinsonForIowa ​@gmail.com Paid For by Matt Robinson for Iowa Home MY STORY Issues Press VOLUNTEER DONATE

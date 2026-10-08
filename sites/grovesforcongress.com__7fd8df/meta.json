@@ -1,14 +1,26 @@
 {
- "description": "Vote for Ralph Groves, the Libertarian Party candidate in Florida\u2019s 11th Congressional District. I'm Ralph Groves, recent Chairman of the Libertarian Party of Orange County.",
+ "description": "Vote for Ralph Groves, the Libertarian Party candidate in Florida’s 11th Congressional District. I'm Ralph Groves, recent Chairman of the Libertarian Party of Orange County.",
  "final_url": "https://www.grovesforcongress.com/",
- "paid_for_by": null,
+ "fingerprint": "a578c3ecd568d3a20975fef6de2c1ebd2e088f3b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ralph Groves - Libertarian Party | Groves for Congress 2026",
  "years_mentioned": [
+  "1959",
+  "1979",
+  "1993",
+  "1995",
+  "1999",
+  "2006",
+  "2007",
+  "2008",
+  "2009",
   "2010",
   "2013",
   "2014",
   "2015",
   "2017",
-  "2018"
+  "2018",
+  "2026"
  ]
 }

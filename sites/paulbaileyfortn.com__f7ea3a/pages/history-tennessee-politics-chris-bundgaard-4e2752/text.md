@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Podcast / A Journey Through the History of Tennessee Politics with Chris Bundgaard A Journey Through the History of Tennessee Politics with Chris Bundgaard Sen.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Podcast / A Journey Through the History of Tennessee Politics with Chris Bundgaard A Journey Through the History of Tennessee Politics with Chris Bundgaard Sen.
 Paul Bailey sits down with recently retired journalist Chris Bundgaard and discusses Tennessee’s political climate throughout the ’90s and early 2000s.
 Mr.
 Bundgaard recounts his interviews with several politicians over the years and goes into how he remembers the protests on Capitol Hill.

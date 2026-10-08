@@ -1,5 +1,4 @@
-Georgia Legislative Update – Week 6
-On Tuesday, February 18th the day after Presidents’ Day your General Assemble began the sixth week of the 2025 legislative session.
+Skip to content Menu Home Resources Legislative Updates Contact Donate Close Menu February 24, 2025 Georgia Legislative Update – Week 6 On Tuesday, February 18th the day after Presidents’ Day your General Assemble began the sixth week of the 2025 legislative session.
 By the end of the week, we reached Legislative Day 21, this means we are now more than halfway through the session.
 This week, we and our colleagues convened for four legislative days, passing a total of 25 bills.
 We continued to advance legislation on to the Senate in preparation for Crossover Day, Thursday, March 6th.
@@ -61,51 +60,34 @@ For the next year, she will serve as the technical college system’s ambassador
 Thank you, Mrs.
 Brashear for your service to our state, you honor us with your service.
 As always it is great to see folks from home.
-We also passed the following bills during this the sixth week of session:
-- House Bill 38, which would provide Georgia College Completion Grant (GCCG) eligibility to students who have completed 70% of a four-year program or 45% of a two-year program.
-The sunset date for the GCCG program would be extended to June 30, 2029;
-- House Bill 51, would authorize the Georgia Environmental Finance Authority to finance and manage projects related to natural gas facilities, including outside any certified areas of a non-municipal gas company.
+We also passed the following bills during this the sixth week of session: House Bill 38, which would provide Georgia College Completion Grant (GCCG) eligibility to students who have completed 70% of a four-year program or 45% of a two-year program.
+The sunset date for the GCCG program would be extended to June 30, 2029; House Bill 51, would authorize the Georgia Environmental Finance Authority to finance and manage projects related to natural gas facilities, including outside any certified areas of a non-municipal gas company.
 This would include the storage, supply and distribution of natural gas, pipelines, storage tanks, natural gas distribution systems, associated equipment, vehicles, properties, furnishings and devices.
-The bill empowers the Georgia Environmental Finance Authority to create and enforce regulations to fulfill its responsibilities and add “natural gas systems” to the personal liability of the authority’s members, officers and employees;
-- House Bill 53, updates criteria for veterans to be eligible for burial in a Georgia veterans cemetery.
+The bill empowers the Georgia Environmental Finance Authority to create and enforce regulations to fulfill its responsibilities and add “natural gas systems” to the personal liability of the authority’s members, officers and employees; House Bill 53, updates criteria for veterans to be eligible for burial in a Georgia veterans cemetery.
 Members would qualify in accordance with the federal Burial Equity for Guards and Reserves Act of 2021, provided the member died after August 1, 1990, and completed a full term of service with an honorable discharge.
 Reserve and National Guard members who died during service, as well as immediate family members, would also be eligible.
-The Department of Veterans Service may charge burial fees;
-- House Bill 58, defines the term “ticketed entertainment event” and would make it illegal to fly an unmanned aircraft within 400 feet of a ticketed entertainment event without proper consent.
-Anyone found guilty of violating the terms of this bill would be punished as a misdemeanor;
-- House Bill 73, changes future elections for the Seminole County Board of Education to be nonpartisan;
-- House Bill 85, changes superior court judicial compensation to have the annual salary of each superior court judge set by the General Assembly with that salary not exceeding 90% of the annual salary fixed for judges of the U.S.
+The Department of Veterans Service may charge burial fees; House Bill 58, defines the term “ticketed entertainment event” and would make it illegal to fly an unmanned aircraft within 400 feet of a ticketed entertainment event without proper consent.
+Anyone found guilty of violating the terms of this bill would be punished as a misdemeanor; House Bill 73, changes future elections for the Seminole County Board of Education to be nonpartisan; House Bill 85, changes superior court judicial compensation to have the annual salary of each superior court judge set by the General Assembly with that salary not exceeding 90% of the annual salary fixed for judges of the U.S.
 District Court for the Northern District of Georgia.
 The new structure would also cap the locality pay for each superior court judge at no more than 10% of the state annual salary.
 The bill would not alter retirement benefits that were previously in existence.
 Superior court judges in office on July 1, 2025, would opt into this compensation structure by filing written notification with the Council of Superior Court Judges of Georgia and the governing authority of each county comprising the judge’s judicial circuit.
 A superior court judge who does not exercise this option would maintain the existing compensation structure for that judge.
 All local laws, ordinances and resolutions in effect that tie a state, county or local salary to that of any superior court judge’s salary would be suspended until July 1, 2026, with that state, county or local salary remaining the same during that period of suspension.
-That salary would remain unchanged until the suspension is terminated, local legislation sets the compensation or local ordinance becomes effective;
-- House Bill 86, which would revise salaries for justices of the Supreme Court, judges of the Court of Appeals, the judge of the State-wide Business Court and the judge of the Georgia State Tax Court.
+That salary would remain unchanged until the suspension is terminated, local legislation sets the compensation or local ordinance becomes effective; House Bill 86, which would revise salaries for justices of the Supreme Court, judges of the Court of Appeals, the judge of the State-wide Business Court and the judge of the Georgia State Tax Court.
 Fixed dollar amounts would be repealed and replaced with a base salary equal to that of judges of the U.S.
-District Court for the Northern District of Georgia with each justice of the Supreme Court not receiving more than 100 percent of that base salary, each judge of the Court of Appeals not receiving more than 99 percent of that base salary and the judge of the State-wide Business Court, as well as the judge of the Tax Court, not receiving more than 95 percent of that base salary;
-- House Bill 90, amends Georgia law related to bona fide conservation use property to increase the maximum acreage to qualify as a bona fide conservation use property from 2,000 acres to 4,000 acres.
-These changes would be effective on January 1, 2027, only if the related constitutional amendment is ratified by voters in the statewide election held in November 2026;
-- House Bill 92, updates Georgia law related to base year homestead exemptions by changing the date by which local governments must follow certain procedures to opt out of the base year homestead exemption from March 1, 2025, to March 31, 2029.
+District Court for the Northern District of Georgia with each justice of the Supreme Court not receiving more than 100 percent of that base salary, each judge of the Court of Appeals not receiving more than 99 percent of that base salary and the judge of the State-wide Business Court, as well as the judge of the Tax Court, not receiving more than 95 percent of that base salary; House Bill 90, amends Georgia law related to bona fide conservation use property to increase the maximum acreage to qualify as a bona fide conservation use property from 2,000 acres to 4,000 acres.
+These changes would be effective on January 1, 2027, only if the related constitutional amendment is ratified by voters in the statewide election held in November 2026; House Bill 92, updates Georgia law related to base year homestead exemptions by changing the date by which local governments must follow certain procedures to opt out of the base year homestead exemption from March 1, 2025, to March 31, 2029.
 Local governments would be required to opt out by March 31st of any given tax year for the opt out to be applicable to that same tax year.
 The last of the three required public hearings related to opting out of the program would be required to occur within 30 days of the effective date of the opt-out resolution.
 Relating to requirements for annual notices of current assessments, the bill would allow for a levying or recommending authority to provide an estimate for the current year’s taxes utilizing the previous year’s millage rate and current assessment if the estimated rollback rate is not certified by the time the annual notice is given.
 Additionally, local governments may provide, as part of the annual notice of assessment, an estimated amount of ad valorem taxes owed for the current year.
-The bill would also allow for a homestead exemption applicant to complete an application for an exemption during or in lieu of an appeal of a homestead reassessment;
-- House Bill 116, renames the Motor Carrier Compliance Division within the Department of Public Safety and Commercial Vehicle Enforcement and would update further language to reflect this change;
-- House Bill 117, requires all commercial food service establishments that serve shrimp to conspicuously display “FOREIGN IMPORTED” or “FOREIGN IMPORTED SHRIMP” by each menu item containing imported shrimp;
-- House Bill 147, defines the term “artificial intelligence” and revises the responsibilities of the Georgia Technology Authority.
+The bill would also allow for a homestead exemption applicant to complete an application for an exemption during or in lieu of an appeal of a homestead reassessment; House Bill 116, renames the Motor Carrier Compliance Division within the Department of Public Safety and Commercial Vehicle Enforcement and would update further language to reflect this change; House Bill 117, requires all commercial food service establishments that serve shrimp to conspicuously display “FOREIGN IMPORTED” or “FOREIGN IMPORTED SHRIMP” by each menu item containing imported shrimp; House Bill 147, defines the term “artificial intelligence” and revises the responsibilities of the Georgia Technology Authority.
 It requires the authority to conduct an inventory of all systems that utilize artificial intelligence and are in use by any state agency.
 The authority would be mandated to develop and establish procedures that govern the development, implementation and assessment of artificial intelligence systems used by agencies to prevent unlawful discrimination against individuals or groups.
-The authority would also be required to prepare an annual report regarding the inventory of artificial intelligence systems in use by agencies and to make this report available to the state offices specified in the bill;
-- House Bill 155, provides guidelines and requirements for objecting to a proposed annexation and the arbitration process that follows;
-- House Bill 167, revises restrictions relating to hunting feral hogs, bears and deer.
-The bill would make the color fluorescent pink an acceptable outer garment color that can be worn while hunting these animals under specific circumstances;
-- House Bill 196, requires health insurers to reimburse a pharmacy for a drug dispensed to a covered person on the State Health Benefit Plan based on the national average drug acquisition cost.
-Additionally, the bill would require a professional dispensing fee that is not less than the professional dispensing fee paid by the state under the Social Security Act;
-- House Bill 205, requires the Georgia Emergency Management and Homeland Security Agency to develop a list of unmanned aircraft systems approved for use within this state;
-- Senate Bill 16, which would prohibit any member of the governing authority of a local government to engage directly or indirectly in a bail bond business within the jurisdiction of their respective government.
+The authority would also be required to prepare an annual report regarding the inventory of artificial intelligence systems in use by agencies and to make this report available to the state offices specified in the bill; House Bill 155, provides guidelines and requirements for objecting to a proposed annexation and the arbitration process that follows; House Bill 167, revises restrictions relating to hunting feral hogs, bears and deer.
+The bill would make the color fluorescent pink an acceptable outer garment color that can be worn while hunting these animals under specific circumstances; House Bill 196, requires health insurers to reimburse a pharmacy for a drug dispensed to a covered person on the State Health Benefit Plan based on the national average drug acquisition cost.
+Additionally, the bill would require a professional dispensing fee that is not less than the professional dispensing fee paid by the state under the Social Security Act; House Bill 205, requires the Georgia Emergency Management and Homeland Security Agency to develop a list of unmanned aircraft systems approved for use within this state; Senate Bill 16, which would prohibit any member of the governing authority of a local government to engage directly or indirectly in a bail bond business within the jurisdiction of their respective government.
 As busy as this week was, we made time to spend with folks from home.
 It was great to spend a few minutes with the wonderful Keve Family.
 Kevin and Kristi were here with their children Audrey and Cooper.
@@ -120,5 +102,9 @@ We resume work on Monday, February 24th for our seventh week of the session.
 On Tuesday, February 25th we will be dedicated to our first committee workday, the day will be packed with committee meetings to review legislation before we reach Crossover Day.
 Feel free to schedule a call or visit to discuss the issues that are most important to you and your family during Session, while I am in Atlanta.
 Please know that I can be can be reached at my office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246.
-Please contact the District office in Thomasville for any constituent matters regarding state agency issues at 225-9943 Ext. 215 and gahouseseat173@gmail.com We look forward to hearing from you.
+Please contact the District office in Thomasville for any constituent matters regarding state agency issues at 225-9943 Ext.
+215 and gahouseseat173@gmail.com We look forward to hearing from you.
 As always, thank you for allowing me to serve as your representative.
+Georgia Legislative Update – Week 5 Georgia Legislative Update – Week 7 Related Posts Updates Georgia Legislative Update – Week 1 Ending January 17, 2026 Updates Georgia Legislative Update – Session Report Updates Georgia Legislative Update – Press Release Back To Top Darlene Taylor Post Office Box 6580 Thomasville, GA 31757 (229) 225-9943 Ext.
+215 ⓒ Rep.
+Darlene Taylor 2022 ☆ Paid by Darlene For Georgia Campaign

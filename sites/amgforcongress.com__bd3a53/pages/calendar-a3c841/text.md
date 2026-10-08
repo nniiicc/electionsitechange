@@ -1,10 +1,5 @@
 0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Meet Amanda or Members of Team AMG!
-Oct 7 TEAM AMG/VOLUNTEERS: Postcard Writing Wednesday, October 7, 2026 5:00 PM 7:00 PM Gallery of Art 850 (map) Google Calendar ICS NOTE: This event starts at 5PM Central/6PM Eastern.
-Join Team AMG for a postcard writing meetup to help spread the word about Amanda Marie Green’s campaign for Congress!
-Spend time with fellow supporters and help us reach North Florida voters with a personal message ahead of Election Day.
-View Event → Oct 7 Get Out The Vote Reception Wednesday, October 7, 2026 6:00 PM 7:30 PM Miccosukee Land Cooperative (map) Google Calendar ICS NOTE: This event starts at 5PM Central/6PM Eastern.
-Join Amanda and our esteemed host committee for a Get out the Vote Reception ahead of early voting!
-RSVP recommended to shelby@amgforcongress.com View Event → Oct 8 Madison County DEC/NAACP Candidates Forum Thursday, October 8, 2026 5:00 PM 7:00 PM Sumpter James Park (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern.
+Oct 8 Madison County DEC/NAACP Candidates Forum Thursday, October 8, 2026 5:00 PM 7:00 PM Sumpter James Park (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern.
 Amanda will be attending with members of Team AMG.
 More details to come.
 View Event → Oct 10 Havana Mainstreet 26th Annual PumpkinFest Saturday, October 10, 2026 10:00 AM 4:00 PM 101 7th Avenue West Havana, Florida, 32333 United States (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern.
@@ -62,6 +57,11 @@ View Event → Oct 31 Campbellton's 5th Annual Fall Festival Saturday, October 3
 Amanda will attend with Team AMG!
 Celebrate Campbellton’s 5th Annual Fall Festival at Campbellton Browntown Park on October 31 from 11 a.m. to 5 p.m.!
 Enjoy music, food, drinks, crafts, and competitions with neighbors and friends—everyone is welcome.
+View Event → Oct 7 Get Out The Vote Reception Wednesday, October 7, 2026 6:00 PM 7:30 PM Miccosukee Land Cooperative (map) Google Calendar ICS NOTE: This event starts at 5PM Central/6PM Eastern.
+Join Amanda and our esteemed host committee for a Get out the Vote Reception ahead of early voting!
+RSVP recommended to shelby@amgforcongress.com View Event → Oct 7 TEAM AMG/VOLUNTEERS: Postcard Writing Wednesday, October 7, 2026 5:00 PM 7:00 PM Gallery of Art 850 (map) Google Calendar ICS NOTE: This event starts at 5PM Central/6PM Eastern.
+Join Team AMG for a postcard writing meetup to help spread the word about Amanda Marie Green’s campaign for Congress!
+Spend time with fellow supporters and help us reach North Florida voters with a personal message ahead of Election Day.
 View Event → Oct 6 Leon/Wakulla Retired Educators Association Candidate Meet & Greet Tuesday, October 6, 2026 1:45 PM 3:15 PM Saint Paul's United Methodist Church (map) Google Calendar ICS NOTE: This event starts at 12:45PM Central/1:45PM Eastern.
 Amanda will join the Leon/Wakulla Retired Educators Association for a Candidate Meet & Greet, giving local voters an opportunity to hear directly from candidates, learn more about their priorities, and ask questions ahead of the November election.
 View Event → Oct 6 BBIA Candidate Breakfast Forum Tuesday, October 6, 2026 9:00 AM 10:30 AM Capt Anderson's Event Center (map) Google Calendar ICS NOTE: This event starts at 8:00AM Central/9:00AM Eastern.

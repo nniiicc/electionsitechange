@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Capitol Hill Update 4/17/2026 Home Blog Capitol Hill Update 4/17/2026 As we head toward the close of session, things are moving quickly at the Capitol to finalize legislation and wrap up the year’s work.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Capitol Hill Update 4/17/2026 Home Blog Capitol Hill Update 4/17/2026 As we head toward the close of session, things are moving quickly at the Capitol to finalize legislation and wrap up the year’s work.
 This week, we continued advancing measures focused on protecting Tennessee families, strengthening public safety, and ensuring government remains accountable.
 Continue Reading Capitol Hill Update 4/10/2026 As we head toward the close of session, things are moving quickly at the Capitol to finalize legislation and wrap up the year’s work.
 This week, we continued advancing measures focused on protecting Tennessee families, strengthening public safety, and ensuring government remains accountable.

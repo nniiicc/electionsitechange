@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Newsroom Press releases, floor remarks, and the media kit.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Newsroom Press releases, floor remarks, and the media kit.
 For reporters and editors.
 Boilerplate, photo, and contact below.
 In the News El Paso's fight, on the national stage.

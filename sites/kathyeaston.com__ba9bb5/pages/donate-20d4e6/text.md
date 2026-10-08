@@ -1,2 +1,2 @@
-Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information Join Us Talk to Kathy Donate Donate Or make your checks payable to: Friends of Kathy Easton 6541 Thomas Pkwy Rockford, IL 61114 Facebook Paid for by Friends of Kathy Easton.
+Sleeves Up Plan Get to Know Me Kathy on the Move Voter Information 68th District Join Us Talk to Kathy Donate Donate Or make your checks payable to: Friends of Kathy Easton 6541 Thomas Pkwy Rockford, IL 61114 Facebook Paid for by Friends of Kathy Easton.
 A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

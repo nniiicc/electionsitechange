@@ -1,11 +1,62 @@
-Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE DEATON PRESS SHOP Deaton Statement on Ed Markey Vote Against Ratepayer Protection Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
+Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE DEATON PRESS SHOP Deaton: AI That Passes for Human on a Video Call Demands a National Standard Now By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Senate nominee calls for mandatory AI disclosure, protections for seniors and children, and real accountability for companies that deceive BOSTON, MA. -- John Deaton, nominee for U.S.
+Senate in Massachusetts, today called on Congress to pass a national AI standard with enforceable consumer protections.
+The call follows this week's announcement of an AI video model that its maker says nearly half of test subjects mistook for a real person.
+AI company Tavus unveiled the model, called Griffin, on October 1.
+The company reports that 48% of participants in its study believed they were talking to a real human after a live one-minute video call.
+It says earlier systems fooled fewer than 3%.
+Tavus itself acknowledges the model can deceive people into believing it is not AI.
+"When a machine can look you in the eye on a video call and half the people talking to it think it's human, the scam writes itself," Deaton said.
+"A grandmother gets a call from a face and a voice she trusts.
+Minutes later her life savings are gone.
+That is where this goes if Washington does nothing." "I've spent my career taking on corporations that knew their products would hurt people and sold them anyway," Deaton continued.
+"I'm not waiting for the body count this time.
+Fraud rings will use this against seniors.
+Lonely and vulnerable people will be sold relationships with people who don’t exist.
+Isolated or lonely children battling depression or other mental health issues will be especially vulnerable.” Deaton's national standard would: Require disclosure.
+Any AI in a live video or voice conversation must identify itself as AI, up front and whenever asked.
+Ban impersonation.
+No AI may use a real person's face or voice without that person's consent.
+Protect children.
+No romantic or companion AI products for minors, backed by age verification.
+Protect seniors.
+Banks and payment apps must flag and verify large, unusual transfers before the money leaves.
+Hold companies accountable.
+Firms that deploy undisclosed human-passing AI answer for the harm, with FTC and state attorney general enforcement and a right for victims to sue.
+Set one clear rule.
+A single national standard, so protection doesn't depend on which state you live in.
+"I'm for innovation.
+I've fought regulators who tried to strangle it," Deaton said.
+"But there is a bright line between building tools that serve people and building machines designed to pass as people.
+If it's AI, it has to say so.
+That's not anti-technology.
+That's basic honesty, and it should be the law." ### John Deaton Statement on 3rd Anniversary of Oct.
+7 Attacks by Hamas By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, MA. -- U.S.
+Senate candidate John Deaton acknowledged the third anniversary of the Hamas attack on Israel on Wednesday, stating: "Time stands still for the families of victims whose lives were cut short by Hamas terrorists hellbent on inflicting their evil and oppressive ideology on the world.
+"Hostages who survived captivity emerged as heroes.
+Today's focus should be recognizing their suffering, honoring the thousands who were brutally murdered, and assisting their families in rebuilding their lives by every possible means." ### STATEMENT ON LAW OFFICE VANDALISM & ED MARKEY’S RECKLESS POLITICS AND COWARDICE By Vincent Errichetti • October 2, 2026 FOR IMMEDIATE RELEASE October 2, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, MA. -- Following a violent attack today at my East Providence law office; where a window was shattered while my employee was inside; I am holding Ed Markey directly accountable for the toxic, dangerous climate he has manufactured.
+For months, Ed Markey has peddled blatant lies, smearing me as a "Trumper," a "Trump sycophant," and a "MAGA Republican." Markey knows these are malicious fabrications meant to incite anger and hatred towards me.
+Ed Markey knows that I have never voted for Donald Trump.
+He is fully aware that I have never supported Donald Trump.
+Yet Markey continues to weaponize these lies because he cannot defend his own record and is afraid to face me on the issues most important to working families across the Commonwealth.
+His reckless rhetoric has caused the harassment of my children and now an act of violence against my law firm, directly endangering my staff.
+While Markey hides behind lies to stir up hate, he is simultaneously hiding from voters.
+Markey has canceled/rejected a debate set by Channel 5 and flatly refuses to participate in more than a single debate, turning his back on four other separate media debate requests, including in Western Massachusetts - an area Markey promised not to ignore.
+Markey hasn't even been reelected yet and he's already broke that promise.
+If he won't respect Western Massachusetts BEFORE the election - he certainly won't after.
+Ed Markey is running a campaign built entirely on deceit, division, and cowardice.
+He is too afraid to face me on a debate stage to discuss the real issues, preferring instead to sit in the shadows and sling dangerous smears that put innocent people and working families in harm's way.
+This is not leadership.
+It is dishonorable political desperation.
+When Seth Moulton engaged in such conduct, suggesting Senator Markey was complicit in the Jeffrey Epstein files, I spoke out against it - calling Moulton's conduct shameful.
+Markey, himself, called Moulton's conduct despicable.
+Yet, Ed Markey has now proven himself to be no better.
+It is time for Senator Markey to stop spreading dangerous lies, stop dodging debates, and answer to the people he claims to represent.
+I am deeply grateful to the East Providence Police Department for their prompt response and urge anyone with information to contact local authorities.
+### Deaton Statement on Ed Markey Vote Against Ratepayer Protection Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE October 1, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
 Senate candidate John Deaton issued the following statement after U.S.
-Senator Ed Markey (D-MA) voted against passage of the Stop Insider Trading Act: "There are two reasons Ed Markey voted against this bill: It didn't ban President Trump from owning stocks, and it required voter ID.
-Both are poor excuses.
-Nothing prevents future bills from banning the president and family members from owning stocks, a measure I support too.
-And the voter ID rider is a common-sense requirement implemented by some of the most progressive countries in the world.
-Ed Markey's far-left base would crucify him for voting in favor of something so inside the mainstream of American opinion," said Deaton .
-### Deaton Statement on Ed Markey Vote Against Stop Insider Trading Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
+Senator Ed Markey (D-MA) voted against passage of the Ratepayer Protection Act: "Ed Markey once again declined to think for himself, following Chuck Schumer's advice to let perfect get in the way of good bipartisan legislation.
+While this bill didn't provide every protection I've called for, it would have laid the foundation for future reforms, including establishing a national model to mandate that data centers receive community input, including the ability to negotiate community benefit agreements, such as revenue sharing and bonuses, and that corporations must pay for utility upgrades and energy costs, without stiffing taxpayers," said Deaton .
+"We have data centers racing to build in Massachusetts, and the federal status quo is letting them jack up our energy bills while Ed Markey pays half the cost on his utilities where he lives in Maryland." ### Deaton Statement on Ed Markey Vote Against Stop Insider Trading Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
 Senate candidate John Deaton issued the following statement after U.S.
 Senator Ed Markey (D-MA) voted against passage of the Stop Insider Trading Act: "There are two reasons Ed Markey voted against this bill: It didn't ban President Trump from owning stocks, and it required voter ID.
 Both are poor excuses.
@@ -229,42 +280,7 @@ Interviews linked below.
 "People in this state are paying too much for care and getting too little from Washington.
 That doesn't change because you put a slogan on a sign." "I'll take on the middlemen who inflate prices, open the books, and fight for a system that actually works for patients," Deaton said.
 "And I'll treat immigration like a problem to solve, not a line for a rally.
-Massachusetts deserves someone who will do the work, not someone who has spent 50 years practicing the same speech." ### Deaton: Markey Was Silent While Healey Handed Data Centers a 20-Year, $50 Million Tax Break By Vincent Errichetti • September 17, 2026 FOR IMMEDIATE RELEASE September 17, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, MA — U.S.
-Senate candidate John Deaton today criticized Sen.
-Ed Markey for staying silent as Gov.
-Maura Healey signed a 20-year sales and use tax exemption for qualified data centers, a 2024 incentive tied to a $50 million investment threshold.
-“Governor Healey gave data centers a 20-year tax break, and Senator Markey said nothing,” Deaton said.
-“Massachusetts families already pay some of the highest electricity rates in the country.
-Corporate operators get the deal.
-Ratepayers get the bill.” The exemption remains on the books even after Healey later paused applications amid concerns over energy costs, water use, and community impact.
-Eligibility includes at least 100,000 square feet of space, 100 Massachusetts jobs within five years, and $50 million in qualified costs within 10 years.
-Deaton said he supports technology, not one-sided giveaways.
-Developers should bring their own power, pay for infrastructure, and win real local consent.
-“After 50 years in Washington, Markey was silent when it counted,” Deaton said.
-“Massachusetts needs a senator who puts working families first.” ### New Bedford Police Union Endorses John Deaton for U.S.
-Senate By Vincent Errichetti • September 16, 2026 FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com NEW BEDFORD, MA — The New Bedford Police Union today announced its endorsement of John Deaton for the United States Senate.
-Union leadership cited Deaton’s strong record of supporting law enforcement, his background as a U.S.
-Marine veteran, and his commitment to public safety and the men and women who protect Massachusetts communities.
-“John Deaton understands the challenges facing our officers every day,” said a spokesperson for the New Bedford Police Union.
-“He has consistently stood with law enforcement and will be a reliable ally in the U.S.
-Senate.
-We are proud to endorse him.” Deaton, a Marine veteran, trial attorney, and Republican candidate for U.S.
-Senate, welcomed the endorsement.
-“I am deeply honored to receive the support of the New Bedford Police Union,” Deaton said.
-“Our police officers put their lives on the line to keep our communities safe.
-As your next U.S.
-Senator, I will always stand with them, fight for the resources they need, and work to ensure they have the respect and backing they deserve.” Media Contact ### John Deaton Statement on Vance's Intervention to Aid Gold Star Wife Denied Death Benefits By Vincent Errichetti • August 20, 2026 FOR IMMEDIATE RELEASE September 5, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com U.S.
-Air Force Maj.
-John "Alex" Klinner died in an aircraft crash in Iraq in March, supporting the United States' military operation against Iran.
-BOLTON, MA -- John Deaton, candidate for U.S.
-Senate in Massachusetts, responded to intervention by Vice President J.D.
-Vance after Libby Klinner, the widow of Major John “Alex” Klinner, took to social media to reveal that the military had denied her the benefits of a husband killed in active duty combat, arguing that the current military operation in Iran does not constitute a formal war.
-"I was heartened to hear that Mrs.
-Klinner will hopefully receive the benefits she is entitled to, but my concern remains for the many other spouses whose partners are deployed in a protracted Middle East engagement with no congressional approval or end in sight," said Deaton.
-"The Senate must reestablish itself as an co-equal branch of government.
-That means supporting passage of a War Powers resolution or placing judicial limits on this unconstitutional military action.
-"In 2011, the Senate declined to rebuke the Obama administration for a seven-month engagement in Libya.
-We are on the precipice of establishing another dangerous precedent that pushes the power to declare war away from lawmakers and to the executive branch with no constraints or consequences." BACKGROUND: On Thursday, Vice President Vance said he would seek a briefing on the circumstances of Libby Klinner, who garnered international media attention, and promised the widow of Major John "Alex" Klinner, a Trussville Air Force major killed during Operation Epic Fury will receive the benefits she is entitled to. ( ABC 33/40 , 9/3/26) ### More Posts WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
+Massachusetts deserves someone who will do the work, not someone who has spent 50 years practicing the same speech." ### More Posts WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
 Every donation counts.
 DONATE TODAY JOHN DEATON FOR SENATE INC.
 General inquiries: info@johndeatonforsenate.com Press inquiries: press@johndeatonforsenate.com Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security PAID FOR BY JOHN DEATON FOR SENATE INC.

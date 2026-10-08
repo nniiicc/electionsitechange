@@ -1,4 +1,4 @@
-Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant to Oklahoma Platform and Policy Agenda Take the Oath The Creed The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
+Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant Platform and Policy Agenda Take the Oath The Creed The Four Choices The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
 Touch device users, explore by touch or with swipe gestures.
 Home → Protecting Oklahoma Land Protecting Oklahoma Land <br> Keeping Oklahoma in Oklahoma Hands Land is more than property.
 It is our farms.

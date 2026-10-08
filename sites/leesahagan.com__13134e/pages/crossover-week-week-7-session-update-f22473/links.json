@@ -1,48 +1,194 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fcrossover-week-week-7-session-update%2F&t=Crossover+Week%3A+Week+8+Session+Update",
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fcrossover-week-week-7-session-update%2F&title=Crossover+Week%3A+Week+8+Session+Update",
-"http://printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fcrossover-week-week-7-session-update%2F&title=Crossover+Week%3A+Week+8+Session+Update",
-"http://twitter.com/share?text=Crossover+Week%3A+Week+8+Session+Update&url=https%3A%2F%2Fleesahagan.com%2Fcrossover-week-week-7-session-update%2F&via=LeesaHagan",
-"https://cardinalisdesign.com/political-website-design",
-"https://facebook.com/LeesaHaganforGeorgia",
-"https://leesahagan.com/",
-"https://leesahagan.com/about-leesa",
-"https://leesahagan.com/category/2023-posts",
-"https://leesahagan.com/category/2024-posts",
-"https://leesahagan.com/category/2025-posts",
-"https://leesahagan.com/category/2026-posts",
-"https://leesahagan.com/constituent-services",
-"https://leesahagan.com/crossover-day-2026",
-"https://leesahagan.com/crossover-week-week-7-session-update/twitter.com/leesahagan",
-"https://leesahagan.com/elections",
-"https://leesahagan.com/final-2026-session-update",
-"https://leesahagan.com/help-out",
-"https://leesahagan.com/news",
-"https://leesahagan.com/week-10-session-update",
-"https://leesahagan.com/week-7-2026-amended-budget",
-"https://leesahagan.com/week-9-update-2027-budget",
-"https://legis.ga.gov/api/document/docs/default-source/house-budget-and-research-office-document-library/2025-fiscal-year/amended_fy_2025_bill_as_passed_(hb_67).pdf?sfvrsn=3384a562_2",
-"https://legis.ga.gov/legislation/70280",
-"https://legis.ga.gov/legislation/70291",
-"https://legis.ga.gov/legislation/70292",
-"https://legis.ga.gov/legislation/70319",
-"https://legis.ga.gov/legislation/70321",
-"https://legis.ga.gov/legislation/70323",
-"https://legis.ga.gov/legislation/70347",
-"https://legis.ga.gov/legislation/70350",
-"https://legis.ga.gov/legislation/70418",
-"https://legis.ga.gov/legislation/70436",
-"https://legis.ga.gov/legislation/70484",
-"https://legis.ga.gov/legislation/70614",
-"https://legis.ga.gov/legislation/70647",
-"https://legis.ga.gov/legislation/70654",
-"https://legis.ga.gov/legislation/70658",
-"https://legis.ga.gov/legislation/70671",
-"https://legis.ga.gov/legislation/70749",
-"https://legis.ga.gov/legislation/70804",
-"https://legis.ga.gov/legislation/70813",
-"https://legis.ga.gov/legislation/70844",
-"https://legis.ga.gov/legislation/70851",
-"https://linkedin.com/in/leesahagan",
-"https://twitter.com/LeesaHagan"
+{
+"text": "2023 Posts",
+"href": "https://leesahagan.com/category/2023-posts/"
+},
+{
+"text": "2024 Posts",
+"href": "https://leesahagan.com/category/2024-posts/"
+},
+{
+"text": "2025 Posts",
+"href": "https://leesahagan.com/category/2025-posts/"
+},
+{
+"text": "2026 Posts",
+"href": "https://leesahagan.com/category/2026-posts/"
+},
+{
+"text": "About Leesa",
+"href": "https://leesahagan.com/about-leesa/"
+},
+{
+"text": "Cardinalis",
+"href": "https://cardinalisdesign.com/political-website-design/"
+},
+{
+"text": "Constituent Services",
+"href": "https://leesahagan.com/constituent-services/"
+},
+{
+"text": "Elections",
+"href": "https://leesahagan.com/elections/"
+},
+{
+"text": "Final 2026 Session Update",
+"href": "https://leesahagan.com/final-2026-session-update/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LeesaHaganforGeorgia"
+},
+{
+"text": "Follow",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/LeesaHagan"
+},
+{
+"text": "Help Out",
+"href": "https://leesahagan.com/help-out/"
+},
+{
+"text": "House Bill 430",
+"href": "https://www.legis.ga.gov/legislation/70280"
+},
+{
+"text": "House Bill 432",
+"href": "https://www.legis.ga.gov/legislation/70291"
+},
+{
+"text": "House Bill 433",
+"href": "https://www.legis.ga.gov/legislation/70292"
+},
+{
+"text": "House Bill 447",
+"href": "https://www.legis.ga.gov/legislation/70319"
+},
+{
+"text": "House Bill 449",
+"href": "https://www.legis.ga.gov/legislation/70321"
+},
+{
+"text": "House Bill 451",
+"href": "https://www.legis.ga.gov/legislation/70323"
+},
+{
+"text": "House Bill 460",
+"href": "https://www.legis.ga.gov/legislation/70347"
+},
+{
+"text": "House Bill 463",
+"href": "https://www.legis.ga.gov/legislation/70350"
+},
+{
+"text": "House Bill 494",
+"href": "https://www.legis.ga.gov/legislation/70418"
+},
+{
+"text": "House Bill 506",
+"href": "https://www.legis.ga.gov/legislation/70436"
+},
+{
+"text": "House Bill 511",
+"href": "https://www.legis.ga.gov/legislation/70484"
+},
+{
+"text": "House Bill 563",
+"href": "https://www.legis.ga.gov/legislation/70614"
+},
+{
+"text": "House Bill 567",
+"href": "https://www.legis.ga.gov/legislation/70647"
+},
+{
+"text": "House Bill 571",
+"href": "https://www.legis.ga.gov/legislation/70654"
+},
+{
+"text": "House Bill 575",
+"href": "https://www.legis.ga.gov/legislation/70658"
+},
+{
+"text": "House Bill 583",
+"href": "https://www.legis.ga.gov/legislation/70671"
+},
+{
+"text": "House Bill 618",
+"href": "https://www.legis.ga.gov/legislation/70749"
+},
+{
+"text": "House Bill 627",
+"href": "https://www.legis.ga.gov/legislation/70804"
+},
+{
+"text": "House Bill 635",
+"href": "https://www.legis.ga.gov/legislation/70813"
+},
+{
+"text": "House Bill 645",
+"href": "https://www.legis.ga.gov/legislation/70844"
+},
+{
+"text": "House Bill 652",
+"href": "https://www.legis.ga.gov/legislation/70851"
+},
+{
+"text": "LeesaHagan.com",
+"href": "https://leesahagan.com"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "News",
+"href": "https://leesahagan.com/news/"
+},
+{
+"text": "Twitter",
+"href": "https://leesahagan.com/crossover-week-week-7-session-update/twitter.com/leesahagan"
+},
+{
+"text": "Week 10 Session Update",
+"href": "https://leesahagan.com/week-10-session-update/"
+},
+{
+"text": "Week 7 Session Update: The amended budget",
+"href": "https://leesahagan.com/week-7-2026-amended-budget/"
+},
+{
+"text": "Week 8 Session Update: Crossing Over",
+"href": "https://leesahagan.com/crossover-day-2026/"
+},
+{
+"text": "Week 9 Update: 2027 budget",
+"href": "https://leesahagan.com/week-9-update-2027-budget/"
+},
+{
+"text": "[image]",
+"href": "https://leesahagan.com"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?text=Crossover+Week%3A+Week+8+Session+Update&url=https%3A%2F%2Fleesahagan.com%2Fcrossover-week-week-7-session-update%2F&via=LeesaHagan"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fcrossover-week-week-7-session-update%2F&t=Crossover+Week%3A+Week+8+Session+Update"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fcrossover-week-week-7-session-update%2F&title=Crossover+Week%3A+Week+8+Session+Update"
+},
+{
+"text": "[no text]",
+"href": "http://www.printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fcrossover-week-week-7-session-update%2F&title=Crossover+Week%3A+Week+8+Session+Update"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/api/document/docs/default-source/house-budget-and-research-office-document-library/2025-fiscal-year/amended_fy_2025_bill_as_passed_(hb_67).pdf?sfvrsn=3384a562_2"
+}
 ]

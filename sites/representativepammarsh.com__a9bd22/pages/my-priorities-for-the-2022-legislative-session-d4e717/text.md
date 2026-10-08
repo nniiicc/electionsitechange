@@ -1,5 +1,5 @@
-Skip to content Wed.
-Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements My Priorities for the 2022 Legislative Session Dear Friends and Neighbors, This Tuesday, February 1, our Oregon Legislature will be back in the Capitol as we convene in Salem for the start of the 2022 legislative session.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements My Priorities for the 2022 Legislative Session Dear Friends and Neighbors, This Tuesday, February 1, our Oregon Legislature will be back in the Capitol as we convene in Salem for the start of the 2022 legislative session.
 It won’t be a long stay, however, since the second year in a two-year biennium is referred to as our ‘short session,’ bound by a constitutional limit to last for no more than 35 calendar days.
 I’ve outlined my priorities for this year in the information below.
 During a short session, each legislator can introduce two ‘personal bills.’ Mine will focus on wildfire recovery and broadband connectivity.

@@ -1,10 +1,54 @@
 [
-"https://darleneforgeorgia.com/",
-"https://darleneforgeorgia.com/contact",
-"https://darleneforgeorgia.com/extreme-weather-resources",
-"https://darleneforgeorgia.com/legislative-updates",
-"https://darleneforgeorgia.com/resources",
-"https://legis.ga.gov/search",
-"https://mvp.sos.ga.gov/s",
-"https://secure.anedot.com/darlene-for-georgia/donate"
+{
+"text": "Contact",
+"href": "https://www.darleneforgeorgia.com/contact/"
+},
+{
+"text": "Darlene Taylor",
+"href": "https://www.darleneforgeorgia.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/darlene-for-georgia/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/darlene-for-georgia/donate"
+},
+{
+"text": "Extreme Weather Resources",
+"href": "https://www.darleneforgeorgia.com/extreme-weather-resources/"
+},
+{
+"text": "Georgia House District 173",
+"href": "https://www.darleneforgeorgia.com/resources/"
+},
+{
+"text": "Georgia Legislation Search",
+"href": "https://www.legis.ga.gov/search"
+},
+{
+"text": "Home",
+"href": "https://www.darleneforgeorgia.com/"
+},
+{
+"text": "Learn More",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Learn More",
+"href": "https://www.darleneforgeorgia.com/resources/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.darleneforgeorgia.com/legislative-updates/"
+},
+{
+"text": "Resources",
+"href": "https://www.darleneforgeorgia.com/resources/"
+},
+{
+"text": "[image: Darlene Taylor]",
+"href": "https://www.darleneforgeorgia.com"
+}
 ]

@@ -62,7 +62,7 @@ Real solutions.
 A Governor who answers only to Mainers.
 Click here for more information and to RSVP here: https://www.supportrickbennett.com/eastport View Event → Jun 20 Walk with Rick in the Portland Pride Parade Saturday, June 20, 2026 10:45 AM 3:00 PM Google Calendar ICS Email Riley@BennettForGovernor.com if you’d like to join us!
 View Event → Jun 17 Meet Rick in Portland Wednesday, June 17, 2026 5:30 PM 7:00 PM The Home of Victoria Furman and Joseph Smith (map) Google Calendar ICS Click here for more details and to RSVP View Event → Jun 15 Bennett Headquarters Grand Opening!
-Monday, June 15, 2026 5:30 PM 7:00 PM Bennett For Governor Headquarters (map) Google Calendar ICS Click here for more details and to RSVP View Event → Jun 12 Meet Rick Bennett in Medway Friday, June 12, 2026 11:30 AM 12:30 PM Grandbelly's Country Cafe (map) Google Calendar ICS Click here for more details and to RSVP View Event → Jun 11 Meet Rick Bennett in Bangor Thursday, June 11, 2026 5:00 PM 6:30 PM Geaghan's Pub (map) Google Calendar ICS Click here for more details and to RSVP View Event → Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Monday, June 15, 2026 5:30 PM 7:00 PM Bennett For Governor Headquarters (map) Google Calendar ICS Click here for more details and to RSVP View Event → Jun 12 Meet Rick Bennett in Medway Friday, June 12, 2026 11:30 AM 12:30 PM Grandbelly's Country Cafe (map) Google Calendar ICS Click here for more details and to RSVP View Event → Contact Bennett for Governor info@BennettForGovernor.com P.O.
 Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
 This is your movement.
 We can’t do it without your help.

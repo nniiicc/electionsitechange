@@ -42,4 +42,4 @@ From Lake Placid to Lincoln Center, we're taking back the Empire State," said Sh
 Watch video → Previous Next Add Your Voice?
 Ready to stand with Caroline Shinkle?
 Submit an endorsement or donate to the campaign.
-Submit an Endorsement DONATE NOW Donate Now ↗     Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress
+Submit an Endorsement DONATE NOW Donate Now ↗      Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress

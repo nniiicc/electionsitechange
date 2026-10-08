@@ -5,7 +5,9 @@ Sign me up → See the roles Request a yard sign → Level 1 · Low commitment P
 Show up when you can.
 See quick ways → Level 2 · Ongoing role Join the team Take on a regular role: lead a region, run comms, organize events.
 Build something that lasts.
-See open roles → Pitch in Quick ways to help No long-term commitment.
+See open roles → Students and young Montanans Join the Alani Youth Council Help lead the campaign on your campus and in your town.
+Apply by Sunday, October 11.
+Apply now → Pitch in Quick ways to help No long-term commitment.
 Tap one, and it pre-selects your interest on the sign-up form below. {{ p.label }} {{ p.desc }} Join the team Open roles Ongoing roles, organized by team.
 Tap a role to pre-select it on the form below. {{ g.cat }} {{ g.desc }} {{ r.label }} {{ r.desc }} Not sure where to start?
 Which role fits you? {{ quizStepLabel }} {{ quizQuestion }} {{ o.label }} Your match {{ resultTitle }} {{ resultText }} Start here → Retake Volunteer sign-up Sign up to help One form, straight to the team.

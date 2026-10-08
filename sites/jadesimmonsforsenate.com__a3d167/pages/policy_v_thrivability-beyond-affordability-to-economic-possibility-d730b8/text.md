@@ -42,7 +42,7 @@ If the answer is no, then we’re not even close to being done.
 We shouldn’t even be asking for your vote.
 Economic policy shouldn’t be about making politicians look good.
 It should be about making your life not just affordable, but thrivable.
-Next A Breakthrough Brief: Thrivability for Small Business You Might Also Like Women’s Empowerment & A Fresh Take on Life and Choice Healthcare That Works for People, Not Bureaucracies Independence from Party Control A New Era in Education The Thurgood Marshall Plan STAY UPDATED Let’s Build the Future Together.
+Next A Breakthrough Brief: Thrivability for Small Business You Might Also Like Independence from Party Control Women’s Empowerment & A Fresh Take on Life and Choice Healthcare That Works for People, Not Bureaucracies A New Era in Education The Thurgood Marshall Plan STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.

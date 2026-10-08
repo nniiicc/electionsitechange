@@ -20,7 +20,7 @@ Phil Scott a fighting chance to stop things that are bad for Vermonters, and bri
 Under progressive democrat control Vermont has been heading south.
 It’s time again to vote NORTH!
 I CAN, and WILL, and HAVE, pushed back against extreme policies and had SUCCESS in staying focused on what’s important to you.
-Contact Rob donate to the campaign Buy Rob North Merchandise Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
+Rob's Proposed Solutions Contact Rob donate to the campaign Buy Rob North Merchandise Rob North for a Change Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up with your email address to receive news and updates.
 First Name Last Name Email Address Sign Up Thank you!

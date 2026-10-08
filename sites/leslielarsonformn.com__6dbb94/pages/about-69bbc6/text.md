@@ -6,6 +6,6 @@ Reply STOP to opt out at any time, reply HELP for help.
 SMS opt-in will not be sold, rented, or shared with any third parties/affiliates unless required by law.
 You can view our Privacy Policy and Mobile Terms and Conditions for more information.
 Prepared and paid for by Leslie Larson for MN, P.O.
-Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
+Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions Housing LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
 Together we can deliver real solutions.
 Donate

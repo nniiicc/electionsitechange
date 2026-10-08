@@ -1,9 +1,6 @@
-Police Conference of New York Endorses George Borrello
-lhill5000
-Oct 15, 2022
-“I am incredibly proud to be endorsed by the Police Conference of New York.
+top of page All Posts Search Police Conference of New York Endorses George Borrello lhill5000 Oct 15, 2022 1 min read “ I am incredibly proud to be endorsed by the Police Conference of New York .
 With 50,000 members, PCNY is the largest police organization in New York State, representing dedicated, professional police officers who serve cities, towns, villages and counties across the state, as well as authorities and commissions.
 The men and women serving in law enforcement today have my utmost gratitude and respect.
 In the era of cashless bail, parole ‘reform’ and other pro-criminal policies, their jobs have never been more difficult or dangerous.
 I will always #backtheblue and keep fighting alongside the loyal members of PCNY to repeal the disastrous laws that have destroyed public safety in New York.
-There is no goal more urgent.”
+There is no goal more urgent .” Recent Posts See All SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Senator George Borrello Recognized as One of New York State’s Most Effective Republican Legislator SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

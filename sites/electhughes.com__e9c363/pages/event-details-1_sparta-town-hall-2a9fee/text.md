@@ -1,1 +1,2 @@
-
+top of page Home About Vote Platform Platform Policy Positions Contact Events DONATE Sparta Town Hall Thu, Sep 17 | 96 E Doughton St, Sparta, NC 28675, USA A candidate forum where representatives from both sides of the aisle are invited to speak with the community.
+Registration is closed See other events Time & Location Sep 17, 2026, 6:00 PM – 8:30 PM 96 E Doughton St, Sparta, NC 28675, USA Share this event Paid for by Frank Hughes for NC Senate bottom of page

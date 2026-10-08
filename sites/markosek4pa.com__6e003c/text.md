@@ -5,4 +5,4 @@ Z Protecting Fundamental Rights I will protect the right to vote in free and fai
 I have fought for our senior citizens by securing their health care, work to rebuild our economy, develop workable solutions to combat the opioid epidemic, and fought for increased funding for all levels of education.
 My constituents know that their representative is fighting for their needs and interests.
 About Me Donate Now!
-Name Email Address Message 1 + 5 = Submit Facebook RSS Designed by Elegant Themes | Powered by WordPress
+Name Email Address Message 12 + 8 = Submit Facebook RSS Designed by Elegant Themes | Powered by WordPress

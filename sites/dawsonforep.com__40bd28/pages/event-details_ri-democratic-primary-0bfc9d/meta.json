@@ -1,7 +1,9 @@
 {
  "description": "Get Out And Vote",
  "final_url": "https://www.dawsonforep.com/event-details/ri-democratic-primary",
- "paid_for_by": null,
+ "fingerprint": "04bc7bc277ea91eb6c5030da8d078e33df1714ae",
+ "format": 3,
+ "paid_for_by": "",
  "title": "RI Democratic Primary | Matthew Dawson",
  "years_mentioned": [
   "2022"

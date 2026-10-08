@@ -1,11 +1,21 @@
 Skip to content Search for: About District 144 Priorities Endorsements Volunteer Donate Search for: About District 144 Priorities Endorsements Volunteer Donate About District 144 Priorities Endorsements Volunteer Donate Search for: Home districtadmin 2026-02-27T14:12:59-06:00 “Thank you for allowing me to represent you in the Texas House.
 It is an honor and privilege to serve as your State Representative for House District 144.” – Mary Ann Perez Request a Yard Sign “Thank you for allowing me to represent you in the Texas House.
-It is an honor and privilege to serve as your State Representative for House District 144.” – Mary Ann Perez Request a Yard Sign LEGISLATIVE PRIORITIES Consumer Protection Education Healthcare Flood Mitigation & Infrastructure Learn more about Mary Ann’s Priorities MAKE A CONTRIBUTION $10 $25 $50 $100 $250 Other STAY CONNECTED With Us On Social Media State Representative Mary Ann Perez Honored to have the endorsement of Council Member Jonathan Estrada!
+It is an honor and privilege to serve as your State Representative for House District 144.” – Mary Ann Perez Request a Yard Sign LEGISLATIVE PRIORITIES Consumer Protection Education Healthcare Flood Mitigation & Infrastructure Learn more about Mary Ann’s Priorities MAKE A CONTRIBUTION $10 $25 $50 $100 $250 Other STAY CONNECTED With Us On Social Media State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of presenting a resolution to Linda Bridges in recognition of her retirement after more than four decades at Frost Bank.
+Congratulations, Linda!
+Wishing you all the best in this next chapter!
+#txlege #HD144 1 Comments Reach out.....
+4 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post It was wonderful to join neighbors across our community for National Night Out!
+I had the opportunity to visit with neighbors in Deepwater, Scarsdale, South Houston, Queens, and Meadowcreek.
+Thank you to our local law enforcement officers and first responders for ...
+6 Likes Posted: #ago State Representative Mary Ann Perez Honored to have the endorsement of Council Member Jonathan Estrada!
 Thank you, Council Member Estrada, for your trust and support.
 I’m truly grateful to have you standing with me.
-#txlege #HD144 #TeamMaryAnn 4 Likes Posted: #ago State Representative Mary Ann Perez I am deeply grateful to have the endorsement of Council Member Pat Van Houte as I run for re-election.
+#txlege #HD144 #TeamMaryAnn 1 Comments You got this....
+No one can guide the ship better than you..
+We are thankful you are there,.
+12 Likes Posted: #ago State Representative Mary Ann Perez I am deeply grateful to have the endorsement of Council Member Pat Van Houte as I run for re-election.
 Thank you, Council Member Van Houte, for your confidence and support!
-#txlege #HD144 #TeamMaryAnn 10 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of attending the Latin Women’s Initiative Annual Membership Luncheon on Friday.
+#txlege #HD144 #TeamMaryAnn 11 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of attending the Latin Women’s Initiative Annual Membership Luncheon on Friday.
 I’m always grateful for the opportunity to spend time with so many incredible women who are making a difference in our community.
 Thank you to ...
 3 Comments Awesome group!
@@ -37,17 +47,11 @@ Matthew: 25 ...
 Rick Noriega so Rick tell us your interpretation of Matthew 25.
 There is nothing in the Gospel that refers ...
 Rick Noriega maybe never support anyone who supports abortion or their party.
-111 Likes Posted: #ago State Representative Mary Ann Perez I'm grateful to have the support of Constable Jerry Garcia as I run for re-election!
+117 Likes Posted: #ago State Representative Mary Ann Perez I'm grateful to have the support of Constable Jerry Garcia as I run for re-election!
 Thank you, Constable Garcia, for standing alongside me!
 #txlege #HD144 #TeamMaryAnn # Comments Democrats raised taxes to a historic level, vote them out!!
-# Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I joined the Pasadena Chamber of Commerce for a roundtable discussion on interim committee charges, highlights from the 89th Legislative Session, and legislative priorities heading into the 90th Legislative Session.
+# Likes Posted: Last week State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I joined the Pasadena Chamber of Commerce for a roundtable discussion on interim committee charges, highlights from the 89th Legislative Session, and legislative priorities heading into the 90th Legislative Session.
 Thank you, Pasadena Chamber of Commerce, for including me in ...
-3 Comments Democrats raised Harris County taxes to a historic level, vote them out!! https://www.youtube.com/watch?v=ofkHrK6P3wE&t=#s 12 Likes Posted: #ago State Representative Mary Ann Perez I'm honored to have the endorsement of Constable Silvia Trevino as I run for re-election in House District 144.
-Thank you, Constable Trevino, for your continued support!
-#txlege #HD144 #TeamMaryAnn 10 Likes Posted: Last week State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of attending the Deer Park ISD State of the Schools today.
-Lunch was prepared and served by the talented Deer Park ISD Culinary Arts students, students from the STEAM program and other programs showcased their work, ...
-1 Comments How neat!
-And love your dress!!
-15 Likes Posted: Last week STAY INFORMED With The Latest Community News First Name * Last Name Email * Subscribe Δ Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
+3 Comments Democrats raised Harris County taxes to a historic level, vote them out!! https://www.youtube.com/watch?v=ofkHrK6P3wE&t=#s 12 Likes Posted: Last week STAY INFORMED With The Latest Community News First Name * Last Name Email * Subscribe Δ Mailing Address Mary Ann Perez Campaign 6200 Gulf Fwy #125, Houston, TX 77023 Contact Phone: (713) 320-8512 Email: votemaryannperez@gmail.com Resources Contact Us Volunteer District 144 Find Your Representative Search for: © Copyright | All Rights Reserved | Pol.
 Adv.
 Paid for by the Mary Ann Perez Campaign | Privacy Policy Page load link Go to Top

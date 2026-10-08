@@ -24,7 +24,7 @@ Attend training sessions: To ensure that you are well-prepared for your voluntee
 These sessions will equip you with the knowledge and skills needed to effectively contribute to our campaign.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Address * You Email What City * Zipcode * Phone * Email * Gender * What do you want to do? * What do you want to do?
+Name * First Last Address * City Zipcode Skill, City * Zipcode * Phone * Email * Gender * What do you want to do? * What do you want to do?
 Canvassing Phone Banking Post Card Writing Polling Place Volunteer Intership Program Experience, Skill, About You * Submit Let's make a difference together!
 Join Greene-Scott Congressional Campaign as a volunteer and help shape the future.
 Together, we can create positive change and build a stronger, more vibrant community/country.

@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid POLICY BRIEF: Rising oil prices to $200 per barrel threaten a severe economic shock for Florida, potentially driving gas above $7 per gallon and triggering a 1.5% to 2.5% reduction in GDP.
 The proposed "Small Business Energy Shield" offers a three-point intervention to protect local businesses, including emergency fuel credits, localized delivery platforms, and utility rate stabilization.
 1.

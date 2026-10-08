@@ -1,7 +1,11 @@
 {
  "description": "Join the Greg Maye for DC team! Volunteer, donate, or find other easy ways to support our campaign. You'll be proud of what we achieve together!",
  "final_url": "https://www.gregmayefordc.com/get-involved",
- "paid_for_by": null,
+ "fingerprint": "b93023b376511398173cb74035550960e4c64ee0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "GET INVOLVED | Greg Maye for DC",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

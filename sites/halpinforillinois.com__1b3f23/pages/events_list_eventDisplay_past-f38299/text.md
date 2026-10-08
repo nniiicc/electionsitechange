@@ -1,7 +1,7 @@
 Toggle navigation Skip to content Take Our Survey News Get Involved Voting Resources About Mike Issues Donate Events Contact 10 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 1/21/2016 January 21, 2016 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 1/21/2016 January 21, 2016 - 10/8/2026 Now Select date.
 January 2016 Thu 21 A fundraiser hosted by the Blackhawk Township Democrats January 21, 2016 @ 4:30 pm - 6:30 pm Milan American Legion 515 1st Ave W, Milan, United States sloppy joes, pasta salad, chips, dessert, cash bar, raffle baskets, 50/50 drawing!
 February 2016 Sat 20 Walk for Halpin February 20, 2016 @ 10:00 am - 2:00 pm Laborers Local 309 2835 7th Avenue, Rock Island March 2016 Tue 1 Friends and Family Pizza Party March 1, 2016 @ 5:00 pm - 7:00 pm Frank's Pizzeria 711 1st Avenue, Silvis Tue 15 Election Day!
 March 15, 2016 @ 6:00 am - 7:00 pm November 2021 Thu # Campaign Kickoff with the Knox County Democrats November 4, 2021 @ 3:30 pm - 5:00 pm Galesburg Trades and Labor Assembly 1640 N Henderson st, Galesburg, IL, United States Free to the public.

@@ -23,15 +23,19 @@ I will keep pressing until these provisions become law and the infrastructure ne
 Florida families should be able to trust that government is working toward a simple goal: clean water # hours a day, # days a year.
 I will keep fighting for that standard for the Treasure Coast and Palm Beaches.
 Stand with me as we finish the clean-water mission and defend Florida’s future.
-Related Posts: A note on what just happened in Tallahassee March 18, 2022 Let’s Talk About It: The Army Corps April 8, 2024 Secured: Progress For Clean Water July 22, 2026 Big Win For Clean Water May 12, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Brian Has Been Busy!
+March 19, 2021 Secured: Progress For Clean Water July 22, 2026 Manatees need our help!
+December 20, 2021 The Army Corps Spent $1.5 Billion Repairing The Herbert Hoover Dike.
+Now, They Can’t Explain Why.
+February 22, 2024 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
 No consent required to buy.
 Msg&data rates may apply.
-Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me # Days.
+Contribute DONATE NOW $10 $20.22 $50 $100 Recent Posts Safe Roads Are Not Optional Clean Water Results You Can Measure Put Veterans in the Driver’s Seat What Service Before Self Means To Me 56 Days.
 One Mission.
-# Days To Defend Florida’s Future Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+Trending Topics America First Clean Water Defending Life Drain The Swamp Healthcare Israel News Other Press Releases Safer And Stronger Communities Seniors Tax Cuts And Jobs Veterans Twitter Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
 Brian Mast is a retired member of the U.S.
 Army.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate Forstag lobbied against level playing field and opportunity for Montana’s female athletes Press Release June 30, 2026 Kalispell, Mont. — Today, following the landmark U.S.
+Home About Issues News Get Involved Contact Store Media Donate Forstag lobbied against level playing field and opportunity for Montana’s female athletes Press Release June 30, 2026 Kalispell, Mont. — Today, following the landmark U.S.
 Supreme Court decision upholding state laws that protect girls’ and women’s sports, Republican nominee for Congress in Montana’s first congressional district Aaron Flint called out MT-01 Democrat nominee and LGBTQ activist and lobbyist Sam Forstag for fighting against girls in sports.
 Flint also praised the Court’s affirmation of what Montana families, parents, and female athletes have known all along: men do not belong in girls’ and women’s sports.
 During his time as a state wide radio host, Flint consistently supported this common sense position, which Montana’s and Americans overwhelmingly support.

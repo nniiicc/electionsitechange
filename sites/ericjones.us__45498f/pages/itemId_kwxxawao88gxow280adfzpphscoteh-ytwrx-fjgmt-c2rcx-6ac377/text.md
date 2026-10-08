@@ -2,12 +2,6 @@
 Eric Jones will end corruption and fight for you!
 We need leaders that understand you, will listen to you, and represent you — not career politicians seeking participation trophies for protecting the status quo.
 JOIN THE MOVEMENT !
-Sign up here to receive automated text messages and phone calls.
-By providing your phone number, you consent to recurring automated campaign & donation messages from Eric Jones for Congress to the phone number you provide.
-No consent required to buy.
-Msg & data rates may apply.
-Msg frequency varies.
-Unsubscribe at any time by replying STOP.
 Get a Yard Sign Get Involved Meet Eric Jones “My mother told me it would get better” My mom was a nurse, working 60-hour weeks in rural Maine.
 My father was an opioid-addicted disabled veteran, asleep most nights in a recliner in the middle of our 750-square-foot home.
 Before I was 10, I was getting him out of that chair and into bed at 5 a.m., clearing the pill bottles, and making breakfast for myself.
@@ -63,4 +57,4 @@ End the corruption, and we can lower costs.
 Lower costs, and we can protect the future our kids deserve.
 That’s the fight — and I’m asking you to join me.
 Follow Eric Jones on Instagram View fullsize View fullsize View fullsize View fullsize Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

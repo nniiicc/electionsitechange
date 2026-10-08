@@ -1,0 +1,11 @@
+Skip to main content Skip to footer Opens in a new tab Donate → Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Donate Donate By Mail Store Andy Biggs on Debate Stage Tonight While Katie Hobbs Disrespects Arizona Voters October 6, 2026 Press Release Biggs to share vision to Restore the American Dream in Arizona while Hobbs skips debates for over 8 years GILBERT, AZ— Republican nominee for Governor of Arizona Andy Biggs will participate in tonight’s Arizona Citizens Clean Elections Commission Debate beginning at 6pm Arizona time.
+The debate will be streamed live on YouTube and across participating Arizona media outlets, where voters will hear directly from Biggs about his vision and plan to restore the American Dream in Arizona.
+Arizonans will not see Democrat Katie Hobbs, who disgracefully declined to participate in tonight’s debate and refuses to answer questions about her disastrous record.
+Hobbs has not participated in any debate in over 8 years and is the first major party gubernatorial nominee since 1954 to skip a general election debate. “ While Katie Hobbs continues to cower from the debate stage and refuses to answer substantive questions about her disastrous record, Andy Biggs will share his plan to restore the American Dream for every Arizonan, ” said Drew Sexton, Senior Advisor to the Biggs for Arizona campaign. “ Just in the past week, Katie Hobbs has declined four separate opportunities to debate or answer questions about her plan for Arizona.
+The reality is that Hobbs has no vision and no plan for our state, just smears and lies funded by for-profit health insurance companies.
+Andy Biggs is excited to take the stage, lay out his clear vision for the state, and earn support from all Arizonans before early voting starts tomorrow. ” The debate can be viewed on YouTube at the link below at 6pm Arizona time: Home Meet Andy Meet Sine Endorsements News Action Center Issues Media Kit Donate Online Donate By Mail Store Paid for & authorized by Biggs for Arizona By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

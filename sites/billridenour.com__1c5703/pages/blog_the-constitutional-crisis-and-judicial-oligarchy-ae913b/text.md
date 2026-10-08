@@ -72,6 +72,6 @@ At this point, five Supreme Court justices have the final say over what is deeme
 The Framers of the Constitution never contemplated that a group of ‘elites’ would overrule the will of the People.
 Our federal judicial oligarchy believes their power is unchecked.
 This is the greatest threat to the Republic in our history, and must be overthrown, or there will be no Republic.
-Amanda Ridenour Next Next The 2026 Legislative Session – Major Events #3: Crime Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

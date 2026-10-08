@@ -23,4 +23,4 @@ Economists from all backgrounds — Keynesian, Austrian, and alike — agree tha
 There is only one solution to the economy, and it’s the free market enterprise.
 JOIN OUR EMAIL LIST First Name * Last Name * Email * I’d like to join the Libertarian Party of Georgia mailing list too!
 Email Submit Please enable JavaScript in your browser to submit the form View our privacy policy.
-Paid for by Andrew Underwood for Georgia moc.aigroeg4werdna obfsctd-3d6103 @ofni 212 Shorter Ave #1051 Rome, GA 30161 Volunteer Login Home Issues News Volunteer
+Paid for by Andrew Underwood for Georgia moc.aigroeg4werdna obfsctd-41a82c @ofni 212 Shorter Ave #1051 Rome, GA 30161 Volunteer Login Home Issues News Volunteer

@@ -1,8 +1,6 @@
-Who is State Rep.
+Home About Oscar Contact Us Donate Endorsements Events News Privacy Policy Social Media Feed Who is State Rep.
 Oscar Longoria?
-About Oscar
-Biography
-Oscar Longoria is a member of the Texas House of Representatives currently serving his seventh term in office.
+About Oscar Biography Oscar Longoria is a member of the Texas House of Representatives currently serving his seventh term in office.
 Chairman Longoria proudly represents House District 35, which encompasses both Hidalgo and Cameron Counties and the cities and towns of: La Joya, Sullivan City, Peñitas, Palmview, Palmhurst, Alton, Mission, McAllen, Edinburg, Linn, Hargill, Monte Alto, Edcouch, La Villa, Weslaco, Donna, Mercedes, Santa Rosa, La Feria, Santa Maria, Primera, Los Indios, Olmito, Rangerville, Bluetown, San Benito, and Brownsville.
 In the 89th Legislative Session, Chairman Longoria was appointed Chair of the Permanent Standing Subcommittee (PSC) on Workforce, Vice-Chair of the Permanent Standing Subcommittee on International Relations, and member of the Licensing & Administrative Procedures and the Trade, Workforce & Economic Development Committees by Texas House Speaker Dustin Burrows.
 The PSC on Workforce oversees workforce training, job creation and job-training programs, workplace conditions, wages and the employer-employee relationship, collective bargaining, and labor unions.
@@ -29,3 +27,6 @@ Prior to his tenure in the State House, he served on the Agua Special Utility Di
 Professionally, he owns and operates the Law Office of Oscar Longoria.
 Chairman Longoria is married to Jennifer Ruiz-Longoria of Mission, also a University of Texas at Austin Alumni.
 They have two beautiful daughters, Camilla Lee and Madison Lee Longoria.
+2026 POL.
+ADV.
+PAID FOR BY THE OSCAR LONGORIA CAMPAIGN, JENNIFER LONGORIA, TREASURER.

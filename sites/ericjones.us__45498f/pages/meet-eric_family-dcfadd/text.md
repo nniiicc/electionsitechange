@@ -79,4 +79,4 @@ Being a husband and a father is the best thing I have ever done.
 I want my kids to have a future in the country my mother told me about.
 The one she promised.
 Why I'm running Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

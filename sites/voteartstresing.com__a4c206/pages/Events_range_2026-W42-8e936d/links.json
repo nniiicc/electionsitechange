@@ -1,24 +1,102 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61590713094866",
-"https://instagram.com/artstresingfl18",
-"https://voteartstresing.com/",
-"https://voteartstresing.com/Events?range=2026-10",
-"https://voteartstresing.com/Events?range=2026-10-05",
-"https://voteartstresing.com/Events?range=2026-W41",
-"https://voteartstresing.com/Events?range=2026-W43",
-"https://voteartstresing.com/contribute",
-"https://voteartstresing.com/contribute?amount=10",
-"https://voteartstresing.com/contribute?amount=100",
-"https://voteartstresing.com/contribute?amount=1000",
-"https://voteartstresing.com/contribute?amount=25",
-"https://voteartstresing.com/contribute?amount=250",
-"https://voteartstresing.com/contribute?amount=50",
-"https://voteartstresing.com/contribute?amount=500",
-"https://voteartstresing.com/events",
-"https://voteartstresing.com/home",
-"https://voteartstresing.com/photos",
-"https://voteartstresing.com/view-endorsements",
-"https://voteartstresing.com/volunteer",
-"https://voteartstresing.com/vote"
+{
+"text": "#ago",
+"href": "https://voteartstresing.com/Events?range=%23"
+},
+{
+"text": "$#",
+"href": "https://voteartstresing.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://voteartstresing.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://voteartstresing.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://voteartstresing.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://voteartstresing.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://voteartstresing.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://voteartstresing.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contribute",
+"href": "https://voteartstresing.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://voteartstresing.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://voteartstresing.com/events"
+},
+{
+"text": "Home",
+"href": "https://voteartstresing.com/home"
+},
+{
+"text": "Next ›",
+"href": "https://voteartstresing.com/Events?range=2026-W43"
+},
+{
+"text": "Other",
+"href": "https://voteartstresing.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://voteartstresing.com/photos"
+},
+{
+"text": "This Month",
+"href": "https://voteartstresing.com/Events?range=2026-10"
+},
+{
+"text": "This Week",
+"href": "https://voteartstresing.com/Events?range=2026-W41"
+},
+{
+"text": "VOTING INFO",
+"href": "https://voteartstresing.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://voteartstresing.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://voteartstresing.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://voteartstresing.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590713094866"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/artstresingfl18/"
+},
+{
+"text": "‹ Previous",
+"href": "https://voteartstresing.com/Events?range=2026-W41"
+}
 ]

@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Statement · August 1, 2025 Statement by State Rep.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Statement · August 1, 2025 Statement by State Rep.
 Vince Perez on Texas Redistricting Statement from Vince on the mid-decade redistricting plan and what it would mean for El Paso and minority voting power in Texas.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .

@@ -22,4 +22,4 @@ Check with your mobile carrier for details. ​ Text Messaging Opt-In Data We wi
 After you send STOP, we will send a confirmation reply and you will no longer receive SMS messages from us. ​ Help Instructions For help, reply HELP to any message or contact us using the information below. ​ Carrier Disclaimer Carriers are not liable for delayed or undelivered messages. ​ Privacy Your information is handled in accordance with our Privacy Policy.
 Questions about these terms can be directed to generalemail@mattbakerindependent.com . ​ Paid for by Matt Baker for Congress Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or the U.S.
 Marine Corps.
-Terms & Conditions | Privacy Policy | Accessibility Statement bottom of page
+Terms & Conditions | Privacy Policy | Accessibility Statement | FAQs bottom of page

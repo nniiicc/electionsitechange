@@ -1,5 +1,5 @@
 top of page Home Media Blog Mission Issues Events Notifications Use tab to navigate through the menu items.
-DONATE All Posts Search A Roof and a Doctor for Every Veteran: Innovative State-Level Solutions for Missouri's Veterans bwilke9 #ago 5 min read A phone call, a waitlist, a form that goes nowhere—this is what "care" too often looks like for Missouri's veterans.
+DONATE All Posts Search A Roof and a Doctor for Every Veteran: Innovative State-Level Solutions for Missouri's Veterans bwilke9 Sep 30 5 min read A phone call, a waitlist, a form that goes nowhere—this is what "care" too often looks like for Missouri's veterans.
 Imagine a community where veterans no longer struggle to find the care and support they deserve—a vision championed by Brandon Wilke, a young and dedicated advocate who has made veteran healthcare in Missouri a defining cause.
 A lifelong resident of District 75, Brandon aims to transform the lives of veterans in Florissant, Black Jack, and beyond through his vision for innovative housing projects and streamlined medical services.
 Grounded in real experiences, these are practical solutions that offer genuine hope and concrete plans to uplift Missouri's veteran community.

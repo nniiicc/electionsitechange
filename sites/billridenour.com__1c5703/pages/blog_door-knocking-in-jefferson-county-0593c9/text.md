@@ -6,6 +6,6 @@ Talking to these great folks and understanding their deep concern for country, o
 I thank God for the opportunity to serve these wonderful People.
 It inspires a tremendous awe in me and a true sense of Joy.
 Thank you to the People of Jefferson County for allowing me to serve you.
-Montani Semper Liberi, Bill Ridenour Amanda Ridenour Previous Previous The 2026 Legislative Session – Major events #1 – The Tax Cut Next Next Update on the 2024 Regular Session - Nothing meaningful accomplished Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Montani Semper Liberi, Bill Ridenour Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

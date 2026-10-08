@@ -10,16 +10,13 @@ Army Reserves.
 Use of his military rank, job titles, and photographs in uniform do not imply endorsement Kyle Rable At The TDP Convention Make an impact #ago $5 $10 $100 $500 $1000 CUSTOM $50 $25 Powered by the people, for the people.
 This is a grassroots campaign, and even a small amount makes a big difference.
 We appreciate your support!
-Please consider other ways to take action: REQUEST A YARD SIGN HOST A HOUSE PARTY VOLUNTEER Upcoming Events Featured October 7, 2026 Good Line Beer Co.
-Rable Phone Bank October 7, 2026 Good Line Beer Co.
-Read more → October 7, 2026 Good Line Beer Co.
-October 9, 2026 Maedgen Park Rable Block Walk October 9, 2026 Maedgen Park Read more → October 9, 2026 Maedgen Park October 10, 2026 Hollins Park Rable Block Walk October 10, 2026 Hollins Park Read more → October 10, 2026 Hollins Park October 10, 2026 LCDP HQ LBK Phone Bank October 10, 2026 LCDP HQ Read more → October 10, 2026 LCDP HQ October 13, 2026 Wagner Park Rable Block Walk October 13, 2026 Wagner Park Read more → October 13, 2026 Wagner Park October 14, 2026 Good Line Beer Co.
+Please consider other ways to take action: REQUEST A YARD SIGN HOST A HOUSE PARTY VOLUNTEER Upcoming Events Featured October 9, 2026 Maedgen Park Rable Block Walk October 9, 2026 Maedgen Park Read more → October 9, 2026 Maedgen Park October 10, 2026 Hollins Park Rable Block Walk October 10, 2026 Hollins Park Read more → October 10, 2026 Hollins Park October 10, 2026 LCDP HQ LBK Phone Bank October 10, 2026 LCDP HQ Read more → October 10, 2026 LCDP HQ October 13, 2026 Wagner Park Rable Block Walk October 13, 2026 Wagner Park Read more → October 13, 2026 Wagner Park October 14, 2026 Good Line Beer Co.
 Rable Phone Bank October 14, 2026 Good Line Beer Co.
 Read more → October 14, 2026 Good Line Beer Co.
 October 16, 2026 Pallottine Park Rable Block Walk October 16, 2026 Pallottine Park Read more → October 16, 2026 Pallottine Park October 17, 2026 Wolffarth Elementary Rable Block Walk October 17, 2026 Wolffarth Elementary Read more → October 17, 2026 Wolffarth Elementary October 20, 2026 George Woods Park Rable Block Walk October 20, 2026 George Woods Park Read more → October 20, 2026 George Woods Park October 21, 2026 Good Line Beer Co.
 Rable Phone Bank October 21, 2026 Good Line Beer Co.
 Read more → October 21, 2026 Good Line Beer Co.
-October 23, 2026 Dupree Park Rable Block Walk October 23, 2026 Dupree Park Read more → October 23, 2026 Dupree Park View All Upcoming Events Newsletter Block This newsletter signup form needs a storage option.
+October 23, 2026 Dupree Park Rable Block Walk October 23, 2026 Dupree Park Read more → October 23, 2026 Dupree Park October 24, 2026 Pioneer Park Rable Block Walk October 24, 2026 Pioneer Park Read more → October 24, 2026 Pioneer Park View All Upcoming Events Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Let’s give West Texas back to the People.
 Sign up with your email address to receive news, updates, and ways to get involved.

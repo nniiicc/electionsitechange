@@ -1,5 +1,5 @@
-Skip to content Wed.
-Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Oregon’s new statewide shelter system has 4,800 beds; here’s a map Updated: Aug.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Oregon’s new statewide shelter system has 4,800 beds; here’s a map Updated: Aug.
 12, 2025, 11:30 a.m. | Published: Aug.
 11, 2025, 6:00 a.m.
 By Lillian Mongeau Hughes | The Oregonian/OregonLive LINK TO ARTICLE & MAP A covered area beneath solar panels is among the amenities of the courtyard behind Beaverton’s first purpose-built homeless shelter, seen here in November.

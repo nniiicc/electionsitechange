@@ -114,6 +114,6 @@ Visiting our Site from outside of the United States If you are visiting our Site
 The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
 By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
 Contact Us Please contact us if you have questions about our Privacy Policy at LeslieLarsonforMN@gmail.com Prepared and paid for by Leslie Larson for MN, P.O.
-Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
+Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions Housing LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
 Together we can deliver real solutions.
 Donate

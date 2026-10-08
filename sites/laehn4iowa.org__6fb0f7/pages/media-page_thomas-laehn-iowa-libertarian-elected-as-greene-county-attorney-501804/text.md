@@ -5,8 +5,6 @@ On November 6, Dr.
 Thomas Laehn, Libertarian of Jefferson, was elected by the people of Greene County as their new County Attorney.
 Dr.
 Laehn will begin his four-year term on January 2nd… read the full story at lpia.org .
-Kara Glenn Previous Previous I fear for my country.
-The selection of a president shouldn't be this weighty.
-Next Next Supervisors laud Laehn and law enforcement Stay in touch.
+Kara Glenn Stay in touch.
 Contact Us Copyright © # Paid for by Thomas Laehn Exploratory Committee, Inc.
 About Issues Media Volunteer Contact

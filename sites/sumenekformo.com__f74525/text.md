@@ -10,9 +10,9 @@ Missouri State House District 95 is located South of Highway 270, in the souther
 Louis County, in the area of Mehlville and Oakville.
 Want more information on the district boundaries?
 Check out a detailed PDF map of the district from the St.
-Louis County Board of Elections. more about the district Meredith’s platform Meredith Sumenek wants to bring real representation back to District 95.
+Louis County Board of Elections. more about the district Meredith’s platform Meredith Sumenek, the Democratic candidate for State House District 95 in the November 3, 2026 election, wants to bring real representation back to our community.
 Learn more about her plans, and share your own ideas for how to make our South St.
-Louis County community a better place to live and work.
+Louis County neighborhood a better place for all of us to live and work.
 LEARN MORE ENDORSED BY STATE SENATOR Tracy McCreery STATE REPRESENTATIVE Michael Burton STATE SENATOR Doug Beck STATE REPRESENTATIVE Mark Boyko STATE REPRESENTATIVE Jo Doll STATE REPRESENTATIVE Bridget Walsh Moore MORE ENDORSEMENTS EXPLORE MEET MEREDITH PLATFORM THE DISTRICT SUPPORT EVENTS VOLUNTEER DONATE FOLLOW PRIVACY POLICY MEREDITH SUMENEK FOR MISSOURI Paid for by Meredith Sumenek Campaign Fund, Laura Metz, Treasurer Call Meredith: 314.649.8049 Email: info@sumenekformo.com Mail: 4648 Villa Knoll Drive, Saint Louis MO 63128 DONATE When you donate through ActBlue, ActBlue will retain 3.95% of the contribution for processing fees.
 Meredith Sumenek Campaign Fund will retain the remaining 96.05%.
 Prefer to send a check?

@@ -18,4 +18,4 @@ Website administrators can also see and edit that information.
 What rights you have over your data If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.
 You can also request that we erase any personal data we hold about you.
 This does not include any data we are obliged to keep for administrative, legal, or security purposes.
-Paid for by Andrew Underwood for Georgia moc.aigroeg4werdna obfsctd-69d12a @ofni 212 Shorter Ave #1051 Rome, GA 30161 Volunteer Login Home Issues News Volunteer
+Paid for by Andrew Underwood for Georgia moc.aigroeg4werdna obfsctd-15a916 @ofni 212 Shorter Ave #1051 Rome, GA 30161 Volunteer Login Home Issues News Volunteer

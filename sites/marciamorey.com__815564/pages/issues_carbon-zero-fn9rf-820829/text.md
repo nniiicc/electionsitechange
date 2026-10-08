@@ -1,4 +1,4 @@
-0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Public Schools & Education Aug 2 Written By Mary Lee North Carolina used to be a leader in the South for public education.
+0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Public Schools & Education Aug 2 Written by Mary Lee North Carolina used to be a leader in the South for public education.
 Now, North Carolina received an F in Funding Level per pupil and an F in Funding Effort compared to our fiscal capacity (per Education Law Center).
 Our state teacher salary remains the lowest in the Southeast and 43rd lowest in the country.
 Schools are faced with budget cuts across every department.

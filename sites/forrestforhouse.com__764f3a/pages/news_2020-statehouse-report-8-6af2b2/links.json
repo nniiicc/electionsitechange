@@ -1,17 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/news/ww.scdhec.gov/COVID19",
-"https://forrestforhouse.com/photos",
-"https://scstatehouse.gov/sess123_2019-2020/bills/4663.htm",
-"https://scstatehouse.gov/sess123_2019-2020/bills/4710.htm",
-"https://scstatehouse.gov/sess123_2019-2020/bills/4724.htm",
-"https://scstatehouse.gov/sess123_2019-2020/bills/4776.htm",
-"https://scstatehouse.gov/sess123_2019-2020/bills/4963.htm"
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "H. 4663",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4663.htm"
+},
+{
+"text": "H. 4724",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4724.htm"
+},
+{
+"text": "H. 4776",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4776.htm"
+},
+{
+"text": "H. 4963",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4963.htm"
+},
+{
+"text": "H.4710",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4710.htm"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "calforrest@schouse.gov",
+"href": "mailto:calforrest@schouse.gov"
+},
+{
+"text": "www.scdhec.gov/COVID19",
+"href": "https://forrestforhouse.com/news/ww.scdhec.gov/COVID19"
+}
 ]

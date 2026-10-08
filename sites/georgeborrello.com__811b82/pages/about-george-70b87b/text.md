@@ -1,16 +1,9 @@
-About George
-Senator George Borrello (R,C), an unwavering advocate for rural New Yorkers and
-champion of agriculture, small business and middle-class tax relief, was re-elected to
-the New York State Senate in 2022 and 2024, after winning the seat in 2019 in a special election.
-Encompassing approximately 4,500 square miles, the 57th Senate District is one of the state’s largest and includes Cattaraugus, Chautauqua, Genesee, Wyoming and a portion of Allegany County.
+top of page About George Senator George Borrello (R,C), an unwavering advocate for rural New Yorkers and champion of agriculture, small business and middle-class tax relief, was re-elected to the New York State Senate in 2022 and 2024, after winning the seat in 2019 in a special election. ​ Encompassing approximately 4,500 square miles, the 57th Senate District is one of the state’s largest and includes Cattaraugus, Chautauqua, Genesee, Wyoming and a portion of Allegany County.
 A successful businessman and entrepreneur for most of his adult life, Senator Borrello founded his own company, Top-Shelf Marketing, in his early 20s.
-After growing the business into a nationally recognized supplier to the hospitality industry, he merged it with another company where he spent 20 years in executive management.
-His experiences as a small business owner have given him a firsthand perspective on the tax and regulatory hurdles that burden employers in New York State.
-He has used that knowledge to author legislation aimed at easing the burdens on small businesses and providing incentives for them to innovate and expand.
-As the Ranking Member on the Senate’s Agriculture Committee, Senator Borrello has championed legislation to ease tax and regulatory burdens on New York’s farmers and has led opposition to further reductions in the 60-hour overtime threshold for farm workers.
+After growing the business into a nationally recognized supplier to the hospitality industry, he merged it with another company where he spent 20 years in executive management. ​ His experiences as a small business owner have given him a firsthand perspective on the tax and regulatory hurdles that burden employers in New York State.
+He has used that knowledge to author legislation aimed at easing the burdens on small businesses and providing incentives for them to innovate and expand. ​ As the Ranking Member on the Senate’s Agriculture Committee, Senator Borrello has championed legislation to ease tax and regulatory burdens on New York’s farmers and has led opposition to further reductions in the 60-hour overtime threshold for farm workers.
 Recognizing the positive impact of the pandemic program Nourish NY, he worked with colleagues across the aisle to advance legislation to make the farm to food bank initiative permanent.
-The legislation passed both houses of the Legislature and was signed into law in 2021.
-Other key priorities of Senator Borrello include: reducing New York’s high tax burden to help stem the outflow of jobs and residents from upstate New York, reducing the cost of government through the imposition of a state spending cap, and workforce development initiatives to ensure young people have access to good-paying jobs.
+The legislation passed both houses of the Legislature and was signed into law in 2021. ​ Other key priorities of Senator Borrello include: reducing New York’s high tax burden to help stem the outflow of jobs and residents from upstate New York, reducing the cost of government through the imposition of a state spending cap, and workforce development initiatives to ensure young people have access to good-paying jobs.
 Senator Borrello first entered public service because he saw the region he loved struggling with many challenges.
 From population loss and blighted neighborhoods, to increasing taxes and regulations, to an aging infrastructure, the desire to contribute positive solutions drove him to get involved.
 He served eight years as a Chautauqua County legislator where he pursued projects to promote tourism, improve infrastructure, downsize government, and clean up run-down properties.
@@ -19,5 +12,4 @@ Seeing the great potential of a county that faced many challenges because of a l
 Among the achievements of his tenure were stronger partnerships with the business community, county budgets that reduced taxes and made record infrastructure investments, and an unprecedented agreement among Chautauqua Lake stakeholders that led to vast improvements in the lake’s usability.
 Senator Borrello is a graduate of Fredonia High School and received his bachelor’s degree from Purdue University.
 He and his wife Kelly are small business owners.
-They operate businesses in the Town of Hanover including Cabana Sam’s Sunset Bay Grill, The Sunset Bay Beach Club and Villaggio Italiano Pizza & Pasta.
-They reside in Sunset Bay and are active in local charity and volunteer organizations.
+They operate businesses in the Town of Hanover including Cabana Sam’s Sunset Bay Grill, The Sunset Bay Beach Club and Villaggio Italiano Pizza & Pasta. ​ They reside in Sunset Bay and are active in local charity and volunteer organizations. ​ SUPPORT GEORGE TODAY Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

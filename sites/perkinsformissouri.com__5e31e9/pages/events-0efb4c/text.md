@@ -1,8 +1,4 @@
-0 Skip to Content Home Meet Mary Ann Issues Endorsements Newsletter Archive Join Us Contact Media Upcoming Events DONATE Open Menu Close Menu Home Meet Mary Ann Issues Endorsements Newsletter Archive Join Us Contact Media Upcoming Events DONATE Open Menu Close Menu Home Meet Mary Ann Issues Endorsements Newsletter Archive Join Us Contact Media Upcoming Events DONATE uPCOMING EVENTS FOR A COMPLETE LIST OF VOLUNTEER OPPORTUNITIES HEAD TO MOBILIZE Check Out Mobilize Oct 7 Canvass with Team Perkins Wednesday, October 7, 2026 4:00 PM 7:00 PM The Wolf Cafe (map) Google Calendar ICS Join us to spread the word about Mary Ann Perkins's campaign for Missouri House District 100!
-Bring your walking shoes, water, and a charged cell phone with the Mini VAN Touch app downloaded.
-If you have an ActionID please login using that ActionID.
-If not, please create a new one.
-Let us know you're coming by signing up here: https://mobilize.us/s/wZWSOy View Event → Oct 10 Canvass with team perkins Saturday, October 10, 2026 10:00 AM 1:00 PM The Wolf Cafe (map) Google Calendar ICS Join us to spread the word about Mary Ann Perkins's campaign for Missouri House District 100!
+0 Skip to Content Home Meet Mary Ann Issues Endorsements Newsletter Archive Join Us Contact Media Upcoming Events DONATE Open Menu Close Menu Home Meet Mary Ann Issues Endorsements Newsletter Archive Join Us Contact Media Upcoming Events DONATE Open Menu Close Menu Home Meet Mary Ann Issues Endorsements Newsletter Archive Join Us Contact Media Upcoming Events DONATE uPCOMING EVENTS FOR A COMPLETE LIST OF VOLUNTEER OPPORTUNITIES HEAD TO MOBILIZE Check Out Mobilize Oct 10 Canvass with team perkins Saturday, October 10, 2026 10:00 AM 1:00 PM The Wolf Cafe (map) Google Calendar ICS Join us to spread the word about Mary Ann Perkins's campaign for Missouri House District 100!
 Bring your walking shoes, water, and a charged cell phone with the Mini VAN Touch app downloaded.
 If you have an ActionID please login using that ActionID.
 If not, please create a new one.
@@ -47,6 +43,10 @@ If you have an ActionID please login using that ActionID.
 If not, please create a new one.
 Let us know you're coming by signing up here: https://mobilize.us/s/wZWSOy View Event → Nov 1 Canvass with Team Perkins Sunday, November 1, 2026 4:00 PM 7:00 PM St.
 Louis Bread Co (map) Google Calendar ICS Join us to spread the word about Mary Ann Perkins's campaign for Missouri House District 100!
+Bring your walking shoes, water, and a charged cell phone with the Mini VAN Touch app downloaded.
+If you have an ActionID please login using that ActionID.
+If not, please create a new one.
+Let us know you're coming by signing up here: https://mobilize.us/s/wZWSOy View Event → Oct 7 Canvass with Team Perkins Wednesday, October 7, 2026 4:00 PM 7:00 PM The Wolf Cafe (map) Google Calendar ICS Join us to spread the word about Mary Ann Perkins's campaign for Missouri House District 100!
 Bring your walking shoes, water, and a charged cell phone with the Mini VAN Touch app downloaded.
 If you have an ActionID please login using that ActionID.
 If not, please create a new one.

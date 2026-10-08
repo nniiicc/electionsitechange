@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid Reaching out to other Candidates Wednesday April 22, 2026 I will be speaking with Ashley Banks (NPA) from IL-01 about a possible national food drive and to run ideas to each other about this campaign.
 I will be getting in touch with Robert Peoples (D) from FL-15 about a meet up and his position on several topics relating to Central Florida.
 Will also be returning email to Deva Simmons (NPA) FL-18 on Food drive challenge.

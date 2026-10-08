@@ -46,4 +46,4 @@ That balance is within reach.
 So let’s cut the red tape the powerful built to keep you out, and make it easy again to build a home and open a business from Petaluma to Yuba City.
 That’s how an ordinary family gets ahead — and how a community comes back to life.
 All Policies Next Policy Return to Top SOURCES California’s 2025 CEQA reform (AB 130 & SB 131, signed June 30, 2025 — infill-housing exemptions and 30-day approval deadlines): Office of Governor Gavin Newsom — “Governor Newsom signs into law groundbreaking reforms to build more housing, boost affordability” Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

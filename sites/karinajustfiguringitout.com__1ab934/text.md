@@ -45,5 +45,5 @@ I believe government should work for real people, in real life, every day.
 Social Icons Contact Info Address: Po Box 202 Cheney Wa 99004 Phone: 5095995719 Email: karinacampaign1@gmail.com Opening hours: 9AM - 5PM Copyright © # Karina Wallace for LD-9 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
 Name * First Last Email * Zip code Join the campaign supporter list to receive updates, volunteer opportunities, and ways to help improve our community.
-Stay updated on campaign news I’m interested in volunteering Donate What you updates, What issues matter most to you in our community?
+Stay updated on campaign news I’m interested in volunteering Donate receive What Join What issues matter most to you in our community?
 Join the Campaign CLOSE

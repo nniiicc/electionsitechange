@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
 All Articles Press Announcement Search Gilbert Chamber Candidate Endorsement Jun 1 2 min read Updated: Jul 31 Dear Candidates, On behalf of the Gilbert Chamber of Commerce, thank you for your participation in our 2026 candidate engagement and endorsement process.
 We appreciate the time, effort, and thoughtfulness each of you invested in completing interviews, sharing your perspectives, and engaging with Gilbert's business community.
 The Chamber's endorsement process is designed to help business leaders and stakeholders better understand the candidates seeking to serve our community.

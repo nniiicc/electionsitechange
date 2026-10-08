@@ -2,7 +2,13 @@ top of page Sharon Wight for District 81 Donate Get Involved Yard Sign Request M
 As your candidate, it is important to me that I understand the issues most relevant to my base.
 Using the form on the right, please let me know what your biggest concerns are related to state legislation. ​ As a qualitative researcher, I will take the information I am given, and if elected, use that information to inform bills and resolutions I propose in the State House First Name Last Name Contact Information Subject Type your message here...
 Submit Thanks for submitting!
-Volunteer with Sharon Yard Sign Request First name * Last name * Address * Address Line 2 City * Region ZIP/Postal Code * State * Email * Phone * Submit Get Engaged Voice Your voice matters in shaping the future of Indiana House District 81.
+Volunteer with Sharon First name * Last name * Email * Phone * Address * Address Line 2 City * Region Zip Code * State * How would you like to help? * Fundraise!
+Knock Doors!
+Make Phone Calls!
+Distribute Yard Signs!
+Host a Yard Sign!
+Host a House Party!
+Other Submit Yard Sign Request First name * Last name * Address * Address Line 2 City * Region ZIP/Postal Code * State * Email * Phone * Submit Get Engaged Voice Your voice matters in shaping the future of Indiana House District 81.
 Get involved to ensure our community thrives and is represented with empathy and care.
 InVest Support our campaign with financial contributions or putting up a yard sign.
 Fundraising efforts allow us to amplify our message and reach voters with essential information about the issues that matter most.

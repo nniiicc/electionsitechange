@@ -1,7 +1,5 @@
 Skip navigation menu Home About District Priorities Volunteer Events Contact News Donate Home About District Priorities Volunteer Events Contact News Donate Join Us Campaign Events Join ust at one of our upcoming events.
-Walpole - 9th Norfolk State Representative Candidate Forum Walpole Public Library Community Room 143 School St, Walpole, MA 02081 Tom welcomes all residents of the 9th Norfolk to attend to hear from him and ask questions.
-Format is being finalized and will be communicated to attendees ahead of time.
-Submit your questions to be answered at the forum here - https://forms.gle/igwjWRhPFuQuLFSC8 RSVP Millis - 9th Norfolk State Representative Candidate Forum Millis Public Library 961 Main St, Millis, MA 02054 Tom welcomes all residents of the 9th Norfolk to attend to hear from him and ask questions.
+Millis - 9th Norfolk State Representative Candidate Forum Millis Public Library 961 Main St, Millis, MA 02054 Tom welcomes all residents of the 9th Norfolk to attend to hear from him and ask questions.
 Format is being finalized and will be communicated to attendees ahead of time.
 Submit your questions to be answered at the forum here - https://forms.gle/igwjWRhPFuQuLFSC8 RSVP Plainville - 9th Norfolk State Representative Candidate Forum Plainville Town Hall Conference Room 190 South St, Plainville, MA 02762 Tom welcomes all residents of the 9th Norfolk to attend to hear from him and ask questions.
 Format is being finalized and will be communicated to attendees ahead of time.

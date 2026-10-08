@@ -14,6 +14,6 @@ A strong Secretary of State must: Treat every voter and business fairly, regardl
 This campaign stands for: Election integrity you can verify Government you can trust A business environment that works for everyone A system that puts citizens first Because when Nevada’s records are accurate, its elections are trusted, and its businesses can thrive—every Nevadan benefits.
 Share: Categories: Post navigation Next Next post: Who I Am footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

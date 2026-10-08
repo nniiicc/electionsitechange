@@ -1,4 +1,4 @@
-0 Skip to Content About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Priorities Combating Fraud Minnesota has a fraud problem.
+0 Skip to Content About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Press Releases Priorities Combating Fraud Minnesota has a fraud problem.
 I am running to restore accountability in government, crack down on fraud and abuse, and make sure taxpayer dollars are spent the way they are intended.
 Public service should be about delivering results for our constituents.
 We can’t deliver if we’re spending all our time worried about fraud.

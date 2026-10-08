@@ -51,8 +51,7 @@ Manchester has always been a city built by hardworking people, people who believ
 That is a vision worth protecting.
 I hope we can continue working together to make Manchester a city where our children can afford to stay, where our seniors can afford to remain, where our workforce can afford to live, and where future generations will have the same opportunities that drew so many of us here.
 Thank you for your time, your service, and your commitment to the people of Manchester.
-Henry Osinachi Emele Resident, Ward 7 Kara Myrick-Emele http://www.karamyrick.com Previous Previous Before I ask you for your vote, I'm asking for your voice.
-Next Next Why I’m Running: My Commitment to Manchester Ward 7 Donate by Mail Henry Emele for NH State Rep 9 Clarendon Way Manchester, NH 03103 Newsletter Block This newsletter signup form needs a storage option.
+Henry Osinachi Emele Resident, Ward 7 Kara Myrick-Emele http://www.karamyrick.com Donate by Mail Henry Emele for NH State Rep 9 Clarendon Way Manchester, NH 03103 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up to join Henry Emele’s campaign for New Hampshire State Representative.
 Email Address Sign Up We respect your privacy.

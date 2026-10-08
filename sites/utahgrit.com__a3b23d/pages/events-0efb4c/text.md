@@ -1,4 +1,4 @@
-0 Skip to Content Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Oct 7 Utah PTA Wednesday, October 7, 2026 6:30 PM 8:00 PM South Jordan Middle School (map) Google Calendar ICS Utah PTA - Meet the Candidates View Event → Oct 10 Canvass with Rod Moser for HD45 Saturday, October 10, 2026 9:00 AM 10:00 AM East River Front Park Fishing Ponds (map) Google Calendar ICS Come knock doors with Rod Moser and Team Utah Grit!
+0 Skip to Content Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Oct 10 Canvass with Rod Moser for HD45 Saturday, October 10, 2026 9:00 AM 10:00 AM East River Front Park Fishing Ponds (map) Google Calendar ICS Come knock doors with Rod Moser and Team Utah Grit!
 MEET 9:00 - 9:30 at the Fish Pond Park.
 Look at the map for the MIDAS POND.
 We are parked west of the pond along River Front Parkway.
@@ -40,7 +40,7 @@ First-time canvassers and experienced door knockers are all welcome.
 We’ll provide the training, materials, and tools you need for a successful morning.
 Bring a fully charged phone, a water bottle, your enthusiasm, and a friend or family member.
 Together, we’ll meet voters, listen to our neighbors, and build support for common-sense solutions.
-Sign Up View Event → Sep 29 Housing Affordability Panel - ZOOM Tuesday, September 29, 2026 7:00 PM 8:30 PM https://us02web.zoom.us/j/86187823766?pwd=CbO70uvGMDyYrCnyanCVuXxrrDepug.1 (map) Google Calendar ICS ZOOM - Housing Affordability Panel ZOOM LINK View Event → Sep 27 Canvass with Rod Moser for HD45 Sunday, September 27, 2026 9:00 AM 10:00 AM East River Front Park Fishing Ponds (map) Google Calendar ICS Come knock doors with Rod Moser and Team Utah Grit!
+Sign Up View Event → Oct 7 Utah PTA Wednesday, October 7, 2026 6:30 PM 8:00 PM South Jordan Middle School (map) Google Calendar ICS Utah PTA - Meet the Candidates View Event → Sep 29 Housing Affordability Panel - ZOOM Tuesday, September 29, 2026 7:00 PM 8:30 PM https://us02web.zoom.us/j/86187823766?pwd=CbO70uvGMDyYrCnyanCVuXxrrDepug.1 (map) Google Calendar ICS ZOOM - Housing Affordability Panel ZOOM LINK View Event → Sep 27 Canvass with Rod Moser for HD45 Sunday, September 27, 2026 9:00 AM 10:00 AM East River Front Park Fishing Ponds (map) Google Calendar ICS Come knock doors with Rod Moser and Team Utah Grit!
 MEET 9:00 - 9:30 at the Fish Pond Park.
 Look at the map for the MIDAS POND.
 We are parked west of the pond along River Front Parkway.
@@ -225,5 +225,5 @@ This event is FREE.
 This is a community event and everyone is welcome.
 Burgers, dogs and veggie options will be provided —- you bring a side or dessert to share!
 Family fun, bring a neighbor, enjoy the afternoon with like minded people.
-RSVP View Event → Jun 29 Meet & Greet Monday, June 29, 2026 6:00 PM 8:00 PM South Jordan Park Pavilion (map) Google Calendar ICS South Jordan Park Pavilion Meet the Candidates Hosted by Gaylias Tanner View Event → Utah Grit Request a Yard Sign House District 45 MAP Signs will be delivered to residences within House District 45 boundaries, paid for by Elect Rod Moser.
+RSVP View Event → Utah Grit Request a Yard Sign House District 45 MAP Signs will be delivered to residences within House District 45 boundaries, paid for by Elect Rod Moser.
 Mailing Address: 3731 W South Jordan Pkwy #102-503 South Jordan, UT 84009 Paid for by Elect Rod Moser.

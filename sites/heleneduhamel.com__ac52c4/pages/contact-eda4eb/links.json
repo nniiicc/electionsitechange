@@ -1,9 +1,54 @@
 [
-"https://facebook.com/profile.php?id=100057883637652",
-"https://heleneduhamel.com/contact",
-"https://heleneduhamel.com/general-5",
-"https://heleneduhamel.com/get-involved",
-"https://heleneduhamel.com/privacy-policy",
-"https://heleneduhamel.com/terms-conditions",
-"https://heleneduhamel.revv.co/donate-today"
+{
+"text": "CONTACT",
+"href": "https://www.heleneduhamel.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://heleneduhamel.revv.co/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://www.heleneduhamel.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.heleneduhamel.com/contact"
+},
+{
+"text": "LINK TO PRIVACY POLICY",
+"href": "https://www.heleneduhamel.com/privacy-policy"
+},
+{
+"text": "LINK TO TERMS AND CONDITIONS",
+"href": "https://www.heleneduhamel.com/terms-conditions"
+},
+{
+"text": "More from the News",
+"href": "https://www.heleneduhamel.com/general-5"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.heleneduhamel.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.heleneduhamel.com/terms-conditions"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.heleneduhamel.com/terms-conditions"
+},
+{
+"text": "View Privacy Policy",
+"href": "https://www.heleneduhamel.com/privacy-policy"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/profile.php?id=100057883637652"
+},
+{
+"text": "info@heleneduhamel.com",
+"href": "mailto:info@heleneduhamel.com"
+}
 ]

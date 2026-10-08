@@ -120,10 +120,6 @@
 "href": "https://www.robertfortn.com/volunteer"
 },
 {
-"text": "VOTING RESOURCES",
-"href": "https://www.robertfortn.com/voting-resources"
-},
-{
 "text": "YARD SIGNS",
 "href": "https://www.robertfortn.com/contactform"
 },
@@ -150,5 +146,9 @@
 {
 "text": "robert@all95.com",
 "href": "mailto:robert@all95.com?subject=Where+to+visit+next"
+},
+{
+"text": "schedule",
+"href": "https://www.robertfortn.com/events"
 }
 ]

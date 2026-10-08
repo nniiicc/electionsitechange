@@ -1,4 +1,9 @@
-Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Recent news Stay Up To Date September 24, 2026 PennLive Dissident Republicans throw support to Stelson in Pa.
+Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Recent news Stay Up To Date September 28, 2026 York Daily Record Dissident Republicans may hold key to 10th District Perry-Stelson race Tracy Pawelski’s Republican bona fides are impressive.
+The 63-year-old northern York County resident worked for former Republican U.S.
+Rep.
+George Gekas, who represented the district that included Harrisburg for two decades.
+Next, she worked for the Conservative Opportunity Society, a group of 35 House Republicans founded by former Speaker Newt Gingrich.
+During the first Bush […] Read More September 24, 2026 PennLive Dissident Republicans throw support to Stelson in Pa.
 10th race A group of Republicans dissatisfied with the direction of the party under President Donald J.
 Trump called Wednesday for 10th Congressional District voters who feel likewise to vote for Democrat Janelle Stelson this fall.
 The event at a farm near York Haven was headlined by former Illinois Congressman Adam Kinzinger, one of two Republicans who […] Read More September 23, 2026 abc27 Dissident Republicans may hold key to 10th District Perry-Stelson race Former Illinois GOP Congressman Adam Kinzinger headlined Republicans supporting Democrat Janelle Stelson.
@@ -26,9 +31,6 @@ Rep.
 Scott Perry in 2024, Janelle Stelson is hoping that another run for PA-10 – and a favorable midterm election cycle – will yield different results this year.
 Stelson is a familiar face in Pennsylvania’s 10th Congressional District.
 She was a longtime news anchor for the central Pennsylvania […] Read More April 26, 2026 The Washington Post Democrats are turning Republicans’ arguments against them in midterm races Republicans won in 2024 by promising to cut the cost of living, but high gas prices are frustrating voters and providing a potent line of attack ahead of this year’s elections.
-Read More April 21, 2026 PoliticsPA Perry Tops Pennsylvania Congressional Vulnerability Rankings It’s been nine months since we published our initial PoliticsPA congressional vulnerability rankings for the Pennsylvania delegation in the U.S.
-House.
-Our rankings look largely the same, but during that time, the political environment for four Republican incumbents has deteriorated.
 Read More Page 1 Page 2 Page 3 Page 4 Page 5 Join The Campaign First Name Last Name Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.

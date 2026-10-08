@@ -33,6 +33,6 @@ The Conservatives came just short of stopping this venture.
 The Democrats, of course, sided with the corporatists, who swayed to many other delegates to vote with them.
 We need more legislators to step up to bring an end to this immoral corporatism and level the playing field for all West Virginians.
 To many bills such as this were jammed through this Special Circus that mal-focused the legislature on issues that had nothing to do with the ostensible reason we were there – to resolve our Corrections and Emergency Services crises.
-More tricks will be shown in the Special Circus – Part Three MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous The Special Circus - Part 1 Next Next The Special Circus - Part 3 Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+More tricks will be shown in the Special Circus – Part Three MONTANI SEMPER LIBERI Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

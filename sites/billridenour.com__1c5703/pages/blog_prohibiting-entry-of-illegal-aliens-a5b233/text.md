@@ -7,6 +7,6 @@ If they return, then the illegal alien will be charged with a felony.
 My bill has some necessary adaptations, given we are not on the border, but it accomplishes a similar purpose.
 It will complement what the federal government should be doing, and under a sane federal government will do correctly in the future.
 The bill is posted on my website here .
-MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous Update on the 2024 Regular Session - Nothing meaningful accomplished Next Next The Anti-Terrorism Act Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+MONTANI SEMPER LIBERI Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

@@ -87,5 +87,5 @@ MONA would allow basic protections to our LGBTQ community by adding sexual orien
 Missourians should not have to fear losing their jobs or being denied housing for who they love—discrimination that is currently completely legal in our state.
 Meanwhile, Republicans in recent years have also passed legislation that makes it easier for employers, landlords or businesses to discriminate based on race, age, religion or gender—more so than in any other state.
 As your state rep, I will work for a Missouri that welcomes people regardless of race, religion, gender, age or sexual orientation, and protects all people from discrimination.
-Continue Reading See All Issues Campaign News & Updates April 29 Work with Jessie Read More October 7 Redistricting Letter Read More October 7 Volunteer to help elect Jess!
+Continue Reading See All Issues Campaign News & Updates April 29 Work with Jessie Read More October 8 Redistricting Letter Read More October 8 Volunteer to help elect Jess!
 Read More See All Updates Support Jessie Shepherd’s Campaign for Missouri Donate Now Shepherd for Missouri PO Box 606 Herculaneum, MO 63048 tel:3148083410 | info@ShepherdForMO.com Jennifer Ruble, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

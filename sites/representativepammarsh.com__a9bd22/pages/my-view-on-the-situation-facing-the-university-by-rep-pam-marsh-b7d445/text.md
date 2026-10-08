@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements My view on the situation facing the university by Rep.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements My view on the situation facing the university by Rep.
 Pam Marsh May 4, 2026 LINK TO SOUTHERN OREGON BUSINESS JOURNAL (Originally posted on Pam’s Facebook Page) This is a tumultuous time for Southern Oregon University and the administration, staff, students and community members who deeply love the place.
 Here’s my view on the situation facing the university.
 First, some larger context: Higher education across the country is experiencing an existential crisis.

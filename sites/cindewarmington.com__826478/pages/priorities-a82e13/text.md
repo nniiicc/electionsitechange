@@ -12,5 +12,5 @@ Every proposal is designed to help ensure that working Granite Staters can affor
 This website will continue to be updated throughout Cinde’s campaign . big tech & energy YOUR COMMUNITY.
 YOUR GRID.
 YOUR RULES.
-Economy SUSPEND THE GAS TAX TRUMP STANDING UP TO TRUMP’S CHAOS, COSTS, AND CORRUPTION HOUSING A ROOF OVER EVERY HEAD Vote@CindeWarmington.com Privacy Policy P.O.
+Economy SUSPEND THE GAS TAX TRUMP STANDING UP TO TRUMP’S CHAOS, COSTS, AND CORRUPTION HOUSING A ROOF OVER EVERY HEAD CANNABIS LEGALIZE CANNABIS Vote@CindeWarmington.com Privacy Policy P.O.
 Box 2133, Concord, NH 03302 Paid for by Friends of Cinde Warmington, PO Box 2133, Concord, NH 03302, William Christie Treasurer You need to enable JavaScript to run this app.

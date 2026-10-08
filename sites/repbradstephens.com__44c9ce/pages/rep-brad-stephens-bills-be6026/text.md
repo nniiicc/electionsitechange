@@ -69,7 +69,7 @@ DeWitte DNR-OSLAD ACCESSIBILITY Senate Public Act . . . . . . . . .
 104-0814 8/7/2026 SB3385 Mike Porfirio VEH CD-PLATES-ENGINEERS Senate Public Act . . . . . . . . .
 104-0725 7/31/2026 SB3484 Ram Villivalam VEH CD-PLATES-REGISTRATION Senate Public Act . . . . . . . . .
 104-0854 8/26/2026 SB3644 Mike Porfirio ROOFTOP SAFETY-BUILDING SURVEY Senate Public Act . . . . . . . . .
-104-0739 7/31/2026 SJR0034 Cristina Castro POW/MIA RECOGNITION DAY Senate Adopted Both Houses 5/30/2026 Data from Illinois General Assembly | Updated: Oct 7, 2026 1:57 AM ABOUT BRAD STEPHENS Lifelong resident and supporter of the 20th District, Representative Bradley A.
+104-0739 7/31/2026 SJR0034 Cristina Castro POW/MIA RECOGNITION DAY Senate Adopted Both Houses 5/30/2026 Data from Illinois General Assembly | Updated: Oct 8, 2026 9:02 AM ABOUT BRAD STEPHENS Lifelong resident and supporter of the 20th District, Representative Bradley A.
 Stephens was sworn in on June 29, 2019.
 Stephens concurrently serves as the CEO of one of the most successful municipalities in the nation, Rosemont, Illinois.
 Prior to becoming mayor, Brad Stephens served the Village of Rosemont as a member of its Board of Trustees for 18 years.

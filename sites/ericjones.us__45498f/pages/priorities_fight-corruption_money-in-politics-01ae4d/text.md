@@ -81,4 +81,4 @@ That’s a choice, and it’s ours to make.
 Win this one fight, and every other one becomes winnable.
 All Policies Next Policy Return to Top SOURCES Thompson contribution records underlying the PG&E “#1 in Congress” and corporate-PAC figures: FEC — Mike Thompson for Congress, Committee C00326363 Registered-lobbyist filings (the data behind the lobbyist-to-member ratio): U.S.
 House Clerk — Lobbying Disclosure GAO’s annual review of federal lobbying disclosure under the Lobbying Disclosure Act (registrations and filings): GAO — “2024 Lobbying Disclosure: Observations on Compliance with Requirements,” GAO-25-107523 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

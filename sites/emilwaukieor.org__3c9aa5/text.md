@@ -1,12 +1,11 @@
-Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes More Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes Elvis Clark's Corner Headquartered in Milwaukie, Oregon: (October 6, 2026.
-Milwaukie Mayoral candidate Will Anderson accepts some special interest monies in his campaign for Mayor.
-Click 'City Hall News.' ******** I recommend that Milwaukieans vote for Allie Ball and Lisa Batey for City Council and Mayor, respectively.
-I am personally saddened by Will's attacking Mayor Batey (a flyer you probably received from Anderson, recently).
-Mayor Batey has devoted much of the last 20 years serving Milwaukie and should be shown more respect.
-Will, you are better than this. ******** (I won my Primary Election (R) and am running to be state representative for Oregon House District 41, covering the City of Milwaukie, Oak Grove, Sellwood and the Eastmoreland areas.)) Drop me a line at EClarkMilwOr@yahoo.com if interested.
+Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes More Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Elvis Clark's Corner Headquartered in Milwaukie, Oregon: (October 7, 2026.
+2 items.
+(1) Milwaukie Mayoral candidate Will Anderson accepts some special interest monies in his campaign for Mayor.
+Click 'More' and then click 'City Hall News.' (2) Why Oregon's "Clean" Fuels isn't all that environmental and yet adds ten cents to the cost of gasoline per gallon.
+Click 'Not So Clean Fuels.' ******** I recommend that Milwaukieans vote for Allie Ball and Lisa Batey for City Council and Mayor, respectively ******** (I won my Primary Election (R) and am running to be state representative for Oregon House District 41, covering the City of Milwaukie, Oak Grove, Sellwood and the Eastmoreland areas.)) Drop me a line at EClarkMilwOr@yahoo.com if interested.
 Rockwood Street's Tall, Mad pumpkin head monster A Photo for Halloween 2024 in the Ardenwald Neighborhood.
 Boo!
 McLoughlin Boulevard is built in 1937 lined with elms The Elms are just a shadow of their ultimate majestic selves in 1937 - today they provide canopy McLoughlin is also known as 99E, which was originally intended to speed driver and passengers either as far north as into Washington state or as far south as into California.

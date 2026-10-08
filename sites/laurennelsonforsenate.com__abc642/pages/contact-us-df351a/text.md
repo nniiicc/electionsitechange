@@ -1,4 +1,4 @@
-Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Skip to content Thursday, October 08, 2026 Lauren Nelson for Senate P.O.
 Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Contact Contact Lauren I love to interact with the voters!
 Please share your thoughts or comments and how best to contact you by sending an email to LaurenNelson4Senate@gmail.com or calling 605-661-5876.
 Speaking Events I am willing to speak or meet with any group, anytime!

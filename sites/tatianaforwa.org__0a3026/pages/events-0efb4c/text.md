@@ -4,12 +4,12 @@ All information is in the attached Mobilize link.
 View Event → Oct 10 King County Candidate Forum, hosted by Coalition of Immigrants Refugees and Communities of Color (CIRCC) and partners – 37th District Saturday, October 10, 2026 10:00 AM 1:00 PM Google Calendar ICS Meet Tatiana and other 37th Legislative District candidates.
 Connect with community, and get clear on the issues shaping our neighborhoods.
 Free entry, lunch, parking, and childcare with RSVP.
+View Event → Oct 10 Canvass with Team Tatiana in the Central District!
+Saturday, October 10, 2026 11:00 AM 1:00 PM Google Calendar ICS Canvass with Team Tatiana in the Central District!
+All information is in the attached Mobilize link.
 View Event → Oct 10 Skyway Candidate Forum (Hosted By West Hill Community Association x South Seattle Emerald) Saturday, October 10, 2026 2:00 PM 4:00 PM Google Calendar ICS Join Tatiana at the 2026 general election Skyway Candidate forum!
 "Come meet some of the folks who will be on your ballot this November and get vote ready! ...
-Doors open at 2 p.m. for free food from My’s Vietnamese Sandwiches and Deli (a Skyway gem) with refreshments and an open house with 37th Legislative District Candidates.” View Event → Oct 10 Canvass with Tatiana in Skyway!
-Saturday, October 10, 2026 4:00 PM 6:00 PM Google Calendar ICS Canvass with Team Tatiana in Columbia City & Hillman City!
-All information is in the attached Mobilize link.
-View Event → Oct 11 Canvass with Tatiana in Central Beacon Hill!
+Doors open at 2 p.m. for free food from My’s Vietnamese Sandwiches and Deli (a Skyway gem) with refreshments and an open house with 37th Legislative District Candidates.” View Event → Oct 11 Canvass with Tatiana in Central Beacon Hill!
 Sunday, October 11, 2026 4:00 PM 6:00 PM Google Calendar ICS Canvass with Team Tatiana in Central Beacon Hill!
 All information is in the attached Mobilize link.
 View Event → Oct 12 Canvass with Tatiana in Rainier Beach!

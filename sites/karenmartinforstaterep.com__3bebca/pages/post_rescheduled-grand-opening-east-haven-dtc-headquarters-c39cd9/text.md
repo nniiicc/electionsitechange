@@ -7,7 +7,7 @@ The event will also serve as the official kickoff of the campaign’s community 
 “This election is about the future of East Haven, and our campaign is powered by the energy and participation of people throughout our community.” Event Details Date: Sunday, October 4 Time: 11:00 a.m.
 Location: 370 Hemingway Avenue, East Haven Featuring: Congresswoman Rosa DeLauro, Connecticut State Treasurer Erick Russell, and East Haven’s Democratic candidates Also: Community canvass kickoff Karen looks forward to welcoming supporters, volunteers, and neighbors to the new headquarters as the campaign enters its final weeks.
 Come meet the candidates, learn how you can get involved, and help us kick off the next phase of the campaign!
-Recent Posts See All Join us on Wednesdays...Notes for Votes!
+Recent Posts See All Karen Receives CT Against Gun Violence Endorsement!
+Join us on Wednesdays...Notes for Votes!
 Karen Receives Endorsement From AFSCME Council 4!
-Karen Receives Planned Parenthood Endorsement!
 Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page

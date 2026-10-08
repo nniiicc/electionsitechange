@@ -1,20 +1,12 @@
-top of page
-Profile
-Join date: Mar 8, 2022
-Posts (25)
-May 7, 2024 ∙ 1 min
-SEATTLE TIMES EDITORIAL: WA’s new homeownership program must reach those it aims to help
-By The Seattle Times editorial board The state Legislature did its part last year to help repair decades of racial discrimination in...
-Apr 30, 2024 ∙ 1 min
-SEATTLE TIMES: WA seeks to fix discrimination from racially restrictive property deeds
-By Laurel Demkovich Washington State Standard Washington has tens of thousands of homes with racially restrictive deeds dating back to...
-Jan 9, 2024 ∙ 1 min
-CROSSCUT: Taylor's Child Support Pass Through Bill restores millions to Washington families
-WA intercepts millions in child support for low-income families "Amy Roark logged in to the U.S.
+top of page Meet Jamila Priorities Endorsements Take Action Get Involved Privacy Policy News Events More...
+Use tab to navigate through the menu items.
+Donate Profile Join date: Mar 8, 2022 Posts (25) May 7, 2024 ∙ 1 min SEATTLE TIMES EDITORIAL: WA’s new homeownership program must reach those it aims to help By The Seattle Times editorial board The state Legislature did its part last year to help repair decades of racial discrimination in...
+32 0 Apr 30, 2024 ∙ 1 min SEATTLE TIMES: WA seeks to fix discrimination from racially restrictive property deeds By Laurel Demkovich Washington State Standard Washington has tens of thousands of homes with racially restrictive deeds dating back to...
+23 0 Jan 9, 2024 ∙ 1 min CROSSCUT: Taylor's Child Support Pass Through Bill restores millions to Washington families WA intercepts millions in child support for low-income families "Amy Roark logged in to the U.S.
 Bank app to check the balance on the...
-Team Jamila
-Writer
-Followers
-Following
-Follow
-bottom of page
+39 0 Load More Team Jamila Team Jamila Writer 0 Followers 0 Following Follow More actions Profile Members_Subpages_Horizontal_Menu Use tab to navigate through the menu items.
+Re-Elect Jamila Taylor Paid for by Elect Jamila Taylor PO Box 3996 Federal Way, WA 98063-3996 Sign up for Updates Enter your email here Sign Up!
+Thanks for submitting!
+Register to Vote Here!
+Quick Links About Donate News Contact © # Elect Jamila Taylor.
+All Rights Reserved. bottom of page

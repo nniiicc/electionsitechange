@@ -30,4 +30,4 @@ The full platform is available at https://www.ericjones.us/priorities .
 Jones takes no corporate PAC, special interest, or foreign money.
 He is running against 14-term incumbent Congressman Mike Thompson in California's newly redrawn 4th Congressional District, which spans nine counties from Sonoma and Napa in the west to Sutter, Yuba, and Colusa in the Sacramento Valley.
 Contact: press@ericjones.us , (650) 245-2114 ### David Tierney Next Next Eric Jones Accepts KCRA Debate Invitation, Calls on Thompson to Do the Same Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

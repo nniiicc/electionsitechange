@@ -1,4 +1,5 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Newsletter • June 18, 2026 Congratulations, Class of 2026!
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Newsletter • June 25, 2026 What America means to my family I learned what public service looks like by watching my parents and grandparents live it every day.
+My father, a Vietnam veteran and Bronx OB-GYN,… Read more… Newsletter • June 18, 2026 Congratulations, Class of 2026!
 As graduation ceremonies take place this week across Greenwich, Stamford, and New Canaan, I want to extend my heartfelt congratulations to the Class of 2026… Read more… Radio appearance • June 17, 2026 Jill on the Lisa Wexler Show Lisa Wexler spoke with Jill about her path to public service, new legislation, fiscal discipline, and the 36th State Senate District.
 Take a listen.
 Read more… Newsletter • June 4, 2026 Why I’m running for State Senate My commitment to public service was shaped by my family’s story.

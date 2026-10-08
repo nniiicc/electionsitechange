@@ -16,4 +16,4 @@ Drop us a line!
 Name Email* Attach Files Attachments (0) This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Send Cancel Drop us a line!
 Subscribe Sign up for campaign updates!
-Email Sign up Oscar Rosa for Texas State Representative District 35 Paid for by Oscar Rosa Campaign Powered by
+Email Sign up Privacy Policy Terms of Service Oscar Rosa for Texas State Representative District 35 Paid for by Oscar Rosa Campaign Powered by

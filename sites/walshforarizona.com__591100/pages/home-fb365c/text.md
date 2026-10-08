@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
 MEET STEPHANIE: YOUR VOICE FOR ARIZONA Because Arizona Deserves Better ABOUT STEPHANIE Bringing Experience to Serve You As a dedicated advocate for the people of Legislative District 14, I am committed to bringing positive progress and long-term success for Arizona.
 I am an engineer with over 30 years of experience in energy, business, and creating practical solutions to difficult problems.
 I'm ready to bring my experience and work ethic to the Arizona Senate. ​ Today's issues around water, our local economy, and jobs require real solutions that address competing needs.

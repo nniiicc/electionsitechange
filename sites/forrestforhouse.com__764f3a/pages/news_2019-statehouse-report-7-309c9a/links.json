@@ -1,15 +1,58 @@
 [
-"https://campaignpartner.com/",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/photos",
-"https://postandcourier.com/news/betsy-devos-to-visit-struggling-south-carolina-schools/article_2778ca3d-f9d9-5ec3-992d-fdb2bd514ead.html",
-"https://postandcourier.com/politics/sc-teachers-could-see-up-to-raise-score-victories-on/article_64d2e4d8-3518-11e9-8c50-738417f6881e.html",
-"https://thestate.com/news/local/education/article226472925.html",
-"https://thestate.com/news/politics-government/article226505250.html"
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "calforrest@schouse.gov",
+"href": "mailto:calforrest@schouse.gov"
+},
+{
+"text": "https://www.postandcourier.com/news/betsy-devos-to-visit-struggling-south-carolina-schools/article_2778ca3d-f9d9-5ec3-992d-fdb2bd514ead.html",
+"href": "https://www.postandcourier.com/news/betsy-devos-to-visit-struggling-south-carolina-schools/article_2778ca3d-f9d9-5ec3-992d-fdb2bd514ead.html"
+},
+{
+"text": "https://www.postandcourier.com/politics/sc-teachers-could-see-up-to-raise-score-victories-on/article_64d2e4d8-3518-11e9-8c50-738417f6881e.html",
+"href": "https://www.postandcourier.com/politics/sc-teachers-could-see-up-to-raise-score-victories-on/article_64d2e4d8-3518-11e9-8c50-738417f6881e.html"
+},
+{
+"text": "https://www.thestate.com/news/local/education/article226472925.html",
+"href": "https://www.thestate.com/news/local/education/article226472925.html"
+},
+{
+"text": "https://www.thestate.com/news/politics-government/article226505250.html",
+"href": "https://www.thestate.com/news/politics-government/article226505250.html"
+}
 ]

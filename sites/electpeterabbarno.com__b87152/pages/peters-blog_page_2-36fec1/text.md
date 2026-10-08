@@ -1,6 +1,9 @@
 Stronger Families.
 Stronger Communities.
-Stronger Washington ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow Peter’s Blog Washington State Nurses Association PAC Endorsement Honored to receive the endorsement of the Washington State Nurses Association PAC.
+Stronger Washington ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow Peter’s Blog Rep.
+Abbarno meets with Vermont Lt.
+Governor Rodgers It was great meeting and discussing "back in the day" with Vermont Lieutenant Governor John Rodgers at the The 2026 Cascade Conference.
+I have a lot of connections to the Green Mountain State, having served as the Executive Director of the Vermont Republican Party... read more Washington State Nurses Association PAC Endorsement Honored to receive the endorsement of the Washington State Nurses Association PAC.
 Nurses are on the front lines every day caring for patients and strengthening our communities.
 I appreciate the trust and support from healthcare professionals who understand the... read more Law Enforcement Torch Run for Special Olympics For years, state Rep.
 Peter Abbarno has proudly supported Special Olympics athletes and families throughout Lewis County and across Washington state.
@@ -18,8 +21,5 @@ This budget reflects a strong commitment to infrastructure, community priorities
 Here are some highlights! 🛣️ I-5 / Chamber Way Interchange... read more Campaign Kickoff Breakfast I hope you can join us at the Re-Election Kickoff Breakfast for Rep.
 Peter Abbarno and Rep.
 Ed Orcutt on April 21st at O'Blarney's at the Gibson House in Centralia at 7:30am.
-RSVP read more Delivering for Southwest Washington As Assistant Ranking Member on the House Capital Budget Committee and one of the budget writers, I am honored to have helped deliver meaningful investments to Southwest Washington—focusing on projects that strengthen communities, improve infrastructure, and support... read more Income Tax: Promises Broken "Rep.
-Peter Abbarno, R-Chehalis, delivered a floor speech outlining his opposition to Senate Bill 6346, which proposes a new millionaire income tax.
-He anchored his opposition in a simple principle: never make a promise you cannot keep.
-During his remarks, Abbarno... read more « Older Entries Next Entries » Stay up to date on the lastest news from Olympia.
+RSVP read more Delivering for Southwest Washington As Assistant Ranking Member on the House Capital Budget Committee and one of the budget writers, I am honored to have helped deliver meaningful investments to Southwest Washington—focusing on projects that strengthen communities, improve infrastructure, and support... read more « Older Entries Next Entries » Stay up to date on the lastest news from Olympia.
 Get Peter's Newsletter Paid for by the committee to elect Peter Abbarno | Designed by The Silver Agency English Español ( Spanish )

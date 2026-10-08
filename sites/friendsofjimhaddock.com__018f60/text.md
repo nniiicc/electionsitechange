@@ -1,9 +1,21 @@
 Skip to content Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE 0 Cart No products in the cart.
-Return to shop DONATE DONATE PROVEN LEADERSHIP Keeping Our Community Safe Protecting Women’s Rights Fighting for Hardworking Pennsylvanians Standing up for Taxpayers New from the Campaign Trail Used for the like, share, comment, and reaction icons Agriculture is Pennsylvania’s biggest industry.
+Return to shop DONATE DONATE PROVEN LEADERSHIP Keeping Our Community Safe Protecting Women’s Rights Fighting for Hardworking Pennsylvanians Standing up for Taxpayers New from the Campaign Trail Used for the like, share, comment, and reaction icons Door to door is a great way to hear what is on the mind of my constituents.
+The campaign has been knocking doors in Pittston Township, Hughestown and West Pittston this past week.
+We now have hit doors in all nineteen towns in the 118th district.
+Now we start our second pass to even more doors.🚪 ...
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 116 Shares: 6 Comments: 16 16 Comments Comment on Facebook So impressive, Jim.
+Stop by.
+Mae and Winnie are expecting you, and I’ll put on the coffee - or the kettle!
+How come your not picking mushrooms ??
+Bravo keep up the good work ,Lavoro, Jim.
+View more comments Agriculture is Pennsylvania’s biggest industry.
 I am proud to receive the endorsement from farmers and dairymen across the state for my 💯 percent voting record on farm issues.
 Farmer is the PAC that represents legislative side of the Farm Bureau of Pennsylvania.
 They know I work for them every day. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 27 Shares: 1 Comments: 1 1 Comment Comment on Facebook 💫PROUDLY ENDORSED! 💫 🇺🇸 To the Friends of Jim Haddock please keep these important elections dates!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 77 Shares: 9 Comments: 5 5 Comments Comment on Facebook Congratulations!
+They are a great group congrats Congratulations!
+Jim we have your back!
+View more comments To the Friends of Jim Haddock please keep these important elections dates!
 Apply for a vote by mail, register to vote while you still have time!
 If you need any forms please reach out.
 Thank you. ...
@@ -36,9 +48,4 @@ I thank you in advance for all the support. ...
 See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 72 Shares: 13 Comments: 21 21 Comments Comment on Facebook You got it my friends!
 Go Jimmy!
 MY TWO HAVE BEEN IN MY PROPERTY A LITTLE WHILE NOW.
-View more comments Proud to serve on the Labor and Industry Committee for the House of Representatives!
-Happy Labor Day!
-Ensuring better pay, better working conditions, and a safer workplace goes hand-in-hand with the history of Labor Day.
-I commend all the hard work of our organized labor unions and the achievements they have had, not just for their members, but for all workers.
-We also need to recognize and support this fight for workers’ rights that continues for many in this country. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 9 Shares: 1 Comments: 2 2 Comments Comment on Facebook 👍 Load more Home About Jim Issues Get Involved Upcoming Events DONATE Search for: Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE Login Newsletter
+View more comments Load more Home About Jim Issues Get Involved Upcoming Events DONATE Search for: Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE Login Newsletter

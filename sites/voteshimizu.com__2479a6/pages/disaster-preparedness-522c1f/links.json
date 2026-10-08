@@ -1,5 +1,9 @@
 [
 {
+"text": "'Ohana Card",
+"href": "https://www.voteshimizu.com/ohanacard"
+},
+{
 "text": "0",
 "href": "https://www.voteshimizu.com/cart"
 },
@@ -14,10 +18,6 @@
 {
 "text": "Contact Us",
 "href": "https://www.voteshimizu.com/contact-us"
-},
-{
-"text": "DONATE",
-"href": "https://secure.winred.com/friends-for-garner-shimizu/donate"
 },
 {
 "text": "Disaster Preparedness",
@@ -50,6 +50,10 @@
 {
 "text": "Photos",
 "href": "https://www.voteshimizu.com/new-page-1"
+},
+{
+"text": "SEE THE WORK",
+"href": "https://www.repshimizu.com/reps-updates"
 },
 {
 "text": "Volunteer",

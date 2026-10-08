@@ -1,4 +1,4 @@
-Skip to content Meet Chellie Volunteer Meet Chellie Volunteer Facebook Threads Instagram Donate Standing Together For Mainers Email Cell Phone Zip Code Join Team Pingree By submitting your cell phone number you are agreeing to receive periodic text messages from Chellie Pingree for Congress.
+Skip to content Meet Chellie Volunteer Vote Meet Chellie Volunteer Vote Facebook Threads Instagram Donate Standing Together For Mainers Email Cell Phone Zip Code Join Team Pingree By submitting your cell phone number you are agreeing to receive periodic text messages from Chellie Pingree for Congress.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.

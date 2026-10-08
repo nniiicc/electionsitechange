@@ -12,7 +12,14 @@ Download Song “ I wrote this because I'm tired of watching politicians promise
 Independent leadership is the only kind that scares them. ” P Paul DW Singer-Songwriter · West Tennessee “ I have no party to protect.
 My only client is the people of West Tennessee.
 Whether a Republican or a Democrat writes a bill, I will ask one question first: does it help this district? ” H Horace Taylor Major, U.S.
-Army (Ret.) · Candidate for Congress Why Independence Changes Everything No party to protect.
+Army (Ret.) · Candidate for Congress On the Air Hear Horace on the Air Three messages about independent leadership, West Tennessee roots, and the issues families discuss around the kitchen table.
+Independent Voice 0:34 No party bosses or Washington agenda — a commitment to affordable living, accessible healthcare, safe communities, and responsible government.
+Your browser does not support the audio element.
+From Here 0:34 A message rooted in West Tennessee’s farms, small businesses, churches, families, and communities.
+Your browser does not support the audio element.
+Kitchen Table 0:34 A focus on the everyday cost pressures facing working families — from groceries and healthcare to opportunity and responsible spending.
+Your browser does not support the audio element.
+Why Independence Changes Everything No party to protect.
 No donor to please.
 Just West Tennessee.
 Vote for the District In Congress, Horace will vote based on what helps TN-8 — not what party leadership demands.

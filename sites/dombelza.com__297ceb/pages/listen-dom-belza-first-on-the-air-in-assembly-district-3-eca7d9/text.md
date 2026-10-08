@@ -1,4 +1,4 @@
-Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA LISTEN: Dom Belza First On the Air in Assembly District 3 Butte County, Calif. – Today, Republican Dom Belza announced that he has released the first radio AD in the election for the 3rd Assembly District.
+Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us DONATE ENDORSE DOM BELZA LISTEN: Dom Belza First On the Air in Assembly District 3 Butte County, Calif. – Today, Republican Dom Belza announced that he has released the first radio AD in the election for the 3rd Assembly District.
 The Radio AD is titled “The Choice.” The AD features incumbent 3rd District Assemblyman James Gallagher alongside Belza.
 Playing across the district, the AD reinforces Belza’s commitment to preserving the North State’s way of life, opposing burdensome tax increases, reducing the cost of living and supporting public safety.
 Listen to the AD here.

@@ -1,7 +1,7 @@
 Icon-email Instagram Icon-youtube-v Icon-facebook Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Icon-email Instagram Icon-youtube-v Icon-facebook 10 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 8/28/2026 August 28 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 8/28/2026 August 28 - 10/8/2026 Now Select date.
 August 2026 Fri 28 Morris County Town Hall August 28 @ 6:00 pm - 9:00 pm Morris County Republican Headquarters 51 Gibraltar Dr, Morris Plains, New Jersey, NJ, United States Join for our Morris Country Town Hall!
 Republican Candidate for NJ’s US Senate Seat 2026 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
 Sun 30 Taiwanese Market and Festival August 30 @ 12:00 pm - 6:00 pm Bridgewater Commons Baja-B-Que, 400 Commons Way,, NJ, New Jersey Hope to see you at the Taiwanese Market and Festival!

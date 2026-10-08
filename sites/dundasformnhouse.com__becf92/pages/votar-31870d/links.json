@@ -1,10 +1,38 @@
 [
-"http://facebook.com/dundasformnhouse",
-"http://instagram.com/dundas_for_mn_house",
-"https://dundasformnhouse.com/",
-"https://dundasformnhouse.com/conectar",
-"https://dundasformnhouse.com/prioridades",
-"https://dundasformnhouse.com/spanish",
-"https://dundasformnhouse.com/votar",
-"https://sos.mn.gov/elections-voting"
+{
+"text": "Conectar",
+"href": "https://www.dundasformnhouse.com/conectar"
+},
+{
+"text": "Controlar",
+"href": "https://www.sos.mn.gov/elections-voting/"
+},
+{
+"text": "English",
+"href": "https://www.dundasformnhouse.com"
+},
+{
+"text": "Inicio",
+"href": "https://www.dundasformnhouse.com/spanish"
+},
+{
+"text": "Prioridades",
+"href": "https://www.dundasformnhouse.com/prioridades"
+},
+{
+"text": "Spanish",
+"href": "https://www.dundasformnhouse.com/spanish"
+},
+{
+"text": "Votar",
+"href": "https://www.dundasformnhouse.com/votar"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/dundasformnhouse"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/dundas_for_mn_house"
+}
 ]

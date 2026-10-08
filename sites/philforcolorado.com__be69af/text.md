@@ -18,7 +18,7 @@ I'm excited to support his work on youth mental health.
 He does...
 Call me old-fashioned--I believe in showing up and answering questions from voters.
 I did so with @9NEWS for ...
-The Latest UPDATES View All News Support For and From Our Farmers Weiser Words Sep 21, 2026 NEW: Phil Weiser Unveils First General Election TV Ad Press Release Sep 18, 2026 Catalyzing Startups and Innovation Weiser Words Sep 17, 2026 Standing Up for Colorado $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+The Latest UPDATES View All News Big Tech’s Accountability and Oversight Moment Weiser Words Oct 07, 2026 Support For and From Our Farmers Weiser Words Sep 21, 2026 NEW: Phil Weiser Unveils First General Election TV Ad Press Release Sep 18, 2026 Standing Up for Colorado $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 SIGN UP to JOIN TEAM Phil Email Address Zip Code Phone Number (Optional) .
 By submitting your cell phone number you are agreeing to receive periodic text messages from Phil Weiser for Governor.
 Message and data rates may apply.

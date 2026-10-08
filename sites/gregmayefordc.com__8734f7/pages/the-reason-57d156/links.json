@@ -1,18 +1,74 @@
 [
-"https://facebook.com/gregmayefordc",
-"https://gregmayefordc.com/",
-"https://gregmayefordc.com/accessibility",
-"https://gregmayefordc.com/data-protection",
-"https://gregmayefordc.com/donate-3",
-"https://gregmayefordc.com/get-involved",
-"https://gregmayefordc.com/press-release-campaign-announcement",
-"https://gregmayefordc.com/privacy-policy",
-"https://gregmayefordc.com/sign",
-"https://gregmayefordc.com/sms-terms",
-"https://gregmayefordc.com/terms-of-use",
-"https://gregmayefordc.com/the-candidate",
-"https://gregmayefordc.com/the-plan-1",
-"https://gregmayefordc.com/the-reason",
-"https://instagram.com/gregmayefordc",
-"https://threads.net/@gregmayefordc"
+{
+"text": "Accessibility |",
+"href": "https://www.gregmayefordc.com/accessibility"
+},
+{
+"text": "DONATE",
+"href": "https://www.gregmayefordc.com/donate-3"
+},
+{
+"text": "Data Protection |",
+"href": "https://www.gregmayefordc.com/data-protection"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.gregmayefordc.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.gregmayefordc.com"
+},
+{
+"text": "Join the team",
+"href": "https://www.gregmayefordc.com/get-involved"
+},
+{
+"text": "PR _CAMPAIGN ANMNT",
+"href": "https://www.gregmayefordc.com/press-release-campaign-announcement"
+},
+{
+"text": "Privacy Policy |",
+"href": "https://www.gregmayefordc.com/privacy-policy"
+},
+{
+"text": "SIGN THE PETITION 2026",
+"href": "https://www.gregmayefordc.com/sign"
+},
+{
+"text": "SMS Terms |",
+"href": "https://www.gregmayefordc.com/sms-terms"
+},
+{
+"text": "Subscribe",
+"href": "https://www.gregmayefordc.com/get-involved"
+},
+{
+"text": "THE \"C.L.E.A.R.\" PLAN",
+"href": "https://www.gregmayefordc.com/the-plan-1"
+},
+{
+"text": "THE CANDIDATE",
+"href": "https://www.gregmayefordc.com/the-candidate"
+},
+{
+"text": "THE REASON",
+"href": "https://www.gregmayefordc.com/the-reason"
+},
+{
+"text": "Terms of Use |",
+"href": "https://www.gregmayefordc.com/terms-of-use"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/gregmayefordc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gregmayefordc/"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.net/@gregmayefordc"
+}
 ]

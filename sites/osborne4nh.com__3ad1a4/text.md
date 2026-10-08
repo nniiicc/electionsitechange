@@ -1,6 +1,6 @@
 Skip to content Home News About Speaker’s Campaign Donate Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name Layout Email Name * Email * Submit Guiding the Granite State’s Conservative Charge Jason Osborne has represented Auburn, Chester, and Sandown in the New Hampshire House since 2014.
+Layout Email Name Name * Email * Submit Guiding the Granite State’s Conservative Charge Jason Osborne has represented Auburn, Chester, and Sandown in the New Hampshire House since 2014.
 He embodies the state’s “Live Free or Die” motto through his advocacy for limited government, opposition to tax increases, and support for personal freedoms.
 Since December 2020, he has served as Majority Leader of the New Hampshire House where he leads the Republican caucus in advancing conservative priorities such as fiscal responsibility, public safety, and reducing government intrusion amid a strengthened GOP majority.
 Read More About Jason Latest News September 19, 2026 Rep.

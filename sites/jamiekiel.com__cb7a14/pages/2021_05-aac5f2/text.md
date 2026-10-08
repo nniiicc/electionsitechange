@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News $200,000 grant opens door for Southeast Sales’ expansion into West Franklin Industrial Park Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News $200,000 grant opens door for Southeast Sales’ expansion into West Franklin Industrial Park Rep.
 Jamie Kiel announced this week a $200,000 grant to the City of Red Bay that will improve infrastructure in the West Franklin Regional Industrial Park.
 The Community Development Block (CDBG) grant comes from the Alabama Department of Economic and Community Affairs.
 The funds will be used Continue Reading Broadband gets green light “This is a huge victory for our area,” said Rep.

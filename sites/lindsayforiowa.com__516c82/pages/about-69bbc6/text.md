@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Issues News Volunteer Events Store Donate About Endorsements Issues News Volunteer Events Store Donate About Lindsay Lindsay James’ journey to public service began long before she decided to run for Congress.
+Skip navigation menu About Endorsements Issues News Vote Volunteer Events Store Donate About Endorsements Issues News Vote Volunteer Events Store Donate About Lindsay Lindsay James’ journey to public service began long before she decided to run for Congress.
 As a chaplain, she sat beside people in their hardest hours—listening without judgment, offering hope, and finding common ground where none seemed possible.
 Those moments taught her that each person matters, and their struggles deserve attention.
 As a state representative, Lindsay James has been a voice that refuses to be drowned out—a dynamic force with a ready smile and the unshakable conviction: that government should serve the people, not the powerful, and that no one—no child, no farmer, no working family—should be pushed aside.

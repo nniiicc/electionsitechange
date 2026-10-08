@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 4/10/2026 Capitol Hill Update 4/10/2026 To the Citizens of Tennessee Senate District 15 Friends, As we head toward the close of session, things are moving quickly at the Capitol to finalize legislation and wrap up the year’s work.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 4/10/2026 Capitol Hill Update 4/10/2026 To the Citizens of Tennessee Senate District 15 Friends, As we head toward the close of session, things are moving quickly at the Capitol to finalize legislation and wrap up the year’s work.
 This week, we continued advancing measures focused on protecting Tennessee families, strengthening public safety, and ensuring government remains accountable.
 Supporting Law Enforcement The Senate passed legislation to ensure law enforcement officers are afforded due process when accused of misconduct.
 This creates a clearer and more consistent process, ensuring officers have the opportunity to respond to allegations before facing career-altering consequences.

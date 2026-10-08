@@ -104,4 +104,4 @@ And I've watched the people responsible for fixing it decide it wasn't urgent.
 And get rich themselves.
 I've signed a term limit pledge so this can't become a career, and I'm paying for the campaign myself so nobody owns a piece of it.
 Why I'm running Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

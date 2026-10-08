@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 4/17/2026 Capitol Hill Update 4/17/2026 To the Citizens of Tennessee Senate District 15 Friends, It’s hard to believe we’re already nearing the end of this year’s legislative session.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 4/17/2026 Capitol Hill Update 4/17/2026 To the Citizens of Tennessee Senate District 15 Friends, It’s hard to believe we’re already nearing the end of this year’s legislative session.
 This week, we continued moving important legislation forward while also passing a fiscally responsible budget for the State of Tennessee.
 We’re working to finish strong and deliver results that matter for our communities.
 Passing a Balanced Budget & Investing in Tennessee The General Assembly passed a $58 billion budget for the 2026–2027 fiscal year, fulfilling our constitutional responsibility and keeping Tennessee on strong financial footing.

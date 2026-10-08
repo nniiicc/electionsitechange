@@ -6,10 +6,16 @@ For more information, visit https://www.montezumagop.com/ See More 21 August 202
 For more information, please visit https://archuletarepublicans.org/ See More Naomi Riess is following a robust travel schedule across HD59 to meet with as many residents as possible.
 For more information about any events listed below, feel free to send an email to info@riessforcolorado.com For updates and all events, please sign up for the newsletter.
 Missed an issue?
-Visit the Archive: Browse the Newsletter Archive 14 & 15 Oct 11:30 a.m.
+Visit the Archive: Browse the Newsletter Archive 20 Oct 11:30 a.m.
+Southwest Republican Women's Lunch Durango La Plata County 16 Oct 7:00 a.m.
+Toastmasters Durango La Plata County 15 Oct 5:30 p.m.
+Archuleta County GOP Mtg.
+Pagosa Archuleta County 14 & 15 Oct 11:30 a.m.
 Fort Lewis College Tabling FLC Student Union Bldg.
-La Plata County 13 Oct 6:30 p.m.
-Rocky Mountain Gun Owners Event Lewis Arriola Community Center Montezuma County 9 Oct 7:00 a.m.
+La Plata County 13 Oct 11:30 a.m.
+The Durango Forum Lunch Durango La Plata County 10 Oct 11:30 a.m.
+Silverton Train Lunch & Meet Up Event Silverton San Juan County 9 Oct 5:00 p.m.
+Mothers for Awareness & Prevention of Drug Abuse MAPDA Reception Durango La Plata County 9 Oct 7:00 a.m.
 Toastmasters Durango La Plata County 8 Oct 11:30 a.m.
 Republican Women of Montezuma - Lunch Cortez Montezuma County See More 7 Oct 8:00 a.m.
 Ignacio Chamber of Commerce Mtg Ignacio La Plata County 6 Oct 5:30 p.m.

@@ -1,17 +1,86 @@
 [
-"https://facebook.com/share/1BxFw4rZbS?mibextid=wwXIfr",
-"https://instagram.com/irisbenderfornc?igsh=MTlrOTBqbDJ0azVldg%3D%3D",
-"https://irisbenderfornc.com/",
-"https://irisbenderfornc.com/about",
-"https://irisbenderfornc.com/contact",
-"https://irisbenderfornc.com/priorities",
-"https://ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx",
-"https://secure.actblue.com/donate/iris-bender-1",
-"https://secure.actblue.com/donate/iris-bender-1?amount=10",
-"https://secure.actblue.com/donate/iris-bender-1?amount=100",
-"https://secure.actblue.com/donate/iris-bender-1?amount=250",
-"https://tiktok.com/@iris.bender.for.n",
-"https://votebymail.ncsbe.gov/app/home",
-"https://vt.ncsbe.gov/RegLkup",
-"https://x.com/irisbenderfornc?s=21"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/iris-bender-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/iris-bender-1?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/iris-bender-1?amount=250"
+},
+{
+"text": "About",
+"href": "https://www.irisbenderfornc.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.irisbenderfornc.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/iris-bender-1"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Home",
+"href": "https://www.irisbenderfornc.com"
+},
+{
+"text": "MEET IRIS",
+"href": "https://www.irisbenderfornc.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/iris-bender-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.irisbenderfornc.com/priorities"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://votebymail.ncsbe.gov/app/home"
+},
+{
+"text": "Vote",
+"href": "https://www.irisbenderfornc.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/1BxFw4rZbS/?mibextid=wwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/irisbenderfornc?igsh=MTlrOTBqbDJ0azVldg%3D%3D"
+},
+{
+"text": "[image: Iris Bender Logo in Purple]",
+"href": "https://www.irisbenderfornc.com"
+},
+{
+"text": "[image: Iris Bender Logo in White]",
+"href": "https://www.irisbenderfornc.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@iris.bender.for.n"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/irisbenderfornc?s=21"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/irisbenderfornc?s=21"
+}
 ]

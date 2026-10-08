@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Issues News Volunteer Events Store Donate About Endorsements Issues News Volunteer Events Store Donate PRESS RELEASE Iowa State Council of Machinists Endorses Rep.
+Skip navigation menu About Endorsements Issues News Vote Volunteer Events Store Donate About Endorsements Issues News Vote Volunteer Events Store Donate PRESS RELEASE Iowa State Council of Machinists Endorses Rep.
 Lindsay James in IA-02 NEWS ARTICLE Lindsay James campaigns in Cedar Rapids for congressional seat NEWS ARTICLE How the GOP motivated these women faith leaders to run for Congress as Democrats PRESS RELEASE Iowa AFL-CIO Endorses Rep.
 Lindsay James in IA-02 NEWS ARTICLE Trump sinking Republican hopes in Iowa PRESS RELEASE End Citizens United Endorses State Representative Lindsay James for Iowa’s 2nd Congressional District PRESS RELEASE Ironworkers Local 89 Endorses Rep.
 Lindsay James in IA-02 PRESS RELEASE Elect Democratic Women Endorses Lindsay James for Iowa’s 2nd Congressional District PRESS RELEASE Statewide Iowa Teamsters Endorses Rep.
@@ -10,7 +10,7 @@ House candidates in Iowa are clergy members NEWS ARTICLE These politicians love 
 They're also Democrats NEWS ARTICLE ‘I’ll keep showing up’ NEWS ARTICLE U.S.
 House Candidate Lindsay James (D-IA) Speaks to Reporters in Mason City NEWS ARTICLE Mitchell, James sharpen economic pitches in Iowa’s 2nd District NEWS ARTICLE Lindsay James calls for a ‘moral reckoning’ in D.C.
 NEWS ARTICLE U.S.
-House candidate Lindsay James brings Crowded Table Town Hall Tour to Tama County NEWS ARTICLE Lindsay James on protecting Social Security, preventing benefit cuts NEWS ARTICLE Candidates cite corruption as key issue in Iowa’s 2nd Congressional District race Policy Plan Lindsay James Anti-Corruption Plan Apr 23 2026 PRESS RELEASE Iowa State Council of Machinists Endorses Rep.
+House candidate Lindsay James brings Crowded Table Town Hall Tour to Tama County NEWS ARTICLE Lindsay James on protecting Social Security, preventing benefit cuts NEWS ARTICLE Candidates cite corruption as key issue in Iowa’s 2nd Congressional District race Apr 23 2026 PRESS RELEASE Iowa State Council of Machinists Endorses Rep.
 Lindsay James in IA-02 Dubuque, IA - Today, the Iowa State Council of Machinists announced their endorsement of State Representative Lindsay James in the race for Iowa’s Second Congressional District.
 “Lindsay has built a strong record of supporting legislation that benefits all working families.
 Her commitment to standing up for Iowa workers makes her a clear choice in this election.

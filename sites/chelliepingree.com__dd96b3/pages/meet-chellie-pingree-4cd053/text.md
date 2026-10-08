@@ -1,4 +1,4 @@
-Skip to content Meet Chellie Volunteer Meet Chellie Volunteer Facebook Threads Instagram Donate Meet Chellie Pingree Chellie Pingree has lived on the offshore island of North Haven, Maine, since she was a teenager.
+Skip to content Meet Chellie Volunteer Vote Meet Chellie Volunteer Vote Facebook Threads Instagram Donate Meet Chellie Pingree Chellie Pingree has lived on the offshore island of North Haven, Maine, since she was a teenager.
 On North Haven, she has been an organic farmer, raised three children, and started two successful small businesses.
 After serving as the town’s tax collector (a job no one else wanted), she became the chair of the local school board and eventually was elected to the State Senate from a predominantly Republican district.
 In 2008, she was elected to Congress to represent Maine’s First District.

@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 4/14/2022 Capitol Hill Update 4/14/2022 Capitol Hill Week (NASHVILLE, Tenn.), April 14, 2022 – The Senate continued to wind down its business as many important bills received final approval this week.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 4/14/2022 Capitol Hill Update 4/14/2022 Capitol Hill Week (NASHVILLE, Tenn.), April 14, 2022 – The Senate continued to wind down its business as many important bills received final approval this week.
 The Judiciary Committee completed its last meeting, where it approved two judicial appointments to the Court of Criminal Appeals and one to the Court of Appeals.
 Next week, the Finance, Ways and Means Committee – the final Senate committee to remain open – is expected to present the Senate’s amended state budget.
 Removing roadblocks to obtain a Commercial Driver License Consumers everywhere have felt the effects of the backlog in moving freight across the country.

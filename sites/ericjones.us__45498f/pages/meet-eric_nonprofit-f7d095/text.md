@@ -60,4 +60,4 @@ The Rachel and Eric Jones Foundation and the American Dream Institute are indepe
 Neither is affiliated with, controlled by, or operated for the benefit of Eric Jones for Congress or any political campaign, and neither supports or opposes any candidate for public office.
 Nothing on this page is a solicitation for either organization.
 Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

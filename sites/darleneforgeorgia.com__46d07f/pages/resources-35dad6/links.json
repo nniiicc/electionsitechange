@@ -1,56 +1,266 @@
 [
-"http://agr.georgia.gov/",
-"http://qualityrated.org/",
-"https://aging.georgia.gov/",
-"https://cairogachamber.com/",
-"https://darleneforgeorgia.com/",
-"https://darleneforgeorgia.com/contact",
-"https://darleneforgeorgia.com/legislative-updates",
-"https://darleneforgeorgia.com/resources",
-"https://darleneforgeorgia.com/wp-content/uploads/2022/08/Archway-Partnership-COVID-19-Resource-Guide.pdf",
-"https://darleneforgeorgia.com/wp-content/uploads/2022/08/Grady-County-Resource-Directory.pdf",
-"https://dbhdd.georgia.gov/",
-"https://dds.georgia.gov/",
-"https://dfcs.georgia.gov/",
-"https://dfcs.georgia.gov/press-releases/2020-03-24/georgia-doedfcs-partner-encourage-families-use-student-tablets-access",
-"https://dhs.georgia.gov/",
-"https://dol.georgia.gov/",
-"https://dol.gov/agencies/whd/pandemic/ffcra-employer-paid-leave",
-"https://dol.gov/agencies/whd/pandemic/ffcra-poster-questions",
-"https://dol.gov/agencies/whd/workers",
-"https://dot.ga.gov/Pages/Default.aspx",
-"https://dph.georgia.gov/",
-"https://dph.georgia.gov/covid-19-status-report",
-"https://dph.georgia.gov/epidemiology/acute-disease-epidemiology/monkeypox-guidance-and-resources",
-"https://fema.gov/",
-"https://gasubstanceabuse.org/",
-"https://gema.georgia.gov/",
-"https://georgia.org/covid19suppliersmap",
-"https://georgiainsights.com/",
-"https://gov.georgia.gov/executive-action/executive-orders/2022",
-"https://gov.georgia.gov/press-releases",
-"https://grady.gafcp.org/",
-"https://grady.k12.ga.us/",
-"https://gradycountyga.gov/",
-"https://gvtc.tcsg.edu/econdev",
-"https://hmhbga.org/",
-"https://house.ga.gov/en-US/COVID-19_Info.aspx",
-"https://imaginethomasville.com/",
-"https://legis.ga.gov/search",
-"https://mvp.sos.ga.gov/s",
-"https://oci.georgia.gov/",
-"https://rmlibrary.org/",
-"https://secure.anedot.com/darlene-for-georgia/donate",
-"https://sos.ga.gov/",
-"https://syrupcity.net/community",
-"https://tcitys.org/",
-"https://tcpls.org/",
-"https://tcpls.org/community-resource-directory",
-"https://tcsg.edu/",
-"https://tcsg.edu/worksource",
-"https://the-pregnancy-center.com/",
-"https://thomas.gafcp.org/",
-"https://thomascountyboc.org/",
-"https://thomasville.org/",
-"https://usg.edu/"
+{
+"text": "1-877-255-42-5437",
+"href": "tel:1.877.255.42.5437"
+},
+{
+"text": "24-Hour Statewide Domestic Violence Hotline:",
+"href": "tel:1.800.334.2836"
+},
+{
+"text": "706-765-8019",
+"href": "tel:706.765.8019"
+},
+{
+"text": "Cairo/Grady Chamber of Commerce",
+"href": "https://cairogachamber.com/"
+},
+{
+"text": "Childcare Resources",
+"href": "http://qualityrated.org/"
+},
+{
+"text": "City of Cairo",
+"href": "https://syrupcity.net/community"
+},
+{
+"text": "City of Thomasville",
+"href": "https://thomasville.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.darleneforgeorgia.com/contact/"
+},
+{
+"text": "Covid State Resources Page",
+"href": "https://www.house.ga.gov/en-US/COVID-19_Info.aspx"
+},
+{
+"text": "DFCS Benefit Notice 3/24",
+"href": "https://dfcs.georgia.gov/press-releases/2020-03-24/georgia-doedfcs-partner-encourage-families-use-student-tablets-access"
+},
+{
+"text": "Darlene Taylor",
+"href": "https://www.darleneforgeorgia.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/darlene-for-georgia/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/darlene-for-georgia/donate"
+},
+{
+"text": "Employee Rights",
+"href": "https://www.dol.gov/agencies/whd/workers"
+},
+{
+"text": "Employer Requirements",
+"href": "https://www.dol.gov/agencies/whd/pandemic/ffcra-employer-paid-leave"
+},
+{
+"text": "FFCRA Poster",
+"href": "https://www.dol.gov/agencies/whd/pandemic/ffcra-poster-questions"
+},
+{
+"text": "Federal Emergency Management",
+"href": "https://www.fema.gov/"
+},
+{
+"text": "Georgia Council on Substance Abuse",
+"href": "https://gasubstanceabuse.org/"
+},
+{
+"text": "Georgia Crisis Line & Access 24-hour line",
+"href": "tel:8007154225"
+},
+{
+"text": "Georgia Department of Aging Services",
+"href": "https://aging.georgia.gov/"
+},
+{
+"text": "Georgia Department of Agriculture",
+"href": "http://agr.georgia.gov/"
+},
+{
+"text": "Georgia Department of Behavioral Health and Developmental Disabilities",
+"href": "https://dbhdd.georgia.gov/"
+},
+{
+"text": "Georgia Department of Economic Development link for essential medical supplies/PPE",
+"href": "https://www.georgia.org/covid19suppliersmap"
+},
+{
+"text": "Georgia Department of Education",
+"href": "https://www.georgiainsights.com/"
+},
+{
+"text": "Georgia Department of Family and Children Services",
+"href": "https://dfcs.georgia.gov/"
+},
+{
+"text": "Georgia Department of Family and Children’s Services",
+"href": "https://dfcs.georgia.gov/"
+},
+{
+"text": "Georgia Department of Human Services",
+"href": "https://dhs.georgia.gov/"
+},
+{
+"text": "Georgia Department of Labor",
+"href": "https://dol.georgia.gov/"
+},
+{
+"text": "Georgia Department of Public Health Resources",
+"href": "https://dph.georgia.gov/"
+},
+{
+"text": "Georgia Department of Public Health Statistics",
+"href": "https://dph.georgia.gov/covid-19-status-report"
+},
+{
+"text": "Georgia Department of Transportation",
+"href": "https://www.dot.ga.gov/Pages/Default.aspx"
+},
+{
+"text": "Georgia Emergency Manegement",
+"href": "https://gema.georgia.gov/"
+},
+{
+"text": "Georgia Legislation Search",
+"href": "https://www.legis.ga.gov/search"
+},
+{
+"text": "Georgia Office of Insurance and Fire Safety",
+"href": "https://oci.georgia.gov/"
+},
+{
+"text": "Georgia Voter Information",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Governor Kemp’s Updates",
+"href": "https://gov.georgia.gov/press-releases"
+},
+{
+"text": "Governor’s Executive Orders",
+"href": "https://gov.georgia.gov/executive-action/executive-orders/2022"
+},
+{
+"text": "Grady County Community Resource Guide",
+"href": "https://www.darleneforgeorgia.com/wp-content/uploads/2022/08/Grady-County-Resource-Directory.pdf"
+},
+{
+"text": "Grady County Family Connections",
+"href": "https://grady.gafcp.org/"
+},
+{
+"text": "Grady County Government",
+"href": "https://gradycountyga.gov/"
+},
+{
+"text": "Grady County Schools",
+"href": "https://www.grady.k12.ga.us/"
+},
+{
+"text": "Healthy Mothers, Healthy Babies",
+"href": "https://www.hmhbga.org/"
+},
+{
+"text": "Home",
+"href": "https://www.darleneforgeorgia.com/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.darleneforgeorgia.com/legislative-updates/"
+},
+{
+"text": "Monkeypox Guidance and Resources",
+"href": "https://dph.georgia.gov/epidemiology/acute-disease-epidemiology/monkeypox-guidance-and-resources"
+},
+{
+"text": "Pregnancy Center of Southwest Georgia – Cairo",
+"href": "https://www.the-pregnancy-center.com/"
+},
+{
+"text": "Pregnancy Center of Southwest Georgia – Thomasville",
+"href": "https://www.the-pregnancy-center.com/"
+},
+{
+"text": "Resources",
+"href": "https://www.darleneforgeorgia.com/resources/"
+},
+{
+"text": "Roddenbery Memorial Library",
+"href": "https://www.rmlibrary.org/"
+},
+{
+"text": "TCSG/Workforce Development Employment & Training Assistance",
+"href": "https://www.tcsg.edu/worksource/"
+},
+{
+"text": "TSGA",
+"href": "https://gvtc.tcsg.edu/econdev"
+},
+{
+"text": "Technical College System of Georgia",
+"href": "https://www.tcsg.edu/"
+},
+{
+"text": "The Georgia Department of Driver Services (DDS)",
+"href": "https://dds.georgia.gov/"
+},
+{
+"text": "The Georgia Secretary of State My Voter Page Website",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "The office of the Georgia Secretary of State",
+"href": "https://sos.ga.gov/"
+},
+{
+"text": "Thomas County Chamber of Commerce",
+"href": "https://imaginethomasville.com/"
+},
+{
+"text": "Thomas County Family Connections",
+"href": "https://thomas.gafcp.org/"
+},
+{
+"text": "Thomas County Government",
+"href": "https://thomascountyboc.org/"
+},
+{
+"text": "Thomas County Public Library",
+"href": "https://tcpls.org/"
+},
+{
+"text": "Thomas County Resource Guide",
+"href": "https://tcpls.org/community-resource-directory"
+},
+{
+"text": "Thomas County School System",
+"href": "https://www.tcitys.org/"
+},
+{
+"text": "UGA Archway Resource Guide",
+"href": "https://www.darleneforgeorgia.com/wp-content/uploads/2022/08/Archway-Partnership-COVID-19-Resource-Guide.pdf"
+},
+{
+"text": "University System of Georgia (USG)",
+"href": "https://www.usg.edu/"
+},
+{
+"text": "[image: Darlene Taylor]",
+"href": "https://www.darleneforgeorgia.com"
+},
+{
+"text": "frank.scoggins@thomascountyga.gov",
+"href": "mailto:frank.scoggins@thomascountyga.gov"
+},
+{
+"text": "maddox.denise2@gmail.com",
+"href": "mailto:maddox.denise2@gmail.com"
+}
 ]

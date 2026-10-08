@@ -17,11 +17,11 @@
 },
 {
 "text": "Export .ics file",
-"href": "https://votesmead.com/events/2026-10-08/?ical=1"
+"href": "https://votesmead.com/events/today/?ical=1"
 },
 {
 "text": "Export Outlook .ics file",
-"href": "https://votesmead.com/events/2026-10-08/?outlook-ical=1"
+"href": "https://votesmead.com/events/today/?outlook-ical=1"
 },
 {
 "text": "Get Involved",
@@ -29,7 +29,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist"
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
 },
 {
 "text": "List",
@@ -61,11 +61,11 @@
 },
 {
 "text": "Outlook 365",
-"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
 },
 {
 "text": "Outlook Live",
-"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fvotesmead.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Vote+Smead+Campaign+Events+-+Josh+Smead+for+Congress"
 },
 {
 "text": "Previous Day",
@@ -137,6 +137,6 @@
 },
 {
 "text": "iCalendar",
-"href": "webcal://votesmead.com/?post_type=tribe_events&tribe-bar-date=%23&ical=1&eventDisplay=list"
+"href": "webcal://votesmead.com/?post_type=tribe_events&ical=1&eventDisplay=list"
 }
 ]

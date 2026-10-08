@@ -1,4 +1,4 @@
-Skip to content Toggle Navigation Home About Issues Donate Media Contact Homepage effyis 2026-10-04T09:28:40-06:00 A True Conservative Fighting for Idaho Proven Conservative.
+Skip to content Toggle Navigation Home About Issues Opponent Donate Media Contact Homepage effyis 2026-10-04T09:28:40-06:00 A True Conservative Fighting for Idaho Proven Conservative.
 Proven Results.
 Republicans who stay home vote for Democrats.
 Idaho General Election # # # # Days # # Hrs # # Min # # Sec Stay Connected Get campaign updates, news from the Capitol, upcoming events, and other important updates for District 24 from Representative Clint Hostetler.

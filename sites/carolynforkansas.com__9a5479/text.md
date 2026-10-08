@@ -8,6 +8,7 @@ In this special place, we enjoy the Kansas Speedway, Sporting KC at Sporting Par
 Best of all, we have hardworking people, great churches, and wonderful families in our district, which encompasses Bonner Springs, Edwardsville, part of Turner other neighborhoods in the southwest corner of KCK, and the northernmost tip of Lake Quivira.
 Get in touch with Carolyn Caiharr carolyn@carolynforkansas.com Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone Email Volunteer Help Volunteer to Help Carolyn Win!
+Win!
+Layout Carolyn Name * First Last Email * Phone Volunteer to Help Carolyn Win!
 Get email updates Take a yard sign Deliver and place yard signs Walk with Carolyn and put flyers on doors Host a meet-and-greet with Carolyn in your neighborhood Submit Join Carolyn Caiharr's Team!
 Donate Follow me on Facebook Volunteer Facebook Paid for by Caiharr for Kansas HD 33, Samuel Voyles, Treasurer © # Carolyn Caiharr Campaign Search

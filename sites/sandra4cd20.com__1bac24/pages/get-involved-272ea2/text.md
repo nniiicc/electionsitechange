@@ -10,8 +10,9 @@ Volunteer for Sandra Van Scotter for Congress First name * Last name * Email * S
 Phone Send me updates by text.* By providing your phone number, you are consenting to receive text message updates, including automated text messages from Sandra Van Scotter for Congress.
 Message & data rates apply.
 Message frequency may vary over time.
-Reply STOP to p=opt out of these text message updates.
-I am interested in volunteering for: Text Banking Phone Banking Canvassing Door to Door Hosting a Fundraiser Boothing at an Event Optional: If you are Bilingual, please let us know which languages you speak: Spanish Other Apply DONATE Sandra is not backed by corporate donors — she's backed by people like you.
+Reply STOP to opt out of these text message updates.
+Reply HELP for help.
+See Terms and Conditions and Privacy Policy I am interested in volunteering for: Text Banking Phone Banking Canvassing Door to Door Hosting a Fundraiser Boothing at an Event Optional: If you are Bilingual, please let us know which languages you speak: Spanish Other Apply DONATE Sandra is not backed by corporate donors — she's backed by people like you.
 Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.
 No contribution is too small.
 A grassroots candidate can only win with grassroots support.

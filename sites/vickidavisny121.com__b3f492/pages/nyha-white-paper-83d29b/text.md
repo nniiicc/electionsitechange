@@ -11,4 +11,5 @@ The analysis suggests that by replacing health insurance-related costs with the 
 Eliminating health insurance costs for local governments and school districts could translate into improvements in schools, infrastructure, and public services and/or lower property taxes for households and businesses, with potential ripple effects such as lower rents, lower consumer prices, and stronger local economic activity.
 At a time when working families, businesses, and local governments are facing increasing economic pressures, the New York Health Act presents an opportunity to simultaneously expand access to health care and provide measurable fiscal relief for taxpayers.
 Read the full document, download here .
-Previous Press Release – May 4, 2026 Next Public Matching Funds Program Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top
+Previous Press Release – May 4, 2026 Next Public Matching Funds Program Vicki Davis for NYS Assembly 121 P.O.
+Box 135 Unadilla, NY 13849 Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

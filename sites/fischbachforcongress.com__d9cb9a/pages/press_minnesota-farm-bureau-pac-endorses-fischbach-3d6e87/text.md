@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press Minnesota Farm Bureau PAC Endorses Fischbach Aug 31 | Press FOR IMMEDIATE RELEASE August 31, 2026 Farm Bureau re-affirms their direct connection with Rep.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press Minnesota Farm Bureau PAC Endorses Fischbach Aug 31 | Press FOR IMMEDIATE RELEASE August 31, 2026 Farm Bureau re-affirms their direct connection with Rep.
 Fischbach Litchfield, Minnesota – The Minn Farm Bureau Political Action Committee (MFB PAC) recently announced their endorsement for Congresswoman Michelle Fischbach, MN-07, in the upcoming November 2026 elections.
 The announcement included a note of appreciation for her support of Farm Bureau policy and agriculture.
 “One of the strengths of the Farm Bureau endorsement process is the direct connection it creates between candidates and our grassroots members,” said State PAC Committee Chair Delvin Durheim.

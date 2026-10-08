@@ -1,10 +1,5 @@
-Idaho Democratic Party leadership provides an overview of the latest news from the Statehouse, legislation in the works from the minority party, and helpful information for constituents.
-Recent Posts
-- OPPRESSIVE BILLS HIT THE SENATE March 28, 2026
-- Fight or Flight?
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE The Democratic Debrief — April 23, 2021 Apr 23, 2021 Idaho Democratic Party leadership provides an overview of the latest news from the Statehouse, legislation in the works from the minority party, and helpful information for constituents.
+Recent Posts OPPRESSIVE BILLS HIT THE SENATE March 28, 2026 Fight or Flight?
 Let’s Fight for What’s Right!
-March 8, 2026
-- ANOTHER SHOCKING MURDER by ICE January 25, 2026
-- Preventable.
-Predictable: Idaho’s budget crisis impacts all of us November 23, 2025
-- Idaho’s Budget Chaos April 9, 2025
+March 8, 2026 ANOTHER SHOCKING MURDER by ICE January 25, 2026 Preventable.
+Predictable: Idaho’s budget crisis impacts all of us November 23, 2025 Idaho’s Budget Chaos April 9, 2025 Blog Categories 2021 Legislative Session 2023 Legislative Session Budget / Government Spending Civil Discourse COVID 19 Health Care Human Rights Mandatory Minimum Sentencing Reform Marriage Age Reform News & Events Property Taxes Public Education Public Lands Sexual Assualt / Domestic Violence Uncategorized Voting Rights / Gerrymandering Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

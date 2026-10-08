@@ -2,5 +2,4 @@
 Throughout his years of public service, Senator Tim Mathern has led and supported efforts and legislation aimed at strengthening and modernizing behavioral health services across North Dakota.
 The Mental Health Now badge reflects a continued commitment to prioritizing and advancing mental health care.
 Mental health should be treated with the same seriousness and compassion as physical health, and meaningful progress requires continued action and investment in our communities.
-Madison Hanson Previous Previous Mathern Pushes to Bring Data Center Deals Out of the Dark.
-Next Next honoring service, family, and community Contact Us contact@mathernforsenate.com Follow Senator Mathern Facebook Instagram
+Madison Hanson Contact Us contact@mathernforsenate.com Follow Senator Mathern Facebook Instagram

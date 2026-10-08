@@ -1,5 +1,4 @@
-Borrello’s Nourish NY Win Is A Win Both For The Senator And For His District
-Sen.
+top of page All Posts Search Borrello’s Nourish NY Win Is A Win Both For The Senator And For His District nate1457 Dec 8, 2021 1 min read Sen.
 George Borrello’s pre-Thanksgiving trip to New York City was far from a sight-seeing trip.
 The Sunset Bay Republican spent Sunday in Queens to see Gov.
 Kathy Hochul sign legislation Borrello sponsored making the Nourish New York farm-to-food bank program permanent.
@@ -11,4 +10,4 @@ The Nourish New York program is good for New York farmers and families who need 
 It’s good policy.
 It’s also good policy for Borrello to show he can work across the aisle on legislation so that Democrats see the local senator is more than just a one-trick pony who spends his days lambasting Democrats but accomplishing little.
 Notching legislative wins like the Nourish New York bill is good for Borrello — and by extension, good for the 57th Senate District.
-Read the full article here:
+Read the full article here: Borrello’s Nourish NY Win Is A Win Both For The Senator And For His District | News, Sports, Jobs - Post Journal (post-journal.com) Recent Posts See All SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Senator George Borrello Recognized as One of New York State’s Most Effective Republican Legislator SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

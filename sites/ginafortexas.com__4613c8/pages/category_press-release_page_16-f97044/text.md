@@ -1,0 +1,7 @@
+Donate today!
+Gina Hinojosa is running for Governor of Texas to help families thrive and give every child a brighter future.
+We can’t do that without you–contribute today. $10 $25 $100 $250 $500 Other amount Close Español Facebook X Bsky Instagram YouTube TikTok Gina Hinojosa for Texas Governor Menu Home Meet Gina Priorities Save Texas Public Schools Money in Your Pocket Endorsements News Get Involved Events Volunteer Jobs Donate Store Donate Press Release Archive Rep.
+Gina Hinojosa Launches Campaign for Governor of Texas Press Release October 15, 2025 Valley native, civil rights attorney, and state legislator calls for new leadership that puts Texas families before insiders and wealthy donors Brownsville, TX — Today, State Representative Gina Hinojosa launched her campaign for Governor of Texas, … « Previous 1 … 14 15 16 Get News Updates Email address Zip code Get Updates Connect with us: Facebook X Bsky Instagram YouTube TikTok Donate today!
+Gina Hinojosa is running for Governor of Texas to help families thrive and give every child a brighter future.
+We can’t do that without you–contribute today. $10 $25 $100 $250 $500 Other amount Gina Hinojosa for Texas Governor Home Meet Gina Priorities Save Texas Public Schools Money in Your Pocket Endorsements News Get Involved Events Volunteer Jobs Donate Store Donate Follow Us: Facebook X Bsky Instagram YouTube TikTok Donate By Mail Gina Hinojosa Campaign PO Box 300095 Austin, TX 78703 Pol.
+Ad. paid by Gina Hinojosa Campaign Jobs Contact Privacy Policy Made with Middle Seat

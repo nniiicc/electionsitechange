@@ -1,13 +1,58 @@
 [
-"https://bsky.app/profile/foxfortexas.bsky.social",
-"https://facebook.com/profile.php?id=61574787627291",
-"https://foxfortexas.com/",
-"https://foxfortexas.com/contact",
-"https://foxfortexas.com/endorsements",
-"https://foxfortexas.com/meet-merrie",
-"https://foxfortexas.com/on-the-issues",
-"https://instagram.com/foxfortexas",
-"https://secure.actblue.com/donate/merrie-fox-1",
-"https://tiktok.com/@foxfortexas",
-"https://youtube.com/@MerrieFoxCampaignChannel"
+{
+"text": "CONTACT",
+"href": "https://www.foxfortexas.com/contact"
+},
+{
+"text": "Calendar",
+"href": "https://www.foxfortexas.com"
+},
+{
+"text": "Contact Merrie",
+"href": "https://www.foxfortexas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/merrie-fox-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.foxfortexas.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.foxfortexas.com"
+},
+{
+"text": "Meet Merrie",
+"href": "https://www.foxfortexas.com/meet-merrie"
+},
+{
+"text": "On the Issues",
+"href": "https://www.foxfortexas.com/on-the-issues"
+},
+{
+"text": "[image: 79ebd79c-2efa-49f3-9325-be9af626a808_edited]",
+"href": "https://bsky.app/profile/foxfortexas.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61574787627291"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/foxfortexas/"
+},
+{
+"text": "[image: Merrie Fox For Texas Favicon]",
+"href": "https://www.foxfortexas.com"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@foxfortexas"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@MerrieFoxCampaignChannel"
+}
 ]

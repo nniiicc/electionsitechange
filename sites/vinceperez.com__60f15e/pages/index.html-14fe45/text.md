@@ -1,11 +1,11 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate HD 77 · Ways & Means · Deputy Whip Fighting for Texas.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate HD 77 · Ways & Means · Deputy Whip Fighting for Texas.
 Delivering for El Paso.
 Texas State Representative Vince Perez represents El Paso — and serves on Ways & Means, where the state's tax decisions get made.
 In 2025 he broke quorum over the redistricting maps, met with Governor Newsom, and returned to the floor to deliver the most-circulated rebuttal of HB 4.
-He also moved a UTEP Student Union into law and sent a public law school for El Paso through the Texas House.
-Donate Watch the HB 4 floor remarks Get updates Deputy Whip House Democratic Caucus leadership and Policy & Steering Committee member Ways & Means El Paso's voice on the chamber's tax-writing committee — where Texas tax policy is made 2 UTEP wins in one session: Student Union into law, Law School through the House 10M+ Views of his HB 4 floor remarks and the quorum-break fight for fair maps In the district The Progressive Caucus came to El Paso.
+He also moved a new UTEP Student Union into law and sent a public law school for El Paso through the Texas House.
+Donate Watch the HB 4 floor remarks Get updates Deputy Whip House Democratic Caucus leadership and Policy & Steering Committee member Ways & Means El Paso's voice on the chamber's tax-writing committee — where Texas tax policy is made 2 UTEP wins in one session: new Student Union into law, Law School through the House 10M+ Views of his HB 4 floor remarks and the quorum-break fight for fair maps In the district The Progressive Caucus came to El Paso.
 El Paso showed up.
-Jul 2026 · El Paso People's Hearing On July 27, Vince hosted the El Paso People's Hearing — the second stop in the Texas Legislative Progressive Caucus's 2026 series, and the first held on the border.
+Jul 2026 · El Paso People's Hearing On July 27, Vince hosted the El Paso People's Hearing — the second stop in the Texas Legislative Progressive Caucus's 2026 series, and the only stop on its statewide tour along the border.
 Unlike the invitation-only interim hearings in Austin, the People's Hearings are open to the public, held in the evening, in the community.
 Any Texan can show up and be heard.
 El Pasoans testified on immigration detention — the existing facility at Camp East Montana and the one proposed for Socorro — and on public education funding.
@@ -21,7 +21,7 @@ This is Gavin Newsom · Aug 2025 · Podcast During the quorum break over the red
 Watch the conversation → Latest The fight, in his own words.
 Aug 22, 2025 · Floor Remarks HB 4: "Partisanship is not a license for racial discrimination." Floor remarks opposing the Texas House redistricting proposal — and the racial math under the map.
 Read & watch Aug 8, 2025 · Press Release In Sacramento with Governor Newsom Vince and four Texas House Democrats land in California to meet with state and federal leaders.
-Read the release Jun 27, 2025 · Press Release UTEP Student Union expansion signed into law HB 2853 modernizes the student union at one of the largest Hispanic-serving research universities.
+Read the release Jun 27, 2025 · Press Release New UTEP Student Union signed into law HB 2853: a new Student Union for one of the largest Hispanic-serving research universities.
 Read the release All press releases What we're fighting for El Paso's seat at the table — and on the front line.
 The work behind the headlines: an agenda that delivers for working families in West Texas while standing up for democracy in Austin.
 01 Fair maps and the right to vote Carry the HB 4 fight forward.

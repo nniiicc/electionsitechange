@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate Aaron Flint challenges opponents to 16 debates across Western Montana News March 12, 2026 MONTANA — Aaron Flint, a candidate for Montana’s first congressional district, has issued a challenge to his Republican primary opponents.
+Home About Issues News Get Involved Contact Store Media Donate Aaron Flint challenges opponents to 16 debates across Western Montana News March 12, 2026 MONTANA — Aaron Flint, a candidate for Montana’s first congressional district, has issued a challenge to his Republican primary opponents.
 Flint has called for 16 debates, one in each county across Western Montana.
 Flint proposed that these debates be fully open, allowing no notes or prepared talking points.
 He emphasized the importance of full access for both the press and the public.

@@ -1,4 +1,4 @@
-Skip to main content Amanda Matchett MN House 32A Home About Issues Endorsements Events Volunteer ♥ Donate Home About Issues Endorsements Events Volunteer Donate Meet Amanda Home About Amanda Meet Amanda About Amanda Attorney, educator, and community advocate running to make government work for the people of District 32A.
+Skip to main content Amanda Matchett MN House 32A About Issues Endorsements Events News Vote Volunteer ♥ Donate About Issues Endorsements Events News Vote Volunteer Donate Meet Amanda Home About Amanda Meet Amanda About Amanda Attorney, educator, and community advocate running to make government work for the people of District 32A.
 About Amanda Matchett Running Experience Leadership Priorities Neighbor Role Vice President of Legal Education Executive MBA, Northwestern Kellogg School of Management Affiliation Minnesota Association of Black Lawyers Residence Blaine, Minnesota Why I Am Running Amanda Matchett is running for the Minnesota House because she believes government should work for people.
 Families deserve to feel safe, afford their lives, and trust that their leaders are focused on real results.
 But Amanda’s work is not just about policy.
@@ -24,4 +24,4 @@ Volunteer, donate, or invite Amanda to your neighborhood.
 Every action helps build a stronger District 32A.
 Leave this field empty Email address Sign Up We send campaign updates and event invitations.
 Unsubscribe any time. ♥ Donate Volunteer Meet Amanda DFL-endorsed candidate for Minnesota House District 32A: Blaine, Ham Lake, and Columbus.
-Campaign About Amanda Issues Endorsements Events Volunteer Press Get Involved Volunteer Donate Meet Amanda Events Contact info@matchett4minnesota.com Contact form Prepared and paid for by Amanda Matchett for Minnesota PO Box 490251, Blaine, MN 55449 info@matchett4minnesota.com Privacy Policy Accessibility © # Matchett for Minnesota
+Campaign About Amanda Issues Endorsements Events Media & News Voter Information Volunteer Press Get Involved Volunteer Donate Meet Amanda Events Contact info@matchett4minnesota.com Contact form Prepared and paid for by Amanda Matchett for Minnesota PO Box 490251, Blaine, MN 55449 info@matchett4minnesota.com Privacy Policy Accessibility © # Matchett for Minnesota

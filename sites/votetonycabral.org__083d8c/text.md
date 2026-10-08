@@ -1,6 +1,10 @@
-Meet tony
-Serving the people of new bedford
-Elected in November 1990, Tony Cabral represents the 13th Bristol District of New Bedford in the Massachusetts House of Representatives.
+Skip to content Home Meet Tony Priorities Legislation Gateway cities caucus Joint committee on state administration and regulatory oversight Leadership New Bedford New Bedford Priorities Constituent Services News Volunteer contact Donate Donate Home Meet Tony Priorities Legislation Gateway cities caucus Joint committee on state administration and regulatory oversight Leadership New Bedford New Bedford Priorities Constituent Services News Volunteer contact Donate Donate Meet tony Serving the people of new bedford Elected in November 1990, Tony Cabral represents the 13th Bristol District of New Bedford in the Massachusetts House of Representatives.
 In the course of his career, many of his bills and legislative language have passed into Massachusetts General Law.
 He is currently the Chair of the Joint Committee on State Administration and Regulatory Oversight, and leads the Gateway Cities Legislative Caucus and the Portuguese American Legislative Caucus.
 Tony considers it an honor and a privilege to serve the people of New Bedford.
+Tony's Bio PRIORITIES JOIN TEAM CABRAL SIGN UP TO VOLUNTEER AND OUR GRASSROOTS TEAM WILL GET IN TOUCH WITH YOU ABOUT WAYS TO SUPPORT TONY.
+Volunteer Newsletter Donate FOLLOW US ON SOCIAL MEDIA Facebook Twitter Instagram Contact State House 24 Beacon St.
+Room 466 Boston, MA 02133 Email: antonio.cabral@mahouse.gov Phone: (6 1 7) 7 2 2 - 2 0 1 7 Falamos Portugês • Hablamos Español • No Ta Fala Criol De Cabo Verde Local Office Hours First Saturday of each month Howland Green Branch Library 3 Rodney French Blvd.
+New Bedford 10:30 am - 12:00 pm Campaign Contact 25 Moreland Terrace New Bedford, MA 02740 Phone: (5 0 8) 9 9 7 - 8 1 1 3 Email: reptonycabral@gmail.com Copyright © # Tony Cabral | Paid for by The Cabral Committee Privacy & Legal Join Our Community Newsletter Sign up to receive news and updates on what’s happening on Beacon Hill and in the 13th Bristol District.
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Zip Code Subscribe ×

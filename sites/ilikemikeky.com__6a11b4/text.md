@@ -1,6 +1,6 @@
 Home About DONATE DONATE Stay Informed Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Email Layout Phone Name * First Last Email * Phone * Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Jeff Fisher for State Representative at the number provided.
+Name * First Last Email * Phone * Name Layout Checkboxes Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Jeff Fisher for State Representative at the number provided.
 Donations may be solicited.
 Msg & data rates may apply.
 Msg frequency varies.
@@ -27,7 +27,7 @@ His commitment to veterans and senior citizens was shaped by personal experience
 They have two daughters and six grandchildren.
 Stay Informed Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * Last Name * Email * First Phone Email Phone * Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Jeff Fisher for State Representative at the number provided.
+First Name * Last Name * Email * First Name Checkboxes Phone * Checkboxes * By submitting this form and signing up for texts, you consent to receive text messages (e.g. updates, voting information) from Jeff Fisher for State Representative at the number provided.
 Donations may be solicited.
 Msg & data rates may apply.
 Msg frequency varies.

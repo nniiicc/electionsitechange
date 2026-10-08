@@ -1,8 +1,5 @@
-top of page
-Citizen Empowerment Workshop Series
-Wed, Jan 28
-|East Side Community Center
-Participate in workshops designed to equip you with the skills to make a difference in local politics.
+top of page Sharon Wight for District 81 Donate Get Involved Yard Sign Request Menu Wight for Indiana House Home About Sharon Platform Get Involved Socials and More Events Yard Sign Request Media Privacy Policy Accessibility Statement Search Results Citizen Empowerment Workshop Series Wed, Jan 28 | East Side Community Center Participate in workshops designed to equip you with the skills to make a difference in local politics.
 Network with motivated individuals.
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Jan 28, 2026, 4:56 PM – 6:56 PM East Side Community Center, 1501 E Berry St, Fort Wayne, IN 46803, USA About the event Interactive workshops for political engagement.
+Show More Share this event Wight for Indiana House Yard Sign Request Volunteer Stay Connected Email * Yes, subscribe me to your newsletter. * Submit 260-342-4487 electsharonwight@gmail.com 429 East Dupont Road #94, Fort Wayne, IN, 46825 USA Accessibility Statement ​ © # by Wight for Indiana House 81.
+Paid for by Friends of Sharon Wight bottom of page

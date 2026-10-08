@@ -59,7 +59,7 @@ It’s only been these past 16 years that outsiders have brought in a scorecard 
 It’s time to break that cycle and start representing the people who live here in North Idaho.
 Join our team › sign up to volunteer We welcome you to come bring your skills to the table.
 Whether you are crafty, techy, social, behind the scenes, or something else, there is a spot for you.
-Endorsements “I had the privilege of working with Kathryn on a couple of transformational projects at UPS over the years, and her significant contributions were driven by her authentic leadership, complex problem-solving, and ability to deliver material results fast.” Ross McCullough – President of UPS Asia (Retired) Contact 217 Cedar Street #167 Sandpoint, ID 83864 Phone: (208) 248-5949 Email: LarsonforIdaho@gmail.com Independent Candidate Idaho House of Representatives Seat 1B larson for Idaho © # Larson for Idaho.
+Endorsements “I had the privilege of working with Kathryn on a couple of transformational projects at UPS over the years, and her significant contributions were driven by her authentic leadership, complex problem-solving, and ability to deliver material results fast.” Ross McCullough – President of UPS Asia (Retired) Shawn Keough, District 1 Senator, 1996-2018 fully endorses Kathryn Larson Contact 217 Cedar Street #167 Sandpoint, ID 83864 Phone: (208) 248-5949 Email: LarsonforIdaho@gmail.com Independent Candidate Idaho House of Representatives Seat 1B larson for Idaho © # Larson for Idaho.
 All rights reserved.
 Loading Comments...
 Write a Comment...

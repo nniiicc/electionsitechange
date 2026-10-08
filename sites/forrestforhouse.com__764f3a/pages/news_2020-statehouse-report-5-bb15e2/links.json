@@ -1,17 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://eveningpostindustries.cmail20.com/t/j-l-ckhyujk-trlkujoui-i",
-"https://facebook.com/SCHouseGOP",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/photos",
-"https://scstatehouse.gov/billsearch.php?billnumbers=3066",
-"https://scstatehouse.gov/sess123_2019-2020/bills/4835.htm",
-"https://scstatehouse.gov/sess123_2019-2020/bills/9.htm",
-"https://twitter.com/SCHouseGOP"
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "H. 3066",
+"href": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3066"
+},
+{
+"text": "H. 4835",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4835.htm"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "S. 9",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/9.htm"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "https://twitter.com/SCHouseGOP",
+"href": "https://twitter.com/SCHouseGOP"
+},
+{
+"text": "https://www.facebook.com/SCHouseGOP/",
+"href": "https://www.facebook.com/SCHouseGOP/"
+},
+{
+"text": "palmettoprek.org",
+"href": "https://eveningpostindustries.cmail20.com/t/j-l-ckhyujk-trlkujoui-i/"
+}
 ]

@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact SERVING OUR COMMUNITY.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact SERVING OUR COMMUNITY.
 Fighting for Western Minnesota.
 Request Lawn Sign SERVING OUR COMMUNITY.
 Fighting for Western Minnesota.

@@ -1,4 +1,4 @@
 top of page Jenny Thacker House District 100 Home Platform Videos Articles Donate Contact My Subscriptions More Use tab to navigate through the menu items.
-All Videos Watercress Jenny Thacker Play Video Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Embed Video Link Copied Search videos Search video...
-Now Playing Watercress 00:59 Play Video Now Playing Ruins of mill in Harpers Ferry 01:09 Play Video Now Playing Mini Mart 00:33 Play Video Now Playing Gun Safety Shannondale June 03:49 Play Video Now Playing Appalachian Trail Conservancy 04:40 Play Video Now Playing The shape I am in June 2026 04:47 Play Video © # by Site Name.
+All Videos Transmission lines don't benefit Jefferson County Jenny Thacker Play Video Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Search videos Search video...
+Now Playing Transmission lines don't benefit Jefferson County 01:03 Play Video Now Playing Jefferson County Needs Plentiful, Clean Water 01:41 Play Video Now Playing Surveillance cameras and our right to privacy 03:35 Play Video Now Playing Vote Thacker Data Center Ad 00:27 Play Video Now Playing Dan Strickland endorsement 01:48 Play Video Now Playing Jenny calls for a 1:1 debate 00:58 Play Video © # by Site Name.
 Powered and secured by Wix bottom of page

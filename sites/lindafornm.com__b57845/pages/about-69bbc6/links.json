@@ -1,7 +1,34 @@
 [
-"https://facebook.com/LindaforNM",
-"https://lindafornm.com/",
-"https://lindafornm.com/about",
-"https://lindafornm.com/get-involved",
-"https://lindafornm.com/values"
+{
+"text": "About",
+"href": "https://lindafornm.com/about/"
+},
+{
+"text": "Get Involved",
+"href": "https://lindafornm.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://lindafornm.com/"
+},
+{
+"text": "Paid for by Our Neighbors for Linda (Treasurer: Soledad Roybal)",
+"href": "https://www.lindafornm.com"
+},
+{
+"text": "Values",
+"href": "https://lindafornm.com/values/"
+},
+{
+"text": "[image: Linda Serrato for New Mexico]",
+"href": "https://lindafornm.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LindaforNM/"
+},
+{
+"text": "grassroots@lindafornm.com",
+"href": "mailto:grassroots@lindafornm.com"
+}
 ]

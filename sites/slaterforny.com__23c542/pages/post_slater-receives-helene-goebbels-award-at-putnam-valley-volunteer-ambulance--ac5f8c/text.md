@@ -13,6 +13,6 @@ Most recently, Slater was instrumental in securing an $80,000 state grant to rep
 The anniversary dinner celebrated PVVAC’s longstanding commitment to providing emergency medical services and recognized the generations of volunteers who have contributed to the organization throughout its history.
 “Congratulations to the entire Putnam Valley Volunteer Ambulance Corps on 65 remarkable years of service,” concluded Slater.
 “Thank you to every past and present member who has given their time to help their neighbors and strengthen Putnam Valley.
-I look forward to continuing our partnership for many years to come.” Recent Posts See All SLATER ANNOUNCES PROJECTED $1.9 MILLION INCREASE IN UPK FUNDING FOR LOCAL SCHOOL DISTRICTS SLATER JOINS VOLUNTEER FIREFIGHTERS IN CALLING ON GOV.
-HOCHUL TO SIGN TAX CREDIT INCREASE SLATER'S 9/11 EDUCATION LEGISLATION GAINS SUPPORT FROM 9/11 EDUCATION FOUNDATION Leadership that's making a difference.
+I look forward to continuing our partnership for many years to come.” Recent Posts See All SLATER HOSTS FIRST SENIOR RESOURCE FAIR IN MAHOPAC SLATER ANNOUNCES PROJECTED $1.9 MILLION INCREASE IN UPK FUNDING FOR LOCAL SCHOOL DISTRICTS SLATER JOINS VOLUNTEER FIREFIGHTERS IN CALLING ON GOV.
+HOCHUL TO SIGN TAX CREDIT INCREASE Leadership that's making a difference.
 Friends of Matt Slater 2026 334 Underhill Ave., Ste 4B Yorktown Heights, NY 10598 ​ (914) 302-4134 matt@slaterforny.com ​ © Paid for by Friends of Matt Slater # ​ Privacy Policy Join Team Slater ​​Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law. bottom of page

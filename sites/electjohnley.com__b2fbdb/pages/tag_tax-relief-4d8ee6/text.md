@@ -1,0 +1,9 @@
+Home News Latest News 60 Seconds With John Ley About Me Donate Latest News Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset Issues October 7, 2026 by John Ley Every family and small business in Washington knows the basic rule of budgeting: you cannot spend money you do not have.
+When household costs rise, families prioritize essentials, cut back...
+Read more Vote Yes, Pay Less: John Ley on 4 Citizen Initiatives for November 60 Seconds With John Ley Campaign Issues Solutions September 7, 2024 by John Ley John Ley urges voters to support four citizen initiatives in November to save money and improve Washington State.
+Read more 60 Seconds with John Ley • Vote Yes to Lower Electric Bills and Save Natural Gas 60 Seconds With John Ley Issues August 18, 2024 by John Ley Vote Yes on I-2117 to eliminate costly carbon credits and lower your electricity bills while supporting natural gas for homes and businesses in Washington.
+Read more Latest Episode: 60 Seconds With John Ley Latest News Opinion: They’re coming for your money — and your retirement Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset Washington has a spending addiction Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
+I want to serve YOU in Olympia.
+Donate Contact electjohnley@gmail.com P.O.
+Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.
+Box 822041, Vancouver, WA 98682

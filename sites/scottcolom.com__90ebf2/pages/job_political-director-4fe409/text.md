@@ -1,4 +1,4 @@
-Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Political Director Scott Colom for Senate is seeking a Political Director for the 2026 campaign cycle to assist in our fundraising and outreach program.
+Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Political Director Scott Colom for Senate is seeking a Political Director for the 2026 campaign cycle to assist in our fundraising and outreach program.
 This is a full time, paid position.
 Location Jackson, Mississippi Job Description The Scott Colom for US Senate campaign is looking to hire a full-time Political Director.
 The campaign is seeking hard-working, self-motivated individuals to join its team through November 2026.

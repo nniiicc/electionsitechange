@@ -1,4 +1,8 @@
-Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate Author: Aric Putnam KWLM: “Senate DFLers want Walz to allow Red Dye Diesel use on MN roads” Posted on October 1, 2026 by Aric Putnam ST.
+Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate Author: Aric Putnam KNSI: “Putnam Hears Senior Care Concerns at St.
+Cloud Roundtable” Posted on October 6, 2026 by Aric Putnam ST.
+CLOUD (KNSI) — Senator Aric Putnam hosted a roundtable on senior care at the Great River Regional Library in St.
+Cloud, where about 35 to 40 people talked about staying in their homes, staying connected to their neighbors, and the volunteer shortage that affects both.
+Putnam also discussed the human services budget cuts lawmakers… Read More Posted in News Tagged Aric , Putnam , SD14 KWLM: “Senate DFLers want Walz to allow Red Dye Diesel use on MN roads” Posted on October 1, 2026 by Aric Putnam ST.
 PAUL (KWLM) — Senators Aric Putnam and Rob Kupec, both leaders on the Senate Agriculture Committee, are asking Governor Walz to temporarily let farmers use lower-taxed red dye diesel on public highways and not just in the field.
 Read more Read More Posted in News Tagged Aric , Putnam , SD14 Minnesota News Network: “Minnesota Senators Pushing Governor for Diesel Fuel Tax Relief” Posted on October 1, 2026 by Aric Putnam ST.
 PAUL (Minnesota News Network) — Minnesota News Network’s morning headlines included Senators Aric Putnam and Rob Kupec’s call for Governor Walz to let farmers use lower-taxed red dye diesel on public highways, a change that would save them 32 cents a gallon.
@@ -23,7 +27,5 @@ Benedict and St.
 John’s University, has hosted more than 30 town halls since taking office.
 He said he takes an independent approach toward policymaking that isn’t always in lock step with his party.
 “If the DFL wants to send me talking points, I’m going to take a little red pen, and I’m going to correct them and grade them and send them back, because I don’t need those things,” Putnam said.
-“I’m not dependent on them.” Read More Posted in News Tagged Aric , Putnam , SD14 Senator Aric Putnam Applauds New Laws Recognizing Service of Veterans with Honorary Diplomas, Expanded Burial Honors, and the First Pay Increase in 30 Years for the Minnesota National Guard Posted on July 23, 2026 September 23, 2026 by Aric Putnam From the office of Senator Aric Putnam SAINT PAUL, MN — Chair of the Senate Subcommittee on Veterans, Senator Aric Putnam (DFL-St.
-Cloud) highlights a set of new laws, taking effect August 1st, that honor the service of Minnesota’s veteran and military communities.
-“I’m proud of the work this Legislature did to honor the service… Read More Posted in Press releases Posts navigation Older posts PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+“I’m not dependent on them.” Read More Posted in News Tagged Aric , Putnam , SD14 Posts navigation Older posts PO Box 5012 St.
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

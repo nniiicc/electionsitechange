@@ -1,11 +1,23 @@
 [
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=4115+meramec+bottom+road+st.+louis%2C+missouri%2C+63129+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=5430+telegraph+road+st.+louis%2C+missouri%2C+63129+united+states"
 },
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=9700+musick+avenue+st.+louis%2C+missouri%2C+63123+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=polling+places+in+south+st.+louis+county"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=polling+places+in+st.+louis+county"
 },
 {
 "text": "0",
@@ -41,11 +53,35 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mega+Canvass+and+Lit+Drop&dates=20261010T150000Z%2F20261010T180000Z&location=4115+Meramec+Bottom+Road%2C+St.+Louis%2C+Missouri%2C+63129%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mega+Canvass+and+Lit+Drop&dates=20261017T150000Z%2F20261017T173000Z&location=4115+Meramec+Bottom+Road%2C+St.+Louis%2C+Missouri%2C+63129%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Meredith+Sumenek&dates=20260919T180000Z%2F20260919T190000Z&location=5430+Telegraph+Road%2C+St.+Louis%2C+Missouri%2C+63129%2C+United+States"
 },
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Meredith+Sumenek&dates=20261003T200000Z%2F20261003T213000Z&location=9700+Musick+Avenue%2C+St.+Louis%2C+Missouri%2C+63123%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+for+Meredith+at+Early+Voting+Locations&dates=20261020T140000Z%2F20261102T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+for+Meredith+on+Election+Day&dates=20261103T120000Z%2F20261104T003000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.sumenekformo.com/events/mega-canvass-and-lit-drop-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sumenekformo.com/events/mega-canvass-and-lit-drop?format=ical"
 },
 {
 "text": "ICS",
@@ -56,8 +92,24 @@
 "href": "https://www.sumenekformo.com/events/town-hall-with-meredith-sumenek?format=ical"
 },
 {
+"text": "ICS",
+"href": "https://www.sumenekformo.com/events/volunteer-for-meredith-at-early-voting-locations?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sumenekformo.com/events/volunteer-for-meredith-onelection-day?format=ical"
+},
+{
 "text": "MEET MEREDITH",
 "href": "https://www.sumenekformo.com/about-meredith-sumenek-for-missouri"
+},
+{
+"text": "Mega Canvass and Lit Drop",
+"href": "https://www.sumenekformo.com/events/mega-canvass-and-lit-drop"
+},
+{
+"text": "Mega Canvass and Lit Drop",
+"href": "https://www.sumenekformo.com/events/mega-canvass-and-lit-drop-1"
 },
 {
 "text": "Merch",
@@ -77,6 +129,14 @@
 },
 {
 "text": "RSVP on Eventbrite",
+"href": "https://www.eventbrite.com/e/2002844933110?aff=oddtdtcreator"
+},
+{
+"text": "RSVP on Eventbrite",
+"href": "https://www.eventbrite.com/e/2002846334301?aff=oddtdtcreator"
+},
+{
+"text": "RSVP on Eventbrite",
 "href": "https://www.eventbrite.com/e/october-3rd-sumenek-town-hall-tickets-2000083291967"
 },
 {
@@ -92,6 +152,14 @@
 "href": "https://www.facebook.com/events/1556107662873880"
 },
 {
+"text": "RSVP on Facebook",
+"href": "https://www.facebook.com/share/14oErooj3vh"
+},
+{
+"text": "RSVP on Facebook",
+"href": "https://www.facebook.com/share/1JbJZKrocG/"
+},
+{
 "text": "THE DISTRICT",
 "href": "https://www.sumenekformo.com/voter-info"
 },
@@ -105,6 +173,14 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.sumenekformo.com/events/mega-canvass-and-lit-drop"
+},
+{
+"text": "View Event →",
+"href": "https://www.sumenekformo.com/events/mega-canvass-and-lit-drop-1"
+},
+{
+"text": "View Event →",
 "href": "https://www.sumenekformo.com/events/town-hall-with-meredith-sumenek"
 },
 {
@@ -112,8 +188,32 @@
 "href": "https://www.sumenekformo.com/events/town-hall-with-meredith-sumenek-1"
 },
 {
+"text": "View Event →",
+"href": "https://www.sumenekformo.com/events/volunteer-for-meredith-at-early-voting-locations"
+},
+{
+"text": "View Event →",
+"href": "https://www.sumenekformo.com/events/volunteer-for-meredith-onelection-day"
+},
+{
 "text": "Volunteer",
 "href": "https://www.sumenekformo.com/volunteer-for-meredith-sumenek"
+},
+{
+"text": "Volunteer for Meredith at Early Voting Locations",
+"href": "https://www.sumenekformo.com/events/volunteer-for-meredith-at-early-voting-locations"
+},
+{
+"text": "Volunteer for Meredith on Election Day",
+"href": "https://www.sumenekformo.com/events/volunteer-for-meredith-onelection-day"
+},
+{
+"text": "[image: Mega Canvass and Lit Drop]",
+"href": "https://www.sumenekformo.com/events/mega-canvass-and-lit-drop"
+},
+{
+"text": "[image: Mega Canvass and Lit Drop]",
+"href": "https://www.sumenekformo.com/events/mega-canvass-and-lit-drop-1"
 },
 {
 "text": "[image: Meredith Sumenek for Missouri]",
@@ -126,6 +226,14 @@
 {
 "text": "[image: Town Hall with Meredith Sumenek]",
 "href": "https://www.sumenekformo.com/events/town-hall-with-meredith-sumenek-1"
+},
+{
+"text": "[image: Volunteer for Meredith at Early Voting Locations]",
+"href": "https://www.sumenekformo.com/events/volunteer-for-meredith-at-early-voting-locations"
+},
+{
+"text": "[image: Volunteer for Meredith on Election Day]",
+"href": "https://www.sumenekformo.com/events/volunteer-for-meredith-onelection-day"
 },
 {
 "text": "[no text]",
@@ -142,6 +250,14 @@
 {
 "text": "[no text]",
 "href": "https://x.com/sumenekformo"
+},
+{
+"text": "https://www.signupgenius.com/go/30E0C4CA5AC2EAAFA7-66383541-early",
+"href": "https://www.signupgenius.com/go/30E0C4CA5AC2EAAFA7-66383541-early"
+},
+{
+"text": "https://www.signupgenius.com/go/30E0C4CA5AC2EAAFA7-66383599-tues#/",
+"href": "https://www.signupgenius.com/go/30E0C4CA5AC2EAAFA7-66383599-tues#/"
 },
 {
 "text": "info@sumenekformo.com",

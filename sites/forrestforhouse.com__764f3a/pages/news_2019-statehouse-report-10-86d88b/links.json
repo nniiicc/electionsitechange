@@ -1,17 +1,66 @@
 [
-"http://indexjournal.com/news/mccravy-refutes-portions-of-colleague-s-planned-parenthood-defunding-account/article_e1d29b0a-f570-5514-bf91-841140ae3075.html",
-"https://campaignpartner.com/",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/photos",
-"https://postandcourier.com/business/president-trump-signs-lands-bill-that-makes-sc-historic-sites/article_4206fe50-44d9-11e9-a0fc-e71c18649efb.html",
-"https://schousegop.org/more",
-"https://thestate.com/article227469914.html",
-"https://thestate.com/latest-news/article227546074.html",
-"https://thestate.com/news/politics-government/article227449899.html"
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.thestate.com/article227469914.html"
+},
+{
+"text": "calforrest@schouse.gov",
+"href": "mailto:calforrest@schouse.gov"
+},
+{
+"text": "http://www.indexjournal.com/news/mccravy-refutes-portions-of-colleague-s-planned-parenthood-defunding-account/article_e1d29b0a-f570-5514-bf91-841140ae3075.html",
+"href": "http://www.indexjournal.com/news/mccravy-refutes-portions-of-colleague-s-planned-parenthood-defunding-account/article_e1d29b0a-f570-5514-bf91-841140ae3075.html"
+},
+{
+"text": "https://www.postandcourier.com/business/president-trump-signs-lands-bill-that-makes-sc-historic-sites/article_4206fe50-44d9-11e9-a0fc-e71c18649efb.html",
+"href": "https://www.postandcourier.com/business/president-trump-signs-lands-bill-that-makes-sc-historic-sites/article_4206fe50-44d9-11e9-a0fc-e71c18649efb.html"
+},
+{
+"text": "https://www.schousegop.org/more",
+"href": "https://www.schousegop.org/more"
+},
+{
+"text": "https://www.thestate.com/latest-news/article227546074.html",
+"href": "https://www.thestate.com/latest-news/article227546074.html"
+},
+{
+"text": "https://www.thestate.com/news/politics-government/article227449899.html",
+"href": "https://www.thestate.com/news/politics-government/article227449899.html"
+}
 ]

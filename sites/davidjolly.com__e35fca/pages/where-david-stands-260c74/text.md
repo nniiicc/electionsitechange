@@ -29,8 +29,8 @@ It's about saving money.
 Clean energy is good for… Immigration IMMIGRATION Florida Was Built By People Who Arrived With Hope How we treat the people who come here… David Jolly on Environment — Florida Governor 2026 Protecting what makes Florida, Florida.
 This isn't just policy.
 It's personal.
-In short David Jolly believes protecting Florida's… The 2026 Florida Governor’s Race The 2026 Florida Governor's Race Who is running, every date that matters, and how to make your voice… Republicans for Jolly OCT2 Want to get involved with Republicans for Jolly?Join our webinar, Friday at 1 p.m.
-ET Sign up… David Jolly’s Plan to Cut Florida Homeowners Insurance by 60 to 70 Percent THE PLAN, IN PLAIN ENGLISH David Jolly's Plan to Cut Florida Homeowners Insurance by 60 to 70 Percent… Data Centers DATA CENTERS Florida's voters are saying no.
+In short David Jolly believes protecting Florida's… The 2026 Florida Governor’s Race The 2026 Florida Governor's Race Who is running, every date that matters, and how to make your voice… Republicans for Jolly Principles Over Party.
+Join the movement In short David Jolly's position is grounded in principles over party affiliation.… David Jolly’s Plan to Cut Florida Homeowners Insurance by 60 to 70 Percent THE PLAN, IN PLAIN ENGLISH David Jolly's Plan to Cut Florida Homeowners Insurance by 60 to 70 Percent… Data Centers DATA CENTERS Florida's voters are saying no.
 David Jolly is listening.
 A moratorium on hyperscale data centers, issued… About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
 All rights reserved.

@@ -1,4 +1,4 @@
-Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Early Voting Donate Now Volunteer Newsletter Request a Sign Tony Thompson for Iowa Terms & Conditions 1.
+Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Voting Donate Now Volunteer Newsletter Request a Sign Tony Thompson for Iowa Terms & Conditions 1.
 By opting in to receive text messages from Tony Thompson for Iowa, you consent to receive voter contact, donation asks, and informational messages 2.
 You can cancel the SMS service at any time.
 Just text "STOP" to the short code.

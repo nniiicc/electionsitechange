@@ -50,7 +50,7 @@ Get Involved West Texas thrives when we work together.
 Join the team that’s keeping our region strong and our future secure.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * Last Name * Last Name would Phone Text Messaging Opt-In I agree to receive text messages Email * I would like: Volunteer – Knock doors, make calls, or help at events.
+First Name * Last Name * Phone Text Messaging Opt-In I agree to receive text messages Text I Opt-In Email * I would like: Volunteer – Knock doors, make calls, or help at events.
 Donate – Every dollar helps us spread Tom’s conservative message.
 Stay Updated – Sign up for campaign news and updates.
 Text Your Friends – Help us spread the word about the campaign by texting your friends.

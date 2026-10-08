@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Rep.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Rep.
 Pam Marsh catches the bus to show support for public transit funding Ripley Pierotti · LINK TO ARTICLE ON 2026 KOBI-TV NBC5 April 28, 2026 at 5:21 pm·Updated May 12, 2026 at 12:12 pm JACKSON COUNTY, Ore. – Rep.
 Pam Marsh, joined by a group of public officials and transit advocates, rode the bus from Ashland to Medford on Tuesday in support of a public transportation levy on May’s upcoming ballot.
 Measure 14-240 would continue providing local funding for Rogue Valley Public Transportation (RVTD) over for the next five years.

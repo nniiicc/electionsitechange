@@ -1,10 +1,6 @@
-Representative Cabral was named House Chair of the Joint Committee on State Administration and Regulatory Oversight in 2021
-The Joint Committee on State Administration and Regulatory Oversight considers legislation concerning competitive bidding on public contracts, public construction, open meeting laws, state regulations, state agencies, lobbyists’ reporting laws and such other matters as may be referred.
-For more information about committee members, recent legislation, and hearing dates, please click here.
+Skip to content Home Meet Tony Priorities Legislation Gateway cities caucus Joint committee on state administration and regulatory oversight Leadership New Bedford New Bedford Priorities Constituent Services News Volunteer contact Donate Donate Home Meet Tony Priorities Legislation Gateway cities caucus Joint committee on state administration and regulatory oversight Leadership New Bedford New Bedford Priorities Constituent Services News Volunteer contact Donate Donate Representative Cabral was named House Chair of the Joint Committee on State Administration and Regulatory Oversight in 2021 The Joint Committee on State Administration and Regulatory Oversight considers legislation concerning competitive bidding on public contracts, public construction, open meeting laws, state regulations, state agencies, lobbyists’ reporting laws and such other matters as may be referred.
+For more information about committee members, recent legislation, and hearing dates, please click here .
 Prior to this position, Tony served as House Chair of the Joint Committee on Bonding, Capital Expenditures, and State Assets from 2010 to 2020.
-Committee Experience:
-- Chairman, Joint Committee on State Administration & Regulatory Oversight (2005 – 2009)
-- Chairman, Joint Committee on Human Services & Elderly Services (2001 – 2004)
-- Chairman, Joint Committee on Election Laws (1999 – 2001)
-- Chairman, Joint Committee on Counties (1997 – 1999)
-- Vice-Chairman, Joint Committee on Insurance (1994 – 1997)
+Committee Experience: Chairman, Joint Committee on State Administration & Regulatory Oversight (2005 – 2009) Chairman, Joint Committee on Human Services & Elderly Services (2001 – 2004) Chairman, Joint Committee on Election Laws (1999 – 2001) Chairman, Joint Committee on Counties (1997 – 1999) Vice-Chairman, Joint Committee on Insurance (1994 – 1997) Contact State House 24 Beacon St.
+Room 466 Boston, MA 02133 Email: antonio.cabral@mahouse.gov Phone: (6 1 7) 7 2 2 - 2 0 1 7 Falamos Portugês • Hablamos Español • No Ta Fala Criol De Cabo Verde Local Office Hours First Saturday of each month Howland Green Branch Library 3 Rodney French Blvd.
+New Bedford 10:30 am - 12:00 pm Campaign Contact 25 Moreland Terrace New Bedford, MA 02740 Phone: (5 0 8) 9 9 7 - 8 1 1 3 Email: reptonycabral@gmail.com Copyright © # Tony Cabral | Paid for by The Cabral Committee Privacy & Legal

@@ -26,7 +26,7 @@ Titles for identification purposes only.
 “We are the ones who can keep the door open for the next generation.” Learn More Endorse the Speaker!
 Please fill out the form below and we’ll get back to you: Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * Last Name * Title number Name Title Email address * Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
+First Name * Last Name * Title Email address * First Name Name Phone number (optional) Submit By providing my email and/or phone number, I consent to receive periodic emails and text message alerts from Robert Rivas for Assembly 2026.
 We will never charge for these text message updates, but carrier message & data rates may apply.
 Text STOP to stop receiving messages.
 Text HELP for more information.

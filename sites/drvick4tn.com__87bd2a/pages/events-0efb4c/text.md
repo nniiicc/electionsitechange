@@ -13,7 +13,7 @@ Dr Vick's prayer is simple: "May God Stir Your Heart to Vote for Dr.
 Vick for Tennessee." 🗓️ Get Ready: Check Back for the Schedule!
 Our full schedule will be posted here soon!
 We are diligently working to finalize locations in all 95 counties.
-#ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+#ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Voter Information Endorsements Events Photos Contact Privacy Policy Robert C.
 Vick for governor Powered by CampaignPartner.com - Political Campaign Websites Home Meet Dr.
 Vick Issues Endorsements Volunteer News Events Contact Voter Information Close Menu

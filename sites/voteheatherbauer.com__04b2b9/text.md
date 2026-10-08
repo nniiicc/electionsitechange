@@ -4,7 +4,7 @@ Holding government accountable.
 Getting things done.
 Donate Keep up to date Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Layout First Name First Name * Last Name * Email * Submit Heather believes in the American dream because she is living it.
+Name Layout Email First Name * Last Name * Email * Submit Heather believes in the American dream because she is living it.
 Heather Bauer has represented the people of House District 75 since 2022, when she defeated a long-time Republican incumbent and again in 2024 by holding him accountable for voting to strip women of their right to choose an abortion. “ I’m honored and humbled by the trust voters have placed in me and I’m ready to continue representing everyone in this district.
 I try to be mindful of this and to look for issues to work on where I can achieve an outcome.
 Sometimes those wins are small.
@@ -24,5 +24,4 @@ Every door knocked and every phone call made matters.
 Sign up to help keep Heather in the SC House.
 Volunteer Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Layout Name help?
-Email * How can you help? * I want to be a canvasser I want to help in another way Mobile Phone * Submit © #—Paid for by Heather Bauer for District 75 Follow Follow
+Name * First Last Mobile can Phone Email * How can you help? * I want to be a canvasser I want to help in another way Mobile Phone * Submit © #—Paid for by Heather Bauer for District 75 Follow Follow

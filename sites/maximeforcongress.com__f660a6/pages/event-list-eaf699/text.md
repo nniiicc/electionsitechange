@@ -37,8 +37,8 @@ Host $3,500 Anchors the event with top-level support and visible recognition for
 Friend $500 Funds digital promotion to expand awareness of our kickoff event.
 4.
 Champion $2,500 Powers wider media outreach so our message reaches more of District 20.
-DONATE Follow The Campaign A vision for Florida's District 20.
+DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

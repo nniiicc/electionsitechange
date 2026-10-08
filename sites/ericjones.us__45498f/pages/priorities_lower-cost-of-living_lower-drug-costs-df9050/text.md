@@ -41,4 +41,4 @@ We can reward the people who cure diseases and still refuse to let anyone be pri
 Let’s take these companies on, bring the prices down, and put the days of splitting pills at the counter behind us.
 Together, we can build a country where the medicine that keeps you alive is one you can actually afford.
 All Policies Next Policy Return to Top SOURCES Americans pay the most in the world for prescription drugs (~2.8× other wealthy countries overall; ~4× for brand-name): HHS/ASPE–RAND — International Prescription Drug Price Comparisons (2022 data) Contributions to Thompson from drug-industry PACs: FEC — Mike Thompson for Congress, Committee C00326363 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

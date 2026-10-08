@@ -1,11 +1,38 @@
 [
-"https://facebook.com/InForInglis",
-"https://inforinglis.com/",
-"https://inforinglis.com/contact",
-"https://inforinglis.com/meet-john",
-"https://inforinglis.com/prioirities",
-"https://inforinglis.com/volunteer",
-"https://instagram.com/inforinglis",
-"https://secure.actblue.com/donate/inforinglis",
-"https://twitter.com/InforInglis"
+{
+"text": "CONTACT",
+"href": "https://www.inforinglis.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/inforinglis"
+},
+{
+"text": "HOME",
+"href": "https://www.inforinglis.com"
+},
+{
+"text": "MEET JOHN",
+"href": "https://www.inforinglis.com/meet-john"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.inforinglis.com/prioirities"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.inforinglis.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/InforInglis"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/InForInglis/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/inforinglis/"
+}
 ]

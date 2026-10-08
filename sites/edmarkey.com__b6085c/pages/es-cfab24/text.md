@@ -4,15 +4,15 @@ Total Asegurado para MA: $14,579,629,529.01 Conoce a Ed Luchar por la clase trab
 Nunca ha tenido miedo de romper el statu quo, y desde que fue elegido por primera vez para el Senado de los Estados Unidos en 2013, Ed ha estado liderando y cumpliendo con las cuestiones que más importan a la gente de Massachusetts.
 SABER MÁS Avales Lo último Donar Tu apoyo marca la diferencia. $10 $25 $50 $100 $250 Otro importe Si has guardado tu información de pago con ActBlue Express, tu donación se realizará inmediatamente.
 Haga clic aquí para hacer una donación fuera de línea .
-Redes sociales Siga Ed Markey 8 horas hace De vuelta en la línea de huelga junto a los trabajadores de Encore —un día más.
-Un día más fuerte.
-No están agonizando, están organizándose.
-Insta a las partes a negociar de buena fe y a llegar a un acuerdo contractual que ofrezca salarios y condiciones de trabajo adecuadas.
-2 Retweet en Twitter 2107637237902897176 15 Como en Twitter 2107637237902897176 Compartir 2107637237902897176 Siga Ed Markey 10 horas hace En Massachusetts, nos enfrentamos a los ultrarricos y luchamos por los trabajadores.
-Estamos orgullosos de poder organizarnos juntos.
-3 Re-tuitado en Twitter 2107606936006852726 10 Como en Twitter 2107606936006852726 Compartir 2107606936006852726 Siga Ed Markey 11 horas hace Es un placer hablar junto a la senadora estatal Lydia Edwards en la Mass Black Expo.
-Las empresas propiedad de personas negras son fundamentales para nuestras comunidades locales; debemos garantizar su bienestar económico y su constante crecimiento.
-1 Retweet en Twitter 2107598805503824154 8 Como en Twitter 2107598805503824154 Compartir 2107598805503824154 Lo último Ed Markey gana las primarias demócratas para el Senado de EE.
+Redes sociales Siga Ed Markey 12 horas hace Debemos abordar los desafíos que enfrentan los propietarios de negocios negros para encontrar oportunidades y acceso a capital; y debemos luchar para garantizar que puedan alcanzar sus sueños estadounidenses.
+Gracias a la senadora estatal Lydia Edwards por esta importante discusión.
+1 Retweet en Twitter 2107954248713375986 13 Como en Twitter 2107954248713375986 Compartir 2107954248713375986 Siga Ed Markey 12 horas hace Feliz cumpleaños número 100 a la Sra.
+Opal Lee.
+Estamos agradecidos de haber podido trabajar con usted para convertir el Juneteenth en un día festivo nacional y esperamos continuar nuestra colaboración en el trabajo para garantizar la igualdad y la justicia para todos.
+6 Re-tuitado en Twitter 2107949119020900507 43 Como en Twitter 2107949119020900507 Compartir 2107949119020900507 Siga Ed Markey 14 horas hace Donald Trump y su administración están sacando provecho de la presidencia y convirtiéndola en un bufet de corrupción de todo lo que se pueda comer.
+Inaceptable.
+Debemos poner fin a esta corrupción sin control.
+4 Re-tuitado en Twitter 2107913328043401285 23 Como en Twitter 2107913328043401285 Compartir 2107913328043401285 Lo último Ed Markey gana las primarias demócratas para el Senado de EE.
 UU.
 1 de septiembre de 2026 Esta noche, Ed Markey ganó las primarias demócratas para el Senado de los EE.
 UU., asegurando la nominación demócrata y avanzando a las elecciones generales de noviembre.

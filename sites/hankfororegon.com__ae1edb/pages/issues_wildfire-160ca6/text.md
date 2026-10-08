@@ -1,4 +1,4 @@
-0 Skip to Content About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Donate Open Menu Close Menu About Issues Endorsements Events English Back Donate Reduce Wildfire Risks and Costs Jan 19 Written By Hank Sanders Oregon should be spending 10-20 times more on its fire prevention.
+0 Skip to Content About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Donate Open Menu Close Menu About Issues Endorsements Events Supporters English Back Donate Reduce Wildfire Risks and Costs Jan 19 Written By Hank Sanders Oregon should be spending 10-20 times more on its fire prevention.
 That’s why home insurance increases 30-40% EACH YEAR and rents are sky high.
 I will institute Oregon’s first Home Hardening Task Force: a team that educates families in rural Oregon on how to harden their homes.
 A similar system in California and Colorado have led to decreases in insurance rates.

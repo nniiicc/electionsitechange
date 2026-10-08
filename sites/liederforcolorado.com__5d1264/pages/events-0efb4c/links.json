@@ -1,6 +1,10 @@
 [
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=16401+west+2nd+place+golden%2C+colorado%2C+80401+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=200+east+colfax+avenue+denver%2C+co%2C+80203+united+states"
 },
 {
@@ -9,7 +13,19 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=5000+county+highway+73+evergreen%2C+colorado%2C+80439+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=719+10th+street+golden%2C+colorado%2C+80401+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=7706+west+bowles+avenue+littleton%2C+co%2C+80123+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=955+south+kipling+street+lakewood%2C+colorado%2C+80226+united+states"
 },
 {
 "text": "0",
@@ -40,6 +56,10 @@
 "href": "https://www.liederforcolorado.com/events/cea-canvass"
 },
 {
+"text": "Canvass for Colorado Kids",
+"href": "https://www.liederforcolorado.com/events/canvass-for-colorado-kids"
+},
+{
 "text": "Contact",
 "href": "https://www.liederforcolorado.com/contact-7"
 },
@@ -64,6 +84,10 @@
 "href": "https://www.liederforcolorado.com/events"
 },
 {
+"text": "Evergreen Canvass",
+"href": "https://www.liederforcolorado.com/events/evergreen-canvass"
+},
+{
 "text": "Folder: Campaign",
 "href": "https://www.liederforcolorado.com/new-dropdown"
 },
@@ -72,8 +96,24 @@
 "href": "https://www.liederforcolorado.com/capitol"
 },
 {
+"text": "Golden Canvass",
+"href": "https://www.liederforcolorado.com/events/golden-canvass"
+},
+{
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=CEA+Canvass&dates=20261017T160000Z%2F20261017T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Colorado+Kids&dates=20261011T210000Z%2F20261012T000000Z&location=16401+West+2nd+Place%2C+Golden%2C+Colorado%2C+80401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Evergreen+Canvass&dates=20261013T223000Z%2F20261014T003000Z&location=5000+County+Highway+73%2C+Evergreen%2C+Colorado%2C+80439%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Golden+Canvass&dates=20261015T180000Z%2F20261015T200000Z&location=719+10th+Street%2C+Golden%2C+Colorado%2C+80401%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -82,6 +122,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+with+the+Story+Campaign+%28HD-25%29&dates=20261003T150000Z%2F20261003T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lakewood+Canvass&dates=20261008T180000Z%2F20261008T200000Z&location=955+South+Kipling+Street%2C+Lakewood%2C+Colorado%2C+80226%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -101,7 +145,19 @@
 },
 {
 "text": "ICS",
+"href": "https://www.liederforcolorado.com/events/canvass-for-colorado-kids?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.liederforcolorado.com/events/cea-canvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.liederforcolorado.com/events/evergreen-canvass?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.liederforcolorado.com/events/golden-canvass?format=ical"
 },
 {
 "text": "ICS",
@@ -110,6 +166,10 @@
 {
 "text": "ICS",
 "href": "https://www.liederforcolorado.com/events/joint-canvass-with-the-story-campaign-hd-30?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.liederforcolorado.com/events/lakewood-canvass?format=ical"
 },
 {
 "text": "ICS",
@@ -122,6 +182,10 @@
 {
 "text": "Joint Canvass with the Story Campaign (HD-25)",
 "href": "https://www.liederforcolorado.com/events/joint-canvass-with-the-story-campaign-hd-30"
+},
+{
+"text": "Lakewood Canvass",
+"href": "https://www.liederforcolorado.com/events/lakewood-canvass"
 },
 {
 "text": "May Town Hall",
@@ -137,7 +201,19 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.liederforcolorado.com/events/canvass-for-colorado-kids"
+},
+{
+"text": "View Event →",
 "href": "https://www.liederforcolorado.com/events/cea-canvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.liederforcolorado.com/events/evergreen-canvass"
+},
+{
+"text": "View Event →",
+"href": "https://www.liederforcolorado.com/events/golden-canvass"
 },
 {
 "text": "View Event →",
@@ -146,6 +222,10 @@
 {
 "text": "View Event →",
 "href": "https://www.liederforcolorado.com/events/joint-canvass-with-the-story-campaign-hd-30"
+},
+{
+"text": "View Event →",
+"href": "https://www.liederforcolorado.com/events/lakewood-canvass"
 },
 {
 "text": "View Event →",
@@ -158,6 +238,10 @@
 {
 "text": "Volunteer",
 "href": "https://forms.gle/osYv22WmFRXJXym3A"
+},
+{
+"text": "[image: Canvass for Colorado Kids]",
+"href": "https://www.liederforcolorado.com/events/canvass-for-colorado-kids"
 },
 {
 "text": "[image: House District 28 Day at the Capitol]",
@@ -190,6 +274,18 @@
 {
 "text": "[no text]",
 "href": "https://www.liederforcolorado.com/events/cea-canvass"
+},
+{
+"text": "[no text]",
+"href": "https://www.liederforcolorado.com/events/evergreen-canvass"
+},
+{
+"text": "[no text]",
+"href": "https://www.liederforcolorado.com/events/golden-canvass"
+},
+{
+"text": "[no text]",
+"href": "https://www.liederforcolorado.com/events/lakewood-canvass"
 },
 {
 "text": "[no text]",

@@ -9,7 +9,7 @@ From Hilo to Hanalei and everywhere in between, each conversation, each shared s
 Your aspirations, your challenges, your dreams – they are what drives me every day.
 Mahalo for visiting my campaign website, if your intention was to visit my official House of Representative website, please click here.
 Join the Campaign Please enable JavaScript in your browser to complete this form.
-Layout Opt-in Email Email * Phone Zip Code Opt-in I agree to opt-in.
+Code Email Zip Email * Phone Zip Code Opt-in I agree to opt-in.
 By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Tokuda for Hawaii at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.

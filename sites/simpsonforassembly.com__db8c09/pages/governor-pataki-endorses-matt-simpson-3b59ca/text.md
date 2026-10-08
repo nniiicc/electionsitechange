@@ -1,5 +1,5 @@
 114th District Assembly Election matt@simpsonforassembly.com 518.361.1075 Facebook Home About Matt Why Matt?
-News Contact Search for: Search Governor Pataki endorses Matt Simpson news October 28, 2020 0 60 Search for: Search Search Search for: Search I’m honored to receive an endorsement from Governor Pataki.
+News Contact Search for: Search Governor Pataki endorses Matt Simpson news October 28, 2020 0 62 Search for: Search Search Search for: Search I’m honored to receive an endorsement from Governor Pataki.
 “Matt Simpson is going to be a terrific Assemblyman and I am proud to endorse him.
 Matt has lived in our district all his life and he knows our challenges.
 He’s a self-made guy who built a successful small business and raised his family here.

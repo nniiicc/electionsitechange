@@ -1,10 +1,42 @@
 [
-"https://https://www.facebook.com/Senatorkevincorbin",
-"https://kevincorbin.com/",
-"https://kevincorbin.com/contact",
-"https://kevincorbin.com/donate",
-"https://kevincorbin.com/endorsements",
-"https://kevincorbin.com/in-the-news",
-"https://kevincorbin.com/photo-gallery",
-"https://sitedartstudio.com/"
+{
+"text": "Contact",
+"href": "https://kevincorbin.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://kevincorbin.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://kevincorbin.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://kevincorbin.com/"
+},
+{
+"text": "In The News",
+"href": "https://kevincorbin.com/in-the-news/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://kevincorbin.com/photo-gallery/"
+},
+{
+"text": "SiteDart Studio",
+"href": "https://sitedartstudio.com/"
+},
+{
+"text": "[image]",
+"href": "https://https://www.facebook.com/Senatorkevincorbin/"
+},
+{
+"text": "[image]",
+"href": "https://kevincorbin.com/"
+},
+{
+"text": "[image]",
+"href": "https://kevincorbin.com/contact/"
+}
 ]

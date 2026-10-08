@@ -6,7 +6,7 @@ I am a survivor of domestic violence.
 I know what it means to live with fear and uncertainty, and I know that leaving doesn't mean the fear ends.
 I also know how important it is for survivors to be believed, supported, and protected.
 Domestic violence can affect anyone, regardless of gender, age, or background.
-When a gun is present, it can turn a dangerous situation into a deadly one Tiffani McGinnis #ago 1 min read Campaign Update: My Lawn Signs are In!
+When a gun is present, it can turn a dangerous situation into a deadly one Tiffani McGinnis Oct 1 1 min read Campaign Update: My Lawn Signs are In!
 My lawn signs are here!
 To request one, you can message me or use the link here: https://www.tiffaniforwesthartford.com/get-involved Tiffani McGinnis Sep 15 1 min read Rally Remarks: Supporting West Hartford's Nepalese Community West Hartford stands with the Nepalese community as they grapple with the heartbreaking devastation in Nepal.
 It was an honor to offer brief remarks on behalf of the town council.

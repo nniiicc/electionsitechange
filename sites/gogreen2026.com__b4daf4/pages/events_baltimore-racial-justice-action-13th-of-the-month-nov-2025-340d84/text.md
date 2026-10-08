@@ -3,7 +3,7 @@ Our wide-ranging conversation identified some crucial areas of concern: building
 Join us this month as we transition from looking forward to exploring and refining how we can move forward collectively.
 BRJA moderator Julia Scott will be joined by panelists Dottye Burt Markowitz, Andy Ellis, and Lawrence Grandpre.
 This is a 13th event you won’t want to miss!
-RSVP Previous Previous November 12 GoGreen 2026 Live Stream launch Next Next January 21 Campaign Happy Hour Like what you see?
+RSVP Like what you see?
 Join the movement.
 DONATE volunteer Green Party Candidates for Governor & Lt.
 Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

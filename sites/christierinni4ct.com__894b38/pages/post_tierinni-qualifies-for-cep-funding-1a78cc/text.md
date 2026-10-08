@@ -1,6 +1,6 @@
 top of page Home About News Get Involved Contact More...
 Use tab to navigate through the menu items.
-All Posts Search Tierinni qualifies for CEP funding #ago 2 min read East Hartford Gazette, dated 9.24.2026 Endorsed 10th Assembly District Republican candidate Chris Tierinni qualified for funding through the state Citizens’ Election Program (CEP).
+All Posts Search Tierinni qualifies for CEP funding Sep 30 2 min read East Hartford Gazette, dated 9.24.2026 Endorsed 10th Assembly District Republican candidate Chris Tierinni qualified for funding through the state Citizens’ Election Program (CEP).
 Candidates for state representative accomplish this by raising $6,700 with at least 150 coming from individuals in the district.
 Tierinni said qualifying for public funding marks a major milestone in his campaign, and credits residents who contributed.
 “This campaign has always been about the people of East Hartford,” Tierinni said.

@@ -58,4 +58,4 @@ Most of this costs nothing — it’s a government that answers the phone and a 
 Let’s give the people who feed this country a system that works.
 All Policies Next Policy Return to Top SOURCES H-2A Adverse Effect Wage Rate methodology changed under a Department of Labor rule, with California rates published August 3, 2026 and the field and livestock rate set at the state minimum wage: U.S.
 Department of Labor — Adverse Effect Wage Rates · Western Growers Association — New H-2A Wage Rates Effective August 3 Estimated effect of the rule change on California H-2A wage costs: Giannini Foundation of Agricultural Economics — H-2A Changes Could Reduce H-2A Wages by $100 Million in 2026 · Agri-Pulse — H-2A wage rule could save California growers $100M Background on H-2A program requirements and the effect of the rule change on the program: California Farm Bureau Ag Alert — H-2A rule change puts spotlight on work visa program Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

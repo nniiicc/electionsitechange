@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid As an Independent (NPA), my strategy positions ME as the "Adult in the Room"—the only candidate capable of fixing Social Security because I am not beholden to the donor classes of either party.
 Social Security The Varian Plan: Protecting the Promise I.
 The Crisis of Inaction For decades, Washington has treated Social Security as a political football.

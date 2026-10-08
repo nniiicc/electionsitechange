@@ -1,7 +1,7 @@
 Kennebunkport, ME (207) 604-3491 Donate Home About Events Issues Join Us Contact 7 events found.
 Event Events Event Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List #ago 12/20/2019 December 20, 2019 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List #ago 12/20/2019 December 20, 2019 - 10/8/2026 Now Select date.
 December 2019 Fri 20 December 20, 2019 Meeting with Medical Workers Central Park 888 Broadway, New York, United States Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Phasellus sagittis semper tortor.
 Quisque non felis elementum augue ullamcorper laoreet.

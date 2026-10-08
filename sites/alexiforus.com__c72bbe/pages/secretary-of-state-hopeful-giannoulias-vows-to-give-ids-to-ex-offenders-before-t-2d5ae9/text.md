@@ -7,11 +7,5 @@ Senate candidate also plans to eliminate the short-term correctional release car
 Other states — such as Florida, Oklahoma and Missouri — have already streamlined the process for IDs for people awaiting release from prison, according to a news release announcing Giannoulias’ policy proposal.
 Former Gov.
 Bruce Rauner signed legislation into law in late 2016 meant to make it easier for people leaving prisons to get a state identification card, but that process can be harder for those who don’t have access to the required birth certificate or Social Security card.
-Continue Reading at Chicago Sun Times Related Posts Alexi Giannoulias backed by retiring U.S.
-Rep.
-Bobby Rush and supporters of Ald.
-Pat Dowell in bid for secretary of state SPRINGFIELD — Days after announcing he will step down from his congressional seat, veteran U.S.
-Rep.
-Bobby Rush announced Friday he will endorse Alexi Giannoulias Keep Reading → Legislation aims to deter book bans at public libraries by withholding grants Legislation aimed at discouraging public libraries from banning books has been introduced in the Democratic-controlled Illinois General Assembly amid largely partisan battles around the country over what books and school curricula are suitable for children.
-Keep Reading → Voting Rights Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Continue Reading at Chicago Sun Times Related Posts #MemorialDay2021 On #MemorialDay2021 let’s honor our brothers and sisters who made the ultimate sacrifice for us all – honor them by committing to protect the democracy Keep Reading → Teen voter registration surges after Illinois’ pre-registration law took effect Marking National Teen Voter Registration Day, Illinois Secretary of State Alexi Giannoulias reported that nearly 50,000 16- and 17-year-olds have taken advantage of a new Keep Reading → Secretary of State Giannoulias reveals rejected vanity plates in 2022 Small percentage prohibited for violating the state’s vehicle code Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

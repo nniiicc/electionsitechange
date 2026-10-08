@@ -7,4 +7,4 @@ Read More David Tierney 6/12/26 David Tierney 6/12/26 Eric Jones Advances to Nov
 The stunning early support underscores the political energy behind Jones’s insurgent candidacy and his message of putting working families ahead of Washington insiders.
 Read More Brian Parvizshahi 9/9/25 Brian Parvizshahi 9/9/25 Eric Jones Launches Congressional Campaign in California’s 4th District Eric Jones, a business leader and community patron who has driven the creation of tens of thousands of jobs in the great state of California, announced his campaign for Congress in California’s 4th Congressional District.
 Read More Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

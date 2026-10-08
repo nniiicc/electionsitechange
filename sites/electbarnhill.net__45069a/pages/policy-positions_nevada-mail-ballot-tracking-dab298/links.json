@@ -64,12 +64,20 @@
 "href": "https://electbarnhill.net/events/"
 },
 {
+"text": "Get to know me",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
 "text": "Home",
 "href": "https://electbarnhill.net/"
 },
 {
 "text": "Independent",
 "href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Join the campaign",
+"href": "https://electbarnhill.net/get-involved/"
 },
 {
 "text": "MyBallot.NV.gov",
@@ -110,6 +118,10 @@
 {
 "text": "Secretary of State’s voter search",
 "href": "https://www.nvsos.gov/votersearch/"
+},
+{
+"text": "See all policy positions",
+"href": "https://electbarnhill.net/policy-positions/"
 },
 {
 "text": "VOTE.NV.gov",
@@ -200,16 +212,8 @@
 "href": "https://electbarnhill.net/author/electbarnhill/"
 },
 {
-"text": "get to know me",
-"href": "https://electbarnhill.net/about/about-brad/"
-},
-{
 "text": "how to check your Nevada voter registration",
 "href": "https://electbarnhill.net/commentary/how-to-check-nevada-voter-registration/"
-},
-{
-"text": "join the campaign",
-"href": "https://electbarnhill.net/get-involved/"
 },
 {
 "text": "my 20/20 plan",

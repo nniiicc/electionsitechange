@@ -1,6 +1,0 @@
-top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
-DONATE < Back Andrew Sneed: Why Democrats Must Re-Earn Trust to Beat Dale Strong | AL District 5 Congressional candidate Andrew Sneed joins Alabama Politics This Week to break down his runoff campaign and his vision for flipping Alabama's 5th District.
-Alabama Politics This Week Josh Moon & David Person May 30, 2026 Previous Next Congressional candidate Andrew Sneed joins Alabama Politics This Week to break down his runoff campaign and his vision for flipping Alabama's 5th District.
-He explains his "Balance and Accountability" pledge for government reform—including term limits and a Supreme Court ethics code—and argues that Democrats have the right policies but the wrong disposition.
-Sneed also makes a case for forgotten Alabama farmers crushed by tariffs and a representative who, he says, has stopped listening to the district.
-Previous Next Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

@@ -1,9 +1,8 @@
-INVERNESS, FL – Successful job-creating businessman and longtime Citrus County resident and community leader JJ Grow announced today that he is seeking the Republican nomination for the Florida State House of Representatives’ District 23 seat.
+Home About Platform ISSUES News Endorsements Volunteer Donate Menu Menu News INVERNESS, FL – Successful job-creating businessman and longtime Citrus County resident and community leader JJ Grow announced today that he is seeking the Republican nomination for the Florida State House of Representatives’ District 23 seat.
 Grow made the announcement in a two-minute video shared on his campaign website and Facebook page.
 In the video, the Inverness businessman, who has 30 years of leadership experience with privately-held and publicly-traded companies, details his commitment to conservative principles, including fiscal responsibility, support for small business, and his unwavering support for law enforcement.
 Grow also highlighted how his work ethic and passion to give back to the community were learned at a young age from his mother and will be utilized in his service as the next State Representative for District 23.
-The announcement video can be viewed at:
-A graduate of Citrus High School, where he served as Student Government President, President of the Citrus FFA Chapter and participated in multiple sports and clubs – Grow went on to serve as a State FFA officer while interning with the Florida Department of Agriculture.
+The announcement video can be viewed at: A graduate of Citrus High School, where he served as Student Government President, President of the Citrus FFA Chapter and participated in multiple sports and clubs – Grow went on to serve as a State FFA officer while interning with the Florida Department of Agriculture.
 Grow continued his education at the University of Florida, from which he earned a degree in Food and Resource Economics, before completing programs at both the Wharton Business School and Northwestern’s Kellogg Business School.
 Following years in management positions for several large agricultural businesses, Grow founded his first company in 2003, Gro-Pro, creating jobs and opportunities in Florida and ultimately across the United States.
 He later founded Grow-land LLC and co-founded Verdesian Life Sciences and Riley Farms Solar.
@@ -12,4 +11,4 @@ Grow and his wife Jennifer are longtime supporters of Citrus County Blessings, C
 A pro-life Christian, Grow is the father of four daughters.
 A full biography of Grow can be found at: www.votejjgrow.com/about.
 The Republican Primary for the seat is set for Tuesday, August 20, 2024.
-# # #
+# # # Donate Now Home About Platform News Volunteer Endorsements Political Advertisement Paid for and Approved by JJ Grow, Republican for State Representative, District 23 Link to Facebook Link to Youtube Privacy Policy Link to: JJ Grow Secures Ballot Placement, Launches First Ad in House Race JJ Grow Secures Ballot Placement, Launches First Ad in House Race Scroll to top Scroll to top

@@ -1,4 +1,4 @@
-top of page Home Platform About Vince Volunteer Get Emails & Texts Donate More Use tab to navigate through the menu items.
+top of page Home Platform About Vince Volunteer Get Emails & Texts Donate Home Platform About Vince Volunteer Get Emails & Texts Donate More Use tab to navigate through the menu items.
 “The more hands you shake, the more people you’ve got on your side.” Vince George VOLUNTEER Fill out the form below and we'll get in touch with ways to volunteer on the campaign trail.
 STAY IN THE KNOW Follow Vince George for Congress on social media.
 DONATE Support the campaign.

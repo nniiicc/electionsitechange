@@ -1,4 +1,4 @@
-0 Skip to Content Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Back to All Events Sunnyside Community Canvass Sunday, July 19, 2026 5:00 PM 8:00 PM Central Park 327 East Edison Avenue Sunnyside, Washington, 98944 United States (map) Google Calendar ICS We need all hands on deck!
+0 Skip to Content Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Back to All Events Sunnyside Community Canvass Sunday, July 19, 2026 5:00 PM 8:00 PM Central Park 327 East Edison Avenue Sunnyside, Washington, 98944 United States (map) Google Calendar ICS We need all hands on deck!
 Join us for one or more date to knock doors, talk to community, and build more support for our campaign!
 Don't have experience?
 No worries!

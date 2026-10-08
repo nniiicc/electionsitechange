@@ -25,11 +25,10 @@ It’s time to take our streets back from the opioid crisis destroying Wisconsin
 Read more Fixing Our Crime Labs When crime labs fail, justice fails.
 I’ll clean up the mess—modernize our labs, end the backlog, and hold leadership accountable.
 Victims deserve answers, not excuses, and I’ll make sure our system delivers real results.
-Read more Donate Today to Restore Justice! $25 $100 $250 $1000 Other Latest News In first days of Attorney General campaign, Eric Toney visits St.
+Read more Donate Today to Restore Justice! $25 $100 $250 $1000 Other Latest News Eric Toney Calls for Expanded Victims Services at WI DOJ November 25, 2025 FOND DU LAC, WI – Fond du Lac County District Attorney Eric Toney… Read more : Eric Toney Calls for Expanded Victims Services at WI DOJ Key Law Enforcement Association Backs Eric Toney for Attorney General November 12, 2025 Fond du Lac, Wis. — Today, Fond du Lac County District Attorney… Read more : Key Law Enforcement Association Backs Eric Toney for Attorney General In first days of Attorney General campaign, Eric Toney visits St.
 Croix County October 27, 2025 Fond du Lac County District Attorney Eric Toney visited the St.
 Croix… Read more : In first days of Attorney General campaign, Eric Toney visits St.
-Croix County Eric Toney brings Attorney General campaign to Monroe county October 21, 2025 SPARTA, Wis.
-(WXOW) – Fond du Lac County District Attorney Eric Toney is… Read more : Eric Toney brings Attorney General campaign to Monroe county Eric Toney Announces Campaign for Wisconsin Attorney General October 21, 2025 “Enough with Broken Promises, it’s time to Bring Conservative, Common-Sense Leadership to… Read more : Eric Toney Announces Campaign for Wisconsin Attorney General 1 … 6 7 8 9 10 GET IN TOUCH First Name * Last Name * Phone Email * Message Consent By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Toney for Attorney General.
+Croix County 1 … 6 7 8 9 10 11 GET IN TOUCH First Name * Last Name * Phone Email * Message Consent By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Toney for Attorney General.
 Donations may be solicited.
 Msg frequency varies.
 Msg & data rates may apply.

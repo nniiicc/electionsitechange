@@ -1,6 +1,6 @@
 Skip to content Home Bio Issues News Volunteer Donate Contact Search for: Search Donate Today Skip to content Home Bio At A Glance Issues News Volunteer Donate Contact Unsubscribe Subscription Options Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Email * Phone Number * Campaign Emails * Opt Out Opt In Phone Phone Campaign Campaign Text Messages * Opt Out Opt In Campaign Phone Calls * Opt Out Opt In Submit Comments are closed.
+Email * Phone Number * Text Messages Email Campaign Emails * Opt Out Opt In Campaign Text Messages * Opt Out Opt In Campaign Phone Calls * Opt Out Opt In Submit Comments are closed.
 Vote for Judge Blair Downing Edwards in the Republican Primary Election on Saturday, May 16, 2026.
 Polls open at 7:00 a.m. and close at 8:00 p.m.
 Early voting is from May 2 through May 9 (excluding Sunday, May 3) from 8:30 a.m. – 6 p.m.

@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 ABOUT SENATOR PAUL BAILEY Paul Bailey is a lifelong resident of the Upper Cumberland.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 ABOUT SENATOR PAUL BAILEY Paul Bailey is a lifelong resident of the Upper Cumberland.
 Today, he and wife Amy reside on their White County farm with their son, Caleb, who is also a student at Rhodes College. ​ Paul was a senior at Tennessee Tech when his father Charles approached and persuaded him to join a new trucking business.
 From meager beginnings, borrowing money against two used trucks, they built what today is a thriving family business, CB Trucking, employing 100 people.
 Yet today, with Paul serving as General Manager, CB Trucking remains a family enterprise.

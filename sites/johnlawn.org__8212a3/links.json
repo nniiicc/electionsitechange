@@ -1,11 +1,11 @@
 [
 {
 "text": "Create account",
-"href": "https://accounts.google.com/lifecycle/flows/signup?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&dsh=S556442196%3A1791369643524081&flowEntry=SignUp&flowName=GlifWebSignIn&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&osid=1&service=wise"
+"href": "https://accounts.google.com/lifecycle/flows/signup?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&dsh=S-300509635%3A1791455486010209&flowEntry=SignUp&flowName=GlifWebSignIn&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&osid=1&service=wise"
 },
 {
 "text": "Forgot email?",
-"href": "https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&dsh=S556442196%3A1791369643524081&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&osid=1&service=wise"
+"href": "https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&dsh=S-300509635%3A1791455486010209&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&osid=1&service=wise"
 },
 {
 "text": "Learn more about using Guest mode",

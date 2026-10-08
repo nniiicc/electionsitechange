@@ -1,5 +1,4 @@
-It Takes Teamwork
-Updated: Sep 19
+top of page Home About Me Testimonials Blog Donate Contact It Takes Teamwork Anthony Kathol Sep 18 2 min read Updated: Sep 19 Rated NaN out of 5 stars.
 Last night, I watched the Bennett County Lady Warriors varsity volleyball team take on the talented Class A St.
 Thomas More Lady Cavaliers at the Warrior Center in Martin.
 The game was a thrill to watch.
@@ -31,3 +30,9 @@ Perhaps even work at the polls on Election Day to help make sure the election is
 There are many ways you can support my campaign, including offering your prayers for the success of my campaign.
 Just like our Lady Warriors, who defeated the Lady Cavaliers through a true team effort, I need a team that will get me across the finish line.
 Can I count on your support?
+Tags: Kathol for District 27 State Senate Kathol4D27 #votered Bennett County School District Teamwork Lady Warrior Volleyball Recent Posts See All Getting the "Ball" across the end zone for a Victory in November A Lesson From Repairing A Campaign Sign The Joys of Small-town Living Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
+EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
+Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).
+Use of his rank, job titles, and photographs in uniform does not imply endorsement by the USPHS or the U.S.
+Department of Health and Human Services. ​ ​ Paid for by Kathol for District 27 Campaign Committee ©# by Anthony Kathol For South Dakota District 27 State Senate.
+Powered by GoZoek.com bottom of page

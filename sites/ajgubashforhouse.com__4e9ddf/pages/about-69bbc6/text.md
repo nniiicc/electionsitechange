@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Contact Open Menu Close Menu Open Menu Close Menu Home About Issues Contact Home About Issues Contact DONATE Rooted in Inver Grove Heights Born and raised in Minnesota, Andrew “AJ” Gubash grew up in Inver Grove Heights and is proud to call it home.
+0 Skip to Content Home About Issues Speech Contact Open Menu Close Menu Open Menu Close Menu Home About Issues Speech Contact Home About Issues Speech Contact DONATE Rooted in Inver Grove Heights Born and raised in Minnesota, Andrew “AJ” Gubash grew up in Inver Grove Heights and is proud to call it home.
 After serving overseas, he returned home and purchased a house in Inver Grove Heights, where he plans to build his future and continue serving the community that raised him.
 AJ was raised in a family that valued service, responsibility, and community.
 His father served as a police officer in West St.

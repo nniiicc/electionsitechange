@@ -9,7 +9,7 @@ Keeping our communities safe shouldn’t be a partisan issue.
 As your state senator, I’ll be a strong advocate for reasonable gun safety laws and a committed partner to law enforcement and community leaders.
 I’ll work to build on Connecticut’s progress and make sure our laws keep pace with changing times.
 Because protecting our children, our families, and our communities is among government’s most important responsibilities. ← Our first ad “The Race” is running!
-Strong Schools Require More Than Good Intentions → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
+Strong Schools Require More Than Good Intentions → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts Joe Kelly gets the math wrong We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
 We should have theirs.
-A little more about me A common-sense approach is why Jill Oberlander has earned my vote for State Senator CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+A little more about me CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

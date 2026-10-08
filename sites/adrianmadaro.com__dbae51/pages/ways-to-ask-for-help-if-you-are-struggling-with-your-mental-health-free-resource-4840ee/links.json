@@ -1,27 +1,122 @@
 [
-"http://aaspe.net/",
-"http://leahjeanphoto.com/",
-"https://adolescentselfinjuryfoundation.com/things-to-do-besides-self-harm",
-"https://adrianmadaro.com/",
-"https://adrianmadaro.com/category/education",
-"https://adrianmadaro.com/category/equality",
-"https://adrianmadaro.com/category/general",
-"https://adrianmadaro.com/category/mental-health",
-"https://adrianmadaro.com/category/resources",
-"https://adrianmadaro.com/contact",
-"https://adrianmadaro.com/get-involved",
-"https://adrianmadaro.com/meet-adrian",
-"https://adrianmadaro.com/news-events",
-"https://adrianmadaro.com/resources",
-"https://calmharm.co.uk/",
-"https://crisistextline.org/text-us",
-"https://facebook.com/adrianforrep",
-"https://goingclear.com/",
-"https://instagram.com/adrianmadaro",
-"https://mentalhealthfirstaid.org/2019/09/how-to-ask-an-adult-for-help",
-"https://notokapp.com/",
-"https://secure.actblue.com/donate/adrianmadaro",
-"https://suicideinfo.ca/ask-help-feeling-suicidal",
-"https://suicidepreventionlifeline.org/",
-"https://twitter.com/adrianmadaro"
+{
+"text": "Asian LifeNet Hotline",
+"href": "http://aaspe.net/"
+},
+{
+"text": "Boston Web Design",
+"href": "https://goingclear.com"
+},
+{
+"text": "Calm Harm",
+"href": "https://calmharm.co.uk/"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianmadaro.com/contact/"
+},
+{
+"text": "Crisis Text Line",
+"href": "https://www.crisistextline.org/text-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Donate Give. If you can.",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Education",
+"href": "https://www.adrianmadaro.com/category/education/"
+},
+{
+"text": "Equality",
+"href": "https://www.adrianmadaro.com/category/equality/"
+},
+{
+"text": "Follow us on Instagram",
+"href": "https://www.instagram.com/adrianmadaro/"
+},
+{
+"text": "Follow us on Twitter",
+"href": "https://twitter.com/adrianmadaro"
+},
+{
+"text": "General",
+"href": "https://www.adrianmadaro.com/category/general/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Get Involved We’d Love to Have your Support.",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "Latest News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Leah Jean Photography",
+"href": "http://leahjeanphoto.com/"
+},
+{
+"text": "Like us on Facebook",
+"href": "https://www.facebook.com/adrianforrep/"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianmadaro.com/meet-adrian/"
+},
+{
+"text": "Mental Health",
+"href": "https://www.adrianmadaro.com/category/mental-health/"
+},
+{
+"text": "News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Not OK App",
+"href": "https://www.notokapp.com/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/category/resources/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/resources/"
+},
+{
+"text": "The National Suicide Prevention Hotline",
+"href": "https://suicidepreventionlifeline.org/"
+},
+{
+"text": "Things you can do instead of self-harming.",
+"href": "https://www.adolescentselfinjuryfoundation.com/things-to-do-besides-self-harm"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "here",
+"href": "https://www.suicideinfo.ca/ask-help-feeling-suicidal/"
+},
+{
+"text": "how and when to ask for help",
+"href": "https://www.mentalhealthfirstaid.org/2019/09/how-to-ask-an-adult-for-help/"
+}
 ]

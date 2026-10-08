@@ -1,5 +1,4 @@
-Meet Nadia
-Nadia Milleron is an independent mother, farmer, attorney, and successful advocate who will fight for you.
+Skip to content 413-377-6223 Campaign Headquarters 24 I sland Pond Rd, Springfield Main Menu Home Meet Nadia Policies Main Menu How to Vote Volunteer Donate Donate Volunteer Main Menu Home Meet Nadia Policies How to Vote Volunteer Donate Meet Nadia Nadia Milleron is an independent mother, farmer, attorney, and successful advocate who will fight for you.
 In 2019, Nadia’s daughter was a passenger on a Boeing 737 MAX that crashed in Ethiopia killing all on board.
 After 2 deadly crashes, instead of taking Boeing’s and the FAA’s word that nothing was wrong and a crash would not happen again, Nadia got involved to hold all involved groups accountable.
 Nadia went to Washington and helped lead the unanimous passage of the national bi-partisan Aircraft Certification, Safety, and Accountability Act in 2020 which directed US aircraft and aerospace industry manufacturers to adopt, enforce, and regulate compliance procedures to ensure planes met the proper criteria and specifications before they are commissioned for use.
@@ -21,3 +20,4 @@ She and her husband, Michael, have raised 4 children.
 Active in the local Rotary Club, Nadia was in charge of the youth exchange program.
 In addition to finding host families for exchange students in Massachusetts to go abroad, Nadia’s family hosted numerous students to teach them about American culture, farming, and expand their education.
 Being fluent in Spanish, she was the lead communicator for the program with South American schools and inbound coordinators.
+Facebook X-twitter Instagram Apple Paid for by Nadia for Congress Privacy Policy

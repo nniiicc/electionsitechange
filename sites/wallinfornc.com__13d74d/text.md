@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Volunteer Donate Home About Priorities Volunteer Donate Menu Charlie Wallin, a proven leader and advocate for the high country.
+Skip to content Home About Priorities Volunteer Vote Donate Home About Priorities Volunteer Vote Donate Menu Charlie Wallin, a proven leader and advocate for the high country.
 I am proud to announce my candidacy for NC House District 93.
 We are seeing a shift in North Carolina as constituents are becoming fed up with “politics as usual.” I want to bring a fresh new energy and new ideas that people are asking for.
 Our current Representatives are no longer in touch with what the people of Western North Carolina are asking for.

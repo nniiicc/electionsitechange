@@ -42,7 +42,8 @@ Because if we don’t shape the future of this region, someone else will.
 Previous PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
 Next NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-You Might Also Like Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics Why Is Southern Ontario Doing Better Than Western New York?
-PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Volunteer and Sign Up for Updates!
+You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+IS NATE A RADICAL COMMUNIST?
+HARDLY LET’S GO THROUGH THE ISSUES.
+Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Volunteer and Sign Up for Updates!

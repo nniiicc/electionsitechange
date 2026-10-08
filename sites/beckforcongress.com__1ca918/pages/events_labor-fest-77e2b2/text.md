@@ -2,4 +2,4 @@
 Maier Festival Grounds.
 This is an all ages free event that will feature special children’s activities, a raffle for children, the splash pad and fountain, the wonderful renovated playground, and more.
 For adults there will be an array of food and beverages, adult bingo, wrestling, a classic car show, and live musical entertainment on the Molson Coors Beverage Company stage.
-Previous Previous September 2 Monthly Meeting Dodge County Dems Next Next September 8 Muskego Action Team DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress
+DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

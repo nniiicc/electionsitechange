@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 3/21/2026 Capitol Hill Update 3/21/2026 To the Citizens of Tennessee Senate District 15 Friends, As we move closer to the end of session, things are picking up quickly at the Capitol.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 3/21/2026 Capitol Hill Update 3/21/2026 To the Citizens of Tennessee Senate District 15 Friends, As we move closer to the end of session, things are picking up quickly at the Capitol.
 This week, I was proud to see two pieces of legislation I sponsored move forward – both focused on protecting Tennesseans and reinforcing common-sense principles.
 Protecting Foster Families’ Second Amendment Rights The Senate passed legislation I sponsored to ensure foster parents are not forced to give up their constitutional rights when they open their homes to a child.
 This bill makes it clear: law-abiding foster families should not face unnecessary government intrusion over legally owned firearms.

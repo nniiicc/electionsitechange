@@ -1,10 +1,42 @@
 [
-"https://facebook.com/profile.php?id=100079239288881",
-"https://harderforhouse.com/",
-"https://harderforhouse.com/about",
-"https://harderforhouse.com/contact",
-"https://harderforhouse.com/copy-of-stand-on-issues",
-"https://harderforhouse.com/donate",
-"https://harderforhouse.com/stand-on-issues",
-"https://harderforhouse.com/volunteer"
+{
+"text": "ABOUT",
+"href": "https://www.harderforhouse.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.harderforhouse.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.harderforhouse.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.harderforhouse.com/copy-of-stand-on-issues"
+},
+{
+"text": "GALLERY",
+"href": "https://www.harderforhouse.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.harderforhouse.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.harderforhouse.com/stand-on-issues"
+},
+{
+"text": "ISSUES IMPORTANT TO OUR DISTRICT",
+"href": "https://www.harderforhouse.com/stand-on-issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100079239288881"
+},
+{
+"text": "harderforhouse@gmail.com",
+"href": "mailto:harderforhouse@gmail.com?subject=Working+HARDER+for+the+residents+of+District+17B"
+}
 ]

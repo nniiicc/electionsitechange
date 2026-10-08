@@ -6,4 +6,4 @@ Support the Campaign Join The Sanity Campaign No Widgets found in the Sidebar Al
 Join The Sanity Campaign If your interests include: Nextcloud administration OSINT, particularly media Writing or calling voters Local activities please contact us!
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Name Message or Comment or Message Submit Ashe Theme by WP Royal .
+Comment Email Name Name * First Last Email * Comment or Message Submit Ashe Theme by WP Royal .

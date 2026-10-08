@@ -1,5 +1,6 @@
-Legislative Recap: Protecting Tennessee's Most Vulnerable Children
-Government has a duty to defend the most vulnerable among us.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES All Posts Search Legislative Recap: Protecting Tennessee's Most Vulnerable Children Team Reneau Jun 14 2 min read Government has a duty to defend the most vulnerable among us.
 There is no group more vulnerable than children.
 This session, we extended that duty in real and concrete ways.
 The Tennessee Anti-Grooming Act, HB 2317, establishes a criminal offense for engaging in the preparatory stages of sexual misconduct with children.
@@ -25,3 +26,5 @@ When they are held accountable in court, those resources should go directly back
 We also passed HB 1723 to develop guardrails for minor content creators, HB 1844 to expand Tennessee's Safe Haven law to include ambulance stations, and provided $34.5 million to the Department of Children's Services to reduce caseload ratios.
 Tennessee’s children deserve more than sympathy after harm is done.
 They deserve laws that help prevent abuse, hold predators accountable, and protect them in the real world and online.
+Recent Posts See All Citizen's Voices: A Digital Collection of Community Op-Eds Legislative Recap: Investments in Rural Tennessee and Hamilton County Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

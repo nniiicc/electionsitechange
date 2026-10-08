@@ -1,6 +1,3 @@
-Learn more about Rachael’s campaign and its progress here:
-- Representative Dave Murphy Endorses Rachael for State Senate | April 11, 2022
-- Rachael Cabral-Guevara announces Run for 19th State Senate District | March 17, 2022
-- FVI’s Ed Perkins Endorses Rachael Cabral-Guevara For 55th AD | July 13, 2020
-- Rachael Cabral-Guevara Endorsed by WRTL | July 1, 2020
-- Republican Rachael Cabral Guevara announces campaign for 55th Assembly District seat | The Post Crescent | February 12, 2020
+Skip to content Menu Home About News Endorsements Policy Priorities Absentee Information Donate Contact Paid for by Friends of Rachael Cabral-Guevara Rachael for Wisconsin 19th State Senate District Donate Now News Learn more about Rachael’s campaign and its progress here: Representative Dave Murphy Endorses Rachael for State Senate | April 11, 2022 Rachael Cabral-Guevara announces Run for 19th State Senate District | March 17, 2022 FVI’s Ed Perkins Endorses Rachael Cabral-Guevara For 55th AD | July 13, 2020 Rachael Cabral-Guevara Endorsed by WRTL | July 1, 2020 Republican Rachael Cabral Guevara announces campaign for 55th Assembly District seat | The Post Crescent | February 12, 2020 Get Informed Learn more about Rachael's policies here, and be ready to vote on or before November 3rd.
+View Policies © Paid for by Friends of Rachael Cabral-Guevara 2026.
+Powered by WordPress

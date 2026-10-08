@@ -1,9 +1,5 @@
 [
 {
-"text": "#YourIndependentVoice",
-"href": "https://x.com/electbarnhill"
-},
-{
 "text": "702-613-2576",
 "href": "tel:%20702-613-2576"
 },
@@ -36,10 +32,6 @@
 "href": "https://electbarnhill.net/blog-with-left-sidebar/"
 },
 {
-"text": "Brad Lee Barnhill’s background and experience",
-"href": "https://electbarnhill.net/about/about-brad/"
-},
-{
 "text": "Commentary",
 "href": "http://electbarnhill.net/commentary/feed"
 },
@@ -68,6 +60,10 @@
 "href": "https://electbarnhill.net/events/"
 },
 {
+"text": "Get to know me",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
 "text": "Home",
 "href": "https://electbarnhill.net/"
 },
@@ -80,7 +76,7 @@
 "href": "https://electbarnhill.net/promise-kept/"
 },
 {
-"text": "Join the Campaign",
+"text": "Join the campaign",
 "href": "https://electbarnhill.net/get-involved/"
 },
 {
@@ -122,6 +118,10 @@
 {
 "text": "Question 7 Nevada Voter ID: What Comes Next - Nevadans for Barnhill",
 "href": "https://electbarnhill.net/uncategorized/question-7-nevada-voter-id/"
+},
+{
+"text": "See all policy positions",
+"href": "https://electbarnhill.net/policy-positions/"
 },
 {
 "text": "Service Is Complete. Here’s What Comes Next in Barnhill v. Aguilar. - Nevadans for Barnhill",
@@ -205,10 +205,6 @@
 },
 {
 "text": "my full platform",
-"href": "https://electbarnhill.net/policy-positions/"
-},
-{
-"text": "policy position outlines",
 "href": "https://electbarnhill.net/policy-positions/"
 },
 {

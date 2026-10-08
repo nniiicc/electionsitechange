@@ -1,4 +1,6 @@
-Skip navigation menu About Donate About Donate Andrea Bond Johnson: A Voice for District 80 Andrea Bond Johnson is a lifelong advocate, community leader, business owner, wife, mother, and public servant who believes government should work for the people it serves.
+Skip navigation menu About Vote!
+Donate About Vote!
+Donate Andrea Bond Johnson: A Voice for District 80 Andrea Bond Johnson is a lifelong advocate, community leader, business owner, wife, mother, and public servant who believes government should work for the people it serves.
 As a candidate for the Tennessee House of Representatives, District 80, Andrea is running to bring practical leadership, accountability, and a strong commitment to the families, workers, seniors, farmers, educators, and small businesses that make our communities strong.
 A Life Built on Tennessee Values Born and raised with the values of faith, hard work, and service, Andrea has spent her life helping others solve problems and build opportunities.
 As the owner of a successful insurance agency, she understands the challenges families and businesses face every day—from rising costs and access to healthcare to economic uncertainty and the need for quality education.

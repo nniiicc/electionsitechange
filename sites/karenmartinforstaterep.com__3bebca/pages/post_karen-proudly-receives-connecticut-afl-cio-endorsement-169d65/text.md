@@ -5,7 +5,7 @@ Subscribe Log In Karen Martin For State Representative All Articles Search Karen
 As a longtime East Haven resident, healthcare professional, and Town Councilor, she understands the challenges working families face every day — and she is ready to bring honest leadership and real results to Hartford.
 “Working people are the backbone of our communities,” Karen added.
 “I will always stand with labor and fight for policies that strengthen East Haven families and create opportunities for future generations.” Thank you to the Connecticut AFL-CIO for your endorsement and support!
-Recent Posts See All Join us on Wednesdays...Notes for Votes!
+Recent Posts See All Karen Receives CT Against Gun Violence Endorsement!
+Join us on Wednesdays...Notes for Votes!
 Rescheduled Grand Opening - East Haven DTC Headquarters!
-Karen Receives Endorsement From AFSCME Council 4!
 Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page

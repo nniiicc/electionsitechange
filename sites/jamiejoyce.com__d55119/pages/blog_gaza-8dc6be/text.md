@@ -105,7 +105,7 @@ And I am disgusted by any member of Congress who takes money from Israel-aligned
 Despite the incumbent raising so much more money than I have, I would rather lose this election than take blood money.
 If Israel wanted to improve its image and relationship to the United States in earnest, it should invest this money in good causes, in charity, in food for Gaza - not in trying to control seats in Congress.
 I don’t know if it’s pernicious paranoia on the part of Israel out of self-defense or what, but I do know that Palestine should be free.
-Yours in service, Jamie Jamie Joyce Previous Previous The Incumbent Refused to Debate Me Four Times In the News We can’t let a “blue wave” become “business as usual” Jamie is running to represent Berkeley, Oakland, Alameda, Albany, Emeryville, San Leandro, and Piedmont Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for.
+Yours in service, Jamie Jamie Joyce In the News We can’t let a “blue wave” become “business as usual” Jamie is running to represent Berkeley, Oakland, Alameda, Albany, Emeryville, San Leandro, and Piedmont Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for.
 In tests we performed, they bias towards incumbents.
 They were not trained to be nuanced about political matters, accept surface-level claims, and it’s highly unethical that they would even suggest an opinion.
 LLMs focus on items like voting record, when a challenger who is not an incumbent has no opportunity to demonstrate one.

@@ -17,4 +17,4 @@ These aren’t Democratic or Republican values.
 They are the values of CA-04.” Jones is a self-made businessman and nonprofit executive who grew up in an enlisted military family and is raising his own family in this district.
 Video of Ray Riehle's endorsement is available at caagainstdemestablishment.us .
 ### David Tierney Previous Previous Eric Jones Accepts KCRA Debate Invitation, Calls on Thompson to Do the Same Next Next Eric Jones Challenges Mike Thompson to Debate in All Nine Counties of the District Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

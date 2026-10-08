@@ -3,7 +3,7 @@ How can you help?
 There are many ways you can contribute to Dan’s campaign.
 Fundraise, host an event, contact voters, place a yard sign, and more!
 Newsletter If you would like to receive periodic updates about Dan's work at the Capitol, please provide your contact information to receive them directly in your inbox.
-Donate Telephone Town Hall Meeting (TTHM) Text Opt-In By providing my mobile number I consent to receive informational text messages from Woog for House District 19.
+Donate Dan Woog for House District 19 Text Opt-In By providing my mobile number I consent to receive informational text messages from Woog for House District 19.
 Message frequency may vary.
 Msg & Data rates may apply.
 Donations may be solicited.

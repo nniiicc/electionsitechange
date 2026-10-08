@@ -1,6 +1,3 @@
-top of page
-Meet Wyatt
-Representative Wyatt Gable has been a resident of Onslow County for over 16 years, graduated from White Oak High School, and graduated in May of 2025 from East Carolina University.
-During his time at ECU, Wyatt served as the president of the TurningPointUSA chapter.
-He is currently in his first term in the House, standing up for conservative values and principled government
-bottom of page
+top of page Donate Meet Wyatt Contact More Use tab to navigate through the menu items.
+Meet Wyatt Representative Wyatt Gable has been a resident of Onslow County for over 16 years, graduated from White Oak High School, and graduated in May of 2025 from East Carolina University. ​ During his time at ECU, Wyatt served as the president of the TurningPointUSA chapter.
+He is currently in his first term in the House, standing up for conservative values and principled government Learn More JOIN THE TEAM First name * Last name Email * Phone Submit CONTRIBUTE $6,800 $3,600 $1,000 $500 $100 $50 Other PAID FOR BY ELECT WYATT GABLE bottom of page

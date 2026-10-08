@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Volunteer Donate Home About Priorities Volunteer Donate Menu Charlie’s proven record of advocacy shows he’s ready to start making change for the High Country.
+Skip to content Home About Priorities Volunteer Vote Donate Home About Priorities Volunteer Vote Donate Menu Charlie’s proven record of advocacy shows he’s ready to start making change for the High Country.
 We need someone who can step in on day one with local experience, strong relationships, and a clear plan.
 I’m ready to bring that experience to Raleigh and represent House District 93, serving the people of Ashe, Alleghany, and Watauga counties.
 LEARN MORE DONATE Campaign Priorities Education We have neglected our teachers and students for far too many years.

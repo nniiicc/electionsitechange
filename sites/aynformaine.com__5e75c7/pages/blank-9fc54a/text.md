@@ -1,13 +1,5 @@
 Please help my campaign!
-Donate $5 to the Maine Clean Election fund!
-+1.2072062294
-Signed in as:
-filler@godaddy.com
-Sign out
-+1.2072062294
-Signed in as:
-filler@godaddy.com
-Account
-Sign out
-Copyright © 2026 AynforMaine - All Rights Reserved.
+Donate $5 to the Maine Clean Election fund! +1.2072062294 Ayn Hanselmann - House District 142 Democratic Candidate Ayn Hanselmann - House District 142 Democratic Candidate Ayn Hanselmann - House District 142 Democratic Candidate Ayn Hanselmann - House District 142 Democratic Candidate Sign In Create Account Bookings My Account Signed in as: filler@godaddy.com Bookings My Account Sign out Home Blank More Home Blank +1.2072062294 Ayn Hanselmann - House District 142 Democratic Candidate Ayn Hanselmann - House District 142 Democratic Candidate Ayn Hanselmann - House District 142 Democratic Candidate Ayn Hanselmann - House District 142 Democratic Candidate Signed in as: filler@godaddy.com Home Blank Account Bookings My Account Sign out Sign In Bookings My Account Why you should vote for me this November!
+My Priorities and Vision for Sanford & Springvale I am connected to the Sanford Community through years of service.
+Copyright © # AynforMaine - All Rights Reserved.
 Powered by

@@ -6,7 +6,7 @@ Next goal: every city, township, and village in Senate District 14.
 The cross-district route was well received.
 Now Tawn is going community by community so no township is left off the map.
 Invite her to run where you live.
-124.8 miles Running total — and still going Every City, Township & Village Checked boxes = Tawn has already run there.
+127.8 miles Running total — and still going Every City, Township & Village Checked boxes = Tawn has already run there.
 Unchecked = still on the list.
 Click a visited community for that day’s route.
 Dates and mileage are from each run.
@@ -15,7 +15,8 @@ Jackson County Cities City of Jackson — July 25 · 3 miles Townships & Village
 29 · 6 miles Village of Hanover — Aug.
 29 · 6 miles Henrietta Township — Aug.
 15 · 4.77 miles Leoni Township — July 22 · 5.08 miles Liberty Township — Sept.
-5 · 5.4 miles Napoleon Township Norvell Township Rives Township Sandstone Township — Oct.
+5 · 5.4 miles Napoleon Township — Oct.
+7 · 3 miles Norvell Township Rives Township Sandstone Township — Oct.
 3 · 5.4 miles Spring Arbor Township — Aug.
 1 · 7.63 miles Summit Township — Aug.
 1 · 7.63 miles Tompkins Township — Aug.
@@ -56,6 +57,9 @@ Tawn finished in 43:54 — 4th overall among the women — dedicated to police, 
 Community Run September 25 Brooklyn Village 4.6 miles • Every Village on the Map Met at Swain Memorial Park, canvassed the village, and finished at Village Creamery on Main Street.
 Community Run September 29 Freedom Township (Pleasant Lake) 5 miles • Freedom — Speech, Faith, and Property A sunset loop from Freedom Township Hall around Pleasant Lake.
 Neighbors, yard signs, and a township whose name should still mean something.
+Community Run October 7 Napoleon Township 3 miles • Patriotism and education excellence A warm fall day.
+People noticed the flag.
+That evening, a fundraiser dinner for Wing Classical Academy in Dexter.
 Community Run October 3 Sandstone Township (Parma) 5.4 miles • Property taxes and the schools A loop through Parma village.
 Neighbors kept coming back to the tax bill, a break for seniors, and what the schools are teaching.
 Community Run October 1 Webster Township (Parks Lake) 4.6 miles • Protecting the Unborn From Marquis Drive near Parks Lake to 9122 Huron River Drive.

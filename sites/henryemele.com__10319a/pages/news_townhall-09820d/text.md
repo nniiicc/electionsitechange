@@ -90,7 +90,7 @@ If we leave understanding one another a little better, and with a clearer idea o
 My name is Henry Emele.
 I'm running to represent Ward 7, Hillsborough District 26, in the New Hampshire House of Representatives.
 I'm asking for the opportunity to represent you in Concord.
-Kara Myrick-Emele http://www.karamyrick.com Next Next Speaking Up for Manchester Families on Housing Donate by Mail Henry Emele for NH State Rep 9 Clarendon Way Manchester, NH 03103 Newsletter Block This newsletter signup form needs a storage option.
+Kara Myrick-Emele http://www.karamyrick.com Donate by Mail Henry Emele for NH State Rep 9 Clarendon Way Manchester, NH 03103 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up to join Henry Emele’s campaign for New Hampshire State Representative.
 Email Address Sign Up We respect your privacy.

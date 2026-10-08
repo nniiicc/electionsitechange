@@ -1,7 +1,6 @@
 0 Skip to Content Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Open Menu Close Menu Open Menu Close Menu Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Home Folder: About Back Meet Andy Meet Owen Why We Are Running Campaign Plan Folder: Media Back News Livestream Podcast Folder: Get Involved Back Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Folder: Issues Back Priorities Platform Donate Back to All Events Pride in the Plaza Festival Sunday, June 28, 2026 12:00 PM 8:00 PM Silver Spring Civic Plaza Silver Spring, MD (map) Google Calendar ICS Stop by the Montgomery Part Green Party table at the Silver Spring Pride in the Plaza Festival.
 We’ll be there all day - join us!
-Previous Previous June 27 Come see us at Frederick Pride!
-Next Next June 29 No Data Centers Rally - Baltimore Like what you see?
+Like what you see?
 Join the movement.
 DONATE volunteer Green Party Candidates for Governor & Lt.
 Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

@@ -1,5 +1,5 @@
-Skip to content Wed.
-Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Lawmakers passed slate of bills meant to address state’s ‘woefully short’ housing supply The state Legislature passed at least a dozen bills meant to protect renter security deposits, boost housing production and ensure access to homeless shelters statewide By Mia Maldonado – July 7, 2025 6:00 am LINK TO ARTICLE Construction is underway on a home in north Portland in July 2023.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Lawmakers passed slate of bills meant to address state’s ‘woefully short’ housing supply The state Legislature passed at least a dozen bills meant to protect renter security deposits, boost housing production and ensure access to homeless shelters statewide By Mia Maldonado – July 7, 2025 6:00 am LINK TO ARTICLE Construction is underway on a home in north Portland in July 2023.
 (Lynne Terry/Oregon Capital Chronicle) Oregon lawmakers passed at least a dozen bills meant to address the state’s housing crisis during the recently wrapped, six-month legislative session.
 Rep.
 Pam Marsh, an Ashland Democrat and the chair of the House Committee on Housing and Homelessness said Democrats and Republicans share an understanding of Oregon’s housing issues, making it easier to pass policies that address them.

@@ -13,7 +13,10 @@ I’ll show up, listen, and work hard to find solutions that support our communi
 “Shawn has what it takes to lead our rural district in the ways our working families and seniors need.
 He’ll lead outside of partisan politics, grounded in our values of self-reliance, neighbors helping neighbors, and public service.
 I’m proud to endorse him to be the next independent state representative for Hope, Union, and Warren. “ - Rep.
-Bill Pluecker “We’ve had a front-row seat to the changes coming to our area.
+Bill Pluecker “I knew of Shawn Saindon’s strong connection with and support for Maine’s farming community which had me leaning toward supporting his candidacy for our Maine House District 44 seat.
+After speaking to him and finding out about his strong commitment to also support Maine’s small businesses made all the difference for me.
+Maine farmers have to have perhaps the most diverse skill sets of all small business people to be successful and Shawn recognizing that means that I would be voting for him in November.” - Ron Howard, Brodis Blueberries, Hope, ME .
+“We’ve had a front-row seat to the changes coming to our area.
 I’ve seen Shawn listen carefully, ask the right questions, and work with all people to find practical solutions.
 He understands our communities and will represent us well in Augusta.
 I’m proud to support Shawn Saindon for State House.” – Tom Watson, Chair, Warren Planning Board What Matters Most Independent, Practical Leadership Our communities are best served by leadership that listens, focuses on real problems, and avoids unnecessary division.

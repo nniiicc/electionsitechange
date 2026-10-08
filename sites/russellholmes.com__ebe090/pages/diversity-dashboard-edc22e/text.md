@@ -4,14 +4,17 @@ Holmes | 0 Comment | 12:02 pm Categories: News “Today, Massachusetts moves for
 “It is imperative that the public see the diversity of the hiring, promotions, and terminations of the state’s workforce segmented by department and at every level of government.
 Aggregating the workforce and comparing the workforce to the state’s population can mask poor hiring and retention performance by department managers.
 Today’s update to the dashboard lives beyond this administration and will ensure that masking is prevented for years to come.” Share this Post navigation PREVIOUS Previous post: ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
-Holmes’s wire cutters NEXT Next post: Minority leaders put legislative agenda behind thoughts and prayers Related Post In closed-door budget process, Mass.
-House leaders scored big In closed-door budget process, Mass.
-House leaders scored big May 9, 2024 May 9, 2024 | Russell E.
+Holmes’s wire cutters NEXT Next post: Minority leaders put legislative agenda behind thoughts and prayers Related Post The Interview: State Representative Russell Holmes The Interview: State Representative Russell Holmes July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 5:44 am <p>By Samantha J.
-Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
+Holmes | 0 Comment | 11:34 am The outspoken state representative on what’s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.
+Share this Read More Read More ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
+Holmes’s wire cutters ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
+Holmes’s wire cutters July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 11:36 am State Rep.
+Russell Holmes (left) and former Boston Police Capt.
+Haseeb Hosein were out last Friday evening taking down ‘Cash for Diabetic Supplies’ signs on American Legion Highway.
+Seth Daniel Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.

@@ -1,21 +1,29 @@
 top of page Home Issues Join Us!
 District & Voting Information Events Donate Log In Real Leadership for District 22 Idaho Karlie Easley for State Senate Amanda Easley for House Seat 22B Donate to Karlie Donate to Amanda South Boise, Meridian and Nampa Get campaign updates from Amanda & Karlie Stay up to date with our latest news and events by signing up for our newsletter.
-Upcoming Events Wed, Oct 07 Phone Banking with the Easleys / RSVP for link RSVP Oct 07, 2026, 11:30 AM – 1:00 PM RSVP for link Help us Get Out the Vote in District 22!
-Never phone banked?
-We'll teach you!
-Fri, Oct 09 Coffee with Candidates District 22 / Starbucks Coffee Company RSVP Oct 09, 2026, 9:00 AM – 10:00 AM Starbucks Coffee Company, 4657 South Eagle Road, Albertsons, Meridian 3065, Meridian, ID 83642, USA Casual stop by event.
+Upcoming Events Fri, Oct 09 Coffee with Candidates District 22 / Starbucks Coffee Company RSVP Oct 09, 2026, 9:00 AM – 10:00 AM Starbucks Coffee Company, 4657 South Eagle Road, Albertsons, Meridian 3065, Meridian, ID 83642, USA Casual stop by event.
 No RSVP needed.
 Come say hi and tell us what matters to you!
-Sat, Oct 10 Door knocking with the Easleys / Location is TBD RSVP Oct 10, 2026, 1:30 PM – 3:30 PM Location is TBD Door knocking in South Boise with the Easleys w/ special guests - 1:30 start time.
+Sat, Oct 10 Door knocking with the Easleys w/ Special Guest Ken Martin / Location is TBD RSVP Oct 10, 2026, 1:30 PM – 3:30 PM Location is TBD Door knocking in South Boise with the Easleys w/ special guest Ken Martin from the DNC - 1:30 start time.
 Location will be shared after RSVP.
 Sun, Oct 11 Postcard Writing with the Easleys / Location is TBD RSVP Oct 11, 2026, 12:00 PM – 4:00 PM Location is TBD Come write postcards with the Easleys.
 This event will be held at a private residence and location will be shared after RSVP.
 Mon, Oct 12 Candidate Meet & Greet / Charter Pointe Park at Clubhouse RSVP Oct 12, 2026, 4:30 PM – 6:00 PM Charter Pointe Park at Clubhouse, 9488 W Hearthside Dr, Boise, ID 83709, USA Come meet Amanda & Karlie as well as Loren Petty and Michael Fitzgerald.
 No RSVP Needed.
+Tue, Oct 13 Door knocking with the Easleys / Location is TBD RSVP Oct 13, 2026, 10:00 AM – 12:00 PM Location is TBD Door knocking in South Boise with the Easleys Location will be shared after RSVP.
+Multiple Dates Wed, Oct 14 Phone Banking with the Easleys - GOTV / RSVP on mobilize for link RSVP Oct 14, 2026, 11:30 AM – 1:00 PM RSVP on mobilize for link Help us Get Out the Vote - call and make sure people have a plan to vote from the comfort of your home.
+Every Wednesday over lunch.
 Thu, Oct 15 Coffee with Candidates District 22 - Black Rock / Black Rock Coffee Bar RSVP Oct 15, 2026, 10:00 AM – 11:00 AM Black Rock Coffee Bar, 3300 E Victory Rd, Meridian, ID 83642, USA Casual stop by event.
 No RSVP needed.
 Come say hi and tell us what matters to you!
-Thu, Oct 22 Coffee with Candidates District 22 - Alchemist Coffee / Alchemist Coffee Overland RSVP Oct 22, 2026, 9:00 AM – 10:00 AM Alchemist Coffee Overland, 10650 W Overland Rd, Boise, ID 83709, USA Casual stop by event.
+Fri, Oct 16 District 22 Democrats Casual Meet up / Voodoo Brewing Company- Boise RSVP Oct 16, 2026, 6:00 PM – 7:00 PM Voodoo Brewing Company- Boise, 9931 W Cable Car St Ste 110, Boise, ID 83709, USA Come by and meet your neighbors!
+The D22 Democrats are meeting at Voodoo Brewing on Overland Sat, Oct 17 No Kings Rally / Idaho State Capitol Learn more Oct 17, 2026, 11:00 AM – 1:00 PM Idaho State Capitol, 700 W Jefferson St, Boise, ID 83702, USA We'll have a booth - come say hi.
+Multiple Dates Sun, Oct 18 Door knocking with the Easleys / Location is TBD RSVP Oct 18, 2026, 10:00 AM – 12:30 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.
+Multiple Dates Tue, Oct 20 Door knocking with the Easleys / Location is TBD RSVP Oct 20, 2026, 10:00 AM – 12:00 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.
+Thu, Oct 22 Coffee with Candidates District 22 - Alchemist / Alchemist Coffee Overland RSVP Oct 22, 2026, 9:00 AM – 10:00 AM Alchemist Coffee Overland, 10650 W Overland Rd, Boise, ID 83709, USA Casual stop by event.
+No RSVP needed.
+Come say hi and tell us what matters to you!
+Multiple Dates Sat, Oct 24 Door knocking with the Easleys / Location is TBD RSVP Oct 24, 2026, 10:00 AM – 12:30 PM Location is TBD Door knocking with the Easleys Location will be shared after RSVP.
+Thu, Oct 29 Coffee with Candidates District 22 - Starbucks / Starbucks Coffee Company Learn more Oct 29, 2026, 10:00 AM – 11:00 AM Starbucks Coffee Company, 1870 S Meridian Rd, Meridian, ID 83642, USA Casual stop by event.
 No RSVP needed.
 Come say hi and tell us what matters to you!
 Proud to be endorsed by: Building a Contrast for Our Future The current majority leadership representing District 22 holds influential positions as the sponsor and co-sponsor of Idaho’s school voucher legislation.

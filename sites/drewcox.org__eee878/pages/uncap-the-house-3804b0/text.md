@@ -1,5 +1,4 @@
-uncap the house of representatives
-The way the United States House of Representatives is organized does not correctly represent America.
+0 Skip to Content Home About Drew's Story Our District Endorsements The Issues Events Donate Store Take Action Open Menu Close Menu Home About Drew's Story Our District Endorsements The Issues Events Donate Store Take Action Open Menu Close Menu Home Folder: About Back Drew's Story Our District Endorsements The Issues Events Donate Store Take Action uncap the house of representatives The way the United States House of Representatives is organized does not correctly represent America.
 Why it matters: U.S.
 House seats have been capped at 435 since 1929.
 Population growth has led to each member representing more people than intended.
@@ -13,3 +12,5 @@ A larger House also tightens the link between population and political power, na
 Congress is under‑capacitated relative to the scale and complexity of federal policy.
 Adding members is meant to grow committee depth, oversight, and policy expertise.
 The idea is that a somewhat larger, more specialized House could reclaim ground ceded to the executive branch and lobbyists resulting in actual self‑government.
+Back to full policy platform Drew Cox for Indiana PO Box 56, Lafayette, IN 47902 Checks can be mailed to: Paid for by Drew Cox for Indiana Use of titles and photographs in uniform does not imply endorsement by the U.S.
+Marine Corps.

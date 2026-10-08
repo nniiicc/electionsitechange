@@ -1,4 +1,4 @@
-Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Skip to content Thursday, October 08, 2026 Lauren Nelson for Senate P.O.
 Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Home State Senator Lauren Nelson, District 18 THANK YOU, District 18, for entrusting me to be your confident, conservative lone voice in the State Senate.
 I’ve worked tirelessly and voted consistently to ensure your state government stays focused on the people it serves.
 Over the past two years, your voice has been heard, respected, and represented—and that will not change.

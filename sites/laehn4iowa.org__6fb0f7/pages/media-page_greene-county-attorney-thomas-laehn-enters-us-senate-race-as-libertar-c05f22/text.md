@@ -8,6 +8,6 @@ Chuck Grassley’s office more than two decades ago, Laehn recalled when a staff
 What he saw shocked him.
 Rather than a room full of senators debating and deliberating, Laehn said he saw just one senator talking to a camera.
 Read the full story at iowapublicradio.org.
-Kara Glenn Next Next Laehn launches Senate bid with two-count "indictment" of Congress Stay in touch.
+Kara Glenn Stay in touch.
 Contact Us Copyright © # Paid for by Thomas Laehn Exploratory Committee, Inc.
 About Issues Media Volunteer Contact

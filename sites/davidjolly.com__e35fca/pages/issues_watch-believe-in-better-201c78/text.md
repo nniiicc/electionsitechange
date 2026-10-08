@@ -45,7 +45,17 @@ People cannot afford to live in Florida anymore.
 They are tired of leaders who only fight for their party.
 And they want someone who will fight for everyone.
 The movement is real, and it is happening across the state.
-More on this topic This is bigger than politics Have a question for David?
+More on this topic Overview Meet David Jolly — Florida Governor 2026 In depth Voices on the trail - Jadene In depth Believe in Better - David Jolly for Florida Governor In depth It Takes You Back - The Power of Hymns In depth David Jolly: People and Priorities First.
+Always.
+In depth David Jolly - Tomorrow is a big day for our state In depth Gwen Graham - Competency.
+Character.
+Trust.
+In depth Gwen Graham - Proud to serve beside David Jolly In depth Meet Gwen Graham - Florida's next Lieutenant Governor In depth Gwen Graham - Like My Father In depth What Makes America Great Has Nothing to Do with Politics In depth Voices on the Trail - Rev.
+Dr.
+R.B.
+Holmes In depth David Jolly: It's Not Want.
+It's Willingness.
+This is bigger than politics Have a question for David?
 Visit the Town Hall and ask.
 About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
 All rights reserved.

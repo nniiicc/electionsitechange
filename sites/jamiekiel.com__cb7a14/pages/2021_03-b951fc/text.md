@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News TOP STORY Partisan divide is deep on election legislation In October, the Associated Press reported that the “New South Souls to the Polls Initiative” was paying churches a $6 contribution “for each documented early vote” to cover the expenses for outreach and transportation to help people vote early by absentee ballot.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News TOP STORY Partisan divide is deep on election legislation In October, the Associated Press reported that the “New South Souls to the Polls Initiative” was paying churches a $6 contribution “for each documented early vote” to cover the expenses for outreach and transportation to help people vote early by absentee ballot.
 Kiel said his bill would not Continue Reading Legislature’s differences on election legislation reflect a national divide House Bill 70 from Rep.
 Jamie Kiel, R-Russellville, would make it illegal to pay an individual or entity for getting individuals to vote in an election.
 Anyone who violates this law could be convicted of a Class C misdemeanor.

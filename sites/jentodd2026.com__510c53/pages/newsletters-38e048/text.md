@@ -1,5 +1,91 @@
 Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Weekly Campaign News!
 Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Weekly Campaign News!
+October 6, Tuesdays with Team Todd What's New : GOTV Canvasses Phone Banks are happening!
+Scroll down for all the scoop!
+Volunteer Meeting Tomorrow - So much to discuss and update!
+Did you get your yard sign?
+If not, let us know.
+And don't forget the Merch Store!
+Congress has a job to do.
+A serious and important job.
+And too often, Mary Miller forgets why she's there.
+Congress is supposed to legislate , represent , and serve the people who sent them there.
+That means asking hard questions.
+Providing oversight.
+Protecting constitutional rights.
+Holding government accountable.
+And most importantly, listening to their constituents.
+We saw why that matters this year.
+Congress has constitutional responsibilities when it comes to military action.
+I believe Congress should use those powers and not simply step aside when sons, daughters, moms, and dads are being put in harm's way.
+On your behalf, in 2026, Mary Miller has voted five times against resolutions to end unauthorized U.S. hostilities with Iran.
+The last vote was in September.
+Those votes aren't just about something happening thousands of miles away.
+They are impacting the people living and working in IL-15.
+They drive up the cost of diesel our farmers need to plant and harvest their crops.
+They push up the cost of fertilizer and transportation.
+Costs that don't stay on the farm.
+They impact the price of groceries and goods that have to be moved by truck.
+Farmers are paying more to produce food.
+Families are paying more to put food on the table.
+That is why these votes matter to the people I want to represent.
+29 Days!
+I would take that responsibility seriously.
+I would take those questions to you, the people who elected me.
+Before the brave men and women of our military are sent into prolonged conflict, Congress should understand the mission.
+Ask the hard questions.
+Make sure our service members have what they need.
+And provide meaningful oversight.
+That's not partisan.
+That's doing your job.
+People need to be able to trust that their representatives are making decisions for their communities, not for themselves.
+That's the kind of representative I intend to be.
+If you believe IL-15 deserves a representative who will show up, listen, ask the hard questions, and do the job, I hope you'll help me get there.
+This campaign has been built by people who believe we can change what representation looks like in this district.
+If you can, please make a contribution #ago to help us defeat Mary Miller and elect a representative who will actually listen to the people of IL-15.
+GOTV!
+Thank you for believing in this campaign and in what we're fighting for.
+Jennifer Todd A Nurse.
+A Mom.
+A Fighter.
+PS Phone banking with the auto-dialer is fast and fun!
+Join us for a Monday session and more!
+And to help us keep paying for these phone banks, please consider a contribution today.
+Volunteer Meeting - TOMORROW !
+WEEKLY Wednesday Volunteer Zooms at Noon 📅 October 7 🕛 12 pm 💻 via Zoom Sign up, and we will send you a calendar invite with the Zoom link!
+RSVP and save to your calendar.
+Reminders will go out approximately 30 minutes before.
+Join us on Wednesdays!
+Want to get involved?
+GET YOUR SIGN Your Democratic County Party has signs!
+(Scott and Schuyler County residents can reach out to the campaign.
+You can also reach out if you need contact information for your County Party.) Shop the Merch Store and have it sent directly to your home!
+PHONE BANK Sign up to call voters across IL-15 from wherever you are.
+Training provided.
+Sundays and Mondays!
+Join one of our group sessions, or get your lists and call at your convenience !
+To sign up for Sundays, scroll down to Upcoming Events with Jennifer .
+For Mondays: Mondays 7:00 - 8:30 PM CANVASS To stay up to date on all our canvassing days of action, go to the website for updates ; they happen almost daily!
+Prefer to canvass at your convenience?
+No problem, just let us know, and we'll get you set up!
+I want to canvas!
+Jennifer Todd Merch Store!
+Support Jennifer with your signs, hats, coffee mugs, and more sent straight to your door.
+Jennifer Merch Delived to your Door!
+Upcoming Events with Jennifer OCTOBER October 6 Penny Severns Memorial-Macon Democratic Women Richland Community College, 1 College Park 6:00 PM – 8:00 PM October 7 Adams County Canvassing - RSVP Now!
+116 N 8th St, Quincy 12:00 PM - 2:00 PM October 7 Adams County Soup Supper 116 N 8th St, Quincy 5:00 PM - 7:00 PM October 10 Illinois College Homecoming Parade Church St. and West State St., Jacksonville 10:00 AM October 10 Meet & Greet with Morgan County Democrats 701 W State St, Jacksonville Immediately following the Parade October 10 Meet & Greet with Dr.
+Michael Woods 331 W Douglas, Jacksonville Immediately following the Parade October 11 Indivisible IL Phone Bank - RSVP Now!
+Via Zoom 4:00 -6:00 PM October 17 Canvass in Springfield - Reply Now!
+308 E Monroe St, Springfield Shifts starting at 10:00 AM October 18 Canvass in Madison County - Reply Now!
+39 Executive Plaza Ct, Maryville Shifts starting at 10:00 AM October 18 Indivisible IL Phone Bank - Join us!
+Via Zoom 4:00 - 6:00 PM October 25 Indivisible IL Phone Bank - RSVP Now!
+Zoom 4:00 - 6:00 PM October 29 Canvass in Springfield - Reply Now!
+308 E Monroe St, Springfield Shifts starting at 10:00 AM October 30 Canvass in Madison County - Reply Now!
+39 Executive Plaza Ct, Maryville Shifts starting at 10:00 AM November 1 Indivisible IL Phone Bank - Reply Now!
+Via Zoom 4:00-6:00 PM For more events, check out our Events Page!
+Donate Help Us Reach Every Corner of Our Community We know Jennifer’s message resonates, but we need your help.
+Follow Jennifer via the links below, and share our latest post.
+When you engage, you’re not just 'liking' a photo; you’re helping us bypass the big-money gatekeepers.
 September 29, Tuesdays with Team Todd What's New : Tonight 's event in Springfield!
 EOQ - Tomorrow at Midnight Volunteer Meeting Tomorrow : Zoom at Noon October Canvasses And don't forget the Merch Store!
 Fill the tank.

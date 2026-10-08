@@ -8,11 +8,12 @@ VOTER ID Find a list of acceptable forms of voter ID on the Missouri Secretary o
 REMEMBER: if you are registered to vote, and your ID is rejected at the polls, you can still request a provisional ballot.
 WHEN IS THE ELECTION FOR THE 95TH DISTRICT?
 That’s a good question!
-Because the last person elected to represent the district resigned back in January, Missouri’s 95th State House District is currently vacant, meaning the people of the 95th District currently have no representation in the Missouri State House.
+Because the last person elected to represent the district resigned back in January 2025, Missouri’s 95th State House District is currently vacant, meaning the people of the 95th District currently have no representation in the Missouri State House.
 It’s up to Missouri’s Governor to call a special election to fill vacant seats in the State House.
-After eight months of leaving the district without any representative, in August of 2025, the Governor finally made a public statement saying he plans to call a special election to fill the vacant seat sometime next year.
-The date is yet to be confirmed, but according to local news reports it’s likely to be in April of 2026.
-Whenever the election for the 95th District takes place, Meredith Sumenek is ready to run!
+Meredith Sumenek stepped up to run to fill the vacancy.
+But Governor Mike Kehoe has refused to do his job and call a special election to fill this seat for almost two years.
+We now finally have an opportunity to fill the vacancy during the November 3rd, 2026 general election.
+Please make sure to vote on or before November 3rd to bring representation back to our district!
 Learn about the 95th district Missouri’s 95th State House District is located in the Mehlville and Oakville area in the southernmost part of South St.
 Louis County, south of Highways 270 and 255, bordering the Mississippi River on the East and the Meramec River at St.
 Louis County’s border with neighboring Jefferson County.

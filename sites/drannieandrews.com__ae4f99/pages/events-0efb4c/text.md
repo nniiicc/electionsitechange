@@ -2,11 +2,11 @@ Skip to content Donate now to send Dr.
 Annie to the U.S.
 Senate STAND WITH Dr.
 Annie ANdrews Choose any amount.
-If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate Team Andrews OUR EVENTS FIND AN EVENT NEAR YOU Wed, Oct 7 @ 9:00 AM–8:00 PM EDT Phone Bank For Dr.
-Annie Andrews See details Wed, Oct 7 @ 11:00 AM–3:00 PM EDT Volunteer at the Columbia Campaign Office!
+If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate Team Andrews OUR EVENTS FIND AN EVENT NEAR YOU Thu, Oct 8 @ 9:00 AM–8:00 PM EDT Phone Bank For Dr.
+Annie Andrews See details Thu, Oct 8 @ 11:00 AM–3:00 PM EDT Volunteer at the Columbia Campaign Office!
 This event’s address is private.
-Sign up for more details See details Wed, Oct 7 @ 4:00–7:00 PM EDT Team Annie In Person Phone Bank - Columbia This event’s address is private.
 Sign up for more details See details Thu, Oct 8 @ 12:00–1:00 PM EDT Annie Andrews Patients & Prices Tour - Indian Land Meet & Greet This event’s address is private.
+Sign up for more details See details Thu, Oct 8 @ 12:00–3:00 PM EDT Team Annie In Person Phone Bank - Columbia This event’s address is private.
 Sign up for more details See details Thu, Oct 8 @ 3:00–4:00 PM EDT Annie Andrews Patients & Prices Tour - Bennettsville Meet & Greet This event’s address is private.
 Sign up for more details See details View More Events View More Events POWERED BY PEOPLE.
 NOT PACS. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.

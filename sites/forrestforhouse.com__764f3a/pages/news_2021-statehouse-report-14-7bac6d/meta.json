@@ -1,7 +1,12 @@
 {
  "description": "Back to School On Wednesday, the House passed a joint resolution that requires all school districts in South Carolina to give an option for 5 days a week,...",
  "final_url": "https://forrestforhouse.com/news/2021-statehouse-report-14",
- "paid_for_by": null,
+ "fingerprint": "24542a25252ab461493417e163c4a44caa8bfaec",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2021 Statehouse Report # 14",
- "years_mentioned": []
+ "years_mentioned": [
+  "2021",
+  "2022"
+ ]
 }

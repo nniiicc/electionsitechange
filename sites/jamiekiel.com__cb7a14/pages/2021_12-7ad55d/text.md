@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News County Education Retirees Association hears from Rep.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News County Education Retirees Association hears from Rep.
 Jamie Kiel The Ministry Center of the Russellville United Methodist Church was the site for the November meeting of the Franklin County Education Retirees Association.
 Refreshments were enjoyed, and new members were welcomed by Sandy Gibson, president.
 The program, a hegislative update, was given by Continue Reading Rec center opens in Red Bay Rep.

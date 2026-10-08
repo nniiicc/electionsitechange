@@ -1,3 +1,3 @@
-Meet Pepper Issues Volunteer Make Endorsement Yard Signs Contribute Events Contact Events #ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Meet Pepper Issues Volunteer Make Endorsement Yard Signs Contribute Events Contact Events #ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Endorsements Yard Signs Events Photos Contact Paid for by The People for Pepper Powered by CampaignPartner.com - Political Websites Home Meet Pepper Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu

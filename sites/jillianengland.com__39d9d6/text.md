@@ -5,14 +5,16 @@ Imagine a government that treats citizens like adults instead of revenue units.
 If this text made you smirk instead of clutch your pearls, you might actually like the rest of the site.
 Carry on, citizen.
 Nothing to see here.
-(Or is there?) Jillian England Republican Candidate for Washington State Senate Legislative District 36 • Seattle Energy Abundance • Lower Taxes • A Golden Washington Vote Donate Now Policy Position Secure online giving via Anedot — one click.
-Mail a check or other options → Real Solutions Over Ideology Energy is the lifeblood of our economy.
-I’m running to deliver reliable, affordable energy for families and businesses — while repealing the state income tax that threatens our future.
-Jillian Biography → My Top 3 Priorities How I’ll deliver real results for Washington families Repeal the New State Income Tax Stop the dangerous precedent before it spreads to working families.
-Read the plan → Energy Abundance & Affordable Power Fast-track nuclear, protect hydro, repeal the carbon tax, and keep costs down for families and businesses.
-Read the plan → The Compounding Homelessness, Addiction & Overdose Problem in Seattle Break the addiction + migration + tolerance feedback loop.
-Includes live interactive model using real 2018–2024 data.
-Read the plan + model → Popular Interactive Tool: Compounding Crisis Model Adjust real policy levers for addict migration reduction and illegal drug abatement and instantly see projected impacts on overdose deaths.
+(Or is there?) Jillian England Republican Candidate for Washington State Senate Legislative District 36 • Seattle A Path Out • Energy You Can Count On • Lower Taxes Vote Donate Now Policy Position Secure online giving via Anedot — one click.
+Mail a check or other options → A path out— of addiction. of homelessness. of hopelessness.
+I’m running to break Seattle’s addiction–homelessness–crime cycle with accountability and a real way out, and to give families energy they can count on: protect hydro, build new nuclear, and keep bills affordable.
+And I’ll fight to repeal the state income tax.
+Jillian Biography → My Top 3 Priorities How I’ll deliver real results for Washington families A Path Out: Fix the Aurora Corridor Name the market, fund the exit, and pair a roof with rules.
+A real way out of addiction, homelessness, and hopelessness.
+Read the plan → Energy You Can Count On Our energy infrastructure is more fragile than it should be.
+Build new nuclear, protect hydro, and keep bills affordable.
+Read the plan → Repeal the New State Income Tax Stop the dangerous precedent before it spreads to working families.
+Read the plan → Popular Interactive Tool: Compounding Crisis Model Adjust real policy levers for addict migration reduction and illegal drug abatement and instantly see projected impacts on overdose deaths.
 Built from official Washington State data (2018–2024) with breakdowns by heroin, fentanyl, oxy, and more.
 One of the most visited resources on the site.
 Radio buttons let you switch between total deaths and substance-specific series over different historical base periods.
@@ -28,6 +30,6 @@ Final Totals Noel C.
 Frame (Prefers Democratic Party) — 87.69% · 42,548… Read the note + archive → See the complete archive of Notes → Donate Now — Help Deliver These Priorities Mail a check, limits, and volunteer options → Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 4, 2026 · Site version: c52eafb This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 7, 2026 · Site version: d4828e7 This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

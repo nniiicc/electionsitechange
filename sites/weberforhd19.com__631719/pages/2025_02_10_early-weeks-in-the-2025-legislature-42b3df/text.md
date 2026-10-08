@@ -1,4 +1,4 @@
-October 7, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Early Weeks in the 2025 Legislature After five weeks into the 2025 Legislative session, I now have a sense of the rhythm and pace of policymaking.
+October 8, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Early Weeks in the 2025 Legislature After five weeks into the 2025 Legislative session, I now have a sense of the rhythm and pace of policymaking.
 I arrived in Helena with four priorities – lower homeowner property taxes; renew Medicaid; boost public education funding; ease the housing crisis.
 These were the issues on taxpayers’ minds when I knocked doors during the campaign, and I intend to honor their wishes.
 It’s about freedom, fairness and affordability.

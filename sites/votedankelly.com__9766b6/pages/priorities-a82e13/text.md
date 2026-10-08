@@ -15,7 +15,33 @@ If you served this country, this district owes you more than a handshake at a pa
 Full state-level funding of benefits, healthcare, mental health, and housing assistance.
 Targeted property-tax relief for veterans and surviving spouses.
 Standing meetings with County Veterans Services Departments, Veterans Outreach Programs, and local VFW posts.
+Preserving Our Working Landscapes, Protecting Local Control Our community—stretching across Ipswich, Rowley, Hamilton, Newbury, Georgetown, and Topsfield—is defined by its historic beauty and working landscapes.
+The Second Essex District sits in Essex County, one of the primary agricultural powerhouses in Massachusetts, and our towns are home to a quarter of all farms in the county.
+Many of these operations are family-owned.
+Together, our local growers manage a massive share of the region's open spaces, cultivating everything from multi-generational vegetable and hay operations to beloved sweet corn and heritage crop shares.
+Yet, on Beacon Hill, our family farms are too often treated as relics of the past rather than vital economic engines.
+As your candidate for State Representative, my goal as a legislator is to launch a unified, community-driven agricultural program that solves four critical regional needs: Securing affordable housing patterns Bolstering our farming industry Delivering direct help to people in need Making our families healthier by putting fresh, local produce on every table Protecting Local Control and Creating Farmer Housing We can absolutely tackle our housing crisis, but we must protect local control.
+I am fundamentally opposed to state-mandated "by-right" zoning initiatives that bypass local town boards.
+Instead, I will champion an alliance between local planners, open-space conservation, and land access.
+By blending state Agricultural Preservation Restriction (APR) tools with local Community Preservation Act (CPA) funds, we can empower local planning boards to carve out and construct modest, affordable housing directly on preservation land.
+This will provide low-cost housing specifically for the farmers and farmworkers who manage those fields.
+Cultivating a Youth Workforce Pipeline To keep our fields productive, we must build a strong youth workforce pipeline.
+I will advocate for expanded funding and admissions capacity for agricultural mechanics and sustainable horticulture at the Essex North Shore Agricultural & Technical School in Danvers.
+Furthermore, I will work to connect young growers directly into hands-on apprenticeship programs, like the cultivation and farm-to-pantry pathways at Appleton Farms in Ipswich.
+Fighting Hunger with Fresh, Local Food I will fight to feed our hungry neighbors by permanently codifying the Healthy Incentives Program (HIP) into state law (S.
+104 / H.
+222).
+This critical step will: Strip HIP away from unpredictable annual budget cycles Clear the farmer registration waitlist Back vital local non-profits like Nourishing the North Shore, The Open Door, and Acord Food Pantry Let's keep our zoning local, our farms working, and our community fed.
+Our Local Businesses Deserve Better The businesses in our six towns employ our residents, sponsor our youth sports, donate to our food pantries, and keep our downtowns alive.
+They have been getting a cold shoulder from Beacon Hill.
+I will not continue that.
+Tax and regulatory relief targeted at small operators.
+Stand against energy policy that drives up costs.
+Reengage and help organize local business associations, chambers, and downtown groups.
+Establish liaisons between town governments and the business community for regular meetings with associations and large employers.
 Our Coastal Communities Deserve Better .
+Protecting our marshes, wildlife, and coastline means preserving the natural resources that make our communities such special places to live.
+We need practical policies that protect our environment, safeguard wildlife, and give local communities the tools they need to care for the places they know best.
 Protect our pets and wildlife.
 Support a statewide ban on Second-Generation Anticoagulant Rodenticides (SGARs), while supporting Senator Tarr’s efforts to let communities like Newbury and Topsfield enact stronger local protections without unnecessary state red tape.
 Preserve our marshes and coastline.
@@ -26,21 +52,14 @@ Keep open space open.
 Expand conservation tax credits that encourage private landowners to preserve undeveloped land for generations to come.
 Work with the people who know these resources best.
 Partner with our farmers, fishermen, clam diggers, oystermen, conservation groups, and local officials to protect the natural resources that define the 2nd Essex.
-Protecting our marshes, wildlife, and coastline means preserving the natural resources that make our communities such special places to live.
-We need practical policies that protect our environment, safeguard wildlife, and give local communities the tools they need to care for the places they know best.
-Our Local Businesses Deserve Better The businesses in our six towns employ our residents, sponsor our youth sports, donate to our food pantries, and keep our downtowns alive.
-They have been getting a cold shoulder from Beacon Hill.
-I will not continue that.
-Tax and regulatory relief targeted at small operators.
-Stand against energy policy that drives up costs.
-Reengage and help organize local business associations, chambers, and downtown groups.
-Establish liaisons between town governments and the business community for regular meetings with associations and large employers.
 Keep Our Clam Diggers Digging Our communities are clam-digging towns, and if elected, I intend to keep them that way.
 Long before the Puritans came north to settle Cape Ann, the people of this area were digging clams.
 Clam digging is synonymous with the coastal towns in this district; it is the lifeblood of many working men and women, and it attracts tourists and eager commercial buyers, bringing needed revenue.
-Right now, that industry is facing one of its gravest threats — not from the dreaded green crab or the vicissitudes of tide, wind, and rain, but from big government.
-Despite consistent testing by the Ipswich Shellfish Constable showing that the Ipswich River is within acceptable limits for wastewater effluent, the State’s Division of Marine Fisheries (DMF) and the U.S.
-Food and Drug Administration (FDA) have closed the Ipswich River flats indefinitely because of the location of the town’s wastewater treatment outfall pipe.
+Right now, that industry faces another serious threat alongside green crabs and the uncertainties of tide, wind, and rain: government restrictions that keep productive clam flats off limits.
+The state’s Division of Marine Fisheries (DMF), enforcing federal shellfish sanitation standards overseen by the U.S.
+Food and Drug Administration (FDA), has closed portions of the Ipswich River to shellfishing indefinitely because of wastewater-dilution requirements around the town’s treatment-plant outfall.
+Local officials have challenged those restrictions, pointing to the river’s history of clean water tests.
+Meanwhile, recurring closures elsewhere after heavy rain and sewage spills further reduce the days local clammers can earn a living.
 State and federal regulators seem oblivious to the consistent clean-water findings, the first-class rating of the Ipswich treatment plant, and the fact that there is no record of any illnesses linked to local shellfish.
 We don’t need another task force or blue-ribbon panel.
 As State Representative, I will spend every day working with the DMF and the administration to bring common sense back to shellfish regulation — and keep our clam diggers digging.

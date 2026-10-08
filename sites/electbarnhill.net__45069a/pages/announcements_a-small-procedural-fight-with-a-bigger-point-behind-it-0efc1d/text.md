@@ -52,12 +52,14 @@ The Court has not yet ruled on the September 16 e-filing motion.
 See Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer .
 October 6, 2026 Barnhill mailed a Notice of Lodging Proposed Order and Request for Ruling on the September 16 e-filing motion, with a proposed order attached.
 Latest update: I’ve Asked the Court to Rule on My E-Filing Request .
-Share: Categories: Announcements 1 thought on “A Small Procedural Fight, With a Bigger Point Behind It” Pingback: Pro Se Electronic Filing Delays in Barnhill v.
+I took the Secretary of State to federal court to protect your vote.
+Has your candidate?
+Get to know me · Join the campaign · Donate Share: Categories: Announcements 1 thought on “A Small Procedural Fight, With a Bigger Point Behind It” Pingback: Pro Se Electronic Filing Delays in Barnhill v.
 Aguilar Post navigation Previous Previous post: You’re Not Undecided.
 You’re Unrepresented.
 Next Next post: Voter ID Is Coming.
 Let’s Talk About Making It Actually Work For People. footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

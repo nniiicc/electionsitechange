@@ -36,7 +36,7 @@ Congressman Horsford has been on our picket lines, in negotiations with companie
 We know he’s fighting for workers, not billionaires Ted Pappageorge Secretary-Treasurer, Culinary Union Local 226 · 60,000 Nevada Workers Rep.
 Horsford’s TIPS Act doesn’t just offer tax relief — it eliminates the subminimum wage entirely, ensuring millions of workers are finally paid a living wage.
 Tipped workers have been left out long enough.
-Saru Jayaraman CEO, One Fair Wage · CEO, One Fair Wage Proudly Endorsed By: October 7, 2026 Help Me Hold the Line.
+Saru Jayaraman CEO, One Fair Wage · CEO, One Fair Wage Proudly Endorsed By: October 8, 2026 Help Me Hold the Line.
 Winning back the House majority depends on our district.
 I need you in this fight.
 Donate Now Volunteer Today Get Updates Facebook Instagram X-twitter Youtube Meet Steven Priorities Media Meet Steven Priorities Media Volunteer Donate Paid for by Nevadans for Steven Horsford Copyright © # Steven Horsford for Congress.

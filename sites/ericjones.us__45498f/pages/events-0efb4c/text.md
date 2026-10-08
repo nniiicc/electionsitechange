@@ -1,7 +1,7 @@
 0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Upcoming Events Meet Eric & learn about our movement in person!
 Upcoming Events 10/07 Town Hall - Esparto Town Hall (Esparto, CA) Wednesday, October 7th 5:30 pm - 7:30 pm Capay Valley Health and Community Center Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
-10/09 Town Hall - Lincoln Town Hall (Lincoln, CA) Woman's Club of Lincoln Friday, October 9th 5:30 pm - 7:30 pm Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
+10/09 Town Hall - Lincoln Town Hall (Lincoln, CA) Woman's Club of Lincoln Friday, October 9th 5:30 pm - 7:30 pm Guest Speaker Ray Riehle Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
 10/10 Virtual Town Hall Town Hall (Virtual Zoom) Saturday, October 10th 10am - 11:30am Please join Eric at his upcoming virtual Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here (link provided upon RSVP) See you there.
@@ -34,4 +34,4 @@ RSVP Here See you there.
 10/29 Town Hall - Petaluma Town Hall (Petaluma, CA) Petaluma Woman's Club Event Space Thursday, October 29th 5:30pm - 7:30pm Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
 Watch to Learn About Eric & Why He’s Running Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

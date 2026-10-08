@@ -5,7 +5,7 @@ That is at the core of who I am, and that is why I want to represent you in Ohio
 Join the Movement My entire life I’ve asked hard questions to make decisions rooted in truth and fairness.
 Ohioans deserve a leader who will prioritize people over party and community over division.
 We’re in this together.
-VOLUNTEER DONATE PROUDLY ENDORSED BY: Newsletter Block This newsletter signup form needs a storage option.
+PRIORITIES VOLUNTEER PROUDLY ENDORSED BY: Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Receive Campaign Updates First Name Last Name Email Address Sign Up Thank you!
 Laura@SirotForOhio.org ‍ ‍ Paid for by Laura Sirot for Ohio

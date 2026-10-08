@@ -1,4 +1,4 @@
-Skip to content Meet Chellie Volunteer Meet Chellie Volunteer Facebook Threads Instagram Donate Sign Up To Volunteer SIGN UP TODAY Get Updates from Team Pingree Stay in the loop with the latest news from Chellie Pingree’s campaign and the work she’s doing for Maine families.
+Skip to content Meet Chellie Volunteer Vote Meet Chellie Volunteer Vote Facebook Threads Instagram Donate Sign Up To Volunteer SIGN UP TODAY Get Updates from Team Pingree Stay in the loop with the latest news from Chellie Pingree’s campaign and the work she’s doing for Maine families.
 Sign up to receive updates, event invites, and ways to get involved.
 Email Cell Phone Zip Code Join Team Pingree By submitting your cell phone number you are agreeing to receive periodic text messages from Chellie Pingree for Congress.
 Message and data rates may apply.

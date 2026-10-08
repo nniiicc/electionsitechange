@@ -1,6 +1,8 @@
 top of page Menu Close Policy Volunteer Endorsers Contact Privacy Policy Policy Volunteer Endorsers Contact Privacy Policy DONATE NOW Dani's ONE OF US Why Sterbinsky?
-Principled, Pragmatic, and Trustworthy Leadership for Arizona's 9th Congressional District.
-Dani’s Mission (and Solution): Focus on People First Set a Higher Standard Deliver Real Results for AZ ​ "We deserve a representative who sees us, who listens to us, and who works as hard as we do." ​ - Dani Sterbinsky A Navy veteran, working mom, and Arizona neighbor running to bring service-first, results-driven leadership to AZ-09. ​ Meet Dani ​ Dani is one of us—a working mom, U.S.
+Dani is the Democratic nominee for the U.S.
+House of Representatives in Arizona’s 9th Congressional District, bringing principled, pragmatic, and trustworthy leadership to western Arizona.
+Dani’s Mission (and Solution): Focus on People First - Never DC Politics Raise the Standard and Lower the Temperature Deliver Real Results for AZ ​ A Navy veteran, working mom, and Arizona neighbor running to bring service-first, results-driven leadership to AZ-09.
+"We deserve a representative who sees us, who listens to us, and who works as hard as we do." ​ - Dani Sterbinsky ​ Meet Dani ​ Dani is one of us—a working mom, U.S.
 Navy veteran, and trusted neighbor.
 She lives in Wittmann with her husband Phillip (Navy vet), their daughter Flora, and the family dogs Sadie & Pepper.
 Petty Officer Sterbinsky served on the U.S.S.

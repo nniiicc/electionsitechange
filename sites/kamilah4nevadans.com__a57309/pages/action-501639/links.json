@@ -1,12 +1,54 @@
 [
-"https://facebook.com/people/Kamilah-Bywaters/100092704328950",
-"https://instagram.com/kamilahbywaters",
-"https://kamilah4nevadans.com/",
-"https://kamilah4nevadans.com/about",
-"https://kamilah4nevadans.com/action",
-"https://kamilah4nevadans.com/contact",
-"https://kamilah4nevadans.com/endorsements",
-"https://kamilah4nevadans.com/merch",
-"https://secure.actblue.com/donate/kamilahbywaters",
-"https://x.com/KamilahBywaters"
+{
+"text": "About",
+"href": "https://kamilah4nevadans.com/about/"
+},
+{
+"text": "Action",
+"href": "https://kamilah4nevadans.com/action/"
+},
+{
+"text": "Contact",
+"href": "https://kamilah4nevadans.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kamilahbywaters"
+},
+{
+"text": "Endorsements",
+"href": "https://kamilah4nevadans.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Kamilah-Bywaters/100092704328950/"
+},
+{
+"text": "Home",
+"href": "https://kamilah4nevadans.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/kamilahbywaters/"
+},
+{
+"text": "Merch",
+"href": "https://kamilah4nevadans.com/merch/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/KamilahBywaters"
+},
+{
+"text": "[no text]",
+"href": "https://kamilah4nevadans.com"
+},
+{
+"text": "[no text]",
+"href": "mailto: kamilah4nevadans@gmail.com"
+},
+{
+"text": "kamilah4nevadans@gmail.com",
+"href": "mailto: kamilah4nevadans@gmail.com"
+}
 ]

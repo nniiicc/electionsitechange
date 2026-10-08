@@ -1,41 +1,170 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2F2023-week-12-update-sine-die-yall%2F&t=2023+Week+12+Update%3A+Sine+Die%2C+Y%E2%80%99all%21",
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2F2023-week-12-update-sine-die-yall%2F&title=2023+Week+12+Update%3A+Sine+Die%2C+Y%E2%80%99all%21",
-"http://printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2F2023-week-12-update-sine-die-yall%2F&title=2023+Week+12+Update%3A+Sine+Die%2C+Y%E2%80%99all%21",
-"http://twitter.com/share?text=2023+Week+12+Update%3A+Sine+Die%2C+Y%E2%80%99all%21&url=https%3A%2F%2Fleesahagan.com%2F2023-week-12-update-sine-die-yall%2F&via=LeesaHagan",
-"https://cardinalisdesign.com/political-website-design",
-"https://facebook.com/LeesaHaganforGeorgia",
-"https://leesahagan.com/",
-"https://leesahagan.com/2023-week-12-update-sine-die-yall/twitter.com/leesahagan",
-"https://leesahagan.com/about-leesa",
-"https://leesahagan.com/category/2023-posts",
-"https://leesahagan.com/category/2024-posts",
-"https://leesahagan.com/category/2025-posts",
-"https://leesahagan.com/category/2026-posts",
-"https://leesahagan.com/constituent-services",
-"https://leesahagan.com/crossover-day-2026",
-"https://leesahagan.com/elections",
-"https://leesahagan.com/final-2026-session-update",
-"https://leesahagan.com/help-out",
-"https://leesahagan.com/news",
-"https://leesahagan.com/week-10-session-update",
-"https://leesahagan.com/week-7-2026-amended-budget",
-"https://leesahagan.com/week-9-update-2027-budget",
-"https://legis.ga.gov/api/document/docs/default-source/house-budget-and-research-office-document-library/2024_fiscal_year/fy_2024_budget-highlights_conference_committee_(hb_19).pdf?sfvrsn=57871b8_2",
-"https://legis.ga.gov/legislation/63584",
-"https://legis.ga.gov/legislation/63880",
-"https://legis.ga.gov/legislation/63881",
-"https://legis.ga.gov/legislation/63895",
-"https://legis.ga.gov/legislation/64008",
-"https://legis.ga.gov/legislation/64193",
-"https://legis.ga.gov/legislation/64207",
-"https://legis.ga.gov/legislation/64319",
-"https://legis.ga.gov/legislation/64322",
-"https://legis.ga.gov/legislation/64374",
-"https://legis.ga.gov/legislation/64596",
-"https://legis.ga.gov/legislation/64710",
-"https://linkedin.com/in/leesahagan",
-"https://mailchi.mp/064a8e45ec4a/campaign-email-signup",
-"https://soapboxderby.org/southeast-georgia",
-"https://twitter.com/LeesaHagan"
+{
+"text": "2023 Posts",
+"href": "https://leesahagan.com/category/2023-posts/"
+},
+{
+"text": "2024 Posts",
+"href": "https://leesahagan.com/category/2024-posts/"
+},
+{
+"text": "2025 Posts",
+"href": "https://leesahagan.com/category/2025-posts/"
+},
+{
+"text": "2026 Posts",
+"href": "https://leesahagan.com/category/2026-posts/"
+},
+{
+"text": "About Leesa",
+"href": "https://leesahagan.com/about-leesa/"
+},
+{
+"text": "Cardinalis",
+"href": "https://cardinalisdesign.com/political-website-design/"
+},
+{
+"text": "Constituent Services",
+"href": "https://leesahagan.com/constituent-services/"
+},
+{
+"text": "Elections",
+"href": "https://leesahagan.com/elections/"
+},
+{
+"text": "Final 2026 Session Update",
+"href": "https://leesahagan.com/final-2026-session-update/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LeesaHaganforGeorgia"
+},
+{
+"text": "Follow",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/LeesaHagan"
+},
+{
+"text": "Help Out",
+"href": "https://leesahagan.com/help-out/"
+},
+{
+"text": "House Bill 188",
+"href": "https://www.legis.ga.gov/legislation/63880"
+},
+{
+"text": "House Bill 189",
+"href": "https://www.legis.ga.gov/legislation/63881"
+},
+{
+"text": "House Bill 414",
+"href": "https://www.legis.ga.gov/legislation/64374"
+},
+{
+"text": "House Bill 538",
+"href": "https://www.legis.ga.gov/legislation/64710"
+},
+{
+"text": "Leesa.Hagan@house.ga.gov",
+"href": "mailto:Leesa.Hagan@house.ga.gov"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "News",
+"href": "https://leesahagan.com/news/"
+},
+{
+"text": "Senate Bill 11",
+"href": "https://www.legis.ga.gov/legislation/63584"
+},
+{
+"text": "Senate Bill 121",
+"href": "https://www.legis.ga.gov/legislation/64193"
+},
+{
+"text": "Senate Bill 133",
+"href": "https://www.legis.ga.gov/legislation/64207"
+},
+{
+"text": "Senate Bill 155",
+"href": "https://www.legis.ga.gov/legislation/64319"
+},
+{
+"text": "Senate Bill 159",
+"href": "https://www.legis.ga.gov/legislation/64322"
+},
+{
+"text": "Senate Bill 217",
+"href": "https://www.legis.ga.gov/legislation/64596"
+},
+{
+"text": "Senate Bill 68",
+"href": "https://www.legis.ga.gov/legislation/63895"
+},
+{
+"text": "Senate Bill 92",
+"href": "https://www.legis.ga.gov/legislation/64008"
+},
+{
+"text": "Southeast Georgia Soap Box Derby",
+"href": "https://www.soapboxderby.org/southeast-georgia"
+},
+{
+"text": "Twitter",
+"href": "https://leesahagan.com/2023-week-12-update-sine-die-yall/twitter.com/leesahagan"
+},
+{
+"text": "Week 10 Session Update",
+"href": "https://leesahagan.com/week-10-session-update/"
+},
+{
+"text": "Week 7 Session Update: The amended budget",
+"href": "https://leesahagan.com/week-7-2026-amended-budget/"
+},
+{
+"text": "Week 8 Session Update: Crossing Over",
+"href": "https://leesahagan.com/crossover-day-2026/"
+},
+{
+"text": "Week 9 Update: 2027 budget",
+"href": "https://leesahagan.com/week-9-update-2027-budget/"
+},
+{
+"text": "[image]",
+"href": "https://leesahagan.com"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?text=2023+Week+12+Update%3A+Sine+Die%2C+Y%E2%80%99all%21&url=https%3A%2F%2Fleesahagan.com%2F2023-week-12-update-sine-die-yall%2F&via=LeesaHagan"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2F2023-week-12-update-sine-die-yall%2F&t=2023+Week+12+Update%3A+Sine+Die%2C+Y%E2%80%99all%21"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2F2023-week-12-update-sine-die-yall%2F&title=2023+Week+12+Update%3A+Sine+Die%2C+Y%E2%80%99all%21"
+},
+{
+"text": "[no text]",
+"href": "http://www.printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2F2023-week-12-update-sine-die-yall%2F&title=2023+Week+12+Update%3A+Sine+Die%2C+Y%E2%80%99all%21"
+},
+{
+"text": "do so here",
+"href": "https://mailchi.mp/064a8e45ec4a/campaign-email-signup"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/api/document/docs/default-source/house-budget-and-research-office-document-library/2024_fiscal_year/fy_2024_budget-highlights_conference_committee_(hb_19).pdf?sfvrsn=57871b8_2"
+},
+{
+"text": "my constituent services page",
+"href": "https://leesahagan.com/constituent-services/"
+}
 ]

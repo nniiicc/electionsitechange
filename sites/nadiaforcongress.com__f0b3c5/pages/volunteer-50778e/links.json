@@ -1,13 +1,66 @@
 [
-"https://apps.apple.com/us/app/nadia-milleron-for-congress/id6479614951",
-"https://daycampaign.com/Donation/Index/530",
-"https://facebook.com/nadiamilleronforcongress",
-"https://instagram.com/nadiaforcongress",
-"https://nadiaforcongress.com/",
-"https://nadiaforcongress.com/about",
-"https://nadiaforcongress.com/fight",
-"https://nadiaforcongress.com/privacy-policy",
-"https://nadiaforcongress.com/volunteer",
-"https://nadiaforcongress.com/vote",
-"https://x.com/NadiaMilleron"
+{
+"text": "Apple",
+"href": "https://apps.apple.com/us/app/nadia-milleron-for-congress/id6479614951"
+},
+{
+"text": "Donate",
+"href": "https://daycampaign.com/Donation/Index/530"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/nadiamilleronforcongress"
+},
+{
+"text": "Home",
+"href": "https://nadiaforcongress.com/"
+},
+{
+"text": "How to Vote",
+"href": "https://nadiaforcongress.com/vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nadiaforcongress"
+},
+{
+"text": "Meet Nadia",
+"href": "https://nadiaforcongress.com/about/"
+},
+{
+"text": "Policies",
+"href": "https://nadiaforcongress.com/fight/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nadiaforcongress.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://nadiaforcongress.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/NadiaMilleron"
+},
+{
+"text": "[image: v1c]",
+"href": "https://nadiaforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://nadiaforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nadiamilleronforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nadiaforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/NadiaMilleron"
+}
 ]

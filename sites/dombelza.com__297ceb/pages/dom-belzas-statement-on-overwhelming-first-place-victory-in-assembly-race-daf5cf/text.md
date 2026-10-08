@@ -1,4 +1,4 @@
-Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA Dom Belza’s Statement on Overwhelming First Place Victory in Assembly Race Tonight, I am honored and humbled by the trust voters across the North State have placed in me.
+Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us DONATE ENDORSE DOM BELZA Dom Belza’s Statement on Overwhelming First Place Victory in Assembly Race Tonight, I am honored and humbled by the trust voters across the North State have placed in me.
 While votes are still being counted, the results so far are incredibly encouraging.
 If these numbers hold, our campaign will advance to the November runoff as the clear first-place finisher.
 In a crowded field of candidates, this is a significant result.

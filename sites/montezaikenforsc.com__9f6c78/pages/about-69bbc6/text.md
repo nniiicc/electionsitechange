@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Home Montez’s Priorities About Contact Fundraising Donate Store Disclaimers ( 0 ) Cart ( 0 ) Home Montez’s Priorities About Contact Fundraising Donate Store Disclaimers ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Montez’s Priorities About Contact Fundraising Donate Store Disclaimers Who is Montez?
+Skip to Content Open Menu Close Menu Home Montez’s Priorities About Contact Media Donate Store Disclaimers ( 0 ) Cart ( 0 ) Home Montez’s Priorities About Contact Media Donate Store Disclaimers ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Montez’s Priorities About Contact Media Donate Store Disclaimers Who is Montez?
 Montez Aiken is a native resident of Dorchester County with strong ties to Berkeley County who has dedicated his life to public service and education.
 After graduating from Summerville High School, he earned a Bachelor of Music in Music Education from the University of South Carolina.
 His early career as a public school teacher in both rural and urban areas gave him a clear understanding of the daily challenges faced by students and educators.

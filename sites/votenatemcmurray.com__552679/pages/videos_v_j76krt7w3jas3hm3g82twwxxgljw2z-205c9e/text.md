@@ -18,7 +18,8 @@ And it perfectly captures how unserious and chaotic modern American politics has
 We break all of it down live.
 Previous North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Next IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
-You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+You Might Also Like NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-Volunteer and Sign Up for Updates!
+IS NATE A RADICAL COMMUNIST?
+HARDLY LET’S GO THROUGH THE ISSUES.
+I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Volunteer and Sign Up for Updates!

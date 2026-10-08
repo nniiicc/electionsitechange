@@ -1,5 +1,4 @@
-Georgia Legislative Update – Week 3
-This was return to work week at the Gold Dome.
+Skip to content Menu Home Resources Legislative Updates Contact Donate Close Menu February 5, 2025 Georgia Legislative Update – Week 3 This was return to work week at the Gold Dome.
 Members of the Georgia House of Representatives returned to the State Capitol following the major winter storm that impacted much of our state, but especially us in South Georgia.
 This is the week we traditionally hear the State of the Judiciary from the Chief of the Georgia Supreme Court.
 Chief Justice Michael P.
@@ -30,7 +29,7 @@ If approved, it is sent to Gov.
 Kemp for either his signature or veto.
 This is the process we follow for all legislation, including the AFY 2025 and FY 2026 budgets.
 Early in the week, we began with a moment of reflection and remembrance, honoring the millions of innocent lives lost during the Holocaust.
-Through House Resolution 50, which designates January 27, 2025, as International Holocaust Remembrance Day, the House reaffirmed our commitment that such atrocities are always remember and never forgotten.
+Through House Resolution 50 , which designates January 27, 2025, as International Holocaust Remembrance Day, the House reaffirmed our commitment that such atrocities are always remember and never forgotten.
 Monday also marked the 80th anniversary of the liberation of Auschwitz- Birkenau, which served as a reminder of the resilience of humanity.
 We must never forget.
 Also, this week, we and our colleagues gathered in the House Chamber for a special event for the unveiling of former Dean of the House Calvin Smyre’s official portrait at the Georgia State Capitol, celebrating his remarkable 48-year career in the Georgia House of Representatives.
@@ -42,7 +41,7 @@ Lunar New Year marks the start of a new year based on the lunar calendar.
 The celebration included a lion dance, was organized by the Georgia Asian American Pacific Islander Legislative Caucus.
 During the celebration, several House Resolutions were presented to members of the community to honor and recognize their accomplishments.
 Among those recognized was the first Indian female Olympian to win gold in track and field in 1954.
-The Chinese-American Business Association of Atlanta was also celebrated on their 32nd anniversary of serving the Atlanta area.
+The Chinese-American Business Association of Atlanta was also celebrated on their 32 nd anniversary of serving the Atlanta area.
 This week we were able to hear from folks all across the state about there concerns for mental health.
 We set aside the day known as Mental Health Day and were able to hear and discuss specific issues of importance to them.
 It is always good to share time with those who come to advocate and this week we welcomed Joy Dickerson and were able to meet with her.
@@ -57,12 +56,15 @@ Finally, to end our week, we stood for a moment of silence to remember the victi
 Sam Lilley, the first officer aboard Flight 5342, was a graduate of Richmond Hill High School in Bryan County and Georgia Southern University.
 Ryan O’Hara, a 2014 graduate of Parkview High School in Lilburn, was serving as a Blackhawk helicopter Crew Chief.
 The House mourns this profound loss, and our thoughts and prayers are with all of the victims and their families.
-We will return to the State Capitol on Monday, February 3rd for our fourth week of session.
+We will return to the State Capitol on Monday, February 3 rd for our fourth week of session.
 We and our colleagues will continue to consider legislation that best serves Georgians, and we will be sure to update you about our legislative work.
 As we continue through the session, we hope that you will reach out with your questions or concerns regarding legislation and the issues that are important to you and your family.
 You are welcome to schedule a phone call or plan a visit to the State Capitol to discuss matters that are important to you and our community.
 Your legislators can be reached as follows: Rep.
-Chas Cannon: office is 501-C Coverdell Legislative Office or by email at chas.cannon@house.ga.gov or by phone at: (404) 656-0177.
+Chas Cannon: office is 501-C Coverdell Legislative Office or by email at chas.cannon@house.ga.gov or by phone at: (404) 656-0177 .
 Rep.
-Darlene Taylor may be reached at her office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246.
+Darlene Taylor may be reached at her office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246 .
 We recognize the honor you have given us and, we thank you for allowing us to serve as your state representatives.
+Georgia Legislative Update – Week 2 Georgia Legislative Update – Week 4 Related Posts Updates Georgia Legislative Update – Week 1 Ending January 17, 2026 Updates Georgia Legislative Update – Session Report Updates Georgia Legislative Update – Press Release Back To Top Darlene Taylor Post Office Box 6580 Thomasville, GA 31757 (229) 225-9943 Ext.
+215 ⓒ Rep.
+Darlene Taylor 2022 ☆ Paid by Darlene For Georgia Campaign

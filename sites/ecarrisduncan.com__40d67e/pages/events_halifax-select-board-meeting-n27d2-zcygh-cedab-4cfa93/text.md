@@ -1,4 +1,4 @@
 0 Skip to Content Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home Folder: About Me Back My Story Core Issues Events Thoughts + Updates Services Back to All Events Halifax Select Board Meeting Tuesday, September 3, 2024 6:00 PM 7:00 PM Google Calendar ICS Regular meeting of the Halifax selectboard meetings to discuss town business.
-Previous Previous September 1 Ratu's Riverside Concert Series Next Next September 17 Wilmington Selectboard Meeting Donate Wilmington.
+Donate Wilmington.
 Whitingham.
 Halifax

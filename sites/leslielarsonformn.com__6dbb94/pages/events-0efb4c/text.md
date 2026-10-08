@@ -7,6 +7,6 @@ Tuesday July 28th, 6:00-8:00pm Enjoy farm fresh corn and keg root beer while enj
 Variety of baked goods will be for sale Farmer Dale's farm fresh veggie cart will also be open Bring all you family and friends!
 Your attendance and financial support are so appreciated!
 Prepared and paid for by Leslie Larson for MN, P.O.
-Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
+Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions Housing LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
 Together we can deliver real solutions.
 Donate

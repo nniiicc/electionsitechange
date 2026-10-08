@@ -1,6 +1,6 @@
-Skip Navigation Menu Priorities About Get Involved Volunteer Merch Donate It's time to deliver an affordable Denver.
+Skip Navigation Menu Vote Priorities About Get Involved Volunteer Merch Donate It's time to deliver an affordable Denver.
 Join Melat today!
-Donate Priorities About Get Involved Volunteer Merch Donate It's time to deliver an affordable Denver.
+Donate Vote Priorities About Get Involved Volunteer Merch Donate It's time to deliver an affordable Denver.
 Join Melat today!
 Donate WE BACK KIROS FOR CONGRESS ENDORSEMENTS Democratic Socialists of America Senator Bernie Sanders Us senate -vermont Justice Democrats MORE ENDORSEMENTS HERE The 'any Democrat will do' era is over.
 "When I spoke out against the genocide in Gaza, powerful people told me to stay silent or it would cost me my job." "I didn't back down.

@@ -1,7 +1,12 @@
 {
  "description": "Official campaign website for Cal Forrest for SC House",
  "final_url": "https://forrestforhouse.com/home",
- "paid_for_by": null,
+ "fingerprint": "e312f58f0b0466e9b124e363006acd5b4a08a61e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Cal Forrest for SC House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

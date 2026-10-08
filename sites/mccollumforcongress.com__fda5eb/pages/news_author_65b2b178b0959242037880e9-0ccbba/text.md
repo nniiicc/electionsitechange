@@ -1,4 +1,9 @@
-0 Skip to Content Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign DONATE Open Menu Close Menu DONATE Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign Open Menu Close Menu Home About Betty Endorsements News Media Vote Folder: Get Involved Back Volunteer Events Lawn Sign DONATE NEWS Scott Petty 10/1/26 Scott Petty 10/1/26 morning take | Scores and Statments By Blois Olson, morning take “ RESPONSE: via Rep.
+0 Skip to Content Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign DONATE Open Menu Close Menu DONATE Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign Open Menu Close Menu Home About Betty Endorsements News Media Vote Folder: Get Involved Back Volunteer Events Lawn Sign DONATE NEWS Scott Petty 10/7/26 Scott Petty 10/7/26 Election 2026: Where Candidates in All 435 U.S.
+House Races Stand on Marijuana Law Reform By Anthony Martinelli, The Marijuana Herald “4th Congressional District Betty McCollum (D) McCollum has consistently supported federal marijuana reform.
+She voted for the SAFE Banking Act in 2021 and for the MORE Act and Medical Marijuana Research Act in 2022.
+She subsequently cosponsored both the MORE Act and SAFE Banking Act.
+McCollum is also a cosponsor of the current MORE Act, H.R.
+5068, which would federally deschedule marijuana and eliminate federal criminal penalties.” Read More Scott Petty 10/1/26 Scott Petty 10/1/26 morning take | Scores and Statments By Blois Olson, morning take “ RESPONSE: via Rep.
 Betty McCollum statement, McCOLLUM: ‘In 2002, I was one of 133 members of the House of Representatives to vote against the [war]. … At the time, I believed that President [George W.] Bush ’s decision to take America to war was terribly wrong.
 I stand by my vote. … Our leaders in Washington must heed the lessons of the Iraq War.
 Once again, our nation is mired in another destructive war of choice in the Middle East.’” Read More Scott Petty 9/30/26 Scott Petty 9/30/26 2026 Election Guide: U.S.
@@ -65,10 +70,7 @@ This bipartisan, bicameral legislation would establish a pilot program at the De
 Betty McCollum (D-Minn.) and Matt Van Epps (R-Tenn.), would authorize the secretary of energy to “deploy innovative financial mechanisms” to boost the supply of minerals such as graphite, nickel, and cobalt that are used in such items as smartphones, electric vehicle batteries, solar panels, and wind turbines.” Read More Scott Petty 9/11/26 Scott Petty 9/11/26 US Rep.
 Betty McCollum remembers 9/11, 25 years later By Mary Murphy, Forum News Service via Pioneer Press “The congresswoman, who was in Washington that day, is the only member of Minnesota’s 2001 delegation still serving today.” Read More Scott Petty 9/10/26 Scott Petty 9/10/26 Trump's $5,000 dividend promise draws backlash, legal questions By Mike Manzoni, FOX 9 “Democratic Congresswoman Betty McCollum, dean of Minnesota’s congressional delegation, called it a ‘desperate gimmick.’” Read More Scott Petty 9/3/26 Scott Petty 9/3/26 With 3 Federal Bills in Play, Hopes are High for Full Gluten Labeling By Wendy Mondello, Allergic Living “Celiac Safety Act of 2026 (HR 9048): Would require any product to list “gluten-containing grains,” defined as wheat, barley, rye or any crossbred hybrids (such as triticale) as major allergens.
 Introduced in the U.S.
-House of Representatives in May 2026 by Representatives Emanuel Cleaver and Betty McCollum.” Read More Scott Petty 9/2/26 Scott Petty 9/2/26 Minnesota Primary Sets November Matchups From Ramsey County To Statewide Races By Damian Goebel, Community Reporter “In the 4th Congressional District, longtime DFL U.S.
-Rep.
-Betty McCollum defeated challenger Aswar Rahman with about 86% of the vote.
-Republican Paul Wikstrom won his party’s nomination with about 73%, setting up a McCollum-Wikstrom contest in November.” Read More Older Posts Thank you for visiting my campaign website.
+House of Representatives in May 2026 by Representatives Emanuel Cleaver and Betty McCollum.” Read More Older Posts Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
 (651) 603-1505 info@mccollumforcongress.com McCollum for Congress P.O.
 Box 14131 Saint Paul, MN 55114 PAID FOR BY McCOLLUM FOR CONGRESS

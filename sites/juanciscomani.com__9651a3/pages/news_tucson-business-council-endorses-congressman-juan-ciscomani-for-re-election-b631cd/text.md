@@ -9,7 +9,7 @@ I will keep working across the aisle to make Arizona’s Sixth District the best
 These investments are strengthening public safety, expanding workforce training, improving critical infrastructure, and creating new opportunities throughout Southeastern Arizona.
 The Tucson Business Council joins a growing coalition of business organizations, labor groups, law enforcement, and local leaders from across the political spectrum supporting Ciscomani’s campaign for reelection.
 See Ciscomani’s full list of endorsements HERE .
-Blake Wilson Next Next NEW AD Puts Lobbyist JoAnna Mendoza’s Extreme Record on Display Newsletter Block This newsletter signup form needs a storage option.
+Blake Wilson Previous Previous NEW AD: JUAN CISCOMANI’S RECORD IN HIS OWN WORDS Next Next NEW AD Puts Lobbyist JoAnna Mendoza’s Extreme Record on Display Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up today for the latest updates from Juan.
 First Name Last Name Email Address Sign Up Thank you!

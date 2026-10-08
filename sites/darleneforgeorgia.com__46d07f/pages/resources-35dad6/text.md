@@ -1,51 +1,10 @@
-Voter Information
-Community Resources
-Local Resources Guide:
-State Resources:
-For Teens who are experiencing domestic violence, you can get help by texting 706-765-8019.
-Georgia Department of Labor
-Employee Rights
-Employer Requirements
-FFCRA Poster
-DECAL Hotline: 1-877-ALL-GA-KIDS or 1-877-255-42-5437
-TSGA (Free online professional development training)
-Voter Information:
-The Georgia Secretary of State My Voter Page Website can provide you with the following voter-specific information:
-County Elections Information for District 173:
-Grady County Board of Elections
-250 North Broad Street, Box 1
-Cairo, GA 39828
-Telephone: (229) 377-4621
-Fax: (229) 378-8052
-Email: maddox.denise2@gmail.com
-Thomas County Board of Elections
-1402 E.
-Jackson Street
-P.
+Skip to content Menu Home Resources Legislative Updates Contact Donate Close Menu Voter Information Community Resources Legislative Updates Georgia Legislation Search Donate Today Local Resources Guide: Grady County Grady County Community Resource Guide City of Cairo Grady County Government Grady County Schools Grady County Family Connections Pregnancy Center of Southwest Georgia – Cairo Roddenbery Memorial Library Cairo/Grady Chamber of Commerce Thomas County Thomas County Resource Guide City of Thomasville Thomas County Government Thomas County School System Thomas County Family Connections Pregnancy Center of Southwest Georgia – Thomasville Thomas County Public Library Thomas County Chamber of Commerce State Resources: TCSG/Workforce Development Employment & Training Assistance Georgia Crisis Line & Access 24-hour line Georgia Department of Economic Development link for essential medical supplies/PPE Georgia Department of Agriculture Healthy Mothers, Healthy Babies Georgia Department of Behavioral Health and Developmental Disabilities Georgia Department of Public Health Statistics Georgia Department of Public Health Resources Georgia Department of Aging Services Georgia Department of Human Services Georgia Department of Family and Children Services Georgia Council on Substance Abuse 24-Hour Statewide Domestic Violence Hotline: For Teens who are experiencing domestic violence, you can get help by texting 706-765-8019 .
+Georgia Department of Labor Employee Rights Employer Requirements FFCRA Poster Georgia Department of Transportation UGA Archway Resource Guide Childcare Resources Georgia Department of Family and Children’s Services DECAL Hotline: 1-877-ALL-GA-KIDS or 1-877-255-42-5437 DFCS Benefit Notice 3/24 Governor Kemp’s Updates Governor’s Executive Orders Georgia Department of Education University System of Georgia (USG) and Technical College System of Georgia TSGA (Free online professional development training) The office of the Georgia Secretary of State and Georgia Voter Information The Georgia Department of Driver Services (DDS) Georgia Office of Insurance and Fire Safety Voter Information: The Georgia Secretary of State My Voter Page Website can provide you with the following voter-specific information: Voter registration status Mail-In application and ballot status Poll Location Early Voting Locations Elected Officials Registration information on file with the county office Sample ballot for the upcoming election County Elections Information for District 173: Grady County Board of Elections 250 North Broad Street, Box 1 Cairo, GA 39828 Telephone: (229) 377-4621 Fax: (229) 378-8052 Email: maddox.denise2@gmail.com Thomas County Board of Elections 1402 E.
+Jackson Street P.
 O.
-Box 110
-Thomasville, GA 31792
-Telephone: (229) 225-4101
-Fax: (229) 225-3133
-Email: frank.scoggins@thomascountyga.gov
-Grady County Board of Elections
-250 North Broad Street, Box 1
-Cairo, GA 39828
-Telephone: (229) 377-4621
-Fax: (229) 378-8052
-Email: maddox.denise2@gmail.com
-Thomas County Board of Elections
-1402 E.
-Jackson Street
-P.
+Box 110 Thomasville, GA 31792 Telephone: (229) 225-4101 Fax: (229) 225-3133 Email: frank.scoggins@thomascountyga.gov Grady County Board of Elections 250 North Broad Street, Box 1 Cairo, GA 39828 Telephone: (229) 377-4621 Fax: (229) 378-8052 Email: maddox.denise2@gmail.com Thomas County Board of Elections 1402 E.
+Jackson Street P.
 O.
-Box 110
-Thomasville, GA 31792
-Telephone: (229) 225-4101
-Fax: (229) 225-3133
-Email: frank.scoggins@thomascountyga.gov
-Public Health Emergencies & Extreme Weather Resources:
-Monkeypox Guidance and Resources
-Georgia Emergency Manegement
-Covid State Resources Page
-Federal Emergency Management
+Box 110 Thomasville, GA 31792 Telephone: (229) 225-4101 Fax: (229) 225-3133 Email: frank.scoggins@thomascountyga.gov Public Health Emergencies & Extreme Weather Resources: Monkeypox Guidance and Resources Georgia Emergency Manegement Covid State Resources Page Federal Emergency Management Back To Top Darlene Taylor Post Office Box 6580 Thomasville, GA 31757 (229) 225-9943 Ext.
+215 ⓒ Rep.
+Darlene Taylor 2022 ☆ Paid by Darlene For Georgia Campaign

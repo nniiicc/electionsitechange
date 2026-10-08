@@ -6,7 +6,7 @@ We need: County Captains Volunteer Membership Coordinator Collateral (Materials)
 First Name Last Name Address City County Zip Code Phone Your primary contact number Email Interests or Hobbies Interests or Hobbies Sports Photography Social Media Art/Crafts Outdoors Music Cuisine other: Let us know what you like to do so we can find the best fit for you.
 How do you want to participate How do you want to participate County Captian City Captain Volunteer Coordinator Collateral (Materials) Manager Phone Banking Canvassing Neighborhood Walker Social Media Events Coordinator Events Participant Coalition Liaison other: How would you like to participate to help the campaign?
 Languages Languages English Spanish Tagalog Ilocano Mandarin Cantonese Vietnamese Taiwanese Arabic Farsi Pashtun Hindi other: Let us know what languages you speak so we can best place you.
-CAPTCHA 4 − 3 = ?
+CAPTCHA 7 × 1 = ?
 Comments are closed.
 Donate Here Click on Map to see more detail Find Your Congressional District Click here to see a detailed map of your district Rudy's podcast Boot's on the Ground Register to Vote in California Major (Ret) Rudy Recile For U.S.
 Congress | Powered by Mantra & WordPress.

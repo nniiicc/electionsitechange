@@ -4,14 +4,18 @@ I would be honored to receive your vote for re-election.” - Walter Hall - Abou
 Walt is going to brings his passion and commitment to improving lives to the West Virginia House of Delegates as the representative of District 58.
 LEARN MORE Get Involved Walt is hitting the ground running and needs all hands on deck.
 Sign up to get involved today.
-LEARN MORE News & Press Walt Appears on WRNR TV I called into the show to discuss the Blue Envelope Program.
-Link to the show: https://www.youtube.com/watch?v=PgQzZ8xUvBE&t=165s The Blue Envelope Program Launches I was honored that the bill I proposed, the Blue Envelope Program, was signed into law.
-The Governor held a press conference on Thursday, 1:00pm at the Saint Albans Police Department Headquarters to highlight the bill.
-I believe this program provides those vulnerable citizens in our society that are driving with the challenges to communicate and having this visual cue of the blue envelope will allow the traffic stop to diffuse any situation that may have been in place prior t Happy July 4th Everyone.
-For many Americans, the Fourth of July is both a celebration of independence and an occasion to reflect on the nation's past, appreciate its freedoms, honor those who have contributed to its development, and consider the responsibilities of citizenship.
-Let us take a moment to remember the courage, sacrifice, and vision of those who secured our nation's freedom.
-Their legacy reminds us that liberty is both a blessing and a responsibility.
-I wish everyone in District 58 and ac Contact Endorsements Contact P.
+LEARN MORE News & Press Scalp Cooling Insurance Coverage Passed Sometimes legislation starts with one person’s story.
+For me, this one was personal.
+After watching my sister experience hair loss during chemotherapy, Jessica Huffman’s story helped inspire our work on scalp cooling insurance coverage in West Virginia.
+Link to the video: https://www.youtube.com/watch?v=otmKPbOTw04 St.
+Albans Bridge Gets New Banners A fresh look for the St.
+Albans bridge!
+Watch crews install patriotic banners celebrating America’s 250th anniversary, marked with the years 1776–2026.
+Featuring close-up installation footage, on-camera conversations, and sweeping aerial views of the bridge and river, this video captures a local celebration of community and country.
+Link to the video: https://www.youtube.com/watch?v=VhfgAWZgLf4 What Does a Delegate Do?
+My work as your delegate continues long after the legislative session ends.
+It means showing up, listening to your priorities, and helping our communities find resources for projects that matter—from safety equipment for first responders to support for schools and senior centers.
+Link to the video: https://www.youtube.com/watch?v=jCbFloeR9LE Contact Endorsements Contact P.
 O.
 Box 1201 Saint Albans, WV 25177 ​​Tel: 304-552-6547 ​ info@WalterHallWV.com © # Walter Hall WV Photography provided by Thorney Lieberman & Perry Bennett .
 Web design by Teel Design Group Tell Walt Walter Hall wants to hear from you.

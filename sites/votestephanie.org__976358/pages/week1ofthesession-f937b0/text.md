@@ -45,4 +45,4 @@ Bills Passed By the House This Week H.B.
 74 Utah Marriage Commission Amendments H.B.
 75 State Commemorative Periods Amendments H.B.
 77 Local District Revisions H.B.
-99 Sex Offender Restrictions Amendments Week 2 of the 2023 General Session → About Stephanie Gricius 0 Comments  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 5 + 13 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+99 Sex Offender Restrictions Amendments Week 2 of the 2023 General Session → About Stephanie Gricius 0 Comments  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 8 + 5 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

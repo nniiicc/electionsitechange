@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Priorities The agenda for El Paso.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Priorities The agenda for El Paso.
 What we're carrying into the next session — for El Paso, for working Texas families, and for democracy itself.
 Priority 01 Fair maps and the right to vote Carry forward the fight we started on HB 4.
 Challenge maps that erase Hispanic and Black voting power.

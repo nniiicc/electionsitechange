@@ -25,7 +25,7 @@ We should make sure everyone who wants to call our state home can.
 The day I step foot in the statehouse I’ll be committed to lowering the cost of living in Vermont in order to attract and retain residents.
 The fiscal health of Vermont will rely on its ability to retain working age people.
 We can plan for a future without them - submitting to our failures of the past and present: fewer schools in hollow towns, fewer shops on fewer main streets - or we can imagine a more abundant future for ourselves, where we share our costs amongst a healthy community of workers, homeowners, and renters.
-Where our kids can plan their futures without forking over a third of their income to live on their own.
+Where our kids can plan their futures without forking over half of their income to live on their own.
 Where town meeting day is an exciting opportunity to fund our town’s next generation of learners, not the last straw in a make-or-break decision to stay or to go.
 In the Vermont I will fight for, workers and families come first, every time.
 Transform education The rising cost of education is the primary driver of property taxes.

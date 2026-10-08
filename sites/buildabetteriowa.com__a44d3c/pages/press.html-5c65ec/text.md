@@ -23,4 +23,4 @@ Of the funds raised, 98% came from local, small-dollar donors , underscoring a b
 With the campaign off to a strong start, Robinson says he's focused on building momentum and bringing real change to the Statehouse. ​ “This campaign is about building a better Iowa — together,” Robinson said.
 “We’re done waiting on solutions from out-of-touch politicians.
 I’m ready to fight for working class Iowans.
-It’s time we do more than just merely get by, we need paychecks that keep up with costs and the security to know if we work hard and do the right thing we will be able to thrive.” 0 Comments Hoover Elementary Closing 6/12/2025 0 Comments 0 Comments For press inquiries Please email: MattRobinsonForIowa ​@gmail.com Home MY STORY Issues Press VOLUNTEER DONATE
+It’s time we do more than just merely get by, we need paychecks that keep up with costs and the security to know if we work hard and do the right thing we will be able to thrive.” 0 Comments Hoover Elementary Closing 6/12/2025 0 Comments 0 Comments For press inquiries Please email: MattRobinsonForIowa ​@gmail.com Paid For by Matt Robinson for Iowa Home MY STORY Issues Press VOLUNTEER DONATE

@@ -3,15 +3,15 @@ Senate DONATE NOW English English Español Português 繁體中文 Meet Ed Endor
 He has never been afraid to disrupt the status quo, and since he was first elected to the United States Senate in 2013, Ed has been leading and delivering on the issues that matter the most to the people of Massachusetts.
 LEARN MORE Endorsements The Latest Donate Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Click here to make an Offline Donation .
-Social Media Follow Ed Markey #ago Back on the picket line with Encore workers—one day longer.
-One day stronger.
-They are not agonizing, they are organizing.
-Urging parties to negotiate in good faith and agree to a contract with good wages and working conditions.
-2 Retweet on Twitter 2107637237902897176 15 Like on Twitter 2107637237902897176 Share 2107637237902897176 Follow Ed Markey #ago In Massachusetts, we’re taking on the ultra-rich and fighting for working people.
-Proud to organize together.
-3 Retweet on Twitter 2107606936006852726 10 Like on Twitter 2107606936006852726 Share 2107606936006852726 Follow Ed Markey #ago Grateful to speak alongside State Senator Lydia Edwards at the Mass Black Expo.
-Black-owned businesses are vital to our local communities—we must ensure their economic well being and continual growth.
-1 Retweet on Twitter 2107598805503824154 8 Like on Twitter 2107598805503824154 Share 2107598805503824154 The Latest Ed Markey Wins Democratic Primary For U.S.
+Social Media Follow Ed Markey #ago We must address the challenges Black businesses owners face in finding opportunity and access to capital—and we must fight to ensure they can achieve their American dreams.
+Thanks to State Senator Lydia Edwards for an important discussion.
+1 Retweet on Twitter 2107954248713375986 13 Like on Twitter 2107954248713375986 Share 2107954248713375986 Follow Ed Markey #ago Happy 100th birthday to Ms.
+Opal Lee.
+Grateful to have worked with you to make Juneteenth a national holiday and looking forward to our continued partnership in the work to secure equality and justice for all.
+6 Retweet on Twitter 2107949119020900507 43 Like on Twitter 2107949119020900507 Share 2107949119020900507 Follow Ed Markey #ago Donald Trump and his Administration are profiting off the presidency and turning it into an all-you-can-eat corruption buffet.
+Unacceptable.
+We must put a stop to this unchecked corruption.
+4 Retweet on Twitter 2107913328043401285 23 Like on Twitter 2107913328043401285 Share 2107913328043401285 The Latest Ed Markey Wins Democratic Primary For U.S.
 Senate September 1, 2026 Tonight, Ed Markey won the Democratic primary for the U.S.
 Senate, securing the Democratic nomination and advancing to the November general election.
 IUE-CWA LOCAL 201 Endorses Ed Markey For Re-Election Lynn-based union backs Markey for supporting union workers, American manufacturing, and national security August 27, 2026 U.S.

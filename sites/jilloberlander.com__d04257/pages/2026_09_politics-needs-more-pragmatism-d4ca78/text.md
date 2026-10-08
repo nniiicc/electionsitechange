@@ -11,7 +11,7 @@ As someone who supported Jill’s campaign from the start and serves with her on
 I think we need more independent, pragmatic thinkers in our State Senate today.
 I want representation in Hartford focused on getting things done, not scoring points.
 I’m confident Jill Oberlander is that person.
-JoAnna Foyle, Greenwich ← Why Jill Oberlander is the Leader We Need in the State Senate Twenty five years later, we remember → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
+JoAnna Foyle, Greenwich ← Why Jill Oberlander is the Leader We Need in the State Senate Twenty five years later, we remember → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts Joe Kelly gets the math wrong We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
 We should have theirs.
-A little more about me A common-sense approach is why Jill Oberlander has earned my vote for State Senator CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+A little more about me CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

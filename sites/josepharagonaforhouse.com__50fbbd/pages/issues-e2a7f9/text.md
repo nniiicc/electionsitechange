@@ -11,4 +11,4 @@ Promote and defend selfridge Maintaining and strengthening Selfridge Air Nationa
 Selfridge is vital to both our national defense and Michigan’s economy, supporting thousands of jobs and driving growth in our region.
 I’ve been proud to support budgets that prioritize Selfridge, and I will continue fighting for increased funding to ensure it remains a strong, secure, and lasting asset for our state and country.
 Follow me on Social Media!
-Contact Join our team joe@josepharagonaforhouse.com Enter your email address Submit your information now PAID FOR CTE JOE ARAGONA, 42033 COULON DR, CLINTON TWP., MI 48038 Donate
+Contact Join our team joe@josepharagonaforhouse.com Enter your email address Submit your information now PAID FOR CTE JOSEPH ARAGONA, 42033 COULON DR, CLINTON TWP., MI 48038 Donate

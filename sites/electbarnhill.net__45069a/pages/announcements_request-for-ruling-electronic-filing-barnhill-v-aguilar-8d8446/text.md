@@ -29,7 +29,7 @@ This case is about 9,607 Nevadans with duplicate active voter registrations.
 I’m asking for an audit, not alleging fraud.
 Getting there means following the process, one filing at a time, by mail if I have to.
 Results, Not Noise.
-#YourIndependentVoice Get to know me · Join the campaign · Donate Barnhill v.
+#YourIndependentVoice Barnhill v.
 Aguilar — Case Timeline May 20, 2026 Barnhill submitted a sworn complaint concerning alleged duplicate voter-registration records to the Nevada Secretary of State’s Elections Division and Clark County officials.
 See Who Will Protect Your Vote ?
 June 3–4, 2026 Formal notice was sent under the National Voter Registration Act .
@@ -55,8 +55,10 @@ The Court has not yet ruled on the September 16 e-filing motion.
 See Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer .
 October 6, 2026 Barnhill mailed a Notice of Lodging Proposed Order and Request for Ruling on the September 16 e-filing motion, with a proposed order attached.
 Latest update: I’ve Asked the Court to Rule on My E-Filing Request .
-Share: Categories: Announcements Post navigation Previous Previous post: Election Technology Modernization Voters Can Trust Next Next post: Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+I took the Secretary of State to federal court to protect your vote.
+Has your candidate?
+Get to know me · Join the campaign · Donate Share: Categories: Announcements Post navigation Previous Previous post: Election Technology Nevada Voters Can Actually Check Next Next post: Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

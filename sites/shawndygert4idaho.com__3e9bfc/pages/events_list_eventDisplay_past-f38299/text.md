@@ -1,7 +1,7 @@
 Skip to content Shawn Dygert 4 Idaho Candidate for Idaho State House, District 23B Home About Issues Events Supporters Accomplishments Contact DONATE Facebook page opens in new window Instagram page opens in new window X page opens in new window close Home About Issues Events Supporters Accomplishments Contact 10 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 4/13/2024 April 13, 2024 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 4/13/2024 April 13, 2024 - 10/8/2026 Now Select date.
 April 2024 Sat 13 Coffee and Doughnuts with Shawn Dygert for District 23B at Latte Da Kuna April 13, 2024 @ 9:00 am - 10:30 am Latte da Kuna 762 E Wythe Creek Ct,, Kuna, Idaho Join us at Latte Da Kuna for a meet and greet with Shawn Dygert!
 Enjoy a cup of joe, ask your questions, and get to know Shawn and his vision to represent District 23 Seat B.
 Tue 16 Meet & Greet Shawn Dygert 4 Idaho 23B in Kuna April 16, 2024 @ 6:00 pm - 8:00 pm Hillary Lowe 2600 S Eagle Rd, Kuna, Idaho Don't miss this opportunity to meet Shawn Dygert, hear about his vision for District 23, and discuss the issues that matter most to you. *This event is hosted at a private residence.

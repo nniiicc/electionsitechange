@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid First Issue The Proactive Agenda “Confronting the Whole Truth, Not Just the Headlines.” 1.
 Infrastructure: Beyond the Ribbon Cutting The "obvious" approach to infrastructure is a one-time photo op for a new bridge while the rest of our foundation rots.
 I will move us toward proactive asset management.

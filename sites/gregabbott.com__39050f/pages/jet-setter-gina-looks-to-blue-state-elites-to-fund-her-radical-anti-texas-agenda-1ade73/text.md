@@ -1,0 +1,9 @@
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page JET-SETTER GINA LOOKS TO BLUE STATE ELITES TO FUND HER RADICAL, ANTI-TEXAS AGENDA Oct 7, 2026 AUSTIN — Gina Hinojosa is struggling to earn support for her radical agenda from Texas voters, so she’s taking her campaign to out-of-state Democrat strongholds.
+Over the past three weeks, Hinojosa has made special appearances in Los Angeles, Denver, and New York City.
+“Gina Hinojosa can’t sell her radical agenda to Texans, so she has resorted to jetting coast to coast to beg for help to fund it.
+From New York City, to Los Angeles, to Denver – less than two weeks from the start of voting – Gina is courting liberal elites who share her crazy out-of-touch values.
+Instead of raising money from outside the state for her radical agenda, Gina should be explaining her shameful record to Texans.” — Catherine Frazier, Texans for Greg Abbott Communications Director On September 17, Hinojosa was in socialist Mayor Zohran Mamdani’s NYC, rubbing shoulders with the upper crust of New York society at a high-end art gallery in Manhattan: On October 4, Denver Democrats honored Hinojosa in Colorado at an intimate fundraiser.
+One attendee aptly characterized the event in this way: “What happens in Texas doesn’t stay in Texas.” That’s especially accurate for a candidate who is receiving millions from out-of-state Democrats , including radical Illinois billionaire Governor JB Pritzker.
+On October 5, Hinojosa made her way to Gavin Newsom’s California to spread more of her same tired lies: Learn more about Hinojosa’s deplorable record at HypocriteHinojosa.com and GenderBenderGina.com .
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.

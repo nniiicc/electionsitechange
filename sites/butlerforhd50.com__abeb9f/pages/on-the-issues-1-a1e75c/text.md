@@ -17,8 +17,10 @@ Roads and Infrastructure Driving on state highways in Northern Colorado is a bum
 CDOT needs more funding, but also needs to re-prioritize roads in our district.
 CDOT and the state have to work better with our region to help bridge the gap so local municipalities don’t have to shoulder so much of the burden.
 In my time on the Greeley City Council, I fought for and secured funding for projects like the 5th St overlay, increased funding to upgrade sidewalks, and funding for the 12th St Outfall (over $500m to address downtown flooding.) We need to fight for state funding for multiple Highway 34 overpasses and long-overdue improvements at Spaghetti Junction.
-Affordable Child Care For too many in Weld County, child care costs are out of reach.
-We need sustainable funding in Colorado to provide the reliable child care our families need.
+Affordable Childcare Weld County has a child care crisis.
+Because of a CCCAP freeze, low-income families can’t even get on a waitlist to get the child care they need.
+This freeze has been in place for five years.
+We need to find a short-term funding fix and work to build out long-term, sustainable funding for child care in for Colorado families.
 Graduated Income Tax How we fund these things matters.
 In Colorado, high income earners pay the same rate as you and me.
 Working families cannot and should not pay higher taxes right now.

@@ -1,4 +1,4 @@
-Skip navigation menu About Troy Endorsements Priorities News Volunteer Events DONATE About Troy Endorsements Priorities News Volunteer Events DONATE JOIN US AT AN EVENT NEAR YOU Upcoming campaign events To find more coordinated campaign organizing and volunteer events on the ground, click here.
+Skip navigation menu About Troy Endorsements Priorities News Volunteer Events DONATE About Troy Endorsements Priorities News Volunteer Events DONATE JOIN US AT AN EVENT NEAR YOU UPCOMING CAMPAIGN EVENTS To find more coordinated campaign organizing and volunteer events on the ground, click here.
 Early Voting Kickoff Canvass Launch with Troy, Hannah, and Matt!
 621 Main St, Lewiston, ME, 04240 Join Troy Jackson, Hannah Pingree, and Matt Dunlap for an Early Voting Kickoff & Canvass Launch!
 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the tic… Show more RSVP Bangor Rally with Bernie Sanders | Solidarity Forever Tour Cross Insurance Center 515 Main St, Bangor, ME, 04401 Join U.S.
@@ -41,7 +41,9 @@ Sign up for more details, Millinocket, ME, 04462 Join us for a Troy Jackson and 
 We'll be gathering at the residence of a supporter in Millinocket.
 We encourage folks to bring… Show more RSVP Waldoboro Debate Doubleheader Potluck for Troy and Hannah!
 251 Jefferson St, Waldoboro, ME, 04572 Our very own Hannah Pingree and Troy Jackson are debating back-to-back on the same evening!
-Join us in Waldoboro at 6:30pm for an evening of community and to watch our Democratic champions debate thei… Show more RSVP Ogunquit and Cape Neddick for Troy!
+Join us in Waldoboro at 6:30pm for an evening of community and to watch our Democratic champions debate thei… Show more RSVP Virtual Town Hall W/ Troy!
+Virtual Event Join Troy Jackson for a virtual statewide town hall to talk about the issues facing Maine people and communities.
+Troy will share what he’s hearing from Mainers across the state, talk about his campa… Show more RSVP Ogunquit and Cape Neddick for Troy!
 This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Cape Neddick, ME, 03902 In less than 30 days, we are going to have the opportunity to change the course of our communities and the country.

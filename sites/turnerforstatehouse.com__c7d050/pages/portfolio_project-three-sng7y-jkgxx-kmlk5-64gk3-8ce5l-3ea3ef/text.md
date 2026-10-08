@@ -121,5 +121,5 @@ Let’s cut the red tape.
 Let’s expand coverage.
 Let’s make sure no Texas child is denied a doctor’s visit because of paperwork or politics.
 This isn’t just good policy, it’s our Christian duty, it’s our Texas promise, and it’s long past time we delivered.
-PORTFOLIO Previous Previous LGBTQ+ Ready to Build a Stronger HD-59?
+PORTFOLIO Ready to Build a Stronger HD-59?
 WEAR THE FIGHT CONTACT FUEL THE MISSION GET INVOLVED Paid for by Citizens for SGT Turner Andrew@sgtturnerforstatehouse.com

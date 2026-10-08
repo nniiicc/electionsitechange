@@ -41,9 +41,6 @@ Lead Locally Lead Locally is a national organization dedicated to recruiting, tr
 Founded to help bring new voices into politics, Lead Locally works to identify candidates who reflect the diversity, values, and experiences of the communities they seek to represent.
 Through training, mentorship, and a growing network of public servants, the organization helps equip candidates with the tools they need to run strong, people-focused campaigns and lead effectively once in office.
 Their support reflects a belief in building a new generation of thoughtful, community-driven leadership.
-Mother PAC Mother PAC is a grassroots organization focused on electing leaders who stand up for working families and future generations.
-Centered on issues like healthcare, education, and economic stability, the group works to ensure parents and caregivers have a real voice in our political system.
-Their support reflects a commitment to people-first leadership and policies that strengthen families and communities across Oregon.
 PCCFFAP — American Federation of Teachers The Portland Community College Federation of Faculty and Academic Professionals represents faculty and academic professionals at Portland Community College.
 The union advocates for strong public higher education, fair working conditions for educators, and the resources needed to support student success.
 PCCFFAP works to ensure community colleges remain accessible, affordable, and responsive to the needs of students and the broader community.
@@ -51,6 +48,8 @@ Save Helvetia!
 Save Helvetia is a community-driven advocacy group committed to protecting farmland, natural resources, and the rural character of Washington County.
 The organization has been a leading voice in pushing back against unchecked development and ensuring that growth decisions reflect the needs and values of local residents.
 Their support reflects a shared commitment to responsible land use, environmental stewardship, and putting community voices at the center of decision-making.
+OCL Action Fund The Oregon Consumer League Action Fund works to protect Oregonians’ rights through consumer education, policy development, and advocacy.
+Our organization was founded in 2022 to advance consumer protection in Oregon.
 PSU-AAUP PSU-AAUP is the Portland State University chapter of the American Association of University Professors, representing faculty committed to academic freedom, shared governance, and strong public higher education.
 As a leading voice for educators, workers, and students at Portland State, PSU-AAUP advocates for fair working conditions, accessible education, and investment in Oregon’s public universities.
 Myrna stands with PSU-AAUP on protecting public institutions, supporting working families, and building an Oregon where students, workers, and communities can thrive.
@@ -66,8 +65,6 @@ ILWU Oregon Federation of Nurses and Health Professionals (OFNHP) , AFT Local 50
 We know that when healthcare workers are united across job classifications and disciplines, we become a more powerful voice for our patients, our community, and ourselves.
 OFNHP Oregon AFSCME Oregon American Federation of State, County and Municipal Employees has been representing civil service workers here in Oregon since 1942, with the mission to bolster and maintain the civil service system, as well as to spread that system all over the nation.
 Pro-Animal Oregon Since their launch in 2024, Pro-Animal Oregon is a coalition of voters, volunteers, and small donors fighting for the rights of animals, building toward their ultimate goal to end factory farming in Oregon.
-OCL Action Fund The Oregon Consumer League Action Fund works to protect Oregonians’ rights through consumer education, policy development, and advocacy.
-Our organization was founded in 2022 to advance consumer protection in Oregon.
 ONA The Oregon Nurse’s Association is an organization who’s primary goal is cultivating and maintaining safe, sustainable working conditions for the nurses who keep the hospitals running in our great State since 1904.
 PPAO Planned Parenthood Action Oregon provides resources for people to inform themselves on healthcare, family planning, and their bodily autonomy.
 APC The American People’s Compact is an organization who wants us all to know that we have more in common than not , regardless of partisanship.

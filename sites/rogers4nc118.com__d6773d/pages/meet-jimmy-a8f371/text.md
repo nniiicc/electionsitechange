@@ -1,4 +1,4 @@
-James M.
+Skip to content Home Contact Me Donate Meet Jimmy Service over Self Meet Jimmy James M.
 “Jimmy” Rogers is a lifelong Haywood County resident whose deep roots in the community have shaped his life of service, leadership, and stewardship.
 Born and raised in Clyde and educated in the local school system, from Clyde Elementary through Pisgah High School.
 Jimmy’s commitment to this community began long before he ever sought public office.
@@ -23,9 +23,14 @@ Jimmy’s commitment to service extends to local government and his church.
 He has served on the Town of Clyde Planning Board for several years and has been deeply involved in the life and ministries of Canton First Baptist Church, serving as a deacon and on various committees, including finance, transportation, and building & grounds.
 Family has always been at the heart of Jimmy’s life, and his greatest pride is his daughters, Jessie Ruth and Bethanie Nicole.
 He raised them to be strong, compassionate women, always placing their well-being above all else.
-Their mother, Imogene Beavers Rogers, was the heart of their family—her faith, kindness, and devotion left a lasting imprint on their lives.
+Their mother, Imogene Beavers Rogers , was the heart of their family—her faith, kindness, and devotion left a lasting imprint on their lives.
 Though she is no longer with them, Imogene’s love continues to guide and shape the women Jessie Ruth and Bethanie Nicole have become.
 Jimmy and Imogene built a home grounded in faith, love, and service to their community, instilling values that continue to define their family today.
 Jimmy carries that legacy forward every day, honoring Imogene’s memory through his devotion as a father and his commitment to living out the principles they instilled together.
-In 2025, Jimmy married Terra Messer Rogers, beginning a new chapter marked by gratitude, humility, and deep respect for the journey that brought them together.
+In 2025, Jimmy married Terra Messer Rogers , beginning a new chapter marked by gratitude, humility, and deep respect for the journey that brought them together.
 As the leading Republican candidate for the North Carolina House of Representatives, District 118, Jimmy brings decades of local leadership and a lifetime of service to the campaign and, soon, to the NC General Assembly.
+Faith.
+Family.
+Service.
+A lifetime of leadership grounded in strong values, local roots, and a deep commitment to putting community before self.
+Donate Contact Me Facebook Instagram Customize Reject All Accept All Powered by

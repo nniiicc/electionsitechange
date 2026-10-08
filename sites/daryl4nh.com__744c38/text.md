@@ -1,4 +1,4 @@
-Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate Articles NH CLP Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate Articles NH CLP © # Daryl D’Angelo for Amherst and Milford Daryl D'Angelo for Amherst and Milford Reclaim the Promise We all feel it.
+Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate NH CLP Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate NH CLP © # Daryl D’Angelo for Amherst and Milford Daryl D'Angelo for Amherst and Milford Reclaim the Promise We all feel it.
 The creeping sense that something's wrong.
 That we're on the edge of losing something important.
 We are.

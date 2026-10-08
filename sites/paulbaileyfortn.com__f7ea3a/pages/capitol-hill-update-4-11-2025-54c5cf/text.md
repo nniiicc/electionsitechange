@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 4/11/2025 Capitol Hill Update 4/11/2025 To the Citizens of Senate District 15 As we wrap up another week in the 114th Tennessee General Assembly, I am grateful to reflect on what has been a productive and engaging few days.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 4/11/2025 Capitol Hill Update 4/11/2025 To the Citizens of Senate District 15 As we wrap up another week in the 114th Tennessee General Assembly, I am grateful to reflect on what has been a productive and engaging few days.
 From meaningful meetings with constituents to collaborating with fellow members on key legislation, this week has been full of purpose and progress.
 On Wednesday, I had the privilege of meeting a District 15 hero, Evan Boyd, and presenting him a resolution to honor his bravery.
 Evan is an 8th-grade student at Gordonsville High School.

@@ -1,5 +1,6 @@
+top of page DONATE GET INVOLVED HOME ABOUT WHAT I BELIEVE NEWS & ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
 We Made History in Dauphin County!
-The votes are in, and with the support of more than 60% of voters, we’ve won the Democratic nomination for State Representative in House District 105!
+May 18, 2022 1 min read The votes are in, and with the support of more than 60% of voters, we’ve won the Democratic nomination for State Representative in House District 105!
 Thank you to everyone who circulated a petition, donated, canvassed, texted, dropped literature or otherwise spoke to a friend or neighbor to support our candidacy!
 However, this victory is not about me - it’s about all of us because we all share in this success.
 What did we win?
@@ -13,4 +14,6 @@ We’ve spoken to so many voters who have major concerns whether it be property 
 We can do better, and we WILL do better.
 Our victory marks the first step toward a brighter future for residents in House District 105.
 Thank you for getting us this far and I’m looking forward to the journey ahead!
-Love, Justin
+Love, Justin Related Posts See All Susquehanna Township Commissioner Justin Fleming Announces Candidacy for State Representative Stay up-to-date on the campaign.
+Join You're on the list!
+Policy Platform Education > Working Families > Infrastructure > Social Justice > Healthcare > Environment > About Justin Biography > News > Endorsements > Help the Campaign Get Involved > Donate > Contact > Follow Justin Paid for by Friends of Justin Fleming. bottom of page

@@ -25,11 +25,11 @@ It’s time to take our streets back from the opioid crisis destroying Wisconsin
 Read more Fixing Our Crime Labs When crime labs fail, justice fails.
 I’ll clean up the mess—modernize our labs, end the backlog, and hold leadership accountable.
 Victims deserve answers, not excuses, and I’ll make sure our system delivers real results.
-Read more Donate Today to Restore Justice! $25 $100 $250 $1000 Other Latest News Toney Calls on Attorney General Kaul to Investigate Lt.
+Read more Donate Today to Restore Justice! $25 $100 $250 $1000 Other Latest News WATCH: Toney Condemns Autonomous Zone as Protesters Clash with Police August 5, 2026 FOR IMMEDIATE RELEASE August 5, 2026 CONTACT: info@erictoney.com WATCH: Toney Condemns Autonomous… Read more : WATCH: Toney Condemns Autonomous Zone as Protesters Clash with Police Toney Sets July Pre-Primary Fundraising Report Record for a Republican August 4, 2026 FOR IMMEDIATE RELEASE August 4, 2026 CONTACT: info@erictoney.com Toney Sets July Pre-Primary… Read more : Toney Sets July Pre-Primary Fundraising Report Record for a Republican Toney Calls on Attorney General Kaul to Investigate Lt.
 Gov.
 Rodriguez’s Campaign Finance Reports July 17, 2026 FOR IMMEDIATE RELEASE July 17, 2026 CONTACT: info@erictoney.com Toney Calls on Attorney… Read more : Toney Calls on Attorney General Kaul to Investigate Lt.
 Gov.
-Rodriguez’s Campaign Finance Reports Toney Raises $720K in Fundraising Period, Over $1.1 Million Since Launch July 15, 2026 FOR IMMEDIATE RELEASE July 15, 2026 CONTACT: info@erictoney.com Toney Raises $720K in… Read more : Toney Raises $720K in Fundraising Period, Over $1.1 Million Since Launch Milwaukee man sentenced for deadly fentanyl overdose in Fond du Lac July 7, 2026 FOND DU LAC, Wis. — A Milwaukee man has been sentenced to 15… Read more : Milwaukee man sentenced for deadly fentanyl overdose in Fond du Lac 1 2 3 4 5 6 … 10 GET IN TOUCH First Name * Last Name * Phone Email * Message Consent By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Toney for Attorney General.
+Rodriguez’s Campaign Finance Reports 1 2 3 4 5 6 … 11 GET IN TOUCH First Name * Last Name * Phone Email * Message Consent By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Toney for Attorney General.
 Donations may be solicited.
 Msg frequency varies.
 Msg & data rates may apply.

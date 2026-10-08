@@ -1,4 +1,4 @@
-Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Skip to content Thursday, October 08, 2026 Lauren Nelson for Senate P.O.
 Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … News This weekend we celebrated the high school graduation of my son Fred Editor May 21, 2024 This weekend we celebrated the high school graduation of my son Fred.
 Despite his young age, his fearlessness never ceases to amaze me.
 I am so proud of him and so grateful to have the support of my incredible family throughout this journey.

@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 1/17/2025 Capitol Hill Update 1/17/2025 We gathered on Capitol Hill in Nashville Tuesday to gavel in the 114th Tennessee General Assembly and organize business for the 2025-2026 legislative sessions.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 1/17/2025 Capitol Hill Update 1/17/2025 We gathered on Capitol Hill in Nashville Tuesday to gavel in the 114th Tennessee General Assembly and organize business for the 2025-2026 legislative sessions.
 For the first order of business, newly elected and reelected senators took the oath of office as families and friends crowded the Senate chamber and watched proudly.
 The next orders of business were adoption of the Senate rules, followed by the election of Lt.
 Governor Randy McNally to serve his fifth term as Lt.

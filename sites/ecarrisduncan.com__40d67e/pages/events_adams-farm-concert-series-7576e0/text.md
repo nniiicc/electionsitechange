@@ -9,6 +9,6 @@ Additional area musicians will carry forward the fun spirit of the Ridge Runners
 Sliding scale admission; all ages & inclusion welcome.
 Pack your lawn blankets; but remember to leave your pets at home.
 NO BYOB.
-15 Higley Hill Rd., Wilmington, VT @adamsfamilyfarmvt” For more info Previous Previous August 20 Wilmington Selectboard Meeting Next Next September 1 Ratu's Riverside Concert Series Donate Wilmington.
+15 Higley Hill Rd., Wilmington, VT @adamsfamilyfarmvt” For more info Donate Wilmington.
 Whitingham.
 Halifax

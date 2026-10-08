@@ -1,6 +1,6 @@
 0 Skip to Content Elect Bennie Foster for U.S.
-Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
-Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Folder: Resources Back Voting Contact Donate DONATE Meet Bennie Foster Who is Bennie Foster?
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Updates Folder: Resources Back Voting Contact Donate DONATE Meet Bennie Foster Who is Bennie Foster?
 Bennie Foster is a Jackson native, educator, mentor, and community advocate.
 A former student-athlete and SWAC Track & Field Champion at Jackson State University, Bennie holds a Bachelors degree from Jackson State and a Masters Degree in Education from Strayer University.
 As a builder of community transformation, Bennie brings over 38 years of experience in educational administration, business consulting, personal development, and local program leadership.

@@ -103,8 +103,8 @@ That is more than enough to defeat special interests and send a representative t
 How does your background as a business owner and accountant help District 20?
 As an accountant and small business owner since 1996, I understand the real-world math that squeezing families face.
 I know how tax codes can be leveraged to help working people build wealth, and I know how to read a budget.
-In Congress, I will bring fiscal responsibility to ensure tax dollars are actually spent in the interest of our taxpayers, and I will champion policies that help our young people move from earning paycheck-to- paycheck wages to building real, long-term assets and equity DONATE Follow The Campaign A vision for Florida's District 20.
+In Congress, I will bring fiscal responsibility to ensure tax dollars are actually spent in the interest of our taxpayers, and I will champion policies that help our young people move from earning paycheck-to- paycheck wages to building real, long-term assets and equity DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

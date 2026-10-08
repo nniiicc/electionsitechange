@@ -12,12 +12,16 @@ The current legislature has refused to do this year after year.
 Imagine what we could have achieved for affordable healthcare in Alabama with that money!
 And remember, your federal taxes went to pay for better and more affordable healthcare in the other states that took the Medicaid expansion: that's reason enough right there to replace the current leadership in Montgomery!
 Donate!
-I'm up against opponents with PAC money and a party determined to cling to power.
-Please donate to my campaign so we can change Alabama.
-Even a small donation shows we have strong support for change!
+I'm up against an incumbent who has raked in over $# almost all from business interests.
+That's crazy.
+Who is going to repesent the voters?
+Please donate to my campaign so we can change this.
+Even a small donation will help.
+Thank you.
 Support the Campaign Volunteer!
 Join our team and let's work together for success in November.
-We are strong as a community, and as a community we will win!
-Bring your friends, and make new ones, as we build the future we want for all of us.
+Things are changing in Huntsville and Madison County.
+We have momentum now!
+We need everyone: so bring your friends, and make new ones, and join us as we build the Alabama we want!
 Sign Up Today Paid for by Linderholm for District 20 P.O.
 Box 4764 Huntsville, AL 35815 bottom of page

@@ -1,4 +1,4 @@
-MEET LISA PRIORITIES ENDORSEMENTS EVENTS VOLUNTEER VOTE CENTER DONATE Join Lisa Baker's Team First Name Last Name Phone Email Address 8 + 10 = Sign Up Meet Lisa Baker: A Leader We Rely On For Productive and Practical Results State Senator Lisa Baker is proud to serve our area.
+MEET LISA PRIORITIES ENDORSEMENTS EVENTS VOLUNTEER VOTE CENTER DONATE Join Lisa Baker's Team First Name Last Name Phone Email Address 10 + 9 = Sign Up Meet Lisa Baker: A Leader We Rely On For Productive and Practical Results State Senator Lisa Baker is proud to serve our area.
 She has earned respect from constituents and colleagues for her responsible and reasonable approach to legislating and problem-solving.
 One of her defining qualities is accessibility.
 Her Senate district is one of the largest in size, and she travels across it constantly to meet with individuals and groups and to participate in community meetings and events.

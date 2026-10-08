@@ -1,4 +1,4 @@
-Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Operations Director Scott Colom for Senate is seeking an Operations Director to join our growing team.
+Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Operations Director Scott Colom for Senate is seeking an Operations Director to join our growing team.
 As a member of the campaign’s senior staff, the Operations Director will ensure that the campaign is able to function efficiently day-to-day and succeed.
 Location Jackson, Mississippi Job Description The Operations Director will oversee the campaign’s human resources, office administration, acquiring supplies and equipment, and creating processes that will help the campaign and staff succeed.
 This is a supervisory position.

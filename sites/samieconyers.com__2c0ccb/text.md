@@ -17,6 +17,6 @@ Whether you volunteer, support the campaign, or help spread the word, your invol
 Volunteer Contact the campaign Stay Connected with the Campaign Join Team Conyers to receive updates, volunteer opportunities, and campaign news as we work together to strengthen Georgia House District 116.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First & Last Email * Phone Number * Number Name Message Message * Submit Samie Conyers for Georgia State House District 116 DeKalb County, Georgia Contact: info@samieconyers.com Volunteer: volunteer@samieconyers.com Finance: finance@samieconyers.com © # Samie Conyers Campaign.
+Phone Email Message Name * First & Last Email * Phone Number * Message * Submit Samie Conyers for Georgia State House District 116 DeKalb County, Georgia Contact: info@samieconyers.com Volunteer: volunteer@samieconyers.com Finance: finance@samieconyers.com © # Samie Conyers Campaign.
 All rights reserved.
 Scroll to Top

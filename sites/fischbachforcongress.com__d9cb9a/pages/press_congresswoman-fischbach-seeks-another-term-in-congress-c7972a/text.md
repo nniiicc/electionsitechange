@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press Congresswoman Fischbach Seeks Another Term in Congress Mar 17 | Press Litchfield, Minnesota – Today, Congresswoman Michelle Fischbach announced her campaign for another term as the Seventh District Representative.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press Congresswoman Fischbach Seeks Another Term in Congress Mar 17 | Press Litchfield, Minnesota – Today, Congresswoman Michelle Fischbach announced her campaign for another term as the Seventh District Representative.
 Fischbach was elected to Congress in 2020 and recently secured re-election with over 70% of the vote.
 “It is a new day in Washington, D.C., with President Trump in the White House and republican majorities in Congress,” said Fischbach.
 “We have been given an opportunity by voters to do the things that are needed to save our great nation.

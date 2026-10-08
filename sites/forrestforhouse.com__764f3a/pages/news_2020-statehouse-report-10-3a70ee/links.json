@@ -1,25 +1,94 @@
 [
-"http://coronavirus.gov/",
-"http://governor.sc.gov/",
-"http://scdhec.gov/covid19",
-"https://campaignpartner.com/",
-"https://campaigns.muschealth.org/virtual-care/index.html",
-"https://che.sc.gov/HOME/Coronavirus(COVID-19)Information.aspx",
-"https://consumer.ftc.gov/blog/2020/02/coronavirus-scammers-follow-headlines",
-"https://dew.sc.gov/covid-hub",
-"https://dor.sc.gov/emergencies",
-"https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/photos",
-"https://mcleodhealth.org/services/care/telehealth",
-"https://prismahealth.org/virtual-visit",
-"https://rsfh.com/virtualcare",
-"https://sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources",
-"https://scstatehouse.gov/query.php?search=DOC&searchtext=4014&category=LEGISLATION&session=123&conid=30636275&result_pos=0&keyval=1234014&numrows=10"
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "H. 4014",
+"href": "https://www.scstatehouse.gov/query.php?search=DOC&searchtext=4014&category=LEGISLATION&session=123&conid=30636275&result_pos=0&keyval=1234014&numrows=10"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "https://campaigns.muschealth.org/virtual-care/index.html",
+"href": "https://campaigns.muschealth.org/virtual-care/index.html"
+},
+{
+"text": "https://dew.sc.gov/covid-hub",
+"href": "https://dew.sc.gov/covid-hub"
+},
+{
+"text": "https://dor.sc.gov/emergencies",
+"href": "https://dor.sc.gov/emergencies"
+},
+{
+"text": "https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools/",
+"href": "https://ed.sc.gov/newsroom/covid-19-coronavirus-and-south-carolina-schools/"
+},
+{
+"text": "https://www.che.sc.gov/HOME/Coronavirus(COVID-19)Information.aspx",
+"href": "https://www.che.sc.gov/HOME/Coronavirus(COVID-19)Information.aspx"
+},
+{
+"text": "https://www.consumer.ftc.gov/blog/2020/02/coronavirus-scammers-follow-headlines",
+"href": "https://www.consumer.ftc.gov/blog/2020/02/coronavirus-scammers-follow-headlines"
+},
+{
+"text": "https://www.mcleodhealth.org/services/care/telehealth/",
+"href": "https://www.mcleodhealth.org/services/care/telehealth/"
+},
+{
+"text": "https://www.prismahealth.org/virtual-visit/",
+"href": "https://www.prismahealth.org/virtual-visit/"
+},
+{
+"text": "https://www.rsfh.com/virtualcare/",
+"href": "https://www.rsfh.com/virtualcare/"
+},
+{
+"text": "https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources",
+"href": "https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources"
+},
+{
+"text": "www.coronavirus.gov",
+"href": "http://www.coronavirus.gov/"
+},
+{
+"text": "www.governor.sc.gov",
+"href": "http://www.governor.sc.gov/"
+},
+{
+"text": "www.scdhec.gov/covid19",
+"href": "http://www.scdhec.gov/covid19"
+}
 ]

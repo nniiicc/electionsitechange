@@ -1,7 +1,11 @@
 {
- "description": "My name is Erica Mosca and I\u2019m running to represent our community in Nevada Assembly District 14.",
+ "description": "My name is Erica Mosca and I’m running to represent our community in Nevada Assembly District 14.",
  "final_url": "https://www.ericamosca.com/why-i-m-running-1",
- "paid_for_by": null,
+ "fingerprint": "9c73450edb4d9e0637695b8ea8f4127faf099373",
+ "format": 3,
+ "paid_for_by": "Authorized by the Committee to Elect Erica Mosca 2126 Citroen St",
  "title": "Why I'm Running | Erica Mosca For Nevada State Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

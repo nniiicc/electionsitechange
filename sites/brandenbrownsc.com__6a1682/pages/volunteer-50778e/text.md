@@ -4,8 +4,8 @@ To bring common-sense, conservative leadership back to Washington, we need patri
 Whether you can give an hour a week or a day a month, your hands-on support is what will make the difference.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Phone * Email * Address * Age * Availability * What times and days are you available to volunteer? (ie: M-F after 4pm, only on weekends, Anytime I am needed) Campaign Experience * Yes No Have you volunteered for a political campaign or group in the past? like Address help?
+Name * First Last Phone * Email * Address * Age * Availability * What times and days are you available to volunteer? (ie: M-F after 4pm, only on weekends, Anytime I am needed) Campaign Experience * Yes No Have you volunteered for a political campaign or group in the past?
 Why would you like to volunteer?
 Why do you want to volunteer?
-And any other info you would like us to know?
-How would you like to help? * Putting Up Signs Distributing Signs Door Knocking Making Calls Social Media Support Event Planning/Setup Host an Event Office/Clerical Support Fundraising Working the Polls Research Wherever I Am Needed (Check all that apply.) Submit Branden Brown for Congress © # All rights reserved.
+And any other info you would like us to know? volunteer?
+Age Experience How would you like to help? * Putting Up Signs Distributing Signs Door Knocking Making Calls Social Media Support Event Planning/Setup Host an Event Office/Clerical Support Fundraising Working the Polls Research Wherever I Am Needed (Check all that apply.) Submit Branden Brown for Congress © # All rights reserved.

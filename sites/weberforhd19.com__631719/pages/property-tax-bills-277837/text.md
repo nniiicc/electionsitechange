@@ -1,4 +1,4 @@
-October 7, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Property Tax Bills After the last reappraisal cycle, homeowners shouldered 58% of the property tax burden.
+October 8, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Property Tax Bills After the last reappraisal cycle, homeowners shouldered 58% of the property tax burden.
 In contrast, the proportionate tax share for corporate entities owning power transmission lines, electrical generation, telecom, railroads, wind and mining decreased.
 Article VIII.
 Section 3 of the Montana Constitution, reads “the state shall appraise, assess and equalize the valuation of all property…” Since 2021, the Legislature has failed to equalize property taxes.

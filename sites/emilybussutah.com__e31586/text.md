@@ -1,4 +1,4 @@
-0 Skip to Content Meet Emily Priorities Endorsements Contact Events Join the Team Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Contact Events Join the Team Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Contact Events Folder: Join the Team Back Donate Volunteer Request a Yard Sign DONATE Not a Republican.
+0 Skip to Content Meet Emily Priorities Endorsements Events Get Involved/Contact Connect With Emily Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Events Get Involved/Contact Connect With Emily Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Events Folder: Get Involved/Contact Back Connect With Emily Donate Volunteer Request a Yard Sign DONATE Not a Republican.
 Not a Democrat.
 Emily Buss Utah State Senate | District 11 Her approach is simple: look at each issue on its merits, listen to the people she represents, and make decisions based on what she believes is right for District 11 rather than automatically following a Republican or Democratic party position.
 Emily joined the Utah Senate in December 2025 and is now running to continue representing District 11.
@@ -18,7 +18,7 @@ During the 2026 General Session, she sponsored legislation dealing with road fun
 Utah Legislature.
 She has also served on Senate committees alongside Republican and Democratic legislators.
 A public record residents can see for themselves.
-View Emily's Record RE-ELECT EMILY BUSS FOR SD 11 About Volunteer Request a Yard Sign Donate Contact team@emilybussutah.com (801) 885-5826 Newsletter Block This newsletter signup form needs a storage option.
+View Emily's Record Emily Buss for Utah Senate District 11 About Volunteer Request a Yard Sign Donate Contact team@emilybussutah.com (801) 885-5826 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up to receive news and updates.
 Email Address Sign Up Thank you!

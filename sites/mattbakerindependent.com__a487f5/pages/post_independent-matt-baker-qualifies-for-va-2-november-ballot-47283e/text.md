@@ -12,4 +12,4 @@ I appreciate local jobs and businesses, and I understand what it means to serve 
 My aim is to unify people like me and convince a few from each party that are tired of the polarization and name calling to join us.
 Imagine, VA02 sending a message to Washington that the United States of America, not the parties, is the priority… That may well be something that determines the fate of the country." ### Contact: media@mattbakerindependent.com mattbakerindependent.com Press Releases Paid for by Matt Baker for Congress Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or the U.S.
 Marine Corps.
-Terms & Conditions | Privacy Policy | Accessibility Statement bottom of page
+Terms & Conditions | Privacy Policy | Accessibility Statement | FAQs bottom of page

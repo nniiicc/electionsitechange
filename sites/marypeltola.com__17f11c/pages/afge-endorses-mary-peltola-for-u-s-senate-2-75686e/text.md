@@ -43,7 +43,7 @@ In recent social media ads, for example, he calls for reining in chum salmon byc
 Sullivan dismisses the fact that each year 75% of the value of all groundfish taken from Alaska waters by industrialized trawlers leaves the state; for pollock, it’s 82%.
 It looks like Sullivan’s prime objective is maintaining the reliable donor flow from the Outside trawl sector.
 His sudden campaign year concern about reducing trawl bycatch and protecting Alaska’s marine ecosystem has as much staying power as a fish out of water.
-More Statements: PHOTOS: Mary Peltola Rallies Fired-Up Volunteers at Anchorage Field Office READ MORE ICYMI: Mary Peltola Champions Alaska Oil and Gas: “Her Goal Is To Cut Energy Costs For Alaskans As Quickly As Possible” READ MORE Mary Peltola Champions Lifelong Fight for Fisheries at Kodiak Fisheries Debate, Crushes Dan Sullivan & His Lower 48 Anti-Fish Agenda READ MORE PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY Discover more from Mary Peltola Subscribe now to keep reading and get access to the full archive.
+More Statements: PHOTOS: Mary Peltola Holds Meet and Greet in Naknek READ MORE PHOTOS: Mary Peltola Holds Meet and Greet in King Cove READ MORE PHOTOS: Mary Peltola Holds Meet and Greet in Dillingham READ MORE PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY Discover more from Mary Peltola Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading WE CAN'T DO IT WITHOUT YOUR HELP.
 Contribute to help Mary’s campaign today.
 MAKE A DONATION GET INVOLVED

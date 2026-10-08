@@ -1,7 +1,8 @@
 CHAPLAIN STEVEN ST JOHN FOR CONGRESS What can be done Volunteer Español Contact Steven For Seniors Menu ▼ Home About What I Have Seen Values Solutions Get Involved African American Community Healthcare Forum Senior Solutions In The News Text Alerts Contact Steven Listening.
 Trust.
 Working Together.
-Serving families From hospital hallways to Congress I have served this community for ten years as a hospital chaplain.
+Serving families From hospital hallways to Congress A short summary of why I am running ...
+I have served this community for ten years as a hospital chaplain.
 Why am I running?
 It is what I see every day at the hospital.
 It is about all of you: the struggles, the hardships, the hopes, the dreams, the life story that each of us has.

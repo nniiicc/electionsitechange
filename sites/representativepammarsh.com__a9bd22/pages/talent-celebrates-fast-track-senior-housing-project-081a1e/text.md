@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Talent celebrates fast-track senior housing project Local nonprofit opens Oro Vista Village, a $5.6 million project built in nine months for low-income older adults LINK TO ASHLAND.NEWS ARTICLE October 16, 2025 By Damian Mann for Ashland.news Age+, an Oregon nonprofit, opened its second senior community in Talent on Thursday – a 26-unit development at 600 S.
+Skip to content Wed.
+Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Talent celebrates fast-track senior housing project Local nonprofit opens Oro Vista Village, a $5.6 million project built in nine months for low-income older adults LINK TO ASHLAND.NEWS ARTICLE October 16, 2025 By Damian Mann for Ashland.news Age+, an Oregon nonprofit, opened its second senior community in Talent on Thursday – a 26-unit development at 600 S.
 Pacific Highway.
 Ashland.news photo by Bob Palermini An elderly man who lives out of his car is about to move into a brand-new, low-income housing project in Talent that went from start to finish in nine months.
 “It’s been such a labor of love,” said Stephanie Hooper, CEO for AGE+, a nonprofit organization that has built two similar 55-plus projects and held an open house and ribbon-cutting Thursday morning at Oro Vista Village.

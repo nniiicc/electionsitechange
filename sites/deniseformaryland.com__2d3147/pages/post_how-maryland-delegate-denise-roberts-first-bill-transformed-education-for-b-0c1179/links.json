@@ -1,54 +1,310 @@
 [
-"http://facebook.com/delegatedenise",
-"http://instagram.com/delegatedenise",
-"http://linkedin.com/in/denisegeneva",
-"http://nfbmd.org/",
-"http://twitter.com/delegatedenise",
-"https://deniseformaryland.com/",
-"https://deniseformaryland.com/contact",
-"https://deniseformaryland.com/copy-of-legislation",
-"https://deniseformaryland.com/donate",
-"https://deniseformaryland.com/end-of-session-letter",
-"https://deniseformaryland.com/endorsements",
-"https://deniseformaryland.com/eventlist",
-"https://deniseformaryland.com/get-involved",
-"https://deniseformaryland.com/key-issues",
-"https://deniseformaryland.com/legislation",
-"https://deniseformaryland.com/meet-denise",
-"https://deniseformaryland.com/meet-my-team",
-"https://deniseformaryland.com/mylinks",
-"https://deniseformaryland.com/news-updates",
-"https://deniseformaryland.com/news-updates/categories/blog",
-"https://deniseformaryland.com/news-updates/categories/news-article",
-"https://deniseformaryland.com/news-updates/categories/press-release",
-"https://deniseformaryland.com/our-district",
-"https://deniseformaryland.com/post/how-to-get-involved-in-maryland-politics-a-resident-s-guide-to-civic-action",
-"https://deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026",
-"https://deniseformaryland.com/post/maryland-special-session-august-3-5-what-district-25-voters-need-to-know-about-congressional-redist",
-"https://deniseformaryland.com/product-page/team-roberts-jersey",
-"https://deniseformaryland.com/profile/a98eb501-9c3b-499f-91d7-686b408d67831633/profile",
-"https://deniseformaryland.com/scholarships",
-"https://deniseformaryland.com/services",
-"https://deniseformaryland.com/voter-resources",
-"https://kevinmharris.org/",
-"https://mgaleg.maryland.gov/2024RS/Chapters_noln/CH_749_hb1076e.pdf",
-"https://mgaleg.maryland.gov/2024RS/fnotes/bil_0006/hb1076.pdf",
-"https://mgaleg.maryland.gov/2024RS/votes/house/0712.pdf",
-"https://mgaleg.maryland.gov/2024RS/votes/house/1503.pdf",
-"https://mgaleg.maryland.gov/2024RS/votes/senate/1293.pdf",
-"https://mgaleg.maryland.gov/cmte_testimony/2024/wam/12nn67p_AVtycfTLjOzqjYFaSEIGqzuoy.pdf",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=w%26m&ys=2024RS&clip=WAM_2_21_2024_meeting_1&billNumber=hb1076",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB1091?ys=2024rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/SubjectIndex/textbooks?ys=2024RS&search=True",
-"https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html",
-"https://nfbmd.org/Annapolis2024",
-"https://nfbmd.org/about",
-"https://nfbmd.org/convention/2025agenda",
-"https://nfbmd.org/legislative/2024",
-"https://nfbmd.org/newsletter",
-"https://nfbmd.org/node/527",
-"https://nfbmd.org/node/881",
-"https://youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+{
+"text": "2024 Legislative Fact Sheet on Textbook Equity",
+"href": "https://nfbmd.org/legislative/2024"
+},
+{
+"text": "According to NFBMD's 2025 Convention materials",
+"href": "https://nfbmd.org/convention/2025agenda"
+},
+{
+"text": "All Posts",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "Blog",
+"href": "https://www.deniseformaryland.com/news-updates/categories/blog"
+},
+{
+"text": "Both chapters were signed into law by Governor Wes Moore on May 16, 2024",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS"
+},
+{
+"text": "CONTACT",
+"href": "https://www.deniseformaryland.com/contact"
+},
+{
+"text": "Chapter 749",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS&search=True"
+},
+{
+"text": "Committee hearing held February 21, 2024",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=w%26m&ys=2024RS&clip=WAM_2_21_2024_meeting_1&billNumber=hb1076"
+},
+{
+"text": "Contact Information",
+"href": "https://www.kevinmharris.org/"
+},
+{
+"text": "DONATE",
+"href": "https://www.deniseformaryland.com/donate"
+},
+{
+"text": "END OF SESSION LETTER",
+"href": "https://www.deniseformaryland.com/end-of-session-letter"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.deniseformaryland.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.deniseformaryland.com/eventlist"
+},
+{
+"text": "For their leadership on this legislation, both Delegate Denise Roberts and Senator Ron Watson were honored with the National Federation for the Blind of Maryland's 2025 Distinguished Legislator Award",
+"href": "https://nfbmd.org/node/881"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.deniseformaryland.com/get-involved"
+},
+{
+"text": "Governor Moore officially approved both HB1076 (Chapter 749) and SB1091 (Chapter 750)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS"
+},
+{
+"text": "HB1076 enrolled as Chapter 749",
+"href": "https://mgaleg.maryland.gov/2024RS/Chapters_noln/CH_749_hb1076e.pdf"
+},
+{
+"text": "HOME",
+"href": "https://www.deniseformaryland.com"
+},
+{
+"text": "House concurred with Senate amendments 135-0 unanimously",
+"href": "https://mgaleg.maryland.gov/2024RS/votes/house/1503.pdf"
+},
+{
+"text": "House passed HB1076 with 137-0 unanimous vote",
+"href": "https://mgaleg.maryland.gov/2024RS/votes/house/0712.pdf"
+},
+{
+"text": "How to Get Involved in Maryland Politics: A Resident’s Guide to Civic Action",
+"href": "https://www.deniseformaryland.com/post/how-to-get-involved-in-maryland-politics-a-resident-s-guide-to-civic-action"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.deniseformaryland.com/key-issues"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.deniseformaryland.com/legislation"
+},
+{
+"text": "MEET DENISE",
+"href": "https://www.deniseformaryland.com/meet-denise"
+},
+{
+"text": "MEET MY TEAM",
+"href": "https://www.deniseformaryland.com/meet-my-team"
+},
+{
+"text": "MY LINKS",
+"href": "https://www.deniseformaryland.com/mylinks"
+},
+{
+"text": "Maryland Political Campaign Contribution Guide: Supporting Your Community in 2026",
+"href": "https://www.deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026"
+},
+{
+"text": "Maryland Special Session August 3-5: What District 25 Voters Need to Know About Congressional Redistricting",
+"href": "https://www.deniseformaryland.com/post/maryland-special-session-august-3-5-what-district-25-voters-need-to-know-about-congressional-redist"
+},
+{
+"text": "NEWS & UPDATES",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "National Federation of the Blind Maryland",
+"href": "https://nfbmd.org/about"
+},
+{
+"text": "News Article",
+"href": "https://www.deniseformaryland.com/news-updates/categories/news-article"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.deniseformaryland.com/our-district"
+},
+{
+"text": "Press Release",
+"href": "https://www.deniseformaryland.com/news-updates/categories/press-release"
+},
+{
+"text": "Prince George's County",
+"href": "https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html"
+},
+{
+"text": "SB1091 sponsored by Senator Ron Watson",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB1091?ys=2024rs"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.deniseformaryland.com/scholarships"
+},
+{
+"text": "SERVICES",
+"href": "https://www.deniseformaryland.com/services"
+},
+{
+"text": "SINE DIE STATEMENT",
+"href": "https://www.deniseformaryland.com/copy-of-legislation"
+},
+{
+"text": "STORE",
+"href": "https://www.deniseformaryland.com/product-page/team-roberts-jersey"
+},
+{
+"text": "See All",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "Senate passed the bill 44-0 unanimously",
+"href": "https://mgaleg.maryland.gov/2024RS/votes/senate/1293.pdf"
+},
+{
+"text": "Team Denise",
+"href": "https://www.deniseformaryland.com/profile/a98eb501-9c3b-499f-91d7-686b408d67831633/profile"
+},
+{
+"text": "The NFBMD's organized presence at the Maryland General Assembly",
+"href": "https://nfbmd.org/Annapolis2024"
+},
+{
+"text": "The bill was introduced in the House",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS"
+},
+{
+"text": "The organization presented detailed fact sheets on January 18, 2024, outlining the problem, proposed action, and background",
+"href": "https://nfbmd.org/legislative/2024"
+},
+{
+"text": "Their advocacy committee structure",
+"href": "https://nfbmd.org/convention/2025agenda"
+},
+{
+"text": "Their legislative advocacy work, documented in their 2024 fact sheets",
+"href": "https://nfbmd.org/legislative/2024"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://www.deniseformaryland.com/voter-resources"
+},
+{
+"text": "[image: Get Involved in Maryland Politics: A Resident's Guide to Civic Action]",
+"href": "https://www.deniseformaryland.com/post/how-to-get-involved-in-maryland-politics-a-resident-s-guide-to-civic-action"
+},
+{
+"text": "[image: Maryland Special Session August 3-5: What District 25 Voters Need to Know About Congressional Redristricting]",
+"href": "https://www.deniseformaryland.com/post/maryland-special-session-august-3-5-what-district-25-voters-need-to-know-about-congressional-redist"
+},
+{
+"text": "[image: Maryland political campaign contribution ]",
+"href": "https://www.deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://twitter.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://www.linkedin.com/in/denisegeneva"
+},
+{
+"text": "[no text]",
+"href": "http://nfbmd.org"
+},
+{
+"text": "[no text]",
+"href": "https://mgaleg.maryland.gov/2024RS/fnotes/bil_0006/hb1076.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://mgaleg.maryland.gov/cmte_testimony/2024/wam/12nn67p_AVtycfTLjOzqjYFaSEIGqzuoy.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB1091?ys=2024rs"
+},
+{
+"text": "[no text]",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS"
+},
+{
+"text": "[no text]",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1076?ys=2024RS&search=True"
+},
+{
+"text": "[no text]",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/SubjectIndex/textbooks?ys=2024RS&search=True"
+},
+{
+"text": "[no text]",
+"href": "https://nfbmd.org/about"
+},
+{
+"text": "[no text]",
+"href": "https://nfbmd.org/convention/2025agenda"
+},
+{
+"text": "[no text]",
+"href": "https://nfbmd.org/legislative/2024"
+},
+{
+"text": "[no text]",
+"href": "https://nfbmd.org/newsletter"
+},
+{
+"text": "[no text]",
+"href": "https://nfbmd.org/node/527"
+},
+{
+"text": "annual Day in Annapolis on January 18, 2024, where members meet directly with all 188 delegates and senators",
+"href": "https://nfbmd.org/newsletter"
+},
+{
+"text": "denise.roberts@house.maryland.gov",
+"href": "mailto:denisedenise.roberts@house.state.md.us"
+},
+{
+"text": "hello@deniseformaryland.com",
+"href": "mailto:hello@deniseformaryland.com"
+},
+{
+"text": "material access",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/SubjectIndex/textbooks?ys=2024RS&search=True"
+},
+{
+"text": "nfbmd.org",
+"href": "http://nfbmd.org"
+},
+{
+"text": "partnerships with organizations like Blind Industries and Services of Maryland on programs like NFB BELLX",
+"href": "https://nfbmd.org/node/527"
+},
+{
+"text": "testimony from Riley's mother about her sixth-grade daughter who was frequently \"exempt from homework altogether\" because accessible textbooks arrived late",
+"href": "https://mgaleg.maryland.gov/cmte_testimony/2024/wam/12nn67p_AVtycfTLjOzqjYFaSEIGqzuoy.pdf"
+},
+{
+"text": "the bill wasn't asking for new funding or a major restructuring of school systems",
+"href": "https://mgaleg.maryland.gov/2024RS/fnotes/bil_0006/hb1076.pdf"
+},
+{
+"text": "with the signing ceremony attended by Senate President Bill Ferguson, House Speaker Adrienne Jones, Delegate Denise Roberts, and members of the National Federation of the Blind of Maryland",
+"href": "https://nfbmd.org/convention/2025agenda"
+}
 ]

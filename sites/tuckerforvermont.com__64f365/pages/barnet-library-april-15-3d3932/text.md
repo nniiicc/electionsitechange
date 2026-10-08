@@ -1,6 +1,3 @@
-Residents of Barnet, Ryegate and Waterford are invited to meet David Tucker at the
-Barnet Public Library
-147 Church Street
-on April 15th at 6pm
-Discussion will focus on identifying early steps of the campaign and ways for community members to get involved.
+Donate Home Meet David Issues News & Events Contact Barnet Library, April 15 Residents of Barnet, Ryegate and Waterford are invited to meet David Tucker at the Barnet Public Library 147 Church Street on April 15th at 6pm Discussion will focus on identifying early steps of the campaign and ways for community members to get involved.
 We look forward to seeing you there!
+Back to News & Events Campaign Endorsements Tucker for Vermont Campaign Endorsements Donate Follow Follow David Tucker for Vermont PO Box 15, Lower Waterford, VT 05848 info@tuckerforvermont.com Paid for by Tucker for Vermont, Celina Wright Treasurer © # Tucker for Vermont

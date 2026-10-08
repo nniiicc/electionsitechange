@@ -1,11 +1,62 @@
 [
-"https://electepley.com/",
-"https://electepley.com/about",
-"https://electepley.com/contact",
-"https://electepley.com/get-involved",
-"https://electepley.com/news",
-"https://facebook.com/electepley",
-"https://instagram.com/wix",
-"https://politics.raisethemoney.com/en/cepley",
-"https://twitter.com/wix"
+{
+"text": "About",
+"href": "https://www.electepley.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.electepley.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electepley.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/cepley"
+},
+{
+"text": "FOR SECOND DISTRICT COURT OF APPEALS",
+"href": "https://www.electepley.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electepley.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.electepley.com"
+},
+{
+"text": "Home",
+"href": "https://www.electepley.com/get-involved"
+},
+{
+"text": "Judge Chris Epley",
+"href": "https://www.electepley.com"
+},
+{
+"text": "JudgeEpley24@gmail.com",
+"href": "mailto:JudgeEpley24@gmail.com"
+},
+{
+"text": "News & Events",
+"href": "https://www.electepley.com/news"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.electepley.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electepley"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+}
 ]

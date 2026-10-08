@@ -60,7 +60,7 @@ I won’t stand by while the foundation of our democracy is dismantled.
 What I'm Fighting For: Passing the John Lewis Voting Rights Act: I’m an original cosponsor of the bill to restore the federal protections the Supreme Court has stripped away, and haven’t stopped pushing to get it passed.
 Ending Dark Money in Our Elections: I voted in favor of the Freedom to Vote Act to expand ballot access nationwide and force transparency from the billionaires trying to buy our democracy.
 Protecting The Ballot Box: I’ve stood strong with Nevada’s Secretary of State and election workers against the wave of intimidation and disinformation aimed at our state’s election system.
-October 7, 2026 Help Me Hold the Line.
+October 8, 2026 Help Me Hold the Line.
 Winning back the House majority depends on our district.
 I need you in this fight.
 Donate Now Volunteer Today Get Updates Facebook Instagram X-twitter Youtube Meet Steven Priorities Media Meet Steven Priorities Media Volunteer Donate Paid for by Nevadans for Steven Horsford Copyright © # Steven Horsford for Congress.

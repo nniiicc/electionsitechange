@@ -1,4 +1,4 @@
-Home Platform Volunteer Endorsements Contact Donate Endorsements 01.
+Home Platform Volunteer Endorsements Contact Donate VOTERS DESERVE DEBATES SIGN THE PETITION WE'RE CALLING FOR NONPARTISAN DEBATES SIGN THE PETITION VOTERS DESERVE DEBATES SIGN THE PETITION WE'RE CALLING FOR NONPARTISAN DEBATES SIGN THE PETITION VOTERS DESERVE DEBATES SIGN THE PETITION WE'RE CALLING FOR NONPARTISAN DEBATES SIGN THE PETITION Endorsements 01.
 Why are you running for governor?
 I didn't see a candidate on the ballot who gave me confidence to fulfill a clear and inspiring vision for Tennessee, I mostly saw the same messaging of opposition along party lines.
 I love it here, and I have a vision for what Tennesse could be and how to get there: united in protecting our planet, our people, and our prosperity.

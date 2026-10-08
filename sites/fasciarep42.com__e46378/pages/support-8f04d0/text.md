@@ -17,6 +17,6 @@ Host a Meet & Greet with a few neighbors Walk the neighborhood with Richard Dist
 Would you like to reserve a free yard sign?
 Yes , please!
 No, thank you.
-2 + 5 = SUBMIT Phone: 401-903-0314 Office Address: 82 Smith St.
+6 + 3 = SUBMIT Phone: 401-903-0314 Office Address: 82 Smith St.
 Room 106 Providence 02908 Legislative Recap News & Endorsements Richard’s Story Support Contact Donate Facebook X Instagram Copyright # All Rights Reserved.
 Paid for and authorized by Friends of Richard Fascia.

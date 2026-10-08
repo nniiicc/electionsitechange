@@ -7,6 +7,6 @@ She supports strong local control, parental involvement, and making sure educati
 Public Safety Leslie knows safe communities are the foundation for strong schools and a healthy economy.
 She supports fully funding law enforcement, keeping School Resource Officers in schools, and backing policies that hold criminals accountable.
 Prepared and paid for by Leslie Larson for MN, P.O.
-Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
+Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions Housing LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
 Together we can deliver real solutions.
 Donate

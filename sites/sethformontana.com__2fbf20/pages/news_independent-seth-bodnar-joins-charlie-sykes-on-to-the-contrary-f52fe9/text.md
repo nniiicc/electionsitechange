@@ -17,7 +17,7 @@ Senate Race ICYMI “We are gaining momentum”: Independent Seth Bodnar on CNN'
 Senate in Montana PRESS RELEASE Veterans for All Voters Action Endorses Independent Seth Bodnar for U.S.
 Senate in Montana icymi Independent Seth Bodnar on CNN: "The Question We Should Be Asking Isn't What's Good for Republicans or Democrats.
 It's What's Good for the Country." PRESS RELEASE Former Montana Governor Steve Bullock Endorses Independent Candidate Seth Bodnar for U.S.
-Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” Sep 4 2026 WATCH Independent Seth Bodnar Joins Charlie Sykes on To the Contrary MISSOULA, MT — Independent U.S.
+Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” ICYMI Kurt Alme Says “We can't vote to limit the use of force in the Gulf,” Doubles Down on His Support of the Costly and Unauthorized War in Iran ICYMI Former NARAL Head Calls Out Alani Bankhead for Lying About Reproductive Freedom Record Sep 4 2026 WATCH Independent Seth Bodnar Joins Charlie Sykes on To the Contrary MISSOULA, MT — Independent U.S.
 Senate candidate Seth Bodnar joined Charlie Sykes on the To the Contrary podcast this week for a wide-ranging conversation covering the politicization of the military, Congress's abdication on Iran, why he's running as an Independent, and his path to victory in a four-way race.
 Watch the full interview here .
 Below are key excerpts: An Independent Miracle in Montana?

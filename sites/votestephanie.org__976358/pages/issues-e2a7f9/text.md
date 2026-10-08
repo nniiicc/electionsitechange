@@ -28,4 +28,4 @@ During my time in the legislature, I have supported $1.15 billion in tax cuts an
 2nd Amendment I am a gun owner, a hunter, and strongly believe that our right to keep and bear arms shall not be infringed.
 I am a proponent of constitutional carry and opposed to red flag laws which violate due process.
 In 2023 and 2024, I ran pro 2nd amendment legislation and restricted law enforcement from taking your firearm as part of a plea deal.
-Unless you are classified as a restricted person, you have an absolute right to keep your firearm.  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 6 + 4 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Unless you are classified as a restricted person, you have an absolute right to keep your firearm.  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 8 + 4 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

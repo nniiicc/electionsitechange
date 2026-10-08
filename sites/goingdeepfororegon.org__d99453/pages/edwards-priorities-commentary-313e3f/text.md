@@ -1,5 +1,6 @@
 Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map No There, There Commentary: Edwards' Priorities No Problems, No Solutions - Just Slogans Public Safety | Homelessness | Land Use & Natural Resources | Taxes & Spending | Protecting Life | Gun Rights Darcey Edwards wants to empower the powerful and fight the powerless. “ I’ll keep fighting to restore balance, protect landowner rights, and empower the industries that have sustained Oregon for generations.” I’ll fight to protect the people who live on the land and work in the industries that sustain Oregon today.
-She’s fighting for the owners of 450,000 acres of tree farms and the industry that employs 2% of the people in our district.
+She’s fighting for the owners of 450,000 acres of tree farms and 175,000 acres of cropland and pastureland in Columbia and Washington counties and the industries that employs less than 5% of the people in our district – most of whom are seasonal employees working 150 days/year or less.
+And she’s not fighting for those employees, just the owners.
 Edwards’ web presence is thin and empty.
 The substance is so limited that it’s on just one page .
 It’s a list of fact-free and data-free assertions about problems that almost completely lack concrete suggestions like, say, links to proposed legislation for the next session or from the previous session.
@@ -62,7 +63,7 @@ For families who replant, steward, and actively manage their land, this fix ensu
 The HCP is already shuttering mills and threatening rural jobs — including the closure of Hampton in my hometown of Banks.
 If fully implemented, it would gut county revenues and lead to devastating cuts to public safety and education.
 “We can responsibly manage our forests and lands without destroying the rural communities that depend on them.
-I’ll keep fighting to restore balance, protect landowner rights, and empower the industries that have sustained Oregon for generations.” Our district’s current dependence on logging is very limited, despite the legacies of prosperity like the Columbia County Court House (1906) from when all the old growth was clearcut in the early 20th century.
+I’ll keep fighting to restore balance, protect landowner rights, and empower the industries that have sustained Oregon for generations.” Our district’s current dependence on logging and farming is very limited, despite the legacies of prosperity like the Columbia County Court House (1906) from when all the old growth was clearcut in the early 20th century.
 Old growth is gone and it ain’t coming back.
 Timber companies collectively employ barely 2% of the workforce here.
 Of approximately 340,000 forested tree farm acres in Columbia County, almost 90% are privately owned.
@@ -80,6 +81,25 @@ That translates to less than 30 jobs lost, in exchange for making a deal that to
 That’s not going to destroy any communities.
 If anything, it will grow them by increasing recreational use.
 Better would be for the mills to try to get more competitive on their own – y’know, compete in a free market.
+Like the timber industry, farming gets a lot of deferential treatment and mythologizing that praises the legacy and ignores the limited present.
+Its acreage is out of proportion to its role in the economy and employing people.
+The US Department of Agriculture periodically does a census.
+According to its 2022 census for Columbia County, there were 723 farms covering almost 50,000 acres.
+Over 3/4 of them – 554 – are sideline farms, with annual sales of less than $10K.
+Most of the rest – 99 farms – had sales between $10K and $25K.
+Another 29 had sales between $25K and $50K.
+That leaves 25 farms with earning between $50K and $100K, and 16 farms with sales over $100K.
+And these are sales number, not net income numbers.
+The average farm net income is just $2K.
+By comparison, the median household income in Columbia County is $87K.
+While they literally cover a lot of ground, farms in Columbia County are a small part of the economy – $65 million out of $2 billion.
+Very few farms – 3% – employ even five farm workers, and the overwhelming majority of farm workers are seasonal, working less than 150 days/year.
+Almost half of farm workers work on just ten farms.
+In total, farm workers are under 4% of the workforce in Columbia County.
+Of the farm acreage in Columbia County, ¼ is cropland, ¼ is pastureland, and almost all the rest is woodland.
+Unsurprisingly, the acreage of most farms is modest.
+Almost all – 93% – are under 180 acres, with 345 between 10 and 50 acres and 210 under 10 acres.
+Only 17 are over 500 acres, with six over 1,000 acres.
 Edwards is fighting to protect the rich and powerful, not us.
 By law, corporations are all about fiduciary responsibility – the money – as they should be.
 It’s our task to limit their actions with non-financial constraints to protect our air, our water, and our children.

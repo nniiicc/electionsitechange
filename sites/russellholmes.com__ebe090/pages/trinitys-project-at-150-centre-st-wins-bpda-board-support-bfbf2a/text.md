@@ -58,22 +58,19 @@ That project has already demolished an older home that sat on the lot, and now h
 There are 23 underground parking spaces included on site.
 Share this Post navigation PREVIOUS Previous post: Rep.
 Holmes rolls to re-election in 6th Suffolk district NEXT Next post: Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-Related Post Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
-Holmes Russell E.
-Holmes | 0 Comment | 8:05 am State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
-One measure, pushed by state Representative Russell Holmes, Read More Read More ‘I want this thing to land’ ‘I want this thing to land’ July 25, 2022 July 25, 2022 | Russell E.
-Holmes Russell E.
-Holmes | 0 Comment | 11:23 am Rep.
-Russell Holmes is ready to start screaming again over police reform bill.
-Holmes knows the “enormous amount of fire and pressure” now on lawmakers.
-The state must do something, Read More Read More ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
+Related Post ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
 Holmes’s wire cutters ‘Cash for Diabetic Supplies’ signs face the snap of Rep.
 Holmes’s wire cutters July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 11:36 am State Rep.
 Russell Holmes (left) and former Boston Police Capt.
 Haseeb Hosein were out last Friday evening taking down ‘Cash for Diabetic Supplies’ signs on American Legion Highway.
-Seth Daniel Read More Read More “I Work for You.” You're my neighbors.
+Seth Daniel Read More Read More Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
+Holmes Russell E.
+Holmes | 0 Comment | 8:05 am State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
+One measure, pushed by state Representative Russell Holmes, Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
+Holmes Russell E.
+Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

@@ -3,7 +3,7 @@ Join Rebecca MacTaggart and fellow volunteers in Palmer Park, grab a walk list, 
 No experience needed.
 We'll provide everything you need, and send you out with a short script and a friendly partner.
 Check the weather before you leave, and dress appropriately.
-Previous Previous October 17 No Kings Rally - October 17 Next Next October 24 Signs and Sweets in Palmer Park Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
+Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
 PEOPLE FIRST.
 ALWAYS.
 Rebecca MacTaggart for PA Mailing Address: 60 South Lincoln Street Ignite Mailbox #12 Washington, PA 15301 Contact

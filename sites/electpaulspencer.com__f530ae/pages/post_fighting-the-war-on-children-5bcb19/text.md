@@ -1,19 +1,5 @@
-The War on Children & Possible Solutions
-Jun 23, 2024
-Updated: Jul 6, 2024
-The War on Children:
-Possible Solutions to Issues We Are Facing Today:
-- Pacific Justice: Parental Rights
-- Go Gateways: The Bible in State Academic Standards
-- Turning Point Academy
-- Better Together New Mexico: Not My Kid Petition
-- Courage is a Habit
-- Parents of Patriots
-- Parents of Patriots YouTube
-The War on Children:
-- The War on Children Video
-- Parents in seven NM school districts left in the dark about kids being ‘transitioned’
-- American Doctors Sign Declaration Protecting Children from Gender Procedures
-- NEW MEXICO SCHOOLS: Failed Academics, Violence, Drugs, Transgender Affirmation, Graphic Sexual Books
-- Progressive Woke Emerge Agenda 21
-- It's in Schools: The Queering of the American Child
+top of page Make a Donation Home About Paul Platform Get Involved Resources Register to Vote War on Children Possible Solutions Grassroots Organizations Republican Party of NM Save the Children Documentary News Contact Us More...
+Use tab to navigate through the menu items.
+All Posts Search The War on Children & Possible Solutions Jun 23, 2024 1 min read Updated: Jul 6, 2024 The War on Children: The War on Children Video Parents in seven NM school districts left in the dark about kids being ‘transitioned’ American Doctors Sign Declaration Protecting Children from Gender Procedures NEW MEXICO SCHOOLS: Failed Academics, Violence, Drugs, Transgender Affirmation, Graphic Sexual Books Progressive Woke Emerge Agenda 21 Possible Solutions to Issues We Are Facing Today: Pacific Justice: Parental Rights Go Gateways: The Bible in State Academic Standards Turning Point Academy Better Together New Mexico: Not My Kid Petition Courage is a Habit Parents of Patriots Parents of Patriots YouTube ​ The War on Children: The War on Children Video Parents in seven NM school districts left in the dark about kids being ‘transitioned’ American Doctors Sign Declaration Protecting Children from Gender Procedures NEW MEXICO SCHOOLS: Failed Academics, Violence, Drugs, Transgender Affirmation, Graphic Sexual Books Progressive Woke Emerge Agenda 21 It's in Schools: The Queering of the American Child Recent Posts See All Progressive Woke Emerge Agenda 21 Taking a Stand for Our Kids: The Truth Behind the Bad Laws in New Mexico Piñon Post: "Parents in seven NM school districts left in the dark about kids being ‘transitioned’" NEW MEXICO 1ST Let's stand together for a stronger economy, safer neighborhoods, and a government that listens to us! ​ Paid for by the Committee to Elect Paul Spencer ​ P.O.
+Box 533 Bluewater, NM 87005 Get Involved QUICK LINKS About Support Us News Resources Contact © # by Paul Spencer.
+Created by JadeAMarketingLLC bottom of page

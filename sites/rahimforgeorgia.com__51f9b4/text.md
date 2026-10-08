@@ -1,4 +1,4 @@
-top of page Donate RSVP RSVP | Meet & Greet About Platform Donate Get Involved Voting Info Menu Close Meet Rahim I have been fortunate and now it’s my responsibility to give back and serve. ​ As a lifelong Democrat, my focus is simple: to keep Lilburn a place where families can afford to live, work, and build their futures.
+top of page Donate RSVP | Meet & Greet About Platform Donate Get Involved Voting Info Menu Close Meet Rahim I have been fortunate and now it’s my responsibility to give back and serve. ​ As a lifelong Democrat, my focus is simple: to keep Lilburn a place where families can afford to live, work, and build their futures.
 More About Rahim Meet & Greet with Sunday, September 20th 1:00 PM – 3:00 pM JB Williams Park 4935 Five Forks Trickum Road Lilburn, GA 30047 It would be wonderful to see you there.
 I look forward to connecting, meeting friends and supporters, and sharing our vision for our community.
 Hope to see you on September 20th!

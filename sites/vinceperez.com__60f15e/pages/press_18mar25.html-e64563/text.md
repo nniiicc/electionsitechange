@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · March 18, 2025 Representative Perez Files Ambitious Legislative Agenda State Rep.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · March 18, 2025 Representative Perez Files Ambitious Legislative Agenda State Rep.
 Vince Perez files an ambitious legislative agenda to bring more experienced international doctors to Texas, increase dual credit teachers, and allow voters to recall absent school board trustees.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .

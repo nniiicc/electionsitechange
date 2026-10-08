@@ -1,14 +1,82 @@
 [
-"http://vote411.org/",
-"https://erinforyall.com/",
-"https://erinforyall.com/issues",
-"https://erinforyall.com/meet-erin",
-"https://erinforyall.com/vote",
-"https://facebook.com/ErinForYall",
-"https://instagram.com/erinforyall",
-"https://secure.actblue.com/donate/reelecterin",
-"https://sos.state.tx.us/elections/forms/pol-sub/reasonable-impediment-declaration.pdf",
-"https://teamrv-mvp.sos.texas.gov/BallotTrackerApp",
-"https://teamrv-mvp.sos.texas.gov/MVP/mvp.do",
-"https://twitter.com/ErinForYall"
+{
+"text": "Am I registered?",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "Check your voter registration status.",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/reelecterin"
+},
+{
+"text": "ISSUES",
+"href": "https://www.erinforyall.com/issues"
+},
+{
+"text": "Instructions and access to this form to fill out is here.",
+"href": "https://www.sos.state.tx.us/elections/forms/pol-sub/reasonable-impediment-declaration.pdf"
+},
+{
+"text": "MEET ERIN",
+"href": "https://www.erinforyall.com/meet-erin"
+},
+{
+"text": "Registration",
+"href": "https://www.erinforyall.com/vote#register"
+},
+{
+"text": "VOTE",
+"href": "https://www.erinforyall.com/vote"
+},
+{
+"text": "Vote 411",
+"href": "http://www.vote411.org"
+},
+{
+"text": "Vote by Mail",
+"href": "https://www.erinforyall.com/vote#votebymail"
+},
+{
+"text": "What to Bring",
+"href": "https://www.erinforyall.com/vote#whattobring"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://www.erinforyall.com/vote#wheretovote"
+},
+{
+"text": "[image: Email]",
+"href": "mailto:info@erinforyall.com?subject=Contact+from+website+footer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ErinForYall/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/erinforyall/"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/ErinForYall"
+},
+{
+"text": "[image]",
+"href": "https://www.erinforyall.com"
+},
+{
+"text": "https://teamrv-mvp.sos.texas.gov/BallotTrackerApp/#/login",
+"href": "https://teamrv-mvp.sos.texas.gov/BallotTrackerApp/#/login"
+},
+{
+"text": "info@erinforyall.com",
+"href": "mailto:info@erinforyall.com"
+},
+{
+"text": "vote411.org",
+"href": "http://www.vote411.org"
+}
 ]

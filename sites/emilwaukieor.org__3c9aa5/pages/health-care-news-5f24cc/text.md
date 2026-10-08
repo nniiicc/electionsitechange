@@ -1,6 +1,6 @@
-Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes More Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
-Mail Boxes Home 2026 campaign topics Voter Pamphlet References Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes More Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
+Mail Boxes Home 2026 campaign topics Tax Hiker Gamba Not so Clean Fuels Adds to cost of gasoline Campaign Topics 2 City Hall News Housing Health Care News Energy Elvis Paintings Cartoons #3 Legacies Special Features WF Cartoons#2 Cartoons Milw.
 Mail Boxes Ore.
 Rep.
 Diehl asks that oregon Healthcare be deregulated Oregon Representative Diehl says Oregon healthcare system is broken, needing radical change Here is Representative Ed Diehl's written argument for redirecting Oregon healthcare towards a system of wide healthcare access, rather than the current system that says you are covered but then underpays healthcare service providers, causing them to go belly up - causing long waiting lines for getting healthcare services: Rep.

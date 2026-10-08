@@ -111,8 +111,7 @@ We should apply the same standard to irreversible decisions about a child.
 Sex reassignment surgery and other gene therapies should be available only to adults over 18.
 Join The Team I am so grateful for the people God has put in my life that have supported my campaign!
 I am glad He planted me in Cabarrus County and would ask for your support as I run for the NC State House.
-Donate Also Endorsed By Endorsements: NC Police Benevolent Association County Commissioner Larry Pittman Former NC Republican Majority Leader Skip Stam NC Grassroots Government Grass Roots North Carolina Students for Life Action Americans for Prosperity Stand for Health Freedom!
-The Calvin Coolidge Project Rated the “Top Conservative Candidate for NC-73 by iVoterGuide Ready to Support Jonathan?
+Donate Also Endorsed By Americans for Prosperity Grass Roots North Carolina MAHA Institute National Rifle Association (NRA-PVF) NC Grassroots Government NC Police Benevolent Association Students for Life Action Ready to Support Jonathan?
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
 Name * First Last Email * Multiple Items Volunteer to Door Knock Volunteer Poll Worker Host a Meet & Greet Yes, I want a Yard Sign Comment or Message Submit Committee to Elect Jonathan Almond PO Box 7956 Concord, NC 28027 Facebook Paid for by the Committee to Elect Jonathan Almond

@@ -1,7 +1,7 @@
 Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute Archives: Events 7 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 9/11/2021 September 11, 2021 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 9/11/2021 September 11, 2021 - 10/8/2026 Now Select date.
 September 2021 Sat 11 River Days Parade September 11, 2021 @ 3:00 pm - 6:00 pm UTC+0 Parade Staging @ Mt Vernon Junior High School 701 Tile Factory Rd, Mt Vernon, Indiana, United States On Saturday September 11 MT Vernon is having their River days parade.
 We’re inviting you to join us- Jim and Margie Tomes.
 Lineup is at… September 2022 Sat 10 River Days Parade September 10, 2022 @ 2:30 pm - 4:30 pm UTC+0 Parade Staging @ Mt Vernon Junior High School 701 Tile Factory Rd, Mt Vernon, Indiana, United States Walk with us in the Mt.

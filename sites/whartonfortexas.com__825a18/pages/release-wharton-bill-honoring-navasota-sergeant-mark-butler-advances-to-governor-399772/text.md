@@ -11,7 +11,8 @@ Once signed by the Governor, the law will take effect on September 1, 2025.
 ### Rep.
 Trey Wharton – Sergeant Butler Memorial Download Post navigation Previous post: Prev RELEASE: Speaker Appoints Rep.
 Trey Wharton to Prominent Committees February 13, 2025 Next post: Next RELEASE: Rep.
-Wharton’s Law Enforcement Protection Bill Headed to the Governor May 30, 2025 You May Also Like Posted June 25, 2025 in TXLege News RELEASE: State Representative Trey Wharton to Open District Office in Huntsville Posted February 7, 2025 in TXLege News RELEASE: Rep.
+Wharton’s Law Enforcement Protection Bill Headed to the Governor May 30, 2025 You May Also Like Posted May 30, 2025 in TXLege News RELEASE: Rep.
+Wharton’s Law Enforcement Protection Bill Headed to the Governor Posted February 7, 2025 in TXLege News RELEASE: Rep.
 Trey Wharton Joins Texas Bicameral Water Caucus Search for: Archives March 2026 July 2025 June 2025 May 2025 February 2025 Recent Posts RELEASE: Texas State Rep.
 Trey...
 March 27, 2026 RELEASE: State Representative ...

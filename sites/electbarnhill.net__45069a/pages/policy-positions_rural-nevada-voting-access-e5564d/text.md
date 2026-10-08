@@ -48,12 +48,16 @@ Results, Not Noise Rural Nevadans have the same stake in this state’s future a
 Their vote carries the same weight, their questions deserve the same honest answers, and their access to the ballot deserves the same protection.
 I’ll set firm statewide standards, give every county the tools to meet them, and report results openly.
 That’s the daily work of an office that respects the people it serves.
-If you want elections that are secure, transparent, and workable for every community, get to know me , join the campaign , or donate .
 Independence isn’t a wasted vote.
 It’s a vote no party owns, and it’s how you can stop being unrepresented .
-Share: Categories: Policy Positions 1 thought on “A Voter in Ely Shouldn’t Have a Harder Path to the Ballot” Pingback: What Nevada Secretary of State Candidates Owe Voters Post navigation Previous Previous post: Where’s My Ballot?
+I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
+Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
+If not, it’s time to take a closer look.
+Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
+I’m asking you to hold the office accountable for solving real problems.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Policy Positions 1 thought on “A Voter in Ely Shouldn’t Have a Harder Path to the Ballot” Pingback: What Nevada Secretary of State Candidates Owe Voters Post navigation Previous Previous post: Where’s My Ballot?
 How to Track Your Nevada Mail Ballot Next Next post: Consistent County Election Standards: The Same Protections for Every Nevada Voter footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

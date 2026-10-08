@@ -27,7 +27,7 @@ I voted for the largest tax rate decrease in the history of Georgia along with d
 I will continue to fight to reduce the income tax to zero and replace with the Fair Tax.
 I also support legislation requiring voter approval before any tax increase at the local level.
 ENHANCING STATE-WIDE EDUCATION Public education options need to be reimagined state-wide.
-Today we know more about birth to four years old than ever before.
+I led the school choice initiative in the House and today we know more about birth to four years old than ever before.
 A true focus needs to be placed in early education.
 This will lead to higher performance in K-12 for children all across our great state.
 HOME ABOUT ISSUES THE DISTRICT NEWS CONTACT DONATE Share by:

@@ -3,6 +3,11 @@ Due to repairs to the Tilton Driver Services facility Commercial Driver License 
 The course is expected to reopen Tuesday, May 9, 2023.
 No other facility services will be impacted by this project.
 In the meantime, CDL customers who need to schedule pre-trip, skills and road tests may schedule an appointment at one of the facilities below by visiting www.ilsos.gov.
-Rantoul Driver Services facility at 421 S Murray Rd in Rantoul (Class B only) Charleston Driver Services facility at 1010 E Street in Charleston (Class A & B) -#- Other Press Releases Giannoulias Lanza Su Primer Video En Español El Ex Tesorero de Estado Explora Campaña para Secretario de Estado Keep Reading → Giannoulias Expands Services Area at Deerfield DMV Express services for north suburban residents start today Keep Reading → Illinois IATSE Locals Endorse Giannoulias for Illinois Secretary of State Illinois International Alliance of Theatrical Stage Employees (IATSE) Locals voted this week to endorse former State Treasurer Alexi Giannoulias for Illinois Secretary of State.
-Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Rantoul Driver Services facility at 421 S Murray Rd in Rantoul (Class B only) Charleston Driver Services facility at 1010 E Street in Charleston (Class A & B) -#- Other Press Releases Giannoulias to Libraries: We’re United Against Banning Books State’s Librarian vows to protect free speech, access to books Keep Reading → Secretary of State Offices to Close for Martin Luther King Jr.
+Day Illinois Secretary of State Alexi Giannoulias announced that all offices and facilities will be closed in observance of Martin Luther King Jr.
+Day.
+Keep Reading → Former Democrat Congressman Jerry Costello Endorses Giannoulias for SOS Former U.S.
+Rep.
+Jerry F.
+Costello announced his endorsement today for Democrat Secretary of State candidate Alexi Giannoulias in the 2022 election cycle Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

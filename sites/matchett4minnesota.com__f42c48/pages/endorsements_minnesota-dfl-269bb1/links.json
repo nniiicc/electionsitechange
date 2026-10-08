@@ -36,12 +36,20 @@
 "href": "https://matchett4minnesota.com/issues/"
 },
 {
+"text": "Media & News",
+"href": "https://matchett4minnesota.com/news/"
+},
+{
 "text": "Meet Amanda",
 "href": "https://matchett4minnesota.com/book-online/"
 },
 {
 "text": "Minnesota Democratic-Farmer-Labor (DFL) Party",
-"href": "https://www.dfl.org/"
+"href": "https://www.dfl.org/endorsed"
+},
+{
+"text": "News",
+"href": "https://matchett4minnesota.com/news/"
 },
 {
 "text": "Press",
@@ -53,11 +61,19 @@
 },
 {
 "text": "Visit website",
-"href": "https://www.dfl.org/"
+"href": "https://www.dfl.org/endorsed"
 },
 {
 "text": "Volunteer",
 "href": "https://matchett4minnesota.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://matchett4minnesota.com/vote/"
+},
+{
+"text": "Voter Information",
+"href": "https://matchett4minnesota.com/vote/"
 },
 {
 "text": "[image] Amanda Matchett MN House 32A",

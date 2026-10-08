@@ -64,16 +64,24 @@
 "href": "https://www.linkedin.com/in/cmoralescagov/"
 },
 {
+"text": "cm@forallvoices.com",
+"href": "mailto:cm@forallvoices.com"
+},
+{
+"text": "https://forallvoices.com/",
+"href": "https://forallvoices.com/ja/"
+},
+{
+"text": "https://forallvoices.com/privacy-policy/",
+"href": "https://forallvoices.com/ja/privacy-policy/"
+},
+{
 "text": "info@forallvoices.com",
 "href": "mailto:info@forallvoices.com"
 },
 {
 "text": "website accessibility",
 "href": "https://userway.org"
-},
-{
-"text": "。",
-"href": "mailto:info@forallvoices.com"
 },
 {
 "text": "やまと",
@@ -98,10 +106,6 @@
 {
 "text": "スパニッシュ",
 "href": "https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-para-el-Congreso-2026-es.pdf"
-},
-{
-"text": "プライバシーポリシー",
-"href": "https://forallvoices.com/ja/privacy-policy/"
 },
 {
 "text": "プラットフォーム",
@@ -146,6 +150,10 @@
 {
 "text": "連絡先",
 "href": "https://forallvoices.com/ja/contact-us/"
+},
+{
+"text": "電子メールおよびテキストメッセージに関するプライバシーポリシーおよび利用規約",
+"href": "https://forallvoices.com/ja/privacy-policy/"
 },
 {
 "text": "한국어",

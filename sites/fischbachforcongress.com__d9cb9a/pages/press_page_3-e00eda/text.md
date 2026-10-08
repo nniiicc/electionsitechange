@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press July 12, 2024 Congress To Subpoena Biden’s Doctor Over External Medical Visits, Demanding Medical Records Amid Dementia Allegations President Joe Biden’s appearance during the first Presidential Debate has sparked concerns regarding his health, leading to potential congressional actions.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press July 12, 2024 Congress To Subpoena Biden’s Doctor Over External Medical Visits, Demanding Medical Records Amid Dementia Allegations President Joe Biden’s appearance during the first Presidential Debate has sparked concerns regarding his health, leading to potential congressional actions.
 Click here to read the full article.
 June 21, 2024 In East Grand Forks visit, U.S.
 Rep.

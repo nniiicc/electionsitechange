@@ -1,15 +1,10 @@
-A labor look at the 2024 Oregon Legislature
-Organized labor notched several legislative wins in the five-week “short session” of the Oregon Legislature that ended March 7…
-A labor look at the 2024 Oregon Legislature Read More »
-Skip to content
-Labor
-A labor look at the 2024 Oregon Legislature
-Organized labor notched several legislative wins in the five-week “short session” of the Oregon Legislature that ended March 7…
-A labor look at the 2024 Oregon Legislature Read More »
-Oregon Senate Passes Bill to Boost U.S.
-Manufacturing
-The Oregon State Senate today approved a transformative “Buy America” bill (HB 3332), which will retool the state’s procurement practices and greater align state buying power with current robust federal domestic standards…
-Oregon Senate Passes Bill to Boost U.S.
-Manufacturing Read More »
-Legislation to Improve Workplace Safety Passes State Legislature, Heads to Governor Kotek’s Desk
-Senate Bill 592A to improve the Oregon Occupational Safety and Health Administration’s (OSHA) enforcement and investigation tools passed the Oregon State House today in a bipartisan 35 to 23 vote and now moves on to the Governor to be signed into law…
+Skip to content Dacia for Oregon Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact DONATE Meet Dacia Our Work Endorsements Media Volunteer Contact Labor A labor look at the 2024 Oregon Legislature In The Capitol , Labor / Dacia Grayber Organized labor notched several legislative wins in the five-week “short session” of the Oregon Legislature that ended March 7… A labor look at the 2024 Oregon Legislature Read More » Oregon Senate Passes Bill to Boost U.S.
+Manufacturing Labor , Oregon Policy / Dacia Grayber The Oregon State Senate today approved a transformative “Buy America” bill (HB 3332), which will retool the state’s procurement practices and greater align state buying power with current robust federal domestic standards… Oregon Senate Passes Bill to Boost U.S.
+Manufacturing Read More » Legislation to Improve Workplace Safety Passes State Legislature, Heads to Governor Kotek’s Desk Labor , Oregon Policy / Dacia Grayber Senate Bill 592A to improve the Oregon Occupational Safety and Health Administration’s (OSHA) enforcement and investigation tools passed the Oregon State House today in a bipartisan 35 to 23 vote and now moves on to the Governor to be signed into law… Legislation to Improve Workplace Safety Passes State Legislature, Heads to Governor Kotek’s Desk Read More » Join Dacia Grayber for Oregon House District 28 Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Phone Number Postal Code Email Number Checkboxes Checkboxes By checking this box, you consent to receive campaign and news updates from Dacia Grayber.
+You can unsubscribe anytime.
+COUNT ME IN Donate Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact Meet Dacia Our Work Endorsements Media Volunteer Contact

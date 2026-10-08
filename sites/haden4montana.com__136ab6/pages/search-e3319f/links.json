@@ -1,9 +1,38 @@
 [
-"https://haden4montana.com/",
-"https://haden4montana.com/blog",
-"https://haden4montana.com/event-details/truman-dinner",
-"https://haden4montana.com/notifications",
-"https://haden4montana.com/search",
-"https://secure.actblue.com/donate/rudolfhaden",
-"https://votemt.gov/"
+{
+"text": "Blog",
+"href": "https://www.haden4montana.com/blog"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/rudolfhaden"
+},
+{
+"text": "Home",
+"href": "https://www.haden4montana.com"
+},
+{
+"text": "Notifications",
+"href": "https://www.haden4montana.com/notifications"
+},
+{
+"text": "Register to Vote !",
+"href": "https://votemt.gov"
+},
+{
+"text": "Search Results",
+"href": "https://www.haden4montana.com/search"
+},
+{
+"text": "TRUMAN DINNER",
+"href": "https://www.haden4montana.com/event-details/truman-dinner"
+},
+{
+"text": "[image: Haden4Montana-logo]",
+"href": "https://www.haden4montana.com"
+},
+{
+"text": "[image: TRUMAN DINNER]",
+"href": "https://www.haden4montana.com/event-details/truman-dinner"
+}
 ]

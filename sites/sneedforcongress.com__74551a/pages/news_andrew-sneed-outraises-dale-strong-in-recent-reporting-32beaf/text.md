@@ -1,9 +1,0 @@
-top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
-DONATE < Back Andrew Sneed outraises Dale Strong in recent reporting Andrew Sneed outraised the incumbent, Representative Dale Strong, with 100 percent of his funds originating from individual donors not PACs.
-Alabama Political Reporter STAFF Feb 6, 2026 Previous Next Andrew Sneed outraised incumbent Representative Dale Strong in the most recent reporting period, marking a significant step in Sneed’s campaign to defeat Strong in the 2026 midterm election.
-Q4 campaign finance reports show a clear contrast in the source of fundraising: nearly 75 percent of Strong’s contributions came from corporate PACs and special interests, while 100 percent of Sneed’s fundraising came from individual donors, according to Sneed’s campaign.
-“This campaign is being built by people who want a representative that answers to them, not to corporate PACs or special interests in Washington,” Sneed said.
-“Outraising an incumbent through individual donations shows the power of the people of this district and tells me that folks across this district are ready for a different kind of leadership.” Sneed, a North Alabama native and small-business owner, launched his campaign with a focus on restoring trust in government, rejecting corporate and special-interest influence, and centering working families and small businesses in public service.
-“This race is about who Congress works for,” Sneed said.
-“We are just getting started.
-We are continuing to build momentum and run a people-powered campaign to win this November.” Previous Next Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

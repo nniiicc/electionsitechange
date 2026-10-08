@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Viewpoint: A landmark week for Ashland Food Project This Saturday’s green bag food pickup will be the 100th in a program that has collected 2.3 million pounds of food for the hungry By Rep.
+Skip to content Wed.
+Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Viewpoint: A landmark week for Ashland Food Project This Saturday’s green bag food pickup will be the 100th in a program that has collected 2.3 million pounds of food for the hungry By Rep.
 Pam Marsh June 9, 2026 LINK TO ASHLAND.NEWS ARTICLE Volunteers at the Ashland Co mmunity Food Bank organize green bags of food donated by Ashland residents during a bimonthly collection drive.
 June 13 marks the 100th Saturday morning pickup of the Ashland Food Project.
 John Trivers photo It’s always a feel-good moment to pack that bag with soup, chili and peanut butter, knowing that the food I supply will help sustain my neighbors.

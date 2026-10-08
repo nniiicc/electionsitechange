@@ -1,5 +1,7 @@
 top of page Home About Me News Get Involved Contact More Use tab to navigate through the menu items.
-Subscribe Log In Karen Martin For State Representative Campaign News The Latest Updates Karen acceptance speech 5/19/2026 Karen testifies in Hartford HB 5283 & HB 5389, 2/27/2026 All Articles Join us on Wednesdays...Notes for Votes!
+Subscribe Log In Karen Martin For State Representative Campaign News The Latest Updates Karen acceptance speech 5/19/2026 Karen testifies in Hartford HB 5283 & HB 5389, 2/27/2026 All Articles Karen Receives CT Against Gun Violence Endorsement!
+Karen Martin is honored to receive the endorsement of CT Against Gun Violence and an “A” grade from the organization in her campaign for State Representative.
+Campaign Staff #ago 1 min read Join us on Wednesdays...Notes for Votes!
 Karen Martin invites friends, supporters, and neighbors to join her campaign every Wednesday evening for “Notes for Votes,” a community postcard-writing gathering at the East Haven Democratic Town Committee Headquarters.
 Campaign Staff #ago 1 min read Rescheduled Grand Opening - East Haven DTC Headquarters!
 Karen Martin invites East Haven residents to the grand opening of the East Haven Democratic Town Committee Headquarters on Sunday, October 4, at 11:00 a.m.
@@ -8,6 +10,4 @@ Karen is honored to receive the endorsement of AFSCME Council 4 in her campaign 
 For Karen, this partnership is deeply personal.
 Before entering public service, she spent 40 years on the front lines of healthcare, starting as a teenage nurse’s aide and working for decades as an X-ray and MRI technologist at Yale New Haven Hospital.
 As a former union member herself, she knows firsthand the dedication and sacrifice it takes to care for our communities.
-Campaign Staff Sep 20 1 min read Karen Receives Planned Parenthood Endorsement!
-I am incredibly proud and honored to announce that I have officially received the endorsement of Planned Parenthood.
-Campaign Staff Sep 1 1 min read Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page
+Campaign Staff Sep 20 1 min read Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page

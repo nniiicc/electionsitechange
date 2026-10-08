@@ -60,4 +60,4 @@ Peterson Foundation — pgpf.org · Committee for a Responsible Federal Budget �
 5, 2011) — apnews.com Pentagon has never passed a clean financial audit: U.S.
 Government Accountability Office — gao.gov Rep.
 Thompson’s tenure and Ways and Means Committee seat: mikethompson.house.gov Thompson’s corporate PAC ranking among Ways and Means Democrats: Federal Election Commission filings — fec.gov Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

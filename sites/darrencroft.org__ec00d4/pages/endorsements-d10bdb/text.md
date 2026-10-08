@@ -19,7 +19,12 @@ In a representative form of government I can’t think of anyone better to repre
 Denney and Lorene Berrett Cottonwood Heights Residents When we endorse a candidate we take it very seriously and have to have complete confidence that they will represent their constituents in an honest, truthful and responsible manner.
 We have no reservation in endorsing Darren Croft for District 41 Representative. …Darren is very bright, honest, service oriented, a great listener and a tireless worker.
 He has a desire to make things better and works well with others to come to a solution that is best.
-We know Darren would be a benefit to our district and state and we fully endorse him. ﻿ Gregory & JoAnn Schwitzer Cottonwood Heights Residents We are thrilled to fully endorse Darren Croft in his campaign for the Utah Legislature.
+We know Darren would be a benefit to our district and state and we fully endorse him. ﻿ Edie Smart Cottonwood Heights Resident I have known Darren Croft and his family for many years.
+They are very kind and respectful.
+But foremost, they are honest and dedicated in whatever endeavors they set forth to accomplish.
+Darren is someone I would trust to help the people of Utah.
+I fully endorse and support him.
+Gregory & JoAnn Schwitzer Cottonwood Heights Residents We are thrilled to fully endorse Darren Croft in his campaign for the Utah Legislature.
 We have known him for many years and have been impressed with his dedication, integrity and ability to communicate and understand issues of importance to the community and the State….
 Utah would be well served by having him as one of our legislators.
 Hilary Davis Real Estate Broker/Manager [Darren] has consistently demonstrated reliability, honesty, and a thoughtful approach to solving problems.

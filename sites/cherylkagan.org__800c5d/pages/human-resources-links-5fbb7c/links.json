@@ -1,38 +1,158 @@
 [
-"http://cherylkagan.org/in-the-news",
-"http://cherylkagan.org/ng911",
-"http://hocmc.org/",
-"http://mydhrbenefits.dhr.state.md.us/",
-"http://response.maryland.gov/federalpublicservants/shutdown",
-"http://worksourcemontgomery.com/",
-"http://wsscwater.com/",
-"https://cherylkagan.org/",
-"https://cherylkagan.org/about",
-"https://cherylkagan.org/bio",
-"https://cherylkagan.org/casework",
-"https://cherylkagan.org/community-resources",
-"https://cherylkagan.org/community-updates",
-"https://cherylkagan.org/constituent-services",
-"https://cherylkagan.org/contact",
-"https://cherylkagan.org/email-sign-up",
-"https://cherylkagan.org/human-resources-links",
-"https://cherylkagan.org/jobs",
-"https://cherylkagan.org/legislative-overview",
-"https://cherylkagan.org/press-releases",
-"https://cherylkagan.org/senatorial-scholarships",
-"https://facebook.com/CherylCKagan",
-"https://help.usajobs.gov/working-in-government/unique-hiring-paths/federal-employees/career-transition",
-"https://instagram.com/cherylckagan",
-"https://labor.maryland.gov/federalworkers",
-"https://mddccua.org/2025/10/federal-shutdown-resources",
-"https://mdol.submittable.com/submit",
-"https://montgomerycountymd.gov/HHS-Program/Program.aspx?id=SNHS%2FSNHSEMEvictionPrevent-p745.html",
-"https://montgomerycountymd.gov/OPI/fed-worker-resources.html",
-"https://montgomerycountymd.gov/ofsr/food/index.html",
-"https://pepco.com/BillSupport",
-"https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan",
-"https://teach.maryland.gov/",
-"https://teach.maryland.gov/Pages/fed-public-servants.aspx",
-"https://twitter.com/CherylKagan",
-"https://youtube.com/@SenCherylKagan"
+{
+"text": "9-1-1",
+"href": "http://cherylkagan.org/ng911/"
+},
+{
+"text": "About",
+"href": "https://cherylkagan.org/bio"
+},
+{
+"text": "Biography",
+"href": "https://cherylkagan.org/about/"
+},
+{
+"text": "Community Resources",
+"href": "https://cherylkagan.org/community-resources/"
+},
+{
+"text": "Community Updates",
+"href": "https://cherylkagan.org/community-updates/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan"
+},
+{
+"text": "District 17 Casework Portal",
+"href": "https://cherylkagan.org/casework/"
+},
+{
+"text": "Email Sign Up",
+"href": "https://cherylkagan.org/email-sign-up/"
+},
+{
+"text": "Federal Career Transition Programs",
+"href": "https://help.usajobs.gov/working-in-government/unique-hiring-paths/federal-employees/career-transition"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org/"
+},
+{
+"text": "Human Resources Links",
+"href": "https://cherylkagan.org/human-resources-links/"
+},
+{
+"text": "Job Descriptions",
+"href": "https://cherylkagan.org/jobs/"
+},
+{
+"text": "Kagan in the News",
+"href": "http://cherylkagan.org/in-the-news/"
+},
+{
+"text": "Legislative Session Overviews",
+"href": "https://cherylkagan.org/legislative-overview/"
+},
+{
+"text": "Maryland DC Credit Union Association",
+"href": "https://www.mddccua.org/2025/10/federal-shutdown-resources/"
+},
+{
+"text": "Maryland’s Alternative Teacher Certification Pathways",
+"href": "https://teach.maryland.gov/Pages/fed-public-servants.aspx"
+},
+{
+"text": "Montgomery County Government Resources for Workers Impacted by Recent Federal Government Actions",
+"href": "https://www.montgomerycountymd.gov/OPI/fed-worker-resources.html"
+},
+{
+"text": "Press Releases",
+"href": "https://cherylkagan.org/press-releases/"
+},
+{
+"text": "Scholarships",
+"href": "https://cherylkagan.org/senatorial-scholarships/"
+},
+{
+"text": "Services & Resources",
+"href": "https://cherylkagan.org/constituent-services/"
+},
+{
+"text": "Share Your Thoughts",
+"href": "https://cherylkagan.org/contact/"
+},
+{
+"text": "Teach for Maryland",
+"href": "https://teach.maryland.gov/"
+},
+{
+"text": "[image] (410) 841-3134",
+"href": "tel:410-841-3134"
+},
+{
+"text": "[image] Cheryl.Kagan@senate.state.md.us",
+"href": "mailto:Cheryl.Kagan@senate.state.md.us"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/CherylCKagan"
+},
+{
+"text": "[tooltip: Follow Us on Instagram]",
+"href": "https://www.instagram.com/cherylckagan/"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "https://twitter.com/CherylKagan"
+},
+{
+"text": "[tooltip: Follow Us on Youtube]",
+"href": "https://www.youtube.com/@SenCherylKagan"
+},
+{
+"text": "hocmc.org",
+"href": "http://hocmc.org"
+},
+{
+"text": "https://montgomerycountymd.gov/ofsr/food/index.html",
+"href": "https://montgomerycountymd.gov/ofsr/food/index.html"
+},
+{
+"text": "https://www.montgomerycountymd.gov/HHS-Program/Program.aspx?id=SNHS/SNHSEMEvictionPrevent-p745.html",
+"href": "https://www.montgomerycountymd.gov/HHS-Program/Program.aspx?id=SNHS%2FSNHSEMEvictionPrevent-p745.html"
+},
+{
+"text": "labor.maryland.gov/federalworkers",
+"href": "https://labor.maryland.gov/federalworkers"
+},
+{
+"text": "mdol.submittable.com/submit",
+"href": "https://mdol.submittable.com/submit"
+},
+{
+"text": "mydhrbenefits.dhr.state.md.us",
+"href": "http://mydhrbenefits.dhr.state.md.us"
+},
+{
+"text": "pepco.com/BillSupport",
+"href": "https://www.pepco.com/BillSupport"
+},
+{
+"text": "response.maryland.gov/federalpublicservants/shutdown",
+"href": "http://response.maryland.gov/federalpublicservants/shutdown"
+},
+{
+"text": "worksourcemontgomery.com",
+"href": "http://worksourcemontgomery.com"
+},
+{
+"text": "wsscwater.com",
+"href": "http://wsscwater.com"
+}
 ]

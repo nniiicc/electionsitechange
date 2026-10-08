@@ -15,4 +15,4 @@ If you have questions about the campaign or you’d like to get involved, send u
 Thanks!
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * Email * Subject Email Name Subject Message * Submit Julián Villarreal, PhD for Texas Senate Pol. adv. paid by Julián Villarreal for Texas Senate English Español de México
+Name * Email * Subject Message Subject Name Message * Submit Julián Villarreal, PhD for Texas Senate Pol. adv. paid by Julián Villarreal for Texas Senate English Español de México

@@ -1,4 +1,4 @@
-Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT All Press Print Jackie Auringer for Congress Kingston, New York • winwithjackie.com For Immediate Release October 6, 2026 Media Contact Jackie Auringer for Congress info@winwithjackie.com Where Does Pat Ryan Live?
+Skip to main content Home About Jackie Events Gallery Volunteer News & Press Track AIPAT DONATE CONTACT All Press Print Jackie Auringer for Congress Kingston, New York • winwithjackie.com For Immediate Release October 6, 2026 Media Contact Jackie Auringer for Congress info@winwithjackie.com Where Does Pat Ryan Live?
 Maybe AOC Can Ask Him Today Not One Media Outlet in NY-18 Has Asked KINGSTON, NY, October 6, 2026 - Congresswoman Alexandria Ocasio-Cortez will appear alongside Congressman Pat Ryan in Dutchess County today, giving her an opportunity to ask Ryan the same basic question she once demanded that former Congressman Joe Crowley answer: Pat, where do you actually live?
 The appearance comes the same day the New York Post reports that Ryan declined to say whether his children attend school in Washington, D.C., or in New York's 18th Congressional District, amid questions raised by Republican congressional candidate Jackie Auringer about Ryan's residency and taxpayer-funded benefits.
 “Eight years ago, AOC thought voters deserved to know why their Congressman was raising his family outside the district,” Auringer said.
@@ -19,7 +19,7 @@ If his children are attending public school in Washington, taxpayers deserve to 
 Ask him where he lives.
 And if they won't, maybe AOC will.” ### About Jackie Auringer for Congress Jackie Auringer is running for Congress because the community she grew up in deserves a stronger voice in Washington, focused on restoring affordability, strengthening local economies, and fighting for the families and small businesses that make the Hudson Valley thrive.
 Paid for by Jackie Auringer for Congress .
-Contact Press Team Share on X Share on Facebook Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Contact Press Team Share on X Share on Facebook Campaign About Jackie Gallery News & Press Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
 Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
 All rights reserved.
 I consent to receive SMS text message updates from Jackie Auringer for Congress By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Jackie Auringer for Congress.

@@ -6,14 +6,17 @@ That's why I don't simply take a "position" on these issues.
 Instead, I offer affordable and effective "solutions".
 However, my solutions need to be explained in the larger context of major fundamental changes to how government operates.
 Highlights of the SOLUTIONS BLUEPRINT include: Creating the new position of Chief Coherence Officer Launching a Partnership for Applied Coherence Technologies to make Colorado a global leader in new economic engines predicted to have trillions of dollars in global impact Establishing the P.R.O.F.E.T. of Colorado , a state-level Patent Registration Office for Extraordinary Technologies Improving education by removing polluting irritants in schools that degrade health and learning.
-Harvesting hydrogen and the “wonder material” graphene from agricultural waste, and producing more health care products from farm crops Inventing better equipment and protective gear for public safety personnel Lowering new home construction costs by creating alternatives to the profit-incentive of real estate investing, and “growing” building materials locally Achieving vehicle emissions goals for Colorado within two years , but without tax-funded incentives, EPA regulations or even more electric vehicles Banning nuclear fission - disposal of radioactive waste has never been safe A moratorium on new AI data center construction until sufficient safeguards and responsible resource consumption regulations are in place Creating a state-level Extraterrestrial Affairs Commission.
+Harvesting hydrogen and the “wonder material” graphene from agricultural waste, and producing more health care products from farm crops Inventing better equipment and protective gear for public safety personnel Lowering new home construction costs by creating alternatives to the profit-incentive of real estate investing, and “growing” building materials locally Achieving vehicle emissions goals for Colorado within two years , but without tax-funded incentives, EPA regulations or even more electric vehicles Banning nuclear fission - disposal of radioactive waste has never been safe.
+200,000 barrels of nuclear waste have been found at the bottom of the North Atlantic.
+Many are leaking.
+A moratorium on new AI data center construction until sufficient safeguards and responsible resource consumption regulations are in place Creating a state-level Extraterrestrial Affairs Commission.
 Becoming the "Disclosure Governor" .
 Demanding release of life-saving technologies obtained from crashed extraterrestrial craft.
 Requiring state budgeting to prioritize policies and programs that actually solve problems at the least expense Establishing laws against "domestic terrorism" based on its definition in the USA PATRIOT Act 2001, and applying them to acts by government officials at any level See the full SOLUTIONS BLUEPRINT at the link in the next section.
 See " SPECIFICS" toward the end.
 You may also scroll down to read the same information.
 No AI was involved in generating the text of this content, except for some calculations.
-JEFF PECKMAN SOLUTIONS - Download Solutions Blueprint Jeff Peckman 8.30.26 (pdf) Download SOLUTIONS BLUEPRINT Table of Contents AFFORDABILITY and GOVERNMENT BUDGETS * Transition to a Solution-Based Economy * Create a Rising Tide of Innovation * Circulate More Income within Colorado * * Shift PERA to More Colorado Solutions * Develop New Economic Engines in Graphene and Coherence Technologies * Require results-based budgets ECONOMY and JOBS * Launch a Coherent Economy * Chief Coherence Officer * Partnership for Applied Coherence Technologies * Lead the $11 Trillion Graphene Economy * Workers’ Rights and Unions HEALTH CARE and WELLNESS * Prioritize Health over Health Care * Increase Natural and Traditional Health Care * Deploy Society-Wide Health Interventions * Adopt More Holistic Wellness * Treat Substance Abuse as a Disease PUBLIC SAFETY, CRIME, and TERRORISM * Reduce Root Causes of Crime and Terrorism * Improve Health, Safety and Coherence of Law Enforcement * Upgrade Public Safety Equipment * Enact Stronger Domestic Terrorism Laws * Reduce Drug Use Penalties – Increase Treatment EDUCATION and TRUTH * Reduce stress and increase coherence * Reduce Classroom Pollution * Use Coherence and Graphene Curricula * Create new funding sources * Support S.T.R.E.A.M. – Science, Technology, Recreation, Engineering, Arts, Math * Truth Alone Triumphs AGRICULTURE and RURAL DEVELOPMENT * Harvest graphene and hydrogen from methane and Bio-feedstock *Agricultural hemp * Grow better healthcare * New and expanded economic opportunities * Oregon’s Measure 27 to Label Genetically Engineered Food TECHNOLOGY and INNOVATION * End suppression of breakthrough technologies * P.R.O.F.E.T. of Colorado - Patent Registration Office for Extraordinary Technology * Review innovation incubators for priorities AIR QUALITY AND CLIMATE CHANGE * End political hypocrisy * Coherent Fuel Plasma for Vehicles, Industry and Agriculture * Graphene and CO2 Capture * Colorado Air Pollution Reduction Fast Track 5.0 * Coherent Electrical Current Technology ENERGY * Support Safe and Clean Energy without Taxpayer Funding * Apply Coherence Technology to Power Grids * Integrate Graphene into the Energy Sector * Support Breakthrough Energy Innovations * Ban Nuclear Fission HOUSING and HOMELESSNESS * Launch alternatives to real estate profiteering * Harvest Graphene and other building materials * Reduce oppressive conditions for the homeless * Prohibit wasteful destruction of building materials * A Surplus Solution for the Homeless AI and DATA Centers * Moratorium on new AI data centers * Graphene Supercapacitor in Data Centers * Acknowledge warnings by AI leaders * Responsible regulation of AI data centers * No Burden to Communities and Ratepayers AEROSPACE and EXTRATERRESTRIAL DISCLOSURE * Get Coherence and Graphene Tech into Aerospace * Brief Citizens on Extraterrestrial Disclosure * End Suppression of Extraterrestrial Technologies * Establish a State-Level Extraterrestrial Affairs Commission * Disclosure Governor WATER and other NATURAL RESOURCES * Water Quality and Quantity * Graphene from Natural Resources * Water Revitalization * Coherent Water * Cooling Electrical Current with Coherence * Ancient Rain-Making Music ROADS, BRIDGES, TRANSPORTATION and INFRASTRUCTURE *“Restore Our Roads” - a highway to riches * Convert Pollution to Infrastructure Solutions *$11 Trillion Economic Engines SPECIFICS – More details AIR QUALITY and CLIMATE CHANGE Achieve Colorado’s vehicle emissions goals within 2 years, … …without taxpayer-funded financial incentives and more EVs, and regardless of actions by the EPA or other entities within the Federal government TECHNOLOGY AND INNOVATION Affirming the Constitutional feasibility of creating a state-level Colorado Patent Registration Office for Extraordinary Technology a.k.a.
+JEFF PECKMAN SOLUTIONS - Download Solutions Blueprint Jeff Peckman 10.7.26 (pdf) Download SOLUTIONS BLUEPRINT Table of Contents AFFORDABILITY and GOVERNMENT BUDGETS * Transition to a Solution-Based Economy * Create a Rising Tide of Innovation * Circulate More Income within Colorado * * Shift PERA to More Colorado Solutions * Develop New Economic Engines in Graphene and Coherence Technologies * Require results-based budgets ECONOMY and JOBS * Launch a Coherent Economy * Chief Coherence Officer * Partnership for Applied Coherence Technologies * Lead the $11 Trillion Graphene Economy * Workers’ Rights and Unions HEALTH CARE and WELLNESS * Prioritize Health over Health Care * Increase Natural and Traditional Health Care * Deploy Society-Wide Health Interventions * Adopt More Holistic Wellness * Treat Substance Abuse as a Disease PUBLIC SAFETY, CRIME, and TERRORISM * Reduce Root Causes of Crime and Terrorism * Improve Health, Safety and Coherence of Law Enforcement * Upgrade Public Safety Equipment * Enact Stronger Domestic Terrorism Laws * Reduce Drug Use Penalties – Increase Treatment EDUCATION and TRUTH * Reduce stress and increase coherence * Reduce Classroom Pollution * Use Coherence and Graphene Curricula * Create new funding sources * Support S.T.R.E.A.M. – Science, Technology, Recreation, Engineering, Arts, Math * Truth Alone Triumphs AGRICULTURE and RURAL DEVELOPMENT * Harvest graphene and hydrogen from methane and Bio-feedstock *Agricultural hemp * Grow better healthcare * New and expanded economic opportunities * Oregon’s Measure 27 to Label Genetically Engineered Food TECHNOLOGY and INNOVATION * End suppression of breakthrough technologies * P.R.O.F.E.T. of Colorado - Patent Registration Office for Extraordinary Technology * Review innovation incubators for priorities AIR QUALITY AND CLIMATE CHANGE * End political hypocrisy * Coherent Fuel Plasma for Vehicles, Industry and Agriculture * Graphene and CO2 Capture * Colorado Air Pollution Reduction Fast Track 5.0 * Coherent Electrical Current Technology ENERGY * Support Safe and Clean Energy without Taxpayer Funding * Apply Coherence Technology to Power Grids * Integrate Graphene into the Energy Sector * Support Breakthrough Energy Innovations * Ban Nuclear Fission HOUSING and HOMELESSNESS * Launch alternatives to real estate profiteering * Harvest Graphene and other building materials * Reduce oppressive conditions for the homeless * Prohibit wasteful destruction of building materials * A Surplus Solution for the Homeless AI and DATA Centers * Moratorium on new AI data centers * Graphene Supercapacitor in Data Centers * Acknowledge warnings by AI leaders * Responsible regulation of AI data centers * No Burden to Communities and Ratepayers AEROSPACE and EXTRATERRESTRIAL DISCLOSURE * Get Coherence and Graphene Tech into Aerospace * Brief Citizens on Extraterrestrial Disclosure * End Suppression of Extraterrestrial Technologies * Establish a State-Level Extraterrestrial Affairs Commission * Disclosure Governor WATER and other NATURAL RESOURCES * Water Quality and Quantity * Graphene from Natural Resources * Water Revitalization * Coherent Water * Cooling Electrical Current with Coherence * Ancient Rain-Making Music ROADS, BRIDGES, TRANSPORTATION and INFRASTRUCTURE *“Restore Our Roads” - a highway to riches * Convert Pollution to Infrastructure Solutions *$11 Trillion Economic Engines SPECIFICS – More details AIR QUALITY and CLIMATE CHANGE Achieve Colorado’s vehicle emissions goals within 2 years, … …without taxpayer-funded financial incentives and more EVs, and regardless of actions by the EPA or other entities within the Federal government TECHNOLOGY AND INNOVATION Affirming the Constitutional feasibility of creating a state-level Colorado Patent Registration Office for Extraordinary Technology a.k.a.
 Colorado P.R.O.F.E.T.
 Center DISCLOSURE: UFO/UAP/EXTRATERRESTRIAL Overcoming the misperception that Disclosure of UFOs/UAPs and extraterrestrial visitors to Earth is an interest of only fringe candidates and voters.
 AFFORDABILITY and GOVERNMENT BUDGETS Key Solutions An Honest Reality Check Transition to a Solution-Based Economy Create a Rising Tide of Innovation Circulate More Income within Colorado Develop New Economic Engines in Graphene and Coherence Technologies Lead the World in Sustainable Solutions Require Results-Based Budgets An Honest Reality Check Affordability is a big buzz word these days, and for good reason.
@@ -257,12 +260,11 @@ Stress can also damage the brain, resulting in more health-damaging decisions.
 Treat Substance Abuse as a Disease Substance abuse is a disease.
 That’s a medical and scientific fact.
 It should be treated as such.
+It’s also increased by air pollution, which disrupts the brain’s natural “feel good” chemicals such as dopamine.
 The country of Portugal is leading the way toward more compassionate and effective treatment of substance abusers.
-Colorado should follow in its pioneering footsteps.
 The key solutions shared above are missing ingredients for health care strategies of other candidates.
 They are vital for reducing suffering and premature death of children and adults.
 Many of these solutions can also be deployed at no net cost to taxpayers.
-This is how my administration will raise the zone of health in Colorado.
 PUBLIC SAFETY, CRIME, and TERRORISM Key Solutions My Background in Public Safety Reduce Root Causes of Crime and Terrorism Reduce Drug Use Penalties – Increase Treatment Improve Health, Safety and Coherence of Law Enforcement Upgrade Public Safety Equipment Enact Laws Against Domestic Terrorism My Background in Public Safety Public safety, especially for children, is clearly the most important responsibility of government.
 Exploitation and sexual abuse of children, by any means, deserves severe punishment.
 My ongoing involvement with solutions to crime and terrorism started over #ago.
@@ -587,10 +589,13 @@ It would ensure that the priority is to reward innovative solutions that are the
 That would speed up research and development to solve problems more quickly.
 The science and technologies associated with coherence and graphene will get high priority.
 AIR QUALITY and CLIMATE CHANGE Key Solutions End Political Hypocrisy Coherent Fuel Plasma for Vehicles, Industry and Agriculture Graphene and CO2 Capture Colorado Air Pollution Reduction Fast Track 5.0 Coherent Electrical Current Technology End Political Hypocrisy Nine Colorado front range counties have been non-compliant with EPA emission standards for the last 17 years.
-Democrats have controlled all three branches of Colorado government, and the White House, for most of that time.
+In the summer of 2026, they had their worst air pollution in 30 years.
+Democrats have controlled all three branches of Colorado government for most of that time.
 Throughout that period, they have ignored highly affordable and effective solutions to improve air quality, while claiming to be champions of the environment.
 It’s time to end this hypocrisy.
-Air pollution in Colorado is estimated to cost nearly $1.5 billion annually due to damage to health, infrastructure, and economic impacts.
+Air pollution in Colorado is estimated to cost nearly $1.5 billion annually in damage to health, infrastructure, and economic impacts.
+Just do an Internet search on the relationship that air pollution has with: mental and physical health, immunity to infectious diseases, fetuses, substance abuse, violent and aggressive behavior, racism, memory, learning ability, educational outcomes, executive decision-making and problem-solving, worker productivity, job absenteeism, forests, water resources, wildfires, agriculture, roads, bridges, buildings, infrastructure, recreation and tourism.
+It’s bad for all of these areas and more!
 Emerging coherence technologies can more affordably and quickly achieve air quality and climate change goals.
 This information has been shared with the Colorado Energy Office, Rocky Mountain Institute, National Renewable Energy Laboratory, Colorado Oil and Gas Association, and several local news outlets.
 They ignored it.
@@ -598,47 +603,43 @@ Electrifying everything is not a solution to air pollution and climate change.
 It’s self-destructive, overly expensive, and unnecessary.
 Increasing electrification also disregards the hazards from electro-pollution.
 What’s the alternative?
-Coherent Fuel Plasma for Vehicles An existing Colorado-based coherence technology breakthrough produces more efficient fuel combustion in internal combustion engines.
+Coherent Fuel Plasma for Vehicles An existing Colorado-based coherence technology produces more efficient fuel combustion in internal combustion engines.
 Deploying this technology widely is critical and urgent.
 Globally, each year 700,000 children under age 5 die from air pollution.
 That’s out of 8 million total air pollution deaths annually.
-In cities with the most air pollution, coherent fuel plasma technology can make vehicles produce exhaust that is cleaner than the input air.
+In cities with the most air pollution, coherent fuel plasma technology can potentially make vehicle exhaust cleaner than the input air.
 That effectively makes vehicles air purifiers, instead of air polluters.
 Not even EVs can do that.
 My Chief Coherence Officer will: Achieve Colorado’s vehicle emissions goals within 2 years, instead of almost 25 years as currently envisioned by Democrat candidates for governor [ See SPECIFICS section at the end ] Achieve global vehicle emissions reduction goals within 5 years, instead of almost 25 years Achieve emissions goals without taxpayer-funded financial incentives and more EVs, and regardless of actions by the EPA or other entities within the Federal government Lead the world in air quality and climate change solutions Help public transit and school buses achieve near zero emissions for gas and diesel buses, at less than 1% of the cost of electric buses.
 Colorado currently ranks last place among all 50 U.S. states for its percentage of “new generation near zero emissions” school buses.
 What would compel the big drivers of America’s economy to get into this “Fast Track” race to reduce air pollution?
-Major drivers such as vehicle manufacturing and transportation fleets around the globe are primary markets for coherent fuel plasma.
+Gemini AI has stated, ““Affordability: It [Peckman’s solution] eliminates the need for trillions of dollars in global EV transitions, taxpayer-funded subsidies, or expensive infrastructure overhauls (like building massive charging grids or expanding light rails).
+Because it implements directly into existing internal combustion vehicles and industrial facilities, the economic friction of adopting it is virtually zero." Major drivers such as vehicle manufacturing and transportation fleets around the globe are primary markets for coherent fuel plasma.
 This is elaborated in the section on ECONOMY and JOBS .
-Coherent Fuel Plasma for Vehicles, Industry and Agriculture The same technology used in coherent fuel plasma technology for vehicles can also affordably convert methane into hydrogen and graphene.
+Coherent Fuel Plasma for Vehicles, Industry and Agriculture Colorado’s Rimere.com uses the same coherent plasma technology for vehicles to affordably convert methane into hydrogen and graphene.
 Methane can come from natural gas, landfills, oil and gas drilling wells, mines, waste treatment plants and agricultural waste.
 It can even convert CO2captured from the air, breweries, etc., into high-value graphene.
 Research-grade graphene is many times more valuable than gold!
 Why spend billions of dollars to pipe and bury vast CO2 treasures in the ground as an expensive carbon capture and storage scheme?
 The new “wonder material”, graphene, is being researched by 35,000 people around the world.
-It’s shown promise for improving the performance and sustainability of, for example: solar cells, wind turbine blades, steel, concrete, asphalt, microchips, vehicles, and aircraft.
-It has also shown great promise for purification of sea water, chemically toxic water, and even radioactive water.
+It’s shown promise for improving the performance and sustainability of, for example: solar cells, wind turbine blades, steel, concrete, asphalt, microchips, vehicles, and roofing.
+It has also shown great promise for purifying sea water, chemically toxic water, and even radioactive water.
 Both graphene, and sodium-ion batteries from Peak Energy can possibly replace fire-prone lithium.
 Bank of America and Goldman Sachs have predicted that hydrogen will have $11 trillion in global economic impact by 2050.
 Graphene has been predicted to also have $11 trillion macroeconomic impact.
-Such projections can change.
-However, they must be considered as an extraordinary economic opportunity for Colorado and the U.S.
-Graphene and CO2 Capture CO2captured from the air by graphene, breweries, etc., can also be converted to graphene of a range of qualities.
+Graphene and CO2 Capture CO2 captured from the air, breweries, etc., can also be converted to graphene in many qualities.
 Preventing wildfires is one of the most important ways to reduce sudden and massive increases in air pollution that contributes to climate change.
 Proper forest and land management are vital for reducing wildfire risks and damage.
 However, such management is a huge expense.
 That expense can become an economic engine by converting forest residue and burn area feedstock into graphene.
 ResolutX has achieved that.
-Graphene can then be used to create an Army/Air Force of AI-guided drones to fight forest fires.
-Graphene would enable them to harvest power from the fires, and also CO2 from the smoke to strategically extinguish stray embers and small burn areas.
-Colorado Air Pollution Reduction Fast Track 5.0 Among my initial acts as Governor of Colorado, I will implement the Colorado Air Pollution Reduction Fast Track 5.0.
-It will achieve air pollution reduction goals in a small fraction of the time and expense compared to the highly touted Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0 and related Colorado legislation.
-These technologies are a natural fit for energy and environmental policies.
+Colorado Air Pollution Reduction Fast Track 5.0 Among my initial acts as governor, I’ll create a Colorado Air Pollution Reduction Fast Track 5.0.
+It will achieve air pollution reduction goals in a small fraction of the time and expense compared to the highly touted Colorado Greenhouse Gas Pollution Reduction Roadmap 2.0.
 Unfortunately, despite all of the potential environmental and economic benefits of graphene, the GHG Roadmap 2.0 does not mention graphene a single time!
 However, it does mention Rocky Mountain Institute, or RMI, thirty-eight times.
 It also mentioned hydrogen four times and “green” hydrogen one time.
 Green hydrogen uses five to seven times more electricity than other ways to make hydrogen.
-“Green” hydrogen was a reference to Fortescue Industries, an Australian company that makes green hydrogen through electrolysis.
+“Green” hydrogen was a reference in Roadmap 2.0 to Fortescue Industries, an Australian company that makes green hydrogen through electrolysis.
 It seemed that RMI was largely the author of Roadmap 2.0.
 Fortescue is one of the strategic partners of RMI.
 I suspected that the Colorado GHG Roadmap was highly political.
@@ -650,8 +651,7 @@ It overcomes a huge problem in electricity and electronics.
 It reduces “noise” by increasing coherence in electromagnetic fields.
 The benefits of this technology have received praise from the world’s leading electronics companies.
 However, it has not yet been fully applied but could be in Colorado.
-The application of coherent electromagnetic fields has shown benefits across a wide spectrum.
-That includes: Agriculture: Increasing seed germination and crop yields Air Quality: Reducing ground level ozone by over 40% within a few weeks and effectively making power lines “outdoor air purifiers” Audio and Video Industry: Improving production quality and user experience in unprecedented ways Education: Improving educational outcomes, health and behavior of students Energy: Increasing efficiency in power lines, electronics, and data centers; reducing waste heat and energy loss; and improving the performance and lifespan of equipment Telecommunications: Improving signal stability and reducing dropped calls Work environments: Enhancing productivity, efficiency, and worker health and behavior Logically, this same technology could more affordably and effectively cool data centers and EV motors.
+The application of coherent electromagnetic fields has shown benefits such as: Agriculture: Increasing seed germination and crop yields Air Quality: Reducing ground level ozone by over 40% within a few weeks and effectively making power lines “outdoor air purifiers” Audio and Video Industry: Improving production quality and user experience in unprecedented ways Education: Improving educational outcomes, health and behavior of students Energy: Increasing efficiency in power lines, electronics, and data centers; reducing waste heat and energy loss; and improving the performance and lifespan of equipment Telecommunications: Improving signal stability and reducing dropped calls Work environments: Enhancing productivity, efficiency, and worker health and behavior Logically, this same technology could more affordably and effectively cool data centers and EV motors.
 Moreover, the inventor of this technology had a novel hypothesis.
 He thought that chaos, or noise, in electromagnetic fields from power lines and building wiring created a “spider’s web” matrix of electrostatic traps.
 This matrix, he believed, might hold air pollution close to the ground.
@@ -670,7 +670,7 @@ There’s really been a dramatic improvement.” The project’s results suggest
 The inventor also hypothesized that EMF chaos in power grids, and everything connected to them, creates high-pressure zones in urban areas that disrupt natural patterns of rain.
 Both of these hypotheses warrant further research and validation.
 This technology could bring the nine front range counties in Colorado into compliance with EPA emissions standards for less cost than monitoring air quality.
-That’s what government efficiency could look like.
+That’s what real government efficiency could achieve.
 I introduced this technology at an environmental forum during my 2011 mayoral campaign in Denver.
 In a room of several hundred environmentalists, not a single person asked about it then or since.
 Clearly, they weren’t there to find solutions to air pollution.
@@ -742,10 +742,11 @@ Castle Bravo was 2.5 times larger than expected, due to a wrong assumption that 
 Instead, it caused a runaway catastrophic reaction.
 The experiment was flawed.
 It caused unexpected death and destruction to local populations that the U.S. has never fully compensated.
-Castle Bravo was just one example.
 The catastrophes and scandal of Rocky Flats Nuclear Weapons plant are part of a dark nuclear legacy in Colorado.
 It remains a problem for the front range decades after closing and alleged “clean up”.
-The story is too long to share here, so just learn about it from the Internet or books.
+200,000 barrels of radioactive waste were recently found at the bottom of the North Atlantic.
+Many are leaking.
+The damage is unknown.
 When Atomic Fracking “Bombed” [ RAISE the ZONE , pages 90-91] Government has irresponsibly allowed energy development involving extreme risks.
 Today’s natural gas industry will say that fracking has been “safe” for at least 60 years.
 That timeframe would include using atomic bombs to frack natural gas.
@@ -1068,6 +1069,7 @@ I won’t let this opportunity “fall through the cracks”, or into the pothol
 SPECIFICS - Clean Air without More EVs Air Quality and Climate Change & Technological and Innovation SOLUTIONS BLUEPRINT CLAIM Achieve Colorado’s vehicle emissions goals within 2 years, … …without taxpayer-funded financial incentives and more EVs, and regardless of actions by the EPA or other entities within the Federal or Colorado government government Applied Coherence Technology for Vehicles A Colorado lab has patented two devices which, in combination, convert incoherent, inefficient fuel into coherent, efficient fuel plasma.
 They are the "Intake Plasma Generator System" and the “Isolated Plasma Array Treatment System”.
 These compact devices can be customized to fit any size and type of internal combustion engine that uses air, and a hydrocarbon fuel such as diesel or gas, for combustion.
+The Intake Plasma Generator is patented in the U.S. and Japan, and patent pending in Europe and China.
 Third-party validation of the core technology has been done by Intertek and California Environmental Engineering.
 Emissions testing of the input device, alone, on a 2014 Dodge truck with Cummins diesel 6.7-liter engine showed: 15% increase in fuel efficiency , 40% increase in torque , 40% decrease in hydrocarbons, and a 66% decrease in soot (particulate matter – PM 2.5).
 Additional emissions reductions from the “Isolated Plasma Array Treatment System” have not been as fully tested by a third party.

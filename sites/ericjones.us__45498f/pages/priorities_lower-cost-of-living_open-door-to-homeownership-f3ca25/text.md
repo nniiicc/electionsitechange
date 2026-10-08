@@ -59,4 +59,4 @@ Let’s knock it down: zero down to get in, a credit to help you close, and mill
 We can open that door again — and give the next generation the same shot the last one had.
 All Policies Next Policy Return to Top SOURCES VA loan-level lending data (the basis for the zero-down share of VA purchase loans): U.S.
 Department of Veterans Affairs — VA Home Loans Lender Statistics Background on VA’s no-down-payment loan guarantee and how it works: Congressional Research Service — “VA Home Loan Programs,” R42504 USDA’s zero-down rural home loan program (Section 502 Guaranteed — 100% financing with no down payment, through a government loan guarantee): USDA Rural Development — Single Family Housing Guaranteed Loan Program Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

@@ -5,4 +5,4 @@ His demonstrated commitment and service to our community, and his ability to eas
 In his free time Braeden enjoys writing, reading, cooking, gardening, outdoor activities and fitness of all kinds.
 Education / Certifications Excelsior University B.S.
 Liberal Arts Emphasis on History Salt Lake Community College A.S.
-Business Administration Certified Scrum Master ACAMS - Association of Certified Anti-Money-Laundering Society Visit Braeden https://ivoterguide.com/candidate/91616/race/33756/election/1486 Navigation Home About Braeden Braeden’s Plan Contact Volunteer Donate Site Information Copyright # All rights reserved Paid for by the Braeden Oswald Campaign Committee
+Business Administration Certified Scrum Master ACAMS - Association of Certified Anti-Money-Laundering Society Visit Braeden https://ivoterguide.com/candidate/91616/race/33756/election/1486 https://ballotpedia.org/Braeden_Oswald Navigation Home About Braeden Braeden’s Plan Contact Volunteer Donate Site Information Copyright # All rights reserved Paid for by the Braeden Oswald Campaign Committee

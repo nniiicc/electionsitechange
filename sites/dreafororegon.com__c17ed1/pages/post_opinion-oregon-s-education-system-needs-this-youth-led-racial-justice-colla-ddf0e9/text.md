@@ -1,4 +1,4 @@
-Opinion: Oregon's education system needs this youth-led racial justice collaborative
-Feb 4, 2022
-"One solution... is a 2022 legislative session bill that Rep.
-Andrea Valderrama, D-Portland, will be introducing to establish a 'Racial Equity and Justice Youth Collaborative' at the Oregon Department of Education"
+top of page Home Meet Drea Volunteer In the News About HD 47 Endorsements Donate More Use tab to navigate through the menu items.
+All Posts Search Opinion: Oregon's education system needs this youth-led racial justice collaborative Feb 4, 2022 1 min read "One solution... is a 2022 legislative session bill that Rep.
+Andrea Valderrama, D-Portland, will be introducing to establish a 'Racial Equity and Justice Youth Collaborative' at the Oregon Department of Education" Recent Posts See All People are more likely to catch COVID East of 82nd Avenue.
+Portland's housing most overcrowded area Oregon lawmakers press for immigration, refugee reform Oregon lawmakers revive proposal for stimulus payments to essential workers DREA FOR OREGON@GMAIL.COM #DREA FOR OREGON © # Friends of Andrea Valderrama Donate Today bottom of page

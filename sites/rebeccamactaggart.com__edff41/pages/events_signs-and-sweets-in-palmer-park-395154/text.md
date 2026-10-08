@@ -7,7 +7,7 @@ Want to help even more?
 We’re meeting up in Palmer Park at 10am that morning to knock doors in Donora.
 We’d love to have you canvass with us, then head back to the park for the noon event.
 No experience needed; we'll give you everything you need.
-Previous Previous October 24 Canvassing Drive in Donora Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
+Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
 PEOPLE FIRST.
 ALWAYS.
 Rebecca MacTaggart for PA Mailing Address: 60 South Lincoln Street Ignite Mailbox #12 Washington, PA 15301 Contact

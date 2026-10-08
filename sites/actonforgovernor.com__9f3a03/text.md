@@ -18,8 +18,8 @@ Head to https://t.co/0AWwx39GmS for more i...
 #ago The polls are open, Ohio!!
 Vote early between today and November 1.
 Head to actonforgovernor.com/vote for more information.
-October 6, 2026 Press Releases Oct 06, 2026 The Associated Press: Dr.
-Amy Acton’s “path to the governor’s office runs through rural areas” TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+October 6, 2026 Press Releases Oct 07, 2026 ICYMI: VIVEK RAMASWAMY‘S BILLIONAIRE FUNDED PAC ADMITS TO LYING ABOUT DR.
+ACTON TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Join Team Amy SMS Terms: By entering your phone number and checking the box, you agree to receive periodic automated text messages about donating and voter contact.
 Msg Frequency varies.
 Msg & Data rates May apply.

@@ -1,6 +1,6 @@
-Empowering New Mexico District 6 with Paul Spencer's Vision
-Updated: Jul 8, 2024
-Are you a resident of New Mexico District 6 looking to support a congressional candidate who truly cares about the community?
+top of page Make a Donation Home About Paul Platform Get Involved Resources Register to Vote War on Children Possible Solutions Grassroots Organizations Republican Party of NM Save the Children Documentary News Contact Us More...
+Use tab to navigate through the menu items.
+All Posts Search Empowering New Mexico District 6 with Paul Spencer's Vision Jun 5, 2024 1 min read Updated: Jul 8, 2024 Are you a resident of New Mexico District 6 looking to support a congressional candidate who truly cares about the community?
 Look no further than Paul Spencer for New Mexico District 6!
 Paul Spencer, a dedicated member of the Republican Party, has a proven track record of community service and advocacy for important issues including fighting for our water rights.
 His commitment to ensuring that the voices of the community are heard and prioritized sets him apart in the District 6 race.
@@ -11,3 +11,6 @@ As residents of District 6, the power lies in your hands to shape the future of 
 By supporting candidates like Paul Spencer who are committed to empowering and uplifting the voices of the people, you can help create a better tomorrow for everyone.
 Join the movement, get involved, and together let's build a stronger, more prosperous District 6 for generations to come.
 Get involved today and help shape the future of New Mexico District 6.
+Recent Posts See All Progressive Woke Emerge Agenda 21 The War on Children & Possible Solutions Taking a Stand for Our Kids: The Truth Behind the Bad Laws in New Mexico NEW MEXICO 1ST Let's stand together for a stronger economy, safer neighborhoods, and a government that listens to us! ​ Paid for by the Committee to Elect Paul Spencer ​ P.O.
+Box 533 Bluewater, NM 87005 Get Involved QUICK LINKS About Support Us News Resources Contact © # by Paul Spencer.
+Created by JadeAMarketingLLC bottom of page

@@ -1,26 +1,5 @@
-top of page
-NEWS
-Search
-lhill5000Nov 25, 20252 min read
-lhill5000Feb 26, 20242 min read
-lhill5000Sep 13, 20233 min read
-lhill5000Nov 9, 20222 min read
-lhill5000Oct 26, 20222 min read
-lhill5000Oct 25, 20221 min read
-lhill5000Oct 15, 20221 min read
-lhill5000Oct 15, 20221 min read
-lhill5000Oct 15, 20221 min read
-lhill5000Oct 15, 20221 min read
-lhill5000Sep 30, 20221 min read
-lhill5000Jul 11, 20224 min read
-lhill5000Apr 6, 20224 min read
-lhill5000Feb 23, 20222 min read
-nate1457Dec 8, 20211 min read
-nate1457Dec 3, 20211 min read
-Contact Us
-Borrello for Senate
-PO Box 181
-Irving, New York 14081
-Connect with us
-george borrello for new york state senate
-bottom of page
+top of page NEWS All Posts Search SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT lhill5000 Feb 2 3 min read Senator George Borrello Recognized as One of New York State’s Most Effective Republican Legislator lhill5000 Nov 25, 2025 2 min read SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT lhill5000 Feb 26, 2024 2 min read Sen.
+Borrello Announces 2024 Campaign: VIDEO lhill5000 Feb 26, 2024 0 min read Oral arguments heard in Borrello Et.
+Al. v.
+Hochul lhill5000 Sep 13, 2023 3 min read STATEMENT from SENATOR GEORGE BORRELLO on ELECTION VICTORY lhill5000 Nov 9, 2022 2 min read SENATOR BORRELLO RECEIVES ENDORSEMENT OF UPSTATE UNITED lhill5000 Oct 26, 2022 2 min read Sen.
+Borrello Endorsed by Business Council of NYS lhill5000 Oct 25, 2022 1 min read Senator Borrello Talks About NYS's Crime Crisis lhill5000 Oct 15, 2022 0 min read Police Conference of New York Endorses George Borrello lhill5000 Oct 15, 2022 1 min read George Borrello Endorsed by Humane Society Legislative Fund lhill5000 Oct 15, 2022 1 min read Public Employees Federation (PEF) Endorses Borrello lhill5000 Oct 15, 2022 1 min read Senator Borrello Earns Endorsement of NFIB’s NY PAC lhill5000 Oct 15, 2022 1 min read One Party Rule's Inflation is Hurting NYS Families lhill5000 Oct 1, 2022 0 min read CSEA Endorses Senator Borrello lhill5000 Sep 30, 2022 1 min read SENATOR BORRELLO, ASSEMBLYMEN LAWLER AND TAGUE WIN LAWSUIT AGAINST NYS lhill5000 Jul 11, 2022 4 min read LAWSUIT CHALLENGES DEPARTMENT OF HEALTH REGULATIONS lhill5000 Apr 6, 2022 4 min read STATE SENATOR GEORGE BORRELLO RECEIVES NEW YORK CONSERVATIVE PARTY AWARD lhill5000 Feb 23, 2022 2 min read Borrello’s Nourish NY Win Is A Win Both For The Senator And For His District nate1457 Dec 8, 2021 1 min read Borrello, Assembly member host small business roundtable nate1457 Dec 3, 2021 1 min read Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

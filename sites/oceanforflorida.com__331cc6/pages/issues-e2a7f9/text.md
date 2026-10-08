@@ -1,4 +1,4 @@
-0 Skip to Content Home Issues About Volunteer Donate Donate Open Menu Close Menu Home Issues About Volunteer Donate Donate Open Menu Close Menu Home Issues About Volunteer Donate Donate Issues 🌊 Where Ocean Stands Ocean is running to lower the cost of a stable life in Manatee County, prepare our communities for the next storm, and give District 71 a full-time representative who answers only to the people who live here. 🌴 ｡°✩ ⚓ ✩°｡ 🌊 ｡°✩ ⚖️ ✩°｡ 🌊 ｡°✩ 🏡 ✩°｡ 🌴 The Three Currents Driving Ocean's Platform Stability ⚓ Government should prepare for foreseeable problems, not just clean up after them.
+0 Skip to Content Home District 71 Issues About Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Volunteer Donate Donate Issues 🌊 Where Ocean Stands Ocean is running to lower the cost of a stable life in Manatee County, prepare our communities for the next storm, and give District 71 a full-time representative who answers only to the people who live here. 🌴 ｡°✩ ⚓ ✩°｡ 🌊 ｡°✩ ⚖️ ✩°｡ 🌊 ｡°✩ 🏡 ✩°｡ 🌴 The Three Currents Driving Ocean's Platform Stability ⚓ Government should prepare for foreseeable problems.
 District 71 is growing fast, and growth keeps outrunning the roads, drainage, schools, and emergency services meant to support it.
 Ocean's approach starts from one idea: the state should set a floor that protects every community, and local governments should be free to go further when their own conditions call for it.
 Growth That Pays For Itself As Ocean sees it, Manatee County's real challenge with growth is sequencing.
@@ -60,7 +60,7 @@ Above all, Ocean believes public authority must serve progress and remain accoun
 His platform includes: Civil Rights and Personal Freedom: Ratifying the Equal Rights Amendment; protecting marriage equality and LGBTQ rights (including adoption access, healthcare, inclusive education, and ending conversion therapy); opposing restrictive abortion bans; legalizing recreational cannabis; and protecting workers from discipline for off-duty, legal cannabis use.
 Privacy and Immigration: Safeguarding medical privacy; regulating government surveillance and AI technology; and separating civil immigration enforcement from local law enforcement so every resident can safely report crimes.
 Public Safety and Justice: Establishing independent civilian oversight for law enforcement; reducing police militarization; deploying specialized responders for non-violent crises; enacting comprehensive gun safety measures (universal background checks, waiting periods, safe storage requirements, and limits on high-capacity magazines and assault weapons); repealing permitless carry and Stand Your Ground laws; opposing the death penalty; and restoring voting rights to individuals who have completed their sentences.
-Affordability 💵 Judge a policy by the total cost of a stable life, not by whether one bill looks smaller in isolation.
+Affordability 💵 Judge a policy by the total cost of a stable life.
 Housing, insurance, healthcare, transportation, wages, and taxes add up in the same household budget.
 Ocean’s affordability agenda treats them that way, because lowering one bill while quietly raising another does not create real affordability.
 Fixing Florida's Property Insurance Crisis For many District 71 families, skyrocketing homeowners insurance bills are the defining element of the local affordability crisis.
@@ -91,7 +91,7 @@ He advocates for fairness in utility rates, supporting measures to ensure everyd
 Additionally, Ocean opposes tax incentives and corporate subsidies that fail to deliver a clear, demonstrated benefit to the public.
 DEEP DIVES IN HIS OWN WORDS 🗣️ In this conversation with Gerald Baldi, Democratic candidate for Florida Senate District 20, Ocean talks through property taxes and public services, homelessness, disability benefits, overdevelopment and clean water, and AI data centers.
 Watch the full video on Youtube.
-DIVE IN 🌊 STAY CONNECTED WITH OCEAN Mailing Address Ocean Fitts for Florida Based in Palmetto, Florida P.O.
+DIVE IN 🌊 STAY CONNECTED WITH OCEAN View fullsize Mailing Address Ocean Fitts for Florida Based in Palmetto, Florida P.O.
 Box 826 Ellenton, FL 34222 Follow Ocean Instagram Facebook Threads X Substack Contact Ocean oceanforflorida@gmail.com (941) 500-3141 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Where’s Ocean Now?

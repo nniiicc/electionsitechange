@@ -1,1 +1,2 @@
-
+top of page Menu Close Home About Hillary Welcome Donate Watch Videos Subscribe GET INVOLVED Events Join 6th District Town Hall Date and time is TBD | Location is TBD Join us for an engaging town hall to discuss policies and issues affecting our community in the 6th District, hosted by Herzig for Congress.
+RSVP Time & Location Date and time is TBD Location is TBD Guests See All About the event Discuss key issues and policies Show More RSVP Share this event bottom of page

@@ -28,6 +28,10 @@
 "href": "https://www.rayforwi.com/media-1"
 },
 {
+"text": "Sign Form",
+"href": "https://forms.gle/LiPesE8R1yYk1cof7"
+},
+{
 "text": "The Issues",
 "href": "https://www.rayforwi.com/issues"
 },
@@ -36,12 +40,12 @@
 "href": "https://www.rayforwi.com/about-3-1"
 },
 {
-"text": "Volunteer",
-"href": "https://www.rayforwi.com/contact-us"
-},
-{
 "text": "Volunteer with us!",
 "href": "https://forms.gle/q7LBTSAs54TJwVAt8"
+},
+{
+"text": "Volunteer/Signs",
+"href": "https://www.rayforwi.com/contact-us"
 },
 {
 "text": "[image: Ray for Wisconsin]",
@@ -54,5 +58,9 @@
 {
 "text": "[no text]",
 "href": "https://www.instagram.com/rayforwi/"
+},
+{
+"text": "info@rayforwi.com",
+"href": "mailto:info@rayforwi.com"
 }
 ]

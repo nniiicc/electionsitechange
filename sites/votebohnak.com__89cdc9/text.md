@@ -1,4 +1,4 @@
-Skip to content (906) 273-0183 Team@VoteBohnak.com MENU Home About Karl Issues KARL’S RECORD Join The Team Contact Us DONATE Karl Bohnak Home votebohnakadmin 2026-09-09T20:40:37+00:00 Karl Bohnak For State Representative of the 109th District in Michigan’s Upper Peninsula Learn More about Karl Karl Bohnak For State Representative for the 109th District in Michigan’s Upper Peninsula “U.P.
+Skip to content (906) 273-0183 Team@VoteBohnak.com MENU Home About Karl Issues KARL’S RECORD Join The Team Contact Us DONATE Karl Bohnak Home votebohnakadmin 2026-09-09T20:40:37+00:00 “U.P.
 FIRST” – RESULTS THAT MATTER Karl Bohnak is delivering practical wins for Upper Peninsula families: protecting local homeownership, defending rural healthcare, lowering everyday costs, and bringing U.P. priorities to the table in Lansing See Karl’s Record JOIN THE TEAM It all really comes down to one simple question.
 Why Karl?
 Well, first things first.
@@ -22,5 +22,4 @@ Email us at Team@VoteBohnak.com or CLICK HERE Karl Bohnak for State Representati
 49855 Team@VoteBohnak.com newsletter Sign up for the exclusive offers and best deals from us subscribe Thank You!
 The message has been sent. × There was an error trying to send your message.
 Please try again later. × Paid for by KARL BOHNAK 4 STATE REP, 202 W Washington St, PO Box 153, Marquette, MI.
-49855 Page load link about avada tours Lectus arcu bibendum am varius phare ipsum deu nis nunyc miles faucibus quis mauris eroys lorem ipsum dolor sit amet. read more photo gallery get in touch (090) 808 2345 41 Avada Avenue.
-FL 98765 info@avadatours.com Go to Top
+49855 Page load link Go to Top

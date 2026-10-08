@@ -1,12 +1,46 @@
 [
-"https://bsky.app/profile/did:plc:isdjat3xe7pugecqjlmumacs",
-"https://electdawneuer.com/",
-"https://electdawneuer.com/about",
-"https://electdawneuer.com/issues",
-"https://electdawneuer.com/news",
-"https://facebook.com/ElectDawnEuer",
-"https://instagram.com/senator_dawn_euer",
-"https://secure.actblue.com/donate/euer26?amount=100",
-"https://secure.countonme.org/dawnforri/euer-2026-volunteer",
-"https://tiktok.com/@dawneuer"
+{
+"text": "About",
+"href": "https://www.electdawneuer.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/euer26?amount=100"
+},
+{
+"text": "Home",
+"href": "https://www.electdawneuer.com"
+},
+{
+"text": "In the News",
+"href": "https://www.electdawneuer.com/news"
+},
+{
+"text": "Priorities and Results",
+"href": "https://www.electdawneuer.com/issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://secure.countonme.org/dawnforri/euer-2026-volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ElectDawnEuer/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/senator_dawn_euer/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@dawneuer"
+},
+{
+"text": "[image: bluesky]",
+"href": "https://bsky.app/profile/did:plc:isdjat3xe7pugecqjlmumacs"
+},
+{
+"text": "[no text]",
+"href": "https://www.electdawneuer.com"
+}
 ]

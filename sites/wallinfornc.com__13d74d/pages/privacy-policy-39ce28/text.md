@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Volunteer Donate Home About Priorities Volunteer Donate Menu Privacy Policy Wallin for NC (“us”, “we”, or “our”) operates the https://wallinfornc.com website (hereinafter referred to as the “Service”).
+Skip to content Home About Priorities Volunteer Vote Donate Home About Priorities Volunteer Vote Donate Menu Privacy Policy Wallin for NC (“us”, “we”, or “our”) operates the https://wallinfornc.com website (hereinafter referred to as the “Service”).
 This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.
 We use your data to provide and improve the Service.
 By using the Service, you agree to the collection and use of information in accordance with this policy.

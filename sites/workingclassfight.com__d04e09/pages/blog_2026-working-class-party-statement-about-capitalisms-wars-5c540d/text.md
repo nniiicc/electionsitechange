@@ -30,7 +30,7 @@ D.A.
 Roehrig D.A.
 Roehrig Use Public Money to Defend Our Lives!
 To Vote for D.A.
-Roehrig Election News Party News Contact WCP: 2026 Working Class Party in 2026 On Capitalism's Wars Use This Election All Campaigns Michigan: 2026 Maryland: 2026 Illinois: 2026 Working Class Party Statement about Capitalism's Wars Posted by: admin #ago Since 1856, #ago, only two parties have run the country.
+Roehrig Election News Party News Contact WCP: 2026 Working Class Party in 2026 On Capitalism's Wars Use This Election All Campaigns Michigan: 2026 Maryland: 2026 Illinois: 2026 Working Class Party Statement about Capitalism's Wars Posted by: admin 2 months, #ago Since 1856, #ago, only two parties have run the country.
 No matter which party was in power – Democrat or Republican – they worked to enrich the capitalist class at the expense of working people.
 For 170 years, both parties took the country to war, after campaigning on the promise to keep the country out of war.
 Exploitation of the workers, enormous profit for the bosses, wars on other people – this is the long record of both parties.

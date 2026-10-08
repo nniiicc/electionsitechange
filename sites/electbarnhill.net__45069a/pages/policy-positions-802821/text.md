@@ -31,13 +31,11 @@ Overseeing the SilverFlume-to-ORION transition.
 The Secretary of State’s office is in the middle of migrating Nevada’s business registration platform from SilverFlume to a new system, ORION.
 This kind of IT migration is exactly where my background — twenty years as a systems analyst, twenty years as a litigation paralegal — matters most.
 I’ll make sure this transition is managed carefully, with real oversight, so businesses aren’t the ones absorbing the cost of a rushed rollout.
-I’m not asking you to trust a party on any of this — I’m not part of one.
+I’m not asking you to trust a party on any of this.
 I’m asking you to hold the office accountable for solving real problems.
-That’s the job, and I intend to do it. — Brad Lee Barnhill Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise More Policy Positions How Nevada Election Audits Build Voter Confidence October 3, 2026 Secure Ballot Counting in Nevada Starts Here October 2, 2026 Volunteer for a Nevada Political Campaign October 1, 2026 Where’s My Ballot?
-How to Track Your Nevada Mail Ballot September 28, 2026 A Voter in Ely Shouldn’t Have a Harder Path to the Ballot September 27, 2026 Consistent County Election Standards: The Same Protections for Every Nevada Voter September 27, 2026 Nevada Voter Roll Maintenance: Accuracy, Due Process, and Public Trust September 25, 2026 A Nevada Election Cybersecurity Plan Voters Can Trust September 24, 2026 Why Paper Records for Nevada Elections Matter September 23, 2026 You’re Not Undecided.
-You’re Unrepresented.
-September 16, 2026 footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise More Policy Positions Election Technology Nevada Voters Can Actually Check October 6, 2026 How Nevada Election Audits Build Voter Confidence October 3, 2026 Secure Ballot Counting in Nevada Starts Here October 2, 2026 Volunteer for a Nevada Political Campaign October 1, 2026 Where’s My Ballot?
+How to Track Your Nevada Mail Ballot September 28, 2026 A Voter in Ely Shouldn’t Have a Harder Path to the Ballot September 27, 2026 Consistent County Election Standards: The Same Protections for Every Nevada Voter September 27, 2026 Nevada Voter Roll Maintenance: Accuracy, Due Process, and Public Trust September 25, 2026 A Nevada Election Cybersecurity Plan Voters Can Trust September 24, 2026 Why Paper Records for Nevada Elections Matter September 23, 2026 footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

@@ -1,7 +1,7 @@
 Skip to content Home Get Involved About Mears for Alaska Facebook Page Mears for Alaska Twitter Home Get Involved About Mears for Alaska Facebook Page Mears for Alaska Twitter Menu Home Get Involved About Mears for Alaska Facebook Page Mears for Alaska Twitter Donate 12 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 8/30/2024 August 30, 2024 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 8/30/2024 August 30, 2024 - 10/8/2026 Now Select date.
 August 2024 Fri 30 Fridays at the Park: Chanshtnu Muldoon Park Featured August 30, 2024, 5:00 pm - 7:00 pm Chanshtnu Muldoon Park 1301 Muldoon Rd, Anchorage, AK, United States Join Donna for Fridays in the Park on Friday, August 30th at Chanshtnu Muldoon Park from 5-7pm.
 There will be snacks, drinks, and a chance talk to Donna about your questions and ideas for our community.
 October 2024 Fri 4 Donna Mears FUNdraiser Featured October 4, 2024, 5:30 pm - 7:30 pm The Home ofMike Knapp & Rachel Morse 3312 Robin Street, Anchorage, AK, United States Please join us at the home ofMike Knapp & Rachel Morse for a FUNdraiser on Friday, October 4th from 5:30-7:30pm to elect Donna Mears for State House!

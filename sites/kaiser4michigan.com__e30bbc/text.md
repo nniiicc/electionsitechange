@@ -8,10 +8,10 @@ A US Army Veteran and lifelong working man, Bill believes Michigan families dese
 Bill Kaiser is a small business owner who spent 16 years serving Michigan families as the owner of All Weather Mechanical, Inc.
 With more than 35 years of experience in the construction and HVAC industries, Bill understands the realities of hard work, payroll, and government regulation.
 When shutdowns in 2020 labeled his business “non-essential,” Bill stepped up by launching a Victory Garden to help local families put food on the table — a project that now supports more than 20 families each year.
-Meet Bill Join Us Fundraising Event to Support Bill Kaiser You are cordially invited to a Fundraising Event supporting Bill Kaiser.
-The event will be held on Tuesday, October 6th at: The County Mill 4648 Otto Rd.
-Charlotte, MI 48813 Please RSVP to Scott Greenlee by clicking the link below.
-RSVP for EVENT : : : Days Hours Minutes Seconds Countdown finished!
+Meet Bill Thank You!
+For Joining us at the Fundraising Event to Support Bill Kaiser Thank you to all who came out and supported Bill Kaiser!
+It was a great event On October 6th before the Governor Candidate Debate was on TV in Charlotte. ﻿ Bill Kaiser is always very team oriented and he invited Roger Victory for MSU and Bree 4 MI SBOE to join his fund raiser.
+He gave them a chance to highlight their campaigns and policies and is encouraging voters to support conservative, common sense principles top to bottom on the ballot.
 Endorsed by Citizens for Traditional Values PAC Statement from CTV PAC: We are pleased to announce that you have received the Citizens for Traditional Values Political Action Committee (CTV-PAC) 2026 primary election endorsement for the State House, District 76! ﻿ As you know, CTV-PAC seeks to promote candidates with traditional Judeo-Christian values in order to impact public policy at all levels of government.
 We advocate on behalf of our guiding principles that include protecting life from conception through natural death, parental rights/family values, religious freedom, limited government and educational choice.
 Your dedication to these principles is crucial to supporting strong families and promoting good government within our state.

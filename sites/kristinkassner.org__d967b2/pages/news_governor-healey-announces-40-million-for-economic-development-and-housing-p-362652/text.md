@@ -26,6 +26,6 @@ Community One Stop for Growth provides a single application and coordinated revi
 This is the largest amount of One Stop funding issued in a single round in the history of the program.
 The full list of grant recipients and project descriptions is available here .
 Learn more at mass.gov/onestop .
-### Kristin Kassner https://kristinkassner.org Next Next Kassner Outlines Priorities, Accomplishments in North Shore Letter Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+### Kristin Kassner https://kristinkassner.org Previous Previous Massachusetts Municipal Lawyers Association Names Representative Kristin Kassner Legislator of the Year Next Next Kassner Outlines Priorities, Accomplishments in North Shore Letter Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
 Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

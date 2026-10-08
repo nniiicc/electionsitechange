@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · June 19, 2025 El Paso, Socorro, Ysleta ISDs Expected to Receive nearly $150 Million in 2026-2027 Biennium Nearly $150 million in expected funding for El Paso, Socorro, and Ysleta ISDs for the 2026-2027 biennium.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · June 19, 2025 El Paso, Socorro, Ysleta ISDs Expected to Receive nearly $150 Million in 2026-2027 Biennium Nearly $150 million in expected funding for El Paso, Socorro, and Ysleta ISDs for the 2026-2027 biennium.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .
 ### Vince Perez is State Representative for House District 77 in El Paso.

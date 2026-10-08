@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 3/28/2025 Capitol Hill Update 3/28/2025 This week, Governor Lee released his supplemental budget appropriation amendment which includes various changes to the budget proposed in February.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 3/28/2025 Capitol Hill Update 3/28/2025 This week, Governor Lee released his supplemental budget appropriation amendment which includes various changes to the budget proposed in February.
 In the coming weeks, the Senate Finance, Ways and Means Committee will review the proposed budget and make changes to reflect the General Assembly’s priorities.
 Most legislative business has shifted from committees to the Senate floor.
 Five committees completed their business this week – Commerce and Labor; Transportation and Safety; Education; Energy, Agriculture and Natural Resources; and Health and Welfare.

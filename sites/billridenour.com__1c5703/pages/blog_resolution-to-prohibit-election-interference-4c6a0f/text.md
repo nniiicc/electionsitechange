@@ -7,6 +7,6 @@ My bill criminalizes those that are engaged in this type of illegal election int
 Because the offices of the President, Vice President, and Senators and Congressmen have direct and long-lasting effects on West Virginia, any election interference via political prosecutions or other means will be a crime in West Virginia, and we will extradite those who commit or participate in these crimes.
 This draft bill is posted and can be viewed and followed here .
 It is time for the People and our States to stand up and say we will not allow stolen elections.
-MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous Resolution to Nullify Federal Actions Next Next The Special Circus - Part 1 Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+MONTANI SEMPER LIBERI Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

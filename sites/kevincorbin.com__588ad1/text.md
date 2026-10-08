@@ -1,5 +1,4 @@
-About Kevin Corbin
-Senator Kevin Corbin has devoted his life to serving the people of Western North Carolina.
+Facebook Mail Home Endorsements Photo Gallery In The News Donate Contact Menu THE ISSUES ENDORSEMENTS DONATE IMAGES CONTACT KEVIN About Kevin Corbin Senator Kevin Corbin has devoted his life to serving the people of Western North Carolina.
 Born and raised in the scenic mountains of Macon County, his journey in public service began early.
 Elected to the Macon County School Board at just 22, Kevin spent 20 influential years there, 16 of them as chairman.
 His commitment to improving local education set a foundation for his enduring dedication to public service.
@@ -9,6 +8,9 @@ Representing the 120th District, he quickly distinguished himself, being appoint
 In 2020, Kevin was elected to the North Carolina Senate, representing Senate District 50.
 His tenure in the Senate has been marked by significant legislative achievements, particularly in the realms of broadband expansion, education, and school safety.
 His efforts were instrumental in the expansion of Medicaid in North Carolina, extending coverage to 600,000 residents for the first time—an accomplishment that highlights his ability to effect substantial change across party lines.
+Kevin’s son Matt served as a Captain in the U.S.
+Air Force and recently returned home to operate a Dentist Practice.
+Kevin’s daughter Maggie graduated from Southwestern Community College and works as a Certified Occupational Therapist.
 A dedicated public servant, Kevin has been committed to numerous civic and community organizations both in his home county and on the state level.
 Rep.
 Corbin is a graduate of Franklin High School, class of 1979, an Honors Graduate of Appalachian State University (ASU) in 1983, where he majored in Marketing and Business Management, served as News Editor of the university’s “Appalachian” newspaper, and interned for the university as a Public Information Officer.
@@ -35,8 +37,7 @@ Kevin is the owner of two successful insurance agencies.
 The Corbin Agency is located in Franklin, NC and serves Western NC and the Blue Ridge Insurance Group is in Seneca, SC and serves Upstate SC.
 Mr.
 Corbin is also a founding member of the successful gospel group Blue Ridge.
-LET’S BE CLEAR WHERE I STAND ON THE ISSUES
-ECONOMY – COVID-19 robbed North Carolina business owners of being able to successfully operate over the last few years.
+LET’S BE CLEAR WHERE I STAND ON THE ISSUES ECONOMY – COVID-19 robbed North Carolina business owners of being able to successfully operate over the last few years.
 I have always supported free enterprise economics with little government regulation and taxation, and while measures to slow the spread were necessary, we are working every day to get the people of North Carolina back to work.
 EDUCATION – Beginning my career in public service on the Macon County Board of Education, I am a strong advocate for public education.
 It is our responsibility as state leaders to provide our teachers with the tools necessary for them to perform in the classroom.
@@ -71,3 +72,4 @@ SANCTITY OF LIFE – I believe that the government must respect and protect all 
 STATE GOVERNMENT – I believe that government must not spend money it does not have or levy unfunded mandates.
 I am proud to have sponsored legislation to establish the state’s first “rainy day” fund to help our government operate effectively and efficiently, with funding set aside if needed.
 ELECTIONS – Citizens should have access to campaign finance records and that voting is a fundamental right.
+Copyright Ⓒ Kevin Corbin for North Carolina Senate | Website Design & Development by SiteDart Studio Scroll to top

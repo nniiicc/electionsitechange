@@ -1,4 +1,7 @@
-Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Recent news Stay Up To Date April 10, 2026 The Keystone Janelle Stelson says it’s time to make Pennsylvania affordable again Former TV anchor Janelle Stelson is taking another shot at unseating Trump ally Rep.
+Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Recent news Stay Up To Date April 21, 2026 PoliticsPA Perry Tops Pennsylvania Congressional Vulnerability Rankings It’s been nine months since we published our initial PoliticsPA congressional vulnerability rankings for the Pennsylvania delegation in the U.S.
+House.
+Our rankings look largely the same, but during that time, the political environment for four Republican incumbents has deteriorated.
+Read More April 10, 2026 The Keystone Janelle Stelson says it’s time to make Pennsylvania affordable again Former TV anchor Janelle Stelson is taking another shot at unseating Trump ally Rep.
 Scott Perry in Pennsylvania’s 10th District.
 After nearly beating him in 2024, this time, she’s vowing to tackle soaring costs, health care hikes, and what she calls Perry’s partisan politics.
 Read More April 10, 2026 The Keystone Janelle Stelson says it’s time to make Pennsylvania affordable again Democrat Janelle Stelson is so fired up about improving the lives of Pennsylvanians that she quit her 30-year career as an Emmy-award-winning TV anchor to run for office.
@@ -18,9 +21,7 @@ The former chair of the House Freedom Caucus is […] Read More March 11, 2026 P
 Speaking at the IBEW Local 229 union hall in York, the former broadcast journalist said that Washington’s biggest […] Read More March 10, 2026 Fox43 Janelle Stelson unveils anti-corruption agenda in bid to unseat Scott Perry Stelson is running against Perry for the second consecutive cycle, losing by roughly one percentage point in 2024.
 EMIGSVILLE, Pa. — Janelle Stelson held her first major event of the 2026 election year Tuesday, rallying supporters at an electrical workers union hall in Emigsville and unveiling an agenda she says is aimed at fighting corruption […] Read More March 10, 2026 PennLive Pa. candidate Stelson proposes mandatory retirement at 80 for members of Congress Janelle Stelson unveiled a package of Congressional reforms Tuesday to push for if elected from Pennsylvania’s 10th House District.
 To get there, Stelson must first win a contested Democratic primary against Dauphin County Commissioner Justin Douglas, and then prevail against Republican incumbent Scott Perry in the general election.
-The former WGAL News 8 anchorwoman said Tuesday […] Read More February 11, 2026 York Daily Record This York County couple was hit with a 221% health insurance increase Tom and Carol Shaw are both 63.
-Tom is retired – he worked for 16 years for Capitol Blue Cross – and Carol teaches project management, part-time, at Harrisburg University.
-They live in a comfortable home on a cul-de-sac near Lewisberry, where they received the occasional visit from wild turkeys or songbirds who knock on the back door. […] Read More Page 1 Page 2 Page 3 Page 4 Page 5 Join The Campaign First Name Last Name Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
+The former WGAL News 8 anchorwoman said Tuesday […] Read More Page 1 Page 2 Page 3 Page 4 Page 5 Join The Campaign First Name Last Name Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.
 Privacy Policy.

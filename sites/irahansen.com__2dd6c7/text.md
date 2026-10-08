@@ -1,21 +1,4 @@
-top of page
-State Senator, District 14
-Assemblyman, District 32
-Small Business Owner
-Sportsman and Outdoorsman
-Radio & Newspaper Columnist
-Blue Collar Worker
-Proud Father & Grandfather
-"Principled Leadership You Can Trust."
-“It’s been an honor to represent District 14, and I’m seeking reelection to continue advocating for the families, businesses, and rural communities that make our state great.” - Ira Hansen.
-Our Mission
-Join the Fight for Nevada
-05:27
-07:55
-07:33
-09:43
-03:31
-12:55
-10:32
-Meet Ira
-bottom of page
+top of page Senator Ira Hansen Your Access Rights on Public Land - A Practical Legal Guide, Free Download.
+Click HERE .
+Download State Senator, District 14 Assemblyman, District 32 Small Business Owner Sportsman and Outdoorsman Radio & Newspaper Columnist Blue Collar Worker Proud Father & Grandfather ​​ "Principled Leadership You Can Trust." “It’s been an honor to represent District 14, and I’m seeking reelection to continue advocating for the families, businesses, and rural communities that make our state great.” - Ira Hansen.
+2015 Ira AGC SIR Award Recipient Watch Our Mission Join the Fight for Nevada Email * Subscribe Play Video Play Video 05:27 Play Video Play Video 07:55 Play Video Play Video 07:33 Play Video Play Video 09:43 Play Video Play Video 03:31 Play Video Play Video 12:55 Play Video Play Video 10:32 Meet Ira Postal Mail Committee to Elect Ira Hansen 58 Hardy Dr Sparks, NV 89431 Contact Info Senator Ira Hansen Phone: 775-221-2502 Email: IraHansen@IraHansen.com Paid for by Committee to Elect Ira Hansen Go Up bottom of page

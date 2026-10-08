@@ -1,4 +1,4 @@
-Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT Latest Word Where Does Pat Ryan Live?
+Skip to main content Home About Jackie Events Gallery Volunteer News & Press Track AIPAT DONATE CONTACT Latest Word Where Does Pat Ryan Live?
 Maybe AOC Can Ask Him Today Read more | Former Governor George Pataki Endorses Jackie Auringer for Congress Read more | Auringer Files for D.C.
 Public Schools to Conduct Residency Investigation of Ryan Read more | Auringer Campaign Releases Letter from Local Parent Asking Gardiner Assessor to Review Pat Ryan Veterans Tax Exemption Read more | Auringer Calls on Ryan to Release Travel and Lodging Records After More Than $60,000 in Taxpayer Reimbursements Read more | Millionaire Pat Ryan’s Dirty Secret: Joins the Million New Yorkers to Flee the State Read more | Where Does Pat Ryan Live?
 Maybe AOC Can Ask Him Today Read more | Former Governor George Pataki Endorses Jackie Auringer for Congress Read more | Auringer Files for D.C.
@@ -33,6 +33,6 @@ Message & Data rates may apply, and message frequency may vary over time.
 Reply “STOP” to opt out of these text message updates.
 Reply HELP for help.
 Privacy Policy .
-Sign Up Stay Connected Follow Jackie on Social Media Get the latest updates, behind-the-scenes moments, and campaign news from the trail. jackie4congress @winwithjackie @jackieforcongress @winwithjackie Website Gallery Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Sign Up Stay Connected Follow Jackie on Social Media Get the latest updates, behind-the-scenes moments, and campaign news from the trail. jackie4congress @winwithjackie @jackieforcongress @winwithjackie Website Gallery Campaign About Jackie Gallery News & Press Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
 Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
 All rights reserved.

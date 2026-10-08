@@ -21,4 +21,4 @@ They're asking for accountability.
 They're asking for new leadership.
 They're asking for change.
 And together, we're going to give them that choice in November." ### David Tierney Previous Previous Letter to Thompson’s Campaign Issuing a Debate Challenge Next Next Statement on endorsement from the American Independent Party Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

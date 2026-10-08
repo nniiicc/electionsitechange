@@ -92,10 +92,6 @@
 "href": "https://joysanbuenaventura.com/#mobile-menu-toggle"
 },
 {
-"text": "Newsletter",
-"href": "https://joysanbuenaventura.com/newsletter-2/"
-},
-{
 "text": "October 2020",
 "href": "https://joysanbuenaventura.com/2020/10/"
 },
@@ -152,10 +148,6 @@
 "href": "https://joysanbuenaventura.com/2020/09/"
 },
 {
-"text": "Status of released inmates from OCCC",
-"href": "https://joysanbuenaventura.com/status-of-released-inmates-from-occc/"
-},
-{
 "text": "Veteran Day Address",
 "href": "https://joysanbuenaventura.com/veteran-day-address/"
 },
@@ -186,6 +178,10 @@
 {
 "text": "campaign",
 "href": "https://joysanbuenaventura.com/category/campaign/"
+},
+{
+"text": "child welfare case workers",
+"href": "https://joysanbuenaventura.com/child-welfare-case-workers/"
 },
 {
 "text": "contact",
@@ -246,6 +242,10 @@
 {
 "text": "meet Joy",
 "href": "https://joysanbuenaventura.com/about/"
+},
+{
+"text": "newsletter",
+"href": "https://joysanbuenaventura.com/newsletter/"
 },
 {
 "text": "redistricting Hawaii Senate",

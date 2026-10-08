@@ -1,35 +1,142 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fweek-7-update-a-crowded-capitol%2F&t=Week+7+Update%3A+A+Crowded+Capitol",
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fweek-7-update-a-crowded-capitol%2F&title=Week+7+Update%3A+A+Crowded+Capitol",
-"http://printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fweek-7-update-a-crowded-capitol%2F&title=Week+7+Update%3A+A+Crowded+Capitol",
-"http://twitter.com/share?text=Week+7+Update%3A+A+Crowded+Capitol&url=https%3A%2F%2Fleesahagan.com%2Fweek-7-update-a-crowded-capitol%2F&via=LeesaHagan",
-"https://cardinalisdesign.com/political-website-design",
-"https://facebook.com/LeesaHaganforGeorgia",
-"https://leesahagan.com/",
-"https://leesahagan.com/about-leesa",
-"https://leesahagan.com/category/2023-posts",
-"https://leesahagan.com/category/2024-posts",
-"https://leesahagan.com/category/2025-posts",
-"https://leesahagan.com/category/2026-posts",
-"https://leesahagan.com/constituent-services",
-"https://leesahagan.com/crossover-day-2026",
-"https://leesahagan.com/elections",
-"https://leesahagan.com/final-2026-session-update",
-"https://leesahagan.com/help-out",
-"https://leesahagan.com/news",
-"https://leesahagan.com/week-10-session-update",
-"https://leesahagan.com/week-7-2026-amended-budget",
-"https://leesahagan.com/week-7-update-a-crowded-capitol/twitter.com/leesahagan",
-"https://leesahagan.com/week-9-update-2027-budget",
-"https://legis.ga.gov/legislation/65479",
-"https://legis.ga.gov/legislation/65985",
-"https://legis.ga.gov/legislation/65998",
-"https://legis.ga.gov/legislation/66172",
-"https://legis.ga.gov/legislation/66173",
-"https://legis.ga.gov/legislation/66211",
-"https://legis.ga.gov/legislation/66213",
-"https://legis.ga.gov/legislation/66219",
-"https://legis.ga.gov/legislation/66760",
-"https://linkedin.com/in/leesahagan",
-"https://twitter.com/LeesaHagan"
+{
+"text": "2023 Posts",
+"href": "https://leesahagan.com/category/2023-posts/"
+},
+{
+"text": "2024 Posts",
+"href": "https://leesahagan.com/category/2024-posts/"
+},
+{
+"text": "2025 Posts",
+"href": "https://leesahagan.com/category/2025-posts/"
+},
+{
+"text": "2026 Posts",
+"href": "https://leesahagan.com/category/2026-posts/"
+},
+{
+"text": "About Leesa",
+"href": "https://leesahagan.com/about-leesa/"
+},
+{
+"text": "Cardinalis",
+"href": "https://cardinalisdesign.com/political-website-design/"
+},
+{
+"text": "Constituent Services",
+"href": "https://leesahagan.com/constituent-services/"
+},
+{
+"text": "Elections",
+"href": "https://leesahagan.com/elections/"
+},
+{
+"text": "Final 2026 Session Update",
+"href": "https://leesahagan.com/final-2026-session-update/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/LeesaHaganforGeorgia"
+},
+{
+"text": "Follow",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/LeesaHagan"
+},
+{
+"text": "HB 995",
+"href": "https://www.legis.ga.gov/legislation/66213"
+},
+{
+"text": "Help Out",
+"href": "https://leesahagan.com/help-out/"
+},
+{
+"text": "House Bill 1001",
+"href": "https://www.legis.ga.gov/legislation/66219"
+},
+{
+"text": "House Bill 1170",
+"href": "https://www.legis.ga.gov/legislation/66760"
+},
+{
+"text": "House Bill 793",
+"href": "https://www.legis.ga.gov/legislation/65479"
+},
+{
+"text": "House Bill 896",
+"href": "https://www.legis.ga.gov/legislation/65985"
+},
+{
+"text": "House Bill 907",
+"href": "https://www.legis.ga.gov/legislation/65998"
+},
+{
+"text": "House Bill 986",
+"href": "https://www.legis.ga.gov/legislation/66172"
+},
+{
+"text": "House Bill 987",
+"href": "https://www.legis.ga.gov/legislation/66173"
+},
+{
+"text": "House Bill 993",
+"href": "https://www.legis.ga.gov/legislation/66211"
+},
+{
+"text": "Leesa.Hagan@house.ga.gov",
+"href": "mailto:Leesa.Hagan@house.ga.gov"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/leesahagan/"
+},
+{
+"text": "News",
+"href": "https://leesahagan.com/news/"
+},
+{
+"text": "Twitter",
+"href": "https://leesahagan.com/week-7-update-a-crowded-capitol/twitter.com/leesahagan"
+},
+{
+"text": "Week 10 Session Update",
+"href": "https://leesahagan.com/week-10-session-update/"
+},
+{
+"text": "Week 7 Session Update: The amended budget",
+"href": "https://leesahagan.com/week-7-2026-amended-budget/"
+},
+{
+"text": "Week 8 Session Update: Crossing Over",
+"href": "https://leesahagan.com/crossover-day-2026/"
+},
+{
+"text": "Week 9 Update: 2027 budget",
+"href": "https://leesahagan.com/week-9-update-2027-budget/"
+},
+{
+"text": "[image]",
+"href": "https://leesahagan.com"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?text=Week+7+Update%3A+A+Crowded+Capitol&url=https%3A%2F%2Fleesahagan.com%2Fweek-7-update-a-crowded-capitol%2F&via=LeesaHagan"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fleesahagan.com%2Fweek-7-update-a-crowded-capitol%2F&t=Week+7+Update%3A+A+Crowded+Capitol"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fleesahagan.com%2Fweek-7-update-a-crowded-capitol%2F&title=Week+7+Update%3A+A+Crowded+Capitol"
+},
+{
+"text": "[no text]",
+"href": "http://www.printfriendly.com/print?url=https%3A%2F%2Fleesahagan.com%2Fweek-7-update-a-crowded-capitol%2F&title=Week+7+Update%3A+A+Crowded+Capitol"
+}
 ]

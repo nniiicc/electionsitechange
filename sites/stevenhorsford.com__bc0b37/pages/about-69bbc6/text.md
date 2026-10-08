@@ -28,7 +28,7 @@ I’m running because I’ve seen what this seat can do when it’s filled by so
 And I’m not ready to hand that back.
 But I can’t do it alone.
 If you believe that one job should be enough, that healthcare isn’t a privilege, that Social Security is a promise that doesn’t get broken, that workers deserve dignity and a fair wage… Then this is your fight too.
-Join Me October 7, 2026 Help Me Hold the Line.
+Join Me October 8, 2026 Help Me Hold the Line.
 Winning back the House majority depends on our district.
 I need you in this fight.
 Donate Now Volunteer Today Get Updates Facebook Instagram X-twitter Youtube Meet Steven Priorities Media Meet Steven Priorities Media Volunteer Donate Paid for by Nevadans for Steven Horsford Copyright © # Steven Horsford for Congress.

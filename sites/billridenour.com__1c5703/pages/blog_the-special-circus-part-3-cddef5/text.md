@@ -31,6 +31,6 @@ And why didn’t the ED Authority pay for this via the nearly $1 billion we gave
 The answer, of course, is that the ED folks were busy spending that money on more Green energy companies.
 The Conservatives raised these major questions and objections during the floor debate.
 Conservatives came close to defeating this and pushing it to the coming regular session, but once again the Democrats, with the corporatists and to many others voted to try to buy would-be jobs with millions.
-I’ll finish up in the Special Circus – Part Four MONTANI SEMPER LIBERI Bill Ridenour Amanda Ridenour Previous Previous The Special Circus - Part 2 Next Next The Special Circus - Part 4 Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+I’ll finish up in the Special Circus – Part Four MONTANI SEMPER LIBERI Bill Ridenour Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

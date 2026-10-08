@@ -56,86 +56,81 @@ If you have any questions, please email my office at Steven.Xiarhos@mahouse.gov 
 Xiarhos Announces Committee Approval of “Colby’s Law” Xiarhos Committee 2025-10-24T05:21:09-04:00 Rep.
 Xiarhos Supports Legislation to Protect Children Receiving State Services and in Foster Care Xiarhos Committee 2025-10-21T11:07:30-04:00 Rep.
 Xiarhos Recognizes National Move Over Day Xiarhos Committee 2025-10-21T10:08:52-04:00 Rep.
-Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK State Representative Steve Xiarhos October 7th GOOD MORNING, FIGHTIN’ 5TH!
-What a fantastic night in Marstons Mills!
-Thank you to the Marstons Mills Village Association for hosting last night’s monthly meeting at the beautiful Burgess House.
-There were so many great people, friends and neighbors coming together, staying informed and talking about the issues that matter to our community.
-A special thank you to Kelly Collopy, DPW Communications Manager for the Comprehensive Wastewater Management Plan, and Griffin Beaudoin, Town Engineer, for an excellent and informative presentation.
-The discussion about Barnstable’s comprehensive wastewater management plan was incredibly impressive.
-It is such an important issue for the future of our town, and Kelly and Griffin did a great job explaining the work being done and what it means for our communities.
-A special thank you to President Debbie Lavoie for the great work she is doing, and to my longtime friend Commissioner Chris Lauzon, the Association’s secretary.
-You have a great organization and a great group of people.
-I’m proud to support our Millbillies!
-It was also great to see my longtime friend and colleague, Barnstable County Delegate Frank Frederickson.
-Great night.
-Great people.
-Great community.
-As always, my office is here to help.
-If you have a question, concern or need assistance with a state issue, please reach out.
-The best way to contact my office is by email: Steven.Xiarhos@MAHouse.gov We are always here for you and will do our very best to help.
-Have a wonderful Wednesday, everybody!
-God Bless 🇺🇸😊🫡 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #Barnstable #EnvironmentProtection #ProtectTheCape #MarstonsMills #Millbillies #CapeCod #Massachusetts Town of Barnstable Marstons Mills Marstons Mills Village Association Commissioner Christopher Lauzon Frank Frederickson Barnstable Clean Water Coalition Barnstable Water Resources Robert B.
-Our Company, Inc.
-Association to Preserve Cape Cod ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 6th REST IN PEACE NURSE ELLEN Today I had the honor of attending the beautiful funeral Mass for my friend and constituent, Ellen (Kelleher) Hanson, at Our Lady of Victory Church in Centerville.
-Ellen was a truly special woman.
-She was a fellow Cape Cod Community College graduate, a devoted mother, a compassionate registered nurse, and someone who spent her entire life caring for and serving others.
-For 40 years, Ellen cared for people as a nurse, but her service went far beyond her profession.
-She gave her time, her heart, and her friendship to so many people and causes she believed in.
-Most of all, Ellen was a mother.
-Her children, Scott, Kathleen, Sean, and Heather, were the center of her world.
-During her courageous battle with cancer, she fought fiercely for every extra moment she could have with them and the people she loved.
-A lifetime of love, service, and sacrifice.
-Brave.
-Strong.
-Kind.
-Ellen taught us how to live life to the fullest every single day.
-She found joy in her family, her friends, the simple moments, and in making a difference in the lives of others.
-Ellen is someone we all should strive to be like.
-Her sense of humor, her strength, her love of family and friends, and her ability to find the good in every day will be remembered by so many.
-I am grateful that I had the opportunity to know Ellen, to call her a friend, and to represent her as her State Representative.
-To Scott, Kathleen, Sean, and Heather, and to all of Ellen’s family and friends, please know that your mom touched so many lives and leaves behind a beautiful legacy of love, service, and kindness.
-Rest in peace, Ellen.
-Your life made a difference, and you will never be forgotten. 🇺🇸❤️🙏🏻🫡 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #GiveBack #Nurse #CapeCod #Massachusetts #MaPoli Cape Cod Healthcare Our Lady of Victory Parish, Cape Cod, MA Cape Cod Community College Alumni ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 6th GM FIGHTIN’ 5TH!
-GREAT, GREAT NEWS FOR SANDWICH!
-The Town of Sandwich has been awarded an incredible $1,808,514 state grant for Phase 1 of the Sandwich Marina Harborwalk Master Plan!
-I was proud to advocate for this project and work with our state partners to help secure this important funding for Sandwich.
-The Sandwich Marina is an incredible part of the 5th Barnstable District and one of the most beautiful and special places on Cape Cod.
-This nearly $2 million in funding will help create an elevated, accessible boardwalk and improve the waterfront experience for residents, visitors, local businesses and families for generations to come.
-This is one of the largest awards in this funding round anywhere in the Commonwealth, and we are so grateful for this significant investment in the Town of Sandwich.
-A huge CONGRATULATIONS to the Town of Sandwich and a sincere thank you to Town Administrator Bud Dunham, Assistant Town Administrator Heather Harper, Harbormaster Nicholas Giordano, the Select Board Members, and everyone who worked so hard to make this project happen.
-Special shout out to Engineer Cole Bateman of Tighe and Bond for spearheading this amazing, award-winning project.
-I also want to thank Secretary of Economic Development Eric Paley, Secretary of Housing and Livable Communities Juana Matias, the Office of the Governor, and their respective offices and staff members for recognizing the importance of this project and making this significant investment in Sandwich.
-What a great investment in Sandwich and our Cape Cod waterfront!
-Congratulations, Sandwich!
-This beautiful piece of our community will be even more special for generations to come.
-We are grateful.
-HAVE A TERRIFIC TUESDAY, EVERYONE! 🇺🇸😊🛥️👏🏻👏🏻👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #Sandwich #SandwichMarina #OneStop #CapeCod #Massachusetts #MaPoli Town of Sandwich, MA Sandwich Marina - Sandwich Harbormaster Sandwich Chamber of Commerce Tighe & Bond ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 5th GREAT NEWS FOR THE FIGHTIN’ 5TH!
-Additional Funding for Traffic Safety Three of our local police departments are receiving grant funding to help with traffic safety and enforcement.
-As a former police officer and Deputy Chief, I know firsthand how important these resources are to our local departments and the officers who serve our communities.
-Targeted motor vehicle enforcement can make a real difference.
-It means getting impaired drivers off the road before they hurt or kill someone.
-It means addressing wrong-way drivers, dangerous speeding, unregistered and uninsured vehicles, distracted driving, and the many other violations that put innocent people at risk.
-This extra enforcement helps make our roads safer for everyone, especially our families and children.
-Congratulations to the Barnstable, Bourne and Sandwich Police Departments!
-Thank you for everything you do to keep our communities safe.
-This is your tax dollars at work, supporting public safety right here at home.
-Special thanks to the Office of the Governor, the Executive Office of Public Safety & Security, and the Office of Grants & Research.
-God bless and protect our police officers. 🇺🇸💙🙏🏻🫡 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #BackTheBlue #PublicSafety #LawAndOrder #Barnstable #Bourne #Sandwich #CapeCod #Massachusetts #MaPoli Barnstable Police Department Town of Barnstable Town of Sandwich, MA Sandwich Police Department Bourne Police Department Executive Office of Public Safety and Security ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 5th GOOD MORNING & HAPPY CAPE COD MONDAY!
-I’m proud to have the endorsement of the Massachusetts Parole Officers Association again this year.
-The men and women of the MPOA do important work that sometimes doesn’t get the recognition it deserves.
-They play a vital role in public safety by supervising individuals released from incarceration, holding them accountable, and making sure the conditions of their parole are followed.
-As a former police officer, I know how important accountability is.
-Public safety comes first, and our parole officers deserve our respect, our support, and the resources they need to do this difficult and sometimes dangerous job.
-I’m proud to stand with them, have their backs, and have their endorsement.
-Thank you to the Massachusetts Parole Officers Association for your support and for everything you do to keep our communities safe.
-God bless our parole officers.
-Keep them safe.
-Keep them strong. 🇺🇸💙🙏🏻🫡 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #LawAndOrder #BackTheBlue #PublicSafety #MPOA #ParoleOfficers #CapeCod #Massachusetts #MaPoli Massachusetts Parole Officers’ Association ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
+Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK State Representative Steve Xiarhos October 8th GOOD MORNING & HAPPY THANKFUL THURSDAY Operation Flags for Vets Today we are especially thankful for the Monti family and the incredible tradition they continue to carry on in honor of their son and brother, U.S.
+Army Sergeant Jared C.
+Monti.
+Jared was born and raised right here in Massachusetts and gave his life serving our country in Afghanistan.
+His incredibly strong and proud father, Paul Monti, turned his unimaginable loss into a lasting mission of love, remembrance and service.
+That mission became Operation Flags for Vets.
+Twice a year, during Veterans Day week and Memorial Day week, volunteers gather at our Massachusetts National Cemetery in Bourne to place American flags on the graves of our fallen heroes.
+People come from all over.
+Young and old.
+Veterans, families, friends and complete strangers.
+They walk among the graves, place a flag, and say the name of the hero who rests there.
+That is what makes this tradition so powerful.
+It reminds us that these men and women are not forgotten.
+As the years have gone by, the tradition continues.
+The Monti family continues to lead, and thousands of people continue to show up to honor Jared and every hero who made the ultimate sacrifice for our country.
+Flag Placement Day is November 7th at 9:00 AM.
+Flag Pickup Day is November 14th at 9:00 AM.
+We hope to see you there.
+God bless the Monti Gold Star family, every Gold Star family who carries this loss every single day, and all those who have served, all those who continue to serve, and every volunteer who takes the time to place and retrieve these flags.
+Happy Thankful Thursday, Cape Cod.
+See you on November 7th. 🇺🇸❤️⭐️🙏🏻🫡 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmericans #HonorAndRespect #Veterans #Flags #CapeCod #Massachusetts #MaPoli Operation Flags For Vets Massachusetts National Cemetery Big Nick's Ride for the Fallen The Nicholas G.
+Xiarhos Memorial Fund Thankful Thursday ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 7th 25 YEARS.
+WE WILL NEVER FORGET.
+AFGHANISTAN At the end of a beautiful day here on Cape Cod, we pause and remember.
+Twenty-five years ago today, the war in Afghanistan began.
+For 20 years, brave Americans and our allies served, sacrificed, and answered the call.
+We remember those who made the ultimate sacrifice, like Nicholas.
+We remember those who were wounded.
+We remember the families who lost husbands, wives, sons and daughters.
+But we also want to remember all those who came home and continue to serve.
+They are all around us.
+They are police officers and firefighters.
+They are teachers, mechanics, business owners, fathers, mothers and neighbors.
+They continue to serve their communities and make a difference every day.
+To every Afghanistan veteran: You served.
+You sacrificed.
+You made a difference.
+Be proud of your service, because we are forever proud of you. 🇺🇸🙏🏻🫡 #RepX #Fightin5th #ProudAmericans #Afghanistan #USA #HonorAndRespect #LivingTheDream The Nicholas G.
+Xiarhos Memorial Fund 2nd Battalion 8th Marines- Front Toward Hero Veterans of Foreign Wars VFW Aptucxet VFW Post 5988 - New Clark-Haddad Post 188 American Legion Veterans of Foreign Wars Massachusetts Sons of The American Legion Detachment of Mass Bourne American Legion Post 230 The American Legion Department of Massachusetts Massachusetts Executive Office of Veterans Services U.S.
+Department of Veterans Affairs ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 7th FOR SEAN What an incredible day back in Yarmouth at the K9 Sergeant Sean M.
+Gannon Training Center — the house that Sean built.
+Today’s state-of-the-art K9 training brought together incredible police officers and some truly incredible dogs.
+There is so much that goes into properly training a K9 team, including teaching officers how to safely serve as decoys and teaching these dogs how to properly bite, hold and release.
+These officers are committed to doing the job right, and these dogs are absolutely amazing.
+Our family is proud to be in a position to help provide this training through a $5,000 grant from Big Nick’s Ride and the Nicholas G.
+Xiarhos Memorial Fund, in memory Nick, and in memory of the son of our good friends, Denise and Patrick Gannon.
+Sean Gannon.
+Big Nick Xiarhos.
+Two sons.
+Two fallen heroes.
+There is something very powerful about seeing the legacy of these young men helping protect the men and women who put their lives on the line every day.
+We will always Back the Blue, and we will do everything we can to help provide our police officers and K9 teams with the training and equipment they need to do their jobs safely and effectively.
+Pain to purpose. 🇺🇸💙🐕🐾🙏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #GiveBack #BackTheBlue #K9 #CapeCod #Massachusetts #MaPoli #ForSean Town of Yarmouth Massachusetts Yarmouth Police Foundation Yarmouth Police Dept.
+Town of Barnstable Barnstable Police Department Barnstable Police K9 Foundation K9 PTSD Center The Plymouth County Sheriff's Department Falmouth Police Department Veterans Collaborative Riptide K-9 ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 7th A GREAT DAY AT MASSACHUSETTS MARITIME ACADEMY!
+It was great to welcome Texas State Representative Terry Wilson and his wife to the world-renowned Massachusetts Maritime Academy today, right here on beautiful Buzzards Bay.
+Chairman Wilson is visiting maritime academies around the country to learn how different states support their academies and how we can continue to strengthen these important institutions.
+We had a great conversation about Massachusetts Maritime Academy and the many things Texas can learn from the experience here as they work to improve and strengthen their own maritime academy.
+It was a pleasure to show Chairman Wilson and his wife around campus with Admiral McDonald, Captain Simmons, and Senator Dylan Fernandes’ team.
+We talked about cadets, workforce development, training facilities, funding and the important role our maritime academies play in our national security and economy.
+More than 1,000 cadets, all in uniform, were on campus today.
+What an incredible sight and an incredible place.
+Massachusetts Maritime Academy is truly one of the great institutions in our Commonwealth, and we are proud to have it right here in the Fightin’ Fifth.
+If you have a son, daughter, grandson, granddaughter, or loved one attending Massachusetts Maritime Academy, be proud!
+GO BUCS! 🇺🇸😊⚓️👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #MMA #Texas #Bourne #BuzzardsBay #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Terry Wilson Dylan Fernandes Massachusetts Maritime Academy Alumni Association ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos was live.
+October 7th LIVE from the world-renowned Massachusetts Maritime Academy at the Cape Cod Canal in Buzzards Bay!
+What a beautiful day to be on this incredible campus with the Admiral, the Captain, the team from Senator Dylan Fernandes’ office, and our special guests, Texas State Representative Terry Wilson and his wife.
+We had a great discussion about maritime academies across our nation and the incredible education, training and opportunities they provide to the next generation of leaders.
+There is truly nothing like Massachusetts Maritime Academy.
+We are so fortunate and so proud to have this world-class institution right here in the Fightin’ Fifth!
+Go Bucs! 🇺🇸😊⚓️ #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #MMA #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Terry Wilson Dylan Fernandes Massachusetts Maritime Academy Alumni Association ...
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
 The Committee to Elect Steven Xiarhos is solely responsible for all content on this Website and for any and all solicitations for political contributions herein or in any way associated herewith.
 The Committee is also responsible for funding and managing this Website; no public funds or resources are used to design and maintain this site.
 Nothing within this site is intended to communicate or imply the support or endorsement of any person or entity unless such an endorsement is stated explicitly.

@@ -22,6 +22,6 @@ I hope the House leadership will push through a bill in the coming regular sessi
 I’m waiting for one of my colleagues to come to me and tell me that we have to make hard decisions, like raising taxes.
 I’ve made harder decisions than these throughout my career, more than a few involving life and death.
 These aren’t ‘hard decisions,’ they are bad decisions, and the legislature must tell the proponents to stuff their increased taxes.
-Now I’ll finish up in the Special Circus – Part Five MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous The Special Circus - Part 3 Next Next The Special Circus - The Final Part Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Now I’ll finish up in the Special Circus – Part Five MONTANI SEMPER LIBERI Amanda Ridenour Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
 Jim Ruland, Treasurer.
 Home About Bill Campaign Positions Legislation Blog Contact

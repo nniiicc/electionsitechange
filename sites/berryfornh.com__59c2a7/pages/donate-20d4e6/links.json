@@ -5,11 +5,19 @@
 },
 {
 "text": "About",
+"href": "https://berryfornh.com/#about"
+},
+{
+"text": "About",
 "href": "https://berryfornh.com/about"
 },
 {
 "text": "Back to Home",
 "href": "https://berryfornh.com/"
+},
+{
+"text": "Contact",
+"href": "https://berryfornh.com/#contact"
 },
 {
 "text": "Donate",
@@ -20,8 +28,16 @@
 "href": "https://www.facebook.com/BerryForNH"
 },
 {
+"text": "Full Bio",
+"href": "https://berryfornh.com/about"
+},
+{
 "text": "Home",
 "href": "https://berryfornh.com/"
+},
+{
+"text": "Issues",
+"href": "https://berryfornh.com/issues"
 },
 {
 "text": "Open the secure donation page",
@@ -42,6 +58,14 @@
 {
 "text": "Terms & Conditions",
 "href": "https://berryfornh.com/terms"
+},
+{
+"text": "Why the Chicken?",
+"href": "https://berryfornh.com/why-the-chicken"
+},
+{
+"text": "Yard Signs",
+"href": "https://berryfornh.com/sign-request"
 },
 {
 "text": "[image: Berry for NH]Ross BerryState Representative",

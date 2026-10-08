@@ -49,7 +49,8 @@ An immigrant from Hong Kong with a thick accent could never have imagined he’d
 But that’s the magic of this place we call home.
 And I’m running to keep that magic alive—for the teacher who needs affordable housing, the hardworking family worried about putting food on the table, the senior who needs healthcare, and the newcomer with an accent chasing their American dream.
 This isn’t just a campaign.
-It’s our chance to write the next chapter of Colorado’s success story—together. " Whether you're a Republican, Democrat, or Independent, we all want the same things — safe neighborhoods, excellent schools, and the chance for our families to thrive.
+It’s our chance to write the next chapter of Colorado’s success story—together.
+"Whether you're a Republican, Democrat, or Independent, we all want the same things — safe neighborhoods, excellent schools, and the chance for our families to thrive.
 I've spent my career bringing people together to solve problems, not divide our community.
 That's the leadership Douglas County deserves." My name is Kevin Leung, and with your vote and donation, we can create a Colorado that’s stronger and more united.
 HERE’S HOW YOU CAN HELP: Get Involved Questions?

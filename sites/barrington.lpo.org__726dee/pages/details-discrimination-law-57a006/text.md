@@ -13,6 +13,7 @@ The result is a chilling effect which would be impermissible in other contexts: 
 For example, an employer might rationally decline to retain as a supervisor someone who runs a blog advocating hereditarian explanations for racial outcome differences even if this does not affect his work performance or interactions with other employees, because a Black person reporting to such a supervisor could use that as evidence in a discrimination/hostile work environment lawsuit.
 This would interfere with hereditarians’ ability to express their views and obtain broad acceptance of them which, if they proved to be substantially accurate, would prevent the waste of trillions of dollars on ineffective education funding, futile attempts to correct disparities, and so on.
 These laws have also been used to impose upon water-cooler political discussion and humor in the workplace, and even on actual work (printing of materials with offensive content).
+All of this is a major cause of left-wing excesses and cancel culture.
 If these laws were necessary to preventing widespread discrimination on irrelevant characteristics, this all might be justifiable.
 They are not.
 Market competition ensures that discrimination on irrelevant characteristics will be selected against at multiple levels.
@@ -59,6 +60,6 @@ It is unnecessary, as businesses with significant handicapped customers would ha
 It is a futile attempt by government to make life “fair”, while life is inherently unfair.
 And, on top of everything else, the ADA actually reduces employment of the people it is meant to help!
 I should note that this piece substantially overstates the strength of the effects it describes , and I do not fully agree with its conclusions.
-It is here because it is known as a rare example of a willingness to discuss what it does. ↩︎ This has real costs to society . ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+It is here because it is known as a rare example of a willingness to discuss what it does. ↩︎ This has real costs to society . ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Brennan Barrington on Mike Carey doesn’t care… Peter on Mike Carey doesn’t care… Tom Gnau, Dayton Daily News on Hello voters!
 A WordPress Commenter on Hello voters!
 Paid for by Barrington for Congress Contact

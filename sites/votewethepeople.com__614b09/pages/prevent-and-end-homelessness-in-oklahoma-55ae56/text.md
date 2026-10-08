@@ -1,4 +1,4 @@
-Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant to Oklahoma Platform and Policy Agenda Take the Oath The Creed The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
+Skip to the content Vote - We the People! - The Farmer Servant ☰ Menu Home Help Fund the Movement Meet Robert Brooks The People’s Covenant Platform and Policy Agenda Take the Oath The Creed The Four Choices The Movement The Prayer Search for: When autocomplete results are available use up and down arrows to review and enter to go to the desired page.
 Touch device users, explore by touch or with swipe gestures.
 Home → Prevent and End Homelessness in Oklahoma Prevent and End Homelessness in Oklahoma THE FARMER SERVANT PLAN TO PREVENT AND END HOMELESSNESS IN OKLAHOMA Every Oklahoman Deserves a Path Home A lost job, an illness, a rent increase, domestic violence, or a family crisis can put someone at risk of homelessness.
 Others need help with addiction or serious mental illness.

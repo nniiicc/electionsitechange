@@ -1,0 +1,4 @@
+top of page DONATE ABOUT PLATFORM GET INVOLVED CONTACT Events PRESS Menu Close DONATE Upcoming Events Annual Gloria Butler Fish Fry Sat, Oct 24 Lenora Park For years, Senator Gloria Butler brought our community together through her annual fish fry.
+When she retired from the Georgia Senate, I made a commitment to her—and to our community—to keep this tradition going.
+I am proud to continue the Annual Gloria Butler Fish Fry in her name.
+RSVP Contact Doreen Friends for Doreen Carter PO Box 2186 Lithonia, GA 30058 doreen@doreencarter.com 678-964-IWIN(4946) ABOUT PLATFORM EVENTS CONTACT Menu Close Privacy Policy © Powered by CCS: Marketing & Technology | Re-elect Doreen Carter | State Representative House District 93 ABOUT PLATFORM EVENTS CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

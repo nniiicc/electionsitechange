@@ -1,4 +1,4 @@
-Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT Join the Ground Game Elections are won by people showing up and our volunteers are the backbone of this campaign.
+Skip to main content Home About Jackie Events Gallery Volunteer News & Press Track AIPAT DONATE CONTACT Join the Ground Game Elections are won by people showing up and our volunteers are the backbone of this campaign.
 Sign Up to Volunteer See What Fits You Ways to Get Involved There is a role for everyone, no matter your schedule or experience.
 Pick what fits your life and click to sign up.
 Door Knocker Hit the doors in your neighborhood.
@@ -50,6 +50,6 @@ Upcoming Opportunities Find a volunteer shift near you.
 New opportunities posted regularly.
 Volunteer opportunities coming soon.
 Sign up above and we'll notify you when shifts open up.
-Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Campaign About Jackie Gallery News & Press Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
 Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
 All rights reserved.

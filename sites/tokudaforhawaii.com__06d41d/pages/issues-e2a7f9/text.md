@@ -98,7 +98,7 @@ In my first term in Congress, I continued that vow and opposed all efforts by th
 I also cosponsored The Women’s Health Protection Act which would codify the right to abortion care and the Right to Contraception Act which prevents federal, state, and local government entities from restricting access to or inhibiting the sale of contraceptives.
 Everyone should have access to the reproductive healthcare they need, and I will keep fighting until every person has the freedom to make decisions about their own body, life, and future, without interference from politicians.
 Join the Campaign Please enable JavaScript in your browser to complete this form.
-Opt-in Phone Layout Email * Phone Zip Code Opt-in I agree to opt-in.
+Phone Opt-in Zip Email * Phone Zip Code Opt-in I agree to opt-in.
 By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Tokuda for Hawaii at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.

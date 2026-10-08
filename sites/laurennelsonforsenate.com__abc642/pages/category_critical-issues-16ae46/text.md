@@ -1,4 +1,4 @@
-Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Skip to content Thursday, October 08, 2026 Lauren Nelson for Senate P.O.
 Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Category: Critical Issues Critical Issues RL21 RL 21: Losing Local Control will affect all citizens of SD Editor October 17, 2024 View More RL 21: Losing Local Control will affect all citizens of SD Critical Issues RL21 SB201/RL 21 The fate of your property in the hands of 3 people in Pierre Editor October 16, 2024 View More SB201/RL 21 The fate of your property in the hands of 3 people in Pierre Critical Issues Platform I pledge to keep Government Local and for the people.
 Editor October 15, 2024 Government always grow, but never shrink.
 State mandates impede on our rural South Dakota communities, making it difficult for small towns to compete.

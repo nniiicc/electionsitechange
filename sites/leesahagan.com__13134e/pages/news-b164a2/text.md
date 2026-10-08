@@ -1,123 +1,44 @@
-The Latest News
-Final 2026 Session Update
-The General Assembly reconvened at the Capitol on March 31, 2026, for the final week of the legislative session.
-While on the House floor, we worked late into the evenings and early morning debating and voting on key measures to secure their final...
-The 2026 legislative session ends on Thursday, April 2, 2026.
-Week 10 Session Update
-The Georgia House returned to the Capitol on March 16 for Legislative Day 32 and the start of week 10.
+About Leesa News Help Out Elections Constituent Services About Leesa News Help Out Elections Constituent Services The Latest News Final 2026 Session Update Apr 19, 2026 The General Assembly reconvened at the Capitol on March 31, 2026, for the final week of the legislative session.
+While on the House floor, we worked late into the evenings and early morning debating and voting on key measures to secure their final... read more The 2026 legislative session ends on Thursday, April 2, 2026.
+Week 10 Session Update Mar 22, 2026 The Georgia House returned to the Capitol on March 16 for Legislative Day 32 and the start of week 10.
 After Monday’s session, we held a full committee workday on Tuesday to review Senate bills that crossed over.
-Throughout the week, we stayed focused on moving bills...
-Week 9 Update: 2027 budget
-The House returned to the Gold Dome on March 9.
+Throughout the week, we stayed focused on moving bills... read more Week 9 Update: 2027 budget Mar 15, 2026 The House returned to the Gold Dome on March 9.
 The General Assembly has now reached Day 31, leaving only nine days left this session.
 Last week, the House began reviewing Senate bills and focused heavily on passing the Fiscal Year 2027 budget.
-FY 2027 Budget My colleagues...
-Week 8 Session Update: Crossing Over
-Last week at the Capitol brought another round of floor votes and committee discussions as the session moved forward through week eight and the completion of Crossover Day.
-While a few issues often grab headlines, much of our work involves steady progress on policies that...
-Week 7 Session Update: The amended budget
-Last week, the Georgia House returned to the State Capitol for week seven of the legislative session.
+FY 2027 Budget My colleagues... read more Week 8 Session Update: Crossing Over Mar 11, 2026 Last week at the Capitol brought another round of floor votes and committee discussions as the session moved forward through week eight and the completion of Crossover Day.
+While a few issues often grab headlines, much of our work involves steady progress on policies that... read more Week 7 Session Update: The amended budget Feb 28, 2026 Last week, the Georgia House returned to the State Capitol for week seven of the legislative session.
 We dedicated Monday as our first full committee workday of the year.
-Throughout the day, we reviewed bills in detail, debated provisions, and voted to move measures...
-We’ve Reached the Halfway Point of Session
-The Georgia House reconvened last Tuesday to begin week six of the legislative session.
+Throughout the day, we reviewed bills in detail, debated provisions, and voted to move measures... read more We’ve Reached the Halfway Point of Session Feb 21, 2026 The Georgia House reconvened last Tuesday to begin week six of the legislative session.
 We are now past the halfway point of session.
 With a full schedule of committee hearings and floor votes, we continued working to advance bills through the process.
-I keep an eye on how...
-House Bills Passed: Week 5 Session Update
-My colleagues and I returned to the State Capitol last Monday to kick off the fifth week of the legislative session.
-The week was marked by visiting constituents from the 156th district, the Georgia Chamber’s Rural Day at the Capitol, a busy committee schedule, and over 20...
-Amended FY 2026 budget: Week 4 Update
-The Georgia House returned to Atlanta last Monday to begin a busy fourth week of the 2026 legislative session.
+I keep an eye on how... read more House Bills Passed: Week 5 Session Update Feb 15, 2026 My colleagues and I returned to the State Capitol last Monday to kick off the fifth week of the legislative session.
+The week was marked by visiting constituents from the 156th district, the Georgia Chamber’s Rural Day at the Capitol, a busy committee schedule, and over 20... read more Amended FY 2026 budget: Week 4 Update Feb 7, 2026 The Georgia House returned to Atlanta last Monday to begin a busy fourth week of the 2026 legislative session.
 We are now more than a quarter of the way through, and the pace continues to increase.
-While policy debates move forward on the House floor and in committees,...
-Budget Work Continues as the Legislative Session Moves Forward
-The Georgia House of Representatives began the third week of the 2026 legislative session on January 26.
+While policy debates move forward on the House floor and in committees,... read more Budget Work Continues as the Legislative Session Moves Forward Jan 31, 2026 The Georgia House of Representatives began the third week of the 2026 legislative session on January 26.
 We started the week a little later than planned after a winter storm swept across much of the state.
-By Tuesday, however, we were all back in Atlanta and hard at work....
-Budget Week is In the Books
-Last week, I returned to the State Capitol with other members of the House and Senate Appropriations Committees for the second week of the 2026 legislative session commonly known as budget week.
-It’s an important few days focused on reviewing state spending and budget...
-State of the State & Week 1 Update
-The Georgia House of Representatives officially convened on January 12 for the first day of the 2026 legislative session.
+By Tuesday, however, we were all back in Atlanta and hard at work.... read more Budget Week is In the Books Jan 26, 2026 Last week, I returned to the State Capitol with other members of the House and Senate Appropriations Committees for the second week of the 2026 legislative session commonly known as budget week.
+It’s an important few days focused on reviewing state spending and budget... read more State of the State & Week 1 Update Jan 18, 2026 The Georgia House of Representatives officially convened on January 12 for the first day of the 2026 legislative session.
 Walking back into the House Chamber always brings a mix of energy, responsibility, and optimism.
-This year, that feeling was especially strong as we...
-Find information about the 2026 election cycle here. ←
-2025 News
-Press Release: Mill Closings in South Georgia
-House Rural Development Committee to Study Impacts of Pulp and Paper Mill Closures in Rural Georgia ATLANTA – State...
-New Georgia Laws Affecting Rural Communities: 2025 summary
-With the 2025 legislative session well behind us, I wanted to share some highlights of the bills that have recently become law....
-Georgia Expands Cottage Food Law: A Win for Entrepreneurs
-It’s not every day that a bill opens the door to entrepreneurship from your own kitchen, but Georgia just did it.
-I’m excited to...
-Final Session Update of 2025: Week 12
-As the 2025 legislative session ended under the Gold Dome, I was honored once again to represent our values, our families, and...
-Georgia Tort Reform: Week 10 Session Update
-As your representative for Georgia's 156th House District, I'm excited to share the latest updates from under the Gold Dome.
-The...
-Crossover Week: Week 8 Session Update
-Last week marked "Crossover Week," a pivotal time when legislation must pass from one chamber to the other to remain active this...
-What Bills Passed?
-A Look at Week 7 Legislative Highlights
-The Georgia House of Representatives reconvened last week, kicking off an important week of lawmaking at the State Capitol.
-As...
-Several Bills Passed in the House: Week 6 Session Update
-The Georgia House kicked off the sixth week of the legislative session on Tuesday following Presidents’ Day.
-We’re now past the...
-Week 5 Session Update: The Legislative Process Continues
-Last week, my colleagues and I returned to the Georgia State Capitol for the fifth week of the 2025 legislative session.
-The...
-Week 4 Session Update: A Responsible Budget Policy for Georgia
-The Georgia House of Representatives returned to the Capitol on Monday, marking the start of the fourth week of the legislative...
-Week 3 Session Update: Tort Reform in Georgia
-This week, the Georgia House of Representatives reconvened following a winter storm that affected much of the southern part of...
-Week 1 Session Update: I Swear!
-The 158th General Assembly commenced the 2025 Regular Session on Monday, January 13, marking the start of our biennial...
-Rep.
-Hagan Named Chair of the House Rural Development Committee
-ATLANTA – The Georgia House of Representatives’ Committee on Assignments named StateRepresentative Leesa Hagan (R-Lyons) as the...
-Stay up-to-date on event and issues impacting House District 156 by signing up for our newsletter.
-2024 News
-New Georgia Laws Effective on July 1
-As informed citizens, I knew you’d want to read about some of the laws that went into effect yesterday.
-This is not a complete...
-Rep.
-Leesa Hagan Completes Republican Leadership for Georgia
-ATLANTA, GA – Representative Leesa Hagan (R-Lyons) completed the year-long Republican Leadership for Georgia (RLG) training...
-2024 Session: Legislative Summary
-Firstly, I’d like to thank you for trusting me to serve as your representative in the General Assembly for another session.
-It’s...
-Week 12 Session Update: Sine Die
-Sine Die, the last day of the legislative session, was this past Thursday.
-In a few weeks, we'll have a clear picture of the...
-Week 8 Session Update: Crossover Week
-The eighth week of the 2024 legislative session commenced on February 26.
-The House convened for three days of legislative work...
-Week 7 Update: A Crowded Capitol
-On February 20, my House colleagues and I reconvened for days 23 through 25 of the legislative session and many hours of...
-Week 6 Session Update: A Second Chance
-The Georgia House of Representatives kicked off the sixth week of the 2024 legislative session on February 12.
-We convened in...
-Week 4 Session Update: Richard Smith Remembered
-The legislative session resumed on Monday, January 29, marking the start of the fourth week of the 2024 General Assembly.
-As the...
-2024 Week 3 Update: Hate has no place in Georgia
-The third week of the 2024 legislative session brought an array of activities as the Georgia House of Representatives reconvened...
-2024 Week 2 Update: Budget Week
-On Tuesday, January 16, I joined much of the legislature at the State Capitol for the commencement of "budget week." Each year,...
-2024 Week 1 Update: A Strong Start to the Legislative Session!
-Last Monday, the 157th Georgia General Assembly convened at the Capitol for the 2024 legislative session, which marked the start...
-Stay informed during the legislative session
-The past few weeks have been busy and filled with Christmas plans and traditions - and a little two-week special session!
-I love...
-2023 News
-New Laws in Effect July 1, 2023
-As we approach Independence Day, I am reminded of how fortunate we...
-2023 Week 12 Update: Sine Die, Y’all!
-Sine Die!
-Last week, the Georgia General Assembly completed the...
-Press Release: SPEAKER BURNS ANNOUNCES RURAL DEVELOPMENT COUNCIL Members FOR THE 2023 SESSION
-ATLANTA – Speaker of the House Jon Burns (R-Newington) announced the...
-Week 11 Session Update
-Last Monday, March 20, the Georgia House of Representatives...
+This year, that feeling was especially strong as we... read more Find information about the 2026 election cycle here. ← 2025 News Press Release: Mill Closings in South Georgia Sep 4, 2025 House Rural Development Committee to Study Impacts of Pulp and Paper Mill Closures in Rural Georgia ATLANTA – State... read more New Georgia Laws Affecting Rural Communities: 2025 summary Jun 28, 2025 With the 2025 legislative session well behind us, I wanted to share some highlights of the bills that have recently become law.... read more Georgia Expands Cottage Food Law: A Win for Entrepreneurs Jun 21, 2025 It’s not every day that a bill opens the door to entrepreneurship from your own kitchen, but Georgia just did it.
+I’m excited to... read more Final Session Update of 2025: Week 12 Apr 20, 2025 As the 2025 legislative session ended under the Gold Dome, I was honored once again to represent our values, our families, and... read more Georgia Tort Reform: Week 10 Session Update Mar 23, 2025 As your representative for Georgia's 156th House District, I'm excited to share the latest updates from under the Gold Dome.
+The... read more Crossover Week: Week 8 Session Update Mar 9, 2025 Last week marked "Crossover Week," a pivotal time when legislation must pass from one chamber to the other to remain active this... read more What Bills Passed?
+A Look at Week 7 Legislative Highlights Mar 1, 2025 The Georgia House of Representatives reconvened last week, kicking off an important week of lawmaking at the State Capitol.
+As... read more Several Bills Passed in the House: Week 6 Session Update Feb 22, 2025 The Georgia House kicked off the sixth week of the legislative session on Tuesday following Presidents’ Day.
+We’re now past the... read more Week 5 Session Update: The Legislative Process Continues Feb 15, 2025 Last week, my colleagues and I returned to the Georgia State Capitol for the fifth week of the 2025 legislative session.
+The... read more Week 4 Session Update: A Responsible Budget Policy for Georgia Feb 9, 2025 The Georgia House of Representatives returned to the Capitol on Monday, marking the start of the fourth week of the legislative... read more Week 3 Session Update: Tort Reform in Georgia Feb 2, 2025 This week, the Georgia House of Representatives reconvened following a winter storm that affected much of the southern part of... read more Week 1 Session Update: I Swear!
+Jan 18, 2025 The 158th General Assembly commenced the 2025 Regular Session on Monday, January 13, marking the start of our biennial... read more Rep.
+Hagan Named Chair of the House Rural Development Committee Jan 16, 2025 ATLANTA – The Georgia House of Representatives’ Committee on Assignments named StateRepresentative Leesa Hagan (R-Lyons) as the... read more Stay up-to-date on event and issues impacting House District 156 by signing up for our newsletter.
+Sign Up 2024 News New Georgia Laws Effective on July 1 Jul 2, 2024 As informed citizens, I knew you’d want to read about some of the laws that went into effect yesterday.
+This is not a complete... read more Rep.
+Leesa Hagan Completes Republican Leadership for Georgia Jun 20, 2024 ATLANTA, GA – Representative Leesa Hagan (R-Lyons) completed the year-long Republican Leadership for Georgia (RLG) training... read more 2024 Session: Legislative Summary May 15, 2024 Firstly, I’d like to thank you for trusting me to serve as your representative in the General Assembly for another session.
+It’s... read more Week 12 Session Update: Sine Die Apr 2, 2024 Sine Die, the last day of the legislative session, was this past Thursday.
+In a few weeks, we'll have a clear picture of the... read more Week 8 Session Update: Crossover Week Mar 3, 2024 The eighth week of the 2024 legislative session commenced on February 26.
+The House convened for three days of legislative work... read more Week 7 Update: A Crowded Capitol Feb 25, 2024 On February 20, my House colleagues and I reconvened for days 23 through 25 of the legislative session and many hours of... read more Week 6 Session Update: A Second Chance Feb 18, 2024 The Georgia House of Representatives kicked off the sixth week of the 2024 legislative session on February 12.
+We convened in... read more Week 4 Session Update: Richard Smith Remembered Feb 4, 2024 The legislative session resumed on Monday, January 29, marking the start of the fourth week of the 2024 General Assembly.
+As the... read more 2024 Week 3 Update: Hate has no place in Georgia Jan 27, 2024 The third week of the 2024 legislative session brought an array of activities as the Georgia House of Representatives reconvened... read more 2024 Week 2 Update: Budget Week Jan 21, 2024 On Tuesday, January 16, I joined much of the legislature at the State Capitol for the commencement of "budget week." Each year,... read more 2024 Week 1 Update: A Strong Start to the Legislative Session!
+Jan 14, 2024 Last Monday, the 157th Georgia General Assembly convened at the Capitol for the 2024 legislative session, which marked the start... read more Stay informed during the legislative session Jan 3, 2024 The past few weeks have been busy and filled with Christmas plans and traditions - and a little two-week special session!
+I love... read more 2023 News New Laws in Effect July 1, 2023 Jul 1, 2023 As we approach Independence Day, I am reminded of how fortunate we... read more 2023 Week 12 Update: Sine Die, Y’all!
+Apr 5, 2023 Sine Die!
+Last week, the Georgia General Assembly completed the... read more Press Release: SPEAKER BURNS ANNOUNCES RURAL DEVELOPMENT COUNCIL Members FOR THE 2023 SESSION Mar 29, 2023 ATLANTA – Speaker of the House Jon Burns (R-Newington) announced the... read more Week 11 Session Update Mar 25, 2023 Last Monday, March 20, the Georgia House of Representatives... read more Friends of Leesa Hagan P.
+O.
+Box 1228 | Lyons, GA 30436 contact@LeesaHagan.com Follow Follow Follow Paid for by Friends of Leesa Hagan Design by Cardinalis – Websites – SEO – Graphic Design

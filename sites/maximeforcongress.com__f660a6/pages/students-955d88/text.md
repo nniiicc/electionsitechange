@@ -15,8 +15,8 @@ Maxime will fight to: 01 Expand Pell grants and make community college genuinely
 05 Provide targeted student-debt relief for teachers, nurses, and public-service workers District 20 needs.
 The Promise Our young people are our future.
 They deserve investment in that future — with a real path, real support, and a real chance to build a life right here at home.
-DONATE VOLUNTEER DONATE Follow The Campaign A vision for Florida's District 20.
+DONATE VOLUNTEER DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

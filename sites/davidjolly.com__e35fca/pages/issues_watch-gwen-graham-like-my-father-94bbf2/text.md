@@ -28,7 +28,17 @@ Senator.
 He was known for his deep policy knowledge and his commitment to public service grounded in making a real difference.
 When Graham says David Jolly reminds her of her father, she is naming a shared belief that leadership begins with understanding the issues and ends with delivering results for people.
 See the video at 0:24 for her full comparison.
-More on this topic Different backgrounds.
+More on this topic Overview Meet David Jolly — Florida Governor 2026 In depth Voices on the trail - Jadene In depth Believe in Better - David Jolly for Florida Governor In depth Believe In Better In depth It Takes You Back - The Power of Hymns In depth David Jolly: People and Priorities First.
+Always.
+In depth David Jolly - Tomorrow is a big day for our state In depth Gwen Graham - Competency.
+Character.
+Trust.
+In depth Gwen Graham - Proud to serve beside David Jolly In depth Meet Gwen Graham - Florida's next Lieutenant Governor In depth What Makes America Great Has Nothing to Do with Politics In depth Voices on the Trail - Rev.
+Dr.
+R.B.
+Holmes In depth David Jolly: It's Not Want.
+It's Willingness.
+Different backgrounds.
 Different beliefs.
 Same understanding.
 The test of governing is whether it makes life better for the people you serve.

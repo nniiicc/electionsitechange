@@ -19,8 +19,7 @@ Desired Experience & Qualifications At least 2 years of campaign or government c
 Experience speaking on record on behalf of a principal or organization Proven leadership that is strategic, thoughtful, and collaborative Familiarity with campaign communications tools, including social media platforms, Canva, Squarespace, CRMs, and tools like NGP VAN, scale to win.
 A valid US driver's license, and/or access to reliable, insured transportation Must be able to work campaign hours as well as nights and weekends, as needed Reporting & Compensation Structure The Communications Manager reports directly to the Executive Director.
 This is a full-time, permanent, salaried position.
-The target salary range for this role is $55,000 to $65,000 per year.
 Final compensation will be determined based on the candidate's experience, skills, and qualifications.
-How to Apply To apply, please submit a resume and cover letter to our team at teamdelia@deliaforcongress.com by July 10, 2026.
+How to Apply To apply, please submit a resume and cover letter to our team at teamdelia@deliaforcongress.com .
 Use the subject line, Communications Manager.
 Get Started MEET DELIA DONATE CONTACt media Read our Privacy Policy and Terms & Conditions Paid for by United with Delia for Congress

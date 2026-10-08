@@ -3,9 +3,11 @@ We need to advocate for ourselves.
 Keep our communities first!
 Also Mahalo to the Hawaiian Humane Society for their hard work and for all of their volunteers in regards to taking care of all of the animals!
 #OurCommunityFirst​ #VoteYbanez4Kalihi​#Hawaii​ #Kalihi​ #HawaiianHumaneSociety​ Previous Amanda YBANEZ Talks FISCAL RESPONSIBILITY Next YBANEZ - More Outreach for our Students!
-You Might Also Like "Our Community First" with Major Erik Hoogstad & Chico Garcia of Salvation Army ARC #salvationarmy Ybanez - Our Community First!
-#Kalihi #Hawaii #ourcommunityfirst Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst YBANEZ 4 KALIHI - Support Local!
-YBANEZ - Walk & Talk 7/29/2026 Are you registered to vote?
+You Might Also Like A collab joint between Larry Veray and YBANEZ was signed this past week for Hawai'i E-Bike Safety!
+YBANEZ - Walk & Talk | Monday, August 3rd YBANEZ 4 KALIHI - Support Local!
+YBANEZ - Stay prepared for Tropical Cyclone Lala!
+Ybanez - Our Community First!
+#Kalihi #Hawaii #ourcommunityfirst Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

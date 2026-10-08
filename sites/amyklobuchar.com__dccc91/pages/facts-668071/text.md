@@ -88,5 +88,5 @@ Restore Sanity has spent more than $7.1 million on television ads, making this t
 Help us fight back against their MAGA money.
 Donate to join over 25,000 everyday Minnesotans who’ve chipped in to fund Amy’s grassroots campaign – the average gift is just $# – or volunteer with us to help turn out the vote in your neighborhood .
 Meet Amy Meet Ben Priorities Newsroom Yard Signs Store Get Involved Minnesotans for Klobuchar PO Box 4009 St.
-Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
+Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy llms.txt Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
 Paul, MN 55104.

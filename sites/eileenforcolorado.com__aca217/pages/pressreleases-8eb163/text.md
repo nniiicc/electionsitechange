@@ -1,4 +1,16 @@
-0 Skip to Content Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Folder: Press Back Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer press releases Natalie Stallings 10/2/26 Natalie Stallings 10/2/26 Retired Rear Admiral Eileen Laubacher Earns Endorsement from Former Governor Bill Ritter Highlands Ranch, CO – Today, retired Rear Admiral Eileen Laubacher announced an endorsement from former Governor of Colorado Bill Ritter.
+0 Skip to Content Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Folder: Press Back Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer press releases Natalie Stallings 10/7/26 Natalie Stallings 10/7/26 Boebert Touts $250 Million in Colorado Funding She Voted Against Highlands Ranch, CO — On Monday, Rep.
+Lauren Boebert’s office issued a press release touting her work with the U.S.
+Department of Energy to strengthen Colorado’s electric grid, highlighting a new $250 million award through the Department’s SPARK program.
+There’s just one problem: Boebert voted against the law that funded the SPARK program .
+The SPARK funding comes from the Infrastructure Investment and Jobs Act (IIJA), also known as the Bipartisan Infrastructure Law, which was signed into law on November 15, 2021.
+Boebert voted against the legislation and now, five years later, is taking credit for funding she tried to block.
+“This is the kind of Washington politics people are tired of,” said Retired Rear Admiral Eileen Laubacher.
+“Lauren Boebert votes against investments in Colorado when the cameras are on, then takes credit when the money comes home.
+You don't get to vote against funding for our communities and then pretend you delivered it.” Laubacher continued: “And it’s part of a larger pattern.
+She says she opposes foreign wars, but voted five times against ending U.S. involvement in the war with Iran.
+She voted against the Bipartisan Infrastructure Law, but now wants credit for the investments it created.
+Her rhetoric says one thing; her voting record says another. ” “The people of this district deserve a representative who will actually do the work - not someone who votes no in Washington and shows up later to take credit for the results.
+If Lauren Boebert believed this investment was good for Colorado, she should have voted for it when it mattered.” ### Read More Natalie Stallings 10/2/26 Natalie Stallings 10/2/26 Retired Rear Admiral Eileen Laubacher Earns Endorsement from Former Governor Bill Ritter Highlands Ranch, CO – Today, retired Rear Admiral Eileen Laubacher announced an endorsement from former Governor of Colorado Bill Ritter.
 Ritter served as the 41st governor of Colorado, from 2007 to 2011, focusing on energy, creating jobs, and expanding access to affordable health care.
 “Governor Ritter understands what it takes to lead through tough times and deliver for Coloradans,” said Retired Rear Admiral Eileen Laubacher .
 “During the Great Recession, he stayed focused on creating jobs, strengthening Colorado’s economy, and making sure rural and agricultural communities weren’t left behind.
@@ -119,31 +131,7 @@ And it can make sure that rural communities aren’t handed expensive federal ma
 She continued that a Congressional office “should not just wait for communities to come asking for money — it should convene people, identify priorities, help navigate federal agencies, pursue authorizations and appropriations and make sure Colorado isn’t leaving federal resources on the table.” Laubacher pledged to work on three goals while in Congress: keep Colorado farms producing, ensure that communities are supplied with safe drinking water, and build the infrastructure Colorado will need for the next 50 years.
 She also emphasized the need for strong bipartisan work on the issue of water: “Lauren Boebert has repeatedly opposed major bipartisan federal investments that included funding for water infrastructure,” said Retired Rear Admiral Eileen Laubacher.
 “I would take a different approach.
-I am willing to work with anyone and everyone who is serious about solving these problems, because we are already behind.” ### Read More Natalie Stallings 8/17/26 Natalie Stallings 8/17/26 Retired Rear Admirals Eileen Laubacher and Nancy Lacore Condemn Department of Defense Failures Amid USS Lincoln’s Extended Deployment Highlands Ranch, CO — Rear Admiral (Ret.) Eileen Laubacher, a 34-year Navy veteran and Democratic candidate for Colorado’s 4th Congressional District and Rear Admiral (Ret.) Nancy Lacore, a 35-year Navy Veteran and Democratic candidate for South Carolina’s 1st Congressional District issued the following joint statement amid reports of deteriorating conditions and declining morale aboard the USS Abraham Lincoln following an extended deployment supporting U.S. operations against Iran: “This ill-conceived and unnecessary war is having terrible consequences for our national security and taking a serious toll on our sailors, Marines, and military families.
-The damage to morale, readiness, and recruitment could last for years,” Laubacher and Lacore said.
-“Members of the military understand service and sacrifice.
-We are prepared to do hard things.
-But when we send Americans into harm’s way, we owe them a clear mission.
-The Department of Defense has failed to provide that.
-“The Lincoln has remained deployed months beyond its planned return, leaving sailors and their families in limbo while reports emerge of food shortages, water contamination, and deteriorating morale and mental health.” “I’m glad these sailors and families may finally get some relief,” said Laubacher.
-“But it should never have taken military families speaking out and mounting media attention to force action.
-They should not have to wage a public campaign to get our leaders to do the right thing.
-“When you’re deployed, you measure time in milestones and holidays,” Laubacher continued.” During my year in Afghanistan, every holiday was a reminder that by the next one, I would be home.
-These sailors have watched those milestones come and go.
-Parents are missing the start of school.
-Families are missing homecomings.” “On my first deployment, we were operating in that same region as the USS Abraham Lincoln,” said Lacore.
-“Just like those Sailors, when we left our home port on deployment, we knew when we were supposed to come home.
-We had an end date, and we were counting down to it.
-Then something changed in the region and just as we thought we were heading home, our ship turned around and went back to the Gulf.
-I still remember how mentally crushing it was to realize the date you’ve been holding onto is gone.
-“The Sailors aboard the USS Abraham Lincoln haven’t experienced that once.
-They’ve experienced that uncertainty repeatedly.
-Every extension challenges morale on the ship and adds to the anxiety at home.” “This is a failure of leadership at the Pentagon and in Congress,” The pair continued.
-“Pete Hegseth has failed to provide the leadership our service members deserve, and Congress has failed to demand accountability or a clear path forward.
-Lauren Boebert has voted four times to continue this war.
-And in South Carolina’s 1st District, Nancy Mace voted to allow it to continue, then failed to show up when Congress had another chance to end it.
-“Our sailors, Marines, and military families deserve leaders who understand that decisions made in Washington have real consequences for the people we ask to defend this country.” If elected this November, Laubacher and Lacore would make history as the first women to have achieved flag or general officer rank in the U.S. military to serve in Congress.
-Read More Older Posts GET INVOLVED WITH TEAM EILEEN Donate Volunteer Contact Privacy Policy/Terms of Service Careers CHECKS CAN BE MAILED TO PO BOX: 9249 S Broadway, #200-172 Highlands Ranch, CO 80129 PAID FOR BY EILEEN FOR COLORADO REAR ADMIRAL EILEEN LAUBACHER (RET) IS A FORMER MEMBER OF THE U.S.
+I am willing to work with anyone and everyone who is serious about solving these problems, because we are already behind.” ### Read More Older Posts GET INVOLVED WITH TEAM EILEEN Donate Volunteer Contact Privacy Policy/Terms of Service Careers CHECKS CAN BE MAILED TO PO BOX: 9249 S Broadway, #200-172 Highlands Ranch, CO 80129 PAID FOR BY EILEEN FOR COLORADO REAR ADMIRAL EILEEN LAUBACHER (RET) IS A FORMER MEMBER OF THE U.S.
 NAVY.
 USE OF HER MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT FROM THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE. ©# Eileen for Colorado.
 All rights reserved.

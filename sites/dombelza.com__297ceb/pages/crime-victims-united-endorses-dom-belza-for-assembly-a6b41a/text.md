@@ -1,4 +1,4 @@
-Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA Crime Victims United Endorses Dom Belza for Assembly Sacramento, Calif. – Crime Victims United announced their endorsement for Dom Belza for Assembly.
+Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us DONATE ENDORSE DOM BELZA Crime Victims United Endorses Dom Belza for Assembly Sacramento, Calif. – Crime Victims United announced their endorsement for Dom Belza for Assembly.
 Since their founding in 1990, Crime Victims United’s mission has been to support and strengthen public safety, promote balance in the criminal justice system, and protect the rights of victims.
 “Dom Belza is the perfect candidate to represent the 3rd Assembly District.
 Not only is Dom overwhelmingly supported by law enforcement, but he has proven time and time again that he will be a compassionate voice for victims.

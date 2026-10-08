@@ -51,7 +51,7 @@ Students — Nevada public college and university IDs are already on Question 7�
 That’s a genuine win worth pointing out, and it’s on the Secretary of State to make sure every county’s poll workers know it counts.
 Smaller counties , which don’t have Clark County’s budget to absorb new administrative costs.
 Using existing federal election security dollars, rather than asking counties to eat the cost themselves, keeps this from becoming a rural-versus-urban fight too.
-Why this matters to me I’m not asking you to trust a party on this — I’m not part of one.
+Why this matters to me I’m not asking you to trust a party on this.
 I’m asking you to hold an office, mine if you elect me, accountable for solving actual, practical problems instead of arguing past them for a headline.
 I spent 20 years as a civil litigation paralegal and 20 years as a computer systems analyst.
 I’ve spent my career finding out where a process breaks down and fixing it before it becomes a lawsuit or a crisis.
@@ -60,18 +60,17 @@ The only real question left is whether Nevada implements it like a state that wa
 That’s not a Left question or a Right question.
 It’s a people question, and it’s the job. — Brad Lee Barnhill, #YourIndependentVoice This is one piece of the rest of my 20-point plan for the office, building on the commitment I made when I first laid out my Voter ID implementation plan .
 The same flag-and-investigate approach I’ve proposed for cleaning up Nevada’s voter rolls applies here too, and you can see my full platform for the office.
-Learn more about Brad Lee Barnhill’s background and experience .
-Make a difference!
-Join the Campaign !
-See more policy position outlines cooked up by Brad Lee Barnhill, #YourIndependentVoice for Nevada Secretary of State.
-I’m not asking you to trust a party on any of this — I’m not part of one.
+I’ve put my plans in writing and taken the fight for clean voter rolls to federal court.
+Is your candidate for Nevada Secretary of State fighting this hard to protect your vote?
+If not, it’s time to take a closer look.
+Get to know me · Join the campaign · Donate · See all policy positions I’m not asking you to trust a party on any of this.
 I’m asking you to hold the office accountable for solving real problems.
-That’s the job, and I intend to do it. — Brad Lee Barnhill Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Commentary Policy Positions 6 thoughts on “Voter ID Is Coming.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Commentary Policy Positions 6 thoughts on “Voter ID Is Coming.
 Let’s Talk About Making It Actually Work For People.” Pingback: Nevada Voter Roll Cross-Checks: Barnhill's Plan vs.
 Aguilar's Approach Pingback: What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature Pingback: Nevada Voter ID and Question 7 | Brad Barnhill Pingback: Nevada Secretary of State: Barnhill's 20/20 Plan for Reform Pingback: Service Is Complete.
 Here’s What Comes Next in Barnhill v.
 Aguilar. - Nevadans for Barnhill Pingback: Question 7 Nevada Voter ID: What Comes Next - Nevadans for Barnhill Post navigation Previous Previous post: A Small Procedural Fight, With a Bigger Point Behind It Next Next post: What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

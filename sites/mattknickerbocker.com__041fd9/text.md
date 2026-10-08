@@ -5,7 +5,8 @@ A resident of Western Connecticut for fifty years, Matt and his wife Adrienne ha
 He’s running to restore integrity to our Senate seat.
 Learn more about Matt Keep in touch!
 First name Last name Email Phone I want to help deliver a win by volunteering!
-I wish for the campaign to keep in touch by SMS/MMS messaging By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from the campaign.
+I want a lawn sign!
+By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from the campaign.
 Message frequency varies.
 Donations may be solicited.
 Message & data rates may apply.

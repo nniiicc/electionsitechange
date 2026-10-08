@@ -1,4 +1,4 @@
-Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT Privacy Policy Last updated: March 26, 2026 Jackie Auringer for Congress ("we," "us," or "our") is committed to protecting your privacy.
+Skip to main content Home About Jackie Events Gallery Volunteer News & Press Track AIPAT DONATE CONTACT Privacy Policy Last updated: March 26, 2026 Jackie Auringer for Congress ("we," "us," or "our") is committed to protecting your privacy.
 This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website at winwithjackie.com and interact with our campaign.
 Please read this policy carefully.
 Information We Collect We may collect the following types of personal information when you interact with our website or campaign: Name and contact information (email address, phone number, mailing address) County and ZIP code of residence Donation and contribution information, including employer and occupation as required by FEC regulations Volunteer preferences and availability Browsing data including IP address, browser type, pages visited, and time spent on our website Information you provide when submitting forms, signing petitions, or contacting us How We Use Your Information We use the information we collect for the following purposes: Sending campaign communications, updates, and newsletters you have opted into Coordinating volunteer activities and events Processing and recording donations in compliance with federal election law Filing required reports with the Federal Election Commission (FEC) Improving our website, content, and outreach efforts Responding to your inquiries and requests Analyzing website usage to improve user experience Text Terms and Conditions and Privacy Policy We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
@@ -35,6 +35,6 @@ When we make changes, we will update the "Last updated" date at the top of this 
 We encourage you to review this policy periodically to stay informed about how we are protecting your information.
 Paid for by Jackie Auringer for Congress .
 Not authorized by any other candidate or candidate's committee.
-Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Campaign About Jackie Gallery News & Press Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
 Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
 All rights reserved.

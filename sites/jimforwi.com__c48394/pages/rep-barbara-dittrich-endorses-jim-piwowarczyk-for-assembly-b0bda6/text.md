@@ -14,7 +14,8 @@ However, due to the redrawing of legislative maps, she is seeking re-election in
 Dittrich has represented the 38th since 2018.
 Piwowarczyk, who is supporting Donald Trump for president, is a lifelong conservative running on a platform of public safety, parents’ rights in schools, delivering tax cuts, and border security, among other issues.
 Post navigation Previous post: Prev Washington County Treasurer, Former Hartford Mayor Scott Henke Endorses Jim Piwowarczyk for Assembly March 14, 2024 Next post: Next Rep.
-Bob Donovan Endorses Jim Piwowarczyk for Assembly April 11, 2024 You May Also Like Posted July 31, 2024 in News DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE Posted July 29, 2024 in Endorsements , News , ticker NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Bob Donovan Endorses Jim Piwowarczyk for Assembly April 11, 2024 You May Also Like Posted April 11, 2024 in ticker , Endorsements , News Rep.
+Bob Donovan Endorses Jim Piwowarczyk for Assembly Posted April 18, 2024 in ticker , Endorsements , News Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

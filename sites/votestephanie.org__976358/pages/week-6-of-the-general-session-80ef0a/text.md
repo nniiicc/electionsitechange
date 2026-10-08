@@ -21,4 +21,4 @@ Read more here.
 School Visit One of my favorite things is having the local schools come for a visit.
 This week I had the opportunity to chat with students from Hidden Hollow Elementary about the legislative process and proper roll of government.
 They had some great questions!
-Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 7 + 10 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+Recent Posts 2026 Legislative Priorities Upcoming Town Hall Wrapping Up the Interim Process Legislative Work in Progress Update From Capitol Hill  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 7 + 2 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

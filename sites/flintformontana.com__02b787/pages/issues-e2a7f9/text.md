@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate On The Issues Learn more about Aaron's priorities and vision for the future of Montana.
+Home About Issues News Get Involved Contact Store Media Donate On The Issues Learn more about Aaron's priorities and vision for the future of Montana.
 Making Montana Affordable Again Montanans are working harder than ever but still falling behind.
 We are getting squeezed by the lingering effects of the catastrophic inflation of the Biden Administration created by years of overspending and bad policies coming out of D.C.
 At the same time, Montana has seen a surge of new residents fleeing West Coast cities after crushing COVID lockdowns and years of failed policies, driving up demand for housing and pushing prices higher.

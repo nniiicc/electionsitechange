@@ -6,8 +6,6 @@ We're hosting the June Grassroots Gathering on Zoom, 7:00 to 8:30 PM Eastern.
 It's a chance to see where this campaign is headed, to meet some of the organizers we've crossed paths with along the way, and to put your questions directly to me in a real Q&A.
 Guests will include grassroots activists in at least three fights that matter right now: The movement against data centers Palestine and the push for divestment Black liberation politics in Baltimore Whether you are in Maryland or somewhere else this is a great chance to see what the campaign is about!
 Hope to see you there!
-Previous Previous February 21 Building The Green Party Community Meeting - St.
-Mary's County Next Next June 27 Come see us at Frederick Pride!
 Like what you see?
 Join the movement.
 DONATE volunteer Green Party Candidates for Governor & Lt.

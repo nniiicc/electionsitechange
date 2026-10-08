@@ -1,4 +1,4 @@
-Home Meet Danica Endorsements News Events Get Involved Contact Donate English en русский ru 简体中文 zh עברית he Español es polski pl Home Meet Danica Endorsements News Events Get Involved Contact Donate Now ★ Get Involved ★ This Campaign Runs on People Like You Your voice, your time, your support, they all matter.
+Home Meet Danica Endorsements News Events Get Involved Contact Donate English en русский ru עברית he polski pl Español es 简体中文 zh Home Meet Danica Endorsements News Events Get Involved Contact Donate Now ★ Get Involved ★ This Campaign Runs on People Like You Your voice, your time, your support, they all matter.
 Together, we can bring real change to Harrisburg.
 Campaigns aren’t won by one person.
 They’re won by neighbors, families, and friends working side by side for a shared vision.

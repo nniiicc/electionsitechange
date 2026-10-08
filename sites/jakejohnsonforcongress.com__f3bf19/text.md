@@ -11,10 +11,10 @@ That's why Jake is running for Congress to make life more affordable, so that th
 Learn more about Jake and his priorities , and sign up to donate or volunteer !
 SOLVING PROBLEMS FOR SOUTHERN MINNESOTA Jake is running for Congress to: Bring down costs Jake will vote to end the massive tariffs and the Iran War, fight the corporate monopolies, and cut taxes for working families.
 Take on corruption Jake has a full plan to take on fraud, tackle the national debt, support term limits, and refuse money from Corporate PACs.
-You can read about his plan here and here .
-Invest in small towns Finally pass a bipartisan farm bill, fully fund our rural clinics and police departments, and protect our communities from data centers .
-Show up for us Hold 21 in-person town hall meetings — one in each county of the First Congressional District.
-And do that in every term that Jake serves in Congress.
+You can read the highlights of his plan here , and more details here .
+Invest in small towns Jake will work to finally pass a bipartisan farm bill, protect our communities from data centers, and fully fund our rural clinics, police departments, and public schools.
+Show up for us Jake has held 21 in-person town hall meetings — one in each county of the First Congressional District.
+And Jake will do that in every term that he serves in Congress.
 Jake doesn't take money from corporations, so he needs your support: $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other sign up to Stay up to date: First Name First Name Email Email ZIP Code ZIP Code Phone Phone Yes, please send me text updates .
 By checking this box, you are agreeing to receive informational text messages regarding campaign updates, event and fundraising reminders from the Jake Johnson for Congress campaign.
 Message frequency varies.

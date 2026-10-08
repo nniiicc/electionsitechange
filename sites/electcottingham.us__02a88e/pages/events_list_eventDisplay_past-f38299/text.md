@@ -3,7 +3,7 @@ Contact Us Volunteer Events Ballot Access My Support & Endorsements Media & Cont
 Donate Upcoming Events Types of Events: Online Events Volunteer Calls/Training Ballot Access Training Fundraiser Training In-Person Events Campaign Launch Event Town Halls/City Council Meetings Tabling at Local Events Fundraisers Canvassing Days Charity/Community Projects Parades 8 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 3/21/2026 March 21 – 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 3/21/2026 March 21 – 10/8/2026 Now Select date.
 March 2026 Sat 21 Land of Goshen Farmer’s Market March 21 @ 10:00 am – 12:00 pm Madison County Farm Bureau 900 Hillsboro Rd, Edwardsville, United States Come meet Andrew and join our team to support local farmers and small businesses, and to help us get some signatures to get on the ballot!
 Meet at the entrance at 10AM to receive your materials.
 Visit our ballot access page to view materials in advance.

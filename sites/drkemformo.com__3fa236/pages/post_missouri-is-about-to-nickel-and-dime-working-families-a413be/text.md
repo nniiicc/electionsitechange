@@ -1,5 +1,6 @@
-Missouri Is About to Nickel-and-Dime Working Families
-The penny is going away, but most Americans will get used to it.
+top of page Dr.
+Kem Smith State Representative for Missouri House District 68 Home About Events Constituent Corner Join the Movement Contact Blog More Use tab to navigate through the menu items.
+Donate All Posts Search Missouri Is About to Nickel-and-Dime Working Families DrKem Smith Mar 20 3 min read The penny is going away, but most Americans will get used to it.
 The U.S.
 Treasury stopped making pennies after it started costing 3.69 cents to make just one.
 The government says it ended production of new pennies in late 2025.
@@ -42,3 +43,6 @@ And it should not come from the same leaders who keep saying there is no money f
 The penny may be going away, but nickel-and-dime politics are still strong in Jefferson City.
 Missouri families should not be misled by talk of modernization or tax relief.
 If HJR 173 and 174 pass, the truth is clear: the wealthy will get the big benefits, and working families will be left with the small change.
+Recent Posts See All GOP’s so-called ‘Missouri First’ redistricting puts democracy last After the Tornado, St.
+Louis Needs More Than Sympathy.
+It Needs a Plan Why Missouri Must Trust Women to Choose Their Future Dr Kem Smith for Missouri State Representative info@drkemformo.com ©# by Dr Kem Smith for Missouri State Representative Paid for by Friends to Elect Dr Kem Smith bottom of page

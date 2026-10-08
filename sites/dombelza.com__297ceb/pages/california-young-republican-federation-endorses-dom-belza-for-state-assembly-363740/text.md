@@ -1,4 +1,4 @@
-Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA California Young Republican Federation Endorses Dom Belza for State Assembly Marysville, Calif. – Republican Dom Belza announced the endorsement of the California Young Republican Federation (CYRF).
+Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us Home About Issues Media News Volunteer Endorsements What They Are Saying Contact Us DONATE ENDORSE DOM BELZA California Young Republican Federation Endorses Dom Belza for State Assembly Marysville, Calif. – Republican Dom Belza announced the endorsement of the California Young Republican Federation (CYRF).
 The CYRF represents the next-generation of Republicans in California.
 Their members consist of 18 to 40-year-old working professionals.
 “Dom Belza is a strong conservative leader and the right choice to represent the North State and fight for California’s future.

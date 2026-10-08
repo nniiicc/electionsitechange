@@ -13,4 +13,4 @@ He supports local charities through the Clinton Township Kiwanis and Goodfellows
 As president of the Macomb Humane Society, he raises awareness for rescue dogs and advocates for their well-being in the State Legislature.
 He was elected State Representative for District 60 in 2022 and has worked to bring Macomb County’s concerns to Lansing.
 Follow me on Social Media!
-Contact Join our team joe@josepharagonaforhouse.com Enter your email address Submit your information now PAID FOR CTE JOE ARAGONA, 42033 COULON DR, CLINTON TWP., MI 48038 Donate
+Contact Join our team joe@josepharagonaforhouse.com Enter your email address Submit your information now PAID FOR CTE JOSEPH ARAGONA, 42033 COULON DR, CLINTON TWP., MI 48038 Donate

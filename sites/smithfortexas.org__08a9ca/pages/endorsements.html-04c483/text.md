@@ -15,7 +15,7 @@ Steven Hotze Montgomery County Tea Party Coastal Bend Republican Coalition Liber
 Law Enforcement Leaders Dallas Police Association Fort Worth Police Association Tarrant County Law Enforcement Association Tarrant County Sheriff Bill Waybourn Williamson County Sheriff Matthew Lindemann Collin County District Attorney Greg Willis Want to Endorse Thomas Smith for Texas Court of Criminal Appeals - Place 3.
 Join the above citizens, organizations and respected leaders in supporting Thomas by providing your endorsement below!
 Unless otherwise indicated in your submission, we will consider your endorsement as permission to use on this website, literature, and newspaper articles.
-This is a ★ Select Endorsement Type Personal Endorsement Professional Endorsement Organization Endorsement First Name: ★ Last Name: ★ Email: ★ Phone: ★ Endorsement Quote: ★ To help prevent spam, please answer this math question: 3+3?
+This is a ★ Select Endorsement Type Personal Endorsement Professional Endorsement Organization Endorsement First Name: ★ Last Name: ★ Email: ★ Phone: ★ Endorsement Quote: ★ To help prevent spam, please answer this math question: 6+3?
 On November 3, vote for Thomas Smith for Judge Texas Court of Criminal Appeals, Place 3 COUNTING DOWN TO Election Day Support the Campaign By submitting in your phone number, you are opting in to receive text alerts, updates, and news messages via SMS/MMS from the Texans for Thomas Smith.
 Donations may be solicited.
 Additional message and data rates may apply.

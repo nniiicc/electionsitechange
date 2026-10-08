@@ -1,18 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://fitsnews.com/2019/02/07/ridiculous-racism-allegations-at-sc-state-house",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/photos",
-"https://goo.gl/forms/Oi9dNj7HdKaQQkai1",
-"https://schousegop.org/more",
-"https://t.co/jqocTeVGkW",
-"https://thestate.com/news/politics-government/article225596285.html",
-"https://thestate.com/news/politics-government/article225600150.html",
-"https://thestate.com/news/politics-government/article225600345.html"
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "calforrest@schouse.gov",
+"href": "mailto:calforrest@schouse.gov"
+},
+{
+"text": "https://goo.gl/forms/Oi9dNj7HdKaQQkai1",
+"href": "https://goo.gl/forms/Oi9dNj7HdKaQQkai1"
+},
+{
+"text": "https://t.co/jqocTeVGkW",
+"href": "https://t.co/jqocTeVGkW"
+},
+{
+"text": "https://www.fitsnews.com/2019/02/07/ridiculous-racism-allegations-at-sc-state-house/",
+"href": "https://www.fitsnews.com/2019/02/07/ridiculous-racism-allegations-at-sc-state-house/"
+},
+{
+"text": "https://www.schousegop.org/more",
+"href": "https://www.schousegop.org/more"
+},
+{
+"text": "https://www.thestate.com/news/politics-government/article225596285.html",
+"href": "https://www.thestate.com/news/politics-government/article225596285.html"
+},
+{
+"text": "https://www.thestate.com/news/politics-government/article225600150.html",
+"href": "https://www.thestate.com/news/politics-government/article225600150.html"
+},
+{
+"text": "https://www.thestate.com/news/politics-government/article225600345.html",
+"href": "https://www.thestate.com/news/politics-government/article225600345.html"
+}
 ]

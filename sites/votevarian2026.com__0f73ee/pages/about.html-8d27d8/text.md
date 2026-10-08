@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid Community First Mission Statement: Keith Varian, an Independent candidate for U.S.
 House (FL-14), is running a "Community First" campaign focused on practical solutions for families, economic security, and representing everyday citizens.
 Combining a background in the trades with expertise in Economics and Criminal Justice, Varian aims to tackle local issues by prioritizing community needs over party politics VOTER ALERT: THE TRUTH ABOUT FLORIDA DISTRICT 14 Your current choices are keeping you in the dark about the massive financial cliffs heading straight for Tampa Bay and Hillsborough County.

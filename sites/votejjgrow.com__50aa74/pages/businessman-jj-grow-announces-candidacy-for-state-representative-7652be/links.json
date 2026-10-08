@@ -1,14 +1,54 @@
 [
-"https://facebook.com/jjgrowforflorida",
-"https://secure.anedot.com/2a1c3935-9ada-428a-bc23-c7aa38ff8231/donate",
-"https://votejjgrow.com/",
-"https://votejjgrow.com/about",
-"https://votejjgrow.com/endorsements",
-"https://votejjgrow.com/issues",
-"https://votejjgrow.com/jj-grow-secures-ballot-placement-launches-first-ad-in-house-race",
-"https://votejjgrow.com/news",
-"https://votejjgrow.com/platform",
-"https://votejjgrow.com/privacy-policy",
-"https://votejjgrow.com/volunteer",
-"https://youtube.com/channel/UCO0WLT-0Ew9PWkVFBG6TOGg"
+{
+"text": "About",
+"href": "https://www.votejjgrow.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/2a1c3935-9ada-428a-bc23-c7aa38ff8231/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejjgrow.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.votejjgrow.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.votejjgrow.com/issues/"
+},
+{
+"text": "JJ Grow Secures Ballot Placement, Launches First Ad in House Race",
+"href": "https://www.votejjgrow.com/jj-grow-secures-ballot-placement-launches-first-ad-in-house-race/"
+},
+{
+"text": "Link to Facebook",
+"href": "https://www.facebook.com/jjgrowforflorida"
+},
+{
+"text": "Link to Youtube",
+"href": "https://www.youtube.com/channel/UCO0WLT-0Ew9PWkVFBG6TOGg"
+},
+{
+"text": "News",
+"href": "https://www.votejjgrow.com/news/"
+},
+{
+"text": "Platform",
+"href": "https://www.votejjgrow.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejjgrow.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejjgrow.com/volunteer/"
+},
+{
+"text": "[image: JJ Grow]",
+"href": "https://www.votejjgrow.com/"
+}
 ]

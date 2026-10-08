@@ -61,15 +61,15 @@
 },
 {
 "text": "Export .ics file",
-"href": "https://jordanjherrera.com/events/2026-10-08/?ical=1"
+"href": "https://jordanjherrera.com/events/today/?ical=1"
 },
 {
 "text": "Export Outlook .ics file",
-"href": "https://jordanjherrera.com/events/2026-10-08/?outlook-ical=1"
+"href": "https://jordanjherrera.com/events/today/?outlook-ical=1"
 },
 {
 "text": "Google Calendar",
-"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist"
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
 },
 {
 "text": "Home",
@@ -121,11 +121,11 @@
 },
 {
 "text": "Outlook 365",
-"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Jordan+J+Herrera+Events+%E2%80%93+Jordan+J+Herrera"
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Jordan+J+Herrera+Events+%E2%80%93+Jordan+J+Herrera"
 },
 {
 "text": "Outlook Live",
-"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26tribe-bar-date%3D%23%26ical%3D1%26eventDisplay%3Dlist&name=Jordan+J+Herrera+Events+%E2%80%93+Jordan+J+Herrera"
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fjordanjherrera.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Jordan+J+Herrera+Events+%E2%80%93+Jordan+J+Herrera"
 },
 {
 "text": "Phone: +1 816-287-2326",
@@ -209,6 +209,6 @@
 },
 {
 "text": "iCalendar",
-"href": "webcal://jordanjherrera.com/?post_type=tribe_events&tribe-bar-date=%23&ical=1&eventDisplay=list"
+"href": "webcal://jordanjherrera.com/?post_type=tribe_events&ical=1&eventDisplay=list"
 }
 ]

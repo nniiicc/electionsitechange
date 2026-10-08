@@ -2,6 +2,6 @@ scottbendettforassembly@gmail.com Facebook X Instagram RSS Facebook X Instagram 
 My focus is on providing exceptional service that caters exclusively to your needs.
 I’m are here to listen and work tirelessly to ensure your satisfaction.
 My top priority is to work for you.
-Name Email Address Message 14 + 15 = send message Don’t miss any updates Get subscribed!
+Name Email Address Message 7 + 1 = send message Don’t miss any updates Get subscribed!
 Success!
 Name Email Facebook X Instagram RSS

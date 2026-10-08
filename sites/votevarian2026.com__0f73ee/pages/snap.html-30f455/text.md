@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid Contact me here and leave a message if you have questions or need help.
 To avoid a "denial of benefits" for failure to provide information, help residents gather these items for their MyACCESS Florida Portal upload or local office visit. 📋 SNAP 2026 Recertification Checklist 1.
 Identity & Household (Required for All) Proof of Identity: Driver’s license, state ID, or passport.

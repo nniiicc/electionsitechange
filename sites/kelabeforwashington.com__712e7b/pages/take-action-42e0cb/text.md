@@ -1,4 +1,4 @@
-0 Skip to Content About Priorities Events Take Action Endorsements Contact Us Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Donate Join the Youth Council!
+0 Skip to Content About Priorities Events Take Action Endorsements Contact Us Media Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Media Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Media Donate Join the Youth Council!
 Are you 16-22 years old and want to have a civically engaged summer?
 Join the Kelabe for Washington Youth Council!
 Youth Council members will shape policy, raise funds, build organizing and campaign skills.

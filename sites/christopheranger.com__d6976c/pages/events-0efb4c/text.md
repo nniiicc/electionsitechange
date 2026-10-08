@@ -1,4 +1,4 @@
 Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Events More events coming soon!
 If you are interested in hosting an event contact us.
-#ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+#ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 Voter Information Endorsements Yard Signs Events Photos Contact News PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE Powered by CampaignPartner.com - Political Websites Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Endorsements Yard Signs Contact Close Menu

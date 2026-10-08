@@ -1,7 +1,7 @@
 Skip to main content Meet Josh The Platform Events Media Get Involved Store Donate Donate Menu Meet Josh The Platform Events Media Get Involved Store Donate 10 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 9/12/2026 September 12 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 9/12/2026 September 12 - 10/8/2026 Now Select date.
 September 2026 Sat 12 Holt County Autumn Festival Parade September 12 @ 1:00 pm - 3:00 pm Join Josh as he walks in the Holt County Autumn Festival Parade with the Holt County Democrats.
 Sat 12 Democrat Candidates Picnic September 12 @ 6:00 pm - 9:00 pm Come join us for good food, conversation, and a chance to get to know your local candidates!
 Sat 19 Jesse James Days Parade September 19 @ 9:00 am Join Team Smead at the Jesse James Day Parade We’re looking for volunteers to walk alongside Josh in the parade, meet folks in the community, and help us show strong grassroots support across North Missouri.

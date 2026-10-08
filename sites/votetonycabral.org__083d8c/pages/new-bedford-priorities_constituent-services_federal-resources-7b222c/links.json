@@ -1,23 +1,98 @@
 [
-"http://benefits.va.gov/benefits",
-"http://house.gov/",
-"http://mass.gov/ago/consumer-resources/your-rights/veterans-resources/veterans-resource-guide.html",
-"http://senate.gov/",
-"http://va.gov/",
-"https://dol.gov/vets",
-"https://loc.gov/",
-"https://secure.actblue.com/donate/tony-cabral-1",
-"https://usa.gov/",
-"https://votetonycabral.org/",
-"https://votetonycabral.org/contact-2",
-"https://votetonycabral.org/leadership",
-"https://votetonycabral.org/legislation",
-"https://votetonycabral.org/legislation/gateway-cities-caucus",
-"https://votetonycabral.org/legislation/joint-committee-on-state-administration-and-regulatory-oversight",
-"https://votetonycabral.org/meet-tony",
-"https://votetonycabral.org/new-bedford-priorities",
-"https://votetonycabral.org/new-bedford-priorities/constituent-services",
-"https://votetonycabral.org/news-blog",
-"https://votetonycabral.org/volunteer",
-"https://whitehouse.gov/"
+{
+"text": "Constituent Services",
+"href": "https://votetonycabral.org/new-bedford-priorities/constituent-services/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tony-cabral-1"
+},
+{
+"text": "Federal Department of Veterans Website for Returning Service Members (OEF/OIF/OND)",
+"href": "http://www.mass.gov/ago/consumer-resources/your-rights/veterans-resources/veterans-resource-guide.html"
+},
+{
+"text": "Gateway cities caucus",
+"href": "https://votetonycabral.org/legislation/gateway-cities-caucus/"
+},
+{
+"text": "Home",
+"href": "https://votetonycabral.org/"
+},
+{
+"text": "Joint committee on state administration and regulatory oversight",
+"href": "https://votetonycabral.org/legislation/joint-committee-on-state-administration-and-regulatory-oversight/"
+},
+{
+"text": "Leadership",
+"href": "https://votetonycabral.org/leadership/"
+},
+{
+"text": "Legislation",
+"href": "https://votetonycabral.org/legislation/"
+},
+{
+"text": "Library of Congress",
+"href": "https://www.loc.gov/"
+},
+{
+"text": "Meet Tony",
+"href": "https://votetonycabral.org/meet-tony/"
+},
+{
+"text": "New Bedford",
+"href": "https://votetonycabral.org/new-bedford-priorities/"
+},
+{
+"text": "New Bedford Priorities",
+"href": "https://votetonycabral.org/new-bedford-priorities/"
+},
+{
+"text": "News",
+"href": "https://votetonycabral.org/news-blog/"
+},
+{
+"text": "Official Website of the U.S. Government",
+"href": "https://www.usa.gov/"
+},
+{
+"text": "Priorities",
+"href": "https://votetonycabral.org/legislation/"
+},
+{
+"text": "The White House",
+"href": "https://www.whitehouse.gov/"
+},
+{
+"text": "United States Department of Labor – Veterans’ Employment and Training Services",
+"href": "https://www.dol.gov/vets/"
+},
+{
+"text": "United States Department of Veterans Affairs",
+"href": "http://www.va.gov/"
+},
+{
+"text": "United States House of Representatives",
+"href": "http://www.house.gov/"
+},
+{
+"text": "United States Senate",
+"href": "http://www.senate.gov/"
+},
+{
+"text": "Veterans Benefits Administration",
+"href": "http://benefits.va.gov/benefits/"
+},
+{
+"text": "Volunteer",
+"href": "https://votetonycabral.org/volunteer/"
+},
+{
+"text": "[image: Tony Cabral]",
+"href": "https://votetonycabral.org/"
+},
+{
+"text": "contact",
+"href": "https://votetonycabral.org/contact-2/"
+}
 ]

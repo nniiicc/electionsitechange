@@ -1,4 +1,4 @@
-0 Skip to Content Home About Volunteer Upcoming Events Platform The Issues Media Donate Open Menu Close Menu Home About Volunteer Upcoming Events Platform The Issues Media Donate Open Menu Close Menu Home About Volunteer Upcoming Events Folder: Platform Back The Issues Media Donate The Issues: Healthcare It is time we do what we can in Wisconsin to deliver better care.
+0 Skip to Content Home About Volunteer/Signs Upcoming Events Platform The Issues Media Donate Open Menu Close Menu Home About Volunteer/Signs Upcoming Events Platform The Issues Media Donate Open Menu Close Menu Home About Volunteer/Signs Upcoming Events Folder: Platform Back The Issues Media Donate The Issues: Healthcare It is time we do what we can in Wisconsin to deliver better care.
 I support a single-payer health system, but until the federal government acts, we need to provide the best system possible in Wisconsin.
 Some things we can do now: In 2025, 1.3 million Wisconsin residents relied on Medicaid.
 Numerous Wisconsin medical clinics and hospitals would close without Medicaid funds; I oppose any cuts to Medicaid and will work to expand Medicaid in Wisconsin.

@@ -1,5 +1,5 @@
-What's Up With the Heart?
-I have gotten a lot of comments about it, people (who I know want the best for me) say the heart makes me look “weak” or “girly”.
+top of page About Erika About Erika Contact About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate All Posts News Affordability Mental Health Schools Taxes Corruption & Accountability What's Up With the Heart?
+Campaign Staff Sep 21 3 min read I have gotten a lot of comments about it, people (who I know want the best for me) say the heart makes me look “weak” or “girly”.
 Ok...
 The girls I know are tough, but I get you typically don’t see hearts in State Senate campaigns.
 Here’s the deal, our world is pretty closed off right now, people choose sides and shut their minds to those with different perspectives.
@@ -21,7 +21,12 @@ So here's my answer to the people who worry the heart makes me look soft: they'v
 It takes more strength to lead with an open heart than a closed fist.
 Anyone can shut people out, write off half the electorate, or govern by talking points.
 It takes real grit to sit on a porch with someone who disagrees with you, actually listen, and still show up the next day ready to fight for policies that help them too.
-That's the kind of State Senator I intend to be: heart open, backbone strong.
+That's the kind of State Senator I intend to be: heart open, backbone strong .
 Whatcom County doesn't need more politicians drawing lines and creating division.
 We need someone willing to knock on every door, hear every concern, and have the tenacity to turn that understanding into results that build bridges.
 That's what I'm asking for your vote to do.
+Recent Posts See All Whatcom County Is Too Expensive.
+We Need More Affordability.
+Dr.
+Erika Creydt Grateful to Advance to General Election, Honors Fellow Candidates Dr.
+Erika Creydt Advances to the General Election With Growing Grassroots Momentum Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About Erika About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

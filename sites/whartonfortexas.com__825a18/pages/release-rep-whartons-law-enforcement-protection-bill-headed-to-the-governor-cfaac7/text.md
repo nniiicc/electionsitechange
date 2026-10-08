@@ -10,7 +10,7 @@ HB 2217 provides a critical funding mechanism to help close that gap and enhance
 HB 2217 was the first bill proudly filed by Representative Wharton after taking the oath of office.
 Senator Brent Hagenbuch (SD-30) sponsored the bill in the Senate and played a key role in its successful passage.
 Once signed by the Governor, the legislation will go into effect on September 1, 2025.
-### HB 2217 Press Release FINAL Download Post navigation Previous post: Prev RELEASE: Wharton Bill Honoring Navasota Sergeant Mark Butler Advances to Governor May 27, 2025 Next post: Next RELEASE: State Representative Trey Wharton to Open District Office in Huntsville June 25, 2025 You May Also Like Posted May 27, 2025 in TXLege News RELEASE: Wharton Bill Honoring Navasota Sergeant Mark Butler Advances to Governor Posted February 7, 2025 in TXLege News RELEASE: Rep.
+### HB 2217 Press Release FINAL Download Post navigation Previous post: Prev RELEASE: Wharton Bill Honoring Navasota Sergeant Mark Butler Advances to Governor May 27, 2025 Next post: Next RELEASE: State Representative Trey Wharton to Open District Office in Huntsville June 25, 2025 You May Also Like Posted June 25, 2025 in TXLege News RELEASE: State Representative Trey Wharton to Open District Office in Huntsville Posted February 7, 2025 in TXLege News RELEASE: Rep.
 Trey Wharton Joins Texas Bicameral Water Caucus Search for: Archives March 2026 July 2025 June 2025 May 2025 February 2025 Recent Posts RELEASE: Texas State Rep.
 Trey...
 March 27, 2026 RELEASE: State Representative ...

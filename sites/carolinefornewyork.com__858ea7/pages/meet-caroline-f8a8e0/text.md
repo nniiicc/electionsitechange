@@ -19,4 +19,4 @@ This means letting people keep more of what they earn, letting people choose how
 New York City once spoke to those looking for hope as a beacon of opportunity.
 Not the hope that the government would take control of you.
 But the promise that, through economic freedom, anything was possible.
-Caroline Shinkle’s Priorities Caroline Shinkle's Vision Donate Now ↗     Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress
+Caroline Shinkle’s Priorities Caroline Shinkle's Vision Donate Now ↗      Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress

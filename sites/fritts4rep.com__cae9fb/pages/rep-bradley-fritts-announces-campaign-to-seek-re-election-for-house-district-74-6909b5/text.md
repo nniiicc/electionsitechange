@@ -8,9 +8,8 @@ In my first term, I passed four bills through the Illinois House, all of which w
 I made over 38 stops on my summer tour, speaking with hundreds of district residents, local officials, job creators, nonprofit leaders, and constituents in need of assistance.” “I am proud of the work we have accomplished in my first term, but there is always more work to be done.
 Rural Illinois is feeling the effects of urban legislators who have continued to ignore our part of the state over many years.
 Crumbling infrastructure, lack of access to medical care, rising crime, and desperate need for economic development are just a few of the reasons why I am running for re-election.” “I am honored to serve my constituents by focusing on real, bipartisan solutions, and I look forward to receiving your vote on March 19th.” ### You Might Also Like Rep.
-Brad Fritts Wins Bid for Re-Election to Illinois House District 74 November 5, 2024 Rep.
-Fritts Condemns Senate Bill 2412 May 2, 2024 Rep.
-Fritts Completes Summer Tour; Continues Efforts to Meet Every Constituent in District 74 September 13, 2023 Young Conservative Voice Fighting for Common Sense Values.
+Fritts Responds to State of the State and Budget Address February 22, 2024 Rep.
+Fritts Condemns Senate Bill 2412 May 2, 2024 Fritts Seeks Third Term in Illinois House July 14, 2025 Young Conservative Voice Fighting for Common Sense Values.
 Facebook Instagram Home Meet Brad The Issues Agriculture Public Safety Local Control Affordability Get Involved Newsroom Contact Donate Hamburger Toggle Menu Address Citizens for Bradley J.
 Fritts P.O.
 Box 1014 Dixon, IL 61021 Paid for by Citizens for Bradley J.

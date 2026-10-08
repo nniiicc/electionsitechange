@@ -1,4 +1,4 @@
-Skip Navigation Menu Priorities About Get Involved Volunteer Merch Donate Priorities About Get Involved Volunteer Merch Donate Keep in Touch!
+Skip Navigation Menu Vote Priorities About Get Involved Volunteer Merch Donate Vote Priorities About Get Involved Volunteer Merch Donate Keep in Touch!
 Connect & Keep up Want Updates?
 This people powered campaign is ramping up at light speed!
 If you want to learn more about Melat's campaign, events, opportunities, community outreach and resources?

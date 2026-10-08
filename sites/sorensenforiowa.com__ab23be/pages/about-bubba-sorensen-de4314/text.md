@@ -1,4 +1,4 @@
-Home - Vote Bubba About - Bubba Sorensen Donate Iowa HD 23 Newsletters Legis Coffees Ribeyes and Republicans Contact Bubba Merch Biography Ray Sorensen was born in Creston, Iowa and raised in Fontanelle, Iowa.
+Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home - Vote Bubba About - Bubba Sorensen Donate Iowa HD 23 Newsletters Legis Coffees Ribeyes and Republicans Contact Bubba Merch Shop Account Orders My Account Sign out Sign In Orders My Account Biography Ray Sorensen was born in Creston, Iowa and raised in Fontanelle, Iowa.
 Ray was given the nickname "Bubba" by his dad, as he was a chubby baby, and the name stuck.
 Bubba grew up playing sports, showing cattle and drawing.
 His love for artwork carried into a career as a Graphic Designer and a mural artist.
@@ -23,5 +23,5 @@ We will tackle Workforce, Childcare, Economic Development issues, as well as, Cy
 Federal and Other Funds Federal and Other Funds Federal and Other Funds This newly created committee looks to work with the Federal Government on having a bit more say in how the Fed Funds are spent in our State.
 Veterans Affairs Federal and Other Funds Federal and Other Funds Overseeing matters related to Veterans in our State.
 Although most Veterans issues are tackled by the Feds, we work on issues like the Iowa Veterans Home and the Iowa Veterans Trust Fund.
-Instagram Copyright © # Sorensen For Iowa - All Rights Reserved.
+Instagram Follow me on Instagram Copyright © # Sorensen For Iowa - All Rights Reserved.
 Home - Vote Bubba Terms and Conditions Bubba Merch

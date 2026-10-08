@@ -7,7 +7,7 @@ Msg frequency may vary.
 Messaging may include requests for donation.
 Reply "STOP" to opt-out & "HELP" for help.
 View Privacy Policy for more info.
-Comments: ★ To help prevent spam, please answer this math question: 5-4?
+Comments: ★ To help prevent spam, please answer this math question: 9-7?
 Twitter Facebook LinkedIn Email Donate Volunteer Contact Connect With Us COUNTING DOWN TO Election Day Support the Campaign Poll What are your most important issues and concerns?
 Option 1 Option 2 Option 3 Option 4 View without voting Events Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-23-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-06-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 09-23-2026 Read More...
 Help Us Win!

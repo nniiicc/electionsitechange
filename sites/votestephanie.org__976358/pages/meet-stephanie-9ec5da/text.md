@@ -29,4 +29,4 @@ She also modified how population data is calculated for the purposes of tax and 
 Prior to the passing of this bill, money was distributed based on census data, which is rear facing and always lags by several years.
 Under the new policy state data, which is more responsive to the extreme growth being experienced in the district, is used as the primary data source.
 This gave Eagle Mountain City a significant bump in population numbers which has a positive impact on the amount of money the area will receive for roads and other things.
-You can view Stephanie’s current legislation HERE.  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 1 + 9 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.
+You can view Stephanie’s current legislation HERE.  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 3 + 10 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

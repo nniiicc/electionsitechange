@@ -6,7 +6,8 @@ Use the form to send us a message, and a member of the Scott T.
 Jackson campaign team will respond as soon as possible.
 Campaign Headquaters Loganville, GA Phone Number (404) 953-5268 Email Address info@scotttjacksonforga.com Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Full Name * Email * How we can Phone Number (Optional) How can we help? * Choose a topic General Inquiry Media Inquiry Event Information Volunteer Support Campaign Support Message * Submit Become a Volunteer Help build a stronger future for Georgia by volunteering with the Scott T.
+Number Message help?
+Full Name * Email * Phone Number (Optional) How can we help? * Choose a topic General Inquiry Media Inquiry Event Information Volunteer Support Campaign Support Message * Submit Become a Volunteer Help build a stronger future for Georgia by volunteering with the Scott T.
 Jackson campaign.
 Whether you can knock on doors, make phone calls, attend events, or help spread the word online, your support makes a difference.
 Volunteer Now Contact Us Leadership.

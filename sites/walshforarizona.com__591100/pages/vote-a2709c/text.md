@@ -1,4 +1,4 @@
-top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
+top of page Stephanie Walsh DEMOCRATIC CANDIDATE FOR ARIZONA SENATE DONATE Home Her Words About Stephanie Press Priorities Vote Events More Use tab to navigate through the menu items.
 Voting is our pathway Legislative District 14 is in Maricopa County, the fourth largest county in the country.
 Most of the voters in LD14 reside in the Town of Gilbert and some in Chandler and Queen Creek.
 Map of Legislative Distrct 14: Are you ready to vote?

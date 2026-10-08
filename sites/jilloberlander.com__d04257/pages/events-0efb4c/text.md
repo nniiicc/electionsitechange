@@ -1,13 +1,13 @@
 About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Events 7 events found.
 Events Views Navigation Event Views Navigation List List #ago Upcoming Upcoming Select date.
-October 2026 Mon 5 Daily neighborhood door knocking Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Jill’s team will be knocking doors daily in Greenwich, Stamford and New Canaan to get Jill’s message out to voters across the district.
+October 2026 Thu 8 Daily neighborhood door knocking Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Jill’s team will be knocking doors daily in Greenwich, Stamford and New Canaan to get Jill’s message out to voters across the district.
 Join us!
 No experience necessary.
 We will train you and pair you up.
 Questions?
 Reach out to Jack@JillOberlander.com.
 Sign up to door knock here.
-Pick the times and locations that work for […] Mon 5 Weekday phone bank: every weekday 4-6 pm Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Help us make phone calls to voters.
+Pick the times and locations that work for […] Thu 8 Weekday phone bank: every weekday 4-6 pm Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Help us make phone calls to voters.
 Join our virtual phone bank: weekdays 4-6 pm.
 No experience necessary.
 We will train you and provide support.

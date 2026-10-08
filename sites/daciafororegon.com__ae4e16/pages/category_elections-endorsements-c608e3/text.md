@@ -1,5 +1,16 @@
-MultDems Member Spotlight: Dacia Grayber
-Dacia Grayber is many things: a firefighter, paramedic, mom and activist.
+Skip to content Dacia for Oregon Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact DONATE Meet Dacia Our Work Endorsements Media Volunteer Contact Elections & Endorsements MultDems Member Spotlight: Dacia Grayber Elections & Endorsements / Dacia Grayber Dacia Grayber is many things: a firefighter, paramedic, mom and activist.
 She’s been a PCP and Neighborhood Leader.
-She served as State Representative for Oregon House of Representatives District 35 during 2021-2023…
-MultDems Member Spotlight: Dacia Grayber Read More »
+She served as State Representative for Oregon House of Representatives District 35 during 2021-2023… MultDems Member Spotlight: Dacia Grayber Read More » Tigard Representative Weighs in on Redistricting Efforts Elections & Endorsements / Dacia Grayber The recently approved agreement by the Oregon Legislature to redraw state congressional and legislative district lines will significantly impact Oregon House District 35, a seat currently held by Democrat Dacia Grayber… Tigard Representative Weighs in on Redistricting Efforts Read More » Willamette Weekly’s November 2020 Endorsements for Oregon House Elections & Endorsements / Dacia Grayber A firefighter and paramedic who has been on the front lines of both pandemic and forest fires, Dacia Grayber, 45, has faced head on the crises of this year… Willamette Weekly’s November 2020 Endorsements for Oregon House Read More » Emergency?
+Send a firefighter to the House Elections & Endorsements / Dacia Grayber The week after Labor Day, as other political candidates were making campaign phone calls, Dacia Grayber was putting in long hours fighting catastrophic wildfires.
+But in four months time, she’ll most likely be the newest Democratic state representative for Tigard in the Oregon Legislature… Emergency?
+Send a firefighter to the House Read More » WW’s May 2020 Endorsements for Oregon Legislature Elections & Endorsements / Dacia Grayber Rep.
+Margaret Doherty (D-Tigard) is stepping down after a decade representing this swath of hilly suburbs southwest of Portland.
+The pick to replace her is an easy one: Dacia Grayber is a firefighter and paramedic with Tualatin Valley Fire & Rescue… WW’s May 2020 Endorsements for Oregon Legislature Read More » A Union Guide to Oregon’s May 19 Primary Election Elections & Endorsements / Dacia Grayber Oregon ballots can be confusing and crowded.
+This guide lists only candidates who have opponents on the ballot, and only those who have at least one union endorsing them… A Union Guide to Oregon’s May 19 Primary Election Read More » Join Dacia Grayber for Oregon House District 28 Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Phone Number Postal Code Postal Checkboxes Number Checkboxes By checking this box, you consent to receive campaign and news updates from Dacia Grayber.
+You can unsubscribe anytime.
+COUNT ME IN Donate Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
+All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.
+Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact Meet Dacia Our Work Endorsements Media Volunteer Contact

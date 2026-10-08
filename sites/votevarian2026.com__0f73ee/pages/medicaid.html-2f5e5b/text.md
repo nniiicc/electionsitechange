@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition West Tampa Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid MEDicaid People face strict income limits, non-expansion rules, and high administrative hurdles when trying to get Medicaid in Florida.
 Strict Eligibility and Non-Expansion No ACA Expansion: Florida is one of the states that chose not to expand Medicaid under the Affordable Care Act (ACA).
 As noted on Reddit , opinions on eligibility are mixed, but users and policy experts point out that “Florida has not expanded Medicaid, making it harder to qualify without personal disability approval.” Adults without dependent children, seniors, or those not classified as disabled or pregnant generally do not qualify, regardless of low income.

@@ -1,18 +1,82 @@
 [
-"http://prolifesociety.net/",
-"http://resurrectionwg.org/",
-"http://southeasternfoodbank.com/",
-"https://apopkapregnancy.org/",
-"https://convergepay.com/hosted-payments?ssl_txn_auth_token=BWYRELlcT4uXd%2BaGEQIg7AAAAY2PJi3p",
-"https://grovesforcongress.com/",
-"https://grovesforcongress.com/gallery",
-"https://grovesforcongress.com/libertarian-resolutions",
-"https://grovesforcongress.com/meet-ralph-groves",
-"https://grovesforcongress.com/my-letters",
-"https://grovesforcongress.com/my-mission",
-"https://grovesforcongress.com/position-papers",
-"https://grovesforcongress.com/press-releases",
-"https://jmjpc.org/",
-"https://prolifeaction.org/",
-"https://southeasternfoodbank.com/volunteer/food-for-families"
+{
+"text": "Citizens for a Pro-Life Society",
+"href": "http://prolifesociety.net/"
+},
+{
+"text": "DONATE",
+"href": "https://www.convergepay.com/hosted-payments/?ssl_txn_auth_token=BWYRELlcT4uXd%2BaGEQIg7AAAAY2PJi3p"
+},
+{
+"text": "Gallery",
+"href": "https://www.grovesforcongress.com/gallery"
+},
+{
+"text": "GrovesForCongress@Proton.me",
+"href": "mailto:GrovesForCongress@Proton.me"
+},
+{
+"text": "Home",
+"href": "https://www.grovesforcongress.com"
+},
+{
+"text": "Letters",
+"href": "https://www.grovesforcongress.com/my-letters"
+},
+{
+"text": "Meet Ralph Groves",
+"href": "https://www.grovesforcongress.com/meet-ralph-groves"
+},
+{
+"text": "Mission",
+"href": "https://www.grovesforcongress.com/my-mission"
+},
+{
+"text": "Position Papers",
+"href": "https://www.grovesforcongress.com/position-papers"
+},
+{
+"text": "Press Releases",
+"href": "https://www.grovesforcongress.com/press-releases"
+},
+{
+"text": "Pro-Life Action League",
+"href": "https://prolifeaction.org/"
+},
+{
+"text": "Ralph Groves For Congress",
+"href": "https://www.grovesforcongress.com"
+},
+{
+"text": "Resolutions",
+"href": "https://www.grovesforcongress.com/libertarian-resolutions"
+},
+{
+"text": "[image: Libertarian Party logo]",
+"href": "https://www.grovesforcongress.com"
+},
+{
+"text": "https://apopkapregnancy.org/",
+"href": "https://apopkapregnancy.org/"
+},
+{
+"text": "https://www.southeasternfoodbank.com/volunteer/food-for-families",
+"href": "https://www.southeasternfoodbank.com/volunteer/food-for-families"
+},
+{
+"text": "jmjpc.org",
+"href": "https://jmjpc.org/"
+},
+{
+"text": "resurrectionwg.org",
+"href": "http://resurrectionwg.org"
+},
+{
+"text": "southeasternfoodbank.com",
+"href": "http://www.southeasternfoodbank.com/"
+},
+{
+"text": "www.SoutheasternFoodBank.com",
+"href": "http://www.southeasternfoodbank.com"
+}
 ]

@@ -16,8 +16,9 @@ Currently there are 41 data centers in Maryland near cities like Baltimore, Fred
 We retired several fossil fuel plants in favor of renewable sources that the President has blocked.
 The Maryland General Assembly has proposed two bills seeking direct rebates to families and power grid modernization.
 I support these bills and will work toward transitioning from fossil to renewable sources.
-What I Intend to do if elected I intend to support or sponsor the following: An increase in the State minimum wage.
-A moratorium on new data center construction, with a rescission of data center specific zoning exceptions until we can sort this out.
+What I Intend to do if elected I intend to support or sponsor the following: A regional water resource availability (hydrology) study.
+An increase in the State minimum wage.
+A moratorium on new data center construction until we can sort this out.
 Explore options for retraining people to work under AI.
 Support the transition to renewable sources of energy to reduce utilities' burden on our community.
 A Voice for Southern Maryland New ideas, a new perspective, and new energy to be an advocate for our community.

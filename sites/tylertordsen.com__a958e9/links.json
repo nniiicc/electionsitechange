@@ -48,10 +48,6 @@
 "href": "https://tylertordsen.com/contact/"
 },
 {
-"text": "Submit a form.",
-"href": "https://tylertordsen.com/"
-},
-{
 "text": "TYLER TORDSEN",
 "href": "https://tylertordsen.com/"
 },
@@ -82,5 +78,9 @@
 {
 "text": "[tooltip: Create a website or blog at WordPress.com]",
 "href": "https://wordpress.com/"
+},
+{
+"text": "← Back",
+"href": "https://tylertordsen.com/"
 }
 ]

@@ -1,5 +1,5 @@
 Skip to content × Home Issues About Endorsements Get Involved Contact Donate CHIP IN TODAY Fund the fight for District 10B Your contribution pays for the signs, mailers, and door-knocks that win elections.
-Make your contribution Donate Here Contributions to Skaug for Idaho are not tax-deductible.
+Make your contribution Contributions to Skaug for Idaho are not tax-deductible.
 By contributing you certify that you are a U.S. citizen or lawfully admitted permanent resident and that the contribution is made from your own funds.
 Idaho campaign finance limits apply.
 Where your money goes Yard signs Blanket the district with the name voters already trust.

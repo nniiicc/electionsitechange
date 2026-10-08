@@ -4,6 +4,6 @@ We won in 2022 and we are going to do it again.
 It would mean so much to have your support as we launch this campaign and share our vision for the future of our community.
 The event location is in Wyandotte and will be shared upon RSVP.
 If you have any questions please contact us via email at: layla@jaimechurches.com.
-To purchase a ticket in advance, please visit: https://secure.actblue.com/donate/churches-kickoff-2026 I hope to see you there! -jaime Previous Previous June 26 Elba Island Event About ‍ ‍ Contact ‍ ‍ Subscribe ‍ ‍ Volunteer ‍ ‍ Donate‍ ‍ Paid for by Friends of Jaime Churches | info@jaimechurches.com | PO Box 23 Grosse Ile, MI 48138 | Political donations are not tax exempt.
+To purchase a ticket in advance, please visit: https://secure.actblue.com/donate/churches-kickoff-2026 I hope to see you there! -jaime About ‍ ‍ Contact ‍ ‍ Subscribe ‍ ‍ Volunteer ‍ ‍ Donate‍ ‍ Paid for by Friends of Jaime Churches | info@jaimechurches.com | PO Box 23 Grosse Ile, MI 48138 | Political donations are not tax exempt.
 Friends of Jaime Churches upholds stringent privacy standards, guaranteeing that the personal information of our users and members remains confidential and is never sold, rented out, disclosed, or exchanged with any third parties unless explicitly authorized by the user or required by law.
 Contact us at: jaime@jaimechurches.com

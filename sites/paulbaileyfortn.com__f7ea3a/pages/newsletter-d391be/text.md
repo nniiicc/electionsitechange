@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 CONTACT SENATOR BAILEY Send A Message Your Name (Required) First Last Your Email Address (Required) Phone Number Your Zip Code (Required) Subject Message Marketing Opt-In Please keep me informed of future events and district news!
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 CONTACT SENATOR BAILEY Send A Message Your Name (Required) First Last Your Email Address (Required) Phone Number Your Zip Code (Required) Subject Message Marketing Opt-In Please keep me informed of future events and district news!
 SMS Opt-In I agree to receive text messages from Paul Bailey for TN.
 Message and data rates may apply.
 Message frequency varies.

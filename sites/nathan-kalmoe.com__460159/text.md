@@ -1,8 +1,7 @@
 Search this site Embedded Files Skip to main content Skip to navigation UPCOMING!
 Sat 10/10!
 Listening Session @ Cross Plains Rosemary Garfoot Public Library, 11:30-12:30!
-What issues matter to you?
-What are your concerns?
+What matters to you?
 Nathan for WI Senate Home Meet Nathan What We Want Donate!
 Take Action!
 Listening to YOU News & Videos Scholarship WI History Contact Nathan for WI Senate Home Meet Nathan What We Want Donate!
@@ -30,7 +29,7 @@ Hesselbein's last real primary was in 2012, when she ran for Assembly the first 
 That means our district hasn't had a choice over who represents us.
 Now we have a choice!
 For governor, we had a choice.
-I chose Hong.
+I chose Hong .
 Now I'll vote Crowley & push him to fully embrace our progressive priorities.
 A vote for all of us.
 All of us deserve more freedom in our lives , not be controlled by the whims of our bosses, healthcare CEOs, supremacists of all kinds, & governing leaders who don’t represent us in any way.

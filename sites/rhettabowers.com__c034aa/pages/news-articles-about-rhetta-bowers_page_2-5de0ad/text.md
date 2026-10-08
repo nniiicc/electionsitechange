@@ -12,7 +12,7 @@ Representative Bowers to participate in Town hall sponsored by the Texas Legisla
 A community conversation hosted by Read More » June 16, 2020 « Previous Page 1 Page 2 Page 3 Page 4 Page 5 Next » Share on facebook Share on twitter Share on linkedin Share on whatsapp About Rhetta Representative Bowers was elected to serve House District 113 in the Texas House of Representatives on November 8, 2018.
 She made history elected as the first African American to represent this district.
 House District 113 includes all or parts of Rowlett, Garland, Mesquite, Sunnyvale, Seagoville, Combine, Balch Springs, and Dallas.
-Facebook-f Twitter Instagram Recent Posts HD113 Coronavirus (COVID-19) Update | Resources for Small Business Read More » Rhetta is endorsed by STONEWALL Democrats of Dallas Read More » DMN Coverage of 4th Annual Dallas Women’s March Read More » Search Help us deliver on our promises for the people of District 113 Donate Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Facebook-f Twitter Instagram Recent Posts Working Together – Let’s Re-elect Rhetta Andrews Bowers Read More » HD113 Coronavirus (COVID-19) Update | Resources for Small Business Read More » Rhetta is a Spelman Woman to Watch Read More » Search Help us deliver on our promises for the people of District 113 Donate Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
 Bowers for HD113 team.
 Help your community.
 Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.

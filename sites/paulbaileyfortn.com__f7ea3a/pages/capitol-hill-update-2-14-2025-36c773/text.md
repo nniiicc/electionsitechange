@@ -1,6 +1,6 @@
 Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
 Not a member?
-Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 2/14/2025 Capitol Hill Update 2/14/2025 A snapshot of my week in Nashville Governor Lee delivers annual State of the State address This week Governor Bill Lee delivered his seventh State of the State address where he laid out his 2025 budget priorities.
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=b1d28cf951 Home Weekly Capitol Update / Capitol Hill Update 2/14/2025 Capitol Hill Update 2/14/2025 A snapshot of my week in Nashville Governor Lee delivers annual State of the State address This week Governor Bill Lee delivered his seventh State of the State address where he laid out his 2025 budget priorities.
 Lee’s proposed $59.5 billion budget includes strategic investments to secure a prosperous future for Tennessee.
 It prioritizes economic and educational opportunities, infrastructure, protecting communities and preserving Tennessee’s natural resources.
 Continued Fiscal Responsibility Governor Lee and the General Assembly remain committed to the state’s economic future through fiscal responsibility and promoting economic development.

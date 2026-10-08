@@ -41,4 +41,4 @@ Changes to This Policy We may update this Privacy Policy periodically.
 Any revisions will be posted with a new effective date.
 Continued interaction with the campaign after updates means you accept the revised terms.
 13.
-Contact Us For questions or privacy-related requests, please contact: Caroline for Congress ‍ Donate Now ↗     Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress
+Contact Us For questions or privacy-related requests, please contact: Caroline for Congress ‍ Donate Now ↗      Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress

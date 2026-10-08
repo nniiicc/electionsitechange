@@ -1,0 +1,4 @@
+top of page Dan Schaefer for Missouri Log In Democratic Candidate, Missouri House of Representatives, District 97 Home Meet Dan Media Blog Podcasts 'Nuf Said Values Events FAQ Contact Us Privacy Policy Donate!
+All Posts Political Accountability Congressional Inaction Democratic Party Challenges Congress Ethics in Politics Gun Laws Guns Populism Fall of Rome Republic Emperor King Supreme Court Trump Agriculture CAFO Rural Missouri SCOTUS Patchwork Justice Democracy in Peril Rights for Sale ICE Concentration Camps Trump Private Army Liberty Education Book bans Anxiety Authoritarianism Show-Me Institute Liberty for Me, Not for Thee The Show-Me Institute claims to champion the cause of liberty.
+But the only thing they seek to liberate is your money from your wallet.
+Dan Schaefer Jul 11, 2025 3 min read Login (or sign up) to comment on any blog! © # Dan Schaefer for Missouri Paid for by Citizens to Elect Dan Schaefer Treasurer - Elisabeth Koster Mail bottom of page

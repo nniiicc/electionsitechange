@@ -1,9 +1,11 @@
-Kamilah Bywaters was born and raised in Las Vegas in a working-class family grounded in education, service, and community responsibility.
+6415 S Fort Apache Rd, Ste 185, Las Vegas, NV 89148 kamilah4nevadans@gmail.com Social Media: X-twitter Instagram Facebook Home About Action Merch Contact Donate Endorsements Meet Kamilah Kamilah Bywaters was born and raised in Las Vegas in a working-class family grounded in education, service, and community responsibility.
 Her father, Thomas Bywaters, dedicated more than twenty years to the Clark County School District as a special education teacher at Rancho High School.
 He was also a respected soccer coach who mentored generations of students both academically and athletically.
 Her mother worked in food services in public schools, ensuring students were cared for daily in ways that often go unseen but remain essential to student success.
 Kamilah played competitive soccer throughout high school and earned a scholarship to Howard University, where she developed discipline, teamwork, and leadership skills.
 When it became clear that a professional soccer career was no longer her path, she turned toward two callings that had always guided her life: education and ministry.
+My Father & Mother taught me that leadership means responsibility to your neighbors, your community, and the next generation.
+That is the responsibility I am ready to carry for Assembly District 2.
 At her father’s encouragement, Kamilah entered special education through an alternate route to licensure and taught in the Clark County School District.
 During this time, she was a proud, dues-paying member of the union and worked directly with students whose needs were frequently underserved by the system.
 After three years in the classroom, Kamilah felt a strong call to ministry and returned to Howard University to pursue a Master of Divinity.
@@ -20,4 +22,5 @@ She and Khaldun, a United States Army veteran, are raising their family together
 In 2020, Kamilah helped restart the Las Vegas Alliance of Black School Educators once again.
 She has served as President and currently serves as Co-Chair.
 She is a graduate of Emerge Nevada, Class of 2022, and ran for the Board of School Trustees in 2024, demonstrating her belief that leadership requires showing up, even when the path is difficult.
+This campaign is about families, fairness, and the future of Nevada communities.
 Kamilah Bywaters is running to ensure the laws passed today create opportunity, stability, and dignity for generations to come.

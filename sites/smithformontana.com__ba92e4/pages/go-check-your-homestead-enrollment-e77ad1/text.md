@@ -45,5 +45,5 @@ A homeowner in the Heights should not need a tax attorney to get what the Legisl
 Before you close this tab Go check. homestead.mt.gov .
 About a minute.
 I would rather you get the money than agree with me about anything.
-Share This : Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Newsletter Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
+Share This : Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Notify Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
 Paid for by Friends of Melissa Smith (D) 1335 Naples St, Billings, MT 5910 © # All rights reserved.

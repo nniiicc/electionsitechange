@@ -1,4 +1,4 @@
-Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Early Voting Donate Now Volunteer Newsletter Request a Sign Volunteer With Our Campaign This campaign is powered by neighbors helping neighbors.
+Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Voting Donate Now Volunteer Newsletter Request a Sign Volunteer With Our Campaign This campaign is powered by neighbors helping neighbors.
 Whether you have: 30 minutes a week A few hours a month Or you want to dive in and lead There is a place for you here.
 Every conversation, every sign, and every helping hand makes a difference.
 Go to our Volunteer Form Why Your Time Matters Winning this race won’t happen because of big money or political insiders.

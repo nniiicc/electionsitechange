@@ -61,7 +61,7 @@ Or you may contact us to unsubscribe from our email communications .
 We will regularly process these requests.
 To comply with the law, however, our contributor records will not be altered and are continuously maintained in a separate secure database.
 Contact Us If you have any questions about this Privacy Policy, please contact us electronically , or at the following mailing address listed below: P.O.
-Box 336664 North Las Vegas, NV 89033 October 7, 2026 Help Me Hold the Line.
+Box 336664 North Las Vegas, NV 89033 October 8, 2026 Help Me Hold the Line.
 Winning back the House majority depends on our district.
 I need you in this fight.
 Donate Now Volunteer Today Get Updates Facebook Instagram X-twitter Youtube Meet Steven Priorities Media Meet Steven Priorities Media Volunteer Donate Paid for by Nevadans for Steven Horsford Copyright © # Steven Horsford for Congress.

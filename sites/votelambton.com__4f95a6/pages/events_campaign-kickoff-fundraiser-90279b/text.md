@@ -1,1 +1,5 @@
-
+top of page Chris Lambton DONATE FOR STATE REPRESENTATIVE Brewster-Dennis-Yarmouth Home About Priorities Endorsements News Events How to Vote Get Involved Contact More Use tab to navigate through the menu items.
+Campaign Kickoff Fundraiser Thu, Nov 13 | Dennis Join us at Encore to kick off Chris's campaign Time & Location Nov 13, 2025, 5:00 PM – 7:00 PM Dennis, 36 Hope Ln, Dennis, MA 02638, USA About The Event Chris Lambton's Campaign Kickoff for State Representative Chris Lambton recently launched his campaign for State Representative and he invites you to join him at his Campaign kick-off celebration.
+You will enjoy conversation, community and local bites.
+Come show your support and help build momentum with Chris!
+READ MORE Share This Event SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail First name Last name Email Submit DONATE Home Priorities ​ About News Get Involved Contact Chris Lambton - FOR STATE REPRESENTATIVE - Brewster - Dennis - Yarmouth Vote Chris Lambton Terms & Conditions © # Committee to Elect Chris Lambton PO Box 594 DENNIS, MA 02638 info@votelambton.com bottom of page

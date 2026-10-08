@@ -1,5 +1,5 @@
-Skip to content Wed.
-Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Oregon increasing beaver protections to help salmon, slow wildfire By Kristian Foden-Vencil (OPB) Aug.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Oregon increasing beaver protections to help salmon, slow wildfire By Kristian Foden-Vencil (OPB) Aug.
 1, 2025 6 a.m.
 LINK TO ARTICLE Oregon just passed its second beaver protection law in as many years.
 The hope is that a bigger beaver population will help salmon, slow wildfires and also safeguard drinking water.

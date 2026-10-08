@@ -1,4 +1,4 @@
-Join Us for a Fundraiser on October 1st from 6 - 8pm @ The Croation Hall Putting Minnesota Families First Practical leadership.
+Putting Minnesota Families First Practical leadership.
 Accountable government.
 A stronger future for District 53 Learn More About Todd: East Metro Voter's Guide Profile Donate Now!
 Paid for by Podgorski for Senate P.O.

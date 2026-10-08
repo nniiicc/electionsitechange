@@ -1,4 +1,4 @@
-About Dave Platform Endorsements Join team Dave Contact Dave Donate Better Government By Design Dave is running to put partisanship behind us and work together to build systems that put people over profits.
+About Dave Platform Endorsements Join team Dave Contact Dave Donate VOTERS DESERVE DEBATES SIGN THE PETITION WE'RE CALLING FOR NONPARTISAN DEBATES SIGN THE PETITION VOTERS DESERVE DEBATES SIGN THE PETITION WE'RE CALLING FOR NONPARTISAN DEBATES SIGN THE PETITION VOTERS DESERVE DEBATES SIGN THE PETITION WE'RE CALLING FOR NONPARTISAN DEBATES SIGN THE PETITION Better Government By Design Dave is running to put partisanship behind us and work together to build systems that put people over profits.
 Donate now 01 Climate Action 02 Economic Wellbeing 03 Future Families 04 Community Enrichment 05 Public Accountability "I'm running to challenge the systems that sustain political division, not to partake in that system.
 Tennessee is where I was raised, became an engineer, started my small business, and invested in my community.
 I want to leave it better than I found it.

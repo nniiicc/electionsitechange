@@ -1,5 +1,5 @@
 About Jessie Issues Get Involved Events Updates Donate Now Home About Jessie Issues Get Involved Events Updates Donate Now About Jessie Shepherd Jessie Shepherd is the Chair of the Jefferson County Democratic Central Committee serving the Riverview Township.
 She also served her community as a member of the Herculaneum Parks Board from 2020 to 2024 before moving to Festus where she was appointed to the Festus park board in late 2025.
 She is passionate about voter education & community organizing.
-Donate Now Make a Donation Volunteer Now Get Campaign Updates Campaign News & Updates October 7 Volunteer to help elect Jess!
-Read More October 7 Redistricting Letter Read More April 29 Work with Jessie Read More See All Updates Support Jessie Shepherd’s Campaign for Missouri Donate Now Shepherd for Missouri PO Box 606 Herculaneum, MO 63048 tel:3148083410 | info@ShepherdForMO.com Jennifer Ruble, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on
+Donate Now Make a Donation Volunteer Now Get Campaign Updates Campaign News & Updates October 8 Volunteer to help elect Jess!
+Read More October 8 Redistricting Letter Read More April 29 Work with Jessie Read More See All Updates Support Jessie Shepherd’s Campaign for Missouri Donate Now Shepherd for Missouri PO Box 606 Herculaneum, MO 63048 tel:3148083410 | info@ShepherdForMO.com Jennifer Ruble, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

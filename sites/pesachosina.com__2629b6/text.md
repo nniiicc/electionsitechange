@@ -7,7 +7,7 @@ Email Email Phone Phone Submit By submitting this form and signing up for texts,
 Msg & data rates may apply.
 Msg frequency varies.
 Reply STOP to unsubscribe or HELP for help.
-View our Terms of Service and Privacy Policy.
+View our Terms of Service and Privacy Policy .
 Meet Pesach Issues Endorsements Volunteer Contact Donate common sense leadership for South queens Building Bridges.
 Delivering Results.
 That's Pesach.
@@ -17,7 +17,7 @@ Email Email Phone Phone Submit By submitting this form and signing up for texts,
 Msg & data rates may apply.
 Msg frequency varies.
 Reply STOP to unsubscribe or HELP for help.
-View our Terms of Service and Privacy Policy.
+View our Terms of Service and Privacy Policy .
 Read below for some of our top priorities Lowering Costs Keeping Criminals Behind Bars Protecting Our Seniors Better Transit Options IN THEIR OWN WORDS Why They Support Pesach Read what community leaders are saying about Pesach Osina. " I’m proud to endorse Pesach Osina for State Assembly .
 Serving this community has been one of the greatest honors of my life, and I care deeply about who carries that work forward.
 I’ve known Pesach for years, I’ve seen his heart for this community, and I know he will always put our families first.

@@ -1,4 +1,4 @@
-Skip to content Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Facebook X-twitter Instagram Youtube Tiktok Donate Home Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Facebook X-twitter Donate Hannah Pingree For Governor Maine's Future Is Worth The Fight.
+Skip to content Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Vote Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Vote Facebook X-twitter Instagram Youtube Tiktok Donate Home Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Vote Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Vote Facebook X-twitter Donate Hannah Pingree For Governor Maine's Future Is Worth The Fight.
 Sign up to get involved today: Email Zipcode Get Updates Watch Video Meet Hannah Pingree A Lifetime Of Service To Mainers Hannah Pingree is a lifelong Mainer, leader, and mom who knows how to get things done.
 Raised on the island of North Haven, she’s led at every level—serving as Maine’s Speaker of the House, running a small business, chairing her local school board, and directing the Governor’s Office of Policy Innovation and the Future.
 From expanding access to health care and affordable housing to leading Maine’s climate work, Hannah brings people together and delivers real results for Maine families.
@@ -16,7 +16,13 @@ With bold leadership and a deep love for this state, Hannah is ready to deliver 
 #TeamPingree Take Action Today Maine people are already stepping up to build this grassroots campaign, pitching in however they can, early and with heart.
 This work is powered by you, and together we are laying the groundwork to win.
 Join us, and be part of building a bright future for our great state.
-Sign Up To Volunteer Make A Donation Online Endorse Hannah's Campaign The Latest On The Campaign Trail October 5, 2026 Letter: Why Hannah Pingree has my vote This guest column, written by Rep.
+Sign Up To Volunteer Make A Donation Online Endorse Hannah's Campaign The Latest On The Campaign Trail October 7, 2026 Letter: Maine needs a housing strategy.
+Hannah Pingree has one.
+This guest column, written by Eloise Melcher, was originally published in Central Maine.
+When I turned 30, suddenly all of my friends were talking about buying houses.
+Or, more specifically, how hard it is to buy a house.
+Looking at houses on Zillow in one’s spare time is no longer a fun game; it’s just...
+Read More October 5, 2026 Letter: Why Hannah Pingree has my vote This guest column, written by Rep.
 Bill Bridgeo, was originally published in the Portland Press Herald.
 I am in full support of Hannah Pingree for governor of Maine.
 I’ve known and admired Hannah for many years; I believe that she has the right combination of principled leadership skills, compassion, creativity and energy to enable our...
@@ -29,8 +35,6 @@ Read More September 21, 2026 Opinion: Hannah Pingree is the governor Maine needs
 Keith Mestrich is a finance professional who lives in New Harbor.
 He serves on numerous nonprofit boards in the mid-Coast and chairs the Lincoln County Democratic Committee.
 For months, I have thought that the defining issues of this campaign season...
-Read More September 20, 2026 “Vote for Hannah” | Sen.
-Angus King endorses Hannah Pingree for governor Hannah Pingree, former Speaker of the Maine House and Democratic candidate for governor, today released two new television advertisements: "Tougher" and "Show Up."...
 Read More Spread The Word Let's Go!
 Sign Up For Updates First Name Cell Phone Email Zipcode Get Updates By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Hannah Pingree for Governor (messages include donation links).
 Message & data rates may apply.

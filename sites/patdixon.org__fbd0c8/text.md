@@ -75,23 +75,6 @@ Our team members are active voters, and your presence at our fair is encouraged.
 Event details: This bipartisan event is open to all candidates in the race you are involved in, along with local political parties and voter registration organizations.
 In 2024, over 50 campaigns participated.
 We welcome both statewide and local candidates to engage in discussions around politics and policy positions.
-University of Houston , Know Your Ballot On behalf of the University of Houston Student Government Association Department of External Affairs , I am pleased to invite you to participate in our Know Your Ballot event on Thursday, October 8, 2026, from 4:00–8:00 PM at the University of Houston .
-Know Your Ballot is a nonpartisan voter education event designed to give University of Houston students an opportunity to learn more about the candidates appearing on their ballot, hear directly from those seeking public office, ask questions, and become better informed ahead of the November General Election.
-The evening will include the following: 4:00–4:20 PM | Welcome Reception & Candidate Meet-and-Greet Candidates will have an opportunity to meet and interact directly with students in an informal setting.
-Small bites and refreshments, including tea, water, and juice, will be provided.
-4:20–4:40 PM | Civic Engagement & Voter Education A brief nonpartisan presentation will introduce students to the importance of civic engagement, informed voting, and participation in the electoral process.
-4:40–7:30 PM | Meet the Candidates Participating candidates will be organized by office/race.
-Each candidate will receive: # minutes for remarks to introduce themselves and their candidacy.
-# minutes for moderated questions from the student audience.
-To ensure an equitable opportunity for all participants, speaking times will be consistent for each candidate.
-7:30–8:00 PM | Closing & Candidate Meet-and-Greet Following closing remarks, students will have an additional opportunity to visit candidate tables, continue conversations, and learn more about each campaign.
-Throughout the event, participating candidates will be provided with table space to share campaign literature, informational materials, volunteer sign-up opportunities, and other appropriate campaign resources.
-Campaign staff or volunteers are also welcome to assist at the table.
-Our goal is to create an educational and accessible environment where students can engage directly with candidates and leave better prepared to make their own informed decisions at the ballot box.
-The University of Houston Student Government Association and Department of External Affairs are hosting Know Your Ballot as a nonpartisan voter education event .
-Participation in the event does not constitute an endorsement of any candidate or campaign.
-Candidates invited to participate are being offered the same speaking time, question period, and opportunity to engage with students.
-We would be honored to have you participate.
 Travis County Libertarian Party Monday October 12, 6:30 pm – 9:00 pm Travis County Libertarian Party meeting Casa Chalapa, 9041 Research Blvd, Unit 100, Austin, TX Islamic Center of Frisco (ICF) Civics Committee Friday October 16, 1:30 pm – 4:30 pm Islamic Center of Frisco (Designated Outdoor Area), 11137 Frisco St, Frisco, TX 75033 Dear Candidates and Campaign Teams, On behalf of the Islamic Center of Frisco (ICF) Civics Committee, we invite candidates running in the upcoming November election to set up an informational table outside our facility following Friday prayer services.
 As part of our commitment to promoting civic engagement, ICF extends an equal opportunity to all candidates running for offices serving our community across North Texas, including Texas Congressional Districts 3 (CD-3) and 4 (CD-4).
 Setup Guidelines & Campaign Rules: RSVP Required: Space is limited and allocated on a first-come, first-served basis.
@@ -130,7 +113,24 @@ We will also invite local television, radio, print, and online news outlets to c
 Confirmed candidates will be included in our public candidate guide and event announcements.
 The event is free, resident-run, and independent of any political party or campaign.
 We hope Pat Dixon will be part of what we expect to be a busy afternoon for Denton County voters.
-Tracy Carson interview Monday October 19, 7:00 pm The interview will be live online at https://www.youtube.com/watch?v=lksLoXb6MvA Early voting starts October 19 First day of early voting Introduction to the Libertarian Party Wednesday Oct 21, 6 pm Sholz Garden 1607 San Jacinto Blvd, Austin, TX Wes Benedict be master of ceremonies for this event called “Introduction to the Libertarian Party.” It will be hosted and paid for by the Libertarian Booster PAC and will explain to people “here’s what the LP is about.” I will be there to talk about my campaign https://www.eventbrite.com/e/introduction-to-the-libertarian-party-austin-meet-greet-tickets-1999950434587?aff=oddtdtcreator Screenshot Early voting ends October 30 Last day of early voting Election day November 3 Election day I am not going to make a long list of promises.
+Tracy Carson interview Monday October 19, 7:00 pm The interview will be live online at https://www.youtube.com/watch?v=lksLoXb6MvA Early voting starts October 19 First day of early voting University of Houston, Know Your Ballot This has been rescheduled for October 20 On behalf of the University of Houston Student Government Association Department of External Affairs , I am pleased to invite you to participate in our Know Your Ballot event on Thursday, October 8, 2026, from 4:00–8:00 PM at the University of Houston .
+Know Your Ballot is a nonpartisan voter education event designed to give University of Houston students an opportunity to learn more about the candidates appearing on their ballot, hear directly from those seeking public office, ask questions, and become better informed ahead of the November General Election.
+The evening will include the following: 4:00–4:20 PM | Welcome Reception & Candidate Meet-and-Greet Candidates will have an opportunity to meet and interact directly with students in an informal setting.
+Small bites and refreshments, including tea, water, and juice, will be provided.
+4:20–4:40 PM | Civic Engagement & Voter Education A brief nonpartisan presentation will introduce students to the importance of civic engagement, informed voting, and participation in the electoral process.
+4:40–7:30 PM | Meet the Candidates Participating candidates will be organized by office/race.
+Each candidate will receive: # minutes for remarks to introduce themselves and their candidacy.
+# minutes for moderated questions from the student audience.
+To ensure an equitable opportunity for all participants, speaking times will be consistent for each candidate.
+7:30–8:00 PM | Closing & Candidate Meet-and-Greet Following closing remarks, students will have an additional opportunity to visit candidate tables, continue conversations, and learn more about each campaign.
+Throughout the event, participating candidates will be provided with table space to share campaign literature, informational materials, volunteer sign-up opportunities, and other appropriate campaign resources.
+Campaign staff or volunteers are also welcome to assist at the table.
+Our goal is to create an educational and accessible environment where students can engage directly with candidates and leave better prepared to make their own informed decisions at the ballot box.
+The University of Houston Student Government Association and Department of External Affairs are hosting Know Your Ballot as a nonpartisan voter education event .
+Participation in the event does not constitute an endorsement of any candidate or campaign.
+Candidates invited to participate are being offered the same speaking time, question period, and opportunity to engage with students.
+We would be honored to have you participate.
+Introduction to the Libertarian Party Wednesday Oct 21, 6 pm Sholz Garden 1607 San Jacinto Blvd, Austin, TX Wes Benedict be master of ceremonies for this event called “Introduction to the Libertarian Party.” It will be hosted and paid for by the Libertarian Booster PAC and will explain to people “here’s what the LP is about.” I will be there to talk about my campaign https://www.eventbrite.com/e/introduction-to-the-libertarian-party-austin-meet-greet-tickets-1999950434587?aff=oddtdtcreator Screenshot Early voting ends October 30 Last day of early voting Election day November 3 Election day I am not going to make a long list of promises.
 Nobody knows if there will be another flood, COVID, or 9/11.
 The priorities depend on an unpredictable future.
 My principles are Libertarian, which do give predictable positions.

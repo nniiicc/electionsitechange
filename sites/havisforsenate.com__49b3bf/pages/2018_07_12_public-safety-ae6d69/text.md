@@ -1,18 +1,15 @@
 Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
-Jim Jordan Contact Us Open menu Join the team Public Safety Public safety is an important state and local government function, provided primarily through a system of criminal laws and their enforcement that aims to protect citizens from the harmful actions of others.
-However, this purpose of crime prevention is not simply to punish offenders with long and counter-productive prison sentences.
-Sadly, the state of Maryland has maintained an extremely high percentage of incarcerated prisoners in its population, which is both costly and counter-productive to meaningful public safety.
-And, once incarcerated, inmates are given little opportunity for correction and rehabilitation that would ensure their safe return to normal life in society.
-While a small number of serious offenders must be securely isolated from society, many minor offenders will not benefit from long, punitive sentences.
-We should therefore find ways to reduce the large population of these non-violent offenders in prison, such as by de-criminalizing marijuana use, and establishing voluntary treatment programs for drug addiction.
-In addition, many non-violent criminals could be safely removed from harm to society through home-based confinement using monitoring devices or in supervised assisted living facilities.
-Effective public safety must also look to prison reform that aims to correct and rehabilitate inmates, rather than merely punishing them by serving time.
-Needed, therefore, is more focus on education, mental health therapy, practical work projects, and addiction recover programs while inmates are in custody.
-Happily, there are active volunteer prison ministries in society that are making a positive contribution to this effort, which should be encouraged as much as possible.
-Reducing the prison population and the presence of repeat offenders in society can also be achieved by closer cooperation with federal immigration authorities (ICE).
-This cooperation involves, for example, the identification and removal of illegal aliens in local custody to ICE for their processing and enforcement of pertinent federal immigration laws.
-Maryland should not be a haven to protect and promote the presence of these illegal aliens to foment unnecessary crime and gang violence in society.
-Public safety must also include prison reform through the close monitoring and training of correction officials, to assure that inmates receive humane and ethical supervision.
-Happily, there are some very effective experiments and initiatives taking place in other states that we should study for use in Maryland as well.
+Jim Jordan Contact Us Open menu Join the team Public Safety Public Safety is under threat in Maryland, made worse by the thoughtless and irresponsible actions of Democrat government leaders, including my opponent in LD21, incumbent Democrat Jim Rosapepe.
+In a recent community meeting, I learned that local police are active in our LD21 communities in many areas, such as dealing with missing persons, vehicle theft, and property crime.
+In one recent incident at Seven Springs Apartments in College Park, the police have been investigating a surge of some 50 vehicle break-ins as reported in a single night.
+I also learned that juvenile gangs, sometimes managed by adult bosses, are commonly involved in this criminal activity, often closely connected with the large population of illegal aliens in our community.
+Just recently, a young teenage girl was found dead in College Park, the likely murder suspects being MS-13 gang members, presumably part of the illegal alien population.
+Sadly, my opponent, Democrat Senator Rosapepe, along with the Democrat majority Maryland General Assembly, recently passed a “ Community Trust Act ,” which prohibits local police from collaborating with federal law enforcement agencies, such as Immigration and Customs Enforcement Agency (ICE), to pursue a misguided policy of sanctuary for criminal illegal aliens.
+In the Maryland State Senate, I would strongly support a repeal to such “sanctuary” policies.
+Other actions of Senator Rosapepe and the Democrat majority General Assembly have also made the enforcement of juvenile crime more difficult.
+For example, The Youth Charging Reform Act , which Senator Rosapepe recently voted for, now shifts most juvenile cases from adult to juvenile court starting October 2026.
+Prosecutors argue this law creates a loophole allowing repeat juvenile offenders to avoid adult consequences.
+Others argue that it will clog up an already overcrowded Family Court docket, forcing Family Court judges to give much less time and attention to truly needy, more correctable youth to recover from lack of positive parental support and guidance.
+In the Maryland State Senate, I would work against these unwise policies to support instead efforts to tighten enforcement of violent crime so often found among unsupervised youth in our community.
 Published July 12, 2018 By Lee Havis Categorized as issues Leave a comment Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Δ Post navigation Previous post Lower Taxes Next post No to Speed Cameras Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

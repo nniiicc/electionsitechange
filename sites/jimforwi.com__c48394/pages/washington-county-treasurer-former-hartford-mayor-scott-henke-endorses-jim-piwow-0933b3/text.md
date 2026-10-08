@@ -11,7 +11,7 @@ Henke, who was elected Washington County Treasurer in 2020, previously served as
 You can read more about Piwowarczyk’s campaign here.
 Piwowarczyk, who is supporting Donald Trump for president, is a lifelong conservative running on a platform of public safety, parents’ rights in schools, delivering tax cuts, and border security, among other issues.
 Post navigation Previous post: Prev Washington County Exec Josh Schoemann Endorses Jim Piwowarczyk for Assembly March 11, 2024 Next post: Next Rep.
-Barbara Dittrich Endorses Jim Piwowarczyk for Assembly March 18, 2024 You May Also Like Posted July 29, 2024 in Endorsements , News , ticker NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY Posted November 4, 2024 in Endorsements , News , ticker Milwaukee Police Association Endorses Jim Piwowarczyk for State Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Barbara Dittrich Endorses Jim Piwowarczyk for Assembly March 18, 2024 You May Also Like Posted May 3, 2024 in Endorsements , News , ticker Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly Posted April 30, 2024 in ticker , Endorsements , News Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

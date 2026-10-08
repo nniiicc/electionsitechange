@@ -16,8 +16,8 @@ More Stops Coming Petit Beau Barber Lounge is just the first stop.
 Over the coming weeks, we'll be pulling up chairs at barbershops across District 20's 14 cities, from Oakland Park to Pompano to Tamarac and beyond, to keep having these conversations in the neighborhoods where they matter most.
 More stops are coming across District 20 — follow along so you don't miss them.
 Watch the Clip Recent Posts See All Why FL-20 Must Stay Rooted in Our Community | Dr.
-Kedner Maxime Responding to Laura Loomer's Attacks on Black Women in Politics A Closer Look at Amendment 3 and Our Property Tax Debate DONATE Follow The Campaign A vision for Florida's District 20.
+Kedner Maxime Responding to Laura Loomer's Attacks on Black Women in Politics A Closer Look at Amendment 3 and Our Property Tax Debate DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

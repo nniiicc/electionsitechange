@@ -1,10 +1,7 @@
-Senator Borrello Earns Endorsement of NFIB’s NY PAC
-lhill5000
-Oct 15, 2022
-“As a small business owner and champion of all of New York’s hardworking, risk-taking entrepreneurs, I am proud and grateful to announce that I’ve been endorsed by NFIB's NY PAC.
+top of page All Posts Search Senator Borrello Earns Endorsement of NFIB’s NY PAC lhill5000 Oct 15, 2022 1 min read “ As a small business owner and champion of all of New York’s hardworking, risk-taking entrepreneurs, I am proud and grateful to announce that I’ve been endorsed by NFIB 's NY PAC.
 NFIB is the nation’s leading small business association and represents 11,000 small business owners here in New York.
 Our small businesses have a huge impact, employing nearly half of our state’s total workforce.
 Yet, shortsighted state policies have made New York State a difficult place for these job creators to grow and be competitive.
 That is why I am committed to being their voice and advocate in Albany.
 When small business thrives, New York thrives.
-I look forward to continuing to work in partnership with NFIB NY to make that happen.”
+I look forward to continuing to work in partnership with NFIB NY to make that happen. ” Recent Posts See All SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Senator George Borrello Recognized as One of New York State’s Most Effective Republican Legislator SENATOR GEORGE BORRELLO ANNOUNCES HIS CANDIDACY FOR RE-ELECTION TO THE 57TH STATE SENATE DISTRICT Contact Us Borrello for Senate PO Box 181 Irving, New York 14081 voteborrello@gmail.com 607-438-2701 Connect with us SUBSCRIBE Join Thanks for submitting! george borrello for new york state senate © # PAID FOR BY BORRELLO FOR SENATE AND NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE bottom of page

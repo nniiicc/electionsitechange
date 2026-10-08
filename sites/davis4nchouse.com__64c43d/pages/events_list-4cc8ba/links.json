@@ -12,6 +12,10 @@
 "href": "https://davis4nchouse.com/contact/"
 },
 {
+"text": "Danny Davis Meet and Greet At Star Taco",
+"href": "https://davis4nchouse.com/event/danny-davis-meet-and-greet-at-star-taco/"
+},
+{
 "text": "Day",
 "href": "https://davis4nchouse.com/events/today/"
 },
@@ -36,20 +40,8 @@
 "href": "https://davis4nchouse.com/events/"
 },
 {
-"text": "Export .ics file",
-"href": "https://davis4nchouse.com/events/list/?ical=1"
-},
-{
-"text": "Export Outlook .ics file",
-"href": "https://davis4nchouse.com/events/list/?outlook-ical=1"
-},
-{
 "text": "Facebook",
 "href": "https://www.facebook.com/profile.php?id=61584423850859"
-},
-{
-"text": "Google Calendar",
-"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
 },
 {
 "text": "Healthcare",
@@ -80,6 +72,10 @@
 "href": "https://davis4nchouse.com/event/meet-danny-davis-in-mars-hill/"
 },
 {
+"text": "Meet Our Candidates at Big Pillow Brewing",
+"href": "https://davis4nchouse.com/event/meet-our-candidates-at-big-pillow-brewing/"
+},
+{
 "text": "Month",
 "href": "https://davis4nchouse.com/events/month/"
 },
@@ -90,18 +86,6 @@
 {
 "text": "OneTap",
 "href": "https://wponetap.com/"
-},
-{
-"text": "Outlook 365",
-"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse"
-},
-{
-"text": "Outlook Live",
-"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fdavis4nchouse.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Davis4NCHouse+Events+Archive+-+Davis4NCHouse"
-},
-{
-"text": "Previous Events",
-"href": "https://davis4nchouse.com/events/list/?eventDisplay=past"
 },
 {
 "text": "Privacy Policy",
@@ -136,15 +120,23 @@
 "href": "https://www.youtube.com/@davis4nchouse"
 },
 {
+"text": "[image: Mars Hill Danny Davis Event]",
+"href": "https://davis4nchouse.com/event/meet-danny-davis-in-mars-hill/"
+},
+{
+"text": "[image: Meet Our Candidates Madison County]",
+"href": "https://davis4nchouse.com/event/meet-our-candidates-at-big-pillow-brewing/"
+},
+{
 "text": "[image: davis 4 nc house 118]",
 "href": "https://davis4nchouse.com/"
 },
 {
-"text": "[tooltip: Previous Events]",
-"href": "https://davis4nchouse.com/events/list/?eventDisplay=past"
+"text": "[image]",
+"href": "https://davis4nchouse.com/event/danny-davis-meet-and-greet-at-star-taco/"
 },
 {
-"text": "iCalendar",
-"href": "webcal://davis4nchouse.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+"text": "[tooltip: Previous Events]",
+"href": "https://davis4nchouse.com/events/list/?eventDisplay=past"
 }
 ]

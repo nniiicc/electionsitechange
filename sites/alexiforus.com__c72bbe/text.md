@@ -41,25 +41,26 @@ Illinois will continue to lead not only on reproductive rights but on the fundam
 Without proper oversight, data collection can be abused and negatively affect your lives.
 Whether you are being forced to crossed state lines to exercise your right to choose or whether you are going to the grocery store, you should not be tracked for legal activities.
 I am taking a stand as Illinois Secretary of State, but I need your help.
-Read More Watch the Video Follow Our Journey on Social @alexiforus /AlexiGiannoulias Alexi Giannoulias is in Illinois.
-#ago A night well spent celebrating the Cook County Democratic Party with good company, great conversations, and some of the Alexi Giannoulias team there to share in it.
-It was amazing to see so many incredible leaders together on one room.
-#chicago #CookCounty #DemocraticParty ...
-See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias is at Logan Square Farmers Market.
-#ago Phenomenal energy today at the Logan Square Farmers Market!
-Grateful to spend the morning alongside family, friends, and our dedicated field team talking with so many neighbors about the future of our community.
-Today was a perfect reminder to love and celebrate all of Chicago’s incredible farmers markets for fueling our communities, supporting small businesses, and bringing us all together.
-#chicago #chicago farmersmarket #logansquare #logansquare chicago ...
-See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias is in Illinois.
-#ago There’s something special about starting a Sunday morning by showing up for people and a cause that matters.
-Grateful to support the runners and CHI-CARE as they bring community together around their mission to fight hunger and provide meals and essential resources to our unhoused neighbors across Chicago.
-#chicago #chicago runner #chicago fitness #endhomelessness ...
-See More See Less Video View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago After the Great Fire of 1871, Chicago needed specialized skills to rebuild.
-The city’s growing Czech community answered that call.
-Bringing traditional, time-honored techniques with them, Czech stonecutters, ironworkers, carpenters, and bricklayers worked alongside fellow laborers to raise a fireproof city from the ashes.
-They didn’t just build structures; they planted deep cultural roots, traditions, and a proud heritage that spans generations of Czech-Americans.
-This #CzechHeritageWeek, we honor both the skilled hands that physically built Chicago and the rich cultural fabric they gifted to the city we love today. 🇨🇿🩵 #Chicago #chicago gram ...
-See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Contribute to Alexi's Vision Chip in today to keep our momentum going!
+Read More Watch the Video Follow Our Journey on Social @alexiforus /AlexiGiannoulias Alexi Giannoulias is at Chicago Cultural Center.
+#ago Chicago and the entire state of Illinois are welcoming places because of the collective power built by the incredible people in this room.
+Thank you, ICIRR, for 40 years of championing and protecting immigrant and refugee communities.
+I’m proud to stand alongside you in this work.
+#immigrantrights #refugeerights #chicago ...
+See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago J.R.
+Berger threw out a big question: Where do you see Chicago in ten years?
+Here’s my take: a safer city, stronger businesses, lively neighborhoods, and a place people want to stick around for good.
+That’s what I’m hoping for.
+How about you?
+What does your Chicago look like in the next decade?
+#Chicago #ChicagoBusinesses #ChicagoFuture ...
+See More See Less Video View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago Great conversation in the 43rd Ward at the Lincoln Common about community, Chicago’s future, and what it will take to make this a city people are excited to call home for the long haul.
+Thank you to Alderman Timmy Knudsen for hosting us and bringing people together for such a thoughtful discussion about the future of our city. ...
+See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Alexi Giannoulias #ago Want to make a real difference in Chicago?
+Read on! ➡️ Long before our official announcement, we were thinking about how our campaign could positively impact lives in Chicago.
+That's why we set up Community Hubs in our field offices, places where people can grab free supplies, help each other out, and get involved.
+Together, we can show up for Chicago one community at a time.
+How will you get involve #chicago i #chicagosouthside h #chicagowestside t #alexiforchi orChi ...
+See More See Less Video View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Contribute to Alexi's Vision Chip in today to keep our momentum going!
 Contribute Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias Join our team!
 Alexi knows we deserve more from our elected officials.
 If you believe we should demand better from those who represent us, sign up to be a part of our campaign.

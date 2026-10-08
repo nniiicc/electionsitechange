@@ -1,7 +1,7 @@
 Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer The best way to support Stephanie and our local businesses is to come out to one of our really fun events.
 Get a change to hang out in a cool space, with some awesome neighbors, and get to know Stephanie in a relaxed setting.
 October 10, 2026- Rock and Roll Fundraiser at Studio 4 Recording, Conshohocken 4pm-7pm October 11, 2026- Block Party at Yorkway Place, Jekintown 1pm-4pm October 16, 2026- Calluna Plants and Gifts Garden Party, Oreland 6pm-9pm See our events page for more info.
-#ago This Week This Month ‹ Previous Wed Oct 7 2026 - Thu Oct 7 2027 Next › 10 Oct Saturday, 4:00 PM – 7:00 PM Rock and Roll Fundraiser at Legendary Recording Studio (STUDIO 4) 129 Fayette Street, Conshohocken, PA, 19038 Get ready for an awesome night out to support Stephanie Berardi for State Representative!
+#ago This Week This Month ‹ Previous Thu Oct 8 2026 - Fri Oct 8 2027 Next › 10 Oct Saturday, 4:00 PM – 7:00 PM Rock and Roll Fundraiser at Legendary Recording Studio (STUDIO 4) 129 Fayette Street, Conshohocken, PA, 19038 Get ready for an awesome night out to support Stephanie Berardi for State Representative!
 Join us for some great tunes, good vibes, and a chance to make a difference.
 Rock out for a cause you care about!
 Join us for live music, special guests, cocktails, and lite bites at legendary Studio 4 recording.

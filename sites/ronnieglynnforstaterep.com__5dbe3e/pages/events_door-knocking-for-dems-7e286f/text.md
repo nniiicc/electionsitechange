@@ -2,4 +2,4 @@
 Join our door knocking team now through November as we get out the vote for Odessa Kelly and Ronnie Glynn.
 You will be trained on our message and how to talk to votes.
 Bring a friend if you want to door knock as a team!
-RSVP for any of our dates at the link below! https://www.mobilize.us/mobilize/event/495900/ Previous Previous August 4 Election Night Celebration Next Next August 3 Door Knock for Ronnie Glynn ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know
+RSVP for any of our dates at the link below! https://www.mobilize.us/mobilize/event/495900/ ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know

@@ -1,6 +1,5 @@
-Georgia Legislative Update – Week 1
-The Georgia General Assemble began the first day of the 2025 legislative session on Monday, January 13, 2025.
-It is the beginning of Georgia’s 158th biennium.
+Skip to content Menu Home Resources Legislative Updates Contact Donate Close Menu January 21, 2025 Georgia Legislative Update – Week 1 The Georgia General Assemble began the first day of the 2025 legislative session on Monday, January 13, 2025.
+It is the beginning of Georgia’s 158 th biennium.
 To begin the session, all 180 House members took the Oath of Office.
 Georgia Supreme Court Chief Justice Michael Bogg administered the oath in the House Chamber.
 Following the swearing-in, we immediately got down to business by electing the Speaker of the House and Speaker Pro Tempore.
@@ -29,7 +28,7 @@ Building on previous tax cuts, he proposed an additional reduction in the state 
 This move would save Georgians an expected $7.5 billion over the next decade.
 Also in his address, Gov.
 Kemp underscored his administration’s ongoing efforts to address rising insurance costs, particularly for small businesses, and the need for tort reform.
-He highlighted the passage of House Bill 1114, the Data Analysis for Tort Reform Act, which was signed into law last summer and enables Georgia’s Insurance Commissioner to gather data and propose reforms that are aimed at stabilizing insurance costs, expanding consumer choices and preventing carriers from leaving Georgia.
+He highlighted the passage of House Bill 1114 , the Data Analysis for Tort Reform Act, which was signed into law last summer and enables Georgia’s Insurance Commissioner to gather data and propose reforms that are aimed at stabilizing insurance costs, expanding consumer choices and preventing carriers from leaving Georgia.
 The governor pointed out that some small businesses have seen their insurance premiums increase by as much as 100%, threatening their operations.
 To combat this, he announced that one of his top priorities this session is passing comprehensive tort reform legislation designed to limit civil lawsuits.
 Lastly, we reflected on the tragic shooting that occurred at Apalachee High School, honoring the victims and their families, as well as the heroes who prevented the incident from becoming an even greater tragedy.
@@ -39,10 +38,9 @@ In response, Gov.
 Kemp touched on the $294 million that has been allocated to school safety thus far, and his budget proposal includes an additional $159 million to bolster those efforts.
 Also, this week, the House Committee on Assignments completed its work and announced committee assignments for each representative.
 We are excited to announce our appointments.
-Representative Darlene Taylor who serves Thomas and Grady counties will be on the following committee: Agriculture & Consumer Affairs, Appropriations – Chairman of Health Subcommittee, Insurance– Chair the Subcommittee on Life and Health, Public and Community Health, Reapportionment and Redistricting, Rules, Special Committee on Healthcare and Transportation.
+Representative Darlene Taylor who serves Thomas and Grady counties will be on the following committee: A griculture & Consumer Affairs , Appropriations – Chairman of Health Subcommittee , Insurance – Chair the Subcommittee on Life and Health, Public and Community Health , Reapportionment and Redistricting , Rules , Special Committee on Healthcare and Transportation .
 We will serve for the next two years.
-You can learn more about the committees on the House’s public website https://www.legis.ga.gov/committees/house and you can research state legislation at https://www.legis.ga.gov/search
-To end our week, we and our colleagues joined Gov.
+You can learn more about the committees on the House’s public website https://www.legis.ga.gov/committees/house and you can research state legislation at https://www.legis.ga.gov/search To end our week, we and our colleagues joined Gov.
 Kemp, Speaker Burns and Lt.
 Gov.
 Jones for a Celebration of Service to honor the life and legacy of Dr.
@@ -53,9 +51,12 @@ The celebration not only commemorated his achievements but also encouraged all o
 Next week, we and our legislative colleagues will return to the Capitol to begin the state budget process where we will hear directly from Gov.
 Kemp and state agency leaders as they present their budget requests to the Joint House and Senate Appropriations Committee, in an event often referred to as “budget week.” The Appropriations committees will continue meeting throughout the week, and we look forward to providing updates on the budget process as it gets underway.
 Throughout our time here at the State Capitol, we look forward to continuing to work to support our community and our constituents.
-To follow along with important updates from the House, please see our House X (Twitter), @GaHouseHub; Instagram, @gahouseofrepresentatives and Facebook accounts for updates, legislative floor proceedings, press releases and more.
+To follow along with important updates from the House, please see our House X (Twitter) , @GaHouseHub; Instagram , @gahouseofrepresentatives and Facebook accounts for updates, legislative floor proceedings, press releases and more.
 To watch livestreams and keep apprised of our House committee meetings, please view the House website.
 You may also reach out to us with any questions and concerns you may have as this legislative session progresses.
 We can be reached as follows: Rep.
-Darlene Taylor may be reached at her office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246.
+Darlene Taylor may be reached at her office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246 .
 Thank you for allowing us to serve as your state representative for the 2025-2026 legislative term.
+News 3 Georgia Legislative Update – Week 2 Related Posts Updates Georgia Legislative Update – Week 1 Ending January 17, 2026 Updates Georgia Legislative Update – Session Report Updates Georgia Legislative Update – Press Release Back To Top Darlene Taylor Post Office Box 6580 Thomasville, GA 31757 (229) 225-9943 Ext.
+215 ⓒ Rep.
+Darlene Taylor 2022 ☆ Paid by Darlene For Georgia Campaign

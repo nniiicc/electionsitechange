@@ -1,9 +1,11 @@
-Skip to main content Tuesday, September 29 · An Evening with Lou Riley · Alpine Country Club, Cranston RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues Real Estate Pros How to Vote Get Involved Endorsements RSVP · Sept 29 Get in Touch Republican Candidate · RI House District 41 Michael “Lou” Riley “Leave it better than the way I found it.” Third-generation Scituate.
+Skip to main content Saturday, October 17 · Come Meet Lou · Merola’s, Scituate · 3–5 PM RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues How to Vote Get Involved Endorsements RSVP · Oct 17 Get in Touch Republican Candidate · RI House District 41 Michael “Lou” Riley “Leave it better than the way I found it.” Third-generation Scituate.
 Real estate attorney.
 Father of four.
 Running for State Representative to keep zoning, schools, and taxes in the hands of the people who actually live here — Scituate and western Cranston.
 Get Involved Where I Stand Questions?
-Call 401-647-6990 or email TEAM@RileyforRI.com Where I Stand Four things I’m running on The same four priorities that are on the card I hand you at the door.
+Call 401-647-6990 or email TEAM@RileyforRI.com Come meet Lou.
+Saturday, Oct.
+17 · 3:00–5:00 PM · Merola’s, 50 Danielson Pike, North Scituate RSVP Where I Stand Four things I’m running on The same four priorities that are on the card I hand you at the door.
 Nothing on this list is a national talking point.
 All four land on Scituate and western Cranston directly.
 Plank One Don’t Providence My Scituate Local Control · Zoning & Land Use Zoning, land use, and development decisions belong to the people who live here.
@@ -51,8 +53,8 @@ Follow the Campaign on Facebook Scituate deserves a voice at the State House who
 Whether it’s five minutes or five hours, there’s a way to help.
 Join the campaign.
 Volunteer Request a Lawn Sign Talk to Lou Or just call.
-401-647-6990 · TEAM@RileyforRI.com Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Endorsements How to Vote Get Involved Sept.
-29 Reception Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
+401-647-6990 · TEAM@RileyforRI.com Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Real Estate Pros Endorsements How to Vote Get Involved Oct.
+17 Meet & Greet Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
 178 Broadway, Providence, RI 02903.
 Authorized by the candidate.
 Privacy Policy © 2026 Friends of Michael Riley

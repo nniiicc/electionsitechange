@@ -1,12 +1,12 @@
-Last Monday, the 157th Georgia General Assembly convened at the Capitol for the 2024 legislative session, which marked the start of the second year of our two-year term.
+About Leesa News Help Out Elections Constituent Services About Leesa News Help Out Elections Constituent Services 2024 Week 1 Update: A Strong Start to the Legislative Session!
+Jan 14, 2024 Last Monday, the 157th Georgia General Assembly convened at the Capitol for the 2024 legislative session, which marked the start of the second year of our two-year term.
 With only 40 legislative days to accomplish the people’s business, my colleagues and I did not waste any time this week.
 In addition to convening in the House Chamber each day, Governor Kemp gave his annual State of the State address before a joint session of the House and Senate.
-State of the State Address
-On Thursday, we welcomed Gov.
+State of the State Address On Thursday, we welcomed Gov.
 Kemp as he presented his assessment on the current condition of our state government.
 This event provides a unique opportunity for our governor to reflect on the progress of the state, as well as present his priorities for the year ahead.
 Those include tax cuts, fostering a strong workforce, and maintaining safe learning environments for all students and teachers.
-You can watch a video archive of the governor’s address here.
+You can watch a video archive of the governor’s address here .
 I’ll share a few highlights below.
 Over the last year, Georgia’s government has provided nearly $5 billion of direct relief to taxpayers in the form of tax refunds, gas tax suspensions, and homestead tax exemptions.
 The governor applauded the state’s work to maintain a Triple-A bond rating, while simultaneously creating more than 171,000 new jobs.
@@ -37,41 +37,38 @@ Kemp’s State of the State Address on Thursday, the House voted to adopt House 
 Each session is comprised of a maximum of 40 non-consecutive days.
 This year, our final day of session will be Thursday, March 28.
 We have an aggressive schedule and much work to do prior to the final swing of the gavel.
-You can find a copy of our complete legislative calendar here.
-New Bills Filed During Week 1 of the Legislative Session
-This past week, two new bills that I am sponsoring and a couple that I am co-sponsoring were filed:
-- HB 909 – First Offender Act Modernization Bill.
+You can find a copy of our complete legislative calendar here .
+New Bills Filed During Week 1 of the Legislative Session This past week, two new bills that I am sponsoring and a couple that I am co-sponsoring were filed: HB 909 – First Offender Act Modernization Bill.
 The First Offender Act (1968) was Georgia’s original Second Chance law.
 It was enacted to prevent an isolated mistake from creating a lifetime of barriers.
 With certain offenses, not including violent crimes, sex crimes, crimes against law enforcement or DUI, upon completion of their sentence, a defendant is exonerated of guilt without impact to their rights or liberties.
 However, court records can still appear on private background checks due to information being found online.
 This bill requires restriction and sealing of GCIC and court records at sentencing.
 This way, private background check companies cannot report successful First Offender cases providing a defendant with a true second chance.
-- HB 927 – The Blaze Pink Bill.
+HB 927 – The Blaze Pink Bill.
 This bill would authorize fluorescent pink to be worn on hunting outer garments in addition to fluorescent orange.
 In states where fluorescent pink has been added, hunting license sales have increased significantly.
-- HB 936 – Protecting our Kids Bill.
+HB 936 – Protecting our Kids Bill.
 Multiple occupancy restrooms or changing rooms in a public school or local school system will be used exclusively by individuals of the biological sex for which the room is intended.
 Also requires that only members of the same biological sex may sleep in the same room on school overnight outings.
-- HB 942 – Increases the penalties for “sextortion.” In addition to what is included in the current Code, a first offense would require a psychological evaluation at the expense of the defendant and require community service.
+HB 942 – Increases the penalties for “sextortion.” In addition to what is included in the current Code, a first offense would require a psychological evaluation at the expense of the defendant and require community service.
 Added to the current Code, second and subsequent convictions would require one to five years imprisonment and registration with the state sex offender registry.
 If the actions lead to the suicide or death of the victim, five to ten years imprisonment would be required.
 Also, the defendant would be required to pay court costs and other fees upon conviction.
-Appropriations Hearings
-Now that the 2024 legislative session has begun, I will spend most of my time over the coming weeks in Atlanta.
+Appropriations Hearings Now that the 2024 legislative session has begun, I will spend most of my time over the coming weeks in Atlanta.
 After we celebrate the Martin Luther King Jr. holiday, my colleagues and I will begin our work on the most important piece of legislation of this session: the state budget.
 The House and Senate Appropriations committees will hear directly from the governor, other statewide elected officials, and state agency heads to discuss their recommendations beginning Tuesday morning.
 The Appropriations committees will continue to meet throughout the coming weeks to discuss budget requests.
 II look forward to sharing updates with you about the process.
-Visitors from District 156
-It was lovely to see some visitors from Fitzgerald county last week:
-- Austin Futch is a friend who is also a trusted realtor and volunteer with the Ben Hill GOP.
+Visitors from District 156 It was lovely to see some visitors from Fitzgerald county last week: Austin Futch is a friend who is also a trusted realtor and volunteer with the Ben Hill GOP.
 It was nice to visit with him at the annual Wild Hog Supper the evening before session began.
-- Melissa Dark brought a great crowd to Atlanta for the Georgia Chamber of Commerce’s Annual Eggs and Issues Breakfast and a visit to the Gold Dome.
+Melissa Dark brought a great crowd to Atlanta for the Georgia Chamber of Commerce’s Annual Eggs and Issues Breakfast and a visit to the Gold Dome.
 As our House committees meet throughout the session, you can attend these meetings in person or watch live streams of all official committee and subcommittee meetings on the House website.
-To find a link and viewing instructions, visit the constituent page of my website here.
+To find a link and viewing instructions, visit the constituent page of my website here .
 I welcome you to reach out to me with your thoughts and opinions on issues or policies as we move throughout the legislative session.
-You may email me directly at Leesa.Hagan@house.ga.gov.
+You may email me directly at Leesa.Hagan@house.ga.gov .
 Thank you for allowing me to serve as your state representative for House District 156.
-By the way, if you’d like to receive future legislative updates directly in your email inbox, you may click here to sign up.
-Kind regards,
+By the way, if you’d like to receive future legislative updates directly in your email inbox, you may click here to sign up .
+Kind regards, Search Search Recent Articles Final 2026 Session Update Week 10 Session Update Week 9 Update: 2027 budget Week 8 Session Update: Crossing Over Week 7 Session Update: The amended budget Article Categories 2023 Posts 2024 Posts 2025 Posts 2026 Posts Follow Leesa on Social Facebook Twitter LinkedIn Friends of Leesa Hagan P.
+O.
+Box 1228 | Lyons, GA 30436 contact@LeesaHagan.com Follow Follow Follow Paid for by Friends of Leesa Hagan Design by Cardinalis – Websites – SEO – Graphic Design

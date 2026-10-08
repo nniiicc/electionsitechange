@@ -2,11 +2,16 @@ Issues Propositions News Guiding Principles About Contact Us Why Am I Running?
 Meet Arthur Yard Signs Volunteer Contribute On the Issues On these or any other issue, I am asking for input from fellow residents.
 Please send me your ideas, or volunteer to get involved using the Contact form, or send an email to ArthurWebbAssembly@gmail.com.
 California, Yes We Can Reduce Our Fuel Bills Sep 29 Question: Are you happy paying an extra $16 per fill-up?
+Correction: As of Oct 7 it is now $20 extra per fill-up.
+Same AAA source.
 How can this be possible?
 Let’s dig into the facts and the causes.
 First, the above estimate is based on 10 gallons per typical fill-up.
 The Sep 11 difference between California prices and the national average is $1.63, as measured by AAA.
 So, $16 per fill-up.
+Take a $20 bill out of our pocket and let it fly away in the wind.
+Feels good, right?
+Not.
 Several components to this problem are not measurable and appear near the end of this article.
 One that can be solved is the excessive gas excise tax, which takes us to SB1 (2017).
 EV owners might want to read along, since SB1 affected you also.

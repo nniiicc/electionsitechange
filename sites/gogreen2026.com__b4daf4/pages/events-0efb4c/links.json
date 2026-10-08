@@ -112,10 +112,6 @@
 "href": "http://maps.google.com?q=online"
 },
 {
-"text": "(map)",
-"href": "http://maps.google.com?q=washington+boulevard+baltimore%2C+md+united+states"
-},
-{
 "text": "0",
 "href": "https://www.gogreen2026.com/cart"
 },
@@ -337,10 +333,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pigtown+Festival&dates=20250927T160000Z%2F20250927T230000Z&location=Washington+Boulevard%2C+Baltimore%2C+MD%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pigtown+Festival&dates=20260926T160000Z%2F20260926T230000Z&location=700-900+Blocks%2C+Washington+Boulevard%2C+Baltimore%2C+Maryland+21230%2C+United+States"
 },
 {
@@ -497,10 +489,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.gogreen2026.com/events/pigtown-festival?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-city-2026-08-23?format=ical"
 },
 {
@@ -552,10 +540,6 @@
 "href": "https://www.gogreen2026.com/events/2026pigtownfest-hl4m6-s7w6j"
 },
 {
-"text": "Pigtown Festival",
-"href": "https://www.gogreen2026.com/events/pigtown-festival"
-},
-{
 "text": "Platform",
 "href": "https://www.gogreen2026.com/platform"
 },
@@ -589,7 +573,7 @@
 },
 {
 "text": "Read more →",
-"href": "https://www.gogreen2026.com/events/2026takomaparkfolkfestival"
+"href": "https://www.gogreen2026.com/events/2026postdebatetownhall"
 },
 {
 "text": "Read more →",
@@ -733,10 +717,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.gogreen2026.com/events/pigtown-festival"
-},
-{
-"text": "View Event →",
 "href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-city-2026-08-23"
 },
 {
@@ -876,11 +856,11 @@
 "href": "https://www.gogreen2026.com/events/2026pigtownfest-hl4m6-s7w6j"
 },
 {
-"text": "[image: Pigtown Festival]",
-"href": "https://www.gogreen2026.com/events/pigtown-festival"
+"text": "[image: Post-Debate Town Hall]",
+"href": "https://www.gogreen2026.com/events/2026postdebatetownhall"
 },
 {
-"text": "[image: Post-Debate Town Hall]",
+"text": "[image: Post-Debate Town Hall] Oct 7",
 "href": "https://www.gogreen2026.com/events/2026postdebatetownhall"
 },
 {
@@ -893,10 +873,6 @@
 },
 {
 "text": "[image: Takoma Park Folk Festival]",
-"href": "https://www.gogreen2026.com/events/2026takomaparkfolkfestival"
-},
-{
-"text": "[image: Takoma Park Folk Festival] Sep 27",
 "href": "https://www.gogreen2026.com/events/2026takomaparkfolkfestival"
 },
 {

@@ -1,4 +1,4 @@
-Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Organizing Director Organizing Directors will be critical to developing and implementing volunteer recruitment and voter contact programs that win close elections.
+Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Organizing Director Organizing Directors will be critical to developing and implementing volunteer recruitment and voter contact programs that win close elections.
 They will hire, develop, and manage Organizing teams on state-coordinated campaigns.
 Organizing Directors should be resilient leaders and creative thinkers who can hold themselves and teams accountable to ambitious goals.
 Organizing Directors will be senior-level staff on the coordinated campaign and will work closely with other departments to implement programming to elect Democrats up and down the ballot.

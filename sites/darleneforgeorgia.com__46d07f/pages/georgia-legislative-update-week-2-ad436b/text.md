@@ -1,5 +1,4 @@
-Georgia Legislative Update – Week 2
-This week the Georgia General Assemble did not meet in full session.
+Skip to content Menu Home Resources Legislative Updates Contact Donate Close Menu January 27, 2025 Georgia Legislative Update – Week 2 This week the Georgia General Assemble did not meet in full session.
 Monday was the day we celebrate and honor the life and work of Reverend Martin Luther King, Jr.
 As a National Holiday, numerous events across the state are planned and many of the members of the General Assembly were able to attend these services.
 This year because of the inauguration of the 47th President, Donald Trump, there were even more events to celebrate.
@@ -68,5 +67,8 @@ We will return to the Gold Dome Monday January 27,2025 and continue with our mee
 You can contact me with any questions and concerns you may have as this legislative session progresses.
 Rep.
 Darlene Taylor may be reached at her office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246.
-For constituent services regarding state agency related matters, please contact the District office at the local number which is 225-9943 ext. 215 or email gahouseseat173@gmail.com
-Thank you for allowing me to serve as your state representative for Thomas and Grady counties, this legislative term.
+For constituent services regarding state agency related matters, please contact the District office at the local number which is 225-9943 ext.
+215 or email gahouseseat173@gmail.com Thank you for allowing me to serve as your state representative for Thomas and Grady counties, this legislative term.
+Georgia Legislative Update – Week 1 Georgia Legislative Update – Week 3 Related Posts Updates Georgia Legislative Update – Week 1 Ending January 17, 2026 Updates Georgia Legislative Update – Session Report Updates Georgia Legislative Update – Press Release Back To Top Darlene Taylor Post Office Box 6580 Thomasville, GA 31757 (229) 225-9943 Ext.
+215 ⓒ Rep.
+Darlene Taylor 2022 ☆ Paid by Darlene For Georgia Campaign

@@ -1,5 +1,5 @@
 0 Skip to Content Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Folder: Our Georgia Back Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Back Donate Southwest Georgia.
-May 25 Written By Elliot Valdez Throughout my military career, serving in both the Army and Navy, I've witnessed firsthand the tragedies that come with defending our nation.
+May 25 Written by Elliot Valdez Throughout my military career, serving in both the Army and Navy, I've witnessed firsthand the tragedies that come with defending our nation.
 I've stood beside brave men and women who never returned home, and I've carried the weight of their sacrifices with me every day since.
 These fallen service members embodied the traditions and values that define true America and what every American should aspire to be.
 Their courage in the face of danger, their commitment to duty despite the personal cost, and their devotion to their fellow service members represent the highest ideals of our nation.

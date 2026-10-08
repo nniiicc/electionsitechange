@@ -34,8 +34,7 @@ Now, Pan said, he is running for Congress to improve lives and make government w
 “He will say whatever he needs to keep himself in office.” Sacramento Bee: See congressional candidate Richard Pan talk about protecting Constitution from Trump “We need to restore the balance of power in the federal government.” “The founders of this country…wrote the constitution so there’s a balance of power.
 They weren’t talking about political parties when they said balance of [power], but they were counting on members of Congress willing to hold the president accountable when the president basically was going beyond the powers that were enumerated in the constitution.” “This Congress, including Kevin Kiley…has been unwilling to truly challenge the president when he commits things like trying to challenge a free and fair election here in this country.” “That’s a problem.
 Our constitution counts on us – the people and our elected leaders – to actually look out for it.
-Otherwise it’s just a piece of paper.” ### Daisy Stein Previous Previous Local Leaders Endorse Dr.
-Richard Pan for Congress Next Next The Sacramento Bee: Democrat Pan frames newly Independent Kiley as Trump-aligned in 6th District race ABOUT ‍ ‍ ISSUES ‍ ‍ NEWS ‍ ‍ ENDORSEMENTS ‍ GET INVOLVED ‍ PAID FOR BY Dr.
+Otherwise it’s just a piece of paper.” ### Daisy Stein ABOUT ‍ ‍ ISSUES ‍ ‍ NEWS ‍ ‍ ENDORSEMENTS ‍ GET INVOLVED ‍ PAID FOR BY Dr.
 Richard Pan for Congress Prefer to donate by check?
 2701 Del Paso Road, Ste 130-159 Sacramento CA 95835 © Copyright #.
 All Rights Reserved.

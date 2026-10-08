@@ -1,7 +1,7 @@
 Home NEWS!!
 Meet Scott Events Issues Events Here are the many events Scott will be attending or HOSTING in the upcoming months... especially Hosting Community Town Halls, specifically for everyone in Knox, Holmes and Coshocton Counties .
 Take a look and plan on meeting and saying hello.
-#ago This Week This Month ‹ Previous Wed Oct 7 2026 - Tue Jan 5 2027 Next › 15 Oct Thursday, 6:00 PM – 8:00 PM Community Town Hall in Mt.
+#ago This Week This Month ‹ Previous Thu Oct 8 2026 - Wed Jan 6 2027 Next › 15 Oct Thursday, 6:00 PM – 8:00 PM Community Town Hall in Mt.
 Vernon 405 W.
 Chestnut Street, Mt.
 Vernon, OH, 43050 Your candidates for U.S.

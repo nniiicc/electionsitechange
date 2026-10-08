@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News State Rep Kiel: If businesses can open, so can churches After seeing how the initial shutdown across Alabama and other states have done, it’s clear that small businesses were impacted far more than big box stores because they were allowed to remain open in most states.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News State Rep Kiel: If businesses can open, so can churches After seeing how the initial shutdown across Alabama and other states have done, it’s clear that small businesses were impacted far more than big box stores because they were allowed to remain open in most states.
 Now, State Representative Jamie Kiel (R-Russellville) wants to make sure that Continue Reading Bill would allow Alabama businesses to stay open during state of emergency due to pandemic State Rep.
 Jamie Kiel believes many businesses were not treated fairly this year when they were told to close while their competition could stay open.
 “I thought that made an unfair bias towards those businesses that were open and was looking for a way to correct that,” Kiel said.

@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements 84 housing units set to open for Almeda Fire victims Monday Mariah Mills | The Mail Tribune LINK TO ARTICLE file photo Phoenix-Talent Superintendent Brent Barry.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements 84 housing units set to open for Almeda Fire victims Monday Mariah Mills | The Mail Tribune LINK TO ARTICLE file photo Phoenix-Talent Superintendent Brent Barry.
 DOWNTOWN MEDFORD, Ore. — Similar to the former Inn at the Commons and Ramada Inn, America’s Best Value Inn on Riverside Avenue is being converted into housing for families devastated by 2020’s Almeda Fire.
 Portland-area-based Fortify Holdings is behind all three projects.
 It’s working with various community partners on converting old motels into housing units for people in need.

@@ -10,7 +10,7 @@ Harriet Hageman Bill Targets Wyoming Public Lands (5/31/2026) Dear Casper, Publi
 We love our wide-open spaces, and we understand there are few places on Earth as beautiful as this state.
 So, imagine my surprise, and that of my neighbors, friends, and colleagues, when we learned that Harriet Hageman, a fourth-generation Wyomingite, introduced a bill to rescind the Roadless Rule.
 Hageman claims the Roadless Rule has been “devastating” to the West, but rescinding it would open some of our most pristine natural spaces to...
-5 0 1 Feb 11, 2026 ∙ 5 min Letter to the Editor 6/29/2025: Wyoming’s school voucher law is unconstitutional Dear Casper, I am writing as a concerned citizen of Wyoming and parent of a child in public school.
+6 0 1 Feb 11, 2026 ∙ 5 min Letter to the Editor 6/29/2025: Wyoming’s school voucher law is unconstitutional Dear Casper, I am writing as a concerned citizen of Wyoming and parent of a child in public school.
 In the 2025 legislative session, House Bill 199 passed.
 This bill was sponsored by Ocean Andrew.
 HB199, or the Wyoming Freedom Scholarship Act, gives $7,000 per child to any family that chooses not to have their child or children in public school.

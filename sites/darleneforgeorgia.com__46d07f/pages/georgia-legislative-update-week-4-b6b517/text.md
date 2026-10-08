@@ -1,5 +1,4 @@
-Georgia Legislative Update – Week 4
-Your Georgia House of Representatives reconvened on Monday, February 3rd for the fourth week of the 2025 legislative session.
+Skip to content Menu Home Resources Legislative Updates Contact Donate Close Menu February 10, 2025 Georgia Legislative Update – Week 4 Your Georgia House of Representatives reconvened on Monday, February 3rd for the fourth week of the 2025 legislative session.
 Monday was Legislative Day 10; we are now more than a quarter of the way through our 40-day session.
 This week, our efforts were focused on fulfilling our constitutional duty to pass a balanced budget.
 To that end, the House Rules Committee convened for the first time this year and set the first Rules calendar of the session.
@@ -86,5 +85,9 @@ As always, we encourage you to reach out with any questions or concerns about th
 Feel free to schedule a call or visit to discuss the issues that are most important to you and your family.
 Please know that I can be can be reached as follows: Rep.
 Darlene Taylor may be reached at her office in the Capital Building 245-B or via email at darlene.taylor@house.ga.gov or by phone at (404) 463-2246.
-Please contact the District office in Thomasville for any constituent matters regarding state agency issues at 225-9943 Ext. 215 and gahouseseat173@gmail.com We look forward to hearing from you.
+Please contact the District office in Thomasville for any constituent matters regarding state agency issues at 225-9943 Ext.
+215 and gahouseseat173@gmail.com We look forward to hearing from you.
 As always, thank you for allowing me to serve as your representative.
+Georgia Legislative Update – Week 3 Georgia Legislative Update – Week 5 Related Posts Updates Georgia Legislative Update – Week 1 Ending January 17, 2026 Updates Georgia Legislative Update – Session Report Updates Georgia Legislative Update – Press Release Back To Top Darlene Taylor Post Office Box 6580 Thomasville, GA 31757 (229) 225-9943 Ext.
+215 ⓒ Rep.
+Darlene Taylor 2022 ☆ Paid by Darlene For Georgia Campaign

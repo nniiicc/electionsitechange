@@ -8,7 +8,7 @@ Privacy Policy /Terms & Conditions Name (Required) First Last Address Street Add
 Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Åland Islands Email (Required) Enter Email Confirm Email Phone Comments Please let us know what's on your mind.
 Have a question for us?
 Ask away.
-Solve: 5 + 3 = ?
+Solve: 9 - 1 = ?
 Friends of Helmer for Assembly, Jerry Helmer, Treasurer.
 Our Address: Our Address: E10948 County Road PF, Prairie Du Sac, WI 53578.
 Phone: +1 (608) 513-1393 Email: Info@helmerforassembly.com Social Info Flaticon-facebook-app-symbol Twitter Linkedin-in Pinterest-p Flaticon-instagram-1 Donate Copyright © # Friends of Helmer For Assembly.

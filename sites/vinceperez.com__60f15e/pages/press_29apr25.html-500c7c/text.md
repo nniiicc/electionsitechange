@@ -1,4 +1,4 @@
-VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · April 29, 2025 Texas House Higher Education Committee Holds Hearing on Rep.
+Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · April 29, 2025 Texas House Higher Education Committee Holds Hearing on Rep.
 Perez's UTEP Law School Bill The House Higher Education Committee hears HB 3475, Vince's bill authorizing Texas university systems to formally propose a public law school for El Paso County.
 The full press release will be ported here at launch.
 View the archived release at vinceperez.com .

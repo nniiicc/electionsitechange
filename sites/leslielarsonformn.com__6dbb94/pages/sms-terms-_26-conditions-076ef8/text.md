@@ -58,6 +58,6 @@ Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
 Prepared and paid for by Leslie Larson for MN, P.O.
-Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
+Box 490453, Blaine, MN 55449 Gallery About Privacy Policy SMS Terms & Conditions Housing LeslieLarsonForMN@gmail.com. | (612)465-9314 Join the momentum Join Leslie in making Blaine, Lexington, and Minnesota stronger.
 Together we can deliver real solutions.
 Donate

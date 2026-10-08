@@ -108,9 +108,25 @@ I would love to hear from you as I build out a community rolodex.
 I am not looking to make decisions singlehandedly based on my own ideas, but rather will rely on those with experience and knowledge to add to my understanding of these values as it relates to lawmaking.
 Do not hesitate to reach out via my contact page to lend me your perspective and help me with the nitty gritty.
 I personally am of the belief that conversation and the sharing of perspectives is what good representation relies on.
+Our Justice System & Protecting Girls I think it’s safe to day our justice system in Maine is broken.
+Eliot Cutler is finally returning to jail for only 73 more days after violating the terms of his probation 6 times since September of ‘25.
+This after serving only ~6 months (getting out early for good behavior) after investigators had found tens of thousands of images and videos of child sexual abuse material on Cutler's electronic devices.
+This in itself is reprehensible, and only a small look into the current state of our justice system.
+I’ve seen no shortage of domestic abusers and belligerent locals released from custody after meeting insignificant bail postings.
+While I think some crime is perpetuated by a lack of resources for some, what I see in my community cannot be excused.
+Maine is not the small state that many in places of power still see it as - while rates of crime remain low, criminal activity has been pervasive, and we have failed to catch up.
+To the same end, it is not prepared for the action that needs to be taken.
+Maine remains the only state in the nation without a fully functional, statewide public defender system, is the only New England state without a parole system, and lacks independent prison oversight.
+I believe similarly, our schools are in need of an independent oversight apparatus.
+Growing up I watched multiple students become victims of teachers, parents, and students.
+There was no avenue for student reporting that didn’t go through the administrative office, which was staffed by those teachers longtime peers, or even family members.
+No student should have to wonder if there is any recourse for comments or actions made by the adults or peers that share a school with them.
+Students should feel at ease in school, and pretending these problems don’t exist because we aren’t prepared to address them is an injustice felt deepest by those without a voice when it comes to policy.
+Our state should develop strong standards of respect by drawing from resident’s past harmful experiences, and create an oversight apparatus independent of the individual schools or unions as a resource to respond, record, track, and take action when students report harassment.
+As someone who is not hands on with these systems, I would seek guidance from citizens, relevant organizations, and those with law enforcement experience to develop solutions to these issues.
 I understand the urgency of this time, and live with it everyday alongside you.
 That’s why, win or lose, I will be in Augusta fighting for our interests & bringing attention to the dire straits we are in.
-By electing me, your vote can move me beyond pleading with lawmakers, and grants me more power than many Americans see in their lifetimes - that is something I take very seriously.
+By electing me, your vote can move me beyond pleading with lawmakers, and grants me more power than many Americans see in their lifetimes - That is something I take very seriously.
 Everything I have I owe to the life this community has given me.
 It would be an honor and a privilege to serve you in the Maine Legislature.
 I hope that I can count on your vote November 3rd, 2026 This is a Maine Clean Election Campaign.

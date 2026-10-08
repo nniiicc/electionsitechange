@@ -30,7 +30,12 @@ Why does Jadene support David Jolly after decades away from politics?
 Jadene says the last candidate she volunteered for was John Kennedy.
 She came back because David Jolly listens to people regardless of party and explores ideas that make life better for families like hers.
 See the video at 2:25 for her explanation.
-More on this topic Overview Meet David Jolly — Florida Governor 2026 In depth Believe in Better - David Jolly for Florida Governor In depth What Makes America Great Has Nothing to Do with Politics In depth Voices on the Trail - Rev.
+More on this topic Overview Meet David Jolly — Florida Governor 2026 In depth Believe in Better - David Jolly for Florida Governor In depth Believe In Better In depth It Takes You Back - The Power of Hymns In depth David Jolly: People and Priorities First.
+Always.
+In depth David Jolly - Tomorrow is a big day for our state In depth Gwen Graham - Competency.
+Character.
+Trust.
+In depth Gwen Graham - Proud to serve beside David Jolly In depth Meet Gwen Graham - Florida's next Lieutenant Governor In depth Gwen Graham - Like My Father In depth What Makes America Great Has Nothing to Do with Politics In depth Voices on the Trail - Rev.
 Dr.
 R.B.
 Holmes In depth David Jolly: It's Not Want.

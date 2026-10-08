@@ -21,5 +21,5 @@ Stay home and don’t even think about mailing in your ballot.
 That is the only way to discipline your formerly great Republican Party.
 If you want to rescue TRUE conservatism, you must do your part to reform that party.
 It has been highjacked by a New York con artist, and you must be brave enough to walk away.
-Steve Kobb Concerned Citizen More posts are available for your reading pleasure at https://www.laura4tx.com/blog Recent Posts See All Similarities and Differences Hawks, Hawkeyes, and the defense of Donald Trump Community First info@laura4tx.com laurajonesforcongress@gmail.com Laura Jones - FOR CONGRESS - © Paid for by Laura Jones for Congress P.O.
+Steve Kobb Concerned Citizen More posts are available for your reading pleasure at https://www.laura4tx.com/blog Recent Posts See All Character and Class Similarities and Differences Hawks, Hawkeyes, and the defense of Donald Trump info@laura4tx.com laurajonesforcongress@gmail.com Laura Jones - FOR CONGRESS - © Paid for by Laura Jones for Congress P.O.
 Box 742, Coldspring, Texas 77331 R bottom of page

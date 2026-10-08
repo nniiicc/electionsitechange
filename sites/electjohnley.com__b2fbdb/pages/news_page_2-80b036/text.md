@@ -1,4 +1,7 @@
-Home News Latest News 60 Seconds With John Ley About Me Donate Latest News Rep.
+Home News Latest News 60 Seconds With John Ley About Me Donate Latest News Peter Abbarno: Sarah Mittelman is the ‘perfect candidate’ for the 49th District Issues July 25, 2026 by John Ley Rep.
+Peter Abbarno says Sarah Mittelman is the “perfect candidate” for Washington’s 49th Legislative District and explains why successful candidates must fit the communities they seek to represent.
+Read more Fighting to get Brockmann open Issues July 8, 2026 by John Ley Pushing for a public-private partnership to open Brockmann There was a meeting of state government health and social service staff and several legislators at the Brockmann Campus on July 8....
+Read more Rep.
 John Ley joins Lars Larson to question the rising cost of the I-5 Interstate Bridge Replacement Issues July 2, 2026 by Admin Rep.
 John Ley joined Lars Larson to discuss the Interstate Bridge Replacement project and compare its rising cost with the Hood River-White Salmon Bridge replacement.
 Read more Brockmann Campus must open Issues Solutions June 26, 2026 by John Ley People in a mental health crisis need this facility Tuesday, June 16, 2026 — The Reflector #ago, Southwest Washington should have been celebrating the opening of the Brockmann Campus,...
@@ -18,9 +21,7 @@ This episode highlights numerous unnecessary...
 Read more Rep.
 John Ley Discusses TriMet Deficit, Job Cuts and Light Rail Spending with Lars Larson Issues May 27, 2026 by John Ley Rep.
 John Ley joined Lars Larson to discuss TriMet’s reported $224 million deficit, proposed job cuts, administrative costs, light rail spending, and the need to refocus transit priorities.
-Read more Lawmaker warns interstate bridge project tolls could be higher than forecast Issues May 27, 2026 by John Ley State Transportation Commission considering $18 tolls for I-405 could bring them to IBR By Carleen Johnson | The Center Square (The Center Square) – One of the sharpest critics of design...
-Read more Scene of the Crime — The $17 billion IBR is a total rip off of taxpayers Scene of the Crime May 27, 2026 by John Ley Digging into the waste, fraud and abuse of taxpayers This I-5 Interstate Bridge Replacement (IBR) is a huge crime scene, with many, many facets of waste, potential fraud, and abuse...
-Read more Newer Posts Older Posts Latest Episode: 60 Seconds With John Ley Latest News Washington has a spending addiction Washington lawmaker warns ballooning bridge budget needs reality check Stop rewarding fiscal mismanagement on the IBR; enough is enough Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
+Read more Newer Posts Older Posts Latest Episode: 60 Seconds With John Ley Latest News Opinion: They’re coming for your money — and your retirement Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset Washington has a spending addiction Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

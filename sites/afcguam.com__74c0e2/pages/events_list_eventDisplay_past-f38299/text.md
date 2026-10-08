@@ -1,7 +1,7 @@
 Home About Platform Events Join the Campaign Contact Us Select Page 5 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 6/12/2026 June 12 - 10/7/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 6/12/2026 June 12 - 10/8/2026 Now Select date.
 June 2026 Fri 12 Santa Rita/Sumai’s 1st Annual Papaya Block Party June 12 @ 7:00 pm - June 13 @ 7:00 am ChST Santa Rita-Sumai Community Center 25 Gregorio S.
 Borja Drive, Santa Rita, Guam, Guam Date and time: Fri, Jun 12, 2026 at 7:00 PM - Sat, Jun 13 at 7:00 AM Location: Santa Rita-Sumai Community Center Members: Tricia B.
 Thu 25 Site Dedication for New Hospital June 25 @ 7:00 pm - 8:00 pm ChST Pagat (across GPA entrance) Rt.

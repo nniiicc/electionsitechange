@@ -1,4 +1,4 @@
-top of page Terms of Service Last Revised: 4/19/2026 These Terms of Service (“Terms”) apply to your access to and use of the websites and other online services (collectively, the “Services”) provided by Vince George for Congress ("our campaign", “we”, or “us”).
+top of page Home Platform About Vince Volunteer Get Emails & Texts Donate Terms of Service Last Revised: 4/19/2026 These Terms of Service (“Terms”) apply to your access to and use of the websites and other online services (collectively, the “Services”) provided by Vince George for Congress ("our campaign", “we”, or “us”).
 By accessing and using the Services, you agree to these Terms.
 If you do not agree to these Terms, do not use the Services. ​ We may provide additional or different terms and conditions with respect to some of the Services (“Additional Terms”).
 If you use any Services with Additional Terms, the Additional Terms will apply to your use of such Services.

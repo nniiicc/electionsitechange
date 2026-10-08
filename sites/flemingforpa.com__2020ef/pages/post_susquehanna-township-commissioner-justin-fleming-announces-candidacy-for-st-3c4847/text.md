@@ -1,6 +1,5 @@
-Susquehanna Township Commissioner Justin Fleming Announces Candidacy for State Representative
-Updated: Feb 3, 2022
-Hello.
+top of page DONATE GET INVOLVED HOME ABOUT WHAT I BELIEVE NEWS & ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
+Susquehanna Township Commissioner Justin Fleming Announces Candidacy for State Representative Feb 2, 2022 2 min read Updated: Feb 3, 2022 Hello.
 My name is Justin Fleming, proud citizen and public servant in Susquehanna Township with life-long connections to Harrisburg’s East Shore.
 Today, I am proud to announce my candidacy for the new 105th state legislative district.
 Throughout my life, I have walked and ridden these streets, made amazing friends, struck up conversations while supporting one of the district's wonderful small businesses, volunteered and worked alongside community leaders to empower and uplift our neighbors.
@@ -33,3 +32,7 @@ I'm here to do the work.
 As my experience shows, I'm here to support my neighbors and strengthen my community through public service.
 In the months to come, I will be excited to speak with every person I can in the 105th district about your hopes for the future.
 I will seek to hear your concerns, to truly listen, to introduce you to who I am, and to let you know how I will humbly serve as your state representative.
+Related Posts See All We Made History in Dauphin County!
+Stay up-to-date on the campaign.
+Join You're on the list!
+Policy Platform Education > Working Families > Infrastructure > Social Justice > Healthcare > Environment > About Justin Biography > News > Endorsements > Help the Campaign Get Involved > Donate > Contact > Follow Justin Paid for by Friends of Justin Fleming. bottom of page

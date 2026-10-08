@@ -1,5 +1,6 @@
-Legislative Recap: Free Speech and the First Amendment in Tennessee
-Freedom of speech is not a partisan issue.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES All Posts Search Legislative Recap: Free Speech and the First Amendment in Tennessee Team Reneau Jun 14 2 min read Freedom of speech is not a partisan issue.
 It is the foundation of every other right we have.
 Without it, we cannot worship freely, govern ourselves, hold our elected officials accountable, or pass our values to the next generation.
 This session, Tennessee took meaningful action to defend it.
@@ -17,3 +18,5 @@ The freedom to speak, worship, and assemble is not granted by the government.
 It is recognized by the government and defended by elected officials who understand what is at stake.
 The First Amendment was the first one written for a reason.
 Everything else we cherish depends on it.
+Recent Posts See All Citizen's Voices: A Digital Collection of Community Op-Eds Legislative Recap: Investments in Rural Tennessee and Hamilton County Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

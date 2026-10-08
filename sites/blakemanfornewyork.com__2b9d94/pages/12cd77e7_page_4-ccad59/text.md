@@ -20,8 +20,8 @@ TURNED NASSAU COUNTY INTO THE #1 SAFEST COUNTY IN AMERICA Under Bruce Blakeman�
 Blakeman said NO to Kathy Hochul’s sanctuary policies, and worked with ICE to take criminals off our streets.
 HIRED 900+ NEW POLICE AND LAW ENFORCEMENT OFFICERS As County Executive, Bruce Blakeman hired 600 new Police and Law Enforcement Officers to keep Nassau families safe - helping to improve response times, boost neighborhood patrols and make Nassau the safest County in America.
 Blakeman has a no-nonsense approach to fighting crime.
-NO PROPERTY TAX INCREASES Bruce Blakeman eliminated $# million in property tax hikes scheduled by his predecessor.
-As County Executive he didn’t raised property or sales taxes by a single penny.
+NO PROPERTY TAX INCREASES Bruce Blakeman eliminated $150 million in property tax hikes scheduled by his predecessor.
+As County Executive he didn’t raise property or sales taxes by a single penny.
 As Governor, he will deliver real relief to homeowners and renters - just as he did as County Executive.
 MEET TODD LEARN MORE Sheriff Todd Hood is Bruce Blakeman’s running mate for Lieutenant Governor of New York.
 A career law enforcement leader, he brings more than 30 years of experience protecting communities and strengthening public safety.

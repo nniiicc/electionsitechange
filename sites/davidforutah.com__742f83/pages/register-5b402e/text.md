@@ -6,7 +6,20 @@ For your privacy, your progress is not saved.
 Utah Voter Registration Tool For Utah County residents only Fills out the official Utah voter registration form and builds a PDF to email to the county.
 Not an official government tool.
 Registration deadlines Friday, Oct 23 is the last day to register if you want a ballot mailed to you You can also register in person during early voting (Oct 20–30) or on election day (Nov 3) Found a problem with this tool?
-Email info@davidforutah.com Step 1 of 7 Before you start, you'll need: a pen, paper, and proof of citizenship. (see examples) Utah driver license or ID card number that verifies U.S. citizenship Birth certificate that verifies U.S. citizenship U.S. passport pages showing your name and passport number Alien registration number that verifies U.S. citizenship U.S. naturalization documents Bureau of Indian Affairs card, tribal treaty card, or tribal enrollment number Certificate of degree of Indian blood, or Bureau of Indian Affairs affidavit of birth Citizenship verification from the federal SAVE program (Dept. of Homeland Security) Other proof allowed under the Immigration Reform and Control Act of 1986 First name * Middle name Last name * Suffix (Jr., Sr., II, III, IV) Name at birth (if different from above) Eligibility Date of birth * / / Are you a citizen of the United States? * Yes No Step 2 of 7 The address where you live.
+Email info@davidforutah.com Do you have a Utah driver license or state ID card?
+Yes No Not sure Does the Driver License Division have the address where you live now?
+If you've moved since you got or renewed your license, the answer is probably no.
+Yes No Not sure The state's online form is probably easier for you.
+It takes a few minutes at vote.utah.gov, and you can check whether you're already registered there too.
+Go to vote.utah.gov Use this form instead You have two options: Update your address online with the Driver License Division (Utah law asks you to do this within 10 days of moving anyway).
+If it asks about sharing your new address with election officials, say yes.
+Then register at vote.utah.gov.
+Or skip all that and fill out the form here.
+It works no matter what address is on your license.
+Fill out the form here Update my address with DLD Not sure what any of this means?
+Just fill out the form .
+It works for everyone.
+Step 1 of 7 Before you start, you'll need: a pen, paper, and proof of citizenship. (see examples) Utah driver license or ID card number that verifies U.S. citizenship Birth certificate that verifies U.S. citizenship U.S. passport pages showing your name and passport number Alien registration number that verifies U.S. citizenship U.S. naturalization documents Bureau of Indian Affairs card, tribal treaty card, or tribal enrollment number Certificate of degree of Indian blood, or Bureau of Indian Affairs affidavit of birth Citizenship verification from the federal SAVE program (Dept. of Homeland Security) Other proof allowed under the Immigration Reform and Control Act of 1986 First name * Middle name Last name * Suffix (Jr., Sr., II, III, IV) Name at birth (if different from above) Eligibility Date of birth * / / Are you a citizen of the United States? * Yes No Step 2 of 7 The address where you live.
 This is what determines your voting district, polling location, and elected representatives.
 Residential street address * (no P.O. boxes) Unit / Apt City or town * ZIP code * County 🔒 Utah Mailing address is the same as above The address where you receive mail.
 This is where your ballot and any correspondence will be sent.

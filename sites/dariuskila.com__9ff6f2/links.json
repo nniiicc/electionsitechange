@@ -1,6 +1,6 @@
 [
 {
-"text": "About",
+"text": "ABOUT",
 "href": "https://dariuskila.com/#about"
 },
 {
@@ -8,15 +8,15 @@
 "href": "https://dariuskila.com/#contact"
 },
 {
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/dariuskila"
+},
+{
 "text": "DONATE NOW",
 "href": "https://secure.actblue.com/donate/dariuskila"
 },
 {
-"text": "Donate",
-"href": "https://secure.actblue.com/donate/dariuskila"
-},
-{
-"text": "Issues",
+"text": "ISSUES",
 "href": "https://dariuskila.com/#issues"
 },
 {
@@ -28,7 +28,7 @@
 "href": "https://dariuskila.com/privacy-policy"
 },
 {
-"text": "Record",
+"text": "RECORD",
 "href": "https://dariuskila.com/#record"
 },
 {

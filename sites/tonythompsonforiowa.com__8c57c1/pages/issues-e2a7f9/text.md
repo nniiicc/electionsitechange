@@ -1,4 +1,4 @@
-Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Early Voting Donate Now Volunteer Newsletter Request a Sign The Issues Every policy decision comes back to one basic question: Does it make life better for Iowa families and our communities?
+Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Voting Donate Now Volunteer Newsletter Request a Sign The Issues Every policy decision comes back to one basic question: Does it make life better for Iowa families and our communities?
 My approach is grounded in three simple commitments: Strong Families.
 Strong Communities.
 Strong Futures.

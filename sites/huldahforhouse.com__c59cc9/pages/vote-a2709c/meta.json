@@ -1,7 +1,9 @@
 {
  "description": "Discover all things voting! How and where to vote, who and what will appear on your ballot, how to register, and more! We are here to help.",
  "final_url": "https://www.huldahforhouse.com/vote",
- "paid_for_by": null,
+ "fingerprint": "77417626059970f451ba8b0b618c0f3b0608a16a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "VOTER INFO | Huldah for House",
  "years_mentioned": []
 }

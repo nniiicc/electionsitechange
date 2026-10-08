@@ -5,7 +5,7 @@ Governor Tony Knowles (D) View fullsize Fmr.
 Senate President, Senate Majority Leader, and House Majority Leader Rick Halford (R) View fullsize Fmr.
 Senate Minority Leader Tom Begich View fullsize Fmr.
 State Senator and State Rep.
-Lesil McGuire (R) View fullsize State Senator Matt Claman View fullsize Alaska AFL-CIO View fullsize Western States Carpenters Union View fullsize Public Safety Employees Association Local 803 View fullsize Anchorage Police Department Employees Association PAC View fullsize Alaska Professional Firefighters Association View fullsize Teamsters Local 959 View fullsize Plumbers & Steamfitters UA Local 367 View fullsize IBEW Local 1547 View fullsize IUPAT District Council 5, Alaska Local 1959 View fullsize Inlandboatmen's Union of the Pacific View fullsize UAW Region 6 PAC/Alaska Graduate Workers Association View fullsize NEA-Alaska View fullsize AFGE Local 3028 View fullsize ASEA/AFSCME Local 52 PAC View fullsize Alaska Public Employees Association View fullsize Service Employees International Union Local 775 View fullsize Alaska Longline Fishermen's Association Anchorage View fullsize Assembly Member Erin Baldwin Day View fullsize Assembly Member Anna Brawley View fullsize Former Assembly Chair Chris Constant View fullsize State Senator Forrest Dunbar View fullsize Fmr.
+Lesil McGuire (R) View fullsize State Senator Matt Claman View fullsize Alaska AFL-CIO View fullsize International Union of Operating Engineers Local 302 View fullsize Western States Carpenters Union View fullsize Public Safety Employees Association Local 803 View fullsize Anchorage Police Department Employees Association PAC View fullsize Alaska Professional Firefighters Association View fullsize Teamsters Local 959 View fullsize Plumbers & Steamfitters UA Local 367 View fullsize IBEW Local 1547 View fullsize IUPAT District Council 5, Alaska Local 1959 View fullsize Inlandboatmen's Union of the Pacific View fullsize UAW Region 6 PAC/Alaska Graduate Workers Association View fullsize NEA-Alaska View fullsize AFGE Local 3028 View fullsize ASEA/AFSCME Local 52 PAC View fullsize Alaska Public Employees Association View fullsize Service Employees International Union Local 775 View fullsize Alaska Longline Fishermen's Association Anchorage View fullsize Assembly Member Erin Baldwin Day View fullsize Assembly Member Anna Brawley View fullsize Former Assembly Chair Chris Constant View fullsize State Senator Forrest Dunbar View fullsize Fmr.
 Speaker of the House/Fmr.
 State Senator Jim Duncan View fullsize State Rep.
 Zack Fields View fullsize Fmr.
@@ -17,7 +17,7 @@ Calvin Schrage View fullsize Assembly Member Sydney Scout View fullsize Fmr.
 State Rep.
 Ivy Spohnholz View fullsize Fmr.
 National Committeeman for the Alaska Democratic Party, Ed Wesley View fullsize Fmr.
-Assembly Member Meg Zaletel COastal & RuraL View fullsize Mayor Saima Chase, Kotzebue View fullsize Fmr.
+Assembly Member Meg Zaletel COastal & RuraL View fullsize Mayor Pat Branson, Kodiak View fullsize Mayor Saima Chase, Kotzebue View fullsize Fmr.
 Lt.
 Governor Val Davidson, Bethel View fullsize Fmr.
 City Council Member Charlie Davidson, Kodiak View fullsize Fmr.

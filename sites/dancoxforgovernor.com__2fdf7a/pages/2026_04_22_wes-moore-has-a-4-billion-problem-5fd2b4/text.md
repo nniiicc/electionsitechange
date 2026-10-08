@@ -40,9 +40,10 @@ Dan Cox May 6, 2026 Elections 35 years.
 Two trials.
 One mission.
 Dan Cox April 9, 2026 Economy Governor Wes Moore just appointed his own lawyer to serve as Maryland’s next Education Inspector General Dan Cox March 11, 2026 Dan Cox for Governor Feed WE WON THE DEBATE!
+October 7, 2026 WE WON THE DEBATE!
 October 6, 2026 Debate Prep!
 October 2, 2026 Debate Prep!
-October 2, 2026 Help us get our message on TV September 25, 2026 Help us get our message on TV September 24, 2026 Popular Posts Opened your electric bill yet?
+October 2, 2026 Help us get our message on TV September 25, 2026 Popular Posts Opened your electric bill yet?
 06 May 2026 Wes Moore has a $4 billion problem 22 Apr 2026 35 years.
 Two trials.
 One mission.

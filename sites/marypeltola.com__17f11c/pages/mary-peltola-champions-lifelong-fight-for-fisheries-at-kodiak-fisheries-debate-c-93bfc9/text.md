@@ -13,7 +13,7 @@ As Alaska’s representative, she led the fight for legislation to reduce bycatc
 She worked with colleagues across the aisle to secure more than half a billion dollars in federal funding to support Alaska’s fisheries.
 As a lifelong fisherman and a former permit holder, she’s seen firsthand the decline of salmon runs and the devastating impacts out-of-state trawlers are wreaking on our fisheries.
 She knows the stakes, and she’s running for Senate to fight for bold action to save our fish and restore abundance for Alaskans.
-More Statements: PHOTOS: Mary Peltola Rallies Fired-Up Volunteers at Anchorage Field Office READ MORE ICYMI: Mary Peltola Champions Alaska Oil and Gas: “Her Goal Is To Cut Energy Costs For Alaskans As Quickly As Possible” READ MORE PHOTOS: Mary Peltola Holds Community Meet and Greets In Ketchikan and Prince of Wales READ MORE PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY Discover more from Mary Peltola Subscribe now to keep reading and get access to the full archive.
+More Statements: PHOTOS: Mary Peltola Holds Meet and Greet in Naknek READ MORE PHOTOS: Mary Peltola Holds Meet and Greet in King Cove READ MORE PHOTOS: Mary Peltola Holds Meet and Greet in Dillingham READ MORE PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY Discover more from Mary Peltola Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading WE CAN'T DO IT WITHOUT YOUR HELP.
 Contribute to help Mary’s campaign today.
 MAKE A DONATION GET INVOLVED

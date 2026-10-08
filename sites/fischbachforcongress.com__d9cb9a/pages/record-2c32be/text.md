@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Fischbach’s Conservative Record – Fighting the Radical Left Fischbach’s Conservative Record – Fighting the Radical Left Note : Actions are from the current Session of Congress, the 119th, are in bold.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Fischbach’s Conservative Record – Fighting the Radical Left Fischbach’s Conservative Record – Fighting the Radical Left Note : Actions are from the current Session of Congress, the 119th, are in bold.
 Previous actions from her first (117) and second (118) terms are noted, where appropriate.
 Last updated : 2/2/2026 Protecting Freedoms Co-sponsored bill and voted AYE to prohibit the Federal reserve banks from offering or the use of central bank digital currency (CBDC) for monetary policy.
 (H.R.

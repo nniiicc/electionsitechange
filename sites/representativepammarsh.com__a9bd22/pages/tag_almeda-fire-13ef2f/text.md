@@ -1,5 +1,5 @@
-Skip to content Tue.
-Oct 6th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Tag: Almeda Fire MEDIA Manufactured home forum provides resources for people who lost homes in 2020 wildfires Jefferson Public Radio | By Jane Vaughan LISTEN HERE A manufactured home in Medford barely survived the Almeda Fire, but it took some damage.
+Skip to content Thu.
+Oct 8th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Tag: Almeda Fire MEDIA Manufactured home forum provides resources for people who lost homes in 2020 wildfires Jefferson Public Radio | By Jane Vaughan LISTEN HERE A manufactured home in Medford barely survived the Almeda Fire, but it took some damage.
 A variety of programs are being… MEDIA Phoenix-Talent schools to regain money lost from fire By Kevin Opsahl for the Mail Tribune LINK TO ARTICLE Gov.
 Kate Brown signs law allowing the district to get state grants to make up for money from lost students… MEDIA Bill to help Phoenix-Talent school funding introduced By Kevin Opsahl | Mail Tribune LINK TO ARTICLE Bill would allow the district ravaged by the Almeda fire to recoup funding Fulfilling a promise she made for the 2022… Posts pagination 1 2 … 5 DONATE TO PAM'S 2026 CAMPAIGN Follow Pam on Facebook REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 Proudly powered by WordPress | Theme: Newsup by Themeansar .
 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements

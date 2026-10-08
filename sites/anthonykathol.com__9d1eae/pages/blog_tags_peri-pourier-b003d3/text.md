@@ -1,6 +1,6 @@
 top of page Home About Me Testimonials Blog Donate Contact Blog The Importance of Freedom in Choices: A Day with Anthony Kathol at Dairy Queen State Senate Candidate Anthony Kathol makes a trip to his local Dairy Queen and discusses the importance of free enterprise.
 Anthony Kathol Jul 17 3 min read Featured Blog Post One of the Best Days on the Campaign Trail Discover why today was one of the best days on the campaign trail with District 27 State Senate Candidate Anthony Kathol, as he puts up yard signs in his hometown of Martin!
-#ago Putting South Dakota Politicians "Out to Pasture" in November Here is my latest campaign ad about what I like about South Dakota.
+Sep 30 Putting South Dakota Politicians "Out to Pasture" in November Here is my latest campaign ad about what I like about South Dakota.
 It's political satire about putting two of our local politicians "out to pasture" this November.
 Check out the YouTube video.
 Aug 27 Are polls trustworthy?

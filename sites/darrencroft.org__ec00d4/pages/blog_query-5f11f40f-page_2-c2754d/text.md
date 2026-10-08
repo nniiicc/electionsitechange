@@ -14,6 +14,6 @@ Thank you to the Precinct chairs from all over Salt Lake County who were there t
 I was grateful to meet some of the precinct chairs in district Blessed to live in Cottonwood Heights!
 February 25, 2026 We are so blessed to live in Cottonwood Heights!
 This is a beautiful sunrise I saw from the Cottonwood Heights Rec center in November 2025.
-Previous 1 2 Search Search Recent Posts Campaign Events Meet Darren Croft and Kathleen Anderson Neighborhood Meet and Greet Come Visit During Butlerville Days!
-Primary Results Recent Comments No comments to show.
+Previous 1 2 Search Search Recent Posts Edie Smart Campaign Events Meet Darren Croft and Kathleen Anderson Neighborhood Meet and Greet Come Visit During Butlerville Days!
+Recent Comments No comments to show.
 District 41 Map Privacy Policy/Terms & Conditions © # Darren Croft for Utah House Close Home Top 3 About Issues Endorsements News

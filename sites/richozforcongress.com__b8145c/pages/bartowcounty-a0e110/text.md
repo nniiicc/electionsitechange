@@ -1,4 +1,7 @@
-0 Skip to Content ☺ Meet Natalie ☢ Issues ☆ Take ACTION ♡ Outreach Donations Open Menu Close Menu ☺ Meet Natalie ☢ Issues ☆ Take ACTION ♡ Outreach Donations Open Menu Close Menu ☺ Meet Natalie ☢ Issues ☆ Take ACTION ♡ Outreach Donations Bartow County DATA CENTERS Switch KEEP 2.0 Atlanta North Campus A 126-acre hyperscale data center located off Old Alabama and Bates Road, just south of Cartersville near LakePoint and adjoined to the Carters Grove area.
+0 Skip to Content ☺ Meet Natalie ☢ Issues ☆ Take ACTION ♡ Outreach Donations Open Menu Close Menu ☺ Meet Natalie ☢ Issues ☆ Take ACTION ♡ Outreach Donations Open Menu Close Menu ☺ Meet Natalie ☢ Issues ☆ Take ACTION ♡ Outreach Donations Bartow County DATA CENTERS PROPOSED/PAUSED/CITIZEN COMMENTS 2 Data Centers Proposed for Kingston THESE ARE HYPER-SCALERS!
+Public Comment needs to be directed to the planning committee prior to October 13th 2026.
+The proposed Kingston Technology Hub data center project in the Kingston/Bartow County area is undergoing state and local review, though public comment and zoning proceedings are managed primarily through Bartow County and the Coosa Valley Regional Commission rather than a standalone city planning commission for Kingston.
+Switch KEEP 2.0 Atlanta North Campus A 126-acre hyperscale data center located off Old Alabama and Bates Road, just south of Cartersville near LakePoint and adjoined to the Carters Grove area.
 The Switch KEEP 2.0 Atlanta North Campus is in Phase 1.
 The first massive 1,620-foot data center building has come ONLINE, while subsequent buildings on the 126-acre site are actively under construction.
 The overall campus buildout is master-planned in phases through 2046 .

@@ -1,4 +1,4 @@
-Skip to content Meet Chellie Volunteer Meet Chellie Volunteer Facebook Threads Instagram Donate Privacy Policy and Terms of Service Last Updated 1/8/2026, 12:56:25 PM The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
+Skip to content Meet Chellie Volunteer Vote Meet Chellie Volunteer Vote Facebook Threads Instagram Donate Privacy Policy and Terms of Service Last Updated 1/8/2026, 12:56:25 PM The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we’ve created this policy to explain our privacy practices.
 This applies to https://www.chelliepingree.com/ only.
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices.

@@ -8,4 +8,5 @@ New challenges, including data centers, rising costs, and short-sighted developm
 I’m determined to change that and elevate the needs of our neighbors right here in District 121.” Davis, who has extensive experience teaching theater and design at some of the state’s most prestigious educational institutions, attended Stephens College in Columbia, Missouri and Cornell University in Ithaca, NY.
 As a teacher, Vicki Davis understands the importance of uplifting our youth and creating opportunity for our neighbors.
 Vicki’s roots in the Cherokee tribe further cement her goals of community and togetherness for all voters in District 121, regardless of socioeconomic status or partisan affiliation.
-Next New York Health Act Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top
+Next New York Health Act Vicki Davis for NYS Assembly 121 P.O.
+Box 135 Unadilla, NY 13849 Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

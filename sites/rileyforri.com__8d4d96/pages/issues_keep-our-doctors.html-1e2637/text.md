@@ -1,4 +1,4 @@
-Skip to main content Tuesday, September 29 · An Evening with Lou Riley · Alpine Country Club, Cranston RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues Real Estate Pros How to Vote Get Involved Endorsements RSVP · Sept 29 Get in Touch Issues / Keep Our Doctors Keep Our Doctors We can’t keep the physicians we have or attract the ones we need.
+Skip to main content Saturday, October 17 · Come Meet Lou · Merola’s, Scituate · 3–5 PM RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues How to Vote Get Involved Endorsements RSVP · Oct 17 Get in Touch Issues / Keep Our Doctors Keep Our Doctors We can’t keep the physicians we have or attract the ones we need.
 That is a Scituate problem, not just a Providence one.
 Plank Four of four.
 In a district where the nearest hospital is a drive and a primary care appointment can be a months-long wait, physician supply is a practical problem for families here, not a policy abstraction for a committee room.
@@ -29,8 +29,8 @@ Lost a doctor?
 Waiting months for an appointment?
 Lou wants the details.
 Constituent stories are what make this argument land at the State House.
-Talk to Lou Get Involved Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Endorsements How to Vote Get Involved Sept.
-29 Reception Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
+Talk to Lou Get Involved Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Real Estate Pros Endorsements How to Vote Get Involved Oct.
+17 Meet & Greet Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
 178 Broadway, Providence, RI 02903.
 Authorized by the candidate.
 Privacy Policy © 2026 Friends of Michael Riley

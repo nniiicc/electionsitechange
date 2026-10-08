@@ -1,4 +1,4 @@
-0 Skip to Content Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Open Menu Close Menu Endorsements News About Events Voting Info Donate Now Es oficial: ¡Nos postulamos en 2026—Pa’ la Gente!
+0 Skip to Content Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Open Menu Close Menu Issues Endorsements News About Voting Info Events Donate Now Es oficial: ¡Nos postulamos en 2026—Pa’ la Gente!
 Jul 7 Written By Chelsea Dimas Chelsea Dimas anuncia su campaña para 2026 como representante estatal en el distrito legislativo 14 de Washington SUNNYSIDE, WA – Chelsea Dimas, líder comunitaria y residente de Sunnyside, anunció oficialmente hoy su candidatura para Representante Estatal en el 14º Distrito Legislativo de Washington.
 En 2024, Dimas hizo historia al ser la primera demócrata en 16 años en avanzar desde las primarias del distrito, quedando históricamente cerca de revertir el escaño en las elecciones generales.
 Ahora, lanza su campaña con renovada determinación, enfocada en lograr esta victoria para la gente.
@@ -20,5 +20,4 @@ El evento destacará la visión de Chelsea para el 14 de septiembre y ofrecerá 
 Para obtener más información, visite chelseaforwa.com/events .
 ### Pagado por Chelsea Dimas for State Rep Pa’ la gente.
 For the people.
-Chelsea Dimas Previous Previous It’s Official: We’re Running in 2026—Pa’ la Gente!
-Chelsea Dimas for State Rep (D) PO Box 773 Sunnyside, WA 98944 About Get Involved Donate Made with Squarespace
+Chelsea Dimas Chelsea Dimas for State Rep (D) PO Box 773 Sunnyside, WA 98944 About Get Involved Donate Made with Squarespace

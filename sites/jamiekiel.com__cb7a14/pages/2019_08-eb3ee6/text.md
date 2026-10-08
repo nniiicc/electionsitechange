@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Governor’s office: ‘Honest mistake’ that apology letter mistakenly sent to wrong House list Thursday’s unexpected apology from Gov.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=3defc673c4 News Governor’s office: ‘Honest mistake’ that apology letter mistakenly sent to wrong House list Thursday’s unexpected apology from Gov.
 Kay Ivey not only revealed Alabama still has not fully exorcised the demons of its past, it showed us that some members of the Alabama Legislature still feel jilted after the Rebuild Alabama Act passed this spring.
 Ahead of Thursday’s announcement, some Continue Reading Gas taxes go up Sept.
 1 Alabama drivers will see a 6-cent state gas tax increase starting Sept.

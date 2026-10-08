@@ -1,5 +1,16 @@
-Skip to content Menu HOME BIOGRAPHY ISSUES PHOTO GALLERY CONTACT US: ROLL IT BACK DONATE TODAY Tonya Hudson For Congress Candidate for U.S.
-House of Representatives, Indiana's 9th District ROLL IT BACK HUDSON FOR HOOSIERS WEEKLY MISSION STATEMENT October 1, 2026 – FUN in America is Not Easy.
+Skip to content Menu HOME BIOGRAPHY ISSUES PHOTO GALLERY ROLL IT BACK CONTACT US: DONATE TODAY Tonya Hudson For Congress Candidate for U.S.
+House of Representatives, Indiana's 9th District ROLL IT BACK HUDSON FOR HOOSIERS WEEKLY MISSION STATEMENT October 7, 2026 – The Danger Within Isn’t Just at the Top People are struggling to make ends meet.
+I know many who have voted for DJT in the past who are now either disappointed, miffed, embarrassed, concerned about the state of our Union, or all of the above.
+In Washington D.C., so many representatives in his own party look the other way because they are afraid of his temperament.
+Even my own Congresswoman, Rep.
+Houchin, only does what she’s told and repeats the Administration’s talking points, rather than doing what’s right for the people in our district.
+Sher has got to go.
+The voters I talk to do not want to swing too far to the left either, so I’m the best option on the ballot.
+I offer the best solutions to combat the problems our Country faces.
+Voting has started.
+If you haven’t’ voted yet, please vote for me for U.S.
+House, IN District 9.
+Tonya Hudson October 1, 2026 – FUN in America is Not Easy.
 For quite some time, gasoline and groceries have been extraordinarily high.
 It’s hard for folks to buy tickets to a game or concert or another fun event.
 I’ve heard people complain that rides at festivals are too high and they had to limit the number of rides they could afford for their family to just one ride.

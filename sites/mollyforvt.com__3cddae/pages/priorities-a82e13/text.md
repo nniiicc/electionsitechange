@@ -32,9 +32,12 @@ Since 2020, home prices in Vermont have risen by an average of 31% .
 The average rent for a 2-bedroom apartment is over $2,000 per month .
 A 2025 Vermont Housing Needs Assessment estimates that Vermont needs to build 24,000 and 36,000 additional year-round homes between 2025 and 2029 to meet demand, normalize vacancy rates and grow Vermont’s workforce.
 Vermont’s housing shortage affects everyone: families who want to grow, seniors who want to downsize, renters who want to buy their first home, workers who want to relocate, and the businesses that want to hire them.
-Molly will: Advance Act 250 reforms that remove regulations for housing development in cities, towns and village centers, and areas with the jobs and infrastructure to support growth.
+Molly will: Make sure small communities get the infrastructure they need by ensuring equitable access to state funding.
+Programs like CHIP ‍ can help pay for the roads, water lines, and sewers that make new housing possible, but small towns often lackhelp the staff needed to access these funds.
+Molly will make sure that any community that wants to build new housing has the state support they need.
+Advance Act 250 reforms that remove regulations for housing development in cities, towns and village centers, and areas with the jobs and infrastructure to support growth.
 Molly has advocated for reforms to Act 181 that would remove the “Tier 3” and “Road Rule” provisions, while keeping existing provisions aimed at removing red tape and urgently deploying housing.
-Remove costly and drawn-out delays to housing development by advancing simplified and standardized local zoning laws .
+Remove costly and drawn-out delays to housing development with simplified and standardized local zoning laws .
 Work with the legislature to develop a set of model zoning codes that level the playing field and clear the way for the kinds of homes Vermonters need.
 Fast-track pre-approved housing plans statewide by advancing Vermont’s 802 Homes housing proposal .
 The state has already begun developing easy-to-use housing blueprints that allow small-scale developers to build faster, cheaper, and with fewer permitting delays.

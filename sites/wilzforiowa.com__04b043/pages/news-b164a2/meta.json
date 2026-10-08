@@ -1,9 +1,13 @@
 {
  "description": "Hans in the News",
  "final_url": "https://wilzforiowa.com/news",
- "paid_for_by": null,
+ "fingerprint": "e0a55016b9f7bbdfca661bf9768b7d9729814b54",
+ "format": 3,
+ "paid_for_by": "sponsored by Wilz for Iowa and is for informational purposes only",
  "title": "News",
  "years_mentioned": [
+  "1956",
+  "1978",
   "2019",
   "2020",
   "2021",

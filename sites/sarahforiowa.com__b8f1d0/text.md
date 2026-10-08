@@ -12,8 +12,7 @@ Her journey from service worker to minister, nonprofit leader, and state legisla
 Meet Sarah Meet Sarah Volunteer Volunteer IA-03 Sarah’s Priorities for Iowa Families From service worker to minister, nonprofit leader, and state legislator, Sarah has built a track record of unwavering commitment to the people of Iowa.
 A Higher Standard for Washington Immigration that’s smart, fair, and reflects our values Protecting Iowa’s land, water, and clean energy future Serving our veterans like they served us View All Issues Donate to Support Sarah for Iowa $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Get the Latest Updates Facebook X-twitter Instagram Youtube Tiktok .
-Campaign Updates The Latest News View All News News , Press Releases Sen.
-Sarah Trone Garriott Votes to Protect Taxpayers Oct 02, 2026 News , Press Releases New ad highlights Zach Nunn’s record of protecting his billionaire donors in the Epstein Files Oct 02, 2026 Donate to Support Sarah for Iowa $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+Campaign Updates The Latest News View All News News , Press Releases Sarah Trone Garriott Launches New TV Ad, “Served” Oct 07, 2026 News Trone Garriott centers economic relief in tight 3rd District Congressional race Oct 05, 2026 Donate to Support Sarah for Iowa $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Join Us.
 Email Address Zip Code Phone Number (Optional) .
 By submitting your cell phone number you are agreeing to receive periodic text messages from the campaign.

@@ -1,4 +1,4 @@
-Skip to content Home About Priorities Volunteer Donate Events Home About Priorities Endorsements Volunteer Events Donate Menu Privacy Policy Last Updated: June 16, 2026 This Privacy Policy explains how information about you is collected, used and disclosed by the Paul Barringer for Congress.
+Skip to content Home About Priorities Volunteer Donate Events Donate Home About Priorities Endorsements Volunteer Events Vote Menu Privacy Policy Last Updated: June 16, 2026 This Privacy Policy explains how information about you is collected, used and disclosed by the Paul Barringer for Congress.
 This Privacy Policy applies to information we collect when you use the websites, mobile sites, mobile applications and other online services.
 Paul Barringer for Congress may periodically make changes to this privacy policy.
 If changes are made, the last updated date listed above will note the change.

@@ -9,6 +9,7 @@ WACOPS membership is made up of law enforcement guilds from across the state.
 The more agencies involved, the stronger voice we have.
 Drew is also endorsed by a number of other law enforcement organizations, including the Fraternal Order of Police and Washington State Patrol Troopers Association.
 See the full list here .
-Endorsements In the News public safety More For You Moscow-Pullman Daily News: Rep.
-Drew Stokesbary “Said it Best” In the News Tacoma News Tribune picks Stokesbary Endorsements Business group officially endorses Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements In the News public safety More For You Washington risks budgeting online sales tax revenue In the News Tri-City Herald: “We Agree” with Rep.
+Stokesbary In the News The Times recommends: Rep.
+Drew Stokesbary (2020) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

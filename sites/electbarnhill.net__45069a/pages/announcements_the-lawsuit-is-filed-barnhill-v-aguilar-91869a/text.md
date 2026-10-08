@@ -43,10 +43,7 @@ The allegations haven’t been adjudicated, and the Secretary of State will have
 The next step has now occurred: Secretary of State Francisco Aguilar and the Nevada Attorney General’s office were formally served on September 8, 2026.
 Read the service update and what happens next in the case.
 Why This Is the Job I’ve spent twenty years untangling complicated cases as a litigation paralegal, and years before that solving data problems as a systems analyst.
-Flag the anomaly, investigate it, fix what’s broken — that’s the standard I’d bring to the Secretary of State’s office on day one, and it’s the same standard I’m asking a federal judge to hold the current officeholder to now.
-Who will protect your vote?
-A federal judge is now going to help answer that question.
-Results, not noise. — Brad Lee Barnhill #YourIndependentVoice for Nevada Secretary of State Barnhill v.
+Flag the anomaly, investigate it, fix what’s broken — that’s the standard I’d bring to the Secretary of State’s office on day one, and it’s the same standard I’m asking a federal judge to hold the current officeholder to now. — Brad Lee Barnhill #YourIndependentVoice for Nevada Secretary of State Barnhill v.
 Aguilar — Case Timeline May 20, 2026 Barnhill submitted a sworn complaint concerning alleged duplicate voter-registration records to the Nevada Secretary of State’s Elections Division and Clark County officials.
 See Who Will Protect Your Vote ?
 June 3–4, 2026 Formal notice was sent under the National Voter Registration Act .
@@ -72,7 +69,9 @@ The Court has not yet ruled on the September 16 e-filing motion.
 See Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer .
 October 6, 2026 Barnhill mailed a Notice of Lodging Proposed Order and Request for Ruling on the September 16 e-filing motion, with a proposed order attached.
 Latest update: I’ve Asked the Court to Rule on My E-Filing Request .
-Share: Categories: Announcements 7 thoughts on “The Lawsuit Is Filed: Barnhill v.
+I took the Secretary of State to federal court to protect your vote.
+Has your candidate?
+Get to know me · Join the campaign · Donate Share: Categories: Announcements 7 thoughts on “The Lawsuit Is Filed: Barnhill v.
 Aguilar” Pingback: Nevadans for Barnhill - Barnhill Sues Nevada Secretary of State Over Voter Rolls Pingback: Service Is Complete.
 Here’s What Comes Next in Barnhill v.
 Aguilar. - Nevadans for Barnhill Pingback: Vote for Independent Nevada Candidates, Not the Lesser Evil Pingback: Rural Voting Access in Nevada: Secure and Simple for Every County Pingback: Barnhill Opposes Aguilar's Motion to Stay, Moves to Consolidate NVRA Suit Pingback: Volunteer for a Nevada Political Campaign - Nevadans for Barnhill Pingback: Pro Se Electronic Filing Delays in Barnhill v.
@@ -81,6 +80,6 @@ Here’s What Comes Next in Barnhill v.
 Aguilar.
 Next Next post: Who Will Protect Your Vote? footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

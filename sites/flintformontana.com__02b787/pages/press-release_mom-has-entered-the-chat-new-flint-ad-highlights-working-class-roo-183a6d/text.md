@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
-Home About Issues News Get Involved Contact Store Donate Mom has entered the chat: New Flint Ad Highlights Working Class Roots and Affordability Press Release September 9, 2026 Flint’s mother Karen shares how he went to work at a young age to help their family Kalispell, MT — Today, Republican congressional candidate Aaron Flint released a new general election advertisement featuring his mother, Karen, and the story of his working-class upbringing.
+Home About Issues News Get Involved Contact Store Media Donate Mom has entered the chat: New Flint Ad Highlights Working Class Roots and Affordability Press Release September 9, 2026 Flint’s mother Karen shares how he went to work at a young age to help their family Kalispell, MT — Today, Republican congressional candidate Aaron Flint released a new general election advertisement featuring his mother, Karen, and the story of his working-class upbringing.
 “I’m proud of my mom for so many reasons.
 When I was a kid she worked nights and holidays at the motel to make ends meet.
 Her work ethic inspired me to get jobs to help out, and I’m grateful for the lessons she taught my brother and me,” said Aaron Flint.

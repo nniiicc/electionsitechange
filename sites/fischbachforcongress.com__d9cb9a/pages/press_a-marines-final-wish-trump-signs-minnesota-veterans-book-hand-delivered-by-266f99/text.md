@@ -1,4 +1,4 @@
-About Issues Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press A Marine’s final wish: Trump signs Minnesota veteran’s book, hand-delivered by Rep.
+About Issues VOTE MN Press Volunteer Store Contact Donate ≡ About Issues Vote MN Press Volunteer Store Contact Press A Marine’s final wish: Trump signs Minnesota veteran’s book, hand-delivered by Rep.
 Fischbach Sep 16 | Press “Your honorable service in the US armed forces and as a Moorhead police officer is worthy of every American’s admiration,” the president wrote in a letter to Brad Schenck, who is battling brain cancer.
 A dying Marine’s final wish came true.
 Last week, U.S.

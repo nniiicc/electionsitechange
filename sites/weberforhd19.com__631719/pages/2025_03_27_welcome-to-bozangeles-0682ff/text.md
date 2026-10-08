@@ -1,4 +1,4 @@
-October 7, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Welcome to Bozangeles!
+October 8, 2026 406-781-0741 Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube 2025 Legislative Session Home Donate About Issues Gallery Events News Voting Info Social Facebook Instagram TikTok YouTube Welcome to Bozangeles!
 The greater Bozeman, Montana, region has become ground zero for rampant luxury development that is taking the “public” out of public lands.
 Read in The Nation: https://apple.news/AIdg4hJWXRuepVR1ylPLqxg Welcome to Bozangeles!
 2025-03-27 2025-03-27 https://weberforhd19.com/new/wp-content/uploads/2026/02/w419-reelect-logo.png Weber for House District 19 https://weberforhd19.com/new/wp-content/uploads/2025/03/screen-shot-2025-03-27-at-1.18.01-pm.png 200px 200px Recent News 2025 Legislative Score Card February 19, 2026 Meet Our 100% Champions February 5, 2026 Welcome to Bozangeles!

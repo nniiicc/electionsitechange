@@ -18,8 +18,6 @@ Chris will fight to keep public dollars in public schools to ensure that every c
 Strong Public Schools Keep public dollars in public schools.
 Ensure our public schools are fully funded, and reject any program that shifts funding to private schools at the expense of our local ISDs.
 Increase the basic allotment so school funding keeps pace with inflation —giving every student access to great teachers, safe classrooms, and the resources they need to succeed.
-Defend religious freedom and the separation of church and state.
-Our public schools should welcome every student without imposing any religion in the classroom.
 Higher Education Expand school-based and community partnerships that address food insecurity, reliable transportation, and access to child care for student-parents.
 Defend free speech and academic freedom on college campuses.
 Protect students’ right to express their views and peacefully protest, and faculty’s right to teach.

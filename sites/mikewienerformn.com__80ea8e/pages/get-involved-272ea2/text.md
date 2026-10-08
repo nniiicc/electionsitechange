@@ -7,7 +7,7 @@ Simply fill out the form below and our scheduler will contact you!  MAKE A DO
 All contributions will be used for signs and other promotional tools.
 Thank You and Have a Blessed day!
 Donate Let us know how you can help Name Email Address Phone How would you like to help?
-12 + 9 = Send Privacy Notice We collect email addresses solely to contact you, as well as share news and information related to legislative work.
+4 + 11 = Send Privacy Notice We collect email addresses solely to contact you, as well as share news and information related to legislative work.
 Your information is not sold, shared, or distributed to any third parties.
 You may unsubscribe at any time.
 View our full Privacy Policy for more details.

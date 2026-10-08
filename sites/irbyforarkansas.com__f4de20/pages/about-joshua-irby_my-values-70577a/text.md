@@ -5,7 +5,29 @@ I believe in the promise of America—and in the people of Arkansas.
 The strength of our state and our nation doesn’t come from wealth or power alone, but from the shared commitment of everyday citizens to liberty, equality, and self-government.
 These values aren’t abstract.
 I see them in the people I live beside—in the small businesses around me, the families building lives in our neighborhoods, and the churches and communities that care for one another without asking for credit. ​ What makes Arkansas strong is what makes America strong: the belief that free people, working together, can build a better future.
-I hold that belief deeply, and these convictions guide me every day: Some fields have invalid or missing information.
+I hold that belief deeply, and these convictions guide me every day: A Shared Civic Identity Our identity as Arkansans and Americans isn’t defined by background or heritage.
+It’s rooted in shared values—liberty, hard work, and the responsibility to care for our communities.
+That’s what unites us across every part of this state and this nation.
+Sovereignty and Self-Determination Whether it's Washington or Little Rock, government should never forget who it serves.
+I believe Arkansans deserve a strong voice in shaping their future, free from outside interference, and fully invested in protecting their way of life.
+Unity Over Division Arkansas knows what it means to pull together in hard times.
+I reject division based on ideology or identity.
+I believe in bridging differences and finding common ground—because our future depends on it.
+Equality and Human Dignity Every person—no matter where they live or how they grew up—deserves to be treated with dignity and fairness.
+That belief is both American and Arkansan, and it guides how I approach every issue.
+Government as a Servant Government should work for the people—not for itself.
+Whether it's improving local schools, fixing roads, or protecting freedoms, I believe the role of government is to serve with integrity and accountability.
+Civic Duty and Responsibility Freedom requires participation.
+I believe in voting, volunteering, speaking up—and helping others do the same.
+Our Republic only works when we show up.
+Justice and the Rule of Law No one is above the law.
+No one is beneath its protection.
+That’s not just an ideal—it’s a promise that must be kept in every courthouse, every community, and every corner of Arkansas.
+Stewardship for the Future We have a duty to leave things better than we found them—for our children and theirs.
+I believe in wise budgeting, good schools, and preserving the natural beauty of Arkansas—not just because they’re smart, but because they’re right.
+Practical Unity Through Balance I’m not interested in extreme ideologies.
+I believe in practical solutions, respectful debate, and policies that serve everyone—from the Delta to the Ozarks.
+That’s how we build real progress.
 These values don’t belong to one party or one person—they belong to us all.
 As an Arkansan and an American, I carry them with pride, and I believe they can guide us to a stronger, more united future. ​ “I don’t see sides—I see people.
 Neighbors.

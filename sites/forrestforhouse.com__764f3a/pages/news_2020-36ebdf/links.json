@@ -1,18 +1,70 @@
 [
-"http://dbw.scdot.org/workrequest",
-"https://campaignpartner.com/",
-"https://facebook.com/SCHouseGOP",
-"https://forrestforhouse.com/",
-"https://forrestforhouse.com/about_cal",
-"https://forrestforhouse.com/contact",
-"https://forrestforhouse.com/events",
-"https://forrestforhouse.com/home",
-"https://forrestforhouse.com/issues",
-"https://forrestforhouse.com/news",
-"https://forrestforhouse.com/photos",
-"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.scstatehouse.gov%2Fquery.php%3Fsearch%3DDOC%26searchtext%3D419%26category%3DLEGISLATION%26session%3D123%26conid%3D29098135%26result_pos%3D0%26keyval%3D1230419%26numrows%3D10&data=02%7C01%7C%7Ccaa71c83a9d441904bd008d7abfb3292%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637166967681578369&sdata=DeguO0eY8NAzW%2BF3YxrwKECYuf4FpJKCm%2BfEKwrObEg%3D&reserved=0",
-"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.scstatehouse.gov%2Fquery.php%3Fsearch%3DDOC%26searchtext%3D4209%26category%3DLEGISLATION%26session%3D123%26conid%3D29098209%26result_pos%3D0%26keyval%3D1234209%26numrows%3D10&data=02%7C01%7C%7Ccaa71c83a9d441904bd008d7abfb3292%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637166967681568348&sdata=U%2B1LtX2o6a%2B5VfNRtyvwCuI3uT2UHsrqAXmcgmXvKZE%3D&reserved=0",
-"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.scstatehouse.gov%2Fquery.php%3Fsearch%3DDOC%26searchtext%3D4262%26category%3DLEGISLATION%26session%3D123%26conid%3D29097810%26result_pos%3D0%26keyval%3D1234262%26numrows%3D10&data=02%7C01%7C%7Ccaa71c83a9d441904bd008d7abfb3292%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637166967681598360&sdata=TXt48%2Bx0GQFdnGtl307Oi%2F%2BBdyqi9zrWFIiqHo0DbEU%3D&reserved=0",
-"https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.scstatehouse.gov%2Fquery.php%3Fsearch%3DDOC%26searchtext%3D4710%26category%3DLEGISLATION%26session%3D123%26conid%3D29098110%26result_pos%3D0%26keyval%3D1234710%26numrows%3D10&data=02%7C01%7C%7Ccaa71c83a9d441904bd008d7abfb3292%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637166967681588376&sdata=LfMRnOTON6Sj7Ea7P9KoWTKECK8PYkvAKbmgfnwSuH8%3D&reserved=0",
-"https://twitter.com/SCHouseGOP"
+{
+"text": "About Cal",
+"href": "https://forrestforhouse.com/about_cal"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://forrestforhouse.com/contact"
+},
+{
+"text": "Events",
+"href": "https://forrestforhouse.com/events"
+},
+{
+"text": "H. 4710",
+"href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.scstatehouse.gov%2Fquery.php%3Fsearch%3DDOC%26searchtext%3D4710%26category%3DLEGISLATION%26session%3D123%26conid%3D29098110%26result_pos%3D0%26keyval%3D1234710%26numrows%3D10&data=02%7C01%7C%7Ccaa71c83a9d441904bd008d7abfb3292%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637166967681588376&sdata=LfMRnOTON6Sj7Ea7P9KoWTKECK8PYkvAKbmgfnwSuH8%3D&reserved=0"
+},
+{
+"text": "H.4209",
+"href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.scstatehouse.gov%2Fquery.php%3Fsearch%3DDOC%26searchtext%3D4209%26category%3DLEGISLATION%26session%3D123%26conid%3D29098209%26result_pos%3D0%26keyval%3D1234209%26numrows%3D10&data=02%7C01%7C%7Ccaa71c83a9d441904bd008d7abfb3292%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637166967681568348&sdata=U%2B1LtX2o6a%2B5VfNRtyvwCuI3uT2UHsrqAXmcgmXvKZE%3D&reserved=0"
+},
+{
+"text": "H.4262",
+"href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.scstatehouse.gov%2Fquery.php%3Fsearch%3DDOC%26searchtext%3D4262%26category%3DLEGISLATION%26session%3D123%26conid%3D29097810%26result_pos%3D0%26keyval%3D1234262%26numrows%3D10&data=02%7C01%7C%7Ccaa71c83a9d441904bd008d7abfb3292%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637166967681598360&sdata=TXt48%2Bx0GQFdnGtl307Oi%2F%2BBdyqi9zrWFIiqHo0DbEU%3D&reserved=0"
+},
+{
+"text": "Home",
+"href": "https://forrestforhouse.com/home"
+},
+{
+"text": "News",
+"href": "https://forrestforhouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://forrestforhouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://forrestforhouse.com/photos"
+},
+{
+"text": "S. 419",
+"href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.scstatehouse.gov%2Fquery.php%3Fsearch%3DDOC%26searchtext%3D419%26category%3DLEGISLATION%26session%3D123%26conid%3D29098135%26result_pos%3D0%26keyval%3D1230419%26numrows%3D10&data=02%7C01%7C%7Ccaa71c83a9d441904bd008d7abfb3292%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637166967681578369&sdata=DeguO0eY8NAzW%2BF3YxrwKECYuf4FpJKCm%2BfEKwrObEg%3D&reserved=0"
+},
+{
+"text": "[image]",
+"href": "https://forrestforhouse.com/"
+},
+{
+"text": "calforrest@schouse.gov",
+"href": "mailto:calforrest@schouse.gov"
+},
+{
+"text": "http://dbw.scdot.org/workrequest/",
+"href": "http://dbw.scdot.org/workrequest/"
+},
+{
+"text": "https://twitter.com/SCHouseGOP",
+"href": "https://twitter.com/SCHouseGOP"
+},
+{
+"text": "https://www.facebook.com/SCHouseGOP/",
+"href": "https://www.facebook.com/SCHouseGOP/"
+}
 ]

@@ -22,7 +22,7 @@ That’s why I’m running.
 I want to help build a Connecticut where families can afford to stay, businesses can grow, and our children can have a strong future.
 Thank you for taking the time to learn more about me and why I’m running.
 I look forward to meeting you, hearing your ideas, and earning your support. ← A common-sense approach is why Jill Oberlander has earned my vote for State Senator They have our backs.
-We should have theirs. → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
+We should have theirs. → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts Joe Kelly gets the math wrong We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
 We should have theirs.
-A little more about me A common-sense approach is why Jill Oberlander has earned my vote for State Senator CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+A little more about me CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

@@ -14,8 +14,8 @@ He knows the difference between earning and owning, and he'll fight for policies
 05 Support small-dollar investing and financial education so families build wealth on their own terms.
 The Promise The goal isn't just to survive the paycheck.
 The goal is to build something that lasts — for your family and for the next generation.
-DONATE VOLUNTEER DONATE Follow The Campaign A vision for Florida's District 20.
+DONATE VOLUNTEER DONATE Follow The Campaign Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com A vision for Florida's District 20.
 Dedicated to bringing principled leadership and community-focused advocacy to Washington through grassroots support and donation.
-Campaign Headquarters 3809 N Andrews Ave Fort Lauderdale, Florida 33309 ​ Office: (954) 671-7402 ​ Email: campaign@maximeforcongress.com VOLUNTEER Paid for by Dr.
+VOLUNTEER Paid for by Dr.
 Kedner Maxime for Congress.
 Privacy Policy bottom of page

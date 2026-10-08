@@ -1,5 +1,26 @@
 [
-"http://twitter.com/voteborrello",
-"https://facebook.com/BorrelloForNY",
-"https://georgeborrello.com/support-george"
+{
+"text": "607-438-2701",
+"href": "tel:607-438-2701"
+},
+{
+"text": "SUPPORT GEORGE TODAY",
+"href": "https://www.georgeborrello.com/support-george"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/BorrelloForNY"
+},
+{
+"text": "[image: Black Twitter Icon]",
+"href": "http://www.twitter.com/voteborrello"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BorrelloForNY"
+},
+{
+"text": "voteborrello@gmail.com",
+"href": "mailto:voteborrello@gmail.com"
+}
 ]

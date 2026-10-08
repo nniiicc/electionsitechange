@@ -56,4 +56,4 @@ This is the America I believe in — where hard work pays off, everyone plays by
 That’s the future I’m fighting for, and together, it’s ours to build.
 All Policies Next Policy Return to Top SOURCES Pfizer’s effective federal income tax rate for 2023 was negative (−105.4%) — it received money back: ITEP — “Pfizer’s Massive Tax Dodge” (ITEP analysis of Pfizer’s 2023 federal taxes) Amazon paid $0 in federal income tax on $11.2 billion in U.S. profits in 2018 (and claimed a $129 million rebate): ITEP — “Amazon in Its Prime: Doubles Profits, Pays $0 in Federal Income Taxes,” Feb.
 2019 Contributions to Thompson from Pfizer, Amazon, and Google PACs: FEC — Mike Thompson for Congress, Committee C00326363 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-No corporate PAC or special interest money accepted.
+Privacy Policy & Terms No corporate PAC or special interest money accepted.

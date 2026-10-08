@@ -2,4 +2,4 @@
 Wednesday, August 12, 2026 4:30 PM 7:00 PM Turner Hall 1040 North Vel R.
 Phillips Avenue Milwaukee, Wisconsin, 53203 United States (map) Google Calendar ICS Hear your candidates for this Fall’s General Election and cheer them on!
 I’ll be there!
-Previous Previous August 6 Beck for Congress Fundraiser Next Next August 15 Brookfield Farmer's Market DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress
+DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

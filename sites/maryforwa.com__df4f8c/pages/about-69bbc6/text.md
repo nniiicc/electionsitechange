@@ -1,4 +1,4 @@
-top of page State Representative 34th District Position 2 - Democrat Donate About Mary Why Mary Get Involved Events Join the Movement Together We Can Build a Brighter Washington About Mary Mary Anito for Washington West Seattle mom of three.
+top of page State Representative 34th District Position 2 - Democrat ​ About Mary Why Mary Get Involved Seattle Times Endorses Mary Donate Spaghetti Dinner 10/16 Join the Movement Together We Can Build a Brighter Washington ​ ​ About Mary Mary Anito for Washington West Seattle mom of three.
 Engineer.
 Small business owner.
 Problem-solver.
@@ -8,8 +8,7 @@ Fiscal responsibility.
 Families first.
 Every voice heard.
 No matter what's happening on the national stage, Washington's brightest days are still ahead. ​​​ ​​ Let's build them together. ​​​ ​​ With a commitment to listening to the needs of our communities, Mary seeks to implement pragmatic, long term policies that reflect the diverse perspectives of all Washingtonians.
-Join us in creating a government that truly represents the people.
-Learn More Why Mary World-class, fully funded schools for every student Mary's north star is simple: a child's education shouldn't depend on the property values in their neighborhood.
+Join us in creating a government that truly represents the people. ​ "It's time for a new sensibility and set of experiences" - The Seattle Times Learn More Why Mary World-class, fully funded schools for every student Mary's north star is simple: a child's education shouldn't depend on the property values in their neighborhood.
 Washington's courts already told us what we owe our kids - the state's paramount duty - and we're still not meeting it. ​ She'll push to fully fund what schools actually spend money on: special education that serves our kids, materials and operating costs that reflect real prices, and school staff - counselors, nurses, paraeducators, bus drivers - funded at the levels students actually need, not a formula written a decade ago.
 She'll fix the levy and equalization structure so districts aren't forced to run local elections just to keep the lights on, and she'll invest in educator recruitment and retention so every classroom has a qualified teacher in it. ​ From early learning through career and technical education, dual credit, and apprenticeship pathways, she wants a system that works whether a student is headed to a four-year degree, a trade, or straight into a career - with transparent, school-level reporting so families can see progress for themselves. ​ Fully funded.
 Fully staffed.

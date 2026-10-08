@@ -1,87 +1,21 @@
-What to bring
-All you need to bring to vote is your self and your state-issued photo ID or passport.
-If you do not have an acceptable form of voter ID, you may still be able to vote.
-Check acceptable forms of voter ID here, and view instructions for requesting an exception.
+top of page MEET ERIN VOTE ISSUES More Use tab to navigate through the menu items.
+DONATE Voting guide 2024 General Election Early Voting starts on Monday, October 21st and ends on Friday, November 1st Election Day is Tuesday, November 5th , 2024 When & Where to Vote Vote by Mail Registration What to Bring What to bring What to bring All you need to bring to vote is your self and your state-issued photo ID or passport . ​ If you do not have an acceptable form of voter ID, you may still be able to vote.
+Che ck acceptable forms of voter ID here , and view instructions for requesting an exception.
 If you do show up on the official list of registered voters but do not have an acceptable form of ID, there is still a way for you to vote by Reasonable Impediment Declaration.
 Instructions and access to this form to fill out is here.
 You ARE allowed to bring in a sample ballot or paper list to help you vote.
 You ARE NOT allowed to look at your phone or other digital device while voting.
 Check your voter registration status.
-If you show up to vote and are not on the rolls, call the county office and ask them to confirm your eligibility.
-Hays County Election Office: (512) 393-7310
-Voter Hotline (for if you need to report a problem): 844-TXVOTES
-when & where to Vote
-NOVEMBER 5TH ELECTION DAY
-POLLS OPEN 7AM-7PM
-SAN MARCOS:
-- Broadway Polling Location, 401 Broadway St #A
-- Brookdale San Marcos North, 1720 Old Ranch Rd 12
-- Calvary Baptist Church, 1906 N I-35 Frontage Rd
-- Centro Cultural Hispano de San Marcos, 211 Lee St
-- Dunbar Center, 801 W MLK Dr
-- First Baptist Church San Marcos, 325 W McCarty Ln
-- Hays County Elections Office, 120 Stagecoach Trail
-- La Cima Amenity Center, 301 A Central Park Loop
-- LBJ Student Center, Texas State University, 301 Student Center Dr
-- Promiseland Church, 1650 Lime Kiln Rd
-- San Marcos Fire Department Station #5, 100 Carlson Circle
-- San Marcos Housing Authority/C.M.
-Allen Homes, 820 Sturgeon Dr
-- San Marcos Public Library, 625 E Hopkins St
-- Sinai Pentecostal Church, 208 Laredo St
-- South Hays Fire Department Station #12, 8301 Ranch Rd 12
-BUDA:
-- Buda City Hall-Multipurpose Room, 405 E Loop St, Bldg 100
-- Buda Oaks: Assisted Living & Memory Care, 1120 Cabelas Dr
-- Carpenter Hill Elementary School, 4410 FM 967
-- Child Nutrition, HCISD Support Services, 5750 Dacy Ln
-- Hays Hills Baptist Church, 1401 N FM 1626
-- Southern Hills Church of Christ, 3740 FM 967
-- Sunfield Station, 2610 Main St
-- Upper Campus, Buda Elementary School, 300 N San Marcos St
-KYLE:
-- Austin Community College-Hays Campus, 1200 Kohlers Crossing
-- HCISD Academic Support Center, 21003 I-35 Frontange Rd Bldg A
-- Kimbro Bldg, Kyle Elementary School, 500 Blanco St
-- Kyle City Hall, 100 W Center St
-- Kyle Pubic Library, 550 Scott St
-- Main Office, HCISD Transportation, 2385 High Rd, Uhland
-- Philomena, The Assisted Living & Memory Care, 350 Philomena Dr,
-- Plum Creek North Amenity Center, 350 Jack Ryan
-- Precinct 2 Office-Hays County, 5458 FM 2770
-- Simon Middle School-Library, 3839 E FM 150
-- Yarrington-Hays County Transportation Department, 2171 Yarrington Rd
-DRIPPING SPRINGS & AUSTIN:
-- Belterra Centre, 151 Trinity Hills Dr, Austin
-- Driftwood Community Center, 15112 FM 150, Driftwood
-- Dripping Springs Ranch Park, 1042 Event Center Dr
-- Henly Station #3, North Hays County Fire Rescue, 752 Creek Rd
-- Jovie Belterra, 167 Hargraves Dr, Austin
-- Patriots' Hall of Dripping Springs, 231 Patriots' Hall Blvd
-- Precinct 4 Office, Hays County, 195 Roger Hanks Parkway
-WIMBERLEY:
-- Texan Academy at Scudder-Gym, 400 Green Acres Dr
-- VFW Post #6441, 401 Jacobs Well Rd
-- Wimberley Community Center-Johnson Hall, 14068 Ranch Rd 12
-Vote by mail
-The deadline for your application to be received by the Hays County Elections office is October 25th.
-Ballot must be RECEIVED by November 5th.
-After October 30th if you have not mailed your ballot you can:
-- You can hand deliver your mail ballot to the elections office, but only on Election Day.
-- You can send your ballot by UPS or FedEx
-Your mail ballot must be received by your county by 7pm on Election Day (if it’s not postmarked) or 5pm the next business day after Election Day (as long as it’s postmarked by 7pm on Election Day).
-You can track your ballot and application and correct your identification information here: https://teamrv-mvp.sos.texas.gov/BallotTrackerApp/#/login
-If you have any questions, contact the Elections Office at (512) 393-7310.
-registration
-Am I registered?
-The last day to register to vote for the 2024 General Election has passed.
+If you show up to vote and are not on the rolls, call the county office and ask them to confirm your eligibility. ​ Hays County Election Office: (512) 393-7310 Voter Hotline (for if you need to report a problem): 844-TXVOTES when & where to Vote NOVEMBER 5TH ELECTION DAY POLLS OPEN 7AM-7PM SAN MARCOS: Broadway Polling Location, 401 Broadway St #A Brookdale San Marcos North, 1720 Old Ranch Rd 12 Calvary Baptist Church, 1906 N I-35 Frontage Rd Centro Cultural Hispano de San Marcos, 211 Lee St Dunbar Center, 801 W MLK Dr First Baptist Church San Marcos, 325 W McCarty Ln Hays County Elections Office, 120 Stagecoach Trail La Cima Amenity Center, 301 A Central Park Loop LBJ Student Center, Texas State University, 301 Student Center Dr Promiseland Church, 1650 Lime Kiln Rd San Marcos Fire Department Station #5, 100 Carlson Circle San Marcos Housing Authority/C.M.
+Allen Homes, 820 Sturgeon Dr San Marcos Public Library, 625 E Hopkins St Sinai Pentecostal Church, 208 Laredo St South Hays Fire Department Station #12, 8301 Ranch Rd 12 BUDA: Buda City Hall-Multipurpose Room, ​ 405 E Loop St, Bldg 100 Buda Oaks: Assisted Living & Memory Care, 1120 Cabelas Dr Carpenter Hill Elementary School, 4410 FM 967 Child Nutrition, HCISD Support Services, 5750 Dacy Ln Hays Hills Baptist Church, 1401 N FM 1626 Southern Hills Church of Christ, 3740 FM 967 Sunfield Station, 2610 Main St Upper Campus, Buda Elementary School, 300 N San Marcos St KYLE: Austin Community College-Hays Campus, 1200 Kohlers Crossing HCISD Academic Support Center, 21003 I-35 Frontange Rd Bldg A Kimbro Bldg, Kyle Elementary School, 500 Blanco St Kyle City Hall, 100 W Center St Kyle Pubic Library, 550 Scott St Main Office, HCISD Transportation, 2385 High Rd, Uhland Philomena, The Assisted Living & Memory Care, 350 Philomena Dr, Plum Creek North Amenity Center, 350 Jack Ryan Precinct 2 Office-Hays County, 5458 FM 2770 Simon Middle School-Library, 3839 E FM 150 Yarrington-Hays County Transportation Department, 2171 Yarrington Rd DRIPPING SPRINGS & AUSTIN: Belterra Centre, 151 Trinity Hills Dr, Austin Driftwood Community Center, 15112 FM 150, Driftwood Dripping Springs Ranch Park, 1042 Event Center Dr Henly Station #3, North Hays County Fire Rescue, 752 Creek Rd Jovie Belterra, 167 Hargraves Dr, Austin Patriots' Hall of Dripping Springs, 231 Patriots' Hall Blvd Precinct 4 Office, Hays County, 195 Roger Hanks Parkway WIMBERLEY: Texan Academy at Scudder-Gym, 400 Green Acres Dr VFW Post #6441, 401 Jacobs Well Rd Wimberley Community Center-Johnson Hall, 14068 Ranch Rd 12 ​ ​ Where to Vote Vote by mail The deadline for your application to be received by the Hays County Elections office is October 25th. ​ Ballot must be RECEIVED by November 5th.
+After October 30th if you have not mailed your ballot you can: ​ ​You can hand deliver your mail ballot to the elections office, but only on Election Day.
+You can send your ballot by UPS or FedEx ​ Your mail ballot must be received by your county by 7pm on Election Day (if it’s not postmarked) or 5pm the next business day after Election Day (as long as it’s postmarked by 7pm on Election Day). ​ ​ You can track your ballot and application and correct your identification information here: https://teamrv-mvp.sos.texas.gov/BallotTrackerApp/#/login If you have any questions, contact the Elections Office at (512) 393-7310.
+Vote by Mail registration Am I registered?
+The last day to register to vote for the 2024 General Election has passed .
 Check to see if you're registered: Am I registered?
 Registered in a different county?
 You can still vote in some races!
-Go to the Hays County Election Office at 120 Stagecoach in San Marcos during the early voting period, and you can cast a limited ballot that will let you vote in the statewide races.
-Still have questions?
-Call 512-757-3858
-Who's On the Ballot
-The League of Women Voters runs Vote 411, a website that provides nonpartisan information and sample ballots based on your address.
-Print out your sample ballot and bring it to the polls!
-vote411.org
+Go to the Hays County Election Office at 120 Stagecoach in San Marcos during the early voting period, and you can cast a limited ballot that will let you vote in the statewide races. ​ Still have questions?
+Call ​ ​ 512-757-3858 Register Who's on the ballot Who's On the Ballot The League of Women Voters runs Vote 411 , a website that provides nonpartisan information and sample ballots based on your address.
+Print out your sample ballot and bring it to the polls! vote411.org Erin Zwiener Texas House District 45 info@erinforyall.com PO Box 301074, Austin, TX 78703 Pol.
+Adv. paid for by Erin Zwiener For Texas House bottom of page

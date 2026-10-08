@@ -1,12 +1,12 @@
 0 Skip to Content Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Open Menu Close Menu Open Menu Close Menu Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Home Folder: About Back Meet Andy Meet Owen Why We Are Running Campaign Plan Folder: Media Back News Livestream Podcast Folder: Get Involved Back Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Folder: Issues Back Priorities Platform Donate Upcoming Events This page will share events the campaign hosts as well as the events of other organizations that we are attending and other events we support.
 Note: Events listed from other organizations do not mean those organizations endorse this campaign.
 It means this campaign thinks you might want to attend that event!
-Oct 7 Post-Debate Town Hall Wednesday, October 7, 2026 6:00 PM 8:30 PM The Real News Network (map) Google Calendar ICS Andy is a featured speaker at this post-gubernatorial-debate Town Hall, put on by Leaders of a Beautiful Struggle and the Real News Network along with political strategist Charly Carter and LBS Director of Public Policy Dayvon Love.
-The Real News Network’s Maximillian Alvarez will moderate.
-View Event → Oct 8 General Election Candidate Forum Thursday, October 8, 2026 6:00 PM 8:30 PM 1st Baptist Church of Highland Park (map) Google Calendar ICS Andy will be appearing at the General Election Candidate Forum put on by the National Coalition of 100 Black Women, Inc., Prince George's County, Maryland Chapter in partnership with First Baptist Church of Highland Park, NAACP (Prince George's County Branch), and the National Council of Negro Women, Inc., Mitchellville-Bowie Section.
+Oct 8 General Election Candidate Forum Thursday, October 8, 2026 6:00 PM 8:30 PM 1st Baptist Church of Highland Park (map) Google Calendar ICS Andy will be appearing at the General Election Candidate Forum put on by the National Coalition of 100 Black Women, Inc., Prince George's County, Maryland Chapter in partnership with First Baptist Church of Highland Park, NAACP (Prince George's County Branch), and the National Council of Negro Women, Inc., Mitchellville-Bowie Section.
 View Event → Oct 25 Cumberland Pride Festival Sunday, October 25, 2026 12:00 PM 4:00 PM Canal Place (map) Google Calendar ICS Join us on Sunday October 25 for the 10th Annual Cumberland Pride Festival!
 We're excited to be there from 12:00pm - 4:00pm and invite you to come join us as as we talk about the campaign and multiparty democracy!
 Drop by to say hello, volunteer for an hour or two at our table, or spend the entire day celebrating with us!
+View Event → Oct 7 Post-Debate Town Hall Wednesday, October 7, 2026 6:00 PM 8:30 PM The Real News Network (map) Google Calendar ICS Andy is a featured speaker at this post-gubernatorial-debate Town Hall, put on by Leaders of a Beautiful Struggle and the Real News Network along with political strategist Charly Carter and LBS Director of Public Policy Dayvon Love.
+The Real News Network’s Maximillian Alvarez will moderate.
 View Event → Oct 4 Takoma Park Street Festival Sunday, October 4, 2026 10:00 AM 5:00 PM Carroll Avenue + Carroll St.
 NW (map) Google Calendar ICS Join us on Sunday October 4 for the Takoma Park Street Festival!
 We're excited to be there from 10:00am - 5:00pm and invite you to come join us as as we talk about the campaign and multiparty democracy!
@@ -67,16 +67,13 @@ View Event → Oct 20 Forward Party & Go Green 2026 Happy Hour and Conversation 
 This gathering is about more than one campaign—it’s about advancing a more responsive democracy in Maryland and making the case for a real multiparty system.
 View Event → Oct 5 Takoma Park Street Festival Sunday, October 5, 2025 10:00 AM 5:00 PM 7000 Carroll Avenue Takoma Park, MD, 20912 United States (map) Google Calendar ICS The campaign will join the Montgomery County Green Party !
 We’ll have a table at the festival — come by, say hi, and learn more about what we’re building for a Maryland that works for everyone.
-View Event → Sep 27 Pigtown Festival Saturday, September 27, 2025 12:00 PM 7:00 PM Pigtown Festival (map) Google Calendar ICS The campaign will join the Baltimore City Green Party at the Pigtown Festival !
-We’ll have a table at the festival — come by, say hi, and learn more about what we’re building for a Maryland that works for everyone.
-View Event → Past Events Featured Oct 4 October 4, 2026 Takoma Park Street Festival October 4, 2026 Join us on Sunday October 4 for the Takoma Park Street Festival!
+View Event → Past Events Featured Oct 7 October 7, 2026 Post-Debate Town Hall October 7, 2026 Andy is a featured speaker at this post-gubernatorial-debate Town Hall, put on by Leaders of a Beautiful Struggle and the Real News Network along with political strategist Charly Carter and LBS Director of Public Policy Dayvon Love.
+The Real News Network’s Maximillian Alvarez will moderate.
+Read more → October 7, 2026 Oct 4 October 4, 2026 Takoma Park Street Festival October 4, 2026 Join us on Sunday October 4 for the Takoma Park Street Festival!
 We're excited to be there from 10:00am - 5:00pm and invite you to come join us as as we talk about the campaign and multiparty democracy!
 Drop by to say hello, volunteer for an hour or two at our table, or spend the entire day celebrating with us!
 Read more → October 4, 2026 Oct 3 October 3, 2026 No Data Centers in Maryland Rally October 3, 2026 Read more → October 3, 2026 Sep 27 September 27, 2026 Beyond the Moratorium September 27, 2026 Join Howard County for Human Dignity for a panel discussion on data centers to learn from activists around the state on their experiences fighting data center development in their own communities.
 Andy Ellis, Taylor Frazier McCollum, and Hillary Gonzalez are the featured panelists.
-Read more → September 27, 2026 Sep 27 September 27, 2026 Takoma Park Folk Festival September 27, 2026 Join us on Sunday September 27 for the Takoma Park Folk Festival!
-We're excited to be there from 10:30am - 5:30pm and invite you to come join us as as we talk about the campaign and multiparty democracy!
-Drop by to say hello, volunteer for an hour or two at our table, or spend the entire day celebrating with us!
 Read more → September 27, 2026 Like what you see?
 Join the movement.
 DONATE volunteer Green Party Candidates for Governor & Lt.

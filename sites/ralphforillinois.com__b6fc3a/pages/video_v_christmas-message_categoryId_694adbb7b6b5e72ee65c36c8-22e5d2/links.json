@@ -16,10 +16,6 @@
 "href": "https://www.ralphforillinois.com/action-center"
 },
 {
-"text": "Around Town",
-"href": "https://www.ralphforillinois.com/video/v/3tkejp66cmz73bphc8jl2gl8z2l74z?categoryId=694adbb7b6b5e72ee65c36c8"
-},
-{
 "text": "Donate",
 "href": "https://secure.winred.com/citizens-for-ralph-black/donate1"
 },
@@ -48,6 +44,10 @@
 "href": "https://www.ralphforillinois.com/video/v/3tkejp66cmz73bphc8jl2gl8z2l74z?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
+"text": "Peace of Mind",
+"href": "https://www.ralphforillinois.com/video/v/peace-of-mind?categoryId=694adbb7b6b5e72ee65c36c8"
+},
+{
 "text": "Politicians tearing us down",
 "href": "https://www.ralphforillinois.com/video/v/politicians-tearing-us-down?categoryId=694adbb7b6b5e72ee65c36c8"
 },
@@ -64,16 +64,12 @@
 "href": "https://www.ralphforillinois.com/promisetodeliver"
 },
 {
-"text": "Support the campaign",
-"href": "https://www.ralphforillinois.com/video/v/support-the-campaign?categoryId=694adbb7b6b5e72ee65c36c8"
+"text": "Real Leadership",
+"href": "https://www.ralphforillinois.com/video/v/real-leadership?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
 "text": "[image: Ralph Black for State Representative]",
 "href": "https://www.ralphforillinois.com/"
-},
-{
-"text": "[image: Related Video Item Thumbnail]",
-"href": "https://www.ralphforillinois.com/video/v/3tkejp66cmz73bphc8jl2gl8z2l74z?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
 "text": "[image: Related Video Item Thumbnail]",
@@ -85,11 +81,15 @@
 },
 {
 "text": "[image: Related Video Item Thumbnail]",
+"href": "https://www.ralphforillinois.com/video/v/peace-of-mind?categoryId=694adbb7b6b5e72ee65c36c8"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
 "href": "https://www.ralphforillinois.com/video/v/politicians-tearing-us-down?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
 "text": "[image: Related Video Item Thumbnail]",
-"href": "https://www.ralphforillinois.com/video/v/support-the-campaign?categoryId=694adbb7b6b5e72ee65c36c8"
+"href": "https://www.ralphforillinois.com/video/v/real-leadership?categoryId=694adbb7b6b5e72ee65c36c8"
 },
 {
 "text": "[no text]",

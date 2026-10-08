@@ -1,4 +1,4 @@
-top of page Home About Me Testimonials Blog Donate Contact One of the Best Days on the Campaign Trail Anthony Kathol #ago 1 min read Rated NaN out of 5 stars.
+top of page Home About Me Testimonials Blog Donate Contact One of the Best Days on the Campaign Trail Anthony Kathol Sep 30 1 min read Rated NaN out of 5 stars.
 Today was one of the best days on the campaign trail, serving as a reminder of why I enjoy living in this small-town community.
 I started my day early by attending morning Mass.
 I then spent the rest of the day putting up yard signs in my hometown of Martin and enjoyed meeting and visiting with supporters who agreed to host one of my orange campaign signs.

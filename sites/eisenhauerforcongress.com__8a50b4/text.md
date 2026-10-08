@@ -17,7 +17,7 @@ Text HELP for more information.
 Text STOP to stop receiving messages.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name Email Postal Name * First Last Postal Code * Email * Mobile Phone NOTE: by submitting your phone number you are agreeing to receive up to 2 text messages per week from Eisenhauer for Congress (we promise to not send too many).
+Phone Mobile Postal Name * First Last Postal Code * Email * Mobile Phone NOTE: by submitting your phone number you are agreeing to receive up to 2 text messages per week from Eisenhauer for Congress (we promise to not send too many).
 Submit Welcome to our campaign!
 It is a privilege to welcome you to the campaign website for our Independent candidacy for Montana’s 2nd U.S.
 Congressional District.

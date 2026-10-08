@@ -1,4 +1,4 @@
-Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT Make Your Voice Heard Your vote is your power.
+Skip to main content Home About Jackie Events Gallery Volunteer News & Press Track AIPAT DONATE CONTACT Make Your Voice Heard Your vote is your power.
 Here is everything you need to participate in the 2026 elections in New York's 18th Congressional District.
 Key Election Dates Primary Election June 23, 2026 Early Voting Oct 24 - Nov 1, 2026 General Election November 3, 2026 Register to Vote Registering to vote in New York is simple.
 Choose the option that works best for you.
@@ -32,6 +32,6 @@ What congressional district am I in?
 New York's 18th Congressional District covers portions of the Hudson Valley, including parts of Ulster, Dutchess, and Orange counties.
 If you live in communities like Kingston, Poughkeepsie, Beacon, Newburgh, or Middletown, you are likely in NY-18.
 Use the NY Board of Elections lookup tool to confirm your district.
-Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Campaign About Jackie Gallery News & Press Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
 Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
 All rights reserved.
