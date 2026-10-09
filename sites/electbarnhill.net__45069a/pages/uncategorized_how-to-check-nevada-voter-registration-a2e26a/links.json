@@ -28,10 +28,6 @@
 "href": "https://electbarnhill.net/category/announcements/"
 },
 {
-"text": "Blog",
-"href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
 "text": "Commentary",
 "href": "http://electbarnhill.net/commentary/feed"
 },
@@ -86,6 +82,10 @@
 {
 "text": "Nevada’s official Secretary of State voter services portal",
 "href": "https://registertovote.nv.gov/"
+},
+{
+"text": "News",
+"href": "https://electbarnhill.net/news/"
 },
 {
 "text": "Next Next post: Question 7 Nevada Voter ID: What Comes Next",

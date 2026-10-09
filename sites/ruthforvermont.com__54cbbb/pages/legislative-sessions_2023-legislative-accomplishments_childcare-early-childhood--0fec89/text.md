@@ -50,4 +50,4 @@ Jessica Brumsted, Sen.
 Ginny Lyons, Rep.
 Theresa Wood, and me.
 We’re standing with a version of the final bill which was signed by children and legislators at a celebration on the State House lawn after Act 76 became law.
-Facebook Instagram Recent Posts Everywhere, All of the Time Setting the record straight about my work Vergennes Opera House All Access Project Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe
+Facebook Instagram Recent Posts 3 Things You Can Do for Equality Everywhere, All of the Time Setting the record straight about my work Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe

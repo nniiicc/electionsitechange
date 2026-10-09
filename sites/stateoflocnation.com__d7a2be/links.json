@@ -1,1 +1,54 @@
-[]
+[
+{
+"text": "Admin",
+"href": "https://stateoflocnation.com/login"
+},
+{
+"text": "Dossier",
+"href": "https://stateoflocnation.com/dossier"
+},
+{
+"text": "Explore Public Ledger",
+"href": "https://script.google.com/macros/s/AKfycbyZwBuCtLKMafZULSkCH-H5Gspv46fMWM7AH6uo618N17J_CfgJI-L3zidljuPRGGz-/exec"
+},
+{
+"text": "LND Currency Registry",
+"href": "https://github.com/DHCSOLN/lnd-currency-registry"
+},
+{
+"text": "Open SOLN Ledger Terminal",
+"href": "https://script.google.com/macros/s/AKfycbyZwBuCtLKMafZULSkCH-H5Gspv46fMWM7AH6uo618N17J_CfgJI-L3zidljuPRGGz-/exec"
+},
+{
+"text": "Restricted Staff Gateway",
+"href": "https://stateoflocnation.com/login"
+},
+{
+"text": "SOLN Ledger Terminal",
+"href": "https://script.google.com/macros/s/AKfycbyZwBuCtLKMafZULSkCH-H5Gspv46fMWM7AH6uo618N17J_CfgJI-L3zidljuPRGGz-/exec"
+},
+{
+"text": "SOLN Terminal",
+"href": "https://script.google.com/macros/s/AKfycbyZwBuCtLKMafZULSkCH-H5Gspv46fMWM7AH6uo618N17J_CfgJI-L3zidljuPRGGz-/exec"
+},
+{
+"text": "SOLN Treasury",
+"href": "https://stateoflocnation.com/soln-treasury"
+},
+{
+"text": "Sign In",
+"href": "https://stateoflocnation.com/signin"
+},
+{
+"text": "Terminal",
+"href": "https://stateoflocnation.com/terminal"
+},
+{
+"text": "stateoflocnation.com",
+"href": "https://stateoflocnation.com"
+},
+{
+"text": "treasury@stateoflocnation.com",
+"href": "mailto:treasury@stateoflocnation.com"
+}
+]

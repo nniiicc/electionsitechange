@@ -3,7 +3,7 @@ Not like this.
 Alexander Schmidt is the Democratic nominee for Iowa House of Representatives in District 60, covering the entirety of Mitchell and Worth Counties as well as portions of Cerro Gordo and Floyd Counties.
 The "plan," announced a few days ago in the Oval Office is to build the largest and "most tremendous" steel mill in U.S. history, (somewhere?) in Lee County along the Mississippi River.
 The session is meeting to consider $1.4 billion in tax credits for the project.
-If I were a #ago 2 min read Campaign Blog: 99 Days and I need your help by Alexander Schmidt It's ninety nine days until the general election, and I am asking for your support to help send me to the Iowa House of Representatives.
+If I were a Oct 2 2 min read Campaign Blog: 99 Days and I need your help by Alexander Schmidt It's ninety nine days until the general election, and I am asking for your support to help send me to the Iowa House of Representatives.
 If you live in the 60th district, (here's a handy map if you're unsure) there are three steps you can take the absolute MOST effort to support me, ranked in order of importance: Vote for me, either by casting an early/absentee ballot or on Election Day (Nov 3).
 If you're able, make a donation to my campaign so you can he Politics Jul 27 3 min read Campaign Blog: Independence Day by Alexander Schmidt, candidate for Iowa House of Representatives District 60 It's July 5, and I hope everyone had a safe and happy Independence Day!
 I'm encouraged by all the patriotism that was shown, and a lot of the genuinely thoughtful conversations I have been having with voters are making me believe a large turnout is headed our way this November.

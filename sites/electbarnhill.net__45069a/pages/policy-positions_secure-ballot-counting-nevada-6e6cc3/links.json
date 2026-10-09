@@ -32,10 +32,6 @@
 "href": "https://electbarnhill.net/category/announcements/"
 },
 {
-"text": "Blog",
-"href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
 "text": "Commentary",
 "href": "http://electbarnhill.net/commentary/feed"
 },
@@ -82,6 +78,10 @@
 {
 "text": "Nevada voter roll maintenance",
 "href": "https://electbarnhill.net/policy-positions/nevada-voter-roll-maintenance/"
+},
+{
+"text": "News",
+"href": "https://electbarnhill.net/news/"
 },
 {
 "text": "Next Next post: Volunteer for a Nevada Political Campaign",

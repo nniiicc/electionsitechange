@@ -1,9 +1,10 @@
 {
  "description": "Help out Bubba's campaign",
  "final_url": "https://sorensenforiowa.com/m/login",
- "fingerprint": "24a615b79128f8f72f524e8a957a1ba66c0f0001",
+ "fingerprint": "2ea7e05ded935958c677d739b7bcf7ac730b6d0e",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Login",
  "years_mentioned": []
 }

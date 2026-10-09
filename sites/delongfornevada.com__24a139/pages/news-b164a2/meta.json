@@ -1,9 +1,10 @@
 {
  "description": "Get the latest updates from Nevada Assembly Minority Whip Rich DeLong. DeLong is a Nevada Assemblyman serving Nevada's 26th Assembly District in Reno, Nevada and Incline Village.",
  "final_url": "https://www.delongfornevada.com/news",
- "fingerprint": "c3adc5859ee41d800fb545187f7f43c3b0d91250",
+ "fingerprint": "be1aa65c80d7a125d37c136438185e3154d1c60d",
  "format": 3,
  "paid_for_by": "PAID FOR BY DELONG FOR NEVADA DeLong For Nevada",
+ "rendered": false,
  "title": "News | Rich DeLong for Nevada",
  "years_mentioned": [
   "2024",

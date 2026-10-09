@@ -1,0 +1,13 @@
+FOR IMMEDIATE RELEASE September 25, 2023 MICHELLE RODRIGUEZ ENDORSED BY CALIFORNIA STATEWIDE LAW ENFORCEMENT ASSOCIATION REPRESENTING 7,000 OFFICERS, AGENTS, FIREFIGHTERS, & WARDENS (Pomona, CA)- Michelle Rodriguez, candidate for California's 53rd Assembly District, announced today an endorsement from the California Statewide Law Enforcement Association (CSLEA).
+This significant endorsement underscores Michelle’s unwavering commitment to public safety and her resolve to build stronger relationships between law enforcement agencies and the communities they serve.
+"I am profoundly honored to receive the endorsement of the California Statewide Law Enforcement Association and their incredible members who serve residents all over our state.
+Their support amplifies our shared objectives—safe communities, well-equipped and welltrained law enforcement, and robust collaboration between officers and residents.
+This isn't just a talking point in my campaign; it's a core principle that I've committed my life to" Rodriguez said.
+“The men and women of the California Statewide Law Enforcement Association are proud to support Michelle Rodriguez for the 53rd Assembly District.
+Her unwavering commitment to public safety, service to our State, and appreciation for the invaluable work performed by our Members every day make her the right choice for the voters of the 53rd District.
+I know she will champion policies that keep communities safe while fostering trust between police and residents.
+Michelle represents the values that our members hold close, and we’re confident she’ll be a tireless advocate for them and all Californians in the State Assembly” said CSLEA President Alan Barcelona.
+The California Statewide Law Enforcement Association represents a diverse set of law enforcement personnel providing vital resources to our communities and State, including Special Agents with the Department of Justice, Alcoholic Beverage Control Agents, Fish and Wildlife Wardens, State Park Rangers, Firefighters and Deputy State Fire Marshals, state hospital police officers, investigators, inspectors, and 911 Dispatchers.
+Rodriguez, as a member of the California P.O.S.T Commission, focused on improving law enforcement training, has direct experience in the 53rd district working in health care and our schools, and is a mother and grandmother.
+She and her husband, Assemblymember Freddie Rodriguez, raised their four children in Pomona with an emphasis on public service, leading them to pursue careers in health care and as first responders.
+For more information, contact info@michelleforassembly.com or visit www.michelleforassembly.com ###

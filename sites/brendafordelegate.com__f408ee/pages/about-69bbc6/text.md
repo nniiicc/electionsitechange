@@ -18,4 +18,4 @@ In 2026, Brenda was nominated by the Washington County Republican Central Commit
 Committed to Hagerstown and Washington County Brenda's background in education, special education, community service, and state government has given her experience working with families, educators, community organizations, and constituents throughout Washington County.
 Today, Brenda is focused on bringing that experience back to District 2B and continuing her public service in the Maryland House of Delegates.
 Stay Informed Subscribe to our newsletter for updates and campaign news.
-Subscribe Home | About | Issues | News | Photos | Contact | Donate | FB AUTHORITY: THIAM FOR DELEGATE, CYNTHIA PRICE, TREASURER. © # Thiam For State Delegate District 2B Hagerstown, Maryland Website by DH WEB, Inc. dhwebsites.com
+Subscribe Home | About | Issues | News | Photos | Contact | Donate | FB AUTHORITY: THIAM FOR STATE DELEGATE, CYNTHIA PRICE, TREASURER. © # Thiam For State Delegate District 2B Hagerstown, Maryland Website by DH WEB, Inc. dhwebsites.com

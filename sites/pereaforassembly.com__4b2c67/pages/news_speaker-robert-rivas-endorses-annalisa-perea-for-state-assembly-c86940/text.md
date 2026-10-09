@@ -13,4 +13,4 @@ Speaker Rivas’s support adds significant weight to Perea’s campaign in Assem
 “I am truly honored to earn the support of Speaker Rivas,” said Councilmember Perea.
 “He understands the importance of building coalitions and focusing on practical solutions, and I’m grateful for his confidence in my leadership and commitment to our communities.” Annalisa Perea currently serves on the Fresno City Council, where she has led efforts to expand affordable housing, invest in public safety, and strengthen workforce development programs.
 A certified city planner and former community college trustee, Perea carries forward a lifelong belief in education, equity, and opportunity for every family.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

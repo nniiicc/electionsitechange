@@ -1,1 +1,2 @@
-
+Home About ISSUES Contact More Home About ISSUES Contact Donate Home About ISSUES Contact Donate Connect with Daniel Your Name* Email Address* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Privacy Terms and Conditions Daniel Konstantopoulos for State Representative Paid For by Daniel Konstantopoulos for State Representative - All Rights Reserved.

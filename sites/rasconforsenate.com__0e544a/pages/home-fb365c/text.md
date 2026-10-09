@@ -15,7 +15,7 @@ As your State Senator, I’ll be a champion for amplifying the voices of working
 Sarah Rascón has the heart, determination and values that working families need.
 I am proud to endorse her, and I'm asking you to stand with me." Senator María elena durazo “Sarah Rascón knows that reproductive health care is essential.
 At a time when reproductive freedom is under attack, she will show up, stay engaged, and fight for the communities who rely on Planned Parenthood health centers for care.
-That’s why the Planned Parenthood Advocacy Project Los Angeles County Action Fund proudly endorses Sarah Rascón for California State Senate. ” Claudia Powell, Vice President of Public Affairs, Planned Parenthood Advocacy Project Los Angeles County Action Fund View More Support our grassroots campaign! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other question or concern?
+That’s why the Planned Parenthood Advocacy Project Los Angeles County Action Fund proudly endorses Sarah Rascón for California State Senate. ” Claudia Powell, Vice President of Public Affairs, Planned Parenthood Advocacy Project Los Angeles County Action Fund Endorsed By: Los AngelES cOUNTY fIREFIGHTERS aSSOciation Local 1014 View More Support our grassroots campaign! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other question or concern?
 Send Your Ideas!
 First Name First Name Email Email Phone Phone ZIP Code ZIP Code Send us a message!
 Send us a message!

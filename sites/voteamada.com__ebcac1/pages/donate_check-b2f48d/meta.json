@@ -1,9 +1,10 @@
 {
  "description": "Donate by check to the Campaign Fund for Amáda Márquez Simula. She is running for the Minnesota House District 39B.",
  "final_url": "https://www.voteamada.com/donate/check/",
- "fingerprint": "74ab209c030a815d758b0796b472835f990bda45",
+ "fingerprint": "45dccd135c99071dade78628bc8cf0382bc19e0f",
  "format": 3,
  "paid_for_by": "paid for by Vote Amada",
+ "rendered": false,
  "title": "Check Donations - Vote Amáda",
  "years_mentioned": []
 }

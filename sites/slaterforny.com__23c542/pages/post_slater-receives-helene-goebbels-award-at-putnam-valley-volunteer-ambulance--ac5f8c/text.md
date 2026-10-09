@@ -1,5 +1,5 @@
 top of page Home Volunteer Lawn Sign About Matt Issues Latest News Latest Petitions Clean Slate Petition Cashless Bail Petition Gas Tax Petition MTA Tax Petition Netflix Tax Petition Stop the CCP Stop NYSEG Rate Hike More Use tab to navigate through the menu items.
-DONATE All Posts Search SLATER RECEIVES HELENE GOEBBELS AWARD AT PUTNAM VALLEY VOLUNTEER AMBULANCE CORPS’ 65TH ANNIVERSARY DINNER #ago 2 min read New York State Assemblyman Matt Slater (R,C-Yorktown) was honored with the Helene Goebbels Award during the Putnam Valley Volunteer Ambulance Corps’ (PVVAC) 65th Anniversary Dinner.
+DONATE All Posts Search SLATER RECEIVES HELENE GOEBBELS AWARD AT PUTNAM VALLEY VOLUNTEER AMBULANCE CORPS’ 65TH ANNIVERSARY DINNER Oct 2 2 min read New York State Assemblyman Matt Slater (R,C-Yorktown) was honored with the Helene Goebbels Award during the Putnam Valley Volunteer Ambulance Corps’ (PVVAC) 65th Anniversary Dinner.
 Slater joined members of the Corps, community leaders and supporters in celebrating the organization’s 65 years of service to Putnam Valley.
 The award is named in honor of Helene Goebbels, whose generosity played an important role in the history of PVVAC.
 Goebbels donated the land on which the Corps’ building stands today, providing a permanent home for generations of volunteers.

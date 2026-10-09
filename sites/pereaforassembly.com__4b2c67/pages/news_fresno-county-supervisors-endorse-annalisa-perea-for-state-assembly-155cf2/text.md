@@ -18,4 +18,4 @@ In Sacramento, I’ll continue to advocate for policies that strengthen Fresno C
 In that role, she secured millions in public safety funding, expanded affordable housing, and led key negotiations to boost city revenues without raising taxes.
 A certified city planner and former community college trustee, Perea brings both technical expertise and deep grassroots experience to the campaign.
 A lifelong Central Valley resident and the granddaughter of working-class immigrants, Perea’s campaign continues to resonate with voters who want a leader rooted in community and ready to deliver results.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

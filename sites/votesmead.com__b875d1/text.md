@@ -5,7 +5,9 @@ Let’s build it.
 Husband.
 Father of four.
 Architect and small business owner from Liberty — running to build a Missouri our kids can call home.
-Meet Josh See the Plan Shop the Store Donate Missouri is the Show-Me State.
+Meet Josh See the Plan Shop the Store Donate On the road Whistlestop Bus Tour All aboard.
+The tour is hitting towns across north Missouri — and chances are, we’re coming your way.
+October 9–10 October 16–17 Missouri is the Show-Me State.
 So show me.
 Show me the plan.
 What are you proposing — clearly?

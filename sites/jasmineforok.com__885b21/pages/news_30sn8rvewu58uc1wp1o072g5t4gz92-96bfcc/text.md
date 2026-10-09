@@ -1,6 +1,6 @@
-0 Skip to Content HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA NBC News: “Democratic socialists notch another win in the Oklahoma Senate primary runoff” Aug 25 Written By Nkiyla Thomas Nurse N’Kiyla Jasmine Thomas has won the Democratic Senate nomination in Oklahoma, NBC News projects, defeating an older, more moderate opponent.
-Aug.
-25, 2026, 7:50 PM CDT By Bridget Bowman Nurse N’Kiyla Jasmine Thomas has won the Democratic Senate primary runoff in Oklahoma, NBC News projects, securing another win for the party’s democratic socialist wing.
+0 Skip to Content HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA NBC News: “Democratic socialists notch another win in the Oklahoma Senate primary runoff” MENTIONS Aug 25 Written By Nkiyla Thomas Aug.
+25, 2026 Bridget Bowman Photo of N’Kiyla Jasmine Taylor, U.S.
+Senate Candidate Nurse N’Kiyla Jasmine Thomas has won the Democratic Senate primary runoff in Oklahoma, NBC News projects, securing another win for the party’s democratic socialist wing.
 Thomas, a 31-year-old member of the Chickasaw Nation, defeated attorney and minister Jim Priest, 70, in the contest, despite being drastically outspent.
 The two advanced to a runoff after neither clinched a majority of the vote in the initial June primary.
 Thomas will face GOP Rep.
@@ -21,4 +21,4 @@ Like some other progressive candidates who have prevailed in primaries this year
 Priest’s campaign has spent $315,000 so far, while Thomas’ campaign has spent $57,000, according to campaign finance reports filed with the Federal Election Commission.
 She is also starting the general election at a massive financial disadvantage: Thomas had just $456 in her campaign account as of Aug.
 5, while Hern’s campaign had $2.6 million on hand as of June 30.
-Runoff NBC News Nkiyla Thomas Previous Previous Fox news: Democratic newcomer scores runoff upset in Oklahoma, vows to impeach Trump if elected” Next Next The times of israel: “Oklahoma Democratic primary pits centrist against activist with ad tossing AIPAC ‘trash’" Grassroots, community-driven, people-powered. © # Paid for By N'Kiyla For OK All Rights Reserved.
+Article: here TRENDING NEWS Nkiyla Thomas Previous Previous Fox news: Democratic newcomer scores runoff upset in Oklahoma, vows to impeach Trump if elected” Next Next The times of israel: “Oklahoma Democratic primary pits centrist against activist with ad tossing AIPAC ‘trash’" Grassroots, community-driven, people-powered. © # Paid for By N'Kiyla For OK All Rights Reserved.

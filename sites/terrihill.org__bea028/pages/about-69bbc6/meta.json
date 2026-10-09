@@ -1,9 +1,10 @@
 {
  "description": "",
  "final_url": "https://terrihill.org/about/",
- "fingerprint": "6899177d9b3b79c8f49bd8917507eb4741e5187a",
+ "fingerprint": "b2e32a850ce290bb4b78f06e59afade46c4ffd95",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "About Terri – Delegate Terri Hill, MD District 12A",
  "years_mentioned": [
   "1985",
@@ -19,7 +20,6 @@
   "2017",
   "2019",
   "2020",
-  "2025",
-  "2026"
+  "2025"
  ]
 }

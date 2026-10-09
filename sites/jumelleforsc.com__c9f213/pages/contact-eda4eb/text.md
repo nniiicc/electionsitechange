@@ -1,4 +1,4 @@
-About Jumelle Brooks News & Events Join the Movement Follow Follow Follow DONATE About Jumelle Brooks News & Events Join the Movement Follow Follow Follow DONATE We can win if we work together.
+Follow Follow Follow Follow DONATE About Jumelle Brooks News & Events Join the Movement Follow Follow Follow DONATE We can win if we work together.
 Now is the time for us to stand up as a community and make our voice heard.
 If we work together, we can make SC District 12 and South Carolina a better place to call home.
 We can win if we work together.

@@ -1,0 +1,26 @@
+Office of Representative Hannah E.
+Kane Commonwealth of Massachusetts For Immediate Release Contact: Erin Ryan, 617-722-2430, Erin.Ryan@mahouse.gov April 27, 2016 Representative Kane Announces 2nd Annual Event Celebrating Armed Forces Day Legislators Representing the Central MA Veterans’ Services District Invite Community Members of Grafton, Northborough, Shrewsbury and Westborough to Join in Honoring Active and Retired Military Personnel SHREWSBURY- Representative Hannah E.
+Kane (R-Shrewsbury) announced today that the 2nd Annual Armed Forces Day event, honoring all service men and women, active or retired, will take place at SAC Park, 438 Lake Street, Shrewsbury, on Saturday, May 21, 2016 from 9am10:30am.
+Representative Kane will be joined by her colleagues in the Legislature, Senator Michael Moore (D-Millbury), Representative David Muradian (R-Grafton), Representative Carolyn Dykema (D-Holliston), Representative Danielle Gregoire (D-Marlborough), and Representative Harold Naughton (D- Clinton) in co-sponsoring the event with Senator Harriett Chandler (D- Worcester) and Senator Jamie Eldridge (D-Acton) who will be unable to attend.
+The delegation represents the Central Massachusetts Veterans’ Service district of Shrewsbury, Westborough, Northborough and Grafton.
+The event is open to all active and retired military personnel and members of the public who would like to participate in honoring those who have served.
+“I am honored to once again have the opportunity to co-host such an important day with community leaders and my colleagues in the legislature,” said Representative Hannah Kane.
+“This day focuses on honoring all military personnel, their service to our country and the sacrifices that they and their families have made to serve and protect our great nation.
+It is humbling to be surrounded by a group of individuals who truly live a life dedicated to public service and I look forward to sharing this day with the Central Massachusetts community.” “As the granddaughter and daughter of veterans, I appreciate this opportunity to celebrate our servicemen and women and all that they have sacrificed for our safety,” said Representative Gregoire.
+“It is our duty to pay tribute to all who have served by not letting their dedication to our country be forgotten.” “Armed Forces Day is about coming together as a community to thank our military members for their patriotic service in support of our country,” said Michael O.
+Moore.
+“I have the upmost respect for the dedication and sacrifice of those serving in the Armed Forces, and their families.
+I am honored to participate in this event to commend the men and women who defend our freedoms and keep us safe.” Armed Forces day was created in 1949 by then US Secretary of Defense, Louis Johnson, to replace separate Army, Navy and Air Force Days and unify all branches of the military under the Department of Defense.
+It is a Day to pay tribute to those actively serving and those who have served their country in times of war and peace.
+“I feel so lucky to be joining my colleagues and our friends and neighbors in Shrewsbury, Westborough, Northbridge, and Grafton to honor our active and retired military personnel and their service to our great country,” stated Representative Muradian.
+“This event is a wonderful opportunity to join our communities together in order to show our thanks to the selfless men and women of our military.” “I am proud to co-host an event that celebrates the service and sacrifice of these brave men and women,” said Representative Carolyn Dykema (D-Holliston).
+“We are fortunate to be able to recognize our engaged, dedicated veterans community that continues its commitment to service here in the Commonwealth every single day.” This year’s event will feature special guest speakers Lieutenant Governor Karyn Polito, Women Veterans Coordinator for the Massachusetts Department of Veterans Services, TSgt, USAF (RET) Mary E.
+Gallagher, and Manager of Strategic Partnerships at Veterans Inc., First Lieutenant Brenda Heller, US Army.
+Shrewsbury High School Senior Carly O’Brien will perform the National Anthem.
+Attendees will enjoy music, readings and a continental breakfast while recounting the history of each branch of the military.
+"I am honored to once again have the opportunity to participate in this great event," said Representative Naughton, "Armed Forces Day is a chance for us to honor, recognize, and thank those who take the responsibility of serving and defending our nation." Representative Naughton is a Major in the United States Army Reserve serving as a Judge Advocate and was recently deployed to southwest Asia in 2015.
+“This will be a great day to share with our service members and our families.
+I truly believe that individuals of all ages will leave the event with a greater appreciation for the branches of our Military, a greater reverence for those who have served and an enhanced understanding of our duty, as private citizens, to continue to honor them,” commented Representative Kane.
+All members of the community are welcomed and encouraged to attend.
+For more information or to RSVP please contact stephen_gayle.vig@townisp.com or 508-341-0578.
+###

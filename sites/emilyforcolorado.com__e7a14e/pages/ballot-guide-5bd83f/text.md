@@ -1,0 +1,19 @@
+Skip to content Emily Sirota on Facebook Emily Sirota on Instagram Emily Sirota on LinkedIn Emily Sirota on X About Emily Bio Endorsements Priorities News & Media In the News Photos Video Election Information Voter Information 2026 Ballot Guide Donate Colorado State Senate · District 32 2026 Ballot Guide This November here in Colorado, we’ve got huge decisions before us on multiple major ballot initiatives.
+I’ve created a complete statewide ballot measure guide to help voters navigate these important and weighty choices which will impact our state for years to come.
+Amendments Measure What it does Emily’s vote Amendment 81 This amendment, if passed, would force Colorado authorities to provide additional support to Donald Trump’s ICE enforcement efforts.
+Yes/For No/Against Amendment 82 This amendment is being pushed by the fossil fuel industry as part of their effort to stop the expanded use of clean, renewable energy.
+Yes/For No/Against Amendment 83 This amendment doesn’t belong in our constitution and would restrict our ability to protect and responsibly manage Colorado’s natural resources.
+Yes/For No/Against Amendment 84 This is MAGA’s latest attack on Colorado’s proud tradition of voting by mail.
+If passed, this amendment would create new requirements for filling out mail-in ballots that would lead to more rejected ballots and disenfranchised voters.
+Yes/For No/Against Amendment 85 This could limit the amount of information voters are provided about ballot measures, a move by right wing groups trying to stop voters from understanding the fiscal implications of ballot measures.
+Yes/For No/Against Amendment 86 This amendment is being pushed by the GOP to prevent Colorado Democrats from drawing Congressional district lines that fairly reflect the will of Colorado voters.
+Yes/For No/Against Amendment 87 If passed, this amendment will improve funding for health care, K-12 education, and child care while making our tax code fairer by cutting taxes for 97% of Coloradans and raising taxes on the richest.
+Yes/For No/Against Propositions Measure What it does Emily’s vote Proposition NN This critical proposition must pass to address the budget crisis facing K-12 education in Colorado, ensuring all our children can have access to world-class public education.
+Yes/For No/Against Proposition 132 If passed, this proposition would increase mass incarceration and prevent us from building a more effective criminal justice system that’s focused on reducing crime and improving health and safety in our communities.
+Yes/For No/Against Proposition 133 I join leading advocacy groups like the Colorado Coalition Against Sexual Assault in opposing this proposition that, if passed, would make it less likely that survivors of sexual violence and exploitation will report crimes to law enforcement.
+Yes/For No/Against Proposition 134 Please join me in opposing this proposition that is the latest Republican attempt to vilify and marginalize transgender youth.
+Yes/For No/Against Proposition 135 I join the Colorado Medical Society in opposing this proposition that, if passed, would limit the gender affirming care doctors are allowed to provide in Colorado.
+Yes/For No/Against Proposition 136 This proposition is the latest attempt by Republicans to cut taxes for the rich and reduce funding for state programs that provide health care, education, and services for the poor.
+Yes/For No/Against Proposition 137 I agree with tax policy experts that this proposition, if passed, would prevent Colorado lawmakers from making responsible decisions with tax revenues.
+Yes/For No/Against Emily Sirota for Colorado P.O.
+Box 24091 · Denver, CO 80224 emily@emilyforcolorado.com Follow along Emily Sirota on Facebook Emily Sirota on Instagram Emily Sirota on LinkedIn Emily Sirota on X Paid for by Emily Sirota for Colorado; Registered Agent: Emily Sirota

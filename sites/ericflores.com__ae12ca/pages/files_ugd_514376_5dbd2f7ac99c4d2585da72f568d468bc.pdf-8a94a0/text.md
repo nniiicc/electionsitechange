@@ -1,0 +1,7 @@
+FOR IMMEDIATE RELEASE October 13, 2025 Contact: press@ericflores.com Matt Brownfield (214) 566-8589 ERIC FLORES SLAMS REP.
+VICENTE GONZALEZ AS BORDER PATROL GOES WITHOUT PAY San Benito, TX – A new report from ABC News warns that unless Congressman Vicente Gonzalez votes to reopen the government, Border Patrol, Guardsmen and millions of Americans working to protect our borders will “miss their paycheck on Wednesday, Oct.
+15 and won't be paid until the government reopens.” In response, Eric Flores, a former Army National Guard Infantry Captain, former Assistant U.S.
+Attorney, and Republican candidate for Texas’ 34th Congressional District, released the following statement: “Vicente Gonzalez should be downright ashamed of himself.
+His repeated votes against reopening the government have left our brave border patrol agents to fight the open borders chaos - that he created – without a paycheck to feed their families,” Eric Flores said.
+“In just 2 days, these patriots fighting the flood of illegal immigrants and deadly fentanyl will see empty bank accounts all because he’d rather use them as political pawns than pass a clean bill to reopen the government.
+It’s time for Vincente Gonzalez to step up, do his job and pass a bill to get Border Patrol paid – or step aside for someone who will!” ### PAID FOR BY ERIC FLORES FOR CONGRESS Eric Flores for Congress | PO Box 84 | San Benito, TX 78586 US Unsubscribe | Update Profile | Constant Contact Data Notice

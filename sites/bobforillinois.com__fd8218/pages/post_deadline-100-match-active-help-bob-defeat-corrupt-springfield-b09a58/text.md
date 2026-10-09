@@ -16,8 +16,7 @@ Until Oct.
 15th DONATION MATCH With only weeks remaining until Election Day, every single dollar goes straight to voter contact, precinct operations, and cutting through radical special-interest noise.
 Donate $35 Matched to $70 Donate $100 Matched to $200 Donate $250 Matched to $500 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
-Recent Posts See All Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold Bio Series Part 6: Bob Fioretti's Independent Record of Reform Bio Series 5: PROTECTING CHILDREN.
-STANDING WITH FAMILIES EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+Recent Posts See All Charleston Hosts Historic 4th Lincoln-Douglas Debate on October 16th Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold Bio Series Part 6: Bob Fioretti's Independent Record of Reform EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

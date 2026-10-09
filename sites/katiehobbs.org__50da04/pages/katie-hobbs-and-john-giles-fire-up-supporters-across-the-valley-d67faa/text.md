@@ -5,9 +5,8 @@ Meanwhile, John headed to his hometown of Mesa, where he joined organizers and v
 He thanked the canvassers and reminded them that the deadline to register to vote is tomorrow, urging them to spread the word.
 Today’s events are part of a broader effort to meet voters where they are, backed by a robust statewide field program reaching communities across Arizona.
 From Scottsdale and Prescott to Tucson, Sierra Vista, Yuma, Maryvale, Bullhead City, and beyond, Copper State Victory canvassers are knocking doors and talking directly with Arizonans in their communities.
-Next Post Elect Katie Hobbs Campaign Announces Nearly $# Million Raised PHOENIX – Today, Arizona Gov.
-Katie Hobbs announced that her campaign committee, Elect Katie Hobbs, has raised nearly $# million since she was elected governor in 2022.
-The contributions come from tens of thousands of supporters, and 96 percent of contributions are less than $# Nearly half...
+Next Post Katie Hobbs Campaign Statement on the “Will Never Be Lieutenant Governor” Debate In response to tonight's lieutenant governor candidates debate, Gov.
+Hobbs' Campaign Manager, Nicole DeMont, released the following statement: “Sine Kerr shared a stage with a field of long-shot candidates for a job she will never hold, thanks to Andy Biggs’ dangerous record of protecting the corrupt pedophile rings of Warren...
 Next Post First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.

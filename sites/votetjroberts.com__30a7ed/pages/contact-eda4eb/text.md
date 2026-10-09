@@ -1,4 +1,4 @@
-About Endorsements Media Contact Follow Follow Donate About Endorsements Media Contact Donate Contact Drop a question or comment below and we will get back to you.
+About Endorsements Media Get Involved Contact Follow Follow Donate About Endorsements Media Get Involved Contact Donate Contact Drop a question or comment below and we will get back to you.
 Submit Δ #Boone County’s Conservative Donate First Name (Required) Last Name (Required) Zipcode (Required) Email (Required) Phone Consent I consent to receive recurring texts only from TJ Roberts for State Representative to this number.
 We may use an automatic telephone dialing system to send texts.
 Message/data rates may apply.

@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Privacy Policy Effective date: July 28, 2026 1.
+Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Privacy Policy Effective date: July 28, 2026 1.
 Who We Are This website, leman4mt.org (the "Site"), is operated by Greg Leman for Montana (the "Campaign"), the campaign committee for Greg Leman, Republican candidate for Montana House District 60.
 This policy describes what information the Site collects, how it is used, and the choices you have.
 2.

@@ -1,4 +1,4 @@
-Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer Home 2026-09-09T11:00:36-04:00 Joe Moss Republican for State Representative Proven Leader.
+Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer Home 2026-10-08T16:51:54-04:00 Joe Moss Republican for State Representative Proven Leader.
 Real Results.
 Joe Moss is a CFO and multi-company business owner serving as Ottawa County Commissioner.
 His background in accounting and entrepreneurship enable him to deliver results that protect families, strengthen communities, and defend freedom.
@@ -6,7 +6,7 @@ Joe won the Republican primary for Michigan House District 89 on August 4, 2026,
 Pro-Life.
 Pro-Family.
 Pro-Freedom.
-Right to Life Great Lakes Gun Rights MCRGO Republican Party Make Liberty Win Request a Sign Donate Meet Joe “Michigan needs hope.
+Right to Life Michigan Farm Bureau Great Lakes Gun Rights MCRGO Republican Party Make Liberty Win Request a Sign Donate Meet Joe “Michigan needs hope.
 We need proven leaders who deliver change.” Real Leadership.
 Real Results.
 Joe Moss doesn’t just talk about conservative values—he delivers them.
@@ -84,6 +84,6 @@ That’s the leadership I’ve brought in Ottawa County, and it’s the leadersh
 “I’ve taken action, delivered reform, and stayed accountable to the people.
 I’m ready to bring that leadership to Lansing.” His campaign will focus on protecting children and families, defending local communities, reducing taxes, strengthening Michigan’s economy, and eliminating waste, fraud, and abuse in government.
 Moss is proud to have the support of County Commissioners Sylvia Rhodea and Allison Miedema , who also represent the people of House District 89.
-CONNECT WITH JOE " * " indicates required fields Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
+CONNECT WITH JOE " * " indicates required fields Submit Δ Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
 Msg & data rates may apply.
 Facebook X LinkedIn Page load link Go to Top

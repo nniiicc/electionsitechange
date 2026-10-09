@@ -1,9 +1,9 @@
 0 Skip to Content About Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Open Menu Close Menu About Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Open Menu Close Menu Folder: About Back Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact Folder: ES Back Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact Folder: ES Back Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE ¿Quién es Chris Beck?
 Mamá, papá y mis hermanos en Hells Canyon (1977) Mi familia en Lake Kiwa en el Rango de las Cascadas en Oregon.
 (1972) En el río Deschutes con mis padres (1968) Yo y mi hermano, Borden en el río Deschutes, reserva de Warm Springs.

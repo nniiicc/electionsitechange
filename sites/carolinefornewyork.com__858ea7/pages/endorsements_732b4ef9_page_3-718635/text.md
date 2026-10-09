@@ -1,4 +1,6 @@
-Donate Home MEET CAROLINE SHINKLE VISION Priorities Caroline Shinkle's Vision News supporters Endorsements National Support Shinkle Store Contact Donate A Growing Coalition A Selection of Leaders Who Stand with Caroline Shinkle Endorsements Leaders Who Believe in Caroline Shinkle's Vision Scott Brown Former U.S.
+Donate Home MEET CAROLINE SHINKLE VISION Priorities Caroline Shinkle's Vision News supporters Endorsements National Support Shinkle Store Contact Donate A Growing Coalition A Selection of Leaders Who Stand with Caroline Shinkle Endorsements Leaders Who Believe in Caroline Shinkle's Vision Frank Morano New York City Council Member “I can tell you one of the biggest problems we have in city government today is our congressional delegation is totally out to lunch.
+They are putting forward this left-wing agenda that's totally out of step with where New Yorkers are.
+New York cares about public safety, we care about great schools, we care about great parks, and that's why I'm proud to support Caroline Shinkle for Congress." Watch video → Scott Brown Former U.S.
 Senator & Ambassador “I'm actually endorsing Caroline Shinkle for the New York Congressional 12th.
 Caroline's a hard worker, I've known her for many, many years.
 If you want to have somebody who's always going to be accessible and look you in the eye and give you an answer to a tough question, she's the person for you.
@@ -26,20 +28,7 @@ I fully support Caroline.
 Caroline represents the next generation of leadership for New York City, as she fights to bring common sense, free market thinking to Washington and to restore New York City as the center of global capitalism.
 Caroline is the most qualified candidate to run for this seat in the last 50 years.
 It is important for the future of New York City that Caroline prevails in this race,” Pataki said.
-Bruce Blakeman Republican Candidate for New York Governor "[Caroline Shinkle] is an MIT grad.
-She's a Harvard Law School grad.
-She's brilliant and she's tough.
-She's a fighter.
-She will help cut taxes.
-She will make our military stronger.
-And she could be the deciding vote as to who's Speaker.
-I endorse Caroline.
-Let's get out there, work, and fight for her," Shinkle is honored to receive Blakeman's support and endorsement.
-"Bruce Blakeman is exactly the kind of champion New York so desperately needs at this critical moment in history.
-He is a battle-tested, proven leader who will restore common sense, cut taxes, and keep our communities safe.
-I look forward to working with Bruce when he defeats Kathy Hochul this November.
-From Lake Placid to Lincoln Center, we're taking back the Empire State," said Shinkle.
-Watch video → Previous Next Add Your Voice?
+Previous Next Add Your Voice?
 Ready to stand with Caroline Shinkle?
 Submit an endorsement or donate to the campaign.
 Submit an Endorsement DONATE NOW Donate Now ↗      Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress

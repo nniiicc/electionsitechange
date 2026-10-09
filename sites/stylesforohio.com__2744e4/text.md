@@ -23,7 +23,7 @@ Workforce Development Partner with local businesses and trade schools to develop
 Create pathways from high school to high-paying careers in manufacturing and technology.
 Endorsed by Lake County Leaders Jesse Styles has earned the trust and support of leaders across Lake County.
 Our local leaders know Jesse will go to Columbus and fight for Lake County.
-Get Involved Want to get involved?
+Photo Gallery Get Involved Want to get involved?
 Fill out our volunteer contact form here!
 Volunteer Contact Form First Name (Required) Last Name (Required) Email Address (Required) Phone Number (Required) Message (Required) STYLES FOR OHIO Conservative leadership for Ohio’s 57th District.
 Fighting for lower taxes, stronger families, and economic opportunity.

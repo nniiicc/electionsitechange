@@ -1,0 +1,5 @@
+Contribution Form Abby Major For State Representative, please accept this contribution so you can continue providing rural families with a strong voice. ___ $1,000 ___ $500 ___ $250 ___$100 ___$50 ___$25 Other $_____ Name: _________________________________________________ Home Address: ___________________________________________ City, St, Zip: _____________________________________________ Phone: _________________________________________________ E-mail:_________________________________________________ Employer:_________________________ Occupation:_____________ Employer Address:_________________________________________ Corporate Contributions prohibited.
+Contributions are not tax deductible for income tax purposes.
+State Campaign Finance Law requires the following be shared with the PA Department of State: For Donations between $50 and $250: Name, Address, City, State, Zip Code For Donations above $250: Name, Address, City, State, Zip Code, Employer Name, Employer Address, and Occupation Please make check payable to: MAJOR FOR PA Mail to: MAJOR FOR PA COMMITTEE Att: Abby Major P.O.
+Box 449 Ford City, PA 16226 Thank you for your support!
+Paid for by Major For PA

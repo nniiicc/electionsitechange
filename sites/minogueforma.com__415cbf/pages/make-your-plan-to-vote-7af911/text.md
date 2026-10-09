@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Donate Days since Maura Healey promised a gas-tax suspension: Days Hours Min Sec Demand Action!
-Home Meet Mike Meet Renee Blueprint for a Better Future In The News Get Involved Make a Plan to Vote Store Donate Make your plan to vote Election Day is Tuesday, November 3 Voting in Massachusetts is easy and you have 3 ways to cast your ballot.
+Home Meet Mike Meet Renee Blueprint for a Better Future In The News Events Get Involved Make a Plan to Vote Store Donate Make your plan to vote Election Day is Tuesday, November 3 Voting in Massachusetts is easy and you have 3 ways to cast your ballot.
 1.
 Vote by Mail 2.
 Vote Early In Person 3.

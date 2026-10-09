@@ -1,4 +1,5 @@
-Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements Douglas County Sheriff Darren Weekly “I’ve known Michael Allen for many years and I’m proud to call him a friend.
+Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements Archuleta County Sheriff Mike Le Roux “Michael doesn’t view Law Enforcement as a ‘problem to be managed.’ He views us as the primary line of defense for Colorado citizens.
+He has spent his career successfully building bridges and developing partnerships with elected officials, local agencies and departments, and is committed to ensuring that the Attorney General’s Office serves as a resource, not an obstacle.” Douglas County Sheriff Darren Weekly “I’ve known Michael Allen for many years and I’m proud to call him a friend.
 As a District Attorney, he’s demonstrated strong judgment, real leadership, and a clear commitment to the rule of law and public safety.
 Michael Allen is the clear choice for Attorney General of Colorado.” El Paso County Sheriff Joe Roybal “It is my privilege to support Michael Allen for Colorado Attorney General.
 I have witnessed Michael fight for victims in the courtroom and the legislature.
@@ -18,9 +19,6 @@ He is the only candidate with the experience, resolve, and proven record needed 
 Michael Allen will answer the call for Colorado.
 Michael understands that public service is about doing the work, defending the rule of law, and protecting the things that matter to our communities, including our safety and our water.
 He has the experience, integrity, and judgment to be an Attorney General for all of Colorado.
-I am proud to endorse Michael Allen for Attorney General.” District Attorney for the 10th Judicial District Kala Beauvais “I am proud to support Michael Allen for Colorado’s next Attorney General – a candidate that embodies the highest standards of public service.
-His leadership is defined by integrity, fairness, and respect for the legal system that he has spent a career upholding.
-He brings experience and direction when it comes to holding criminals accountable and protecting our communities.
-Michael Allen is the positive change that Colorado so badly needs.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
+I am proud to endorse Michael Allen for Attorney General.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Facebook X Instagram Donate

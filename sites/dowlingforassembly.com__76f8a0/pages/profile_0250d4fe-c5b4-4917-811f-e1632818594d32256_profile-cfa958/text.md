@@ -17,9 +17,9 @@ I want District 53 to have someone there who approaches those problems the same 
 Not by deciding what the answer is before asking the question.
 Not by checking which political party introduced the idea.
 And being able to come with the understanding that disagreements doesn't make someone is the enemy.
-8 0 Sep 16, 2026 ∙ 3 min Federal Vaccine Guidelines Changed.
+9 0 Sep 16, 2026 ∙ 3 min Federal Vaccine Guidelines Changed.
 Should Wisconsin Change Too?
 During the recent League of Women Voters candidate forum, I was asked a question I didn't have an answer to: “Should the public school system’s vaccine mandates be updated to match the new federal vaccine guidelines?” Now?
 Now, I have an answer.
-21 0 Load More CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
+23 0 Load More CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
 Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

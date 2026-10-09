@@ -1,0 +1,7 @@
+You need to enable JavaScript to run this app.
+Meet Kalinda Issues Get Involved News Donate Meet KALINDA WASHINGTON Principles.
+Integrity.
+Results.
+WHY KALINDA Classroom experience, not Albany talking points Proven leadership in real schools Focused on results for students and families Committed to strong schools, safe neighborhoods, and affordability SUPPORTING SCHOOL CHOICE Empower parents to choose the best schools Expand high-quality charter schools Improve public schools & raise standards Focus on literacy & career readiness FIGHTING FOR AFFORDABILITY Cut taxes and lower cost of living Reduce energy bills & gas prices Slash burdensome red tape Help small businesses thrive SAFE COMMUNITIES Back our police & fight crime Get tough on repeat offenders Invest in mental health support Stand up for victims' rights MENTAL HEALTH & RECOVERY Expand access to mental health care Boost addiction treatment programs Support veterans & at-risk youth Treat addiction as a health issue Ready to Fight for New York's Future With experience, expertise, and a heart for service, Kalinda Washington is ready to bring real solutions to Albany.
+Donate Now Get Involved Fighting for school choice, safe communities, and affordability for Monroe County families.
+Quick Links Meet Kalinda Issues Get Involved News Contact kalinda@kalindafornysassembly.com Rochester, NY 14614 Follow Us Donate Paid for by Kalinda Washington for New York State Assembly © # All rights reserved.

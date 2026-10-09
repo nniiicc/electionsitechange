@@ -1,4 +1,4 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster electbarnhill Sep 30, 2026 0 Comments Would Anyone Else Work This Hard to Protect Your Vote?
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster electbarnhill Sep 30, 2026 0 2 Comments Would Anyone Else Work This Hard to Protect Your Vote?
 On May 20, 2026, I submitted a sworn complaint to the Nevada Secretary of State’s office identifying approximately 12,465 apparent duplicate voter registrations in Clark County — pulled from the Secretary’s own public data.
 Same first name, same last name, same birth year, but different voter ID numbers and different addresses.
 A reviewed subset shows both entries recorded as voting in the 2024 General Election.
@@ -44,6 +44,9 @@ September 28, 2026 Aguilar moves the Court to suspend my action indefinitely whi
 No way, Jose!
 I oppose the motion and request consolidation with the RNC action.
 See While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster .
+September 28, 2026 Barnhill’s Certificate of Interested Parties, dated September 28, certified that the only parties to the case are Barnhill, a Nevada voter, and the Secretary of State, with no corporate backers, affiliates, or insurer.
+See The Court Asked Who Has a Stake in My Lawsuit.
+The Honest Answer Is You.
 October 1, 2026 Barnhill’s Opposition to the motions to stay and extend time (ECF No.
 9), Motion to Consolidate (ECF No.
 10), and Notice of Related Cases (ECF No.
@@ -52,12 +55,16 @@ They were not entered on the docket until October 5.
 The Court has not yet ruled on the September 16 e-filing motion.
 See Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer .
 October 6, 2026 Barnhill mailed a Notice of Lodging Proposed Order and Request for Ruling on the September 16 e-filing motion, with a proposed order attached.
-Latest update: I’ve Asked the Court to Rule on My E-Filing Request .
+See I’ve Asked the Court to Rule on My E-Filing Request .
+Latest update: The Court Asked Who Has a Stake in My Lawsuit.
+The Honest Answer Is You.
 I took the Secretary of State to federal court to protect your vote.
 Has your candidate?
-Get to know me · Join the campaign · Donate Share: Categories: Announcements 1 thought on “While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster” Pingback: Pro Se Electronic Filing Delays in Barnhill v.
-Aguilar Post navigation Previous Previous post: Volunteer for a Nevada Political Campaign Next Next post: Why Donate to a Nevada Independent Candidate? footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+Get to know me · Join the campaign · Donate Share: Categories: Announcements 2 thoughts on “While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster” Pingback: Pro Se Electronic Filing Delays in Barnhill v.
+Aguilar Pingback: Who Has a Stake in Barnhill v.
+Aguilar?
+Nevada Voters | Barnhill Post navigation Previous Previous post: Volunteer for a Nevada Political Campaign Next Next post: Why Donate to a Nevada Independent Candidate? footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (17) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

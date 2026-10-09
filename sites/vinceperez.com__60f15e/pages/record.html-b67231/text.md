@@ -1,4 +1,4 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate The Record Built in El Paso.
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate The Record Built in El Paso.
 Fought for in Texas.
 Here is what we have actually delivered for El Paso — at the Legislature and at the County.
 Higher education & workforce New UTEP Student Union signed into law HB 2853 · Signed 2025 A new Student Union for one of the largest Hispanic-serving research universities in the country.
@@ -16,7 +16,7 @@ Statewide indigent defense reforms Investigations led to a Texas Indigent Defens
 County Economic Impact Fund (2018) Diversified development incentives to attract major investment to the Borderplex region.
 Blocked a hazardous medical waste facility (2019) Exposed inaccuracies in the company's TCEQ application, protecting community health and safety.
 Recognition National County Leader of the Year American City & County Magazine · 2016 The first Texas County Commissioner ever to receive the recognition.
-VINCE PEREZ Fighting for Texas.
+Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

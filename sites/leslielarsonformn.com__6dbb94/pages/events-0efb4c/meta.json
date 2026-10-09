@@ -1,9 +1,10 @@
 {
  "description": "Explore Minnesota events with Leslie Larson for Blaine and Lexington. Stay updated on upcoming gatherings and community activities.",
  "final_url": "https://leslielarsonformn.com/events",
- "fingerprint": "f55bedc9be7bb89c1cd27cefa6a616db36488ecd",
+ "fingerprint": "5de90b65649107876d75c65f52363f748dab7858",
  "format": 3,
  "paid_for_by": "paid for by Leslie Larson for MN, P",
+ "rendered": false,
  "title": "Events",
  "years_mentioned": []
 }

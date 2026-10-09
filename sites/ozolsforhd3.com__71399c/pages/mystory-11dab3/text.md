@@ -1,4 +1,4 @@
-top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Donate About Me A Colorado Story.
+top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Media Donate About Me A Colorado Story.
 A Lifetime of Fighting for People.
 My story is almost obnoxiously American. ​ ​ My father immigrated to the United States from Caracas, Venezuela and would eventually learn English as his third language.
 He met my cheerleader Mom on a Texas Air Force base before starting their family in the San Francisco Bay Area.

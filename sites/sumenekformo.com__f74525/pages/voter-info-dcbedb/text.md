@@ -1,18 +1,25 @@
-0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform Volunteer Events Merch Press DONATE information for voters are you already registered to vote?
-Check to make sure that your voter registration information is accurate and up to date by visiting the Missouri Secretary of State’s registration check page .
-Get registered to vote If you are a new voter or have recently moved to Missouri, you can register to vote online at the Missouri Secretary of State’s registration page , or, if you are a St.
-Louis County resident, you can register in person at the St.
+0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform November Ballot Info Volunteer Events Merch Press DONATE information for voters Vote on or before Tuesday November 3, 2026 How to vote absentee by mail In Missouri, absentee voting for the November 3, 2026 general election began on Tuesday, September 22, 2026 , and the last day to request an absentee ballot is October 21, 2026.
+Registered voters in St.
+Louis County can request absentee ballots by mail through the St.
+Louis County Board of Elections website or pick up an absentee ballot in person at the St.
 Louis County Board of Elections office in St.
-Ann.
-VOTER ID Find a list of acceptable forms of voter ID on the Missouri Secretary of State’s voter ID information page .
+Ann. how to vote early in person Early voting is available as an option at early voting locations across St.
+Louis County on weekdays from 8 a.m. to 4:30 p.m. from Tuesday, October 20 - Friday, October 30, 2026 .
+Early voting locations are also open Saturdays, October 24 & October 31 , 9 a.m. to 1 p.m. and on Monday, November 2 , 8 a.m. to 5 p.m.
+There is no early voting available on Sundays.
+To find a list of early voting locations, plus more helpful voter information, visit the voter guide on the St.
+Louis County Democrats website or visit the St.
+Louis County Board of Elections website .
+VOTER ID rules in missouri Find a list of acceptable forms of voter ID on the Missouri Secretary of State’s voter ID information page .
 REMEMBER: if you are registered to vote, and your ID is rejected at the polls, you can still request a provisional ballot.
 WHEN IS THE ELECTION FOR THE 95TH DISTRICT?
 That’s a good question!
-Because the last person elected to represent the district resigned back in January 2025, Missouri’s 95th State House District is currently vacant, meaning the people of the 95th District currently have no representation in the Missouri State House.
-It’s up to Missouri’s Governor to call a special election to fill vacant seats in the State House.
-Meredith Sumenek stepped up to run to fill the vacancy.
-But Governor Mike Kehoe has refused to do his job and call a special election to fill this seat for almost two years.
-We now finally have an opportunity to fill the vacancy during the November 3rd, 2026 general election.
+Because the last person elected to represent the district resigned right after taking office back in January 2025, Missouri’s 95th State House District is currently vacant, meaning the people of the 95th District in South St.
+Louis County have no representation in the Missouri State House.
+By law, it’s up to Missouri’s Governor to call a special election to fill vacant seats in the State House.
+After learning that the people of her district had no representation, Meredith Sumenek stepped up back in 2025 to run for election to fill the vacancy.
+But Governor Mike Kehoe has refused to do his job and call a special election to fill this seat, leaving it vacant for almost two years.
+We now finally have an opportunity to fill the vacancy in District 95 during the November 3rd, 2026 general election.
 Please make sure to vote on or before November 3rd to bring representation back to our district!
 Learn about the 95th district Missouri’s 95th State House District is located in the Mehlville and Oakville area in the southernmost part of South St.
 Louis County, south of Highways 270 and 255, bordering the Mississippi River on the East and the Meramec River at St.

@@ -1,7 +1,7 @@
 Support Rashida Tlaib for U.S.
 Congress We need Rashida’s bold, transformative leadership in Congress.
 Can you chip in to keep her in office fighting for us? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI primary How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Blog Trapped in Ukraine because of skin color March 11, 2022 Share on Facebook Share on Twitter Back to News More than 2 million refugees have fled Ukraine since Russia’s military occupation.
+Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI general How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Blog Trapped in Ukraine because of skin color March 11, 2022 Share on Facebook Share on Twitter Back to News More than 2 million refugees have fled Ukraine since Russia’s military occupation.
 Those still in the country are facing increased airstrikes—including bombings of places like maternity hospitals.
 Many are still undergoing treacherous journeys to escape the violence.
 This is devastating and heartbreaking.
@@ -49,5 +49,5 @@ With love, Rashida Share on Facebook Share on Twitter More News Blog We just lau
 Rashida Tlaib Re-Elected to Represent Michigan’s New 12th Congressional District in Resounding Win November 10, 2022 Join Our Campaign Sign up for email updates so you can stay in the loop.
 Chip In Rashida does not take any money from corporate PACs.
 Every donation makes a big difference. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI primary Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
+Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI general Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
 Box 32777 Detroit, MI 48232 Paid for by Rashida Tlaib for Congress Contact Privacy Policy Terms of Service Made with Middle Seat

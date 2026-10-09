@@ -1,9 +1,14 @@
 {
  "description": "Stay informed with the latest news, updates, and insights from Peter Lumaj's campaign.",
  "final_url": "https://peterlumaj.com/news",
- "fingerprint": "2ab042c6520f25a479ffb867f85d6e2749f882de",
+ "fingerprint": "eb717223a9cc587bd47a5d62fa9a83ee933fbbcf",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Lumaj 2026, Michele Gregorio, Treasurer",
+ "rendered": true,
  "title": "News & Updates | Peter Lumaj | Secretary of the State",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2024",
+  "2026"
+ ]
 }

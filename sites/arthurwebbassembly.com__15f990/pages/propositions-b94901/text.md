@@ -1,6 +1,8 @@
 Issues Propositions News Guiding Principles About Contact Us Why Am I Running?
-Meet Arthur Yard Signs Volunteer Contribute September 4, 2026 Quick Legend: SB - Senate Bill SCA - Senate Constitutional Amendment AB - Assembly Bill ACA - Assembly Constitutional Amendment CPB - Citizen Petition Bill CPA - Citizen Petition Constitutional Amendment 14 Statewide Ballot Propositions The opinions below are mine.
+Meet Arthur Yard Signs Volunteer Contribute September 4, 2026 ( RTM Added Oct 8 ) Quick Legend: SB - Senate Bill SCA - Senate Constitutional Amendment AB - Assembly Bill ACA - Assembly Constitutional Amendment CPB - Citizen Petition Bill CPA - Citizen Petition Constitutional Amendment 14 Statewide Ballot Propositions + RTM The opinions below are mine.
 I used publicly available input from Cal Matters, East Bay Times, California Taxpayers Association, Contra Costa Taxpayers Association, Reform California, and various social media accounts.
+RTM - Regional Transit Measure Vote NO This hurts Cost of Living This Proposition adds .5% sales tax for BART, MUNI, AC Transit, "and other transit", including the repair of roads.
+How many different ways must we pay for the same thing?
 Proposition 1 (SB) Vote NO This hurts Cost of Living SB 417 (Limón) The Veterans and Affordable Housing Bond Act of 2026 (Ch.
 16, 2026) (PDF) This Proposition is to issue $11.5 long term debt bonds, paid off by future tax increases, unspecified in the bill.
 While veterans deserve help, the actual benefits to veterans are doubtful at only 10% of this bill.

@@ -1,5 +1,4 @@
-Candidate Debate on Wednesday October 7th at 7pm.
-Francestown Town Hall Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card More Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Common Ground - Common Sense Accountable to our district — not to a party.
+Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card More Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Common Ground - Common Sense Accountable to our district — not to a party.
 I'm committed to showing up and listening to you about the issues that genuinely matter and working hard to faithfully represent our district in the State House.
 Let's work as a community to make sensible decisions that are prudent and forward looking.
 I have close to 4 decades of experience in municipal finance , partnering with public officials and investors across America to get needed projects built and paid for - public schools, road & bridges, clean water, etc.

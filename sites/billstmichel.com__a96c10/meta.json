@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "https://billstmichel.com/",
- "fingerprint": "7b996d9f89d57e12536d675ac69667f4d354a7c3",
+ "fingerprint": "6155fea27e6c6b683550be2194e5b452e673a569",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "authorized by Bill St",
+ "rendered": true,
  "title": "Bill St. Michel for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2004",
+  "2018"
+ ]
 }

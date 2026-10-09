@@ -1,4 +1,6 @@
-Donate Home Meet David Issues News & Events Contact News & Events 4th Annual Big ’ol River Event Saturday, September 19 Passumpsic Valley Land Trust (PVLT) and Caledonia County NRCD invite you to help clean up the Passumpsic at its 4th Annual Big ‘Ol River Event (BORE)!!
+Donate Home Meet David Issues News & Events Contact News & Events Candidate Forum October 12, 2026 at 7pm Come and learn more about your candidates!
+Both senate and house candidates will be there.
+Hope you can join us at the Blue Mountain Grange , Ryegate Corner, VT 4th Annual Big ’ol River Event Saturday, September 19 Passumpsic Valley Land Trust (PVLT) and Caledonia County NRCD invite you to help clean up the Passumpsic at its 4th Annual Big ‘Ol River Event (BORE)!!
 Team Tucker will be there, will you join us?
 Meet us in the field just before 4018 US Route 5 in Barnet.
 Look for signs!
@@ -30,6 +32,4 @@ David will share his plans and perspectives on issues that matter to the people 
 There will also be opportunities to learn how you can get involved and join the campaign team.
 Community Support : We will be collecting non-perishable food items during the event for donation to the Waterford Community Cupboard.
 Bring a friend—we look forward to seeing you there!
-Please RSVP to info@tuckerforvermont.com Barnet Library, April 15 Residents of Barnet, Ryegate and Waterford are invited to meet David Tucker at the Barnet Public Library 147 Church Street on April 15th at 6pm Discussion will focus on identifying early steps of the campaign and ways for community members to get involved.
-We look forward to seeing you there!
-Campaign Endorsements Tucker for Vermont Campaign Endorsements Donate Follow Follow David Tucker for Vermont PO Box 15, Lower Waterford, VT 05848 info@tuckerforvermont.com Paid for by Tucker for Vermont, Celina Wright Treasurer © # Tucker for Vermont
+Please RSVP to info@tuckerforvermont.com Campaign Endorsements Tucker for Vermont Campaign Endorsements Donate Follow Follow David Tucker for Vermont PO Box 15, Lower Waterford, VT 05848 info@tuckerforvermont.com Paid for by Tucker for Vermont, Celina Wright Treasurer © # Tucker for Vermont

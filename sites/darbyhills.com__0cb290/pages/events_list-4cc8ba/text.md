@@ -2,7 +2,7 @@ Skip to content Main Menu Home Issues Issues Make Life More Affordable Keep Our 
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
 Find Events Event Views Navigation List List #ago Upcoming Upcoming Select date.
-October 2026 Thu 8 Fall Internship August 25 - November 3 Team Darby is growing!
+October 2026 Fri 9 Fall Internship August 25 - November 3 Team Darby is growing!
 Senator Darby Hills has loved working alongside the talented interns who have been part of Team Darby, and this fall, she’s excited to expand the team […] Sat 10 Day of Action!
 Come Join Team Darby at the Doors!
 October 10 @ 9:00 am - 5:00 pm 1000 Hart Road, Suite 208, Barrington 1000 Hart Road, Suite 208, Barrington Team Darby Hills is excited to invite you to join us for another Day of Action!

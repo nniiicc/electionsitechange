@@ -1,5 +1,5 @@
 0 Skip to Content About About Impact Issues Volunteer Press Endorsements DONATE Open Menu Close Menu About About Impact Issues Volunteer Press Endorsements DONATE Open Menu Close Menu Folder: About Back About Impact Issues Volunteer Press Endorsements DONATE Savannah Mayor Van R.
-Johnson, II Endorses Amanda Hollowell for Congress Apr 22 Written By Hannah Vega The Mayor’s endorsement adds to growing local and national support in the open race for GA-01 Link to Campaign Materials SAVANNAH, GA (April 22, 2026) — Today, Mayor Van R.
+Johnson, II Endorses Amanda Hollowell for Congress Apr 22 Written by Hannah Vega The Mayor’s endorsement adds to growing local and national support in the open race for GA-01 Link to Campaign Materials SAVANNAH, GA (April 22, 2026) — Today, Mayor Van R.
 Johnson, II of Savannah endorsed Democrat Amanda Hollowell’s campaign for Congress.
 Since launching her campaign in August 2025, Hollowell has met with community members across the district to hear their concerns and share her vision to put power, policy, and progress back in the hands of the people.
 Mayor Johnson joins other state and national leaders who have previously endorsed Hollowell, including Savannah’s past Democratic mayors, the Hon.
@@ -40,4 +40,4 @@ Her leadership has earned recognition from Essence , Forbes , USA Today , Black 
 But Amanda’s most important title is mom and caregiver.
 Her son, Joah—an alum of Savannah’s public school system and a college student-athlete—and her father, a veteran she cares for full-time, remain her greatest motivation.
 For more information about Amanda Hollowell for Congress, please visit amandaforga.com .
-MEDIA CONTACT Hannah Vega campaign@amandaforga.com Hannah Vega http://www.hannahvega.com Previous Previous Amanda Hollowell Announces Major Endorsements in GA-01 Congressional Race Next Next State and Local Leaders Endorse Amanda Hollowell for Congress DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Press Contact Us Shop
+MEDIA CONTACT Hannah Vega campaign@amandaforga.com Hannah Vega http://www.hannahvega.com Previous Previous Amanda Hollowell Announces Major Endorsements in GA-01 Congressional Race Next Next State and Local Leaders Endorse Amanda Hollowell for Congress DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop

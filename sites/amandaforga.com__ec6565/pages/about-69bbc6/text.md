@@ -27,4 +27,4 @@ Amanda holds a B.A. in American Studies from the University of California, Berke
 This Moment Demands More Amanda is not waiting on permission; she is stepping into this moment with purpose, clarity, and courage.
 Southeast Georgia deserves better, and Amanda Hollowell is ready to deliver.
 “I believe we should live in a First Congressional District that puts its people first.” “We don’t need more career politicians.
-We need people who want to work, who want to fight, and who understand what it takes to build something, not just tear it down.” -Amanda Hollowell Endorsements & Distinctions DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Press Contact Us Shop
+We need people who want to work, who want to fight, and who understand what it takes to build something, not just tear it down.” -Amanda Hollowell Endorsements & Distinctions DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop

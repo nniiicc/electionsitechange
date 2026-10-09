@@ -29,9 +29,7 @@ DONATE NOW GET INVOLVED Join our movement.
 Whether you're passionate about protecting public schools, affordable housing, or civil liberties, your time is the most powerful tool we have.
 Sign up for volunteer opportunities and join us as we build a better future for District 8!
 Join Us!
-Events Upcoming Events Canvassing with the Candidate Date and time is TBD Location is TBD More info RSVP Coming Soon!
-Campaign Kick-Off Date and time is TBD Location is TBD More info More Info Coming Soon!
-Coffee with the Candidate Sat, Sep 19 Vienna Coffee Company More info Details Latest Updates Stay informed with the latest campaign news, articles, and policy updates from District 8.
+Events Upcoming Events Canvassing with the Candidate Sat, Oct 10 Location is TBD More info RSVP Hilary Trudell Town Hall Mon, Oct 12 Blount County Public Library More info RSVP Coffee with the Candidate Sat, Sep 19 Vienna Coffee Company More info Details Latest Updates Stay informed with the latest campaign news, articles, and policy updates from District 8.
 Affordability in Housing: A Priority for District 8 Housing affordability is a pressing issue that affects many communities, and District 8 is no exception.
 As the cost of living continues to rise, the challenge of finding affordable housing becomes more significant.
 This blog post explores the current state of housing affordability in District 8, the factors contributing to the crisis, and potential solutions that can help ensure that all residents have access to safe and affordable homes.
@@ -42,4 +40,5 @@ In this blog post, we will explore the importance of supporting public schools, 
 Hilary Trudell's mission stands as a beacon of hope for those who believe in equality and justice for all.
 By volunteering for her cause, you can play a vital role in defending civil rights and making a tangible difference in your community.
 This blog post will explore the importance of civil rights, the impact of volunteering, and how you can get involved Tracie Traver Aug 10 4 min read Protecting Schools / Rights for All / Housing First Paid for by Hilary Trudell for Tennessee House.
-Treasurer Tracie Traver. bottom of page
+Treasurer Tracie Traver.
+Privacy Policy and SMS Terms bottom of page

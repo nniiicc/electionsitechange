@@ -8,8 +8,10 @@ Each of us wants the same things at heart: safety, opportunity, fairness, and th
 It’s time to stop fighting over labels and start building together again.
 This campaign is not about left or right – it’s about right and wrong, about restoring balance where imbalance has taken hold.
 Together, we can renew the promise of self-governance: where faith informs compassion, history guides wisdom, and the people lead their government once again.
-TK, For a New Day – because Minnesota’s future depends on balance, love of neighbor, and the courage to begin again.
-Commitment to Change Empowering Families and Communities Strong communities begin with strong families.
+I joined the Minnesota Forward Coalition to prove it.
+Minnesota Forward Together TK, For a New Day – because Minnesota’s future depends on balance, love of neighbor, and the courage to begin again.
+I will work for you, with you, and to represent you.
+Current MN SD 10 Senator, Voting Record Commitment to Change Empowering Families and Communities Strong communities begin with strong families.
 As your senator, I’ll advocate for policies that keep families stable, safe, and supported – from affordable housing and childcare to accessible healthcare and mental health resources.
 Every Minnesotan deserves to feel secure in their home and hopeful about their future.
 Strengthening Education for All Ages Education is the foundation of a free society.

@@ -1,2 +1,2 @@
 top of page DONATE Home Meet Dave Policy Positions O'Fallon Impact On the Hill Support & Endorsements District 103 Connect & Volunteer More Use tab to navigate through the menu items.
-Missouri District 103 press to zoom press to zoom press to zoom press to zoom 1/13 Upcoming Events Show your Support Dave Hinman - Missouri District 103 - © # Paid for by the Committee to Elect Dave Hinman, Kathy Hinman, Treasurer bottom of page
+Missouri District 103 press to zoom press to zoom press to zoom press to zoom 1/13 Show your Support Dave Hinman - Missouri District 103 - © # Paid for by the Committee to Elect Dave Hinman, Kathy Hinman, Treasurer bottom of page

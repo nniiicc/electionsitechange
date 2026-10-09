@@ -7,9 +7,7 @@ Troy is a fifth-generation logger who has spent his career fight… Show more RS
 Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
 Troy is a fifth-generation logger who has spent his career fight… Show more RSVP Biddeford Rally with Bernie Sanders | Solidarity Forever Tour Biddeford High School 14 Maplewood Ave, Biddeford, ME, 04005 Join U.S.
 Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fight… Show more RSVP Poll Observer Training with Troy Jackson!
-Virtual Event Join the Maine Dems Voter Access Team and special guest Troy Jackson for Poll Observer Training on Thursday, October 8, at 2:00 pm.
-Poll Observers are the eyes and ears of the Voter Access Team on El… Show more RSVP Kennebunk Debate Doubleheader Potluck for Troy and Hannah!
+Troy is a fifth-generation logger who has spent his career fight… Show more RSVP Kennebunk Debate Doubleheader Potluck for Troy and Hannah!
 Democracy Co-operative 2 Storer St Suite 111, Kennebunk, ME, 04043 Our very own Hannah Pingree and Troy Jackson are debating back-to-back on the same evening!
 Join us in Kennebunk at 6:30pm for an evening of community and to watch our Democratic champions debate thei… Show more RSVP Farmington Debate Doubleheader Potluck for Troy and Hannah!
 108 Fairbanks Rd, Suite B Farmington, ME, 04938 Our very own Hannah Pingree and Troy Jackson are debating back-to-back on the same evening!
@@ -35,14 +33,9 @@ Join us in South Berwick at 6:30pm for an evening of community and to watch our 
 Piscataquis County Democrats Office 1 North St, Dover-Foxcroft, ME, 04426 Our very own Hannah Pingree and Troy Jackson are debating back-to-back on the same evening!
 Join us in Dover-Foxcroft (1 North St.) at 6:30pm for an evening of community and to watch our Democratic ch… Show more RSVP Bangor Office Debate Watch Party Matt Dunlap for Congress Office 25 Hammond St, Bangor, ME, 04401 Join us for a Troy Jackson and Hannah Pingree debate doubleheader on Thursday, October 8th!
 We'll be gathering at Matt Dunlap's office in Bangor at 25 Hammond St.
-We'll have pizza and refreshments a… Show more RSVP Millinocket Debate Watch Party & Potluck This event’s address is private.
-Sign up for more details This event’s address is private.
-Sign up for more details, Millinocket, ME, 04462 Join us for a Troy Jackson and Hannah Pingree debate doubleheader and potluck on Thursday, October 8th!
-We'll be gathering at the residence of a supporter in Millinocket.
-We encourage folks to bring… Show more RSVP Waldoboro Debate Doubleheader Potluck for Troy and Hannah!
+We'll have pizza and refreshments a… Show more RSVP Waldoboro Debate Doubleheader Potluck for Troy and Hannah!
 251 Jefferson St, Waldoboro, ME, 04572 Our very own Hannah Pingree and Troy Jackson are debating back-to-back on the same evening!
-Join us in Waldoboro at 6:30pm for an evening of community and to watch our Democratic champions debate thei… Show more RSVP Virtual Town Hall W/ Troy!
-Virtual Event Join Troy Jackson for a virtual statewide town hall to talk about the issues facing Maine people and communities.
+Join us in Waldoboro at 6:30pm for an evening of community and to watch our Democratic champions debate thei… Show more RSVP Virtual Town Hall w/ Troy Jackson Virtual Event Join Troy Jackson for a virtual statewide town hall to talk about the issues facing Maine people and communities.
 Troy will share what he’s hearing from Mainers across the state, talk about his campa… Show more RSVP Ogunquit and Cape Neddick for Troy!
 This event’s address is private.
 Sign up for more details This event’s address is private.

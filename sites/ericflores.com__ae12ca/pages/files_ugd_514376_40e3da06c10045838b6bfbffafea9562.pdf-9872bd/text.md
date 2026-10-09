@@ -1,0 +1,9 @@
+December 22, 2025 Contact: press@ericflores.com Matt Brownfield (214) 566-8589 National Border Patrol Council Endorses Republican Eric Flores for Congress San Benito, TX – Today, the National Border Patrol Council announced its endorsement of Eric Flores for Congress in Texas’ 34th Congressional District, signaling the growing support for Flores among frontline law enforcement professionals tasked with securing the border.
+The endorsement reflects confidence in Flores’ leadership, judgment, and commitment to restoring law and order along the U.S.–Mexico border.
+“Eric Flores is a former Army Infantry Captain and former Assistant United States Attorney who has spent his career in service to the nation and the rule of law,” said Paul Perez, President of the NBPC, which represents over 18,000 Border Patrol Agents.
+“From leading soldiers along the southern border during Operation Guardian Support to prosecuting human smugglers as an Assistant U.S.
+Attorney, Flores brings firsthand experience in national security, border enforcement, and public safety.
+This is the kind of experience the district needs in Washington.
+I am confident Eric Flores will be a strong voice for our members and the communities we serve, and a tireless advocate for border security, public safety, and the rule of law in Congress.” The National Border Patrol Council’s endorsement highlights Flores’ clear understanding of the challenges facing Border Patrol agents and border communities alike.
+With this support, Flores’ campaign continues to build a strong coalition dedicated to securing the border, supporting law enforcement, and delivering serious, results-driven leadership for South Texas.
+### PAID FOR BY ERIC FLORES FOR CONGRESS Eric Flores for Congress | PO Box 84 | San Benito, TX 78586 US Unsubscribe | Update Profile | Constant Contact Data Notice

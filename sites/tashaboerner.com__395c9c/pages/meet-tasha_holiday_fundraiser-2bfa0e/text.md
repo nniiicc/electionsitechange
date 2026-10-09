@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Holiday Fundraiser for Tasha Sunday, December 8, 2019 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Contribute Tasha Boerner Horvath is a champion for women in the State Assembly.
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Holiday Fundraiser for Tasha Sunday, December 8, 2019 3:00 PM 5:00 PM 15:00 17:00 Google Calendar ICS Contribute Tasha Boerner Horvath is a champion for women in the State Assembly.
 Help re-elect Tasha so that she can continue to fight for equal pay, protect women’s reproductive freedom, access to healthcare, policies to support our children, protect our environment and leave our planet better than we found it.
 Please join us for an afternoon reception at the home of Encinitas Mayor Catherine S.
 Blakespear, along with co-hosts Del Mar Mayor Ellie Haviland and Encinitas Councilmember Kellie Shay Hinze in support of Tasha Boerner Horvath for re-election for State Assembly District 76 (Encinitas, Carlsbad, Oceanside, Vista and Camp Pendleton).

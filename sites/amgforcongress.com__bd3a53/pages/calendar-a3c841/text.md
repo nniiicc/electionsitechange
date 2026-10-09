@@ -1,8 +1,12 @@
 0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Meet Amanda or Members of Team AMG!
-Oct 8 Madison County DEC/NAACP Candidates Forum Thursday, October 8, 2026 5:00 PM 7:00 PM Sumpter James Park (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern.
-Amanda will be attending with members of Team AMG.
-More details to come.
-View Event → Oct 10 Havana Mainstreet 26th Annual PumpkinFest Saturday, October 10, 2026 10:00 AM 4:00 PM 101 7th Avenue West Havana, Florida, 32333 United States (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern.
+Oct 9 Franklin Needs PINK OUT Benefit Friday, October 9, 2026 6:00 PM 9:00 PM Paddy's Raw Bar (map) Google Calendar ICS NOTE: THIS EVENT HAS BEEN RESCHEDULED DUE TO HURRICANE ISAIAS.
+This event starts at 5PM Central/6PM Eastern.
+Amanda and Team AMG will attend the 14th annual PINK OUT , a benefit for Franklin Needs on October 9, 2026 at Paddy's Raw Bar at 240 East Third Street on St.
+George Island.
+This popular annual event benefits Franklin Needs, Inc., a local organization helping Franklin County residents access breast cancer screenings and support.
+100% of Pink Out! proceeds help provide free mammograms, testing through diagnosis, and transportation assistance for treatment.
+View Event → Oct 10 Havana Mainstreet 26th Annual PumpkinFest Saturday, October 10, 2026 10:00 AM 4:00 PM 101 7th Avenue West Havana, Florida, 32333 United States (map) Google Calendar ICS NOTE: THIS EVENT HAS BEEN RESCHEDULED DUE TO HURRICANE ISAIAS.
+This event starts at 9AM Central/10AM Eastern.
 Get ready for PumpkinFest 2026 , Havana’s largest and most beloved family festival, returning for its 26th year on Saturday, October 10 from 10:00 AM to 4:00 PM!
 This fall favorite stretches along Main Street and its side avenues in downtown Havana, Florida, filling Gadsden County with autumn color, live music, and small-town charm.
 If you are searching for the perfect fall day trip in North Florida, PumpkinFest 2026 is it.
@@ -22,7 +26,7 @@ Goat Day is one of the largest arts & craft festivals across the panhandle!
 Held annually on the third Saturday in October, the event is coordinated in conjunction with the Panhandle Pioneer Settlement's Pioneer Day, just across the park.
 Arts, crafts, entertainment, demonstrations, food, and goats - what more could you ask for?!
 All proceeds go towards local college scholarships.
-View Event → Oct 17 No King's Voting Rights Rally Saturday, October 17, 2026 10:00 AM 12:00 PM Florida Historic Captiol (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern.
+View Event → Oct 17 TEAM AMG/VOLUNTEERS: No King's Voting Rights Rally Saturday, October 17, 2026 10:00 AM 12:00 PM Florida Historic Captiol (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern.
 Team AMG will be at No King’s Voting Rights Rally outside of the Florida Historic Capitol!
 Sponsored by Indivisible Tallahassee, Tallahassee League of Women Voters, FL ACLU, Leon Co.
 Indivisible, Tallahassee ALERT, and others.
@@ -57,6 +61,9 @@ View Event → Oct 31 Campbellton's 5th Annual Fall Festival Saturday, October 3
 Amanda will attend with Team AMG!
 Celebrate Campbellton’s 5th Annual Fall Festival at Campbellton Browntown Park on October 31 from 11 a.m. to 5 p.m.!
 Enjoy music, food, drinks, crafts, and competitions with neighbors and friends—everyone is welcome.
+View Event → Oct 8 Madison County DEC/NAACP Candidates Forum Thursday, October 8, 2026 5:00 PM 7:00 PM Sumpter James Park (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern.
+Amanda will be attending with members of Team AMG.
+More details to come.
 View Event → Oct 7 Get Out The Vote Reception Wednesday, October 7, 2026 6:00 PM 7:30 PM Miccosukee Land Cooperative (map) Google Calendar ICS NOTE: This event starts at 5PM Central/6PM Eastern.
 Join Amanda and our esteemed host committee for a Get out the Vote Reception ahead of early voting!
 RSVP recommended to shelby@amgforcongress.com View Event → Oct 7 TEAM AMG/VOLUNTEERS: Postcard Writing Wednesday, October 7, 2026 5:00 PM 7:00 PM Gallery of Art 850 (map) Google Calendar ICS NOTE: This event starts at 5PM Central/6PM Eastern.

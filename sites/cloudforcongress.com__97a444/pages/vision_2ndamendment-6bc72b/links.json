@@ -44,6 +44,10 @@
 "href": "https://secure.anedot.com/cloudforcongress/cloudwebdonate"
 },
 {
+"text": "Economy and Jobs",
+"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
+},
+{
 "text": "Election Info",
 "href": "https://www.cloudforcongress.com/election-info-2026/"
 },
@@ -56,10 +60,6 @@
 "href": "https://www.mintandvine.com"
 },
 {
-"text": "National Defense",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
-},
-{
 "text": "National DefenseNext",
 "href": "https://www.cloudforcongress.com/vision/national-defense/"
 },
@@ -68,20 +68,20 @@
 "href": "https://www.cloudforcongress.com/vision/border-security/"
 },
 {
-"text": "Pro-Life",
-"href": "https://www.cloudforcongress.com/vision/pro-life/"
-},
-{
 "text": "Read More »",
 "href": "https://www.cloudforcongress.com/vision/border-security/"
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
+"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/pro-life/"
+"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
+},
+{
+"text": "Religious Liberty",
+"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
 },
 {
 "text": "Volunteer",
@@ -101,11 +101,11 @@
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
+"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/pro-life/"
+"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
 },
 {
 "text": "[no text]",

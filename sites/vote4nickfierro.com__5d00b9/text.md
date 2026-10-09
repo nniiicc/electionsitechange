@@ -1,1 +1,6 @@
-
+Doctor Nick Fierro ​ ​​ Independent State Senate District 10 Candidate Home Issues About Nick Donate& Contact ​​ ​​ My name is Doctor Nick Fierro, and I'm running for Arizona’s State Senate seat in the District 10 general election race being held on November 3, 2026!
+I have lived in this area most of my life, been very active in the community, and together with my wife Suzette, we are raising our three young children.
+As a result, I have plenty of old fashioned skin in the game.
+So I want to provide better education and create higher paying jobs within our community.
+As your State Senator in District 10, here are just a few of the ongoing issues that I intend to address if I am elected: ✓We should fund much-needed Skilled Trades Programs. ✓We should create a Personal Finance class for every high school in Arizona ✓ We should work with our local farmers to bring down food prices ✓ We should realistically address the homeless issue in our District. ✓ We should improve the income within District 10 by passing favorable entrepreneurship legislation. ✓We should protrect our Salt River Wild Horse from removals ​ I'm collecting donations to pay for political signs.
+Click on the button below to add your donation.   Click Here to Donate   PAID for by Nick Fierro AUTHORIZED by Nick Fierro ​

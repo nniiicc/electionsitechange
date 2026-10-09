@@ -18,4 +18,4 @@ Families need leaders in Sacramento who will fight to: Build more housing so eve
 With your support, we can make sure no one has to choose between a roof over their head and making ends meet.
 Together, we can build communities where hard-working Californians can put down roots and dreams don’t have to wait.
 I’d be honored to have you join me in this fight for our community’s future. [Chip in $10] → [Volunteer] → Together, we can make Sacramento work for every corner of the Valley.
-With gratitude, Annalisa Perea Candidate for State Assembly Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+With gratitude, Annalisa Perea Candidate for State Assembly Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

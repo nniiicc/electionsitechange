@@ -51,5 +51,9 @@ When I learned about this system I said sign me up, as it holds politicians acco
 Honestly it is a great system as you can only make one donation and the state takes your $5 contribution and turns into to $110 for our campaign for Augusta.
 Let’s bring change to Augusta together - Show your support with a $5 contribution today!
 Donate $5 Today!
-Paid for by John Henkelman For Maine House 143 P.O.
+While our campaign is funded entirely by our neighbors in District 143, advocacy organizations, labor groups, and community associations have endorsed my platform for its alignment with their missions and values.
+We do not accept financial contributions, coordinated expenditures, or monetary funding from any endorsed organization, business, or political action committee.
+I look forward to working alongside the partners below to make Maine a better place to live, work, and raise a family.
+Learn more about who is with us below.
+Endorsements Maine Conservation Voters Planned Parenthood Maine Sierra Club Maine Education Association AFL-CIO Maine Service Employees Association Paid for by John Henkelman For Maine House 143 P.O.
 Box 321, Sanford, ME 04073 207-608-9249 John@JohnForMaine.com Democratic Candidate for Maine House District 143 Donate

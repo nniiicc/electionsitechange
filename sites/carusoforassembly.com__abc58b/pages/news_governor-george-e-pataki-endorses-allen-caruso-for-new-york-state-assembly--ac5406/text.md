@@ -19,4 +19,4 @@ Education: Holds a B.S. degree in Business Administration from SUNY Plattsburgh.
 "Families across Saratoga, Warren, and Washington counties are struggling under rising costs, oppressive property taxes, and burdensome state environmental mandates.
 I look forward to bringing a small businessman’s approach to Albany that will result in eliminating property taxes for seniors, repealing impractical electric mandates, and reducing the cost of state government by thirty percent." Caruso is running on the Republican, Conservative, and Vote Affordable party lines.
 The general election for New York State Assembly District 113 will take place on Tuesday, November 3, 2026 , with Early Voting running from October 24 through November 1 .
-# # # Brandon Acres Next Next Albany Has Lost Touch with Upstate New York MEET ALLEN NEWS GET INVOLVED DONATE PRIVACY POLICY AFFORDABILITY ADGENDA TEXT TERMS & CONDITIONS
+# # # Brandon Acres Previous Previous Allen Caruso | NY Assembly District 113 with The Rich Giardino Show Next Next Albany Has Lost Touch with Upstate New York MEET ALLEN NEWS GET INVOLVED DONATE PRIVACY POLICY AFFORDABILITY ADGENDA TEXT TERMS & CONDITIONS

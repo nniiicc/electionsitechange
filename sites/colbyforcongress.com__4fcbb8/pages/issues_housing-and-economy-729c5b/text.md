@@ -1,5 +1,4 @@
-top of page VOTER INFO DONATE Home Meet Colby Issues Housing Economy Healthcare Corruption, Integrity, Accountability Education and Strong Schools Safe Communities Veterans Border & Immigration Foreign Policy Rights, Liberty, Freedoms Data Centers & AI Energy & Enviroment Events More Contact News More Use tab to navigate through the menu items.
-1/8 Housing Stop Wall Street firms and large institutional investors from buying up our neighborhoods.
+top of page VOTER INFO DONATE Home Meet Colby Issues Housing Economy Healthcare Corruption, Integrity, Accountability Education and Strong Schools Safe Communities Veterans Border & Immigration Foreign Policy Rights, Liberty, Freedoms Data Centers & AI Energy & Enviroment Events More Contact News More Use tab to navigate through the menu items. press to zoom press to zoom press to zoom press to zoom 1/8 Housing Stop Wall Street firms and large institutional investors from buying up our neighborhoods.
 Cut unnecessary red tape that blocks new homes.
 Support first-time homebuyer programs. ​ Work with the market to increase the supply of starter homes. ​ Homeownership has long been one of the greatest builders of generational wealth in America.
 Today, that dream is slipping further out of reach for many families.

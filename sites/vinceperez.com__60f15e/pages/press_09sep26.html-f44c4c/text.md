@@ -1,4 +1,4 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · September 9, 2026 State Rep.
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Press Release · September 9, 2026 State Rep.
 Vince Perez Named Co-Chair of ‘Texas Together,’ the 2026 Texas Democratic Coordinated Campaign Perez is one of three co-chairs statewide and the only one from West Texas or along the Border, leading the effort to turn out voters, protect the vote, and elect Democrats up and down the ballot in November.
 EL PASO, TX — State Representative Vince Perez (D-El Paso) has been named a Co-Chair of Texas Together, the Texas Democratic Party's 2026 Coordinated Campaign, as the operation enters its get-out-the-vote phase.
 Perez is one of three co-chairs statewide, alongside State Representatives John Bucy III of Austin and Lauren Ashley Simmons of Houston.
@@ -31,7 +31,7 @@ El Pasoans who want to volunteer, serve as a poll watcher or election judge, or 
 Landeros · info@vinceperez.com Vince Perez is State Representative for House District 77 in El Paso.
 He serves on the influential House Ways and Means Committee as well the committees on Higher Education and Local, Consent, and Resolutions Calendars.
 He is the former El Paso County Commissioner for Precinct 3 and was named the 2016 County Leader of the Year by American City & County Magazine.
-Support Vince All press releases VINCE PEREZ Fighting for Texas.
+Support Vince All press releases Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

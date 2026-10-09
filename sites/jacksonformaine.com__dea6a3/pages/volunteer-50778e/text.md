@@ -8,8 +8,7 @@ Maine Dems Voter Access 2026 Volunteer Interest Group Virtual Event The Maine De
 We are recruiting volunteers for two roles on Election Day, … Show more RSVP Weekly Phone Bank: Every Call Counts!
 Multiple Times Virtual Event Join the team and help us connect with voters across Maine!
 Whether you’re a returning volunteer or making your very first calls, we’d love to have you on the team.
-Every conversation gets us closer t… Show more RSVP Poll Observer Training with the Maine Dems Voter Access Team Multiple Times Virtual Event Poll Observers are the eyes and ears of the Voter Access Team on Election Day.
-When a machine goes down, a line runs long, or a voter is turned away, we only know about it because someone in the room … Show more RSVP Machias Saturday Canvass!
+Every conversation gets us closer t… Show more RSVP Machias Saturday Canvass!
 Multiple Times Washington County Democratic Committee Office 6 Colonial Way, Suite 3 Machias, ME, 04654 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
 Don't worry if you've never done a canvassing shift before, there wi… Show more RSVP Augusta Canvass!
 Multiple Times Maine Democratic Party Office 320 Water St 3rd floor, Augusta, ME, 04330 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
@@ -83,7 +82,8 @@ Don't worry if you've never done a canvassing shift before, there wil… Show mo
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Hollis, ME, 04042 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
-Don't worry if you've never done a canvassing shift before, there wil… Show more RSVP Millinocket Weekend Canvass!
+Don't worry if you've never done a canvassing shift before, there wil… Show more RSVP Poll Observer Training with the Maine Dems Voter Access Team Multiple Times Virtual Event Poll Observers are the eyes and ears of the Voter Access Team on Election Day.
+When a machine goes down, a line runs long, or a voter is turned away, we only know about it because someone in the room … Show more RSVP Millinocket Weekend Canvass!
 Multiple Times Millinocket Memorial Library 5 Maine Ave, Millinocket, ME, 04462 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.
 Don't worry if you've never done a canvassing shift before, there wil… Show more RSVP Houlton Weekend Canvass!
 Monument Park in Houlton (Under the Ampitheater) 54 Military St, Houlton, ME, 04730 Talking to voters face-to-face is the best way to earn their support for Democrats up and down the ticket and beat Susan Collins.

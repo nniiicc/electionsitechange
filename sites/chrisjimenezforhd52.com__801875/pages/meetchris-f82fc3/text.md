@@ -1,20 +1,32 @@
-Skip navigation menu Home Meet Chris Priorities Get Involved Vote Endorsements Donate Meet Chris Marine Corps Veteran, husband, father, small business owner, and candidate running for State Representative in House District 52.
-Home Meet Chris Priorities Get Involved Vote Endorsements Donate Meet Chris Marine Corps Veteran, husband, father, small business owner, and candidate running for State Representative in House District 52.
-Chris grew up in humble circumstances, learning early that nothing is handed to you and that stability is built through hard work, persistence, and character.
-Raised by a hard working immigrant mother and a father who owned a small business, he saw both the promise of this country and the daily grind it takes to carve out a future here.
-He learned what it means to stretch a dollar, to keep showing up when things are tough, and to value the dignity of work.
-He also saw how quickly progress can be threatened when families are one setback away from falling behind, and how important it is to have leaders who understand that reality firsthand.
-That lived experience formed the path he chose as an adult, including his decision to serve in the United States Marine Corps.
-For Chris, service, sacrifice, and duty to others aren’t just words used at election time, they are principles that have guided his life and define how he sees leadership.
-The Marine Corps reinforced what his upbringing had already taught him: Real strength is earned, real leadership is accountable, and real patriotism is about serving something bigger than yourself—putting country over party and the common good over personal gain.
-Today, Chris and his family live in rural Williamson County.
-The ranch they call home is more than a place to live, it reflects the values that shape their daily life: resilience, responsibility, and community.
-Chris has already answered the call to protect our country once.
-After sustained encouragement from those who know his commitment to service, he is answering that call again, this time by stepping forward to restore responsible, solutions-oriented leadership in House District 52.
-Texans deserve leaders who prioritize results over rhetoric and who focus on the real issues that determine whether families can build secure, stable, and promising lives.
-That means confronting the day-to-day realities they face: Rising property taxes, skyrocketing insurance premiums, rent that climbs faster than income, and a cost of living that strains working families and retirees alike.
-It means strengthening public schools, expanding access to affordable healthcare, and investing in reliable infrastructure— power, water, roads, and flood control —that keeps communities safe as Texas grows.
-Chris will stay accountable to the people he serves and deliver tangible results—lower costs, stronger public schools, safer communities, and a Texas where the next generation has more opportunity than the last.
+Skip navigation menu Home Meet Chris Priorities Get Involved Vote Endorsements Donate Meet Chris Marine veteran.
+Small business owner.
+Husband and dad.
+Fighting for working families.
+Home Meet Chris Priorities Get Involved Vote Endorsements Donate Meet Chris Marine veteran.
+Small business owner.
+Husband and dad.
+Fighting for working families.
+Chris Jimenez grew up knowing what it meant to stretch a dollar.
+His father owned a small business, and his mother worked hard every day.
+They taught him to show up, take responsibility, and do his part.
+He saw how much work it took to give a family stability — and how quickly one setback could put it at risk.
+Those lessons stayed with Chris when he joined the United States Marine Corps.
+As a Marine, he learned to work alongside people from different backgrounds, solve problems under pressure, and take responsibility for getting the job done.
+Service meant putting the people counting on him first.
+Today, Chris is a small business owner, husband, and father raising his family in rural Williamson County.
+He understands the pressure families face because he faces it, too: property taxes, utility bills, groceries, and healthcare taking a bigger bite out of the budget.
+Chris knows what it’s like to lose health coverage because of a job change.
+As a dad, he knows how much parents count on their public schools.
+And as a small business owner, he understands that a strong economy should give the people doing the work a chance to get ahead.
+That’s why he’s running for State Representative.
+While working families struggle to afford the basics, too many politicians in Austin put their billionaire donors and special interests first.
+Chris believes our families deserve someone who understands what they’re facing and will fight to make their lives better.
+He’ll fight to lower costs and property taxes, fully fund public schools, and make healthcare more affordable.
+He’ll stand up for fellow veterans, support law enforcement and first responders, and push for roads, water systems, and a power grid that keep pace with our growing communities.
+And he’ll demand that large data centers and other corporate interests pay their fair share instead of leaving families with higher bills and less water.
+Chris will work with anyone to do what’s right for our families — and stand up to anyone who gets in the way, no matter their party.
+He answered the call to serve our country.
+Now, he’s ready to serve Williamson County.
 Privacy Policy Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
 Powered by RUN! website builder Pol.
 Adv.

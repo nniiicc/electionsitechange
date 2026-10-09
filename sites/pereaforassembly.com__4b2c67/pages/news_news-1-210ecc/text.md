@@ -26,4 +26,4 @@ Families like the Wilsons deserve real solutions to ease the cost of living and 
 It’s about ensuring that families like the Wilsons aren’t forced to choose between comfort and survival.
 I’d be honored to have you join me in this fight for our community’s future.
 Together, we can make Sacramento work for every corner of the Valley.
-With gratitude, Annalisa Perea Candidate for State Assembly Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+With gratitude, Annalisa Perea Candidate for State Assembly Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

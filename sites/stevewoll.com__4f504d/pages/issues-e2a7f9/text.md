@@ -1,4 +1,4 @@
-top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE Where I Stand On The Issues Cost | Corruption | Community As we mark the 250th anniversary of America's founding, the challenges we face are unprecedented, and yet our political parties and their representatives - on both sides - focus on fighting each other.
+top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE Where I Stand On The Issues Cost | Corruption | Community As we mark the 250th anniversary of America's founding, the challenges we face are unprecedented, and yet our political parties and their representatives - on both sides - focus on fighting each other.
 What if we worked together, putting aside our differences and concentrating on just fixing the problem?
 That's something I learned in the U.S.
 Navy and have tried to apply every day since.
@@ -144,4 +144,4 @@ No party machine.
 No dark money.
 Just people who believe Hampton Roads deserves better representation than it has had for the last 33 years.
 Every dollar goes directly to building a people-powered campaign that neither party can buy.
-Donate Today ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement | FAQs ABOUT Issues Press Get Involved bottom of page
+Donate Today ABOUT Issues Press Get Involved FAQs ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved FAQs STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement | FAQs ABOUT Issues Press Get Involved FAQs bottom of page

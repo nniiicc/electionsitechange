@@ -1,9 +1,15 @@
 {
  "description": "Matt Marshall — physician assistant, Army veteran, and State Representative for Washington's 2nd Legislative District. Affordable, accountable, freedom-first government.",
  "final_url": "https://marshallforwa.com/",
- "fingerprint": "a97674057bd4f99a64e339991ad3c5322787b341",
+ "fingerprint": "cd62f5f1bc04235d89088495e6f7ac81d44b0ccd",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Marshall for Washington (R) · PO Box 667 · McKenna, WA 98558 © # Marshall for Washington",
+ "rendered": true,
  "title": "Matt Marshall for Washington",
- "years_mentioned": []
+ "years_mentioned": [
+  "2005",
+  "2019",
+  "2021",
+  "2023"
+ ]
 }

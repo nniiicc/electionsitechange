@@ -1,0 +1,10 @@
+Yes, I am supporting Charlie Hatcher and contributing ☐ $7,000 ☐ $3,500 ☐ $1,000 ☐ $500 ☐ $250 ☐ $100 ☐ $25 or $_______ Please make checks payable to: Charlie Hatcher for Congress Post Office Box #1 College Grove, TN 37046 Full Name________________________________________________________________ Address _________________________________________________________________ City/State/Zip _____________________________________________________________ Home telephone ______________________ Office telephone __________________________ Cell telephone ___________________ Email ______________________________________ Occupation _______________________ Employer _________________________________ Spouse’s Name & Signature (if joint contribution) _____________________________________ Spouse’s Occupation __________________ Spouse’s Employer__________________________ Credit Card Contributions: To contribute online please visit the website at: https://secure.winred.com/charlie-hatcher-for-congress/donate-today Or you can provide your information below to be processed: Card Number: _____________________Exp.
+Date: _______Sec.
+Code: ______ If you have questions, please contact Amanda Kornegay at (202) 246-6594 or amanda@kornegay.org.
+Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation and name of employer of individuals whose contributions exceed $200 in an election cycle.
+An individual may contribute up to a maximum of $7,000 ($3,500 per primary election/$3,500 per general election).
+Couples may contribute up to $14,000 from a joint account, but such a contribution requires both signatures.
+Federal multi-candidate PACs may donate up to a maximum of $5,000.
+Contributions from corporations, labor unions, federal government contractors, national banks and foreign nationals without permanent residency status are prohibited.
+Contributions are not deductible as charitable contributions for federal income tax purposes.
+Paid for and authorized by Charlie Hatcher for Congress.

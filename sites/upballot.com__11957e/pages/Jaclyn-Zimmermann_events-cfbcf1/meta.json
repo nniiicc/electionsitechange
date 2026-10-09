@@ -1,9 +1,10 @@
 {
  "description": "See Jaclyn’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Jaclyn-Zimmermann/events/",
- "fingerprint": "5aff88a35dbaafdeed05f560f8dd1c04989f01c2",
+ "fingerprint": "cf79b431b5812adddec82db186a001fa83780b01",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Jaclyn Zimmermann Events",
  "years_mentioned": [
   "2026"

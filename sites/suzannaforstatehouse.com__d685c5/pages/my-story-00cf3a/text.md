@@ -18,7 +18,7 @@ My voice isn’t for sale.
 And I won’t be bought by corporations, lobbyists, or wealthy special interests.
 I’m running to represent the people of House District 120.
 When I get to the State Capitol, those are the people I will answer to. while I can’t change what’s happening in Washington, I can help protect Georgia by working to flip the state legislature blue.
-Join me in my fight→ Suzanna for state house 120 P.O.
+Join me in my fight→ Suzanna for state house 120 Suzanna Karatassos P.O.
 Box 48002 Athens, GA 30604 706-540-6664 info.karatassosdistrict120@gmail.com Donate Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up with your email address to receive news and updates.

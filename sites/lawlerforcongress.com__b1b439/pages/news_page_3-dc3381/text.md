@@ -1,4 +1,12 @@
-Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News LAWLER EARNS TOP MARKS FOR BIPARTISANSHIP IN THE 119TH CONGRESS August 4, 2026 The nonpartisan report card gave Lawler a score of 99.2, grading him an “A” for the 119th Congress, placing him in the top 10 among House members graded.
+Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News UNPREPARED CAIT CONLEY HIDES FROM DEBATES August 12, 2026 This morning, the Lawler campaign announced four accepted debates and called on Cait Conley to stop playing chicken.
+Conley’s response?
+Refusing to debate on NBC’s Meet the Press and CNN’s State of the Union, two of the biggest stages in this race.
+Pearl River, NY — August 12, 2026… This morning, the Lawler for Congress campaign announced […] LAWLER FOR CONGRESS CAMPAIGN ANNOUNCES FOUR DEBATES, WITH TWO MORE BEING FINALIZED, AND CALLS ON CAIT CONLEY AND HER DC CONSULTANTS TO STOP PLAYING CHICKEN August 12, 2026 Seven weeks after Congressman Mike Lawler challenged Cait Conley to six televised debates, he has accepted four of them, from NBC, CNN, News 12, and Pix11.
+Two more are waiting on her.
+Conley has agreed to nothing, and voters begin casting ballots in seventy-three days.
+LAWLER FOR CONGRESS LAUNCHES $5 MILLION AD CAMPAIGN, MARKING THE BEGINNING OF SIGNIFICANT SPEND IN TOP SWING SEAT August 11, 2026 The opening ad, “Solutions,” shows Hudson Valley voters describing what Lawler’s tax work has meant for their households.
+It goes up with Republicans holding a better-than-20-to-1 advantage over Cait Conley in reserved fall airtime, and Lawler leading independents by 15 points.
+LAWLER EARNS TOP MARKS FOR BIPARTISANSHIP IN THE 119TH CONGRESS August 4, 2026 The nonpartisan report card gave Lawler a score of 99.2, grading him an “A” for the 119th Congress, placing him in the top 10 among House members graded.
 Lawler also scored the highest among any in New York’s Congressional delegation.
 LAWLER, SLATER, BLAKEMAN, GORMAN FAMILY & LOCAL LEADERS BLAST ALBANY FOR TYING POLICE FUNDING TO SANCTUARY MANDATES July 24, 2026 “Today we are here, as one community, to send a clear message to Governor Hochul and Albany Democrats: Stop tying the hands of our local police.
 Stop forcing sanctuary policies on our towns and villages, and stop putting politics ahead of public safety,” said Congressman Mike Lawler.
@@ -9,13 +17,5 @@ LAWLER CAMPAIGN POSTS $1.4 MILLION Q2 HAUL, ENTERS FALL WITH ALMOST $4.85 MILLIO
 He’ll have every resource he needs to share his record and win in November,” concluded Riccardi.
 Time to Debate, Cait!
 July 7, 2026 Now that the Fourth of July holiday is behind us, I am writing to renew my debate challenge to you, which I made on June 23.
-The same challenge you have ignored, while journalists with the area’s largest newspaper said you “owe it to voters” to participate.
-WHAT WILL IT TAKE FOR CAIT CONLEY TO DENOUNCE THE RADICAL LEFT AND STAND UP TO THE SOCIALIST WING OF HER PARTY?
-June 30, 2026 Cait Conley has had multiple chances to denounce the Socialist Sweep of New York City, but every single time she’s deflected, dodged, or outright accepted their support in her race for Congress.
-Today, the Lawler for Congress campaign announced a five-figure ad buy to hold her accountable.
-Pearl River, NY — 6/30/2026… Fresh off her under-50% primary […] CAIT CONLEY MAKES IT CLEAR – LANDER, VALDEZ, CHEVALIER, AND THEIR FELLOW SOCIALISTS ARE WELCOME IN THE HUDSON VALLEY ON HER WATCH June 29, 2026 Cait Conley has decided she wants the help of those who have pledged to abolish ICE, fought to defund the police, and co-founded a group that calls for the “total eradication of Western civilization.” Pearl River, NY — 6/29/2026… Last Tuesday, three New York City socialists won their Congressional primaries: Brad Lander in NY-10, Claire Valdez […] IF CAIT CONLEY IS SERIOUS ABOUT REPRESENTING THE HUDSON VALLEY, SHE’LL RELEASE HER NDAs.
-WHAT IS SHE HIDING?
-June 24, 2026 Cait Conley won her primary while refusing to tell voters what two Palantir-linked AI defense contractors paid her nearly $335,000 to do, citing nondisclosure agreements.
-Now that she’s the nominee, the Lawler for Congress campaign is calling on Conley to release certified copies of her NDAs with Primer AI and Hidden Level.
-If she won’t, voters deserve to know why. « Previous Next » Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+The same challenge you have ignored, while journalists with the area’s largest newspaper said you “owe it to voters” to participate. « Previous Next » Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
 Privacy Policy | Terms & Conditions | Accessibility Statement

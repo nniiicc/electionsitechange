@@ -1,4 +1,4 @@
-0 Skip to Content Home Legislation 2026 2025 Newsroom Newsletters 2026 Session 2025 Session English DONATE Open Menu Close Menu Home Legislation 2026 2025 Newsroom Newsletters 2026 Session 2025 Session English DONATE Open Menu Close Menu Home Folder: Legislation Back 2026 2025 Newsroom Folder: Newsletters Back 2026 Session 2025 Session English Back DONATE Cecelia Espenoza Democrat for House District 4 A lifetime of service.
+0 Skip to Content Home Legislation 2026 2025 Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home Legislation 2026 2025 Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home Folder: Legislation Back 2026 2025 Folder: Newsletters Back 2026 Session 2025 Session Newsroom English Back DONATE Cecelia Espenoza Democrat for House District 4 A lifetime of service.
 A new era of progress.
 Meet Cecelia Join the Movement A former immigration judge , attorney , and law professor standing up for justice , access , and Colorado communities.
 A Lifetime of Breaking Barriers.

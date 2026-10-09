@@ -14,7 +14,7 @@ More than half spend over 30% of their income on rent, leaving little for food, 
 Homeowners aren’t spared either; many are burdened by skyrocketing insurance premiums and property taxes, making them “house poor” despite owning a home.
 For Millennials and Gen Z, homeownership, the cornerstone of the American Dream, feels increasingly out of reach.
 They’re working hard, yet many don’t believe stable housing is attainable anymore.
-As your representative, I will fight to make housing more affordable and accessible by: Expanding affordable and workforce housing Protecting renters from unjust evictions and putting a 3% annual cap on rent increases Supporting first-time homebuyers Empowering local governments to meet the needs of their communities A safe, stable home is the foundation for everything else—our health, education, and economic opportunity.
+As your representative, I will fight to make housing more affordable and accessible by: Expanding affordable and workforce housing Protecting renters from unjust evictions and capping annual rent increases at 3% for apartment communities owned and operated by large corporate or institutional landlords Supporting first-time homebuyers Empowering local governments to meet the needs of their communities A safe, stable home is the foundation for everything else—our health, education, and economic opportunity.
 It’s time Georgia puts working families first and recognizes that housing is not a luxury—it’s a human right.
 Protecting Immigrant Families Every immigrant family deserves to feel safe, respected, and at home, regardless of background or status.
 In Gwinnett County, the most diverse county in the nation, immigrants haven’t just contributed, they’ve helped build the fabric of our community.

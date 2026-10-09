@@ -1,5 +1,7 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Letter to the Editor • October 7, 2026 Joe Kelly gets the math wrong You’d think someone running on his energy background would know this charge has been a credit since May.
-Read more… Newsletter • October 1, 2026 We need a strong voice for reproductive rights At a moment when fundamental rights are being stripped away state by state, Connecticut needs legislators who show up ready to fight.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Letter to the Editor • October 8, 2026 Oberlander will deliver practical solutions grounded in fiscal responsibility Jill Oberlander offers common-sense, fiscally responsible solutions to our most pressing issues.
+On Election Day, let’s send a leader to Hartford who will put the… Read more… Letter to the Editor • October 7, 2026 Joe Kelly gets the math wrong You’d think someone running on his energy background would know this charge has been a credit since May.
+Read more… Letter to the Editor • October 5, 2026 Politics needs more pragmatism I think we need more independent, pragmatic thinkers in our State Senate today.
+I want representation in Hartford focused on getting things done, not scoring points. … Read more… Newsletter • October 1, 2026 We need a strong voice for reproductive rights At a moment when fundamental rights are being stripped away state by state, Connecticut needs legislators who show up ready to fight.
 I’m asking for… Read more… Letter to the Editor • September 26, 2026 Jill Has A Senior Agenda Grounded in Compassion Older residents deserve security, independence and dignity.
 Jill has the experience, judgment and values to turn these goals into responsible, compassionate public policy.
 Read more… Newsletter • September 24, 2026 They have our backs.
@@ -8,11 +10,9 @@ In the State Senate, I’ll work to ensure our firefighters, police officers, an
 I hope she will earn yours, too.
 Read more… Newsletter • September 11, 2026 Twenty five years later, we remember Today is first and foremost about remembering.
 We remember the nearly # people whose lives were taken.
-We honor the first responders who ran toward… Read more… Letter to the Editor • September 10, 2026 Politics needs more pragmatism I think we need more independent, pragmatic thinkers in our State Senate today.
-I want representation in Hartford focused on getting things done, not scoring points. … Read more… Letter to the Editor • September 9, 2026 Why Jill Oberlander is the Leader We Need in the State Senate Jill has worked to keep our taxes low and the quality of our lives high.
+We honor the first responders who ran toward… Read more… Letter to the Editor • September 9, 2026 Why Jill Oberlander is the Leader We Need in the State Senate Jill has worked to keep our taxes low and the quality of our lives high.
 She is committed to fiscal responsibility and to preserving our… Read more… Letter to the Editor • September 8, 2026 Strong Schools Require More Than Good Intentions At a time when politics too often turns schools into another source of division, that approach is refreshing.
 Our children deserve excellent schools.
 Our teachers… Read more… Newsletter • September 3, 2026 Gun safety shouldn’t be partisan Keeping our communities safe shouldn’t be a partisan issue.
-As your state senator, I’ll be a strong advocate for reasonable gun safety laws and a… Read more… Video • September 1, 2026 Our first ad “The Race” is running!
-I’m running as an independent Democrat — ready to keep housing decisions local, hold the line on taxes, and fight the special interests and corruption… Read more… 1 2 3 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+As your state senator, I’ll be a strong advocate for reasonable gun safety laws and a… Read more… 1 2 3 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

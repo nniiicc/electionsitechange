@@ -1,4 +1,4 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Newsroom Press releases, floor remarks, and the media kit.
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Newsroom Press releases, floor remarks, and the media kit.
 For reporters and editors.
 Boilerplate, photo, and contact below.
 In the News El Paso's fight, on the national stage.
@@ -36,7 +36,7 @@ He serves on the House Ways and Means Committee, the Higher Education Committee,
 He is a Deputy Whip of the House Democratic Caucus and a member of the Democratic Policy and Steering Committee.
 Before the Legislature, Vince served two terms as El Paso County Commissioner for Precinct 3 (2013–2020) and was named National County Leader of the Year by American City & County Magazine in 2016 — the first Texas County Commissioner ever to receive the recognition.
 He holds undergraduate and graduate degrees from Georgetown University and lives in El Paso's Mission Valley.
-VINCE PEREZ Fighting for Texas.
+Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

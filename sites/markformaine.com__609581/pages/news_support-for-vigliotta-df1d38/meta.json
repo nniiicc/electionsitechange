@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.markformaine.com/news/support-for-vigliotta",
- "fingerprint": "3d2ed4ed7ad95c1997c69d05e44d3469a537438f",
+ "fingerprint": "9765d06b4ea9e64f400a9a6feb529aa6dd6ab3bf",
  "format": 3,
  "paid_for_by": "authorized by Mark Vigliotta for Senate You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Support for Vigliotta | Letter",
  "years_mentioned": [
   "2026"

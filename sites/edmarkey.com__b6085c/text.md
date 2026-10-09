@@ -3,15 +3,13 @@ Senate DONATE NOW English English Español Português 繁體中文 Meet Ed Endor
 He has never been afraid to disrupt the status quo, and since he was first elected to the United States Senate in 2013, Ed has been leading and delivering on the issues that matter the most to the people of Massachusetts.
 LEARN MORE Endorsements The Latest Donate Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Click here to make an Offline Donation .
-Social Media Follow Ed Markey #ago We must address the challenges Black businesses owners face in finding opportunity and access to capital—and we must fight to ensure they can achieve their American dreams.
-Thanks to State Senator Lydia Edwards for an important discussion.
-1 Retweet on Twitter 2107954248713375986 13 Like on Twitter 2107954248713375986 Share 2107954248713375986 Follow Ed Markey #ago Happy 100th birthday to Ms.
-Opal Lee.
-Grateful to have worked with you to make Juneteenth a national holiday and looking forward to our continued partnership in the work to secure equality and justice for all.
-6 Retweet on Twitter 2107949119020900507 43 Like on Twitter 2107949119020900507 Share 2107949119020900507 Follow Ed Markey #ago Donald Trump and his Administration are profiting off the presidency and turning it into an all-you-can-eat corruption buffet.
-Unacceptable.
-We must put a stop to this unchecked corruption.
-4 Retweet on Twitter 2107913328043401285 23 Like on Twitter 2107913328043401285 Share 2107913328043401285 The Latest Ed Markey Wins Democratic Primary For U.S.
+Social Media Follow Ed Markey #ago We are in the middle of a climate crisis.
+It’s time to fight for a clean energy revolution and ensure a brighter future for all.
+6 Retweet on Twitter 2108353074896998659 37 Like on Twitter 2108353074896998659 Share 2108353074896998659 Follow Ed Markey #ago We don’t beg for our rights—we organize and take them.
+2 Retweet on Twitter 2108331682755477650 6 Like on Twitter 2108331682755477650 Share 2108331682755477650 Follow Ed Markey #ago Donald Trump is too busy securing sweetheart deals for his children and making billions off the presidency to care about rising housing costs—or any other rising prices.
+He doesn’t care about working people. @Acyn #ago REPORTER: Mortgage rates are the highest they have ever been in years.
+Is there anything you can do on home prices?
+TRUMP: *walks away* Lightbox link for post with description REPORTER: Mortgage rates are the highest they … 15 Retweet on Twitter 2108241271185932656 52 Like on Twitter 2108241271185932656 Share 2108241271185932656 The Latest Ed Markey Wins Democratic Primary For U.S.
 Senate September 1, 2026 Tonight, Ed Markey won the Democratic primary for the U.S.
 Senate, securing the Democratic nomination and advancing to the November general election.
 IUE-CWA LOCAL 201 Endorses Ed Markey For Re-Election Lynn-based union backs Markey for supporting union workers, American manufacturing, and national security August 27, 2026 U.S.

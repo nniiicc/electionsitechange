@@ -5,6 +5,10 @@
 },
 {
 "text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=1+Country+Club+Dr.+Holiday+Island+AR+United+States"
+},
+{
+"text": "+ Google Map",
 "href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=1427+Malvern+Ave+Hot+Springs+AR+71901+United+States"
 },
 {
@@ -34,10 +38,6 @@
 {
 "text": "+ Google Map",
 "href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=Highway+328+West+Maynard+AR+United+States"
-},
-{
-"text": "+ Google Map",
-"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=Lowell+AR+United+States"
 },
 {
 "text": "Baxter County Farm Bureau Candidate Forum",
@@ -100,6 +100,10 @@
 "href": "https://mk4ar.org/media/"
 },
 {
+"text": "Meet the Candidates",
+"href": "https://mk4ar.org/event/meet-the-candidates/"
+},
+{
 "text": "Michael Kalagias For LT Governor",
 "href": "https://mk4ar.org/"
 },
@@ -110,10 +114,6 @@
 {
 "text": "Mt Nebo Chicken Fry",
 "href": "https://mk4ar.org/event/mt-nebo-chicken-fry/"
-},
-{
-"text": "Mudtown Days",
-"href": "https://mk4ar.org/event/mudtown-days/"
 },
 {
 "text": "Next Events",
@@ -153,11 +153,11 @@
 },
 {
 "text": "Read More",
-"href": "https://mk4ar.org/event/mt-nebo-chicken-fry/"
+"href": "https://mk4ar.org/event/meet-the-candidates/"
 },
 {
 "text": "Read More",
-"href": "https://mk4ar.org/event/mudtown-days/"
+"href": "https://mk4ar.org/event/mt-nebo-chicken-fry/"
 },
 {
 "text": "Read More",
@@ -197,11 +197,11 @@
 },
 {
 "text": "[no text]",
-"href": "https://mk4ar.org/event/mt-nebo-chicken-fry/"
+"href": "https://mk4ar.org/event/meet-the-candidates/"
 },
 {
 "text": "[no text]",
-"href": "https://mk4ar.org/event/mudtown-days/"
+"href": "https://mk4ar.org/event/mt-nebo-chicken-fry/"
 },
 {
 "text": "[no text]",

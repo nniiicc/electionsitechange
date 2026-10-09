@@ -1,0 +1,14 @@
+FOR IMMEDIATE RELEASE Contact Representative Jack Ladyman: (870) 340-7499 State Representative Jack Ladyman Announces Bid for Re-Election Jonesboro - With resounding encouragement and unwavering support from his constituents, Representative Jack Ladyman proudly declares his intent to seek re-election, reaffirming his commitment to serve the people of District 32 in the Arkansas House of Representatives.
+Over the course of his distinguished tenure spanning more than eight years, Representative Ladyman has remained steadfast in his pledge to champion limited government, foster sensible policies, and elevate the overall well-being of the region.
+An embodiment of action-driven leadership, he has consistently translated conservative principles into tangible improvements that make District 32 a better place to live, work, and raise a family.
+Reflecting on his tenure, Representative Ladyman stated, "Since my election, I've made it my mission to stand up against government overreach and advocate for policies that truly benefit our community and State.
+Talk is cheap; it's our actions that make the difference.
+I've been privileged to back legislation supporting our educators, brave law enforcement personnel, pro-life and Second Amendment initiatives, as well as endeavors to curtail state income tax – a strategy that directly empowers the residents of Arkansas." Renowned as an unwavering advocate for Craighead County in the state legislature, Representative Ladyman has spearheaded vital initiatives that have resulted in the allocation of millions of dollars to advance local projects.
+These funds have been instrumental in fortifying infrastructure and channeling $8 million towards the comprehensive reconstruction of the Jonesboro Human Development Center, a testament to his dedication to community well-being.
+Addressing his constituents, Representative Ladyman expressed gratitude, "It is with immense appreciation that I thank you, the residents who have entrusted me with this significant responsibility for five terms.
+Our collective achievements have laid a solid foundation for progress.
+Together, we've elevated the standard of living in our District and beyond, yet our journey is far from over.
+There's more work to be done, and I am eager to roll up my sleeves and continue this crucial endeavor." Representative Ladyman currently holds the distinction of Assistant Speaker Pro-Tempore, a role handpicked by House Speaker Matthew Shepherd.
+Representative Ladyman's leadership extends further, encompassing his chairmanship of the House Public Health, Welfare, and Labor Committee, as well as the ALC Subcommittee for Policy.
+Additionally, he actively participates as a member of the Insurance and Commerce Committee, Arkansas Legislative Council, and serves as an alternate member for the Joint Audit Committee.
+### #VoteLadyman24|www.voteladyman.com

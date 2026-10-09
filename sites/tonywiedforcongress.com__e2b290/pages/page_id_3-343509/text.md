@@ -1,4 +1,4 @@
-Skip to content CLICK HERE TO DONATE TO TONY WIED Genuine leadership for wisconsin Wied for Congress Privacy Policy April 8, 2024 Privacy Policy Overview Welcome to the official website or mobile application (the Sites) of Tony Wied for Congress.
+Skip to content CLICK HERE TO DONATE TO TONY WIED Home Issues Press Releases Endorsements Get Involved Home Issues Press Releases Endorsements Get Involved Home Issues Press Releases Endorsements Get Involved Menu Home Issues Press Releases Endorsements Get Involved Genuine leadership for wisconsin Wied for Congress Privacy Policy April 8, 2024 Privacy Policy Overview Welcome to the official website or mobile application (the Sites) of Tony Wied for Congress.
 This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Tony Wied for Congress mobile applications that display this policy (the Sites).
 By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy and our Terms of Service.
 From time to time, we may update this Privacy Policy.

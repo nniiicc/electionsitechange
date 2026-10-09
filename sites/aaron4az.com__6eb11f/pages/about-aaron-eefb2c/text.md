@@ -1,4 +1,4 @@
-0 Skip to Content About Aaron Contact Contribute Open Menu Close Menu About Aaron Contact Contribute Open Menu Close Menu About Aaron Contact Contribute Meet Aaron An Entrepreneur, Problem Solver, and Bipartisan Leader.
+0 Skip to Content About Aaron Contact Get the Facts Contribute Open Menu Close Menu About Aaron Contact Get the Facts Contribute Open Menu Close Menu About Aaron Contact Get the Facts Contribute Meet Aaron An Entrepreneur, Problem Solver, and Bipartisan Leader.
 A Career Built on Results Born and raised in Phoenix, Aaron Lieberman isn't a career politician.
 He's an entrepreneur and business leader who has spent his career building organizations that solve problems and improve people's lives.
 After graduating from Yale, Aaron helped launch Jumpstart, a national early literacy nonprofit, and later co-founded Acelero Learning.

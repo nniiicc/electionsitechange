@@ -1,4 +1,4 @@
-Skip to content Home About Platform Donate Home About Platform Economic Opportunity Environment Government Accountability Healthcare Working Families Contact Us Donate Menu Protecting Our Environment The Blue Ridge Mountains of NC District 119 define who we are, where we live and how we interact with each other.
+Skip to content Home About Platform Donate Home About Platform Economic Opportunity Education Environment Government Accountability Healthcare Working Families FAQ Contact Us Donate Menu Protecting Our Environment The Blue Ridge Mountains of NC District 119 define who we are, where we live and how we interact with each other.
 More significantly, District 119 has more public lands than any other NC house district.
 That is worth protecting.
 Mark’s Plan Help counties and local communities protect our basic infrastructure that may be increasingly threatened by adverse weather conditions.

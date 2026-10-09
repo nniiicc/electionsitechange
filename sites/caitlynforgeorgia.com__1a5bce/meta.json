@@ -1,9 +1,13 @@
 {
  "description": "Official campaign website for Caitlyn Gegen for Congress in Georgia's 9th Congressional District.",
  "final_url": "https://caitlynforgeorgia.com/pages/index.html",
- "fingerprint": "5be1e5a23435c6792aeb1f38f419fc43bc290bca",
+ "fingerprint": "2f22187685de0a571af0c67f7e57bdb54092871b",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by The Campaign Fund of Caitlyn Gegen About Solutions Values Events Press Donate Designed by rosecraftdesigns",
+ "rendered": true,
  "title": "Caitlyn Gegen For Congress | Georgia's 9th District",
- "years_mentioned": []
+ "years_mentioned": [
+  "1973",
+  "2026"
+ ]
 }

@@ -1,9 +1,12 @@
 {
  "description": "Sanford for Assembly",
  "final_url": "https://andresandfordforassembly.com/",
- "fingerprint": "263a633044f03574b1a22e7793cbfefff798fc1d",
+ "fingerprint": "2158c9f9e62fd78b1089b0dac76a16e4412757f7",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Andre Sandford for Assembly District 18",
+ "rendered": true,
  "title": "Sanford for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

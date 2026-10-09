@@ -1,9 +1,10 @@
 {
- "description": "This is where you&#39;ll put the expanded description for your news item or press release. You can edit this content from the &quot;News&quot; tab of the control panel.",
+ "description": "This is where you'll put the expanded description for your news item or press release. You can edit this content from the \"News\" tab of the control panel.",
  "final_url": "https://www.pachecoforthepeople.com/news/campaign-news",
- "fingerprint": "1e69d3d078773892a89daed7b526613e5783aa2c",
+ "fingerprint": "cccddc9de6ee80dd23f049b70c4a1d16d18e19f4",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Campaign News",
  "years_mentioned": [
   "2026"

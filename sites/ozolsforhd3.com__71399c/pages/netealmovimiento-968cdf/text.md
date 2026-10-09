@@ -1,4 +1,4 @@
-top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Donate Únete al Movimiento Impulsada por la gente, alimentada por miembros de la comunidad que se preocupan profundamente por construir un mejor futuro para el Distrito 3.
+top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Media Donate Únete al Movimiento Impulsada por la gente, alimentada por miembros de la comunidad que se preocupan profundamente por construir un mejor futuro para el Distrito 3.
 Escribir Postales Recoge un paquete, escribe algunas notas personales a tus vecinos sobre por qué apoyas a Gena, y entrégalas antes de la fecha límite.
 Toma tan solo 30 minutos.
 Organizar una Reunión en Casa Reúne a tus vecinos en tu casa para que puedan conocer a Gena Ozols, hacer preguntas y aprender sobre el gobierno local.

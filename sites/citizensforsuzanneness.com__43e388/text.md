@@ -1,7 +1,7 @@
-Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT HOME_2026 Roxie S 2026-10-06T17:00:48+00:00 DISTRICT 66 PROVEN LEADERSHIP.
+Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT HOME_2026 Roxie S 2026-10-08T21:03:00+00:00 DISTRICT 66 PROVEN LEADERSHIP.
 RE-ELECT SUZANNE NESS FOR IL STATE REPRESENTATIVE REAL RESULTS.
 Working for stronger communities, better schools, and a brighter future for Illinois' 66th District.
-DONATE people_outline VOLUNTEER REQUEST A YARD SIGN LEARN MORE ABOUT LEAD LIKE LINCOLN EVENT PURCHASE TICKETS Leadership That Delivers for District 66 Since being elected to represent District 66, Suzanne has worked every day to bring resources home, strengthen local communities, support families and small businesses, and ensure residents have a voice in Springfield.
+DONATE people_outline VOLUNTEER REQUEST A YARD SIGN LEARN MORE ABOUT LEAD LIKE LINCOLN EVENT PURCHASE TICKETS McHENRY COUNTY | KANE COUNTY EARLY VOTING SITES McHenry County Early Voting Sites Click Here to View Kane County Early Voting Sites Click Here to View Leadership That Delivers for District 66 Since being elected to represent District 66, Suzanne has worked every day to bring resources home, strengthen local communities, support families and small businesses, and ensure residents have a voice in Springfield.
 While politics has become increasingly divided, Suzanne remains focused on practical solutions that improve everyday life for the people of District 66.
 Because leadership isn’t about making noise.
 It’s about making a difference.
@@ -27,7 +27,7 @@ LATEST UPDATES Stay Connected with District 66 Get the latest news, updates, and
 VOLUNTEER DONATE VIEW ALL NEWS LET’S STAY CONNECTED Do you have ideas or concerns?
 We want to hear from you.
 P.O.
-Box 2633, Crystal Lake, IL 60014 vote4suzanneness@gmail.com 224-208-8775 FOLLOW SUZANNE 6th Annual Lead Like Lincoln Campaign Fundraiser Gallery 6th Annual Lead Like Lincoln Campaign Fundraiser Fundraiser , Upcoming Event 6th Annual Lead Like Lincoln Campaign Fundraiser Roxie S 2026-09-10T15:57:11+00:00 August 13, 2026 | Fundraiser , Upcoming Event | Join Suzanne Ness and host committee September 26th for the 6th Annual Lead Like Lincoln Breakfast Fundraiser.
+Box 2633, Crystal Lake, IL 60014 vote4suzanneness@gmail.com 224-208-8775 FOLLOW SUZANNE Ness & Clark Final Stretch Fundraiser Gallery Ness & Clark Final Stretch Fundraiser Fundraiser , Upcoming Event Ness & Clark Final Stretch Fundraiser Roxie S 2026-10-08T21:46:07+00:00 October 8, 2026 | Fundraiser , Upcoming Event | Join Michele Clark and State Representative Suzanne Ness for their Final Stretch Fundraiser on Thursday, October 15, from 6–8 PM at Scorched Earth Brewing Company in Algonquin!
 Read More 2026 ENDORSEMENTS Trusted Leadership.
 Strong Support.
 Suzanne Ness is proud to have the support of community leaders, organizations, advocates, and neighbors who share her commitment to strong communities and a better future for District 66.

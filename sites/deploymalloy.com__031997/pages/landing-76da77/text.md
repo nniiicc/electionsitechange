@@ -1,4 +1,4 @@
-May the 14th star shine bright Positions About Album Q&A Events Subscribe Signs Shop Donate Positions About Album Q&A Events Subscribe Signs Shop Donate donate Sign up for texts Sign up for emails Gerald Malloy for us congress The 14th Star, Vermont Thirteen original states stood together under a new flag: thirteen stripes and thirteen stars—a new constellation of freedom.
+May the 14th star shine bright Positions About Q&A Proposals Events Subscribe Signs Shop Donate Positions About Q&A Proposals Events Subscribe Signs Shop Donate donate Sign up for texts Sign up for emails Gerald Malloy for us congress The 14th Star, Vermont Thirteen original states stood together under a new flag: thirteen stripes and thirteen stars—a new constellation of freedom.
 For 14 years, Vermont governed itself as an independent republic.
 After resolving competing land claims with New York through a negotiated settlement—including a payment of thirty thousand dollars—Vermont officially joined the United States on March 4, 1791.
 Vermont became the 14th state—and the first state admitted after the original thirteen.

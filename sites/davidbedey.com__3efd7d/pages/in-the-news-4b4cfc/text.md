@@ -1,6 +1,6 @@
 top of page REP.
 DAVID BEDEY ABOUT POLITICAL PHILOSOPHY IN THE NEWS LEGISLATIVE ACTIVITY LEGISLATIVE FOCUS 2025 LEGISLATIVE RECORD 2023 LEGISLATIVE RECORD 2021 LEGISLATIVE RECORD 2019 LEGISLATIVE RECORD COMMITTEE ASSIGNMENTS SCORECARDS CONTACT PRIVACY POLICY MORE Use tab to navigate through the menu items.
-CONTRIBUTE IN THE NEWS Letters of Support A time to choose.
+CONTRIBUTE IN THE NEWS All Posts Letters of Support A time to choose.
 Since last October, almost 30 mailers attacking my voting record have landed in your mailboxes.
 I suspect more will arrive in the coming week.
 Taken together with streaming TV ads, radio spots, and paid door knockers, over a quarter million dollars from out-of-state funded PACs, like “Accountability in State Government” and Virginia-based “Americans for Prosperity” and “Make Liberty Win,” are being spent to buy my opponent a seat in the Montana Senate.

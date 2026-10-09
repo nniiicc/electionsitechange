@@ -28,9 +28,9 @@ Dream.
 The American Dream is slipping out of reach for too many Ohio families as the cost of basic necessities continues to climb.
 State-level policy must refocus on the fundamentals: making Ohio an affordable, thriving place to live, work, and raise a family.
 Protecting that dream requires urgent, common-sense action to lower costs and ensure that our residents can retire with peace of mind and future generations can confidently build their lives right here in our communities.
-Housing Accessibility Energy Independence Protecting Seniors and Young Families Affordability Join the Team First Name* Last Name* Your Email* Mobile Phone I want to Pass out Literature Host an Event Get a Yard Sign Donate Message Mobile Phone Opt-In: By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Kaeser For Ohio to the phone number you provide.
+Housing Accessibility Energy Independence Protecting Seniors and Young Families Affordability First Name* Last Name* Your Email* Mobile Phone I want to Pass out Literature Host an Event Get a Yard Sign Donate Message Mobile Phone Opt-In: By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Kaeser For Ohio to the phone number you provide.
 Consent is not required to send your message.
 Reply help for help, and stop to stop.
 Msg&data rates may apply.
-Yes, I want to Opt-In Submit Support Shawn Kaeser 2 Ways to Donate Mail checks to: Kaeser For Ohio 4679 Winterset Dr.
-Columbus, OH 43220 Credit Card or Google Pay: Via WinRed Paid for by Kaeser For Ohio Privacy Policy Subscribe for Updates Submit
+Yes, I want to Opt-In Submit 2 Ways to Donate Mail checks to: Kaeser For Ohio 4679 Winterset Dr.
+Columbus, OH 43220 Credit Card or Google Pay: Via WinRed Support Shawn Kaeser Join the Team Paid for by Kaeser For Ohio Privacy Policy Subscribe for Updates Submit

@@ -76,4 +76,13 @@ Going forward, Dan believes Minnesota needs stronger oversight, better fraud det
 Minnesota has already begun implementing additional anti-fraud measures, including stronger screening, payment withholds, data sharing, and increased oversight of high-risk providers.
 Dan is committed to protecting taxpayer dollars and ensuring public funds reach the people and programs they are intended to serve.
 He believes accountability should apply regardless of political party or who is responsible.
+Was Dan Kessler involved with fraud of any kind in the state of Minnesota?
+No.
+Dan Kessler had absolutely no involvement in fraud of any kind, in Minnesota or anywhere else.
+During the period in question, Dan was running his own small business.
+He was not holding public office, had no connection to the individuals involved, and played no role in the events.
+His opponent, Julia Coleman, was serving in the Minnesota Senate at the time.
+Dan was not in office, was not involved in the fraud, and had no knowledge of or connection to the people responsible.
+The facts are clear: Dan Kessler was not involved in the fraud.
+Any attempt to associate him with it misrepresents his role and his history.
 Prepared and paid for by the Dan Kessler for Minnesota Senate Committee - PO Box 165, Chaska, MN 55318

@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/weekly-update-713",
- "fingerprint": "6cf4e350f645b0165c804994a9d5104fa1a6b296",
+ "fingerprint": "f2e3776db9a53437edca4981c82522f4454e01e6",
  "format": 3,
  "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Weekly update 7/13",
  "years_mentioned": [
   "2026"

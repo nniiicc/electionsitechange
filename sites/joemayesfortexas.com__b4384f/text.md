@@ -1,5 +1,5 @@
-Skip navigation menu Home About Endorsements News Events Volunteer Contact Texas House District 106 Donate Join us on the road to Austin!
-Joe Mayes for Texas House District 106 Donate Volunteer Home About Endorsements News Events Volunteer Contact Texas House District 106 Donate Join us on the road to Austin!
+Skip navigation menu About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate Join us on the road to Austin!
+Joe Mayes for Texas House District 106 Donate Volunteer About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate Join us on the road to Austin!
 Joe Mayes for Texas House District 106 Donate Volunteer Meet Joe Joe is a 20-year US Air Force veteran, a small business owner, a retired Cybersecurity executive, and a staunch believer in, and defender of, the freedoms assured to all of us.
 As the Democratic candidate for Texas House District 106, Joe is committed to fighting for: - The right to a world-class public education for all Texas students; - Economic opportunities for all Texans to build the life they choose; and - The freedom to enjoy our fundamental rights, unencumbered by government overreach.
 Learn more Your donation makes a difference! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other My Commitments No public dollars to private schools World Class Public Education for all Texas students Every Texas student deserves a world class public education, and Texas is distinctly positioned to provide it.
@@ -17,6 +17,8 @@ I will work with the Texas Veterans Commission to ensure every Veteran in Texas 
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
-Submit JoeMayesForTexas@gmail.com Powered by RUN! website builder Pol. adv. paid for by the Joe Mayes for Texas Campaign, Diane Mayes, Treasurer Joseph "Joe" Mayes is a Retiree of the United States Air Force.
+Submit Follow Joe on the Campaign Trail Stay connected with Joe Mayes as he travels across Texas House District 106, meets with neighbors, attends community events, and shares updates from the campaign trail.
+Follow @JoeMayesForTexas on Instagram for campaign updates, behind-the-scenes moments, community conversations, and upcoming events.
+View this profile on Instagram Joe Mayes For Texas (@ joemayesfortexas ) • Instagram photos and videos Check Out Our Campaign Videos JoeMayesForTexas@gmail.com Powered by RUN! website builder Pol. adv. paid for by the Joe Mayes for Texas Campaign, Diane Mayes, Treasurer Joseph "Joe" Mayes is a Retiree of the United States Air Force.
 Use of his military rank, job title, and photographs in uniform does not imply endorsement by the DoD or the US Air Force.
 You need to enable JavaScript to run this app.

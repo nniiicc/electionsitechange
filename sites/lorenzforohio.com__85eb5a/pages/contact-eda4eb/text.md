@@ -3,4 +3,4 @@ Drop us a line if you’d like to help with: Door knocking Phone banking Display
 Msg & data rates may apply.
 Msg frequency may vary.
 Reply “STOP” to opt-out & “HELP” for help.
-View Privacy Policy for more info.
+View Privacy Policy and terms and conditions for more info.

@@ -1,4 +1,11 @@
-0 Skip to Content Home About District Map Priorities Gallery Calendar Contact DONATE Open Menu Close Menu Home About District Map Priorities Gallery Calendar Contact DONATE Open Menu Close Menu Home About District Map Priorities Gallery Calendar Contact DONATE View fullsize After canvassing in Holden, Shannon headed to Worcester to join the "last stop for Pride season" 🏳️‍🌈🏳️‍⚧️ and was surrounded by so much love and joy and an extremely resilient community.
+0 Skip to Content Home About District Map Priorities Gallery Calendar Contact DONATE Open Menu Close Menu Home About District Map Priorities Gallery Calendar Contact DONATE Open Menu Close Menu Home About District Map Priorities Gallery Calendar Contact DONATE View fullsize Shannon and Krista Ferrante, candidate for State Representative, visiting the most recent Holden DTC meeting.
+We thank them for their support!
+View fullsize We are honored to announce Shannon's endorsement by the Working Families Party!
+At a time when the working people of the United States and Massachusetts are being squeezed for all they have, we need a path forward that includes the voices of working families and acknowledges that their labor is the backbone of this nation.
+View fullsize We had a great time last night at our comedy fundraiser!
+So many came out to support local candidates and we found humor and humanity together in a night filled with laughter and hope.
+Huge thanks to the Leicester Democratic Town Committee.
+View fullsize After canvassing in Holden, Shannon headed to Worcester to join the "last stop for Pride season" 🏳️‍🌈🏳️‍⚧️ and was surrounded by so much love and joy and an extremely resilient community.
 View fullsize At the Worcester Pride event along Franklin Street.
 View fullsize Canvassing in Holden on Saturday, September 12, with Krista Ferrante and our volunteers!
 View fullsize Another very busy weekend!

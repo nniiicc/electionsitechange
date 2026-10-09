@@ -1,7 +1,10 @@
 AB Skip to content Affordability for working families Accountability starting from the top Protecting the Vulnerable standing up for kids, survivors, and seniors Affordability for working families Accountability starting from the top Protecting the Vulnerable standing up for kids, survivors, and seniors Affordability for working families Donate Volunteer Donations are processed securely by ActBlue.
 Retired Air Force Lt Col and federal supervisory special agent: she hunted terror networks, spies, and child predators across the globe.
 Now she's running for Montana.
-Meet Alani → Positions Where Alani Stands {{ it.title }} → See where she stands on every issue → Core Priorities · By the numbers The Big Three, and the data behind them Three fights at the front, each backed by cited, authoritative data.
+Meet Alani → Positions Where Alani Stands {{ it.title }} → See where she stands on every issue → Rumors, answered Heard something about Alani?
+Every rumor and attack we’ve tracked, answered with the record and the sources.
+See the record → Got a mailer?
+Core Priorities · By the numbers The Big Three, and the data behind them Three fights at the front, each backed by cited, authoritative data.
 Every figure links to its source. {{ p.num }} {{ p.title }} {{ p.tag }} {{ p.blurb }} Read her position → Why they’re with her In Montanans’ own words {{ q.quote }} {{ q.who }} · {{ q.src }} See who else is with her → Here’s what I believe: Every issue.
 Every position.
 No surprises.

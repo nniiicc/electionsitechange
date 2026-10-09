@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Donate More Home Issues Education Healthcare Good Governance Donate ABOUT COLLIN My name is Collin Docterman.
+Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate More Home Issues Education Healthcare Good Governance Data Centers Donate ABOUT COLLIN My name is Collin Docterman.
 I was born in Cincinnati in 1985.
 At age eight, my family moved to Huntington, West Virginia, and later to Philippi, West Virginia, during my high school years.
 Through all those moves, we stayed connected to Adams County, Ohio, where my grandparents lived.
@@ -23,6 +23,6 @@ I believe in collaboration over partisanship, compassion over conflict, and prob
 I’m running for State Representative to ensure that the voices of real people — not special interests — are heard in Columbus.
 Together, we can build a healthier, more prosperous, and more united future for all of us.
 Let’s work together for the community we all deserve.
-Paid for by Docterman for Ohio, Treasurer Toni Moore Contributions are not tax-deductible.
+Paid for by Docterman for Ohio, Treasurer Melissa Docterman Contributions are not tax-deductible.
 Donations from corporations and foreign nationals are prohibited.
 Report abuse Page details Page updated Report abuse

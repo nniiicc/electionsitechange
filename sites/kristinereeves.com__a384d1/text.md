@@ -6,4 +6,9 @@ A Commitment to our Community.
 A Proven Record of Results DONATE Enter your email here Notify Me!
 Thanks for submitting!
 Paid For by Friends to Elect Kristine Reeves 1815 SW Campus Drive.
-#26332 Federal Way, 98093 bottom of page
+#26332 Federal Way, 98093 Friends to Elect Kristine Reeves may contact supporters and voters by text message for outreach, get-out-the-vote, and volunteer recruitment.
+Message and data rates may apply.
+Message frequency varies.
+Reply STOP to opt out at any time, or HELP for help.
+We do not sell or share your phone number with third parties for their own marketing.
+Questions: info@kristinereeves.com . bottom of page

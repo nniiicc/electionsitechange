@@ -1,0 +1,2 @@
+June, 2026 IBEW Local 29, which represents energy and utility workers in Western Pennsylvania is proud to endorse you for your 2026 Election run.
+From lineworkers to power plant operators, to meter and transformer repair technicians and underground splicers, Local 29’s members build, operate, and maintain the electric infrastructure that keeps homes, businesses, and schools safely powered every day.” Jordan Ball Long Nyquist & Associates 121 State Street Harrisburg, PA 17101

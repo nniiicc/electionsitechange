@@ -1,4 +1,4 @@
-Chelsey Hockett Home About Issues Endorsements Blog Volunteer Store Donate Fighting for What Matters.
+Chelsey Hockett Home About Issues Endorsements District Volunteer Store Donate Fighting for What Matters.
 I'm running because working families deserve real representation on the issues that affect their daily lives.
 Economic Needs Democracy & Accountability Education Justice & Civil Rights Environment Foreign Policy Economic Needs Affordability Making the wealthy pay their fair share so working families get ahead It is ridiculous that in the richest country in the world, people go into debt every day just by trying to make ends meet.
 No one should have to decide between seeing a doctor and affording groceries.

@@ -1,2 +1,1 @@
-Michael Kalagias For LT Governor Menu Home Bio Issues Media Contact Donate Register to Vote Upcoming Events 08 Oct Meet the Candidates October 8 @ 6:00 pm-October 8 @ 8:00 pm 1 Country Club Dr.
-Holiday Island , AR United States 10 Oct Pea Ridge Mule Jump October 10 @ 11:00 am-October 10 @ 4:00 pm 975 Weston Street Pea Ridge, AR , AR 72751 United States More Events TV Ad-I Care TV Ad-How Bad Does It Have To Get Paid for by Kalagias for AR
+Michael Kalagias For LT Governor Menu Home Bio Issues Media Contact Donate Register to Vote Upcoming Events 10 Oct Pea Ridge Mule Jump October 10 @ 11:00 am-October 10 @ 4:00 pm 975 Weston Street Pea Ridge, AR , AR 72751 United States More Events TV Ad-I Care TV Ad-How Bad Does It Have To Get Paid for by Kalagias for AR

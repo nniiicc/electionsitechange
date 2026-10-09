@@ -1,9 +1,10 @@
 {
  "description": "See Rene’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/rene-vance/events/",
- "fingerprint": "8721d7c7669b8117e8473c607e80bd2d7b10e552",
+ "fingerprint": "618170ee3eec2571f0b3c801acf3d0c4ea3c6f3d",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Rene Vance Events",
  "years_mentioned": [
   "2026"

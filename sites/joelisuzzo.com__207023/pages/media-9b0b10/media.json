@@ -1,4 +1,5 @@
 [
+"alt://cdn.userway.org/widgetapp/images/spin_wh.svg|Spinner: White decorative",
 "alt:/themes/default/default/images/001-1-768x614-1.jpg|a man and woman inside a restaurant",
 "alt:/themes/default/default/images/002-1-768x614-1.jpg|2 men waering red cap",
 "alt:/themes/default/default/images/004-1-768x614-1.jpg|man wearing apron standing behind an ice creat cart holding an American flag",
@@ -24,6 +25,8 @@
 "alt:/themes/default/default/images/joe-1.jpg|2 men smiling",
 "alt:/themes/default/default/images/logo.png|logo",
 "alt:/themes/default/default/images/unnamed-1.jpg|2 smiling on",
+"img://cdn.userway.org/widgetapp/images/body_wh.svg",
+"img://cdn.userway.org/widgetapp/images/spin_wh.svg",
 "img:/themes/default/default/images/001-1-768x614-1.jpg",
 "img:/themes/default/default/images/002-1-768x614-1.jpg",
 "img:/themes/default/default/images/004-1-768x614-1.jpg",

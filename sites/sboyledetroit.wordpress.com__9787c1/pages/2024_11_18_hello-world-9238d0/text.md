@@ -33,8 +33,7 @@ As a community activist in Detroit he’s dedicated time to research, writing, a
 He became a Green Party Michigan member in 2014 and has ran for elected office multiple times.
 In 2025 his interest is in City Council at Large, due to his wide network of contacts throughout the city.
 You may have seen him speak at various city governance events on topics such as mass transit, environmentalism, and community health / safety / education.
-Read more From the blog Public Transportation Dependency November 6, 2025 Taxes June 19, 2025 Streetscape Projects June 19, 2025 Open Meetings Act Compliant?
-January 21, 2025 Contents By Stephen Boyle.
+Read more From the blog Terrorism USA October 8, 2026 Public Transportation Dependency November 6, 2025 Taxes June 19, 2025 Streetscape Projects June 19, 2025 Contents By Stephen Boyle.
 Maintained by Fuzzytek.
 Attribution requested for cited or reposted content.
 Bluesky Mastodon Tumblr WordPress Loading Comments...

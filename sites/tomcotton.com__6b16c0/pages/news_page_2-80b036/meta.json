@@ -1,11 +1,13 @@
 {
  "description": "The latest statements, announcements, and press releases from Cotton for Senate.",
  "final_url": "https://tomcotton.com/news/page/2/",
- "fingerprint": "f8602c3181655b77791013d0ad3e8b49bdc8dfc5",
+ "fingerprint": "93a475ee0cbc7a86ddb8d8112571a977e24c84ea",
  "format": 3,
  "paid_for_by": "Paid for by Cotton for Senate",
+ "rendered": false,
  "title": "News & Press Releases – Page 2 – Tom Cotton",
  "years_mentioned": [
+  "2020",
   "2026"
  ]
 }

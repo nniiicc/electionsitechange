@@ -1,4 +1,4 @@
-Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec More Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Partner with T.E.S.S. campaign Believe in the Vision.
+Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events More Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events Partner with T.E.S.S. campaign Believe in the Vision.
 Invest in the Future.
 Transparency.
 Economy.

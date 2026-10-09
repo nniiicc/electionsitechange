@@ -36,10 +36,6 @@
 "href": "https://electbarnhill.net/announcements/the-lawsuit-is-filed-barnhill-v-aguilar/"
 },
 {
-"text": "Blog",
-"href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
 "text": "Commentary",
 "href": "http://electbarnhill.net/commentary/feed"
 },
@@ -96,6 +92,10 @@
 "href": "https://electbarnhill.net/get-involved/"
 },
 {
+"text": "News",
+"href": "https://electbarnhill.net/news/"
+},
+{
 "text": "Next Next post: Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer",
 "href": "https://electbarnhill.net/announcements/equal-access-courthouse-pro-se-electronic-filing/"
 },
@@ -114,6 +114,10 @@
 {
 "text": "Previous Previous post: Election Technology Nevada Voters Can Actually Check",
 "href": "https://electbarnhill.net/policy-positions/election-technology-modernization-voters-can-trust/"
+},
+{
+"text": "The Court Asked Who Has a Stake in My Lawsuit. The Honest Answer Is You.",
+"href": "https://electbarnhill.net/announcements/who-has-a-stake-barnhill-v-aguilar/"
 },
 {
 "text": "VW Themes",

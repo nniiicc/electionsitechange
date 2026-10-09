@@ -1,4 +1,4 @@
-Positions About Album Q&A Events Subscribe Signs Shop Donate Positions About Album Q&A Events Subscribe Signs Shop Donate Answers to the many questions I get asked Malloy – Sanders Debate, Vermont Public Howie Carr with Gerald Malloy Linda Kirker’s Sound Off with Gerald Malloy Gerald Malloy joins WVMT Morning Drive with Kurt & Anthony.
+Positions About Q&A Proposals Events Subscribe Signs Shop Donate Positions About Q&A Proposals Events Subscribe Signs Shop Donate Answers to the many questions I get asked Malloy – Sanders Debate, Vermont Public Howie Carr with Gerald Malloy Linda Kirker’s Sound Off with Gerald Malloy Gerald Malloy joins WVMT Morning Drive with Kurt & Anthony.
 Listen here.
 Gerald Malloy for Congress 2026 Republican | Weathersfield, Vermont Vermont deserves a representative who delivers results—not rhetoric.
 For too long, Washington has been dominated by career politicians who divide us, overpromise, and underdeliver.

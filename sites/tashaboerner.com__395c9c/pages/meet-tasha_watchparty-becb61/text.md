@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Watch Party with Team Tasha Tuesday, June 5, 2018 7:45 PM 11:00 PM 19:45 23:00 Google Calendar ICS Thank you to our amazing volunteers, contributors, advocates and champions!
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Watch Party with Team Tasha Tuesday, June 5, 2018 7:45 PM 11:00 PM 19:45 23:00 Google Calendar ICS Thank you to our amazing volunteers, contributors, advocates and champions!
 Regardless of the results on Tuesday, June 5th, we have given it our all!
 Join us for a watch party at a local Encinitas restaurant, where we can celebrate our hard work and keep our fingers crossed for a shot at the General Election!
 Tuesday, June 5th Starting at 7:45 PM Local Encinitas Restaurant RSVP not required, but it will help us plan accordingly.

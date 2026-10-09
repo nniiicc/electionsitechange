@@ -1,12 +1,12 @@
 ...
 About DONATE NOW VISION Request a Sign / District 21 Map CONNECT Email Us How Marie Can Help Gallery Primary Care Bills ...
-About DONATE NOW VISION Request a Sign / District 21 Map CONNECT Email Us How Marie Can Help Gallery Primary Care Bills As Your Representative, I will All Support Term Limits: Our State House needs fresh ideas and new leaders who will passionately support our community.
-I will support efforts that shake-up long standing political patterns Focus on Finance and Taxes: RI needs to stop reaching into the pockets of the little guy every time there is a crisis of opportunity.
-Re-establishing a two party system will help keep our Legistlature accountable to our community.
-Focus on Health Care: Send a nurse to the State House and I will bring my experience and insight to the discussion.
-I have worked in psych and addiction, all too often seeing shortages and staff issues and a lack of resources affecting our most vulnerable.
+About DONATE NOW VISION Request a Sign / District 21 Map CONNECT Email Us How Marie Can Help Gallery Primary Care Bills As Your Representative, I will All Stand with Public Servants I will support legislation that strengthens and protects our police officers, firefighters, teachers, and other public servants.
 Focus on Finance and Taxes: RI needs to stop reaching into the pockets of the little guy every time there is a crisis of opportunity.
-Re-establishing a two party system will help keep our Legistlature accountable to our community.
+Re-establishing a two party system will help keep our Legislature accountable to our community.
+Advocate for Senior Citizens I will continue to advocate for senior citizens by supporting healthcare and social security savings initiatives.
+Focus on Health Care: Send a nurse to the State House and I will bring my experience and insight to the discussion.
+I will work to continue to expand the healthcare workforce.
+With my experience in psych and addiction, I have witnessed the impact of shortages, staffing issues, and a lack of resources on our most vulnerable.
 VISION FOR RI Marie Hopkins attended URI and Brown University.
 A registered nurse, she currently teaches at CCRI, and was employed as a substitute school nurse for the City of Warwick, as well as the RIVAMC, and RWMC.
 Marie has worked as a forensic and a criminal psych nurse for the State of Rhode Island.

@@ -1,1 +1,5 @@
-
+Home About On the Issues Accomplishments In The News Donate Today More Home About On the Issues Accomplishments In The News Donate Today Home About On the Issues Accomplishments In The News Donate Today My Blog June 19, 2026 Bettye Davis East Anchorage High School swimming pool reopened!
+Some wins in public service are easy to measure: a bill passed, a budget item secured, a vote counted.
+Others are measured in something more personal: students walking back into their own pool, families gathering in a co...
+Continue Reading June 19, 2026 Honest Health Information About Alcohol House Bill 37 / Senate Bill 15 Continue Reading June 19, 2026 Strengthening Alaska’s Health Care Workforce House Bill 110 Continue Reading June 19, 2026 More Housing Tools for Local Communities House Bill 13 Continue Reading June 19, 2026 Raising the Age of Consent to 18 House Bill 101 Continue Reading June 19, 2026 IDs for Alaskans Reentering Society House Bill 53 / Senate Bill 119 (2023) Continue Reading About On the Issues Accomplishments Podcast Get Involved Donate Today Paid for by Andrew Gray for Alaska State House.
+PO Box 230972, Anchorage, AK 99523

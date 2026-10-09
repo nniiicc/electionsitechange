@@ -7,5 +7,7 @@ This is the third major law enforcement group to endorse Stokesbary, who had pre
 COMPAS only represents currently-commissioned law enforcement officers.
 In addition to pension issues, COMPAS also follows legislation involving collective bargaining, criminal laws and procedures, L&I issues, and survivor issues (affecting families of fallen officers).
 Learn more at www.compas-wa.org .
-Endorsements More For You State Patrol Troopers endorse Drew Stokesbary Endorsements We endorse: Stokesbary, Robertson a good fit for Legislative District 31 (2020) Endorsements Auburn Republican Drew Stokesbary seeking House seat In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements More For You Endorsed by Stand for Children!
+Endorsements Rep.
+Drew Stokesbary hosts town hall Saturday In the News Stokesbary concerned about auditor’s media silence In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

@@ -1,0 +1,14 @@
+Office of Representative Hannah E.
+Kane Commonwealth of Massachusetts For Immediate Release Contact: Charlyce Bozzello 617-­‐722-­‐2430, charlyce.bozzello@mahouse.gov October 19, 2015 House passes title-clearing bill to protect owners of foreclosed properties BOSTON – The House of Representatives has approved title-clearing legislation designed to protect owners of foreclosed properties with defective titles and reduce the amount of time in which a title can be disputed.
+Representative Hannah Kane (R-Shrewsbury) supported the bill, which passed on a vote of 12723 on October 14.
+The Senate previously approved its own version of the bill on September 18 by a vote of 31-7.
+The House bill establishes a three-year window in which previous mortgage holders on a property can challenge a claim to the title on the property.
+It also would allow an affidavit recorded at the time of a property’s resale to serve as evidence that the sale was conducted in compliance with state law.
+“Currently in Massachusetts, there is no statute of limitations for when a title can be disputed, which can place owners of foreclosed properties in a very precarious position when they attempt to sell or refinance their home,” said Representative Kane.
+“This bill helps to provide more clarity and certainty to homeowners who purchased properties in good faith, while also protecting the rights of previous mortgage holders to stake a claim on the title.” An estimated 16,000 to 20,000 Massachusetts property owners who purchased homes that were foreclosed on have been unable to sell or refinance the property due to recent court rulings which found that the initial foreclosure process was improperly carried out.
+The House bill offers protections to the owner-occupants of foreclosed properties who remain in their homes while challenging the foreclosure proceedings.
+The bill also provides protections for homeowners who were foreclosed upon and have already vacated the property by allowing them to sue lenders for triple damages for violations of the state’s consumer protection laws governing unfair business practices.
+An additional provision included in the House bill requires the Attorney General, in collaboration with the Commissioner of Banks, to work with the foreclosure industry and stakeholders participating in foreclosure prevention, reduction or education programs to provide homeowners facing foreclosure and homeowners who were foreclosed upon with information on how the changes in the bill may impact them.
+The Attorney General’s office must submit a report to the House and Senate clerks no later than December 1, 2016, detailing the efforts made to notify potentially affected individuals.
+The House and Senate versions of the bill will now be subject to review by a six-member conference committee, which will work to reconcile the differences between the two bills and craft a compromise bill that will be sent to Governor Baker.
+###

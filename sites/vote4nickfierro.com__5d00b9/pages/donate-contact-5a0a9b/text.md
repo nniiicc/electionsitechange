@@ -1,0 +1,1 @@
+Doctor Nick Fierro ​ ​​ Independent State Senate District 10 Candidate Home Issues About Nick Donate& Contact Donation Button Contact me at VOTE4FIERRO@gmail.com Name Email Phone Subject Message Submit Donation Button   PAID for by Nick Fierro AUTHORIZED by Nick Fierro ​

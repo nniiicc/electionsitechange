@@ -1,1 +1,20 @@
-[]
+[
+"alt:/static/icons/payment-methods/americanexpress.svg|American Express",
+"alt:/static/icons/payment-methods/applepay.svg|Apple Pay",
+"alt:/static/icons/payment-methods/cashapp.svg|CashApp",
+"alt:/static/icons/payment-methods/discover.svg|Discover",
+"alt:/static/icons/payment-methods/googlepay.svg|Google Pay",
+"alt:/static/icons/payment-methods/jcb.svg|JCB",
+"alt:/static/icons/payment-methods/mastercard.svg|Mastercard",
+"alt:/static/icons/payment-methods/visa.svg|Visa",
+"img://ff2de2f24f617f8531f6.cdn6.editmysite.com/uploads/b/ff2de2f24f617f8531f6bb7d207d45eaa050f43acb7a8a261347b96e508609d6/Copy%20of%20VOTE_1773725653.png",
+"img://ff2de2f24f617f8531f6.cdn6.editmysite.com/uploads/b/ff2de2f24f617f8531f6bb7d207d45eaa050f43acb7a8a261347b96e508609d6/Screenshot%202024-07-24%20113631_1722756548.png",
+"img:/static/icons/payment-methods/americanexpress.svg",
+"img:/static/icons/payment-methods/applepay.svg",
+"img:/static/icons/payment-methods/cashapp.svg",
+"img:/static/icons/payment-methods/discover.svg",
+"img:/static/icons/payment-methods/googlepay.svg",
+"img:/static/icons/payment-methods/jcb.svg",
+"img:/static/icons/payment-methods/mastercard.svg",
+"img:/static/icons/payment-methods/visa.svg"
+]

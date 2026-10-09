@@ -30,4 +30,4 @@ Donate $10 Donate $25 Donate $50 Donate $100 Donate $250 Donate Your Time Join o
 Primary day is March 3rd, and we need your help.
 Add your name and contact information below to help James win: Paid for by Friends of James Whalen.
 Website designed by Express Lane Strategies .
-EN ES
+English Spanish

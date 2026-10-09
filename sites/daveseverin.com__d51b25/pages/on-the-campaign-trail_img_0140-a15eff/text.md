@@ -1,0 +1,1 @@
+Skip to content State Representative Dave Severin Paid for by Friends of Dave Severin Menu Meet Dave Photos News Volunteer Facebook Donate Previous Image Next Image img_0140 Posted on January 31, 2024 Full size 1920 × 1080 Post navigation Published in Photos Meet Dave Photos News Volunteer Facebook Donate State Representative Dave Severin Proudly powered by WordPress

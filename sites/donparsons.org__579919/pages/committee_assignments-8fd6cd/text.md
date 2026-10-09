@@ -1,0 +1,2 @@
+Home Committee Assignments Representative Parsons has been a Republican member of the Georgia House of Representatives since 1995.
+He currently serves as: • Chairman of the House Energy, Utilities and Telecommunications Committee. • Member of the Appropriations Committee, Ways & Means Committee • Member of the Health & Human Services Committee • Member of the Rural Development Council • Member of the General Assembly Fiscal Affairs Committee • Member of the Joint House-Senate Study Committee on electrification of transportation Home

@@ -20,4 +20,4 @@ Her leadership on mental health, economic justice, public schools, and healthcar
 Sheila Schuster Longtime Frankfort watchdog and mental health advocate Learn more about Lisa's Leadership Download map of House District 35 Questions or support?
 Reach out anytime. lisaforkyhouse@gmail.com Office: 502-564-8100 Cell: 502-599-7289 © #.
 All rights reserved.
-Paid for by Lisa Willner for State Representative Volunteer Request Yard Sign About Lisa's Leadership Contact Donate Privacy
+Paid for by Lisa Willner for State Representative Request Yard Sign Privacy Policy Terms & Conditions Text Opt In About Lisa's Leadership Contact Donate Volunteer

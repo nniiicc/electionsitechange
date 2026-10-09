@@ -1,0 +1,4 @@
+FOR IMMEDIATE RELEASE Contact: info@odiosoforohio.com July 7, 2023 Mike Odioso Launches Campaign for the Ohio Statehouse Green Township, OH — Longtime conservative activist and community leader Mike Odioso announced his candidacy for the Ohio House of Representatives from the 30th District on Wednesday.
+A lifelong educator, licensed attorney, and the current President of the Green Township Republican Club, Odioso released the following statement to supporters, "I deeply care about our community and I hope to bring our shared conservative principles to the Ohio Statehouse.
+Throughout this campaign, I'll reach voters all across the region to share my vision of a district that continues to be a safe and vibrant place to live, work, and raise a family.
+I hope to earn your vote and I ask you to join me in this fight." ### odiosoforohio.com | info@odiosoforohio.com PAID FOR BY MIKE ODIOSO FOR OHIO

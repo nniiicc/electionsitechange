@@ -9,7 +9,7 @@ Reply “STOP” to opt out.
 Reply “HELP” for assistance.
 Mobile opt-in data will not be shared with 3rd parties.
 See our Privacy Policy and Terms here .
-Joe Males Running to bring Leadership & Commonsense Solutions to Washington for the people of the Inland Empire and Imperial County.
+JOIN Joe Males Running to bring Leadership & Commonsense Solutions to Washington for the people of the Inland Empire and Imperial County.
 SUPPORT JOE About Joe Males Joe Males is a Marine Veteran, small business-owner, city council member, and most importantly, a father.
 Throughout his life, he has put service to his community at the forefront of his life’s mission.
 Shortly after turning 18, Joe enlisted in the Marine Corps.
@@ -33,6 +33,6 @@ Reply “STOP” to opt out.
 Reply “HELP” for assistance.
 Mobile opt-in data will not be shared with 3rd parties.
 See our Privacy Policy and Terms here .
-CONNECT Facebook-f X-twitter Instagram Paid for by Males for Congress Use of Joe Males’ military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
+Sign Up Now CONNECT Facebook-f X-twitter Instagram Paid for by Males for Congress Use of Joe Males’ military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
 Privacy Policy JOIN THE FIGHT FOR A STRONGER CA-25!
-Donate Today
+Donate Today JOIN THE FIGHT FOR A STRONGER CA-25!

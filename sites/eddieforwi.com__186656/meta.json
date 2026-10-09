@@ -1,9 +1,12 @@
 {
  "description": "Eddie Phanichkul is running for Wisconsin State Assembly District 63, representing Franklin and Caledonia. Join the campaign — volunteer, donate, and make your voice heard in the August 2026 primary and November 2026 general election.",
  "final_url": "https://www.eddieforwi.com/",
- "fingerprint": "d47a6dba1686051b5748688e6fa88b301fe1a24b",
+ "fingerprint": "f2f95761b6f06472c45be82dbe47f0e142b3ee77",
  "format": 3,
- "paid_for_by": "",
- "title": "Eddie For Wisconsin AD63",
- "years_mentioned": []
+ "paid_for_by": "paid for by Friends of Eddie For Wisconsin",
+ "rendered": true,
+ "title": "Eddie Phanichkul for Wisconsin State Assembly District 63",
+ "years_mentioned": [
+  "2026"
+ ]
 }

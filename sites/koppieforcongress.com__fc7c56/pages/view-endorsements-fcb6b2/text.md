@@ -1,4 +1,4 @@
-Meet Chad Issues News Volunteer Contribute Endorsements In April 2026, Chad was endorsed by Walter Adamczyk, a 2023 candidate for alderman, in Chicago's 29th Ward.
+Volunteer Contribute Endorsements In April 2026, Chad was endorsed by Walter Adamczyk, a 2023 candidate for alderman, in Chicago's 29th Ward.
 In March 2026, Chad was endorsed by Bill Leubscher, a former executive director of the ICRC.
 In Feb.
 2026, Chad was endorsed by Jon Zahm, a former chairman of the Illinois Center Right Coalition.
@@ -28,4 +28,4 @@ On April 26, Chad and James endorsed each other.
 Chad Koppie was endorsed by Allison Salinas, a former U.S.
 Senate candidate.
 Chad Koppie is a true leader.
-Example Endorsement Click here to add your endorsement Voter Information Endorsements Contact Committee to Elect Chad Koppie Powered by CampaignPartner.com - Political Campaign Websites Home Meet Chad Issues Endorsements Contribute Volunteer News Events Contact Voter Information Close Menu
+Example Endorsement Click here to add your endorsement Voter Information Endorsements Contact Committee to Elect Chad Koppie Powered by CampaignPartner.com - Political Campaign Websites Home Endorsements Contribute Volunteer Events Contact Voter Information Close Menu

@@ -1,6 +1,18 @@
 Issues Propositions News Guiding Principles About Contact Us Why Am I Running?
 Meet Arthur Yard Signs Volunteer Contribute News Check this page for news related to my campaign and California races in general.
-Night Market Booth 7 Oct Wednesday, 12:52 PM · 2026 Now, it is $20 per fill-up - Californina tax on fuel If you read my nearby Issues - Gas Tax reports, you will see I talk about an extra $16 per fill-up in California.
+Night Market Booth 8 Oct Thursday, 11:47 AM · 2026 Ballots Have Dropped Your ballot has been mailed.
+Now, you have a voice.
+Please vote as early as you can and simply return your ballot by US mail.
+Some prefer to wait until Nov 3, visit their polling precinct, and physically drop their ballot off as if voting old school.
+Participating in that ritual is very satisfying for many of us.
+If not for you, then mail as soon as you can.
+See my nearby Propositions recommendations for the statewide and RMT propositions.
+As for the statewide candidates, I can only say to "send new people and new ideas" to Sacramento.
+For your Congressional races, hasn't your Congressman had enough time to do something?
+For judges, I have no suggestion other than to look up each one for more information.
+There is no rule that you have to vote for every item.
+Please do not let that effort block you from voting at all.
+7 Oct Wednesday, 12:52 PM · 2026 Now, it is $20 per fill-up - Californina tax on fuel If you read my nearby Issues - Gas Tax reports, you will see I talk about an extra $16 per fill-up in California.
 Well, according to AAA, the difference between our fuel and the national average is now $2 per gallon for gas and $2 for diesel.
 So, now, everytime you fill up your tank, you are sending an extra $20 to the State government, not for road repair but to pay for many things you were never asked to pay for.
 Enough is enough.

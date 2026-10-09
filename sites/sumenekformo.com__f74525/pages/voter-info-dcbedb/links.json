@@ -48,16 +48,12 @@
 "href": "https://store.sumenekformo.com"
 },
 {
-"text": "Missouri Secretary of State’s registration check page",
-"href": "https://voteroutreach.sos.mo.gov/portal/"
-},
-{
-"text": "Missouri Secretary of State’s registration page",
-"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
-},
-{
 "text": "Missouri Secretary of State’s voter ID information page",
 "href": "https://www.sos.mo.gov/voterid"
+},
+{
+"text": "November Ballot Info",
+"href": "https://www.sumenekformo.com/november-ballot-info"
 },
 {
 "text": "PRIVACY POLICY",
@@ -72,8 +68,12 @@
 "href": "https://www.sumenekformo.com/press"
 },
 {
-"text": "St. Louis County Board of Elections",
+"text": "St. Louis County Board of Elections website",
 "href": "https://stlouiscountymo.gov/st-louis-county-government/board-of-elections/"
+},
+{
+"text": "St. Louis County Democrats website",
+"href": "https://stldems.org/vote"
 },
 {
 "text": "THE DISTRICT",

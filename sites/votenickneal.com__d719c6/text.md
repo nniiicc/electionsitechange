@@ -41,5 +41,6 @@ I’ll fight to ensure: Local communities receive their fair share of infrastruc
 Economic Development in Every Community Opportunity shouldn’t be limited to city borders.
 I want every town and neighborhood in District 19 — from Crown Point to Hobart to Wheeler — to benefit from Northwest Indiana’s economic growth.
 I’ll support: Investment in local small businesses Workforce training and apprenticeships Entrepreneurship development Partnerships with unions, community colleges, and industry Transparent economic incentives that generate real, local jobs When we invest in people, we strengthen our entire region — not just a wealthy few.
-Endorsements Indiana AFL-CIO USW - District 7 American Federation of Teachers - Indiana Crown Point Democrats Hobart Democrats Congressman Frank Mrvan Lake County Commissioner Kyle Allen Lake County Prosecutor Bernard Carter Planned Parenthood Alliance Advocates Indiana Reproductive Freedom Pac Moms Demand Action - Gun Sense Candidate Distinction Indivisible NWI Indiana Young Democrats Lake County Indiana Young Democrats Get Involved View fullsize Join Us Join Us Paid for by the Campaign to Elect Nick Neal P.O.
+Endorsements Thank you for your support!
+Get Involved View fullsize Join Us Join Us Paid for by the Campaign to Elect Nick Neal P.O.
 Box 1141, Crown Point, IN 46308

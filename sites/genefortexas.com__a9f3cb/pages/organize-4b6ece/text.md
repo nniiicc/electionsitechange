@@ -36,7 +36,7 @@ Public Listed on our events page so anyone can find it and RSVP.
 Unlisted Not listed anywhere — you get a private link to share with your own people.
 Our team confirms this when we approve your event — tell us if you'd rather keep your address private.
 Your first name Your last name Email Mobile (optional) Propose my event → We'll review your proposal and email you back — usually within a couple of days.
-You're not alone Join the 3,465 neighbors already in.
+You're not alone Join the 3,466 neighbors already in.
 This campaign is powered by neighbors across Southwest Houston — not consultants.
 Your name belongs on this list.
 Pass it on Know someone who'd be great?

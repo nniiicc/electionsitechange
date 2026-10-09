@@ -9,7 +9,7 @@ Teachers should decide how best to teach subjects and not be restricted by legis
 As your state representative my views on all major issues facing the state will be listed on this site.
 NEWS Vote for Bill and the two Dons The following letter to the editor was published in the Sept 29, 2026 edition of the Laconia Daily Sun.
 It suggests voters in Belmont, Sanbornton, and Tilton should vote for Don House, Don Giguere, and Bill Lawrence on November 3, 2026.
-#ago 1 min read Don House participates in Sept 2 Candidate Forum All candidates for Belmont County District 4 and 8 were invited to a candidate forum on September 2, 2026 at the Belmont High School in Belmont, NH.
+Sep 29 1 min read Don House participates in Sept 2 Candidate Forum All candidates for Belmont County District 4 and 8 were invited to a candidate forum on September 2, 2026 at the Belmont High School in Belmont, NH.
 Candidates were asked questions submitted by voters that attended the forum.
 The forum was sponsored by Citizens for Belknap County and the NH League of Women Voters.
 Three democrat and three republican candidates were invited to attend but only the democrats showed up.

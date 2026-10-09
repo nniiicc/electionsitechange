@@ -1,5 +1,22 @@
 Home Meet Scott 認識威善高 Priorities ENDORSEMENTS ENDORSEMENTS Scott's MAGA Fan Club News MEDIA Volunteer SHOP DONATE IN THE News For all media inquiries, email Joe Arellano, Communications Director, at press@scottwiener.com .
 FEATURED ARTICLE Ezra Klein Interviews Scott Wiener If California has long been a bellwether for national liberal politics, Senator Scott Wiener has been something of a bellwether for California politics.
+READ MORE > September 28, 2026 Scott Wiener spent years rewriting California housing law.
+What does he have to show for it?
+When one of state Sen.
+Scott Wiener’s first major housing bills died in its first committee hearing in 2018, the logical option would have been for the lawmaker to retreat after such a resounding loss.
+READ MORE > September 26, 2026 Endorsement: Who should replace Nancy Pelosi in Congress?
+It’s not even a choice The most intriguing thing about the race to fill retiring Speaker Emerita Nancy Pelosi’s House seat is that it has become a race at all.
+On paper, the choice between state Sen.
+Scott Wiener and Supervisor Connie Chan should be one of the easiest decisions San Franciscans have to make in the November general election.
+READ MORE > September 21, 2026 Scott Wiener was right about AI all along The state senator’s early warnings about artificial intelligence look prophetic now — and it’s just one reason he should be headed to Washington.
+READ MORE > September 13, 2026 Sen.
+Scott Wiener behind innovative laws that have both fans and critics galore State Sen.
+Scott Wiener finished the recent legislative session with 10 bills he authored being sent to Gov.
+Gavin Newsom for possible signing, including his No Kings Act, a first-in-the-nation bill to let people sue federal agents for alleged violations of their constitutional rights.
+READ MORE > September 2, 2026 SF: Lawmakers, Community Groups Look For Further Immigration Enforcement Accountability State Sen.
+Scott Wiener, D-San Francisco, stood with a former U.S.
+Immigration and Customs Enforcement detainee and several advocacy groups on Tuesday in San Francisco to pressure Gov.
+Gavin Newsom to sign a bill that would let people sue individual federal officials in state court for alleged violations of their constitutional rights.
 READ MORE > April 29, 2026 Editorial: Elect Scott Wiener to Congress Gay state Senator Scott Wiener is the best choice for voters in San Francisco’s 11th Congressional District, which includes most of the city.
 READ MORE > April 24, 2026 Scott Wiener’s congressional campaign strategy: 5 house parties a week Scott Wiener is out to win San Francisco’s voters over, one living room at a time READ MORE > April 22, 2026 Guest Opinion: Why we’re supporting Wiener for Congress San Francisco’s LGBTQ community has always been in a fight for its life.
 READ MORE > April 10, 2026 The Supreme Court ruled against conversion therapy bans.

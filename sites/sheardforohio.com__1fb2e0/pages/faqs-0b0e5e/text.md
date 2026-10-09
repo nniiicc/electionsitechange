@@ -1,4 +1,4 @@
-Home About Endorsements Donate Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness FAQs Contact Frequently Asked Questions: Wenda Sheard for Ohio House District 94 Candidate: Wenda Sheard (Democrat) Office: Ohio House of Representatives, District 94 (Meigs and Washington counties, plus the outskirts of Athens County) Election: November 3, 2026 Information current as of: October 3, 2026 Getting to Know Her 1.
+Home About Problems, Issues & Solutions Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness Endorsements Donate FAQs Contact Frequently Asked Questions: Wenda Sheard for Ohio House District 94 Candidate: Wenda Sheard (Democrat) Office: Ohio House of Representatives, District 94 (Meigs and Washington counties, plus the outskirts of Athens County) Election: November 3, 2026 Information current as of: October 3, 2026 Getting to Know Her 1.
 Who is Wenda Sheard and why is she running?
 Sheard is a Democrat running for the Ohio House in the November 3, 2026 election.
 Sheard believes the real divide in politics isn’t left versus right; it’s billionaires and their large corporations against the rest of us..
@@ -167,4 +167,4 @@ How can I reach Wenda Sheard, and will she hold town halls?
 Her cell phone number is 740-818-1845.
 (She doesn’t answer numbers she doesn’t know, so text her first and she’ll call back.) Her campaign email is FriendsofWendaSheard@gmail.com.
 If elected, Sheard will hold town halls and spend most of the legislature’s recess time in the district, listening to voters in all three counties.
-Home About Endorsements Donate Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness FAQs Contact
+Home About Problems, Issues & Solutions Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness Endorsements Donate FAQs Contact

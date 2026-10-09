@@ -1,0 +1,14 @@
+April 27, 2026 CONTACT: Info@electarrasimmons.com Governor Bob Ferguson of Washington State endorses State Representative Tarra Simmons for Reelection A vote of confidence from Washington’s highest office Bremerton, WA – Washington State Governor Bob Ferguson endorses State Representative Tarra Simmons in her 2026 reelection campaign for the 23rd Legislative District.
+This endorsement from Washington’s highest office reflects the strength of Representative Simmons’ record in Olympia and the trust she has earned heading into this election.
+“I'm proud to stand with Representative Tarra Simmons and endorse her for re-election.
+Tarra and I have worked closely to expand access to affordable healthcare and lower costs for working families.
+She is an essential voice for all of us in helping build a healthier, more equitable future for everyone.” Bob Ferguson, Washington State Governor “Governor Ferguson has been a role model of mine since my law school days, getting to work with him on expanding Charity Care when he was Attorney General has been one of the great privileges in my career.
+I am incredibly honored by the Governor’s endorsement and remain grateful for his support." - Representative Tarra Simmons With his endorsement, Governor Ferguson joins 5 labor unions, including Kitsap County Central Labor Council and Kitsap Fire Fighters Union (IAFF local 2819), Port Gamble S’Klallam Tribe and 35 colleagues in the Washington State Legislature.
+About Representative Tarra Simmons Tarra Simmons is a lawyer, a civil rights activist, and a national leader in the fight for criminal justice reform.
+Raised in Bremerton, she has faced some of the biggest barriers to success and opportunity — from poverty, to opioid use disorder and incarceration.
+It was with the help of this community — friends, family, colleagues and neighbors — that she was able to overcome these circumstances and become a tireless advocate for change.
+She was first elected to the state House of Representatives in November 2020, where she currently serves as Deputy Speaker Pro Tempore, vice chair of the Committee on Community Safety and as a committee member on Health Care & Wellness, as well as Technology, Economic Development & Veterans.
+Representative Simmons’s collaborative advocacy and constituent service in Olympia has been covered extensively in local and national media.
+Most recently, Truthout reported on her successful efforts to expand housing assistance and restore voting rights for qualifying formerly incarcerated individuals.
+Locally, outlets from the Seattle Times to the Kitsap Sun and PubliCola have published articles, letters to the editor and guest columns on her work to block corporate tax breaks during an affordability crisis, reform resentencing procedures and focus limited budget resources to best protect access to food, housing and healthcare.
+Learn more at electtarrasimmons.com.

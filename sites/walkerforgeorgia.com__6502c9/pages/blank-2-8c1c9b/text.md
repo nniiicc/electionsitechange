@@ -4,7 +4,7 @@ In 1996, he founded Walker Insurance Agency, where he continues to serve as Pres
 His experience as a small business owner shaped his understanding of what it takes to create opportunity, strengthen local economies, and support working families across Middle Georgia.
 Faith and family are at the center of Larry's life.
 He and his high school sweetheart, Adrienne, have been married for over 40 years.
-Together, they raised three sons—Ben, Cody, and Wade- and are proud grandparents.
+Together, they raised three sons—Ben, Cody, and Wade and are proud grandparents.
 Active members of Perry Methodist Church and longtime participants in community service through the Perry Rotary Club and other local organizations, the Walkers are deeply invested in the people and communities they call home.
 First elected to the Georgia Senate in a 2015 special election, Larry has earned a reputation for building consensus, delivering results, and championing meaningful legislative victories.
 In 2026, he was unanimously elected President Pro Tempore of the Georgia Senate, the highest leadership position for/as a senator.

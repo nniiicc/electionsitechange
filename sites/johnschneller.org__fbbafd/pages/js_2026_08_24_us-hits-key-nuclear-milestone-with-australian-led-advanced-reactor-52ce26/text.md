@@ -11,5 +11,5 @@ Natural gas will provide a decadal bridge to broad implementation of this techno
 Feasibility, economics and common sense are creating the clear momentum behind this reality.
 Picture is Secretary Wright in the Trump Administration who is committed to an all-of-the above plan, not just as a talking point, but as a LET’S GET IT DONE STRATEGY!!!
 Pictured at left, Rep Schneller with Chris Wright, United States Secretary of Energy Read more… US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

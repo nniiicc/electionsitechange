@@ -1,7 +1,7 @@
-Official Campaign Website of Monica Alponte for Congress Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS More Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS America FIRST • End the WARS!
-America FIRST • End the WARS!
-America FIRST • End the WARS!
-America FIRST • End the WARS!
+Official Campaign Website of Monica Alponte for Congress Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS More Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS America FIRST 🇺🇸 End the WARS!
+America FIRST 🇺🇸 End the WARS!
+America FIRST 🇺🇸 End the WARS!
+America FIRST 🇺🇸 End the WARS!
 VOICE FOR PEACE & LIBERTY DONATE ISSUES NEAR & DEAR: Fiscal Sanity • Prosperity • Parental Sovereignty • Free Speech • Pro-2A • Property Rights • Seniors, Vets, Disabled • Compassionate Animal Stewardship • PEACE & Non-Intervention • Reject AIPAC • End Foreign Lobbying • Overturn Citizens United • Secure Border • End Incentives for Illegal Immigration Anti-Zionist PAC (AZAPAC) is a political action committee focused on ending U.S. military and financial aid to foreign entities and opposing Zionist politicians who serve Israel over the United States, draining American resources, undermining U.S. sovereignty and running counter to the interests of the American people.
 VOTE PEACE & LIBERTY The Libertarian Party is the party most ideologically aligned with the Founding Fathers and the Constitution.
 We are the spiritual descendants of Thomas Jefferson and James Madison—defenders of Peace, Liberty, and Limited Government.

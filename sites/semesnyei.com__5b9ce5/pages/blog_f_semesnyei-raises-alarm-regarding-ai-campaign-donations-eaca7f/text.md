@@ -1,0 +1,11 @@
+contribute today to help bring transparency and accountability to Massachusetts!
+Home About Ted Priorities Sign Up/Contact Donate Events News More Home About Ted Priorities Sign Up/Contact Donate Events News Home About Ted Priorities Sign Up/Contact Donate Events News campaign news Blog All Posts SEMESNYEI RAISES ALARM REGARDING AI CAMPAIGN DONATIONS September 30, 2026 FOR IMMEDIATE RELEASE September 30, 2026 Contact: For more information Phone (978) 500 1526 or tsemesnyei@verizon.net Press Release: SEMESNYEI RAISES ALARM REGARDING AI CAMPAIGN DONATIONS TO STATE SENATOR BARRY FINEGOLD (Amesbury, MA) – Following reports that Anthropic employees are on a "spending spree" to support political campaigns for lawmakers tasked with negotiating AI regulations, Ted Semesnyei's campaign released the following statement: "How government treats artificial intelligence has become a leading issue in this election cycle and for the public writ large.
+That's why it is concerning to read reports that Massachusetts lawmakers tasked with negotiating consequential AI legislation are being flooded with money from employees for companies like Anthropic.
+My opponent, sitting state Senator Barry Finegold is among other Beacon Hill leaders that have taken in nearly $10,000 from Anthropic employees, many of who live outside of Massachusetts.
+He has taken more donations, in fact, from California-based Anthropic workers than individual donations from six of the seven communities in the district he claims to represent.
+Yes, that same Anthropic company that a whistleblower claims could be building dangerous products with the potential to end humanity.
+Is this part of a combined effort to let Anthropic write the rules of the road?
+As a candidate for the 2nd Essex and Middlesex District, I believe voters deserve to know who is helping finance the people writing these rules.
+Who is State Senator Barry Finegold actually working for and looking to represent?" Share this post: Recent Posts Our Out of Touch Opponent Oct 1, 2026 Who is Actually Looking to Represent District Voters?
+Sep 18, 2026 It's Official: We are Number 1!
+Aug 23, 2026 Semesnyei for MA Senate Paid for by the Committee to Elect Ted Semesnyei

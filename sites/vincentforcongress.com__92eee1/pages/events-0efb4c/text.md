@@ -1,13 +1,5 @@
 Skip navigation menu Home About News Events Issues Endorsements Volunteer Official Store Donate Home About News Events Issues Endorsements Volunteer Official Store Donate Join Us Upcoming Campaign Events W e can't wait to meet you at these Public Events.
 John also welcomes invitations to your club, church, or community event — just click here and provide the details.
-Join John at Annie Andrews Patients & Prices Tour - Bennettsville Meet & Greet Bennettsville, SC Address provided after sign up Come meet John at Dr.
-Annie Andrews Tour stop.
-RSVP Join John at Annie Andrews Patients & Prices Tour - Dillon Meet & Greet Dillon, SC Address provided after sign up Come meet John at Dr.
-Annie Andrews Tour stop.
-RSVP Join John at Annie Andrews Patients & Prices Tour - Little River Healthcare Town Hall C B Berry Community Center 2250 SC-179, Little River, SC 29566 Come meet John at Dr.
-Annie Andrews Tour stop.
-RSVP Join John at the Sweet Potato Festival Darlington Public Square Come meet John at the Darlington Sweet Potato Festival.
-Stop by our booth and say hello!
 Join John at FMU with the FMU College Democrats Francis Marion University Harris Auditorium Join John at Francis Marion University with the FMU College Democrats.
 Open to the public.
 NAACP 7th Congressional District Forum Waccamaw High School 2412 Kings River Rd., Pawleys Island, SC 29585 The Georgetown NAACP Candidate Forum will also be livestreamed.

@@ -102,12 +102,6 @@ Tripping on the rocky soil, splashing in the Darnit Brook, and staring up at vib
 In my adult life, there are few things that have brought me peace the way that driving through our lakes region, or recreating in its woods & bodies of water have.
 I want to protect these spaces for generations to come, while responsibly managing the industries that keep food on our tables and money in our communities.
 Today you can often find me taking advantage of the Western Foothills Land Trust ’s steadfast work in protecting our local environment, thanks to their conservation and stewardship of natural spaces in our communities.
-Community Needs & Perspectives Looking for more specific policy?
-I don’t mean to be vague in a way that leaves you feeling my positions are obscured from you - anything not specifically outlined are points that I have more abstract feelings on than hands-on experience.
-I would love to hear from you as I build out a community rolodex.
-I am not looking to make decisions singlehandedly based on my own ideas, but rather will rely on those with experience and knowledge to add to my understanding of these values as it relates to lawmaking.
-Do not hesitate to reach out via my contact page to lend me your perspective and help me with the nitty gritty.
-I personally am of the belief that conversation and the sharing of perspectives is what good representation relies on.
 Our Justice System & Protecting Girls I think it’s safe to day our justice system in Maine is broken.
 Eliot Cutler is finally returning to jail for only 73 more days after violating the terms of his probation 6 times since September of ‘25.
 This after serving only ~6 months (getting out early for good behavior) after investigators had found tens of thousands of images and videos of child sexual abuse material on Cutler's electronic devices.
@@ -124,6 +118,12 @@ No student should have to wonder if there is any recourse for comments or action
 Students should feel at ease in school, and pretending these problems don’t exist because we aren’t prepared to address them is an injustice felt deepest by those without a voice when it comes to policy.
 Our state should develop strong standards of respect by drawing from resident’s past harmful experiences, and create an oversight apparatus independent of the individual schools or unions as a resource to respond, record, track, and take action when students report harassment.
 As someone who is not hands on with these systems, I would seek guidance from citizens, relevant organizations, and those with law enforcement experience to develop solutions to these issues.
+Community Needs & Perspectives Looking for more specific policy?
+I don’t mean to be vague in a way that leaves you feeling my positions are obscured from you - anything not specifically outlined are points that I have more abstract feelings on than hands-on experience.
+I would love to hear from you as I build out a community rolodex.
+I am not looking to make decisions singlehandedly based on my own ideas, but rather will rely on those with experience and knowledge to add to my understanding of these values as it relates to lawmaking.
+Do not hesitate to reach out via my contact page to lend me your perspective and help me with the nitty gritty.
+I personally am of the belief that conversation and the sharing of perspectives is what good representation relies on.
 I understand the urgency of this time, and live with it everyday alongside you.
 That’s why, win or lose, I will be in Augusta fighting for our interests & bringing attention to the dire straits we are in.
 By electing me, your vote can move me beyond pleading with lawmakers, and grants me more power than many Americans see in their lifetimes - That is something I take very seriously.

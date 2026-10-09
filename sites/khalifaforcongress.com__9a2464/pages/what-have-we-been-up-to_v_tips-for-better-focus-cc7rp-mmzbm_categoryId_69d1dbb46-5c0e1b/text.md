@@ -8,4 +8,4 @@ My age isn’t a barrier, it’s a bridge.
 A bridge to new voters, new ideas, and new possibilities.
 So I’ll ask it again— why not us?
 And more importantly— why not now?
-Previous Aiken County Democratic Convention You Might Also Like Speaking at Mount Anna Baptist Church The Type Of Candidate I Am Speaking at Friendship Baptist Church Aiken County Democratic Convention 6th Annual Greek Fest Meet Zyon Khalifa Platform Volunteer Privacy Policy
+Previous Aiken County Democratic Convention You Might Also Like Aiken County Democratic Convention New Times Require New Leadership The Type Of Candidate I Am No Kings Rally 6th Annual Greek Fest Meet Zyon Khalifa Platform Volunteer Privacy Policy

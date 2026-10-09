@@ -13,7 +13,7 @@ I AM RUNNING TO GO TO WORK." Bernadette will represent everyone in Arizona’s 8
 READ HER STORY 01 WORK Respect the people who punch a clock, raise a family, run a business, and keep Arizona moving.
 02 FREEDOM Protect personal rights, retirement security, healthcare choices, and every family’s chance to get ahead.
 # ACCOUNTABILITY Elected officials should answer to the people, not party bosses, wealthy donors, or a lifetime in office.
-04 COMMON SENSE Secure the boarder without sacrificing humanity, cut waste, and focus on solutions that work in the real world.
+04 COMMON SENSE Secure the border without sacrificing humanity, cut waste, and focus on solutions that work in the real world.
 THE WORK AHEAD PRIORITIES FOR ARIZONA FAMILIES Bernadette will focus on the kitchen-table issues that decide whether working people can build a good life and retire with dignity.
 AZ AN ECONOMY THAT WORKS FOR EVERYONE Lower costs for Arizona families by supporting good-paying jobs, strengthening small businesses, and promoting practical policies that grow our economy.
 Learn More SS PROTECT SOCIAL SECURITY & MEDICARE Keep the promises workers paid for, lower prescription costs, and strengthen Medicare instead of cutting earned benefits.

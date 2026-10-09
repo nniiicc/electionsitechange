@@ -1,4 +1,4 @@
-top of page Document HOME MEET HANNAH BETH THE ISSUES GET INVOLVED Privacy Policy for Hannah Beth Rivera for State Representative At Hannah Beth Rivera for State Representative, accessible from https://www.DOMAIN.com/ one of our main priorities is the privacy of our visitors.
+top of page Document HOME MEET HANNAH BETH THE ISSUES GET INVOLVED Privacy Policy for Hannah Beth Rivera for State Representative At Hannah Beth Rivera for State Representative, accessible from https://www.hannahbethriveraforky.com/ one of our main priorities is the privacy of our visitors.
 This Privacy Policy document contains types of information that is collected and recorded by Hannah Beth Rivera for State Representative and how we use it.
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in the Hannah Beth Rivera for State Representative.
@@ -24,6 +24,11 @@ Thus, we are advising you to consult the respective Privacy Policies of these th
 It may include their practices and instructions about how to opt-out of certain options.
 You can choose to disable cookies through your individual browser options.
 To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+Third-Party Services Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
+Except as otherwise stated in this Privacy Policy, we don’t sell, trade, rent, or otherwise share for marketing purposes your Personal Information with third parties without your consent.
+Our website may contain links to third-party websites or services.
+We are not responsible for the privacy practices or content of such third parties.
+We encourage you to review the privacy policies of those third parties when accessing their websites or services.
 CCPA Privacy Rights (Do Not Sell My Personal Information) Under the CCPA, among other rights, California consumers have the right to: Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
 Request that a business delete any personal data about the consumer that a business has collected.
 Request that a business that sells a consumer's personal data, not sell the consumer's personal data.

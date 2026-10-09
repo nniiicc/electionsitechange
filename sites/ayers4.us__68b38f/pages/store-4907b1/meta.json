@@ -1,9 +1,10 @@
 {
- "description": "Visit the Avery Ayers campaign store and help carry the campaign message across Texas.",
+ "description": "Shop the Mr. Avery doll for $39.99 in the Avery Ayers campaign store.",
  "final_url": "https://ayers4.us/store",
- "fingerprint": "51fd20b23fe6a9873389e042c429d85b2e5e7351",
+ "fingerprint": "e448748d8db75e6d05bc0cc8de6e45427f110859",
  "format": 3,
  "paid_for_by": "Paid for by the Avery Ayers campaign committee",
+ "rendered": false,
  "title": "Campaign Store | Avery Ayers for U.S. Senate",
  "years_mentioned": []
 }

@@ -1,0 +1,5 @@
+0 Skip to Content No Party Just People Home My Story Where I Stand Where I Stand Stances Statements Campaign Endorsements Transparency Events Contact Us Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Where I Stand Stances Statements Campaign Endorsements Transparency Events Contact Us Donate Open Menu Close Menu Home My Story Folder: Where I Stand Back Where I Stand Stances Statements Folder: Campaign Back Endorsements Transparency Events Contact Us Donate Back to All Events Virtual Town Hall (Where I Stand Recap) Wednesday, October 14, 2026 7:00 PM 8:00 PM Google Calendar ICS Join me for a virtual Town Hall.
+This is an open conversation, while I have a general discussion topic we may discuss any subject you'd like.
+Keep your criticism constructive and your questions polite and we will get along very well.
+The event will take place on my youtube livestream pasted below.
+Oct 14, 7:00 PM EST https://youtube.com/live/YlDT02fle8U?feature=share Previous Previous October 8 Meet the Candidates Forum (Grayling)

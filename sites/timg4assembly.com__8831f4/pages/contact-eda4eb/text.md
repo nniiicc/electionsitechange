@@ -1,0 +1,1 @@
+Contact Information via email at: tim@timg4assembly.com Mailing Address: Phone: 408-234-4797 FPPC#1446099 HOME PAGE MEET TIM THE ISSUES CONTRIBUTE CONTACT Paid for by: Tim Gorsulowsky for Assembly 2022 - ID# 1446099   ​​ VOTE FOR NEW LEADERSHIP PrivacyPolicy

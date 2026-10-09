@@ -11,6 +11,6 @@ At the state level, he spent many years working in emergency management and envi
 In the General Assembly, DeCaprio currently serves on the Appropriations where he believes in responsible budgeting, Judiciary, Public Safety & Security and Veteran Affairs Committees.
 “In Hartford, I’ve worked hard to stand up for our veterans, strengthen public safety, and push back against policies that drive up costs and utility bills,” DeCaprio said.
 “If I’m honored to be re-elected, I’ll continue fighting every day for lower costs, safer communities, and a stronger future for Bozrah, Colchester, Franklin, and Lebanon.” DeCaprio is seeking re‑election to continue bringing experienced, local leadership to Hartford and to keep fighting for lower costs, safer communities, and a stronger future for the 48th District.
-### SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+### Recent Posts See All Mark DeCaprio Endorsed by Fraternal Order of Police Mark DeCaprio Endorsed by the Independent Party Mark DeCaprio endorsed by CT Realtors SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 Home About News Values Get Involved Contact Paid for by DeCaprioCT48th.
 Amy Messier Lounsbury, Treasurer Approved by Mark DeCaprio Mark@D eCaprio4CT48th.com ​ Tel: 860-287-6226 bottom of page

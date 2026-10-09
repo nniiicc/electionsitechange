@@ -3,16 +3,15 @@ Return to shop DONATE DONATE PROVEN LEADERSHIP Keeping Our Community Safe Protec
 The campaign has been knocking doors in Pittston Township, Hughestown and West Pittston this past week.
 We now have hit doors in all nineteen towns in the 118th district.
 Now we start our second pass to even more doors.🚪 ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 116 Shares: 6 Comments: 16 16 Comments Comment on Facebook So impressive, Jim.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 171 Shares: 6 Comments: 21 21 Comments Comment on Facebook So impressive, Jim.
 Stop by.
 Mae and Winnie are expecting you, and I’ll put on the coffee - or the kettle!
 How come your not picking mushrooms ??
-Bravo keep up the good work ,Lavoro, Jim.
-View more comments Agriculture is Pennsylvania’s biggest industry.
+Please stop by my house sir View more comments Agriculture is Pennsylvania’s biggest industry.
 I am proud to receive the endorsement from farmers and dairymen across the state for my 💯 percent voting record on farm issues.
 Farmer is the PAC that represents legislative side of the Farm Bureau of Pennsylvania.
 They know I work for them every day. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 77 Shares: 9 Comments: 5 5 Comments Comment on Facebook Congratulations!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 79 Shares: 11 Comments: 5 5 Comments Comment on Facebook Congratulations!
 They are a great group congrats Congratulations!
 Jim we have your back!
 View more comments To the Friends of Jim Haddock please keep these important elections dates!
@@ -45,7 +44,7 @@ If you have one saved from the primary please place it out.
 Our crews will be out and about delivering signs to the Friends of Jim Haddock who are on the list!
 If you would like a sign please send an instant message and we will deliver one!
 I thank you in advance for all the support. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 72 Shares: 13 Comments: 21 21 Comments Comment on Facebook You got it my friends!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 72 Shares: 13 Comments: 22 22 Comments Comment on Facebook You got it my friends!
 Go Jimmy!
 MY TWO HAVE BEEN IN MY PROPERTY A LITTLE WHILE NOW.
 View more comments Load more Home About Jim Issues Get Involved Upcoming Events DONATE Search for: Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE Login Newsletter

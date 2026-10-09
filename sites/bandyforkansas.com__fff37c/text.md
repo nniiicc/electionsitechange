@@ -13,7 +13,7 @@ With that commonsense approach, we will create the policies, systems, and progra
 A vote for the Republican candidate is a vote for the Speaker of the House, regardless of their good intentions.
 I will not go to Topeka to take orders from party leadership.
 I will go to Topeka to be your representative.
-A Strong Foundation A state is only as strong as its foundation.
+House District 67 A Strong Foundation A state is only as strong as its foundation.
 A strong economy, a robust healthcare system, and quality public schools should command our attention now and into the future.
 I Value: Community and Family Independence and Accountability Hard Work.
 Compassion.

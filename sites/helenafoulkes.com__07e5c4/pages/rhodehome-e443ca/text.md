@@ -1,0 +1,118 @@
+The Rhode Home Program: Increasing Supply and Making Housing Affordable for all Rhode Islanders For years, Rhode Island had a competitive advantage over other states in southern New England because we were a more affordable place to buy a house, raise a family, and build a good, middle-class life.
+But with exploding home prices and rising rents, our state is increasingly becoming unaffordable.
+When I talk to Rhode Islanders, they always tell me how much they love this state and how much they like living here.
+And then in almost any room, I also hear frustration that the cost of buying a house or renting an apartment is making it harder and harder to stay.
+Everywhere I go, I meet parents whose adult children still live at home, simply because finding an affordable place to rent or buy is too difficult.
+We can’t be a state where it is increasingly difficult to afford rent, much less to afford that first starter home.
+I always think about the first house my dad bought, where my siblings and I grew up.
+At the time in 1963, he was making $10,000 per year, and that house cost $20,000.
+Now, the median household income in Rhode Island is $87,796 and the median home sale price is $524,900.
+It’s a stark example of how that same path to financial security—the ability to build a good life—is slipping further and further out of reach.
+Housing is expensive because demand is greater than supply—which is why Rhode Island needs a governor who is focused on building the tens of thousands of units needed to increase the supply of homes that Rhode Islanders can afford.
+If we want Rhode Island to thrive, we need to build the homes and apartments where young families and working people—from teachers to firefighters to welders to electricians to nurses—can afford to live.
+The General Assembly has done a good job of passing laws that make it easier to build, but Rhode Island ranks 50th in the nation in new housing starts.
+To get shovels in the ground at the scale needed to increase supply, we need executive leadership who will make it happen.
+That’s why I’m excited to announce the housing plan that I will undertake as governor: a billion-dollar revolving loan fund that will attract builders and spur the construction of over 20,000 homes and apartments that Rhode Islanders can afford, paid for with a marginal tax increase on the wealthiest among us.
+This is an ambitious plan, but the cost of housing in Rhode Island has hit a crisis point, and it will require ambitious, competent leadership to address it.
+I look forward to getting to work.
+HBF26004 PAID FOR BY HELENA FOR RI An All-of-the-Above Strategy to Build More Housing Rhode Island is in a housing-affordability crisis.
+Home prices have soared, rents have gotten out of control, young and old families alike are increasingly unable to afford their housing costs, and our supply of housing units has completely failed to keep up with demand.
+It is no surprise, then, that more than 90% of Rhode Islanders believe housing costs are a serious problem—and more than half of Rhode Islanders believe it’s the most important issue facing the state.
+At a time when a third of Rhode Island households pay more than one-third of their income toward housing costs, our state needs decisive leadership committed to tackling this issue with the urgency it demands.
+We need to build more homes of all kinds, lower the costs of owning and renting, protect tenants from being taken advantage of, and support families young and old.
+Our plan is focused on building as many new housing units as quickly as possible to increase the supply of available homes and apartments and drive down the cost for Rhode Islanders.
+We aren’t building houses quickly enough.
+In 2024, Rhode Island added fewer than 1,000 housing units.
+According to RIPEC, Rhode Island will require 24,000 additional units in order to close the housing supply gap and make homes more affordable for people of all income levels.
+Given the severity of the housing crisis facing our state, we need to take an all-of-the-above approach to building more homes and apartments and improving affordability for all Rhode Islanders.
+This means more funding, less red tape, and a governor focused on ensuring everyone in Rhode Island can actually afford to live here.
+Some of the proposals in this plan are easy fixes to streamline administrative processes and reduce barriers to building, while others are capital-intensive proposals to incentivize construction.
+By increasing the number of housing units, we will make Rhode Island more affordable for our people and more attractive for businesses to grow and invest here.
+A MILLIONAIRE’S TAX FOR HOUSING We need more housing that families can afford immediately, and at a time when the wealthiest people in the country—and in Rhode Island—are benefitting from Trump tax cuts that have given the most away to the people who need it the least, my proposal will tax the wealthiest in the state to build the homes and apartments we need to make living in Rhode Island affordable.
+I am proposing a millionaire’s tax that will add an additional marginal tax bracket of 3% on incomes of $1,000,000 and above.
+In eight years, this approach would put a billion dollars towards building over 20,000 new homes and apartments in our state that Rhode Islanders can afford.
+The bonding approach to housing has real costs—the $120 million bond, which is estimated to generate fewer than 600 homes, comes with $70 million in financing costs.
+That $70 million could have been used to build more homes and apartments, but instead will go to Wall Street profits.
+People who currently can’t afford the cost of housing end up paying the cost of bonding.
+By using the revenue from the millionaire’s tax, we will be able to save on financing costs and invest even more in housing without making Rhode Islanders struggling with the cost of housing pick up the tab.
+Financing aside, Rhode Island must do better than 600 housing units for a total cost of $120 million.
+2 THE RHODE HOME PROGRAM: A REVOLVING FUND TO ENSURE LONG TERM INVESTMENTS When it comes to housing, too often the solution has been to spend money once and hope it solves the problem.
+My plan will take a different approach.
+It will aim to maximize the impact of every Rhode Island tax dollar spent by leveraging as many federal, philanthropic, and private dollars as possible, but it will also incentivize construction of housing with financing mechanisms that allow us to use the same funding over and over again, so we can keep building.
+That is why I am introducing the Rhode Home Program, a revolving loan fund seeded by the millionaire’s tax that will reduce barriers to building and incentivize construction, and then be replenished by revenue from each new project as construction completes and housing units come online.
+Rhode Home Program dollars will incentivize housing with a wide variety of financing mechanisms, including: y Millionaire’s Tax Prioritizing sustainable and long-term programs that lead to the creation of the greatest number of affordable, mixed-income, and market-rate housing units. y Provide capital directly to speed up projects and ensure housing remains affordable, in some cases taking a direct ownership stake in projects. y Provide bridge loans to developers during construction that will be paid off after construction completes and the project is able to refinance with a private lender as revenue begins to come in.
+Revolving Loan Fund Loan Replayment Loan Homes & Apartments y Ensuring state dollars are used to leverage private and philanthropic funding to get the most bang for our buck and prioritize revolving funding over one-off spending. y Helping jumpstart the redevelopment of substandard public housing into mixed-use and mixed-income housing that provides additional affordable housing, which research has shown directly benefits children’s likelihood of success later in life.
+Rhode Island will spur construction by assuming some of the risk of housing developments in exchange for a return that can be reinvested to continue building additional housing in the future.
+Many other jurisdictions already take this approach.
+For example, Montgomery County, Md. “invest[s] directly in new projects, then us[es] its ownership position to become a kind of benevolent investor that trades profits for lower rents … The stock consists of basically every kind of housing, from single-family homes with colonial-style shutters to glass towers near the train.” In Atlanta, the Atlanta Urban Development Corporation works to turn underutilized public land into mixed-income housing by partnering with private developers while maintaining an ownership stake in projects.
+In San Diego, the Bridge to Home Program has provided over $100 million in gap financing to help spur the creation of thousands of new rental units in just four years.
+We can use this approach in Rhode Island, and when a project is successful, we will return the capital back to the fund and then have it sent back out again into another development.
+This must be done in partnership with lenders to ensure that the state is not misallocating funds and to ensure that there is private sector skin in the game.
+3 Building more than 20,000 additional housing units will require a focus on multiple types of housing construction.
+In addition to incentivizing builders to partner with the state to construct new apartment buildings and housing developments, the Rhode Home Program will fund: 1.
+An Expansion of ADU Housing Our legislature has already made great progress in making it easier to construct Accessory Dwelling Units (ADUs), the fastest and most cost-effective way to increase the supply of housing in the state.
+The Rhode Home Program will build on this success.
+ADUs supply the exact type of housing—smaller units, appropriate for seniors, more accessible price points—that is in the shortest supply.
+Rhode Home Program dollars will be used to help finance an expansion of ADU construction, providing loans to property owners so they can build an ADU, charge affordable rental rates, and then repay the loan from rents so that the capital can be deployed again to build more units, converting temporary state funding to permanent capital to add units to our housing stock.
+2.
+Revamping Rhode Island’s Historic Tax Credit Rhode Island’s Historic Tax Credit has helped create roughly 20% of all new housing in recent history, but a lack of funding and onerous fees and requirements have severely weakened the program’s efficacy in contributing to the state’s housing affordability solutions.
+Rhode Home Program dollars will be deployed to restore state funding for the Historic Preservation Tax Credit and, simultaneously, we will propose serious reforms in order to get the greatest return on investment possible and expedite projects that will add housing stock immediately.
+We need to reduce processing and filing fee requirements, streamline approval processes to help reduce both costs and timelines, raise the project cap to allow for larger, more ambitious projects that will make a significant dent in our housing shortage, and increase the tax credit specifically for residential or primarily residential projects.
+While Rhode Island may not be able to compete with larger states in terms of available space for new developments, we have an abundance of beautiful, iconic historic buildings.
+By sufficiently investing in the preservation and redevelopment of these existing buildings, we can not only reverse what could be a loss of housing stock in the state, but also lean into the beauty and history that makes Rhode Island great.
+3.
+Low-Cost Construction Using Modular Materials A crucial part of reducing the cost of housing is reducing the cost of home construction.
+For more than 100 years, from the Sears Modern Home kits in the early 1900s to the Lustron houses of the 1940s, Americans have used new technology and modular home design to get people into housing they can afford.
+We must use this approach to get costs down today.
+From modular units built on the factory floor to 3-D printing, there are many new technologies that can help reduce the cost of construction.
+Under my housing plan, I will specifically seek out opportunities for the Rhode Home Program to incentivize prefabricated or modular construction, and will work with local governments to help identify sites where we can build 100+ homes and apartments in this way to ensure maximum efficiency and lower costs for buyers.
+The state can also partner with the private sector to support financing construction.
+4 4.
+Rent Relief Now Cities such as Minneapolis have shown that by reducing restrictions on new construction at the same time as investing significantly in rental assistance and subsidies, it is possible to meaningfully reduce housing costs in the short term.
+To that end, a portion of this funding will go toward immediate rent support for families in need who cannot wait several years for prices to come down to afford housing today.
+Right now, the bonding approach to housing has Rhode Islanders paying 4.23% in compounding interest that will add up to over $70 million.
+Because the Rhode Home Program will avoid these interest payments, my administration will allocate 5% of the program’s funding to immediate rent relief available to Rhode Islanders struggling with the cost of housing.
+Instead of paying tens of millions more in interest on housing bonds to Wall Street, we will designate 5% of this funding for four years to immediate rent relief for Rhode Islanders.
+A Constitutionally Protected Fund Funding for the Rhode Home Program needs to be permanently set aside for housing.
+After a few years, this program will have generated up to a billion dollars to jumpstart home building in Rhode Island.
+That will make it a tempting target for politicians.
+To ensure that this money is used for the purpose of making housing affordable for working families in Rhode Island, I will propose a constitutional amendment to make sure these funds remain protected and used only as intended—meaning that any money the legislature puts into the fund is reserved for housing and can’t be pulled out for other uses, just like money you put into a retirement account is reserved for your retirement.
+This already happens today with the Rhode Island Capital Plan Fund, and many other states have enacted constitutionally protected funds.
+New Jersey has done this for the gas tax, Alabama for state parks, and Minnesota does it for clean water.
+Rhode Island would be the first state in the country to do it for housing affordability.
+In order to further ensure that funds are being spent for their intended purpose, the Rhode Home Program will be audited annually, and the Office of Inspector General will have access to any documents they need from my administration.
+MAKE RHODE ISLAND THE HUB OF THE EMERGING MODULAR HOME MANUFACTURING INDUSTRY As our entire region is dealing with a housing affordability crisis, Rhode Island should capitalize on this opportunity by making our state the center of a growing economic sector.
+In addition to incentivizing housing developments with modular construction and prefabricated materials, I will also work to recruit modular home manufacturing companies to locate their operations in Rhode Island, bringing a growing industry and good-paying manufacturing jobs, and making the Ocean State the hub of modular home building in New England.
+This will have the added benefit of reducing transportation costs and maximizing affordability for our own prefabricated construction projects.
+By partnering with labor unions, workforce development organizations, and career and technical education programs and high schools, we can use this as an opportunity to not only bring down homebuilding costs but to create a highly skilled and dedicated workforce that creates long-term and good-paying jobs in the manufacturing sector and enhances economic growth in the state.
+By partnering with technical schools, we can create a pipeline for young Rhode Islanders to start successful careers while remaining in-state and working to address our housing crisis.
+5 BUILDING MORE HOMES AND CUTTING RED TAPE Working with Communities for More Housing In order to add over 20,000 new homes and apartments, we need to find places to build them.
+Too often, YIMBYs and NIMBYs talk past each other, when the reality is there are many locations both sides would agree could be converted into additional housing and other areas where large apartment buildings simply don’t make sense.
+We should focus our funding and attention on the communities that want to partner to build rather than endlessly fight against residents’ wills.
+Cutting Red Tape and Reducing Barriers to Build Private Housing Units Permitted 1980–2024 8000 7000 6000 5000 4000 3000 2000 1000 1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 0 Source: Rhode Island Department of Housing, 4/15/2025 Progress has been made in recent years, and the Rhode Island General Assembly has done important work on the legislative front to streamline permitting and reduce land use restriction.
+But without true executive leadership, it still simply takes too long to get approval to add to our housing stock in Rhode Island.
+As a result, permits and housing starts are still near historic lows, ranking 50th in the nation.
+Everyone in the state is paying the price, with unaffordable down payments and skyrocketing rent.
+We should work with advocates and builders to speed up permitting and make it easier for the most common and least controversial projects to get shovels in the ground without unnecessary delays.
+Using Idle State Lands We should also make it easier to convert empty commercial spaces, old mills and parking lots, and unused state properties.
+These eyesores can turn into housing, reducing crime and putting this land to productive use generating additional revenue for the state.
+If someone is willing to take a risk on a project like this, they will have an advocate in the governor, and we will work together to ensure that red tape doesn’t keep housing from being built.
+We should also help prepare these sites and work with local governments to ensure that localities are not forced to bear the full brunt of the additional costs associated with these new developments.
+From pre-permitting to infrastructure improvements, the state can help speed up planning and construction while also minimizing disruptions.
+6 LOWERING COSTS Opposing Trump’s Disastrous Tariffs When campaigning, Donald Trump promised to bring down the cost of living and make housing more affordable, but his disastrous tariffs are doing just the opposite.* Estimates have found that Trump’s tariffs will add over $10,000 to the cost of construction of each new home, which could result in as many as 450,000 fewer homes being built over the next five years—at a time when the nation remains millions of units short of meeting our housing needs.
+Rhode Islanders in particular are contending with soaring home prices and unaffordable rents.
+In a state that ranks dead last nationwide in residential construction, we simply cannot afford to have new home construction efforts further hindered by an administration apparently committed to waging a trade war against our allies, no matter the cost to American households.
+We need to do all we can as a state to counteract the destructive effects of Trump’s tariffs on the housing industry, where the cost of building materials already has increased by over 40% since the pandemic.
+We must: y Issue an executive order directing the Rhode Island Office of Management and Budget to estimate the impact of tariffs on housing construction and the real estate industry. y Direct RIHousing to assess strategies for mitigating negative impacts for home builders. y Work with regional and federal partners to pressure Congress and the Trump administration to remove harmful tariffs on essential building materials, including lumber, and especially on allies, including Canada.
+Single-Family Homes for Rhode Island Families, Not Wall Street Rhode Island has a massive housing supply issue, particularly when it comes to single-family homes for low- and middle-income families, and Wall Street is only making the problem worse by speculatively buying up residential properties, driving up home prices for Rhode Islanders, and making a profit.
+We must: y Enhance state oversight of institutional buyers of the state’s housing stock by adding transparency and disclosure requirements; and by banning bad actors who have been fined for illegal rent collusion. y Enact a Right of First Refusal for nonprofits, including RIHousing, for certain types of residential properties in order to preserve affordable housing stock. y Explore additional ways to disincentivize Wall Street speculation on single-family and multi-family homes in Rhode Island, including financial penalties and a deed scaling fee.
+PROTECTING TENANTS 5% of Rhode Home Dollars Toward Rent Relief The Rhode Home Program’s revolving loan fund is designed to make housing more affordable long term by increasing the housing supply with over 20,000 additional housing units.
+But Rhode Islanders are struggling with rent in the short term.
+That’s why, as mentioned above, 5% of Rhode Home Program dollars will be set aside for rent relief for the first four years, a number that will be phased out as more homes and apartments come online and rents decline. *In a February 20, 2026 decision, the U.S.
+Supreme Court ruled that most of Trump’s tariffs are unconstitutional.
+After the ruling, the President pledged to find a workaround that would allow him to reenact them, and implemented a 10% global tariff.
+7 Holding Bad Landlords Accountable Most landlords and property owners are playing by the rules and investing in their communities, but it is still all too common for tenants to be taken advantage of.
+We need to better utilize the state Attorney General’s Office to ensure negligent landlords are held accountable, and provide incentives for good behavior that benefits renters throughout the state.
+We must: y Incentivize good landlord behavior by publishing a list annually of largescale landlords that have met all requirements and explore financial benefits for exceeding those requirements. y Ensure consistent statewide enforcement of regulations prohibiting landlords from using unfair and anti-consumer algorithmic pricing to raise prices on renters. y Expand the Attorney General’s Office’s consumer protection and civil and community rights divisions to more aggressively target negligent landlords failing to meet their legal obligations.
+Protecting Tenants’ Rights and Requiring Full Rental Fee Transparency Beyond ensuring that landlords and property owners play by the rules, we need to do more to make sure the system is fair to tenants, including by enacting a Tenant Bill of Rights and by cracking down on anti-transparent rental practices and junk fees that unjustly reduce affordability.
+We must: 8 y Enact a Tenant Bill of Rights that guarantees specific rights for all renters in Rhode Island, including the right to legal counsel and reasonable limits on evictions, such as during a snowstorm. y Require that advertisements for rental properties clearly indicate actual monthly costs, and note average additional fees paid and/or list any additional fees that may be included so that renters are not put in a bait and switch situation with unexpected costs and junk fees.

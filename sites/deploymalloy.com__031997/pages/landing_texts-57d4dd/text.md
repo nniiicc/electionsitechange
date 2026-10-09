@@ -1,4 +1,4 @@
-Positions About Album Q&A Events Subscribe Signs Shop Donate Positions About Album Q&A Events Subscribe Signs Shop Donate Connect with text messaging and Support Republican candidate Gerald Malloy!
+Positions About Q&A Proposals Events Subscribe Signs Shop Donate Positions About Q&A Proposals Events Subscribe Signs Shop Donate Connect with text messaging and Support Republican candidate Gerald Malloy!
 Connect and Support Republican nominee Gerald Malloy!
 Sign up texts front page phone numbers First Name Last Name Phone/Mobile Submit Opt in By checking the box, you are opting in to receive alerts, updates, and news messages via SMS from Gerald Malloy for United States Congress, Ltd.
 Donations will be solicited.

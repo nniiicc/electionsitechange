@@ -1,4 +1,4 @@
-About Endorsements Media Contact Follow Follow Donate About Endorsements Media Contact Donate Support TJ $20.25 $100 $200 $1000 Other TJ Roberts is not new to the political scene.
+About Endorsements Media Get Involved Contact Follow Follow Donate About Endorsements Media Get Involved Contact Donate Support TJ $20.25 $100 $200 $1000 Other TJ Roberts is not new to the political scene.
 He’s a no-nonsense, America First Constitutionalist who took on Andy Beshear in court and WON.
 As a multi-generational Boone County native, TJ is cutting through the political noise and delivering real results for Kentuckians. % Pro-Life % Pro-Constitution % Pro-Second Amendment The Issues Z Eliminate Property Tax TJ’s done watching families get taxed out of their homes.
 He’s fighting to eliminate property taxes because you should own your home, not lease it from the government.

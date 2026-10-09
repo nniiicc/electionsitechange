@@ -7,7 +7,7 @@ My 3rd bill will be to re-formulate property taxes and rename them service taxes
 My 4th bill will be to eliminate or drastically reduce school taxes for home owners 65 and older.
 My 5th bill will to eliminate NYS tax on gas the first and 15th of every month.
 My 6th bill will be to allow survivng spouses to collect their spouse's pension at 62 whether their spouse retired or not.
-My 7th bill will be to prohibit solar installations on water and to prohibit the clearing of forests to install solar unless on private property excluding farmland with contingencies. **anything underlined takes you to its link - just click on it** PLEASE CLICK HERE TO TAKE SURVEY #2 LAURIE YARDSIGNS VOTE ISSUES EVENTS DONATE I can not do this without your help.
+My 7th bill will be to prohibit solar installations on water and to prohibit the clearing of forests to install solar unless on private property excluding farmland with contingencies. **anything underlined takes you to its link - just click on it** PLEASE CLICK HERE TO TAKE SURVEY #2 CLICK HERE FOR SURVEY #1 RESULTS LAURIE YARDSIGNS VOTE ISSUES EVENTS DONATE I can not do this without your help.
 Your contributions are deeply appreciated.
 These are used for literature, mailings, events and other campaign expenses.
 Thank you!

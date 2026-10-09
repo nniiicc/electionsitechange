@@ -32,4 +32,7 @@ I look forward to continuing to work with CAR and realtors in our state to prote
 As a Mental Health Now Candidate, I will continue to lead on mental health and support policies to expand access, improve crisis, and end the stigma.
 Together, we can make mental health a priority - not an afterthought - because ﻿ mental health is healthcare.
 I am honored to have once again earned the endorsement of the Colorado Placement and Referral Alliance (CoPRA), which is a charter of the National Placement & Referral Alliance (NPRA).
-I look forward to working with CoPRA to advocate for Colorado seniors, their families, and those that assist them. © # All Rights Reserved | Dusty For Colorado Privacy Policy | Terms of Service Share by:
+I look forward to working with CoPRA to advocate for Colorado seniors, their families, and those that assist them.
+I am honored to have earned the endorsement of the American Council of Engineering Companies (ACEC) of Colorado again.
+For seven decades, ACEC Colorado has been the voice of Colorado’s engineering industry, championing innovation, advocacy, and professional excellence since 1956.
+I look forward to continuing to work with ACEC Colorado and its members as we address infrastructure investment, project delivery, and permitting in our state for roads, water, and so much more! ﻿ © # All Rights Reserved | Dusty For Colorado Privacy Policy | Terms of Service Share by:

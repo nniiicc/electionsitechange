@@ -1,0 +1,6 @@
+FOR IMMEDIATE RELEASE Contact: info@odiosoforohio.com December 1, 2023 Mike Odioso Officially Files to Run for Ohio Statehouse Green Township, OH — On Friday, longtime conservative activist and community leader Mike Odioso officially filed his petitions to run for the Ohio House of Representatives from the 30th District.
+A lifelong educator, licensed attorney, and the current President of the Green Township Republican Club, Odioso released the following statement to supporters: “Your unwavering support has been the driving force behind this achievement, and I am deeply grateful for the trust you have placed in me.
+As we enter the next phase of our campaign, I am as committed as ever to earning each and every vote.
+Odioso continued, “In the coming months, I am eager to meet with voters in Ohio’s 30th district to learn more about the issues that matter to you.
+With your continued support, I am confident that we can build a campaign that aligns with our shared conservative principles.” Odioso has a long list of endorsements, including current incumbent Bill Seitz, Hamilton County Prosecutor Melissa Powers, and Former Congressman Steve Chabot.
+### odiosoforohio.com | info@odiosoforohio.com PAID FOR BY MIKE ODIOSO FOR OHIO

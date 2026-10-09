@@ -1,5 +1,4 @@
-Candidate Debate on Wednesday October 7th at 7pm.
-Francestown Town Hall Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card More Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card I'm running as an Independent Sensible, fair decisions free from partisan agendas.
+Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card More Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card I'm running as an Independent Sensible, fair decisions free from partisan agendas.
 Three Core Perspectives on my Candidacy A career in municipal finance.
 Independent candidate - no party score card.
 Representing our district - that's it.

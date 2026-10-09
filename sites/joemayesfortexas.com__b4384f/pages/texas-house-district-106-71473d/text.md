@@ -1,4 +1,4 @@
-Skip navigation menu Home About Endorsements News Events Volunteer Contact Texas House District 106 Donate Texas House District 106 Home About Endorsements News Events Volunteer Contact Texas House District 106 Donate Texas House District 106 What is Texas House District 106?
+Skip navigation menu About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate Texas House District 106 About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate Texas House District 106 What is Texas House District 106?
 Texas House District 106 is one of 150 districts in the Texas House of Representatives.
 The district is located in Denton County and includes all or portions of several communities in North Texas.
 View District Map Communities in Texas House District 106 District 106 includes all or portions of communities such as Aubrey, Celina, Cross Roads, Denton, Frisco, Hackberry, Krugerville, Lewisville, Little Elm, Pilot Point, Prosper, Providence Village, Sanger, and The Colony.

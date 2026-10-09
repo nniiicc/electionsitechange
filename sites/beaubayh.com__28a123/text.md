@@ -26,9 +26,8 @@ Marine Corps Infantry Officer who rose to the rank of Captain, Beau knows how to
 View All Priorities View All Priorities Get Involved with Team Bayh Take Action Watch Our Recent Videos Watch Now Get Our Latest Merch Store DONATE NOW TO SERVE WITH Beau Bayh $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Choose any amount to get started.
 If you've saved your information with ActBlue Express, your donation will go through immediately.
 FROM THE CAMPAIGN TRAIL Latest UPDATES View All News View All News NEWS Politico: Can a Democratic Dynasty Survive in This Red State?
-April 24, 2026 Twenty-five years ago, America was attacked.
-Thousands of innocent Americans were taken from us.
-We remember them, the h...
+April 24, 2026 On Day One, I'll conduct an independent audit of the corruption-plagued Secretary of State's office.
+None of my opponent...
 #ago In a democracy, voters should choose their leaders, not the other way around.
 I’m running for Sec of State to restore fairness, ...
 October 10, 2025 SIGN UP TO VOLUNTEER SIGN UP TO VOLUNTEER DONATE NOW TO SERVE WITH Beau Bayh $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Choose any amount to get started.

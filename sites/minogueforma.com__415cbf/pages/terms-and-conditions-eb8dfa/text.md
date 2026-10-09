@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Donate Days since Maura Healey promised a gas-tax suspension: Days Hours Min Sec Demand Action!
-Home Meet Mike Meet Renee Blueprint for a Better Future In The News Get Involved Make a Plan to Vote Store Donate Terms and Conditions Go to minogueforma.com to sign up to receive campaign notifications from the Mike Minogue for Governor by registering your mobile number with us.
+Home Meet Mike Meet Renee Blueprint for a Better Future In The News Events Get Involved Make a Plan to Vote Store Donate Terms and Conditions Go to minogueforma.com to sign up to receive campaign notifications from the Mike Minogue for Governor by registering your mobile number with us.
 Message frequency may vary.
 Msg&Data Rates May Apply.
 Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.

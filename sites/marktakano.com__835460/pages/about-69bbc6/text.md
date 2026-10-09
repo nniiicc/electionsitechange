@@ -11,8 +11,7 @@ Upon graduation, Mark returned home and began teaching in the Rialto Unified Sch
 As a classroom teacher, Mark confronted the challenges in our public education system daily.
 In 1990, Mark was elected to the Riverside Community College District Board of Trustees.
 At RCC, Mark worked to improve higher education for young people and job training opportunities for adults seeking to learn a new skill or start a new career.
-He was elected Board President in 1991 and helped the Board and the District gain stability and direction amid serious fiscal challenges.
-In 2012, Mark became the first openly gay person of color to be elected to Congress.
+He was elected Board President in 1991 and helped the Board and the District gain stability and direction amid serious fiscal challenges.In 2012, Mark became the first openly gay person of color to be elected to Congress.
 Mark Takano represents the people of Riverside, Moreno Valley, Jurupa Valley and Perris in the United States House of Representatives.
 He serves as Ranking Member of the House Committee on Veterans' Affairs, and as a member of the Education and the Workforce Committee.
 Paid for and authorized by Mark Takano for Congress Mark Takano for Congress P.O.

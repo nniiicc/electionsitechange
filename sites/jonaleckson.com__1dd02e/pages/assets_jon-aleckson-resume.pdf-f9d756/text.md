@@ -1,0 +1,42 @@
+JON ALECKSON 📍 Mount Horeb, Wisconsin Republican Candidate · Wisconsin State Assembly RESTORE WISCONSIN 🎓 Smarter Schools · 🌾 Stronger Farms 🌐 jonaleckson.com 🏛 Assembly District 50 🗓 Election: November 3rd 🎓 PhD, UW–Madison Jon Aleckson is a lifelong Wisconsin resident, entrepreneur, and PhD-level educator who founded and led Web Courseworks for over 24 years.
+Now retired from business, he is bringing practical leadership and a problem-solver's mindset to the Wisconsin State Assembly race in District 50.
+Jon is not a career politician — he is a community builder committed to affordable housing, strong family farms, smarter schools, and fiscal responsibility.
+Jon’s video introduction can be found here.
+LEADERSHIP SKILLS ⚙️ Gets Things Done 🔍 Problem Solver A proven executor — Jon built a company from scratch, navigated decades of change, and delivered results in the real world, not just on paper.
+Approaches every challenge analytically, drawing on 24+ years of resolving complex organizational, technical, and human problems.
+Team Builder 💰 Tight-Budget Builder Experienced at assembling diverse teams — programmers, designers, educators, subject matter experts — and uniting them around a common mission.
+Built successful programs, teams, and products with limited resources — knows how to stretch every dollar and deliver outsized results. 🌟 Leadership That Elevates 🔒 Persistent & Dedicated Proven ability to meld diverse individuals into highperforming teams by uniquely tailoring roles and tasks to each person’s strengths, maximizing their contributions and driving exceptional collaborative results.
+Spent 7 years earning his PhD part-time while running a company.
+Not deterred by difficulty — driven by purpose and conservative principles.
+BUSINESS EXIT & ENTREPRENEURSHIP CONSULTING Jon Aleckson draws on his lived experience of founding, growing, and successfully transitioning Web Courseworks over 24 years to consult with entrepreneurs and business owners on the full arc of company ownership — from founding vision through profitable exit.
+Jon brings practical, hard-won wisdom and sharp organizational judgment that no textbook can replicate.
+See Jon’s business story here.
+Startup to Scaling up: Growing successful initiatives.
+Building teams, establishing processes, and growing a sustainable small business from the ground up.
+Understanding Change Management in the AI Era Understanding change management is essential for helping businesses, governments, and the workforce successfully adapt to the challenges and opportunities presented by AI.
+Paid for by Jon Aleckson for Assembly jonaleckson.com · Wisconsin 50th Assembly District Leadership & Succession Planning: Sustainable progress in business and government programs depends on strong, ongoing leadership.
+Developing the next generation of leaders is therefore a critical component of effective management change for both organizations and public institutions.
+Business Exit Strategy: Guiding owners through valuation, buyer positioning, CEO transition, and legacy preservation — informed by Jon's personal experience transitioning Web Courseworks leadership to a new female CEO in 2021.
+Collaboration & Expert Utilization: Drawing directly from his two published books, Jon consults organizations on how to unlock the full value of their subject matter experts and internal knowledge leaders.
+PROFESSIONAL EXPERIENCE Founder & Chief Executive Officer · Web Courseworks Ltd.
+1999 – 2023 (24 Years) | Madison, Wisconsin ▸ Founded and grew a nationally recognized educational technology company specializing in eLearning software, learning management systems (LMS), and game-based learning. ▸ Led award-winning educational game development for clients including the World Anti-Doping Agency and the University of Minnesota's Intelligent Transportation Studies Institute. ▸ Presented at major national conferences including ASTD International (American Society for Training & Development) in Washington D.C. ▸ Operated the company for 24 years as a Wisconsin-based small business, navigating economic cycles and technological transformation. ▸ Key clients served: U.S.
+State Department, America’s Health Insurance Plans, McDonald's, Credit Union National Association, and various national medical associations.
+Learning Business Creation Consultant · Web Courseworks / LXN Projects 2021 – Present | Mount Horeb, Wisconsin ▸ Advises associations and educational organizations on expanding and improving eLearning programs. ▸ Specializes in helping adult learning businesses develop sustainable growth strategies and adopt emerging technologies including AI.
+Adjunct Professor · University of Wisconsin–Platteville 2012 – 2015 | Online ▸ Developed and taught a graduate-level course on leadership and administration of online education programs — covering how to provide strategic leadership, manage faculty and staff, and run a successful online school. ▸ Brought 20+ years of real-world eLearning industry experience directly into the graduate classroom.
+"I've raised a family and built a successful Wisconsin business — now I want to bring that practical experience to Madison.
+This isn't about a political career.
+It's about working together to solve real problems and leave our district and the State of Wisconsin stronger for the next generation." — Jon Aleckson, Campaign Announcement, April 17, 2026 EDUCATION PhD Doctor of Philosophy — Educational Leadership and Policy Analysis · University of Wisconsin–Madison in 2010 HS High School Graduate · Cedarburg High School, Cedarburg, Wisconsin Paid for by Jon Aleckson for Assembly jonaleckson.com · Wisconsin 50th Assembly District COMMUNITY, CHARACTER and VALUES Lifelong Wisconsin Resident — Grew up in Cedarburg, raised his family in Cross Plains with wife Mary, and now calls the Town of Springdale home since 2008 in the northern part of Assembly District 50.
+Jon and Mary raised three children in Wisconsin and are proud grandparents of five grandchildren — all living in Dane County.
+Board Member — Pro-Life Healthcare Clinic, Middleton, WI — Serves on the board of a non-profit private pro-life clinic in Middleton, Wisconsin that provides free healthcare to uninsured patients.
+Jon's board service reflects his deep commitment to the sanctity of life and to caring for vulnerable community members regardless of their ability to pay.
+Collaborative Leader — Jon is committed to forming working groups and listening to constituents — from childcare providers to family farmers — before writing legislation.
+Not a Career Politician — Jon has pledged to serve 2–4 terms, bring real-world expertise to Madison, and put the district first.
+Fiscal Responsibility — Supports returning Wisconsin's budget surplus to schools, special education programs, and property taxpayers.
+PUBLISHED WORKS — AUTHOR OF TWO BOOKS ON COLLABORATION 📚 Published Author — Two Books on Collaboration & Expert Engagement MindMeld The Expert's Halo Micro-Collaboration Between eLearning Designers and Instructor Experts How to Get More Out of Your Experts So Associations Can Create Exceptional Educational Products Co-authored with Penny Ralston-Berg · Atwood Publishing • How to get the most from subject matter experts • Based on doctoral research at UW–Madison • Featured interview: Dr.
+Fred Saba, DistanceEducator.com Jon Aleckson, PhD · Web Courseworks · 2020 • Strategies for associations to elevate expert engagement • Creates exceptional member-driven educational products Featured Interview: Dr.
+Farhad (Fred) Saba, Distance-Educator.com — Premier Portal for Professionals Since 1995 "Building immersive online experiences for students not only requires a team approach, but requires that the instructor-expert be immersed as part of that team...
+The more complex the learning activity in a game or simulation, the more micro-collaboration is needed." — Dr.
+Jon Aleckson, in conversation with Dr.
+Saba · distance-educator.com About Assembly District 50 Wisconsin's 50th Assembly District encompasses 16 townships in Green County and 5 townships in southwestern Dane County, including the communities of Oregon, Belleville, New Glarus, Monroe, Monticello, Mount Horeb, and surrounding rural areas.
+The district is an open seat in 2026.
+Get Involved · Vote Jon Aleckson · November 3, 2026 Volunteer · Yard Signs · Door Knocking · Donate · jonaleckson.com Paid for by Jon Aleckson for Assembly jonaleckson.com · Wisconsin 50th Assembly District

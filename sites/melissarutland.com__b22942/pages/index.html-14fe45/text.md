@@ -19,10 +19,10 @@ First Woman Chair of the Development Review Commission, where she served three t
 “My family’s history instilled in me the values of perseverance and hard work.
 My dad passed away when I was at the age of 26, and I took on a lot of the family business to keep things moving.
 Now I’m running to carry on our legacy of stepping up and helping my community when we need it most.” — Melissa Rutland Read Melissa’s Story Latest News The momentum behind Melissa’s campaign for House District 60.
-See all news › August 27, 2026 Rutland Pitches Business Case in Bid to Flip House District 60 A day after her campaign kick-off at the St.
+See all news › September 2, 2026 Melissa Rutland Continues to Outraise Lindsay Polega-Quigley in Tough Fight for HD 60 Melissa has raised more than $# to her campaign since June and leads in cash on hand as Republicans eye a pickup in House District 60.
+Read More August 27, 2026 Rutland Pitches Business Case in Bid to Flip House District 60 A day after her campaign kick-off at the St.
 Petersburg Yacht Club, Melissa makes the case that HD 60 voters are ready to return the seat to the GOP.
 Read More August 4, 2026 Sheriff Bob Gualtieri Backs Melissa Rutland for HD 60 “A strong commitment to public safety.” Pinellas County Sheriff Bob Gualtieri endorses Melissa, citing her common-sense leadership and support for law enforcement.
-Read More July 14, 2026 Ken Burke and Mike Twitty Endorse Melissa Rutland The Clerk of the Circuit Court & Comptroller and the Property Appraiser trust Rutland to deliver commonsense solutions for Pinellas.
 Read More Proven, local leadership.
 A community-minded leader who brings people together.
 Appointed by both parties — by a Democratic mayor to the St.

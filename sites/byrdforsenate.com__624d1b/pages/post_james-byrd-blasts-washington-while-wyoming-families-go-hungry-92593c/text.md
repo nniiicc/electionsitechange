@@ -13,10 +13,12 @@ Today, it doesn't even buy our community seven days of relief." Byrd pointed out
 It’s time to stop the reckless spending, end the rubber-stamping, and start putting Wyoming families first." Former Representative James Byrd served a decade in the Wyoming House of Representatives (2009–2019) and is running for the U.S.
 Senate on a platform of economic independence, lower living costs, and putting local communities ahead of federal gridlock.
 It's Time to Hold Washington Accountable We need to ensure that resources are directed to Wyoming citizens, not to wasteful wars.
-Chip in $20 today in our fight to bring Wyoming to Washington Recent Posts See All Washington Is Passing the Buck to Wyoming Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
+Chip in $20 today in our fight to bring Wyoming to Washington Recent Posts See All James Byrd Condemns Trump’s Rally Remarks on U.S.
+Cities and Degradative Political Rhetoric James Byrd, Democratic candidate for U.S.
+Senate in Wyoming, issued a sharp rebuke today following President Donald Trump’s recent campaign rally in Grand Island, Nebraska.
+Washington Is Passing the Buck to Wyoming Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
 Washington made that decision.
 Wyoming taxpayers get the bill.
 Rep.
 Brittany Pettersen Endorses James Byrd for U.S.
-Senate CHEYENNE, WYO. | October 2, 2026 Real Wyoming Strength Doesn't Hide From Scrutiny There is a weak new trend taking root in Washington: skipping debates, dodging independent journalists, and hiding from political opponents.
-Establishment insiders want you to believe this is a show o © # Paid for by Byrd for Senate Home About Issues News bottom of page
+Senate CHEYENNE, WYO. | October 2, 2026 © # Paid for by Byrd for Senate Home About Issues News bottom of page

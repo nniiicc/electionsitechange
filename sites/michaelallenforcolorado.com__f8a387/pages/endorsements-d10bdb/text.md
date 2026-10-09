@@ -1,4 +1,4 @@
-Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements Democrat Colorado Springs Councilwoman Nancy Henjum “The office of attorney general needs a qualified attorney who will put upholding the rule of law above party politics.
+Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements Host of “Liberal and Loving It” Podcast David Thielen “I struggled with this a lot but at the end of the day Jena Griswold is not qualified and Michael Allen is a quality candidate … I strongly encourage voting for Michael Allen.” Democrat Colorado Springs Councilwoman Nancy Henjum “The office of attorney general needs a qualified attorney who will put upholding the rule of law above party politics.
 That is why I am supporting El Paso County District Attorney Michael Allen for Attorney General.
 Michael Allen has been fighting for victims and delivering justice.
 He prosecuted the Club Q mass murders as a hate crime, and delivered justice by securing one of the longest prison sentences in Colorado history.” The Denver Gazette Editorial board “Allen has been a career prosecutor for more than two decades.
@@ -25,9 +25,6 @@ He will be a vigorous champion for the people of Colorado.
 I am proud to endorse Michael Allen for Colorado Attorney General.” Former Colorado Attorney General John Suthers “Michael Allen has the experience, the judgment, and the backbone to confront rising crime, restore confidence in the rule of law, and put the Attorney General’s office back to work for the people of this state.” Colorado Congressman Jeff Crank “Michael Allen has delivered real results for families in El Paso County by standing strong for law and order and holding criminals accountable.
 As a Navy veteran, he understands service, faith, and the responsibility we have to protect our communities.
 Michael is a proven conservative, a strong defender of the Second Amendment, and the only District Attorney in Colorado with an Election Integrity Unit.
-He’s exactly the kind of leader we need as our next Attorney General.” Colorado Congressman Gabe Evans “Crime affects everyone.
-It is contributing to higher costs that are hurting Colorado families.
-Michael Allen has proven himself as a tough prosecutor who gets justice.
-He is exactly the change we need in the Attorney General’s office to combat crime in Colorado.” 1 2 3 … 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
+He’s exactly the kind of leader we need as our next Attorney General.” 1 2 3 … 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Facebook X Instagram Donate

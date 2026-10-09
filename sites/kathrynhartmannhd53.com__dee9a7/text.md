@@ -60,17 +60,18 @@ On the trail From the Texas Democratic Convention in Corpus Christi to block wal
 Upcoming events Come meet Kathryn Oct 8 Thursday Live debate in Brady Kathryn debates the incumbent, 6:30–8pm at the McCulloch County Library, Brady.
 Hosted by Citizens for Change 325.
 Can’t make it?
-Listen live on KNEL radio.
+Watch live on the Citizens for Change 325 Facebook page, KNELradio.com, or KNEL’s YouTube and Roku channels.
+A recording will be posted afterward.
 Event details Oct 10 Saturday “What Has He Done?” Rally & Block Walk in Bandera We need a change!
 Rally 9–11am at the Bandera County Courthouse, 500 Main Street, Bandera, then join Kathryn for a block walk around Bandera, 11am–1pm.
 Hosted by Indivisible Bandera.
 RSVP on Mobilize Oct 11 Sunday Meet the Candidates in Kerrville With Joe Paz Herrera (SD 24).
 4–6pm at River Star Arts & Event Park, 4000 Riverside Dr, Kerrville.
-RSVP on Mobilize Oct 17 Saturday Castroville rally & block walk Rally in Castroville, followed by a block walk.
-Details coming soon.
+RSVP on Mobilize Oct 17 Saturday Block walk in Hondo Join Kathryn knocking doors in Hondo, 11am–2pm.
+Meeting spot coming soon.
 Join us!
-Oct 24 Saturday Kathryn speaks in Castroville Castroville, TX.
-Details coming soon.
+Oct 24 Saturday Castroville: Kathryn speaks & block walk Kathryn speaks in Castroville, plus a block walk around town.
+Times and location coming soon.
 More events are being added.
 Check back, or follow Kathryn Hartmann for HD 53 on Facebook .
 Make a plan to vote Sixteen counties.
@@ -81,7 +82,7 @@ The 16 counties of House District 53: Bandera, Crane, Crockett, Edwards, Kerr, K
 Sutton Schleicher Menard Mason Upton Kimble Kerr Llano Crane Medina McCulloch Crockett Pecos Real Edwards Bandera Texas House District 53.
 County boundaries: U.S.
 Census Bureau.
-Oct 5 Last day to register to vote Oct 19–30 Early voting in person Oct 23 Mail-ballot application must be received Nov 3 Election Day, 7am–7pm Bandera Bandera Crane Crane Crockett Ozona Edwards Rocksprings Kerr Kerrville Kimble Junction Llano Llano Mason Mason McCulloch Brady Medina Hondo Menard Menard Pecos Fort Stockton Real Leakey Schleicher Eldorado Sutton Sonora Upton Rankin Check your registration Bring an approved photo ID.
+Oct 19–30 Early voting in person Oct 23 Mail-ballot application must be received Nov 3 Election Day, 7am–7pm Bandera Bandera Crane Crane Crockett Ozona Edwards Rocksprings Kerr Kerrville Kimble Junction Llano Llano Mason Mason McCulloch Brady Medina Hondo Menard Menard Pecos Fort Stockton Real Leakey Schleicher Eldorado Sutton Sonora Upton Rankin Check your registration Bring an approved photo ID.
 If you can't get one, ask for a Reasonable Impediment Declaration at the polls.
 Endorsements Endorsed by Moms for Texas Hill Country Chapter, Texas Democratic Women Citizens for Change 325 · Brady, Texas The Howdy Politics Voting Guide Turn Texas Blue Black Girls Who Brunch Jared's Ballot Buddies Locked In Be part of the movement This district is big.
 We need you in it.

@@ -40,4 +40,9 @@ And as a woman of color, I know that too often front-line communities can be ove
 I was the primary sponsor of the Healthy Environments for All (HEAL) Act, which would require Washington state agencies to develop strategies to apply an environmental justice lens to their work and target investments in low income and communities of color – communities that are on the front-lines of pollution and health disparities. ​ I’m proud to have been a part of Washington state’s bold leadership in combating this crisis.
 We’ve established a Clean Energy Fund to grow well paid green jobs, we’ve built a $6 billion wind industry from scratch by incentivizing the private sector with renewable energy standards, and we passed a law to end Washington’s use of coal and shift our state to use 100% clean energy to generate electricity. ​ I believe Washington State must take a leadership role in addressing climate change, not only to protect ourselves from threats like hurricanes and wildfires that increasingly threaten our daily lives and resources but because we must take advantage of the economic opportunity that exists to be a leader in the creation of clean energy jobs and the next generation of economic innovation.
 Paid For by Friends to Elect Kristine Reeves 1815 SW Campus Drive.
-#26332 Federal Way, 98093 bottom of page
+#26332 Federal Way, 98093 Friends to Elect Kristine Reeves may contact supporters and voters by text message for outreach, get-out-the-vote, and volunteer recruitment.
+Message and data rates may apply.
+Message frequency varies.
+Reply STOP to opt out at any time, or HELP for help.
+We do not sell or share your phone number with third parties for their own marketing.
+Questions: info@kristinereeves.com . bottom of page

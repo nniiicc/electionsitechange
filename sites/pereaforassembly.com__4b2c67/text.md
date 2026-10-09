@@ -92,4 +92,4 @@ Fresno City Councilmember Annalisa Perea has earned the endorsement of one of th
 Read more May 29 2025 PRESS RELEASE Fresno Councilmember Annalisa Perea Launches Campaign for Assembly District 31 Perea enters the race with a substantial fundraising advantage and a coalition of support that includes labor, small businesses, and community leaders.
 Today, Fresno City Councilmember Annalisa Perea officially announced her candidacy for Assembly District 31.
 The district is currently represented by Assemblymember Joaquin Arambula, who is termed out in 2026, and is entirely in Fresno County.
-Read more Apr 30 2025 Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Read more Apr 30 2025 Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

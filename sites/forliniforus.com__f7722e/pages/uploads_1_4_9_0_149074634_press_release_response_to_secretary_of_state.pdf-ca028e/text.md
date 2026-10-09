@@ -1,0 +1,13 @@
+​ CONTACT INFORMATION ​ ​ Contact: Amy Hawkins​ ​ Email: info@anthonyforlini.com ​ ​ ​ ​ ​ ​ ​ ​ Release Date February 4, 2026 Anthony Forlini Continues to Seek Answers from Michigan’s Secretary of State Non-Citizen Voter Issue​ ​ Secretary Benson makes County Clerk the enemy when she should be working closer with all 83 Counties to help them clean up the state database ​ MACOMB COUNTY, Mich.
+Michigan’s Secretary of State Jocelyn Benson finally responded on January 29, 2026 to Macomb County Clerk Anthony Forlini’s discovery report issued on January 12, 2026 of a significant operational flaw in local jury lists and election procedures.
+Secretary Benson claims that non-citizens on the voter roll is not a significant problem and dismissed Macomb County findings as average or expected.
+However, in her press release, by her own admission: ●​ Four were apparently non-citizens ●​ Four were removed from voter rolls which suggests they never should have been there to begin with (this begs the question why are they on the current jury database) ●​ Four are under review ●​ One voted in 2024 (still under investigation) Forlini commented, “It is odd, knowing this, that she would call me reckless.
+In addition, this does not take into account that 239 non-citizens self-reported out of jury duty over a four month period.
+Reckless would be having them serve on a jury panel, therefore having American citizens being judged by non-citizens.” Key questions remain unanswered: ●​ Why were non-citizens in jury databases at all? ​If non-citizens were identified on voter or jury-related databases, what specific process failures allowed them to be included in the first place? ●​ Given Secretary Benson’s acknowledgment that some ineligible individuals were present in official databases, how should voters interpret assurances that the issue is insignificant?
+1 ●​ What immediate steps are being taken to correct jury databases that rely on Secretary of State data? ●​ What steps are being taken to audit and correct voter and jury rolls across all 83 counties? ●​ What aggressive safeguards are being implemented to ensure jury integrity and election confidence statewide? ●​ Will the Department of State issue updated guidance or protocols to clerks to prevent future eligibility errors?
+Forlini concluded, “I have tried to not make this a personal attack.
+Rather this is a systemic problem that has only been amplified by changes in the law in 2018 and 2022.
+Knowing this we need a Secretary of State that is willing to make the changes without pointing fingers.
+Michigan deserves better.” Learn more at www.forliniforus.com ### PAID FOR BY CTE Anthony G.
+Forlini 39285 N.
+Blom, Harrison Township MI 48045 2

@@ -36,5 +36,13 @@ She promises to listen. ​ She is not asking for attention.
 She is asking for a chance to serve.
 She is not running for a title .
 She is running for a better Brazoria. ​ Most importantly, she wants to leave a Texas her children, and every child, can be proud of.
-“We rise together, or not at all.” Connect with me! info@votereeder-brazoria.com 832-895-6425 11200 Broadway St.
-Suite 2743, Pearland, TX 77584 Donate GET INVOLVED HOME MEET KAREN GET INVOLVED EVENTS CONTACT US ISSUES DONATE bottom of page
+“We rise together, or not at all.” CONTACT US FORM First name Last name Phone Email Yes, I would like to receive emails from Karen Reeder for Texas House District 29.
+Yes, I would like to receive text messages from Karen Reeder for Texas House District 29.
+By checking the text-message box, you consent to receive recurring automated campaign updates, fundraising, GOTV reminders, advocacy, event invitations, and polling messages from Karen Reeder for Texas House District 29 at the number provided.
+Donations may be solicited.
+Message and data rates may apply.
+Message frequency varies.
+Reply STOP to opt out.
+Reply HELP for assistance.
+Privacy Policy & Terms and Conditions Submit Connect with me! info@votereeder-brazoria.com 832-895-6425 11200 Broadway St.
+Suite 2743, Pearland, TX 77584 Donate GET INVOLVED Privacy Policy & Terms and Conditions HOME MEET KAREN GET INVOLVED EVENTS CONTACT US ISSUES DONATE bottom of page

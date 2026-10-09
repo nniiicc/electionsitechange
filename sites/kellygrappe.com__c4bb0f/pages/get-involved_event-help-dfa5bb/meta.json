@@ -1,9 +1,10 @@
 {
  "description": "Pick a campaign stop by city and date, then sign up on Mobilize for that shift.",
  "final_url": "https://www.kellygrappe.com/get-involved/event-help",
- "fingerprint": "b70c81eae312ddc0b88eb14ab572846516690c50",
+ "fingerprint": "3aa6a2be59fd1053d87766f58f3b59769d0523b0",
  "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Kelly Grappe · kellygrappe",
+ "rendered": false,
  "title": "Event help · Kelly Grappe for Arkansas Secretary of State",
  "years_mentioned": [
   "2026"

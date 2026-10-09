@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Talking to Voters for Team Tasha Monday, June 4, 2018 7:00 PM 19:00 Saturday, June 16, 2018 9:00 PM 21:00 Tasha Boerner Horvath for Assembly 2018 570 Laguna Drive, Suite A Carlsbad, CA 92008 (map) Google Calendar ICS Dear friends, We are only a few weeks from the Primary Election on June 5th and positioned to win!
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Talking to Voters for Team Tasha Monday, June 4, 2018 7:00 PM 19:00 Saturday, June 16, 2018 9:00 PM 21:00 Tasha Boerner Horvath for Assembly 2018 570 Laguna Drive, Suite A Carlsbad, CA 92008 (map) Google Calendar ICS Dear friends, We are only a few weeks from the Primary Election on June 5th and positioned to win!
 Please join us in talking to voters in Encinitas, Carlsbad, Oceanside and Vista.
 We have a number of dates and times available.
 Looking forward to seeing you!

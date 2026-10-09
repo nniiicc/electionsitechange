@@ -20,4 +20,4 @@ Endorsements Paid for by Lorenz for Ohio By providing your telephone number, you
 Msg & data rates may apply.
 Msg frequency may vary.
 Reply “STOP” to opt-out & “HELP” for help.
-View Privacy Policy for more info.
+View Privacy Policy and terms and conditions for more info.

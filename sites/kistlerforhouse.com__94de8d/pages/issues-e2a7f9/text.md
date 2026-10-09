@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Join The Campaign Open Menu Close Menu Home About Issues Join The Campaign Open Menu Close Menu Home About Issues Join The Campaign Issues Lower Taxes & Improve Affordability I've spent my life working with my hands, solving problems, and serving people in our community.
+0 Skip to Content Home About Issues Join The Campaign Privacy Policy Open Menu Close Menu Home About Issues Join The Campaign Privacy Policy Open Menu Close Menu Home About Issues Join The Campaign Privacy Policy Issues Lower Taxes & Improve Affordability I've spent my life working with my hands, solving problems, and serving people in our community.
 As an HVAC professional, business leader, husband, father, and grandfather, I've seen firsthand how hard Minnesota families work just to stay ahead.
 It’s time to put Minnesota families first.
 Today, too many families are being squeezed by rising costs.
@@ -29,4 +29,4 @@ Minnesota should do more to help veterans as they transition to civilian life, a
 We should also make sure military families have the resources and support they deserve.
 I will work to protect veterans from scams, support organizations that serve veterans and military families, and improve access to services across our state.
 I will also stand up for our National Guard and Reservists who answer the call whenever our state or country needs them.
-Vote in the State General Election Local Polling Location: Minnesota Voting Information Portal Kistler For House kistler4mn38a@gmail.com Mail Contribution Please make campaign contributions to: Charlie Kistler for House 7964 Brooklyn Blvd #153 Brooklyn Park, MN 55445 DONATE NOW DONATE NOW Made with Squarespace
+Vote in the State General Election Local Polling Location: Minnesota Voting Information Portal Kistler For House kistler4mn38a@gmail.com Mail Contribution Please make campaign contributions to: Charlie Kistler for House 7964 Brooklyn Blvd #153 Brooklyn Park, MN 55445 DONATE NOW DONATE NOW Privacy Policy Made with Squarespace

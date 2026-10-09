@@ -1,4 +1,4 @@
-English VINCE PEREZ Distrito 77 de Texas · El Paso ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Participe El Paso merece un luchador que también cumpla.
+English ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Participe El Paso merece un luchador que también cumpla.
 Escoja un paso, o haga los cuatro.
 Cada nombre en la lista, cada dólar y cada video compartido hacen más fácil ganar la próxima lucha.
 1.
@@ -32,7 +32,7 @@ Si puede contribuir, contribuya.
 Si no puede, inscríbase.
 Si no puede hacer ninguna de las dos cosas, comparta el discurso.
 Las tres cosas cuentan.
-Contribuya Vea el discurso (en inglés) VINCE PEREZ Luchando por Texas.
+Contribuya Vea el discurso (en inglés) Luchando por Texas.
 Cumpliendo por El Paso.
 Representante estatal · Distrito 77 de la Cámara de Representantes de Texas · El Paso.
 Ways & Means.

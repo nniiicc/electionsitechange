@@ -1,9 +1,10 @@
 {
  "description": "The latest news, press releases, and campaign updates from Eric Jones, running to represent California's 4th Congressional District.",
  "final_url": "https://www.ericjones.us/news",
- "fingerprint": "871eb177ee4c46ad56f1c0608b85391aecb402a6",
+ "fingerprint": "24f022ae88878cd3107289c6560c261e8107cdcc",
  "format": 3,
  "paid_for_by": "Paid for by Eric Jones for Congress",
+ "rendered": false,
  "title": "News — Eric Jones for Congress",
  "years_mentioned": []
 }

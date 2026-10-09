@@ -4,13 +4,13 @@ Meanwhile, the average household income is roughly half of what is required to q
 Read More Evening Edition: State Senator Balances Needs Of A Rural District January 24, 2025 It happens in Washington D.C. all the time but also in state legislatures, political decisions are often made down the party lines with members voting with the official policy or opinion of one’s political party.
 What happens when those policies work for cities but not for the rural districts of a state?
 That challenge could not be showcased better than in Washington State, which ranks second in the nation for agricultural production but also has cities like Seattle and Spokane to care for.
-Read More More News Drew MacEwen Follow 2,077 3,109 State Senator 35th District, Deputy Leader Senate Republicans Drew MacEwen @DrewMacEwen · 16h 2107909716940886381 Thank you food industry for your support!
+Read More More News Drew MacEwen Follow 2,078 3,109 State Senator 35th District, Deputy Leader Senate Republicans Drew MacEwen @DrewMacEwen · 24h 2108208022988488732 Thank you Refuse and Recycling association for your support!
+Twitter feed image.
+Reply on Twitter 2108208022988488732 Retweet on Twitter 2108208022988488732 0 Like on Twitter 2108208022988488732 1 Twitter 2108208022988488732 Drew MacEwen @DrewMacEwen · 7 Oct 2107909716940886381 Thank you food industry for your support!
 Twitter feed image.
 Reply on Twitter 2107909716940886381 Retweet on Twitter 2107909716940886381 0 Like on Twitter 2107909716940886381 0 Twitter 2107909716940886381 Drew MacEwen @DrewMacEwen · 6 Oct 2107500059369820332 Thank you to the Hospitality industry for your support !
 Twitter feed image.
 Reply on Twitter 2107500059369820332 Retweet on Twitter 2107500059369820332 0 Like on Twitter 2107500059369820332 1 Twitter 2107500059369820332 Drew MacEwen @DrewMacEwen · 5 Oct 2107137132188106979 Thank you law enforcement for your support!
 Twitter feed image.
-Reply on Twitter 2107137132188106979 Retweet on Twitter 2107137132188106979 0 Like on Twitter 2107137132188106979 1 Twitter 2107137132188106979 Drew MacEwen @DrewMacEwen · 3 Oct 2106234975628726280 Anyone surprised?
-Ari Hoffman @thehoffather NEW: Democratic Rep Cindy Ryu admits her party plans to lower the threshold on the income tax from millionaires to everyone in WA state & that she wants to tax companies more She told KUOW, "Let's look at less, about 250,000.
-Can we live well on$250,000 a year of net income?" Reply on Twitter 2106234975628726280 Retweet on Twitter 2106234975628726280 1 Like on Twitter 2106234975628726280 1 Twitter 2106234975628726280 Load More Paid for by Committee to Re-elect Drew MacEwen PO Box 651 UNION, WA 98592 Drew MacEwen is a former member of the United States Navy Force.
+Reply on Twitter 2107137132188106979 Retweet on Twitter 2107137132188106979 0 Like on Twitter 2107137132188106979 1 Twitter 2107137132188106979 Load More Paid for by Committee to Re-elect Drew MacEwen PO Box 651 UNION, WA 98592 Drew MacEwen is a former member of the United States Navy Force.
 Use of Drew MacEwen’s military rank, job titles, and photographs in uniform does not imply endorsement by the Navy or the Department of Defense. © # Committee to Re-elect Drew MacEwen | Privacy Policy

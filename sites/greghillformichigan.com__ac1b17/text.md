@@ -40,7 +40,7 @@ Since 2018, Michigan voters have had to pass eight statewide ballot measures jus
 And every single one passed — by huge margins: 67%, 61%, 56%, 89%, 84%, 57%, 60%, 66%.
 When voters across parties agree by those margins, but the Legislature still can’t act, it tells you everything you need to know: Politicians are listening to their party and their donors — not the people they represent.
 That’s exactly why I’m running.
-I don’t want 1 min read Explore More ​ Upcoming Events Multiple Dates Community Conversation- Virtual Thu, Oct 08 Link will be sent out prior to the event More info RSVP Reach Out Anytime Have a question?
+I don’t want 1 min read Explore More ​ Upcoming Events Multiple Dates Community Conversation- Virtual Thu, Oct 22 Link will be sent out prior to the event More info RSVP Reach Out Anytime Have a question?
 Want to host a meeting?
 Want to talk about an issue?
 First name * Last name * Email * Phone Message Join the Movement From the Sideline to the Senate Floor.

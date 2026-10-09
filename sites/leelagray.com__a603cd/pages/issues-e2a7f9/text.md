@@ -19,7 +19,7 @@ I want to hear from you!
 Connect with me on social media and send your comments.
 Volunteer if you would like to join my team and help stop the chaos.
 We are stronger together and together we will win!
-Cutting Costs Agenda Growing Economic Opportunities Fighting for Our Most Vulnerable Protecting our Beaches, Land, and Coastal Economy Anti-Corruption Agenda Cutting Costs Agenda View more Growing Economic Opportunities View more Fighting for Our Most Vulnerable View more Protecting our Beaches, Land, and Coastal Economy View more Anti-Corruption Agenda View more sign up to Get Involved First Name First Name Last Name Last Name Email Email Zip Code Zip Code Phone Phone Sign me up for SMS texts.
+Cutting Costs Agenda Anti-Corruption Agenda Growing Economic Opportunities Fighting for Our Most Vulnerable Protecting our Beaches, Land, and Coastal Economy Cutting Costs Agenda View more Anti-Corruption Agenda View more Growing Economic Opportunities View more Fighting for Our Most Vulnerable View more Protecting our Beaches, Land, and Coastal Economy View more sign up to Get Involved First Name First Name Last Name Last Name Email Email Zip Code Zip Code Phone Phone Sign me up for SMS texts.
 By selecting this checkbox you are agreeing to receive text messages from Leela J.
 Gray for Congress.
 Leela J.

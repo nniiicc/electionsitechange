@@ -29,10 +29,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=4599+east+tennessee+avenue+denver%2C+co%2C+80246+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=5151+leetsdale+drive+denver%2C+colorado%2C+80246+united+states"
 },
 {
@@ -112,6 +108,10 @@
 "href": "https://www.monicaforcolorado.com/events/coffee-hour-4-ynjt2-8hghg-zx88h-rn93y-dcr5p-za3jc-hctjm-bbx97-xxex9-hfzt7"
 },
 {
+"text": "Coffee Hour for HD9",
+"href": "https://www.monicaforcolorado.com/events/coffee-hour-4-ynjt2-8hghg-zx88h-rn93y-dcr5p-za3jc-hctjm-bbx97-xxex9-hfzt7-e9dt7"
+},
+{
 "text": "Contact",
 "href": "https://www.monicaforcolorado.com/contact"
 },
@@ -142,10 +142,6 @@
 {
 "text": "Events",
 "href": "https://www.monicaforcolorado.com/events"
-},
-{
-"text": "Father’s Day Family-Friendly Tailgate and Denver Onyx Home Game",
-"href": "https://www.monicaforcolorado.com/events/denver-onyx-tailgate-and-home-opener-9k8mf-47wgy"
 },
 {
 "text": "Frontline Farm Volunteer Day at Celebration Garden",
@@ -185,6 +181,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+Hour+for+HD9&dates=20261210T170000Z%2F20270114T180000Z&location=850+South+Monaco+Street+Parkway%2C+Denver%2C+Colorado%2C+80224%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Denver+Democrats+Central+Committee+Meeting&dates=20260919T170000Z%2F20260919T213000Z&location=1700+East+Louisiana+Avenue%2C+Denver%2C+Colorado%2C+80210%2C+United+States"
 },
 {
@@ -198,10 +198,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Night+Watch+Party&dates=20260701T000000Z%2F20260701T030000Z&location=5151+Leetsdale+Drive%2C+Denver%2C+Colorado%2C+80246%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Father%E2%80%99s+Day+Family-Friendly+Tailgate+and+Denver+Onyx+Home+Game&dates=20260621T190000Z%2F20260621T230000Z&location=4599+East+Tennessee+Avenue%2C+Denver%2C+CO%2C+80246%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -345,6 +341,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.monicaforcolorado.com/events/coffee-hour-4-ynjt2-8hghg-zx88h-rn93y-dcr5p-za3jc-hctjm-bbx97-xxex9-hfzt7-e9dt7?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.monicaforcolorado.com/events/coffee-hour-4-ynjt2-8hghg-zx88h-rn93y-dcr5p-za3jc-hctjm-bbx97-xxex9-hfzt7?format=ical"
 },
 {
@@ -358,10 +358,6 @@
 {
 "text": "ICS",
 "href": "https://www.monicaforcolorado.com/events/denver-democrats-central-committee-meeting-1?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.monicaforcolorado.com/events/denver-onyx-tailgate-and-home-opener-9k8mf-47wgy?format=ical"
 },
 {
 "text": "ICS",
@@ -557,11 +553,11 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.monicaforcolorado.com/events/denver-democrats-central-committee-meeting-1"
+"href": "https://www.monicaforcolorado.com/events/coffee-hour-4-ynjt2-8hghg-zx88h-rn93y-dcr5p-za3jc-hctjm-bbx97-xxex9-hfzt7-e9dt7"
 },
 {
 "text": "View Event →",
-"href": "https://www.monicaforcolorado.com/events/denver-onyx-tailgate-and-home-opener-9k8mf-47wgy"
+"href": "https://www.monicaforcolorado.com/events/denver-democrats-central-committee-meeting-1"
 },
 {
 "text": "View Event →",
@@ -700,6 +696,10 @@
 "href": "https://www.monicaforcolorado.com/events/coffee-hour-4-ynjt2-8hghg-zx88h-rn93y-dcr5p-za3jc-hctjm-bbx97-xxex9-hfzt7"
 },
 {
+"text": "[image: Coffee Hour for HD9]",
+"href": "https://www.monicaforcolorado.com/events/coffee-hour-4-ynjt2-8hghg-zx88h-rn93y-dcr5p-za3jc-hctjm-bbx97-xxex9-hfzt7-e9dt7"
+},
+{
 "text": "[image: Denver Democrats Central Committee Meeting]",
 "href": "https://www.monicaforcolorado.com/events/denver-democrats-central-committee-meeting-1"
 },
@@ -714,10 +714,6 @@
 {
 "text": "[image: Election Night Watch Party]",
 "href": "https://www.monicaforcolorado.com/events/election-night-watch-party"
-},
-{
-"text": "[image: Father’s Day Family-Friendly Tailgate and Denver Onyx Home Game]",
-"href": "https://www.monicaforcolorado.com/events/denver-onyx-tailgate-and-home-opener-9k8mf-47wgy"
 },
 {
 "text": "[image: Frontline Farm Volunteer Day at Celebration Garden]",

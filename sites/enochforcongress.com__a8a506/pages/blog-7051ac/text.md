@@ -21,7 +21,7 @@ Today, legislation went… Read More about Why we must protect a woman’s right
 VANESSA ENOCH On June 12, Warren Davidson wrote what appeared to be a moving piece on his experiences of riding in cars with black friends, while they… Read More about Ending Asset Forfeiture is Not the Solution to Dealing with Racism Enoch was one of the organizers for the Cincinnati Women’s March 2020 July 26, 2020 For two years in a row, millions of women across this country have organized to make a very definitive statement that we will no longer tolerate being ignored.
 Men in… Read More about Enoch was one of the organizers for the Cincinnati Women’s March 2020 A Resource for Participants in Our Democracy August 17, 2018 You can find your representative and senators, and the legislation that affects you.
 As of this writing, the GovTrack website is tracking 12,030 bills, 537 legislators, and 564 votes this… Read More about A Resource for Participants in Our Democracy 1 2 Next » Search Search field required with a minimum length of 3 characters Search Upcoming Events October Meet & Greet with Dr.
-Vanessa Enoch @ Major Minor Books and Such October 11 @ 3:00 pm - 5:00 pm Major Minor Books and Such October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Columbia Township Community Center Facebook Twitter Pinterest Instagram LinkedIn Search Search field required with a minimum length of 3 characters Search Search Search field required with a minimum length of 3 characters Enoch for Congress U.S.
+Vanessa Enoch @ Major Minor Books and Such October 11 @ 3:00 pm - 4:30 pm Major Minor Books and Such October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Columbia Township Community Center Facebook Twitter Pinterest Instagram LinkedIn Search Search field required with a minimum length of 3 characters Search Search Search field required with a minimum length of 3 characters Enoch for Congress U.S.
 House of Representatives, Ohio's 8th District (OH-08) Contact P.O.
 Box 1362 West Chester, OH 45071 (513) 486-4829 dr.enoch@enochforcongress.com Get the Latest Name Please enter your name.
 Email Address Please enter a valid email address.
@@ -35,7 +35,7 @@ Join this historical campaign and stand up for the values that make our country 
 Make a difference.
 The Campaign is paid for by the Committee to Elect Enoch.
 Donate Volunteer Upcoming Events October Meet & Greet with Dr.
-Vanessa Enoch @ Major Minor Books and Such October 11 @ 3:00 pm - 5:00 pm October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Doc Enoch on Twitter Twitter feed is not available at the moment.
+Vanessa Enoch @ Major Minor Books and Such October 11 @ 3:00 pm - 4:30 pm October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Doc Enoch on Twitter Twitter feed is not available at the moment.
 Home Upcoming Events Blog Shop Contact Facebook Twitter Pinterest Instagram LinkedIn ©# Enoch for Congress.
 All Rights Reserved.
 Volunteer Portal Scroll To Top

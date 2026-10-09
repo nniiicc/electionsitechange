@@ -1,6 +1,15 @@
 Skip to main content Johnson for Senate Home About Priorities Press Community Contact Get Involved Determined to Do Right Brendan J.
-Johnson for Michigan State Senate, District 26 “Long shots are how 29-year-olds from dairy farms in Fostoria change things, and I’m determined to do it right.” Meet Brendan Where I Stand Donate Volunteer I read my own radio ads instead of using a station announcer, so here’s one of them.
-Read the script [SCRIPT GOES HERE] Why I’m Running I grew up on my family’s old dairy farm in Fostoria and I’ve worked as a grocery clerk, IT technician, construction laborer, school photographer, and licensed chauffeur.
+Johnson for Michigan State Senate, District 26 “Long shots are how 29-year-olds from dairy farms in Fostoria change things, and I’m determined to do it right.” Meet Brendan Where I Stand Donate Volunteer On the Radio I read my own radio ads instead of using a station announcer, so here’s one of them.
+Radio ad 0:00 / 0:25 Read the script Hi!
+I’m Brendan J.
+Johnson and I’m running for State Senate with no corporate cash and no paid staff.
+Just me, my wife, God, and a 20-year-old Corolla with a manual transmission.
+I work full-time in IT, so the campaign happens after work and on my days off.
+My parents and I have been complaining about the same stuff at the kitchen table for years and decades now.
+I want to help fix them.
+I’m determined to do what’s right.
+Paid for by Brendan Johnson for State Senate.
+Why I’m Running I grew up on my family’s old dairy farm in Fostoria and I’ve worked as a grocery clerk, IT technician, construction laborer, school photographer, and licensed chauffeur.
 Today I work full-time in IT, and I’m running for State Senate to do what’s best for everybody in this district.
 At just about every job I’ve had, I was told to slow down, not because I wasn’t doing good work, but because there wasn’t enough time to train me on everything I was willing to take on.
 When I looked at what this district actually needs from its senator, it felt like I’d finally found the right place for that energy.
@@ -37,7 +46,7 @@ My only recurring expense is a PO box.
 I handle most of it myself, the same way I approach everything else: as efficiently as possible.
 When you contribute, it goes toward reaching voters, not toward keeping an operation running.
 I know this is a long shot, and I’m not doing it alone.
-Every hour you give and every dollar you contribute goes directly toward letting the people here know how I want to help.
+Every hour you give and every donation goes toward letting the people here know how I want to help.
 Donate Now Volunteer Contact Brendan The Campaign at a Glance Candidate Brendan J.
 Johnson, 29, grew up on his family’s old dairy farm in Fostoria Occupation IT technician and licensed chauffeur Party Democrat Primary Won the Democratic primary, August 4, 2026 Race Michigan State Senate District 26: Saginaw, Genesee, Lapeer, and Tuscola counties General Election November 3, 2026 Campaign No corporate PAC money.
 No hired staff.

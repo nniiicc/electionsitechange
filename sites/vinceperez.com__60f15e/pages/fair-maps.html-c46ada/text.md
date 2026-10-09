@@ -1,4 +1,4 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate The Fight for Fair Maps "This map is an abomination." In summer 2025, the Texas Legislature took up a redistricting plan that would have made Texas Hispanics the most underrepresented population group of any group in any of the fifty states.
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate The Fight for Fair Maps "This map is an abomination." In summer 2025, the Texas Legislature took up a redistricting plan that would have made Texas Hispanics the most underrepresented population group of any group in any of the fifty states.
 Here's how we fought back. ▶ "Under the new Texas map, one Hispanic Texan carries one-third the political weight of one white Texan — and one Black Texan one-fifth." Watch the HB 4 floor remarks · August 22, 2025 · Texas House floor The numbers under the map Under HB 4, white Texans would receive one member of Congress for every 445,000 residents.
 For Hispanic Texans, it would take 1.4 million.
 For Black Texans, 2 million.
@@ -23,7 +23,7 @@ Yet 82% of your caucus does not represent a Hispanic population that reflects th
 This level of underrepresentation exceeds what even conservative courts have struck down in Louisiana, Alabama, and just yesterday, Mississippi." "We all took an oath to uphold the Constitution — not to flagrantly violate it or test its limits." The fight isn't over.
 The map fight continues — in the courts, in the next session, and in every district where the lines were drawn to silence voters.
 Stand with the office making the case.
-Support the fight Sign up for updates Share the remarks VINCE PEREZ Fighting for Texas.
+Support the fight Sign up for updates Share the remarks Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

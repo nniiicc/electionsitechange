@@ -1,0 +1,3 @@
+9/22/26, 11:21 AM Tax Exempt Organization Search Details | Internal Revenue Service J T WAGGONER BOOK FOUNDATION EIN: 93-2739387 | United States Auto-Revocation List Organizations whose federal tax exempt status was automatically revoked for not filing a Form 990-series return or notice for three consecutive years.
+Important note: Just because an organization appears on this list, it does not mean the organization is currently revoked, as they may have been reinstated.
+Exemption Type: 501(c)(3) Exemption Reinstatement Date: Revocation Date: 01-15-2026 Revocation Posting Date: 04-14-2026 https://apps.irs.gov/app/eos/details/ 1/1

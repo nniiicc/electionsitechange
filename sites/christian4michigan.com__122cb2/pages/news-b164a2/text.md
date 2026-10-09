@@ -1,0 +1,45 @@
+Facebook Twitter Bluesky Instagram Email Home Meet Christian Christian's Values Endorsements District Map Events News Get Involved Donate Donate Newsroom Campaign news, press releases, and statements.
+Press release October 6, 2026 Vukasovich Challenges Walberg’s Record on Rural Health Care Democratic congressional candidate Christian Vukasovich is challenging Republican incumbent Tim Walberg’s record as rural communities across Michigan’s 5th Congressional District lose access to health care and working families struggle with rising costs.
+Read more Press release October 5, 2026 10/05/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press release October 5, 2026 Vukasovich: Michigan Families Deserve Lower Costs, Not More Tariffs Democratic congressional candidate Christian Vukasovich is calling for action to lower costs for Michigan families following reports that Michigan households face an estimated $5,619 annual tariff burden.
+At the same time, 35.4% of children in Niles Township live below the poverty line.
+Read more Press release October 3, 2026 Vukasovich Earns Young Democrats of Michigan Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the Young Democrats of Michigan.
+Read more Press release September 30, 2026 Vukasovich Demands Campus Sexual Assault Reform Democratic congressional candidate Christian Vukasovich is calling on Congress to tie federal funding to campus sexual-assault protections, pass the bipartisan Campus Accountability and Safety Act (CASA Act) and restore stronger Title IX safeguards, arguing that colleges should not be able to protect their reputations at the expense of student safety.
+Read more Media coverage September 28, 2026 NAACP & Dominican Sisters Candidate Forum on WLEN September 28, 2026 NAACP and Dominican Sisters Candidate Forum on WLEN Read more Press release September 28, 2026 9/28/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press release September 23, 2026 Vukasovich Earns Michigan Education Association Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the Michigan Education Association (MEA), representing educators and education professionals across Michigan.
+Read more Press release September 21, 2026 Vukasovich Invites CD-5 Residents to Meet the Candidates in Tecumseh Voters in Michigan’s 5th Congressional District will have an opportunity to hear directly from the candidates for U.S.
+House on Sept.
+29 at the Tecumseh District Library.
+Read more Press release September 21, 2026 9/21/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press release September 19, 2026 Attacks on a Free Press Are Attacks on Democracy Democratic congressional candidate Christian Vukasovich is calling on Rep.
+Tim Walberg (R-Mich.) to defend the First Amendment following the White House decision to bar CNN, MS NOW and Politico journalists and deactivate their press credentials.
+The move has drawn criticism from journalism organizations and raised constitutional concerns over the government restricting press access based on coverage it dislikes.
+Read more Press release September 18, 2026 Vukasovich: Families Shouldn’t Have to Choose Between Gas and Groceries Democratic congressional candidate Christian Vukasovich is challenging Rep.
+Tim Walberg (R-Mich.) after Walberg said during an appearance on JTV’s The Bart Hawley Show that long-term energy security may require Americans to make sacrifices.
+Read more Press release September 15, 2026 Vukasovich Earns UAW Region 1A Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of UAW Region 1A in Michigan’s 5th Congressional District.
+Read more Press release September 15, 2026 Vukasovich Earns MI Poder Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of MI Poder, a Michigan organization dedicated to building political power and advancing economic opportunity for Latinx communities across the state.
+Read more Press material September 14, 2026 9/14/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press release September 9, 2026 Vukasovich Demands Action on Beef Imports, Rising Market Concentration Democratic congressional candidate Christian Vukasovich is calling for stronger antitrust enforcement, food-safety oversight and country-of-origin labeling following the administration's decision to expand duty-free beef imports.
+Read more Press material September 7, 2026 9/7/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press release September 6, 2026 Vukasovich Calls for Accountability Over $27 Billion Federal Corporate Portfolio Democratic congressional candidate Christian Vukasovich is calling for greater congressional oversight of the federal government’s growing portfolio of corporate investments.
+Read more Press release August 31, 2026 8/31/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Media coverage August 28, 2026 Bart Hawley Show interview on JTV August 28, 2026 interview on JTV's Bart Hawley Show Read more Press release August 24, 2026 Vukasovich Earns United Steelworkers Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of the United Steelworkers (USW), one of North America’s largest industrial unions.
+Read more Press release August 24, 2026 8/24/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press material August 21, 2026 Farming and Renewable Energy Position Sheet This sheet outlines Christian Vukasovich’s positions on selected issues related to farming and renewable energy affecting Michigan farmers and land owners.
+Read more Press release August 17, 2026 8/17/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press release August 10, 2026 8/10/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press release August 5, 2026 Primary Turnout a Sign of Democratic Momentum in Michigan's 5th District The results of Michigan's Aug.
+4 primary election demonstrate growing enthusiasm among Democratic voters and increasing momentum in the race for the 5th Congressional District.
+Read more Press release August 3, 2026 8/3/26 Campaign Volunteer Connection Newsletter The Michigan-5th Volunteer Connection is a weekly newsletter going out to volunteers and friends across this district.
+Read more Press release July 31, 2026 Vukasovich Earns Local 671 Endorsement Democratic congressional candidate Christian Vukasovich announced today that his campaign has received the endorsement of Plumbers, Pipefitters, HVAC & Welders Local 671.
+Read more Press material July 1, 2026 Side-By-Side Candidate Comparison This side-by-side comparison examines where Christian Vukasovich and Tim Walberg differ on the issues that matter most to Michigan families, including healthcare, the economy, democracy, immigration, fair trade, education, support for seniors and veterans, infrastructure, energy, and the environment.
+It is designed to give voters an accessible comparison between two fundamentally different visions for Michigan’s 5th Congressional District.
+Read more Press release June 19, 2026 STURGIS TOWN HALL ADVISORY Congressional candidate Christian Vukasovich will host a Public Town Hall on the Sturgis Hospital Closing on Tuesday, July 28, at 6:30 p.m. at the Sturges-Young Center for the Arts, 201 N.
+Nottawa St.
+Read more Press release June 6, 2026 This Week In Lenawee interview on WLEN Jun 6, 2026 interview on WLEN's This Week In Lenawee Read more Christian Vukasovich Running for U.S.
+Congress, Michigan's 5th District Common Sense.
+Michigan Values.
+A Voice for All of Us.
+Quick Links Meet Christian Christian's Values Endorsements Events News Get Involved Facebook Twitter Bluesky Instagram Email Connect © # Christian Vukasovich for Congress.
+All rights reserved.
+Paid for by Christian4Michigan - PO Box 293 Galien, MI 49113

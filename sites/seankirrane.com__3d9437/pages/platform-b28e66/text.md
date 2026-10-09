@@ -1,0 +1,29 @@
+IT'S TIME!
+DONATE NOW TO ELECT SEAN TO CONGRESS ABOUT SEAN PLATFORM PRESS CONTACT DONATE VOLUNTEER Real Problems.
+Real Solutions for New Jersey Families.
+Lowering Property Taxes & the Cost of Living The Issue New Jersey families are being crushed by the highest property taxes in America while sending more money to Washington than we get back.
+Sean's Solution ▶ Restoring the full SALT deduction ▶ Bringing New Jersey's fair share back from Washington ▶ Reforming federal policies that drive up local property taxes ▶ Eliminating taxes on retirement income so seniors can afford to stay in New Jersey ▶ Capping administrative waste in federal programs at 10% and requiring annual audits Result: Lower property taxes, more money in your pocket, and a system that stops penalizing success.
+Making Housing Affordable Again The Issue Rising interest rates and corporate home buying are pricing families out of homeownership.
+Sean's Solution Sean authored the American Citizens' Primary Residence Mortgage Act, a targeted plan to restore affordability: ▶ Provides temporary federal interest relief during high rate periods ▶ Expands access through 30 and 40 year fixed mortgage options while allowing homeowners to move without being trapped by higher rate environments ▶ Encourages downsizing to free up larger family homes for younger buyers, helping restart the natural housing cycle ▶ Prioritizes American families not investors or foreign buyers by funding relief through taxes on speculative and foreign real estate purchases Result: Lower monthly payments, more first-time buyers, increased housing inventory, and a housing market that works for families—not corporations.
+Fixing Healthcare Costs The Issue Families are paying too much for health insurance, prescriptions, and basic care.
+Sean's Solution Sean's American Citizens' Health Insurance Act guarantees affordable coverage while preserving choice: ▶ Universal baseline coverage for all American citizens ▶ Income-based caps on out-of-pocket costs ▶ Full inclusion of mental health and preventive care ▶ Private insurers compete to deliver better options ▶ Funded fairly through progressive contributions and non-citizen participation Result: Lower costs, universal coverage, and a simpler system that puts patients first.
+Fixing Homelessness The Issue Homelessness is rising due to untreated mental illness, unsafe shelters, and a lack of accountability.
+Sean's Solution Sean's Homeless Solutions and Stability Act creates a system focused on results: ▶ Safe, private shelter units instead of unsafe mass facilities ▶ Mandatory mental health screening and treatment ▶ A structured path from shelter → housing → independence ▶ Job training and tax incentives for employers ▶ Funding tied to measurable outcomes—not bureaucracy Result: Fewer people on the streets, safer communities, and real paths back to independence.
+Fixing Commutes & Building a Stronger Economy The Issue New Jersey commuters face long delays, unreliable service, and no efficient one-seat ride into Manhattan.
+Sean's Solution ▶ Fully fund Gateway Phase 2, including the Secaucus Loop ▶ Deliver a true one-seat ride into Manhattan ▶ Replace outdated diesel trains with modern electric rail systems ▶ More reliable service with fewer breakdowns ▶ Lower emissions and reduced environmental impact ▶ Create thousands of New Jersey-based infrastructure jobs Result: Faster, more reliable commutes and a stronger regional economy.
+Making Government Work Like a Business The Issue Washington wastes taxpayer money with bloated bureaucracy and no accountability.
+Sean's Solution Sean isn't a career politician—he's a corporate executive who fixes broken systems. ▶ Capping administrative costs and streamline government operations ▶ Cap overhead in federal programs and demand measurable results ▶ Require annual audits and performance-based funding ▶ Eliminate inefficiency the same way successful companies do Result: A government that runs efficiently, spends responsibly, and delivers real outcomes.
+Supporting Seniors & Protecting Retirement The Issue Seniors are being taxed and priced out of the state they spent their lives building.
+Sean's Solution ▶ Eliminating taxes on retirement income ▶ Lowering healthcare costs for seniors ▶ Reducing the overall cost of living so retirees can stay in New Jersey Result: Financial security and dignity in retirement.
+Improving Education & Reducing Pressure on Families The Issue School funding drives up property taxes, while parents want more transparency and accountability.
+Sean's Solution ▶ Reducing tax pressure on families ▶ Increasing transparency so parents know what's being taught ▶ Keeping schools focused on academic excellence and outcomes Result: Better schools, lower costs, and more trust.
+Lowering Energy Costs The Issue Energy costs are rising, putting pressure on families and businesses.
+Sean's Solution Sean supports an all-of-the-above approach focused on affordability: ▶ Expand domestic energy production ▶ Strengthen grid reliability ▶ Encourage innovation to reduce long-term costs Result: Lower energy bills and a more stable energy system.
+Standing With Our Allies & Protecting Our Communities The Issue Rising crime, antisemitism, and global instability threaten communities at home and abroad.
+Sean's Solution ▶ Stand firmly with Israel and take strong action against antisemitism ▶ Stand with law enforcement to keep our communities safe ▶ Promote unity and reject extremism ▶ Strengthen intelligence-sharing and counterterrorism efforts Result: Safer communities and stronger alliances.
+Ready to Support Real Solutions?
+Lower taxes.
+Better commutes.
+Affordable housing.
+A government that works.
+DONATE NOW VOLUNTEER QUICK LINKS About Sean Platform Press GET INVOLVED Volunteer Donate CONNECT info@kirraneforcongress.com New Jersey District 5 Paid for by Sean Kirrane for Congress Privacy Policy Terms of Service

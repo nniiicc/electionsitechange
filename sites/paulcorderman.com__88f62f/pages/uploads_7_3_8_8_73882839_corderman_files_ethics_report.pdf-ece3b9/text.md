@@ -1,0 +1,10 @@
+3/4/26, 4:19 PM Email from The Office of Senator Paul D.
+Corderman September 29, 2025 FOR IMMEDIATE RELEASE: Corderman Files Ethics Review & PIA Request Regarding Hagerstown City Councilmember In recent weeks, our office received information that raises concerns about Hagerstown Councilmember Erika Bell allegedly using her official title to influence discussions involving the City of Hagerstown Police Department, reportedly for personal or associate benefit in questionable circumstances.
+Our office believed that other City officials, along with AFSCME Council 67, Local 3373, and the Hagerstown Police Union, intended to initiate a review of these concerns with the City of Hagerstown’s Ethics Commission.
+To the best of our knowledge, that review has not yet occurred.
+Per Senator Corderman, “This information must be shared with the appropriate entities to review.
+Neglecting to act would not only be irresponsible, but a clear failure to uphold our duty to the citizens of Hagerstown.
+As such, today our office filed both a request for an Ethics Review and a Maryland Public Information Act (PIA) in response to these concerns with the City of Hagerstown.” Additionally added by Corderman, “As a public servant representing the City of Hagerstown, we believe it is our office’s obligation to pass this information on to the City of Hagerstown’s Ethics Commission.
+We trust the Commission will take this matter seriously, by conducting a thorough and transparent review, hearing, and subsequent issuing of a public opinion of their findings.” For additional questions, please contact the office of Senator Corderman at: Paul.Corderman@senate.maryland.gov The Office of Senator Paul D.
+Corderman | PO Box 2032 | Hagerstown, MD 21742 US Unsubscribe | Update Profile | Constant Contact Data Notice https://app.constantcontact.com/pages/campaigns/email-reporting/activity/3dee55c9-691b-48c9-b77b-97e4b3c7174d 1/2 3/4/26, 4:19 PM Email from The Office of Senator Paul D.
+Corderman https://app.constantcontact.com/pages/campaigns/email-reporting/activity/3dee55c9-691b-48c9-b77b-97e4b3c7174d 2/2

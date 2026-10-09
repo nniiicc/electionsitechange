@@ -1,9 +1,13 @@
 {
  "description": "Zack Mullock is Cape May's two-term Mayor, community leader, who's ready to fight for affordable healthcare, good-paying jobs, and a brighter future.",
  "final_url": "https://mullockforcongress.com/",
- "fingerprint": "b8c4ca013d9628f9561a7c2a01b0a55e55569830",
+ "fingerprint": "23ed91ae1c241e23dd223d2a228f1e90fe2443ed",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Sponsored by the Democratic Action Network LBI",
+ "rendered": true,
  "title": "Zack Mullock for Congress | A Voice for South Jersey",
- "years_mentioned": []
+ "years_mentioned": [
+  "2020",
+  "2026"
+ ]
 }

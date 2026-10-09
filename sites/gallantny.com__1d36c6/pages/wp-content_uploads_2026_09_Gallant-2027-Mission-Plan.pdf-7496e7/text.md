@@ -1,0 +1,9 @@
+Gallant 2027 Mission Plan As a military pilot, firefighter, union leader, and public servant, Chris Gallant understands that missions succeed because there is a plan.
+The Gallant Mission Plan 2027 is a roadmap for what Chris will fight to accomplish during his first term in Congress, focused on bringing federal resources back to Long Island and delivering measurable results for NY-01.
+Mission One: Lowering the Cost of Living on Long Island Lower the cost of living so Long Island families can stay here, raise their children, and give the next generation a real shot.
+1 Mission Two: Prepare Long Island for the Future Make sure Long Island is prepared for the next storm.
+Fix what's broken, build what's needed, and make sure Long Island's roads, bridges, water systems, and broadband reflect what Suffolk County taxpayers actually pay into.
+Mission Three: Protect Medicare, Medicaid, Social Security, and Provide Affordable Health Care Protect the health care and retirement security Long Islanders have earned, lower prescription drug costs, and make health care more affordable, reliable, and accessible for every family.
+Mission Four: Supporting Veterans and Military Families Make Long Island a national model for veteran care with faster access, stronger mental health services, real housing support, and a Northport VA that finally lives up to what the men and women who served this country deserve.
+Mission Five: Supporting Labor and Working Families​ Fight for the wages, protections, and opportunities that Long Island's working people have earned, and build an economy where a union card still means a path to the middle class.
+Mission Six : Restoring Trust in Government​ Restore trust in government by bringing transparency, accountability, and integrity back to Washington. www.GallantNY.com Paid for by Gallant for Congress 2 3 4 5 6

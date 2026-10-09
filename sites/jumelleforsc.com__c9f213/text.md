@@ -1,4 +1,4 @@
-About Jumelle Brooks News & Events Join the Movement Follow Follow Follow DONATE About Jumelle Brooks News & Events Join the Movement Follow Follow Follow DONATE SC HOUSE DISTRICT 12 For the people... not the politics Tired of all the talking?
+Follow Follow Follow Follow DONATE About Jumelle Brooks News & Events Join the Movement Follow Follow Follow DONATE SC HOUSE DISTRICT 12 For the people... not the politics Tired of all the talking?
 NOW is the time for action!
 There’s too much political theater in Columbia today.
 Precious time is being wasted when we have serious issues that need to be worked on.

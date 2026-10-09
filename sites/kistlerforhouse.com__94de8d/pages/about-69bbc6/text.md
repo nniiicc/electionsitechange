@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Join The Campaign Open Menu Close Menu Home About Issues Join The Campaign Open Menu Close Menu Home About Issues Join The Campaign Charlie Kistler is a husband, father, grandfather, and neighbor.
+0 Skip to Content Home About Issues Join The Campaign Privacy Policy Open Menu Close Menu Home About Issues Join The Campaign Privacy Policy Open Menu Close Menu Home About Issues Join The Campaign Privacy Policy Charlie Kistler is a husband, father, grandfather, and neighbor.
 He is a lifelong Minnesotan and has been a resident of Brooklyn Park for almost 50 years.
 He and his wife have been married for 49 years and raised two children in the community they love.
 Today, they enjoy spending time with their granddaughter and remain deeply invested in the future of Minnesota families.
@@ -12,4 +12,4 @@ If elected, he’ll bring that same approach to Brooklyn Park and Osseo by liste
 Meet Charlie I'm running for the Minnesota House because our communities deserve practical leadership.
 Today, too many families are feeling the pressure of rising costs, public safety concerns, and uncertainty about the future.
 As such, I’ll work to eliminate fraud, protect taxpayers, support law enforcement, and help restore trust in Minnesota government.
-Kistler For House kistler4mn38a@gmail.com Mail Contribution Please make campaign contributions to: Charlie Kistler for House 7964 Brooklyn Blvd #153 Brooklyn Park, MN 55445 DONATE NOW DONATE NOW Made with Squarespace
+Kistler For House kistler4mn38a@gmail.com Mail Contribution Please make campaign contributions to: Charlie Kistler for House 7964 Brooklyn Blvd #153 Brooklyn Park, MN 55445 DONATE NOW DONATE NOW Privacy Policy Made with Squarespace

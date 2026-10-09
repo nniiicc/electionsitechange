@@ -1,4 +1,4 @@
-English VINCE PEREZ Distrito 77 de Texas · El Paso ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Prioridades La agenda para El Paso.
+English ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Prioridades La agenda para El Paso.
 Lo que llevamos a la próxima sesión: por El Paso, por las familias trabajadoras de Texas y por la democracia misma.
 Prioridad 01 Mapas justos y el derecho al voto Seguir adelante con la lucha que comenzamos contra HB 4.
 Impugnar los mapas que borran el poder electoral de los votantes hispanos y afroamericanos.
@@ -22,7 +22,7 @@ Esta agenda solo avanza con usted.
 Agregue su nombre.
 Haga una contribución.
 Ayúdenos a conservar el escaño y a mantenernos firmes.
-Haga una contribución Inscríbase VINCE PEREZ Luchando por Texas.
+Haga una contribución Inscríbase Luchando por Texas.
 Cumpliendo por El Paso.
 Representante estatal · Distrito 77 de la Cámara de Representantes de Texas · El Paso.
 Ways & Means.

@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.ruhero.com/about-me/",
- "paid_for_by": null,
- "title": "About Me \u2013 Clifton Brown",
- "years_mentioned": []
+ "fingerprint": "cb07df9e895c84e465ca53887d431213d474a920",
+ "format": 3,
+ "paid_for_by": "",
+ "rendered": false,
+ "title": "About Me – Clifton Brown",
+ "years_mentioned": [
+  "1958",
+  "1971"
+ ]
 }

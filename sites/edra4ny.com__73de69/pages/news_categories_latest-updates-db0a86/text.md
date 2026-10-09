@@ -1,5 +1,5 @@
 top of page DONATE SUBSCRIBE MEET ED ON THE ISSUES LATEST UPDATES GET INVOLVED VOLUNTEER LAWN SIGN REQUEST GET IN TOUCH EVENTS Use tab to navigate through the menu items.
-PRESS RELEASES LATEST UPDATES MEDIA ADVISORY Search ASSEMBLYMAN ED RA ANNOUNCES WINNER OF 2026 ‘THERE OUGHT TO BE A LAW’ CONTEST Assembly Minority Leader Ed Ra with contest winner Gabriella Rodia on Monday, June 22, 2026.
+ALL ARTICLES PRESS RELEASES LATEST UPDATES MEDIA ADVISORY Search ASSEMBLYMAN ED RA ANNOUNCES WINNER OF 2026 ‘THERE OUGHT TO BE A LAW’ CONTEST Assembly Minority Leader Ed Ra with contest winner Gabriella Rodia on Monday, June 22, 2026.
 Assembly Minority Leader Ed Ra (R-Franklin Square) hosted his eighth annual “There Ought to Be a Law” ceremony on Monday, June 22 at Mineola High School, where he recognized 30 semi-finalists selected from 553 entries submitted by fifth-grade students across nine local schools.
 The annual contest invites students to think critically about ideas they think might make good laws.
 T Jun 24 1 min read ASSEMBLYMAN ED RA PRESENTS CAPITOL-FLOWN FLAGS TO LOCAL ELEMENTARY SCHOOLS Assemblyman Ed Ra (R-Franklin Square) presents a Capitol-flown flag during the Manor Oaks School Flag Day Assembly on Monday, June 15, 2026.

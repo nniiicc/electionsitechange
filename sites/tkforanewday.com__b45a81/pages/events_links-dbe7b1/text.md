@@ -1,4 +1,4 @@
-Skip to content TK for a New Day Home About TK NewDay Vision Contact TK Events Links Vision for a NEW Day Click Here to Register to Vote Online Register to Vote How a bill becomes law in MN Bill to Law When and how to see the MN Senate Webcast Senate Webcast Who your representatives are, and how to call them Contact List Look up who represents you by your address here.
+Skip to content TK for a New Day Home About TK NewDay Vision Contact TK Events Links Vision for a NEW Day Click Here to Register to Vote Online Register to Vote Current Senator, District 10, How He Voted View Voting Records & Bill Documents How a bill becomes law in MN Bill to Law When and how to see the MN Senate Webcast Senate Webcast Who your representatives are, and how to call them Contact List Look up who represents you by your address here.
 Who Represents Me?
 What are the MN Senate Committees, who is on them, and what are they doing?
 Senate Committees State Government Websites Links State Government Websites Curious about the rules here?

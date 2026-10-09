@@ -1,5 +1,5 @@
-DAN ZITOFSKY Meet Dan Service Family Priorities Full Plan Vote Volunteer Donate ★ ★ ★ Republican Nominee · Delaware House of Representatives DAN ZITOFSKY 4 TH DISTRICT State Representative Bringing common-sense, conservative leadership to Dover, and fighting for the hardworking families of the 4th District.
-Navy Veteran Retired Police Officer Community Leader Get Involved → Where Dan Stands Scroll to meet Dan Friends for Dan Zitofsky Meet Dan A Lifetime of Service to His Community Dan Zitofsky, a Navy veteran, retired police officer, and dedicated community leader, has announced his candidacy as the Republican nominee for the Delaware House of Representatives in the 4th District.
+DAN ZITOFSKY Endorsements Meet Dan Service Family Priorities Full Plan Vote Volunteer Donate ★ ★ ★ Republican Nominee · Delaware House of Representatives DAN ZITOFSKY 4 TH DISTRICT State Representative Bringing common-sense, conservative leadership to Dover, and fighting for the hardworking families of the 4th District.
+Navy Veteran Retired Police Officer Community Leader Get Involved → Where Dan Stands Scroll to meet Dan Friends for Dan Zitofsky Who's Behind Dan Endorsed By Leaders You Trust ❮ ❯ Meet Dan A Lifetime of Service to His Community Dan Zitofsky, a Navy veteran, retired police officer, and dedicated community leader, has announced his candidacy as the Republican nominee for the Delaware House of Representatives in the 4th District.
 “I'm running as a Republican because our district needs strong, principled representation that puts Delaware families first.
 We've had enough of higher taxes, crumbling roads, and failing schools.
 It's time to deliver real results.” Dan Zitofsky “Delaware's strength comes from its people: our farmers, first responders, tradespeople, and small business owners.
@@ -35,5 +35,5 @@ Sign Me Up → We'll never share your information.
 Paid for by Friends for Dan Zitofsky. ✓ You're on the team!
 Thanks for stepping up.
 Someone from the campaign will be in touch soon. × DAN ZITOFSKY Common-sense, conservative leadership for the hardworking families of Delaware's 4th District.
-Explore Meet Dan His Service Family & Community Priorities Full Plan for District 4 Vote Early Connect Facebook 302.480.1207 Dan@VoteZitofsky.com Paid for by Friends for Dan Zitofsky © Dan Zitofsky for State Representative.
+Explore Endorsements Meet Dan His Service Family & Community Priorities Full Plan for District 4 Vote Early Connect Facebook 302.480.1207 Dan@VoteZitofsky.com Paid for by Friends for Dan Zitofsky © Dan Zitofsky for State Representative.
 All rights reserved.

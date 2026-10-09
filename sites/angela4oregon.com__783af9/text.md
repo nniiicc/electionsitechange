@@ -6,7 +6,10 @@ Building a Safer, Smarter, Stronger Oregon.
 Oregon didn't get here by accident.
 Forty years of one party rule got us here, and it's time for leadership that owns the consequences.
 Oregon Senate, District 10 U.S.
-Air Force Veteran Clinical Psychologist Small Business Owner I'm Dr.
+Air Force Veteran Clinical Psychologist Small Business Owner This is not Washington's fault.
+It's Salem's.
+See Deb Patterson's record, and hold her accountable.
+See The Record I'm Dr.
 Angela Plowhead.
 A mother, wife, veteran, clinical psychologist, and small business owner.
 I served in the U.S.

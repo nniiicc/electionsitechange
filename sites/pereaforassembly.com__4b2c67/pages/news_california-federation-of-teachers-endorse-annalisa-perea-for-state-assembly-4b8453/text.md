@@ -17,4 +17,4 @@ CFT joins educational leaders like Central Unified School District trustees Josh
 I will continue to work to secure and support policies and resources that ensure every family has access to a high-quality public education.” Annalisa Perea currently serves on the Fresno City Council, her leadership is grounded in deep community engagement.
 From tamale giveaways and school supply drives to neighborhood meetings in backyards, she’s built a reputation as a councilmember who shows up, listens, and follows through.
 A certified city planner and former community college trustee, Perea carries forward a lifelong belief in education, equity, and opportunity for every family.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

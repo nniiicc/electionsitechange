@@ -1,9 +1,10 @@
 {
  "description": "See Tiffany’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Tiffany-Price/events/",
- "fingerprint": "152ec9648a17dbf5817df5024a07af127088b517",
+ "fingerprint": "34971044bec3fcd6253aca03d170ba35cb91d1ea",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Tiffany Price Events",
  "years_mentioned": [
   "2026"

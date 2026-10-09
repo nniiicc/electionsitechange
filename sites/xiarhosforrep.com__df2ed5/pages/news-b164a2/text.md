@@ -56,9 +56,60 @@ If you have any questions, please email my office at Steven.Xiarhos@mahouse.gov 
 Xiarhos Announces Committee Approval of “Colby’s Law” Xiarhos Committee 2025-10-24T05:21:09-04:00 Rep.
 Xiarhos Supports Legislation to Protect Children Receiving State Services and in Foster Care Xiarhos Committee 2025-10-21T11:07:30-04:00 Rep.
 Xiarhos Recognizes National Move Over Day Xiarhos Committee 2025-10-21T10:08:52-04:00 Rep.
-Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK State Representative Steve Xiarhos October 8th GOOD MORNING & HAPPY THANKFUL THURSDAY Operation Flags for Vets Today we are especially thankful for the Monti family and the incredible tradition they continue to carry on in honor of their son and brother, U.S.
+Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK State Representative Steve Xiarhos October 9th GOOD MORNING AND HAPPY REMEMBER EVERYONE DEPLOYED FRIDAY!
+FROM TRAGEDY TO TRIUMPH!
+Some GREAT NEWS to share!
+My good friend James LaMonte and his team at the K9 PTSD Center in Seekonk continue to do incredible work for our four-legged heroes.
+The new Massachusetts K9 license plates are arriving!
+Thousands have been ordered, and you’ll be seeing them all over the Commonwealth.
+The plates feature K9 Nero, a Belgian Malinois, with the letters SG honoring Sergeant Sean Gannon.
+They also recognize K9 Mikey, a retired Boston Police K9 German Shepherd who was James LaMonte’s first dog.
+The money raised helps support the dogs at the Seekonk center and the planned second Canine PTSD Center right here in Bourne on Cape Cod!
+And don’t forget, we hold an annual blood drive for dogs in Sean’s memory.
+Best of all, Nero is still alive and STILL RUNNING STRONG!
+Please join us October 18th in Bourne for the first-ever K9 5K on Cape Cod!
+We’ll recognize the incredible K9 heroes and their handlers from across the Commonwealth, and we hope to make it an annual tradition.
+Think about how far we’ve come since the tragic loss of Sean Gannon and the shooting of his devoted partner, Nero.
+We’ve built the K9 Sergeant Sean M.
+Gannon Training Center at Yarmouth Police Headquarters, Sean’s dream.
+We’ve passed Nero’s Law and Dakota’s Law, established a nonprofit in Sean’s memory, organized an annual K9 blood drive, and now have these new license plates.
+And there’s so much more to come!
+Sometimes, when horrible things happen, we look for a reason why.
+Sometimes, we have to turn that tragedy into something that helps others and makes a difference.
+And that’s exactly what we’re doing.
+I think about Sean’s parents, Denise and Patrick, his wife Dara, his siblings, and all their family and friends.
+Can you imagine what it must mean to see all the good that has come from Sean’s life and sacrifice?
+From saving dogs to training officers, these four-legged heroes serve alongside our military, police, and corrections officers.
+Dogs like Nero, Thor, Dakota, Kitt, Frankie, and so many others deserve our support.
+Sean’s legacy lives on.
+And it doesn’t stop here.
+It never will.
+Remember Everyone Deployed.
+Give your dog an extra treat, and keep an eye out for the new K9 license plates on vehicles all over the Commonwealth! 🇺🇸💙🐕👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #K9 #BackTheBlue #NerosLaw #DakotasLaw #CapeCod #Massachusetts #MAPolice #ForSean K9 PTSD Center Healing Dakota Rehoboth K9 Edo Barnstable Police K9 Foundation K9 Flexx and Retired/Police K9 Mr.
+Warner.
+K9 Kitt Foundation K9 Hurricane's Heroes The Plymouth County Sheriff's Department Riptide K-9 State Representative Justin Thurber Senator Kelly Dooner Cape Cod Realtor Lori Jurkowski Support Our Troops - Wear Red Friday's Modern Primitive K9 Denise Morency Gannon ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 8th FOR SEAN Day Two and Graduation Day at the K9 Sergeant Sean M.
+Gannon Training Center in Yarmouth.
+What a great day to be back at the house that Sean built.
+After two days of intense, hands-on training, we celebrated the graduation of an incredible group of police officers who stepped up to learn and sharpen their skills as K9 decoys.
+This training is so important to building safe, effective K9 teams and preparing these officers and dogs for the challenges they face protecting our communities.
+Congratulations to our graduating officers: Sean Lowe — Falmouth Police Department Kevin Lynch — Cohasset Police Department Brandon Sanders — Barnstable Police Department Dan Ruth — Barnstable Police Department Richard Proctor — Plymouth County Sheriff’s Office Glenn Haley — Plymouth County Sheriff’s Office Joe Silva — Plymouth County Sheriff’s Office Bryan Lobianco — Hingham Police Department Andrew Latosek — Medway Police Department Liam Breen — Yarmouth Police Department Bryan Derochea — Mashpee Police Department Brian Smith — West Bridgewater Police Department Thank you to the instructors, the participating departments, and everyone who made these two days of training and today’s graduation possible.
+The dedication of these officers is impressive, and these K9s are absolutely amazing.
+Our family is proud to help make this training possible through a $5,000 grant from Big Nick’s Ride and the Nicholas G.
+Xiarhos Memorial Fund, in memory of our son Nick and in memory of the son of our good friends Denise and Patrick Gannon.
+Sean dreamed of building a place where K9 teams could train and become better prepared to protect others.
+Seeing that dream continue to make a difference, and knowing that Nick’s legacy is helping support these officers, means more than words can say.
+Congratulations to all 12 graduates.
+Thank you for your commitment to serving and protecting others.
+We will always Back the Blue.
+We will continue doing everything we can to support our police officers and K9 teams with the training and equipment they need to do their jobs safely and effectively.
+Pain to purpose.
+Their legacies live on. 🇺🇸💙🐕🙏🏻🫡 #RepX #Fightin5th #ServiceBeforeSelf #BackTheBlue #K9 #NerosLaw #DakotasLaw #CapeCod #ForSean #BigNicksRide #LivingTheDream #NicholasGXiarhosMemorialFund The Nicholas G.
+Xiarhos Memorial Fund Big Nick's Ride for the Fallen 2nd Battalion 8th Marines- Front Toward Hero Denise Morency Gannon Yarmouth Police Dept.
+Yarmouth Police Foundation Barnstable Police Department Town of Barnstable Barnstable Police K9 Foundation K9 PTSD Center Town of Raynham Police Dept Rehoboth K9 Edo The Plymouth County Sheriff's Department Falmouth Police Department Riptide K-9 Veterans Collaborative Mashpee Police Department Mashpee Wampanoag Police Department Hingham Police West Bridgewater Police Department Medway Police Department Cohasset Police Department, Cohasset MA Healing Dakota Sand Dollar Customs LLC Modern Primitive K9 Paul Edward ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 8th GOOD MORNING & HAPPY THANKFUL THURSDAY Operation Flags for Vets Today we are especially thankful for the Monti family and the incredible tradition they continue to carry on in honor of their son and brother, U.S.
 Army Sergeant Jared C.
-Monti.
+Monti—a Medal of Honor recipient—our nations highest honor.
 Jared was born and raised right here in Massachusetts and gave his life serving our country in Afghanistan.
 His incredibly strong and proud father, Paul Monti, turned his unimaginable loss into a lasting mission of love, remembrance and service.
 That mission became Operation Flags for Vets.
@@ -76,7 +127,7 @@ Flag Pickup Day is November 14th at 9:00 AM.
 We hope to see you there.
 God bless the Monti Gold Star family, every Gold Star family who carries this loss every single day, and all those who have served, all those who continue to serve, and every volunteer who takes the time to place and retrieve these flags.
 Happy Thankful Thursday, Cape Cod.
-See you on November 7th. 🇺🇸❤️⭐️🙏🏻🫡 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmericans #HonorAndRespect #Veterans #Flags #CapeCod #Massachusetts #MaPoli Operation Flags For Vets Massachusetts National Cemetery Big Nick's Ride for the Fallen The Nicholas G.
+See you on November 7th and 14th. 🇺🇸❤️⭐️🙏🏻🫡 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmericans #HonorAndRespect #Veterans #Flags #CapeCod #Massachusetts #MaPoli Operation Flags For Vets Massachusetts National Cemetery Big Nick's Ride for the Fallen The Nicholas G.
 Xiarhos Memorial Fund Thankful Thursday ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 7th 25 YEARS.
 WE WILL NEVER FORGET.
@@ -105,32 +156,18 @@ These officers are committed to doing the job right, and these dogs are absolute
 Our family is proud to be in a position to help provide this training through a $5,000 grant from Big Nick’s Ride and the Nicholas G.
 Xiarhos Memorial Fund, in memory Nick, and in memory of the son of our good friends, Denise and Patrick Gannon.
 Sean Gannon.
-Big Nick Xiarhos.
+Nick Xiarhos.
 Two sons.
 Two fallen heroes.
 There is something very powerful about seeing the legacy of these young men helping protect the men and women who put their lives on the line every day.
 We will always Back the Blue, and we will do everything we can to help provide our police officers and K9 teams with the training and equipment they need to do their jobs safely and effectively.
-Pain to purpose. 🇺🇸💙🐕🐾🙏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #GiveBack #BackTheBlue #K9 #CapeCod #Massachusetts #MaPoli #ForSean Town of Yarmouth Massachusetts Yarmouth Police Foundation Yarmouth Police Dept.
-Town of Barnstable Barnstable Police Department Barnstable Police K9 Foundation K9 PTSD Center The Plymouth County Sheriff's Department Falmouth Police Department Veterans Collaborative Riptide K-9 ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 7th A GREAT DAY AT MASSACHUSETTS MARITIME ACADEMY!
-It was great to welcome Texas State Representative Terry Wilson and his wife to the world-renowned Massachusetts Maritime Academy today, right here on beautiful Buzzards Bay.
-Chairman Wilson is visiting maritime academies around the country to learn how different states support their academies and how we can continue to strengthen these important institutions.
-We had a great conversation about Massachusetts Maritime Academy and the many things Texas can learn from the experience here as they work to improve and strengthen their own maritime academy.
-It was a pleasure to show Chairman Wilson and his wife around campus with Admiral McDonald, Captain Simmons, and Senator Dylan Fernandes’ team.
-We talked about cadets, workforce development, training facilities, funding and the important role our maritime academies play in our national security and economy.
-More than 1,000 cadets, all in uniform, were on campus today.
-What an incredible sight and an incredible place.
-Massachusetts Maritime Academy is truly one of the great institutions in our Commonwealth, and we are proud to have it right here in the Fightin’ Fifth.
-If you have a son, daughter, grandson, granddaughter, or loved one attending Massachusetts Maritime Academy, be proud!
-GO BUCS! 🇺🇸😊⚓️👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #MMA #Texas #Bourne #BuzzardsBay #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Terry Wilson Dylan Fernandes Massachusetts Maritime Academy Alumni Association ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos was live.
-October 7th LIVE from the world-renowned Massachusetts Maritime Academy at the Cape Cod Canal in Buzzards Bay!
-What a beautiful day to be on this incredible campus with the Admiral, the Captain, the team from Senator Dylan Fernandes’ office, and our special guests, Texas State Representative Terry Wilson and his wife.
-We had a great discussion about maritime academies across our nation and the incredible education, training and opportunities they provide to the next generation of leaders.
-There is truly nothing like Massachusetts Maritime Academy.
-We are so fortunate and so proud to have this world-class institution right here in the Fightin’ Fifth!
-Go Bucs! 🇺🇸😊⚓️ #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #MMA #CapeCod #Massachusetts #MaPoli Massachusetts Maritime Academy Terry Wilson Dylan Fernandes Massachusetts Maritime Academy Alumni Association ...
-See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
+Pain to purpose.
+Tragedy to triumph. 🇺🇸💙🐕🐾🙏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #GiveBack #BackTheBlue #K9 #CapeCod #Massachusetts #MaPoli #ForSean Town of Yarmouth Massachusetts Yarmouth Police Foundation Yarmouth Police Dept.
+Town of Barnstable Barnstable Police Department Barnstable Police K9 Foundation K9 PTSD Center The Plymouth County Sheriff's Department Falmouth Police Department Veterans Collaborative Riptide K-9 Town of Raynham Police Dept Mashpee Wampanoag Police Department Hingham Police Medway Police Department Cohasset Police Department, Cohasset MA West Bridgewater Police Department Sand Dollar Customs LLC Rehoboth K9 Edo Denise Morency Gannon Frank Pacheco Big Nick's Ride for the Fallen The Nicholas G.
+Xiarhos Memorial Fund 2nd Battalion 8th Marines- Front Toward Hero Modern Primitive K9 Healing Dakota K9 Flexx and Retired/Police K9 Mr.
+Warner.
+K9 Kitt Foundation ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
 The Committee to Elect Steven Xiarhos is solely responsible for all content on this Website and for any and all solicitations for political contributions herein or in any way associated herewith.
 The Committee is also responsible for funding and managing this Website; no public funds or resources are used to design and maintain this site.
 Nothing within this site is intended to communicate or imply the support or endorsement of any person or entity unless such an endorsement is stated explicitly.

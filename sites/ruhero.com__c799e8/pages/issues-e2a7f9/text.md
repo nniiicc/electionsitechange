@@ -1,14 +1,22 @@
-INTRODUCING
-THE AMERICAN HERO
-IMPORTANT ACRONYMS FOR HEROES TO UNDERSTAND
-$$: bribe money: People feel they are being cheated by govt because they are.
+Home Issues Get Involved About Me Contact Issues My Key Issues Human Rights Protection HEROs Will Protect Human Rights. putting Human Rights above corporate rights and national interests, establishing a right to privacy, and ending the drug war.
+Anti-Corruption Laws HEROs Will Pass Anti-Corruption Laws.
+End stock trading, book deals, and all moonlighting by federal judges and elected officials.
+Anti-War Policy HEROs Will Be Anti-war.
+Cut military spending, End all foreign wars, Close all foreign military bases.
+Election Reform HEROs Will Pass Election Reform Laws.
+Eliminate districts to end gerrymandering, Create national ID to vote or donate money, end mail-in voting.
+Cost of Living Reduction HEROs Will Reduce the Cost of Living.
+Change housing laws to make housing affordable, promote the 32 hour workweek, Cap interest at 12%.
+Balanced Budget / Deficit Control HEROs Will End Deficit Spending. passing a balanced budget Amendment.
+Universal Healthcare HEROs Will Promote Universal Health Care. making healthcare a constitutionally protected right.
+Rural Community Protection HEROs Will Protect Rural Communities. protect water rights and agriculture, support farmers, ranchers, and small towns.
+INTRODUCING THE AMERICAN HERO IMPORTANT ACRONYMS FOR HEROES TO UNDERSTAND $$: bribe money: People feel they are being cheated by govt because they are.
 AWOL: American Way of Life: Not presently something to be proud of.
 WTP can change.
 CON: conspiracy: The CON is that rich people are worth their $$.
 CORPs: corporations.
 Faceless nameless hoards of rapists and thieves.
-DEMOs: democrat: A cult member.
-govt: A necessary evil.
+DEMOs: democrat: A cult member. govt: A necessary evil.
 WTP get exactly what we vote for.
 HATE: The real problem.
 HERO: Human and Environmental Rights Organization.
@@ -21,10 +29,7 @@ THEYs: oligarchs: We know who they are and what they stand for.
 WTP: We the People: This country teaches high ideals while slumming in the gutter of greed.
 IF YOU LOVE THIS COUNTRY REFUSE TO ACCEPT CORRUPTION!
 THE FIX IS REALLY SIMPLE IF WTP JUST USE OUR BRAINS.
-- HEROs ARE ANTI-CORRUPTION
-“The fate of good men who refuse to become involved
-with politics is to be ruled by evil men” Edmund Burke
-HEROs are sick of living in a country of absolute hypocrites.
+HEROs ARE ANTI-CORRUPTION “The fate of good men who refuse to become involved with politics is to be ruled by evil men” Edmund Burke HEROs are sick of living in a country of absolute hypocrites.
 It’s time for a third party, a party that won’t look away, a party that won’t cheat.
 We will actually stand for truth, honor and the AWOL.
 The HEROs party will take on THEYs.
@@ -41,9 +46,8 @@ REPOs take and DEMOs destroy together the strategy is divide and conquer.
 Division and HATE have become the AWOL.
 A 40 trillion dollar debt is proof positive that both parties are filled with REMOs, who work together to ream your ass.
 The financial markets are intentionally designed to move money from the bottom up.
-“A body of men holding themselves accountable to nobody ought not to be trusted by
-anybody.
-We have it in our power to begin the world over again.” Thomas Paine.
+“A body of men holding themselves accountable to nobody ought not to be trusted by anybody.
+We have it in our power to begin the world over again.” Thomas Paine .
 WTP need a new party of HEROs that will protect your HRs, protect your privacy, level the economic playing field, and protect the planet from all the money grubbing CORPs and THEYs overreach.
 Reigning in $$ and fighting corruption must be a main objective and promised goal of any party worth your support.
 The world needs HEROs and it needs them now.
@@ -98,8 +102,7 @@ Once again it is an unfair tax system that is crippling americans and all WTP ha
 THEYs abuse the tax system in a far worse manner today and nobody even wants to talk about IT.
 THEYs don’t give $$ to REMOs without making a profit in return and that’s obvious to any fifth grader.
 THE TIME IS NOW!
-“The two party system just means that the corporations
-cut two checks instead of one.” Barry Crimmons.
+“The two party system just means that the corporations cut two checks instead of one.” Barry Crimmons.
 THEYs have already taken total control of the entire govt.
 The biggest lie WTP have been brainwashed into believing is that voting DEMOs or REPOs is a real choice.
 REMOs all bow down to the same bosses and THEYs $$.
@@ -110,11 +113,9 @@ The alien and sedition acts, the insurrection act, and the patriot act are all u
 Justices have intentionally limited their role into interpreting the law as written, not defending HRs.
 HEROs will make judges protecting HRs job #1.
 Judges are just like REMOs, bought and paid for by THEYs.
-“When buying and selling are controlled by legislation, the first
-things to be bought and sold are legislators.” P.
+“When buying and selling are controlled by legislation, the first things to be bought and sold are legislators.” P.
 J.
-O’rourke
-Next came the judges.
+O’rourke Next came the judges.
 HEROs will push for laws that get $$, of all kinds, out of politics.
 WTP have to do something now because the court has been sold out.
 WTP need an anti-corruption amendment that makes bribery illegal.
@@ -127,11 +128,10 @@ The very foundation of democracy sits on the core belief that every man has equa
 The supreme court proved to the world by a 6-3 vote that they are indeed dumber than fifth graders.
 Citizens United is further proof that CORPs rights take precedence over HRs.
 The courts have ruined democracy and the Bill of Rights has often been ignored.
-What WTP need to understand is that fat cats worldwide are planning for our demise and when robots can do our jobs, WTP are screwed, blued and tattooed!!!
+What WTP need to understand is that fat cats worldwide are planning for our demise and when robots can do our jobs, WTP are screwed, blued and tattooed !!!
 THEYs openly call WTPs destruction ‘the event’.
 THEYs are not only preparing for the apocalypse, THEYs are planning to make it happen!
-Corona virus was a well coordinated worldwide test, not a mistake.
-ought not to be trusted by anybody.” Thomas Paine.
+Corona virus was a well coordinated worldwide test, not a mistake. “ A body of men holding themselves accountable to nobody ought not to be trusted by anybody.” Thomas Paine.
 THEYs have WTP convinced that REMOs must cooperate with and be accountable to only CORPs.
 The govt doesn’t need to ‘stimulate the economy’; GREED does that all on its own.
 The govt needs to control THEYs but, REMOs always cave to CORPs wishes.
@@ -166,7 +166,7 @@ If a person’s actions cause no direct physical harm or material harm then a HE
 HEROs want America to actually be about freedom and freedom starts with tolerance.
 A HERO will always put the country ahead of the party and HRs ahead of national and economic interests.
 It’s all about protecting HRs and uniting against THEYs corruption.
-“The government, which was designed for the people, has got into the hands of the bosses and their employers, the special interests.
+“T he government, which was designed for the people, has got into the hands of the bosses and their employers, the special interests.
 An invisible empire has been set up above the forms of democracy.” Woodrow Wilson,1913.
 That’s a warning from POTUS 28.
 WTP must write a new constitution that actually protects HRs and limits lawmakers with clear unambiguous rules that even fifth graders can understand.
@@ -213,9 +213,7 @@ THEYs love laughing in our faces about all of it.
 Trickle down economics is THEYs pissing down our throats.
 WTP can stop corruption and planetary destruction, but it will take a lot of LOVE.
 “The neuroscience is pretty uncomfortable.
-People in positions of power
-show a reduced activity in mirror neuron systems, the circuitry responsible
-for empathy and perspective-taking.” Shonna Waters PhD.
+People in positions of power show a reduced activity in mirror neuron systems, the circuitry responsible for empathy and perspective-taking.” Shonna Waters PhD.
 Powerful people tend to have a whole bunch of fascist tendencies.
 If you look up fascism in the dictionary you will find a rambling bunch of hogwash about nationalism, suppression, militarism, censorship, topped off with a healthy dose of scapegoating.
 The real definition of a fascist seems self-evident to me: A fascist is any person who treats or allows another group of people to be treated in a way they would not accept being treated themselves.
@@ -236,9 +234,7 @@ Without the funding from Jews, Hitler would have gone broke before the war even 
 That’s not antisemitism, just observation.
 Russia would not be attacking Ukraine if India and Europe weren’t buying all the Russian oil THEYs can get.
 This is worldwide fascism and it is the direct result of HATE perpetrated intentionally by a system that’s been controlled by the Epstein class for centuries.
-“Government, even in its best state, is but a necessary evil;
-in its worst state an intolerable one.” Thomas Paine
-The nature of govt requires that a relatively small number of people must be allowed to make decisions for the group as a whole.
+“Government, even in its best state, is but a necessary evil; in its worst state an intolerable one.” Thomas Paine The nature of govt requires that a relatively small number of people must be allowed to make decisions for the group as a whole.
 To think that the public should simply rely on the benevolence of elected officials is ridiculous.
 Why are WTP stupid enough to believe govt censorship is okay?
 Secrecy is the biggest danger to democracy and we’ve been sold out by the REMOs and the courts.
@@ -260,18 +256,14 @@ NO stock trading, NO book deals, NO speaking engagements, NO moonlighting, and e
 HEROs want REMOs paychecks equal to the Americans average wage.
 If REMOs are to be of the people, by the people, and for the people they should know what it is to live like the people.
 If you want to be elected in America it should be about policies you believe in and will fight for, not $$.
-- HEROs ARE ANTI-WAR
-“Patiotism is when love of your own people comes first; nationalism, when hate for people other than your own comes first.” Charles de Gaulle.
+HEROs ARE ANTI-WAR “Patiotism is when love of your own people comes first; nationalism, when hate for people other than your own comes first.” Charles de Gaulle.
 “The difference between patriotism and nationalism is that the patriot is proud of his country for what it does, and the nationalist is proud of his country no matter what it does; the first attitude creates a feeling of responsibility, but the second a feeling of blind arrogance that leads to war.” Sydney J Harris.
-“True patriotism hates injustice in its own land more than
-anywhere else.” Clarence Darrow.
-“The nationalist not only does not disapprove of atrocities committed by his own side, but he has a remarkable capacity for not even hearing about them.” George Orwell.
+“True patriotism hates injustice in its own land more than anywhere else.” Clarence Darrow. “ The nationalist not only does not disapprove of atrocities committed by his own side, but he has a remarkable capacity for not even hearing about them.” George Orwell.
 “Our country is not the only thing to which we owe our allegiance.
 It is also owed to justice and humanity.” James Bryce.
 “Nationalism is an infantile disease.
 It is the measles of mankind.” Einstein.
-“Blessed are the peacemakers, for they shall be called sons of God.” Matthew 5:9
-HEROs will be obstructionists to any and all military expansion.
+“Blessed are the peacemakers, for they shall be called sons of God.” Matthew 5:9 HEROs will be obstructionists to any and all military expansion.
 HEROs will vote no on any spending bill that does not cut military spending drastically and balance the budget.
 America’s original constitution banned standing armies.
 The standing U.S. army is a shameful unconstitutional worldwide HRs atrocity.
@@ -300,9 +292,7 @@ When WTP fought ourselves there were about 800,000 deaths, which was about 2% of
 That kind of HATE is still boiling up and growing in America.
 The USA started the modern day arms race by nuking japan.
 History is all propaganda in the USA.
-“War continues to divide people and change them forever,
-embodying the “absolute futility of war.” Wilford Owen
-Real Christians don’t drop bombs!!!
+“War continues to divide people and change them forever, embodying the “absolute futility of war.” Wilford Owen Real Christians don’t drop bombs!!!
 Only peacemakers can be real HEROs like Gandhi, Martin Luther King, Mother Teresa, Dalai Lama and Jesus Christ.
 WTP can do amazing things and usher in an era of world peace if WTP promote LOVE not war.
 WTP are not different generations, not boomers, not Xer’s, no Alpha’s, no Beta’s, No Y’s, or Z’s, not even any little bitty B’s.
@@ -313,8 +303,7 @@ WTP are the living!
 WE THE PEOPLE are all special because nobody else has right now, just us!
 WTP can be HEROs, but THEYs want it all so WTP have to stand together to unseat them.
 It is time for WTP to join together in peace and really make truth, honor, and justice, THE AWOL.
-“If we assume that life is worth living, if we assume that mankind has the
-right to survive, then we must find an alternative to war.” Martin Luther King.
+“If we assume that life is worth living, if we assume that mankind has the right to survive, then we must find an alternative to war.” Martin Luther King.
 If honesty is the measure of greatness, then America is the shithole country.
 WTP have been living a lie for over two centuries.
 WTP do not “hold these truths to be self-evident, that all men are created equal.” that is the big American lie.
@@ -330,8 +319,7 @@ WTP have been pawns in an imperial land grab.
 Being deplorable garbage and breaking treaties has always been the AWOL.
 Neither the president or congress can suspend your HRs if the Constitution is worth the paper it’s written on.
 WTP are suckers, minions, and cannon fodder and THEYs laugh at us!
-“The only way to win a war is to not fight it.” Gandhi
-If you think DEMOs or REPOs are against war you’re ignorant.
+“The only way to win a war is to not fight it.” Gandhi If you think DEMOs or REPOs are against war you’re ignorant.
 War is a money maker and that’s why endless wars are the AWOL.
 HEROs are truly anti-war and will always vote to obey and expand international law.
 HEROs will prosecute international law violations, American or otherwise.
@@ -370,10 +358,8 @@ Let me be clear: Anyone that believes in violence to resolve problems is an enem
 Let me add that if you believe in violence you are not a Christian.
 Jesus Christ is without question the world’s most famous conscientious objector.
 As long as people are stupid enough to believe that violence is a valid way to resolve differences we will continue to fear war, violence, and fight amongst one another.
-- HEROs SUPPORT LAND OWNERSHIP BY CITIZENS ONLY
-“We must all obey the great law of change.
-It is the most
-powerful law of nature.” Edmund Burke.
+HEROs SUPPORT LAND OWNERSHIP BY CITIZENS ONLY “We must all obey the great law of change.
+It is the most powerful law of nature.” Edmund Burke.
 WTP can’t change the past but WTP must be intentional about the direction WTP are headed.
 Affordable housing and immigration are interrelated problems happening all around the world and this must be addressed.
 The valuable land around the world is being monopolized and owned by CORPs and THEYs and it means average citizens worldwide are being priced out of the real estate market.
@@ -385,8 +371,7 @@ The smartest and most determined people in the third world countries should be, 
 Every single country needs to make real estate ownership the exclusive domain of citizens.
 HEROs will make home ownership affordable by taxing landowners who hoard land and this policy needs to be adopted worldwide.
 Citizens who own land stay home and stay happy.
-“A long habit of not thinking a thing wrong gives the superficial
-appearance of being right.” Thomas Paine.
+“A long habit of not thinking a thing wrong gives the superficial appearance of being right.” Thomas Paine.
 The biggest reason for a national ID system is for the taxation and ownership of land.
 The only way to stop THEYs from eventually owning every acre of this world is to put a tax on hoarding land.
 The pact between govt and land ownership is the very glue that holds societies together.
@@ -404,8 +389,7 @@ Citizens United is the direct result of corruption and the supreme court are cor
 Govts are formed in order to provide security and opportunity for the group as a whole, not just THEYs.
 Third world wealth is removed by CORPs with little benefit to citizens.
 HEROs must save the USA from becoming a third world country because CORPs are buying WTPs homes.
-“Buy land, they aren’t making any more of it.” Mark Twain
-This is happening within this country as CORPs and foreigners buy up more American land.
+“Buy land, they aren’t making any more of it.” Mark Twain This is happening within this country as CORPs and foreigners buy up more American land.
 Even farmers are becoming renters because THEYs are hoarding property.
 If CORPs are allowed to buy land there is no way to keep THEYs from monopolizing all American land and pricing out the middle class.
 If only citizens with valid ID can buy land it can be taxed correctly.
@@ -427,8 +411,7 @@ Renters are now a majority and it’s time WTP tax the fat cats that make fortun
 THEYs must be putting stupid sauce in the $2 bottled water, why else would WTP let this happen in a democracy.
 The poor and middle class are the majority and WTP can make any laws we deem fit once WTP join in unity against THEYs.
 Watch how fast drug addiction, homelessness, abortion, and suicide rates drop when the middle class have a place to call home.
-- HEROs SUPPORT CAMPAIGN REFORM
-“Silence is golden but when it threatens your freedom it’s yellow.” Edmund Burke.
+HEROs SUPPORT CAMPAIGN REFORM “Silence is golden but when it threatens your freedom it’s yellow.” Edmund Burke.
 HEROs understand why Americans don’t vote and HEROs will give you a real reason to vote.
 HEROs will make WTP proud to vote.
 HEROs will start govt reform by starting a national identification system that vets immigrants and identifies every single American citizen.
@@ -453,9 +436,7 @@ No other exceptions.
 Everyone who votes should have their right index finger temporarily dyed so nobody could vote twice no matter what ID they produce or what poll they show up at.
 HEROs want an election system that is infallible and that means election reform is necessary.
 Gerrymandering is proof positive that both parties think more of themselves than democracy or country.
-“Most politicians are corrupt as they do not represent the masses
-that voted for them, but rather they choose to return numerous favors
-to the corporations that funded their election campaigns.” Steven Magee.
+“Most politicians are corrupt as they do not represent the masses that voted for them, but rather they choose to return numerous favors to the corporations that funded their election campaigns.” Steven Magee.
 Three things will be the exclusive right of citizens in a HEROs America.
 First, the right to own land.
 Second, the right to vote.
@@ -502,8 +483,7 @@ Good laws can stand on their own but this system guarantees that bad laws are in
 It insults any thinking person and has nearly destroyed the very idea of what a democracy should be.
 HEROs know it’s big beautiful bills that are bankrupting WTP.
 The committee system is so corrupt and so undemocratic because THEYs and their REMO sycophants don’t want to change a system THEYs control.
-- HEROs WILL NOT INCREASE THE NATIONAL DEBT
-“We have one of the highest interest rates in the world, and we owe more money per capita than any other country.
+HEROs WILL NOT INCREASE THE NATIONAL DEBT “We have one of the highest interest rates in the world, and we owe more money per capita than any other country.
 All we need is a nail hole in the bottom of the boat and we’re sunk.” Pauline Hanson.
 Both parties are mired in a system of irresponsible deficit spending fueled by pork barrelling.
 A united new party could leverage the entire system.
@@ -515,8 +495,7 @@ DEMOs and REPOs are bankrupting govt with their deficit spending and that doesn�
 The fact that both parties support deficit spending clearly shows that you are not properly represented.
 Debt seems to be the AWOL and REMOs let bankers play WTP for an easy mark.
 HEROs will never vote yes on any budget that is not balanced and will vote for a balanced budget amendment.
-“I, however, place economy among the first and most important republican virtues,
-and public debt as the greatest of dangers to be feared.” Thomas Jefferson.
+“I, however, place economy among the first and most important republican virtues, and public debt as the greatest of dangers to be feared.” Thomas Jefferson.
 HEROs will never sign a budget that increases the national deficit.
 HEROs actually want to make the future better for our children.
 REMOs talk about protecting the children but that is an absolute joke when the country is nearly 40 trillion dollars in debt.
@@ -536,10 +515,9 @@ All you hypocrite right wingers need to obey the bible.
 The bible says a hell of a lot more about the lust for gold, riches, and the danger of debt, than gay marriage or abortion.
 American hypocrites treat the bible just like they treat facts, picking only the shit they like and ignoring the real truth about almost everything.
 Climate change is proof of this.
-- HEROs WILL RECLAIM, EXPAND, AND PROTECT HRs.
+HEROs WILL RECLAIM, EXPAND, AND PROTECT HRs.
 ALL OF THEM!
-“Secrecy, being an instrument of conspiracy, ought never to be
-the system of regular government.” Jeremy Bentham.
+“Secrecy, being an instrument of conspiracy, ought never to be the system of regular government.” Jeremy Bentham.
 Freedom of information is a democratic HR that has been ignored.
 Freedom of information is a necessary element of democracy.
 If WTP are being lied to or not told the whole truth by govt then it’s not truly a democracy.
@@ -556,8 +534,7 @@ Better find out what’s going on because your HRs are being controlled by CORPs
 No govt secrets can be allowed to exist if democracy is going to be taken seriously.
 HEROs will make freedom of information a constitutionally recognized HR.
 “A constitution defines and limits the powers of the government it creates.
-It therefore follows, as natural and also a logical result, that the governmental exercise of any power not authorized by the constitution is an assumed power, and therefore illegal.” Thomas Paine
-Immigration policies can always be challenged and changed through the democratic process, that is what makes it great.
+It therefore follows, as natural and also a logical result, that the governmental exercise of any power not authorized by the constitution is an assumed power, and therefore illegal.” Thomas Paine Immigration policies can always be challenged and changed through the democratic process, that is what makes it great.
 The executive branch, not just Trump, has been way out of bounds for a long time with all these executive orders.The judicial branch has always been weak against constitutional violations as well as HRs abuses.
 The legislative branch writes the laws and the president has no authority to do anything not in compliance with our clearly written laws.
 When a president swears an oath to the constitution he is bound by the law as written.
@@ -596,8 +573,7 @@ Words can’t hurt you!!!
 People are so thin skinned that nowadays any insulting or offensive language can be prosecuted.
 HEROs will protect your free speech, no matter what you say!
 It’s impossible to protect free speech if you can’t tolerate HATE speech.
-“Privacy is not for sale, and human rights should not be
-compromised out of fear or greed.” Pavel Durov.
+“Privacy is not for sale, and human rights should not be compromised out of fear or greed.” Pavel Durov.
 When the founders introduced the Bill of Rights it was clear that the listing of said rights does not exclude other HRs from existing.
 HEROs will officially recognize privacy as a HR.
 You should have a HR to use the internet, credit cards, and phones in private.
@@ -607,8 +583,7 @@ REMOs have it backwards because fifth graders on the court always protect the CO
 HEROs will make your personal privacy a HR.
 The data bases compiled are an affront to decency.
 WTP don’t control REMOs, THEYs do.
-“You have to be able to tolerate what you don’t
-necessarily like so you can be free.” Larry Flynt.
+“You have to be able to tolerate what you don’t necessarily like so you can be free.” Larry Flynt.
 HEROs will not cater to the wishes of overbearing assholes.
 It is the govts job to give you as many lifestyle choices as possible.
 The main focus of HEROs is to put personnel decisions in the hands of the people while respecting HRs.
@@ -635,8 +610,7 @@ Public safety and rehabilitation are the only legitimate objectives of the law.
 Therefore, HEROs will concentrate on public safety by avoiding unnecessary arrests and draconian sentences.
 HEROs don’t wage wars on their own citizens.
 The drug war is an attack on HRs and freedom.
-“The war on drugs has made government more powerful, citizens
-less free, and hasn’t helped users or addicts.” Victor Mitchell.
+“The war on drugs has made government more powerful, citizens less free, and hasn’t helped users or addicts.” Victor Mitchell.
 HEROs will end the drug war and reduce cartels and crime worldwide immediately.
 HEROs want to legalize recreational drugs and sell them at govt run pharmacies, earmarking every penny for drug rehabilitation.
 For over fifty years the drug war has been raging without ever curbing the demand.
@@ -662,7 +636,7 @@ As a result of these illegal activities the FBI, ATF, DEA, and CIA were banned f
 This is all in the congressional records; it’s not some far fetched CON theory.
 The end result was the secret creation of the NSA and they continued to illegally organize the same efforts, without notifying Congress the NSA even existed.
 HEROs will expose and eliminate the NSA for all the false flag operations they have committed.
-It is no accident that in the wake of 9/11(an inside job) our govt created the department of homeland security to secretly lead these operations again.
+It is no accident that in the wake of 9/11 (an inside job) our govt created the department of homeland security to secretly lead these operations again.
 “The shift to a general attitude of ’toughness’ towards problems associated with communities of color began in the 1960s, when the gains and goals of the Civil Rights movement began to require real sacrifices on the part of white Americans.
 Conservative politicians found they could mobilize white racial resentment by vowing to crack down on crime.” Michelle Alexander.
 The drug war has been a war on colored folks and anti-war protestors, under the BS disguise of protecting children.
@@ -673,8 +647,7 @@ You understand what I’m saying?
 We knew we couldn’t make it illegal to be either against the war or black, but by getting the public to associate the hippies with marijuana and blacks with heroin, and then criminalizing both heavily, we could disrupt those communities.
 We could arrest their leaders, raid their homes, break up their meetings, and vilify them night after night on the evening news.
 Did we know we were lying about the drugs?
-Of course we did.” John Ehrliichman.”
-It’s important to understand that REMOs and THEYs have been controlling the press and the police, it’s the AWOL.
+Of course we did.” John Ehrliichman.” It’s important to understand that REMOs and THEYs have been controlling the press and the police, it’s the AWOL.
 “Until 1988, one year of imprisonment had been the maximum for possession of any amount of any drug.” …..“Few would guess that our prison population leaped from approximately 350,000 to 2.3 million in such a short period of time due to changes in law and policies, not changes in crime rates.
 Yet it has been changes in our laws—particularly the dramatic increases in the length of our prison sentences—that have been responsible for the growth of our prison system, not increases in crime.” Michelle Anderson.
 Drug addiction is a result of self loathing, worthlessness, and despair: the problems have been multiplied, not reduced by insane drug laws and long sentences.
@@ -686,17 +659,14 @@ Nearly every single fentanyl overdose is a direct result of drugs being unregula
 Fentanyl is killing people because the REMOs want power over the people.
 As long as WTP keep trusting sick and twisted REMOs the fentanyl problem will continue to increase, just as the entire drug problem increases.
 The drug war and the building of prisons is an intentional build up of power as the govt prepares for the apocalypse.
-“In a free society, how can you commit a crime against yourself?” Jesse Ventura
-Why do WTP give up our freedoms so easily?
+“In a free society, how can you commit a crime against yourself?” Jesse Ventura Why do WTP give up our freedoms so easily?
 The answer to that question is HATE and malice topped off with a real heavy dose of stupidity.
 REMOs are doing everything they can to keep WTP divided and the war on drugs is REMOs most effective tool.
 Prisons are power and THEYs objective is total control.
 HEROs will end for profit prisons and the powerful anti-freedom laws THEYs use to control WTP.
 Marajuana is still illegal in half the country, proving HRs don’t really exist.
 This is just more evidence on top of evidence that REMOs can’t get it right.
-How much evidence do idiots need to see before they realize that the govt is not protecting HRs?
-“the drug war from the outset had little to do with public concern about
-drugs and much to do with public concern about race.” Michelle Anderson.
+How much evidence do idiots need to see before they realize that the govt is not protecting HRs? “the drug war from the outset had little to do with public concern about drugs and much to do with public concern about race.” Michelle Anderson.
 The govts role in the crack cocaine issue proves this is 100% fact.
 The govt invented and then distributed crack cocaine through the crypt and blood gangs.
 The media promoted the drug war by bombarding us with gang propaganda.
@@ -716,16 +686,10 @@ It is no accident the entire class of drugs considered mind expanding carry the 
 THEYs, Trump, and REMOs all want you stupid!
 “The philosopher John Locke once noted that pursuing happiness is “the foundation of liberty.” This idea is at the core of the Declaration of Independence, the document that gave birth to our nation.
 The Declaration asserts that each of us is endowed with certain “unalienable Rights,” including “Life, Liberty and the pursuit of Happiness,” and that governments are created for the purpose of protecting these rights.
-The use of drugs in the pursuit of happiness, is arguably an act that the government is obliged to safeguard not punish.
-“[So] why is our government arresting hundreds of thousands of Americans each
-year for using drugs, for pursuing pleasure, for seeking happiness.” Carl Hart.
+The use of drugs in the pursuit of happiness, is arguably an act that the government is obliged to safeguard not punish. “[So] why is our government arresting hundreds of thousands of Americans each year for using drugs, for pursuing pleasure, for seeking happiness.” Carl Hart.
 The drug war is about the power to break down your door, check your blood, record your DNA, throw you in jail, put you on probation, and control your morality.
-All this happens while THEYs grant themselves immunity from the destruction they cause.
-“To hold sovereign and exclusive ownership of one’s own conscious mind,
-to explore freely and without boundary, is surely the most fundamental of
-human rights.
-Third party intrusion into this wholly personal territory is a
-grievous breach of this inalienable right.” Dominic Milton Trott.
+All this happens while THEYs grant themselves immunity from the destruction they cause. “ To hold sovereign and exclusive ownership of one’s own conscious mind, to explore freely and without boundary, is surely the most fundamental of human rights.
+Third party intrusion into this wholly personal territory is a grievous breach of this inalienable right.” Dominic Milton Trott.
 Unconstitutional law after unconstitutional law has been enacted by legislators and okayed by the courts since the alien and sedition act became law.
 It’s clear that presidents can wage war without the approval of congress and this is but one example.
 A lapdog court has been our nation’s greatest failure.
@@ -742,7 +706,8 @@ In Waco TX the govt used a flame throwing tank against the branch davidians shel
 When the govt can use murder and arson legally then WTP have no freedom.
 The confrontation started over accusations of weapon stockpiling, which is hilariously ironic considering the weapons our govt stockpiles.
 If the govt can use military grade weapons on citizens, then citizens must have the right to obtain the same armory of weapons in their defense or the right to bear arms doesn’t mean a damn thing.
-The Posse Comitatus Act of 1878 was passed for exactly this reason. 150 years ago lawmakers realized that if military grade weapons can be used against citizens the second amendment is mute.
+The Posse Comitatus Act of 1878 was passed for exactly this reason.
+#ago lawmakers realized that if military grade weapons can be used against citizens the second amendment is mute.
 The problem is that domestic police forces are obtaining military grade weapons that are unavailable to the public and that nullifies the second amendment.
 School shootings are a tragedy but HATE is what drives the problem not guns.
 In places where guns are outlawed psychos use cars, knives, and fires to accomplish the same thing.
@@ -753,18 +718,15 @@ The only solution to gun violence is a peaceful and just society.
 HEROs understand that until WTP can disarm govts the right to bear arms is paramount to our self defense.
 HEROs know that sick people have every intention of ruling the world by force, making gun ownership necessary.
 “Most gun control arguments miss the point.
-If all control boils down
-fundamentally to force, how can one resist aggression without equal force?
-How can a truly “free” state exist if the individual citizen is enslaved to the
-forceful will of individual or organized aggressors?
+If all control boils down fundamentally to force, how can one resist aggression without equal force?
+How can a truly “free” state exist if the individual citizen is enslaved to the forceful will of individual or organized aggressors?
 It cannot.” Tiffany Madison.
 A very limited number of self absorbed egotistical maniacs in Russia, China, and the USA control huge armies sowing HATE, death, and destruction around the world.
 Govts all control their populations and enemies by relying on force.
 As long as govts control citizens and make us fight one another it is imperative that free people be able to bear arms and can fight to protect themselves.
 It is a crime against humanity to disarm citizens prior to disarming govts.
 HEROs don’t make any claim that guns make the world a safer place, but they damn sure are the only thing that keep citizens safe from the insane crazy lunatics that seek the power of govt.
-“We don’t like to kill our unborn; we need them to
-grow up and fight our wars.” Marilyn Manson.
+“We don’t like to kill our unborn; we need them to grow up and fight our wars.” Marilyn Manson.
 The big reason the USA bans abortion seems to be because WTP need soldiers and workers, because this country doesn’t give a hoot about children once they’re born.
 You can’t be pro-life and pro-war you ignorant motherfascists.
 Is forcing people to have children really a good idea?
@@ -779,8 +741,7 @@ HEROs may disagree with the life choices people make but will not interfere unle
 It doesn’t seem to make sense that a party that believes in minimal govt would want the govt to make the most important decision a woman ever makes.
 If REPOs cared about endless wars, the national debt and the environment, HEROs might believe THEYs actually cared about kids.
 Help, not force, is the obvious answer in any free society.
-“Carry each other’s burdens, and in this way you will
-fulfill the laws of Christ” Galatians 5:14-15.
+“Carry each other’s burdens, and in this way you will fulfill the laws of Christ” Galatians 5:14-15.
 If you don’t support free healthcare you are the sick one and you’re certainly not a Christian.
 HEROs will always support universal health care.
 HEROs won’t punish people for getting sick.
@@ -789,8 +750,7 @@ Don’t claim to be a Christian while refusing to care for the sick and needy.
 Poor people die everyday because the health care system is unaffordable.
 HEROs will end cruel REMO healthcare policies.
 HEROs don’t believe it is morally acceptable to profit off the misery of others.
-“Of all forms of inequality, injustice in health is the most
-shocking and inhumane.” Martin Luther King Jr.
+“Of all forms of inequality, injustice in health is the most shocking and inhumane.” Martin Luther King Jr.
 More than any other issue, health care exposes WTPs greed, insensitivity, cruelty, and coldhearted attitude towards the poor.
 It is a fact that all civilized nations have health care for all their citizens.
 The USA is simply not a civilized country and our health care policies are solid proof of that.
@@ -822,9 +782,7 @@ It is no accident that these areas are made up of a large percentage of non-whit
 Territories are being treated in exactly the way Britain treated their colonies.
 The reason America is no longer the world’s greatest nation is because we are absolute hypocrites on subjects all across the board.
 HEROs will support statehood for three new states and any of the racist REMOs that have a problem with that should be voted out.
-- HEROs WILL MAKE AMERICA AFFORDABLE
-“Reducing work hours improves mental health, boosts productivity,
-and enhances overall quality of life.” 4 Day Week Global.
+HEROs WILL MAKE AMERICA AFFORDABLE “Reducing work hours improves mental health, boosts productivity, and enhances overall quality of life.” 4 Day Week Global.
 The 40 hour work week is obsolete in today’s world.
 HEROs will pass a law requiring employers to pay overtime, at double their hourly pay rate, after 32 hours.
 All hourly employees will get full benefits no matter how many hours worked.
@@ -861,10 +819,8 @@ Any negative reports to a customer’s credit must also be litigated locally.
 These CORPs can report bad credit and there is simply no cost effective and reasonable way to contest it.
 Credit scores are important and CORPs are using bad credit reports to make you pay for items you never wanted or were broken.
 Any negative credit reports will be contested locally under local laws, not halfway across the country in some backwater pro-business state where REMOs have been bribed to be pro-CORPs.
-- HEROs IMMIGRATION POLICY
-“If the penalty for hiring illegals is just a fine, it becomes a business decision.
-But if the
-penalty is jail time, illegal immigration will come to a screeching halt.” Jose Ferreira.
+HEROs IMMIGRATION POLICY “If the penalty for hiring illegals is just a fine, it becomes a business decision.
+But if the penalty is jail time, illegal immigration will come to a screeching halt.” Jose Ferreira.
 The broken immigration system is a result of THEYs seeking cheap labor and undermining labor laws.
 THEYs want cheap labor but THEYs don’t want to grant anyone HRs, especially colored folks.
 THEYs like it when employees have no HRs, it’s their favorite part.
@@ -879,15 +835,15 @@ All laws are written by REMOs for the benefit of the THEYs.
 Even when THEYs get caught breaking the law the consequences are minor.
 The reason immigration got worse and worse is because the system refuses to punish the ruling class.
 THEYs are by far the sickest and most perverted people and THEYs run the world.
-Immigration policies can always be challenged and changed through the democratic process, that is what makes it great.
+“A constitution defines and limits the powers of the government it creates.
+It therefore follows, as natural and also a logical result, that the governmental exercise of any power not authorized by the constitution is an assumed power, and therefore illegal.” Thomas Paine Immigration policies can always be challenged and changed through the democratic process, that is what makes it great.
 The executive branch, not just Trump, has been way out of bounds for a long time with all these bullshit executive orders.The judicial branch has always been weak against constitutional violations as well as HRs abuses.
 The legislative branch writes the laws and the president has no authority to do anything not in compliance with our clearly written laws.
 When a president swears an oath to the constitution he is bound by the law as written.
 THEYs always will get whatever THEYs want from REMOs, including laws that ignore HRs.
 THEYs want the world to be a jungle because THEYs are all psychopathic animals.
-- HEROs CONCLUSION.
-“The problem with the world is that intelligent people are full of
-doubts, while stupid ones are full of confidence.” Charles Bukowski.
+HEROs CONCLUSION.
+“The problem with the world is that intelligent people are full of doubts, while stupid ones are full of confidence.” Charles Bukowski.
 Facts and real knowledge seem to matter no more than opinions to a whole bunch of stupid folks out there on the right and left.
 Most Americans simply no longer understand or believe the process of scientific review.
 Half of American voters don’t think climate change is real and the other half think you get to pick your sex.
@@ -921,13 +877,12 @@ HEROs will hold police, politicians, and generals accountable for any and all HR
 It is the violation of HRs that creates HATE and war.
 Any position of power must have real accountability and no position of power can go unchecked, this is the self-evident truth known by all real HEROs.
 HEROs will prosecute Hegseth and Trump, they’re war criminals who both belong in Florence supermax serving life without parole.
-“He that would make his own liberty secure, must guard even his
-enemy from oppression; for if he violates this duty, he establishes
-a precedent that will reach himself.” Thomas Paine.
+“He that would make his own liberty secure, must guard even his enemy from oppression; for if he violates this duty, he establishes a precedent that will reach himself.” Thomas Paine.
 The AWOL is brute force.
 It’s cameras that have led to reforms in police conduct, not REMOs who cared.
 Rodney King got beat like an animal in front of the world and no cops went to jail originally.
-It took riots before the feds brought charges against anybody. 35 years later and cities are finally making changes in the way police enforce the law.
+It took riots before the feds brought charges against anybody.
+35 years later and cities are finally making changes in the way police enforce the law.
 This is not because REMOs care!
 This is because everybody has a camera and WTP have seen enough.
 WTP have been real slow to catch on to the fact that law enforcement agencies will lie, destroy, hide, and alter evidence to cover their bad actions.
@@ -942,19 +897,16 @@ A party that is willing to find compromise on most every issue, exceptions being
 Our politics are run by extremists on both sides of the aisle because divide and conquer is THEYs strategy.
 As long as $$ rules the system, the AWOL will be working harder for less: Until THEYs kill us all with the technology WTP developed.
 HEROs want outside agencies controlling all evidence and internal investigations.
-HEROs understand that people are incapable of policing themselves.
+HEROs understand that people are incapable of policing themselves .
 “Criminal means once tolerated are soon preferred.
-The greater
-the power, the more dangerous the abuse.” Edmund Burke.
+The greater the power, the more dangerous the abuse.” Edmund Burke.
 Today, in America, it’s ok to gas, beat, tase, and batter with rubber bullets anyone the police please, including the press.
 The police and govt officials have all been granted IMMUNITY for all kinds of garbage and it puts the law above the people.
 Immunity is a guaranteed path to authoritarianism and a police state and WTP are well on our way.
 The difference between #45 and #47 is a Supreme Court willing to ignore the clear words and meaning of the constitution.
 HEROs love this country and will really work to make it great.
 HEROs will always fight corruption and end all immunity.
-“Experience hath shewn, that mankind are more disposed to suffer,
-while evils are sufferable, than to right themselves by abolishing
-the forms to which they are accustomed.” Thomas Jefferson.
+“Experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed.” Thomas Jefferson.
 History proves that people are good natured and will put up with a lot of govt crap to keep the peace.
 It is govts that create problems.
 It is time for a new standard to be set worldwide.
@@ -972,16 +924,14 @@ If you think God approves of your evil nationalistic unchristian behavior, you�
 Any American that continues to support war and the death penalty is no Christian.
 Killing in God’s name is what WTP do and that’s the worst way of using God’s name in vain.
 The entire world fears America, for good reason, and if you take pride in that you are sick with nationalism.
-“If a nation expects to be ignorant & free, in a state of civilisation,
-it expects what never was & never will be.” Thomas Jefferson
-Americans are crybabies whining all the time about how our politicians do such a terrible job.
+“If a nation expects to be ignorant & free, in a state of civilisation, it expects what never was & never will be.” Thomas Jefferson Americans are crybabies whining all the time about how our politicians do such a terrible job.
 Just one in a million examples of how collectively stupid WTP have become, since nobody re-elects their politicians more regularly than WTP.
 Both parties are elected by the same $$ and WTP have no say on the real important issues.
 What makes rich people dangerous is not all about $$, it’s their belief that THEYs are better than WTP.
 Right now THEYs are laughing at WTP.
 THEYs think financial success entitles them to total control of everyone and THEYs are usurping the law itself.
-THEYs are the ones who act entitled.
-THEYs take everything workers produce and every single material thing THEYs can get their grubby little fingers on never paying their share of taxes.
+THEYs are the ones who act entitled .
+THEYs take everything workers produce and every single material thing THEYs can get their grubby little fingers on never paying their share of taxes .
 Laws are made on behalf of big campaign donors, it’s the AWOL.
 Just look around at the condition of politics and it’s easy to see WTP, and a whole world of idiots, being divided and conquered by our petty HATE and trifling intolerance.
 There is only one interest group that gets ahead everywhere and that is the few controlling the levers of govt.
@@ -1000,8 +950,7 @@ Govt leaders from all ideologies collectively believe in letting very rich indiv
 Everything REMOs do is just a smoke screen put up to make citizens fight.
 “The Greatest Happiness is to scatter your enemy and drive him before you.
 To see his cities reduced to ashes.
-To see those who love him shrouded and
-in tears.
+To see those who love him shrouded and in tears.
 And to gather to your bosom his wife and daughters.” Genghis Khan.
 THEYs want you to believe in the American dream and work hard.
 Reality is THEYs crush your dreams at every turn.
@@ -1023,17 +972,14 @@ Elon claims that as robotics improve it will lead to prosperity for all.
 If you believe that you haven’t been paying attention.
 If you think THEYs are going to share everything or anything, for that matter, you’re just plain stupid.
 “Power is always dangerous.
-Power attracts the
-worst and corrupts the best.” Edward Abbey.
+Power attracts the worst and corrupts the best.” Edward Abbey.
 Time is running short and if WTP don’t get our thoughts together soon, the same THEYs who sent our jobs to China will replace WTP with robots.
 REMOs represent two sides of the same coin.
 It’s time to stop flipping a coin that repeatedly gives WTP bad results no matter which side it lands on.
 WTP need a new COMMON SENSE approach, based on compromise, reason, and compassion.
 WTP need a new party always searching for a middle ground.
 A party looking for the sweet spot, a G Party if you will.
-If you take the middle 80% of rational thinking people and ignore the 10% of both parties who are fanatics, America would be great again.
-“Hypocrisy is the audacity to preach integrity from the den of destruction.” Wes Fesler.”
-REMOs define hypocrisy.
+If you take the middle 80% of rational thinking people and ignore the 10% of both parties who are fanatics, America would be great again. “ Hypocrisy is the audacity to preach integrity from the den of destruction.” Wes Fesler.” REMOs define hypocrisy.
 Legislatures on both sides of the aisle get caught for taking bribes and they don’t even get sanctioned because they are all doing it.
 The only reason Senator Menendez got prosecuted is the DOJ needed a DEMOs scapegoat as they prosecuted Trump.
 There is more acting going on in Washington than Hollywood, most REMOs don’t even write their own speeches.
@@ -1063,8 +1009,14 @@ When it comes to dangerous cults Trumper’s take cultism to new heights.
 MAGA drank the Kool-Aid, smashed themselves in the head with the pitcher, and ate the glass shards.
 DEMOs do stupid things and REPOs do stupid things because group think develops brainwashed cults.
 Reality is Trump is just another turd in the punchbowl that leaves WTP thirsty for sane govt.
-“The definition of insanity is doing the same thing over and
-over and expecting different results.” Rita Mae Brown or Einstein.
+“Government, even in its best state, is but a necessary evil; in its worst state an intolerable one.” Thomas Paine The nature of govt requires that a relatively small number of people must be allowed to make decisions for the group as a whole.
+To think that the public should simply rely on the benevolence of elected officials is ridiculous.
+Why are WTP stupid enough to believe govt censorship is okay?
+Secrecy is the biggest danger to democracy and we’ve been sold out by the REMOs and the courts.
+SECRECY is the ultimate form of IMMUNITY.
+You can’t be accountable for information that’s not available.
+Clearly the govt believes that their power and influence are more important than the protection of HRs and the well being of citizens.
+“The definition of insanity is doing the same thing over and over and expecting different results.” Rita Mae Brown or Einstein.
 All this nonsense about AMERICA being a bad place to live in, is nonsense!
 Certainly WTP have our problems, but our belief in democracy and a constitution with checks and balances has carried WTP through in Red, White, and Blue colors.
 If WTP stop supporting democracy and a Constitution with a strong Bill of Rights we betray our ancestors, descendents and freedom itself.
@@ -1090,8 +1042,7 @@ Habeas Corpus is a HR given directly and specifically in the Constitution and it
 The reason America has been respected around the world is because everybody gets their day in court.
 Snatching people off the streets is the disgraceful action of a fascist third world dictator.
 The line has been crossed, the line is fascism, and it is time to take action.
-“A state without the means of some change is without
-the means of its conservation.” Edmund Burke.
+“A state without the means of some change is without the means of its conservation.” Edmund Burke.
 Our forefathers wisely allowed for changes to be made to the constitution and the time has come for a constitutional convention, led by real HEROs.
 THEYs have been corrupting the system since the Constitution was ratified and for 250 years HRs have been under attack.
 In Common Sense, the country’s real founding document, Thomas Paine talked about monarchical and aristocratic tyranny.
@@ -1103,10 +1054,12 @@ The Bill of Rights was added as an afterthought and must be refined and strength
 HRs can’t be subject to the whims of a corrupt court.
 The respect for HRs must be paramount to the constitution itself.
 WTP must make it clear to even fifth graders that the protection of HRs is more important than any govt wishlist.
-“The fate of good men who refuse to become involved with
-politics is to be ruled by evil men.” Edmund Burke.
+“The fate of good men who refuse to become involved with politics is to be ruled by evil men.” Edmund Burke.
 HEROs will do everything possible to expand HRs and end this blatant corruption.
 DEMOs and REPOs are both deeply corrupt and as long as WTP keep trusting these evil bastards nothing will change for the better!
 REPOs are making it blatantly obvious they don’t care about you and will do anything to keep their power.
 WTP have never seen so many allegedly straight men suck so much ****.
 The old guard must be replaced!!!!!!!!
+Clifton Brown is running to restore common-sense leadership, protect Colorado values, and fight for hardworking families across Colorado’s 3rd District.
+With a focus on freedom, economic growth, Human Rights, and rural communities, Clifton is ready to be a strong voice for the people — not the political establishment.
+QUICK LINKS Home About Me Issues Contact Issues Anti-Corruption Laws Anti-War Policy Election Reform Cost of Living Reduction Balanced Budget / Deficit Control Human Rights Protection Universal Healthcare Rural Community Protection CONTACT US treerider88@gmail.com 3036699470 © # Clifton Brown, All Rights Reserved

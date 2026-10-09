@@ -1,4 +1,4 @@
-Skip to content Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Campaign Supply Board Contact DONATE DONATE ISSUES & PRIORITIES District 39 deserves practical solutions to the issues that affect everyday life here at home.
+Skip to content Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Endorsements Campaign Supply Board Contact DONATE DONATE ISSUES & PRIORITIES District 39 deserves practical solutions to the issues that affect everyday life here at home.
 My priorities are focused on protecting families, strengthening our communities, holding government accountable, and making sure West Virginians have a strong voice in the decisions that shape our future.
 CPS Reform & Family Accountability West Virginia’s child welfare system carries enormous responsibility, and families deserve a system that is fair, transparent, and accountable.
 I support stronger oversight, clear standards for case decisions, meaningful due process, better safeguards against conflicts of interest, and real accountability when policies or procedures are not followed.
@@ -21,4 +21,4 @@ I support policies that help small businesses grow, encourage new investment, st
 Property Rights, Local Control & Historic Preservation Property rights matter, and I believe local communities should be cautious about unnecessary government restrictions on how people use their own land.
 I do not support imposing zoning simply for the sake of more regulation.
 At the same time, we should look for practical ways to preserve historic buildings, encourage redevelopment, and help property owners and businesses invest in the places that give our communities their character.
-Privacy Policy © # Ronnie Oakley for District 39 | Paid for by Oakley, Ronnie Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Toggle child menu Campaign Supply Board Contact
+Privacy Policy © # Ronnie Oakley for District 39 | Paid for by Oakley, Ronnie Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Toggle child menu Endorsements Campaign Supply Board Contact

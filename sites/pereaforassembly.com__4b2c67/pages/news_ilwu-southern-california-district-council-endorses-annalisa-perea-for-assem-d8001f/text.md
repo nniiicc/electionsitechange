@@ -13,4 +13,4 @@ From labor halls to city halls, support for Perea's campaign continues to grow a
 The ILWU SCDC joins a broad and expanding coalition of organizations and leaders who believe the Central Valley deserves a proven champion for labor unions in Sacramento.
 Annalisa Perea currently serves on the Fresno City Council, where she has led efforts to expand affordable housing, invest in public safety, and strengthen workforce development programs.
 A certified city planner and former community college trustee, Perea carries forward a lifelong belief in education, equity, and opportunity for every family.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

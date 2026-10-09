@@ -1,4 +1,4 @@
-About Endorsements Media Contact Follow Follow Donate About Endorsements Media Contact Donate Endorsements Thomas Massie Congressman, KY-4 “I am honored to endorse TJ Roberts for State Representative for House District 66.
+About Endorsements Media Get Involved Contact Follow Follow Donate About Endorsements Media Get Involved Contact Donate Endorsements Thomas Massie Congressman, KY-4 “I am honored to endorse TJ Roberts for State Representative for House District 66.
 TJ courageously stood against Governor Beshear’s lockdowns and ban on church attendance.
 TJ then sued Beshear in federal court and won.
 I am confident in TJ’s principles and his commitment to preserving the Constitution.

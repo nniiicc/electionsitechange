@@ -1,5 +1,9 @@
 [
 {
+"text": "200 Main Street, Saint Peters",
+"href": "https://www.google.com/maps/search/?api=1&query=Hobos+at+the+American+Legion%2C+200+Main+Street%2C+Saint+Peters%2C+MO"
+},
+{
 "text": "Contact",
 "href": "https://daleconoyer.com/contact.html"
 },
@@ -48,8 +52,16 @@
 "href": "https://daleconoyer.com/priorities.html"
 },
 {
+"text": "Questions?",
+"href": "https://daleconoyer.com/contact.html"
+},
+{
 "text": "TikTok",
 "href": "https://www.tiktok.com/@conoyerformo"
+},
+{
+"text": "View Rally Flyer",
+"href": "https://daleconoyer.com/assets/img/The-Great-Big-Rally.png"
 },
 {
 "text": "View the full flyer",
@@ -70,6 +82,10 @@
 {
 "text": "[image: Save the date: Dale Conoyer's Birthday Rally, September 18th at 5 PM, 1000 Lakeside Park, Saint Peters, MO, Sunset Pavilion]",
 "href": "https://daleconoyer.com/assets/img/Conoyer-birthday-rally-front.png"
+},
+{
+"text": "[image: The Great Big Rally at Hobos at the American Legion, Sunday, October 18, 2026, from 11 AM to 2 PM]",
+"href": "https://daleconoyer.com/assets/img/The-Great-Big-Rally.png"
 },
 {
 "text": "[image: You're invited — The Let's Fix Missouri Barbecue Rally, June 18, 1 Park Street, Saint Peters MO 63376, Pavilion A]",

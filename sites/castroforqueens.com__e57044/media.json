@@ -1,1 +1,13 @@
-[]
+[
+"alt:/cLogo.png|Campaign Logo",
+"alt:/check.png|check",
+"alt:/top_half.png|profile",
+"alt:logo.png|logo",
+"embed://www.facebook.com/plugins/video.php",
+"img:/cLogo.png",
+"img:/check.png",
+"img:/cityBackground.jpg",
+"img:/top_half.png",
+"img:/trainBackground.jpg",
+"img:logo.png"
+]

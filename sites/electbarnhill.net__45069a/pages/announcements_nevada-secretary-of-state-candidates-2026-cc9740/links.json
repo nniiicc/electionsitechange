@@ -32,10 +32,6 @@
 "href": "https://electbarnhill.net/category/announcements/"
 },
 {
-"text": "Blog",
-"href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
 "text": "Click here to contribute securely",
 "href": "https://electbarnhill.net/donations/givewp-donation-form/"
 },
@@ -90,6 +86,10 @@
 {
 "text": "Nevada Mail Ballot Tracking: How to Follow Your Ballot",
 "href": "https://electbarnhill.net/policy-positions/nevada-mail-ballot-tracking/"
+},
+{
+"text": "News",
+"href": "https://electbarnhill.net/news/"
 },
 {
 "text": "Next Next post: Nevada’s New Majority",

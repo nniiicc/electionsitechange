@@ -1,4 +1,5 @@
-QQ288 QQ188 QQ101 Skip to content ChristyforAmerica Resources Update # Days more or less # days till election day!
+QQ288 QQ188 QQ101 Skip to content ChristyforAmerica Resources 10/8/26 Ballot Day!
+Vote Christy Peterson CD1 Congressional District 1 Denver” by 11/3 # days till election day!
 Nov.
 3rd 2026 VOTE Republican Common Sense Safety Economy Education Website was hacked.
 Yay! lol thanks buddies Denver CD1 We want a safe, strong, smart Colorado.

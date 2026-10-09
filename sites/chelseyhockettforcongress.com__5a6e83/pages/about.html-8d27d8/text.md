@@ -1,4 +1,4 @@
-Chelsey Hockett Home About Issues Endorsements Blog Volunteer Store Donate Meet the Candidate Chelsey Hockett Mother of Two East Texan Community Organizer Not a Career Politician I'm part of a hard-working family in Terrell, Texas.
+Chelsey Hockett Home About Issues Endorsements District Volunteer Store Donate Meet the Candidate Chelsey Hockett Mother of Two East Texan Community Organizer Not a Career Politician I'm part of a hard-working family in Terrell, Texas.
 I know what it means to stretch a budget and watch leaders in Washington ignore the real struggles of everyday people.
 That's why I'm running for Congress.
 Read Her Story ↓ Mom of Two Raising her kids right here in East Texas Terrell, Texas Rooted in this community November 3, 2026 Early voting October 19–30 · TX District 5 People-Powered No corporate PACs.

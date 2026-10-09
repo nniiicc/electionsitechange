@@ -30,8 +30,8 @@ Now, with seven days until Primary Election Day, make sure you know how and when
 Vote early if you can.
 Confirm your Election Day polling place if you cannot.
 Remind your family, friends, and neighbors that the primary is August 18th.
-Related Posts: Our Water, Our Fight: An Update On Clean Water In Our Community April 1, 2026 What Service Before Self Means To Me September 16, 2026 Another Slap In The Face For Veterans May 2, 2022 Support America First With New Merchandise!
-November 23, 2021 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Our Freedom Of Speech January 19, 2021 Service Before Self January 16, 2021 TikTok BANNED.
+Let’s Talk About It… April 22, 2024 Petition: Stop Entertaining Foreign Oil April 11, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

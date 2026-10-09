@@ -1,0 +1,8 @@
+You are invited to join Delegate Teresa Reilly Harford County Delegation Chair Cecil and Harford Counties, District 35B Health & Government Operations Committee CRAB FEAST Thursday, October 7th 6:00 PM – 8:30 PM Richlin Ballroom & Events Catering, Edgewood, MD Steamed Crabs I Herb-Baked Chicken I Four Cheese Baked Ziti I Linguine & Crab Sauce I Hot Dogs I Corn I Potato Salad I Cole Slaw I Cobblers I Ice Cream Sundae Bar Beverages -------------------------------------------------------------------------------------------------------------YES!
+I (we) would like to attend the Crab Feast on October 7, 2021, please reserve $75.00 per person / $130 per couple. $1,000 – Diamond Sponsor (8 tickets) Ticket(s) at $500 – Gold Sponsor (6 tickets) $300 – Silver Sponsor (3 tickets) We will have people in attendance.
+Enclosed is my check for $ I (we) cannot attend, but enclosed is my support for $50, $75, $100, $200, other: $ Name ___________________________________ Address_________________________________________ City / State / Zip __________________________________________________________________________ Phone ____________________________________ Email _________________________________________ Occupation ________________________________ Employer ______________________________________ Please RSVP by September 30, 2021.
+For more information, please contact tstephens@comcast.net or phone: 443-392-6463.
+Make checks payable to: Citizens for Teresa Reilly.
+Mail check and form to: 1013 Conowingo Rd., Bel Air.
+MD 21014.
+Make online payment at www.TeresaReillyforDelegate.com or http://teresareillyfordelegate.com/crabfeast/ Authority: Citizens For Teresa Reilly; Tiffany Stephens, Treasurer

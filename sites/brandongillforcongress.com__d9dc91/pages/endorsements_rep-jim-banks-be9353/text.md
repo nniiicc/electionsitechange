@@ -4,7 +4,7 @@ Jim Banks by: 01/24/2024 Source: brandongillforcongress.com 01/24/2024 jim banks
 In TX-26 Brandon Gill is endorsed by President Trump and is the future of our conservative movement.
 Brandon has my complete endorsement. jim banks by is licensed under Twitter Follow us Read our latest news on any of these social networks!
 Get latest news delivered daily!
-We will send you breaking news right to your inbox Join Us Get Updates Recent Articles Join Us By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+We will send you breaking news right to your inbox Join Us Get Updates Recent Articles placeholder-1-1 placeholder-1 placeholder Join Us By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed messages to the phone number you provide.
 Msg&data rates may apply.
 Msg frequency varies.

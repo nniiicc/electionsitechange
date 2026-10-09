@@ -1,9 +1,13 @@
 {
  "description": "React Project",
  "final_url": "https://www.aaronformn.com/",
- "fingerprint": "37ef89d89aac3cf0b139dbce9e54267d6f9f22b6",
+ "fingerprint": "e12494eb48cd29b47b73d62ce4801d64c02ee825",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Aaron Schweiger for the Minnesota House Campaign Finance Committee",
+ "rendered": true,
  "title": "Aaron",
- "years_mentioned": []
+ "years_mentioned": [
+  "1999",
+  "2014"
+ ]
 }

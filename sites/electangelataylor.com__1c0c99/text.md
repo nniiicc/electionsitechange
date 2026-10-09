@@ -1,1 +1,3 @@
-
+Home What is My Why?
+About Me On the Record with Leaders Lead Network Podcast 2026 Washington Healthcare Champions Candidate Forum LWV Legislative Forum My Key Priorities Endorsements Endorsing Officials Community Endorsement Monthly Supporters Events...
+My Pledges Contact Me

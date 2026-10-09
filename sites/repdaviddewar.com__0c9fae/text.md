@@ -1,4 +1,4 @@
-Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote About David David Dewar is on a mission to bring truth & transparency to how political office holders are voting on policies.
+Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote About David & the SCROLLCARD David Dewar is on a mission to bring truth & transparency to how political office holders are voting on policies.
 His main weapon for uncovering their record is at the link ( SCROLLCARD ).
 Many politicians have not been honest with their constituents and voted differently than their campaign promise.
 David Dewar grew up in the south suburbs of Chicago (Calumet Park) and moved to Chicago's Mt.

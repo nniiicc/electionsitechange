@@ -1,5 +1,4 @@
-Candidate Debate on Wednesday October 7th at 7pm.
-Francestown Town Hall Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card More Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card I'm out listening to the issues that matter to you.
+Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card More Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card I'm out listening to the issues that matter to you.
 These issues don't have easy answers.
 But we’ll get to better solutions by working together and staying civil.
 Share your comments What I'm Hearing Click on the issue to read more.

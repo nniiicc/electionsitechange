@@ -63,7 +63,9 @@ Invite me to meet your neighbors, visit your organization, or hear directly from
 Invite James Volunteer at an Event 01 Neighborhood coffee Host a small gathering with neighbors who want to talk through local priorities.
 02 Business or workforce visit Invite James to hear directly from local employers, workers, and tradespeople.
 03 Community event stop Share an upcoming event where the campaign should show up and listen.
-Take the next step Help build a campaign that puts District 45 first.
+Legislative Priorities Advancing Alina’s Law.
+James supports stronger protections for survivors of domestic violence through court-ordered electronic monitoring, proximity alerts, and a coordinated response in qualifying PFA cases.
+Read the Proposal and Priorities Take the next step Help build a campaign that puts District 45 first.
 Volunteer Request a Yard Sign Contribute × Community Gathering with James Julius Everyone is welcome.
 Free event Join me for an open conversation about our community.
 Bring your questions, concerns, and ideas.

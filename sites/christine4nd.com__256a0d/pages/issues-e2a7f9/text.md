@@ -1,7 +1,6 @@
 Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Issues After serving our great nation, my family and I chose to return to the home of my ancestors and “re-settle” in the beautiful state of North Dakota.
 I am running to represent District 11 in the North Dakota Senate to ensure that the quality of life that attracted us to this area continues to be protected, as well as strengthened for my family, your family, and the future families who are proud to call North Dakota home.
-It would be an honor and a privilege to serve my neighbors in the North Dakota Senate.
-Build Successful Generations Build Successful Generations Success for North Dakotans begins at home.
+It would be an honor and a privilege to serve my neighbors in the North Dakota Senate Christine O'Riley for ND State Senate District 11 Build Successful Generations Build Successful Generations Success for North Dakotans begins at home.
 As your State Senator, I will work to ensure our laws and programs support all of our citizens and enable them to establish a strong foundation for future success for themselves, their families, and the generations to come.
 Some of the areas I will explore with my colleagues in the Senate include: North Dakotans must have a competitive edge.
 Regional and state workforce solutions must enhance current and future generations by encouraging business and workforce development, strengthening recruitment efforts, committing to employee retention via good wages & benefits and advancement opportunities, while supporting coordination between educational and training systems that match employers’ needs.

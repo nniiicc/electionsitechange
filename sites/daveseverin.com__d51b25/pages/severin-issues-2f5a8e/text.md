@@ -1,0 +1,3 @@
+Skip to content State Representative Dave Severin Paid for by Friends of Dave Severin Menu Meet Dave Photos News Volunteer Facebook Donate Previous Image Next Image severin issues Posted on July 26, 2016 July 26, 2016 Full size 1200 × 800 Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Post navigation Published in severin issues Meet Dave Photos News Volunteer Facebook Donate State Representative Dave Severin Proudly powered by WordPress

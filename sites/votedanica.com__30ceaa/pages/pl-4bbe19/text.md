@@ -1,4 +1,4 @@
-Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl English en עברית he Español es русский ru 简体中文 zh Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Danica Hartenfels na przedstawicielkę stanu ★ Zaufani.
+Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl Español es עברית he English en русский ru 简体中文 zh Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Danica Hartenfels na przedstawicielkę stanu ★ Zaufani.
 Sprawdzeni.
 Gotowi do służby.
 Silny głos pracujących rodzin i małych firm w 189. okręgu wyborczym Pensylwanii Poznaj Danicę Zaangażować się Lider prawdziwego życia, nie tylko polityki.

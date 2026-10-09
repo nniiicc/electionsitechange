@@ -35,6 +35,6 @@ Reply STOP to opt out, HELP for help.
 See our Privacy Policy and Terms .
 Address City State ZIP Employer Occupation Card Details Cover processing fees so 100% goes to the campaign Make this a monthly donation Contribute Contributions are not tax deductible.
 New Hampshire law requires us to collect and report the name, mailing address, occupation, and employer of each contributor whose contributions aggregate to $# or more.
-Support Endorsements Keith Ammon State Representative NH College Republicans Citizens Alliance of New Hampshire LOVETT 4 NH Mont Vernon farmer, consultant, and patriot fighting for liberty in the New Hampshire House.
+Support Endorsements Keith Ammon State Representative NH College Republicans Citizens Alliance of New Hampshire New Hampshire Liberty Alliance LOVETT 4 NH Mont Vernon farmer, consultant, and patriot fighting for liberty in the New Hampshire House.
 Explore About Issues Donate Contact [email protected] [phone protected] PO Box 134, Mont Vernon, NH 03057 Follow Paid for by Lovett4NH, PO Box 134, Mont Vernon, NH 03057, Rob Lovett treasurer © # Rob Lovett.
 All rights reserved. · Hillsborough 42

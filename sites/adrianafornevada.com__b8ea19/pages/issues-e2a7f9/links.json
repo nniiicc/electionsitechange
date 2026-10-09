@@ -44,15 +44,15 @@
 "href": "https://adrianafornevada.com/bio"
 },
 {
+"text": "Terms",
+"href": "https://adrianafornevada.com/terms"
+},
+{
 "text": "X",
 "href": "https://x.com/AdrianaForNV"
 },
 {
 "text": "[image: Adriana Guzmán Fralick for Attorney General]",
 "href": "https://adrianafornevada.com/"
-},
-{
-"text": "{{ i.title }}",
-"href": "https://adrianafornevada.com/%7B%7B%20i.hash%20%7D%7D"
 }
 ]

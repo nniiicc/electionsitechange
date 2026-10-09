@@ -1,0 +1,9 @@
+NORTH TUSTIN & ORANGE PARK ACRES VO T E R G UI DE NOVEMBER 3, 2026 · GENERAL ELECTION Vote the whole ballot – top to bottom. ◆ = on some North Tustin & Orange Park Acres ballots only.
+Check yours.
+PA R T I S A N O F F I C E S GOVERNOR Steve Hilton LIEUTENANT GOVERNOR Gloria Romero SECRETARY OF STATE Donald P.
+Wagner CONTROLLER Herb Morgan TREASURER Jennifer Hawks ATTORNEY GENERAL Michael Gates BOARD OF EQUALIZATION, 4TH DISTRICT Denis Bilodeau U.S.
+REPRESENTATIVE, 47TH DISTRICT Jenny Rae Le Roux STATE ASSEMBLY, 59TH DISTRICT ◆ Some ballots Phillip Chen STATE ASSEMBLY, 73RD DISTRICT ◆ Some ballots Urson Russell N O N PA R T I S A N O F F I C E S SUPERINTENDENT OF PUBLIC INSTRUCTION Sonja Shaw SCHOOL & COLLEGE BOARDS TUSTIN UNIFIED SCHOOL BOARD · AREA 3 ◆ Some ballots Kelly Felton ORANGE UNIFIED SCHOOL BOARD · AREA 5 ◆ Some ballots Chip Ahlswede ORANGE UNIFIED SCHOOL BOARD · AREA 7 ◆ Some ballots Jack Chang S T AT E P R O P O S I T I O N S 1 Affordable housing bond 3 Permanent top income tax rates 5 Recall procedure changes 38 Immunology research bonds 40 Billionaire wealth tax 42 Ban personal property taxes 44 Clinic spending requirements NO 2 Rainy day fund cap NO NO 4 Public campaign financing NO NO 37 Second-mortgage homebuyer program YES 39 Voter ID NO 41 Tax spending limit & audits YES 43 ⅔ vote for local special taxes NO 45 Faster environmental review NO YES YES YES YES Return your ballot by Nov.
+3 – by mail (no stamp needed), at any drop box, or at a Vote Center by 8 p.m.
+Track it at WheresMyBallot.sos.ca.gov D O N AT E VO L U N T E E R Scan to visit JennyRaeCA.com J ENNYRAECA.COM Paid for by Jenny Rae Le Roux for Congress Not an official ballot.
+Races marked ◆ appear only on ballots in that district.
+Candidates listed have not necessarily endorsed one another.

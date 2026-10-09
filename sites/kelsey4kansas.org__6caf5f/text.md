@@ -24,12 +24,12 @@ Kelsey will challenge the legislature to better work together to improve our sys
 Cost of living Affordability As a Kansas native, I believe that people and families who desire to work, live and raise their families in Kansas, should be able to afford to do so.
 With the mind of a researcher paired with experience in community leadership, Kelsey is hopeful to coalesce party lines and help to develop solutions that make Kansas more affordable for all. ​ LISTEN • ACT • CHANGE • LISTEN • ACT • CHANGE • LISTEN • ACT • CHANGE • Join the Groundwork Connect with Kelsey to address local issues.
 From hosting a meet-and-greet to spreading the word, your action sparks real results.
-Volunteer Now Your Voice Drives Our Progress Help us build a movement that honors every Kansan.
+Your Voice Drives Our Progress Help us build a movement that honors every Kansan.
 Whether you have ten minutes or a full day, your support is vital to our success.
 Support the Mission Fuel the fight for better representation.
 Every dollar helps ensure District 121 has a leader who listens.
 Your contribution matters today.
-Make a Donation Endorsements CONTACT US kelsey@kelsey4kansas.org 913.213.3771 © # Kelsey for Kansas.
+Make a Donation Donate Venmo Volunteer Now Endorsements e e CONTACT US kelsey@kelsey4kansas.org 913.213.3771 © # Kelsey for Kansas.
 All rights reserved.
 Paid for by Kelsey for Kansas Campaign Committee.
 Together, we build a better future.

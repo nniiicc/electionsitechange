@@ -35,13 +35,10 @@ Kate Gallup: Championing Community and Change Kate Gallup is dedicated to foster
 District 37 includes the Counties of Leelanau, Grand Traverse, Antrim, Charlevoix, Emmet, Cheboygan, and parts of eastern Mackinac and Chippewa counties.
 She has been meeting with constituents up and down this district.
 See her social media posts for updates and local events.
-Recently, she engaged with voters in Elk Rapids and Bellaire on 7/30, St.
-Ignace on 7/31, Cheboygan on 7/31, Leelanau and Grand Traverse on 8/1, Pickford and Sault Ste.
-Marie on 8/2, Mackinac Island and Alanson on 8/3, and Leelanau and Grand Traverse on 8/4 Election Day!
 Building a Brighter Future for District 37 Join Kate Gallup’s campaign to champion healthcare access, affordable housing, and workers’ rights.
 Discover how you can support lasting community change and make your voice heard today.
 Join our Movement Questions?
 Reach us through the form below or at kate@gallupformichigan.com or text/call 231-357-9751 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * Phone Message Name Email * Phone Subject Message * Submit Donate to Kaitlin Gallup Show your support with a contribution.
+Name * Email * Phone Phone Message Subject Subject Message * Submit Donate to Kaitlin Gallup Show your support with a contribution.
 Paid for by the Committee to Elect Kaitlin Gallup, PO Box 65, Maple City, MI 49664 Privacy Policy Instagram Facebook Bluesky

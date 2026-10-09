@@ -1,19 +1,12 @@
-Skip to content Facebook-f Instagram X-twitter Threads Tiktok ALASKA FIRST.
-CONTACT My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News SALMON RUN CALL FOR ARTISTS STORE DONATE Facebook-f Instagram X-twitter Threads Tiktok SALMON RUN CALL FOR ARTISTS My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact DONATE Privacy Policy Alaskans for Mary Privacy Policy Last Updated: January 12, 2026 At Alaskans for Mary, we work to elect Mary Peltola to the U.S.
+We can’t do it without your help.
+Contribute to Mary’s campaign today.
+Contribute to Mary’s campaign today Donate to join Team Mary $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+We can’t do it without your help. $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Continue to website Skip to content Alaska First.
+Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Newsletter Events Jobs Donate Request a Yard Sign Press Press Releases In the News Salmon Run Call for Artists Store Donate Donate Menu Close Donate Volunteer Privacy Policy Alaskans for Mary Privacy Policy Last Updated: January 12, 2026 At Alaskans for Mary, we work to elect Mary Peltola to the U.S.
 Senate.
 This Privacy Policy is designed to help you understand how Alaskans for Mary (“the Campaign” “we”, “our”, “us”) collects, uses, and shares your personal information.
-1.
-SCOPE 2.
-PERSONAL INFORMATION WE COLLECT 3.
-HOW WE USE INFORMATION 4.
-HOW WE DISCLOSE YOUR INFORMATION 5.
-YOUR PRIVACY CHOUCES AND RIGHTS 6.
-SECURITY OF YOUR INFORMATION 7.
-INTERNATIONAL DATA TRANSFERS 8.
-RETENTION OF PERSONAL INFORMATION 9.
-CHILDREN’S INFORMATION 10.
-OTHER PROVISIONS 11.
-CONTACT US 1.
+SCOPE PERSONAL INFORMATION WE COLLECT HOW WE USE INFORMATION HOW WE DISCLOSE YOUR INFORMATION YOUR PRIVACY CHOICES AND RIGHTS SECURITY OF YOUR INFORMATION INTERNATIONAL DATA TRANSFERS RETENTION OF PERSONAL INFORMATION CHILDREN’S INFORMATION OTHER PROVISIONS CONTACT US 1.
 SCOPE This Privacy Policy applies to personal information processed by us, including on our websites, applications, and other online or offline offerings.
 To make this Privacy Policy easier to read, our websites, applications, and other offerings are collectively called the “Services.” ATTENTION: PLEASE READ OUR PRIVACY POLICY CAREFULLY BEFORE ACCESSING OR USING THE SERVICE.
 ACCESSING OR USING THE SERVICES INDICATES THAT YOU ACCEPT AND AGREE TO BE BOUND BY THIS PRIVACY POLICY IN FULL.
@@ -132,11 +125,6 @@ To stop receiving text messages, reply with the word STOP or by following the in
 We may confirm your opt-out by text message.
 “Do Not Track.” Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers.
 Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
-Cookies and Interest-Based Advertising.
-You may stop or restrict the placement of Technologies on your device or remove them by adjusting your preferences as your browser or device permits.
-However, if you adjust your preferences, our Services may not work properly.
-Please note that cookie-based opt-outs are not effective on mobile applications.
-However, you may opt-out of personalized advertisements on some mobile applications by following the instructions for Android, iOS and others.
 The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs.
 You can access these and learn more about targeted advertising and consumer choice and privacy by visiting the Network Advertising Initiative and the Digital Advertising Alliance.
 Please note you must separately opt out in each browser and on each device.
@@ -211,7 +199,7 @@ Prohibited Conduct and Content You will not violate any applicable law, contract
 You will not: Engage in any harassing, threatening, intimidating, predatory or stalking conduct; Use or attempt to use another user’s account without authorization from that user and the Campaign; Impersonate or post on behalf of any person or entity or otherwise misrepresent your affiliation with a person or entity; Sell, resell or commercially use our Site; Copy, reproduce, distribute, publicly perform or publicly display all or portions of our Site, except as expressly permitted by us or our licensors; Modify our Site, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Site; Use our Site other than for its intended purpose and in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Site or that could damage, disable, overburden or impair the functioning of our Site in any manner; Reverse engineer any aspect of our Site or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Site; Use any data mining, robots or similar data gathering or extraction methods designed to scrape or extract data from our Site; Develop or use any applications that interact with our Site without our prior written consent; Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes; Bypass or ignore instructions contained in our robots.txt file; or Use our Site for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
 You may also post, submit, or otherwise share only User Content that is nonconfidential and that you have all necessary rights to disclose.
 You may not create, post, submit, store or share any User Content that: Is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent; Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law; May infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party; Contains or depicts any statements, remarks or claims that do not reflect your honest views and experiences; Impersonates, or misrepresents your affiliation with any person or entity; Contains any unsolicited promotions, advertising or solicitations; Contains any private or personal information of a third party without such third party’s consent; Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content; or In our sole judgment, is objectionable, restricts or inhibits any other person from using or enjoying our Site, or may expose the Campaign or others to any harm or liability of any type.
-Enforcement is solely at the Campaigns discretion, and failure to enforce this section in some instances does not constitute a waiver of our right to enforce it in other instances.
+Enforcement is solely at the Campaign’s discretion, and failure to enforce this section in some instances does not constitute a waiver of our right to enforce it in other instances.
 In addition, this section does not create any private right of action on the part of any third party or any reasonable expectation that the Site will not contain any content that is prohibited by such rules.
 Ownership; Limited License The Site, including the text, graphics, images, photographs, videos, illustrations and other content contained therein, are owned by the Campaign or our licensors and are protected under both United States and foreign laws.
 Except as explicitly stated in these Terms, all rights in and to the Site are reserved by us or our licensors.
@@ -226,14 +214,13 @@ You understand that the Campaign may treat Feedback as nonconfidential.
 Repeat Infringer Policy; Copyright Complaints In accordance with the Digital Millennium Copyright Act and other applicable law, we have adopted a policy of terminating, in appropriate circumstances, the accounts of users who repeatedly infringe the intellectual property rights of others.
 If you believe that anything on our Site infringes any copyright that you own or control, you may notify the Campaign’s designated agent as follows: Designated Agent: Holly Giarraputo Address: 946 Bandmann Trl, Missoula, MT 59802 E-Mail Address: [email protected] Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification.
 Also, please note that if you knowingly misrepresent that any activity or material on our Site is infringing, you may be liable to the Campaign for certain costs and damages.
-Third-Party Content, Products, and Sites.
-We may provide information about third-party organizations, events, products, services, or activities, or we may allow third parties to make their content and information available on or through the Site (collectively, “Third-Party Content”).
+Third-Party Content, Products, and Sites We may provide information about third-party organizations, events, products, services, or activities, or we may allow third parties to make their content and information available on or through the Site (collectively, “Third-Party Content”).
 We provide Third-Party Content as a service to those interested in such content.
 Your dealings or correspondence with third parties and your use of or interaction with any Third-Party Content are solely between you and the third party.
 The Campaign does not control or endorse, and makes no representations or warranties regarding, any Third-Party Content, and your access to and use of such Third-Party Content is at your own risk.
 Indemnification To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless the Campaign and its independent contractors, service providers, and consultants, successor organizations, and joint committee members, and each of their respective officers, directors, agents, partners and employees (individually and collectively, the “Indemnified Parties”) from and against any losses, liabilities, claims, demands, damages, expenses or costs (“Claims”) arising out of or related to (a) your User Content or Feedback; (b) your violation of these Terms; (c) your violation, misappropriation or infringement of any rights of another (including intellectual property rights or privacy rights); or (d) your misconduct in connection with the Site.
-You agree to promptly notify Indemnified Parties of any third-party Claims, cooperate with Indemnified Parties in defending such Claims and pay all fees, costs and expenses associated with defending such Claims (including, but not limited to, attorneys&#39; fees).
-You also agree that the Indemnified Parties will have control of the defense or settlement, at the Indemnified Party&#39;s sole option, of any third-party Claims.
+You agree to promptly notify Indemnified Parties of any third-party Claims, cooperate with Indemnified Parties in defending such Claims and pay all fees, costs and expenses associated with defending such Claims (including, but not limited to, attorneys’ fees).
+You also agree that the Indemnified Parties will have control of the defense or settlement, at the Indemnified Party’s sole option, of any third-party Claims.
 Dispute Resolution; Binding Arbitration Please read the following section carefully because it requires you to arbitrate certain disputes and claims with the Campaign and limits the manner in which you can seek relief from us, unless you opt out of arbitration by following the instructions set forth below.
 No class or representative actions or arbitrations are allowed under this arbitration provision.
 In addition, arbitration precludes you from suing in court or having a jury trial.
@@ -279,6 +266,5 @@ Miscellaneous The failure of the Campaign to exercise or enforce any right or pr
 The section titles in these Terms are for convenience only and have no legal or contractual effect.
 Except as otherwise provided herein, these Terms are intended solely for the benefit of the parties and are not intended to confer third-party beneficiary rights upon any other person or entity.
 You agree that the communications and transactions between us may be conducted electronically.
-PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY WE CAN'T DO IT WITHOUT YOUR HELP.
-Contribute to help Mary’s campaign today.
-MAKE A DONATION GET INVOLVED
+On this page Join the Fight for Alaska $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Join the Team Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary

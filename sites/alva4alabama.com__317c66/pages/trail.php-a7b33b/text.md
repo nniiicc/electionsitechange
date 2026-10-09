@@ -1,6 +1,8 @@
 ALVA LAMBERT for Alabama House District 74 Home Why I'm Running Issues Trail Volunteer District Donate Campaign Trail Events, updates, and reflections from across District 74 Upcoming Events Events coming soon.
 Check back for upcoming town halls, meet-and-greets, and community events across District 74.
-From the Trail September 2026 A Birthday Well Spent Proud to spend my birthday with the dedicated residents of the Carol Villa Neighborhood Association and the Fox Hollow Neighborhood Association.
+From the Trail October 2026 Supporting the Arts at MAX Credit Union’s Burger Bash With the MAX Credit Union team in Downtown Montgomery.
+Great night downtown with the MAX Credit Union team.
+Thanks to everyone who came out to support the arts in Montgomery. — Alva September 2026 A Birthday Well Spent Proud to spend my birthday with the dedicated residents of the Carol Villa Neighborhood Association and the Fox Hollow Neighborhood Association.
 Carol Villa, Tuesday evening.
 Taking the questions that came with it.
 The part that matters happens after the meeting ends.

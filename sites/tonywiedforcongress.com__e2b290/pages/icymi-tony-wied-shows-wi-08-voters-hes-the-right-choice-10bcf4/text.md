@@ -1,0 +1,13 @@
+Skip to content CLICK HERE TO DONATE TO TONY WIED Home Issues Press Releases Endorsements Get Involved Home Issues Press Releases Endorsements Get Involved Home Issues Press Releases Endorsements Get Involved Menu Home Issues Press Releases Endorsements Get Involved Genuine leadership for wisconsin ICYMI: Tony Wied Shows WI-08 Voters He’s the Right Choice September 28, 2024 De Pere, WI – Small businessman and Republican Congressional nominee Tony Wied faced off against his Democratic opponent in a debate last night and clearly demonstrated why he is the right choice to represent WI-08.
+On the issues most important to Wisconsin voters, such as the economy, the southern border, and reckless government spending, Tony Wied laid out a clear vision to tackle these problems in Washington.
+“The inflation we are seeing is a direct result of the reckless spending of the Biden-Harris Administration and I am the only candidate that will go to Washington to put a stop to it,” said Wied.
+Tony focused on the issues facing WI-08 voters rather than getting swept up in personal attacks from his opponent.
+Wied went on to say, “The big difference between me and my opponent is she attacks people and I attack problems.” https://www.wearegreenbay.com/news/local-news/8th-congressional-district-candidates-debate-for-first-time https://www.nbc26.com/greenbay/tony-wied-and-dr-kristin-lyerly-debate-for-8th-congressional-district https://fox11online.com/amp/news/local/candidates-for-the-8th-congressional-district-spar-at-uw-green-bay-debate-gallagher-congress-lawmaker-representative Facebook Twitter Donate to Tony Wied Tony can’t do this without your help!
+Consider a small donation to the cause to fight for Wisconsin Donate $10 Donate $25 Donate $50 Other Amount Contact Us Stay Up to Date with the Latest News and volunteer opportunities First Name Last Name Email Mobile Phone I consent to receiving text messages from the Tony Wied for Congress campaign Submit By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number from Tony Wied for Congress.
+Donations may be solicited.
+I understand that clicking the submission for the above form constitutes as my signature.
+By the choice of communication channels, you either choose/agree to receive emails or text messages or both.
+Message and data rates may apply.
+Message frequency varies.
+Text STOP to opt out or HELP for help.
+Privacy Policy Follow Us X-twitter Facebook Instagram Youtube Contact Us: wes@tonywiedforcongress.com aidan@tonywiedforcongress.com Privacy Policy Paid for by Tony Wied for Congress

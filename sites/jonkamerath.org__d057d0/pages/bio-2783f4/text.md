@@ -7,4 +7,5 @@ Jon understands human suffering and ministering to it, having been a nurse for s
 Jon was a member of the US Chess Federation.
 When he was a member of his high school chess team, they won the Utah State Championship.
 He has participated in 3 triathlons and has run 21 marathons.
+Paid for by Friends of Jon Kamerath.
 Web page designed by Limelight Media powered by WiX. bottom of page

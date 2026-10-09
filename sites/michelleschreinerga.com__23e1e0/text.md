@@ -7,7 +7,9 @@ I grew up in East Cobb, and today I’m raising my family here.
 I’m running as a Democrat for State House District 45 to bring steady leadership and practical solutions for families in our community.
 It’s time to lead with clarity, accountability, and real results.
 Proud to have the support of organizations working to move Georgia forward Georgia WIN List Emily’s List States Win Georgia Majority for Gun Safety The First Ask United for Georgia Women Moms Demand Action National Democratic Redistricting Committee Let’s Get to Know Each Other I’m running because I love this community and believe representation starts with listening, showing up, and understanding the lives of the people you serve.
-League of Women Voters of Marietta-Cobb County Candidate Meet & Greet | September 29, 2026 It's Time to Move Forward Georgia families deserve leadership that does more than react.
+My community invested in me.
+Now I want to make sure we keep investing in the kids coming behind us.
+It's Time to Move Forward Georgia families deserve leadership that does more than react.
 Leadership should build.
 For over 20 years, one party has held the majority in the Georgia House.
 That has often left the minority blocking bad bills but rarely advancing strong ones.

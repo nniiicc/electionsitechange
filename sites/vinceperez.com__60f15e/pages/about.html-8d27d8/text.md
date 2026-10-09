@@ -1,6 +1,6 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Meet Vince El Paso raised.
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Meet Vince El Paso raised.
 Texas fighter.
-State Representative · Texas House District 77 · Ways & Means · Deputy Whip.
+State Representative · Texas House District 77 · Ways & Means · Higher Education.
 Texas HD 77 — El Paso, including UTEP, Texas Tech HSC El Paso, downtown El Paso, and the Franklin Mountains.
 Committees: Ways & Means · Higher Education · Local, Consent & Resolutions Calendars.
 Leadership: Deputy Whip, House Democratic Caucus · House Democratic Policy & Steering Committee.
@@ -19,12 +19,12 @@ In 2016, American City & County Magazine named him National County Leader of the
 Vince has also led at the regional level as Chair of the El Paso MPO Transportation Policy Board, Chair of the Central Appraisal District Board of Directors, and a member of the Texas Border Trade Advisory Committee.
 Personal A lifelong El Pasoan, Vince grew up in and still lives in Mission Valley.
 He earned both his undergraduate and graduate degrees from Georgetown University.
-He shares his home with his dogs Whiskey, Lady, and Manchas.
+He shares his home with his dogs Whiskey, Manchas, and Chamaco.
 See the record Read the agenda Join the fight.
 Add your name to the list.
 Make a contribution.
 Stand with El Paso.
-Donate Sign up VINCE PEREZ Fighting for Texas.
+Donate Sign up Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

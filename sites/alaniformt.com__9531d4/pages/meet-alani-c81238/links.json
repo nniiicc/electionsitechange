@@ -32,6 +32,10 @@
 "href": "https://alaniformt.com/service"
 },
 {
+"text": "watch me tell it on YouTube",
+"href": "https://www.youtube.com/playlist?list=PLDWm0bq-c6JQ"
+},
+{
 "text": "{{ f.num }} {{ f.title }} {{ f.tag }} {{ f.body }} Read my position →",
 "href": "https://alaniformt.com/%7B%7B%20f.href%20%7D%7D"
 }

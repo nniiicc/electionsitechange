@@ -1,4 +1,4 @@
-Home About Priorities Endorsements Get Involved Donate Home About Priorities Endorsements Get Involved Donate About Born and raised in West Virginia, Ashley began her career at the Cleveland Clinic as a nurse in the cardiothoracic intensive care unit (ICU) in 1999.
+Home About Priorities Endorsements Postcards Get Involved Donate Home About Priorities Endorsements Postcards Get Involved Donate About Born and raised in West Virginia, Ashley began her career at the Cleveland Clinic as a nurse in the cardiothoracic intensive care unit (ICU) in 1999.
 She traveled across the country, where she continued working as an ICU nurse until 2007, when she attended graduate school in nurse anesthesiology.
 While working as a travel nurse, she specialized in critical care, with a cardiac focus, at several hospitals in the San Francisco and Seattle areas, including the University of Washington Medical Center and Harborview Medical Center.
 Dedicated to service, Ashley joined the Navy Nurse Corps in 2012 and served as a Lieutenant Commander in the Navy Reserve.

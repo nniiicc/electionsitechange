@@ -1,9 +1,10 @@
 {
  "description": "Sebastian Ellefson Campaign Events",
  "final_url": "https://www.teamellefson.com/events",
- "fingerprint": "35c259fb377a8dcb95012c405b6029d438fa8fc0",
+ "fingerprint": "dd4102ed6c5173459635db491ea4610f659218c0",
  "format": 3,
  "paid_for_by": "paid for by: Team Ellefson for 65B P",
+ "rendered": false,
  "title": "Sebastian Ellefson Campaign Events",
  "years_mentioned": [
   "2026",

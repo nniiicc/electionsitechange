@@ -16,9 +16,12 @@ I am fully prepared to stand on any stage, in any county, to earn your trust and
 We face a clear choice in this election: accept a weak Washington standard where power hides from scrutiny, or demand true Wyoming grit.
 Let's keep our proudest traditions of open democracy alive.
 Fight on, James It's time to show Washington that Wyoming doesn't hide.
-Chip in today to bring Wyoming to Washington and hold our politicians accountable $5 $10 $18.62 $50 $100 Recent Posts See All Washington Is Passing the Buck to Wyoming Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
+Chip in today to bring Wyoming to Washington and hold our politicians accountable $5 $10 $18.62 $50 $100 Recent Posts See All James Byrd Condemns Trump’s Rally Remarks on U.S.
+Cities and Degradative Political Rhetoric James Byrd, Democratic candidate for U.S.
+Senate in Wyoming, issued a sharp rebuke today following President Donald Trump’s recent campaign rally in Grand Island, Nebraska.
+Washington Is Passing the Buck to Wyoming Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
 Washington made that decision.
 Wyoming taxpayers get the bill.
 Rep.
 Brittany Pettersen Endorses James Byrd for U.S.
-Senate CHEYENNE, WYO. | October 2, 2026 21 TONS OF FOOD IS GONE IN 7 DAYS": JAMES BYRD BLASTS WASHINGTON FOR FUNDING FOREIGN WARS WHILE WYOMING GOES HUNGRY When a single shipment of 42,000 pounds of emergency food arrives in Cheyenne and vanishes in less than a week, the system isn't just failing—it is completely broken. © # Paid for by Byrd for Senate Home About Issues News bottom of page
+Senate CHEYENNE, WYO. | October 2, 2026 © # Paid for by Byrd for Senate Home About Issues News bottom of page

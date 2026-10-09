@@ -1,0 +1,17 @@
+Office of Representative Hannah E.
+Kane Commonwealth of Massachusetts For Immediate Release Contact: Charlyce Bozzello 617-722-2430, charlyce.bozzello@mahouse.gov October 30, 2015 Legislature approves FY15 closeout budget BOSTON – The House of Representatives has unanimously approved a $328 million final deficiency budget to officially close the books on Fiscal Year 2015.
+Representative Hannah Kane (R-Shrewsbury), noted that the spending bill authorizes $120 million to be placed in the state’s Stabilization Fund, more commonly known as the Rainy Day Fund, and commits additional funding towards paying down the state’s outstanding debt and unfunded pension liability.
+“I’m happy to join with my colleagues in supporting this budget, which takes a fiscally responsible approach to building up the state’s reserves and paying down costly debt,” said Representative Kane.
+The total net spending included in the deficiency budget is $225 million.
+This is due to the state receiving a 50% federal offset for the costs associated with MassHealth Senior Care ($1.5 million) and MassHealth service payments ($203 million).
+The bill would boost the Rainy Day Fund’s current balance to $1.25 billion, money which could be used to help offset cuts in essential state programs during future economic downturns.
+Prior to the 2008 recession, the fund’s balance stood at $2.3 billion.
+The bill also commits $163 million to reducing the state’s outstanding pension liability based on an accelerated payment schedule.
+In addition, it establishes a Debt Defeasance Trust Fund that will utilize $113.2 million to pay down existing state debt.
+In response to concerns about the state’s opioid crisis, the bill dedicates $27.8 million in funding for substance abuse services.
+This includes $15 million for additional recovery beds and $5.8 million to provide substance abuse treatment to women who have been civilly committed and referred to a state hospital rather than prison.
+The bill also sets the date of the 2016 state primary for September 8, which falls on a Thursday.
+The change in date will allow cities and towns to save money by avoiding overtime costs associated with having to use poll workers to prepare polling locations over Labor Day if the election were to be held on the Tuesday after the holiday.
+Other key initiatives in the final deficiency budget include: • • a requirement that the Department of Children and Families report to the Legislature by November 15 on any new or updated policies, procedures and guidelines that have been implemented over the past year to address systematic problems and the progress made in each area; $203 million for increased MassHealth caseloads resulting from the temporary enrollment of thousands of residents in Medicaid due to the problems associated with the Massachusetts Health Connector website; • $31 million for outstanding snow and ice removal costs from last winter; • $250,000 in municipal grant funding for cities and towns to participate in a police body camera pilot program; • $630,000 in one-time Foundation Reserve assistance for municipalities financially impacted by the withdrawal of a member community from a regional school district in FY15; and • an additional $100,000 in reimbursement funding for qualifying cities and towns facing increased smart growth educational costs, bringing the total funding made available this year to $350,000.
+The final deficiency budget is now on Governor Charlie Baker’s desk awaiting his signature.
+###

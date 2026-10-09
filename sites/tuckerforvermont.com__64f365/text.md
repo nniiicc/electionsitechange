@@ -32,12 +32,9 @@ The people of the Northeast Kingdom don’t wait for permission to make things b
 We look out for each other.
 We do what needs doing, whatever it is.
 Let’s get to work.
-4th Annual Big ’ol River Event Saturday, September 19 Passumpsic Valley Land Trust (PVLT) and Caledonia County NRCD invite you to help clean up the Passumpsic at its 4th Annual Big ‘Ol River Event (BORE)!!
-Team Tucker will be there, will you join us?
-Meet us in the field just before 4018 US Route 5 in Barnet.
-Look for signs!
-Registration Link https://forms.gle/PzbQ5VPMDj7r2YV68 Event Flier Link Click here to download the event flier.
-Meet David David Tucker has worked hand-in-hand with countless grassroots organizations and community leaders across the political spectrum, both here in the Kingdom and in Montpelier.
+Candidate Forum October 12, 2026 at 7pm Come and learn more about your candidates!
+Both senate and house candidates will be there.
+Hope you can join us at the Blue Mountain Grange , Ryegate Corner, VT Meet David David Tucker has worked hand-in-hand with countless grassroots organizations and community leaders across the political spectrum, both here in the Kingdom and in Montpelier.
 He knows how to get important things done.
 Meet David Volunteer This campaign isn’t about one person – it’s about ALL of us having our say in how Vermont moves forward.
 Please click below if you’d like to help David Tucker!

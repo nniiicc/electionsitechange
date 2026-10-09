@@ -1,4 +1,4 @@
-Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec More Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec TESS stands for T – Transparency Government should be honest, accountable, and open.
+Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events More Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events TESS stands for T – Transparency Government should be honest, accountable, and open.
 I will work to restore public trust by ensuring your tax dollars are spent responsibly and that decisions are made with integrity.
 E – Economy Hawaii families deserve relief from the high cost of living.
 I will support policies that strengthen our economy, lower the tax burden, support small businesses, and create opportunities for local families to succeed.

@@ -1,4 +1,4 @@
-top of page Home About Issues News Menu Close All Posts Washington Is Passing the Buck to Wyoming Byrd for Senate #ago 2 min read Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
+top of page Home About Issues News Menu Close All Posts Washington Is Passing the Buck to Wyoming Byrd for Senate #ago 2 min read Updated: #ago Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
 Washington made that decision.
 Wyoming taxpayers get the bill.
 That is not the only change.
@@ -25,7 +25,10 @@ What I'll fight for Instead of delivering real relief to working families facing
 Our state agency is being forced to absorb higher overhead just to manage extra paperwork that knocks folks off the rolls.
 When I am in the U.S.
 Senate, I will fight to protect our safety net, eliminate these punitive administrative traps, and make sure federal food assistance works for Wyoming, not against it.
-Let's Show Washington that Wyoming still cares for all its citizens Chip in today to bring Wyoming to Washington and hold our politicians accountable $5 $10 $18.62 $50 $100 Recent Posts See All Rep.
+Let's Show Washington that Wyoming still cares for all its citizens Chip in today to bring Wyoming to Washington and hold our politicians accountable $5 $10 $18.62 $50 $100 Recent Posts See All James Byrd Condemns Trump’s Rally Remarks on U.S.
+Cities and Degradative Political Rhetoric James Byrd, Democratic candidate for U.S.
+Senate in Wyoming, issued a sharp rebuke today following President Donald Trump’s recent campaign rally in Grand Island, Nebraska.
+Rep.
 Brittany Pettersen Endorses James Byrd for U.S.
 Senate CHEYENNE, WYO. | October 2, 2026 Real Wyoming Strength Doesn't Hide From Scrutiny There is a weak new trend taking root in Washington: skipping debates, dodging independent journalists, and hiding from political opponents.
-Establishment insiders want you to believe this is a show o 21 TONS OF FOOD IS GONE IN 7 DAYS": JAMES BYRD BLASTS WASHINGTON FOR FUNDING FOREIGN WARS WHILE WYOMING GOES HUNGRY When a single shipment of 42,000 pounds of emergency food arrives in Cheyenne and vanishes in less than a week, the system isn't just failing—it is completely broken. © # Paid for by Byrd for Senate Home About Issues News bottom of page
+Establishment insiders want you to believe this is a show o © # Paid for by Byrd for Senate Home About Issues News bottom of page

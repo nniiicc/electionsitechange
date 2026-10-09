@@ -77,11 +77,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 8, 2026 Battle Born Republican Women Monthly Meeting October 8, 2026 5:30 pm - 7:30 pm Red Rock Country Club, 2250 Red Springs Dr, Las Vegas, NV 89135 Regular monthly meeting of Battle Born Republican Women of Southern Nevada.
-Doors open ~5:30 PM, meeting starts ~6:00 PM.
-Location: Red Rock Country Club, 2250 Red Springs Dr, Las Vegas, NV 89135.
-Check battlebornrepublicanwomen.com or Eventbrite for tickets, speakers, and RSVP details.
-See more details October 10, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
+See more details 26 27 28 29 30 31 October 10, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
 Food vendors, live music, grape stomping, farmers market, family-friendly.
 High public traffic just before/during early part of Reno stay.
 See more details Aki Matsuri Japanese Festival October 10, 2026 11:00 am - 9:00 pm Water Street Plaza, Henderson, NV Free 17th Annual Japanese autumn festival at Water Street Plaza, Henderson.
@@ -219,11 +215,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 8, 2026 Battle Born Republican Women Monthly Meeting October 8, 2026 5:30 pm - 7:30 pm Red Rock Country Club, 2250 Red Springs Dr, Las Vegas, NV 89135 Regular monthly meeting of Battle Born Republican Women of Southern Nevada.
-Doors open ~5:30 PM, meeting starts ~6:00 PM.
-Location: Red Rock Country Club, 2250 Red Springs Dr, Las Vegas, NV 89135.
-Check battlebornrepublicanwomen.com or Eventbrite for tickets, speakers, and RSVP details.
-See more details October 10, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
+See more details 26 27 28 29 30 31 October 10, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
 Food vendors, live music, grape stomping, farmers market, family-friendly.
 High public traffic just before/during early part of Reno stay.
 See more details Aki Matsuri Japanese Festival October 10, 2026 11:00 am - 9:00 pm Water Street Plaza, Henderson, NV Free 17th Annual Japanese autumn festival at Water Street Plaza, Henderson.
@@ -284,6 +276,6 @@ Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
 See more details footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (16) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (17) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

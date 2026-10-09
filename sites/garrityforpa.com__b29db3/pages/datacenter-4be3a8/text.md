@@ -46,7 +46,7 @@ See our Privacy Policy and Terms here .
 Sign the Petition Pennsylvania Communities First Pennsylvanians working together for the common good have built strong communities across the Commonwealth, achieving remarkable accomplishments and inspiring pride.
 Raising Hope in Pennsylvania Campaign launch Honor the legacy of freedom William Penn established by sharing the best about the community you love and are proud to call home.
 Share what you love about the commonwealth: Full Name (Required) Email (Required) Link to Your Video ...Or Upload a File Accepted file types: mp4, mov, m4v, webm, Max. file size: 48 MB.
-Your Message (optional) Submit My Video Latest From This Campaign The latest from Stacy Garrity on the campaign trail. @GarrityForPA #ago Instead of being in Harrisburg working to find a remedy to the Supreme Court’s 2nd degree murder ruling, @joshshapiropa was in Philadelphia at his mega-donor Michael Rubin’s shareholder meeting.
+Your Message (optional) Submit My Video Latest From This Campaign The latest from Stacy Garrity on the campaign trail. @GarrityForPA #ago https://t.co/rL5HO0MrqC https://t.co/t4WhQIWFnc View Post on X → @GarrityForPA #ago Instead of being in Harrisburg working to find a remedy to the Supreme Court’s 2nd degree murder ruling, @joshshapiropa was in Philadelphia at his mega-donor Michael Rubin’s shareholder meeting.
 Josh sold the families of PA murder victims out.
 View Post on X → @GarrityForPA #ago When @joshshapiropa’s top lieutenant Mike Vereb resigned after sexual harassment allegations, Shapiro tried to sweep the scandal under the rug and use $295,000 of OUR MONEY to keep the victim quiet!
 View Post on X → @GarrityForPA #ago 7 in 10 PA 8th graders cannot read at grade level. @joshshapiropa is failing our children.
@@ -65,10 +65,7 @@ Take 30 seconds and tell me: https://t.co/Krq42ieITK View Post on X → @Garrity
 It's time to address the rising costs making that dream harder to achieve.
 #GarrityRichey https://t.co/VYobNai5tf View Post on X → @GarrityForPA #ago The least transparent Governor in America got caught trying to sneak a 502 page invasion of privacy and parental rights through, and he was caught.
 Thank you to every Pennsylvanian who joined me in speaking out and having your voice heard! https://t.co/TPDyQqe0Yi View Post on X → @GarrityForPA #ago Pennsylvania school leaders are acknowledging the concerns Josh Shapiro's proposed Health Code rewrite could create for schools, parents, and the trust between them.
-#JoshShapiro #GarrityRichey https://t.co/jd90H7aAE3 View Post on X → @GarrityForPA #ago Josh Shapiro’s Department of Health has proposed a sweeping rewrite of Pennsylvania’s health regulations!
-If you believe these changes go too far, staying silent is not an option.
-Today is your final opportunity during the public comment period to formally respond and put your concerns on the record.
-Your voice belongs in this process. 🔗: https://t.co/c6nQe5IMR1 #JoshShapiro #GarrityRichey View Post on X → Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
+#JoshShapiro #GarrityRichey https://t.co/jd90H7aAE3 View Post on X → Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
 All Rights Reserved.
 Garrity for PA 4075 Linglestown Rd.
 #119 Harrisburg, PA 17112 X-twitter Instagram PAID FOR BY GARRITY FOR PA Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.

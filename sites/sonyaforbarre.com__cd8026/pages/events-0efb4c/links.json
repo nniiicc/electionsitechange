@@ -4,10 +4,6 @@
 "href": "https://sonyaforbarre.com/events/list/"
 },
 {
-"text": "Building Bright Futures Forum – Old Labor Hall",
-"href": "https://sonyaforbarre.com/event/building-bright-futures-forum-old-labor-hall/"
-},
-{
 "text": "CONTACT SONYA",
 "href": "https://sonyaforbarre.com/contact-sonya/"
 },
@@ -80,6 +76,10 @@
 "href": "https://sonyaforbarre.com/priorities/"
 },
 {
+"text": "Previous Events",
+"href": "https://sonyaforbarre.com/events/list/?eventDisplay=past"
+},
+{
 "text": "VOLUNTEER",
 "href": "https://sonyaforbarre.com/volunteer/"
 },
@@ -90,6 +90,10 @@
 {
 "text": "[image: Sonya Spaulding for State Rep]",
 "href": "https://sonyaforbarre.com/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://sonyaforbarre.com/events/list/?eventDisplay=past"
 },
 {
 "text": "iCalendar",

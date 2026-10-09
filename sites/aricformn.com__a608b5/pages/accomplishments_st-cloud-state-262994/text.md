@@ -10,4 +10,4 @@ I also helped fund the Husky Food Pantry at St.
 Cloud State through the Hunger Free Campus Act.
 No student should have to choose between eating and finishing a degree.
 Where I stand Support for our schools → Join us Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue Next The Children’s Museum and the Ledge → PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

@@ -8,6 +8,6 @@ We would love to see you there, so please stop by to say hello and share your th
 View Event Get Involved Change starts with dedicated neighbors like you.
 Whether you have a few hours a week or can join us for a full day of action, there are plenty of ways to help Jennifer’s campaign.
 Your volunteer efforts are what power this movement toward real results.
-First Name * Last Name * Email * Phone * How can you help our campaign? * Door Knocking Phone Calls Other Yard Sign Please specify: Street, City, State and Zip Submit Ⓒ Jennifer Stephens for Idaho.
+Leave this blank First Name * Last Name * Email * Phone * How can you help our campaign? * Door Knocking Phone Calls Other Yard Sign Please specify: Street, City, State and Zip Submit Ⓒ Jennifer Stephens for Idaho.
 All rights reserved.
 Paid for by Jennifer Stephens for Idaho Facebook-f Instagram Tiktok Location:

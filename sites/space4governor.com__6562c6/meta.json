@@ -1,9 +1,13 @@
 {
  "description": "default description",
  "final_url": "https://space4governor.com/",
- "fingerprint": "8c3a60c38794f320e9c273d986cee6dd3f7199f7",
+ "fingerprint": "b46239712c14eb629b52d1210ea79b4adf04a4a8",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by the Committee to Elect Evan Space  ",
+ "rendered": true,
  "title": "Space 4 Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2026"
+ ]
 }

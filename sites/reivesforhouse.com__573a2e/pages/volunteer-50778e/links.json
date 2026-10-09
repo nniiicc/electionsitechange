@@ -1,5 +1,9 @@
 [
 {
+"text": "?",
+"href": "https://fastaction.ngpvan.com##whats-this"
+},
+{
 "text": "About",
 "href": "https://www.reivesforhouse.com/about/"
 },
@@ -32,6 +36,10 @@
 "href": "https://www.reivesforhouse.com/leadership/"
 },
 {
+"text": "NGP VAN",
+"href": "http://www.ngpvan.com/"
+},
+{
 "text": "News",
 "href": "https://www.reivesforhouse.com/news/"
 },
@@ -50,5 +58,13 @@
 {
 "text": "[image: Robert Reives for NC House]",
 "href": "https://www.reivesforhouse.com/"
+},
+{
+"text": "privacy policy.",
+"href": "https://fastaction.ngpvan.com/privacy"
+},
+{
+"text": "terms of service",
+"href": "https://fastaction.ngpvan.com/terms"
 }
 ]

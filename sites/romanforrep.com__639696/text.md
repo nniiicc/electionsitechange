@@ -11,13 +11,13 @@ Vote November 3 , 2026 DISTRICT 54 AUBURN HILLS (Precincts 2-7) · BLOOMFIELD HI
 Building Michigan's Future.
 Roman Gaskey was born and raised in our community and grew up in Lake Orion schools.
 As he began building his career, he faced a choice familiar to too many young Michiganders: stay in Michigan, or leave for better opportunities.
-He chose a different path: work to make Michigan a place where the next generation can build a career, start a family, and succeed. " The Next Generation Shouldn’t Have to Choose Between Michigan and Their Best Opportunity. " Trained in Math & Data Science University of Michigan B.S.
-Local Economic Development Appointed to the Oxford DDA Economic Vitality Committee.
+He chose a different path: work to make Michigan a place where the next generation can build a career, start a family, and succeed. " The Next Generation Shouldn’t Have to Choose Between Michigan and Their Best Opportunity. " Local Economic Development Appointed to the Oxford DDA Economic Vitality Committee.
 Serving the Community Mentoring young students and delivering meals to seniors.
 Experience in Tech & Innovation Helped grow startup businesses and apply AI to real-world problems.
 Ready to Lead.
 Experience in Tech & Innovation Helped grow startup businesses and apply AI to real-world problems.
-Michigan doesn't need to wait for the next generation of leadership.
+Trained in Math & Data Science University of Michigan B.S., Financial Mathematics and Data Science James B.
+Angell Scholar • Contributor to published research on election administration • National Merit Finalist • WXYZ Best and Brightest Honoree Legal Technology Strategy & Product Analyst • Secured $3 million+ in private investments • Health Insurance Data Analyst Public-Private Collaboration • Committee Presentations • Local Applications for State Grants Meals on Wheels Delivery Driver • NoHaz Disposal Volunteer • Y outh Assistance Mentor Michigan doesn't need to wait for the next generation of leadership.
 It's already here.
 Orion Born & Raised Local Government Experience Community Volunteer & Advocate "The next generation won't fix a broken system by waiting to inherit it — we'll fix it by stepping up to change it ." Roman Gaskey was born and raised in our community.
 As he began building his career, he felt trapped in a dilemma many young people face: stay in Michigan, or leave for a better shot at opportunity.
@@ -37,7 +37,7 @@ As he began building his career, he faced a choice familiar to too many young Mi
 He chose a different path: work to make Michigan a place where the next generation can build a career, start a family, and succeed. " The Next Generation Shouldn’t Have to Choose Between Michigan and Their Best Opportunity . " Ready to Lead.
 Trained in Math & Data Science University of Michigan B.S., Financial Mathematics and Data Science James B.
 Angell Scholar • National Merit Finalist • WXYZ Best and Brightest Honoree Experience in Tech & Innovation Helped grow startup businesses and apply AI to real-world problems.
-Legal Technology Strategy & Product Analyst • Health Insurance Data Analyst Local Economic Development Appointed to the Oxford DDA Economic Vitality Committee.
+Legal Technology Strategy & Product Analyst • Secured $3 million+ in private investments • Health Insurance Data Analyst Local Economic Development Appointed to the Oxford DDA Economic Vitality Committee.
 Public-Private Collaboration • Committee Presentations • Local Applications for State Grants Deliver meals to seniors and mentors young students.
 Community Volunteer Meals on Wheels Delivery Driver • NoHaz Disposal Volunteer • Y outh Assistance Mentor Roman's Blueprint for Michigan.
 It’s easy for candidates to say they want lower costs, stronger schools, and better jobs.
@@ -57,7 +57,7 @@ Fix the Grid: Reform property taxes so utilities aren't penalized for upgrading 
 Healthcare Stand up for people experiencing medical emergencies, prohibiting predatory practices from hospital monopolies.
 Ban Monopoly Pricing: Eliminate loopholes exploited by hospital monopolies that preventing price competition with independent providers.
 (For more details, click here. ) Reduce Medical Debt: Require hospitals to identify and correct billing errors before collections and offer affordable, income-based repayment plans to patients who cannot pay upfront.
-Secure Medicaid: Strengthen oversight of fraud, waste, and improper payments, and use savings to expand access to care for Michiganders with permanent disabilities.
+Secure Medicaid: Strengthen oversight of fraud, waste, and improper payments, and expand access to care for Michiganders with permanent disabilities.
 We can't tax and spend our way out of spiraling unaffordability.
 Roman is focused on the structural factors driving up expenses every Michigander faces: housing, energy, and healthcare.
 Multiple Paths In today's economy, a four-year degree is not the right choice for everybody.
@@ -110,7 +110,7 @@ Tax Reform: Transition commercial and industrial property taxation toward a land
 Brownfield Redevelopment: Make it faster and less expensive for communities to clean up and reuse abandoned industrial sites, prioritizing properties with existing infrastructure for new manufacturing.
 Endorsements.
 State Representative Mike Harris (2022-present) State Representative Donni Steele (2021-present) State Representative Mark Tisdel (2021-present) State Representative Tom Kuhn (2023-present) State Representative Chuck Moss (2007-2012) Governor Rick Snyder (2011-2018) State Representative Brad Jacobsen (2011-2016) Orion Supervisor Chris Barnett (2013-present) Bloomfield Supervisor Mike McCready (2024-present) County Commissioner Mike Gingell (2007-present) County Commissioner Mike Spisz (2013-present) Bloomfield Treasurer Michael Schostak (2023-present) Orion Clerk Penny Shults (2009-2024) Orion Treasurer Matt Pfeiffer (2025-present) SERVICES COMMERCIAL Read More SERVICES INDUSTRIAL Read More SERVICES RESIDENTIAL Read More Smart Solutions Don't Wait.
-"Respects the proper limits of government." — Eileen McNeil, CTV President "Knowledgeable." — Downtown Newsmagazine Endorsements "A strong voice for the future of Michigan." — Oakland University College Republicans " Gaskey is a first-time candidate and new to the political landscape, but he's running a serious campaign for the state House." — Detroit Free Press Editorial Board Downtown Newsmagazine Birmingham Bloomfield " Roman represents the next generation of leadership — focused on real issues like the cost of living and economic opportunity , rather than the distractions of national politics.
+Republican for State Representative "Respects the proper limits of government." — Eileen McNeil, CTV President "Knowledgeable." — Downtown Newsmagazine Endorsements "A strong voice for the future of Michigan." — Oakland University College Republicans " Gaskey is a first-time candidate and new to the political landscape, but he's running a serious campaign for the state House." — Detroit Free Press Editorial Board Downtown Newsmagazine Birmingham Bloomfield " Roman represents the next generation of leadership — focused on real issues like the cost of living and economic opportunity , rather than the distractions of national politics.
 He brings a fresh perspective that reflects the realities facing young people today, and we believe he will be a strong voice for both our generation and the future of Michigan . " — Oakland University College Republicans Board Elected Officials Brad Jacobsen State Representative (R-Lake Orion, Oakland) Penny Shults Township Clerk Orion Township Fred Mester Circuit Judge, Retired Oakland County Rod Charles Township Trustee Oxford Township Precinct Delegates Bill Holt , Ron Porter (Orion) Thomas O'Connor (Auburn Hills) Eugene Dixon , Georgia Dixon (Bloomfield) Lana Mangiapane (Oakland) Evelyn Archer , Teri Jacobsen (Oxford) Becky Lemanski , John Lipovsky (Waterford) "Running a serious campaign for the state House." — Detroit Free Press Editorial Board Don't wait.
 Get involved now!
 By submitting this form, you consent to receiving emails, phone calls which may be recorded, and text messages.

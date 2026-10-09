@@ -44,8 +44,10 @@ Brady has also said he’ll work to improve the education of risky teenage drive
 Good.
 That’s why this office is more important than many Illinoisans think.
 Read the endorsement in the Chicago Tribune here.
-Related Posts Congressman Jesús “Chuy” García, Progressives Back Giannoulias for Secretary of State U.S.
-Representative Jesús “Chuy” García and the 22nd Ward Independent Political Organization (IPO) officially endorsed Democrat Alexi Giannoulias today as the party’s nominee for Illinois Secretary of State in 2022.
-Keep Reading → CDL Testing Lot at Tilton Driver Services Facility to Close Temporarily for Repairs Due to repairs to the Tilton Driver Services facility Commercial Driver License (CDL) testing lot, the CDL testing course will be temporarily closed for CDL pre-trip, skills and road-testing procedures.
-Keep Reading → Giannoulias reports campaign war chest nearly three times the size of other three secretary of state hopefuls combined Less than a year out from the Democratic primary, former state Treasurer Alexi Giannoulias reported having roughly $3 million in the bank for his bid Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts How Illinois Secretary of State Alexi Giannoulias spent his first 100 days in office Illinois Secretary of State Alexi Giannoulias has completed his first # days in office, a milestone used by political leaders since President Franklin Roosevelt to gauge leadership style and progress toward fulfilling campaign promises.
+Keep Reading → Alexi Giannoulias: 5 additives in ultraprocessed food put us at risk.
+Illinois wants to change that.
+Paint primer is how Consumer Reports describes titanium dioxide — the powdery chemical that whitens salad dressings, smooths chocolate and makes candy brighter.
+New state Keep Reading → Giannoulias Receives Major Endorsement Ahead of 2022 Secretary of State Dem Primary A former Illinois State Treasurer received a major endorsement to become the next Illinois Secretary of State.
+The Chicago Tribune reports that Alex Giannoulias won Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

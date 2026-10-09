@@ -10,7 +10,8 @@ We encourage all candidates to remain engaged with the Chamber and the business 
 We welcome opportunities to continue conversations, share business perspectives, and work collaboratively on issues that impact Gilbert's future.
 Thank you again for your willingness to serve our community.
 We wish each of you the very best in your campaign and look forward to future opportunities to work together.
-Instagram Announcement Sincerely, Recent Posts See All Frequently Asked Questions about Stephanie Walsh for Arizona Senate Building the Future - Bridging the Divide ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
+Instagram Announcement Sincerely, Recent Posts See All Stephanie Walsh endorsed by the Forward Party!
+Watch Stephanie at the Arizona Clean Elections Debate Check out: The Independent News: Why Stephanie Walsh is the state senator LD 14 deserves Why Stephanie Walsh is the state senator LD 14 deserves ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
 Your donations support our campaign outreach and help us ensure real solutions for energy, water, education, and a strong economy in Arizona.
 Let's work together for our future!
 Frequency One time One time Monthly Monthly Amount $10 $10 $20 $20 $50 $50 $200 $200 Other Other Donate $20 JOIN THE TEAM!

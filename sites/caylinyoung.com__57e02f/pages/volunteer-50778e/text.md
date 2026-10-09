@@ -1,0 +1,7 @@
+Caylin Young Volunteer with the campaign Home Why Caylin Community Record Blog Vote Field Map Get Help Volunteer Volunteer Help power district outreach, events, and neighborhood visibility.
+The campaign needs people who can show up consistently, help neighbors stay informed, and keep the work connected to real community conversations.
+Whether you have one hour or can take on regular shifts, there is useful work to do.
+Use the volunteer form on the homepage Email volunteer interest Common volunteer roles Event support and check-in Community outreach and neighborhood visibility Canvassing, phone banking, and follow-up Helping distribute campaign information and updates What to include when you reach out Your full name and best phone number Your ZIP code or neighborhood How you want to help: events, outreach, phones, logistics, or general support Your availability on weekdays, evenings, or weekends Good fits for this campaign Residents who want to stay engaged between election cycles People connected to schools, neighborhood groups, or community institutions Supporters who can help bring others into the work Volunteers who want clear tasks and community-facing impact Ready to help?
+The fastest path is the homepage volunteer form.
+Email also works if you want a direct reply from the campaign.
+Homepage form Email the campaign Read the Privacy Policy for how volunteer contact information submitted through this site is handled.

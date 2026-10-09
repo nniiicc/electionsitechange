@@ -1,0 +1,74 @@
+[
+{
+"text": "About",
+"href": "https://www.delongfornevada.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.delongfornevada.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/delongfornevada/donate"
+},
+{
+"text": "ElectionsDepartment@washoecounty.gov",
+"href": "mailto:ElectionsDepartment@washoecounty.gov?subject=Washoe+County+Voting+Question"
+},
+{
+"text": "Events",
+"href": "https://www.delongfornevada.com/events"
+},
+{
+"text": "FIND EARLY VOTE LOCATION",
+"href": "https://www.washoecounty.gov/voters/voting/vote-in-person.php"
+},
+{
+"text": "FIND ELECTION DAY LOCATION",
+"href": "https://www.washoecounty.gov/voters/voting/vote-in-person.php"
+},
+{
+"text": "Home",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "Issues",
+"href": "https://www.delongfornevada.com/issues"
+},
+{
+"text": "NV SECRETARY OF STATE",
+"href": "https://www.nvsos.gov/sos/elections"
+},
+{
+"text": "News",
+"href": "https://www.delongfornevada.com/news"
+},
+{
+"text": "VOTER REGISTRATION",
+"href": "https://registertovote.nv.gov/"
+},
+{
+"text": "Voting",
+"href": "https://www.delongfornevada.com/voting"
+},
+{
+"text": "Voting & Elections",
+"href": "https://www.washoecounty.gov/voters/index.php"
+},
+{
+"text": "WASHOE COUNTY REGISTRAR",
+"href": "https://www.washoecounty.gov/voters/index.php"
+},
+{
+"text": "[image: DeLongGE-1.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "[image: DelongGE-3.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "check your ballot status",
+"href": "https://myballot.nv.gov/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fmyballot.nv.gov%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anevada%26code_challenge%3D3XikwsVgZTiPBtgXCu6U8Ub8LZTDPHmBaaDER_IR9Kc%26code_challenge_method%3DS256"
+}
+]

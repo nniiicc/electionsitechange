@@ -9,11 +9,11 @@ Congress should also declare certain cartels as Foreign Terrorist Organizations 
 Finally, Texas needs to stand up to the lack of the federal governments interest in controlling the border.
 As a sovereign state, Texas should increase the number of Department of Public Safety personnel on the border to do what the federal government refuses to do.
 Learn more...
-Pro-Life A foundational moral principle in our nation is the understanding that every life has value.
-Michael believes life begins at conception and will continue to Read More » National Defense Providing for the common defense is the first and most important legitimate Constitutional responsibility of our federal government.
+National Defense Providing for the common defense is the first and most important legitimate Constitutional responsibility of our federal government.
 China now has the world’s largest navy.
-Read More » Health Care The federal government, when putting the government between you and your doctor, made a wreck of our health insurance system.
-As a result, Texans are Read More » JOIN OUR TEAM TO IMPACT AMERICA Donate now Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
+Read More » Education As the father of three children and the husband of a public-school teacher, Congressman Cloud understands our urgent need to provide a quality education for Read More » Veterans Our nation must keep its promise to the men and women who have served.
+We owe our veterans a tremendous debt and must ensure veterans have access to quality health care and education.
+Read More » JOIN OUR TEAM TO IMPACT AMERICA Donate now Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Paid for by Cloud for Congress All Rights Reserved 2026 .
 Website Built by Mint & Vine

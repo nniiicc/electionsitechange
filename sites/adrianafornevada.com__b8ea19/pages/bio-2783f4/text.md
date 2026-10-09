@@ -1,4 +1,4 @@
-Bio Issues Media Contact Merch Español Donate Donate Home Bio Issues Media Contact Merch Español Adriana Guzmán Fralick An experienced legal mind.
+Skip to content Bio Issues Media Contact Merch Español Donate Donate Home Bio Issues Media Contact Merch Español Adriana Guzmán Fralick An experienced legal mind.
 Committed to justice for all.
 Adriana's family moved to Nevada when she was just nine years old.
 Her mother brought Adriana and her siblings to the United States from Mexico the right way, arriving on Independence Day and welcomed by fireworks.
@@ -7,6 +7,7 @@ She grew up in Northern Nevada, attended Sparks High School, and earned her bach
 Boyd School of Law.
 From her first day in Nevada to today, Adriana's journey reflects her commitment to family, community, and country.
 She is ready to bring that same commitment to the Office of Attorney General, standing up for Nevadans and ensuring justice is served fairly for all.
-A career protecting Nevadans. {{ s }} Volunteer leadership Nevada State Board of Education Commission on Postsecondary Education Chairman, Board of Directors, Nevada Health Centers See where Adriana stands.
-On the issues → Facebook X Merch Contact Privacy Policy Paid for by Adriana for Nevada P.O.
+A career protecting Nevadans.
+Chairwoman, Nevada Cannabis Compliance Board Deputy City Manager, Carson City Chief Deputy District Attorney, Carson City Member, Governor Gibbons' Crime Commission General Counsel to Governor Jim Gibbons Executive Secretary, Nevada Gaming Control Board & Gaming Commission Assistant General Counsel, Public Utilities Commission Legal Counsel, Nevada Commission on Ethics Volunteer leadership Nevada State Board of Education Commission on Postsecondary Education Chairman, Board of Directors, Nevada Health Centers See where Adriana stands.
+On the issues → Facebook X Merch Contact Privacy Policy Terms Paid for by Adriana for Nevada P.O.
 Box 370801, Las Vegas, NV 89137

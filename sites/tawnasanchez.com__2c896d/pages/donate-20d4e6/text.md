@@ -7,7 +7,7 @@ Box 11246 :: Portland, Oregon 97211 Are you interested in hosting a small fundra
 Donate now 2026 ENDORSEMENTS IBEW Local 48 Oregon AFSCME NAYA Action Fund Stand for Children Multifamily Northwest.
 U.S.
 Senator Jeff Merkley U.S.
-Senator Ron Wyden Basic Rights Oregon PAC Oregon Nurses Association Humane World Action Fund Joint Council of Teamsters #37 Housing Oregon Action Fund Southwest Indivisible Resistance Oregon Labor Federation - AFL-CIO Planned Parenthood Action Oregon Oregon State Firefighters Council North Coast States Carpenters Union Advanced Native Political Leadership Oregon Coalition of Police and Sheriffs Oregon State Council for Retired Citizens American Federation of Teachers - Oregon Oregon League of Conservation Voters Oregon State Building and Construction Trades Council Summary Block This block is invalid.
+Senator Ron Wyden Basic Rights Oregon PAC Oregon Nurses Association Humane World Action Fund Joint Council of Teamsters #37 Housing Oregon Action Fund Southwest Indivisible Resistance Oregon State Firefighters Council Oregon Labor Federation - AFL-CIO Planned Parenthood Action Oregon Oregon School Employees Association Oregon League of Conservation Voters North Coast States Carpenters Union Advanced Native Political Leadership Oregon Coalition of Police and Sheriffs Oregon State Council for Retired Citizens American Federation of Teachers - Oregon Oregon State Building and Construction Trades Council Summary Block This block is invalid.
 Please check the block settings and try again.
 Featured Aenean eu leo Quam Quisque iaculis facilisis lacinia.
 Mauris euismod pellentesque tellus sit amet mollis.

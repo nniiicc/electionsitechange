@@ -1,4 +1,4 @@
-Chelsey Hockett Home About Issues Endorsements Blog Volunteer Store Donate U.S.
+Chelsey Hockett Home About Issues Endorsements District Volunteer Store Donate U.S.
 Congress · Texas District 5 Chelsey Hockett ★ Fighting for ALL Texans.
 For U.S.
 Congress · Texas District 5 · November 3, 2026 Newsletter Sign-up Donate Register to Vote → What I Stand For Fair Taxation Make sure corporations and the ultra-wealthy pay their fair share so we can invest in our communities.

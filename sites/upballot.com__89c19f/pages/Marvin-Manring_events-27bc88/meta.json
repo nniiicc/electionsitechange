@@ -1,9 +1,10 @@
 {
  "description": "See Marvin’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Marvin-Manring/events/",
- "fingerprint": "fa5f757ebecbb5ff7d2f3ab60e9a01b57f4d6df3",
+ "fingerprint": "ff7fa669fda6722f0d7e6828385ed4f5f75db808",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Marvin Manring Events",
  "years_mentioned": [
   "2026"

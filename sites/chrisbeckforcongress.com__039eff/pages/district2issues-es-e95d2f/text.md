@@ -1,9 +1,9 @@
 0 Skip to Content About Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Open Menu Close Menu About Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Open Menu Close Menu Folder: About Back Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact Folder: ES Back Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact Folder: ES Back Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Los Problemas del Distrito 2 Mt.
 Jefferson Una vida plena en las zonas rurales de Oregón depende de políticas que fortalezcan la economía, cuiden la tierra y prioricen la salud, el bienestar y las oportunidades de todos los residentes.
 Y cuando algunas personas atraviesan dificultades, todos pagan las consecuencias.

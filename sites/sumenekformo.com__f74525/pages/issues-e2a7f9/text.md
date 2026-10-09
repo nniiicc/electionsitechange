@@ -1,4 +1,4 @@
-0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform Volunteer Events Merch Press DONATE MEREDITH SUMENEK’S PLATFORM COST We need to make food, homes, and medicine cost less.
+0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform November Ballot Info Volunteer Events Merch Press DONATE MEREDITH SUMENEK’S PLATFORM COST We need to make food, homes, and medicine cost less.
 We also need to protect workers and make sure our economy is fair and strong.
 We deserve better!
 LEARN MORE CARE Our health care system in the United States is not working.

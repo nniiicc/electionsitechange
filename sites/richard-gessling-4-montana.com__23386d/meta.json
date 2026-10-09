@@ -1,9 +1,22 @@
 {
  "description": "Richard Gessling is running for Montana House District 55 in Carbon County. Fighting for education, public lands, healthcare, and affordability.",
  "final_url": "https://richard-gessling-4-montana.com/",
- "fingerprint": "94616fc42111ba9c52e0950ccfcb307f02257188",
+ "fingerprint": "8920d5d45bd81921fe97144bbed24f862404e175",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Gessling for HD55",
+ "rendered": true,
  "title": "Richard Gessling for Montana HD55 — Your Neighbor's Voice",
- "years_mentioned": []
+ "years_mentioned": [
+  "1988",
+  "1989",
+  "1991",
+  "1993",
+  "1999",
+  "2003",
+  "2005",
+  "2006",
+  "2015",
+  "2016",
+  "2017"
+ ]
 }

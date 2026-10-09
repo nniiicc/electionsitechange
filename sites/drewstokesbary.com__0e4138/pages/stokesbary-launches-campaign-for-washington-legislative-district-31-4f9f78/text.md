@@ -14,7 +14,6 @@ They enjoy home improvement projects, hiking and cooking together.
 The Stokesbarys attend Mars Hill Church.
 Voters can learn more at www.drewstokesbary.com .
 Press Releases More For You Rep.
-Stokesbary takes oath, begins work for 31st District In the News Rep.
-Stokesbary’s first bill passes in state House In the News Moscow-Pullman Daily News: Rep.
-Drew Stokesbary “Said it Best” In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Stokesbary calls on auditor to resign In the News Too many special sessions is problematic for schools In the News Rep.
+Stokesbary votes ‘no’ on House budget In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

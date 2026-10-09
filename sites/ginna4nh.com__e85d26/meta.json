@@ -1,9 +1,10 @@
 {
  "description": "A campaign website for a New Hampshire state representative candidate, featuring issue pages, articles, and contact information.",
  "final_url": "https://ginna4nh.com/",
- "fingerprint": "78e40fc2ec2199ae980cdbd6657a056e508d4116",
+ "fingerprint": "6f818091b8c6831c55d8ce587e4e74e9d6c462c4",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Ginna Schonwald for State Rep",
+ "rendered": true,
  "title": "ginna4nh",
  "years_mentioned": []
 }

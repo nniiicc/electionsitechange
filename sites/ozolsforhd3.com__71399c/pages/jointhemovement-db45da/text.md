@@ -1,4 +1,4 @@
-top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Donate Join the Movement This campaign is people-powered, fueled by community members who care deeply about building a better future for HD3.
+top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Media Donate Join the Movement This campaign is people-powered, fueled by community members who care deeply about building a better future for HD3.
 Whether you have a few hours a week or just a free Saturday, your time and involvement can make a real difference.
 There are so many ways to help!
 Write Postcards Pick up a packet, write a few personal notes to your neighbors about why you support Gena, and return them by the deadline.

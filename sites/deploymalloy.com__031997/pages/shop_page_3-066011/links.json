@@ -16,10 +16,6 @@
 "href": "https://www.deploymalloy.com/landing/about/"
 },
 {
-"text": "Album",
-"href": "https://www.deploymalloy.com/landing/album/"
-},
-{
 "text": "Backpack",
 "href": "https://www.deploymalloy.com/product/backpack/"
 },
@@ -82,6 +78,10 @@
 {
 "text": "Privacy Policy",
 "href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Proposals",
+"href": "https://www.deploymalloy.com/landing/proposals/"
 },
 {
 "text": "Q&A",

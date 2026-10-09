@@ -1,4 +1,4 @@
-About Endorsements Media Contact Follow Follow Donate About Endorsements Media Contact Donate About TJ Roberts is a lifelong resident of Kentucky’s House District 66 and a proud native of Boone County, where his family has lived for generations.
+About Endorsements Media Get Involved Contact Follow Follow Donate About Endorsements Media Get Involved Contact Donate About TJ Roberts is a lifelong resident of Kentucky’s House District 66 and a proud native of Boone County, where his family has lived for generations.
 From kindergarten through graduation, TJ attended Boone County Public Schools, gaining a firsthand understanding of the importance of education in shaping strong communities.
 After high school, TJ pursued higher education while becoming deeply engaged in the fight to protect constitutional rights.
 As a college student, he stood up to university administrators who suppressed conservative speech, sparking a passion for defending the First Amendment and the freedoms it guarantees.

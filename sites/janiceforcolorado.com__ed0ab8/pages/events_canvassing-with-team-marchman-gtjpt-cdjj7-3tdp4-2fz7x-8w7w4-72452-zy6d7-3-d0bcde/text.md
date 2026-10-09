@@ -14,6 +14,5 @@ To save time, please download the MiniVan app prior to the event.
 Canvassing is more fun if you bring a friend!
 Sign up here!
 Previous Previous October 24 Canvassing with Team Marchman!
-Next Next October 31 Canvassing with Team Marchman!
-Ask a question © # by Janice Marchman.
+Next Next October 31 Halloween Canvassing with Team Marchman Ask a question © # by Janice Marchman.
 Paid for by Janice Marchman for Colorado Senate | Mike Stolz Registered Agent

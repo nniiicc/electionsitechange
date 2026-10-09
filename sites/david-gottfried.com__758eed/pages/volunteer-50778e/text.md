@@ -1,7 +1,4 @@
-0 Skip to Content About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu Folder: About Back Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Oct 8 Door-knocking Door Knocking Thursday, 10/8 Thursday, October 8, 2026 4:00 PM 7:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
-Pre-knock huddle starts at 10:00am.
-Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
-Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 10 Door-knocking Door Knocking Saturday, 10/10 Saturday, October 10, 2026 10:00 AM 1:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
+0 Skip to Content About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu About Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Open Menu Close Menu Folder: About Back Meet David Endorsements & Distinctions Vision Contact Photos Volunteer Donate Oct 10 Door-knocking Door Knocking Saturday, 10/10 Saturday, October 10, 2026 10:00 AM 1:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
 Pre-knock huddle starts at 10:00am.
 Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
 Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 14 Phonebanking Phone Banking Wednesday, 10/14 Wednesday, October 14, 2026 4:00 PM 6:00 PM Remote (link upon RSVP) (map) Google Calendar ICS Join us for a virtual phone bank from 4:00pm - 6:00pm!
@@ -26,6 +23,9 @@ Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 29 D
 Pre-knock huddle starts at 10:00am.
 Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
 Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 31 Door-knocking Door Knocking Saturday, 10/31 Saturday, October 31, 2026 10:00 AM 1:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
+Pre-knock huddle starts at 10:00am.
+Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
+Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 8 Door-knocking Door Knocking Thursday, 10/8 Thursday, October 8, 2026 4:00 PM 7:00 PM Makwa Coffee (map) Google Calendar ICS Join us for our weekend door knocks to support David Gottfried for MN-40B!
 Pre-knock huddle starts at 10:00am.
 Meet at Makwa Coffee (2805 Hamline Ave N, Roseville, MN 55113), accessible by Terrace Drive during Hamline construction.
 Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Oct 7 Phonebanking Phone Banking Wednesday, 10/7 Wednesday, October 7, 2026 4:00 PM 6:00 PM Remote (link upon RSVP) (map) Google Calendar ICS Join us for a virtual phone bank from 4:00pm - 6:00pm!
@@ -101,6 +101,4 @@ Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Jul 8 Ph
 You will be emailed meeting details and more information after signing up.
 Sign up by visiting: https://forms.gle/fdfiTYyeeETfS8g29 View Event → Mar 11 Phonebanking Phonebanking Tuesday 3/11 Tuesday, March 11, 2025 5:00 PM 7:30 PM Google Calendar ICS Join us for a virtual phonebank via Zoom from 5:00 to 7:30 PM!
 To sign up, please visit: https://secure.ngpvan.com/gCprls-31E-f_U72rFz5dg2 You will be emailed meeting details and more information after signing up.
-View Event → Mar 11 Door-knocking Door-Knocking Tuesday 3/11 Tuesday, March 11, 2025 2:00 PM 6:00 PM MAPE (map) Google Calendar ICS Join us for our weekday doorknocks to support David Gottfried for MN-40B!
-Training starts at 2:00 PM or 4:00 PM, with two hour shifts.
-Meet at MAPE, 3460 Lexington Ave N, Shoreview, MN 55126 Sign up by visiting: https://secure.ngpvan.com/rNANjJrPV0y1EhzZjMXIsw2 View Event → Prepared and paid for by Neighbors for David Gottfried | 2000 County Rd B2 W #130811, Roseville, MN 55113 | ‪(612) 314-3484‬
+View Event → Prepared and paid for by Neighbors for David Gottfried | 2000 County Rd B2 W #130811, Roseville, MN 55113 | ‪(612) 314-3484‬

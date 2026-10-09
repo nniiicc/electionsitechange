@@ -30,4 +30,11 @@ As a graduate of both UofL undergrad and UK law she is a product of our great KY
 Bringing Civility Back to Politics Hannah Beth believes we make the greatest progress when we treat one another with respect, even when we disagree.
 In Frankfort, she will champion a culture of cooperation, honest dialogue, and accountability that leads to real solutions.
 It’s time to elevate the tone, rebuild confidence, and bring common-sense civility back to public service.
+SIGN UP FOR TEXT MESSAGES First Name Cell Phone Submit Thanks for submitting!
+By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Hannah Beth Rivera for State Representative at the number provided, including messages sent by autodialer.
+Message frequency varies.
+Message and data rates may apply.
+Reply HELP for help.
+Reply STOP to unsubscribe.
+See our Privacy Policy | Terms and Conditions .
 Privacy Policy Paid for by Hannah Beth Rivera for State Representative bottom of page

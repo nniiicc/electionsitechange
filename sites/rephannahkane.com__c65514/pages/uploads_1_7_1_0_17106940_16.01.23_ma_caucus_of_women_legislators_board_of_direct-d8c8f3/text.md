@@ -1,0 +1,11 @@
+Massachusetts Caucus of Women Legislators State House, Room 460 Boston, MA 02133 – 1045 WWW.MAWOMENSCAUCUS.COM Senator Jennifer L.
+Flanagan Representative Colleen M.
+Garry Co-Chairs Senator Eileen Donoghue Representative Christine Barber Co-Vice Chairs FOR IMMEDIATE RELEASE January 23, 2017 CONTACT Lauren Scribi, Executive Director (617) 722-2266 NEW BOARD OF DIRECTORS FOR MASSACHUSETTS CAUCUS OF WOMEN LEGISLATORS BOSTON – The Massachusetts Caucus of Women Legislators has announced their Board of Directors for the 2017-2018 legislative session.
+Senator Jennifer Flanagan (D-Leominister) and Representative Colleen Garry (D-Dracut) will serve as Co-Chairs; Senator Eileen Donoghue (D-Lowell) and Representative Christine Barber (D-Somerville) will serve as Co-Vice Chairs; Representative Carolyn Dykema (D-Holliston) was elected Treasuer; and past Senate Chair Senator Anne Gobi (D-Spencer), Representative Hannah Kane (R-Shrewsbury), Representative Denise Garlick (D-Needham), Representative Carole Fiola (D-Fall River), Representative Marjorie Decker (D-Cambridge), Representative Juana Matias (D-Lawrence) and Representative Natalie Higgins (D-Leominster) will also serve on the Board.
+Established in 1975, the Massachusetts Caucus of Women Legislators was formed with a mission to enhance the economic status and equality of women and to encourage and support women in all levels of government.
+It is a bi-cameral and bi-partisan organization that is comprised of the women State Senators and State Representatives at the State House.
+The Board of Directors serves as the governing body of the Women’s Caucus and provides guidance on events and policy.
+“I am excited and honored to serve on the Massachusetts Caucus of Women Legislators Board of Directors and I look forward to collaborating with my colleagues to advance the mission of the caucus and to support women in public service,” stated Representative Hannah Kane of the Eleventh Worcester District.
+There are currently 52 women legislators that make up 26% of the Massachusetts legislature.
+Throughout the history of the Commonwealth, only 196 women have served as elected officials in the legislature compared to over 20,000 men.
+###

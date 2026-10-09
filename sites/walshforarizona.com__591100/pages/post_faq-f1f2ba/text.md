@@ -37,7 +37,8 @@ For specific analysis on Ms.
 Biggs, you can refer to: KJZZ Phoenix: Biggs’ daughter said women shouldn’t hold public office.
 But she’s running for AZ state Senate Other Analysis: Instagram Link Thank you for your interest in my campaign and the issues that matter to our community.
 Your support is crucial as we work together to create a better future for all Arizonans!
-Recent Posts See All Gilbert Chamber Candidate Endorsement Building the Future - Bridging the Divide ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
+Recent Posts See All Gilbert Chamber Candidate Endorsement Stephanie Walsh endorsed by the Forward Party!
+Building the Future - Bridging the Divide ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
 Your donations support our campaign outreach and help us ensure real solutions for energy, water, education, and a strong economy in Arizona.
 Let's work together for our future!
 Frequency One time One time Monthly Monthly Amount $10 $10 $20 $20 $50 $50 $200 $200 Other Other Donate $20 JOIN THE TEAM!

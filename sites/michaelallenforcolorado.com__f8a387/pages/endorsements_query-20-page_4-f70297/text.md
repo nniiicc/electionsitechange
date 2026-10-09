@@ -1,4 +1,7 @@
-Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements District Attorney for the 12th Judicial District Anne Kelly “I’m proud to support Michael Allen for Attorney General.
+Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements District Attorney for the 10th Judicial District Kala Beauvais “I am proud to support Michael Allen for Colorado’s next Attorney General – a candidate that embodies the highest standards of public service.
+His leadership is defined by integrity, fairness, and respect for the legal system that he has spent a career upholding.
+He brings experience and direction when it comes to holding criminals accountable and protecting our communities.
+Michael Allen is the positive change that Colorado so badly needs.” District Attorney for the 12th Judicial District Anne Kelly “I’m proud to support Michael Allen for Attorney General.
 Michael has spent his career standing up for victims and keeping Colorado communities safe.
 He understands that protecting Colorado means more than enforcing our laws, it means defending the water rights that sustain our farms, ranches, and rural communities.
 Michael will be an Attorney General who protects all Coloradans by upholding the rule of law, safeguarding our constitutional rights, and ensuring every community, from the San Luis Valley to the Front Range, has a strong advocate in the Attorney General’s Office.
@@ -24,11 +27,6 @@ Let’s vote for experience and character.” Arapahoe County Commissioner Jeff 
 He understands that rising crime is driving up the cost of living for families across Colorado.
 Michael will crack down on crime, make our communities safer, and reduce the costs that rising crime is forcing on hardworking Colorado families.
 We cannot afford four more years of failed Democrat leadership, and Michael Allen is the leader who can help change course for Colorado and for future generations of Coloradans.
-He’s the candidate who can win in November and deliver results.” El Paso County Commissioner Cory Applegate “Michael Allen has the highest murder conviction rate in the state.
-Simply put, Michael Allen locks up killers.
-Michael Allen and his office were a huge support when Fountain police officer Julian Becerra died.
-His office was a driving force to get the Colorado State House to change the laws and prosecute, as well as punish criminals more severely.
-Michael Allen will keep Colorado and its citizens safe and conserve resources, like he has done in El Paso and Teller Counties.
-With that, I offer my endorsement of District Attorney Michael Allen for Colorado’s next Attorney General.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
+He’s the candidate who can win in November and deliver results.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Facebook X Instagram Donate

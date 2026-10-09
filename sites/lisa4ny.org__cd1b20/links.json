@@ -20,8 +20,40 @@
 "href": "https://secure.actblue.com/donate/lisa4ny?amount=50"
 },
 {
+"text": "About",
+"href": "https://www.lisa4ny.org/about"
+},
+{
 "text": "Custom",
 "href": "https://secure.actblue.com/donate/lisa4ny"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lisa4ny"
+},
+{
+"text": "Explore priorities→",
+"href": "https://www.lisa4ny.org/priorities"
+},
+{
+"text": "Get Your Voter Info",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Keep New Yorkers Safe→",
+"href": "https://www.lisa4ny.org/priorities?open=safety"
+},
+{
+"text": "Learn more→",
+"href": "https://www.lisa4ny.org/about"
+},
+{
+"text": "Lisa Kaul",
+"href": "https://www.instagram.com/lisakaul4ny/"
+},
+{
+"text": "News",
+"href": "https://www.lisa4ny.org/news"
 },
 {
 "text": "News: Kaul Wins Primary to Challenge Rolison →",
@@ -32,8 +64,56 @@
 "href": "https://www.lisa4ny.org/press-kit"
 },
 {
+"text": "Priorities",
+"href": "https://www.lisa4ny.org/priorities"
+},
+{
 "text": "Privacy Policy",
 "href": "https://www.lisa4ny.org/privacy"
+},
+{
+"text": "Protect Our Democracy→",
+"href": "https://www.lisa4ny.org/priorities?open=democracy"
+},
+{
+"text": "Register to Vote",
+"href": "https://elections.ny.gov/register-vote"
+},
+{
+"text": "See more→",
+"href": "https://www.lisa4ny.org/about#track-record"
+},
+{
+"text": "Support Working New Yorkers→",
+"href": "https://www.lisa4ny.org/priorities?open=barriers"
+},
+{
+"text": "Tackle the Affordability Crisis→",
+"href": "https://www.lisa4ny.org/priorities?open=rights"
+},
+{
+"text": "Tackle the Climate Crisis→",
+"href": "https://www.lisa4ny.org/priorities?open=climate"
+},
+{
+"text": "View this profile on Instagram",
+"href": "https://www.instagram.com/lisakaul4ny/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lisa4ny.org/volunteer"
+},
+{
+"text": "Volunteer→",
+"href": "https://www.lisa4ny.org/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.lisa4ny.org/vote"
+},
+{
+"text": "Vote→",
+"href": "https://www.lisa4ny.org/vote"
 },
 {
 "text": "[image: Lisa Kaul Campaign Logo][image: Lisa Kaul Campaign Logo]",
@@ -50,5 +130,9 @@
 {
 "text": "[no text]",
 "href": "mailto:info@lisa4ny.org"
+},
+{
+"text": "lisakaul4ny",
+"href": "https://www.instagram.com/lisakaul4ny/"
 }
 ]

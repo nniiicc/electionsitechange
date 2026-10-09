@@ -1,4 +1,4 @@
-About Jumelle Brooks News & Events Join the Movement Follow Follow Follow DONATE About Jumelle Brooks News & Events Join the Movement Follow Follow Follow DONATE Dr.
+Follow Follow Follow Follow DONATE About Jumelle Brooks News & Events Join the Movement Follow Follow Follow DONATE Dr.
 Jumelle Brooks Dr.
 Brooks holds a Doctor of Healthcare Administration with Policy and Advocacy emphasis, a Master of Business Administration, and a Bachelor of Science in Business Administration with Healthcare Management emphasis.
 Dr.

@@ -13,4 +13,4 @@ I am committed to being one of those voices," said Perea.
 Perea has built a broad coalition, drawing support from labor, women's organizations, and community leaders alike, including the California Federation of Labor Unions, the National Women's Political Caucus, the Fresno County Democratic Women's Club, and the Central Valley Latino Dems Club.
 A certified city planner and former State Center Community College District trustee, Perea has spent her tenure on the Fresno City Council expanding affordable housing, strengthening public safety, and investing in workforce development.
 She carries forward a lifelong belief that strong communities are built on equity, opportunity, and the people who show up to serve them.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

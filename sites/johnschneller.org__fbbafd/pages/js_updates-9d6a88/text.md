@@ -1,4 +1,7 @@
-john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Vote on November 3 Sep 30, 2026 Candidates Corner 2026 Aug 27, 2026 John sat down with Ray Chadwick for a interview on Bedford’s community television station.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Endorsed by NHLA Oct 8, 2026 I am pleased to announce that I was recently endorsed by the New Hampshire Liberty Alliance.
+What does that mean?
+In short, I share my fellow Granite Staters’ value of Liberty and more… “On behalf of the New Hampshire Liberty Alliance, I’m...
+Vote on November 3 Sep 30, 2026 Candidates Corner 2026 Aug 27, 2026 John sat down with Ray Chadwick for a interview on Bedford’s community television station.
 It’s my favorite time of Year!
 Candidates Corner Interview time.
 This is a “cherished” chance I had to sit down with former long-time Chairman of the...
@@ -18,8 +21,6 @@ Power Must Be Reliable, Not Fashionable Jun 1, 2026 This Union Leader OpEd by Ho
 As a...
 Seabrook Nuclear Power Station Tour May 29, 2026 Pictiured below: Seabrook Nuclear Power Station Tour May 26, 2026 with, among others, Reps McGrath (Hampton), Schneller (Bedford – House Science, Tech, and Energy Committee), Kesselring (Manchester) and Saborin dit Choinier (Seabrook and also ST&E), Senate...
 Science Technology and Energy (ST&E) Committee May 23, 2026 In the background is the Building housing the office of Business and Economic Affairs.
-Global economy-driving advanced scientific businesses will relocate to New Hampshire IF New Hampshire can ensure a reasonably-priced and reliable source of industrial-scale energy... ‘Schrödinger’s Tax:’ House Dems Vote Both For and Against an Income Tax May 15, 2026 Republican State Rep John Schneller of Bedford inadvertently hit “yes” but had his vote corrected by the House clerk.
-New Hampshire Democrats continue to struggle with how to handle enacting a state income tax.
-Polls show it’s wildly unpopular among Granite State... « Older Entries SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+Global economy-driving advanced scientific businesses will relocate to New Hampshire IF New Hampshire can ensure a reasonably-priced and reliable source of industrial-scale energy... « Older Entries SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

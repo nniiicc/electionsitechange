@@ -12,10 +12,10 @@ One that respects our past and our future, in cooperation our neighbors.
 WHAT OTHERS ARE SAYING For Arizona, For All of Us LATEST ENDORSEMENTS LATEST UPDATES Gilbert Chamber Candidate Endorsement Dear Candidates, On behalf of the Gilbert Chamber of Commerce, thank you for your participation in our 2026 candidate engagement and endorsement process.
 We appreciate the time, effort, and thoughtfulness each of you invested in completing interviews, sharing your perspectives, and engaging with Gilbert's business community.
 The Chamber's endorsement process is designed to help business leaders and stakeholders better understand the candidates seeking to serve our community.
-Jun 1 2 min read Frequently Asked Questions about Stephanie Walsh for Arizona Senate This page lists answers to common questions we receive from supporters.
-Aug 2 3 min read Building the Future - Bridging the Divide Latest literature from Stephanie.
-This palm card outlines her primary issues.
-Jun 8 1 min read CONNECT WITH WALSH ON SOCIAL MEDIA Subscribe ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
+Jun 1 2 min read Stephanie Walsh endorsed by the Forward Party!
+Stephanie has been endorsed by the forward party.
+More to come soon… #ago 1 min read Frequently Asked Questions about Stephanie Walsh for Arizona Senate This page lists answers to common questions we receive from supporters.
+Aug 2 3 min read CONNECT WITH WALSH ON SOCIAL MEDIA Subscribe ​Support Our Cause We're bridging the political divide to create an Arizona legislature that represents all of us.
 Your donations support our campaign outreach and help us ensure real solutions for energy, water, education, and a strong economy in Arizona.
 Let's work together for our future!
 Frequency One time One time Monthly Monthly Amount $10 $10 $20 $20 $50 $50 $200 $200 Other Other Donate $20 JOIN THE TEAM!

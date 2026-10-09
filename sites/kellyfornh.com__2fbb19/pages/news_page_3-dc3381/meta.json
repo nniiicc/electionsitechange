@@ -1,9 +1,10 @@
 {
  "description": "Stay up-to-date on the latest news from Kelly Ayotte!",
  "final_url": "https://kellyfornh.com/news/page/3/",
- "fingerprint": "19db8d87dbc5b52edf109e47cd40b672aa549175",
+ "fingerprint": "1cb41f4934cc7b9eddd6499279df45635291041c",
  "format": 3,
  "paid_for_by": "Paid for by Kelly for New Hampshire, Inc",
+ "rendered": false,
  "title": "News - Kelly Ayotte for Governor",
  "years_mentioned": [
   "2026"

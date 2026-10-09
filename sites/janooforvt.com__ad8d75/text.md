@@ -33,7 +33,12 @@ They build resilience from the ground up.
 And here in Vermont, that’s exactly what this moment asks of us.
 Because despite what we have been told for too long, together, we have everything we need.
 See upcoming events → Upcoming Events Campaign Stops Meet Amanda Volunteer Opportunities Canvassing Volunteer Opportunities See more events → Media Follow on Instagram Download our campaign zine!
-How to fold a zine → Press Coverage Howard Dean: Why I'm supporting Amanda Janoo for governor Amanda has spent her career as an economist and fiscal policy expert.
+How to fold a zine → Press Coverage Bernie Sanders endorses Amanda Janoo for Vermont governor Sen.
+Bernie Sanders waded into his home state’s gubernatorial politics for the first time in six years when he endorsed Democratic candidate for governor Amanda Janoo Wednesday morning.
+Sanders had declined to endorse Republican Gov.
+Phil Scott’s Democratic challengers in 2022 and 2024, and he said in a video statement Wednesday that he personally likes the five-term incumbent.
+“I’ve worked with the governor on a number of issues over the years,” Sanders said.
+“But I believe it’s time for a change, time for new leadership, time for a kind of energy and bold ideas that we’re not seeing in Montpelier right now.” Read more Howard Dean: Why I'm supporting Amanda Janoo for governor Amanda has spent her career as an economist and fiscal policy expert.
 She has the passion and experience Vermont needs right now, when we can no longer assume Washington will show up for us.
 Amanda understands how state budgets, federal dollars, and local economies actually fit together, how states like ours build real resilience, and how you get resources to our local communities that are too often left out of the conversation.
 The country needs leaders with political courage.

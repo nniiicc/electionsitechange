@@ -30,5 +30,4 @@ Your power.
 Primary Election · Tue, Aug 4, 2026 – Days – Hours – Min – Sec Primary Election Tue, Aug 4, 2026 General Election Tue, Nov 3, 2026 Check Your Registration Register to Vote Vote Absentee Fuel the fight Power the campaign for MI State District 4.
 Every contribution helps reach voters, knock doors, and make sure Detroit's voice is not an afterthought in the State House.
 Frequency One time Monthly Amount $10 $50 $100 $200 Other Donate $10 Stay connected Get campaign updates from Regina.
-Name Email Phone Number Submit About Issues Endorsements Get Involved Contact Facebook Instagram TikTok © # Paid for by Friends of Regina Ross, 13441 Mackenzie, Detroit, MI 48228 13144 Mackenzie Detroit, MI 48228 [email protected] 313-310-9364 Website by Velu Design Studio × Velu Design Studio contact details V Design Studio Velu Built to be unforgettable.
-Call (313) 710-7244 Email [email protected] Web design · visual identity · digital experiences × Campaign Trail Campaign photo Volunteer Donate
+Name Email Phone Number Submit About Issues Endorsements Get Involved Contact Facebook Instagram TikTok © # Paid for by Friends of Regina Ross, 13441 Mackenzie, Detroit, MI 48228 13144 Mackenzie Detroit, MI 48228 [email protected] 313-310-9364 × Campaign Trail Campaign photo Volunteer Donate

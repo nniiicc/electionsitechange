@@ -1,4 +1,4 @@
-Skip to main content Tuesday, September 29 · An Evening with Lou Riley · Alpine Country Club, Cranston RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues Real Estate Pros How to Vote Get Involved Endorsements RSVP · Sept 29 Get in Touch Privacy Policy Last updated: July 30, 2026 This Privacy Policy explains how Friends of Michael Riley ("the campaign," "we," "us") collects, uses, and protects information submitted through this website.
+Skip to main content Saturday, October 17 · Come Meet Lou · Merola’s, Scituate · 3–5 PM RSVP → Michael “Lou” Riley RI House · District 41 Home Meet Lou Issues How to Vote Get Involved Endorsements RSVP · Oct 17 Get in Touch Privacy Policy Last updated: July 30, 2026 This Privacy Policy explains how Friends of Michael Riley ("the campaign," "we," "us") collects, uses, and protects information submitted through this website.
 Information We Collect When you submit a form on this site — including the Volunteer, Lawn Sign Request, or Contact pages — we collect the information you provide directly, which may include your name, email address, phone number, mailing address, and any comments or notes you submit.
 If you make a contribution, additional information (such as occupation and employer) may be required by Rhode Island campaign finance law.
 How We Use Information We use the information you provide to respond to your inquiry, coordinate volunteer activity, arrange lawn sign delivery, process contributions in compliance with Rhode Island campaign finance law, and to keep you informed about the campaign by phone, text, mail, or email, consistent with any preferences you express.
@@ -13,8 +13,8 @@ Children's Privacy This website is not directed to children under 13, and we do 
 Changes to This Policy We may update this Privacy Policy from time to time.
 The date at the top of this page reflects the most recent revision.
 Contact Us Questions about this policy can be directed to TEAM@RileyforRI.com .
-Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Endorsements How to Vote Get Involved Sept.
-29 Reception Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
+Michael “Lou” Riley “Leave it better than the way I found it.” The Campaign Meet Lou Issues Real Estate Pros Endorsements How to Vote Get Involved Oct.
+17 Meet & Greet Volunteer Request a Lawn Sign Facebook Contact Support Contact TEAM@RileyforRI.com 401-647-6990 178 Broadway Providence, RI 02903 Paid for by Friends of Michael Riley, Tyler Miller, Treasurer.
 178 Broadway, Providence, RI 02903.
 Authorized by the candidate.
 Privacy Policy © 2026 Friends of Michael Riley

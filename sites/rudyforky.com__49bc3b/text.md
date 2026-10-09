@@ -1,1 +1,16 @@
-
+About Steven Rudy Contact Steven Rudy Select Page Steven Rudy For Kentucky 1st District House of Representatives Campaign Fund of Steven Rudy Moving Western Kentucky Forward We have made great strides in moving West Kentucky forward.
+We ask for your support as we continue to make a difference!
+Contact Steven About Steven Rudy Steven Rudy is truly a citizen legislator at heart, serving as State Representative in Frankfort while also never forgetting the people back home.
+Shaped by his rural upbringing, he has consistently fought for the conservative values he shares with the people of West Kentucky, most importantly the unwavering right to human life and defense of the Second Amendment.
+His time in a leadership position has been marked by Kentucky becoming the most pro-life state in the nation, job creation and fiscal responsibility, and the Purchase Region having a strong seat at the table in Frankfort.
+A lifelong conservative, he represents the 1st House District in Frankfort, which includes Ballard, Carlisle, Fulton, Hickman and part of McCracken Counties. in his role as majority floor leader Steven Rudy sets the agenda for the Kentucky House of Representatives prioritizing conservative bills, controlling the flow of legislation and ensuring west Kentucky have a seat at the table where decisions are made.
+Rudy is running for reelection as State Representative in order to build on the progress he has made for conservatism in Frankfort.
+This includes continuing to protect the life of the unborn, creating jobs and lowering income taxes, fighting against unconstitutional gun control measures and strengthening safety in Kentucky’s schools.
+He also pledges to continue his effort to fully fund Kentucky’s pension systems, cut wasteful spending and limit executive power.
+Rudy is a resident of Paducah and works for his family business, Rudy’s Farm Center in Kevil, which specializes in agriculture and industrial sales.
+He has been married to his wife Jessica for 17 years and is the proud father of twelve-year-old Maddie.
+A FEW OF OUR ACCOMPLISHMENTS PASSED THE STRONGEST PRO-LIFE LEGISLATION IN KENTUCKY HISTORY PASSED LEGISLATION TO ELIMINATE THE INCOME TAX PASSED THE “SAVE WOMEN’S SPORTS” ACT ENDED THE GOVERNOR’S MANDATES & STATE OF EMERGENCY PROTECTED RELIGIOUS FREEDOM & MADE CHURCHES ESSENTIAL SAVED BUSINESSES MILLIONS ON UNEMPLOYMENT STOOD UP TO BESHEAR’S LIBERAL AGENDA AS FLOOR LEADER, OVERRIDING DOZENS OF HIS VETOES LED THE WAY FOR TORNADO RELIEF FUNDING FOR WESTERN KENTUCKY STEVEN RUDY ENDORSEMENTS As your state representative, I am honored to have endorsements from the following organizations: Kentucky Right to Life National Rifle Association Kentucky Chamber of Commerce PAC Associated General Contractors of Kentucky Commonwealth Policy Center U.S.
+Senator Rand Paul (see below) Contact Representative Steven Rudy As your representative for Kentucky’s First House District, I would appreciate the opportunity to talk with you regarding any issues that may be of concern to you.
+If you would like to support my campaign, please contact me as well.
+Thank you for your continued support!
+Click Here To Contact Steven PAID FOR BY: CAMPAIGN OF STEVEN RUDY X Web Design by Website Design Works, LLC - Paducah, KY

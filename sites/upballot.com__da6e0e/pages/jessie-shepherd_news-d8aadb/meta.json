@@ -1,9 +1,10 @@
 {
  "description": "Get the latest news and updates from Jessie’s campaign.",
  "final_url": "https://www.upballot.com/jessie-shepherd/news/",
- "fingerprint": "daebf9fcbc7b7b8eae9c331e7e2804752101b873",
+ "fingerprint": "cea3f1a39fa5f4a513c62d9fe42bfd7679832aae",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "News & Updates from Jessie Shepherd",
  "years_mentioned": []
 }

@@ -1,7 +1,7 @@
 HOME ISSUES EVENTS SUPPORT Support Donate Door-to-door Postcard party Precinct captain Registered?
 SUBSCRIBE CONTACT DONATE Please donate.
 We need your support!
-It's the duty of all good people to fight for their freedom and culture.
+DONATE JOIN THE BRIGADE It's the duty of all good people to fight for their freedom and culture.
 Classic photo of Joe from his lifeguarding days on Long Island Joseph P.
 Silvestri (You can call him Joe) Republican candidate for NV Assembly District 3 Dad, teacher, ocean lifeguard (retired), libertarian, Cultural Christian, MAGA, athlete, surfer, Ultimate Frisbee, motorcyclist, plenty more but won't bore you!
 Joe grew up on Long Island, New York.

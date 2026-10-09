@@ -1,0 +1,8 @@
+FOR IMMEDIATE RELEASE June 24, 2026 Contact: press@ericflores.com Matthew Brownfield (214) 566-8589 LAW ENFORCEMENT COALITION GROWS AS CONSTABLE OSCAR MENDOZA ENDORSES ERIC FLORES SAN BENITO, TX — Eric Flores today announced the endorsement of Nueces County Constable Precinct 5 Oscar Mendoza, adding to a growing coalition of law enforcement leaders backing his campaign for Congress in TX-34.
+Constable Mendoza represents rural communities across Nueces County, including Robstown, Banquete, Agua Dulce, Bluntzer, and surrounding areas.
+“Our campaign is building a strong coalition of law enforcement leaders who know South Texas needs a congressman who will stand with them,” said Eric Flores.
+“I do not say that as a talking point.
+As a federal prosecutor, working side by side with local law enforcement was one of my top priorities.
+I know the work they do; I know the challenges they face, and in Congress, I will fight to make sure they have the resources and support they need to keep our communities safe.” Flores, a former federal prosecutor and former infantry officer, has made support for law enforcement and public safety central to his campaign for Texas’ 34th Congressional District.
+Current Law Enforcement Coalition: National Border Patrol Council Nueces County Sheriff J.C.
+Hooper Kleberg County Sheriff Richard Kirkpatrick Nueces County Constable Precinct 2 Jason McCahan Nueces County Constable Precinct 5 Oscar Mendoza Cameron County Constable Precinct 1 Norman Esquivel ### PAID FOR BY ERIC FLORES FOR CONGRESS Eric Flores for Congress | PO Box 84 | San Benito, TX 78586 US Unsubscribe | Update Profile | Constant Contact Data Notice

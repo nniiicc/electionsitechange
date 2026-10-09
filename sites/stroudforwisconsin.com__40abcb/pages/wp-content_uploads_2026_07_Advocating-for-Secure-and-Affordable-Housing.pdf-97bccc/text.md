@@ -1,0 +1,32 @@
+​Advocating for Secure and Affordable Housing​ ​My final campaign issue is housing.
+On the one hand, it might seem obvious that someone running for​ ​office who is focused on solving problems for regular people would choose this topic: housing is most​ ​people’s biggest expense, and housing costs have been the single biggest driver of inflation in recent​ ​years.
+However, too many elected officials fail to center this critical need.
+I can only assume that they’re​ ​just not in touch with what people are experiencing.​ ​The shortage of quality, affordable housing in the Chequamegon Bay is a well-known problem dating​ ​back decades.
+When I first moved to Ashland in 2012, there were many more houses for sale than​ ​there were buyers, and decent 3-bedroom homes were in the range of $75-$125,000.
+This made it​ ​relatively easy to buy a home if you were coming from a different market and had a little equity built​ ​up, you were lucky enough to have a stable salary, or you somehow had money for a down payment.​ ​(None of these three requirements are givens for most people.) Even then, most houses required at​ ​least some work.
+Now?
+Even people with stable, reliable middle-class salaries—teachers, police​ ​officers, retail and service workers, social workers, tradespeople—are struggling to find homes that​ ​they can afford to rent or purchase.​ ​Superior​ ​Iron River​ ​Ashland​ ​Bayfield​ ​2016​ ​$115,000​ ​$164,000​ ​$109,000​ ​$204,000​ ​2024​ ​$216,000​ ​$288,000​ ​$196,000​ ​$338,000​ ​% Change​ ​+87%​ ​+75%​ ​+80%​ ​+65%​ ​Median home values over time according to​​Zillow.com​ ​I’ve been very impressed by the new middle-class housing I’ve seen throughout Superior, so I was​ ​beginning to imagine that perhaps the westernmost part of the district has less of a housing problem​ ​than the east.
+However, when I was knocking doors in Oliver on Friday, I met a man who works for the​ ​City of Superior.
+When I explained that housing is one of the key issues in my campaign, he said it needs​ ​to be.
+He drives around the city every day as part of his job, and he sees countless people living in their​ ​cars.
+It might seem survivable this time of year, but what do they do in the winter?
+What do they do​ ​when they have kids?
+Even beyond those who are unhoused, much of the city’s stock, like Ashland’s​ ​and other towns throughout the district, is old and in need of renovation and energy upgrades.
+How​ ​many people live in houses where their roof is leaking or their furnace is threatening to go out?​ ​At the most basic level, housing prices are subject to simple market forces: if demand for an item is​ ​high and supply is low, the cost will go up.
+The increases in housing prices in recent years are a​ ​consequence of both supply shortages and demand increases, but why the sudden and dramatic​ ​upturn?​ ​First, a sharp growth in short-term rentals (STRs) such as Airbnbs has removed a significant percentage​ ​of long-term rentals and houses that would have been purchased and owner-occupied from the​ ​market.
+This was exacerbated in the period before and during the pandemic by historically low interest​ ​rates and the growth of corporate real estate investments.
+I’m not saying that all Airbnbs are the​ ​problem or that they should be banned, but a housing market can only absorb so many STRs before​ ​they start to become barriers to the well-being of the community, particularly in areas with large​ ​tourism economies.
+Striking the right balance of housing options to stabilize a population and an​ ​economy requires regulation, but here’s the thing: cities and towns are currently barred from regulating​ ​rentals!
+Lawmakers in Madison have decided that we shouldn’t have the power to regulate our housing​ ​market.
+So we need local control to make decisions that are in our best interest, because who knows​ ​more about what we need than we do?​ ​Second, if we don’t have enough housing supply to meet demand, why don’t we just build more houses​ ​and apartments?
+We have made some great progress on this front.
+Just this year a​​40-unit housing​ ​complex​​was secured for Washburn thanks to the incredible work of UW-Extension, Bayfield County;​ ​Ashland had​​a new​​housing complex open a few months ago; and Superior has a range of new housing,​ ​including apartments and patio homes.
+Despite these significant developments, we need to build more.​ ​There are various constraints that suppress the construction of new housing, from zoning laws and​ ​supply-chain barriers to grant requirements that make projects in rural regions less competitive than​ ​those in cities and suburbs.
+All of these factors need systematic analysis so that we can find areas​ ​where pressure points can be relieved.
+We should also consider whether​​greywater systems​​and​ ​composting toilets might become legal, certifiable options for homes in the country, which could help​ ​to reduce building and maintenance costs.
+These systems would also help to relieve burdens faced by​ ​our wastewater treatment plants.​ ​No matter someone’s income, we all deserve access to safe and secure housing.
+However, in my​ ​conversation with a representative from the Wisconsin Housing and Economic Development Authority​ ​(WHEDA), I learned that one of the greatest barriers to building more housing is resistance from local​ ​communities.
+Here’s what we all need to realize: in our current moment, housing programs are largely​ ​focused on middle-income, middle-class people.
+We need to let go of stereotypes of who needs help,​ ​because the truth is that many people–from elders to two-parent households where both people work​ ​full-time–are struggling to find affordable housing.
+As is often the case with stereotypes, our ideas​ ​about others are a barrier to making changes that would benefit us all.​ ​Healthy, stable communities contain people of a wide variety of ages and incomes, and so it is critical​ ​that we center this essential need.
+Building new homes and retrofitting our existing housing stock has​ ​the added benefit of creating good, union jobs, building up our tax base, and lowering our energy use.​ ​This is an example of how meeting our communities’ needs can be a boon to the middle class in more​ ​ways than one.​ ​I look forward to convening housing advocates, builders, home renovators, and locals so that we can​ ​learn from each other and work together to find solutions.​

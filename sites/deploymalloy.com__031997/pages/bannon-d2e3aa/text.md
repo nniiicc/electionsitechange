@@ -1,4 +1,4 @@
-Positions About Album Q&A Events Subscribe Signs Shop Donate Positions About Album Q&A Events Subscribe Signs Shop Donate 404 Page not found To Learn more about Gerald Malloy’s positions see Positions .
+Positions About Q&A Proposals Events Subscribe Signs Shop Donate Positions About Q&A Proposals Events Subscribe Signs Shop Donate 404 Page not found To Learn more about Gerald Malloy’s positions see Positions .
 Our calendar of Events can be found under Events .
 If you would like help out by putting a sign in your yard please here is the link for signs above.
 There is a comment box on our form for any message you might like to get to us as well.

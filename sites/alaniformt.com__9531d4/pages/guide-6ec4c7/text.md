@@ -20,8 +20,8 @@ Kyle Austin Lib Mixed Plan Warns recent Medicaid changes could drop eligible Mon
 Guarantee universal coverage through public financing Sources: 2·5·4·13 Kurt Alme Rep Opposes Stance Opposes subsidizing insurers; favors patient choice, competition and market pricing.
 Alani Bankhead Dem Supports Plan Gets to universal coverage in steps: finish the ACA, then Medicaid for all, then Medicare for all, on a TRICARE-style model through your own doctor.
 Each step is independently scored, and the next step doesn't cancel anyone's coverage.
-Seth Bodnar Ind Mixed Stance Backs “universal coverage with still some competition”; said “no” to Medicare for All, but calls a “government-run” system one the nation can’t improve without; pairs it with prevention and price transparency.
-Kyle Austin Lib Opposes Stance Says costs rise whenever government gets involved, including through insurance subsidies.
+Seth Bodnar Ind Mixed Stance Backs “universal coverage with still some competition” but worries about single payer, and answered “no” to Medicare for All.
+Pairs it with prevention, price transparency and moving “toward expanding coverage.” Kyle Austin Lib Opposes Stance Says costs rise whenever government gets involved, including through insurance subsidies.
 Restore the expired ACA premium tax credits Sources: 2·16 Kurt Alme Rep Not found No position located.
 Alani Bankhead Dem Supports Plan Restore the expired ACA premium tax credits that doubled people's premiums and make the help permanent, at about $350 billion over 10 years by CBO's estimate, roughly $35 billion a year.
 Seth Bodnar Ind Supports Stance Restore the expired ACA premium tax credits.
@@ -164,8 +164,8 @@ A temporary moratorium on new large-scale data centers Sources: 2·13·30 Kurt A
 Alani Bankhead Dem Supports Plan Back the federal moratorium on the largest AI data centers (the 20-megawatt AI Data Center Moratorium Act, S.
 4214) and the moratoriums Montana communities are pushing: a pause until the studies, the data, and the standards are in place, with a federal right-to-know standard to give it teeth.
 Seth Bodnar Ind Opposes Stance Told the Beer, Buds & Big Sky podcast “no” to a two-year moratorium and called data centers inevitable; favors transparency and cost limits instead.
-Kyle Austin Lib Supports Stance “Until there’s transparency out there, I’m completely against data centers in Montana.” Ban AI and large-scale data centers on public lands Sources: 2·6·15 Kurt Alme Rep Not found No position located.
-Alani Bankhead Dem Supports Stance A “no” for her, without qualification.
+Kyle Austin Lib Supports Stance “Until there’s transparency out there, I’m completely against data centers in Montana.” Keep large AI data centers off public lands Sources: 2·6·15 Kurt Alme Rep Not found No position located.
+Alani Bankhead Dem Supports Stance Would not allow large AI data centers on public lands.
 Seth Bodnar Ind Mixed Stance His AI Pledge opposes “any AI data center that threatens Montana’s water, our wildlife habitat, or our public land” (a conditional, not a siting ban); no ban on building on public lands, and says a moratorium is likely a county matter.
 Kyle Austin Lib Not found No position located.
 Data center limits are a federal responsibility, not just a county one Sources: 2·6·13·18·23 Kurt Alme Rep Mixed Stance Says "Let the local communities make that decision" but backs federal guardrails: a "big supporter" of the congressional Ratepayer Protection Act, and wants comprehensive power, water, land and jobs guardrails "for every data center company." Alani Bankhead Dem Supports Plan Would set a federal right-to-know standard for data-center siting, cost, and disclosure, not leave it to counties alone.
@@ -187,7 +187,8 @@ No islanding off the public grid, and no tax breaks.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
 Expand logging and mill capacity Sources: 5·11·3 Kurt Alme Rep Not found No position located.
-Alani Bankhead Dem Mixed Stance Backs science-based thinning near towns and forest restoration as real, year-round work, but is honest the mills are not coming back and leads with protecting homes and firefighters over expanding timber.
+Alani Bankhead Dem Mixed Stance Backs science-based thinning near towns and forest restoration as steady, year-round work.
+Puts protecting homes and firefighters first.
 Seth Bodnar Ind Supports Stance Rejuvenate Montana’s wood-products industry through science-backed forest management.
 Kyle Austin Lib Supports Stance Promotes “responsible logging” and new mills for jobs and cheaper building materials.
 Protect homes and towns as the front line of wildfire policy Sources: 2·23 Kurt Alme Rep Not found No position located.
@@ -320,7 +321,7 @@ Alani Bankhead Dem Mixed Plan Fine to verify name and address the common-sense w
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Supports Stance Supports voter ID and REAL ID; questions why noncitizens should influence elections.
 Tribal sovereignty and consultation as a standing federal obligation Sources: 2 Kurt Alme Rep Not found No position located.
-Alani Bankhead Dem Supports Plan Honor tribal sovereignty and the federal trust responsibility, treating funding as an obligation, not charity: fully fund the Indian Health Service, put tribal leadership at the table with direct access to the federal delegation, and support tribes without asking anything in return.
+Alani Bankhead Dem Supports Plan Honor tribal sovereignty and the federal trust responsibility, treating funding as an obligation, not charity: fully fund the Indian Health Service, and put tribal leadership at the table with direct access to the federal delegation.
 Seth Bodnar Ind Supports Plan Calls tribal sovereignty "a legal obligation"; would honor treaty and trust obligations as binding, ensure tribes are "genuinely consulted — not just notified," and protect the Indian Health Service and tribal health system.
 Kyle Austin Lib Not found No position located.
 Disability policy set with disabled people at the table Sources: 2 Kurt Alme Rep Not found No position located.
@@ -385,7 +386,7 @@ Fund diversion and drug and mental-health courts (they cut reoffending from ~50%
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
 Send the right responder to mental-health calls, with real police accountability Sources: 17 Kurt Alme Rep Not found No position located.
-Alani Bankhead Dem Supports Plan Send the right responder, which is different from "defund": a mental-health or addiction crisis should get a clinician or a co-responder crisis team, not only an armed officer.
+Alani Bankhead Dem Supports Plan Send a clinician or a co-responder crisis team to mental-health and addiction calls, alongside officers.
 Fund de-escalation and crisis-intervention training, and set real use-of-force standards and accountability for misconduct.
 Seth Bodnar Ind Not found No position located.
 Kyle Austin Lib Not found No position located.
@@ -528,9 +529,10 @@ Litigation involving institutions either has led is a separate matter with its o
 Note on DOGE Two candidates invoke cutting government waste, and one names DOGE specifically.
 What that effort produced is a matter of federal record rather than opinion, so it is noted here.
 The Government Accountability Office, the nonpartisan congressional watchdog, reviewed contracts, grants and leases DOGE listed between January 20, 2025 and July 7, 2026.
-GAO found that $110 billion of DOGE's claimed savings carried estimates that were incorrect or lacked supporting evidence .
+DOGE's site claimed $110 billion in savings as of July 7, 2026.
+GAO found that many of those estimates were incorrect or lacked supporting evidence : it could not determine how $37 billion of the contract savings (61%) was calculated, and DOGE could not support about $47.3 billion (96%) of the grant savings it claimed.
 Among the specifics: 108 of the 264 leases DOGE claimed to have terminated were already being eliminated before DOGE was created, and DOGE reported $1.7 billion saved on a Pentagon Defense Health Agency IT contract it never actually terminated or defunded.
-Separately, the Partnership for Public Service — a nonpartisan nonprofit focused on federal workforce effectiveness — estimated DOGE's actions would cost taxpayers roughly $135 billion in a single fiscal year , counting paid administrative leave, rehiring workers who had been fired in error, and lost productivity.
+Separately, the Partnership for Public Service, a nonpartisan nonprofit focused on federal workforce effectiveness, estimated DOGE's actions would cost taxpayers roughly $135 billion in a single fiscal year , counting paid administrative leave, rehiring workers who had been fired in error, and lost productivity.
 That estimate excludes the cost of defending litigation over DOGE's actions and excludes forgone tax collection from IRS staffing reductions, which the Yale Budget Lab separately estimated at $8.5 billion in 2026.
 Independent reviews reached the same place.
 POLITICO could verify $32.7 billion of the $52.8 billion in contract savings DOGE claimed through July and put actual savings nearer $1.4 billion, noting that even those dollars do not reduce the deficit unless Congress acts, because the money returns to agencies legally required to spend it.

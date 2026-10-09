@@ -1,6 +1,11 @@
 0 Skip to Content Elect Bennie Foster for U.S.
 Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
-Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Updates Folder: Resources Back Voting Contact Donate DONATE Thank you Leflore County!
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Updates Folder: Resources Back Voting Contact Donate DONATE Tallahatchie County.
+Yalobusha County.
+Panola County.
+We are coming to you!
+Visit www.electbenniefoster.com to see dates and locations or to donate!
+Thank you Leflore County!
 Greenwood, MS was an amazing experience.
 We met people who are ready for change and excited to ReIMAGINE MISSISSIPPI with us.
 Vote November 3, 2026 to elect Bennie Foster for US Congress MS-02.
@@ -42,8 +47,6 @@ HOLMES COUNTY!
 We loved meeting with you, hearing concerns, and sharing our platform to ReIMAGINE Mississippi.
 Leake County, you’re up next!
 Visit www.electbenniefoster.com to donate, volunteer, and stay updated on our next tour stops!
-We want to thank mayor Haynes of the City of Durant for meeting with us and sharing the concerns and needs of the residents.
-Regardless of this election, we are excited to help find solutions for the needs of the community, Visit www.electbenniefoster.com to join the movement to ReIMAGINE MISSISSIPPI.
 Updates Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up to stay connected with the campaign and receive updates.

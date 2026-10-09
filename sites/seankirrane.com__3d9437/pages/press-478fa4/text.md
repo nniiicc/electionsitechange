@@ -1,0 +1,7 @@
+IT'S TIME!
+DONATE NOW TO ELECT SEAN TO CONGRESS ABOUT SEAN PLATFORM PRESS CONTACT DONATE VOLUNTEER PRESS RELEASES News and updates from the Kirrane for Congress campaign PRESS RELEASE Senate Minority Leader Bucco Endorses Sean Kirrane for Congress in NJ-5 Senate Minority Leader Anthony M.
+Bucco announced his endorsement of Sean Kirrane for Congress, pointing to Kirrane's business background and understanding of rural communities.
+West Milford, NJ Read More PRESS RELEASE LD26 Legislators Endorse Sean Kirrane for Congress in NJ-5 Legislative District 26 leaders Joseph Pennacchio, Brian Bergen, and Jay Webber announced their endorsement of Sean Kirrane for Congress.
+Passaic County, NJ Read More PRESS RELEASE LD40 Legislators Endorse Sean Kirrane for Congress in NJ-5 Legislative District 40 leaders Kristin Corrado, Christopher DePhillips, and Al Barlas announced their endorsement of Sean Kirrane for Congress.
+Passaic and Bergen Counties, NJ Read More PRESS RELEASE LD39 Legislators Endorse Sean Kirrane for Congress in NJ-5 Legislative District 39 leaders Holly Schepisi, Robert Auth, and John Azzariti Jr. announced their endorsement of Sean Kirrane for Congress.
+Bergen County, NJ Read More QUICK LINKS About Sean Platform Press GET INVOLVED Volunteer Donate CONNECT info@kirraneforcongress.com New Jersey District 5 Authorized and Paid for by Sean Kirrane for Congress | www.seankirrane.com | @VoteKirrane

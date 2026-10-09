@@ -15,4 +15,4 @@ She listens, she follows through, and she’s going to bring that same dedicatio
 Perea, who currently serves on the Fresno City Council, has built a reputation for collaboration, problem-solving, and deep community engagement.
 As Council President in 2024, she helped strengthen public safety, expanded affordable housing, and negotiated a landmark agreement that brought new revenue into city services without raising taxes.
 A lifelong Central Valley resident and the granddaughter of a cannery worker, Perea’s campaign continues to resonate with working-class voters who want a leader rooted in the region and ready to deliver results.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

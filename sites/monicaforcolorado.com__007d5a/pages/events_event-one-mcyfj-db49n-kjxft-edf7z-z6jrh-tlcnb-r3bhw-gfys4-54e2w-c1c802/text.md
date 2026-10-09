@@ -2,6 +2,6 @@
 Whether it’s your ideas, concerns, or the issues you care most about, come have a sip and a chat.
 This coffee meeting repeats on the first Thursday of every month.
 See the events page for other coffee meetings.
-Previous Previous November 12 Coffee Hour for HD9 Paid for by Monica for Colorado.
+Previous Previous November 12 Coffee Hour for HD9 Next Next December 10 Coffee Hour for HD9 Paid for by Monica for Colorado.
 Registered Agent Monica VanBuskirk.
 Privacy policy

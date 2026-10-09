@@ -1,0 +1,2 @@
+re-elect debo powers to fight against large, unregulated data center development driven by the Artificial Intelligence (AI) boom Protect Our Water Resources Prevent Energy Bill Spikes Defend Montana Communities Shield Montana Taxpayers from Cleanup Costs Debo supports NO DATA CENTERS in Montana.
+Learn more about Debo at www.powersforthepeople.us Paid for by Powers for the People | PO Box 792, Whitefish, MT 59937 | Treasurer Richard Hildner | DEMOCRAT SAY NO TO DATA CENTERS

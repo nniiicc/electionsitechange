@@ -19,7 +19,7 @@ Thank you!
 Andrew Love John Deaton for U.S.
 Senate Campaign Political Director andrew@johndeatonforsenate.com Oops, there was an error sending your message.
 Please try again later.
-LATEST NEWS Deaton: AI That Passes for Human on a Video Call Demands a National Standard Now By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Senate nominee calls for mandatory AI disclosure, protections for seniors and children, and real accountability for companies that deceive BOSTON, MA. -- John Deaton, nominee for U.S.
+Watch Watch Watch Watch Watch Watch Watch Watch Watch LATEST NEWS Deaton: AI That Passes for Human on a Video Call Demands a National Standard Now By Vincent Errichetti • October 7, 2026 FOR IMMEDIATE RELEASE October 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Senate nominee calls for mandatory AI disclosure, protections for seniors and children, and real accountability for companies that deceive BOSTON, MA. -- John Deaton, nominee for U.S.
 Senate in Massachusetts, today called on Congress to pass a national AI standard with enforceable consumer protections.
 The call follows this week's announcement of an AI video model that its maker says nearly half of test subjects mistook for a real person.
 AI company Tavus unveiled the model, called Griffin, on October 1.

@@ -4,22 +4,22 @@ It is an honor and privilege to serve as your State Representative for House Dis
 Congratulations, Linda!
 Wishing you all the best in this next chapter!
 #txlege #HD144 1 Comments Reach out.....
-4 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post It was wonderful to join neighbors across our community for National Night Out!
+8 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post It was wonderful to join neighbors across our community for National Night Out!
 I had the opportunity to visit with neighbors in Deepwater, Scarsdale, South Houston, Queens, and Meadowcreek.
 Thank you to our local law enforcement officers and first responders for ...
-6 Likes Posted: #ago State Representative Mary Ann Perez Honored to have the endorsement of Council Member Jonathan Estrada!
+8 Likes Posted: #ago State Representative Mary Ann Perez Honored to have the endorsement of Council Member Jonathan Estrada!
 Thank you, Council Member Estrada, for your trust and support.
 I’m truly grateful to have you standing with me.
 #txlege #HD144 #TeamMaryAnn 1 Comments You got this....
 No one can guide the ship better than you..
 We are thankful you are there,.
-12 Likes Posted: #ago State Representative Mary Ann Perez I am deeply grateful to have the endorsement of Council Member Pat Van Houte as I run for re-election.
+14 Likes Posted: #ago State Representative Mary Ann Perez I am deeply grateful to have the endorsement of Council Member Pat Van Houte as I run for re-election.
 Thank you, Council Member Van Houte, for your confidence and support!
 #txlege #HD144 #TeamMaryAnn 11 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I had the pleasure of attending the Latin Women’s Initiative Annual Membership Luncheon on Friday.
 I’m always grateful for the opportunity to spend time with so many incredible women who are making a difference in our community.
 Thank you to ...
 3 Comments Awesome group!
-VIVA LULAC 17 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post Always enjoy attending the Red Hot Gala, an annual event hosted by the Houston Professional Fire Fighters Association Charitable Foundation to support Houston firefighters and their families.
+VIVA LULAC 20 Likes Posted: #ago State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post Always enjoy attending the Red Hot Gala, an annual event hosted by the Houston Professional Fire Fighters Association Charitable Foundation to support Houston firefighters and their families.
 I love coming together with so many incredible people to celebrate and support ...
 22 Likes Posted: #ago State Representative Mary Ann Perez Today is the last day to register to vote!
 Visit harrisvotes.com for more information.
@@ -39,15 +39,15 @@ Congratulations to everyone at ETC on this incredible milestone, and here’s ..
 14 Likes Posted: #ago State Representative Mary Ann Perez 11 Comments Congratulations on your endorsement by the Houston Chronicle.
 They got it freaking right.
 State Representative Mary Ann Perez Randy Chapman Thank you! 🙏🏻 This is a stupid question but what did I miss?
-84 Likes Posted: #ago State Representative Mary Ann Perez Happy to support Congressman Joaquin Castro!
+85 Likes Posted: Last week State Representative Mary Ann Perez Happy to support Congressman Joaquin Castro!
 Thank you to Rick Noriega for hosting and to the entire host committee for bringing everyone together for a wonderful evening.
-18 Comments Gracias 🙏🏽 Rep MAP…for standing w those who don’t support incarceration of children…like Rep Castro.
+19 Comments Gracias 🙏🏽 Rep MAP…for standing w those who don’t support incarceration of children…like Rep Castro.
 What would Jesus say?
 Matthew: 25 ...
 Rick Noriega so Rick tell us your interpretation of Matthew 25.
 There is nothing in the Gospel that refers ...
 Rick Noriega maybe never support anyone who supports abortion or their party.
-117 Likes Posted: #ago State Representative Mary Ann Perez I'm grateful to have the support of Constable Jerry Garcia as I run for re-election!
+119 Likes Posted: Last week State Representative Mary Ann Perez I'm grateful to have the support of Constable Jerry Garcia as I run for re-election!
 Thank you, Constable Garcia, for standing alongside me!
 #txlege #HD144 #TeamMaryAnn # Comments Democrats raised taxes to a historic level, vote them out!!
 # Likes Posted: Last week State Representative Mary Ann Perez Photos from State Representative Mary Ann Perez's post I joined the Pasadena Chamber of Commerce for a roundtable discussion on interim committee charges, highlights from the 89th Legislative Session, and legislative priorities heading into the 90th Legislative Session.

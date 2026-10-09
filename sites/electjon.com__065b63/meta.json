@@ -1,12 +1,10 @@
 {
- "description": "Georgia is MAGA's #1 target in 2026. Donate now to help Jon fight back.",
- "final_url": "https://electjon.com/",
- "fingerprint": "7f6f3804879d5bf8a4377ab2fada49d69cc413bb",
+ "description": "",
+ "final_url": "https://secure.actblue.com/donate/ossoff-tv-hit?refcode=261008",
+ "fingerprint": "efa18124d903df3b5056e50cbb022c93a5051d58",
  "format": 3,
- "paid_for_by": "Paid for by Jon Ossoff for Senate Powered by Apollo Home About Jon News Shop Volunteer Home About Jon News Shop Volunteer Donate Donate Facebook X-twitter Instagram Youtub",
- "title": "Jon Ossoff – Official Campaign Website",
- "years_mentioned": [
-  "2021",
-  "2026"
- ]
+ "paid_for_by": "paid for by ActBlue ( actblue",
+ "rendered": false,
+ "title": "ActBlue",
+ "years_mentioned": []
 }

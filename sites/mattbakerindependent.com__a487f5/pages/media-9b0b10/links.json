@@ -37,19 +37,11 @@
 },
 {
 "text": "MEDIA@MATTBAKERINDEPENDENT.COM",
-"href": "mailto:MEDIA@MATTBAKERINDEPENDENT.COM"
+"href": "mailto:MEDIA@MATTBAKERINDEPENDENT.COM?subject=Website+Media+Inquiry"
 },
 {
 "text": "Matt Baker on the Independents for America Podcast",
 "href": "https://www.mattbakerindependent.com/post/matt-baker-on-the-independents-for-america-podcast"
-},
-{
-"text": "Privacy Policy",
-"href": "https://www.mattbakerindependent.com/privacypolicy"
-},
-{
-"text": "Terms & Conditions",
-"href": "https://www.mattbakerindependent.com/termsandconditions"
 },
 {
 "text": "VISION",
@@ -74,5 +66,13 @@
 {
 "text": "[no text]",
 "href": "https://www.mattbakerindependent.com/media"
+},
+{
+"text": "privacy policy",
+"href": "https://www.mattbakerindependent.com/privacypolicy"
+},
+{
+"text": "terms & conditions",
+"href": "https://www.mattbakerindependent.com/termsandconditions"
 }
 ]

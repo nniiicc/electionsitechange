@@ -1,6 +1,7 @@
 Skip to content ★ Endorsed by Gov.
 Sarah Sanders and every Arkansas statewide official → Menu Home About Tom Issues News Volunteer Contact Donate Newsroom News & Press Releases The latest statements, announcements, and press releases from Cotton for Senate.
-September 9, 2026 Press Release National Rifle Association Endorses Senator Tom Cotton, Hallie Shoffner Receives “F” Rating The NRA Political Victory Fund has endorsed Senator Tom Cotton for re-election, while Hallie Shoffner received the NRA’s lowest “F” rating.
+September 9, 2026 Washington Free Beacon ICYMI: Arkansas Dem Senate Candidate Donated to Bail Fund Founded by Activist Jailed for Firebombing Cop Cars Washington Free Beacon: Hallie Shoffner raised money in 2020 for a bail fund founded by an activist later jailed for firebombing Little Rock police cars.
+Read the release → September 9, 2026 Press Release National Rifle Association Endorses Senator Tom Cotton, Hallie Shoffner Receives “F” Rating The NRA Political Victory Fund has endorsed Senator Tom Cotton for re-election, while Hallie Shoffner received the NRA’s lowest “F” rating.
 Read the release → September 4, 2026 Press Release ICYMI: Cotton on What Defunding ICE Would Mean for Arkansas After Shoffner Admits She Would Defund the Agency Senator Cotton joined Fox News’ America’s Newsroom on what defunding ICE would mean for Arkansas law enforcement after Shoffner said she’d defund it.
 Read the release → September 4, 2026 Townhall ICYMI: Hallie Shoffner is Running as an Arkansas Farmer.
 Before that, She Was an AOC Donor and Dem Insider.
@@ -22,8 +23,7 @@ Sen.
 Tom Cotton announced his support for Arkansas’s Citizens Only Voting Amendment, which would make clear that only U.S. citizens may vote in state and local elections.
 Read the release → August 18, 2026 Press Release Statement on Independent Poll Showing Cotton’s 16% Lead and Democrats’ Continued Unpopularity in Arkansas An independent J.L.
 Partners poll taken August 14–18 shows Senator Cotton leading Democrat Hallie Shoffner 51% to 35%.
-Read the release → July 16, 2026 Press Release Cotton Campaign Announces $# Raised and More Than $# Million Cash on Hand — a Record for Arkansas The Cotton for Senate campaign raised $# in the latest quarter and now has more than $# million cash on hand across accounts — a record for Arkansas.
-Read the release → Press releases navigation ← Newer 1 2 We depend on you Stand with Tom.
+Read the release → Press releases navigation ← Newer 1 2 3 Older → We depend on you Stand with Tom.
 Stand with Arkansas.
 Your support helps Tom share our message and grow the team supporting it.
 Chip in any amount today. $4.49 $15 $50 Other Home About Tom Issues News Volunteer Contact Privacy Thank you for visiting Tom's campaign website.

@@ -1,0 +1,8 @@
+IT'S TIME!
+DONATE NOW TO ELECT SEAN TO CONGRESS ABOUT SEAN PLATFORM PRESS CONTACT DONATE VOLUNTEER Back to Press Releases PRESS RELEASE LD39 Legislators Endorse Sean Kirrane for Congress in NJ-5 Bergen County, NJ Today, Legislative District 39 leaders, Holly Schepisi , Robert Auth , and John Azzariti Jr. , announced their endorsement of Sean Kirrane for Congress in New Jersey's Fifth Congressional District.
+“Sean Kirrane is the kind of leader New Jersey needs in Washington.
+He understands the challenges facing our communities and has the energy, vision, experience, and commitment to fight for taxpayers and families across the Fifth District.
+We are proud to support his campaign and believe he will be an effective advocate for our residents.” — Senator Holly Schepisi, Assemblyman Robert Auth, and Assemblyman John Azzariti Jr.
+Kirrane also issued a statement following the endorsement: “I'm grateful to Senator Schepisi, Assemblyman Auth, and Assemblyman Azzariti for their support and leadership.
+Legislative District 39 has long been a model for strong, principled representation, and I'm proud to have them in this fight.
+Together, we're building a unified effort to deliver results for the people of New Jersey's Fifth Congressional District.” — Sean Kirrane, Candidate for Congress, NJ-5 ### Share this press release SUPPORT SEAN Media Contact For press inquiries, please contact: info@kirraneforcongress.com QUICK LINKS About Sean Platform Press GET INVOLVED Volunteer Donate CONNECT info@kirraneforcongress.com New Jersey District 5 Authorized and Paid for by Sean Kirrane for Congress | www.seankirrane.com | @VoteKirrane

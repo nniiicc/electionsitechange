@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Carolina Sauce Company Starting From Scratch × After Metagenix, I hit an unexpected roadblock.
+Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Carolina Sauce Company Starting From Scratch × After Metagenix, I hit an unexpected roadblock.
 Because of a non-compete agreement, I was barred from working with most companies in the data integration tech space for a while.
 But my career has always been shaped by a simple pattern: I see a problem, and I jump in to solve it, even if it means stepping into a completely unfamiliar industry.
 In the early 2000s, my wife Gloria and I decided to take a total detour from our prior careers and we founded the Carolina Sauce Company.

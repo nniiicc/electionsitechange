@@ -41,5 +41,5 @@ He’s expecting blue states like Maryland to back down and not respond.
 That’s why voting for Question 3 this November is so important.
 In Maryland, the people will get to decide if our state will be able to respond to Trump’s corrupt power grab and help Democrats take back the majority in Congress.
 Marylanders are ready to stand up and push back against Trump’s corruption by voting FOR Question 3 because they know a Democratic majority is key to stopping the policies crushing Maryland families.
-#YesOn3 9 4 View on Facebook Terri Hill #ago As we remember the victims, heroes, and perpetrators of 9/11 and of the wars and violent atrocities before and to this day, may God’s grace and mercy towards humanity rain on us all.
+#YesOn3 20 6 View on Facebook Terri Hill #ago As we remember the victims, heroes, and perpetrators of 9/11 and of the wars and violent atrocities before and to this day, may God’s grace and mercy towards humanity rain on us all.
 #weremember Photo credit: Bruce Williams 4 3 2 View on Facebook Terri Hill #ago Wishing you a safe, joyful and well-deserved Labor Day! ❤️💙 6 View on Facebook Copyright # |Terri Hill | All Rights Reserved

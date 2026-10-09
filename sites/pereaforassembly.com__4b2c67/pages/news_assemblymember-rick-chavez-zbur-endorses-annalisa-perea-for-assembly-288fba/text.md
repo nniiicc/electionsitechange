@@ -12,4 +12,4 @@ I have no doubt she will be an exceptional leader in the State Assembly.” Coun
 “I am so honored to have the endorsement of Assemblymember Rick Chavez Zbur, a staunch leader I’ve had the privilege to stand alongside on issues that shape our Central Valley,” said Perea.
 “Assemblymember Zbur’s leadership and commitment to delivering real solutions for working families inspires my own work, and I’m grateful for his support.” Annalisa Perea currently serves on the Fresno City Council and was elected Council President in 2024.
 A lifelong Central Valley resident and certified city planner, Perea has built her career around delivering practical solutions for working families, strengthening communities, and ensuring government works better for the people it serves.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

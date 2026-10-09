@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Walking to Win with #TeamTasha Get Out The Vote!
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Walking to Win with #TeamTasha Get Out The Vote!
 Wednesday, October 31, 2018 10:00 AM 10:00 Tuesday, November 6, 2018 5:00 PM 17:00 Tasha Boerner Horvath for Assembly 2018 570 Laguna Drive, Suite A Carlsbad, CA 92008 (map) Google Calendar ICS Dear friends, We are sprinting to the finish line and have already called or knocked on the doors of over 50,000 voters in Encinitas, Carlsbad, Oceanside and Vista.
 With only a few days left before the General Election, we need you now more than ever!
 Please sign up below to receive details about the individual walks and phone banks.

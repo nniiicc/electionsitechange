@@ -36,10 +36,6 @@
 "href": "https://electbarnhill.net/category/archive/"
 },
 {
-"text": "Blog",
-"href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
 "text": "Commentary",
 "href": "http://electbarnhill.net/commentary/feed"
 },
@@ -78,6 +74,10 @@
 {
 "text": "Join the Campaign",
 "href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "News",
+"href": "https://electbarnhill.net/news/"
 },
 {
 "text": "Next Next post: Brad Lee Barnhill Appearing in Court to Defend Motion for Election Integrity After Case Closed Without Hearing",

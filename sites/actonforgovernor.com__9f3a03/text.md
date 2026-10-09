@@ -12,14 +12,11 @@ Amy Acton MEET AMY Amy Acton’s Journey Dr.
 Amy Acton grew up in Youngstown, Ohio under difficult circumstances.
 But that made Amy tough – and now, Amy is running for governor to fight for every Ohio family that’s struggling today.
 LEARN MORE LEARN MORE ISSUE Reducing Costs for Ohio Families Read More ISSUE Cleaning Up Corruption Read More ISSUE Improving Ohio’s Education Read More ISSUE Lowering the Cost of Health Care Read More ISSUE Growing Ohio Jobs and Businesses Read More ISSUE Standing Up for Workers Read More ISSUE Building Safer Communities Read More ISSUE Ensuring Reproductive Freedom Read More ISSUE Aging in place Read More PRIORITIES FOR OHIO PRIORITIES FOR OHIO $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount CHIP IN TODAY Donate now to Stand with Amy If you’ve saved your payment info with ActBlue Express, your donation will go through immediately.
-THE LATEST UPDATES The polls are open, Ohio!!
-Vote early between today and November 1.
-Head to https://t.co/0AWwx39GmS for more i...
-#ago The polls are open, Ohio!!
-Vote early between today and November 1.
-Head to actonforgovernor.com/vote for more information.
-October 6, 2026 Press Releases Oct 07, 2026 ICYMI: VIVEK RAMASWAMY‘S BILLIONAIRE FUNDED PAC ADMITS TO LYING ABOUT DR.
-ACTON TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+THE LATEST UPDATES Ohioans are tired of paying the cost of corruption while the super rich cash in.
+As governor, I’ll clean u...
+#ago As governor, I will make sure that tradition carries on for generations to come.
+October 8, 2026 Press Releases Oct 08, 2026 Dr.
+Amy Acton Announces Raising Over $13 Million in the Third Quarter of 2026 TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Join Team Amy SMS Terms: By entering your phone number and checking the box, you agree to receive periodic automated text messages about donating and voter contact.
 Msg Frequency varies.
 Msg & Data rates May apply.

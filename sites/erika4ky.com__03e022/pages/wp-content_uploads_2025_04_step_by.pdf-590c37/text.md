@@ -1,0 +1,8 @@
+Erika orem ipsum HANCOCK State Representative Franklin County Disaster Step-by-Step Process I understand that navigating the FEMA application process can feel overwhelming, but I’m here to help you through it.
+Here’s a compassionate, step-by-step guide to assist you in completing the application successfully.
+You’re not alone in this, and every step you take is important.
+Erika R Go to DisasterAssistance.gov LACK R- BLACK Click on Sign In and create an online account (you will need access to email) e LT Std HANCOCK R Return to home page R R R R R R R Click on the red APPLY NOW button State Representative Enter your Zip Code (40601 for Frankfort) Select the disaster that affected you (Until the April disaster is added, select February 14th) Select your area (Until Franklin County is listed, hit next) Select Next on screen Check all the assistance that you need and click Next Verify this is your primary home (six months or more a year) If the property is not your primary residence you can go to SBA.gov R R R Verify additional needs R R Once you get logged in, start the application Enter the date of disaster (4/5/2025) Type of damage (flood) Double-check all the information you entered, and where you are sure it’s correct, submit the application.
+REMEMBER: This application is a legal document.
+Be sure to complete it fully and honestly.
+Need Help?
+You can contact me or call the FEMA Helpline: 1‑800‑621‑3362 #FrankfortStrong Legislative Office: Annex Room #467-B Phone: 502-564-8100 Email: erika.hancock@kylegislature.gov Personal Cell: 502-229-6544 Email: Erika@Erika4KY.com Web: Erika4KY.com

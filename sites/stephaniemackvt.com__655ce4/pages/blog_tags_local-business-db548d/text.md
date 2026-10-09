@@ -1,0 +1,2 @@
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate All Posts Campaign Updates Search Listening to Local Business: Stephanie Mack Visits Homeport Stephanie Mack joined fellow Vermont House candidates Pearl Beckage and Lynne Smith at Homeport in Essex Junction for a candid conversation with owner Mark Bouchett about local business, workforce challenges and what it takes to keep a Vermont business running.
+Stephen Kastner #ago 4 min read Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page

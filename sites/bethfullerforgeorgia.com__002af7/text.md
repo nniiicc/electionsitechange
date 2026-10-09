@@ -38,7 +38,10 @@ All you'll need are comfortable shoes, a fully charged phone and the MiniVAN app
 If you want to help flip the Georgia House and elect candidates who stand for progressive change, we hope to see you there!
 This event will launch from a local restaurant.
 Address will be provided upon registration.
-Read more → October 25, 2026 Meet Beth My name is Beth Fuller.
+Read more → October 25, 2026 Nov 1 November 1, 2026 Canvass with Beth Fuller and RaShaun Kemp!
+November 1, 2026 Join us for a canvass with Beth Fuller and Senator RaShaun Kemp!
+We'll be knocking doors in Sandy Springs to make sure we get out the vote and flip a crucial seat in Georgia!
+Read more → November 1, 2026 Meet Beth My name is Beth Fuller.
 I am the Democratic nominee for Georgia’s State House District 53.
 I’m a Georgia native, and I’ve spent my life working to keep Georgia families safe and healthy.
 Until recently, I served as a contractor for the Centers for Disease Control (CDC) in Atlanta.

@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Meet and Greet with Catherine S.
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Meet and Greet with Catherine S.
 Blakespear and Tasha Boerner Horvath Sunday, September 23, 2018 12:30 PM 2:30 PM 12:30 14:30 Google Calendar ICS Contribute Please join Carol Wolf for a Meet and Greet with CATHERINE S.
 BLAKESPEAR, Encinitas Mayor and Candidate for Ee-election and TASHA BOERNER HORVATH Encinitas Councilmember and Candidate for State Assembly District 76 Sunday, September 23, 12:30-2:30 PM Encinitas address will be emailed upon RSVP.
 Contribute The California Political Reform Act (Proposition 34) places limits on contributions to candidates for state office and imposes certain prohibitions.

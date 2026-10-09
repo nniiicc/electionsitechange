@@ -1,9 +1,10 @@
 {
  "description": "See upcoming events with Senator Patricia Fahy and the campaign team.",
  "final_url": "https://www.patriciafahy.com/events",
- "fingerprint": "2d57657323d841c8fdbfeefc0c5220c1dd4e2c9b",
+ "fingerprint": "c92a4d1a669a50d4a59a301cddbb55f24cb4712a",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Events | Patricia Fahy For State Senate",
  "years_mentioned": [
   "2026"

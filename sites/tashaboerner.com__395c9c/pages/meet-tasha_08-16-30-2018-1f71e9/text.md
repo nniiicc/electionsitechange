@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Walking to Win with #TeamTasha in August Saturday, August 18, 2018 10:00 AM 10:00 Thursday, August 30, 2018 8:00 PM 20:00 Tasha Boerner Horvath for Assembly 2018 570 Laguna Drive, Suite A Carlsbad, CA 92008 (map) Google Calendar ICS Dear friends, Please join us in August walking to win and talking with our neighbors in Encinitas, Carlsbad, Oceanside and Vista.
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Walking to Win with #TeamTasha in August Saturday, August 18, 2018 10:00 AM 10:00 Thursday, August 30, 2018 8:00 PM 20:00 Tasha Boerner Horvath for Assembly 2018 570 Laguna Drive, Suite A Carlsbad, CA 92008 (map) Google Calendar ICS Dear friends, Please join us in August walking to win and talking with our neighbors in Encinitas, Carlsbad, Oceanside and Vista.
 We have a number of dates and times available.
 Looking forward to seeing you!
 Please sign up below to receive details about the individual walks and phone banks.

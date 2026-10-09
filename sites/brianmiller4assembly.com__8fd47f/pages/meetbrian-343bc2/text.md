@@ -1,4 +1,4 @@
-top of page Donate Volunteer Donate Home Meet Brian Our Work Our District Map Photo Gallery Serving My Constituency Past, Present & Future...
+top of page Donate Volunteer Donate Home PRIVACY POLICY Meet Brian Our Work Our District Map Photo Gallery Serving My Constituency Past, Present & Future...
 For the last nine years I have been a member of the New York State Assembly, currently representing the 122nd Assembly District, which is encompasses towns in Herkimer, Madison, Oneida and Otsego counties.
 Previous to this term, I represented the 101st Assembly District, which encompassed parts of Oneida, Herkimer, Otsego, Delaware, Ulster, Sullivan and Orange counties.
 I am pleased to have announced I am running again for the 122nd Assembly District.
@@ -51,4 +51,4 @@ I have a record of putting partisan politics aside to address the needs of our r
 It would be my honor to CONTINUE to represent you in the New York State Assembly and be a ‘common sense’ voice in Albany.
 My door is always open. ​ ​ ​ Most Sincerely, ​ Copyright © # Brian Miller for Assembly - All Rights Reserved.
 P.O.
-Box 16, Sauquoit, NY 13456 Home Meet Brian Our Work Our District Map Photo Gallery bottom of page
+Box 16, Sauquoit, NY 13456 Home PRIVACY POLICY Meet Brian Our Work Our District Map Photo Gallery bottom of page

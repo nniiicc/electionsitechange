@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Donate Days since Maura Healey promised a gas-tax suspension: Days Hours Min Sec Demand Action!
-Home Meet Mike Meet Renee Blueprint for a Better Future In The News Get Involved Make a Plan to Vote Store Donate Five Weeks Out From Election, Minogue Momentum Grows Press Release | September 28, 2026 HAMILTON, Mass. — With # days until the election, gubernatorial candidate Mike Minogue continues to gain momentum.
+Home Meet Mike Meet Renee Blueprint for a Better Future In The News Events Get Involved Make a Plan to Vote Store Donate Five Weeks Out From Election, Minogue Momentum Grows Press Release | September 28, 2026 HAMILTON, Mass. — With # days until the election, gubernatorial candidate Mike Minogue continues to gain momentum.
 The increasingly competitive contest was featured on the cover of Sunday’s Boston Herald , underscoring the growing focus on the race in the final weeks before Election Day.
 “I’m humbled by the support that’s come in from across the political divide,” said Minogue.
 “This is a tipping-point election.

@@ -1,1 +1,2 @@
-
+Home About Key Legislation Endorsements Support Angela Rigas Contact Donate Fighting Government Overreach Protecting Families Supporting Small Business Paid for by Committee To Elect Angela Rigas PO Box 365 Caledonia, MI 49316-0365 AI Assistance Disclaimer This website was designed and written with the assistance of generative AI tools.
+All content, messaging, and biographical information have been reviewed, approved, and authorized by the Committee to Elect Angela Rigas.

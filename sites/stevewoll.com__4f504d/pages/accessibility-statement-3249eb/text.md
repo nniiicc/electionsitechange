@@ -1,4 +1,4 @@
-top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE Accessibility Statement This statement was last updated on 4/26/2026 We at www.stevewoll.com are working to make our site accessible to people with disabilities.
+top of page Donate Now ABOUT Issues Press Get Involved FAQs Menu Close ABOUT Issues Press Get Involved FAQs DONATE ABOUT Issues Press Get Involved FAQs Menu Close DONATE Accessibility Statement This statement was last updated on 4/26/2026 We at www.stevewoll.com are working to make our site accessible to people with disabilities.
 1.
 Our Commitment Steve Woll and stevewoll.com are committed to ensuring that this Site is accessible to all visitors, including people with disabilities.
 We believe that everyone deserves equal access to information and the ability to engage in the political process, regardless of ability.
@@ -26,4 +26,4 @@ The "Last Updated" date at the top of this page reflects the most recent revisio
 This statement reflects our ongoing commitment to digital accessibility.
 It does not constitute a legal guarantee of full WCAG compliance.
 If you require assistance accessing any content on this Site, please reach out and we will do our best to help.
-ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement | FAQs ABOUT Issues Press Get Involved bottom of page
+ABOUT Issues Press Get Involved FAQs ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved FAQs STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement | FAQs ABOUT Issues Press Get Involved FAQs bottom of page

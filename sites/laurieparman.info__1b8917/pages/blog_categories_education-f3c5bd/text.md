@@ -1,9 +1,10 @@
 top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
-DONATE Log In All Posts Campaign Education Law Enforcement Education Laurie for Education!
+DONATE Log In All Posts Campaign & PSA EXCELLENCE in Education SAFER Communities FINANCIAL Reform EXCELLENCE in Education Laurie, a teacher for 30 years, and a Doctor of Educational Leadership.
+It's time to get back to their academic mission; to restore educational excellence.
 SCHOOL CHOICE.
 OUR CHOICE.
 SCHOOL CHOICE.
 OUR CHOICE.
-Education Judi Zapp Feb 11 1 min read A Dangerous Step Backward for Our Kids As a 30 year educator in Illinois public schools and a proud conservative who believes in accountability, merit, and helping students to “struggle forward”, I am deeply troubled by the Illinois State Board of Education's recent decision to slash proficiency standards on state assessments.
+EXCELLENCE in Education Judi Zapp Feb 11 1 min read A Dangerous Step Backward for Our Kids As a 30 year educator in Illinois public schools and a proud conservative who believes in accountability, merit, and helping students to “struggle forward”, I am deeply troubled by the Illinois State Board of Education's recent decision to slash proficiency standards on state assessments.
 This move, approved just weeks ago, isn't the "alignment" with national benchmarks that officials are spinning—it’s a classic case of “smoke and mirrors”.
-Education Laurie Parman Ed .D Sep 25, 2025 2 min read Laurie Leads 66 "Educating, Advocating, Elevating Our Illinois Communities" Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page
+EXCELLENCE in Education Laurie Parman Ed .D Sep 25, 2025 2 min read Laurie Leads 66 "Educating, Advocating, Elevating Our Illinois Communities" Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

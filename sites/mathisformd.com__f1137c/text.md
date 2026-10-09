@@ -1,4 +1,4 @@
-Skip to content MATHIS FOR MD MEET ADRIANNE ISSUES GET INVOLVED Contact Us Voting Info Donate 1789686000 days hours minutes seconds until An Evening of Music History & Hope: Campaign Fundraiser RSVP & CONTRIBUTE DONATE ADVOCACY.
+Skip to content MATHIS FOR MD MEET ADRIANNE ISSUES GET INVOLVED Contact Us Voting Info Donate 1792339200 days hours minutes seconds until ROCK THE BLOCK! join the team DONATE ADVOCACY.
 ACTION.
 ACCOUNTABILITY From Roots to Results: Building Together for a Stronger Community Adrianne has deep roots in the county, a wealth of experience in public service, and is dedicated to a stronger and better community for all of us.
 Education Inspiring our whole community to grow through seamless, well-funded education.

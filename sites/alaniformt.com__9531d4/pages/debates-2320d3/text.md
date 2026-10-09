@@ -16,7 +16,8 @@ How to watch No stream announced yet.
 If the organizers share one, we’ll post the link here.
 On stage Alani Bankhead (D) · Seth Bodnar (I) · Kyle Austin (L).
 Kurt Alme (R) has been invited; the organizers were still awaiting his answer at their latest update.
-Already happened Thursday, October 1 · 7:00 pm Candidate forum Completed Montana U.S.
+Already happened Missed one?
+Watch the debates and forums on YouTube → Thursday, October 1 · 7:00 pm Candidate forum Completed Montana U.S.
 Senate Candidate Forum Hosted by the Beer Buds & the Big Sky podcast Where Whitefish Performing Arts Center, 127 Spokane Ave, Whitefish On stage Alani Bankhead (D) · Seth Bodnar (I) · Kyle Austin (L) How to watch The full recording is up, courtesy of Beer Buds & the Big Sky.
 Watch the recording Sunday, September 20 · 12:30–2:00 pm Candidate forum Completed Bankhead & Bodnar on the Issues Hosted by Indivisible Missoula Where Missoula Public Library, 455 E Main St, Missoula On stage Alani Bankhead (D) · Seth Bodnar (I) How to watch The full recording is up, courtesy of Missoula Community Television.
 Watch the recording Thursday, September 10 · 7:00 pm Candidate forum Completed AAUW & Dawson Community College Candidate Forum Hosted by AAUW Glendive and Dawson Community College Where Toepke Center Auditorium, Dawson Community College, 300 College Dr, Glendive On stage Alani Bankhead (D) · Seth Bodnar (I) · Kyle Austin (L) · Jami Dee Woodman (write-in).

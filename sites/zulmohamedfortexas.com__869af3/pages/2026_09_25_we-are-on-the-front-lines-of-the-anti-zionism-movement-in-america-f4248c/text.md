@@ -15,6 +15,9 @@ These people will be held accountable for their fundraising actions and ignoranc
 Holding IDF Personnel in America Accountable Those Americans who have served in the IDF will be tracked and brought to justice under my plan as senator.
 The fact that we as Americans allowed these individuals to take advantage of our society is sickening.
 In addition to their arrest and prosecution, any proceeds directed toward helping the IDF will be confiscated.
+End Military Recruiting No American in their right minds should willfully sign up for the U.S military.
+It is now a common fact that our troops are used for Israeli interests alone, and I will make sure that practice ends permanently.
+Until a better solution is reached, I will push to close all military recruiting offices, and halt all campus-related recruiting activities for high school and college students.
 Conclusion I will end all ties with Israel, as well as prosecute all individuals who have contributed to Israel’s crimes.
 Anti-Zionism by Zul Mohamed Leave a Reply Cancel Reply Your email address will not be published.
 Required fields are marked * Comment * Email * Name * Website Save my name, email, and website in this browser for the next time I comment.

@@ -16,7 +16,7 @@ Shoffner said she “only hired immigrants through the federal H-2A Temporary Ag
 She referred to him as having a ‘questionable social security number,'” the former employee told the Free Beacon.
 “But I realized what was going on when I had to pass out W2s in the spring, and his W2 I know had his son’s name on it, so I’m gonna say they were using his son’s social security number.
 The part-time [workers], their W2s had their daughters.” “Her and her parents always talked about them not being legal,” the former employee continued.
-“And so I figured out how they were getting W2s.” ### ← All News Share Older → Bombshell Employee Whistleblower Report Says U.S.
+“And so I figured out how they were getting W2s.” ### ← All News Share ← Newer Former Employee: Democrat Hallie Shoffner Knowingly Hired Illegal Aliens, Used Children’s Names on W-2s Older → Bombshell Employee Whistleblower Report Says U.S.
 Senate Candidate Hallie Shoffner Knowingly Employed Illegal Aliens, Lied to the Press We depend on you Stand with Tom.
 Stand with Arkansas.
 Your support helps Tom share our message and grow the team supporting it.

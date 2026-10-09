@@ -1,6 +1,7 @@
 Meet Melissa Issues Endorsements News Events Vote Yard Sign Contribute News & press.
 Coverage, endorsements, and announcements from the campaign for House District 60.
-August 27, 2026 Rutland Pitches Business Case in Bid to Flip House District 60 A day after her campaign kick-off at the St.
+September 2, 2026 Melissa Rutland Continues to Outraise Lindsay Polega-Quigley in Tough Fight for HD 60 Melissa has raised more than $# to her campaign since June and leads in cash on hand as Republicans eye a pickup in House District 60.
+Read More August 27, 2026 Rutland Pitches Business Case in Bid to Flip House District 60 A day after her campaign kick-off at the St.
 Petersburg Yacht Club, Melissa makes the case that HD 60 voters are ready to return the seat to the GOP.
 Read More August 4, 2026 Sheriff Bob Gualtieri Backs Melissa Rutland for HD 60 “A strong commitment to public safety.” Pinellas County Sheriff Bob Gualtieri endorses Melissa, citing her common-sense leadership and support for law enforcement.
 Read More July 14, 2026 Ken Burke and Mike Twitty Endorse Melissa Rutland The Clerk of the Circuit Court & Comptroller and the Property Appraiser trust Rutland to deliver commonsense solutions for Pinellas.

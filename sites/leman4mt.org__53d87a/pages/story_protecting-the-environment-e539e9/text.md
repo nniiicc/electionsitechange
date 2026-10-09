@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Protecting the Environment × In Montana, loving the outdoors isn't a political stance.
+Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Montana Common Sense Protecting the Environment × In Montana, loving the outdoors isn't a political stance.
 It's a way of life.
 We value a clean and healthful environment so much that we explicitly put it right into our state constitution.
 Whether you're fishing the Gallatin River, packing into the backcountry out of West Yellowstone, or working up in Big Sky, our outdoor heritage is central to who we are.

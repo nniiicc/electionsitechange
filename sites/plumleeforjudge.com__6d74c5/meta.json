@@ -1,9 +1,13 @@
 {
  "description": "The official campaign website for Andrea Plumlee for Judge",
  "final_url": "https://plumleeforjudge.com/",
- "fingerprint": "2ad6d6ed38ff848775503ff99c66fe269381614e",
+ "fingerprint": "8d31f18f51af59f512b654cd98e0bcaa5a689fd3",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "paid for by Andrea Plumlee for Judge Campaign P",
+ "rendered": true,
  "title": "Home - Plumlee for Judge",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026",
+  "2027"
+ ]
 }

@@ -36,10 +36,6 @@
 "href": "https://electbarnhill.net/category/announcements/"
 },
 {
-"text": "Blog",
-"href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
 "text": "Commentary",
 "href": "http://electbarnhill.net/commentary/feed"
 },
@@ -96,6 +92,10 @@
 "href": "https://electbarnhill.net/policy-positions/nevada-voter-roll-maintenance/"
 },
 {
+"text": "News",
+"href": "https://electbarnhill.net/news/"
+},
+{
 "text": "Policies",
 "href": "https://electbarnhill.net/policy-positions/"
 },
@@ -106,6 +106,10 @@
 {
 "text": "Policy Positions",
 "href": "http://electbarnhill.net/policy-positions/feed"
+},
+{
+"text": "Public Trust Starts With Elections Done Right",
+"href": "https://electbarnhill.net/policy-positions/public-trust-nevada-elections/"
 },
 {
 "text": "Read the full plan →",
@@ -134,10 +138,6 @@
 {
 "text": "Where’s My Ballot? How to Track Your Nevada Mail Ballot",
 "href": "https://electbarnhill.net/policy-positions/nevada-mail-ballot-tracking/"
-},
-{
-"text": "Why Paper Records for Nevada Elections Matter",
-"href": "https://electbarnhill.net/policy-positions/paper-records-for-nevada-elections/"
 },
 {
 "text": "[image: Footer Logo]footer logo image",

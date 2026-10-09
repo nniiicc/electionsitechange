@@ -1,0 +1,5 @@
+FOR IMMEDIATE RELEASE May 27, 2026 Contact: press@ericflores.com Eric Flores Calls Out Vicente Gonzalez for Failing to Show Up for South Texas SAN BENITO, TX - Eric Flores today exposed Congressman Vicente Gonzalez for missing over 200 votes in Congress, far more than the median member of Congress.
+“South Texas needs a fighter, not a no-show congressman,” said Flores.
+“While Vicente Gonzalez misses votes in Washington, South Texas continues falling behind on infrastructure, economic growth, and good-paying jobs.
+Families in TX-34 deserve a congressman who shows up, fights for our communities, and delivers real results instead of excuses.” Flores, a former federal prosecutor and former Infantry Captain, is running for Congress to bring stronger leadership, public safety, and accountability back to Texas’ 34th Congressional District.
+### PAID FOR BY ERIC FLORES FOR CONGRESS Eric Flores for Congress | PO Box 84 | San Benito, TX 78586 US Unsubscribe | Update Profile | Constant Contact Data Notice

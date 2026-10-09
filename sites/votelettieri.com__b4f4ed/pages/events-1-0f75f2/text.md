@@ -8,8 +8,9 @@ Main St, Clinton, CT 06413 Come knock doors with me!
 We’ll get you set up, pair you with someone if you’d like, and make sure you’re comfortable before heading out.
 Every door we reach means another conversation with a neighbor.
 Every volunteer helps us reach more voters!
-View Event → Oct 15 Candidate Phone Bank Thursday, October 15, 2026 5:00 PM 8:00 PM Google Calendar ICS 📅 Thursday, October 15 ⏰ 5:00 - 8:00 PM 📍 129 W.
-Main St, Clinton, CT 06413 Help us reach voters across the district!
+View Event → Oct 15 Candidate Phone Bank Thursday, October 15, 2026 5:00 PM 7:00 PM Google Calendar ICS 📅 Thursday, October 15 ⏰ 5:00 - 7:00 PM 📍 1261 Boston Post Road, Westbrook, CT (Next to Christy’s) Help us reach voters across the district!
+Join Cinzia and the campaign team for a phone bank to make calls, connect with neighbors, and help build momentum for Election Day.
+View Event → Oct 26 Candidate Phone Bank Monday, October 26, 2026 3:00 PM 5:00 PM Google Calendar ICS 📅 Thursday, October 15 ⏰ 5:00 - 7:00 PM 📍 1261 Boston Post Road, Westbrook, CT (Next to Christy’s) Help us reach voters across the district!
 Join Cinzia and the campaign team for a phone bank to make calls, connect with neighbors, and help build momentum for Election Day.
 View Event → Oct 4 Knock with Josh Elliott for Cinzia Lettieri Sunday, October 4, 2026 10:30 AM 12:30 PM Google Calendar ICS 📅 Sunday, October 4 ⏰ 10:30 AM - 12:30 PM 📍 129 W.
 Main St, Clinton, CT 06413 Come knock doors with Josh Elliott and I!

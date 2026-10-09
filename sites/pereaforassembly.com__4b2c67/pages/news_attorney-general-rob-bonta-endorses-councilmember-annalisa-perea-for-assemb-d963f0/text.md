@@ -12,4 +12,4 @@ Councilmember Perea is an effective consensus builder and will be a strong leade
 “I am deeply grateful and honored to have the trust and support of a public servant who has accomplished so much for the people of California.
 If Assembly District 31 voters decide to send me to the legislature, I will look forward to working with Attorney General Bonta to keep our towns and neighborhoods safe.” Annalisa Perea currently serves on the Fresno City Council and was elected Council President in 2024.
 A lifelong Central Valley resident and certified city planner, Perea’s work has focused on delivering results for working families, expanding opportunity, and supporting those who serve our communities and our nation.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

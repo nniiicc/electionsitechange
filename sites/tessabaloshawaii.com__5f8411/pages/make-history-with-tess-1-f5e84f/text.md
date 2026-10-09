@@ -1,4 +1,4 @@
-Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec More Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Volunteer for T.E.S.S.
+Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events More Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events Volunteer for T.E.S.S.
 Join Team T.E.S.S.
 Whether you have one hour a month or several hours a week, I’d love to have you on my campaign team.
 Ways You Can Help 🚪 Door-to-Door Canvassing 📞 Phone Banking 👋 Sign Waving 📱 Social Media Ambassador 🎉 Help at Campaign Events 💙 Assist with Fundraising 🏡 Display a Yard Sign Ready to Get Involved?

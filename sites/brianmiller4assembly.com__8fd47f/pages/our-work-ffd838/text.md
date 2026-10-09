@@ -1,4 +1,4 @@
-top of page Donate Volunteer Donate Home Meet Brian Our Work Our District Map Photo Gallery Our Work Infrastructure ​ As the state representative of a district that covered seven counties, I have driven across roads from the Mohawk Valley to Orange County.
+top of page Donate Volunteer Donate Home PRIVACY POLICY Meet Brian Our Work Our District Map Photo Gallery Our Work Infrastructure ​ As the state representative of a district that covered seven counties, I have driven across roads from the Mohawk Valley to Orange County.
 The state needs to make an investment in improving our roads and bridges – there are billions in unmet infrastructure needs.
 Fixing upstate New York’s failing infrastructure is a top priority of mine.
 We can achieve this by securing more funding for the Consolidated Local Street and Highway Program (CHIPS) and Bridge-NY.
@@ -127,4 +127,4 @@ This bill aims to reduce the cost of expanding broadband access throughout New Y
 There is still much work that needs to be done and bring us into the 21st century.
 Copyright © # Brian Miller for Assembly - All Rights Reserved.
 P.O.
-Box 16, Sauquoit, NY 13456 Home Meet Brian Our Work Our District Map Photo Gallery bottom of page
+Box 16, Sauquoit, NY 13456 Home PRIVACY POLICY Meet Brian Our Work Our District Map Photo Gallery bottom of page

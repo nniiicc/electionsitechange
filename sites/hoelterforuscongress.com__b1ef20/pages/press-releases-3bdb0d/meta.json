@@ -1,7 +1,12 @@
 {
  "description": "This page contains campaign news, key updates, and official statements. Our goal is to keep supporters informed and engaged as we move forward together. Check back often for new updates and important information.",
  "final_url": "https://www.hoelterforuscongress.com/press-releases/",
- "paid_for_by": "PAID FOR BY CHARLES HOELTER FOR CONGRESS Copyright &copy; 2026 by Charles Hoelter",
+ "fingerprint": "9fece495b68f1084f1a9eeb46c022beebfff44f1",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY CHARLES HOELTER FOR CONGRESS Copyright © # by Charles Hoelter",
+ "rendered": false,
  "title": "Press releases - Charles Hoelter",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

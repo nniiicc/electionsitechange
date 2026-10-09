@@ -16,10 +16,6 @@
 "href": "https://afcguam.com/events/today/"
 },
 {
-"text": "Early Voting Starts for General Election",
-"href": "https://afcguam.com/event/early-voting-starts-for-general-election/"
-},
-{
 "text": "Events",
 "href": "https://afcguam.com/events/"
 },
@@ -53,7 +49,7 @@
 },
 {
 "text": "Next Day",
-"href": "https://afcguam.com/events/2026-10-09/"
+"href": "https://afcguam.com/events/2026-10-10/"
 },
 {
 "text": "Outlook 365",
@@ -69,7 +65,7 @@
 },
 {
 "text": "Previous Day",
-"href": "https://afcguam.com/events/2026-10-07/"
+"href": "https://afcguam.com/events/2026-10-08/"
 },
 {
 "text": "[image: Alicia for Congress]",
@@ -77,14 +73,18 @@
 },
 {
 "text": "[tooltip: Next day]",
-"href": "https://afcguam.com/events/2026-10-09/"
+"href": "https://afcguam.com/events/2026-10-10/"
 },
 {
 "text": "[tooltip: Previous day]",
-"href": "https://afcguam.com/events/2026-10-07/"
+"href": "https://afcguam.com/events/2026-10-08/"
 },
 {
 "text": "iCalendar",
 "href": "webcal://afcguam.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+},
+{
+"text": "next upcoming events",
+"href": "https://afcguam.com/events/2026-10-19/"
 }
 ]

@@ -1,9 +1,12 @@
 {
  "description": "Schellberg is running for PA State Representative in the 77th District, Centre County. Conservative leadership for our community.",
  "final_url": "https://schellbergforpa.com/",
- "fingerprint": "ac01d49879ea48f63560978d8dc9662b25d8d291",
+ "fingerprint": "8dccc4918fbc91df1035451182aea22bc3a10d3d",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Schellberg for PA",
+ "rendered": true,
  "title": "Michelle Schellberg for PA State Rep | 77th District",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

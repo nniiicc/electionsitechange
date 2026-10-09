@@ -1,4 +1,4 @@
-top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Donate COLORADO HOUSE DISTRICT 3 Action Over Talk Fighting for reproductive rights, labor equity, and a Colorado that works for everyone.
+top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Media Donate COLORADO HOUSE DISTRICT 3 Action Over Talk Fighting for reproductive rights, labor equity, and a Colorado that works for everyone.
 Join our movement.
 Meet Gena Volunteer for HD3 Our Priorities A clear vision for Colorado's future, built on the values that matter most to our community.
 Reproductive Rights Reproductive Rights Protecting bodily autonomy and ensuring access to comprehensive healthcare for all Coloradans.

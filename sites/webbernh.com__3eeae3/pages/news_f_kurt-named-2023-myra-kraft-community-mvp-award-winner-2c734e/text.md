@@ -1,0 +1,22 @@
+Click on the social media icons below for more information, photos and videos...
+Home News Contact Us More Home News Contact Us Home News Contact Us NEWS All Posts Kurt Named 2023 Myra Kraft Community MVP Award Winner July 23, 2024 President of the New England Patriots Foundation, Josh Kraft (far left), Patriots Pro Football Hall of Famer Andre Tippett and Procter & Gamble’s VP of Communications & Community Affairs, Global Grooming, Kara Buckley congratulate Kurt Webber from Camp Resilience for being selected as a 2023 Myra Kraft Community MVP Award winner.
+On June 8, 2023, Kurt Webber was one of 26 volunteers from throughout New England who were awarded the Myra Kraft Community MVP Award at an awards ceremony at Gillette Stadium.
+For the past 25 years, the Kraft family and the New England Patriots Foundation have been recognizing volunteers for going above and beyond to give back to their communities.
+“Hundreds of nonprofit organizations annually nominate candidates to be recognized and hearing the heartwarming stories of volunteerism restores faith in all humanity,” said Patriots Chairman and CEO Robert Kraft.
+“Myra loved volunteering and positively impacting the lives of others.
+I am proud that we continue to honor her legacy of volunteerism in association with this award ceremony and love giving people who do so much for so many the recognition of being a Community MVP.” Gillette, a longtime supporter of the New England Patriots and a cornerstone partner of the Patriots Foundation, served as the presenting sponsor for this year’s program.
+On hand to congratulate the award winners werePresident of Kraft Family Philanthropies Josh Kraft; Patriots, College and Pro Football Hall of Famer and Patriots Executive Director of Community Affairs Andre Tippett; and Procter & Gamble’s VP of Communications & Community Affairs, Global Grooming, Kara Buckley.
+Kurt Webber of Gilford, New Hampshire was recognized as one of the 2023 recipients of the Myra Kraft MVP Award and his nonprofit charity, Camp Resilience, was given a generous $# donation.
+When reentering the civilian world, Veterans and First Responders often lose the familiar culture and structure that a career of service provides.
+The effect can be isolating.
+Guided by research from the Office of the Chairman of Joint Chiefs of Staff, Kurt founded Camp Resilience in 2014.
+Camp Resilience uses a community collaborative approach to host therapeutic retreats to improve the health and resiliency of Veterans, First Responders and their families “As one of the founders, I am very proud that we have run over 100 Camp Resilience retreats since 2014,” said Kurt.
+“I am also proud that our retreats help military, veterans, and first responders cope with what can sometimes be the devastating consequences of their service – issues like PTSD, moral injury, depression and/or physical injuries.
+Since these psychological, emotional and physical issues not only affect the veterans and first responders but can also seriously affect their families and loved ones, we are proud to offer retreats to help them as well.
+These issues are a result of their service to us, their fellow citizens, so our team at Camp Resilience honors this by helping them bounce back and improve their lives.” The combination of outdoor recreation and facilitated peer to peer counseling makes a measurable difference in the lives of participants who have experienced mental health issues.
+Kurt has made it his mission to uplift every participant, so far reaching more than 1,000 individuals.
+More information on Camp Resilience can be found at https://www.camp-resilience.org/ .
+“My volunteer activities give more meaning and purpose to my life, and they make me feel good – which benefits my emotional and mental well-being,” said Kurt.
+“This is why at Camp Resilience we encourage the participants of our retreats to volunteer in their communities and give back as part of their healing process.
+This is a very meaningful and powerful way to not only help others but to also help yourself.” Share this post: Recent Posts Running for the NH State Senate Oct 1, 2026 Webber, running as a Democrat, challenges Lang for Senate seat Oct 1, 2026 Kurt Awarded NH Center for Nonprofits Board Impact Award Sep 27, 2022 Subscribe Sign up to hear from us about the issues and Kurt's campaign.
+Email Address Sign up Kurt Webber for NH Senate District 2 Paid for by Webber for NH, Kurt Webber Treasurer, 50 Foxglove Rd, Gilford, NH 03249 Powered by

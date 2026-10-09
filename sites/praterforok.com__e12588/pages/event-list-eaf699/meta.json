@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.praterforok.com/event-list",
- "fingerprint": "1743211e72c29964e28f0c6c3fe20455723a68eb",
+ "fingerprint": "993fe8f502d4c5cb7cda3154f96eab3b3619e170",
  "format": 3,
- "paid_for_by": "",
- "title": "",
- "years_mentioned": []
+ "paid_for_by": "Paid for by Tiffany Prater for Oklahoma 2026 bottom of page",
+ "rendered": false,
+ "title": "Events | Prater For Oklahoma",
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,7 +1,7 @@
 Endorsed by President Donald J.
 Trump Meet Brandon Issues Endorsements Press Releases Volunteer Shop DONATE Donate brandongillforcongress.com Donate Meet Brandon Issues Endorsements Press Releases Volunteer Shop Donate http://brandongillforcongress.com/endorsements/kari-lake Kari Lake Kari Lake endorses Brandon Gill for Congress TX-26 Follow us Read our latest news on any of these social networks!
 Get latest news delivered daily!
-We will send you breaking news right to your inbox Join Us Get Updates Recent Articles Join Us By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+We will send you breaking news right to your inbox Join Us Get Updates Recent Articles placeholder-1-1 placeholder-1 placeholder Join Us By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed messages to the phone number you provide.
 Msg&data rates may apply.
 Msg frequency varies.

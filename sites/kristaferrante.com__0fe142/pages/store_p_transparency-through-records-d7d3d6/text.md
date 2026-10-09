@@ -1,4 +1,4 @@
-0 Skip to Content Home Disclaimer Donate Open Menu Close Menu Open Menu Close Menu Home Disclaimer Donate Home Disclaimer Donate Store › Transparency through Records Transparency through Records $0.00 As an experienced records manager, Krista knows the key to transparency in government is a robust records management program.
+0 Skip to Content Donate Home Disclaimer Open Menu Close Menu Open Menu Close Menu Donate Home Disclaimer Donate Home Disclaimer Store › Transparency through Records Transparency through Records $0.00 As an experienced records manager, Krista knows the key to transparency in government is a robust records management program.
 She will drive policies that will modernize the state’s electronic records program and propose legislation that strengthens the recordkeeping requirements for the legislature.
 Add To Cart Added!
 As an experienced records manager, Krista knows the key to transparency in government is a robust records management program.

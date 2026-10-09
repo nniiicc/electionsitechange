@@ -1,0 +1,5 @@
+Financial Contributions and Support Alexander Hale for Congress Make Your Check Payable To: Alexander Hale for Congress Mail To: Alexander Hale for Congress 448 W 19th St #406 Houston, TX 77008 Contribution Limits: Primary Election $3,500 maximum General Election $3,500 maximum Total Maximum: $7,000 ($3,500 primary + $3,500 general) On the Memo Line, Write: If giving up to $3,500: If giving $7,000 (max out): "Primary" "$3,500 primary / $3,500 general" Required Information (for donations over $200): Please include the following on a note with your check or email to info@halefortexas.com: • Full Legal Name • Mailing Address • Employer • Occupation Federal law requires us to collect and report the name, mailing address, occupation, and employer of individuals whose contributions exceed $200 in an election cycle.
+Contributions are not tax-deductible.
+Contributions from corporations, labor unions, foreign nationals, and federal government contractors are prohibited.
+Questions?
+Contact us at info@halefortexas.com www.halefortexas.com Thanks for your support.

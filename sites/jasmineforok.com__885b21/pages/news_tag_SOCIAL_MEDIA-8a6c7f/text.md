@@ -1,0 +1,5 @@
+0 Skip to Content HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER MERCH NEWS MEDIA THE RECORD NEWS + MEDIA ARCHIVE N'Kiyla Jasmine Thomas has won the Democratic runoff for the U.S.
+Senate.
+Thomas now faces Republican Kevin Hern in the November 3rd election.
+KOKH - FOX 25 WATCH NOW MENTIONS Nkiyla Thomas 10/1/26 MENTIONS Nkiyla Thomas 10/1/26 President trump: “NA-Kee-La Thomas is running for U.S.
+Senate” Read More MENTIONS Nkiyla Thomas 11/16/25 MENTIONS Nkiyla Thomas 11/16/25 World star: “FROM NURSE TO NOMINEE Oklahoma Senate Candidate N’Kiyla “Jasmine” Thomas Goes Viral… Got Voters Saying She’s The First Politician They’d Stand Behind” Read More Grassroots, community-driven, people-powered. © # Paid for By N'Kiyla For OK All Rights Reserved.

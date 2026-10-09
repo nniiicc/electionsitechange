@@ -1,5 +1,9 @@
 [
 {
+"text": "?",
+"href": "https://fastaction.ngpvan.com##whats-this"
+},
+{
 "text": "Donate",
 "href": "https://secure.actblue.com/donate/dan-blue-1"
 },
@@ -28,6 +32,10 @@
 "href": "https://danblueforsenate.org/about/"
 },
 {
+"text": "NGP VAN",
+"href": "http://www.ngpvan.com/"
+},
+{
 "text": "News and Events",
 "href": "https://danblueforsenate.org/news-and-events/"
 },
@@ -38,5 +46,17 @@
 {
 "text": "[image: Dan Blue For Senate]",
 "href": "https://danblueforsenate.org/"
+},
+{
+"text": "danblueforsenate.org",
+"href": "http://danblueforsenate.org"
+},
+{
+"text": "privacy policy.",
+"href": "https://fastaction.ngpvan.com/privacy"
+},
+{
+"text": "terms of service",
+"href": "https://fastaction.ngpvan.com/terms"
 }
 ]

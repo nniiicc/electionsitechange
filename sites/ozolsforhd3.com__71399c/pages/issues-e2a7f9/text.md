@@ -1,4 +1,4 @@
-top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Donate ISSUES Practical Leadership.
+top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Media Donate ISSUES Practical Leadership.
 Meaningful Results.
 My approach to public policy is grounded in a simple goal: making Colorado a place where people can afford to live, raise a family and build a future.
 I’ve spent my career working in coalitions to turn those values into real policy, and I want to bring that same experience to the legislature.

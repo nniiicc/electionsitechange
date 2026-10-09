@@ -1,5 +1,5 @@
 top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
-DONATE Log In All Posts Campaign Education Law Enforcement Search A Dangerous Step Backward for Our Kids Laurie Parman Ed .D Sep 25, 2025 2 min read As a 30-year educator in Illinois public schools and a proud conservative who believes in accountability, merit, and helping students to “struggle forward” , I am deeply troubled by the Illinois State Board of Education's recent decision to slash proficiency standards on state assessments.
+DONATE Log In All Posts Campaign & PSA EXCELLENCE in Education SAFER Communities FINANCIAL Reform Search A Dangerous Step Backward for Our Kids Laurie Parman Ed .D Sep 25, 2025 2 min read As a 30-year educator in Illinois public schools and a proud conservative who believes in accountability, merit, and helping students to “struggle forward” , I am deeply troubled by the Illinois State Board of Education's recent decision to slash proficiency standards on state assessments.
 This move, approved just weeks ago, isn't the "alignment" with national benchmarks that officials are spinning—it’s a classic case of “smoke and mirrors”.
 Lowering the Bar Lowering the bar to hide failure erodes the rigor that our students desperately need.
 It is built on the faulty premise that struggle is bad, when the exact opposite is true.
@@ -25,6 +25,6 @@ A Call to Action: Reclaim Rigor for Illinois Students We can't let this stand, w
 I urge parents to attend school board meetings, contact legislators, and demand vertical alignment ensuring standards build year over year without these gimmicks.
 Let's advocate for school choice, phonics-based reading, and math that emphasize fundamentals over fads.
 Act Now!
-Education Recent Posts See All SCHOOL CHOICE.
+EXCELLENCE in Education Recent Posts See All SCHOOL CHOICE.
 OUR CHOICE.
 Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

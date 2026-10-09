@@ -1,4 +1,4 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Constituent Services Need help from the state?
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Constituent Services Need help from the state?
 That's what we're here for.
 If you live in House District 77 — anywhere in central El Paso, downtown, UTEP, or Mission Valley — and you're stuck dealing with a state agency, a school district, or a benefit application, our district office can help.
 We track every case.
@@ -19,7 +19,7 @@ District office 100 N.
 Ochoa, Suite A El Paso, Texas 79901 (915) 440-HD77 (4377) Capitol office Room E2.312 P.O.
 Box 12910 Austin, Texas 78711-2910 (512) 463-0638 Are you in HD 77?
 Find out: Who Represents Me?
-VINCE PEREZ Fighting for Texas.
+Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

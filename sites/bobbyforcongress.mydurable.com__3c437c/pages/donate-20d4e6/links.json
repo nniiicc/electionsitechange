@@ -4,6 +4,10 @@
 "href": "https://bobbyforcongress.mydurable.com/"
 },
 {
+"text": "Contact",
+"href": "https://bobbyforcongress.mydurable.com/donate"
+},
+{
 "text": "Donate Now",
 "href": "https://bobbyforcongress.mydurable.com/donate"
 },
@@ -14,5 +18,9 @@
 {
 "text": "Donate Now -$2,900 Max Amt",
 "href": "https://buy.stripe.com/4gw00q03bdaR7BufYY"
+},
+{
+"text": "Durable",
+"href": "https://durable.co?referrer=https%3A%2F%2Fbobbyforcongress.mydurable.com"
 }
 ]

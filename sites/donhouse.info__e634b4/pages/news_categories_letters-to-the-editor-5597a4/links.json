@@ -4,6 +4,10 @@
 "href": "https://www.donhouse.info/about"
 },
 {
+"text": "All Articles",
+"href": "https://www.donhouse.info/news"
+},
+{
 "text": "Contact",
 "href": "https://www.donhouse.info/contact"
 },
@@ -70,9 +74,5 @@
 {
 "text": "[image: White Twitter Icon]",
 "href": "https://twitter.com/House4Belmont"
-},
-{
-"text": "[no text]",
-"href": "https://www.donhouse.info/news"
 }
 ]

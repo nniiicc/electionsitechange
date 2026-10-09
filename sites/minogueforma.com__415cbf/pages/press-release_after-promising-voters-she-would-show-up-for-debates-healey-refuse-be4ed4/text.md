@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Donate Days since Maura Healey promised a gas-tax suspension: Days Hours Min Sec Demand Action!
-Home Meet Mike Meet Renee Blueprint for a Better Future In The News Get Involved Make a Plan to Vote Store Donate After promising voters she would “show up for debates,” Healey refuses debate Press Release | September 25, 2026 HAMILTON, Mass. — Candidate for governor Mike Minogue calls on Maura Healey to keep her promise to Massachusetts voters and accept WWLP’s invitation to debate in Western Massachusetts.
+Home Meet Mike Meet Renee Blueprint for a Better Future In The News Events Get Involved Make a Plan to Vote Store Donate After promising voters she would “show up for debates,” Healey refuses debate Press Release | September 25, 2026 HAMILTON, Mass. — Candidate for governor Mike Minogue calls on Maura Healey to keep her promise to Massachusetts voters and accept WWLP’s invitation to debate in Western Massachusetts.
 It comes after Healey rejected an invitation to debate on WFXT-TV, despite telling voters on September 2nd she and Lt.
 Gov.
 Kim Driscoll would “show up.” “I know where Kim and I are, and I know where we’re going to continue be the next 62 days, including showing up for debates,” said Healey.

@@ -1,6 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Donate Days since Maura Healey promised a gas-tax suspension: Days Hours Min Sec Demand Action!
-Meet Mike Meet Renee Blueprint for a Better Future In The News Get Involved Make a Plan to Vote Store Donate Mike Minogue A New Kind of Governor For Massachusetts Announcement Video An Autumn Evening with Mike Minogue Join us in Westport on Thursday, October 1 from 7:00-9:00pm to hear how Mike Minogue will make Massachusetts the best place to live, work and raise a family.
-RSVP Today Meet Mike Minogue Mike Minogue is a man of faith, husband, father, combat veteran, and business leader who took Abiomed from an idea to the global standard of cardiac care.
+Meet Mike Meet Renee Blueprint for a Better Future In The News Events Get Involved Make a Plan to Vote Store Donate Mike Minogue A New Kind of Governor For Massachusetts Announcement Video Join Mike on the trail: find an event near you Meet Mike Minogue Mike Minogue is a man of faith, husband, father, combat veteran, and business leader who took Abiomed from an idea to the global standard of cardiac care.
 Now, he’s focused on putting Massachusetts first.
 Learn More Massachusetts is working for some, but not all.
 Families are being squeezed by rising costs and ignored by politicians who put themselves before the people.

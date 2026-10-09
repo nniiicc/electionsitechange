@@ -1,9 +1,10 @@
 {
  "description": "See Suzanne’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/SuzanneLuther/events/",
- "fingerprint": "fdf7dceb9b5fafd25a8c4599571b54b41012218d",
+ "fingerprint": "8b78d26f3b3678ee6eaf49305179ac638a8c951c",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Suzanne Luther Events",
  "years_mentioned": [
   "2026"

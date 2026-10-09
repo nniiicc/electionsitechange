@@ -1,9 +1,7 @@
 0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Campaign Events Join Representative Goodwin on her journey to visit every corner of our great state before Election Day!
 Interested in having Rep.
 Goodwin attend an event in your area?
-Please drop us an email to info@VikkiGoodwin.com Oct 8 Reception — Houston Heights Thursday, October 8, 2026 8:00 PM 8:00 PM Location provided upon RSVP (map) Google Calendar ICS Houston Heights Reception for Vikki Goodwin RSVP HERE Please join David and Sandy Steitz for a reception in support of Vikki Goodwin in The Heights.
-Address provided upon RSVP.
-View Event → Oct 10 Blockwalk — Dallas Saturday, October 10, 2026 12:00 PM 3:00 PM Kickoff @ Cuquita's Restaurant (map) Google Calendar ICS Blockwalk with Vikki and Democratic nominee for Congress Kevin Burge in Dallas!
+Please drop us an email to info@VikkiGoodwin.com Oct 10 Blockwalk — Dallas Saturday, October 10, 2026 12:00 PM 3:00 PM Kickoff @ Cuquita's Restaurant (map) Google Calendar ICS Blockwalk with Vikki and Democratic nominee for Congress Kevin Burge in Dallas!
 RSVP HERE We're knocking doors and talking with voters across Dallas County to make sure every Democrat has a plan to vote.
 Talking to voters face-to-face is one of the most effective ways to win, and every door counts.
 What to expect: We'll start with a quick training and get you set up with a walk packet and the MiniVAN app.
@@ -93,6 +91,8 @@ If you do not possess a form of acceptable photo identification and you cannot r
 The election official will ask if you have moved and then ask you to sign the list of people who have voted in the precinct.
 You will be handed one of the following: A paper ballot on which you will select your choices and which will be counted by hand; A paper ballot on which you will select your choices by darkening an oval, completing an arrow, or “marking” with the aid of a voting machine; or A slip of paper with a numerical access code or, in some counties, a ballot activator card.
 In the next available voting booth, enter your code or card and let the on-screen instructions guide you through the process of electronic voting. ➜ Find more information here , including Mail-In Voting, Emergency Ballots Due To Death in the Family, Curbside Voting, Assistance at the Polls, and more.
+View Event → Oct 8 Reception — Houston Heights Thursday, October 8, 2026 8:00 PM 8:00 PM Location provided upon RSVP (map) Google Calendar ICS Houston Heights Reception for Vikki Goodwin RSVP HERE Please join David and Sandy Steitz for a reception in support of Vikki Goodwin in The Heights.
+Address provided upon RSVP.
 View Event → Oct 7 Meet & Greet — UT Arlington Wednesday, October 7, 2026 12:00 PM 2:00 PM UTA Library Mall (map) Google Calendar ICS Join Mav Democrats at UT Arlington for a meet-and-greet with Vikki Goodwin featuring brief remarks, a moderated discussion, and an opportunity for students to engage with her.
 RSVP HERE View Event → Oct 5 Voter Registration Deadline Monday, October 5, 2026 7:00 AM 5:00 PM Texas (map) Google Calendar ICS The deadline to register to vote or update your voter information is 5 PM on October 5, 2026 to be eligible to vote in the midterm elections.
 First time voter registration must be done BY MAIL or IN PERSON.
@@ -349,32 +349,7 @@ Thank you to our host committee: Congressman Joaquin Castro, Rep.
 Barbara Gervin-Hawkins, Rep.
 Diego Bernal, Rep.
 Ray Lopez, Former Rep.
-Ina Minjarez View Event → Jul 21 The People's Hearing Houston Tuesday, July 21, 2026 6:00 PM 8:00 PM HCDE Adult Education (map) Google Calendar ICS Join me in Houston on July 21 with the Texas Legislative Progressive Caucus.
-This hearing gives Houstonians a direct line to their elected officials to be heard on their economic pains and communal grieving.
-RSVP here .
-Escucharemos a representantes estatales y locales, junto con expertos en la materia sobre los temas en discusión, y tendrás la oportunidad de presentar tu testimonio público directamente ante tus representantes electos.
-Hosted by Texas State Rep.
-Christina Morales in Houston, the Texas Legislative Progressive Caucus is bringing the State Legislature directly to the working families of Texas this summer.
-These “People’s Hearings" will deliver working Texans a real voice in their state legislature.
-What is TLPC?
-The Texas Legislative Progressive Caucus (TLPC) is working to lower the cost of living for all working Texans, regardless of race, heritage, or creed.
-As elected members of the Texas House of Representatives and the Texas Senate, we introduce and advocate for forward-thinking legislation that puts working families first in the Texas Legislature.
-TLPC provides resources and support to its members and partners with grassroots communities across Texas.
-Who/ Quién : State Representatives/ Representantes Estatales : Christina Morales, Treasurer-TLPC, HD 145, Host Vikki Goodwin, Whip-TLPC, HD 47 Ana-María Rodríguez Ramos, Chair-TLPC, HD 102 Ron Reynolds, Chair Emeritus-TLPC, HD 27 Penny Morales Shaw, HD 148 Suleman Lalani, HD 76 Lauren Ashley Simmons, HD 146 Location/ Ubicación : HCDE Adult Education 6515 Irvington Blvd, Houston, TX 77022 Date/ Fecha : Tuesday, July 21st, 2026; Martes, 21 de julio de 2026 Time/ Tiempo : 6pm – 8pm Doors Open: 5:30 PM; Apertura de puertas: 5:30 PM Program Begins: 6:00 PM; El programa Comienza a las 6:00 PM Program Concludes: 8 PM; El programa Finaliza a las 8 PM Parking/ Aparcamiento : First floor parking garage.
-Estacionamiento en el primer piso ¡Bienvenidos a las Audiencias Populares!
-Organizado por la Representante Estatal de Texas, Christina Morales, en Houston, el Caucus Legislativo Progresista de Texas acercará la Legislatura Estatal directamente a las familias trabajadoras de Texas este verano.
-Sus representantes electos en la Cámara de Representantes y el Senado de Texas celebrarán audiencias públicas en todo el estado, escucharán las historias de los texanos que atraviesan dificultades y expondrán las barreras que impiden que nuestras familias prosperen.
-Organizado por la Representante Estatal de Texas, Christina Morales, en Houston, el Caucus Legislativo Progresista de Texas acercará la Legislatura Estatal directamente a las familias trabajadoras de Texas este verano.
-Sus representantes electos en la Cámara de Representantes y el Senado de Texas celebrarán audiencias públicas en todo el estado, escucharán las historias de los texanos que atraviesan dificultades y expondrán las barreras que impiden que nuestras familias prosperen.
-Los inmigrantes son la fuerza laboral de los puertos, las cocinas, las obras de construcción y los pequeños negocios de Houston.
-Cuando agentes enmascarados en vehículos sin distintivos aterrorizan a nuestra fuerza laboral, perjudican a los pequeños negocios y a la economía local.
-Esta audiencia ofrece a los habitantes de Houston una vía directa para comunicarse con sus representantes electos y expresar sus dificultades económicas y su dolor colectivo.
-Esta audiencia ofrece a los habitantes de Houston una vía directa para comunicarse con sus representantes electos y expresar sus dificultades económicas y su dolor colectivo.
-Nuestras “Audiencias Populares” brindarán a los trabajadores de Texas una voz real en la legislatura estatal. ¿Qué es TLPC?
-El Caucus Legislativo Progresista de Texas (TLPC) trabaja para reducir el costo de vida de todos los trabajadores texanos, sin importar su raza, origen o credo.
-Como miembros electos de la Cámara de Representantes y del Senado de Texas, presentamos y promovemos legislación innovadora que prioriza a las familias trabajadoras en la Legislatura de Texas.
-TLPC brinda recursos y apoyo a sus miembros y colabora con comunidades locales en todo Texas.
-View Event → Hear From Vikki By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from the Vikki Goodwin Campaign.
+Ina Minjarez View Event → Hear From Vikki By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from the Vikki Goodwin Campaign.
 Vikki Goodwin Campaign’s mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 Messages may include donation asks.
 Message and data rates may apply.

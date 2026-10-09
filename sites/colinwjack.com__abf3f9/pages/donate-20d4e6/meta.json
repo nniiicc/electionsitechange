@@ -1,9 +1,10 @@
 {
  "description": "Donate with Venmo",
  "final_url": "https://www.colinwjack.com/donate",
- "fingerprint": "fb0372bca300a71067a418d0e1e85e503946e166",
+ "fingerprint": "fc9894f1d4aeeebec6b9498b5db66fd8d761cc38",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Colin W. Jack - Donate",
  "years_mentioned": [
   "2023",

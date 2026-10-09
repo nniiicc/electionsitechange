@@ -1,7 +1,7 @@
 top of page Open Site Navigation Close Site Navigation Donate Meet J.D.
 Platform Contact News Events Endorsements Volunteer Merch Media Kit DONATE Meet J.D.
 Platform Contact News Platform Contact News Events Endorsements Volunteer Merch Media Kit Donate All Posts Press Release J.D.
-Ford Exposes Victoria Spartz’s Corruption and Votes Against Hoosiers JD Ford #ago 1 min read Ford Campaign Releases New Ad Exposing Victoria Spartz’s Corruption and Votes Against Hoosiers Watch the ad HERE Carmel, IN - J.D.
+Ford Exposes Victoria Spartz’s Corruption and Votes Against Hoosiers JD Ford Oct 1 1 min read Ford Campaign Releases New Ad Exposing Victoria Spartz’s Corruption and Votes Against Hoosiers Watch the ad HERE Carmel, IN - J.D.
 Ford’s campaign today released a new ad as part of a six-figure buy on broadcast TV, cable and streaming, exposing Victoria Spartz’s corruption and self-dealing.
 The ad spells out the various ways she has benefited from her position in Congress and sided with her corporate donors at the expense of Hoosier families.
 “Congresswoman Spartz has spent her time in Congress working for big corporations, enriching herself while voting against Hoosiers,” said Ford.

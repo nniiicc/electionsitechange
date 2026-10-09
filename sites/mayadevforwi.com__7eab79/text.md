@@ -10,8 +10,7 @@ I’ve spent my career working to advance the well-being of all children and fam
 You have to be at the table with a smart and strategic plan.
 Every day, I am working for you and your family in the State Assembly.
 Together, we are moving Wisconsin Forward!
-Representative for Wisconsin Assembly District 77 Invest in Wisconsin's Future and Donate Now DONATE Representative Mayadev speaking on the Assembly floor in support of honoring May as Asian American and Pacific Islander Heritage Month.
-KEY ISSUES: PROTECTING OUR FUTURE PROMISE Mayadev with her mentor Marian Wright Edelman, founder of the Children's Defense Fund and Civil Rights Hero.
+Representative for Wisconsin Assembly District 77 Invest in Wisconsin's Future and Donate Now DONATE KEY ISSUES: PROTECTING OUR FUTURE PROMISE Mayadev with her mentor Marian Wright Edelman, founder of the Children's Defense Fund and Civil Rights Hero.
 Championing Reproductive Freedom Strengthening Public Education Providing Healthcare for All Enacting Climate Justice Ending Gun Violence Safeguarding Democracy LEARN MORE Working for you Representative Mayadev speaking at a press conference alongside childcare providers, parents, and policymakers on the urgent need to improve access to affordable childcare.
 A proud Wisconsinite and a daughter of immigrants, Mayadev believes in hard work and preserving the American dream.
 She has been a lifelong advocate for people who need and deserve a voice in our democracy.

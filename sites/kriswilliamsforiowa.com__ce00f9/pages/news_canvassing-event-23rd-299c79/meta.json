@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/canvassing-event-23rd",
- "fingerprint": "919666b787f526a3551c64b37ce660442f2cb5a7",
+ "fingerprint": "c213f677963da334c2afadcbe6f5017dd2cbb679",
  "format": 3,
  "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Canvassing Event",
  "years_mentioned": [
   "2026"

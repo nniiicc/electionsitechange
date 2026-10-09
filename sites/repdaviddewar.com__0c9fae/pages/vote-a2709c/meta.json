@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.repdaviddewar.com/vote",
- "fingerprint": "70782d3fa1315ca6d1b22d6e15172554923a0138",
+ "fingerprint": "a6ddb25b62c345cd4d831cba4fbb99da53c1cea8",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

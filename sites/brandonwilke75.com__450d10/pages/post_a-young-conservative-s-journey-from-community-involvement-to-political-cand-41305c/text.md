@@ -1,5 +1,5 @@
 top of page Home Media Blog Mission Issues Events Notifications Use tab to navigate through the menu items.
-DONATE All Posts Search A Young Conservative’s Journey: From Community Involvement to Political Candidacy in Missouri bwilke9 #ago 9 min read In the heart of North County in St.
+DONATE All Posts Search A Young Conservative’s Journey: From Community Involvement to Political Candidacy in Missouri bwilke9 Sep 30 9 min read In the heart of North County in St.
 Louis, Missouri lies District 75, a community rich in hardworking families and genuine everyday Americans.
 Here, a young former HVAC technician turned political candidate is reshaping what it means to represent the people.
 Brandon Wilke’s journey from fixing HVAC systems in basements to knocking over 1,250 doors as the youngest candidate running in Missouri’s House District 75 paints a vivid picture of grassroots democracy in action.

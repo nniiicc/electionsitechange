@@ -10,5 +10,7 @@ He was homeless at 14, and today works at a shelter supporting women experiencin
 Ismael has led community efforts on substance misuse prevention, housing, and public health.
 Raised by a working-class immigrant family, Ismael is running to fund our schools, repair our streets, make health care and housing affordable, and protect us from ICE - all to make Milwaukee stronger.
 MEET ISMAEL VOLUNTEER DONATE Proudly Endorsed By: JoCasta Zamarripa Milwaukee Alderperson, Former State Representative Priscilla Prado State Representative Aaron Lipski Milwaukee public safety leader View All Endorsements ELECTION DAY IS NOVEMBER 3, 2026 Let’s build a stronger Milwaukee , together!
-DONATE $5 $25 $100 $50 Custom $500 VOLUNTEER REGISTER TO VOTE CONTACT: HELLO@ISMAELLUNA.COM To donate to the campaign via check, write checks to “Ismael Luna for Assembly” and send to: 2641 S 15th Pl, Milwaukee, WI 53215 or donate online here .
+DONATE $5 $25 $100 $50 Custom $500 Ismael Luna for Assembly accepts individual and non-corporate PAC contributions up to the legal limits.
+Ismael has refused to fund his campaign with corporate PAC money; any corporate PAC checks will be returned or donated to a charity or progressive political organization.
+VOLUNTEER REGISTER TO VOTE CONTACT: HELLO@ISMAELLUNA.COM To donate to the campaign via check, write checks to “Ismael Luna for Assembly” and send to: 2641 S 15th Pl, Milwaukee, WI 53215 or donate online here .
 A NEIGHBOR WORKING FOR US PAID FOR BY ISMAEL LUNA FOR ASSEMBLY Privacy Policy Language ▾ Google Translate English Español Français Deutsch Português Italiano 中文 عربي

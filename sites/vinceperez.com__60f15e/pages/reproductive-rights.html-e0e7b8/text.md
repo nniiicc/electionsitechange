@@ -1,4 +1,4 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Reproductive Rights · HB 7 Texas put a $100,000 bounty on anyone who helps her.
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Reproductive Rights · HB 7 Texas put a $100,000 bounty on anyone who helps her.
 In September 2025, during a second special session, Texas passed HB 7 — the abortion-pill ban.
 Instead of enforcing it through the state, lawmakers revived the SB 8 "bounty hunter" model: any private citizen can sue anyone who helps a Texan get abortion medication, for at least $100,000.
 On the floor, Vince named the cruelty that mechanism unleashes. ▶ Watch the HB 7 floor remarks · September 2025 · Texas House floor What HB 7 actually does House Bill 7 — first pushed as SB 2880 during the regular session, then passed in the second special session and signed by Governor Abbott — targets the out-of-state telehealth networks, digital pharmacies, and shield-law providers mailing medication abortion (mifepristone and misoprostol) to Texans.
@@ -29,7 +29,7 @@ Think about that." "This bill gives more time to enforce control over her body t
 That is the cruelty and insanity of republicanism in 2025." Stand with the women of Texas.
 HB 7 is law — but this fight isn't over.
 Help elect a representative who will keep fighting for the women of El Paso and Texas.
-Donate to the fight Sign up for updates VINCE PEREZ Fighting for Texas.
+Donate to the fight Sign up for updates Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

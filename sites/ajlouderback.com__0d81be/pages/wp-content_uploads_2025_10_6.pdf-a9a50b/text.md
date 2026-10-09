@@ -1,0 +1,4 @@
+CONSTITUTIONAL AMENDMENTS ELECTION PROPOSITION 17 WHAT: Allows the Legislature to exempt border security infrastructure from being appraised as an improvement for the purposes of property taxation.
+WHY: The Texas Facilities Commission often builds border infrastructure on private land.
+This can lead to an increase in that land’s appraised property value.
+Individuals who volunteer to help establish and maintain border security infrastructure on their property should not be punished through higher taxes on their property but should be rewarded for contributing to the government’s efforts to secure the southern border To read the text and full explanations of these amendments yourself, search for the HJR or SJR associated with each proposition on www.Capitol.Texas.gov ELECTION DAY: NOVEMBER 4, 2025 Early Voting: October 20-31 Apply for Mail Ballot By: October 24

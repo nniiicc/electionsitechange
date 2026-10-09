@@ -1,4 +1,4 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Floor Remarks · August 22, 2025 Rep.
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Newsroom Services Contact Donate Floor Remarks · August 22, 2025 Rep.
 Vince Perez delivers floor remarks opposing HB 4, Texas House redistricting proposal Watch the full floor remarks Texas House floor · August 22, 2025 AUSTIN, TX — Today, the Texas House of Representatives took up House Bill 4, the chamber's redistricting proposal, for full debate.
 State Representative Vince Perez delivered remarks on the House floor opposing the measure, warning that the plan entrenches racial disparities in representation while denying fair political power to millions of Texans.
 The full text of Rep.
@@ -55,8 +55,8 @@ Speaker, I can no longer, in good conscience, support you.
 ### Vince Perez is State Representative for House District 77 in El Paso.
 He serves on the influential House Ways and Means Committee as well the committees on Higher Education and Local, Consent, and Resolutions Calendars.
 He is the former El Paso County Commissioner for Precinct 3 and was named the 2016 County Leader of the Year by American City & County Magazine.
-He is a lifelong resident of El Paso's Mission Valley, where he lives with his dogs Whiskey, Lady, and Manchas.
-Support the fight All press releases VINCE PEREZ Fighting for Texas.
+He is a lifelong resident of El Paso's Mission Valley, where he lives with his dogs Whiskey, Manchas, and Chamaco.
+Support the fight All press releases Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

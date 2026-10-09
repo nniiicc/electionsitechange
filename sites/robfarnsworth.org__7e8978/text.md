@@ -12,7 +12,7 @@ The values they embedded in our nation are still as important now as they have e
 VISION “I hope we once again have reminded people that man is not free unless government is limited….As government expands, liberty contracts.” Ronald Reagan PHILOSOPHY “I am a firm believer in the people.
 If given the truth, they can be depended upon to meet any national crisis.
 The great point is to bring them the real facts.” Abraham Lincoln VALUES “Let us labor for the security of free thought, free speech, pure morals, unfettered religious sentiments, and equal rights and privileges for all men, irrespective of nationality, color, or religion.” Ulysses Grant LEGACY “As we peer into society’s future, we — you and I, and our government — must avoid the impulse to live only for today, plundering for our own ease and convenience the precious resources of tomorrow.” Dwight Eisenhower Positions Rob’s position on important issues.
-Liberty Liberty Medical Freedom Medical Freedom Life Life Jobs Jobs Mining Mining Environment/Energy Environment/Energy 2nd Amendment 2nd Amendment Taxes Taxes Public Safety Public Safety State Budget State Budget Education Education Transportation Transportation It's a new day in the Northland! subscribe for updates Yes, send me campaign updates and volunteer opportunities from The Committee to Elect Rob Farnsworth.
+Liberty Liberty Medical Freedom Medical Freedom Life Life Jobs Jobs Mining Mining Environment/Energy Environment/Energy 2nd Amendment 2nd Amendment Taxes Taxes Public Safety Public Safety State Budget State Budget Education Education Transportation Transportation It's a new day in the Northland! subscribe for updates Yes, I agree to receive text messages, phone calls, and/or email updates and volunteer opportunities from The Committee to Elect Rob Farnsworth.
 By providing your phone number and checking this box, you consent to receive calls and text messages from The Committee to Elect Rob Farnsworth, which may include volunteer opportunities and requests for donations.
 Message frequency varies.
 Msg & data rates may apply.
@@ -20,7 +20,7 @@ Reply STOP to opt out and HELP for help.
 Consent is not required to volunteer or donate.
 Privacy Policy .
 SUBSCRIBE Thank you for subscribing! × There was an error trying to subscribe you.
-Please try again later. × It's a new day in the Northland! subscribe for updates Yes, send me campaign updates and volunteer opportunities from The Committee to Elect Rob Farnsworth.
+Please try again later. × It's a new day in the Northland! subscribe for updates Yes, I agree to receive text messages, phone calls, and/or email updates and volunteer opportunities from The Committee to Elect Rob Farnsworth.
 By providing your phone number and checking this box, you consent to receive calls and text messages from The Committee to Elect Rob Farnsworth, which may include volunteer opportunities and requests for donations.
 Message frequency varies.
 Msg & data rates may apply.

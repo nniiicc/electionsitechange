@@ -1,4 +1,4 @@
-Skip to content Home About Platform Donate Home About Platform Economic Opportunity Environment Government Accountability Healthcare Working Families Contact Us Donate Menu Economic Opportunity We need to encourage smart economic growth that preserves the unique nature of WNC and plays to our strengths.
+Skip to content Home About Platform Donate Home About Platform Economic Opportunity Education Environment Government Accountability Healthcare Working Families FAQ Contact Us Donate Menu Economic Opportunity We need to encourage smart economic growth that preserves the unique nature of WNC and plays to our strengths.
 I will work to get funding to make our infrastructure more resilient, and to repair the extensive damage from Helene.
 With my years of experience in economic development, I know how to balance recreation, conservation and job creation.
 The Problem Hurricane Helene taught us a valuable lesson: our infrastructure was inadequate.

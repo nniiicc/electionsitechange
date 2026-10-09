@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute As our State Assemblymember, Tasha works to: ENSURE PUBLIC SAFETY Tasha is deeply committed to public safety and protecting San Diego neighborhoods.
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute As our State Assemblymember, Tasha works to: ENSURE PUBLIC SAFETY Tasha is deeply committed to public safety and protecting San Diego neighborhoods.
 She has helped secure new funding for San Diego County firefighters and law enforcement.
 Tasha also authored laws protecting the privacy rights of sexual assault victims, improving cybersecurity preparation procedures for local governments, and strengthening traffic and cyclist safety.
 PROTECT OUR COAST Tasha is a leader in fighting to protect California’s coastline and environment.

@@ -1,7 +1,7 @@
-Skip navigation menu Home About District Priorities Volunteer Events Contact News Donate Home About District Priorities Volunteer Events Contact News Donate Join Us Campaign Events Join ust at one of our upcoming events.
+Skip navigation menu Home About Endorsements Volunteer Priorities District Events News Contact Donate Home About Endorsements Volunteer Priorities District Events News Contact Donate Join Us Campaign Events Join ust at one of our upcoming events.
 Millis - 9th Norfolk State Representative Candidate Forum Millis Public Library 961 Main St, Millis, MA 02054 Tom welcomes all residents of the 9th Norfolk to attend to hear from him and ask questions.
 Format is being finalized and will be communicated to attendees ahead of time.
-Submit your questions to be answered at the forum here - https://forms.gle/igwjWRhPFuQuLFSC8 RSVP Plainville - 9th Norfolk State Representative Candidate Forum Plainville Town Hall Conference Room 190 South St, Plainville, MA 02762 Tom welcomes all residents of the 9th Norfolk to attend to hear from him and ask questions.
+Submit your questions to be answered at the forum here - https://forms.gle/igwjWRhPFuQuLFSC8 RSVP Plainville - 9th Norfolk State Representative Candidate Forum Plainville American Legion 44 South St, Plainville, MA 02762 Tom welcomes all residents of the 9th Norfolk to attend to hear from him and ask questions.
 Format is being finalized and will be communicated to attendees ahead of time.
 Submit your questions to be answered at the forum here - https://forms.gle/igwjWRhPFuQuLFSC8 RSVP Medfield - 9th Norfolk State Representative Candidate Forum Medfield Public Library Meeting Room 468 Main St, Medfield, MA 02052 Tom welcomes all residents of the 9th Norfolk to attend to hear from him and ask questions.
 Format is being finalized and will be communicated to attendees ahead of time.

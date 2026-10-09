@@ -25,22 +25,16 @@ I led a five-man Civil Affairs team attached to an Airborne Infantry Company.
 We patrolled with the infantry platoons and our Afghan partners to reduce insurgent activity, while supporting local government officials.
 I was honorably discharged in 2014.
 Shortly after returning home I earned my MBA in healthcare management from Union Graduate College in Schenectady, NY.
-This educational advancement was the impetus in starting my own occupational therapy practice, and to begin teaching at Maria College in the Occupational Therapy Assistant Department, and the Healthcare Management Department.
-I enjoy operating a community-based practice where I evaluate, consult, and treat people in their homes.
-Over the last 2 years I have scaled back on my business and remain an adjunct instructor.
+This educational advancement was the reason I started my own occupational therapy practice, and began teaching at Maria College in the Occupational Therapy Assistant Department, and the Healthcare Management Department.
+I enjoyed operating a community-based practice where I evaluated, consulted, and treated people in their homes.
 My family and friends make up a vast and durable support system that continues to guide me.
 I am truly blessed to have them in my life.
-Local leaders like former Congressman and retired Army Colonel Chris Gibson have helped me answer the call of leadership.
 Our communities need a strong and sustainable direction.
 In many cases our current path has been leading us in circles.
 We cannot tax ourselves into prosperity, and we cannot be discouraged with each other to the point that we abandon our shared civic duties.
 I will continue to bring this attitude to Albany.
 I will represent you with dignity and thoughtful perseverance.
 We’ve got a lot of work ahead of us, but this is upstate NY- and we’re no strangers to hard work.
-Join with me.
-Let’s stand up together and elevate upstate NY!
-We Need Jake in the State Senate!
-Show your support with a donation, attending an event or by volunteering your time and help re-elect Jake Ashby to the NY State Senate this November.
+Join me.
 Friends of Jake Ashby 2026 P.O.
-BOX 64 Castleton, NY 12033 Jake@Jake-Ashby.com ​ PAID FOR BY FRIENDS OF JAKE ASHBY 2026 ​ PRIVACY: No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
-Text messaging originator opt-in data and consent will not be shared by us with any third parties bottom of page
+BOX 64 Castleton, NY 12033 PAID FOR BY FRIENDS OF JAKE ASHBY 2026 ​ PRIVACY PAGE & INFORMATION bottom of page

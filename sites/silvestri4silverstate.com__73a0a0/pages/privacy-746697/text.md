@@ -1,7 +1,7 @@
 HOME ISSUES EVENTS SUPPORT Support Donate Door-to-door Postcard party Precinct captain Registered?
 SUBSCRIBE CONTACT DONATE Please donate.
 We need your support!
-Privacy Effective Date: February 25 th , 2025 Team Silvestri 4 Silver State respects your privacy and is committed to protecting the personal information you share with us through our website, Silvestri4SilverState.com.
+DONATE JOIN THE BRIGADE Privacy Effective Date: February 25 th , 2025 Team Silvestri 4 Silver State respects your privacy and is committed to protecting the personal information you share with us through our website, Silvestri4SilverState.com.
 This Privacy Policy explains how we collect, use, and safeguard your information.
 1.
 Information We Collect We may collect personal information that you voluntarily provide when you: Make a donation Sign up for updates or newsletters Volunteer or contact the Campaign Complete forms on our Website Information collected may include: Name Mailing address Email address Phone number Employer and occupation (when required by campaign finance law) Any information you submit through contact fors Donation Information Donations made through our Website are processed by a third-party payment processor.

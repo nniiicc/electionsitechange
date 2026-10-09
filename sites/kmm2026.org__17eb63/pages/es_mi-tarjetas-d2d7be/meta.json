@@ -1,9 +1,10 @@
 {
  "description": "Volunteer form to receive business cards to hand out to other people.",
  "final_url": "https://www.kmm2026.org/es/mi-tarjetas",
- "fingerprint": "066c2f4197b1cf73eb079c4839c25b98fcda4ac7",
+ "fingerprint": "51d3204a8012525232c3b76a88950e3ce68259a8",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Mi Tarjetas",
  "years_mentioned": [
   "2026"

@@ -1,0 +1,6 @@
+For Immediate Release Date: Tuesday, August 4th, 2026 Contact: Press@christinefororegon.com Christine Drazan Announces Constitutional Amendment to Protect Oregon's Way of Life GRESHAM, Ore. – Surrounded by legislators, agricultural leaders, sportsmen, food producers, parents and small business owners at White's Country Meats in Gresham, Gubernatorial candidate Senator Christine Drazan (R-Canby) announced today that she plans to introduce legislation during the 2027 legislative session that would allow Oregon voters to decide whether to protect the right to hunt, fish and cultivate crops and livestock in the Oregon Constitution.
+“Oregon should not be the testing ground for extreme measures that threaten affordability, local food production, consumer choice and the thousands of jobs connected to putting food on our tables.
+Activities like farming, ranching, hunting and fishing are a part of our heritage, our economy and our everyday lives.
+It's time to stop playing defense,” said Drazan.
+The announcement follows last week’s news that Initiative Petition 28 failed to qualify for the November 2026 ballot after narrowly falling short of the required number of valid signatures.
+Watch the full press conference: https://youtu.be/b6dM4j_HuOA Read the draft legislation: https://bit.ly/3Uda3GB ###

@@ -1,9 +1,12 @@
 {
  "description": "John Reny for Maine House of Representatives District 59",
  "final_url": "https://renyformaine.com/",
- "fingerprint": "0b6880112f14d390118eea03c3f84f89fed3a3c0",
+ "fingerprint": "70f63f4acbd9415c608fbf7d59b8e10f1c3667db",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "authorized by John Reny © # John Reny Campaign",
+ "rendered": true,
  "title": "",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

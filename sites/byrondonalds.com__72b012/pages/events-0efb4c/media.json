@@ -1,0 +1,6 @@
+[
+"alt:/wp-content/themes/byron-child/site/_b/5d27f2d1f0f3d866.webp|Byron Donalds speaking at a Defending the Florida Dream tour stop",
+"alt:{{ e.image }}|{{ e.title }}",
+"img:/wp-content/themes/byron-child/site/_b/5d27f2d1f0f3d866.webp",
+"img:{{ e.image }}"
+]

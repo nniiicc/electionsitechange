@@ -1,4 +1,4 @@
-top of page Home Meet Sydney The Job Press Menu Close Menu Close DONATE NOW September 21, 2026 AI is everywhere, but can NC political candidates use it in campaign ads?
+top of page Home Meet Sydney The Job Press Menu Close Menu Close DONATE NOW October 7, 2026 How NC’s fast-tracked gas tax pause made its way to the governor’s desk in hours READ MORE October 7, 2026 NC Democrats question the timing of a special session by Republicans to suspend gas tax (Video) READ MORE October 6, 2026 With food costs in mind, federal and state officials offer fuel relief to NC farmers READ MORE September 21, 2026 AI is everywhere, but can NC political candidates use it in campaign ads?
 READ MORE August 28, 2026 Stein vetoes bills on courts, election laws READ MORE August 17, 2026 Stein vetoes Republican-backed ‘anti-voter’ North Carolina elections bill READ MORE August 17, 2026 NC Gov.
 Stein vetoes elections, judicial discipline bills READ MORE August 11, 2026 ‘Barely making it’: Who should raise Wake’s teacher pay?
 READ MORE August 9, 2026 Can NC Democrats gain legislative power in November elections?

@@ -1,4 +1,7 @@
-john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Vote Correction Forms May 14, 2026 While democrats would love to think one of the most conservative Representatives in the House declined to support a Constitutional measure permanently preventing an income tax, the vote was immediately corrected and is emblazoned in the House Permanent Journal.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page ‘Schrödinger’s Tax:’ House Dems Vote Both For and Against an Income Tax May 15, 2026 Republican State Rep John Schneller of Bedford inadvertently hit “yes” but had his vote corrected by the House clerk.
+New Hampshire Democrats continue to struggle with how to handle enacting a state income tax.
+Polls show it’s wildly unpopular among Granite State...
+Vote Correction Forms May 14, 2026 While democrats would love to think one of the most conservative Representatives in the House declined to support a Constitutional measure permanently preventing an income tax, the vote was immediately corrected and is emblazoned in the House Permanent Journal.
 Like...
 Natural Gas and Cheap Energy Are Within Our Grasp May 13, 2026 Why do I plan to file legislation that will allow for expanded NH LNG access?
 It’s simple math.
@@ -19,8 +22,6 @@ Apr 1, 2025 Commentary on article by Representative Schneller: The article below
 Stop Press!
 Trump Pledges to Revive PA-to-NY Constitution Pipeline Feb 17, 2025 I hope all Bedfordites have adequate heating at a reasonable cost to heat their homes this winter.
 As I knocked on many doors this summer and fall to ask what concerns my fellow Bedfordites, high and volatile energy costs were at the top of the list.
-I share that...
-Re-emergence of Nuclear Power Dec 17, 2024 Nuclear power is on the cusp of a re-emergence as a major supplier of energy in the US.
-Microsoft has expressed a desire to purchase energy produced by the Constellation, “Three Mile Island” facility in a 20-year agreement to support its data centers which... « Older Entries Next Entries » SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+I share that... « Older Entries Next Entries » SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

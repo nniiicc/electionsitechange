@@ -4,7 +4,7 @@ Honor Those Who Serve.
 Supporting Kentucky’s Farmers Supporting Public Education & Teachers Supporting Older Kentuckians & Retirees Supporting Young Kentuckians Get Involved Jobs Media Center Donate Now Donate Open menu Charles Booker for U.S.
 Senate Keep America Strong.
 End Reckless Wars.
-Honor Those Who Serve..
+Honor Those Who Serve.
 All policies Charles Booker for U.S.
 Senate, Kentucky Military power is a tool, not a plan.
 I will work to end the war in Iran, protect American service members, and pursue a durable diplomatic settlement.

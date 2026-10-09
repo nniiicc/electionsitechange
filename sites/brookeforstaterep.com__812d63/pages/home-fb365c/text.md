@@ -7,7 +7,9 @@ A practical, people-first voice for Derby, Hamden, Orange, and Woodbridge.
 Brooke is ready to protect local control, lower everyday costs, and bring nearly three decades of service to Hartford.
 Get Involved View Priorities Vote Tuesday November 3, 2026 Our towns.
 Our voice.
-Brooke for State Representative Oct 8, 2026 View this post on Facebook.
+Brooke for State Representative Oct 8, 2026 How are We Assisting our Aging population?
+Growing older shouldn't mean being priced out of your own home.
+Imagine spending 40 or 50 years working, raising a family, paying taxes, and building a life in a community you...
 Open Post Visit Page Brooke for State Representative Oct 6, 2026 #BrookeForStateRep #PeopleOverPolitics #TaxpayerAccountability #GovernmentAccountability #TransparencyMatters #AskQuestions #ConnecticutPolitics Open Post Visit Page Brooke for State Representative Oct 6, 2026 Here are a few Connecticut issues I’m watching this week: New privacy protections took effect October 1.
 Connecticut’s new AI and data privacy laws include additional protections involving geolocation information, facia...
 Open Post Visit Page Brooke for State Representative Oct 5, 2026 View this post on Facebook.

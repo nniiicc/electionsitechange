@@ -93,10 +93,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=7000+carroll+avenue+takoma+park%2C+md%2C+20912+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=7611+piney+branch+road+takoma+park%2C+maryland%2C+20912+united+states"
 },
 {
@@ -353,10 +349,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Takoma+Park+Street+Festival&dates=20251005T140000Z%2F20251005T210000Z&location=7000+Carroll+Avenue%2C+Takoma+Park%2C+MD%2C+20912%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Takoma+Park+Street+Festival+&dates=20261004T140000Z%2F20261004T210000Z&location=Takoma+Park%2C+MD%2C+United+States"
 },
 {
@@ -496,10 +488,6 @@
 "href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-county?format=ical"
 },
 {
-"text": "ICS",
-"href": "https://www.gogreen2026.com/events/takoma-park-street-festival?format=ical"
-},
-{
 "text": "June Grassroots Gathering",
 "href": "https://www.gogreen2026.com/events/june-grassroots-gathering"
 },
@@ -565,11 +553,11 @@
 },
 {
 "text": "Read more →",
-"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium"
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium-mykyb"
 },
 {
 "text": "Read more →",
-"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium-mykyb"
+"href": "https://www.gogreen2026.com/events/2026passporttothevote"
 },
 {
 "text": "Read more →",
@@ -594,10 +582,6 @@
 {
 "text": "Takoma Park Street Festival",
 "href": "https://www.gogreen2026.com/events/2026takomaparkstreetfestival-9n958"
-},
-{
-"text": "Takoma Park Street Festival",
-"href": "https://www.gogreen2026.com/events/takoma-park-street-festival"
 },
 {
 "text": "View Event →",
@@ -724,10 +708,6 @@
 "href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-county"
 },
 {
-"text": "View Event →",
-"href": "https://www.gogreen2026.com/events/takoma-park-street-festival"
-},
-{
 "text": "Volunteer",
 "href": "https://www.gogreen2026.com/volunteer"
 },
@@ -757,10 +737,6 @@
 },
 {
 "text": "[image: Beyond the Moratorium]",
-"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium"
-},
-{
-"text": "[image: Beyond the Moratorium] Sep 27",
 "href": "https://www.gogreen2026.com/events/2026beyondthemoratorium"
 },
 {
@@ -817,6 +793,10 @@
 },
 {
 "text": "[image: General Election Candidate Forum]",
+"href": "https://www.gogreen2026.com/events/2026passporttothevote"
+},
+{
+"text": "[image: General Election Candidate Forum] Oct 8",
 "href": "https://www.gogreen2026.com/events/2026passporttothevote"
 },
 {
@@ -882,10 +862,6 @@
 {
 "text": "[image: Takoma Park Street Festival ] Oct 4",
 "href": "https://www.gogreen2026.com/events/2026takomaparkstreetfestival-9n958"
-},
-{
-"text": "[image: Takoma Park Street Festival]",
-"href": "https://www.gogreen2026.com/events/takoma-park-street-festival"
 },
 {
 "text": "[no text]",

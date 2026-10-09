@@ -36,10 +36,6 @@
 "href": "https://electbarnhill.net/category/announcements/"
 },
 {
-"text": "Blog",
-"href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
 "text": "Commentary",
 "href": "http://electbarnhill.net/commentary/feed"
 },
@@ -98,6 +94,10 @@
 {
 "text": "Nevada Voter Roll Maintenance: Accuracy, Due Process, and Public Trust",
 "href": "https://electbarnhill.net/policy-positions/nevada-voter-roll-maintenance/"
+},
+{
+"text": "News",
+"href": "https://electbarnhill.net/news/"
 },
 {
 "text": "Next Next post: Declare Your Independence from Partisan Politics: Nevada Voter ID Plan",

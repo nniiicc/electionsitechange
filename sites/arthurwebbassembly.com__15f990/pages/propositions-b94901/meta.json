@@ -1,9 +1,10 @@
 {
  "description": "ballot propositions vote recommendations",
  "final_url": "https://arthurwebbassembly.com/propositions",
- "fingerprint": "64d1cfe8594d37525cd5212a1f860999b3e25ec5",
+ "fingerprint": "49e83c980908316b31c40373b6072ccc0579308d",
  "format": 3,
  "paid_for_by": "sponsored by a prominent lab director and his particular lab is targeted as the primary recipient of the funds",
+ "rendered": false,
  "title": "Propositions",
  "years_mentioned": [
   "1974",

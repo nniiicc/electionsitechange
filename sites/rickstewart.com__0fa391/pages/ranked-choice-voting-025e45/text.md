@@ -17,7 +17,7 @@ It would give smaller parties a voice on certain issues.
 Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
 Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
-Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts End the Drug War America’s second civil war needs to end Eminent Domain No private gain from public pain 2nd Amendment I own, I shoot, I carry.
-Local control of local issues Centralized government leads to less customer satisfaction and sometimes it leads to tyranny, as with Vladimir Putin Prev Previous Occupational licensing Next But who will build the roads?
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts National Guard The Iowa National Guard has a proud history dating back to 1838 Eminent Domain No private gain from public pain Local control of local issues Centralized government leads to less customer satisfaction and sometimes it leads to tyranny, as with Vladimir Putin 2nd Amendment I own, I shoot, I carry.
+Prev Previous Occupational licensing Next But who will build the roads?
 Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
 The First Choice for Iowa Governor All Rights Reserved

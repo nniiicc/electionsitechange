@@ -1,9 +1,12 @@
 {
  "description": "Web site created using create-react-app",
  "final_url": "https://www.stedmanforsenate.com/",
- "fingerprint": "27cece1c89998af52d49bf09ef45eef3c5abbdd2",
+ "fingerprint": "bb2bdbd784daa7489c228c899035072227fdf349",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Stedman for Senate 118 American Street, Sitka, Alaska, 99835",
+ "rendered": true,
  "title": "Stedman For Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2003"
+ ]
 }

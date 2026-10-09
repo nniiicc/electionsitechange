@@ -7,7 +7,13 @@ I'd love to hear from people who want to help. • Door knocking • Putting up 
 Follow us on Instagram or Facebook to see where we'll be next.
 Facebook Instagram Contact I want to hear from you!
 Let me know how you'd like to get involved, send me questions about my vision for Washington, or get in touch about anything else.
-Name Email Phone I'd like to: Select one...
+Name Email Phone (optional) By checking this box, I agree to receive text messages from Meline for Congress about Spencer Meline's campaign, elections, events, and volunteer opportunities.
+Message frequency varies.
+Message and data rates may apply.
+Reply STOP to opt out, HELP for help.
+See our Privacy Policy and Terms of Service .
+I have read and agree to the Privacy Policy and Terms of Service .
+I'd like to: Select one...
 Go door knocking Request a yard sign Put up yard signs Host a meet-and-greet Help at an upcoming event Help with social media outreach Provide general campaign support Ask about something else Message Thank you!
 Your message has been delivered.
 We will be in touch soon!
@@ -18,3 +24,4 @@ Restore the American Dream in Washington’s 8th District.
 Your contribution helps Spencer fight for affordability, safe communities, and economic opportunity.
 Contribute to the Campaign JOIN THE CAMPAIGN Get Involved with Spencer's Campaign. donate now donate now Home Vision & Priorities Volunteer & Contact Paid for by Friends of Spencer Meline.
 Privacy Policy.
+Terms of Service.

@@ -13,4 +13,4 @@ In the Assembly, I’ll fight to protect union jobs, improve workplace safety, a
 In that role, she secured millions in public safety funding, and has led efforts to expand affordable housing.
 A certified city planner and former community college trustee, she brings both technical expertise and deep community engagement to her work.
 A lifelong Central Valley resident, Perea’s campaign continues to resonate with working-class voters who want a leader rooted in the region and ready to deliver results.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

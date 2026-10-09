@@ -1,5 +1,25 @@
 [
 {
+"text": "$100",
+"href": "https://www.skaugforidaho.com/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://www.skaugforidaho.com/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://www.skaugforidaho.com/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://www.skaugforidaho.com/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://www.skaugforidaho.com/donate?amount=500"
+},
+{
 "text": "About",
 "href": "https://www.skaugforidaho.com/about"
 },
@@ -44,6 +64,10 @@
 "href": "https://www.skaugforidaho.com/get-involved"
 },
 {
+"text": "Other",
+"href": "https://www.skaugforidaho.com/donate"
+},
+{
 "text": "Privacy Policy",
 "href": "https://www.skaugforidaho.com/privacy-policy"
 },
@@ -86,10 +110,6 @@
 {
 "text": "[image: Bruce Skaug for Idaho]",
 "href": "https://www.skaugforidaho.com"
-},
-{
-"text": "[image]",
-"href": "https://www.skaugforidaho.com/donate"
 },
 {
 "text": "[tooltip: Facebook]",

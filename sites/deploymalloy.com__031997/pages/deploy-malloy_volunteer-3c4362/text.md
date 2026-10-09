@@ -1,4 +1,4 @@
-Positions About Album Q&A Events Subscribe Signs Shop Donate Great way to help out is to print out these flyers and post in your town and places you frequent that have boards to post on.
+Positions About Q&A Proposals Events Subscribe Signs Shop Donate Great way to help out is to print out these flyers and post in your town and places you frequent that have boards to post on.
 These are 8 1/2 by 11 inches and will on any printer.
 Click on the poster and a PDF will load to you browser just hit your print button!
 Thank you for your interest in volunteering with the mission.

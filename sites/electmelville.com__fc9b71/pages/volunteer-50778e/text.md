@@ -1,4 +1,4 @@
-Skip navigation menu Home About District Priorities Volunteer Events Contact News Donate Home About District Priorities Volunteer Events Contact News Donate volunteer with team melville Join in!
+Skip navigation menu Home About Endorsements Volunteer Priorities District Events News Contact Donate Home About Endorsements Volunteer Priorities District Events News Contact Donate volunteer with team melville Join in!
 Help us talk to voters in Wrentham, Norfolk, Plainville, Medfield, Walpole, and Millis!
 Knock Doors Wrentham!
 Knock Doors Plainville!

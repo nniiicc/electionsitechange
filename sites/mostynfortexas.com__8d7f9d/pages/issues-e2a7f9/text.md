@@ -1,82 +1,99 @@
-Home About Issues News Volunteer Shop Donate Select Page Key Issues Effective and Actionable Crime Crime in San Antonio is out of control, with a rise in violent crime, property theft, and drug abuse leading the way.
-Over the past few years, Liberal Democrats have been focused on defunding our hard working law enforcement agencies, resulting in fewer officers to patrol our streets and fewer resources allocated to keep career criminals behind bars.
-Since liberal Democrats have taken control of San Antonio, our city has become a breeding ground for organized crime, drug dealers, and career criminals.
-San Antonio is now ranked more dangerous than 97% of cities in the United States and one of the most dangerous places to live in the state of Texas.
-Murder, rape, robbery, assault, and property theft are through the roof and well above the national average.
-San Antonio needs elected leaders who are not bought and paid for by extremist interest groups.
-It’s time for a leader in government who will put the safety of San Antonio first.
-Mostyn firmly believes that the government’s first priority is to keep its citizens safe.
-Here are some ways that Ben Mostyn will make San Antonio a safer place for families End Cashless Bail in Texas, which allows careers criminals back onto our streets within hours of their arrest Hold Liberal DA Joe Gonzalez accountable for pushing his radical agenda, which hurts law-abiding San Antonians and their families Give the San Antonio Police Department the tools and training they need, so they can enforce the laws and keep our communities safe Pass tough on crime legislation that punishes dangerous street gangs, putting them behind bars where they belong Fight back against the drug cartels who are flooding our streets with fentanyl and other dangerous drugs.
-It’s time we designate the drug cartels and their allies as terrorist organizations so we can unleash the might of our military to defend our nation.
-Smart Investment in San Antonio Our streets are crumbling, our sidewalks are in disrepair, and it isn’t safe for our children to walk home after school.
-For years our elected officials have been aware of the severe infrastructure problems facing our city, and yet, they have done nothing to tackle this problem.
-It’s time to make real investments in our city.
-We cannot afford to allow our city to crumble around us and expect high paying jobs and businesses to come to our city.
-We must invest in fixing our roads, building sidewalks, and ensuring that our infrastructure serves our citizens.
-Investment in Infrastructure is for the long-term beauty and safety of San Antonio.
-A city with uneven roads, old buildings, and waste is not a place to start a business, go to school, or raise a family.
-If we make a real investment in San Antonio now, the generations to come will have a thriving community to call home.
-Here are some ways that Ben Mostyn will improve our infrastructure in San Antonio: We must continue to invest in street improvments, filling in sidewalk gaps, and burying utility lines.
-Fund our Parks & Recreation services to clean up the dozens of parks our visitors go to Modernize the Business District to create an attractive environment for new jobs Fund highway and freeway construction, to allow faster transportation of goods and services throughout to and from San Antonio School Choice and Education Our education system is failing the next generation of Texans.
-Our schools are underfunded, our teachers are overworked and underpaid, and our students are falling behind in the core subjects.
-Texas needs elected officials who will take politics out of the classroom and focus on rebuilding an education infrastructure that benefits teachers, parents, and students.
-Texas is one of the most uneducated states in the US.
-It is no different in Bexar County.
-Their graduation rate is worse than the national average.
-Philip Cortez promised to provide much-needed resources for student success.
-He promised to increase public school funding and look out for students who want to earn college credit in high school.
-Philip Cortez’s promises have turned into failures for the students of Bexar County and the state of Texas.
-Families need educational options to combat the failures of our cash-strapped public schools.
-The State Legislature promised to increase funding for our schools, but have failed to deliver on those promises.
-Ben Mostyn believes in an education system that delivers results for San Antonio families.
-He will work with San Antonio schools to efficiently allocate resources that improve outcomes for our students.
-We can’t afford to simply throw money at the problem and hope everything improves.
-Ben Mostyn will deliver smart solutions that don’t raise taxes AND ensure that our schools receive the resources they need to empower our teachers and students.
-Here are some ways that Ben Mostyn will improve schools for the people of San Antonio: Raise pay for high achieving teachers.
-Texas ranks 26th in the nation in teacher salaries.
-Our $32 billion surplus provides us the opportunity for historic assistance to Texas educators.
-Expand school choice.
-In Texas, school vouchers are under debate.
-Texas families already have a wide range of options for their child’s education.
-The only problem is that they cannot afford it.
-Protect our children.
-Across the state and in our city, violence is on the rise in our schools.
-It is the job of our State Legislature to ensure that all students and all teachers feel safe in the classroom.
-WE MUST DO BETTER!
-Schools need more security measures put in place and students need more access to mental health resources.
-Drug Cartels At the southern border, the CBP and our border patrol agents have been overwhelmed with the continued drug and immigration crisis created by the failed policies of former President Joe Biden.
-Our Border Patrol agents work tirelessly in a dangerous environment to keep America safe.
-In the last two years alone, over a million pounds of drugs have been seized by US Customs and Border Protection.
-Leading the way is fentanyl.
-More than 300 million lethal doses of fentanyl have made its way into the state of Texas.
-This is nearly enough Fentanyl to kill every American citizen.
-The drug crisis at the southern border is the greatest failure of our government.
-Young people are overdosing and families are being torn apart, all while these dangerous drug cartels are reaping the rewards.
-Our government is failing to protect our nation.
-One in four Texans have been forever harmed by this epidemic.
-Not to mention the damage done to their families, friends, and their children.
-Ben Mostyn knows it is time to stand up to the drug cartels and fight for the families of Texas.
-The Federal Government is leaving Texas on its own with this crisis.
-There has never been a more important time for leadership on this issue.
-Immediately label the drug cartels as terrorist organizations.
-This will allow our military to FIGHT BACK against the cartels and protect our Nation.
-We need to fund new technology for vast surveillance to catch drug smugglers that rely on our depleted forces for the success of their criminal operations.
-Texas has had enough of the border crisis.
-This crisis is a direct results of the failed open border policies of President Biden and the Democrats.
-We need to finally fight back against the evils of the drug cartels.
-SECURE THE BORDER NOW!
-Economy Our nation’s economy is in crisis.
-M ortgages have gone up and people cannot afford to buy a new house and improve their lives.
-Ben Mostyn wants solutions that will put hard-earned money back into people’s pockets as soon as possible.
-He thinks Texans should be rewarded for their hard work.
-As a member of the State Legislature, Ben Mostyn will support: Drilling to bring down the costs at the pump Fixing the supply chain to get goods on the shelf and on tables Legislation that brings down the cost of mortgages so families can better their lives Protect Women Across the country, opportunities for women are being taken away by biological men.
-Young girls are being forced to share private spaces with and participate in sports against biological boys.
-We must protect women and girls from these invasive and dangerous liberal policies.
-As a member of the State Legislature, Ben Mostyn will support: Protecting girls sports Keeping men out of womens bathrooms Protect opportunities for girls and women to excel and achieve Small Businesses As a successful realtor, I understand the economic challenges facing Texans.
-Small businesses are the lifeblood of our communities, they create jobs and opportunities for our community that produce lasting economic growth.
-We need politicians who understand the struggles that small business owners face on a daily basis.
-We are tired elitist and corrupt business leaders that dictate economic policy to the rest of us.
-It’s time to create an economic environment that benefits everyone.
-As a member of state legislature, Ben Mostyn will support: Decrease capital gains tax Decrease Estate tax Decrease agency regulations and paperwork Increase small business tax incentives/ tax relief Tort reform, make changes to protect honest company’s from frivolous lawsuits Prioritize small businesses over special interests and foreign governments Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
+Home About Issues News Volunteer Shop Donate Select Page Key Issues Effective and Actionable Fix Our Public Schools Texas ranks 44th in the nation in eighth-grade reading, and more than four in ten of our fourth graders cannot read at a basic level.
+Teachers are leaving the profession, classrooms are growing, and families are paying more while seeing less.
+Our children deserve better, and Texas can deliver it.
+We will restore three pillars of a great education: respect for learning, responsibility for conduct, and rigor in reading, writing, mathematics, and critical thinking.
+Order in the classroom.
+Students learn best in structured, dependable environments.
+Every course should publish a clear semester plan so parents and students know what will be taught, read, and tested, while teachers keep the flexibility to ensure mastery before moving on.
+Teachers who can teach.
+Teachers should not pay for supplies out of their own pockets or spend their evenings building lessons from scratch.
+They deserve proven instructional materials they can adapt, the authority to manage their classrooms, and administrators who stand behind them.
+Classroom first.
+Reduce administrative overhead and direct resources to instruction.
+Fair pay.
+Compensate teachers by role, experience, credentials, and performance.
+Equipped classrooms.
+Provide teachers the lessons and supplies they need.
+Teacher authority.
+Support teachers’ grading, classroom management, and professional growth.
+Skills for life.
+Expand career and technical education, trades, and practical life skills.
+High standards.
+Expect excellence in attendance, conduct, and effort from every student.
+Strong character.
+Build discipline of body, mind, and intellect.
+Engaged families.
+Ensure open communication between parents, teachers, and counselors.
+Be friendly.
+Be respectful.
+Be Texan.
+Fix & Finish Our Roads Every day, we sit longer in traffic.
+Road projects drag on for years, and whether crews are working or not, cones confine us to a single lane.
+When planners and officials fail to hold contractors to their deadlines, every year of delay costs taxpayers more.
+New neighborhoods are built before the roads and infrastructure to serve them, so our commutes grow longer and steal time from our families, our rest, and our local economy, while we spend more at the pump.
+When it rains, our roads become dangerous.
+Poor drainage leaves standing water on the pavement, creeks overtake our commutes, and floodwaters reach our neighborhoods and homes.
+Every year, drivers are stranded, and some are killed.
+Last year, flooding claimed at least 15 lives in San Antonio, the city’s deadliest flood year in decades.
+Thirteen of those deaths came in a single morning on a highway frontage road with no high-water warning for drivers.
+Require and enforce firm, specified timeframes for road construction, from start to finish.
+Expand around-the-clock construction on critical road segments until they are complete, wherever it is safe.
+Ensure timely funding for timely results , and hold contractors accountable for delays.
+Reinforce manpower through paid work and job training for Texans re-entering society.
+Remove cones and reopen lanes when workers are not present and conditions are safe.
+Ensure roads and drainage are built to meet demand before new neighborhoods expand.
+Work with the Federal Government and the U.S.
+Army Corps of Engineers to modernize the roads and drainage of Military City USA.
+Fix Our Property Taxes Property taxes are pricing Texans out of their own state.
+They stand between young families and their first home, threaten seniors’ ability to keep theirs, and raise the cost of every rent payment and business lease, a cost passed on in the price of food, goods, and services.
+Recent homestead exemptions have brought meaningful relief, but rising appraisals and new local debt continue to erode it, and renters and small businesses have seen little benefit.
+Nearly every election brings another bond request, approved in good faith by voters who deserve full accountability for how their money is spent.
+Public education depends most on property taxes, and any reform must protect it.
+That means the state must carry a greater share of school funding, and every district must demonstrate responsible stewardship before asking taxpayers for more.
+Texans have never accepted taxation without accountability.
+It is time to restore that principle.
+Limit appraisal growth.
+Lower the annual cap on homestead appraisal increases so tax bills cannot outpace family budgets.
+Require accountability before new bonds.
+Require independent audits and public reporting on past bond spending before any new bond reaches the ballot.
+Protect seniors.
+Extend the senior tax freeze to all local taxes and lower eligibility from 65 to 62.
+Strengthen state education funding.
+Ensure lottery proceeds and state budget surpluses add to school funding rather than replace it, and use them to keep lowering school tax rates.
+Make tax bills transparent.
+Require plain-language statements showing what each taxing entity charges and how taxable value differs from market value.
+Reduce reliance on property taxes.
+Commit to steadily replacing school property taxes with stable state funding, so every cut is matched by a dependable source.
+Fix Our Cost of Living The price of food, fuel, electricity, water, insurance, and housing has climbed faster than Texas paychecks.
+Those costs show up in what families pay for childcare, senior care, clothing, school supplies, and car repairs.
+No single law will reverse that, but Texas can act: keep more money in the hands of the people who earn it, increase the supply of what we depend on, and remove the barriers that keep prices high.
+Eliminate property taxes through a responsible, phased plan that protects funding for schools, law enforcement, and first responders, and cut the red tape that holds back small businesses.
+Strengthen our schools and expand the skilled trades, so every student has a path to a good career or a business of their own.
+Secure lasting protections for small businesses and family farms, and open more markets to Texas-grown and Texas-made products.
+Expand Texas energy production by clearing the way for new refineries and power plants, keeping our grid reliable and our energy affordable.
+Protect our water supply by recycling and desalinating water used in manufacturing and energy production.
+Develop Texas-based banking and insurance options that give families real competition and real choices.
+Break up the bottlenecks and monopolies that choke supply chains and drive up prices.
+Bring in Good-Paying Jobs San Antonio is Military City USA, a leader in healthcare and bioscience, a national center for cybersecurity, and one of America’s great cultural destinations.
+Our strengths are real, but strengths alone do not build an economy.
+Too many families still wait for the jobs, wages, and opportunity this city has earned.
+When infrastructure lags, workforce training falls short, and public dollars go unaccounted for, employers look elsewhere.
+San Antonio deserves leadership that makes our case in Austin and Washington, spends every dollar with discipline, and delivers results.
+Ben Mostyn will bring that leadership.
+Compete for jobs and investment.
+Partner with state and local leaders to bring employers, conventions, and visitors to San Antonio, with a focus on careers that pay a living wage.
+Confront homelessness and the mental health crisis.
+Connect outreach, treatment, housing, and job training into one coordinated system that helps people move from crisis to stability.
+Invest in a cleaner, stronger city.
+Secure state funding for infrastructure and community improvements, tied to clear milestones the public can see.
+Demand accountability for every state dollar.
+Require transparent reporting on state funds invested in San Antonio, so taxpayers know what their money achieves.
+Bring manufacturing and skilled trades back home.
+Recruit employers who value our workforce, and expand training with Alamo Colleges and local trade programs so San Antonians are first in line.
+Grow technology without pricing families out.
+Build on our cybersecurity and tech leadership while protecting the homes and neighborhoods that make San Antonio who we are.
+Protect our military mission and our future.
+Stand with Joint Base San Antonio to keep and grow its missions, and turn military-trained talent into civilian careers in cyber, healthcare, and aviation.
+Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
 Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
 Follow Follow Follow Follow

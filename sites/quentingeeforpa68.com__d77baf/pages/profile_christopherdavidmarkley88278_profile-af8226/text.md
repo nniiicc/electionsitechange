@@ -7,4 +7,4 @@ People may live many miles from a psychiatrist, therapist, crisis center, or hos
 10 0 Aug 27, 2026 ∙ 2 min Let's restore our local healthcare options and access Healthcare resources are being pulled from our area, but not by our local doctors and hospital administrators, but instead by healthcare decision makers in major cities like Pittsburgh who have never even visited our area and who don't understand our needs.
 We need to back our local healthcare professionals and help get the power back into their hands to make local decisions for our local population.
 The local VA Clinic in Wellsboro still does not have a permanent doctor, and instead there ...
-15 0 Load More bottom of page
+16 0 Load More bottom of page

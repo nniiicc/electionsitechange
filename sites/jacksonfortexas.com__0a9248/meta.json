@@ -1,9 +1,12 @@
 {
- "description": "",
+ "description": "Everett Jackson is running for U.S. Congress in Texas' 30th District. Join our movement for economic opportunity, strong family values, and real representation in Dallas.",
  "final_url": "https://jacksonfortexas.com/",
- "fingerprint": "a0ca3fef069dbf61191d3506518e314575f89bf8",
+ "fingerprint": "4cf5651adb9816f03fd4faaa631bfedb6a056b38",
  "format": 3,
- "paid_for_by": "",
- "title": "Hostinger Horizons",
- "years_mentioned": []
+ "paid_for_by": "Paid for by Jackson 4 Texas",
+ "rendered": true,
+ "title": "Everett Jackson for Congress | Republican for TX-30",
+ "years_mentioned": [
+  "2026"
+ ]
 }

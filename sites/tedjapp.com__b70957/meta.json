@@ -1,9 +1,13 @@
 {
  "description": "Ted Japp for Nebraska Legislative District 16 — press release and campaign information.",
  "final_url": "https://www.tedjapp.com/",
- "fingerprint": "ba6b0158d98fa2cee7808d106a226f244f0b992f",
+ "fingerprint": "f38ae191889e11cdc7914fbba7cbcfb4d54fd386",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Ted Japp for Legislature",
+ "rendered": true,
  "title": "Ted Japp for Nebraska LD 16",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2020"
+ ]
 }

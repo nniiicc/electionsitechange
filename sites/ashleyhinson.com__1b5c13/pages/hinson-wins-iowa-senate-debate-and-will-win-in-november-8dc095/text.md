@@ -1,0 +1,6 @@
+Meet Ashley Issues Endorse Volunteer Contribute News & Updates Hinson Wins Iowa Senate Debate and Will Win in November Oct 8, 2026 | Press Release Back to Updates Des Moines, IA – Congresswoman Ashley Hinson tonight dominated the Iowa PBS debate, sharing her vision to make life more affordable for Iowa families, keep our country safe, and clean up corruption in Washington––and Josh Turek’s liberal views were on full display.
+Learn more about his record HERE .
+“Ashley appreciated the opportunity tonight to talk about her vision to help make life more affordable for Iowa families and showcase the clear contrast between her commonsense, Iowa values and Josh Turek’s too-liberal-for-Iowa record.
+Tonight, all we heard from Turek was tax, tax, tax––raising taxes on working families, raising taxes on farmers, and giving taxpayer benefits to illegal immigrants.
+Josh Turek is just too liberal for Iowa.” – Billy Fuerst, Campaign Communications Director ### Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

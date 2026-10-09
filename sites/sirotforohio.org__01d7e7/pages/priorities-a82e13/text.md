@@ -58,6 +58,16 @@ When commodity prices aren’t keeping up with input costs, it becomes unsustain
 And when you combine that with limited access to dependent care and health insurance, succession planning becomes really tricky, even among generational family farms.
 Farmers are now and have always been a self-sufficient community, but they deserve to be heard and represented at the state level.
 As your next State Senator, I will prioritize policy that supports and incentivizes local, family farms to prosper.
+Pausing Data Center Development Currently, Ohio is the 5th highest state in the country for data center development, with 240 data centers already and an additional 77 planned by 2030—most of which are considered hyperscale sites requiring more than 100 MW of energy.
+The reason Ohio is so attractive to data center companies is because of the state’s lower waged labor, accessibility to energy, availability of open land and geographic location.
+However, the rapid expansion of Ohio data centers is due primarily to statehouse legislation incentivizing it without much oversight as to what it’s costing everyday Ohioans.
+Between 2014 and 2018, statewide agreements with some of the largest AI providers granted them a 100% tax exemption for up to 40 years on any facility built in Ohio, costing the state more than $1.5 billion in tax revenue in 2025.
+Ohio still has not disclosed how much sales tax local governments have lost in the deal.
+Beyond the financial incentives state legislators have offered developers, elected leaders have also fast-tracked approval processes and limited the oversight for data centers to tap into natural gas pipelines and construct behind-the-meter generator facilities on-site to avoid any start-up delays.
+Currently, one of the largest data centers in the country is a 9GW campus planned in Pike County, Ohio, that will emit as much carbon dioxide as New York City.
+Ohio is already ranked as the 5th worst air quality index.
+To me, any addition to a community should bring more good than harm, and right now there are too many serious concerns about data centers’ water usage/disposal, energy usage and the spikes on consumers’ utility bills, land use and the destruction of farmable soil, light and noise pollution, as well as the lack of long-term job creation and tax contributions to let the development continue.
+As your next State Senator, I support pausing data center development until we can prioritize the safety and quality of life for Ohioans and their communities.
 The issues affecting your day-to-day quality of life are the same issues your neighbors are facing.
 We deserve elected leaders who will put party politics aside to make our lives affordable and our communities safer.
 This is what I’ve been hearing from Ohioans across our district, whether they live in the more rural parts or the small cities and towns within them.

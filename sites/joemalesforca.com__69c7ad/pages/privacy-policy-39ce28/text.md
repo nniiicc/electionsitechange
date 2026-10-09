@@ -133,5 +133,6 @@ Reply “STOP” to opt out.
 Reply “HELP” for assistance.
 Mobile opt-in data will not be shared with 3rd parties.
 See our Privacy Policy and Terms here .
-CONNECT Facebook-f X-twitter Instagram Paid for by Males for Congress Use of Joe Males’ military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
+Sign Up Now CONNECT Facebook-f X-twitter Instagram Paid for by Males for Congress Use of Joe Males’ military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
 Privacy Policy JOIN THE FIGHT FOR A STRONGER CA-25!
+JOIN THE FIGHT FOR A STRONGER CA-25!

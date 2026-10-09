@@ -1,9 +1,12 @@
 {
  "description": "Terms of service for using Peter Lumaj's campaign website and services.",
  "final_url": "https://peterlumaj.com/terms",
- "fingerprint": "e363d6b0eaec19eddde97e1afda48f1077cba945",
+ "fingerprint": "73d5b1a7f5d4fda09a81fcf98b59ba7b89a79830",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Lumaj 2026, Michele Gregorio, Treasurer",
+ "rendered": true,
  "title": "Terms of Service | Peter Lumaj | Secretary of the State",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

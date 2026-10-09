@@ -1,9 +1,17 @@
 {
  "description": "Darian Counts for State Representative, Michigan District 29. Affordability, middle class rejuvenation, education, and relief for seniors. Built in Detroit.",
  "final_url": "https://dariancounts.com/",
- "fingerprint": "6809511ccb9d0de93cd736acae55b622a9755921",
+ "fingerprint": "6927442d5d191fa5355c25e1733f85a153fe1fd0",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Counts for State Rep",
+ "rendered": true,
  "title": "Darian Counts — State Rep, Michigan District 29",
- "years_mentioned": []
+ "years_mentioned": [
+  "1984",
+  "2007",
+  "2008",
+  "2015",
+  "2016",
+  "2026"
+ ]
 }

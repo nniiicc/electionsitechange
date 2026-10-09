@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.nedlamont.com/absentee/",
- "fingerprint": "6761986014149428a5557a289702b6cca45c3b9c",
+ "fingerprint": "c5bf8271a11fc8d8270f66534e28cc40f7073454",
  "format": 3,
  "paid_for_by": "",
- "title": "Redirecting to the Absentee Ballot Request Portal…",
- "years_mentioned": []
+ "rendered": true,
+ "title": "Connecticut Online Absentee Ballot Request Portal",
+ "years_mentioned": [
+  "2026"
+ ]
 }

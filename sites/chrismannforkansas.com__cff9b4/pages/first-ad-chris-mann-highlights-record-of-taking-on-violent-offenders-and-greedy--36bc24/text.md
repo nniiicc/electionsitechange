@@ -1,4 +1,4 @@
-Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved News Donate FIRST AD: Chris Mann highlights record of taking on violent offenders and greedy corporations September 15, 2026 LAWRENCE, KS — Today, Chris Mann’s campaign released its first broadcast television ad of the election cycle.
+Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved Merch Vote News Donate FIRST AD: Chris Mann highlights record of taking on violent offenders and greedy corporations September 15, 2026 LAWRENCE, KS — Today, Chris Mann’s campaign released its first broadcast television ad of the election cycle.
 This six-figure buy will run across the state and highlights Chris Mann’s career as a police officer and prosecutor, fighting to keep Kansans safe and hold violent offenders accountable.
 WATCH NOW Chris Mann became a police officer at just 21 years old.
 As a police officer, Mann held domestic abusers, drunk drivers, and other violent offenders accountable.
@@ -10,6 +10,6 @@ Mann then prosecuted white-collar criminals and scam artists as a securities pro
 He secured a decade-long prison sentence against a scam artist who stole the life savings of an elderly widow in Sedgwick County.
 “Chris Mann has spent his career holding bad actors accountable and keeping Kansans safe,” said Leah Rymer, spokesperson for the Chris Mann campaign.
 “As Attorney General, Chris will fight to protect Kansans from anyone who preys on them.
-He won’t let violent predators or greedy corporations off the hook.” ### Post navigation Previous: Chris Mann campaign launches Statewide Law Enforcement Advisory Committee Next: Chris Mann campaign responds to multiple reports that Kris Kobach engaged in “illegal” and “unusual” campaign finance practices Meet Chris Priorities Get Involved News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
+He won’t let violent predators or greedy corporations off the hook.” ### Post navigation Previous: Chris Mann campaign launches Statewide Law Enforcement Advisory Committee Next: Chris Mann campaign responds to multiple reports that Kris Kobach engaged in “illegal” and “unusual” campaign finance practices Meet Chris Priorities Get Involved Merch Vote News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
 Docking Treasurer.
 Privacy Policy

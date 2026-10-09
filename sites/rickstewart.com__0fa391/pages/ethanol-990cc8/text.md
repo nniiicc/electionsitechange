@@ -43,8 +43,6 @@ As described in my Ethanol issue page a carbon tax, with universal energy rebate
 Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
 Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
-Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Ranked Choice Voting Voters prefer Ranked Choice Voting Clean Iowa Does Iowa need to clean up its act?
-Obscene books If the Supreme Court can’t define obscenity, why would you think I can?
-Occupational licensing Occupational licensing – Iowa government run amok?
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Ranked Choice Voting Voters prefer Ranked Choice Voting National Guard The Iowa National Guard has a proud history dating back to 1838 Eminent Domain No private gain from public pain Mental Health Everyone needs good mental health, why don’t we have it?
 Prev Previous End the Drug War Next Local control of local issues Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
 The First Choice for Iowa Governor All Rights Reserved

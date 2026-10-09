@@ -1,4 +1,4 @@
-Skip to content Home About Platform Donate Home About Platform Economic Opportunity Environment Government Accountability Healthcare Working Families Contact Us Donate Menu Healthcare You shouldn’t have to choose between getting health care and putting food on your table.
+Skip to content Home About Platform Donate Home About Platform Economic Opportunity Education Environment Government Accountability Healthcare Working Families FAQ Contact Us Donate Menu Healthcare You shouldn’t have to choose between getting health care and putting food on your table.
 Privatization has made health care more expensive, less accessible, and often located outside our communities.
 In rural areas like ours, the care you need could be over an hour away.
 The Problem Healthcare costs keep going up, and there is no sign of them stopping.

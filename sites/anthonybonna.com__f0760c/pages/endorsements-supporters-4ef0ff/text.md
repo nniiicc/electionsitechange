@@ -1,7 +1,7 @@
 top of page Home Meet Anthony Issues Supporters Videos Contact More...
 Use tab to navigate through the menu items.
 Donate Supporters Organizations Supporting Our Campaign America First Insight Americans for Prosperity Action Associated Industries of Florida PAC ABC Florida - East Coast Chapter Florida Chamber of Commerce Florida Family Action Florida Medical Association PAC Florida Professional Firefighters Florida Realtors PAC Florida Right To Life PAC Fraternal Order of Police, Florida State Lodge Huck Pac for America (Founded by Gov.
-Mike Huckabee) National Federation of Independent Businesses PAC National Veterans Alliance Palm Beach Police Benevolent Association Professional Firefighters and Paramedics of St.
+Mike Huckabee) Humane World Action Fund National Federation of Independent Businesses PAC National Veterans Alliance Palm Beach Police Benevolent Association Professional Firefighters and Paramedics of St.
 Lucie County, Local 1377 Stand for Health Freedom Elected Officials Supporting Our Campaign United States Senator Rick Scott Congressman Brian Mast ​ St.
 Lucie County Sheriff Richard Del Toro St.
 Lucie County Clerk of Court Michelle Miller St.

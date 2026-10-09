@@ -8,11 +8,9 @@ House leaders scored big In closed-door budget process, Mass.
 House leaders scored big May 9, 2024 May 9, 2024 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 5:44 am <p>By Samantha J.
-Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-January 25, 2024 January 25, 2024 | Russell E.
+Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 5:52 pm <p>A Citizens Bank branch that opened last fall on a site at Blue Hill Avenue and Morton Street that once featured a Kentucky Fried Chicken franchise and then sat vacant Read More Read More Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 12:02 pm “Today, Massachusetts moves forward with greater transparency that will lead to a better future for the state’s workforce overall,” said State Representative Russell Holmes (D – Mattapan).
 “It is imperative Read More Read More “I Work for You.” You're my neighbors.

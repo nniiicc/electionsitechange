@@ -19,7 +19,12 @@ If a company wants to offer such benefits, fine.
 If not, then they don’t.
 In my company, I offer no medical insurance at all.
 Instead, I pay people more than the average wage and allow them to buy insurance themselves, which turns out to be cheaper than I as a company could buy it, and allows for a greater range of insurance options.
+As for transgenders, like all Libertarians I believe you have the right to live your life you way, without interference, provided you respect the rights and property of others.
+So my opinion on anyone being trans (or not) is obvious: It’s a personal choice and none of my business nor the government’s.
+The same holds true for any medical procedure any adult consents to receive, whether it’s breast implants, Lasik, hormone and surgical treatments for adults with gender dysphoria, or whatever.
+To my mind, it’s all the same: It’s your choice and none of my business.
+I would oppose any law that would take away your medical freedom.
 The government should not interfere in any private affairs.
-It’s none of the government’s business what goes on between consenting adults.
+It’s none of the government’s business what goes on between consenting adults or with an individual’s medical choice.
 The best way to ensure that private affairs remain private is to vote Libertarian.
 Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

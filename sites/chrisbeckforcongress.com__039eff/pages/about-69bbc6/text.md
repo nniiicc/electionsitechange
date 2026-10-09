@@ -1,9 +1,9 @@
 0 Skip to Content About Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Open Menu Close Menu About Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Open Menu Close Menu Folder: About Back Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact Folder: ES Back Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact Folder: ES Back Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Who is Chris Beck?
 With Mom, Dad and brothers at Hells Canyon (1977) My family at Lake Kiwa, Oregon Cascades (1971) On the Deschutes River with Mom and Dad (1968) My brother Borden and me, Deschutes River Warm Springs Reservation (1974).
 My brothers Jon and Borden, Warner Valley, Lake County (1973) That's me (with decoys) at Warner Valley, Lake County (1978) Deschutes River (1975) Autumn goose hunt, Adel (Lake County).

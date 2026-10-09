@@ -25,6 +25,6 @@ She waved it off as an oversight, but she’s running for a position that has ov
 That’s a difficult flaw to overcome.
 Giannoulias is endorsed.
 Read the Daily Herald’s endorsement here.
-Related Posts Giannoulias Supports State Election Proposal Making It Easier to Register and Vote Following Defeat of Federal Bills, Proposal Would Empower Voters, Result in More Accurate Voting Rolls Keep Reading → Alexi Giannoulias: Competent governance is a good political strategy If Democrats are looking for a new political priority, we should consider administrative competence and innovation.
-It’s not very sexy, but in a world of Keep Reading → Giannoulias Ends Quarter with more than $2.1 million in Campaign for Secretary of State Race Former Illinois State Treasurer Exceeds Fundraising Goals Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Secretary of State to Offer REAL IDs for the First Time at Chicago Auto Show TVDL renewals will also be offered for the first time as well Keep Reading → Giannoulias Proposal Would Ban “Zooming While Driving” Bill aims to prevent distracted driving and improve safety on Illinois roads Keep Reading → Q&A: Illinois Secretary of State Alexi Giannoulias says ‘modernization’ is key Illinois Secretary of State Alexi Giannoulias says his priority since taking office in January has been “modernizing” the Secretary of State’s Office.
+Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

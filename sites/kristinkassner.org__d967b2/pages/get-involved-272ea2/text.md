@@ -1,4 +1,5 @@
-0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE VOLUNTEER Join Team Kassner!
+2026 Legislator of the Year Kristin Kassner Named Legislator of the Year by the Massachusetts Municipal Lawyers Association The lawyers who represent Massachusetts cities and towns honored Kristin for fighting to bring our communities more state aid and better tools to plan for the future.
+Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE VOLUNTEER Join Team Kassner!
 Volunteer with the team and help re-elect Kristin to the State House!
 Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.

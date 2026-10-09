@@ -15,4 +15,4 @@ Amanda will defend LGBTQ+ rights, fight for reproductive freedom, and oppose ext
 Common Sense Gun Policy Amanda believes in creating concrete solutions to the gun violence epidemic impacting our communities.
 She believes we must treat gun violence as a public health issue rooted in communities that have been underfunded and ignored for too long.
 She supports common-sense gun legislation like Ethan’s Law and banning assault weapons and other high-caliber weapons.
-DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Press Contact Us Shop
+DONATE About Volunteer Events Press Contact Us PAID FOR BY AMANDA FOR GEORGIA About Volunteer Events Endorsements Press Contact Us Shop

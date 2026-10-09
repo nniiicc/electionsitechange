@@ -1,0 +1,22 @@
+The image cannot be displayed.
+Your computer may not have enough memory to open the image, or the image may have been corrupted.
+Restart your computer, and then open the file again.
+If the red x still appears, you may have to delete the image and then insert it again.
+Office of Representative Hannah E.
+Kane Commonwealth of Massachusetts For Immediate Release Contact: Erin Ryan, 617-722-2430, Erin.Ryan@mahouse.gov April 29, 2016 Representative Kane Secures Critical Funding for Massachusetts Life Sciences Investment Fund BOSTON- Representative Hannah Kane (R-Shrewsbury) announced Wednesday that the amendment she filed to transfer no more than $10 million of consolidated net surplus budget funds to the Massachusetts Life Sciences Center (MLSC) Investment Fund was adopted as part of a larger amendment during this week’s Fiscal Year 17 (FY17) House budget debate.
+The Massachusetts Life Sciences Center Investment Fund administers a range of funding that includes working capital for promising early stage companies, workforce development, and scientific discovery.
+As a whole, MLSC also provides tax incentive programs to stimulate job creation, and awards grants to public high schools and middle schools for life sciences training facilities.
+The MLSC has made investments in training facilities at every one of the vocational technical schools in the Commonwealth, recognizing the importance of investing in and creating the leaders of the life sciences industry of tomorrow.
+"Massachusetts Life Sciences Center is an investment agency supporting life sciences innovation, research, and development, creating thousands of quality jobs and promoting advancements that improve health and well-being throughout the state,” commented Representative Hannah Kane (R-Shrewsbury).
+“The amendment that I filed to restore the transfer of consolidated net surplus budget funds to the Mass Life Sciences Investment Fund was included in the FY17 budget recommendations released by Governor Baker and received bipartisan support from House members that represent districts across Massachusetts.
+I am incredibly grateful to the leadership for recognizing the importance of reintroducing this section so that Massachusetts can continue to be a premier destination for life sciences companies.” The continued investment in the life sciences industry has led Massachusetts to become a preeminent destination for launching biotech ventures and for the relocation or expansion of operations.
+Massachusetts is now home to 10 of the top 10 medical device companies and is continuing to attract leaders in the biopharmaceutical field, as 16 out of 20 of the world’s largest biopharmaceutical companies are currently, or have intentions of establishing a presence in the state.
+The jobs that are created as a result are high quality jobs offering great benefits and spanning skill and education levels.
+“Our deepest thanks to the House and the House leadership for passage of this amendment, which matches the Baker Administration’s level of funding for the Life Sciences Investment Fund at $10 million for the coming fiscal year,” said Travis McCready, President & CEO of the Massachusetts Life Sciences Center.
+“These funds will be critical to the continued growth of the life sciences throughout Massachusetts, allowing us to make investments in promising earlystage companies & research, advanced biomanufacturing, workforce development, and STEM education.
+I want to thank in particular Rep.
+Kane for her leadership and advocacy as lead sponsor of this amendment, along with the 24 other co-sponsors who worked hard to secure this funding.” The amendment will authorize the transfer of up to $10M in consolidated net surplus budget funds to the Massachusetts Life Sciences Investment Fund prior to transferring additional surplus budget funds to the Commonwealths Stabilization Fund.
+The FY17 budget recommendations released by the Governor earlier this year included language authorizing the transfer however; the measure was eliminated from the spending bill released by House Ways and Means in recent weeks.
+Following the adoption of the amendment, the House continued to debate the over 1300 proposed budget amendments and unanimously engrossed the budget bill on Wednesday afternoon.
+The Senate is expected to debate their version of the FY17 budget in mid-May, before appointed representatives from both branches meet to finalize the spending priorities of the General Court and send a final budget to the Governor for his approbation.
+###

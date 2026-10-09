@@ -1,5 +1,13 @@
-0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform Volunteer Events Merch Press DONATE Meredith Sumenek for State Representative for Missouri’s 95th District in South St.
-Louis County MOVING MISSOURI FORWARD MEET MEREDITH PLATFORM CAMPAIGN MERCH - CAMPAIGN MERCH - CAMPAIGN MERCH - SHOW YOUR SUPPORT WITH MEREDITH SUMENEK MERCH CAMPAIGN STORE Join us to bring representation back to our district!
+0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform November Ballot Info Volunteer Events Merch Press DONATE Meredith Sumenek for State Representative for Missouri’s 95th District in South St.
+Louis County MOVING MISSOURI FORWARD MEET MEREDITH PLATFORM Make a plan to vote in the November 3, 2026 Election!
+It’s finally time to bring representation back to Missouri’s 95th State House District!
+Meredith Sumenek is on the November ballot for State Representative in Missouri State House District 95.
+Absentee voting has already begun in the November 3, 2026 general election.
+Make your plan to vote!
+Learn more about the issues on the ballot, and find information on voting in St.
+Louis County at by clicking the buttons below.
+November Ballot Issues Voting in St.
+Louis County CAMPAIGN MERCH - CAMPAIGN MERCH - CAMPAIGN MERCH - SHOW YOUR SUPPORT WITH MEREDITH SUMENEK MERCH CAMPAIGN STORE Join us to bring representation back to our district!
 Add your contact info to get updates on Meredith’s campaign for the 95th District, and let us know if you want to get a yard sign or volunteer!
 By signing up, you agree to receive recurring automated campaign messages from Meredith Sumenek for MO Campaign Fund at the phone number or email address provided.
 Message and data rates may apply.

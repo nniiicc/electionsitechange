@@ -45,5 +45,5 @@ It's time to put "Illinois Citizens First"!
 Vote for Christine McGovern for State Senate District 18!
 Vote for TRUTH, JUSTICE and COMMON SENSE!
 Let's put "Illinois Citizens First"!
-Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Stay Updated First name Last name Email Zip/Postal Message Thank you for signing up!
 Voter Information Events Photos Contact Privacy Policy Shanahan McGovern for Faith Family & Freedom Powered by CampaignPartner.com - Political Websites Home Meet Christine Issues Donate Volunteer Events Contact Voter Information Close Menu

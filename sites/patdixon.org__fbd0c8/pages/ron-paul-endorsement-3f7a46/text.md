@@ -1,0 +1,10 @@
+Skip to content Skip to content Home About Pat Dixon Policy Statements Ron Paul endorsement Exonerate Robert Roberson Free Market Sustainability Approval Voting School Choice Parent & Teacher Empowerment Non-Partisan Redistricting Texas Muslims AI Property Tax The Abbott Report The Border Election Integrity Texas Transportation Missed Opportunity?
+Hyperbole anyone?
+COVID How to Return Taxes Guns Texas Stance on Science Questionnaire Flock Cameras AI Data Centers The War on Hemp The Abbott Ad 765 kV Transmission iVoterGuide Questionnaire League of Women Voters General Election Voters Guide Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey New Braunfels Herald-Zeitung article 8/29/26 Minority Winner Israel Abbott’s Tax Plan About Greg Abbott Biblical Principles Texas Cannabis Policy Questionnaire Response to TexasMuslim.org Business DPAS-INC Sports and Outdoors CDT 2015 Bio My Journey Axyl Mail Stops About Me My Mom About PSP YouTube Channel Photos Arts Music Amazon author page Government Keep the Party Libertarian Texas Senate District 14 Lago Vista city council TX20 Policy Statements Media and Video Search for: Search Home Uncategorized Ron Paul endorsement Ron Paul endorsement patdixon October 8, 2026 October 8, 2026 Uncategorized When I first ran for city council, Ron Paul endorsed my campaign.
+Now again he has endorsed my campaign for Governor of Texas.
+His statement is: “I am happy to endorse Pat Dixon for Governor of Texas.
+Pat is a strong free market advocate.
+He will protect the wallets of Texas taxpayers and I know he will reject any further assaults on our civil liberties.” -US Rep Ron Paul, R-TX, (retired).
+Below is my letter to Dr Paul requesting his endorsement, with his hand written reply “Consider it done” Bookmark .
+Texas Cannabis Policy Questionnaire Response to TexasMuslim.org Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

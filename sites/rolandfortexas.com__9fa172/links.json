@@ -1,1 +1,42 @@
-[]
+[
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/rolandfortexas?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/rolandfortexas?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/rolandfortexas?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/rolandfortexas?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/rolandfortexas?amount=50"
+},
+{
+"text": "Become a Donor",
+"href": "https://secure.actblue.com/donate/rolandfortexas"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rolandfortexas"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/rolandfortexas"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/rolandfortexas"
+},
+{
+"text": "info@rolandfortexas.com",
+"href": "mailto:info@rolandfortexas.com"
+}
+]

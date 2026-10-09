@@ -12,4 +12,4 @@ Want to be a part of the volunteer team but not sure where to start?
 Don’t worry!
 Fill out this general interest form, and we'll have someone from our team reach out!
 Join us at upcoming events Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-Privacy Policy & Terms No corporate PAC or special interest money accepted.
+No corporate PAC or special interest money accepted.

@@ -1,0 +1,10 @@
+2023 Session Newsletter March 21st Upcoming Event My Bill Freedom Loving members of Senate District 35 and House District 47, Senate Bill 23-186 Oil And Gas Commission Study Methane Seepage Raton Basin This bill requires the Colorado Oil and Gas Conservation Commission, in deliberation with local governments, to do the following: present a study that recognizes management practices for methane seepage in the Raton Basin, affirm the high quality of water from the methane capture operations, and uphold the potential to preserve and use the water for beneficial uses.
+This is a reminder to please join Representative Ty Winter and me on our virtual town hall via zoom this upcoming Monday, March 27, at 5:00PM.
+This zoom call is so that you can talk with us on what is going on in your communities as well as concerns or questions that you may have at the state level.
+Here is the zoom link: https://us02web.zoom.us/j/825897519 92?pwd=MVQrUVBpWlpOYnJMY0 9LR0VqZDJkUT09 SENATOR ROD PELTON Senate District 35 Proud to represent Baca, Bent, Cheyenne, Crowley, El Paso, Elbert, Huerfano, Kit Carson, Kiowa, Las Animas, Lincoln, Otero, and Prowers Counties Reach Out and Stay Connected: Office: (303) 866-4884 Cell: (719) 342-1864 Rod.Pelton.CO@gmail.com We want to have a conversation with you, our constituents, so that way we can best serve you!
+Faithfully, Senator Rod Pelton Facebook: State Senator Rod Pelton Ag Day and Week As a part of National Agriculture Week, today is National Agriculture Day!
+This week (and especially today) celebrates the agricultural industry and the role agriculture plays in the nation and our economy.
+Many people that are involved in agriculture have a hard time with urban legislators weighing in on how rural people conduct their business.
+I encourage you, as a legislator who not only supports agriculture but is involved in it, to reach out to the urban legislators to offer insight into our rural lifestyle and practices.
+Twitter: @SenRodPelton Office: Mailing Address: Senator Rod Pelton Senator Rod Pelton 1525 Sherman St.
+200 E Colfax Ave Suite 648 Room 346 Denver, CO 80203 Denver, CO 80203

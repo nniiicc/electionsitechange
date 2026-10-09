@@ -1,6 +1,4 @@
-0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Oct 8 Wellington Kiwanis Candidates Night Thursday, October 8, 2026 7:00 PM 9:00 PM Patricia Lindley Center for the Performing Arts (map) Google Calendar ICS Candidates and representatives of local ballot issues will each have five minutes to address voters.
-A meet-and-greet will follow in the cafeteria outside the auditorium.
-View Event → Oct 13 YWCA and League of Women Voters Voter Education Forum Tuesday, October 13, 2026 6:30 PM 8:30 PM 423 Washington Avenue Lorain, Ohio, 44052 United States (map) Google Calendar ICS Doors will open at 6:30 p.m., and the formal program will begin at 7:00 p.m.
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Oct 13 YWCA and League of Women Voters Voter Education Forum Tuesday, October 13, 2026 6:30 PM 8:30 PM 423 Washington Avenue Lorain, Ohio, 44052 United States (map) Google Calendar ICS Doors will open at 6:30 p.m., and the formal program will begin at 7:00 p.m.
 The forum will include candidate opening and closing statements and questions prepared by the sponsoring organizations and audience members.
 The formal program will conclude by 8:00 p.m., followed by refreshments and an opportunity to speak with attendees until 8:30 p.m.
 The program is also expected to be livestreamed.
@@ -8,6 +6,8 @@ View Event → Oct 17 to Oct 18 Goods in the Woods Craft Fair Sat, Oct 17, 2026 
 11am - 4pm both days.
 See you there!
 View Event → Oct 24 New London Fall Fest Saturday, October 24, 2026 12:00 PM 6:00 PM 67 South Main Street New London, Ohio, 44851 United States (map) Google Calendar ICS The New London Fall Fest will feature West Clarksfield Smokers, face painting, ice cream, apple dumplings, kettle corn, crafts, live entertainment, and a Touch-a-Truck display.
+View Event → Oct 8 Wellington Kiwanis Candidates Night Thursday, October 8, 2026 7:00 PM 9:00 PM Patricia Lindley Center for the Performing Arts (map) Google Calendar ICS Candidates and representatives of local ballot issues will each have five minutes to address voters.
+A meet-and-greet will follow in the cafeteria outside the auditorium.
 View Event → Oct 7 Early Voting Rally and Fundraiser Wednesday, October 7, 2026 5:00 PM 7:00 PM 4221 Clinton Avenue Lorain, Ohio, 44055 United States (map) Google Calendar ICS Candidates will gather at the Lorain County Board of Elections from approximately 4:00–5:00 p.m. before heading to St.
 Lad’s to speak with guests at the rally and fundraiser.
 View Event → Oct 6 CHIP Candidates Forum Tuesday, October 6, 2026 6:30 PM 9:30 PM Lorain High School (map) Google Calendar ICS The Coalition for Hispanic/Latino Issues & Progress (CHIP) hosts regular candidate forums in Lorain, Ohio, to connect local voters with contested election candidates.

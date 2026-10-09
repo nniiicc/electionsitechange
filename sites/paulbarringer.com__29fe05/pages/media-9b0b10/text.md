@@ -1,5 +1,5 @@
 Skip to content Home About Priorities Volunteer Donate Events Donate Home About Priorities Endorsements Volunteer Events Vote Menu Paul Barringer for Congress, NC-13 Last Updated September 30, 2026 – Please check back regularly for updates Now that the summer is over, likely voters in North Carolina’s 13th Congressional District need to see/read/hear (on broadcast, streaming, and digital or in the mail) that: Paul Barringer is a political outsider who can bring people together to deliver for North Carolinians and fix what’s broken in Washington .
-PHOTOS While Congressman Knott is failing to lower costs for working families and is exactly what’s wrong with Washington.
+PHOTOS VIDEOS While Congressman Knott is failing to lower costs for working families and is exactly what’s wrong with Washington.
 As prices skyrocket, Knott is failing working families, and he represents everything that’s wrong with a corrupt Washington.
 He has taken thousands from Duke Energy and big tech corporations who are forcing a utility rate hike on residential customers to support the data center boom across North Carolina.
 He holds millions of dollars in oil company stock that has soared in value since the start of the war that he strongly supports.

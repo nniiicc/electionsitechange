@@ -1,9 +1,10 @@
 {
  "description": "See Melissa’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Melissa-Douglas/events/",
- "fingerprint": "d664c09c4b18958995e5181bbb277afa2c9fbd20",
+ "fingerprint": "0fe3a75b723b615d4e1b48c9fd3cbf93858bb954",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Melissa Douglas Events",
  "years_mentioned": [
   "2026"

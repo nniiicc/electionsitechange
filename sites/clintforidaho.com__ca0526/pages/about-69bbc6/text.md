@@ -1,4 +1,4 @@
-Skip to content Toggle Navigation Home About Issues Donate Media Contact About Clint Hostetler 2026-03-16T21:57:51-06:00 – Faith – Family – Liberty – YOUR STATE REPRESENTATIVE about clint hostetler Family and the Search for Freedom A bit about me.
+Skip to content Toggle Navigation Home About Issues Opponent Donate Media Contact About Clint Hostetler 2026-03-16T21:57:51-06:00 – Faith – Family – Liberty – YOUR STATE REPRESENTATIVE about clint hostetler Family and the Search for Freedom A bit about me.
 My family and I arrived here in June of 2021 from a state that shall remain un-named.
 Ok…I guess you figured it out, yes, it was California.
 We are California political refugees, there, I said it…but don’t hold that against us, in fact, let me explain.

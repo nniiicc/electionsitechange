@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Fundraiser hosted by Mayor Catherine S.
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Fundraiser hosted by Mayor Catherine S.
 Blakespear and Councilmember Joe Mosca Sunday, December 17, 2017 1:00 PM 3:00 PM 13:00 15:00 Google Calendar ICS Contribute Dear Friends, Councilmember Joe Mosca and I enthusiastically invite you to join co-hosts Encinitas Union School Board Trustee Rimga Viskanta, Francine Busby and Barb Bolton for a fundraiser on Sunday, December 17 from 1-3 p.m. to support our City Council colleague, Tasha Boerner Horvath, in her run for California State Assembly District 76.
 Ask your questions, plum her expertise, become inspired!
 Just one year from the next election is the time when all the chess pieces are organizing on the board.

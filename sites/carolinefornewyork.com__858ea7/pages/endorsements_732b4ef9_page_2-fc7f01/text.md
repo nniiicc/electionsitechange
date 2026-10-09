@@ -1,4 +1,5 @@
-Donate Home MEET CAROLINE SHINKLE VISION Priorities Caroline Shinkle's Vision News supporters Endorsements National Support Shinkle Store Contact Donate A Growing Coalition A Selection of Leaders Who Stand with Caroline Shinkle Endorsements Leaders Who Believe in Caroline Shinkle's Vision Niraj Antani Former Ohio State Senator “As the youngest Hindu and Indian American elected official in American history, I'm excited to support Caroline Shinkle!
+Donate Home MEET CAROLINE SHINKLE VISION Priorities Caroline Shinkle's Vision News supporters Endorsements National Support Shinkle Store Contact Donate A Growing Coalition A Selection of Leaders Who Stand with Caroline Shinkle Endorsements Leaders Who Believe in Caroline Shinkle's Vision New York City Public School Alliance "Caroline's moral clarity, intellect, courage, impressive background, and strength to fight for what is right are exactly what we need in a leader today.
+She has the conviction to stand up to radical ideology and bad actors—something we cannot afford to compromise on at this critical moment." New York City Public School Alliance Endorses Caroline Shinkle for Congress in NY-12 ‍ Niraj Antani Former Ohio State Senator “As the youngest Hindu and Indian American elected official in American history, I'm excited to support Caroline Shinkle!
 I'm confident if elected, Caroline will be a fierce supporter for Hindu and Indian Americans and the U.S.-India relationship.
 With such a large population of Indian Americans in NY-12, I urge the community to vote for Caroline for Congress." NEW YORK, NEW YORK—The youngest Hindu and Indian American elected official in American history, former Ohio State Senator Niraj Antani (R-OH), endorses Caroline Shinkle for Congress in New York’s 12th Congressional District.
 Watch video → Chris Diep Former 2026 Democratic Congressional Candidate in NY-12 “I was a Democratic candidate for this seat in Congress, and I will be voting for Caroline Shinkle.
@@ -7,9 +8,7 @@ I urge other leaders in the Jewish community, and all Americans, to join me in s
 In order for us to carry out our mission of keeping our communities safe, we need back up and support from our lawmakers and government officials.
 Caroline Shinkle understands this and is a proud champion for the law enforcement community.
 Caroline Shinkle will always prioritize the safety of New Yorkers and all Americans, rather than play politics with our security like so many of our current politicians.
-Join me in supporting Caroline Shinkle for Congress." Frank Morano New York City Council Member “I can tell you one of the biggest problems we have in city government today is our congressional delegation is totally out to lunch.
-They are putting forward this left-wing agenda that's totally out of step with where New Yorkers are.
-New York cares about public safety, we care about great schools, we care about great parks, and that's why I'm proud to support Caroline Shinkle for Congress." Watch video → Previous Next Add Your Voice?
+Join me in supporting Caroline Shinkle for Congress." Previous Next Add Your Voice?
 Ready to stand with Caroline Shinkle?
 Submit an endorsement or donate to the campaign.
 Submit an Endorsement DONATE NOW Donate Now ↗      Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress

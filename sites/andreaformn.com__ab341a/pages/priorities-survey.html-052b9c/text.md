@@ -1,0 +1,3 @@
+Priorities Survey Tell Andrea what matters most to you and your community.
+This short survey asks for your city and a few details about you, then your top family and community priorities to help shape the agenda for Minnesota Senate District 3.
+Loading…

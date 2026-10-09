@@ -15,4 +15,4 @@ She has carried that expertise into public service, first as a Trustee for the S
 Perea’s leadership is rooted in community engagement.
 She holds regular town halls, goes door-to-door with her team to ensure residents are heard, and hosts events from tamale giveaways to school supply drives all with a focus on ensuring every resident knows their voice matters.
 Perea is running for State Assembly to continue fighting for working families, safe neighborhoods, affordable housing, and economic opportunity across the Central Valley.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

@@ -1,12 +1,6 @@
 top of page Home About Jake Volunteer More Use tab to navigate through the menu items.
-Donate SLIDE1 SLIDE3 SLIDE4 SLIDE1 1/4 “Every accomplishment starts with the decision to try.” -- John F.
-Kennedy JAKE ASHBY Our communities need a strong and sustainable direction.
-In many cases our current path has been leading us in circles.
-We cannot tax ourselves into prosperity, and we cannot be discouraged with each other to the point that we abandon our shared civic duties.
-I will continue to bring this attitude to Albany.
-I will represent you with dignity and thoughtful perseverance.
-We Need Jake in the State Senate!
-Show your support with a donation, attending an event or by volunteering your time and help re-elect Jake Ashby to the NY State Senate this November.
+Donate New York is Unaffordable and that starts with your utility bill Jake Ashby voted against Hochul’s Climate and Energy Law because he knew it would reduce energy supply and spike utility bills.
+That's exactly what happened.
+Jake's Plan to fix it ​​ Expand supply with reliable and affordable energy, like hydropower and nuclear Outlaw surcharges, fees and taxes on utility bills Return $2 billion in Hochul's stockpiled Climate Taxes as utility bill relief Repeal the Gas Stove Ban and All-Electric Bus Mandate Click Play to Learn More About Why I'm Running for State Senate Vote to keep Jake Ashby as your State Senator!
 Friends of Jake Ashby 2026 P.O.
-BOX 64 Castleton, NY 12033 Jake@Jake-Ashby.com ​ PAID FOR BY FRIENDS OF JAKE ASHBY 2026 ​ PRIVACY: No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
-Text messaging originator opt-in data and consent will not be shared by us with any third parties bottom of page
+BOX 64 Castleton, NY 12033 PAID FOR BY FRIENDS OF JAKE ASHBY 2026 ​ PRIVACY PAGE & INFORMATION bottom of page

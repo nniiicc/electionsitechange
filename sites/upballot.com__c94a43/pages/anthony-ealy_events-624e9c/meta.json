@@ -1,9 +1,10 @@
 {
  "description": "See Anthony’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/anthony-ealy/events/",
- "fingerprint": "7c135ec15ed8d6a58a40de8ac40fc40c62e4fbce",
+ "fingerprint": "24f18bc86d0914f7783de26ce023092a05ba27f8",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Anthony Ealy Events",
  "years_mentioned": [
   "2026"

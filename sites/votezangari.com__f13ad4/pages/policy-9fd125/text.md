@@ -1,4 +1,4 @@
-Skip to content Home John on Policy John in the News Contact Us Volunteer Signup Newsletter Signup Fundraiser Donate Donate John on Policy John on Policy Common Sense.
+Skip to content Home John on Policy John in the News Contact Us Volunteer Signup Newsletter Signup Donate Donate John on Policy John on Policy Common Sense.
 Real Accountability.
 A Pennsylvania That Works for Everyone.
 “I’m not a career politician.
@@ -29,4 +29,4 @@ RIGHTS, REPRESENTATION, AND COMMON SENSE Protect Fundamental Rights: Defend repr
 Common-Sense Gun Safety: Protect lawful firearm ownership while closing background check loopholes on private sales and introducing a reasonable 3-day waiting period to prevent spontaneous acts of violence.
 Regulate Adult-Use Cannabis: Legalize, test, and tax recreational marijuana.
 Divert revenue directly into substance abuse treatment, mental health, and K-12 education.
-Home John on Policy John in the News Contact Us Volunteer Signup Newsletter Signup Fundraiser Donate Donate +1 (717) 513-2632 [email protected] Paid for by Friends of John Zangari Copyright © # Friends of John Zangari
+Home John on Policy John in the News Contact Us Volunteer Signup Newsletter Signup Donate Donate +1 (717) 513-2632 [email protected] Paid for by Friends of John Zangari Copyright © # Friends of John Zangari

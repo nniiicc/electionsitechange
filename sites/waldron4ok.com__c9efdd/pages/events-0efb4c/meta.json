@@ -1,9 +1,10 @@
 {
  "description": "John Waldron Campaign Events",
  "final_url": "https://www.waldron4ok.com/events",
- "fingerprint": "c727a0b017446f5f3643faad2e34701e25ff1e18",
+ "fingerprint": "191d80ffd24c484d070df31b65dd8c26db351f5f",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Events",
  "years_mentioned": [
   "2020",

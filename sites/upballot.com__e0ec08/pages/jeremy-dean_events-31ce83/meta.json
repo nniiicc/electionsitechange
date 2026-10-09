@@ -1,9 +1,10 @@
 {
  "description": "See Jeremy’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/jeremy-dean/events/",
- "fingerprint": "84b50dfb75a37fa941c9d614ff6e1f33392fb47f",
+ "fingerprint": "0da478f8cd02350b5912ea74d2697488ac347f38",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Jeremy Dean Events",
  "years_mentioned": [
   "2026"

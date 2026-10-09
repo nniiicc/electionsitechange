@@ -1,4 +1,4 @@
-Skip to content Home About Platform Donate Home About Platform Economic Opportunity Environment Government Accountability Healthcare Working Families Contact Us Donate Menu Mark Burrows’ Platform I am running to help working families in Jackson, Swain and Transylvania counties.
+Skip to content Home About Platform Donate Home About Platform Economic Opportunity Education Environment Government Accountability Healthcare Working Families FAQ Contact Us Donate Menu Mark Burrows’ Platform I am running to help working families in Jackson, Swain and Transylvania counties.
 You need someone who will listen to you and give voice to your concerns in Raleigh.
 State legislators should be accountable to voters, and should focus more on issues that matter to your family.
 We need access to affordable health care and housing, and we must invest in our public schools.

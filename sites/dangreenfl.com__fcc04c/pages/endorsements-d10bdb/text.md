@@ -1,4 +1,5 @@
-Home Meet Dan Endorsements News Volunteer Donate Skip to content Endorsements Trusted by Congressional War Veterans Tim Sheehy U.S.
+Home Meet Dan Endorsements News Volunteer Donate Skip to content Endorsements Ron DeSantis Governor Chris Blackmon Osceola County Sheriff Drady Judd Polk County Sheriff Paul Blackman Highlands County Sheriff David Hardin Glades County Sheriff Eric Flowers Indian River County Sheriff Noel Stephen Okeechobee County Sheriff Richard Del Toro St.
+Lucie County Sheriff Wayne Ivey Brevard County Sheriff Congressional War Veterans Tim Sheehy U.S.
 Senator for Montana, Lieutenant, U.S.
 Navy SEALs August Pfluger Congressman for Texas’ 11th District, Colonel, U.S.
 Air Force Pat Harrigan Congressman for North Carolina’s 10th District, Captain, U.S.
@@ -51,6 +52,6 @@ As a Trump appointee, Dan was a steady hand and trusted voice on some of our nat
 Dan Green is the conservative leader we can count on to stand up to the radicals in Washington.
 Now, more than ever, our country needs leaders like Dan Green in Congress.” Congressman Mike Haridopolos “President Trump and I need proven conservatives willing to fight with us for the American people.
 Dan Green has defended our nation, lives our values and has proven he can defeat radicals.
-I am honored to endorse Dan Green for Congress because I know he will put America first and continue his fight to defend the freedoms our fellow Floridians hold dear.” Representative Dana Trabulsy Florida House District 84 Fred Jones Sebatian Mayor Joe Flescher Indian River County Commissioner Organizations War Veterans Fund SEAL PAC Home Meet Dan Endorsements News Volunteer Donate Media Paid for by Dan Green for Congress Dan Green is a member of the U.S.
+I am honored to endorse Dan Green for Congress because I know he will put America first and continue his fight to defend the freedoms our fellow Floridians hold dear.” Representative Dana Trabulsy Florida House District 84 Fred Jones Sebatian Mayor Joe Flescher Indian River County Commissioner Organizations War Veterans Fund SEAL PAC Florida Police Benevolent Association Home Meet Dan Endorsements News Volunteer Donate Media Paid for by Dan Green for Congress Dan Green is a member of the U.S.
 Navy Reserves.
 Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of War.

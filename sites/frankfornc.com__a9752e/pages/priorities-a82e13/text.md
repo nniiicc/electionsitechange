@@ -1,4 +1,4 @@
-top of page MEET FRANK PRIORITIES ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
+top of page MEET FRANK PRIORITIES ENDORSEMENTS CONTACT DATA CENTER STATEMENT More Use tab to navigate through the menu items.
 DONATE PRIORITIES Fighting for What Matters Most Crime Stopper ​ | ​ Fortifying Our Infrastructure ​ | ​ Education School Choice | Safeguarding Agriculture ​ | ​ Protecting Women & Girls ​ | ​ Protecting Medicaid As a District 32 House Representative, Frank Sossamon delivered almost $45 million to Granville and Vance Counties in targeted appropriations for infrastructure, healthcare, education, and renovation projects.
 In addition, he helped secure a $3.2 million appropriation for expanding broadband in the district and an overall $620 million in state funding for behavioral health programs.
 Frank is ready to return to Raleigh to bring your state tax dollars home and represent District 32 values.
@@ -39,5 +39,5 @@ The legislation also protects girls from being forced to undress in front of mal
 Protecting Medicaid Frank Sossamon voted to give greater healthcare access to rural communities by voting to expand Medicaid and allow rural hospitals to access federal funding.
 As a strong supporter of Medicaid, Sossamon will also fight to identify fraud and waste in the program to protect our taxpayer investment to help the most vulnerable in our communities.
 A Voice For Community, A Heart for Service.
-Read Frank's Story MEET FRANK PRIORITIES ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
+Read Frank's Story MEET FRANK PRIORITIES ENDORSEMENTS CONTACT DATA CENTER STATEMENT More Use tab to navigate through the menu items.
 DONATE Privacy Policy | Political Ad Paid for by The Committee to Elect Frank Sossamon © # Frank Sossamon for NC | Site Design Credit bottom of page

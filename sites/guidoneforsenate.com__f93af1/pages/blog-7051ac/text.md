@@ -1,5 +1,5 @@
 top of page HOMEPAGE MY PLAN MEET JASON OUT & ABOUT NEWS GET INVOLVED CONTACT More Use tab to navigate through the menu items.
-Jason Guidone on Gary Byron Post-Primary Election Missed Jason Guidone on the Gary Bryon Show?
+All Posts All Posts Jason Guidone on Gary Byron Post-Primary Election Missed Jason Guidone on the Gary Bryon Show?
 Catch Jason talking about his post-primary campaign, the road to November, and the issues he'll tackle when elected.
 Watch the Full Interview Here jasonguidone Aug 25 1 min read Guidone Wins Republican Primary, Demonstrating District-Wide Support Across the 19th District FOR IMMEDIATE RELEASE August 12, 2026 HEBRON, Conn. — Jason Guidone, Republican candidate for State Senate in Connecticut’s 19th District, won Tuesday’s Republican Primary, reinforcing the broad support his campaign has built across the district and setting the stage for the November election.
 The primary victory follows the strong support Guidone received at the Republican convention in May, where he secured 77% of the delegate vote to earn the party endorsement.

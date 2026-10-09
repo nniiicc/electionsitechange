@@ -24,6 +24,10 @@
 "href": "https://www.deanfordistrict15.com/accessibility-statement/"
 },
 {
+"text": "Check Voter Status",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
 "text": "Contact",
 "href": "mailto:deanfordistrict15@gmail.com"
 },
@@ -40,12 +44,24 @@
 "href": "https://secure.actblue.com/donate/deanfor15?amount="
 },
 {
+"text": "Find Polling Place",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
 "text": "Home",
 "href": "https://www.deanfordistrict15.com/"
 },
 {
+"text": "Join Our Movement",
+"href": "https://secure.actblue.com/donate/deanfor15?amount="
+},
+{
 "text": "Other",
 "href": "https://secure.actblue.com/donate/deanfor15?amount="
+},
+{
+"text": "Register To Vote!",
+"href": "https://elections.ny.gov/voter-registration-process"
 },
 {
 "text": "Terms of Service",

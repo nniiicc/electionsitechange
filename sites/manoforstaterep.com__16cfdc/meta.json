@@ -1,9 +1,12 @@
 {
  "description": "Join Mano’s Team By providing your phone number and checking the box, you are consenting to receive polling/voting text messages (e.g., election reminders, opinion polls) and public service announcement text messages (e.g., legislative updates, member updates, and voter education) from Mano DeAyala Campaign at the number provided, including messages sent by autodialer. Message frequency varies. […]",
  "final_url": "https://manoforstaterep.com/",
- "fingerprint": "aa76510cf3232488f269091e762e12535f32616b",
+ "fingerprint": "3cb7ef0b1ec584254308c30922471a80ba1e3c9c",
  "format": 3,
  "paid_for_by": "sponsored by St",
+ "rendered": false,
  "title": "Home - Mano DeAyala",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -16,6 +16,8 @@ That would be a broken dental care system.
 Instead, your dentist will manage to squeeze you in to an already busy day, and give you exactly the dental care you need.
 We should expect the same service from Iowa’s mental health care system.
 Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
-Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Local control of local issues Centralized government leads to less customer satisfaction and sometimes it leads to tyranny, as with Vladimir Putin Obscene books If the Supreme Court can’t define obscenity, why would you think I can?
-End the Drug War America’s second civil war needs to end Eminent Domain No private gain from public pain Prev Previous Local control of local issues Next National Guard Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts 2nd Amendment I own, I shoot, I carry.
+Eminent Domain No private gain from public pain Ethanol Ethanol may be a good idea.
+And it may not be.
+Ranked Choice Voting Voters prefer Ranked Choice Voting Prev Previous Local control of local issues Next National Guard Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
 The First Choice for Iowa Governor All Rights Reserved

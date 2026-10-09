@@ -1,0 +1,2 @@
+BECOME AN INTERN OUR CAMPAIGN IS LAUNCHING A COMPREHENSIVE SUMMER AND FALL INTERN PROGRAM FOR HIGH SCHOOL AND COLLEGE STUDENTS IN ADVANCE OF THE GENERAL ELECTION Tasks: Engage in the democratic process Master skills such as grassroots strategy and organization Political communication and policy research Earn a letter of recommendation!
+If interested please email James Shook directly: James@ElectKevinKiley.com

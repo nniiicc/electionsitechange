@@ -1,4 +1,4 @@
-Letters Letters Letters Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate 2022 2023 2024 2025 ————————————————————————————————————————————————————— The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
+Letters Letters Letters Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate 2022 2023 2024 2025 ————————————————————————————————————————————————————— Nasty Business September 2026 Oct 1, 2026 The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
 May 2026 Jun 1, 2026 A Lunch Room Legislature April 2026 Apr 30, 2026 Malicious Laughter & Willful Incompetence March 2026 Mar 31, 2026 The Secrets of Carcosa February 2026 Feb 28, 2026 The Rorschach World January 2026 Feb 1, 2026 The Curtain of Slop December 2025 Dec 31, 2025 School House Rock and the Smoldering Sky November 2025 Nov 30, 2025 The Party of Lepers October 2025 Nov 19, 2025 A Brave New World September 2025 Oct 1, 2025 Resolution for Peace in Gaza A House resolution that was not able to be introduced.
 Sep 9, 2025 Spare ‘oom August 2025 Letter Sep 1, 2025 Quintilis July 2025 Letter Jul 31, 2025 They Don’t Really Care About Us June 2025 Letter Jun 30, 2025 Getting the Gavel May 2025 Letter May 31, 2025 April, and a Horrible, No Good, Very Bad Budget.
 April 2025 Letter Apr 30, 2025 How Do You Sleep At Night?
@@ -7,7 +7,7 @@ October 2024 Letter Nov 1, 2024 Beating the Odds September 2024 Letter Sep 30, 2
 Misc.
 Letter Dec 7, 2023 Governor Ayotte's Valentines gift to the legislature.
 Misc.
-Letter Feb 14, 2025 2022 2023 2024 2025 ————————————————————————————————————————————————————— The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
+Letter Feb 14, 2025 2022 2023 2024 2025 ————————————————————————————————————————————————————— Nasty Business September 2026 Oct 1, 2026 The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
 May 2026 Jun 1, 2026 A Lunch Room Legislature April 2026 Apr 30, 2026 Malicious Laughter & Willful Incompetence March 2026 Mar 31, 2026 The Secrets of Carcosa February 2026 Feb 28, 2026 The Rorschach World January 2026 Feb 1, 2026 The Curtain of Slop December 2025 Dec 31, 2025 School House Rock and the Smoldering Sky November 2025 Nov 30, 2025 The Party of Lepers October 2025 Nov 19, 2025 A Brave New World September 2025 Oct 1, 2025 Resolution for Peace in Gaza A House resolution that was not able to be introduced.
 Sep 9, 2025 Spare ‘oom August 2025 Letter Sep 1, 2025 Quintilis July 2025 Letter Jul 31, 2025 They Don’t Really Care About Us June 2025 Letter Jun 30, 2025 Getting the Gavel May 2025 Letter May 31, 2025 April, and a Horrible, No Good, Very Bad Budget.
 April 2025 Letter Apr 30, 2025 How Do You Sleep At Night?
@@ -16,7 +16,7 @@ October 2024 Letter Nov 1, 2024 Beating the Odds September 2024 Letter Sep 30, 2
 Misc.
 Letter Dec 7, 2023 Governor Ayotte's Valentines gift to the legislature.
 Misc.
-Letter Feb 14, 2025 2022 2023 2024 2025 ————————————————————————————————————————————————————— The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
+Letter Feb 14, 2025 2022 2023 2024 2025 ————————————————————————————————————————————————————— Nasty Business September 2026 Oct 1, 2026 The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
 May 2026 Jun 1, 2026 A Lunch Room Legislature April 2026 Apr 30, 2026 Malicious Laughter & Willful Incompetence March 2026 Mar 31, 2026 The Secrets of Carcosa February 2026 Feb 28, 2026 The Rorschach World January 2026 Feb 1, 2026 The Curtain of Slop December 2025 Dec 31, 2025 School House Rock and the Smoldering Sky November 2025 Nov 30, 2025 The Party of Lepers October 2025 Nov 19, 2025 A Brave New World September 2025 Oct 1, 2025 Resolution for Peace in Gaza A House resolution that was not able to be introduced.
 Sep 9, 2025 Spare ‘oom August 2025 Letter Sep 1, 2025 Quintilis July 2025 Letter Jul 31, 2025 They Don’t Really Care About Us June 2025 Letter Jun 30, 2025 Getting the Gavel May 2025 Letter May 31, 2025 April, and a Horrible, No Good, Very Bad Budget.
 April 2025 Letter Apr 30, 2025 How Do You Sleep At Night?
@@ -25,7 +25,7 @@ October 2024 Letter Nov 1, 2024 Beating the Odds September 2024 Letter Sep 30, 2
 Misc.
 Letter Dec 7, 2023 Governor Ayotte's Valentines gift to the legislature.
 Misc.
-Letter Feb 14, 2025 2022 2023 2024 2025 ————————————————————————————————————————————————————— The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
+Letter Feb 14, 2025 2022 2023 2024 2025 ————————————————————————————————————————————————————— Nasty Business September 2026 Oct 1, 2026 The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
 May 2026 Jun 1, 2026 A Lunch Room Legislature April 2026 Apr 30, 2026 Malicious Laughter & Willful Incompetence March 2026 Mar 31, 2026 The Secrets of Carcosa February 2026 Feb 28, 2026 The Rorschach World January 2026 Feb 1, 2026 The Curtain of Slop December 2025 Dec 31, 2025 School House Rock and the Smoldering Sky November 2025 Nov 30, 2025 The Party of Lepers October 2025 Nov 19, 2025 A Brave New World September 2025 Oct 1, 2025 Resolution for Peace in Gaza A House resolution that was not able to be introduced.
 Sep 9, 2025 Spare ‘oom August 2025 Letter Sep 1, 2025 Quintilis July 2025 Letter Jul 31, 2025 They Don’t Really Care About Us June 2025 Letter Jun 30, 2025 Getting the Gavel May 2025 Letter May 31, 2025 April, and a Horrible, No Good, Very Bad Budget.
 April 2025 Letter Apr 30, 2025 How Do You Sleep At Night?
@@ -34,7 +34,7 @@ October 2024 Letter Nov 1, 2024 Beating the Odds September 2024 Letter Sep 30, 2
 Misc.
 Letter Dec 7, 2023 Governor Ayotte's Valentines gift to the legislature.
 Misc.
-Letter Feb 14, 2025 2022 2023 2024 2025 ————————————————————————————————————————————————————— The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
+Letter Feb 14, 2025 2022 2023 2024 2025 ————————————————————————————————————————————————————— Nasty Business September 2026 Oct 1, 2026 The Power of the Sun August 2026 Sep 7, 2026 The Fleeting Nature of the Present July 2026 Aug 2, 2026 Dreams from Rome June 2026 Aug 1, 2026 Citizen, or Subject?
 May 2026 Jun 1, 2026 A Lunch Room Legislature April 2026 Apr 30, 2026 Malicious Laughter & Willful Incompetence March 2026 Mar 31, 2026 The Secrets of Carcosa February 2026 Feb 28, 2026 The Rorschach World January 2026 Feb 1, 2026 The Curtain of Slop December 2025 Dec 31, 2025 School House Rock and the Smoldering Sky November 2025 Nov 30, 2025 The Party of Lepers October 2025 Nov 19, 2025 A Brave New World September 2025 Oct 1, 2025 Resolution for Peace in Gaza A House resolution that was not able to be introduced.
 Sep 9, 2025 Spare ‘oom August 2025 Letter Sep 1, 2025 Quintilis July 2025 Letter Jul 31, 2025 They Don’t Really Care About Us June 2025 Letter Jun 30, 2025 Getting the Gavel May 2025 Letter May 31, 2025 April, and a Horrible, No Good, Very Bad Budget.
 April 2025 Letter Apr 30, 2025 How Do You Sleep At Night?

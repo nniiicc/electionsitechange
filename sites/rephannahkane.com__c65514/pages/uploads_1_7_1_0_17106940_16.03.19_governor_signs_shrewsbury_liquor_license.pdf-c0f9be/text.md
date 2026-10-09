@@ -1,0 +1,21 @@
+Office of Representative Hannah E.
+Kane Commonwealth of Massachusetts For Immediate Release Contact: Erin Ryan, 617-722-2430, Erin.Ryan@mahouse.gov March 19, 2016 Governor Signs Bill Authorizing additional Liquor License in town of Shrewsbury BOSTON – Governor Charlie Baker signed legislation this week that will authorize the town of Shrewsbury to issue an additional liquor license for alcohol to be sold on the premises of the future Whole Foods Markets at the Lakeway Commons Development.
+An Act authorizing the Town of Shrewsbury to grant an additional liquor license was filed this past December at the request of the Town of Shrewsbury following a town vote.
+The legislation, which is now Chapter 56 of the Acts of 2016 will authorize the sale of beer, wine and liquor for off-site consumption by Whole Foods Market.
+The Market is slated to be a substantial part of the fully permitted, mixed use Lakeway Commons Development.
+The development project will generate significant and much needed commercial tax revenue for the town, while reviving a plaza that has been absent of retailers for years.
+“With the Governor’s signature the Town of Shrewsbury and the Lakeway Commons Development is one step closer to completion.
+The importance of this development project cannot be understated as Lakeway Commons will revitalize an area of Shrewsbury that has been under-utilized for many years,” said State Representative Hannah Kane (R-Shrewsbury).
+“I am pleased to have been able to work closely with the Town Officials, Representatives of Whole Foods Market, President of Grossman Development Group, Howard Grossman, Senator Moore and my colleagues in the legislature to ensure that this legislation made it to the Governor’s desk as quickly as possible.” “This legislation is yet another step forward in transforming the Route Nine corridor in Shrewsbury,” said Senator Michael O.
+Moore (D-Millbury).
+“Aside from expanding opportunities for local residents and consumers, this new commercial development will create hundreds of jobs within the construction, retail and restaurant industries.
+I am proud to support legislation which responds to the needs cited by the Shrewsbury community.” While Whole Foods Market is a key component and will play an integral role in attracting consumers to the retail plaza, the ability of Whole Foods Market to offer beer, wine and liquor paired with their specialty items will give the market the tools needed to remain competitive in a unique, emerging field of supermarkets that are offering a wide range of products, including alcoholic beverages.
+“We want to express our appreciation for this license and acknowledge the responsibilities it entails.
+At Whole Foods Market, we are committed, as always, to being strong partners in Shrewsbury, and every community we serve.
+We appreciate the efforts and support of Town Manager Dan Morgado, Representative Hannah Kane, Senator Michael Moore and Selectman Moira Miller, throughout this process.
+We look forward, with great anticipation, to opening the doors of Whole Foods Market Shrewsbury!” said Laura Derba, Regional President, Whole Foods Market North Atlantic.
+"We are pleased that Governor Baker has signed to grant this additional license for the new Whole Foods location in Shrewsbury," said Howard Grossman, President & Managing Principal of Grossman Development Group.
+"Whole Foods is pivotal to the Lakeway Commons project and has been an extremely committed partner, so we are happy to have them supported in return." Moira Miller, Chairwoman of the Shrewsbury Board of Selectmen commented, “The Board of Selectmen is pleased that Governor Baker has signed legislation to grant Shrewsbury an additional license for the sale of all alcoholic beverages at Whole Foods Market.
+Whole Foods Market is a key anchor for the Lakeway Commons development which will revitalize a blighted area, spur economic development and greatly contribute to the Shrewsbury tax base.
+We also thank Senator Michael Moore and Representative Hannah Kane for their support and their efforts to get the home rule petition passed by the legislature." With the Governor’s signature the legislation takes effect immediately.
+###

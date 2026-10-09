@@ -1,4 +1,4 @@
-Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved News Donate Privacy Policy Privacy Policy This Privacy Policy explains how Chris Mann for Kansas (“ Committee”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile application that link to this Privacy Policy (collectively, the “Site”).
+Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved Merch Vote News Donate Privacy Policy Privacy Policy This Privacy Policy explains how Chris Mann for Kansas (“ Committee”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile application that link to this Privacy Policy (collectively, the “Site”).
 We may change this Privacy Policy from time to time.
 If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification).
 We encourage you to review the Privacy Policy whenever you access the Site or otherwise interact with us to stay informed about our information practices and the choices available to you.
@@ -48,6 +48,6 @@ Cookies Promotional Communications You may opt out of receiving promotional emai
 If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
 Mobile Push Notifications/Alerts With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device.
 You can deactivate these messages at any time by changing the notification settings on your mobile device.
-Meet Chris Priorities Get Involved News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
+Meet Chris Priorities Get Involved Merch Vote News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
 Docking Treasurer.
 Privacy Policy

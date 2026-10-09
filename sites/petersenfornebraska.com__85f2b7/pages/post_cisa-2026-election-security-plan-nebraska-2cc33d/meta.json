@@ -1,11 +1,10 @@
 {
  "description": "Scott Petersen examines CISA’s 2026 Election Infrastructure Security Plan and what its findings on cyber threats, vendors, voter rolls and paper ballots mean for Nebraska.",
  "final_url": "https://www.petersenfornebraska.com/post/cisa-2026-election-security-plan-nebraska",
- "fingerprint": "170093f1c6fb917ba3869e5b0aeecc087172f51b",
+ "fingerprint": "905d836c5aa6e1f424a8b90eb243f2878ea92697",
  "format": 3,
  "paid_for_by": "Paid for by Scott Petersen for Nebraska",
+ "rendered": false,
  "title": "CISA 2026 Election Security Plan: What It Means for Nebraska",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

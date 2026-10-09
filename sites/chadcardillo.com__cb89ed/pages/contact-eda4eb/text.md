@@ -1,0 +1,2 @@
+0 Skip to Content Home Menu Meet Chad Yard Signs Voting Information Contact English YARD SIGNS Open Menu Close Menu Open Menu Close Menu Home Menu Meet Chad Yard Signs Voting Information Contact English YARD SIGNS Home Folder: Menu Back Meet Chad Yard Signs Voting Information Contact English Back YARD SIGNS Contact me cardilloforct@gmail.com (203) 514-2342 Facebook Instagram Paid for by: Cardillo 2026, Peter Hargett, Treasurer.
+Approved by Chad Cardillo.

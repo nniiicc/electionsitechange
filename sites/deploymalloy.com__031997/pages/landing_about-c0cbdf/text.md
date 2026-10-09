@@ -1,9 +1,9 @@
-Positions About Album Q&A Events Subscribe Signs Shop Donate Positions About Album Q&A Events Subscribe Signs Shop Donate Gerald Malloy Republican running for United States Congress , Vermont Gerald Malloy I am seeking to serve Vermonters, Vermont, and the United States of America.
+Positions About Q&A Proposals Events Subscribe Signs Shop Donate Positions About Q&A Proposals Events Subscribe Signs Shop Donate Gerald Malloy Republican running for United States Congress , Vermont Link to Family Album Gerald Malloy I am seeking to serve Vermonters, Vermont, and the United States of America.
 I am deeply concerned about the direction Vermont is heading, and I believe we need experienced, principled leadership to change course and secure a stronger future.
 Background I am married to my wife, Stacey Malloy.
 We are proud parents of four children.
 Like many Vermont families, we are navigating the challenges of rising costs, education, and building a future for the next generation.
-I was born in Boston and entered West Point at age 18.
+AT age 18 I entered into West Point.
 I served 22 years on active duty in the United States Army, leading soldiers around the world in defense of our nation.
 Following my military service, I continued supporting our country through government roles and have spent years working closely with our military—primarily in the Washington, D.C. area.
 In the private sector, I have succeeded in highly competitive environments, helping grow technology and service businesses and creating jobs.

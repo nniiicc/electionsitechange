@@ -2,7 +2,7 @@ Together, Let's Move 98 Forward Home Donate About Issues Sponsorships Volunteer 
 Learn More Help us campaign today for a better tomorrow!
 Learn More Make A Plan To Vote Early Or Request an Absentee Ballot!
 Early voting at Wescott Park: Monday-Friday, 8:30 a.m. - 5:00 p.m.
-9006 Dorchester Rd, North Charleston, SC 29420 May 26, 2026 - June 5, 2026 (Primary Election) October 19, 2026 - October 31, 2026 (General Election) Your polling location: Primary Election Day: June 9, 2026 General Election Day: November 3, 2026 Learn More Core Values Serving The Community Inclusive Representation United By A Common Goal Dr.
+9006 Dorchester Rd, North Charleston, SC 29420 October 19, 2026 - October 31, 2026 (General Election) Your polling location: General Election Day: November 3, 2026 Learn More Core Values Serving The Community Inclusive Representation United By A Common Goal Dr.
 Sonja Ogletree Satani has led organizations to success and empowered communities through education and economic initiatives.
 United By A Common Goal Inclusive Representation United By A Common Goal Together we can create a brighter, more prosperous future for District 98.
 Inclusive Representation Inclusive Representation Inclusive Representation Every voice in District 98 deserves to be heard and respected.

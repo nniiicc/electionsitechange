@@ -1,4 +1,4 @@
-Skip to content Home About Platform Donate Home About Platform Economic Opportunity Environment Government Accountability Healthcare Working Families Contact Us Donate Menu Working Families Are Struggling We all know that working families are having a tough time.
+Skip to content Home About Platform Donate Home About Platform Economic Opportunity Education Environment Government Accountability Healthcare Working Families FAQ Contact Us Donate Menu Working Families Are Struggling We all know that working families are having a tough time.
 Costs are rising and affordable housing is hard to find.
 It’s difficult to make ends meet, and you shouldn’t have to work two or three jobs just to make ends meet.
 The Problem Nearly a fifth of our children live in poverty.

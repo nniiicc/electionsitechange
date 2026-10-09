@@ -1,7 +1,31 @@
 [
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=1000+south+state+street+clarksdale%2C+mississippi%2C+38614+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=104+south+applegate+street+winona%2C+mississippi%2C+38967+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=106+green+lee+avenue+mound+bayou%2C+mississippi%2C+38762+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=107+george+payne+cossar+boulevard+charleston%2C+mississippi%2C+38921+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1084+u.s.+61+tunica%2C+mississippi%2C+38676+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=120+hugh+mcgraw+drive+yazoo+city%2C+mississippi%2C+39194+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=132+court+street+mayersville%2C+mississippi%2C+39113+united+states"
 },
 {
 "text": "(map)",
@@ -21,7 +45,19 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=205+house+carlson+drive+batesville%2C+mississippi%2C+38606+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=20735+mississippi+12+lexington%2C+mississippi%2C+39095+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=21022+u.s.+61+rolling+fork%2C+mississippi%2C+39159+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2129+grand+avenue+yazoo+city%2C+mississippi%2C+39194+united+states"
 },
 {
 "text": "(map)",
@@ -29,11 +65,35 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=28434+highway+32+oakland%2C+mississippi%2C+38948+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=33853+mississippi+35+vaiden%2C+mississippi%2C+39176+united+states"
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=409+duncan+street+water+valley%2C+mississippi%2C+38965+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=420+east+lee+street+sardis%2C+mississippi%2C+38666+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=606+1st+street+belzoni%2C+mississippi%2C+39038+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=633+u.s.+82+west+indianola%2C+mississippi%2C+38751+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=6960+u.s.+51+goodman%2C+mississippi%2C+39079+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=710+north+davis+avenue+cleveland%2C+mississippi%2C+38732+united+states"
 },
 {
 "text": "(map)",
@@ -44,6 +104,10 @@
 "href": "http://maps.google.com?q=905+mississippi+16+carthage%2C+mississippi%2C+39051+united+states"
 },
 {
+"text": "(map)",
+"href": "http://maps.google.com?q=917+martin+luther+king+junior+drive+marks%2C+mississippi%2C+38646+united+states"
+},
+{
 "text": "0",
 "href": "https://www.electbenniefoster.com/cart"
 },
@@ -52,12 +116,32 @@
 "href": "https://www.electbenniefoster.com/"
 },
 {
+"text": "Batesville Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/batesville-meet-and-greet"
+},
+{
+"text": "Belzoni Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/belzoni-meet-and-greet"
+},
+{
 "text": "Carroll County Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
 },
 {
 "text": "Carthage Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/carthage-meet-and-greet"
+},
+{
+"text": "Charleston Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/charleston-meet-and-greet"
+},
+{
+"text": "Clarksdale Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/clarksdale-meet-and-greet"
+},
+{
+"text": "Cleveland Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/cleveland-meet-and-greet"
 },
 {
 "text": "Contact",
@@ -113,11 +197,31 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Batesville+Meet+and+Greet&dates=20261009T200000Z%2F20261009T204500Z&location=205+House+Carlson+Drive%2C+Batesville%2C+Mississippi%2C+38606%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Belzoni+Meet+and+Greet&dates=20261010T230000Z%2F20261010T231500Z&location=606+1st+Street%2C+Belzoni%2C+Mississippi%2C+39038%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Carroll+County+Meet+and+Greet&dates=20261006T171500Z%2F20261006T174500Z&location=33853+Mississippi+35%2C+Vaiden%2C+Mississippi%2C+39176%2C+United+States"
 },
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Carthage+Meet+and+Greet&dates=20261005T203000Z%2F20261005T220000Z&location=905+Mississippi+16%2C+Carthage%2C+Mississippi%2C+39051%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Charleston+Meet+and+Greet&dates=20261009T173000Z%2F20261009T174500Z&location=107+George+Payne+Cossar+Boulevard%2C+Charleston%2C+Mississippi%2C+38921%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Clarksdale+Meet+and+Greet&dates=20261010T181500Z%2F20261010T191500Z&location=1000+South+State+Street%2C+Clarksdale%2C+Mississippi%2C+38614%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cleveland+Meet+and+Greet&dates=20261010T201500Z%2F20261010T210000Z&location=710+North+Davis+Avenue%2C+Cleveland%2C+Mississippi%2C+38732%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -141,6 +245,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Indianola+Meet+and+Greet&dates=20261010T220000Z%2F20261010T223000Z&location=633+U.S.+82+West%2C+Indianola%2C+Mississippi%2C+38751%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Itta+Bena+Meet+and+Greets&dates=20261007T203000Z%2F20261007T211500Z"
 },
 {
@@ -153,7 +261,23 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Marks+Meet+and+Greet&dates=20261010T171500Z%2F20261010T174500Z&location=917+Martin+Luther+King+Junior+Drive%2C+Marks%2C+Mississippi%2C+38646%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mayersville+Meet+and+Greet&dates=20261011T200000Z%2F20261011T201500Z&location=132+Court+Street%2C+Mayersville%2C+Mississippi%2C+39113%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montgomery+County+Meet+and+Greet&dates=20261006T180000Z%2F20261006T190000Z&location=104+South+Applegate+Street%2C+Winona%2C+Mississippi%2C+38967%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mound+Bayou+Meet+and+Greet&dates=20261010T194500Z%2F20261010T200000Z&location=106+Green+Lee+Avenue%2C+Mound+Bayou%2C+Mississippi%2C+38762%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oakland+Meet+and+Greet&dates=20261009T170000Z%2F20261009T171500Z&location=28434+Highway+32%2C+Oakland%2C+Mississippi%2C+38948%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -161,11 +285,35 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rolling+Fork+Meet+and+Greet&dates=20261011T203000Z%2F20261011T223000Z&location=21022+U.S.+61%2C+Rolling+Fork%2C+Mississippi%2C+39159%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sardis+Meet+and+Greet&dates=20261009T193000Z%2F20261009T194500Z&location=420+East+Lee+Street%2C+Sardis%2C+Mississippi%2C+38666%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Tchula+Meet+and+Greets&dates=20261007T191500Z%2F20261007T200000Z"
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Tunica+Meet+and+Greet&dates=20261010T160000Z%2F20261010T163000Z&location=1084+U.S.+61%2C+Tunica%2C+Mississippi%2C+38676%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walnut+Grove+Meet+and+Greet&dates=20261005T190000Z%2F20261005T200000Z&location=132+MS-35%2C+Walnut+Grove%2C+MS%2C+39189"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Water+Valley+Meet+and+Greet&dates=20261009T182000Z%2F20261009T183000Z&location=409+Duncan+Street%2C+Water+Valley%2C+Mississippi%2C+38965%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Yazoo+City+Meet+and+Greet&dates=20261011T003000Z%2F20261011T010000Z&location=2129+Grand+Avenue%2C+Yazoo+City%2C+Mississippi%2C+39194%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Yazoo+County+Fair+Meet+and+Greet&dates=20261010T234500Z%2F20261011T003000Z&location=120+Hugh+McGraw+Drive%2C+Yazoo+City%2C+Mississippi%2C+39194%2C+United+States"
 },
 {
 "text": "Greenwood Meet and Greets",
@@ -181,6 +329,14 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/batesville-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/belzoni-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet?format=ical"
 },
 {
@@ -189,7 +345,23 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/charleston-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/clarksdale-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/cleveland-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/empowered-to-vote?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3?format=ical"
 },
 {
 "text": "ICS",
@@ -205,6 +377,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/indianola-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets?format=ical"
 },
 {
@@ -217,7 +393,23 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/marks-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/mayersville-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/montgomery-county-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/mound-bayou-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
@@ -225,11 +417,35 @@
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/rolling-fork-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet?format=ical"
 },
 {
 "text": "ICS",
+"href": "https://www.electbenniefoster.com/events/tunica-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.electbenniefoster.com/events/walnut-grove-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/water-valley-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/yazoo-city-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electbenniefoster.com/events/yazoo-county-fair-meet-and-greet?format=ical"
+},
+{
+"text": "Indianola Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/indianola-meet-and-greet"
 },
 {
 "text": "Initiatives",
@@ -252,12 +468,28 @@
 "href": "https://www.electbenniefoster.com/events/lexington-town-hall"
 },
 {
+"text": "Marks Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/marks-meet-and-greet"
+},
+{
+"text": "Mayersville Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/mayersville-meet-and-greet"
+},
+{
 "text": "Meet Foster",
 "href": "https://www.electbenniefoster.com/meetfoster"
 },
 {
 "text": "Montgomery County Meet and Greet",
 "href": "https://www.electbenniefoster.com/events/montgomery-county-meet-and-greet"
+},
+{
+"text": "Mound Bayou Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/mound-bayou-meet-and-greet"
+},
+{
+"text": "Oakland Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet"
 },
 {
 "text": "Our District | MS-02",
@@ -276,8 +508,20 @@
 "href": "https://www.electbenniefoster.com/questions-answers"
 },
 {
+"text": "Rolling Fork Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/rolling-fork-meet-and-greet"
+},
+{
+"text": "Sardis Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3"
+},
+{
 "text": "Tchula Meet and Greets",
 "href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet"
+},
+{
+"text": "Tunica Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/tunica-meet-and-greet"
 },
 {
 "text": "Updates",
@@ -289,6 +533,14 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/batesville-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/belzoni-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
 },
 {
@@ -297,7 +549,23 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/charleston-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/clarksdale-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/cleveland-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/empowered-to-vote"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3"
 },
 {
 "text": "View Event →",
@@ -313,6 +581,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/indianola-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets"
 },
 {
@@ -325,7 +597,23 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/marks-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/mayersville-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/montgomery-county-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/mound-bayou-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet"
 },
 {
 "text": "View Event →",
@@ -333,11 +621,31 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/rolling-fork-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet"
 },
 {
 "text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/tunica-meet-and-greet"
+},
+{
+"text": "View Event →",
 "href": "https://www.electbenniefoster.com/events/walnut-grove-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/water-valley-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/yazoo-city-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.electbenniefoster.com/events/yazoo-county-fair-meet-and-greet"
 },
 {
 "text": "Voting",
@@ -348,12 +656,44 @@
 "href": "https://www.electbenniefoster.com/events/walnut-grove-meet-and-greet"
 },
 {
+"text": "Water Valley Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/water-valley-meet-and-greet"
+},
+{
+"text": "Yazoo City Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/yazoo-city-meet-and-greet"
+},
+{
+"text": "Yazoo County Fair Meet and Greet",
+"href": "https://www.electbenniefoster.com/events/yazoo-county-fair-meet-and-greet"
+},
+{
+"text": "[image: Batesville Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/batesville-meet-and-greet"
+},
+{
+"text": "[image: Belzoni Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/belzoni-meet-and-greet"
+},
+{
 "text": "[image: Carroll County Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/carroll-county-meet-and-greet"
 },
 {
 "text": "[image: Carthage Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/carthage-meet-and-greet"
+},
+{
+"text": "[image: Charleston Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/charleston-meet-and-greet"
+},
+{
+"text": "[image: Clarksdale Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/clarksdale-meet-and-greet"
+},
+{
+"text": "[image: Cleveland Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/cleveland-meet-and-greet"
 },
 {
 "text": "[image: Durant City Hall (On the steps)]",
@@ -376,6 +716,10 @@
 "href": "https://www.electbenniefoster.com/events/grenada-county-meet-and-greet"
 },
 {
+"text": "[image: Indianola Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/indianola-meet-and-greet"
+},
+{
 "text": "[image: Itta Bena Meet and Greets]",
 "href": "https://www.electbenniefoster.com/events/itta-bena-meet-and-greets"
 },
@@ -388,20 +732,60 @@
 "href": "https://www.electbenniefoster.com/events/lexington-town-hall"
 },
 {
+"text": "[image: Marks Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/marks-meet-and-greet"
+},
+{
+"text": "[image: Mayersville Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/mayersville-meet-and-greet"
+},
+{
 "text": "[image: Montgomery County Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/montgomery-county-meet-and-greet"
+},
+{
+"text": "[image: Mound Bayou Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/mound-bayou-meet-and-greet"
+},
+{
+"text": "[image: Oakland Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/oakland-meet-and-greet"
 },
 {
 "text": "[image: Our Voice Our Vote with guest speaker Mark Burns]",
 "href": "https://www.electbenniefoster.com/events/our-voice-our-vote-with-guest-speaker-mark-burns"
 },
 {
+"text": "[image: Rolling Fork Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/rolling-fork-meet-and-greet"
+},
+{
+"text": "[image: Sardis Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/fs5lotjyjnch3oine7s9gbpg30bjv3"
+},
+{
 "text": "[image: Tchula Meet and Greets]",
 "href": "https://www.electbenniefoster.com/events/tchula-meet-and-greet"
 },
 {
+"text": "[image: Tunica Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/tunica-meet-and-greet"
+},
+{
 "text": "[image: Walnut Grove Meet and Greet]",
 "href": "https://www.electbenniefoster.com/events/walnut-grove-meet-and-greet"
+},
+{
+"text": "[image: Water Valley Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/water-valley-meet-and-greet"
+},
+{
+"text": "[image: Yazoo City Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/yazoo-city-meet-and-greet"
+},
+{
+"text": "[image: Yazoo County Fair Meet and Greet]",
+"href": "https://www.electbenniefoster.com/events/yazoo-county-fair-meet-and-greet"
 },
 {
 "text": "team@electbenniefoster.com",

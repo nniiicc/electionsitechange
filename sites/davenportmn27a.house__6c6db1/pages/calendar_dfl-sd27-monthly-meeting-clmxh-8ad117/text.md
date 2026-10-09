@@ -2,5 +2,4 @@
 Social hour begins at 5:30 pm.
 Meeting begins at 6:30.
 Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
-Previous Previous October 13 Big Lake Door Knocking Next Next October 16 Early Voting Starts!!
-Paid for by Davenport for Minnesota House 27A
+Previous Previous October 13 Big Lake Door Knocking Next Next October 15 Becker Door Knocking Paid for by Davenport for Minnesota House 27A

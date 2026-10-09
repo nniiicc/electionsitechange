@@ -1,9 +1,17 @@
 {
  "description": "Alicia Saunders, a navy veteran, blue-collar worker, and single mom is the Democrat running in 2024 for Wisconsin's 2nd Assembly District. Learn more!",
  "final_url": "https://aliciasaundersforwisco.com/",
- "fingerprint": "a750902f7827ec50b3c524ab0f69114a200d58df",
+ "fingerprint": "308c8dca4c596fea32593cc8535db1522cb2c40c",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Alicia Saunders for Wisconsin",
+ "rendered": true,
  "title": "Alicia For Wisconsin",
- "years_mentioned": []
+ "years_mentioned": [
+  "2002",
+  "2005",
+  "2006",
+  "2007",
+  "2018",
+  "2024"
+ ]
 }

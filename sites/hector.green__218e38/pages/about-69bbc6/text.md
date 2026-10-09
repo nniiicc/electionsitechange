@@ -1,0 +1,24 @@
+Skip to main content Home Inicio Home About Sobre About Map Mapa Map Vote Votar Vote About Quantá Sobre Quantá About Quantá Open menu EN / ES Home Inicio Home About Sobre About Map Mapa Map Vote Votar Vote About Quantá Sobre Quantá About Quantá Language EN / ES About Hector Gomez Sobre Hector Gómez About Hector Gomez Hector Gomez is running for the Arizona State House in Legislative District 26 because the people who already power this district deserve a representative who votes like them—not corporate interests at the Capitol.
+He is campaigning on a clear, people-first agenda, backed by grassroots support.
+Hector Gómez se postula a la Cámara de Representantes por el Distrito Legislativo 26 porque quienes ya sostienen este distrito merecen un representante que vote como ellos—no los intereses corporativos en el Capitolio.
+Presenta una agenda clara centrada en la gente, con apoyo de base.
+Hector Gomez is running for the Arizona State House in Legislative District 26 because the people who already power this district deserve a representative who votes like them—not corporate interests at the Capitol.
+He is campaigning on a clear, people-first agenda, backed by grassroots support.
+The Green commitment El compromiso Verde The Green commitment In line with Green Party values, Hector does not accept corporate donations, political action committee (PAC) money, 527(c) organization funds, or soft money.
+He is accountable to voters in LD26—not to the biggest spenders at the Capitol.
+En la línea del Partido Verde, Hector no acepta donaciones corporativas, dinero de comités de acción política (PACs), fondos de organizaciones 527(c) ni soft money.
+Rinde cuentas a los votantes de LD26—no a quien más gasta en el Capitolio.
+In line with Green Party values, Hector does not accept corporate donations, political action committee (PAC) money, 527(c) organization funds, or soft money.
+He is accountable to voters in LD26—not to the biggest spenders at the Capitol.
+What Hector Gomez stands for En qué cree Hector Gómez What Hector Gomez stands for His priorities reflect economic fairness and grassroots democracy: Sus prioridades reflejan equidad económica y democracia de base: His priorities reflect economic fairness and grassroots democracy: 1 Single-payer universal health care Atención médica universal de pagador único Single-payer universal health care 2 Tuition-free public higher education Educación superior pública gratuita Tuition-free public higher education 3 Affordable housing, stronger renter protections, and food security Vivienda asequible, mejores protecciones para inquilinos y seguridad alimentaria Affordable housing, stronger renter protections, and food security 4 Living wages that keep up with the cost of life Salarios dignos que acompañen el costo de la vida Living wages that keep up with the cost of life 5 Fair taxes on the wealthiest and closing corporate loopholes Impuestos justos a quienes más tienen y cierre de vacíos corporativos Fair taxes on the wealthiest and closing corporate loopholes 6 Unions and strong worker protections Sindicatos y protecciones sólidas para trabajadores Unions and strong worker protections 7 Investment in local renewable energy and electric transportation Inversión en energía renovable local y transporte eléctrico Investment in local renewable energy and electric transportation 8 Humane immigration policy, including abolishing ICE Política migratoria humana, incluida la abolición del ICE Humane immigration policy, including abolishing ICE 9 Removing corrupt influence from public office Sacar la corrupción y la influencia indebida de la función pública Removing corrupt influence from public office 10 Relief from student debt and medical debt Alivio de la deuda estudiantil y médica Relief from student debt and medical debt 11 Full legal equality and civil rights for LGBTQIA+ Arizonans Igualdad legal plena y derechos civiles para personas LGBTQIA+ en Arizona Full legal equality and civil rights for LGBTQIA+ Arizonans If that sounds like common sense for Arizona, it is time to vote Green—and vote Hector Gomez for State House.
+Si eso le parece sentido común para Arizona, es hora de votar Verde—y votar a Hector Gómez para la Cámara Estatal.
+If that sounds like common sense for Arizona, it is time to vote Green—and vote Hector Gomez for State House.
+How To Vote Cómo Votar How To Vote Paid for by Hector Gomez for State Representative - District 26.
+Pagado por Hector Gómez para representante estatal - Distrito 26.
+Paid for by Hector Gomez for State Representative - District 26.
+Authorized by Hector Gomez.
+Autorizado por Hector Gómez.
+Authorized by Hector Gomez.
+Information on voting is for convenience; confirm deadlines with the Secretary of State.
+La información electoral es orientativa; confirme plazos con la Secretaría de Estado.
+Information on voting is for convenience; confirm deadlines with the Secretary of State.

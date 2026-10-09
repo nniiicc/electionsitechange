@@ -1,4 +1,4 @@
-0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform Volunteer Events Merch Press DONATE REPRESENTATION No taxes without a voice!
+0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform November Ballot Info Volunteer Events Merch Press DONATE REPRESENTATION No taxes without a voice!
 Since January of 2025, our community hasn’t had anyone speaking up for us in the Missouri State Legislature.
 That means no one from our area has helped make big decisions that affect our lives.
 That’s not fair.

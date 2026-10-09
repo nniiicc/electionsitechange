@@ -104,7 +104,7 @@ A great work ethic.
 Tawn will be a true fighter for Michigan's families, farms, and businesses.
 Edward McCall Chair of the 6th Congressional District Republican Committee Tawn is a great human being who will fight for you with calm but relentless energy in Lansing.
 Please give her your support this year!
-SK Sebastian Krage Endorsement I am proud to endorse Tawn Beliger for State Senator.
+SK Sebastian Krage Youth Commisioner on YPAC and Member of the Young Republicans Committee I am proud to endorse Tawn Beliger for State Senator.
 She will return common sense to Lansing and fight for our individual liberties, just as our founders intended!
 Neighbors for Tawn Family, friends, and neighbors — tap to read their endorsements Joe Farkas Precinct Delegate I have worked with Tawn on different political efforts over the last 16 years.
 I know her to be a hardworking, principled, faith-based conservative.

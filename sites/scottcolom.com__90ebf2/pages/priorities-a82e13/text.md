@@ -1,4 +1,4 @@
-Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Where Scott Stands District Attorney Scott Colom is a seventh-generation Mississippian, a husband, and a father of two.
+Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Info The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Info Facebook X-twitter Instagram Tiktok Donate Where Scott Stands District Attorney Scott Colom is a seventh-generation Mississippian, a husband, and a father of two.
 He is running for U.S.
 Senate because he believes Mississippi matters, and that the people who work hard here deserve a senator who works for them.
 Lower Costs Scott believes a family that works hard should be able to afford groceries, gas and the light bill.

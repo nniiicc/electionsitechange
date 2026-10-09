@@ -14,4 +14,5 @@ Nevada has the most efficient water usage in the nation and should not be penali
 Pro-Life Vote no on Question 6.
 Jon believes in the sanctity of human life.
 All human life is precious, and he seeks to protect those who are least able to protect themselves.
+Paid for by Friends of Jon Kamerath.
 Web page designed by Limelight Media powered by WiX. bottom of page

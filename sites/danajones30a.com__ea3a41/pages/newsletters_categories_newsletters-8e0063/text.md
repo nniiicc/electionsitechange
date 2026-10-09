@@ -1,6 +1,6 @@
 top of page I'M RUNNING FOR RE-ELECTION, SUPPORT MY CAMPAIGN!
 Meet Dana Endorsements Results End of Session Letters Freedom to Read Act Volunteer Projects For the District Shutdown Resources Contact Me Newsletters Privacy Policy More Use tab to navigate through the menu items.
-DONATE Updates from Dana Statements Newsletters Endorsements: D30 Senate Vacancy Search ⚓️ Happy 150th Thomas Point Lighthouse!
+DONATE Updates from Dana All Updates Statements Newsletters Endorsements: D30 Senate Vacancy Search ⚓️ Happy 150th Thomas Point Lighthouse!
 Last weekend, I had the honor of celebrating 150th Anniversary event for the Thomas Point Shoal Lighthouse, a true icon of our Chesapeake heritage and a proud part of my district.
 Newsletters Dana Jones Aug 15, 2025 5 min read Get Ready to Vote, Annapolis!
 Primary and General Election Day is just around the corner, the City of Annapolis is getting ready for our 2025 Municipal Elections!

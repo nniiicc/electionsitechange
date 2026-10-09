@@ -31,7 +31,6 @@ The wacipi also reminded me about the importance of ensuring that tribal nations
 One final note...
 The Indian Taco I had for lunch was bigger than my head, and the picture below doesn’t do justice to how large the fry bread was.
 If you’re wondering, it was delicious.
-Recent Posts See All Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
-As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling South Dakotans Deserve Clear, Secure Elections With just # days until Election Day, and 9 until early voting, South Dakota voters should be able to trust that the rules governing their elections are clear, consistent, and secure.
-Instead, we are Contact Us Nikki G for SD P.O.
+Recent Posts See All Marty jackley, Trump admin and r's put South Dakotans with disabilities at risk Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
+As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling Contact Us Nikki G for SD P.O.
 BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

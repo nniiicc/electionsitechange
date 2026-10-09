@@ -29,6 +29,12 @@ Protecting Fairness in Women’s Sports Melanie believes in protecting fairness 
 She has supported legislation to ensure that female athletes compete on a level playing field in Missouri schools and colleges.
 She will continue standing up for women and girls across the state.
 Get Involved First Name (Required) Last Name (Required) Email (Required) Phone How would you like to help?
-Display a yard sign Host a neighborhood meet and greet Host a fundraiser Display a 4' x 8' Barn Sign Make phone calls Deliver literature door to door Other Comments/Questions Consent (Required) By providing your phone number, you agree to receive campaign & donation messages from Friends of Melanie Stinnett to the phone number you provide.
-(Required) Volunteer!
+Display a yard sign Host a neighborhood meet and greet Host a fundraiser Display a 4' x 8' Barn Sign Make phone calls Deliver literature door to door Other Address (Required) Street Address City State Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State Zip Comments/Questions Consent By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities & donation requests) from Friends of Melanie Stinnett at the number provided.
+Message frequency varies.
+Msg & data rates may apply.
+Reply HELP for assistance.
+Reply STOP to opt out at any time.
+Terms & Conditions + Privacy Policy apply.
+Volunteer!
 Privacy Policy PAID FOR BY Friends of Melanie Stinnett, Treasurer Cristian Rath

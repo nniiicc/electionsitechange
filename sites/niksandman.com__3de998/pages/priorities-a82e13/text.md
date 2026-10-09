@@ -1,4 +1,4 @@
-Skip to content Nik Sandman Libertarian For Congress Menu Menu Home About Nik Priorities And Policies Volunteer Contact Donate THE CHOICE IS YOURS Nebraska voters deserve a clear, unfiltered look at where the candidates stand on the issues shaping our daily lives.
+Skip to content Nik Sandman Libertarian For Congress Menu Menu Home About Nik Priorities And Policies Volunteer Blog Contact Donate THE CHOICE IS YOURS Nebraska voters deserve a clear, unfiltered look at where the candidates stand on the issues shaping our daily lives.
 When you strip away the sound bites, party labels, and high-dollar TV ads, making an informed choice comes down to a simple question: who is actually working for you?
 From agricultural policy and fiscal responsibility to personal privacy and healthcare, the contrast in priorities couldn’t be sharper.
 Below is a direct side-by-side comparison highlighting where each candidate stands on the issues that matter most to Nebraska’s farms, families, and future.

@@ -1,4 +1,4 @@
-Positions About Album Q&A Events Subscribe Signs Shop Donate Positions About Album Q&A Events Subscribe Signs Shop Donate Gerald Malloy for Congress 2026 Republican | Weathersfield, Vermont As I travel around the state and meet thousands of people, here are some of the questions that I am asked along the way with my answers.
+Positions About Q&A Proposals Events Subscribe Signs Shop Donate Positions About Q&A Proposals Events Subscribe Signs Shop Donate Gerald Malloy for Congress 2026 Republican | Weathersfield, Vermont As I travel around the state and meet thousands of people, here are some of the questions that I am asked along the way with my answers.
 Answers to the many questions I get asked Who won the 2020 presidential election?
 Will you certify election results?
 Joe Biden won the 2020 election.

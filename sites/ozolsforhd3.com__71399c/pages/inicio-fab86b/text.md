@@ -1,4 +1,4 @@
-top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Donate DISTRITO 3 DE LA CÁMARA DE COLORADO Menos palabras, más acción Luchando por los derechos reproductivos, la equidad laboral y un Colorado que funcione para todos. Únete a nuestro movimiento.
+top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Media Donate DISTRITO 3 DE LA CÁMARA DE COLORADO Menos palabras, más acción Luchando por los derechos reproductivos, la equidad laboral y un Colorado que funcione para todos. Únete a nuestro movimiento.
 Conoce a Gena Hazte voluntario Nuestras Prioridades Una visión clara para Colorado, guiada por los valores de nuestra comunidad.
 Derechos Reproductivos: Derechos Reproductivos: Cada persona tiene derecho a decidir sobre su propio cuerpo y a recibir la atención médica que necesita.
 Conoce más Derechos Laborales Derechos Laborales Salarios justos, trabajos seguros y el derecho de toda familia trabajadora a organizarse.

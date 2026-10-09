@@ -11,7 +11,7 @@ To save time, please download the MiniVan app prior to the event.
 3.
 Canvassing is more fun if you bring a friend!
 Sign up here!
-Previous Previous November 1 Canvassing with Team Marchman!
-Next Next November 2 Canvassing with Team Marchman!
+Previous Previous November 1 GOTV Canvass Launch with Team Marchman!
+Next Next November 2 GOTV Canvass Launch with Team Marchman!
 Ask a question © # by Janice Marchman.
 Paid for by Janice Marchman for Colorado Senate | Mike Stolz Registered Agent

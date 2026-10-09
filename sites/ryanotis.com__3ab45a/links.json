@@ -1,1 +1,62 @@
-[]
+[
+{
+"text": "207-469-5604",
+"href": "tel:207-469-5604"
+},
+{
+"text": "@OtisForME",
+"href": "https://facebook.com/OtisForME"
+},
+{
+"text": "Apple",
+"href": "https://ryanotis.com/api/calendar/early-voting.ics"
+},
+{
+"text": "Apple",
+"href": "https://ryanotis.com/api/calendar/general.ics"
+},
+{
+"text": "Donate $5",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Donate $5 to Clean Elections",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Google",
+"href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maine+Early+Voting+Begins&dates=20261005T000000Z%2F20261006T000000Z&details=Early+voting+begins+in+Maine.+Vote+Ryan+Otis+for+State+Senate"
+},
+{
+"text": "Google",
+"href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maine+General+Election&dates=20261103T000000Z%2F20261104T000000Z&details=Vote+Ryan+Otis+for+State+Senate"
+},
+{
+"text": "Outlook",
+"href": "https://outlook.live.com/calendar/0/action/compose?subject=Maine+Early+Voting+Begins&startdt=%23T00%3A00%3A00Z&enddt=%23T00%3A00%3A00Z&body=Early+voting+begins+in+Maine.+Vote+Ryan+Otis+for+State+Senate.&location=Maine&allday=true"
+},
+{
+"text": "Outlook",
+"href": "https://outlook.live.com/calendar/0/action/compose?subject=Maine+General+Election&startdt=%23T00%3A00%3A00Z&enddt=%23T00%3A00%3A00Z&body=Vote+Ryan+Otis+for+State+Senate.+Visit+ryanotis.com+for+more+information.&location=Maine&allday=true"
+},
+{
+"text": "Please donate $5 to support the campaign.",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://www.maine.gov/sos/elections-voting/absentee-voting"
+},
+{
+"text": "Ryan@ryanotis.com",
+"href": "mailto:Ryan@ryanotis.com"
+},
+{
+"text": "[image: Ryan Otis for Senate]",
+"href": "https://ryanotis.com/"
+},
+{
+"text": "www.RyanOtis.com",
+"href": "https://www.ryanotis.com"
+}
+]

@@ -1,4 +1,4 @@
-Skip to content Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Campaign Supply Board Contact DONATE DONATE MEET RONNIE Ronnie Oakley is running for the West Virginia House of Delegates in District 39 because he believes our communities deserve practical leadership, real accountability, and a representative who listens to the people he serves.
+Skip to content Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Endorsements Campaign Supply Board Contact DONATE DONATE MEET RONNIE Ronnie Oakley is running for the West Virginia House of Delegates in District 39 because he believes our communities deserve practical leadership, real accountability, and a representative who listens to the people he serves.
 A Practical Voice for District 39 Ronnie believes public service should start with listening.
 The people who live, work, raise families, run businesses, and build their lives in our communities should have a real voice in the decisions made in Charleston.
 He wants to bring a practical, common-sense approach to the Legislature: asking questions, demanding accountability, and remembering who elected him in the first place.
@@ -13,4 +13,4 @@ Whether the issue is happening in Charleston or right here at home, Ronnie’s g
 Why Ronnie Is Running Ronnie is running because he believes District 39 deserves a strong, independent voice focused on results instead of political games.
 He wants to help build a state government that is more accountable, more responsive, and more willing to listen to the people affected by its decisions.
 For Ronnie, this campaign is about serving the community, protecting what makes our area special, and making sure the people of District 39 have someone in Charleston who will speak up for them.
-Explore Ronnie’s Priorities Privacy Policy © # Ronnie Oakley for District 39 | Paid for by Oakley, Ronnie Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Toggle child menu Campaign Supply Board Contact
+Explore Ronnie’s Priorities Privacy Policy © # Ronnie Oakley for District 39 | Paid for by Oakley, Ronnie Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Toggle child menu Endorsements Campaign Supply Board Contact

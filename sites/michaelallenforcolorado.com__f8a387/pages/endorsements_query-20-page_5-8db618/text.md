@@ -1,4 +1,9 @@
-Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements El Paso County Commissioner Carrie Geitner “Michael Allen understands that rising crime is a contributor to driving costs on hardworking Colorado families even higher, and they need an Attorney General who will be focused on bringing down those costs.
+Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements El Paso County Commissioner Cory Applegate “Michael Allen has the highest murder conviction rate in the state.
+Simply put, Michael Allen locks up killers.
+Michael Allen and his office were a huge support when Fountain police officer Julian Becerra died.
+His office was a driving force to get the Colorado State House to change the laws and prosecute, as well as punish criminals more severely.
+Michael Allen will keep Colorado and its citizens safe and conserve resources, like he has done in El Paso and Teller Counties.
+With that, I offer my endorsement of District Attorney Michael Allen for Colorado’s next Attorney General.” El Paso County Commissioner Carrie Geitner “Michael Allen understands that rising crime is a contributor to driving costs on hardworking Colorado families even higher, and they need an Attorney General who will be focused on bringing down those costs.
 While overdose deaths are falling across much of the country, rates in Colorado are up 10% and leadership on this issue needs to start in the Attorney General’s office.
 Michael created an Organized Crime Unit to prosecute fentanyl traffickers, cartels, and violent robbery rings.
 Michael Allen is the proven conservative who will crack down on crime, restore public safety, and help make Colorado more affordable again.” Teller County Commissioner Dan Williams “There is only one clear choice for AG of Colorado.

@@ -1,9 +1,13 @@
 {
- "description": "Lydia Christensen is an American politician from Michigan and a candidate for the United States Senate in 2026. Learn about her campaign, platform, events, and ways to get involved.",
+ "description": "Lydia Christensen is an American politician from Michigan and a Libertarian candidate for the United States Senate in 2026. Learn about her campaign, platform, and policy positions.",
  "final_url": "https://www.lydialynnchristensen.com/",
- "fingerprint": "56a98b341119a3ddc195b027779d3b13a8f6e371",
+ "fingerprint": "78b5808c21aa79536c69729378939423480c5664",
  "format": 3,
- "paid_for_by": "",
- "title": "Lydia Christensen for U.S. Senate | Unchain Michigan",
- "years_mentioned": []
+ "paid_for_by": "Paid for by Lydia Christensen for United States Senate, Lydia Christensen, Treasurer",
+ "rendered": true,
+ "title": "Lydia Christensen | Lydia Christensen for U.S. Senate",
+ "years_mentioned": [
+  "2020",
+  "2026"
+ ]
 }

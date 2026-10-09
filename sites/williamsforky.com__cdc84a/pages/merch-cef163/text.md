@@ -3,7 +3,7 @@ LOCAL & UNION MADE Merch Shop Clear Filters Filter Clear Filter Drew Crew Tote B
 Supporter Pin Set DONATE Added!
 Williams for Congress Bumper Sticker DONATE Added!
 Williams for Congress Bumper Magnet DONATE Added!
-Supporter Tee S M L XL 2XL 3XL 4XL 5XL 6XL DONATE Added!
+Supporter Tee Sold out S M L XL 2XL 3XL 4XL 5XL 6XL Sold Out Added!
 No results found No results match your search.
 Try removing a few filters.
 LET’S GET JOHN “DREW” WILLIAMS IN CONGRESS Every bit helps us make a big difference!

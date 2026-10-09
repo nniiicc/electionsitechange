@@ -1,1 +1,30 @@
-[]
+[
+{
+"text": "$100",
+"href": "https://secure.anedot.com/beaudoin-for-maine/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/beaudoin-for-maine/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/beaudoin-for-maine/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/beaudoin-for-maine/donate?amount=50"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/beaudoin-for-maine/donate"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://www.maine.gov/sos/elections-voting/absentee-voting"
+},
+{
+"text": "Vote by mail this election. Request your absentee ballot todayGet your ballot →",
+"href": "https://www.maine.gov/sos/elections-voting/absentee-voting"
+}
+]

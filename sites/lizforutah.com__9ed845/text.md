@@ -47,4 +47,4 @@ Msg frequency varies.
 Msg & data rates may apply.
 Reply STOP to opt out.
 Text HELP for support or email: info@lizforutah.com.
-For more info visit: lizforutah.com/privacy-policy liz@lizforutah.com Paid for by the Committee to Elect Liz Oates Privacy Policy
+For more info visit: lizforutah.com/privacy-policy liz@lizforutah.com Paid for by the Committee to Elect Liz Oates Media | Privacy Policy

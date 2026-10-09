@@ -1,9 +1,10 @@
 {
  "description": "See Wick’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Wick-Thomas/events/",
- "fingerprint": "5619c726b3d69840b91fc268cd605a485eb45a35",
+ "fingerprint": "84a7b4a9335a69a1e27573962a2b0ad02cedfd86",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Wick Thomas Events",
  "years_mentioned": [
   "2026"

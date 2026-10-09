@@ -1,0 +1,18 @@
+Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate News ICYMI: WNYC Fact-Checks Cait Conley.
+Rockland’s Data Centers Were Built Before Mike Lawler Took Office October 8, 2026 Timmy Facciola, the reporter covering NY-17, for The Brian Lehrer Show: the data centers were built “prior to 2021,” none meet the threshold of Hochul’s own moratorium, and on Orangetown it is “exactly as Lawler said.” Chappaqua, NY — October 8, 2026 — The Lawler for Congress campaign today called on Democrat Cait Conley and the DCCC to retract their data center attack on Congressman Mike Lawler after WNYC’s Brian Lehrer Show put the claim to the facts this morning.
+For two months, Conley has told voters that “on Mike Lawler’s watch, there have been five data centers built in Rockland County.” She posted it August 19 and August 25 and repeated it to Lawler’s face in the September 28 News 12 debate.
+The DCCC has carried the attack since, accusing Lawler of “$80 billion in tax breaks” for “data center developers.” Today Brian Lehrer asked Timmy Facciola, founder of the Judge Street Journal, to lay out the record.
+WNYC’s audience heard this: When they were built: “The data centers that currently exist in Rockland County have all been built, with the exception of one, prior to 2021.” Lawler was sworn in in January 2023.
+The one exception, DataBank’s Orangeburg facility, was approved by the Orangetown Planning Board in 2022, also before he took office.
+Whether they are the AI data centers Conley says she is fighting: “All of these data centers use less than 50 megawatts of electricity, which is the benchmark that Kathy Hochul set forth in her moratorium… So none of these meet the threshold.” Lawler’s position on the proposed Orangetown project, which Conley said “his record says something different” about: “It’s exactly as Lawler said.
+He wants the local town board to sort it out.” The rest of her attack fails the same test.
+The law she cites for “$80 billion in tax breaks to data center companies” contains the words “data center” zero times.
+Meanwhile, two AI big tech companies have paid Conley $328,283, Hidden Level and Primer, since January 2025, according to her financial disclosure, filed May 19, 2026.
+“Cait Conley stood on a debate stage and said five data centers were built on Mike Lawler’s watch.
+This morning the reporter WNYC brought on to cover her race said they were built before he ever got to Congress, that none of them is the kind of data center she claims to be fighting, and that Mike’s position on Orangetown is exactly what he said it was,” said Lawler for Congress Campaign Manager Ciro Riccardi .
+“Here’s the thing.
+Cait Conley has taken $328,283 from two AI companies and still won’t say what she does for the money.
+One candidate in this race has a data center problem, and it isn’t Mike.” Conley and the DCCC owe Hudson Valley voters two answers, yes or no: Will they retract the claim that five data centers were built in Rockland County on Mike Lawler’s watch?
+Will Conley tell voters what Hidden Level and Primer paid her $328,283 to do?
+### Home About Issues Endorsements News Volunteer Signs Vote Shop Donate Donate Lawler for Congress PO Box 137 Chappaqua, NY 10514 [email protected] (845) 213-3253 Lawler HQ 118 Maple Ave, Back Door New City, NY 10956 Hours: 9 AM - 5 PM Shrub Oak 948 E Main St Shrub Oak, NY 10588 Hours: 9 AM - 5 PM Carmel 16 Fair St Carmel, NY 10512 Hours: 9 AM - 5 PM Hawthorne 373 Elwood Ave Hawthorne, NY 10532 Hours: 9 AM - 5 PM Paid for by Lawler for Congress, Inc.
+Privacy Policy | Terms & Conditions | Accessibility Statement

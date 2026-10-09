@@ -4,10 +4,6 @@
 "href": "https://mk4ar.org/events/today/"
 },
 {
-"text": "+ Google Map",
-"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=1+Country+Club+Dr.+Holiday+Island+AR+United+States"
-},
-{
 "text": "Bio",
 "href": "https://mk4ar.org/bio/"
 },
@@ -40,10 +36,6 @@
 "href": "https://mk4ar.org/media/"
 },
 {
-"text": "Meet the Candidates",
-"href": "https://mk4ar.org/event/meet-the-candidates/"
-},
-{
 "text": "Michael Kalagias For LT Governor",
 "href": "https://mk4ar.org/"
 },
@@ -53,26 +45,22 @@
 },
 {
 "text": "Next Day",
-"href": "https://mk4ar.org/events/2026-10-09/"
+"href": "https://mk4ar.org/events/2026-10-10/"
 },
 {
 "text": "Previous Day",
-"href": "https://mk4ar.org/events/2026-10-07/"
-},
-{
-"text": "Read More",
-"href": "https://mk4ar.org/event/meet-the-candidates/"
-},
-{
-"text": "[no text]",
-"href": "https://mk4ar.org/event/meet-the-candidates/"
+"href": "https://mk4ar.org/events/2026-10-08/"
 },
 {
 "text": "[tooltip: Next day]",
-"href": "https://mk4ar.org/events/2026-10-09/"
+"href": "https://mk4ar.org/events/2026-10-10/"
 },
 {
 "text": "[tooltip: Previous day]",
-"href": "https://mk4ar.org/events/2026-10-07/"
+"href": "https://mk4ar.org/events/2026-10-08/"
+},
+{
+"text": "next upcoming events",
+"href": "https://mk4ar.org/events/2026-10-10/"
 }
 ]

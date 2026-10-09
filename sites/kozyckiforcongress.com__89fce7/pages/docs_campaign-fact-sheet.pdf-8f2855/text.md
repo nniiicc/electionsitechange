@@ -1,0 +1,18 @@
+CAMPAIGN FACT SHEET Tony Kozycki for U.S.
+Congress | Georgia's 7th Congressional District Candidate Tony Kozycki (Democrat) Office Sought U.S.
+House of Representatives, Georgia's 7th District (GA-07) Incumbent Rep.
+Rich McCormick (R) Election General Election – Midterms — Tuesday, November 3, 2026 Primary Result Tony won every county in the May 2026 primary with 40% of the vote.
+He advanced to the runoff in first place, out of four candidates and won the runoff election on June 16, 2026 with nearly 70% of the vote.
+Campaign Website https://kozyckiforcongress.com/index.html Campaign Email comms@kozyckiforcongress.com Social Media FB: https://www.facebook.com/KozyckiforCongress IG: https://www.instagram.com/kozycki_for_congress/ YouTube: https://www.youtube.com/@KozyckiforCongress TikTok: https://www.tiktok.com/@kozyckiforcongress X: https://x.com/TonyKozycki Bluesky: https://bsky.app/profile/tonykozycki.bsky.social Substack: https://substack.com/@tonykozycki Linktree: https://linktr.ee/tonykozyckiforcongress Candidate Biography Tony Kozycki was raised in LaGrange, Georgia, where he learned discipline, accountability, and hard work as a student-athlete.
+He attended the United States Naval Academy (nominated by Senator Saxby Chambliss), graduating in the Class of 2008.
+Tony became a Naval Aviator flying the F/A-18 Super Hornet, completing three combat deployments in support of Operation Enduring Freedom and Operation Inherent Resolve and earning three Air Medals.
+He also served as a U.S.
+Navy liaison embedded with the Royal Australian Air Force, coordinating joint operations and strengthening international partnerships.
+After leaving active duty, Tony returned to Georgia and earned his Juris Doctor, summa cum laude, from Georgia State University College of Law in 2021.
+As an immigration attorney, he has represented families navigating some of the most difficult moments of their lives, fighting for due process, fairness, and accountability.
+Tony is also a father and a coach.
+He is currently a Public Leadership Credential (PLC) candidate at the Harvard Kennedy School, on a pathway toward a mid-career Master in Public Administration.
+Education • United States Naval Academy — Bachelor of Science, 2008 • Georgia State University College of Law — Juris Doctor, summa cum laude, 2021 • Harvard Kennedy School — Public Leadership Credential (PLC) Candidate, 2025–Present Why Tony Is Running Rich McCormick has stopped showing up for Georgia's 7th District.
+Tony is running to replace him with a leader whose record of service - in the air, in the courtroom, and in the community - reflects the standard Georgians deserve in Washington.
+Core Priorities • Fight Corruption: Ban congressional insider trading on day one - Congress should not be allowed to profit from the votes it casts. • Secure Borders Democrat: Fix the immigration system and secure the border at the same time - serious leadership means doing both. • Fix Healthcare: Lower costs, protect coverage, and hold the insurance industry's monopolies accountable after McCormick voted to let premiums double. • Affordability & Working Families: Childcare now costs more than college tuition, and rent is rising faster than wages - Tony has a specific plan to put working families first. • Veterans Affairs: Veterans have already done their part for this country and should not have to fight for the care and benefits they earned. • National Security & Diplomacy: America is strongest when we lead with strength and stand by our allies. • Bipartisan Leadership: Solutions, not political theater - real leadership means working with others to get things done.
+2

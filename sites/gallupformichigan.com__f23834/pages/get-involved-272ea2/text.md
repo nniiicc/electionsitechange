@@ -2,7 +2,10 @@ Skip to content Meet Kate Donate Get Involved!
 Events Endorsements Contact Facebook Facebook Pet Tax Media Get Involved!
 Volunteer Registration Form What are your areas of interest such as phone banking, canvassing, social media, fundraising, event coordinator and voter registration?
 You will receive additional details shortly.
-If you have other questions you can text Kate at (231) 357-9751 You can also get in touch with Tim Dowd at 231-649-0299 to get plugged into our Gallup Forward specific events.
+If you have other questions you can text Kate at (231) 357-9751 We are looking for No Kings Volunteers on Oct.
+17, Election day volunteers Nov.
+3rd, and Pop-up volunteers, phone bankers and canvassers Now-Nov.
+3rd.
 Canvassing Opportunities are happening every day in District 37.
 Coordinating with the MDP One Campaign, we have people walking all over to have conversations with voters.
 We are currently in persuasion walking, where you will talk to independents about why this elections is so important.

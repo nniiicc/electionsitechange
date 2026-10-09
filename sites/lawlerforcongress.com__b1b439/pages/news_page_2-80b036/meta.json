@@ -1,14 +1,16 @@
 {
  "description": "The latest news, press releases, and announcements from the Mike Lawler for Congress campaign in New York's 17th District.",
  "final_url": "https://www.lawlerforcongress.com/news/page/2/",
- "fingerprint": "c60969aa93c66adbf950ddaf61fe3ab50df3d93a",
+ "fingerprint": "6500224a2ee25e895be80ad9768f06ebd1ac0044",
  "format": 3,
  "paid_for_by": "Paid for by Lawler for Congress, Inc",
+ "rendered": false,
  "title": "News - Mike Lawler for Congress",
  "years_mentioned": [
   "2021",
   "2022",
   "2024",
+  "2025",
   "2026"
  ]
 }

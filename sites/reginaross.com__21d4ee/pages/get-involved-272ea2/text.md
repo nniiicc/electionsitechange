@@ -12,5 +12,4 @@ We will put your energy to work.
 First name Last name Phone Number Email Submit Fuel the fight Invest in a neighbor who keeps showing up.
 Your contribution supports voter outreach, field organizing, and the campaign infrastructure to win District 4.
 Frequency One time Monthly Amount $10 $50 $100 $200 Other Donate $10 Stay connected Get the latest from the campaign trail.
-Name Email Phone Number Submit About Issues Endorsements Get Involved Contact Facebook Instagram TikTok © # Paid for by Friends of Regina Ross, 13441 Mackenzie, Detroit, MI 48228 13144 Mackenzie Detroit, MI 48228 [email protected] 313-310-9364 Website by Velu Design Studio × Velu Design Studio contact details V Design Studio Velu Built to be unforgettable.
-Call (313) 710-7244 Email [email protected] Web design · visual identity · digital experiences Volunteer Donate
+Name Email Phone Number Submit About Issues Endorsements Get Involved Contact Facebook Instagram TikTok © # Paid for by Friends of Regina Ross, 13441 Mackenzie, Detroit, MI 48228 13144 Mackenzie Detroit, MI 48228 [email protected] 313-310-9364 Volunteer Donate

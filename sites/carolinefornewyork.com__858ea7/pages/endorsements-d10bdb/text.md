@@ -1,4 +1,8 @@
-Donate Home MEET CAROLINE SHINKLE VISION Priorities Caroline Shinkle's Vision News supporters Endorsements National Support Shinkle Store Contact Donate A Growing Coalition A Selection of Leaders Who Stand with Caroline Shinkle Endorsements Leaders Who Believe in Caroline Shinkle's Vision Bill Ackman Founder and CEO of Pershing Square Capital Management “Hi, I'm Bill Ackman.
+Donate Home MEET CAROLINE SHINKLE VISION Priorities Caroline Shinkle's Vision News supporters Endorsements National Support Shinkle Store Contact Donate A Growing Coalition A Selection of Leaders Who Stand with Caroline Shinkle Endorsements Leaders Who Believe in Caroline Shinkle's Vision John Chell Former NYPD Chief of Department "As the NYPD's former Chief of Department, I enthusiastically endorse Caroline Shinkle for U.S.
+Congress to represent New York's 12th Congressional District.
+Caroline Shinkle will always back the blue, and she will be a strong advocate for our men and women in law enforcement.
+Caroline Shinkle understands the importance of supporting and empowering our law enforcement to do their jobs and will fight against the coddle-the-criminal policies that endanger all of us.
+Let’s get this done NY-12 the change starts now." Bill Ackman Founder and CEO of Pershing Square Capital Management “Hi, I'm Bill Ackman.
 This is Caroline Shinkle.
 She's running for Congress.
 I've met her recently.
@@ -31,8 +35,7 @@ Caroline Shinkle does not.
 She lived in Israel.
 She treats Jewish safety like public safety.
 That is why we are endorsing her.” Watch video → Tovah Feldshuh Actress "I would say seriously consider this candidate for the 12th district." Watch the video for her full quote!
-Watch video → New York City Public School Alliance "Caroline's moral clarity, intellect, courage, impressive background, and strength to fight for what is right are exactly what we need in a leader today.
-She has the conviction to stand up to radical ideology and bad actors—something we cannot afford to compromise on at this critical moment." New York City Public School Alliance Endorses Caroline Shinkle for Congress in NY-12 ‍ Next Add Your Voice?
+Watch video → Next Add Your Voice?
 Ready to stand with Caroline Shinkle?
 Submit an endorsement or donate to the campaign.
 Submit an Endorsement DONATE NOW Donate Now ↗      Campaign Meet Caroline Shinkle Caroline Shinkle's Vision Priorities In the News Endorsements GET INVOLVED Donate Contact National Support CONTACT Caroline@CarolineForNewYork.com 646-450-3505 Caroline for Congress 40 West 51st Street PO Box 4818 New York, NY 10020 Paid for by Caroline for Congress

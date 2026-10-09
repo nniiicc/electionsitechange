@@ -1,0 +1,10 @@
+[
+"alt:/wp-content/themes/byron-child/site/_b/d5e294617c37f0a9.webp|Byron Donalds with President Trump in the Oval Office",
+"alt:/wp-content/themes/byron-child/site/assets/byron-desantis.jpg|Byron Donalds with Governor Ron DeSantis and supporters at a Florida restaurant",
+"alt:{{ a.image }}|{{ a.name }}",
+"alt:{{ p.image }}|{{ p.name }}",
+"img:/wp-content/themes/byron-child/site/_b/d5e294617c37f0a9.webp",
+"img:/wp-content/themes/byron-child/site/assets/byron-desantis.jpg",
+"img:{{ a.image }}",
+"img:{{ p.image }}"
+]

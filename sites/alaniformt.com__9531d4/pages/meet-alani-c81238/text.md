@@ -15,6 +15,7 @@ The Air Force handed me responsibility early and never stopped raising the stake
 I led people in hard places, answered for life-and-death decisions, and learned that leadership isn’t a title — it’s being accountable to the people who are counting on you.
 That’s the standard I’ll bring to Montana.
 View my entire history of service — military and civilian.
+Or watch me tell it on YouTube .
 03 Chapter Three · A Life of Service Hunting the worst, guarding the most vulnerable As a special agent, my work took me after the people most of us would rather not think about — terrorists, foreign spies, and the predators who hunt children.
 For more than two decades, in uniform and out, that was the job.
 On active duty, I arrested child predators in Japan, ran human-intelligence operations against Al Qaeda in Iraq, commanded a unit in Kuwait, and was chosen as the head bodyguard for one of the most senior officials at the Pentagon.

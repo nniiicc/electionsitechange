@@ -1,4 +1,4 @@
-0 Skip to Content Home Disclaimer Donate Open Menu Close Menu Open Menu Close Menu Home Disclaimer Donate Home Disclaimer Donate Store Store Clear Filters Filter Clear Filter Transparency through Records $0.00 Add To Cart Added!
+0 Skip to Content Donate Home Disclaimer Open Menu Close Menu Open Menu Close Menu Donate Home Disclaimer Donate Home Disclaimer Store Store Clear Filters Filter Clear Filter Transparency through Records $0.00 Add To Cart Added!
 Privacy and AI Governance $0.00 Add To Cart Added!
 Education for Everyone - Regional foundation formula that makes sense $0.00 Add To Cart Added!
 Local Farms = Local Food $0.00 Add To Cart Added!

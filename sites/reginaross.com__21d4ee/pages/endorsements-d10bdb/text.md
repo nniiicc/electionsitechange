@@ -13,5 +13,4 @@ They come from neighbors.
 Add your name to the growing list of District 4 residents standing with Regina, and the campaign will be in touch.
 First name Last name Email Phone Number Add My Name Keep the momentum Endorse with action.
 Volunteer or chip in today.
-Volunteer Donate About Issues Endorsements Get Involved Contact Facebook Instagram TikTok © # Paid for by Friends of Regina Ross, 13441 Mackenzie, Detroit, MI 48228 13144 Mackenzie Detroit, MI 48228 [email protected] 313-310-9364 Website by Velu Design Studio × Velu Design Studio contact details V Design Studio Velu Built to be unforgettable.
-Call (313) 710-7244 Email [email protected] Web design · visual identity · digital experiences Volunteer Donate
+Volunteer Donate About Issues Endorsements Get Involved Contact Facebook Instagram TikTok © # Paid for by Friends of Regina Ross, 13441 Mackenzie, Detroit, MI 48228 13144 Mackenzie Detroit, MI 48228 [email protected] 313-310-9364 Volunteer Donate

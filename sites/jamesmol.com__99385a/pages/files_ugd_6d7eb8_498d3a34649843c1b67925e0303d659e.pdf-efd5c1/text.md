@@ -1,0 +1,26 @@
+SUFFIELD • EAST GRANBY • WINDSOR LOCKS PLATFORM │ PILLAR FIVE Property Tax Relief Your taxes are high because Hartford underfunds what it requires, not because your town wastes money.
+THE CHALLENGE Property taxes here are high because the state sets obligations, underfunds them, and leaves towns to cover the difference through the only tax they control.
+Schools are 62 percent of Suffield’s budget, 73 percent of East Granby’s and 54 percent of Windsor Locks’, and the state pays 19, 11 and 18 cents of every school dollar.
+The formula that decides that starts from a per-student amount set in 2013 and never changed.
+The 2025 special education law was funded at 16 cents on the dollar.
+The Excess Cost grant for the highest-need students pays about 70 percent of what is owed.
+State-owned property is the second example.
+Connecticut is supposed to pay towns 45 cents on the dollar for most state property and 100 cents for correctional facilities, which matters in Suffield.
+In practice the legislature has overridden those rates every year since 2017 and listed each town’s payment in the budget instead.
+Windsor Locks is paid at the top tier, Suffield in the middle, East Granby at the bottom.
+The airport payment to all three has not moved since 2012.
+Relief does not require a new tax on working families.
+It requires the state to pay what it already promised, and to collect what is already owed.
+Connecticut’s own revenue department recovers as much as $12 for every dollar it spends auditing high-income and corporate tax returns, and that capacity is not funded to match.
+And the highest earners in this state still pay a lower effective rate than the families in this district, through carried interest and pass-through structures.
+A capital gains surcharge bill cleared the Finance Committee in 2026 and reached the Senate calendar without a vote.
+One thing should be said plainly, whatever you think of the size of state government.
+Connecticut appropriates about $2.46 billion a year for school aid and hundreds of millions more for towns, and it will be distributed.
+The question is not whether that money exists.
+It is whether our district gets its share or watches it go where the representatives who fought for it are from.
+This year’s bipartisan budget added $172.9 million in school aid and $100 million in town aid.
+The education portion was written in a committee this district has not sat on in more than a decade.
+WHAT I WILL DO IN HARTFORD ■ Fund the state’s existing obligations first: the school funding foundation, the airport and state property payments, the Excess Cost grant and the special education grant. ■ Index municipal aid so its value does not quietly erode every year, and codify a firm standard of no new unfunded mandates. ■ Fund revenue enforcement at the level its own return justifies, and pursue the carried interest and passthrough fixes in coordination with New York, New Jersey and Massachusetts so Connecticut does not act alone. ■ Serve on the Education Committee, where the largest line in every town budget is written.
+James Mol is a small business owner and a school board member who has voted on the local budgets where these state shortfalls ultimately land. jamesmol.com james@jamesmol.com • (860) 292-0062 • Facebook / Instagram: @JamesMolCT Paid for by James Mol Committee, Kevin J.
+Keane, Treasurer.
+Approved by James Mol.

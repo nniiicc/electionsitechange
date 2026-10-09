@@ -1,5 +1,5 @@
-top of page JANET YANG ROHR For State Representative of IL House District 41 GET A YARD SIGN Meet Janet Platform Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
-BUILDING A COALITION Endorsements We're proud to have the support of neighbors, essential workers, and other local and national forward thinkers.
+top of page JANET YANG ROHR For State Representative of IL House District 41 Meet Janet Platform Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
+GET A YARD SIGN BUILDING A COALITION Endorsements We're proud to have the support of neighbors, essential workers, and other local and national forward thinkers.
 JB Pritzker, Illinois Governor Sean Casten, Congressman, 6th District Theresa Sullivan, Naperville City Councilwoman The IFT represents more than 100,000 dedicated education and public service professionals across Illinois.
 The Illinois AFL-CIO represents nearly 900,000 union members and is the voice of working families in the state.
 Moms Demand Action is part of Everytown for Gun Safety, and is the nation’s largest grassroots volunteer network working to end gun violence in America.
@@ -16,6 +16,12 @@ The Naperville Professional Firefighters provides emergency services to more tha
 Vote Mama PAC seeks to address the motherhood penalty in America—starting with electing more moms and changing the face of elected officials nationwide.
 Emily's List seeks to put women into office who can make significant contributions to education, health care, voting rights, and economic equality.
 AFSCME Council 31 is the largest labor union representing public service and nonprofit workers in Illinois.
-Other Endorsements Men4Choice | Asian American Democratic Club | Asian American Leaders Caucus | UAW - Region 4 | Sprinkler Fitters and Apprentices Union - Local 281 | Indo-American Democratic Organization ​ ​ Other endorsements will be added throughout the campaign as organizations release their slates of candidates.
+The Farm Team PAC was founded by Congresswoman Lauren Underwood to support candidates running for state and local office in Northern Illinois.
+Humane World Action Fund is the political affiliate of the Humane Society.
+Their mission is to advocate for animal protection laws and end animal cruelty.
+Sierra Club works to elect environmental champions to local, state, and federal office.
+IRTA is an organization of over 37,000 retired educators.
+They aim to protect, preserve, and improve benefits for individuals receiving pension and healthcare benefits.
+Other Endorsements Men4Choice | Asian American Democratic Club | Asian American Leaders Caucus | UAW - Region 4 | Sprinkler Fitters and Apprentices Union - Local 281 | Indo-American Democratic Organization | Cook County Teachers Union, Local 1600 | Illinois Farm Bureau ACTIVATOR | Western Suburban Teacher's Union Local 571 ​ ​ Other endorsements will be added throughout the campaign as organizations release their slates of candidates.
 SUBSCRIBE TO OUR EMAILS Get Janet's latest updates SUBSCRIBE Thanks for submitting!
-Meet Janet Platform Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​ ​ ​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page
+Meet Janet Platform Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​​​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page

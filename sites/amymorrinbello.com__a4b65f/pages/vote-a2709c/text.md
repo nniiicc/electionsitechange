@@ -1,6 +1,6 @@
 top of page Amy for State Rep Home News & Updates Endorsements Voting Information Get Involved What's Your Plan to Vote? ​ ​ EARLY V OTING Early voting will take place in the Wethersfield Town Hall beginning on October 19th.
 Electors will be able to vote from 10am to 6pm all days, except Tuesday (October 27th) and Thursday (October 29th) when early voting will be available from 8am to 8pm.
-Early voting will end Sunday, November 1st. ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ VOTE BY ABSENTEE BALLOT You may vote by Absentee Ballot, no reason needed !
+Early voting will end Sunday, November 1st. ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ VOTE BY ABSENTEE BALLOT You may vote by Absentee Ballot, no reason needed !
 It’s 4 Easy Steps- 1 .
 Apply for an Absentee Ballot application at https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do or in the Town Clerks office.
 2.

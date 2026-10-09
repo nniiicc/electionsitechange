@@ -1,4 +1,4 @@
-top of page See Spokane Complex Fires Resources Home Policies & Statements Endorsements Blog Donate Today!
+top of page See Spokane Complex Fires Resources Home Policies & Statements Endorsements Blog & Events Donate Today!
 Donate Today!
 Fires Resources Policies & Statements Accessibility As a mobility-impaired person I have an intimate view on how accessibility impacts Washingtonian’s daily lives.
 But I also recognize that accessibility means different things to different people.

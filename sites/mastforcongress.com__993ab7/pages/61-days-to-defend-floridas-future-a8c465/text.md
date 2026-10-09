@@ -24,10 +24,8 @@ I know what is at stake.
 I also know what this community can accomplish when patriots stand together.
 Sixty-one days is enough time to organize, build momentum, and defend Florida’s future.
 Let’s get to work.
-Related Posts: TikTok BANNED.
-Let’s Talk About It… April 22, 2024 Homeless Veterans & The Border.
-Let’s Talk About It… May 13, 2024 8 Months Until Election Day March 9, 2022 Endorsement Alert!
-October 27, 2021 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: One Week To Register July 14, 2026 Freedom Isn’t Free: Making Veterans the Heart of America’s 250th Anniversary April 20, 2026 Endorsement Alert!
+October 27, 2021 The numbers don’t lie March 18, 2021 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

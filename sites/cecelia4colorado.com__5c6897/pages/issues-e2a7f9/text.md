@@ -1,4 +1,4 @@
-0 Skip to Content Home Legislation 2026 2025 Newsroom Newsletters 2026 Session 2025 Session English DONATE Open Menu Close Menu Home Legislation 2026 2025 Newsroom Newsletters 2026 Session 2025 Session English DONATE Open Menu Close Menu Home Folder: Legislation Back 2026 2025 Newsroom Folder: Newsletters Back 2026 Session 2025 Session English Back DONATE Issues Housing & Homelessness Colorado’s housing crisis has gotten out of control.
+0 Skip to Content Home Legislation 2026 2025 Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home Legislation 2026 2025 Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home Folder: Legislation Back 2026 2025 Folder: Newsletters Back 2026 Session 2025 Session Newsroom English Back DONATE Issues Housing & Homelessness Colorado’s housing crisis has gotten out of control.
 People cannot afford rent or save enough money to buy a first home.
 Homeowners are faced with skyrocketing tax increases.
 As a result, working class people and those on fixed incomes are being forced out of their homes and our community.

@@ -1,9 +1,10 @@
 {
  "description": "See Stephanie’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Stephanie-Boykin/events/",
- "fingerprint": "5dffc1f44913b986d8eb6ab88e69f49395092103",
+ "fingerprint": "4264939b3facdbdfe5b14eba7bba2c60b7022247",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Stephanie Boykin Events",
  "years_mentioned": [
   "2026"

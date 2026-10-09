@@ -1,5 +1,4 @@
-Candidate Debate on Wednesday October 7th at 7pm.
-Francestown Town Hall Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card More Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Settling in the area My parents moved to the Monadnock region #ago .
+Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card More Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Home About Tim On the Issues What I'm hearing Simply Put Videos Contribute News Volunteer Contact Campaign Card Settling in the area My parents moved to the Monadnock region #ago .
 My wife Amy & I fell in love with the area too and bought our Francestown house in 2015.
 I have two brothers who have put down roots in the Monadnock area as well.
 Amy & I raised our family in a small town north of Boston.

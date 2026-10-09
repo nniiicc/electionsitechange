@@ -4,10 +4,6 @@
 "href": "https://www.deploymalloy.com/landing/about/"
 },
 {
-"text": "Album",
-"href": "https://www.deploymalloy.com/landing/album/"
-},
-{
 "text": "Donate",
 "href": "https://secure.anedot.com/0fed9060-9429-499d-86b1-9732d5fe4148/c638c2c9ef935ccdece88"
 },
@@ -30,6 +26,10 @@
 {
 "text": "Privacy Policy",
 "href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Proposals",
+"href": "https://www.deploymalloy.com/landing/proposals/"
 },
 {
 "text": "Q&A",

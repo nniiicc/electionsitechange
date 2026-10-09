@@ -1,4 +1,4 @@
-Home About Priorities Endorsements Get Involved Donate Home About Priorities Endorsements Get Involved Donate Get Involved Name (Required) First Last Email (Required) Phone (Required) By providing your cell phone number, you agree to receive texts to your number from Committee to Elect Ashley Fedan.
+Home About Priorities Endorsements Postcards Get Involved Donate Home About Priorities Endorsements Postcards Get Involved Donate Get Involved Name (Required) First Last Email (Required) Phone (Required) By providing your cell phone number, you agree to receive texts to your number from Committee to Elect Ashley Fedan.
 Texts will include messages about fundraising solicitations, Campaign updates, volunteer and event information, voter and, election, information.
 Msg frequency varies.
 Reply STOP to opt-out.

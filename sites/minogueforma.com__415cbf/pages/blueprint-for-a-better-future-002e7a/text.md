@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Donate Days since Maura Healey promised a gas-tax suspension: Days Hours Min Sec Demand Action!
-Home Meet Mike Meet Renee Blueprint for a Better Future In The News Get Involved Make a Plan to Vote Store Donate Mike's Blueprint for a Better Future Accountability, Affordability, Opportunity, and Keeping Communities Safe.
+Home Meet Mike Meet Renee Blueprint for a Better Future In The News Events Get Involved Make a Plan to Vote Store Donate Mike's Blueprint for a Better Future Accountability, Affordability, Opportunity, and Keeping Communities Safe.
 AAOK.
 Massachusetts is working for some, but not all.
 We are headed down the wrong path.

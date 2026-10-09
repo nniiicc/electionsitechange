@@ -1,9 +1,12 @@
 {
  "description": "Learn how Peter Lumaj's campaign protects your privacy and handles your personal information.",
  "final_url": "https://peterlumaj.com/privacy",
- "fingerprint": "14b1b28bb22a7862b2768fff32169d6f20d9d1ff",
+ "fingerprint": "b4761449d8c497bea00e4dacc936280784fc2c33",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Lumaj 2026, Michele Gregorio, Treasurer",
+ "rendered": true,
  "title": "Privacy Policy | Peter Lumaj | Secretary of the State",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

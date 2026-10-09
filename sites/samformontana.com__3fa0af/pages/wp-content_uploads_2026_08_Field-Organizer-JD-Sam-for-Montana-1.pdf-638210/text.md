@@ -1,0 +1,14 @@
+Sam for Montana (MT-01) is hiring full time Organizers ahead of the November 2026 midterm election.
+Organizers will be responsible for recruiting volunteers, executing door-to-door voter contact, and hosting campaign events in their assigned communities.
+Organizers will report to the campaign’s Organizing Director.
+This position is full-time in-person, based in western Montana, and requires regular travel.
+Remote work options will not be available for this position.
+No experience necessary!
+All training is provided.
+Skills, Abilities, and Experience: ●​ Strong interpersonal skills, and desire to organize for real working-class representation in Congress ●​ Valid driver’s license, reliable access to a personal vehicle, internet, and a cellphone ●​ Strong communication skills - must be able to speak with and persuade all kinds of voters ●​ Drive to hit and exceed ambitious metric goals, and ability to take feedback from managers ●​ Excellent time management skills, flexibility, and a willingness to problem-solve effectively ●​ Ability to thrive in a fast-paced environment and work long, irregular hours - including weekends Duties and Responsibilities: ●​ Work to flip MT-01 and elect Sam Forstag by knocking on doors, registering voters in assigned communities, and performing other direct voter-contact needs as directed by the Organizing Director ●​ Recruit, manage, and train volunteers and volunteer leaders; including making volunteer recruitment calls, hosting regular campaign strategy sessions, 1:1 meetings, phone banks, and other events ●​ Support Sam’s in-district community and fundraising events - includes coordinating with grassroots volunteers, making event build calls, managing day-to-day logistics, and staffing Sam’s events ●​ Implement strategies to meet daily and weekly organizing metrics, adhere to campaign’s established voter-contact data standards, and ensure accurate data collection for all campaign activity ●​ Other duties as assigned by the Organizing Director Compensation: The salary for this position is $4,500/month.
+Staff will receive a monthly health insurance stipend and qualifying mileage reimbursement.
+How to Apply: Applicants should send their resume and references to info@samformontana.com Sam Forstag is a smokejumper and union leader, running to make sure working people have a voice in Congress.
+He was raised by a mom who picked up extra nursing shifts and a dad who became a public school teacher, and both made just enough to get by.
+Sam spent the last decade working across western Montana as a wildland firefighter and organizing and advocating for public education, libraries, healthcare and constitutional freedoms between fire seasons.
+When DOGE came after public servants and public lands, Sam fought back.
+Now, he’s ready to do that in Congress.

@@ -1,0 +1,26 @@
+[
+{
+"text": "Join Team Donalds →",
+"href": "https://byrondonalds.com/volunteer/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://byrondonalds.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://byrondonalds.com/terms-and-conditions/"
+},
+{
+"text": "info@byrondonalds.com",
+"href": "mailto:info@byrondonalds.com"
+},
+{
+"text": "press@byrondonalds.com",
+"href": "mailto:press@byrondonalds.com"
+},
+{
+"text": "{{ s.label }} →",
+"href": "https://byrondonalds.com/contact/%7B%7B%20s.href%20%7D%7D"
+}
+]

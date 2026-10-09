@@ -1,0 +1,53 @@
+Filing for Unemployment Insurance in Maryland Division of Unemployment Insurance Maryland Unemployment Insurance Overview The Maryland Unemployment Insurance (UI) program provides temporary ﬁnancial assistance to individuals who have lost their jobs – through no fault of their own – offering partial income replacement while they seek new employment.
+Eligible claimants can receive a weekly beneﬁt ranging from $50 to $430 for up to 26 weeks.
+UI beneﬁts are subject to both federal and state taxes.
+Filing for UI in MD | UI Overview 2 How to Apply for Maryland Unemployment Insurance Maryland uses the BEACON online system to allow claimants to apply for UI beneﬁts and quickly receive information and notiﬁcations.
+You can access the BEACON system at beacon.labor.maryland.gov.
+You can also apply for UI beneﬁts (also called ﬁling an initial claim) by calling 667-207-6520, Monday through Friday, from 8 a.m. to 4 p.m.
+Filing for UI in MD | How to Apply for Maryland UI 3 Understanding the UI Application Process UI determines your eligibility for beneﬁts by verifying: ● ● ● ● ● ● Your employment history (past 18 months, in-state or out-of-state employers) Whether you earned enough wages to qualify for UI beneﬁts If you have applied for beneﬁts in another state or jurisdiction Your identity and authorization to work in the U.S.
+Your availability for full-time work in your customary occupation Whether your past employment was covered under factors dictated by UI laws Providing accurate and complete information helps ensure timely claim processing and avoids delays.
+Filing for UI in MD | Understanding the UI Application Process 4 Information and Documents to Have Ready Gather the following information and documents: ● ● ● ● ● ● ● Personal Information ○ Social Security number, date of birth, telephone number, email address, residential and mailing addresses Alien Registration Number if you are not a United States citizen Dependent Information ○ Name, date of birth, and Social Security number for all dependents under the age of 16 Employment History ○ Name, address, and telephone number for all employers you worked for in the last 18 months.
+Also, please have your employment start and end dates.
+If applicable, include return-to-work dates.
+Union name and local number if you are a union member DD-214 Member 4 if you were serving in the military Form SF-8 or SF-50 if you were a federal civilian employee Filing for UI in MD | Information and Documents to Have Ready 5 Step 1: Apply for Beneﬁts If you have previously ﬁled for UI beneﬁts in BEACON, log in, and select the Apply for Beneﬁts option from the main menu.
+If you are ﬁling for Maryland UI beneﬁts online for the ﬁrst time: ● ● ● ● Visit beacon.labor.maryland.gov.
+Select Get Started with BEACON and answer No to the question about prior claims in Maryland.
+Select Begin My BEACON Application.
+Enter personal details and create a username and password.
+Save your login credentials securely. ○ Key Tip: Make sure your name matches your Social Security card.
+Filing for UI in MD | Step 1: Apply for Beneﬁts 6 Step 2: Beneﬁt Claim Effective Date and Step 3: Claimant Address ● Your Beneﬁt Claim Effective Date determines when your beneﬁts begin.
+This date is the Sunday before you ﬁle your UI claim. ● Enter your residential and mailing address.
+BEACON may suggest an address.
+Please use this address, if it is correct.
+Filing for UI in MD | Step 2: Beneﬁt Claim Effective Date and Step 3: Claimant Address 7 Step 4: Initial Questions ● ● Provide details about your most recent job.
+Select the options that apply to you.
+Indicate if you worked outside of Maryland, served in the military, or worked as a federal employee or federal contractor (employee who worked for a private sector employer that contracts with the federal government). ○ When you see the question about out-of-state wages, read it carefully and respond accurately to avoid delays in processing your UI claim.
+Filing for UI in MD | Step 4: Initial Questions 8 Step 4: Initial Questions (for Former Federal Civilian Employees) Answer all questions about your former federal employment in this step.
+Your responses will generate additional screens to provide more details about your federal work history.
+Complete all sections carefully to ensure accurate processing of your claim.
+Filing for UI in MD | Step 4: Initial Questions (for Former Federal Civilian Employees) 9 Step 5: General Information and Step 6: Personal Information ● General Information: Enter your contact information and choose a communication preference (the way Maryland will provide information to you).
+Email/text alerts are the fastest and most efﬁcient methods. ● Personal Information: Provide background details (race, ethnicity, veteran/disability status, education, citizenship, dependents). ● If you have dependent children under 16, declare them now.
+You can add their Social Security Numbers within 30 days, but their names and birthdates can only be added when you initially ﬁle.
+Filing for UI in MD | Step 5: General Information and Step 6: Personal Information 10 Step 7: Payment Method and Step 8: Tax Withholding ● Payment Method: Choose direct deposit or paper check (mail delivery). ○ You can not enroll in direct deposit payments by phone.
+You must enroll online. ● Tax Withholding: Choose if you want Federal and/or Maryland taxes withheld Filing for UI in MD | Step 7: Payment Method and Step 8: Tax Withholding 11 Step 9: Work Information ● Union: If you are a union member seeking work through a union hiring hall or business agent, provide your union name and local number. ● Customary occupation: You need to identify and provide your customary occupation (the type of job you have the most experience in).
+Filing for UI in MD | Step 9: Work Information 12 Step 10: Employment Information ● Employment Information: BEACON will automatically populate most of the in-state employment info it has on record for you in the past 18 months. ○ If an employer is missing, enter that employer’s information manually.
+Use your W-2s to ﬁnd accurate employer identifying information.
+Filing for UI in MD | Step 10: Employment Information 13 Step 11: Detailed Employment Information For each employer, provide: ● ● ● ● ● ● ● Your most recent physical work address ○ Note: Do not enter the employer’s payroll mailing address or head ofﬁce location if you did not physically work there.
+Employer contact information Your ﬁrst and last days of employment Full-time or part-time status Hourly pay rate Reason for separation Return-to-work date (if applicable) Filing for UI in MD | Step 11: Detailed Employment Information 14 Note for Steps 10 & 11 for Former Federal Civilian Employees ● Enter details about the federal agency you worked for, which will auto-populate its address. ● Provide your “duty station” as your most recent work address.
+This is listed in Box 39 of your SF-50.
+Use OPM.gov to look up duty station codes if needed.
+Filing for UI in MD | Steps 10 & 11 for Former Federal Civilian Employees 15 Step 12: Eligibility Information ● Report any additional payments (vacation pay, holiday pay, special pay, severance pay, retirement/pension payments, or back pay/damages). ● Conﬁrm your ability and availability for work. ○ To be eligible, you must be physically and mentally capable of performing your customary occupation and ready to accept work immediately.
+You must be available to work all required hours, days, and shifts that are typical for your job. ○ For example, you may not be considered able and available due to: ○ ■ Lack of childcare or transportation ■ Attending school full-time ■ A medical condition that prevents you from working For more information about UI eligibility, visit MDunemployment.com.
+Filing for UI in MD | Step 12: Eligibility Information 16 Step 13: Consent to Receive IRS form electronically ● Choose to receive IRS Form 1099-G electronically or by mail. ● IRS Form 1099-G reports the total amount of UI beneﬁts you received in a tax year.
+These beneﬁts are considered taxable income and must be reported on your federal tax return.
+Filing for UI in MD | Step 13: Consent to Receive IRS form electronically 17 Step 14: Identity Veriﬁcation ● Answer security questions to conﬁrm your identity ● Note: If you fail to answer these questions correctly, you may need to submit additional documentation or speak directly with agency staff, which may cause delays in claim processing.
+Filing for UI in MD | Step 14: Identity Veriﬁcation 18 Step 15: Review and Submit Claim and Step 16: Claim Submitted ● Double-check all information before submitting your claim to avoid errors or delays. ● Read and acknowledge the Beneﬁt Rights Information. ○ ● Read this carefully.
+It includes key details on why you could be disqualiﬁed or ineligible for UI beneﬁts.
+Save your Claimant ID and click Finish.
+Filing for UI in MD | Step 15: Review and Submit Claim and Step 16: Claim Submitted 19 What Comes Next? ● File claim certiﬁcations every week to keep your claim open and active, even while waiting for a determination. ● Check BEACON and your messages for updates or required actions and respond promptly to agency requests, especially for eligibility or wage veriﬁcation. ● Stay able and available for work and meet Maryland’s work search requirements. ● Accept offers of suitable work when available. ● You may be selected for a mandatory RESEA or ROW workshop to assist with reemployment. ● Staff will verify employment details, separation reason, wages, and any payments.
+Employers have 8 calendar days to respond from the date they receive our request. ● If you disagree with the determination, you may ﬁle an appeal.
+Filing for UI in MD | What Comes Next?
+20 Avoid Common Mistakes ● Wait until you are separated from your employer before applying for UI beneﬁts. ● Check for spelling and data entry errors. ● If you worked out-of-state or for the federal government, ensure you included all relevant details. ● If you have a return-to-work date, make sure to enter it. ● Complete any required identity veriﬁcation steps promptly to avoid delays.
+Filing for UI in MD | Avoid Common Mistakes 21 Stay Informed & Get Help ● Visit MDunemployment.com for guides, FAQs, and resources. ● Access BEACON at beacon.labor.maryland.gov. ● Call 667-207-6520 to speak with claims staff, available Monday to Friday, 8 a.m. to 4 p.m.
+Hours may be modiﬁed during holidays. ○ Solicitud de beneﬁcios del desempleo para la población de hable español: 301-313-8000 o 1-667-207-6520.
+Filing for UI in MD | Stay Informed & Get Help 22 Thank You Division of Unemployment Insurance

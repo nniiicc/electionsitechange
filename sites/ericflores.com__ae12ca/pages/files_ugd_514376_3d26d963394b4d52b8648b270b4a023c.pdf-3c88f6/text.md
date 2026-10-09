@@ -1,0 +1,6 @@
+November 14, 2025 Contact: press@ericflores.com Matt Brownfield (214) 566-8589 Eric Flores Launches First TV Ad “Fighter” San Benito, TX - Eric Flores, a former Assistant US Attorney, former Army Infantry Captain, and Republican candidate for Texas' 34th Congressional District, released his first TV ad this morning.
+The new spot, entitled “Fighter,” highlights Flores’ work to secure the border and take on the cartels and how he’ll stand with President Trump to deliver for South Texas.
+The new ad will run on broadcast, cable, and streaming in the district.
+CLICK HERE TO WATCH IT NOW “South Texans deserve a conservative fighter who will stand with President Trump to secure our borders, dismantle the cartels and deliver for South Texas families,” said Eric Flores.
+“As a former infantry captain and former federal prosecutor, I’ve taken on the tough fights and won.
+In Congress, I’ll do it all over again as I fight alongside President Trump to defend our values, protect our communities, and ensure a prosperous future for every hardworking family in our district.” PAID FOR BY ERIC FLORES FOR CONGRESS Eric Flores for Congress | PO Box 84 | San Benito, TX 78586 US Unsubscribe | Update Profile | Constant Contact Data Notice

@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Growing Up Raised on Hard Work × I grew up in the tourist business.
+Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Growing Up Raised on Hard Work × I grew up in the tourist business.
 My family owned a camp, and I worked as a dockhand, a cook, a hunting and fishing guide, and in the back office.
 I learned early that business is not theory.
 It is service, hard work, and constant problem solving.

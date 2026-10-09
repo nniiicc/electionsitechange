@@ -1,9 +1,9 @@
 0 Skip to Content About Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Open Menu Close Menu About Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact ES Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE Open Menu Close Menu Folder: About Back Who is Chris?
-District 2 issues Media kit Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact Folder: ES Back Inicio ¿Quién es Chris?
+District 2 issues Media Videos Voters' Pamphlet Statement Calendar Volunteer Shop Contact Folder: ES Back Inicio ¿Quién es Chris?
 Temas del Distrito 2 Calendario Tienda Voluntariado DONATE “Los habitantes de las zonas rurales de Oregón merecen un representante que dé la cara. ” - Chris Beck, candidato demócrata e independiente, OR-CD2 Jacksonville, Oregon ‘Los habitantes de las zonas rurales de Oregón merecen un representante que dé la cara.” - Chris Beck, candidato demócrata e independiente, OR-CD2 Jacksonville, Oregon ¿Por qué me postulo?
 View fullsize He lanzado mi candidatura para derrotar a Cliff Bentz porque sus votos en el Congreso, así como su apoyo a todas las acciones de la actual administración, están perjudicando a los habitantes de las zonas rurales de Oregón.
 Todo esto me destroza el corazón.

@@ -11,4 +11,4 @@ We know she will continue to champion their cause, and we are proud to support h
 “Their work to protect workers and strengthen the middle class is invaluable to our state.
 I look forward to their partnership as we work together toward better pay, safer working conditions, and an economy that works for every family in the Central Valley.” Annalisa Perea currently serves on the Fresno City Council, where she has led efforts to expand affordable housing, invest in public safety, and strengthen workforce development programs.
 A certified city planner and former community college trustee, Perea carries forward a lifelong belief in education, equity, and opportunity for every family.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

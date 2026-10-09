@@ -10,4 +10,4 @@ The endorsement reflects confidence in Perea’s leadership as a Latina voice ro
 “I am honored to receive the endorsement of the California Latino Legislative Caucus,” said Perea.
 “As a daughter of this community, I look forward to working closely with them to ensure strong representation for my district and Californians in the state legislature.” A lifelong resident of the Central Valley, Perea was unanimously elected President of the Fresno City Council in 2024, having previously served as a council member.
 Her work includes expanding affordable housing, advocating for equity in city contracting, and funding programs that support mental health and inclusive services for marginalized communities.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

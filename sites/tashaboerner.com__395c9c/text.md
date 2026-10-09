@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute A Fighter for San Diego County Tasha Boerner is an Assemblymember, businesswoman, community leader, and mother of two who has represented coastal San Diego County in the Assembly since 2018.
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute A Fighter for San Diego County Tasha Boerner is an Assemblymember, businesswoman, community leader, and mother of two who has represented coastal San Diego County in the Assembly since 2018.
 Tasha is a fourth-generation San Diego County resident who is fighting for affordability, sustainability, equality, opportunity and public safety in our coastal communities.
 I’m a mom, Assemblymember, and a former PTA leader who got my start in public service by fighting to get a stop sign installed near my kids’ school.
 After hitting a wall of bureaucracy, I eventually succeeded.

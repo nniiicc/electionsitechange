@@ -15,8 +15,8 @@ Andrea’s fight is about breaking cycles – of poverty, mediocrity, and crimin
 She’s taking on the biggest challenges facing Massachusetts families: Making life more affordable by putting money directly back into people’s pockets.
 Defending our freedoms against Trump-era rollbacks that threaten our fundamental rights.
 Fighting for the next generation and expanding opportunity for every child.
-IN The News Andrea In Action All News Press Release SEIU State Council Endorses Attorney General Andrea Joy Campbell for Re-Election October 6, 2026 Press Release IBEW Local 103 Endorses Attorney General Andrea Joy Campbell for Re-Election October 5, 2026 Press Release Massachusetts AFL-CIO Endorses Attorney General Andrea Joy Campbell for Re-Election September 23, 2026 Press Release Attorney General Andrea Joy Campbell Statement on Primary Election Results September 2, 2026 Press Release Andrea Joy Campbell Urges U.S.
-Senate to Pass Legislation Extending Temporary Protected Status for Haitian Nationals July 14, 2026 Press Release Giffords PAC Endorses Attorney General Andrea Joy Campbell for Re-Election July 2, 2026 All News Stay Connected Get the Latest.
+IN The News Andrea In Action All News Press Release Attorney General Campbell Endorses Massachusetts Ballot Question 7 to Expand Affordable Housing Supply October 8, 2026 Press Release SEIU State Council Endorses Attorney General Andrea Joy Campbell for Re-Election October 6, 2026 Press Release IBEW Local 103 Endorses Attorney General Andrea Joy Campbell for Re-Election October 5, 2026 Press Release Massachusetts AFL-CIO Endorses Attorney General Andrea Joy Campbell for Re-Election September 23, 2026 Press Release Attorney General Andrea Joy Campbell Statement on Primary Election Results September 2, 2026 Press Release Andrea Joy Campbell Urges U.S.
+Senate to Pass Legislation Extending Temporary Protected Status for Haitian Nationals July 14, 2026 All News Stay Connected Get the Latest.
 Join the Movement.
 Get the Latest.
 Join the Movement.

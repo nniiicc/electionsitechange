@@ -19,4 +19,4 @@ According to the University of Minnesota, the median age of rural Minnesota phys
 “This is a long-term investment in the health and vitality of communities across Minnesota,” Senator Putnam said.
 “The students training here today can become the doctors serving our neighbors, our rural communities and our region tomorrow.” ← All press releases Posted in Press releases Post navigation St.
 Cloud Live: “Putnam named to commission to identify candidates for Inspector General” On National Senior Citizens Day, Senator Aric Putnam Highlights Legislative Efforts Supporting Minnesota’s Seniors PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

@@ -11,4 +11,4 @@ Their support joins a growing coalition behind Perea's campaign, alongside the F
 "I am honored to have the support of Latinas Lead CA," said AD-31 Candidate Annalisa Perea.
 “Their mission to uplift Latina leadership and champion critical issues like equal pay and reproductive rights is a mission I am proud to carry forward in District 31." Annalisa Perea currently serves on the Fresno City Council, where she has led efforts to expand access to doula services for women and strengthened workforce development programs for women.
 A certified city planner and new mother, Perea carries forward a lifelong belief in education, equity, and a fair chance at thriving in each individual’s community.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

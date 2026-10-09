@@ -16,8 +16,7 @@ Every community visited, and every conversation held, moves this campaign forwar
 Bob Fioretti will be the People's Attorney Please support Bob by volunteering, attending an event, sharing our message, or contributing whatever you are able.
 No contribution is too small.
 Every bit counts as we approach Election Day.
-Donate to the Campaign VOLUNTEER Recent Posts See All Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold DEADLINE: 100% Match Active (Help Bob defeat corrupt Springfield) Bio Series 5: PROTECTING CHILDREN.
-STANDING WITH FAMILIES EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+Donate to the Campaign VOLUNTEER Recent Posts See All Charleston Hosts Historic 4th Lincoln-Douglas Debate on October 16th Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold DEADLINE: 100% Match Active (Help Bob defeat corrupt Springfield) EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

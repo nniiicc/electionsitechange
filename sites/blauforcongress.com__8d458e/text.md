@@ -1,7 +1,8 @@
 The Campaign Priorities Press Get Involved EN ES Contribute Contribute EN ES Dr.
 Shimon Blau — A pro-Denver candidate who will stand up to Trump and fight for ALL my constituents. — Independent Candidate for U.S.
 Congress for Colorado's 1st Congressional District Colorado's 1st District · Independent A pro-Denver candidate who will stand up to Trump and fight for ALL my constituents.
-No PAC Money Ever Contribute Get Involved No PAC Money Ever Denver Born & Raised Board-Certified Physician Dr.
+No PAC Money Ever Contribute Get Involved No PAC Money Ever Denver Born & Raised Board-Certified Physician 2026 Endorsements Endorsed for Congress Editorial Board Endorsement The Denver Gazette The Denver Gazette editorial board recommends Shimon Blau for Colorado’s 1st Congressional District.
+Read the Gazette endorsement Mandy Connell 2026 Election Guide Read the election guide Ross Kaminsky 2026 Colorado Voter Guide Read the election guide Dr.
 Shimi Blau.
 Talking with voters in Denver.
 Serving your community isn't something you talk about.
@@ -60,9 +61,18 @@ I will support ideas that are good for Colorado and oppose policies that are not
 I will support ideas that are good for Colorado and oppose policies that are not, regardless of which party proposes them.” Join the movement Ready to build something better?
 This campaign runs on neighbors, not PAC money or special interest influence.
 Add your email to hear directly from Shimon, and choose how you want to help.
-First name Last name Email address Mobile phone (optional) Count me in By providing your email and phone number, you consent to receive text message and email updates, including automated text messages, to that number from Blau for Congress.
-Message & Data rates may apply, and message frequency may vary.
-Reply "STOP" to opt out of these text message & email updates.
+First name Last name Email address Mobile phone (optional) Campaign text messages (optional) By checking this box, I consent to receive recurring automated campaign text messages from Dr.
+Blau for Congress at the phone number I provide.
+Message frequency varies.
+Msg & data rates may apply.
+Reply HELP for Help, STOP to opt out.
+Consent is not a condition of making a contribution, volunteering, or otherwise supporting the Campaign.
+Privacy Policy Count me in By providing your email address, you may receive Campaign emails; unsubscribe using the link in those messages.
+Text messages, including automated messages, require providing a phone number and checking the optional consent box.
+Message & data rates may apply.
+Message frequency may vary.
+Reply HELP for Help, STOP to opt out.
+Consent is not a condition of making a contribution, volunteering, or otherwise supporting the Campaign.
 We will never sell your information.
 Unsubscribe anytime.
 Volunteer Contribute My Priorities Straightforward priorities for Denver Make health care more affordable and accessible, lower the cost of living, strengthen the environment for small businesses, support working families, and pursue commonsense immigration reform.
@@ -116,17 +126,20 @@ Read View all coverage Join the campaign Get Involved One quick form.
 Share your info once, then pick every way you'd like to help.
 Make a contribution This campaign is funded by people like you, not PACs or special interests.
 Every dollar helps us reach more Denver voters.
-Donate now Open the secure donation page Or donate right here By providing your email and phone number, you consent to receive text message and email updates, including automated text messages, to that number from Blau for Congress.
-Message & Data rates may apply, and message frequency may vary.
-Reply "STOP" to opt out of these text message & email updates.
+Donate now Open the secure donation page Or donate right here By providing your email address, you may receive Campaign emails; unsubscribe using the link in those messages.
+Text messages, including automated messages, require providing a phone number and checking the optional consent box.
+Message & data rates may apply.
+Message frequency may vary.
+Reply HELP for Help, STOP to opt out.
+Consent is not a condition of making a contribution, volunteering, or otherwise supporting the Campaign.
 Loading secure contribution form… Trouble loading the form?
 Open the secure contribution page .
-Your info Full name Email Phone ZIP code By providing your phone number, you consent to receive recurring automated campaign text messages from Dr.
-Blau for Congress.
+Your info First name Last name Email Phone ZIP code Campaign text messages (optional) By checking this box, I consent to receive recurring automated campaign text messages from Dr.
+Blau for Congress at the phone number I provide.
 Message frequency varies.
 Msg & data rates may apply.
-Reply HELP for help, STOP to opt out.
-Consent is not a condition of donation.
+Reply HELP for Help, STOP to opt out.
+Consent is not a condition of making a contribution, volunteering, or otherwise supporting the Campaign.
 Privacy Policy How would you like to help?
 Pick as many as you like.
 Volunteer Join a growing team of neighbors.
@@ -135,9 +148,12 @@ Yard sign Show your neighbors where you stand.
 We'll deliver as signs arrive.
 Feedback Tell us what matters most to you.
 Every message is read by the campaign.
-By providing your email and phone number, you consent to receive text message and email updates, including automated text messages, to that number from Blau for Congress.
-Message & Data rates may apply, and message frequency may vary.
-Reply "STOP" to opt out of these text message & email updates.
+By providing your email address, you may receive Campaign emails; unsubscribe using the link in those messages.
+Text messages, including automated messages, require providing a phone number and checking the optional consent box.
+Message & data rates may apply.
+Message frequency may vary.
+Reply HELP for Help, STOP to opt out.
+Consent is not a condition of making a contribution, volunteering, or otherwise supporting the Campaign.
 Sign me up Blau for Congress Independent for Colorado's 1st District Denver first.
 Always.
 Contact (720) 451-7072 · Campaign phone campaign@blauforcongress.com Follow the campaign Instagram Facebook Paid for by Dr.

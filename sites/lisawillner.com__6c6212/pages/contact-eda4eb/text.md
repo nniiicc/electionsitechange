@@ -7,4 +7,4 @@ You can contact me through this website, or at my Frankfort email address: Lisa.
 Questions or support?
 Reach out anytime. lisaforkyhouse@gmail.com Office: 502-564-8100 Cell: 502-599-7289 © #.
 All rights reserved.
-Paid for by Lisa Willner for State Representative Volunteer Request Yard Sign About Lisa's Leadership Contact Donate Privacy
+Paid for by Lisa Willner for State Representative Request Yard Sign Privacy Policy Terms & Conditions Text Opt In About Lisa's Leadership Contact Donate Volunteer

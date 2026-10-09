@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Freedom × In Montana, freedom isn't an abstract concept or a political slogan.
+Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Montana Common Sense Freedom × In Montana, freedom isn't an abstract concept or a political slogan.
 It is the right to make our own decisions, live our lives, and be left alone.
 There is an old saying out here that good fences make good neighbors.
 It means we respect boundaries.

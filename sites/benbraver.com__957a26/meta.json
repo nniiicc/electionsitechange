@@ -1,9 +1,12 @@
 {
  "description": "Ben Braver is running for Florida State House District 65 in 2026. Teacher, union member, and progressive Democrat fighting for healthcare, housing, workers' rights, and climate action in Tampa Bay, Hillsborough County.",
  "final_url": "https://benbraver.com/",
- "fingerprint": "05f3cdde054608a6ec1b4eef4f6b78e35648e88a",
+ "fingerprint": "fc2c715d02885b82e2de2ef69309dde9893e4112",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by the Ben Braver for State House Campaign © # Ben Braver for Florida House District 65",
+ "rendered": true,
  "title": "Ben Braver for Florida State House District 65 - Progressive Democrat 2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

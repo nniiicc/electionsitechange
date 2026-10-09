@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Happy Hour with Tasha Wednesday, October 7, 2020 5:00 PM 6:00 PM 17:00 18:00 Google Calendar ICS Join us for virtual happy hour on Wednesday, October 7 at 5:00pm!
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Happy Hour with Tasha Wednesday, October 7, 2020 5:00 PM 6:00 PM 17:00 18:00 Google Calendar ICS Join us for virtual happy hour on Wednesday, October 7 at 5:00pm!
 Enjoy a signature vodka mule or your favorite cocktail with Tasha and friends.
 Tasha has been an effective, fair, and responsive advocate for North County in her first term, fighting for policies that make our communities safer and stronger and responding quickly and decisively to help out residents and businesses during this crisis.
 She also brings a parent’s perspective to the legislature, meaning she is fighting for our kids every day.

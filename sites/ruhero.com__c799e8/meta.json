@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.ruhero.com/",
- "paid_for_by": null,
+ "fingerprint": "c1a596000f1a08edad4927cf28b462536ffea8b4",
+ "format": 3,
+ "paid_for_by": "",
+ "rendered": false,
  "title": "Clifton Brown",
- "years_mentioned": []
+ "years_mentioned": [
+  "1958",
+  "1971"
+ ]
 }

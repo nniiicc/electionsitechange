@@ -11,4 +11,4 @@ Fresno City Employees Association members are instrumental in everything from ad
 “City employees keep Fresno’s services running smoothly and efficiently every day.
 Their expertise, dedication, and professionalism make a real difference in our community, and I will work in Sacramento to ensure they have the support, resources, and policies needed to continue their vital work.” Perea currently serves on the Fresno City Council and served as Council President in 2024.
 A lifelong Central Valley resident and certified city planner, she has spent her career focused on building strong, equitable communities, supporting public employees, and delivering meaningful results for local families.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

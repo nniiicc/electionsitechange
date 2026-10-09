@@ -2,6 +2,7 @@ top of page Home Meet Demi About Demi Issues Endorsements The 13th Get Involved 
 In Their Own Words Our movement is growing!
 Join the list of leaders supporting Demi!
 Give Your Community Endorsement Send your support and we’ll feature it here!
+First name Last name Upload Your Photo (A clear headshot or a moment you want us to feature) * Upload Your Endorsement * Send Your Endorsement All submissions will be reviewed before being published on the site.
 Get Involved Connect Demi for Illinois - PO BOX 408016, Chicago, IL, United States, 60640 Checks Payable: For media inquiries and interview requests contact@demiforillinois.com Office: 4802 N.
 Broadway, Suite #200, Chicago, IL, 60640 Subscribe for Campaign Updates Email * Phone * Subscribe Now Privacy Policy: Text messaging originator opt-in data, emails, and consent will not be shared with any third parties unless required by law.
 Demi Palecek is a former member of the US Air Force and an active member of the Army National Guard.

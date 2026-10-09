@@ -1,4 +1,4 @@
-Positions About Album Q&A Events Subscribe Signs Shop Donate Positions About Album Q&A Events Subscribe Signs Shop Donate Sign up here to receive email from Republican Gerald Malloy!
+Positions About Q&A Proposals Events Subscribe Signs Shop Donate Positions About Q&A Proposals Events Subscribe Signs Shop Donate Sign up here to receive email from Republican Gerald Malloy!
 Subscribe to emails First Name Last Name Email Submit Form Join in!
 Help get the word out, see our flyers!
 Use of candidate’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

@@ -121,4 +121,4 @@ Existence in this world is heavy, made heavier by the pure unadulterated lunacy 
 Many don't seem to see the tomorrow in the sky, and as a result feel powerless.
 Toshiko Tanaka had the horrific display of the worst of human ingenuity before her, yet still 81 years later does not mention the terror of the day the sun fell from the sky without recounting the patch of blue sky she looked up to see.
 Reminding her that indeed, tomorrow is in the sky.
-Tomorrow- 19 August 2026 13:19 - By JOW Tomorrow- 19 August 2026 13:19 - By JOW The Fleeting Nature of the Present › The Fleeting Nature of the Present › The Fleeting Nature of the Present › Back to all
+Tomorrow- 19 August 2026 13:19 - By JOW Tomorrow- 19 August 2026 13:19 - By JOW ‹ Nasty Business ‹ Nasty Business ‹ Nasty Business The Fleeting Nature of the Present › The Fleeting Nature of the Present › The Fleeting Nature of the Present › Back to all

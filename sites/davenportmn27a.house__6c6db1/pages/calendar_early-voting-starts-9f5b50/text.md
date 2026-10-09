@@ -3,5 +3,4 @@ Friday, October 16, 2026 8:00 AM Monday, November 2, 2026 8:00 PM Google Calenda
 Its up to us to get money out of politics!
 Grab your neighbors, friends, and family members and go vote!
 VOTE EARLY!
-Previous Previous October 14 DFL SD27 Monthly Meeting Next Next October 17 Vote Early Protest!
-Paid for by Davenport for Minnesota House 27A
+Previous Previous October 15 Becker Door Knocking Next Next October 16 Big Lake Twp Door Knocking Paid for by Davenport for Minnesota House 27A

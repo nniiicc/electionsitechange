@@ -1,1 +1,66 @@
-[]
+[
+{
+"text": "$100",
+"href": "https://donate.virginiamcintyreforcongress.com/checkout.html?amount=100"
+},
+{
+"text": "$25",
+"href": "https://buy.stripe.com/9B65kD4MJ32J02ncUM2Ji00"
+},
+{
+"text": "$3500",
+"href": "https://donate.virginiamcintyreforcongress.com/checkout.html?amount=3500"
+},
+{
+"text": "$50",
+"href": "https://donate.virginiamcintyreforcongress.com/checkout.html?amount=50"
+},
+{
+"text": "$500",
+"href": "https://donate.virginiamcintyreforcongress.com/checkout.html?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://donate.virginiamcintyreforcongress.com/checkout.html"
+},
+{
+"text": "Donate $25 · Choose One",
+"href": "https://buy.stripe.com/9B65kD4MJ32J02ncUM2Ji00"
+},
+{
+"text": "Donate $45 · Get Both",
+"href": "https://donate.stripe.com/9B64gz0wt1YFbL53kc2Ji01"
+},
+{
+"text": "Other",
+"href": "https://donate.virginiamcintyreforcongress.com/checkout.html?amount=other"
+},
+{
+"text": "Privacy Policy",
+"href": "https://virginiamcintyreforcongress.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://virginiamcintyreforcongress.com/terms-and-conditions/"
+},
+{
+"text": "View Fundraiser Reception",
+"href": "https://virginiamcintyreforcongress.com/fundraiser/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588353574507"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/virginiamcintyreforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VirginiaforNY25"
+},
+{
+"text": "info@virginiamcintyreforcongress.com",
+"href": "mailto:info@virginiamcintyreforcongress.com"
+}
+]

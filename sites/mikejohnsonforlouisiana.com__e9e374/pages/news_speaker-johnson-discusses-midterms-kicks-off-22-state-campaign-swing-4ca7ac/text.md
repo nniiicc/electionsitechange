@@ -48,7 +48,7 @@ Democrats have embraced socialism and communism and nominated the most radical c
 Zoom out: Johnson has also broken fundraising records, raising more through the second quarter than any Republican speaker or leader in a midterm cycle.
 Earlier this month, Johnson announced another $13 million transfer to GOP incumbents, challengers and the NRCC.
 The NRCC enters the final stretch with $13 million more cash on hand than the DCCC, the largest lead the committee has ever held at this point in the election cycle.
-Greg Steele Next Next ICYMI: Johnson leads charge in committing millions to NRCC after Vance push Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Greg Steele Previous Previous Speaker Johnson Raises $30 Million for House Republicans in the Third Quarter, Surpasses $156 Million This Cycle Next Next ICYMI: Johnson leads charge in committing millions to NRCC after Vance push Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
 Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up with your email address to receive news and updates.

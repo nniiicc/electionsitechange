@@ -1,1 +1,3 @@
-
+Jared Bitting About Meet Jared On the Issues Endorsements Take Action Donate Find an Event Volunteer Contact Us Donate More Jared Bitting About Meet Jared On the Issues Endorsements Take Action Donate Find an Event Volunteer Contact Us Donate Jared Bitting About Meet Jared On the Issues Endorsements Take Action Donate Find an Event Volunteer Contact Us Donate Events No upcoming events.
+Copyright © # Bitting for PA - All Rights Reserved.
+Powered by

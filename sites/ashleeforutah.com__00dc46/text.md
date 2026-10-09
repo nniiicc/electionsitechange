@@ -19,7 +19,23 @@ During my time in the Legislature, I’ve stayed focused on the issues that matt
 This November, I’m asking for your support so I can continue fighting for the people I serve and continue being a voice – for US.
 JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
-Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago Hope to see you next Wednesday to meet with local decision makers and share your ideas, priorities and concerns! ...
+Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago Thank you Christina Robles for your work in the community and with our kids everyday!
+I am looking forward to a great event! 🍽️ WHAT'S ON YOUR PLATE, KEARNS?
+Child care?
+Groceries?
+Housing?
+Schools?
+The rising cost of living?
+Whatever is on your plate, we want to hear about it!
+Join Brighter Steps Childcare for a FREE community BBQ with Representative Ashlee Matthews!
+Come enjoy dinner, meet your representative, and have real conversations about the issues impacting our families and community. 📅 Friday, October 16 ⏰ 6:00–8:00 PM 📍 5220 W Silverip Dr, Kearns, UT 84118 🍔 FREE dinner | Family-friendly | Everyone welcome!
+Good food.
+Real conversations.
+Your community. 💜 Pull up a chair.
+Your voice belongs at the table! 📲 Scan the QR code on the flyer to RSVP! ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews updated their status.
+#ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
+View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Hope to see you next Wednesday to meet with local decision makers and share your ideas, priorities and concerns! ...
 See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
 View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews updated their status.
 #ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
@@ -30,10 +46,6 @@ It is employers and business owners.
 It is the childcare providers.
 Everybody relies on this system." ...
 See More See Less Utah's childcare crisis: The increasing unaffordability and what's being done about it share.google With economic tensions on the rise, many parents in Utah have said they're weighing the value of employment at all when childcare eats up so much of the paycheck.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews updated their status.
-#ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews updated their status.
-#ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
 View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.

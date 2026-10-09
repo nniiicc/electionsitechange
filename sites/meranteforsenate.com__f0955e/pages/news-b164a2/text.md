@@ -1,0 +1,6 @@
+You need to enable JavaScript to run this app.
+Home About Events News Contact Donate In The News In The News Latest coverage and updates from the campaign 2026-03-05 Yonkers Public Schools Face $101 Million Budget Gap for 2026-2027 Mayor Spano & Superintendent Anibal Soler, Jr.
+Head to Albany to Advocate for Funding to Prevent Cuts YONKERS, NY – March 3, 2026 – Yonkers Mayor Mike Spano and Superintendent of Schools Anibal Soler, Jr. head to Albany tomorrow to meet with State representatives and New York State’s Division of Budget to advocate for additional funding to help close a $101 million budget gap for 2026-2027.
+Driven by a structural gap created by an outdated Foundation Aid Formula used to calculate funding for New York school districts and rising special education and health care costs, Yonkers Public Schools face drastic cuts in programs and services for the next school year.
+Support the Campaign Help Anthony Merante fight for taxpayers in Albany.
+Every contribution makes a difference. $25 $50 $100 $250 $500 $1000 Donate Any Amount Merante for New York State Senate A Proven Fighter for Taxpayers Quick Links Home About Anthony Events In The News Contact Us Contact 914-546-7040 info@MeranteForSenate.com 46 Davenport Road Yonkers, NY 10710 Paid for by Merante for NY Senate © # Anthony Merante

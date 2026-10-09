@@ -1,8 +1,6 @@
-Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Governor Ayotte's Valentines gift to the legislature.
-Governor Ayotte's Valentines gift to the legislature.
-Governor Ayotte's Valentines gift to the legislature.
-Feb 14, 2025 Feb 14, 2025 Misc.
-Letter Pink Skies - 18 February 2025 - 17:03 - Concord, NH - Taken by Jonah Pink Skies - 18 February 2025 - 17:03 - Concord, NH - Taken by Jonah On Thursday, February 13th, Governor Kelly Ayotte gave her first budget address to the legislature.
+Back to all Governor Ayotte's Valentines gift to the legislature.
+Feb 14, 2025 Misc.
+Letter Pink Skies - 18 February 2025 - 17:03 - Concord, NH - Taken by Jonah On Thursday, February 13th, Governor Kelly Ayotte gave her first budget address to the legislature.
 It was a mile high overview of her office's proposals for how the legislature should budget for fiscal years 26 and 27.
 She began her speech by attacking the Democratic caucus for 'not understanding' that the State is better off when 'people have more money in their pockets'.
 To which she was met with an awkward hum of groans and boos.
@@ -31,5 +29,5 @@ Make some hot cocoa, ignore the snow, and have a blast studying our State's budg
 The questions asked by our Representatives alone, make it a worthwhile watch.
 Rep.
 Leishman said it best - "...in my nine terms (on finance) this is the most challenging budget I've seen..." While we may not have the votes as the Minority caucus - we have our voice, and Friday was a great example of how to use it.
-Jonah Orion Wheeler State Representative Hillsborough's 33rd district Snowy Session - 6 February 2025 - 09:59 - Concord, NH - Taken by Jonah Snowy Session - 6 February 2025 - 09:59 - Concord, NH - Taken by Jonah ‹ One year down, one to go. ‹ One year down, one to go. ‹ One year down, one to go.
+Jonah Orion Wheeler State Representative Hillsborough's 33rd district Snowy Session - 6 February 2025 - 09:59 - Concord, NH - Taken by Jonah ‹ One year down, one to go.
 Back to all

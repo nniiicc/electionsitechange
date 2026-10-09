@@ -1,7 +1,7 @@
 Home Meet Richard Why Richard for AG In the News & Contact Contact Get Involved 5 Solutions Endorsements Home Meet Richard Why Richard for AG In the News & Contact Contact Get Involved 5 Solutions Endorsements More Home Meet Richard Why Richard for AG In the News & Contact Contact Get Involved 5 Solutions Endorsements Home Meet Richard Why Richard for AG In the News & Contact Contact Get Involved 5 Solutions Endorsements RICHARD IS THE MOST QUALIFIED TO BE YOUR ATTORNEY GENERAL RICHARD HAS SPENT 30+ YEARS DOING THE WORK The Attorney General's Office is one of the most complex legal jobs in South Carolina.
 Before you decide who should hold an elected office, it helps to understand what the job actually requires.
 THE JOB IS NOT “STATE SOLICITOR.” Criminal prosecutions are mostly handled by the 16 County Solicitors: 136,400 criminal dispositions by County Solicitors in FY25. v.
-246 criminal prosecution cases by the AG’s Office in FY25.
+246 criminal prosecution cases by the AG’s Office General and Special Prosecution Sections in FY25.
 SO WHAT IS THE JOB?
 The Attorney General is the managing partner of a large law firm with 7 divisions.
 The Attorney General is The People's Attorney—responsible for defending South Carolina's laws and Constitution in court, protecting consumers, safeguarding public resources, enforcing securities laws, issuing official legal opinions, and protecting the public interest.

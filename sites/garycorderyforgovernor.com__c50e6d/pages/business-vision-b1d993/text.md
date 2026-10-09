@@ -1,1 +1,18 @@
-
+top of page DONATE SUBSCRIBE VOLUNTEER Menu Close GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT Menu Close A BETTER BUSINESS CLIMATE FOR HAWAIʻI Government Should Work With Business, Not Against It CUT THE RED TAPE Make permitting faster and more predictable with clearer requirements, processing timelines, application tracking, and accountability for delays.
+LOWER THE COST OF DOING BUSINESS Reduce unnecessary state fees and outdated regulations, improve approval processes, address infrastructure costs, and pursue GET relief on essential goods.
+SUPPORT LOCAL PRODUCTION Strengthen agriculture, manufacturing, construction, and other local industries while improving supply chains and reducing barriers that prevent Hawaiʻi businesses from growing.
+OPEN GOVERNMENT CONTRACTING Give qualified local businesses a fair opportunity to compete for government contracts while increasing transparency around contracts, grants, emergency purchases, project costs, and timelines.
+BUILD HAWAIʻI'S WORKFORCE Strengthen career and technical education, skilled trades, entrepreneurship, agriculture education, financial literacy, and pathways connecting students with Hawaiʻi employers.
+ADDRESS WORKFORCE HOUSING Remove state-controlled barriers, improve state and county coordination, and establish measurable goals to increase appropriate workforce housing.
+WHEN LOCAL BUSINESS SUCCEEDS, HAWAIʻI SUCCEEDS Gary and Daniel's small-business priorities include: Fewer unnecessary regulations Lower government-controlled costs Stronger local production Fair access to state contracts Workforce development + housing Measurable government accountability Gary & Daniel support greater transparency through public department scorecards that track: Spending and department goals Project timelines Missed deadlines Performance results Responsible leadership WATCH GARY & DANIEL DISCUSS SOLUTIONS ON SOCIAL MEDIA INSTAGRAM FACEBOOK YOUTUBE MAKE AN IMPACT DONATE CONNECT WITH US First name * Last name * Phone City * Email * Business Name * Message / Comments Email: I agree to receive email updates from Gary Cordery for Governor * SMS Text (optional): I agree to receive recurring automated SMS/MMS from Gary Cordery for Governor, including campaign updates, events, volunteer opportunities, donation requests, and voting reminders.
+Msg frequency varies.
+Msg & data rates may apply.
+Reply STOP to opt out, HELP for help.
+Unsubscribe anytime.
+Consent is not a condition of purchase or donation.
+SMS opt-in will not be sold, rented, or shared.
+Privacy Policy, Terms and Conditions and SMS Terms apply.
+By providing this information you are acknowledging and agreeing to the Privacy Policy , Terms & Conditions , & SMS Terms GET CONNECTED WATCH: WHY I'M RUNNING HOW TO VOTE & VOTING RESOURCES HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT Menu Close PRIVACY POLICY SMS TERMS TERMS & CONDITIONS PHOTO CONSENT POLICY ACCESSIBILITY SOCIAL MEDIA EVENT SIGN IN Paid for by Gary Cordery for Governor, 99-1191 Iwaena Street Suite #D, Aiea, HI 96701.
+Our content is protected — but you’re welcome to share our official posts at GaryCorderyForGovernor.com.
+Mahalo!
+HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

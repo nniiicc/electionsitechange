@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Saturday Census Phonebanks with #TeamTasha!
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Saturday Census Phonebanks with #TeamTasha!
 Saturday, August 1, 2020 1:00 PM 4:00 PM 13:00 16:00 Tasha Boerner Horvath for Assembly 2018 (map) Google Calendar ICS Dear Friends, 2020 has been a unique year for a many reasons, and one is that it’s a Census year!
 This chance for you and your community to be counted only comes along every 10 years, so we have to make sure we get the word out while we can.
 The 2020 Census deadline has been extended to October 30.

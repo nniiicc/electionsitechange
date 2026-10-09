@@ -5,5 +5,6 @@ In a two-candidate race headed straight for general election ballots in November
 More importantly?
 Over the last decade, Stokesbary has become one of the most respected members of either chamber or party, particularly when it comes to budgetary matters and the finer points of actually getting things done in the state Legislature — which, as it turns out, is fairly important. … In the view of the TNT Ed Board, Stokesbary deserves voters’ continued support.
 Read the full TNT Endorsement (including their endorsement of Josh Penner for the other position in the 31st District!) at: https://www.thenewstribune.com/opinion/article289751734.html .
-Endorsements In the News endorsement More For You Representative Drew Stokesbary obtains important funding for White River project In the News Washington Fire Chiefs “Legislator of the Year” Awards Stokesbary concerned about auditor’s media silence In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements In the News endorsement More For You National Federation of Independent Business endorses Drew Stokesbary Endorsements TNT: Who can best represent voters in WA’s 31st Legislative District?
+The choice is clear (2022) Endorsements Republican Drew Stokesbary Launches Campaign for State House of Representatives Press Releases Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

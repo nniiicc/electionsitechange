@@ -20,7 +20,7 @@ EDUCATION Ohio was once a beacon of educational excellence.
 Recently, however, its schools have been compromised by detrimental state policies.
 Education should uplift, not be hindered by political games or profit motives.
 Joe advocates for legislation that enriches public education, equipping children to be well-rounded, 21st-century learners and future leaders.
-Data & Privacy Section The Flock controversy exposed a system that treats personal information as property.
+Data & Privacy The Flock controversy exposed a system that treats personal information as property.
 Joe is committed to a comprehensive Ohio digital privacy law that guarantees warrants for data access, limits indefinite data retention, gives Ohioans control over their own data, and requires independent oversight rather than self-policing.
 Giving up privacy should not be the price of admission to daily life.
 ENVIRONMENT Clean water is a vital resource, not an optional one.

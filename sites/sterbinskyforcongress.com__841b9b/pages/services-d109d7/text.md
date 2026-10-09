@@ -25,15 +25,16 @@ We also need better-paying jobs and more opportunities for working families.
 People shouldn't have to work multiple jobs just to cover basic expenses.
 4.
 What is your position on border security and immigration?
-I support securing our border and enforcing immigration laws, but I don't support abolishing ICE or mass deportations.
+I support securing our border and enforcing immigration laws.
 I oppose third-country deportations that violate human rights or due process.
-We need stronger border security, a more efficient legal immigration system, and policies that recognize the workforce needs of Arizona's economy.
+We need stronger border security, modernized ports of entry, a more efficient legal immigration system, and policies that recognize the workforce needs of Arizona's economy.
 We can enforce our laws while treating people with dignity.
 5.
 Do you support the Second Amendment?
 Yes.
-I support the individual right to own firearms and do not support an assault-weapons ban.
-I do support universal background checks, reasonable waiting periods, limits on magazine capacity for civilian use, and safe storage requirements to keep firearms out of the hands of children.
+I support the individual right to own firearms.
+At the same time, gun ownership comes with responsibility.
+Therefore, I support universal background checks, reasonable waiting periods, limits on magazine capacity for civilian use, and safe storage requirements to keep firearms out of the hands of children.
 I believe we can respect constitutional rights while taking practical steps to prevent gun violence.
 6.
 What is your position on abortion?
@@ -56,14 +57,14 @@ Healthcare should be accessible and affordable, regardless of someone's ZIP code
 9.
 What would you do for veterans?
 As a Navy veteran, I understand how important reliable healthcare and benefits are.
-I support expanding rural VA services, improving mental health resources, reducing disability claims backlogs, and allowing eligible veterans to receive care from community providers through the MISSION Act.
+I support expanding rural VA services, making dental care more accessible for veterans, improving mental health resources, reducing disability claims backlogs, and allowing eligible veterans to receive care from community providers.
 Congress also needs to ensure that the funding we approve actually results in shorter wait times and better care.
 10.
 What will you do to protect Arizona's water?
 Water security is critical to Arizona's future.
-I support investing in water infrastructure, reducing water loss, expanding recycling and reuse, and protecting Tribal water rights.
+I support investing in water infrastructure and augmentation, reducing water loss, expanding recycling and reuse, and protecting Tribal water rights.
 We also need fair Colorado River agreements that account for the needs of agricultural producers, cities, and rural areas.
-Water policy should be based on long-term planning, measurable conservation, and shared responsibility.
+Water policy should be based on long-term planning, measurable conservation, and shared responsibility across all seven basin states.
 Media Press Kit Want more information or to volunteer?
 First name * Last name * Email * Phone * Are you in the District?
 Multi choice I would like to help knock doors I want a yard sign I would like to host a house party for Dani Message Submit Privacy Policy Terms & Conditions Accessibility Statement Info@SterbinskyforCongress.com Sterbinsky for Congress P.O.

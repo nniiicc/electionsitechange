@@ -1,4 +1,10 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate Watch Video ← Back to News Cindy Holscher Will Fight For Working Kansans September 9, 2026 Cindy grew up on a farm.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate Watch Video ← Back to News Cindy Holscher on the Common Sense and Lower Costs Tour October 1, 2026 Catch Cindy across Kansas as she meets with folks as she runs from governor.
+Cindy Holscher Will Hit Pause on Data Centers in Kansas as Governor September 30, 2026 Cindy knows that Kansas farms and fields of sunflowers are under attack.
+Big Tech wants to build data centers all over the state.
+Cindy will hit pause on data centers until responsible guardrails are in place to protect our communities and our budgets.
+Let's build a future that grows strong.
+Cindy Holscher - Protecting our Farmers from Data Centers September 29, 2026 Cindy Holscher visits the Marples at their family owned and operated farm that is under threat from data center development.
+Cindy Holscher Will Fight For Working Kansans September 9, 2026 Cindy grew up on a farm.
 As governor, she'll fight for working people all across Kansas. ‘Massive implications’: Calls for a pause on data centers helps Kansas Democrat to primary victory August 6, 2026 Polls show the spread of data centers is deeply unpopular among Americans.
 In Kansas, Cindy Holscher’s call for a moratorium on them helped her to win the Democratic primary for governor.
 She joins The 11th Hour with Ali Velshi to discuss how AI data centers will be a factor in the midterms.

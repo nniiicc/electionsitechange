@@ -1,0 +1,5 @@
+Click on the social media icons below for more information, photos and videos...
+Home News Contact Us More Home News Contact Us Home News Contact Us NEWS All Posts Kurt Awarded NH Center for Nonprofits Board Impact Award September 27, 2022 The New Hampshire Center for Nonprofits awarded Kurt its 2022 Board Impact Award for his service to the veteran and first responder communities as the founder of Patriot Resilient Leader Institute and Camp Resilience, programs that improve social, mental, and emotional well-being at no cost to program participants.
+Here is a link to Kurt's acceptance speech for this prestigious award - https://youtu.be/gVgJYzR2Dx0.
+Share this post: Recent Posts Running for the NH State Senate Oct 1, 2026 Webber, running as a Democrat, challenges Lang for Senate seat Oct 1, 2026 Kurt Named 2023 Myra Kraft Community MVP Award Winner Jul 23, 2024 Subscribe Sign up to hear from us about the issues and Kurt's campaign.
+Email Address Sign up Kurt Webber for NH Senate District 2 Paid for by Webber for NH, Kurt Webber Treasurer, 50 Foxglove Rd, Gilford, NH 03249 Powered by

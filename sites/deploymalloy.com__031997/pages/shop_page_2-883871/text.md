@@ -1,4 +1,4 @@
-Positions About Album Q&A Events Subscribe Signs Shop Donate Positions About Album Q&A Events Subscribe Signs Shop Donate Shop Home | Shop Showing 11–20 of 35 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Quick View Help Deploy Malloy!
+Positions About Q&A Proposals Events Subscribe Signs Shop Donate Positions About Q&A Proposals Events Subscribe Signs Shop Donate Shop Home | Shop Showing 11–20 of 35 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Quick View Help Deploy Malloy!
 Skater Dress $ 63.61 – $ 65.61 Price range: $63.61 through $65.61 Select options This product has multiple variants.
 The options may be chosen on the product page Quick View Help Deploy Malloy!
 14th Star Black Glossy Mug $ 11.50 – $ 12.50 Price range: $11.50 through $12.50 Select options This product has multiple variants.

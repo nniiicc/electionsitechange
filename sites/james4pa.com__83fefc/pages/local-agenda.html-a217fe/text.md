@@ -1,6 +1,8 @@
 A Local Agenda for District 45 Focus on the work Pennsylvania can do close to home.
 James Julius is running to serve the people of District 45 with a practical agenda: lower costs, expand opportunity, strengthen the services communities rely on, defend life, and make state government answer to the people.
-Practical by design A state representative should be clear about what the job can accomplish.
+Legislative Priorities Turn priorities into specific legislation.
+Alina’s Law James supports advancing a revised proposal for court-ordered electronic monitoring and proximity alerts in qualifying Protection From Abuse cases, with a coordinated response and due process safeguards.
+Explore Alina’s Law Practical by design A state representative should be clear about what the job can accomplish.
 A member of the Pennsylvania House can write and vote on state law, shape the Commonwealth budget, oversee state agencies, help municipalities compete for state resources, and provide direct constituent service.
 That is where James will put his attention.
 No legislator can set every price, control every local decision, or guarantee an agency outcome.

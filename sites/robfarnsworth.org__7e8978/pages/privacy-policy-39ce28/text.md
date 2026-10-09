@@ -1,11 +1,12 @@
-Skip to content Toggle Navigation HOME CAMPAIGN DONATE Privacy Policy Rob Farnsworth 2026-09-22T23:54:13+00:00 Privacy Policy for the Committee to Elect Rob Farnsworth Effective Date: 9/22/2026 Website Our website address is: http://robfarnsworth.org.
+Skip to content Toggle Navigation HOME CAMPAIGN DONATE Privacy Policy Rob Farnsworth 2026-10-09T02:16:28+00:00 Privacy Policy for the Committee to Elect Rob Farnsworth Effective Date: 9/22/2026 Website Our website address is: http://robfarnsworth.org.
 Our Commitment to Your Privacy Committee to Elect Rob Farnsworth (“we,” “us,” or “our”) is committed to protecting the privacy of visitors and users (“you” or “your”) of our political campaign website.
 This Privacy Policy outlines our practices regarding the collection, use, and disclosure of personal information through our website.
 By accessing and using our website, you consent to the terms of this Privacy Policy.
 1.
 Information We Collect: a.
 Personal Information: We may collect personal information you voluntarily provide to us, such as your name, email address, postal address, phone number, and any other information you submit through our website’s forms. b.
-Text Messaging Opt-In Data: If you choose to opt-in to receive text messages from us, we may collect your phone number and related data required for text messaging services. c.
+Text Messaging Opt-In Data: If you choose to opt-in to receive text messages from us, we may collect your phone number and related data required for text messaging services.
+We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law. c.
 Automatically Collected Information: 2.
 Use of Information: a.
 We may use the personal information you provide to us for the following purposes: To communicate with you, respond to your inquiries, and provide information about our campaign.
@@ -13,6 +14,7 @@ To send you updates, newsletters, and other campaign-related information.
 To analyze and improve our website’s performance, content, and user experience.
 To comply with legal obligations and enforce our rights and agreements. b.
 Text Messaging Opt-In Data: Your phone number and related data collected for text messaging services will only be used to send you campaign-related text messages and updates.
+We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
 3.
 Sharing of Information: a.
 Third Parties: We will not share, sell, rent, or disclose your personal information to any third parties, except as described in this Privacy Policy or when required by law. b.

@@ -1,4 +1,4 @@
-Skip to content Toggle Navigation ABOUT RECORD ISSUES Contact DONATE Terms and Conditions dev1 2026-09-03T14:19:29-10:00 TERMS AND CONDITIONS Friends of Darius Kila SMS Terms and Conditions Last Updated: August 28, 2026 You agree to receive recurring automated text messages, including SMS and MMS messages, from Friends of Darius Kila at the mobile telephone number you provided when signing up or at another number that you designate.
+Skip to content Toggle Navigation About Record Issues Contact Donate Terms and Conditions dev1 2026-09-03T14:19:29-10:00 TERMS AND CONDITIONS Friends of Darius Kila SMS Terms and Conditions Last Updated: August 28, 2026 You agree to receive recurring automated text messages, including SMS and MMS messages, from Friends of Darius Kila at the mobile telephone number you provided when signing up or at another number that you designate.
 Messages may be sent using an automatic telephone dialing system.
 Messages may include informational messages, recurring campaign updates, volunteer opportunities, event notices, voter information, election reminders, and on demand replies to messages.
 Donations will not be solicited.

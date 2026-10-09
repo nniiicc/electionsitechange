@@ -1,9 +1,14 @@
 {
- "description": "",
+ "description": "Political Campaign Site- to Elect Mike Middlebrook to State Representative",
  "final_url": "https://www.teammiddlebrook2026.com/groups",
- "fingerprint": "1743211e72c29964e28f0c6c3fe20455723a68eb",
+ "fingerprint": "774d6479de3fc11355cb46e3898c6c9f5cac2957",
  "format": 3,
  "paid_for_by": "",
- "title": "",
- "years_mentioned": []
+ "rendered": false,
+ "title": "Groups | Teammiddlebrook2026",
+ "years_mentioned": [
+  "2025",
+  "2026",
+  "2033"
+ ]
 }

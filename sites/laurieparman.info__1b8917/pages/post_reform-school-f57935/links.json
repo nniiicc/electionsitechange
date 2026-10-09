@@ -8,7 +8,7 @@
 "href": "https://www.laurieparman.info/blog"
 },
 {
-"text": "Campaign",
+"text": "Campaign & PSA",
 "href": "https://www.laurieparman.info/blog/categories/campaign"
 },
 {
@@ -20,12 +20,16 @@
 "href": "https://www.laurieparman.info/endorsements"
 },
 {
-"text": "Education",
+"text": "EXCELLENCE in Education",
 "href": "https://www.laurieparman.info/blog/categories/education"
 },
 {
 "text": "Events",
 "href": "https://www.laurieparman.info/event-list"
+},
+{
+"text": "FINANCIAL Reform",
+"href": "https://www.laurieparman.info/blog/categories/financial-reform"
 },
 {
 "text": "For IL District 66",
@@ -61,10 +65,6 @@
 },
 {
 "text": "Law Enforcement",
-"href": "https://www.laurieparman.info/blog/categories/law-enforcement"
-},
-{
-"text": "Law Enforcement",
 "href": "https://www.laurieparman.info/blog/tags/law-enforcement"
 },
 {
@@ -82,6 +82,10 @@
 {
 "text": "Notifications",
 "href": "https://www.laurieparman.info/notifications"
+},
+{
+"text": "SAFER Communities",
+"href": "https://www.laurieparman.info/blog/categories/law-enforcement"
 },
 {
 "text": "See All",

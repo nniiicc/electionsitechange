@@ -1,11 +1,13 @@
 {
- "description": "Find the latest news from Meredith Sumenek, candidate for State Representative in Missouri's 95th State House District.",
+ "description": "Find the latest news from Meredith Sumenek, the Democratic candidate for State Representative in Missouri's 95th State House District. Access Meredith's press kit and learn about what has been happening with the vacancy in Missouri State House District 95.",
  "final_url": "https://www.sumenekformo.com/press",
- "fingerprint": "edbc47ac4195cd500dbe24bdd1387e0dc7f60131",
+ "fingerprint": "fe86d2b13e4688f81a38a1ca76b227a1e05e94f0",
  "format": 3,
  "paid_for_by": "Paid for by Meredith Sumenek Campaign Fund, Laura Metz, Treasurer Call Meredith: 314",
+ "rendered": false,
  "title": "Press — Meredith Sumenek for Missouri",
  "years_mentioned": [
+  "2025",
   "2027"
  ]
 }

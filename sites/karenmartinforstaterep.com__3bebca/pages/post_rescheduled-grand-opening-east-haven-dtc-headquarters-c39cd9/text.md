@@ -1,6 +1,6 @@
 top of page Home About Me News Get Involved Contact More Use tab to navigate through the menu items.
 Subscribe Log In Karen Martin For State Representative All Articles Search Rescheduled Grand Opening - East Haven DTC Headquarters!
-Campaign Staff #ago 1 min read Updated: #ago Karen Martin invites East Haven residents to the grand opening of the East Haven Democratic Town Committee Headquarters on Sunday, October 4, at 11:00 a.m.
+Campaign Staff Oct 1 # min read Updated: #ago Karen Martin invites East Haven residents to the grand opening of the East Haven Democratic Town Committee Headquarters on Sunday, October 4, at 11:00 a.m.
 The celebration will take place at 370 Hemingway Avenue and will include visits from Congresswoman Rosa DeLauro and Connecticut State Treasurer Erick Russell , along with an opportunity to meet East Haven’s Democratic candidates.
 The event will also serve as the official kickoff of the campaign’s community canvassing effort.
 “I hope you’ll stop by, meet our candidates, and help us celebrate the opening of our campaign headquarters,” Karen said.

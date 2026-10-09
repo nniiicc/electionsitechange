@@ -1,15 +1,20 @@
 Donate Home Contact Us About Jeff Donate Working for YOU!
 11th Rep.
-District Map Log-in Month: August 2014 Smoked mojo pork chops- Weekly update August 24 Friends for Jeff Spiegelman, Things are really getting exciting in and around Delaware I suppose you have seen all the signs up in the 11th District.
+District Map Log-in Terms & Conditions Privacy Policy Month: August 2014 Smoked mojo pork chops- Weekly update August 24 Friends for Jeff Spiegelman, Things are really getting exciting in and around Delaware I suppose you have seen all the signs up in the 11th District.
 Or, as we say, just follow the “Yellow Sign Road”. -We have been getting in a lot of door knocking and we could really use some help. […] Sunday, August 24th, 2014 | Leave a comment Read more › Pepper Sauce Drumsticks.
 Update 8/10 Friends for Jeff Spiegelman We are still working on perfecting the new email system.
 I hope this format is more to your liking -This previous week was the Kenton Town Council and Townsend Town Council monthly meetings, wine with constituents at Harvest Ridge Winery, Marydel Fire Co Wing Night, the annual Kenton Ruritan Tractor […] Sunday, August 10th, 2014 | Leave a comment Read more › Weekly update and recipe 8/3 Chinese Red Pepper Lamb Friends for Jeff Spiegelman We had another great week in the 11th District.
 I hope you are enjoying our new email system now that the text is easier to read compared to last week. -This week I enjoyed a great meeting with constituents at the Young Bean Coffee Shop on Monday, […] Monday, August 4th, 2014 | Leave a comment Read more › Working For You!
 Donate If you wish to donate to Jeff Spiegelman's campaign, please visit the site below.
 Thank you for your support! --- Click here to visit the donation site --- Archives < 2014 2026 2022 2021 2020 2019 2018 2017 2016 2015 2014 ▼ > Jan 10 Posts Feb 3 Posts Mar 0 Posts Apr 0 Posts May 0 Posts Jun 0 Posts Jul 7 Posts Aug 4 Posts Sep 8 Posts Oct 2 Posts Nov 0 Posts Dec 0 Posts Jan 2 Posts Feb 0 Posts Mar 0 Posts Apr 0 Posts May 0 Posts Jun 0 Posts Jul 0 Posts Aug 0 Posts Sep 0 Posts Oct 0 Posts Nov 0 Posts Dec 0 Posts Jan 4 Posts Feb 1 Post Mar 2 Posts Apr 2 Posts May 2 Posts Jun 2 Posts Jul 0 Posts Aug 0 Posts Sep 0 Posts Oct 0 Posts Nov 0 Posts Dec 0 Posts Jan 4 Posts Feb 3 Posts Mar 3 Posts Apr 1 Post May 1 Post Jun 0 Posts Jul 4 Posts Aug 2 Posts Sep 0 Posts Oct 1 Post Nov 3 Posts Dec 1 Post Jan 3 Posts Feb 3 Posts Mar 3 Posts Apr 3 Posts May 2 Posts Jun 3 Posts Jul 2 Posts Aug 2 Posts Sep 2 Posts Oct 3 Posts Nov 2 Posts Dec 2 Posts Jan 4 Posts Feb 4 Posts Mar 3 Posts Apr 4 Posts May 3 Posts Jun 3 Posts Jul 3 Posts Aug 4 Posts Sep 3 Posts Oct 2 Posts Nov 4 Posts Dec 2 Posts Jan 4 Posts Feb 4 Posts Mar 3 Posts Apr 5 Posts May 3 Posts Jun 3 Posts Jul 3 Posts Aug 4 Posts Sep 2 Posts Oct 4 Posts Nov 2 Posts Dec 2 Posts Jan 4 Posts Feb 3 Posts Mar 3 Posts Apr 3 Posts May 4 Posts Jun 3 Posts Jul 3 Posts Aug 4 Posts Sep 3 Posts Oct 4 Posts Nov 3 Posts Dec 3 Posts Jan 4 Posts Feb 4 Posts Mar 5 Posts Apr 2 Posts May 4 Posts Jun 3 Posts Jul 3 Posts Aug 5 Posts Sep 3 Posts Oct 4 Posts Nov 3 Posts Dec 3 Posts Jan 0 Posts Feb 0 Posts Mar 0 Posts Apr 0 Posts May 0 Posts Jun 1 Post Jul 24 Posts Aug 3 Posts Sep 5 Posts Oct 5 Posts Nov 6 Posts Dec 3 Posts Like us on Facebook!
-Jeff Spiegelman for Delaware State Representative #ago We would like to invite you to kick back and relax and have lunch or dinner fixed by our awesome Ladies Auxiliary.
-You must pre-order to get you an amazing sub. ...
+Jeff Spiegelman for Delaware State Representative #ago ⚠️ See Something?
+Say Something. ⚠️ Town parks and recreational areas have recently been impacted by spray paint vandalism.
+We are asking residents to stay alert and help us protect these important community spaces.
+If you witness suspicious activity or vandalism, do not intervene.
+Your safety is the priority.
+Please call 911 and report what you observed.
+Thank you for working together to keep Townsend beautiful and welcoming for everyone. 🌳🏞️ ...
 See More See Less Photo View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email Home Contact Us About Jeff Donate Working for YOU!
 11th Rep.
-District Map Log-in Copyright © # Friends for Jeff Spiegelman.
+District Map Log-in Terms & Conditions Privacy Policy Copyright © # Friends for Jeff Spiegelman.
 All Rights Reserved.

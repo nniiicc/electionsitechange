@@ -1,6 +1,6 @@
 top of page Menu Schmidt for IA House Donate Close State Politics Religion Education Health Agriculture Economy Terms & Conditions Privacy Policy Accessibility Statement Contact Us State Politics Religion Education Health Agriculture Economy Donate All Posts Health Politics Education Religion Rural Iowa Agriculture Economy Environment Sure, let's build a steel mill.
 Not like this.
-#ago 2 min read Alexander Schmidt is the Democratic nominee for Iowa House of Representatives in District 60, covering the entirety of Mitchell and Worth Counties as well as portions of Cerro Gordo and Floyd Counties.
+Oct 2 2 min read Alexander Schmidt is the Democratic nominee for Iowa House of Representatives in District 60, covering the entirety of Mitchell and Worth Counties as well as portions of Cerro Gordo and Floyd Counties.
 The "plan," announced a few days ago in the Oval Office is to build the largest and "most tremendous" steel mill in U.S. history, (somewhere?) in Lee County along the Mississippi River.
 The session is meeting to consider $1.4 billion in tax credits for the project.
 If I were a member of the Iowa House of Representatives from the 60th District, I'd enter this 2026 special session with a duty to deliver economic relief for all Iowans while being a responsible steward of their tax dollars.

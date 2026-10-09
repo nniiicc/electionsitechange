@@ -1,0 +1,9 @@
+DEMOCRAT MICHELLE RODRIGUEZ RECEIVES 100% RATING FROM PLANNED PARENTHOOD'S COMMUNITY ACTION FUND (Pomona, CA) Planned Parenthood Community Action Fund announced that Michelle Rodriguez has earned a 100% rating from the Community Action Fund of Planned Parenthood of Orange and San Bernardino Counties.
+This rating underscores her unwavering commitment to reproductive rights and healthcare for all Californians.
+As the only female candidate in the race for the 53rd Assembly District, Michelle Rodriguez's advocacy for reproductive rights is rooted in her own experiences and her deep understanding of the importance of accessible family planning services.
+"This recognition is incredibly personal to me," says Rodriguez.
+"As someone who has relied on services like family planning from Planned Parenthood, I understand firsthand the critical role they play in our communities.
+I am honored to receive this 100% rating and remain steadfast in my commitment to protecting and advancing reproductive rights." Michelle continues to advocate for key issues impacting the residents of the 53rd Assembly District, including homelessness and affordable housing, public safety, and the creation of good paying jobs.
+Her approach to these challenges is informed by her extensive background in public service, including her roles in local public schools, health care, and as a member of The Commission on Peace Officer Standards and Training (POST).
+Michelle’s campaign has also received support from influential women’s groups, including the California Democratic Legislative Women’s Caucus, Women’s Political Committee, Fund Her, and dozens of local female leaders, elected officials, and Democratic Party members.
+For more information on Michelle’s campaign, contact info@michelleforassembly.com or visit www.michelleforassembly.com ##

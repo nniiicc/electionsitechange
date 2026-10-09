@@ -1,9 +1,10 @@
 {
  "description": "Campaign site for Texas Democratic candidate for House District 106.",
  "final_url": "https://www.joemayesfortexas.com/news",
- "fingerprint": "2578de065b5d1e4d54ecc96543a76b9643d66238",
+ "fingerprint": "5ee65d8bc31e0c7771b1bd9652ac0d781af494e6",
  "format": 3,
  "paid_for_by": "paid for by the Joe Mayes for Texas Campaign, Diane Mayes, Treasurer Joseph \"Joe\" Mayes is a Retiree of the United States Air Force",
+ "rendered": false,
  "title": "News — Joe Mayes for Texas HD 106",
  "years_mentioned": [
   "2025"

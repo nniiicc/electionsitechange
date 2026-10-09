@@ -14,7 +14,99 @@ Together, we can address the pressing issues facing our district and ensure a pr
 Rep.
 Gabe Evans of Fort Lupton in the toss-up district, which spans from the northeastern Denver suburbs along U.S.
 85 into Greeley.
-Press Releases ICYMI: Manny Rutinel Rallies with Local Carpenters Union, Kicks Off Canvass Launch Alongside CO Attorney General Weiser October 5, 2026 · Read the full release THORNTON, CO – On Saturday, Manny Rutinel joined Carpenters and Millwrights Local 555 and Colorado Attorney General and Gubernatorial Candidate Phil Weiser for a Day of Action canvass launch.
+Press Releases ICYMI: Gabe Evans Can’t Answer Basic Questions about His Record October 8, 2026 · Read the full release During the debate, Manny Rutinel asked Evans to defend his record three times.
+He declined to answer any of Rutinel’s questions BERTHOUD, CO – Last night on the debate stage, Manny Rutinel, Democratic Candidate for Colorado’s 8th District, asked Congressman Gabe Evans three separate questions about his record.
+Instead of answering, Evans ducked all three.
+First, Rutinel asked Evans about voting for the largest Medicaid cuts in history and ending the Affordable Care Act credits and if he regrets his decision: “Yes or no?
+Do you regret kicking hundreds of 1000s of Coloradans and their families off of health care?
+Yes or no?
+Answer the question.
+Answer it.
+I'll give you time.
+You can have my time.
+Yes or no?
+Do you regret kicking folks off of the Affordable Care Act credits and Medicaid programs through the Big Beautiful Bill vote that you did?” Evans did not answer.
+Then, Rutinel gave Evans a chance to defend his reasoning for failing to release the Epstein Files that protect Donald Trump and his corporate cronies.
+Evans did not answer.
+Finally, Rutinel asked Evans if he regretted voting 7 times for the Iran War that has no end in sight, putting American military lives at risk, and is raising gas prices in Colorado: “Do not regret at all sending American lives at risk and raising gas and diesel prices at home.
+Yes or no?” Evans did not answer.
+Once again, Gabe Evans could not answer why he stands 100% of the time with Donald Trump while making life unaffordable for his constituents.
+“Even Gabe Evans knows his record is toxic,” said Alex Terr, spokesperson for Manny for Colorado .
+“Manny Rutinel gave him a chance on stage to answer for his time in Congress.
+And just like he has since taking office, he could not muster an answer.
+It is time for new leadership in CD-8 that advocates for their constituents and is proud of their record.” WHAT COLORADANS ARE READING: Rutinel Focused on Cutting Costs While Evans “Stood By His Record of Supporting Trump’s MAGA Agenda” October 8, 2026 · Read the full release BERTHOUD, CO – Reporting on last night’s debate in Colorado’s 8th Congressional District underscored the stark contrast in this race: while Manny Rutinel focused on plans to lower costs - from reversing Medicaid cuts to ending tariffs, Gabe Evans “stood by his record of supporting Trump’s MAGA agenda on the major issues, like the Iran War and health care.” Reporting from last night highlighted the most notable exchange of the night, where Rutinel directly called out Evans’ record of raising costs on Coloradans and his broken promises on the economy.
+As the Denver Post noted, “After citing sky-high diesel and gas prices brought on by Trump’s war on Iran and the president’s ‘chaotic, corrupt tariff policies,’ Rutinel looked straight at his opponent: ‘Are you sure you want to run on the economy right now?
+If you want to run on the economy — fine, but I don’t think that’s a good look for you.’ ” Read the highlights below: Colorado Times-Recorder: “ Running on the Economy Is ‘Not a Good Look’ for Evans, Says Rutinel During Debate ” Toward the end of his debate tonight with Gabe Evans, Democrat Manny Rutinel turned to the Republican incumbent, who’d been discussing Colorado’s economy, and said, “Now, I just got to say, he keeps bringing up the economy.
+Are you sure you want to run on the economy right now?
+Gas is at $4.20.
+Diesel is at $6.20 because of this forever war in Iran that put American lives at risk and raised gas and diesel prices at home.
+Grocery prices are going through the roof because of the corrupt, chaotic tariff policies that you are pushing, and healthcare insurance premiums are going through the roof because you’ve gutted the Affordable Care Act and Medicaid.
+“If you want to run on the economy, fine, but I don’t think that’s a good look for you.” [...] Evans essentially stood by his record of supporting Trump’s MAGA agenda on the major issues, like the Iran War and health care.
+“Iran is the leading sponsor of terrorism in the world, and they get a bump when Democrats project weakness abroad,” he said, doubling down on his response when asked this week by CBS4 political specialist Shaun Boyd yesterday if the war in Iran is working “at this point.” Evans nodded and said, “Yes.” Evans said that Democratic policies in Colorado on oil-and-gas issues have caused fuel prices to increase — an argument he’s made before and has been fact-checked as false.
+“You’re not fooling anyone in this crowd,” Rutinel told Evans at the debate, which took place at the sold-out Grace Place Auditorium.
+“Everyone here knows you’re the one raising gas and diesel prices.
+Gas and diesel prices have gone up 50% since this war in Iran.
+“Look, Iran is the leading sponsor of terror, and they should never have a nuclear weapon.
+But there’s the saying that when you make diplomacy impossible, you make war inevitable.
+And Donald Trump and Gabe Evans have time and time again torn apart the agreements and put the entire world against us.” On Medicaid, Evans again stood behind Trump, this time for the Medicaid changes in the Big Beautiful Bill, insisting that the number of Medicaid recipients has increased in Colorado since the bill was passed.
+But he didn’t say that the cuts aren’t expected to kick in until next year or that they’re already putting hospitals at risk.
+Experts predict that 80,000 people will lose Medicaid in Colorado due to the Big Beautiful Bill. [...] After the debate, Rutinel greeted supporters in the auditorium and later in the lobby, but there was no sign of Evans, who departed out the back door of the building without making an appearance.
+Axios: “ Evans, Rutinel clash in high-stakes congressional debate ” [...] State of play: The on-stage standoff underscores the intensity of the race for one of Colorado's most competitive congressional seats.
+Zoom in: The debate, hosted by the Surveyor in Berthoud, also exposed differences over health care, immigration and public safety.
+Rutinel called for reversing Medicaid cuts under Trump's law, creating a pathway to citizenship for longtime undocumented immigrants who work and pay taxes, and rolling back Trump's tariffs.
+Rutinel also pushed to ban congressional stock trading, prohibit corporate donations to politicians, impose congressional term limits and end the war with Iran.
+CPR: “ Gabe Evans and Manny Rutinel hold fiery debate in Colorado congressional swing seat race ” [...] Rutinel in turn called Evans radical for supporting the massive Republican tax and spending package.
+“You’re kicking hundreds of thousands of Coloradans off of healthcare, answer the question, ‘Do you regret backing the big beautiful bill?’” Rutinel said.
+He also went after Evans for initially opposing a proposal in Congress to release the Epstein files and said Evans sides with Trump time and again.
+“He only responds to one man, he only seeks the approval of one man, and that’s Donald Trump,” Rutinel said.
+“We need leaders that will hold accountable to anyone who breaks the law.” [...] Denver Post: “ Barbed comments, and sharper rejoinders, dominate debate in Colorado’s 8th District ” [...] “Gabe Evans is literally taking healthcare from families and seniors,” Rutinel said, referring to Medicaid cuts that were part of the Republican president’s giant tax and spending bill, legislation that was passed last year by congressional Republicans. [...] After citing sky-high diesel and gas prices brought on by Trump’s war on Iran and the president’s “chaotic, corrupt tariff policies,” Rutinel looked straight at his opponent: “Are you sure you want to run on the economy right now?
+If you want to run on the economy — fine, but I don’t think that’s a good look for you.” [...] Colorado Newsline: Candidates in crucial Colorado congressional district trade barbs over voting records [...] Rutinel said he wants to restore Affordable Care Act tax credits and expand Medicaid so health insurance will be more affordable.
+He also blamed the war in Iran and Trump’s tariffs for increasing the cost of living.
+Evans, who voted against a war powers resolution to direct Trump to remove U.S. troops from Iran, did not mention the conflict in Iran.
+He flagged past comments Rutinel has made against the oil and gas industry as well as anti-factory farming stances. [...] The economy would be “in a much better spot” if Trump and Evans focused on the economy instead of targeting immigrants, Rutinel said.
+“Right now, Donald Trump and Gabe Evans are trying to find new ways to torment our immigrant neighbors,” Rutinel said.
+“They’re using masked ICE agents without judicial warrants.
+They are raiding schools and hospitals to rip families apart.” Rutinel Wins CO-08 Debate, Lays Out Plan to Lower Costs While Evans Struggles to Defend His Record October 7, 2026 · Read the full release Rutinel underscores commitment to fighting for working families, calls out Evans for voting with Trump 100% of the time as prices skyrocket BERTHOUD, CO – Manny Rutinel won tonight’s debate in Colorado’s 8th District, laying out his plan to lower costs for working families and holding Gabe Evans accountable for voting with Trump’s cost-raising agenda 100% of the time .
+Tonight’s debate made the choice clear in this race: while Rutinel has a record of leading efforts to lower costs and support working people, Gabe Evans has spent his time in Congress standing with Trump and voting to slash health care and make life more expensive for Colorado families.
+“Tonight, voters saw exactly who is fighting for them.
+It’s clear Manny is the only candidate Coloradans can trust to put their needs first in Congress,” said Clay Volino, Campaign Manager for Rutinel for Congress .
+“Manny has spent his time in office getting results for families, and he is going to take the same approach in Congress to bring down the costs of health care, groceries, and rent and take on corruption.
+Coloradans know that Gabe Evans chooses Trump over this district every single time, and they are ready for change come November.” Rutinel enters the final weeks of the race backed by Colorado's largest unions, including UFCW and the United Farm Workers, along with more than 65,000 grassroots donors, over 1,000 volunteers and more than 100 elected officials.
+FACT CHECK: Gabe Evans Voted For The Largest Cuts to Medicaid in History October 7, 2026 · Read the full release Evans’ vote could kick 200,000 Coloradans off their health care BERTHOUD, CO – Gabe Evans lied about his voting record tonight.
+On the debate stage with Manny Rutinel, Democratic candidate for Colorado’s 8th district, Evans falsely claimed he did not cut Medicaid.
+Here are the facts: Evans voted for the OBBBA, which included the largest Medicaid cuts in history and has hurt Coloradans across the state and in CO-08.
+Approximately 200,000 Coloradans could lose their health care due to Evans’ vote, and at least three rural hospitals in the district are at risk of closing due to Evans’ ‘ life-threatening vote .’ Instead of protecting access to affordable health care for working families, Evans voted to give billionaires permanent tax breaks .
+This is not the first time Evans lied about his cuts to health care.
+Evans falsely promised that there would not be any cuts to ‘people who need it most.’ But one in four people in CO-08 rely on Medicaid and thousands of patients who are served by at-risk hospitals are at risk of losing access to care.
+“Gabe Evans keeps lying about his record because he can’t admit to the people who elected him that he went to Congress and slashed their health care so he could give tax breaks to his billionaire friends.
+Coloradans can’t afford another term of Gabe Evans’ price-hiking agenda,” said Alex Terr, spokesperson for Manny for Colorado .
+“Like many Coloradans, Manny Rutinel grew up in a family that relied on Medicaid and knows how vital these programs are for working families in Colorado.
+When elected, Manny will fight from day one to reverse these devastating cuts and ensure that every Coloradan can afford the health care they need.” Rutinel Takes the Debate Stage Tonight With a Plan to Lower Costs for Colorado’s 8th District October 7, 2026 · Read the full release Rutinel will continue to center Gabe Evans’ record voting 100% of the time with Trump to raise costs on Coloradans, including voting to gut Medicaid and food assistance programs BERTHOUD, CO – Manny Rutinel takes the debate stage tonight at Grace Place Auditorium as the only candidate running in Colorado’s Eighth District who consistently puts Colorado families first.
+In sharp contrast to Gabe Evans, who votes with Trump and his reckless, cost-hiking agenda 100% of the time , Rutinel is running to lower health care, grocery, utility, and housing costs for Coloradans, fight for working families, and end corruption in Washington.
+Tonight, Rutinel will focus on his plans to lower costs – including by ending Trump’s reckless tariffs that are hurting families and small businesses, restoring Medicaid and Affordable Care Act funding, and ending Trump’s war in Iran that’s raising prices here at home – while holding Evans accountable for failing Colorado families.
+“I still remember being 10 years old, sitting at the kitchen table filling out Medicaid and food stamp forms.
+Those are the same programs Donald Trump and Gabe Evans are destroying to give their billionaire donors a tax break.
+Growing up, I worked multiple jobs to make ends meet.
+I’ve fought for working families like mine in the Colorado State House, and now I’m running for Congress in Colorado’s 8th District to lower costs and take on corruption,” said Rutinel.
+HERE’S A REFRESH ON RUTINEL AND EVANS’ RECORDS: In the Colorado House, Rutinel: Led legislation to improve rural health care .
+Voted to crack down on grocery price gouging when prices are raised more than #% during a declared disaster emergency.
+Voted to expand insulin access by streamlining availability and establishing strict manufacturing noncompliance rules under the Colorado Consumer Protection Act.
+Voted to cut childhood poverty in half and make it easier for families with children to make ends meet.
+Expanded housing families can afford by investing up to $50 million in starter homes for first-time buyers and co-sponsoring a law to build affordable housing near transit .
+Protected Colorado farmers and ranchers land from foreign adversaries.
+In 2024, he was the only Democrat on the House State Affairs Committee to vote to advance a bill that would have barred entities tied to governments like China and Russia from buying Colorado farmland, mineral rights, and water rights.
+Supported expanding Colorado's Agricultural Future Loan Program , addressed cattle theft , supported the Cottage Foods Act , and led the law cutting red tape for food trucks .
+Prioritized public safety and led a bipartisan crackdown on human trafficking , giving local governments new tools to shut down illicit businesses tied to trafficking.
+The bill passed the House 63-0 and was signed into law.
+Funded law enforcement, voting to deliver $2 billion in funding to state and local departments .
+Has never taken corporate PAC money.
+In the U.S.
+House, Evans: Votes with Trump 100% of the time to raise costs on Coloradans.
+Cast the deciding vote for the largest cuts to Medicaid in history , a program more than one in four Coloradans in the Eighth District rely on.
+Voted to double health insurance premiums for working Coloradans.
+Voted at least eight times for reckless tariffs that are driving up costs for families and small businesses.
+Voted 7 times to greenlight another forever war in Iran, calling it “the best foreign policy in decades.” Broke his promise to protect Colorado energy jobs.
+ICYMI: Manny Rutinel Rallies with Local Carpenters Union, Kicks Off Canvass Launch Alongside CO Attorney General Weiser October 5, 2026 · Read the full release THORNTON, CO – On Saturday, Manny Rutinel joined Carpenters and Millwrights Local 555 and Colorado Attorney General and Gubernatorial Candidate Phil Weiser for a Day of Action canvass launch.
 Rutinel emphasized the competitiveness of the race, especially as President Trump and Gabe Evans aim to continue making life harder for workers in order to appease their billionaire donors.
 After the kickoff, union members spread throughout the district to knock doors and had conversations with 8th District voters about Manny’s plan to fight for fair wages, strong benefits, and lower costs for Colorado families.
 In stressing how he will support carpenters and other union members in Colorado, Rutinel highlighted his past work in the state legislature, “when Donald Trump and Gabe Evans started destroying OSHA, we here in Colorado brought a bill called the Colorado Worker Safety Act, so that labor unions, when they are put at risk by their corporate employers, they're able to fight back.” SATURDAY: Manny Rutinel to Rally with Local Carpenters Union, Kick Off Canvass Launch October 2, 2026 · Read the full release Manny Rutinel’s campaign will join a Day of Action canvass launch this Saturday, held by Carpenters and Millwrights Local 555.

@@ -4,4 +4,5 @@ Vote against any bill that adds to the national debt (which is over $40,000,000,
 Fight against any attempt to rob the honest, hard-working American people of their hard-earned money.
 I will not accept any donations whatsoever, because I know how much we are all struggling in these hard times when most of us are living paycheck to paycheck.
 Sincerely, Jon Kamerath Candidate, NV Congress Dist.
-3 Web page designed by Limelight Media powered by WiX. bottom of page
+3 Paid for by Friends of Jon Kamerath.
+Web page designed by Limelight Media powered by WiX. bottom of page

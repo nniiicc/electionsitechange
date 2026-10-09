@@ -1,7 +1,4 @@
-0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Oct 8 Canvass with Tatiana in Rainier Beach!
-Thursday, October 8, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Rainier Beach!
-All information is in the attached Mobilize link.
-View Event → Oct 10 King County Candidate Forum, hosted by Coalition of Immigrants Refugees and Communities of Color (CIRCC) and partners – 37th District Saturday, October 10, 2026 10:00 AM 1:00 PM Google Calendar ICS Meet Tatiana and other 37th Legislative District candidates.
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Oct 10 King County Candidate Forum, hosted by Coalition of Immigrants Refugees and Communities of Color (CIRCC) and partners – 37th District Saturday, October 10, 2026 10:00 AM 1:00 PM Google Calendar ICS Meet Tatiana and other 37th Legislative District candidates.
 Connect with community, and get clear on the issues shaping our neighborhoods.
 Free entry, lunch, parking, and childcare with RSVP.
 View Event → Oct 10 Canvass with Team Tatiana in the Central District!
@@ -30,16 +27,13 @@ View Event → Oct 19 Canvass with Tatiana in Othello & New Holly!
 Monday, October 19, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Othello & New Holly!
 All information is in the attached Mobilize link.
 View Event → Oct 20 2026 A&NH/PI General Candidate Forum Tuesday, October 20, 2026 5:15 PM 7:00 PM Wing Luke Museum (map) Google Calendar ICS Join Tatiana as she participates in the the 14th annual A&NH/PI General Election Candidate Forum hosted by ACRS, Chinese Information Services Center, Interim CDA, ReWa, South Seattle Emerald, and Wing Luke Museum.
-View Event → Oct 20 Canvass with Tatiana in North Beacon Hill!
-Tuesday, October 20, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in North Beacon Hill!
-All information is in the attached Mobilize link.
 View Event → Oct 21 Canvass with Tatiana!
 Wednesday, October 21, 2026 3:00 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in (TBD)!
 All information is in the attached Mobilize link.
 View Event → Oct 22 Canvass with Tatiana in Skyway!
 Thursday, October 22, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Skyway!
 All information is in the attached Mobilize link.
-View Event → Oct 24 Canvass with Tatiana in the Central District!
+View Event → Oct 24 Canvass with Tatiana in Skyway!
 Saturday, October 24, 2026 11:00 AM 3:00 PM Google Calendar ICS Canvass with Team Tatiana in the Central District!
 All information is in the attached Mobilize link.
 View Event → Oct 25 Canvass with Tatiana in Skyway!
@@ -72,6 +66,9 @@ All information is in the attached Mobilize link.
 View Event → Nov 2 to Nov 3 Election Day GOTV With Tatiana!
 Mon, Nov 2, 2026 9:00 AM Tue, Nov 3, 2026 8:00 PM Google Calendar ICS Join Tatiana for everything from phone banking to knocking on doors in the final stretch of the campaign!
 Click the Mobilize link to sign up for a volunteer shift with us.
+View Event → Oct 8 Canvass with Tatiana in Central Beacon Hill!
+Thursday, October 8, 2026 5:30 PM 7:00 PM Google Calendar ICS Canvass with Team Tatiana in Rainier Beach!
+All information is in the attached Mobilize link.
 View Event → Oct 6 Canvass with Tatiana in Othello!
 Tuesday, October 6, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Othello!
 All information is in the attached Mobilize link.

@@ -16,7 +16,9 @@ You aren't just supporters on a list—you are the reason this campaign exists, 
 3rd ★ Voter Registration Ends Oct.
 3rd ★ did you hear?
 Media coverage, interviews, appearances, and statements.
-THE RECORD September 3, 2026 AP news: “Oklahoma primary runoff election results” September 3, 2026 2026 RUNOFF ELECTION RESULTS Read more → September 3, 2026 August 27, 2026 Tangle news: “Resurfaced TikTok of Democratic nominee for Oklahoma’s Senate seat goes viral.” August 27, 2026 Read more → August 27, 2026 August 27, 2026 mediaite: “WATCH: OK Democrat’s TikTok Showing Her Having a Bizarre ‘Mean Girls’-Style Meltdown Goes Viral After She Wins Senate Primary” August 27, 2026 Read more → August 27, 2026 PEOPLE ARE STANDING WITH JASMINE.
+THE RECORD October 7, 2026 Muve Mag: “Check out People Over Profit with N’Kiyla “Jasmine” Thomas for U.S.
+Senate OK in this months issue of Muve Magazine.” October 7, 2026 Read more → October 7, 2026 October 1, 2026 President trump: “NA-Kee-La Thomas is running for U.S.
+Senate” October 1, 2026 Read more → October 1, 2026 September 21, 2026 AMPLIFIED VOICES TV: “N'Kiyla "Jasmine" Thomas on Running as a Progressive Candidate in Oklahoma” September 21, 2026 Read more → September 21, 2026 PEOPLE ARE STANDING WITH JASMINE.
 Every endorsement tells a story.
 Together, they tell ours.
 Explore the growing archive of Oklahomans building this movement. → view the Stamp Book s upport the campaign Show some OKLAhomie love 💙 Grab some campaign merch, rep the movement, or simply show your support.

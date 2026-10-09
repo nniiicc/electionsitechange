@@ -1,0 +1,28 @@
+Home Fueling Our Campaign Endorsements Blog Home Fueling Our Campaign Endorsements Blog More Home Fueling Our Campaign Endorsements Blog Home Fueling Our Campaign Endorsements Blog My Blog All Posts KENNY CODY: Helene Debacle January 14, 2026 The past two weeks have been a period of resilience and determination for most of western North Carolina and East Tennessee, as they grapple with the aftermath of the devastating flooding caused by Hurricane Helene.
+In what officials call a five-thousand-year flood, the region is dealing with absolute devastation for their citizens, including missing people, casualties, complete loss of households, contaminated water, loss of cell phone service, and no availability for contact in some areas.
+Evacuations in towns like Newport, Tennessee, and Asheville, North Carolina, were made due to the fear of lives being lost, and now the region is in complete recovery mode for citizens with no place else to turn.
+Unlike hurricanes affecting cities like Houston or New Orleans, Appalachia has been mostly left to dry by most of the mainstream media, bureaucratic leaders, and the Biden-Harris Administration.
+In the past, for urban cities, there would be a widespread effort to get the entire country behind relief efforts to help out their fellow man.
+Instead, there has been a delay in the effort, time, funding allocation, and optic displays of empathy from President Joe Biden or the woman running to replace him, Vice President Kamala Harris.
+While people need help to eat, drink clean water, or find a place to live, Vice President Harris is too busy promoting a one-hundred-fifty-seven-million-dollar aid package to Lebanon without a word about her country's people.
+The lack of empathy, attention, or care shown by our executive branch is appalling.
+Still, luckily, some of Tennessee's local leaders are working hard to compensate for the lack of service and showing how to respond to crises when their people need them the most.
+Tennessee United States Senator Marsha Blackburn led the Tennessee congressional delegation's response to the crisis, leading a request with the rest of their colleagues from the House of Representatives to bring more FEMA (Federal Emergency Management Agency) funding from Congress to the Helene-effected areas in Tennessee.
+Blackburn and Senator Bill Hagerty have supported the region, even having their boots on the ground at multiple instances in the relief effort.
+Tennessee House District Eleven Representative and Republican Caucus Chairman Jeremy Faison has also been a beacon of selflessness for the region, working with local banks to grant mortgage payment waivers, collaborating with corporations and celebrities to donate supplies to the region, and even collaborating with conservative influencer Robby Starbuck to distribute Starlink internet to areas that may be without cell phone or internet service.
+Faison represents Cocke County, one of the areas most affected by the flooding, and has worked tirelessly with volunteer workers and other leaders to bring help to his home.
+Congresswoman Diana Harshbarger has been on the ground consistently in counties like Cocke, Greene, Washington, Johnson, and Unicoi County, all of whom she represents within Congress.
+She has gone to every local government leader within her district, and her team has worked tirelessly to provide all hands on deck for constituent service.
+During her annual ' Harshbarger Hoedown' event, Congresswoman Harshbarger even made the entire event unpolitical and instead focused the event efforts around faith and donating to the charity Second Harvest, which would provide direct funding to victims of Hurricane Helene funding.
+Knox County Mayor and WWE Hall of Famer Glenn Jacobs has been all over the region, hosting a food drive in Knoxville that would give back to the most affected parts of the area, such as Greene, Johnson, Unicoi, and Cocke County.
+Partnering with Mission of Hope , a Christian-based charity and community service organization, Jacobs ensured he would give back to the community that gave so much to him.
+Local conservative leaders like TN-02 Congressman Tim Burchett and Tennessee House Representative Jason Zachary from Knox County aided Jacobs.
+Country music icon and East Tennessee legend Dolly Parton got in on the action as well, donating one million dollars of her own money and one million from the Dollywood Foundation to Mountain Ways , a charity directly connected to giving money back to East Tennessee and Western North Carolina post-Helene by partnering with Walmart .
+Arguably the world's biggest country music star, Hancock County, Tennessee native Morgan Wallen also donated five hundred thousand dollars from his foundation to the American Red Cross to aid in Hurricane Helene relief.
+Wallen is known for his contributions to the region and has shown it again by giving back to the place that raised him.
+East Tennessee has shown that regardless of how much attention our federal government 'leaders' decide to give us, we will always band together to help out one another.
+This response from locals, though it should in no way be necessary, is the best example of local leadership possible, and it's a testament to our unity and shared values.
+It's a source of pride for our community.
+Appalachia is the heart of America, and the local leadership in East Tennessee has shown the world that.
+Share this post: Recent Posts KENNY CODY: Nashville will suffer same fate as LA Jan 14, 2026 KENNY CODY: Tennessee's Cocke County shows up for Charlie Kirk Jan 14, 2026 Copyright © # Kenny Cody - All Rights Reserved.
+Powered by

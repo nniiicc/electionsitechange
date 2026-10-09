@@ -1,5 +1,5 @@
-top of page JANET YANG ROHR For State Representative of IL House District 41 GET A YARD SIGN Meet Janet Platform Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
-THE ISSUES TO MOVE US FORWARD Platform AFFORDABLE HEALTHCARE Janet believes health care is a right, not a privilege.
+top of page JANET YANG ROHR For State Representative of IL House District 41 Meet Janet Platform Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
+GET A YARD SIGN THE ISSUES TO MOVE US FORWARD Platform AFFORDABLE HEALTHCARE Janet believes health care is a right, not a privilege.
 She will take on insurance and pharmaceutical companies and fight to put patients ahead of corporate profits and guarantee high-quality, affordable healthcare for all . ​ She will take on the insurance lobby to protect coverage for individuals with pre-existing conditions, stop double digit premium increases, and rein in out-of-control prescription drug costs.
 LOWER TAXES As a school board member who fought to deliver property tax relief for local families, Janet knows we need to fundamentally reform the broken property tax system that slams families with higher taxes every year.
 She will fight for new funding for local schools to ease the burden on local property taxpayers, and go further by creating an annual property tax rebate for local families .
@@ -17,4 +17,4 @@ She’s a working mother and business leader who's held accountable for deliveri
 She is outraged by the crooked self-dealing behavior of politicians who put their own interests ahead of their constituents.
 She will fight to strengthen criminal penalties on politicians who commit egregious acts of misconduct, strip pensions from any politician charged with a felony, and crack down on insider lobbyists who make millions trying to influence government and rig the system for the wealthy and well connected.
 SUBSCRIBE TO OUR EMAILS Get Janet's latest updates SUBSCRIBE Thanks for submitting!
-Meet Janet Platform Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​ ​ ​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page
+Meet Janet Platform Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​​​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page

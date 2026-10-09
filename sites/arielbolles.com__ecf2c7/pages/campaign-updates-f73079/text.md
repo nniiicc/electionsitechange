@@ -1,4 +1,29 @@
 About Priorities Endorsements & testimonials Updates Contact Donate About Priorities Endorsements & testimonials Updates Contact Donate Campaign updates For the latest on what I’ve been up to and upcoming events, find me on Instagram and Facebook !
+Upcoming forums: Building Bright Futures Early Childhood Candidate Forum: Oct.
+13, 6–7:30 pm, Ilsley Public Library, 30 Main St., Middlebury Addison-3 State Rep Candidate Forum: Oct.
+20, 7–8:45pm, Ferrisburgh Town Hall On protecting all constituents A neighbor posted a great question in the Vergennes Front Porch Forum.
+I’m documenting my response here for anyone who missed it: From Ruth Williams: We all have plenty of political opinions, which I think is necessary for a healthy democracy, but with the friction between states and the federal government right now, this issue is one I really care about.
+As an example, this year Vermont lawmakers considered bills limiting how ICE operates in the state, including restrictions on arrests in schools and houses of worship.
+Candidates, if elected, how will you protect all of your constituents, including women, LGBTQ+ Vermonters, and Black, Indigenous, and other people of color, from actions by the federal government that you believe violate their rights?
+What specific bills or policies would you support or oppose?
+And if you think something other than state legislation is the right response, what would it be?
+My response: Hi Ruth, thank you for this important question.
+This issue of friction between states and the federal government is something that I also care deeply about, and it’s a big part of why I’m running for office.
+When I launched my campaign, I wrote: “I see my tax dollars funding endless wars, enriching wealthy tax evaders, and imprisoning innocent people looking for a better life in our country.
+And I’m inspired by people in Vermont and elsewhere speaking out and fighting back, on the streets and through legal action, policy and mutual aid.
+I refuse to be complacent.” That’s all still true.
+One of the things that inspired me to run for office was that in 2024, we elected politicians who don’t share my values of inclusion, accountability and solidarity.
+When Senator Heffernan made offensive anti-trans comments on the Senate floor, there was no statement condemning Heffernan’s speech from Representative North.
+When a vulnerable group is thrown under the bus and my representatives won’t speak up for them, I lose trust that they’ll fight for any of our neighbors when the time comes.
+I’m committed to protecting all Vermonters - regardless of where they were born, what religion they practice, their race, ethnicity, disability status, sexual orientation or gender identity or expression.
+ICE is here in Addison County and recently arrested roofers in Cornwall.
+Immigrant workers and their families are essential to our dairy and construction sectors and they are valuable members of our communities who belong here and deserve paths to citizenship.
+I’m inspired by recent state legislation that was passed to protect Vermonters from federal overreach.
+Examples include S.209, which prohibits warrantless civil arrest in sensitive locations; H.849, which allows folks whose constitutional rights have been violated by federal, state or local authorities to seek damages in state court; and S.28, a “shield law” that broadened protections for patients and providers of reproductive health care (including abortion) and gender-affirming care.
+Rob North voted against these bills.
+Going forward, I would support similar bills that proactively shield Vermonters from federal overreach and give them legal pathways to fight back.
+One example: as the federal government continues to attack people's ability to vote, particularly women and other people who have changed their names since birth, I will support a state-based Voting Rights Act to protect our most essential democratic freedom.
+We need to use every tool at our disposal.
 Primary win!
 Thank you to the voters of Addison-3 for believing in and voting for me in the primary on August 11!
 We are onto the general election because of your support.
@@ -6,7 +31,7 @@ Vermont NEA endorsement!
 I’m so proud to have the support of Vermont's largest union, the Vermont-National Education Association.
 I'm a Vermont public school grad (and the daughter of school bus drivers and the daughter-in-law of public school teachers!) and I'm committed to fighting for equitable, quality public education for every kid in Vermont.
 When our teachers and school staff are fairly compensated and supported, we all win.
-Meeting community members and listening to concerns My favorite parts of campaigning have been door knocking and meet & greets.
+See more endorsements Meeting community members and listening to concerns My favorite parts of campaigning have been door knocking and meet & greets.
 I’m so impressed with how engaged so many of our neighbors are and very grateful when folks take time out of their busy days to share their ideas and concerns with me.
 Something I’ve heard a lot about from people in our district (aside from much alignment on the major pieces of my platform - housing, education, healthcare and taxes) are concerns around pollution of Lake Champlain.
 The lake has been special to me since I was a young child and our waterways in Addison County are crucial to our health, recreation and tourism here.

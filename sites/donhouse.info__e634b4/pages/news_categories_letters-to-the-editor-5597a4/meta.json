@@ -1,9 +1,10 @@
 {
  "description": "Letters to the editor published in local papers",
  "final_url": "https://www.donhouse.info/news/categories/letters-to-the-editor",
- "fingerprint": "05ea6beff9761919bc01673d0a71aec95591621c",
+ "fingerprint": "390df6c40a5b76735cc6f2567ab22f84ecbec113",
  "format": 3,
  "paid_for_by": "Paid for by Citizens for Don House, Don House, Fiscal agent © # by Don House",
+ "rendered": false,
  "title": "Letters to the Editor",
  "years_mentioned": []
 }

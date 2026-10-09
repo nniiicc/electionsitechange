@@ -5,7 +5,7 @@ The new legislative session will begin in January.
 The session will be held in the Main Floor meeting area of the Rockingham Free Public Library in Bellows Falls, Vermont.
 “This will be an opportunity for residents of the Windham-3 district to share their priorities and let us know if they have any requests for legislation for the next session.
 All are welcome to come ask questions and raise concerns or they can come listen to what others share” Representative Bos-Lun said.
-Questions?
+Read more about this event in the Brattleboro Reformer Questions?
 Contact Representative Bos-Lun .
 View Event → Nov 3 Vermont General Election Tuesday, November 3, 2026 8:00 AM 7:00 PM Google Calendar ICS The general election is on November 3, 2026.
 The hours listed here may not apply in your town.

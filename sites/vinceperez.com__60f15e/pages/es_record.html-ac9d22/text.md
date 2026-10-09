@@ -1,4 +1,4 @@
-English VINCE PEREZ Distrito 77 de Texas · El Paso ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Historial Construido en El Paso.
+English ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Historial Construido en El Paso.
 Defendido en Texas.
 Esto es lo que de verdad hemos logrado para El Paso, en la Legislatura y en el Condado.
 Educación superior y fuerza laboral Ya es ley un nuevo centro estudiantil (Student Union) para UTEP HB 2853 · Firmada en 2025 Un nuevo centro estudiantil para una de las universidades de investigación más grandes del país que atienden a estudiantes hispanos.
@@ -17,7 +17,7 @@ Reformas estatales a la defensa de personas de bajos recursos Las investigacione
 Fondo de Impacto Económico del Condado (2018) Diversificó los incentivos al desarrollo para atraer grandes inversiones a la región Borderplex.
 Frenó una instalación de desechos médicos peligrosos (2019) Expuso inexactitudes en la solicitud de la compañía ante la TCEQ, lo que protegió la salud y la seguridad de la comunidad.
 Reconocimientos Líder Nacional de Condado del Año Revista American City & County · 2016 El primer comisionado de condado de Texas en la historia en recibir este reconocimiento.
-VINCE PEREZ Luchando por Texas.
+Luchando por Texas.
 Cumpliendo por El Paso.
 Representante estatal · Distrito 77 de la Cámara de Representantes de Texas · El Paso.
 Ways & Means.

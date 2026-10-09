@@ -43,7 +43,8 @@ They create an effective housing ladder, working for the family climbing onto th
 This is what restoring faith in the American Dream looks like: a specific plan to clear the path for VA-10 families, at every stage of life, to have the opportunity and the freedom to build the future they're working toward.
 Sources: Loudoun County median household income and income distribution, U.S.
 Census Bureau/USAFacts (2024); Fauquier and Prince William County high-income household share, DataUSA and Loudoun County Regional Income Data (ACS); Loudoun, Fauquier, and Prince William median home values, Redfin and Data USA (2024); national mortgage rate lock-in data, Redfin (2024-2026); portable mortgage federal policy status, Bipartisan Policy Center and Empower (2026); 2025 federal tax brackets, Tax Foundation and Fidelity.
-LEARN MORE ABOUT DAVE'S PLATFORM DONATE Hailey Osborne Brand identities and websites for design and construction professionals who want to look as good online as their work does in real life. https://haileyosbornedesigns.com Next Next Why am I running for Congress in VA-10?
+LEARN MORE ABOUT DAVE'S PLATFORM DONATE Hailey Osborne Brand identities and websites for design and construction professionals who want to look as good online as their work does in real life. https://haileyosbornedesigns.com Previous Previous Virginia’s energy crisis: Data centers, dominion, or Policy decisions - who’s to blame?
+Next Next Why am I running for Congress in VA-10?
 Stay Connected Join the newsletter to stay up-to-date with Dave’s Campaign.
 DONATE Please make checks payable and mail to: Dave Beckwith for Congress P.O.
 Box 650326 Sterling VA 20165 vote@beckwithforcongress.com PRIVACY POLICY TERMS AND CONDITIONS Dave Beckwith is a former member of the Air Force and Department of Defense.

@@ -1,4 +1,10 @@
-Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page HIGH TAX HINOJOSA WANTS TO RAISE TAXES ON TEXAS SMALL BUSINESSES Oct 1, 2026 AUSTIN — Don’t let her Whataburger prop cup distract you, Gina Hinojosa wants to raise your taxes.
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page DO YOU TAKE ADVICE FROM RADICAL NATIONAL DEMOCRATS?
+GINA DOES.
+Oct 3, 2026 AUSTIN – Gina Hinojosa’s long list of far-left progressive mentors includes Gavin Newsom, Kamala Harris, JB Pritzker, Stacey Abrams, Beto O’Rourke, and James Talarico.
+Hinojosa wants to turn Texas into a radical socialist playground that her Democrat idols would be...
+GINA HINOJOSA DOES NOT SUPPORT TEXAS LAW ENFORCEMENT Oct 2, 2026 AUSTIN — Gina Hinojosa has tried to dodge her record against law enforcement as a “mere distraction,” but it won’t work.
+As we enter Texas Law Enforcement Appreciation Month, the more than 100,000 Texans who put their lives on the line every day to ensure law and...
+HIGH TAX HINOJOSA WANTS TO RAISE TAXES ON TEXAS SMALL BUSINESSES Oct 1, 2026 AUSTIN — Don’t let her Whataburger prop cup distract you, Gina Hinojosa wants to raise your taxes.
 She said a state income tax "makes sense," has a history of raising property taxes, and she even wants to raise taxes on Texas businesses.
 Hinojosa’s goal is “reining...
 GENDER BENDER GINA: TRANS-ING YOUR KIDS FOR THE “SOCIALIST GOOD” Sep 30, 2026 AUSTIN – As the most progressive liberal in the Texas Legislature, Gina Hinojosa repeatedly put the socialist left’s radical gender agenda ahead of the health and wellbeing of impressionable young children.
@@ -17,10 +23,5 @@ IT JUST ‘MAKES SENSE.’ Sep 26, 2026 AUSTIN — New billboards across Texas a
 For Hinojosa, more taxes are the fix.
 During her time in the Texas Legislature, she voted in favor of higher...
 HYPOCRITE HINOJOSA VOTED TO TAX YOU EVEN AFTER YOU DIE Sep 25, 2026 AUSTIN – Gina Hinojosa pretends to be in favor of making Texas more affordable, but her voting record shows that she wants to tax you at every opportunity — even after you die.
-“Socialist Democrats like Gina Hinojosa want to hike your property taxes, make you...
-GINA: VIOLENT CRIMINAL ILLEGALS BEFORE TEXAS FAMILIES Sep 24, 2026 AUSTIN – Gina Hinojosa had the chance to stand with Texas families by supporting Jocelyn’s Law, a bill that would deny bail to illegal immigrants charged with a violent crime.
-But instead, she chose to let criminal illegals roam free and ravage Texas families.
-What’s...
-Governor Abbott Hosts Rural Affordability Roundtable in Texarkana Sep 24, 2026 TEXARKANA - Governor Greg Abbott today traveled to Texarkana to meet with rural Texans to discuss the Abbott Affordability Agenda and how his plan will lower costs for families and businesses.
-The discussion took place at Miller Bowie Supply, a local business serving... « Older Entries Next Entries » Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+“Socialist Democrats like Gina Hinojosa want to hike your property taxes, make you... « Older Entries Next Entries » Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
 All rights reserved.

@@ -1,5 +1,6 @@
 Follow Follow Make A Donation Home Sign the Petition!
-Meet Eva Issues Get Involved Contact Eva Romero for State Representative About Eva Romero Eva Romero is focused on protecting families, strengthening neighborhoods, and building a safer, smarter future for our community.
+Meet Eva Issues Get Involved Contact Eva Romero for State Representative EARLY VOTING: October 14th – 29th.
+GENERAL ELECTION: November 3rd About Eva Romero Eva Romero is focused on protecting families, strengthening neighborhoods, and building a safer, smarter future for our community.
 Her priorities include freeze property tax for seniors over 65, placing a cap on future property tax increases , and ensuring residents can stay in the homes they’ve worked hard to build.
 Eva is also committed to investing in what matters most; creating a new technical and vocational high school in Old Hickory, improving roads and infrastructure across the district, and supporting License Plate Reader systems on state roads through Nashville to help law enforcement cut crime and keep communities safer.
 With a focus on common-sense solutions and responsible leadership, Eva Romero is ready to fight for the people of this community every day.

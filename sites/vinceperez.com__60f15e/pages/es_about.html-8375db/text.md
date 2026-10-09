@@ -1,6 +1,6 @@
-English VINCE PEREZ Distrito 77 de Texas · El Paso ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Conozca a Vince Criado en El Paso.
+English ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Conozca a Vince Criado en El Paso.
 Luchador por Texas.
-Representante estatal · Distrito 77 de la Cámara de Texas · Ways & Means · Deputy Whip.
+Representante estatal · Distrito 77 de la Cámara de Texas · Ways & Means · Educación Superior.
 Distrito 77 de Texas : El Paso, incluidos UTEP, Texas Tech HSC El Paso, el centro de El Paso y las montañas Franklin.
 Comités: Medios y Arbitrios (Ways & Means) · Educación Superior · Calendarios Locales, de Consentimiento y de Resoluciones.
 Liderazgo: Deputy Whip (subcoordinador) del Caucus Demócrata de la Cámara · Comité Demócrata de Política y Dirección de la Cámara (Policy & Steering Committee).
@@ -20,12 +20,12 @@ En 2016, la revista American City & County lo nombró Líder Nacional de Condado
 Vince también ha ejercido liderazgo a nivel regional como presidente de la Junta de Política de Transporte (Transportation Policy Board) de la MPO de El Paso, presidente de la Junta Directiva del Distrito Central de Tasación (Central Appraisal District) y miembro del Comité Asesor de Comercio Fronterizo de Texas (Texas Border Trade Advisory Committee).
 En lo personal Paseño de toda la vida, Vince creció en Mission Valley y todavía vive allí.
 Obtuvo su licenciatura y su posgrado en la Universidad de Georgetown.
-Comparte su hogar con sus perros Whiskey, Lady y Manchas.
+Comparte su hogar con sus perros Whiskey, Manchas y Chamaco.
 Vea su historial Lea la agenda Únase a la lucha.
 Agregue su nombre a la lista.
 Haga una contribución.
 Póngase del lado de El Paso.
-Contribuya Inscríbase VINCE PEREZ Luchando por Texas.
+Contribuya Inscríbase Luchando por Texas.
 Cumpliendo por El Paso.
 Representante estatal · Distrito 77 de la Cámara de Representantes de Texas · El Paso.
 Ways & Means.

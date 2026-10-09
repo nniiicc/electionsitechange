@@ -1,4 +1,4 @@
-Home Democratic Nomination Donate Ben Bosley for Vermont House Events Upcoming public campaign events Community conversations Upcoming Events I’ll be participating in three upcoming community events and would love to see you there!
+Home Donate Ben Bosley for Vermont House Events Upcoming public campaign events Community conversations Upcoming Events I’ll be participating in three upcoming community events and would love to see you there!
 01 Tuesday, September 8 · 6:10 PM Chittenden-15 Candidate Forum Watch or share the Chittenden-15 candidate forum live on Town Meeting TV.
 Watch on YouTube ↗ Location Town Meeting TV Online livestream 02 Thursday, September 10 · 6:30–8:00 PM Ward 2 NPA I’ll speak at 7:05 PM about my campaign and platform, followed by questions.
 You can also join remotely via Zoom.

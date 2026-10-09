@@ -1,9 +1,10 @@
 {
  "description": "Photos, press contacts, and media information for the Aric Putnam campaign.",
  "final_url": "https://aricformn.com/media/",
- "fingerprint": "11d4ebf5e2840d3b083c86417b7e370e151e7806",
+ "fingerprint": "5affef7f1856b22e7526669a9a31ed3cceeaa4f4",
  "format": 3,
  "paid_for_by": "Paid for by Aric for MN Powered by Tech for Campaigns",
+ "rendered": false,
  "title": "Media - Aric for MN",
  "years_mentioned": [
   "2003"

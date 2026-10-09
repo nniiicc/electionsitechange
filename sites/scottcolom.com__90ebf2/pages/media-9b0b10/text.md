@@ -1,7 +1,12 @@
-Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Media B-Roll Fact Sheet Mississippi voters in the Jackson and Columbus media markets, along with white women reachable via CTV and social media platforms, need to know that Cindy Hyde-Smith is letting Mississippi voters down: She won’t protect our kids: Cindy Hyde-Smith voted to block the release of files on child sex trafficker Jeffrey Epstein.
-She’s making Washington corruption even worse: She voted to let politicians get rich off of insider trading, while Mississippians’ costs are going up.
-She’s delivering for out-of-state billionaires, but not Mississippi: She hasn’t held a town hall in six years.
-She voted to cut Medicaid, which covers one in four Mississippians, to pay for tax cuts for people making over $600,000 a year.
+Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Info The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Info Facebook X-twitter Instagram Tiktok Donate Media B-Roll Fact Sheet Across the state, Mississippi voters, particularly white women and Black voters, need to know the difference between Cindy Hyde-Smith and Scott Colom on broadcast, streaming, and other platforms.
+Cindy Hyde-Smith doesn’t get it.
+She’s put special interests first, and lets down Mississippi families struggling to afford groceries, gas, and health care.
+Meanwhile Scott Colom is a District Attorney, husband and father, devoted member of his church.
+He will fight the corruption in Washington from both parties that’s driving up our costs.
+He will fight for what matters most to Mississippians: higher wages, lower costs, and protecting our hospitals and healthcare.
+Examples of Cindy Hyde-Smith letting Mississippi down, putting special interests ahead of you: Instead of doing anything about our rising food prices, she said there were “other proteins” beside beef people could eat instead, a real “let them eat beef” moment.
+She’s voted to cut Medicaid, which covers one in four Mississippians and puts eight rural hospitals at risk of closing.
+She voted to block the release of the Epstein files, protecting a child sex trafficker who abused girls as young as 14.
 Let's Go!
 Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
 Txt HELP for help, STOP to end.

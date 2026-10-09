@@ -14,4 +14,4 @@ Perea currently serves on the Fresno City Council, where she was unanimously ele
 In that role, she secured millions in public safety funding and expanded affordable housing.
 A certified city planner and former community college trustee, she brings deep local knowledge and practical leadership experience to the campaign.
 A lifelong Central Valley resident, Perea’s campaign continues to draw support from working families, community leaders, and everyday voters ready for a fresh, effective voice in the Assembly.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

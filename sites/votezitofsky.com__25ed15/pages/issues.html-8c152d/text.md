@@ -1,4 +1,4 @@
-DAN ZITOFSKY Meet Dan Service Family Priorities Full Plan Vote Volunteer Donate The Plan for District 4 District 4 Deserves More Than Promises.
+DAN ZITOFSKY Endorsements Meet Dan Service Family Priorities Full Plan Vote Volunteer Donate The Plan for District 4 District 4 Deserves More Than Promises.
 It Deserves a Plan.
 Practical leadership.
 Safer communities.
@@ -119,5 +119,5 @@ Accountable Government.
 This campaign is powered by neighbors helping neighbors.
 Get involved, or reach out with your questions about where Dan stands.
 Get Involved → Make Your Voting Plan DAN ZITOFSKY Common-sense, conservative leadership for the hardworking families of Delaware's 4th District.
-Explore Meet Dan His Service Family & Community Priorities Full Plan for District 4 Vote Early Connect Facebook 302.480.1207 Dan@VoteZitofsky.com Paid for by Friends for Dan Zitofsky © Dan Zitofsky for State Representative.
+Explore Endorsements Meet Dan His Service Family & Community Priorities Full Plan for District 4 Vote Early Connect Facebook 302.480.1207 Dan@VoteZitofsky.com Paid for by Friends for Dan Zitofsky © Dan Zitofsky for State Representative.
 All rights reserved.

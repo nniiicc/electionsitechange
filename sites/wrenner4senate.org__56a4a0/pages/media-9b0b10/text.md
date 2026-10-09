@@ -1,8 +1,9 @@
 top of page Irene Wrenner VT SENATOR, 2023-2024 SENATE CANDIDATE, 2026 Donate Here!
 HOME ABOUT MEDIA ACHIEVEMENTS DONATE CONTACT More Use tab to navigate through the menu items.
 Video / Audio / Print 2024 candidate forum on CCTV, Oct.
-2024 2024 candidate forum on LCATV, Oct.
 2024 2026 candidate forum on CCTV, Sept.
+2026 2024 candidate forum on LCATV, Oct.
+2024 2026 candidate forum on LCATV, Oct.
 2026 Interview with Kevin Ellis on WDEV, October 3, 2024 Interview with Alison Despathy on WDEV, August 18, 2026 Click to hear Wrenner's 2022 summer interview.
 Click to hear August 2022 opponent on WVMT.
 Click to hear Wrenner's 2022 fall interview.

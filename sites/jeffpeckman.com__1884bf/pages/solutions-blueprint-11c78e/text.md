@@ -16,7 +16,7 @@ Requiring state budgeting to prioritize policies and programs that actually solv
 See " SPECIFICS" toward the end.
 You may also scroll down to read the same information.
 No AI was involved in generating the text of this content, except for some calculations.
-JEFF PECKMAN SOLUTIONS - Download Solutions Blueprint Jeff Peckman 10.7.26 (pdf) Download SOLUTIONS BLUEPRINT Table of Contents AFFORDABILITY and GOVERNMENT BUDGETS * Transition to a Solution-Based Economy * Create a Rising Tide of Innovation * Circulate More Income within Colorado * * Shift PERA to More Colorado Solutions * Develop New Economic Engines in Graphene and Coherence Technologies * Require results-based budgets ECONOMY and JOBS * Launch a Coherent Economy * Chief Coherence Officer * Partnership for Applied Coherence Technologies * Lead the $11 Trillion Graphene Economy * Workers’ Rights and Unions HEALTH CARE and WELLNESS * Prioritize Health over Health Care * Increase Natural and Traditional Health Care * Deploy Society-Wide Health Interventions * Adopt More Holistic Wellness * Treat Substance Abuse as a Disease PUBLIC SAFETY, CRIME, and TERRORISM * Reduce Root Causes of Crime and Terrorism * Improve Health, Safety and Coherence of Law Enforcement * Upgrade Public Safety Equipment * Enact Stronger Domestic Terrorism Laws * Reduce Drug Use Penalties – Increase Treatment EDUCATION and TRUTH * Reduce stress and increase coherence * Reduce Classroom Pollution * Use Coherence and Graphene Curricula * Create new funding sources * Support S.T.R.E.A.M. – Science, Technology, Recreation, Engineering, Arts, Math * Truth Alone Triumphs AGRICULTURE and RURAL DEVELOPMENT * Harvest graphene and hydrogen from methane and Bio-feedstock *Agricultural hemp * Grow better healthcare * New and expanded economic opportunities * Oregon’s Measure 27 to Label Genetically Engineered Food TECHNOLOGY and INNOVATION * End suppression of breakthrough technologies * P.R.O.F.E.T. of Colorado - Patent Registration Office for Extraordinary Technology * Review innovation incubators for priorities AIR QUALITY AND CLIMATE CHANGE * End political hypocrisy * Coherent Fuel Plasma for Vehicles, Industry and Agriculture * Graphene and CO2 Capture * Colorado Air Pollution Reduction Fast Track 5.0 * Coherent Electrical Current Technology ENERGY * Support Safe and Clean Energy without Taxpayer Funding * Apply Coherence Technology to Power Grids * Integrate Graphene into the Energy Sector * Support Breakthrough Energy Innovations * Ban Nuclear Fission HOUSING and HOMELESSNESS * Launch alternatives to real estate profiteering * Harvest Graphene and other building materials * Reduce oppressive conditions for the homeless * Prohibit wasteful destruction of building materials * A Surplus Solution for the Homeless AI and DATA Centers * Moratorium on new AI data centers * Graphene Supercapacitor in Data Centers * Acknowledge warnings by AI leaders * Responsible regulation of AI data centers * No Burden to Communities and Ratepayers AEROSPACE and EXTRATERRESTRIAL DISCLOSURE * Get Coherence and Graphene Tech into Aerospace * Brief Citizens on Extraterrestrial Disclosure * End Suppression of Extraterrestrial Technologies * Establish a State-Level Extraterrestrial Affairs Commission * Disclosure Governor WATER and other NATURAL RESOURCES * Water Quality and Quantity * Graphene from Natural Resources * Water Revitalization * Coherent Water * Cooling Electrical Current with Coherence * Ancient Rain-Making Music ROADS, BRIDGES, TRANSPORTATION and INFRASTRUCTURE *“Restore Our Roads” - a highway to riches * Convert Pollution to Infrastructure Solutions *$11 Trillion Economic Engines SPECIFICS – More details AIR QUALITY and CLIMATE CHANGE Achieve Colorado’s vehicle emissions goals within 2 years, … …without taxpayer-funded financial incentives and more EVs, and regardless of actions by the EPA or other entities within the Federal government TECHNOLOGY AND INNOVATION Affirming the Constitutional feasibility of creating a state-level Colorado Patent Registration Office for Extraordinary Technology a.k.a.
+JEFF PECKMAN SOLUTIONS - Download Solutions Blueprint Jeff Peckman 10.8.26 (pdf) Download SOLUTIONS BLUEPRINT Table of Contents AFFORDABILITY and GOVERNMENT BUDGETS * Transition to a Solution-Based Economy * Create a Rising Tide of Innovation * Circulate More Income within Colorado * * Shift PERA to More Colorado Solutions * Develop New Economic Engines in Graphene and Coherence Technologies * Require results-based budgets ECONOMY and JOBS * Launch a Coherent Economy * Chief Coherence Officer * Partnership for Applied Coherence Technologies * Lead the $11 Trillion Graphene Economy * Workers’ Rights and Unions HEALTH CARE and WELLNESS * Prioritize Health over Health Care * Increase Natural and Traditional Health Care * Deploy Society-Wide Health Interventions * Adopt More Holistic Wellness * Treat Substance Abuse as a Disease PUBLIC SAFETY, CRIME, and TERRORISM * Reduce Root Causes of Crime and Terrorism * Improve Health, Safety and Coherence of Law Enforcement * Upgrade Public Safety Equipment * Enact Stronger Domestic Terrorism Laws * Reduce Drug Use Penalties – Increase Treatment EDUCATION and TRUTH * Reduce stress and increase coherence * Reduce Classroom Pollution * Use Coherence and Graphene Curricula * Create new funding sources * Support S.T.R.E.A.M. – Science, Technology, Recreation, Engineering, Arts, Math * Truth Alone Triumphs AGRICULTURE and RURAL DEVELOPMENT * Harvest graphene and hydrogen from methane and Bio-feedstock *Agricultural hemp * Grow better healthcare * New and expanded economic opportunities * Oregon’s Measure 27 to Label Genetically Engineered Food TECHNOLOGY and INNOVATION * End suppression of breakthrough technologies * P.R.O.F.E.T. of Colorado - Patent Registration Office for Extraordinary Technology * Review innovation incubators for priorities AIR QUALITY AND CLIMATE CHANGE * End political hypocrisy * Coherent Fuel Plasma for Vehicles, Industry and Agriculture * Graphene and CO2 Capture * Colorado Air Pollution Reduction Fast Track 5.0 * Coherent Electrical Current Technology ENERGY * Support Safe and Clean Energy without Taxpayer Funding * Apply Coherence Technology to Power Grids * Integrate Graphene into the Energy Sector * Support Breakthrough Energy Innovations * Ban Nuclear Fission HOUSING and HOMELESSNESS * Launch alternatives to real estate profiteering * Harvest Graphene and other building materials * Reduce oppressive conditions for the homeless * Prohibit wasteful destruction of building materials * A Surplus Solution for the Homeless AI and DATA Centers * Moratorium on new AI data centers * Graphene Supercapacitor in Data Centers * Acknowledge warnings by AI leaders * Responsible regulation of AI data centers * No Burden to Communities and Ratepayers AEROSPACE and EXTRATERRESTRIAL DISCLOSURE * Get Coherence and Graphene Tech into Aerospace * Brief Citizens on Extraterrestrial Disclosure * End Suppression of Extraterrestrial Technologies * Establish a State-Level Extraterrestrial Affairs Commission * Disclosure Governor WATER and other NATURAL RESOURCES * Water Quality and Quantity * Graphene from Natural Resources * Water Revitalization * Coherent Water * Cooling Electrical Current with Coherence * Ancient Rain-Making Music ROADS, BRIDGES, TRANSPORTATION and INFRASTRUCTURE *“Restore Our Roads” - a highway to riches * Convert Pollution to Infrastructure Solutions *$11 Trillion Economic Engines SPECIFICS – More details AIR QUALITY and CLIMATE CHANGE Achieve Colorado’s vehicle emissions goals within 2 years, … …without taxpayer-funded financial incentives and more EVs, and regardless of actions by the EPA or other entities within the Federal government TECHNOLOGY AND INNOVATION Affirming the Constitutional feasibility of creating a state-level Colorado Patent Registration Office for Extraordinary Technology a.k.a.
 Colorado P.R.O.F.E.T.
 Center DISCLOSURE: UFO/UAP/EXTRATERRESTRIAL Overcoming the misperception that Disclosure of UFOs/UAPs and extraterrestrial visitors to Earth is an interest of only fringe candidates and voters.
 AFFORDABILITY and GOVERNMENT BUDGETS Key Solutions An Honest Reality Check Transition to a Solution-Based Economy Create a Rising Tide of Innovation Circulate More Income within Colorado Develop New Economic Engines in Graphene and Coherence Technologies Lead the World in Sustainable Solutions Require Results-Based Budgets An Honest Reality Check Affordability is a big buzz word these days, and for good reason.
@@ -54,10 +54,10 @@ I also support reducing red tape and timelines for permitting and inspections, w
 Circulate More Income within Colorado Too much of Colorado income is leaving the state to import items not needed to achieve our commonly shared goals.
 For example, everyone would like to have cleaner air.
 Billions of dollars have left Colorado to buy electric vehicles because of the claim that it’s the only way to prevent catastrophic climate change and the “end of the world”.
-However, new technology based in Colorado could achieve near zero emissions for internal combustion engines at a tiny fraction of the cost of EVs.
+However, a patented new technology based in Colorado could achieve near zero emissions for internal combustion engines at a tiny fraction of the cost of EVs.
 Moreover, the money would keep circulating in Colorado.
 Not only that, but this technology could be exported to bring even far more money into Colorado.
-Develop New Economic Engines in Graphene and Coherence Technologies The previous examples is just some of many possible new economic engines that can not only solve problems in Colorado but could be exported to other states and countries to help solve their problems affordably and more quickly.
+Develop New Economic Engines in Graphene and Coherence Technologies The previous examples are just some of many possible new economic engines that can not only solve problems in Colorado but could be exported to other states and countries to help solve their problems affordably and more quickly.
 Graphene and coherence technologies are “master keys” for these new solution-based economic engines.
 It’s opposite the approach of the Democrats and Republicans.
 Their approach allows problems to emerge and get bigger.
@@ -72,27 +72,32 @@ You have solutions too.
 I look forward to learning about them and implementing whatever works.
 Shift PERA to More Colorado Solutions PERA, the Public Employees’ Retirement Association, is Colorado’s largest public pension system.
 It provides benefits for former state and local government employees which make up more than 10% of Colorado’s population.
-PERA investments depend on the highest profitability of industries and specific companies that offer products and services which have become increasingly less affordable.
+PERA investments seek the highest profitability of industries and specific companies that offer products and services which have become increasingly less affordable.
 That includes sectors such as health care, housing, food, energy, and transportation.
 As governor, I would direct PERA to shift investments to Colorado companies that are saving Coloradans money instead of seeking maximum profit from Coloradans.
-PERA has over $300 million invested in Tesla alone.
+PERA has $300 million in Tesla stock alone.
 That benefits such people as Elon Musk, who recklessly defunded federal programs, resulting in deaths of children around the world, while also wreaking havoc in Colorado.
 Require Results-Based Budgets Budget deficits in all areas of government are common and increasing.
 Government has gradually deteriorated into a kind of Rube Goldberg machine.
 It expends maximum resources in overly complex systems to produce minimum results.
 That’s why self-governance has also become less affordable.
 In 1999, I drafted a proposed Colorado statute as a statewide ballot initiative.
-It was a completely sensible approach to state budgeting.
-The essence of the initiative was that government should be based on the prevention of problems with the most effective and cost-effective programs available.
-It stated that highly effective and cost-effective programs continue to be under-funded, ignored, and even obstructed by elected and appointed officials, at every level of government for purely political reasons.
-Taxpayer money is wasted on ineffective and costly programs, and the citizens of Colorado continue to suffer or be deprived of a better quality of life because lawmakers are often under the influence of special interests who benefit financially from the continuation of problems in all areas of life for individuals, society and the environment.
-The proposed statute required that “in any state budget request, including emergency spending measures, priority in appropriations shall be given to the most efficacious and cost-effective programs, …that may best achieve the goal of the requesting department, agency or institution.” I was unable to get enough traction to put the measure on the ballot.
-State lawmakers could have run with the idea, even without the “peer-reviewed scientific studies” part.
+It aimed to require the state budget to give priority to the most effective and cost-effective solutions available.
+It stated that highly effective and cost-effective programs are even obstructed by elected and appointed officials, for purely political reasons.
+Taxpayer money is wasted on ineffective and costly programs, and the citizens of Colorado continue to suffer or be deprived of a better quality of life.
+That’s because lawmakers are under the influence of special interests who benefit financially from the continuation of problems in all areas of life for individuals, society and the environment.
+State lawmakers could have run with the idea.
 Instead, they ignored it.
-It would have greatly helped Coloradoans from the increase in fiscal responsibility that would have resulted.
-That was over 25 years before Elon Musk bought his way into assaulting the Federal government with his reckless and self-serving Department of Government Efficiency (DOGE), and caused widespread damage still being discovered.
-As your governor, I would work with legislators to give priority to programs and policies that actually work and are so cost-effective that they save taxpayer money.
-This approach, combined with the new economic engines I propose, will also ensure more livable wages for workers, and lift the dark cloud of budget deficits from the state capitol.
+It would have greatly helped Coloradoans by increasing common sense fiscal responsibility.
+That was over 25 years before Elon Musk bribed his way into assaulting the Federal government so he could fire people that were investigating his violations of laws meant to protect the People.
+His widespread damage is still being discovered.
+Even recently, Colorado state government provided about $100,000 to the private Mount Vernon Canyon Club to cut trees.
+It also approved $4.2 million in financial incentives to Beehive Industries, which has nothing to do with beehives, honey, or bees.
+The only “Bs” would be “Building Bombs to Blow up Babies” in Gaza, Iran, and maybe Greenland, if the White House has its way.
+Beehive Industries makes rockets to power missiles!
+As your governor, I would work with legislators to give priority to programs and economic development that actually works and saves lives so cost-effectively that they save taxpayers money.
+This approach, combined with the new economic engines I propose, will also ensure more livable wages for workers.
+It will lift the dark cloud of budget deficits from the state capitol.
 ECONOMY and JOBS Key Solutions Launch a Coherent Economy Chief Coherence Officer Partnership for Applied Coherence Technologies Lead the $11 Trillion Graphene Economy Workers’ Rights and Unions Launch a Coherent Economy As jobs get lost to AI, robots, tariffs and other destructive government policies, major new economic engines are crucial.
 A strong economy and good paying jobs are obviously important for Coloradoans to live a healthy, safe and fulfilling life.
 You’ll hear a lot about ideas for creating more and higher-paying jobs, and the economy.
@@ -295,23 +300,22 @@ Among these strategies, I will apply the principles described in the Safety thro
 Reduce Drug Use Penalties – Increase Treatment The “War on Drugs” was lost decades ago in the U.S. because substance abuse is a disease, not a horrible crime.
 Portugal has had spectacular success in reducing substance use by making penalties small and treatment big.
 Enforcing compliance with treatment sentencing is the key.
+Big pharma companies that create addiction need to be punished more.
+None of the Sackler family of Purdue Pharma went to jail.
+They just went from being billionaires to being billionaires.
+And since their big settlement is spread over many years, they can make that money back just by wisely investing the billions they have.
+So, in the end, they will not have been punished at all.
 Improve Health, Safety and Coherence of Law Enforcement Personnel Reducing stress and increasing coherence for law enforcement personnel will improve their health and safety.
 Cost-savings from that will help fund upgrades to law enforcement equipment, systems, training, pay and other benefits.
-Upgrade Public Safety Equipment Even the newest public safety equipment in the market may not satisfy Colorado’s needs.
-My administration will explore ways for Colorado to create better and more affordable equipment.
-Several areas of high priority equipment will benefit from the Partnership for Applied Coherence Technology.
+However, corrupt “Brady cops” need to be investigated by the Colorado Attorney General and prosecuted, especially when they frame innocent people.
+Such corruption in Loveland, Colorado has impacted up to 200 cases.
+Such “bad apples” weaken trust in law enforcement and must be removed and punished.
+Upgrade Public Safety Equipment My administration will explore ways for Colorado to create better and more affordable equipment.
 Coherent fuel plasma’s by-product, graphene, and coherent current technologies, offer unique and extraordinary benefits.
 These technologies are described at greater length in the section on AIR QUALITY and CLIMATE CHANGE .
 Potential Colorado Innovations for Public Safety: Law enforcement protective clothing: two “one-atom-thick” layers of graphene can reportedly stop a bullet.
-Firefighter protective clothing: Graphene has exceptionally high heat resistance and melting temperature.
-Firefighting drones: Remote- and AI-guided firefighting drones could include graphene and coherent current technology.
-They could potentially be powered, in part, by heat from the fires.
-They could also potentially capture carbon dioxide from smoke and use it to extinguish fires.
-Graphene used in the drones can be made from feedstock resulting from forest management and burn areas.
-This novel process was developed by a former forest fire fighter who founded ResolutX .
-Enact Stronger Domestic Terrorism Laws Colorado Revised Statutes on “terrorism” don’t have much weight.
-They rely on Federal laws.
-They not very enforceable against terrorism threats of today.
+Firefighter protective clothing: Graphene has exceptionally high heat resistance Enact Stronger Domestic Terrorism Laws Colorado Revised Statutes on “terrorism” rely on Federal laws.
+They’re not very enforceable against terrorism threats of today.
 The word terrorism is thrown around casually these days, mostly by the White House.
 However, who really is a domestic terrorist?
 The official definition of domestic terrorism in the USA PATRIOT Act of 2001 makes it very clear.
@@ -1040,8 +1044,8 @@ Rimere , a Colorado company, has mastered one coherence technology to create the
 Graphene improves safety, performance, durability, and lifespan of concrete, asphalt and steel.
 Graphene-enhanced materials can reduce damage and corrosion of roads and bridges from weather, heavy loads, accidents, and acid rain, in ways not previously possible.
 The Graphene Solution in Texas is ready to supply graphene-enhanced concrete to Colorado highways.
-Convert Pollution to Infrastructure Solutions Methane can come from natural gas, landfills, waste treatment plants, livestock manure, and mines.
-Resolutx.com can convert biomass into graphene, biochar and renewable fuels.
+Convert Pollution to Infrastructure Solutions Methane can come from natural gas, flaring and venting, orphaned and marginal wells, landfills, waste treatment plants, livestock manure, and mines.
+Resolutx.com can convert biomass into graphene and renewable fuels.
 Sources of biomass include proper forest management, brush cleared from fire corridors, pinecones and needles, crop waste, tumbleweeds, kudzu, and solid waste from animals and waste treatments plants.
 Coal, petroleum coke, used tires and plastic can also be converted to graphene.
 Turning wildfire fuel, and waste and pollution, into high value carbon products is a no-brainer for increasing prosperity and improving quality of life across Colorado.

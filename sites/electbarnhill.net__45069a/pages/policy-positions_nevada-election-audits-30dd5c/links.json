@@ -28,10 +28,6 @@
 "href": "https://electbarnhill.net/category/announcements/"
 },
 {
-"text": "Blog",
-"href": "https://electbarnhill.net/blog-with-left-sidebar/"
-},
-{
 "text": "Commentary",
 "href": "http://electbarnhill.net/commentary/feed"
 },
@@ -80,6 +76,10 @@
 "href": "https://electbarnhill.net/get-involved/"
 },
 {
+"text": "News",
+"href": "https://electbarnhill.net/news/"
+},
+{
 "text": "Next Next post: What Nevada Secretary of State Candidates Owe Voters",
 "href": "https://electbarnhill.net/commentary/what-nevada-secretary-of-state-candidates-owe-voters/"
 },
@@ -102,6 +102,10 @@
 {
 "text": "Previous Previous post: Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer",
 "href": "https://electbarnhill.net/announcements/equal-access-courthouse-pro-se-electronic-filing/"
+},
+{
+"text": "Public Trust Starts With Elections Done Right - Nevadans for Barnhill",
+"href": "https://electbarnhill.net/policy-positions/public-trust-nevada-elections/"
 },
 {
 "text": "See all policy positions",

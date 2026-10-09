@@ -9,7 +9,7 @@ I grew up on a family farm, where I learned from a very young age the values we 
 I served in the United States Army as a tank commander and armor officer.
 The Army taught me the discipline of teamwork, leadership, and determination.
 These are the qualities I bring to public service.
-IN THE NEWS NEWS ARTICLES October 7, 2026 Prop One and U.S.
+My Commitment to Term Limits - Prospective Irrevocable Letter of Resignation My Commitment to Idaho Voters - Commitment Declaration of Independents - The Declaration IN THE NEWS NEWS ARTICLES October 7, 2026 Prop One and U.S.
 Senate candidate Todd Achilles featured at Rexburg voter forum October 7, 2026 Read more → October 7, 2026 October 5, 2026 There should be age limits for U.S.
 Senators, including Idaho’s | Opinion - Idaho’s Mitch McConnell October 5, 2026 Read more → October 5, 2026 October 5, 2026 ACHILLES: Opportunity for Idaho October 5, 2026 Read more → October 5, 2026 October 5, 2026 The unicorn: It’s a different contest; is it different enough?
 October 5, 2026 Read more → October 5, 2026 October 5, 2026 Idaho US Senate candidates weigh in on tariffs, Iran War, federal spending and more October 5, 2026 Read more → October 5, 2026 September 30, 2026 Fact check: Where Idaho U.S.

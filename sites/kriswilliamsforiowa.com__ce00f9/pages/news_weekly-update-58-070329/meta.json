@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/weekly-update-58",
- "fingerprint": "10f03beb2a5b086dcd88c948f945f7c8ee4d242e",
+ "fingerprint": "df4fa04d2cc37f8884c227d2ee4ff11193924ffa",
  "format": 3,
  "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Weekly Update 5/8",
  "years_mentioned": [
   "2026"

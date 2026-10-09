@@ -2,6 +2,8 @@
 As a husband, father, neighbor, and friend, I’m now running to represent the people of Ipswich, Topsfield, Rowley, Hamilton, Georgetown, and Newbury as your next state representative.
 My pledge is to provide 24/7 service to all the people and do my part to end the divisiveness that now plagues our politics.
 It’s time to stop calling each other names and get to work.
+Miss the debate on October 5th?
+Watch now.
 My first priority is you.
 That’s why I pledge that if you call me or email me, I will get back to you within 24 hours if not sooner — seven days a week.
 It won’t be a staffer.

@@ -1,9 +1,10 @@
 {
  "description": "Arthur Webb Assembly News Campaign Locations",
  "final_url": "https://arthurwebbassembly.com/news",
- "fingerprint": "47bc8bad91bc4bf4553aec3e8e39e9cd76a074eb",
+ "fingerprint": "d2bb64dd6b9b9f897831c6c5f88a0c37f3be2f8d",
  "format": 3,
  "paid_for_by": "Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner",
+ "rendered": false,
  "title": "News",
  "years_mentioned": [
   "2026"

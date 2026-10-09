@@ -8,6 +8,10 @@
 "href": "https://www.dan4mo.com/blog/categories/agriculture"
 },
 {
+"text": "All Posts",
+"href": "https://www.dan4mo.com/blog"
+},
+{
 "text": "Anxiety",
 "href": "https://www.dan4mo.com/blog/categories/anxiety"
 },
@@ -214,9 +218,5 @@
 {
 "text": "[image: YouTube]",
 "href": "https://www.youtube.com/@dan4mo"
-},
-{
-"text": "[no text]",
-"href": "https://www.dan4mo.com/blog"
 }
 ]

@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate 2024 · Leman Consulting Building My Own Path × In October 2024, I was hit in a corporate layoff at Oracle.
+Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate 2024 · Leman Consulting Building My Own Path × In October 2024, I was hit in a corporate layoff at Oracle.
 For the first few months, I did what anyone else would do.
 I rolled up my sleeves and put everything I had into looking for a new role.
 But the job market was incredibly tough, and finding a traditional corporate fit felt nearly impossible.

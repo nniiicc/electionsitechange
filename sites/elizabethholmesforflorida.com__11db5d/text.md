@@ -30,9 +30,7 @@ To show up.
 Send a teacher to Tallahassee who understands what it means to live and work here, and who will fight to represent the needs of everyday people trying to build a life in Florida.
 I am from this community.
 I have lived this alongside you.
-And I am ready to fight for a more affordable, more secure future for all of us. ​ "Never underestimate the power of a public school teacher " Elizabeth Holmes ENDORSEMENTS ENDORSEMENTS SUPPORT THE CAMPAIGN Elizabeth needs your support!
-Your monthly contribution will play a major role in our success!
-Checks can be mailed to: PO BOX 30155, Palm Beach Gardens, FL., 33420 *Contribution limit: a person or entity can contribute a maximum of $1,000 per primary election and $1,000 per general election to a candidate for the Florida State House. $25 $50 $100 $250 DONATE TODAY Follow the Campaign and Subscribe to Newsletter Contact Elizabeth Holmes Campaign directly: 561.565.3194 info@elizabethholmesforflorida.com First name * Last name * Email * Phone * Multi-line address Country/Region * Address * City * Zip / Postal code * Yes, subscribe me to your newsletter.
+And I am ready to fight for a more affordable, more secure future for all of us. ​ "Never underestimate the power of a public school teacher " Elizabeth Holmes ENDORSEMENTS ENDORSEMENTS Follow the Campaign and Subscribe to Newsletter Contact Elizabeth Holmes Campaign directly: 561.565.3194 info@elizabethholmesforflorida.com First name * Last name * Email * Phone * Multi-line address Country/Region * Address * City * Zip / Postal code * Yes, subscribe me to your newsletter.
 By providing your phone number, you consent to receive text messages from the Campaign with news and updates, including asks for donations.
 Message frequency varies.
 Message and data rates may apply.

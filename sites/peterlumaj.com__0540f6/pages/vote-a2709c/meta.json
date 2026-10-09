@@ -1,9 +1,12 @@
 {
  "description": "Find voter registration information, polling locations, and important election dates for Connecticut.",
  "final_url": "https://peterlumaj.com/vote",
- "fingerprint": "18e0172d74bd85166b78697a73c36096ac9a5fd6",
+ "fingerprint": "3400186daf3d82dbdcb1b0f2ba3b7ba9c32d6894",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Lumaj 2026, Michele Gregorio, Treasurer",
+ "rendered": true,
  "title": "Voter Information | Peter Lumaj | Secretary of the State | Peter Lumaj | Secretary of the State",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

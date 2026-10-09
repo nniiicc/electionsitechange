@@ -72,6 +72,10 @@
 "href": "https://www.zebulonforcongress.com/events/america-on-tap"
 },
 {
+"text": "Back",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
 "text": "CANCELED Online Town Hall",
 "href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk-fjtxb-dl8g8-5zk3b"
 },
@@ -132,8 +136,20 @@
 "href": "https://secure.anedot.com/friends-of-zebulon-featherly"
 },
 {
+"text": "Endorsements",
+"href": "https://www.zebulonforcongress.com/endorsements"
+},
+{
 "text": "Events",
 "href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Folder: Campaign",
+"href": "https://www.zebulonforcongress.com/campaign"
+},
+{
+"text": "Folder: Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand-1"
 },
 {
 "text": "Google Calendar",
@@ -209,10 +225,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Online+Town+Hall%2FQ%26amp%3BA&dates=20260205T000000Z%2F20260205T010000Z"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Online+Town+Hall%2FQ%26amp%3BA&dates=20260219T000000Z%2F20260219T010000Z"
 },
 {
@@ -250,6 +262,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Virtual+Town+Hall&dates=20260812T230000Z%2F20260813T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Virtual+Town+Hall+%28Where+I+Stand+Recap%29&dates=20261014T230000Z%2F20261015T000000Z"
 },
 {
 "text": "Google Calendar",
@@ -369,7 +385,7 @@
 },
 {
 "text": "ICS",
-"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake?format=ical"
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall-where-i-stand-recap?format=ical"
 },
 {
 "text": "ICS",
@@ -417,10 +433,6 @@
 },
 {
 "text": "Online Town Hall/Q&A",
-"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake"
-},
-{
-"text": "Online Town Hall/Q&A",
 "href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan"
 },
 {
@@ -446,6 +458,10 @@
 {
 "text": "Online Town Hall/Q&A",
 "href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk-fjtxb-dl8g8"
+},
+{
+"text": "Stances",
+"href": "https://www.zebulonforcongress.com/stances"
 },
 {
 "text": "Statements",
@@ -525,10 +541,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake"
-},
-{
-"text": "View Event →",
 "href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan"
 },
 {
@@ -569,6 +581,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall-where-i-stand-recap"
+},
+{
+"text": "View Event →",
 "href": "https://www.zebulonforcongress.com/events/virtual-town-hall-wnptw"
 },
 {
@@ -594,6 +610,10 @@
 {
 "text": "Virtual Town Hall",
 "href": "https://www.zebulonforcongress.com/events/virtual-town-hall-wnptw-3jlsr-8amxn-ws7m9"
+},
+{
+"text": "Virtual Town Hall (Where I Stand Recap)",
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall-where-i-stand-recap"
 },
 {
 "text": "Where I Stand",
@@ -685,10 +705,6 @@
 },
 {
 "text": "[image: Online Town Hall/Q&amp;A]",
-"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake"
-},
-{
-"text": "[image: Online Town Hall/Q&amp;A]",
 "href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan"
 },
 {
@@ -706,6 +722,10 @@
 {
 "text": "[image: Online Town Hall]",
 "href": "https://www.zebulonforcongress.com/events/0ml2ln83ltl4q8de27qliue1fl9vt0"
+},
+{
+"text": "[image: Virtual Town Hall (Where I Stand Recap)]",
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall-where-i-stand-recap"
 },
 {
 "text": "[image: Virtual Town Hall ]",
@@ -750,5 +770,9 @@
 {
 "text": "https://youtube.com/live/8oaFzivDIuQ?feature=share",
 "href": "https://youtube.com/live/nm3GaF4LO80?feature=share"
+},
+{
+"text": "https://youtube.com/live/YlDT02fle8U?feature=share",
+"href": "https://youtube.com/live/YlDT02fle8U?feature=share"
 }
 ]

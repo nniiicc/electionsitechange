@@ -1,2 +1,2 @@
-top of page Home Donate Updates & News Events Volunteer Log In Donate Canvassing with the Candidate Date and time is TBD | Location is TBD Let's get out into the community and chat with Blount County neighbors about their hopes and fears while informing people about Hilary's platform.
-RSVP Time & Location Date and time is TBD Location is TBD Guests See All About the event Show More RSVP Share this event bottom of page
+top of page Home Donate Updates & News Events Volunteer Log In Donate Canvassing with the Candidate Sat, Oct 10 | Location is TBD Let's get out into the community and chat with Blount County neighbors about their hopes and fears while informing people about Hilary AND Michaela's platforms!
+RSVP Time & Location Oct 10, 2026, 10:00 AM – 1:00 PM Location is TBD Guests See All About the event Follow this link to sign up and receive details! https://www.mobilize.us/michaelafortennessee/event/1037550/ Show More RSVP Share this event bottom of page

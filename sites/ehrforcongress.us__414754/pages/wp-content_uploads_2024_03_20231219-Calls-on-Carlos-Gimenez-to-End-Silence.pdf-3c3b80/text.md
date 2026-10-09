@@ -1,0 +1,9 @@
+FL-28: Retired USN Cmdr.
+Phil Ehr Calls on Carlos Gimenez to End Silence & Condemn Donald Trump Anti-Latino "Poisoned Blood" Hatred DATE: December 19, 2023 MIAMI – Democratic Congressional candidate Phil Ehr, a retired US.
+Navy commander on Tuesday called on Republican Congressman Carlos Gimenez to condemn recent hate statements by Donald Trump that suggest Latinos are "poisoning the blood" of America.
+In the past weeks, Trump has used the claim, consistent with Third Reich rhetoric, that Latinos are "animals" that are "poisoning the blood of America." Following is Ehr's statement calling on Gimenez to reject Trump's anti-Latino rhetoric: "The uniform I wore in the U.S.
+Navy meant faithfulness to the idea that America was a refuge for the persecuted and a home for those fleeing despots and dictators.
+"Donald Trump is not faithful to the values of the United States when he suggests that Latino migrants are poisoning" the "blood of America." The blood of America was sacrificed willingly by patriots who explicitly rejected this type of hatred.
+"Trump's calls to engage in the mass deportation of millions of migrant residents awaiting due process seem to be animated by the power of his hateful rhetoric.
+"Donald Trump's words and extreme proposals must be condemned - and so should cowards like Carlos Gimenez who sit back and refuse to defend Asian, Latino and African migrants and remain in subservient silence against the Trump kind of rhetoric that has always been an ingredient to genocide. "i agree that Democrats must join with Republicans and the president to come up with an enduring and comprehensive immigration solution.
+"But none of this will be possible until cowards like Carlos Gimenez end their silence and stand up to the hateful, anti-Latino language of Donald Trump." ##

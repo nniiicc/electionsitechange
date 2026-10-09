@@ -1,6 +1,6 @@
 top of page Donations by mail can be sent to: DiPietro For You PO Box 700, E.
 Aurora, NY 14052 DONATE All donations amounts, whether it's $# or $# are greatly appreciated HOME THE SHOWS The David DiPietro Show Silent Majority Speaks Podcast ABOUT DAVE LATEST NEWS THE ISSUES GET INVOLVED OPERATION GIFT CERTIFICATE POWERFUL PARTNERSHIP More Use tab to navigate through the menu items.
-Latest Political News Culture and Opinions Events Your Community Vaccines & Health Search DiPietro Slams Hochul's Election-Year Affordability Pivot Gov.
+All Posts Latest Political News Culture and Opinions Events Your Community Vaccines & Health Search DiPietro Slams Hochul's Election-Year Affordability Pivot Gov.
 Hochul delivers her executive budget proposal.
 Assemblyman David DiPietro (R,C-East Aurora) was critical of Gov.
 Kathy Hochul's executive budget proposal today.

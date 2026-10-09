@@ -1,0 +1,5 @@
+FOR IMMEDIATE RELEASE November 13, 2025 Contact: press@ericflores.com Matt Brownfield (214) 566-8589 Eric Flores Slams Vicente Gonzalez for Voting to Prolong Government Shutdown San Benito, TX - Eric Flores, a former Assistant US Attorney, former Army Infantry Commander, and Republican candidate for Texas’ 34th Congressional District, released the following statement after Congressman Vicente Gonzalez voted against bipartisan legislation to end the longest government shutdown in American history: “Vicente Gonzalez just proved how extreme he really is, voting lockstep with AOC and the radical left to keep the government shut down, no matter how much pain it’s inflicting on South Texas families.
+Law enforcement are missing paychecks.
+Border patrol is being forced to choose between groceries and rent.
+Veterans are waiting for care.
+Yet, Vicente Gonzalez chose to put Washington politics over South Texas families, just like he does every time." ### PAID FOR BY ERIC FLORES FOR CONGRESS Eric Flores for Congress | PO Box 84 | San Benito, TX 78586 US Unsubscribe | Update Profile | Constant Contact Data Notice

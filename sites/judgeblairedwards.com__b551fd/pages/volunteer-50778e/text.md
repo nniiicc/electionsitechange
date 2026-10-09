@@ -1,6 +1,7 @@
 Skip to content Home Bio Issues News Volunteer Donate Contact Search for: Search Donate Today Skip to content Home Bio At A Glance Issues News Volunteer Donate Contact Volunteer Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Middle Last Email * Email Confirm Email Phone Number * 000-000-0000 | Area code + phone number May we send text messages to this number? * — Select Choice — Yes No I we Address Street Address 1 * Street Address 2 City, State * ZIP Code * 00000 | Numbers only I Pledge To: * Knock on doors Display yard sign Make phone calls Other Acknowledgement: * By submitting this form and signing up for texts, you consent to receive donation asks, and informational messages from the Committee to Elect Judge Blair Edwards.
+Name * First Middle Last Number Street number?
+Email * Email Confirm Email Phone Number * 000-000-0000 | Area code + phone number May we send text messages to this number? * — Select Choice — Yes No Street Address 1 * Street Address 2 City, State * ZIP Code * 00000 | Numbers only I Pledge To: * Knock on doors Display yard sign Make phone calls Other Acknowledgement: * By submitting this form and signing up for texts, you consent to receive donation asks, and informational messages from the Committee to Elect Judge Blair Edwards.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available).

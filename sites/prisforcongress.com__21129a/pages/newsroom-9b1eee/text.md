@@ -4,7 +4,11 @@ Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion P
 Mary Parish St.
 Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App yes Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-Phone (337) 279-8329 Email prisforcongress@gmail.com Newsroom I dedicated myself to actively supporting the PACT Act by spearheading efforts t… I dedicated myself to actively supporting the PACT Act by spearheading efforts to raise both funding and awareness.
+Phone (337) 279-8329 Email prisforcongress@gmail.com Newsroom My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the… My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the U.S.-Mexico border.
+I was raised Pentecostal and attended a Christian private school, where I learned [Click Title to Continue Reading] October 9, 2026 no comments My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the… My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the U.S.-Mexico border.
+I was raised Pentecostal and attended a Christian private school, where I learned [Click Title to Continue Reading] October 8, 2026 no comments In March 7, 2024, US Representative Clay Higgins announced $40.4 million in Fund… In March 7, 2024, US Representative Clay Higgins announced $40.4 million in Funding for Projects in Louisiana’s 3rd District.
+Higgins led his constituents to believe he was for it.
+On [Click Title to Continue Reading] October 8, 2026 no comments I dedicated myself to actively supporting the PACT Act by spearheading efforts t… I dedicated myself to actively supporting the PACT Act by spearheading efforts to raise both funding and awareness.
 The PACT Act, or the “Promise to Address Comprehensive Toxics Act,” was [Click Title to Continue Reading] October 8, 2026 no comments Join us in saying farewell to Clay Higgins, his time has expired.
 Its time to fo… Join us in saying farewell to Clay Higgins, his time has expired.
 Its time to for district three to move forward.
@@ -17,12 +21,7 @@ Th… Here are nine documented controversies involving Clay Higgins over the yea
 This covers major public incidents, rather than every criticism of his record.
 1.
 Police misconduct allegations, 2007.
-Opelousas police [Click Title to Continue Reading] October 6, 2026 no comments Your congressman Clay Higgins voted not to bring our soldiers home.
-Your congressman Clay Higgins voted not to bring our soldiers home.
-Source [Click Title to Continue Reading] October 3, 2026 no comments It is time to say adios to Clay Higgins and voted new leadership.
-I am not askin… It is time to say adios to Clay Higgins and voted new leadership.
-I am not asking you to vote for me.
-Please just get out and vote and District [Click Title to Continue Reading] October 3, 2026 no comments In June 2017, Representative Clay Higgins, a Republican congressman from Louisia… In June 2017, Representative Clay Higgins, a Republican congressman from Louisiana, ignited a firestorm of controversy with a provocative and deeply disturbing Facebook post calling for the $illing of “radicalized” [Click Title to Continue Reading] October 2, 2026 no comments 1 2 3 … 13 Next » Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Opelousas police [Click Title to Continue Reading] October 6, 2026 no comments 1 2 3 … 14 Next » Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
 Martin Parish St.
 Mary Parish Terrebonne Parish Vermilion Parish Subscribe To Our Newsletter Stay up to date with the latest news from Priscilla Gonzalez's campaign Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
 Martin Parish St.

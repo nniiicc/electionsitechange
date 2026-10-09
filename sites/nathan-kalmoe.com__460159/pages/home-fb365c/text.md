@@ -30,7 +30,9 @@ That means our district hasn't had a choice over who represents us.
 Now we have a choice!
 For governor, we had a choice.
 I chose Hong .
-Now I'll vote Crowley & push him to fully embrace our progressive priorities.
+Now I join Hong in voting for Crowley.
+He’ll be a helluva lot better than fascist Tom Tiffany.
+And we will continue to apply effective progressive pressure on him to be the best he can be for Wisconsin.
 A vote for all of us.
 All of us deserve more freedom in our lives , not be controlled by the whims of our bosses, healthcare CEOs, supremacists of all kinds, & governing leaders who don’t represent us in any way.
 We deserve a choice!
@@ -93,7 +95,7 @@ I've spoken with Sen.
 Hesselbein multiple times , & I've updated my descriptions to better represent her views where she had a point.
 But n ow she is refus ing to provide details on where she stands, to me or anyone.
 More p rogressive p riorities .
-I'm a strong supporter of reproductive freedom & gender-affirming care , an anti-discrimination law protecting transgender people , unshackling labor unions , driver's licenses for undocumented immigrants & bans on 287g agreements , prosecuting ICE , better gun safety , legalizing marijuana for recreational & medicinal , public safety through community investment , environmental protection , & improving wellbeing & equity in pregnancy & post-partem care , among other important issues.
+I'm a strong supporter of reproductive freedom & gender-affirming care , an anti-discrimination law protecting transgender people , unshackling labor unions , driver's licenses for undocumented immigrants & bans on 287g agreements , prosecuting ICE , better gun safety , decriminalizing marijuana for recreational & medicinal , public safety through community investment , environmental protection , & improving wellbeing & equity in pregnancy & post-partem care , among other important issues.
 Many of these are positions where Sen.
 Hesselbein & I largely agree.
 Hong won my vote & our district.

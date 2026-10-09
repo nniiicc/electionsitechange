@@ -18,7 +18,8 @@ Sign Up Block Walk Come out and knock doors with us!
 A quick training and waters will provided.
 RSVP Phone Bank Register to virtually help with outreach and identify eligible voters.
 RSVP Other Ways to Help Check out all the upcoming volunteer options.
-RSVP Upcoming Events Events Save Our Public Schools What: A town hall on public education When: Thursday, October 8, 2026 at 6–8 pm Where: Unitarian Universalist Church, 1719 E.
-29th St, Bryan, TX 77802 Featuring: Herb Krasner (Save Our Public Schools Texas), Senator Sarah Eckhardt, Representative Vikki Goodwin, local candidates Sponsored by: Andie Ho (HD-12), Caitlin Rourk (CD-10), Paul Thomasson (SD-5), Janet Dudding (HD-14) Read more → Andie for Texas Political advertisement paid for by Andie Ho.
+RSVP Upcoming Events Summary Block This block has no content yet.
+Items you add to the page connected to this block will display here.
+Events Andie for Texas Political advertisement paid for by Andie Ho.
 Copyright #.
 Contact andieforHD12@gmail.com

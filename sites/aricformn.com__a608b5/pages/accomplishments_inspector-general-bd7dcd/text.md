@@ -7,4 +7,4 @@ The rest is unglamorous: I changed how the Departments of Agriculture and Vetera
 Most of preventing fraud is designing programs that are harder to cheat.
 Most of preventing fraud is designing programs that are harder to cheat.
 Where I stand Fighting fraud → Join us Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue Next The veterans budget → PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

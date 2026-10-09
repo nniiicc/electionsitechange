@@ -1,4 +1,5 @@
-The Campaign Priorities Press Get Involved EN ES Contribute Contribute EN ES In the News Press & Media Coverage Independent voices don't always get the spotlight.
+The Campaign Priorities Press Get Involved EN ES Contribute Contribute EN ES 2026 Endorsements Endorsed for Congress Editorial Board Endorsement The Denver Gazette The Denver Gazette editorial board recommends Shimon Blau for Colorado’s 1st Congressional District.
+Read the Gazette endorsement Mandy Connell 2026 Election Guide Read the election guide Ross Kaminsky 2026 Colorado Voter Guide Read the election guide In the News Press & Media Coverage Independent voices don't always get the spotlight.
 Here's where Colorado's reporters and hosts have covered Shimon and the campaign.
 Colorado Public Radio Independent candidate for CD-1 says he wants to fight extremism August 3, 2026 Pain Doctor Shimon Blau said he believes that Denver will be ground zero for pushback from the “extreme left” as he’s looking to be the more moderate alternative.
 Listen The Ross Kaminsky Show · iHeart Radio Interview: Independent Congressional Candidate Shimon Blau for Denver’s 1st District August 13, 2026 An in-depth interview with independent congressional candidate Shimon Blau for Denver’s 1st District.

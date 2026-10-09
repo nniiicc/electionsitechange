@@ -1,6 +1,8 @@
 Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT AdminRoxie Home » Archives for Roxie S » Page 2 About Roxie S This author has not yet filled in any details.
-So far Roxie S has created 31 blog entries.
-New Beginnings Gallery New Beginnings Uncategorized New Beginnings Newness is challenging to embrace.
+So far Roxie S has created 32 blog entries.
+How Suzanne Ness is Expanding Healthcare in Illinois Gallery How Suzanne Ness is Expanding Healthcare in Illinois Healthcare , Uncategorized How Suzanne Ness is Expanding Healthcare in Illinois Unfortunately, many people do not have this same access to healthcare, especially when it comes to services such as mental health care.
+People should not have to worry about finances while also grappling with the stress associated with medical complications...
+By Roxie S | 2026-09-10T15:57:22+00:00 August 22, 2024 | Healthcare , Uncategorized | Comments Off on How Suzanne Ness is Expanding Healthcare in Illinois Read More New Beginnings Gallery New Beginnings Uncategorized New Beginnings Newness is challenging to embrace.
 There is comfort in knowing a way forward, comfort in knowing someone else went through the same situation and made it out on the other side.
 By Roxie S | 2026-09-10T15:57:23+00:00 July 19, 2024 | Uncategorized | Comments Off on New Beginnings Read More Why Is It Important to Celebrate Pride?
 Gallery Why Is It Important to Celebrate Pride?
@@ -29,10 +31,6 @@ Celebration Fundraiser Gallery Join the Party!
 Celebration Fundraiser Fundraiser , Upcoming Event Join the Party!
 Celebration Fundraiser Join us for a Birthday Celebration Fundraiser in Support of Suzanne Ness, Saturday, April 22nd from 7:00pm to 10:00pm at The Ashbury located at 1 Douglas Ave. in Elgin, Illinois.
 By Roxie S | 2023-07-28T15:50:04+00:00 February 1, 2023 | Fundraiser , Upcoming Event | Comments Off on Join the Party!
-Celebration Fundraiser Read More Rep Ness Wins Re-election!
-Gallery Rep Ness Wins Re-election!
-Uncategorized Rep Ness Wins Re-election!
-On January 11th, the 103rd General Assembly was sworn [...] By Roxie S | 2023-01-16T18:07:52+00:00 January 16, 2023 | Uncategorized | Comments Off on Rep Ness Wins Re-election!
-Read More Previous 1 2 3 Next Contact Our Team Address: P.O.
+Celebration Fundraiser Read More Previous 1 2 3 Next Contact Our Team Address: P.O.
 Box 2633 Crystal Lake, IL 60014 Email: vote4suzanneness@gmail.com Call 224-208-8775 Connect with Team Ness Copyright | Citizens For Suzanne Ness | Privacy Policy Page load link This website uses cookies and third party services.
 Settings OK Go to Top

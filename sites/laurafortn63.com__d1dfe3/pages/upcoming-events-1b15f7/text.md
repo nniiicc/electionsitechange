@@ -2,25 +2,7 @@
 Interested in hosting a fundraiser or meet-and-greet?
 Want to invite Laura to a community event?
 Email team@laur afortn63.com today to get it scheduled!
-Upcoming Events Oct 8 Community Canvass in Franklin Thursday, October 8, 2026 10:00 AM 12:00 PM Google Calendar ICS The best way to talk to voters is face to face!
-With less than # days until early voting starts, we’re pulling double duty!
-Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
-No experience necessary.
-All you need is a fully charged phone, comfy shoes, hat and water bottle!
-Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
-Sign up to join us here View Event → Oct 8 Community Canvass in Nolensville Thursday, October 8, 2026 11:00 AM 1:00 PM Google Calendar ICS The best way to talk to voters is face to face!
-With less than # days until the eleciton, we’re pulling double duty!
-Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
-No experience necessary.
-All you need is a fully charged phone, comfy shoes, hat and water bottle!
-Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
-Sign up to join us here View Event → Oct 8 Community Canvass in Brentwood Thursday, October 8, 2026 1:00 PM 3:00 PM Google Calendar ICS The best way to talk to voters is face to face!
-With less than # days until the election, we’re pulling double duty!
-Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
-No experience necessary.
-All you need is a fully charged phone, comfy shoes, hat and water bottle!
-Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
-Sign up to join us here View Event → Oct 9 Community Canvass in Franklin Friday, October 9, 2026 10:00 AM 12:00 PM Google Calendar ICS The best way to talk to voters is face to face!
+Upcoming Events Oct 9 Community Canvass in Franklin Friday, October 9, 2026 10:00 AM 12:00 PM Google Calendar ICS The best way to talk to voters is face to face!
 With less than # days until early voting starts, we’re pulling double duty!
 Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
 No experience necessary.
@@ -40,6 +22,24 @@ All you need is a fully charged phone, comfy shoes, hat and water bottle!
 Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
 Sign up to join us here View Event → Oct 11 Community Canvass in Nolensville Sunday, October 11, 2026 2:00 PM 4:00 PM Google Calendar ICS The best way to talk to voters is face to face!
 With less than # days until the eleciton, we’re pulling double duty!
+Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
+No experience necessary.
+All you need is a fully charged phone, comfy shoes, hat and water bottle!
+Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
+Sign up to join us here View Event → Oct 8 Community Canvass in Brentwood Thursday, October 8, 2026 1:00 PM 3:00 PM Google Calendar ICS The best way to talk to voters is face to face!
+With less than # days until the election, we’re pulling double duty!
+Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
+No experience necessary.
+All you need is a fully charged phone, comfy shoes, hat and water bottle!
+Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
+Sign up to join us here View Event → Oct 8 Community Canvass in Nolensville Thursday, October 8, 2026 11:00 AM 1:00 PM Google Calendar ICS The best way to talk to voters is face to face!
+With less than # days until the eleciton, we’re pulling double duty!
+Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
+No experience necessary.
+All you need is a fully charged phone, comfy shoes, hat and water bottle!
+Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
+Sign up to join us here View Event → Oct 8 Community Canvass in Franklin Thursday, October 8, 2026 10:00 AM 12:00 PM Google Calendar ICS The best way to talk to voters is face to face!
+With less than # days until early voting starts, we’re pulling double duty!
 Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
 No experience necessary.
 All you need is a fully charged phone, comfy shoes, hat and water bottle!
@@ -184,22 +184,6 @@ Together we will talk to Democratic voters about Laura and her plan to deliver c
 Sign up to join us here View Event → Sep 22 Community Canvass in Brentwood Tuesday, September 22, 2026 5:00 PM 7:00 PM Google Calendar ICS The best way to talk to voters is face to face!
 With less than # days until early voting starts, we’re pulling double duty!
 Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
-No experience necessary.
-All you need is a fully charged phone, comfy shoes, hat and water bottle!
-Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
-Sign up to join us here View Event → Sep 22 Community Canvass in Nolensville Tuesday, September 22, 2026 10:00 AM 12:00 PM Google Calendar ICS The best way to talk to voters is face to face!
-With less than # days until early voting starts, we’re pulling double duty!
-Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
-No experience necessary.
-All you need is a fully charged phone, comfy shoes, hat and water bottle!
-Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
-Sign up to join us here View Event → Sep 20 Community Canvass in Nolensville Sunday, September 20, 2026 1:00 PM 3:00 PM Google Calendar ICS The best way to talk to voters is face to face!
-Help us knock on doors to canvass Democratic neighbors in Tennessee House District 63.
-No experience necessary.
-All you need is a fully charged phone, comfy shoes, hat and water bottle!
-Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
-Sign up to join us here View Event → Sep 20 Community Canvass in Franklin Sunday, September 20, 2026 1:00 PM 3:00 PM Google Calendar ICS The best way to talk to voters is face to face!
-Help us knock on doors to canvass Democratic neighbors in Tennessee House District 63.
 No experience necessary.
 All you need is a fully charged phone, comfy shoes, hat and water bottle!
 Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.

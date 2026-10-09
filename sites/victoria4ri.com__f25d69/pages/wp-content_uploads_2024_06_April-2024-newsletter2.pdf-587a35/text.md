@@ -1,0 +1,9 @@
+Mon April 29th 6-8pm Town Hall on Climate Resiliency & Assistance in Applying for Disaster Relief Dear Friends and Neighbors, We had so much interest in our Zoom town hall with URI researchers on climate resiliency, that we are excited to have a follow-up forum with our state and federal agencies, including RI CRMC, RI EMA, and FEMA representatives.
+Date/Location: Monday April 29th, 6-8pm at the Quonochontaug Grange Hall (5662 Post Road, Charlestown, RI).
+We will discuss some frequently asked questions about recent storm recovery work, regulations, and funding opportunities for mitigation work.
+FEMA and RI EMA representatives will do a presentation and will be available to assist individuals and business owners who sustained losses during the Dec 1719th 2023/Jan 9th-13th 2024 storms and are eligible for federal disaster relief funds (secondary and vacation homes are not eligible).
+May 20th, 2024 is the deadline to apply.
+People may also visit www.DisasterAssistance.gov Residents, local officials, and businesses are invited to share their ideas, experiences, and priorities regarding climate resiliency efforts in the broader South County area.
+Please RSVP & submit questions to victoria4ri.com/town-hall Sincerely, RI State Senator Victoria Gu, District 38 RSVP & Submit Questions Other Reminders Tuesday May 7th School Bond Votes: Chariho and South Kingstown Please make every effort to vote!
+Early voting is already happening in each town's town hall Last day to vote is Tuesday May 7th, 2024.
+Check vote.ri.gov for your polling location, which can change during special elections Read more info on the SK bond measure at https://www.southkingstownri. gov/1244/School-Bond-Information Read more info on the Chariho bond measure here Friends of Victoria Gu, PO Box 116, Charlestown, RI 02813, United States, 4013880696 Unsubscribe Manage preferences

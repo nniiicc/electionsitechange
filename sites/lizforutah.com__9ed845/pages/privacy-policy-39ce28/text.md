@@ -22,4 +22,4 @@ To exercise your rights or request more information about our data practices, pl
 6.
 Updates to the Privacy Policy We reserve the right to update or modify this Privacy Policy at any time.
 Any changes will be effective upon posting the revised Privacy Policy on our website or campaign platforms.
-We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information. liz@lizforutah.com Paid for by the Committee to Elect Liz Oates Privacy Policy
+We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information. liz@lizforutah.com Paid for by the Committee to Elect Liz Oates Media | Privacy Policy

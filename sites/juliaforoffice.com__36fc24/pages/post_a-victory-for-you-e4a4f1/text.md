@@ -1,4 +1,4 @@
-top of page See Spokane Complex Fires Resources Home Policies & Statements Endorsements Blog Donate Today!
+top of page See Spokane Complex Fires Resources Home Policies & Statements Endorsements Blog & Events Donate Today!
 Donate Today!
 Fires Resources All Posts A Victory for You! juliaforoffice Aug 14 1 min read Updated: Aug 30 Hello Spokane.
 Wow, the last 13 days have been surreal.
@@ -13,6 +13,6 @@ I will continue to make myself Accessible to all and Accountable to YOU.
 Let's take this energy all the way to Olympia and make sure Eastern Washington is represented and heard.
 In future weeks I'll take what you have told me you want and further refine our policy priorities and make sure we have clear objectives and a plan that we can take all the way to Olympia.
 Thank you again so much for your votes.
-Humbly Yours, Julia Payne Recent Posts See All Spokane Area Fires Fire Information & Resources Julia at The People's Town Hall, July 2026 Spokane, WA Spokane, Washington info@juliaforoffice.com (509) 903-5701 © # JuliaForOffice.
+Humbly Yours, Julia Payne Tags: BLOG POST Recent Posts See All UPCOMING: Julia at Indigenous Peoples Day Celebration on October 12, 2026 UPCOMING: Julia at Trans-Forum on October 11, 2026 Julia at Gonzaga's 8th Annual Spokane Candidates Climate Change Forum Spokane, Washington info@juliaforoffice.com (509) 903-5701 © # JuliaForOffice.
 All Rights Reserved.
 Paid for by Friends of Julia, PO Box 9056, Spokane, WA 99209 bottom of page

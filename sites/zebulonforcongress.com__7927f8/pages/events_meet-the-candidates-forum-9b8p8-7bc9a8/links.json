@@ -8,6 +8,10 @@
 "href": "https://www.zebulonforcongress.com/cart"
 },
 {
+"text": "Back",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
 "text": "Back to All Events",
 "href": "https://www.zebulonforcongress.com/events"
 },
@@ -20,8 +24,20 @@
 "href": "https://secure.anedot.com/friends-of-zebulon-featherly"
 },
 {
+"text": "Endorsements",
+"href": "https://www.zebulonforcongress.com/endorsements"
+},
+{
 "text": "Events",
 "href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Folder: Campaign",
+"href": "https://www.zebulonforcongress.com/campaign"
+},
+{
+"text": "Folder: Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand-1"
 },
 {
 "text": "Google Calendar",
@@ -40,12 +56,20 @@
 "href": "https://www.zebulonforcongress.com/my-story"
 },
 {
+"text": "Next Next October 14 Virtual Town Hall (Where I Stand Recap)",
+"href": "https://www.zebulonforcongress.com/events/virtual-town-hall-where-i-stand-recap"
+},
+{
 "text": "No Party Just People",
 "href": "https://www.zebulonforcongress.com/"
 },
 {
 "text": "Previous Previous September 28 Meet the Candidates Forum (Petoskey)",
 "href": "https://www.zebulonforcongress.com/events/meet-the-candidates-forum"
+},
+{
+"text": "Stances",
+"href": "https://www.zebulonforcongress.com/stances"
 },
 {
 "text": "Statements",

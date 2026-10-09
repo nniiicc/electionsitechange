@@ -2,7 +2,7 @@ top of page Meet Ben Goals Get Involved Donate!
 Ben Explains Notifications My Subscriptions Groups Members Use tab to navigate through the menu items.
 DONATE Now Accepting: BTC Log In All Posts Search MO Tax Relief Now Endorses Rep.
 Ben Keathley.
-#ago 1 min read MO Tax Relief Now Endorses Tax Fighter Ben Keathley.
+Oct 1 1 min read MO Tax Relief Now Endorses Tax Fighter Ben Keathley.
 Property tax reform is a #1 priority.
 Thank you for your endorsement and continuing hard work to protect the taxpayers of Missouri.
 Grassroots organizations are critical to the health of our republic and the effectiveness of public policy.

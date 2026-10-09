@@ -1,19 +1,6 @@
-Home Why Ben Experience Issues Platform Events Democratic Nomination AI Resources Volunteer Donate ☰ Democratic Nominee · Vermont House · Chittenden 15 Ben Bosley After years working in mediation, social services, and business, I realized Vermont’s biggest challenges won’t solve themselves.
+Home Why Ben Experience Issues Platform Events AI Resources Volunteer Donate ☰ Democratic Nominee · Vermont House · Chittenden 15 Ben Bosley After years working in mediation, social services, and business, I realized Vermont’s biggest challenges won’t solve themselves.
 I decided to step forward because I believe the government works best when it brings people together to solve real problems.
-Meet Ben → Democratic Nomination Democratic Nominee · Vermont House · Chittenden 15 · Democratic Nomination We Won the Democratic Nomination — On to November!
-Official campaign update Dear Friends, I'm excited to share some good news: I have officially won the Democratic nomination for Vermont House in Chittenden-15 and will be moving forward as a Democratic candidate in the November general election.
-Thank you to everyone who wrote my name in, encouraged me, offered advice, signed my petitions, volunteered, or simply took the time to talk with me about the future of our community.
-I'm deeply grateful.
-Now the general-election campaign begins.
-I'm running because I believe Vermont can be more affordable, sustainable, and equitable, and because I believe we need representatives willing to bring people together around bold, practical solutions.
-My priorities include affordable housing, universal healthcare, strong public education and infrastructure, workers' rights, community-based services, and building a green economy that creates good jobs for Vermonters.
-Over the coming months, I'll be knocking on doors, holding community conversations, attending neighborhood events, and meeting with people and organizations throughout the district.
-I want this to be a campaign built with the community, not simply presented to it.
-If you'd like to be part of it, there are many ways to help: canvassing, hosting an event, posting on Front Porch Forum or social media, writing a letter or op-ed, displaying campaign materials, making a donation, or contributing your own ideas and skills.
-We won the nomination.
-Now let's build the campaign for November.
-Thank you for your support, and I look forward to seeing you out in the community.
-Warmly, Ben Bosley Democratic Nominee for Vermont House Chittenden-15 Why I’m running I am running because I believe Vermont can be a place where ordinary people thrive—not merely survive.
+Meet Ben → Democratic Nominee · Vermont House · Chittenden 15 · Why I’m running I am running because I believe Vermont can be a place where ordinary people thrive—not merely survive.
 My name is Ben Bosley, and I am running for the Vermont House to help build a more just and democratic future for our state.
 I’ve lived and worked in Burlington for over ten years, and my background is in social work, business and mediation.
 I am running outside rigid party thinking because I believe good ideas should matter more than partisan loyalty.
@@ -90,6 +77,6 @@ Is there anything you would like us to know about you—such as your interests, 
 Website Join the Campaign Contact Ben Bosley Ben believes government works best when leaders listen carefully, think critically, and bring people together to solve real problems.
 Email benbosleyforhouse@gmail.com District Chittenden 15, Burlington, Vermont Full name Please add your name Email Please add a valid email Street or neighborhood How can we help?
 Please add a message Website Send a message For a more beautiful Vermont our heart and mind know is possible.
-Campaign office Burlington, Vermont Chittenden 15 District benbosleyforhouse@gmail.com Explore Democratic Nomination Events AI Community Resources Meet Ben Endorsements Priorities Policy Handouts YouTube Platform Donate Volunteer Contact Follow the campaign I respectfully ask for your support, your voice, and your vote. f ig x © # Ben Bosley for Vermont House.
+Campaign office Burlington, Vermont Chittenden 15 District benbosleyforhouse@gmail.com Explore Events AI Community Resources Meet Ben Endorsements Priorities Policy Handouts YouTube Platform Donate Volunteer Contact Follow the campaign I respectfully ask for your support, your voice, and your vote. f ig x © # Ben Bosley for Vermont House.
 All rights reserved.
 Paid For By Ben Bosley For Vermont House

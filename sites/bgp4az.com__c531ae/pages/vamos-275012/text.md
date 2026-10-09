@@ -11,7 +11,7 @@ ME POSTULO PARA PONERME A TRABAJAR.» Bernadette representará a todos en el 8.�
 CONOCE SU HISTORIA 01 TRABAJO Respeta a quienes cumplen con su jornada laboral, forman una familia, dirigen un negocio y mantienen a Arizona en movimiento.
 02 LIBERTAD Proteger los derechos individuales, la seguridad de la jubilación, las opciones de atención médica y la oportunidad de cada familia de salir adelante.
 03 RESPONSABILIDAD Los funcionarios electos deben rendir cuentas al pueblo, no a los líderes de los partidos, a los grandes donantes ni a quienes buscan permanecer de por vida en el poder.
-04 SENTIDO COMÚN Asegurar la frontera sin sacrificar la humanidad, reducir el despilfarro y enfocarse en soluciones que funcionen en el mundo real.
+04 SENTIDO COMÚN Proteja la frontera sin sacrificar la humanidad, reduzca los residuos y centrése en soluciones que funcionen en el mundo real.
 EL TRABAJO QUE TENEMOS POR DELANTE PRIORIDADES PARA LAS FAMILIAS DE ARIZONA Bernadette se enfocará en los temas cotidianos que determinan si las familias trabajadoras pueden construir una buena vida y jubilarse con dignidad.
 AZ UNA ECONOMÍA QUE FUNCIONE PARA TODOS Reducir los costos para las familias de Arizona apoyando empleos bien remunerados, fortaleciendo las pequeñas empresas y promoviendo políticas prácticas que impulsen nuestra economía.
 Más información SS PROTEGER EL SEGURO SOCIAL Y MEDICARE Cumplir las promesas por las que los trabajadores pagaron, reducir el costo de los medicamentos recetados y fortalecer Medicare en lugar de recortar los beneficios adquiridos.

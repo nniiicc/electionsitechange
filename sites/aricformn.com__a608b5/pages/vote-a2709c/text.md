@@ -19,4 +19,4 @@ Find your polling place for voting in-person on Election Day → Find your polli
 You can change that.
 It can be as simple as reminding a friend to vote, helping a neighbor request an absentee ballot, or working as an Election Judge.
 Volunteer with the campaign → Help someone request a mail ballot → Become an Election Judge → PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

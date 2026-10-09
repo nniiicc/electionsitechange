@@ -1,4 +1,4 @@
-Home About Issues Newsletter sign-up PHOTOS Contribute Home About Issues Newsletter sign-up PHOTOS Contribute Back to All Events Get Out the Vote with #TeamTasha!
+Home About Issues PHOTOS Contribute Home About Issues PHOTOS Contribute Back to All Events Get Out the Vote with #TeamTasha!
 Tuesday, February 25, 2020 5:00 PM 17:00 Tuesday, March 3, 2020 8:00 PM 20:00 Tasha Boerner Horvath for Assembly 2018 835 North Vulcan Avenue Encinitas, CA, 92024 United States (map) Google Calendar ICS Dear friends, So much is on the ballot this year, and we have to defend the progress that we've made in North County.
 For the first time, we have real representation that fights for the issues that matter to us and that have historically been overlooked.
 This year, we made great strides on issues of equity, opportunity, and sustainability, but the fight continues.

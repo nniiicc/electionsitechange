@@ -8,9 +8,7 @@ Listening to YOU News & Videos Scholarship WI History Contact Dad.
 Activist.
 Scholar.
 Brief Bio: Verona dad w/ 2 young kids, middle-class renters, grew up in Appleton, UW-Madison alum Lifelong activist: union organizing, gendered violence, LGBTQ+, workplace equity, racial justice, human rights, antiwar Currently active on local immigrant protection & support, hunger, Gaza UW-Madison political scientist , award-winning for teaching & research Always votes to defeat Republicans while pushing hard to make Democrats better For fun!
-Playing with my kids, rock climbing, disc golf, playing music, biking Ask me anything!
-I'll collect questions & post the AMA October 1st.
-Snapshots of Nathan's Lifelong Activism 2003: Anti-Iraq War 2003: 1-state solution w/ equality op-ed 2004: Universal healthcare & edu op-ed 2004: Campus domestic violence op-ed 2004: sexual assault op-ed 2008: Union picket on strike 2008: Strike victory (& meet cute)!
+Playing with my kids, rock climbing, disc golf, playing music, biking Snapshots of Nathan's Lifelong Activism 2003: Anti-Iraq War 2003: 1-state solution w/ equality op-ed 2004: Universal healthcare & edu op-ed 2004: Campus domestic violence op-ed 2004: sexual assault op-ed 2008: Union picket on strike 2008: Strike victory (& meet cute)!
 2019: Calling out employer on prison labor 2023: Getting Trans Rights on Pro Disc Golf Coverage 2024: Defending UW Gaza Encampment 2025: No Kings in Middleton w/ fam 2026: Documenting & Pursuing ICE in Madison Nathan Today Work: Professionally, I'm academic staff at UW-Madison (not a professor).
 I help run a research center focused on politics & communication.
 Getting this job let our family move back home to Wisconsin so that our young kids could be closer to our parents.

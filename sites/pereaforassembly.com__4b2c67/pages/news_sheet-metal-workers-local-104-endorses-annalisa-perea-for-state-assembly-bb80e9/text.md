@@ -15,4 +15,4 @@ A third-generation Central Valley native and lifelong Fresnan, Perea is the daug
 Perea holds a degree in City and Regional Planning from Cal Poly San Luis Obispo and built her professional career as an urban planner focused on developing safe, walkable, and affordable communities.
 She carried that expertise into public service, first as a Trustee for the State Center Community College District, and now on the Fresno City Council, where she was unanimously selected by her colleagues to serve as Council Vice President and Council President during her first two years.
 Perea is running for State Assembly to continue fighting for working families, union jobs, strong public infrastructure, affordable housing, and economic opportunity for every community in the Central Valley.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

@@ -9,5 +9,10 @@ Property Taxes Families and seniors are struggling as rising property taxes make
 Parents’ Power in Education Parents deserve more say in their children’s education, ensuring schools reflect community values instead of bureaucratic or political agendas.
 Roads, Bridges, and Infrastructure Local highways, roads, and bridges need repair and expansion so families can travel safely and businesses can grow without costly delays.
 Initiative Petition (IP) Reform Out-of-state groups have spent millions to change Missouri’s constitution on issues like legalizing marijuana, expanding Medicaid, and abortion up to birth—making IP reform essential to protect Missouri values.
-Other Other (please explain below) Phone consent By providing your phone number, you agree to receive campaign messages from "Friends of Melanie Stinnett" to the phone number you provide.
+Other Other (please explain below) Phone consent By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities & donation requests) from Friends of Melanie Stinnett at the number provided.
+Message frequency varies.
+Msg & data rates may apply.
+Reply HELP for assistance.
+Reply STOP to opt out at any time.
+Terms & Conditions + Privacy Policy apply.
 Submit Privacy Policy PAID FOR BY Friends of Melanie Stinnett, Treasurer Cristian Rath

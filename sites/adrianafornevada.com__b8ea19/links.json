@@ -1,7 +1,19 @@
 [
 {
+"text": "8 News NowMar 2026 Las Vegas ranks 6th in retail crime; lawmakers and retailers fight back Read the story →",
+"href": "https://www.8newsnow.com/news/local-news/las-vegas-ranks-6th-in-retail-crime-lawmakers-and-retailers-fight-back/"
+},
+{
+"text": "8 News NowOct 2025 Retail crime surge threatens Asian-owned businesses in Las Vegas Read the story →",
+"href": "https://www.8newsnow.com/news/local-news/retail-crime-surge-threatens-asian-owned-businesses-in-las-vegas/"
+},
+{
 "text": "Bio",
 "href": "https://adrianafornevada.com/bio"
+},
+{
+"text": "California GlobeMay 2026 Las Vegas hits the top ten for organized retail theft after state Democrats raised felony threshold in 2019 Read the story →",
+"href": "https://californiaglobe.com/fr/las-vegas-hits-the-top-ten-for-organized-retail-theft-after-state-democrats-raised-felony-threshold-in-2019/"
 },
 {
 "text": "Contact",
@@ -44,8 +56,24 @@
 "href": "https://secure.winred.com/adriana-for-nevada/storefront/"
 },
 {
+"text": "Nevada AB 236 (2019)",
+"href": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB236_R2.pdf"
+},
+{
+"text": "Nevada Independent fact brief",
+"href": "https://thenevadaindependent.com/article/fact-brief-does-nevada-consider-theft-a-felony-only-if-something-valued-at-1200-or-more-is-stolen"
+},
+{
+"text": "News 3 Las VegasMay 2026 Shoplifting incidents escalate as violence, organized crime draw federal attention Read the story →",
+"href": "https://news3lv.com/news/local/shoplifting-incidents-escalate-as-violence-organized-crime-draw-federal-attention"
+},
+{
 "text": "Privacy Policy",
 "href": "https://adrianafornevada.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://adrianafornevada.com/terms"
 },
 {
 "text": "Watch her ad",
@@ -56,7 +84,7 @@
 "href": "https://x.com/AdrianaForNV"
 },
 {
-"text": "{{ h.outlet }}{{ h.date }} {{ h.title }} Read the story →",
-"href": "https://adrianafornevada.com/%7B%7B%20h.url%20%7D%7D"
+"text": "contact page",
+"href": "https://adrianafornevada.com/contact"
 }
 ]

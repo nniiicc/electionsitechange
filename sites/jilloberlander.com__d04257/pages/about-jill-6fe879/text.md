@@ -9,7 +9,7 @@ A resident for 20 years, Jill and her husband, Larry Penn, raised their three ch
 She served on the Board of Selectmen, helping guide the town through COVID, and on the finance board, the Board of Estimate and Taxation, where she was unanimously elected chair—the first Democrat to hold that seat in town history.
 During her tenure, she kept property tax increases low—lower than the prior decade under Republican leadership—while responsibly funding schools and town services.
 Jill also served six years on the town legislature, the Representative Town Meeting, and was recently reelected to that body.
-She founded and chaired the Greenwich Sustainability Committee and has worked with community partners to advance practical, forward-looking solutions.
+She was the first chair of the Greenwich Sustainability Committee and has worked with community partners to advance practical, forward-looking solutions.
 Jill earned a law degree from the University of Chicago and a master’s in Public Administration from Cornell.
 In addition to her town service, she has worked in government and with nonprofit organizations delivering essential public services, including transportation, parks and recreation, and economic development.
 Jill is running for state senate to bring experienced, independent leadership to Hartford—focused on affordability, supporting business, and growing our economy, and delivering results for residents in Greenwich, North Stamford, and New Canaan.

@@ -1,9 +1,12 @@
 {
- "description": "Vote Jack Stockton for Tennessee State Representative, District 32",
+ "description": "Jack Stockton — 42 years serving Tennessee. Conservative leader running for State Representative in District 32. From enforcing the law to making the law.",
  "final_url": "https://jackstockton.com/",
- "fingerprint": "1cb548ac9538b4190c36e91401934c3f7761edcb",
+ "fingerprint": "e74be101bd373cdd6b757e1d32bf62dc3ea9f101",
  "format": 3,
- "paid_for_by": "",
- "title": "Jack Stockton District 32",
- "years_mentioned": []
+ "paid_for_by": "Paid for by the Committee to Elect Jack Stockton",
+ "rendered": true,
+ "title": "Jack Stockton for TN State Representative · District 32",
+ "years_mentioned": [
+  "2026"
+ ]
 }

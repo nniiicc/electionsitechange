@@ -12,7 +12,15 @@ LEARN MORE → EDUCATION FOR OUR MODERN ECONOMY Dave will advocate for parental 
 LEARN MORE → SUPPORTING OUR VETERANS Dave will fight for the veterans who defended this country, ensuring they get timely healthcare, real support for their mental health, and the benefits they've earned without the bureaucratic runaround.
 LEARN MORE → FOSTERING HEALTHY COMMUNITIES As a two-time cancer survivor, Dave knows firsthand what it means to depend on quality care when it matters most.
 Dave will fight to ensure every VA-10 family has access to quality, affordable health care without Washington dictating your choices or driving up your costs.
-LEARN MORE → Every policy pillar is an answer to the question: “What's standing between the people of VA-10 and their American Dream right now, and how do we remove it?” LEARN MORE ABOUT DAVE'S PLATFORM learn about dave’s specific plans for VA-10 READ MORE READ MORE BLOG Unlocking the housing market in VA-10 There are two housing stories playing out across VA-10 right now.
+LEARN MORE → Every policy pillar is an answer to the question: “What's standing between the people of VA-10 and their American Dream right now, and how do we remove it?” LEARN MORE ABOUT DAVE'S PLATFORM learn about dave’s specific plans for VA-10 READ MORE READ MORE BLOG Virginia’s energy crisis: Data centers, dominion, or Policy decisions - who’s to blame?
+In northern Virginia, we've watched this story unfold.
+Data centers have gone from a blessing to a curse.
+At first, tax revenue helped lower property taxes and fund our schools.
+But now, there's a data center on every corner, massive transmission line projects looming over our schools and neighborhood, and energy bills that are steadily creeping up.
+We're facing serious impacts on our quality of life.
+My view has always been that our district has done more than its fair share in hosting these data centers, and it’s time to start putting them outside our district.
+But data centers are only half the story.
+Read more → Unlocking the housing market in VA-10 There are two housing stories playing out across VA-10 right now.
 We are seeing two different situations happening to two different generations at the same time.
 I have three policies I plan to fight for in Congress that work together to unlock the housing market in VA-10.
 Read more → Why am I running for Congress in VA-10?

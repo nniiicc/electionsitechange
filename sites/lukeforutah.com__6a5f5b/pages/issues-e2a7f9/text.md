@@ -25,4 +25,8 @@ Transparency and Fair Elections Leadership That Listens and Acts Good policy sta
 As a County Council member, I’ve held listening town halls and community conversations.
 I will continue creating opportunities for citizens to be heard and involved.
 I’m ready to take our values and local experience to the state level—to serve families today and future generations.
-Site Navigation Home About Issues & Priorities Record & Results Contact Donate Connect Copyright # Paid for by Friends of Luke Searle
+Luke helped turn a #M bond into #M+ in protected open space, including in the North Fields.
+Luke has pushed back on projects that overwhelm our roads, water, and neighborhoods.
+Luke will keep decisions local and oppose mandates ( SB 258 ) that take development decisions away from our cities and counties.
+Luke will continue protecting working farms and ranches and safeguarding our aquifers and water resources.
+Preserve Our Open Spaces: Site Navigation Home About Issues & Priorities Record & Results Contact Donate Connect Copyright # Paid for by Friends of Luke Searle

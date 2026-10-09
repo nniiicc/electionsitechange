@@ -1,0 +1,17 @@
+Dr.
+Chao Wu Maryland State Delegate, D9A Widgets Search Skip to content Menu News Update Donate Meet Delegate Chao Wu Delegate Wu Legislative Scholarship Constituent Service Delegate Wu Legislative Bills Delegate Office Hour (Meet and Greet) 2026 HoCo Candidates Search the blog Search for: Top Posts Proposal of East Coast Infrastructure Investment Bank (ECIIB) High School 13 school boundary Judge William Tucker Pre-Submission Meeting Minutes for Erickson Senior Living at Clarksville BGE issue and rate increase request again Federal Internship Opportunities Join CA's China Sister City Planning Committee now $150 Cash Refunds for Instacart Workers that made deliveries in DC The Flaws in the Modern Education System: How Can We Address Them?
+(By Pio Kim, May 2024) Petition to Keep USDA BARC in Maryland Gallery Categories Categories Select Category African American (3) AI (1) APFO (3) Asian American (15) B: My articles (2) Baltimore Sun (5) Board Corner (1) board member report (4) BOE (108) budget (3) CAPA (9) CAPAOfHC (4) ChaoWu (837) Chinese American (4) Clarksville (19) Columbia (18) Columbia Association (201) Columbia Flier (4) Culture (4) Education (48) EnglishArticles (1) HCC (1) HCPSS (226) HCPSS audit (2) HoCo County Council (1) Howard County (206) HS13 (1) JROTC (1) MABE (1) Maryland (16) Merriweather Noise (1) NPR (1) OBRC (1) redistricting (13) RHHS (1) River Hill (78) SAAC (1) SAT (1) SisterCity (1) STEM (2) Symphony Woods (6) Tech (3) TheVillager (36) Uncategorized (6) USA (46) WisdomOfDay (2) World Language (2) Authorized by Friends to Elect Chao Wu, Treasurer: Xia Chen Visitor Cluster Search for: internship Federal Internship Opportunities 31 Dec 2022 Chao Wu Federal Internship Opportunities Launching in January 2023, The Federal Internship Portal is a new internship opportunities page on USAJOBS (intern.usajobs.gov) that will serve as a one-stop shop for #internship postings across the federal government, allowing prospective interns to easily find #opportunities at any agency.
+If you or someone you know is looking for an internship at a federal agency, keep an eye out this #newyear!
+More details coming soon! federal internship APL high school internship opportunity 16 Feb 2021 Chao Wu You have two more weeks to apply for the 2021 summer ASPIRE high school internship !
+The application remains open until 11:59pm ET, February 28th .
+ASPIRE is JHU APL’s unpaid, hands-on, learning-based internship that provides high school juniors and seniors with the opportunity to explore careers in science, technology, engineering, and mathematics.
+ASPIRE’s experiential and educational nature is designed to give students a chance to see inside the STEM industry.
+High school junior or senior during program participation.
+Students applying to the summer program should be going into their junior or senior year.
+Students must be at least 15 years of age by the start date of the session to which they are applying.
+This year, we have made some significant changes to ASPIRE, including: Expanded opportunities for students residing more than 30 miles away Virtual, hybrid, and in-person internship opportunities ( if circumstances allow ) And more!
+To learn more about this exciting opportunity (which is completely free!), as well as view our full eligibility requirements, please visit our website.
+Please direct any questions to Jessica Goodard at ASPIRE@jhuapl.edu .
+APL internship Loading Comments...
+Write a Comment...
+Email Name Website

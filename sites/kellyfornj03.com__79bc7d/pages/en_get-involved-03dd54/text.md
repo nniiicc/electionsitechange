@@ -13,7 +13,7 @@ You don’t need political experience.
 If you want to help, we’d like to hear from you.
 Volunteer Spotlight Meet some of the people who have given their time to support our campaign.
 We’re grateful to every volunteer helping us connect with communities across NJ-03.
-Rachel Lisa Scott Christian Volunteer with us Request a yard sign Want to show your support in your neighborhood?
+Rachel Lisa Scott Christian Ian Alex Volunteer with us Request a yard sign Want to show your support in your neighborhood?
 Yard signs are available to supporters across NJ-03.
 Submit a request and the campaign will follow up to coordinate delivery or another convenient way to get your sign.
 Request a yard sign Campaign shirts & materials We also have campaign shirts, mugs, and other materials available from time to time for volunteers and at campaign and community events throughout NJ-03.

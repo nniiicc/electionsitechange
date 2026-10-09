@@ -1,9 +1,13 @@
 {
  "description": "Mike Deering is a commonsense conservative running for Missouri State Senate. Faith, family, freedom, and results.",
  "final_url": "https://deeringformo.com/",
- "fingerprint": "aed04733f549812bec81c004da58ebc8ae0e982b",
+ "fingerprint": "f630c44a334729c0c88a9c3ac3e06a8621798f38",
  "format": 3,
- "paid_for_by": "",
- "title": "Mike Deering for Missouri State Senate",
- "years_mentioned": []
+ "paid_for_by": "Paid for by Friends of Mike Deering, Meagan Kaiser, Treasurer",
+ "rendered": true,
+ "title": "Mike Deering for Missouri State Senate (District 10)",
+ "years_mentioned": [
+  "2012",
+  "2024"
+ ]
 }

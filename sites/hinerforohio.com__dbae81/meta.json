@@ -1,9 +1,12 @@
 {
  "description": "Mark Hiner for Ohio. Mark Hiner is running for Ohio State Representative for district 98 including Coshocton, Holmes and Eastern Knox counties.",
  "final_url": "https://hinerforohio.com/",
- "fingerprint": "6662ba633d14605f013a394b515a5dbb5a96026e",
+ "fingerprint": "44d4f8d35ece6fb5eb5d7aac490b3671c852002c",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Hiner For Ohio Follow me!",
+ "rendered": true,
  "title": "Mark Hiner for Ohio State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

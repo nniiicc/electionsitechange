@@ -1,4 +1,5 @@
-0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE First Church’s Rev.
+2026 Legislator of the Year Kristin Kassner Named Legislator of the Year by the Massachusetts Municipal Lawyers Association The lawyers who represent Massachusetts cities and towns honored Kristin for fighting to bring our communities more state aid and better tools to plan for the future.
+Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE First Church’s Rev.
 Rebecca Pugh Honored with Pride Award News Jun 30 Written By Kristin Kassner BOSTON, MA — Rev.
 Dr.
 Rebecca Pugh, senior minister of the First Church of Ipswich, was honored at the State House on Wednesday, June 17, as a recipient of the inaugural Commonwealth Pride Award.

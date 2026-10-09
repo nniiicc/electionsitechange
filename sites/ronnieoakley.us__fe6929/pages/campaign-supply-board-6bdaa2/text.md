@@ -1,4 +1,4 @@
-Skip to content Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Campaign Supply Board Contact DONATE DONATE Help Power a Grassroots Campaign We’re running this campaign hands-on and on a shoestring budget.
+Skip to content Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Endorsements Campaign Supply Board Contact DONATE DONATE Help Power a Grassroots Campaign We’re running this campaign hands-on and on a shoestring budget.
 We’re making our own signs, printing our own materials, and stretching every dollar as far as we can.
 This board shows exactly what the campaign needs, what we already have, and what has been covered.
 If you’d like to help, you can choose something specific from the list below.
@@ -32,4 +32,4 @@ Occupation * Examples: teacher, nurse, retired, homemaker, self-employed.
 Employer or Business Affiliation * If self-employed, enter your business name.
 If retired, unemployed, or not applicable, enter N/A.
 Campaign Contribution Acknowledgment * I understand that supplies or gift cards I provide to the campaign may be treated as an in-kind campaign contribution and that the information I provide may be used for campaign-finance recordkeeping and reporting.
-Tell the Campaign What I Sent Privacy Policy © # Ronnie Oakley for District 39 | Paid for by Oakley, Ronnie Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Toggle child menu Campaign Supply Board Contact
+Tell the Campaign What I Sent Privacy Policy © # Ronnie Oakley for District 39 | Paid for by Oakley, Ronnie Home Meet Ronnie Why I’m Running Issues & Priorities District 39 News Get Involved Toggle child menu Endorsements Campaign Supply Board Contact

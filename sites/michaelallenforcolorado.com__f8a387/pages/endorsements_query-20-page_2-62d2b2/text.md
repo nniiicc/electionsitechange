@@ -1,4 +1,7 @@
-Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements Colorado Congressman Jeff Hurd “Crime in Colorado is contributing to our higher cost of living.
+Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for AG Endorsements Michael Allen for AG Endorsements Colorado Congressman Gabe Evans “Crime affects everyone.
+It is contributing to higher costs that are hurting Colorado families.
+Michael Allen has proven himself as a tough prosecutor who gets justice.
+He is exactly the change we need in the Attorney General’s office to combat crime in Colorado.” Colorado Congressman Jeff Hurd “Crime in Colorado is contributing to our higher cost of living.
 Michael Allen has the experience as a tough District Attorney to bring the change we need in Colorado.
 Please join me in supporting Michael Allen for Attorney General.” State Senator Mark Baisley “Michael Allen has been on the front lines fighting to protect our communities and our children from the scourge of fentanyl and deadly drugs pouring across our southern border.
 As a District Attorney, he has real courtroom experience and a proven record of putting the worst criminals behind bars so they can’t hurt Colorado families.
@@ -21,7 +24,6 @@ Michael Allen has done exactly that throughout his career, and he’ll do the sa
 Join me in supporting Michael Allen for Attorney General.” Retired Arapahoe County Sheriff David Walcher “I’ve spent my career in law enforcement, and I know what it takes to keep communities safe – Michael Allen has done that job and done it well.
 He has the experience, the backbone, and the record of putting dangerous criminals behind bars.
 This is a winnable race, but only if we nominate someone who can both stand up to the Democrats and win statewide – and Michael Allen is that candidate.
-Colorado needs a prosecutor as Attorney General, not another politician.” Archuleta County Sheriff Mike Le Roux “Michael doesn’t view Law Enforcement as a ‘problem to be managed.’ He views us as the primary line of defense for Colorado citizens.
-He has spent his career successfully building bridges and developing partnerships with elected officials, local agencies and departments, and is committed to ensuring that the Attorney General’s Office serves as a resource, not an obstacle.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
+Colorado needs a prosecutor as Attorney General, not another politician.” Previous Page 1 2 3 4 5 Next Page Paid for by Michael Allen for Colorado; Registered Agent Katie Kennedy Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Navy or the Department of Defense.
 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Facebook X Instagram Donate

@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Faith × In our communities, faith isn't a talking point used to score political points.
+Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Montana Common Sense Faith × In our communities, faith isn't a talking point used to score political points.
 It is a quiet, foundational cornerstone of daily life.
 It's woven into how we raise our families, how we look out for our neighbors, and how we keep ourselves grounded through the toughest seasons.
 Ultimately, Montanans want something very simple when it comes to our beliefs: we want to be left alone to practice our faith as we see fit.

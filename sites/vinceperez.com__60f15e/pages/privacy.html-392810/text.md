@@ -1,4 +1,4 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Legal Campaign Privacy Policy This policy is published by the Vince Perez Campaign , the campaign committee for Vince Perez, State Representative for Texas House District 77.
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate Legal Campaign Privacy Policy This policy is published by the Vince Perez Campaign , the campaign committee for Vince Perez, State Representative for Texas House District 77.
 Jorge Perez, Treasurer.
 PO Box 71309, El Paso, TX 79917 · info@vinceperez.com .
 References below to “this campaign,” “we,” “us” and “our” mean the Vince Perez Campaign.
@@ -66,7 +66,7 @@ Campaign Texting Policy By providing your telephone number to the campaign, you 
 Messaging fees may apply.
 You can opt out at any time by replying STOP.
 Read our Terms of Service .
-Last update: July 10, 2023 Terms of Service Get Involved VINCE PEREZ Fighting for Texas.
+Last update: July 10, 2023 Terms of Service Get Involved Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

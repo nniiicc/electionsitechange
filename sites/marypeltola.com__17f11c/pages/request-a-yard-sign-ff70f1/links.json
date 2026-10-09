@@ -1,47 +1,55 @@
 [
 {
-"text": "Affordability",
-"href": "https://marypeltola.com/affordability/"
+"text": "$#",
+"href": "https://marypeltola.com/donate?amount=100&express_lane=true"
 },
 {
-"text": "CALL FOR ARTISTS",
+"text": "$#",
+"href": "https://marypeltola.com/donate?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://marypeltola.com/donate?amount=250&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://marypeltola.com/donate?amount=5&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://marypeltola.com/donate?amount=50&express_lane=true"
+},
+{
+"text": "Affordability",
+"href": "https://marypeltola.com/priorities/affordability/"
+},
+{
+"text": "Call for Artists",
 "href": "https://marypeltola.com/call-for-artists/"
 },
 {
-"text": "CONTACT",
+"text": "Contact",
 "href": "https://marypeltola.com/contact/"
 },
 {
-"text": "DONATE",
-"href": "https://secure.actblue.com/donate/mp-web"
-},
-{
 "text": "Donate",
-"href": "https://secure.actblue.com/donate/mp-web"
+"href": "https://marypeltola.com/donate"
 },
 {
 "text": "Energy",
-"href": "https://marypeltola.com/energy/"
+"href": "https://marypeltola.com/priorities/energy/"
 },
 {
 "text": "Events",
-"href": "https://www.mobilize.us/alaskafirst/"
-},
-{
-"text": "Facebook-f",
-"href": "https://www.facebook.com/marypeltola"
+"href": "https://marypeltola.com/events"
 },
 {
 "text": "Fish",
-"href": "https://marypeltola.com/fish/"
+"href": "https://marypeltola.com/priorities/fisheries/"
 },
 {
 "text": "Fixing the Rigged System",
-"href": "https://marypeltola.com/fixing-system/"
-},
-{
-"text": "GET INVOLVED",
-"href": "https://marypeltola.com/#involved"
+"href": "https://marypeltola.com/priorities/fixing-the-rigged-system/"
 },
 {
 "text": "Get Involved",
@@ -49,31 +57,23 @@
 },
 {
 "text": "In the News",
-"href": "https://marypeltola.com/in-the-news/"
-},
-{
-"text": "Instagram",
-"href": "https://www.instagram.com/marypeltola/"
+"href": "https://marypeltola.com/press/in-the-news/"
 },
 {
 "text": "Jobs",
 "href": "https://marypeltola.com/jobs/"
 },
 {
-"text": "MAKE A DONATION",
-"href": "https://secure.actblue.com/donate/mp-web"
-},
-{
 "text": "My Story",
 "href": "https://marypeltola.com/story/"
 },
 {
-"text": "PRIVACY POLICY",
-"href": "https://marypeltola.com/privacy-policy/"
+"text": "Newsletter",
+"href": "https://marypeltola.com/newsletter/"
 },
 {
-"text": "Press",
-"href": "https://marypeltola.com/in-the-news/"
+"text": "Other",
+"href": "https://marypeltola.com/donate"
 },
 {
 "text": "Press",
@@ -81,58 +81,66 @@
 },
 {
 "text": "Press Releases",
-"href": "https://marypeltola.com/press/"
+"href": "https://marypeltola.com/press/releases/"
+},
+{
+"text": "Priorities",
+"href": "https://marypeltola.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://marypeltola.com/privacy-policy/"
 },
 {
 "text": "Request a Yard Sign",
 "href": "https://marypeltola.com/request-a-yard-sign/"
 },
 {
-"text": "SALMON RUN",
+"text": "Salmon Run",
 "href": "https://salmonrun.marypeltola.com/"
 },
 {
-"text": "STORE",
+"text": "Store",
 "href": "https://store.marypeltola.com/"
 },
 {
-"text": "Threads",
-"href": "https://www.threads.com/@marypeltola"
-},
-{
-"text": "Tiktok",
-"href": "https://www.tiktok.com/@mary_peltola"
-},
-{
 "text": "Veterans & Servicemembers",
-"href": "https://marypeltola.com/veterans/"
+"href": "https://marypeltola.com/priorities/veterans/"
 },
 {
 "text": "Volunteer",
-"href": "https://act.marypeltola.com/signup/mary-alaska-volunteer/"
-},
-{
-"text": "X-twitter",
-"href": "https://x.com/MaryPeltola"
+"href": "https://marypeltola.com/volunteer"
 },
 {
 "text": "[email protected]",
-"href": "https://marypeltola.com/cdn-cgi/l/email-protection"
-},
-{
-"text": "[image]",
-"href": "https://marypeltola.com"
-},
-{
-"text": "[image]",
-"href": "https://marypeltola.com/"
-},
-{
-"text": "[image]",
-"href": "https://marypeltola.com/splash/"
+"href": "mailto:press@marypeltola.com"
 },
 {
 "text": "[no text]",
+"href": "https://marypeltola.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
 "href": "https://bsky.app/profile/marypeltola.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/marypeltola"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/marypeltola/"
+},
+{
+"text": "[tooltip: Threads]",
+"href": "https://www.threads.com/@marypeltola"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@mary_peltola"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/MaryPeltola"
 }
 ]

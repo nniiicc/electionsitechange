@@ -1,6 +1,6 @@
-Skip navigation menu Home About Endorsements News Events Volunteer Contact Texas House District 106 Donate Texans together to change Texas!
+Skip navigation menu About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate Texans together to change Texas!
 Join team Joe!
-Home About Endorsements News Events Volunteer Contact Texas House District 106 Donate Texans together to change Texas!
+About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate Texans together to change Texas!
 Join team Joe!
 Sign up to Get Involved Making changes to create the Texas we deserve takes team work.
 I need your help to get to the state house and start making the changes necessary to return Texas to Texans.

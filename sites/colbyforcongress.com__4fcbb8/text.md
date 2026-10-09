@@ -1,4 +1,5 @@
-top of page VOTER INFO DONATE Home Meet Colby Issues Housing Economy Healthcare Corruption, Integrity, Accountability Education and Strong Schools Safe Communities Veterans Border & Immigration Foreign Policy Rights, Liberty, Freedoms Data Centers & AI Energy & Enviroment Events More Contact News More Use tab to navigate through the menu items. press to zoom press to zoom press to zoom press to zoom 1/8 RESTORE TRUST REBUILD OPPORTUNITY My Commitments I will not accept money from lobbyists who represent corporate or foreign interest.
+top of page VOTER INFO DONATE Home Meet Colby Issues Housing Economy Healthcare Corruption, Integrity, Accountability Education and Strong Schools Safe Communities Veterans Border & Immigration Foreign Policy Rights, Liberty, Freedoms Data Centers & AI Energy & Enviroment Events More Contact News More Use tab to navigate through the menu items.
+1/8 RESTORE TRUST REBUILD OPPORTUNITY My Commitments I will not accept money from lobbyists who represent corporate or foreign interest.
 I will never buy sell or trade stocks while holding office.
 My loyalty belongs to the American people always.
 Colby's Core Causes Housing Homeownership remains a cornerstone of the American dream and one of the surest paths to long-term financial stability and generational wealth.

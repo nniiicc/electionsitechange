@@ -1,9 +1,10 @@
 {
  "description": "Get the latest news from the Jamie Kiel Campaign for Alabama State Representative for District 18. Stay up to date and learn how you can get involved.",
  "final_url": "https://jamiekiel.com/news/",
- "fingerprint": "48963b95520248106edec7215e0cb72dc61aca0c",
+ "fingerprint": "a83de427ec9795d759270594501084c8f9e90014",
  "format": 3,
  "paid_for_by": "sponsored by Sen",
+ "rendered": false,
  "title": "News - Jamie Kiel for State Representative",
  "years_mentioned": [
   "2017",

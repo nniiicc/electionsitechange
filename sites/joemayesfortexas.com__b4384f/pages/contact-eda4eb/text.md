@@ -1,5 +1,5 @@
-Skip navigation menu Home About Endorsements News Events Volunteer Contact Texas House District 106 Donate Let Joe know what's on your mind!
-Home About Endorsements News Events Volunteer Contact Texas House District 106 Donate Let Joe know what's on your mind!
+Skip navigation menu About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate Let Joe know what's on your mind!
+About Issues Endorsements News Events Volunteer Contact Texas House District 106 Donate Let Joe know what's on your mind!
 What's on your Mind?
 We value transparency and we walk that talk.
 You can contact Joe Mayes for Texas campaign here and we'll get back to you as quickly as possible.

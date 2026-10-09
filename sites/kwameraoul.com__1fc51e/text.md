@@ -6,9 +6,9 @@ Ut enim Lorem Ipsum Dolor Lorem ipsum dolor sit amet, consectetur adipisicing el
 Lorem Ipsum Dolor Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Lorem Ipsum Dolor Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Read More Recent News K.
+Raoul | 10/08/26 Editorial: Tribune Endorses Kwame Raoul "In our view, Raoul has been stellar during a challenging period for...
+Read More K.
 Raoul | 10/14/22 Editorial: For Illinois attorney general, the clear choice is Kwame Raoul Nine sitting or recent members of the Illinois General Assembly have been charged with...
 Read More K.
-Raoul | 10/13/22 Endorsement: Kwame Raoul for attorney general Read More K.
-Raoul | 09/28/22 Illinois takes Equal Rights Amendment to appeals court SPRINGFIELD -- Attorneys for the state of Illinois joined...
-Read More Read More News Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
+Raoul | 10/13/22 Endorsement: Kwame Raoul for attorney general Read More Read More News Stay Up-to-Date Privacy Policy Copyright Kwame Raoul #, All Rights Reserved.
 Paid for by Raoul for Illinois Get Involved

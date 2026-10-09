@@ -11,4 +11,4 @@ Because of this new law, honorably discharged National Guard and reserve members
 The least we can do is finish that chapter for them,” Senator Putnam continued.
 “Together, these laws reflect a session focused on making sure Minnesota’s veterans and service members are recognized and honored for their service, in life and after.” ← All press releases Posted in Press releases Post navigation Senator Putnam Appointed to Legislative Inspector General Advisory Commission St.
 Cloud Live: “Putnam named to commission to identify candidates for Inspector General” PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

@@ -24,4 +24,4 @@ Residents should be able to understand how decisions are made, how public funds 
 With recent audits across several state agencies, 1.2 billion dollars is unaccounted for, and taxpayers should be concerned.
 Findings in the audits have occurred year after year, and an Inspector General would help mitigate this problem.
 Stay Informed Subscribe to our newsletter for updates and campaign news.
-Subscribe Home | About | Issues | News | Photos | Contact | Donate | FB AUTHORITY: THIAM FOR DELEGATE, CYNTHIA PRICE, TREASURER. © # Thiam For State Delegate District 2B Hagerstown, Maryland Website by DH WEB, Inc. dhwebsites.com
+Subscribe Home | About | Issues | News | Photos | Contact | Donate | FB AUTHORITY: THIAM FOR STATE DELEGATE, CYNTHIA PRICE, TREASURER. © # Thiam For State Delegate District 2B Hagerstown, Maryland Website by DH WEB, Inc. dhwebsites.com

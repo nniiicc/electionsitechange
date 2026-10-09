@@ -35,8 +35,5 @@ Reply Gail Buffington says: August 18, 2022 at 2:20 pm The problems with carbon 
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
 Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
 Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts Occupational licensing Occupational licensing – Iowa government run amok?
-Obscene books If the Supreme Court can’t define obscenity, why would you think I can?
-Ethanol Ethanol may be a good idea.
-And it may not be.
-National Guard The Iowa National Guard has a proud history dating back to 1838 Prev Previous 2nd Amendment Next Education Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
+Education Children learn best when they have great teachers End the Drug War America’s second civil war needs to end Local control of local issues Centralized government leads to less customer satisfaction and sometimes it leads to tyranny, as with Vladimir Putin Prev Previous 2nd Amendment Next Education Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
 The First Choice for Iowa Governor All Rights Reserved

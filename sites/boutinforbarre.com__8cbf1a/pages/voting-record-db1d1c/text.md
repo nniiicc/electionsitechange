@@ -4,82 +4,91 @@ There are a lot of bills that were "roll called".
 If you click the link below, you can go to my legislative page to review my votes.
 Under that button are a few votes I think are important to Barre City.
 If you want more information on a specific vote, email me or call me.
-My contact information is at the bottom of the page our you can send me a message on the "Get Involved" tab above.
+My contact information is at the bottom of the page or you can send me a message on the "Get Involved" tab above.
 I will be adding more in.
 View my official voting record Public Safety These bills primarily focused on public safety laws here in Vermont.
-H.2 An act relating to increasing the minimum age for delinquency proceedings H.642 An act relating to youthful offender proceedings(Boutin Amendment) I voted yes on both amendments.
-I grouped them together because the amendments were basically the same issue.
-It was regarding the "Raise the Age" law that is supposed to go into effect.
-I do not support the laws that say adults should automatically be charged in family court.
-I voted yes to end raise the age and to bring accountability to young adults.
-If this had passed young adults could still go through family court but it would have been a judges decision verse them automatically being treated as a minor.
-H.642 An act relating to youthful offender proceedings(Maguire Amendment) I supported this amendment because it would have required courts to put public safety at the center of youthful offender decisions, particularly in cases involving violence, firearms, repeat offenses, and violations of release conditions.
-It also expanded the list of serious crimes that could be transferred out of Family Court and strengthened consequences for offenders who fail to comply with probation or treatment requirements.
-At the same time, it preserved opportunities for rehabilitation for young people who are willing and able to turn their lives around, striking a better balance between accountability and second chances.
-There are two votes associated with this bill.
-When the bill came on the floor it had funding for the safe injection site in Burlington.
-It was going to allocate an additional $1,100,000 to the safe injection site.
-The Republicans asked that the question be divided.
-So the first vote as to whether or not to fund the safe injection site, got a no vote from me.
-As for passing the underlying bill I voted yes because there were some good allocations in the bill.
-Nevertheless we took a stand against safe injection sites.
-The next year, the funding for the safe injection site was stripped out.
-Which was a huge victory.
-H.218 An act relating to fiscal year 2026 appropriations from the Opioid Abatement Special Fund S.
-209 - An act relating to prohibiting civil arrest in sensitive locations I voted NO on S.209, which expands protections against civil arrests at a wide range of “sensitive locations.” While the public discussion has largely focused on ICE and immigration enforcement, the bill is broader than that and could also affect local law enforcement.
-After reviewing the bill and speaking with rank-and-file Barre City officers, I had serious concerns about creating confusion, exposing officers to additional legal risk, and the federal supremacy issues involved when a state attempts to restrict federal enforcement.
-I am pro-police, and I believe we should listen to the officers who actually have to enforce the laws we pass.
-When officers I trust tell me a bill could make their jobs more difficult and expose them to lawsuits, I take that seriously.
-S.
-208 - An act relating to standards for law enforcement identification I voted NO on S.208, which requires the creation of a statewide policy governing law enforcement identification and the wearing of facial coverings.
-Before voting, I reached out to a rank-and-file law enforcement officer I trust to get his perspective.
-He raised concerns that these requirements could make officers’ jobs more difficult.
-I believe we should listen to the people who actually have to work under the laws we pass.
-Based on those concerns, I voted NO.
-I also have to point out that this was spurred due to national politics and virtue signaling feels good in the moment but it can have negative impacts.
+H.2 and H.642 — Raise the Age (Amendments) I voted yes on both amendments and grouped them together because they addressed essentially the same issue: Vermont's "Raise the Age" law.
+Currently, 18-year-olds can have their cases handled in family court, and I have no issue with that.
+However, the law is scheduled to expand to include 19-year-olds in July 2027 unless the Legislature intervenes.
+I do not believe our family court system has the capacity to handle an expansion to 19-year-olds.
+At some point, we need to acknowledge that adults must be held accountable for their actions.
+I supported stopping the expansion of Raise the Age.
+Under the approach I supported, young adults could still have their cases heard in family court, but it would be a judge's decision rather than happening automatically based on their age.
+H.642 — Youthful Offender Proceedings (Amendment) I supported this amendment because I believe public safety and accountability need to be important considerations when dealing with youthful offenders, particularly those involved in violent crimes, firearms offenses, or repeated criminal activity.
+The amendment would have strengthened the ability of courts to address serious offenses and hold young people accountable when they violate the conditions of their release, probation, or treatment.
+I believe in giving young people a second chance and an opportunity to turn their lives around.
+However, that opportunity needs to come with responsibility.
+We need to protect the public while still allowing rehabilitation for those who are willing to make the effort.
+There were two votes associated with this bill, and I want to explain why I voted differently on each.
+When H.218 came to the House floor, it included $1.1 million in funding for Burlington's proposed safe injection site.
+Republicans requested that the question be divided so legislators could vote separately on that funding.
+I voted NO because I do not support using opioid settlement funds for safe injection sites.
+I voted YES on the underlying bill because it included other worthwhile investments in substance abuse prevention, treatment, and recovery.
+I did not believe those programs should lose funding simply because I disagreed with one provision.
+My position is that we should focus our resources on helping people overcome addiction and get their lives back on track rather than funding places where illegal drugs can be consumed.
+H.218 — Opioid Abatement Fund / Safe Injection Site Funding S.209 — Civil Arrests in Sensitive Locations I voted NO on S.209, which expands protections against civil arrests at a wide range of "sensitive locations." While much of the discussion surrounding this bill focused on ICE and immigration enforcement, my concerns went beyond that.
+After reviewing the legislation and speaking with Barre City police, I was concerned about the potential impact on local law enforcement, including confusion over enforcement responsibilities and additional legal liability.
+I also had concerns about the Supremacy Clause of the U.S.
+Constitution and whether Vermont has the authority to restrict federal officers carrying out their lawful duties.
+I am pro-police, and I believe we need to listen to the officers who actually have to work under the laws we pass.
+When officers I trust tell me legislation could make their jobs more difficult or expose them to lawsuits, I take those concerns seriously.
+That was the basis for my NO vote.
+S.208 — Law Enforcement Identification I voted NO on S.208, which would require a statewide policy governing law enforcement identification and the wearing of facial coverings.
+Before voting, I reached out to our law enforcement officers.
+They raised concerns that these requirements could make an already difficult job even harder.
+In my view, this legislation was largely a political response to concerns about ICE and federal immigration enforcement.
+I understand those concerns, but I don't believe it is fair to place additional burdens on our local law enforcement officers because of the actions of federal agencies.
+I also have concerns about the Supremacy Clause of the U.S.
+Constitution.
+To the extent Vermont attempts to impose requirements on federal officers performing their federal duties, there are legitimate questions about whether the state has the constitutional authority to do so.
+I believe we should listen to the officers who actually have to work under the laws we pass.
+Between the practical concerns raised by law enforcement and the potential constitutional issues, I could not support this legislation.
 Homelessness These bills primarily focused on bills that dealt with homelessness.
-H.141 - An act relating to fiscal year 2025 budget adjustments I voted against this because of the continued expansion of the General Assistance Housing Program.
-I did not and do not believe the hotel/motel model adequately addresses the root causes of homelessness.
-While emergency shelter has a role, Vermont has spent millions on a system that has produced limited long-term results and too often fails to connect people with the mental health, substance abuse, and recovery services they need.
-I also note that I am additionally concerned that we dump funds into non-profits designed to help with homelessness, yet we see no marketable benefit.
-H.91 - An act relating to the Vermont Homeless Emergency Assistance and Responsive Transition to Housing Program I voted yes on this bill twice.
-Not because I was super excited about what it was doing.
-Rather it was because it was not perpetuating the hotel/motel problem.
-This bill attempted to change how we provide shelter for people experiencing homelessness.
-It basically put the Capstone agencies in charge of it.
-Ultimately this bill was vetoed.
-I supported this bill because it begins moving Vermont away from the failed hotel/motel model and toward a system focused on housing, treatment, accountability, and long-term stability.
-The bill requires case management, creates clearer expectations for participants, expands shelter options, and puts guardrails around motel usage.
-It's not perfect, but it's a significant improvement over simply paying for hotel rooms without a clear path forward.
-H.938 - An act relating to establishing the Vermont Homelessness Response Continuum Government Spending These bills primarily focused on bills that dealt with government usage of funds.
-H.944 — Transportation Bill: Local Options Tax / PILOT Fund Amendment I voted no on the House Ways and Means amendment to the Transportation Bill because it removed a proposal to use surplus local-options-tax PILOT funds for municipal roads.
-Barre City collects a #% local options tax.
-After the state meets its PILOT obligations to communities hosting state property, the fund has built up a surplus.
-The original proposal would have put some of that money toward roads, bridges, and local infrastructure—including needs in Barre City.
-Fortunately, the Senate restored the concept.
-The final bill provided $# million in additional town highway aid and created a way to direct future PILOT surpluses toward local transportation projects.
-H.949 — Full Property Tax Buydown Amendment I voted for Rep.
-Patricia McCoy’s amendment to use the full $105 million Governor Scott proposed for property-tax relief in FY2027.
-The underlying bill split that money between this year and next year.
-This amendment would have applied the full amount now, lowering the homestead tax rate from $1.698 to $1.648 per $100 of assessed value and providing more immediate relief to taxpayers.
-Vermonters are being forced to make difficult decisions because of the cost of living here.
-For some, rising property taxes are making it harder to stay in the homes and communities they love.
-We need tax relief now.
-Unfortunately, the amendment failed, 56–84.
+H.141 — FY2025 Budget Adjustment I voted NO because I opposed the continued expansion of the General Assistance hotel/motel program.
+I do not believe this model adequately addresses the root causes of homelessness.
+Vermont has spent millions of dollars on a system that has produced limited long-term results.
+Emergency shelter has its place, but we need to do more than provide temporary rooms.
+We need to connect people with mental health care, substance abuse treatment, recovery services, and pathways to permanent housing.
+I also have concerns about the amount of taxpayer money going to nonprofit organizations without clear, measurable results.
+I believe we need greater accountability for how these funds are spent and whether they are actually helping people move out of homelessness.
+H.91 — Homeless Emergency Assistance and Transition to Housing I voted YES on this bill twice, not because I agreed with everything in it, but because it represented an attempt to change how Vermont responds to homelessness rather than simply continuing the hotel/motel program.
+The bill proposed moving toward a different system for providing emergency shelter and housing assistance, with a greater role for the organizations responsible for coordinating these services.
+I had concerns about some of the details, but I believed it was worth supporting an effort to move away from the existing model.
+Ultimately, the bill was vetoed.
+I supported H.938 because it begins moving Vermont away from relying so heavily on the hotel/motel program and toward a more coordinated approach focused on housing, treatment, accountability, and long-term stability.
+The legislation establishes clearer expectations for participants, emphasizes case management, expands shelter alternatives, and places limits on hotel/motel usage.
+I don't believe the legislation solves every problem, but I supported it because it creates a framework for helping people move toward stable housing rather than continuing to rely on temporary hotel rooms without a clear path forward.
+H.938 — Vermont Homelessness Response Continuum Government Spending These bills primarily focused on bills that dealt with government usage of funds.
+H.944 — Transportation Bill: Local Options Tax / PILOT Fund Amendment I voted NO on the House Ways and Means amendment because it removed a proposal that would have allowed surplus Local Options Tax PILOT funds to be used for municipal roads and infrastructure.
+Barre City collects a 1% local options tax.
+The state retains a portion of that revenue to fund payments to communities hosting state property.
+Over time, that fund has accumulated a surplus.
+The original proposal would have directed some of that surplus back toward local transportation projects, including roads and bridges in communities like Barre City.
+Fortunately, the Senate restored the concept, and the final transportation bill included an additional $3 million in town highway aid and a mechanism for using future PILOT surpluses for local transportation needs.
+H.949 — Full Property Tax Buydown Amendment I voted YES on Rep.
+Patricia McCoy's amendment to provide the full education property tax buydown proposed by Governor Phil Scott.
+The original proposal would have spread the available tax relief over two years.
+I believed Vermonters needed that relief immediately, rather than waiting another year.
+With property taxes and the cost of living continuing to rise, many Vermonters are struggling to afford their homes.
+When the state has money available to provide tax relief, I believe we should use it.
+Although the amendment initially failed, the full buydown was eventually included in the final legislation following continued efforts by Governor Scott's office.
+I was pleased to support providing that relief to Vermont taxpayers.
 Healthcare These bills primarily focused on bills that dealt with healthcare.
-H.190 — An act relating to reference-based pricing and the Green Mountain Care Board I voted NO on S.190.
-I support lowering hospital costs and using reference-based pricing, but there were concerns with how this bill distributed the savings.
-For 2027, it specifically targeted qualified health plans and school employee health plans rather than applying the savings broadly across all Vermonters who purchase health insurance.
-We need to bring healthcare costs down, but I believe reforms should benefit everyone paying into the system, not just certain insurance plans.
-Governor Scott eventually vetoed this bill.
-You can read the Governor's veto letter here: https://governor.vermont.gov/sites/scott/files/documents/S.190%20veto%20letter.pdf S.28 — An act relating to access to certain legally protected health care services I voted NO on S.28.
-Abortion rights are already protected in Vermont’s Constitution, so my vote was not about whether abortion should be legal.
-My concerns were about patient safety and free speech.
-S.28 allows Mifepristone and Misoprostol pills to be prescribed based on an online questionnaire without requiring an in-person, phone, or video consultation with the patient.
-Even the Vermont Board of Medical Practice opposed this portion of the bill, calling it substandard and unsafe.
-Not to mention that a minor can fill out a questionnaire and get those medications... all without any interaction with a medical professional.
+H.190 — Reference-Based Pricing and the Green Mountain Care Board I voted NO on S.190.
+I support efforts to lower hospital costs and make health care more affordable, including reference-based pricing.
+However, I had concerns about how the proposed savings would be distributed.
+For 2027, the legislation specifically targeted qualified health plans and school employee health plans rather than applying the savings more broadly to everyone purchasing health insurance.
+We need to bring health care costs down, but I believe reforms should benefit as many Vermonters as possible, not just certain insurance plans.
+Governor Scott ultimately vetoed the bill.
+You can read the Governor's veto letter here: https://governor.vermont.gov/sites/scott/files/documents/S.190%20veto%20letter.pdf S.28 — Access to Certain Legally Protected Health Care Services I voted NO on S.28.
+My vote was not about whether abortion should be legal.
+Abortion rights are already protected under Vermont's Constitution.
+My concerns were primarily about patient safety and free speech.
+The bill included a provision allowing Mifepristone and Misoprostol to be prescribed based solely on an online questionnaire, without a direct interaction between the patient and a medical professional.
+Even the Vermont Board of Medical Practice opposed this provision, expressing concerns that prescribing medication based on a questionnaire alone does not meet appropriate standards of care.
 I also had concerns about provisions regulating crisis pregnancy centers.
-Regardless of whether someone agrees with these organizations, I believe we need to be very careful when government regulates speech which includes advertising.
+Regardless of whether someone agrees with these organizations, I believe government needs to be careful when regulating speech, including advertising.
+For me, this vote was about maintaining appropriate medical safeguards and protecting constitutional rights, not restricting access to abortion.
 Proposed Constitutional Amendments There were two proposed constitutional amendments voted on this session.
 An amendment to our constitution is a serious matter and requires a four year process.
 They are started in the Senate as proposals.

@@ -12,4 +12,4 @@ I know what it feels like to navigate systems that weren’t built with us in mi
 Throughout my time in city government, I’ve worked to expand safe spaces for LGBTQ+ youth, celebrate our diversity through Pride events, and strengthen city protections against discrimination in housing, employment, and public services.
 I’m honored to have the support of the LGBTQ Caucus as we continue this work together.” Perea, a lifelong Central Valley resident, has served on the Fresno City Council and was unanimously elected Council President in 2024.
 Her work includes expanding affordable housing, advocating for equity in city contracting, and funding programs that support mental health, domestic violence prevention, and inclusive services for marginalized communities.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

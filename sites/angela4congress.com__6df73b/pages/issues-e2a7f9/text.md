@@ -1,4 +1,4 @@
-Skip navigation menu About Issues Endorsements Volunteer Donate About Issues Endorsements Volunteer Donate Description Get Money Out of Politics Abolish Super PACs and end the era of billionaires buying elections.
+Skip navigation menu About Issues Endorsements Volunteer Donate About Issues Endorsements Volunteer Donate Get Money Out of Politics Abolish Super PACs and end the era of billionaires buying elections.
 Democracy should answer to voters, not donors.
 Affordability For All Housing, healthcare, and education shouldn't be luxuries.
 Fight for costs working families can actually afford.

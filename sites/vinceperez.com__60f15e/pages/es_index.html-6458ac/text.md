@@ -1,4 +1,4 @@
-English VINCE PEREZ Distrito 77 de Texas · El Paso ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Distrito 77 · Ways & Means · Deputy Whip Luchando por Texas.
+English ☰ Inicio Conozca a Vince Historial Prioridades Participe Contacto Contribuya Distrito 77 · Ways & Means · Educación Superior Luchando por Texas.
 Cumpliendo por El Paso.
 El representante estatal Vince Perez representa a El Paso y forma parte del Comité de Medios y Arbitrios (Ways & Means), donde se toman las decisiones sobre los impuestos del estado.
 En 2025 rompió el quórum en contra de los mapas de redistritación, se reunió con el gobernador Newsom y volvió al pleno para pronunciar la refutación más difundida de HB 4.
@@ -43,7 +43,7 @@ El Paso merece un luchador que también cumpla.
 Agregue su nombre.
 Haga una contribución.
 Compártalo con un amigo.
-Haga una contribución Inscríbase para recibir noticias VINCE PEREZ Luchando por Texas.
+Haga una contribución Inscríbase para recibir noticias Luchando por Texas.
 Cumpliendo por El Paso.
 Representante estatal · Distrito 77 de la Cámara de Representantes de Texas · El Paso.
 Ways & Means.

@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Volunteer Home Issues Volunteer Support the Campaign Your contribution helps us fight for Montana values in House District 60.
+Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Home Issues Priorities for Montana Data Centers Volunteer Support the Campaign Your contribution helps us fight for Montana values in House District 60.
 An unfortunate fact of life is that campaigns run on money and not just good intentions.
 Your contribution will be greatly appreciated.
 Montana law limits individual contributions to $470 per election per person for this office.

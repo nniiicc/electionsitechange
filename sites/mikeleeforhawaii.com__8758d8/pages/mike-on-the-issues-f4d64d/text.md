@@ -1,4 +1,4 @@
-Skip to content Home Meet Mike Mike on the Issues Support for Mike Get Involved Donate Donate Home Meet Mike Mike on the Issues Support for Mike Get Involved Donate Donate Mike on the Issues Mahalo for taking the time to learn more about my highest priorities for improving the quality of life in Hawaiʻi for generations to come.
+Skip to content Home Meet Mike Get Involved Donate Donate Home Meet Mike Get Involved Donate Donate Mike on the Issues Mahalo for taking the time to learn more about my highest priorities for improving the quality of life in Hawaiʻi for generations to come.
 Keeping our neighborhoods safe Community residents deserve a place where our keiki and kūpuna can grow and age with security and peace .
 Many factors have led to heavy traffic, increased property damage, insufficient parking, and frequent disruptions in our neighborhoods.
 We need to work together with the local and state governments to reclaim our neighborhoods .
@@ -13,4 +13,4 @@ Overtourism is a complex problem that needs to be further explored with industry
 While we cannot decrease visitors’ interest in our community, we can change the way visitors think of their experience .
 We should work to educate them about their impact , provide alternative ways to engage in recreation, and promote regenerative and sustainable tourism .
 Friends of Mike Lee P.O.
-Box 1822 Kailua, HI 96734 info@mikeleeforhawaii.com Paid for by Friends of Mike Lee.
+Box 1822 Kailua, HI 96734 Paid for by Friends of Mike Lee.

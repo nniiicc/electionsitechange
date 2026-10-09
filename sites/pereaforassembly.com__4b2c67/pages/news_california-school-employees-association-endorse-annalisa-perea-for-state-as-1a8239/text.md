@@ -14,4 +14,4 @@ The California School Employees Association, founded in 1927, represents nearly 
 CSEA’s endorsement underscores Perea’s work to advance policies that benefit students, educators, and school staff.
 A lifelong resident of the Central Valley, Perea was unanimously elected President of the Fresno City Council in 2024, having previously served as a council member.
 Her work includes expanding affordable housing, advocating for equity in city contracting, and funding programs that support mental health and inclusive services for marginalized communities.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

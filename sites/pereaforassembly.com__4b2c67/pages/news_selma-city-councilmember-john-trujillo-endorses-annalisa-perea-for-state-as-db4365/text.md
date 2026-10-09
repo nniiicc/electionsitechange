@@ -14,4 +14,4 @@ I’m proud to endorse her for the State Assembly because I know she’ll fight 
 As Council President, she played a central role in moving forward critical projects without burdening local taxpayers.
 Born and raised in the Central Valley, Perea is the proud daughter and granddaughter of Mexican American farmworkers and railroad workers.
 Her campaign is grounded in her lived experience and a deep commitment to ensuring that every family in the Valley has access to opportunity, stability, and a better future.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

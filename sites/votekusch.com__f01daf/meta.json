@@ -1,9 +1,13 @@
 {
  "description": "Rep. Matthias Kusch for Hawaiʻi State House District 1. Affordable housing, education, healthcare. Let's get to work.",
  "final_url": "https://www.votekusch.com/",
- "fingerprint": "949b81daa7b1dc0e416b8cd61a3eafa584e57d44",
+ "fingerprint": "a7cc8e645a1440f2598dab62e02bb353c1b1bdbf",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Vote Kusch",
+ "rendered": true,
  "title": "Vote Kusch - Rep. Matthias Kusch for District 1",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

@@ -1,4 +1,4 @@
-Home About Priorities Endorsements Get Involved Donate Home About Priorities Endorsements Get Involved Donate Priorities Healthcare I’ve spent my career inside healthcare systems that put profits ahead of people.
+Home About Priorities Endorsements Postcards Get Involved Donate Home About Priorities Endorsements Postcards Get Involved Donate Priorities Healthcare I’ve spent my career inside healthcare systems that put profits ahead of people.
 I’ve watched families delay care, skip medications, and skip follow-up visits, simply because they were afraid of the bill.
 I believe healthcare is a human right, not a privilege reserved for those who can afford it.
 Ask anyone, from any political party, where they’d want to go if they were having a heart attack, stroke, or broken leg.

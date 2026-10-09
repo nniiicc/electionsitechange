@@ -16,4 +16,4 @@ That’s why we’re proud to stand with her in this race.” Perea holds a degr
 Her career in urban planning has been focused on building communities that are safe, walkable, and affordable — and she’s brought that same focus to her work on the Fresno City Council.
 As Council President in 2024, Perea successfully negotiated a long-stalled tax-sharing agreement with Fresno County that increased city revenues without raising taxes, unlocking new funding for services like emergency response and infrastructure.
 Councilmember Perea enters the race to succeed Assemblymember Joaquin Arambula, who is termed out in 2026.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

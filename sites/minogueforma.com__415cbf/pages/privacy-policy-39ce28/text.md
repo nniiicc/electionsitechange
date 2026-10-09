@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Donate Days since Maura Healey promised a gas-tax suspension: Days Hours Min Sec Demand Action!
-Home Meet Mike Meet Renee Blueprint for a Better Future In The News Get Involved Make a Plan to Vote Store Donate Privacy Policy Last Updated: August 11, 2026 Overview Welcome to the official web site (the “Site”) of Mike Minogue for Governor, https://minogueforma.com.
+Home Meet Mike Meet Renee Blueprint for a Better Future In The News Events Get Involved Make a Plan to Vote Store Donate Privacy Policy Last Updated: August 11, 2026 Overview Welcome to the official web site (the “Site”) of Mike Minogue for Governor, https://minogueforma.com.
 This Privacy Policy outlines our practices, and the practices of any of our affiliates who link to this Privacy Policy, for collection, use, and disclosure of your information that you provide to us when you use our Site and see or engage with our advertisements.
 By using this Site, you agree that your use of the Site is governed by this Privacy Policy and our Terms of Service.
 From time to time, we may update this Privacy Policy.

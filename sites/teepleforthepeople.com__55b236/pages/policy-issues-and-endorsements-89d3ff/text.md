@@ -25,15 +25,17 @@ This bill has just resulted in the first conviction under the new law and will s
 As the Lowcountry continues to grow, development must be balanced with the protection of our waterways, marshes, working lands, and open spaces.
 His record reflects a commitment to responsible growth, conservation education, stronger stewardship of public lands, and ensuring state agencies have the resources needed to protect South Carolina’s natural heritage.
 Conservation Voters of South Carolina awarded James a 106% rating for his 2025–2026 legislative record.* *Scores above 100% reflect a perfect voting record plus additional credit for sponsoring pro-conservation legislation.
-Endorsements Concerned Veterans for America Hollywood Town Councilman Brian Groveman Maj.
+Endorsements Concerned Veterans for America Hollywood Town Councilman Brian Groveman The South Carolina Education Association Maj.
 Gen.
 James Livingston Lt.
 Gen.
-Colby Broadwater Kirk Cameron Americans for Prosperity Stand for Health Freedom NRA-PVF Gun Owners of America PFFASC IAFF Sheriff Carl Ritchie Concerned Veterans for America Hollywood Town Councilman Brian Groveman Maj.
+Colby Broadwater Kirk Cameron Americans for Prosperity Stand for Health Freedom NRA-PVF St.
+Johns Firefighters Gun Owners of America PFFASC IAFF Sheriff Carl Ritchie Concerned Veterans for America Hollywood Town Councilman Brian Groveman The South Carolina Education Association Maj.
 Gen.
 James Livingston Lt.
 Gen.
-Colby Broadwater Kirk Cameron Americans for Prosperity Stand for Health Freedom NRA-PVF Gun Owners of America PFFASC IAFF Sheriff Carl Ritchie Conservation scorecard A perfect record for the Lowcountry 106% Conservation Voters of South Carolina score Scores above 100% reflect a perfect voting record plus additional credit for sponsoring pro-conservation legislation.
+Colby Broadwater Kirk Cameron Americans for Prosperity Stand for Health Freedom NRA-PVF St.
+Johns Firefighters Gun Owners of America PFFASC IAFF Sheriff Carl Ritchie Conservation scorecard A perfect record for the Lowcountry 106% Conservation Voters of South Carolina score Scores above 100% reflect a perfect voting record plus additional credit for sponsoring pro-conservation legislation.
 Please note: this is a legislative scorecard rating, not an endorsement.
 Conservation Voters of South Carolina has not endorsed this campaign.
 Help keep delivering results Donate Volunteer Fighting for lower taxes, less red tape, better roads and the first responders who keep South Carolina safe.

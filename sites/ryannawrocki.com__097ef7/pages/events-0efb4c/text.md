@@ -12,7 +12,7 @@ Help build the campaign with your support.
 Upcoming The calendar ahead.
 Nothing else on the books yet — check back soon, or join the campaign list to be the first to hear about town halls and community events.
 Join the List Recently Where we’ve been.
-MAY 28 2026 5:00 – 7:00 PM Fundraiser Brewery Fundraiser at Poole's Island Brewing Company Poole's Island Brewing Company — 11695 Crossroads Circle, Suite A, Middle River, MD 21220 Bring Ryan To Your Community Want Ryan at your event or meeting?
+OCT 8 2026 6:00 – 7:30 PM Fundraiser Fall Fundraiser with Friends of Ryan Nawrocki Casa Mia's White Marsh — 8601 Honeygo Boulevard, Nottingham, MD 21236 MAY 28 2026 5:00 – 7:00 PM Fundraiser Brewery Fundraiser at Poole's Island Brewing Company Poole's Island Brewing Company — 11695 Crossroads Circle, Suite A, Middle River, MD 21220 Bring Ryan To Your Community Want Ryan at your event or meeting?
 Just ask.
 Civic association meetings, business roundtables, parish events — the campaign is happy to send Ryan or a team member.
 Request an Appearance Contribute Help us keep fighting for Baltimore County.

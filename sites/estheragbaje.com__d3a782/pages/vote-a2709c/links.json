@@ -8,6 +8,10 @@
 "href": "https://secure.actblue.com/donate/go4esther"
 },
 {
+"text": "Early Voting Info",
+"href": "https://vote.minneapolismn.gov/voters/vote-early-in-person/"
+},
+{
 "text": "Endorsements",
 "href": "https://estheragbaje.com/endorsements/"
 },
@@ -20,8 +24,16 @@
 "href": "https://vote.minneapolismn.gov/voters/vote-early-in-person/"
 },
 {
+"text": "Full schedule",
+"href": "https://vote.minneapolismn.gov/voters/vote-early-in-person/#:~:text=North%20Early%20Vote%20Center"
+},
+{
 "text": "Get Involved",
 "href": "https://estheragbaje.com/get-involved/"
+},
+{
+"text": "Hennepin County Government Center at Skyway Level 300 6th St. S",
+"href": "https://maps.app.goo.gl/vmh7Mq8sxu1rfoZNA"
 },
 {
 "text": "Home",
@@ -34,6 +46,14 @@
 {
 "text": "Meet Esther",
 "href": "https://estheragbaje.com/meet-esther/"
+},
+{
+"text": "Minneapolis Early Voting Location",
+"href": "https://vote.minneapolismn.gov/voters/vote-early-in-person/"
+},
+{
+"text": "Minneapolis Elections & Voter Services at 980 East Hennepin Avenue",
+"href": "https://maps.app.goo.gl/a7RSE5YUXGdfj1mx5"
 },
 {
 "text": "Polling Place Finder",
@@ -50,10 +70,6 @@
 {
 "text": "Register when you vote",
 "href": "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
-},
-{
-"text": "Request ballot",
-"href": "https://mnvotes.sos.mn.gov/abrequest/index"
 },
 {
 "text": "Tech for Campaigns",
@@ -102,5 +118,9 @@
 {
 "text": "voting locations before Election Day",
 "href": "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day/"
+},
+{
+"text": "where to vote",
+"href": "https://vote.minneapolismn.gov/voters/where-to-vote/"
 }
 ]

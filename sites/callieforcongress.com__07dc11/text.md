@@ -30,8 +30,11 @@ From shoreline towns and farm roads to rural hospitals and veteran communities, 
 02 Rural hospitals Keep care close to home and stop families from driving hours for basic healthcare.
 03 Farms and small businesses Back the growers, makers, builders, and shop owners who keep local economies moving.
 04 Veterans and caregivers Fund the VA, honor service, and support the families doing care work every day.
-Upcoming events Find Callie on the road. ← → View all events When Oct 8, 2026 6:00 pm – 8:00 pm Happy Hour Veteran Happy Hour Location will be emailed 48 hours prior to the event with RSVP.
-Location RSVP for Event Details Traverse City, MI RSVP Take action Pick your lane.
+Upcoming events Find Callie on the road.
+View all events Schedule update More events are on the way.
+The campaign calendar is being finalized.
+Check back soon or join the list for updates.
+Get campaign updates Take action Pick your lane.
 Help move the First.
 01 Knock doors Talk with neighbors face to face and help the campaign reach voters before ballots are cast.
 Sign up 02 Make calls Join a phone bank from home or at a campaign stop and help identify supporters across MI-01.

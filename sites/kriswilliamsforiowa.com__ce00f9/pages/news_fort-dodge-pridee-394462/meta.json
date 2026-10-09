@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/fort-dodge-pridee",
- "fingerprint": "ec9522a0d6be08e21f7d0fee19d1572022469ae7",
+ "fingerprint": "78fa4cb9dab638b14d41f43693a1c1e1de1889ab",
  "format": 3,
  "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Fort Dodge Pride!",
  "years_mentioned": [
   "2026"

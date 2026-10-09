@@ -1,7 +1,7 @@
 Support Rashida Tlaib for U.S.
 Congress We need Rashida’s bold, transformative leadership in Congress.
 Can you chip in to keep her in office fighting for us? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI primary How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Gender Justice & LGBTQI+ Rights Rashida is fighting for people of all genders and sexualities to have the protection and freedom that we all deserve.
+Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI general How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Gender Justice & LGBTQI+ Rights Rashida is fighting for people of all genders and sexualities to have the protection and freedom that we all deserve.
 As a lawyer at the nonprofit Sugar Law Center for Economic & Social Justice, Rashida protected civil rights .
 And since becoming a Congressperson, Rashida has introduced and supported policies to expand rights and protections for women and LGBTQI+ people.
 Rashida joined the Equality Caucus and the Black Maternal Health Caucus , and co-founded the Mamas’ Caucus where she’s focused on issues such as improving Black maternal health, universal childcare, and equal pay.
@@ -42,5 +42,5 @@ Participated in a congressional briefing about the human rights violations trans
 Priorities Economic and Housing Justice Racial and Immigration Justice Environmental Justice Quality Healthcare For All Gender Justice & LGBTQI+ Rights Human Rights Around the World Join Our Campaign Sign up for email updates so you can stay in the loop.
 Chip In Rashida does not take any money from corporate PACs.
 Every donation makes a big difference. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI primary Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
+Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI general Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
 Box 32777 Detroit, MI 48232 Paid for by Rashida Tlaib for Congress Contact Privacy Policy Terms of Service Made with Middle Seat

@@ -1,4 +1,4 @@
-0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Upcoming Events Oct 8 Canvass with Ground Game Georgia & Men4Choice Thursday, October 8, 2026 4:00 PM 6:00 PM Google Calendar ICS View Event → Oct 9 Canvass with Ground Game Georgia & Men4Choice Friday, October 9, 2026 1:00 PM 3:00 PM Google Calendar ICS View Event → Oct 10 Canvass for Beth Fuller & More!
+0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Upcoming Events Oct 9 Canvass with Ground Game Georgia & Men4Choice Friday, October 9, 2026 1:00 PM 3:00 PM Google Calendar ICS View Event → Oct 10 Canvass for Beth Fuller & More!
 Saturday, October 10, 2026 10:00 AM 11:00 AM Google Calendar ICS Join the Beth Fuller, Adam Cleveland, Sara Fuchs, and Tony Kozycki campaigns along with Indivisible North Metro Atlanta to canvass in GA House District 48, 49, or 53 (your choice)!
 We will meet to provide training and materials for your chosen candidate.
 All you'll need are comfortable shoes, a fully charged phone and the MiniVAN app downloaded, and we will provide everything else.
@@ -34,7 +34,10 @@ All you'll need are comfortable shoes, a fully charged phone and the MiniVAN app
 If you want to help flip the Georgia House and elect candidates who stand for progressive change, we hope to see you there!
 This event will launch from a local restaurant.
 Address will be provided upon registration.
-View Event → Oct 3 Canvass for Beth Fuller & More with Necessary Trouble Georgia Saturday, October 3, 2026 10:00 AM 1:00 PM Google Calendar ICS Join Necessary Trouble Georgia to canvass for Beth Fuller, Sheila Edwards, and Peter Hubbard!
+View Event → Nov 1 Canvass with Beth Fuller and RaShaun Kemp!
+Sunday, November 1, 2026 1:00 PM 4:00 PM Google Calendar ICS Join us for a canvass with Beth Fuller and Senator RaShaun Kemp!
+We'll be knocking doors in Sandy Springs to make sure we get out the vote and flip a crucial seat in Georgia!
+View Event → Oct 8 Canvass with Ground Game Georgia & Men4Choice Thursday, October 8, 2026 4:00 PM 6:00 PM Google Calendar ICS View Event → Oct 3 Canvass for Beth Fuller & More with Necessary Trouble Georgia Saturday, October 3, 2026 10:00 AM 1:00 PM Google Calendar ICS Join Necessary Trouble Georgia to canvass for Beth Fuller, Sheila Edwards, and Peter Hubbard!
 Whether you’ve canvassed before or this is your first time, we’ll provide a quick training and make sure you have everything you need before heading out in teams.
 No prior experience needed.
 This is how real campaigns are built, neighbor to neighbor and block by block.

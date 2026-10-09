@@ -4,4 +4,4 @@ A one-time refund is relief; a system that keeps producing the same problem is s
 A one-time refund is relief.
 A broken system is still a broken system.
 Where I stand Responsible tax relief → Join us Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue Next Honoring veterans who were never recognized → PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

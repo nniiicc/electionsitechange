@@ -1,5 +1,5 @@
-top of page JANET YANG ROHR For State Representative of IL House District 41 GET A YARD SIGN Meet Janet Platform Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
-A VOICE FOR THE DEMOCRATIC GRASSROOTS Building a collaborative, responsive Democratic Party for Illinois that works for everyday people.
+top of page JANET YANG ROHR For State Representative of IL House District 41 Meet Janet Platform Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
+GET A YARD SIGN A VOICE FOR THE DEMOCRATIC GRASSROOTS Building a collaborative, responsive Democratic Party for Illinois that works for everyday people.
 MY CORE PRIORITIES How we'll strengthen from the ground up.
 On-the-Ground Work Action over words.
 We need to be present in our communities every day, not just election season.
@@ -39,4 +39,4 @@ Nicholas Smith State Rep.
 Katie Stuart State Rep.
 David Vella State Rep.
 Larry Walsh Cook County Commissioner Josina Morita​ DuPage County Board Chair Deb Conroy DuPage County Board Member Lucy Chang Evans DuPage County Board Member Saba Haider DuPage County Board Member Yeena Yoo Will County Board Member Elnalyn Costa Will County Board Member Kelly Hickey DuPage County Building Trades Democratic Party of DuPage County Vice Chair Dianne McGuire FOLLOW JANET ON SOCIAL MEDIA Subscribe SUBSCRIBE TO OUR EMAILS Get Janet's latest updates SUBSCRIBE Thanks for submitting!
-Meet Janet Platform Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​ ​ ​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page
+Meet Janet Platform Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​​​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page

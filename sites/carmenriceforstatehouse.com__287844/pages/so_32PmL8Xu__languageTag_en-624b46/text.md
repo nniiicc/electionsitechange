@@ -1,1 +1,46 @@
-
+Dear Friends, Hopefully, everyone is staying warm as yet another winter storm passes through our state.
+Legislative Week Three has concluded.
+Representatives are submitting their bills, which are then assigned to committees, and those committees are actively working on them.
+I have introduced House Bill 1062, an education bill that would require the Georgia Department of Education to publish on its website all relevant and applicable federal guidance documents, including any rescinded ones, sent by the federal government concerning education, to ensure transparency.
+Speaker Burns held a press conference this week with fellow House Republicans to announce the introduction of the Georgia HOME Act.
+The Homeownership Opportunity and Market Act of 2026 delivers on our commitment to provide historic property tax relief for homeowners across the state.
+Some facts on the Georgia HOME Act: Enables the total elimination of homestead property taxes (property taxes on primary residences) by 2032.
+Provides local governments with the tools they may need to recover lost revenue with an optional, flexible 5-penny local sales tax.
+Allows for optional local assessments and fees.
+Caps revenue growth to 3% for non-improved/non-exempt properties (2032).
+Provides Homeowner Tax Relief Grants (HTRG).
+Doubles the State Homestead Exemption every other year until 2032.
+This legislation is in its early stages.
+I will provide more details as they are worked out.
+If this bill is passed by the General Assembly and signed by the Governor, it will appear as a referendum on the ballot for voters to decide.
+Georgia HOME Act Legislation is now progressing through the legislative process.
+Here are some notable bills: Income Tax Credit HB 1000 is a one-time tax credit for individual taxpayers who filed income tax returns for the 2024 and 2025 taxable years.
+Qualifying taxpayers will receive $250 for a single taxpayer and $500 for a married couple joint return.
+Income Tax Rate Reduction HB 1001 will lower the state income tax rate to 4.99% for taxable years beginning on or after January 1, 2026.
+Math Matters Act HB 1030 is a bill to improve students' math achievement.
+It will require local school districts to establish advanced math courses at the middle and high school levels, providing our students with more tools upon graduation.
+Redshirting Bill HB 1048 will allow parents to decide when their child is ready to start school.
+This will allow parents to delay their children's start in Kindergarten.
+Distraction Free Education Act #2 HB 1009 would extend last year's cell phone ban in public schools to grades 9 through 12.
+Last year, legislation was enacted banning cell phone use in grades K through 8.
+Portable Health Benefit Plans HB 987 would allow independent contractors to contribute to portable health benefit accounts and plans that follow them from job to job.
+State Employee Health Insurance Plans HB 988 would require the State Employee Health Insurance Plans to cover hormone replacement therapy for biological women experiencing perimenopause and menopause when such therapy is ordered by a physician.
+Expand Registered Nurse and Physician Assistant Prescriptive Authorizations HB 981 will allow registered nurses and physician assistants to authorize certain prescriptive authorizations from five-day to 30-day supplies; remove certain prohibitions on writing prescriptions for minors; and provide certain prescriptive authorization to order stimula nts.
+The Georgia Promise Scholarship has passed its first year.
+The Georgia Promise Scholarship has passed its first year.
+The Promise Scholarship has had a successful launch.
+7,744 students have participated in the program so far.
+From the Georgia Public Policy Foundation, "It's hard to say for sure, but the Promise Scholarship has probably had the most successful launch of any school choice program in Georgia history.
+The state did not report student numbers for the tax-credit scholarship program until 2011, three years after it was created.
+But based on the number of donations received in the first year of the tax-credit scholarship (about $25 million), and average award amounts in the early years for which there was reporting (roughly $3,500), it most likely enrolled fewer students than the Promise Scholarship in its first year.
+Predictions of Doom for Georgia's Promise Scholarship are Already Falling Apart.
+A WEEK IN PICTURES It was an honor to welcome Jaden Matthiae as my first page for the 2026 session.
+Our delegation welcomed Sheri Cody of Twin Cedars to the Capitol.
+She spoke at the Human Resources Appropriations Committee meeting regarding foster care funding.
+This week, I enjoyed visiting our wonderful D.A.
+Don Kelly at the District Attorneys' Association of Georgia's inaugural Prosecutor Day breakfast at the State Capitol.
+Happy to sign on to the Georgia HOME Act.
+It's a privilege to represent you.
+Please feel free to contact me if I can assist you in any way.
+Yours in service, Carmen Capitol Address: 504-C Coverdell Legislative Office Bldg.
+Atlanta, GA 30334 Office: (404) 656-0188 carmen.rice@house.ga.gov Follow Us Check out our site

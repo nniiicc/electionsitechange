@@ -1,0 +1,1 @@
+5 Arlington Snohomish Marysville Island 5 2 Lake Stevens E yS be Sno 5 hom lou Pi gh h /C u R ck i ve r Snohomish ish R i ve r 8 1 Mill Creek Monroe Skykomish River Sn 405 oq Mountlake Terrace 6 lm ie Ri Woodinville Bothell Kitsap ua Kenmore 7 5 Kirkland Redmond Medina King Bellevue 405 9 Suzan DelBene’s NEW DISTRICT MAP ve r

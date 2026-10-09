@@ -1,9 +1,10 @@
 {
  "description": "Track Floyd Taylor’s events, town halls, and signature drives across Indiana’s 9th District.",
  "final_url": "https://floyd2026.com/calendar.php",
- "fingerprint": "bcecc4ec912b814eb76d0bf2d4ce1a13fe3aba73",
+ "fingerprint": "2e8df2c352cbb96f251c6d8a39dbd8653fef5754",
  "format": 3,
  "paid_for_by": "Paid for by Floyd Taylor for Congress",
+ "rendered": false,
  "title": "Campaign Calendar | Floyd Taylor for Congress",
  "years_mentioned": [
   "2026"

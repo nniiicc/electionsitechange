@@ -1,0 +1,14 @@
+FOR IMMEDIATE RELEASE October 28, 2025 Contact: info@charafi4nevada .com Website: www.charafi4nevada .com Joseph Charafi Announces Campaign for Clark County Commissioner District F: “Protecting Our Kids, Strengthening Our Communities” Las Vegas, NV — Southern Highlands resident, small-business owner, and anti-trafficking advocate Joseph Daniel Anthony Charafi today announced his candidacy for Clark County Commissioner, District F as a Republican, pledging to bring integrity, accountability, and innovation to local government.
+As CEO of Charafi Entertainment and Founder of the Stop the Traffic Foundation, Charafi has built a career at the intersection of media, advocacy, and community service.
+His work has focused on exposing child trafficking in Nevada and building real-world solutions to protect vulnerable youth.
+“I’m a father, a filmmaker, and a Las Vegan who’s tired of watching our community struggle with the same problems year after year,” Charafi said.
+“I’m running for County Commissioner because our families deserve safe neighborhoods, transparent leadership, and a county government that works for the people — not for itself.” Charafi’s platform for District F centers on: Protecting Children and Families: Expanding county partnerships with law enforcement and nonprofits to combat child trafficking, strengthen foster-care oversight, and build safe-haven networks at public spaces and businesses.
+Economic Growth and Jobs: Supporting small-business development, encouraging tech and film-industry investment, and promoting smart growth that balances innovation with quality of life.
+Community Safety and Infrastructure: Improving public safety funding, holding developers accountable for infrastructure delays, and ensuring responsible use of taxpayer dollars.
+Homelessness and Addiction Recovery: Promoting compassionate, outcome-based programs that help individuals rebuild their lives while keeping public spaces clean and safe.
+“I’m not a career politician — I’m a problem-solver,” Charafi added.
+“I’ve built coalitions, created jobs, and helped families through tough times.
+What we need now are leaders who act with courage and compassion — leaders who understand how to get things done.” A lifelong creative professional and Nevada resident, Charafi brings a fresh, modern perspective to Clark County leadership.
+His nonprofit, Stop the Traffic Foundation, has partnered with civic groups, churches, and local leaders to raise awareness about trafficking and promote new safety technologies, including youth hotlines and vehicle-scanning initiatives.
+“District F deserves a Commissioner who listens, acts, and delivers,” Charafi said.
+“When voters see my name on the ballot, they’ll know it represents someone fighting for safer streets, stronger families, and a brighter future for Clark County.” Residents can learn more, volunteer, or donate at www.charafi4nevada.com and follow @Charafi4Nevada across social media platforms.

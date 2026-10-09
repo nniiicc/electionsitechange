@@ -1,9 +1,4 @@
-0 Skip to Content Home Issues Volunteer Events Voter Information Donate Open Menu Close Menu Home Issues Volunteer Events Voter Information Donate Open Menu Close Menu Home Issues Volunteer Events Voter Information Donate UPCOMING EVENTS Monday Sept.
-28, 5-5:30pm - Lahaina, Hanakaʻōʻō (Canoe Beach) Tuesday Oct.
-6, 4-5pm - Waiehu, Waiehu Beach Rd St & Kahekili Hwy CANCELLED!
-Friday Oct.
-9, 7-8am - Waiehu, Hoauna St & Kahekili Hwy Friday Oct.
-16, 4:30pm, Lahaina Sign Waving Wave signs with Pāʻele and neighbors!
+0 Skip to Content Home Issues Volunteer Events Voter Information Donate Open Menu Close Menu Home Issues Volunteer Events Voter Information Donate Open Menu Close Menu Home Issues Volunteer Events Voter Information Donate UPCOMING EVENTS Friday Oct 9, 7-8am - WAIEHU Waiehu Beach Rd & Kahekili Hwy Monday Oct 12, 7-8am - LAHAINA Below Kapalua Airport Friday Oct 16, 430-530pm - LAHAINA Lahaina Safeway Wednesday Oct 21, 7-8am - LAHANA Lahainaluna Rd & Kuialua Thursday Oct 22, 7-8am - WAIEHU Waiehu Beach Rd & Eha St Friday Oct 23, 7-8am - LAHAINA Lahaina Safeway Tuesday Oct 27, 4:30pm - WAIEHU Waiehu Beach Rd & Kahekili Hwy Wednesday Oct 28, 7-8am - LAHAINA Below Kapalua Airport Friday Oct 30, 7-8am - LAHAINA Lahainaluna Rd & Kuialua Sign Waving Wave signs with Pāʻele and neighbors!
 We’ll provide signs but feel free to bring your own too.
 Join us for a few minutes or the full hour.
 This movement belongs to all of us.

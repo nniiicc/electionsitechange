@@ -1,9 +1,10 @@
 {
  "description": "See Pattie’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/pattie-mansur/events/",
- "fingerprint": "bb0f4c6f414af7699cd050158a809e467a5bd012",
+ "fingerprint": "e08751288a2c4856f12648aaf523913fc0b76826",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Pattie Mansur Events",
  "years_mentioned": [
   "2026"

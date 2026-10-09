@@ -1,4 +1,5 @@
-top of page State Representative 34th District Position 2 - Democrat ​ About Mary Why Mary Get Involved Seattle Times Endorses Mary Donate Spaghetti Dinner 10/16 Join the Movement Together We Can Build a Brighter Washington ​ ​ About Mary Mary Anito for Washington West Seattle mom of three.
+top of page State Representative 34th District Position 2 - Democrat ​ About Mary Why Mary Get Involved Come Canvas With Us!
+Seattle Times Endorses Mary Donate Spaghetti Dinner 10/16 Join the Movement Together We Can Build a Brighter Washington ​ ​ About Mary Mary Anito for Washington West Seattle mom of three.
 Engineer.
 Small business owner.
 Problem-solver.

@@ -1,7 +1,7 @@
 Support Rashida Tlaib for U.S.
 Congress We need Rashida’s bold, transformative leadership in Congress.
 Can you chip in to keep her in office fighting for us? $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI primary How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Blog Defending Voting Rights Means Ending the Filibuster December 2, 2021 Share on Facebook Share on Twitter Back to News We urgently need federal action to counter state-level attacks on our right to vote.
+Close Facebook Instagram Youtube Twitter Threads Rashida Tlaib for Congress – Rooted in Community Menu Meet Rashida Rashida’s Receipts Results for District Legislation for All Priority issues Community funding Vote in MI general How to vote Endorsements Rashida’s choices Get involved Get endorsed Resources Store Donate Blog Defending Voting Rights Means Ending the Filibuster December 2, 2021 Share on Facebook Share on Twitter Back to News We urgently need federal action to counter state-level attacks on our right to vote.
 So far this year, Republicans in states across the country have enacted at least 33 laws restricting access to voting—including mail-in voting, in-person voting, and voter registration—or enabling the overturning of valid election results verified by local nonpartisan election officials.
 As we saw here in majority-Black Detroit in 2020’s elections, the GOP will likely use these bills to try to take away Black Americans’ votes, next year and beyond.
 We already have federal bills to expand and protect our voting rights, which would overturn these state-level voter suppression bills.
@@ -30,5 +30,5 @@ In solidarity, Rashida Share on Facebook Share on Twitter More News Blog We just
 Rashida Tlaib Re-Elected to Represent Michigan’s New 12th Congressional District in Resounding Win November 10, 2022 Join Our Campaign Sign up for email updates so you can stay in the loop.
 Chip In Rashida does not take any money from corporate PACs.
 Every donation makes a big difference. $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI primary Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
+Rashida Tlaib for Congress – Rooted in Community Meet Rashida Results for District Legislation for All Rashida’s Top Priorities Vote in MI general Resources Follow Us Facebook Instagram Youtube Twitter Threads Donate by Mail Rashida Tlaib for Congress P.O.
 Box 32777 Detroit, MI 48232 Paid for by Rashida Tlaib for Congress Contact Privacy Policy Terms of Service Made with Middle Seat

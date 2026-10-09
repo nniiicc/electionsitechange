@@ -1,0 +1,10 @@
+Food Forests and Foraging Program Food forests are cultivated areas that have food-bearing trees and plants, such as nut trees and berry bushes.
+A food forest combines the same layers found in a natural forest: root crops, ground covers, herbs, perennials, shrubs, vines, small trees, mid-size trees, and canopy trees.1 These layers create a rich, thriving, and resilient ecosystem that provides nutritious food for people to eat from freely.
+Food forests are open and available to everyone.
+The Maryland Department of Natural Resources has already piloted a Food Forest concept by planting its Edible Trail in White Marsh Park near Centreville and behind the City of Brunswick Food Bank in Frederick County.2 Separately, foraging is where one goes into the wilderness and harvests plant life in the form of edible berries, mushrooms, herbs, etc. from the naturally occurring wild flora, as opposed to land that was specifically cultivated for human consumption.
+Foraging is a thriving practice across the country, however, it is currently illegal to forage on state land in Maryland.
+This bill will: ✔ Establish a foraging permit system.
+Similar to a hunting permit, a foraging permit would allow individuals to forage within designated foragable areas established by the Department of Natural Resources.
+DNR would establish foraging seasons, permitted and prohibited areas, and an education program for the foraging permit system that would mirror the hunting permit program.
+Fees would be charged for foraging permits, with waivers for individuals demonstrating financial need. ✔ With the surplus funds collected from the Foraging Permit, DNR will create cultivated food forest areas on state land, which will be open and accessible for the public to eat from freely, with or without a permit.
+For more information please contact: Delegate Lorig Charkoudian, lorig.charkoudian@house.state.md.us Phone: 410-841-3423 1 2 https://www.foodforestcollective.org/about-community-food-forests https://news.maryland.gov/dnr/2024/11/04/food-forests-bring-fruit-harvests-and-deeper-connections-to-land/

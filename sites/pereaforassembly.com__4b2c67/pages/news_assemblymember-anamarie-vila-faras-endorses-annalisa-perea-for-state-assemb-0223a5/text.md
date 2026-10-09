@@ -12,4 +12,4 @@ Perea, who currently serves on the Fresno City Council and was elected Council P
 As a Councilmember, she helped cut violent crime in half through community policing, negotiated a tax-sharing agreement that increased city revenues without raising taxes, and delivered new housing solutions to address Fresno’s affordability crisis.
 A lifelong Central Valley resident, Perea is a certified city planner and former community college trustee.
 Her public service and land use planning work have helped create hundreds of jobs and thousands of homes across the region.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

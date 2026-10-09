@@ -1,4 +1,4 @@
-top of page Home About Jaha Priorities Updates In the News Use tab to navigate through the menu items.
+top of page Home About Jaha Updates In the News Use tab to navigate through the menu items.
 Donate About Senator Howard Senator Howard's personal mission statement is to "Love God and Love People.
 For Real." This guiding principle shapes his priorities and drives him as a small business owner, community servant, and employer.
 State Senate District 35, which includes parts of Fulton and Cobb counties, is uniquely personal to Jaha — it's where he grew up, raised his family, and built his dental practice.
@@ -12,5 +12,5 @@ Jaha has dedicated himself to public service at every level.
 He served four years as an elected member of the Cobb County Board of Education — the second largest school district in Georgia — and was later appointed to Cobb's Transit Advisory Board.
 In 2024, he was the Democratic Nominee for Cobb's Commission District 2.
 In 2013, he co-founded the Wave of Excellence group to connect families with their neighborhood schools, and in response to the murder of Ahmaud Arbery, co-founded Families Against Racism, a nonprofit creating space for families to learn and work against systemic racism.
-Home About Jaha Priorities Updates In the News © # by Dr.
+Home About Jaha Updates In the News © # by Dr.
 Howard For Georgia bottom of page

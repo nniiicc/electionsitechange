@@ -1,5 +1,6 @@
 Valentin For Oklahoma State Senate Home My Policies How to Vote Who I am Donate My Policies How to Vote Who I am Donate Independence with an Independent.
 My name is Valentin Peña, I am on a grassroots campaign to represent the values and needs of District 32 in the Oklahoma State Senate, Comanche county, Cities of Cache, Elgin, Fletcher, Indiahoma, Lawton, and Medicine Park are the voices to be heard.
+I am proudly endorsed by the Progressive Party of America, GoodParty.org, and the Oklahoma Restaurant Association!
 Why?
 Valentin For State Senate I am dedicated to making a positive impact in Lawton and surrounding areas, as well as the State of Oklahoma itself!
 Learn my policies Who is Valentin Pena A small autobiography.

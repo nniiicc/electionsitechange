@@ -1,12 +1,14 @@
 {
  "description": "Press Releases",
  "final_url": "https://roycooper.com/press-releases/26/",
- "fingerprint": "ca25ed20c610ab9cbe81ccbe43fd204dae954f7e",
+ "fingerprint": "82abb32dbad6319881bac62732edbbd992ca7b94",
  "format": 3,
  "paid_for_by": "Paid for by Cooper for North Carolina",
+ "rendered": false,
  "title": "Press Releases | Roy Cooper for North Carolina",
  "years_mentioned": [
   "2020",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

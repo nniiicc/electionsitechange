@@ -1,4 +1,4 @@
-Home About Socialism Revealed Photos Media RSVP Time to Election Day Day(s) : Hour(s) : Minute(s) : Second(s) Click Here To Donate Thank You for Your Support!
+Home About Socialism Revealed Photos Media RSVP Time to Election Day Day(s) : Hour(s) : Minute(s) : Second(s) Click Here To Donate Click Here to RSVP Thank You for Your Support!
 We must also restore an economy where hard work leads somewhere.
 People should be able to start a business, buy a home, raise a family, learn a trade, advance in their career, and build a better life.
 That is the promise of America — and it should not be reserved only for the wealthy, connected, or politically powerful.

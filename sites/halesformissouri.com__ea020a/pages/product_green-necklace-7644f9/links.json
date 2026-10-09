@@ -28,8 +28,8 @@
 "href": "https://halesformissouri.com/get-involved/"
 },
 {
-"text": "Green Blouse $90.00",
-"href": "https://halesformissouri.com/product/green-blouse/"
+"text": "Grey Polo $65.00",
+"href": "https://halesformissouri.com/product/grey-polo/"
 },
 {
 "text": "Home",
@@ -52,6 +52,10 @@
 "href": "https://halesformissouri.com/my-account/"
 },
 {
+"text": "Navy Blue Shirt $45.00",
+"href": "https://halesformissouri.com/product/navy-blue-shirt/"
+},
+{
 "text": "Privacy Policy",
 "href": "https://halesformissouri.com/privacy/"
 },
@@ -61,23 +65,19 @@
 },
 {
 "text": "Select options",
-"href": "https://halesformissouri.com/product/green-blouse/"
+"href": "https://halesformissouri.com/product/grey-polo/"
+},
+{
+"text": "Select options",
+"href": "https://halesformissouri.com/product/navy-blue-shirt/"
 },
 {
 "text": "Select options",
 "href": "https://halesformissouri.com/product/product-with-sizes/"
 },
 {
-"text": "Select options",
-"href": "https://halesformissouri.com/product/support-the-party/"
-},
-{
 "text": "Shop",
 "href": "https://halesformissouri.com/shop/"
-},
-{
-"text": "Support the Party $5.00",
-"href": "https://halesformissouri.com/product/support-the-party/"
 },
 {
 "text": "Terms and Conditions",
@@ -92,23 +92,23 @@
 "href": "https://halesformissouri.com/volunteers/"
 },
 {
-"text": "[image: Green Blouse]",
-"href": "https://halesformissouri.com/product/green-blouse/"
-},
-{
 "text": "[image: Green Necklace]",
 "href": "https://halesformissouri.com/wp-content/uploads/2020/08/necklace.jpg"
+},
+{
+"text": "[image: Grey Polo]",
+"href": "https://halesformissouri.com/product/grey-polo/"
 },
 {
 "text": "[image: Hales for Missouri]",
 "href": "https://halesformissouri.com/"
 },
 {
-"text": "[image: Product with Sizes]",
-"href": "https://halesformissouri.com/product/product-with-sizes/"
+"text": "[image: Navy Blue Shirt]",
+"href": "https://halesformissouri.com/product/navy-blue-shirt/"
 },
 {
-"text": "[image: Support the Party]",
-"href": "https://halesformissouri.com/product/support-the-party/"
+"text": "[image: Product with Sizes]",
+"href": "https://halesformissouri.com/product/product-with-sizes/"
 }
 ]

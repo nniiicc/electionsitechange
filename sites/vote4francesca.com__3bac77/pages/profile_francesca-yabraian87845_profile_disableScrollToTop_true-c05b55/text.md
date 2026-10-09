@@ -9,6 +9,6 @@ Michelle Salzman continued to support restrictions rather than a permanent ban.
 Flock cameras are creepy surveillance systems that violate our Fourth Amendment rights.
 PENSACOLA, Fla. — After months of public opposition, the Escambia County Sheriff’s Office and Pensacola Police Department suspended their automated license plate reader systems and...
 41 0 Aug 25, 2026 ∙ 1 min FOR IMMEDIATE RELEASE Florida House District 1 candidate Francesca Yabraian is calling on residents, business owners, and members of the media from across Century and Escambia County to attend the upcoming Century City Council meeting, where she will make a major announcement concerning the future of civic participation, financial pressure on local families and businesses, and accountability in local government.
-6 0 Load More Help us fix Florida’s housing crisis. ‪(850) 679-5739‬ francesca@vote4francescad1.com P.O.
+7 0 Load More Help us fix Florida’s housing crisis. ‪(850) 679-5739‬ francesca@vote4francescad1.com P.O.
 Box 6074 Pensacola, FL 32503 Privacy Policy Accessibility Statement Terms & Conditions Refund Policy Donate Now © # by Vote4FrancescaD1.
 Powered and secured by Wix bottom of page

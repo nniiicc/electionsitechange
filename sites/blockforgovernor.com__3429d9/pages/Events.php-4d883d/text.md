@@ -1,4 +1,4 @@
-Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events Conversation with Ken - Newport Attendance is limited to 70 R.S.V.P by October 5 to: Michelle@blockforgovernor.com Refreshments will be served Scituate Arts Festival Come celebrate the fall season by visiting us on the Village Green in North Scituate.
+Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events Scituate Arts Festival Come celebrate the fall season by visiting us on the Village Green in North Scituate.
 Browse and buy original fine art, handmade crafts and antiques in an open-air market.
 Enjoy tasty treats and support local, non-profit organizations by visiting our food court.
 Take a chance with our Raffle of items generously donated by our Exhibitors!
@@ -25,7 +25,7 @@ R.S.V.P to michelle@blockforgovernor.com East Bay Chamber Gubernatorial Forum Ad
 Advance registration is encouraged.
 Hear directly from the candidates vying to become Rhode Island's next Governor The East Bay Chamber of Commerce invites business leaders, community members, and voters to attend this free public forum.
 Gain firsthand insights into where the candidates stand on key issues impacting public policy, regional economic growth, and the business climate across Rhode Island.
-WJAR Channel 10 Gubernatorial Debates Moderated by Gene Valicenti Airs live on NBC 10 and COASTAL ABC Streams live on: turnto10.com, coastalabc.com, NBC 10 Facebook page and YouTube channel Sankofa World Market Visit the Sankofa World Market in Providence.
+Conversation with Ken - Newport Attendance is limited to 70 R.S.V.P by October 5 to: Michelle@blockforgovernor.com Refreshments will be served WJAR Channel 10 Gubernatorial Debates Moderated by Gene Valicenti Airs live on NBC 10 and COASTAL ABC Streams live on: turnto10.com, coastalabc.com, NBC 10 Facebook page and YouTube channel Sankofa World Market Visit the Sankofa World Market in Providence.
 Eggs & Issues: Gubernatorial Candidate Forum The Northern Rhode Island Chamber of Commerce invites you to Eggs & Issues featuring candidates for Rhode Island Governor to hear from candidates about the issues shaping our state's future.
 This is a rare opportunity to hear directly from the candidates vying to lead Rhode Island, ask questions, and weigh in on the policies that matter most to the business community.
 Seating is limited - register early to secure your spot.

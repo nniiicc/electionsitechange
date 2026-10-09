@@ -1,8 +1,4 @@
-0 Skip to Content About Priorities Endorsements News & Forums Get Involved Events Vote Donate Open Menu Close Menu About Priorities Endorsements News & Forums Get Involved Events Vote Donate Open Menu Close Menu About Priorities Endorsements News & Forums Get Involved Events Vote Donate Upcoming Events Oct 8 Coordinated Campaign Door Knock Thursday, October 8, 2026 5:00 PM 6:00 PM DFL West Metro Office (map) Google Calendar ICS Join us for a door knock with the DFL Coordinated Campaign in 43A!
-Whether you’re a seasoned door-knocker or joining us for the first time, we’d love to have you.
-Training, snacks, and good conversations with neighbors will be provided.
-Come help us talk to our community and turn out voters for DFL candidates up and down the ballot!
-RSVP to join us and get the location: https:// www.mobilize.us/dflcc/event/1021104/ View Event → Oct 10 Coordinated Campaign Door Knock Saturday, October 10, 2026 10:00 AM 4:00 PM DFL West Metro Office (map) Google Calendar ICS Join us for a door knock with the DFL Coordinated Campaign in 43A!
+0 Skip to Content About Priorities Endorsements News & Forums Get Involved Events Vote Donate Open Menu Close Menu About Priorities Endorsements News & Forums Get Involved Events Vote Donate Open Menu Close Menu About Priorities Endorsements News & Forums Get Involved Events Vote Donate Upcoming Events Oct 10 Coordinated Campaign Door Knock Saturday, October 10, 2026 10:00 AM 4:00 PM DFL West Metro Office (map) Google Calendar ICS Join us for a door knock with the DFL Coordinated Campaign in 43A!
 Whether you’re a seasoned door-knocker or joining us for the first time, we’d love to have you.
 Training, snacks, and good conversations with neighbors will be provided.
 Come help us talk to our community and turn out voters for DFL candidates up and down the ballot!
@@ -19,7 +15,11 @@ RSVP to join us and get all the details. https://www.mobilize.us/dflcc/event/101
 We’ll be connecting with neighbors, having meaningful conversations, and building momentum toward November.
 Whether you’re a seasoned door knocker or brand new to canvassing, everyone is welcome.
 We’ll provide the training, materials, and support you need to feel confident getting started.
-Sign up to join us here: https://www.mobilize.us/dflcc/event/1049284/ View Event → Oct 6 Coordinated Campaign Phone Bank Tuesday, October 6, 2026 5:30 PM 6:30 PM DFL West Metro Office or Virtual (map) Google Calendar ICS Join us for a phone bank with the DFL Coordinated Campaign into 43A!
+Sign up to join us here: https://www.mobilize.us/dflcc/event/1049284/ View Event → Oct 8 Coordinated Campaign Door Knock Thursday, October 8, 2026 5:00 PM 6:00 PM DFL West Metro Office (map) Google Calendar ICS Join us for a door knock with the DFL Coordinated Campaign in 43A!
+Whether you’re a seasoned door-knocker or joining us for the first time, we’d love to have you.
+Training, snacks, and good conversations with neighbors will be provided.
+Come help us talk to our community and turn out voters for DFL candidates up and down the ballot!
+RSVP to join us and get the location: https:// www.mobilize.us/dflcc/event/1021104/ View Event → Oct 6 Coordinated Campaign Phone Bank Tuesday, October 6, 2026 5:30 PM 6:30 PM DFL West Metro Office or Virtual (map) Google Calendar ICS Join us for a phone bank with the DFL Coordinated Campaign into 43A!
 Whether you’re a seasoned phone banker or joining us for the first time, we’d love to have you.
 Join us in person or make calls from home.
 Training and everything you need to get started will be provided.

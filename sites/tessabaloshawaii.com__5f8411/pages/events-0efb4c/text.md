@@ -1,0 +1,3 @@
+Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events More Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events Home What Tess stands for Donate Make History with Tess Meet Tess On to General Elec Events Connect with Tess What’s Happening in Tess Campaign Upcoming Events Join us for upcoming events, Checlout our IG page for more Up to Date Events.
+Sign Waving Friday , October 9, 4:30-6pm Kamehameha Shopping Center Upcoming Events Dinner with Tess Dance and Q&A Friday, October 16,2026 6pm to 9pm Reserve by 10/13 $# Suggested Minimum Donation Copyright © # Tess Abalos for Hawaii - All Rights Reserved.
+God bless you!

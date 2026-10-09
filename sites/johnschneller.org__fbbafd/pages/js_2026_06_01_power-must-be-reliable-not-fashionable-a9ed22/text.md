@@ -4,5 +4,5 @@ Mr.
 Vose’s OpEd perfectly captures this construct and makes factual arguments that are at the foundation of what my voting record has and will continue to be as a representative of Bedford voters.
 Read more… Rep.
 Michael Vose: Power must be reliable, not fashionable SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
-RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
-August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller
+RECENT POSTS Endorsed by NHLA October 8, 2026 Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

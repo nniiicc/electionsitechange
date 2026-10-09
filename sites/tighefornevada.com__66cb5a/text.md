@@ -1,4 +1,4 @@
-Skip to content About Tighe On the Issues Donate Contact Our Party About Tighe On the Issues Donate Contact Our Party Enable sound Tighe Galvin is a CCSD special education teacher taking on the two-party establishment and corporate welfare—from Allegiant Stadium and Formula 1 to the A’s stadium deal.
+Skip to content About Tighe Donate Contact Our Party About Tighe Donate Contact Our Party Enable sound Tighe Galvin is a CCSD special education teacher taking on the two-party establishment and corporate welfare—from Allegiant Stadium and Formula 1 to the A’s stadium deal.
 He’s fighting for a Nevada where working people have a voice, public money serves the public, and political insiders don’t get special treatment.
 Nevada deserves A REAL CHOICE.
 Government Accountability Nevada belongs to the people who live and work here.
@@ -11,14 +11,15 @@ Decisions belong closer to students—with families, educators, and local School
 Tighe will introduce legislation to expand school choice and give parents and teachers greater control over their schools.
 Lowering Costs & Protecting Workers Working Nevadans deserve the freedom to earn a living, build a business, and afford a home.
 Tighe supports cutting barriers that drive up costs, ending corporate welfare, and keeping Nevada income-tax free.
-As a union member, he also defends workers’ freedom to organize, strike, and bargain for a better deal.
+As a union member (CCEA), he also defends workers’ freedom to organize, strike, and bargain for a better deal.
 Tighe will introduce legislation to audit state spending and expose waste and corporate giveaways.
 Real Criminal Justice Reform Keep Nevadans safe while protecting their freedom.
 Tighe supports decriminalizing victimless conduct, ending civil asset forfeiture, and focusing police resources on violent crime.
 Government officials must answer for violating your rights, and people leaving prison deserve a real chance to rebuild their lives.
-Tighe will introduce legislation to release nonviolent prisoners and end qualified immunity.
+Tighe also opposes the public use of widespread license plate readers such as Flock or other kinds of illegal and unconstitutional surveillance.
+Tighe will introduce legislation to release nonviolent prisoners from Nevada's Department of Corrections.
 Defending the Guard Nevada’s Guard members should not be sent into Washington’s undeclared wars.
 Tighe supports defending our communities against federal overreach and protecting your freedom to speak, protest, and boycott—including boycotts of foreign governments.
 Nevadans should never be punished for peaceful political dissent.
 Tighe will introduce Defend the Guard legislation to prevent Nevada Guard deployments into foreign hostilities without a congressional declaration of war.
-Donate Volunteer Sign up for the newsletter Instagram Facebook X Scroll to Top English Spanish
+Donate Volunteer Sign up for the newsletter Instagram Facebook X Election Day Countdown -- Days -- Hours -- Minutes -- Seconds PAID FOR BY FRIENDS OF TIGHE GALVIN Scroll to Top

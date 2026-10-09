@@ -1,4 +1,4 @@
-Skip to content Nik Sandman Libertarian For Congress Menu Menu Home About Nik Priorities And Policies Volunteer Contact Donate ABOUT NIK SANDMAN Nebraska Farmer I was born in Stratton and grew up on a farm near Wauneta, Nebraska.
+Skip to content Nik Sandman Libertarian For Congress Menu Menu Home About Nik Priorities And Policies Volunteer Blog Contact Donate ABOUT NIK SANDMAN Nebraska Farmer I was born in Stratton and grew up on a farm near Wauneta, Nebraska.
 I moved to Lincoln thirteen years ago.
 I am a retired wheat, milo, corn and melon farmer after 26 years.
 I worked as a rural mail carrier for 15 years.

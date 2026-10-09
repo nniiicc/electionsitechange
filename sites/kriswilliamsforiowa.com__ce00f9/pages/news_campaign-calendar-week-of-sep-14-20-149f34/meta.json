@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/campaign-calendar-week-of-sep-14-20",
- "fingerprint": "db7bf367f3109d351d073680732726e758bfd599",
+ "fingerprint": "89e10ae152f8921daa26bb5ec5cd8d20c5ef5170",
  "format": 3,
  "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Campaign Calendar week of Sep 14-20",
  "years_mentioned": [
   "2026"

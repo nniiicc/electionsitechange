@@ -11,4 +11,4 @@ Together, we will continue working to empower and uplift women across District 3
 Perea is also spearheading a childcare stipend program to make quality childcare more affordable and accessible for working families because she believes that supporting women means ensuring they have the resources, safety, and opportunities they need to thrive.
 Annalisa Perea currently serves on the Fresno City Council, where she has led efforts to expand affordable housing, invest in public safety, and strengthen workforce development programs.
 A certified city planner and former community college trustee, Perea carries forward a lifelong belief in education, equity, and opportunity for every family.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

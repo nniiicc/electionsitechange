@@ -1,8 +1,6 @@
 0 Skip to Content About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Open Menu Close Menu About Issues Events HD9 Endorsements Contact Donate Join our community-powered campaign, meet neighbors, and share your ideas, concerns, and issues.
 I can’t wait to meet you and hear what’s on your mind!
-Oct 8 Coffee Hour for HD9 Thursday, October 8, 2026 10:00 AM 11:00 AM Istanbul Cafe (map) Google Calendar ICS Come learn about democracy and how to get engaged!
-Everyone’s welcome to come have a sip and chat with Monica.
-View Event → Nov 3 Election Day!
+Nov 3 Election Day!
 Tuesday, November 3, 2026 12:01 AM 7:00 PM Google Calendar ICS View Event → Nov 5 HD9 Coffee Hour Thursday, November 5, 2026 10:00 AM 11:00 AM The Bagel Deli (map) Google Calendar ICS Join me for a cup of coffee and to talk about what matters to you.
 Whether it’s your ideas, concerns, or the issues you care most about, I’m here to listen and learn.
 Along with experts and evidence, I truly want to hear your voice as colleagues and neighbors.
@@ -11,6 +9,10 @@ Everyone’s welcome to come have a sip and chat with Monica.
 View Event → Dec 3 HD9 Coffee Hour Thursday, December 3, 2026 10:00 AM 11:00 AM The Bagel Deli (map) Google Calendar ICS Join me for a cup of coffee and to talk about what matters to you.
 Whether it’s your ideas, concerns, or the issues you care most about, I’m here to listen and learn.
 Along with experts and evidence, I truly want to hear your voice as colleagues and neighbors.
+View Event → Dec 10 to Jan 14 Coffee Hour for HD9 Thu, Dec 10, 2026 10:00 AM Thu, Jan 14, 2027 11:00 AM Istanbul Cafe (map) Google Calendar ICS Come learn about democracy and how to get engaged!
+Everyone’s welcome to come have a sip and chat with Monica.
+View Event → Oct 8 Coffee Hour for HD9 Thursday, October 8, 2026 10:00 AM 11:00 AM Istanbul Cafe (map) Google Calendar ICS Come learn about democracy and how to get engaged!
+Everyone’s welcome to come have a sip and chat with Monica.
 View Event → Oct 3 One Colorado Prism Awards Saturday, October 3, 2026 6:00 PM 10:00 PM Denver Art Museum (map) Google Calendar ICS View Event → Oct 3 Taco Bell 50k (yes, 50k) Saturday, October 3, 2026 7:30 AM 4:00 PM Taco Bell (2 locations in District 9) (map) Google Calendar ICS View Event → Oct 1 HD9 Coffee Hour Thursday, October 1, 2026 10:00 AM 11:00 AM The Bagel Deli (map) Google Calendar ICS Join me for a cup of coffee and to talk about what matters to you.
 Whether it’s your ideas, concerns, or the issues you care most about, I’m here to listen and learn.
 Along with experts and evidence, I truly want to hear your voice as colleagues and neighbors.
@@ -29,7 +31,7 @@ Along with experts and evidence, I truly want to hear your voice as colleagues a
 View Event → Jul 10 Coffee Hour Friday, July 10, 2026 9:00 AM 10:00 AM Istanbul Cafe (map) Google Calendar ICS Come learn about democracy and how to get engaged!
 Everyone’s welcome to come have a sip and chat with Monica.
 View Event → Jun 30 Election Night Watch Party Tuesday, June 30, 2026 6:00 PM 9:00 PM Inga's Alpine Tavern (map) Google Calendar ICS View Event → Jun 30 Election Day!
-Tuesday, June 30, 2026 12:01 AM 7:00 PM Google Calendar ICS View Event → Jun 29 Talk to neighbors with Monica (daily shifts) Monday, June 29, 2026 9:00 AM 7:30 PM Google Calendar ICS View Event → Jun 28 Talk to neighbors with Monica (daily shifts) Sunday, June 28, 2026 9:00 AM 7:30 PM Google Calendar ICS View Event → Jun 27 HD9 House District Meeting Saturday, June 27, 2026 10:30 AM 11:30 AM Virginia Village Library (map) Google Calendar ICS View Event → Jun 27 Talk to neighbors with Monica (daily shifts) Saturday, June 27, 2026 9:00 AM 7:30 PM Google Calendar ICS View Event → Jun 26 Talk to neighbors with Monica (daily shifts) Friday, June 26, 2026 9:00 AM 7:30 PM Google Calendar ICS View Event → Jun 25 Talk to neighbors with Monica (daily shifts) Thursday, June 25, 2026 12:00 PM 7:30 PM Google Calendar ICS View Event → Jun 24 Talk to neighbors with Monica (daily shifts) Wednesday, June 24, 2026 12:00 PM 7:30 PM Google Calendar ICS View Event → Jun 23 Talk to neighbors with Monica (daily shifts) Tuesday, June 23, 2026 3:00 PM 7:30 PM Google Calendar ICS View Event → Jun 21 Father’s Day Family-Friendly Tailgate and Denver Onyx Home Game Sunday, June 21, 2026 1:00 PM 5:00 PM Infinity Park (and parking lot) (map) Google Calendar ICS View Event → If no events are shown, stay tuned by checking back here, following me on social media, or contacting me directly.
+Tuesday, June 30, 2026 12:01 AM 7:00 PM Google Calendar ICS View Event → Jun 29 Talk to neighbors with Monica (daily shifts) Monday, June 29, 2026 9:00 AM 7:30 PM Google Calendar ICS View Event → Jun 28 Talk to neighbors with Monica (daily shifts) Sunday, June 28, 2026 9:00 AM 7:30 PM Google Calendar ICS View Event → Jun 27 HD9 House District Meeting Saturday, June 27, 2026 10:30 AM 11:30 AM Virginia Village Library (map) Google Calendar ICS View Event → Jun 27 Talk to neighbors with Monica (daily shifts) Saturday, June 27, 2026 9:00 AM 7:30 PM Google Calendar ICS View Event → Jun 26 Talk to neighbors with Monica (daily shifts) Friday, June 26, 2026 9:00 AM 7:30 PM Google Calendar ICS View Event → Jun 25 Talk to neighbors with Monica (daily shifts) Thursday, June 25, 2026 12:00 PM 7:30 PM Google Calendar ICS View Event → Jun 24 Talk to neighbors with Monica (daily shifts) Wednesday, June 24, 2026 12:00 PM 7:30 PM Google Calendar ICS View Event → Jun 23 Talk to neighbors with Monica (daily shifts) Tuesday, June 23, 2026 3:00 PM 7:30 PM Google Calendar ICS View Event → If no events are shown, stay tuned by checking back here, following me on social media, or contacting me directly.
 I look forward to connecting with you!
 Paid for by Monica for Colorado.
 Registered Agent Monica VanBuskirk.

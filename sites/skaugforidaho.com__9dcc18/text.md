@@ -23,7 +23,8 @@ Out in the district Meeting the people he serves.
 With Debbie Married since 1986.
 Family first Grandfather of fourteen.
 Keep Idaho in conservative hands Your contribution funds the signs, mailers, and door-knocks that win District 10B.
-Every dollar goes straight to the campaign, processed securely.
+Every dollar goes straight to the campaign, processed securely. $25 $50 $100 $250 $500 Other Contributions are not tax-deductible.
+Idaho campaign finance limits apply.
 CAMPAIGN About Bruce Issues Endorsements TAKE ACTION Donate Volunteer Request a Yard Sign CONNECT Contact Privacy Policy Proven conservative leadership for Idaho's 10th legislative district.
 PAID FOR BY SKAUG FOR IDAHO | GREG BRAUN, TREASURER © # Skaug for Idaho.
 All Rights Reserved Powered by Verastly ×

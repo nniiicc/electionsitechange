@@ -9,4 +9,9 @@ In this role, Kristine helped secure millions of dollars in federal grants to im
 Achievements Kristine’s hard work combined with a unique background and professional perspective played an important role in multiple achievements that have provided a national model for progressive action: ensuring educators can afford to live and work in the communities in which they teach our kids launching a Career Connect program that’s linking tens of thousands of students with apprenticeships and on-the-job training passing the country’s most progressive paid family leave policy to care for loved ones or newborns creating the country’s first long term health care benefit to help seniors stay in their homes pushing for the state’s first environmental justice directive to combat climate change and protect communities of color leading the effort to make childcare more accessible and affordable for ALL working families Mom, wife, trailblazer Kristine is the mom to two amazing kiddos and is married to her longtime sweetheart Camron.
 In 2016 Kristine was the first African American woman elected to the Washington House in 18 years, and the only woman in the legislature with children under the age of 5.
 Paid For by Friends to Elect Kristine Reeves 1815 SW Campus Drive.
-#26332 Federal Way, 98093 bottom of page
+#26332 Federal Way, 98093 Friends to Elect Kristine Reeves may contact supporters and voters by text message for outreach, get-out-the-vote, and volunteer recruitment.
+Message and data rates may apply.
+Message frequency varies.
+Reply STOP to opt out at any time, or HELP for help.
+We do not sell or share your phone number with third parties for their own marketing.
+Questions: info@kristinereeves.com . bottom of page

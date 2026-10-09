@@ -1,5 +1,5 @@
 top of page Texas District 8 Candidate for U.S.
-House info@laura4tx.com About Donate Media Endorsements Laura Listens Blog Contact All Articles Search Hawks, Hawkeyes, and the defense of Donald Trump sk9001 #ago 2 min read By now, I assume that you're familiar with Eric Schmitt's attempted ambush in a recent Senate hearing.
+House info@laura4tx.com About Donate Media Endorsements Laura Listens Blog Contact All Articles Search Hawks, Hawkeyes, and the defense of Donald Trump sk9001 Oct 1 2 min read By now, I assume that you're familiar with Eric Schmitt's attempted ambush in a recent Senate hearing.
 If you haven't heard about it, I'll just summarize the gaffe this way: Schmitt and his fellow Republicans tried to "expose" a conspiratorial relationship between prosecutor Jack Smith and Atlanta's District Attorney.
 Unfortunately for Schmitt, his "evidence" pointed to a basketball game that featured the Atlanta Hawks. and not the Iowa Hawkeyes, who played in a game that Smith DID attend.
 Bottom line: Jack Smith did not attend a Hawks game and did not meet with Atlanta's D.A. in an effort to bring down Donald Trump.

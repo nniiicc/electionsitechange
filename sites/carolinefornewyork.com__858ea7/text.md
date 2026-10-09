@@ -42,7 +42,11 @@ In addition, Caroline Shinkle spent a semester studying in Paris at l’Institut
 She earned her J.D. from Harvard Law School, then put her law degree to work at a leading international law firm in New York City, advising businesses and financial institutions on mergers and acquisitions, capital markets, and financial regulatory matters.
 Caroline Shinkle is admitted to the United States Supreme Court, New York, Washington, D.C., Ohio, and Massachusetts bars.
 Caroline Shinkle's legal, economic, and central banking background provide a unique understanding of the conditions needed to turbocharge widespread economic growth and prosperity for New York.
-READ HER FULL STORY SUPPORT THE CAMPAIGN Help Caroline Shinkle Win for You and for New York Every dollar counts…can we count on you to chip in and donate to Caroline Shinkle’s movement to restore common sense to Manhattan? $5 $10 $25 $50 $100 $250 $500 Donate → A Selection of Leaders Who Stand with Caroline Shinkle Endorsements Bill Ackman Founder and CEO of Pershing Square Capital Management “Hi, I'm Bill Ackman.
+READ HER FULL STORY SUPPORT THE CAMPAIGN Help Caroline Shinkle Win for You and for New York Every dollar counts…can we count on you to chip in and donate to Caroline Shinkle’s movement to restore common sense to Manhattan? $5 $10 $25 $50 $100 $250 $500 Donate → A Selection of Leaders Who Stand with Caroline Shinkle Endorsements John Chell Former NYPD Chief of Department "As the NYPD's former Chief of Department, I enthusiastically endorse Caroline Shinkle for U.S.
+Congress to represent New York's 12th Congressional District.
+Caroline Shinkle will always back the blue, and she will be a strong advocate for our men and women in law enforcement.
+Caroline Shinkle understands the importance of supporting and empowering our law enforcement to do their jobs and will fight against the coddle-the-criminal policies that endanger all of us.
+Let’s get this done NY-12 the change starts now." Bill Ackman Founder and CEO of Pershing Square Capital Management “Hi, I'm Bill Ackman.
 This is Caroline Shinkle.
 She's running for Congress.
 I've met her recently.
@@ -59,14 +63,7 @@ The next few weeks really matter." Watch video → Dr.
 Naomi Wolf Bestselling Author, Former Democratic Operative, and Former Adviser to Bill Clinton and Al Gore "She's thoughtful.
 She's accomplished.
 She's committed.
-And she's going to keep this city safe and prosperous." Watch video → Mike DeWine Ohio Governor "My name is Mike DeWine, I'm the Governor of the State of Ohio.
-I've known Caroline Shinkle her entire life.
-I'm happy to endorse her for New York's 12th Congressional District.
-Caroline is smart.
-She's compassionate.
-She's someone throughout her entire life has always gotten the job done.
-I served in Congress.
-I know that Caroline Shinkle has what it takes to represent the 12th district and the constituents and do a great, great job." Watch video → See all endorsements In the News Latest Press Listen to Caroline Shinkle's Interview ﻿with Bill Ackman on X Spaces October 6, 2026 → https://www.youtube.com/shorts/-YDfBaushDs?si=OYfhrLRW37d3B4u0 Caroline Shinkle Joins Rob Astorino on Newsmax's Saturday Agenda September 28, 2026 → Caroline Shinkle Joins E.D.
+And she's going to keep this city safe and prosperous." Watch video → See all endorsements In the News Latest Press Listen to Caroline Shinkle's Interview ﻿with Bill Ackman on X Spaces October 6, 2026 → https://www.youtube.com/shorts/-YDfBaushDs?si=OYfhrLRW37d3B4u0 Caroline Shinkle Joins Rob Astorino on Newsmax's Saturday Agenda September 28, 2026 → Caroline Shinkle Joins E.D.
 Hill and John Huddy on Newsmax's National Report September 28, 2026 → See all NEWs Stay Connected  Caroline Shinkle for Congress  @therealcarolineshinkle  @TheRealCShinkle  @CarolineforNewYork @therealcshinkle JOIN THE MOVEMENT Be part of history Every dollar powers the movement, voters reached, and change made.
 This race is winnable and you can be part of it.
 By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from Caroline for Congress.

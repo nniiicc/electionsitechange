@@ -1,0 +1,3 @@
+Skip to content Emily Sirota on Facebook Emily Sirota on Instagram Emily Sirota on LinkedIn Emily Sirota on X About Emily Bio Endorsements Priorities News & Media In the News Photos Video Election Information Voter Information 2026 Ballot Guide Donate Colorado State Senate · District 32 Video Meet Emily A mom and a social worker on a mission to make Colorado a place where we’re not just surviving, we’re all thriving.
+Donate More Video VIDEO · 0:15 Elections we can count on Emily Sirota for Colorado P.O.
+Box 24091 · Denver, CO 80224 emily@emilyforcolorado.com Follow along Emily Sirota on Facebook Emily Sirota on Instagram Emily Sirota on LinkedIn Emily Sirota on X Paid for by Emily Sirota for Colorado; Registered Agent: Emily Sirota

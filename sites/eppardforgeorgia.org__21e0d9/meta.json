@@ -1,9 +1,14 @@
 {
  "description": "",
  "final_url": "https://eppardforgeorgia.org/",
- "fingerprint": "11784088b33c9631a102b40578df686b63643358",
+ "fingerprint": "cd06a7d5e31a871a747ec59246ac1c7b277946bd",
  "format": 3,
  "paid_for_by": "",
+ "rendered": true,
  "title": "Eppard for Georgia",
- "years_mentioned": []
+ "years_mentioned": [
+  "1997",
+  "2006",
+  "2025"
+ ]
 }

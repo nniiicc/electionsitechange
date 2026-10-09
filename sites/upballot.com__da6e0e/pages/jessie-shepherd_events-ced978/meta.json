@@ -1,9 +1,10 @@
 {
  "description": "See Jessie’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/jessie-shepherd/events/",
- "fingerprint": "edd02884440fdcdfb19e1061fab4040d9785961e",
+ "fingerprint": "545ef1583e95c579b5bc20b0e3a9613f3fcd9dc6",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Jessie Shepherd Events",
  "years_mentioned": [
   "2026"

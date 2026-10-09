@@ -57,7 +57,7 @@ He embodies the values of justice, integrity, and accountability.
 As Attorney General, he will work tirelessly to ensure that every voice is heard and every citizen is protected.
 Join us in supporting a candidate who truly cares about the future of our state.
 Your vote for Bob Fioretti is a vote for a brighter, more just Illinois.
-Recent Posts See All Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold Bio Series Part 6: Bob Fioretti's Independent Record of Reform DEADLINE: 100% Match Active (Help Bob defeat corrupt Springfield) EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+Recent Posts See All Charleston Hosts Historic 4th Lincoln-Douglas Debate on October 16th Fioretti Luncheon Featuring Special Guests Senator Mark Kirk & Congressman Bob Dold Bio Series Part 6: Bob Fioretti's Independent Record of Reform EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

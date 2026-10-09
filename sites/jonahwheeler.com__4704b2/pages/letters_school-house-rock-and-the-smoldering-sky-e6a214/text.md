@@ -1,5 +1,4 @@
-Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all School House Rock and the Smoldering Sky School House Rock and the Smoldering Sky School House Rock and the Smoldering Sky Nov 30, 2025 Nov 30, 2025 November 2025 The Smoldering Sky - Tuesday 11 November 21:11 - By Jonah O.
-The Smoldering Sky - Tuesday 11 November 21:11 - By Jonah O.
+Back to all School House Rock and the Smoldering Sky Nov 30, 2025 November 2025 The Smoldering Sky - Tuesday 11 November 21:11 - By Jonah O.
 0:00 / 1:34 The beauty of the spring, summer, and early fall is obvious.
 The drama of the budding leaves of spring leading into the green shine of the sun through full forest in summer, ultimately ending in the annual burst of flame across the New England landscape as the trees prepare to lose their leaves.
 Undeniable beauty that only takes a walk outside the door to see.
@@ -24,7 +23,6 @@ Then, I hear my friend outside shout with excitement.
 I rush outside to see a clear green band with sprinkles of red running across the night sky.
 The smoldering ionosphere glistening as a mirage over the stars.
 There could be no better way to kick off the cold tail end of the fall season than a massive solar storm giving us a show in the sky, and it serves as a great reminder that despite the mundane nature of this season of the year, that bursts of excitement can be found - if you’re willing to step out and look for them.
-The aftermath of surveying - Thursday 13 November 09:39 - By Jonah O.
 The aftermath of surveying - Thursday 13 November 09:39 - By Jonah O.
 November the 21st is the deadline to sign off on all legislation proposed for the 2nd year of the 169th General Court of the State of New Hampshire.
 The rules of the House and Senate give it’s members one week to file a legislative service request (LSR) for the bills they wish to be proposed.
@@ -82,7 +80,6 @@ Meaning only that which the leadership of the body deems worthy can be heard bef
 Leaving the full membership without any sense of agency in their ability to carry out their responsibility to represent the constituents who elected them to serve this constitutional obligation to the State.
 This entire process is set forth by the respective rules of each body, which are first heard by the rules committees but ultimately voted on by each body at the beginning of each biennium after election of both offices of leadership in the legislative branch.
 The rules of the House and the Senate are public, and can be found at https://gc.nh.gov/ The final bits of fire - Monday 10 November 15:06 - By Jonah O.
-The final bits of fire - Monday 10 November 15:06 - By Jonah O.
 In this my fourth year in office, I wrote seven pieces of legislation to be filed during the September filing period.
 Two of which I withdrew, one of which was rejected.
 The two which I withdrew were a bills to lower the signature amount needed to create a third party in the State, and another to create a vacation home tax.
@@ -166,7 +163,6 @@ Every bill that I wrote this session is sponsored by members on both sides of th
 I made sure that was the case not just because in order for any of them to pass I will need buy in from the party given the majority in the legislature; but more importantly because these issues should be non-partisan and pass in a bipartisan way.
 It may seem at a first glance that these bills will never pass, and all I can say to that is - never underestimate the unpredictable nature of the New Hampshire legislature.
 Holiday Market - Saturday 29 November 18:12 - Photo by Jonah O.
-Holiday Market - Saturday 29 November 18:12 - Photo by Jonah O.
 The image of the smoldering sky has stuck with me throughout the month.
 Some in my life have tried to use the fact it was such a strong solar storm as an omen of destruction.
 An omen for a coming cataclysm.
@@ -185,4 +181,4 @@ Yes, in each of those there is rot that is seemingly pervasive but throughout th
 The darkness of winter makes us turn on the internal light within.
 Take the lesson of each winter, and walk forward with your spirit on fire; fueling your creative drive in whatever you find passion in.
 Going out with your sharp eye and finding the beauty in the mundane.
-A Night Out With the Moms - Saturday 29 November 18:28 - Photo by a helpful passerby A Night Out With the Moms - Saturday 29 November 18:28 - Photo by a helpful passerby ‹ The Curtain of Slop ‹ The Curtain of Slop ‹ The Curtain of Slop The Party of Lepers › The Party of Lepers › The Party of Lepers › Back to all
+A Night Out With the Moms - Saturday 29 November 18:28 - Photo by a helpful passerby ‹ The Curtain of Slop The Party of Lepers › Back to all

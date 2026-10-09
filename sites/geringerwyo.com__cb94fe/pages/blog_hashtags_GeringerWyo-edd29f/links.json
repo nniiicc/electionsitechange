@@ -4,6 +4,10 @@
 "href": "tel:(307)%20631-8648"
 },
 {
+"text": "All Posts",
+"href": "https://www.geringerwyo.com/blog"
+},
+{
 "text": "Contact",
 "href": "https://www.geringerwyo.com/contact"
 },
@@ -66,9 +70,5 @@
 {
 "text": "[image: stars.png]",
 "href": "https://www.geringerwyo.com/blog/hashtags/GeringerWyo"
-},
-{
-"text": "[no text]",
-"href": "https://www.geringerwyo.com/blog"
 }
 ]

@@ -1,4 +1,4 @@
-Español VINCE PEREZ Texas HD 77 · El Paso ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate HD 77 · Ways & Means · Deputy Whip Fighting for Texas.
+Español ☰ Home Meet Vince The Record Priorities Fair Maps Reproductive Rights Newsroom Services Contact Donate HD 77 · Ways & Means · Higher Education Fighting for Texas.
 Delivering for El Paso.
 Texas State Representative Vince Perez represents El Paso — and serves on Ways & Means, where the state's tax decisions get made.
 In 2025 he broke quorum over the redistricting maps, met with Governor Newsom, and returned to the floor to deliver the most-circulated rebuttal of HB 4.
@@ -42,7 +42,7 @@ El Paso deserves a fighter who also delivers.
 Add your name.
 Make a contribution.
 Forward this to a friend.
-Make a contribution Sign up for updates VINCE PEREZ Fighting for Texas.
+Make a contribution Sign up for updates Fighting for Texas.
 Delivering for El Paso.
 State Representative · Texas House District 77 · El Paso.
 Ways & Means.

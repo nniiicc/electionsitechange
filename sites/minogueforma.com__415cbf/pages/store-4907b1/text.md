@@ -1,5 +1,5 @@
 Skip to main content Skip to footer Opens in a new tab Donate Days since Maura Healey promised a gas-tax suspension: Days Hours Min Sec Demand Action!
-Home Meet Mike Meet Renee Blueprint for a Better Future In The News Get Involved Make a Plan to Vote Store Donate Team Minogue Store Show Your Support.
+Home Meet Mike Meet Renee Blueprint for a Better Future In The News Events Get Involved Make a Plan to Vote Store Donate Team Minogue Store Show Your Support.
 Wear the Movement.
 Every purchase from the Team Minogue Store helps fuel the campaign and spread the message.
 Represent the movement, spark conversations, and support Massachusetts’ future at the same time.

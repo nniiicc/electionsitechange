@@ -1,9 +1,10 @@
 {
  "description": "Get the latest news and updates from Jaclyn’s campaign.",
  "final_url": "https://www.upballot.com/Jaclyn-Zimmermann/news/",
- "fingerprint": "2b3ff0bd8080282e413484a94f881d3279248093",
+ "fingerprint": "4e2d283d02b55bff961812c4df7e321aea2b7c42",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "News & Updates from Jaclyn Zimmermann",
  "years_mentioned": [
   "2024"

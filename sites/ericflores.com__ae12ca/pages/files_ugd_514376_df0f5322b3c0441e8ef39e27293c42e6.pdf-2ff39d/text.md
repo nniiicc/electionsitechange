@@ -1,0 +1,9 @@
+April 23, 2026 Contact: press@ericflores.com Tommy Guastaferro (336) 577-6069 Representative Vicente Gonzalez Receives Guatemalan Order of the Quetzal, Joining Fidel Castro and Benito Mussolini HARLINGEN, TX – Eric Flores, a former U.S.
+Army Infantry Captain, former federal prosecutor, and Republican nominee for Texas’ 34th Congressional District, issued the following statement today in response to Rep.
+Vicente Gonzalez’s acceptance of Guatemala’s highest civilian honor, the Order of the Quetzal: “While I respect the people of Guatemala and value strong diplomatic relations with our allies in Central America, Rep.
+Vicente Gonzalez’s proud acceptance of the Order of the Quetzal raises serious questions about where his loyalties lie.
+This is the same award previously given to figures like Fidel Castro and Benito Mussolini—an honor with a troubling history that began under an authoritarian regime.
+"For too long, Congressman Gonzalez has backed policies that have left our southern border wide open, fueled record levels of illegal immigration, and burdened the hardworking families of the Rio Grande Valley.
+While South Texas continues to struggle with lagging economic development, infrastructure needs, and public safety challenges, Gonzalez seems more focused on earning international accolades than delivering results for his own constituents.
+"The people of Texas’ 34th District deserve a representative who puts America first—securing our border, creating good-paying jobs, and fighting for the communities that elected him.
+As your next Congressman, I will prioritize border security, law and order, and economic opportunity for South Texas every single day, not photo-ops or foreign honors.” ### PAID FOR BY ERIC FLORES FOR CONGRESS Eric Flores for Congress | PO Box 84 | San Benito, TX 78586 US Unsubscribe | Update Profile | Constant Contact Data Notice

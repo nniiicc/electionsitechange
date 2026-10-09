@@ -3,4 +3,4 @@ It fully funded the new state veterans homes in Preston, Bemidji, and Montevideo
 The 2026 capital investment bill added $17.2 million to fully remodel Building 16 at the Minneapolis Veterans Home, which houses up to fifty residents, and $15 million to preserve veterans homes and cemeteries across the state.
 Veterans in greater Minnesota shouldn’t have to move to the metro to get care.
 Where I stand Serve the veterans who served us → Join us Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue Next Property tax relief → PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

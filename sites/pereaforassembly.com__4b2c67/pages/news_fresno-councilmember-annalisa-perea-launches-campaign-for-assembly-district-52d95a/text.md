@@ -23,4 +23,4 @@ She served as City Council President in 2024 and led a bipartisan effort to brin
 Prior to serving on the Fresno City Council, she was elected to the State Center Community College board.
 Annalisa Perea is a certified city planner with expertise in the California Environmental Quality Act.
 Her work has led to the creation of hundreds of jobs and thousands of new homes across the Central Valley.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

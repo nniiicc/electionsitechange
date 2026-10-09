@@ -1,4 +1,4 @@
-Skip to content Home About Platform Donate Home About Platform Economic Opportunity Environment Government Accountability Healthcare Working Families Contact Us Donate Menu Government Accountability and Transparency Legislators should be chosen by voters, rather than choosing which voters are in their district.
+Skip to content Home About Platform Donate Home About Platform Economic Opportunity Education Environment Government Accountability Healthcare Working Families FAQ Contact Us Donate Menu Government Accountability and Transparency Legislators should be chosen by voters, rather than choosing which voters are in their district.
 We need a fresh eye in Raleigh to make sure the NC government is transparent.
 I’ll focus on sound policy and governance that benefits working families—not partisan politics that benefit a few.
 What are they hiding in Raleigh?

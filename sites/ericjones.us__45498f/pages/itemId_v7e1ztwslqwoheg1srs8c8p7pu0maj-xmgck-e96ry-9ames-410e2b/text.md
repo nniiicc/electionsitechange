@@ -57,4 +57,4 @@ End the corruption, and we can lower costs.
 Lower costs, and we can protect the future our kids deserve.
 That’s the fight — and I’m asking you to join me.
 Follow Eric Jones on Instagram View fullsize View fullsize View fullsize View fullsize Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
-Privacy Policy & Terms No corporate PAC or special interest money accepted.
+No corporate PAC or special interest money accepted.

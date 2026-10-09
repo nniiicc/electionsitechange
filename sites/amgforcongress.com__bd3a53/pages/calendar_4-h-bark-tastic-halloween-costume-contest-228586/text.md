@@ -6,5 +6,5 @@ How it works: 1- Dream up a costume for your dog!
 You can dress in a matching or coordinated theme contest.
 3 - Check in with 4-H at the Wakulla Extension Arena between 2 and 2:30 PM.
 The $5 registration fee (payable by cash or check on site) for contest entries helps cover recognition items & contest costs.
-Learn More: https://business.wakullacountychamber.com/eventcalendar/Details/4-h-bark-tastic-halloween-costume-contest-1912820?sourceTypeId=Website Previous Previous October 17 No King's Voting Rights Rally Next Next October 18 Bay County LEAD Coalition & NAACP Get Out The Vote Event TO SEND A CHECK: P.O.
+Learn More: https://business.wakullacountychamber.com/eventcalendar/Details/4-h-bark-tastic-halloween-costume-contest-1912820?sourceTypeId=Website Previous Previous October 17 TEAM AMG/VOLUNTEERS: No King's Voting Rights Rally Next Next October 18 Bay County LEAD Coalition & NAACP Get Out The Vote Event TO SEND A CHECK: P.O.
 Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

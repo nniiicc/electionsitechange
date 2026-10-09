@@ -18,5 +18,4 @@ What Guides Her Leadership that listens, delivers, and stays accountable.
 03 Protect Dignity From seniors to students to first responders, public service should make daily life safer, fairer, and more stable.
 Move with us Join the campaign.
 Move District 4 forward.
-Volunteer Donate About Issues Endorsements Get Involved Contact Facebook Instagram TikTok © # Paid for by Friends of Regina Ross, 13441 Mackenzie, Detroit, MI 48228 13144 Mackenzie Detroit, MI 48228 [email protected] 313-310-9364 Website by Velu Design Studio × Velu Design Studio contact details V Design Studio Velu Built to be unforgettable.
-Call (313) 710-7244 Email [email protected] Web design · visual identity · digital experiences Volunteer Donate
+Volunteer Donate About Issues Endorsements Get Involved Contact Facebook Instagram TikTok © # Paid for by Friends of Regina Ross, 13441 Mackenzie, Detroit, MI 48228 13144 Mackenzie Detroit, MI 48228 [email protected] 313-310-9364 Volunteer Donate

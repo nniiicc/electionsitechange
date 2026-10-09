@@ -1,0 +1,20 @@
+Office of Representative Hannah E.
+Kane Commonwealth of Massachusetts For Immediate Release Contact: Charlyce Bozzello 617-­‐722-­‐2430, charlyce.bozzello@mahouse.gov November 9, 2015 House and Senate Republicans call for vote on substance abuse bills to address opioid crisis Legislators urge action before November 18 recess BOSTON – Citing an alarming rise in drug overdose deaths across the Commonwealth, members of the House and Senate Republican Caucuses are calling on Senate President Stanley Rosenberg and House Speaker Robert DeLeo to schedule a vote on Governor Baker’s opioid bill and other pending substance abuse legislation prior to the Legislature’s winter break on November 18.
+The request was included in a letter hand-delivered to the Senate President’s and House Speaker’s offices today.
+The letter was signed by all 34 Republican state Representatives and all 6 Republican state Senators, including Representative Hannah Kane, (R-Shrewsbury).
+“We cannot stress enough the importance of moving quickly to pass this bill,” the letter states.
+“Time is of the essence, as an average of four people die from an opioid overdose in Massachusetts every day.
+Our concern is that allowing this bill to languish until after the House and Senate resume formal sessions in January will result in many more lives lost to drugs.
+Any prolonged delay in taking action on the Governor’s opioid bill is unnecessary, and can lead to preventable loss and disruption of lives, as many of these opioid-related deaths could actually be avoided using the prevention and treatment guidelines outlined in the administration’s proposal.” The letter cites data from the Department of Public Health indicating that 3 out of every 4 communities in Massachusetts experienced at least one opioid-related overdose death between 2012 and 2014.
+The state also experienced a 20% increase in opioid-related deaths between 2013 and 2014, with 1,089 fatalities recorded last year alone, a number that is expected to climb even higher this year.
+Governor Baker’s bill would require practitioners to check the Prescription Monitoring Program before prescribing an opiate, and would mandate five hours of training every two years for practitioners who prescribe controlled substances, with a focus on effective pain management and ways to identify high-risk patients.
+It also would limit first-time opiate prescriptions to a 3-day supply, except in emergency situations, and would empower doctors to subject drug addicts to an involuntary hospitalization for 72 hours if they are deemed to pose a risk to themselves and others.
+In addition, the bill would provide increased access to Recovery High Schools for students diagnosed with a substance abuse disorder.
+“We are united in our efforts to address this growing epidemic that is claiming far too many lives in our communities, and believe the best way to do that is to not only implement appropriate treatment and recovery programs, but also to emphasize the importance of prevention and intervention,” said House Minority Leader Bradley H.
+Jones, Jr.
+(R-North Reading).
+“The Governor’s bill incorporates all of these approaches, and our hope is that this letter will help to spur action on this legislation because we know there is strong bipartisan support for getting it passed in both branches.” “The epidemic of opiate abuse and addiction is tearing at the fabric of families, our communities, and our economy.
+Every day this problem takes its toll on our Commonwealth, and we need to respond to the call to action it creates,” said Senate Minority Leader Bruce Tarr (R-Gloucester).
+“In the last session, the legislature took aim at strengthening treatment options for those with addiction, and made great progress.
+But now is not the time to pause, and we must forge ahead with bills, including the Governor's, that contain powerful tools to prevent people from becoming addicted, and do everything possible to stop preventable deaths.
+There is no time to waste in the face of this crisis.” (A copy of the letter is attached.) ###

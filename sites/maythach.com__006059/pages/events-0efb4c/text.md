@@ -1,8 +1,7 @@
 Home Meet May Events Endorsements Contact Take Action Donate Now Join the movement and stay connected to campaign updates.
 Menu Home Meet May Events Endorsements Contact Take Action Donate Now Join the movement and stay connected to campaign updates.
 Upcoming Events Find opportunities to gather, volunteer, and connect across District 61.
-Thursday Lit Drop Join us as we walk to drop literature for vote-by-mail voters in District 61!
-October 8 | 5:30pm - 7:30pm TBA Sign Up Saturday Canvass with Angie Nixon Join us on the campaign trail as we canvass for both May Thach and Angie Nixon.
+Saturday Canvass with Angie Nixon Join us on the campaign trail as we canvass for both May Thach and Angie Nixon.
 October 10 | 10am - 12pm https://www.mobilize.us/angieforflorida/event/1024952/ Sign Up Sunday Phone banking Training May will host a virtual training session to teach our volunteers how to phone bank for the campaign.
 Sign up, and details for the virtual meeting will be emailed out.
 October 11 | 10am - 12pm Virtual or email outreach@maythach.com Sign Up Voulunteer Apprection night at Jules's Join us for a party dedicated to you, our volunteers!!

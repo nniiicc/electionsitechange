@@ -1,0 +1,2 @@
+“I’m proud to stand with President Trump and fight for the hardworking families of Senate District 2.
+Together, we’re delivering real conservative wins for Oklahoma.” — Ally Seifried STRONG CONSERVATIVE Authorized and Paid for by Ally Seifried for State Senate 2026 DEEP OKLAHOMA ROOTS ALLY SEIFRIED is Delivering Real Wins for Oklahoma Families CUT Your Taxes FOUR Times BANNED Sanctuary Cities BLOCKED Foreign Ownership of Oklahoma Farmland BANNED Radical Gender Ideology in Schools PRO SMALL BUSINESS PRO EMPOWERING PARENTS PRO FREEDOM f @VoteAllySeifried

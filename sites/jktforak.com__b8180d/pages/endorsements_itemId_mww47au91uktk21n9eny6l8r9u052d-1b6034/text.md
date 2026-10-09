@@ -17,10 +17,10 @@ Calvin Schrage View fullsize Assembly Member Sydney Scout View fullsize Fmr.
 State Rep.
 Ivy Spohnholz View fullsize Fmr.
 National Committeeman for the Alaska Democratic Party, Ed Wesley View fullsize Fmr.
-Assembly Member Meg Zaletel COastal & RuraL View fullsize Mayor Pat Branson, Kodiak View fullsize Mayor Saima Chase, Kotzebue View fullsize Fmr.
+Assembly Member Meg Zaletel COastal & RuraL View fullsize Fmr.
+Mayor Pat Branson, Kodiak View fullsize Mayor Saima Chase, Kotzebue View fullsize Fmr.
 Lt.
-Governor Val Davidson, Bethel View fullsize Fmr.
-City Council Member Charlie Davidson, Kodiak View fullsize Fmr.
+Governor Val Davidson, Bethel View fullsize City Council Member Charlie Davidson, Kodiak View fullsize Fmr.
 Mayor Hugh Dyment, Bethel View fullsize Speaker of the House Bryce Edgmon, Dillingham View fullsize School Board President David Gibson, Unalaska View fullsize Mayor Terry Haines, Kodiak View fullsize President & CEO of Bethel Native Corporation and Fmr.
 Co-Chair of Alaska Federation of Natives Ana Hoffman, Bethel View fullsize Fmr.
 Mayor Frank Kelty, Unalaska View fullsize Fmr.

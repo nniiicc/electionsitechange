@@ -1,1 +1,18 @@
-
+RYAN FOR GA For State House • District 176 About Issues Events Volunteer Donate Leadership.
+Action.
+Results.
+MARCUS RYAN FOR STATE HOUSE DISTRICT 176 Real leadership Real results Donate Now Volunteer Latest Updates: Mar 28, 2026 Official Campaign Launch • 7 South Highway, Lakeland, GA Apr 11, 2026 Democratic Party Meet Up • Atlanta, Georgia Nov 03, 2026 Election Day • District 176 Mar 28, 2026 Official Campaign Launch • 7 South Highway, Lakeland, GA Apr 11, 2026 Democratic Party Meet Up • Atlanta, Georgia Nov 03, 2026 Election Day • District 176 Mar 28, 2026 Official Campaign Launch • 7 South Highway, Lakeland, GA Apr 11, 2026 Democratic Party Meet Up • Atlanta, Georgia Nov 03, 2026 Election Day • District 176 Mar 28, 2026 Official Campaign Launch • 7 South Highway, Lakeland, GA Apr 11, 2026 Democratic Party Meet Up • Atlanta, Georgia Nov 03, 2026 Election Day • District 176 Mar 28, 2026 Official Campaign Launch • 7 South Highway, Lakeland, GA Apr 11, 2026 Democratic Party Meet Up • Atlanta, Georgia Nov 03, 2026 Election Day • District 176 Mar 28, 2026 Official Campaign Launch • 7 South Highway, Lakeland, GA Apr 11, 2026 Democratic Party Meet Up • Atlanta, Georgia Nov 03, 2026 Election Day • District 176 Meet Marcus A Lifetime of Service 2026 Election Year A Leader Fighting for Georgia's Future Marcus Ryan is a US Marine Veteran, community leader, and lifelong Georgian.
+Raised with the values of hard work and integrity, Marcus has spent his career building solutions that work for people, not special interests.
+With a background in community development and economic strategy, Marcus understands the challenges facing our state.
+He's running for Georgia State House, District 176 to ensure that every family has a seat at the table and every child has a path to success.
+Local Roots Born and raised in Georgia US Marine Veteran Served with honor and distinction Join the Campaign The Plan Priorities for Georgia Families Supporting Georgia's families by expanding access to affordable childcare, strengthening community resources, and ensuring every household has the opportunity to thrive.
+We believe that strong families are the foundation of a strong Georgia.
+Farming and Agriculture Fiscal Responsibility Education Support Fuel the Movement Your Support Matters Every contribution, no matter the size, helps us reach more voters and share our vision for a better Georgia.
+Donate Now 100% Local Grassroots Secure Processing Connect Upcoming Events Mar 28, 2026 • 4:30 PM Official Campaign Launch 7 South Highway, Lakeland, GA RSVP Now Apr 11, 2026 • 6:00 PM - 8:00 PM Democratic Party Meet Up Atlanta, Georgia RSVP Now Nov 03, 2026 • 7:00 AM - 7:00 PM Election Day Your Local Polling Place, District 176 RSVP Now Find a Campaign Office Locate the nearest community center or campaign hub to get involved locally.
+Find Near Me View All Events Get Involved Join the Team Full Name Email Address Phone Number City Areas of Interest Door Knocking Phone Banking Social Media Support Data Entry Event Planning Community Outreach Yard Sign Delivery Fundraising Translation Services Message (Optional) Sign Up to Volunteer "Marcus Ryan is exactly the kind of leader Georgia needs—principled, hardworking, and focused on results." — Sarah J., Small Business Owner "I've seen Marcus in action.
+He doesn't just talk about problems; he rolls up his sleeves and fixes them." — David M., Community Leader Vote FOR Marcus Ryan for State House election in 2026 district 176 November 3, 2026.
+A leader we can trust.
+RYAN FOR GA For State House • District 176 Real leadership Real results Quick Links About Marcus The Issues Events Volunteer Donate Newsletter Stay updated with the latest campaign news.
+Paid for by Marcus Ryan for Georgia © # RyanForGeorgia.com.
+All Rights Reserved.
+Privacy Policy Terms of Use Contact Us

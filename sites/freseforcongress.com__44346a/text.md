@@ -2,7 +2,7 @@ Common sense for Contra Costa Frese For Congress Make California affordable.
 Better schools.
 Safer streets.
 Common sense.
-Donate Volunteer from your phone Instagram X Facebook Reddit Can't give money?
+Donate Volunteer from your phone Instagram X Facebook Reddit YouTube TikTok Can't give money?
 Post in your town's Facebook and Nextdoor groups.
 That's the whole ask.
 Help this campaign without spending a dime I'm not asking for a check.
@@ -27,7 +27,7 @@ Everyone says they want money out of politics.
 Here's your chance to prove it.
 No PACs, no big donors, no consultants.
 A campaign that isn't bought can't be sold.
-Join the Digital Volunteers Nobody should get rich — or grow old — running your government Clean Up Congress Congress was never meant to be a career, and you certainly shouldn’t get rich from it.
+Join the Digital Volunteers Nobody should get rich, or grow old, running your government Clean Up Congress Congress was never meant to be a career, and you certainly shouldn’t get rich from it.
 You should be there to serve.
 The career grifters have turned it into a job with a pension, and the outcome for you stopped mattering a long time ago. - 8-year term limits.
 Congress was never meant to be a career. - Ban members of Congress from trading stocks. - No budget, no pay. - Close the revolving door.
@@ -37,7 +37,8 @@ They print and devalue your dollar and inflate assets, and every year a home get
 Most Americans now live paycheck to paycheck.
 The American dream is slipping away, and Congress did that.
 Owning a home here shouldn’t feel impossible, and raising a family here shouldn’t feel like a luxury. - Stop the deficit spending that drives up mortgage rates and prices. - Cut the red tape that makes building slow and expensive. - Ban Wall Street and hedge funds from buying single-family homes. - Block foreign ownership of American farmland and family homes.
-Safe streets aren’t partisan — they’re the baseline Safety Every neighborhood in this district should feel safe after dark. - Back the police.
+Safe streets aren’t partisan.
+They’re the baseline Safety Every neighborhood in this district should feel safe after dark. - Back the police.
 Prosecute crime. - End cashless bail.
 Consequences can't be optional. - Keep repeat offenders off the streets. - Get fentanyl off our streets.
 Real consequences for dealers. - Keep boys out of girls' sports.
@@ -50,14 +51,14 @@ Keep vote by mail.
 Make Election Day a holiday so anyone who wants to vote in person can, and show ID when you do. - Make Election Day a national holiday. - Voter ID for federal elections. - Same-day voting with ID.
 Keep vote by mail. - Paper ballots as the permanent audit trail. - Transparent, auditable results voters can trust.
 Schools should teach.
-That’s the whole job Education Schools should prepare kids for real life — not just more bureaucracy. - No federal income tax on teachers. - Money to classrooms, not bureaucrats. - Back to basics: reading, math, history and civics. - Bring back shop class and the trades. - Prepare kids for automation and AI. - Parents in charge.
+That’s the whole job Education Schools should prepare kids for real life, not just more bureaucracy. - No federal income tax on teachers. - Money to classrooms, not bureaucrats. - Back to basics: reading, math, history and civics. - Bring back shop class and the trades. - Prepare kids for automation and AI. - Parents in charge.
 You paid into it your whole life.
 It’s yours Social Security & Medicare You worked for it.
 Washington doesn’t get to touch it. - No cuts.
 You earned it. - No raising the retirement age. - Invest part of the trust fund in the S&P 500.
 Done in the 1980s, it would run a surplus today. - Go after the fraud and waste.
 Benefits for Americans who paid in.
-A Different Focus My focus is Contra Costa families and the things that actually hit your life: your kids' schools, your safety, your bills, your job, and the retirement you were promised.
+A Different Focus My focus is families in Contra Costa, Castro Valley, Ashland and San Leandro, and the things that actually hit your life: your kids' schools, your safety, your bills, your job, and the retirement you were promised.
 My opponent has had eleven years, 204 bills, and two laws to show for it.
 For him it's about the income.
 For me it's about the outcome.
@@ -75,7 +76,7 @@ Endorsed by: Steve Hilton · Contra Costa Republican Party · Alameda County Rep
 Email: [email protected] · Call/text: (925) 222-5416 Support the Campaign Grassroots support powers this campaign.
 Donate today to help bring new leadership to Congress.
 Donate Questions?
-Email: [email protected] · Call/text: (925) 222-5416 Paid for by Frese For Congress. · Privacy Policy Privacy Policy Frese For Congress collects only what you give us: your name, email, phone number, and ZIP code when you sign up, volunteer, or donate.
+Email: [email protected] · Call/text: (925) 222-5416 Paid for by Frese For Congress. · Privacy Policy · Text Terms Privacy Policy Frese For Congress collects only what you give us: your name, email, phone number, and ZIP code when you sign up, volunteer, or donate.
 We use it to send campaign updates, coordinate volunteers, and answer your messages.
 We do not sell or rent your information to anyone.
 Text messages: if you give us your number or text us, you may receive campaign texts from Frese For Congress.
@@ -84,4 +85,30 @@ Message and data rates may apply.
 Reply STOP to any message to opt out, or HELP for help.
 Voter outreach texts go to registered voters using publicly available voter file data as permitted by California law.
 You can ask us to delete your information at any time by emailing [email protected] .
+Paid for by Frese For Congress.
+Text Message Terms Frese For Congress Text Messages.
+Frese For Congress, the campaign committee of Jeff Frese for Congress in California's 10th District, sends text messages about the campaign and the November 3, 2026 election, including voting reminders and candidate information.
+How you join: you may receive texts if you provided your phone number on your California voter registration, which the state makes available to candidates for election purposes, or if you text JOIN to (925) 592-1404.
+Message frequency varies, at most one message per week.
+Message and data rates may apply.
+Reply STOP to any message to opt out at any time; you will receive one confirmation and no further messages.
+Reply HELP for help, or contact [email protected] or (925) 222-5416.
+Carriers are not liable for delayed or undelivered messages.
+Your information is never sold or shared for marketing.
+See our Privacy Policy at freseforcongress.com/#privacy .
+Paid for by Frese For Congress.
+Texts From Jeff Get campaign updates by text.
+Text JOIN to (925) 592-1404.
+By texting JOIN you agree to receive campaign text messages from Frese For Congress.
+Message frequency varies.
+Message and data rates may apply.
+Reply STOP to opt out, HELP for help.
+Got a text from Jeff and wondering why?
+California voters may give a phone number on their voter registration.
+The registration form tells voters that "voter information may be provided to a candidate for office ... for election ... purposes" (Elections Code section 2157.2), and the state provides it to candidates for exactly that use (section 2194).
+That is the only way we get numbers.
+Every text is sent by a person, one at a time.
+Reply STOP and you will never hear from us by text again.
+Terms: freseforcongress.com/#terms .
+Privacy: freseforcongress.com/#privacy .
 Paid for by Frese For Congress.

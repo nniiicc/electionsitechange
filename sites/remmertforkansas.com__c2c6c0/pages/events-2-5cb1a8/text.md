@@ -1,4 +1,4 @@
 Skip navigation menu Home Issues About Events Volunteer District 13 Contact Donate Home Issues About Events Volunteer District 13 Contact Donate Join Us Campaign Events Come out and say hello!
-Candidate Forum Emporia Recreation Center 313 W 4th Avenue Emporia, KS 66801 Sponsored by the Kansas Spanish Speakers Town Hall - Eureka Greenwood County Historical Museum 120 W 4th St, Eureka, KS 67045 with special guest Gail Fuller of Circle 7 Farms Fredonia homecoming parade Parade Route Waving, smiling, walking - sounds like a good morning workout!
+Fredonia homecoming parade Parade Route Waving, smiling, walking - sounds like a good morning workout!
 Yates Center Hay Fest Downtown Looking forward to meeting and chatting Dia de Los Muertos Commercial Street Emporia 17 de octubre de 2026 de 5:00 pm a 10:00 pm en los bloques 600 y 700 de Commercial Street remmertforkansas@gmail.com Powered by RUN! website builder Paid for by Remmert for Kansas.
 Zak Zimmerman, Treasurer SEO by Nick Collins You need to enable JavaScript to run this app.

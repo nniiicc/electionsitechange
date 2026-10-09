@@ -20,10 +20,6 @@
 "href": "https://www.deploymalloy.com/landing/about/"
 },
 {
-"text": "Album",
-"href": "https://www.deploymalloy.com/landing/album/"
-},
-{
 "text": "Donate",
 "href": "https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy"
 },
@@ -74,6 +70,10 @@
 {
 "text": "Privacy Policy",
 "href": "https://www.deploymalloy.com/compliance/"
+},
+{
+"text": "Proposals",
+"href": "https://www.deploymalloy.com/landing/proposals/"
 },
 {
 "text": "Q&A",

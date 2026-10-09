@@ -1,10 +1,28 @@
-Meet Hadley Priorities District 44 Endorsements News Community Vote Events Media Get Involved Invest in Hadley Meet Hadley Priorities District 44 Endorsements News Community Vote Events Media Get Involved Invest in Hadley Pennsylvania House · District 44 Hadley Haas Courage · Compassion · Integrity Named a DLCC Target Race to flip HD‑44 As a mother, a daughter and a community leader, I show up and ask - how can I help ?
+Vote Meet Hadley Priorities District 44 Endorsements News Community Events Media Get Involved Invest in Hadley Vote Meet Hadley Priorities District 44 Endorsements News Community Events Media Get Involved Invest in Hadley Pennsylvania House · District 44 Hadley Haas Courage · Compassion · Integrity Named a DLCC Target Race to flip HD‑44 As a mother, a daughter and a community leader, I show up and ask - how can I help ?
 As a state legislator, I will do the same.
-Invest in Hadley Meet Hadley Scroll Endorsed · September 2026 Governor Josh Shapiro has endorsed Hadley Haas for HD‑44.
+Invest in Hadley Make your plan to vote Scroll Endorsed · September 2026 Governor Josh Shapiro has endorsed Hadley Haas for HD‑44.
 Hadley and the Governor share a mission to lower costs and deliver for working families.
 Flipping HD‑44 is how we get it done.
 Invest in Hadley Not right now New Ad Where she comes from Her roots in the Pittsburgh region, and her plans for what comes next.
-30 seconds Hadley with her sons Hadley with Governor Josh Shapiro Meet Hadley Hadley Haas Parent · Community Advocate · Candidate for PA House District 44 If you ask Hadley Haas where she is from, she couldn't be more proud to tell you: Pittsburgh.
+30 seconds Vote Voter Action Center Make your plan to vote.
+Everything you need to register, request a mail ballot, and find your polling place in District 44.
+Countdown to Election Day Election Day • November 3, 2026 -- Days to Go Tuesday, November 3, 2026 Register to Vote Start Check Your Registration Verify Request a Mail‑In Ballot Apply Find Your Polling Place Locate Oct 19 Register to Vote By Last day to register, or to update your address if you have moved.
+Deadline Save Oct 27 Request Mail Ballot By Completed ballots must be received by 8 PM on Election Day, not just postmarked.
+Deadline Save Nov 3 Election Day Polls open 7 AM to 8 PM.
+In line by 8?
+You can still vote.
+Election Day Save Save all three dates to my calendar Make your plan Four taps to a plan to vote.
+People who decide when and how they will vote are far more likely to follow through.
+Your answers stay on this device.
+1 Registration 2 How you vote 3 When 4 Getting it done Step 1 of 4 Are you registered at your current address?
+Yes, I’m registered I’m not sure Not yet I moved since I last voted Step 2 of 4 How will you vote?
+In person on Election Day By mail Step 3 of 4 When will you go on Tuesday, November 3?
+Before work, 7 to 9 AM Midday, 11 AM to 1 PM After work, 4 to 6 PM Evening, 6 to 8 PM Step 3 of 4 Have you requested your mail ballot?
+Yes, it’s requested Not yet Step 4 of 4 How are you getting to your polling place?
+Driving Walking Getting a ride Taking transit Step 4 of 4 How will you return your ballot?
+Mail it back early Drop it off in person ← Back Next Every link here goes to the official Pennsylvania Department of State voter services site.
+Confirm current deadlines there before you file anything.
+Hadley with her sons Hadley with Governor Josh Shapiro Meet Hadley Hadley Haas Parent · Community Advocate · Candidate for PA House District 44 If you ask Hadley Haas where she is from, she couldn't be more proud to tell you: Pittsburgh.
 This community has given her strength in some of her family's toughest times and rallied with her to support others with open arms when they needed the same support.
 Her life has become, sometimes intentionally and sometimes through the genuine desire to serve, about helping others and paving the way for the next generation to be stronger than ours.
 Hadley's story is one of resilience and seeing ways to help others in even her toughest moments.
@@ -102,25 +120,7 @@ Dr.
 David Chi Dr.
 Chi is a pediatric otolaryngologist in Pittsburgh.
 He has worked with Hadley for nearly 15 years through an organization they established to support families of children with hearing loss.
-Swipe for more → Vote Voter Action Center Make your plan to vote.
-Everything you need to register, request a mail ballot, and find your polling place in District 44.
-Countdown to Election Day Election Day • November 3, 2026 -- Days to Go Tuesday, November 3, 2026 Register to Vote Start Check Your Registration Verify Request a Mail-In Ballot Apply Find Your Polling Place Locate Oct 19 Register to Vote By Last day to register, or to update your address if you have moved.
-Deadline Save Oct 27 Request Mail Ballot By Completed ballots must be received by 8 PM on Election Day, not just postmarked.
-Deadline Save Nov 3 Election Day Polls open 7 AM to 8 PM.
-In line by 8?
-You can still vote.
-Election Day Save Save all three dates to my calendar Make your plan Four taps to a plan to vote.
-People who decide when and how they will vote are far more likely to follow through.
-Your answers stay on this device.
-1 Registration 2 How you vote 3 When 4 Getting it done Step 1 of 4 Are you registered at your current address?
-Yes, I’m registered I’m not sure Not yet I moved since I last voted Step 2 of 4 How will you vote?
-In person on Election Day By mail Step 3 of 4 When will you go on Tuesday, November 3?
-Before work, 7 to 9 AM Midday, 11 AM to 1 PM After work, 4 to 6 PM Evening, 6 to 8 PM Step 3 of 4 Have you requested your mail ballot?
-Yes, it’s requested Not yet Step 4 of 4 How are you getting to your polling place?
-Driving Walking Getting a ride Taking transit Step 4 of 4 How will you return your ballot?
-Mail it back early Drop it off in person ← Back Next Every link here goes to the official Pennsylvania Department of State voter services site.
-Confirm current deadlines there before you file anything.
-On the Trail Upcoming events Knock doors, write postcards, and meet the team.
+Swipe for more → On the Trail Upcoming events Knock doors, write postcards, and meet the team.
 Every shift below comes straight from our Mobilize calendar.
 Loading upcoming events… If nothing appears, the full calendar is always one click away below.
 View all events on Mobilize Get Involved!
@@ -176,7 +176,7 @@ That’s what we’re working to deliver in these midterms, and we’re going to
 After her two sons were born deaf, she founded the Friends of the Hearing Center at Children’s Hospital of Pittsburgh, where she serves as board chair, and she served as a parent representative to the state newborn hearing screening committee.
 She is a longtime volunteer in local schools and a committed advocate for public education.
 Hadley is running to lower costs, keep communities safe, and protect public education for every child in the district.
-Meet Hadley Priorities District 44 Endorsements News Community Vote Events Media Get Involved Contact Paid for by Friends of Hadley Haas / PO Box 285, Sewickley PA 15143 Privacy Policy Red Box Return to Site Return to Site Privacy Policy Last Updated: June 2026 Friends of Hadley Haas ("the Campaign," "we," "us," or "our") respects your privacy.
+Vote Meet Hadley Priorities District 44 Endorsements News Community Events Media Get Involved Contact Paid for by Friends of Hadley Haas / PO Box 285, Sewickley PA 15143 Privacy Policy Red Box Return to Site Return to Site Privacy Policy Last Updated: June 2026 Friends of Hadley Haas ("the Campaign," "we," "us," or "our") respects your privacy.
 This Privacy Policy describes how we collect, use, and share information about you when you visit hadleyforpa.com, sign up for updates, contribute to the campaign, or otherwise interact with us.
 Information We Collect We collect information you voluntarily provide, including contact information (name, email, mailing address, phone number, ZIP code); donation information (payment details, employer, and occupation as required by Pennsylvania and federal campaign finance law, processed by ActBlue and subject to ActBlue's privacy policy); volunteer information; and any messages you send us.
 We also automatically collect limited technical information when you visit the site, including IP address, browser type, device type, and pages viewed.

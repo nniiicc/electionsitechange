@@ -1,0 +1,12 @@
+FOR IMMEDIATE RELEASE September 27, 2023 Michelle Rodriguez Endorsed by California Correctional Peace Officers Association (CCPOA) In AD53 Race (Pomona, CA)- Michelle Rodriguez, candidate for California's 53rd Assembly District, announced today an endorsement from the California Correctional Peace Officers Association (CCPOA) in her campaign for the 53rd Assembly District.
+This endorsement reflects Michelle’s commitment to protecting neighborhoods, kids, and families and that she will bring the effective, compassionate leadership the 53rd District needs.
+"I am proud to receive this endorsement from the California Correctional Peace Officers Association as a mother and friend to law enforcement" said Rodriguez.
+"Working in California prisons is not easy, and I am grateful for the dedicated men and women who do it every day to protect their communities.
+The support of CCPOA’s members is deeply meaningful to me as my mother worked and retired as a correctional officer in California.
+This endorsement signifies a collective step forward in building stronger and safer communities, something I've worked tirelessly to achieve both as a mom and as a public servant." CCPOA President Glen Stailey said the following, "Michelle has consistently demonstrated a commitment to enhancing public safety and fostering a collaborative environment between law enforcement and the communities they serve.
+With her service on the California Peace Officers Standards in Training Commission and her focus on critical issues like homelessness, affordable housing, and job creation, we believe Michelle Rodriguez is the best choice for the 53rd Assembly District.
+The California Correctional Peace Officers Association is proud to endorse her campaign.” California Correctional Peace Officers Association (CCPOA) represents more than 30,000 correctional peace officers working inside California's prisons and hospitals.
+These dedicated and professional officers work every day to keep neighborhoods and communities safe.
+Rodriguez, as a member of the California POST Commission, focused on improving law enforcement training, has direct experience in the 53rd district working in health care and our schools, and is a mother and grandmother.
+She and her husband, Assemblymember Freddie Rodriguez, raised their four children in Pomona with an emphasis on public service, leading them to pursue careers in health care and as first responders.
+For more information, contact info@michelleforassembly.com or visit www.michelleforassembly.com ###

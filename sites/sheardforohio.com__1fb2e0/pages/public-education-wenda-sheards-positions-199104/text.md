@@ -1,4 +1,4 @@
-Home About Endorsements Donate Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness FAQs Contact Public Education: Wenda Sheard’s Positions Candidate: Wenda Sheard (Democrat) Office: Ohio House of Representatives, District 94 (all of Meigs and Washington counties, plus the outskirts of Athens County, not including the city of Athens) Election: November 3, 2026 Information current as of: October 1, 2026 Quick Summary Ohio’s public schools do not get enough money.
+Home About Problems, Issues & Solutions Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness Endorsements Donate FAQs Contact Public Education: Wenda Sheard’s Positions Candidate: Wenda Sheard (Democrat) Office: Ohio House of Representatives, District 94 (all of Meigs and Washington counties, plus the outskirts of Athens County, not including the city of Athens) Election: November 3, 2026 Information current as of: October 1, 2026 Quick Summary Ohio’s public schools do not get enough money.
 Lawmakers have sent public tax dollars to private schools instead.
 Wenda Sheard wants Ohio to fund public schools fairly, so that every child gets the same chance, no matter where they live.
 She will also work to fund career centers and universities, end the expanded private school voucher program, and repeal a 2025 law that restricted universities.
@@ -52,4 +52,4 @@ Support teachers, school staff, and unions.
 The state needs to support families, teachers, other school employees, and their unions.
 The legislature should stop trying to weaken unions.
 Support From Education Groups Sheard is endorsed by the Ohio Federation of Teachers, the Ohio Education Association’s Fund for Children and Public Education, and the Ohio Association of Public School Employees.
-Home About Endorsements Donate Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness FAQs Contact
+Home About Problems, Issues & Solutions Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness Endorsements Donate FAQs Contact

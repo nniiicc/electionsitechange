@@ -12,10 +12,6 @@
 "href": "https://www.youtube.com/watch?v=iyLyFoOo_xk"
 },
 {
-"text": "Album",
-"href": "https://www.deploymalloy.com/landing/album/"
-},
-{
 "text": "Donate",
 "href": "https://secure.anedot.com/gerald-malloy-for-u-s-congress-limited/geraldmalloy"
 },
@@ -100,6 +96,10 @@
 "href": "https://www.deploymalloy.com/compliance/"
 },
 {
+"text": "Proposals",
+"href": "https://www.deploymalloy.com/landing/proposals/"
+},
+{
 "text": "Q&A",
 "href": "https://www.deploymalloy.com/landing/qanda/"
 },
@@ -130,6 +130,10 @@
 {
 "text": "WMRW",
 "href": "https://www.radio.net/s/wmrwlp"
+},
+{
+"text": "Watch here",
+"href": "https://video.vermontpublic.org/video/2026-general-election-debate-us-house-giwlzj/"
 },
 {
 "text": "Watch here",

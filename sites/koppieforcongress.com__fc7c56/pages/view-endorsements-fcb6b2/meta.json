@@ -1,9 +1,10 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.koppieforcongress.com/view-endorsements",
- "fingerprint": "85ba5e5f08417b9d0cd438e38103ee0e098e250b",
+ "fingerprint": "590c16239d35693a791d129eab5c3ea53ec89c60",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "View Endorsements",
  "years_mentioned": [
   "2006",

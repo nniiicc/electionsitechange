@@ -11,4 +11,4 @@ That means affordable housing people can actually live in, good-paying jobs that
 She has built strong coalitions in this race, drawing support from labor, women's organizations, and community leaders, including CAL FIRE Local 2881, SEIU California, the California Federation of Labor Unions, California Latino Legislative Caucus, National Women's Political Caucus, and California Federation of Teachers.
 Perea currently serves on the Fresno City Council and was elected Council President in 2024.
 A lifelong Central Valley resident and certified city planner, she has dedicated her career to strengthening communities, supporting working families, and delivering real results for the people of the Valley.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

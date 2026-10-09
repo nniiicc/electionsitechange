@@ -1,4 +1,16 @@
-0 Skip to Content Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact A balanced voice I’m Jennifer LePla and I’m a State Representative Candidate for Carroll County’s District 2.
+0 Skip to Content Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu Just Jennifer for Carroll 2 About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact Open Menu Close Menu About My Why Property Tax Cap Question 2 Issues Endorsements Team and Events Donate Letters to the Editor Contact In my multiple and various leadership roles volunteering in many organizations over the past 30 years, I have demonstrated a talent to bring differing views together for a positive result.
+Many dig their heels in and stand firm; I find ways to seek what we first have in common and build upon the agreed beneficial goals.
+Having been elected to the position of president numerous times, I’m respected for being a guide in achieving mutual understanding.
+I’m committed to using my communication skills in bringing a balanced voice for differing views and achieving success to the benefit of everyone.
+I embrace the opportunity to engage in conversations that may be difficult yet necessary to speak on behalf of every resident even if I need to step on friendly toes.
+Concord needs to hear from us regardless of hard party line politics.
+Our collective voice needs fair and balanced representation.
+When we actively listen to each other, the result is stronger.
+I’m an independent thinker who will research all views from a wide variety of sources.
+I’m committed to establishing listening sessions with the goal of hearing directly from residents regarding their issues.
+My voting record will always support your freedoms and right to Live Free, or Die as is the NH way.
+I would be honored to earn one of your two votes for State Representative for Carroll 2.
+Jennifer LePla JustJenniferforNH.com Submitted October 8 A balanced voice I’m Jennifer LePla and I’m a State Representative Candidate for Carroll County’s District 2.
 I’m an independent thinker who aligns with protecting individual freedoms which means I’m a Republican.
 NH’s tourism ads called us in 2016 and after searching for the perfect home, we choose Sandwich in 2017.
 I quickly learned that politics in NH are a passion.

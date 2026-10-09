@@ -3,17 +3,18 @@ In office, her Priorities are: Championing Reproductive Freedom The people of Wi
 We will not be limited by an 1849 law, passed at a time before women’s suffrage.
 I will be your champion for reproductive justice in the State Assembly, just as I have been a reproductive justice champion throughout my career.
 Our infant mortality rates and our maternal morbidity and mortality rates in our communities of color are alarming and demand urgent action.
-I have worked on improving Wisconsin’s birth outcomes as the Program Advisor for Maternal & Child Health for the University of Wisconsin School of Medicine & Public Health (UW SMPH).
-I support nonprofits and public health departments around the state who are doing the most important work for our mothers and infants.
-Programs that provide doula and lactation support, home visiting, group prenatal and postpartum care, mobile unit outreach, lactation support, substance use management and support, and mental and behavioral health programs and connection.
+I worked on improving Wisconsin’s birth outcomes when I served as the Program Advisor for Maternal & Child Health for the University of Wisconsin School of Medicine & Public Health (UW SMPH).
+I supported nonprofits and public health departments around the state who do the most important work for our mothers and infants.
+Programs that provide doula and lactation support, home visiting, group prenatal and postpartum care, mobile unit outreach, lactation support, substance use management and support, mental and behavioral health programs, and connection.
 There is so much we can share across communities on what is working for women and children.
 The legislature must support these efforts rather than working against women’s health.
-At the end of the last legislative session, our State Assembly had the opportunity to extend postpartum care to 12 months which would have provided support for mothers during this critical time.
-Despite bi-partisan support and passage of the bill in the Wisconsin State Senate, the Assembly still chose inaction over progress.
-Today, we are one of only two states in the entire country to not enact this support for our women.
+At the end of the 2024 legislative session, our State Assembly had the opportunity to extend postpartum care to 12 months which would have provided support for mothers during this critical time.
+Despite overwhelming bi-partisan support and passage of the bill in the Wisconsin State Senate, the Assembly still chose inaction over progress.
+Today, after months of strategic maneuvering and forcing our Republican colleagues to vote on the legislation, we were able to extend postpartum Medicaid coverage in my first term.
+Finally, new moms will be covered for one year after giving birth to our newest Wisconsinite - improving healthcare for more than 16,000 moms annually and approximately 40% of births in Wisconsin.
 Without access to reproductive healthcare, Wisconsinites are put into impossible situations that lead to poor health outcomes not only for pregnant people and mothers, but also for their children and families.
 It is imperative that we challenge and fight against the agenda of the Republicans to roll back women’s fundamental rights.
-Additionally, our maternal and child health outcomes across the state must be improved.
+There is still much work to do to improve our maternal and child health outcomes across the state.
 Strengthening Public Education Public education in Wisconsin has continued to be underfunded and underserved by our state government, while needed funds are drained off to unaccountable private schools.
 As a prior board member for the Wisconsin Early Childhood Association, I know first-hand how critical it is for our young people to receive a quality education early in their lives.
 Wisconsin must support a public school system that is fully funded and that begins with a strong early childhood system that is fully funded.

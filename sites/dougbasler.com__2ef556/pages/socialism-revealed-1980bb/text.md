@@ -1,1 +1,1 @@
-Home About Socialism Revealed Photos Media RSVP DONATE
+Home About Socialism Revealed Photos Media RSVP Home About Socialism Revealed Photos Media RSVP DONATE

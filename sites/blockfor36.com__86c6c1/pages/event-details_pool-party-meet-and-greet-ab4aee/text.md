@@ -1,0 +1,6 @@
+top of page MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT Menu Close DONATE Pool Party Meet and Greet Sat, Oct 17 | 400 W Crystal Dr RSVP Time & Location Oct 17, 2026, 2:00 PM – 6:00 PM 400 W Crystal Dr, 400 W Crystal Dr, Sanford, FL 32773, USA About the event Join us after our community canvass on Saturday, October 17 for a Post-Canvass Pool Party and Meet & Greet with Darryl Block!
+The Barnes family is hosting us at: 400 West Crystal Drive Sanford, FL 32773 Come out after the canvass to meet Darryl, enjoy some food and drinks, bring a friend, and jump in the pool!
+It is a great opportunity to connect with fellow supporters, meet Darryl, and spend some time together after hitting the doors and talking with voters in our community.
+Show More RSVP Share this event CONTRIBUTIONS CAN BE MAILED TO: 411 W First St, Unit 5036, Sanford, FL 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.
+ALL RIGHTS RESERVED.
+Website by: Clover’s Creative Strategy & Design MEET DARRYL ENDORSEMENTS EVENTS NEWSLETTER CONTACT bottom of page

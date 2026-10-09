@@ -1,6 +1,10 @@
 Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT AdminRoxie Home » Archives for Roxie S » Page 3 About Roxie S This author has not yet filled in any details.
-So far Roxie S has created 31 blog entries.
-2nd Annual Lead Like Lincoln Recap Gallery 2nd Annual Lead Like Lincoln Recap Election 2022 , Fundraiser 2nd Annual Lead Like Lincoln Recap "I’ve been reflecting on my first term in the [...] By Roxie S | 2022-10-17T19:30:10+00:00 October 17, 2022 | Election 2022 , Fundraiser | Comments Off on 2nd Annual Lead Like Lincoln Recap Read More Announcement: Lt.
+So far Roxie S has created 32 blog entries.
+Rep Ness Wins Re-election!
+Gallery Rep Ness Wins Re-election!
+Uncategorized Rep Ness Wins Re-election!
+On January 11th, the 103rd General Assembly was sworn [...] By Roxie S | 2023-01-16T18:07:52+00:00 January 16, 2023 | Uncategorized | Comments Off on Rep Ness Wins Re-election!
+Read More 2nd Annual Lead Like Lincoln Recap Gallery 2nd Annual Lead Like Lincoln Recap Election 2022 , Fundraiser 2nd Annual Lead Like Lincoln Recap "I’ve been reflecting on my first term in the [...] By Roxie S | 2022-10-17T19:30:10+00:00 October 17, 2022 | Election 2022 , Fundraiser | Comments Off on 2nd Annual Lead Like Lincoln Recap Read More Announcement: Lt.
 Gov Stratton at Lead Like Lincoln!
 Gallery Announcement: Lt.
 Gov Stratton at Lead Like Lincoln!
@@ -32,11 +36,6 @@ By Roxie S | 2022-02-10T00:59:58+00:00 February 9, 2022 | Upcoming Event | Comme
 Read More Volunteer Zoom Rally Gallery Volunteer Zoom Rally Upcoming Event Volunteer Zoom Rally Join us December 9th and December 12th!
 We know next year is going to be an important year all over the Nation and the 66th is no exception.
 I’m looking forward to serving another term and I need your help to do that.
-By Roxie S | 2022-02-10T01:00:20+00:00 December 1, 2021 | Upcoming Event | Comments Off on Volunteer Zoom Rally Read More Happy 4th of July!
-Gallery Happy 4th of July!
-Holiday Happy 4th of July!
-HAPPY 4th of JULY!
-Everything [...] By Roxie S | 2021-07-24T21:48:34+00:00 July 4, 2021 | Holiday | Comments Off on Happy 4th of July!
-Read More Previous 2 3 4 Next Contact Our Team Address: P.O.
+By Roxie S | 2022-02-10T01:00:20+00:00 December 1, 2021 | Upcoming Event | Comments Off on Volunteer Zoom Rally Read More Previous 2 3 4 Next Contact Our Team Address: P.O.
 Box 2633 Crystal Lake, IL 60014 Email: vote4suzanneness@gmail.com Call 224-208-8775 Connect with Team Ness Copyright | Citizens For Suzanne Ness | Privacy Policy Page load link This website uses cookies and third party services.
 Settings OK Go to Top

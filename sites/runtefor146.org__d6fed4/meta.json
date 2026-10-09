@@ -1,9 +1,12 @@
 {
  "description": "Walter 'Gerry' Runte is running for Maine House District 146 (Wells, Ogunquit, York). 50 years of energy and infrastructure expertise. Army veteran. Running Clean Elections.",
  "final_url": "https://runtefor146.org/",
- "fingerprint": "24d148d80e0c25c98ea47331948426d4b671d69c",
+ "fingerprint": "dee6946cd7d12a18e1785ee62d5e2ad74638c193",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "authorized by the candidate",
+ "rendered": true,
  "title": "Runte for House District 146",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

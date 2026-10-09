@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.lindsayforiowa.com/news/elect-democratic-women-endorses-lindsay-james-for-iowas-2nd-congressional-district",
- "fingerprint": "07fb1b37c45ed20b099afb37af33682d09953849",
+ "fingerprint": "2c9b8cf6d4a1369f38ec887c6c02655b7f9ce9fc",
  "format": 3,
  "paid_for_by": "Paid for by Lindsay for Iowa You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Elect Democratic Women Endorses Lindsay James for Iowa’s 2nd Congressional District",
  "years_mentioned": [
   "2018",

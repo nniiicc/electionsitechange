@@ -1,4 +1,4 @@
-Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Public Safety, Nationwide Backing the Front Lines × After Maptronix was acquired by a major public safety company called Tiburon, I got the chance to take my experience with 911 mapping systems and apply it on a national scale.
+Skip to main content Greg Leman Home Issues Priorities for Montana Data Centers Volunteer Donate Home Issues Priorities for Montana Data Centers Volunteer Donate Public Safety, Nationwide Backing the Front Lines × After Maptronix was acquired by a major public safety company called Tiburon, I got the chance to take my experience with 911 mapping systems and apply it on a national scale.
 I started out running the mapping business unit, but after about a year I was promoted to head of the products division.
 In that role, I ran all of our software development teams.
 We expanded our focus from real-time mapping and geofile services to the entire scope of public safety infrastructure, building the core dispatch and records management systems that first responders rely on every single day.

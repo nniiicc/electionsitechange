@@ -1,0 +1,20 @@
+GENERAL ELECTION • NOV 3, 2026 • DEMOCRATIC NOMINEE JUSTIN EARLY FOR U.S .
+CONGRESS The Veteran & Cybersecurity Leader Fighting for All of Central Texas Texas' 31st Congressional District  CANDIDATE SNAPSHOT  THE DISTRICT Williamson, Bell, Coryell, Lampasas, Hamilton, Mills, Burnet    MILITARY SERVICE CAREER U.S.
+Army Paratrooper, Defense Intelligence Agency LEADERSHIP ROOTED IN SERVICE Raised in a working-class military family, Justin enlisted after graduating from Leander High School and served as a paratrooper with the 82nd Airborne.
+Serving at the Defense Intelligence Agency post-9/11 shaped his lifelong commitment to accountability and protecting people.
+After the Army, he built a respected career in technology, rising to Cybersecurity Architect.
+Justin's path to public service includes serving as a Democratic precinct chair, a Human Relations Committee member, and a grassroots delegate for Barack Obama.
+"He is running because current representation prioritizes corporate interests over the daily struggles of Texas families, veterans, seniors, and workers." THE CAMPAIGN PROMISE Cybersecurity Architect   FAMILY Married and raised seven adult children.
+A VOICE FOR EVERY COMMUNITY  Veterans & Military Fighting to fully fund the VA and clear benefits backlogs.  Working Texans Advocating for higher wages, local jobs, and fair treatment.  Women Championing reproductive freedom, paid leave, and equal pay.  Minority Communities Closing racial gaps in healthcare, education, and economy.  Seniors Firm defender of Social Security and Medicare against cuts.  Students & Workers Funding Career and Technical Training (CTE), Pell Grants, and fair AI policy for jobs.
+Higher Wages • Lower Costs • Compassionate, Comprehensive Support for All www.votejustinearly.com Page 1 of 2 @voteJustinEarly JUSTIN EARLY POLICY PLATFORM TX-31 CONGRESSIONAL CANDIDATE  AI & CYBERSECURITY  ECONOMIC SECURITY Protecting Jobs & Privacy: Ensuring AI implementation is fair and transparent.
+Utilizing expertise to protect Texans' data from foreign threats and corporate overreach.
+Fighting for Working Texans: Creating high-paying local jobs, protecting workers, delivering higher wages, and lowering housing and childcare costs.  VETERAN CARE  EDUCATION Honoring Commitments: Fully funding the VA, prioritizing mental health care, and ensuring local VA offices serve heroes without delay.
+Investing in Tomorrow: Championing CTE funding, opposing Pell Grant cuts, and fighting to end pressures causing school closings.  HEALTHCARE  SENIORS Care for All: Fighting to expand access and lower affordable health care costs for every Central Texas family.
+Protecting Lifelines: Standing firm against cutting Social Security and Medicare, and fighting to lower prescription drug costs.  REPRODUCTIVE FREEDOM  IMMIGRATION Trusting Women: Protecting access to healthcare and fighting for paid family leave and equal pay.
+Compassionate Reform: Strengthening borders with orderly paths to citizenship.
+Opposing denial of medical care to families.  IN JUSTIN'S WORDS "Serving my country was the honor of my life.
+I grew up understanding that leadership means listening first, leading from the front, and working across divides to get things done..." "Central Texas families aren't asking for miracles; they are asking for a fair shot: higher wages that keep pace with rising costs and for the security of knowing their healthcare and Social Security are protected."  ENDORSEMENTS AFL-CIO Central Texas COPE  IAM Local 2011 & IAM State Leg.   CWA Local 6132  Texas AFT  Lone Star Left Indivisible(s) (ICTX, 1431, Highland Lakes, Waco)  TX Democratic Veterans Caucus   Texas Stonewall Democrats  Black Austin Democrats  ACC Democrats  L.
+Minor, Bell Co.
+Commissioner Won the March 3, 2026 Primary.
+Featured in regional press bringing fresh energy to TX-31.
+CONTACT & DIGITAL  Leadership: Brandy LL Byrd  info@voteJustinEarly.com  PO Box 2209, Georgetown TX 78627 PAID FOR BY JUSTIN EARLY FOR CONGRESS www.votejustinearly.com      @voteJustinEarly Page 2 of 2

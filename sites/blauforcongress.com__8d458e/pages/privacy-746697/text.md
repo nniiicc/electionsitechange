@@ -27,6 +27,7 @@ You may unsubscribe from Campaign marketing emails using the unsubscribe link in
 If you voluntarily provide your mobile telephone number and affirmatively consent to receive Campaign text messages, we may send you text messages, including automated messages where indicated in the consent disclosure.
 Message and data rates may apply.
 Message frequency may vary.
+Reply HELP for help.
 You may opt out of Campaign text messages by replying STOP.
 Consent to receive text messages is not a condition of making a contribution, volunteering, or otherwise supporting the Campaign.
 6.

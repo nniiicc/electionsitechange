@@ -1,0 +1,8 @@
+FOR IMMEDIATE RELEASE Date: March 11, 2019 Contact: jconradi@fp1strategies.com American Nurses Association PAC Endorses Dave Joyce For Congress Only one of two Republicans, Joyce named “Congressional Champion” Painesville OH – Today Dave Joyce for Congress announced that the American Nurses Association Political Action Committee has endorsed Joyce’s re-election campaign.
+The announcement comes as a first round of endorsements of “Congressional Champions” for the 2020 election cycle for only eight members of Congress, with only two Republicans.
+Congressman Dave Joyce responded to the endorsement highlighting his bipartisan work on healthcare and nurses: "As co-chair of the House Nursing Caucus and the husband of a nurse, fighting for better healthcare is personal to me and I know that nurses are the backbone of our nation’s healthcare system.
+That is why I have worked across party lines in Congress to introduce and pass the Title VIII Nursing Workforce Reauthorization Act, which supports high quality education and training programs that are vital to recruiting and retaining our nurses,” said Dave Joyce.
+“I am grateful to the American Nurses Association for their endorsement and I know that together, we can continue our mission of supporting our nation’s incredible nurses.” Congressman Dave Joyce currently serves as Co-Chair of the House Nursing Caucus.
+Joyce introduced and helped pass the Title VIII Nursing Workforce Reauthorization Act of 2019, which addresses the national shortage of nurses by reauthorizing programs and grants that support the recruitment and retention of professionals for our nation’s nursing workforce.
+The bill is currently awaiting a vote in the Senate.
+###

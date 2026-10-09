@@ -1,4 +1,4 @@
-Skip to content Toggle Navigation Home About Issues Donate Media Contact Donate effyis 2026-03-16T22:11:29-06:00 Donate Today!
+Skip to content Toggle Navigation Home About Issues Opponent Donate Media Contact Donate effyis 2026-03-16T22:11:29-06:00 Donate Today!
 In my first term, I earned the #1 Republican ranking in Idaho by standing firm on conservative principles — constitutional liberties, fiscal responsibility, family values, and secure borders.
 Now I need your help to continue this fight.
 My opponents are well-funded by special interests who want to replace conservative leadership in District 24.

@@ -27,7 +27,12 @@ Because of her steady hand and listening skills, the town and unions agreed on s
 Lora is a single parent with one kid still in the Greenfield public high school.
 She works for the Peace Development Fund by day, fundraising for dozens of progressive grassroots organizations locally and nationally.
 She is ready to scale her work with progressive groups and the city of Greenfield to serve all towns in the 1st Franklin district and boost the Western Mass team to have a louder voice at the State House.
-Lora Listens, Leads, and Gets It Done Latest from the Campaign One month until Election Day! 🗳️ We’ve come a long way together, and there’s still plenty of work ahead.
+Lora Listens, Leads, and Gets It Done Latest from the Campaign The Hampshire-Franklin Commission on the Status of Women is seeking Regional Commissioner applicants!
+Regional Commissioners are volunteers who work to advance the status of women and girls across Hampshire and Franklin Counties.
+Commissioners engage with local communities through public events, hearings, and outreach while advocating for policies and legislative priorities that support women and girls.
+The Commission is looking for people in Hampshire and Franklin Counties who are passionate about public service and uplifting women and girls, creating a more equitable commonwealth.
+Apply to become a Regional Commissioner and help amplify the voices of women and girls across Western Massachusetts!
+The link to apply is: https://masscsw.org/apply-to-a-regional-commission/ The link to the HFCSW Web Page for more information is: https://masscsw.org/.../regional.../hampshire-franklin/ One month until Election Day! 🗳️ We’ve come a long way together, and there’s still plenty of work ahead.
 We have an opponent in November, and we can’t take anything for granted.
 Over these final weeks, I’ll be talking with voters across the 1st Franklin District about strengthening our rural schools, making housing more affordable, and supporting our local farms.
 I’d love your help reaching more of our neighbors.
@@ -36,9 +41,7 @@ If you already have a sign, keep it up—or put it back out!
 Visit WondoForRep.org to get involved, and make your plan to vote by November 3.
 Teamwork.
 Results.
-Tune in to my interview on The Enviro Show, where I talk about climate change, protecting our forests and land, and other issues that matter to communities across Western Massachusetts.
-Thank you, Glen and Don, for having me and for the opportunity to share more about the work I care deeply about!
-Listen here 👉 https://rss.com/podcasts/enviroshow/3159836/ Endorse/Lawn Signs I want to hear from you!
+Endorse/Lawn Signs I want to hear from you!
 My priorities start and end with you.
 Tell me what’s working, what’s not, and how I can help.
 Whether you’re concerned about your child’s school or simply need help filling out a complicated form let me know.

@@ -6,4 +6,4 @@ Cloud’s water treatment plant.
 Clean, reliable water is the kind of thing you only notice when it stops working.
 Clean, reliable water is the kind of thing you only notice when it stops working.
 Where I stand An economy that works → Join us Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue Next An independent watchdog against fraud → PO Box 5012 St.
-Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

@@ -1,4 +1,4 @@
-Home About Endorsements Donate Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness FAQs Contact Safe Drinking Water and the Environment: Wenda Sheard’s Positions Candidate: Wenda Sheard (Democrat) Office: Ohio House of Representatives, District 94 (all of Meigs and Washington counties, plus the outskirts of Athens County, not including the city of Athens) Election: November 3, 2026 Information current as of: October 1, 2026 Quick Summary Safe drinking water is one of Wenda Sheard’s main campaign priorities, with a focus on injection wells in Washington County.
+Home About Problems, Issues & Solutions Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness Endorsements Donate FAQs Contact Safe Drinking Water and the Environment: Wenda Sheard’s Positions Candidate: Wenda Sheard (Democrat) Office: Ohio House of Representatives, District 94 (all of Meigs and Washington counties, plus the outskirts of Athens County, not including the city of Athens) Election: November 3, 2026 Information current as of: October 1, 2026 Quick Summary Safe drinking water is one of Wenda Sheard’s main campaign priorities, with a focus on injection wells in Washington County.
 Sheard supports a temporary pause (a moratorium) on injection wells– it is the first issue she will lead on if elected.
 She wants new state laws to protect water.
 Climate change is a serious threat; local people should decide what kind of development comes to their area.
@@ -64,4 +64,4 @@ In 2016, she was trained as a member of Al Gore’s Climate Reality Leadership C
 She has spoken to numerous community groups about human-caused climate change.
 Environmental group support.
 Save Ohio Parks, in 2026, and the Ohio Environmental Council Action Fund, in 2024, have endorsed Sheard.
-Home About Endorsements Donate Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness FAQs Contact
+Home About Problems, Issues & Solutions Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness Endorsements Donate FAQs Contact

@@ -11,4 +11,4 @@ The report reflects broad-based backing from working families, labor organizatio
 Supporters point to her proven track record on the Fresno City Council, where she has consistently championed working families, housing affordability, workforce development, and responsible economic growth.
 Elected to the Fresno City Council in 2022 and serving as Council President in her first two years, Perea is a lifelong Central Valley resident and certified city planner with deep roots in the district.
 Her campaign continues to gain momentum as voters respond to her pragmatic leadership style, coalition-building approach, and commitment to delivering solutions that work for families across Assembly District 31.
-Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.
+Privacy Policy Send Checks To: 5445 Madison Avenue Sacramento, CA 95841 Powered by RUN! website builder Paid for by Perea for Assembly 2026 FPPC #1479158 You need to enable JavaScript to run this app.

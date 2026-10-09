@@ -1,4 +1,4 @@
-0 Skip to Content Home About Issues Speech Contact Open Menu Close Menu Open Menu Close Menu Home About Issues Speech Contact Home About Issues Speech Contact DONATE Rooted in Inver Grove Heights Born and raised in Minnesota, Andrew “AJ” Gubash grew up in Inver Grove Heights and is proud to call it home.
+0 Skip to Content Home About Issues Speech Contact Open Menu Close Menu Open Menu Close Menu Home About Issues Speech Contact Home About Issues Speech Contact DONATE Rooted in Inver Grove Heights Born on October 24, 1995, Andrew “AJ” Gubash was raised in Inver Grove Heights, Minnesota, and is proud to call it home.
 After serving overseas, he returned home and purchased a house in Inver Grove Heights, where he plans to build his future and continue serving the community that raised him.
 AJ was raised in a family that valued service, responsibility, and community.
 His father served as a police officer in West St.
@@ -18,4 +18,10 @@ Paul.
 He believes government should be limited, accountable, and focused on its fundamental responsibilities while protecting individual liberty and allowing Minnesotans to keep more of what they earn.
 Outside of politics and public service, AJ enjoys Minnesota’s outdoors, spending time on the lakes with his dog Lacy, playing hockey, golfing, hunting, and trap shooting with his father.
 AJ’s approach is simple: listen to the community, remain accountable to the people, and stand firmly for the principles he was elected to defend.
-A Focus on Practical Conservative Leadership EXPLORE THE ISSUES Paid for by AJ Gubash for Minnesota House aj@ajgubashforhouse.com DONATE
+A Focus on Practical Conservative Leadership EXPLORE THE ISSUES The Free Society Seminar Slovakia, August 2026 In August 2026, I traveled to Slovakia to participate in the Free Society Seminar alongside a group of intellectuals, scholars, and professionals from around the world.
+Together, we studied and discussed the philosophical foundations of a free society, the social contract between government and the governed, and the principles that sustain individual liberty.
+Our discussions explored the works and ideas of some of history's greatest philosophical minds, examining the nature of freedom, the proper role of government, and the relationship between faith and reason.
+One of the most rewarding aspects of the experience was engaging with people from different countries, cultures, and intellectual traditions, each bringing unique perspectives to questions that have shaped human civilization for centuries.
+The seminar deepened my appreciation for the philosophical foundations of liberty and reinforced my belief that a free society depends not only on its institutions and laws, but also on the principles and responsibilities of the people who sustain it.
+Online Profiles and Publications Facebook - Campaign Page Instagram - Campaign Page Facebook - Personal Page LinkedIn AJ Gubash | Minneapolis Times 2026 Election: West St.
+Paul Reader - AJ Gubash 2026 Election: East Metro Voter Guide - AJ Gubash Meet the Candidates 2026 | Speech - AJ Gubash for State House AJ Gubash - Ballotpedia Paid for by AJ Gubash for Minnesota House aj@ajgubashforhouse.com DONATE

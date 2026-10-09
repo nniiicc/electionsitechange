@@ -1,1 +1,1 @@
-Home About Priorities Endorsements Get Involved Donate Home About Priorities Endorsements Get Involved Donate Endorse Name (Required) First Last Title Email (Required) Phone Submit Paid for by The Committee to Elect Ashley Fedan (D) PO Box 58532, Renton, WA 98058
+Home About Priorities Endorsements Postcards Get Involved Donate Home About Priorities Endorsements Postcards Get Involved Donate Endorse Name (Required) First Last Title Email (Required) Phone Submit Paid for by The Committee to Elect Ashley Fedan (D) PO Box 58532, Renton, WA 98058

@@ -1,0 +1,30 @@
+Skip to main content Home About Issues Endorsements On the Trail Get Involved Contact Donate Donate Terms of Use Effective Date: July 5, 2026 Agreement to Terms These Terms of Use ("Terms") constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and the Mike Friend for Florida Campaign ("Campaign," "we," "us," or "our"), concerning your access to and use of our website as well as any other media form, media channel, mobile website, or mobile application related, linked, or otherwise connected thereto (collectively, the "Site").
+By accessing the Site, you agree that you have read, understood, and agreed to be bound by all of these Terms of Use.
+If you do not agree with all of these Terms of Use, then you are expressly prohibited from using the Site and you must discontinue use immediately.
+Use of the Website You agree to use the Site only for lawful purposes and in accordance with these Terms.
+You are specifically prohibited from using the Site to: Violate any applicable federal, state, local, or international law or regulation.
+Engage in any conduct that restricts or inhibits anyone's use or enjoyment of the Site.
+Impersonate or attempt to impersonate the Campaign, a Campaign employee, another user, or any other person or entity.
+Use the Site in any manner that could disable, overburden, damage, or impair the site or interfere with any other party's use of the Site.
+Use any robot, spider, or other automatic device, process, or means to access the Site for any purpose, including monitoring or copying any of the material on the Site.
+Introduce any viruses, Trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful.
+Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Site, the server on which the Site is stored, or any server, computer, or database connected to the Site.
+Intellectual Property Rights Unless otherwise indicated, the Site is our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (collectively, the "Content") and the trademarks, service marks, and logos contained therein (the "Marks") are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, international copyright laws, and international conventions.
+User Contributions The Site may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site.
+Any contributions you transmit may be treated as non-confidential and non-proprietary.
+When you create or make available any contributions, you thereby grant us a worldwide, non-exclusive, royalty-free, perpetual, and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform your contributions in connection with the Site and our Campaign operations.
+Disclaimer of Warranties THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS.
+YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES WILL BE AT YOUR SOLE RISK.
+TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE'S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE.
+Limitation of Liability IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Indemnification You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by any third party due to or arising out of: (1) your contributions; (2) use of the Site; (3) breach of these Terms of Use; (4) any breach of your representations and warranties set forth in these Terms of Use; or (5) your violation of the rights of a third party, including but not limited to intellectual property rights.
+Governing Law These Terms of Use and your use of the Site are governed by and construed in accordance with the laws of the State of Florida applicable to agreements made and to be entirely performed within the State of Florida, without regard to its conflict of law principles.
+Modifications and Interruptions We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice.
+We also reserve the right to modify or discontinue all or part of the Site without notice at any time.
+We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site.
+Contact Us In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: info@electmikefriend.com electmikefriend.com Family at the heart of leadership.
+Committed to fighting for District 102.
+Campaign Home Priorities Get Involved Volunteer Contact Us Voter Resources Register to Vote Vote By Mail Check Status Election Dates Support Mike We rely on grassroots support from everyday Floridians like you.
+Donate Paid by Michael Friend, Democrat, for State Representative, District 102 © # Mike Friend Campaign.
+Privacy Policy • Terms of Use • Accessibility • Disclaimer

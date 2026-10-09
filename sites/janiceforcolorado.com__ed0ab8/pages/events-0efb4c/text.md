@@ -53,8 +53,7 @@ Please bring a water bottle.
 To save time, please download the MiniVan app prior to the event.
 3.
 Canvassing is more fun if you bring a friend!
-View Event → Oct 31 Canvassing with Team Marchman!
-Saturday, October 31, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November will be here before you know it.
+View Event → Oct 31 Halloween Canvassing with Team Marchman Saturday, October 31, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November will be here before you know it.
 And we need your help.
 Join Janice Marchman and Team Marchman for canvassing across Senate District 15!
 We know this election won't be won by the number of dollars spent, but instead by the number of conversations we have.
@@ -67,7 +66,7 @@ Please bring a water bottle.
 To save time, please download the MiniVan app prior to the event.
 3.
 Canvassing is more fun if you bring a friend!
-View Event → Nov 1 Canvassing with Team Marchman!
+View Event → Nov 1 GOTV Canvass Launch with Team Marchman!
 Sunday, November 1, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November is here and we need your help.
 Join Janice Marchman and Team Marchman for canvassing across Senate District 15!
 We know this election won't be won by the number of dollars spent, but instead by the number of conversations we have.
@@ -93,7 +92,7 @@ Please bring a water bottle.
 To save time, please download the MiniVan app prior to the event.
 3.
 Canvassing is more fun if you bring a friend!
-View Event → Nov 2 Canvassing with Team Marchman!
+View Event → Nov 2 GOTV Canvass Launch with Team Marchman!
 Monday, November 2, 2026 2:00 PM 5:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November is here and we need your help.
 Join Janice Marchman and Team Marchman for canvassing across Senate District 15!
 We know this election won't be won by the number of dollars spent, but instead by the number of conversations we have.
@@ -106,7 +105,7 @@ Please bring a water bottle.
 To save time, please download the MiniVan app prior to the event.
 3.
 Canvassing is more fun if you bring a friend!
-View Event → Nov 3 Canvassing with Team Marchman!
+View Event → Nov 3 Election Day Canvass Launch with Team Marchman!
 Tuesday, November 3, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November will be here before you know it.
 And we need your help.
 Join Janice Marchman and Team Marchman for canvassing across Senate District 15!
@@ -120,7 +119,7 @@ Please bring a water bottle.
 To save time, please download the MiniVan app prior to the event.
 3.
 Canvassing is more fun if you bring a friend!
-View Event → Nov 3 Canvassing with Team Marchman!
+View Event → Nov 3 Election Day Canvass Launch with Team Marchman!
 Tuesday, November 3, 2026 2:00 PM 5:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November will be here before you know it.
 And we need your help.
 Join Janice Marchman and Team Marchman for canvassing across Senate District 15!

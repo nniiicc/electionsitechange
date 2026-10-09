@@ -1,6 +1,6 @@
 Skip to content Donate Online Donate By Mail Request Yard Sign About Contact Home Media Platform Donate Online Donate by mail About Contact Home Media Platform TENNESSEE IS READY TO HIRE A FARMER TENNESSEE IS READY TO HIRE A FARMER FIND OUT THE LATEST FROM CHARLIE HATCHER’S CAMPAIGN!
 The latest videos about Charlie, the race, and Charlie’s plan for Tennessee.
-Hatcher for Congress Follow 200 176 Former Agriculture Commissioner and fifth-generation dairy farmer Charlie Hatcher is running for Congress in Tennessee’s 5th District to put America First.
+Hatcher for Congress Follow 200 179 Former Agriculture Commissioner and fifth-generation dairy farmer Charlie Hatcher is running for Congress in Tennessee’s 5th District to put America First.
 Hatcher for Congress @HatcherforTN · 6 Oct 2107530348099948717 Want a conservative Congressman who will get things done?
 Hire the farmer and businessman, Charlie Hatcher.
 Twitter feed video.
