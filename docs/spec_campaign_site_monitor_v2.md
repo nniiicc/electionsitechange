@@ -104,10 +104,10 @@ Raw edit counts are also misleading. Most edits to a campaign page are noise (co
 - Breadth-first from the homepage. Same-host links only, with `www.` treated as the same host. **Depth 3 clicks, 50 pages per site** (decided 5 Oct). The cap is applied in breadth-first order, so shallower pages always win over deeper ones.
 - PDFs on the candidate's own site are fetched, their text extracted and stored like any page (counted against the cap). Scanned PDFs with no text layer are recorded as such.
 - Skips images, stylesheets, scripts, fonts and media. Obeys robots.txt for the monitor's own user agent, keeps requests to any one host at least 1 second apart, crawls many sites in parallel, and identifies itself honestly. It never disguises itself as a browser.
-- Any page whose full visible text is under 200 characters is re-fetched with headless Chromium, and the snapshot records that it was rendered.
+- Any page whose full visible text is under 200 characters and that contains a script is re-fetched with headless Chromium (images off, the monitor's own user agent, at most 2 at once), and the snapshot records that it was rendered. If a page rendered yesterday fails to render today, yesterday's snapshot is kept. (Pages without scripts are not rendered: a browser would show the same text.)
 
 ### Module: Normaliser and store
-- **The raw HTML of every fetched page is the record.** It is kept gzip-compressed on the VM, outside Git, one file per page per day.
+- **The raw HTML of each recorded version is kept**: gzip-compressed on the VM, outside Git, written only when a page is new or changed (decided by the user, 8 Oct: never every page every day). Whether to store later versions as diffs is open.
 - How text, links, images and embeds are extracted from that HTML, and how noise is ignored, is **decided by the parser evaluation below**. No parser is adopted until it passes. The parsers used up to 6 Oct (`trafilatura` main-text extraction, then a hand-written full-text normaliser with noise rules) are not adopted: on aaron4az.com the stored text missed 35 of the 42 lines visible on the page.
 - Git repository: one directory per site, one sub-directory per page. A file is rewritten only when its content changes, and each day ends in one commit, so commits record only real changes. Volatile values (fetch time, size, timing) go in the daily run log, never in snapshot files.
 - The repository is pushed to `github.com/nniiicc/electionsitechange` after each run, using a deploy key that can only write to that repository.
@@ -135,8 +135,10 @@ Chooses the parser and change detection, using fake sites built from real pages,
 - Runs after each day's commit. For every page added, removed or changed, it produces a change record with:
   - a sentence-level text diff, so reordered or reflowed text doesn't count as an edit;
   - a link diff (outbound links added and removed);
-  - a metadata diff (title, "Paid for by", years);
-  - the before and after Wayback links.
+  - a metadata diff (title, description, "Paid for by", years);
+  - the before and after Wayback links (empty until the Archiver, #8, records captures).
+- An edit repeated identically on 3 or more changed pages of one site (a menu, footer or "recent posts" sidebar) is recorded once, in one site-wide change record per site that gives the pages each item changed on, not once per page (added 8 Oct, from the first day-over-day run, where such edits made up a large share of page records).
+- Implemented in `monitor/changes.py`; records are written to `changes/<day>.jsonl` in the snapshot commit.
 - Uses the method chosen by the parser evaluation. EDGI's open-source `web-monitoring-diff` library is the default candidate (installation needs `pkg-config`, `libxml2-dev` and lxml built from source). EDGI's tools reliably show *what* changed; deciding whether a change matters is the next module's job.
 
 ### Module: Categoriser (the labelling cascade)

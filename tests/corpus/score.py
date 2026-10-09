@@ -1,7 +1,8 @@
-"""Score monitor/detect.py on the labelled pairs (issue #5).
+"""Score monitor/detect.py, changes.py and step0.py on the labelled pairs (issues #5, #9, #10).
 
-An edit counts only if it is detected (the page's fingerprint changes) AND located (the snapshot
-difference contains the edit's token, or the removed text). A noise or identity pair must not be
+An edit counts only if it is detected (the page's fingerprint changes), located (the change record
+contains the edit's token on its added side, or the removed text on its removed side) AND not
+discarded by the step-0 noise rules. A noise or identity pair must not be
 detected. `python score.py [--holdout]` prints the tally by type and every failure.
 """
 import json, os, re, sys
@@ -11,16 +12,9 @@ from multiprocessing import Pool
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 sys.path.insert(0, os.path.join(HERE, "..", "..", "monitor"))
-import detect  # noqa: E402
+import changes, detect, step0  # noqa: E402
 
 URL = "https://example-campaign.test/"
-
-
-def flat(p):
-    """everything a snapshot records, as one string, digits masked as the noise rules may mask them"""
-    return re.sub(r"\d+", "#", re.sub(r"\s+", "", (p["text"] + json.dumps(p["links"], ensure_ascii=False)
-                                                   + json.dumps(p["media"], ensure_ascii=False) + p["meta"]["title"]
-                                                   + p["meta"]["description"]).lower()))
 
 
 def N(s):
@@ -34,6 +28,8 @@ def score_pair(pair):
     except Exception as e:
         out.update(ok=False, problem=f"error: {type(e).__name__}: {e}"[:200]); return out
     detected = pa["meta"]["fingerprint"] != pb["meta"]["fingerprint"]
+    # the change record (#9) the daily run would write for this pair: only for a detected change
+    content = changes.diff_pages(changes.from_page(pa), changes.from_page(pb)) if detected else None
     if pair["kind"] != "edit":
         out.update(ok=not detected, problem="noise flagged as a change" if detected else "")
         if detected:
@@ -41,16 +37,26 @@ def score_pair(pair):
             out["reported"] = {"text_removed": sorted(la - lb)[:3], "text_added": sorted(lb - la)[:3],
                                "links": pa["links"] != pb["links"], "media": pa["media"] != pb["media"]}
         return out
-    fa, fb = flat(pa), flat(pb)
+    if content is None:
+        out.update(ok=False, problem="missed" if not detected else "detected, but the change record is empty")
+        return out
+    # located = the change record's added side holds the edit's text more times than its removed side
+    # (or the other way round for a removal)
+    # sentences are joined as on the page, so a removed passage spanning two sentence lines still matches
+    side = lambda k: N(" ".join(content["text"][k]) + json.dumps(
+        [content["links"][k], content["media"][k], [v["after" if k == "added" else "before"] for v in content["meta"].values()]],
+        ensure_ascii=False))
+    fa, fb = side("removed"), side("added")
     if "added" in pair:
-        # located = the snapshot holds the edit's text more times after than before (a menu item or a
-        # sentence may also appear elsewhere on the page, e.g. in the footer)
         t = N(pair["added"]); located = fb.count(t) > fa.count(t)
     else:
         r = N(pair["removed"])[:25]; h = N(pair.get("removed_href"))
         located = (bool(r) and fa.count(r) > fb.count(r)) or (bool(h) and fa.count(h) > fb.count(h))
-    out.update(ok=detected and located,
-               problem="" if detected and located else ("missed" if not detected else "reported, but not at the edit"))
+    rec = step0.apply(changes.record("2026-10-06", pair["page_id"], "/", content, {}))
+    kept = not rec["step0"]["discard"]
+    out.update(ok=located and kept,
+               problem="" if located and kept else ("reported, but not at the edit" if not located
+                                                    else f"discarded by step 0: {rec['step0']['reasons']}"))
     return out
 
 

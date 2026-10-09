@@ -1,4 +1,4 @@
-"""End-to-end test of the daily run (issues #2, #4, #5).
+"""End-to-end test of the daily run (issues #2, #4, #5, #6, #7, #9, #10).
 
 Serves small fake campaign sites from local web servers, runs the real
 monitor/snapshot.py over two simulated days, and checks what ended up in the
@@ -10,6 +10,8 @@ import csv, functools, http.server, json, os, subprocess, sys, tempfile, threadi
 from pathlib import Path
 
 SNAPSHOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "monitor", "snapshot.py")
+CHROMIUM = next((b for b in ("chromium", "chromium-browser", "google-chrome") if __import__("shutil").which(b)), None)
+PDFTOTEXT = __import__("shutil").which("pdftotext")
 DAY1, DAY2 = "2026-10-06", "2026-10-07"
 MAX_PAGES = 6          # small cap so the cap test stays fast; the daily run uses 50
 
@@ -61,6 +63,35 @@ def photo_page(src, alt):
     return page("Ann Loe", OTHER).replace("<main>", f'<main><img src="{src}" alt="{alt}">')
 
 
+JS_TEXT = "Lee Roe is a teacher running for school board to bring art and music back to every classroom."
+
+
+def js_page():
+    """a page whose content exists only after JavaScript runs, as on many site builders"""
+    return ('<html><head><title>Lee Roe</title></head><body><div id="app"></div><script>'
+            f'document.getElementById("app").innerHTML = "<main><h1>Lee Roe</h1>" + "<p>{JS_TEXT}</p>".repeat(3) + "</main>";'
+            '</script></body></html>')
+
+
+PLAN1 = "Our plan funds public schools in every county."
+PLAN2 = "Our plan funds public schools and rural clinics in every county."
+
+
+def make_pdf(lines):
+    """a minimal one-page PDF; lines=[] gives a page with no text layer, like a scan"""
+    stream = "".join(f"BT /F1 12 Tf 72 {720 - 18 * i} Td ({t}) Tj ET\n" for i, t in enumerate(lines)).encode()
+    objs = [b"<< /Type /Catalog /Pages 2 0 R >>", b"<< /Type /Pages /Kids [3 0 R] /Count 1 >>",
+            b"<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>",
+            b"<< /Length %d >>\nstream\n" % len(stream) + stream + b"endstream",
+            b"<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>"]
+    out, offs = b"%PDF-1.4\n", []
+    for i, o in enumerate(objs, 1):
+        offs.append(len(out)); out += b"%d 0 obj\n" % i + o + b"\nendobj\n"
+    x = len(out)
+    out += b"xref\n0 %d\n0000000000 65535 f \n" % (len(objs) + 1) + b"".join(b"%010d 00000 n \n" % o for o in offs)
+    return out + b"trailer\n<< /Size %d /Root 1 0 R >>\nstartxref\n%d\n%%%%EOF\n" % (len(objs) + 1, x)
+
+
 def filler(topic):
     return [f"This page explains the candidate's plan on {topic} in detail for voters.",
             f"Read more about why {topic} matters to families across the district."]
@@ -107,6 +138,13 @@ def build_sites(offsite):
         "resized":   ({"index.html": photo_page("/img/ann-300x200.jpg?v=1", "Ann")},       # same image, new size
                       {"index.html": photo_page("/img/ann-600x400.jpg?v=2", "Ann")}),
         "campaign":  (camp1, camp2),
+        "jsonly":    ({"index.html": js_page()}, {"index.html": js_page()}),
+        "docs":      ({"index.html": page("Ray Doe for State House", OTHER, ["/plan.pdf", "/flyer.pdf"]),
+                       "plan.pdf": make_pdf([PLAN1, "Paid for by Friends of Ray Doe."]), "flyer.pdf": make_pdf([])},
+                      {"index.html": page("Ray Doe for State House", OTHER, ["/plan.pdf", "/flyer.pdf"]),
+                       "plan.pdf": make_pdf([PLAN2, "Paid for by Friends of Ray Doe."]), "flyer.pdf": make_pdf([])}),
+        "donor":     ({"index.html": page("Kim Doe for Senate", OTHER, ["https://secure.actblue.com/donate/kimdoe"])},
+                      {"index.html": page("Kim Doe for Senate", OTHER, ["https://secure.winred.com/kimdoe"])}),
         "big":       (big, big),
     }
 
@@ -147,7 +185,8 @@ def serve_dir(directory):
 
 def write_files(directory, files):
     for p in Path(directory).iterdir(): p.unlink()
-    for name, body in files.items(): Path(directory, name).write_text(body)
+    for name, body in files.items():
+        (Path(directory, name).write_bytes if isinstance(body, bytes) else Path(directory, name).write_text)(body)
 
 
 def git(repo, *args):
@@ -207,6 +246,9 @@ class DailyRunOverTwoDays(unittest.TestCase):
             cls.rows2 = list(csv.DictReader(f))
         cls.log2 = {r["site_id"]: r for r in cls.rows2 if r["page"] == "/"}     # homepage rows
         cls.summary2 = json.loads(Path(cls.repo, "logs", f"{DAY2}-summary.json").read_text())
+        cls.changes2 = {}
+        for line in Path(cls.repo, "changes", f"{DAY2}.jsonl").read_text().splitlines():
+            r = json.loads(line); cls.changes2[(r["site_id"], r["page"].rsplit("-", 1)[0])] = r
 
     @classmethod
     def tearDownClass(cls):
@@ -244,10 +286,10 @@ class DailyRunOverTwoDays(unittest.TestCase):
         self.assertNotEqual(self.log2["down"]["error"], "")      # and the failure is logged
 
     def test_summary_counts_sites_reached_separately_from_fetched_ok(self):
-        # day 2: 10 sites answered 200 (all but blocked and down); blocked answered 403; down never answered
-        self.assertEqual(self.summary2["sites"], 12)
-        self.assertEqual(self.summary2["reached"], 11)
-        self.assertEqual(self.summary2["ok"], 10)
+        # day 2: 13 sites answered 200 (all but blocked and down); blocked answered 403; down never answered
+        self.assertEqual(self.summary2["sites"], 15)
+        self.assertEqual(self.summary2["reached"], 14)
+        self.assertEqual(self.summary2["ok"], 13)
         self.assertEqual(self.summary2["errors"].get("http_403"), 1)
 
     # ---- full visible text and noise rules (#5)
@@ -274,7 +316,8 @@ class DailyRunOverTwoDays(unittest.TestCase):
         d = Path(self.repo, "sites", "noisy")
         self.assertEqual({f.name for f in d.iterdir()}, {"text.md", "links.json", "media.json", "meta.json"})
         meta = json.loads((d / "meta.json").read_text())
-        self.assertEqual(set(meta), {"format", "final_url", "title", "description", "paid_for_by", "years_mentioned", "fingerprint"})
+        self.assertEqual(set(meta), {"format", "final_url", "title", "description", "paid_for_by", "years_mentioned",
+                                     "rendered", "fingerprint"})
         self.assertEqual(meta["title"], "Sam Roe")
         self.assertEqual(meta["paid_for_by"], "Paid for by Friends of Sam Roe")
         text = (d / "text.md").read_text()
@@ -330,6 +373,82 @@ class DailyRunOverTwoDays(unittest.TestCase):
 
     def test_page_cap_counts_pages_captured_not_dead_links(self):
         self.assertEqual(self.pages("broken"), {f"p{i}.html" for i in range(1, MAX_PAGES)})
+
+    # ---- JavaScript rendering (#6)
+    @unittest.skipUnless(CHROMIUM, "Chromium is not installed")
+    def test_javascript_only_page_is_rendered(self):
+        self.assertIn(JS_TEXT, Path(self.repo, "sites", "jsonly", "text.md").read_text())
+        self.assertTrue(json.loads(Path(self.repo, "sites", "jsonly", "meta.json").read_text())["rendered"])
+        self.assertEqual(self.log2["jsonly"]["rendered"], "True")
+        self.assertGreaterEqual(self.summary2["rendered_usable"], 1)
+        self.assertNotIn(("jsonly", "/"), self.changes2)          # rendering the same page twice is not a change
+
+    def test_static_pages_are_not_rendered(self):
+        self.assertEqual(self.log2["edited"]["rendered"], "False")
+        self.assertEqual(self.log2["campaign"]["rendered"], "False")
+
+    # ---- PDFs (#7)
+    def pdf_dir(self, name):
+        return next(Path(self.repo, "sites", "docs", "pages").glob(name + "-*"))
+
+    @unittest.skipUnless(PDFTOTEXT, "pdftotext is not installed")
+    def test_pdf_text_is_stored_and_its_change_recorded(self):
+        self.assertIn(PLAN2, self.pdf_dir("plan.pdf").joinpath("text.md").read_text())
+        meta = json.loads(self.pdf_dir("plan.pdf").joinpath("meta.json").read_text())
+        self.assertEqual((meta["pdf"], meta["scanned"], meta["paid_for_by"]), (True, False, "Paid for by Friends of Ray Doe"))
+        r = self.changes2[("docs", "plan.pdf")]
+        self.assertEqual(r["text"], {"removed": [PLAN1], "added": [PLAN2]})
+
+    @unittest.skipUnless(PDFTOTEXT, "pdftotext is not installed")
+    def test_scanned_pdf_is_recorded_as_scanned(self):
+        meta = json.loads(self.pdf_dir("flyer.pdf").joinpath("meta.json").read_text())
+        self.assertEqual((meta["pdf"], meta["scanned"]), (True, True))
+        self.assertNotIn(("docs", "flyer.pdf"), self.changes2)
+        self.assertEqual((self.summary2["pdfs"], self.summary2["pdfs_scanned"]), (2, 1))
+
+    @unittest.skipUnless(PDFTOTEXT, "pdftotext is not installed")
+    def test_pdfs_count_against_the_page_cap(self):
+        rows = [r for r in self.rows2 if r["site_id"] == "docs"]
+        self.assertEqual(sorted(r["pdf"] for r in rows), ["False", "True", "True"])
+        # with a cap of 2 pages, the homepage and ONE of the two PDFs are fetched
+        with tempfile.TemporaryDirectory() as t:
+            urls = os.path.join(t, "urls.csv")
+            Path(urls).write_text(f"site_id,url\ndocs,http://127.0.0.1:{self.servers['docs'].server_address[1]}/\n")
+            repo = os.path.join(t, "repo"); os.makedirs(repo)
+            subprocess.run([sys.executable, SNAPSHOT, urls, repo, "--max-pages", "2", "--no-render", "--day", DAY1],
+                           check=True, capture_output=True, text=True, timeout=60)
+            with open(os.path.join(repo, "logs", f"{DAY1}.csv")) as f:
+                capped = [r for r in csv.DictReader(f) if not r["error"]]
+        self.assertEqual(sorted(r["pdf"] for r in capped), ["False", "True"])
+
+    # ---- change records (#9) and step-0 rules (#10)
+    def test_change_records_for_exactly_the_changed_pages(self):
+        self.assertFalse(Path(self.repo, "changes", f"{DAY1}.jsonl").exists())      # nothing to compare on day 1
+        expected = {("edited", "/"), ("collapsed", "/"), ("photo", "/"), ("donor", "/"), ("campaign", "/"),
+                    ("campaign", "about.html"), ("campaign", "endorsements.html")} | ({("docs", "plan.pdf")} if PDFTOTEXT else set())
+        self.assertEqual(set(self.changes2), expected)
+        self.assertEqual(self.summary2["change_records"], len(expected))
+
+    def test_change_record_shows_the_reworded_sentence(self):
+        r = self.changes2[("edited", "/")]
+        self.assertEqual((r["kind"], r["text"]), ("changed", {"removed": [ISSUES[1]], "added": [REWORDED]}))
+        self.assertEqual((r["links"]["added"], r["media"]["added"], r["meta"]), ([], [], {}))
+        self.assertFalse(r["step0"]["discard"])
+
+    def test_change_records_for_added_removed_pages_and_links(self):
+        self.assertEqual(self.changes2[("campaign", "about.html")]["kind"], "removed")
+        self.assertEqual(self.changes2[("campaign", "endorsements.html")]["kind"], "added")
+        home = self.changes2[("campaign", "/")]
+        self.assertEqual([l["href"].rsplit("/", 1)[1] for l in home["links"]["removed"]], ["about.html"])
+        self.assertEqual([l["href"].rsplit("/", 1)[1] for l in home["links"]["added"]], ["endorsements.html"])
+
+    def test_donation_platform_swap_is_flagged(self):
+        r = self.changes2[("donor", "/")]
+        self.assertEqual(r["links"]["donation_links_changed"],
+                         ["https://secure.actblue.com/donate/kimdoe", "https://secure.winred.com/kimdoe"])
+
+    def test_image_swap_has_a_change_record(self):
+        self.assertTrue(self.changes2[("photo", "/")]["media"]["added"])
 
     def test_removed_and_added_pages_are_recorded(self):
         # --no-renames: two pages with identical files (e.g. empty links.json) must not look like a rename

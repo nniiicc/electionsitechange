@@ -1,0 +1,92 @@
+<!doctype html>
+<!-- Labelling tool for change records (issue #10). Open this file in a browser, load the JSONL written by
+     tools/sample_changes.py, label one change at a time, then export the CSV and commit it as
+     data/labels/calibration_set.csv. Labels are kept in this browser between sessions.
+     Self-contained: it makes no network requests. -->
+<html lang="en"><head><meta charset="utf-8"><title>Label campaign-site changes</title>
+<style>
+ body{font:15px/1.45 system-ui,sans-serif;max-width:980px;margin:1.5rem auto;padding:0 1rem;color:#111}
+ h1{font-size:1.2rem} .muted{color:#555} .box{border:1px solid #ccc;border-radius:6px;padding:.6rem .8rem;margin:.6rem 0}
+ .rem{background:#fde8e8} .add{background:#e6f4ea} .rem,.add{padding:.15rem .4rem;margin:.15rem 0;white-space:pre-wrap;word-break:break-word}
+ .row{display:flex;gap:1rem;flex-wrap:wrap;align-items:center} button{font:inherit;padding:.3rem .8rem}
+ fieldset{border:1px solid #ccc;border-radius:6px} label{margin-right:1rem} select,input[type=text]{font:inherit}
+ :focus-visible{outline:3px solid #1f4e79}
+</style></head><body>
+<h1>Label campaign-site changes</h1>
+<div class="row">
+ <label>Change records (.jsonl): <input type="file" id="file" accept=".jsonl,.json,.txt"></label>
+ <label>Your name: <input type="text" id="who" size="14"></label>
+ <button id="export">Export labels CSV</button>
+</div>
+<p id="status" class="muted" aria-live="polite">Load a file to start.</p>
+<div id="view"></div>
+<script>
+const CATS = {
+  substantive: ["issue_added","issue_removed","issue_reworded","endorsement_added","endorsement_removed",
+                "party_affiliation_changed","opponent_content","donation_platform_changed","candidacy_status"],
+  routine: ["event_added","news_post_added","volunteer_cta"],
+  cosmetic: ["typo","image_swap","layout","date_counter","other_cosmetic"]
+};
+let recs = [], i = 0, key = "";
+const labels = () => JSON.parse(localStorage.getItem(key) || "{}");
+const save = l => localStorage.setItem(key, JSON.stringify(l));
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const lines = (xs, cls) => xs.map(x => `<div class="${cls}">${cls === "rem" ? "−" : "+"} ${esc(typeof x === "string" ? x : `${x.text} → ${x.href}`)}</div>`).join("");
+
+document.getElementById("who").value = localStorage.getItem("labeller") || "";
+document.getElementById("who").onchange = e => localStorage.setItem("labeller", e.target.value);
+document.getElementById("file").onchange = async e => {
+  const f = e.target.files[0]; if (!f) return;
+  recs = (await f.text()).split("\n").filter(l => l.trim()).map(l => JSON.parse(l));
+  key = "labels:" + f.name; const l = labels();
+  i = Math.max(0, recs.findIndex(r => !l[r.change_id])); if (i < 0) i = 0;
+  show();
+};
+
+function show() {
+  const r = recs[i], l = labels(), cur = l[r.change_id] || {};
+  const done = recs.filter(x => l[x.change_id]).length;
+  document.getElementById("status").textContent = `Change ${i + 1} of ${recs.length} · ${done} labelled`;
+  const meta = Object.entries(r.meta || {}).map(([k, v]) =>
+    `<div><b>${esc(k)}</b></div>${lines([JSON.stringify(v.before)], "rem")}${lines([JSON.stringify(v.after)], "add")}`).join("");
+  const sect = (t, body) => body ? `<div class="box"><b>${t}</b>${body}</div>` : "";
+  document.getElementById("view").innerHTML = `
+   <div class="box"><b>${esc(r.names)}</b> · ${esc(r.office_tier)} · ${esc(r.state)} · ${esc(r.date)}<br>
+    <span class="muted">${esc(r.kind)} page:</span> <a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.url)}</a>
+    ${r.links.donation_links_changed?.length ? "<br><b>Donation links changed</b>" : ""}</div>
+   ${sect("Text", lines(r.text.removed, "rem") + lines(r.text.added, "add"))}
+   ${sect("Links", lines(r.links.removed, "rem") + lines(r.links.added, "add"))}
+   ${sect("Images and embeds", lines(r.media.removed, "rem") + lines(r.media.added, "add"))}
+   ${sect("Title, description, Paid for by, years", meta)}
+   <fieldset><legend>Class</legend>
+    ${Object.keys(CATS).map(c => `<label><input type="radio" name="cls" value="${c}" ${cur.class === c ? "checked" : ""}> ${c}</label>`).join("")}
+   </fieldset>
+   <p class="row"><label>Category <select id="cat"></select></label>
+    <label>Note <input type="text" id="note" size="40" value="${esc(cur.note)}"></label></p>
+   <p class="row"><button id="prev">← Previous</button><button id="savenext">Save and next →</button></p>`;
+  const fill = c => { document.getElementById("cat").innerHTML = (CATS[c] || []).map(x =>
+      `<option ${cur.category === x ? "selected" : ""}>${x}</option>`).join(""); };
+  fill(cur.class);
+  document.querySelectorAll("input[name=cls]").forEach(x => x.onchange = () => fill(x.value));
+  document.getElementById("prev").onclick = () => { if (i > 0) { i--; show(); } };
+  document.getElementById("savenext").onclick = () => {
+    const c = document.querySelector("input[name=cls]:checked");
+    if (!c) { alert("Choose a class first."); return; }
+    const all = labels();
+    all[r.change_id] = {class: c.value, category: document.getElementById("cat").value,
+      note: document.getElementById("note").value, labeller: document.getElementById("who").value,
+      labelled_at: new Date().toISOString()};
+    save(all); if (i < recs.length - 1) i++; show();
+  };
+}
+
+document.getElementById("export").onclick = () => {
+  const l = labels(), q = s => `"${String(s ?? "").replace(/"/g, '""')}"`;
+  const rows = [["change_id","date","site_id","page","office_tier","class","category","note","labeller","labelled_at"]];
+  recs.forEach(r => { const x = l[r.change_id]; if (x) rows.push([r.change_id, r.date, r.site_id, r.page, r.office_tier,
+      x.class, x.category, x.note, x.labeller, x.labelled_at]); });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([rows.map(r => r.map(q).join(",")).join("\n") + "\n"], {type: "text/csv"}));
+  a.download = "calibration_set.csv"; a.click();
+};
+</script></body></html>
