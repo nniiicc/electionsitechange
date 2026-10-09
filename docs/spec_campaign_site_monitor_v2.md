@@ -124,12 +124,29 @@ Chooses the parser and change detection, using fake sites built from real pages,
 5. **Outcome:** the passing method becomes the parser in `snapshot.py` and the Change detector's method (#5, #9). The corpus and labels go into the automated tests, so every later code change is checked against them. Day-to-day noise on live sites is monitored after launch and does not gate this decision.
 
 ### Module: Archiver (Wayback Machine)
-- We submit URLs; Internet Archive's own crawler fetches the pages.
-- **First capture:** each homepage is submitted once with outlink capture turned on, so the homepage and the pages it links to are archived from a single request.
-- **Daily:** each changed page is submitted individually, homepages first. Pages with a recent existing capture are skipped (Save Page Now's "only if not archived within" option).
-- A persistent queue carries unsent submissions over to the next day. The capture URL is recorded against each page version.
-- Limits: Internet Archive publishes 12 concurrent captures and 100,000 a day for logged-in users. One user has reported a lower practical rate (about 6 a minute). The real rate for our account will be measured on a small batch before the first full submission.
-- Needs an archive.org account's Save Page Now access key and secret key, stored in a private file on the VM, never in chat or Git.
+- We submit URLs; Internet Archive's own crawler fetches the pages. Submission uses the open-source `spn.sh`
+  (overcast07/wayback-machine-spn-scripts, MIT), vendored unmodified in `tools/vendor/`; it handles Save Page Now
+  authentication, parallel jobs and retries. `monitor/archive.py` only builds the queue and records results, and
+  `monitor/archive.sh` runs them, started in the background by `daily.sh` after each snapshot.
+- **Measured capacity (9 Oct):** this account has 3 concurrent captures and a 30,000/day limit (Save Page Now's status
+  call). Two trials (50 and 30 changed pages) captured 2.3 and 2.9 pages a minute, so about **3,300–4,200 pages a
+  day**; concurrency, not the daily limit, is the constraint. (The published 12 concurrent / 100,000 a day do not
+  apply to this account.)
+- **Daily queue, in priority order:** homepages of sites that changed (a site-wide change submits the homepage), new
+  pages, pages whose text, links or metadata changed, pages where only images changed. On 8 Oct data that is about
+  5,100 pages, more than a day's capacity: submission stops at 07:30 UTC the next day, so the lowest-priority end of
+  the list may not be archived. **Unsent pages are not carried over** (a change from the earlier spec): with the queue
+  already above capacity every day, carried-over pages would only push out the next day's changes; the change itself is
+  still recorded in Git, and its record says it has no Wayback copy (`wayback.after` empty, status `not_captured` in
+  `wayback/<day>.csv`). Changed pages are skipped only if captured in the last 3 hours.
+- **First round:** after the day's changed pages, up to 2,000 homepages never archived by us are submitted (skipped if
+  already captured in the last 30 days). At current capacity this queue is rarely reached. Outlink capture is not
+  used: it would multiply captures far beyond capacity.
+- Results go to `~/monitor/wayback/results/<day>.csv` (outside the repository, which daily.sh resets at the start of
+  each run); the next morning's run copies them to `wayback/<day>.csv` and fills each change record's `wayback.before`
+  (latest earlier capture we made) and `wayback.after` (that day's capture).
+- Keys: archive.org S3-style access and secret key, in `~/.config/archiveorg/spn_keys` on the VM (mode 600), never in
+  chat or Git. Without them nothing is submitted.
 
 ### Module: Change detector
 - Runs after each day's commit. For every page added, removed or changed, it produces a change record with:

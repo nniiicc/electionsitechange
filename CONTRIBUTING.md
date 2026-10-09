@@ -4,7 +4,7 @@
 
 | Path | What |
 |---|---|
-| `monitor/` | Code the daily run uses: `snapshot.py` (crawl and write), `detect.py` (parse a page and decide whether it changed), `changes.py` (change records), `step0.py` (noise rules for change records), `pdf.py` (text of PDFs on the candidate's site; needs poppler-utils), `site_noise.csv` (per-site noise patterns), `daily.sh`, `monitor_urls.csv`, plus `install_cron.sh` to schedule it |
+| `monitor/` | Code the daily run uses: `snapshot.py` (crawl and write), `detect.py` (parse a page and decide whether it changed), `changes.py` (change records), `step0.py` (noise rules for change records), `pdf.py` (text of PDFs on the candidate's site; needs poppler-utils), `archive.py` and `archive.sh` (Wayback Machine submission through the vendored `tools/vendor/spn.sh`), `site_noise.csv` (per-site noise patterns), `daily.sh`, `monitor_urls.csv`, plus `install_cron.sh` to schedule it |
 | `tests/` | Tests of the daily run and the page parser (see below); `tests/corpus/` holds the labelled parser corpus |
 | `tools/` | One-off scripts: reachability check (`check_urls.py`), attribution fetcher (`fetch_pages.py`), coverage check (`cov.py`), the parser evaluation (`parser_eval/`), day-over-day parser check on saved raw HTML (`real_pairs_check.py`), calibration sample (`sample_changes.py`) and labelling tool (`label_changes.html`) |
 | `docs/` | Spec and design documents |
@@ -23,6 +23,7 @@ site; a site answering 429/503 is left alone for the rest of the day.
 | `sites/<site_id>/pages/<slug>/{…same four files…}` | Every other page; `<slug>` is the page path plus a short hash |
 | `logs/<day>.csv` | One row per page fetched (or found gone) that day |
 | `logs/<day>-summary.json` | That day's totals |
+| `wayback/<day>.csv` | Pages submitted to the Wayback Machine for that day, with the capture link or the failure; copied in by the next day's run |
 | `changes/<day>.jsonl` | One change record per page added, removed or changed that day, plus one per site for edits repeated on 3+ pages (`page` = `*`); `step0` says whether the noise rules discarded it and why |
 
 Pages are parsed by `monitor/detect.py`, the method chosen by the parser evaluation
