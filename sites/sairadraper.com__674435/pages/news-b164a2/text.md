@@ -1,4 +1,7 @@
-Skip to main content Saira Draper for State Senate District 44 for SD44 About Meet Saira Endorsements District 44 Get Involved Get Involved Work with Saira Canvass News + Events Get Help Join the Campaign Donate Accessibility Text size EN English Español Tiếng Việt Latest News Subscribe for Updates All Draper Paper In The News Articles Events All Voting And Elections 20 Running For Sd 44 9 Early Voting 5 Fulton County Raid Jan 2026 4 Federal Layoffs 3 More Tags Articles Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia Georgia’s voter registration deadline is October 5.
+Skip to main content Saira Draper for State Senate District 44 for SD44 About Meet Saira Endorsements District 44 Get Involved Get Involved Work with Saira Canvass News + Events Get Help Join the Campaign Donate Accessibility Text size EN English Español Tiếng Việt Latest News Subscribe for Updates All Draper Paper In The News Articles Events All Voting And Elections 20 Running For Sd 44 9 Early Voting 5 Fulton County Raid Jan 2026 4 Federal Layoffs 3 More Tags Draper Paper They're Waiting Until You've Voted Republicans already admitted they'll redraw our maps.
+The only question is when.
+October 9, 2026 Share Facebook Bluesky Reddit Email X Copy Link Articles A Guide to Georgia Legislative Procedure and Redistricting Terms Breaking down the essential terms governing district mapmaking, voting rights, and statehouse procedures in Georgia.
+October 9, 2026 Share Facebook Bluesky Reddit Email X Copy Link Articles Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia Georgia’s voter registration deadline is October 5.
 Rep.
 Saira Draper urges Georgians to verify their status and register before the cutoff.
 Voting And Elections October 5, 2026 Share Facebook Bluesky Reddit Email X Copy Link Draper Paper Draper Paper: And we're off!
@@ -15,12 +18,7 @@ Saira Draper speaks with Georgia Recorder about how childcare costs and family r
 Running For Sd 44 Childcare Women In Politics May 11, 2026 Share Facebook Bluesky Reddit Email X Copy Link In The News thecurrentga.org ↗ Georgia Democrats blast requirement to recount votes by hand in bill that would keep ballot QR codes - The Current Rep.
 Draper criticized a Republican-backed Georgia bill requiring hand recounts while keeping QR-code ballots, citing concerns about confusion and error before major elections.
 Voting And Elections June 23, 2026 Share Facebook Bluesky Reddit Email X Copy Link In The News nytimes.com ↗ New York Times Covers Georgia Redistricting Pause Rep.
-Draper in the New York Times: "political civic engagement works when the people are paying attention and responding" Voting And Elections June 18, 2026 Share Facebook Bluesky Reddit Email X Copy Link In The News ajc.com ↗ AJC: Democrats Say Georgia Redistricting Fight Isn’t Over Rep.
-Draper urged transparency as Democrats warned Georgia’s redistricting fight may return after the November elections.
-Voting And Elections June 18, 2026 Share Facebook Bluesky Reddit Email X Copy Link Articles Rep.
-Draper Secures SD-44 Democratic Nomination Rep.
-Draper won the Democratic nomination for State Senate District 44!
-May 21, 2026 Share Facebook Bluesky Reddit Email X Copy Link Page 1 of 5 Older → Saira Draper Candidate for Georgia State Senate, District 44.
+Draper in the New York Times: "political civic engagement works when the people are paying attention and responding" Voting And Elections June 18, 2026 Share Facebook Bluesky Reddit Email X Copy Link Page 1 of 5 Older → Saira Draper Candidate for Georgia State Senate, District 44.
 Fighting for voting rights, equity, and opportunity.
 Campaign Endorsements Meet Saira District 44 Get Help Take Action Vote Early Donate Stay Connected Get a Yard Sign Volunteer Contact info@votesaira.com Stay Updated Get campaign updates delivered to your inbox.
 Subscribe English English Español Tiếng Việt Paid for by Friends of Saira Draper, Inc.

@@ -1,6 +1,8 @@
 Skip to content ★ Endorsed by Gov.
 Sarah Sanders and every Arkansas statewide official → Menu Home About Tom Issues News Volunteer Contact Donate Newsroom News & Press Releases The latest statements, announcements, and press releases from Cotton for Senate.
-September 9, 2026 Washington Free Beacon ICYMI: Arkansas Dem Senate Candidate Donated to Bail Fund Founded by Activist Jailed for Firebombing Cop Cars Washington Free Beacon: Hallie Shoffner raised money in 2020 for a bail fund founded by an activist later jailed for firebombing Little Rock police cars.
+September 17, 2026 Press Release Arkansas Municipal Police Association Endorses Senator Cotton After Shoffner Calls for Defunding Law Enforcement The Arkansas Municipal Police Association has announced its endorsement of Senator Tom Cotton (R) for re-election to the U.S.
+Senate.
+His liberal Democrat opponent, Hallie Shoffner, has recently come under fire for… Read the release → September 16, 2026 Breitbart News ICYMI: Arkansas Democrat Hallie Shoffner: ‘We’d Trade Five Americans’ for One ‘Undocumented Immigrant’ Breitbart News: Hallie Shoffner defended undocumented farm workers, saying “we’d trade five Americans for just one of them because of how hard they work.” Read the release → September 9, 2026 Washington Free Beacon ICYMI: Arkansas Dem Senate Candidate Donated to Bail Fund Founded by Activist Jailed for Firebombing Cop Cars Washington Free Beacon: Hallie Shoffner raised money in 2020 for a bail fund founded by an activist later jailed for firebombing Little Rock police cars.
 Read the release → September 9, 2026 Press Release National Rifle Association Endorses Senator Tom Cotton, Hallie Shoffner Receives “F” Rating The NRA Political Victory Fund has endorsed Senator Tom Cotton for re-election, while Hallie Shoffner received the NRA’s lowest “F” rating.
 Read the release → September 4, 2026 Press Release ICYMI: Cotton on What Defunding ICE Would Mean for Arkansas After Shoffner Admits She Would Defund the Agency Senator Cotton joined Fox News’ America’s Newsroom on what defunding ICE would mean for Arkansas law enforcement after Shoffner said she’d defund it.
 Read the release → September 4, 2026 Townhall ICYMI: Hallie Shoffner is Running as an Arkansas Farmer.
@@ -18,11 +20,6 @@ Hallie Shoffner, who donated to Harris 25 separate times, is noticeably absent.
 Read the release → August 26, 2026 Press Release Hallie Shoffner Ally Kamala Harris Begins Arkansas Endorsements—Is Shoffner Next?
 Former Vice President Kamala Harris has begun making endorsements in Arkansas.
 Hallie Shoffner donated to Harris 25 separate times, likely making her the next candidate to receive one.
-Read the release → August 25, 2026 Press Release Tom Cotton Backs Citizens Only Voting Amendment; Draws Sharp Contrast With Democrat Hallie Shoffner On Illegal Immigration U.S.
-Sen.
-Tom Cotton announced his support for Arkansas’s Citizens Only Voting Amendment, which would make clear that only U.S. citizens may vote in state and local elections.
-Read the release → August 18, 2026 Press Release Statement on Independent Poll Showing Cotton’s 16% Lead and Democrats’ Continued Unpopularity in Arkansas An independent J.L.
-Partners poll taken August 14–18 shows Senator Cotton leading Democrat Hallie Shoffner 51% to 35%.
 Read the release → Press releases navigation ← Newer 1 2 3 Older → We depend on you Stand with Tom.
 Stand with Arkansas.
 Your support helps Tom share our message and grow the team supporting it.

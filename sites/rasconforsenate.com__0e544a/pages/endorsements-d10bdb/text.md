@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate we are proudly supporting Sarah Rascón for State Senate Sarah is proud to have received the following endorsements for her campaign for California State Senate.
+Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate we are proudly supporting Sarah Rascón for State Senate Sarah is proud to have received the following endorsements for her campaign for California State Senate.
 "I have been proud to fight for the people of this community as a labor leader and State Senator.
 Sarah Rascón has the heart, determination and values that working families need.
 I am proud to endorse her, and I'm asking you to stand with me." Senator María Elena Durazo "I'm proud to endorse Sarah Rascón for State Senate because she has spent her career fighting for communities too often left behind.

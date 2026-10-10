@@ -2,8 +2,7 @@ Skip to content Lisa Kinney Running For You!
 Menu Meet Lisa News Events Get in Touch FAQ R.E.A.L.
 Donate Close Lisa Kinney Running For You!
 Meet Lisa News Events Get in Touch FAQ R.E.A.L.
-Donate Donate Events Casper Fundraiser for Lisa North Casper Clubhouse 1032 L Street North Casper, Wyoming October 9, 2026 at 4:30 pm You are invited to a fundraiser for Lisa in Casper!
-There is an admission fee but I hope you will join us with… Read more… Heading to Evanston Columbo Hall 48 Main Street in Evanston October 10, 2026 at 2:00 pm Lisa and Jim are continuing their statewide tour in Uinta County!
+Donate Donate Events Heading to Evanston Columbo Hall 48 Main Street in Evanston October 10, 2026 at 2:00 pm Lisa and Jim are continuing their statewide tour in Uinta County!
 Read more… Lincoln County Get-Together!
 Casa Mezcal 170 Highway 89 in Alpine October 11, 2026 at 4:00 pm Lisa Kinney will be in Alpine to meet the locals there!
 Please join her and the Lincoln County Democrats!

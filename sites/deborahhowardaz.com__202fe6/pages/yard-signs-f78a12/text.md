@@ -12,4 +12,4 @@ For the 2026 election, this means that yard signs are a GO!
 And are cool through Election Day -November 3, 2026, plus 15 days, So let us know today if you'll display a yard sign in support of our winning campaign.
 Paid for by Deborah Howard for State Representative - LD27.
 Authorized by Deborah Howard.
-Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318 Privacy Policy

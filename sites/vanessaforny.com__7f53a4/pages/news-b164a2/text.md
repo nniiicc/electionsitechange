@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate News & Press City & State The 2026 Manhattan Power 100 58.
+Skip navigation menu Home About Issues Assembly District 73 Endorsements Events Volunteer News Contact Us Donate Home About Issues Assembly District 73 Endorsements Events Volunteer News Contact Us Donate News & Press City & State The 2026 Manhattan Power 100 58.
 Vanessa Aronson, Eli Northrup, Illapa Sairitupac & David Siffert Democratic Assembly Nominees Read more Sep 8 2026 City & state Vanessa Aronson is walking right into the Assembly Vanessa Aronson is a shoo-in to fill Alex Bores’ Assembly seat on the east side of Manhattan.
 That isn’t a political analysis of a crowded field, but the facts – Aronson is the only Democrat running who has filed petitions for the open seat.
 This means there won’t be a primary, and Aronson will be the Democratic party’s nominee on the ballot in November in a district President Donald Trump lost by 53 points.
@@ -12,4 +12,4 @@ Read more Oct 26 2025 upper east site Vanessa Aronson Running for UES Assembly S
 Read more Oct 22 2025 Patch There's An Upper East Side Power Swap In The Works On Wednesday morning, Vanessa Aronson , who narrowly lost a primary campaign for City Council District 4 to Virginia Maloney, announced she'd be running for Bores's newly opened Assembly seat, and endorsed him.
 Read more Oct 22 2025 politico When One Door Closes Vanessa Aronson is jumping into the race to succeed Assemblymember Alex Bores months after her narrow second place finish to Virginia Maloney in a Democratic City Council primary on the east side of Manhattan.
 Read more Oct 22 2025 City & state Vanessa Aronson is running for Assembly Vanessa Aronson , who came in second in a competitive New York City Council primary on the Upper East Side in June, on Tuesday filed to run for Assembly District 73, state campaign finance records show.
-Read more Sep 30 2025 vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.
+Read more Sep 30 2025 Volunteer!! vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.

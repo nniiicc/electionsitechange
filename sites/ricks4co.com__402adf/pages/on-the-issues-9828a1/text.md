@@ -1,6 +1,6 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Education Education is still the key to a bright future.
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy Education Education is still the key to a bright future.
 Unfortunately, that key is not always in the hands of all of our children depending on where they live and their family’s socioeconomic status.
 I will fight for better funding for our schools in HD 40 and advocate for improving our overall education outcomes.
 Our children need to be prepared for the high paying jobs of today and the emerging industries of tomorrow.
@@ -41,4 +41,5 @@ The psychological effects of the expectation of criminalizing students have yet 
 Our children need mental health professionals, parent-staffed campus liaisons, and social workers that are equipped to handle and treat behavior issues instead of criminalizing students.
 When we prevent criminalization in the early stages of life, we provide better outcomes overall.
 Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

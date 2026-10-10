@@ -46,8 +46,7 @@ Regulating immigration, screening immigration applicants, and checking up on the
 The uncontrolled influx of illegal invaders that has been allowed to happen over the last 3 years is one of the greatest dangers to our national sovereignty that this country has ever faced.
 Unfortunately, it is just one of several threats to our national sovereignty that has come to pass in the last three years.
 It is imperative that we immediately secure our borders and remove the invaders.
-Donate Now Search Search Recent Posts Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Could this be the case that takes Voter ID to the Supreme Court before 11/3/2026?
-Recent Comments No comments to show.
+Donate Now Search Search Recent Posts Money Wins Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Recent Comments No comments to show.
 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
 Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
 Paid for by David Russ Is For US.

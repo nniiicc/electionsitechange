@@ -1,6 +1,29 @@
 36 th District Home About Priorities News Voting Get Involved Donate The Latest News & Updates Follow Bryan's latest conversations, local updates, and community posts straight from his social channels.
 Feed refreshes every 8 hours Follow Bryan Mr.
-302 BryanShupeDE · 10/8/2026 Thank you Delaware Public Media for covering the legislature’s bipartisan bill to limit emergency powers of the executiv...
+302 BryanShupeDE · 10/10/2026 Higher Gas Taxes.
+More DMV Fees.
+How Much More Can Delaware Drivers Afford?
+According to the Cape Gazette, the Delaware...
+Higher Gas Taxes.
+More DMV Fees.
+How Much More Can Delaware Drivers Afford?
+According to the Cape Gazette, the Delaware Task Force on Sustainable Transportation Funding has recommended the state’s first fuel tax increase in 30 years.
+The proposals include: • Higher gasoline and d View on Facebook BryanShupeDE · 10/10/2026 Andrew Sivels and Cheyenne Johnson have been named Milford High School Homecoming King and Queen.Andrew Sivels and Cheye...
+Andrew Sivels and Cheyenne Johnson have been named Milford High School Homecoming King and Queen.
+Andrew Sivels and Cheyenne Johnson have been named Milford High School Homecoming King and Queen.
+Watch for our story on the game!
+View on Facebook BryanShupeDE · 10/9/2026 Gene Dvornick - The 20th District Deserves a Local Voice in Dover Gene Dvornick is running for State Representative in t...
+Gene Dvornick - The 20th District Deserves a Local Voice in Dover Gene Dvornick is running for State Representative in the 20th District, just south of ours, and is an example of the type of public servant we need in Dover.
+As Chief of the Milton Fire Company and Georgetown’s to View on Facebook BryanShupeDE · 10/9/2026 Did you know the U.S.
+Department of Justice is suing the University of Delaware over its in-state tuition policy?
+The la...
+Did you know the U.S.
+Department of Justice is suing the University of Delaware over its in-state tuition policy?
+The lawsuit challenges UD’s policy allowing undocumented students to pay lower, in-state tuition rates while American students living outside Delaware pay higher rate View on Facebook BryanShupeDE · 10/9/2026 A stronger reader tomorrow starts with a story today.
+Helping children succeed in school begins long before their first...
+A stronger reader tomorrow starts with a story today.
+Helping children succeed in school begins long before their first day of kindergarten.
+Delaware’s latest assessment results show that 58% of students tested in grades 3–8 are below proficiency in English language arts, and 65% View on Facebook BryanShupeDE · 10/8/2026 Thank you Delaware Public Media for covering the legislature’s bipartisan bill to limit emergency powers of the executiv...
 Thank you Delaware Public Media for covering the legislature’s bipartisan bill to limit emergency powers of the executive office and Gov.
 Meyer’s veto of the bill.
 The legislation passed both the House and Senate unanimously.
@@ -42,32 +65,8 @@ Walk with me through the headlines of 2026—and th...
 Frustrated with Washington?
 Don’t give Delaware Democrats a free pass.
 Walk with me through the headlines of 2026—and the decisions that brought us here.
-Read about how Delaware’s majority party, the Democratic Party, has increased costs while families and small businesses strugg View on Facebook BryanShupeDE · 10/6/2026 Focused on Delaware families As a husband, father, small business owner, and lifelong Delawarean, my legislative work is...
-Focused on Delaware families As a husband, father, small business owner, and lifelong Delawarean, my legislative work is focused on the challenges families face every day.
-This graphic highlights my legislative work for Delaware families—the bills I’ve introduced and worked on, a View on Facebook BryanShupeDE · 10/5/2026 The Milford Bucs beat the Delmar Wildcats 19-6 Friday night, bringing their record to 4-0 as they prepare for homecoming...
-The Milford Bucs beat the Delmar Wildcats 19-6 Friday night, bringing their record to 4-0 as they prepare for homecoming this week. https://milford-times.com/bucs-tame-wildcats-19-6/ The Milford Bucs beat the Delmar Wildcats 19-6 Friday night, bringing their record to 4-0 as they View on Facebook BryanShupeDE · 10/5/2026 Early voting begins October 22.
-A record of showing up and taking action.
-Early voting begins October 22.
-As you decide...
-Early voting begins October 22.
-A record of showing up and taking action.
-Early voting begins October 22.
-As you decide who will represent you in Dover, I want you to know the work I’ve done for our families and our community.
-Lowering costs and demanding fiscal responsibility • View on Facebook BryanShupeDE · 10/4/2026 # days until early voting.
-Leadership starts with showing up.
-On October 22, Delaware begins voting in the general elec...
-# days until early voting.
-Leadership starts with showing up.
-On October 22, Delaware begins voting in the general election.
-When you cast your ballot, think about who has shown up for this community—and what they have done.
-Milford is my hometown.
-It’s where Sherry and I are ra View on Facebook BryanShupeDE · 10/4/2026 Dinosaurs in Milford?
-Your wild adventure starts with a cookie!
-Come join us today at Farmacy Market and Fur Baby Pet Re...
-Dinosaurs in Milford?
-Your wild adventure starts with a cookie!
-Come join us today at Farmacy Market and Fur Baby Pet Resort for a wild adventure featuring animatronic dinosaurs, lions, tigers, and elephants! iHeart Cookie is bringing the adventure to life—buy a cookie and receiv View on Facebook Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 24 Days 20 Hours 21 Minutes 23 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+Read about how Delaware’s majority party, the Democratic Party, has increased costs while families and small businesses strugg View on Facebook Together, We Will Save Delaware.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 23 Days 20 Hours 21 Minutes 11 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

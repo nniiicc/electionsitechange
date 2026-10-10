@@ -1,7 +1,7 @@
 Home About Issues Take Action Media Donate ★ District 25 ★ Bob Heitkamp for North Dakota State Senate Lower Costs.
 Stronger Businesses.
 Safer Future.
-Donate → Vote Nov 3 → Send Bob to Bismarck on November 3rd. ★ 25 ★ Days to vote for Bob Make Your Plan to Vote Election Day is Tuesday, November 3.
+Donate → Vote Nov 3 → Send Bob to Bismarck on November 3rd. ★ 24 ★ Days to vote for Bob Make Your Plan to Vote Election Day is Tuesday, November 3.
 North Dakota has no voter registration, so if you are a U.S. citizen, 18 or older, and meet North Dakota's 30-day residency requirement, you can vote.
 1 Choose how you'll vote In person on November 3.
 Or vote by absentee ballot, available now from your county auditor.

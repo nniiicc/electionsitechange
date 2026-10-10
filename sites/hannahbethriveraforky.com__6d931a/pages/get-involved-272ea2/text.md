@@ -1,4 +1,5 @@
-top of page Document HOME MEET HANNAH BETH THE ISSUES GET INVOLVED Get Involved Need a Yard Sign?
+2.
+Paste this code immediately after the opening tag: top of page Document HOME MEET HANNAH BETH THE ISSUES GET INVOLVED Get Involved Need a Yard Sign?
 Want to volunteer?
 Complete the form below and let us know how you'd like to get involved!
 First Name * Last Name * Email * Phone Address Message Select all that apply: Get a Yard Sign Knock on Doors Make Phone Calls Host an Event Opt-in to receive text updates from our campaign.

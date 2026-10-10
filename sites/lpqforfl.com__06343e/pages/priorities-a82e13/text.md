@@ -9,6 +9,8 @@ Making healthcare more affordable and transparent.
 Your health comes before corporate profits.
 But costs are skyrocketing, policies are vague and confusing, and insurance companies are refusing to provide clear pricing and denying you the care you paid for.
 Lindsay will fight for a transparent, patient-centered system that ensures every hardworking Floridian and senior gets the high-quality, affordable care that they need, when they need it, and that holds insurance corporations accountable when they try to deny claims and rip off patients.
+Safeguarding our communities from Data Centers Safeguarding our communities from the environmental, social, and economic impacts of hyperscale data centers. - Lindsay is calling for a moratorium on data center development to ensure Floridians have full transparency into the process, time to understand the impacts, and the local freedom to decide.
+She is fighting to safeguard our communities against pollution and skyrocketing utility rates and to protect our Florida way of life.
 Funding our public schools and paying teachers what they're worth.
 Florida ranks 50th in the nation for teacher pay.
 That's why class sizes are exploding, kids aren't getting the attention they deserve, and teachers and educational professionals are leaving the field.

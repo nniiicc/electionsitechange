@@ -31,7 +31,7 @@ Dr.
 Pan will fight for facts and science, not personal politics and vendettas, to guide federal policy on vaccination, public health, and the environment.
 He will support servicemembers and civil servants who work for the American people over serving the partisan agendas of the President.
 Dr.
-Pan will defend the rule of law and equal justice for all Americans.
+Pan will defend the rule of law and equal justice for all Americans, and end Trump’s corrupt, cost-raising tariffs, health cuts and wars.
 Helping Families Afford Necessities and Lower Costs Dr.
 Pan is a proven fighter in bringing costs down for working people.
 In the State Senate, Dr.

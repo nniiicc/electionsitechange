@@ -1,6 +1,4 @@
-Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Lake County Town Hall Ronan Community Center, 300 Third Ave NW, Ronan, MT 59864, USA RSVP here !
-Join Seth Bodnar for a Lake County Town Hall on Thursday, October 8, 5:30-7:00pm!
-Hear from Seth and ask questions ab… Show more Saturdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP here !
+Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Saturdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP here !
 Can't make it to an in-person canvass?
 Knock doors right w… Show more Missoula Saturday Canvass Launch Multiple Times 426 N Higgins Ave, Missoula, MT 59802, USA RSVP here !
 Knock doors with us in Missoula every Saturday!
@@ -21,19 +19,40 @@ Blackfeet Community Feed Browning Stick Game Arbor, Browning, MT 59417, USA Join
 All are welcome for hot dogs, drinks, and conversation!
 Thursdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP Show more Stanford, MT Meet and Greet with Chili and Cider Stanford City Hall 102 Central Ave.
 Stanford MT 59479 RSPV here !
-Join Seth Bodnar for a meet and greet in Stanford on Thursday, October 15, 6:16-7:00 PM!
+Join Seth Bodnar for a meet and greet in Stanford on Thursday, October 15, 6:15-7:00 PM!
 Ha… Show more Great Falls Town Hall Great Falls Public Library 301 2nd Ave N, Great Falls, MT 59401 RSVP here Join Seth Bodnar for a Great Falls Town Hall on Friday, October 16, 4:30-5:45 PM!
-Hear from Seth and ask questi… Show more Griz Gameday Tailgate - Missoula Lot Z, Outside the Campus Rec Center Swing by our Griz Tailgate to meet fellow Seth supporters!
-Join us for something to drink and to get your Bodnar koozie!
-Talk with people about why you're supporting Seth!
-Look for the car with the Se… Show more Meet the Candidates: U.S.
+Hear from Seth and ask questi… Show more Griz Gameday Tailgate - Missoula Lot Z, Outside the Campus Rec Center RSVP here Swing by our Griz Tailgate to meet fellow Seth supporters!
+Join us for somet… Show more Meet the Candidates: U.S.
 Senate Debate Hosted by City Club Missoula University Center Ballroom, 32 Campus Dr, Missoula, MT 59812, USA Hurry and register here: https://cityclubmissoula.com/ Doors open at 5:30pm and debate starts at 6:15pm.
-Bobcats Gameday Tailgate - Bozeman MSU Tailgate spot #57/#58 Swing by our Bobcat Tailgate to meet fellow Seth supporters!
-Join us for something to drink and to get your Bodnar koozie!
-Talk with people about why you're supporting Seth!
-Look for the Bobcats for B… Show more Bobcats Gameday Tailgate - Bozeman MSU Tailgates #57/#58 Swing by our Bobcats Gameday Tailgate to meet fellow Seth supporters!
-Join us for something to drink and to get your Bodnar koozie!
-Talk with people about why you're supporting Seth!
-Look for the Bobc… Show more Contact Privacy Policy MEDIA Use of his military rank, job titles and photographs in uniform does not imply endorsement by the U.S.
+Butte Town Hall Join Seth Bodnar for a Butte Town Hall on Tuesday, October 20, 5:30-7:00pm!
+Hear from Seth and ask questions about the issues that matter to you!
+Friends, neighbors, and family members are welcome!
+Maternal Health Candidates Forum Eagle Seeker Community Center, 1125 Broadwater Ave, Billings, MT 59102, USA Doors open at 4:30pm.
+This forum will bring together community members, healthcare providers, tribal health advocates, doulas, and families from across Montana to hear candidate positions and solution… Show more Bobcats Gameday Tailgate - Bozeman MSU Tailgate spot #57/#58 RSVP here !
+Swing by our Bobcat Tailgate to meet fellow Seth supporters!
+Join us for so… Show more Knock Doors with Team Bodnar! - Kalispell Kalispell meet up location TBD Join Seth and Team Bodnar as we knock doors and win votes!
+Get Out The Vote with Seth! - Whitefish Whitefish Venue TBD Join Seth and Team Bodnar as we join forces to rally our communities to get out the vote!
+Special guests TBD.
+Knock Doors with Team Bodnar! - Missoula 426 N Higgins Ave, Missoula, MT 59802, USA Join Seth and Team Bodnar as we knock doors and win votes!
+Get Out the Vote with Seth! - Missoula Missoula Venue TBD Join Seth and Team Bodnar as we join forces to rally our communities to get out the vote!
+Special guests TBD.
+Knock Doors with Team Bodnar! - Great Falls Great Falls meet up location TBD Join Seth and Team Bodnar as we knock doors and win votes!
+Get Out the Vote with Seth! - Great Falls Great Falls Venue TBD Join Seth and Team Bodnar as we join forces to rally our communities to get out the vote!
+Special guests TBD.
+Knock Doors with Team Bodnar! - Billings Billings meet up location TBD Join Seth and Team Bodnar as we knock doors and win votes!
+Get Out the Vote with Seth! - Billings Billings Venue TBD Join Seth and Team Bodnar as we join forces to rally our communities to get out the vote!
+Special guests TBD.
+Bobcats Gameday Tailgate - Bozeman MSU Tailgates #57/#58 RSVP here !
+Swing by our Bobcats Gameday Tailgate to meet fellow Seth supporters!
+Join … Show more Knock Doors with Team Bodnar! - Helena Helena meet up location TBD Join Seth and Team Bodnar as we knock doors and win votes!
+Get Out the Vote with Seth! - Helena Brothers Tapworks, 40 S Last Chance Gulch St, Helena, MT 59601, USA Join Seth and Team Bodnar as we join forces to rally our communities to get out the vote!
+Special guests TBD.
+Knock Doors with Team Bodnar - Bozeman Bozeman meet up location TBD Join Seth and Team Bodnar as we knock doors and win votes!
+Get Out the Vote with Seth! - Bozeman Bozeman Venue TBD Join Seth and Team Bodnar as we join forces to rally our communities to get out the vote!
+Special guests TBD.
+Knock Doors with Team Bodnar! - Butte Butte meet up location TBD Join Seth and Team Bodnar as we knock doors and win votes!
+Get Out the Vote with Seth! - Butte Slainte Butte America Pub, 8 S Montana St, Butte, MT 59701, USA Join Seth and Team Bodnar as we join forces to rally our communities to get out the vote!
+Special guests TBD.
+Contact Privacy Policy MEDIA Use of his military rank, job titles and photographs in uniform does not imply endorsement by the U.S.
 Army or the Department of Defense.
 Seth for Montana | PO Box 7188, Missoula, MT 59807 Powered by RUN! website builder Paid for by Seth Bodnar for Montana You need to enable JavaScript to run this app.

@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → ← All Videos Ad 6 More Years?
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → ← All Videos Ad 6 More Years?
 September 14, 2026 · 57s A VOTE AGAINST KATZ IS 6 MORE YEARS OF THIS!
 GET OUT AND VOTE!
 VOTE KATZ!

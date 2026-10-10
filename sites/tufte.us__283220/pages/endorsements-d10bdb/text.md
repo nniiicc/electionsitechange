@@ -1,4 +1,4 @@
-Skip to main content Re-elect Justice Jerod Tufte North Dakota Supreme Court Menu About The Court Record Endorsements Volunteer Signs Contribute Endorsements North Dakotans from across the state who support Justice Tufte's re-election to the North Dakota Supreme Court.
+Skip to main content Re-elect Justice Jerod Tufte North Dakota Supreme Court Menu About The Court Record Context Endorsements Volunteer Signs Contribute Endorsements North Dakotans from across the state who support Justice Tufte's re-election to the North Dakota Supreme Court.
 I support Justice Tufte because he has integrity and upholds the Constitution.
 He is a voice for freedom!
 Pastor Kurt Chaffee Pastor, New Song Church, Bismarck Jerod Tufte has been a solid servant leader throughout his career.
@@ -40,5 +40,5 @@ Add my name Tufte for Supreme Court Proven.
 Principled.
 Prepared.
 A judicial record North Dakota can trust.
-Campaign About Justice Tufte About the Court Record and Service Endorsements Contribute Volunteer Request a sign Contact Disclosures Connect Facebook: @JudgeTufte justice@tufte.net Tufte for Supreme Court c/o Robert Subart, Treasurer 1661 33rd Ave SE Robinson, ND 58478 Paid for by Tufte for Supreme Court, Robert Subart, Treasurer, 1661 33rd Ave SE, Robinson, ND 58478. © # Tufte for Supreme Court.
+Campaign About Justice Tufte About the Court Record and Service Context Endorsements Contribute Volunteer Request a sign Contact Disclosures Connect Facebook: @JudgeTufte justice@tufte.net Tufte for Supreme Court c/o Robert Subart, Treasurer 1661 33rd Ave SE Robinson, ND 58478 Paid for by Tufte for Supreme Court, Robert Subart, Treasurer, 1661 33rd Ave SE, Robinson, ND 58478. © # Tufte for Supreme Court.
 All rights reserved.

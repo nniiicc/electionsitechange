@@ -1,4 +1,4 @@
-top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+top of page About Endorsements Issues Media News Press Releases Photos Videos RECA Volunteer Contribute More Use tab to navigate through the menu items.
 Strengthening our democracy and fighting to protect the right to vote.
 As a proud daughter of rural New Mexico, I know that democracy works best when elected officials are accountable to the communities they serve, not corporate special interests.
 I’ve fought to protect Native American and Hispanic voters from gerrymandering and helped pass legislation to require early voting sites in our rural communities.

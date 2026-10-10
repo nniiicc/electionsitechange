@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker November 20, 2025 Colorado’s AG, Democratic lawmakers criticize Trump administration move to include medical debt in people’s credit reports Morgan Anker November 20, 2025 A Colorado law finds itself at odds with the Trump administration, this time over whether medical debt should be included in people’s credit reports.
 The Consumer Financial Protection Bureau said recently that the Biden administration was wrong to remove information about medical debt from credit reports and rescinded a rule that was put in place days before Trump was inaugurated.
 It argued that the rule risked fracturing the national credit reporting system by allowing each state to create its own standards.
@@ -33,4 +33,5 @@ The American Collectors Association lawsuit against the state makes similar argu
 The legislature “overlooked the tremendous number of unintended consequences,” the suit states.
 It said the law harms medical providers and patients by directing credit reporting agencies “to suppress truthful information about unpaid medical bills” from consumers’ credit reports.
 Source: https://www.cpr.org/2025/11/12/colorado-lawmakers-criticize-trump-medical-debt-in-credit-reports/ Newer Post Three years after fires, Club Valencia homeowners still can’t return home Older Post Ricks Bill to Increase Price Transparency Passes Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

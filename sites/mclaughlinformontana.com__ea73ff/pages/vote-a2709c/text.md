@@ -8,9 +8,8 @@ Talk to your friends and neighbors — a personal conversation is often what fin
 Vote!
 Voters with Disabilities Here's What You Need to Know Montana’s Statewide Elections have various options for voters with disabilities or voters who need special assistance, including the new Electronic Ballot Request System (EBRS), available for state and federal elections beginning 30 days before election day and through noon the day before election day.
 Click here for more information .
-Register to Vote Register to Vote in Montana.
-Go to Flathead County Elections Department, 290 B Main St, Kalispell and register to vote, bring your ID.
-Late registration begins: October 6, 2026 During late registration, those wishing to register or change their voter information and vote in this federal election may do so during these times: ** before 5pm on Oct.
+Register to Vote Go to Flathead County Elections Department, 290 B Main St, Kalispell and register to vote, bring your ID.
+Visit their link Late registration begins: October 6, 2026 During late registration, those wishing to register or change their voter information and vote in this federal election may do so during these times: ** before 5pm on Oct.
 30 before the election ** 8am to noon on Monday November 2 ** 7am to noon on election day, Nov.
 3.
 Inactive Voter?
@@ -18,8 +17,7 @@ Has your registration been inactivated?
 If you are on the Inactive Voter Registration List, it is because of the following: 1.
 You did not vote in a federal general election, and you did not respond to two confirmation mailings sent to you by the county election office, or; 2.
 You had a mail ballot returned to the county election office as undeliverable, and you did not respond to a confirmation mailing sent to you by the county election office.
-Click here for instructions on how to activate your registration.
-Ballot Initiatives - Vote Yes!
+Click here for instructions on how to activate your registratio n Ballot Initiatives - Vote Yes!
 CI - 194 Keep Dark Money out of Politics C1-194 would curb election spending by “artificial persons,” eliminate anonymous money, and put Montanans’ voices back at the center of our democracy. https://montanaplan.org/ C1-132 Non Partisan Judiciary in MT CI-132 is a simple initiative that puts one sentence into Montana’s constitution: “judicial elections in Montana shall remain nonpartisan.” Montana began electing judges in nonpartisan elections in 1935 in response to Montana's powerful Copper Kings who were buying judges to rule in their favor.
 This simple measure protects that long-standing tradition so we can keep judges accountable to the people’s interests, not deep-pocketed political interests. https://yeson132.com/ C1-133 Ballot Initiative Regualtion CI-133 protects Montana’s citizen-led ballot measure process so we can keep government accountable to us.
 Montanans Decide is a coalition of Montana voters working to protect our right to propose laws that put the citizens of Montana first.

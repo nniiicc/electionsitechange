@@ -1,11 +1,12 @@
 {
  "description": "Campaign website for State Representative Jason Rojas re-election.",
  "final_url": "https://www.jasonrojas.com/",
- "fingerprint": "18571fa1315de26e89d486a8038cdeb781ee3712",
+ "fingerprint": "43c9862bff4780e0d13263bbbcb879da35c11cf6",
  "format": 3,
- "paid_for_by": "Paid for by Rojas 2024, Awet Tsegai, Treasurer",
+ "paid_for_by": "Paid for by Rojas 2026, Jeff Currey, Treasurer",
+ "rendered": false,
  "title": "State Representative 9th District | Jason Rojas",
  "years_mentioned": [
-  "2024"
+  "2026"
  ]
 }

@@ -17,4 +17,4 @@ I'm in this to deliver practical, affordable, and reasonable solutions to the is
 Bipartisanship isn't a fantasy.
 I've spent my entire career finding common ground.
 I'll do the same for you.
-Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com - Political Campaign Websites Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu
+Watch Rob's interview with KHQ! https://youtube.com/watch?v=wyPdyPtOT6E&is=gUXuyh2AFwaQM1ei Listen to Rob's interview with Spokane Public Radio https://youtube.com/watch?v=wyPdyPtOT6E&is=FbNGAOuIMMWs1iGm Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com - Political Campaign Websites Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu

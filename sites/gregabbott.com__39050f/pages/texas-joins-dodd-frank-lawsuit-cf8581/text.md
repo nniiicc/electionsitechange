@@ -1,0 +1,18 @@
+Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Texas joins Dodd-Frank lawsuit Feb 14, 2013 Texas joins Dodd-Frank lawsuit By Collin Eaton Houston Business Journal February 14, 2013 Texas is joining 10 other states in a lawsuit that challenges the constitutionality of the way the Dodd-Frank Act gives financial regulators authority to order the dismantling of a bank.
+The lawsuit alleges that a section of Dodd-Frank “empowers the (U.S.) Treasury Secretary to order the liquidation of a financial company with little or no advance warning, under cover of mandatory secrecy, and without either useful statutory guidance or meaningful legislative, executive, or judicial oversight.” Texas’ move comes at the same time seven other states declared they would join the lawsuit, which was filed last June on behalf of a small Big Spring, Texas-based community bank, State National Bank of Big Spring, and two political groups.
+The suit names the U.S.
+Treasury, the Consumer Financial Protection Bureau, Federal Reserve Chairman Ben Bernanke and others as defendants, and it targets Dodd-Frank’s provision that gives regulators “new authority for the ‘orderly liquidation’ of financial institutions.” “Under this law, unelected federal bureaucrats can unilaterally liquidate financial institutions in which the state invests taxpayer dollars,” Texas Attorney General Greg Abbott said in a Feb.
+13 statement.
+“The State of Texas could be denied basic due process rights and taxpayers’ dollars could recklessly be put at risk.” In addition, the suit challenges Dodd-Frank’s formation of the young Consumer Financial Protection Bureau and the President Barack Obama’s appointment of Richard Cordray to the role of director at the CFPB.
+Click here for more… Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.
+Endorsed By Texas Realtors Houston Police Officers Union Teamsters Local 988 Lumbermen's Association of Texas National Border Patrol Council National Federation of Independent Businesses National Latino Police Officers Association Susan B.
+Anthony List Texas Association of Business Texas Border Sheriff's Association Texas State Association of Firefighters Texas & Southwestern Cattle Raisers Association Texas Farm Bureau Texas Trucking Association Texas Realtors Houston Police Officers Union Teamsters Local 988 Lumbermen's Association of Texas National Border Patrol Council National Federation of Independent Businesses National Latino Police Officers Association Susan B.
+Anthony List Texas Association of Business Texas Border Sheriff's Association Texas State Association of Firefighters Texas & Southwestern Cattle Raisers Association Texas Farm Bureau Texas Trucking Association Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.
+Join Greg Today − " * " indicates required fields First Name * Email * Zip Code * Cell Phone Yes, I would like to receive text updates from Texans for Greg Abbott.
+By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the Terms & Privacy Policy for auto dialed messages to the phone number you provide.
+Message frequency may vary.
+Msg&data rates may apply.
+Reply STOP to stop and HELP for help. Δ

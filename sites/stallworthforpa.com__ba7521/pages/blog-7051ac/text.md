@@ -1,7 +1,7 @@
 top of page Like Like Home About Issues Endorsements Events Join Us Vote Donate Blog Students for Stallworth Menu Close DONATE GET INVOLVED DONATE All Posts Campaign All Posts We Can’t Do This Without You I was raised to believe that when people gathered for a meal, no one started eating until everybody had a seat.
 Maybe that sounds simple, but to me, it was one of the first lessons in community: notice who’s missing, make room for them, and don’t rush ahead pretending the table is full when somebody still needs a seat.
 That’s the spirit I’m bringing into this moment in Pennsylvania’s 199th District.
-I know this community includes people who have been showing up for years, peo TaWanda Stallworth #ago 4 min read You’re the Neighbor We’ve Been Waiting For A lot of people have lost faith in politics, and that’s really understandable.
+I know this community includes people who have been showing up for years, peo TaWanda Stallworth Oct 2 4 min read You’re the Neighbor We’ve Been Waiting For A lot of people have lost faith in politics, and that’s really understandable.
 People are tired of being talked at instead of talked to.
 They grow weary of hearing promises that sound good during campaign season and disappear once the election is over.
 They are exhausted from watching leaders fight for attention while families try to afford groceries, pay rent, get their kids safely through school, and care for aging parents.

@@ -8,12 +8,24 @@
 "href": "https://www.abelforgeorgia.com/about"
 },
 {
+"text": "Check my registration and polling place",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
 "text": "Donate",
 "href": "https://secure.actblue.com/donate/kawebsite"
 },
 {
+"text": "Donate $100",
+"href": "https://secure.actblue.com/donate/kawebsite?amount=100"
+},
+{
 "text": "Donate $1000",
 "href": "https://secure.actblue.com/donate/kawebsite?amount=1000"
+},
+{
+"text": "Donate $25",
+"href": "https://secure.actblue.com/donate/kawebsite?amount=25"
 },
 {
 "text": "Donate $250",
@@ -28,6 +40,10 @@
 "href": "https://secure.actblue.com/donate/kawebsite?amount=3300"
 },
 {
+"text": "Donate $50",
+"href": "https://secure.actblue.com/donate/kawebsite?amount=50"
+},
+{
 "text": "Donate $500",
 "href": "https://secure.actblue.com/donate/kawebsite?amount=500"
 },
@@ -40,6 +56,22 @@
 "href": "https://www.abelforgeorgia.com/endorsements"
 },
 {
+"text": "Find Early voting locations",
+"href": "https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Registration-and-Elections/Early-Voting-Locations"
+},
+{
+"text": "Find where to vote →",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Fulton County Early Voting Information and Locations →",
+"href": "https://fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Registration-and-Elections/Early-Voting-Locations"
+},
+{
+"text": "Fund our effort",
+"href": "https://secure.actblue.com/donate/kawebsite"
+},
+{
 "text": "Get Involved",
 "href": "https://www.abelforgeorgia.com/get-involved"
 },
@@ -50,6 +82,10 @@
 {
 "text": "Privacy Policy",
 "href": "https://www.abelforgeorgia.com/privacy-policy"
+},
+{
+"text": "See Kevin's Full Platform",
+"href": "https://www.abelforgeorgia.com/platform"
 },
 {
 "text": "Site Credit",

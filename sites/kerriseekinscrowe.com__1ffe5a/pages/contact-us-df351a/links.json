@@ -1,5 +1,9 @@
 [
 {
+"text": "About",
+"href": "https://kerriseekinscrowe.com/about"
+},
+{
 "text": "Contact Us",
 "href": "https://kerriseekinscrowe.com/contact-us"
 },
@@ -13,7 +17,19 @@
 },
 {
 "text": "Privacy Policy",
+"href": "https://kerriseekinscrowe.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
 "href": "https://policies.google.com/privacy"
+},
+{
+"text": "Sign Up",
+"href": "https://kerriseekinscrowe.com/sign-up"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://kerriseekinscrowe.com/terms-and-conditions"
 },
 {
 "text": "Terms of Service",

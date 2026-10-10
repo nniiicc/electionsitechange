@@ -1,46 +1,6 @@
-0 Skip to Content Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Oct 10 Canvass with Rod Moser for HD45 Saturday, October 10, 2026 9:00 AM 10:00 AM East River Front Park Fishing Ponds (map) Google Calendar ICS Come knock doors with Rod Moser and Team Utah Grit!
-MEET 9:00 - 9:30 at the Fish Pond Park.
-Look at the map for the MIDAS POND.
-We are parked west of the pond along River Front Parkway.
-12,130 doors.
-One conversation at a time We set a big goal for this campaign: reach as many of the 12,130 doors in House District 45 as possible before Election Day.
-Knocking doors gives us a chance to hear directly from the people who live here.
-We want to know what matters to our neighbors, what’s going well, and where they think Utah can do better.
-Rod will take those conversations and priorities with him to the Utah Capitol, because good representation starts right here, in our neighborhoods and at our front doors.
-Thank you for showing up, listening, and helping make a difference in our community.
-First-time canvassers and experienced door knockers are all welcome.
-We’ll provide the training, materials, and tools you need for a successful morning.
-Bring a fully charged phone, a water bottle, your enthusiasm, and a friend or family member.
-Together, we’ll meet voters, listen to our neighbors, and build support for common-sense solutions.
-Sign Up View Event → Oct 13 Region 7 PTA Tuesday, October 13, 2026 6:00 PM 8:00 PM 615 East 8000 South Sandy, Utah, 84070 United States (map) Google Calendar ICS Meet the Candidates - Region 7 PTA View Event → Oct 17 Canvass with Rod Moser for HD45 Saturday, October 17, 2026 9:00 AM 10:00 AM East River Front Park Fishing Ponds (map) Google Calendar ICS Come knock doors with Rod Moser and Team Utah Grit!
-MEET 9:00 - 9:30 at the Fish Pond Park.
-Look at the map for the MIDAS POND.
-We are parked west of the pond along River Front Parkway.
-12,130 doors.
-One conversation at a time We set a big goal for this campaign: reach as many of the 12,130 doors in House District 45 as possible before Election Day.
-Knocking doors gives us a chance to hear directly from the people who live here.
-We want to know what matters to our neighbors, what’s going well, and where they think Utah can do better.
-Rod will take those conversations and priorities with him to the Utah Capitol, because good representation starts right here, in our neighborhoods and at our front doors.
-Thank you for showing up, listening, and helping make a difference in our community.
-First-time canvassers and experienced door knockers are all welcome.
-We’ll provide the training, materials, and tools you need for a successful morning.
-Bring a fully charged phone, a water bottle, your enthusiasm, and a friend or family member.
-Together, we’ll meet voters, listen to our neighbors, and build support for common-sense solutions.
-Sign Up View Event → Oct 24 Canvass with Rod Moser for HD45 Saturday, October 24, 2026 9:00 AM 10:00 AM East River Front Park Fishing Ponds (map) Google Calendar ICS Come knock doors with Rod Moser and Team Utah Grit!
-MEET 9:00 - 9:30 at the Fish Pond Park.
-Look at the map for the MIDAS POND.
-We are parked west of the pond along River Front Parkway.
-12,130 doors.
-One conversation at a time We set a big goal for this campaign: reach as many of the 12,130 doors in House District 45 as possible before Election Day.
-Knocking doors gives us a chance to hear directly from the people who live here.
-We want to know what matters to our neighbors, what’s going well, and where they think Utah can do better.
-Rod will take those conversations and priorities with him to the Utah Capitol, because good representation starts right here, in our neighborhoods and at our front doors.
-Thank you for showing up, listening, and helping make a difference in our community.
-First-time canvassers and experienced door knockers are all welcome.
-We’ll provide the training, materials, and tools you need for a successful morning.
-Bring a fully charged phone, a water bottle, your enthusiasm, and a friend or family member.
-Together, we’ll meet voters, listen to our neighbors, and build support for common-sense solutions.
-Sign Up View Event → Oct 7 Utah PTA Wednesday, October 7, 2026 6:30 PM 8:00 PM South Jordan Middle School (map) Google Calendar ICS Utah PTA - Meet the Candidates View Event → Sep 29 Housing Affordability Panel - ZOOM Tuesday, September 29, 2026 7:00 PM 8:30 PM https://us02web.zoom.us/j/86187823766?pwd=CbO70uvGMDyYrCnyanCVuXxrrDepug.1 (map) Google Calendar ICS ZOOM - Housing Affordability Panel ZOOM LINK View Event → Sep 27 Canvass with Rod Moser for HD45 Sunday, September 27, 2026 9:00 AM 10:00 AM East River Front Park Fishing Ponds (map) Google Calendar ICS Come knock doors with Rod Moser and Team Utah Grit!
+0 Skip to Content Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Nov 3 Election Day Tuesday, November 3, 2026 8:00 AM 7:00 PM Google Calendar ICS Get Out to Vote Between now and Election Day Rod and the Utah Grit Team will be doing a final push at the doors of our neighbors.
+If you have time to donate, please volunteer to help drop lit.
+Volunteer View Event → Oct 7 Utah PTA Wednesday, October 7, 2026 6:30 PM 8:00 PM South Jordan Middle School (map) Google Calendar ICS Utah PTA - Meet the Candidates View Event → Sep 29 Housing Affordability Panel - ZOOM Tuesday, September 29, 2026 7:00 PM 8:30 PM https://us02web.zoom.us/j/86187823766?pwd=CbO70uvGMDyYrCnyanCVuXxrrDepug.1 (map) Google Calendar ICS ZOOM - Housing Affordability Panel ZOOM LINK View Event → Sep 27 Canvass with Rod Moser for HD45 Sunday, September 27, 2026 9:00 AM 10:00 AM East River Front Park Fishing Ponds (map) Google Calendar ICS Come knock doors with Rod Moser and Team Utah Grit!
 MEET 9:00 - 9:30 at the Fish Pond Park.
 Look at the map for the MIDAS POND.
 We are parked west of the pond along River Front Parkway.

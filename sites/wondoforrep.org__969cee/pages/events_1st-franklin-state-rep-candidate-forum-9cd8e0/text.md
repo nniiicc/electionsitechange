@@ -2,5 +2,5 @@ Skip to Content Open Menu Close Menu Events Endorsements Issues About Get Involv
 Candidate Forum at the GCTV Studio starting at 6:30 PM!
 Send your questions for the candidates to lwvfranklincounty@gmail.com by 12:00 PM on October 12th.
 See you there!
-Previous Previous September 1 Election Night Party DONATE Contact info@wondoforrep.org P.O.
+Previous Previous September 1 Election Night Party Next Next October 22 Unity Reception DONATE Contact info@wondoforrep.org P.O.
 Box 19, Greenfield, MA 01302

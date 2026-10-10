@@ -1,5 +1,4 @@
-top of page State Representative 34th District Position 2 - Democrat ​ About Mary Why Mary Get Involved Come Canvas With Us!
-Seattle Times Endorses Mary Donate Spaghetti Dinner 10/16 Join the Movement Together We Can Build a Brighter Washington ​ ​ About Mary Mary Anito for Washington West Seattle mom of three.
+top of page State Representative 34th District Position 2 - Democrat ​ Seattle Times Endorses Mary Donate Spaghetti Dinner 10/16 About Mary Why Mary Get Involved Come Canvas With Us Media Join the Movement Together We Can Build a Brighter Washington ​ ​ About Mary Mary Anito for Washington West Seattle mom of three.
 Engineer.
 Small business owner.
 Problem-solver.
@@ -48,7 +47,7 @@ She believes smart policy means measuring what matters, sharing information acro
 And with clear goals, quarterly progress reports, and real stakeholder engagement, accountability isn't a buzzword - it's built in. ​ Better data.
 Less waste.
 Real results.
-Our mission is to create a political environment in Washington State where every citizen feels empowered to participate.
+Keep Up with Mary in the Media Seattle Times Chooses Mary Anito for a New Generation of Leadership ​ Watch the West Seattle Chamber of Commerce Candidate Forum ​ Watch the 34th Democrats Candidate Forum ​ Washington Observer "Mystery PAC shows its hand" ​ Washington Observer "An unknown challenger for Fitzgibbon in LD34" ​ ​ Our mission is to create a political environment in Washington State where every citizen feels empowered to participate.
 Mary advocates for policies that enhance inclusivity and promote the well-being of all communities.
 Our Mission By emphasizing integrity, collaboration, and community engagement, Mary aims to transform our political landscape into one that values every voice and fosters equality and progress.
 Join us in making Washington a better place for everyone.

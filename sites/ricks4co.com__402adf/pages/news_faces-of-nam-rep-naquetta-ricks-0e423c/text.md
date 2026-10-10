@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate October 25, 2021 Morgan Anker Faces of the New American Majority: Rep.
 Naquetta Ricks Morgan Anker October 25, 2021 Faces of the New American Majority: Rep.
 Naquetta Ricks Morgan Anker October 25, 2021 This week, Emerge launched Faces of NAM (#SayNAM) featuring Emerge alumnae across the country.
@@ -52,4 +52,5 @@ In 2022, I am prioritizing legislation that builds on some of the bills I sponso
 I am also continuing to fight for the long-term sustainability of immigrant-, Black-, and women-owned small businesses.
 Through my work at the legislature and as the President of the African Chamber of Commerce Colorado, I am helping these businesses recover from the devastation of the pandemic by providing access to capital, consulting, and technical support.
 Source: https://emergeamerica.org/faces-of-nam-rep-naquetta-ricks/ Newer Post Liberia Native Finds Her Footing as New Colorado Lawmaker Older Post Representative Ricks speaks at Denver's March for Citizenship on September 25, 2021 Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

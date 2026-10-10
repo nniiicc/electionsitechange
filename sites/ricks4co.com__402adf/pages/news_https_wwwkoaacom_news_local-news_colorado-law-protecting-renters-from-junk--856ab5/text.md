@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker January 5, 2026 Colorado law protecting renters from 'junk fees' now in effect Morgan Anker January 5, 2026 House Bill 1090 officially became law on January 1st.
 The law protects Colorado consumers against deceptive pricing, including prohibiting landlords from requiring tenants to pay certain fees.
 COLORADO SPRINGS, Colo.
@@ -23,4 +23,5 @@ Governor Jared Polis signed the measure in April of 2025.
 "We deliberately did not make it effective right after the bill was signed by the Governor," Ricks said.
 "We wanted to give it at least six months, so that there would be time for people to adapt." You can find more details on HB-1090 here .
 Source: https://www.koaa.com/news/local-news/colorado-law-protecting-renters-from-junk-fees-now-in-effect Newer Post Ricks, Camacho Bill to Create Jobs and New Small Businesses Passes Committee Older Post Three years after fires, Club Valencia homeowners still can’t return home Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

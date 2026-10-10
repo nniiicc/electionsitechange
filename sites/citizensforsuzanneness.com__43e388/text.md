@@ -1,7 +1,7 @@
 Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT HOME_2026 Roxie S 2026-10-08T21:03:00+00:00 DISTRICT 66 PROVEN LEADERSHIP.
 RE-ELECT SUZANNE NESS FOR IL STATE REPRESENTATIVE REAL RESULTS.
 Working for stronger communities, better schools, and a brighter future for Illinois' 66th District.
-DONATE people_outline VOLUNTEER REQUEST A YARD SIGN LEARN MORE ABOUT LEAD LIKE LINCOLN EVENT PURCHASE TICKETS McHENRY COUNTY | KANE COUNTY EARLY VOTING SITES McHenry County Early Voting Sites Click Here to View Kane County Early Voting Sites Click Here to View Leadership That Delivers for District 66 Since being elected to represent District 66, Suzanne has worked every day to bring resources home, strengthen local communities, support families and small businesses, and ensure residents have a voice in Springfield.
+DONATE people_outline VOLUNTEER REQUEST A YARD SIGN McHENRY COUNTY | KANE COUNTY EARLY VOTING SITES McHenry County Early Voting Sites Click Here to View Kane County Early Voting Sites Click Here to View Leadership That Delivers for District 66 Since being elected to represent District 66, Suzanne has worked every day to bring resources home, strengthen local communities, support families and small businesses, and ensure residents have a voice in Springfield.
 While politics has become increasingly divided, Suzanne remains focused on practical solutions that improve everyday life for the people of District 66.
 Because leadership isn’t about making noise.
 It’s about making a difference.

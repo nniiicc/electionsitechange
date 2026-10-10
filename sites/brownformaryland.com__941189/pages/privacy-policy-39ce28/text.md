@@ -1,5 +1,5 @@
-Skip to content Ly Xīnzhèn Brown for State Delegate I'm running to represent District 7A because we deserve better.
-Menu Home About Issues Voter Registration Volunteer Donate Privacy Policy & Terms of Service Last Updated 20 April 2026 The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
+Skip to content Menu I'm running to represent District 7A because we deserve better.
+Home About Issues Volunteer Donate Vote Close Menu Last Updated 20 April 2026 The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we’ve created this policy to explain our privacy practices.
 This applies to brownformaryland.com only.
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices.
@@ -73,4 +73,5 @@ We encourage you to review and understand their privacy practices before providi
 Updating This Policy We may revise or update this policy if our practices change, as we change existing or add new features or as we develop better ways to inform you of features we think will be of interest.
 You should refer back to this page often for the latest information.
 If we decide to change this policy, we will post a new policy on our sites and change the date at the top of the policy.
-How to Contact Us If you have any questions, comments or concerns, please contact us by e-mail at info@brownformaryland.com, or at the mailing address listed below: PO Box 168 Glen Arm, Maryland 21057 By authority of Friends of Ly Xinzhen Brown | Lilian Aluri, Treasurer Contact By authority of Friends of Ly Xinzhen Brown Lilian Aluri, Treasurer PO Box 168, Glen Arm, Maryland 21057 Donate Volunteer Facebook Twitter Privacy Policy & Terms of Service Proudly powered by WordPress
+How to Contact Us If you have any questions, comments or concerns, please contact us by e-mail at info@brownformaryland.com, or at the mailing address listed below: PO Box 168 Glen Arm, Maryland 21057 By authority of Friends of Ly Xinzhen Brown | Lilian Aluri, Treasurer Back To Top Instagram Facebook Twitter By authority of Friends of Ly Xinzhen Brown | Lilian Aluri, Treasurer | P.O.
+Box 168, Glen Arm, Maryland 21057 Copyright © # | Privacy Policy & Terms of Service | Web Design by Blue Agate Creative .

@@ -8,7 +8,11 @@ That’s why I’m running.
 I’ll fight to lower costs for working families, strengthen our public schools, protect local decision-making, and defend the freedoms that belong to every Hoosier.
 This campaign isn’t about partisan politics or political games.
 It’s about making government work for the people it serves, ensuring your voice is heard, and building an Indiana where every family has the opportunity to succeed, thrive, and call this state home for generations to come.
-In the News Newsletter Block This newsletter signup form needs a storage option.
+Request a yard sign!
+All signs will be delivered and then picked up within # days of the election.
+Do you live in a high traffic area and have a little bit more space?
+Request a large sign!
+32” x 48” ← Regular 18” x 24” Yard Sign Get yours here! → In the News Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up with your email address to receive news and updates.
 Email Address Sign Up We respect your privacy.

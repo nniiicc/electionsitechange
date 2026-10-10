@@ -14,7 +14,7 @@ I also serve on the board of REaDY to Lead NH, a leadership mentoring program fo
 Join Team Kuttab!
 Sign Up for Updates from Katelyn’s Campaign!
 Please enable JavaScript in your browser to complete this form.
-Name: SMS Phone: Name: * First Last Phone: SMS opt-in I agree to receive SMS messages from Katelyn Kuttab for State Representative and understand that message and data rates may apply.
+SMS Phone: Name: Name: * First Last Phone: SMS opt-in I agree to receive SMS messages from Katelyn Kuttab for State Representative and understand that message and data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.
 Reply “STOP” to opt-out & “HELP” for help.

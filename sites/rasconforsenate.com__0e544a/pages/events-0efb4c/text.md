@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate Join Us Campaign Events Señor Fish Meet & Greet Señor Fish 4803 Eagle Rock Blvd.
+Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate Join Us Campaign Events Señor Fish Meet & Greet Señor Fish 4803 Eagle Rock Blvd.
 Los Angeles, CA 90041 Join Sarah Rascón, neighbors, and residents for light refreshments and a conversation with State Senate candidate Sarah Rascón to learn about her plans for our district.
 RSVP East LA Meet & Greet with Sarah Rascón El Gallo Grill 4533 E Cesar E Chavez Ave.
 Los Angeles, CA 90022 Join Sarah Rascón and East LA neighbors to learn more about Sarah's plans for California!

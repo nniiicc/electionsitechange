@@ -92,19 +92,11 @@ We need leaders focused on ensuring our economy remains strong.
 He also knows the importance of parental rights, educational opportunities and working towards restoring confidence in our elections. ” — Rep.
 Shawnna Bolick, LD-20 Contact Justin PHONE: (602) 872-1648 | EMAIL: Justin@JustinWilmethAZ.com MAIL: Vote Wilmeth | P.O.
 Box 73163, Phoenix, AZ 85050 Press package Justin looks forward to talking with you!
-Please complete the form below: By providing your telephone number, you consent to receive calls and text messages.
-Msg & data rates may apply.
-Msg frequency may vary.
-Reply “STOP” to opt-out & “HELP” for help.
-View Privacy Policy for more info Newsletter Block This newsletter signup form needs a storage option.
+Please complete the form below: Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Sign up to receive updates from Justin First Name Last Name Email Address Sign Up Thank you!
 Get involved!
 We need you!
-Here’s how you can get involved: By providing your telephone number, you consent to receive calls and text messages.
-Msg & data rates may apply.
-Msg frequency m ay vary.
-Reply “STOP” to opt-out & “HELP” for help.
-View Privacy Policy for more info Follow on social media @JustinWilmethAZ Contribute to Justin’s Campaign Be part of conservative innovation for a strong Arizona future!
+Here’s how you can get involved: Follow on social media @JustinWilmethAZ Contribute to Justin’s Campaign Be part of conservative innovation for a strong Arizona future!
 Donate PAID FOR BY VOTE WILMETH.
 Back To Top (602) 872-1648 justin@justinwilmethaz.com Powered by Squarespace

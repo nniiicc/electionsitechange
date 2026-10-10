@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker February 4, 2026 Ricks, Camacho Bill to Create Jobs and New Small Businesses Passes Committee Morgan Anker February 4, 2026 DENVER, CO - The House Business Affairs and Labor Committee today passed legislation to expand eligibility for the successful CLIMBER (Colorado Loans to Increase Mainstreet Business Economic Recovery) program to better equip small businesses for success, create more good-paying jobs, and support local economies.
 HB26-1003 passed by a vote of 10-3.
 “Colorado Democrats believe in fostering an economy where small businesses and hardworking people can thrive, and our bill would help equip small businesses with the resources to create more good-paying jobs and flourish in their communities,” said Rep.
@@ -26,4 +26,5 @@ Last year, Colorado Democrats passed a law to save Coloradans money by cracking 
 The law requires businesses to be transparent about their pricing so consumers aren’t blindsided by undisclosed and excessive fees.
 In January 2025, the Federal Trade Commission called on the Colorado legislature to pass legislation to tackle these ‘junk fees.’ In their report , they found that consumers were paying double the price that was originally advertised on food delivery apps and over $1,700 annually on rental fees under the country’s largest single-family rental company.
 Source: https://www.cohousedems.com/news/ricks%2C-camacho-bill-to-create-jobs-and-new-small-businesses-passes-committee Newer Post House Passes Ricks, Camacho Bill to Create Jobs and New Small Businesses Older Post Colorado law protecting renters from 'junk fees' now in effect Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

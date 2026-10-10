@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate November 16, 2021 Morgan Anker Liberia Native Finds Her Footing as New Colorado Lawmaker Morgan Anker November 16, 2021 Liberia Native Finds Her Footing as New Colorado Lawmaker Morgan Anker November 16, 2021 AURORA, COLORADO — Naquetta Ricks was 13 years old when three soldiers came to her family’s home in Monrovia, Liberia, searching for her mother’s fiancé, a government official.
 "They held my mother at gunpoint for over two hours while my sister and I watched," Ricks said, cringing at the memory.
 The soldiers found the official, Cyril A.
@@ -64,4 +64,5 @@ He was neither the incumbent nor African American.
 Source: https://www.voanews.com/a/liberia-native-finds-her-footing-as-new-colorado-lawmaker/6313534.html Newer Post Rep.
 Naquetta Ricks: 2021 Year in Review Older Post Faces of the New American Majority: Rep.
 Naquetta Ricks Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.leelagray.com/news/end-citizens-united-endorses-leela-gray-in-floridas-13th-congressional-district",
- "fingerprint": "3bc6aa42706457ee11cc772bc76fa0845c8c4dc4",
+ "fingerprint": "85c83b091f846e1c4cf375b8a1c310f0dd4532be",
  "format": 3,
  "paid_for_by": "PAID FOR BY LEELA J GRAY FOR CONGRESS INC You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "End Citizens United Endorses Leela Gray in Florida’s 13th Congressional District",
  "years_mentioned": [
   "2026"

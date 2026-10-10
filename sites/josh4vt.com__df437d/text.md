@@ -8,5 +8,5 @@ Josh isn’t a career politician.
 He’s spent his career getting things done in the real world— managing teams, solving problems, and delivering outcomes.
 That’s exactly what Montpelier is missing.
 He believes government should operate with accountability, clear timelines, and real results just like the real world does.
-DONATE ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-681-9048 © # Josh Williams for State Senate.
+DONATE ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-304-9859 © # Josh Williams for State Senate.
 All rights reserved. ​ALL DISCLOSURES bottom of page

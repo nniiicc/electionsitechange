@@ -42,6 +42,8 @@ Because if we don’t shape the future of this region, someone else will.
 Previous PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
 Next NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK Why Is Southern Ontario Doing Better Than Western New York?
-Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Volunteer and Sign Up for Updates!
+You Might Also Like PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+Why Is Southern Ontario Doing Better Than Western New York?
+IS NATE A RADICAL COMMUNIST?
+HARDLY LET’S GO THROUGH THE ISSUES.
+PODCAST CLIP: THEY DIDN’T EVEN SHOW UP I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Volunteer and Sign Up for Updates!

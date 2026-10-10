@@ -26,5 +26,7 @@ Message frequency may vary.
 Msg&Data Rates May Apply.
 Reply STOP to cancel.
 Reply HELP for help.
-Paid for by Collins for Senator Privacy Policy Terms and Conditions Media Kit FAQs Stand with Susan on debate day!
-CHIP IN BEFORE SHE TAKES THE STAGE
+Paid for by Collins for Senator Privacy Policy Terms and Conditions Media Kit FAQs The media's trying to take Susan Collins down with lies.
+Team Collins isn't buying it - we are standing with her.
+Are you?
+Donate Today

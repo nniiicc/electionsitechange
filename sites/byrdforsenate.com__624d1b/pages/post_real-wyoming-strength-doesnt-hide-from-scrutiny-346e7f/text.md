@@ -1,4 +1,4 @@
-top of page Home About Issues News Menu Close All Posts Real Wyoming Strength Doesn't Hide From Scrutiny Byrd for Senate Sep 19 # min read Updated: #ago There is a weak new trend taking root in Washington: skipping debates, dodging independent journalists, and hiding from political opponents.
+top of page Home About Issues News Menu Close All Posts Real Wyoming Strength Doesn't Hide From Scrutiny Byrd for Senate Sep 19 1 min read Updated: Oct 2 There is a weak new trend taking root in Washington: skipping debates, dodging independent journalists, and hiding from political opponents.
 Establishment insiders want you to believe this is a show of strength.
 Let's turn that narrative on its head.
 Avoiding a debate isn't power, it's a confession of weakness.

@@ -25,7 +25,7 @@ He and his wife, Connie, live in Overland Park and have two adult children and s
 The mission continues!
 Kansas House of Representatives District 8 Downloadable Map Contact Chris Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone Number Chris Phone Message Volunteer to Help Chris Win!
+Volunteer Email Name Name * First Last Email * Phone Number Volunteer to Help Chris Win!
 Display a yard sign Deliver yard signs Endorse Chris Distribute flyers door to door Host a neighborhood meet and greet with Chris Comment or Message Submit Join Chris's Campaign!
 Donate Today.
 Contact Chris 8909 W.

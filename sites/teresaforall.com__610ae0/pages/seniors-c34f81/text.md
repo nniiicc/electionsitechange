@@ -1,4 +1,4 @@
-top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+top of page About Endorsements Issues Media News Press Releases Photos Videos RECA Volunteer Contribute More Use tab to navigate through the menu items.
 We must protect and expand the benefits of Social Security and Medicare.
 Our seniors worked hard and contributed to these programs over their careers, and New Mexicans deserve to retire with dignity.
 I am cosponsoring legislation that would expand Social Security benefits, increase the cost-of-living adjustment for seniors, and strengthen the solvency of the program.

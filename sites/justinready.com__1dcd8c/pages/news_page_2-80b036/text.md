@@ -1,4 +1,6 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report May 22, 2026 Ready Report: Memorial Day, Candidate Spotlight & Republicans Demand Answers on Ballot Screwup I hope you and your family enjoy this upcoming long weekend.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report June 8, 2026 Ready Report: Early Voting This Week, President Trump Announces Energy Investment in MD & More… I hope you and your family enjoy the beautiful early summer weather.
+Stay safe!
+We’ll start with a couple of campaign updates – Ready Business Breakfast Fundraiser – Tuesday – June 16th: One of the… Read More > May 22, 2026 Ready Report: Memorial Day, Candidate Spotlight & Republicans Demand Answers on Ballot Screwup I hope you and your family enjoy this upcoming long weekend.
 I am extremely grateful to those who serve in our military but especially those who made the ultimate sacrifice.
 We can never repay the… Read More > May 13, 2026 Ready Report: Campaign News, Candidate Spotlight, In the Community & More… I hope that you and your family had a wonderful Mother’s Day weekend.
 Below I have some updates both from activity out in the community and some campaign-related news, including a candidate spotlight I wanted… Read More > May 2, 2026 Ready Report: Veto Fight on Trust Act, Ready Bill Signed & More I hope you and your family are doing well as we enter the month of May.
@@ -13,6 +15,4 @@ To watch my weekly video update, budget and more, click the picture below.
 Ready in the Press Last week, I joined Fox… Read More > March 23, 2026 Ready Report: Crossover The 10th week of the 90-day 2026 Legislative Session in Annapolis has concluded.
 Today, Monday the 23rd is known as “Crossover,” which is the deadline for bills to pass one chamber and be sent to the… Read More > March 13, 2026 Ready Report: Fighting for Government Accountability, Vagrancy Bill Update & Scholarship Opportunity The ninth week of the 90-day 2026 Legislative Session in Annapolis has concluded.
 To watch my weekly video update, budget and more, click the picture below.
-Ready in the Press – Governor Moore’s Appointment to School… Read More > March 8, 2026 Ready Report: Protecting Public Safety, Fighting for Relief on Energy Costs & Car Registration Taxes The eighth week of the 90-day 2026 Legislative Session in Annapolis has concluded.
-To watch my weekly video update on crime/public safety, budget and more, click the picture below.
-Ready in the Press – Senate/House Republican… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer
+Ready in the Press – Governor Moore’s Appointment to School… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

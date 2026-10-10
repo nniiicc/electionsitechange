@@ -1,4 +1,7 @@
-0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate Tens of Thousands of Bronx Residents Set to Lose Insurance as Medicaid Cuts Loom Campaign Statement ⬩ September 30, 2026 New York's 15th Congressional District has 510,000 Medicaid enrollees, more than any other congressional district.
+0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate ICE agents shot a Bronx father in front of his son.
+Abolish ICE now.
+Campaign Statement ⬩ October 9, 2026 For the protection of our neighbors, we must abolish ICE and kick every ICE agent out of our communities.
+Read More Tens of Thousands of Bronx Residents Set to Lose Insurance as Medicaid Cuts Loom Campaign Statement ⬩ September 30, 2026 New York's 15th Congressional District has 510,000 Medicaid enrollees, more than any other congressional district.
 That's 71% of our district's residents.
 Starting in January, Trump's Medicaid cuts are coming for our neighbors.
 Read More Fighting for Every Black Child Means Fighting for Socialism Campaign Statement ⬩ September 29, 2026 Nikole Hannah-Jones couldn’t beat the segregated education system alone.

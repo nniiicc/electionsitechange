@@ -13,10 +13,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=1500+south+oak+street+kennewick%2C+washington%2C+99337+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=175+rodeo+trail+road+okanogan%2C+washington%2C+98840+united+states"
 },
 {
@@ -104,12 +100,12 @@
 "href": "https://www.johnduresky4congress.com/ballot-drop-boxes"
 },
 {
-"text": "Benton Franklin Fair & Rodeo",
-"href": "https://www.johnduresky4congress.com/events/benton-franklin-fair-parade-jlmhe"
-},
-{
 "text": "Bilingual Phonebank (Virtual)",
 "href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-rzpb4"
+},
+{
+"text": "Bilingual Phonebank (Virtual) (Copy)",
+"href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-rzpb4-5n3ah"
 },
 {
 "text": "Blue Wave Flippin' Fundraiser",
@@ -162,6 +158,10 @@
 {
 "text": "Canvassing Event (Yakima)",
 "href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-yakima"
+},
+{
+"text": "Canvassing Event (Yakima)",
+"href": "https://www.johnduresky4congress.com/events/canvassing-event-oct31-yakima"
 },
 {
 "text": "Common Power- Canvassing in Yakima for Duresky",
@@ -225,11 +225,11 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Benton+Franklin+Fair+%26amp%3B+Rodeo&dates=20260828T210000Z%2F20260829T000000Z&location=1500+South+Oak+Street%2C+Kennewick%2C+Washington%2C+99337%2C+United+States"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bilingual+Phonebank+%28Virtual%29&dates=20261003T210000Z%2F20261004T000000Z"
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bilingual+Phonebank+%28Virtual%29&dates=20261003T210000Z%2F20261004T000000Z"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bilingual+Phonebank+%28Virtual%29+%28Copy%29&dates=20261011T210000Z%2F20261012T000000Z"
 },
 {
 "text": "Google Calendar",
@@ -273,7 +273,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+%28Yakima%29&dates=20261010T180000Z%2F20261011T220000Z&location=402+South+3rd+Street%2C+Yakima%2C+Washington%2C+98901%2C+United+States"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+%28Yakima%29&dates=20261011T180000Z%2F20261011T220000Z&location=402+South+3rd+Street%2C+Yakima%2C+Washington%2C+98901%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -282,6 +282,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+%28Yakima%29&dates=20261024T180000Z%2F20261025T220000Z&location=402+South+3rd+Street%2C+Yakima%2C+Washington%2C+98901%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Event+%28Yakima%29&dates=20261031T180000Z%2F20261101T230000Z&location=402+South+3rd+Street%2C+Yakima%2C+Washington%2C+98901%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -405,10 +409,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.johnduresky4congress.com/events/benton-franklin-fair-parade-jlmhe?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.johnduresky4congress.com/events/blue-wave-flippin-fundraiser?format=ical"
 },
 {
@@ -441,11 +441,19 @@
 },
 {
 "text": "ICS",
+"href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-rzpb4-5n3ah?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-rzpb4?format=ical"
 },
 {
 "text": "ICS",
 "href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-yakima?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.johnduresky4congress.com/events/canvassing-event-oct31-yakima?format=ical"
 },
 {
 "text": "ICS",
@@ -669,10 +677,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.johnduresky4congress.com/events/benton-franklin-fair-parade-jlmhe"
-},
-{
-"text": "View Event →",
 "href": "https://www.johnduresky4congress.com/events/blue-wave-flippin-fundraiser"
 },
 {
@@ -713,11 +717,19 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-rzpb4-5n3ah"
+},
+{
+"text": "View Event →",
 "href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-yakima"
 },
 {
 "text": "View Event →",
 "href": "https://www.johnduresky4congress.com/events/canvassing-event-oct31"
+},
+{
+"text": "View Event →",
+"href": "https://www.johnduresky4congress.com/events/canvassing-event-oct31-yakima"
 },
 {
 "text": "View Event →",
@@ -860,8 +872,8 @@
 "href": "https://www.johnduresky4congress.com/events/aarp-candidate-forum-live-on-youtube-facebook"
 },
 {
-"text": "[image: Benton Franklin Fair &amp; Rodeo]",
-"href": "https://www.johnduresky4congress.com/events/benton-franklin-fair-parade-jlmhe"
+"text": "[image: Bilingual Phonebank (Virtual) (Copy)]",
+"href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-rzpb4-5n3ah"
 },
 {
 "text": "[image: Bilingual Phonebank (Virtual)]",
@@ -918,6 +930,10 @@
 {
 "text": "[image: Canvassing Event (Yakima)]",
 "href": "https://www.johnduresky4congress.com/events/canvassing-event-oct3-yakima"
+},
+{
+"text": "[image: Canvassing Event (Yakima)]",
+"href": "https://www.johnduresky4congress.com/events/canvassing-event-oct31-yakima"
 },
 {
 "text": "[image: Common Power- Canvassing in Yakima for Duresky]",
@@ -1082,6 +1098,10 @@
 {
 "text": "https://forms.gle/BxbrhVigGB8Y6Y9X9",
 "href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2FBxbrhVigGB8Y6Y9X9%3Ffbclid%3DIwcGRvZgFleHRuA2FlbQIxMABicmlkETFPQktCeGp5OW5FSDZseVBFc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqFX706Zfh1rb-huDiSdHMEFdwiBE9xvbui6fIabFpmZSNUlwk75sJlPU81k_aem_t_M4aJrVj4K-8KYIvGeFVg&h=AUCoMaXUqkjFlmYGdWyBHe7N7cCGLHrmrFxroDr_0LFzOZjaD-nm_RWtpEr_-xvYEpNZa6BdMbV78E5-tFRsrE1cNYh2qoT_fzr3q7Po8H_FCuXkYLvCKF0iVV-2X4myoBq6qDXrmK9Q3IiYGE0&__tn__=q&c%5B0%5D=AUBM3PVaq76MXV_i2geKLPh2MpmyGoSfStv8dhbBhfpP2tONTYbD0maeYTb55cydgTuuK-bA3MmUsgSWuAdSUhdfTdMPF6GC3tvMik6wPcIksQX3RN9FrEHgqFjXLW9fuCxI3rUyFOkd5mE6hPH8C8nsqEOa0QdDWWQ"
+},
+{
+"text": "https://platform.winnable.app/events/bilingual-virtual-phonebank-nfnfbxwv",
+"href": "https://platform.winnable.app/events/bilingual-virtual-phonebank-nfnfbxwv"
 },
 {
 "text": "https://platform.winnable.app/events/bilingual-virtual-phonebank-nfnfbxwv?fbclid=IwY2xjawUqSt1leHRuA2FlbQIxMABwZG9mAWJyaWQRMVBtZUFEb0xtMmxNcDlyc05zcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeeqyBxy4hRvqpyij2LyWfhp7u_UvEV4lTrKFOXO-yz1nCVV3EdEv-63gKVpg_aem_u0a4jKIZDLUgy0ZAuGRLAQ",

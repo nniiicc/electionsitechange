@@ -1,4 +1,7 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report March 22, 2025 Ready Report: Budget “Deal” Includes Tax on IT, Local Update & More… The 11th week of the 2025 Legislative Session has concluded.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report March 29, 2025 Ready Report: MPRP Update, Budget “Compromise”, & More… The 12th week of the 2025 Legislative Session has concluded.
+There is just one full week left.
+Then the General Assembly will adjourn Sine Die at midnight on Monday, April 7th.
+Any bill that does pass by… Read More > March 22, 2025 Ready Report: Budget “Deal” Includes Tax on IT, Local Update & More… The 11th week of the 2025 Legislative Session has concluded.
 Monday, March 17th, was “Crossover” Day, which was the deadline for bills to pass one chamber and be sent to the opposite chamber.
 So, the… Read More > March 17, 2025 Ready Report: “Crossover,” Blueprint Flexibility & More… The 10th week of the 2025 Legislative Session has concluded.
 Today, March 17th, is known as “Crossover,” which is the deadline for bills to pass one chamber and be sent to the opposite chamber.
@@ -16,5 +19,4 @@ Here is… Read More > February 7, 2025 Ready Report: State of the State, Electr
 Here is an update on what happened this week in Annapolis: Click the picture below to watch my Weekly Video Update for Session… Read More > January 31, 2025 Ready Report: Week 4 Update, Fighting High Energy Costs, District 5 Night & More The fourth week of the Maryland General Assembly Legislative Session has concluded.
 Here is an update on what happened this week in Annapolis, as well as some developments from Carroll County.
 Click the picture below… Read More > January 28, 2025 BGE Update & District Night Invite I’m writing for two reasons – first I want to share information on the BGE Rate increases that have occurred and provide some details about what’s happening.
-Secondly, I wanted to be sure you got… Read More > January 24, 2025 Ready Report: Peeling Back Layers on Moore Budget, Carroll Delegation Voting Session & More… It was a very busy week in Annapolis as we are coming to the end of the “1st Quarter” of the 2025 Session.
-I have a lot to discuss below but first – on Monday, President… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer
+Secondly, I wanted to be sure you got… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

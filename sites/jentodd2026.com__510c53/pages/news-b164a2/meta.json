@@ -1,9 +1,10 @@
 {
  "description": "News from the campaign and coverage elsewhere.",
  "final_url": "https://www.jentodd2026.us/news",
- "fingerprint": "74bd1c5d953b82d73327e3bab5d138b5570e7063",
+ "fingerprint": "78978df35ce529bd3e6423c3f27593d5fbd15758",
  "format": 3,
  "paid_for_by": "Paid for by Friends for Jennifer Todd",
+ "rendered": false,
  "title": "Jennifer Todd's campaign news",
  "years_mentioned": [
   "2025",

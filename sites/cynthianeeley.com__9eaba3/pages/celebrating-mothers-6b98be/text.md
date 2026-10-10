@@ -3,7 +3,7 @@ Celebrating Mothers Home About News Volunteer Donate Contact Family News Februar
 Today the vision became reality.
 A wonderful day with 36 mothers receiving gifts & a meal from their Mayor & State Representatives.
 Share: twitter facebook youtube Post navigation Previous post Cynthia Neeley on Gov.
-Whitmer’s State of the State Address Next post Encouraging all children to read… You May Also Like News January 18, 2022 Free COVID test kits Family News April 14, 2022 18th Annual Golden Egg Hunt Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Whitmer’s State of the State Address Next post Encouraging all children to read… You May Also Like News January 18, 2022 Free COVID test kits Election News July 31, 2024 Meet the Candidates: Michigan’s 70th House District – Cynthia Neeley Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

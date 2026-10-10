@@ -4,7 +4,12 @@ Government Must Respect What You Earn I'll fight to keep State Government accoun
 Schools That Teach and Get Results I support funding education that puts the focus on reading, writing, and math; Let’s reduce non-classroom staff in our schools and give teachers the pay and resources to succeed.
 Municipal Infrastructure I'll advocate for good roads, bridges, etc. for safe travel and to support commerce.
 Safe Communities, Strong Neighborhoods I'll support law enforcement, enforce our laws, and protect every neighborhood so families can feel secure at home.
-See more Videos "I'm running for Assembly to make Wisconsin the best it can be for my children and grandchildren." — Paul McGraw Wisconsin 43rd Assembly District View the district map Newsletter Block This newsletter signup form needs a storage option.
+See more Videos "I'm running for Assembly to make Wisconsin the best it can be for my children and grandchildren." — Paul McGraw Wisconsin 43rd Assembly District View the district map Local Issues I oppose the 765 High Voltage Transmission Line.
+As your Representative to the 43rd Assembly District I will fight against this line and fight for affordable energy where it is needed in Wisconsin.
+Governor Evers’ appointed Public Service Commission has shut down a coal plant and a nuclear plant in Wisconsin.
+Instead they are approving intermittent sources of energy like solar panels on thousands of acres of Wisconsin’s prime farmland.
+Please get out and vote for me and vote for Tom Tiffany for Governor so we can bring common sense back to our energy needs in Wisconsin.
+Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up with your email address to receive news and updates.
 Email Address Sign Up Thank you!

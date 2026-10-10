@@ -1,28 +1,17 @@
-Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Events Where Kelly will be next 294 campaign stops as of October 9, 2026 (277 completed, 17 upcoming).
+Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Events Where Kelly will be next 294 campaign stops as of October 10, 2026 (279 completed, 15 upcoming).
 From county fairs and community meetings to cookouts, candidate forums, and front porches — see where Kelly is headed next.
 Upcoming Events Invite Kelly Host a Gathering Meet Kelly Proof Showing up matters.
 Kelly has traveled Arkansas listening to the people who actually live here.
 Hover or focus a county for details.
 Visited Confirmed upcoming Tentative Not yet visited Tap a county to see visit status and any upcoming stop.
 Blue counties are places Kelly has already been.
-294 Scheduled campaign stops As of October 9, 2026 through Election Day.
-277 Stops completed 17 Stops remaining Through Election Day.
+294 Scheduled campaign stops As of October 10, 2026 through Election Day.
+279 Stops completed 15 Stops remaining Through Election Day.
 Campaign calendar Month, week, day, and the remaining election calendar.
 Tap a town to open that stop.
 Month Week Day Election October 2026 Back Next Sun Mon Tue Wed Thu Fri Sat 1 The Venue at Westwind — North Little Rock City TBA Online 2 3 Perry County City TBA 4 5 6 VFW Ozark Post 3246 — Mountain Home Mountain Home 7 Statewide / Virtual 8 Fayetteville Online 9 Fayetteville Fayetteville 10 Texarkana Yellville 11 Hot Springs Hot Springs Hot Springs + 1 more 12 Razorback Touchdown Club — city and room TBA 13 14 Statewide / Virtual 15 Conway Online 16 Little Rock 17 UAPB Homecoming — Pine Bluff Hillcrest HarvestFest — Kavanaugh Boulevard Arkansas PRIDEFest and Parade — Little Rock 18 19 Arkansas 20 21 Statewide / Virtual 22 Online 23 Lake Village 24 Venue TBA 25 Ponca 26 27 28 Statewide / Virtual 29 Online 30 31 Sheridan Movement Where Kelly will be next Public stops still ahead on the campaign calendar, including dated asks that are not locked yet.
 Invite Kelly to bring one to your community.
-WASHINGTON COUNTY Confirmed Fayetteville Friday, October 9 1:00 PM–3:00 PM OLLI for Coffee — Jimmy’s Egg (Fayetteville) Jimmy’s Egg, Fayetteville area (private room).
-Street not in the host note — Osher Lifelong Learning Institute at the University of Arkansas.
-Confirm the restaurant with the host before travel.
-Friday, October 9, 2026, 1:00–3:00 p.m.
-Central: OLLI for Coffee at Jimmy’s Egg in Fayetteville — confirmed.
-Kelly is the invited guest.
-Host-run — not a campaign rally.
-Get Details → League SOS forum — Fayetteville, Oct.
-8 → NAACP Dove banquet — Pine Bluff, same evening → WASHINGTON COUNTY Confirmed Fayetteville Friday, October 9 5:00 PM–8:00 PM Fundraiser — Fayetteville Fayetteville, AR (street TBA) Friday, October 9, 2026, 5:00–8:00 p.m.
-Central in Fayetteville: campaign fundraiser hold — confirmed.
-Venue TBA.
-Invitation details → OLLI for Coffee — same afternoon → Events calendar → M Needs a Mobilize event V Needs volunteers MILLER COUNTY Kelly not attending Texarkana Saturday, October 10 10:00 AM–5:00 PM Picklefest — Texarkana Front Street, Texarkana Kelly not attending Volunteers needed Signup coming Kelly will not attend.
+M Needs a Mobilize event V Needs volunteers MILLER COUNTY Kelly not attending Texarkana Saturday, October 10 10:00 AM–5:00 PM Picklefest — Texarkana Front Street, Texarkana Kelly not attending Volunteers needed Signup coming Kelly will not attend.
 Saturday, October 10, 2026, 10:00 a.m.–5:00 p.m.
 Central on Front Street in Texarkana: Picklefest.
 Volunteers in campaign t-shirts needed.

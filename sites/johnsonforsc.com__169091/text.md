@@ -1,15 +1,15 @@
-0 Skip to Content About Policies Contact Merch Donate Open Menu Close Menu About Policies Contact Merch Donate Open Menu Close Menu About Policies Contact Merch Donate Dr.
+0 Skip to Content About Policies Contact Merch Endorsements Donate Open Menu Close Menu About Policies Contact Merch Endorsements Donate Open Menu Close Menu About Policies Contact Merch Endorsements Donate Dr.
 Jermaine Johnson After 20+ years of single party rule, South Carolinians Deserve More.
 Join the team.
 Join the movement.
 Donate Today!
 Volunteer With Us!
+Register to Vote!
 Meet Rep.
 Jermaine Johnson Jermaine Johnson is a born fighter and leader, committed to serve the residents of South Carolina with Accountability, Integrity, and Commitment.
 Jermaine has a plan and vision for the Palmetto State.
 Meet the man behind that vision.
-Learn more Where Is jermaine?
-View fullsize Meet Sam Skardon For the past seven years, Sam Skardon has worked to get real capital to the small business owners and families South Carolina's economy too often leaves behind.
+Learn more View fullsize Meet Sam Skardon For the past seven years, Sam Skardon has worked to get real capital to the small business owners and families South Carolina's economy too often leaves behind.
 He's ready to serve those same communities with Jermaine.
 Meet our next Lieutenant Governor.
 In the News “He puts others first and meets others where they are.

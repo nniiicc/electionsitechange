@@ -1,4 +1,10 @@
-0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS October 7 - Former Valentine City Manager Rick Medema Endorses Mark I am honored that former Valentine City Manager Rick Medema has endorsed me.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS October 8 - Owen Palm, Former Commissioner of the Nebraska Department of Natural Resources, Endorses Mark Owen Palm, former commissioner of the Nebraska Dept. of Natural Resources has endorsed campaign.
+Owen was the CEO of the Western Sugar Cooperative and is the chairperson of 21st Century Equipment.
+He also served as the chairman of the Nebraska chapter of The Nature Conservancy.
+October 8 - Mark and Solomon Drop in On Folks in 9 Sandhills Towns in One Day On October 8th Solomon and I headed north and dropped in on folks in Arthur, Hyannis, Mullen, Thedford, Seneca, Whitman, Arnold, Stapleton, and Callaway.
+Most people were shocked that a congressional candidate would take the time to visit these small towns.
+I love driving in the Sandhills, which is why I chose to my home in Lemoyne.
+October 7 - Former Valentine City Manager Rick Medema Endorses Mark I am honored that former Valentine City Manager Rick Medema has endorsed me.
 Rick is an expert in economic development, and I’m grateful for his advice.
 On top of that, Valentine is one of my favorite places in Nebraska.
 Floating the Niobrara River is a must for every Nebraskan.

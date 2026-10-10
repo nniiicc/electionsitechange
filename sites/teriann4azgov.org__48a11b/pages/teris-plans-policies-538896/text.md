@@ -1,63 +1,77 @@
-0 Skip to Content Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Open Menu Close Menu Open Menu Close Menu DONATE HERE Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Folder: Teri's Plans & Policies Back Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Folder: Community Connection Back Advocacy Community Engagements Shop Products Folder: Other Topics Back Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact Folder: About Teri Ann Back About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Debates Matter, Arizona Debates matter.
-They are one of the most important opportunities voters have to hear directly from the people asking to earn their vote.
-Arizonans deserve candidates who are willing to answer tough questions, explain their positions, and engage in open, honest discussion.
-I showed up for Arizona.
-My opponent did not for the Primary election.
-Now in the General Election Katie Hobbs is choosing to decline, her Lieutenant Governor Giles also declining while myself and Biggs will debate 10/06/2026 at 6pm.
-And if the Green candidate Risa Lombardo is not kicked out of there race before then due to alleged fraud in the clean elections then she will too.
-When candidates refuse to debate, voters lose the opportunity to hear where they stand on the issues that affect their daily lives.
-Public service requires accountability, and debates are one of the best ways to demonstrate it.
-I am incredibly grateful for the opportunity to run for Governor of Arizona.
-Every day, I am thankful for the chance to meet people across our state, listen to their concerns, and share my vision for a better Arizona.
-It still feels surreal that I have this opportunity.
-If I earn the privilege of serving as your Governor, I will work every day to make meaningful changes that strengthen our state, protect our communities, and ensure Arizona's government serves all of its people.
-Arizona deserves leaders who show up.
-Stop Blending In.
-Think Independent.
-Vote Independent.
-Nearly one-third of Arizona’s registered voters are Independent or unaffiliated.
-But being independent is bigger than what is written next to your name on your voter registration.
-You can be a registered Republican or Democrat and still think independently.
-You can step outside party expectations, reject the pressure to automatically vote for your party’s candidate, and choose the person you believe will best serve Arizona.
-I challenge Arizona voters to stop blending into the two-party system simply because that is what we have always been told to do.
-You do not owe any political party your vote.
-Your vote belongs to you.
-If you believe Arizona needs something different, then have the courage to vote differently.
-Republicans, Democrats, Independents, No Labels voters and unaffiliated voters can come together and choose people over party.
-We cannot keep demanding change while automatically returning our votes to the same two-party system.
-Independents—and independent-minded voters from every party—have the power to change Arizona politics.
-Stop blending in.
-Think for yourself.
-Vote for the person, not the party.
-Rise with me, Arizona.
-Let’s lead the nation in change.
-Practical Healthcare Solutions for Arizona As both a healthcare provider and business owner, I understand the challenges families face when insurance premiums, deductibles, and out-of-pocket costs continue to rise faster than wages.
-I also understand the pressures placed on employers who want to provide quality healthcare benefits for their employees but struggle with escalating costs.
-My administration will pursue innovative solutions that increase affordability and expand access to care.
-This includes developing employer rebate and incentive programs that help businesses provide healthcare coverage to their workforce, increasing transparency in healthcare pricing, and strengthening oversight to ensure insurance companies are not engaging in unfair pricing practices that drive up costs for consumers.
-I will also work to create additional healthcare options for Arizonans by encouraging competition, supporting independent healthcare providers, expanding access to preventive and mental health services, and reducing unnecessary administrative barriers that increase costs without improving patient care.
-Healthcare should be affordable, accessible, and focused on patients—not bureaucracy.
-Arizona can lead the nation in creating a healthcare system that supports families, employers, providers, and taxpayers while delivering better outcomes for everyone.
-As Governor, I will fight for practical, fiscally responsible solutions that lower costs, expand choices, and make healthcare more affordable for every Arizona family Fighting for Affordable Housing and Lower Costs Teri Ann Hourihan for AZ Governor.
-Arizona’s cost of living and inflation rates remain above national targets, making it increasingly difficult for families to afford housing, groceries, transportation, and other necessities.
-As Governor, I will address affordability by tackling its root causes.
-Arizona’s rapid growth, combined with water shortages, drought conditions, and housing supply constraints, has driven costs higher.
-By strengthening water security, improving school funding, reforming government agencies, and reducing fraud and waste, we can create long-term affordability for residents.
-My administration will work to lower utility costs, reduce inflationary pressures, increase wages, and expand opportunities for Arizonans to live within their means without needing multiple jobs.
-I will pursue stronger oversight of fuel pricing, expand rebate programs for teachers, first responders, public servants, farmers market vendors and shoppers, and incentivize water-efficient landscaping.
-I will promote affordable housing through adaptive reuse of vacant buildings, strengthen homelessness services, explore universal childcare options, and evaluate data center tax revenues to support affordability initiatives and public education Protecting Arizona Healthcare & Respecting the Voters Arizona voters deserve a Governor who will protect access to healthcare while respecting the laws decided by the people.
-Recent concerns raised by Arizona physicians focus on Andy Biggs’ record on Medicaid and abortion, including his support for federal Medicaid reductions and previous efforts to restrict abortion nationally.
-As a healthcare professional, healthcare business leader, and expert who has worked directly within Arizona’s healthcare system, I understand where the system is failing patients, providers, and taxpayers.
-As Governor, I will take on Arizona’s entire health-plan system, address the problems within AHCCCS, strengthen accountability, eliminate waste and fraud, protect legitimate providers, and make sure healthcare dollars actually reach the people they are intended to serve.
-I am pro-life, but I also respect the will of Arizona voters.
-Arizona voters established our current abortion law, and I will not seek to repeal or override what the voters decided.
-My personal beliefs will not replace the voice of the people I am elected to serve.
-Arizona needs a Governor who understands healthcare from the inside and is prepared to fix it—not another career politician talking about it.
-I’ll Be on the Debate Stage—Will My Opponents?
-Arizona deserves leaders who are willing to stand before the voters, answer tough questions, and defend their records.
-The gubernatorial debate is scheduled for October 6, 2026, and I will be there, ready to discuss the issues that matter most to Arizona.
-Reports indicate that Governor Katie Hobbs has declined to participate.
-I believe that’s disappointing because voters deserve to hear directly from every candidate.
-Leadership means showing up, being accountable, and engaging with the public—even when the questions are difficult.
-This election is about giving Arizona a new direction, and I look forward to earning your vote by answering your questions and sharing my vision for our state’s future.
-Teri Ann Hourihan for Arizona Governor Email Teri@teriann4azgov.org Phone/Text 520-633-1234
+0 Skip to Content Donate Today General Debate Videos Exposed: Biggs/Hobbs/Risa Media Attention Teri's Plans & Policies Videos of Teri Ann - General Race Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri DONATE HERE Open Menu Close Menu Open Menu Close Menu DONATE HERE Donate Today General Debate Videos Exposed: Biggs/Hobbs/Risa Media Attention Teri's Plans & Policies Videos of Teri Ann - General Race Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today General Debate Videos Exposed: Biggs/Hobbs/Risa Media Attention Folder: Teri's Plans & Policies Back Videos of Teri Ann - General Race Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Folder: Community Connection Back Advocacy Community Engagements Shop Products Folder: Other Topics Back Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact Folder: About Teri Ann Back About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri DONATE HERE Grateful for Arizona’s Community Leaders Grateful for Arizona’s Community Leaders Arizona is filled with incredible people who dedicate their lives to serving others, and I am deeply thankful for them.
+As Governor, I will always value and support community leaders who put people first and work to create real, lasting change.
+This campaign has never been about political insiders, big money, or powerful connections.
+It has always been about the people of Arizona.
+Every mile traveled, every conversation, every event, and every challenge has been fueled by one purpose—to serve you.
+I am the definition of a grassroots candidate because this movement belongs to everyday Arizonans.
+Thank you for believing in a different path forward.
+Together, we are proving that integrity, hard work, and the voices of the people still matter.
+Arizona, thank you for standing with me.
+Let’s keep building this movement—together.
+The next 12 weeks will be filled with travel across our great state, conversations with Arizonans, listening, learning, and staying focused on what matters most—you, Arizona.
+I am excited for the road ahead and grateful for the opportunity to experience this campaign alongside the people I am asking to serve.
+I want to hear your stories, understand the challenges facing your communities, and talk about real solutions for Arizona’s future.
+Thank you, Arizona, for giving me this incredible opportunity.
+I am ready for the miles, the conversations, the work, and the full experience of this journey.
+Let’s make these next 12 weeks count.
+Videos Arizona Community - Glendale Daily Hustle - Glendale community Scottsdale Community Scottsdale Coffee & Smiles Phoenix Community Scottsdale AZ Voters Phoenix Car Dealership Fun Phoenix Shoutout Honda Phoenix - Bringing Real People Back Phoenix - Small Business Phoenix - Non Profit Phoenix - AZ Is Worth Change THIS I S WHAT GRASSROOTS LOOKS LIKE I’m not going to lie—I am incredibly excited and feeling so blessed as I drive across Arizona putting up our campaign signs.
+Angela is out there doing the same thing.
+This is grassroots.
+Grassroots is running with very little funding but an incredible amount of passion.
+It’s loading signs into your own vehicle, driving across Arizona, meeting people face-to-face, putting in the miles, and doing the work yourself because you believe Arizona deserves another choice.
+We don’t have a massive political machine behind us.
+We don’t have special interests carrying this campaign.
+We have grit, determination, and people who believe ordinary Arizonans should have a voice.
+Being a true grassroots candidate isn’t easy—and that’s exactly why this matters.
+This is what democracy is supposed to look like: normal, everyday people having the courage to step forward, run for office, and fight to represent their communities.
+We already proved it can be done by winning an election.
+Now we’re taking that fight across Arizona.
+Not Left.
+Not Right.
+Only Forward.
+Videos Real Grassroots Candidate PodCast: Move the Needle - Chandler Chandler Coffee & Talk Phoenix in Arizona I Cannot Be Bought AZ Leaders Need to NOT be Bought Phoenix - Where You Are Glendale - Community & Spirit Real Grassroots in Flagstaff 🇺🇸 Today I’m in Flagstaff spending the day where I believe a Governor belongs—with the community and the people.
+And apparently, I decided today was the day to wear my cute shoes. 😂 Usually I’m smart enough to wear the comfy ones, but cute shoes aren’t stopping me from putting in a 10-hour day talking with Arizonans, listening to their concerns, and hearing what they want for the future of our state.
+I still have hours to go, and I’m excited to be here!
+Flagstaff is beautiful today, the people have been wonderful, and this is exactly what our campaign is about.
+Arizona, this is REAL grassroots.
+It’s not about the shoes.
+It’s about showing up for PEOPLE.
+Not Left.
+Not Right.
+Only Forward.
+Videos Flagstaff - Grassroots Candidate Community in Flagstaff RAIN OR SHINE, I’M SHOWING UP — TERI ANN HOURIHAN FOR AZ GOVERNOR 🇺🇸🌵 I’m in Prescott campaigning today, and it is absolutely pouring.
+Right now, I’m sitting on the cement under the small overhang of a building, waiting for the rain to let up so I can get back out there and keep going.
+This is what commitment looks like to me.
+I’m not running for power, glory, a political career, or special interests.
+I’m out here every day working my ass off because I genuinely want a better tomorrow for ALL of us.
+I see the problems Arizona families are facing.
+I see what is happening in our communities, our healthcare system, our schools, our prisons, our economy, and our government—and I refuse to simply sit back and complain about it.
+So, yes, I’ll sit on the cement in the pouring rain and wait.
+And when it stops, I’ll get back up and keep campaigning.
+Because this isn’t a joke to me.
+This is my home.
+This is our future.
+And I am serious about doing everything I can to make it better. 🇺🇸♥️🌵 Videos Prescott Rain or Shine Community Shines in Prescott Love the people in Prescott Animals in Prescott Teacher Interview in Prescott Campaign like a Butterfly Snake Charlie in Prescott Prescott Moments Prescott Animals & Families I Love Kingman! 🇺🇸🌵 I literally love Kingman!
+I haven’t been here in several years, and I was genuinely touched by the strong sense of community, warmth, and kindness I experienced throughout my visit.
+Kingman has that special small-town community feel while still offering so much to the people who live here.
+The people are welcoming, the local businesses are proud of their community, and you can feel the connections people have with one another.
+As Governor, I want Arizona’s rural and smaller communities to know they will never be forgotten or treated as an afterthought.
+Every community matters, and I want to make sure people across our state have a Governor who shows up, listens, and understands what their communities need to thrive.
+Thank you to every person, community member, and local business that welcomed me.
+I’m already excited to come back — see you again in about four weeks, Kingman!
+Videos Community in Kingman Angel Manor & Kingman Kingman Friendships and Community Kingman Excitement & Time Last day in Kingman Small Business in Kingman Kingman - Listening to the People Wickenburg Experience Kingman I am Here Fire Dpt in Kingman Mohave County Animal Shelter Kittens & Friendship Kingman Cowboys Kingman Story of Hope On the Road for Arizona: Pinal County, Kearny & Phoenix Today, I’m headed to Pinal County for a ribbon-cutting event celebrating employment and economic opportunity, followed by stops throughout the county—including Kearny, Arizona.
+Kearny is facing a serious water crisis, and I want every resident to know: I see you, I hear you, and I support you.
+As Governor, protecting Arizona’s water and the safety of our communities will be a priority.
+I will work to ensure communities like Kearny have access to safe, reliable water and that their concerns are not ignored.
+I’ll finish the day around 6 PM near 27th Avenue and Indian School Road, where I’ve been invited to speak and spend time with a local group.
+Follow along as I continue traveling across our state and campaigning to help save Arizona.
+For me, this truly is a God story.
+Every day, I’m on a mission to serve, listen, and fight to make Arizona the best it can be for every person who calls our state home.
+Videos Arizona Pinal County Campaign Pinal on the Road Superior Arizona Dream Wickenburg Arizona I Love Sedona! 🇺🇸🌵 Heading to Sedona & Connecting with Arizona I’m headed out to Sedona today, and I’m excited to spend time in the community, meet more Arizonans, and hear your stories.
+Running for Governor means showing up.
+I’m going to be everywhere I can across Arizona—listening, connecting, learning about what matters in each community, and making sure people know their voices matter.
+This campaign is about the people of Arizona.
+I look forward to meeting you where you are and earning the opportunity to serve you as your next Governor.
+Thank you for welcoming me into your communities.
+Sedona, I’m excited to see you today!
+Videos Sedona Chocolate Company Sedona Community Sedona Business & Community Sedona “Best” Barber Sedona Loves Animals (And so do I :) Small Business Painting Company Sedona Feathers & Fur Sedona Coffee & Community Sedona Local Artists Sedona Small Business Dream Teri Ann Hourihan for Arizona Governor Email Teri@teriann4azgov.org Phone/Text 520-633-1234

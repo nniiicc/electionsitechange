@@ -6,6 +6,7 @@ Mellor.
 Drawing on his service as a U.S.
 Marine Corps veteran, Vic became an entrepreneur who built a successful business supporting working families for three decades.
 He has always been a fierce defender of individual rights, dedicated to ensuring every American has the space to think independently and prosper.
+Vic provides transparent, full disclosure responses to questions his critics have about his past.
 The Builder Creating Opportunity and Community Unity Vics career is defined by action.
 For thirty years, he successfully ran a business that supported the working class with real jobs and steady paychecks.
 This dedication to local results led Vic to found the Rhode Island First movement, a mission dedicated to putting the needs of our citizens before party bosses or global interests.

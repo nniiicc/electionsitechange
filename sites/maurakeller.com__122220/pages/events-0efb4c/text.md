@@ -4,7 +4,9 @@ Events Campaign Calendar View Maura’s campaign calendar and keep scrolling to 
 Check back frequently for an updated event schedule!
 Can’t find an event near you?
 Email us at maura@maurakeller.com or fill out our Contact Us form to enquire about speaking engagements.
-Oct 11 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Sunday, October 11, 2026 4:00 PM 8:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
+Oct 10 Political Action , Volunteer , Fayette Meet and Greet and Canvass with Maura Keller | Muscogee County Saturday, October 10, 2026 4:00 PM 6:00 PM Columbus County Democratic Headquarters (map) Google Calendar ICS Meet Maura and canvass with Muscogee Democrats!
+Today at 4 PM, swing by the Muscogee Dems office at 1501 Columbus, GA, 31901, meet Maura and her team, and head out to knock on doors before the weather hits!
+View Event → Oct 11 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Sunday, October 11, 2026 4:00 PM 8:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.
 View Event → Oct 13 Political Action , Volunteer , Fayette Texting Tuesdays with Maura Keller Tuesday, October 13, 2026 5:30 PM 7:30 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come join our text-banking party every Tuesday.

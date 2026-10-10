@@ -1,18 +1,22 @@
 Skip to content Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE 0 Cart No products in the cart.
-Return to shop DONATE DONATE PROVEN LEADERSHIP Keeping Our Community Safe Protecting Women’s Rights Fighting for Hardworking Pennsylvanians Standing up for Taxpayers New from the Campaign Trail Used for the like, share, comment, and reaction icons Door to door is a great way to hear what is on the mind of my constituents.
+Return to shop DONATE DONATE PROVEN LEADERSHIP Keeping Our Community Safe Protecting Women’s Rights Fighting for Hardworking Pennsylvanians Standing up for Taxpayers New from the Campaign Trail Used for the like, share, comment, and reaction icons Friends of Jim Haddock you are all invited to a meet the candidates nights being hosted for Senator Marty Flynn and State Representative Jim Haddock.
+Please see the flyer below and we hope to see on Monday, October 12th from 5:00pm to 7:00pm. ...
+See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
+#ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 26 Shares: 0 Comments: 4 4 Comments Comment on Facebook Two great guys Wish I could make it ☹️ Always wishing you the best, Jimmy!!
+Door to door is a great way to hear what is on the mind of my constituents.
 The campaign has been knocking doors in Pittston Township, Hughestown and West Pittston this past week.
 We now have hit doors in all nineteen towns in the 118th district.
 Now we start our second pass to even more doors.🚪 ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 171 Shares: 6 Comments: 21 21 Comments Comment on Facebook So impressive, Jim.
-Stop by.
-Mae and Winnie are expecting you, and I’ll put on the coffee - or the kettle!
-How come your not picking mushrooms ??
-Please stop by my house sir View more comments Agriculture is Pennsylvania’s biggest industry.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 190 Shares: 9 Comments: 28 28 Comments Comment on Facebook Yo Dave Cant trek in woods anymore for mushrooms.
+If u or anyone has some to share with old coalcracker ., id appreciate it ..
+Kudos to Jim Haddock 👏👏👏 You have our vote.
+View more comments Agriculture is Pennsylvania’s biggest industry.
 I am proud to receive the endorsement from farmers and dairymen across the state for my 💯 percent voting record on farm issues.
 Farmer is the PAC that represents legislative side of the Farm Bureau of Pennsylvania.
 They know I work for them every day. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 79 Shares: 11 Comments: 5 5 Comments Comment on Facebook Congratulations!
-They are a great group congrats Congratulations!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 92 Shares: 12 Comments: 13 13 Comments Comment on Facebook Jim you work for all the people in your district.
+Proud to say you are a dear friend Congratulations!
+Congratulations!
 Jim we have your back!
 View more comments To the Friends of Jim Haddock please keep these important elections dates!
 Apply for a vote by mail, register to vote while you still have time!
@@ -29,7 +33,7 @@ Greatly enjoyed a day out at Lackawanna County Stadium in Moosic in the heart of
 Newly elected chairwoman Larissa did a fantastic job organizing this event and so many committee members joined in a fun day at the park and cheered on the Rail Riders to a win! ...
 See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 50 Shares: 13 Comments: 0 0 Comments Comment on Facebook Play Here is my fist commercial!
 Thank you to all the Friends of Jim Haddock who gave of their time to support the campaign! ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 55 Shares: 15 Comments: 5 5 Comments Comment on Facebook Always have my yard sign out!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 56 Shares: 15 Comments: 5 5 Comments Comment on Facebook Always have my yard sign out!
 Thank you for all that you do!
 Wonderful Love it View more comments + Joined my friends at the annual Felittese Festival in Old Forge.
 This is a must attend event celebrating the Italian American heritage of many of the settlers in Old Forge.
@@ -39,12 +43,4 @@ It was put to great use at this year’s festival.
 So many members work for weeks to put on this great event for all they do to keep the Italian heritage going I say, “Grazie Mille” ...
 See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 143 Shares: 7 Comments: 11 11 Comments Comment on Facebook Great Rep Great to meet you Jim!
 Bob Mecca from Smoke & Mirrors.
-He is the best👍👍 View more comments It is that time of the year for the signs to be put out for the November 3rd election!
-If you have one saved from the primary please place it out.
-Our crews will be out and about delivering signs to the Friends of Jim Haddock who are on the list!
-If you would like a sign please send an instant message and we will deliver one!
-I thank you in advance for all the support. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 72 Shares: 13 Comments: 22 22 Comments Comment on Facebook You got it my friends!
-Go Jimmy!
-MY TWO HAVE BEEN IN MY PROPERTY A LITTLE WHILE NOW.
-View more comments Load more Home About Jim Issues Get Involved Upcoming Events DONATE Search for: Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE Login Newsletter
+He is the best👍👍 View more comments Load more Home About Jim Issues Get Involved Upcoming Events DONATE Search for: Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE Login Newsletter

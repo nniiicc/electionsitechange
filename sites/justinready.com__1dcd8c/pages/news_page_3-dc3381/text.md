@@ -1,4 +1,6 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report February 23, 2026 Ready Report: Fighting Moore on 287G, Hearings on Emissions & Historic Tag Bills + DDA Advocacy Day The sixth week of the 90-day 2026 Legislative Session in Annapolis has concluded.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report March 8, 2026 Ready Report: Protecting Public Safety, Fighting for Relief on Energy Costs & Car Registration Taxes The eighth week of the 90-day 2026 Legislative Session in Annapolis has concluded.
+To watch my weekly video update on crime/public safety, budget and more, click the picture below.
+Ready in the Press – Senate/House Republican… Read More > February 23, 2026 Ready Report: Fighting Moore on 287G, Hearings on Emissions & Historic Tag Bills + DDA Advocacy Day The sixth week of the 90-day 2026 Legislative Session in Annapolis has concluded.
 We’ve had a lot of wide-ranging issues we’ve been addressing and I’ve had a number of bill hearings.
 To watch my weekly video… Read More > February 17, 2026 Ready Report: State of the State, Ready on Radio Tomorrow & More… First of all, I hope you and your loved ones have a great Valentine’s Day/President’s Day weekend ahead.
 With everything happening in our world, it’s so important for us to make time to celebrate the… Read More > February 16, 2026 Ready OpEd in Baltimore Sun/Carroll County Times – We need energy policy that serves Marylanders The 2026 Maryland General Assembly Session is underway.
@@ -13,8 +15,4 @@ The 2026 Legislative Session is quickly approaching.
 I will do my best to keep you updated as we get closer, as well as throughout the… Read More > November 26, 2025 Ready Report: Happy Thanksgiving & More!
 I hope you and your family have a wonderful Thanksgiving and enjoy the quality time with one another.
 This year, my family will spend time reflecting on the many blessings that God has given us….
-Read More > November 18, 2025 Maryland’s fiscal footing is unsustainable | GUEST COMMENTARY Maryland’s economy is losing altitude.
-Just three years into Gov.
-Wes Moore’s term, the state faces deep budget deficits despite inheriting a record surplus from eight years of disciplined fiscal management under Gov.
-Larry Hogan….
 Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

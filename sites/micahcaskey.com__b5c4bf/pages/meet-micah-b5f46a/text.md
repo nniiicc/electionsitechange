@@ -1,31 +1,19 @@
-0 Skip to Content Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home Folder: About Back Meet Micah Committees District 89 Issues Folder: News and Media Back News Social Media Resources Volunteer DONATE Meet Micah Micah Caskey lives in Springdale, South Carolina — right where he was born and raised.
-He attended local public schools in Lexington 2 School District, grew up in McGregor Presbyterian Church, played sports all over town, and completed his Eagle Scout project at Harbison State Forest.
-The son of a small business owner, Micah started working long before he had a driver's license.
-Working in his father's locksmith shop taught Micah that nothing in life is free — everything worth having has to be earned.
-Hard work matters.
+Menu Meet Micah Record Issues State House District 89 Resources Vote Contact Donate MEET MICAH Springdale Native.
+Marine Corps Veteran.
+Husband & Father.
+I’m proud to represent South Carolina House District 89 and the people of Lexington County.
+ROOTED HERE Meet Micah Caskey Micah lives in Springdale, South Carolina — where he was born and raised.
+He attended Lexington 2 public schools, grew up in McGregor Presbyterian Church, played sports around town and completed his Eagle Scout project at Harbison State Forest.
+The son of a small business owner, Micah worked in his father’s locksmith shop before he could drive.
 That work ethic helped him earn a full scholarship to college.
-After college, Micah spent the next several years on active duty in the Marine Corps—rising to the rank of Captain.
-Micah commanded both company- and platoon-sized units during his two combat tours of duty in Al Anbar Province, Iraq.
-Later, in 2009, Micah left law school for a year to continue his service to the country and commanded a small team of specialized Marines in combat in Helmand Province, Afghanistan.
-Captain Caskey trained as a combat engineer officer and, later, as a civil affairs officer.
-He was decorated with the Navy-Marine Corps Commendation Medal (x3), the Global War on Terrorism Expeditionary Medal, the Iraq Campaign Medal, the Afghanistan Campaign Medal, and the Combat Action Ribbon, among others.
-Micah returned from Afghanistan and completed his law degree at the University of South Carolina.
-He also earned a master's degree in International Business Administration in the #1-ranked international M.B.A. program at the University of South Carolina's Darla Moore School of Business.
-While in graduate school, Micah studied abroad in Europe and in Latin America, where he learned to speak Spanish.
-After graduating, Micah worked in an international firm as a management consultant in Alaska.
-In that capacity, he worked with Fortune 100 clients in the Oil & Gas industry to increase profitability and improve safety culture.
-Seeking a return home, he left Alaska and returned to South Carolina to serve as a criminal prosecutor in South Carolina’s 11th Judicial Circuit.
-There, Micah prosecuted hundreds of cases, including several high-profile trials, for all kinds of felony crime—ranging from drug trafficking to murder.
-In addition to his role in that office, Micah served statewide as a Special Assistant Attorney General, pro bono , to prosecute domestic violence cases.
-Today, Micah also owns and operates a statewide private law practice at Caskey Law Firm, P.A., based in West Columbia, South Carolina.
-His firm is a general practice, including both criminal and civil matters.
-He is licensed to practice in all South Carolina state courts and the District of Columbia.
-He is also admitted to the U.S.
-District Court for the District of South Carolina, the U.S.
-4th Circuit Court of Appeals, and the United States Supreme Court.
-Outside of the office, you’ll likely find Micah enjoys spending time outdoors, whether fishing in his kayak, backpacking in a state park, or spearfishing offshore.
-He is married to the former Kelsey Marie Farnham and they are the proud parents of one son, Micajah P.
-“Mikey” Caskey, V.
-Stay in Touch!
-If you live in Cayce, West Columbia, or Springdale, I want to hear from you.
-Please do not hesitate to share your ideas, thoughts, concerns, comments, gripes, or complaints. micah@micahcaskey.com (803)-250-5834 PO Box #5875, West Columbia, SC 29171 Contact PAID FOR BY CASKEY FOR HOUSE
+SERVICE & EXPERIENCE A life of service United States Marine Corps After college, Micah served on active duty and rose to the rank of Captain.
+He commanded units during combat tours in Iraq and later returned to active service while in law school to command a specialized team of Marines in Afghanistan.
+Education After returning from Afghanistan, Micah completed his law degree and an International M.B.A. at the University of South Carolina.
+While in graduate school, he studied abroad in Europe and Latin America and learned to speak Spanish.
+Prosecutor & Attorney Micah returned to South Carolina to serve as a criminal prosecutor in the 11th Judicial Circuit and served statewide as a Special Assistant Attorney General, pro bono, prosecuting domestic violence cases.
+He now owns Caskey Law Firm, P.A. in West Columbia.
+South Carolina House Micah was elected to the South Carolina House in 2016 and has represented District 89 since 2017, working on issues including taxes, infrastructure, public safety and education.
+Husband & Father Micah is married to Kelsey Caskey, and they are the parents of their son, Mikey.
+Outside the office, he enjoys spending time outdoors.
+District 89 Learn more about Cayce, West Columbia and Springdale.
+Explore the District Serving South Carolina House District 89 Cayce • West Columbia • Springdale STAY IN TOUCH micah@micahcaskey.com (803) 250-5834 Facebook PO Box 5875 West Columbia, SC 29171 QUICK LINKS Meet Micah The Record Voting Information Contact Donate PAID FOR BY CASKEY FOR HOUSE Privacy Policy

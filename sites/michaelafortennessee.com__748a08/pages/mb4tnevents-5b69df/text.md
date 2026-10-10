@@ -6,7 +6,7 @@ Dinner served at 5 p.m.
 RSVP Farragut Town Hall Farragut Community Center 239 Jamestowne Blvd 201, Knoxville, TN 37934 Tim Burchett has been dodging tough questions from East Tennessee voters for nearly a decade.
 On Monday, October 12th, Michaela Barnett is showing up to answer them.
 Join us at the Farragut Community Center for a town hall where you can ask Michaela directly about healthcare, infrastructure, affordability, and what real representation looks like for TN-02.
-Registration is encouraged so we can plan aheaed, but not required to attend.
+Registration is encouraged so we can plan ahead, but not required to attend.
 Everyone is welcome!
 RSVP East Knoxville Town Hall Austin East High School, Aux Auditorium 2800 Martin Luther King Jr Ave Tim Burchett has been dodging tough questions from East Tennessee voters for nearly a decade.
 On Tuesday, October 13, Michaela Barnett is showing up to answer them.

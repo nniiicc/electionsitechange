@@ -1,10 +1,10 @@
-Skip navigation menu Home About Endorsements Volunteer Priorities District Events News Contact Donate Tom's Priorities Home About Endorsements Volunteer Priorities District Events News Contact Donate Tom's Priorities Massachusetts has become unaffordable.
+Skip navigation menu Home About Endorsements Volunteer Priorities District Events News Contact Donate Priorities Home About Endorsements Volunteer Priorities District Events News Contact Donate Priorities Massachusetts has become unaffordable.
 I'm running to change that.
 Rising costs across education, healthcare, and daily essentials have forced families to reevaluate their household budgets.
 As municipal budgets feel the effect of federal and state cuts, we need a full-time state representative to deliver state aid to the six towns in the 9th Norfolk District.
 I believe the role of any elected official is to listen.
 As my priorities continue to be updated, please reach out at hello@electmelville.com with any thoughts or suggestions -- or to schedule a time to meet!
-MY Priorities Affordability Money in Your Pockets, Over Utility Profits Not Just Having the Job, Doing the Job Housing Government Accountability and Transparency Education Lowering Healthcare Costs Supporting Organized Labor Transportation The Cost Crisis The cost of living emergency across education, healthcare, and daily essentials have forced families to reevaluate their household budgets.
+The Cost Crisis The cost of living emergency across education, healthcare, and daily essentials have forced families to reevaluate their household budgets.
 I'm running to lower costs and support working families.
 We need a full-time state representative to deliver state aid to the six towns in the 9th Norfolk District - yesterday.
 Supporting working families Care and Cost Crisis for Seniors Ensuring our towns get their fair share Fighting for a just tax system Out of Control Energy Bills Your energy bills have been skyrocketing, while utilities rake in billions in profits.
@@ -24,5 +24,9 @@ That's the denial of the chance to live a full and dignified life.
 Lowering healthcare costs Finish Norwood Hospital Protecting access to reproductive healthcare Supporting Workers and Organized Labor I have always been, and will continue to be, a strong ally of the labor movement.
 In my view, it is not enough to simply express support, one must actively stand in solidarity with organized labor.
 Supporting State House staff Standing with organized labor Transportation Working families deserve to travel around the Commonwealth safely and affordably.
-Making it easier to get around our Commonwealth Supporting GATRA Reach out any time: tom@electmelville.com Privacy Policy and Terms and Conditions Powered by RUN! website builder Paid for by The Melville Committee.
+Making it easier to get around our Commonwealth Supporting GATRA Support THE Campaign We're grateful for your donations!
+Your contributions help us reach more voters. $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other Contributions or gifts to ActBlue are not deductible as charitable contributions for federal income tax purposes.
+ActBlue is a registered political committee and a conduit for contributions to the candidates and organizations listed on this form.
+100% of your contribution will be passed through to the designated recipient.
+Reach out any time: tom@electmelville.com Privacy Policy and Terms and Conditions Powered by RUN! website builder Paid for by The Melville Committee.
 You need to enable JavaScript to run this app.

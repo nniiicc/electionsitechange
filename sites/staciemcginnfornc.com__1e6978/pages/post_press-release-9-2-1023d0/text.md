@@ -5,6 +5,6 @@ The Republican-controlled General Assembly got to work to right this terrible in
 It was a major step towards improving public safety in our communities.
 As State Senator of the city where this tragedy occurred, Woodson Bradley had a responsibility to her constituents, and to Iryna’s memory, to be part of the solution.
 She chose instead to take an “Excused Absence” for the final vote.
-WATCH "I"LL SHOW UP" HERE Recent Posts See All NEW AD: Stacie McGinn Calls Out Woodson Bradley's Rewriting of History Around Her Involvement in an Illegal Pyramid Scheme Stacie McGinn Highlights Education in her First Digital Ad NC Senate Candidate Stacie McGinn Reports $275,000 in Cash on Hand as of June 30th, Outperforming Her Opponent Woodson Bradley ABOUT PLATFORM VOLUNTEER PRESS RELEASES EVENTS PRIVACY POLICY TERMS & CONDITIONS DONATE Stay Connected.
+WATCH "I"LL SHOW UP" HERE Recent Posts See All WOODSON BRADLEY FAILED TO VOTE FOR IRYNA’S LAW, AND NOW SHE’S LYING ABOUT IT NEW AD: Stacie McGinn Calls Out Woodson Bradley's Rewriting of History Around Her Involvement in an Illegal Pyramid Scheme Stacie McGinn Highlights Education in her First Digital Ad ABOUT PLATFORM VOLUNTEER PRESS RELEASES EVENTS PRIVACY POLICY TERMS & CONDITIONS DONATE Stay Connected.
 Like, follow, and share.
 PAID FOR BY STACIE MCGINN FOR NC SENATE bottom of page

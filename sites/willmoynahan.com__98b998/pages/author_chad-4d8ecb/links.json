@@ -1,6 +1,10 @@
 [
 {
 "text": "About Will",
+"href": "https://willmoynahan.com/about-will/"
+},
+{
+"text": "About Will",
 "href": "https://willmoynahan.com/bio/"
 },
 {
@@ -24,12 +28,20 @@
 "href": "https://willmoynahan.com/bcd31-home/"
 },
 {
+"text": "Media",
+"href": "https://willmoynahan.com/media/"
+},
+{
 "text": "New judge sworn into Kentucky Court of Appeals",
 "href": "https://willmoynahan.com/new-judge-sworn-into-kentucky-court-of-appeals/"
 },
 {
 "text": "Request a Yard Sign",
 "href": "https://forms.gle/neethExkyQfonbRB7"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://willmoynahan.com/request-a-yard-sign/"
 },
 {
 "text": "The Woodford Sun: Court of Appeals Judge William Moynahan announces bid to hold seat",
@@ -48,8 +60,16 @@
 "href": "https://willmoynahan.com/news/"
 },
 {
+"text": "Updates",
+"href": "https://willmoynahan.com/updates/"
+},
+{
 "text": "Volunteer",
 "href": "https://willmoynahan.com/#volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://willmoynahan.com/volunteer/"
 },
 {
 "text": "[email protected]",

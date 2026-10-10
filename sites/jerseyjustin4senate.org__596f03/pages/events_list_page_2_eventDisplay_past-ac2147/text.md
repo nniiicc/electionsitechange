@@ -1,9 +1,7 @@
 Icon-email Instagram Icon-youtube-v Icon-facebook Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Icon-email Instagram Icon-youtube-v Icon-facebook 10 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 5/29/2026 May 29 - 8/28/2026 August 28 Select date.
-May 2026 Fri 29 Justin Murphy and Damon Galdo Town Hall @ Medford Memorial Community Center May 29 @ 7:00 pm - 9:00 pm Medford Memorial Community Center 21 S Main Street, Medford, NJ, United States Come meet US Senate Candidate Justin Murphy and Congressional Candidate Damon Galdo at the Medford Memorial Community Center!
-Republican Candidate for NJ’s US Senate Seat 2026 🇺🇸 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
+Find Events Event Views Navigation List List Month Day #ago 6/6/2026 June 6 - 8/30/2026 August 30 Select date.
 June 2026 Sat 6 Primary Election Victory Address!
 June 6 @ 7:00 pm - 9:00 pm Carla's Classic Cars 447 Oakshade Road, Shamong Twp, NJ, United States Come celebrate US Senate Candidate Justin Murphy's primary victory at Carla's Classic Cars!
 Republican Candidate for NJ’s US Senate Seat 2026 🇺🇸 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
@@ -20,6 +18,8 @@ Republican Candidate for NJ’s US Senate Seat 2026 🇺🇸 | Navy Veteran | At
 Thu 13 Camden County Town Hall August 13 @ 6:00 pm - 9:00 pm Palace Diner & Tapped Bar 100 RT-73, West Berlin, New Jersey, United States Come meet US Senate Candidate Justin Murphy at his Camden County Town Hall at Palace Diner & Tapped Bar!
 Republican Candidate for NJ’s US Senate Seat 2026 🇺🇸 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
 Fri 28 Morris County Town Hall August 28 @ 6:00 pm - 9:00 pm Morris County Republican Headquarters 51 Gibraltar Dr, Morris Plains, New Jersey, NJ, United States Join for our Morris Country Town Hall!
+Republican Candidate for NJ’s US Senate Seat 2026 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
+Sun 30 Taiwanese Market and Festival August 30 @ 12:00 pm - 6:00 pm Bridgewater Commons Baja-B-Que, 400 Commons Way,, NJ, New Jersey Hope to see you at the Taiwanese Market and Festival!
 Republican Candidate for NJ’s US Senate Seat 2026 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
 Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file MAKE A CONTRIBUTION TODAY Contributions by check are made out to: The Committee to Elect Justin Murphy 20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088 Donate CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations © Jersey Justin for Senate.
 All Rights Reserved.

@@ -1,4 +1,4 @@
-Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 25 Aug NM District 38 Rep.
+Home Flood Victims LAS CRUCES RESIDENTS HATCH VALLEY RESIDENTS (WHEN AVAILABLE) SOCORRO RESIDENTS (WHEN AVAILABLE) News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS GUIDE TO HOMESCHOOLING IN NM ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 25 Aug NM District 38 Rep.
 Dow Named Guardian of Small Business By housereplogin From left are State Rep.
 Rebecca Dow, who receives NFIB award from A&B Drive-In owners Anthony Flores, Bernice Flores, Jimmy Chavez Sr. and Barbara Chavez.
 Rebecca Dow led fight against health insurance premium tax increases SANTA FE, N.M., Aug.

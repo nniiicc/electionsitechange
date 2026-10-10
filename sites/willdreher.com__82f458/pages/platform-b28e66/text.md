@@ -20,21 +20,21 @@ Any other candidate in this race now talking about AI regulation was not doing s
 Affordable Housing for All Seattle is by some measures the 8th most expensive city to live in in the world, and Washington state is the 5th least affordable state in the country with respect to housing.
 Economists and experts agree that the best way to lower the cost of housing is to increase the supply of housing at all levels: market housing, affordable housing, and low-income housing.
 And environmentalists know that urban density is how you prevent suburban and exurban sprawl, keep wildland wild, and protect wildlife corridors.
-But we also need, in the interim, to protect renters and homeowners who are feeling the squeeze of rising rents today.
-Part of the solution is zoning reform, on which we have made progress in recent years.
-But another critical component of the solution is permitting reform.
+But we also need to ensure the people who live here, including renters, can afford to wait until that new housing is built.
+W e have made progress in recent years on issues like zoning, but still have work to do.
+Another critical component of the solution is permitting reform.
 You can have a years-long permit process and design review, or you can have faster and cheap housing built.
 You can’t have both.
-Permitting delays alone add, by some estimates, over $50,000 to the cost of building a home in King County.
-And we need to ensure the people who live here can afford to wait until that new housing is built.
-Instead of working productively to increase the types and affordability of housing available in our city and region, my opponent for years led the opposition to common-sense housing density reforms in our state.
-The Urbanist ranked Rep.
-Pollet one of the five worst state legislators in the 2021 session and in the 2022 session, and as a dishonorable mention in 2023, because of his misguided opposition on this issue.
-With your support I will: Work with legislative colleagues, housing providers, and city leaders to reduce red tape and hurdles that slow down and raise costs for housing we need.
+Permitting delays (not permitting) alone add, by some estimates, over $50,000 to the cost of building a home in King County.
+While acting in good faith, my opponent has at times reportedly led the opposition to what I believe are common-sense housing density reforms in our state.
+For instance, in 2021, Rep.
+Pollet made changes to a bill–intended to streamline the process for DADUs and ADUs–that would have arguably made “ it harder to build an ADU on a single-family lot, not easier .” That led groups like the AARP and environmentalists to urge that the amended bill be vetoed, which is what occurred.
+With your support I will: Work with legislative colleagues, housing providers, and city leaders to reduce red tape and hurdles that slow down and raise costs for housing we need, such as by requiring pre-permitted, template housing designs to accelerate and make cheaper the kind of housing we want.
 Continue pushing for state-level policies (like support for social housing) that increase density and improve affordability in every community, not just Seattle.
-Support rent stabilization laws that help renters from being priced out while housing supply is built.
+Support rent stabilization laws and just-cause eviction standards that help renters from being priced out while housing supply is built.
 Continue to fund supportive and transitional housing for those experiencing homelessness.
 Expand transit-oriented housing development and other targeted density programs that maximize housing opportunities along growing light rail and transit corridors.
+Help work on land tax solutions that incentivize owners to build on vacant lots, not sit on vacant lots as investments.
 Seattle will only become more expensive if our neighbors–who provide the essential services we need to keep local–cannot afford to live here.
 We can increase housing supply in this state in a way that leads to mixed-income, diverse neighborhoods, with greater walkability and, because of greater density, more successful small businesses.
 Resisting Authoritarianism Many Americans are rightly alarmed by this country’s rapid and dangerous slide into authoritarianism.
@@ -110,18 +110,23 @@ Yet rather than take responsible action to curb these harms, some of the most pr
 And our leaders in Olympia have, for far too long, done very little about it.
 We need urgent action to protect our kids from the negative impacts of social media.
 Washington should be leading, not following, other states’ efforts to regulate this industry.
-As your State Representative, I will: Pass a statewide ban on smartphone use in school, a common-sense issue that unites parents, educators, and students Help pass legislation to ban addictive feeds, endless scroll, and other problematic features of kids’ social media accounts, without requiring kids to provide more sensitive age-verification data to these companies Require that social media platforms permit all users to easily and intuitively choose the level of algorithmic control their apps use Work on data privacy legislation that gives all users the right to opt-out of certain kinds of data collection and to put strict timeframes on others Climate, the Environment, and Transit While the state legislature has set aggressive targets for renewable energy and decarbonization, it has not addressed the core reasons why our state is not on track to meet those targets.
-Indeed, our state is dead last in actually connecting wind and solar projects to the grid over the last few years.
+As your State Representative, I will: Pass a statewide ban on smartphone use in school, a common-sense issue that unites parents, educators, and students Help pass legislation to ban addictive feeds, endless scroll, and other problematic features of kids’ social media accounts, without requiring kids to provide more sensitive age-verification data to these companies Require that social media platforms permit all users to easily and intuitively choose the level of algorithmic control their apps use Work on data privacy legislation that gives all users the right to opt-out of certain kinds of data collection and to put strict timeframes on others Climate, the Environment, and Transit I am the son of an environmental lawyer, and have passionately defended the environment throughout my career.
+While we’ve made great strides in certain areas, in others, we are falling further behind: Renewable energy.
+While the state legislature has set aggressive targets for renewable energy and decarbonization, our state is dead last in actually adding renewable energy (e.g., wind and solar projects) to the grid over the last decade.
 Why?
-Because our legislature has neglected our electrical grid, allowing it to fall far behind peer states.
-Renewable energy cannot be sited or used if it cannot be connected to the grid, and it cannot be transported to the urban centers that need it if there is insufficient transmission capacity to bring it to them.
-That is where I have years of expertise.
-I am the son of an environmental lawyer, and have passionately defended the environment throughout my career–and much of that work was spent on transmission and clean energy issues.
+Because “Washington leaders paid little attention to” the nuts and bolts of delivery clean energy: transmission planning, renewable siting and permitting, interconnection, all of which are required to get clean energy to our homes.
+Indeed, “ [o]f the 469 large renewable projects that applied to connect to [our region’s] grid since 2015, only one has reached approval .” A former state senator rightly called this an “ embarrassing ” mistake by our legislators, including Rep.
+Pollet, who missed this issue for a decade.
+That is where I have expertise, and years of experience working on transmission and clean energy issues.
 For example, I was part of a small legal team that beat the oil and gas industry in lawsuits across the country to establish the legal foundation of state clean energy subsidies (like renewable energy credits) within the United States.
-Our legal wins are the reason Washington is able to subsidize clean energy at all.
-But in addition, I’ve: Sued to prevent harmful seismic airgun testing in the Atlantic ocean, a precursor to oil drilling; Sued oil companies for failure to remediate exhausted oil wells; Prosecuted environmental crime, including the first-ever prosecution that relied on tree DNA to prove the illegal logging of a protected species within a national forest; And fought alongside residents against a Warren Buffett-owned utility to hold it accountable for failing to prepare for an extreme weather event that sparked multiple wildfires.
-But renewable energy is not the only environmental issue we face.
+Our legal wins are the reason Washington is still able to subsidize clean energy at all.
+But I also worked on transmission planning issues, and understand the wholesale electricity markets and the complex interplay between federal and state authority over transmission.
+I’ll bring that lacking expertise on these issues to a legislature that has missed it over the last decade.
+The environment.
+I’ve spent years litigating environmental issues and protecting our oceans, air, water supply, trees and national forests, Sued to prevent harmful seismic airgun testing in the Atlantic ocean, a precursor to oil drilling; Sued oil companies for failure to clean up old oil wells; Prosecuted environmental crime, including the first-ever prosecution that relied on tree DNA to prove the illegal logging of a protected species within a national forest; Advised organizations how to defeat attempts to open the Arctic National Wildlife Refuge to drilling; And represented residents against a Warren Buffett-owned utility to hold it accountable for failing to prepare for an extreme weather event that sparked multiple wildfires.
+A Senior Director of Litigation at NRDC recently wrote of my campaign: “It’s a rare gift in this political moment to see someone who you unequivocally believe to be a smart, solutions-oriented, values-driven, all-around good human throw their hat in the political ring.
+Will Dreher is on that (very short!) list for me.” In Olympia, I will: Fight to prevent the diversion of Climate Commitment Act funds to meet general budgetary needs Require that existing data centers be subject to stringent environmental regulation that pays for renewable energy and help impose a moratorium on new data centers, since even a 100% renewable-energy powered new data center necessarily pulls those renewables away from displacing carbon emissions elsewhere Defend wildfire resiliency funding Work with our Attorney General’s office to eliminate the scourge of plastic pollution Transit.
 To reach our climate goals, we need a 21st-century transit network–delivered sometime in the 21st century.
-In Olympia, I will: Bring my expertise to bear on our state’s longstanding transmission and interconnection issues, which have prevented us from siting and connecting the amount of renewable energy we need and from taking full advantage of the renewable energy production we already have.
-Fight to prevent diversion of Climate Commitment Act funds to meet general budgetary needs Require that existing data centers be subject to stringent environmental regulation and block or slow new data center growth Defend wildfire resiliency funding Aggressively invest in transit solutions, like expanding light rail, regional rail networks, rapid bus lines, and bike trails and lanes, in order to accelerate our use of climate-friendly transportation options.
+In Olympia, I will: Aggressively invest in expanding our light rail and regional networks, by: extending the duration of Sound Transit’s bonds and increased the cap on its debt capacity; designating state highways to accelerate construction required for light rail stations; and prioritizing the use of general-use transportation funding to invest in our regional rail network and rapid bus lines.
+As a longtime bike commuter, I’ll also speed up long-awaited connections between our regional bike trail grid.
 Contact Will at will@willdreher.com Paid for by Friends of Will Dreher (D) PO Box 27113, Seattle, WA 98165

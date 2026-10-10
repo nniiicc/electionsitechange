@@ -31,7 +31,7 @@ SB 219 — Military Pension Tax Relief Supported increasing Delaware’s state i
 Your Voice Matters.
 If you have any questions, ideas, or concerns, please don't hesitate to reach out.
 Contact Bryan Shupe Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 24 Days 20 Hours 20 Minutes 48 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 23 Days 20 Hours 20 Minutes 36 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

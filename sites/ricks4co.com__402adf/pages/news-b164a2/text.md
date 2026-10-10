@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker August 10, 2026 Rep.
 Ricks Talks HD40 Priorities and the Road to 2027 Morgan Anker August 10, 2026 A few weeks ago at the National Conference of State Legislatures, Representative Ricks sat down with NCSL officials to talk about the issues shaping her district right now — from oil and gas development to HOA reform — and what's ahead as she heads into her fourth term at the State Capitol.
 Source: https://www.dropbox.com/scl/fo/zpxqqjqae8jjcnji21rhh/AMcn4RAEXnFOo51kumJyLjY/Naquetta%20Ricks%20CO%20Nina%20Cornell.mp4?rlkey=2oelwt8avo0cn1p85fc95ej0c&st=jfjqxtlm&e=1&dl=0 Morgan Anker July 23, 2026 Opinion: New BLM proposal and lease sales will devastate Colorado public lands, communities Morgan Anker July 23, 2026 Colorado lands and public’s say in what happens to them is on the line as BLM ramps up oil and gas leasing, proposes major program changes Source: https://coloradosun.com/2026/07/23/opinion-colorado-public-lands-blm-leasing-auction/ Morgan Anker April 30, 2026 Paschal, Ricks Bill to Protect Children Online Passes Morgan Anker April 30, 2026 “From social media platforms to game apps, this bill helps create a safer online environment for Colorado children,” said Rep.
@@ -82,4 +82,5 @@ In October, the Colorado LGBTQ Chamber of Commerce honored her as Government Off
 In the next legislative session, Ricks anticipates more work on consumer protection, education and immigration issues.
 She emphasized that she works on behalf of all her constituents.
 Source: https://www.voanews.com/a/liberia-native-finds-her-footing-as-new-colorado-lawmaker/6313534.html Older Posts Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

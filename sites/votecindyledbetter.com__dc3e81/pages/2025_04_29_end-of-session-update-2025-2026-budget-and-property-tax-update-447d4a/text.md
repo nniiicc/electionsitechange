@@ -18,7 +18,7 @@ To bolster accountability and taxpayers’ awareness, the legislation also estab
 This tool is designed to simplify for taxpayers the ability to compare their current tax bill with any proposed tax rate changes.
 As SEA 1 launches into effect, Indiana’s residents can anticipate not only a more manageable tax bill in the immediate future but also a framework poised to ensure continued fiscal scrutiny and reform.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Tagged budget , economy , finance , news , politics Post navigation Prev 2024-2025 Budget Priorities Leave a comment Cancel reply Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Tagged budget , economy , finance , news , politics Post navigation Prev 2024-2025 Budget Priorities Leave a Reply Cancel reply Comment Name Email Website Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

@@ -9,7 +9,7 @@ Where I Stand on the Issues Read the Policy Statements Read my Proposed Legislat
 View fullsize Nick Mitchell, South Salt Lake Councilman View fullsize Utah Education Association PAC View fullsize Tenille Taggart View fullsize Bryce Williams, M.Ed., SLCSD School Board View fullsize Mustafa Khader View fullsize Alisa Van Langeveld, Ph.D.
 View fullsize Deb Stone, Ph.D.
 View fullsize Mandy Lynn Danzig, LCSW View fullsize Planned Parenthood Action Council of Utah View fullsize SLCo Labor Caucus View fullsize Gail Boling View fullsize Billy Clouse View fullsize SLCo Veterans Caucus View fullsize Izaak Cervantes & Eddie Miranda View fullsize AFSCME Local 1004 View fullsize Equality Utah View fullsize Eli, Rose Park's Unicycle Kid View fullsize ... and I hope to earn your support as well!
-View fullsize SMART-TD Check Out the Full Endorsement List “ When addressing concerns, Stephen listens and provides thoughtful responses.
+View fullsize SMART-TD View fullsize Sierra Club Check Out the Full Endorsement List “ When addressing concerns, Stephen listens and provides thoughtful responses.
 He truly cares about other people and wants everyone to have a chance to succeed.
 He researches the issues to find real solutions, and he will do a great job in the state legislature. ” — Councilman Nick Mitchell “ Stephen brings fresh ideas and a sincere, compassionate dedication to public service.
 His focus is on improving the quality of life for everyone in our community, ensuring that people feel heard, supported, and represented.

@@ -5,14 +5,12 @@ Hills has continued fighting to move the measure forward, and it currently remai
 Now, following the recent arrests of two local teachers, Hills is renewing her call for lawmakers to bring SB 2381 to the Senate floor for a vote during Veto Session.
 The recent cases have brought new attention to the issue and Hills’ ongoing effort to strengthen protections for children.
 The renewed push has been highlighted by both the Chicago Tribune and Daily Herald.
-READ THE COVERAGE: Chicago Tribune — Lawmaker calls for closing loophole after teacher arrests Daily Herald — “We need to start to protect children” Share: More Posts Do You Know Where to Vote?
+READ THE COVERAGE: Chicago Tribune — Lawmaker calls for closing loophole after teacher arrests Daily Herald — “We need to start to protect children” Share: More Posts Darby Hills Earns Chicago Tribune Endorsement for State Senate State Senator Darby Hills has earned the Chicago Tribune Editorial Board’s endorsement in the race for Illinois’ 26th Senate District, with the board highlighting her willingness to work across the Do You Know Where to Vote?
 Early voting is happening NOW!
 We all know how quickly a day can get away from us, and you never know what might come up on Election Day.
 If you Endorsed by Algonquin Mayor Debby Sosine “Thank you to Algonquin Mayor Debby Sosine for your support!
 Working with local leaders helps me stay connected to what our communities need, and I’m proud to have Debby by Endorsed by Lake County Farm Bureau “Our farmers and farm families are an important part of the 26th District, and agriculture has a special place in our family’s history, too.
-My husband’s family has had a On the News: Fighting to Protect Children on E-Bikes “I’m a State Senator, but I’m a mom first.
-And when it comes to the safety of our kids, I take that responsibility seriously.
-“After hearing concerns from parents, police Prev Previous Coming Home with Darby Hills: The Roots That Shaped Darby Next Endorsed by Students for Illinois Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
+My husband’s family has had a Prev Previous Coming Home with Darby Hills: The Roots That Shaped Darby Next Endorsed by Students for Illinois Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
 They’re FREE!
 We’ll even deliver it and put it in your yard for you.
 All you have to do is fill out the form here , and we’ll take care of the rest!

@@ -5,7 +5,8 @@ Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
 To learn more about Abdul, visit our about page.
-El-Sayed Campaign Raises $1.77 Million in Q3, Sustains Grassroots Momentum Across Michigan Press Release October 13, 2025 Abdul’s Q3 haul shows deep, consistent grassroots support, with #% of donations under $# ANN ARBOR, MI – Today, U.S.
+Dr.
+Abdul El-Sayed to Launch “Open Our Healthcare” Townhall Tour Across Michigan Press Release October 14, 2025 ANN ARBOR, MI – With open enrollment looming, premiums set to skyrocket, and Republicans refusing to offer relief for the oncoming catastrophe they’ve created, millions of Michiganders are at risk of being priced out of their … El-Sayed Campaign Raises $1.77 Million in Q3, Sustains Grassroots Momentum Across Michigan Press Release October 13, 2025 Abdul’s Q3 haul shows deep, consistent grassroots support, with #% of donations under $# ANN ARBOR, MI – Today, U.S.
 Senate candidate Dr.
 Abdul El-Sayed announced $# million raised in the third quarter of 2025, driven … Abdul Blasts Mike Rogers’ call for a federal invasion of Detroit: “Go back to Florida, Mike.” Press Release September 4, 2025 ANN ARBOR, MI – Tonight, U.S.
 Senate Candidate Dr.

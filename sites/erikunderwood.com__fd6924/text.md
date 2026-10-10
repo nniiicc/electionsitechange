@@ -51,7 +51,7 @@ About Erik Building lasting impact through community engagement and through a st
 This people-powered campaign needs volunteers to knock doors, make calls, and spread our message of real change.
 Join our team and help us fight for working families across Colorado.
 Volunteer Calendar Next events Sed ut perspiciatis unde omnis iste natus ut perspic iatis unde omnis iste perspiciatis ut perspiciatis unde omnis iste natus.
-View More 07 Mar, 2024 Building tomorrow’s politicians New York March 7, 2024 - March 7, 2027 $150 07 Mar, 2024 From revolution to representation New York March 7, 2024 - March 7, 2027 Free One Colorado....
+View More 07 Mar, 2024 From revolution to representation New York March 7, 2024 - March 7, 2027 Free 07 Mar, 2024 Building tomorrow’s politicians New York March 7, 2024 - March 7, 2027 $150 One Colorado....
 Embracing Our Differences Our blog Latest news about our activities Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco.
 Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

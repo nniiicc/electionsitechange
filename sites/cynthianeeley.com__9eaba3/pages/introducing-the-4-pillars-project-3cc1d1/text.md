@@ -8,8 +8,7 @@ Carmel Baptist Church in partnership with GHS and the City of Flint launched the
 This pilot project will bring Free MENTAL HEALTH SERVICES to our local churches 3 times a week EVERY week rotating amongst 4 Inner-City Flint Churches.
 As our Nation and Community battles Mental Illness, this is a huge BREAKTHROUGH in tearing down barriers and stigmas related access to Mental Health needs, that can hopefully lead to a reduction in violence in our neighborhoods!
 We are prayerful and optimistic!
-Share: twitter facebook youtube Post navigation Previous post 18th Annual Golden Egg Hunt Next post State of the State You May Also Like Law News September 10, 2021 Celebrating our Men & Women frontline and remembering 9/11 Priorities & Structure Rights & Obligations October 16, 2023 Rep.
-Cynthia Neeley Thriving Together with the NAACP Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Share: twitter facebook youtube Post navigation Previous post 18th Annual Golden Egg Hunt Next post State of the State You May Also Like Family News April 14, 2022 18th Annual Golden Egg Hunt Family News November 18, 2020 Richfield Early Learning Center Team free food give away Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

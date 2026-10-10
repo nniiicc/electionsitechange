@@ -1,9 +1,7 @@
 Icon-email Instagram Icon-youtube-v Icon-facebook Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Icon-email Instagram Icon-youtube-v Icon-facebook 10 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 8/30/2026 August 30 - 10/9/2026 Now Select date.
-August 2026 Sun 30 Taiwanese Market and Festival August 30 @ 12:00 pm - 6:00 pm Bridgewater Commons Baja-B-Que, 400 Commons Way,, NJ, New Jersey Hope to see you at the Taiwanese Market and Festival!
-Republican Candidate for NJ’s US Senate Seat 2026 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
+Find Events Event Views Navigation List List Month Day #ago 9/3/2026 September 3 - 10/10/2026 Now Select date.
 September 2026 Thu 3 Candidates night – Medford September 3 @ 6:00 pm - 8:00 pm Ott's Medford 656 Stokes Road, Medford, NJ, United States Hope to see you and the NJ Federated Republican Women of Burlington County at Ott's Tavern, Thursday, September 3rd.
 Republican Candidate for NJ’s US Senate Seat 2026 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
 Wed 9 Randolph Twp, Morris County September 9 @ 6:00 pm - 9:00 pm Morris County Republican Headquarters 51 Gibraltar Dr, Morris Plains, New Jersey, NJ, United States Join us in Randolph Twp, Morris County for campaign Victory Rally!
@@ -26,6 +24,9 @@ Mon 5 Sayreville Town Hall October 5 @ 7:00 pm - 9:00 pm 240 MacArthur Ave, Sayr
 Republican Candidate for NJ’s US Senate Seat 2026 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
 Thu 8 Debate with Cory Booker October 8 @ 6:30 pm - 9:30 pm 2083 Lawrenceville Rd, Lawrenceville, NJ 08648, United States.
 Tune in for my debate with Cory Booker - Rider University, Thursday, October 8th; 6:30pm.
+Republican Candidate for NJ’s US Senate Seat 2026 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
+Fri 9 Town Hall Ocean County October 9 @ 6:00 pm - 9:00 pm 815 Route 37 W, Toms River, NJ 08755-5015, United States Ocean County Town Hall event - Friday, October 9th at the Clarion in Toms River - 6pm start.
+Hope to see you there.
 Republican Candidate for NJ’s US Senate Seat 2026 | Navy Veteran | Attorney | Author | Pro 2A | Pro Parental Rights | Pro Life | Pro America | Help me defeat Cory Booker and give NJ the representation it deserves!
 Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file MAKE A CONTRIBUTION TODAY Contributions by check are made out to: The Committee to Elect Justin Murphy 20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088 Donate CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations © Jersey Justin for Senate.
 All Rights Reserved.

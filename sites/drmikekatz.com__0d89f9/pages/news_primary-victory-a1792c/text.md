@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Press Release · September 15, 2026 Dr.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Press Release · September 15, 2026 Dr.
 Mike Katz Wins Republican Primary for U.S.
 Senate On November 3rd, it's time to fire Chris Coons.
 For Immediate Release Press Contact: Hunter@drmikekatz.com NEWARK, DE — Dr.

@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation LaToya for Us Home Right For Us Policy Endorsements Volunteer Donate Events Campaign Store Contact Us LaToya for Us Home Right For Us Policy Endorsements Volunteer Donate Events Campaign Store Contact Us More Home Right For Us Policy Endorsements Volunteer Donate Events Campaign Store Contact Us It's Time to Put Us First I'm a mom who decided to stop waiting.
+Search this site Embedded Files Skip to main content Skip to navigation It's My Birthday Celebrate with Me LaToya for Us Home Right For Us Policy Endorsements Volunteer Donate Events Campaign Store Contact Us LaToya for Us Home Right For Us Policy Endorsements Volunteer Donate Events Campaign Store Contact Us More Home Right For Us Policy Endorsements Volunteer Donate Events Campaign Store Contact Us It's Time to Put Us First I'm a mom who decided to stop waiting.
 Stop waiting for someone to care.
 Stop waiting for someone to listen.
 Stop waiting for someone to run.

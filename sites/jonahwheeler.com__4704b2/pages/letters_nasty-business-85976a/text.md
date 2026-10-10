@@ -1,11 +1,11 @@
-Back to all Nasty Business Oct 1, 2026 September 2026 Recount - 15 September - By Todd Bookman NHPR When I first ran for office, many progressive politicos here in the district and abroad attempted to use me as a cudgel to get Representative Peter Leishman out of office.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Nasty Business Nasty Business Nasty Business Oct 1, 2026 Oct 1, 2026 September 2026 Recount - 15 September - By Todd Bookman NHPR Recount - 15 September - By Todd Bookman NHPR 0:00 / 1:34 When I first ran for office, many progressive politicos here in the district and abroad attempted to use me as a cudgel to get Representative Peter Leishman out of office.
 They’d tell me, ’He’s a secret Republican.’ - ‘He’s only in politics for himself.’ - ‘He gets off on the attention from his Republican colleagues and doesn’t work well with his caucus members.’ These people were hoping that I would blindly accept these assertions, and run with them as truth.
 They were hoping that I would make my entire campaign about the ferocious rumors they were telling me about Leishman and his record in the State House.
 I may very well be naive, but I know I’m not as naive as to blindly accept what a politician or politico is telling me as truth.
 Now, Peter has been in the State House longer than I have been on this planet.
 I was open to believing these rumors.
 It’s natural to have a skepticism of anyone who has survived in politics as long as he has; and I had it.
-Peterborough Rabblerousers - 27 September - By Kath Allen For a number of reasons, the ongoings of the legislature for the average person are opaque.
+Peterborough Rabblerousers - 27 September - By Kath Allen Peterborough Rabblerousers - 27 September - By Kath Allen For a number of reasons, the ongoings of the legislature for the average person are opaque.
 I’d say it’s mostly due to a lack of a fourth estate, the press, but that’s a story for another letter.
 Nonetheless, for someone looking in, all they see are the minute and a half clips of the eye-catching bills that our one television news station runs, or if they’re really paying attention then they’ll get a longer summary of those same bills through the print news.
 The true work of the legislature, the back and forth between members, the fluid nature of the process, and the unique characteristics of it; are often lost context in the flurry of exciting media stories about the rancorous moments.
@@ -17,7 +17,7 @@ Second of which being that I did not wait to get involved in politics.
 As soon as I was able to get a ride from one person or the other, I was at every event I could be.
 Which quickly turned into volunteer opportunities, which soon after that landed me on the board of an issues based non-profit working to advance working class politics - all leading to a job on staff of that organization doing education policy organizing in Nashua.
 All of this work had me going to the State House for a variety of reasons, and directly engaging in the process as a budding adult citizen.
-Star of the show - 15 September 2026 1250 - By JoW When I chose to run against my districts two incumbents, Peter, and Ivy, the other member representing our district who had been in office just under half my entire life at that point.
+Star of the show - 15 September 2026 1250 - By JoW Star of the show - 15 September 2026 1250 - By JoW When I chose to run against my districts two incumbents, Peter, and Ivy, the other member representing our district who had been in office just under half my entire life at that point.
 I did so not because of the votes or behaviors displayed by my incumbents, but because I believed I could do a better job.
 A better job at engaging with the process of a legislature which hears every bill, a better job at fighting back against those who aim to destroy it, a better job at addressing a fast shifting digital world.
 After I concluded in my head and heart that I would put my name onto the ballot in 2022, I knew that I had an obligation to alert the incumbents as well.
@@ -37,7 +37,7 @@ I left the experience of sitting down with both incumbents to inform them of my 
 Peter could have easily ignored my email, or said in any number of polite ways to buzz off, but instead he bought me dinner and gave me wisdom.
 There’s no doubt that he was sizing me up as an opponent, but he did so respectfully and with grace.
 That matters.
-Peterborough Feminists - 8 September 2026 1509 - By JoW For the entirety of that first election, he operated with respect and grace.
+Peterborough Feminists - 8 September 2026 1509 - By JoW Peterborough Feminists - 8 September 2026 1509 - By JoW For the entirety of that first election, he operated with respect and grace.
 As it became clear that I was no write-off opponent, he didn’t snap back.
 He didn’t go around saying that a black person could never win in Peterborough as another candidate did.
 Every time we saw each other, we exchanged a pleasantry, or a joke.
@@ -59,7 +59,7 @@ Proposed knowing that it will fail, but giving the opportunity to make a speech 
 The three bills being used by the opposition to my incumbency in this current election, the red flag law, a ban on guns within 1000 feet of any educational facility, and a ban on guns at polling places; are specific examples of what I’m talking about.
 When the ten democrats on the committee caucused on these bills, we had a fairly pointed conversation when it was clear that three of us had objections to the specific language of the bills.
 Which if passed would lead to consequences ranging from disastrous, to unconstitutionally disastrous.
-Fire and Frankie - 30 Sept 2026 1457 - By JoW In response to our objections, a caucus leader in a calm, condescending voice that I will never forget said - sometimes ‘our job is to throw spaghetti on the wall.
+Fire and Frankie - 30 Sept 2026 1457 - By JoW Fire and Frankie - 30 Sept 2026 1457 - By JoW In response to our objections, a caucus leader in a calm, condescending voice that I will never forget said - sometimes ‘our job is to throw spaghetti on the wall.
 This issue matters to our voters and that’s all that should matter to us.’ Well, I’m not in the legislature for a food fight, I’m here to legislate.
 To put the best law on the books, and repeal bad ones.
 To protect the constitutionally enshrined natural rights recognized by our government.
@@ -82,7 +82,7 @@ What members need to understand is, your seat, your license plate, that feeling 
 That includes making hard votes knowing that those votes will require explanation.
 When elected, you get two years, that is it.
 As soon as you begin gamifying the decisions you make in the state house; ‘oh if I stay silent on this then I can do that.’ - ‘If I do the what’s wrong now, I can do what’s right later.’ Then you will lose yourself.
-The Egg Store - 28 Sept 2026 1405 - By JoW Politics is a nasty business.
+The Egg Store - 28 Sept 2026 1405 - By JoW The Egg Store - 28 Sept 2026 1405 - By JoW Politics is a nasty business.
 It seems easier to operate on rumor, and win by agitating - than it is to operate on principle, and win by engaging with the ideas - not the personalities.
 Making politics a little less nasty, will happen when we have people who are unafraid to bend to the whims of the political winds.
 People, especially elected legislators, who know that the right decision may not always be the most popular; but that doesn’t make it the wrong one.
@@ -93,7 +93,7 @@ If you took some of the rumors, advertisements, and headlines at face value; you
 Responding to this is a fine line to walk.
 People who believe that, have genuine real concerns which I in no way want to dismiss.
 However the source of those rumors can’t be ignored.
-Stella Bella Blue - 6 Sept 2026 1927 - By JoW In this election, I’ve chosen to instead simply focus on the vision.
+Stella Bella Blue - 6 Sept 2026 1927 - By JoW Stella Bella Blue - 6 Sept 2026 1927 - By JoW In this election, I’ve chosen to instead simply focus on the vision.
 The legislature must collaborate on our tax system so that we make it one that doesn’t serve as a second mortgage, a sensibly funded education system which gives the children in it the best education available to us, an environment that will be here for the children of our grandchildren.
 This is an elevator pitch, but it is also the truth.
 These are the top issues before the legislature, not to mention the other budgetary issues facing the state, artificial intelligence and the million other small grievances the legislature must act on.
@@ -112,4 +112,4 @@ Nonetheless, it is an honor to serve.
 To participate in this process.
 To be a witness to the mechanics of our great Republic.
 I can’t thank you enough for this opportunity.
-Community Supper - 23 Sept 2026 1741 - By JoW The Power of the Sun › Back to all
+Community Supper - 23 Sept 2026 1741 - By JoW Community Supper - 23 Sept 2026 1741 - By JoW The Power of the Sun › The Power of the Sun › The Power of the Sun › Back to all

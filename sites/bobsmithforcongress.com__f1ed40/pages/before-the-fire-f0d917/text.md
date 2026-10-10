@@ -45,7 +45,11 @@ Ask Carbajal to answer for roll call 598.
 Your ballot is here.
 Add your name and we will put the question to him.
 Or fund the campaign directly.
-Chip in Home Why Bob Issues Common Ground The Choice Veterans for Bob Latinos con Bob District Map Get Involved Contact Privacy Policy Terms of Use Bob Smith is a retired member of the United States Navy.
+Chip in Out in the district Parades, town halls and front porches, across all three counties.
+Community day on campus.
+Listening, mostly.
+Car shows count too.
+Home Why Bob Issues Common Ground The Choice Veterans for Bob Latinos con Bob District Map Get Involved Contact Privacy Policy Terms of Use Bob Smith is a retired member of the United States Navy.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
 By providing your phone number you consent to receive SMS/MMS messages from Bob Smith for Congress.
 Msg & data rates may apply; frequency varies.

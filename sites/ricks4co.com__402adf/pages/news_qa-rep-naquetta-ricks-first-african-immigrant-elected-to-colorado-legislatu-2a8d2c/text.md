@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker June 23, 2021 Q&A: Rep.
 Naquetta Ricks, first African immigrant elected to Colorado Legislature Morgan Anker June 23, 2021 Freshman lawmaker sponsored bills aimed at helping people grow businesses, build credit BY: FAITH MILLER - JUNE 22, 2021 5:00 AM This week, States Newsroom outlets including Colorado Newsline featured refugees from around the country in honor of World Refugee Day .
 Colorado state Rep.
@@ -106,4 +106,5 @@ I served on the Business Affairs and Labor Committee.
 I also served on the (Public and Behavioral) Health and Human Services Committee.
 And in all of those committees, my work experience as a small business owner, or working in corporate America, or just the experience that I gained through the community always came to bear … (as) a single mom, a Black woman, small business owner — whatever it is.
 Source: https://coloradonewsline.com/2021/06/22/qa-rep-naquetta-ricks-first-african-immigrant-elected-to-colorado-legislature/ Newer Post Colorado's immigrants now have more protections, benefits in state law Older Post Our legislation aims to bring accountability and transparency to the insurance industry Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

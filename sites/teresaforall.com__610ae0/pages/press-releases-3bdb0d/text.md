@@ -1,4 +1,4 @@
-top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+top of page About Endorsements Issues Media News Press Releases Photos Videos RECA Volunteer Contribute More Use tab to navigate through the menu items.
 Press Releases Teresa Leger Fernandez Re-Elected to Serve New Mexico’s Third District November 5, 2024 SANTA FE, NM - Teresa Leger Fernandez won re-election for New Mexico’s 3rd Congressional District tonight.
 The race was first called at 7:49 p.m.
 MT by KOAT, and called by multiple media outlets thereafter.

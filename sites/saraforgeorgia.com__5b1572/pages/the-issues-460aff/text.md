@@ -1,4 +1,4 @@
-0 Skip to Content FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in The issues I'm not running on vague promises.
+0 Skip to Content FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in The issues I'm not running on vague promises.
 Here's what I'll fight for, and why each of these issues is personal to me.
 The issues I'm not running on vague promises.
 Here's what I'll fight for, and why each of these issues is personal to me.

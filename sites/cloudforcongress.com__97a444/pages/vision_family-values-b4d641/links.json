@@ -61,10 +61,6 @@
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/2ndamendment/"
-},
-{
-"text": "Read More »",
 "href": "https://www.cloudforcongress.com/vision/border-security/"
 },
 {
@@ -72,12 +68,16 @@
 "href": "https://www.cloudforcongress.com/vision/standing-with-israel/"
 },
 {
+"text": "Read More »",
+"href": "https://www.cloudforcongress.com/vision/veterans/"
+},
+{
 "text": "Standing with Israel",
 "href": "https://www.cloudforcongress.com/vision/standing-with-israel/"
 },
 {
-"text": "The 2nd Amendment",
-"href": "https://www.cloudforcongress.com/vision/2ndamendment/"
+"text": "Veterans",
+"href": "https://www.cloudforcongress.com/vision/veterans/"
 },
 {
 "text": "Volunteer",
@@ -93,15 +93,15 @@
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/2ndamendment/"
-},
-{
-"text": "[image]",
 "href": "https://www.cloudforcongress.com/vision/border-security/"
 },
 {
 "text": "[image]",
 "href": "https://www.cloudforcongress.com/vision/standing-with-israel/"
+},
+{
+"text": "[image]",
+"href": "https://www.cloudforcongress.com/vision/veterans/"
 },
 {
 "text": "[no text]",

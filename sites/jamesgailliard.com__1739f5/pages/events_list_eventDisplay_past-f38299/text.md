@@ -1,0 +1,26 @@
+Skip to content Skip to footer Home Donate About James Our Team About Senate District 11 Why I am Running Policy Positions Economics & Workforce Educational Attainment Food & Nutrition Criminal Justice Healthcare Access Digital & Broadband Housing & Community Development Civic Participation and Government Accountability Watch Live Events In The News Blogs 252-231-3211 Past Events Close Home Donate About James Our Team About Senate District 11 Why I am Running Policy Positions Economics & Workforce Educational Attainment Food & Nutrition Criminal Justice Healthcare Access Digital & Broadband Housing & Community Development Civic Participation and Government Accountability Watch Live Events In The News Blogs facebook-1 twitter-x instagram linkedin Have Questions? james@jamesgailliard.com Want to Work with Us?
+Send Brief Wish to Support Us?
+Donate Now 12 events found.
+Events Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation List List Month Day #ago 11/1/2025 Nov 1, 2025 - 10/10/2026 Now Select date.
+November 2025 Sat 1 Spring Hope Fundraiser Featured Nov 1, 2025 @ 3:00 pm - 5:00 pm Spring Hope, NC.
+Reception in support of James Gailliard with special guest Elaine Marshall * Tickets: $25 Young Democrat/Public Employee | $50 Ticket | $125 Neighbor (Sponsor) | $250 Supporter (Sponsor) | $500 Friend… $25.00 – $50.00 January 2026 Sun 11 Birthday Bash January 11 @ 12:00 pm - 2:00 pm Join us on Saturday, January 10th, 2026, from 12:00PM to 2:00 PM for a special birthday celebration!
+Tickets: $15 Young Democrat/Public Employee | $25 Ticket | $61 Birthday Buddy (Sponsor) | $100 Neighbor… February 2026 Wed 25 Black Leadership & Legacy Fundraiser February 25 @ 5:30 am - 7:30 pm Join us on Wednesday, February 25th, from 5:30–7:30 PM for a special evening in support of Black leadership in the North Carolina State Senate with Senator Natalie Murdock.
+RSVP HERE or at secure.actblue.com/donate/gailliard-bhm.
+Location will… Sat 28 Team Up Canvassing February 28 @ 10:00 am - 12:30 pm Join us on Saturday, February 28th at 10:30 AM to canvass in Louisburg, NC, with Team Up to flip Senate District 11 so we can break the Republican supermajority in the State Senate! … March 2026 Sun 1 Building Bridges: A Fireside Chat with NC Democrats March 1 @ 2:00 pm - 4:00 pm Word Tabernacle Church 821 Word Plz., Rocky Mount, NC, United States Join us on Sunday, March 1st, from 2:00-4:00 PM with Chair Anderson Clayton, Rep.
+Dante Pittman and Rep.
+Rodney Pierce for an open conversation with voters about North Carolina politics and issues important to them… June 2026 Sun 7 Knock Doors with Pastor G and Curtis McRae!
+June 7 @ 2:00 pm - 5:00 pm Henderson, NC Henderson, NC, United States Join us on Sunday, June 7th at 2:00 PM to canvass in Youngsville, NC, with Curtis McRae to flip Senate District 11 so we can break the Republican supermajority in… Mon 8 Pig Pickin’ Fundraiser June 8 @ 5:30 pm - 7:30 pm Rocky Mount rocky mount, NC, United States Join us on Monday evening, June 8th, from 5:30-7:30 PM for a special evening in support of Black leadership in the North Carolina State Senate with Senator Natalie Murdock.
+RSVP… Sat 27 Knock Doors with Pastor G and Curtis McRae!
+June 27 @ 3:00 pm - 6:00 pm Henderson, NC Henderson, NC, United States Join us on Saturday, June 27th at 10:00 AM to canvass in Henderson, NC, with Candidate Curtis McRae to flip Senate District 11 so we can break the Republican supermajority… July 2026 Wed 1 Knock Doors with Pastor G and Lorenza Wilkins!
+July 1 @ 5:00 pm - 8:00 pm Rocky Mount rocky mount, NC, United States Join us on Wednesday, July 1st at 5:00 PM to canvass in Rocky Mount, NC, with Candidate Lorenza Wilkins to flip Senate District 11 so we can break the Republican… September 2026 Sun 27 Nash County Town Hall September 27 @ 1:00 pm - 2:30 pm Greater Joy Baptist Church Rocky Mount, NC, North Carolina Join us on Sunday, September 27th at 1:00 PM for a Rocky Mount Town Hall!
+Hear directly from James, ask questions, bring a friend, and talk about the issues that… Mon 28 Franklin County Town Hall September 28 @ 6:00 pm - 7:30 pm Youngsville Community Center Youngsville, North Carolina Join us on Monday evening, September 28th at 6:00 PM for a Youngsville Town Hall!
+Hear directly from James, ask questions, bring a friend, and talk about the issues that… October 2026 Sat 3 Fall Fest Fundraiser October 3 @ 12:00 pm - 3:00 pm Join us on Saturday afternoon, October 3rd, from 12:00-3:00 PM for a special Fall Festival in support of James Gailliard for NC Senate with special guest former Congressman GK Butterfield.… Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file James D.
+Gailliard James D.
+Gailliard—affectionately known as “Pastor G”—is a visionary leader, accomplished public servant, and trusted voice at the intersection of faith, justice, and community transformation.
+Office 9121 W Mount Dr.
+Rocky Mount, NC 27803 info@jamesgailliard.com 252-231-3211 Links Home About James Policy Positions Events Contact Us Get in touch facebook-1 twitter-x instagram linkedin Disclaimer: Paid For By Citizens To Elect James D.
+Gailliard James D.
+Gailliard © #.
+All rights reserved.

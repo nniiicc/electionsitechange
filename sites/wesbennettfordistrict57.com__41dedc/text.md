@@ -1,1 +1,5 @@
-
+Home About Wes Endorsements What Matters to You?
+Volunteer Donate Home About Wes Endorsements What Matters to You?
+Volunteer Donate D o n a t e t o W e s l e y B e n n e t t ’ s C a m p a i g n DONATE District 57 District 57 Working Hard for Hoosiers Wes will work hard: Fighting for Conservative Values Protecting the Unborn Defending the Second Amendment Supporting our First Responders Backing our Local Communities Working for Small Businesses and Jobs Guarding Families and Hoosier Values Continuing to Fight for Property Tax Reform Supporting our Hoosier Farmers A Proven Leader for You Private and Public Sector Leadership x 40 Years in: Regulation Fiscal Management Strategic Governance Wes Bennett is a collaborative , results-driven leader skilled in stakeholder engagement, national regulatory advocacy, and delivery of sustainable solutions.
+Leading Local and Statewide Government Initiatives on: Infrastructure funding Property tax policy Oversight for 2,500+ local government entities Modernizing statewide financial systems Advising policy makers on regulatory and fiscal policy Questions? © # Paid for by Friends of Wes Bennett Home About Wes Volunteer Donate What Matters to You?
+Endorsements

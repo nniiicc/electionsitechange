@@ -1,12 +1,5 @@
 About Meet Greg Ballard Podcast Meet Greg News & Updates Greg’s Plan Voters Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission Support Donate Get a Yard Sign Buy a Shirt Volunteer CONTRIBUTE Meet Greg Ballard Greg’s Plan Voter’s Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission News and Updates Support Donate Get a Yard Sign Buy a Shirt Volunteer Subscribe Contribute Greg’s Plan for the Secretary of State’s Office The Indiana Secretary of State oversees all elections.
-It is arguably the second most important statewide office after governor. ( Learn more about what the Secretary of State does here .) Safeguarding Indiana’s Elections The most important responsibility of Indiana’s Secretary of State is overseeing our elections.
-Hoosiers deserve confidence that elections are administered fairly, professionally, and without partisan influence.
-As Secretary of State, Greg will make a clear commitment: he will not endorse, donate to, or raise money for candidates whose elections his office oversees.
-Many voters are surprised to learn that the Secretary of State is currently allowed to campaign for candidates whose elections they help administer.
-That’s wrong.
-Greg believes the person responsible for overseeing elections should act with the highest level of independence and neutrality.
-He will ensure Hoosiers can trust that elections are being administered fairly, without political favoritism.
-A Statewide Voter Guide for Every Hoosier Voting should be simple, clear, and accessible.
+It is arguably the second most important statewide office after governor. ( Learn more about what the Secretary of State does here .) A Statewide Voter Guide for Every Hoosier Voting should be simple, clear, and accessible.
 Yet many voters arrive at the polls unsure about what offices are on the ballot or what those positions actually do.
 Greg will work to create Indiana’s first statewide voter guide, similar to those already used successfully in other states.
 The guide would: Explain the responsibilities of each office on the ballot Provide neutral information about candidates Help voters better understand the choices they are making The guide will also include a sample ballot, allowing voters to review their choices ahead of time and bring their marked sample to the polls.
@@ -57,16 +50,26 @@ This plan creates a common baseline of practical knowledge and best practices so
 Indiana needs a professional election-training system built around demonstrated competency, clear authority, practical experience, accountability, and continuous improvement.
 This is what election security actually looks like: not slogans, but making sure the people running our elections — including the poll workers on the front lines every Election Day — have the training and support to do it right, every time.
 It's a plan built to work, using the people and the laws already in place.
-New Law to Make Secretary of State Nonpartisan Proposal would bar the state's chief election officer from endorsing, fundraising, or donating to candidates — the same standard Indiana already holds judges to The Secretary of State serves as Indiana's chief election official and chairs the State Recount Commission, which resolves disputed elections for federal, statewide, and state legislative office.
-Ballard believes that an office with that much influence over the mechanics and outcomes of Indiana elections should be held to the same standard of political independence Indiana already demands of its judges.
-Independent Indiana Secretary of State Candidate Greg Ballard called on the Indiana General Assembly to bar the state’s chief election officer from endorsing, fundraising for or donating to candidates once in office.
-Ballard also made a personal commitment to refrain from partisan political activity while in office and challenged every other candidate in the race to make the same pledge.
-Under the Indiana Code of Judicial Conduct, judges are barred from endorsing candidates, fundraising for political parties, or holding party leadership positions — restrictions designed to protect public confidence in an impartial judiciary.
-Ballard's proposal would apply substantially the same restrictions to the office of Secretary of State.
-The proposed legislation would prohibit a sitting Secretary of State from publicly endorsing or opposing candidates, fundraising or donating to parties and campaigns, holding party leadership positions, or serving as a featured speaker or honoree at partisan political events in Indiana.
-It would preserve the Secretary of State's right to vote, register with a party, and campaign on their own behalf for their own re-election.
-Complaints would be filed with the Indiana State Ethics Commission, with the ability to proceed to court if the Commission fails to act.
-Ballard's campaign has released a one-page summary and FAQ detailing the proposal.
+New Law to Make Secretary of State Nonpartisan As Secretary of State, Greg Ballard will establish a hands-on election training program for county clerks and poll workers, built and taught by the people who actually know how to run elections in Indiana: experienced county clerks themselves, working alongside the SOS's own staff.
+A Clerk Training Boot Camp An in-person training program for new and current clerks, run in a "sandbox" version of the statewide voter registration system — a safe practice environment where clerks can actually work through setting up an election, processing ballots, and handling problems, without touching live data.
+This is a complement to the state's existing legal-update sessions, not a replacement for them — it's the hands-on, how-to-actually-do-the-job piece that's been missing.
+It will be built and taught by a team of experienced, sitting and former county clerks.
+Finally Funding and Implementing Poll Worker Training — the Smart Way State law already authorizes the Secretary of State office to provide standardized poll worker and county election official training.
+It's never been funded or built.
+The Secretary of State's office can't train every poll worker in every precinct directly — but it can equip county clerks to do it well, consistently, and with real support.
+Ballard's plan does that through three steps: A standardized SOS curriculum.
+The office will produce a professional training curriculum — video modules and printed materials, customized to the specific voting systems used across Indiana's counties — covering the issues that come up over and over: acceptable voter ID, provisional ballots, electioneering rules, chain-of-custody paperwork, and keeping lines moving without cutting corners.
+Every county starts from the same playbook.
+Train-the-trainer for Clerks.
+Clerk boot camp attendees are trained not just to run elections, but to deliver poll worker curriculum locally — with the materials, timing, and talking points to run an efficient in-person session for their own poll workers.
+SOS regional field staff support counties directly.
+The Secretary of State's office already has staff positioned around the state.
+This plan puts those existing employees to work helping county clerks plan and run local poll worker sessions — answering questions, troubleshooting, and making sure every county, especially smaller ones without the staff to build training themselves, has real support.
+Consistency Across All 92 Counties Right now, Indiana effectively runs 92 different election systems, because there's no shared standard for the hands-on side of how clerks and poll workers are trained.
+This plan creates a common baseline of practical knowledge and best practices so that every Hoosier's vote is handled the same rigorous way, no matter what county they live in.
+Indiana needs a professional election-training system built around demonstrated competency, clear authority, practical experience, accountability, and continuous improvement.
+This is what election security actually looks like: not slogans, but making sure the people running our elections — including the poll workers on the front lines every Election Day — have the training and support to do it right, every time.
+It's a plan built to work, using the people and the laws already in place.
 What does the Indiana Secretary of State do?
 The Indiana Secretary of State is one of the state’s five constitutional officers and serves as the third-highest office in Indiana state government.
 The position is elected statewide every four years, and plays an important role in both our democratic process and our state’s economy.

@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today Back to All Events Pack Kids' Meals with Jade!
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today Back to All Events Pack Kids' Meals with Jade!
 Sunday, February 22, 2026 3:00 PM 5:00 PM Google Calendar ICS Hey there!
 Join Jade for a fun-filled Kid's Meal Packing Party.
 Bring your family to come together to pack nutritious meals for children in need.
@@ -12,7 +12,8 @@ Reserve your spot on our packing team HERE.
 Previous Previous February 10 Serve with Jade at the Houston Food Bank Next Next February 28 Ride with Jade in the Eado Bike Company's Black History Tour STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
-SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Questions for Team Future?
+Email info@jadesimmonsforsenate.com SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
 Senate .
 We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
 You may unsubscribe at any time.

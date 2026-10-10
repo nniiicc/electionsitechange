@@ -1,7 +1,7 @@
 About Jamie Jamie for SD1 Endorsements Support Jamie Contact us Jamie for SD1 Endorsements Support Jamie Contact us Rooted in Colorado, Committed to Our Future Born and raised in Colorado, Jamie Jeffery has spent over three decades teaching and advocating for better education.
 As a single mom and homeowner in Lochbuie, she brings real-life experiences and deep community connections.
 Jamie’s mission is to ensure that every voice in District 1—from urban neighborhoods to rural farms—is represented with fairness and respect.
-Campaign Literature Click to "Learn more" about Colorado Senate District 1.
+Campaign Literature Campaign Platform Click to "Learn more" about Colorado Senate District 1.
 Learn more ©Copyright.
 All rights reserved.
 Paid for byJamie Jeffery for Colorado Senate District 1.

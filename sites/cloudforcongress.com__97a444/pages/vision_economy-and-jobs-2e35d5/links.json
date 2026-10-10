@@ -60,10 +60,6 @@
 "href": "https://www.mintandvine.com"
 },
 {
-"text": "National Defense",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
-},
-{
 "text": "PrevFederal Spending and Debt",
 "href": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/"
 },
@@ -77,7 +73,11 @@
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
+"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
+},
+{
+"text": "Religious Liberty",
+"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
 },
 {
 "text": "Volunteer",
@@ -101,7 +101,7 @@
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/national-defense/"
+"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
 },
 {
 "text": "[no text]",

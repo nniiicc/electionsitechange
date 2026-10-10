@@ -32,5 +32,4 @@ Please update your selection or check the consent box(es) above to continue.
 Heads up about texts: Standard message & data rates may apply.
 Reply STOP at any time to stop receiving texts.
 Carriers are not liable for delayed or undelivered messages.
-Sign Me Up We never sell or share your information.
-Privacy Policy Jeremy 4 TN Unite for Progress Donate Privacy Policy Terms of Service Update Communication Preferences [email protected] Paid for by Jeremy 4 TN, authorized by Jeremy Bromwell. · Tellico Plains, TN
+Jeremy 4 TN Unite for Progress Donate Privacy Policy Terms of Service Update Communication Preferences [email protected] Paid for by Jeremy 4 TN, authorized by Jeremy Bromwell. · Tellico Plains, TN

@@ -69,7 +69,24 @@ FOREVER FOURTEEN.
 Xiarhos Announces Committee Approval of “Colby’s Law” Xiarhos Committee 2025-10-24T05:21:09-04:00 Rep.
 Xiarhos Supports Legislation to Protect Children Receiving State Services and in Foster Care Xiarhos Committee 2025-10-21T11:07:30-04:00 Rep.
 Xiarhos Recognizes National Move Over Day Xiarhos Committee 2025-10-21T10:08:52-04:00 Rep.
-Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK Xiarhos Committee 2025-09-11T09:42:15-04:00 Xiarhos Pushes to Repeal Cashless Bail Xiarhos Committee 2025-09-18T11:46:35-04:00 Steve Joins The Greg Hill Show to Discuss His Opposition to State Flag Redesign Plans State Representative Steve Xiarhos October 9th GOOD MORNING AND HAPPY REMEMBER EVERYONE DEPLOYED FRIDAY!
+Xiarhos Offers Testimony Regarding Housing Bills Xiarhos Committee 2025-09-18T11:11:23-04:00 Steve Discusses School Safety on Ed Lambert Show WXTK Xiarhos Committee 2025-09-11T09:42:15-04:00 Xiarhos Pushes to Repeal Cashless Bail Xiarhos Committee 2025-09-18T11:46:35-04:00 Steve Joins The Greg Hill Show to Discuss His Opposition to State Flag Redesign Plans State Representative Steve Xiarhos October 10th HOUSEHOLD HAZARDOUS WASTE COLLECTION TODAY IN BARNSTABLE Happy to stop by again this morning at the Barnstable Household Hazardous Waste Collection at the Barnstable Transfer Station in Marstons Mills, happening today from 9 AM to 12 PM.
+This is a GREAT service for our residents and an important way to safely dispose of paints, chemicals, cleaners, and other materials that should NEVER go in our regular trash or down the drain.
+A BIG THANK YOU to everyone who helped organize today’s collection and to all the residents doing their part to dispose of these materials safely and responsibly.
+Protecting our environment, our drinking water, and the beautiful Cape Cod we all love is something we can ALL do our part to support.
+GREAT JOB, TOWN OF BARNSTABLE AND BARNSTABLE COUNTY!
+KEEP CAPE COD CLEAN.
+KEEP CAPE COD SAFE! 🇺🇸♻️ #RepX #Fightin5th #BootsOnTheGround #ProudAmerican #ServiceBeforeSelf #CommonSenseLeadership #Recycle #EnvironmentalProtection #Barnstable #ProtectTheCape #CapeCod #Massachusetts #MaPoli Town of Barnstable Barnstable County Clean Water Center Keep Barnstable Beautiful Barnstable County Government Barnstable County Department of Health and Environment Massachusetts Department of Public Health Massachusetts Bays National Estuary Partnership ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 10th GOOD MORNING, FIGHTIN’ FIFTH!
+HAPPY SATURDAY!
+REP X YARD SIGNS!
+With Election Day coming up on November 3rd, we’re checking in with friends and neighbors across the Fightin’ Fifth!
+If you’d like a Rep X yard sign for your home or business, just send us a message with your town and let us know.
+We’d be happy to get one to you!
+Thank you for your continued support, friendship, and confidence over the years.
+It’s an honor to serve our communities, and I never take that responsibility for granted.
+THANK YOU for being part of the GREAT FIGHTIN’ FIFTH!
+God bless 🇺🇸😊👏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #Barnstable #Sandwich #Bourne #CapeCod #Massachusetts #MaPoli ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 9th GOOD MORNING AND HAPPY REMEMBER EVERYONE DEPLOYED FRIDAY!
 FROM TRAGEDY TO TRIUMPH!
 Some GREAT NEWS to share!
 My good friend James LaMonte and his team at the K9 PTSD Center in Seekonk continue to do incredible work for our four-legged heroes.
@@ -142,44 +159,6 @@ God bless the Monti Gold Star family, every Gold Star family who carries this lo
 Happy Thankful Thursday, Cape Cod.
 See you on November 7th and 14th. 🇺🇸❤️⭐️🙏🏻🫡 #RepX #Fightin5th #ServiceBeforeSelf #ProudAmericans #HonorAndRespect #Veterans #Flags #CapeCod #Massachusetts #MaPoli Operation Flags For Vets Massachusetts National Cemetery Big Nick's Ride for the Fallen The Nicholas G.
 Xiarhos Memorial Fund Thankful Thursday ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 7th 25 YEARS.
-WE WILL NEVER FORGET.
-AFGHANISTAN At the end of a beautiful day here on Cape Cod, we pause and remember.
-Twenty-five years ago today, the war in Afghanistan began.
-For 20 years, brave Americans and our allies served, sacrificed, and answered the call.
-We remember those who made the ultimate sacrifice, like Nicholas.
-We remember those who were wounded.
-We remember the families who lost husbands, wives, sons and daughters.
-But we also want to remember all those who came home and continue to serve.
-They are all around us.
-They are police officers and firefighters.
-They are teachers, mechanics, business owners, fathers, mothers and neighbors.
-They continue to serve their communities and make a difference every day.
-To every Afghanistan veteran: You served.
-You sacrificed.
-You made a difference.
-Be proud of your service, because we are forever proud of you. 🇺🇸🙏🏻🫡 #RepX #Fightin5th #ProudAmericans #Afghanistan #USA #HonorAndRespect #LivingTheDream The Nicholas G.
-Xiarhos Memorial Fund 2nd Battalion 8th Marines- Front Toward Hero Veterans of Foreign Wars VFW Aptucxet VFW Post 5988 - New Clark-Haddad Post 188 American Legion Veterans of Foreign Wars Massachusetts Sons of The American Legion Detachment of Mass Bourne American Legion Post 230 The American Legion Department of Massachusetts Massachusetts Executive Office of Veterans Services U.S.
-Department of Veterans Affairs ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) State Representative Steve Xiarhos October 7th FOR SEAN What an incredible day back in Yarmouth at the K9 Sergeant Sean M.
-Gannon Training Center — the house that Sean built.
-Today’s state-of-the-art K9 training brought together incredible police officers and some truly incredible dogs.
-There is so much that goes into properly training a K9 team, including teaching officers how to safely serve as decoys and teaching these dogs how to properly bite, hold and release.
-These officers are committed to doing the job right, and these dogs are absolutely amazing.
-Our family is proud to be in a position to help provide this training through a $5,000 grant from Big Nick’s Ride and the Nicholas G.
-Xiarhos Memorial Fund, in memory Nick, and in memory of the son of our good friends, Denise and Patrick Gannon.
-Sean Gannon.
-Nick Xiarhos.
-Two sons.
-Two fallen heroes.
-There is something very powerful about seeing the legacy of these young men helping protect the men and women who put their lives on the line every day.
-We will always Back the Blue, and we will do everything we can to help provide our police officers and K9 teams with the training and equipment they need to do their jobs safely and effectively.
-Pain to purpose.
-Tragedy to triumph. 🇺🇸💙🐕🐾🙏🏻 #RepX #Fightin5th #ProudAmerican #ServiceBeforeSelf #GiveBack #BackTheBlue #K9 #CapeCod #Massachusetts #MaPoli #ForSean Town of Yarmouth Massachusetts Yarmouth Police Foundation Yarmouth Police Dept.
-Town of Barnstable Barnstable Police Department Barnstable Police K9 Foundation K9 PTSD Center The Plymouth County Sheriff's Department Falmouth Police Department Veterans Collaborative Riptide K-9 Town of Raynham Police Dept Mashpee Wampanoag Police Department Hingham Police Medway Police Department Cohasset Police Department, Cohasset MA West Bridgewater Police Department Sand Dollar Customs LLC Rehoboth K9 Edo Denise Morency Gannon Frank Pacheco Big Nick's Ride for the Fallen The Nicholas G.
-Xiarhos Memorial Fund 2nd Battalion 8th Marines- Front Toward Hero Modern Primitive K9 Healing Dakota K9 Flexx and Retired/Police K9 Mr.
-Warner.
-K9 Kitt Foundation ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Copyright # - Committee to Elect Steven Xiarhos | All rights reserved.
 The Committee to Elect Steven Xiarhos is solely responsible for all content on this Website and for any and all solicitations for political contributions herein or in any way associated herewith.
 The Committee is also responsible for funding and managing this Website; no public funds or resources are used to design and maintain this site.

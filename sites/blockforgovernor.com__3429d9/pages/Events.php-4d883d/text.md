@@ -1,9 +1,4 @@
-Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events Scituate Arts Festival Come celebrate the fall season by visiting us on the Village Green in North Scituate.
-Browse and buy original fine art, handmade crafts and antiques in an open-air market.
-Enjoy tasty treats and support local, non-profit organizations by visiting our food court.
-Take a chance with our Raffle of items generously donated by our Exhibitors!
-Enjoy live musical entertainment!
-Saturday, October 10 10am – 5pm Sunday, October 11 10am- 5pm Monday, October 12 10am – 4pm Federal Hill Columbus Day Parade The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.
+Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events Federal Hill Columbus Day Parade The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.
 Atwells Avenue and surrounding roads will be closed to vehicle traffic during the time of the parade from 11 am – 1 pm.
 Come enjoy, bring your flags and experience the culture, energy and pride that makes this parade a Federal Hill favorite.
 PARKING There are over 1000 parking spaces available throughout the Avenue.
@@ -17,6 +12,9 @@ Cash Bar.
 Ken speaks at 6:30 p.m.
 No R.S.V.P. required Ice Cream with Ken - East Providence Join Us for Ice Cream with Ken!
 Ken will speak at 4:00 Attendance is limited - R.S.V.P to lindsaymitchell925@gmail.com FREE Ice Cream!
+WPRO Radio Gubernatorial Debate Hosted by Bill Bartholomew of Bartholomewtown.
+Video will also be recorded.
+The full debate will be posted on YouTube, with clips shared on social media.
 WPRI Channel 12 Gubernatorial Debate SAVE THE DATE - Conversation with Ken - Warwick Conversation with Ken Bring someone who needs to hear why Ken wants to be the next Governor of Rhode Island and bring questions for Ken!
 Q&A.
 Light bites will be served.

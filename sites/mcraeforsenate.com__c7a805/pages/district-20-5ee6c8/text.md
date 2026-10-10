@@ -1,46 +1,64 @@
-Skip to content Annette McRae for Utah Senate District 20 About Annette McRae Annette McRae for Utah Senate District 20 BackRunner District 20 Donate Economic Identity Get Involved Legacy Landscapes Legacy Landscapes Beautification MAPS & REPRESENTATION RESOURCES Rail and Freight Support the Campaign The Plan TRANSPORTATION & CORRIDORS Utah Senate District 20 (SD20) – Wasatch Back & Uintah Basin Overview Water Systems Why Are Fuel Prices So High When We Have So Much Oil in Utah?
-Why Forward Home About ← Home · The Plan · About · Contribute The Plan · Energy & Infrastructure Design It Before the System Breaks The Uintah Basin produces something strategically valuable.
-The question is whether we build the infrastructure to move it safely — or keep pushing the risk onto Highway 40 and hoping nothing goes wrong. 💧 Water ↔ 🏠 Housing ↔ 🚂 Transportation ↔ ⚡ Energy Planning Horizon 2034 Winter Olympics — not a celebration.
-A stress test. “` The Reality The Basin Produces It.
-The Highway Carries Too Much of It.
-The Uintah Basin produces a crude slate that’s strategically valuable but logistically difficult.
-For decades, that challenge has been pushed onto Highway 40 — thousands of truck movements carrying raw, volatile product through rural communities and mountain corridors.
-That approach doesn’t scale.
-It doesn’t meet modern safety standards.
-And it won’t survive a 2034 stress test.
-By 2034, Utah needs to demonstrate it can move energy safely without overloading highways, maintain air quality during inversion conditions, protect water resources during industrial activity, and respond rapidly to emergencies with fixed infrastructure — not improvised response.
-Systems fail at the seams, not at the center.
-The seams right now are highway transport, mismatched refining, and water treated as an afterthought.
-BackRunner Framework Rail Is Risk Reduction.
-Not Job Elimination.
-I want to say this directly to the truck drivers who move this economy: you are essential to the Basin.
-Nothing about rail changes that.
-Rail handles the long haul.
-Trucks handle last-mile, local work.
-That keeps drivers working and reduces the hazardous exposure on canyon roads.
-BackRunner is a systems standard — not a slogan.
-By 2034 it means: ✓ Uinta Railway operating — crude moves by hardened rail, not default highway trucking ✓ Refineries near production — not hundreds of miles away ✓ Trucks shifted off Highway 40 — focused on last-mile, lower-risk work ✓ Emergency response centered on fixed facilities — not mobile exposure ✓ Water reused for operations — not drawn fresh from stressed basins The Missing Middle Refineries Belong Near the Production.
-The national conversation jumps from production to exports and skips the most fragile link: refining capacity.
-We don’t need mega-refineries in metro areas.
-We need right-sized, basin-appropriate facilities that match the crude, minimize transport distance, and integrate water reuse from the start.
-In the Uintah Basin, local refining isn’t an expansion of risk.
-It’s a concentration of responsibility — fixed, regulated, designed for emergency preparedness.
-Match refinery design to crude characteristics Minimize transport distance — keep value in the Basin Modern emissions controls built in — not added later Closed-loop water reuse — no fresh draw from stressed basins Emergency preparedness designed in — not bolted on after the fact Where the System Is Failing The Seams Are the Problem.
-Energy systems don’t fail at the core — they fail where one system hands off to another.
-Right now the seams in District 20 are exactly where the pressure is highest.
-Highway Exposure Hazardous materials on canyon roads designed for different traffic volumes Refining Mismatch Aging capacity mismatched to the crude mix coming out of the Basin Air Quality Gap Inversion-prone basins where logistics decisions drive emissions outcomes Water as Afterthought Industrial water treated as a cost, not a design constraint The Question Worth Asking Will We Design It — or Wait Until It Breaks?
-Global supply pressure, domestic production growth, and shifting crude mixes are all pointing toward higher throughput.
-The real question isn’t whether we’ll need new refining capacity.
-It’s whether we design it before the system forces a crisis.
-2034 gives us a planning horizon.
-BackRunner gives us a framework.
-The Uintah Basin gives us a real-world proving ground.
-What would it look like if refining, rail, air quality, emergency response, and water reuse were planned together — on purpose?
-That’s the conversation I’m inviting. “` “` The Principle Rail does not replace professional drivers.
-It reduces unnecessary highway exposure and allows trucks to focus on last-mile, lower-risk work.
-Desert Abundance Plan ◆ Expand Basin refining — keep value and jobs here ◆ Capture gas instead of flaring — convert to dispatchable rural power ◆ Treat produced water as industrial infrastructure ◆ Double-reuse model — produced water + municipal reuse ◆ Strengthen rural grid through gas recapture generation 2034 Stress Test Checklist ◆ Move energy safely without overloading highways ◆ Maintain air quality during winter inversions ◆ Protect water during industrial activity ◆ Rapid emergency response from fixed infrastructure The Full Plan 💧 Water First 🚂 Rail & Transportation 🏠 Housing + Water 🌾 Agriculture 🚨 Public Safety “` Ready to Build Infrastructure That Actually Works?
+Skip to content Annette McRae for Utah Senate District 20 Home About Plan District 20 At Work Get Involved Donate Annette McRae for Utah Senate District 20 Home About Plan District 20 At Work Get Involved Donate D20 District 20 · Housing · Infrastructure · 2026 Affordable Housing That Works Housing is one of the biggest challenges facing District 20.
+But housing doesn’t exist on its own.
+It’s directly connected to water, transportation, and infrastructure.
+When those systems aren’t aligned, housing becomes more expensive, harder to build, and harder to sustain. 🏠 Housing 💧 Water 🚂 Transportation Wasatch Back Uintah Basin District 20 & Beyond Housing is moving faster than infrastructure across the Wasatch Back Design First.
+Density After.
+You can’t solve a housing problem without solving the systems around it Water · Transportation · Housing: One System Workforce housing tied to energy cycles in the Uintah Basin Infrastructure-First Planning When those systems aren’t aligned, families pay the price The Core Problem Why Housing Gets Expensive Housing costs rise when infrastructure isn’t planned alongside development.
+Water systems aren’t aligned with growth.
+Transportation bottlenecks limit where people can realistically live.
+Communities are forced to react instead of plan ahead.
+You can’t solve a housing problem without solving the systems around it.
+That’s not a slogan.
+It’s how infrastructure actually works.
+When a subdivision goes in before the water modeling is done, ratepayers across the district cover the gap.
+When a road corridor isn’t planned before density is approved, workers can’t get to jobs.
+The families who pay the price are the ones who moved here to stay.
+“Housing, water, and transportation are one system.
+Planning them together is how we keep communities strong.” Annette McRae Three Causes.
+One Result. 💧 Cause 01 Water systems not aligned with growth 🚗 Cause 02 Transportation bottlenecks limit where people can live 📋 Cause 03 Communities forced to react instead of plan ahead 📈 Result: Housing becomes more expensive & harder to sustain Different Regions, Same Problem Two Regions.
+One Broken Pattern.
+The Wasatch Back and the Uintah Basin face different pressures, but the core issue is the same: housing is moving faster than infrastructure.
+Different conditions.
+Same underlying problem: disconnected planning.
+Wasatch Back Rapid Growth, Rising Displacement Summit and Wasatch counties are seeing dramatic growth driven by resort economy expansion, remote workers, and developer pressure.
+The infrastructure hasn’t kept pace, and working families are being priced out of communities they built.
+Rapid growth outpacing water and road capacity Rising home prices displacing workforce families Developer timelines disconnected from infrastructure planning Canyon corridor bottlenecks affecting daily commutes 2034 Olympics adding pressure before systems are ready Uintah Basin Workforce Housing Tied to Industry Cycles Duchesne, Uintah, and Daggett counties rely on energy industry cycles that create boom-bust housing demand.
+Infrastructure planned for peaks can’t serve valleys, and the communities in between pay for both.
+Workforce housing demand tied to energy price swings Limited transportation corridors isolating communities Water infrastructure gaps limiting sustainable growth Tribal communities facing additional planning barriers State decisions made without Basin-level input What Works Infrastructure-First.
+Every Time.
+This approach doesn’t stop growth.
+It makes growth sustainable.
+Four principles that work together, not in isolation. 💧 Align Housing with Water Availability Every housing approval must connect to a real water capacity assessment, not a pro forma check.
+Complete Basin water projects, protect senior agricultural rights, and model long-term supply before density is approved.
+Water First 🚂 Transportation That Connects Jobs to Housing Freight rail decouples Basin highway risk.
+Passenger rail reduces Wasatch Back canyon congestion.
+Transportation corridors must be planned before density, not after.
+Workers need to live near their jobs.
+Rail & Corridors 🏛 Local Decision-Making with Clear State Guardrails Communities know their land better than Salt Lake City does.
+Local governments should make growth decisions, with predictable, enforceable state guardrails that prevent approvals from outrunning infrastructure.
+Local Control 📐 Design First.
+Density After.
+Large-scale growth should follow infrastructure investment, not precede it.
+The Infrastructure Shot Clock, with real permitting deadlines and accountability, ensures approvals move and communities aren’t left holding the bag.
+Infrastructure Shot Clock Why It Matters Housing Affects Everyday Life When housing is disconnected from infrastructure, families pay the price.
+Here’s what that looks like on the ground in District 20.
+01 Families Whether families can afford to stay in their communities When housing costs outpace wages, driven by infrastructure gaps that raise development costs, working families get priced out of the communities they built.
+Teachers, nurses, tradespeople, and oilfield workers can’t afford to live in the district they serve.
+02 Workers Whether workers can live near their jobs A Basin worker driving 90 minutes each way because there’s no affordable housing near the wellsite isn’t just losing time.
+They’re carrying a hidden cost the market doesn’t capture.
+Workforce housing tied to energy cycles creates instability that ripples through every community in the district.
+03 Communities Whether communities grow in a stable, predictable way Boom-bust growth driven by disconnected planning leaves infrastructure gaps that last for decades.
+Schools built for peak population sit half-empty.
+Roads built for growth that didn’t materialize still need maintenance.
+Planned growth that follows infrastructure builds more durable communities.
+The Difference Reaction vs.
+Architecture District 20 deserves a housing approach built on systems, not press releases after the damage is done.
+Reactive Planning ◦ Housing approvals before water modeling is complete ◦ Transportation corridors planned after density is already there ◦ Infrastructure decisions made in isolation from housing ◦ Growth managed in crisis mode instead of designed in advance ◦ Working families absorbing costs the system didn’t plan for VS Annette McRae ◆ Water capacity assessed before housing density is approved ◆ Transportation corridors planned as a precondition for growth ◆ Housing, water, and transit treated as one connected system ◆ Infrastructure Shot Clock: real deadlines with real accountability ◆ Local control protected by predictable, enforceable state guardrails See the Full System Housing Never Stands Alone Every housing decision in District 20 connects to water availability, transportation capacity, energy infrastructure, agricultural land use, and public safety planning.
+When all six are planned together, communities are resilient.
+When they’re not, the gaps become crises.
+The Connected System 🏠 Housing 💧 Water 🚂 Transit ⚡ Energy 🌾 Ag 🚨 Safety View the Full Plan → ← Back to Home Ready to Be Heard?
 Join the campaign.
+Volunteer.
+Contribute.
 Show up.
-Help plan it right.
-Get Involved See Full Plan Contribute Annette McRae Utah Senate District 20 · Forward Party · 2026 Paid for by Annette McRae for Utah Senate District 20 mcraeforsenate.com Annette McRae for Utah Senate District 20 Forward Party candidate for Utah Senate District 20 — water, energy, housing, and transportation for Summit, Wasatch, Duchesne, Uintah, and Daggett counties.
-About Team History Careers Privacy Privacy Policy Terms and Conditions Contact Us Social Facebook Instagram Twitter/X Designed with WordPress Follow the Campaign @mcraeforsenate McRaeForSenate @mcraeforsenate LinkedIn @mommacrae
+Contribute Get Involved Annette McRae Utah Senate District 20 · Forward Party · 2026 Paid for by Annette McRae for Utah Senate District 20 mcraeforsenate.com Follow the Campaign @mcraeforsenate McRaeForSenate @mcraeforsenate LinkedIn @mommacrae Scroll to Top

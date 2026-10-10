@@ -40,8 +40,7 @@ You may stand behind me as I stand, or you may just stand for me in your prayers
 Regardless of how or where you stand, the important thing is that you stand.
 We must all stand together or we will certainly hang separately.
 When I stand with the strength of you standing behind me, we will have the power to insure the integrity of the United States Constitution for another 250 years (at least).
-Donate Now Search Search Recent Posts Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Could this be the case that takes Voter ID to the Supreme Court before 11/3/2026?
-Recent Comments No comments to show.
+Donate Now Search Search Recent Posts Money Wins Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Recent Comments No comments to show.
 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
 Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
 Paid for by David Russ Is For US.

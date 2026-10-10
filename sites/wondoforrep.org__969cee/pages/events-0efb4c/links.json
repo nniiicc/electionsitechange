@@ -120,6 +120,10 @@
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=League+of+Women+Voters+Forum&dates=20260820T230000Z%2F20260821T000000Z&location=One+College+Drive%2C+Greenfield%2C+Massachusetts%2C+01301%2C+United+States"
 },
 {
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Unity+Reception&dates=20261022T213000Z%2F20261022T233000Z"
+},
+{
 "text": "Greenfield Group Canvass launch",
 "href": "https://wondoforrep.org/events/event-one-rg2bh-mx2wm-agmze"
 },
@@ -160,12 +164,20 @@
 "href": "https://wondoforrep.org/events/greenfield-harvest-supper?format=ical"
 },
 {
+"text": "ICS",
+"href": "https://wondoforrep.org/events/unity-reception?format=ical"
+},
+{
 "text": "Issues",
 "href": "https://wondoforrep.org/#issues"
 },
 {
 "text": "League of Women Voters Forum",
 "href": "https://wondoforrep.org/events/event-three-mz467-9slf2-p3f9r"
+},
+{
+"text": "Learn more",
+"href": "https://www.mobilize.us/massdems/event/1052608/"
 },
 {
 "text": "Shelburne Falls Memorial Hall Association",
@@ -178,6 +190,10 @@
 {
 "text": "Store",
 "href": "https://wondoforrep.org/store"
+},
+{
+"text": "Unity Reception",
+"href": "https://wondoforrep.org/events/unity-reception"
 },
 {
 "text": "View Event →",
@@ -212,6 +228,10 @@
 "href": "https://wondoforrep.org/events/greenfield-harvest-supper"
 },
 {
+"text": "View Event →",
+"href": "https://wondoforrep.org/events/unity-reception"
+},
+{
 "text": "[image: 1st Franklin State Rep Candidate Forum]",
 "href": "https://wondoforrep.org/events/1st-franklin-state-rep-candidate-forum"
 },
@@ -234,6 +254,10 @@
 {
 "text": "[image: League of Women Voters Forum]",
 "href": "https://wondoforrep.org/events/event-three-mz467-9slf2-p3f9r"
+},
+{
+"text": "[image: Unity Reception]",
+"href": "https://wondoforrep.org/events/unity-reception"
 },
 {
 "text": "[image: Wondo For Rep]",

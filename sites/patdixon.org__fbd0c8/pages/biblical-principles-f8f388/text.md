@@ -63,5 +63,9 @@ The last sentence is unclear to me.
 I defend religious freedom, which means government should not care what religion, if any, you follow.
 That also applies to Muslims (see https://patdixon.org/texas-muslims/ ) The bottom line is the Governor of Texas should have nothing to do with religion or Biblical Principles.
 BiblicalPrinciplesQuestionaire Download Bookmark .
-About Greg Abbott Abortion Leave a Reply Cancel reply Your email address will not be published.
+About Greg Abbott Abortion One Comment Alan Buchanan October 9, 2026 at 02:14 Well Pat, I have been startling the fence until your last sentence and I was fixing to unmount to your side (The bottom line is the Governor of Texas should have nothing to do with religion or Biblical Principles.) I disagree.
+I do not have a religion, I have a personal relationship with my almighty GOD.
+And speaking of Biblical Principals, what about Natural Law, is this not Biblical, YES, is absolutely is.
+So I will ask my LORD again for guidance.
+Thanks for listening Reply Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

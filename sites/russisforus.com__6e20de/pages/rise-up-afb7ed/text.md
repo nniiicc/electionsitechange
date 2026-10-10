@@ -42,8 +42,7 @@ When you see someone RISING UP, thank them, tell them about RussIsForUS.com/rise
 Please help me Rise Up with a Donation today!
 I appreciate your support!
 Donate Now PLEASE #RISEUP and share this page EVERYWHERE!
-Search Search Recent Posts Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Could this be the case that takes Voter ID to the Supreme Court before 11/3/2026?
-Recent Comments No comments to show.
+Search Search Recent Posts Money Wins Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Recent Comments No comments to show.
 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
 Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
 Paid for by David Russ Is For US.

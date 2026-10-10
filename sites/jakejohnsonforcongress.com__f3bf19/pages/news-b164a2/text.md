@@ -1,4 +1,10 @@
-Skip navigation menu About Priorities Town Halls Knock Doors News Volunteer Events Donate Latest Campaign Developments About Priorities Town Halls Knock Doors News Volunteer Events Donate Latest Campaign Developments PRESS RELEASE Jake Johnson Launches Fifth TV Ad, "Town Hall" After 21 town halls in 21 counties, Jake invites southern Minnesota to watch an entire unedited town hall on his website.
+Skip navigation menu About Priorities Town Halls Knock Doors News Volunteer Events Donate Latest Campaign Developments About Priorities Town Halls Knock Doors News Volunteer Events Donate Latest Campaign Developments PRESS RELEASE Brad Finstad took $23,000 linked to the CCP.
+Jake is calling on him to give it back.
+Finstad cashed a check from a lobbyist for a Chinese data center company just # days after voting to fast-track data centers.
+Read more Oct 10 2026 PRESS RELEASE Jake Johnson Wins KEYC Debate With a Clear Plan to Lower Costs in Southern Minnesota Jake drew sharp contrasts with Rep.
+Brad Finstad on tariffs, rural health care, data centers, and town halls, and Jake made a strong case for how he’ll lower costs in Congress.
+Read more Oct 8 2026 PRESS RELEASE Congressman Brad Finstad is running a TV ad with a fake photo of Jake Johnson KSTP and ABC 6 News reported the image “never happened” and “raises questions about AI”, and HuffPost interviewed the veteran and small business owner who was removed.
+Read more Oct 8 2026 PRESS RELEASE Jake Johnson Launches Fifth TV Ad, "Town Hall" After 21 town halls in 21 counties, Jake invites southern Minnesota to watch an entire unedited town hall on his website.
 Rep.
 Brad Finstad has never held an in-person town hall.
 Read more Oct 7 2026 PRESS RELEASE Jake Johnson Makes First Stop of “Collect the Receipts Tour” in North Mankato This weekend, Jake Johnson spoke with folks in the Mankato area about the challenges they’re facing surrounding high gas and diesel prices caused by the Iran War that Congressman Finstad has voted to continue six times.

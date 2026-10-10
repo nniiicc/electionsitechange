@@ -18,5 +18,5 @@ Protecting Your Rights As the Supreme Court and other states look to turn back t
 In just the past two years, Jason has worked to protect a women’s right to choose, make it easier to vote, end prison gerrymandering, and make it possible for same-sex couples to adopt. ​ Remaining Accessible to Constituents and Taxpayers Jason has always placed a special emphasis on assisting constituents with their needs, being responsive to questions about proposed legislation, and where he stands on issues.
 This past year, Jason started the 9th District Advisory Committee comprised of a cross-section of East Hartford and Manchester residents to help him ensure that the perspectives of residents in our communities are heard at the Capitol.
 START SHAPING OUR FUTURE Support Connecticut ISSUES VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
-Home About Jason News Volunteer Contact Jason Rojas - STATE REPRESENTATIVE - Paid for by Rojas 2024, Awet Tsegai, Treasurer.
-Approved by Jason Rojas East Hartford Manchester reprojas2022@gmail.com 860-895-8374 bottom of page
+Home About Jason News Volunteer Contact Jason Rojas - STATE REPRESENTATIVE - Paid for by Rojas 2026, Jeff Currey, Treasurer.
+Approved by Jason Rojas East Hartford Manchester reprojas2026@gmail.com 860-895-8374 bottom of page

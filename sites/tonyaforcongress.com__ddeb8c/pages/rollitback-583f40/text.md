@@ -1,4 +1,4 @@
-Skip to content Menu HOME BIOGRAPHY ISSUES PHOTO GALLERY ROLL IT BACK CONTACT US: DONATE TODAY Tonya Hudson For Congress Candidate for U.S.
+Skip to content Menu HOME BIOGRAPHY ISSUES PHOTO GALLERY CONTACT US: ROLL IT BACK DONATE TODAY Tonya Hudson For Congress Candidate for U.S.
 House of Representatives, Indiana's 9th District ROLL IT BACK HUDSON FOR HOOSIERS WEEKLY MISSION STATEMENT October 7, 2026 – The Danger Within Isn’t Just at the Top People are struggling to make ends meet.
 I know many who have voted for DJT in the past who are now either disappointed, miffed, embarrassed, concerned about the state of our Union, or all of the above.
 In Washington D.C., so many representatives in his own party look the other way because they are afraid of his temperament.

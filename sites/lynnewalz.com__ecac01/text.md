@@ -35,19 +35,18 @@ My focus won’t be on policing our personal lives: instead, it’ll be to grow 
 Building Strong Communities I will ensure that Nebraska is a place where our children will want to live when they grow up.
 In addition to creating economic opportunities, we need to ensure our communities are thriving so families want to live here.
 We need strong schools, vibrant community spaces, strong main streets, and continued investments for police officers and firefighters to keep us safe.
-Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) 🚨Another week, another poll showing this race tied.
+Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) Jim Pillen has had four years and a billion-dollar surplus to fix property taxes.
+Nebraskans are still waiting for relief.
+This morning in Lincoln, Ben and I sat down with farmers and fiscal experts to talk about why these bills keep climbing - and what it will actually take to bring them down. ...
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 720 Shares: 58 Comments: 102 102 Comments Comment on Facebook 🚨Another week, another poll showing this race tied.
 Four weeks out, we've moved to being neck and neck with Jim Pillen.
 Help us carry it across the finish line and build a better Nebraska. secure.actblue.com/donate/lwne-all-social-oct2026-fr-yougovpoll ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 791 Shares: 24 Comments: 192 192 Comments Comment on Facebook What a turnout in Gering yesterday!
-Ben and I are grateful to everyone who came out.
-Western Nebraska's challenges deserve a Governor who has actually listened to them.
-We'll keep showing up in every corner of this state - and that's a promise. ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 561 Shares: 28 Comments: 58 58 Comments Comment on Facebook Lynne Walz Follow 987 2,833 Proud wife, mother, grandmother, and Nebraskan.
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 852 Shares: 25 Comments: 202 202 Comments Comment on Facebook Lynne Walz Follow 987 2,833 Proud wife, mother, grandmother, and Nebraskan.
 Running to be Nebraska’s next Governor.
 Lynne Walz @lynnewalz · 7 Oct 2107907235590623363 🚨Another week, another poll showing this race tied.
 Four weeks out, we've moved to being neck and neck with Jim Pillen.
 Help us carry it across the finish line and build a better Nebraska. https://secure.actblue.com/donate/lwne-all-social-oct2026-fr-yougovpoll Twitter feed image.
-Reply on Twitter 2107907235590623363 32 Retweet on Twitter 2107907235590623363 30 Like on Twitter 2107907235590623363 115 X 2107907235590623363 Lynne Walz @lynnewalz · 7 Oct 2107840520798261264 What a turnout in Gering yesterday!
+Reply on Twitter 2107907235590623363 33 Retweet on Twitter 2107907235590623363 31 Like on Twitter 2107907235590623363 117 X 2107907235590623363 Lynne Walz @lynnewalz · 7 Oct 2107840520798261264 What a turnout in Gering yesterday!
 Ben and I are grateful to everyone who came out.
 Western Nebraska's challenges deserve a Governor who has actually listened to them.
 We'll keep showing up in every corner of this state — and that's a promise.
@@ -55,7 +54,7 @@ Twitter feed image.
 Twitter feed image.
 Twitter feed image.
 Twitter feed image.
-Reply on Twitter 2107840520798261264 14 Retweet on Twitter 2107840520798261264 16 Like on Twitter 2107840520798261264 101 X 2107840520798261264 Lynne Walz @lynnewalz · 5 Oct 2107217242320470493 Nebraska's farmers are having their worst year in decades, and Jim Pillen's answer is a campaign stop.
+Reply on Twitter 2107840520798261264 14 Retweet on Twitter 2107840520798261264 16 Like on Twitter 2107840520798261264 102 X 2107840520798261264 Lynne Walz @lynnewalz · 5 Oct 2107217242320470493 Nebraska's farmers are having their worst year in decades, and Jim Pillen's answer is a campaign stop.
 But while he needs help from Washington, Nebraska's farmers need their markets back.
 Here's the truth Jim Pillen doesn't want you to hear.
 Twitter feed video.
@@ -132,10 +131,10 @@ Ben and I will govern openly and honestly - because that`s the only way it works
 92 2 lynne_walz Sep 21 We had a great weekend out on the campaign trail!
 We marched in the Applejack Festival Parade in Nebraska City and stopped by the Free Speech Society meeting to talk with folks about the issues that matter most.
 Nebraska values are running strong and taking us through Election Day!
-71 0 Open post by lynne_walz with ID 17947093818338222 We had a great weekend out on the campaign trail!
+72 0 Open post by lynne_walz with ID 17947093818338222 We had a great weekend out on the campaign trail!
 We marched in the Applejack Festival Parade in Nebraska City and stopped by the Free Speech Society meeting to talk with folks about the issues that matter most.
 Nebraska values are running strong and taking us through Election Day! ...
-71 0 lynne_walz Sep 20 Washington County - let`s meet!
+72 0 lynne_walz Sep 20 Washington County - let`s meet!
 Join me on Thursday, September 24 at 5:30pm at the Blair Deport for a meet-and-greet.
 Bring your neighbors, bring your questions.
 See you there!

@@ -58,7 +58,7 @@ That means investing in the healthcare workforce, expanding appropriate long-ter
 Because ultimately, this conversation is about more than healthcare spending.
 It is about whether Delaware is building a healthcare system capable of taking care of its people — in the right setting, at the right time and at a cost we can sustain.
 And from what I'm hearing, this is a conversation Delaware needs to have now.
-Share this post: Categories All Posts Announcements News What I'm Hearing Sign up for blog updates!
+Share this post: Sign up for blog updates!
 Join my email list to receive updates and information.
 Sign up Recent Posts I’m pro-worker and pro-opportunity.
 Oct 5, 2026 Our Seniors Deserve Fairness, Stability, and a Voice Sep 28, 2026 I’M LISTENING:WHAT I’M HEARING FROM DELAWARE VOTERS Aug 12, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.

@@ -1,4 +1,5 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report October 5, 2026 Vote against partisan control of redistricting | GUEST COMMENTARY The 2026 Election is here – early voting starts this month, October 22nd.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report October 9, 2026 Ready Report: No on Question 3 OpEd, Candidate Spotlight & More… I wanted to update you with the latest on what’s happening in the district but also, the important issues we are facing in this campaign season.
+The first is sharing with you my recent Opinion… Read More > October 5, 2026 Vote against partisan control of redistricting | GUEST COMMENTARY The 2026 Election is here – early voting starts this month, October 22nd.
 Maryland voters have grown accustomed to having ballot initiatives, sometimes high profile and controversial, while other times they get little attention.
 This… Read More > September 14, 2026 Remembering 9/11 – 25 Years Later Last Friday was the 25th Anniversary of the savage, evil and unprovoked September 11th attack on America.
 It is hard to believe that it was #ago.
@@ -10,6 +11,4 @@ Ready Interview with WBAL on Special Session &… Read More > July 15, 2026 Read
 I hope you and your family enjoy the upcoming Independence Day weekend and celebration.
 We are so incredibly blessed to be Americans – God has truly “shed His grace” on this country.
 We have some… Read More > June 22, 2026 Ready Report: Primary Election Day, 4 th of July Fireworks Info & More… I hope you and your family are having a great summer so far.
-I want to thank so many people who attended or contributed to my Annual Business Breakfast on Tuesday at Greenmount Station in… Read More > June 8, 2026 Ready Report: Early Voting This Week, President Trump Announces Energy Investment in MD & More… I hope you and your family enjoy the beautiful early summer weather.
-Stay safe!
-We’ll start with a couple of campaign updates – Ready Business Breakfast Fundraiser – Tuesday – June 16th: One of the… Read More > 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer
+I want to thank so many people who attended or contributed to my Annual Business Breakfast on Tuesday at Greenmount Station in… Read More > 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

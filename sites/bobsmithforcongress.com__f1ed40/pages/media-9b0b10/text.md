@@ -21,7 +21,11 @@ Track your ballot.
 Confirm it was received and counted.
 2.
 Sign up once for text/email… read more Watch: Attacking Trump’s “Illegal War” Apr 29, 2026 santabarbaranewsmakers.com In wide-ranging interview, the five-term SB Democrat distances himself from Swalwell, forecasts a mid-term wave election, and waffles on debating Republican challenger in the fall.
-Jerry Roberts Apr 16, 2026 In an interview from Washington,... read more BOB Talks Carpinteria Apr 10, 2026 “…I think the only people determining what Carpinteria looks like is Carpinteriaians.” read more « Older Entries Bob’s Platform (Click Images to Enlarge) Bob’s Spanish Platform (Click Images to Enlarge) Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
+Jerry Roberts Apr 16, 2026 In an interview from Washington,... read more BOB Talks Carpinteria Apr 10, 2026 “…I think the only people determining what Carpinteria looks like is Carpinteriaians.” read more « Older Entries Bob’s Platform (Click Images to Enlarge) Bob’s Spanish Platform (Click Images to Enlarge) Out on the Central Coast Where the coverage comes from.
+On the parade route.
+One conversation at a time.
+Car shows count too.
+Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
 Where's My Ballot Takes one minute to confirm your voter registration info.
 VOLUNTEER Winning this race will take a team across the Central Coast By entering your phone number and selecting to opt in, you consent to receive SMS/MMS marketing and polling text messages, donation requests, updates, and other important information to that number from Bob Smith For Congress.
 Msg&data rates may apply.

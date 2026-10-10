@@ -15,16 +15,12 @@ I didn’t know that, but that’s what we did.
 I thank Haris (Hardaway) for putting his name on the ballot.
 I’m better and the district is better because of it.” Share this Post navigation PREVIOUS Previous post: Minority leaders put legislative agenda behind thoughts and prayers NEXT Next post: Trinity’s project at 150 Centre St. wins BPDA board support Related Post Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More In closed-door budget process, Mass.
-House leaders scored big In closed-door budget process, Mass.
-House leaders scored big May 9, 2024 May 9, 2024 | Russell E.
+Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 5:44 am <p>By Samantha J.
-Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-January 25, 2024 January 25, 2024 | Russell E.
+Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More The Interview: State Representative Russell Holmes The Interview: State Representative Russell Holmes July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 5:52 pm <p>A Citizens Bank branch that opened last fall on a site at Blue Hill Avenue and Morton Street that once featured a Kentucky Fried Chicken franchise and then sat vacant Read More Read More “I Work for You.” You're my neighbors.
+Holmes | 0 Comment | 11:34 am The outspoken state representative on what’s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.
+Share this Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

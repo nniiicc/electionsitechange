@@ -1,0 +1,4 @@
+0 Skip to Content Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Back to All Events Election Day Tuesday, November 3, 2026 8:00 AM 7:00 PM Google Calendar ICS Get Out to Vote Between now and Election Day Rod and the Utah Grit Team will be doing a final push at the doors of our neighbors.
+If you have time to donate, please volunteer to help drop lit.
+Volunteer Previous Previous October 7 Utah PTA Utah Grit Request a Yard Sign House District 45 MAP Signs will be delivered to residences within House District 45 boundaries, paid for by Elect Rod Moser.
+Mailing Address: 3731 W South Jordan Pkwy #102-503 South Jordan, UT 84009 Paid for by Elect Rod Moser.

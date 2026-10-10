@@ -14,5 +14,5 @@ Your Choices Contact Us If you have questions about this Cookie Policy, email Er
 Support the campaign Prefer to donate by mail?
 Please mail donation checks to: Eric Yonce for U.S.
 House of Representatives P.O.
-Box 1342 Ormond Beach, FL 32175 Donate online → YONCE FOR CONGRESS Leadership focused on Florida's future.
-Explore About Eric Issues Media Get involved Volunteer Donate Volunteer contact Media inquiries Stay connected f X Terms & Conditions Privacy Policy Cookie Policy Paid for by Yonce for Congress.
+Box 1342 Ormond Beach, FL 32175 Donate online YONCE FOR CONGRESS Leadership focused on Florida's future.
+Explore About Eric Issues Media Events Shop Get involved Volunteer Donate Volunteer contact Media inquiries Stay connected f X Terms & Conditions Privacy Policy Cookie Policy Paid for by Yonce for Congress.

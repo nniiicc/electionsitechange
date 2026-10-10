@@ -1,7 +1,14 @@
 Skip to Content Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store DONATE Lora Wondolowski for State Representative 1st Franklin district “I’ve spent my career fighting for environmental protection, education, and fair funding.
 I never give up, and I will use my experience to advocate for you.” Teamwork.
 Results.
-Pat Ryan: Vote for Lora, The People's Voice Candidates talk farming, food insecurity at forum Paul Jablon: Wondolowski Demonstrates Competence Top Issues Rural School Funding By growing and unifying the team, we can secure more funding for Western Mass.
+Join us for a Unity Reception Thursday, October 22, 2026 5:30-7:30p.m.
+Powder Hollow Brewery at Yankee Candle Village Join us for a Unity Reception in support of Lora Wondolowski for State Representative!
+With election day approaching, Democrats, community leaders, supporters, and friends from across the 1st Franklin District are coming together to support Lora and her campaign for State Representative. *Co-hosted by: Governor Maura Healey, Lt.
+Governor Kim Discroll, Congressman Jim McGovern, Senator Jo Comerford, Senator Paul Mark, Rep.
+Homar Gomez, Rep.
+Lindsay Sabadosa, Rep.
+Aaron Saunders, Rep.
+Susannah Whipps, Mayor Ginny DeSorgher, Bob Armstrong, Tara Brewster, Chia Collins & Michael Cohen, Jessica Corwin & Philip Silva, Marina Goldman, Tim Hilchey, Mike McCusker, and Patty Perry *Committee in formation Learn more & RSVP Pat Ryan: Vote for Lora, The People's Voice Candidates talk farming, food insecurity at forum Paul Jablon: Wondolowski Demonstrates Competence Top Issues Rural School Funding By growing and unifying the team, we can secure more funding for Western Mass.
 Lora is already a vigorous advocate for school funding from the state, working with our current legislators to make sure Franklin County gets what it needs.
 Her vision for state leadership includes expanding the local legislator team to partner with a wider set of legislators in Western Mass and form a stronger coalition that can force changes to the state funding formulas and catch every possible opportunity to bring home additional funding.
 Read more Available and Affordable Housing By thinking regionally, we can build new housing in Franklin County that people can afford while matching the right kind of building to the right setting.
@@ -27,21 +34,17 @@ Because of her steady hand and listening skills, the town and unions agreed on s
 Lora is a single parent with one kid still in the Greenfield public high school.
 She works for the Peace Development Fund by day, fundraising for dozens of progressive grassroots organizations locally and nationally.
 She is ready to scale her work with progressive groups and the city of Greenfield to serve all towns in the 1st Franklin district and boost the Western Mass team to have a louder voice at the State House.
-Lora Listens, Leads, and Gets It Done Latest from the Campaign The Hampshire-Franklin Commission on the Status of Women is seeking Regional Commissioner applicants!
+Lora Listens, Leads, and Gets It Done Latest from the Campaign Join FCCPR for a follow-up conversation about the nine ballot questions Massachusetts voters will decide on this November!
+It's a space to come together to better understand the content and wording of each question, ask questions, and learn from one another.
+This free, community-focused session is about understanding what’s on the ballot, not telling people how to vote.
+LAVA, 324 Main Street, Greenfield October 16 at 6 PM Everyone is welcome!
+Please share with your friends, family, and community networks, and join us for an evening of thoughtful conversation ahead of Election Day.
+The Hampshire-Franklin Commission on the Status of Women is seeking Regional Commissioner applicants!
 Regional Commissioners are volunteers who work to advance the status of women and girls across Hampshire and Franklin Counties.
 Commissioners engage with local communities through public events, hearings, and outreach while advocating for policies and legislative priorities that support women and girls.
 The Commission is looking for people in Hampshire and Franklin Counties who are passionate about public service and uplifting women and girls, creating a more equitable commonwealth.
 Apply to become a Regional Commissioner and help amplify the voices of women and girls across Western Massachusetts!
-The link to apply is: https://masscsw.org/apply-to-a-regional-commission/ The link to the HFCSW Web Page for more information is: https://masscsw.org/.../regional.../hampshire-franklin/ One month until Election Day! 🗳️ We’ve come a long way together, and there’s still plenty of work ahead.
-We have an opponent in November, and we can’t take anything for granted.
-Over these final weeks, I’ll be talking with voters across the 1st Franklin District about strengthening our rural schools, making housing more affordable, and supporting our local farms.
-I’d love your help reaching more of our neighbors.
-Join a phone bank or canvass, talk with friends about the election, or help us get lawn signs out across the district.
-If you already have a sign, keep it up—or put it back out!
-Visit WondoForRep.org to get involved, and make your plan to vote by November 3.
-Teamwork.
-Results.
-Endorse/Lawn Signs I want to hear from you!
+The link to apply is: https://masscsw.org/apply-to-a-regional-commission/ The link to the HFCSW Web Page for more information is: https://masscsw.org/.../regional.../hampshire-franklin/ Endorse/Lawn Signs I want to hear from you!
 My priorities start and end with you.
 Tell me what’s working, what’s not, and how I can help.
 Whether you’re concerned about your child’s school or simply need help filling out a complicated form let me know.

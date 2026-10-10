@@ -1,4 +1,25 @@
-Menu About Accomplishments Endorsements News Media Get Involved store Facebook Twitter Instagram Youtube Donate Vote News New bill would prevent rule from increasing the costs of oil and gas production 11.1.2023 WASHINGTON – A bill introduced by U.S.
+Menu About Accomplishments Endorsements News Media Get Involved store Facebook Twitter Instagram Youtube Donate Vote News National Defense Authorization Act planned to be signed into law, Lauren Boebert says it will create 1,000 jobs for Puebloans 12.15.2023 PUEBLO COUNTY, Colo.
+(KRDO)- Each fiscal year, Congress is tasked with passing a new National Defense Authorization Act.
+It's the Pentagon's entire yearly budget and one of the few bills that must be signed into law annually.
+This year Republican Congresswoman Lauren Boebert successfully attached her own "Pueblo Jobs Act" as part of the package.
+Read More Newsletter: Important Updates from Team Boebert 11.10.2023 This Veterans Day, I’d like to give a special shoutout to all of our men and women who have served our country.
+Read More Steamboat Pilot: With Colorado set to reintroduce gray wolves, bill backed by U.S.
+Rep.
+Lauren Boebert seeks their removal from endangered species list 11.9.2023 - Members of the U.S.
+House of Representatives last week passed a bill sponsored by U.S.
+Rep.
+Lauren Boebert proposing to delist gray wolves from the the nation’s endangered species list.
+Read More With Colorado set to reintroduce gray wolves, bill backed by U.S.
+Rep.
+Lauren Boebert seeks their removal from endangered species list 11.9.2023 Nov 9, 2023 - Members of the U.S.
+House of Representatives last week passed a bill sponsored by U.S.
+Rep.
+Lauren Boebert proposing to delist gray wolves from the the nation’s endangered species list.
+Read More Daily Sentinel: House-passed bill includes Boebert measures blocking BLM oil, gas reforms, local leasing plans 11.5.2023 The U.S.
+House of Representatives on Friday passed an appropriations bill that included amendments sought by U.S.
+Rep.
+Lauren Boebert that would block the Bureau of Land Management from proceeding with reforms to its oil and gas leasing program and with revisions to the amount of acreage available for oil and gas leasing locally.
+Read More New bill would prevent rule from increasing the costs of oil and gas production 11.1.2023 WASHINGTON – A bill introduced by U.S.
 Rep.
 Lauren Boebert would prevent a proposed rule to raise bonding levels on millions of acres in Colorado that would restrict oil and gas leasing on federal lands.
 The Fluid Mineral Leases and Leasing Process rule proposed by the Bureau of Land Management would change fees, rents and royalties to reflect provisions from the Inflation Reduction Act.
@@ -12,18 +33,8 @@ Lauren Boebert’s bipartisan bill to protect endangered fish and aid 1,200 Colo
 Read More Newsletter: Important Updates from Team Boebert 9.8.2023 The August recess was a great reminder of why we do what we do.
 It was so great to be back home in the district, spending time with those that I promised to fight so hard for.
 Take a look at all of what we’ve been up to over the past few weeks, and as always, thanks for all that you do!
-Read More Washington Examiner: Boebert Files Amendments to Slash Salaries of Bureaucrats 8.31.2023 - Rep.
-Lauren Boebert (R-CO) filed four salary-slashing Holman rule amendments to the Department of Defense appropriations bill as they look to cut the salaries of officials they believe have failed at their jobs.
-Read More WWARR Act Twitter Update 8.28.2023 My top priorities for the 3rd District will always be water, water, and water.
-Protecting this critical resource ensures prosperity for our ranchers, farmers, and entire 3rd District community for generations to come!
-Read More KRDO Colorado Springs: Representative Lauren Boebert Discusses 2024 8.25.2023 Rep.
-Lauren Boebert has certainly made a name for herself in Congress since being elected in 2020 to represent Congressional District 3 in Colorado.
-Read More Colorado Politics: Colorado’s Federal Lawmakers Tout Water Progress 8.25.2023 Rep.
-Lauren Boebert pointed to her legislative efforts on water storage and reauthorization of fish recovery programs, and her attempts to work in a bipartisan manner with the Democrats in Colorado's federal delegation.
-Read More 630 KHOW: Rep.
-Lauren Boebert is Touring Her District on Summer Recess 8.19.2023 Representative Lauren Boebert (R-CO) joins Dan to talk about her August tour through her 3rd Congressional District during the summer recess for Congress.
 Read More PREV.
-PAGE 1 2 3 4 5 6 7 8 &mldr; 20 NEXT PAGE Join Us First Name* Last Name* Email Address* Mobile Number Zip Code* I'm In I would like to receive text messages from Lauren Boebert for Congress By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+PAGE 1 2 3 4 5 6 7 8 &mldr; 21 NEXT PAGE Join Us First Name* Last Name* Email Address* Mobile Number Zip Code* I'm In I would like to receive text messages from Lauren Boebert for Congress By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed marketing messages from Lauren Boebert for Congress to the phone number you provide.
 No consent is required to buy.
 Msg&data rates may apply.

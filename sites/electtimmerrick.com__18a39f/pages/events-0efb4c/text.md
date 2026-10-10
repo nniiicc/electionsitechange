@@ -1,4 +1,4 @@
-EVENTS VOLUNTEER PLATFORM ENDORSEMENTS DONATE Select Page Events October 9 - Port City Java Coffee is on Tim.
+EVENTS VOLUNTEER PLATFORM ENDORSEMENTS VOTE DONATE Select Page Events October 9 - Port City Java Coffee is on Tim.
 Your voice is the agenda.
 Join Tim for Coffee Talk, a relaxed, open conversation about the issues facing District 20.
 Whether it’s schools, growth, public safety, taxes, or something else entirely, you set the topic.

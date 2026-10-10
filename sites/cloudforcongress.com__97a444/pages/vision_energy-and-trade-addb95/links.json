@@ -12,10 +12,6 @@
 "href": "https://www.cloudforcongress.com/about-michael/"
 },
 {
-"text": "Agriculture and Property Rights",
-"href": "https://www.cloudforcongress.com/vision/agriculture-and-property-rights/"
-},
-{
 "text": "Cloud Victory Fund",
 "href": "https://secure.anedot.com/cloud-victory-fund/donate"
 },
@@ -40,8 +36,16 @@
 "href": "https://secure.anedot.com/cloudforcongress/cloudwebdonate"
 },
 {
+"text": "Economy and Jobs",
+"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
+},
+{
 "text": "Election Info",
 "href": "https://www.cloudforcongress.com/election-info-2026/"
+},
+{
+"text": "Federal Spending and Debt",
+"href": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/"
 },
 {
 "text": "Health Care",
@@ -61,19 +65,15 @@
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/agriculture-and-property-rights/"
+"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
+},
+{
+"text": "Read More »",
+"href": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/"
 },
 {
 "text": "Read More »",
 "href": "https://www.cloudforcongress.com/vision/health-care/"
-},
-{
-"text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
-},
-{
-"text": "Religious Liberty",
-"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
 },
 {
 "text": "Shale Magazine",
@@ -97,15 +97,15 @@
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/agriculture-and-property-rights/"
+"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
+},
+{
+"text": "[image]",
+"href": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/"
 },
 {
 "text": "[image]",
 "href": "https://www.cloudforcongress.com/vision/health-care/"
-},
-{
-"text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/religious-liberty/"
 },
 {
 "text": "[no text]",

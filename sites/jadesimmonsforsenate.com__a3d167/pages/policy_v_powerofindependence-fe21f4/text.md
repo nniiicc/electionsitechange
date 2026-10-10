@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today Independence from Party Control Restoring Accountability in Washington Most Texans don’t wake up thinking in red or blue.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today Independence from Party Control Restoring Accountability in Washington Most Texans don’t wake up thinking in red or blue.
 They think about their families, their work, and whether anyone in Washington actually understands their lives.
 Because of hyperpartisanship and the sense of entitlement to voters, Washington doesn’t have to work that way anymore.
 It’s a closed system that is run by party leadership, enforced by insiders, and designed to protect power, not solve real problems.
@@ -32,10 +32,11 @@ The Bottom Line Independence isn’t about being “in the middle”, it’s abo
 Washington has enough hyperpartisan voices clamoring for status via sensationalism.
 Washington needs a reset, an independent who isn’t controlled by either side.
 That’s how we break the system and give it back to the people.
-Previous A New Era in Education Next Healthcare That Works for People, Not Bureaucracies You Might Also Like Women’s Empowerment & A Fresh Take on Life and Choice Humane Immigration Reform and Border Security A Breakthrough Brief: Thrivability for Small Business The Thurgood Marshall Plan Healthcare That Works for People, Not Bureaucracies STAY UPDATED Let’s Build the Future Together.
+Previous A New Era in Education Next Healthcare That Works for People, Not Bureaucracies You Might Also Like A New Era in Education Humane Immigration Reform and Border Security Women’s Empowerment & A Fresh Take on Life and Choice A Breakthrough Brief: Thrivability for Small Business Healthcare That Works for People, Not Bureaucracies STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
-SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Questions for Team Future?
+Email info@jadesimmonsforsenate.com SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
 Senate .
 We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
 You may unsubscribe at any time.

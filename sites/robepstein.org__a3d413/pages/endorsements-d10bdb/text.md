@@ -1,0 +1,4 @@
+Platform ▼ Healthcare Access For the People Economic Growth Education Environment Housing Affordability About Endorsements Get Involved Contribute Español Community support Endorsements I’m grateful for the support of leaders, neighbors, and organizations who believe in building a stronger, more responsive Georgia.
+314 Action Fund Georgia State AFL-CIO National Democratic Redistricting Committee (NDRC) United Food and Commercial Workers (UFCW) Fighting 50 Georgia Association of Educators (GAE) International Brotherhood of Electrical Workers (IBEW) Atlanta-North Georgia Labor Council (NGALC) Rob Epstein for Georgia House District 23 Contact Us Email: info@robepstein.org Phone: (404) 822-6888 Follow Us f 𝕏 📷 My Voter Page © # Rob Epstein for Georgia State House.
+All rights reserved.
+Paid for by Epstein For Georgia Campaign

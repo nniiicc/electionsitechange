@@ -7,7 +7,9 @@ My campaign committee, gunther4assembly, has been approved by the New York State
 This Match Program levels the playing field.
 A small donation is matched and becomes a big contribution. $5 = $60: $50 = $650: $250 = $2,550.
 You become a big part of this campaign.
-Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# Other 8 Oct Thursday, 10:10 AM · 2026 John's News10 Interview See the video Read more 4 Oct Sunday, 3:15 PM · 2026 Cornell University and the Voluntary Intoxication Loophole This week, a case out of Cornell University has drawn national attention to a real gap in New York law.
+Please take the time to review my stance on local issues below.
+All of our citizens deserve action on these concerns.
+8 Oct Thursday, 10:10 AM · 2026 John's News10 Interview See the video Read more 4 Oct Sunday, 3:15 PM · 2026 Cornell University and the Voluntary Intoxication Loophole This week, a case out of Cornell University has drawn national attention to a real gap in New York law.
 Under the state's current statute, a sexual assault survivor can be denied justice if they had voluntarily consumed alcohol or drugs before being attacked - even if that left them unable to consent.
 It's commonly called the "voluntary intoxication loophole," and it has let real cases go unprosecuted, not because anyone disputes what happened, but because of how the law is written.
 Read more 28 Sep Monday, 4:48 PM · 2026 When “The State Knows Best” Overrides Your Own Town Something is happening in Ticonderoga worth every one of us paying attention to, not because of which party is involved, but because of a much simpler question: should an unelected state office be able to override what your own town decides?
@@ -42,5 +44,5 @@ Created every job I ever promised,” Gunther said.
 “I’ll campaign on my record by running against Matt Simpson’s.” Gunther announced from his home in Shushan, Washington County.
 The 114 th Assembly District encompasses most of Essex, Warren and Washington Counties and a few towns in Saratoga and Fulton Counties.
 He will be on the Democratic and Working Families Party lines in the June Primary unopposed.
-Read more Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Read more Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
 Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

@@ -13,7 +13,11 @@ Day 100 Publish the scorecard A public report on every commitment above: done, i
 Then do it again every hundred days.
 “Publish the plan.
 Then publish the results.” Cmdr.
-Bob Smith, USN (Ret.) Winning CD-24 takes a team Pick one way to help today and we will take it from there.
+Bob Smith, USN (Ret.) Town halls in every county The first promise on this list is the one already being kept.
+Taking questions in person.
+The Orcutt town hall.
+Listening, mostly.
+Winning CD-24 takes a team Pick one way to help today and we will take it from there.
 Volunteer Contribute Home Why Bob Issues Common Ground The Choice Veterans for Bob Latinos con Bob District Map Get Involved Contact Privacy Policy Terms of Use Bob Smith is a retired member of the United States Navy.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
 By providing your phone number you consent to receive SMS/MMS messages from Bob Smith for Congress.

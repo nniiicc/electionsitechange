@@ -13,7 +13,9 @@ Iraq War Veteran.
 Eugene Vindman is a father, husband, immigrant, and veteran running to serve the communities of Virginia in the Halls of Congress.
 Eugene dedicated his life to serving America, the country that gave his family so much.
 Meet Eugene Meet Eugene Stand with Vindman FOR CONGRESS $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
-Recent News and Press UPDATES Eugene’s Vision for Virginia ISSUES Volunteer with Team Vindman Take Action It was great to have Congresswoman Jasmine Crockett in VA-07 getting folks ready to turn out and vote this Nov...
+Recent News and Press UPDATES Eugene’s Vision for Virginia ISSUES Volunteer with Team Vindman Take Action Politicians should not be making women's health care decisions for them.
+I will always stand up for abortion r...
+It was great to have Congresswoman Jasmine Crockett in VA-07 getting folks ready to turn out and vote this Nov...
 The momentum behind our grassroots campaign is undeniable.
 Thank you to everyone who has chipped in to help us...
 The momentum behind our grassroots campaign is undeniable.
@@ -22,8 +24,6 @@ After church, @JasmineforUS and I had a lovely lunch at Confetti and Cocktails i
 Thank you to Rev.
 Dr.
 Sandra James and the First Mount Zion Baptist Church congregation for such a warm welcom...
-Great to be in King George for the "Almost Annual" Collis Warner Pig Roast this weekend!
-Nothing beats good fo...
 DONATE NOW AND STAND WITH EUGENE VINDMAN $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 JOIN THE TEAM Email Address Zip Code Phone .
 By submitting your mobile phone number you are agreeing to receive periodic text messages from Vindman for Congress.

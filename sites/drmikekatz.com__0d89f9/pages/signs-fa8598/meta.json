@@ -1,9 +1,10 @@
 {
  "description": "Request a Dr. Mike Katz for U.S. Senate yard sign for your Delaware neighborhood.",
  "final_url": "https://drmikekatz.com/signs",
- "fingerprint": "6d319684431613b08dfef40f93f751ef2c8ab18b",
+ "fingerprint": "d506636a446db9b66311250f852d38d1ca2ebaa7",
  "format": 3,
  "paid_for_by": "Paid for by Dr",
+ "rendered": false,
  "title": "Request a Yard Sign — Katz for Delaware",
  "years_mentioned": [
   "2026"

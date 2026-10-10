@@ -12,4 +12,4 @@ The Arizona Constitution promises that higher education should be “as free as 
 I will fight to make that constitutional promise a reality.
 Paid for by Deborah Howard for State Representative - LD27.
 Authorized by Deborah Howard.
-Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318 Privacy Policy

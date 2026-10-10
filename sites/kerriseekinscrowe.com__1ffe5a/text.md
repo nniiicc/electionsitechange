@@ -1,4 +1,4 @@
-Home Donate Contact Us More Home Donate Contact Us Home Donate Contact Us I will continue to FIGHT for YOU!
+Home About Donate Contact Us Privacy Policy Terms and Conditions Sign Up More Home About Donate Contact Us Privacy Policy Terms and Conditions Sign Up Home About Donate Contact Us Privacy Policy Terms and Conditions Sign Up I will continue to FIGHT for YOU!
 I will continue to FIGHT for YOU!
 I will continue to FIGHT for YOU!
 I will continue to FIGHT for YOU!
@@ -24,4 +24,4 @@ Passionate ...
 Proven Leadership Business & Labor Committee-- Vice Chair Education Committee & Interim Committee Public Safety Appropriations Interim Committee Fish, Wildlife & Parks Committee Local Government Committee ALEC State Chair Republican Legislative Campaign Committee I WILL CONTINUE to FIGHT FOR YOUR MONTANA VALUES!
 Contact Kerri to have your voice heard.
 Follow me on Facebook @ Kerri4MT Contact Kerri Paid for by Kerri4MT 480 Pinon Dr.
-Billings, MT 59105 (Republican) Powered by Donate
+Billings, MT 59105 (Republican) Powered by About Donate Privacy Policy Sign Up

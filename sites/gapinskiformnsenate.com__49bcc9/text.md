@@ -8,12 +8,19 @@ An effective conservative who delivers for rural communities and stands up to th
 Paul, Jared knows how to stand up for our values.
 Where Do I Vote ?
 Donate Your browser does not support the video tag.
-Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 #ago Yesterday, we had the opportunity to take part in the Benton County Board Cookout, where we helped prepare and serve lunch for the hardworking employees of Benton County.
+Follow the Campaign in Real Time Facebook Used for the like, share, comment, and reaction icons Jared Gapinski For MN Senate 13 #ago Recent reports of threats surrounding local sporting events are deeply concerning.
+Our schools and athletic events should be places where students, families, and communities can come together without fear for their safety.
+My thoughts and prayers are with our students, families, coaches, and everyone affected by these concerns.
+I also want to express my sincere appreciation for our local law enforcement officers who work every day to keep our communities safe.
+Their dedication, professionalism, and willingness to put themselves in harm’s way do not go unnoticed.
+Thank you to all who work to protect our communities.
+Please stay safe, look out for one another, and keep everyone affected in your prayers. ...
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 29 Shares: 3 Comments: 0 0 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Yesterday, we had the opportunity to take part in the Benton County Board Cookout, where we helped prepare and serve lunch for the hardworking employees of Benton County.
 We’re incredibly thankful for the men and women who show up every day to serve our communities and keep county services running.
 Their hard work, dedication, and commitment often happen behind the scenes, but they make a real difference in the lives of the people they serve.
 Thank you to all of our Benton County employees for everything you do.
 We appreciate you and the important role you play in making our county a great place to live, work, and raise a family! ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 51 Shares: 1 Comments: 3 3 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago We need to take a serious look at ALL programs at the state level.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 54 Shares: 2 Comments: 3 3 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago We need to take a serious look at ALL programs at the state level.
 Minnesotans who need help are looking for a hand up, not a handout.
 At the same time, we need to dig deeper into funded and unfunded mandates pushed down to local governments.
 Those mandates have real consequences for taxpayers when local levies are set each year.
@@ -51,10 +58,4 @@ See More See Less View on Facebook · Share Share on Facebook Share on Twitter S
 #ago I’m proud to have earned the endorsement of NFIB Minnesota!
 Small businesses are the backbone of our communities, and I am committed to making Minnesota a place where they can grow, create jobs, and thrive.
 Thank you to our small business owners for your confidence and support! www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #SmallBusiness #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes 22 Shares: 4 Comments: 1 1 Comments Comment on Facebook Jared Gapinski For MN Senate 13 #ago Thank you to the St.
-Cloud Area Chamber of Commerce for hosting Wednesday’s candidate forum and giving our community the opportunity to hear directly from the candidates running to represent our area at the State Capitol.
-I was grateful for the opportunity to participate, discuss the issues facing Senate District 13, and share my vision for representing the families, businesses, and communities that make Central Minnesota such a great place to call home.
-Forums like this are an important part of the election process.
-Thank you to the Chamber, everyone who helped organize the event, and those who took the time to attend and stay engaged in the future of our communities.
-I’m looking forward to continuing the conversation across Senate District 13 as we head toward Election Day on November 3! www.gapinskiformnsenate.com #MNLeg #MNSenate #District13 #SmallBusiness #chamberofcommerce #MNPolitics #Vote2026 #MNVotes #GOP #GapinskiforMNSenate ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes love 55 Shares: 0 Comments: 0 0 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email View Comments likes 22 Shares: 4 Comments: 1 1 Comments Comment on Facebook Load more Vote Jared Gapinski For Minnesota State Senate General Election November 3rd Prepared and Paid for by Jared Gapinski for MN Senate Privacy Policy

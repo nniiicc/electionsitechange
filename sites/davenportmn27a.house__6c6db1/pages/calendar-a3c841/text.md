@@ -1,9 +1,5 @@
-0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Oct 9 Big Lake Door Knocking Friday, October 9, 2026 5:00 PM 7:00 PM Big Lake City Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
-Facebook Event Page 5:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake City Hall in the front near the pavilion.
-Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
-Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
-View Event → Oct 12 Clear Lake Door Knocking Monday, October 12, 2026 4:00 PM 7:00 PM Clear Lake City Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
-Facebook Event Page 4:30-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Clear Lake City Hall Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
+0 Skip to Content Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Oct 12 Clear Lake Door Knocking Monday, October 12, 2026 4:00 PM 7:00 PM Clear Lake City Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
+Facebook Event Page Mobilize Signup 4:30-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Clear Lake City Hall Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 13 Big Lake Door Knocking Tuesday, October 13, 2026 4:00 PM 7:00 PM Big Lake Lions Park (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
 Mobilize Signup FaceBook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake Lions Park Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
@@ -12,7 +8,7 @@ View Event → Oct 14 DFL SD27 Monthly Meeting Wednesday, October 14, 2026 6:30 
 Social hour begins at 5:30 pm.
 Meeting begins at 6:30.
 Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
-View Event → Oct 15 Becker Door Knocking Thursday, October 15, 2026 4:00 PM 7:00 PM Becker Community Center (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement. ‍ Facebook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Becker Community Center Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
+View Event → Oct 15 Becker Door Knocking Thursday, October 15, 2026 4:00 PM 7:00 PM Becker Community Center (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement. ‍ Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Becker Community Center Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 16 to Nov 2 Early Voting Starts!!
 Fri, Oct 16, 2026 8:00 AM Mon, Nov 2, 2026 8:00 PM Google Calendar ICS Do your research!
@@ -20,27 +16,34 @@ Its up to us to get money out of politics!
 Grab your neighbors, friends, and family members and go vote!
 VOTE EARLY!
 View Event → Oct 16 Big Lake Twp Door Knocking Friday, October 16, 2026 4:00 PM 7:00 PM Big Lake Lions Park (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
-Facebook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake Lions Park Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
+Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake Lions Park Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 17 Vote Early Protest!
 Saturday, October 17, 2026 12:30 PM 2:30 PM Pedestrian Bridge over Hwy 169 (map) Google Calendar ICS Pedestrian bridge over Hwy 169 in Elk River.
 Plenty of parking!
 Bring your voting signs!
-Mobilize Sign Up ‍ ‍ View Event → Oct 21 Orrock Door Knocking Wednesday, October 21, 2026 4:00 PM 7:00 PM Orrock Township Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
+Mobilize Sign Up ‍ ‍ View Event → Oct 18 Meet Doug Chapin Sunday, October 18, 2026 1:00 PM 3:00 PM 11445 Brenda Boulevard Becker, Minnesota, 55308 United States (map) Google Calendar ICS Join Doug Chapin and Vanessa Davenport in Becker for an open community conversation!
+No political knowledge required.
+Just curiosity, questions, and a shared interest in building a stronger community together.
+Light refreshments will be provided.
+Other local DFL House & Senate candidates have been invited to participate.
+RSVP Today!
+View Event → Oct 21 Orrock Door Knocking Wednesday, October 21, 2026 4:00 PM 7:00 PM Orrock Township Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
 Mobilize Signup Facebook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: TBD Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 28 Big Lake Door Knocking Wednesday, October 28, 2026 4:00 PM 7:00 PM Big Lake City Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
-Facebook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake City Hall in the front near the pavilion.
+Facebook Event Page Mobilize Signup 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake City Hall in the front near the pavilion.
 Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
-Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
-View Event → Oct 28 TBD Door Knocking Wednesday, October 28, 2026 5:00 PM 7:30 PM United States (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
-5:00-7:30 PM Neighborhood Door Knocking & Community Outreach Location: TBD Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Nov 3 Election Day!
 Tuesday, November 3, 2026 11:00 AM 12:00 PM Google Calendar ICS Ballots available for in person and mail voting : Friday, September 18 Start of Early Voting* : Friday, October 16 Last day to vote early in person : Monday, November 2 Ballots must be received by : Tuesday, November 3 View Event → Nov 11 DFL SD27 Monthly Meeting Wednesday, November 11, 2026 6:30 PM 7:30 PM Papa's Italian (map) Google Calendar ICS Join us for our next meeting at Papa's Italian in Zimmerman.
 Social hour begins at 5:30 pm.
 Meeting begins at 6:30.
 Get involved - get to know others who care about protecting rights, expanding freedoms, and defending democracy!
+View Event → Oct 9 Big Lake Door Knocking Friday, October 9, 2026 5:00 PM 7:00 PM Big Lake City Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
+Facebook Event Page Mobilize Signup 5:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Big Lake City Hall in the front near the pavilion.
+Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
+Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
 View Event → Oct 7 Clear Lake Door Knocking Wednesday, October 7, 2026 4:00 PM 7:00 PM Clear Lake City Hall (map) Google Calendar ICS Join local DFL candidates and community members for an afternoon of civic engagement.
 Mobilize Signup Facebook Event Page 4:00-7:00 PM Neighborhood Door Knocking & Community Outreach Location: Clear Lake City Hall Whether you're an experienced volunteer or joining us for the first time, we'd love to have you with us.
 Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport, Candidate for MN HD 27A We hope you'll join us for an evening of conversation focused on strengthening our communities and moving Minnesota forward.
@@ -186,12 +189,4 @@ Featured Candidates: Brandon Van Dover, Candidate for MN SD 27 Vanessa Davenport
 View Event → Jul 18 Wright-Sherburne Pride Festival Saturday, July 18, 2026 11:00 AM 3:00 PM Ellison Park (map) Google Calendar ICS Come volunteer with the DFL SD 27 & 30 run a booth at the Wright-Sherburne Sherburne Pride.
 There will be 3 tables with 2 hour slots.
 Sign Up: Google Doc Date & Time: Saturday (7/18) 11AM-3PM Location: Ellison Park in Monticello MN.
-View Event → Jul 18 Sherburne County Fair Parade Saturday, July 18, 2026 8:30 AM 12:00 PM Main St.
-Elk River, MN (map) Google Calendar ICS Come join the DFL party to walk in the parade!
-ALL are welcome.
-If you can not walk, we would greatly appreciate your support in the crowd.
-Date & Time: Saturday, July 18th Line up starts at 8:30.
-Parade starts at 10 AM Location: Lining up along Main St. near the Handke Center.
-Enter from the east by the downtown area.
-Parade ends at Orono Parkway and Joplin.
 View Event → Paid for by Davenport for Minnesota House 27A

@@ -11,7 +11,7 @@ And we can do it by driving down taxes and reinventing a state government that t
 If you believe in West Virginia, if you believe in our people, and if you believe in our future, then join us!
 If you’re ready to roll up your sleeves and help Chris, show your support by signing our digital endorsement card today!
 Get more information about endorsing Chris.
-Full Name * Email * Phone Address Street Address City State Country Country Zip Code * By providing your phone number and checking the box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Miller for State Senate.
+Full Name * Email * Phone Address Street Address Country Country State City Zip Code * By providing your phone number and checking the box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Miller for State Senate.
 Reply HELP for help, STOP to end.
 Msg & Data Rates May Apply.
 Message frequency may vary.

@@ -1,4 +1,4 @@
-top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+top of page About Endorsements Issues Media News Press Releases Photos Videos RECA Volunteer Contribute More Use tab to navigate through the menu items.
 All Americans deserve to have access to quality, affordable health care in their communities All New Mexicans and all Americans have a fundamental right to quality, affordable health care in their communities.
 That includes rural and tribal communities, which often lack access to care. ​ We all know someone who we care about who hasn’t gone to the doctor because they couldn’t afford the deductible or copay.
 As a cancer survivor, I understand how costly getting sick can be.

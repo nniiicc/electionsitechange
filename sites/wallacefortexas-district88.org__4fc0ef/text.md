@@ -62,9 +62,6 @@ Our Voice — heard clearly and carried faithfully.
 Our Liberty — protected through responsibility and restraint.
 Our Texas — strong, practical, and united.
 If you believe Texas works best when decisions are made close to home… If you believe leadership should listen first and act with purpose… Then I would be honored to earn your trust and your support.
-Upcoming Events Block Walk Date Time Come out and knock doors with us!
+Upcoming Events and Ways to Advocate Block Walk Date Time Come out and knock doors with us!
 A quick training and waters will provided.
-RSVP Rally Date Time Want to meet like minded folks and find out more about where you can help?
-Join us at location with guest speakers.
-RSVP Phone Bank Date Time Register to virtually help with outreach and identify eligible voters.
-RSVP Upcoming Tours Click Here Podcasts Click Here Endorsed By: Heather Wallace for Texas House District 88 Contact wallaceforlibertyandvoicetxh88@gmail.com
+RSVP Be An Advocate Ways to get involved on issues that matter Support Learn More Video Links Upcoming Tours Click Here Podcasts Click Here Endorsed By: NASW National Association of Social Workers PACE Texas Chapter Heather Wallace for Texas House District 88 Contact wallaceforlibertyandvoicetxh88@gmail.com

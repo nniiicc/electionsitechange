@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.dowforhouse.com/Resources",
- "fingerprint": "decc8178cab380570686aa4f6f5fcbf5be4504c3",
+ "fingerprint": "deb5afbb5d3c6987786020ba43363d97ceecc353",
  "format": 3,
  "paid_for_by": "PAID FOR BY COMMITTEE TO ELECT REBECCA DOW",
+ "rendered": false,
  "title": "Dow for House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate In the Community Rep.
 Ricks posing with some of the members of the Aurora Chamber.
 Representative Ricks posing with Adjutant General McClellan Representative Ricks spoke on the Small Business Panel. aurora chamber of commerce meeting A few months ago, Rep.
@@ -157,4 +157,5 @@ Ricks attended the Winter Park Jazz Festival, where she enjoyed performances fro
 Ricks attended a screening of This Is Not a Drill and spoke on a panel to discuss what's happening right here in Aurora.
 Fracking operations and new oil rigs are going up near the Aurora Reservoir: a critical water source for hundreds of thousands of Coloradans.
 Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

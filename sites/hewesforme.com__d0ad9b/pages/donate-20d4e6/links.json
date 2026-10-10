@@ -1,6 +1,54 @@
 [
 {
-"text": "Continue to the official donation page →",
-"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+"text": "Candidate Login",
+"href": "https://www.hewesforme.com/cgi-bin/online/ethics/cleanelection/cand_admin/index.pl"
+},
+{
+"text": "Ethics Commission Home",
+"href": "http://www.maine.gov/ethics/"
+},
+{
+"text": "FAQ",
+"href": "https://www.hewesforme.com/faq.pl"
+},
+{
+"text": "Find your polling place & Elected Official",
+"href": "http://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "Frequently Asked Questions",
+"href": "https://www.hewesforme.com/faq.pl"
+},
+{
+"text": "Maine Clean Election Act",
+"href": "http://www.maine.gov/ethics/mcea/"
+},
+{
+"text": "Maine Clean Election Act Online Qualifying Contribution Service",
+"href": "https://www.hewesforme.com/home.pl"
+},
+{
+"text": "Maine eDemocracy",
+"href": "http://www.maine.gov/portal/government/edemocracy/elections_voting.html"
+},
+{
+"text": "Maine.gov",
+"href": "http://www.maine.gov"
+},
+{
+"text": "More Online Services",
+"href": "http://www.maine.gov/portal/online_services/"
+},
+{
+"text": "Site Policies",
+"href": "http://www.maine.gov/portal/policies/index.html"
+},
+{
+"text": "[image: Transaction Security Icon]",
+"href": "http://www.maine.gov/portal/policies/security.html"
+},
+{
+"text": "ethics@maine.gov",
+"href": "mailto:ethics@maine.gov"
 }
 ]

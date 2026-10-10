@@ -11,4 +11,4 @@ Affordable Housing Solving our district’s housing shortage starts with using g
 Rising rents, limited inventory, and changing demographics are making it harder for families to stay in our communities.
 I will work with boroughs to cut red tape, make smarter use of land, and expand housing options so Alaskans, young families, workers, and seniors can all afford a place to call home. district first I am committed to representing our way of life in coastal Alaska, which is why I pledge to refuse funding from PACs, outside organizations, and special interest groups.
 I’ll always put the needs of the people who live and work here first, while representing our district in Juneau.
-Paid for by Prout for Alaska
+Paid for by Prout for Alaska 3900 Spruce Cape RD, Kodiak, Alaska, 99615

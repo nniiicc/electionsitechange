@@ -28,4 +28,4 @@ Ben is a believer in hard work and he knows in order to get things done and done
 In the legislature, Ben Mostyn will be the one who gets things done, not only in short order, but done right for Texas.
 Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
 Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
-Follow Follow Follow Follow
+Follow Follow Follow Follow Follow

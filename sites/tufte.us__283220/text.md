@@ -1,4 +1,4 @@
-Skip to main content Re-elect Justice Jerod Tufte North Dakota Supreme Court Menu About The Court Record Endorsements Volunteer Signs Contribute Re-elect Justice Jerod Tufte Justice of the North Dakota Supreme Court Proven.
+Skip to main content Re-elect Justice Jerod Tufte North Dakota Supreme Court Menu About The Court Record Context Endorsements Volunteer Signs Contribute Re-elect Justice Jerod Tufte Justice of the North Dakota Supreme Court Proven.
 Principled.
 Prepared.
 A judicial record North Dakota can trust.
@@ -18,5 +18,5 @@ Tufte for Supreme Court Proven.
 Principled.
 Prepared.
 A judicial record North Dakota can trust.
-Campaign About Justice Tufte About the Court Record and Service Endorsements Contribute Volunteer Request a sign Contact Disclosures Connect Facebook: @JudgeTufte justice@tufte.net Tufte for Supreme Court c/o Robert Subart, Treasurer 1661 33rd Ave SE Robinson, ND 58478 Paid for by Tufte for Supreme Court, Robert Subart, Treasurer, 1661 33rd Ave SE, Robinson, ND 58478. © # Tufte for Supreme Court.
+Campaign About Justice Tufte About the Court Record and Service Context Endorsements Contribute Volunteer Request a sign Contact Disclosures Connect Facebook: @JudgeTufte justice@tufte.net Tufte for Supreme Court c/o Robert Subart, Treasurer 1661 33rd Ave SE Robinson, ND 58478 Paid for by Tufte for Supreme Court, Robert Subart, Treasurer, 1661 33rd Ave SE, Robinson, ND 58478. © # Tufte for Supreme Court.
 All rights reserved.

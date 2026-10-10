@@ -6,6 +6,7 @@ Learn more → Standing Up to Corruption It's time to end the sweetheart deals f
 Learn more → More ways forward More priorities Lowering the Cost of Living The cost-of-living crisis is crushing Kansans.
 We need to bring it under control.
 Learn more → Supporting Working Families Working people should be able to support a family, even in tough times.
+Learn more → Protecting Kansas Agriculture Our farmers and ranchers feed the world, and Cindy will have their backs.
 Learn more → Investing in Kansas Kids Every child deserves the chance to succeed, and that starts with world-class public schools.
 Learn more → Legalizing Recreational and Medicinal Cannabis Legalizing it here at home would raise money for schools and public services.
 Learn more → Protecting Social Security, Medicare, and Medicaid Cindy will safeguard these critical programs that more than half a million Kansans depend on.

@@ -1,8 +1,4 @@
-Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate Join Us Campaign Events Knock doors for Randy Villegas, CD22 | October 9, 10, 11 in Porterville!
-Multiple Times Volunteer travel to Fresno!
-San Jose, CA, 95123 It's time to talk to voters in CD22!
-Let's build the grassroots power Democrats need to elect Randy Villegas in 2026 and to defend democracy long term.
-Join us in going door-to-door talking to voters.… Show more RSVP Get Your Randy Villegas Yard Sign NOW in Fresno!
+Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate Join Us Campaign Events Get Your Randy Villegas Yard Sign NOW in Fresno!
 Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Fresno, CA, 93721 We are excited to announce that we have Randy Villegas yard signs available NOW in our Fresno office!
@@ -34,7 +30,11 @@ Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Hanford, CA, 93230 Villegas for Congress is knocking on doors for Randy Villegas and we need your help!
 Please join us to knock on doors in Hanford to ensure we elect Randy to Congress!
-If you’ve never canvassed befor… Show more RSVP Phonebank for Randy Villegas!
+If you’ve never canvassed befor… Show more RSVP Knock doors for Randy Villegas, CD22 | October 9, 10, 11 in Porterville!
+Multiple Times Volunteer travel to Fresno!
+San Jose, CA, 95123 It's time to talk to voters in CD22!
+Let's build the grassroots power Democrats need to elect Randy Villegas in 2026 and to defend democracy long term.
+Join us in going door-to-door talking to voters.… Show more RSVP Phonebank for Randy Villegas!
 Multiple Times Virtual Event Join the Villegas for Congress team for our Thursday phonebanks.
 We'll be calling voters in District 22 to earn their votes for the November 3rd election.
 Each phone bank will begin with a training o… Show more RSVP Knock on Doors for Randy Villegas in Tulare!

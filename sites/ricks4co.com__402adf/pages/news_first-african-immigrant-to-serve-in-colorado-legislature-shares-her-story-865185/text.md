@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker February 22, 2023 First African immigrant to serve in Colorado legislature shares her story Morgan Anker February 22, 2023 BLACK HISTORY MONTH First African immigrant to serve in Colorado legislature shares her story by: Gabrielle Franklin Posted: Feb 20, 2023 / 05:59 PM MST Updated: Feb 20, 2023 / 05:59 PM MST DENVER (KDVR) — When we talk about Black History in America, we are typically referring to the contributions and achievements of Black people born here in America.
 Here in Colorado, the state has become a hot spot for Black immigrants to make a life for themselves and break history while doing it.
 One immigrant blazing her own trail in the state Capitol is Rep.
@@ -28,4 +28,5 @@ Local woman makes history with 1st Black-owned cannabis dispensary “Black immi
 State Rep.
 Junie Joseph, a Haitian immigrant, now joins her in representing Black immigrants at the state Capitol.
 Source: https://kdvr.com/black-history-month/first-african-immigrant-to-serve-in-colorado-legislature-shares-her-story/ Newer Post LOCAL NEWS State lawmaker calls HOA charges "excessive" following CBS News Colorado investigation Older Post Representative Naquetta Ricks wins second term as Colorado State Representative Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

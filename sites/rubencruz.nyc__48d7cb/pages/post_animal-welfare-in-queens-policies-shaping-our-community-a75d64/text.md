@@ -49,8 +49,8 @@ Animal welfare policies are shaping Queens in profound ways.
 They reflect our values and our vision for a better future.
 I’m committed to supporting these efforts because I believe a community that cares for its animals is a community that cares for all its members.
 Let’s keep pushing forward—together.
-Recent Posts See All Transforming Local Education: Essential Education Reform Strategies Education shapes our future.
+Recent Posts See All Rethinking Housing Policies for Local Impact: Affordable Housing Strategies That Work Transforming Local Education: Essential Education Reform Strategies Education shapes our future.
 It molds the minds of tomorrow’s leaders, workers, and citizens.
 Yet, our local schools face challenges that demand urgent action.
-I believe it’s time to transform local e CruzNYC Community Efforts: Building Stronger Communities Together Reimagining Local Education Plans for the Future: Bold Education Plan Improvements The Full Circle: Join the Movement Donate to WIN VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+I believe it’s time to transform local e CruzNYC Community Efforts: Building Stronger Communities Together The Full Circle: Join the Movement Donate to WIN VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
 The Foundation BBQ The Blueprint Events Get Involved Contact Paid for by Friends of Ruben Cruz ESSENTIAL LINKS - Click Below Unemployment Insurance Free Meals Domestic Violence Assistance Elder Abuse Office of Victiim Services NYC Well Apply for SNAP CITYMEALS for Seniors Food Bank Check Your DEED MTA Maps Home Energy Assistance Program Property Tax Benefits A S P C A Services Hotline Community Board 5 Community Board 8 Community Board 9 Community Board 10 bottom of page

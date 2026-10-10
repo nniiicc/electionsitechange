@@ -4,11 +4,11 @@ Self Scheduled Door Knocking Contact DONATE Open Menu Close Menu Folder: Get To 
 Self Scheduled Door Knocking Contact DONATE Upcoming events.
 Upcoming events.
 Check out what we've got in store.
-Oct 9 Friday Door Knocking With Steven Schroer & JD Delgado Friday, October 9, 2026 4:00 PM 6:30 PM Google Calendar ICS Join us and knock some doors!
-Meet up Park Location will be emailed out.
-View Event → Oct 11 Sunday Door Knocking Sunday, October 11, 2026 12:30 PM 3:00 PM Google Calendar ICS Join us and knock some doors!
+Oct 11 Sunday Door Knocking Sunday, October 11, 2026 12:30 PM 3:00 PM Google Calendar ICS Join us and knock some doors!
 Meet up Park Location will be emailed out.
 View Event → Oct 16 Friday Door Knocking Friday, October 16, 2026 4:00 PM 6:30 PM Google Calendar ICS Join us and knock some doors!
+Meet up Park Location will be emailed out.
+View Event → Oct 9 Friday Door Knocking With Steven Schroer & JD Delgado Friday, October 9, 2026 4:00 PM 6:30 PM Google Calendar ICS Join us and knock some doors!
 Meet up Park Location will be emailed out.
 View Event → Oct 4 Sunday Door Knocking Sunday, October 4, 2026 12:30 PM 3:00 PM Google Calendar ICS Join us and knock some doors!
 Meet up Park Location will be emailed out.

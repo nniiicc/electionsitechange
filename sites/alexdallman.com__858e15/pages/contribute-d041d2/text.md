@@ -3,7 +3,7 @@ Every dollar sent to our campaign will enter the fight to preserve our Constitut
 Click on the button below to donate!
 You may also send donations by mail to: Friends of Alex Dallman PO Box 113 Green Lake, WI 54941 CLICK HERE TO MAKE A DONATION!
 Contact Us We sincerely appreciate your support.
-Please reach out to us if you have any questions, would like to volunteer, or if you are willing to host a fundraiser!
+Please reach out to us if you have any questions, would like to volunteer, put up a yard sign, or if you are willing to host a fundraiser!
 Friends of Alex Dallman, PO Box 113, Green Lake, WI 54941 dallmanforassembly@gmail.com Copyright © # Friends of Alex Dallman - All Rights Reserved.
 Paid for by Friends of Alex Dallman PO Box 113 Green Lake, WI 54941 DallmanForAssembly@gmail.com Powered by Help us by making a contribution today!
 The fight is on to protect our Constitutional rights!

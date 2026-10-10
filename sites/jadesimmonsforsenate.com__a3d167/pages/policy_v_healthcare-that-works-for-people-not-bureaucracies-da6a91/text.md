@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today Healthcare That Works for People, Not Bureaucracies The Problem Healthcare in this country has drifted away from the people it’s supposed to serve.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today Healthcare That Works for People, Not Bureaucracies The Problem Healthcare in this country has drifted away from the people it’s supposed to serve.
 Costs are unpredictable.
 Bills arrive without warning.
 Patients delay care because they’re afraid of what it will cost and when they do seek help, they often find themselves navigating paperwork instead of receiving treatment.
@@ -47,10 +47,11 @@ Putting a maximum wait-time guarantee on healthcare, between referral to service
 It’s the healthcare we deserve.
 The future is wholeness, health, wellness, and fair care.
 Texas, we have it in us to do better for us.
-Previous Independence from Party Control Next Humane Immigration Reform and Border Security You Might Also Like Humane Immigration Reform and Border Security Independence from Party Control A New Era in Education Women’s Empowerment & A Fresh Take on Life and Choice A Breakthrough Brief: Thrivability for Small Business STAY UPDATED Let’s Build the Future Together.
+Previous Independence from Party Control Next Humane Immigration Reform and Border Security You Might Also Like Thrivability: Beyond Affordability to Economic Possibility Humane Immigration Reform and Border Security The Thurgood Marshall Plan Women’s Empowerment & A Fresh Take on Life and Choice A New Era in Education STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
-SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Questions for Team Future?
+Email info@jadesimmonsforsenate.com SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
 Senate .
 We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
 You may unsubscribe at any time.

@@ -1,4 +1,4 @@
-Press Room Events & Appearances Issues Volunteer Contribute Issues Ralph Ambrosio's campaign is built on four core priorities to restore common sense, accountability, and prosperity.
+Press Room Events & Appearances Healthcare Plan Core Priorities Volunteer Contribute Issues Ralph Ambrosio's campaign is built on four core priorities to restore common sense, accountability, and prosperity.
 Lower the Cost of Living & Boost Economic Opportunity We have to tackle crushing costs and lack of opportunity through tax cutting and deregulation.
 This will lower costs and put more money back in your pocket.
 Ensure Cheap & Abundant Energy Our foolish restrictions on energy sources has sent energy costs soaring and curbed economic growth.
@@ -8,4 +8,4 @@ By focusing on crime prevention and effective policing, we will see gains in pub
 Reclaiming Our Future & Challenging the Establishment Offer a fresh perspective to challenge the status quo and better represent our home of upstate NY.
 This means support for term limits, Voter ID, parental rights in education, and rooting out corruption wherever it exists.
 We need a government we can trust and that represents all of us.
-Ralph Ambrosio for Congress Powered by CampaignPartner.com - Political Websites Home Press Room Issues Contribute Volunteer Events & Appearances Close Menu
+Ralph Ambrosio for Congress Powered by CampaignPartner.com - Political Websites Press Room Events & Appearances Healthcare Plan Core Priorities Volunteer Contribute Close Menu

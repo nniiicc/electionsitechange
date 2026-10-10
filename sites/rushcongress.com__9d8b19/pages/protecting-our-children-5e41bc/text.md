@@ -51,6 +51,37 @@ This is pro-child, pro-learning, pro-mental-health , and pro-responsibility .
 Protecting Childhood in the Digital Age Protecting Childhood in the Digital Age Children deserve time to learn, grow, and develop free from addictive technologies designed to exploit their attention.
 I support phone-free school days for all K–12 students , a minimum social-media age of 16 , and strong protections against addictive algorithms for minors — with enforcement placed on corporate platforms, not parents or children .
 Social media companies that profit from youth must be held accountable for protecting them — not the other way around.
+PAY ATTENTION — Protecting Our Children A Powerful New Gaia Knights Song About Childhood, Social Media, Screen Addiction, and Our Responsibility to Protect the Next Generation.
+Everybody wants their attention.
+Who's paying attention to them?
+We are raising an entire generation in a world where technology companies compete for every moment of their attention.
+Children are surrounded by smartphones, social media, addictive algorithms, endless scrolling, and digital entertainment designed to keep them engaged for as long as possible.
+Meanwhile, parents are exhausted, teachers are overwhelmed, and children are increasingly expected to navigate a digital environment that even adults struggle to control.
+And when children have difficulty concentrating, listening, learning, or connecting with others, we often blame them.
+But who created the environment they're growing up in?
+My new Gaia Knights song, PAY ATTENTION , explores this question through the everyday experiences of children, parents, and teachers.
+It tells the story of a child trying to get a parent's attention, a student struggling in the classroom, an exhausted mother handing her child a tablet, and the powerful digital systems constantly calling young people back to their screens.
+But the song is about something much bigger than technology.
+It's about the childhood experiences we're losing—and the human connections we need to restore.
+“Childhood is practice for being human.” Children need time to play, imagine, explore, make friends, resolve disagreements, experience disappointment, and learn how to interact with the world around them.
+These are essential parts of growing up.
+Why I Support Stronger Protections for Children As part of my Protecting the Children policy platform, I support prohibiting social media access for children under 16, establishing healthier screen-time boundaries, and creating phone-free learning environments in our K–12 schools.
+These proposals are not about rejecting technology or denying its benefits.
+They're about recognizing that children deserve special protections during critical years of development—and that companies profiting from capturing their attention should not be allowed to determine the conditions of childhood.
+Parents and teachers cannot solve these problems alone.
+We need policies that support families, protect children, and place their long-term well-being ahead of corporate profits.
+We must also recognize the pressures on working parents and the importance of giving families more time together.
+The responsibility belongs to all of us.
+Listen to the Full Song: PAY ATTENTION I invite you to watch this complete Gaia Knights music video and consider the questions it raises.
+The song isn't intended to blame children, parents, or teachers.
+It's a call for all of us to recognize what is happening and take responsibility for creating a healthier future.
+“The children aren't failing us.
+We're failing the children.” If this song speaks to you, please LIKE the video on YouTube, leave a COMMENT, and SHARE it with parents, grandparents, teachers, and others who care about the future of our children.
+Because protecting childhood isn't just about limiting screen time.
+It's about giving children back the time, attention, relationships, and experiences they need to become healthy, capable, compassionate human beings.
+PAY ATTENTION — Created and produced by Rob Rush [Ruszkowski] for Gaia Knights: Songs for a Brighter Tomorrow.
+People Over Parties.
+Children Before Profits.
 Donate Here Every Contribution - Large or Small - Makes a Difference Donate Home General Election Info Come Meet Me Who is Rob Rush?
 FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform How to Vote Write-In Campaign Update Contact Volunteer Campaign Videos Music, Art & Our Campaign Others We Support Press & Media FEC Disclaimer Privacy Policy Paid for by Rob Ruszkowski ( Rush ) for Congress Rising Fawn GA 30738 Donations processed via Donorbox • We do not sell your data “Translations are machine-generated; please see English version for official text.” Copyright © # Paid for By Rob Ruszkowski ( Rush ) For Congress - All Rights Reserved.
 Powered by

@@ -1,9 +1,10 @@
 {
  "description": "staging",
  "final_url": "https://bobsmithforcongress.com/district-map/",
- "fingerprint": "bbac5b97f289cc92ba2906c6b8bb688d5dd1065e",
+ "fingerprint": "6a23963c75a4aebd6992ca1dbc286f17a155c697",
  "format": 3,
  "paid_for_by": "Paid for by Bob Smith for Congress",
+ "rendered": false,
  "title": "District Map | Bob Smith for Congress",
  "years_mentioned": []
 }

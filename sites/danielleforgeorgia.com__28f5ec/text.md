@@ -2,9 +2,13 @@ Home Donate Policy About Endorsed Gallery Volunteer!
 Home Donate Policy About Endorsed Gallery Volunteer!
 More Home Donate Policy About Endorsed Gallery Volunteer!
 Home Donate Policy About Endorsed Gallery Volunteer!
-Meet Danielle Bell Meet Danielle Bell Meet Danielle Bell Meet Danielle Bell CANDIDATE FOR GEORGIA HOUSE OF REPRESENTATIVES District 44 Woodstock & Marietta Meet Danielle Bell Meet Danielle Bell Meet Danielle Bell Meet Danielle Bell CANDIDATE FOR GEORGIA HOUSE OF REPRESENTATIVES District 44 Woodstock & Marietta Accessible leadership that LISTENS!
-Nice to meet you!
-Launch to 2026 We're ready to finish what we started!
+Meet DANIELLE BELL-Candidate for GA State House, District 44 Priorities Affordability Access to Healthcare Access to Healthcare Lowering housing costs, childcare expenses, and utility bills so hard working families can get ahead and build a future they an count on.
+Learn more Access to Healthcare Access to Healthcare Access to Healthcare Expanding access to affordable coverage, ending surprise medical bills, and joining the 41 states that have expanded Medicaid.
+Learn more Accountable Leaders Access to Healthcare Accountable Leaders Lawmakers should answer to working families, not special interests and out of state corporations.
+Danielle will listen first, tell the truth, and put people before politics.
+Learn more Fighting to make everyday life more affordable for Georgians Danielle Bell is a community-focused leader running for the Georgia State House to serve District 44.
+Her vision is simple: every Georgian should have a chance to succeed, every voice should be heard, and state government should be built on trust, faith, service, and accountability.
+Accessible Leadership Launch to 2026 We're ready to finish what we started!
 Connect with us!
 Danielle's Approach to Community Danielle's Approach to Community Danielle's Approach to Community Podcast: Entrepreneur and Political Candidate, Danielle Bell Featured on Cherokee BusinessX Radio Listen here Spread the Word!
 Danielle's Approach to Community Danielle's Approach to Community Sign up here to get involved in local activism.

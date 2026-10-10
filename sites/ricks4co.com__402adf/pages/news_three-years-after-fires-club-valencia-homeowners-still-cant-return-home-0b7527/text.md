@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker November 20, 2025 Three years after fires, Club Valencia homeowners still can’t return home Morgan Anker November 20, 2025 ARAPAHOE COUNTY, Colo. — Three years after two fires ripped through the Club Valencia Condominiums off Parker Road, Linda Jones still hasn’t been able to go home.
 Jones, a certified nursing assistant who has owned her condo since 2019, said the anniversary of the first fire in November 2022 , feels less like a date on the calendar and more like an open wound.
 “We’ve got 160 units shut down, people out of a home, people living on the streets, people in their cars,” Jones said.
@@ -46,4 +46,5 @@ Jones said she believes the lawyers working on the cases are doing what they can
 “We’ve got to get these people back into their units.
 This is what they can afford.
 We’ve got to get this rebuilt.” Source: https://www.denver7.com/follow-up/three-years-after-fires-club-valencia-homeowners-still-cant-return-home Newer Post Colorado law protecting renters from 'junk fees' now in effect Older Post Colorado’s AG, Democratic lawmakers criticize Trump administration move to include medical debt in people’s credit reports Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

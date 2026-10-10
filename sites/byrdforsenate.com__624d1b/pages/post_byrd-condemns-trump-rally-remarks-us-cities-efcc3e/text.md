@@ -1,5 +1,5 @@
 top of page Home About Issues News Menu Close All Posts James Byrd Condemns Trump’s Rally Remarks on U.S.
-Cities and Degradative Political Rhetoric Byrd for Senate 5h 2 min read FOR IMMEDIATE RELEASE October 7, 2026 Contact: Madison Shamley, Campaign Manager, madison@byrdforsenate.com Jill Cumer, Communications Director, Jill@byrdforsenate.com CHEYENNE, WY — James Byrd, Democratic candidate for U.S.
+Cities and Degradative Political Rhetoric Byrd for Senate #ago 2 min read FOR IMMEDIATE RELEASE October 7, 2026 Contact: Madison Shamley, Campaign Manager, madison@byrdforsenate.com Jill Cumer, Communications Director, Jill@byrdforsenate.com CHEYENNE, WY — James Byrd, Democratic candidate for U.S.
 Senate in Wyoming, issued a sharp rebuke today following President Donald Trump’s recent campaign rally in Grand Island, Nebraska, where the President suggested that the destruction of major American cities like Los Angeles and San Diego by Iran was an acceptable trade-off for ongoing military actions.
 During the Monday rally, President Trump addressed rising gas prices and economic burdens caused by the ongoing war with Iran, stating: “They can take out a city.
 Let 'em take out Los Angeles, let 'em take out San Diego.

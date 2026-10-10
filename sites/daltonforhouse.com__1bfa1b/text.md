@@ -1,15 +1,18 @@
-Skip navigation menu Home ABOUT Take Action News Contact Merch dalton gau for house district 83 RESULTS > RHETORIC Email Email Phone Phone ZIP Code ZIP Code Let's Go By submitting your contact information you are agreeing to receive periodic communication from Dalton For House.
+Skip navigation menu QUESTIONS ABOUT VOTING?
+Voting Info Home ABOUT Take Action News Contact Merch dalton gau for house district 83 RESULTS, NOT RHETORIC Email Email Phone Phone ZIP Code ZIP Code Let's Go By submitting your contact information you are agreeing to receive periodic communication from Dalton For House.
 Message and data rates may apply.
 Reply HELP for more information.
 Reply STOP to stop receiving messages.
-Home ABOUT Take Action News Contact Merch dalton gau for house district 83 RESULTS > RHETORIC Email Email Phone Phone ZIP Code ZIP Code Let's Go By submitting your contact information you are agreeing to receive periodic communication from Dalton For House.
+Home ABOUT Take Action News Contact Merch dalton gau for house district 83 RESULTS, NOT RHETORIC Email Email Phone Phone ZIP Code ZIP Code Let's Go By submitting your contact information you are agreeing to receive periodic communication from Dalton For House.
 Message and data rates may apply.
 Reply HELP for more information.
 Reply STOP to stop receiving messages.
 WHO IS DALTON?
 Dalton is a lifelong Oklahoman, graduate of Edmond North High School, the University of Oklahoma, and Oklahoma City University School of Law.
 Drawing on his experience as Vice President of the Student Government Association and his work with Legal Aid Services of Oklahoma and the Oklahoma House of Representatives, he has seen firsthand how political theater distracts from real issues.
-Dalton is running to restore reason, fairness, transparency, and accountability to state government by providing leadership guided by the rule of law rather than partisan rhetoric. more about me (we're not funded by billionaires) But we need your help to make this change happen. $ 10 $ 25 $ 50 $ 83 $ 100 Other $ 10 $ 25 $ 50 $ 83 $ 100 Other HAVE A STORY FOR DALTON?
+Dalton is running to restore reason, fairness, transparency, and accountability to state government by providing leadership guided by the rule of law rather than partisan rhetoric. more about me Try our new tool to help you find where, when and how to vote this November.
+By mail, early, or Election Day!
+Try It (we're not funded by billionaires) But we need your help to make this change happen. $ 10 $ 25 $ 50 $ 83 $ 100 Other $ 10 $ 25 $ 50 $ 83 $ 100 Other HAVE A STORY FOR DALTON?
 First Name First Name Email Email ZIP Code ZIP Code Story Story 0 / 255 Submit Why Dalton?
 Here's the focus of our campaign.
 OPPORTUNITY GROWTH Young Oklahomans deserve an economy that works for them and to want to stay in the state that raised them.

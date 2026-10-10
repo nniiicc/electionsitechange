@@ -1,12 +1,14 @@
 {
  "description": "Track how Michigan senators vote on key legislation in real time.",
  "final_url": "https://www.lydialynnchristensen.com/tracker",
- "fingerprint": "f065aa85c75ed1336d404cc381fdd25df83a291f",
+ "fingerprint": "df163053eb0b06ef4608aa42d9e90607696a39a8",
  "format": 3,
  "paid_for_by": "Paid for by Lydia Christensen for United States Senate, Lydia Christensen, Treasurer",
  "rendered": true,
  "title": "Legislative Tracker | Lydia Christensen for U.S. Senate",
  "years_mentioned": [
+  "1978",
+  "2008",
   "2024",
   "2025",
   "2026"

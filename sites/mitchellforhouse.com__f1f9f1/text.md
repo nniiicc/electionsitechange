@@ -18,7 +18,7 @@ Dianne spearheaded efforts to pass the Save Women's Sports bill, testifying in c
 She has been directly involved in advancing the conservative agenda in Columbia by holding legislators accountable and educating them on the issues.
 Now, she's ready to serve the state she loves in a new way as the next Representative of District 21.
 Dianne and Todd have been married for 43 years and are blessed to have four beautiful grandchildren.
-Dianne and Todd worship at Woodruff Rd Presbyterian Church. election day June 9 Find your Election Day voting location by clicking here.
+Dianne and Todd worship at Woodruff Rd Presbyterian Church. election day November 3 Find your Election Day voting location by clicking here.
 Make a Donation Get Updates from Dianne Name: Email: Phone Number Opt-In By providing your phone number and checking this box, you consent to receive recurring automated text messages from Dianne Mitchell for House.
 Message and data rates may apply.
 Reply STOP to unsubscribe, HELP for help.

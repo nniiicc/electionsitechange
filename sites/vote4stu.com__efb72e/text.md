@@ -80,4 +80,4 @@ Name Email* Where did you hear about us?
 Attach Files Attachments (0) This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Send Cancel Drop us a line!
 In the public Stu's Vlog/Blog Vote4Stu Authority of: The Friends of Stuart Schmidt Treasurer: Anthony Pelura Not a taxpayer expense Copyright © # Vote4Stu - All Rights Reserved.
-Powered by ORIOLES GAME FUNDRAISER TICKETS - Support Stu Here for 2026 Make A Donation Here
+Powered by OCTOBER 12th FUNDRAISER - Support Stu Here for 2026 Make A Donation Here

@@ -1,4 +1,4 @@
-top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+top of page About Endorsements Issues Media News Press Releases Photos Videos RECA Volunteer Contribute More Use tab to navigate through the menu items.
 Celebrate and support our diverse communities and histories My mother - Manuelita de Atoche Lucero (Mela) Leger - was a bilingual education pioneer.
 Together my parents wrote the 1973 Bilingual Multicultural Education Act, which is the basis by which Spanish, Towa, Tewa, Tiwa, Keres, Navajo, and Apache are taught in our schools.
 Here in New Mexico -- we celebrate our multiculturalism. ​ In Congress, I will be a voice for compassion, understanding, and unity.

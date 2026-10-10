@@ -1,7 +1,7 @@
 Skip to main content Meet Josh The Platform Events Media Get Involved Store Donate Donate Menu Meet Josh The Platform Events Media Get Involved Store Donate 10 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 9/12/2026 September 12 - 10/9/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 9/12/2026 September 12 - 10/10/2026 Now Select date.
 September 2026 Sat 12 Democrat Candidates Picnic September 12 @ 6:00 pm - 9:00 pm Come join us for good food, conversation, and a chance to get to know your local candidates!
 Sat 19 Jesse James Days Parade September 19 @ 9:00 am Join Team Smead at the Jesse James Day Parade We’re looking for volunteers to walk alongside Josh in the parade, meet folks in the community, and help us show strong grassroots support across North Missouri.
 Parade line-upN Clark StKearney, MO 64060 Volunteer Parade details → Tue 22 Hannibal Indivisible September 22 @ 6:00 pm - 7:30 pm Willow Street Christian Church 404 Willow St, Hannibal, MO, United States Hannibal IndivisibleWillow Street Christian Church404 Willow StHannibal, MO 63401 Thu 24 Terra Vox Winery Fundraiser September 24 @ 6:00 pm - 9:00 pm Winery Fundraiser for Josh Smead Join us at TerraVox Winery on Thursday, September 24 for an evening in support of Josh Smead for Congress, featuring a silent auction.

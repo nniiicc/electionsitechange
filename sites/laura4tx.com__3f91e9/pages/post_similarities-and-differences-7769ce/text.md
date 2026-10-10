@@ -1,5 +1,5 @@
 top of page Texas District 8 Candidate for U.S.
-House info@laura4tx.com About Donate Media Endorsements Laura Listens Blog Contact All Articles Search Similarities and Differences sk9001 #ago 2 min read I have to admit it: District 8's Congressional race is utterly fascinating... to me, at least.
+House info@laura4tx.com About Donate Media Endorsements Laura Listens Blog Contact All Articles Search Similarities and Differences sk9001 Oct 2 2 min read I have to admit it: District 8's Congressional race is utterly fascinating... to me, at least.
 Just think about it: The two candidates are both women.
 Therefore: There are no sex or gender differences between them.
 The two candidates are both Caucasian, meaning "white".

@@ -7,10 +7,10 @@ Washington could learn a lot from Texas which is why Congressman Cloud fulfilled
 Congressman Cloud is a “Texas Congressional Champion” with a 100% voting record from FreedomWorks.
 He has voted repeatedly to push back on the Washington wasteful spending culture.
 Learn more...
-Veterans Our nation must keep its promise to the men and women who have served.
-We owe our veterans a tremendous debt and must ensure veterans have access to quality health care and education.
-Read More » Energy and Trade Our region needs to continue to lead as a major exporter of American energy through our ports, pipelines, and infrastructure.
-Read More » Education As the father of three children and the husband of a public-school teacher, Congressman Cloud understands our urgent need to provide a quality education for Read More » JOIN OUR TEAM TO IMPACT AMERICA Donate now Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
+Energy and Trade Our region needs to continue to lead as a major exporter of American energy through our ports, pipelines, and infrastructure.
+Read More » Border Security With an “A” rating from NumbersUSA, Michael Cloud has led in Congress on highlighting the humanitarian and national security crisis on the border – connecting Read More » Agriculture and Property Rights Texans are leaders in agriculture and the best stewards of Texas land.
+As the only Republican Member of Congress on the Agriculture Committee from Texas, Michael considers it a great honor to make sure our food supply is protected, that trade policies are structured to export more American products, and that the industries that Americans depend on everyday flourish.
+Read More » JOIN OUR TEAM TO IMPACT AMERICA Donate now Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Learn More Home About Michael Election Info Volunteer Contact Donate Cloud Victory Fund Contact Info Campaign Mailing Address: Cloud for Congress P.O.
 Box 7027 Victoria, TX 77903 (361) 631-0270 [email protected] Stay in Touch Paid for by Cloud for Congress All Rights Reserved 2026 .
 Website Built by Mint & Vine

@@ -1,4 +1,5 @@
-top of page Document HOME MEET HANNAH BETH THE ISSUES GET INVOLVED Where Common Sense Finds Common Ground JOIN THE MOVEMENT DONATE Meet MEET HANNAH BETH I'm running for State Represenatative, because we deserve a leader that listens.
+2.
+Paste this code immediately after the opening tag: top of page Document HOME MEET HANNAH BETH THE ISSUES GET INVOLVED Where Common Sense Finds Common Ground JOIN THE MOVEMENT DONATE Meet MEET HANNAH BETH I'm running for State Represenatative, because we deserve a leader that listens.
 Meet GET INVOLVED Sign up to volunteer, get a yard sign, and join Team Rivera!
 Meet CONTRIBUTE This campaign is powered by everyday people like yourself – chip in today!
 Get In Touch Meet Hannah BetH: Hannah Beth Rivera is a lifelong Kentuckian, attorney, wife, and mother with more than fifteen years of experience in higher education policy, government relations, and public service.

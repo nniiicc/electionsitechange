@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.jentodd2026.us/news/diesel-and-this-deadline-matter",
- "fingerprint": "4a9f0c38ef58229ddd2af0754c21ed351f563699",
+ "fingerprint": "f1bad4eb410133272a338fc3a55ff5e5a5d098ec",
  "format": 3,
  "paid_for_by": "Paid for by Friends for Jennifer Todd",
+ "rendered": false,
  "title": "Diesel and This Deadline Matter",
  "years_mentioned": [
   "2026"

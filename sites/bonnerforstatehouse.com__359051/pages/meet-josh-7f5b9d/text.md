@@ -11,6 +11,13 @@ Josh is deeply involved in community initiatives and serves on the board of The 
 He has also held leadership roles in various organizations, including as a past president of the Crossroads Christian School Parent Board, former Chairman of the Fayette County Republican Party, and former member of the Georgia Real Estate Commission.
 Josh and his wife Michelle are proud parents of four children and are active members of New Hope Baptist Church,where Josh serves as a deacon and youth leader.
 Through his multifaceted roles in business, politics, the military, and community service, Josh Bonner continues to make meaningful contributions to the betterment of his community and the state of Georgia.
-Contact Email * Name * Subject Message Thanks!
+Contact Email * Phone Name * Subject Message Yes, please text me updates from the campaign.
+By providing your telephone number, you consent to receive calls and text messages.
+Message and data rates may apply.
+Message frequency may vary.
+Messaging may include requests for donation.
+Reply "STOP" to opt-out & "HELP" for help.
+View Privacy Policy for more info.
+Send Thanks!
 Message sent.
-Send Join our mailing list Subscribe Now Paid for by Committee to Elect Josh Bonner Privacy Policy bottom of page
+Join our mailing list Subscribe Now Paid for by Committee to Elect Josh Bonner Privacy Policy bottom of page

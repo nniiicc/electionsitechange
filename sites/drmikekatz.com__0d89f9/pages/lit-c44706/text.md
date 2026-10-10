@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Show Your Support Request Literature Push cards and business cards you can drop in your neighborhood — no knocking required.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Show Your Support Request Literature Push cards and business cards you can drop in your neighborhood — no knocking required.
 Why It Matters A Card in Hand Beats an Ad Impression Delaware voters are more likely to remember a Katz card left on their door than any ad they scrolled past.
 You don’t have to knock — just walk your street and leave a card at each door.
 An hour’s walk reaches every neighbor on your block.

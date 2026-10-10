@@ -1,5 +1,5 @@
-Skip navigation menu Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Delivering results for the East Side, together .
-Subscribe for campaign updates: Email Email Submit Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Delivering results for the East Side, together .
+Skip navigation menu Home About Issues Assembly District 73 Endorsements Events Volunteer News Contact Us Donate Delivering results for the East Side, together .
+Subscribe for campaign updates: Email Email Submit Home About Issues Assembly District 73 Endorsements Events Volunteer News Contact Us Donate Delivering results for the East Side, together .
 Subscribe for campaign updates: Email Email Submit VANESSA ARONSON Democrat for State Assembly District 73 East Siders are facing uncertainty in our city, our state and our nation.
 Our democratic institutions are under attack, our values are being tested, our costs are skyrocketing and our families still don’t feel safe.
 We deserve leaders in Albany who understand the East Side and have the experience, compassion and strength to fearlessly champion our values and community .
@@ -18,4 +18,4 @@ Let's build a stronger East Side, together .
 We’re grateful for your support!
 From now through Election Day, every part of this campaign is powered directly by supporters like you, as we face down the Republican Party in a district where we’ve seen the share of GOP voters continue to grow.
 I’m confident in our values and message.
-I know we can reverse this trend, together . $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other News & Press City & State The 2026 Manhattan Power 100 Read more Sep 8 2026 City & state Vanessa Aronson is walking right into the Assembly Read more Apr 7 2026 Upper east site UES Assembly Candidate Endorsed by Former Neighborhood Elected Official Read more Feb 18 2026 vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.
+I know we can reverse this trend, together . $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other News & Press City & State The 2026 Manhattan Power 100 Read more Sep 8 2026 City & state Vanessa Aronson is walking right into the Assembly Read more Apr 7 2026 Upper east site UES Assembly Candidate Endorsed by Former Neighborhood Elected Official Read more Feb 18 2026 Volunteer!! vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.

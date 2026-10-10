@@ -10,7 +10,7 @@ Question 7 passed in 2024 with 73% of the vote and returns to voters this Novemb
 The real work is implementation: making sure Nevadans can actually get the ID they need, understanding what it costs and who pays, and having a clear process for what happens if a voter shows up without one.
 I can do this through existing Secretary of State regulatory authority — no new legislation required.
 Read the full plan → Cleaning up Nevada’s voter rolls.
-Using Nevada’s own public voter file, I identified over 12,000 pairs of duplicate voter registrations in Clark County alone.
+Using Nevada’s own public voter file, I identified 12,465 matched pairs of duplicate active voter registrations in Clark County, involving 9,607 Nevadans.
 I asked the Secretary of State’s office to investigate.
 They declined.
 I’m now pursuing this in federal court.
@@ -33,9 +33,9 @@ This kind of IT migration is exactly where my background — twenty years as a s
 I’ll make sure this transition is managed carefully, with real oversight, so businesses aren’t the ones absorbing the cost of a rushed rollout.
 I’m not asking you to trust a party on any of this.
 I’m asking you to hold the office accountable for solving real problems.
-That’s the job, and I intend to do it. — Brad Lee Barnhill Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise More Policy Positions Public Trust Starts With Elections Done Right October 8, 2026 Election Technology Nevada Voters Can Actually Check October 6, 2026 How Nevada Election Audits Build Voter Confidence October 3, 2026 Secure Ballot Counting in Nevada Starts Here October 2, 2026 Volunteer for a Nevada Political Campaign October 1, 2026 Where’s My Ballot?
-How to Track Your Nevada Mail Ballot September 28, 2026 A Voter in Ely Shouldn’t Have a Harder Path to the Ballot September 27, 2026 Consistent County Election Standards: The Same Protections for Every Nevada Voter September 27, 2026 Nevada Voter Roll Maintenance: Accuracy, Due Process, and Public Trust September 25, 2026 A Nevada Election Cybersecurity Plan Voters Can Trust September 24, 2026 footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise More Policy Positions Election Transparency in Nevada Means Showing the Work October 9, 2026 Public Trust Starts With Elections Done Right October 8, 2026 Election Technology Nevada Voters Can Actually Check October 6, 2026 How Nevada Election Audits Build Voter Confidence October 3, 2026 Secure Ballot Counting in Nevada Starts Here October 2, 2026 Volunteer for a Nevada Political Campaign October 1, 2026 Where’s My Ballot?
+How to Track Your Nevada Mail Ballot September 28, 2026 A Voter in Ely Shouldn’t Have a Harder Path to the Ballot September 27, 2026 Consistent County Election Standards: The Same Protections for Every Nevada Voter September 27, 2026 Nevada Voter Roll Maintenance: Accuracy, Due Process, and Public Trust September 25, 2026 footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (17) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

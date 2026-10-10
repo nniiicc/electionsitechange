@@ -1,6 +1,6 @@
 Home About News Priorities Get Involved Contact Donate Contact Get in Touch Questions, ideas, or concerns?
 Scott wants to hear from you.
-Reach out anytime. lscottmiller@miller4ky.com (859) 555-0188 PO Box 88 Kentucky House District 88 Name * Email * Subject * Message * Send Message Frequently Asked Questions from District 88 Where is Kentucky House District 88? + District 88 covers a key area of central Kentucky.
+Reach out anytime. lscottmiller@miller4ky.com (859) 555-0188 2801 Adios Ct Lexington, KY 40511 Name * Email * Subject * Message * Send Message Frequently Asked Questions from District 88 Where is Kentucky House District 88? + District 88 covers a key area of central Kentucky.
 If you're unsure whether you live in the district, reach out and we'll help you confirm.
 How can I request a yard sign? + Head over to the Get Involved page, fill out the form, and check the yard sign box — a volunteer will be in touch to drop one off.
 Can Scott speak at our event? + Absolutely.

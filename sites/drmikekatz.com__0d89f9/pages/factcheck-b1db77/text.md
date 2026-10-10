@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Setting the Record Straight Live Fact Check Live The facts behind the false claims being spread about Dr.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Setting the Record Straight Live Fact Check Live The facts behind the false claims being spread about Dr.
 Mike Katz — updated as new attacks arise.
 Delaware families are being targeted with a coordinated flood of false and misleading claims about Dr.
 Mike Katz.

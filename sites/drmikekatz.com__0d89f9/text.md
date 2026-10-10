@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → U.S.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → U.S.
 Senate 2026 — Delaware Patients Over Politics, People Over Party Dr.
 Mike Katz has spent 30 years in Delaware treating patients, building businesses, and filing real legislation in the State Senate.
 He knows what this state needs because he’s been living it.

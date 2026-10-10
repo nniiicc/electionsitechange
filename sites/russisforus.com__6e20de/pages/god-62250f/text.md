@@ -14,8 +14,7 @@ Here are a few things “immoral things” found acceptable by negative religion
 “Anyone who does not believe like us does not deserve to live” A belief that there are mental/moral differences between human beings that can be determined by skin color or other physical characteristics.
 The very idea of “morality” is under attack in this country.
 Help me return God, Morality and Justice to America.
-Search Search Recent Posts Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Could this be the case that takes Voter ID to the Supreme Court before 11/3/2026?
-Recent Comments No comments to show.
+Search Search Recent Posts Money Wins Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Recent Comments No comments to show.
 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
 Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
 Paid for by David Russ Is For US.

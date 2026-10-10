@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today Thrivability: Beyond Affordability to Economic Possibility We should not be measuring the economy by headlines.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today Thrivability: Beyond Affordability to Economic Possibility We should not be measuring the economy by headlines.
 We should be measuring it by pressure, possibility, and progress.
 As your Senator, I will ask three simple questions: Does this policy make life more than just affordable?
 Does it expand real opportunity to more people?
@@ -42,10 +42,11 @@ If the answer is no, then we’re not even close to being done.
 We shouldn’t even be asking for your vote.
 Economic policy shouldn’t be about making politicians look good.
 It should be about making your life not just affordable, but thrivable.
-Next A Breakthrough Brief: Thrivability for Small Business You Might Also Like Healthcare That Works for People, Not Bureaucracies Independence from Party Control Humane Immigration Reform and Border Security A New Era in Education The Thurgood Marshall Plan STAY UPDATED Let’s Build the Future Together.
+Next A Breakthrough Brief: Thrivability for Small Business You Might Also Like A Breakthrough Brief: Thrivability for Small Business The Thurgood Marshall Plan Humane Immigration Reform and Border Security A New Era in Education Healthcare That Works for People, Not Bureaucracies STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
-SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Questions for Team Future?
+Email info@jadesimmonsforsenate.com SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
 Senate .
 We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
 You may unsubscribe at any time.

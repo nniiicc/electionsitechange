@@ -1,0 +1,4 @@
+top of page Donate Volunteer En Español Menu Close Priorities Endorsements Vote Media News and Press Downloadable Resources Get Involved How to Help Merch Events Contact En Español Votación Cómo Ayudar November #TeamCastro Service Opportunity Wed, Nov 04 | Kirkwood Presbyterian Church Time & Location Nov 04, 2026, 6:00 PM – 8:00 PM Kirkwood Presbyterian Church, 618 Acworth Due West Rd NW, Kennesaw, GA 30152, USA About the event #TeamCastro volunteers will gather on Wednesday, November 4th to assemble 250 early childhood education book kits in partnership with Cobb Collaborative.
+Enjoy some time together while serving our community!
+Show More Share this event Donate Darcy Castro for Georgia Inc.
+3600 Dallas Highway Suite 230-237 Marietta, GA 30064 Paid for by Darcy Castro for Georgia Inc ​ Info@DarcyCastro.com 203.297.4994 bottom of page

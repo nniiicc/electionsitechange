@@ -50,7 +50,9 @@ My speech that day is even more important today.
 The two party system has failed all of us.
 More Americans are feeling politically homeless every day.
 You are not alone.
-You have a safe home here with us. www.IndependentCandidateNetwork.com General Election is on Tuesday, November 3rd Deadline to Register is Oct 5th Register to Vote Here People over Parties I am running to represent the people of Georgia’s 14th Congressional District.
+You have a safe home here with us. www.IndependentCandidateNetwork.com General Election - Tuesday, November 3rd Deadline to Register for November 3rd Election has passed.
+Register to Vote in 2028 NOW!
+People over Parties I am running to represent the people of Georgia’s 14th Congressional District.
 All of you.
 Whether you vote or not.
 Millions of Americans sit out elections.

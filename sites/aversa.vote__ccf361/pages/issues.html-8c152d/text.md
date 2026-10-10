@@ -7,7 +7,7 @@ Thomas Aquinas, Summa Theologica I-II q.
 66 a.
 4 co.
 Abortion has unjustly taken the right to life away from millions of innocent persons.
-Aversa is part of a team of 10 pro-life federal candidates running uncensorable TV ads exposing the reality of abortion, which the Democrat party of death supports, similar to the ads he ran in 2024 , so that child-killing ends and the right to life is protected for all.
+Aversa is part of a team of 9 pro-life federal candidates running uncensorable TV ads exposing the reality of abortion, which the Democrat party of death supports, so that child-killing ends and the right to life is protected for all.
 Education “All men naturally desire to know.” Aristotle, Metaphysics 980ª21 Alan Aversa believes that parents are their children’s first educators, and they have a right to choose how to educate their children; hence, he is against promoting transgender, CRT , and other scientifically dubious theories and ideologies in schools, especially without parents’ knowledge or consent.
 Aversa graduated in 2008 with a BS in physics and astronomy from the University of Arizona , where being a TA for an E&M lab class invigorated his interest in teaching.
 Since then, he has taught physics and computer programming in classrooms, online, and to homeschoolers.

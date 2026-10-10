@@ -1,0 +1,15 @@
+2026 Legislator of the Year Kristin Kassner Named Legislator of the Year by the Massachusetts Municipal Lawyers Association The lawyers who represent Massachusetts cities and towns honored Kristin for fighting to bring our communities more state aid and better tools to plan for the future.
+Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Letter: Kassner’s Work on Site Plan Review Shows Real Housing Leadership News Oct 7 Written By Kristin Kassner Ipswich Local News To the editor: Our state representative, Kristen Kassner, really “walks the walk” in addressing the housing crisis and deserves your vote on November 3.
+New housing sometimes gets tripped up by a process called site plan review, which is common in other parts of the U.S. but has never been spelled out in Massachusetts state law.
+At its best, site plan review ensures that new development satisfies all local requirements; at its worst it becomes a way to delay and obstruct any new development, including new housing that we desperately need.
+With her expertise as a former town planner, Kristen decided to take on this complicated issue where others before her had failed.
+She drafted a proposed state law and reached out to me for support when I was then (since retired) director of the Massachusetts Housing Partnership.
+That led to something I’ve seen only a handful of times in more than 40 years of working with the state legislature: Kristen got together with all the stakeholders in a room, talked through the options, and reached unanimous agreement on how to move forward.
+It wasn’t just an agreement in concept: it was agreement on the actual language of a bill.
+Kristen’s revised bill was refiled, endorsed by the Boston Globe, and approved by both the House and Senate.
+It is almost certain to get final approval and be signed by the governor by the end of this year.
+It takes real leadership to get municipal officials, developers, planners, attorneys and housing advocates to all agree on the same thing to advance a larger public interest.
+Kristen has shown how it’s done and she richly deserves your vote.
+Clark Ziegler Ipswich Kristin Kassner https://kristinkassner.org Previous Previous Kassner’s Planning Background is an Asset, Not a Target Next Next Massachusetts Municipal Lawyers Association Names Representative Kristin Kassner Legislator of the Year Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
+Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

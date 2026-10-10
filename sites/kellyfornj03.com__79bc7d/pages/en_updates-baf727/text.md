@@ -1,7 +1,11 @@
 Skip to content Ryan Michael Kelly For Congress • NJ-03 About Issues Updates Get Involved Media Register to Vote EN ▾ Donate Updates Short campaign updates—what I’m hearing, what I’m building, and what I’m working on.
 No hype.
 Just progress.
-Students Get a Firsthand Look at Campaigning at Rowan University October 5, 2026 At Rowan University's Political Campaign Volunteer Fair, students met campaigns, asked questions, and explored ways to take part in the political process.
+Sasquatch Has a Voter Registration Reminder October 10, 2026 A Halloween surprise with a serious reminder: New Jersey’s voter registration deadline for the November 3 general election is October 13.
+Watch the short video and find the official registration link.
+Watch the Sasquatch video → My Response to the NJ-03 League of Women Voters Forum October 10, 2026 Ryan Michael Kelly responds to issues raised at the October 5 forum, including AI, data centers, electricity costs, immigration and human rights.
+Watch his independently recorded response and the complete League forum.
+Watch and read more → Students Get a Firsthand Look at Campaigning at Rowan University October 5, 2026 At Rowan University's Political Campaign Volunteer Fair, students met campaigns, asked questions, and explored ways to take part in the political process.
 Read the Rowan update Two Festivals, One Day of Community in Hightstown and Hamilton October 3, 2026 From the Hightstown Harvest Festival to the Hamilton Irish Festival, Ryan spent October 3 meeting neighbors, enjoying local traditions, and listening in Hightstown and Hamilton.
 Read the community update Supporting Faith Formation at Incarnation–St.
 James September 30, 2026 I stopped by RedBerry at TCNJ Campus Town in Ewing for Incarnation–St.

@@ -3,15 +3,17 @@ Holmes Russell E.
 Holmes | 0 Comment | 8:05 am Categories: News State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
 One measure, pushed by state Representative Russell Holmes, would decertify police officers who lose their jobs, so that they cannot apply for an opening at another community or on a college police force.
 Share this Post navigation PREVIOUS Previous post: Diversity Dashboard NEXT Next post: Rep.
-Holmes rolls to re-election in 6th Suffolk district Related Post Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
+Holmes rolls to re-election in 6th Suffolk district Related Post In closed-door budget process, Mass.
+House leaders scored big In closed-door budget process, Mass.
+House leaders scored big May 9, 2024 May 9, 2024 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 5:44 am <p>By Samantha J.
+Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 12:02 pm “Today, Massachusetts moves forward with greater transparency that will lead to a better future for the state’s workforce overall,” said State Representative Russell Holmes (D – Mattapan).
-“It is imperative Read More Read More The Interview: State Representative Russell Holmes The Interview: State Representative Russell Holmes July 25, 2022 July 25, 2022 | Russell E.
+“It is imperative Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:34 am The outspoken state representative on what’s rotten on Beacon Hill, running for higher office, and where to find the best Chinese food in Jamaica Plain.
-Share this Read More Read More “I Work for You.” You're my neighbors.
+Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.
 I have been honored to represent you for 14 years and I am eager to serve you further.
 I want to hear from you, learn what the concerns are, and work with you and other community leaders to address them.

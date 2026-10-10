@@ -1,19 +1,18 @@
-Meet Alexis Conoce a Alexis Priorities Prioridades Record Logros Latest News Últimas Noticias Endorsements Respaldos Vote Votar Donate Donar EN · ES In 2026 Elect En 2026 Elija Alexis Calatayud Alexis Calatayud For State Senate Para el Senado Florida Senate · District 38 Senado de Florida · Distrito 38 Standing on Shared Values.
+Meet Alexis Conoce a Alexis Priorities Prioridades Record Logros Latest News Últimas Noticias Videos Vídeos Endorsements Respaldos Vote Votar Donate Donar EN · ES In 2026 Elect En 2026 Elija Alexis Calatayud Alexis Calatayud For State Senate Para el Senado Florida Senate · District 38 Senado de Florida · Distrito 38 Standing on Shared Values.
 Making Your Voice Impactful in Tallahassee.
 Compartiendo Tus Valores.
 Llevando Tu Voz a Tallahassee.
-Effective, Miami born & bred leader fighting for the future of affordability.
+Donate Now Donar Ahora Get Involved Participa Elect Alexis 2026 Elija a Alexis 2026 Effective, Miami born & bred leader fighting for the future of affordability.
 Florida's foremost advocate for the public education system, low-cost childcare, and parental choice.
 A voice of moral clarity and moral courage that champions the freedoms that built Miami-Dade.
 Elect Senator Calatayud in 2026.
 Líder efectiva, nacida y criada en Miami, que lucha por el futuro de la asequibilidad.
 La principal defensora de Florida del sistema de educación pública, el cuidado infantil de bajo costo y la elección de los padres.
 Una voz de claridad y coraje moral que defiende las libertades que construyeron Miami-Dade.
-Elija a la Senadora Calatayud en 2026.
-Donate Now Donar Ahora Get Involved Participa $350M Secured for local infrastructure to better your quality of life Asegurados para infraestructura local que mejora tu calidad de vida $250M Secured for First-Time Homebuyer Down Payment Program Asegurados para el Programa de Pago Inicial para Nuevos Compradores In three years, more than 2,000 Miami-Dade families have become homeowners.
+Elija a la Senadora Calatayud en 2026. $350M Secured for local infrastructure to better your quality of life Asegurados para infraestructura local que mejora tu calidad de vida $250M Secured for First-Time Homebuyer Down Payment Program Asegurados para el Programa de Pago Inicial para Nuevos Compradores In three years, more than 2,000 Miami-Dade families have become homeowners.
 En tres años, más de 2,000 familias de Miami-Dade ya son propietarias. $75M Secured for Low-Cost Childcare Expansion for Working Families Asegurados para la Expansión de Cuidado Infantil de Bajo Costo In three years, more than 3,000 Miami families have lowered their childcare costs.
 En tres años, más de 3,000 familias de Miami han reducido sus costos de cuidado infantil.
-Elect Alexis 2026 Elija a Alexis 2026 General Election Elección General November 3, 2026 District Distrito Florida Senate · 38 Status Estado Elect Alexis Elija a Alexis A Proven Record Un Historial Comprobado Real Results Resultados Reales Funding secured.
+General Election Elección General November 3, 2026 District Distrito Florida Senate · 38 Status Estado Elect Alexis Elija a Alexis A Proven Record Un Historial Comprobado Real Results Resultados Reales Funding secured.
 Bills passed.
 Communities served.
 Fondos asegurados.
@@ -85,7 +84,9 @@ In the Senate, she serves as Chair of the Education Postsecondary Committee and 
 With a deep commitment to her role, she is running for election in 2026 to continue serving the constituents of Senate District 38.
 En el Senado, se desempeña como Presidenta del Comité de Educación Postsecundaria y Vicepresidenta del Comité de Educación Pre-K–12 , junto con varios comités de asignaciones.
 Con un profundo compromiso con su rol, busca la elección en 2026 para seguir sirviendo a los electores del Distrito 38.
-In The Community En La Comunidad Working For You Trabajando Por Ti Fighting for Us in Tallahassee Luchando por Nosotros en Tallahassee Listening to the Next Generation of Miami Leaders Escuchando a la Próxima Generación de Líderes Reading Together at Local Schools Leyendo Juntos en Escuelas Locales Serving Meals with Faith Leaders Sirviendo Comidas con Líderes de Fe Celebrating the Women of Our Community Celebrando a las Mujeres de Nuestra Comunidad Listening at the Seniors' Lunch Escuchando en el Almuerzo de Adultos Mayores Serving on the Jackson Memorial Health System Public Health Trust Sirviendo en el Public Health Trust del Sistema de Salud Jackson Memorial Endorsements Respaldos Proudly Endorsed By Con el Orgulloso Respaldo De Support The Campaign Apoya La Campaña Stand With Senator Calatayud Apoya A La Senadora Calatayud Your contribution helps keep Florida strong, safe, and full of opportunity for every Miami-Dade family.
+In The Community En La Comunidad Working For You Trabajando Por Ti Fighting for Us in Tallahassee Luchando por Nosotros en Tallahassee Listening to the Next Generation of Miami Leaders Escuchando a la Próxima Generación de Líderes Reading Together at Local Schools Leyendo Juntos en Escuelas Locales Serving Meals with Faith Leaders Sirviendo Comidas con Líderes de Fe Celebrating the Women of Our Community Celebrando a las Mujeres de Nuestra Comunidad Listening at the Seniors' Lunch Escuchando en el Almuerzo de Adultos Mayores Serving on the Jackson Memorial Health System Public Health Trust Sirviendo en el Public Health Trust del Sistema de Salud Jackson Memorial Watch Vea Alexis In Action Alexis En Acción Interviews, community events, and the stories behind the work.
+Entrevistas, eventos comunitarios y las historias detrás del trabajo.
+A Day in Miami Un Día en Miami Amanda Demanda Amanda Demanda South Dade NAACP Empowerment Zone Zona de Empoderamiento NAACP de South Dade Excellence in Advocacy Award Premio a la Excelencia en Defensa Grant Miller Interview Entrevista con Grant Miller ChamberSouth Spotlight ChamberSouth Spotlight Resilient Miami: Biscayne Bay, Flooding & Housing Miami Resiliente: Bahía de Biscayne, Inundaciones y Vivienda Cutler Bay: A Vision for South Dade Cutler Bay: Una Visión para South Dade Affordability, homeownership, education, transportation & resilience Asequibilidad, vivienda propia, educación, transporte y resiliencia × Endorsements Respaldos Proudly Endorsed By Con el Orgulloso Respaldo De Support The Campaign Apoya La Campaña Stand With Senator Calatayud Apoya A La Senadora Calatayud Your contribution helps keep Florida strong, safe, and full of opportunity for every Miami-Dade family.
 Tu contribución ayuda a mantener Florida fuerte, segura y llena de oportunidades.
 Contribute to the Campaign Contribuye a la Campaña Alexis Calatayud Campaign Individuals may contribute up to $1,000 for the election period.
 Spouses may each contribute $1,000 (sign individually).

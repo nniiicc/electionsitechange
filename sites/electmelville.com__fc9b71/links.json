@@ -28,6 +28,10 @@
 "href": "https://docs.google.com/forms/d/e/1FAIpQLSeAYuQLwWrO5i6ZtWLB4umoXsxLfeRsA-qqOPoDj-nn59O7PA/viewform"
 },
 {
+"text": "Check Registration",
+"href": "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx#:~:text=%2D%20Enter%20your%20name%2C%20date,marked%20with%20an%20asterisk%20(*)."
+},
+{
 "text": "Check if you're registered to vote",
 "href": "https://www.sec.state.ma.us/OVR/"
 },
@@ -45,7 +49,7 @@
 },
 {
 "text": "Early voting locations",
-"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm"
+"href": "https://www.sec.state.ma.us/EarlyVotingWeb/EarlyVotingSearch.aspx"
 },
 {
 "text": "Endorsements",
@@ -54,6 +58,10 @@
 {
 "text": "Events",
 "href": "https://www.electmelville.com/events"
+},
+{
+"text": "Find Your Location",
+"href": "https://www.sec.state.ma.us/EarlyVotingWeb/EarlyVotingSearch.aspx"
 },
 {
 "text": "News",
@@ -92,6 +100,10 @@
 "href": "https://www.mobilize.us/themelvillecommittee/"
 },
 {
+"text": "VOTE411.org",
+"href": "https://www.vote411.org/massachusetts#absentee-ballot-process"
+},
+{
 "text": "Visit Tom's YouTube",
 "href": "https://www.youtube.com/@ElectMelville"
 },
@@ -105,6 +117,10 @@
 },
 {
 "text": "[image: Elect Tom Melville to MA House 9th Norfolk District]",
+"href": "https://www.electmelville.com/"
+},
+{
+"text": "[image: Melville for Representative logo]",
 "href": "https://www.electmelville.com/"
 },
 {

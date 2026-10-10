@@ -26,12 +26,12 @@ I support a full ban on members of Congress, their spouses, and children buying 
 They could still invest through blind trusts or broad-based index funds, but Public Service is not a side hustle for personal enrichment.
 No more using insider knowledge or timing trades around legislation.
 If you serve the people, your financial interests should never come before theirs.
-REPEAL THE PATRIOT ACT & STOP FLOCK I will fight to fully repeal the USA PATRIOT Act and restore the constitutional protections our Founders intended.
+REPEAL THE PATRIOT ACT & STOP FLOCK I will fight to fully repeal the USA PATRIOT Act and restore the Constitutional protections our Founders intended.
 This overreaching legislation created ICE, enabled warrantless surveillance of American citizens, eroded our civil liberties, and created a dangerous precedent for government overreach that threatens every one of us.
 I will fight to repeal the Authorizations for Use of Military Force (AUMF).
 For too long the executive branch has used these blank checks to bypass Congress and wage unchecked endless wars.
-Congress must reclaim its constitutional duty to debate and vote on war.
-Furthermore I call for the ban of mass surveillance technology like Flock & Axon.
+Congress must reclaim its Constitutional duty to debate and vote on war.
+Furthermore I call for either heavy regulations or a ban of mass surveillance technology like Flock & Axon.
 UNCAPPING THE HOUSE Repeal the Permanent Apportionment Act of 1929 and expand the U.S.
 House of Representatives before the 2030 census so each member represents a smaller, more accountable number of constituents.
 I support legislation such as the Equal Voices Act or equivalent formulas that automatically grow the House with population, restoring the Founders’ vision of the people’s chamber.
@@ -43,6 +43,7 @@ Under the KISS system, coverage is a straightforward right of citizenship: no pr
 By consolidating national healthcare spending into a transparent public fund, we gain the collective bargaining power required to slash prescription drug prices and standardize high-quality care across every town!
 We are replacing a broken, bureaucracy with a direct, efficient model that prioritizes human life over paperwork.
 A healthier nation is a stronger nation, so this will include dental, vision, and hearing.
+My system would save an estimated $1 Trillion dollars while making healthcare available to every citizen.
 AFFORDABLE HOMES The American Dream was built on the foundation of homeownership, but for millions of hardworking families, that dream is slipping out of reach due to skyrocketing costs, artificial supply shortages, and predatory corporate competition.
 When massive Wall Street investment firms and mega-corporations buy up entire neighborhoods of single-family homes, everyday buyers are outbid before they even have a chance to make an offer.
 We must protect Main Street families by prohibiting large institutional investors from monopolizing residential neighborhoods, ensuring that houses are built and bought for people to live in, not for corporations to treat as speculative commodities.
@@ -91,7 +92,7 @@ By pairing tuition-free technical and higher education with expanded paid appren
 FOREIGN POLICY A modern American foreign policy must be anchored in a revitalized and unwavering defensive alliance with NATO.
 In an era of shifting geopolitical tides, the collective security framework must serve as a dynamic shield for democratic stability rather than a static relic of the past.
 By deepening strategic integration with European partners and reinforcing the United States' role as the cornerstone of the North Atlantic partnership, we provide a definitive check against authoritarian expansion.
-This commitment is best exemplified by resolute and sustained support for Ukraine’s sovereignty by providing clear, principled path toward their full integration into the international security architecture of NATO.
+This commitment is best exemplified by resolute and sustained support for Ukraine’s sovereignty by providing a clear, principled path toward their full integration into the international security architecture of NATO.
 Parallel to these security commitments, global leadership requires the moral courage to advocate for the dignity and self-determination of all people, specifically through the support of Palestinian statehood.
 A just and lasting peace in the Middle East can only be achieved by prioritizing international law, humanitarian relief, and a diplomatic framework that recognizes the fundamental rights of the Palestinian people.
 By championing these values, the United States can transition from a policy of reactive containment to one of active reconciliation.

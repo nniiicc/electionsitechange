@@ -28,7 +28,9 @@ CHILDREN.
 VETERANS.
 WHY SHE’S VOTING VIC.
 VIC CAN BRING MORE HELP TO PROVIDENCE MAKE VIC VICTORIOUS ON SEPTEMBER 9TH HE BUILT FROM THE GROUND UP — NOW HE’S BACK FOR RI SMALL BUSINESS WANTS CHANGE — VIC DELIVERS TIRED OF CAREER POLITICIANS?
-WE NEED VIC A MOTHER, WIFE & BUSINESS OWNER STANDS WITH VIC VIC CAN PULL RHODE ISLAND OUT OF THE MUD The Strength of Independence Vic Mellor is not a career politician, and he is not for sale.
+WE NEED VIC A MOTHER, WIFE & BUSINESS OWNER STANDS WITH VIC VIC CAN PULL RHODE ISLAND OUT OF THE MUD Building the American Dream in Rhode Island Applying real-world construction experience, Vic Mellor is fighting to make the American Dream accessible for Rhode Island’s first-time buyers and veterans.
+His plan speeds up homebuilding, empowers local trades, and ensures federal housing funds go directly toward helping local working families.
+The Strength of Independence Vic Mellor is not a career politician, and he is not for sale.
 Proven Results: Not Promises Vic doesn’t just talk about change, he is already delivering it: Health Reform Pioneer: As a founding member of the Great American Health Alliance (GAHA), Vic has been working with the Administration to replace today’s sick care with a system built on transparency, lower costs, choice, and medical freedom.
 Some of their solutions, like Favored Nation Status for drug prices, have already been launched with executive orders; now they must be enacted into law.
 A Heart for the Community: Vic’s has always defended disadvantaged and at-risk members of his communities, and he continues to invest in Rhode Islands diverse neighborhoods, partnering with local churches, homeless ministries, youth sports, and the bedrock of our state: Rhode Island Mothers.

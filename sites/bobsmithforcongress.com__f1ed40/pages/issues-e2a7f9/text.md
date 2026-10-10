@@ -34,6 +34,11 @@ Defending America Peace through strength and a mission ready force.
 Lead in artificial intelligence, space, and cyber defense.
 Strengthen Vandenberg Space Force Base and Naval Base Ventura County.
 Keep faith with veterans through accountable VA care.
+What this looks like in person The five pillars are not a document.
+They come from kitchen tables, front yards and union halls across the district.
+Front yards and front porches.
+One conversation at a time.
+Listening, mostly.
 Winning CD-24 takes a team Pick one way to help today and we will take it from there.
 Volunteer Contribute Home Why Bob Issues Common Ground The Choice Veterans for Bob Latinos con Bob District Map Get Involved Contact Privacy Policy Terms of Use Bob Smith is a retired member of the United States Navy.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.

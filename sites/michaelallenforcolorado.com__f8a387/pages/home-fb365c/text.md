@@ -1,8 +1,8 @@
 Skip to content Home Issues Endorsements News Gallery Donate Michael Allen for Attorney General Protecting Families.
 Delivering Justice.
-Bi-partisan support: Endorsed by Democrat City Councilwoman Nancy Henjum Learn More Endorsed by the Gazette – Read More Michael Allen for Attorney General Protecting Families.
+Bi-partisan support: Endorsed by Democrat City Councilwoman Nancy Henjum Learn More Endorsed by host of “Liberal and Loving It” Podcast David Thielen Watch the Interview Endorsed by the Gazette – Read More Michael Allen for Attorney General Protecting Families.
 Delivering Justice.
-Bi-partisan support: Endorsed by Democrat City Councilwoman Nancy Henjum Learn More Endorsed by the Gazette ❯ Experienced Prosecutor.
+Bi-partisan support: Endorsed by Democrat City Councilwoman Nancy Henjum Learn More Endorsed by host of “Liberal and Loving It” Podcast David Thielen Watch the Interview Endorsed by the Gazette ❯ Experienced Prosecutor.
 Military Veteran.
 Proven Public Safety Record.
 Donate today! $50 $100 $500 $1000 $1450 Other Families are paying more for insurance, groceries, and housing, and crime is contributing to those higher costs.

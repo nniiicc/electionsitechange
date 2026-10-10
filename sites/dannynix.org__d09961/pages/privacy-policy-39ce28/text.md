@@ -1,4 +1,4 @@
-Skip to content ABOUT DANNY VOLUNTEER NOW Menu ABOUT DANNY VOLUNTEER NOW Donate Privacy Policy Effective Date: January 10, 2026 Website Address: https://dannynix.org/ Introduction Danny Nix for State Representative District 75 (“we,” “us,” or “our”) is committed to protecting theprivacy of visitors and users (“you” or “your”) of our political campaign website.
+Skip to content ABOUT DANNY VOLUNTEER NOW ABOUT DANNY VOLUNTEER NOW Donate Privacy Policy Effective Date: January 10, 2026 Website Address: https://dannynix.org/ Introduction Danny Nix for State Representative District 75 (“we,” “us,” or “our”) is committed to protecting theprivacy of visitors and users (“you” or “your”) of our political campaign website.
 This Privacy Policy outlines our practices regarding the collection, use, and disclosure of personal information through our website.
 By accessing and using our website, you consent to the terms of this Privacy Policy.
 Please read this Privacy Policy carefully.

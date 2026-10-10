@@ -1,5 +1,5 @@
 You need to enable JavaScript to run this app.
-Jeff McDonald Home Events Volunteer Donate Now Home Back to Events Public Appearance Sign Waving - Meet the Candidate About This Event Support District 42 Candidates, signs provided, (optional) wear patriotic garb Share This Event Date Friday, October 9, 2026 Time 4:00 PM ET Location Hampton Lane and Dulaney Valley Road Towson + Add to Calendar Jeff McDonald Common Sense.
+Jeff McDonald Home Events Volunteer Donate Now Home Back to Events Public Appearance Past Event Sign Waving - Meet the Candidate About This Event Support District 42 Candidates, signs provided, (optional) wear patriotic garb Share This Event Date Friday, October 9, 2026 Time 4:00 PM ET Location Hampton Lane and Dulaney Valley Road Towson This event has already passed + Add to Calendar Jeff McDonald Common Sense.
 Citizens First.
 Candidate for Maryland House of Delegates District 42B Quick Links Home Events Volunteer Donate Admin Login Connect Authority: Friends of Jeffry K.
 McDonald, Thomas McShane, Treasurer 1205 York Road, Suite 40 Timonium, MD 21093 jmcdonald162@comcast.net © # Jeff McDonald for Delegate 42B.

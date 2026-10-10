@@ -14,9 +14,10 @@ But that made Amy tough – and now, Amy is running for governor to fight for ev
 LEARN MORE LEARN MORE ISSUE Reducing Costs for Ohio Families Read More ISSUE Cleaning Up Corruption Read More ISSUE Improving Ohio’s Education Read More ISSUE Lowering the Cost of Health Care Read More ISSUE Growing Ohio Jobs and Businesses Read More ISSUE Standing Up for Workers Read More ISSUE Building Safer Communities Read More ISSUE Ensuring Reproductive Freedom Read More ISSUE Aging in place Read More PRIORITIES FOR OHIO PRIORITIES FOR OHIO $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount CHIP IN TODAY Donate now to Stand with Amy If you’ve saved your payment info with ActBlue Express, your donation will go through immediately.
 THE LATEST UPDATES Ohioans are tired of paying the cost of corruption while the super rich cash in.
 As governor, I’ll clean u...
-#ago As governor, I will make sure that tradition carries on for generations to come.
-October 8, 2026 Press Releases Oct 08, 2026 Dr.
-Amy Acton Announces Raising Over $13 Million in the Third Quarter of 2026 TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+#ago Eric and I are devastated to learn about the tragic passing of Sergeant Tyler Carr of the Mansfield Post.
+Our thoughts are with h...
+October 9, 2026 Press Releases Oct 09, 2026 What Ohioans Are Saying: “There is only one choice for governor: Dr.
+Amy Acton.” TAKE ACTION WITH TEAM AMY TAKE ACTION WITH TEAM AMY Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Join Team Amy SMS Terms: By entering your phone number and checking the box, you agree to receive periodic automated text messages about donating and voter contact.
 Msg Frequency varies.
 Msg & Data rates May apply.

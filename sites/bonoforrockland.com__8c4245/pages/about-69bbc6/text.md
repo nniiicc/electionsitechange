@@ -1,4 +1,4 @@
-0 Skip to Content Rob Bonomolo for NY State Assembly About Donate Open Menu Close Menu Rob Bonomolo for NY State Assembly About Donate Open Menu Close Menu About Donate Rob Bonomolo is a 4th-generation Rockland County resident, community leader, and union laborer who has spent decades giving back to the place he calls home.
+0 Skip to Content Rob Bonomolo for NY State Assembly Our Policies About Donate Open Menu Close Menu Rob Bonomolo for NY State Assembly Our Policies About Donate Open Menu Close Menu Our Policies About Donate Rob Bonomolo is a 4th-generation Rockland County resident, community leader, and union laborer who has spent decades giving back to the place he calls home.
 Raised in Pearl River, Rob learned early the values of hard work, teamwork, and standing up for others—principles that continue to guide his service today.
 Rob is proud to serve as President of the Rockland County Laborers Local 754, representing working men and women who build our roads, schools, and infrastructure.
 He understands firsthand what it means to punch a clock, raise a family, and fight for fair wages, safe jobsites, and dignity on the job.

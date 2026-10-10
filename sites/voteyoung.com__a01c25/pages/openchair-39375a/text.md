@@ -16,11 +16,12 @@ However, I don't think that this is what the constituents of PA-6 want.
 They want to ask their questions directly of both candidates.
 They want to be in the room and they want to be heard.
 And so, the Invitation remains open.
-October 9, 2026 — The Debate and the Open Forum As my campaign promised, we will have an Open Forum at the Chester County History Center at 630pm on Tuesday October 20th, before the debate.
+October 9, 2026 — The Debate and the Open Forum As my campaign promised, we will have an Open Forum in West Chester at 630pm on Tuesday October 20th, before the debate.
 Constituents will have the opportunity to ask me any question they want.
 The invitation remains open.
 The second chair will be there, with Congresswoman Houlahan's name on it , to answer questions alongside me.
 Please register to attend and also submit any question you want answered.
+Location details will be emailed to registrants 72 hours prior.
 The Nine Answers, On the Record ﻿ Elections Only American citizens should vote in American elections.
 That is the law.
 I support a version of the SAVE Act that requires a state or federally issued ID, with the same transparency standard Pennsylvania already has: full and public disclosure of who voted.

@@ -11,4 +11,5 @@ Please reply by 9/19 to be included in our next round of sign requests.
 Thank you for helping us spread the word and build visibility for Lauren across House District 37!
 Lauren Cole for Indiana DONATE TO THE CAMPAIGN FOLLOW US ON SOCIAL MEDIA!
 Recent Posts See All There are lots of ways to help Lauren Celebrate Lauren's Birthday This Sunday!
+Come celebrate Lauren Cole's 29th birthday with a fun, kid-friendly morning of bubbles, snacks, conversation, and community!
 314 Action Official Endorsement BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page

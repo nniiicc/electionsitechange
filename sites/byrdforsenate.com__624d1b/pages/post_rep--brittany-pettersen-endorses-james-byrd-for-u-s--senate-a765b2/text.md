@@ -1,6 +1,6 @@
 top of page Home About Issues News Menu Close All Posts Rep.
 Brittany Pettersen Endorses James Byrd for U.S.
-Senate Byrd for Senate #ago 1 min read CHEYENNE, WYO. | October 2, 2026 Today, U.S.
+Senate Byrd for Senate Oct 2 1 min read CHEYENNE, WYO. | October 2, 2026 Today, U.S.
 Representative Brittany Pettersen (CO-07) officially announced her endorsement of James Byrd for the United States Senate, praising his track record of bipartisan leadership and his dedication to working families.
 "I'm proud to support James Byrd for the United States Senate," said Representative Pettersen.
 "James understands that representing Wyoming means putting Wyoming first, protecting public lands, supporting rural communities, making healthcare more affordable, and standing up for working families.

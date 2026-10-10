@@ -1,4 +1,4 @@
-Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse Español es русский ru English en 简体中文 zh עברית he polski pl Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse ★ Eventos ★ Únase a Danica en la campaña electoral Sé parte del movimiento.
+Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse Español es English en polski pl עברית he 简体中文 zh русский ru Hogar Conoce a Danica Noticias Eventos Complicarse Contacto Complicarse ★ Eventos ★ Únase a Danica en la campaña electoral Sé parte del movimiento.
 Desde encuentros comunitarios hasta eventos de voluntariado, aquí puedes conectar con Danica y el equipo de la campaña.
 Danica cree que las campañas se centran en las personas, no en la política.
 Cada evento es una oportunidad para escuchar, compartir y trabajar juntos por una comunidad más fuerte.

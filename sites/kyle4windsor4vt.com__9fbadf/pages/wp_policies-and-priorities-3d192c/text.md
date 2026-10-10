@@ -46,6 +46,7 @@ Additionally, keep agricultural buildings and uses exempt from local zoning.
 Keep agriculture and forestry exempt from Act250 permitting.
 Support our working forests: Create a working forest revolving fund. and invest in timber manufacturing.
 Incentivize Vermont sawn timber for in-state construction.
+Support Vermont-based sawmills.
 Support and advocate for the working class: Protect the right of workers to start, join, and maintain their own unions, and to engage in collective bargaining practices across all sectors statewide.
 Workers must also be guaranteed the right to strike.
 Support the passage of Proposal 3: Oppose “right-to-work” or other anti-union and anti-worker legislation.
@@ -55,7 +56,6 @@ Increase the state minimum wage from $14.42 per hour to $20 per hour: The minimu
 Support guaranteed universal parental leave, sick days, and paid time off.
 Support and incentivize the establishment and operation of small businesses in our communities.
 Make healthcare more affordable for working Vermonters: Support VT S.190, or similar statewide health insurance policy, such as “reference based pricing”.
-Support and fund our rural hospitals and clinics to protect the pay of nurses, doctors, and other healthcare workers.
 Develop solutions to make healthcare more affordable and accessible to all Vermonters, regardless of their employment status.
 This includes breaking up and regulating our health insurance monopoly to immediately bring healthcare costs down.
 Vehicle and energy Policy which works for working Vermonters: Oppose potential carbon taxes and EV mandates imposed on individual Vermonters.
@@ -75,6 +75,7 @@ Tuition free community college programs for in-state residents.
 Ensure that the state lottery fund and cannabis taxes are being used to help fund our education system.
 Support our rural communities and towns: Provide state assistance to towns struggling to fund their highway budgets and road crews.
 Encourage and facilitate cooperation between neighboring towns.
+Support and fund our rural hospitals and clinics to protect the pay of nurses, doctors, and other healthcare workers, and for the benefit of our rural communities.
 Implement rules which make it easier for volunteer fire departments to operate; and to not lose volunteers due to excessive training requirements for all members.
 Support Volunteer Protection Act.
 Push for universal broadband access, especially in areas where cell service does not reach.

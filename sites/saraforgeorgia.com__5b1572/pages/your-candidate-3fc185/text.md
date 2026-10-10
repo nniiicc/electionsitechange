@@ -1,4 +1,4 @@
-0 Skip to Content FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in I’m Sara Fuchs I've spent six years making the State House work from the inside.
+0 Skip to Content FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in I’m Sara Fuchs I've spent six years making the State House work from the inside.
 Now I'm asking for a seat in it.
 I’m Sara Fuchs I've spent six years making the State House work from the inside.
 Now I'm asking for a seat in it.

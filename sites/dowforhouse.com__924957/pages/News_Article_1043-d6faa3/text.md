@@ -1,4 +1,4 @@
-Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 29 Apr Rep.
+Home Flood Victims LAS CRUCES RESIDENTS HATCH VALLEY RESIDENTS (WHEN AVAILABLE) SOCORRO RESIDENTS (WHEN AVAILABLE) News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS GUIDE TO HOMESCHOOLING IN NM ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 29 Apr Rep.
 Dow, Ranchers and Ag Department Assisting Navajos and Food Banks During Looming Food Shortages and Pandemic By housereplogin By Etta Pettijohn An idea initiated during a zoom conference call has led New Mexico food producers to step up to the plate for New Mexico’s most vulnerable residents facing food insecurity during the COVID 19 pandemic.
 Their efforts could also provide the catalyst for adoption of legislation providing relief to struggling meat producers who are being squeezed out of the market by low cattle prices, and regulations prohibiting them from selling their products in the state.
 One of New Mexico Rep.

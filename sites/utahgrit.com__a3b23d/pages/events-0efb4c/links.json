@@ -33,10 +33,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=615+east+8000+south+sandy%2C+utah%2C+84070+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=930+east+onyx+lane+sandy%2C+utah%2C+84094+united+states"
 },
 {
@@ -105,18 +101,6 @@
 },
 {
 "text": "Canvass with Rod Moser for HD45",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10"
-},
-{
-"text": "Canvass with Rod Moser for HD45",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17"
-},
-{
-"text": "Canvass with Rod Moser for HD45",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24"
-},
-{
-"text": "Canvass with Rod Moser for HD45",
 "href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12"
 },
 {
@@ -150,6 +134,10 @@
 {
 "text": "EASTRIDGE SOAPBOX",
 "href": "https://www.utahgrit.com/events/eastridge-soapbox-in-sandy"
+},
+{
+"text": "Election Day",
+"href": "https://www.utahgrit.com/events/election-day"
 },
 {
 "text": "Endorsements",
@@ -237,23 +225,15 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20261010T150000Z%2F20261010T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20261017T150000Z%2F20261017T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rod+Moser+for+HD45+&dates=20261024T150000Z%2F20261024T160000Z&location=11267+South+River+Front+Parkway%2C+South+Jordan%2C+Utah%2C+84095%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=DRINKING+LIBERALLY&dates=20260829T003000Z%2F20260829T020000Z&location=515+South+700+East%2C+Salt+Lake+City%2C+Utah%2C+84102%2C+United+States"
 },
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=EASTRIDGE+SOAPBOX&dates=20260912T160000Z%2F20260912T180000Z&location=Sandy%2C+UT+%2C+USA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T150000Z%2F20261104T020000Z"
 },
 {
 "text": "Google Calendar",
@@ -282,10 +262,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Rod%2C+Zach+and+Ofa&dates=20260924T000000Z%2F20260924T013000Z"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Region+7+PTA&dates=20261014T000000Z%2F20261014T020000Z&location=615+East+8000+South%2C+Sandy%2C+Utah%2C+84070%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -369,18 +345,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12?format=ical"
 },
 {
@@ -409,6 +373,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.utahgrit.com/events/election-day?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.utahgrit.com/events/flipping-burgers-flipping-votes-aug29?format=ical"
 },
 {
@@ -426,10 +394,6 @@
 {
 "text": "ICS",
 "href": "https://www.utahgrit.com/events/meet-rod-zach-and-ofa?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.utahgrit.com/events/region-7-pta?format=ical"
 },
 {
 "text": "ICS",
@@ -482,10 +446,6 @@
 {
 "text": "RSVP",
 "href": "https://secure.actblue.com/donate/fr-bbq250"
-},
-{
-"text": "Region 7 PTA",
-"href": "https://www.utahgrit.com/events/region-7-pta"
 },
 {
 "text": "Sign Up",
@@ -573,18 +533,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10"
-},
-{
-"text": "View Event →",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17"
-},
-{
-"text": "View Event →",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24"
-},
-{
-"text": "View Event →",
 "href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12"
 },
 {
@@ -613,6 +561,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.utahgrit.com/events/election-day"
+},
+{
+"text": "View Event →",
 "href": "https://www.utahgrit.com/events/flipping-burgers-flipping-votes-aug29"
 },
 {
@@ -630,10 +582,6 @@
 {
 "text": "View Event →",
 "href": "https://www.utahgrit.com/events/meet-rod-zach-and-ofa"
-},
-{
-"text": "View Event →",
-"href": "https://www.utahgrit.com/events/region-7-pta"
 },
 {
 "text": "View Event →",
@@ -701,18 +649,6 @@
 },
 {
 "text": "[image: Canvass with Rod Moser for HD45 ]",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct10"
-},
-{
-"text": "[image: Canvass with Rod Moser for HD45 ]",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct17"
-},
-{
-"text": "[image: Canvass with Rod Moser for HD45 ]",
-"href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-oct24"
-},
-{
-"text": "[image: Canvass with Rod Moser for HD45 ]",
 "href": "https://www.utahgrit.com/events/canvass-with-rod-moser-for-hd45-sep12"
 },
 {
@@ -752,6 +688,10 @@
 "href": "https://www.utahgrit.com/events/eastridge-soapbox-in-sandy"
 },
 {
+"text": "[image: Election Day]",
+"href": "https://www.utahgrit.com/events/election-day"
+},
+{
 "text": "[image: FLIPPING BURGERS]",
 "href": "https://www.utahgrit.com/events/flipping-burgers-flipping-votes-aug29"
 },
@@ -778,10 +718,6 @@
 {
 "text": "[image: Meet Rod, Zach and Ofa]",
 "href": "https://www.utahgrit.com/events/meet-rod-zach-and-ofa"
-},
-{
-"text": "[image: Region 7 PTA]",
-"href": "https://www.utahgrit.com/events/region-7-pta"
 },
 {
 "text": "[image: Rod Moser For Utah House District 45]",

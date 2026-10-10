@@ -8,7 +8,7 @@ Grew up in East Tennessee with nothing handed to him.
 Built nine companies, kept every job here when every competitor moved overseas, and shared equity with the workers who built it alongside him.
 Thirty years of proof.
 Now he’s running for Governor.
-JOIN THE MOVEMENT WATCH HIS STORY Free Book → FREE DOWNLOAD Tested in Tennessee — David’s Book GET IT FREE FOLLOW US Facebook Instagram 9 COMPANIES BUILT 750 Tennessee Jobs 740K Sq Ft of TN Manufacturing #1 Hot Tub Mfr. in America 11 Patents Held 30 yrs BUILDING IN TENNESSEE EVENTS October THURSDAY - 8th Rally Hamilton County Chattanooga Rally 6:00 PM 2nd American Restaurant 1601 Cowart St, Chattanooga, TN 37408 CLICK TO RSVP Map ↗ America's Bash 10th year anniversary hosted by: The Hatley's-- Tested in Tennessee The story Tennessee hasn't heard yet.
+JOIN THE MOVEMENT WATCH HIS STORY Free Book → FREE DOWNLOAD Tested in Tennessee — David’s Book GET IT FREE FOLLOW US Facebook Instagram 9 COMPANIES BUILT 750 Tennessee Jobs 740K Sq Ft of TN Manufacturing #1 Hot Tub Mfr. in America 11 Patents Held 30 yrs BUILDING IN TENNESSEE EVENTS October WEDNESDAY - 14TH Rally Knox County Knoxville 6:00 PM The Standard at Knoxville, 705 S 17th St, Knoxville, TN 37916 Map ↗ THURSDAY - 15TH Rally Cumberland County Crossville 6:00 PM Southern Mules Venue 917 Swan Rd, Crossville, TN 38555 Map ↗ America's Bash 10th year anniversary hosted by: The Hatley's-- Tested in Tennessee The story Tennessee hasn't heard yet.
 Before the campaign.
 Before the announcement.
 There was a kid from Carter County who refused to accept that where you start has to be where you stop.

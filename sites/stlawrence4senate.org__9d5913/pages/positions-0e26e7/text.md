@@ -17,5 +17,5 @@ I will write that law DONATE Term Limits Bitcoin ATM Machine Scams Term Limits I
 I will not serve more than 3 terms in the Georgia Senate.
 Experience doesn't make better lawmakers.
 It just makes them more greedy and corrupt.
-My Pledge to Georgia. (pdf) Download Georgia Health Insurance (pdf) Download Medicare and Medicaid Fixes (pdf) Download Abortion and Pregnancy Care (pdf) Download Data Centers (pdf) Download Georgia Must Do More for Farmers (PDF) Download Georgia Private School Vouchers (PDF) Download McCaysville Disaster Recovery (pdf) Download Bitcoin ATM Machines Scam (pdf) Download Georgia Animal Rights (pdf) Download Democrat Conservatism (pdf) Download Qualifications of a Candidate (pdf) Download Paid for by Gary St.
+2026 Georgia Ballot Measures (pdf) Download My Pledge to Georgia. (pdf) Download Georgia Health Insurance (pdf) Download Medicare and Medicaid Fixes (pdf) Download Abortion and Pregnancy Care (pdf) Download Data Centers (pdf) Download Georgia Must Do More for Farmers (PDF) Download Georgia Private School Vouchers (PDF) Download McCaysville Disaster Recovery (pdf) Download Bitcoin ATM Machines Scam (pdf) Download Georgia Animal Rights (pdf) Download Democrat Conservatism (pdf) Download Qualifications of a Candidate (pdf) Download Paid for by Gary St.
 Lawrence for GA Senate.

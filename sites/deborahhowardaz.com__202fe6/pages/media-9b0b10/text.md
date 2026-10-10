@@ -5,4 +5,4 @@ Lorenzo Sierra Endorses Deborah Howard In State House Race , October 21, 2025 De
 AZ Central - Arizona Democrats can win in heavily Republican districts.
 Here's how Blog for Arizona - Vote Your Values, or Live Under Tyranny Arizona Agenda - LD27 Candidate Cards Glendale Independent - Deborah Howard is doing the work in LD 27 Paid for by Deborah Howard for State Representative - LD27.
 Authorized by Deborah Howard.
-Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318 Privacy Policy

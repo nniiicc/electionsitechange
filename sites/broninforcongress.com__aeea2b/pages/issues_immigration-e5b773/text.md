@@ -10,9 +10,6 @@ Leverage the government funding process in the Senate to demand immediate reform
 Democrats must condition support for the Homeland Security Department budget on meaningful immigration reforms — including a ban on masks, warrant requirements for arrests, visible identification for officers, an end to racial profiling, reforms to ICE’s recruitment and training practices, and accountability for abuse and law-breaking.
 Demand full, independent investigations into the murders of Renee Nicole Good, Alex Pretti, and other violent incidents , including ICE use-of-force policies and chain of command.
 Hold field hearings on ICE abuses nationwide, and document instances of abuse, violent conduct, and violation of constitutional rights.
-Support impeachment of Secretary Kristi Noem.
-Democrats should unite behind articles of impeachment for Kristi Noem for undermining transparency, obstructing Congressional access to facilities, and violating the public trust by directing violent, unaccountable enforcement tactics.
-Resignation is not the end of accountability.
 Structural Reform After Winning Majorities Abolish ICE, which has only existed since 2003.
 Long-term reform should include a reversal of the post-9/11 establishment of ICE inside of the Department of Homeland Security.
 The 2003 shift split up the Immigration and Naturalization Service, establishing an enforcement agency divorced from the broader mission of implementing a comprehensive immigration policy consistent with American traditions.

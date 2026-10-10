@@ -1,3 +1,32 @@
-Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events There are no upcoming events.
-Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Swift for Assembly 2026 FPPC #1485309 1 W.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Team Swift Canvass in Stanton Hare School Park 12012 Magnolia St.
+Garden Grove, CA 92841 Join Team Swift for a day of canvassing to get the vote out for Dr.
+Swift!
+RSVP Garden Grove Slate Canvass with Team Tran Garden Grove Park 9301 Westminster Blvd., Garden Grove, CA 92844 Join Team Swift and Team Tran to get the vote out for this November!
+RSVP Garden Brook Senior Village Garden Brook Senior Village 10080 Garden Grove Blvd.
+Garden Grove, CA 92844 Come meet Dr.
+Swift at the Garden Brook Senior Village to discuss her plans for the State!
+RSVP Voter Registration Drive - Garden Grove Village Green Park 12732 Main St.
+Garden Grove, CA 92840 Come on out to see if you are registered to vote with Dr.
+Swift!
+RSVP Team Swift Canvass in Garden Grove Garden Grove Sports & Recreation Center 13641 Deodara Dr.
+Garden Grove, CA 92844 Join Team Swift for a day of canvassing to get the vote out for Dr.
+Swift!
+RSVP Team Swift Canvass in Garden Grove Haster Basin Recreational Park 12952 Lampson Ave.
+Garden Grove, CA 92840 Join Team Swift for a day of canvassing to get the vote out for Dr.
+Swift!
+RSVP Phone Bank @ VADC Field Office 9741 Bolsa Ave.
+Westminster, CA 92683 Join Dr.
+Swift on the phones to get the vote out for Dr.
+Swift this November!
+RSVP Team Swift Canvass in Santa Ana Edna Park 2140 W.
+Edna Dr.
+Santa Ana, CA 92706 Join Team Swift for a day of canvassing to get the vote out for Dr.
+Swift!
+RSVP Team Swift Canvass in Garden Grove Eastgate Park 12001 Mark St.
+Garden Grove, CA 92845 Join Team Swift for a day of canvassing to get the vote out for Dr.
+Swift!
+RSVP Team Swift Canvass - Garden Grove Woodbury Park 13800 Rosita Pl.
+Garden Grove, CA 92843 Join Team Swift for a day of canvassing to get the vote out for Dr.
+Swift!
+RSVP Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Swift for Assembly 2026 FPPC #1485309 1 W.
 Manchester Blvd., Suite 700, Inglewood, CA 90301 You need to enable JavaScript to run this app.

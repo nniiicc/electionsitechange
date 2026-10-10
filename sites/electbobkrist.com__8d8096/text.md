@@ -1,4 +1,4 @@
-Meet Bob Why I'm Running Priorities News Contribute Bob Krist for Nebraska Secretary of State Country before party.
+Meet Bob Why I'm Running Priorities News Donate Bob Krist for Nebraska Secretary of State Country before party.
 Retired Air Force Lieutenant Colonel.
 Former State Senator.
 Bob Krist is running for Secretary of State to protect the integrity of Nebraska's elections — for every voter, of every party.
@@ -90,7 +90,4 @@ I'm looking for another opportunity to serve.
 And I believe my experience, independence and record of service have prepared me to serve as Nebraska's next Secretary of State.” Put service over politics.
 Bob isn't running for a title — he's running for another opportunity to serve.
 Chip in to help protect the integrity of Nebraska's elections.
-Contribute Meet Bob Why I'm Running Priorities News Join Paid for by Krist for Secretary of State × Stay tuned!
-Information on how to donate to Krist for Secretary of State is coming soon.
-Sign up for campaign updates and we'll let you know the moment contributions open.
-Get updates
+Donate Meet Bob Why I'm Running Priorities News Join Donate Paid for by Krist for Secretary of State

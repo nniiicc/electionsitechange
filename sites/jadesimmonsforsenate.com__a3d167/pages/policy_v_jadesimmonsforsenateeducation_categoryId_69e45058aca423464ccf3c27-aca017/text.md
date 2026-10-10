@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today A New Era in Education Valuing Teachers Like the Nation Depends on It We are starting with prioritizing teachers because our current system does not.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today A New Era in Education Valuing Teachers Like the Nation Depends on It We are starting with prioritizing teachers because our current system does not.
 No education system will rise above the value it places on its teachers.
 Teachers are not just employees in a system.
 They are builders of lives, cultivators of talent, anchors in communities, and one of the clearest indicators of whether a society truly values its future.
@@ -66,10 +66,11 @@ A New Standard for Education Opportunity should not be limited by background, zi
 A strong education system should help the struggling student gain traction, the overlooked student regain confidence, and the exceptional student reach extraordinary heights.
 As your Senator, I will fight for an education system that works for every student, every worker, and every family by building the coalitions and helping pass the laws needed to make that vision real.
 This is how we restore education: not by lowering expectations or managing decline, but by unlocking potential, restoring possibility, and building a culture of excellence for all.
-Previous A Breakthrough Brief: Thrivability for Small Business Next Independence from Party Control You Might Also Like Independence from Party Control Healthcare That Works for People, Not Bureaucracies A Breakthrough Brief: Thrivability for Small Business Thrivability: Beyond Affordability to Economic Possibility The Thurgood Marshall Plan STAY UPDATED Let’s Build the Future Together.
+Previous A Breakthrough Brief: Thrivability for Small Business Next Independence from Party Control You Might Also Like Healthcare That Works for People, Not Bureaucracies Humane Immigration Reform and Border Security A Breakthrough Brief: Thrivability for Small Business Independence from Party Control Thrivability: Beyond Affordability to Economic Possibility STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
-SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Questions for Team Future?
+Email info@jadesimmonsforsenate.com SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
 Senate .
 We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
 You may unsubscribe at any time.

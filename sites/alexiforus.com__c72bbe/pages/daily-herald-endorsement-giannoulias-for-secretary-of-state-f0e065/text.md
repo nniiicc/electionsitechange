@@ -25,6 +25,9 @@ She waved it off as an oversight, but she’s running for a position that has ov
 That’s a difficult flaw to overcome.
 Giannoulias is endorsed.
 Read the Daily Herald’s endorsement here.
-Related Posts Secretary of State to Offer REAL IDs for the First Time at Chicago Auto Show TVDL renewals will also be offered for the first time as well Keep Reading → Giannoulias Proposal Would Ban “Zooming While Driving” Bill aims to prevent distracted driving and improve safety on Illinois roads Keep Reading → Q&A: Illinois Secretary of State Alexi Giannoulias says ‘modernization’ is key Illinois Secretary of State Alexi Giannoulias says his priority since taking office in January has been “modernizing” the Secretary of State’s Office.
+Related Posts Join me in supporting HR-1: the For The People Act The shocking images of the January 6th attack on our Capitol may have faded from the news, but make no mistake — our democracy is Keep Reading → Giannoulias: Illinois Should Pursue Digital Driver’s Licenses Secretary of State candidate calls for pilot program to test latest technology Keep Reading → Can license plate data be used against women seeking an abortion?
+Illinois Secretary of State Alexi Giannoulias is backing what he says is a first-in-the-nation bill to outlaw sharing or selling license plate data for women seeking abortions.
+He fears this data could be weaponized as some states try to criminalize helping someone get an abortion.
+NBC News’ Anne Thompson explains more.
 Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

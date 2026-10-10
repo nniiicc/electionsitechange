@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today Women’s Empowerment & A Fresh Take on Life and Choice Equality and Empowerment in the Workplace Women don’t need permission to lead.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today Women’s Empowerment & A Fresh Take on Life and Choice Equality and Empowerment in the Workplace Women don’t need permission to lead.
 They need a system that respects their work, protects their rights, and stops treating opportunity like a favor.
 This campaign will not outsource women’s advancement to slogans or slow-moving institutions.
 We will act directly, deliberately, and without apology to ensure that women are treated as full economic, professional, and civic equals in this country.
@@ -82,10 +82,11 @@ We can work to reduce abortions, protect good-faith medical care and approach di
 The future is not about forcing women into one outcome.
 It is about building a Texas where choosing life is a real and sound choice.
 The future looks like valuing life in practice, not just for politics’ sake.
-Previous Humane Immigration Reform and Border Security Next The Thurgood Marshall Plan You Might Also Like Thrivability: Beyond Affordability to Economic Possibility Humane Immigration Reform and Border Security Independence from Party Control Healthcare That Works for People, Not Bureaucracies A Breakthrough Brief: Thrivability for Small Business STAY UPDATED Let’s Build the Future Together.
+Previous Humane Immigration Reform and Border Security Next The Thurgood Marshall Plan You Might Also Like Independence from Party Control A Breakthrough Brief: Thrivability for Small Business The Thurgood Marshall Plan A New Era in Education Thrivability: Beyond Affordability to Economic Possibility STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
-SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Questions for Team Future?
+Email info@jadesimmonsforsenate.com SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
 Senate .
 We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
 You may unsubscribe at any time.

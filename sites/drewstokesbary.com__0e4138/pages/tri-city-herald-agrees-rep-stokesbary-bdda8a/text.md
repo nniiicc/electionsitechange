@@ -9,7 +9,5 @@ We also think the state should recharge Kelley on the 14 counts that the jury de
 It’s obvious that Kelley is not a man willing to do the right thing, which would have been to resign rather than sully our state’s image with his personal drama.
 We are strong believers in innocent until proven guilty, but Kelley did not have to remain auditor while he fought his court battle.
 You can read the full Tri-City Herald editorial here .
-In the News accountability auditor editorial good government legislature More For You Auburn’s Stokesbary elected to state House In the News Rep.
-Drew Stokesbary hosts town hall Saturday In the News Rep.
-Stokesbary takes oath, begins work for 31st District In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News accountability auditor editorial good government legislature More For You Washington risks budgeting online sales tax revenue In the News “The trouble with politicians” In the News Editorial: Lawmakers should ban campaign fundraising prior to special sessions In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

@@ -18,7 +18,7 @@ August 6, 2026 News Article Democrats target Texas’ 23rd Congressional Distric
 He’ll talk about anything but high prices and rampant corruption.
 He’s unfit for office.
 Don’t let him make Congress a platform for his hate. secure.actblue.com/donate/katy-...
-8 20 12 Katy Padilla Stout @katy4congress.bsky.social September 26, 2026 Got Saturday plans?
+8 21 12 Katy Padilla Stout @katy4congress.bsky.social September 26, 2026 Got Saturday plans?
 We’ve got a few blocks to cover!
 Join us and former San Antonio Mayor Ron Nirenberg for a block walk tomorrow morning!
 Come knock doors, meet neighbors, and spend the morning out in the community.

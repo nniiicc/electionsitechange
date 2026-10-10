@@ -13,9 +13,10 @@ She’s in this fight because she believes Kansans deserve better.
 Healthcare you can count on.
 Wages you can raise a family on.
 Representation that doesn’t disappear when the cameras turn off. ​​“Politics shouldn’t be something done to people.
-Representative government starts with showing up, listening, and earning trust.” Lauren Reinhold for Kansas News Thank you, Kansas!
-Now on to November!
-Aug 7 Despite DOGE, Kansas Public Servant presses forward, Jul 27 PBS News Hour Interviews Former Feds May 19 Lauren's Congressional Campaign is Featured in Gov Exec Apr 28 LAUREN'S PRIORITIES Standing Up for the Working Families of the Big First Rebuilding Rural Healthcare Supporting Agriculture and Rural Economies Strengthening Unions and Worker Rights Government Integrity and Reform Worker-First Immigration Reform Strengthening Social Security Click Here to read more . . .
+Representative government starts with showing up, listening, and earning trust.” Lauren Reinhold for Kansas News Incumbent No-Shows for Kansas' Big First #ago Big First Congressional Candidates' Debate -- hosted by Fort Hays State University #ago Taking the Fight for Accountability to Washington!
+Sep 30 Bipartisan Kansas Politicians Stand Against Government Abuses in Immigration Actions Sep 25 We All Deserve Access To A Job Or Retirement Income That Pays All The Bills, With Money Leftover To Save For The Future!
+Sep 24 Labor Union Candidates offer Trust and Credibility in Politics!
+Sep 19 LAUREN'S PRIORITIES Standing Up for the Working Families of the Big First Rebuilding Rural Healthcare Supporting Agriculture and Rural Economies Strengthening Unions and Worker Rights Government Integrity and Reform Worker-First Immigration Reform Strengthening Social Security Click Here to read more . . .
 Lauren Reinhold for Kansas 4000 W.
 6th St.
 Ste B # 241 Lawrence, KS 66049​ (785) 251-0888 info@laurenforkansas.com © # Site designed by the Mosaic Group .

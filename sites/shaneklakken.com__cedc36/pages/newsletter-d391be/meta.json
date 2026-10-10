@@ -1,9 +1,10 @@
 {
  "description": "Subscribe to Shane Klakken’s newsletter and browse past updates from a Montana state representative. Read archived newsletters with legislative updates, public service insights, and information relevant to Montana communities.",
  "final_url": "https://www.shaneklakken.com/newsletter",
- "fingerprint": "067c2a0cf8c00b646169c2d3b44497552cf5c465",
+ "fingerprint": "bb6a58a28a1db96e8a0e15e463a014e8cdf53ef0",
  "format": 3,
  "paid_for_by": "Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken",
+ "rendered": false,
  "title": "Newsletter | Shane Klakken",
  "years_mentioned": [
   "2026"

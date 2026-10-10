@@ -2,8 +2,8 @@ Skip to main content Meet Josh The Platform Events Media Get Involved Store Dona
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
 Find Events Event Views Navigation List List Month Day #ago Upcoming Upcoming Select date.
-October 2026 Fri 9 Ongoing: Phone Bank for Josh April 1 @ 8:00 am - November 3 @ 5:00 pm Join us Sunday, Monday, and Wednesday afternoons to let your neighbors know why you support Josh Smead for Congress.
-Bring your phone, a pair of headphones, and your laptop, and from the […] Fri 9 Whistlestop Bus Tour — October 9–10 October 9 - October 10 Whistlestop Bus Tour — October 9–10All aboard.
+October 2026 Sat 10 Ongoing: Phone Bank for Josh April 1 @ 8:00 am - November 3 @ 5:00 pm Join us Sunday, Monday, and Wednesday afternoons to let your neighbors know why you support Josh Smead for Congress.
+Bring your phone, a pair of headphones, and your laptop, and from the […] Sat 10 Whistlestop Bus Tour — October 9–10 October 9 - October 10 Whistlestop Bus Tour — October 9–10All aboard.
 The Whistle Stop Bus Tour is hitting towns across north Missouri — and chances are, we’re coming your way.See the Tour Fri 16 Whistlestop Bus Tour — October 16–17 October 16 - October 17 Whistlestop Bus Tour — October 16–17 All aboard.
 The Whistle Stop Bus Tour is hitting towns across north Missouri — and chances are, we’re coming your way.
 See the Tour Wed 21 Meet the Candidates — Platte County Dems October 21 @ 6:30 pm - 8:00 pm Green Hills Library 8581 N Green Hills Rd, Kansas City, MO, United States Meet the Candidates — Platte County DemsJoin us at Green Hills Library to hear from your next Democratic Congressman for Missouri’s 6th Congressional District!Green Hills Library8581 N Green Hills RdKansas […] Thu 22 League of Women Voters Candidate Forum October 22 @ 6:00 pm - 8:00 pm Rolling Hills Library — Riverside Branch 400 Mosaic Ct, St.

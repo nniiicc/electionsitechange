@@ -1,5 +1,6 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Kwon Atlas December 5, 2023 LOCAL NEWS State lawmaker calls HOA charges "excessive" following CBS News Colorado investigation Kwon Atlas December 5, 2023 A new law intended to protect HOA residents in Colorado may need some revisions or clarifications according to the sponsor, after a CBS News Colorado investigation revealed one management company charging high fees to send certified letters to HOA residents.
 Source: https://www.cbsnews.com/colorado/news/state-lawmaker-hoa-charges-excessive-cbs-news-colorado-investigation/ Newer Post Colorado lawmaker wants to crack down on companies that charge hidden fees Older Post First African immigrant to serve in Colorado legislature shares her story Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

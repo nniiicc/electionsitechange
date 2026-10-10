@@ -15,4 +15,4 @@ The REMC serves over 20,000 households in parts of 10 Southern Indiana counties,
 Involuntary annexation puts an unfair burden on property owners that do not want to be annexed.
 It requires them to gather thousands of signatures and spend tens of thousands of dollars in attorney fees to defend themselves.
 The burden should always be on the municipality.
-Dave@votedavehall.com ​ Paid for by friends of Dave Hall Join The Team Email Subscribe bottom of page
+Dave@votedavehall.com ​ Paid for by friends of Dave Hall A Letter from Dave Join The Team Email Subscribe bottom of page

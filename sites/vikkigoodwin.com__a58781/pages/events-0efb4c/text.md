@@ -9,7 +9,13 @@ You'll walk with a partner or small group, and our team will be there to answer 
 No experience needed.
 First-timers are welcome!
 What to bring: A fully charged phone Comfortable walking shoes Water, an umbrella if needed See you out there!
-View Event → Oct 11 House Party — Richardson Sunday, October 11, 2026 2:00 PM 3:30 PM Richardson, TX (map) Google Calendar ICS A neighbor in Richardson is opening their home for an afternoon with Vikki Goodwin — and you're invited!
+View Event → Oct 11 GOTV Launch - South Oak Cliff, Dallas Sunday, October 11, 2026 12:00 PM 1:00 PM The Texas Greenhouse (map) Google Calendar ICS Join Vikki Goodwin and Clayton Tucker, nominee for Agricultural Commissioner, for a community conversation and launch of an afternoon of blockwalking in South Oak Cliff.
+Please arrive at 12pm for our event, and make sure that you have RSVP'ed beforehand!
+Together, we will get out the vote to build a better future for Texas.
+Wear comfortable shoes, bring a water bottle and a fully charged cell phone.
+We’ll start with a quick training and then head out to knock doors.
+No experience needed!
+RSVP HERE View Event → Oct 11 House Party — Richardson Sunday, October 11, 2026 2:00 PM 3:30 PM Richardson, TX (map) Google Calendar ICS A neighbor in Richardson is opening their home for an afternoon with Vikki Goodwin — and you're invited!
 This event is a relaxed, neighbor-to-neighbor evening.
 Meet Vikki, hear where she stands on the things that hit home, ask her your questions, and leave with a few simple ways to help her win.
 You don't have to be a Democrat to come.
@@ -21,11 +27,11 @@ Hear directly from the candidates, ask the questions that matter, and be part of
 RSVP HERE With keynote speaker Rep-Elect Junior Ezeonu & guest speaker Rep.
 Salman Bhojani.
 Co-hosted by the Allen Democrats and the Muslim Democratic Caucus of Texas North Dallas.
-View Event → Oct 11 to Oct 12 Reception — McKinney Sun, Oct 11, 2026 7:00 PM Mon, Oct 12, 2026 10:00 AM Google Calendar ICS Don’t miss the Texas Six Pack Social in McKinney!
-GET TICKETS HERE Six candidates.
+View Event → Oct 11 Reception — McKinney Sunday, October 11, 2026 7:00 PM 10:00 PM Gather On The Square (map) Google Calendar ICS Don’t miss the Texas Six Pack Social in McKinney!
+Six candidates.
 Six statewide races.
 One great evening.
-Bring a friend, enjoy beer and brats, and help us welcome THE SIX PACK to McKinney as we raise some Texas-sized support for these six candidates running for statewide office in Texas: Vikki Goodwin for Lieutenant Governor, Nathan Johnson for Attorney General, Sarah Eckhardt for Comptroller of Public Accounts, Ben Flores for Land Commissioner, Clayton Tucker for Commissioner of Agriculture, Jon Rosenthal for Railroad Commissioner View Event → Oct 12 Volunteer Kickoff Call — Virtual Monday, October 12, 2026 6:00 PM 7:00 PM Google Calendar ICS 22 days.
+Bring a friend, enjoy beer and brats, and help us welcome THE SIX PACK to McKinney as we raise some Texas-sized support for these six candidates running for statewide office in Texas: Vikki Goodwin for Lieutenant Governor, Nathan Johnson for Attorney General, Sarah Eckhardt for Comptroller of Public Accounts, Ben Flores for Land Commissioner, Clayton Tucker for Commissioner of Agriculture, Jon Rosenthal for Railroad Commissioner RSVP HERE View Event → Oct 12 Volunteer Kickoff Call — Virtual Monday, October 12, 2026 6:00 PM 7:00 PM Google Calendar ICS 22 days.
 254 counties.
 500,000 Texans.
 We're in the final stretch of the most important election Texas has seen in years, and one of the most powerful ways to win it isn't another ad.
@@ -45,7 +51,15 @@ Real age limits, honest labeling and testing, products kept away from schools, a
 Join us for music, good company, and to hear from our next Lt.
 Governor.
 See you soon, San Antonio!
-View Event → Oct 19 Early Voting Begins Monday, October 19, 2026 7:00 AM 7:00 PM Texas (map) Google Calendar ICS Vote Vikki for Texas Lt.
+View Event → Oct 17 Town Hall — DFW Saturday, October 17, 2026 4:00 PM 5:30 PM Westminster Presbyterian Church (map) Google Calendar ICS Texans are facing an affordability crisis.
+Every year, we pay more, and we get less… Vikki Goodwin has a plan to ensure every Texan can afford to live a healthy, safe, fulfilled life.
+Join Vikki in Arlington for an Affordability Town Hall.
+Hear her plan to fix rising costs for you and your family, and meet neighbors from across the region.
+Questions welcome!
+RSVP to save your spot .
+We'll follow up by email with confirmation and day-of details.
+Bring family and friends — this is a great opportunity to get plugged into the campaign to beat Dan Patrick and elect Vikki Goodwin our next Lieutenant Governor.
+RSVP HERE View Event → Oct 19 Early Voting Begins Monday, October 19, 2026 7:00 AM 7:00 PM Texas (map) Google Calendar ICS Vote Vikki for Texas Lt.
 Governor ⚠️ Find your polling place here ⚠️ Each county in Texas is in charge of it’s own voting — this means hours may vary between polling locations and between counties.
 Check your polling location and hours here and verify by contacting your county election office.
 We recommend early voting to skip the line and make sure you get to the polls.
@@ -72,6 +86,23 @@ If you do not possess a form of acceptable photo identification and you cannot r
 The election official will ask if you have moved and then ask you to sign the list of people who have voted in the precinct.
 Depending on the type of election – local, statewide, national, or combination – you will be handed: A paper ballot on which you will select your choices and which will be counted by hand; A paper ballot on which you will select your choices by darkening an oval, completing an arrow, or “marking” with the aid of a voting machine; or A slip of paper with a numerical access code or, in some counties, a ballot activator card.
 In the next available voting booth, enter your code or card and let the on-screen instructions guide you through the process of electronic voting. ➜ Find more information here , including Mail-In Voting, Emergency Ballots Due To Death in the Family, Curbside Voting, Assistance at the Polls, and more.
+View Event → Oct 20 Town Hall — Austin Tuesday, October 20, 2026 6:00 PM 7:30 PM ACC Rio Grande Campus, Grand Hall (map) Google Calendar ICS Vikki Goodwin has a plan to pay teachers what they’re worth and keep public dollars in public schools.
+Vikki Goodwin has a plan to pay teachers what they’re worth and keep public dollars in public schools.
+Texas teachers are leaving the classroom in droves.
+Low pay, constant STAAR prep, and meddling from politicians are driving them out.
+Meanwhile, the state's voucher program sends more than $1 billion of our tax dollars to unaccountable private schools.
+Join Vikki in Austin for an Education Town Hall.
+Hear her plan to strengthen our public schools, and meet parents, educators, and neighbors.
+Questions welcome!
+RSVP to save your spot.
+We’ll follow up by email with confirmation and day-of details.
+Bring family and friends — this is a great opportunity to get plugged into the campaign to beat Dan Patrick and elect Vikki Goodwin our next Lieutenant Governor.
+RSVP HERE View Event → Oct 22 Town Hall — San Antonio Thursday, October 22, 2026 6:00 PM 7:30 PM IBEW Local 60 (map) Google Calendar ICS Texans are facing an affordability crisis.
+Every year, we pay more, and we get less… Vikki Goodwin has a plan to ensure every Texan can afford to live a healthy, safe, fulfilled life.
+Join Vikki in San Antonio for an Affordability Town Hall.
+Hear her plan to fix rising costs for you and your family, and meet neighbors from across Bexar County.
+Questions welcome!
+Bring family and friends — this is a great opportunity to get plugged into the campaign to beat Dan Patrick and elect Vikki Goodwin our next Lieutenant Governor.
 View Event → Nov 3 Election Day Tuesday, November 3, 2026 7:00 AM 7:00 PM Google Calendar ICS Vote Vikki for Texas Lt.
 Governor ⚠️ Find your polling place here ⚠️ Each county in Texas is in charge of it’s own voting — this means that hours may vary between polling locations and between counties.
 Check your polling location and hours here and verify by contacting your county election office.

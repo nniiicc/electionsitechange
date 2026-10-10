@@ -73,4 +73,4 @@ We may update this privacy policy from time to time.
 The updated version will be indicated by an updated "Revised" date and will be effective as soon as it's posted.
 If we make material changes, we may notify you by prominently posting a notice of such changes or by sending a notification.
 We encourage you to review this privacy policy frequently.
-If you have any questions or comments about this policy, you may contact us at: info@chrisgober.com Copyright © # CHRIS GOBER Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Communications & Consent Policy Privacy Policy
+If you have any questions or comments about this policy, you may contact us at: info@chrisgober.com Copyright © # CHRIS GOBER Campaign Overview Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Campaign Overview Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Campaign Overview Communications & Consent Policy Privacy Policy

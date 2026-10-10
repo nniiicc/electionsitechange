@@ -1,4 +1,4 @@
-Skip to content Time For A Change Home September 30, 2026 politics , public health , energy policy Green Energy is Energy Sovereignty If there is one thing the Iran war has taught us, it is that having lots of oil in your country does not shield you from the consequences of a global shortage.
+Skip to content Time For A Change Home September 30, 2026 energy policy , politics , public health Green Energy is Energy Sovereignty If there is one thing the Iran war has taught us, it is that having lots of oil in your country does not shield you from the consequences of a global shortage.
 We are a major oil- EXPORTING nation.
 We have scads of crude.
 But for one reason or another, we don’t have the refined products we need.
@@ -28,7 +28,7 @@ One response to “Green Energy is Energy Sovereignty” Ciencia Diaria Septembe
 No importa cuánto petróleo tengas, si no tienes la capacidad de producir y distribuir energía, estás expuesto a las consecuencias de una crisis global.
 Estados Unidos es un país exportador de petróleo.
 Tenemos millones de barriles.
-Like Like Reply Leave a comment Cancel reply Δ Blog at WordPress.com.
+Like Like Reply Leave a comment Cancel reply Δ Create a free website or blog at WordPress.com.
 Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
 Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started

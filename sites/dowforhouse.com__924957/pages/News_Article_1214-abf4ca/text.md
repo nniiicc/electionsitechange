@@ -1,4 +1,4 @@
-Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home Veterans Article 14 Nov American Legion Post 18 hosted Veterans&#8217; Day ceremony 111122 By grantcountybeat David Morrison, Allingham-Golding American Legion Post 18, commander, served as master of ceremonies.
+Home Flood Victims LAS CRUCES RESIDENTS HATCH VALLEY RESIDENTS (WHEN AVAILABLE) SOCORRO RESIDENTS (WHEN AVAILABLE) News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS GUIDE TO HOMESCHOOLING IN NM ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home Veterans Article 14 Nov American Legion Post 18 hosted Veterans&#8217; Day ceremony 111122 By grantcountybeat David Morrison, Allingham-Golding American Legion Post 18, commander, served as master of ceremonies.
 He noted Post 18 was chartered in 1919, as one of the first 10 posts in New Mexico.
 “Yesterday, I attended a ceremony at San Lorenzo Elementary School,” Morrison said.
 “They put on a Veterans’ Day ceremony.

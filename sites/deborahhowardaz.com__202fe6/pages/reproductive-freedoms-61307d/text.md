@@ -8,4 +8,4 @@ As your representative, my healthcare plan is clear: protect Arizona's Medicaid 
 To ensure our system remains strong, I will also invest in educating the next generation of medical professionals who keep our communities healthy.
 Paid for by Deborah Howard for State Representative - LD27.
 Authorized by Deborah Howard.
-Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318 Privacy Policy

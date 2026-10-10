@@ -37,9 +37,24 @@ Predecessor to H.R.
 1383. ❌ Lydia Opposes View on Congress.gov → HR-46 Introduced ✅ Lydia Supports ★ ⬆ Rural Broadband Window of Opportunity Act Science, Technology, Communications Latest Action Jan 3, 2025 Referred to the House Committee on Energy and Commerce.
 Introduced: Jan 3, 2025 View on Congress.gov HR-148 Introduced ✅ Lydia Supports ★ ⬆ Keep Your Coins Act of 2025 Finance and Financial Sector Latest Action Jan 3, 2025 Referred to the House Committee on Financial Services.
 Introduced: Jan 3, 2025 View on Congress.gov HR-117 Introduced ✅ Lydia Supports ★ ⬆ Fourth Amendment Restoration Act Armed Forces and National Security Latest Action Jan 3, 2025 Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
-Introduced: Jan 3, 2025 View on Congress.gov HR-10736 Introduced ★ ⬆ Safeguarding Technology from CCP Influence Act Latest Action Oct 5, 2026 Referred to the House Committee on Oversight and Government Reform.
-Introduced: Oct 5, 2026 View on Congress.gov S-5581 Introduced ★ ⬆ Veteran Technology Employment Success Act of 2026 Latest Action Sep 29, 2026 Read twice and referred to the Committee on Veterans' Affairs.
-Introduced: Sep 29, 2026 View on Congress.gov S-3404 Active ★ ⬆ Satellite Cybersecurity Act of 2025 Latest Action Sep 24, 2026 Held at the desk.
+Introduced: Jan 3, 2025 View on Congress.gov HR-10768 Introduced ★ ⬆ To establish the Office of Artificial Intelligence and Emerging Technology Threats within the Executive Office of the President, and for other purposes.
+Latest Action Oct 9, 2026 Referred to the House Committee on Energy and Commerce.
+Introduced: Oct 9, 2026 View on Congress.gov HR-10772 Introduced ★ ⬆ To evaluate and invest in Ukrainian defense technologies.
+Latest Action Oct 9, 2026 Referred to the House Committee on Armed Services.
+Introduced: Oct 9, 2026 View on Congress.gov HR-9521 Introduced ★ ⬆ Broadband Infrastructure Extension Act Latest Action Jun 29, 2026 Referred to the House Committee on Oversight and Government Reform.
+Introduced: Jun 29, 2026 View on Congress.gov HR-10083 Introduced ★ ⬆ Water Technology and Resilience Reauthorization Act Latest Action Aug 13, 2026 Referred to the House Committee on Energy and Commerce.
+Introduced: Aug 13, 2026 View on Congress.gov HR-10775 Introduced ★ ⬆ To direct the Chairman of the Federal Trade Commission to establish a task force for the purpose of studying the effects of automated accounts on social media, public discourse, and elections.
+Latest Action Oct 9, 2026 Referred to the House Committee on Energy and Commerce.
+Introduced: Oct 9, 2026 View on Congress.gov HR-10777 Introduced ★ ⬆ To codify certain policies to combat transnational cyber-enabled crime, and for other purposes.
+Latest Action Oct 9, 2026 Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+Introduced: Oct 9, 2026 View on Congress.gov S-5541 Introduced ★ ⬆ Cybersecurity and AI Board of Investigations Act of 2026 Latest Action Sep 24, 2026 Read twice and referred to the Committee on Commerce, Science, and Transportation.
+Introduced: Sep 24, 2026 View on Congress.gov S-5658 Introduced ★ ⬆ A bill to prohibit the construction of data centers on Federal land, and for other purposes.
+Latest Action Sep 30, 2026 Read twice and referred to the Committee on Energy and Natural Resources.
+Introduced: Sep 30, 2026 View on Congress.gov S-4444 Introduced ★ ⬆ A bill to amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through May 21, 2026, and for other purposes.
+Latest Action Apr 30, 2026 Read twice and referred to the Select Committee on Intelligence.
+Introduced: Apr 30, 2026 View on Congress.gov S-5581 Introduced ★ ⬆ Veteran Technology Employment Success Act of 2026 Latest Action Sep 29, 2026 Read twice and referred to the Committee on Veterans' Affairs.
+Introduced: Sep 29, 2026 View on Congress.gov HR-10736 Introduced ★ ⬆ Safeguarding Technology from CCP Influence Act Latest Action Oct 5, 2026 Referred to the House Committee on Oversight and Government Reform.
+Introduced: Oct 5, 2026 View on Congress.gov S-3404 Active ★ ⬆ Satellite Cybersecurity Act of 2025 Latest Action Sep 24, 2026 Held at the desk.
 Introduced: Dec 9, 2025 View on Congress.gov S-5640 Introduced ★ ⬆ Data Center Transparency Act of 2026 Latest Action Sep 30, 2026 Read twice and referred to the Committee on Environment and Public Works.
 Introduced: Sep 30, 2026 View on Congress.gov S-5562 Introduced ★ ⬆ Jimmy Lai Internet Freedom Act Latest Action Sep 24, 2026 Read twice and referred to the Committee on Foreign Relations.
 Introduced: Sep 24, 2026 View on Congress.gov S-5673 Introduced ★ ⬆ Car Privacy Rights Act of 2026 Latest Action Sep 30, 2026 Read twice and referred to the Committee on Commerce, Science, and Transportation.
@@ -49,22 +64,11 @@ Introduced: Sep 28, 2026 View on Congress.gov HR-10575 Introduced ★ ⬆ Deterr
 Introduced: Sep 24, 2026 View on Congress.gov HR-7625 Out of Committee ★ ⬆ MTS CYBER Act of 2026 Latest Action Sep 15, 2026 Ordered to be Reported (Amended) by Voice Vote.
 Introduced: Feb 20, 2026 View on Congress.gov HR-10629 Introduced ★ ⬆ Pesticide Data Transparency Act Latest Action Sep 28, 2026 Referred to the House Committee on Agriculture.
 Introduced: Sep 28, 2026 View on Congress.gov S-3315 Active ★ ⬆ Health Care Cybersecurity and Resiliency Act of 2026 Latest Action Oct 5, 2026 Held at the desk.
-Introduced: Dec 2, 2025 View on Congress.gov HR-10752 Introduced ★ ⬆ To establish in the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security a task force on artificial intelligence, and for other purposes.
-Latest Action Oct 6, 2026 Referred to the House Committee on Homeland Security.
-Introduced: Oct 6, 2026 View on Congress.gov HR-10449 Introduced ★ ⬆ Student Voter Data Protection Act Latest Action Sep 16, 2026 Referred to the House Committee on Education and Workforce.
+Introduced: Dec 2, 2025 View on Congress.gov HR-10449 Introduced ★ ⬆ Student Voter Data Protection Act Latest Action Sep 16, 2026 Referred to the House Committee on Education and Workforce.
 Introduced: Sep 16, 2026 View on Congress.gov S-5508 Introduced ★ ⬆ Telecommunications Cybersecurity and Resilience Act Latest Action Sep 24, 2026 Read twice and referred to the Committee on Commerce, Science, and Transportation.
 Introduced: Sep 24, 2026 View on Congress.gov HR-9228 Active ★ ⬆ Health DATA Act of 2026 Latest Action Sep 15, 2026 Placed on the Union Calendar, Calendar No.
 724.
-Introduced: Jun 9, 2026 View on Congress.gov HR-9486 Introduced ★ ⬆ Health DATA Act of 2026 Latest Action Jun 25, 2026 Referred to the House Committee on Education and Workforce.
-Introduced: Jun 25, 2026 View on Congress.gov S-5504 Introduced ★ ⬆ A bill to require the Secretary of Defense to establish a pilot program on Department of Defense partnerships with institutions of higher education recognized in the National Centers of Academic Excellence in Cybersecurity program for Cyber Research, and for other purposes.
-Latest Action Sep 24, 2026 Read twice and referred to the Committee on Armed Services.
-Introduced: Sep 24, 2026 View on Congress.gov HR-9372 Out of Committee ★ ⬆ Data Infrastructure Energy Measurement and Standards Act Latest Action Jun 25, 2026 Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 34 - 1.
-Introduced: Jun 18, 2026 View on Congress.gov HR-10467 Introduced ★ ⬆ Data Center Fairness Fee Act of 2026 Latest Action Sep 16, 2026 Referred to the House Committee on Energy and Commerce.
-Introduced: Sep 16, 2026 View on Congress.gov HR-7166 Introduced ★ ⬆ Stop Online Ammunition Sales Act of 2026 Latest Action Jan 20, 2026 Referred to the House Committee on the Judiciary.
-Introduced: Jan 20, 2026 View on Congress.gov HR-9442 Introduced ★ ⬆ Artificial Intelligence Data Center Moratorium Act Latest Action Jun 24, 2026 Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
-Introduced: Jun 24, 2026 View on Congress.gov HR-9134 Introduced ★ ⬆ Protecting Student Privacy Act Latest Action Jun 3, 2026 Referred to the House Committee on Education and Workforce.
-Introduced: Jun 3, 2026 View on Congress.gov S-5459 Introduced ★ ⬆ Agricultural Data Privacy Act of 2026 Latest Action Sep 23, 2026 Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
-Introduced: Sep 23, 2026 View on Congress.gov Lydia's Commitment When elected, Lydia will maintain a public tracker of every vote she casts in the Senate, with plain-English explanations of why she voted the way she did.
+Introduced: Jun 9, 2026 View on Congress.gov Lydia's Commitment When elected, Lydia will maintain a public tracker of every vote she casts in the Senate, with plain-English explanations of why she voted the way she did.
 No spin.
 No party-line excuses.
 Full transparency to every Michigander.

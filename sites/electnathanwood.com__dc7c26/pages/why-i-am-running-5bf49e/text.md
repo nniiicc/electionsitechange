@@ -1,4 +1,4 @@
-0 Skip to Content HOME WHY I'M RUNNING ISSUES / FAQ EVENTS Donate Open Menu Close Menu Donate HOME WHY I'M RUNNING ISSUES / FAQ EVENTS Open Menu Close Menu HOME WHY I'M RUNNING ISSUES / FAQ EVENTS Donate We have an existential problem I served at the district office manager of then-Representative Greg Rothman, our now-incumbent senator.
+0 Skip to Content HOME WHY I'M RUNNING ISSUES EVENTS Donate Open Menu Close Menu Donate HOME WHY I'M RUNNING ISSUES EVENTS Open Menu Close Menu HOME WHY I'M RUNNING ISSUES EVENTS Donate We have an existential problem I served at the district office manager of then-Representative Greg Rothman, our now-incumbent senator.
 I saw first-hand how much good state government can do for people.
 I also saw how desperately we need it to do better.
 We have the third highest-paid legislature in the nation – simultaneously, it is one of the most corrupt, least productive, and least transparent.

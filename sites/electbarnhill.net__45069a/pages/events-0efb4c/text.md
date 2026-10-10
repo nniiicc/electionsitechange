@@ -83,6 +83,9 @@ High public traffic just before/during early part of Reno stay.
 See more details Aki Matsuri Japanese Festival October 10, 2026 11:00 am - 9:00 pm Water Street Plaza, Henderson, NV Free 17th Annual Japanese autumn festival at Water Street Plaza, Henderson.
 Food, cultural activities, crafts, kids games, dance.
 Family-friendly public event with good foot traffic.
+See more details October 11, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
+Food vendors, live music, grape stomping, farmers market, family-friendly.
+High public traffic just before/during early part of Reno stay.
 See more details October 12, 2026 I'll be in Reno from 10/12 to 10/20!
 October 12, 2026 7:00 pm - 10:00 pm See more details October 13, 2026 Sparks Republican Club / Sparks Republican Women Meeting October 13, 2026 5:30 pm - 7:30 pm Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436 Sparks Republican Club meeting (organized by Sparks Republican Women).
 Cost $37–$42.
@@ -221,6 +224,9 @@ High public traffic just before/during early part of Reno stay.
 See more details Aki Matsuri Japanese Festival October 10, 2026 11:00 am - 9:00 pm Water Street Plaza, Henderson, NV Free 17th Annual Japanese autumn festival at Water Street Plaza, Henderson.
 Food, cultural activities, crafts, kids games, dance.
 Family-friendly public event with good foot traffic.
+See more details October 11, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
+Food vendors, live music, grape stomping, farmers market, family-friendly.
+High public traffic just before/during early part of Reno stay.
 See more details October 12, 2026 I'll be in Reno from 10/12 to 10/20!
 October 12, 2026 7:00 pm - 10:00 pm See more details October 13, 2026 Sparks Republican Club / Sparks Republican Women Meeting October 13, 2026 5:30 pm - 7:30 pm Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436 Sparks Republican Club meeting (organized by Sparks Republican Women).
 Cost $37–$42.
@@ -276,6 +282,6 @@ Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
 See more details footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (17) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

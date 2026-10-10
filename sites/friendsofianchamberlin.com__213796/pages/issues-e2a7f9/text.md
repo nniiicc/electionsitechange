@@ -53,4 +53,4 @@ Strengthen Ohio's electric grid and maintain the generation necessary to meet gr
 Ensure large new energy users don't unfairly shift their costs onto Ohio families.
 Ensure Data Center development is transparent and includes community input.
 Invest in the roads, bridges, rail, port, airport, water, and other infrastructure Northwest Ohio needs to grow.
-Privacy Policy Donate Paid for by Friends of Ian Chamberlin
+Terms of Service & Privacy Policy Donate Paid for by Friends of Ian Chamberlin

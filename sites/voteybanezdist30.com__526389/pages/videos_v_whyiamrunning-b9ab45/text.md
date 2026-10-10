@@ -1,10 +1,9 @@
 0 Skip to Content Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Folder: Media Back Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate 9/26/26 YBANEZ for HD30 | Why I Am Running for Hawai‘i House District 30 Why I am running for House District 30: I wish to see change in cost of living and affordability.
 I will advocate and fight for workforce housing, businesses, our keiki, self sustainability and overall putting our community first.
 It is time to take action and time to make your vote matter.
-#Kalihi #Hawaii #VoteYbanez4Kalihi #OurCommunityFirst Previous Rail Interview w/ Miss Ro Next Moment of Self-Reflection from Amanda Ybanez You Might Also Like Amanda YBANEZ Talks FISCAL RESPONSIBILITY YBANEZ - Walk & Talk | Monday, August 3rd Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst YBANEZ - Mahalo Gov.
-Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
-A collab joint between Larry Veray and YBANEZ was signed this past week for Hawai'i E-Bike Safety!
-Are you registered to vote?
+#Kalihi #Hawaii #VoteYbanez4Kalihi #OurCommunityFirst Previous Rail Interview w/ Miss Ro Next Moment of Self-Reflection from Amanda Ybanez You Might Also Like Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst Amanda YBANEZ Talks FISCAL RESPONSIBILITY From Amanda YBANEZ - Mahalo!
+We are onto the general! 🤙🤙 A collab joint between Larry Veray and YBANEZ was signed this past week for Hawai'i E-Bike Safety!
+"Our Community First" with Major Erik Hoogstad & Chico Garcia of Salvation Army ARC #salvationarmy Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

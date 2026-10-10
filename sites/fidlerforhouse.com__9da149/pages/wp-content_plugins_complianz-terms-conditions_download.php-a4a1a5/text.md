@@ -12,7 +12,7 @@ Electronic communication By using this website or communicating with us by elect
 Intellectual property We or our licensors own and control all of the copyright and other intellectual property rights in the website and the data, information, and other resources displayed by or accessible within the website.
 4.1 All the rights are reserved Unless specific content dictates otherwise, you are not granted a license or any other right under Copyright, Trademark, Patent, or other Intellectual Property Rights.
 This means that you will not use, copy, reproduce, perform, display, distribute, embed into any electronic medium, alter, reverse engineer, decompile, transfer, download, transmit, monetize, sell, market, or commercialize any resources on this website in any form, without our prior written permission, except and only insofar as otherwise stipulated in regulations of mandatory law (such as the right to quote).
-Fidler for House Terms and Conditions October 9, 2026 5.
+Fidler for House Terms and Conditions October 10, 2026 5.
 Newsletter Notwithstanding the foregoing, you may forward our newsletter in the electronic form to others who may be interested in visiting our website.
 6.
 Third-party property Our website may include hyperlinks or other references to other party’s websites.
@@ -31,7 +31,7 @@ Idea submission Do not submit any ideas, inventions, works of authorship, or oth
 If you disclose it to us absent such written agreement, you grant to us a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, store, adapt, publish, translate and distribute your content in any existing or future media.
 9.
 Termination of use We may, in our sole discretion, at any time modify or discontinue access to, temporarily or permanently, the website or any Service thereon.
-You agree that we will not be liable to you or any third party for any such modification, suspension or discontinuance of your access to, or Fidler for House Terms and Conditions October 9, 2026 use of, the website or any content that you may have shared on the website.
+You agree that we will not be liable to you or any third party for any such modification, suspension or discontinuance of your access to, or Fidler for House Terms and Conditions October 10, 2026 use of, the website or any content that you may have shared on the website.
 You will not be entitled to any compensation or other payment, even if certain features, settings, and/or any Content you have contributed or have come to rely on, are permanently lost.
 You must not circumvent or bypass, or attempt to circumvent or bypass, any access restriction measures on our website.
 10.
@@ -50,7 +50,7 @@ Privacy To access our website and/or services, you may be required to provide ce
 You agree that any information you provide will always be accurate, correct, and up to date.
 We have developed a policy to address any privacy concerns you may have.
 For more information, please see our Privacy Statement and our Cookie Policy.
-Fidler for House Terms and Conditions October 9, 2026 12.
+Fidler for House Terms and Conditions October 10, 2026 12.
 Export restrictions / Legal compliance Access to the website from territories or countries where the Content or purchase of the products or Services sold on the website is illegal is prohibited.
 You may not use this website in violation of export laws and regulations of United States.
 13.
@@ -66,7 +66,7 @@ Waiver Failure to enforce any of the provisions set out in these Terms and Condi
 17.
 Language These Terms and Conditions will be interpreted and construed exclusively in English.
 All notices and correspondence will be written exclusively in that language.
-Fidler for House Terms and Conditions October 9, 2026 18.
+Fidler for House Terms and Conditions October 10, 2026 18.
 Entire agreement These Terms and Conditions, together with our privacy statement and cookie policy, constitute the entire agreement between you and Friends of Jennifer Fidler in relation to your use of this website.
 19.
 Updating of these Terms and conditions We may update these Terms and Conditions from time to time.
@@ -83,4 +83,4 @@ The other provisions will not be affected.
 Contact information This website is owned and operated by Friends of Jennifer Fidler.
 You may contact us regarding these Terms and Conditions by writing or emailing us at the following address: jennifer@fidlerforhouse.com 20103 Bohemian Hall Road Silverhill, AL 36576 22.
 Download You can also download our Terms and Conditions as a PDF.
-Fidler for House Terms and Conditions October 9, 2026
+Fidler for House Terms and Conditions October 10, 2026

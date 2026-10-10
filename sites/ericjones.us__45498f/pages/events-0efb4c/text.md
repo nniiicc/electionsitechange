@@ -1,11 +1,10 @@
 0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Upcoming Events Meet Eric & learn about our movement in person!
-Upcoming Events 10/07 Town Hall - Esparto Town Hall (Esparto, CA) Wednesday, October 7th 5:30 pm - 7:30 pm Capay Valley Health and Community Center Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
+Upcoming Events 10/09 Town Hall - Lincoln Town Hall (Lincoln, CA) Woman's Club of Lincoln Friday, October 9th 5:30 pm - 7:30 pm Guest Speaker Ray Riehle Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
-10/09 Town Hall - Lincoln Town Hall (Lincoln, CA) Woman's Club of Lincoln Friday, October 9th 5:30 pm - 7:30 pm Guest Speaker Ray Riehle Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
-RSVP Here See you there.
-10/10 Virtual Town Hall Town Hall (Virtual Zoom) Saturday, October 10th 10am - 11:30am Please join Eric at his upcoming virtual Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
-RSVP Here (link provided upon RSVP) See you there.
-10/10 Town Hall - Winters Town Hall (Winters, CA) Saturday, October 10th 1pm - 3pm Fairfield Inn Putah Creek Room East Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
+10/10 Virtual Town Hall (Spanish Translation) Town Hall (Virtual Zoom) Saturday, October 10th 10am - 11:30am Please join Eric at his upcoming virtual Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
+RSVP Here (link provided upon RSVP) See you there. ¡Únete al New Day Tour con un Foro Comunitario Virtual con Eric Jones, candidato al Congreso por el Distrito 4 de California!
+Es la oportunidad perfecta para conocer a Eric, hacerle tus preguntas y escuchar sus ideas para un futuro mejor. ¡Te esperamos!
+Fecha: sábado 10 de octubre de 2026 Hora: de 10:00 a 11:30 AM Formato: Zoom (recibirás el enlace después de registrarte abajo) RSVP 10/10 Town Hall - Winters Town Hall (Winters, CA) Saturday, October 10th 1pm - 3pm Fairfield Inn Putah Creek Room East Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
 10/11 Town Hall - Sonoma Town Hall (Sonoma, CA) Sunday, October 11 10am - 12pm Sonoma Community Center Room#110 Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
@@ -21,8 +20,10 @@ RSVP Here See you there.
 Ven a hablar con él, haz preguntas y conoce sus propuestas. viernes , 16 de octubre, 2026 5:30pm - 7:00pm WOODLAND SENIOR COMMUNITY CENTER 2001 East St, Woodland, CA 95776 RSVP Here ¿Preguntas?
 Envíe un correo electrónico a brian@ericjones.us 10/17 Town Hall - Petaluma Town Hall (Petaluma, CA) Petaluma Community Center (Activity Room) Saturday, October 17th 10AM - 12PM Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
+10/17 Town Hall - Napa Town Hall (Napa, CA) Napa Library Community Room Saturday, October 17th 2pm - 4pm Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
+RSVP Here See you there.
 10/18 Town Hall - Oregon House Town Hall (Oregon House, CA) The Alcouffe Community Center 9185 Marysville Rd Oregon House, CA 95962 Sunday, October 18 2pm - 4pm Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
-See you there.
+RSVP Here See you there.
 10/19 Town Hall - Angwin Town Hall (Angwin, CA) Howell Mountain Elementary School Monday, October 19th 5:30PM - 7:30PM Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
 10/22 Town Hall - American Canyon Town Hall (American Canyon, CA) American Canyon Library Thursday, October 22nd 5:30PM - 7:30PM Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
@@ -32,6 +33,8 @@ RSVP Here See you there.
 10/27 Town Hall - Lincoln Town Hall (Lincoln, CA) Woman's Club of Lincoln Tuesday, October 27th 5:30 pm - 7:30 pm Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
 10/29 Town Hall - Petaluma Town Hall (Petaluma, CA) Petaluma Woman's Club Event Space Thursday, October 29th 5:30pm - 7:30pm Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
+RSVP Here See you there.
+11/2 Town Hall - Napa Town Hall (Napa, CA) Napa Women’s Club Monday, November 2nd 5:30pm - 7:30pm Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
 RSVP Here See you there.
 Watch to Learn About Eric & Why He’s Running Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
 No corporate PAC or special interest money accepted.

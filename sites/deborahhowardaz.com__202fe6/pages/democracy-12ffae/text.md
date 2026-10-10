@@ -13,4 +13,4 @@ Additionally, voting rights at the federal level are being actively undermined b
 I will always prioritize protecting and expanding our voting rights, guarantee access to the ballot, secure the integrity of election systems, and reform redistricting to give power back to the people.
 Paid for by Deborah Howard for State Representative - LD27.
 Authorized by Deborah Howard.
-Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318 Privacy Policy

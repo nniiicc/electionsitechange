@@ -1,4 +1,4 @@
-top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+top of page About Endorsements Issues Media News Press Releases Photos Videos RECA Volunteer Contribute More Use tab to navigate through the menu items.
 MEET TERESA I am a daughter of rural New Mexico, and I am here to represent New Mexico’s Third Congressional District with a deep understanding of what New Mexico’s communities need.
 I am the girl who went to Head Start and fell in love with learning ; who wants every child to have access to early childhood education and public schools that inspire them to achieve their potential.
 The pre-teen who flipped burgers at her uncle’s rodeo and wants our ranchers and farmers to stay on their land and help build a green rural economy.

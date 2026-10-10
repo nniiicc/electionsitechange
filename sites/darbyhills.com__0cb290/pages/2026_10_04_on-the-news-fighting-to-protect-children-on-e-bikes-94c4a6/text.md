@@ -4,15 +4,12 @@ And when it comes to the safety of our kids, I take that responsibility seriousl
 “I worked with the Illinois Secretary of State’s Office to address gaps in our laws and establish clearer statewide safety standards for these increasingly powerful devices.
 This August, that legislation was signed into law.
 “Our kids deserve to have fun, explore and be kids.
-But above all, they deserve to come home safely.” – Darby Hills Share: More Posts Do You Know Where to Vote?
+But above all, they deserve to come home safely.” – Darby Hills Share: More Posts Darby Hills Earns Chicago Tribune Endorsement for State Senate State Senator Darby Hills has earned the Chicago Tribune Editorial Board’s endorsement in the race for Illinois’ 26th Senate District, with the board highlighting her willingness to work across the Do You Know Where to Vote?
 Early voting is happening NOW!
 We all know how quickly a day can get away from us, and you never know what might come up on Election Day.
 If you Endorsed by Algonquin Mayor Debby Sosine “Thank you to Algonquin Mayor Debby Sosine for your support!
 Working with local leaders helps me stay connected to what our communities need, and I’m proud to have Debby by Endorsed by Lake County Farm Bureau “Our farmers and farm families are an important part of the 26th District, and agriculture has a special place in our family’s history, too.
-My husband’s family has had a Endorsed by Students for Illinois “I’m grateful to be endorsed by Students for Illinois!
-Education is personal to me.
-Both of my parents were teachers, and my brother and sister-in-law carry on that tradition today.
-Prev Previous Endorsed by Students for Illinois Next Endorsed by Lake County Farm Bureau Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
+My husband’s family has had a Prev Previous Endorsed by Students for Illinois Next Endorsed by Lake County Farm Bureau Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
 They’re FREE!
 We’ll even deliver it and put it in your yard for you.
 All you have to do is fill out the form here , and we’ll take care of the rest!

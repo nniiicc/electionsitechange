@@ -31,13 +31,13 @@ The girls attend Fayette County public schools, and Will has been an active pare
 Will and Elizabeth are active members of the First United Methodist Church of Lexington.
 Volunteer with us The Keep Judge Moynahan Campaign will be powered by volunteers who value public service and believe in principled judges who respect and uphold the rule of law.
 While the campaign will kick off in earnest in 2026, please join our volunteer team now by providing your information and then be ready to make a difference next year.
-Contact Form Demo (#3) First Name Last Name Email Phone/Mobile Submit Form Home About Will Updates Volunteer Request a Yard Sign Donate Contact: [email protected] Committee to Keep Judge Moynahan P.O.
+Contact Form Demo (#3) First Name Last Name Email Phone/Mobile Submit Form Home About Will Updates Volunteer Request a Yard Sign Donate Media Home About Will Updates Volunteer Request a Yard Sign Donate Media Contact: [email protected] Committee to Keep Judge Moynahan P.O.
 Box 910099 Lexington, KY 40591 Paid for by The Committee to Keep Judge Moynahan.
 Judge Moynahan's history of military service and continuing service in the Navy Reserve does not imply Dept. of Defense (DoD) or Dept. of the Navy (DON) endorsement.
 Similarly, any images or references to the DoD or the U.S.
 Navy on this website do not imply DoD or DON endorsement.
 Designed and Maintained by Tunnel Vision Design LLC .
-Contact: [email protected] Committee to Keep Judge Moynahan P.O.
+Home About Will Updates Volunteer Request a Yard Sign Donate Media Contact: [email protected] Committee to Keep Judge Moynahan P.O.
 Box 910099 Lexington, KY 40591 Paid for by The Committee to Keep Judge Moynahan.
 Judge Moynahan's history of military service and continuing service in the Navy Reserve does not imply Dept. of Defense (DoD) or Dept. of the Navy (DON) endorsement.
 Similarly, any images or references to the DoD or the U.S.

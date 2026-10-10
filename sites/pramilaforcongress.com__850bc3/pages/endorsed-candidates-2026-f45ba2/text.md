@@ -5,7 +5,8 @@ House, NJ-12 Aisha Wahab for U.S.
 House, CA-14 Amish Shah for U.S.
 House, AZ-01 Analilia Mejia for U.S.
 House, NJ-11 Angie Nixon for U.S.
-Senate, Florida Bob Brooks for U.S.
+Senate, Florida Beth Macy for U.S.
+House, VA-06 Bob Brooks for U.S.
 House, PA-07 Brad Lander for for U.S.
 House, NY-10 Brian Poindexter for U.S.
 House, OH-07 Chris Rabb for U.S.
@@ -33,6 +34,6 @@ House, CA-06 Robert White for U.S.
 House, DC Sam Forstag for U.S.
 House, MT-01 Tom Perriello for U.S.
 House, VA-05 William Lawrence for U.S.
-House, MI-07 Statewide Races Deb Haaland for New Mexico Governor Jane Kim for CA Insurance Commissioner WA State Races No on I-001 and I-638 ; No Hate in WA State No on Initiative 645 Liz Berry for WA State House, LD 36 Jaelynn Scott for WA State House, LD 37 Gerry Pollet for WA State House, LD 46 Jorge Barón for King Country Council District 4 Teresa Mosqueda for King County Council District 8 Darya Farivar for WA State House LD 46 Jaime Hawk for WA Supreme Court Justice Position 3 Colleen Melody for WA Supreme Court Justice Position 1 Ian Birk for WA Supreme Court Justice Position 4 Join Us In Volunteering For These Progressive Champions Find your polling place Paid for by Pramila for Congress Get Email Updates Get email updates from Pramila to learn more about how she's fighting for our progressive values in Congress.
+House, MI-07 Statewide Races Deb Haaland for New Mexico Governor Jane Kim for CA Insurance Commissioner WA State Races No on I-001 and I-638 ; No Hate in WA State No on Initiative 645 Liz Berry for WA State House, LD 36 Jaelynn Scott for WA State House, LD 37 Gerry Pollet for WA State House, LD 46 Jorge Barón for King Country Council District 4 Teresa Mosqueda for King County Council District 8 Darya Farivar for WA State House LD 46 Jaime Hawk for WA Supreme Court Justice Position 3 Colleen Melody for WA Supreme Court Justice Position 1 Ian Birk for WA Supreme Court Justice Position 4 Nilu Jenks for Seattle City Council District 5 Kelabe Tewolde for WA State House, LD 37 Join Us In Volunteering For These Progressive Champions Find your polling place Paid for by Pramila for Congress Get Email Updates Get email updates from Pramila to learn more about how she's fighting for our progressive values in Congress.
 Full Name: Email: Zip: Thank you for joining our people-first movement.
 About Pramila Privacy Policy | Contact Us | Media Resources

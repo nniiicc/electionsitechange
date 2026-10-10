@@ -8,4 +8,4 @@ The (SCROLLCARD), is a cutting edge Campaigning tool to help all Republicans Win
 Click to hear the interview .
 Video On September 26, 2026, Mary Gill was asked to explain her vote on eliminating parental notification for minors seeking transgender hormone treatments or abortion-inducing drugs (including testosterone, mifepristone, misoprostol, and estrogen).
 Instead of addressing her record, her reaction speaks for itself.
-Watch the full exchange below: Mary Gill explains how she voted Mike Great Again Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu
+Watch the full exchange below: Mary Gill explains how she voted Mike Great Again SCROLLCARD Set of Pages Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues SCROLLCARD Volunteer Vote Close Menu

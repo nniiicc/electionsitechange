@@ -1,6 +1,6 @@
-Home Meet Mike Platform Record News Videos Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Platform Where Dr.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Platform Where Dr.
 Katz Stands The full platform — from border security and voter integrity to cost of living, healthcare, and the issues that matter most for Delaware families.
-Download Platform PDF Guiding Principles How I Evaluate Legislation Every piece of legislation should be judged by the same standards.
+Download Platform PDF Short Version — Platform Brief → Guiding Principles How I Evaluate Legislation Every piece of legislation should be judged by the same standards.
 I will ask: Does it protect earned benefits and constitutional rights?
 Does it improve healthcare, quality of life, and economic opportunity for Delaware families?
 Does it strengthen national security and America's leadership abroad?

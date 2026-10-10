@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate Website Privacy Policy About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate Website Privacy Policy We understand the importance of protecting your personal information.
+Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate Website Privacy Policy About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate Website Privacy Policy We understand the importance of protecting your personal information.
 This Privacy Policy describes how we collect, use, and disclose your personal information when you use our website.
 By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
 Collection of Personal Information When you visit our website, we may collect certain personal information from you, including your name, email address, phone number, and other contact information.

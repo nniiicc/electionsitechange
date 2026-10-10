@@ -19,7 +19,18 @@ During my time in the Legislature, I’ve stayed focused on the issues that matt
 This November, I’m asking for your support so I can continue fighting for the people I serve and continue being a voice – for US.
 JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
-Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago Thank you Christina Robles for your work in the community and with our kids everyday!
+Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago Looking forward to seeing you and your family on Monday! ...
+See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
+View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews is with Kearns High Dance Company and 4 others at Kearns High School - Official.
+#ago Another amazing night in our amazing community!
+Had a great time at the game with my own alumni and my smallest cougar cub.
+Thank you to everyone that showed up tonight! 💚💛 #CougarCountry #fridaynightlights #unityincommunity #westsidebestside ...
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago A new batch of literature is ready to get out into the community!
+If you're free tomorrow morning and can spend an hour or so getting some steps in and meeting my neighbors, I'd love to have you join us!
+If you've been wanting to get involved, this is the perfect opportunity.
+In the immortal words of the Doors, "the time to hesitate is through!" This is the last weekend before ballots are mailed out!
+When: Saturday 10/10 @ 10 am Where: Southridge Park 5051 4015 W ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Thank you Christina Robles for your work in the community and with our kids everyday!
 I am looking forward to a great event! 🍽️ WHAT'S ON YOUR PLATE, KEARNS?
 Child care?
 Groceries?
@@ -35,17 +46,6 @@ Your community. 💜 Pull up a chair.
 Your voice belongs at the table! 📲 Scan the QR code on the flyer to RSVP! ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews updated their status.
 #ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Hope to see you next Wednesday to meet with local decision makers and share your ideas, priorities and concerns! ...
-See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews updated their status.
-#ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago "Childcare is infrastructure.
-It is the foundation that our entire economy is built upon," Matthews said.
-"It's not just parents that benefit from affordable, accessible childcare.
-It is employers and business owners.
-It is the childcare providers.
-Everybody relies on this system." ...
-See More See Less Utah's childcare crisis: The increasing unaffordability and what's being done about it share.google With economic tensions on the rise, many parents in Utah have said they're weighing the value of employment at all when childcare eats up so much of the paycheck.
 View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.

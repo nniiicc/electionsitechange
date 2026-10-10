@@ -1,6 +1,6 @@
 Home Issues Background Events Kool Things Endorsed Posts Contact DONATE Follow Follow Follow Kathleen Cates: Your Advocate in the Round House Delivering for District 44, Defending Freedoms for All Kathleen delivers for our district, from ensuring our farmers have the water they need, to supporting our first responders with equipment and services.
 She defends all our freedoms, including our right to read what we want, a woman’s right to make her own health care decisions, and the right of people with disabilities to have access and equal treatment.
-Upcoming Events Oct 9 5:00 PM – 8:00 PM Balloon Fiesta Community Leadership Dinner Oct 14 6:00 PM – 8:00 PM Ophthalmologists' fundraiser Oct 16 7:00 PM – 9:30 PM Goatheads Game welcome!
+Upcoming Events Oct 14 6:00 PM – 8:00 PM Ophthalmologists' fundraiser Oct 16 7:00 PM – 9:30 PM Goatheads Game welcome!
 I am proud to represent New Mexico District 44 as your advocate in the Roundhouse.
 District 44 comprises the village of Corrales as well as parts of the cities of Rio Rancho and NW Albuquerque.
 I love meeting my constituents, and you may see me in your neighborhood someday.

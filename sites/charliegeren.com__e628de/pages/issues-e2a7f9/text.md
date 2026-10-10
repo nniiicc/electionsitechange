@@ -1,4 +1,4 @@
-Toggle navigation Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Issues STOPPING ILLEGAL IMMIGRATION – SECURING THE BORDER As a former U.S.
+Toggle navigation Home Meet Charlie Issues Endorsements Voting Volunteer Contact Donate Terms and Conditions Issues STOPPING ILLEGAL IMMIGRATION – SECURING THE BORDER As a former U.S.
 Deputy Marshal, Charlie Geren has made it his mission to secure the border and enforce immigration law.
 In 2023 he secured the largest investment into border security in our state’s history, increasing border funding by over 630% .
 He added more law enforcement along the border, increased criminal penalties for fentanyl distributors and human traffickers, and designated cartels as foreign terrorist organizations.
@@ -77,5 +77,5 @@ UPHOLDING CHRISTIAN CONSERVATIVE VALUES As our Republican State Representative, 
 In fact, he’s worked hard to transform Texas into a state that’s a conservative model for the whole country.
 He gets the job done year after year by prioritizing: ● Securing the border ● Cutting taxes ● Creating a pro-business environment ● Empowering parents ● Defending religious liberties ● Protecting the Second Amendment ● Reducing the size of government ● Upholding the sanctity of life Charlie was proud to stand up for our Christian values when he voted to include a copy of the 10 Commandments in every public school classroom, and when he voted to give school districts the right to establish a time of prayer during the school day.
 Charlie will always defend our faith and ensure that Texas schools reflect the Christian values that have long been the foundation of our communities.
-Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Political Ad paid for by Charlie Geren Campaign, Kit Moncrief, Treasurer Charlie Geren Campaign P.O.
+Home Meet Charlie Issues Endorsements Voting Volunteer Contact Donate Terms and Conditions Political Ad paid for by Charlie Geren Campaign, Kit Moncrief, Treasurer Charlie Geren Campaign P.O.
 Box 1440 Fort Worth, TX 76101 Privacy Policy

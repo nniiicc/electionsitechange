@@ -4,6 +4,6 @@ In district 68, the need for dedicated volunteers has never been greater.
 With various challenges facing our communities, the call for action is loud and clear.
 Joining Amin4KY is not just about volunteering; it’s about being part of a movement aimed at creating a better future for all Kentuckians.
 The Importance of...
-63 0 16 Amin4KY 859-414-6274 AMIN4KY@GMAIL.COM Interested in helping with the campaign?
+64 0 16 Amin4KY 859-414-6274 AMIN4KY@GMAIL.COM Interested in helping with the campaign?
 Yes, sign me up! * First name * Last name * Email * Phone * Address How would you like to help?
 Canvassing (Door Knocking) Phone Calls Host an Event Yard Signs (Please consider making a donation) Drive Seniors to the Polls Collect Donations Other Submit PAID FOR BY AMIN FOR STATE REP © # by Amin4KY. bottom of page

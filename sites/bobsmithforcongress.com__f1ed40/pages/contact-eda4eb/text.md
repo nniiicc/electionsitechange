@@ -4,7 +4,11 @@ We read everything.
 Campaign office Bob Smith for Congress P.O.
 Box 187 Carpinteria, CA 93013 Contact social@bobsmithforcongress.com Send a message Name (Required) First Last Email (Required) Message (Required) Stay in touch Send me email updates from Bob's campaign.
 Unsubscribe any time.
-Submit Winning CD-24 takes a team Pick one way to help today and we will take it from there.
+Submit Where you will find Bob Most weeks that means a main street, a town hall or somebody’s front yard.
+One conversation at a time.
+The Orcutt town hall.
+Front yards and front porches.
+Winning CD-24 takes a team Pick one way to help today and we will take it from there.
 Volunteer Contribute Home Why Bob Issues Common Ground The Choice Veterans for Bob Latinos con Bob District Map Get Involved Contact Privacy Policy Terms of Use Bob Smith is a retired member of the United States Navy.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
 By providing your phone number you consent to receive SMS/MMS messages from Bob Smith for Congress.

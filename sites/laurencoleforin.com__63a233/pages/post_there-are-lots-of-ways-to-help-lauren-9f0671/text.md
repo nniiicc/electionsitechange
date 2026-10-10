@@ -1,4 +1,4 @@
-top of page Home ABOUT PLATFORM GET INVOLVED BLOG DONATE DONATE NOW All Posts There are lots of ways to help Lauren Lauren Cole Oct 1 2 min read Hi!
+top of page Home ABOUT PLATFORM GET INVOLVED BLOG DONATE DONATE NOW All Posts There are lots of ways to help Lauren Lauren Cole Oct 1 # min read Updated: #ago Hi!
 Since our last email, several people have reached out asking, “What else can I do to help Lauren?” The answer is: a lot. ❤️ Since Monday, you have helped us raise $# toward our $# goal for our final two mailers.
 Thank you!
 We still have $11,472.73 to go , and every bit helps.
@@ -11,7 +11,7 @@ We’re incredibly grateful for every person who has supported this campaign.
 With gratitude, Lexxa LaPointe Campaign Manager Lauren Cole for Indiana House District 37 P.S.
 If you’re not sure which way you’d like to help, just reply to this email and let us know.
 We’ll find a way to plug you in!
-CHIP IN TO HELP FUND THE FINAL TWO MAILERS FOLLOW US ON SOCIAL MEDIA!
-Recent Posts See All A FREE way to support us!
+CHIP IN TO HELP FUND THE FINAL TWO MAILERS Recent Posts See All A FREE way to support us!
 Celebrate Lauren's Birthday This Sunday!
+Come celebrate Lauren Cole's 29th birthday with a fun, kid-friendly morning of bubbles, snacks, conversation, and community!
 314 Action Official Endorsement BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page

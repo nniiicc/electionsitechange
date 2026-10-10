@@ -40,6 +40,10 @@ While the two candidates shared a modernization focus, they diverged on the issu
 Brady has proposed cutting license registration fees by $50 temporarily due to rising inflation, but he had not yet filed a bill to do so.
 Giannoulias, meanwhile, called it “irresponsible budgeting” to suspend fees regardless of a person’s income without identifying funding alternatives.
 But he said he would consider a program that would cut fees for lower-income individuals, provided there is a budget workaround.
-Read on the DailyHearld Related Posts Giannoulias Proposal Would Ban “Zooming While Driving” Bill aims to prevent distracted driving and improve safety on Illinois roads Keep Reading → New Illinois program urges teens to raise awareness about organ donation A new program launched Tuesday, aiming to teach teens about organ donation and encourage them to serve as organ and tissue donation ambassadors.
-The Lifesaving Keep Reading → Food workers serve up support for Giannoulias in Illinois secretary of state race Former state Treasurer Alexi Giannoulias won the backing of two local chapters of the United Food and Commercial Workers International Union in what’s likely to Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Read on the DailyHearld Related Posts Democrat Giannoulias in the driver’s seat in race for campaign cash in hotly contested secretary of state contest Monday marked an Illinois State Board of Elections deadline to file a required quarterly report of contributions and expenditures, but a number of primary candidates had not yet filed their reports late Monday.
+Keep Reading → Giannoulias hires first-ever Diversity, Equity and Inclusion (DEI) Officer Fulfilling a campaign promise, Secretary of State Alexi Giannoulias has established the first-ever Diversity, Equity and Inclusion (DEI) Officer position in the Secretary of State’s office.
+Keep Reading → Digital IDs will become available this year for Illinois residents.
+Here’s what to know.
+The Illinois Secretary of State’s office announced Monday that it is working to bring the digital ID feature to residents, beginning with Apple users.
+Secretary Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

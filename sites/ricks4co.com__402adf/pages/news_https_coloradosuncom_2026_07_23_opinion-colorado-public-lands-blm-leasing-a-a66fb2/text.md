@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker July 23, 2026 Opinion: New BLM proposal and lease sales will devastate Colorado public lands, communities Morgan Anker July 23, 2026 In June, the Department of the Interior proposed major changes to the Bureau of Land Management’s federal onshore leasing program that would drastically reduce bonding amounts and other fees for the oil and gas industry, gut public process and have far-reaching impacts on our public lands, wildlife and communities.
 If the rule is finalized, what we’ll have left is a system that blatantly favors extraction as leasing activity ramps up to levels we haven’t seen in over a decade.
 The public comment period on this proposal ends Aug.
@@ -31,4 +31,5 @@ Naquetta Ricks, of Aurora, was elected to the Colorado State House in 2020 and i
 Erica Sparhawk, of Carbondale, was elected in 2026 as the mayor of Carbondale after serving nine years as a trustee.
 Source: https://coloradosun.com/2026/07/23/opinion-colorado-public-lands-blm-leasing-auction/ Newer Post Rep.
 Ricks Talks HD40 Priorities and the Road to 2027 Older Post Paschal, Ricks Bill to Protect Children Online Passes Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

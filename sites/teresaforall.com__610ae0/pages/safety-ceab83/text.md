@@ -1,4 +1,4 @@
-top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+top of page About Endorsements Issues Media News Press Releases Photos Videos RECA Volunteer Contribute More Use tab to navigate through the menu items.
 Protect our communities and families from gun violence Like many of us across rural New Mexico, I was born into a gun-owning household where hunting was part of the rhythm of the seasons, and wild game a part of our diet.
 My father instilled in his children a deep commitment to gun safety, and I bring this experience to my work in Congress and the fight to ensure that all Americans have the fundamental right to live free from the fear of gun violence in their communities.
 The tragedy at an elementary school in Uvalde, Texas where 19 beautiful children and two teachers were senselessly murdered is yet another mass shooting that reminds us of the cost of failing to pass common-sense gun violence prevention reforms in Congress.

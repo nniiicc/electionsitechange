@@ -1,4 +1,4 @@
-Home How to Vote Issues Events News Volunteer Contact Donate Campaign News The latest updates, press releases, and stories from the trail.
+Home How to Vote Issues Events News Volunteer Contact Donate Select Language ​ ▼ Campaign News The latest updates, press releases, and stories from the trail.
 Featured Stories Official Launch May Day Rising: Official Campaign Launch Set for May 1, 2026 On Friday, May 1, 2026, Kathy McKinstry will officially launch her campaign in a moment designed not just to begin—but to ignite.
 Read Story Milestone A New Choice for Ohio: Kathy McKinstry Officially Added to the Ballot Today marks a defining milestone.
 As of March 18, 2026, Kathy McKinstry has been officially added to the ballot—securing her place in the democratic process.

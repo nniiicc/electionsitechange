@@ -3,5 +3,5 @@ RUSSO FOR GOVERNOR RACHEL RODRIGUEZ FOR LIEUTENANT GOVERNOR MEET THE TICKET PRIO
 Send your media request directly to the campaign communications team.
 Media inquiry Include your publication, deadline, topic, and requested participant in the message field.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone * Message Optional Layout Optional Phone I agree that the campaign may contact me about this request.
+Name * First Last Name Phone Email Email * Phone * Message Optional I agree that the campaign may contact me about this request.
 Send Message

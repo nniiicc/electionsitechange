@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker April 30, 2026 Paschal, Ricks Bill to Protect Children Online Passes Morgan Anker April 30, 2026 DENVER, CO – The House today passed bipartisan legislation to establish a framework for age attestation on digital platforms.
 SB26-051, sponsored by Representatives Amy Paschal and Naquetta Ricks, passed by a vote of 40-23.
 “In an era where children are given phone access at a young age, it is crucial that we strengthen online protections to keep children safe,” said Rep.
@@ -19,4 +19,5 @@ It also enhanced these protections for minor users, requiring data controllers t
 SB26-051 mirrors California’s Digital Age Assurance Act , which was signed into law last year.
 Source: https://www.cohousedems.com/news/paschal%2C-ricks-bill-to-protect-children-online-passes Newer Post Opinion: New BLM proposal and lease sales will devastate Colorado public lands, communities Older Post How much are Colorado’s state legislators paid?
 Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

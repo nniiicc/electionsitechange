@@ -1,4 +1,4 @@
-Skip to main content Re-elect Justice Jerod Tufte North Dakota Supreme Court Menu About The Court Record Endorsements Volunteer Signs Contribute Contribute to the Campaign Tufte for Supreme Court, the authorized campaign committee, welcomes contributions in support of Justice Tufte’s re-election.
+Skip to main content Re-elect Justice Jerod Tufte North Dakota Supreme Court Menu About The Court Record Context Endorsements Volunteer Signs Contribute Contribute to the Campaign Tufte for Supreme Court, the authorized campaign committee, welcomes contributions in support of Justice Tufte’s re-election.
 Tufte for Supreme Court is raising the funds needed to re-elect Justice Jerod Tufte to the North Dakota Supreme Court.
 Every contribution, small or large, helps reach voters across the state with information about Justice Tufte’s record and qualifications.
 Contribute online The committee accepts secure online contributions through its hosted donation page: Contribute online You will be taken to the committee’s secure donation page at politics.raisethemoney.com .
@@ -17,5 +17,5 @@ Tufte for Supreme Court Proven.
 Principled.
 Prepared.
 A judicial record North Dakota can trust.
-Campaign About Justice Tufte About the Court Record and Service Endorsements Contribute Volunteer Request a sign Contact Disclosures Connect Facebook: @JudgeTufte justice@tufte.net Tufte for Supreme Court c/o Robert Subart, Treasurer 1661 33rd Ave SE Robinson, ND 58478 Paid for by Tufte for Supreme Court, Robert Subart, Treasurer, 1661 33rd Ave SE, Robinson, ND 58478. © # Tufte for Supreme Court.
+Campaign About Justice Tufte About the Court Record and Service Context Endorsements Contribute Volunteer Request a sign Contact Disclosures Connect Facebook: @JudgeTufte justice@tufte.net Tufte for Supreme Court c/o Robert Subart, Treasurer 1661 33rd Ave SE Robinson, ND 58478 Paid for by Tufte for Supreme Court, Robert Subart, Treasurer, 1661 33rd Ave SE, Robinson, ND 58478. © # Tufte for Supreme Court.
 All rights reserved.

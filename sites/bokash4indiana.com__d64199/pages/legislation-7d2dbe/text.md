@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation Bokash4Indiana Home Legislation Volunteer 👀 Contact Bokash4Indiana Home Legislation Volunteer 👀 Contact More Home Legislation Volunteer 👀 Contact Legislation Legislative Policy Priorities [1] Neutralize Partisan Gridlock Reduce (and eventually Eliminate) Partisan Gridlock.
+Search this site Embedded Files Skip to main content Skip to navigation Bokash4Indiana Home Legislation Write-in Contact Bokash4Indiana Home Legislation Write-in Contact More Home Legislation Write-in Contact Legislation Legislative Policy Priorities [1] Neutralize Partisan Gridlock Reduce (and eventually Eliminate) Partisan Gridlock.
 Independents have no incentive to sabotage either party’s agenda, and can resolve problems versus creating campaign issues!
 Eliminate Legislative Negligence (e.g. lack of Immigration Legislation). [2] Balance the Budget as Quickly as Possible (A) End Unfunded Legislation (spending increases and tax cuts)!
 (B) Governmentwide Spending Cuts (>5% per Year per Agency; Foreign Aid Related ~25% per Year).

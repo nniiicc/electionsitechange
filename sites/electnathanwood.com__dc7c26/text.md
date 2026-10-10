@@ -1,4 +1,4 @@
-0 Skip to Content HOME WHY I'M RUNNING ISSUES / FAQ EVENTS Donate Open Menu Close Menu Donate HOME WHY I'M RUNNING ISSUES / FAQ EVENTS Open Menu Close Menu HOME WHY I'M RUNNING ISSUES / FAQ EVENTS Donate Meet Nathan: Nathan (33) is a personal trainer from Carlisle who managed offices for the Pennsylvania House of Representatives for over four years.
+0 Skip to Content HOME WHY I'M RUNNING ISSUES EVENTS Donate Open Menu Close Menu Donate HOME WHY I'M RUNNING ISSUES EVENTS Open Menu Close Menu HOME WHY I'M RUNNING ISSUES EVENTS Donate Meet Nathan: Nathan (33) is a personal trainer from Carlisle who managed offices for the Pennsylvania House of Representatives for over four years.
 He has helped thousands of South-Central Pennsylvanians get solutions from their government and has seen first-hand the corruption which is holding our state back.
 Nathan is skilled at producing practical, data-driven strategies to get results.
 Now, he’s stepping up to serve Pennsylvania’s 34th senatorial district, hold state government accountable, and tackle the affordability crisis impacting hardworking Americans every day.

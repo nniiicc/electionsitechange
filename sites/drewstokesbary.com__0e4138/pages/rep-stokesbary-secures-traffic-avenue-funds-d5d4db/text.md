@@ -13,6 +13,5 @@ I really want to thank all six legislators for the 31st and 25th Districts who w
 Drew Stokesbary , Rep.
 Melanie Stambaugh and Senator Pam Roach .
 You can read the Mayor’s full letter here .
-In the News legislature transportation More For You Drew Stokesbary receives NRA endorsement Endorsements TNT: Who can best represent voters in WA’s 31st Legislative District?
-The choice is clear (2022) Endorsements Endorsed by League of Education Voters Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News legislature transportation More For You Stand for Children announces 2014 legislative candidate endorsements Endorsements Stokesbary concerned about auditor’s media silence In the News Editorial: Lawmakers should ban campaign fundraising prior to special sessions In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

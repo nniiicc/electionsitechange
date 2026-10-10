@@ -1,11 +1,19 @@
 [
 {
+"text": "Check if you're registered to vote",
+"href": "https://www.mi.gov/vote"
+},
+{
 "text": "Contact",
 "href": "https://www.votegross.com/contact"
 },
 {
 "text": "Donate",
 "href": "https://secure.actblue.com/donate/rachelgross"
+},
+{
+"text": "Early voting locations",
+"href": "https://www.mi.gov/vote"
 },
 {
 "text": "Endorsements",
@@ -26,6 +34,14 @@
 {
 "text": "RUN! website builder",
 "href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://www.mi.gov/vote"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.mi.gov/vote"
 },
 {
 "text": "Volunteer",

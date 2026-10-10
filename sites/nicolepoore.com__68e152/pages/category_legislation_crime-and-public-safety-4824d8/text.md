@@ -84,13 +84,13 @@ They were arrested.
 They took up legal action again and again and were told to sit down and shut up.
 Nevertheless, they persisted.
 Earlier this month, we celebrated their determination and their legacy that has allowed women not only to be empowered, but in power, with the dedication of a monument at Legislative Hall.
-SB 28 September 17, 2019 admin Crime and Public Safety Comments are Closed 0 This Act increases the penalties for parking in an area designated for a vehicle being used by an individual with a disability.
+HB 142 September 17, 2019 admin Crime and Public Safety Comments are Closed 0 This Act adds one more member, a licensed health care professional knowledgeable in the screening and identification of domestic violence cases appointed by the Council, to the Fatal Incident Review Team of the Domestic Violence Coordinating Council.
+The Act also updates language regarding victims of domestic violence to include survivors.
+This Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual.
+Co-Prime Sponsor: Poore; Status: Signed SB 28 September 17, 2019 admin Crime and Public Safety Comments are Closed 0 This Act increases the penalties for parking in an area designated for a vehicle being used by an individual with a disability.
 For a first offense this Act increases the monetary penalty from $100 to $200.
 For a subsequent offense, this Act increases the monetary penalty from $200 to $300.
 The offenses subject to these increased penalties are included without change in lines 4 through 27 to add context.
-This Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual.
-Co-Prime Sponsor: Poore; Status: Signed HB 142 September 17, 2019 admin Crime and Public Safety Comments are Closed 0 This Act adds one more member, a licensed health care professional knowledgeable in the screening and identification of domestic violence cases appointed by the Council, to the Fatal Incident Review Team of the Domestic Violence Coordinating Council.
-The Act also updates language regarding victims of domestic violence to include survivors.
 This Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual.
 Co-Prime Sponsor: Poore; Status: Signed SB 101 September 17, 2019 admin Crime and Public Safety Comments are Closed 0 The opioid epidemic spreading through Delaware has reached critical levels, with 210 fentanyl-related deaths in 2017.
 This legislation will update the schedule for Fentanyl analogues, consistent with language used by the Drug Enforcement Administration (DEA).

@@ -17,7 +17,11 @@ The question is narrower than that.
 “It is a question about who you answer to when the two sides disagree.” Fund a campaign that answers to voters.
 Your ballot is here.
 Chip in, or add your name and help us reach people.
-Chip in Home Why Bob Issues Common Ground The Choice Veterans for Bob Latinos con Bob District Map Get Involved Contact Privacy Policy Terms of Use Bob Smith is a retired member of the United States Navy.
+Chip in Out in the district Parades, town halls and front porches, across all three counties.
+One conversation at a time.
+Front yards and front porches.
+Taking questions in person.
+Home Why Bob Issues Common Ground The Choice Veterans for Bob Latinos con Bob District Map Get Involved Contact Privacy Policy Terms of Use Bob Smith is a retired member of the United States Navy.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
 By providing your phone number you consent to receive SMS/MMS messages from Bob Smith for Congress.
 Msg & data rates may apply; frequency varies.

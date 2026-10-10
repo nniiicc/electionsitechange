@@ -5,10 +5,10 @@ Also, please sign up for HNLalerts on HNLalerts.gov to keep up to date for all u
 Check on your neighbors, household, family and friends.
 Stay prepared and stay informed.
 #TropicalStormLala​ #Hawaii​ #Kalihi​ #EmergencyPreparedness​ Previous YBANEZ - Tropical Cyclone LALA | Friday, August 14th Next From Amanda YBANEZ - Mahalo!
-We are onto the general! 🤙🤙 You Might Also Like Amanda YBANEZ Talks FISCAL RESPONSIBILITY YBANEZ 4 KALIHI - Support Local!
-Rail Interview w/ Miss Ro From Amanda YBANEZ - Mahalo!
-We are onto the general! 🤙🤙 Ybanez - Our Community First!
-#Kalihi #Hawaii #ourcommunityfirst Are you registered to vote?
+We are onto the general! 🤙🤙 You Might Also Like YBANEZ - Mahalo Gov.
+Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
+Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i Amanda YBANEZ Talks FISCAL RESPONSIBILITY Amanda YBANEZ on Emergency Hubs for Hawai‘i #Hawaii #Kalihi #VoteYbanezforHD30 #KalihiCommunityFirst A collab joint between Larry Veray and YBANEZ was signed this past week for Hawai'i E-Bike Safety!
+Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

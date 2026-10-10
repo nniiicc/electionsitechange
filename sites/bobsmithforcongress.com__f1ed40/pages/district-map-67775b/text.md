@@ -10,7 +10,12 @@ Confirm your district and precinct with your county elections office.
 County offices Find your ballot San Luis Obispo County County Clerk Recorder, elections division.
 Check registration Santa Barbara County County Clerk Recorder and Assessor, elections.
 Check registration Ventura County County Clerk Recorder, elections division.
-Check registration Join the team Get updates for your area Local Organizing where you live Tell us your ZIP code and we will connect you with the volunteer team closest to you, from Paso Robles to Ventura.
+Check registration Across all three counties San Luis Obispo, Santa Barbara and Ventura.
+Different towns, the same questions.
+Car shows count too.
+The Orcutt town hall.
+Community day on campus.
+Join the team Get updates for your area Local Organizing where you live Tell us your ZIP code and we will connect you with the volunteer team closest to you, from Paso Robles to Ventura.
 Volunteer near me Home Why Bob Issues Common Ground The Choice Veterans for Bob Latinos con Bob District Map Get Involved Contact Privacy Policy Terms of Use Bob Smith is a retired member of the United States Navy.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
 By providing your phone number you consent to receive SMS/MMS messages from Bob Smith for Congress.

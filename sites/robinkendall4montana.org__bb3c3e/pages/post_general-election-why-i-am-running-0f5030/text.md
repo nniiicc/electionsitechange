@@ -1,5 +1,5 @@
 top of page Robin Kendall for Montana House District 94 ​ About Issues Endorsements Get Involved Events Meet the Team Contact More Use tab to navigate through the menu items.
-DONATE All Articles Search General Election - Why I am Running Robin Kendall #ago 1 min read I’m running to put people before politics and ensure every Montana family has the opportunity to thrive.
+DONATE All Articles Search General Election - Why I am Running Robin Kendall Oct 2 1 min read I’m running to put people before politics and ensure every Montana family has the opportunity to thrive.
 Montana is at its best when neighbors come together to solve problems and that’s the kind of leadership I’ll bring to Helena.
 Recent Posts See All Robin Kendall - Why I am running.
 No Kings March 28, 2026 Holidays & Happy New Year!

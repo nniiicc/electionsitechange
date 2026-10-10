@@ -8,12 +8,15 @@ Holmes | 0 Comment | 5:52 pm Categories: News A Citizens Bank branch that opened
 Now fully renovated, the branch, a replacement for the Citizen Bank location that closed in Codman Square, offers full banking services, an ATM, and ample parking.
 At the event, Citizens Bank officials presented Dorchester’s Brookview House CEO Deb Collins with a check for $5,000, and then cut a ceremonial ribbon to mark the occasion.
 Share this Post navigation PREVIOUS Previous post: Trinity’s project at 150 Centre St. wins BPDA board support NEXT Next post: In closed-door budget process, Mass.
-House leaders scored big Related Post Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
+House leaders scored big Related Post Rep.
+Holmes rolls to re-election in 6th Suffolk district Rep.
+Holmes rolls to re-election in 6th Suffolk district September 9, 2022 September 9, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More Minority leaders put legislative agenda behind thoughts and prayers Minority leaders put legislative agenda behind thoughts and prayers July 30, 2022 July 30, 2022 | Russell E.
+Holmes | 0 Comment | 11:37 am State Rep.
+Russell Holmes was re-elected on Tuesday as he dominated his Democratic challenger Haris Hassan Hardaway, winning 75 percent of the vote in the Sixth Suffolk district, which includes Read More Read More Diversity Dashboard Diversity Dashboard July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 8:05 am State officials also laid out a legislative agenda for Beacon Hill, including proposals that have been put forward — unsuccessfully — before.
-One measure, pushed by state Representative Russell Holmes, Read More Read More Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
+Holmes | 0 Comment | 12:02 pm “Today, Massachusetts moves forward with greater transparency that will lead to a better future for the state’s workforce overall,” said State Representative Russell Holmes (D – Mattapan).
+“It is imperative Read More Read More Trinity’s project at 150 Centre St. wins BPDA board support Trinity’s project at 150 Centre St. wins BPDA board support November 17, 2023 November 17, 2023 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 6:11 pm The Boston Planning and Development Agency (BPDA) Board voted 4-0 on Thursday night to approve Trinity Financial’s 72-unit affordable rental housing project on the Fitzpatrick Brothers Auto Body site next Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.

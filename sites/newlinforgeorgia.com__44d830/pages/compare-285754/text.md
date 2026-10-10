@@ -5,7 +5,8 @@ Take the quiz to see where you stand See the candidate questionnaires Topic All 
 Reset filters Kim is out of touch with commonsense Georgians ICE enforcement is extrajudicial, state-sanctioned murder tax reduction is a scam ICE in Minnesota is a siege I voted with Palestinian students the same law is xenophobic, it's racist on the antisemitism bill, the state of Israel is participating in racism Georgia's ICE detainer law basically encourages police racially profile folks Sanctuary cities are illegal in Georgia already, but they're trying to add some teeth to it the ICE detainer law is racist on its face on gender dysphoria Social evolution and forward progress cannot be stopped. schools must teach the country was founded with white supremacy at its core telling students sometimes breaking the law is the morally right thing to do on the ban on sex changes for minors, What is the value of a trans youth's life? the religious freedom law essentially legalizes discrimination religious liberty is a permission slip to discriminate and “bad theology” the heartbeat law is Georgia's horrific abortion ban troopers clearing the Emory encampment left her deeply alarmed by reports of excessive force tasers and gas are a dangerous escalation election security would destabilize our electoral system the United States was founded and has racism rooted throughout its core Georgia's prison population: we can attribute that to systemic racism.
 Not in the past, but now the 2021 election law is like Jim Crow the stigma around marijuana is all rooted in racism keeping felons from growing cannabis is a form of systemic racism the racist roots of credit scores on Girl Scout cookies, Samoas, by far.
 I will acknowledge, my wife pointed this out, that the name is probably like kind of racist on hormone therapy for prison inmates, I know good and well that public polling does not support gender-affirming care for people who are incarcerated and I know this is not politically popular on boys in girls' sports, you could count them on 2 hands.
-That's how that bill impacts our girls puberty blockers are life-saving drugs for trans children on Ethiopia, at her SR 800 press conference, This is an ongoing genocidal war , words she apologized for two weeks later and those who are displaced by this genocidal war in Ethiopia … see more Listen for yourself SB 476 (2026) Sen.
+That's how that bill impacts our girls puberty blockers are life-saving drugs for trans children on Ethiopia, at her SR 800 press conference, This is an ongoing genocidal war , words she apologized for two weeks later and those who are displaced by this genocidal war in Ethiopia on girls' sports, trans girls are girls.
+Trans women are women reading a mother's letter against school restroom rules, mandate that Jack be outed at school as a transgender person by making him use the girls' restroom and locker rooms on parental permission for gender talks at school, not everybody's parent is going to be open to that conversation on the personhood law, a personhood bill that doesn't make sense on the CRT ban, this bill seeks to prevent the teaching of truth … see more Listen for yourself SB 476 (2026) Sen.
 Jackson: Nay Senate votes See the bill Income Tax Reduction Act of 2026.
 Ends state income tax on the first $50,000 of income for single filers and the first $100,000 for married couples filing jointly, and cuts the state income tax rate to 4.99%.
 Passed the Senate 32 to 18 on February 12, 2026, and never got a House vote.
@@ -73,7 +74,7 @@ SB 421, the Data Center Transparency Act, would bar local governments from signi
 None of the three reached a Senate floor vote.
 On February 25, 2026, a Senate committee replaced SB 34 with a substitute that dropped the limit on passing data center costs to other customers.
 In its place, the substitute required contracts with customers of 100 megawatts or more to include terms meant to protect other customers from those costs.
-Youth gender medicine: out of step with the medical consensus Two no votes and one Did Not Vote on bills limiting gender-transition treatment for Georgia minors.
+Youth gender medicine: out of step with the medical consensus Four no votes and one Did Not Vote on bills limiting gender-transition treatment for Georgia minors and keeping girls' sports for girls.
 SB 140 (2023) Sen.
 Jackson: Nay Senate votes See the bill Hospitals: prohibit certain surgical and hormonal treatment of gender dysphoria in minors performed in licensed healthcare facilities.
 Signed into law.
@@ -102,8 +103,21 @@ Jackson's quote (Rough Draft Atlanta, Oct 13 2025): "I was clear then that this 
 When the AMA and the American Society of Plastic Surgeons reversed their support for pediatric gender medicine, citing weak evidence and irreversible harm, Sen.
 Jackson voted with the old position anyway.
 Georgia parents deserve a senator who follows the evolving medical consensus, not the political one.
+SB 1 (2025) Sen.
+Jackson: Nay Senate votes See the bill 'Fair and Safe Athletic Opportunities Act,' the Riley Gaines Act: school sports teams designated by biological sex, males barred from girls' and women's teams, and restrooms, changing areas and sleeping quarters at school athletic events separated by sex.
+Signed into law April 28, 2025.
+Sen.
+Jackson voted no when the Senate passed it 35 to 17 on February 6, 2025, and again when the Senate agreed to the House version 34 to 20 on March 31, 2025.
+On February 6 she offered her own amendment on fairness in girls' sports instead, telling the Senate the bill reaches 0.06% of athletes, so few “you could count them on 2 hands.” SB 435 (2022) Sen.
+Jackson: Nay Senate votes See the bill Georgia public schools, and private schools that compete against them, could not run sports programs that let a person of one gender play on a team designated for the other.
+Students could sue schools that break the rule.
+Sen.
+Jackson voted no when the Senate passed it 34 to 22 on February 24, 2022.
+In her floor speech that morning she said: “I rise to speak directly to all girls, cis and trans alike.
+First, despite what others may say, I want to be clear: trans girls are girls.
+Trans women are women, and we see you.” The House never took the bill up.
 Parental rights: kids, schools, and screens On each of these bills Sen.
-Jackson voted no or did not vote.
+Jackson voted no, did not vote, or spoke against it.
 HB 1104 (2024) Sen.
 Jackson: Did Not Vote Senate votes See the bill Senate rewrite of a House bill on student-athlete mental health.
 Among other changes, the Senate version added a ban on sex education before sixth grade, a rule that parents must give written permission before a child in grades 6 through 12 gets sex education, and a ban on transgender girls playing on girls' teams or using girls' locker rooms and restrooms in school sports.
@@ -125,6 +139,20 @@ A two-part Senate package: protect kids from irreversible procedures, save opioi
 Sen.
 Jackson voted no when it passed the Senate 32 to 19 on March 28, 2024.
 The House never took up the Senate version, so the bill did not become law.
+SB 88 (2023) Sen.
+Jackson: Opposed, no floor vote Senate votes See the bill 'Parents and Children Protection Act': adults who care for children in place of parents, school staff, camp workers and youth ministers among them, could not discuss gender identity with a child or help a child use a new name or pronouns without written permission from the parents, and would have to tell parents what they know about a child's gender identity.
+The bill never reached a Senate vote.
+Sen.
+Jackson argued against it on GPB's Lawmakers on February 15, 2023: a child who wants to talk to a trusted adult about gender should not need a letter to the parents first, “because we still live in a state where not everybody's parent is going to be open to that conversation.” SB 377 (2022) Sen.
+Jackson: Nay Senate votes See the bill The divisive concepts bill, the CRT ban: Georgia schools, colleges and state agencies would have to stop lessons and training that promote nine listed concepts about race.
+Sen.
+Jackson voted no when the Senate passed it 32 to 20 on March 11, 2022.
+On the floor she said the bill “seeks to prevent the teaching of truth.” The ban became law that year as HB 1084.
+HB 1084 (2022) Sen.
+Jackson: Nay Senate votes See the bill 'Protect Students First Act': Georgia public schools can no longer use lessons or staff training that push nine listed concepts about race, such as that one race is better than another or that a person is guilty because of their race.
+Signed into law, effective July 1, 2022.
+Sen.
+Jackson voted no when the Senate passed it on April 1, 2022 and again on the final version on April 5, 2022.
 The ICE record: sharp words, broad legislation Sen.
 Jackson's public statements and bill package on federal immigration enforcement.
 QUOTE Decaturish Download · Jan 14, 2026 Listen On the Minneapolis ICE shooting: "extrajudicial, state-sanctioned murder." Said this before any investigation had concluded.
@@ -183,14 +211,14 @@ Ruwa Romman (@Ruwa4Georgia) on April 25 2024.
 Sources: 11Alive, Georgia Recorder, GA Department of Public Safety social-media records of Sen.
 Jackson's repost.
 LAKESIDE HS Sen.
-Jackson: Marched with students → Kim Jackson joins PSL at Lakeside High School March On January 20, 2026, Sen.
-Jackson walked alongside 1,500–2,000 Lakeside High School students during the "Free America Walkout" against ICE.
-The walkout was organized by the Atlanta branch of the Party for Socialism and Liberation (PSL) , a revolutionary socialist party whose own platform says "the only solution to the deepening crisis of capitalism is the socialist transformation of society," together with Students4Justice.
-The walkouts were condemned by the DeKalb County interim superintendent, who warned students of disciplinary consequences.
+Jackson: Marched with students → Kim Jackson rallied a Marxist-backed walkout at Lakeside High School On January 20, 2026, Sen.
+Jackson gave one of the speeches in the courtyard and marched with 1,500 to 2,000 Lakeside High School students during the "Free America Walkout" against ICE.
+Decaturish and WABE report the walkout was organized by the student group Students4Justice and aided by the Atlanta branch of the Party for Socialism and Liberation (PSL) , a Marxist party whose own program says "Capitalism cannot be voted out of power.
+It will take a revolution." The walkouts were condemned by the DeKalb County interim superintendent, who warned students of disciplinary consequences.
 Sen.
 Jackson's quote to Rough Draft Atlanta: "There always have been consequences if we're looking at people standing on the history and the legacy of the Civil Rights Movement.
 I encourage students to calculate the cost and decide: Is it worth it?
-Because sometimes breaking the law is the morally right thing to do. " Sources: Rough Draft Atlanta (Jan 29 2026), Decaturish (Jan 24 2026), PSL "About the PSL" (pslweb.org/about).
+Because sometimes breaking the law is the morally right thing to do. " Sources: Rough Draft Atlanta (Jan 29 2026), Decaturish (Jan 20 2026), WABE (Jan 21 2026), the PSL program (pslweb.org/program).
 Photos provided by "Kim for Georgia", her campaign actively promoted her participation.
 The law-enforcement record Six bills she co-sponsored in her freshman session, before she had served a full term in the Senate.
 Five target police practices.
@@ -258,7 +286,7 @@ Worth asking: who is she actually representing?
 ON ELECTIONS SB 568 floor debate · Mar 6, 2026 Senate votes SB 568 On election integrity bills: "This bill is too hasty.
 It does not protect Georgians." Called election security concerns an "insidious undertone" and said they "destabilize our electoral system." Town hall (Feb 2026) + SB 568 floor speech (Mar 6 2026) + Sine Die quote (Apr 2 2026).
 Abortion: Kim Jackson co-sponsored expansion of state law and constitutional amendments Sen.
-Jackson has co-sponsored at least three Georgia bills/resolutions that would override the state's heartbeat law and establish broad abortion rights through statute or constitutional amendment.
+Jackson has co-sponsored five Georgia bills and resolutions that would override the state's heartbeat law, take the unborn child out of state law, or establish broad abortion rights through statute or constitutional amendment, and voted against limits on abortion pills.
 ON THE HEARTBEAT BILL AOL · 2026 HB 481 Sen.
 Jackson called Georgia's heartbeat law: "Georgia's horrific abortion ban, which has led to the deaths of black women." Speaking on behalf of the Esteves campaign, attacking Republicans who passed HB 481 (Georgia's six-week abortion ban, signed by Gov.
 Kemp in 2019 and reinstated by the Georgia Supreme Court in 2024).
@@ -283,6 +311,22 @@ Authored by Sen.
 Sally Harrell.
 Sen.
 Jackson co-sponsored again.
+SB 456 (2022) Sen.
+Jackson: Nay Senate votes See the bill New rules on abortion pills such as mifepristone: the pills could not be provided or taken in schools or on any state-owned property.
+Sen.
+Jackson voted no when the Senate passed it on March 1, 2022.
+From her floor speech: “Without access, there can be no equity in healthcare for women.” The bill died in the House.
+SB 565 (2024) Sen.
+Jackson: Co-Author Senate votes See the bill A human egg or human embryo is not an unborn child, a minor child, or a person for any purpose under Georgia law.
+Sen.
+Jackson signed on as co-author.
+The Senate received the bill on February 29, 2024 and sent it to committee, where it stayed.
+SB 246 (2025) Sen.
+Jackson: Co-Author Senate votes See the bill 'Reproductive Freedom Act': repeal Georgia's six-week abortion ban and remove the rules that treat an unborn child as a legal person for taxes, child support and other matters.
+The 2025 version of SB 15.
+Sen.
+Jackson co-authored it again.
+It went to committee on February 26, 2025 and never got a floor vote.
 Jeff's position: firmly opposes abortion except in cases of rape, incest, or to protect the life of the mother.
 Sen.
 Jackson's co-sponsorships would override Georgia's current law and establish abortion as a constitutionally-protected right with no such limits.

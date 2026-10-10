@@ -2,10 +2,21 @@ Home General Election Info Come Meet Me Who is Rob Rush?
 FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Home General Election Info Come Meet Me Who is Rob Rush?
 FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media More Home General Election Info Come Meet Me Who is Rob Rush?
 FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home General Election Info Come Meet Me Who is Rob Rush?
-FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Account My Account Sign out Sign In My Account Rep.
-AOC/ Senator Bernie Sanders Introduce AI Bill - 3/25/26 Rep.
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Account My Account Sign out Sign In My Account The AI Data Center Moratorium Act -3/25/2026 Rep.
 AOC and Senator Bernie Sanders Introduce the AI Data Center Moratorium Act.
 I fully support and agree that this bill must be passed ASAP!!!
+AI Autonomous Weapons: ARE WE ALREADY TOO LATE?
+AI Autonomous Weapons: The Race to Stop Machines from Deciding Who Lives and Dies Artificial intelligence is transforming warfare at a frightening pace.
+Autonomous weapons capable of identifying, tracking, and attacking targets with decreasing human involvement are no longer just science fiction.
+This documentary examines the urgent international effort to establish a legally binding treaty restricting or prohibiting autonomous weapons systems before their development and deployment outpace meaningful human control.
+But the danger extends far beyond conventional warfare.
+What happens when these technologies spread to terrorist organizations, drug cartels, criminal networks, or wealthy individuals capable of financing private armies of autonomous machines?
+Imagine a future in which a single individual could command hundreds of thousands—or even a million—AI-powered drones.
+The documentary raises this extraordinary possibility, illustrating how artificial intelligence could concentrate unprecedented destructive power in the hands of very few people.
+We may already be dangerously behind in establishing the safeguards needed to prevent catastrophic misuse.
+The question is no longer simply what artificial intelligence can do.
+It is what humanity will allow it to do—and whether we can establish enforceable international limits before these weapons become impossible to control.
+Watch this documentary and consider what is at stake for humanity, international security, and future generations.
 AI, AGI, Data Centers, and Robotics 🚨 The Most Dangerous Issue No One Is Taking Seriously Enough: Artificial Intelligence Something happened that I’ve been waiting for—and frankly, something that needed to happen much sooner.
 Bernie Sanders and Alexandria Ocasio-Cortez (AOC) have introduced a proposal calling for a moratorium on AI data centers and development expansion until we can fully understand and regulate the risks.
 Let me be very clear: I fully support this effort.

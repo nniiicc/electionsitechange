@@ -30,4 +30,4 @@ We must secure our border and respect the humanity and civil liberties of immigr
 When I have had the opportunity to help new citizens register to vote I am always humbled by those who choose American citizenship with pride and stake their future and the future of their family with the generations of immigrants that preceded them.
 Read More Paid for by Deborah Howard for State Representative - LD27.
 Authorized by Deborah Howard.
-Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318 Privacy Policy

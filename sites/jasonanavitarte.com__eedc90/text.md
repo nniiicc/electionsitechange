@@ -22,18 +22,19 @@ I will work with each county to advocate for new businesses to come to our area.
 As I stated in the education section, we must have a workforce available to encourage new businesses to come and that starts with offering educational classes that will train our students in the skills needed for future jobs.
 Having broadband that is accessible to all of the district is essential to economic development.
 2023 Legislative Updates Week 1 Legislative Update Week 2 Legislative Update Week 3 Legislative Update Week 4 Legislative Update Week 6 Legislative Update Week 7 Legislative Update Week 8 Legislative Update Week 9 Legislative Update Follow me on Twitter Jason R.
-Anavitarte Follow 17,420 2,339 Husband.
+Anavitarte Follow 17,423 2,338 Husband.
 Father. 🏀 Coach.
 Senator GA’s 31st District.
 Proud 🇺🇸 Hispanic 🇵🇷 Majority Leader @GASenateGOP.
 Go Jackets! 🐝 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; Jim Cantore @JimCantore · 13h 2108355456750031186 Pensacola Beach put on a hell of a show tonight!
-The infamous calm before the storm via the one and only @CharlesPeekWX #isaias Twitter feed video.
-Reply on Twitter 2108355456750031186 Retweet on Twitter 2108355456750031186 1008 Like on Twitter 2108355456750031186 9019 Twitter 2108355456750031186 ; Jason R.
-Anavitarte @jasonanavitarte · 13h 2108356629540319281 I am proud to reflect on Hispanic Heritage Month, share my experiences growing up in Georgia, and what we’re building for the next generation.
-Read my full piece in the AJC and join the conversation! 🇺🇸 🇵🇷 Hispanic Heritage Month is about the next generation, too Georgia state Sen.
-Jason Anavitarte writes about the ongoing work as a parent and lawmaker to protect children. www.ajc.com Reply on Twitter 2108356629540319281 Retweet on Twitter 2108356629540319281 0 Like on Twitter 2108356629540319281 2 Twitter 2108356629540319281 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; Lt.
-Governor Burt Jones @LtGovJonesGA · 18h 2108275576553226492 All Georgians are encouraged to prepare for the severe weather this weekend.
-Please stay tuned to updates from your local trusted news outlets and @GeorgiaEMAHS.
-Reply on Twitter 2108275576553226492 Retweet on Twitter 2108275576553226492 1 Like on Twitter 2108275576553226492 2 Twitter 2108275576553226492 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE
+Anavitarte Retweeted ; Dr.
+Ryan Dyer @NorthAD_Dyer · 18h 2108631733625078053 Twitter feed image.
+Reply on Twitter 2108631733625078053 Retweet on Twitter 2108631733625078053 1 Like on Twitter 2108631733625078053 2 Twitter 2108631733625078053 Retweet on Twitter Jason R.
+Anavitarte Retweeted ; Rick Jackson @RickJacksonGA · 21h 2108583378031403216 .@BrianKempGA has cut taxes, raised teacher and law enforcement pay, and kept our state safe.
+I’ll build on his legacy as governor.
+THANK YOU, Governor Kemp!
+Twitter feed video.
+Reply on Twitter 2108583378031403216 Retweet on Twitter 2108583378031403216 66 Like on Twitter 2108583378031403216 284 Twitter 2108583378031403216 Retweet on Twitter Jason R.
+Anavitarte Retweeted ; ESPN @espn · 22h 2108577330528395736 Mike Ditka, whose legendary career as a player and Super Bowl-winning coach landed him in the Hall of Fame, has died at the age of 86, his family announced.
+Twitter feed image.
+Reply on Twitter 2108577330528395736 Retweet on Twitter 2108577330528395736 3691 Like on Twitter 2108577330528395736 18956 Twitter 2108577330528395736 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE

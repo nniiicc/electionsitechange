@@ -1,4 +1,4 @@
-0 Skip to Content FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Frequently Asked Questions About Sara Who is Sara Fuchs?
+0 Skip to Content FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Frequently Asked Questions About Sara Who is Sara Fuchs?
 I'm a librarian, a PTA leader, and a mom of two public school kids in Roswell.
 For six years, I worked inside the Georgia State House as Chief of Staff and campaign manager for Rep.
 Betsy Holland — tracking legislation, negotiating across the aisle, and helping run winning campaigns.

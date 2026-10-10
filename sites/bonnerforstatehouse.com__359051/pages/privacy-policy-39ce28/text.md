@@ -27,6 +27,14 @@ Reply STOP to opt out.
 Reply HELP for help or email josh@bonnerforstatehouse.com .
 Your information will not be sold or shared with third parties.
 Consent is not a condition of any donation or volunteer participation.
-Contact Email * Name * Subject Message Thanks!
+Example: Text messaging opt-in data, consent and related collected personal information will not be shared with or sold to any third parties, unless required by law.
+Contact Email * Phone Name * Subject Message Yes, please text me updates from the campaign.
+By providing your telephone number, you consent to receive calls and text messages.
+Message and data rates may apply.
+Message frequency may vary.
+Messaging may include requests for donation.
+Reply "STOP" to opt-out & "HELP" for help.
+View Privacy Policy for more info.
+Send Thanks!
 Message sent.
-Send Join our mailing list Subscribe Now Paid for by Committee to Elect Josh Bonner Privacy Policy bottom of page
+Join our mailing list Subscribe Now Paid for by Committee to Elect Josh Bonner Privacy Policy bottom of page

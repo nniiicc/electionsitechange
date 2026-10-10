@@ -2,7 +2,7 @@ Early voting Oct 17–30 · Election Day Tuesday, Nov 3 Donate → About Vote Is
 Organizations Groups backing Joey in Assembly District 8.
 Second Amendment NRA Political Victory Fund Veterans Nevada Veterans Association Veterans Veterans In Politics International Grassroots Save Nevada PAC Party Nevada Young Republicans Party Las Vegas Young Republicans In the press The Las Vegas Sun and Las Vegas Weekly editorial boards endorsed Joey in the Assembly District 8 Republican primary.
 The Review-Journal featured him in its 2026 voter guide.
-Editorial endorsement · Primary Las Vegas Sun Read the endorsement → Editorial endorsement · Primary Las Vegas Weekly Read the endorsement → Voter guide Las Vegas Review-Journal Read Joey’s answers → Add your name Endorsements help, but neighbors win races.
+Editorial endorsement · Primary Las Vegas Sun Read the endorsement → Editorial endorsement · Primary Las Vegas Weekly Read the endorsement → Voter guide Las Vegas Review-Journal Read Joey’s answers → Public Record Campaign Finance Who is funding Duy Nguyen? → Add your name Endorsements help, but neighbors win races.
 Early voting starts October 17.
 Join the team Donate Conservative.
 Active.

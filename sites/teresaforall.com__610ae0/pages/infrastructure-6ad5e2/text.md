@@ -1,4 +1,4 @@
-top of page About Endorsements Issues Media News Press Releases Photos Videos Volunteer Contribute More Use tab to navigate through the menu items.
+top of page About Endorsements Issues Media News Press Releases Photos Videos RECA Volunteer Contribute More Use tab to navigate through the menu items.
 Invest in 21st century infrastructure - while completing our 20th century infrastructure We must think of infrastructure as the foundations that our communities and businesses need to thrive.
 I have walked and worked in communities here in Northern New Mexico that do not have access to the internet, or even to clean water.
 These communities have been disproportionately impacted by the COVID-19 pandemic because of their lack of basic infrastructure.

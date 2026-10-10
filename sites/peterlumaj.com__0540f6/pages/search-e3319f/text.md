@@ -15,6 +15,4 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Sean Cleary State Central Member 16th District "There are few people in politics with the amount of conservative values and integrity as I know Peter Lumaj possesses.
-Regardless of political winds, Peter stands as a true conservative happy warrior taking the fight to increasingly radical liberals.
-The Republican Party is better for having Peter Lumaj tell his story and fight for our values." View all endorsements →
+ENDORSED BY Selim Noujaim Former State Representative (Waterbury) "Honestly, dedication, expertise, and know-how are traits that Peter Lumaj will bring along to the office of Connecticut’s Secretary of the State." View all endorsements →

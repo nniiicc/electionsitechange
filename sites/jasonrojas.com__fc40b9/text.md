@@ -9,5 +9,5 @@ I decided that long ago I would commit myself to our community—a community tha
 I owe it to you and your families to utilize my education, experience and energy to serve a greater purpose.
 I look forward to talking with you to listen to your concerns and ideas about how to make government more responsive to the people who allow me the privilege to serve in elected office.
 FOLLOW JASON ON SOCIAL MEDIA Subscribe START SHAPING OUR FUTURE Support Connecticut ISSUES VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
-Home About Jason News Volunteer Contact Jason Rojas - STATE REPRESENTATIVE - Paid for by Rojas 2024, Awet Tsegai, Treasurer.
-Approved by Jason Rojas East Hartford Manchester reprojas2022@gmail.com 860-895-8374 bottom of page
+Home About Jason News Volunteer Contact Jason Rojas - STATE REPRESENTATIVE - Paid for by Rojas 2026, Jeff Currey, Treasurer.
+Approved by Jason Rojas East Hartford Manchester reprojas2026@gmail.com 860-895-8374 bottom of page

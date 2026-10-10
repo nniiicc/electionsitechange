@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker June 30, 2021 Colorado's immigrants now have more protections, benefits in state law Morgan Anker June 30, 2021 Democratic lawmakers passed more than a dozen pro-immigrant bills this year By SAJA HINDI | shindi@denverpost.com | The Denver Post June 26, 2021 at 6:00 a.m.
 In a year that Sen.
 Julie Gonzales called “transformative” for immigrants in Colorado, lawmakers passed more than a dozen bills aimed at helping a population they say suffered disproportionally over the last year.
@@ -37,4 +37,5 @@ She’s studying speech language and hearing sciences and wants to get licensed 
 “Finally, all this hard work that people have done, it’s going to be recognized and they’re going to be able to help the people they want to work with,” she said.
 Source: https://www.denverpost.com/2021/06/26/immigration-colorado-legislature-2021-undocumented/ Newer Post Representative Ricks speaks at Denver's March for Citizenship on September 25, 2021 Older Post Q&A: Rep.
 Naquetta Ricks, first African immigrant elected to Colorado Legislature Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

@@ -10,4 +10,4 @@ Ian has three simple priorities: making Ohio more affordable, giving every child
 Ian wants families to keep more of what they earn, students to graduate ready for life, and District 41 to be a place where businesses grow, neighborhoods are safe, and young people choose to stay and raise their families.
 What Are Ian’s Priorities for DISTRICT 41?
 More About Ian On the Issues Contact Ian Whether you have a question, want to volunteer, or just want more information, fill out the the contact form and we will be in touch.
-Contact Form Privacy Policy Donate Paid for by Friends of Ian Chamberlin
+Contact Form Terms of Service & Privacy Policy Donate Paid for by Friends of Ian Chamberlin

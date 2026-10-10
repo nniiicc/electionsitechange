@@ -65,7 +65,7 @@ Protect every patient with a pre-existing condition.
 Make crystal clear to every hospital along the Gulf Coast: we are not abandoning you.
 When Congress guts Medicaid, it isn't some abstraction — it's our brother or cousin choosing between medication and groceries.
 That ends.
-5 Our Children Shouldn’t Pay for Their Tax Breaks + Congress just raised the national debt — and used the money to hand tax loopholes to corporations that already pay zero in federal taxes .
+5 Our Children Shouldn’t Pay for Someone Else’s Tax Breaks + Congress just raised the national debt — and used the money to hand tax loopholes to corporations that already pay zero in federal taxes .
 Zero, while our kids and grandkids are handed the bill.
 If the answer isn’t the people who live here, work here, and raise their families here, it’s time to fix it.
 This region’s water, wetlands, and working lands have been sold off piece by piece for too long.

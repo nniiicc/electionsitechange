@@ -1,5 +1,28 @@
 2026 Legislator of the Year Kristin Kassner Named Legislator of the Year by the Massachusetts Municipal Lawyers Association The lawyers who represent Massachusetts cities and towns honored Kristin for fighting to bring our communities more state aid and better tools to plan for the future.
-Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES Press Release Kristin Kassner 10/5/26 Press Release Kristin Kassner 10/5/26 Massachusetts Municipal Lawyers Association Names Representative Kristin Kassner Legislator of the Year At their Annual Conference in New Bedford on Thursday October 1, 2026, the Massachusetts Municipal Lawyers Association (MMLA) presented Representative Kristin E.
+Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE LATEST UPDATES News Kristin Kassner 10/9/26 News Kristin Kassner 10/9/26 Kassner Recognized for Legislative Work by Municipal Lawyers Association Hamilton resident and state Rep.
+Kristin Kassner has been named “Legislator of the Year” by the Massachusetts Municipal Lawyers Association (MMLA).
+“Representative Kassner has worked tirelessly and collaboratively with local government to improve communication among all stakeholders and to help make municipal voices, including the MMLA’s position and commentary on a variety of pending legislation, especially land use, heard on Beacon Hill,” Brown said.
+“I am deeply grateful for their collaboration, and profoundly humbled by this recognition as Legislator of the Year,” she said.
+Read More News Kristin Kassner 10/9/26 News Kristin Kassner 10/9/26 Letter: Kassner is the Leader We Need Effective legislative leadership requires, above all, the ability and willingness to listen to constituents and build relationships with town leaders and other legislators.
+It also requires the wisdom to collaborate with others to craft effective, lasting solutions.
+State Rep.
+Kristin Kassner (2nd Essex) has demonstrated the power of relationshipbuilding with town leaders, constituents, subject matter experts, and other legislators.
+She carefully studies all legislation before agreeing to sponsor or vote for it.
+She has brought her considerable skill and experience as a planner to her role as a representative and has made it her business to understand how to work effectively in the legislature to support the people of our district.
+Read More News Kristin Kassner 10/9/26 News Kristin Kassner 10/9/26 Letter to the Editor - State Representative Sally Kerans, Danvers The people of Ipswich, Hamilton, Topsfield, Rowley, Newbury and Georgetown are well-represented by state Representative Kristin Kassner.
+I hope the Second Essex voters return her to office to continue her work on behalf of her communities.
+In Kristin Kassner, our communities have a leader who uses her intelligence, talents and determination to advance legislation and set budget priorities for her six towns, all while adhering to a vision of our state that is forward thinking and humane.
+I encourage Second Essex neighbors to return Kristin to office so we can continue our work together for Topsfield and all of our communities.
+Read More News Kristin Kassner 10/7/26 News Kristin Kassner 10/7/26 Kassner’s Planning Background is an Asset, Not a Target Representative Kristin Kassner’s background as a professional planner is an asset to her constituents — not something to mock or distort as Dan Kelly does.
+Kelly says he believes “service, civility, and accountability” belong to the Second Essex District, so why isn’t his campaign practicing them?
+While Kelly spends his time trying to tear Kristin down, Kristin has taken a completely different approach.
+She focuses on doing the work — and she actually gets things done.
+In Rowley, she has focused on resolving real issues, worked with town officials and community organizations, collaborated with fellow legislators and advocated for state resources for our community.
+Her engaging style has helped bring significant grants, earmarks, and state aid to Rowley.
+Read More News Kristin Kassner 10/7/26 News Kristin Kassner 10/7/26 Letter: Kassner’s Work on Site Plan Review Shows Real Housing Leadership Our state representative, Kristen Kassner, really “walks the walk” in addressing the housing crisis and deserves your vote on November 3.
+It takes real leadership to get municipal officials, developers, planners, attorneys and housing advocates to all agree on the same thing to advance a larger public interest.
+Kristen has shown how it’s done and she richly deserves your vote.
+Read More Press Release Kristin Kassner 10/5/26 Press Release Kristin Kassner 10/5/26 Massachusetts Municipal Lawyers Association Names Representative Kristin Kassner Legislator of the Year At their Annual Conference in New Bedford on Thursday October 1, 2026, the Massachusetts Municipal Lawyers Association (MMLA) presented Representative Kristin E.
 Kassner (2nd Essex District) with their prestigious Legislator of the Year Award, in recognition of her contributions to municipal law and local government.
 Rep.
 Kassner, a longtime planning professional, has championed municipal issues in the State House, consulting with MMLA and other stakeholders to file legislation to codify Site Plan Review and require land use board training; these bills are now included in the omnibus Economic Development bill.
@@ -53,21 +76,6 @@ Bruce Tarr’s office announced on Thursday.
 This legislation strengthens the local infrastructure that residents rely on every day, supports local economies, and prepares our cities and towns for the challenges ahead.” - Rep.
 Kristin Kassner Read More News Kristin Kassner 6/12/26 News Kristin Kassner 6/12/26 ICYMI: North Shore Business Leaders Look For Ways to Expand Biotech Leaders from across the state gathered in Ipswich this week to brainstorm how to bring the biotech industry north of Boston.
 “A key part of preparing for our future is bringing people together to learn from one another to see what’s possible and to understand where our work intersects, because it's where we intersect that we create new ideas.” - Rep.
-Kristin Kassner Read More News Kristin Kassner 5/22/26 News Kristin Kassner 5/22/26 ICYMI: Kassner Bill Would Allow More Seniors to Claim Income-Tax Credit Rep.
-Kristin Kassner has filed legislation intended to expand some seniors’ eligibility for state tax credits, eliminating a loophole that has prevented seniors who make use of one state tax-relief program from qualifying for additional savings under another.
-"Seniors on a fixed income are struggling to pay for food, electricity, gas—and property taxes, which are also increasing across the Commonwealth.
-This bill would allow income-qualifying seniors to defer property taxes and still qualify for the Senior Circuit Breaker.” - Rep.
-Kristin Kassner Read More News Kristin Kassner 5/8/26 News Kristin Kassner 5/8/26 Ipswich Receives Over $250K for Water Treatment Plant Design Ipswich has received $254,583 in state funding to complete the design of a new water treatment plant, the Healey-Driscoll Administration announced Thursday.
-“These grants will provide the funding for water infrastructure investments required to address PFAS contamination and bring essential water supplies back online, crucial to the sustainability of our communities and the environment.” - Rep.
-Kristin Kassner Read More News Kristin Kassner 5/7/26 News Kristin Kassner 5/7/26 ICYMI: Mass Wins Act Seeks to Accelerate Housing and Development On April 16, 2026, Massachusetts Governor Maura Healey unveiled her proposed economic development bill dubbed the “Mass Wins Act.” Filed as Bill H.5386, the Mass Wins Act proposes a number of changes to Massachusetts law to attract economic development to the Commonwealth.
-Read More News Kristin Kassner 4/11/26 News Kristin Kassner 4/11/26 Rep.
-Kassner Push Biotech Expansion on North Shore BioConnects New England is collaborating with State Rep.
-Kristin Kassner in an effort to encourage increased life sciences development on the North Shore of Massachusetts.
-“The biotech sector and its affiliated industries have strong roots in the Commonwealth, provides many area jobs, and has helped to stabilize local economies.
-There is tremendous economic opportunity on the North Shore due to the strength of our existing companies, institutions, and talented workforce.” - Rep.
-Kristin Kassner Read More News Kristin Kassner 4/7/26 News Kristin Kassner 4/7/26 BioConnects New England, Kassner to Drive Life Sciences Development BioConnects New England (BCNE) is collaborating with State Representative Kristin Kassner in an effort to encourage increased life sciences development within the North Shore of Massachusetts.
-“The biotech sector and its affiliated industries have strong roots in the Commonwealth, provides many area jobs and has helped to stabilize local economies.
-There is tremendous economic opportunity on the North Shore due to the strength of our existing companies, institutions and talented workforce.” - Rep.
 Kristin Kassner Read More Older Posts Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
 Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

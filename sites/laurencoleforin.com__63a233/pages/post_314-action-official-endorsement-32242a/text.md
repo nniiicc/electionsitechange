@@ -9,4 +9,5 @@ Those are the same values I will bring to the Statehouse.
 I'm grateful for this endorsement and excited to keep connecting with people across District 37 as we continue this campaign.
 Recent Posts See All There are lots of ways to help Lauren A FREE way to support us!
 Celebrate Lauren's Birthday This Sunday!
+Come celebrate Lauren Cole's 29th birthday with a fun, kid-friendly morning of bubbles, snacks, conversation, and community!
 BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page

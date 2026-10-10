@@ -56,5 +56,5 @@ He is ready to be a loud, persistent advocate for the Bennington District.
 "I am not running to manage Vermont’s decline.
 I am running to change its direction.
 I ask for your vote to bring practical leadership and honest accountability back to Montpelier.
-Together, we will make Vermont affordable again." DONATE Join the Campaign ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-681-9048 © # Josh Williams for State Senate.
+Together, we will make Vermont affordable again." DONATE Join the Campaign ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-304-9859 © # Josh Williams for State Senate.
 All rights reserved. ​ALL DISCLOSURES bottom of page

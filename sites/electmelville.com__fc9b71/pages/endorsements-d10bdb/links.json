@@ -1,5 +1,25 @@
 [
 {
+"text": "$10",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=50"
+},
+{
 "text": "About",
 "href": "https://www.electmelville.com/about"
 },
@@ -28,6 +48,10 @@
 "href": "https://www.electmelville.com/news"
 },
 {
+"text": "Other",
+"href": "https://secure.actblue.com/donate/tom-melville-1"
+},
+{
 "text": "Priorities",
 "href": "https://www.electmelville.com/priorities"
 },
@@ -54,6 +78,10 @@
 {
 "text": "[image: Medfield Democratic Town Committee]",
 "href": "https://www.facebook.com/MedfieldDTC/"
+},
+{
+"text": "[image: Melville for Representative logo]",
+"href": "https://www.electmelville.com/"
 },
 {
 "text": "[image: Moms Demand Action]",

@@ -1,7 +1,7 @@
 Skip to Content 💼 New District 157 Community Opportunity Board is live.
 30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
 New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Build Protocol A Website Built for Everyone Updated October 5, 2026 Most websites are slow, cluttered, and quietly sell your browsing data to advertisers.
+Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Build Protocol A Website Built for Everyone Updated October 9, 2026 Most websites are slow, cluttered, and quietly sell your browsing data to advertisers.
 We believe our community deserves better.
 This platform is engineered to be secure, privacy-first, and lightning-fast.
 1.

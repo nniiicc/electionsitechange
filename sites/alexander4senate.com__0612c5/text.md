@@ -1,5 +1,5 @@
 0 Skip to Content About Alexander Policy Volunteer Yard Signs DONATE Open Menu Close Menu About Alexander Policy Volunteer Yard Signs DONATE Open Menu Close Menu About Alexander Policy Volunteer Yard Signs DONATE AlexaNder Bobella I’m a social worker, organizer, and democratic socialist running for Franklin Senate because we deserve a real fighter in Montpelier.
-Learn More About Alexander Proudly Endorsed by Senator Peter Welch Proudly Endorsed by State Senator Sara branon Kittell The Only Candidate Endorsed by Vermont Workers “Together, We Must Create an economy that works for working people, not just the wealthy few.
+Learn More About Alexander Proudly Endorsed by Senator Peter Welch Proudly Endorsed by State Senator Sara branon Kittell Proudly Endorsed by Congresswoman Becca Balint The Only Candidate Endorsed by Vermont Workers “Together, We Must Create an economy that works for working people, not just the wealthy few.
 We Must put People Before Party .” The Fighter FrankLin County Deserves My name is Alexander Bobella - I’m a social worker, an organizer, and a democratic socialist.
 Right now, people are working hard, doing everything right, and still struggling to get by.
 That’s unacceptable.

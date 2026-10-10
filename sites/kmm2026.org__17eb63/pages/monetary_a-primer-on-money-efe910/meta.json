@@ -1,7 +1,7 @@
 {
  "description": "A Primer on Money by Wright Patman",
  "final_url": "https://www.kmm2026.org/monetary/a-primer-on-money",
- "fingerprint": "318eed3fdb7813bc86ff5865a44beb047418e173",
+ "fingerprint": "26065a13f6e7ce2bd5c5fbee115331f0dad1806b",
  "format": 3,
  "paid_for_by": "paid for by the private banks",
  "rendered": false,
@@ -25,6 +25,7 @@
   "1965",
   "1968",
   "2016",
-  "2026"
+  "2026",
+  "2027"
  ]
 }

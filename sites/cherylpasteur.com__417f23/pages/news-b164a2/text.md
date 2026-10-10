@@ -1,5 +1,6 @@
 top of page Maryland General Assembly Subscribe to My Newsletter Donate Home About Issues News Events Resources and Scholarships Endorsements Get Involved More Use tab to navigate through the menu items.
-NEWS Delegate Pasteur at MLK DAY of SERVICE 2026, Student Support Network with Councilman Jones, Delegate Guyton, and Kenny Brown, representing Senator Brooks.
+NEWS I received an A+ from the the Minority Coalition Community Center of Baltimore County in the 2026 Legislative Session!
+Delegate Pasteur at MLK DAY of SERVICE 2026, Student Support Network with Councilman Jones, Delegate Guyton, and Kenny Brown, representing Senator Brooks.
 Delegate Pasteur attended the Owings Mills High School PTA meeting on November 20, 2025.
 Thank you to the Owings Mills High School Choir for their wonderful performance.
 On October 28, 2025, Delegate Pasteur and Legislative Aid, Deborah Moore, attended the 2025 Annual Dinner Meeting for the Memory and Aging Community Advisory Board.

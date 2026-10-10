@@ -78,7 +78,7 @@ Community-focused.
 No extremes - just disciplined leadership focused on livability and long-term stability for Kitsap County.
 Take Action with Team Daria This campaign is powered by neighbors.
 Whether you want to put out a sign, knock doors, host a small gathering, or share ideas, there is a place for you here.
-Endorse Daria Request a Yard Sign Volunteer Have a question for Daria or the campaign?
+Request a Yard Sign Endorse Daria Volunteer Have a question for Daria or the campaign?
 Whether you’re looking to connect, have a question, media inquiry, or would like to request an interview, fill out the form below to get in touch.
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

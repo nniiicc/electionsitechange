@@ -16,8 +16,7 @@ She is chairperson of the Human Services Committee and a member of the Executive
 “I am thrilled to receive the endorsement of an accomplished local leader like Supervisor Schulteis,” Piwowarczyk said.
 “I am humbled by the strong support I am receiving from local officials in this race.
 I will work hard to earn the support of district voters, who tell me that they are deeply concerned about the economy, border, education, election integrity, and the state of the country.” You can learn more about Piwowarczyk’s campaign at https://jimforwi.com/.
-Post navigation Previous post: Prev Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows May 24, 2024 Next post: Next Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk June 27, 2024 You May Also Like Posted March 18, 2024 in ticker , Endorsements , News Rep.
-Barbara Dittrich Endorses Jim Piwowarczyk for Assembly Posted May 2, 2024 in Endorsements , News , ticker Washington County Sheriff Martin Schulteis Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows May 24, 2024 Next post: Next Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk June 27, 2024 You May Also Like Posted May 16, 2024 in Endorsements , News , ticker Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly Posted July 26, 2024 in News , Political Issues Protect Our Checks & Balances System: Vote YES on the State Referendum Questions How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

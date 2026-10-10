@@ -1,4 +1,4 @@
-Andrew Fitzgerald District 98 • Scott County About Issues District 98 Contact Donate Get Involved Yard Sign Fighting for Iowa Families I'm running to represent you in Iowa House District 98 because I believe in the potential of our community.
+Andrew Fitzgerald District 98 • Scott County About Issues Endorsements District 98 Contact Donate Get Involved Yard Sign Fighting for Iowa Families I'm running to represent you in Iowa House District 98 because I believe in the potential of our community.
 I am committed to strengthening our public schools by ensuring teachers and students have the resources they need to succeed.
 I will fight to expand healthcare access and lower costs so no one has to choose between their health and their finances.
 And I will work to build an economy that works for everyone, not just a few.
@@ -31,7 +31,9 @@ Clean Water Iowa has some of the most polluted waterways in the country.
 Clean water is a basic right, and I'll hold polluters accountable while investing in real solutions.
 Ready to Fight for Iowa's Future This campaign is about more than one election, it's about building a stronger Iowa for our children and grandchildren.
 Join us.
-Volunteer Donate Are you in District 98?
+Volunteer Donate Proudly Endorsed By I'm honored to have the support of organizations and leaders fighting for working families across Iowa.
+Iowa Federation of Labor, AFL-CIO Iowa State Education Association (ISEA) AFSCME Tri-City Building Trades Council Plumbers and Pipefitters Local 25 IBEW Local 145 IUOE Local 150 Interfaith Alliance of Iowa Greater Than Sierra Club Planned Parenthood Advocates of Iowa PAC Rep.
+Monica Kurth Iowa House District Representative Are you in District 98?
 District 98 includes Southwest Davenport and Buffalo Iowa.
 Get Involved Join our campaign and help build a stronger Iowa for everyone.
 Contact Andrew's Campaign First Name Last Name Email Address Phone Number Notes/Concerns How would you like to help?

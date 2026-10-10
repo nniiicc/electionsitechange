@@ -24,8 +24,8 @@ It is about clean water, safe streets, veterans who earned better than excuses, 
 Twenty days is not much time.
 But it is enough time to organize, talk to voters, and make sure every patriot who cares about Florida’s future shows up.
 Help Republicans in our community finish strong and keep fighting for the community we love.
-Related Posts: Our Freedom Of Speech January 19, 2021 Our Water, Our Fight: An Update On Clean Water In Our Community April 1, 2026 [WATCH] GOP Convention Speech: Make America Strong Once Again!
-July 19, 2024 Why this month is important to me May 16, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: 250 Years of Freedom June 26, 2026 A Huge Double Standard January 24, 2021 Support America First With New Merchandise!
+November 23, 2021 What Service Before Self Means To Me September 16, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

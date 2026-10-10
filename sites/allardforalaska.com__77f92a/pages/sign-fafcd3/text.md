@@ -5,4 +5,4 @@ First name Last name Street address (where the sign goes) City ZIP Email Cell Wh
 Yard sign Sticker Both CLAIM IT THE STREET STANDINGS Streets, not addresses.
 Your house stays your business.
 Elkhorn Circle 1 Fairbanks Street 1 Kantishna Dr 1 Linda Jo Cir 1 Monte Rd 1 Stonehill Dr.
-1 Tonsina 1 108 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577
+1 Tonsina 1 110 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577

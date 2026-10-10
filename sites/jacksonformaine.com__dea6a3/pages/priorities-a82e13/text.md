@@ -1,4 +1,4 @@
-Skip navigation menu About Troy Endorsements Priorities News Volunteer Events DONATE About Troy Endorsements Priorities News Volunteer Events DONATE Pass Medicare for all.
+Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE Pass Medicare for all.
 Lower the cost of prescription drugs.
 Tax the billionaires and make sure greedy corporations pay their fair share.
 Deliver tax cuts for the working class.

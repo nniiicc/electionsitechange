@@ -57,6 +57,8 @@ I am committed to learning what I need to be able to legislate and vote well on 
 To learn more about what I am tracking for the district, see the section at the bottom of this website.
 To learn more about my background, my community work, my humanitarian work, and professional associations which I believe equip me to be a well-rounded representative, see here .
 To read more about Jamie’s background, click here .
+To read Jamie’s fact-check of incumbent Rep.
+Simon’s claims about her bringing a billion dollars to the district, click here (hint: doesn’t look true).
 So What’s Jamie’s Plan?
 I did the work to arrive with a legislative plan in hand, a strategy to make Congress act on it, and a long-term vision for a modern Congress that answers to everyday people, not special interests - all the while serving District 12.
 My legislation, “ The MAD Act ,” addresses the critical, triage items including reining in AI , ICE , surveillance , getting more Epstein Files , shining a light on dark money , funding electoral reform , etc. (which can be individual titles, and not an omnibus) so Congress can be reliably responsive in delivering other policies we want, like: healthy food, a clean environment, fair taxes, affordable living, housing, and healthcare, as well as ending war/genocide.

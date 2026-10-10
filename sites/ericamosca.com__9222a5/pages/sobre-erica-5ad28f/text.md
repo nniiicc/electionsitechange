@@ -1,4 +1,4 @@
-top of page Skip to Main Content EN ESPAÑOL & SA TAGALOG SA TAGALOG ABOUT ERICA MY WHY BILLS LEGISLATIVE AWARDS & WORK GET INVOLVED DONATE MEDIA & NEWS 2025 COMMUNITY ENDORSEMENTS CONTACT MORE Use tab to navigate through the menu items.
+top of page EN ESPAÑOL & SA TAGALOG SA TAGALOG ABOUT ERICA MY WHY BILLS LEGISLATIVE AWARDS & WORK GET INVOLVED DONATE MEDIA & NEWS 2025 COMMUNITY ENDORSEMENTS CONTACT MORE Use tab to navigate through the menu items.
 Sobre Erica Erica Mosca (Ella/La), conocida por muchos en la comunidad como “Ms.
 Mosca”, es orgullosamente una graduada universitaria de primera generación, hija de un inmigrante filipino y defensora de la justicia social.
 Fué parte de la organización sin fines de lucro de acceso a la universidad 10,000 Degrees en la escuela secundaria y sirviendo como maestra de quinto grado en Teach For America, Las Vegas, Mosca experimentó la desigualdad educativa tanto en su vida personal como profesional.

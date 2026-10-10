@@ -1,4 +1,4 @@
-top of page HOME ABOUT ISSUES ENDORSEMENTS GALLERY DONATE CONTACT More Use tab to navigate through the menu items.
+top of page HOME ABOUT ISSUES ENDORSEMENTS GALLERY MEDIA DONATE CONTACT More Use tab to navigate through the menu items.
 ISSUES IMPORTANT TO OUR DISTRICT PROTECTING TAXPAYER DOLLARS Minnesotans deserve confidence that their hard-earned tax dollars are being used responsibly.
 Unfortunately, fraud, waste, and abuse in state programs have diverted millions of dollars away from the people and services they were intended to support.
 Every dollar lost to fraud is a dollar that cannot be invested in our schools, roads, public safety, or services for those who truly need assistance.

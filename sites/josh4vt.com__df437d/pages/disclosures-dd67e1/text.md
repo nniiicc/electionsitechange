@@ -21,5 +21,5 @@ Respectful Engagement This campaign welcomes civic participation and respectful 
 Threats, harassment, impersonation, spam, defamatory content, or abusive behavior on campaign platforms may be removed or reported where appropriate.
 Accessibility We strive to make this website accessible and user-friendly for all visitors.
 If you experience difficulty accessing any content, please contact the campaign at results@josh4vt.com .
-Contact PAID FOR BY Josh Williams for VT Senate PO Box 94 Arlington, VT 05250 results@josh4vt.com 802-304-9859 Paid for by Josh Williams for VTSenate DONATE Join the Campaign DISCLOSURES ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-681-9048 © # Josh Williams for State Senate.
+Contact PAID FOR BY Josh Williams for VT Senate PO Box 94 Arlington, VT 05250 results@josh4vt.com 802-304-9859 Paid for by Josh Williams for VTSenate DONATE Join the Campaign DISCLOSURES ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-304-9859 © # Josh Williams for State Senate.
 All rights reserved. ​ALL DISCLOSURES bottom of page

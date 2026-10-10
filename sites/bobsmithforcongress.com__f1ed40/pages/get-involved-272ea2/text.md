@@ -30,7 +30,12 @@ Paid for by Bob Smith for Congress.
 Count me in Make a plan to vote Confirm your registration, track your mail ballot, and find your drop off location.
 Check my registration Volunteer Canvass, phone bank, staff an event, or host a meet and greet in your neighborhood.
 Sign me up Contribute Grassroots dollars buy the door hangers, the gas, and the mail that reaches undecided voters.
-Give today Contribute Powered by neighbors Every dollar is reported and every dollar is spent talking to voters in CD-24.
+Give today This is what the ground game looks like Parades, campus days and front porches.
+Every one of these started with a volunteer who said yes.
+Community day on campus.
+On the parade route.
+Neighbors, not crowds.
+Contribute Powered by neighbors Every dollar is reported and every dollar is spent talking to voters in CD-24.
 Contributions are processed securely by Anedot, the campaign’s compliance platform.
 Contribute now Federal law requires us to collect and report the name, mailing address, occupation, and employer of individuals whose contributions exceed $200 per election cycle.
 Contributions are not tax deductible.

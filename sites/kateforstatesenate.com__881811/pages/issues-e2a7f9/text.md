@@ -1,4 +1,4 @@
-Tweets by katyperrone13 top of page Meet Kate Donate Issues Contact Volunteer More Use tab to navigate through the menu items.
+Tweets by katyperrone13 top of page Meet Kate Issues Volunteer Donate Contact More Use tab to navigate through the menu items.
 FIGHTING FOR FAMILIES, JOBS, AND OUR FUTURE Lower Taxes, Lower Costs Illinois families are stretched to the breaking point by high taxes and skyrocketing prices on everyday essentials.
 From groceries and gas to new delivery taxes on things like diapers and pizza, Springfield politicians keep piling on.
 Kate will fight to cut taxes, stop wasteful spending, and make Illinois affordable again for the families and seniors who call it home.

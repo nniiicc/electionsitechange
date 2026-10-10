@@ -1,6 +1,8 @@
 top of page RE-ELECT MARK DECAPRIO STATE REPRESENTATIVE—48TH DISTRICT Home About Mark's Record Values News Get Involved Contact More Use tab to navigate through the menu items.
 U.S.
-NAVY SUBMARINE VETERAN A DEDICATED PUBLIC SERVANT A RESIDENT OF LEBANON FOR OVER 40 YEARS THE People I WORK FOR When Hartford makes a decision, someone in Bozrah, Colchester, Franklin, or Lebanon has to live with it. ​ That's who I think about before every vote.
+NAVY SUBMARINE VETERAN A DEDICATED PUBLIC SERVANT A RESIDENT OF LEBANON FOR OVER 40 YEARS Get Out and Vote Early!
+Early Voting begins October 19 and runs through November 1.
+Make your voice heard—every vote counts! ​ Find your Early Voting Locations Locations Here THE People I WORK FOR When Hartford makes a decision, someone in Bozrah, Colchester, Franklin, or Lebanon has to live with it. ​ That's who I think about before every vote.
 The YOUNG FAMILY trying to afford a home. ​ The SENIOR STRUGGLING with rising property taxes and electric bills. ​ The VOLUNTEER FIREFIGHTER who answers the pager in the middle of the night. ​ The VETERAN who continues serving after military service. ​ The FARMER working to preserve a way of life. ​ The SMALL BUSINESS OWNER balancing costs, payroll, and the future.
 See Mark's Record Personal Message from Mark DeCaprio State Representative, 48th District, seeking re-election It has been a true privilege to serve the residents of Bozrah, Colchester, Franklin, and Lebanon as your State Representative.
 I care deeply about maintaining the unique character of our towns and protecting the local voices that make our communities strong.

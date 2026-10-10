@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker April 7, 2026 How much are Colorado’s state legislators paid?
 Morgan Anker April 7, 2026 An ER nurse, a funeral home director, a firearms instructor, a physical therapist, a flower shop owner and plenty of attorneys.
 These are just some of the professions Colorado lawmakers return to when they’re not under the gold dome for the annual four-month-long legislative session.
@@ -119,4 +119,5 @@ We're in session # days.” He argued that state lawmaking is no less important.
 Colorado’s independent pay commission said a much more modest $50,000 salary for lawmakers would be appropriate, but alluded to the unlikely nature of such a change.
 “It is hoped that the State finds itself in a more favorable budgetary position than currently exists,” states the December report.
 Source: https://www.cpr.org/2026/04/06/how-much-colorado-state-legislators-are-paid/ Newer Post Paschal, Ricks Bill to Protect Children Online Passes Older Post House Passes Ricks, Camacho Bill to Create Jobs and New Small Businesses Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

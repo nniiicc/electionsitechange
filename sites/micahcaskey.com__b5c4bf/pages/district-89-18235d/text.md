@@ -1,8 +1,9 @@
-0 Skip to Content Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home Folder: About Back Meet Micah Committees District 89 Issues Folder: News and Media Back News Social Media Resources Volunteer DONATE View fullsize (click image to expand) (click image to expand) District 89 South Carolina House District 89 is located in Lexington County and includes the City of West Columbia, the Town of Cayce, and the Town of Springdale.
-Located right across the Congaree River from the capital city of Columbia, District 89 is a vibrant community that is home to about 40,000 South Carolinians and is continuing to grow.
-This area provides both residents and visitors with access to its rich history, beautiful public parks, and countless delicious, locally-owned restaurants.
-District 89 boasts excellent public schools, hundreds of small businesses, and close proximity to Columbia that have made it a beacon of economic opportunity and heartbeat of the midland’s region.
-The links below provide more information about District 89 and what it has to offer.
-District 89 Municipal Government Links City of West Columbia Town of Cayce Town of Springdale County of Lexington Stay in Touch!
-If you live in Cayce, West Columbia, or Springdale, I want to hear from you.
-Please do not hesitate to share your ideas, thoughts, concerns, comments, gripes, or complaints. micah@micahcaskey.com (803)-250-5834 PO Box #5875, West Columbia, SC 29171 Contact PAID FOR BY CASKEY FOR HOUSE
+Menu Meet Micah Record Issues State House District 89 Resources Vote Contact Donate SOUTH CAROLINA HOUSE District 89 Lexington County • Cayce • West Columbia • Springdale THE DISTRICT In the heart of the Midlands House District 89 is in Lexington County and includes Cayce, West Columbia and Springdale.
+The district sits across the Congaree River from Columbia and includes established neighborhoods, public schools, parks and locally owned businesses.
+DISTRICT 89 Explore the district See the official House District 89 map or visit the local governments serving our area.
+View District Map West Columbia Local services, news and information from the City of West Columbia.
+Visit West Columbia → Cayce Local services, news and information from the City of Cayce.
+Visit Cayce → Springdale Local services, news and information from the Town of Springdale.
+Visit Springdale → Need state assistance?
+District 89 residents can use the constituent resources page or contact Micah’s office.
+Constituent Resources Serving South Carolina House District 89 Cayce • West Columbia • Springdale STAY IN TOUCH micah@micahcaskey.com (803) 250-5834 Facebook PO Box 5875 West Columbia, SC 29171 QUICK LINKS Meet Micah The Record Voting Information Contact Donate PAID FOR BY CASKEY FOR HOUSE Privacy Policy

@@ -92,5 +92,5 @@ I will defend property rights.
 I will demand accountability.
 I will put Bennington County first.
 And I will focus on real results — not more bureaucracy.
-DONATE Join the Campaign ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-681-9048 © # Josh Williams for State Senate.
+DONATE Join the Campaign ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-304-9859 © # Josh Williams for State Senate.
 All rights reserved. ​ALL DISCLOSURES bottom of page

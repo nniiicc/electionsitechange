@@ -1,5 +1,4 @@
-About Schedule Issues In the News Contact DONATE Rooted in community.
-Ready to serve.
+About Schedule Issues In the News Contact DONATE A leader who listens.
 DISTRICT 3A DESERVES A LEADER WHO LISTENS.
 Local concerns should matter at the Capitol.
 Leadership should be present and accessible.

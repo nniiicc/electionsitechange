@@ -16,5 +16,6 @@ The Corps of Engineers manages the Howard Hanson Dam northeast of Enumclaw.
 The Pierce County Flood Control District oversees projects along the White, Puyallup and Nisqually Rivers.
 House Bill 1940 is scheduled for a public hearing on Feb.
 10 in the House Finance Committee.
-In the News flooding property tax public safety taxes More For You State Patrol Troopers endorse Drew Stokesbary Endorsements The Seattle Times recommends Drew Stokesbary Endorsements Stokesbary concerned about auditor’s media silence In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News flooding property tax public safety taxes More For You Improving the Traffic Avenue bridge above Highway 410 In the News Bills sponsored by Rep.
+Stokesbary signed into law In the News Seattle and King County police endorse Stokesbary (2020) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

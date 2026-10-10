@@ -10,7 +10,7 @@ Today, Bryan serves as your State Representative, focused on lowering costs, pro
 2014 Delaware Achievers and Innovators Under 40 2012 Citizen of the Year, Greater Milford Chamber of Commerce 2011 New Member of the Year, Milford Chamber of Commerce Bryan Shupe isn't just talking about the challenges facing Delaware families — he's lived them, built through them, and delivered real results.
 Now, he's fighting to take Delaware back.
 Donate Now My Legislative Priorities Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 24 Days 20 Hours 22 Minutes 35 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 23 Days 20 Hours 22 Minutes 49 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

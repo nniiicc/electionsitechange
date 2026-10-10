@@ -34,7 +34,7 @@ Roehrig Election News Party News Contact WCP: 2026 Working Class Party in 2026 O
 For that one percent that lives off of stock, inflation has been a bonanza.
 Millionaires became billionaires.
 Billionaires became … zillionaires.
-But for the rest of us, inflation has been a disaster. read more Needed: Schools for Workers' Kids as Good as Ones for the Wealthy Posted by: admin in Recent News #ago Throughout big cities and rural areas, students might as well not have been in school last year.
+But for the rest of us, inflation has been a disaster. read more Needed: Schools for Workers' Kids as Good as Ones for the Wealthy Posted by: admin in Recent News 4 years, #ago Throughout big cities and rural areas, students might as well not have been in school last year.
 Nine-year-olds in most of those districts fell so far behind that it will take them one whole year just to catch up to where they should be right now (according to the standard tests taken at the end of last year). read more The terrible choice of abortion and the hypocrites who interfere in it Posted by: admin in Recent News 4 years, #ago A woman and the fetus she carries are intimately bound with each other.
 Yet today, some politicians have taken upon themselves the right to decide for every woman what must happen during her pregnancy.
 Hypocrites!

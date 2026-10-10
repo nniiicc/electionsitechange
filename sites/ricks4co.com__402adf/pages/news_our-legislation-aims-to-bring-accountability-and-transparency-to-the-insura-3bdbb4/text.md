@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker June 23, 2021 Our legislation aims to bring accountability and transparency to the insurance industry Morgan Anker June 23, 2021 So many of us are working to eliminate injustice in our world.
 It certainly seems fair to ask insurance companies to do their part.
 Sen.
@@ -34,4 +34,5 @@ Daneya Esgar, Democrat of Pueblo, is state House of Representatives majority lea
 Naquetta Ricks, Democrat of Aurora, represents District 40 in the Colorado House.
 Source: https://coloradosun.com/2021/06/23/insurance-bill-opinion-2/ Newer Post Q&A: Rep.
 Naquetta Ricks, first African immigrant elected to Colorado Legislature Older Post DREAM ON: Amid a housing crisis, Colorado lawmakers try to preserve a slice of the American Dream Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

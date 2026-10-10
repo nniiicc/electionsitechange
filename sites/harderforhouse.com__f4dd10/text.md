@@ -1,4 +1,4 @@
-top of page HOME ABOUT ISSUES ENDORSEMENTS GALLERY DONATE CONTACT More Use tab to navigate through the menu items.
+top of page HOME ABOUT ISSUES ENDORSEMENTS GALLERY MEDIA DONATE CONTACT More Use tab to navigate through the menu items.
 ELECT BOBBIE HARDER for State Representative Conservative ​ Strengthening Accountability to Eliminate Waste and Fraud ​ Protecting Election Integrity ​ Constitutional Rights ​ Individual Rights and Responsibility ​ Supporting Those Who Protect Us ​ Efficient, Accountable Government ​ Agriculture Matters ​ Lower Tax Burdens ​ Defending the Sanctity of Life READ MORE ABOUT THE ISSUES Be a part of the team!
 VOLUNTEER We need your help to make this campaign successful.
 Participate in parades, fundraisers, mailings, phone calls, distributing literature and more.

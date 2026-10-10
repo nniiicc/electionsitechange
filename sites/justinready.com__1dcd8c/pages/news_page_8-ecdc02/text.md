@@ -1,4 +1,5 @@
-Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report January 17, 2025 Ready Report: Governor Moore Proposes FY26 Budget & More… The first full week of the 2025 Legislative Session has concluded.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report January 24, 2025 Ready Report: Peeling Back Layers on Moore Budget, Carroll Delegation Voting Session & More… It was a very busy week in Annapolis as we are coming to the end of the “1st Quarter” of the 2025 Session.
+I have a lot to discuss below but first – on Monday, President… Read More > January 17, 2025 Ready Report: Governor Moore Proposes FY26 Budget & More… The first full week of the 2025 Legislative Session has concluded.
 Below is an update on what happened throughout the week in Annapolis.
 Click the picture below to watch my weekly video update for Week… Read More > January 10, 2025 Ready Report: 2025 Session Begins + Carroll Delegation Meeting 1/17 The 447th Session of the Maryland General Assembly gaveled in at noon on Wednesday.
 Throughout the next 90 days, I will do my best to keep you updated on what is going on in Annapolis.
@@ -9,4 +10,4 @@ As we head into the Christmas holiday season, we start with commemorating Pearl 
 Their courage, sacrifice, and commitment to protecting and… Read More > November 18, 2024 Nov.
 21st – Carroll County Delegation to hold Annual Public Hearing The Carroll County Delegation will be hosting its annual public hearing on Thursday, November 21, 2024, at 6:00 p.m.
 The hearing will take place at the County Office Building, 225 North Center Street, Westminster, MD… Read More > November 11, 2024 Ready Report: Veterans Day, PSEG/MPRP Town Halls, Delegation Hearing & More… I want to start by taking a moment to thank all the brave men and women who have served America in our Armed Forces on this Veterans Day.
-While we should honor the sacrifice and… Read More > October 31, 2024 Ready, Rose & Tomlinson Condemn Racial, Anti-Religious Attacks in Board of Ed Race Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer
+While we should honor the sacrifice and… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

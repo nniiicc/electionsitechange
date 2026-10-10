@@ -9,4 +9,4 @@ My commitment is to always stand up for Arizona's working families by fighting c
 Together, we will build an opportunity economy that works for all Arizonans—not just the wealthy.
 Paid for by Deborah Howard for State Representative - LD27.
 Authorized by Deborah Howard.
-Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318 Privacy Policy

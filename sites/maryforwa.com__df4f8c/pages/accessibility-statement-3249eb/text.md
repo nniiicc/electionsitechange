@@ -1,5 +1,4 @@
-top of page State Representative 34th District Position 2 - Democrat ​ About Mary Why Mary Get Involved Come Canvas With Us!
-Seattle Times Endorses Mary Donate Spaghetti Dinner 10/16 This is the Accessibility Statement for Mary for WA.
+top of page State Representative 34th District Position 2 - Democrat ​ Seattle Times Endorses Mary Donate Spaghetti Dinner 10/16 About Mary Why Mary Get Involved Come Canvas With Us Media This is the Accessibility Statement for Mary for WA.
 We are committed to ensuring that our campaign website is accessible to everyone, including individuals with disabilities.
 We strive to meet all applicable accessibility standards and continuously improve our site.
 Accessibility Statement This statement was last updated on [enter relevant date].

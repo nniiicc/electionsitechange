@@ -4,7 +4,11 @@ Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion P
 Mary Parish St.
 Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App yes Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-Phone (337) 279-8329 Email prisforcongress@gmail.com Newsroom My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the… My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the U.S.-Mexico border.
+Phone (337) 279-8329 Email prisforcongress@gmail.com Newsroom Please check your voter registration!
+Please check your voter registration!
+Source [Click Title to Continue Reading] October 9, 2026 no comments Don’t forget to check your blood pressure registration status, everyone.
+You w… Don’t forget to check your blood pressure registration status, everyone.
+You would like to donate to my campaign, please use this link: https://secure.actblue.com/donate/priscilla-gonzalez-3 Don’t forget to check your blood pressure [Click Title to Continue Reading] October 9, 2026 no comments My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the… My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the U.S.-Mexico border.
 I was raised Pentecostal and attended a Christian private school, where I learned [Click Title to Continue Reading] October 9, 2026 no comments My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the… My name is Priscilla Gonzalez, and I was born in McAllen, Texas, right along the U.S.-Mexico border.
 I was raised Pentecostal and attended a Christian private school, where I learned [Click Title to Continue Reading] October 8, 2026 no comments In March 7, 2024, US Representative Clay Higgins announced $40.4 million in Fund… In March 7, 2024, US Representative Clay Higgins announced $40.4 million in Funding for Projects in Louisiana’s 3rd District.
 Higgins led his constituents to believe he was for it.
@@ -16,12 +20,7 @@ Source [Click Title to Continue Reading] October 7, 2026 no comments My name is 
 I was raised Pentecostal and attended a Christian private school, where I learned [Click Title to Continue Reading] October 7, 2026 no comments Billboards are going out on Monday or Tuesday next week.
 Please don’t forget to… Billboards are going out on Monday or Tuesday next week.
 Please don’t forget to vote early voting starts October 20. www.prisforcongress.con (956) 563-6558 ￼￼ Source [Click Title to Continue Reading] October 7, 2026 no comments Major problems in Terrebonne Parish Flooding and hurricanes: A large portion of… Major problems in Terrebonne Parish Flooding and hurricanes: A large portion of the parish is low-lying and vulnerable to storm surge, heavy rain, and drainage problems.
-The parish government says [Click Title to Continue Reading] October 7, 2026 no comments FOR IMMEDIATE RELEASE Priscilla Gonzalez Challenges Congressman Clay Higgins to… FOR IMMEDIATE RELEASE Priscilla Gonzalez Challenges Congressman Clay Higgins to Public Debate in Louisiana’s 3rd Congressional District LAFAYETTE, LOUISIANA — October 6, 2026 — Priscilla Gonzalez, candidate for the US [Click Title to Continue Reading] October 6, 2026 no comments Here are nine documented controversies involving Clay Higgins over the years.
-Th… Here are nine documented controversies involving Clay Higgins over the years.
-This covers major public incidents, rather than every criticism of his record.
-1.
-Police misconduct allegations, 2007.
-Opelousas police [Click Title to Continue Reading] October 6, 2026 no comments 1 2 3 … 14 Next » Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+The parish government says [Click Title to Continue Reading] October 7, 2026 no comments 1 2 3 … 14 Next » Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
 Martin Parish St.
 Mary Parish Terrebonne Parish Vermilion Parish Subscribe To Our Newsletter Stay up to date with the latest news from Priscilla Gonzalez's campaign Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
 Martin Parish St.

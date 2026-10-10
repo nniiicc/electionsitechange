@@ -1,6 +1,4 @@
-Skip navigation menu Home About Endorsements Volunteer Priorities District Events News Contact Donate Tom is an accessible, responsive, and committed leader.
-Home About Endorsements Volunteer Priorities District Events News Contact Donate Tom is an accessible, responsive, and committed leader.
-Tom believes effective government starts with listening and showing up.
+Skip navigation menu Home About Endorsements Volunteer Priorities District Events News Contact Donate Accessible Responsive Committed Leader Home About Endorsements Volunteer Priorities District Events News Contact Donate Accessible Responsive Committed Leader Tom believes effective government starts with listening and showing up.
 Tom Melville is running for State Representative in the 9th Norfolk District because he believes effective government starts with listening, decency, and a focus on the real challenges facing families every day.
 He's committed to being a responsive, pro-democracy legislator who works seriously on healthcare, education, housing, civil rights, and climate.
 Tom has spent his career solving complex problems, building consensus, and showing up when it matters, and he is ready to bring that approach to Beacon Hill.

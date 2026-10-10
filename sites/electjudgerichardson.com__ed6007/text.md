@@ -21,7 +21,7 @@ Texas Court Structure Endorsements Stay tuned to see the organizations and leade
 Stay connected with us Sign up for our emails and stay in touch.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email Name Email * STAY CONNECTED!
+Name * First Last Name Email Email * STAY CONNECTED!
 By submitting this form, you are consenting to receive marketing emails from our political campaign and partners.
 You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email.
 Emails are serviced by Constant Contact Judge Bert Richardson Campaign 20711 Wilderness Oak, Suite 107-4 San Antonio, TX 78258 Send An Email © Copyright # | Pol.

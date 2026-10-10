@@ -1,0 +1,16 @@
+Skip to content Skip to sidebar Skip to footer Home Donate About James Our Team About Senate District 11 Why I am Running Policy Positions Economics & Workforce Educational Attainment Food & Nutrition Criminal Justice Healthcare Access Digital & Broadband Housing & Community Development Civic Participation and Government Accountability Watch Live Events In The News Blogs 252-231-3211 Recognition for Service Close Home Donate About James Our Team About Senate District 11 Why I am Running Policy Positions Economics & Workforce Educational Attainment Food & Nutrition Criminal Justice Healthcare Access Digital & Broadband Housing & Community Development Civic Participation and Government Accountability Watch Live Events In The News Blogs facebook-1 twitter-x instagram linkedin Have Questions? james@jamesgailliard.com Want to Work with Us?
+Send Brief Wish to Support Us?
+Donate Now Historic Legislative Leadership Recognition for Service Pastor Gailliard made history as the first person of color elected to represent North Carolina House District 25.
+Community Impact Recognition for Service Commissioner of MyFutureNC, co-developing North Carolina’s statewide educational attainment goals.
+Pastoral Leadership Recognition for Service As Senior Pastor of Word Tabernacle Church, Pastor Gailliard has shepherded a ministry that now impacts thousands of families across 35 North Carolina counties and reaches internationally.
+Recognition for Service Recognition for Service Pastor Gailliard’s lifelong dedication has earned him the Algernon Sydney Sullivan Award and the President Joseph R.
+Biden, Jr.
+Lifetime Achievement Award.
+Search Search for: Categories Blog (3) In The News (1) Recent posts In The News July 18, 2025 In the News: Mayoral Hopeful James Gailliard Eyes Key 2026 State Senate Race Blog July 9, 2025 The Power of Work Ethic: Cultivating Character, Excellence, and Community Tags Campaign Donation Election Events Government Political party Politician James D.
+Gailliard James D.
+Gailliard—affectionately known as “Pastor G”—is a visionary leader, accomplished public servant, and trusted voice at the intersection of faith, justice, and community transformation.
+Office 9121 W Mount Dr.
+Rocky Mount, NC 27803 info@jamesgailliard.com 252-231-3211 Links Home About James Policy Positions Events Contact Us Get in touch facebook-1 twitter-x instagram linkedin Disclaimer: Paid For By Citizens To Elect James D.
+Gailliard James D.
+Gailliard © #.
+All rights reserved.

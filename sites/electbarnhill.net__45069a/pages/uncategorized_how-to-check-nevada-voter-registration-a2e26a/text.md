@@ -76,6 +76,6 @@ Get to know me · Join the campaign · Donate · See all policy positions I’m 
 I’m asking you to hold the office accountable for solving real problems.
 That’s the job, and I intend to do it. — Brad Lee Barnhill Independent American Party of Nevada Candidate for Nevada Secretary of State #YourIndependentVoice — Results, Not Noise Share: Categories: Commentary 2 thoughts on “How to Check Nevada Voter Registration Status” Pingback: Consistent County Election Standards for Nevada Elections Pingback: Rural Voting Access in Nevada: Secure and Simple for Every County Post navigation Previous Previous post: Why Paper Records for Nevada Elections Matter Next Next post: Question 7 Nevada Voter ID: What Comes Next footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (17) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

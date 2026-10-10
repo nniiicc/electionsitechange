@@ -21,8 +21,13 @@ Tax As much as we hate paying taxes there is a quote on the IRS building in Wash
 “Taxes are what we pay for a civilized society.” If we want good schools, good roads, airports, parks, etc… taxes are the tradeoff we make.
 Fair tax is the issue.
 All of the funding should not be on the backs of the working class.
-We must also look at strengthening the Homestead Refund for our Seniors who’s limited retirement security keeps getting chipped away at by raising property taxes and other expenses.
-Our legislature has put us on a path to flat tax, where the richest receive millions and the impact for most of us wont even cover the increases to our health insurance premiums Legislators passed Senate Bill 269 then overrode Gov.
+Property Tax Local property taxes have nearly doubled in the last decade.
+Leaders in Topeka point to local governments and public schools as the culprit.
+Truth is Topeka has just as much fault.
+There have been at least 8 separate ways that the legislature has take previously provided funds away from localities, leaving them to pass the shortfall on to homeowners – just so they can keep cutting income tax, which disproportionately benefit the folks that don’t need it.
+We must also strengthen the Homestead Refund for our Seniors who’s limited retirement security keeps getting chipped away at by raising property taxes and other expenses.
+Income Tax Our legislature has put us on a path to flat tax, where the richest receive millions and the impact for most of us wont even cover the increases to our health insurance premiums.
+Legislators passed Senate Bill 269 then overrode Gov.
 Laura Kelly’s veto of the bill to pass their new millionaire tax cut.
 The new law will, through triggered reductions, ultimately bring the state’s graduated individual and corporate income taxes to flat rates of 4 percent, down from the current respective top rates of 5.58 and 7 percent.
 Future reductions in tax rates will go into effect when income tax collections exceed Fiscal Year 2024 revenues plus the rate of inflation.
@@ -39,6 +44,10 @@ Cannabis Cannabis is legal in 41 states for medical use, and 24 states for recre
 I support creating a taxed and well regulated market for cannabis to stop the criminalization of non-violent individuals, and alleviating the burden on the judicial system.
 Legalization would create jobs, tax revenue, ensure product safety, and keep citizens away from ‘drug dealers’ whom are more likely to have more dangerous drugs.
 The tax revenue may go wherever is needed including schools, roads, or tax rebates.
+Data Centers When the federal agency tasked with environmental protections number one priority is more data centers, we can no longer expect that agency to have the publics best interest at heart.
+Kansas must enact a moratorium on this resource intensive industry until proper regulations are developed in our state.
+We must repeal the 20 year sales tax exemption, or at a minimum change it to a local option where it is up to the local governments to decide if they will forgo the massive revenue these projects would create.
+Flock and ALPR regulations or bans need serious consideration.
 Vote Michael Lewis Michael is dedicated to elevating the voices of the working class, advocating for fairness, dignity, and liberty across Kansas.
 Get Involved Today Join our movement for a better Kansas by volunteering, donating, or spreading the word to support Michael Lewis’ vision for a brighter future.
 Join Now Paid for by Lewis For Kansas, Michael Lewis Treasurer Privacy Scroll to Top Notifications

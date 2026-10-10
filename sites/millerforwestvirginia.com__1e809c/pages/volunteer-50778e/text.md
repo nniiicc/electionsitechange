@@ -14,7 +14,7 @@ The best campaign organizations are ground up, not top down, so we need your hel
 There is no minimum involvement required for someone new to volunteer with our campaign.
 The only requirement is they care about West Virginia!
 Sign up today to receive our volunteer action guide and become a part of our campaign today!
-Get Our Volunteer Action Guide Full Name * Email * Phone Address Street Address City State Country Country Zip Code * By providing your phone number and checking the box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Miller for State Senate.
+Get Our Volunteer Action Guide Full Name * Email * Phone Address Street Address Country Country State City Zip Code * By providing your phone number and checking the box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Miller for State Senate.
 Reply HELP for help, STOP to end.
 Msg & Data Rates May Apply.
 Message frequency may vary.

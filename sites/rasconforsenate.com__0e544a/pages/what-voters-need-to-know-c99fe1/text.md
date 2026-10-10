@@ -1,4 +1,4 @@
-Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate What Voters Need To Know About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate What Voters Need To Know SARAH RASCÓN PROTECTED OUR LAND.
+Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate What Voters Need To Know About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate What Voters Need To Know SARAH RASCÓN PROTECTED OUR LAND.
 SARA HERNANDEZ GOT PAID TO DEVELOP IT.
 Sara Hernández spent eight years as a corporate attorney for big developers — at a law firm that represents data centers.
 Now Big Tech corporations and billionaires are spending millions to put her in the State Senate.

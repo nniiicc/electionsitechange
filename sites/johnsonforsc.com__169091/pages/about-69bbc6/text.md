@@ -1,4 +1,4 @@
-0 Skip to Content About Policies Contact Merch Donate Open Menu Close Menu About Policies Contact Merch Donate Open Menu Close Menu About Policies Contact Merch Donate Meet Rep.
+0 Skip to Content About Policies Contact Merch Endorsements Donate Open Menu Close Menu About Policies Contact Merch Endorsements Donate Open Menu Close Menu About Policies Contact Merch Endorsements Donate Meet Rep.
 Jermaine Johnson Dr.
 Jermaine Johnson wasn’t born into power— he fought his way into it .
 He’s not a career politician or a wealthy insider.

@@ -1,5 +1,5 @@
 0 Skip to Content About About Impact Issues Volunteer Press Endorsements DONATE Open Menu Close Menu About About Impact Issues Volunteer Press Endorsements DONATE Open Menu Close Menu Folder: About Back About Impact Issues Volunteer Press Endorsements DONATE Savannah Mayor Van R.
-Johnson, II Endorses Amanda Hollowell for Congress Apr 22 Written by Hannah Vega The Mayor’s endorsement adds to growing local and national support in the open race for GA-01 Link to Campaign Materials SAVANNAH, GA (April 22, 2026) — Today, Mayor Van R.
+Johnson, II Endorses Amanda Hollowell for Congress Apr 22 Written By Hannah Vega The Mayor’s endorsement adds to growing local and national support in the open race for GA-01 Link to Campaign Materials SAVANNAH, GA (April 22, 2026) — Today, Mayor Van R.
 Johnson, II of Savannah endorsed Democrat Amanda Hollowell’s campaign for Congress.
 Since launching her campaign in August 2025, Hollowell has met with community members across the district to hear their concerns and share her vision to put power, policy, and progress back in the hands of the people.
 Mayor Johnson joins other state and national leaders who have previously endorsed Hollowell, including Savannah’s past Democratic mayors, the Hon.

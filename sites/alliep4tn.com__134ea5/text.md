@@ -28,4 +28,7 @@ Upcoming Events October Canvassing Join Team Allie and help us Get Out the Vote!
 Early voting starts soon and there is still so much work to do!
 Help us reach more voters and share Allie’s platform of putting Working Families First .
 We will be going out every Wednesday, Thursday & Saturday.
-SIGN UP NOW ENDORSEMENTS DONATE VOLUNTEER Paid for by: Allie Phillips for Change Treasurer: Christian Ramirez Privacy Policy | Terms
+SIGN UP NOW MoCo Dems GOTV Rally Join Team Allie, Candidates, Volunteers and the Montgomery County Democratic Party for a Get Out the Vote (GOTV) Rally on HALLOWEEN!
+This rally is to energize voters to head to the polls on November 3rd!
+Afterwards, we will head out in groups to go door knocking!
+JOIN US ENDORSEMENTS DONATE VOLUNTEER Paid for by: Allie Phillips for Change Treasurer: Christian Ramirez Privacy Policy | Terms

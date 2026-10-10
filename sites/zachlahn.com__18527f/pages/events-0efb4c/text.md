@@ -4,9 +4,7 @@ Meet Zach Lahn “I believe Iowa can be a beacon — the safest, freest, most fa
 I will fight with everything I have for our future.” Upcoming Events Zach looks forward to continuing to make stops throughout the State of Iowa.
 Click on each event individually to get more details.
 If you'd like Zach to make an appearance in your area or invite him to an event, there is a button at the bottom of this page!
-Events , Appearances , & Townhalls Greene County Greene County Meet and Greet Join Zach Lahn on Friday, October 9, from 1:00 PM to 2:00 PM for a Meet and Greet in Greene County.
-Hear… Event Details Friday, October 9 from 1:00 PM - 2:00 PM Warren County Warren County Meet and Greet Join Zach Lahn on Friday, October 9, from 5:00 PM to 6:30 PM for a Meet and Greet in Warren County.
-Hear… Event Details Friday, October 9 from 5:00 PM - 6:30 PM Linn County Linn County Meet and Greet Join Zach Lahn and special guest Joe Mitchell on Saturday, October 10th, for a meet & greet in Linn County.
+Events , Appearances , & Townhalls Linn County Linn County Meet and Greet Join Zach Lahn and special guest Joe Mitchell on Saturday, October 10th, for a meet & greet in Linn County.
 Hear directly… Event Details Saturday, October 10 from 9:30 AM - 10:30 AM Marshall County Marshall County Meet and Greet Join Zach Lahn on Saturday, October 10th, for a meet & greet in Marshall County.
 Hear directly from Zach about the future… Event Details Saturday, October 10 From 12:30 PM - 1:30 PM Black Hawk County Black Hawk County Meet and Greet with Senator Chuck Grassley Join Zach Lahn and U.S.
 Senator Chuck Grassley on Tuesday, October 13, from 12:00 PM to 1:00 PM for a Meet and… Event Details Tuesday, October 13 from 12:00 PM - 1:00 PM Polk County Polk County Meet and Greet with Senator Chuck Grassley Join Zach Lahn and U.S.

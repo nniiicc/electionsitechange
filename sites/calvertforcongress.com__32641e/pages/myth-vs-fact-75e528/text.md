@@ -9,13 +9,7 @@ It’s important to note that the “fair tax” proposal includes the complete 
 LIE #2 Young Kim’s ad calls Ken Calvert corrupt.
 This is another desperate lie.
 The Press Enterprise and Orange County Register have called this attack “FALSE.” In response to allegations, they wrote “Calvert didn’t do that.” Ken is the only candidate in the 40th District who is endorsed by sheriffs, district attorneys, and local law enforcement because he’s always supported law and order.
-Considering Young Kim pushed to condemn President Trump, and said she’d “ whip his butt ,” it’s no wonder Nancy Pelosi was thrilled to have her join her bill signing.
-LIE #5 Young Kim claimed she has passed 50 bills into law.
-False!
-A quick search of the last three Congresses (her entire tenure) shows she passed TWO bills…to name Post Offices.
-Compare that to Rep.
-Calvert’s lengthy record of accomplishment for the people of Orange and Riverside Counties – millions for important projects from water, infrastructure, fire reduction and more.
-In a recent article , Calvert’s colleagues state “for the national security of the United States, it’s hard to find somebody who is more important than Ken Calvert. … He knows defense, the intricacies, the details like nobody — like nobody.” Paid for by the Calvert for Congress Committee FEC ID: C00257337 Copyright © # Calvert For Congress - All Rights Reserved.
+Paid for by the Calvert for Congress Committee FEC ID: C00257337 Copyright © # Calvert For Congress - All Rights Reserved.
 Powered by Privacy Policy Get Involved!
 Sign up to join our campaign and learn about exciting events!
 Join Team Calvert

@@ -1,11 +1,10 @@
 {
  "description": "Play the Darryl Block Canvassing Challenge, rack up points, climb the leaderboard, and compete for campaign merch before Election Day.",
  "final_url": "https://www.darrylblock.com/canvassing-challenge",
- "fingerprint": "28ec809c9cd0a5ec77211d3faec3f113f665a181",
+ "fingerprint": "99dd5d099bcfb1ca9f42fe37469c2280319b8aaa",
  "format": 3,
  "paid_for_by": "Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Condition",
+ "rendered": false,
  "title": "Canvassing Challenge | Darryl Block for Florida House 36",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

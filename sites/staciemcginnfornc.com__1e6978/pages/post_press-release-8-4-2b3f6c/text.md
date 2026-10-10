@@ -3,6 +3,6 @@ Proficiency scores in both math and reading continue to register at pre-pandemic
 We’ll focus on the fundamentals rather than political agendas,’ McGinn concluded.
 It’s important that kids have access to the resources they need to succeed.
 Parents have rights (and obligations) to be involved in their children’s education.
-WATCH "ALWAYS PUT YOUR KIDS FIRST" HERE Recent Posts See All NEW AD: Stacie McGinn Calls Out Woodson Bradley's Rewriting of History Around Her Involvement in an Illegal Pyramid Scheme Stacie McGinn Slams Woodson Bradley for Missing Final Vote on “Iryna’s Law” in Second Digital Ad NC Senate Candidate Stacie McGinn Reports $275,000 in Cash on Hand as of June 30th, Outperforming Her Opponent Woodson Bradley ABOUT PLATFORM VOLUNTEER PRESS RELEASES EVENTS PRIVACY POLICY TERMS & CONDITIONS DONATE Stay Connected.
+WATCH "ALWAYS PUT YOUR KIDS FIRST" HERE Recent Posts See All WOODSON BRADLEY FAILED TO VOTE FOR IRYNA’S LAW, AND NOW SHE’S LYING ABOUT IT NEW AD: Stacie McGinn Calls Out Woodson Bradley's Rewriting of History Around Her Involvement in an Illegal Pyramid Scheme Stacie McGinn Slams Woodson Bradley for Missing Final Vote on “Iryna’s Law” in Second Digital Ad ABOUT PLATFORM VOLUNTEER PRESS RELEASES EVENTS PRIVACY POLICY TERMS & CONDITIONS DONATE Stay Connected.
 Like, follow, and share.
 PAID FOR BY STACIE MCGINN FOR NC SENATE bottom of page

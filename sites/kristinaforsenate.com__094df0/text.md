@@ -1,7 +1,7 @@
 Skip to main content JavaScript is required for the signup forms on this page.
 Please enable JavaScript or contact us directly .
 About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate About ▼ Meet Kristina Why Kristina Priorities Events News & Media ▼ In the News Media Gallery Get Involved ▼ Events Volunteer Host an Event Invite Kristina Endorse Kristina Contact Donate Now General Election: November 3, 2026 — Donate Before the Deadline → 47 All In For The 47th District Because Home is Worth Fighting For.
-Donate Now Join the Team Join the Fight.
+Donate Now Join the Team Endorsed By Endorsed By Join the Fight.
 Get updates straight to your inbox.
 I'm All In * Required fields Yes, I want to receive text updates from the campaign ✕ By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Friends of Kristina at the number provided, including messages sent by auto dialer.
 Message frequency varies.

@@ -2,5 +2,4 @@ Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Pl
 As a candidate for Congress in South Carolina’s 2nd District, he emphasizes the importance of engaging voters, expanding the base, and bringing fresh energy into the political process.
 With a focus on unity and progress, this message highlights the role of a new generation in shaping the future and ensuring that leadership reflects the people it serves.
 This campaign is about showing up, stepping forward, and building momentum, together.
-Previous The Type Of Candidate I Am Next Speaking at Mount Anna Baptist Church You Might Also Like Speaking at Mount Anna Baptist Church 6th Annual Greek Fest No Kings Rally, Nick Cannon comments on Democrats, Stephen A Smith on the Iran war | EP.
-113 New Times Require New Leadership Speaking at Friendship Baptist Church Meet Zyon Khalifa Platform Volunteer Privacy Policy
+Previous The Type Of Candidate I Am Next Speaking at Mount Anna Baptist Church You Might Also Like Speaking at Mount Anna Baptist Church 6th Annual Greek Fest Speaking at Friendship Baptist Church The Type Of Candidate I Am Lexington County Democratic Convention Meet Zyon Khalifa Platform Volunteer Privacy Policy

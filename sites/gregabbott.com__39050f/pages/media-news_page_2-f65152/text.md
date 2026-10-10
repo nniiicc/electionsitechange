@@ -1,27 +1,34 @@
-Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page DO YOU TAKE ADVICE FROM RADICAL NATIONAL DEMOCRATS?
-GINA DOES.
-Oct 3, 2026 AUSTIN – Gina Hinojosa’s long list of far-left progressive mentors includes Gavin Newsom, Kamala Harris, JB Pritzker, Stacey Abrams, Beto O’Rourke, and James Talarico.
-Hinojosa wants to turn Texas into a radical socialist playground that her Democrat idols would be...
-GINA HINOJOSA DOES NOT SUPPORT TEXAS LAW ENFORCEMENT Oct 2, 2026 AUSTIN — Gina Hinojosa has tried to dodge her record against law enforcement as a “mere distraction,” but it won’t work.
-As we enter Texas Law Enforcement Appreciation Month, the more than 100,000 Texans who put their lives on the line every day to ensure law and...
-HIGH TAX HINOJOSA WANTS TO RAISE TAXES ON TEXAS SMALL BUSINESSES Oct 1, 2026 AUSTIN — Don’t let her Whataburger prop cup distract you, Gina Hinojosa wants to raise your taxes.
-She said a state income tax "makes sense," has a history of raising property taxes, and she even wants to raise taxes on Texas businesses.
-Hinojosa’s goal is “reining...
-GENDER BENDER GINA: TRANS-ING YOUR KIDS FOR THE “SOCIALIST GOOD” Sep 30, 2026 AUSTIN – As the most progressive liberal in the Texas Legislature, Gina Hinojosa repeatedly put the socialist left’s radical gender agenda ahead of the health and wellbeing of impressionable young children.
+Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store Press & Updates Media & News The latest updates from Governor Greg Abbott and Texans for Greg Abbott.
+October 1, 2026 HIGH TAX HINOJOSA WANTS TO RAISE TAXES ON TEXAS SMALL BUSINESSES AUSTIN — Don’t let her Whataburger prop cup distract you, Gina Hinojosa wants to raise your taxes.
+She said a state income tax “makes sense,” has a history of raising property taxes, and she even wants to raise taxes on Texas businesses.
+Hinojosa’s goal is “reining in” Texas job creators and “making them pay.” Texas is […] Read More → September 30, 2026 GENDER BENDER GINA: TRANS-ING YOUR KIDS FOR THE “SOCIALIST GOOD” AUSTIN – As the most progressive liberal in the Texas Legislature, Gina Hinojosa repeatedly put the socialist left’s radical gender agenda ahead of the health and wellbeing of impressionable young children.
 “Gina Hinojosa has deserted common sense.
-Gender...
-Governor Abbott Highlights the Abbott Affordability Agenda with Rural Texans in Hemphill Sep 29, 2026 Discusses Action to Waive Dyed Diesel Restrictions to Relieve Diesel Costs HEMPHILL – Governor Greg Abbott today visited the Feed Store Cafe, a local diner known for its friendly atmosphere and Southern comfort food, where he heard from rural Texans about issues that...
-SOCIALIST GINA HINOJOSA: A THREAT TO TEXAS VALUES Sep 29, 2026 AUSTIN – Gina Hinojosa is headed to Nacogdoches on Wednesday for a campaign event originally hosted by the Pineywoods Young Democratic Socialists of America — until the socialist group deleted its post and “passed the torch” to the normie Democrat student group.
-The...
-GINA HINOJOSA: EXTREME LIBERAL – FARTHER LEFT THAN SOCIALIST JAMES TALARICO Sep 28, 2026 AUSTIN — Each session Gina Hinojosa has been in the Texas Legislature, she has been named among the top eight most progressive Democrats – even more liberal than James Talarico.
+Gender Bender Gina not only supported sex changes for kids, but she also wanted any child who […] Read More → September 29, 2026 Governor Abbott Highlights the Abbott Affordability Agenda with Rural Texans in Hemphill Discusses Action to Waive Dyed Diesel Restrictions to Relieve Diesel Costs HEMPHILL – Governor Greg Abbott today visited the Feed Store Cafe, a local diner known for its friendly atmosphere and Southern comfort food, where he heard from rural Texans about issues that matter most to their community and discussed the Abbott Affordability Agenda, and highlighted his recent action to waive restrictions on […] Read More → September 29, 2026 SOCIALIST GINA HINOJOSA: A THREAT TO TEXAS VALUES AUSTIN – Gina Hinojosa is headed to Nacogdoches on Wednesday for a campaign event originally hosted by the Pineywoods Young Democratic Socialists of America — until the socialist group deleted its post and “passed the torch” to the normie Democrat student group.
+The event didn’t go away.
+Same time.
+Same place.
+And the Young Democratic […] Read More → September 28, 2026 GINA HINOJOSA: EXTREME LIBERAL – FARTHER LEFT THAN SOCIALIST JAMES TALARICO AUSTIN — Each session Gina Hinojosa has been in the Texas Legislature, she has been named among the top eight most progressive Democrats – even more liberal than James Talarico.
 In fact, one of those years, Hinojosa was rated the number one most liberal member.
-The...
-GINA HINOJOSA REFUSES TO STAND UP FOR ELECTION INTEGRITY Sep 27, 2026 AUSTIN — New billboards across Texas are exposing Gina Hinojosa’s record allowing illegal immigrants to vote in our elections.
-While in the Texas House of Representatives, Hinojosa was derelict in her duty to vote for a bill ensuring only United States citizens can...
-GINA: INCOME TAXES FOR ALL!
-IT JUST ‘MAKES SENSE.’ Sep 26, 2026 AUSTIN — New billboards across Texas are exposing Gina Hinojosa’s record of supporting higher taxes — including her longtime push for a state income tax.
+The radical recognition is calculated based on voting record – the one thing from […] Read More → September 27, 2026 GINA HINOJOSA REFUSES TO STAND UP FOR ELECTION INTEGRITY AUSTIN — New billboards across Texas are exposing Gina Hinojosa’s record allowing illegal immigrants to vote in our elections.
+While in the Texas House of Representatives, Hinojosa was derelict in her duty to vote for a bill ensuring only United States citizens can vote in Texas elections.
+In 2025, she was absent for the final vote to require it […] Read More → September 26, 2026 GINA: INCOME TAXES FOR ALL!
+IT JUST ‘MAKES SENSE.’ AUSTIN — New billboards across Texas are exposing Gina Hinojosa’s record of supporting higher taxes — including her longtime push for a state income tax.
 For Hinojosa, more taxes are the fix.
-During her time in the Texas Legislature, she voted in favor of higher...
-HYPOCRITE HINOJOSA VOTED TO TAX YOU EVEN AFTER YOU DIE Sep 25, 2026 AUSTIN – Gina Hinojosa pretends to be in favor of making Texas more affordable, but her voting record shows that she wants to tax you at every opportunity — even after you die.
-“Socialist Democrats like Gina Hinojosa want to hike your property taxes, make you... « Older Entries Next Entries » Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+During her time in the Texas Legislature, she voted in favor of higher property taxes 40 separate times, and supported taxes on inheritance, […] Read More → September 25, 2026 HYPOCRITE HINOJOSA VOTED TO TAX YOU EVEN AFTER YOU DIE AUSTIN – Gina Hinojosa pretends to be in favor of making Texas more affordable, but her voting record shows that she wants to tax you at every opportunity — even after you die.
+“Socialist Democrats like Gina Hinojosa want to hike your property taxes, make you pay a new state income tax, and even […] Read More → September 24, 2026 GINA: VIOLENT CRIMINAL ILLEGALS BEFORE TEXAS FAMILIES AUSTIN – Gina Hinojosa had the chance to stand with Texas families by supporting Jocelyn’s Law, a bill that would deny bail to illegal immigrants charged with a violent crime.
+But instead, she chose to let criminal illegals roam free and ravage Texas families.
+What’s worse, when lawmakers took a final vote on the bill, […] Read More → September 24, 2026 Governor Abbott Hosts Rural Affordability Roundtable in Texarkana TEXARKANA – Governor Greg Abbott today traveled to Texarkana to meet with rural Texans to discuss the Abbott Affordability Agenda and how his plan will lower costs for families and businesses.
+The discussion took place at Miller Bowie Supply, a local business serving the agricultural community with the equipment and supplies farmers and ranchers rely […] Read More → September 24, 2026 Governor Abbott Talks Affordability with Rural Texans in Sherman SHERMAN – Governor Greg Abbott today met with residents at MG’s Burger Restaurant, a longtime local diner in Sherman known for classic American fare and a welcoming community atmosphere, to discuss how lowering the cost of living can strengthen rural communities.
+Governor Abbott was joined by Representative Shelley Luther.
+“My goal is to empower Texans to keep […] Read More → September 24, 2026 Governor Abbott Meets with Rural Texans to Discuss the Abbott Affordability Agenda in Wichita Falls WICHITA FALLS – Governor Greg Abbott today spoke with Wichita Falls residents at the Cattlemen’s Trailer and Ag Supply LLC, a local business that provides livestock equipment.
+The Governor heard directly from rural Texans on the cost of living and how the Abbott Affordability Agenda directly address high costs.
+Governor Abbott was joined by Representative […] Read More → ← Newer 1 2 3 4 … 103 Older → Endorsed By Texas Realtors Houston Police Officers Union Teamsters Local 988 Lumbermen's Association of Texas National Border Patrol Council National Federation of Independent Businesses National Latino Police Officers Association Susan B.
+Anthony List Texas Association of Business Texas Border Sheriff's Association Texas State Association of Firefighters Texas & Southwestern Cattle Raisers Association Texas Farm Bureau Texas Trucking Association Texas Realtors Houston Police Officers Union Teamsters Local 988 Lumbermen's Association of Texas National Border Patrol Council National Federation of Independent Businesses National Latino Police Officers Association Susan B.
+Anthony List Texas Association of Business Texas Border Sheriff's Association Texas State Association of Firefighters Texas & Southwestern Cattle Raisers Association Texas Farm Bureau Texas Trucking Association Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
 All rights reserved.
+Join Greg Today − " * " indicates required fields First Name * Email * Zip Code * Cell Phone Yes, I would like to receive text updates from Texans for Greg Abbott.
+By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the Terms & Privacy Policy for auto dialed messages to the phone number you provide.
+Message frequency may vary.
+Msg&data rates may apply.
+Reply STOP to stop and HELP for help. Δ

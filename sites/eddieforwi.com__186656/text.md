@@ -1,8 +1,12 @@
 Get Involved Donate About Eddie What Matters Vote Bob?
-The Team Spread the Word What's New Wisconsin State Assembly · District 63 Eddie Phanichkul for State Assembly “I say NO to AI Data Centers.
-Save our farmland!” Donate Now Get Involved Scroll Our Priorities Together, let's lower property taxes , fully fund education , and stop AI data centers from stealing our farmland and resources.
-Upcoming Event Say Cheese Candidate Forum Wehr Nature Center Wednesday, September 23, 2026 5:30 - 7 PM 9701 W College Ave, Franklin, WI 5313 All ages!
-Grab a bite, strike up a chat, and get to know the candidates—meet Local State Candidates Trevor Jung, Eddie Phanichkul, and Ben Brist “People x Conversations x Change” Consider making a donation to the cause!
+The Team Spread the Word What's New Wisconsin State Assembly · District 63 Eddie Phanichkul for State Assembly “NO AI data centers without long term safeguards!
+Protect our resources, and save our farmland!” Donate Now Get Involved Scroll Our Priorities Together, let's lower property taxes , fully fund education , and stop AI data centers from stealing our farmland and resources.
+Upcoming Event Weekends of Action MOTW Franklin Saturday, October 10, 17, 23, and 30, 2026 10 AM - 4 PM 2850 W.
+Rawson Ave., Franklin, WI 53132 All ages!
+Come canvas with us!
+First time?
+No problem!
+From now until election day, we will be launching canvases from MOTW Coffee + Pastries on Saturdays at 10 AM in Franklin “People x Conversations x Change” Consider making a donation to the cause!
 Secure donations via ActBlue Meet the Candidate Watch Eddie's message for District 63 # days until Primary August 11, 2026 # days until General November 3, 2026 Why District 63 Needs New Leadership Franklin, Caledonia, and Raymond families deserve a representative who fights for them.
 Community First Rooted in Franklin, Caledonia, and Raymond, fighting for working families in District 63.
 Fresh Leadership New ideas and a bold vision to move District 63 forward after years of stagnation.

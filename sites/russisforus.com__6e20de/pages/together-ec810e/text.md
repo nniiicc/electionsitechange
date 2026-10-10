@@ -28,8 +28,7 @@ He’s for US.
 Contact me to put a sign up at your home, office, or vacant lot.
 Contact me for some business cards to share with everyone you come in contact with Go to the Media Pages of this site and download Business Cards, Signs, T-Shirts and Flyers to print and share on your own Volunteer to help with: Sign Placement Door to Door Constituent contact Phone and/or Text Constituent contact Website Management Office Management Print materials design Contact me with names and contact information of groups interested in hearing from me Contact me with names and contact information of significant donors you know Give a small donation to show support and help with necessary expenses With Your Help I can help all of us restore this country to its former glory and more.
 We Can Do This TOGETHER!
-Donate Now Search Search Recent Posts Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Could this be the case that takes Voter ID to the Supreme Court before 11/3/2026?
-Recent Comments No comments to show.
+Donate Now Search Search Recent Posts Money Wins Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Recent Comments No comments to show.
 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
 Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
 Paid for by David Russ Is For US.

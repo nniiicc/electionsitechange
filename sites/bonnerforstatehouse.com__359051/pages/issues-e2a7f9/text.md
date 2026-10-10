@@ -33,6 +33,13 @@ When I joined the U.S.
 Army I swore an oath to protect our country.
 When I became a father, I made a vow to protect my family.
 I have a deep understanding that the Second Amendment is about protecting our country, our homes, and our loved ones.
-Contact Email * Name * Subject Message Thanks!
+Contact Email * Phone Name * Subject Message Yes, please text me updates from the campaign.
+By providing your telephone number, you consent to receive calls and text messages.
+Message and data rates may apply.
+Message frequency may vary.
+Messaging may include requests for donation.
+Reply "STOP" to opt-out & "HELP" for help.
+View Privacy Policy for more info.
+Send Thanks!
 Message sent.
-Send Join our mailing list Subscribe Now Paid for by Committee to Elect Josh Bonner Privacy Policy bottom of page
+Join our mailing list Subscribe Now Paid for by Committee to Elect Josh Bonner Privacy Policy bottom of page

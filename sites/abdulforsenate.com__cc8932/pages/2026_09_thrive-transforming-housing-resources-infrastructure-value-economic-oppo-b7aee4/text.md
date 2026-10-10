@@ -1,0 +1,42 @@
+Donate now!
+Our campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Close Facebook X Bluesky Instagram YouTube TikTok Abdul for U.S.
+Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Policy Agenda THRIVE: Transforming Housing, Resources, Infrastructure, Value & Economic Opportunities September 15, 2026 Investment That Reaches Our Communities – On Our Terms Black communities across Michigan have too often been an afterthought in federal policy with promised investment that arrives late, falls short, or comes with no way to measure whether it actually made a difference.
+Abdul’s THRIVE Agenda sets a different standard: real accountability and measurable results.
+Access to Capital & Minority Business Growth Close the lending and contracting gap – Expand Community Development Financial Institution (CDFI) Funds and Small Business Administration (SBA) lending to minority-owned businesses, with a goal of doubling the share of SBA-backed loans reaching Black- and Latino-owned firms within five years, and hold federal agencies accountable to disadvantaged-business contracting targets with real penalties for missing them.
+Transparency and technical assistance – Require federal lending data to be published by census tract and race on a public dashboard, and fund Minority Business Development Agency centers and CDFI technical-assistance grants so entrepreneurs get real help with applications and compliance.
+Affordable Housing & Homeownership Increase supply – Expand Low-Income Housing Tax Credit allocations paired with state gap financing, and tie federal incentives like HUD’s PRO Housing grants to local zoning reform, which will allow for supply-increasing changes like by-right multifamily and accessory dwelling units, reduced parking minimums, and firm permit review timelines, so red tape doesn’t block new units.
+Make ownership and affordability real – Fix HUD’s Area Median Income calculations to use local, not regional, income data; expand first-generation down-payment assistance and FHA/USDA loan access in majority-Black and majority-Latino neighborhoods; tie federal investment to tenant protections and right-to-counsel so revitalization doesn’t price out longtime residents.
+90-Day Housing Access for Veterans & Families A binding timeline – Require HUD-VASH and Housing Choice Voucher applicants to reach lease-up within 90 days of application, with public reporting by housing authority, and cut wait times by digitizing applications and allowing self-certification or virtual inspections for minor issues.
+Accountability and veterans first – Tie a share of HUD administrative fee funding to housing authorities meeting the 90-day benchmark, paired with technical assistance rather than punishment for under-resourced agencies, and expand HUD-VASH voucher allocations with VA caseworkers embedded locally to fast-track veteran eligibility.
+Improving Health & Access to Care Medicare for All – Fight to guarantee every single American cradle-to-grave health insurance without networks, premiums, co-pays, or deductibles.
+End discrimination against patients based on their insurance.
+Strengthen the safety net – Secure multi-year Community Health Center Fund reauthorization so Federally Qualified Health Centers can plan and hire beyond a year at a time, and establish Medicaid reimbursement parity for community health workers and patient navigators.
+Adjust rules to enable cities and counties to build, better partner with, and administer Federally Qualified Health Centers.
+Close food deserts and expand telehealth – Expand Healthy Food Financing Initiative grants to bring full-service grocery access into underserved neighborhoods, and make telehealth reimbursement permanent so care isn’t limited by transportation or provider shortages.
+Healthy Mothers & Healthy Babies Make coverage and care permanent – Pass Medicare for All to guarantee every single mother and baby dignified healthcare without premiums, co-pays, and deductibles, and also include coverage for doulas and midwives.
+At a minimum, lock in 12-month postpartum Medicaid coverage nationwide, expand Medicaid reimbursement for doulas and midwives, and fund community-based programs like Healthy Start and home-visiting services (MIECHV) nationwide.
+National RxKids – Expand the RxKids program nationwide, providing unconditional cash assistance to expectant and new mothers to empower young families to invest in their children.
+Support the whole family and track results – Strengthen and simplify WIC enrollment, pair maternal health investment with safe, stable housing support for pregnant and postpartum families, and direct Title V Maternal and Child Health Block Grant dollars specifically toward closing Black maternal mortality disparities, with public reporting by race and county.
+Environmental Justice & Clean Water Infrastructure Fix the water – Enforce full lead service line replacement well ahead of the EPA’s 2037 backstop, with priority funding for communities that can’t cover local match requirements, and expand PFAS remediation dollars for affected municipal water systems with mandatory public disclosure of test results by zip code.
+Guarantee 50 gallons of clean water per person per day (the basic minimum needed to drink, cook, and bathe) with water bills capped at 2% of household income and ironclad protections against shutoffs for families who can’t afford to pay.
+Guarantee cumulative impact review for air quality – Require regulators to assess a community’s existing pollution burden–industrial emissions, diesel truck and rail traffic, and other combined sources–before allowing any new pollution sources nearby, guaranteeing air quality doesn’t get worse in Michigan neighborhoods already experiencing the highest levels of pollution.
+Education & Workforce Pipeline Fund Underfunded School Infrastructure – Assure that every child goes to a school that is modern, clean, warm, and dry by updating funding formulas that deprive schools in urban communities from the infrastructure funding they need.
+Debt-free and Tuition-free Higher Education –Build a pathway to universal debt-free and tuition-free higher education for every learner.
+Invest in pathways – Expand Title III funding for HBCUs and community colleges, and grow DOL-registered apprenticeships.
+Modernize CTE and ease debt – Increase Perkins V funding for career and technical education in majority-Black and majority-Latino school districts, and expand loan forgiveness for graduates who return to work in high-need public service fields in the communities they came from.
+Voting Rights Restore and modernize voting protections – Support passage of the John Lewis Voting Rights Advancement Act to restore preclearance-style review in jurisdictions with a history of discrimination, and establish a federal automatic voter registration standard tied to DMV and public benefits enrollment.
+Count everyone and protect access – Increase outreach funding for accurate census counts in hard-to-count communities, since census data directly determines how much federal formula funding reaches these neighborhoods, and support same-day registration and secure drop-box access as a federal minimum standard.
+Join our movement Sign up for the latest updates from Abdul’s campaign.
+First name Email address Zip code Mobile number By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Abdul for U.S.
+Senate.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text START to opt in.
+Text HELP for help.
+Terms of Service and Privacy Policy apply.
+Join Us Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
+Senate PO Box 126 St.
+Clair Shores, MI 48080 Paid for by Abdul for U.S.
+Senate Contact the Campaign Speaking Request Jobs Privacy Policy Made with Middle Seat

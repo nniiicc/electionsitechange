@@ -4,14 +4,12 @@ That is why Senator Hills co-sponsored legislation to establish statewide safety
 The legislation would give law enforcement clear authority to address unsafe riding and create consistent safety standards across Illinois.
 This is not about banning e-bikes or e-scooters.
 It is about commonsense regulations that protect children, families and communities while giving law enforcement the tools they need.
-Share: More Posts Do You Know Where to Vote?
+Share: More Posts Darby Hills Earns Chicago Tribune Endorsement for State Senate State Senator Darby Hills has earned the Chicago Tribune Editorial Board’s endorsement in the race for Illinois’ 26th Senate District, with the board highlighting her willingness to work across the Do You Know Where to Vote?
 Early voting is happening NOW!
 We all know how quickly a day can get away from us, and you never know what might come up on Election Day.
 If you Endorsed by Algonquin Mayor Debby Sosine “Thank you to Algonquin Mayor Debby Sosine for your support!
 Working with local leaders helps me stay connected to what our communities need, and I’m proud to have Debby by Endorsed by Lake County Farm Bureau “Our farmers and farm families are an important part of the 26th District, and agriculture has a special place in our family’s history, too.
-My husband’s family has had a On the News: Fighting to Protect Children on E-Bikes “I’m a State Senator, but I’m a mom first.
-And when it comes to the safety of our kids, I take that responsibility seriously.
-“After hearing concerns from parents, police Prev Previous On ABC 7 Eyewitness News: Senator Hills Highlights Need for Statewide E-Bike Safety Standards Next Darby Hills’ Priorities Put Into Action Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
+My husband’s family has had a Prev Previous On ABC 7 Eyewitness News: Senator Hills Highlights Need for Statewide E-Bike Safety Standards Next Darby Hills’ Priorities Put Into Action Next Facebook Youtube Instagram X-twitter Tiktok Envelope-open-text Want a Darby Hills yard sign?
 They’re FREE!
 We’ll even deliver it and put it in your yard for you.
 All you have to do is fill out the form here , and we’ll take care of the rest!

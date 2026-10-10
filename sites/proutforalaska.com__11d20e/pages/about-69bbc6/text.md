@@ -8,4 +8,4 @@ I’ve also had the opportunity to work as an intern in the Office of Senator Li
 I know the needs of this district because I’ve lived them, and I believe we need representation who understands both the local challenges we face and the bigger systems that affect our state.
 Alaska isn’t just where I live, it’s who I am.
 I’m proud to call myself a True Alaskan, and I’m ready to stand up and be a voice for the people and communities that have shaped me. true alaskan. true leadership.
-Paid for by Prout for Alaska
+Paid for by Prout for Alaska 3900 Spruce Cape RD, Kodiak, Alaska, 99615

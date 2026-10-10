@@ -33,10 +33,16 @@ Dhingra has advocated for behavioral health bills, support for domestic Read Mor
 Access to healthcare, housing, education, broadband and childcare are some of the longstanding barriers that became even more apparent over the last year and a half.
 Sen.
 Manka Dhingra Read More Follow @ElectManka on the campaign trail: Join the campaign on social media to hear the latest directly from Manka!
-Follow Manka Dhingra #ago Lightbox link for post with description As the federal government continues to desimate...
+Follow Manka Dhingra #ago Lightbox link for post with description Please vote no on all 3 initiatives.
+These...
+Please vote no on all 3 initiatives.
+These initiatives are not about good policy but about bad politics; Brian Heywood politics.
+#nohate Thank you to Orna and BiIl Berryman and all the other great co-hosts for hosting such a great event for No Hate WA.
+When people learn that there are less ... than 10 trans school athletes in the entire state and that 100% of the girls will have to produce a physician's verification of biological sex in order to play sports, they truly understand that this is not about policy or protection of girls but political ideology in punching down.
+165 475 Share 1283135171724918_1481979303746612 Follow Manka Dhingra #ago Lightbox link for post with description As the federal government continues to desimate...
 As the federal government continues to desimate public health, in this Washington we can still get our insurance covered vaccine schedule based on science and data.
 Please get your flu and Covid vaccines ASAP.
-#VaccinesSavesLives 363 722 Share 1283135171724918_1478569637420912 Follow Manka Dhingra #ago Lightbox link for post with description Responsibility for rape is with the rapist....
+#VaccinesSavesLives 383 748 Share 1283135171724918_1478569637420912 Follow Manka Dhingra #ago Lightbox link for post with description Responsibility for rape is with the rapist....
 Responsibility for rape is with the rapist.
 Thank you Sexual Violence Center Cork for this graphic.
 5.4K 96 Share 1283135171724918_1474479164496626 Follow Manka Dhingra #ago Lightbox link for post with description Always a pleasure to see the incredible work ...
@@ -54,7 +60,4 @@ Thank you, Masti Bar and Grill, for being our generous food sponsor for Bollywoo
 People have raved about your food all year and can't wait to try it again. ... https://secure.actblue.com/donate/bollywood26?fbclid=IwY2xjawUaajNwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4QJBTb9ncn5GjOeCrW24YRP-DRIjAEPRanHp6nRx2VFqaGuWFirhaEbOKBIw_aem_c-jT9PoaWRFgb-bnhmHxDg 23 5 Share 1283135171724918_1463163372294872 Follow Manka Dhingra #ago Lightbox link for post with description Thank you Tasnim Rehamani Merchant for providing...
 Thank you Tasnim Rehamani Merchant for providing delicious desserts for Bollywood again this year!
 There is still time to buy tix for Saturday's event: https://secure.actblue.com/donate/bollywood26?
-19 7 Share 1283135171724918_1462505985693944 Follow Manka Dhingra #ago Lightbox link for post with description Thank you Congresswoman Suzan DelBene for joining...
-Thank you Congresswoman Suzan DelBene for joining me as our special guest for my annual Bollywood fundraiser on Sat.
-Come hear about her fight to take back the House in Congress.
-Get your Tix here: https://secure.actblue.com/donate/bollywood26 14 13 Share 1283135171724918_1461834335761109 Load More Paid for by Friends of Manka (D) Contact email: info@electmanka.com PO Box 2467 Redmond, WA 98073 Privacy Policy Terms of Service Code of Conduct
+19 7 Share 1283135171724918_1462505985693944 Load More Paid for by Friends of Manka (D) Contact email: info@electmanka.com PO Box 2467 Redmond, WA 98073 Privacy Policy Terms of Service Code of Conduct

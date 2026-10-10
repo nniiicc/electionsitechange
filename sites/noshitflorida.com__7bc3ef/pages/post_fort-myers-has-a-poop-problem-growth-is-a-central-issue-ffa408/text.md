@@ -1,6 +1,6 @@
 top of page SUBSCRIBE HOME ABOUT CINDY NO SHIT BOLD ACTION NEWS EVENTS Menu Close DONATE Fort Myers Has a Poop Problem.
 Growth Is a central issue.
-#ago 3 min read Manual's Branch near Fort Myers High School after 2020 sewage leak | WBBH There is a phrase no one wants associated with their waterways: “poop.” But for Fort Myers, fecal contamination in local waterways is a serious public-health and infrastructure issue.
+Oct 2 3 min read Manual's Branch near Fort Myers High School after 2020 sewage leak | WBBH There is a phrase no one wants associated with their waterways: “poop.” But for Fort Myers, fecal contamination in local waterways is a serious public-health and infrastructure issue.
 The uncomfortable question is not simply where the contamination comes from.
 It is whether the infrastructure is keeping pace with the growth happening around it.
 In 2020, a malfunctioning lift station released approximately 183,000 gallons of raw sewage into Manuel’s Branch, triggering a Florida Department of Environmental Protection consent order over water-quality violations and potential health risks. ( Gulf Coast News Now ) The problems have not stopped since.

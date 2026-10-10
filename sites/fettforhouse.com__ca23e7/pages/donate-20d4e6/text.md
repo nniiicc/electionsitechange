@@ -7,9 +7,10 @@ Campaigns take volunteers and support.
 Contribute today to keep this campaign going strong and ready for the next election!
 Request a Yard Sign!
 Fill out the form below!
-Name * Email address * Phone number * Include your address for the sign * Leave this field empty Submit form By providing your cell phone number, you are consenting to receive recurring automated text messages & automated calls from the Fett for Iowa House Campaign with news, updates, and information about the campaign and related issues.
+Name * Email address * Phone number * Include your address for the sign * By submitting your phone number you are agreeing to receive periodic text messages from us.
+Leave this field empty Submit form By providing your cell phone number, you are consenting to receive recurring automated text messages & automated calls from the Fett for Iowa House Campaign with news, updates, and information about the campaign and related issues.
 Message frequency will vary.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy policy and SMS terms available at: (Privacy Policy below) Fett For House Private Policy Download Donate Text "fettforhouse" to (888) 444-8774 to support Contact: info@fettforhouse.com Social Media Policy Facebook © # Fett for House Paid for by Fett for Iowa State House
+Privacy policy and SMS terms available at: (Privacy Policy below) Fett For House Privacy Policy Download Donate Text "fettforhouse" to (888) 444-8774 to support Contact: info@fettforhouse.com Social Media Policy Facebook © # Fett for House Paid for by Fett for Iowa State House

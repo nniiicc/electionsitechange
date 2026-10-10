@@ -1,1 +1,1 @@
-Facebook Home Meet Nathan Issues Events Contact Donate Select Page Events Facebook Prepared and paid for by the Neighbors for Nathan (Coulter) committee, PO Box 20751 Bloomington, MN 55420.
+Facebook Home Meet Nathan Issues Events Contact Donate Select Page Home Meet Nathan Issues Events Contact Donate Events Facebook Prepared and paid for by the Neighbors for Nathan (Coulter) committee, PO Box 20751 Bloomington, MN 55420.

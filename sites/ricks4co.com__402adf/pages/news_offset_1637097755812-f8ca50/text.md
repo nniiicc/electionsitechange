@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Morgan Anker October 25, 2021 Faces of the New American Majority: Rep.
 Naquetta Ricks Morgan Anker October 25, 2021 This week, Emerge launched Faces of NAM (#SayNAM) featuring Emerge alumnae across the country.
 Colorado State Rep.
@@ -56,4 +56,5 @@ Kwon Atlas July 21, 2020 Naquetta Ricks Could Be the First Liberian-American Ele
 Now, the immigrant from the West Africa state of Liberia has a strong shot of becoming the first Liberian-American to win a seat in the Colorado House of Representative, a major US state.
 Source: https://frontpageafricaonline.com/front-slider/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-congress/ Kwon Atlas July 21, 2020 Ricks takes lead in House District 40 Democratic primary Kwon Atlas July 21, 2020 Update: a 5 p.m. update from the Secretary of State shows that Ricks' lead is now up to 274 votes.
 Source: https://www.coloradopolitics.com/2020-election/ricks-takes-lead-in-house-district-40-democratic-primary/article_f1cae7b6-bbc5-11ea-9621-ffd4b9322881.html Newer Posts Older Posts Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

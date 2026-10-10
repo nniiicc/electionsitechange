@@ -6,8 +6,8 @@ Meet Jacob (About) Donate Facebook X (Twitter) Ballotpedia YouTube Supporters & 
 Email Me Jacob Anders is not a career politician.
 He found his inspiration in great leaders like Abraham Lincoln, Dwight Eisenhower, Franklin Delano Roosevelt, Teddy Roosevelt, and George Washington.
 He is a proven public servant and professional problem solver.
-He was elected as a Marion County Delegate for Bernie Sanders, then as a commissioner, where he delivered results for his community with common-sense governance.
-He has served for various political campaigns such as Ron Paul, Doug Jones, Jill Stein, Bernie Sanders, Michelle Grisham, Andrew Yang, and Marianne Williamson.
+He was elected as a Marion County Presidential Delegate and later as Commissioner, where he delivered results for his community with common-sense governance.
+He has served for various political campaigns such as Ron Paul and Andrew Yang.
 Anders has spent decades mastering the art of building coalitions, crafting winning strategies, and translating bold ideas into real policy victories.
 Now Jacob brings that same record of integrity and results to the national stage.
 As a digital ethics researcher, he has spent years analyzing the broken systems of economics, governmental, and technological by designing practical solutions that put people first.

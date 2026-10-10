@@ -7,7 +7,7 @@ He continues to dodge the hard-hitting questions and to leave Michiganders witho
 Michiganders are fed up.
 We’ll make sure they get the answers they deserve.
 We’ll see you on October 21st, Abdul.” Until then, learn more about Conman Abdul El-Sayed’s lies, corruption, and extremism at StopAbdul.com .
-Alyssa Brouillet Next Next AD: WE NEED TO END THE TARIFF WAR — NOW CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Alyssa Brouillet Previous Previous MIKE ROGERS ON FOX & FRIENDS: ABDUL EL-SAYED IS LIKE A GLITCHY AI CHATBOT Next Next AD: WE NEED TO END THE TARIFF WAR — NOW CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
 Box 132 St.
 Joseph, MI 49085 Mike Rogers is a former member of the U.S.
 Army.

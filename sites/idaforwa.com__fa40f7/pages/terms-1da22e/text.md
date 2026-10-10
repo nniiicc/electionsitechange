@@ -5,7 +5,14 @@ For assistance, reply HELP or email us at ida@idaforwa.com , or visit our websit
 You can reply STOP to opt out of text messages at any time.
 Text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for their marketing or promotional purposes.
 For more information about how we collect, use, or share your data, please review our Privacy Policy here .
-Follow Ida Keeley for WA #ago Lightbox link for post with description I am honored to be endorsed by the Washington...
+Follow Ida Keeley for WA #ago Lightbox link for post with description This endorsement from the Tulalip Tribes means a...
+This endorsement from the Tulalip Tribes means a great deal to me. 💛 I have worked alongside the Tulalip Tribes for years in different capacities: at the state, at the county, and in the courts.
+That work included State-Tribal MOUs, joint trainings, and serving as a liaison as they ... created their Legacy of Healing child advocacy center, among other meaningful partnerships.
+Those years taught me that successful government-to-government work begins with understanding sovereignty and respecting history, culture, and treaty rights.
+It grows through consistent communication and a deep regard for the longstanding ties between our communities.
+I am grateful for the trust placed in me.
+In Olympia, I will work to strengthen the government-to-government relationship between the state and Tribal nations.
+5 4 Share 1108195102383524_122116963142631455 Follow Ida Keeley for WA #ago Lightbox link for post with description I am honored to be endorsed by the Washington...
 I am honored to be endorsed by the Washington State Council of Firefighters.
 I have worked alongside firefighters and EMS throughout my career.
 I know the bravery they show every time they run toward danger.
@@ -14,7 +21,7 @@ I also know their workload is about to grow.
 As rural clinics and hospitals close, wildfires increase, and behavioral and mental health needs go unmet, more of those calls land on our fire and EMS crews.
 That will keep getting worse unless we push back on what is happening both federally and in Olympia.
 Thank you to the firefighters and the whole WSCFF team for trusting me to carry your voice to Olympia and push back.
-#WA39 #IdaForWA #WSCFF #Community #Representativeforall 11 0 Share 1108195102383524_122116844978631455 Follow Ida Keeley for WA #ago 11 1 Share 1108195102383524_122116617902631455 Follow Ida Keeley for WA #ago 7 1 Share 1108195102383524_122116564166631455 Follow Ida Keeley for WA #ago 🚨 ACTION ALERT: Stand Up for Head Start & Early Learning in WA State!
+#WA39 #IdaForWA #WSCFF #Community #Representativeforall 17 0 Share 1108195102383524_122116844978631455 Follow Ida Keeley for WA #ago 12 1 Share 1108195102383524_122116617902631455 Follow Ida Keeley for WA #ago 8 1 Share 1108195102383524_122116564166631455 Follow Ida Keeley for WA #ago 🚨 ACTION ALERT: Stand Up for Head Start & Early Learning in WA State!
 I sent in my comment and you can too!
 7 1 Share 1108195102383524_122116545938631455 Follow Ida Keeley for WA #ago Lightbox link for post with description Beyond grateful that Transportation for ...
 Beyond grateful that Transportation for Washington has endorsed my campaign for the 39th Legislative District!
@@ -46,11 +53,4 @@ Ballots are mailed October 9 in Snohomish County and October 16 in Skagit County
 Please vote early, and use a ballot drop box if you can!🗳️ #Idaforwa #39LD #Representativeforall #bestvolunteersever #readyforchange 34 3 Share 1108195102383524_122116298390631455 Follow Ida Keeley for WA #ago Lightbox link for post with description ‘Every October, organizations and individuals... ‘Every October, organizations and individuals unite across the country for a national effort to uplift the needs, voices, and experiences of domestic violence survivors.
 Congress declared the month of October to be Domestic Violence Awareness Month in 1989.
 Everyone has a role to play. ...
-You can: • Be a caring and consistent adult in the life of a child • Talk to loved ones about healthy relationships, red flags, and domestic violence • Create a culture of consent in your home • Use social media to raise awareness among your peers • Donate time, goods, or funds to your local domestic violence program • Advocate for policies that support survivors and their families’ **Demand accountability for those who cause the harm and violence Source: DVawareness.org/WithSurvivors Learn more at: https://wscadv.org/ https://dvs-snoco.org/ https://skagitdvsas.org/sdvsas-services/ 7 0 Share 1108195102383524_122116141190631455 Follow Ida Keeley for WA #ago Lightbox link for post with description Thank you to Deborah Parker, Tulalip, and ...
-Thank you to Deborah Parker, Tulalip, and everyone at the National Native American Boarding School Healing Coalition for leading this movement for truth, justice, and healing.
-And thank you to the Tribal nations of our region, including the Stillaguamish Tribe, Sauk-Suiattle Tribe,Upper Skagit ...
-Tribe, Swinomish Tribe, and the Tulalip Tribe, who have carried this history and continue to lead in our communities.
-I'm grateful to have walked and learned from you.
-We have to learn the history, mourn, and together change the story.
-Learn more at boardingschoolhealing.org.
-5 1 Share 1108195102383524_122115847946631455 Load More Paid for by Friends of Ida 731 State Route 9 NE 101 # 2033 | Lake Stevens , WA 98258
+You can: • Be a caring and consistent adult in the life of a child • Talk to loved ones about healthy relationships, red flags, and domestic violence • Create a culture of consent in your home • Use social media to raise awareness among your peers • Donate time, goods, or funds to your local domestic violence program • Advocate for policies that support survivors and their families’ **Demand accountability for those who cause the harm and violence Source: DVawareness.org/WithSurvivors Learn more at: https://wscadv.org/ https://dvs-snoco.org/ https://skagitdvsas.org/sdvsas-services/ 7 0 Share 1108195102383524_122116141190631455 Load More Paid for by Friends of Ida 731 State Route 9 NE 101 # 2033 | Lake Stevens , WA 98258

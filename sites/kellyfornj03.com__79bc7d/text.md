@@ -2,7 +2,9 @@ Skip to content Ryan Michael Kelly For Congress • NJ-03 About Issues Updates G
 I’m not.
 I’m Ryan Michael Kelly , an Independent candidate for Congress in New Jersey’s Third District.
 I’m running to fight for affordability, accountability, and a government that works for working people and actually listens to the communities it serves.
-Get Involved Campaign Updates Register to Vote Independent • NJ-03 Public service, education & civil rights Based in Hightstown Featured Campaign Series The Choice in NJ-03 Hear the candidates.
+Get Involved Campaign Updates Register to Vote Independent • NJ-03 Public service, education & civil rights Based in Hightstown 🎃 Sasquatch has a reminder!
+New Jersey's voter registration deadline is October 13, 2026.
+Watch the video → Official registration → Featured Campaign Series The Choice in NJ-03 Hear the candidates.
 See the context.
 Know where I stand.
 Voters deserve to hear directly from the people asking to represent them.

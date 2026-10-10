@@ -2,7 +2,7 @@ Skip to content Main Menu Home Issues Issues Make Life More Affordable Keep Our 
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
 Find Events Event Views Navigation List List #ago Upcoming Upcoming Select date.
-October 2026 Fri 9 Fall Internship August 25 - November 3 Team Darby is growing!
+October 2026 Sat 10 Fall Internship August 25 - November 3 Team Darby is growing!
 Senator Darby Hills has loved working alongside the talented interns who have been part of Team Darby, and this fall, she’s excited to expand the team and welcome a new group of motivated students.
 This is more than just an internship.
 It’s an opportunity to get hands-on experience in politics and […] Sat 10 Day of Action!

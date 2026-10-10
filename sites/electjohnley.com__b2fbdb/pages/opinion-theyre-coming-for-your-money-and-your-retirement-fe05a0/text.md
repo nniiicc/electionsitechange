@@ -44,7 +44,7 @@ They told you the tax would stay limited.
 They told you retirement income would be protected.
 They told you the pension funds were safe.
 None of it held.
-They are coming for more of your money, and they are coming for the savings you worked a lifetime to build. capital gains tax Income tax on all LEOFF1 Pension Fund Raid Pie Crust Promise Rep Larry Springer SB 6346 Spending Addiction Taxing Retirement Income uncontrolled spending Washington Washington income tax Washington State Legislature by John Ley previous Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset Help me fight for the people and common sense solutions.
+They are coming for more of your money, and they are coming for the savings you worked a lifetime to build. capital gains tax Income tax on all LEOFF1 Pension Fund Raid Pie Crust Promise Rep Larry Springer SB 6346 Spending Addiction Taxing Retirement Income uncontrolled spending Washington Washington income tax Washington State Legislature by John Ley previous Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset next Two Governors Agree: Washington Doesn’t Have a Revenue Problem—Olympia Has a Spending Addiction Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

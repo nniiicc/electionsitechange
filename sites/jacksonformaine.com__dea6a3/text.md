@@ -1,4 +1,4 @@
-Skip navigation menu NEW: RALLY WITH BERNIE SANDERS IN BANGOR, LEWISTON, AND BIDDEFORD, OCTOBER 10-11 RSVP About Troy Endorsements Priorities News Volunteer Events DONATE MAINER BY BIRTH.
+Skip navigation menu NEW: RALLY WITH BERNIE SANDERS IN BANGOR, LEWISTON, AND BIDDEFORD, OCTOBER 10-11 RSVP About Troy Endorsements Priorities News Volunteer Events Vote DONATE MAINER BY BIRTH.
 LOGGER BY TRADE.
 SENATOR FOR THE PEOPLE.
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and opting in, you consent to receive voter contact, donation asks, and informational messages from Troy Jackson for Maine.
@@ -7,7 +7,7 @@ Msg frequency varies.
 Reply HELP for assistance.
 Unsubscribe at any time by replying STOP.
 Terms of Service and Privacy Policy apply.
-About Troy Endorsements Priorities News Volunteer Events DONATE MAINER BY BIRTH.
+About Troy Endorsements Priorities News Volunteer Events Vote DONATE MAINER BY BIRTH.
 LOGGER BY TRADE.
 SENATOR FOR THE PEOPLE.
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and opting in, you consent to receive voter contact, donation asks, and informational messages from Troy Jackson for Maine.

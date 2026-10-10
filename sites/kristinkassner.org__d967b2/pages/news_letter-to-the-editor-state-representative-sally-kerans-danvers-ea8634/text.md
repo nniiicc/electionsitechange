@@ -1,0 +1,12 @@
+2026 Legislator of the Year Kristin Kassner Named Legislator of the Year by the Massachusetts Municipal Lawyers Association The lawyers who represent Massachusetts cities and towns honored Kristin for fighting to bring our communities more state aid and better tools to plan for the future.
+Read the story Maybe later $25 $50 $100 $250 Other amount 0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Letter to the Editor - State Representative Sally Kerans, Danvers News Oct 9 Written By Kristin Kassner H-W News To the Editor: The people of Ipswich, Hamilton, Topsfield, Rowley, Newbury and Georgetown are well-represented by state Representative Kristin Kassner.
+I hope the Second Essex voters return her to office to continue her work on behalf of her communities.
+As her colleague in the House, I can attest to Kristin’s effectiveness, integrity and commitment to her constituents.
+Her insights as a Planning Director are invaluable, and her recent legislative success with site plan legislation is exceptional.
+She wrote the legislation and built alliances to get it passed.
+In our work on the Ipswich River Water Resiliency Task Force Kristin is a valued teammate, along with state Senator Bruce Tarr, and will talk to and work with anybody to get results.
+In Kristin Kassner, our communities have a leader who uses her intelligence, talents and determination to advance legislation and set budget priorities for her six towns, all while adhering to a vision of our state that is forward thinking and humane.
+I encourage Second Essex neighbors to return Kristin to office so we can continue our work together for Topsfield and all of our communities.
+Sally Kerans, Danvers State Representative 13th Essex District Kristin Kassner https://kristinkassner.org Previous Previous Letter: Kassner is the Leader We Need Next Next Kassner’s Planning Background is an Asset, Not a Target Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
+Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

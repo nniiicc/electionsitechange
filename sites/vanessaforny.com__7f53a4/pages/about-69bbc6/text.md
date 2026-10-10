@@ -1,4 +1,4 @@
-Skip navigation menu Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate MEET VANESSA Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate MEET VANESSA VANESSA ARONSON is a dynamic leader and dedicated public servant running to represent the 73rd District of the New York State Assembly.
+Skip navigation menu Home About Issues Assembly District 73 Endorsements Events Volunteer News Contact Us Donate MEET VANESSA Home About Issues Assembly District 73 Endorsements Events Volunteer News Contact Us Donate MEET VANESSA VANESSA ARONSON is a dynamic leader and dedicated public servant running to represent the 73rd District of the New York State Assembly.
 Vanessa has spent her career advocating for our community’s most pressing issues, from affordability and safety to public education, accessibility, and grassroots public engagement.
 Most recently, Vanessa served as the Senior Director of Strategy at the ASPCA , where she worked to protect animals and strengthen our communities.
 She previously ran for City Council, placing in a close second place and is thrilled to be stepping up once again to serve our community.
@@ -15,4 +15,6 @@ Additionally, she serves as a New York County Judicial Delegate and Democratic C
 Her commitment to service extends beyond politics—she’s also a former Community Board 8 member and previously co-chaired the Tikkun Olam ("social justice") Committee at Park Avenue Synagogue, where she worked to support our most vulnerable neighbors and ensure the community’s voice would be heard.
 Vanessa’s academic credentials include degrees from University of Chicago and Harvard .
 Vanessa lives on the Upper East Side with her husband, Reid, and their two children.
-VANESSA ARONSON "I will fight to ensure every East Sider feels seen, heard, and valued." vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.
+VANESSA ARONSON "I will fight to ensure every East Sider feels seen, heard, and valued." Sign up now to volunteer with us.
+Dates and times now through Election Day!
+Volunteer Volunteer!! vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.

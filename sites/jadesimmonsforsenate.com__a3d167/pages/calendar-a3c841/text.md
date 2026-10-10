@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today Upcoming Events Mar 28 Jade to speak at kingdom of god prayer luncheon Saturday, March 28, 2026 12:00 PM 2:00 PM Google Calendar ICS This is a private event, but tickets may become available.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today Upcoming Events Mar 28 Jade to speak at kingdom of god prayer luncheon Saturday, March 28, 2026 12:00 PM 2:00 PM Google Calendar ICS This is a private event, but tickets may become available.
 Stay tuned!
 View Event → Mar 21 Senior Thriving Listening Party Saturday, March 21, 2026 1:00 PM 3:00 PM Google Calendar ICS If you are a senior intent on thriving in this season of life, or if you care for seniors in your family or as your profession, we want to hear from you.
 You must RSVP.
@@ -28,7 +28,8 @@ View Event → Jan 14 Jade to Preach at Inspire Church Wednesday, January 14, 20
 View Event → Jan 5 Charleston educational appearance Monday, January 5, 2026 10:00 AM 12:00 PM Google Calendar ICS Guest Speaker/Performer for Charleston County Schools Teachers and Admin Staff (Chas, S.C.) View Event → STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
-SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Questions for Team Future?
+Email info@jadesimmonsforsenate.com SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
 Senate .
 We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
 You may unsubscribe at any time.

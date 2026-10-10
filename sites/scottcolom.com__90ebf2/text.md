@@ -1,4 +1,4 @@
-Skip to content The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Info The Latest Priorities Scott’s Anti-Corruption Plan Endorsements Store Volunteer Voting Info Facebook X-twitter Instagram Tiktok Donate Scott Colom for Senate: MISSISSIPPI MATTERS.
+Skip to content The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info The Latest Issues Scott’s Anti-Corruption Plan Making AI Work for Mississippi Endorsements Store Volunteer Voting Info Facebook X-twitter Instagram Tiktok Donate Scott Colom for Senate: MISSISSIPPI MATTERS.
 Email Zip Code Cell Phone Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.
@@ -8,7 +8,7 @@ Email Zip Code Cell Phone Sign Up Play Video Scott Colom is a seventh-generation
 Guided by his Christian faith, Scott has dedicated his life to serving his neighbors and keeping them safe from violent criminals.
 Now he’s running to lower costs for families, save our Mississippi hospitals, and bring good jobs home.
 Scott loves his state and will always put Mississippi first – and he’ll work with anyone, Republican or Democrat, to get things done for us.
-Meet Scott Anti-Corruption Plan Donate to support colom for senate If you've saved your information with ActBlue Express, your donation will go through immediately.
+Meet Scott On The Issues Donate to support colom for senate If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate $ # Donate $ # Donate $ # Donate $ # Donate $ # Other Meet Scott Colom Putting Mississippi First.
 Scott Colom is a proud seventh-generation Mississippian who’s been a prosecutor, a judge, a widely-praised District Attorney, and now a candidate for the U.S.
 Senate.

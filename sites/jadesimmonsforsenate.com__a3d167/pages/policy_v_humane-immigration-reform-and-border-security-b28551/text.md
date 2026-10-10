@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today Humane Immigration Reform and Border Security The Problem The border isn’t just a political issue anymore, it’s a failure of leadership on both sides of the aisle.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today Humane Immigration Reform and Border Security The Problem The border isn’t just a political issue anymore, it’s a failure of leadership on both sides of the aisle.
 It is more politically profitable to point fingers, dismiss bipartisan legislation, and pit Americans against aspiring Americans.
 Meanwhile, no real action is taken to reform a broken system that leaves those who have tried to go through the system properly languishing in endless delay, those who have taken advantage of the system have gone without consequence or recourse, and criminals have been left to their own devices while ICE has failed miserably at chasing down real criminals while apprehending, and in some cases murdering, those that should not have been in their cross hairs.
 Through all of the chaos, communities on the front lines are dealing with the consequences every day: overwhelmed local services, strained law enforcement, and a system that leaves migrants stuck in limbo or fearing for their lives.
@@ -54,10 +54,11 @@ The truth is, that has not been the experience for so many who live here and cal
 Yet, fear, hate, crime and dysfunction is becoming the norm for many who were born here or came here imagining a different existence.
 A better system is way better than just a bigger wall.
 We can build something more powerful, more secure, and more humane for our future.
-Previous Healthcare That Works for People, Not Bureaucracies Next Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like The Thurgood Marshall Plan A New Era in Education Independence from Party Control Thrivability: Beyond Affordability to Economic Possibility Women’s Empowerment & A Fresh Take on Life and Choice STAY UPDATED Let’s Build the Future Together.
+Previous Healthcare That Works for People, Not Bureaucracies Next Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like Women’s Empowerment & A Fresh Take on Life and Choice The Thurgood Marshall Plan Healthcare That Works for People, Not Bureaucracies A New Era in Education A Breakthrough Brief: Thrivability for Small Business STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
-SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Questions for Team Future?
+Email info@jadesimmonsforsenate.com SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
 Senate .
 We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
 You may unsubscribe at any time.

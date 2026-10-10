@@ -12,6 +12,6 @@ She is also a wife, mother of four, and owner of several rescue dogs.
 Keller’s frustration with the lack of support for veterans drove her to run for Congress, and her platform is focused on veteran benefits, affordability, healthcare, data centers, and rural investment.
 Learn about her campaign: www.maurakeller.com Alex Waterson | Campaign Manager Alex Waterson joined Maura’s campaign in 2024 as a communications specialist and moved to the Campaign Manager role in May of 2026 as she oversaw a large fundraising push in the primary election.
 She has a BA and MA from Northumbria University in Newcastle Upon Tyne, England and is the founding President of the Fayette Young Dems.
-Next Next Press Release: Maura Keller Breaks District 3 Fundraising Record, Becomes First Democrat Ever to Raise $150,000 Maura Keller is a retired Lieutenant Colonel with the United States Army.
+Previous Previous Press Release: Maura Keller New Poll Has 3rd Congressional At 50% Jack, 45% Keller, 5% Undecided (+/- 5.6); 29% Improvement Over 2024 Next Next Press Release: Maura Keller Breaks District 3 Fundraising Record, Becomes First Democrat Ever to Raise $150,000 Maura Keller is a retired Lieutenant Colonel with the United States Army.
 Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
 Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

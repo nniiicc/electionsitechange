@@ -1,7 +1,7 @@
 Skip to content Home About Issues Volunteer Privacy Policy Risa Lombardo For Arizona About Contact Issues Privacy Policy Volunteer Volunteer Risa wants to hear from you.
 Contact her below or at lombardoforaz@gmail.com Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name Telephone Email Name * First Last Email * Telephone Number I want to receive texts Submit By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, event reminders) from Lombardo for AZ at the number provided, including messages sent by autodialer.
+Name * First Last Email * Number Email Name Telephone Number I want to receive texts Submit By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, event reminders) from Lombardo for AZ at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Donations may be solicited.
 Msg & data rates may apply.

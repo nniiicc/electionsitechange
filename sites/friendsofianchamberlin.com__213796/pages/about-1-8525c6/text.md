@@ -12,4 +12,4 @@ Today, Ian resides in South Toledo near the Toledo Zoo and is proud to call Nort
 He believes District 41’s greatest strength is its people; their work ethic, their pride in community, and their commitment to building a better future.
 Ian is running to help restore confidence that hard work can once again lead to stability and opportunity.
 By championing policies that support growth, strengthen neighborhoods, and invest in the next generation, he is committed to ensuring that District 41 is a place where families can continue to achieve the American Dream.
-Privacy Policy Donate Paid for by Friends of Ian Chamberlin
+Terms of Service & Privacy Policy Donate Paid for by Friends of Ian Chamberlin

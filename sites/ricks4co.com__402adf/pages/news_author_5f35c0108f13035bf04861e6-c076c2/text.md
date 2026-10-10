@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Guest User Guest User March 14, 2022 RHEA passes the House!
 Guest User March 14, 2022 HB22-1279 , the Reproductive Health Equity Act, sponsored by Representative Froelich, House Majority Leader Esgar, and Senator Gonzales passed through both the House Health & Insurance Committee and 2nd Reading in the House last week.
 Today, it passed its 3rd and final reading in the House of Representatives.
@@ -37,4 +37,5 @@ She asked her colleagues to join her in affirming their commitment to protect th
 Watch the full speech below: Guest User March 30, 2020 We did it!!
 Naquetta Ricks is on the June Ballot Guest User March 30, 2020 Thank you House District 40.
 Guest User March 25, 2020 APS Corona Virus Resources Guest User March 25, 2020 FREE Meal Distribution FREE Internet Access During Extended Spring Break Remote Learning Opportunities Mental Health Supports https://docs.google.com/document/d/1Eb3YtmWb8k-te3dSjlymD1RJcepjBTICV0u0klA_yLs/preview Guest User March 25, 2020 Tri-County Health issues "Stay-at-Home" order due to CoVid-19 Guest User March 25, 2020 https://www.auroragov.org/news/what_s_new/city_declares_state_of_disaster_amid_c_o_v_i_d-19 Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

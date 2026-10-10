@@ -7,4 +7,4 @@ With your support, Texas can take the leadership position that Biden and his Dem
 It’s high time that we remind these cowardly terrorists what Texans do to predators who prey on the innocent, and that Israel is not alone in this fight.
 For Texas, Israel, and America, Ben Mostyn Candidate for Texas House District 117 MostynForTexas.com Search for: Archives October 2023 July 2023 March 2023 Categories Uncategorized Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
 Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
-Follow Follow Follow Follow
+Follow Follow Follow Follow Follow

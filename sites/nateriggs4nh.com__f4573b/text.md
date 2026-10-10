@@ -2,9 +2,9 @@
 A Voice for Working Families Nate Riggs is a Master Barber, small business owner, and First Lieutenant in the New Hampshire Army National Guard.
 For 16 years in uniform and 11 years behind the barber's chair, he has served his community, built a successful business, and mentored soldiers and fellow tradespeople.
 Nate understands the challenges facing working families because he lives them.
-Hampton Voters Should Know Nate Riggs is a veteran, a small business owner, and acommon sense leader.
+Hampton Voters Should Know Nate Riggs is a veteran, a small business owner, and a common sense leader.
 He is committed to his family, his country, and his local community.
-Hampton voters can choose a different kind of representative to send to Concord: someone whose values are rooted in working class values and care for the dignity of veterans' service.
+Hampton voters can choose a different kind of representative to send to Concord: someone whose values are rooted in supporting the working class and caring for the dignity of veterans' service.
 View videos and photos Nate is running because working people deserve a representative who understands the realities of earning a paycheck, paying taxes, and running a small business.
 Strong Public Schools Education is the promise New Hampshire makes to its kids.
 Nate knows that promise must be funded.

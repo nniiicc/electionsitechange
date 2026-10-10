@@ -2,7 +2,7 @@ Skip to content Donate now to send Dr.
 Annie to the U.S.
 Senate STAND WITH Dr.
 Annie ANdrews Choose any amount.
-If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate Making A Difference Email Address Zip Code Phone Number (Optional) .
+If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate LOWER OUR COSTS Email Address Zip Code Phone Number (Optional) .
 By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Dr.
 Annie Andrews for Senate.
 Msg & data rates may apply.

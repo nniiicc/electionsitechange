@@ -1,10 +1,10 @@
-Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate Join Our Campaign!
+Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate Join Our Campaign!
 First Name First Name Email Email Phone Phone ZIP Code ZIP Code Submit By providing your email and mobile number, you agree to the privacy policy and to receive messages from Rascon for State Senate 2026 (messages may include donation links).
 Message frequency varies.
 Message & Data Rates May Apply.
 Reply HELP for help.
 Reply STOP to opt out.
-About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate Join Our Campaign!
+About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Donate Join Our Campaign!
 First Name First Name Email Email Phone Phone ZIP Code ZIP Code Submit By providing your email and mobile number, you agree to the privacy policy and to receive messages from Rascon for State Senate 2026 (messages may include donation links).
 Message frequency varies.
 Message & Data Rates May Apply.

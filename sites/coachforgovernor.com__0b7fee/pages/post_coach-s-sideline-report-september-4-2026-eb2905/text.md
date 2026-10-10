@@ -6,6 +6,6 @@ Scott Applewhite) 8/29/2026 Tuberville blasts Jones as 'beta male' in latest exc
 Tuberville reacts to ongoing US/Canada tariff war WATCH MORE ENDORSEMENT ALERT RECENT HIGHLIGHTS ✓ President Donald J.
 Trump ✓ U.S.
 Senator Katie Britt ✓ U.S.
-Senator Rick Scott ✓ Indiana Governor Mike Braun ✓ Alabama Lieutenant Governor Will Ainsworth ✓ Alabama Senate President Pro Tem Garlan Gudger ✓ Alabama House Speaker Nathaniel Ledbetter ✓ Farmers Federation of Alabama (ALFA) Recent Posts See All Coach's Sideline Report – October 2, 2026 Coach's Sideline Report – September 25, 2026 Coach's Sideline Report – September 18, 2026 DONATE CONTACT PRIVACY POLICY TERMS & CONDITIONS PAID FOR BY TUBERVILLE FOR GOVERNOR, INC.
+Senator Rick Scott ✓ Indiana Governor Mike Braun ✓ Alabama Lieutenant Governor Will Ainsworth ✓ Alabama Senate President Pro Tem Garlan Gudger ✓ Alabama House Speaker Nathaniel Ledbetter ✓ Farmers Federation of Alabama (ALFA) Recent Posts See All Coach's Sideline Report – October 9, 2026 Coach's Sideline Report – October 2, 2026 Coach's Sideline Report – September 25, 2026 DONATE CONTACT PRIVACY POLICY TERMS & CONDITIONS PAID FOR BY TUBERVILLE FOR GOVERNOR, INC.
 P.O.
 BOX 43124 BIRMINGHAM, AL 35243 bottom of page

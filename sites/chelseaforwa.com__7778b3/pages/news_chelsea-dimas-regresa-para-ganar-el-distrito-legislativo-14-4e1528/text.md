@@ -20,4 +20,5 @@ El evento destacará la visión de Chelsea para el 14 de septiembre y ofrecerá 
 Para obtener más información, visite chelseaforwa.com/events .
 ### Pagado por Chelsea Dimas for State Rep Pa’ la gente.
 For the people.
-Chelsea Dimas Chelsea Dimas for State Rep (D) PO Box 773 Sunnyside, WA 98944 About Get Involved Donate Made with Squarespace
+Chelsea Dimas Previous Previous It’s Official: We’re Running in 2026—Pa’ la Gente!
+Chelsea Dimas for State Rep (D) PO Box 773 Sunnyside, WA 98944 About Get Involved Donate Made with Squarespace

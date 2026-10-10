@@ -1,5 +1,5 @@
 Toggle navigation Join the Team Meet Phil Donate 10 events found.
-Events Views Navigation Event Views Navigation List List Month Day #ago 10/24/2018 October 24, 2018 - 10/8/2026 Now Select date.
+Events Views Navigation Event Views Navigation List List Month Day #ago 10/24/2018 October 24, 2018 - 10/9/2026 Now Select date.
 October 2018 Wed 24 VPR General Election Debate October 24, 2018 @ 7:00 pm - 8:00 pm Live on VPR November 2018 Thu 1 NBC Channel 5 Debate November 1, 2018 @ 7:00 pm - 8:00 pm Fri 2 Farm Bureau Candidate Meet and Greet November 2, 2018 @ 3:30 pm - 5:00 pm Trader Duke's Hotel, South Burlington Mon 5 14 County Tour November 5, 2018 Join Governor Phil Scott, our next Lt.
 Governor Don Turner, and many more for our 14 County Tour!
 The tour takes place the day before the election, where we'll visit Read More Tue 6 Election Night Celebration November 6, 2018 @ 6:30 pm - 11:00 pm Join Governor Scott on Election Night!

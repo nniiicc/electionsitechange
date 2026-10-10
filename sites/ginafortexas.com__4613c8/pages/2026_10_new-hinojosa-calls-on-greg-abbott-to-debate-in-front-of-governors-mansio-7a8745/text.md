@@ -11,7 +11,7 @@ The American Dream that I grew up understanding where if you worked hard, you wo
 We were the land of opportunity, but it is now out of reach for too many Texans.
 After 12 years of Greg Abbott, it is harder to make it in Texas than ever before.
 If you are not man enough to debate me, you don’t deserve to be the governor of Texas.” Recent campaign finance reports show Greg Abbott has spent $146 million trying to save his flailing reelection campaign, but he still can’t move the needle in his direction.
-Gina Hinojosa is leading Abbott in every recent independent poll because she is crisscrossing the state, responding directly to the needs of voters, and outlining her plan to secure the American Dream for Texans by saving public schools and putting money in people’s pockets.
+Gina Hinojosa is leading Abbott in recent independent polls because she is crisscrossing the state, responding directly to the needs of voters, and outlining her plan to secure the American Dream for Texans by saving public schools and putting money in people’s pockets.
 With just 25 days until the election, Texans are making it clear: they are over Abbott’s corruption and ready for Hinojosa’s leadership in the Governor’s Mansion.
 ### Join our team!
 Gina can only do this with a huge effort and we need your help!

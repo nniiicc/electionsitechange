@@ -1,4 +1,4 @@
-EVENTS VOLUNTEER PLATFORM ENDORSEMENTS DONATE Select Page NC HOUSE Tim Merrick A NEW DIRECTION FOR NORTH CAROLINA Families are working harder than ever, yet getting less in return.
+EVENTS VOLUNTEER PLATFORM ENDORSEMENTS VOTE DONATE Select Page NC HOUSE Tim Merrick A NEW DIRECTION FOR NORTH CAROLINA Families are working harder than ever, yet getting less in return.
 We deserve a future that works for all of us.
 I’m running because every child, every family, and every neighborhood in North Carolina deserves real opportunity, stability, and a fair shot to get ahead.
 DONATE MEET TIM GET A YARD SIGN JOIN OUR CAMPAIGN Meet Tim Merrick Tim has spent his career standing up for families, fairness, and the belief that everyone deserves a real chance to succeed.

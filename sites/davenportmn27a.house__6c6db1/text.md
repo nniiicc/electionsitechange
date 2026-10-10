@@ -1,4 +1,4 @@
-0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Service.
+0 Skip to Content Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Service.
 Accountability.
 Results.
 I’m running to represent Big Lake, Becker, Clear Lake, and our surrounding townships with disciplined leadership and a commitment to putting our communities first.

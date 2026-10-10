@@ -1,9 +1,10 @@
 {
- "description": "",
+ "description": "Find Amanda Janoo campaign events across Vermont: town halls, canvasses, phone banks, and campaign stops.",
  "final_url": "https://www.janooforvt.com/all-events/?event=2363",
- "fingerprint": "11b0f694b6061c680faf601973df17bc8fc652af",
+ "fingerprint": "1290e206eb8725957535763ff7e301623b057e56",
  "format": 3,
  "paid_for_by": "Paid for by Amanda Janoo for Governor P",
- "title": "Events – Amanda Janoo for Governor of Vermont",
+ "rendered": false,
+ "title": "Events - Amanda Janoo for Governor of Vermont",
  "years_mentioned": []
 }

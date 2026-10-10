@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → After 16 years in Washington , it’s time for Senator Chris Coons to come home.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → After 16 years in Washington , it’s time for Senator Chris Coons to come home.
 Help us send him into retirement. ↓ Three Ways to Help ↓ The Choice A Career Politician — or a Listening Physician.
 Senator Chris Coons has spent nearly sixteen years in Washington.
 That’s enough time to learn the cable‑news talking points, the fundraiser circuit, and the art of dismissing tough questions as “ancient history.” Dr.

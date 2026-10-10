@@ -17,8 +17,8 @@ Our Natural Environment Defend the Rural Boundary, conservation land, and Florid
 Veteran Services Expand care, mental health support, and services for those who served. ÁjgqÎ|QWERTYqwerty • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE • THE CANVASSING CHALLENGE KNOCK.
 SCORE.
 CLIMB THE LEADERBOARD!
-Think you’ve got what it takes to reach the top?
-Play the Darryl Block Canvassing Challenge, post your high score, and compete for campaign merch. ​ The winner will be announced November 1, just in time to rep Team Darryl on Election Day.
+Think you can top the leaderboard?
+Play the Darryl Block Canvassing Challenge, rack up points, and put your canvassing skills to the test. ​ Then turn that competitive spirit into real impact, chip in and help power Darryl’s campaign for District 36.
 PLAY NOW JOIN TEAM BLOCK COMMUNITY STARTS WITH US Darryl believes the best ideas start by listening to the people who live here.
 Join the campaign and help shape a stronger future for House District 36.
 MAKE A DONATION UPCOMING EVENTS CONTRIBUTIONS CAN BE MAILED TO: 411 W First St, Unit 5036, Sanford, FL 32771 Paid for by Darryl Block, Democrat for Florida House District 36 Vote by Mail VOTE EARLY where to vote check registration Register to Vote Privacy Policy Terms & Conditions Contact Us Accessibility Statement © # DARRYL BLOCK.

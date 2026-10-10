@@ -1,4 +1,5 @@
-top of page Home Meet Booker T Platform Get Involved Contact DONATE Booker T.
+top of page ​ 🗳️ VOTE TUESDAY, NOV 3, 2026 Early Voting: Oct 28–31 Check Voter Status Home VOTE!
+3 NOV 2026 Meet Booker T Platform Get Involved Contact DONATE Booker T.
 Newton ​​ A retired First Sergeant with 29 years of exemplary service in the U.S.
 Army, Booker T.
 Newton is a veteran whose leadership bridged the gap between tactical execution and strategic operations.
@@ -12,5 +13,8 @@ His platform is built on results, not political games: Economic Relief: Protecti
 Investment: Strengthening public education and supporting Oklahoma’s vital agricultural communities.
 Bipartisanship: Prioritizing solutions over party lines to solve real problems for the families of District 32. ​ Faith & Family ​ Guided by the core principles of faith and empathy, Booker is a family man—a devoted husband to Vetrece Newton, a father, and a grandfather.
 His work is driven by a commitment to human dignity and a belief that our diversity is the foundation of a stronger, shared future.
-BOOKER T NEWTON -STATE SENATE 32 - Authorized & Paid for by Friends of Booker T Newton for State Senate District 32 330 FORT SILL BLVD P.O.
-BOX 183 FT SILL, OK 73503 ​ ​ bottom of page
+BOOKER T NEWTON -STATE SENATE 32 - Authorized & Paid for by Friends of Booker T Newton for State Senate District 32 P.O.
+BOX 33183 FT SILL, OK 73503 ​ ​ Booker T.
+Newton is a retired member of the U.S.
+Army.
+Use of his military rank, job titles, service records, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense. bottom of page

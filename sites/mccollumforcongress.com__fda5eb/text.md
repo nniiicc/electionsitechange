@@ -1,18 +1,14 @@
 0 Skip to Content Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign DONATE Open Menu Close Menu DONATE Home About Betty Endorsements News Media Vote Get Involved Volunteer Events Lawn Sign Open Menu Close Menu Home About Betty Endorsements News Media Vote Folder: Get Involved Back Volunteer Events Lawn Sign DONATE SIGN UP FOR UPDATES CONGRESSWOMAN BETTY MCCOLLUM Delivering for Minnesota families and communities every day!
-Meet Betty Featured October 7, 2026 Election 2026: Where Candidates in All 435 U.S.
-House Races Stand on Marijuana Law Reform October 7, 2026 By Anthony Martinelli, The Marijuana Herald “4th Congressional District Betty McCollum (D) McCollum has consistently supported federal marijuana reform.
-She voted for the SAFE Banking Act in 2021 and for the MORE Act and Medical Marijuana Research Act in 2022.
-She subsequently cosponsored both the MORE Act and SAFE Banking Act.
-McCollum is also a cosponsor of the current MORE Act, H.R.
-5068, which would federally deschedule marijuana and eliminate federal criminal penalties.” Read more → October 7, 2026 October 1, 2026 morning take | Scores and Statments October 1, 2026 By Blois Olson, morning take “ RESPONSE: via Rep.
-Betty McCollum statement, McCOLLUM: ‘In 2002, I was one of 133 members of the House of Representatives to vote against the [war]. … At the time, I believed that President [George W.] Bush ’s decision to take America to war was terribly wrong.
-I stand by my vote. … Our leaders in Washington must heed the lessons of the Iraq War.
-Once again, our nation is mired in another destructive war of choice in the Middle East.’” Read more → October 1, 2026 September 30, 2026 2026 Election Guide: U.S.
-House District 4 – Betty McCollum September 30, 2026 By Damian Goebel, Community Reporter “Affordability of basic life necessities – food, gas, housing, utilities, healthcare, tuition – is my top issue for action.
-Prices are too high and many hard-working Minnesotans are struggling to make ends meet every month.
-These high prices have been inflicted on working people by Trump and MAGA Republicans.
-Trump’s tariffs are driving costs up, they are a tax on working people and businesses.
-The war in Iran is an economic disaster that is driving up the costs of fuel, fertilizer for farmers, food for families, and damaging our economy.” Read more → September 30, 2026 NEWS READ MORE Get Involved with Team Betty! volunteer DONATE Can you pitch in $15, $25, $50 or whatever you can to help re-elect Betty to Congress? $15 $25 $50 other Thank you for visiting my campaign website.
+Meet Betty Featured October 9, 2026 The House Democrats to watch on Appropriations next year October 9, 2026 By Samantha Handler and John Bresnahan, Punchbowl news “Rep.
+Betty McCollum (Minn.) is set to again lead the Defense panel.
+Democrats are already on a collision course with the White House over spending for the Iran war.
+This will only escalate if they get the gavels next year.” Read more → October 9, 2026 October 9, 2026 Largest Federal Employee Union Endorses Minnesota’s Trina Swanson for Election to U.S.
+House October 9, 2026 By AFGE “AFGE also has endorsed Peggy Flanagan for election to the U.S.
+Senate representing Minnesota and the following candidates for the U.S.
+House: Jake Johnson (CD-1), Matt Little (CD-2), and incumbent Reps.
+Kelly Morrison (CD-3), Betty McCollum (CD-4), and Ilhan Omar (CD-5).” Read more → October 9, 2026 October 9, 2026 Pentagon's 'disgusting' livestreamed execution plan provokes fierce backlash across political divide October 9, 2026 By The Guardian “And the Democratic representative Betty McCollum said: ‘ Secretary Hegseth’s desire to conduct a public execution is disturbing and should be stopped.
+The Army has not conducted an execution by firing squad since World War II and the U.S. has not had a public execution since 1936.
+Nidal Hasan has been found guilty of his crimes and should be held accountable for them but turning a federal execution into a media spectacle is appalling and unbecoming of the U.S. military .’” Read more → October 9, 2026 NEWS READ MORE Get Involved with Team Betty! volunteer DONATE Can you pitch in $15, $25, $50 or whatever you can to help re-elect Betty to Congress? $15 $25 $50 other Thank you for visiting my campaign website.
 If your intention was to visit my official House of Representatives website, please click here .
 (651) 603-1505 info@mccollumforcongress.com McCollum for Congress P.O.
 Box 14131 Saint Paul, MN 55114 PAID FOR BY McCOLLUM FOR CONGRESS

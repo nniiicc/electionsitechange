@@ -44,10 +44,7 @@ Brady has also said he’ll work to improve the education of risky teenage drive
 Good.
 That’s why this office is more important than many Illinoisans think.
 Read the endorsement in the Chicago Tribune here.
-Related Posts How Illinois Secretary of State Alexi Giannoulias spent his first 100 days in office Illinois Secretary of State Alexi Giannoulias has completed his first # days in office, a milestone used by political leaders since President Franklin Roosevelt to gauge leadership style and progress toward fulfilling campaign promises.
-Keep Reading → Alexi Giannoulias: 5 additives in ultraprocessed food put us at risk.
-Illinois wants to change that.
-Paint primer is how Consumer Reports describes titanium dioxide — the powdery chemical that whitens salad dressings, smooths chocolate and makes candy brighter.
-New state Keep Reading → Giannoulias Receives Major Endorsement Ahead of 2022 Secretary of State Dem Primary A former Illinois State Treasurer received a major endorsement to become the next Illinois Secretary of State.
-The Chicago Tribune reports that Alex Giannoulias won Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Secretary of State Giannoulias visits Peoria Illinois Secretary of State Alexi Giannoulias highlighted his plans to modernize his office in Peoria on Thursday.
+Keep Reading → Illinois Secretary of State-elect Alexi Giannoulias brings opponent Dan Brady onto transition team The winner of race for Illinois Secretary of State and his opponent are setting politics aside.
+Keep Reading → Congressman Bobby Rush and Former Pat Dowell Supporters Unite Behind Giannoulias Congressman Bobby Rush announced his endorsement of Democrat Alexi Giannoulias for Illinois Secretary of State along with a group of African-American elected officials who had previously endorsed Alderperson Pat Dowell for the statewide office Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

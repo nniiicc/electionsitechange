@@ -17,6 +17,6 @@ Or maybe you just want to look up you VUID number? https://www.votetexas.gov/reg
 As of March 4th, Texas primaries are complete and District 115 has no runnoffs.
 Fortunately for independent candidates, that means we can start collecting signatures to get access to the ballot for November.
 February 14, 2026 Uncategorized Declaration of Intent After appointing a treasurer with the TEC, you can file a Declaration of Intent to Run between November to December the year preceding the election. https://www.sos.state.tx.us/elections/candidates/guide/2026/ind2026.shtml February 10, 2026 Uncategorized Texas Ethics Commission To be a candidate, you first appoint a treasurer and file to receive an account in order to file the required campaign finance reports.
-At this point, you can legally declare an “intent to run.” https://www.ethics.state.tx.us Next Page » Blog at WordPress.com.
+At this point, you can legally declare an “intent to run.” https://www.ethics.state.tx.us Next Page » Create a free website or blog at WordPress.com.
 Subscribe Subscribed kanekelly.com Sign me up Have a WordPress.com account?
 Log in now. kanekelly.com View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

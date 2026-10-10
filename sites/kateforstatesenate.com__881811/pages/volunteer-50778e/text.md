@@ -1,4 +1,4 @@
-Tweets by katyperrone13 top of page Meet Kate Donate Issues Contact Volunteer More Use tab to navigate through the menu items.
+Tweets by katyperrone13 top of page Meet Kate Issues Volunteer Donate Contact More Use tab to navigate through the menu items.
 Join the Team!
 Illinois is worth fighting for, but Kate can't do it alone.
 Real change starts with people like you who are ready to step up, get involved, and make a difference.

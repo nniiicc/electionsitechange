@@ -1,10 +1,6 @@
 Skip navigation menu Meet Cyndi Priorities Events Store Volunteer Media Contact Donate Meet Cyndi Priorities Events Store Volunteer Media Contact Donate Join Cyndi as she travels across Oklahoma!
 The Munson Minivan Tour Campaign Events Join Us For Events Around the State!
-Wilburton Meet and Greet Wilburton Library 301 W Ada Ave Wilburton, OK 74578 Join Cyndi Munson in Wilburton at the Wilburton Library to hear about her vision for the future of Oklahoma as Governor!
-RSVP Poteau Meet and Greet Poteau Chamber of Commerce 501 S Broadway St Poteau, OK 74953 Join Cyndi Munson in Poteau at the Poteau Chamber of Commerce to hear about her vision for the future of Oklahoma as Governor!
-RSVP Pocola Meet and Greet Nana's Coffee Shop 103 S Pocola Blvd Pocola, OK 74902 Join Cyndi Munson in Pocola at Nana's Coffee Shop to hear about her vision for the future of Oklahoma as Governor!
-RSVP Sallisaw Meet and Greet Wheeler Event Center 103 N Wheeler Ave Sallisaw, OK 74955 Join Cyndi Munson in Sallisaw at the Wheeler Event Center, behind the Chamber of Commerce, to hear about her vision for the future of Oklahoma as Governor!
-RSVP Stillwater Meet and Greet Stonecloud Brewing 917 S Husband St Stillwater, OK 74075 Join Cyndi Munson in Stillwater at Stonecloud Brewing to hear about her vision for the future of Oklahoma as Governor!
+Stillwater Meet and Greet Stonecloud Brewing 917 S Husband St Stillwater, OK 74075 Join Cyndi Munson in Stillwater at Stonecloud Brewing to hear about her vision for the future of Oklahoma as Governor!
 RSVP Moore Meet and Greet The Black Rose 1930 N Broadway Ave Ste 102 Moore, OK 73160 Join Cyndi Munson in Moore at The Black Rose to hear about her vision for the future of Oklahoma as Governor!
 RSVP Chickasha Meet and Greet Crazy 8 Cafe & Coffeehouse 424 W Chickasha Ave Chickasha, OK 73018 Join Cyndi Munson in Chickasha at Crazy 8 Cafe & Coffeehouse to hear about her vision for the future of Oklahoma as Governor!
 RSVP Marlow Meet and Greet Western Bloom Floral Outfitter & Goods 1202 N Broadway St Marlow, OK 73055 Join Cyndi Munson in Marlow at Western Bloom to hear about her vision for the future of Oklahoma as Governor!

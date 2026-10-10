@@ -1,4 +1,13 @@
-Meet Ron Issues News Volunteer Swag Contribute News Latest updates from the campaign: 29 Sep Tuesday, 5:36 PM · 2026 Eller hopes third time’s the charm in bid against Rep.
+Meet Ron Issues News Volunteer Swag Contribute News Latest updates from the campaign: 9 Oct Friday, 2:27 PM · 2026 Has Congress Become a Retirement Home?
+Steve Gaines welcomes Ron Eller, Mississippi State Chair for U.S.
+Term Limits, former Army captain and Republican congressional candidate, to discuss the growing debate over the age of lawmakers and congressional term limits.
+Eller argues that incumbency advantages discourage competition and keep longtime politicians in Washington, and explains his support for a constitutional amendment establishing term limits.
+Read more 9 Oct Friday, 1:18 PM · 2026 Meet the Candidates for Mississippi’s 2nd U.S.
+Congressional District in the Nov.
+3 Elections Add your nMississippi voters in the 2nd Congressional District will choose one of three candidates to represent them in Congress in the general election on Tuesday, Nov.
+3, 2026.
+Use this guide to learn about candidates’ backgrounds and policy views.ews summary here.
+Read more 29 Sep Tuesday, 5:36 PM · 2026 Eller hopes third time’s the charm in bid against Rep.
 Bennie Thompson Republican Ron Eller, a physician’s assistant from Raymond, is making his third run for the 2nd District U.S.
 House seat in Mississippi.
 Eller, an Army veteran, explains how God spoke to him telling him to run via a congressional lapel pin he found in the parking lot of a Sam’s Club and outlines his platform.

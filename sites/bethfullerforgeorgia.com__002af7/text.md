@@ -2,7 +2,7 @@
 Edit the block and enter a storage location via the Storage tab.
 First Name Last Name Email Address Sign Up Follow the campaign!
 Yard Signs Available!
-UPCOMING EVENTS Events Oct 8 October 8, 2026 Canvass with Ground Game Georgia & Men4Choice October 8, 2026 Read more → October 8, 2026 Oct 9 October 9, 2026 Canvass with Ground Game Georgia & Men4Choice October 9, 2026 Read more → October 9, 2026 Oct 10 October 10, 2026 Canvass for Beth Fuller & More!
+UPCOMING EVENTS Events Oct 10 October 10, 2026 Canvass for Beth Fuller & More!
 October 10, 2026 Join the Beth Fuller, Adam Cleveland, Sara Fuchs, and Tony Kozycki campaigns along with Indivisible North Metro Atlanta to canvass in GA House District 48, 49, or 53 (your choice)!
 We will meet to provide training and materials for your chosen candidate.
 All you'll need are comfortable shoes, a fully charged phone and the MiniVAN app downloaded, and we will provide everything else.

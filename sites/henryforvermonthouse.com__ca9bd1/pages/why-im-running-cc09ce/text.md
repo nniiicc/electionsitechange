@@ -16,6 +16,7 @@ That is unacceptable.
 Listening to Vermonters Listening to and respecting all of my constituents and Vermonters is essential.
 All legislators claim to listen to their constituents, as ours currently do.
 However, listening has to be reflected in actions and votes, not just words.
-Policies Sierra Club Vermont-National Education Association Let’s Grow Kids Action Network Vermont Conservation Voters GunSense Vermont Vermont State Labor Council, AFL-CIO National Assocation of Social Workers VT Chapter Vermont Public Interest Research Group Stay in Touch Sign up for campaign updates First Name * First Name Last Name Last Name Email * Email City City State State By submitting this form, you agree to receive campaign updates from Henry Bonges for Vermont House.
+Policies Sierra Club Vermont-National Education Association Let’s Grow Kids Action Network Vermont Conservation Voters GunSense Vermont Vermont State Labor Council, AFL-CIO National Assocation of Social Workers VT Chapter Vermont Public Interest Research Group Becca Balint U.S.
+Representative for Vermont Stay in Touch Sign up for campaign updates First Name * First Name Last Name Last Name Email * Email City City State State By submitting this form, you agree to receive campaign updates from Henry Bonges for Vermont House.
 You can unsubscribe at any time.
 Sign Up Donate Meet Henry Why I’m Running Policies Other Candidates to Know Where and When to Vote Contact Donate Paid for by friends of henry bonges Henry Bonges for Vermont House © # PO Box 268, Milton, VT 05468 henry.campaign.vt@gmail.com Accessibility Statement Contact

@@ -41,13 +41,13 @@ Dept. of Justice Washington, D.C.
 2017 Executive Officer Recalled to active duty to serve as Executive Officer of Camp Lemonnier Djibouti, Africa 2018-2025 Assistant U.S.
 Attorney Prosecuted financial crimes, healthcare fraud, and public corruption throughout the Eastern District of Kentucky Lexington, Kentucky 2018-2021 Reserve Squadron Command Led 25 reserve aviators in Training Squadron Nine's reserve component Meridian, Mississippi 2021-2024 Major Command Led 140 reservists, across five detachments, assigned to the Navy's Expeditionary Combat Readiness Center Norfolk, Virginia 2022-2024 War College Graduate Graduated with distinction from U.S.
 Army War College, Master's in Strategic Studies Carlisle, Pennsylvania (Distance Learning) 2024-present CSG-5 Reserve Component Commander Leads Carrier Strike Group Five's reserve component Drills in Fort Worth, Texas; Supports CSG-5 in Yokosuka, Japan 2025 Kentucky Court of Appeals Appointed by Gov.
-Andy Beshear to be a Judge on the KY Court of Appeals, serving the 5th Appellate District Central Kentucky Home About Will Updates Volunteer Request a Yard Sign Donate Contact: [email protected] Committee to Keep Judge Moynahan P.O.
+Andy Beshear to be a Judge on the KY Court of Appeals, serving the 5th Appellate District Central Kentucky Home About Will Updates Volunteer Request a Yard Sign Donate Media Home About Will Updates Volunteer Request a Yard Sign Donate Media Contact: [email protected] Committee to Keep Judge Moynahan P.O.
 Box 910099 Lexington, KY 40591 Paid for by The Committee to Keep Judge Moynahan.
 Judge Moynahan's history of military service and continuing service in the Navy Reserve does not imply Dept. of Defense (DoD) or Dept. of the Navy (DON) endorsement.
 Similarly, any images or references to the DoD or the U.S.
 Navy on this website do not imply DoD or DON endorsement.
 Designed and Maintained by Tunnel Vision Design LLC .
-Contact: [email protected] Committee to Keep Judge Moynahan P.O.
+Home About Will Updates Volunteer Request a Yard Sign Donate Media Contact: [email protected] Committee to Keep Judge Moynahan P.O.
 Box 910099 Lexington, KY 40591 Paid for by The Committee to Keep Judge Moynahan.
 Judge Moynahan's history of military service and continuing service in the Navy Reserve does not imply Dept. of Defense (DoD) or Dept. of the Navy (DON) endorsement.
 Similarly, any images or references to the DoD or the U.S.

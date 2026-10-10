@@ -1,4 +1,4 @@
-0 Skip to Content About Policies Contact Merch Donate Open Menu Close Menu About Policies Contact Merch Donate Open Menu Close Menu About Policies Contact Merch Donate Policies Representative Jermaine Johnson spends his time in the Statehouse solving the people’s problems.
+0 Skip to Content About Policies Contact Merch Endorsements Donate Open Menu Close Menu About Policies Contact Merch Endorsements Donate Open Menu Close Menu About Policies Contact Merch Endorsements Donate Policies Representative Jermaine Johnson spends his time in the Statehouse solving the people’s problems.
 In his first term alone he passed a bill to lower sales tax for seniors, repaired a bridge that had been closed since the 2015 Thousand Year Flood and expanded broadband access.
 Since then, he began construction on an emergency medical center in rural Lower Richland, struck down an anti- DEI bill, and commissioned a statue of Civil War hero, congressman, and civil rights champion Robert Smalls.
 His colleagues and constituents know this: when Jermaine Johnson says he will do something, he gets that thing done.

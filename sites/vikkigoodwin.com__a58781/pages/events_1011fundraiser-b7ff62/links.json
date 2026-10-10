@@ -1,5 +1,9 @@
 [
 {
+"text": "(map)",
+"href": "http://maps.google.com?q=207+east+virginia+street+mckinney%2C+texas%2C+75069+united+states"
+},
+{
 "text": "0",
 "href": "https://www.vikkigoodwin.com/cart"
 },
@@ -48,12 +52,8 @@
 "href": "https://www.vikkigoodwin.com/priorities-overview"
 },
 {
-"text": "GET TICKETS HERE",
-"href": "https://secure.actblue.com/donate/sixpack"
-},
-{
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Reception+%E2%80%94+McKinney&dates=20261012T000000Z%2F20261012T150000Z"
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Reception+%E2%80%94+McKinney&dates=20261012T000000Z%2F20261012T030000Z&location=207+East+Virginia+Street%2C+McKinney%2C+Texas%2C+75069%2C+United+States"
 },
 {
 "text": "Healthcare",
@@ -104,6 +104,10 @@
 "href": "https://www.vikkigoodwin.com/endorsements-public-officials"
 },
 {
+"text": "RSVP HERE",
+"href": "https://secure.actblue.com/donate/sixpack"
+},
+{
 "text": "Read our privacy policy here.",
 "href": "https://www.vikkigoodwin.com/privacy"
 },
@@ -122,10 +126,6 @@
 {
 "text": "[image: Rep. Vikki Goodwin]",
 "href": "https://www.vikkigoodwin.com/"
-},
-{
-"text": "[image]",
-"href": "https://secure.actblue.com/donate/sixpack"
 },
 {
 "text": "[no text]",

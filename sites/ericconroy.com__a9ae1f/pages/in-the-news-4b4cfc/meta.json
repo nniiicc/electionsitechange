@@ -1,9 +1,10 @@
 {
  "description": "Media In the News Stay up to date with the latest media coverage and press mentions featuring Eric Conroy and the campaign.",
  "final_url": "https://ericconroy.com/in-the-news/",
- "fingerprint": "41831c2596592f02adedd3ded1be32131b8d5dde",
+ "fingerprint": "cad4c7fe5e69badd7769419749c983f233f11c19",
  "format": 3,
  "paid_for_by": "Paid for by Conroy for Congress © # Conroy for Congress",
+ "rendered": false,
  "title": "In the News | Eric Conroy for Congress",
  "years_mentioned": [
   "2025",

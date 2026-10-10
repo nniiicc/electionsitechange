@@ -1,14 +1,12 @@
 {
  "description": "Official website for Rep. Betty McCollum's campaign in Minnesota's 4th Congressional District",
  "final_url": "https://www.mccollumforcongress.com/",
- "fingerprint": "c5dab8ad043022d4fc850d7f4ddde3f4a4feae33",
+ "fingerprint": "3615bbd5dcb65168d77f729f8849f20e1ad7b8ff",
  "format": 3,
  "paid_for_by": "PAID FOR BY McCOLLUM FOR CONGRESS",
+ "rendered": false,
  "title": "Betty McCollum for Congress",
  "years_mentioned": [
-  "2002",
-  "2021",
-  "2022",
   "2026"
  ]
 }

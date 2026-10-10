@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Kwon Atlas Kwon Atlas March 25, 2024 Ricks Bill to Increase Price Transparency Passes Kwon Atlas March 25, 2024 The House passed a bill sponsored by Representative Naquetta Ricks that would require companies to post the full price of a product, good, or service, including any mandatory fees, to improve price transparency for Colorado consumers.
 The bill passed by a vote of 45-18.
 Source: https://www.cohousedems.com/news/ricks-bill-to-increase-price-transparency-passes Kwon Atlas February 29, 2024 Colorado lawmaker wants to crack down on companies that charge hidden fees Kwon Atlas February 29, 2024 When Colorado state Rep.
@@ -15,4 +15,5 @@ Source: https://www.cbsnews.com/colorado/news/state-lawmaker-hoa-charges-excessi
 Now, the immigrant from the West Africa state of Liberia has a strong shot of becoming the first Liberian-American to win a seat in the Colorado House of Representative, a major US state.
 Source: https://frontpageafricaonline.com/front-slider/naquetta-ricks-could-be-the-first-liberian-american-elected-to-a-us-state-congress/ Kwon Atlas July 21, 2020 Ricks takes lead in House District 40 Democratic primary Kwon Atlas July 21, 2020 Update: a 5 p.m. update from the Secretary of State shows that Ricks' lead is now up to 274 votes.
 Source: https://www.coloradopolitics.com/2020-election/ricks-takes-lead-in-house-district-40-democratic-primary/article_f1cae7b6-bbc5-11ea-9621-ffd4b9322881.html Kwon Atlas December 24, 2019 Denver Liberian community mobilizes to help with Ebola outbreak Kwon Atlas December 24, 2019 Read on CPR Kwon Atlas December 24, 2019 Candidate who initially sought Aurora state Senate seat switches to House race Kwon Atlas December 24, 2019 Read on Colorado Politics Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

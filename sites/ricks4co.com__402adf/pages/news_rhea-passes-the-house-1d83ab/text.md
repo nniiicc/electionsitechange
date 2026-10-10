@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate Guest User March 14, 2022 RHEA passes the House!
 Guest User March 14, 2022 HB22-1279 , the Reproductive Health Equity Act, sponsored by Representative Froelich, House Majority Leader Esgar, and Senator Gonzales passed through both the House Health & Insurance Committee and 2nd Reading in the House last week.
 Today, it passed its 3rd and final reading in the House of Representatives.
@@ -17,4 +17,5 @@ I am especially proud of the bill's sponsors for their fierce advocacy and commi
 RHEA is now headed to the Colorado State Senate.
 Follow @ RepMegFroe , @ SenadoraJulie , @ Dlesgar , @ COHouseDem , @ COSenDem , # RHEA4CO , # RHEA # coleg , and # copolitics on Twitter to stay updated.
 Newer Post Honoring Small Business Week 2022 Older Post Representative Ricks leads International Women's Day celebration Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

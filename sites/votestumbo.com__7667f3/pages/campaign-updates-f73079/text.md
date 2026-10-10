@@ -1,6 +1,9 @@
 Countdown loading...
 Home About David Endorsements Campaign Updates Media Join the Fight On The Road Latest updates and highlights from the campaign trail across South Carolina, where we’ve been, who we’ve met, and what we’re hearing from communities across the state.
-October 6, 2026 Thank you, Georgetown Republican Party, for a great evening!
+October 9, 2026 Enjoyed speaking at the South Carolina Fraternal Order of Police Conf...
+Enjoyed speaking at the South Carolina Fraternal Order of Police Conference and catching up with my friend Sheriff Thompson!
+Always appreciate the opportunity to spend time with the men and women who work every day to keep our communities safe.
+LINK October 6, 2026 Thank you, Georgetown Republican Party, for a great evening!
 It was s...
 Thank you, Georgetown Republican Party, for a great evening!
 It was so good being with so many friends and patriots last night and talking about the future of South Carolina.
@@ -49,12 +52,5 @@ September 11th reminds us of the courage and sacrifice of our first responders a
 In the days that followed, our nation came together in prayer, grief, and love for one another.
 That unity and sense of purpose to fight our common enemies is something we should never forget, and hopefully remind us that we are so much stronger as a country when we come together under the same flag and values that made our country great in the first place.
 Vanessa and I continue to pray for the families who still grieve their lost loved ones.
-We must always honor the courage of those who gave all that day (and in the years that followed) to serve and protect our country - and to bring to justice the evildoers who continue to seek our destruction.🙏🇺🇸💪 *Pictures are of Gabe and Hallie Ruth Stumbo at the National September 11 Memorial & Museum in 2014 LINK September 10, 2026 Charlie was a lion for America and a warrior for the truth.
-Charlie was a lion for America and a warrior for the truth.
-It’s hard to believe it has been a year since we lost Charlie Kirk.
-Charlie had a unique ability to make people feel like they were part of something bigger than themselves.
-He encouraged young people to get involved, to ask hard questions, and most importantly, to never be afraid to stand up for what they believed was right.
-Today, I’m thinking of Charlie, praying for Erika and their family, and remembering the passion and courage he brought to everything he did.
-May we honor his memory by continuing to never back down, staying true to your convictions, and inspiring the next generation to lead with courage and purpose.
-We miss you, Charlie LINK Load more View all updates on Facebook Copyright © # - VoteStumbo.com Paid for by David Stumbo for SC Attorney General P.O.
+We must always honor the courage of those who gave all that day (and in the years that followed) to serve and protect our country - and to bring to justice the evildoers who continue to seek our destruction.🙏🇺🇸💪 *Pictures are of Gabe and Hallie Ruth Stumbo at the National September 11 Memorial & Museum in 2014 LINK Load more View all updates on Facebook Copyright © # - VoteStumbo.com Paid for by David Stumbo for SC Attorney General P.O.
 Box 102, Greenwood, SC 29648 Facebook X YouTube Instagram Facebook X YouTube Instagram

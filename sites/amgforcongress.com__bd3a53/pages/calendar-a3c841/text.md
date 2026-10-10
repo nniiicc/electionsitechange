@@ -1,11 +1,5 @@
 0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Meet Amanda or Members of Team AMG!
-Oct 9 Franklin Needs PINK OUT Benefit Friday, October 9, 2026 6:00 PM 9:00 PM Paddy's Raw Bar (map) Google Calendar ICS NOTE: THIS EVENT HAS BEEN RESCHEDULED DUE TO HURRICANE ISAIAS.
-This event starts at 5PM Central/6PM Eastern.
-Amanda and Team AMG will attend the 14th annual PINK OUT , a benefit for Franklin Needs on October 9, 2026 at Paddy's Raw Bar at 240 East Third Street on St.
-George Island.
-This popular annual event benefits Franklin Needs, Inc., a local organization helping Franklin County residents access breast cancer screenings and support.
-100% of Pink Out! proceeds help provide free mammograms, testing through diagnosis, and transportation assistance for treatment.
-View Event → Oct 10 Havana Mainstreet 26th Annual PumpkinFest Saturday, October 10, 2026 10:00 AM 4:00 PM 101 7th Avenue West Havana, Florida, 32333 United States (map) Google Calendar ICS NOTE: THIS EVENT HAS BEEN RESCHEDULED DUE TO HURRICANE ISAIAS.
+Oct 10 Havana Mainstreet 26th Annual PumpkinFest Saturday, October 10, 2026 10:00 AM 4:00 PM 101 7th Avenue West Havana, Florida, 32333 United States (map) Google Calendar ICS NOTE: THIS EVENT HAS BEEN RESCHEDULED DUE TO HURRICANE ISAIAS.
 This event starts at 9AM Central/10AM Eastern.
 Get ready for PumpkinFest 2026 , Havana’s largest and most beloved family festival, returning for its 26th year on Saturday, October 10 from 10:00 AM to 4:00 PM!
 This fall favorite stretches along Main Street and its side avenues in downtown Havana, Florida, filling Gadsden County with autumn color, live music, and small-town charm.
@@ -61,6 +55,12 @@ View Event → Oct 31 Campbellton's 5th Annual Fall Festival Saturday, October 3
 Amanda will attend with Team AMG!
 Celebrate Campbellton’s 5th Annual Fall Festival at Campbellton Browntown Park on October 31 from 11 a.m. to 5 p.m.!
 Enjoy music, food, drinks, crafts, and competitions with neighbors and friends—everyone is welcome.
+View Event → Oct 9 Franklin Needs PINK OUT Benefit Friday, October 9, 2026 6:00 PM 9:00 PM Paddy's Raw Bar (map) Google Calendar ICS NOTE: THIS EVENT HAS BEEN RESCHEDULED DUE TO HURRICANE ISAIAS.
+This event starts at 5PM Central/6PM Eastern.
+Amanda and Team AMG will attend the 14th annual PINK OUT , a benefit for Franklin Needs on October 9, 2026 at Paddy's Raw Bar at 240 East Third Street on St.
+George Island.
+This popular annual event benefits Franklin Needs, Inc., a local organization helping Franklin County residents access breast cancer screenings and support.
+100% of Pink Out! proceeds help provide free mammograms, testing through diagnosis, and transportation assistance for treatment.
 View Event → Oct 8 Madison County DEC/NAACP Candidates Forum Thursday, October 8, 2026 5:00 PM 7:00 PM Sumpter James Park (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern.
 Amanda will be attending with members of Team AMG.
 More details to come.

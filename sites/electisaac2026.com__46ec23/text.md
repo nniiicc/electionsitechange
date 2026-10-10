@@ -176,7 +176,7 @@ You simply drop off literature we provide to a list of addresses we provide.
 You can hang the info on their door knobs.
 You would really be helping us get the word out and encouraging people to get involved and vote. *Phone Banking.
 Phone Banking is a vital job and would help us reach out and make contact and educate and fund raise.
-Blog Videos about my campaign About my campaign Video 1 Voices Thom Hartmann Journalist,political commentator and renowned political author speaking on current events.
+Blog Videos about my campaign About my campaign My Platform, Video 1 Healthcare My Platform, Video 2 Voices Thom Hartmann Journalist,political commentator and renowned political author speaking on current events.
 Leigh McGowan "Politics Girl" Smart knowledgeable political commentator who brings out the truth of our national political discourse.
 Very civically minded and astute..
 Heater Cox Richardson "HRC" Historian and truth teller.

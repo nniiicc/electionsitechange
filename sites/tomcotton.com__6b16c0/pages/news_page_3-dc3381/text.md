@@ -1,6 +1,11 @@
 Skip to content ★ Endorsed by Gov.
 Sarah Sanders and every Arkansas statewide official → Menu Home About Tom Issues News Volunteer Contact Donate Newsroom News & Press Releases The latest statements, announcements, and press releases from Cotton for Senate.
-July 16, 2026 Press Release Cotton Campaign Announces $# Raised and More Than $# Million Cash on Hand — a Record for Arkansas The Cotton for Senate campaign raised $# in the latest quarter and now has more than $# million cash on hand across accounts — a record for Arkansas.
+August 25, 2026 Press Release Tom Cotton Backs Citizens Only Voting Amendment; Draws Sharp Contrast With Democrat Hallie Shoffner On Illegal Immigration U.S.
+Sen.
+Tom Cotton announced his support for Arkansas’s Citizens Only Voting Amendment, which would make clear that only U.S. citizens may vote in state and local elections.
+Read the release → August 18, 2026 Press Release Statement on Independent Poll Showing Cotton’s 16% Lead and Democrats’ Continued Unpopularity in Arkansas An independent J.L.
+Partners poll taken August 14–18 shows Senator Cotton leading Democrat Hallie Shoffner 51% to 35%.
+Read the release → July 16, 2026 Press Release Cotton Campaign Announces $# Raised and More Than $# Million Cash on Hand — a Record for Arkansas The Cotton for Senate campaign raised $# in the latest quarter and now has more than $# million cash on hand across accounts — a record for Arkansas.
 Read the release → Press releases navigation ← Newer 1 2 3 We depend on you Stand with Tom.
 Stand with Arkansas.
 Your support helps Tom share our message and grow the team supporting it.

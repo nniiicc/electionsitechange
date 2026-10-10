@@ -1,4 +1,6 @@
-Skip to main content Saira Draper for State Senate District 44 for SD44 About Meet Saira Endorsements District 44 Get Involved Get Involved Work with Saira Canvass News + Events Get Help Join the Campaign Donate Accessibility Text size EN English Español Tiếng Việt The Draper Paper Subscribe for Updates All Draper Paper In The News Articles Events All Voting And Elections 6 Federal Layoffs 3 Trump 3 CDC 2 Crossover 2 More Tags Draper Paper Draper Paper: And we're off!
+Skip to main content Saira Draper for State Senate District 44 for SD44 About Meet Saira Endorsements District 44 Get Involved Get Involved Work with Saira Canvass News + Events Get Help Join the Campaign Donate Accessibility Text size EN English Español Tiếng Việt The Draper Paper Subscribe for Updates All Draper Paper In The News Articles Events All Voting And Elections 6 Federal Layoffs 3 Trump 3 CDC 2 Crossover 2 More Tags Draper Paper They're Waiting Until You've Voted Republicans already admitted they'll redraw our maps.
+The only question is when.
+October 9, 2026 Share Facebook Bluesky Reddit Email X Copy Link Draper Paper Draper Paper: And we're off!
 And why I recommend voting early, in-person September 23, 2026 Share Facebook Bluesky Reddit Email X Copy Link Draper Paper Draper Paper: Are you Ready to Knock Doors?
 And other things you can do to help acheive big wins in November September 18, 2026 Share Facebook Bluesky Reddit Email X Copy Link Draper Paper Draper Paper: Join me at Lazy Betty 😋 on Monday And other fun ways to help fantastic candidates win in November August 29, 2026 Share Facebook Bluesky Reddit Email X Copy Link Draper Paper Draper Paper: The Voting Rights Act is Dead.
 What’s next in Georgia?
@@ -10,8 +12,7 @@ Join Stacey, Elena, and me for breakfast on January 5!
 December 23, 2025 Share Facebook Bluesky Reddit Email X Copy Link Draper Paper You are invited!
 Support Tanya Miller for Georgia Attorney General Paella at my place!
 Need I say more?
-October 31, 2025 Share Facebook Bluesky Reddit Email X Copy Link Draper Paper The Draper Paper: Week 9 If you give a mouse a cookie...
-Tort Reform Voting And Elections DOGE March 17, 2025 Share Facebook Bluesky Reddit Email X Copy Link Page 1 of 3 Older → Saira Draper Candidate for Georgia State Senate, District 44.
+October 31, 2025 Share Facebook Bluesky Reddit Email X Copy Link Page 1 of 3 Older → Saira Draper Candidate for Georgia State Senate, District 44.
 Fighting for voting rights, equity, and opportunity.
 Campaign Endorsements Meet Saira District 44 Get Help Take Action Vote Early Donate Stay Connected Get a Yard Sign Volunteer Contact info@votesaira.com Stay Updated Get campaign updates delivered to your inbox.
 Subscribe English English Español Tiếng Việt Paid for by Friends of Saira Draper, Inc.

@@ -19,7 +19,8 @@ Endorsements Trusted Conservative Leaders.
 Ted is proud to be endorsed by respected leaders who share his commitment to Nebraska's future.
 Nebraska Farm Bureau Nebraska Fraternal Order of Police NFIB PAC (National Federation of Independent Business) Former Governor Dave Heineman Congressman Adrian Smith Congressman Mike Flood State Senator Ben Hansen Former State Senator Lydia Brasch Former State Senator Mick Mines and his wife Katie Mines News & Updates Follow the campaign.
 Stay informed as Ted meets with neighbors across District 16 and shares his plan for conservative leadership.
-Follow on Facebook Loading news… Get Involved CONTACT TED JAPP Sign up to Contact Ted Japp, volunteer, request a yard sign, or stay connected with the campaign.
+Follow on Facebook Press Release December 12, 2025 Conservative Republican Ted Japp Announces Campaign for Nebraska Legislature in District 16 WASHINGTON COUNTY, NE – Ted Japp, a longtime Washington County resident, small-business owner, and advocate for limited government and conservative values, announced today that he will run for Nebraska Legislative...
+Read more → Get Involved CONTACT TED JAPP Sign up to Contact Ted Japp, volunteer, request a yard sign, or stay connected with the campaign.
 Or email Ted directly at tedjappforlegislature@gmail.com .
 Knock Doors Make a Donation Make Calls Request Yard Sign Request 4x8 Walk in Parade Contact Ted I would like to opt in to receive text message updates from Ted Japp for Legislature.
 Message and data rates may apply.

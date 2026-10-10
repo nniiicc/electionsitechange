@@ -22,6 +22,11 @@ Read this piece ▸ Immigration Congressman Carbajal turns a blind eye to Child 
 Read this piece ▸ Defending America They’re Not Leaving — Military Retirees Are Fleeing California June 30, 2025 California is the only state in the nation that fully taxes military retirement.
 Read this piece ▸ Campaign It’s Time for Real Leadership in California’s 24th District June 12, 2025 I’m not a career politician; I’m a patriot who has served our nation and now wants to serve you.
 Read this piece ▸ No pieces are tagged to that issue yet.
+The case, in his own words Twenty six op eds and counting.
+Bob writes them himself, and he takes the same arguments to the door.
+Taking questions in person.
+One conversation at a time.
+On the parade route.
 Winning CD-24 takes a team Pick one way to help today and we will take it from there.
 Volunteer Contribute Home Why Bob Issues Common Ground The Choice Veterans for Bob Latinos con Bob District Map Get Involved Contact Privacy Policy Terms of Use Bob Smith is a retired member of the United States Navy.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.

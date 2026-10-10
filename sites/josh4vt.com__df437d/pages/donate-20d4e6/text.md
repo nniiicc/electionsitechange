@@ -6,5 +6,5 @@ It helps us reach voters, attend events, print campaign materials, and bring our
 I am not running to become a politician.
 I am running because this is how I serve.
 Thank you for being part of that work.
-Josh Williams Candidate for Vermont State Senate (R) ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-681-9048 © # Josh Williams for State Senate.
+Josh Williams Candidate for Vermont State Senate (R) ​ Paid for by Josh Williams for VT Senate (R) PO Box 94 Arlington, VT 05250 802-304-9859 © # Josh Williams for State Senate.
 All rights reserved. ​ALL DISCLOSURES bottom of page

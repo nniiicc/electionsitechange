@@ -1,5 +1,8 @@
 Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
 Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources News Rep.
+Mike Thompson Presents $1,000,000 Check to Build Pedestrian and Bicycle Connection to Davis Amtrak Station April 7, 2026 Davis, CA – Rep.
+Mike Thompson (CA-04) presented a $1,000,000 check to Davis Mayor Donna Neville, Yolo County Supervisors Lucas Frerichs and Sheila Allen, and Capitol Corridor Managing Director Robert Padgette for the Amtrak Depot / Olive Drive Connection Project.
+Read more Rep.
 Mike Thompson Presents $250,000 Check to build microgrid in Yountville April 6, 2026 Yountville – Rep.
 Mike Thompson (CA-04) presented a $250,000 check to Mayor Margie Mohler and City Manager Brad Raulston for the Town of Yountville’s Resiliency Microgrid Project.
 Read more Thompson Issues Statement on Passage of Republicans' Homeland Security Funding Bill March 27, 2026 Washington, D.C. – Rep.
@@ -45,8 +48,4 @@ Mike Thompson (D-CA-04), Senator Adam Schiff (D-CA), and Rep.
 David Valadao (R-CA-22) led a bipartisan group of 39 colleagues to request Secretary of Agriculture Brooke Rollins issue assistance to peach farmers in Yuba and Sutter Counties.
 Read more REP.
 MIKE THOMPSON LEADS OVER 700 COMMUNITY MEMBERS IN NAPA AND WOODLAND FOR “NO FOREVER WARS” DAYS OF ACTION March 12, 2026 Napa and Woodland, CA — Congressman Mike Thompson (CA-04) led over 700 community members, veterans, and military families this weekend in Napa and Woodland for “No Forever Wars” Day of Action events calling for congressional oversight regarding the U.S. military involvement in Iran.
-Read more REP.
-MIKE THOMPSON PRESENTS $850,000 CHECK TO SUPPORT NAPA VALLEY VINE TRAIL CONNECTION BETWEEN YOUNTVILLE AND ST.
-HELENA March 10, 2026 Napa County, CA — Congressman Mike Thompson (CA-04) yesterday presented an $850,000 federal funding check to the Napa Valley Vine Trail Coalition to support the development of a key segment of the Napa Valley Vine Trail between Yountville and St.
-Helena.
 Read more Pagination First page « First Previous page ‹ Previous Page 1 Page 2 Page 3 Page 4 Current page 5 Page 6 Page 7 Page 8 Page 9 … Next page Next › Last page Last » Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

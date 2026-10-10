@@ -38,19 +38,16 @@ It's about being able to stay where you are, plan for the future, and handle une
 As North Carolina continues to grow, we must ensure it remains a safe and affordable place to live.
 As your senator, I will address the root drivers of cost, not just short-term fixes.
 WHAT I'LL FOCUS ON: Supporting policies that promote housing stability and predictability Making sure public systems work so families are not forced to pay privately to fill gaps Banning dynamic and algorithmic pricing at grocery stores to prevent large food retailers from making you pay more Filling federal funding gaps for essential programs like SNAP Reinstating earned income tax credits to reduce taxes on working families Exempting sales tax on groceries, diapers, and feminine hygiene products Creating a homebuyers assistance program for public servants (active duty military, law enforcement, first responders, teachers) purchasing their first home People should be able to afford to live in the communities they serve and help sustain.
-IV.
 Make Our Government Work For Us Again Most people aren't asking the government to solve everything.
 They want it to do its job, use common sense, and not make life harder than it already is. ​ Too often, politicians lose focus.
 Leaders get pulled toward lobbyists, party pressure, and political tests that have little to do with the people back home.
 Local governments know their communities best; the state's job is to give them the funding tools and flexibility to act on that knowledge.
 WHAT I'LL FOCUS ON: Treating taxpayer dollars with care and respect Making decisions based on evidence and real-world experience Prioritizing preparation, follow-through, and accountability Staying focused on service rather than noise or spectacles Fighting corruption in Raleigh and ending “pay-for-play” schemes Ensuring oversight of elections is nonpartisan and fair Work with local governments to manage the growth coming to communities while preserving local character and autonomy Competent government builds trust and makes everyday life more stable.
-V.
 Freedom and dignity for women Some healthcare decisions are deeply personal.
 They are complex, often difficult, and cannot be reduced to one-size-fits-all laws. ​ Women deserve privacy, trust, and respect when making healthcare decisions.
 Those decisions belong with women, their doctors, and the people they trust.
 WHAT I'LL FOCUS ON: Protecting medical decision-making from political interference Preserving access to timely and safe healthcare Respecting the complexity of real medical situations Keeping government out of decisions it cannot fully understand Trusting women isn't extreme.
 It's responsible.
-VI.
 AI and Data Centers Data centers are becoming the primary driver of new energy demand, and as that demand grows, the costs of the infrastructure needed to support them will increasingly fall on North Carolina citizens and communities.
 Data centers also require enormous amounts of electricity and water, and communities across the state are already seeing major proposals. ​ It is not fair to pass those costs on to everyday people.
 A state law should ensure that data center operators, not ratepayers, bear the cost of the added energy and infrastructure demand.

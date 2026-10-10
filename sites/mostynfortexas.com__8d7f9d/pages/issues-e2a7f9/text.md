@@ -96,4 +96,4 @@ Protect our military mission and our future.
 Stand with Joint Base San Antonio to keep and grow its missions, and turn military-trained talent into civilian careers in cyber, healthcare, and aviation.
 Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
 Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
-Follow Follow Follow Follow
+Follow Follow Follow Follow Follow

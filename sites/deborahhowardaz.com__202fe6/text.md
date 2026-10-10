@@ -2,4 +2,4 @@
 Whether serving in government, non-profit, or private sector roles, my focus has remained constant: ensuring quality, affordable healthcare; supporting a strong national defense; fostering job growth and a thriving economy; championing quality public education and training; and empowering citizens through their right to vote.
 I envision Arizona as a leading example of fairness and opportunity for all, where every individual can actively participate in the economic, social, cultural, and political fabric of our state. and Who Stands With You A Leader Who Listens Paid for by Deborah Howard for State Representative - LD27.
 Authorized by Deborah Howard.
-Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318
+Mailing Address: Deborah Howard for State Representative | PO Box 12191, Glendale, AZ 85318 Privacy Policy

@@ -1,4 +1,4 @@
-Home Meet Mike Platform Record News Videos Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Press Room News & Press Releases September 29, 2026 · Press Release Coons Rejects WDEL Debate Offer; Katz Calls for Accountability and Open Debate WILMINGTON, DE — Senator Chris Coons has rejected WDEL's offer to hold a U.S.
+Home Meet Mike Platform Record News Videos 🔥 Fire Coons Get Involved Volunteer Yard Signs Literature Vote Join Donate → Get Involved Volunteer Yard Signs Literature Vote Join Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability → Press Room News & Press Releases September 29, 2026 · Press Release Coons Rejects WDEL Debate Offer; Katz Calls for Accountability and Open Debate WILMINGTON, DE — Senator Chris Coons has rejected WDEL's offer to hold a U.S.
 Senate debate that would air on both WDEL and NBC's CoastTV.
 After learning of the offer, Dr.
 Mike Katz told WDEL he would...

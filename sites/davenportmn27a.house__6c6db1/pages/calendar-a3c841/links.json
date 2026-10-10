@@ -1,10 +1,6 @@
 [
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=++united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=+becker%2C+mn+"
 },
 {
@@ -18,6 +14,10 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=+princeton%2C+mn+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=11445+brenda+boulevard+becker%2C+minnesota%2C+55308+united+states"
 },
 {
 "text": "(map)",
@@ -78,10 +78,6 @@
 {
 "text": "(map)",
 "href": "http://maps.google.com?q=big+lake+high+school"
-},
-{
-"text": "(map)",
-"href": "http://maps.google.com?q=main+st.+elk+river%2C+mn+"
 },
 {
 "text": "0",
@@ -176,10 +172,6 @@
 "href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl-5pbbk-6e44g"
 },
 {
-"text": "Come join",
-"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F16gmjyCUzWL2Jq1qBJ8-xzu7MLnt6L5jue8vwSwCE-i0%2Fedit%3Fusp%3Dsharing&h=AUAQyeUztZIN2dd9y1KdxaNCqm7Za5ulfHrhtmxM6ZDtWgF_2p-i8cL8IhMX2ZUD7pEq37wx6cfB4bsH_Ski8S77GYZHkOEQyjJOUDRmTescpAqyWS3ZxClHRVkHnV7c6RfPVhPuZ-K3&__tn__=q&c%5B0%5D=AUBFMEXFcapEfCHKTQScW4WIS1Fxuk87VMNL04BbAZic1_dIxeTzWG7UjEiAqlxS5g2zqqV7wwxv_sABunxFkTWZDzzmXBQ8f2KpKj8KaKzYGzttq_fbeGV32nbSegOGWmxuL3OnWoDKsuDQ4p3ZAOOFBGnV6YqiNEc"
-},
-{
 "text": "DFL SD27 Monthly Meeting",
 "href": "https://www.davenportmn27a.house/calendar/dfl-sd27-monthly-meeting"
 },
@@ -257,6 +249,10 @@
 },
 {
 "text": "Facebook Event Page",
+"href": "https://www.facebook.com/share/19qcqwAt17/"
+},
+{
+"text": "Facebook Event Page",
 "href": "https://www.facebook.com/share/1BQLvnQNfP/"
 },
 {
@@ -285,11 +281,11 @@
 },
 {
 "text": "Facebook Event Page",
-"href": "https://www.facebook.com/share/1HKtmqH3mk/"
+"href": "https://www.facebook.com/share/1M5Ff3s88b/"
 },
 {
-"text": "Facebook Event Page",
-"href": "https://www.facebook.com/share/1M5Ff3s88b/"
+"text": "Forums",
+"href": "https://www.davenportmn27a.house/forums"
 },
 {
 "text": "Google Calendar",
@@ -405,6 +401,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Doug+Chapin&dates=20261018T180000Z%2F20261018T200000Z&location=11445+Brenda+Boulevard%2C+Becker%2C+Minnesota%2C+55308%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Orrock+Door+Knocking&dates=20260722T100000Z%2F20260722T130000Z&location=26401+180th+Street+Northwest%2C+Big+Lake%2C+Minnesota%2C+55309%2C+United+States"
 },
 {
@@ -445,15 +445,7 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sherburne+County+Fair+Parade&dates=20260718T133000Z%2F20260718T170000Z&location=Main+St.%2C+Elk+River%2C+MN"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sherburne+County+Indivisible+Meeting&dates=20260804T230000Z%2F20260805T020000Z"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=TBD+Door+Knocking&dates=20261028T220000Z%2F20261029T003000Z&location=United+States"
 },
 {
 "text": "Google Calendar",
@@ -529,6 +521,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.davenportmn27a.house/calendar/meet-doug-chapin?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-9mhfd?format=ical"
 },
 {
@@ -554,10 +550,6 @@
 {
 "text": "ICS",
 "href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl-5pbbk-6e44g?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl-5pbbk-ktjdm-fd43m?format=ical"
 },
 {
 "text": "ICS",
@@ -633,10 +625,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.davenportmn27a.house/calendar/sherburne-county-fair-parade?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.davenportmn27a.house/calendar/sherburne-county-indivisible-meeting?format=ical"
 },
 {
@@ -650,6 +638,10 @@
 {
 "text": "Leashes Off, Conversations On",
 "href": "https://www.davenportmn27a.house/calendar/leashes-off-conversations-on"
+},
+{
+"text": "Meet Doug Chapin",
+"href": "https://www.davenportmn27a.house/calendar/meet-doug-chapin"
 },
 {
 "text": "Mobilize Sign Up",
@@ -689,15 +681,35 @@
 },
 {
 "text": "Mobilize Signup",
-"href": "https://mobilize.us/s/BHzgHl"
-},
-{
-"text": "Mobilize Signup",
 "href": "https://mobilize.us/s/Bo1IIa"
 },
 {
 "text": "Mobilize Signup",
 "href": "https://mobilize.us/s/yXkSK7"
+},
+{
+"text": "Mobilize Signup",
+"href": "https://www.mobilize.us/dfl/event/1010781/"
+},
+{
+"text": "Mobilize Signup",
+"href": "https://www.mobilize.us/dfl/event/1060193/"
+},
+{
+"text": "Mobilize Signup",
+"href": "https://www.mobilize.us/dfl/event/1060200/"
+},
+{
+"text": "Mobilize Signup",
+"href": "https://www.mobilize.us/dfl/event/1060202/"
+},
+{
+"text": "Mobilize Signup",
+"href": "https://www.mobilize.us/dfl/event/1060206/"
+},
+{
+"text": "Mobilize Signup",
+"href": "https://www.mobilize.us/dfl/event/1060207/"
 },
 {
 "text": "Mobilize Signup",
@@ -728,6 +740,10 @@
 "href": "https://www.davenportmn27a.house/calendar/primary-election-day"
 },
 {
+"text": "RSVP Today!",
+"href": "https://www.mobilize.us/chapinforcongress/event/1049372/"
+},
+{
 "text": "Red & Rural DAY OF ACTION in Sherburne County!",
 "href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-9mhfd"
 },
@@ -748,20 +764,12 @@
 "href": "https://www.davenportmn27a.house/calendar/sd27-phone-bank-virtual-xlxdc-yzk6r-j255c"
 },
 {
-"text": "Sherburne County Fair Parade",
-"href": "https://www.davenportmn27a.house/calendar/sherburne-county-fair-parade"
-},
-{
 "text": "Sherburne County Indivisible Meeting",
 "href": "https://www.davenportmn27a.house/calendar/sherburne-county-indivisible-meeting"
 },
 {
 "text": "Sign Up",
 "href": "https://secure.ngpvan.com/6Q-3SHcQ3kaJK9B50B4Qtw2"
-},
-{
-"text": "TBD Door Knocking",
-"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl-5pbbk-ktjdm-fd43m"
 },
 {
 "text": "The Patriot Newspaper",
@@ -818,6 +826,10 @@
 {
 "text": "View Event →",
 "href": "https://www.davenportmn27a.house/calendar/leashes-off-conversations-on"
+},
+{
+"text": "View Event →",
+"href": "https://www.davenportmn27a.house/calendar/meet-doug-chapin"
 },
 {
 "text": "View Event →",
@@ -881,10 +893,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl-5pbbk-ktjdm-fd43m"
-},
-{
-"text": "View Event →",
 "href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl-5pbbk-ktjdm-s8lkm"
 },
 {
@@ -918,10 +926,6 @@
 {
 "text": "View Event →",
 "href": "https://www.davenportmn27a.house/calendar/sd27-phone-bank-virtual-xlxdc-yzk6r-j255c"
-},
-{
-"text": "View Event →",
-"href": "https://www.davenportmn27a.house/calendar/sherburne-county-fair-parade"
 },
 {
 "text": "View Event →",
@@ -1060,6 +1064,10 @@
 "href": "https://www.davenportmn27a.house/calendar/leashes-off-conversations-on"
 },
 {
+"text": "[image: Meet Doug Chapin]",
+"href": "https://www.davenportmn27a.house/calendar/meet-doug-chapin"
+},
+{
 "text": "[image: Orrock Door Knocking]",
 "href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking"
 },
@@ -1100,16 +1108,8 @@
 "href": "https://www.davenportmn27a.house/calendar/sd27-phone-bank-virtual-xlxdc-yzk6r-j255c"
 },
 {
-"text": "[image: Sherburne County Fair Parade]",
-"href": "https://www.davenportmn27a.house/calendar/sherburne-county-fair-parade"
-},
-{
 "text": "[image: Sherburne County Indivisible Meeting]",
 "href": "https://www.davenportmn27a.house/calendar/sherburne-county-indivisible-meeting"
-},
-{
-"text": "[image: TBD Door Knocking]",
-"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-7xl2m-9phnl-5pbbk-ktjdm-fd43m"
 },
 {
 "text": "[image: Vote Early Protest!]",

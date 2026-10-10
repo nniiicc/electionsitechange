@@ -34,6 +34,8 @@ Respalda a Stacie por su apoyo a las reformas de seguridad ferroviaria y a las p
 Organizaciones Sindicales • 2026 Teamsters Ohio D.R.I.V.E.
 Comité de acción política de Ohio Teamsters El comité de acción política de los Teamsters de Ohio, financiado con contribuciones voluntarias de sus miembros.
 Su respaldo suma a los Teamsters de Ohio a la coalición sindical que apoya la campaña de Stacie.
+Organizaciones Sindicales • 2026 Ohio Fraternal Order of Police La mayor organización de fuerzas del orden de Ohio, que representa a agentes de los ámbitos local, de condado, estatal y federal.
+Ofrece servicios para sus miembros, oportunidades de educación y formación, y representación legislativa.
 Organizaciones Sindicales • 2026 FOP Dewey R.
 Stokes Capital City Lodge #9 Fraternal Order of Police La logia de la Fraternal Order of Police del centro de Ohio, que representa a los agentes que sirven a Columbus y a Franklin County.
 Respalda a Stacie por su apoyo a los hombres y mujeres de las fuerzas del orden y por su enfoque en vecindarios seguros y bien atendidos.
@@ -75,6 +77,6 @@ Su respaldo extiende el apoyo a Stacie hasta la ciudad más grande de Ohio. ¿De
 Contacte a la campaña en citizensforstaciebaker@gmail.com Súmate a esta coalición Estas organizaciones y estos líderes ya están con Stacie Baker.
 Suma tu nombre a la coalición y ayúdanos a llevarlo a la victoria en el Distrito 3 el 3 de noviembre de 2026.
 Donar Ahora Involúcrate Respaldado Por Ohio Democratic Party Franklin County Democratic Party Hilliard Democrats Pickaway County Democratic Party Madison County Democratic Party Ohio AFL-CIO Central Ohio Labor Council Ohio Education Association Ohio Federation of Teachers AFSCME Ohio Council 8 OCSEA / AFSCME Local 11 AFSCME Retiree Chapter 1184 OAPSE / AFSCME Local 4 Columbus/Central Ohio Building & Construction Trades Council Sheet Metal Workers Local Union #24 Brotherhood of Locomotive Engineers and Trainmen Teamsters Ohio D.R.I.V.E.
-FOP Dewey R.
+Ohio Fraternal Order of Police FOP Dewey R.
 Stokes Capital City Lodge #9 Ohio Legislative Black Caucus Buckeye Veterans Coalition PAC Ohio Pride PAC Baptist Ministerial Alliance of Greater Columbus Ohio Environmental Council Action Committee Save Ohio Parks Pagado por Citizens For Baker • © # Todos los Derechos Reservados • P.O.
 Box, Reynoldsburg, OH 43068

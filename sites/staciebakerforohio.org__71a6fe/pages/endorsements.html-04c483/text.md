@@ -1,5 +1,5 @@
 Baker for Ohio About Platform Endorsements Announcements Events Get Involved Volunteer Yard Signs Contact Donate About Platform Endorsements Announcements Events Get Involved Volunteer Yard Signs Contact Donate ← Back to Home Broad Coalition Endorsed By Stacie Baker is proud to be endorsed by Ohio's working families, educators, faith leaders, and elected officials.
-5 Party 13 Labor Organizations 1 Legislative Leadership 1 Veterans 1 Equality 1 Faith Leaders 2 Environmental 5 Education Leaders 10 Elected Officials Party Labor Organizations Legislative Leadership Veterans Equality Faith Leaders Environmental Organizations Education Leaders Elected Officials Party Ohio Democratic Party The statewide voice of Ohio Democrats.
+5 Party 14 Labor Organizations 1 Legislative Leadership 1 Veterans 1 Equality 1 Faith Leaders 2 Environmental 5 Education Leaders 10 Elected Officials Party Labor Organizations Legislative Leadership Veterans Equality Faith Leaders Environmental Organizations Education Leaders Elected Officials Party Ohio Democratic Party The statewide voice of Ohio Democrats.
 The state party's endorsement puts the full weight of Ohio's Democratic organization behind his campaign to win Senate District 3 and move Ohio forward.
 Franklin County Democratic Party The official voice of Franklin County Democrats, the home county of Senate District 3.
 The county party's backing reflects deep local Democratic support for his record of public service and his plan to move Ohio forward.
@@ -34,7 +34,9 @@ Endorses Stacie for his support of rail safety reforms and worker protections.
 Teamsters Ohio D.R.I.V.E.
 Ohio Teamsters political action committee The Ohio Teamsters' political action committee, funded by voluntary contributions from members.
 Their endorsement adds Ohio's Teamsters to the labor coalition backing Stacie's campaign.
-Public Safety FOP Dewey R.
+Public Safety Ohio Fraternal Order of Police Ohio’s largest law enforcement organization, representing officers at the local, county, state, and federal levels.
+It provides member services, education and training opportunities, and legislative representation.
+FOP Dewey R.
 Stokes Capital City Lodge #9 Fraternal Order of Police Central Ohio's Fraternal Order of Police lodge, representing the officers who serve Columbus and Franklin County.
 Endorses Stacie for his support of the men and women in law enforcement and his focus on safe, well-served neighborhoods.
 Legislative Leadership Ohio Legislative Black Caucus The caucus of Black members of the Ohio General Assembly, founded in 1967.

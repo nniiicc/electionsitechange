@@ -1,4 +1,4 @@
-top of page DONATE NOW TO HELP ELECT JEFF WILSON HOME MEET JEFF ISSUES ENDORSEMENTS NEWS JOIN EVENTS CONTACT DONATE ON WINRED DONATE ON ANEDOT $10 $25 $50 $100 $250 DONATE MEET JEFF Jeff Wilson is a U.
+top of page DONATE NOW TO HELP ELECT JEFF WILSON HOME MEET JEFF ISSUES ENDORSEMENTS NEWS JOIN EVENTS CONTACT DONATE ON WINRED DONATE ON ANEDOT Common Sense - Not Nonsense $10 $25 $50 $100 $250 DONATE MEET JEFF Jeff Wilson is a U.
 S.
 Navy Veteran, public servant, proven leader, and Republican running for Congress to support President Trump with America First policies.
 Former crew member on a U.S. nuclear-powered submarine Proven leader with a Master’s degree in Nuclear Engineering from the University of Illinois Jeff, along with his wife Becky, are proud parents of 8 children and have 11 grandchildren Currently serving his community on the Champaign County Board Guided by Faith.

@@ -13,4 +13,4 @@ Ben Mostyn shared the following statement: “Prop...
 US ARMY VETERAN & SMALL BUSINESS OWNER BEN MOSTYN ANNOUNCES CANDIDACY FOR TEXAS HOUSE DISTRICT 117 Mar 11, 2023 | Uncategorized San Antonio, TX – Today, decorated Army Veteran, former Certified Master Instructor for the Department of Defense, and small business owner, Ben Mostyn, announced his candidacy for Texas’ 117th House District.
 Ben Mostyn shared the following statement:“On this day 187... « Older Entries Search for: Archives October 2023 July 2023 March 2023 Categories Uncategorized Paid for by Mostyn for Texas Ben Mostyn is a US Army Veteran.
 Use of Military rank, job titles, and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
-Follow Follow Follow Follow
+Follow Follow Follow Follow Follow

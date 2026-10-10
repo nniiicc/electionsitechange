@@ -1,4 +1,5 @@
-top of page Home Meet Booker T Platform Get Involved Contact DONATE On The Issues Lowering Cost of Living Oklahomans shouldn’t have to worry about choosing between paying their rent or putting food on the table.
+top of page ​ 🗳️ VOTE TUESDAY, NOV 3, 2026 Early Voting: Oct 28–31 Check Voter Status Home VOTE!
+3 NOV 2026 Meet Booker T Platform Get Involved Contact DONATE On The Issues Lowering Cost of Living Oklahomans shouldn’t have to worry about choosing between paying their rent or putting food on the table.
 The cost of living has gotten out of control for far too many and wages are not keeping up.
 We have to do better to support working families.
 We need policies that will address the rising cost of housing, insurance, child care and what it takes just to get by.
@@ -14,5 +15,8 @@ Veteran Services Our district is home to Fort Sill one of the largest bases in t
 But for years Oklahoma has left our veterans behind.
 We have to do more to support veterans mental health care, housing, and transition back to civilian life.
 As a veteran myself, I know how important this to individuals and we must do more.
-BOOKER T NEWTON -STATE SENATE 32 - Authorized & Paid for by Friends of Booker T Newton for State Senate District 32 330 FORT SILL BLVD P.O.
-BOX 183 FT SILL, OK 73503 ​ ​ bottom of page
+BOOKER T NEWTON -STATE SENATE 32 - Authorized & Paid for by Friends of Booker T Newton for State Senate District 32 P.O.
+BOX 33183 FT SILL, OK 73503 ​ ​ Booker T.
+Newton is a retired member of the U.S.
+Army.
+Use of his military rank, job titles, service records, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense. bottom of page

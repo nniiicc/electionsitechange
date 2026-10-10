@@ -2,7 +2,7 @@ Skip to content Skip to content Skip to footer Home Meet Kimberly The Issues Kim
 Kimberly Overman is a mom, a grandmother, a small business owner, and a public servant with deep roots in Florida’s 12th District.
 She’s running for Congress because she believes leadership should be about listening, showing up, and delivering real solutions—not playing politics or chasing headlines.
 Raised in a working-class family that faced housing insecurity, Kimberly learned early what it means to struggle—and to persevere.
-Her mother juggled multiple jobs to keep the family afloat, and those early experiences shaped Kimberly’s lifelong commitment to fairness, opportunity, and economic justice.
+Her parents juggled multiple jobs to keep the family afloat, and those early experiences shaped Kimberly’s lifelong commitment to fairness, opportunity, and economic justice.
 Over the years, Kimberly has worn many hats: she put herself through college, earned her Certified Financial Planner designation, and built a successful advisory firm focused on ethical financial guidance.
 She’s volunteered in her community for decades, applying her background in economics and planning to real-world challenges—especially around housing, transportation, and sustainability.
 As a Hillsborough County Commissioner from 2018 to 2022, Kimberly delivered during some of the region’s most challenging moments.

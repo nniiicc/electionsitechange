@@ -45,15 +45,10 @@ Significa proteger el agua limpia y el hábitat de los peces.
 Y eso significa asegurarse de que las zonas rurales de Washington cuenten con las infraestructuras y las oportunidades que necesitan para prosperar.
 Me enorgullece contribuir a impulsar inversiones que tengan en cuenta que unas explotaciones agrícolas sólidas, unos bosques sanos, un agua limpia y unas comunidades rurales prósperas van de la mano.
 No nos limitamos a conservar el terreno.
-Estamos protegiendo las tierras de cultivo de Washington y asegurando su futuro para la próxima generación. ← Artículo anterior Artículo siguiente → Entradas más recientes Se va a modernizar el edificio de Salud Pública del condado de Lewis Oct 2, 2026 | Sin categoría En «The Chronicle» El edificio de Salud Pública y Servicios Sociales del condado de Lewis, en Chehalis, lleva mucho tiempo necesitando una reforma.
+Estamos protegiendo las tierras de cultivo de Washington y asegurando su futuro para la próxima generación. ← Artículo anterior Artículo siguiente → Entradas más recientes Cuando las prioridades locales se convierten en inversiones estatales Oct 7, 2026 | Elegir a Peter Abbarno Para la Cámara de Comercio de C-C Una de las cosas más importantes a la hora de representar a nuestra comunidad en Olympia es escuchar a los líderes locales, identificar las necesidades reales y, después, trabajar juntos para convertir esas prioridades en resultados....
+Se va a modernizar el edificio de Salud Pública del condado de Lewis Oct 2, 2026 | Sin categoría En «The Chronicle» El edificio de Salud Pública y Servicios Sociales del condado de Lewis, en Chehalis, lleva mucho tiempo necesitando una reforma.
 Pronto la tendrá gracias a una asignación directa de 1,5 millones de dólares del presupuesto de capital suplementario...
 Cómo sacar más partido a las mejoras energéticas en los hogares para las comunidades de Washington Ago 27, 2026 | Blog Para muchas familias de Washington, sobre todo las que viven en casas antiguas y en comunidades rurales, la eficiencia energética no es solo una cuestión política abstracta.
 Puede significar un hogar más calentito en invierno, facturas mensuales más bajas, poder hacer...
-Vota pronto.
-Vota con orgullo.
-Ayuda a construir un Washington más fuerte.
-Jul 9, 2026 | Sin categoría Todas las elecciones son importantes, pero las elecciones primarias de 2026 son especialmente importantes para el futuro de nuestras comunidades y de nuestro estado.
-Las decisiones que tomemos hoy ayudan a marcar el rumbo que tomará Washington mañana.
-Si queremos......
 Mantente al día de las últimas noticias de Olimpia.
 Recibe el boletín de Peter Pagado por el comité para la elección de Peter Abbarno | Diseñado por The Silver Agency English ( Inglés ) Español

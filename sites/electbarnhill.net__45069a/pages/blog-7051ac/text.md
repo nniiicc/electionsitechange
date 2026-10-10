@@ -1,4 +1,5 @@
-#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Blog Home >> Blog Blog Oct 08 electbarnhill 0 Comment The Court Asked Who Has a Stake in My Lawsuit.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Blog Home >> Blog Blog Oct 09 electbarnhill 0 Comment Election Transparency in Nevada Means Showing the Work A Nevada voter shouldn’t need to be an elections lawyer, a computer expert, or a party insider to understand how a ballot is handled.
+Confidence doesn’t come from asking Oct 08 electbarnhill Comment 1 The Court Asked Who Has a Stake in My Lawsuit.
 The Honest Answer Is You.
 Every federal lawsuit in Nevada comes with a short form most people never read: the Certificate of Interested Parties.
 Its job is simple.
@@ -14,8 +15,8 @@ Oct 02 electbarnhill 0 Comment What Nevada Secretary of State Candidates Owe Vot
 Here is what to ask before you vote.
 Oct 02 electbarnhill 0 Comment Secure Ballot Counting in Nevada Starts Here A practical look at secure ballot counting in Nevada: paper records, trained workers, audits, cybersecurity, and clear public reporting that voters can verify.
 Oct 01 0 Comment Volunteer for a Nevada Political Campaign Want to help elect an independent Nevada Secretary of State?
-Here is how to volunteer for a Nevada political campaign, what roles are open, and how to make your Sep 30 electbarnhill Comments 2 While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster While the Secretary of State Asks for More Time, I'm Asking the Court to Move Faster 1 2 3 … 7 Next » footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+Here is how to volunteer for a Nevada political campaign, what roles are open, and how to make your 1 2 3 … 7 Next » footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (17) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

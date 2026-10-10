@@ -4,12 +4,14 @@ Total Asegurado para MA: $14,579,629,529.01 Conoce a Ed Luchar por la clase trab
 Nunca ha tenido miedo de romper el statu quo, y desde que fue elegido por primera vez para el Senado de los Estados Unidos en 2013, Ed ha estado liderando y cumpliendo con las cuestiones que más importan a la gente de Massachusetts.
 SABER MÁS Avales Lo último Donar Tu apoyo marca la diferencia. $10 $25 $50 $100 $250 Otro importe Si has guardado tu información de pago con ActBlue Express, tu donación se realizará inmediatamente.
 Haga clic aquí para hacer una donación fuera de línea .
-Redes sociales Siga Ed Markey 12 horas hace Estamos en medio de una crisis climática.
-Es hora de luchar por una revolución energética limpia y garantizar un futuro más brillante para todos.
-6 Re-tuitado en Twitter 2108353074896998659 37 Como en Twitter 2108353074896998659 Compartir 2108353074896998659 Siga Ed Markey 13 horas hace No pedimos nuestros derechos a gritos; nos organizamos y los conseguimos.
-2 Retweet en Twitter 2108331682755477650 6 Como en Twitter 2108331682755477650 Compartir 2108331682755477650 Siga Ed Markey 19 horas hace Donald Trump está demasiado ocupado asegurándose de que sus hijos obtengan acuerdos preferenciales y de que gane miles de millones de dólares gracias a la presidencia para preocuparse por el aumento de los costos de la vivienda —o de cualquier otro tipo de aumento de los precios.
-No le importa nada a él los trabajadores. @Acyn 2 días hace REPORTERO: Las tasas de hipotecas están en su nivel más alto en años. ¿Hay algo que pueda hacerse con respecto a los precios de las viviendas?
-TRUMP: *se aleja* Enlace Lightbox para post con descripción REPORTER: Mortgage rates are the highest they … 15 Re-tuitado en Twitter 2108241271185932656 52 Como en Twitter 2108241271185932656 Compartir 2108241271185932656 Lo último Ed Markey gana las primarias demócratas para el Senado de EE.
+Redes sociales Siga Ed Markey 11 horas hace Pete Hegseth debe irse.
+8 Retweet en Twitter 2108720467565580338 78 Como en Twitter 2108720467565580338 Compartir 2108720467565580338 Siga Ed Markey 13 horas hace Conocemos a las personas que están siendo perjudicadas por los ataques de Trump contra la salud pública.
+Son nuestros amigos, nuestros vecinos y nuestras familias.
+Debemos luchar para restablecer todos los recortes y proteger el acceso a la atención sanitaria esencial en nuestro país.
+4 Retweet en Twitter 2108697593140146451 11 Como en Twitter 2108697593140146451 Compartir 2108697593140146451 Siga Ed Markey 19 horas hace El interés público no debe perderse ante el capital privado.
+Debemos sacar al capital privado de nuestras viviendas, nuestro sistema de salud y nuestras vidas.
+Ya es hora de que pongamos a las personas por encima de los beneficios.
+4 Re-tuitado en Twitter 2108605074998018381 31 Como en Twitter 2108605074998018381 Compartir 2108605074998018381 Lo último Ed Markey gana las primarias demócratas para el Senado de EE.
 UU.
 1 de septiembre de 2026 Esta noche, Ed Markey ganó las primarias demócratas para el Senado de los EE.
 UU., asegurando la nominación demócrata y avanzando a las elecciones generales de noviembre.

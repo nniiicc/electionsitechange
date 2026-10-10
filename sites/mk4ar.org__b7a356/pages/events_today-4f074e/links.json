@@ -4,6 +4,10 @@
 "href": "https://mk4ar.org/events/today/"
 },
 {
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=975+Weston+Street+Pea+Ridge%2C+AR+AR+72751+United+States"
+},
+{
 "text": "Bio",
 "href": "https://mk4ar.org/bio/"
 },
@@ -44,23 +48,23 @@
 "href": "https://mk4ar.org/events/month/"
 },
 {
-"text": "Next Day",
-"href": "https://mk4ar.org/events/2026-10-10/"
+"text": "Pea Ridge Mule Jump",
+"href": "https://mk4ar.org/event/pea-ridge-mule-jump/"
 },
 {
 "text": "Previous Day",
-"href": "https://mk4ar.org/events/2026-10-08/"
+"href": "https://mk4ar.org/events/2026-10-09/"
 },
 {
-"text": "[tooltip: Next day]",
-"href": "https://mk4ar.org/events/2026-10-10/"
+"text": "Read More",
+"href": "https://mk4ar.org/event/pea-ridge-mule-jump/"
+},
+{
+"text": "[no text]",
+"href": "https://mk4ar.org/event/pea-ridge-mule-jump/"
 },
 {
 "text": "[tooltip: Previous day]",
-"href": "https://mk4ar.org/events/2026-10-08/"
-},
-{
-"text": "next upcoming events",
-"href": "https://mk4ar.org/events/2026-10-10/"
+"href": "https://mk4ar.org/events/2026-10-09/"
 }
 ]

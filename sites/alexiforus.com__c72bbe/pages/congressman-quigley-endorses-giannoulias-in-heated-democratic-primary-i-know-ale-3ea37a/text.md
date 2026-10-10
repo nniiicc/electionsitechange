@@ -36,7 +36,7 @@ Late last month, Quigley joined a growing list of politicians announcing they’
 So far, only Ald.
 Ray Lopez (15th) and millionaire businessman Willie Wilson have declared their intention to run for mayor next year.
 Read the article in the Chicago Sun-Times.
-Related Posts Food workers serve up support for Giannoulias in Illinois secretary of state race Former state Treasurer Alexi Giannoulias won the backing of two local chapters of the United Food and Commercial Workers International Union in what’s likely to Keep Reading → Trust Happy New Year!
-I hope you and your family are safe and healthy.
-Since word has gotten out about my interest in running for Illinois Keep Reading → IATSE Endorsement I’m extremely proud to announce that the Illinois International Alliance of Theatrical Stage Employees (IATSE) voted this week to endorse my campaign for Illinois Secretary Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts IL Pipe Trades Endorse Giannoulias for Secretary of State The Illinois Pipe Trades Association (IPTA), which includes 20 locals, endorsed Democrat Alexi Giannoulias for Illinois Secretary of State.
+Keep Reading → Giannoulias Lanza Su Primer Video En Español El Ex Tesorero de Estado Explora Campaña para Secretario de Estado Keep Reading → SEIU Illinois Endorses Giannoulias for Secretary of State in 2022 The Service Employees International Union (SEIU) State Council, representing 150,000 Illinois workers in health care, property services and the public sector, have endorsed Democrat Alexi Giannoulias for Illinois Secretary of State in 2022.
+Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

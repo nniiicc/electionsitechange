@@ -1,4 +1,4 @@
-Skip navigation menu About Troy Endorsements Priorities News Volunteer Events DONATE About Troy Endorsements Priorities News Volunteer Events DONATE JOIN TEAM TROY Sign up to get involved: It's all hands on deck to win in November and defeat Susan Collins.
+Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE JOIN TEAM TROY Sign up to get involved: It's all hands on deck to win in November and defeat Susan Collins.
 This movement is bigger than one person or one election.
 It's about getting the government we deserve and putting power back where it belongs: in the hands of the people.
 Sign up using this form, and our team will reach out to you and get you plugged in.

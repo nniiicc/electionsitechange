@@ -26,10 +26,7 @@ Secure borders.
 Safe communities.
 Hoosier values.
 With November almost here, chip in before our end-of-month deadline to help KEEP THE HOUSE RED and Twitter feed image.
-Reply on Twitter 2104934309421346915 Retweet on Twitter 2104934309421346915 0 Like on Twitter 2104934309421346915 0 Twitter 2104934309421346915 Load More Used for the like, share, comment, and reaction icons Facebook Posts After four weeks and eleven counties on the Hoosier Heartland Tour, one thing was clear: Hoosiers want common sense.
-Lower taxes.
-Secure borders.
-Safe communities.
-Hoosier values.
-With November almost here, chip in before our end-of-month deadline to help KEEP THE HOUSE RED and common sense winning in Washington: rudyforindiana.com/ … See More See Less #ago View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 103 Comments: 83 Shares: 4 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 83 Comments Comment on Facebook LOAD MORE Stay In Touch First Name (Required) Last Name (Required) Email (Required) Submit Paid for by Rudy for Indiana Rudy for Indiana 5776 Grape Road, PMB #176 Mishawaka, IN 46545 Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Reply on Twitter 2104934309421346915 Retweet on Twitter 2104934309421346915 0 Like on Twitter 2104934309421346915 0 Twitter 2104934309421346915 Load More Used for the like, share, comment, and reaction icons Facebook Posts Planning to vote absentee by mail?
+Don't wait!
+Your application must be received by October 22: indianavoters.in.gov/ … See More See Less #ago View Comments Like reaction Haha reaction Angry reaction Reactions: 17 Comments: 17 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 17 Comments Comment on Facebook LOAD MORE Stay In Touch First Name (Required) Last Name (Required) Email (Required) Submit Paid for by Rudy for Indiana Rudy for Indiana 5776 Grape Road, PMB #176 Mishawaka, IN 46545 Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Privacy Policy Donate

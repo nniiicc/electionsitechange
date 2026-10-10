@@ -72,7 +72,17 @@ FEC filings through 30 June 2026.
 Jan 2017 When Carbajal took this seat Carbajal called housing costs out of control in June 2026.
 He has held this seat since January 2017.
 See the full record Judge us both on results, then decide.
-November 3, 2026, # days left Three ways to help right now Check your registration One minute.
+Out in the community Parades, town halls, car shows and front porches, across all three counties.
+This is most of the job.
+On the parade route.
+Front yards and front porches.
+The Orcutt town hall.
+Listening, mostly.
+One conversation at a time.
+Taking questions in person.
+Community day on campus.
+Neighbors, not crowds.
+Car shows count too. ‹ › November 3, 2026, # days left Three ways to help right now Check your registration One minute.
 Confirm you are registered and your address is current, so your ballot reaches you.
 Check my registration Volunteer Knock doors, make calls, or help at an event.
 Every hour moves the district.

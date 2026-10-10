@@ -1,12 +1,6 @@
 ★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate Where to find us Upcoming Appearances Meet Ken at upcoming campaign stops and community events across Rhode Island.
 Invite Ken to your event Please contact Michelle Conway at michelle@blockforgovernor.com .
-OCT 10 2026 Upcoming Saturday Scituate Arts Festival Time 11:00 a.m. - 1:00 p.m.
-Location Village Green, North Scituate Village Green North Scituate Event details Come celebrate the fall season by visiting us on the Village Green in North Scituate.
-Browse and buy original fine art, handmade crafts and antiques in an open-air market.
-Enjoy tasty treats and support local, non-profit organizations by visiting our food court.
-Take a chance with our Raffle of items generously donated by our Exhibitors!
-Enjoy live musical entertainment!
-Saturday, October 10 10am – 5pm Sunday, October 11 10am- 5pm Monday, October 12 10am – 4pm Get directions OCT 11 2026 Upcoming Sunday Federal Hill Columbus Day Parade Time 11:00 a.m. - 1:00 p.m.
+OCT 11 2026 Upcoming Sunday Federal Hill Columbus Day Parade Time 11:00 a.m. - 1:00 p.m.
 Event details The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.
 Atwells Avenue and surrounding roads will be closed to vehicle traffic during the time of the parade from 11 am – 1 pm.
 Come enjoy, bring your flags and experience the culture, energy and pride that makes this parade a Federal Hill favorite.
@@ -25,7 +19,11 @@ No R.S.V.P. required Get directions Tuesday Conversation with Ken - Portsmouth O
 Location Sacred Cow Scoop Shop at Munroe Dairy 187 N.
 Brow Street East Providence Event details Join Us for Ice Cream with Ken!
 Ken will speak at 4:00 Attendance is limited - R.S.V.P to lindsaymitchell925@gmail.com FREE Ice Cream!
-Get directions Sunday Ice Cream with Ken - East Providence OCT 20 2026 Upcoming Tuesday WPRI Channel 12 Gubernatorial Debate Time 7:00 - 8:00 pm Location WPRI, Channel 12 Tuesday WPRI Channel 12 Gubernatorial Debate OCT 22 2026 Upcoming October 22 SAVE THE DATE - Conversation with Ken - Warwick Time 6:00 - 8:00pm Location Brewed Awakenings, Warwick 1316 Bald Hill Road Warwick Event details Conversation with Ken Bring someone who needs to hear why Ken wants to be the next Governor of Rhode Island and bring questions for Ken!
+Get directions Sunday Ice Cream with Ken - East Providence OCT 20 2026 Upcoming Tuesday WPRO Radio Gubernatorial Debate Time 9:00 - 10:00 a.m.
+Location WPRO Radio Event details Hosted by Bill Bartholomew of Bartholomewtown.
+Video will also be recorded.
+The full debate will be posted on YouTube, with clips shared on social media.
+OCT 20 2026 Upcoming Tuesday WPRI Channel 12 Gubernatorial Debate Time 7:00 - 8:00 pm Location WPRI, Channel 12 Tuesday WPRI Channel 12 Gubernatorial Debate OCT 22 2026 Upcoming October 22 SAVE THE DATE - Conversation with Ken - Warwick Time 6:00 - 8:00pm Location Brewed Awakenings, Warwick 1316 Bald Hill Road Warwick Event details Conversation with Ken Bring someone who needs to hear why Ken wants to be the next Governor of Rhode Island and bring questions for Ken!
 Q&A.
 Light bites will be served.
 Cash bar.

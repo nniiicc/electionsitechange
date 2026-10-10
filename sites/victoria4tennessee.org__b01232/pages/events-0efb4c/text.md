@@ -4,7 +4,8 @@ RSVP Canvassing Murfreesboro, Rutherford Walmart Supercenter, 2900 S Rutherford 
 RSVP Postcard Writing Party for Victoria Broderick Joanie's Public Square, 13 S Public Square, Murfreesboro, TN 37130, USA Join us for a postcard writing and stamping party for Victoria Broderick, running for congressional District 4!
 Drop in any time!
 RSVP Canvassing Murfreesboro, Rutherford Middle Ground Brewing Company, 2476 Old Fort Pkwy, Murfreesboro, TN 37128, USA Meet at middle ground brewing co. starting around 5:20-30 for quick briefing, meet our team, and lit pick up!
-RSVP Virtual Phone Bank for Victoria Broderick RSVP VB Canvassing Davidson County Whataburger, 2110 Century Farms Pkwy, Nashville, TN 37013, USA Meet at Whataburger on Century Farms Pkwy starting at 1130am for briefing and literature pickup.
+RSVP East Nashivists October Meeting - Victoria Speaking!
+Virtual Event https://www.mobilize.us/tappactioncouncils/event/1047207/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacOQC7KzTaiY5vtacvkChGHYTPDvX5PKeoJQsfpf5zs-qhtzxCEUuFB6k1uqw_aem_kuzK5VqDXtQIsA5kNANwGw RSVP Virtual Phone Bank for Victoria Broderick RSVP VB Canvassing Davidson County Whataburger, 2110 Century Farms Pkwy, Nashville, TN 37013, USA Meet at Whataburger on Century Farms Pkwy starting at 1130am for briefing and literature pickup.
 RSVP Canvassing Murfreesboro, Rutherford Kroger, 2050 Lascassas Pike, Murfreesboro, TN 37130, USA Meet at Kroger on Lascassas Pike for brief and literature pickup!
 RSVP Canvassing Murfreesboro, Rutherford Starbucks, 1144 Fortress Boulevard, Fortress and, John R Rice Blvd, Murfreesboro, TN 37128, USA Meet at Starbucks starting at 5:20-30 pm for briefing, meet our team and literature pickup!
 RSVP Virtual Phone Bank for Victoria Broderick RSVP Canvassing Murfreesboro, Rutherford Co.

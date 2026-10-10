@@ -1,4 +1,4 @@
-Toggle navigation Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Privacy Policy This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Charlie Geren Campaign websites that display this policy (the Sites).
+Toggle navigation Home Meet Charlie Issues Endorsements Voting Volunteer Contact Donate Terms and Conditions Privacy Policy This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Charlie Geren Campaign websites that display this policy (the Sites).
 By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy.
 From time to time, we may update this Privacy Policy.
 We encourage you to periodically check this Site for updates.
@@ -86,5 +86,5 @@ Visiting our Site from Outside of the United States If you are visiting our Site
 The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
 By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
 Contact Us Please contact us if you have questions about our Privacy Policy at [email protected] .
-Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Political Ad paid for by Charlie Geren Campaign, Kit Moncrief, Treasurer Charlie Geren Campaign P.O.
+Home Meet Charlie Issues Endorsements Voting Volunteer Contact Donate Terms and Conditions Political Ad paid for by Charlie Geren Campaign, Kit Moncrief, Treasurer Charlie Geren Campaign P.O.
 Box 1440 Fort Worth, TX 76101 Privacy Policy

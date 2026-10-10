@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.jentodd2026.us/news/we-did-it-thank-you",
- "fingerprint": "01adf3b7ab042188e651bb8d7a23d6a11ecdb8dc",
+ "fingerprint": "5f28b3ff9a278a41fba2567dba117c0b73dbb1b4",
  "format": 3,
  "paid_for_by": "Paid for by Friends for Jennifer Todd",
+ "rendered": false,
  "title": "We did it. Thank you.",
  "years_mentioned": [
   "2026"

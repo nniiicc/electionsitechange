@@ -1,4 +1,4 @@
-Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today The Thurgood Marshall Plan THE THURGOOD MARSHALL PLAN A New Marshall Plan for Black Opportunity The Thurgood Marshall Plan is an independent policy proposal named in honor of Justice Thurgood Marshall and the principles of equal justice and opportunity associated with his life's work.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today The Thurgood Marshall Plan THE THURGOOD MARSHALL PLAN A New Marshall Plan for Black Opportunity The Thurgood Marshall Plan is an independent policy proposal named in honor of Justice Thurgood Marshall and the principles of equal justice and opportunity associated with his life's work.
 It is not affiliated with, sponsored by, or endorsed by the Thurgood Marshall College Fund, Thurgood Marshall College, the Marshall family or estate, or any other institution bearing Justice Marshall's name.
 Open Every Door.
 Let Talent Rise.
@@ -122,10 +122,11 @@ But, we should fight to make opportunity real.
 And when opportunity becomes real, people will do what Americans have always done when given a genuine chance: They will build, create, innovate, lead…and they will rise.
 OPEN EVERY DOOR.
 LET TALENT RISE.
-Previous Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like A Breakthrough Brief: Thrivability for Small Business Independence from Party Control Humane Immigration Reform and Border Security Women’s Empowerment & A Fresh Take on Life and Choice Thrivability: Beyond Affordability to Economic Possibility STAY UPDATED Let’s Build the Future Together.
+Previous Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like Humane Immigration Reform and Border Security Women’s Empowerment & A Fresh Take on Life and Choice Independence from Party Control Healthcare That Works for People, Not Bureaucracies Thrivability: Beyond Affordability to Economic Possibility STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
-SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Questions for Team Future?
+Email info@jadesimmonsforsenate.com SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
 Senate .
 We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
 You may unsubscribe at any time.

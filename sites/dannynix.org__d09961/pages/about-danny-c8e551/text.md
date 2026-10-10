@@ -1,4 +1,4 @@
-Skip to content ABOUT DANNY VOLUNTEER NOW Menu ABOUT DANNY VOLUNTEER NOW Donate About Danny Danny Nix is a Commercial Realtor who leads the Nix Commercial Group at Keller Williams Peace River Partners Realty.
+Skip to content ABOUT DANNY VOLUNTEER NOW ABOUT DANNY VOLUNTEER NOW Donate About Danny Danny Nix is a Commercial Realtor who leads the Nix Commercial Group at Keller Williams Peace River Partners Realty.
 Currently, Danny serves as President of the Realtors of Punta Gorda-Port Charlotte-North Port-DeSoto, Inc.
 He has previously served as President of the Economic Development Partnership of Charlotte County and as Chair and Trustee of the Board for Florida Southwestern State College.
 Taking inspiration from Governor Ron DeSantis, Danny will fight tirelessly for every Floridian’s freedoms.

@@ -1,4 +1,4 @@
-0 Skip to Content Home About Contact Donate Donate Open Menu Close Menu Home About Contact Donate Donate Open Menu Close Menu Home About Contact Donate Donate Re-Elect State Representative Alex Holladay Fighting for a Future You Can Afford Putting North Little Rock and Sherwood First In March, the people of North Little Rock and Sherwood elected me to represent our community at the State Capitol.
+0 Skip to Content Home About Contact Election Info Donate Open Menu Close Menu Home About Contact Election Info Donate Open Menu Close Menu Home About Contact Election Info Donate Re-Elect State Representative Alex Holladay Fighting for a Future You Can Afford Putting North Little Rock and Sherwood First In March, the people of North Little Rock and Sherwood elected me to represent our community at the State Capitol.
 It has been the honor of my life.
 Families are working harder than ever, but the cost of groceries, housing, utilities, insurance, and healthcare keeps climbing.
 Arkansans deserve leaders who understand that struggle and are focused on making everyday life more affordable.

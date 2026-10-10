@@ -10,4 +10,5 @@ Amy attended Point Loma College (now Point Loma Nazarene University), earning he
 She went on to earn her Master's of Education degree from Azusa Pacific University and a Ph.D. in Educational Leadership and Administration at Claremont Graduate University .
 She also completed the California School Boards Association’s (CSBA) Master's in Governance program.
 Amy and her husband Mike have five adult children and live in one of the unincorporated communities of the district.
-Home About Donate Powered by RUN! website builder Paid for by Amy Slavensky for Assembly 2026, Committee #1484959 You need to enable JavaScript to run this app.
+"Growing up in subsidized housing, we relied on MediCal and food stamps to get by.
+So when Josh Hoover votes against lowering health care premiums and against free school meals for kids, it's personal to me." Home About Donate Powered by RUN! website builder Paid for by Amy Slavensky for Assembly 2026, Committee #1484959 You need to enable JavaScript to run this app.

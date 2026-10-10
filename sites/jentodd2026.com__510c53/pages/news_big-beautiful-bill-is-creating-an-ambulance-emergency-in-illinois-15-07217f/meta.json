@@ -1,9 +1,10 @@
 {
  "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.jentodd2026.us/news/big-beautiful-bill-is-creating-an-ambulance-emergency-in-illinois-15",
- "fingerprint": "7548c9fe9e43ff8fc7f79ee5216fcb53ce0c6259",
+ "fingerprint": "10cff83d417c5982164f833f35d94e58ddccac8a",
  "format": 3,
  "paid_for_by": "Paid for by Friends for Jennifer Todd",
+ "rendered": false,
  "title": "Big Beautiful Bill is Creating An Ambulance Emergency in Illinois 15",
  "years_mentioned": [
   "2026"

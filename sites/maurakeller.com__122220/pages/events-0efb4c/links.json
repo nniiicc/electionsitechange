@@ -5,6 +5,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=1501+13th+street+columbus%2C+georgia%2C+31901+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=185+kathi+avenue+fayetteville%2C+georgia%2C+30214+united+states"
 },
 {
@@ -261,6 +265,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+and+Canvass+with+Maura+Keller+%7C+Muscogee+County&dates=20261010T210000Z%2F20261010T230000Z&location=1501+13th+Street%2C+Columbus%2C+Georgia%2C+31901%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rally+with+Mayor+Keisha+Lance+Bottoms+in+Milner%2C+GA&dates=20260912T160000Z%2F20260912T220000Z&location=276+Old+Alabama+Road%2C+Milner%2C+Georgia%2C+30257%2C+United+States"
 },
 {
@@ -381,6 +389,10 @@
 },
 {
 "text": "ICS",
+"href": "https://maurakeller.com/events/canvass-10-09-muscogee?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://maurakeller.com/events/canvass-10-25?format=ical"
 },
 {
@@ -450,6 +462,10 @@
 {
 "text": "Meet Maura",
 "href": "https://maurakeller.com/meet"
+},
+{
+"text": "Meet and Greet and Canvass with Maura Keller | Muscogee County",
+"href": "https://maurakeller.com/events/canvass-10-09-muscogee"
 },
 {
 "text": "News",
@@ -590,6 +606,10 @@
 {
 "text": "View Event →",
 "href": "https://maurakeller.com/events/canvass-09-30"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-10-09-muscogee"
 },
 {
 "text": "View Event →",
@@ -758,6 +778,10 @@
 {
 "text": "[image: Maura Keller]",
 "href": "https://maurakeller.com/"
+},
+{
+"text": "[image: Meet and Greet and Canvass with Maura Keller | Muscogee County]",
+"href": "https://maurakeller.com/events/canvass-10-09-muscogee"
 },
 {
 "text": "[image: Rally with Mayor Keisha Lance Bottoms in Milner, GA]",

@@ -22,6 +22,6 @@ Kassner spent her career in planning and community development.
 As Planning Director for the Town of Burlington and a community volunteer, she dedicated two decades to improving quality of life for people and their environments.
 Her professional life has focused on consensus building and community planning, building fiscal stability, improving infrastructure and the environment and driving regional partnerships.
 Kristin has also served as President and Professional Development Officer of the Massachusetts Chapter of the American Planning Association.
-### Kristin Kassner https://kristinkassner.org Next Next Governor Healey Announces $40 Million for Economic Development and Housing Projects for Northeast Mass Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+### Kristin Kassner https://kristinkassner.org Previous Previous Letter: Kassner’s Work on Site Plan Review Shows Real Housing Leadership Next Next Governor Healey Announces $40 Million for Economic Development and Housing Projects for Northeast Mass Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
 Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

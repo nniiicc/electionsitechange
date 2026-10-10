@@ -1,5 +1,5 @@
-Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
-Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery Campaign Text Messaging - Terms & Conditions Campaign Text Messaging - Privacy Policy News Constituent Corner Contact Me How Can We Help?
 Nominate a Neighbor In the Community Donate March 8, 2022 Guest User Representative Ricks leads International Women's Day celebration Guest User March 8, 2022 Representative Ricks leads International Women's Day celebration Guest User March 8, 2022 March 8th is International Women’s Day - a day to recognize the social, economic, cultural and political achievements of women throughout the world.
 In celebration of this important day, Representative Ricks introduced a Tribute in the House of Representatives and shared remarks.
 She also welcomed women from throughout the state for a special event at the Capitol.
@@ -14,4 +14,5 @@ Watch Representative Ricks’ full remarks below.
 Newer Post RHEA passes the House!
 Older Post Rep.
 Naquetta Ricks delivers remarks highlighting voting rights in honor of MLK Day Back to Top Sign up for my newsletter!
-Paid for by Naquetta Ricks for Colorado
+Receive text messages from our campaign!
+Terms & Conditions | Privacy Policy Paid for by Naquetta Ricks for Colorado

@@ -1,4 +1,4 @@
-Tweets by katyperrone13 top of page Meet Kate Donate Issues Contact Volunteer More Use tab to navigate through the menu items.
+Tweets by katyperrone13 top of page Meet Kate Issues Volunteer Donate Contact More Use tab to navigate through the menu items.
 Meet Kate ILLINOIS BORN.
 ILLINOIS RAISED.
 Kate (Perrone) McGrath was born at MacNeal Hospital in Berwyn and adopted through Catholic Charities.

@@ -29,7 +29,7 @@ Thank you the Covington Chamber Of Commerce - Covington, WA and the Kent Chamber
 And thank you to the many sponsors including the 47th District Democrats .
 And thank you to my seatmates Vote Claudia Kauffman and Elect Debra Entenman for your courage and support!
 And how could I forget to praise Carmen Goers and Rod Meyers for an outstanding job of moderating. ...
-See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 29 Shares: 3 Comments: 0 0 Comments Comment on Facebook Chris Stearns for State Rep.
+See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 33 Shares: 3 Comments: 0 0 Comments Comment on Facebook Chris Stearns for State Rep.
 #ago I want to talk to you about this upcoming election.
 The truth is, it’s not about left versus right.
 It’s something just far more simple.
@@ -44,7 +44,7 @@ Those things are right.
 And I’m proud to be fighting for those things too.
 So, I’m glad that you care about, and are focused on, the difference between right and wrong, not right versus left.
 And your support and your vote will give us the energy to keep on fighting for those things in the future and for our district. www.chris4wa.com ...
-See More See Less Play View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha wow angry 102 Shares: 12 Comments: 57 57 Comments Comment on Facebook Chris Stearns for State Rep.
+See More See Less Play View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha wow angry 107 Shares: 12 Comments: 59 59 Comments Comment on Facebook Chris Stearns for State Rep.
 #ago Photos from Chris Stearns for State Rep.'s post ...
 See More See Less View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 6 Shares: 0 Comments: 1 1 Comments Comment on Facebook Chris Stearns for State Rep.
 #ago How often do you get to talk with a room full of governors, Congresswomen, legislators and senators?

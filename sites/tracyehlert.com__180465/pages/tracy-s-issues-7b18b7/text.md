@@ -10,8 +10,8 @@ Add in the high cancer rates in Iowa, the lack of mental health resources and th
 It is time we make sure that every Iowan has access to affordable, accessible and equitable health care in every corner of our state.
 LEADING SCHOOLS Iowa used to be top in the nation in education, but we've fallen behind in recent years.
 Education not only prepares our children for the next step in life but ensures that all kids in our state have an equal chance for success.
-We must make sure that education at all levels, cradle to career, is fully funded so hardworking Iowa families can give their kids an excellent education and we have a workforce that stays in our state. ​ GREAT JOBS, BETTER BENEFITS While politicians in Des Moines continue to give tax breaks to out-of-state corporations, I look around our state now and see a lack of opportunity for hardworking Iowa families to make ends meet.
-As a state, we should be investing in small businesses and job creation to make sure that the future generation here has the same ability for opportunity that we had growing up.
+We must make sure that education at all levels, cradle to career, is fully funded so hardworking Iowa families can give their kids an excellent education and we have a workforce that stays in our state. ​ GREAT JOBS, BETTER BENEFITS We should be mindful of tax breaks to out-of-state corporations, I look around our state now and see a lack of opportunity for hardworking Iowa families to make ends meet.
+As a state, we should be investing more in small businesses and job creation to make sure that the future generation here has the same ability for opportunity that we had growing up.
 There are many more issues that Tracy works on and cares about.
 She would love to talk to you about them and learn more about what you care about.
 Reach out to her to learn more.

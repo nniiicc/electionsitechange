@@ -37,7 +37,15 @@ Read our Infrastructure Policy Invest In New Mexico’s Future Every contributio
 Together, we can move New Mexico forward. $25 $50 $100 $200 $500 Other $25 $50 $100 $200 $500 Other Invest In New Mexico’s Future Every contribution helps us reach more voters, share our message, and build the campaign needed to win.
 Together, we can move New Mexico forward.
 Latest Updates View All News Gregg Hull Introduces “Four Steps to Zero” Tax Relief Proposal October 5, 2026 Read more Haaland’s Former Campaign Manager Now Lobbying for the Company Powering Project Jupiter September 29, 2026 Read more Hull: Kevin S.
-Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/08/2026 @ 2:08 am “The debate about the debate.” Coming soon to a screen near you. 😉 All kidding aside, New Mexicans deserve to hear directly from the people asking to lead our state.
+Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/09/2026 @ 6:31 pm Behind every first responder is a family who hopes they’ll make it home.
+It was an honor to stand in support of our first responders and the families of those who made the ultimat...
+Posted: 10/09/2026 @ 12:41 pm Posted: 10/09/2026 @ 3:39 am What a night, New Mexico!
+I walked into tonight’s debate ready to answer your questions—and walked out more determined than ever to earn your vote. 🗳️ When you’re asking to lead ...
+Posted: 10/08/2026 @ 5:00 pm There’s still a lot of road ahead, and I’m not letting up.
+I want to hear your questions, understand your concerns, and earn your vote.
+Getting to sit down with people across New ...
+Posted: 10/08/2026 @ 2:01 pm New Mexico, debate night is here! 🔥 Tonight, we’ll talk about the issues that matter most to families across our state: ✅ Good-paying jobs ✅ Thriving small businesses ✅ Stronger ...
+Posted: 10/08/2026 @ 2:08 am “The debate about the debate.” Coming soon to a screen near you. 😉 All kidding aside, New Mexicans deserve to hear directly from the people asking to lead our state.
 This is your ...
 Posted: 10/07/2026 @ 9:35 pm # days.
 And I’m going to make every one count.
@@ -50,22 +58,6 @@ Posted: 10/06/2026 @ 8:57 pm Every mile traveled, every conversation, every comm
 I believe in our people—and in what we can accomplish w...
 Posted: 10/06/2026 @ 1:00 pm New Mexico, it’s time.
 Early voting begins today, October 6! 🗳️ 📍 Vote early at your county clerk’s office beginning October 6. 📅 Additional early voting locations open October 17...
-Posted: 10/05/2026 @ 9:05 pm You work hard for your paycheck.
-You deserve to keep more of it.
-Today, I introduced Four Steps to Zero, my proposal to gradually eliminate New Mexico’s personal income tax—with f...
-Posted: 10/05/2026 @ 4:20 pm DONATE TODAY AT GREGGHULL.COM We can win this race.
-This poll shows a close race, with 12% still undecided.
-We are effectively in a tie.
-Every conversation, every shared post, a...
-Posted: 10/05/2026 @ 3:00 pm Las Cruces, let’s pack this rally! 🙌 Join me Saturday, October 10, for our We Are New Mexico Rally—with music, food, and a chance to come together for the state we love.
-I’d love...
-Posted: 10/05/2026 @ 12:57 am We had a great time in Grants today!
-#hullfornewmexico #WeAreNewMexico Posted: 10/04/2026 @ 7:31 pm # days.
-One New Mexico.
-A future worth fighting for.
-I need your help to finish strong.
-If you can, please invest in our campaign today.
-Your donation helps us reach more New Me...
 Let's get to work.
 Join thousands of New Mexicans getting campaign updates by email and text.
 First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.

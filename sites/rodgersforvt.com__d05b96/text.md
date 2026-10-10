@@ -3,7 +3,8 @@ GOV.
 JOHN S.
 RODGERS INDEPENDENT LEADERSHIP.
 A VOICE OF THE WORKING CLASS.
-JOIN TEAM RODGERS By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, updates, and other important information.
+JOIN TEAM RODGERS By providing your phone number and checking the box, you consent to receive calls and text messages.
+By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, updates, and other important information.
 Messages will be sent and donations may be solicited.
 By participating, you agree to the terms & privacy policy for auto-dialed messages from Friends of John Rodgers to the phone number you provide.
 Message frequency may vary.

@@ -2,7 +2,7 @@ Home About News Volunteer Donate Contact Contribute Black Women in Michigan Poli
 Black Women in Michigan Politics Luncheon 2023 Home About News Volunteer Donate Contact News Priorities & Structure October 13, 2023 by webmaster 0 Comments It is an honor to come together and break bread with such an array of amazing of women.
 Share: twitter facebook youtube Post navigation Previous post State Rep.
 Cythia Neely (D-Flint) will host a stop on the Energy Reliability, Resilience and Accountability Task Force Listening Tour Next post Rep.
-Cynthia Neeley Thriving Together with the NAACP You May Also Like Family News March 25, 2021 We Introduced bills for EQUAL pay for everyone Family Law News Rights & Obligations June 5, 2024 House Criminal Justice Committee holds hearing on Messiah’s Law Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
+Cynthia Neeley Thriving Together with the NAACP You May Also Like News January 18, 2022 Free COVID test kits News Priorities & Structure March 22, 2022 Michigan Water Day and World Water Day Leave a comment Cancel reply Name E-mail Save my name, email, and website in this browser for the next time I comment.
 Comment I agree that my submitted data is being collected and stored.
 Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
 Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.

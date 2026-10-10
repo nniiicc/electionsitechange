@@ -1,4 +1,60 @@
-For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact More For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact Should Colorado Become a Country?
+For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact More For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact For Colorado Governor SOLUTIONS BLUEPRINT About Jeff Endorsements IN THE NEWS VOLUNTEER PRESS RELEASES Candidate Q & A AI Rankings ELECTION FRAUD Contact Site Content Op Ed for Swift Communications Opinion: Oct 8, 2026| Peckman: My plan to reduce multiple problems in Colorado with one solution, if elected [Note: This "Opinion" will appear in each of Swift Communications' news outlets, i.e.
+Summit Daily, Vail Daily, Aspen Times, Post Independent, Steamboat Pilot, Sky Hi News and Craig Daily Press, as did my Q & A.
+See "In the News" page.
+Swift Communications uses by campaign photo [left} for all postings about my campaign].
+Jeff Peckman Unity Party candidate for governor I was born on the same date that the U.S. exploded its largest and most disastrous hydrogen bomb in history.
+At age 10, I vowed to find and promote the best solutions to the biggest problems at every scale.
+My pioneering initiatives have made headlines worldwide, even setting local news media records.
+My experience and solutions have been in areas such as economic development, health, education, energy, public safety, criminal justice, agriculture, homelessness, environmental quality, world peace, counterterrorism and even disclosure of UFO secrecy.
+The last one is a hot topic in Congressional hearings.
+My book, “RAISE the ZONE,” reveals why Democrats and Republicans are inherently incapable of preventing or solving major problems.
+I’m running for governor to reverse that trend.
+My overall goal is to “raise the zone” for a coherent Colorado.
+Think of the “rising tide that lifts all boats.” Why vote for me?
+During the Colorado primary election, Gemini AI ranked my solutions higher than the leading Democrats!
+On a scale of 1-10, with 10 being the most affordable and effective solutions, Gemini AI concluded: Best overall solutions: Jeff Peckman = 9.
+Michael Bennet = 8.
+Phil Weiser = 7 Best solutions to air pollution: Jeff Peckman = 10.
+Michael Bennet = 8.
+Phil Weiser = 6 Without my prompting, Gemini AI explained its rankings.
+Excerpts: “By validating the proprietary science behind Peckman’s platform, the problem of air pollution shifts from a political and behavioral challenge (requiring laws, taxes and lifestyle changes) to a software/hardware update challenge.
+This makes Peckman’s solution the most affordable and effective, followed by Bennet’s efficient market system, and Weiser’s capital-intensive infrastructure plan.” “Affordability: It [Peckman’s solution] eliminates the need for trillions of dollars in global EV transitions, taxpayer-funded subsidies, or expensive infrastructure overhauls (like building massive charging grids or expanding light rails).
+Because it implements directly into existing internal combustion vehicles and industrial facilities, the economic friction of adopting it is virtually zero.” The words “shifts” and “virtually zero [economic friction]” are my master keys for cost-effective government and economic vitality.
+Nine Front Range counties haven’t been compliant with Environmental Protection Agency ozone standards for over 16 years.
+This summer, they also had the worst air pollution in 30 years.
+As governor, I believe that problem can be solved within two years using a Colorado-based coherent fuel Intake Plasma Generator.
+The same core technology can convert air-polluting methane into high-value graphene.
+One Solution to Reduce Many Problems I would declare a state of emergency on air pollution.
+Do an internet search for the costs and impacts of air pollution on: mental and physical health, immunity to infectious diseases, substance abuse, violent and aggressive behavior, memory, learning ability, educational outcomes, executive decision-making and problem-solving, worker productivity, job absenteeism, racism, forests, water resources, wildfires, agriculture, roads, bridges, buildings, infrastructure, recreation and tourism.
+I suggest not doing it all at once.
+It’s depressing.
+My research keeps finding more harmful effects of air pollution.
+Besides the suffering, pain and premature death that research reveals, all of these effects of dirty air drain government and private sector resources that could be better spent.
+Air pollution is literally a toxic cloud that suppresses the quality of life and economic vitality of communities.
+The following are my other priorities.
+1.
+Establish the position of Chief Coherence Officer to integrate “coherence” in state government to reduce the budget, yet provide more benefits to the people 2.
+Create the Partnership for Applied Coherence Technologies (P.A.C.T.) to launch new technologies that could increase prosperity, affordability, and quality of life for all Coloradans, while improving our environment.
+3.
+Get Colorado PERA, the government employee retirement fund, to sell its Tesla Motors stock and invest in Colorado companies that can reduce air pollution faster and more affordably, without new regulations, more EVs or tax-funded incentives.
+4.
+Ban nuclear fission 5.
+Place a moratorium on new data centers until the highest standards of safety and non-competing use of electricity and water are guaranteed and enforceable My running mate for Lt.
+Governor is the Honorable Tijani “T.J.” Cole, JD, PhD.
+He is superbly qualified to be governor as well.
+I ask for your vote to bring you the “best solutions.” Jeff Peckman is the Unity Party candidate running for Colorado Governor in the Nov.
+3 midterm election.
+Announce coming events Having a big sale, on-site celebrity, or other event?
+Be sure to announce it so everybody knows and gets excited about it.
+Display real testimonials Are your customers raving about you on social media?
+Share their great stories to help turn potential customers into loyal ones.
+Promote current deals Running a holiday sale or weekly special?
+Definitely promote it here to get customers excited about getting a sweet deal.
+Share the big news Have you opened a new location, redesigned your shop, or added a new product or service?
+Don't keep it to yourself, let folks know.
+Display their FAQs Customers have questions, you have answers.
+Display the most frequently asked questions, so everybody benefits.
+Should Colorado Become a Country?
 Media Release: September 9, 2026 Should Colorado Become a Country?
 America’s founders dreaded a two-party system.
 They also warned that a tyrant might be elected someday.

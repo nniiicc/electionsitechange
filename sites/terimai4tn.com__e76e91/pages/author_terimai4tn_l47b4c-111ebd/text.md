@@ -13,7 +13,7 @@ Economy published by the U.S.
 Department of the Treasury, unions helped close the race and gender gap in wages.
 Additionally, union members generally vote more often than non-union members and union members are more likely to donate to charity, attend community meetings and volunteer for an organization.
 For these reasons and more, I strongly support our labor unions.
-Issues Arming Faculty and Staff is Dangerous and Irresponsible Posted 2 years ago by Teri Mai By arming faculty and staff, we are putting them and students at greater risk of serious bodily injury or death by gunfire.
+Issues Arming Faculty and Staff is Dangerous and Irresponsible Posted 3 years ago by Teri Mai By arming faculty and staff, we are putting them and students at greater risk of serious bodily injury or death by gunfire.
 Ask police officers who have responded to an active shooter event.
 They will tell you that information can be very sparse or inaccurate during an active shooter event, so if a teacher has a gun out when police show up, there is a decent chance the teacher will be shot.
 Teachers and faculty carry a heavy enough load without being asked to shoulder the additional responsibility of carrying a firearm into the classroom.

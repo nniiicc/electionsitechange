@@ -1,5 +1,5 @@
 top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
-RUNNING FOR UTAH HOUSE DISTRICT 39 Government that works for the people it's supposed to serve. ​ ​ Veteran.
+DONATE TODAY REQUEST A YARD SIGN RUNNING FOR UTAH HOUSE DISTRICT 39 Government that works for the people it's supposed to serve. ​ ​ Veteran.
 Advocate.
 I'm running because too many Utahns feel like no one in elected office is really listening.
 I'm here to change that.
@@ -17,7 +17,7 @@ Each sign stands for fully funded schools, affordable living, and a Utah that wo
 Let’s make our vision visible—one sign at a time.
 Endorsements Meet the dedicated individuals supporting Drew Howells in his mission to represent Utah HD39.
 Together, we strive for positive change and community engagement.
-Untitled - July 07, 2026 at 15.20.21 IMG_3407 Untitled 19 Untitled - July 07, 2026 at 15.20.21 1/8 Get to know Drew Howells Passionate Candidate for Utah HD39 Discover the vision and dedication driving Drew Howells for Utah HD39.
+1/8 Get to know Drew Howells Passionate Candidate for Utah HD39 Discover the vision and dedication driving Drew Howells for Utah HD39.
 With a focus on community welfare and progressive change, Howells is committed to representing the people's voice.
 Learn about the policies and initiatives that Drew advocates for, aiming to create a better future for all.
 Get involved and support a candidate who prioritizes transparency, equality, and sustainable growth.

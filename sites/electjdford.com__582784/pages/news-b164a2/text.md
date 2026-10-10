@@ -33,7 +33,7 @@ Ford will become Indiana's first openly gay lawmaker IndyStar 11/6/18 Start Now 
 Ford Exposes Victoria Spartz’s Corruption and Votes Against Hoosiers Today, the President has chosen the path of a unilateral war of choice.
 The Iranian regime is a brutal and repressive dictatorship that has spent 47 years terrorizing its own people and shedding American blood.
 This history of violence stretches back to the horrific 1983 Beirut Marines barracks bombing.
-#ago 1 min read J.D.
+Oct 1 1 min read J.D.
 Ford corrects the record on Victoria Spartz’s misleading letter Today, the President has chosen the path of a unilateral war of choice.
 The Iranian regime is a brutal and repressive dictatorship that has spent 47 years terrorizing its own people and shedding American blood.
 This history of violence stretches back to the horrific 1983 Beirut Marines barracks bombing.

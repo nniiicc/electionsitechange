@@ -1,5 +1,10 @@
 top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE Get on the calendar UPCOMING EVENTS THE PATH TO VICTORY, AN INTIMATE EVENING OF COCKTAILS AND CONVERSATION Monday, October 12, 2026 RSVP HERE Can’t attend?
 You can still support the campaign.
+CONTRIBUTE CAMPAIGN & THE CITY ONE NIGHT.
+ONE ELECTION.
+ONE MANHATTAN WORTH FIGHTING FOR.
+Thursday, October 22, 2026 RSVP HERE Can’t attend?
+You can still support the campaign.
 CONTRIBUTE Donate SUPPORT THE CAMPAIGN Every contribution helps us reach D28 voters. $28 $50 $100 $150 $250 $1050 $5000 Other DONATE Elect your neighbor END THE NEGLECT I’m tired of the excuses coming out of Albany while our neighborhood pays the price.
 I’m tired of career politicians with no term limits falling in line with a far-left, DSA-driven agenda and endorsing someone for mayor whom nearly two-thirds of their own constituents rejected.
 They look the other way as antisemitism rises, our streets and subways become less safe, homeless encampments become more prevalent, and more shelters open in our neighborhoods without addressing mental illness or the underlying problems they are supposed to solve.

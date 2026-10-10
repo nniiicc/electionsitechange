@@ -38,7 +38,7 @@ I also know their workload is about to grow.
 As rural clinics and hospitals close, wildfires increase, and behavioral and mental health needs go unmet, more of those calls land on our fire and EMS crews.
 That will keep getting worse unless we push back on what is happening both federally and in Olympia.
 Thank you to the firefighters and the whole WSCFF team for trusting me to carry your voice to Olympia and push back.
-#WA39 #IdaForWA #WSCFF #Community #Representativeforall 10 0 Share 1108195102383524_122116844978631455 Follow Ida Keeley for WA #ago 11 1 Share 1108195102383524_122116617902631455 Follow Ida Keeley for WA #ago 7 1 Share 1108195102383524_122116564166631455 Follow Ida Keeley for WA #ago 🚨 ACTION ALERT: Stand Up for Head Start & Early Learning in WA State!
+#WA39 #IdaForWA #WSCFF #Community #Representativeforall 16 0 Share 1108195102383524_122116844978631455 Follow Ida Keeley for WA #ago 12 1 Share 1108195102383524_122116617902631455 Follow Ida Keeley for WA #ago 8 1 Share 1108195102383524_122116564166631455 Follow Ida Keeley for WA #ago 🚨 ACTION ALERT: Stand Up for Head Start & Early Learning in WA State!
 I sent in my comment and you can too!
 7 1 Share 1108195102383524_122116545938631455 Follow Ida Keeley for WA #ago Lightbox link for post with description Beyond grateful that Transportation for ...
 Beyond grateful that Transportation for Washington has endorsed my campaign for the 39th Legislative District!

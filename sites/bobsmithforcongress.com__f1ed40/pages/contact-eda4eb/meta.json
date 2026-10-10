@@ -1,9 +1,10 @@
 {
  "description": "staging",
  "final_url": "https://bobsmithforcongress.com/contact/",
- "fingerprint": "f1d1e80f2a785d831e519ce2e82ccca81f697bfe",
+ "fingerprint": "0fa009d43edb8cb3a2bc37e3abd0fbf68f4c39ad",
  "format": 3,
  "paid_for_by": "Paid for by Bob Smith for Congress",
+ "rendered": false,
  "title": "Contact | Bob Smith for Congress",
  "years_mentioned": []
 }

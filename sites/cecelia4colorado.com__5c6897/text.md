@@ -1,4 +1,4 @@
-0 Skip to Content Home Legislation 2026 2025 Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home Legislation 2026 2025 Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home Folder: Legislation Back 2026 2025 Folder: Newsletters Back 2026 Session 2025 Session Newsroom English Back DONATE Cecelia Espenoza Democrat for House District 4 A lifetime of service.
+0 Skip to Content Home About About Cecelia About HD 4 Legislation 2026 2025 Endorsements Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home About About Cecelia About HD 4 Legislation 2026 2025 Endorsements Newsletters 2026 Session 2025 Session Newsroom English DONATE Open Menu Close Menu Home Folder: About Back About Cecelia About HD 4 Folder: Legislation Back 2026 2025 Endorsements Folder: Newsletters Back 2026 Session 2025 Session Newsroom English Back DONATE Cecelia Espenoza Democrat for House District 4 A lifetime of service.
 A new era of progress.
 Meet Cecelia Join the Movement A former immigration judge , attorney , and law professor standing up for justice , access , and Colorado communities.
 A Lifetime of Breaking Barriers.
@@ -18,7 +18,7 @@ HD4 IS HOME.
 For 34 years, Cecelia has called House District 4 home.
 She knows its neighborhoods, its people, and the community that makes this district so special.
 Now, she’s proud to keep showing up for the place and people she loves.
-EXPLORE HD4 From September 4 through October 4, I’m asking you to join me in continuing the work of building a stronger, more affordable Colorado.
+EXPLORE HD4 I’m asking you to join me in continuing the work of building a stronger, more affordable Colorado.
 Give $4 or more and join us in moving HD4 forward.
 Will you join us in the HD4 $4 or More Campaign? $4 $44 $444 $450 If you've saved your payment information with ActBlue Express, your donation will go through immediately.
 Newsletter Block This newsletter signup form needs a storage option.

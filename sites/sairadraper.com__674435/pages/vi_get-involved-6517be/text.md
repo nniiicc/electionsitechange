@@ -35,14 +35,13 @@ Chúng tôi sẽ giao bảng đến tận nhà quý vị.
 Yêu cầu → Tình nguyện Gõ cửa.
 Gọi điện.
 Hành động vì Khu vực 44. Đăng ký → Bạn muốn làm việc với chiến dịch — thực tập, một vị trí công việc, hay chỉ để gửi hồ sơ của bạn?
-Làm việc với Saira → Tin tức mới nhất Bài viết Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia Georgia’s voter registration deadline is October 5.
+Làm việc với Saira → Tin tức mới nhất Draper Paper They're Waiting Until You've Voted Republicans already admitted they'll redraw our maps.
+The only question is when.
+9 tháng 10, 2026 Chia sẻ Facebook Bluesky Reddit Email X Sao chép liên kết Bài viết A Guide to Georgia Legislative Procedure and Redistricting Terms Breaking down the essential terms governing district mapmaking, voting rights, and statehouse procedures in Georgia.
+9 tháng 10, 2026 Chia sẻ Facebook Bluesky Reddit Email X Sao chép liên kết Bài viết Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia Georgia’s voter registration deadline is October 5.
 Rep.
 Saira Draper urges Georgians to verify their status and register before the cutoff.
-5 tháng 10, 2026 Chia sẻ Facebook Bluesky Reddit Email X Sao chép liên kết Draper Paper Draper Paper: And we're off!
-And why I recommend voting early, in-person 23 tháng 9, 2026 Chia sẻ Facebook Bluesky Reddit Email X Sao chép liên kết Trên báo chí ajc.com ↗ Speaker Burns promised transparency before redistricting.
-We’re waiting.
-The AJC reports that promised statewide public hearings on Georgia redistricting remain unscheduled, raising transparency concerns ahead of future map redrawing.
-18 tháng 9, 2026 Chia sẻ Facebook Bluesky Reddit Email X Sao chép liên kết Xem tất cả tin tức Đăng ký Được ủng hộ bởi Georgia WIN List › Moms' Seal of Approval on Child Care › Planned Parenthood Planned Parenthood Action Fund › GALEO Impact Fund › Rep.
+5 tháng 10, 2026 Chia sẻ Facebook Bluesky Reddit Email X Sao chép liên kết Xem tất cả tin tức Đăng ký Được ủng hộ bởi Georgia WIN List › Moms' Seal of Approval on Child Care › Planned Parenthood Planned Parenthood Action Fund › GALEO Impact Fund › Rep.
 Yasmin Neal District 79 Chair, Clayton County Delegation › UFCW Local 1996 › Hector Guiterrez Councilmember, Ward 3 City of Forest Park › Teamsters Local 528 › Georgia WIN List › Moms' Seal of Approval on Child Care › Planned Parenthood Planned Parenthood Action Fund › GALEO Impact Fund › Rep.
 Yasmin Neal District 79 Chair, Clayton County Delegation › UFCW Local 1996 › Hector Guiterrez Councilmember, Ward 3 City of Forest Park › Teamsters Local 528 › Reverend Timothy McDonald, III Pastor, First Iconium Baptist Church › Latino Victory Fund › Sherry Boston District Attorney Dekalb County › Rep.
 El-Mahdi Holly District 116 › Rep.

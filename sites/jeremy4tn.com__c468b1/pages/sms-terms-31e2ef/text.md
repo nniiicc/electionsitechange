@@ -1,4 +1,4 @@
-Jeremy 4 TN About Platform Events Voting Info Count Me In Subscribe Donate Jeremy 4 TN · Legal & Compliance SMS Terms of Service Effective Date: April 22, 2026 Updated: August 6, 2026 Program Summary — Required Disclosures Program Name Jeremy 4 TN Campaign SMS Sender Jeremy 4 TN, authorized campaign committee for Jeremy Bromwell, Tennessee House District 23 Message Types Campaign updates, event announcements, volunteer opportunities — based on topics selected at sign-up Message Frequency Varies based on campaign activity and your selected preferences.
+Jeremy 4 TN About Platform Events Voting Info Count Me In Subscribe Donate Jeremy 4 TN · Legal & Compliance SMS Terms of Service Effective Date: April 22, 2026 Updated: October 8, 2026 Program Summary — Required Disclosures Program Name Jeremy 4 TN Campaign SMS Sender Jeremy 4 TN, authorized campaign committee for Jeremy Bromwell, Tennessee House District 23 Message Types Campaign updates, event announcements, volunteer opportunities — based on topics selected at sign-up Message Frequency Varies based on campaign activity and your selected preferences.
 Multiple messages per week possible during active campaign periods.
 Opt-Out Reply STOP to any message.
 You will receive one confirmation and no further messages.
@@ -43,10 +43,7 @@ Supported Carriers Our SMS program is available on most major U.S. mobile carrie
 Coverage may vary.
 Carriers are not liable for delayed or undelivered messages.
 9.
-Privacy We do not share your mobile phone number with third parties for their own marketing purposes.
-Your information is handled in accordance with our Privacy Policy .
-We use Twilio to deliver messages; Twilio processes message data as a service provider on our behalf.
-10.
+Privacy 10.
 Political Nature of Messages All messages sent under this program are political campaign communications paid for by Jeremy 4 TN.
 They are not commercial solicitations.
 Content may include candidate information, policy positions, event details, and calls to action related to the 2026 Tennessee House District 23 campaign.

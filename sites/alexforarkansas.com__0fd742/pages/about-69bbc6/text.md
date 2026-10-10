@@ -1,4 +1,4 @@
-0 Skip to Content Home About Contact Donate Donate Open Menu Close Menu Home About Contact Donate Donate Open Menu Close Menu Home About Contact Donate Donate About Representative Alex Holladay North Little Rock and Sherwood are home.
+0 Skip to Content Home About Contact Election Info Donate Open Menu Close Menu Home About Contact Election Info Donate Open Menu Close Menu Home About Contact Election Info Donate About Representative Alex Holladay North Little Rock and Sherwood are home.
 This is where my wife and I have chosen to raise our three daughters and build our future.
 I work for Arkansas’s leading academic medical institution, recruiting healthcare professionals to serve communities across our state.
 That experience has shown me how closely healthcare, education, workforce development, and economic stability are connected.

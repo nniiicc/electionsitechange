@@ -7,7 +7,11 @@ Track your ballot.
 Confirm it was received and counted.
 2.
 Sign up once for text/email… read more BOB Talks Carpinteria “…I think the only people determining what Carpinteria looks like is Carpinteriaians.” read more From the Launchpad to Leadership A Candidate with Real STEM Expertise With a background in STEM, I focus on real solutions—not political noise.
-Join the campaign, support the mission, and help us bring results-driven leadership to Congress. read more Preserve Morro Bay read more Sign Up For The Latest MEDIA CATEGORIES • In The News • Bob Talks • Op-Eds Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
+Join the campaign, support the mission, and help us bring results-driven leadership to Congress. read more Preserve Morro Bay read more Sign Up For The Latest MEDIA CATEGORIES • In The News • Bob Talks • Op-Eds Bob, in his own voice Clips from town halls, interviews and the road.
+Taking questions in person.
+The Orcutt town hall.
+Listening, mostly.
+Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
 Where's My Ballot Takes one minute to confirm your voter registration info.
 VOLUNTEER Winning this race will take a team across the Central Coast By entering your phone number and selecting to opt in, you consent to receive SMS/MMS marketing and polling text messages, donation requests, updates, and other important information to that number from Bob Smith For Congress.
 Msg&data rates may apply.

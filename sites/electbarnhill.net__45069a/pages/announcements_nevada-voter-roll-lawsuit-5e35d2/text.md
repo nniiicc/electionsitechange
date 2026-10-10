@@ -2,12 +2,12 @@
 Using the same public data Nevada’s Secretary of State makes available to anyone, I found 12,465 pairs of duplicate voter registrations in Clark County — 12,283 of them still active today.
 I asked the Secretary of State’s office to look into it.
 They said no.
-In two weeks, I’m filing a federal lawsuit to make them.
+So on September 4, 2026, I filed a federal lawsuit to make them.
 Every election starts with the same promise: your vote counts, and it counts once.
 That promise only holds if someone is actually checking.
-For the last three and a half months, I’ve been asking Nevada’s Secretary of State to check.
+For three and a half months, I asked Nevada’s Secretary of State to check.
 His office said no.
-In two weeks, I’m asking a federal judge instead.
+So I asked a federal judge instead.
 12,283 Active Duplicate Voter Registrations in Clark County In January, I ran the kind of straightforward data analysis I’ve done professionally for decades on Nevada’s own public voter file: I looked for duplicate records.
 What I found in Clark County alone was 12,465 matched pairs of voter registrations sharing the same name and birth year, each pair tied to two different registration numbers and two different addresses.
 Of those, 12,283 pairs — 98.5% — show both registrations as currently Active in the Secretary of State’s own data, and every one of the 12,465 pairs reflects a recorded vote under both registration numbers in the 2024 General Election.
@@ -33,7 +33,7 @@ I gave Nevada that chance.
 That window has now closed.
 The Secretary of State’s office still hasn’t audited a single one of the flagged pairs.
 So the complaint is drafted, reviewed, and dated.
-In two weeks, I intend to file it in the U.S.
+On September 4, 2026, I filed it in the U.S.
 District Court for the District of Nevada.
 Update: That filing has now happened.
 On September 4, 2026, I filed Barnhill v.
@@ -63,9 +63,8 @@ September 8, 2026 Secretary of State Francisco V.
 Aguilar and the Nevada Attorney General’s office were formally served with the lawsuit .
 September 16, 2026 Barnhill filed an ex parte motion asking the Court to authorize him to register as a CM/ECF filing user and receive electronic service in this action under LR IC 2-1(b), since the standard registration process assumes an attorney applicant.
 See A Small Procedural Fight, With a Bigger Point Behind It .
-September 28, 2026 Aguilar moves the Court to suspend my action indefinitely while another action Aguilar is defending against the Republican National Committee has completed.
-No way, Jose!
-I oppose the motion and request consolidation with the RNC action.
+September 28, 2026 Secretary of State Aguilar moved the Court to stay Barnhill’s case indefinitely until a separate lawsuit brought by the Republican National Committee is resolved.
+Barnhill opposed the stay and asked the Court to consolidate or coordinate the two cases instead.
 See While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster .
 September 28, 2026 Barnhill’s Certificate of Interested Parties, dated September 28, certified that the only parties to the case are Barnhill, a Nevada voter, and the Secretary of State, with no corporate backers, affiliates, or insurer.
 See The Court Asked Who Has a Stake in My Lawsuit.
@@ -88,6 +87,6 @@ Here’s What Comes Next in Barnhill v.
 Aguilar. - Nevadans for Barnhill Pingback: Why Paper Records for Nevada Elections Matter - Nevadans for Barnhill Pingback: SCOTUS SAVE Database Ruling: What It Means for Nevada Voters Pingback: Barnhill Opposes Aguilar's Motion to Stay, Moves to Consolidate NVRA Suit Pingback: Nevada Election Technology Voters Can Verify | Barnhill Pingback: How to Check Nevada Voter Registration Status | Barnhill Post navigation Previous Previous post: The Lawsuit Is Filed: Barnhill v.
 Aguilar Next Next post: The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (17) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

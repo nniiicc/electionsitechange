@@ -83,7 +83,7 @@ Msg & data rates may apply.
 Reply HELP for assistance.
 Reply STOP to opt out at any time.
 Terms & Conditions + Privacy Policy apply.
-Sign Up Copyright © # CHRIS GOBER Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Communications & Consent Policy Privacy Policy C h r i s The Only TRUMP-ENDORSED Republican Candidate for Texas's 10th Congressional District G o b e r Radical progressives will stop at nothing to weaponize the federal government against conservatives, reopen our borders to violent criminals and deadly cartels, and plague our classrooms with woke ideologies that reject fundamental American values.
+Sign Up Copyright © # CHRIS GOBER Campaign Overview Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Campaign Overview Communications & Consent Policy Privacy Policy C h r i s The Only TRUMP-ENDORSED Republican Candidate for Texas's 10th Congressional District G o b e r Radical progressives will stop at nothing to weaponize the federal government against conservatives, reopen our borders to violent criminals and deadly cartels, and plague our classrooms with woke ideologies that reject fundamental American values.
 I’ve spent my career delivering victories on these fights for President Trump — I’m running for Congress because President Trump needs allies who know how to beat the Left and won’t back down. -Chris Gober Meet Chris Gober Meet Chris Gober Chris Gober is a 7th-generation Texan, a proud member of the Fightin’ Texas Aggie Class of 2001, and a devoted husband and father raising two daughters in Austin.
 Born and raised in the rural Texas towns of Throckmorton and Graham, Chris learned early the timeless conservative values of Christian faith, family, and hard work—principles that continue to guide his life and service today.
 He is one of us—rooted in Texas, shaped by small-town values, and determined to defend the freedom, faith, and frontier grit that built Texas and will keep America free.
@@ -168,7 +168,7 @@ Msg & data rates may apply.
 Reply HELP for assistance.
 Reply STOP to opt out at any time.
 Terms & Conditions + Privacy Policy apply.
-Sign Up Copyright © # CHRIS GOBER Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Communications & Consent Policy Privacy Policy C h r i s The Only TRUMP-ENDORSED Republican Candidate for Texas's 10th Congressional District G o b e r Radical progressives will stop at nothing to weaponize the federal government against conservatives, reopen our borders to violent criminals and deadly cartels, and plague our classrooms with woke ideologies that reject fundamental American values.
+Sign Up Copyright © # CHRIS GOBER Campaign Overview Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Campaign Overview Communications & Consent Policy Privacy Policy C h r i s The Only TRUMP-ENDORSED Republican Candidate for Texas's 10th Congressional District G o b e r Radical progressives will stop at nothing to weaponize the federal government against conservatives, reopen our borders to violent criminals and deadly cartels, and plague our classrooms with woke ideologies that reject fundamental American values.
 I’ve spent my career delivering victories on these fights for President Trump — I’m running for Congress because President Trump needs allies who know how to beat the Left and won’t back down. -Chris Gober Meet Chris Gober Meet Chris Gober Chris Gober is a 7th-generation Texan, a proud member of the Fightin’ Texas Aggie Class of 2001, and a devoted husband and father raising two daughters in Austin.
 Born and raised in the rural Texas towns of Throckmorton and Graham, Chris learned early the timeless conservative values of Christian faith, family, and hard work—principles that continue to guide his life and service today.
 He is one of us—rooted in Texas, shaped by small-town values, and determined to defend the freedom, faith, and frontier grit that built Texas and will keep America free.
@@ -253,4 +253,4 @@ Msg & data rates may apply.
 Reply HELP for assistance.
 Reply STOP to opt out at any time.
 Terms & Conditions + Privacy Policy apply.
-Sign Up Copyright © # CHRIS GOBER Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Communications & Consent Policy Privacy Policy
+Sign Up Copyright © # CHRIS GOBER Campaign Overview Communications & Consent Policy Privacy Policy Copyright © # CHRIS GOBER Campaign Overview Communications & Consent Policy Privacy Policy

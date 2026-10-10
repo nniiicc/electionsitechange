@@ -22,7 +22,8 @@ Douglas County Treasurer Dave Gill With our nation nearly $35 trillion in debt, 
 Congresswoman Lauren Boebert has voted exactly as she said she would and has taken on the Swamp every day she has served in Congress.
 We can trust her when it comes to voting against tax increases and being a fearless voice against out of control spending.
 I urge Douglas County and 4th District voters to join me in supporting Congresswoman Lauren Boebert.
-Veterans for Trump House Freedom Fund Maggie's List Speaker of the House Mike Johnson FL Rep.
+Veterans for Trump House Freedom Fund Maggie's List Speaker of the House Mike Johnson House Majority Leader Steve Scalise House Majority Whip Tom Emmer TN Rep.
+Tim Burchett FL Rep.
 Matt Gaetz FL Rep.
 Byron Donalds OH Rep.
 Jim Jordan FL Rep.

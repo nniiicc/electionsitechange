@@ -1,5 +1,5 @@
 top of page Instagram Substack Contact Meet Jake Young Jobs, Jobs, Jobs!
-Endorsements Issues DONATE VOTE JAKE YOUNG November 3rd Meet Jake Young ​ I’m a fifth-generation Chippewa Township native, a Blackhawk High School graduate, now a resident of New Brighton.
+Endorsements Issues Voter Guides DONATE VOTE JAKE YOUNG November 3rd Meet Jake Young ​ I’m a fifth-generation Chippewa Township native, a Blackhawk High School graduate, now a resident of New Brighton.
 Beaver County isn’t simply where I’m running for office.
 It’s home, and my family’s roots here go back generations to 1864.
 I was educated at the University of Pittsburgh, Penn State, Denison University and Pittsburgh Filmmakers, while my working life has taken me through a remarkably varied collection of jobs.

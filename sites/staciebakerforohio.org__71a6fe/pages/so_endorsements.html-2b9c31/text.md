@@ -34,6 +34,8 @@ Waxay taageeraan Stacie sababtoo ah wuxuu garab taagan yahay dib-u-habaynta badb
 Ururrada Shaqaalaha • 2026 Teamsters Ohio D.R.I.V.E.
 Guddiga ficilka siyaasadeed ee Ohio Teamsters Guddiga ficilka siyaasadeed ee Ohio Teamsters, oo lagu maalgeliyo deeqo ikhtiyaari ah oo xubnaha ka yimaada.
 Taageeradoodu waxay Ohio Teamsters ku daraysaa isbahaysiga ururrada shaqaalaha ee garab taagan ololaha Stacie.
+Ururrada Shaqaalaha • 2026 Ohio Fraternal Order of Police Ururka ugu weyn ee saraakiisha fulinta sharciga ee Ohio, oo matala saraakiisha heerarka deegaanka, degmada, gobolka iyo federaalka.
+Wuxuu bixiyaa adeegyo xubnaha, fursado waxbarasho iyo tababar, iyo matalaad sharci-dejineed.
 Ururrada Shaqaalaha • 2026 FOP Dewey R.
 Stokes Capital City Lodge #9 Fraternal Order of Police Lodge-ka Fraternal Order of Police ee bartamaha Ohio, oo matala saraakiisha u adeega Columbus iyo Franklin County.
 Waxay taageeraan Stacie sababtoo ah wuxuu garab taagan yahay ragga iyo dumarka ka shaqeeya sharci-fulinta, wuxuuna diiradda saarayaa xaafado badbaado leh oo adeeg fiican la siiyo.
@@ -74,6 +76,6 @@ Taageeradiisu waxay taageerada Stacie u fidinaysaa magaalada ugu weyn ee Ohio.
 Ma rabtaa inaad taageerto Stacie Baker?
 Xiriir olalaha citizensforstaciebaker@gmail.com Ku Biir Taageerayaasha Stacie Ka qayb qaado ololaha: is-diiwaangeli mutadawacnimada, hel warbixinnada, ama la wadaag boggan qoyskaaga iyo deriskaaga.
 Hadda Deeq Ka Qayb Gal Taageerada Ohio Democratic Party Franklin County Democratic Party Hilliard Democrats Pickaway County Democratic Party Madison County Democratic Party Ohio AFL-CIO Central Ohio Labor Council Ohio Education Association Ohio Federation of Teachers AFSCME Ohio Council 8 OCSEA / AFSCME Local 11 AFSCME Retiree Chapter 1184 OAPSE / AFSCME Local 4 Columbus/Central Ohio Building & Construction Trades Council Sheet Metal Workers Local Union #24 Brotherhood of Locomotive Engineers and Trainmen Teamsters Ohio D.R.I.V.E.
-FOP Dewey R.
+Ohio Fraternal Order of Police FOP Dewey R.
 Stokes Capital City Lodge #9 Ohio Legislative Black Caucus Buckeye Veterans Coalition PAC Ohio Pride PAC Baptist Ministerial Alliance of Greater Columbus Ohio Environmental Council Action Committee Save Ohio Parks Waxa bixiya Citizens for Baker • © # Dhammaan Xuquuqaha Way Xafidan Yihiin • P.O.
 Box, Reynoldsburg, OH 43068

@@ -1,4 +1,4 @@
-0 Skip to Content FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Our opponent This isn’t about who Chuck Martin is as a person.
+0 Skip to Content FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Our opponent Your candidate The issues How to vote Newsroom Chip in Our opponent This isn’t about who Chuck Martin is as a person.
 It’s about whether our district is being represented.
 And the answer, for too many of us, is no.
 Our opponent This isn’t about who Chuck Martin is as a person.

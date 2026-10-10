@@ -1,4 +1,7 @@
-Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Video • September 1, 2026 Our first ad “The Race” is running!
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Categories Select Category Editorial In the News Letter to the Editor Newsletter Press Releases Radio appearance TV Appearance Video News Letter to the Editor • September 8, 2026 Strong Schools Require More Than Good Intentions At a time when politics too often turns schools into another source of division, that approach is refreshing.
+Our children deserve excellent schools.
+Our teachers… Read more… Newsletter • September 3, 2026 Gun safety shouldn’t be partisan Keeping our communities safe shouldn’t be a partisan issue.
+As your state senator, I’ll be a strong advocate for reasonable gun safety laws and a… Read more… Video • September 1, 2026 Our first ad “The Race” is running!
 I’m running as an independent Democrat — ready to keep housing decisions local, hold the line on taxes, and fight the special interests and corruption… Read more… Newsletter • August 27, 2026 A strong start to the school year There’s something special about the start of a new school year — new teachers, new classrooms, new friends and so much possibility ahead.
 This year,… Read more… Newsletter • August 20, 2026 Protecting Long Island Sound Clean water isn’t just an environmental issue.
 It’s about public health, our local economy, property values, and the quality of life we enjoy here.
@@ -12,6 +15,5 @@ I’ll keep fighting until… Read more… Newsletter • July 30, 2026 Building
 From my first job with the New York City Parks Department, to my… Read more… Editorial • July 18, 2026 Eversource wants more money.
 It wants to hide the receipts.
 From the Greenwich Free Press This week Eversource asked PURA, the state regulator, to raise its rates, roughly 11% for a typical household and as… Read more… Newsletter • July 16, 2026 Standing up to Eversource’s rate hike For years, families and businesses in Connecticut have struggled with some of the highest electricity costs in the nation.
-And now this week, Eversource filed… Read more… Newsletter • July 9, 2026 We’ve come a long way Elections — and our democracy — work best when more eligible voters can participate and Connecticut has made real progress in making that happen.
-Read more… Newsletter • July 2, 2026 Happy 4th of July Nearly #ago, a group of Americans came together to found a country based on principles that, at the time, were considered extraordinary… Read more… ← Previous Page 1 2 3 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+And now this week, Eversource filed… Read more… ← Previous Page 1 2 3 4 Next Page → CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

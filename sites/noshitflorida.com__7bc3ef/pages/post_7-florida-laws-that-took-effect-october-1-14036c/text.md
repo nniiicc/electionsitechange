@@ -1,4 +1,4 @@
-top of page SUBSCRIBE HOME ABOUT CINDY NO SHIT BOLD ACTION NEWS EVENTS Menu Close DONATE 7 Florida Laws That Took Effect October 1 #ago 3 min read What They Mean for Southwest Florida October 1, 2026 — Southwest Florida A number of new Florida laws took effect October 1, 2026.
+top of page SUBSCRIBE HOME ABOUT CINDY NO SHIT BOLD ACTION NEWS EVENTS Menu Close DONATE 7 Florida Laws That Took Effect October 1 Oct 2 3 min read What They Mean for Southwest Florida October 1, 2026 — Southwest Florida A number of new Florida laws took effect October 1, 2026.
 While many are statewide measures rather than laws specific to Lee County, they affect residents, families, renters, drivers, businesses, and the criminal-justice system throughout Southwest Florida.
 Here are seven worth knowing about: 1.
 HB 1293 — Fraudulent Entry of Residential Dwellings Housing & renters Florida created a new crime involving fraudulent entry into a residential dwelling.

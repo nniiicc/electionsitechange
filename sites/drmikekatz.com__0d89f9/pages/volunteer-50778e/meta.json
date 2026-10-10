@@ -1,9 +1,10 @@
 {
  "description": "Sign up to volunteer for Dr. Mike Katz's 2026 U.S. Senate campaign in Delaware.",
  "final_url": "https://drmikekatz.com/volunteer",
- "fingerprint": "5cf421061d4e270a13e35e2f5caf54e34295a836",
+ "fingerprint": "8f497fbdbe7baf32c68bc9873420b257f0c5d50d",
  "format": 3,
  "paid_for_by": "Paid for by Dr",
+ "rendered": false,
  "title": "Volunteer — Katz for Delaware",
  "years_mentioned": [
   "2026"

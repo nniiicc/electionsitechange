@@ -1,4 +1,4 @@
-0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About The Patriot Newspaper Articles ‍ ‍ If a Project Is Good for Our Community, It Should Be Able to Prove It ‍ AI is here to stay, and data centers will play a major role in that future. ‍ I am not opposed to data centers. ‍I am opposed to approving billion-dollar projects before the public receives complete information. ‍Data centers are often promoted as engines of economic growth that bring jobs, tax revenue, and investment.
+0 Skip to Content Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Forums Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About The Patriot Newspaper Articles ‍ ‍ If a Project Is Good for Our Community, It Should Be Able to Prove It ‍ AI is here to stay, and data centers will play a major role in that future. ‍ I am not opposed to data centers. ‍I am opposed to approving billion-dollar projects before the public receives complete information. ‍Data centers are often promoted as engines of economic growth that bring jobs, tax revenue, and investment.
 Those benefits deserve consideration.
 But so do the risks, costs, and unanswered questions. ‍ PRIVACY: We are assured that data centers are not surveillance systems, but they provide the computing power behind facial recognition, behavioral tracking, predictive analytics, mass data analysis, and increasingly powerful AI tools.
 As these technologies expand, communities have every right to ask what safeguards exist to protect privacy, civil liberties, and personal data. ‍ WHO PAYS?
@@ -68,4 +68,34 @@ A billion-dollar project isn’t automatically a billion-dollar benefit after ta
 Before offering incentives or committing public infrastructure, taxpayers deserve an answer to one basic question: What is the actual return to taxpayers?
 Fiscal responsibility isn’t simply raising taxes or cutting services.
 It’s determining what government should pay for, delivering it efficiently and making sure costs aren’t quietly pushed onto someone else’s tax bill.
+The Patriot 10/10/26 Public Office Is Public Service Elected officials work for the people.
+Once they forget that, they should no longer hold office.
+Public service means being present.
+Hold town halls.
+Answer questions.
+Knock on doors even when you aren't asking for votes.
+Attend community events.
+Listen to people who disagree with you.
+Most importantly, remember who sent you to office in the first place.
+That's one reason I support reasonable term and age limits.
+Experience matters.
+Legislators need time to learn the job and become effective.
+But experience should never become entitlement, and elected office should not become a lifelong career.
+Minnesota already recognizes age as a consideration in public service.
+Our judges serve six-year terms, but state law also requires them to retire from active judicial service at age 70.
+Elections provide accountability, but incumbency brings advantages.
+Over time, officeholders build name recognition, donor networks, political relationships and campaign infrastructure that first-time challengers don't have.
+Term limits guarantee something elections alone cannot: eventually, an open seat.
+At our September 29 candidate forum (available at https://biglakechamber.com/ ), we were asked whether we would support term and age limits for Minnesota elected officials.
+Rep.
+Shane Mekeland began his answer by saying, “I did actually agree with term limits before I was elected.” Interestingly, we have both signed the U.S.
+Term Limits pledge supporting congressional term limits.
+Where we differ is that when asked about Minnesota, I said I would support reasonable term and age limits here at home.
+To me, the principle should be consistent.
+If we believe concentrated political power is a problem in Washington, we should be willing to examine it in St.
+Paul too.
+This isn't a partisan issue.
+No party should own an elected office, and no politician should either.
+Public office belongs to the people.
+Prepared and paid for by Davenport for Minnesota House District 27A, davenportmn27a.house .
 Paid for by Davenport for Minnesota House 27A

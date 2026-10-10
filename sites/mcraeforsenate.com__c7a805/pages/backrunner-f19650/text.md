@@ -1,5 +1,4 @@
-Skip to content Annette McRae for Utah Senate District 20 About Annette McRae Annette McRae for Utah Senate District 20 BackRunner District 20 Donate Economic Identity Get Involved Legacy Landscapes Legacy Landscapes Beautification MAPS & REPRESENTATION RESOURCES Rail and Freight Support the Campaign The Plan TRANSPORTATION & CORRIDORS Utah Senate District 20 (SD20) – Wasatch Back & Uintah Basin Overview Water Systems Why Are Fuel Prices So High When We Have So Much Oil in Utah?
-Why Forward Home About ← Home · The Plan · About · Contribute The Plan · Rail & Transportation Back Runner Rail isn’t a transit project.
+Skip to content Annette McRae for Utah Senate District 20 Home About Plan District 20 At Work Get Involved Donate Annette McRae for Utah Senate District 20 Home About Plan District 20 At Work Get Involved Donate BackRunner ← Home · The Plan · About · Contribute The Plan · Rail & Transportation Back Runner Rail isn’t a transit project.
 It’s a risk reduction strategy.
 Freight rail decouples the Basin from highway failure.
 Passenger rail takes pressure off canyon corridors that can’t handle what’s coming. 💧 Water ↔ 🏠 Housing ↔ 🚂 Transportation ↔ ⚡ Energy 1 Road In & Out of the Basin US-40 Only Canyon Corridor 2034 Olympic Games · SD-20 SR-189 Heber Valley Chokepoint “` The Problem One Road Is Not a Transportation System The Uintah Basin has one primary road in and out.
@@ -52,5 +51,4 @@ Key Corridors in SD-20 ◆ US-40 — Uintah Basin primary access, single point o
 Transportation infrastructure has a 10–20 year lead time.
 The 2034 Olympics are 8 years away.
 Join the campaign and help put District 20 in the room.
-Get Involved See Full Plan Contribute Annette McRae Utah Senate District 20 · Forward Party · 2026 Paid for by Annette McRae for Utah Senate District 20 mcraeforsenate.com Annette McRae for Utah Senate District 20 Forward Party candidate for Utah Senate District 20 — water, energy, housing, and transportation for Summit, Wasatch, Duchesne, Uintah, and Daggett counties.
-About Team History Careers Privacy Privacy Policy Terms and Conditions Contact Us Social Facebook Instagram Twitter/X Designed with WordPress Follow the Campaign @mcraeforsenate McRaeForSenate @mcraeforsenate LinkedIn @mommacrae
+Get Involved See Full Plan Contribute Annette McRae Utah Senate District 20 · Forward Party · 2026 Paid for by Annette McRae for Utah Senate District 20 mcraeforsenate.com Follow the Campaign @mcraeforsenate McRaeForSenate @mcraeforsenate LinkedIn @mommacrae Scroll to Top

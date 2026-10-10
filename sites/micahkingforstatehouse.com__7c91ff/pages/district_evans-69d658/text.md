@@ -4,7 +4,7 @@ New HD-157 Opportunity Board is Live!
 Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Full District District 157 Hub Evans County County Seat: Claxton 10,774 Population 1914 Est.
 Community Profile Key details for Evans County "Claxton Fruitcake capital, veterans community, agriculture" Key Communities Claxton Hagan Daisy Bellville Take Action Represent Evans County Micah is fighting to ensure our rural communities aren't left behind by Atlanta politicians.
 If you live in Evans County, join our grassroots movement today.
-Volunteer Here Donate Evans County Forecast Live Data #ago Rain 73° 69° Tue, Oct 6 Drizzle 74° 66° Wed, Oct 7 Partly cloudy 77° 65° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
+Volunteer Here Donate Evans County Forecast Live Data #ago Rain 75° 67° Sat, Oct 10 Rain 82° 70° Sun, Oct 11 Drizzle 81° 68° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
 Check Registration 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

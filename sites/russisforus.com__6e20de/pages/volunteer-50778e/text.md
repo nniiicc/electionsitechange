@@ -2,7 +2,7 @@ Skip to content Skip to footer Menu Close Home About Ask David Virtual Rally Vol
 Sign up to volunteer and help power the #RussIsForUs campaign in your community.
 Whether you can knock on doors, make calls, or lend a few hours, every bit counts.
 Fill out the form below and our team will reach out with the next steps.
-Volunteer Form Newsletter First Name Last Name Email Address Receive campaign emails (you can opt out at any time) Phone/Mobile Receive text updates (See Full Terms Below) Msg & data rates may apply.
+Volunteer Form Subscribe First Name Last Name Email Address Receive campaign emails (you can opt out at any time) Phone/Mobile Receive text updates (See Full Terms Below) Msg & data rates may apply.
 Reply STOP to unsubscribe Address Address Line 1 Address Line 2 City State Zip Code How would you like to help?
 Host a Fundraiser Phone Banking Volunteer Coordination Digital/Social Media Door Knocking Host A Meet & Greet Event Planning Media What Issue(s) Matter Most?
 Anything Else You Would Like To Add?

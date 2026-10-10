@@ -19,7 +19,5 @@ Yet, he added, it gives the appearance of impropriety when lawmakers can accept 
 “By not raising money the day before the special session begins, I think that’s one way to show them we’re representing them instead of lobbyists.” His point is well-made.
 It’s the same reason lawmakers imposed the 30-day period for not collecting campaign dollars prior to a regular session.
 Avoiding the appearance of impropriety is essential to keeping the public’s trust.
-In the News editorial good government legislature More For You The Times recommends: Rep.
-Drew Stokesbary (2020) Endorsements TNT Endorses: Keep Rep.
-Stokesbary Endorsements Auburn Chamber of Commerce gives Stokesbary highest rating Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News editorial good government legislature More For You Ferguson’s Attack on Our Constitutional Rights Current Events Too many special sessions is problematic for schools In the News AWB announces endorsement of Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

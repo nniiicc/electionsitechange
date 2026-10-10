@@ -3,13 +3,14 @@ Senate DONATE NOW English English Español Português 繁體中文 Meet Ed Endor
 He has never been afraid to disrupt the status quo, and since he was first elected to the United States Senate in 2013, Ed has been leading and delivering on the issues that matter the most to the people of Massachusetts.
 LEARN MORE Endorsements The Latest Donate Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Click here to make an Offline Donation .
-Social Media Follow Ed Markey #ago We are in the middle of a climate crisis.
-It’s time to fight for a clean energy revolution and ensure a brighter future for all.
-6 Retweet on Twitter 2108353074896998659 37 Like on Twitter 2108353074896998659 Share 2108353074896998659 Follow Ed Markey #ago We don’t beg for our rights—we organize and take them.
-2 Retweet on Twitter 2108331682755477650 6 Like on Twitter 2108331682755477650 Share 2108331682755477650 Follow Ed Markey #ago Donald Trump is too busy securing sweetheart deals for his children and making billions off the presidency to care about rising housing costs—or any other rising prices.
-He doesn’t care about working people. @Acyn #ago REPORTER: Mortgage rates are the highest they have ever been in years.
-Is there anything you can do on home prices?
-TRUMP: *walks away* Lightbox link for post with description REPORTER: Mortgage rates are the highest they … 15 Retweet on Twitter 2108241271185932656 52 Like on Twitter 2108241271185932656 Share 2108241271185932656 The Latest Ed Markey Wins Democratic Primary For U.S.
+Social Media Follow Ed Markey #ago Pete Hegseth must go.
+8 Retweet on Twitter 2108720467565580338 78 Like on Twitter 2108720467565580338 Share 2108720467565580338 Follow Ed Markey #ago We know the people who are being harmed by Trump's attacks on healthcare.
+They're our friends, our neighbors, and our families.
+We must fight to restore all of the cuts and protect access to essential healthcare in our country.
+4 Retweet on Twitter 2108697593140146451 11 Like on Twitter 2108697593140146451 Share 2108697593140146451 Follow Ed Markey #ago Public interest shouldn’t lose to private equity.
+We must get private equity out of our housing, our health care, and our lives.
+It’s past time we put people over profits.
+4 Retweet on Twitter 2108605074998018381 31 Like on Twitter 2108605074998018381 Share 2108605074998018381 The Latest Ed Markey Wins Democratic Primary For U.S.
 Senate September 1, 2026 Tonight, Ed Markey won the Democratic primary for the U.S.
 Senate, securing the Democratic nomination and advancing to the November general election.
 IUE-CWA LOCAL 201 Endorses Ed Markey For Re-Election Lynn-based union backs Markey for supporting union workers, American manufacturing, and national security August 27, 2026 U.S.
