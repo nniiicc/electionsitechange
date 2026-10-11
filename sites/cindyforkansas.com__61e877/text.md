@@ -14,9 +14,9 @@ We need to bring it under control.
 Learn more → Supporting Working Families Working people should be able to support a family, even in tough times.
 Learn more → Cutting Property Taxes Rising taxes shouldn't push people out of their homes.
 Learn more → Putting a Pause on Data Centers Kansas needs to stop approving new data centers until guardrails are in place.
-Learn more → Latest news Featured Press All press releases Great Bend Tribune • October 6, 2026 Holscher is the moderate candidate for governor Kansas Reflector • October 6, 2026 Democrat Cindy Holscher's campaign for Kansas governor highlights distinctions from GOP rival Kansas Reflector • October 4, 2026 The AI data center push has roiled Kansas politics.
-It may also define the race for governor.
-Sign up here.
+Learn more → Latest news Featured Press All press releases Press Release • October 9, 2026 Missouri-Kansas-Nebraska Conference of Teamsters Endorses Cindy Holscher for Governor Today, the Missouri-Kansas-Nebraska Conference of Teamsters endorsed Cindy Holscher for governor, adding to the growing coalition behind her campaign.
+The Teamsters represent more than 6,000 working men and women across Kansas, in areas as diverse as freight distribution, car-haul, heavy highway construction, wholesale and retail food distribution, small parcel and package delivery, brewery and soda manufacturing, railroad and maintenance of way workers, school bus drivers, and many of Kansas’ transportation industries.
+Great Bend Tribune • October 6, 2026 Holscher is the moderate candidate for governor Kansas Reflector • October 6, 2026 Democrat Cindy Holscher's campaign for Kansas governor highlights distinctions from GOP rival Sign up here.
 Sign up for campaign updates and volunteer opportunities across Kansas — we'll connect you with the team.
 Website Email ZIP code Sign up Campaign About Issues Supporters News Get Involved Store Vote Español Donate Connect Email Us info@cindyforkansas.com PO Box 2903 Olathe, KS 66063 Paid for by Cindy Holscher for Kansas.
 Lynn Rogers, Treasurer.

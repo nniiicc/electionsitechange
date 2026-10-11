@@ -18,4 +18,4 @@ Leslie Gerrish for House is not responsible for the privacy practices or content
 Changes to Privacy Policy 7 Leslie Gerrish for House reserves the right to update this Privacy Policy.
 Users will be notified of significant changes, and continued use of services implies acceptance of the updated policy.
 Contact Information 8 For questions or concerns regarding this Privacy Policy, to opt out of communications, or to request removal of your personal information, contact us at (605) 496-9642.
-Terms & Conditions ‍ ‍| Privacy Policy Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069
+Terms & Conditions ‍ ‍| Privacy Policy Paid for by Leslie Gerrish for House Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069

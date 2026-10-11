@@ -45,12 +45,11 @@ A few hours at an event.
 Help bring Missourians together, one connection at a time.
 Find your way to help → Get campaign updates ↗ ON THE CAMPAIGN TRAIL The latest.
 And what’s next.
-All news & events → PRESS RELEASE Bethany Mann opposes ruling enacting gerrymandered Missouri congressional map Mann calls for accountability and respect for Missouri voters.
+All news & events → PRESS RELEASE Bethany Mann Calls for Paid Moratorium on New Data Center Construction Until Missouri Communities Have a Say Mann calls for community consent, continued pay for union workers, full lifecycle planning, resource protections, and corporate accountability before additional large-scale data center development moves forward October 10, 2026 Read story ↗ PRESS RELEASE Bethany Mann opposes ruling enacting gerrymandered Missouri congressional map Mann calls for accountability and respect for Missouri voters.
 September 10, 2026 Read story ↗ FROM THE ARCHIVE Defending our water.
 Protecting public health.
 Why Bethany’s campaign puts safe drinking water at the center of the conversation.
-September 10, 2024 Read story ↗ FROM THE ARCHIVE A look back at the 2024 campaign Read the campaign’s reporting on the 2024 race in Missouri’s 3rd District.
-September 5, 2024 Read story ↗ LET’S MEET IN PERSON Be part of the next conversation.
+September 10, 2024 Read story ↗ LET’S MEET IN PERSON Be part of the next conversation.
 Campaign events → LET’S BUILD THIS TOGETHER Missouri is worth the work.
 Help power a campaign rooted in our communities.
 Support Bethany ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Bringing Missourians together.

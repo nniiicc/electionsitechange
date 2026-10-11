@@ -1,4 +1,4 @@
-Skip to content About Issues Take Action Events Endorsements Contact Us Store About Issues Take Action Events Endorsements Contact Us Store DONATE Issues We are facing issues that are shaping our everyday lives.
+Skip to content About Issues Take Action Events Endorsements Contact Us Store REFERENDUM About Issues Take Action Events Endorsements Contact Us Store REFERENDUM DONATE Issues We are facing issues that are shaping our everyday lives.
 Fern knows them and is fighting for common-sense solutions for us and future generations.
 Stop Skyrocketing Utility Bills Stop Skyrocketing Utility Bills Working families should not be stuck paying higher utility bills so massive corporations can power energy-hungry data centers.
 But that is exactly the direction we are heading.

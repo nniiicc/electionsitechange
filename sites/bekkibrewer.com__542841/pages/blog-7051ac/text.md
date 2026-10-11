@@ -9,7 +9,7 @@ Bring your questions, bring your neighbors, and come talk about the issues that 
 #ago 1 min read Ashland GOTV Canvass Launch 10/24 @ 2:00pm Ashland!
 Let's Get Out The Vote!
 Come join Bekki Brewer to canvass across the area and remind District 44 to head to the polls this November!
-#ago # min read Hallsville GOTV Canvass Launch 10/25 @ 10:00am Hallsville!
+Oct 3 1 min read Hallsville GOTV Canvass Launch 10/25 @ 10:00am Hallsville!
 Let's Get Out The Vote!
 Come join Bekki Brewer to canvass across the area and remind District 44 to head to the polls this November!
 Oct 2 1 min read Hallsville 10/25 @ 4:00pm Join Bekki Brewer, candidate for State Representative in District 44, in Hallsville and bring your questions, bring your neighbors, and come talk about the issues that matter most to working families in District 44.

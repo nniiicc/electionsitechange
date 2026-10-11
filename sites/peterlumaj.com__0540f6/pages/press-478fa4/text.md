@@ -3,7 +3,7 @@ Download Media Kit Media Contact Press Releases Latest campaign news and stateme
 Official Campaign Photos Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Download Logos & Brand Assets Campaign Logo Package Complete logo package including primary logo, variations, and usage guidelines.
 Logo assets will be available soon.
 Complete Media Kit Download everything in one convenient package including photos, logos, and fact sheets.
-Download Complete Media Kit (ZIP) Last updated: October 10, 2026 Media Contacts Press Office Media Relations press@peterlumaj.com General Inquiries info@peterlumaj.com Submit Media Inquiry Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
+Download Complete Media Kit (ZIP) Last updated: October 11, 2026 Media Contacts Press Office Media Relations press@peterlumaj.com General Inquiries info@peterlumaj.com Submit Media Inquiry Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
 Yes, I would like to receive text messages By providing your phone number and checking this box, you are consenting to receive Campaign Updates, Event Invitations, Voter Information, and GOTV Reminders text messages from Lumaj 2026.
 Donations will not be solicited.
 Message frequency varies.

@@ -12,5 +12,5 @@ From Bella+Canvas.
 Side-seamed.
 Retail fit.
 Unisex sizing.
-Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

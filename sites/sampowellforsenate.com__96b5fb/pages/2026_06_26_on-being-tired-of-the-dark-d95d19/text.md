@@ -58,7 +58,7 @@ For those who have been run down by Driscoll's bus, who have been crushed by the
 I offer my services.
 I can listen.
 I can help untangle the lies by pointing you to the simplicity of the faith once for all delivered to the saints.
-You can find me at sampowellministries.com View all posts by Sam Powell Author Sam Powell Posted on June 26, 2026 Categories Uncategorized Tags america , faith , freedom , hope Leave a comment Cancel reply Δ Post navigation Previous Previous post: Why am I doing this?
+You can find me at sampowellministries.com View all posts by Sam Powell Author Sam Powell Posted on June 26, 2026 Categories Uncategorized Tags america , faith , freedom , hope Leave a Reply Cancel reply Comment Name Email Website Δ Post navigation Previous Previous post: Why am I doing this?
 Next Next post: Snap benefits and the idle rich @sampowell_sd19 Sam Powell for Senate Sam Powell for Senate Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Comment Reblog Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
 Log in now.
 Sam Powell for Senate Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

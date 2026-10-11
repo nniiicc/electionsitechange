@@ -4,13 +4,13 @@ He has never been afraid to disrupt the status quo, and since he was first elect
 LEARN MORE Endorsements The Latest Donate Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Click here to make an Offline Donation .
 Social Media Follow Ed Markey #ago Pete Hegseth must go.
-8 Retweet on Twitter 2108720467565580338 78 Like on Twitter 2108720467565580338 Share 2108720467565580338 Follow Ed Markey #ago We know the people who are being harmed by Trump's attacks on healthcare.
+49 Retweet on Twitter 2108720467565580338 266 Like on Twitter 2108720467565580338 Share 2108720467565580338 Follow Ed Markey #ago We know the people who are being harmed by Trump's attacks on healthcare.
 They're our friends, our neighbors, and our families.
 We must fight to restore all of the cuts and protect access to essential healthcare in our country.
-4 Retweet on Twitter 2108697593140146451 11 Like on Twitter 2108697593140146451 Share 2108697593140146451 Follow Ed Markey #ago Public interest shouldn’t lose to private equity.
+8 Retweet on Twitter 2108697593140146451 21 Like on Twitter 2108697593140146451 Share 2108697593140146451 Follow Ed Markey #ago Public interest shouldn’t lose to private equity.
 We must get private equity out of our housing, our health care, and our lives.
 It’s past time we put people over profits.
-4 Retweet on Twitter 2108605074998018381 31 Like on Twitter 2108605074998018381 Share 2108605074998018381 The Latest Ed Markey Wins Democratic Primary For U.S.
+5 Retweet on Twitter 2108605074998018381 46 Like on Twitter 2108605074998018381 Share 2108605074998018381 The Latest Ed Markey Wins Democratic Primary For U.S.
 Senate September 1, 2026 Tonight, Ed Markey won the Democratic primary for the U.S.
 Senate, securing the Democratic nomination and advancing to the November general election.
 IUE-CWA LOCAL 201 Endorses Ed Markey For Re-Election Lynn-based union backs Markey for supporting union workers, American manufacturing, and national security August 27, 2026 U.S.

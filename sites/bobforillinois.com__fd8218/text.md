@@ -1,5 +1,4 @@
-top of page HOME ABOUT BOB BLOG EVENTS ON THE TRAIL WITH BOB FIORETTI VOLUNTEER Fioretti Direct Mail Campaign PODCASTS/MEDIA CONTACT US DONATE Search BOB FIORETTI CANDIDATE FOR ILLINOIS ATTORNEY GENERAL Prepared to Lead with Integrity & Independence.
-LEARN MORE Bob Fioretti, a dedicated leader and advocate for justice, brings decades of legal expertise and public service experience to his role as a candidate for Illinois Attorney General.
+top of page HOME ABOUT BOB BLOG EVENTS ON THE TRAIL WITH BOB FIORETTI VOLUNTEER Fioretti Direct Mail Campaign PODCASTS/MEDIA CONTACT US DONATE Search Bob Fioretti, a dedicated leader and advocate for justice, brings decades of legal expertise and public service experience to his role as a candidate for Illinois Attorney General.
 With a strong commitment to civil rights, education, and public safety, Bob is prepared to lead with integrity and independence.
 His proven track record as a respected attorney and former Chicago alderman demonstrates his unwavering dedication to serving the people of Illinois .
 LEARN MORE DONATE TODAY MAKE A DIFFERENCE Change starts with people like you. ​ Together, we can do more.

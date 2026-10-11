@@ -36,7 +36,7 @@ As he has since entering the race in late July, Jackson sought to frame his cand
 "I mean, I can't fix everything.
 It's just really hard to look people in the face ... that counted on you and say you didn't do it," he said.
 Richardson replied, "Wouldn't it be lovely to have a Congress that thought that way?" "I feel like he is sincere," [Lisa Eaton of Kennebunk] said.
-"I feel like he has Maine's and the country's best interest at heart." ### To reach the campaign, email info@jacksonformaine.com .
+"I feel like he has Maine's and the country's best interest at heart." ### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

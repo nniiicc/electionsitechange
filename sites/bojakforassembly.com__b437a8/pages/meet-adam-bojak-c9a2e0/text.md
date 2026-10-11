@@ -1,4 +1,4 @@
-0 Skip to Content MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Meet Adam Bojak Adam is a dad, a housing and Family Court attorney, and a proud democratic socialist.
+0 Skip to Content MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Meet Adam Bojak Adam is a dad, a housing and Family Court attorney, and a proud democratic socialist.
 In this November's general election, he's your Democratic nominee for NY State Assembly.
 Adam grew up in a working-class household in East Aurora.
 The son of a postal worker and a public school employee, his family experienced the same budget strain we all know today.

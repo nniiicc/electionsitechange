@@ -15,7 +15,7 @@ I’m running to bring integrity, transparency, and balance back to our state go
 I’m running because the next generation deserves a North Carolina where opportunity is not determined by your zip code, your income, or your political affiliation — but by your determination, your hard work, and your dreams.
 This is our home.
 Let’s make it a place where everyone has a fair shot. — Thomas James Monks If you are on board with these ideas, I would greatly appreciate it if you could consider donating , even $25 or less, which will help us with our plans to reach out to voters right here in this district.
-Like this: Like Loading… Posted in: Uncategorized Next: What It Means to Be Progressive — and Why Moving Forward Matters → Leave a Reply Cancel reply Together: Not Me.
+Like this: Like Loading… Posted in: Uncategorized Next: What It Means to Be Progressive — and Why Moving Forward Matters → Leave a Reply Cancel reply Comment Name Email Website Δ Together: Not Me.
 Not You.
 US.
 EVENTS DONATE VOLUNTEER Cookie Policy Privacy Policy About Thomas Events Platform Register to Vote Events Platform Register to Vote Facebook Instagram TikTok Bluesky X YouTube Discover more from Thomas Monks 4 North Carlona Subscribe now to keep reading and get access to the full archive.

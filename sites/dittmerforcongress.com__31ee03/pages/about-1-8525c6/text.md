@@ -34,5 +34,5 @@ We absolutely love it here — we’ve built a wonderful community of friends an
 Drew is a beloved public school teacher , a fantastic father, a total baseball dad and girl dad — and a true partner in raising our two kids.
 Jay is just like his dad — he loves sports, is incredibly smart and friendly, and is happy to go with the flow; and Joey is just like her mom — loves fashion, is quick as a whip, and is always trying to get her big brother to go along with her big ideas.
 Our little family is bursting with love — very close, very happy, very silly, and very grateful for one another.
-Follow Us on the Campaign Trail Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Follow Us on the Campaign Trail Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

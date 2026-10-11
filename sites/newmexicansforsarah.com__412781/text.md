@@ -5,7 +5,7 @@ Folder: About Back Meet me Issues In the media Connect Sign up Donate Folder: Se
 I come from a family of farmers and mechanics: I’m working to hold data centers accountable: Connect I’m a straight-shooter.
 I’ll always listen and discuss your concerns with you.
 Reach out to me anytime at 575-343-2029 or sarah.silva@nmlegis.gov .
-Or use this form: How to vote Register to vote • Protect our elections If you live in Doña Ana County: STARTING OCT.
+Or use this form: How to vote Protect our elections If you live in Doña Ana County: STARTING OCT.
 6 Doña Ana County Government Center 845 N.
 Motel Blvd. in Las Cruces Mondays through Fridays through Oct.
 30 from 8 am to 5 pm And Saturday, Oct.

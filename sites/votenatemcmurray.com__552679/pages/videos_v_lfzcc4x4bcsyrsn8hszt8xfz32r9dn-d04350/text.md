@@ -40,7 +40,9 @@ Get involved.
 Make your voice heard.
 Because if we don’t shape the future of this region, someone else will.
 Previous I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: Next PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-You Might Also Like Why Is Southern Ontario Doing Better Than Western New York?
-IS NATE A RADICAL COMMUNIST?
+You Might Also Like Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+WHO GETS TO DECIDE WHO IS A CHRISTIAN?
+THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
-THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Volunteer and Sign Up for Updates!
+Volunteer and Sign Up for Updates!

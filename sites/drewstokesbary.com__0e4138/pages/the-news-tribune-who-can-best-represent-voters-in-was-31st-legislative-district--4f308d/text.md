@@ -6,6 +6,6 @@ He’s also been a frequent critic of the liberal inclination toward taxing and 
 Stokesbary has also been a vocal but thoughtful critic of what too often amounts to one-party rule in Olympia.
 In recent years, emboldened by strong majorities, conversations that have historically been more bipartisan affairs — like budget and transportation package negotiations — have become far more one-sided, with Republicans left on the outside looking in.
 You can find the full endorsement at https://www.thenewstribune.com/article263111338.html .
-Endorsements In the News More For You Auburn Republican Drew Stokesbary seeking House seat In the News Rep.
-Drew Stokesbary hosts town hall Saturday In the News Green River Community College in Enumclaw will host candidate forum In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements In the News More For You Stokesbary wins AWC “City Champion Award” Awards Lawmakers concerned about auditor probe In the News Rep.
+Drew Stokesbary wants to prevent campaign fundraising before special sessions of the Legislature In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

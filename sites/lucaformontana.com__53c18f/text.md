@@ -13,7 +13,7 @@ Education Transportation Transportation The resources we invest in our youth sha
 I want that future to be a prosperous one, which is why I support funding and improving our public school systems.
 Transportation Transportation Transportation The Flathead Valley's transportation infrastructure is falling behind.
 Our lack of public transit and multi-use paths makes our streets dangerous and inaccessible for motorists and pedestrians alike.
-Get involved!
+District Map Download PDF Get involved!
 Email* Sign up Donate Connect With Luca Contact Luca Have a question, concern, or want to volunteer?
 Let us know!
 Name Email* Where did you hear about us?

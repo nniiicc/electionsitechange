@@ -1,4 +1,4 @@
-Sign In My Account Español Platform Endorsements Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Contact Donate Endorse Stephen Thank you for considering endorsing me for Utah State House District 21.
+Sign In My Account Español Platform Endorsements Voting Information Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Voting Information Contact Donate Endorse Stephen Thank you for considering endorsing me for Utah State House District 21.
 I appreciate your support as we fight for a stronger Westside.
 Stay Connected Follow the campaign on social media I am endorsed by our community Mary S.
 Jared Jones Jenny G.

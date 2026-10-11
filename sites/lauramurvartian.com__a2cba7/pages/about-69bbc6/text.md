@@ -18,7 +18,7 @@ I received a BA in Political Science with honors from Hamline University in St.
 Paul, MN.
 I was then awarded the Woodrow Wilson Fellowship, which allowed me to pursue a Master’s Degree in Public Policy from the University of Michigan with a focus on International Economics.
 I graduated from Michigan with a job offer from the Federal Reserve Bank.
-Following my stint at the Federal Reserve, I moved to Atlanta and served as a corporate executive at multiple Fortune 500 companies, including Turner Broadcasting System, Inc. and Equifax.
+Following my stint at the Federal Reserve, I moved to Atlanta and served as a corporate executive at several Georgia-based companies, including Turner Broadcasting System, Inc. and Equifax.
 During this chapter of my career, I was a senior negotiator working on deals worth up to $50 million in IT infrastructure and data products.
 I took time out of my corporate career to start my own small business as the Georgia Area Developer for a national wine franchise, opening their Georgia flagship store and helping other small business owners get off the ground.
 I know what it takes to build a business from the ground up and what it takes to close a deal through successful negotiations.

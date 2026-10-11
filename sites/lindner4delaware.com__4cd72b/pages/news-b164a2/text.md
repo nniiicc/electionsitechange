@@ -1,5 +1,5 @@
 top of page Home Gregg's Message News & Media Endorsements Events Donate Family Get Involved Voting Contact Privacy Policy More Use tab to navigate through the menu items.
-NEWS & MEDIA The Latest Updates All Articles Meetings Search Endorsed by the Sierra Club #ago 1 min read I am honored to receive the endorsement of the Sierra Club .
+NEWS & MEDIA The Latest Updates All Articles Meetings Search Endorsed by the Sierra Club Oct 3 1 min read I am honored to receive the endorsement of the Sierra Club .
 Honored to Receive the Endorsement of Councilwoman Jane Gruenebaum Oct 2 1 min read I am grateful to receive the endorsement of Sussex County Councilwoman Jane Gruenebaum, who represents District 3.
 Jane understands the opportunities and challenges facing Sussex County, and I appreciate her confidence in my experience, commitment to education, and support for smarter growth.
 I look forward to partnering with her to strengthen our infrastructure, schools, environment, and communities.

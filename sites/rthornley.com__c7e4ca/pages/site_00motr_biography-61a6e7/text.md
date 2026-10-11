@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation Home Platform Biography Contact Me Testimonials Biography My name is Rodney ‘Star’ Thornley, and I am running for a position two in the 46th legislative district.
+Search this site Embedded Files Skip to main content Skip to navigation Rodney Star Thornley Platform Biography Contact Me Testimonials Biography My name is Rodney ‘Star’ Thornley, and I am running for a position two in the 46th legislative district.
 Star is a nickname from High School and has been my license plate since 1970.
 I am running because I want to change the culture in the Washington legislature.
 The parties are too siloed and putting party first over citizens I want that to change, where working for our citizens is the priority.

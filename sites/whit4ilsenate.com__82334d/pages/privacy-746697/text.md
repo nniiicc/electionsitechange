@@ -10,6 +10,14 @@ This information helps us understand how visitors use the site and improve its p
 How we use information We use information to respond to messages, coordinate volunteers, provide requested campaign updates, organize events, communicate about campaign activity, maintain records, protect website security, comply with applicable law, and improve campaign outreach and website usability.
 Volunteer information may be shared within the campaign with coordinators and team members who need it to organize campaign work.
 We do not publish volunteer contact information on the public website.
+Questions about my positions The question box uses automated processing to provide answers from the candidate’s stated positions.
+Your question and relevant campaign material may be processed by the service providers that support this feature.
+Please do not include sensitive personal information in your question.
+Questions that need further review and any perspective you choose to share are kept privately for the campaign.
+The question box does not request your email address or phone number and does not offer individual replies at this time.
+Please leave contact details out of your question and input.
+Submitting your perspective does not enroll you in campaign updates or text messages.
+Private submissions are not published in the question box.
 Email and text-message choices Recurring campaign text messages are sent only when you separately and affirmatively opt in.
 Message frequency varies.
 Message and data rates may apply.

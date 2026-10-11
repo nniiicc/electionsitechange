@@ -10,8 +10,9 @@ Your donation helps sustain the organizing and voter-mobilization work that powe
 Contact Us To reach out to the campaign directly please click here .
 If you need to contact Jon Ossoff for official Senate purposes (including direct help with your issue, agency assistance, or a question about Senate activities), please reach out to his Senate office here.
 CONTACT CONTACT In the News The Latest Updates Follow Jon on Twitter and Bluesky to learn about his work for Georgia.
-FOLLOW FOLLOW Mike Collins has brought dishonor to our state through his personal bigotry and his widely documente...
-October 9, 2026 Rally with Jon Ossoff | 09.13.2026 | Athens, GA https://t.co/E1SdpCVvAS #ago LATEST ON MIKE COLLINS LATEST ON MIKE COLLINS Donate Today to Support Our Work We’re supporting candidates in crucial elections — resourcing, mobilizing, organizing, and using the groundbreaking tools and strategies that were vital to our victory in Georgia. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+FOLLOW FOLLOW If John Lewis were marching today from Selma to Montgomery, Mike Collins would be grabbing a billy c...
+October 9, 2026 A capable president would move swiftly to secure and reassure the American people, rush inspectors i...
+#ago LATEST ON MIKE COLLINS LATEST ON MIKE COLLINS Donate Today to Support Our Work We’re supporting candidates in crucial elections — resourcing, mobilizing, organizing, and using the groundbreaking tools and strategies that were vital to our victory in Georgia. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 SIGN UP Join the Team By providing your mobile number, you consent to receive periodic campaign updates from Jon Ossoff for Senate.
 Txt HELP for help, STOP to end.
 Msg & Data rates may apply.

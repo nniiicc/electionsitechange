@@ -1,6 +1,6 @@
 Skip to main content ELIZABETH BAUER ILLINOIS HOUSE DISTRICT 53 ☰ About Issues Positions District Events Get Involved Contact Donate Candidate for State Representative · General Election Nov 3, 2026 Elizabeth Bauer For Illinois House District 53 · The smarter choice for Illinois If you feel ignored by the one-party rule in Springfield, if you're worried about the future of Illinois for you and your children, if you want reason and common sense to return to Springfield — I'm running for you.
 Donate Get Involved Upcoming Events Meet Elizabeth An actuary who has spent her career reading the numbers Springfield won't.
-Elizabeth Bauer is a 29-year resident of House District 53.
+Elizabeth Bauer is a 30-year resident of House District 53.
 Her three children attended Rolling Meadows High School, and Elizabeth and her husband Martin have been deeply involved in the community through a variety of volunteering, primarily through their local church.
 “I want to make a real difference, with real reform rather than just partisan posturing.” By profession, she is an actuary, having worked in pension consulting and more recently in the healthcare sector.
 In addition to her undergraduate and graduate degrees in history, she recently earned a Master's in Applied Economics at the University of Illinois at Chicago.
@@ -45,4 +45,4 @@ Questions, ideas, or want to help elect Elizabeth?
 Reach the campaign directly.
 Donate Email the Campaign [email protected] Name Email Message Leave this empty Send Message ELIZABETH BAUER Elizabeth Bauer for Illinois House District 53.
 Fiscal responsibility, and reason and common sense in Springfield.
-Explore About Elizabeth Issues Positions District Events Get Involved Take Action Contact [email protected] Volunteer Donate This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Photo credits
+Explore About Elizabeth Issues Positions District Events Get Involved Where to Vote Take Action Contact [email protected] Volunteer Donate This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Photo credits

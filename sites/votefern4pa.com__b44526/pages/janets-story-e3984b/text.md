@@ -1,4 +1,4 @@
-Skip to content About Issues Take Action Events Endorsements Contact Us Store About Issues Take Action Events Endorsements Contact Us Store DONATE Janet’s Story Unexpected Good Deeds The story of Janet and our team member, Ken.
+Skip to content About Issues Take Action Events Endorsements Contact Us Store REFERENDUM About Issues Take Action Events Endorsements Contact Us Store REFERENDUM DONATE Janet’s Story Unexpected Good Deeds The story of Janet and our team member, Ken.
 Due to a system glitch, Ken, a member of Team Fern, ended up on the wrong street and knocked on a screen door he wasn’t supposed to be at and heard someone struggling.
 He yelled inside to see if help was needed and it was.
 When he entered the apartment, he found Janet on the floor unable to get up with her phone out of reach.

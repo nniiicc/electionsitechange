@@ -51,10 +51,9 @@ We: Can modify antitrust enforcement to address tacit collusion between the refi
 Jamie wholly rejects corporate PACs and lobbying money, and will fight for the people every chance he gets.
 He will save Washington state money, and he will save you money.
 Jamie will fight to make sure there is NO MORE price-gouging for gas or utilities!
-Town Hall: Tuesday Oct.
-6th!
-Jamie has heard from the community - now it's time for the community to hear from him.
-GET TICKETS NOW Endorsements *Note: due to the nature of a two-democrat-race, many organizations' bylaws and procedures require them to endorse the incumbent - unfortunately including many local unions.
+The opposition is funded by multiple Fortune-500 companies.
+We're funded by YOU: the people.
+Consider donating! $# $# $# $# $# Other Endorsements *Note: due to the nature of a two-democrat-race, many organizations' bylaws and procedures require them to endorse the incumbent - unfortunately including many local unions.
 Jamie is extremely pro-union, and is communicating and collaborating with as many local unions as possible, despite their structural limitations!
 Environment and Climate Council of the Washington State Democratic Party The ECC wishes to advance policies that safeguard Washington’s natural landscapes and support meaningful action on climate.
 They advocate for practical, science-driven solutions that help our state both mitigate and adapt to a changing climate.

@@ -1,8 +1,4 @@
-0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Upcoming Events Oct 10 North Royalton Canvass with Megan Coy and Courtney Scheff Saturday, October 10, 2026 10:00 AM 11:00 AM North Royalton Library (map) Google Calendar ICS Join Megan Coy and Courtney Scheff as we canvass North Royalton at the North Royalton Branch (5071 Wallings Rd, North Royalton, OH 44133) at 10:00 am on October 10th.
-Even if you have no experience canvassing, all are welcome!
-Our team will help train you to door knock in this extremely pivotal race in Cuyahoga County.
-Sign up here!
-View Event → Oct 15 Berea Fundraiser!
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Upcoming Events Oct 15 Berea Fundraiser!
 Thursday, October 15, 2026 5:30 PM 6:30 PM Grindstone Taphouse (map) Google Calendar ICS Please join us for our FINAL fundraiser for Megan Coy at the Grindstone Taphouse on October 15th at 5:30PM Donate and RSVP here: https://secure.actblue.com/donate/10.1berea View Event → Oct 17 Berea Canvass with Megan Coy and Courtney Scheff Saturday, October 17, 2026 10:00 AM 11:00 AM Berea Library (map) Google Calendar ICS Join Megan Coy and Courtney Scheff as we canvass Berea at the Berea Branch ( 7 Berea Commons, Berea, Ohio 44017 ) at 10:00 am on October 17th.
 Even if you have no experience canvassing, all are welcome!
 Our team will help train you to door knock in this extremely pivotal race in Cuyahoga County.
@@ -35,6 +31,10 @@ View Event → Nov 3 Support Megan Coy on Election Day!
 Tuesday, November 3, 2026 6:30 AM 7:30 PM Google Calendar ICS The Cuyahoga County Democratic Party is looking for volunteers to stand at a polling location on election day on behalf of Megan Coy!
 We ask you to fill out this form provided by the Cuyahoga County Democratic Party along with our form below so we can have an acurate count of who signed up on behalf of our campaign.
 Please fill out this form here!
+View Event → Oct 10 North Royalton Canvass with Megan Coy and Courtney Scheff Saturday, October 10, 2026 10:00 AM 11:00 AM North Royalton Library (map) Google Calendar ICS Join Megan Coy and Courtney Scheff as we canvass North Royalton at the North Royalton Branch (5071 Wallings Rd, North Royalton, OH 44133) at 10:00 am on October 10th.
+Even if you have no experience canvassing, all are welcome!
+Our team will help train you to door knock in this extremely pivotal race in Cuyahoga County.
+Sign up here!
 View Event → Oct 4 Healthcare Fundraiser with Megan Coy Sunday, October 4, 2026 11:30 AM 1:00 PM Address Provided Upon RSVP (map) Google Calendar ICS Join Doctors Organized for Health Care Solutions and Nurses for America in support of Megan Coy for Ohio State House District 17 View Event → Oct 3 Strongsville Canvass Launch Saturday, October 3, 2026 10:00 AM 11:00 AM Bonnie Park (map) Google Calendar ICS Join Megan Coy as we canvass Strongsville at Bonnie Park (Bonnie Park Dr, Strongsville, OH 44136) at 10:00 am on October 3rd.
 Even if you have no experience canvassing, all are welcome!
 Our team will help train you to door knock in this extremely pivotal race in Cuyahoga County.

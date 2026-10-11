@@ -1,5 +1,5 @@
 Skip to content No AIPAC money, ever.
-Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Facebook Twitter Instagram Donate Donate on ActBlue Donation by Check or Money Order Angelica Duenas for US P.O.
+Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Facebook Twitter Instagram Donate Donate on ActBlue Donation by Check or Money Order Angelica Duenas for US P.O.
 Box 7200, Van Nuys, California 91406 Please include your residence address, occupation and employer details.
 The FEC legal limits on contributions made per person to a candidate is $3,500 per election .
 Contribution Rules I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).

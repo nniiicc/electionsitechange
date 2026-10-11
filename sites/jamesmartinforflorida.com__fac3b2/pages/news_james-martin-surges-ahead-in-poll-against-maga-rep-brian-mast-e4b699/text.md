@@ -7,7 +7,7 @@ Brian Mast.
 Voters move 12-points towards Martin after receiving balanced introductions of both candidates.
 After hearing about how Martin, a Coast Guard veteran and national security expert who served in the office of two Vice Presidents, will take on political corruption in both parties, he catapults to a 47% to 44% lead over the five-term incumbent.
 James said, "This poll confirms what we have known all along: this race is winnable with the right candidate and investment." He continued, "We have a generational opportunity to bring real leadership back to the Treasure Coast and Northern Palm Beaches.
-We will continue running throttles down the next 29 days to make it happen." Martin is on the ballot for the general election on November 3. --- If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+We will continue running throttles down the next 29 days to make it happen." Martin is on the ballot for the general election on November 3. --- Media If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
 Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
 Commander in the United States Coast Guard Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

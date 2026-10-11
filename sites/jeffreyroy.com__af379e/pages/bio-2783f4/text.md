@@ -39,7 +39,7 @@ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new w
 2 Responses to Bio Mike M says: November 7, 2011 at 9:03 am Great site Jeff.
 Best of luck tomorrow at the polls !!
 Reply Chris M says: November 9, 2011 at 12:17 am Congratulations!
-Reply Leave a comment Cancel reply Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Reply Leave a Reply Cancel reply Comment Name Email Website Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
 Rep.
 Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
 Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?

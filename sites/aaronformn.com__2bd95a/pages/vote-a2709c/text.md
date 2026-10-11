@@ -1,4 +1,4 @@
-A Aaron Schweiger For MN, House 3B About Issues News Vote Get Involved Contact Donate Vote Make your plan to vote Use these official Minnesota resources to register, find your polling location, and support Aaron on Election Day.
+A Aaron Schweiger For MN, House 3B About Issues Our Endorsements News Vote Get Involved Contact Donate Vote Make your plan to vote Use these official Minnesota resources to register, find your polling location, and support Aaron on Election Day.
 Find your Polling Location for Election Day!
 Get Registered to Vote Now!
 Other Ways to Vote Help Get Out The Vote for Aaron!

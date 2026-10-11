@@ -1,4 +1,4 @@
-top of page Home Meet Abbie Priorities Endorsements Merch Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
+top of page Home Meet Abbie Priorities Endorsements Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
 DONATE I'm so glad you're here.
 A Yooper by birth and a Midwesterner by upbringing, there's no place I'd rather call home than West Michigan.
 While we're surrounded by the best freshwater in the world, with access to the amenities of a growing city and plenty of outlets for recreation and creativity, it's our friends and neighbors that truly make our home special. ​ Yet we know that not everyone has the same access to, or the same experience of welcome and comfort in, our community.

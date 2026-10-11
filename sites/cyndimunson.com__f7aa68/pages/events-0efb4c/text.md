@@ -20,8 +20,7 @@ Join Cyndi Munson in NE OKC to hear about her vision for the future of Oklahoma 
 RSVP Bristow Meet and Greet C&J Kountry Fixins 36921 OK-66 Bristow, OK 74010 Join Cyndi Munson in Woodward at C&J Kountry Fixins banquet room to hear about her vision for the future of Oklahoma as Governor!
 RSVP North Tulsa Meet and Greet Location Coming Soon!
 Join Cyndi Munson in North Tulsa to hear about her vision for the future of Oklahoma as Governor!
-RSVP Southside OKC Meet and Greet Location Coming Soon!
-Join Cyndi Munson in Southside Oklahoma City to hear about her vision for the future of Oklahoma as Governor!
+RSVP Southside OKC Meet and Greet Cantera Event Center 1 SE 59th St Suite E Oklahoma City, OK 73129 Join Cyndi Munson in Southside Oklahoma City at the Cantera Event Center to hear about her vision for the future of Oklahoma as Governor!
 RSVP Tulsa Meet and Greet Location Coming Soon!
 Join Cyndi Munson in Tulsa to hear about her vision for the future of Oklahoma as Governor!
 RSVP McAlester Meet and Greet McAlester Community center 1500 E Chickasaw McAlester Ok, 74501 Join Cyndi Munson in McAlester at the McAlester Community Center to hear about her vision for the future of Oklahoma as Governor!

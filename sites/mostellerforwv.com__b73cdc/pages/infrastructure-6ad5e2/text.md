@@ -1,4 +1,4 @@
-Skip to content Mosteller for WV AEP District 21 Issues Donation Education Endorsements Home Infrastructure Opioid Pandemic Privacy Policy volunteer WomensRights Improving Our Infrastructure Remember the water crisis in the early 2010s, where the chemical MCHM was leaked into the river and sucked up into our water supply?
+Skip to content Mosteller for WV Home Endorsements Mosteller for WV AEP District 21 Issues Donation Education Endorsements Home Infrastructure Opioid Pandemic Privacy Policy volunteer WomensRights Improving Our Infrastructure Remember the water crisis in the early 2010s, where the chemical MCHM was leaked into the river and sucked up into our water supply?
 I was frustrated with the lack of a bill to help prevent chemical spills.
 I wrote the original draft for that bill and submitted it to my delegate, and with only a few tweaks, it was passed.
 After republicans took over the legislature, they repealed that comprehensive bill that was keeping our waterways safe, had strict rules for storing chemicals in tanks, and had harsh punishments for spills.

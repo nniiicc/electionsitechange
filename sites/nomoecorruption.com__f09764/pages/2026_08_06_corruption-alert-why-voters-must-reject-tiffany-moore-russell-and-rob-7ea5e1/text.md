@@ -32,7 +32,7 @@ That being said, the only candidate who has pledged a commitment to our firefigh
 Firefighters panhandling in Orange County Moliere “Moe” Dimanche is an NPA candidate for Governor of the State of Florida focused on ending corruption in state government.
 You can connect with Moe on all social media platforms.
 Follow Moe Facebook YouTube Instagram X Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Discover more from No MOE Corruption Subscribe to get the latest posts sent to your email.
-Type your email… Subscribe Leave a Reply Cancel reply Posts Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Leave a Reply Cancel reply Comment Name Email Website Δ Posts Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Subscribe Loading Comments...
 Write a Comment...

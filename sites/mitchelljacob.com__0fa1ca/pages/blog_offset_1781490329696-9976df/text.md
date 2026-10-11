@@ -29,5 +29,4 @@ This administration is dismantling services and agencies that are vital to 99% o
 Read More Mitch 4/26/26 Mitch 4/26/26 Moral Decay: Trust in the United States is Weakened According to a Pew Research Center study of global opinion, U.S. favorability ratings among our closest allies declined sharply between 2024 and 2026, reaching historic lows in countries such as Germany, France, South Korea, and Japan.
 A Gallup survey of global leadership confidence similarly found that international trust in U.S. leadership had fallen to levels not seen since the early 2000s.
 Read More Newer Posts Older Posts Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
-Box 1141 Newcastle, OK.
-73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy
+Box 1141 Newcastle, OK 73065-1141 (405) 407-6975 info@mitchelljacob.com Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

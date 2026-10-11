@@ -9,8 +9,12 @@ This site does not collect personal information about you without your consent.
 When you visit our site, we automatically collect certain information, including: The name of the domain from which you access the Internet (e.g., yahoo.com).
 The date and time you access our site.
 The Internet address of the website from which you linked directly to our site or the Internet address of the computer used to link to our site. ​ This information is used solely for site management purposes.
-Notice Unless you choose to provide such information, we do not collect or maintain personal information about you when you visit our site.
-If you send us an email message or complete a web form containing personal information, we collect and store the personal information you choose to provide, such as your mailing address, email address, and the content of any request for information or comments you may have. ​ Use of Information If you choose to provide personal information, such as your mailing address or phone number, we may use that information to contact you regarding campaign updates, events, and other relevant information. ​ Cookies What is a Cookie?
+No mobile opt-in information will be shared with third parties Notice Unless you choose to provide such information, we do not collect or maintain personal information about you when you visit our site.
+If you send us an email message or complete a web form containing personal information, we collect and store the personal information you choose to provide, such as your mailing address, email address, and the content of any request for information or comments you may have. ​ Use of Information If you choose to provide personal information, such as your mailing address or phone number, we may use that information to contact you regarding campaign updates, events, and other relevant information. ​ Terms & Conditions You agree to receive updates, donation asks, and informational messages from Russ Fulcher for Idaho.
+Message frequency varies.
+Message and data rates may apply.
+For help, reply HELP or email us at info@russfulcher.com .
+You can opt-out at any time by replying STOP. ​ Cookies What is a Cookie?
 A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device.
 The cookie allows the website to “remember” you without containing any of your personal information.
 Most Internet browsers support cookies; however, users can set their browsers to decline certain types of cookies or specific cookies.

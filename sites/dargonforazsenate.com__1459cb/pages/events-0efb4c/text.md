@@ -1,23 +1,11 @@
 Home About Education & Experience Platform Events Media & Press Media & Press 2 Media & Press 3 Videos/Photos Home About Education & Experience Platform Events Media & Press Media & Press 2 Media & Press 3 Videos/Photos Events Come meet Christine, the Candidate for State Senate of LD 1.
 Talk with her about the issues that are important to you.
-Sept 9 8-11am Coffee with the candidate at Rimrock Coffee Co.
-Beaver Creek rd.
-September 10-13 Yavapai County Fair, Rodeo grounds, Prescott Sept 13 2-5pm D.O.R.R.
-Picnic Sept.
-15 10:30am State of the County, Findlay Toyota Center, Prescott Valley.
-Sept 20 2-5pm Multi Candidate Forum, Dems & Reps all invited.
-Food, entertainment, Case bar.
-Hear from Statewide and LD 1 candidates.
-Get your voice heard.
-THE WAREHOUSE 5880 N Prairie Ln Prescott Valley.
-Sept 26 6pm Truman-Clinton Gala, Prescott Sept 27 11am-4pm Yarnell/Peeple's Valley Picnic Oct 4 2-5pm Multi Candidate Forum, Dems & Reps all invited.
-Food, entertainment, Case bar.
-Hear from Statewide and LD 1 candidates.
-Get your voice heard.
-Chillen's on 17 33150 S Coldwater Rd Black Canyon City Oct 5 4-5pm Clean Elections Debate, Phoenix.
-Oct 10 Fort Verde Days, Campe Verde Oct 17 10am-3pm Ash Form Rt 66 Museum Fair, Ash Fork 3-9pm Oktoberfest, Seligman, Rt 66 Oct 31 HAPPY HALLOWEEN!!
+Oct 13 3:30-5pm Candidate Forum.
+El Portal Hotel, Sedona with multiple candidates.
+Oct 15-17 Ash Fork & Seligman Oct 17 10am-3pm Ash Form Rt 66 Museum Fair, Ash Fork 3-9pm Oktoberfest, Seligman, Rt 66 Oct 20 5-7pm Multiple Candidate event at Red Rooster, Cottonwood.
+Oct 23 6-8pm GOTV Rally, Prescott, Courthouse Square Oct 28 11:30am DWPA Lunch Oct 31 HAPPY HALLOWEEN!!
 Nov 3 ELECTION DAY!!
-Close modal Close modal Close modal © # by Dargon for AZ Senate.
+Close modal Close modal © # by Dargon for AZ Senate.
 All Rights Reserved. © # by Dargon for AZ Senate.
 All Rights Reserved.
 Close modal Home About Education & Experience Platform Events Media & Press Media & Press 2 Media & Press 3 Videos/Photos Close modal Home About Education & Experience Platform Events Media & Press Media & Press 2 Media & Press 3 Videos/Photos

@@ -1,7 +1,4 @@
-Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Team Swift Canvass in Stanton Hare School Park 12012 Magnolia St.
-Garden Grove, CA 92841 Join Team Swift for a day of canvassing to get the vote out for Dr.
-Swift!
-RSVP Garden Grove Slate Canvass with Team Tran Garden Grove Park 9301 Westminster Blvd., Garden Grove, CA 92844 Join Team Swift and Team Tran to get the vote out for this November!
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Garden Grove Slate Canvass with Team Tran Garden Grove Park 9301 Westminster Blvd., Garden Grove, CA 92844 Join Team Swift and Team Tran to get the vote out for this November!
 RSVP Garden Brook Senior Village Garden Brook Senior Village 10080 Garden Grove Blvd.
 Garden Grove, CA 92844 Come meet Dr.
 Swift at the Garden Brook Senior Village to discuss her plans for the State!

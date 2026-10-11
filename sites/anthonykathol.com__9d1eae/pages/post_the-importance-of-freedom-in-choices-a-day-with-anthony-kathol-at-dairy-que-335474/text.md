@@ -39,7 +39,7 @@ Final Thoughts Anthony Kathol’s visit to Dairy Queen showed how a simple momen
 This election is about more than politics; it is about protecting the individual's right to make their own decisions.
 On November 3, 2026, voters in District 27 can support a future where free enterprise thrives, and government stays within its proper role.
 Elect Anthony Kathol for State Senate to keep the freedom to choose alive in your community.
-Tags: Kathol for District 27 State Senate Kathol4D27 Democratic Socialist of America #freedom Free Enterprise Capitalism Recent Posts See All Protecting the Integrity of our Elections - Part 2 Property Rights and Local Control The Right to Defend Yourself Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
+Tags: Kathol for District 27 State Senate Kathol4D27 #freedom Democratic Socialist of America Free Enterprise Capitalism Recent Posts See All Protecting the Integrity of our Elections - Part 2 Property Rights and Local Control The Right to Defend Yourself Let's Connect Vote for Anthony Kathol on November 3, 2026 (General Election) Republican Candidate for South Dakota District 27 State Senate A leader who delivers with passion and proven results.
 EMAIL Kathol4D27@goldenwest.net ​ MAILING ADDRESS P.O.
 Box 165 Martin, SD 57551 ​ ​ Anthony Kathol was a Commissioned Officer of the United States Public Health Service (USPHS).
 Use of his rank, job titles, and photographs in uniform does not imply endorsement by the USPHS or the U.S.

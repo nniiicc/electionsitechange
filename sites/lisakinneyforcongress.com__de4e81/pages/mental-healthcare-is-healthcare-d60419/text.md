@@ -19,6 +19,6 @@ In the words of Dr Tedros, WHO Director General, “Mental health remains one of
 Indeed, the WHO report World Mental Health Today , published in September, paints a sobering picture with rising incidence rates, persistent service gaps, and a glaring neglect of youth-specific mental health needs.
 The following article in the Lancet from November 2025 explains it more: Mental health: a public health crisis unfolding https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00261-0/fulltext I will work to bring back funding for these important programs.
 I urge you to do your own research, as well.
-Mental and physical health should be treated equally for everyone. ← Rock Springs Chamber of Commerce Meet the Candidates Politics of Public Lands → More posts WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
+Mental and physical health should be treated equally for everyone. ← Rock Springs Chamber of Commerce Meet the Candidates Politics of Public Lands → More posts Lisa Earns Another Endorsement Posted on October 10, 2026 WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
 Posted on October 5, 2026 Rep.
-Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 4th Annual Buffalo Bash Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind
+Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

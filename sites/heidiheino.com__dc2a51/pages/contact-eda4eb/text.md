@@ -8,7 +8,8 @@ Message frequency varies.
 Message and data rates may apply.
 Reply STOP to opt out, HELP for help.
 View our Privacy Policy .
-Send Message Or Email Directly Direct Contact Phone 651-447-7100 Email heidi@heidiheino.com Follow the Campaign Stay updated on campaign news and events.
+Send Message Or Email Directly This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Direct Contact Phone 651-447-7100 Email heidi@heidiheino.com Follow the Campaign Stay updated on campaign news and events.
 Ready to Help?
 Join our team of volunteers or make a contribution to the campaign.
 Volunteer Donate Minnesota District 36 Representing communities in Ramsey and Anoka Counties District 36 includes communities in the northern suburbs of the Twin Cities metro area.

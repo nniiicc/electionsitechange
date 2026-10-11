@@ -2,7 +2,7 @@
 19 - 30 October 19 - October 23 Monday - Friday 7 AM - 7 PM Saturday, October 24 7 AM - 7 PM Sunday, October 25 12 PM - 6 PM Election Day: Nov.
 3 7 AM - 7 PM 2026 General Election Information General Election Dates and Voting Hours October 19 - October 23 Monday - Friday 7 AM - 7 PM Saturday, October 24 7 AM - 7 PM Sunday, October 25 12 PM - 6 PM October 26 - October 30 Monday - Friday 7 AM - 7 PM Deadline to Vote by Mail Application for ballot by mail: First Day to Apply : Thursday, January 1, 2026 Last Day to Apply : Friday, October 23, 2026 Returning your completed ballot: If Not Postmarked : Must be received by 7pm on Election Day, Tuesday, November 3, 2026 If Postmarked by 7pm on Election Day: Must be received by 5pm on Wednesday, November 4, 2026 Check and Update Your Voter Registration Check your status here: Texas voter lookup If you’re listed as “Suspense,” don’t panic—you may be able to update your information online or at your county elections office , or complete a Statement of Residence when you vote.
 Update your registration here: Texas voter registration update Find your Early Vote Center Coming soon!
-Remember, you can vote anywhere in Dallas County during early voting Find you Election Day Vote Center Coming soon!
+Remember, you can vote anywhere in Dallas County during early voting County PDF list of Vote Centers Find you Election Day Vote Center Coming soon!
 Remember, you can vote anywhere in Dallas County on Election Day.
 Sample Ballot Coming soon !
 Check this link for your countywide ballot.

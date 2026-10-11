@@ -1,7 +1,14 @@
 {
  "description": "",
  "final_url": "https://vote4tami.com/meet-tami/",
- "paid_for_by": "Paid for by Friends of Tami Tran &copy; 2026 Tami Tran",
+ "fingerprint": "9fda62009a536aea5101259eed5d2cfc07984d89",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Tami Tran © # Tami Tran",
+ "rendered": false,
  "title": "Meet Tami - Tami Tran",
- "years_mentioned": []
+ "years_mentioned": [
+  "1979",
+  "2004",
+  "2021"
+ ]
 }

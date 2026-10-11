@@ -1,12 +1,7 @@
-Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Saturdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP here !
-Can't make it to an in-person canvass?
-Knock doors right w… Show more Missoula Saturday Canvass Launch Multiple Times 426 N Higgins Ave, Missoula, MT 59802, USA RSVP here !
-Knock doors with us in Missoula every Saturday!
-We meet at 11:30am at our cam… Show more Harvest Fest Walkabout in Billings South Lawn of County Courthouse RSVP here !
-Come join the Seth for Montana staff and volunteers as we walk around the Billi… Show more Montana Broadcasters Association Candidates Debate Will be broadcast on Montana PBS and streamed online.
+Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Montana Broadcasters Association Candidates Debate Will be broadcast on Montana PBS and streamed online.
 It will air live on Montana PBS and can be watched online .
 Encourage your friends and family to watch, too!
-Bozeman Town Hall Gallatin Labor Temple 1422 E Mendenhall St, 59715 RSPV here !
+Bozeman Town Hall Gallatin Labor Temple 422 E Mendenhall St, 59715 RSPV here !
 Join Seth Bodnar for a Bozeman Town Hall on Sunday, October 11, 5:30-7:00pm!
 Hear from Seth and ask… Show more Billings Town Hall IBEW Local 532, 5200 Midland Rd, Billings, MT 59101, USA RSVP here !
 Join Seth for a Town Hall in Billings on Monday, October 12th at the International Brotherhood of Electrical Workers Show more Phonebank for Seth Bodnar – Tuesdays & Thursdays Multiple Times Sign up here !
@@ -21,8 +16,12 @@ Thursdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL M
 Stanford MT 59479 RSPV here !
 Join Seth Bodnar for a meet and greet in Stanford on Thursday, October 15, 6:15-7:00 PM!
 Ha… Show more Great Falls Town Hall Great Falls Public Library 301 2nd Ave N, Great Falls, MT 59401 RSVP here Join Seth Bodnar for a Great Falls Town Hall on Friday, October 16, 4:30-5:45 PM!
-Hear from Seth and ask questi… Show more Griz Gameday Tailgate - Missoula Lot Z, Outside the Campus Rec Center RSVP here Swing by our Griz Tailgate to meet fellow Seth supporters!
-Join us for somet… Show more Meet the Candidates: U.S.
+Hear from Seth and ask questi… Show more Saturdays: Learn How to Knock on Doors for Seth in YOUR Neighborhood - VIRTUAL Multiple Times RSVP here !
+Can't make it to an in-person canvass?
+Knock doors right w… Show more Griz Gameday Tailgate - Missoula Lot Z, Outside the Campus Rec Center RSVP here Swing by our Griz Tailgate to meet fellow Seth supporters!
+Join us for somet… Show more Missoula Saturday Canvass Launch Multiple Times 426 N Higgins Ave, Missoula, MT 59802, USA RSVP here !
+Knock doors with us in Missoula every Saturday!
+We meet at 11:30am at our cam… Show more Meet the Candidates: U.S.
 Senate Debate Hosted by City Club Missoula University Center Ballroom, 32 Campus Dr, Missoula, MT 59812, USA Hurry and register here: https://cityclubmissoula.com/ Doors open at 5:30pm and debate starts at 6:15pm.
 Butte Town Hall Join Seth Bodnar for a Butte Town Hall on Tuesday, October 20, 5:30-7:00pm!
 Hear from Seth and ask questions about the issues that matter to you!

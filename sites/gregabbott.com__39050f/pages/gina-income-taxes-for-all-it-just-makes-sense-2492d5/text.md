@@ -1,4 +1,4 @@
-Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store GINA: INCOME TAXES FOR ALL!
+Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store GINA: INCOME TAXES FOR ALL!
 IT JUST ‘MAKES SENSE.’ Sep 26, 2026 AUSTIN — New billboards across Texas are exposing Gina Hinojosa ’s record of supporting higher taxes — including her longtime push for a state income tax.
 For Hinojosa , more taxes are the fix.
 During her time in the Texas Legislature, she voted in favor of higher property taxes 40 separate times, and supported taxes on inheritance, taxes on retirement account transactions, and even taxes on animal feed.

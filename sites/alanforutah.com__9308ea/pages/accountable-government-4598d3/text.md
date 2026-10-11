@@ -14,11 +14,20 @@ In 2018, Utah voters passed Proposition 4 to stop politicians from drawing distr
 Lawmakers later changed parts of that voter-led reform.
 The Utah Supreme Court also reviewed whether Amendment D's ballot materials accurately told voters what the measure would do.
 The principle is simple: voters deserve the full story before they cast a ballot.
+This year: Amendment B.
+In 2026, a petition to repeal Prop 4 failed after more than 10,000 Utahns withdrew their signatures.
+Now the Legislature is asking voters to approve Amendment B.
+It would require 60% of the vote for citizen initiatives that create or raise a tax.
+When the Legislature raises taxes itself, it still needs only a simple majority.
+That's one rule for politicians and a harder one for voters.
+We shouldn't let the Legislature move the goalposts on voters.
+I'm voting no on Amendment B.
 01 Defend qualifying citizen initiatives as a check on the Legislature.
 02 Require ballot language that tells voters plainly what a measure would do.
 03 Explain how rules and court decisions affect the public's voice.
 Check the sources Read the public records These records give the full legal history for anyone who wants to dig deeper.
-01 Utah Lieutenant Governor 2018 election records and Proposition 4 canvass ↗ 02 Utah Supreme Court 2024 UT 21: citizen initiatives and government reform ↗ 03 Utah Supreme Court Official 2024 opinions index, including 2024 UT 40 ↗ 04 Utah Code § 20A-19-101 Utah Independent Redistricting Commission and Standards Act ↗ The five service promises above are my accountability plan.
+01 Utah Lieutenant Governor 2018 election records and Proposition 4 canvass ↗ 02 Utah Supreme Court 2024 UT 21: citizen initiatives and government reform ↗ 03 Utah Supreme Court Official 2024 opinions index, including 2024 UT 40 ↗ 04 Utah Code § 20A-19-101 Utah Independent Redistricting Commission and Standards Act ↗ 05 Utah Legislature, S.J.R.
+2 (2025) Amendment B: bill text and legislative history ↗ The five service promises above are my accountability plan.
 The legal example shows why clear information and respect for voters matter.
 Expect more from representation Help elect a representative who expects to earn the job.
 Join the Campaign See the Two Priorities → AJ Alan Jimenez FOR UTAH HOUSE · DISTRICT 61 Paid for by Alan Jimenez.

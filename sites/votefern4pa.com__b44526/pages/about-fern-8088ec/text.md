@@ -1,4 +1,4 @@
-Skip to content About Issues Take Action Events Endorsements Contact Us Store About Issues Take Action Events Endorsements Contact Us Store DONATE About About Fern Fern Leard is a NEPA native, a mother of twins, and a longtime healthcare advocate who has spent her life standing up for working families.
+Skip to content About Issues Take Action Events Endorsements Contact Us Store REFERENDUM About Issues Take Action Events Endorsements Contact Us Store REFERENDUM DONATE About About Fern Fern Leard is a NEPA native, a mother of twins, and a longtime healthcare advocate who has spent her life standing up for working families.
 Raised by a single mom, her grandmother, and foster parents, Fern learned early on that hard work and perseverance matter.
 Growing up in public housing, rural communities, and the suburbs gave her a firsthand understanding of the challenges many families face and the importance of strong communities that look out for one another.
 When Fern found the Back Mountain, she found home.

@@ -20,7 +20,7 @@ James holds a commission as a lieutenant commander in the U.S.
 Coast Guard Reserve and is a proud life member of the Society of the Cincinnati, the nation’s oldest patriotic organization composed of direct descendants of Continental Army and Navy officers who served in the American War for Independence.
 James carries forward a deep legacy of defending freedom and putting country before self.
 Now he’s continuing his commitment to public service in Congress, where he will work on behalf of all Florida families with the same character and dedication he brought to his military career.
-Will you consider chipping in an amount that is meaningful to you? $ 25 $ 50 $ 100 $ 250 $ 1,000 Other $ 25 $ 50 $ 100 $ 250 $ 1,000 Other If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+Will you consider chipping in an amount that is meaningful to you? $ 25 $ 50 $ 100 $ 250 $ 1,000 Other $ 25 $ 50 $ 100 $ 250 $ 1,000 Other Media If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
 Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
 Commander in the United States Coast Guard Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

@@ -1,4 +1,4 @@
-Skip to main content Mike Klein Meet Mike 5 Pillars Events Gallery Press Join Volunteer Store X donate Mike Klein Independent for Congress Florida's 3rd Congressional District Let’s take back Florida.
+Skip to main content Mike Klein Meet Mike 5 Pillars Events Gallery Press Join Volunteer Store X donate Follow Mike for updates & videos Facebook Instagram YouTube Threads TikTok X Mike Klein Independent for Congress Florida's 3rd Congressional District Let’s take back Florida.
 Mike Klein is running as an Independent for Florida’s 3rd Congressional District, a candidate unbeholden to party machines, corporate PACs, or special interests.
 His campaign is built on a single foundational conviction: get money out of our politics so the voices of the many outweigh the greed of the few.
 From defending constitutional order to rebuilding rural communities, Mike’s platform is a bold, principled vision for a better future for American families.

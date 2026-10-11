@@ -22,7 +22,7 @@ Jackson discussed his commitment to lowering costs and the consequences of Susan
 They deserve a senator who does the same.
 Susan Collins keeps backing Trump while working people pay the price.
 I fought to lower prescription drug costs and make sure kids could eat at school.
-I’ll bring that same fight to Washington so Mainers can afford the lives they work so hard to build.” ### To reach the campaign, email info@jacksonformaine.com .
+I’ll bring that same fight to Washington so Mainers can afford the lives they work so hard to build.” ### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

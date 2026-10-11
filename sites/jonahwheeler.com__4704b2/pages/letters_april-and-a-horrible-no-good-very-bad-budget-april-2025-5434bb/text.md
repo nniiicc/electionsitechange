@@ -1,5 +1,7 @@
-Back to all April, and a Horrible, No Good, Very Bad Budget.
-Apr 30, 2025 April 2025 Letter April Showers - 7 April 2025 - 16:23 - Concord, NH - Taken by Jonah We began the month rallying for medicaid, and medicare in the April showers.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all April, and a Horrible, No Good, Very Bad Budget.
+April, and a Horrible, No Good, Very Bad Budget.
+April, and a Horrible, No Good, Very Bad Budget.
+Apr 30, 2025 Apr 30, 2025 April 2025 Letter April Showers - 7 April 2025 - 16:23 - Concord, NH - Taken by Jonah April Showers - 7 April 2025 - 16:23 - Concord, NH - Taken by Jonah We began the month rallying for medicaid, and medicare in the April showers.
 The looming threats to the system from the State and Federal governments have brought out people from all sides of the spectrum to advocate for the care they are able to receive because of these programs.
 The elderly on fixed incomes, the children on the brink of or in poverty, the pregnant mothers; those on the edges of society who are in need of aid from the larger society.
 A social safety net to ensure the poverty we saw in this country during the 19th and 20th centuries is never seen again.
@@ -50,7 +52,7 @@ The House then quickly moved through the remaining amendments and voted to pass 
 The budget is now onto the Senate.
 Where they will compile their own revenue estimates, and expenditures.
 That will then come back to the House where we will get another bite at the apple.
-Profile Shots - 8 April 2025 - 15:55 - Concord, NH - Taken by Photographer for the Free Press It hasn’t been all doom and gloom in the State House.
+Profile Shots - 8 April 2025 - 15:55 - Concord, NH - Taken by Photographer for the Free Press Profile Shots - 8 April 2025 - 15:55 - Concord, NH - Taken by Photographer for the Free Press It hasn’t been all doom and gloom in the State House.
 Serving on the Environment and Agriculture committee this session has been a whole other world than the proceedings on the floor.
 The committee is chaired by Representative Judy Aron.
 The ranking member of the committee, aka the head democrat, is Representative Peter Bixby.
@@ -84,4 +86,4 @@ It all seemed so gloomy this month.
 The rain, the politics, the unbelievable made for tv movie going on around us at all times.
 The weights of the world which for so long our comforts allowed us to ignore are becoming unavoidable.
 Yet we are reminded by source as we are each Easter Sunday, that no matter how dark it gets in the winter, the sun shall shine again.
-Easter Sunrise - 20 April 2025 - 06:10 - Peterborough, NH - Taken by Jonah ‹ Getting the Gavel How Do You Sleep At Night? › Back to all
+Easter Sunrise - 20 April 2025 - 06:10 - Peterborough, NH - Taken by Jonah Easter Sunrise - 20 April 2025 - 06:10 - Peterborough, NH - Taken by Jonah ‹ Getting the Gavel ‹ Getting the Gavel ‹ Getting the Gavel How Do You Sleep At Night? › How Do You Sleep At Night? › How Do You Sleep At Night? › Back to all

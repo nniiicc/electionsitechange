@@ -28,7 +28,7 @@ Troy earned an Associate's Degree from the University of Maine at Fort Kent in 2
 He lives in Allagash with his partner, Lana.
 They have two grown sons.
 Troy is fighting for working people across Maine and America to have more time for what matters.
-To reach the campaign, email info@jacksonformaine.com .
+Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

@@ -20,7 +20,7 @@ I’m not running to answer to other politicians in Raleigh.
 I’m running to answer to you. advocate for fair maps: You should choose your politicians, not the other way around.
 Poll after poll shows about 84% of NC voters oppose gerrymandering .
 And yet, in North Carolina, the Republican majority keeps drawing maps that choose their voters instead.
-Voters in NC deserve fair voting maps, and by electing Judge Anita Earls, we will move one step closer to making that happen.
+Voters in NC deserve fair voting maps, and by keeping NC Supreme Court Justice Anita Earls, we will move one step closer to making that happen in 2030.
 Every vote should count the same , no matter where you live or how you vote.
 Hi, neighbor!
 I’m Melissa Zehner, your Democratic candidate for NC’s 1st Senate District.
@@ -35,11 +35,15 @@ After graduating from Randolph-Macon Woman’s College I worked in Minor League 
 I loved my work.
 Once we started a family, we made the choice that I would be a stay at home parent.
 It was a decision that many families have had to make because childcare is simply not affordable.
-And now I see people across Eastern North Caroline with even more basic needs that are not being met.
+And now I see people across Eastern North Carolina with even more basic needs that are not being met.
 So, when I received phone calls from Kate Barr and NC Supreme Court Justice Anita Earls in December of 2025, asking if I would run for this seat, it felt like an amazing opportunity to advocate for the people and place that I love.
 Senate District 1 is gerrymandered, covering 10 counties.
 Many people say that Raleigh has done more to us than for us.
 But it doesn’t have to be this way.
-This campaign is about putting working people first, investing in our kids, and working to secure fair maps in 2030.
+This campaign is about putting working people first.
+You deserve strong, fully funded public schools.
+You deserve healthcare options closer to home.
+You deserve affordable housing and a livable wage.
+You deserve a Senator that is committed to protecting our rural communities, our coast, and your wallet.
 CONTACT MELISSA want to volunteer for the campaign?
 DONATE here

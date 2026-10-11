@@ -1,5 +1,5 @@
 Skip to content No AIPAC money, ever.
-Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Facebook Twitter Instagram About Angélica Angelica Dueñas, mother, activist, and community organizer.
+Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Facebook Twitter Instagram About Angélica Angelica Dueñas, mother, activist, and community organizer.
 Born and raised in the San Fernando Valley.
 Raising five children who attend LAUSD schools.
 BA in Political Science.

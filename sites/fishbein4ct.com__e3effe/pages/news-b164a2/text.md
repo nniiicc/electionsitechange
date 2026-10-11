@@ -1,4 +1,23 @@
-HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy 2 Oct Friday, 10:59 PM · 2026 A Voice for Wallingford and Middlefield 2 Oct Friday, 10:54 PM · 2026 ENDORSED by the CT State Fraternal Order of Police I am proud to receive the endorsement of the Connecticut Chapter of the Fraternal Order of Police.
+HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy 7 Oct Wednesday, 11:09 AM · 2026 Are Drone Deliveries Coming To Wallingford And Middlefield?
+Yesterday, a dozen or so legislators, including myself, met with representatives of Amazon Prime Air to discuss ours, and our constituents' concerns raised by the recent news that they intend to begin deliveries by drone in the near future.
+We learned that they still need local (meaning state) FAA approvals, as well as that from the federal government.
+Among my many questions, I asked them when, if all things worked along the swiftest best timetable for them, that they would begin these deliveries.
+Their response was that originally they were looking at a timetable of the end of this year, but do not think that reachable - more like early spring of 2027.
+Further, they did corroborate that the anticipated delivery area would include parts of Middlefield.
+We also learned that (at least in the beginning) these drone deliveries will not be automatic, rather the purchaser will need to opt in, and specifically authorize the particular drone delivery.
+I know that many of my constituents are concerned about this new mode of delivery.
+I also know that other major companies are looking into using this, and I have to give credit to Amazon Prime Air for taking the time to have today's (and many future discussions to come) with us legislators.
+Nonetheless, I remain skeptical.
+In the meantime, CT's Department of Energy and Environmental Protection (DEEP) is soliciting comments from the public about these potential drone deliveries.
+You can submit your input by emailing DEEP at DEEP.FCC.PublicComments@ct.gov before October 15.
+Please feel free to send me a copy at craig.fishbein@housegop.ct.gov as I am interested to learn more about how this new technology may impact (or perhaps benefit) those that I represent.
+6 Oct Tuesday, 10:32 PM · 2026 AI Protections: CT Goes Farther Than The Feds This year, I worked with the Attorney General's office to write and pass Public Act 26-55, Connecticut's version of the federal "Take It Down Act." I am proud to say that our law goes further than the federal statute by expressly allowing the person actually harmed by an AI-generated intimate image to bring their own action against both the perpetrator, as well as the social media platform that failed to "take it down." I was also instrumental in the passage of Public Act 26-119 which makes it a crime to use a digitally created likeness to defraud someone out of money.
+4 Oct Sunday, 11:05 AM · 2026 Remembering...
+Remembering at the American Foundation for Suicide Prevention’s Out of the Darkness Walk.
+#YouAreNotAlone 3 Oct Saturday, 11:00 AM · 2026 Come On Down to Celebrate Wallingford!
+Come on down to Celebrate Wallingford and visit the Wallingford Republican Party ’s booth for hotdogs, chips, and water.
+Only $10!
+3 Oct Saturday, 5:56 AM · 2026 One of Us 2 Oct Friday, 10:59 PM · 2026 A Voice for Wallingford and Middlefield 2 Oct Friday, 10:54 PM · 2026 ENDORSED by the CT State Fraternal Order of Police I am proud to receive the endorsement of the Connecticut Chapter of the Fraternal Order of Police.
 The Fraternal Order of Police is our nation's LARGEST law enforcement organization, and is known as “the voice of our nation’s law enforcement officers.” I thank the membership, and especially Sgt.
 Nick DeNovellis, its President, for recognizing the many efforts I have undertaken in support of our men and women in blue, hoping to make Connecticut a safer place to live, operate a business, and raise a family.
 2 Oct Friday, 10:51 PM · 2026 NEW LAWS TAKE EFFECT OCTOBER 1ST!
@@ -266,16 +285,8 @@ JOIN ME in celebrating its BIRTHDAY!
 Without feeling secure in your home or neighborhood, little else matters.
 Unfortunately, soft-on-crime policies and criminal coddling has put the safety of our communities at risk.
 In order to send a message that illegal, nefarious activity is not welcome in Connecticut, I've supported measures to combat the surge in street takeovers, protect children from online predators, increase protections for domestic violence and sexual assault victims, prevent cruelty to animals, stop catalytic converter theft, and back our heroes in blue.
-15 Sep Sunday, 9:19 PM · 2024 Doorknocking across the district (9/15/2024) 291 doors over 20.47 miles this weekend.
-But GEEZ it was HOT!
-11 Sep Wednesday, 9:44 AM · 2024 Remembering 9/11 #NeverForget 10 Sep Tuesday, 9:40 PM · 2024 ENDORSED by the NATIONAL FEDERATION OF INDEPENDENT BUSINESS (NFIB) Since 1943, the NFIB has been the voice of small business, advocating on behalf of America’s small and independent business owners in all 50 states, as well as the District of Columbia.I am proud to accept their endorsement of my re-election campaign.
-10 Sep Tuesday, 9:35 PM · 2024 Doorknocking across the district (9/9/2024) 210 doors over 15.08 miles this weekend!
-The weather more bearable, HOKA 's in gear!
-#NovemberElection #Fishbein4CT www.Fishbein4ct.com 10 Sep Tuesday, 1:07 PM · 2024 No EV Mandates In Connecticut, we should not be working to become California 2.0.
-As a member on the Legislative Regulation Review Committee, I was successful in defeating Governor Lamont's electric vehicle mandate.
-It is not the role of government to force consumers into purchasing electric cars, and any such requirement would be an attack on industry, your freedom, and most importantly the already stretched budgets of our families.
-As your representative, I will continue to oppose EV mandates, and always be an advocate for the free-market consumer.
-News A Voice for Wallingford and Middlefield ENDORSED by the CT State Fraternal Order of Police NEW LAWS TAKE EFFECT OCTOBER 1ST!
-Amazon Air Drone Deliveries Raise Concerns Three Strikes = Six Months!
-Fishbein for Connecticut - Jo-Anne L.
+News Are Drone Deliveries Coming To Wallingford And Middlefield?
+AI Protections: CT Goes Farther Than The Feds Remembering...
+Come On Down to Celebrate Wallingford!
+One of Us Fishbein for Connecticut - Jo-Anne L.
 Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

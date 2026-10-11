@@ -31,7 +31,7 @@ Wade, despite pleas and warnings from Mainers and said again this summer that sh
 Collins played a key and “ pivotal ” role in passing the OBBBA – voting to advance the bill and then once Republicans had the votes, she voted against final passage.
 For 25 years, Mainers have been waiting for Susan Collins to answer their questions at a public town hall.
 Tonight, she has another chance.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

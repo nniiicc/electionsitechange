@@ -20,6 +20,8 @@ This is not a mandatory-prosecution or “no-drop” package.
 It does not allow an accusation, arrest, risk assessment, or protective order to prove guilt.
 It does not eliminate the State’s burden of proof, authorize automatic electronic monitoring, create an automatic right to damages for ordinary mistakes, or require victims to testify.
 It instead seeks to build cases from reliable evidence, protect voluntary victim participation, identify demonstrated danger through individualized judicial findings, make government perform duties the law clearly assigns, and give families a realistic opportunity to reach safety.
+Video Protecting Families From Abuse - Modernizing Laws to Protect Victims and The Wrongfully Accused Will Campbell - Candidate for Texas House, HD109 Source.
+Video recorded and published by the Will Campbell for Texas campaign.
 1 The Problem Is Larger Than a Dismissal Rate A local warning, not a statewide verdict The public discussion that helped prompt this proposal began with reporting about misdemeanor family-violence cases in Bexar County.
 KSAT reported that its analysis found an approximately 89 percent dismissal rate among eligible cases reviewed during the first half of 2026. [KSAT, 2026a] Dr.
 Edgardo Rafael Báez cited that reporting in a public statement and called for stronger evidence practices, greater transparency, improved protective-order enforcement, support for survivors, and closer attention to repeat or high-risk offenders. [Báez, 2026] A high dismissal rate deserves investigation, but the number alone cannot tell the public why the cases were dismissed.

@@ -17,7 +17,7 @@ Pridemore has asked for his yes vote to be stricken and another vote taken with 
 The second School Board for the high school didn’t pass the revised language after failing to get a second to the motion – with Pridemore absent, the Daily News reported.
 For more information see jimforwi.com.
 Paid for by Jim for Wisconsin.
-Post navigation Previous post: Prev WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK July 29, 2024 Next post: Next DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE July 31, 2024 You May Also Like Posted March 14, 2024 in Endorsements , News , ticker Washington County Treasurer, Former Hartford Mayor Scott Henke Endorses Jim Piwowarczyk for Assembly Posted November 4, 2024 in Endorsements , News , ticker Milwaukee Police Association Endorses Jim Piwowarczyk for State Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev WISCONSIN REALTORS ASSOCIATION ENDORSES JIM PIWOWARCZYK July 29, 2024 Next post: Next DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE July 31, 2024 You May Also Like Posted April 18, 2024 in ticker , Endorsements , News Wisconsin District Attorneys Association President Eric Toney Endorses Jim Piwowarczyk for Assembly Posted May 3, 2024 in Endorsements , News , ticker Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

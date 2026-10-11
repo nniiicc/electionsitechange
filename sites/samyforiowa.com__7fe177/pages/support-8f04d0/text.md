@@ -10,4 +10,4 @@ Des Moines, IA 50314 Donate Online For a convenient and fast way to support our 
 Click to Donate Samy El-Baroudi for Iowa Senate.
 701 Hickman Rd.
 Des Moines, IA 50314 ​ Email justsamyelbaroudi@gmail.com Follow Samy Website Paid for by Samy for Iowa Get in Touch First Name Last Name Email Subject Leave us a message...
-I would like to: Submit an Endorsement Volunteer Get a Yard Sign (delivered in August) Replace a Yard Sign (Lost/Broken) Submit If requesting a sign, please include your address. ​ Thanks for submitting! bottom of page
+I would like to: Submit an Endorsement Volunteer Get a Yard Sign Replace a Yard Sign (Lost/Broken) Submit If requesting a sign, please include your address. ​ Thanks for submitting! bottom of page

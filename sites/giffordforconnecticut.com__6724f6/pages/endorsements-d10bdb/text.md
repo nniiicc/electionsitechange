@@ -13,7 +13,8 @@ Endorsed Friends of Connecticut Sportsmen The Friends of Connecticut Sportsmen, 
 Endorsed Connecticut State Fraternal Order of Police “The Connecticut State Fraternal Order of Police is proud to formally endorse your candidacy in the upcoming election.
 This endorsement reflects our recognition of your commitment to public safety, the law enforcement community, and the citizens of Connecticut.
 We look forward to working with you keeping Connecticut safe.
-We appreciate your willingness to engage with the issues that affect Connecticut’s law enforcement officers and their families, and we wish you success throughout the remainder of your campaign.” Campaign About Will Our Platform Endorsements Get Involved Volunteer Voting & Election Connect Contact Us Register to Vote Contact Send Message © # Gifford for Connecticut.
+We appreciate your willingness to engage with the issues that affect Connecticut’s law enforcement officers and their families, and we wish you success throughout the remainder of your campaign.” Endorsed Connecticut Young Republicans The Connecticut Young Republicans have endorsed Will Gifford for State Representative of the 8th District, backing his commitment to limited government, public safety, and building the next generation of Connecticut leaders.
+Campaign About Will Our Platform Endorsements Get Involved Volunteer Voting & Election Connect Contact Us Register to Vote Contact Send Message © # Gifford for Connecticut.
 All rights reserved.
 Paid for by Gifford for Connecticut.
 Justin Riendeau, Treasurer.

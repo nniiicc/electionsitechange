@@ -378,7 +378,7 @@ Large and growing baseline of active addicts.
 High-dependence synthetics keep survivors using while recruiting new ones.
 Net inflow because low-barrier shelters, harm-reduction without strong accountability, decriminalization signals, and generous services draw people from outside Seattle/King County.
 “Housing First” without sobriety requirements, resistance to clearing encampments, and limited enforcement against open-air drug markets create visible “success stories” that accelerate the next wave.
-Overdoses exploded (1,259 → 3,459 in three years; time-to-double ~2.05 years).
+Overdoses exploded (Washington statewide: 1,259 deaths in 2019 → 3,458 in 2023, four years; time-to-double ~2.7 years).
 More tent cities normalize public disorder.
 Businesses and residents leave or disengage.
 The pool grows multiplicatively through migration, new initiates, and survival of the current cohort.
@@ -486,6 +486,6 @@ Check back often.
 Read the full position statement Home · Vote · Donate · Issues Paid for by Friends of Jillian England (AKA FOJE), P.O.
 Box 30064, Seattle, WA 98113.
 This website is paid for and authorized by the committee to elect Jillian England as defined on the C1.
-Legislative District 36 • Washington State Updated: October 9, 2026 · Site version: 06f52f6-dirty This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
+Legislative District 36 • Washington State Updated: October 10, 2026 · Site version: d91a1db-dirty This campaign site is maintained with regular content updates — not a static brochure. © # Jillian England for State Senate.
 All rights reserved.
 Privacy Policy | Terms of Service

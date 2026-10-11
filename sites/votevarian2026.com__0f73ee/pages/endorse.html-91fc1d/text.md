@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend Fuel Tax Coalition West Tampa Plant city Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend Fuel Tax Coalition West Tampa Plant city Health Care Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid ENDORSEMENTS Please show your support by providing an endorsement for the candidacy of KEITH VARIAN for FL-16.
 Scroll down to read endorsements and the letters of recommendation.
 Endorse KEITH VARIAN!

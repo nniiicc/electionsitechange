@@ -10,17 +10,16 @@ We will not use this information to identify individuals except for site securit
 Other Information We Collect If you choose to identify yourself or provide personal information through our online forms, we may collect and retain: Name, street address, email address, and phone number Geographic location Demographic information such as gender, date of birth, occupation, employer name, and zip code Any other information you provide when requesting information, registering, making a contribution, signing up for updates, volunteering, or otherwise interacting with the Site How Long We Keep Information We may retain information we collect for an unlimited period of time unless otherwise required by applicable law.
 Use of Cookies Text Messaging Originator Opt-In Data and Consent All text messaging originator opt-in data and consent information will not be shared with any third parties except as required by law or as necessary to provide the messaging service.
 SMS information is not rented, sold, or shared for third-party marketing purposes.
-SMS/MMS Terms and Conditions Friends of McCormick operates a mobile messaging program subject to these SMS/MMS Terms and Conditions.
-Subscribers agree to receive messages from Friends of McCormick containing news updates, event reminders, issue updates, volunteer opportunities, calls-to-action, and fundraising solicitations.
-To opt out at any time, reply STOP to any mobile message from us.
-User Opt-In: Users may opt into this program through online sign-up forms, by texting a keyword to our shortcode, or through other available methods.
-By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
-By participating, you agree to the terms & privacy policy for auto dialed messages from client to the phone number you provide.
-No consent is required to buy.
-Msg&data rates may apply.
-Reply HELP for help or STOP to opt-out at any time.
-SMS information is not rented, sold, or shared.
-Privacy Policy and Terms and Conditions .
+SMS/MMS Terms and Conditions Users may opt into the Friends of McCormick mobile messaging program through our online sign-up form.
+By selecting the SMS consent checkbox and providing your phone number, you agree to receive recurring SMS political updates, campaign news, event reminders, volunteer opportunities, and donation requests from Friends of McCormick.
+Donations may be solicited.
+Message frequency may vary.
+Standard Message and Data Rates may apply.
+Reply STOP to opt out.
+Reply HELP for help.
+We will not share mobile information with third parties for promotional or marketing purposes.
+Consent is not a condition of purchase.
+Our Terms and Conditions also apply.
 Children's Online Privacy Protection Act Compliance We comply with the Children's Online Privacy Protection Act and do not knowingly collect or maintain personal information from anyone under 13 years of age.
 Our Site, information, and services are directed to individuals who are at least 18 years of age.
 You must be at least 18 years old to use this Site.

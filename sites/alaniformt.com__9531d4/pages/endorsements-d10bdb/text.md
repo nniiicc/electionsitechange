@@ -14,7 +14,17 @@ Brian Schweitzer Former Governor of Montana " To kick a woman of the quality of 
 Senator?
 Give me a break.
 John Driscoll Former Speaker, Montana House of Representatives " A strong guardian of the public interest, and not the special interests.
-Ed Smith Former Clerk, Montana Supreme Court Why I'm with Alani In Montanans' own words Neighbors, veterans, writers, and everyday Montanans, in their own words. " I have been a full throated supporter of Alani Bankhead from the first time I heard her speak.
+Ed Smith Former Clerk, Montana Supreme Court " We appreciate all you do to support women's rights and know that you'll continue to fight for us.
+National Women's Political Caucus Endorsement letter to Alani, July 2026 On the record Published questionnaires These organizations do not endorse candidates.
+They ask every candidate the same questions and publish what comes back.
+Check them yourself.
+Who asked Alani Bankhead (D) Kurt Alme (R) Seth Bodnar (I) Kyle Austin (L) Vote-USA Nonpartisan candidate profiles on every major issue.
+A question appears only if a candidate answered it.
+Answered every topic on the page No responses No responses No responses Montanans for Choice Take Action 2026 voter guide on reproductive freedom.
+“Does not endorse candidates for federal office.” Answered in full; yes on all 13 positions Did not respond Answered Answered Montana Free Press 2026 Election Guide.
+Nonprofit newsroom candidate Q&A.
+Answered Answered Answered Answered Ballotpedia Candidate Connection survey, published on each candidate’s page.
+Answered Answered Answered Answered Why I'm with Alani In Montanans' own words Neighbors, veterans, writers, and everyday Montanans, in their own words. " I have been a full throated supporter of Alani Bankhead from the first time I heard her speak.
 She has handled the attacks against her character with the kind of integrity and humor that I love to see in my candidates.
 She never dodges a question, and never attacks the messenger.
 Russell Rowland Montana author " This November, Montana has a chance to tell itself something true.

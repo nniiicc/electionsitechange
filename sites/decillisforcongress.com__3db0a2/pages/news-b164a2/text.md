@@ -79,4 +79,4 @@ Want to donate?
 Click the link to our ActBlue page or mail checks to: PO BOX 140245 STATEN ISLAND, NY 10314 By submitting your mobile number, you consent to receive voting and donation messages to support DeCillis for New York.
 Msg & data rates may apply.
 Message frequency varies.
-Text HELP for help, Text STOP to Opt Out. paid for by decillis for congress info@Decillisforcongress.com
+Text HELP for help, Text STOP to Opt Out.

@@ -30,9 +30,8 @@ It places unconstitutional restrictions on our first amendment right of free spe
 And two.
 Unless we can talk about how our behaviors and policies impact minorities, racism will continue.
 By banning discussion about racism, this section actually protects racism.
-Let’s make it clear, New Hampshire condemns racism and sexism.
-2023 Endorsements and Recommendations June 2024 ​ Moms Demand Action Gun Sense Candidate Based on my record of working to make schools gun-free zones and supporting other gun safety legislation, I have received the Moms Demand Action Candidate recognition award.
-Moms Demand Action September 2024 ​ ​ National Educators Association -NH Recommendation Our children are the future.
+Let’s make it clear, New Hampshire condemns racism and sexism. ​ Endorsements and Recommendations July 2027 ​ Moms Demand Action Gun Sense Candidate Based on my record of working to make schools gun-free zones and supporting other gun safety legislation, I have received the Moms Demand Action Candidate recognition award.
+Moms Demand Action August 2027 ​ ​ National Educators Association -NH Recommendation Our children are the future.
 A quality education is a cornerstone of equal opportunity for all, and a safe, prosperous and democratic country.
 Teachers deserve respect.
 September 2024 ​ Teamsters 633 Endorsement As one of the oldest unions in the country, the Teamsters work for fair pay and fair treatment of nearly 5,000 members.
@@ -43,7 +42,7 @@ Teachers deserve respect.
 July 2022 ​ NH Youth Action Fund Young adults deserve access to college and career training without accumulating extraordinary debt, fair wages and the opportunity to own a home.
 All citizens deserve a piece of the American dream.
 NHYouthMovement.org August 2022 ​ Progressive Turnout Project Endorsement PTP endorses candidates who support protecting the fundamental right to vote.
-TurnOutPac.org 2018 - 2024 Endorsed by Animal rights activist.
+TurnOutPac.org 2018 - 2026 Endorsed by Animal rights activist.
 HOME My Experience My Position My Action Plan In the News More Use tab to navigate through the menu items.
 Fiscal Agent: Sallie Fellows, 277 Mt.
 Prospect Rd.

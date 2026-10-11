@@ -55,7 +55,7 @@ From the Kittitas Valley to the Columbia Basin, the 13th District is the working
 It deserves a representative who knows it firsthand.
 Ellensburg Cle Elum Kittitas Quincy Moses Lake & the communities of Central WA 3 Counties Across Central Washington 100% Focused on the Families Out Here 1 Neighbor Ready to Represent You Endorsements Standing With Joshua I have been incredibly blessed and flattered to have such a diversified group of endorsements — including unanimous endorsements from both the Kittitas County and Douglas County Republican Parties , highly respected city councilmembers like the City of Quincy's Dave Dormier , and Kittitas County Commissioners Cory Wright and Brett Wachsmith .
 Constitution-based organizations like the Washington Patriot PAC and Freedom Caucus 45 have also endorsed my campaign.
-Grant County Republican Party Kittitas County Republican Party Douglas County Republican Party Kevin Burgess Commissioner, Grant County Cindy Carter Commissioner, Grant County Brett Wachsmith Commissioner, Kittitas County Laura O.
+Grant County Republican Party Kittitas County Republican Party Douglas County Republican Party WA Farm Bureau PAC NFIB National Federation of Independent Business Seattle King County REALTORS Washington Affordable Housing Council Kevin Burgess Commissioner, Grant County Cindy Carter Commissioner, Grant County Brett Wachsmith Commissioner, Kittitas County Laura O.
 Kittitas County Cory Wright Commissioner, Kittitas County Darrin Jackson Commissioner, Port of Moses Lake Full Name * Title / Role (optional) Endorse Joshua Your endorsement is submitted to the campaign for review.
 Nothing is published to the website until the campaign approves it.
 Thank you for endorsing Joshua!

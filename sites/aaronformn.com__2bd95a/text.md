@@ -1,4 +1,4 @@
-A Aaron Schweiger For MN, House 3B About Issues News Vote Get Involved Contact Donate Elect Aaron Schweiger For MN, House 3B DONATE GET INVOLVED VOTE A Fighter for the Northland Bringing leadership, transparency, and real action to District 3B.
+A Aaron Schweiger For MN, House 3B About Issues Our Endorsements News Vote Get Involved Contact Donate Elect Aaron Schweiger For MN, House 3B DONATE GET INVOLVED VOTE A Fighter for the Northland Bringing leadership, transparency, and real action to District 3B.
 Meet Aaron Hi, I’m Aaron Schweiger, a proud 5th generation Northlander, business owner, husband, and father.
 I live in Hermantown with my wife, two daughters, and our dogs.
 I graduated from Duluth East High School in 1999, before attending the University of Minnesota for undergrad, and then on to Western Michigan University and the University of Notre Dame Law Schools.
@@ -36,6 +36,6 @@ Get Involved A Fighter for the Northland Donate Your contribution helps fund gra
 Checks can be mailed to PO BOX 1133, Proctor, MN 55810.
 Make a Donation Join Us Join our team of dedicated volunteers.
 From door-knocking to phone banking, there's a role for everyone.
-Stay Updated/Support Us A Aaron Schweiger Quick Links About Issues News Vote Get Involved Contact PO BOX 1133 Proctor, MN 55810 (218) 721-6333 info@aaronformn.com Follow Us © # Aaron Schweiger for MN, House 3B.
+Stay Updated/Support Us A Aaron Schweiger Quick Links About Issues Our Endorsements News Vote Get Involved Contact PO BOX 1133 Proctor, MN 55810 (218) 721-6333 info@aaronformn.com Follow Us © # Aaron Schweiger for MN, House 3B.
 All rights reserved.
 Paid for by Aaron Schweiger for the Minnesota House Campaign Finance Committee

@@ -19,15 +19,15 @@ We also must end all foreign aid, across the board.
 It shocks the conscience to take money from the American people through direct taxation or inflation, and then to give that money, which rightfully belongs to the American people, to foreign governments and citizens of other countries.
 Uniparty's Endless Money Printing and Forced Collectivism Are Causes of Affordability Crisis, Free Markets Are the Solution The number one problem with affordability in the United States is rampant inflation.
 Inflation is caused primarily by the uniparty government printing up trillions and trillions of dollars out of thin air.
-This dilutes the money supply and causes the dollar to rapidly lose its spending power.
+This dilutes the money supply, debasing our currency and causing the dollar to rapidly lose its spending power.
 This uniparty inflation is an insidious regressive taxation that crushes the poor and the middle class, it hurts them the most.
 The uniparty government politicians will never stop printing up money, and that is the main cause of inflation.
 Politicians cannot be trusted to stop spending.
 As long as they control the printing presses, they will never stop printing money.
 The only solution is to take this power to manage currency away from the state and return it to the people.
 We must transition away from our current fiat currency system and embrace a free market, voluntary monetary system.
-Separating currency and state is the only way to end inflation.
-The next part of affordability is the state's constant destruction, interference, and stifling of the free market.
+Separating currency and state is the only way to end inflation, and the only way to effectively restore affordability.
+The next part of the affordability problem is expanding forced collectivism and socialism, the state's constant destruction, interference, and stifling of the free market.
 This government's extensive involvement in healthcare and education industries in particular is especially destructive, as the costs of both healthcare and education have now spiraled completely out of control in accordance with the increasing level of tyrannical government control over these industries.
 The more the government is involved in any industry, the more prices go up and spiral out of control.
 We must embrace free market competition in all areas of our economy.

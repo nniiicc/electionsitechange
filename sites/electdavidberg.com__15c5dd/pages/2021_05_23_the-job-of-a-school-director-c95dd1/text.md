@@ -39,7 +39,7 @@ Just as I have been an advocate for my sons and for public education over the la
 Our students will benefit when we work together to celebrate their value and what they add to our community.
 I can’t wait to get started.
 Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: Community , David Berg , Engagement , Families , Goals , Governance , Parents , Puyallup School Board , Puyallup School District , Responsibilities , Students ← What Size Shoe Does Your Student Wear?
-Curriculum Adoption and the School Board → Leave a Reply Cancel reply Translate Countdown to the General Ballots are Due - Use a Drop Box!
+Curriculum Adoption and the School Board → Leave a Reply Cancel reply Comment Name Email Website Δ Translate Countdown to the General Ballots are Due - Use a Drop Box!
 November 3, 2026 # days to go.
 Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Discover more from Elect David Berg Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading %d

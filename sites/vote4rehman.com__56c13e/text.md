@@ -64,7 +64,7 @@ THE ROAD TO NOVEMBER This Campaign Is Built on Front Porches All year, this camp
 No party machine.
 Just neighbors, face to face.
 The next steps belong to you.
-# Days to Election 3 Days to register to vote Deadline October 13, 2026 Join the Campaign Donate HOW THIS WORKS District 9A Elects Two Delegates.
+# Days to Election 2 Days to register to vote Deadline October 13, 2026 Join the Campaign Donate HOW THIS WORKS District 9A Elects Two Delegates.
 You Have Two Votes.
 I am not asking you to change how you vote.
 Two candidates on this ballot are running as a pair and two more are running as a pair, and all four want both of your votes.

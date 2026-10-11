@@ -9,5 +9,5 @@ Quick View Team Dittmer Crew Neck Tee from $20.00 Select Size Small Medium Large
 Quick View Team Dittmer Logo Cap $20.00 Black White Add To Cart Added!
 No results found No results match your search.
 Try removing a few filters.
-Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

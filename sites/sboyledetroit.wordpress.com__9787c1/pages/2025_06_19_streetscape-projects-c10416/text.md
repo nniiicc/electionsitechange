@@ -24,7 +24,7 @@ It certainly doesn’t give any true community building vibes to me.
 That’s typically when they have a pocket of support and that’s the stakeholders being worked with.
 It seems too much like systems for cronyism rather than community.
 Why doesn’t Planning actually have community conversations instead of presentations?
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a comment Cancel reply Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
 He received a BS, major Computer Science from Wayne State University 1983, and a MS, major Business Information Technology from Walsh College 2005.
 His working journey includes 20 years of corporate computing, photography, graphics design, plant-based cooking, and consulting.
 As a community activist in Detroit he’s dedicated time to research, writing, and blogging on Social Justice issues.

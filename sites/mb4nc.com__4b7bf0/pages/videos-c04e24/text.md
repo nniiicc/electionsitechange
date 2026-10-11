@@ -2,7 +2,8 @@ Home Issues Endorsements Meet Me Cases Videos Donate Home Issues Endorsements Me
 LAW ENFORCEMENT SUPPORT When they are looking for your vote, many candidates say they "support" law enforcement.
 But which judicial candidate does NC Law Enforcement really support?
 Take one minute to find out.
-WHY I AM RUNNING In this short video, I explain why the NC Court of Appeals needs a judge who is conservative, experienced and fair--like me.
+WHY I AM RUNNING In this short video, Michael explains why the NC Court of Appeals needs a judge who is conservative, experienced and fair--like me.
+NC Deep Dive Podcast NC DEEP DIVE PODCAST Listen to this podcast where Michael is interviewed by Amanda Benbow Lunn.
 NC COURT OF APPEALS JUDICIAL FORUM Michael C.
 Byrne and John S.
 Arrowood 2026 NCBA Annual Meeting PLEASE LET US KEEP YOU INFORMED.

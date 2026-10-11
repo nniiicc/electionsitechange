@@ -37,8 +37,8 @@ The more guardrails the better for these potentially fraught circumstances, part
 Surely, the owners will sleep better knowing that there are periodic assessments of maintenance needs — and the funds to cover them are going to be there when needed.
 Baltimore Sun editorial writers offer opinions and analysis on news and issues relevant to readers.
 They operate separately from the newsroom.
-Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like The Marlton Quarterly September 4, 2021 Delegate Holmes statement on the insurrection in DC.
-January 9, 2021 The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like Roomy houses, lots of amenities in the Prince George’s community of Perrywood August 19, 2021 Delegate Holmes statement on the insurrection in DC.
+January 9, 2021 Defunct Maryland HOA leaves complex with collapsing sidewalk August 10, 2021 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
 Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments What’s Your Home Worth?
 A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments By Authority: Friends of Marvin E.
 Holmes, Jr.

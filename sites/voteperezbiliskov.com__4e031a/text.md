@@ -1,6 +1,6 @@
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name * Last Name * Address Name Last Phone Number Email Address * Policy * By providing your telephone number and checking this box, you consent to receive calls and text messages.
+First Name * Last Name * Phone Number Email Address * Phone Last Name Policy * By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.
 Msg frequency may vary.
 Messaging may include requests for donation.

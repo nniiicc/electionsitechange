@@ -1,7 +1,6 @@
 NEWLIN for STATE SENATE Meet Jeff Priorities Join The Team District 41 Compare DONATE Candidate Questionnaires Jeff Newlin and Sen.
 Kim Jackson, side by side, as each answered.
-Every answer links to its source.
-Take the quiz to see where you stand Why are you running for this office?
+Every answer links to its source. ← Back to the compare page Take the quiz to see where you stand Why are you running for this office?
 Jeff Newlin I’m not a career politician.
 I grew up in a small town in rural Indiana, earned my degree at Purdue, and have spent 37 years in the private sector building and growing companies, creating jobs, making tough decisions, and managing $100M+ budgets.
 I’ve lived in the Atlanta area 36 years, the last 15 in our Lakeside-area home in DeKalb County, where Christine and I raised three children and are parishioners at Immaculate Heart of Mary.

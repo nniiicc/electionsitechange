@@ -1,9 +1,10 @@
 {
  "description": "Stay updated on upcoming events for Beck for Congress, including local meetings, rallies, and community gatherings supporting Democratic initiatives.",
  "final_url": "https://www.beckforcongress.com/events",
- "fingerprint": "a8d40aa792bd5329d49b6b2767f083a5fdd1ed0a",
+ "fingerprint": "813663b5907c32944878850d178909f1a22ecf12",
  "format": 3,
  "paid_for_by": "Paid for by Beck for Congress",
+ "rendered": false,
  "title": "Events | Join Our Campaign Events Today — Beck for Congress",
  "years_mentioned": [
   "2026"

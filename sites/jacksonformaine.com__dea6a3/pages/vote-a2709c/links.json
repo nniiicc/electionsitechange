@@ -1,9 +1,5 @@
 [
 {
-"text": "About Troy",
-"href": "https://www.jacksonformaine.com/about"
-},
-{
 "text": "Check if you're registered to vote",
 "href": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
 },
@@ -26,6 +22,10 @@
 {
 "text": "Find your polling place here.",
 "href": "https://iwillvote.com/locate/?state=ME"
+},
+{
+"text": "Get answers to frequently asked questions about Troy and his campaign",
+"href": "https://www.jacksonformaine.com/troy-at-a-glance"
 },
 {
 "text": "IWILLVOTE.COM",

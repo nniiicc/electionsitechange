@@ -5,6 +5,6 @@ DONATE About District Seven Wisconsin’s Seventh Senate District comprises part
 Francis, and Oak Creek.
 Together, we can work on the issues most important to our communities to improve our state, like legalizing marijuana, supporting our public schools by fixing our flawed funding model, fighting climate change, and protecting abortion rights.
 We can make Wisconsin a better place to live and work for everyone – and everyone means everyone, no exceptions.
-VOLUNTEER Endorsements State Representative Christine Sinicki Wisconsin Conservation Voters Sierra Club Clean Wisconsin Action Fund Progressive Turnout Project Wisconsin Progress And more!
+VOLUNTEER Endorsements State Representative Christine Sinicki Wisconsin Conservation Voters Sierra Club WI AFL CIO AFSCME Clean Wisconsin Action Fund Citizen Action of WI WI Working Families Party WEAC Progressive Turnout Project Wisconsin Progress And more!
 Mailing Address: 3233 S.
 Herman Street, Milwaukee, WI 53207 Paid for by Friends of Chris Larson Contact us at info@voteforlarson.org Keep up with Chris on: Bluesky | Substack | Instagram | Facebook

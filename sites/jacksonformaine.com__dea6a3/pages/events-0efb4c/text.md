@@ -1,14 +1,9 @@
 Skip navigation menu About Troy Endorsements Priorities News Volunteer Events Vote DONATE About Troy Endorsements Priorities News Volunteer Events Vote DONATE JOIN US AT AN EVENT NEAR YOU UPCOMING CAMPAIGN EVENTS To find more coordinated campaign organizing and volunteer events on the ground, click here.
-Early Voting Kickoff Canvass Launch with Troy, Hannah, and Matt!
-621 Main St, Lewiston, ME, 04240 Join Troy Jackson, Hannah Pingree, and Matt Dunlap for an Early Voting Kickoff & Canvass Launch!
-Talking to voters face-to-face is the best way to earn their support for Democrats up and down the tic… Show more RSVP Bangor Rally with Bernie Sanders | Solidarity Forever Tour Cross Insurance Center 515 Main St, Bangor, ME, 04401 Join U.S.
-Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fight… Show more RSVP Lewiston Rally with Bernie Sanders | Solidarity Forever Tour Agora Event Center 220 Bates St, Lewiston, ME, 04240 Join U.S.
+Lewiston Rally with Bernie Sanders | Solidarity Forever Tour Agora Event Center 220 Bates St, Lewiston, ME, 04240 Join U.S.
 Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
 Troy is a fifth-generation logger who has spent his career fight… Show more RSVP Biddeford Rally with Bernie Sanders | Solidarity Forever Tour Biddeford High School 14 Maplewood Ave, Biddeford, ME, 04005 Join U.S.
 Senate candidate Troy Jackson and Senator Bernie Sanders for a rally as part of Troy's Solidarity Forever Tour across Maine.
-Troy is a fifth-generation logger who has spent his career fight… Show more RSVP Virtual Town Hall w/ Troy Jackson Virtual Event Join Troy Jackson for a virtual statewide town hall to talk about the issues facing Maine people and communities.
-Troy will share what he’s hearing from Mainers across the state, talk about his campa… Show more RSVP Ogunquit and Cape Neddick for Troy!
+Troy is a fifth-generation logger who has spent his career fight… Show more RSVP Ogunquit and Cape Neddick for Troy!
 This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Cape Neddick, ME, 03902 In less than 30 days, we are going to have the opportunity to change the course of our communities and the country.
@@ -138,7 +133,7 @@ Live music and libations provided!
 Saturday, August 22nd, 3 - 5 PM.
 RSVP Required.
 (Both this link and the QR code work.) Exact address provided upon registration.
-To reach the campaign, email info@jacksonformaine.com .
+Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

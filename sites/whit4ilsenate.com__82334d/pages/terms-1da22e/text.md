@@ -11,6 +11,12 @@ Website content is provided for general informational and political-engagement p
 It is not legal, tax, financial, or professional advice.
 Submitting a volunteer or contact form does not create an employment, agency, partnership, or contractual relationship with the campaign.
 Volunteer roles, activities, schedules, and assignments remain subject to campaign needs and coordinator approval.
+Ask Whitfield The question box provides automated responses based on the candidate’s stated positions.
+It is not a live conversation with Whitfield Harrington, and responses may not address every detail of a question.
+It does not create new campaign commitments or provide personal professional advice.
+Questions needing clarification and perspectives submitted through the optional form may be reviewed by the campaign.
+Submitting a question does not guarantee an individual reply.
+You can also use the campaign contact page to raise a concern about an answer.
 Email and text-message communications If you separately opt in to recurring campaign text messages, you agree to receive periodic campaign updates, volunteer information, event notices, and related messages from Whitfield Harrington for U.S.
 Senate and Friends of Whitfield Harrington at the mobile number you provide.
 Message frequency varies.

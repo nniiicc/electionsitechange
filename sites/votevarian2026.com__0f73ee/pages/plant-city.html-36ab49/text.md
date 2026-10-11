@@ -1,4 +1,4 @@
-Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend Fuel Tax Coalition West Tampa Plant city Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend Fuel Tax Coalition West Tampa Plant city Health Care Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
 Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid 🏢 The HUD Choice Neighborhoods Implementation Grant Timeline (West Tampa) Because this grant awards up to $50 million for deep urban revitalization, HUD mandates a much more competitive and comprehensive application process. [1, 2] Year 1 (2027): The Strategy Phase.
 You cannot rush into a massive Implementation Grant without a solid foundational strategy.
 You will work with the Tampa Housing Authority to secure a $500,000 HUD Planning Grant .

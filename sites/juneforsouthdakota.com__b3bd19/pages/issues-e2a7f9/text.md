@@ -1,4 +1,4 @@
-HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE Donate Follow us Donate Follow us Menu THE ISSUES I Stand For Real Solutions for Working Folks District 15 is where Sioux Falls works - renters and homeowners, young families, service workers, tradespeople, and small business owners all call it home.
+HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE MERCH STORE Donate Follow us Donate Follow us Menu THE ISSUES I Stand For Real Solutions for Working Folks District 15 is where Sioux Falls works - renters and homeowners, young families, service workers, tradespeople, and small business owners all call it home.
 In Pierre - I will show up, tell the truth, and push for practical changes that help the people who keep this city running.
 Stable Lives Everyone in District 15 deserves a safe place to live and a real shot at stability.
 I believe housing, healthcare, and basic security are not luxuries – They are the foundation everything else is built on.
@@ -23,4 +23,4 @@ Tell Pierre that we value our voting rights.
 Every eligible voter deserves a straightforward path to the ballot box.
 That’s not partisan — it’s South Dakotan.
 Click Here to Learn How to Report Voting Issues You belong here.
-HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE Donate Follow us Accessibility Statement GET INVOLVED MEET JUNE THE ISSUES Paid for by june for south dakota PO Box 815 Sioux Falls, SD 57101 June for South Dakota © #
+HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE MERCH STORE Donate Follow us Accessibility Statement GET INVOLVED MEET JUNE THE ISSUES MERCH Paid for by june for south dakota PO Box 815 Sioux Falls, SD 57101 June for South Dakota © #

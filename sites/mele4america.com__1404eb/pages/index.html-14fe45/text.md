@@ -1,9 +1,23 @@
-Skip to content MELE FOR CONGRESS Open menu Meet Gregg Priorities Mele 10 Updates Contact Volunteer Donate New Jersey • United States Congress NJ-12 A fighter for New Jersey.
+Skip to content MELE FOR CONGRESS Open menu Meet Gregg Priorities Mele 10 Updates Contact Volunteer Donate New Jersey • United States Congress A fighter for New Jersey.
 A voice for America.
-Gregg Mele is running to put working families ahead of Washington insiders—and to make government answer to the people again.
-Join the Campaign Donate Country before party.
+Gregg Mele is running to put New Jersey families first, defend the Constitution, and make government answer to the people.
+Join the Campaign Donate NJ-12 • 2026 Constitution First Country before party.
 Results before ideology.
-For working families For safe communities For accountable government Straight from the candidate A Message from Gregg Your browser does not support HTML video. ◖ Tap for sound Watch Directly on Facebook → Listening.
+For working families For safe communities For accountable government From Gregg · For New Jersey Watch.
+Read.
+Decide.
+Gregg’s case for constitutional government, safer communities, stronger families—and honest answers from anyone asking for your vote.
+Your browser does not support HTML video. ◖ Tap for sound Featured video A Message from Gregg Mele Hear directly from Gregg about why he is running and the standard he will bring to the United States Congress.
+Visit the Video Library More videos are in production.
+New releases will appear here as soon as they are ready.
+01 Israel & moral clarity Does Hamawy’s Humanitarianism Include Israeli Children?
+Read the documented record → 02 Follow the money $7,900 a Month to His Own Practice.
+Show Voters the Lease.
+Read the FEC-backed account → 03 Public benefits & disclosure A Lawful Veterans’ Benefit—and a Fair Request for Transparency Read what the records establish → More Articles Gregg’s standard: Protect life.
+Respect the Constitution.
+Account for the money.
+Deliver results.
+Listening.
 Working.
 Ready to fight for New Jersey.
 Meet Gregg Mele The people’s seat should belong to the people.
@@ -44,7 +58,7 @@ Send a reminder and record each voluntary confirmation.
 Multiply the effort.
 Celebrate, share the challenge, and invite others to build a team.
 Inside the kit Challenge cards, voter information, conversation guides, social-sharing instructions, a gathering guide, and a Certificate of Patriotic Leadership.
-Official New Jersey voting information → From Gregg’s desk Know what’s at stake.
+Official New Jersey voting information → More campaign briefings Go deeper on the choice.
 Questions of judgment Adam Hamawy’s Ties to the “Blind Sheikh” Deserve Answers Gregg argues that voters deserve clarity about documented associations and public testimony.
 Read article → The choice Stop the Radical Agenda A common-sense alternative built on affordability, freedom, safety, parental rights, and accountability.
 Read article → The responsibility If You Don’t Vote, Someone Else Signs the Check Government does not pause when voters stay home.

@@ -1,9 +1,10 @@
 {
  "description": "John Andrews Campaign Events",
  "final_url": "https://www.andrewsmainesenate.com/Events?range=2026-9",
- "fingerprint": "683c0470b6cba4b6ca83fef1880d76fdc5cbc046",
+ "fingerprint": "7c2dd5d0a718ec904d886fcd2e253400e07f1112",
  "format": 3,
  "paid_for_by": "Paid for by the candidate, not at taxpayer expense",
+ "rendered": false,
  "title": "John Andrews Campaign Events",
  "years_mentioned": [
   "2025",

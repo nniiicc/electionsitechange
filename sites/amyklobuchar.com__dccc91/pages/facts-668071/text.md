@@ -28,13 +28,13 @@ Read Amy Klobuchar’s full plan to root out fraud in state government, starting
 Sources: Star Tribune : As Republicans shift criticism on fraud to Klobuchar, allies point to her prosecutor past Minnesota Reformer : Klobuchar hits Republicans on mass exodus out of Minnesota U.S.
 Attorney’s Office Pioneer Press : Klobuchar says Medicare fraud robs billions from taxpayers Video: Former U.S.
 Attorney Andy Luger What is the truth behind the ads about sending money overseas?
-Unanimous bipartisan legislation passed #ago modernized how people can send money they have earned to family members.
+Independent journalists, including KSTP have rated these claims “misleading” , saying the ad pushing this attack “is based almost entirely on misleading information with no context.” In fact, unanimous bipartisan legislation passed #ago modernized how people can send money they have earned to family members.
 The remittance legislation passed both chambers of Congress with overwhelming bipartisan support.
 Key Republicans strongly supported the effort, including Trump Cabinet Secretary Sean Duffy and former Minnesota Congressman Erik Paulsen, who cosponsored the bill.
 In addition, Minnesota Republican Congressmen Tom Emmer and Erik Paulsen both signed formal congressional letters supporting safe, legal remittance channels, and Emmer also co-chaired the Congressional Somalia Caucus.
 Rather than engaging in partisan rhetoric, Klobuchar is focused on taking direct, concrete action against crime and fraud.
 Read Amy Klobuchar’s full plan to root out fraud in state government, starting with a top-to-bottom audit on day one.
-Sources: John Croman, retired KARE 11 Journalist: Fact check H.R.
+Sources: KSTP, 10/8/26 John Croman, retired KARE 11 Journalist: Fact check H.R.
 4386 8/8/14 What about Amy’s opponent, Lisa Demuth… Would Lisa Demuth really be a rubber stamp for Donald Trump?
 Yes.
 Lisa Demuth supports Trump’s health care cuts in the Big Beautiful Bill, which will kick 140,000 Minnesotans off their health care and raise premiums by thousands of dollars for those who can still afford insurance.

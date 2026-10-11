@@ -43,7 +43,7 @@ It’s going to take innovative engaging dialog & exposure with 80% of potential
 The 20% that do vote are mostly seniors and stable gentry of the city.
 May our young people rise up into claiming a renewed city spirit created through their innovative approaches.
 Civics has to be learned in the streets and the creative class are the best messengers.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a comment Cancel reply Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
 He received a BS, major Computer Science from Wayne State University 1983, and a MS, major Business Information Technology from Walsh College 2005.
 His working journey includes 20 years of corporate computing, photography, graphics design, plant-based cooking, and consulting.
 As a community activist in Detroit he’s dedicated time to research, writing, and blogging on Social Justice issues.

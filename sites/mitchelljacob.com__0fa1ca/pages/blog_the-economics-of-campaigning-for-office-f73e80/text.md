@@ -63,5 +63,4 @@ I promise to be a good steward of your investment, and I'll use it to take back 
 Are you in?
 Mitch Father, husband, U.S.
 Army veteran, OU Law graduate, and 4th-generation Oklahoman—committed to a better Oklahoma and upholding the Constitution. http://www.mitchelljacob.com Next Next Entanglement: How American Bombs in Iran Reached Oklahoma’s Gas Stations Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
-Box 1141 Newcastle, OK.
-73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy
+Box 1141 Newcastle, OK 73065-1141 (405) 407-6975 info@mitchelljacob.com Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

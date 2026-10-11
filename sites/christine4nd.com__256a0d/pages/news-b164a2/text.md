@@ -1,6 +1,21 @@
 Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs News from Christine O'Riley Candidate for North Dakota State Senate District 11 Be one of the first to know.
 Follow news from Christine O'Riley's campaign online here.
-Follow Christine O'Riley's Campaign News 5 Oct Monday, 3:56 PM · 2026 Be an Informed Voter.
+Follow Christine O'Riley's Campaign News 10 Oct Saturday, 8:19 AM · 2026 League of Women Voters Forum League of Women Voters & AARP of ND Host a District 11 Candidate Forum The link to the forum is below On October 8 th, the District 11 candidates convened to share ideas and answer questions from the public.
+The forum reminded me of the importance of hearing from others and collaboration.
+Leading teams or sharing in the task of governing is never an easy task.
+My experience as a leader, peer, and subordinate has been that great things can be accomplished when people listen, study, and problem-solve together.
+This is the approach I will use as your senator.
+I am proud to be part of our state, and would consider it a great honor to represent my district and contribute to upholding the traditions we cherish.
+Traditions such as honoring God, serving our Nation, raising our families, and good old-fashioned hard work.
+Thank you to the League of Women Voters and members of the AARP of ND for sponsoring this event and so many other informative voter events during this election cycle.
+Please reach out to me to learn more about the campaign or to share ideas, questions, or comments at christine4nd.com.
+Click on the link below to watch the forum. https://www.youtube.com/watch?v=J_hT_oRWxFo&t=2877s Get out to vote!
+Please see a sample ballot and election information below.
+I would appreciate your vote.
+Yard Signs Less than a month until our Great Nation heads to the polls for the midterm elections!
+Please contact me if either you or someone you know would be willing to place a campaign sign at their home or business.
+We have two adorable signs to choose from!
+5 Oct Monday, 3:56 PM · 2026 Be an Informed Voter.
 Preview a Sample Ballot November 3 General Election Please find the link below to the sample ballot for the November 3 General Election.
 In addition to the candidates, your ballot may include several important ballot questions.
 Please review your sample ballot before Election Day so you have an opportunity to learn about the candidates and measures that will appear on your ballot.
@@ -116,5 +131,5 @@ This beautiful event included prayer, singing, and fellowship.
 As a bonus, we were blessed with a sunny day!
 We must continue to pray for our nation during our daily reflections.
 VOLUNTEER DONATE VOTING INFO Get Updates Thank you for signing up!
-News Be an Informed Voter.
-Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu
+News League of Women Voters Forum Be an Informed Voter.
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu

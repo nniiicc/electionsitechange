@@ -4,7 +4,7 @@ The second most beneficial place for voters to see ads are on local broadcast st
 Ads should be directed to voters who frequently vote in mid-term elections.
 Voters need to see that Congressman Suhas Subramanyam has championed legislation to lower costs for Virginia families, and has been demanding oversight and transparency over the Trump Administration.
 Specifically, voters need to know that: Economy: Suhas is fighting to lower costs for Virginians and to create an economy that works for all – including lowering energy costs.
-Suhas introduced the first and only national data center plan to make sure data centers pay for their own utility costs.
+Suhas introduced the first and only national data center plan to make sure data centers pay for their own utility costs, and create a national siting plan to study and monitor the impacts on communities when developing data centers.
 Suhas is pushing legislation to take private equity and corporations out of health care and housing .
 Suhas is fighting to lower housing costs, introducing legislation to help first-time home buyers afford their first home.
 Federal workers/contractors: Suhas stood up to cuts on our federal workforce and contractors impacted by DOGE.

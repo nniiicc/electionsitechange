@@ -1,12 +1,45 @@
 WH Whitfield Harrington U.S.
-Senate · Illinois About My Vision Where I Stand Get Involved Contact Press Donate Independent Candidate · Building the American Center Party Leadership from the center.
+Senate · Illinois About My Vision Where I Stand Watch Get Involved Contact Press Donate Independent Candidate · Building the American Center Party Leadership from the center.
 Service from the heart.
 An independent candidate building the American Center Party with a servant spirit.
 My vision is to Renovate the American Dream.
 Read it and envision it.
 Then join me in Moving to the Middle.
-Read My Vision Get Involved "The real solutions live in the middle.
-Illinois needs a senator who governs from the center, not the extremes." About the Candidate Every step of my journey prepared me for this one.
+Read My Vision Where I Stand Ask Me a Question "The real solutions live in the middle.
+Illinois needs a senator who governs from the center, not the extremes." The Platform Renovate the American Dream My Vision for Illinois and America Most politicians will not tell you what they will do.
+They give you slogans and soundbites and hope you never ask for the details of their plans.
+My campaign is different.
+I am telling you what I will do, and I am telling you now.
+My vision is to Renovate the American Dream.
+These policies are the plan.
+If Illinois elects me as its next United States Senator, this plan is written plainly so you know exactly what you are getting with me as your senator.
+Read it and envision it.
+Then join me in Moving to the Middle, where compromise and progress are made.
+The Cost of Living Crisis The cost of living crisis in America is one of the most common issues Americans are concerned about in this election.
+Americans don't want to hear more arguments about the cost of living; they need to hear answers to the problem.
+Here is my plan and my vision to address the cost of living crisis in America.
+The Cost of Living Crisis Energy Use America's domestic energy resources to bring costs down now while continuing to build the renewable capacity the country will need for the future.
+Read Full Vision The Cost of Living Crisis Food Lower food costs by keeping tariffs off food, strengthening local farmers and markets, protecting farmers' right to repair equipment, and restoring practical food education.
+Read Full Vision The Cost of Living Crisis Housing Make smaller mortgages available so working families can buy affordable homes that are too often captured by cash investors and rented back at higher prices.
+Read Full Vision The Cost of Living Crisis Transportation Invite more automakers to compete in the American market when they build here, creating jobs while putting pressure on vehicle prices to come down.
+Read Full Vision The Cost of Living Crisis Education Make the first year of community college free, give families an affordable start, encourage universities to compete on value, and provide practical support for teachers.
+Read Full Vision A Healthcare Revolution Health Care Expand Direct Primary Care by helping doctors open independent practices through loan forgiveness, grants, and responsible financing so patients can receive care without an insurance middleman.
+Read Full Vision The Economy More Jobs, Better Pay Create more jobs and better pay through a wage-matching path from unemployment to work, fairer part-time scheduling, new domestic manufacturing, and tariff revenue reinvested in local job creation.
+Read Full Vision National Security Refortify America Redirect a portion of defense spending toward America's bases, roads, bridges, rail, power grid, and strategic stockpiles while requiring clear missions and congressional accountability overseas.
+Read Full Vision Downstate Rebuilding Rural and Southern Illinois Rebuild rural and Southern Illinois by recruiting manufacturers and agricultural processors, expanding health care access, and giving downstate communities direct access to their senator.
+Read Full Vision Washington Government Reform Break Washington's cycle of permanent power through consecutive term limits, practical filibuster reform, stronger anti-fraud enforcement, and an honest discussion about age limits.
+Read Full Vision The Border Immigration and Border Security Secure the border according to each sector's needs, deport criminals, enforce the law with dignity, prevent family separation, and make legal immigration easier than illegal entry.
+Read Full Vision Social Justice Justice, Safety and Community Opportunity Create a federal Clean Slate process that quickly seals eligible nonviolent records so people who have paid their debt can return to work and fully rejoin their communities.
+Read Full Vision The World Stage A Renaissance Foreign Policy Step back without stepping away, require allies to carry more of their own defense burden, reduce open-ended commitments, and rebuild the American foundation that supports national strength.
+Read Full Vision "This is my vision to Renovate the American Dream.
+If you see yourself in this vision, join me in Moving to the Middle.
+Help me turn these policies into a better life for all." Whitfield Harrington Independent Candidate for U.S.
+Senate | Building the American Center Party Direct answers to voters Where I Stand Voters deserve clear answers.
+Read where I stand on immigration enforcement, parents and education, election integrity, protecting life, the Second Amendment, Israel and Gaza, and other questions voters ask me most often.
+Read Where I Stand Watch Hear it in his own words.
+The full conversations run up to ninety minutes, so they are chopped into 21 short chapters.
+Pick the issue you care about and the recording opens at the exact moment Whitfield addresses it.
+Watch the videos About the Candidate Every step of my journey prepared me for this one.
 My father — pastor, carpenter, and chairman of the Humphreys County NAACP.
 I was born and raised in Belzoni, Mississippi, the 20th of 21 children, in the heart of the Mississippi Delta where the fight for civil rights was not just history; it was our lives.
 In 1955, Reverend George Lee, who helped found and lead the NAACP in Humphreys County, became the first Black man in memory to register to vote there.
@@ -51,37 +84,7 @@ Read it and envision it.
 Then join me as we start a new political movement to the middle.
 Family reunion, Chicago, 1990 — my father with nearly all of his children.
 I am at the far left in the patterned swimwear.
-The Platform Renovate the American Dream My Vision for Illinois and America Most politicians will not tell you what they will do.
-They give you slogans and soundbites and hope you never ask for the details of their plans.
-My campaign is different.
-I am telling you what I will do, and I am telling you now.
-My vision is to Renovate the American Dream.
-These policies are the plan.
-If Illinois elects me as its next United States Senator, this plan is written plainly so you know exactly what you are getting with me as your senator.
-Read it and envision it.
-Then join me in Moving to the Middle, where compromise and progress are made.
-The Cost of Living Crisis The cost of living crisis in America is one of the most common issues Americans are concerned about in this election.
-Americans don't want to hear more arguments about the cost of living; they need to hear answers to the problem.
-Here is my plan and my vision to address the cost of living crisis in America.
-The Cost of Living Crisis Energy Use America's domestic energy resources to bring costs down now while continuing to build the renewable capacity the country will need for the future.
-Read Full Vision The Cost of Living Crisis Food Lower food costs by keeping tariffs off food, strengthening local farmers and markets, protecting farmers' right to repair equipment, and restoring practical food education.
-Read Full Vision The Cost of Living Crisis Housing Make smaller mortgages available so working families can buy affordable homes that are too often captured by cash investors and rented back at higher prices.
-Read Full Vision The Cost of Living Crisis Transportation Invite more automakers to compete in the American market when they build here, creating jobs while putting pressure on vehicle prices to come down.
-Read Full Vision The Cost of Living Crisis Education Make the first year of community college free, give families an affordable start, encourage universities to compete on value, and provide practical support for teachers.
-Read Full Vision A Healthcare Revolution Health Care Expand Direct Primary Care by helping doctors open independent practices through loan forgiveness, grants, and responsible financing so patients can receive care without an insurance middleman.
-Read Full Vision The Economy More Jobs, Better Pay Create more jobs and better pay through a wage-matching path from unemployment to work, fairer part-time scheduling, new domestic manufacturing, and tariff revenue reinvested in local job creation.
-Read Full Vision National Security Refortify America Redirect a portion of defense spending toward America's bases, roads, bridges, rail, power grid, and strategic stockpiles while requiring clear missions and congressional accountability overseas.
-Read Full Vision Downstate Rebuilding Rural and Southern Illinois Rebuild rural and Southern Illinois by recruiting manufacturers and agricultural processors, expanding health care access, and giving downstate communities direct access to their senator.
-Read Full Vision Washington Government Reform Break Washington's cycle of permanent power through consecutive term limits, practical filibuster reform, stronger anti-fraud enforcement, and an honest discussion about age limits.
-Read Full Vision The Border Immigration and Border Security Secure the border according to each sector's needs, deport criminals, enforce the law with dignity, prevent family separation, and make legal immigration easier than illegal entry.
-Read Full Vision Social Justice Justice, Safety and Community Opportunity Create a federal Clean Slate process that quickly seals eligible nonviolent records so people who have paid their debt can return to work and fully rejoin their communities.
-Read Full Vision The World Stage A Renaissance Foreign Policy Step back without stepping away, require allies to carry more of their own defense burden, reduce open-ended commitments, and rebuild the American foundation that supports national strength.
-Read Full Vision "This is my vision to Renovate the American Dream.
-If you see yourself in this vision, join me in Moving to the Middle.
-Help me turn these policies into a better life for all." Whitfield Harrington Independent Candidate for U.S.
-Senate | Building the American Center Party Direct answers to voters Where I Stand Voters deserve clear answers.
-Read where I stand on immigration enforcement, parents and education, election integrity, protecting life, the Second Amendment, Israel and Gaza, and other questions voters ask me most often.
-Read Where I Stand Move to the Middle We are officially on the ballot.
+Move to the Middle We are officially on the ballot.
 Now the real work begins.
 If you see yourself in this vision to Renovate the American Dream, join me in Moving to the Middle.
 Volunteer and help turn the plan into work on the ground, from Chicago to downstate.
@@ -90,4 +93,4 @@ Every dollar helps us build practical, center-focused leadership and move to the
 Donate Today WH Whitfield Harrington for U.S.
 Senate Move to the Middle.
 Make a Difference.
-Contact the Campaign Press & Media Where I Stand Terms and Conditions Privacy Policy Paid for by Friends of Whitfield Harrington
+Watch & Listen Contact the Campaign Press & Media Where I Stand Ask Me a Question Terms and Conditions Privacy Policy Paid for by Friends of Whitfield Harrington

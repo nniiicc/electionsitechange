@@ -30,7 +30,7 @@ As a fifth generation Maine logger and longtime union member who served 20 years
 He is the kind of leader we need in the halls of Congress,” said Amalgamated Transit Union International President John Costa.
 ATU’s endorsement adds to the growing coalition of more than twenty unions backing Jackson’s campaign for Senate — a reflection of the broad support he has built from working people across Maine.
 Jackson has paired that grassroots enthusiasm with strong fundraising and polling showing him in a competitive position to defeat Susan Collins this November.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

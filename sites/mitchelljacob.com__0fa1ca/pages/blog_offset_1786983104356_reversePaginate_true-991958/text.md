@@ -32,5 +32,4 @@ You can sometimes hear them rehearsing what they are going to say to a judge the
 Read More Mitch 8/21/26 Mitch 8/21/26 40 Trillion In 2025, the United States collected $5.23T in revenue, and we are on track to collect nearly that amount again in 2026.
 According to USASpending.gov , the United States is set to spend $8.3T, which means the United States will borrow $3T, three trillion dollars , in just 2026 alone .
 Read More Older Posts Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
-Box 1141 Newcastle, OK.
-73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy
+Box 1141 Newcastle, OK 73065-1141 (405) 407-6975 info@mitchelljacob.com Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

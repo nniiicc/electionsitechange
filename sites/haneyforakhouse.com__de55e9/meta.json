@@ -1,9 +1,12 @@
 {
  "description": "Barbara Haney is a Candidate for State House",
  "final_url": "https://haneyforakhouse.com/",
- "fingerprint": "145f46ec487dafe8e3bf15f310ef346bff700bec",
+ "fingerprint": "7da569e15205c93dda68b710a2cb978e76da01cd",
  "format": 3,
  "paid_for_by": "Paid for by Haney for Alaska House · PO Box 10139, Fairbanks, AK 99710 powered by SnapPages",
+ "rendered": false,
  "title": "Haney for Alaska State House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

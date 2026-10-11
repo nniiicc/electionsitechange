@@ -16,7 +16,7 @@ We have a rare, limited-time opportunity to reach our goal through a generous do
 Until Oct.
 15th, your contribution goes twice as far to fuel our mission.
 Don't let this unique chance to double your impact pass by; give today and help us make every cent count!
-Statewide Momentum Report Th - #ago 1 min read EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+Statewide Momentum Report Th - Oct 3 1 min read EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
 North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
 A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
 DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

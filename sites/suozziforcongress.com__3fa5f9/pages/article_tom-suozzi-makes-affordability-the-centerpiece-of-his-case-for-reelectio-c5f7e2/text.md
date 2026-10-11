@@ -62,7 +62,8 @@ They live off their real estate and stock holdings; those increase in value.
 He also has proposed bipartisan legislation called the SHARE Act which incentivizes companies to distribute 5% of their stock to their lowest-paid 80% of employees.
 “We want Americans to own stock and as company earnings are going up dramatically we want employees to participate in that success so that we are all in it together,” he said.
 “Like a rising tide which will lift all boats.
-But right now the tide is only lifting the superyachts.” Original Article Back to News Page Recent Articles Police, firefighter unions back Dem NY Rep.
+But right now the tide is only lifting the superyachts.” Original Article Back to News Page Recent Articles Thomas R.
+Suozzi for New York’s 3rd Congressional District October 10, 2026 Police, firefighter unions back Dem NY Rep.
 Tom Suozzi — after Trump-linked Super PAC spends $8M on attack ads October 4, 2026 Suozzi launches reelection bid as LiPetri heads to GOP midterm convention September 9, 2026 Rep.
 Suozzi kicks off re-election bid with bipartisan support from mayors September 8, 2026 Rep.
-Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Suozzi, Gillen stand with Israel, as debate rages among Democrats July 28, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top
+Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top

@@ -16,4 +16,4 @@ Pro-Veterans Remembering and respecting our veterans is something I was taught a
 The price of freedom is very high.
 We are indebted to the men and women who have served and died to protect our country.
 Subscribe for updates Email Join Our Mailing List Thanks for subscribing!
-Copyright # - All Rights Reserved www.mindyforarkansas.com PO Box 324, Centerton, AR 72719 ​ For Media/Press inquiries, please send an email to mindyforar@gmail.com ​ DONATE CONTACT US PRIVACY POLICY bottom of page
+Copyright # - All Rights Reserved www.mindyforarkansas.com 3630 Oak Tree Dr, Centerton, AR 72719 ​ For Media/Press inquiries, please send an email to mindyforar@gmail.com or mindy@mindyforarkansas.com ​ paid for by Mindy For AR ​ DONATE CONTACT US PRIVACY POLICY bottom of page

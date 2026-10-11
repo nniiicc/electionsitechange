@@ -10,4 +10,4 @@ ARE YOU IN DISTRICT 37?
 If you live in the shaded area of the map, you're part of the community Lauren is running to represent in the Indiana Statehouse. ​ This campaign is powered by neighbors showing up for neighbors.
 Whether you’re in the district or cheering us on from nearby, we’d love to have you involved in the campaign.
 SIGN UP TO VOLUNTEER HERE LET'S BUILD IT TOGETHER Join our grassroots campaign for updates, volunteer opportunities, events, and ways to make a difference in District 37.
-Email address * Yes, I agree to receive marketing emails. * SUBSCRIBE The Future is ours to shape, so let's build it together BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page
+Email address * Yes, I agree to receive marketing emails. * SUBSCRIBE The Future is ours to shape, so let's build it together ENDORSEMENTS BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page

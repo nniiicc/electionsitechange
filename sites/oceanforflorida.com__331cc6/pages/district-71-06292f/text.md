@@ -1,4 +1,4 @@
-0 Skip to Content Home District 71 Issues About Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Volunteer Donate Donate Welcome to District 71 🏙️ Bringing the Ocean to Tallahassee Ocean Fitts is running to represent Florida House District 71.
+0 Skip to Content Home District 71 Issues About Endorsements Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Endorsements Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Endorsements Volunteer Donate Donate Welcome to District 71 🏙️ Bringing the Ocean to Tallahassee Ocean Fitts is running to represent Florida House District 71.
 A state representative votes on Florida's laws and helps decide the state budget.
 That means deciding how much money goes to our schools, our roads, our police and fire departments, and our libraries.
 A lot of what makes life here affordable or not, like our property insurance and our property taxes, gets decided up in Tallahassee.

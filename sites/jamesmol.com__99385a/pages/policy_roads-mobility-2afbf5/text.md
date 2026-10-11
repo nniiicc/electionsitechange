@@ -1,6 +1,6 @@
 top of page We're in the final stretch!
 If you would like to host a yard sign, please click on "Get Involved" - thank you!
-James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers TELL JAMES Young Voter Survey Policy / Road Safety & Mobility PLATFORM | PILLAR THREE Road Safety & Mobility Six state routes run through this district.
+James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil TELL JAMES Young Voter Survey Policy / Road Safety & Mobility PLATFORM | PILLAR THREE Road Safety & Mobility Six state routes run through this district.
 Two of three towns have no bus service at all.
 What I Will Do Download the one-pager (PDF) In one Minute District 61 is shaped by state roads.
 Route 187 runs through West Suffield and East Granby center.

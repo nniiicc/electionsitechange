@@ -23,7 +23,7 @@ And on November 3rd, the State of Florida will have its very first set of First 
 Florida’s next First Family, the Dimanches Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Discover more from No MOE Corruption Subscribe to get the latest posts sent to your email.
 Type your email… Subscribe One response to “Byron Donalds Gets Sued for Assault, but Fishback’s Racist Response is Worse.
 Why Voting NPA is the BEST Option for Governor of Florida” Jesse Vega July 9, 2026 at 2:26 pm yeah right, for the people. you don’t do enough for the people, criminals do crime kill a person and gets 12 years for killing, give them 100 years if they kill someone, no good time, no half way house, no parole, nothing just the time, get serious about the crime and your citizens and their rights of the 2nd amendment, make it harder for the criminals and ezy for the citizens 🙄 😉 😀. thank 😊 you.
-Loading… Reply Leave a Reply to Jesse Vega Cancel reply Posts Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
+Loading… Reply Leave a Reply to Jesse Vega Cancel reply Comment Name Email Website Δ Posts Next Page City_of_West_Orlando_Charter Download No MOE Corruption X YouTube Instagram Facebook TikTok Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Discover more from No MOE Corruption Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Subscribe Loading Comments...
 Write a Comment...

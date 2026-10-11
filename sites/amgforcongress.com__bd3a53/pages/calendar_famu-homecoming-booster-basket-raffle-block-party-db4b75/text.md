@@ -1,0 +1,4 @@
+0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Back to All Events FAMU Homecoming Booster Basket Raffle Block Party Wednesday, October 21, 2026 5:00 PM 8:00 PM Patricia's Boutique 1533 South Monroe Street Tallahassee, Florida, 32301 United States (map) Google Calendar ICS NOTE: This event starts 4PM Central/5PM Eastern.
+Amanda and Team AMG will be at this Block Party for FAMU’s Homecoming week celebrations.
+Previous Previous October 19 EARLY VOTING STARTS Next Next October 22 EARLY VOTING STARTS TO SEND A CHECK: P.O.
+Box 12043 Tallahassee, FL 32308 CONTACT US: INFO@AMGFORCONGRESS.COM DONATE PAID FOR BY AMANDA MARIE GREEN FOR CONGRESS

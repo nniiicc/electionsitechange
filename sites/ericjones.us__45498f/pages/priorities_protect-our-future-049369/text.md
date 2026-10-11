@@ -93,4 +93,18 @@ Back a public option in distribution — and be honest that this one starts in S
 That’s a decision California makes.
 It’s not one for Congress.
 Paid for by: making the biggest corporations pay what they owe rather than adding to the debt.
-Read Full Policy
+Read Full Policy Stop Flock & End the Surveillance State A camera in your town should not be a search engine in fifty states.
+Stop Flock, and stop its spread into our communities.
+No private company builds, keeps, or sells a cross-state record of where civilians drive Call for an immediate moratorium.
+Until Congress establishes a federal regulatory framework, no government agency should be using Flock's surveillance network Ban behavioral tracking of civilians.
+Flock calls it "pattern of life." It is a military intelligence tool, and it is pointed at you A warrant, every time — with a real emergency exception.
+A kidnapped child cannot wait on paperwork.
+Everything else can wait for a judge Make stalking through these systems a federal crime.
+At least fifty officers have been accused of using them to stalk women.
+In one case, the finding was that no law had been broken Give first responders the tools they need, license plate readers included, with limits written into the law Paid for by: nothing.
+This is a rules change, and it costs nothing to pass.
+The only thing it costs is our privacy if we wait.
+Read Full Policy THE BOTTOM LINE Protecting the future means making hard choices now — balancing the budget, securing our water, defending our farms, and refusing to gamble our kids' wellbeing for corporate profit.
+That's the inheritance worth fighting for.
+Join the Fight Contribute Return to the Top Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

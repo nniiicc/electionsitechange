@@ -71,7 +71,7 @@ And he noted that she has voted with President Trump more than 95% of the time.
 That, in his view, she's failed to stand up to him on the Iran war, on tariffs, on a fatal ice shooting in Maine earlier this year.
 Sahil Kapur: [Collins] did dodge two questions about whether she would stand with the president if he visited Maine.
 Jackson, in the midst of all that, sought to puncture that historical strength for her, saying in his closing statement that power means nothing if you won't use it when the people may need it.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

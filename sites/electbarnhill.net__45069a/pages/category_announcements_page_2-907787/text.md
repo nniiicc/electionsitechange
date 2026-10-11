@@ -10,6 +10,6 @@ You’re Unrepresented.
 Let’s Talk About Making It Actually Work For People.
 (September 12, 2026) What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature (September 12, 2026) The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning (August 17, 2026) Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands (August 16, 2026) footer logo image About #YourIndependentVoice for Nevada Secretary of State.
 Results, Not Noise.
-Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (17) Contact Us If you have a question or concern, we want to hear it!
+Subscribe Me! Δ Explore About Event News Policies Contact R SS About (1) Announcements (14) Commentary (16) Policy Positions (18) Contact Us If you have a question or concern, we want to hear it!
 Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
 Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

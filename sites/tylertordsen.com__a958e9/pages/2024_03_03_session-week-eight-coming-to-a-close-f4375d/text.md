@@ -29,5 +29,5 @@ I’ll provide a final recap on my legislative efforts next week that shows what
 I’m looking forward to being back in Pierre tomorrow to wrap up the main run of the session then returning home to spend more time with family, co-workers, and keeping busy outside of Pierre.
 Have a great week!
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen March 3, 2024 March 3, 2024 Posted in BLOG , Session Weekly Updates Post navigation Previous Post Previous post: I Have Some Exciting News to Share!
-Next Post Next post: Tordsen Announces Candidacy for SD District 14 House Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Next Post Next post: Tordsen Announces Candidacy for SD District 14 House Leave a Reply Cancel reply Comment Name Email Website Δ PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading %d

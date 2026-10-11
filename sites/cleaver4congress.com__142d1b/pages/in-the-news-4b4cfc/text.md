@@ -55,5 +55,14 @@ Read More Cleaver Helps Advance Major Bipartisan Housing Reform The House Financ
 The bill, co-sponsored by Emanuel Cleaver as a key member of the committee, includes reforms to federal housing programs and expanded support for local development.
 Read More Cleaver: GOP Redistricting Threatens Fair Representation In a States Newsroom opinion piece, Congressman Cleaver condemned Missouri Republicans’ mid-decade redistricting plan as an unconstitutional attempt to dilute the voices of Kansas City voters and weaken his seat.
 With multiple lawsuits already filed against the plan, Cleaver warns that the effort undermines democratic principles and could shift political power away from urban communities.
-Read More Cleaver for Congress P.O.
+Read More Alliance for Retired Americans Endorses Congressman Emanuel Cleaver for Reelection The Alliance for Retired Americans, representing more than 4.4 million retirees and older Americans nationwide, including over 82,000 members in Missouri, has endorsed Congressman Emanuel Cleaver for reelection.
+The organization recognized Cleaver's commitment to protecting Social Security and Medicare, lowering prescription drug costs, strengthening pension security and ensuring quality long-term care for older Americans.
+Read the Official Endorsement Letter (PDF) Cleaver Plans Legislation to Prevent Future Congressional Redistricting Battles Following a series of court rulings over Missouri’s congressional map, Congressman Emanuel Cleaver told The Washington Sun that he plans to introduce legislation banning mid-decade redistricting.
+With the U.S.
+Supreme Court clearing the way for Missouri to use its 2022 congressional boundaries in November, Cleaver warned that repeated partisan map changes create confusion for voters and undermine public confidence in elections.
+He called for a nationwide solution to prevent similar disputes in future election cycles.
+The Washington Sun article Cleaver Discusses Months of Uncertainty Following Missouri’s Congressional Map Dispute After months of legal challenges and uncertainty surrounding Missouri’s congressional boundaries, Congressman Emanuel Cleaver reflects on the redistricting battle and its impact on his campaign.
+With the U.S.
+Supreme Court clearing the way for Missouri to use its previous congressional map in November, Cleaver discusses the challenges of navigating the changing district lines and the importance of providing voters with clarity ahead of Election Day.
+Bloomberg Government article Cleaver for Congress P.O.
 Box 411872 Kansas City, Missouri 64141 816-561-2575 info@cleaver4congress.com Privacy Policy Accessibility #cleaver-countdown-popup.show{ bottom:140px; } × Chip in to Support Cleaver If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Amount… CONTINUE TO WEBSITE ➜ × GENERAL ELECTION # Days # Hours # Minutes # Seconds Tuesday November 3, 2026 Volunteer Donate

@@ -13,6 +13,5 @@ My Priorities Donate Paul Goundrey Donate Support New Hampshire politics by dona
 Donate Contact Us Drop us a line!
 Name Email* Sign up for our email list for updates, news, and more.
 Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Democratic Primary - Know your candidate!
-Copyright © # Paul For NH - All Rights Reserved.
+2026 Elections - Vote on November 3rd Copyright © # Paul For NH - All Rights Reserved.
 Powered by Home My Priorities About Paul Contact News Our District

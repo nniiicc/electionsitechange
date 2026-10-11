@@ -8,7 +8,7 @@ An opportunity for our community to expand connections to make positive changes 
 Join us on Dec 7th from 7:00-10:00pm at Luna Coffee in Downtown Great Falls.
 Sponsored by Independence Rock Coalition and the Great Falls LGBTQ+ Center, the gathering combines HIV awareness with health screenings, silent auction and prizes.
 If you are interested in being a sponsor, reach out to Lela at indyrockcoalition@gmail.com for more information.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Posted in Uncategorized Leave a comment Cancel reply Δ Black Balloon Day → Paid for by Lela Graham for HD 21, Democrat, 1500 5th St NW #9 Great Falls, MT 59404 C.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Posted in Uncategorized Leave a Reply Cancel reply Comment Name Email Website Δ Black Balloon Day → Paid for by Lela Graham for HD 21, Democrat, 1500 5th St NW #9 Great Falls, MT 59404 C.
 Joan Graham, Treasurer Use of the military rank, job titles and photographs in uniform does not imply endorsement for the Department of the Army or Department of Defense.
 Loading Comments...
 Write a Comment...

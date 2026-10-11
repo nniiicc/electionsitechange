@@ -8,4 +8,4 @@ Her event planning career spans twenty-five years and across the globe.
 She graduated from Purdue University with her undergrad degree in 2003, and she earned her Masters in Public Affairs from Indiana University in 2012, where she served as the Graduate Student Association President.
 Leslie and Ed have two little girls in Vermillion School District—Clare, age 8, and Ceci, age 7.
 Leslie is the President of the United Way of Vermillion, the Chair of the Clay County Democratic Party, and has served on the executive team of the Vermillion Area Chamber & Development Company.
-Terms & Conditions ‍ ‍| Privacy Policy Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069
+Terms & Conditions ‍ ‍| Privacy Policy Paid for by Leslie Gerrish for House Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069

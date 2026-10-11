@@ -1,4 +1,4 @@
-top of page Home Meet Abbie Priorities Endorsements Merch Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
+top of page Home Meet Abbie Priorities Endorsements Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
 DONATE Voting In Michigan's Senate District 29 Senate District 29 encompasses the south side of Grand Rapids; the cities of Kentwood, Wyoming, Grandville and East Grand Rapids; and the southwest corner of Grand Rapids Charter Township Click to view the district map Make your plan to vote Get registered.
 All residents can register to vote online , by mail, at any Secretary of State's Office or at their city or township clerk's office.
 You can check your voter registration status and look up information about your local clerk's office at Michigan.gov/Vote .

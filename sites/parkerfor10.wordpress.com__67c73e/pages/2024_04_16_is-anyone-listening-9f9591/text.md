@@ -45,7 +45,7 @@ It is way past time to change the guard.
 It is time Idahoans had a real voice in their government.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Rights and Responsibilities → Protecting whom?
 From whom?
-Leave a comment Cancel reply Δ Create a free website or blog at WordPress.com.
+Leave a Reply Cancel reply Comment Name Email Website Δ Create a free website or blog at WordPress.com.
 Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
 Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started

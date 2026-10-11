@@ -31,5 +31,4 @@ I’m State Representative Bobbie Harder, serving District 17B.
 As a farmer, I understand rising costs and making every dollar count.
 I’m fighting for tax relief, responsible spending, and accountability. ​ As Co-Chair of the Agriculture Committee, I’m working to strengthen Minnesota agriculture and support farmers.
 It has been an honor to serve you.
-I’m Bobbie Harder, and I approve this message.
-00:00 / 00:30 00:00 / 00:30 00:00 / 00:30 00:00 / 00:30 harderforhouse@gmail.com Prepared and paid for by Harder For House Committee, PO Box 303, Henderson, MN , USA 56044 bottom of page
+I’m Bobbie Harder, and I approve this message. harderforhouse@gmail.com Prepared and paid for by Harder For House Committee, PO Box 303, Henderson, MN , USA 56044 bottom of page

@@ -1,9 +1,12 @@
 {
  "description": "markformaine's campaign",
  "final_url": "https://www.markformaine.com/endorsements",
- "fingerprint": "93f942b041f844d93a3e958261b4fb66aaa859ca",
+ "fingerprint": "326ed1383ed1e1f21ab0929b28bee6dcc009e993",
  "format": 3,
  "paid_for_by": "authorized by Mark Vigliotta for Senate You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Endorsements — markformaine",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989"
+ ]
 }

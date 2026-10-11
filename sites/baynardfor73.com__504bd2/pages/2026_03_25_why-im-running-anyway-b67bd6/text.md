@@ -28,6 +28,6 @@ It is about showing that it is still possible to stand on principle.
 It is about reminding people that they do not have to settle.
 And it is about proving, even in a small way, that courage and conviction still matter in public life.
 Win or lose, that is something worth doing.
-And if enough people believe that too, then maybe the odds are not as fixed as we think. — Landen Baynard Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Leave a Reply Cancel reply Facebook X Instagram RSS Designed by Elegant Themes | Powered by WordPress.com .
+And if enough people believe that too, then maybe the odds are not as fixed as we think. — Landen Baynard Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Submit a Comment Cancel reply Comment Name Email Website Δ Facebook X Instagram RSS Designed by Elegant Themes | Powered by WordPress.com .
 Discover more from Baynard for 73 Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading %d

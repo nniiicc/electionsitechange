@@ -22,7 +22,7 @@ Continuing in Skowhegan, Troy joined the Somerset County Democrats for their mid
 Next, Troy stopped in Orono to meet with students, teachers, and community members for a meet and greet hosted by the Maine Education Association where they talked about his vision for strengthening public education and fighting for teachers’ in the U.S.
 Senate.
 To close out the day, Troy joined members of the University of Maine Graduate Workers Union at a contra dance in Orono, celebrating the hardworking students and the power of organizing.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

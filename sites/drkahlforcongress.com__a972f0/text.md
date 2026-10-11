@@ -24,7 +24,7 @@ Everything else we fight for starts here.
 05 Housing I support expanding housing supply at every price point, streamlining permitting so projects don't die in bureaucratic delay, and leveraging federal incentives to reduce financing barriers for first-time buyers and working families—whether they're trying to own or just keep a roof over their heads.
 06 Maritime Transport A $3.1 billion industry powering CD-1 — protecting the working waterfronts, ports, and shipping jobs that move Oregon's economy.
 07 Public Safety Supporting local law enforcement with funding and accountability — safe streets, real trust.
-PLATFORM Upcoming Events Join Us on the Campaign Trail View All Events Oct 11 Community Meetup Astoria-Warrenton Great Columbia Crossing 10K Walk/Run Astoria Megler Bridge, Astoria, Oregon RSVP Oct 13 Community Meetup Coffee with Kahl TBD 9:00 AM — 10:30 AM RSVP Oct 13 Community Meetup Hillsboro Business Network The Reserve Vineyard and Golf Course Club 4805 SE Century Blvd, Hillsboro, OR 97123 7:00 AM — 8:00 AM RSVP ACT Join the Movement Oregon Can't Afford To Wait Every dollar fuels grassroots organizing across CD-1.
+PLATFORM Upcoming Events Join Us on the Campaign Trail View All Events Oct 13 Community Meetup Coffee with Kahl TBD 9:00 AM — 10:30 AM RSVP Oct 13 Community Meetup Hillsboro Business Network The Reserve Vineyard and Golf Course Club 4805 SE Century Blvd, Hillsboro, OR 97123 7:00 AM — 8:00 AM RSVP Oct 15 Community Meetup Candidate Forum Scappoose High School 6:00 PM — 8:00 PM RSVP ACT Join the Movement Oregon Can't Afford To Wait Every dollar fuels grassroots organizing across CD-1.
 No corporate PAC money.
 No special interest strings.
 Just Oregonians backing a candidate who fights for them.

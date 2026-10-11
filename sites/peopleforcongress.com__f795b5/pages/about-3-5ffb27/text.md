@@ -1,6 +1,8 @@
 top of page HOME VOLUNTEER!
 CONTACT US AND NOW YOU KNOW MY PLATFORM UPCOMING EVENTS ENDORSE ROBERT IN THE MEDIA LANGUAGE/IDIOMA: DONATE DONATE BY MAIL UPCOMING EVENTS Would you like to attend an upcoming town hall to hear from and to speak to me?
-Here is what's coming up: Town Hall Hernando County Public Library - Spring Hill Branch October 10, 2026 10:00 AM-12:00 PM 9220 Spring Hill Dr, Spring Hill, FL 34608 Hernando County Community Conversations Frederick Kelly Elks Lodge #1270 October 8, 2026 4:30 PM-6:30 PM 510 E.
+Here is what's coming up: Candidate Forum Allen Temple AME Church October 17, 2026 2:00 PM-4:00 PM 2101 Lowe St.
+Tampa, FL 33605 Tiger Bay Candidate Forum Cuban Club October 16, 2026 12:00 PM-1:00 PM 2010 N Avenida Republica de Cuba Tampa, Florida 33605 Hillsborough LGBTQ+ Equity Social Cafe at 1920 October 14, 2026 6:00 PM-9:00 PM 1920 E 7th Ave Tampa, Florida 33605 NAACP Hillsborough Candidate Forum Middleton High School October 13, 2026 4:45 PM-7:00 PM 4801 N 22nd St.
+Tampa, Florida 33810 Town Hall Hernando County Public Library - Spring Hill Branch October 10, 2026 10:00 AM-12:00 PM 9220 Spring Hill Dr, Spring Hill, FL 34608 Hernando County Community Conversations Frederick Kelly Elks Lodge #1270 October 8, 2026 4:30 PM-6:30 PM 510 E.
 Dr.
 Martin Luther King Jr.
 Blvd Brooksville FL 34601 Town Hall C.

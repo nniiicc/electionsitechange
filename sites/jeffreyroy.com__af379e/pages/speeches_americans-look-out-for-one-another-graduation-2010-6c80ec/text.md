@@ -62,7 +62,7 @@ Loved the stick analogy.
 Hope to see you at the Prospect St tunnel opening.
 Sincerely, VP of Persistence Reply Jeff Roy says: September 14, 2020 at 9:20 am Bob, Thanks for your note.
 I look forward to seeing to at the opening.And thank you for your persistence.
-Jeff Reply Leave a comment Cancel reply Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Jeff Reply Leave a Reply Cancel reply Comment Name Email Website Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
 Rep.
 Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
 Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?

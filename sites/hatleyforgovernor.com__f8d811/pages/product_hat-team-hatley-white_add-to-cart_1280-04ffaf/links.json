@@ -1,10 +1,6 @@
 [
 {
 "text": "Add to cart",
-"href": "https://hatleyforgovernor.com/product/hat-team-hatley-white/?add-to-cart=1278"
-},
-{
-"text": "Add to cart",
 "href": "https://hatleyforgovernor.com/product/hat-team-hatley-white/?add-to-cart=1280"
 },
 {
@@ -40,6 +36,10 @@
 "href": "https://hatleyforgovernor.com/product/hatley-built-tee/"
 },
 {
+"text": "Select options",
+"href": "https://hatleyforgovernor.com/product/team-hatley-tee/"
+},
+{
 "text": "VOLUNTEER",
 "href": "https://hatleyforgovernor.com/founders-builders/"
 },
@@ -60,10 +60,6 @@
 "href": "https://hatleyforgovernor.com/wp-content/uploads/2026/08/Hat-Team-Hatley-white.webp"
 },
 {
-"text": "[image: Hat built not bought color navy]Built Not Bought Mesh Back Cap – Navy $10.00",
-"href": "https://hatleyforgovernor.com/product/hat-built-not-bought-navy/"
-},
-{
 "text": "[image: Hatley favicon]",
 "href": "https://hatleyforgovernor.com/"
 },
@@ -74,6 +70,10 @@
 {
 "text": "[image: Male wearing team Hatley hat in white color]",
 "href": "https://hatleyforgovernor.com/wp-content/uploads/2026/08/Team-Hatley-Hat-TN-white.webp"
+},
+{
+"text": "[image: Team Hatley t-shirt front]Team Hatley / No Party Tee $10.00",
+"href": "https://hatleyforgovernor.com/product/team-hatley-tee/"
 },
 {
 "text": "[image: Vote Hatley front t-shirt navy]Vote/Built Hatley Tee – Navy $10.00",

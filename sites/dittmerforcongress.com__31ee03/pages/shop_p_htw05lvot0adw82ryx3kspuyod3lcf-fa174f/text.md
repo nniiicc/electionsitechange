@@ -10,5 +10,5 @@ This women’s v -V-neck jersey t shirt features short sleeves and a new modern,
 Side seamed.
 Relaxed fit.
 Dittmer For Congress logo on left chest.
-Sizing is a women’s cut and runs smaller than unisex tee sizing Color: Black Heather Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Sizing is a women’s cut and runs smaller than unisex tee sizing Color: Black Heather Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

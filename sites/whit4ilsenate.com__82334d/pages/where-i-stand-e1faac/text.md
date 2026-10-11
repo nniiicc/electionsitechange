@@ -12,7 +12,7 @@ Open all answers Close all answers Questions and answers Read my answer to each 
 I believe our immigration laws must be enforced.
 I also believe Immigration and Customs Enforcement must be reined in when its conduct becomes excessive, inhumane, or unaccountable.
 We can enforce the law firmly while still requiring accountability, dignity, and basic decency.
-Read my full Immigration and Border Security plan 02 Parents and K–12 Education Where do you stand on parents’ rights and K–12 education?
+Hear him on immigration and border security — 15 min Read my full Immigration and Border Security plan 02 Parents and K–12 Education Where do you stand on parents’ rights and K–12 education?
 03 Voting and Election Integrity Where do you stand on voting and election integrity?
 04 Crime and Policing Where do you stand on crime and policing?
 05 Protecting Life Where do you stand on abortion and protecting unborn life?

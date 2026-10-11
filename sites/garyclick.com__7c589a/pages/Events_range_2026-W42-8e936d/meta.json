@@ -1,9 +1,10 @@
 {
  "description": "Gary Click Campaign Events",
  "final_url": "https://www.garyclick.com/Events?range=2026-W42",
- "fingerprint": "0ed4ebaf76015623a893fa48e661ebfdde5c9b01",
+ "fingerprint": "b71e74ac5c14ede0aaeb6bed80046b23205e6845",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Gary Click Campaign Events",
  "years_mentioned": [
   "2026"

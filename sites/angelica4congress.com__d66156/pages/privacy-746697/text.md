@@ -1,5 +1,5 @@
 Skip to content No AIPAC money, ever.
-Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Facebook Twitter Instagram Privacy Policy Information We Collect Use of Information We use the information we collect to: Communicate with you regara ions in accordance with applicable law.
+Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Facebook Twitter Instagram Privacy Policy Information We Collect Use of Information We use the information we collect to: Communicate with you regara ions in accordance with applicable law.
 Optimize campaign strategy and website performance.
 Comply with legal obligations and protect our rights.
 Disclosure and Sharing of Information We do not sell your personal information.

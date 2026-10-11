@@ -29,6 +29,10 @@
 },
 {
 "text": "(map)",
+"href": "http://maps.google.com?q=1533+south+monroe+street+tallahassee%2C+florida%2C+32301+united+states"
+},
+{
+"text": "(map)",
 "href": "http://maps.google.com?q=1601+golf+terrace+drive+tallahassee%2C+florida%2C+32301+united+states"
 },
 {
@@ -152,6 +156,10 @@
 "href": "http://maps.google.com?q=jackson+road+jacob+city%2C+florida%2C+32431+united+states"
 },
 {
+"text": "(map)",
+"href": "http://maps.google.com?q=quincy%2C+fl"
+},
+{
 "text": "0",
 "href": "https://www.amgforcongress.com/cart"
 },
@@ -196,6 +204,10 @@
 "href": "https://www.amgforcongress.com/calendar/blountstown-goat-pioneer-day"
 },
 {
+"text": "Breakfast Event with Rep. Clyburn and David Jolly",
+"href": "https://www.amgforcongress.com/calendar/breakfast-event-with-rep-clyburn-and-david-jolly"
+},
+{
 "text": "Calendar",
 "href": "https://www.amgforcongress.com/calendar"
 },
@@ -234,6 +246,10 @@
 {
 "text": "FAMU Homecoming",
 "href": "https://www.amgforcongress.com/calendar/famu-homecoming"
+},
+{
+"text": "FAMU Homecoming Booster Basket Raffle Block Party",
+"href": "https://www.amgforcongress.com/calendar/famu-homecoming-booster-basket-raffle-block-party"
 },
 {
 "text": "FSU vs UVA Tailgate Hosted by FSU Dems",
@@ -297,6 +313,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Breakfast+Event+with+Rep.+Clyburn+and+David+Jolly&dates=20261012T133000Z%2F20261012T143000Z"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campbellton%27s+5th+Annual+Fall+Festival&dates=20261031T150000Z%2F20261031T210000Z&location=5270+Parkview+Road%2C+Graceville%2C+Florida%2C+32440%2C+United+States"
 },
 {
@@ -322,6 +342,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=FAMU+Homecoming&dates=20261024T190000Z%2F20261024T220000Z&location=1500+Althea+Gibson+Way%2C+Tallahassee%2C+Florida%2C+32307%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=FAMU+Homecoming+Booster+Basket+Raffle+Block+Party&dates=20261021T210000Z%2F20261022T000000Z&location=1533+South+Monroe+Street%2C+Tallahassee%2C+Florida%2C+32301%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -409,6 +433,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=TEAM+AMG%2FVOLUNTEERS%3A+Pista+sa+Nayon+2026&dates=20261017T123000Z%2F20261017T220000Z&location=443+Easterwood+Drive%2C+Tallahassee%2C+Florida%2C+32311%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=TEAM+AMG%2FVOLUNTEERS%3A+Postcard+Writing&dates=20261004T170000Z%2F20261004T200000Z&location=445+Grace+Avenue%2C+Panama+City%2C+Florida%2C+32401%2C+United+States"
 },
 {
@@ -485,6 +513,10 @@
 },
 {
 "text": "ICS",
+"href": "https://www.amgforcongress.com/calendar/breakfast-event-with-rep-clyburn-and-david-jolly?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://www.amgforcongress.com/calendar/campbelltons-5th-annual-fall-festival?format=ical"
 },
 {
@@ -506,6 +538,10 @@
 {
 "text": "ICS",
 "href": "https://www.amgforcongress.com/calendar/early-voting-starts?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.amgforcongress.com/calendar/famu-homecoming-booster-basket-raffle-block-party?format=ical"
 },
 {
 "text": "ICS",
@@ -590,6 +626,10 @@
 {
 "text": "ICS",
 "href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-panacea-blue-crab-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-pista-sa-nayon-2026?format=ical"
 },
 {
 "text": "ICS",
@@ -684,6 +724,10 @@
 "href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-panacea-blue-crab-festival"
 },
 {
+"text": "TEAM AMG/VOLUNTEERS: Pista sa Nayon 2026",
+"href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-pista-sa-nayon-2026"
+},
+{
 "text": "TEAM AMG/VOLUNTEERS: Postcard Writing",
 "href": "https://www.amgforcongress.com/calendar/8dgcqr32pahpuperyf2xipgyqejw1s"
 },
@@ -741,6 +785,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.amgforcongress.com/calendar/breakfast-event-with-rep-clyburn-and-david-jolly"
+},
+{
+"text": "View Event →",
 "href": "https://www.amgforcongress.com/calendar/campbelltons-5th-annual-fall-festival"
 },
 {
@@ -766,6 +814,10 @@
 {
 "text": "View Event →",
 "href": "https://www.amgforcongress.com/calendar/famu-homecoming"
+},
+{
+"text": "View Event →",
+"href": "https://www.amgforcongress.com/calendar/famu-homecoming-booster-basket-raffle-block-party"
 },
 {
 "text": "View Event →",
@@ -849,6 +901,10 @@
 },
 {
 "text": "View Event →",
+"href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-pista-sa-nayon-2026"
+},
+{
+"text": "View Event →",
 "href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-postcard-writing"
 },
 {
@@ -920,6 +976,10 @@
 "href": "https://www.amgforcongress.com/calendar/blountstown-goat-pioneer-day"
 },
 {
+"text": "[image: Breakfast Event with Rep. Clyburn and David Jolly]",
+"href": "https://www.amgforcongress.com/calendar/breakfast-event-with-rep-clyburn-and-david-jolly"
+},
+{
 "text": "[image: Campbellton's 5th Annual Fall Festival]",
 "href": "https://www.amgforcongress.com/calendar/campbelltons-5th-annual-fall-festival"
 },
@@ -942,6 +1002,10 @@
 {
 "text": "[image: EARLY VOTING STARTS]",
 "href": "https://www.amgforcongress.com/calendar/early-voting-starts-rwh89-rg3np"
+},
+{
+"text": "[image: FAMU Homecoming Booster Basket Raffle Block Party]",
+"href": "https://www.amgforcongress.com/calendar/famu-homecoming-booster-basket-raffle-block-party"
 },
 {
 "text": "[image: FAMU Homecoming]",
@@ -1030,6 +1094,10 @@
 {
 "text": "[image: TEAM AMG/VOLUNTEERS: Panacea Blue Crab Festival]",
 "href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-panacea-blue-crab-festival"
+},
+{
+"text": "[image: TEAM AMG/VOLUNTEERS: Pista sa Nayon 2026]",
+"href": "https://www.amgforcongress.com/calendar/team-amgvolunteers-pista-sa-nayon-2026"
 },
 {
 "text": "[image: TEAM AMG/VOLUNTEERS: Postcard Writing]",

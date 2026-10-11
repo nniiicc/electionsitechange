@@ -1,4 +1,4 @@
-top of page About Issues Endorsements Contribute Contact Media DONATE PRIVACY POLICY ​ Last Updated: July 1, 2026 Michael Kreun for MN Senate (“we,” “us,” or “our”) is committed to protecting the privacy of visitors and users (“you” or “your”) of our political campaign website.
+top of page About Priorities Endorsements Contribute Contact Media DONATE PRIVACY POLICY ​ Last Updated: July 1, 2026 Michael Kreun for MN Senate (“we,” “us,” or “our”) is committed to protecting the privacy of visitors and users (“you” or “your”) of our political campaign website.
 This Privacy Policy outlines our practices regarding the collection, use, and disclosure of personal information through our website.
 By accessing and using our website, you consent to the terms of this Privacy Policy.
 Information We Collect: Personal Information: We may collect personal information you voluntarily provide to us, such as your name, email address, postal address, phone number, and any other information you submit through our website’s forms.

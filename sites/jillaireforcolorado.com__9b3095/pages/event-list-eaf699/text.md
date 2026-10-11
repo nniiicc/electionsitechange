@@ -1,6 +1,4 @@
-top of page Meet Jillaire Issues Civility Healthy Families Prioritizing Education Gun Violence Prevention Environment Accessible Communities Endorsements Events Media Get Involved DONATE Join Jillaire at an Event Canvassing in Longmont Oct 10, 2026, 9:30 AM Longmont Join Team McMillan to knock doors and connect with voters in Longmont Share Learn More & RSVP Canvassing in Dacono for Jillaire and Manny Oct 10, 2026, 10:00 AM Dacono Join Team McMillan and Team Rutinel to knock doors and connect with voters in Dacono.
-There will be a shift at 10am and one at 12pm.
-Share Learn More & RSVP Meet and Greet in Erie Oct 13, 2026, 6:00 PM Erie Come meet HD19 candidate Jillaire McMillan and Erie Town Council District 3 candidate Amy Becker.
+top of page Meet Jillaire Issues Civility Healthy Families Prioritizing Education Gun Violence Prevention Environment Accessible Communities Endorsements Events Media Get Involved DONATE Join Jillaire at an Event Meet and Greet in Erie Oct 13, 2026, 6:00 PM Erie Come meet HD19 candidate Jillaire McMillan and Erie Town Council District 3 candidate Amy Becker.
 Share Learn More & RSVP Meet & Greet in Erie Oct 14, 2026, 4:30 PM – 6:00 PM Erie Come meet HD19 candidate Jillaire McMillan and Erie Town Council District 1 candidate Bob Braudes.
 Share Learn More & RSVP Canvassing in Firestone Oct 15, 2026, 4:00 PM Firestone Join Team McMillan to knock doors and connect with voters in Firestone.
 Share Learn More & RSVP Canvassing in Erie Oct 17, 2026, 9:30 AM Erie Join Team McMillan to knock doors and connect with voters in Erie.

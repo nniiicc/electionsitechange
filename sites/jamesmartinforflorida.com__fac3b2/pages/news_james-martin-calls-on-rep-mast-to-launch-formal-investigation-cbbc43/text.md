@@ -13,7 +13,7 @@ Mast is supporting a dangerous regime change agenda that could embroil the Unite
 “Rep.
 Mast, Chair of the Foreign Affairs Committee, has chosen to parrot partisan talking points instead of demanding accountability for these unlawful airstrikes.” Martin is the only candidate in the FL-21 race with national security policy experience, and is committed to bringing accountability, transparency, and a public-servant’s focus back to Washington on behalf of Florida’s 21st Congressional District.
 With proven leadership and a mission focused mindset that puts country over party, Martin is running for Florida’s 21st congressional district to lower the cost of living, fix the Treasure Coast’s clean water crisis, and strengthen the economy for everyone, no matter their politics.
-### If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+### Media If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
 Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
 Commander in the United States Coast Guard Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

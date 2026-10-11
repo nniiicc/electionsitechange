@@ -1,6 +1,8 @@
 36 th District Home About Priorities News Voting Get Involved Donate The Latest News & Updates Follow Bryan's latest conversations, local updates, and community posts straight from his social channels.
 Feed refreshes every 8 hours Follow Bryan Mr.
-302 BryanShupeDE · 10/10/2026 Higher Gas Taxes.
+302 BryanShupeDE · 10/10/2026 Delaware Tech Changes Policy: No In-State Tuition or Residency-Based Financial Aid for Undocumented Immigrants We recent...
+Delaware Tech Changes Policy: No In-State Tuition or Residency-Based Financial Aid for Undocumented Immigrants We recently discussed the U.S.
+Department of Justice suing the University of Delaware over its policy offering in-state tuition to qualifying undocumented students while View on Facebook BryanShupeDE · 10/10/2026 Higher Gas Taxes.
 More DMV Fees.
 How Much More Can Delaware Drivers Afford?
 According to the Cape Gazette, the Delaware...
@@ -59,14 +61,8 @@ Read beyond the headline.
 There may be more to the story.
 Reading Matthew this morning, I began thinking about how the works of Jesus are more than historical events.
 They also reveal deeper spiritual truths about who He is and what it means to follow Him.
-When His disciples aske View on Facebook BryanShupeDE · 10/6/2026 Frustrated with Washington?
-Don’t give Delaware Democrats a free pass.
-Walk with me through the headlines of 2026—and th...
-Frustrated with Washington?
-Don’t give Delaware Democrats a free pass.
-Walk with me through the headlines of 2026—and the decisions that brought us here.
-Read about how Delaware’s majority party, the Democratic Party, has increased costs while families and small businesses strugg View on Facebook Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 23 Days 20 Hours 21 Minutes 11 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+When His disciples aske View on Facebook Together, We Will Save Delaware.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 22 Days 20 Hours 20 Minutes 24 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

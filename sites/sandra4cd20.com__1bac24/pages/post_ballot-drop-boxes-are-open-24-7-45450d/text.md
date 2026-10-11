@@ -1,5 +1,5 @@
 top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
-All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Search Ballot Drop Boxes Are Open 24/7 andrealopez09 #ago 1 min read Ballot Drop Boxes are open 24/7.
+All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet Search Ballot Drop Boxes Are Open 24/7 andrealopez09 Oct 3 1 min read Ballot Drop Boxes are open 24/7.
 Find one near you: Fresno County Kern County Kings County Recent Posts See All First Day of Canvassing in Lemoore 9/11/26 Tehachapi Residents: Rally for Sandra on Tuesday 9-8-26!
 Kern River Valley Meet & Greet - Saturday, August 29, 2026 DONATE Sandra is not backed by corporate donors — she's backed by people like you.
 Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.

@@ -64,7 +64,7 @@ Senate candidate Troy Jackson … [has] pledged to support the Protecting the Ri
 Year after year polls show public support for unions is at near record highs, crossing political, age and demographic lines .
 It’s time to end this 80-year experiment and return bargaining power to the American worker.
 In November, let’s elect candidates who will give us a shot at the American Dream.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

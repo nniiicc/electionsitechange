@@ -19,8 +19,7 @@ He has announced that he is stepping down as Washington County DA in November.
 Prosecutors Barry Braatz and Mandy Shepper are competing in a Republican primary to replace him.
 The seat Piwowarczyk is running for has no incumbent.
 The other candidate in the race is former legislator Don Pridemore , 77.
-Post navigation Previous post: Prev Washington County Sheriff Martin Schulteis Endorses Jim Piwowarczyk for Assembly May 2, 2024 Next post: Next Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly May 16, 2024 You May Also Like Posted March 18, 2024 in ticker , Endorsements , News Rep.
-Barbara Dittrich Endorses Jim Piwowarczyk for Assembly Posted October 3, 2024 in Endorsements , News , ticker WISCONSIN FRATERNAL ORDER OF POLICE ENDORSES JIM PIWOWARCZYK IN THE 98TH ASSEMBLY RACE How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev Washington County Sheriff Martin Schulteis Endorses Jim Piwowarczyk for Assembly May 2, 2024 Next post: Next Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly May 16, 2024 You May Also Like Posted May 16, 2024 in Endorsements , News , ticker Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly Posted July 31, 2024 in News DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

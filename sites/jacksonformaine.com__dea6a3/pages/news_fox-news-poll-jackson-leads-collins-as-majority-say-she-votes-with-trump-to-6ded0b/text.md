@@ -29,7 +29,7 @@ The poll shows that 55 percent are extremely or very concerned that Collins vote
 A fifth-generation logger from northern Maine and former president of the Maine Senate, Jackson has attempted to emphasize his working-class roots and experience representing rural communities.
 His background could help him appeal to voters who may not normally support a Democratic Senate candidate, particularly in northern and rural parts of the state.
 Jackson's early advantage is notable given the unusual circumstances surrounding his entry into the race, but the close margins suggest the contest remains wide open.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

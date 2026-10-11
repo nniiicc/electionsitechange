@@ -101,5 +101,4 @@ Here’s to 250 years!
 Cheers to 250 more.
 Mitch Father, husband, U.S.
 Army veteran, OU Law graduate, and 4th-generation Oklahoman—committed to a better Oklahoma and upholding the Constitution. http://www.mitchelljacob.com Previous Previous The Cost of Their Priorities Next Next The Closing Argument Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
-Box 1141 Newcastle, OK.
-73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy
+Box 1141 Newcastle, OK 73065-1141 (405) 407-6975 info@mitchelljacob.com Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

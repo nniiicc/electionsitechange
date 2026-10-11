@@ -40,10 +40,7 @@ While the two candidates shared a modernization focus, they diverged on the issu
 Brady has proposed cutting license registration fees by $50 temporarily due to rising inflation, but he had not yet filed a bill to do so.
 Giannoulias, meanwhile, called it “irresponsible budgeting” to suspend fees regardless of a person’s income without identifying funding alternatives.
 But he said he would consider a program that would cut fees for lower-income individuals, provided there is a budget workaround.
-Read on the DailyHearld Related Posts Democrat Giannoulias in the driver’s seat in race for campaign cash in hotly contested secretary of state contest Monday marked an Illinois State Board of Elections deadline to file a required quarterly report of contributions and expenditures, but a number of primary candidates had not yet filed their reports late Monday.
-Keep Reading → Giannoulias hires first-ever Diversity, Equity and Inclusion (DEI) Officer Fulfilling a campaign promise, Secretary of State Alexi Giannoulias has established the first-ever Diversity, Equity and Inclusion (DEI) Officer position in the Secretary of State’s office.
-Keep Reading → Digital IDs will become available this year for Illinois residents.
-Here’s what to know.
-The Illinois Secretary of State’s office announced Monday that it is working to bring the digital ID feature to residents, beginning with Apple users.
-Secretary Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Read on the DailyHearld Related Posts Giannoulias Receives Big Democrat Support Several elected state and township officials announce endorsements Keep Reading → Illinois IATSE Locals Endorse Giannoulias for Illinois Secretary of State Illinois International Alliance of Theatrical Stage Employees (IATSE) Locals voted this week to endorse former State Treasurer Alexi Giannoulias for Illinois Secretary of State.
+Keep Reading → Statement from Secretary Alexi Giannoulias on Governor Pritzker’s Budget Address I applaud Governor Pritzker for laying out a budget plan that is committed to serving all Illinoisans – especially children, vulnerable populations and the hard-working men and women of organized labor.
+Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

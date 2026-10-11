@@ -19,7 +19,7 @@ The Pike County office can be reached at 812-354-6838, the Spencer County office
 Home-based vendors have a large impact on our local economy, and this legislation, along with other resources available, could help them by providing more options for selling their products.
 To learn more about this bill and others, visit iga.in.gov .
 If there is anything I can assist with, contact me at h75@iga.in.gov or 317-242-9769. https://www.indianahouserepublicans.com/news/press-releases/ledbetter-supporting-hoosier-entrepreneurs/ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Post navigation Prev Supporting lawful gun owners in Indiana Next Hoosiers can now use CollegeChoice 529 Savings Plans for apprenticeship programs Leave a comment Cancel reply Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Post navigation Prev Supporting lawful gun owners in Indiana Next Hoosiers can now use CollegeChoice 529 Savings Plans for apprenticeship programs Leave a Reply Cancel reply Comment Name Email Website Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

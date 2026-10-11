@@ -1,20 +1,22 @@
 0 Skip to Content Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Open Menu Close Menu Home About Priorities Endorsements Media Calendar Get Involved DONATE Meet Amanda or Members of Team AMG!
-Oct 10 Havana Mainstreet 26th Annual PumpkinFest Saturday, October 10, 2026 10:00 AM 4:00 PM 101 7th Avenue West Havana, Florida, 32333 United States (map) Google Calendar ICS NOTE: THIS EVENT HAS BEEN RESCHEDULED DUE TO HURRICANE ISAIAS.
-This event starts at 9AM Central/10AM Eastern.
-Get ready for PumpkinFest 2026 , Havana’s largest and most beloved family festival, returning for its 26th year on Saturday, October 10 from 10:00 AM to 4:00 PM!
-This fall favorite stretches along Main Street and its side avenues in downtown Havana, Florida, filling Gadsden County with autumn color, live music, and small-town charm.
-If you are searching for the perfect fall day trip in North Florida, PumpkinFest 2026 is it.
-View Event → Oct 11 40th Pastor Anniversary Service Sunday, October 11, 2026 10:00 AM 12:30 PM Bethel Missionary Baptist Church (map) Google Calendar ICS NOTE: This event starts at 9AM Central/ 10AM Eastern.
+Oct 11 40th Pastor Anniversary Service Sunday, October 11, 2026 10:00 AM 12:30 PM Bethel Missionary Baptist Church (map) Google Calendar ICS NOTE: This event starts at 9AM Central/ 10AM Eastern.
 Amanda is honored to be a guest at the celebration of 40 years of service at the Bethel Missionary Baptist Church by the Reverend RB and Gloria Price Holmes.
 Special guest Rev.
 Al Sharpton will speak at the 10am service.
+View Event → Oct 12 Breakfast Event with Rep.
+Clyburn and David Jolly Monday, October 12, 2026 9:30 AM 10:30 AM Quincy, FL (map) Google Calendar ICS NOTE: This event starts at 8:30AM Central/9:30AM Eastern.
+Amanda will be attending breakfast with Congressman Jim Clyburn and David Jolly in Quincy, along with neighbors and community members.
+Interested in attending?
+RSVP through their event page for location details.
 View Event → Oct 12 Get Out The Vote Rally Monday, October 12, 2026 6:30 PM 8:30 PM Monticello Opera House (map) Google Calendar ICS NOTE: This event starts at 5:30PM Central/6:30PM Eastern.
 View Event → Oct 14 Florida A&M University Voter Fair Wednesday, October 14, 2026 10:00 AM 2:00 PM Florida A&M University (map) Google Calendar ICS NOTE: This event starts at 9AM Central/10AM Eastern.
 Amanda will be joining Team AMG while they table at the Florida A&M Student Government Association’s Voter Fair!
 View Event → Oct 14 Westminster Oaks Forum Wednesday, October 14, 2026 7:00 PM 9:00 PM Maguire Center for Lifelong Learning (map) Google Calendar ICS NOTE: This event starts at 6PM Central/7PM Eastern.
 Amanda will be speaking.
 Hosted by FLiCRA Committee.
-Learn More: https://flicra.com/ View Event → Oct 17 Blountstown Goat & Pioneer Day Saturday, October 17, 2026 9:00 AM 3:00 PM Sam Atkins Park (map) Google Calendar ICS NOTE: This event starts at 8AM Central/9AM Eastern.
+Learn More: https://flicra.com/ View Event → Oct 17 TEAM AMG/VOLUNTEERS: Pista sa Nayon 2026 Saturday, October 17, 2026 8:30 AM 6:00 PM Tom Brown Park (map) Google Calendar ICS NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
+Join members of Team AMG and the Big Bend Filipino American Association in experiencing Filipino & Asian food, culture, live music, games & community.
+View Event → Oct 17 Blountstown Goat & Pioneer Day Saturday, October 17, 2026 9:00 AM 3:00 PM Sam Atkins Park (map) Google Calendar ICS NOTE: This event starts at 8AM Central/9AM Eastern.
 Amanda will be there with members of Team AMG!
 Goat Day is one of the largest arts & craft festivals across the panhandle!
 Held annually on the third Saturday in October, the event is coordinated in conjunction with the Panhandle Pioneer Settlement's Pioneer Day, just across the park.
@@ -35,7 +37,9 @@ You can dress in a matching or coordinated theme contest.
 The $5 registration fee (payable by cash or check on site) for contest entries helps cover recognition items & contest costs.
 View Event → Oct 18 Bay County LEAD Coalition & NAACP Get Out The Vote Event Sunday, October 18, 2026 4:00 PM 5:30 PM Greater Bethel AME Church (map) Google Calendar ICS NOTE: This event starts at 4PM Central/5PM Eastern Amanda will participate in Here Am I: Songs for the Work Ahead , a nonpartisan Get Out the Vote community event hosted by the LEAD Coalition of Bay County and the Bay County Branch NAACP Civic Engagement Committee.
 The event will bring together candidates, community organizations, and voters to encourage civic participation and help voters learn more about the candidates ahead of the November election.
-View Event → Oct 19 EARLY VOTING STARTS Monday, October 19, 2026 8:30 AM 7:00 PM Google Calendar ICS EARLY VOTING STARTS IN: Bay | Calhoun | Gadsden | Jefferson | Leon | Walton View Event → Oct 22 EARLY VOTING STARTS Thursday, October 22, 2026 8:30 AM 9:30 AM Google Calendar ICS EARLY VOTING STARTS IN: Jackson View Event → Oct 24 EARLY VOTING STARTS Saturday, October 24, 2026 8:30 AM 9:30 AM Google Calendar ICS EARLY VOTING STARTS IN: Franklin | Gulf | Holmes | Liberty | Madison | Taylor | Wakulla | Washington View Event → Oct 24 King Tree Parade Saturday, October 24, 2026 8:30 AM 10:30 AM Dowtown Perry (map) Google Calendar ICS NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
+View Event → Oct 19 EARLY VOTING STARTS Monday, October 19, 2026 8:30 AM 7:00 PM Google Calendar ICS EARLY VOTING STARTS IN: Bay | Calhoun | Gadsden | Jefferson | Leon | Walton View Event → Oct 21 FAMU Homecoming Booster Basket Raffle Block Party Wednesday, October 21, 2026 5:00 PM 8:00 PM Patricia's Boutique (map) Google Calendar ICS NOTE: This event starts 4PM Central/5PM Eastern.
+Amanda and Team AMG will be at this Block Party for FAMU’s Homecoming week celebrations.
+View Event → Oct 22 EARLY VOTING STARTS Thursday, October 22, 2026 8:30 AM 9:30 AM Google Calendar ICS EARLY VOTING STARTS IN: Jackson View Event → Oct 24 EARLY VOTING STARTS Saturday, October 24, 2026 8:30 AM 9:30 AM Google Calendar ICS EARLY VOTING STARTS IN: Franklin | Gulf | Holmes | Liberty | Madison | Taylor | Wakulla | Washington View Event → Oct 24 King Tree Parade Saturday, October 24, 2026 8:30 AM 10:30 AM Dowtown Perry (map) Google Calendar ICS NOTE: This event starts at 7:30AM Central/8:30AM Eastern.
 Amanda will join the community in Perry for the annual King Tree Parade during the Florida Forest Festival weekend.
 This year’s parade celebrates 250 years of American roots and brings together local families, businesses, civic organizations, and community members for a beloved Taylor County tradition.
 View Event → Oct 24 FAMU Homecoming Saturday, October 24, 2026 3:00 PM 6:00 PM FAMU Bragg Memorial Football Stadium (map) Google Calendar ICS NOTE: This event starts at 2PM Central/3PM Eastern.
@@ -55,6 +59,11 @@ View Event → Oct 31 Campbellton's 5th Annual Fall Festival Saturday, October 3
 Amanda will attend with Team AMG!
 Celebrate Campbellton’s 5th Annual Fall Festival at Campbellton Browntown Park on October 31 from 11 a.m. to 5 p.m.!
 Enjoy music, food, drinks, crafts, and competitions with neighbors and friends—everyone is welcome.
+View Event → Oct 10 Havana Mainstreet 26th Annual PumpkinFest Saturday, October 10, 2026 10:00 AM 4:00 PM 101 7th Avenue West Havana, Florida, 32333 United States (map) Google Calendar ICS NOTE: THIS EVENT HAS BEEN RESCHEDULED DUE TO HURRICANE ISAIAS.
+This event starts at 9AM Central/10AM Eastern.
+Get ready for PumpkinFest 2026 , Havana’s largest and most beloved family festival, returning for its 26th year on Saturday, October 10 from 10:00 AM to 4:00 PM!
+This fall favorite stretches along Main Street and its side avenues in downtown Havana, Florida, filling Gadsden County with autumn color, live music, and small-town charm.
+If you are searching for the perfect fall day trip in North Florida, PumpkinFest 2026 is it.
 View Event → Oct 9 Franklin Needs PINK OUT Benefit Friday, October 9, 2026 6:00 PM 9:00 PM Paddy's Raw Bar (map) Google Calendar ICS NOTE: THIS EVENT HAS BEEN RESCHEDULED DUE TO HURRICANE ISAIAS.
 This event starts at 5PM Central/6PM Eastern.
 Amanda and Team AMG will attend the 14th annual PINK OUT , a benefit for Franklin Needs on October 9, 2026 at Paddy's Raw Bar at 240 East Third Street on St.

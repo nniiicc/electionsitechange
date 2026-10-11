@@ -82,7 +82,7 @@ Follow the money.
 Read the small print.
 See who paid for it.
 Get The Larson Ledger Paid for by Larson for Idaho.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Related articles September 17, 2026 Citizenship asks something of us Today is Constitution and Citizenship Day.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Related articles September 17, 2026 Citizenship asks something of us Today is Constitution and Citizenship Day.
 As a citizen, I take citizenship seriously.
 Citizenship asks something of all of us.… › Read more : Citizenship asks something of us September 13, 2026 The Larson Ledger № 3: How Property Tax Elimination Costs You More 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.
 Now they… › Read more : The Larson Ledger № 3: How Property Tax Elimination Costs You More September 7, 2026 The North Idaho Political Paradox Are we becoming the mirror image of the liberal states?

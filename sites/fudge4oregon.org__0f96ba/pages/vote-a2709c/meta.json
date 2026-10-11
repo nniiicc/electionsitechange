@@ -1,9 +1,10 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.fudge4oregon.org/vote",
- "fingerprint": "afe5a9c3b7563f7ec94aa92d9ae4e2159cb6bf1b",
+ "fingerprint": "9322f7733cff0c32d65cbde807f9e2b05b0e67f9",
  "format": 3,
  "paid_for_by": "paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner",
+ "rendered": false,
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

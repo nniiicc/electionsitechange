@@ -1,4 +1,4 @@
-0 Skip to Content Home District 71 Issues About Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Volunteer Donate Donate About Ocean Fitts 🩵 Raised on Public Service Ocean Fitts lives in Palmetto and is running to represent the people of Manatee County in Florida House District 71.
+0 Skip to Content Home District 71 Issues About Endorsements Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Endorsements Volunteer Donate Donate Open Menu Close Menu Home District 71 Issues About Endorsements Volunteer Donate Donate About Ocean Fitts 🩵 Raised on Public Service Ocean Fitts lives in Palmetto and is running to represent the people of Manatee County in Florida House District 71.
 He was born in Dunedin and raised in St.
 Petersburg.
 His family has called Florida home for generations, with deep roots stretching across the state.

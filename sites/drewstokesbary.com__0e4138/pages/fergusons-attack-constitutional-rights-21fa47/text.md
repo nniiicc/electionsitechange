@@ -10,7 +10,7 @@ The Attorney General’s suggestion that assault weapons are at the center of gu
 It’s clear that he has decided to prioritize the goals of fringe anti–gun special interest groups over what is honest, constitutional, and best for our state.
 Our right to protect our families and our loved ones predates our state’s legislature.
 So I am happy to be, and will always remain, a resolute defender of our Second Amendment .
-Current Events More For You National Federation of Independent Business endorses Drew Stokesbary Endorsements Council of Metropolitan Police and Sheriffs unanimously endorse Rep.
-Stokesbary Endorsements Rep.
-Stokesbary introduces bipartisan bill to provide property tax relief In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Current Events More For You State’s Largest Law Enforcement Group Endorses Stokesbary Endorsements Rep.
+Stokesbary’s crowdfunding bill featured in GeekWire In the News Endorsed by Children’s Campaign Fund!
+Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

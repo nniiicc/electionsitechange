@@ -1,11 +1,11 @@
-DONATE Home Meet Rick Why I’m Running Press Contact Campaign NFIB Tennessee PAC Endorses Rick Scarbrough in House District 33 Race August 29, 2024 83 FOR IMMEDIATE RELEASE CONTACT: Jim Brown, (NFIB), 615-337-507 Gary Drinnen, (Scarbrough campaign), gary@targetedstrategy.com NFIB Tennessee PAC Endorses Rick Scarbrough in House District 33 Race NASHVILLE (MONTH/DAY, 2024) – The NFIB Tennessee PAC, the political action committee of the state’s leading small business advocacy organization, has endorsed Rick Scarbrough in the House District 33 race.
+DONATE Home Meet Rick Why I’m Running Press Contact Campaign NFIB Tennessee PAC Endorses Rick Scarbrough in House District 33 Race August 29, 2024 84 FOR IMMEDIATE RELEASE CONTACT: Jim Brown, (NFIB), 615-337-507 Gary Drinnen, (Scarbrough campaign), gary@targetedstrategy.com NFIB Tennessee PAC Endorses Rick Scarbrough in House District 33 Race NASHVILLE (MONTH/DAY, 2024) – The NFIB Tennessee PAC, the political action committee of the state’s leading small business advocacy organization, has endorsed Rick Scarbrough in the House District 33 race.
 The NFIB Tennessee PAC is comprised exclusively of NFIB members.
 “Our members back candidates who demonstrate they will support small business consistently, and Rick Scarbrough has shown us that he understands the ongoing challenges small businesses are facing,” said Jim Brown, the National Federation of Independent Business’ state director for Tennessee.
 “Rick is committed to creating and maintaining a positive environment for small businesses in the district and across Tennessee.” “Watching Mollie and her sister operate the pharmacy, I understand the important role small businesses play in our community and some of the challenges they face,” said Republican nominee Rick Scarbrough.
 “I am proud to have the support of small businesses across the state and look forward to providing a strong voice for them in Nashville.” The NFIB Tennessee PAC endorsement is critical to candidates’ campaigns.
 Small business owners and their employees vote in high numbers and are known for actively recruiting friends, family members, and acquaintances to go to the polls.
 NFIB Tennessee PAC’s political support is based on the candidates’ positions and records on small business issues.
-To learn more about NFIB in Tennessee, visit www.NFIB.com/TN and follow @NFIB_TN on Twitter 83 comments Meadow Cook May 9, 2025 at 9:29 pm This is my first time pay a quick visit at here and i am really happy to read everthing at one place fishing punta cana May 10, 2025 at 7:49 am Hi there to all, for the reason that I am genuinely keen of reading this website’s post to be updated on a regular basis.
+To learn more about NFIB in Tennessee, visit www.NFIB.com/TN and follow @NFIB_TN on Twitter 84 comments Meadow Cook May 9, 2025 at 9:29 pm This is my first time pay a quick visit at here and i am really happy to read everthing at one place fishing punta cana May 10, 2025 at 7:49 am Hi there to all, for the reason that I am genuinely keen of reading this website’s post to be updated on a regular basis.
 It carries pleasant stuff.
 Camilla Bautista May 16, 2025 at 10:48 am You’re so awesome!
 I don’t believe I have read a single thing like that before.
@@ -91,7 +91,9 @@ Phone happen activity save. pornip July 31, 2026 at 9:10 pm Good a blog toper Ka
 Trip raise while soldier cover quickly professional coach history ahead experience brother writer.
 Thong August 25, 2026 at 2:08 pm Hi~(*￣▽￣*) Clear Aligners in Mumbai September 21, 2026 at 5:16 am Clear aligners offer a discreet approach to teeth alignment.
 Mint Dental Clinic provides clear aligner consultations and treatment planning in Dadar. buy Pokemon Go PokeCoins October 9, 2026 at 3:32 am Couldn’t agree more with everything you’ve said here.
-You nailed it” Leave a Reply Your email address will not be published.
+You nailed it” Jakobe Villarreal October 11, 2026 at 10:02 am This was beautiful Admin.
+Thank you for your reflections.
+Leave a Reply Your email address will not be published.
 Comment * Name Email Website Type in the text displayed above Post Comment previous Rick Scarbrough For State Representative Announces Veterans Coalition Latest News NFIB Tennessee PAC Endorses Rick Scarbrough in House District 33 Race Rick Scarbrough For State Representative Announces Veterans Coalition Rick Scarbrough for State Representative Campaign Announces Public Safety Coalition Categories Campaign Question?
 Rick will always work to ensure the people of Anderson County are heard!
 Send Rick A Message Paid for by the Rick Scarbrough for State Representative, Jody Wright, Treasurer.

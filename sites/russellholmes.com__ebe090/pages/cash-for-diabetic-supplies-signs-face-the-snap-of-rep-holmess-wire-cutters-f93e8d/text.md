@@ -6,16 +6,14 @@ Holmes Russell E.
 Holmes | 0 Comment | 11:36 am Categories: News State Rep.
 Russell Holmes (left) and former Boston Police Capt.
 Haseeb Hosein were out last Friday evening taking down ‘Cash for Diabetic Supplies’ signs on American Legion Highway.
-Seth Daniel photo Share this Post navigation PREVIOUS Previous post: The Interview: State Representative Russell Holmes NEXT Next post: Diversity Dashboard Related Post Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-Citizens Bank filling a void at Blue Hill Ave. and Morton St.
-January 25, 2024 January 25, 2024 | Russell E.
+Seth Daniel photo Share this Post navigation PREVIOUS Previous post: The Interview: State Representative Russell Holmes NEXT Next post: Diversity Dashboard Related Post Cote Village: A Victory for Hope over Blight Cote Village: A Victory for Hope over Blight July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 5:52 pm <p>A Citizens Bank branch that opened last fall on a site at Blue Hill Avenue and Morton Street that once featured a Kentucky Fried Chicken franchise and then sat vacant Read More Read More ‘I want this thing to land’ ‘I want this thing to land’ July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 11:28 am It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from Read More Read More In closed-door budget process, Mass.
+House leaders scored big In closed-door budget process, Mass.
+House leaders scored big May 9, 2024 May 9, 2024 | Russell E.
 Holmes Russell E.
-Holmes | 0 Comment | 11:23 am Rep.
-Russell Holmes is ready to start screaming again over police reform bill.
-Holmes knows the “enormous amount of fire and pressure” now on lawmakers.
-The state must do something, Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
+Holmes | 0 Comment | 5:44 am <p>By Samantha J.
+Gross and Matt Stout.</p> <p>After months of preaching fiscal restraint, five of the Massachusetts House’s highest-ranking Democrats slipped at least $5 million in earmarks into the chamber’s spending Read More Read More Holmes says House should run differently Holmes says House should run differently July 25, 2022 July 25, 2022 | Russell E.
 Holmes Russell E.
 Holmes | 0 Comment | 11:25 am Trash and grit swirl in the air as the Mattapan Democrat, wearing a gas-powered leaf blower, pushes litter into the path of street sweepers due to arrive later in the Read More Read More “I Work for You.” You're my neighbors.
 You're my friends.

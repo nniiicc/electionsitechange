@@ -1,4 +1,4 @@
-HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE Donate Follow us Donate Follow us Menu PLAN YOUR VOTE Make Your Plan Voting laws have Changed.
+HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE MERCH STORE Donate Follow us Donate Follow us Menu PLAN YOUR VOTE Make Your Plan Voting laws have Changed.
 South Dakota changed its voter registration laws in 2026.
 There are more hoops to jump through - but you can still vote.
 This page will walk you through it.
@@ -18,4 +18,4 @@ Stay hydrated and bring a snack.
 Check Voter Status Register to Vote Register by Oct.
 19 Vote Early Early voting starts Sept.
 18 You belong here.
-HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE Donate Follow us Accessibility Statement GET INVOLVED MEET JUNE THE ISSUES Paid for by june for south dakota PO Box 815 Sioux Falls, SD 57101 June for South Dakota © #
+HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE MERCH STORE Donate Follow us Accessibility Statement GET INVOLVED MEET JUNE THE ISSUES MERCH Paid for by june for south dakota PO Box 815 Sioux Falls, SD 57101 June for South Dakota © #

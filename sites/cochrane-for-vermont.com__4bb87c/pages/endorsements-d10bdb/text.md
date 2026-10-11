@@ -23,6 +23,6 @@ What I want this time around is a willingness to try new approaches with the rec
 I will vote for Amanda Cochrane as the Democratic candidate for the Vermont House of Representatives.
 She identifies the issues affecting the Northeast Kingdom; more importantly she sees how they are interconnected – that healthcare costs impact our school system which is funded by property taxes which increase the cost of housing which contributes to homelessness which comes back to healthcare – on and on and on.
 The challenge here is considerable – I vote for change. ​ Mary Shepley St Johnsbury, Vt.
-Read full endorsement letter here More Letters to the Editor in Support of Amanda: Amanda Cochrane for VT House - Susan Parker Support Amanda Cochrane - Lauren Jarvi Cochrane Signs are Popping Up All Over - Cathy Miles Grant Join Me! - Tracy Zschau Local Elections Matter: I'm Supporting Amanda Cochrane for Vermont House - Linda Reyes ​ ​ ​ ​ © # Paid for by Cochrane for Vermont P.O.
+Read full endorsement letter here More Letters to the Editor in Support of Amanda: Amanda Cochrane for VT House - Susan Parker Support Amanda Cochrane - Lauren Jarvi Cochrane Signs are Popping Up All Over - Cathy Miles Grant Join Me! - Tracy Zschau Local Elections Matter: I'm Supporting Amanda Cochrane for Vermont House - Linda Reyes Vote for Amanda Cochrane - Brian Romeo Cochrane for Vermont - Marion Mohri ​ ​ ​ ​ © # Paid for by Cochrane for Vermont P.O.
 Box 271 St.
 Johnsbury, VT 05819 bottom of page

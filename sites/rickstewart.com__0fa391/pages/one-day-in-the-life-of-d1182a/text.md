@@ -22,9 +22,9 @@ The Rachmaninoff Piano Concerto #3 is one of the most technically challenging pi
 Leave a Reply Cancel reply Your email address will not be published.
 Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
 Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
-Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts But who will build the roads?
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts On the road with Rick CR I-80 DM Shuttle Week But who will build the roads?
 Road construction is in neither the US Constitution nor the Iowa Constitution.
 What were our Founders thinking?
-On the road with Rick CR I-80 DM Shuttle Week Prev Previous But who will build the roads?
+Prev Previous But who will build the roads?
 Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
 The First Choice for Iowa Governor All Rights Reserved

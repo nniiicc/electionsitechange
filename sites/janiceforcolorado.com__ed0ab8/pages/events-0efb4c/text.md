@@ -1,17 +1,5 @@
 0 Skip to Content Home About Priorities Get Involved Events Contact Media Contribute Open Menu Close Menu Open Menu Close Menu Home About Priorities Get Involved Events Contact Media Contribute Home About Priorities Get Involved Events Contact Media Contribute Come Meet Janice on the road!
-Oct 10 Canvassing with Team Marchman!
-Saturday, October 10, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November will be here before you know it.
-And we need your help.
-Join us for a canvass launch and rally with Senadora Julie Gonzales as we kick off GOTV canvassing and having the conversations that will help us win in November.
-We will be talking to voters about the issues they care about and encouraging them to vote in November.
-We will meet most Saturday mornings at 10am.
-Event Reminders: 1.
-Please bring a water bottle.
-2.
-To save time, please download the MiniVan app prior to the event.
-3.
-Canvassing is more fun if you bring a friend!
-View Event → Oct 17 Canvassing with Team Marchman!
+Oct 17 Canvassing with Team Marchman!
 Saturday, October 17, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November will be here before you know it.
 And we need your help.
 Join Janice Marchman and Team Marchman for canvassing across Senate District 15!
@@ -133,6 +121,18 @@ Please bring a water bottle.
 To save time, please download the MiniVan app prior to the event.
 3.
 Canvassing is more fun if you bring a friend!
+View Event → Oct 10 Canvassing with Team Marchman!
+Saturday, October 10, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November will be here before you know it.
+And we need your help.
+Join us for a canvass launch and rally with Senadora Julie Gonzales as we kick off GOTV canvassing and having the conversations that will help us win in November.
+We will be talking to voters about the issues they care about and encouraging them to vote in November.
+We will meet most Saturday mornings at 10am.
+Event Reminders: 1.
+Please bring a water bottle.
+2.
+To save time, please download the MiniVan app prior to the event.
+3.
+Canvassing is more fun if you bring a friend!
 View Event → Oct 3 Canvassing with Team Marchman!
 Saturday, October 3, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November will be here before you know it.
 And we need your help.
@@ -164,18 +164,6 @@ Canvassing is more fun if you bring a friend!
 View Event → Sep 20 Boulder County Fundraiser in Support of Janice Marchman Sunday, September 20, 2026 2:00 PM 3:30 PM Loveland, CO 80538 (map) Google Calendar ICS Boulder County Democrats Chair Ben Cowan kindly invites you to a fundraiser in support of State Senator Janice Marchman.
 Janice is committed to being an independent voice at the Capitol, fighting to lower costs, strengthen public education, protect workers, and defend Coloradans’ right to privacy.
 Join us to support Janice’s reelection campaign and help her continue delivering for Boulder and Larimer counties.
-View Event → Sep 19 Wellington canvass launch Saturday, September 19, 2026 10:00 AM 1:00 PM 7745 Kelbran Lane Wellington, Colorado, 80549 United States (map) Google Calendar ICS Friends, November will be here before you know it.
-And we need your help.
-Join Janice Marchman for a Saturday of door knocking!
-We know this election won't be won by the number of dollars spent, but instead by the number of conversations we have.
-And we need your help to do it!
-We will be talking to voters about the issues they care about and encouraging them to vote in November.
-Event Reminders: 1.
-Please bring a water bottle.
-2.
-To save time, please download the MiniVan app prior to the event.
-3.
-Canvassing is more fun if you bring a friend!
 View Event → Sep 19 Canvassing with Team Marchman!
 Saturday, September 19, 2026 10:00 AM 1:00 PM Benson Sculpture Gardens (map) Google Calendar ICS Friends, November will be here before you know it.
 And we need your help.
@@ -184,6 +172,18 @@ We know this election won't be won by the number of dollars spent, but instead b
 And we need your help to do it!
 We will be talking to voters about the issues they care about and encouraging them to vote in November.
 We will meet most Saturday mornings at 10am.
+Event Reminders: 1.
+Please bring a water bottle.
+2.
+To save time, please download the MiniVan app prior to the event.
+3.
+Canvassing is more fun if you bring a friend!
+View Event → Sep 19 Wellington canvass launch Saturday, September 19, 2026 10:00 AM 1:00 PM 7745 Kelbran Lane Wellington, Colorado, 80549 United States (map) Google Calendar ICS Friends, November will be here before you know it.
+And we need your help.
+Join Janice Marchman for a Saturday of door knocking!
+We know this election won't be won by the number of dollars spent, but instead by the number of conversations we have.
+And we need your help to do it!
+We will be talking to voters about the issues they care about and encouraging them to vote in November.
 Event Reminders: 1.
 Please bring a water bottle.
 2.
@@ -332,8 +332,5 @@ We know the strongest ideas come from listening to the community, and we are exc
 RSVP: https://secure.actblue.com/donate/listening_tour_loveland View Event → Jan 6 Red Feather - Listening Your 2026 Tuesday, January 6, 2026 12:00 PM 1:00 PM Google Calendar ICS The week of January 4th, 2026, we invite you to start the year with a community conversation.
 We want to hear what issues matter most to you and why.
 We know the strongest ideas come from listening to the community, and we are excited for this chance to connect with our neighbors before we return to the Capitol for the legislative session.
-RSVP: https://secure.actblue.com/donate/listening_tour_rfl View Event → Jan 5 Nederland - Listening Tour 2026 Monday, January 5, 2026 5:00 PM 6:00 PM Google Calendar ICS The week of January 4th, 2026, we invite you to start the year with a community conversation.
-We want to hear what issues matter most to you and why.
-We know the strongest ideas come from listening to the community, and we are excited for this chance to connect with our neighbors before we return to the Capitol for the legislative session.
-RSVP: https://secure.actblue.com/donate/listening_tour_ned View Event → Ask a question © # by Janice Marchman.
+RSVP: https://secure.actblue.com/donate/listening_tour_rfl View Event → Ask a question © # by Janice Marchman.
 Paid for by Janice Marchman for Colorado Senate | Mike Stolz Registered Agent

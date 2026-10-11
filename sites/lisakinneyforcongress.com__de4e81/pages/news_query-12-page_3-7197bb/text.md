@@ -2,7 +2,9 @@ Skip to content Lisa Kinney Running For You!
 Menu Meet Lisa News Events Get in Touch FAQ R.E.A.L.
 Donate Close Lisa Kinney Running For You!
 Meet Lisa News Events Get in Touch FAQ R.E.A.L.
-Donate Donate News, Updates and Policy Thoughts History Cannot be Re-Written Posted on July 11, 2026 Lisa is criticizing the removal of signage at Grand Teton National Park that described 19th-century explorer Gustavus Doane’s role in a massacre of Native Americans, calling the move an attempt to rewrite state history Read more… Forest Service Rule Changes Posted on July 6, 2026 The Forest Service has proposed a rule change that will eliminate public input!
+Donate Donate News, Updates and Policy Thoughts Another Call for Public Lands Posted on July 23, 2026 Forty eight percent of Wyoming is federal public land.
+We need to protect it at all costs!
+Read more… History Cannot be Re-Written Posted on July 11, 2026 Lisa is criticizing the removal of signage at Grand Teton National Park that described 19th-century explorer Gustavus Doane’s role in a massacre of Native Americans, calling the move an attempt to rewrite state history Read more… Forest Service Rule Changes Posted on July 6, 2026 The Forest Service has proposed a rule change that will eliminate public input!
 Read more… Fireside Chat: Data Centers Posted on June 26, 2026 Panel discussion on Data Centers.
 Read more… Fireside Chat: Public Lands Posted on June 20, 2026 Read more… Healthcare In Wyoming Posted on June 13, 2026 I attended the Wyoming Healthcare Policy Summit with Faith Jones, current Vice President of the Wyoming Nurses Association.
 Read more… Geothermal Energy Ideas Posted on May 26, 2026 Some ideas about a source of energy for Wyoming with existing technologies that are already here.

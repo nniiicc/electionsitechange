@@ -38,28 +38,21 @@ When he was recently diagnosed with a serious health condition, she was the pers
 "She'll text me, she'll call me — 'How are you doing today?
 How are you feeling?
 What can I do to help you?' … When I'm looking for a doctor, Danielle reaches back out and says, here's some doctors, call them today.
-And then she follows up: 'Did you call them yet?'" "I really feel so special that Danielle is not only my friend, but to run for senator — and know that she'll take care of the rest of the families, regardless of the party lines, here in the state of Illinois." National Federation of Independent Business (NFIB) Illinois PAC “During a time of rising business costs in this state, Danielle Penman is the best equipped candidate to represent small businesses in the 33rd district,” said NFIB Illinois State Director Noah Finley.
-“Small businesses need a fighter who will stand up to Springfield special interests and advocate for common-sense, pro-Main Street policies.” NURSES POLITICAL ACTION COMMITTEE (PAC) “I am proud to be endorsed by Nurses PAC, an organization representing nurses in Illinois.” -Danielle Penman JEFF WALTER, MAYOR OF ELBURN In the Navy, in business, and now as Mayor of Elburn, I’ve learned that leadership comes down to responsibility.
-You show up, make difficult decisions and remember that the people you serve are counting on you to get it right.
-That is what I see in Danielle Penman.
-For nearly three decades as a nurse, Danielle has spent her career caring for people during some of the most important and difficult moments of their lives.
-That experience has given her a perspective we need more of in government: listen, understand what people are facing and get to work solving the problem.
-Danielle is thoughtful, hardworking and grounded in the community she wants to represent.
-I know she will take that responsibility seriously and be a strong voice for us in Springfield.
-I’m proud to support Danielle Penman for State Senate.
-JON GRIPE, KANE COUNTY BOARD MEMBER, DISTRICT 14 Danielle Penman is running for State Senate for the right reason: she wants the people of our communities to have a voice in Springfield.
-She isn’t looking at this race as the next step in a political career.
-Danielle comes from outside the political system, and I believe that matters.
-She listens to people, takes their concerns seriously and isn’t afraid to stand her ground when she believes something is wrong.
-The people of the 33rd District deserve a senator who will answer to them—not to party leaders, political insiders or special interests.
-Someone who will take their concerns to Springfield, fight for their communities and remember every day who they were elected to represent.
-I believe Danielle will be that kind of senator, and I’m proud to support her.
-CLIFF SURGES, KANE COUNTY BOARD MEMBER, DISTRICT 21 After serving in local government, I’ve learned that good public service starts with knowing your community and caring about the people in it.
-That’s what stands out to me about Danielle Penman.
-Danielle has spent more than 20 years in this community, both raising her family and caring for others as a nurse.
-She has a real connection to the people she wants to represent and understands what matters most.
-I’m confident Danielle will bring that same sense of service to Springfield and I’m proud to endorse her for State Senate.
-EILEEN PHIPPS, MAYOR OF WAYNE As Mayor of Wayne, I have seen firsthand how decisions made in Springfield can affect our communities and the people who call them home.
+And then she follows up: 'Did you call them yet?'" "I really feel so special that Danielle is not only my friend, but to run for senator — and know that she'll take care of the rest of the families, regardless of the party lines, here in the state of Illinois." CHICAGO TRIBUNE EDITORIAL BOARD “Illinois Democrats see an opportunity in this west suburban district, which runs from St.
+Charles through Elgin to Crystal Lake.
+Respected Republican Sen.
+Don DeWitte is retiring at the end of this term.
+The Democratic candidate is Algonquin resident Michele Clark, 54, director of development at a local food pantry.
+She faces Republican Danielle Penman, a 49-year-old labor-and-delivery nurse from St.
+Charles who won a vigorously contested primary against Jessica Breugelmans.
+We endorsed Breugelmans in the primary, but thought Penman was also a good option.
+Republicans have a solid candidate carrying their banner to keep this seat in the GOP fold.
+Penman is focused on property tax relief with practical suggestions such as increasing the homeowners exemption and tying it to inflation so the value doesn't erode over time.
+We agree with her, too, that Illinois must put the brakes on premature closing of fossil fuel­-fired power plants while there are questions about electricity reliability in the near term - a step Springfield Democrats refuse to take.
+A vote to flip this seat to the Democrats is a vote for higher taxes and spending.
+We endorse Danielle Penman.” -The Editorial Board, Chicago Tribune National Federation of Independent Business (NFIB) Illinois PAC “During a time of rising business costs in this state, Danielle Penman is the best equipped candidate to represent small businesses in the 33rd district,” said NFIB Illinois State Director Noah Finley.
+“Small businesses need a fighter who will stand up to Springfield special interests and advocate for common-sense, pro-Main Street policies.” Chicago Firefighters UNION, Local No.
+2 “I am honored to be endorsed by the men and women of the Chicago Firefighters Union, Local 2.” -Danielle Penman NURSES POLITICAL ACTION COMMITTEE (PAC) “I am proud to be endorsed by Nurses PAC, an organization representing nurses in Illinois.” -Danielle Penman EILEEN PHIPPS, MAYOR OF WAYNE As Mayor of Wayne, I have seen firsthand how decisions made in Springfield can affect our communities and the people who call them home.
 That is why it matters to have someone like Danielle Penman representing us in the State Senate.
 Danielle understands that every community is different and that local leaders and residents deserve a voice in the decisions that affect them.
 Too often, the state imposes new mandates without providing the funding to pay for them.
@@ -68,6 +61,26 @@ Danielle will stand up for our communities and push for a better approach in Spr
 She will fight to keep local decisions in local hands and make sure the state takes responsibility for the mandates it imposes.
 That is the kind of voice our communities need in the State Senate.
 I am proud to support Danielle Penman for State Senate.
+JEFF WALTER, MAYOR OF ELBURN In the Navy, in business, and now as Mayor of Elburn, I’ve learned that leadership comes down to responsibility.
+You show up, make difficult decisions and remember that the people you serve are counting on you to get it right.
+That is what I see in Danielle Penman.
+For nearly three decades as a nurse, Danielle has spent her career caring for people during some of the most important and difficult moments of their lives.
+That experience has given her a perspective we need more of in government: listen, understand what people are facing and get to work solving the problem.
+Danielle is thoughtful, hardworking and grounded in the community she wants to represent.
+I know she will take that responsibility seriously and be a strong voice for us in Springfield.
+I’m proud to support Danielle Penman for State Senate.
+CLIFF SURGES, KANE COUNTY BOARD MEMBER, DISTRICT 21 After serving in local government, I’ve learned that good public service starts with knowing your community and caring about the people in it.
+That’s what stands out to me about Danielle Penman.
+Danielle has spent more than 20 years in this community, both raising her family and caring for others as a nurse.
+She has a real connection to the people she wants to represent and understands what matters most.
+I’m confident Danielle will bring that same sense of service to Springfield and I’m proud to endorse her for State Senate.
+JON GRIPE, KANE COUNTY BOARD MEMBER, DISTRICT 14 Danielle Penman is running for State Senate for the right reason: she wants the people of our communities to have a voice in Springfield.
+She isn’t looking at this race as the next step in a political career.
+Danielle comes from outside the political system, and I believe that matters.
+She listens to people, takes their concerns seriously and isn’t afraid to stand her ground when she believes something is wrong.
+The people of the 33rd District deserve a senator who will answer to them—not to party leaders, political insiders or special interests.
+Someone who will take their concerns to Springfield, fight for their communities and remember every day who they were elected to represent.
+I believe Danielle will be that kind of senator, and I’m proud to support her.
 BILL ROTH, Kane County Board, VICE CHAIRMAN, District 12 I’ve had the privilege of knowing Danielle Penman as a friend and neighbor for nearly 25 years.
 Over that time, I’ve come to know her as someone who genuinely cares about others and is deeply committed to our community.
 That commitment has shaped both the life Danielle has built here and her career caring for others.

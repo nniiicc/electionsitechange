@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation Home Platform Biography Contact Me Testimonials Washington State Immigration My Proposal- Washington Resident Registration Program (WRRP) The Washington Resident Registration Program (WRRP) is a proposed voluntary program administered by the Department of Licensing (DOL) for undocumented residents who have established long-term residence in Washington State.
+Search this site Embedded Files Skip to main content Skip to navigation Rodney Star Thornley Platform Biography Contact Me Testimonials Washington State Immigration My Proposal- Washington Resident Registration Program (WRRP) The Washington Resident Registration Program (WRRP) is a proposed voluntary program administered by the Department of Licensing (DOL) for undocumented residents who have established long-term residence in Washington State.
 Participants would voluntarily register, verify their identity and state residency, and receive a state-issued credential for purposes authorized under state law.
 Program Scope & Eligibility Goal: Improve public safety, state accountability, and communication while providing Washington with accurate demographic data.
 Eligible Participants: Long-term undocumented residents of Washington State.
@@ -9,6 +9,28 @@ Facility Inspections: The state will establish inspections at all access points 
 State Patrol Monitoring: Monitored by a designated state agency (such as the Washington State Patrol), no WRRP participant may be transferred to or entered into an ICE facility without a valid judicial warrant.
 Commitment to Due Process Washington aims to be a constructive partner in lawful enforcement, but cooperation must rest on mutual respect for the rule of law, strict due process, and government accountability at every level.
 Immigrants residing in Washington deserve both legal clarity and protection under state oversight.
+Public Safety People Living on the Streets To improve public safety and community well-being, cities should enforce existing misdemeanor laws while also providing a path forward.
+For appropriate misdemeanor offenses, community-service consequences could include graffiti removal, litter cleanup, and city beautification projects.
+At the same time, people living on the streets need assistance.
+I propose an AAMHJ approach , addressing five issues together rather than treating each one separately: Accountability — Enforce the laws already on the books and establish reasonable consequences for violations.
+Addiction Treatment — Make treatment available and connect people struggling with addiction to appropriate services.
+Mental Health Treatment — Provide access to mental-health evaluation, treatment, and continuing support.
+Housing — Recognize that one solution will not work for everyone.
+Options could include managed RV sites, tiny homes, transitional housing, supportive housing, and permanent housing.
+Jobs — Everyone who is able should have an opportunity to contribute.
+For one person that might mean two hours of work a day; for another, it could mean full-time employment.
+Work provides income, responsibility, structure, and a path toward greater independence.
+Roll-Down Security Shutters Businesses should be able to use roll-down security shutters to help prevent smash-and-grab and vehicle-ram burglaries.
+Security shutters may cost considerably less than repeatedly repairing windows, doors, and other building damage.
+They could also become part of neighborhood beautification.
+Local artists could be invited to create murals or other artwork on the shutters, turning a security measure into something visually appealing when businesses are closed.
+Flock Cameras, CCTV and Private Security Cameras Flock cameras and similar surveillance systems raise legitimate privacy concerns, particularly regarding who can access the information, how long it is retained, and whether it can be used for purposes beyond investigating criminal activity.
+If individual businesses or groups of businesses purchase and operate their own security cameras, they should be able to voluntarily share relevant recordings with law enforcement when investigating crimes.
+At the same time, we should recognize the world we live in.
+People in public places are already recorded by doorbell cameras, business security systems, traffic cameras, and other privately operated cameras every day.
+There should remain a strong distinction between privacy in our homes and reasonable expectations of privacy in public spaces.
+Washington should establish clear rules governing access to and use of surveillance information, including appropriate privacy protections and limits on data retention and sharing, while allowing law enforcement to use these tools to investigate criminal activity and identify people suspected of committing crimes.
+Under my proposed Washingtonship program, immigration status would be addressed through a defined state process rather than relying on broad surveillance to identify people living and working in Washington.
 Housing Washington needs practical housing policies that encourage private participation without creating more unnecessary government administration.
 I In the 46th District, I would support modifying House Bill 1110.
 Increasing multifamily housing in single-family zones is essential, but preserving neighborhoods with single-family homes that have yards for families with children and pets is equally important.
@@ -108,28 +130,6 @@ No barrage of texts.
 No mailbox full of glossy political advertising.
 Just candidates, ideas and voters.
 That is the direction I believe Washington should pursue.
-Public Safety People Living on the Streets To improve public safety and community well-being, cities should enforce existing misdemeanor laws while also providing a path forward.
-For appropriate misdemeanor offenses, community-service consequences could include graffiti removal, litter cleanup, and city beautification projects.
-At the same time, people living on the streets need assistance.
-I propose an AAMHJ approach , addressing five issues together rather than treating each one separately: Accountability — Enforce the laws already on the books and establish reasonable consequences for violations.
-Addiction Treatment — Make treatment available and connect people struggling with addiction to appropriate services.
-Mental Health Treatment — Provide access to mental-health evaluation, treatment, and continuing support.
-Housing — Recognize that one solution will not work for everyone.
-Options could include managed RV sites, tiny homes, transitional housing, supportive housing, and permanent housing.
-Jobs — Everyone who is able should have an opportunity to contribute.
-For one person that might mean two hours of work a day; for another, it could mean full-time employment.
-Work provides income, responsibility, structure, and a path toward greater independence.
-Roll-Down Security Shutters Businesses should be able to use roll-down security shutters to help prevent smash-and-grab and vehicle-ram burglaries.
-Security shutters may cost considerably less than repeatedly repairing windows, doors, and other building damage.
-They could also become part of neighborhood beautification.
-Local artists could be invited to create murals or other artwork on the shutters, turning a security measure into something visually appealing when businesses are closed.
-Flock Cameras, CCTV and Private Security Cameras Flock cameras and similar surveillance systems raise legitimate privacy concerns, particularly regarding who can access the information, how long it is retained, and whether it can be used for purposes beyond investigating criminal activity.
-If individual businesses or groups of businesses purchase and operate their own security cameras, they should be able to voluntarily share relevant recordings with law enforcement when investigating crimes.
-At the same time, we should recognize the world we live in.
-People in public places are already recorded by doorbell cameras, business security systems, traffic cameras, and other privately operated cameras every day.
-There should remain a strong distinction between privacy in our homes and reasonable expectations of privacy in public spaces.
-Washington should establish clear rules governing access to and use of surveillance information, including appropriate privacy protections and limits on data retention and sharing, while allowing law enforcement to use these tools to investigate criminal activity and identify people suspected of committing crimes.
-Under my proposed Washingtonship program, immigration status would be addressed through a defined state process rather than relying on broad surveillance to identify people living and working in Washington.
 3 Year College Degree / K-12 Education Modernizing the Four-Year Degree Should Washington Reevaluate the 180-Credit Bachelor's Degree?
 Under WAC 250-61-100, many bachelor’s degrees require 180 credits for graduation, but many degree programs require only 40 to 90 credits within the major itself.
 Washington’s public colleges and universities should consider reducing the graduation requirement to 135 credits.

@@ -1,6 +1,7 @@
 Search this site Embedded Files Skip to main content Skip to navigation UPCOMING!
-Sat 10/10!
-Listening Session @ Cross Plains Rosemary Garfoot Public Library, 11:30-12:30!
+Oct.
+20!
+West Madison @ Alicia Ashman Public Library, 6:15-7:15 pm!
 What matters to you?
 Nathan for WI Senate Home Meet Nathan What We Want Donate!
 Take Action!

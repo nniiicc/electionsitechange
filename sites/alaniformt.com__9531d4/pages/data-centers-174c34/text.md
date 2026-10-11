@@ -109,8 +109,10 @@ That's why I back the statewide moratorium Montana Democrats are pushing on new 
 My job in the Senate is to give that pause teeth with a federal right-to-know standard , not to override it.
 And I take my lead from Montanans, who are already handling this in different ways.
 Missoula County passed its own temporary moratorium.
-Voters in Yellowstone and Butte-Silver Bow are pushing ballot measures that would require a two-thirds vote before any data center is approved.
-They get to pick the answer.
+In Yellowstone County, opponents are pushing for interim zoning after a judge blocked their ballot initiative.
+In Butte-Silver Bow, citizens gathered the signatures for a public vote and then lost their place on the November ballot over a filing deadline the Legislature moved up ten days.
+Butte should get that vote.
+Whatever the answer is, it belongs to the people who live there.
 My job is to listen, and to make sure the federal laws, research, and funding are there to back whatever those communities decide they need.
 Backing Montana: where the fight belongs to the state Water permits, zoning, noise rules, the property-tax break, rate classes, a full state framework: those are Montana's to decide, not a senator's.
 My job is to have Montana's back: bring the federal data and agencies (FERC, DOE, EPA) that strengthen the state's hand, steer federal workforce and university dollars home, and stand with any community facing down a trillion-dollar developer's lawyers.
@@ -144,7 +146,9 @@ Montana was the first state to require a warrant for cell-phone location data (2
 ACLU; Montana Code Annotated 46-5-110, 46-5-112; Ballotpedia; Daily Montanan.
 AI Data Center Moratorium Act, S.
 4214 (facilities over 20 MW).
-Missoula County moratorium (2026); Yellowstone and Butte-Silver Bow two-thirds-vote ballot initiatives (2026).
+Missoula County moratorium (2026); Yellowstone County interim-zoning push after a judge blocked its two-thirds-vote ballot initiative (Aug.
+2026); Butte-Silver Bow initiative removed from the November ballot after the Montana Supreme Court vacated its order (Sept.
+2026), with the organizers asking the court to reconsider.
 Montana Free Press; Daily Montanan.
 Congress treats data centers as interstate commerce: the GRID Act, formally the Guaranteeing Rate Insulation from Data Centers Act (S.
 3852), includes findings to that effect.
@@ -167,6 +171,11 @@ Community benefit agreement and public-hearing requirements are advancing in the
 Good Jobs First; DLA Piper; Ballotpedia.
 Federal environmental review and public input for large data centers are being narrowed by fast-track permitting and new NEPA categorical exclusions (2025).
 Congressional Research Service, R48762.
+Executive Order “Accelerating Federal Permitting of Data Center Infrastructure,” July 23, 2025; U.S.
+Department of Energy designation of federal sites for AI data centers (2025).
+New York Times, “Big Tech Is Now Targeting Native American Land for Massive Data Centers,” July 9, 2026.
+The Cherokee Nation banned hyperscale data centers on its tribally owned and trust land in August 2026 after 64% of surveyed citizens opposed them (KGOU, Aug.
+10, 2026).
 The same fight, next door: what these buildings run is artificial intelligence, and what they consume is your data.
 See where Alani stands on AI itself and on your privacy and data rights .
 Get the facts on the table first.

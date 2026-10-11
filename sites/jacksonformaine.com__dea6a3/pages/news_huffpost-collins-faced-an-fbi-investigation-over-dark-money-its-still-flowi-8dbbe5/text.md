@@ -34,7 +34,7 @@ Collins attended a fundraiser for the nonprofit in 2026 at a D.C. townhouse owne
 Unlike Kao’s donation, the source of nearly all of this spending is unknown to the public.
 But as the ProPublica reporting showed, lawmakers know it helps elect them.
 “It’s quite disturbing that we’re asked to participate in a democratic process, but we as voters are deprived of this very important information,” Ghosh said.
-“It is genuinely a big problem that we don’t know who’s behind $2 billion in spending.” ### To reach the campaign, email info@jacksonformaine.com .
+“It is genuinely a big problem that we don’t know who’s behind $2 billion in spending.” ### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

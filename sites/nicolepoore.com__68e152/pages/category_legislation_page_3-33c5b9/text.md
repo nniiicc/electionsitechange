@@ -68,20 +68,14 @@ They were arrested.
 They took up legal action again and again and were told to sit down and shut up.
 Nevertheless, they persisted.
 Earlier this month, we celebrated their determination and their legacy that has allowed women not only to be empowered, but in power, with the dedication of a monument at Legislative Hall.
-HB 94 September 17, 2019 admin Criminal Law and Courts Comments are Closed 0 This Act will increase payments of child support arrears or retroactive support from payments for settlements and awards from negligence, personal injury, and workers compensation cases by requiring that all insurers share information with an insurance claim data collection organization.
-The Division of Child Support Services (“Division”) uses an insurance claim data collection organization to match individuals who are in arrears on child support or who owe retroactive child support with individuals with insurance claims based upon negligence, personal injury, or workers’ compensation cases.
-The data collection organization performs a data match of the claimants provided by insurers and child support obligors provided by the Division.
-The data collection organization provides reports of matches to the Division so that the Division can issue a lien against the insurance claim to collect the child support arrears or retroactive support.
-Currently, some insurers voluntarily submit claim information to the insurance claim data collection organization and in 2018, $424,977 in unpaid child support was collected through this process.
-This Act requires that all insurers submit claim information to the insurance claim data collection organization and is expected to collect an additional $150,000 – $200,000 in unpaid child support.
-This Act also allows written notice of a lien or action to perfect the lien to be sent by electronically or by first class mail to conform to industry practices.
-This Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual.
-Co-Prime Sponsor: Poore; Status: Signed HB 102 September 17, 2019 admin Criminal Law and Courts Comments are Closed 0 This bill allows a person who is arrested or convicted of any crime, except a violent felony, which was a direct result of being a victim of human trafficking may file an application or for a pardon or expungement or make a motion to vacate judgment.
-This bill also makes changes to the Human Trafficking Interagency coordinating by adding another member of the judicial branch and a representative of the Department of Education.
-This bill also adds locations where a public awareness sign must be placed.
-Co-Prime Sponsor: Poore; Status: Signed SB 57 September 17, 2019 admin Consumer Protection Comments are Closed 0 This Act makes clear that a retail licensee may only purchase authorized product from an importer, also known as wholesaler, except that a retail licensee may purchase up to 20 gallons a day from a premises licensed to sell for off-premises consumption.
-This Act also clarifies that off-premises licensees may sell untapped kegs for off-premises consumption.
-Co-Prime Sponsor: Poore; Status: Signed Prev.
+SB 53 September 17, 2019 admin Social Policy Comments are Closed 0 Diwali is a 5-day festival of lights, celebrated by millions of Hindus, Sikhs, and Jains across the world.
+The dates for Diwali change each year, but it usually falls in October or November.
+Fireworks are an essential component of Diwali and the third day of Diwali is the height of the festival.
+In recognition of the many Indo-Americans living in Delaware, this Act permits the sale and possession of sparklers and ground-based sparkling devices during a 30-day period before and including the third day of Diwali and the use of these items on the third day of Diwali.
+Co-Prime Sponsor: Poore; Status: Signed HCR 10 September 17, 2019 admin Social Policy Comments are Closed 0 This resolution designates March 2019 as Women’s History Month in Delaware to raise awareness and celebrate the contributions of women in our society, and for the greater good of our nation.
+Co-Prime Sponsor: Poore; Status: Passed HCR 41 September 17, 2019 admin Social Policy Comments are Closed 0 This House Concurrent Resolution recognized April 25, 2019 as the 50th Anniversary of the enactment of Delaware’s Equal Rights to Housing Act.
+The House Concurrent Resolution further recognizes May 9, 2019 as a Celebration of a Day for Housing in the State of Delaware.
+Co-Prime Sponsor: Poore; Status: Passed Prev.
 1 2 3 4 5 … 16 Next Senator Poore’s Newsletter Latest News Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 New Air Quality Initiatives Launching in Delaware… admin 11 Apr 2026 Legislative Recap: April 2026 admin 7 Apr 2026 About Lifelong New Castle County resident Senator Nicole Poore is a family-oriented professional who consistently demonstrates how hard work, dedication, integrity, and solid family values are paramount to achieving family, personal, and professional goals.
 Contact Senator Poore Quick Links Home 12th District Contact Legislation News/Blog Donate Accessibility Latest Posts Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 Delaware Voting Information 2016 Delaware Election Calendar Delaware Polling Place Locator Registering to Vote Voters with Special Needs Voting by Absentee Ballot © # Nicole Poore.
 Site design by The Writer's Block .

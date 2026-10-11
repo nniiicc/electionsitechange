@@ -119,15 +119,18 @@ I expect it to keep changing as the budget, legislation, and opportunities come 
 If I’ve got the order wrong, or missed something that matters more to your family than what’s on this list, tell me.
 This whole campaign runs on the idea that the community holds the wisdom, not me.
 I’m just trying to carry it into the room.
-See the Latest News My Response to Rep.
+See the Latest News Does Dignity Still Matter?
+Josephine County deserves leaders who can disagree without sacrificing dignity, respect, or decency.
+As this campaign has unfolded, I’ve found myself reflecting on the increasingly personal nature of political disagreements and what that means for our community.
+I believe we can stand firmly behind our values, hold one another accountable, and have difficult conversations without tearing people down.
+Because how we treat one another matters, and Josephine County deserves leadership that reflects that.
+Read More » My Response to Rep.
 Yunker’s Attack Ad I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
 This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
 Please read a recent question and my response below: Read More » Representing Josephine County, Not a Party I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
 This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
 Please read a recent question and my response below: Read More » The Principles I’ll Take With Me to Salem.
 I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
-This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
-Please read a recent question and my response below: Read More » Why I’m Asking for Your Trust I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
 This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
 Please read a recent question and my response below: Read More » Home About Priorities Support Volunteer News Community Questions Contact Home About Priorities Support Volunteer News Community Questions Contact Facebook Instagram © # Susan for Josephine.
 All rights Reserved.

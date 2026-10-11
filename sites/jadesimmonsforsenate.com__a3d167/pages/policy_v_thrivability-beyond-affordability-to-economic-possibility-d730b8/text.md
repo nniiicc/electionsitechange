@@ -42,7 +42,7 @@ If the answer is no, then we’re not even close to being done.
 We shouldn’t even be asking for your vote.
 Economic policy shouldn’t be about making politicians look good.
 It should be about making your life not just affordable, but thrivable.
-Next A Breakthrough Brief: Thrivability for Small Business You Might Also Like A Breakthrough Brief: Thrivability for Small Business The Thurgood Marshall Plan Humane Immigration Reform and Border Security A New Era in Education Healthcare That Works for People, Not Bureaucracies STAY UPDATED Let’s Build the Future Together.
+Previous Statement of Belief: Honor God, Serve People Next A Breakthrough Brief: Thrivability for Small Business You Might Also Like A Breakthrough Brief: Thrivability for Small Business Women’s Empowerment & A Fresh Take on Life and Choice Independence from Party Control Humane Immigration Reform and Border Security A New Era in Education STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

@@ -1,4 +1,4 @@
-HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE Donate Follow us Donate Follow us Menu PROTECT YOUR VOTE Democracy dies in silence.
+HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE MERCH STORE Donate Follow us Donate Follow us Menu PROTECT YOUR VOTE Democracy dies in silence.
 SPEAK UP!
 If you ran into a problem voting in Sioux Falls — ballot shortages, absentee or mail delays, registration issues, or anything else — here is where you can report it.
 How to Report a Voting Issue Who to call, what to say, and what happens next.
@@ -17,4 +17,4 @@ Phone: 605.322.2508 Get Help page Facebook page Press Release Filing a report wo
 The more people who report – the harder this is to normalize.
 This is general information based on South Dakota election law, not legal advice.
 You belong here.
-HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE Donate Follow us Accessibility Statement GET INVOLVED MEET JUNE THE ISSUES Paid for by june for south dakota PO Box 815 Sioux Falls, SD 57101 June for South Dakota © #
+HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE MERCH STORE Donate Follow us Accessibility Statement GET INVOLVED MEET JUNE THE ISSUES MERCH Paid for by june for south dakota PO Box 815 Sioux Falls, SD 57101 June for South Dakota © #

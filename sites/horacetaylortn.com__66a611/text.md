@@ -47,7 +47,11 @@ A West Tennessee singer-songwriter wrote a song about politicians who promise to
 It is exactly the kind of independent voice this campaign is built around.
 Hear the Song “I wrote this because I'm tired of watching politicians promise the world, go to Washington, and leave the rest of us holding the bag.
 Independent leadership is the only kind that scares them.” — Paul DW, Singer-Songwriter On the Trail Meet Horace in your community.
-All Events Oct 10 Chasing Prudence| 2026 General Election Candidate Interviews (Horace Taylor) Tennessee's 8th District Oct 10 Douglas CME Church 3659 Stanton Koko Rd, Stanton, TN 38069 Oct 11 Misa en Español at Sacred Heart 1324 Jefferson Ave, Memphis, TN 38104, USA Showing Up, Not Sending Mailers This seat belongs to the people of West Tennessee.
+All Events Oct 11 Misa en Español at Sacred Heart 1324 Jefferson Ave, Memphis, TN 38104, USA Oct 15 Candidates’ Meet and Greet for Congressional Districts 5, 8, and 9.
+Mt.
+Olive Cathedral Christian Methodist Episcopal Church, 538 Dr.
+MLK Boulevard, Memphis, TN Oct 15 East Jackson Town Hall Home M.B.
+Church, 307 James Buchanan Dr, Jackson, TN 38301, USA Showing Up, Not Sending Mailers This seat belongs to the people of West Tennessee.
 Door to door, county fair to car show, Jackson to Collierville.
 Add your name and help carry this district.
 Volunteer Read the Issues Chip In No corporate PACs.

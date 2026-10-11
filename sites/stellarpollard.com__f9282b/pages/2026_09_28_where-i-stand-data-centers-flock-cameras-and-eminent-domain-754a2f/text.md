@@ -47,6 +47,6 @@ Not for corporations or for political legacies.
 It isn’t for the people with the most money or the loudest voice.
 It’s for the people, and that’s where I stand.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Posted by Stella Pollard September 28, 2026 Posted in Uncategorized Post navigation Previous Post Previous post: Democracy Matters, Kentucky!
-Leave a Reply Cancel reply Stella for KY , Powered by WordPress.com .
+Leave a Reply Cancel reply Comment Name Email Website Δ Stella for KY , Powered by WordPress.com .
 Discover more from Stella for KY Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading %d

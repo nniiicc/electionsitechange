@@ -26,7 +26,17 @@ I trust her completely." Senator Gerald Hocker Senate Republican Leader, 20th Di
 With Senator Lawson's retirement, the 15th District needs a leader who knows the community, respects its values, and will fight for its future.
 Emily Thompson is exactly that kind of leader." Senator Brian Pettyjohn Senate Republican Whip, 19th District "Emily brings a strong combination of real-world experience, conservative principles, and a genuine commitment to public service.
 Growing up and continuing to work on her family's farm in Hartly, she understands firsthand the importance of agriculture to Delaware's economy and way of life.
-The 15th District will be well served by her leadership, and I am confident she will be a strong advocate for her constituents." Correctional Officers Association of Delaware Brian Clarke, COAD President "It is my pleasure to notify you that the Correctional Officers Association of Delaware is proud to endorse your campaign for State Senate, District 15.
+The 15th District will be well served by her leadership, and I am confident she will be a strong advocate for her constituents." Senator Bryant Richardson State Senator, 21st District "While I’m sorry to see Senator Dave Lawson retire, Emily Thompson is a great choice to take on the role of serving the people in the 15th Senatorial District.
+Emily has a strong family background.
+I would be honored to serve with her in the Senate." Senator Dave Wilson State Senator, 18th District "It is my pleasure to endorse Emily Thompson for State Senate in the 15th District.
+Emily’s strong ties to the community make her an excellent choice to represent western Kent County.
+Living and working on her family’s farm in Hartly, she understands the daily realities facing farmers, small business owners, and working families throughout the district.
+That agricultural background is especially important in a district that is home to the Delaware State Fair and the Harrington fairgrounds.
+The Fair is a treasured Delaware tradition and an important showcase for our state’s agriculture industry.
+Emily’s firsthand knowledge of agriculture and her deep ties to the community will make her a strong partner in helping the Delaware State Fair continue to grow and thrive for generations to come.
+Her background in public service also reflects a commitment to helping others and strengthening Delaware’s future.
+Through her work supporting at-risk families, Emily has shown that she values practical solutions and long-term results.
+I encourage voters to join me in supporting Emily Thompson for State Senate." Correctional Officers Association of Delaware Brian Clarke, COAD President "It is my pleasure to notify you that the Correctional Officers Association of Delaware is proud to endorse your campaign for State Senate, District 15.
 Your political priorities and platform show that you support the best interests of Delaware's Correctional Officers, which results in a safer Delaware for all." Delaware State Sportsmen's Association Jeff Hague, DSSA President Media & Interviews Hear From Emily Emily joined Mike Bradley on WGMD to talk about her campaign, her roots in District 15, and why she's running.
 WGMD · August 27, 2026 WGMD · April 30, 2026 Community Voices Why Neighbors Stand With Emily "As a young woman business owner, I proudly support Emily Thompson for her dedication to our community and her commitment to making a positive impact." Rylee R.
 Young Woman Business Owner "Young, vibrant, and a true go-getter, Emily is a local who genuinely cares about our community—championing farming, small businesses, and especially horse racing.

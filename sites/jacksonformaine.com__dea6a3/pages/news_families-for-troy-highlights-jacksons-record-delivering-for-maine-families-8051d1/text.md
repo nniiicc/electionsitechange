@@ -31,7 +31,7 @@ Jackson sponsored legislation while serving as Maine Senate president that helpe
 The initiative received bipartisan support in the Legislature.
 "Knowing that there's a breakfast waiting for them, it makes it so much easier to feel comfortable knowing that your kids not going to be hungry, that they're going to focus during their school day," Adleman said, "And knowing there's a lunch there waiting for them too is massive." Jackson argued the federal government could devote more resources to childcare by changing other spending and tax priorities.
 "If you don't pump $70 billion in rogue agency like ICE, if you don't fund foreign wars, fund bombs going to Israel, if you don't give tax cuts to wealthy people, I think you have the resources to do childcare," Jackson said.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

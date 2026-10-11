@@ -17,7 +17,10 @@ Leadership we deserve Colin knows that Washington is broken and the system is ri
 Folks who play by the rules and keep the faith just can’t seem to get ahead.
 But the folks who cut corners and cut deals – they’re doing just fine.
 Colin is running for Congress to lower costs and stop corrupt politicians like Donald Trump from rigging the economy against hard working Texans.
-Colin's Story Colin's Story Building an America that Finally Lives Up to its Promise AGENDA Immigration Read More AGENDA Affordability Read More AGENDA Corruption Read More Happy birthday to a Texas legend, Ms.
+Colin's Story Colin's Story Building an America that Finally Lives Up to its Promise AGENDA Immigration Read More AGENDA Affordability Read More AGENDA Corruption Read More Working families deserve more than a fighting chance.
+They deserve someone willing to fight for them. https://...
+Want to help us keep fighting for Texas families?
+Chip in and join the fight. 🥊 https://t.co/ifCi9bBSHS Happy birthday to a Texas legend, Ms.
 Opal Lee.
 A century of courage, service and making our country better.
 W...
@@ -34,13 +37,6 @@ Register to vote or check your stat...
 Time is running out.
 TODAY is the LAST DAY to register to vote in Texas.
 Don’t wait until it’s too late. ...
-3 days.
-Texas' voter registration deadline is Monday, October 5.
-Don't assume you're registered.
-Check your s...
-North Texas, stay alert today.
-Heavy rain and flash flooding are hitting parts of DFW.
-Please don’t try to ...
 Donate to Support Allred for Texas If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount LET'S GET TO WORK Email Address Zip Code Phone Number (Optional) .
 Sign up here to receive text updates.
 By participating, you consent to recurring autodialed campaign and donation messages from Colin Allred to the phone number you provide.
@@ -68,4 +64,4 @@ Donate Donate Donate to Stand with Allred for Texas $5 $25 $56 $100 $250 Other A
 Continue to Website ASK MARLEY!
 Marley Hi!
 I'm Colin Allred's pup — and I'm here to help you learn about what he's fighting for in Texas's 33rd Congressional District.
-2:28 AM Click to Start Chat
+3:32 AM Click to Start Chat

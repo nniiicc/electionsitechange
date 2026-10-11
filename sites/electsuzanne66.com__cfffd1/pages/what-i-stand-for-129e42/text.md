@@ -1,6 +1,6 @@
 Sign Up for Office Hours Home About What I Stand For Contact What’s Cooking?
 Announcements & Upcoming Events Home About What I Stand For Contact What’s Cooking?
-Announcements & Upcoming Events ElectSuzanne66 Affordability Everyday costs are putting real pressure on families across our communities.
+Announcements & Upcoming Events ElectSuzanne66 Endorsements & Testimonials Read More Affordability Everyday costs are putting real pressure on families across our communities.
 Basic necessities—like utilities—have become far too expensive, stretching household budgets and making it harder for people to plan for the future.
 Healthcare costs are another major burden.
 No one should have to worry that getting the care they need will create financial hardship, yet for many families, that is the reality they face today.

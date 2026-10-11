@@ -1,4 +1,4 @@
-top of page Home Meet Abbie Priorities Endorsements Merch Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
+top of page Home Meet Abbie Priorities Endorsements Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
 DONATE Share Your Vision Tell us about your ideas for making a Michigan that works for us all.
 First Name Last Name Email Mobile Phone (Optional) Address (Optional) What ideas do you have to make Michigan work better for you and others?
 Submit Thanks for sharing your ideas!

@@ -19,5 +19,5 @@ Whether pain and suffering stem from national, inner-city, local, or family circ
 I will challenge the state and local governments to empower people to move forward with their lives rather than encourage a life centered on government dependency and/or encouraging a life of “victimhood.” Please share your ideas with me, because I seek to be your senator and represent you.
 Sign up for emails to keep up with the campaign, and if possible, please make a small donation to the campaign.
 VOLUNTEER DONATE VOTING INFO Get Updates Thank you for signing up!
-News Be an Informed Voter.
-Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu
+News League of Women Voters Forum Be an Informed Voter.
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu

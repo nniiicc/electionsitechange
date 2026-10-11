@@ -1,10 +1,5 @@
 top of page Endorsements About Contact Issues Events News Use tab to navigate through the menu items.
-COME MEET REBECCA Come join me for Tacos!
-Sat, Oct 10 Mountain's Edge Regional Park Anyone want yummy tacos?
-Come join me for a fun and FREE event on Saturday, October 10th from 10:00 AM – 1:00 PM at Mountain's Edge Regional Park!
-I’d love for you to stop by, grab some tacos, and share what’s on your mind.
-Hope to see you there!
-Share RSVP Mountain's Edge's Meet the Candidates Night Thu, Oct 15 8015 Blue Diamond Rd we will be at the Mountain's Edge's Meet the candidate night.
+COME MEET REBECCA Mountain's Edge's Meet the Candidates Night Thu, Oct 15 8015 Blue Diamond Rd we will be at the Mountain's Edge's Meet the candidate night.
 Come find our table !
 Share RSVP Southern Highlands Fall Festival!
 Sat, Oct 17 Goett Family Park The Southern Highlands Fall Festival is right around the corner and I have a table!

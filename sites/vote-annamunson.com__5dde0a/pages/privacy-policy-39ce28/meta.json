@@ -1,10 +1,11 @@
 {
- "description": "",
- "final_url": "https://www.vote-annamunson.com/privacy-policy",
- "fingerprint": "9bfe5cc9c743d12f1a997de6e506adf68e5bdfae",
+ "description": "Privacy policy for Munson Leadership PAC and vote-annamunson.com: how we use information you give us and how we handle mobile messages.",
+ "final_url": "https://www.vote-annamunson.com/privacy-policy/",
+ "fingerprint": "b14474aed3165b470292f3dbdec94dadebd82fd8",
  "format": 3,
- "paid_for_by": "",
- "title": "Privacy Policy | Vote Anna Munson",
+ "paid_for_by": "Paid for by Munson Leadership PAC, PAC ID #23340",
+ "rendered": false,
+ "title": "Privacy Policy | Anna Munson for Oregon House District 19",
  "years_mentioned": [
   "2026"
  ]

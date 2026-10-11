@@ -1,4 +1,4 @@
-Meet Brady Platform Events Get Involved Donate Meet Brady Middleton From Pain to Purpose I'm a job creator, inventor, and violent-crime survivor who chose forgiveness over resentment — and I'm running to give West Michigan families safer streets and a government that answers to them.
+Meet Brady Platform Events Vote Get Involved Donate Meet Brady Middleton From Pain to Purpose I'm a job creator, inventor, and violent-crime survivor who chose forgiveness over resentment — and I'm running to give West Michigan families safer streets and a government that answers to them.
 Brady A.
 Middleton is a West Michigan native, manufacturing and technology entrepreneur, inventor, and candidate for Michigan State Senate in the 29th District.
 He graduated from Grand Valley State University with a B.S. in Political Science, with an emphasis on quantitative and statistical analysis.
@@ -15,8 +15,8 @@ His Story In The Press Daily Mail August 2014 The amazing road to forgiveness ta
 Now he's running to finish the job — putting victims and taxpayers first.
 As a job creator and reformer, Brady understands what Michigan families need: safer streets, better schools, real economic opportunity, and reliable, affordable energy.
 He's ready to bridge the political divide in Lansing and restore West Michigan's greatness.
-Donate to the Campaign See the Platform Fuel our mission $ 25 $ 50 $ 100 $ 250 Other Meet Brady Platform Events Get Involved Donate Follow us: Paid for by Middleton for Michigan, 200 32nd ST SE, Grand Rapids, Michigan 49548 © 2026 Brady Middleton for State Senate.
+Donate to the Campaign See the Platform Fuel our mission $ 25 $ 50 $ 100 $ 250 Other Meet Brady Platform Events Vote Get Involved Donate Follow us: Paid for by Middleton for Michigan, 200 32nd ST SE, Grand Rapids, Michigan 49548 © 2026 Brady Middleton for State Senate.
 All rights reserved.
-Meet Brady Platform Events Get Involved Donate © 2026 Brady Middleton for State Senate.
+Meet Brady Platform Events Vote Get Involved Donate © 2026 Brady Middleton for State Senate.
 All rights reserved.
 Paid for by Middleton for Michigan, 200 32nd ST SE, Grand Rapids, Michigan 49548

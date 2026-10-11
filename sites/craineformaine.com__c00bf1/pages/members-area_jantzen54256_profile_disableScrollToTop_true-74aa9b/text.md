@@ -17,7 +17,7 @@ It is an understandable reaction.
 When missile strikes, retaliations, and escalating military responses dominate the headlines, many assume the latest conflict is simply another political dispute that diplomacy might eventually resolve.
 Yet the reality is that the turmoil in the Middle East is not merely political.
 It is historical, spiritual, and, according to the Bible, prophetic....
-26 0 Load More HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+27 0 Load More HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
 JOIN THE CONVERSATION: Committed to accessibility for all.
 Read our Accessibility Statement.
 By visiting this website, you agree to our Privacy Policy and Terms and Conditions .

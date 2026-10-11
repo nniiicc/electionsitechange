@@ -29,6 +29,7 @@ Suozzi ran again in February 2024, winning a special election after serial liar 
 George Santos was expelled from office.
 He then narrowly defeated LiPetri in November 2024.
 Bruce Blakeman, the Nassau County executive, is the Republican candidate for governor who is expected to run well at the top of the ticket against Hochul, possibly aiding LiPetri.
-Original Article Back to News Page Recent Articles Suozzi launches reelection bid as LiPetri heads to GOP midterm convention September 9, 2026 Rep.
+Original Article Back to News Page Recent Articles Thomas R.
+Suozzi for New York’s 3rd Congressional District October 10, 2026 Suozzi launches reelection bid as LiPetri heads to GOP midterm convention September 9, 2026 Rep.
 Suozzi kicks off re-election bid with bipartisan support from mayors September 8, 2026 Tom Suozzi makes affordability the centerpiece of his case for reelection September 1, 2026 Rep.
-Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Suozzi, Gillen stand with Israel, as debate rages among Democrats July 28, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top
+Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top

@@ -23,6 +23,7 @@ LiPetri has been publicly endorsed by President Donald Trump , Vice President JD
 Speaker of the House Mike Johnson during their trips to Long Island over the past few months.
 Suozzi was first elected to the House of Representatives in 2016, serving for three terms before unsuccessfully running for governor in 2022.
 He then returned to Congress in 2024 to fill a House seat after George Santos was removed from office.
-Original Article Back to News Page Recent Articles Police, firefighter unions back Dem NY Rep.
+Original Article Back to News Page Recent Articles Thomas R.
+Suozzi for New York’s 3rd Congressional District October 10, 2026 Police, firefighter unions back Dem NY Rep.
 Tom Suozzi — after Trump-linked Super PAC spends $8M on attack ads October 4, 2026 Suozzi launches reelection bid as LiPetri heads to GOP midterm convention September 9, 2026 Tom Suozzi makes affordability the centerpiece of his case for reelection September 1, 2026 Rep.
-Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Suozzi, Gillen stand with Israel, as debate rages among Democrats July 28, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top
+Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top

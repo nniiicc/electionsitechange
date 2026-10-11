@@ -1,6 +1,6 @@
 top of page We're in the final stretch!
 If you would like to host a yard sign, please click on "Get Involved" - thank you!
-James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers TELL JAMES Young Voter Survey Policy / AI & Data Centers POSITION AI and Data Centers Artificial intelligence is a tool, not a miracle and not a monster.
+James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil TELL JAMES Young Voter Survey Policy / AI & Data Centers POSITION AI and Data Centers Artificial intelligence is a tool, not a miracle and not a monster.
 The question is who pays for it.
 Download the one-pager (PDF) In one Minute I work with artificial intelligence every day in my consulting practice.
 I have watched it go from overhyped fad to dismissed gimmick to genuinely useful tool.

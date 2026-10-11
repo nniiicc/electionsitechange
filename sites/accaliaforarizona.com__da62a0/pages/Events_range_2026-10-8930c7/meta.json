@@ -1,9 +1,10 @@
 {
  "description": "Jayme Accalia Campaign Events",
  "final_url": "https://www.accaliaforarizona.com/Events?range=2026-10",
- "fingerprint": "fc37ec0152878977ef2dbf8696c39f3279bd20c1",
+ "fingerprint": "f8a952655fcc89e8aa7a3eeb78f046f2f6fb043c",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Where's Jayme?",
  "years_mentioned": [
   "2026"

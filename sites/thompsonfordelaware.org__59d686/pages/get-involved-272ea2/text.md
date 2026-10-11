@@ -11,9 +11,7 @@ Register or update your registration online.
 Register Now Find Your Polling Place Look up where to vote on Election Day with the official Delaware lookup tool.
 Locate Polling Place Absentee Voting Can't make it on Election Day?
 Apply for an absentee ballot through the State of Delaware.
-Apply for Absentee Ballot Upcoming Events Meet Emily in the District Saturday, October 10, 2026 Farm to Table at Loblolly Acres Loblolly Acres, DE Join Emily for a Farm to Table event at Loblolly Acres.
-Additional details coming soon.
-Saturday, October 17, 2026 · 10:00 AM – 3:00 PM Chorman Airport Air Show, Fly-In & Car Show Chorman Airport (D74), 2057 Nine Foot Road, Greenwood, DE 19950 Aerobatics, a T-6 Texan warbird demonstration, the U.S.
+Apply for Absentee Ballot Upcoming Events Meet Emily in the District Saturday, October 17, 2026 · 10:00 AM – 3:00 PM Chorman Airport Air Show, Fly-In & Car Show Chorman Airport (D74), 2057 Nine Foot Road, Greenwood, DE 19950 Aerobatics, a T-6 Texan warbird demonstration, the U.S.
 Naval Academy Parachute Team, and a classic car show. $10 per person, kids under 12 free.
 Rain date October 18.
 Stay in the Loop Get campaign updates, event invites, and ways to help — straight to your inbox.

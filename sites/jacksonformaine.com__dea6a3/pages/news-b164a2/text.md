@@ -121,7 +121,7 @@ Read more Aug 14 2026 PRESS RELEASE NEW TV AD: Troy Jackson Fights For Everyday 
 Read more Aug 13 2026 PRESS RELEASE Troy Jackson’s Authentic, Hard-Working Roots Resonate with Voters, Make Him the Right Pick for Maine All across Maine, voters are recognizing Troy’s authenticity and lived experience that make him the most qualified candidate and while Susan Collins fights for the interests of the ultra wealthy, Troy fights for Maine.
 Read more Aug 10 2026 PRESS RELEASE Troy Jackson on MS NOW’s “The Weeknight” Troy Jackson: “We’re going to make sure in November, that Susan realizes that we are not the idiots that she makes us out to be.” Read more Aug 7 2026 PRESS RELEASE Read All About It: Troy Jackson, The Right Candidate For Maine All Along Read more Aug 5 2026 PRESS RELEASE Troy Jackson Fights for Rural Health Care, Veterans and Working Families Across Maine Read more Aug 3 2026 PRESS RELEASE Troy Jackson Raises $2 Million Since Securing Democratic Nomination Troy Jackson has raised $# million since securing the Democratic nomination for U.S.
 Senate, fueled by contributions from more than 30,000 new donors.
-Read more Jul # 2026 To reach the campaign, email info@jacksonformaine.com .
+Read more Jul # 2026 Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

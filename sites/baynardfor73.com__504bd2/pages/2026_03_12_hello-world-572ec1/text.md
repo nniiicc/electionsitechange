@@ -37,6 +37,6 @@ I am not running because I have all the solutions.
 I am running because I believe our district deserves someone who will actually listen, respond, and take responsibility.
 Someone who is not tied to a party first, but to the people they represent.
 At the end of the day, this is about doing what is right, even when it is uncomfortable.
-And if nothing else, I want my son to know that when it mattered, I stepped forward. — Landen Baynard Related Leave a Reply Cancel reply Facebook X Instagram RSS Designed by Elegant Themes | Powered by WordPress.com .
+And if nothing else, I want my son to know that when it mattered, I stepped forward. — Landen Baynard Related Submit a Comment Cancel reply Comment Name Email Website Δ Facebook X Instagram RSS Designed by Elegant Themes | Powered by WordPress.com .
 Discover more from Baynard for 73 Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading

@@ -48,7 +48,7 @@ Troy Jackson: I think what we should be doing is making it so that there’s no 
 So that everybody has to pay the same amount based on their income, and then we can make sure it’s whole, but also raise benefits.
 Because the people on Social Security that depend on it can’t live in a state or a country like what we have right now.
 Troy Jackson: Those ads that Susan and the Republicans are running are protecting millionaires and billionaires once again, because that’s what they do.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

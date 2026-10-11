@@ -3,6 +3,7 @@ IAM Union, Article -- Union representing skilled tradespeople and shipyard worke
 Planned Parenthood Maine Action Fund -- Defending every Mainer's right to make their own healthcare decisions, free from political interference.
 Maine Education Association -- The united voice of Maine's teachers and public school educators, championing strong public schools and a brighter future for every student.
 Maine Conservation Voters -- For nearly 40 years, Maine Conservation Voters has helped elect environmental champions and held elected officials accountable, working to protect Maine's air, land, water, and wildlife for generations to come.
+MSEA - SEIU Local 1989 -- Organization of Maine workers who advocate for our families, our coworkers, our communities, and the services we all rely on.
 Individuals Kilton Webb (State Representative HD-98): Mark has been a tremendous advocate for working people in Maine.
 When Mark sees a problem, no matter how big or small, he looks to solve it.
 That is the Driver behind his nearly 25-year-long career at the Portsmouth Shipyard, where Mark began his career as a Production Machinery Mechanic, all the way up to President of the Portsmouth Metal Trades Council.

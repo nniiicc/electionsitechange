@@ -1,9 +1,9 @@
-0 Skip to Content Meet Emily Priorities Endorsements Events Get Involved/Contact Connect With Emily Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Events Get Involved/Contact Connect With Emily Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Meet Emily Priorities Endorsements Events Folder: Get Involved/Contact Back Connect With Emily Donate Volunteer Request a Yard Sign DONATE Priorities for Senate District 11 Emily’s current priorities focus on four issues that directly affect families and communities across District 11.
+0 Skip to Content Priorities Meet Emily Record How I Vote Endorsements Events Get Involved/Contact Connect With Emily Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Priorities Meet Emily Record How I Vote Endorsements Events Get Involved/Contact Connect With Emily Donate Volunteer Request a Yard Sign DONATE Open Menu Close Menu Priorities Meet Emily Record How I Vote Endorsements Events Folder: Get Involved/Contact Back Connect With Emily Donate Volunteer Request a Yard Sign DONATE Priorities for Senate District 11 Emily’s current priorities focus on four issues that directly affect families and communities across District 11.
 ROADS & TRAFFIC Infrastructure needs to keep pace with growth.
 Communities across the west side are growing quickly, while residents continue to experience congestion and transportation infrastructure that has not always kept pace.
 Emily’s focus is on securing attention and investment for west-side transportation needs, improving long-term planning, and making sure growth decisions consider the infrastructure communities will need.
 During the 2026 General Session, Emily sponsored SB 247, Road Funding Amendments.
-See the legislation WATER, ENERGY, & DATA CENTERS Growth should come with clear information.
+See The Legislation WATER, ENERGY, & DATA CENTERS Growth should come with clear information.
 Large-scale developments can create significant demands on water, electricity, wastewater systems, and public infrastructure.
 Emily supports transparent evaluation of those impacts before major development decisions are made.
 Residents should be able to understand: How much water will be required?

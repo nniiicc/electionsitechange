@@ -13,13 +13,14 @@ Real Solutions Your concerns are what drive this campaign.
 I'm sharing what I learn here so we can move forward together as a community: Read More Let's do this together Join the Movement Real change doesn’t come from one candidate — it comes from a community that decides it’s time to be heard.
 This is that community.
 Be part of it.
-Donate Now Or Get Involved Meet Your Candidate Look me up and let’s have a real conversation about what this district needs Full calendar 10 Oct Coffee with Your Candidate 8:30 am - 9:30 am 105 Brewing 17 Oct Coffee with Your Candidate 8:30 am - 9:30 am 105 Brewing 24 Oct Coffee with Your Candidate 8:30 am - 9:30 am 105 Brewing No event found!
-Voters' Voices Here’s some of the issues that voters are talking to me about… Load More Issues A Neighbor, Not a Career Politician Your ballot arrives this week.
+Donate Now Or Get Involved Meet Your Candidate Look me up and let’s have a real conversation about what this district needs Full calendar 17 Oct Coffee with Your Candidate 8:30 am - 9:30 am 105 Brewing 24 Oct Coffee with Your Candidate 8:30 am - 9:30 am 105 Brewing 31 Oct Coffee with Your Candidate 8:30 am - 9:30 am 105 Brewing No event found!
+Voters' Voices Here’s some of the issues that voters are talking to me about… Load More Taxes The Tax Cut That Skips the Heights Montana Senate leaders are drafting a flat income tax for the 2027 session.
+Most households in the Billings Heights already pay Montana's lowest income...
+Read More Issues My Answers to the Yellowstone County News Questionnaire Yellowstone County News asked House District 39 candidates five questions for its October 9 edition.
+Here are my answers.
+Read More Issues A Neighbor, Not a Career Politician Your ballot arrives this week.
 Before you open it, here is what I would like you to know.
 What I did this year I...
-Read More Healthcare Endorsed by Planned Parenthood Advocates of Montana Planned Parenthood Advocates of Montana has endorsed my campaign.
-Health care decisions belong between a person and their doctor.
-Read More Worker's Rights Three Times in Five Years, Montana Kept the Right to Bargain Labor Day is a good day to say something out loud that Montana has already decided, three separate times, in the last five years....
 Read More Rooted in the Heights A Neighbor, Not a Career Politician I’ve raised my kids and built my business right here in the Heights.
 I believe in taking personal and community responsibility to solve problems before they become crises.
 Whether it’s finding a way to make school policies work for our kids or building relationships with neighbors to keep our streets safe, I am committed to a community-first approach.
@@ -28,5 +29,5 @@ I’m asking for your vote so we can solve our problems together.
 For too long, politics in Helena has been about “consequences” – passing laws that restrict or punish after a problem has already occurred.
 I believe in a different way.
 I believe we reclaim our government when we take responsibility for our neighborhoods and ask the right questions: Why is this happening, and how can we solve it together?
-About Melissa Voter Issues Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Notify Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
+About Melissa Voter Issues Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Subscribe Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
 Paid for by Friends of Melissa Smith (D) 1335 Naples St, Billings, MT 5910 © # All rights reserved.

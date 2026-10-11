@@ -6,5 +6,5 @@ Black with left chest logo.
 Size: Select Size Small Medium Large XLarge XXLarge Add To Cart Added!
 Classic sponge fleece in a 52 cotton/48 poly fabric, from Bella+Canvas.
 Black with left chest logo.
-Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

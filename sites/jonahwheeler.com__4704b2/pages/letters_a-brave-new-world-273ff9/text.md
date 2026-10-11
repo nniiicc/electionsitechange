@@ -1,4 +1,5 @@
-Back to all A Brave New World Oct 1, 2025 September 2025 Michaelmas Sunset - Captured 29 September at 18:45 - Taken by Jonah W.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all A Brave New World A Brave New World A Brave New World Oct 1, 2025 Oct 1, 2025 September 2025 Michaelmas Sunset - Captured 29 September at 18:45 - Taken by Jonah W.
+Michaelmas Sunset - Captured 29 September at 18:45 - Taken by Jonah W.
 There are decades where nothing happens; and there are weeks where decades happen.
 This saying was attributed to Vladimir Lenin in a 2001 article by former member of the British Parliament, George Galloway.
 People have since commonly attributed this quote to Lenin, however there is no evidence to suggest that he is the one who said it.
@@ -26,6 +27,7 @@ That experiment ends with the observer being unable to see the train at all.
 The psychology of ‘nothing ever happens’, is as a result of the train which is our world accelerating at such a rapid pace that the eyes of some can no longer see.
 My opinion is that everyone is capable of seeing the train, they simply choose not to.
 Whether consciously or unconsciously, some choose not to look at the accelerating shifts in the world because to do so is to admit that the silos we have all found comfort in have left us absolutely unprepared for the speed of this train.
+Corner of Union and Overseers - 12 September at 17:08 - Taken by Jonah W.
 Corner of Union and Overseers - 12 September at 17:08 - Taken by Jonah W.
 Two hundred and forty nine years ago the aristocrats of the thirteen British American colonies staged a revolution from the Crown.
 Using their extensive knowledge of the Republics of old, they constructed a Republic which didn’t simply break the chains of the divine right of Kings; but began an era of the human race where our natural rights were enshrined into principles and laws protected by the government.
@@ -83,7 +85,7 @@ Reaching beyond the barriers we put up between each other which keep us from see
 We cannot ignore the fact that this chaos keeping us tense, these divisions keeping us from speaking beyond the social bounds we’ve kept ourselves in; are no accident.
 Unimaginable amounts of power is gained during times such as these.
 You don’t have to look too closely to see the consolidation of power happening globally amongst the few as the never ending drum beat of terror washes over the minds of the many.
-Speaking at the environmental rally in Pboro - 26 September at 16:34 - Taken by Michael Lambert The example which I see as best illustrating the bizarro world we are in comes from Albania.
+Speaking at the environmental rally in Pboro - 26 September at 16:34 - Taken by Michael Lambert Speaking at the environmental rally in Pboro - 26 September at 16:34 - Taken by Michael Lambert The example which I see as best illustrating the bizarro world we are in comes from Albania.
 Where on September eleventh, the Prime Minister of Albania Edi Rama appointed the world’s first government minister that would be an A.I. program as apart of the effort to digitalize their government.
 The name of this new ‘minister’ as translated in English, is Diella Sun.
 While speaking in the Albanian Parliament of his new appointment, Prime Minister Rama said “Diella is the first member who is not physically present, but virtually created by artificial intelligence.” He went on to add, “Diella will be entrusted with all decisions on public tenders, making them 100 percent corruption free and every public fund submitted to the tender procedure will be perfectly transparent.” A week after the appointment of this machine to the responsibility of issuing the public tender, the program was allowed to speak on the floor of the Parliament to address the opposition from human beings against her appointment.
@@ -168,4 +170,5 @@ The intrigue of life continues on.
 We will find ourselves out of this hole one way or the other.
 Either by burying ourselves to death, or climbing out.
 I can’t speak for you, but I’m climbing.
-Broken down - 15 September at 09:39 - Taken by Jonah W. ‹ The Party of Lepers Resolution for Peace in Gaza › Back to all
+Broken down - 15 September at 09:39 - Taken by Jonah W.
+Broken down - 15 September at 09:39 - Taken by Jonah W. ‹ The Party of Lepers ‹ The Party of Lepers ‹ The Party of Lepers Resolution for Peace in Gaza › Resolution for Peace in Gaza › Resolution for Peace in Gaza › Back to all

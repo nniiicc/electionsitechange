@@ -22,6 +22,7 @@ I also break down the biggest stories of the week, including Elon Musk’s growi
 And finally, a little sports talk: GO KNICKS!
 Previous NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Trump at 32% — So Why Is Everyone Still Afraid?
-The Courage Gap in American Politics Why Is Southern Ontario Doing Better Than Western New York?
-North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Volunteer and Sign Up for Updates!
+You Might Also Like North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT IS NATE A RADICAL COMMUNIST?
+HARDLY LET’S GO THROUGH THE ISSUES.
+PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+WE ARE AT A CROSSROADS IN WESTERN NEW YORK Volunteer and Sign Up for Updates!

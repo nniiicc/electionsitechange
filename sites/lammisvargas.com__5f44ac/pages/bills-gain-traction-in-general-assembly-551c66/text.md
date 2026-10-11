@@ -128,8 +128,8 @@ Athletics should not be an exception to that rule.
 Regardless of what form it takes, hazing creates an environment of trauma and humiliation, and we have to take it more seriously.” The legislation comes on the heels of an incident at Smithfield High School where five seniors trapped a freshman in the bathroom while spraying him with Lysol, and another at Rogers High School in Newport where four teens were arrested for assaulting a student with special needs in a locker room.
 “The guiding principle behind this bill and the policy it would create is that hazing, bullying and harassment have no place in any school environment,” said Senator LaMountain (D-Dist.
 31, Warwick, Cranston), chairman of the Senate Judiciary Committee.
-“School sports and other activities are designed to build self-esteem in young people, not tear it down.” You May Also Like Posted June 3, 2026 Dedicated funding for RIPTA is a practical path forward Posted June 24, 2026 Rhode Island’s need for bilingual teachers is urgent.
+“School sports and other activities are designed to build self-esteem in young people, not tear it down.” You May Also Like Posted June 24, 2026 Rhode Island’s need for bilingual teachers is urgent.
 This fund could help fix the pipeline, legislators say.
-Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+Posted June 3, 2026 Dedicated funding for RIPTA is a practical path forward Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
 #teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
 Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

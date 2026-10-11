@@ -182,7 +182,7 @@ Sign me up → Host a Meet-and-Greet Open your living room or yard for 10–30 n
 We bring Rudi.
 Sign me up → Take a Lawn Sign Plant Rudi for Senate in your yard or business.
 Every sign is a billboard.
-Sign me up → [ the future won't build itself ] Join The Forge Full Name * Email * Phone I Want To Select your interest Volunteer Donate Host an Event Display a Yard Sign Get Updates Only Join The Forge # Days Until Election 5:07:50 AM St.
+Sign me up → [ the future won't build itself ] Join The Forge Full Name * Email * Phone I Want To Select your interest Volunteer Donate Host an Event Display a Yard Sign Get Updates Only Join The Forge # Days Until Election 5:09:25 AM St.
 Thomas Time [ ctrl+alt+elect ] Rudel "Rudi" Alberto Hodge, Jr.
 Forging a new future for the 37th Legislature of the Virgin Islands.
 Democratic Candidate Quick Links About Rudi The Platform Volunteer The Future VI Connect @electrudi2026 Facebook X / Twitter electrudel@gmail.com Language 🇺🇸 English 🇪🇸 Español 🇭🇹 Kreyòl 🇫🇷 Français Contact the Campaign Your name Your message Send Message Privacy Terms Accessibility Statement Limited Presale · $40 Wear The Movement Shop the Tee VOTE 12 Nov 3 12 · VOTE 12 · KEEP VI HOME · BALLOT #12 · NOV 3 · 12 · 12 · NOV 3 · 12 · VOTE 12 · KEEP VI HOME · BALLOT #12 · NOV 3 · 12 · 12 · NOV 3 · Rudi for Senate · General Election · November 3, 2026 Campaign Finance Disclosure Paid for by the Committee to Elect Rudel Hodge Contributions are not tax-deductible.

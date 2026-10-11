@@ -60,7 +60,8 @@ It is, perhaps, not entirely coincidental that Suozzi grew up in Glen Cove, on t
 Yes, there were the obvious differences having to do with wealth and age and party label.
 But both men grew up in the shadow of the city, the great metropolis, and they had a shared patois, if not worldview.
 They had a native understanding of the mixing and mashing together of peoples and backgrounds.“I couldn’t be more different than Donald Trump,” Suozzi said when I asked him about this.“I think I was always a few economic groups away from him.” But then, he added: “I’m a new kind of old-fashioned Democrat”—which is not all that dissimilar to Trump’s description of himself.
-“I’m recognizing that the world has changed pretty dramatically but lookingback at the traditional ways of doing things.” Original Article Back to News Page Recent Articles Police, firefighter unions back Dem NY Rep.
+“I’m recognizing that the world has changed pretty dramatically but lookingback at the traditional ways of doing things.” Original Article Back to News Page Recent Articles Thomas R.
+Suozzi for New York’s 3rd Congressional District October 10, 2026 Police, firefighter unions back Dem NY Rep.
 Tom Suozzi — after Trump-linked Super PAC spends $8M on attack ads October 4, 2026 Suozzi launches reelection bid as LiPetri heads to GOP midterm convention September 9, 2026 Rep.
 Suozzi kicks off re-election bid with bipartisan support from mayors September 8, 2026 Tom Suozzi makes affordability the centerpiece of his case for reelection September 1, 2026 Rep.
-Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top
+Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top

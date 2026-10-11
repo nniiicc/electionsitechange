@@ -6,11 +6,4 @@ Read More → NEWSLETTER September 14, 2026 🪖 FIELD REPORT: Week of Sept 13th
 Read More → August 2026 NEWSLETTER August 15, 2026 🪖 FIELD REPORT: Week of August 9th - 16th - Time is running out, help us door knock!
 Unable to help door knock, chip in to the campaign!
 Read More → NEWSLETTER August 5, 2026 🪖 FIELD REPORT: Week of August 2nd - Utah's fires continue to spread to our vulnerable communities We have less than # days until mail-in ballots are sent Read More → Support the Commitment Click an option to get started.
-If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail Get updates from the campaign and find out how you can take action.
-Sign Up Sign Up About Jonny The Commitment Take Action Latest News Follow the Campaign Press Contact Join Our Team Digital Business Card Privacy Policy Contribute Jonny Larsen For Congress Jonny Larsen For Congress PO Box 16412 Salt Lake City, UT 84116 Checks payable to: Jonny Larsen For Congress Jonny Larsen served as a Sergeant in the United States Marine Corps.
-Use of his military rank, service record, and photographs in uniform does not imply endorsement by the Department of the Navy, the United States Marine Corps, or the Department of Defense.
-By providing your cell phone number you consent to receive recurring updates from Jonny Larsen For Congress, including by automated text message.
-Text STOP to end.
-Msg & Data rates may apply. © #–# Jonny Larsen For Congress.
-All rights reserved.
-Paid For By Jonny Larsen For Congress
+If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail

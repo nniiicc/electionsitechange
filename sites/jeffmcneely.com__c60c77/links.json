@@ -84,10 +84,6 @@
 "href": "https://wordpress.com/start/"
 },
 {
-"text": "Submit a form.",
-"href": "https://jeffmcneely.com/"
-},
-{
 "text": "Twitter",
 "href": "https://twitter.com/mcneely_jeff?lang=en"
 },
@@ -114,5 +110,9 @@
 {
 "text": "mcneely6464@gmail.com",
 "href": "mailto:mcneely6464@gmail.com"
+},
+{
+"text": "← Back",
+"href": "https://jeffmcneely.com/"
 }
 ]

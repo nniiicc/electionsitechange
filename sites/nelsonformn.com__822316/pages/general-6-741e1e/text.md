@@ -1,6 +1,11 @@
 top of page Home Meet Angela Priorities Endorsements Get Involved Events Newsroom More Use tab to navigate through the menu items.
 DONATE NEWSROOM Follow Ang's latest stories and moments the campaign!
-Ang's Roundtable on Affordability July 30, 2026 Button Ang's Roundtable on Affordability July 30, 2026 Button WCPT 820 Candidate Interview Richard Chew September 29, 2026 LISTEN "We need someone who is bold and fearless, and willing to the federal government--not just in words, but in action." First Ad Launch!
+Ang's Roundtable on Affordability July 30, 2026 Button Ang's Roundtable on Affordability July 30, 2026 Button Letter to the Editor: Character Revealed After Cameras Stop Rolling by Yvette Hoffman Star Tribune September 29, 2026 READ "Integrity matters to me.
+Authenticity matters.
+Showing up when nobody is watching matters.
+That is what I see in Angela Nelson." Out-of-State GOP Money, In-State Attacks The Politic Chicks October 1, 2026 READ Ang's Roundtable on Affordability August 19.
+2026 Button Ang's Roundtable on Affordability August 19.
+2026 WATCH “This is what it looks like when national outside interests try to use big money to buy political power and overshadow the voices of people in our communities.” Ang's Roundtable on Affordability July 30, 2026 Button Ang's Roundtable on Affordability July 30, 2026 Button WCPT 820 Candidate Interview Richard Chew September 29, 2026 LISTEN "We need someone who is bold and fearless, and willing to the federal government--not just in words, but in action." First Ad Launch!
 September 16, 2026 WATCH Ang's Roundtable on Affordability August 19.
 2026 Button Ang's Roundtable on Affordability August 19.
 2026 WATCH "I'll fight to lower costs, make health care and child care more affordable, and take on price gouging and fraud so families like yours and mine can get ahead, not just get by." Ang's Roundtable on Affordability July 30, 2026 Button Ang's Roundtable on Affordability July 30, 2026 Button Letter to the Editor: Vote Angela Nelson for State Senate ABC Newspaper September 13, 2026 READ "Maybe it’s time for a newcomer—and that’s Angela Nelson.

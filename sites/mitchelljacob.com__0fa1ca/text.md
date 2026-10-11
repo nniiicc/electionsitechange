@@ -105,45 +105,27 @@ Bring a friend!
 We'll guide you through the entire process.
 It's easy and, more importantly, a great opportunity to make a difference.
 We'll provide computers and headphones, but you're also welcome to bring your own laptop and headset if you prefer.
-Lawton Town Hall My opponent avoids Town Halls and in-person conversations.
-I prioritize open communication and genuine dialogue with all District 4 community members.
-Southwest Oklahoma Brewing Company at 6:30 pm on Thursday, September 17.
-Bring your friends, family, and curiosity.
-Let’s work together to build a stronger community.
-Jacob 4 Jacob FUNdraiser Be part of a historic evening at the home of Dr.
-Lubna Mirza & Tom Taylor, where two Jacobs are joining forces to make history and send Tom Cole packing this November.
-Join us for the Jacob 4 Jacob FUNdraiser.
-A night to make history as two Jacobs join forces to send Tom Cole packing this November!
-September 18, 6:00 pm 3929 Pimlico Drive, Norman What to expect: • Lively conversation and a chance to make new friends and reconnect with familiar faces. • Light hors d’oeuvres & refreshing libations. • Inspiring remarks from Tom Taylor, Jacob Rosecrants, & Mitchell Jacob. • Mingle with Jacob Rosecrants (Oklahoma House Rep, District 46) & Mitchell Jacob (your candidate for Congress in District 4). • An open Q&A with Mitchell Jacob on his platform and the state of the union. • A high-energy effort to rally support & raise funds to unseat Tom Cole this November.
-Caffeine, Chat, and Canvas Join us for a Coffee and Chat at Coffee Darling, located at 117 North Broadway in Moore, Saturday, October 10, at 8:30 am, followed by canvassing from 10:00 am to noon.
 Wayne Town Hall We're returning to Wayne at the Mid-America Technology Center!
 Unlike my opponent, who avoids Town Halls and face-to-face conversations, I'm dedicated to transparency and genuine dialogue with everyone in our district.
 I’ll be there at 6:30 pm on Thursday, October 15, ready to share updates and answer your questions.
 Bring your friends, your family, and your curiosity.
 This is your chance to connect, get motivated, and help shape our future!
-Frederick Town Hall Continuing the tour, let's meet in Frederick for a Town Hall Q&A.
-I prioritize open dialogue with all District 4 community members.
-I’ll be there at the Civic Center at 6:30 pm on Thursday, September 24, ready to answer your questions.
-Bring your friends, family, and curiosity.
-Let’s work together to build a stronger community.
-Duncan Town Hall My opponent skips Town Halls; I prioritize them.
-Join me in Duncan at 6:30 PM on Thursday, October 1, at the Stephens County Fairgrounds, Prairie Room, 2002 S.
-13th St Duncan.
-Bring friends and questions — let’s strengthen our community.
-Sulphur Town Hall My opponent skips Town Halls; I prioritize them.
-Join me at Mary Parker Memorial Library, 500 W Broadway St, Sulphur, 6:30 PM, Thursday, October 8.
-Bring friends and questions — let’s strengthen our community.
-Blanchard Town Hall I will be at the Blanchard Public Library at 6:30 pm on October 22 because, unlike my opponent, who avoids Town Halls and face-to-face conversations, I'm dedicated to transparency and genuine dialogue with everyone in our district.
+A Night of Immigrant Justice Join us for a fundraiser for Mitchell Jacob for Congress on Friday, October 16 at 7:00 PM at El Sueño, 501 E Interstate 44 Service Road, OKC.
+Enjoy an evening of remembrance, community, and hope, with guest speakers, an ofrenda where you can bring a note or photo honoring someone affected by immigration policy, Suggested donation to be a named host: $# or more.
+Donors giving above $# are invited to a VIP reception at 6:30 PM.Item description Please RSVP: www.mitchelljacob.com/rsvp Blanchard Town Hall I will be at the Blanchard Public Library at 6:30 pm on October 22 because, unlike my opponent, who avoids Town Halls and face-to-face conversations, I'm dedicated to transparency and genuine dialogue with everyone in our district.
 Join me at 205 NE 10th St, Blanchard, OK 73010.
 This is your chance to connect, get motivated, and help shape our future!
 Get Out The Vote October 27, 5:00 to 10:30 pm: “Power to the People”—a Get Out the Vote event at Resonant Head, 400 SW 25th St., OKC.
 Enjoy live music, meet candidates and elected officials, and connect with local non-profit organizations.
 Start now by finding undecided friends and family because this is a great opportunity to get younger people excited about voting and why it matters.
-Rally in Moore Come to the Moore Public Library, 225 S.
-Howard Ave., Moore, OK 73160, for a lively Q&A — my final big event before the election.
-I’d love to meet you in person so you can decide before you vote.
-We will get started at 6:30 pm.
-Bring your questions and your friends.
+Rally in Moore My final town hall & rally will be in Tom Cole's hometown of Moore, OK.
+This will be your last chance to hear from both candidates together.
+Do you think Tom will make it?
+I know we have been having fun poking at Tom Cole about having a debate, but in all seriousness, it is important, and mind-blowing, that a candidate for your US House seat is missing and won’t answer your questions.
+So here is my last-ditch effort.
+TOM, meet me in your hometown, bring your friends, and let's have a debate.
+We are saving you a seat on October 29, 2026, at 6:30 pm, at the Moore Public Library, 225 S Howard Ave, Moore.
+Either way, I will be there to answer any questions you have and rally support for November 3!
 Election Dates Election day is November 3 and voting will be open from 7:00am-7:00pm.
 Early voting is available to all voters.
 No excuse is needed.
@@ -163,7 +145,7 @@ I served for five and a half years as a 35P—Cryptologic Linguist, and earned t
 I earned my second associate's degree in 2018 and my bachelor's degree in political science in 2019.
 Right before I deployed to Syria in January 2020.
 I transitioned out of the Army in May 2022 and graduated from the University of Oklahoma College of Law in 2025.
-Retire Tom Merch Straight From Mitch Blog October 5, 2026 The Economics of Campaigning for Office October 5, 2026 We hear it all the time: “Campaigning is expensive.” While that is a true statement, there is very rarely a follow-up to this statement to show why and how it is expensive to campaign for public office.
+Straight From Mitch Blog October 5, 2026 The Economics of Campaigning for Office October 5, 2026 We hear it all the time: “Campaigning is expensive.” While that is a true statement, there is very rarely a follow-up to this statement to show why and how it is expensive to campaign for public office.
 Let’s dive into the realities and numbers involved.
 Read more → October 5, 2026 September 28, 2026 Entanglement: How American Bombs in Iran Reached Oklahoma’s Gas Stations September 28, 2026 Oil.
 One of the world’s most critical resources.
@@ -236,5 +218,4 @@ WE NEED EVERYBODY TO REGISTER TO VOTE.
 You can contribute by sharing this message through your social networks.
 Together, we can make a difference!
 Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
-Box 1141 Newcastle, OK.
-73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy
+Box 1141 Newcastle, OK 73065-1141 (405) 407-6975 info@mitchelljacob.com Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

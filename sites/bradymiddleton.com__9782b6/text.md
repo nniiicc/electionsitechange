@@ -1,4 +1,4 @@
-Meet Brady Platform Events Get Involved Donate Join Us By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Middleton for Michigan.
+Meet Brady Platform Events Vote Get Involved Donate Join Us By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Middleton for Michigan.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
@@ -24,8 +24,8 @@ Msg frequency varies.
 Unsubscribe at any time by replying STOP.
 Text START to opt in.
 Text HELP for help.
-Ways to help Display a Small Yard Sign Display a Large Yard Sign Go Door to Door Host an Event Join Us Fuel our mission $ 25 $ 50 $ 100 $ 250 Other Meet Brady Platform Events Get Involved Donate Follow us: Paid for by Middleton for Michigan, 200 32nd ST SE, Grand Rapids, Michigan 49548 © 2026 Brady Middleton for State Senate.
+Ways to help Display a Small Yard Sign Display a Large Yard Sign Go Door to Door Host an Event Join Us Fuel our mission $ 25 $ 50 $ 100 $ 250 Other Meet Brady Platform Events Vote Get Involved Donate Follow us: Paid for by Middleton for Michigan, 200 32nd ST SE, Grand Rapids, Michigan 49548 © 2026 Brady Middleton for State Senate.
 All rights reserved.
-Meet Brady Platform Events Get Involved Donate © 2026 Brady Middleton for State Senate.
+Meet Brady Platform Events Vote Get Involved Donate © 2026 Brady Middleton for State Senate.
 All rights reserved.
 Paid for by Middleton for Michigan, 200 32nd ST SE, Grand Rapids, Michigan 49548

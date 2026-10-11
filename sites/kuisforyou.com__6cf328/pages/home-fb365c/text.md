@@ -27,25 +27,21 @@ Your kid`s team.
 Your street`s pothole.
 Your worry about the grocery bill.
 She wants to hear it straight from you.
-Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) We see the effect of climate change every day—in more extreme weather, rising energy costs, and growing uncertainty about the future.
+Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Load More Follow on Instagram The latest on Facebook: Used for the like, share, comment, and reaction icons Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Our future is on the ballot.
+Don’t sit this one out.
+Vote early or vote by no-excuse absentee ballot, and make your voice heard.
+Make a plan, remind a friend, and let’s move forward together. 🗳️ Vote Michelle Embree Ku Democrat for State Representative, 106th District Use a no-excuse absentee ballot.
+Vote early October 19 through November 1 or vote on election day November 3!
+#vote #VoteEarly #voting #VoteBlue #NoKings #elections #Affordability #newtown ct #Newtown #Connecticut … See More See Less Play View Comments Like reaction Love reaction Reactions: 8 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear Day 7: Our Kids Mitch Bolinsky voted no on an early childhood endowment and new special education grants.
+Michelle Embree Ku successfully advocated for a special education fund.
+Strong schools are one of the best investments we can make—starting before kindergarten and supporting every child who needs extra help.
+And that’s the difference.
+Vote October 19 through November 1 and November 3.
+Michelle Embree Ku Democrat for State Representative, 106th District Look it up: PA 25-93 House vote: www.cga.ct.gov/2025/VOTE/H/PDF/2025HV-00251-R00SB00001-HV.PDF #education #kids #schools #specialeducation #grants #Newtown #newtownct #Connecticut … See More See Less Play View Comments Like reaction Love reaction Haha reaction Reactions: 15 Comments: 1 Shares: 1 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) We see the effect of climate change every day—in more extreme weather, rising energy costs, and growing uncertainty about the future.
 Addressing these challenges requires practical, forward-thinking solutions that both protect our environment and strengthen our infrastructure.
 That means investing in clean, renewable energy sources like solar, which can lower costs for families, reduce our dependence on fossil fuels, and create good-paying local jobs.
 It also means modernizing our energy grid, supporting energy efficiency, and encouraging responsible development that preserves our natural resources.
 By taking a balanced, commonsense approach, we can build a more sustainable future while keeping our communities affordable, resilient, and economically strong.
-#Newtown #newtownct Dave Ackert #conservation #climate #weather … See More See Less View Comments Like reaction Love reaction Reactions: 9 Comments: 1 Shares: 2 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) The Difference is Clear Day 6: Energy Mitch Bolinsky voted NO to extend solar power programs and increase solar capacity.
-More energy supply.
-Cleaner air.
-Lower costs.
-That’s what Michelle Embree Ku will fight for—and why she’s proud to be endorsed by the Connecticut League of Conservation Voters.
-And, that’s the difference.
-Look it up!
-Reference: PA 24-31 and PA 26-127 House votes – both were bipartisan: www.cga.ct.gov/2024/VOTE/H/PDF/2024HV-00067-R00HB05232-HV.PDF www.cga.ct.gov/2026/VOTE/H/PDF/2026HV-00188-R00HB05340-HV.PDF Michelle Embree Ku Democrat for State Representative, 106th District #TheDifferenceIsClear #CTPolitics #solar #energy #cleanair #Connecticut #lookitup #newtownct #Connecticut … See More See Less Play View Comments Like reaction Love reaction Reactions: 24 Comments: 3 Shares: 3 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 3 Comments Comment on Facebook Michelle Embree Ku for Newtown #ago View on Facebook (opens in a new tab) Michelle has knocked on more than 4,000 front doors—not because it’s easy—because listening matters.
-She’s heard from neighbors about the issues affecting their daily lives, their families, and the future they want for our community.
-Michelle isn’t running to make promises from a distance.
-She’s running to show up, listen, and fight for the things that matter most to you.
-Your voice deserves to be heard—and your concerns deserve action.
-Join Michelle to build on a campaign rooted in our neighbors, our shared values, and a stronger future for everyone.
-Vote for Michelle Embree Ku Democrat for State Representative, 106th District.
-#newtown ct #Newtown #Connecticut #neighborhood #listen … See More See Less Play View Comments Like reaction Love reaction Haha reaction Reactions: 12 Comments: 1 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 1 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+#Newtown #newtownct Dave Ackert #conservation #climate #weather … See More See Less View Comments Like reaction Love reaction Reactions: 12 Comments: 2 Shares: 0 View on Facebook (opens in a new tab) Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) 2 Comments Comment on Facebook Load more Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
 Brian Hartgraves Treasurer.
 Approved by Michelle Embree Ku.

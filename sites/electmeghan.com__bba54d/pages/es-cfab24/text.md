@@ -15,7 +15,7 @@ I’m honored the to receive the @law Good policy is made by thoughtful folks us
 Thanks for having us, Philly!
 It’s a privilege t Wednesday screenshot dump 💥 Si bien las manzanas y la miel son habituales para el Rosh Hash Una colección de cosas de Internet que Los habitantes de Rhode Island tomaron una serie de decisiones decisivas Un momento tierno con un votante en las urnas este mes.
 Vote hoy por el transporte público en todo Rhode Island. ¡HOY es día de primarias y las urnas estarán abiertas hasta las 8 de la noche! ¡Última selfie de la campaña electoral de las primarias! ¡Último día para votar anticipadamente con #!
-En honor al Día del Trabajo #, uno de mis días favoritos del trabajo Cargar más Síguenos en Instagram sección-aa00400 ¡La democracia es alimentada por personas como tú!
+Cargar más Síguenos en Instagram sección-aa00400 ¡La democracia es alimentada por personas como tú!
 Sé el cambio Voluntario Voluntario sección-264f4f3 ¡Comparte tu visión, deja que se escuche tu voz!
 Ponerse en contacto Ponerse en contacto con Meghan Contacto sección-26466ab El líder que necesitamos "Meghan realmente escuchó mis preocupaciones sobre la vivienda, y vi lo duro que luchó por una vivienda asequible en nuestra ciudad.
 Estoy orgullosa de apoyar la candidatura de Meghan para el Senado estatal.

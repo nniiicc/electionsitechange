@@ -1,5 +1,5 @@
 Skip to content No AIPAC money, ever.
-Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Facebook Twitter Instagram VOTE NOVEMBER 3, 2026 Working people deserve real representation – not politicians bought by corporate PACs.
+Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Facebook Twitter Instagram VOTE NOVEMBER 3, 2026 Working people deserve real representation – not politicians bought by corporate PACs.
 Angélica Dueñas has never taken AIPAC money and never will.
 She answers only to you.
 A tireless advocate for the working class.

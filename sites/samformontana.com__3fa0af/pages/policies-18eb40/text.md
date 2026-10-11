@@ -1,9 +1,9 @@
-Skip to content Sam Forstag for Montana For All Of Us Home Policies Endorsements Get Involved Volunteer Jobs Events Store Home Policies Endorsements Get Involved Volunteer Jobs Events Store X-twitter Youtube Instagram Tiktok Facebook Menu Home Policies Endorsements Get Involved Volunteer Jobs Events Store Home Policies Endorsements Get Involved Volunteer Jobs Events Store Policies Endorsements Volunteer Donate Sam Forstag Policies MAKE MONTANA WORK FOR WORKING PEOPLE For a lot of us in Montana, costs have reached crisis levels.
+Skip to content Rush a donation to Sam's campaign today → X-twitter Youtube Instagram Tiktok Facebook Menu Volunteer Donate Sam Forstag's Positions On The Issues MAKE MONTANA WORK FOR WORKING PEOPLE For a lot of us in Montana, costs have reached crisis levels.
 Every Montanan should be able to work a job that pays well enough to afford housing, healthcare, childcare, and a good retirement.
 I’m running for Congress to give working Montanans a voice in Washington.
 We deserve a Representative who knows what it’s been like for so many of us to work more each year and still fall further behind, and we need a Representative who knows how to make the policy changes we’ll need to fix that.
 I spent a decade organizing and fighting between fire seasons for public education and libraries, housing and healthcare, reforming our justice system and defending our civil liberties.
-Whether it’s fighting fire or fighting for policies that will improve working peoples’ lives, you have to work with people regardless their political party.
+Whether it’s fighting fire or fighting for progressive policies, you have to work with people regardless their political party.
 That’s what it’ll take to win this election, and that’s what it’ll take to finally start passing the big, bold changes we need now!
 Make Housing Work for Working People I know what it’s like to work 1,000 hours of overtime each fire season and still have a bigger chunk of my paycheck go to housing every year, to work two or three jobs at a time and still end up paying rent on a credit card.
 Too many of our representatives don’t know what that’s like, and that’s a big part of why they haven’t done anything to fix it.
@@ -218,10 +218,23 @@ We should use tariffs to discourage our companies from offshoring jobs and other
 We should not use tariffs to punish our allies and create pointless chaos that raises costs for working families.
 Actually enforce labor and environmental standards in all our trade deals, so that countries can’t take advantage of our markets while using child labor, promoting other unsafe work practices, or creating environmental catastrophes.
 America should reassert its role as a responsible global leader, and leverage our markets to help create a safer, cleaner world.
-Spread The Word Let's Win This.
+Spread The Word Join Our Campaign No one else is coming.
+It's up to us.
+Taking Montana back for working people is going to to take all of us .
+This campaign is only possible because people are chipping in their time and hard-earned dollars to help take back Montana's 1st Congressional District.
+Support The Campaign Powered by people.
+No corporate PACs.
+Unlike Aaron Flint, Sam doesn’t take donations from corporate PACs.
+Sam’s counting on grassroots donors like you to pitch in and help grow his campaign.
+Donate Become a Volunteer We know that elections are won on the ground – by volunteers talking to their friends and neighbors.
+Raise your hand today and one of our organizers will be in touch about helping out!
+Join Us Help Spread The Word Follow Sam to stay up-to-date as he brings his campaign to every small town and big city across western Montana!
+Help get the word out by sharing his message online, wherever you are!
+Let's Win This.
 It's Going To Take All Of Us.
-Sign up to hear from Sam on upcoming events, campaign updates, and more.
-First Name Last Name Email Cell Phone (optional) Zip Code Let's Go!
+First Name Last Name Cell Phone Zip Code Email Join Us By providing your cell phone number you consent to receive recurring updates from Sam for Montana, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
 X-twitter Youtube Instagram Tiktok Facebook Sam is an organizer, a union leader, and a smokejumper – a firefighter who parachutes into remote areas to stop fires before they grow – running for Congress in Montana’s 1st District.
 Support his people-powered campaign by making a donation today!
-Donate Volunteer [email protected] Media Privacy Policy Jobs Checks can be mailed to: Sam for Montana PO Box 7224 Missoula MT 59807 Paid for by Sam for Montana (not by billionaires and corporate PACs) For All Of Us All rights reserved Home Endorsements In The News Policies Volunteer Jobs Events Store Home Endorsements In The News Policies Volunteer Jobs Events Store X-twitter Youtube Instagram Tiktok Close Menu
+Donate Volunteer [email protected] Media Privacy Policy Jobs Checks can be mailed to: Sam for Montana PO Box 7224 Missoula MT 59807 Paid for by Sam for Montana (not by billionaires and corporate PACs) Home Meet Sam Policies Endorsements Volunteer Jobs Events Store Home Meet Sam Policies Endorsements Volunteer Jobs Events Store X-twitter Youtube Instagram Tiktok Facebook Close Menu

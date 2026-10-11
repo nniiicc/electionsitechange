@@ -1,5 +1,6 @@
 0 Skip to Content Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Hawaii boldly chose to take corporate money out of its elections this year.
 Pennsylvania can do it too.
+I’m pledging to support it.
 THE PROBLEM Too much money in politics.
 The money that decides elections almost never arrives with a name on it.
 It moves from one entity to the next, and by the time you see it, it’s attributed to an unfamiliar group with an ambiguous name, and it takes a lot of work to tell whose money it was or why they spent it.

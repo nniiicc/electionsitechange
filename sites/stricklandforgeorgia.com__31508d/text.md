@@ -8,7 +8,7 @@ Vote for Brian Strickland for your next Georgia Attorney General this November 2
 Get Involved See His Record Georgia State Senator Senate Judiciary Chairman Experienced Attorney Fair.
 Experienced.
 Accountable.
-Endorsed by over 100 Leaders and Organizations so far General Election: November 3, 2026 Early Voting: October 12 - 30 Featured Endorsement Governor Brian Kemp Endorses Brian Strickland VOTE NOV 3, 2026 Click to Watch the Endorsement Join the Campaign Volunteer Voting Information Donate Today Help Brian Win “I'll fight for your family as hard as I fight for my own.” BRIAN STRICKLAND The Attorney General Should Matter in Everyday Life For most families, the biggest threats are not political.
+Endorsed by over 100 Leaders and Organizations so far General Election: November 3, 2026 Early Voting: October 13 - 30 Featured Endorsement Governor Brian Kemp Endorses Brian Strickland VOTE NOV 3, 2026 Click to Watch the Endorsement Join the Campaign Volunteer Voting Information Donate Today Help Brian Win “I'll fight for your family as hard as I fight for my own.” BRIAN STRICKLAND The Attorney General Should Matter in Everyday Life For most families, the biggest threats are not political.
 They are personal.
 It might be a scammer calling an elderly parent, a thief stealing a family's identity, or a dishonest business that takes people's money and disappears.
 It might be a criminal targeting a child online or a company taking advantage of families during an emergency.

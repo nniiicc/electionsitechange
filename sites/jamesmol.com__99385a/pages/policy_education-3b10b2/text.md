@@ -1,6 +1,6 @@
 top of page We're in the final stretch!
 If you would like to host a yard sign, please click on "Get Involved" - thank you!
-James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers TELL JAMES Young Voter Survey Policy / Education PLATFORM | PILLAR ONE School Funding Hartford writes the formula.
+James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil TELL JAMES Young Voter Survey Policy / Education PLATFORM | PILLAR ONE School Funding Hartford writes the formula.
 Our property taxes cover the difference.
 What I will do Download the one-pager (PDF) Sources: adopted town budgets FY2027; Connecticut State Department of Education, district profiles, expenditures by revenue source 2023-24.
 In one Minute $11,525 is the reason.

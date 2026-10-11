@@ -29,7 +29,7 @@ As we look at the checked flag that sits at the end of next week, we’ll contin
 I’ll keep you posted on how things shake out.
 If you would like more information about any of my work in Pierre or have any questions, please be sure to reach out.
 Have a great week! -Rep.
-Tordsen GET WEEKLY UPDATES Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen March 5, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates Post navigation Previous Post Previous post: SESSION WEEK SEVEN Next Post Next post: SESSION WEEK NINE Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Tordsen GET WEEKLY UPDATES Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen March 5, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates Post navigation Previous Post Previous post: SESSION WEEK SEVEN Next Post Next post: SESSION WEEK NINE Leave a Reply Cancel reply Comment Name Email Website Δ PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website %d

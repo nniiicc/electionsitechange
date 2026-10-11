@@ -16,12 +16,20 @@
 "href": "https://mikeklein4congress.com/events/"
 },
 {
+"text": "Facebook",
+"href": "https://www.facebook.com/mikeklein4congress/"
+},
+{
 "text": "Forgot password?",
 "href": "https://mikeklein4congress.com/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Fmikeklein4congress.com%2F"
 },
 {
 "text": "Gallery",
 "href": "https://mikeklein4congress.com/gallery/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/vote4klein/"
 },
 {
 "text": "Join",
@@ -56,12 +64,28 @@
 "href": "tel:+13524488603"
 },
 {
+"text": "Threads",
+"href": "https://www.threads.com/@vote4klein"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@klein4congress"
+},
+{
 "text": "Volunteer",
 "href": "https://mikekleinforcongress.nationbuilder.com/volunteer"
 },
 {
 "text": "Vote@mikeklein4congress.com",
 "href": "mailto:Vote@mikeklein4congress.com"
+},
+{
+"text": "X",
+"href": "https://x.com/klein4congress"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@MikeKlein4Congress"
 },
 {
 "text": "[image: MK_header_logo copy]",

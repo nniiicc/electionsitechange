@@ -1,11 +1,13 @@
-top of page Anna Munson for Salem House District 19 Home Donate Issues Events Endorsements Contact/Volunteer Terms & Conditions More...
-Use tab to navigate through the menu items.
-Contact Anna or Volunteer Contact Anna or Volunteer ​ Fill out the form below to: ​ • Request a lawn sign • Schedule a meet-and-greet • Volunteer to canvass • Get on our email list (we will never sell or rent your information) • Anything else * If requesting a lawn sign, please include your address and phone number.
-First name * Last name * Email * Phone Subject Type Your Message Here Send By providing my mobile number I consent to receive informational text messages from Munson Leadership PAC.
-Frequency may vary.
-Msg & Data rates may apply.
-Donations may be solicited.
-Text STOP to opt-out.
-Text HELP for help.
-For additional information, please see our Terms & Conditions and Privacy Policies .
-Mobile and opt-in data will not be shared with third parties. ​ ​ Munson Leadership PAC 4742 Liberty Road South #609 Salem, Or 97302 Email: voteannamunson@gmail.com Phone: 503-877-3662 Support Anna Munson For Salem House District 19 Donate Vote Anna Munson 4742 Liberty Road South #609 Salem, Oregon 97302 ~~~ VoteAnnaMunson@gmail.com Phone: 503-877-3662 PAC ID # 23340 Log In Vote Anna Munson for House District 19 | Munson Leadership PAC Privacy Policy Terms & Conditions bottom of page
+Skip to content Menu Home Issues Endorsements Compare Vote Contact Donate (opens in a new tab) Home / Contact Contact Anna or Volunteer Request a lawn sign, schedule a meet-and-greet, volunteer to canvass, or just say hello.
+Don’t fill this out Fill out the form to: Request a lawn sign Schedule a meet-and-greet Volunteer to canvass Get on our email list (we never sell or rent your information) Anything else First name * Last name * Email * Phone Address (for lawn signs) Message Text me campaign updates.
+By checking this box you agree to receive recurring automated informational and donation text messages from Munson Leadership PAC at the number above, which may be sent using an automatic telephone dialer.
+Consent is not a condition of any purchase.
+Message and data rates may apply.
+Reply STOP to opt out.
+See our Terms and Privacy Policy .
+Send If you are requesting a lawn sign, please include your address and phone number.
+We use your information only as described in our Privacy Policy .
+Reach Anna directly Mail: 4742 Liberty Road South #609 Salem, Oregon 97302 Email: VoteAnnaMunson@gmail.com Phone: 503-877-3662 Paid for by Munson Leadership PAC, PAC ID #23340.
+Want a lawn sign?
+Check “Request a lawn sign” on the form and include your address.
+Vote Anna Munson For Oregon House District 19 4742 Liberty Road South #609 Salem, Oregon 97302 VoteAnnaMunson@gmail.com 503-877-3662 Explore Issues Endorsements How to vote Compare the candidates District 19 map Get involved Donate (opens in a new tab) Volunteer Request a lawn sign Legal Privacy Policy Terms & Conditions Paid for by Munson Leadership PAC, PAC ID #23340.

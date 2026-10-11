@@ -10,13 +10,15 @@ We may make changes to these Terms from time to time.
 If we make changes, we may provide notice, such as by sending an email, posting a notice on our Website, or updating the date at the top of these Terms.
 Unless we state otherwise, amended Terms will be effective immediately, and your continued use of our Website after notice constitutes acceptance of the changes.
 If you have any questions about these Terms or our Website, please contact us at info@richmccormick.us .
-SMS/MMS Text Messaging Consent By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
-By participating, you agree to the terms & privacy policy for auto dialed messages from client to the phone number you provide.
-No consent is required to buy.
-Msg&data rates may apply.
-Reply HELP for help or STOP to opt-out at any time.
-SMS information is not rented, sold, or shared.
-Privacy Policy and Terms and Conditions apply.
+SMS/MMS Text Messaging Consent By selecting the SMS consent checkbox and providing your phone number, you agree to receive recurring SMS political updates, campaign news, event reminders, volunteer opportunities, and donation requests from Friends of McCormick.
+Donations may be solicited.
+Message frequency may vary.
+Standard Message and Data Rates may apply.
+Reply STOP to opt out.
+Reply HELP for help.
+We will not share mobile information with third parties for promotional or marketing purposes.
+Consent is not a condition of purchase.
+Our Privacy Policy also applies.
 Additional Terms Privacy: For information about how we collect, use, and share information about you, please see our Privacy Policy .
 User Conduct You agree not to engage in any of the following prohibited activities: Copying, distributing, or disclosing any part of the Site in any medium Using any automated system to access the Site Transmitting spam, chain letters, or other unsolicited communications Attempting to interfere with or compromise the system integrity or security Taking any action that imposes an unreasonable load on our infrastructure Uploading invalid data, viruses, or other harmful code Impersonating another person or misrepresenting your affiliation Intellectual Property The Site and its original content, features, and functionality are and will remain the exclusive property of Friends of McCormick.
 The Site is protected by copyright, trademark, and other laws.

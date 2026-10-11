@@ -20,7 +20,7 @@ Jackson answered Mainers directly about the challenges facing working families a
 Senate.
 “Mainers deserve elected officials who show up, listen to them, and answer their questions directly,” said Jackson.
 “That’s what I’ve always done, and that’s what I’m going to keep doing all across this state.
-People are worried about rising costs and whether Washington is actually working for them, and I want to hear directly from them about what they’re dealing with.” When asked about making things happen in Congress, Matt Dunlap reflected: “It sometimes was just being persistent in not giving up on an idea, and Troy and I both have a record of doing that , and that's how we're going to get it done.” ### To reach the campaign, email info@jacksonformaine.com .
+People are worried about rising costs and whether Washington is actually working for them, and I want to hear directly from them about what they’re dealing with.” When asked about making things happen in Congress, Matt Dunlap reflected: “It sometimes was just being persistent in not giving up on an idea, and Troy and I both have a record of doing that , and that's how we're going to get it done.” ### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

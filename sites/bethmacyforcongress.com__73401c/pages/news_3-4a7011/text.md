@@ -1,4 +1,17 @@
-Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All March 11, 2026 One Country Podcast ‘Dopesick’ author Beth Macy joins The Hot Dish March 11, 2026 One Country Podcast In this episode, Beth Macy joins Heidi and Joel to discuss her compelling journey from journalist to political candidate.
+Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All April 22, 2026 CVille Right Now Redistricting sets up showdown between Tom Perriello, Beth Macy April 22, 2026 CVille Right Now If the Virginia Supreme Court upholds Tuesday’s redistricting vote, what will it mean for Albemarle County and Charlottesville?
+“The people of Roanoke and western Virginia asked me to run because I gave them hope,” Macy told Cville Right Now on Wednesday.
+“They said, ‘You have the unique ability to hold corporations and politicians accountable.’ I […] ...
+Read More March 20, 2026 WFXR News Republicans and Democrats Disagree on Efforts to Redraw Congressional Districts March 20, 2026 WFXR News Read More March 19, 2026 Augusta Free Press Local Democrats in the Sixth District have met the enemy: And it is us March 19, 2026 Augusta Free Press Local Democrats are bound and determined to f—k up the 2026 midterms, to a point where I’m wondering if it will do us any good to pass the redistricting referendum, and still lose to the feckless Ben Cline.
+I ask this after another Beth Macy listening tour event in my backyard found itself hijacked by the living, breathing definition of […] ...
+Read More March 16, 2026 Daily News Record Beth Macy meets with Shenandoah Valley readers and voters March 16, 2026 Daily News Record Journalist turned book writer turned Congressional hopeful Beth Macy participated in two different Shenandoah Valley events on Sunday that attracted two different types of audiences.
+The first event, an author talk and reception hosted by Charlottesville National Organization for Women at the Shenandoah Valley Art Center, was billed as nonpolitical.
+That standing-room-only event featured a […] ...
+Read More March 12, 2026 Substack Ladies, We’ve Got Shit to Do March 12, 2026 Substack Happy Women’s History Month!
+Back in 1982, when it first began, they only gave us a week.
+Women still earn 82 cents for every dollar a man makes, so we’re used to being shortchanged.
+By the way: that number went down after Donald Trump took office again last year.
+How about the recent passage of […] ...
+Read More March 11, 2026 One Country Podcast ‘Dopesick’ author Beth Macy joins The Hot Dish March 11, 2026 One Country Podcast In this episode, Beth Macy joins Heidi and Joel to discuss her compelling journey from journalist to political candidate.
 She explores how her books illuminate the struggles of rural communities facing economic and social upheaval, and how storytelling can serve as a catalyst for political change.
 Beth shares her insights on reconnecting with voters across […] ...
 Read More March 10, 2026 Augusta Free Press Interview: Journalist, bestselling author, congressional candidate Beth Macy March 10, 2026 Augusta Free Press Beth Macy did a sitdown with me for this week’s “Street Knowledge” podcast.
@@ -71,10 +84,7 @@ They want leaders […] ...
 Read More October 29, 2025 The Atlantic A Writer Who Did What Hillbilly Elegy Wouldn’t October 29, 2025 The Atlantic Urbana, Ohio, is a small city of 11,000, where nearly three out of four voters went for Donald Trump in the 2020 presidential election.
 The journalist Beth Macy, who in her previous books chronicled the widening fissures in American society by examining the opioid crisis and the aftereffects of globalization, grew up there.
 In Paper Girl, she returns to Urbana—a place beset by economic decline, dwindling public resources, failing schools, and the disappearance of local...
-Read More October 22, 2025 The New Yorker The Muscular Compassion of “Paper Girl” October 22, 2025 The New Yorker Ever since Donald Trump was first elected President in 2016, a slew of books have attempted to reckon with the growing divide between urban and rural populations in the United States.
-Few do so as deftly as Beth Macy’s new book, “Paper Girl: A Memoir of Home and Family in a Fractured America.” Throughout her career as a journalist, Macy has covered rural poverty and corporate greed.
-Her 2014 book, “Factory Man,” followed a Virginia...
-Read More Page 1 Page 2 Page 3 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
+Read More Page 1 Page 2 Page 3 Page 4 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.

@@ -1,6 +1,6 @@
 Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
 Not a member?
-Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=f0c2681bf9 MEET JAMIE A graduate of Russellville High School, Jamie Kiel started his company — Kiel Equipment — while working toward his Management and Marketing degree at the University of North Alabama.
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=ae4a6dece5 MEET JAMIE A graduate of Russellville High School, Jamie Kiel started his company — Kiel Equipment — while working toward his Management and Marketing degree at the University of North Alabama.
 What began as a local business #ago now serves customers across Alabama, Mississippi and Tennessee.
 Kiel, in his second term in the Alabama House of Representatives, serves as Vice Chairman of the House Education Ways and Means Committee.
 In addition, he serves on the Insurance Committee, Ports and Waterways Committee, and State Government Committee.

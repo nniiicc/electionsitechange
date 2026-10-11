@@ -14,7 +14,7 @@ Limit Presidential pardon powers.
 “Members of Congress are not above the people they serve.
 Public service comes with responsibility, not special privileges.
 If we want to end corruption and restore trust in our government, then we must end insider privilege and put the public first.
-I welcome every candidate, including Brian Mast, in this race to join me in taking this pledge.” ### If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+I welcome every candidate, including Brian Mast, in this race to join me in taking this pledge.” ### Media If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
 Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
 Commander in the United States Coast Guard Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

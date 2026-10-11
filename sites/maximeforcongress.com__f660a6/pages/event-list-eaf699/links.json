@@ -37,6 +37,10 @@
 },
 {
 "text": "Details",
+"href": "https://www.maximeforcongress.com/event-details/meet"
+},
+{
+"text": "Details",
 "href": "https://www.maximeforcongress.com/event-details/non-partisan-candidates-forum"
 },
 {
@@ -100,10 +104,6 @@
 "href": "https://www.maximeforcongress.com/about"
 },
 {
-"text": "Meet the Candidate | Dr. Kedner Maxime",
-"href": "https://www.maximeforcongress.com/event-details/meet"
-},
-{
 "text": "News",
 "href": "https://www.maximeforcongress.com/blog"
 },
@@ -114,10 +114,6 @@
 {
 "text": "Privacy Policy",
 "href": "https://www.maximeforcongress.com/privacy-policy"
-},
-{
-"text": "RSVP",
-"href": "https://www.maximeforcongress.com/event-details/meet"
 },
 {
 "text": "Small Business",

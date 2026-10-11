@@ -4,7 +4,7 @@ Satish Chapagain is running for Maryland State Delegate in District 7A — to pu
 Donate Volunteer Make Your Plan to Vote Power this campaign Chip in today — every dollar helps us reach more neighbors.
 Donate Now Countdown to Election Day Tuesday, November 3, 2026 Every day counts.
 Make your plan to vote today.
-23 Days 13 Hours 14 Minutes 50 Seconds Not sure where to vote?
+22 Days 13 Hours 11 Minutes 05 Seconds Not sure where to vote?
 Find Your Polling Place This November Vote for Satish Chapagain Maryland House of Delegates · District 7A Make Your Plan to Vote A Letter From Satish Why I'm running for our community I'm Satish Chapagain, and I'm running for Delegate because our neighbors in Perry Hall, White Marsh, Kingsville, Middle River, and Bowleys Quarters deserve a representative who listens first and delivers results.
 For too long, families here have felt unheard — struggling with the cost of living, under-resourced schools, and roads that need real investment.
 I've spent my life bringing people together and solving problems, and I'll carry that same spirit to Annapolis.

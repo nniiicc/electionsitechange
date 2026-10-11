@@ -1,4 +1,4 @@
-Meet John Volunteer Donate Events: Thursday August 28, 2025 at 6pm Lakes Region Republican Coalition at the Bridgton Community Center #ago This Week This Month ‹ Previous Sat Oct 10 2026 - Sun Oct 10 2027 Next › No events in this range Try a different date range, or check back soon for new events.
+Meet John Volunteer Donate Events: Thursday August 28, 2025 at 6pm Lakes Region Republican Coalition at the Bridgton Community Center #ago This Week This Month ‹ Previous Sun Oct 11 2026 - Mon Oct 11 2027 Next › No events in this range Try a different date range, or check back soon for new events.
 VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
 Voter Information Yard Signs Events Contact Paid for by the candidate, not at taxpayer expense.
 Powered by CampaignPartner.com - Political Campaign Websites Home Meet John Donate Volunteer Yard Signs Events Contact Voter Information Close Menu

@@ -1,14 +1,2 @@
-First Name
-Last Name
-Email
-Cell
-Zip Code
-By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Friends of Tami Tran.
-Message frequency varies.
-Message and data rates may apply.
-Donations may be solicited.
-Text HELP for help.
-Text STOP to unsubscribe.
-SMS opt-in data will not be shared or sold with 3rd parties.
-Privacy Policy
-Terms and Conditions
+Skip to main content Hit enter to search or ESC to close Search Close Search Menu Home Meet Tami Debates Issues Endorsements Donate Contact [contact-form-7 id=”224″] Paid for by Friends of Tami Tran © # Tami Tran.
+Close Menu Home Meet Tami Debates Issues Endorsements Donate Contact

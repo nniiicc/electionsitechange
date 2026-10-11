@@ -121,7 +121,7 @@ We should be the unequivocal leader on the front range High Taxes and repeal or 
 Includes Assessment of VET Homelessness b.
 Address Veteran Affairs issues and impacts on day-to-day needs of our Vets Women work as hard as men.
 In many cases for less pay and at multiple jobs.
-I want to work to change this This agenda represents a start on how we can make our community and our state even better.
+I want to work to change this No data centers until all funding, resource management (water/electrical costs) noise and any other concerns are adjudicated and approved by the CITIZENS of El Paso County This agenda represents a start on how we can make our community and our state even better.
 In fact my motto is, and has always been, Colorado 1st.
 I definitely want to thank Bethany Winder, Sarah Emery, David Perkins, Melanie Cress, Katie Beitanny, Rebekah Bryson and our Party Chairman for making this campaign possible and bringing a zest for making Colorado and our Community a better place.
 I also thank every member of my family both local and across the country that have stuck by me over the past year and a half.

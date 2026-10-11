@@ -42,5 +42,5 @@ Agriculture Curriculum Add age-appropriate agricultural activities or lessons in
 How the Public Wins Cuts property taxes by moving school operating costs to the state.
 Guarantees every teacher at least $50,000 and a classroom budget so they’re not buying supplies out-of-pocket.
 Locks in minimum education funding in state law so schools stop living referendum to referendum; and we do it without raising taxes.
-Leave a Reply Cancel reply Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Leave a Reply Cancel reply Comment Name Email Website Δ Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
 Type your email… Subscribe Recent posts Statement on Senator Alting Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .

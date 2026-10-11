@@ -3,5 +3,5 @@ As a candidate for Congress in South Carolina’s 2nd District, he highlights ho
 The world is changing, and our leadership should too.
 This campaign is about stepping forward with new energy, new ideas, and a commitment to building a future that reflects the people of today, not the past.
 Previous No Kings Rally, Nick Cannon comments on Democrats, Stephen A Smith on the Iran war | EP.
-113 Next Speaking at Friendship Baptist Church You Might Also Like The Type Of Candidate I Am No Kings Rally, Nick Cannon comments on Democrats, Stephen A Smith on the Iran war | EP.
-113 Meet Zyon Khalifa Platform Volunteer Privacy Policy
+113 Next Speaking at Friendship Baptist Church You Might Also Like No Kings Rally, Nick Cannon comments on Democrats, Stephen A Smith on the Iran war | EP.
+113 The Type Of Candidate I Am Meet Zyon Khalifa Platform Volunteer Privacy Policy

@@ -2,7 +2,7 @@
 Choose how you'd like to help below.
 Make a Donation Your financial support fuels our grassroots campaign.
 We accept donations through multiple convenient methods.
-P PayPal Click to donate securely via PayPal PayPal.me/DrLHHarris328 Donate via PayPal V Venmo Send via Venmo on mobile @Lisa-Harris-1228 Donate via Venmo Check by Mail Make checks payable to Lisa Holliday Harris Lisa Holliday Harris 1151 S 4th St Suite 202 Louisville, KY 40203 Make checks payable to Lisa Holliday Harris Get Involved Want to volunteer, canvass, or help spread the word?
+P PayPal Click to donate securely via PayPal PayPal.me/DrLMHarris338 Donate via PayPal V Venmo Send via Venmo on mobile @Lisa-Harris-1228 Donate via Venmo Check by Mail Make checks payable to Lisa Holliday Harris Lisa Holliday Harris 1151 S 4th St Suite 202 Louisville, KY 40203 Make checks payable to Lisa Holliday Harris Get Involved Want to volunteer, canvass, or help spread the word?
 Fill out the form below and a member of our team will reach out.
 Name Email * Phone What can our campaign help our city do better?
 Tell us more about how you'd like to get involved.

@@ -35,13 +35,13 @@ My focus won’t be on policing our personal lives: instead, it’ll be to grow 
 Building Strong Communities I will ensure that Nebraska is a place where our children will want to live when they grow up.
 In addition to creating economic opportunities, we need to ensure our communities are thriving so families want to live here.
 We need strong schools, vibrant community spaces, strong main streets, and continued investments for police officers and firefighters to keep us safe.
-Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) Jim Pillen has had four years and a billion-dollar surplus to fix property taxes.
+Stay Connected Used for the like, share, comment, and reaction icons (opens in a new tab) Lynne Walz for Nebraska (opens in a new tab) I spent Saturday morning in the Old Market, where the Omaha Farmers Market was in full swing.
+Small businesses like Stories Coffee deserve a Governor who understands what it takes to keep their doors open.
+Thank you to every vendor out here today! ...
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Sad reaction Angry reaction Reactions: 988 Shares: 22 Comments: 62 62 Comments Comment on Facebook Jim Pillen has had four years and a billion-dollar surplus to fix property taxes.
 Nebraskans are still waiting for relief.
 This morning in Lincoln, Ben and I sat down with farmers and fiscal experts to talk about why these bills keep climbing - and what it will actually take to bring them down. ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 720 Shares: 58 Comments: 102 102 Comments Comment on Facebook 🚨Another week, another poll showing this race tied.
-Four weeks out, we've moved to being neck and neck with Jim Pillen.
-Help us carry it across the finish line and build a better Nebraska. secure.actblue.com/donate/lwne-all-social-oct2026-fr-yougovpoll ...
-See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Wow reaction Angry reaction Reactions: 852 Shares: 25 Comments: 202 202 Comments Comment on Facebook Lynne Walz Follow 987 2,833 Proud wife, mother, grandmother, and Nebraskan.
+See More See Less #ago View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Haha reaction Angry reaction Reactions: 1040 Shares: 94 Comments: 141 141 Comments Comment on Facebook Lynne Walz Follow 987 2,830 Proud wife, mother, grandmother, and Nebraskan.
 Running to be Nebraska’s next Governor.
 Lynne Walz @lynnewalz · 7 Oct 2107907235590623363 🚨Another week, another poll showing this race tied.
 Four weeks out, we've moved to being neck and neck with Jim Pillen.

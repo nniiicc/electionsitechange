@@ -2,9 +2,9 @@ top of page Meet Dr.
 Maxime Issues Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Lower Costs Immigration Healthcare Education Ownership Equity Jobs & Economic Security Small Business Accountability Students & Opportunity Civility & Unity Get Involved Events News DONATE Our Events See where the campaign is headed next.
 Every event is a chance to meet Dr.
 Maxime, ask questions, and join the movement for District 20.
-Upcoming Events Meet the Candidate | Dr.
-Kedner Maxime Sat, Oct 10 First Haitian Baptist Church Your Invited!
-RSVP Past Events Fri, Sep 25 Nonpartisan Candidates Forum | Dr.
+Upcoming Events No events at the moment Past Events Sat, Oct 10 Meet the Candidate | Dr.
+Kedner Maxime / First Haitian Baptist Church Details Oct 10, 2026, 6:00 PM – 8:00 PM First Haitian Baptist Church, 1108 NW 1st Ave, Fort Lauderdale, FL 33311, USA Your Invited!
+Fri, Sep 25 Nonpartisan Candidates Forum | Dr.
 Kedner Maxime / Cultural Arts Center John Knox Village o Details Sep 25, 2026, 2:00 PM – 4:00 PM Cultural Arts Center John Knox Village o, 820 Lakeside Cir, Pompano Beach, FL 33060, USA Fri, Sep 18 Tamarac Hispanic Heritage Month Celebration | Dr.
 Kedner Maxime / Tamarac Village Amphitheater Details Sep 18, 2026, 6:30 PM – 10:30 PM Tamarac Village Amphitheater, 9090 NW 57th St, Tamarac, FL 33321, USA Dr.
 Kedner Maxime joins Tamarac families for the City's annual Hispanic Heritage Month Celebration, featuring live music, cultural performances, and local vendors.

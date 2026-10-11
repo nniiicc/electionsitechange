@@ -1,4 +1,4 @@
-A Aaron Schweiger For MN, House 3B About Issues News Vote Get Involved Contact Donate Issues The issues that matter most Aaron’s priorities for families, workers, and communities across House District 3B.
+A Aaron Schweiger For MN, House 3B About Issues Our Endorsements News Vote Get Involved Contact Donate Issues The issues that matter most Aaron’s priorities for families, workers, and communities across House District 3B.
 Key Issues Building a stronger Minnesota for everyone Cost Of Living Our community is facing a cost of living crisis.
 More and more, the price of the basics we rely on, like food, energy, and housing, is rising ahead of wages and squeezing our pocketbooks.
 I will be laser-focused every day on making sure our residents can afford their lives and build a future for their families.
@@ -11,3 +11,6 @@ We all bear this cost.
 I will work tirelessly to hold healthcare insurance companies and providers accountable to their duty to provide adequate care and ensure our residents’ health comes before corporate profits.
 Education Providing our children with a strong public education is a cornerstone to building prosperity.
 When we invest in our students, we’re not only providing youth with a solid foundation to pursue their own dreams and passions, we’re also empowering the next generation of Minnesota’s workforce to succeed in an everchanging world.
+A Aaron Schweiger Quick Links About Issues Our Endorsements News Vote Get Involved Contact PO BOX 1133 Proctor, MN 55810 (218) 721-6333 info@aaronformn.com Follow Us © # Aaron Schweiger for MN, House 3B.
+All rights reserved.
+Paid for by Aaron Schweiger for the Minnesota House Campaign Finance Committee

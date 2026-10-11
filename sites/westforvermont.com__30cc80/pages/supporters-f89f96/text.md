@@ -1,20 +1,21 @@
 top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE It’s about neighbors who believe Vermont can be the best place in America to raise a family.
 I’m grateful for every person who has placed their trust in me, and I’m proud to share some of their voices below.
 This campaign has never been about one person.
-Endorse Thomas Volunteer Donate Community Leaders Supporting Thomas "Thomas cares deeply about our community and the people who live here.
+Endorse Thomas Volunteer Donate Community Leaders Supporting Thomas ​ Becca Balint Vermont At-Large U.S.
+Congress "I was delighted to hear when Thomas West was running for House Representative!
+Thomas will bring great qualities — and experience — to the role, and continue the high standards of public service set by Representative Kathleen James.
+Thomas is someone who will show up, listen, and deliver for his constituents — and Vermont." Jim Ramsey Past Chair Vermont Democratic Party "Thomas West is the type of leader I want representing me and my family at the State House.
+A family man with integrity and genuine concern for the wellbeing of his district and constituents. " Kimberly Ziselman Senior Advisor Outright International "Thomas cares deeply about our community and the people who live here.
 He understands that our challenges are complex and interconnected and that the solutions will take a lot of listening, to all voices, to all ideas.
 He’s focused on results that really work — for Vermont and for Vermonters.
 I trust him to be a thoughtful, engaged and hard-working representative for our district in the State House.
-He’s earned my respect and my vote.” Kathleen James Bennington - 4 State Representative "Thomas West is a candidate that gives me hope.
-As a leader from a newer generation than mine, Thomas will find solutions to the problems that face our communities." Mike Nawrath Town Moderator '01-'26 State Representative '75-'80 "Thomas West understands the needs of all Vermonters.
-He knows that affordable housing is connected to everything—to retaining the workers and families that live here, job growth, and attracting people who want to live and raise families in Vermont.
-Thomas is deeply engaged in our community, and I look forward to working with him in the State House to support our towns of Arlington, Manchester, Sandgate, and Sunderland, and all Vermonters." Rob Hunter Bennington - 4 State Representative “As Thomas’s husband, I’ve had a front-row seat to the values that guide his life: service, integrity, and an unwavering belief that every person deserves to be treated with dignity and respect.
+He’s earned my respect and my vote.” Kathleen James Bennington - 4 State Representative “As Thomas’s husband, I’ve had a front-row seat to the values that guide his life: service, integrity, and an unwavering belief that every person deserves to be treated with dignity and respect.
 But beyond our personal relationship, I’ve watched him dedicate himself to our community, our family, and causes larger than himself.
 Vermont needs leaders who listen first, work hard, and put people above politics.
-That’s exactly who Thomas is, and why I’m proud to support his candidacy.” Jonathan West Member Manchester Selectboard "I was delighted to hear when Thomas West was running for House Representative!
-Thomas will bring great qualities — and experience — to the role, and continue the high standards of public service set by Representative Kathleen James.
-Thomas is someone who will show up, listen, and deliver for his constituents — and Vermont." Jim Ramsey Past Chair Vermont Democratic Party "Thomas West is the type of leader I want representing me and my family at the State House.
-A family man with integrity and genuine concern for the wellbeing of his district and constituents. " Kimberly Ziselman Senior Advisor Outright International Why Neighbors Are Supporting Thomas " Inspired by Thomas’s story as a veteran, a dad, and his work to help prevent substance use disorder in Southern Vermont, I believe he’s dedicated to making our state the best place to raise a family.
+That’s exactly who Thomas is, and why I’m proud to support his candidacy.” Jonathan West Member Manchester Selectboard "Thomas West understands the needs of all Vermonters.
+He knows that affordable housing is connected to everything—to retaining the workers and families that live here, job growth, and attracting people who want to live and raise families in Vermont.
+Thomas is deeply engaged in our community, and I look forward to working with him in the State House to support our towns of Arlington, Manchester, Sandgate, and Sunderland, and all Vermonters." Rob Hunter Bennington - 4 State Representative "Thomas West is a candidate that gives me hope.
+As a leader from a newer generation than mine, Thomas will find solutions to the problems that face our communities." Mike Nawrath Town Moderator '01-'26 State Representative '75-'80 Why Neighbors Are Supporting Thomas " Inspired by Thomas’s story as a veteran, a dad, and his work to help prevent substance use disorder in Southern Vermont, I believe he’s dedicated to making our state the best place to raise a family.
 Thomas is determined to help find affordable housing solutions and listen to the needs of folks who are often unheard.
 Having been an intelligence specialist in the army, he has the acuity and discipline to make a difference.
 We’re lucky to have Thomas and his precious family in our community.

@@ -45,7 +45,7 @@ We're losing heating assistance.
 We're losing so much.
 And she wants to crow about the fact that she advanced the bill so she could get $190 million rural health care fund.
 Well, that's a pittance to what we're losing. ” “She wants to do whatever Donald Trump wants. [...] We're watching our healthcare system here in Maine crash so that Elon Musk could have more money .
-And I can't understand how anyone in their right mind can actually defend that vote.” [She’s] trading our health care for Elon Musk getting tax cuts , and for me, it's pretty clear what what went on, and and it really it pisses me off. ” ### To reach the campaign, email info@jacksonformaine.com .
+And I can't understand how anyone in their right mind can actually defend that vote.” [She’s] trading our health care for Elon Musk getting tax cuts , and for me, it's pretty clear what what went on, and and it really it pisses me off. ” ### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

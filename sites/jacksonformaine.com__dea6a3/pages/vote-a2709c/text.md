@@ -5,7 +5,7 @@ Early In-Person Voting Starts on October 5 You can vote early in-person at your 
 Check your municipal clerk's office hours for In-Person Absentee Voting availability.
 Mail-in Voting Request by October 29 To vote by mail, your absentee ballot request must be received by the close of business on Thursday, October 29.
 Voters can request absentee ballots online here.
-Check if you're registered to vote Register to vote Request a mail ballot Early voting locations IWILLVOTE.COM MAINE.GOV/VOTE To reach the campaign, email info@jacksonformaine.com .
+Check if you're registered to vote Register to vote Request a mail ballot Early voting locations IWILLVOTE.COM MAINE.GOV/VOTE Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

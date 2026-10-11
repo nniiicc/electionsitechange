@@ -1,11 +1,10 @@
 {
  "description": "cindyryu.com's campaign",
  "final_url": "https://www.cindyryu.com/events",
- "fingerprint": "a1b21a86ec830438ac826ba37c1cd8a3779aea68",
+ "fingerprint": "1fb42eec1c9b20c9f242089cddb1911a662441b3",
  "format": 3,
  "paid_for_by": "Paid for by Friends For Cindy Ryu (D) PO Box 33548 Seattle, WA 98133 You need to enable JavaScript to run this app",
+ "rendered": false,
  "title": "Events — cindyryu.com",
- "years_mentioned": [
-  "2011"
- ]
+ "years_mentioned": []
 }

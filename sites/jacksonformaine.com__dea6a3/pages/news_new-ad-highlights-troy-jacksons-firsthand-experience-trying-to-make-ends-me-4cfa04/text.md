@@ -24,7 +24,7 @@ The people in power aren't suddenly going to make it easy for all of us.
 That's why I've been fighting back to protect Social Security and Medicare, and to cut taxes for working people, because you should keep more of what you earn.
 Mainers aren't looking for a handout, but we all deserve a fair shot.
 I'm Troy Jackson, and I approve this message.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

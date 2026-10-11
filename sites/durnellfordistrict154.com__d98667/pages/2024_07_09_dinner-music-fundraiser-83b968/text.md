@@ -11,7 +11,7 @@ Per MO Ethics Commission, online donations or donations by check are limited to 
 Contributions must be from individuals, not businesses or LLCs (unless the LLC is registered with MEC).
 Cash donations are limited to $#/person/election cycle.
 Thank you so much for your support of my campaign!
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a comment Cancel reply Δ Previous Post BIG ANNOUNCEMENT!!!
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Previous Post BIG ANNOUNCEMENT!!!
 Next Post DevTalks Podcast Interview April 2024 Quote of the week “For too long, we have allowed the left to chip away at the values we hold dear.
 I have watched the political processes in our state the last few years and feel that we really need a change toward true conservatism before we lose any more ground .” ~ Lisa Durnell Durnell For District 154 Lisa durnell It’s time for good people to step up and fight for Missouri and Howell County.
 Pages About Policy Positions Ways to Help!

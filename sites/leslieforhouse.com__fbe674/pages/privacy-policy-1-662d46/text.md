@@ -20,4 +20,4 @@ Limitation of Liability 7 Leslie Gerrish for House is not liable for any direct,
 Termination 8 Leslie Gerrish for House reserves the right to suspend or terminate services for any reason.
 Users may also opt out of all communications at any time by contacting us at (605) xxx-xxxx or by using the opt-out methods described in Section 3.
 Contact Information 9 For questions regarding these Terms of Service or to manage your communication preferences, contact us at (605) 496-9642.
-Terms & Conditions ‍ ‍| Privacy Policy Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069
+Terms & Conditions ‍ ‍| Privacy Policy Paid for by Leslie Gerrish for House Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069

@@ -1,4 +1,4 @@
-0 Skip to Content Home About Elect Judge David Stevens DONATE TODAY Open Menu Close Menu Open Menu Close Menu Home About Elect Judge David Stevens DONATE TODAY Home About DONATE TODAY Endorsed by the “A frequent recurrence to fundamental principles is essential to the security of individual right and the perpetuity of free government.” Art.
+0 Skip to Content Home About Endorsements Elect Judge David Stevens DONATE TODAY Open Menu Close Menu Open Menu Close Menu Home About Endorsements Elect Judge David Stevens DONATE TODAY Home About Endorsements DONATE TODAY Endorsed by the “A frequent recurrence to fundamental principles is essential to the security of individual right and the perpetuity of free government.” Art.
 1 Sec.
 32, Washington State Constitution.
 At its core, the Washington State Supreme Court’s role is to ensure that state laws and regulations align with the Constitution’s fundamental principles.

@@ -46,7 +46,10 @@ See our Privacy Policy and Terms here .
 Sign the Petition Pennsylvania Communities First Pennsylvanians working together for the common good have built strong communities across the Commonwealth, achieving remarkable accomplishments and inspiring pride.
 Raising Hope in Pennsylvania Campaign launch Honor the legacy of freedom William Penn established by sharing the best about the community you love and are proud to call home.
 Share what you love about the commonwealth: Full Name (Required) Email (Required) Link to Your Video ...Or Upload a File Accepted file types: mp4, mov, m4v, webm, Max. file size: 48 MB.
-Your Message (optional) Submit My Video Latest From This Campaign The latest from Stacy Garrity on the campaign trail. @GarrityForPA #ago PA has some of the highest gas and property taxes in the nation.
+Your Message (optional) Submit My Video Latest From This Campaign The latest from Stacy Garrity on the campaign trail. @GarrityForPA #ago Out-of-state data center developers have found a new friend in Harrisburg, and his name is Josh Shapiro.
+He's taken more than $5 million in campaign contributions from these developers.
+I called on Shapiro to give the money back.
+I also called for a pause on data center development. 🔗: https://t.co/u0YXyb7MWI #DataCenters #JoshShapiro #GarrityRichey View Post on X → @GarrityForPA #ago PA has some of the highest gas and property taxes in the nation.
 Yes Josh Shapiro just made himself the highest-paid Governor in the country.
 I served our country in the Middle East and earned the Bronze Star twice.
 As your Governor, I'll cap school property taxes and restart our economy.
@@ -68,8 +71,7 @@ What do you want the Governor to answer for tonight?
 Take 30 seconds and tell me: https://t.co/Krq42ieITK View Post on X → @GarrityForPA #ago Pennsylvanians deserve an insurance system that works for them, not against them.
 #GarrityRichey https://t.co/JNslfBrE4g View Post on X → @GarrityForPA #ago It’s always a great time at the Bloomsburg Fair! https://t.co/cvu8XK3du6 View Post on X → @GarrityForPA #ago Pennsylvanians deserve a real shot at the American Dream.
 It's time to address the rising costs making that dream harder to achieve.
-#GarrityRichey https://t.co/VYobNai5tf View Post on X → @GarrityForPA #ago The least transparent Governor in America got caught trying to sneak a 502 page invasion of privacy and parental rights through, and he was caught.
-Thank you to every Pennsylvanian who joined me in speaking out and having your voice heard! https://t.co/TPDyQqe0Yi View Post on X → Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
+#GarrityRichey https://t.co/VYobNai5tf View Post on X → Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
 All Rights Reserved.
 Garrity for PA 4075 Linglestown Rd.
 #119 Harrisburg, PA 17112 X-twitter Instagram PAID FOR BY GARRITY FOR PA Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.

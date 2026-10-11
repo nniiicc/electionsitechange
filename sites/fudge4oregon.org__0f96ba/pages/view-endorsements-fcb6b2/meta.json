@@ -1,9 +1,10 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.fudge4oregon.org/view-endorsements",
- "fingerprint": "cf53552784459bac91c2ea1564feac1ab12884b5",
+ "fingerprint": "c9b2a9b0bb6f50a7fcb220fc8d18607327ec365a",
  "format": 3,
  "paid_for_by": "paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner",
+ "rendered": false,
  "title": "View Endorsements",
  "years_mentioned": []
 }

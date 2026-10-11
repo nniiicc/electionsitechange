@@ -25,7 +25,7 @@ They also discussed how Maine’s next U.S. senator could help decide who fills 
 “We made sure that lower-income women had care and Mainecare.
 You know, these things are a big, big deal.” “I just want to thank you for the work that you do,” said Nicole Clegg, President and CEO of Planned Parenthood Maine Action Fund.
 “And then I'm gonna just say I find it really fascinating that Susan Collins and her campaign keep saying that ‘well, these aren't problems in Maine’ and the reason they're not problems in Maine is because of the work that you do.” Earlier in the day, Troy attended a roundtable with Planned Parenthood leaders and advocates, hearing their personal experiences with reproductive health care and discussing his commitment to defending their rights in Washington.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

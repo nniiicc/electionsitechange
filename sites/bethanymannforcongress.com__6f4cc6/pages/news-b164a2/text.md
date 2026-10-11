@@ -3,16 +3,15 @@ Join us ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Menu ☰ Meet Bethany The iss
 IDEAS.
 CONVERSATIONS.
 Follow the campaign and find ways to connect.
-PRESS RELEASE Bethany Mann opposes ruling enacting gerrymandered Missouri congressional map Mann calls for accountability and respect for Missouri voters.
+PRESS RELEASE Bethany Mann Calls for Paid Moratorium on New Data Center Construction Until Missouri Communities Have a Say Mann calls for community consent, continued pay for union workers, full lifecycle planning, resource protections, and corporate accountability before additional large-scale data center development moves forward October 10, 2026 Read story ↗ PRESS RELEASE Bethany Mann opposes ruling enacting gerrymandered Missouri congressional map Mann calls for accountability and respect for Missouri voters.
 September 10, 2026 Read story ↗ FROM THE ARCHIVE Defending our water.
 Protecting public health.
 Why Bethany’s campaign puts safe drinking water at the center of the conversation.
-September 10, 2024 Read story ↗ FROM THE ARCHIVE A look back at the 2024 campaign Read the campaign’s reporting on the 2024 race in Missouri’s 3rd District.
-September 5, 2024 Read story ↗ AROUND THE DISTRICT Meet Bethany.
+September 10, 2024 Read story ↗ AROUND THE DISTRICT Meet Bethany.
 Meet your neighbors.
 Explore campaign events → Stories open on the campaign’s existing website.
 Older stories are marked as archive content.
-Campaign archive September 10, 2026 BETHANY MANN OPPOSES RULING ENACTING GERRYMANDERED MISSOURI CONGRESSIONAL MAP Mann condemns efforts to override Missouri voters and calls for accountability for election interference… Read more → September 10, 2024 Chemical Industry Scientists Threaten Public Health: Why the 3rd District Needs Bethany Mann to Defend Our Water Recent revelations have exposed a troubling plan by scientists with financial ties to the chemical industry to undermine crucial drinking water protections.
+Campaign archive October 10, 2026 Bethany Mann Calls for Paid Moratorium on New Data Center Construction Until Missouri Communities Have a Say Mann calls for community consent, continued pay for union workers, full lifecycle planning, resource protections, and corporate accountability before additional large-scale data center development moves forward… Read more → September 10, 2026 BETHANY MANN OPPOSES RULING ENACTING GERRYMANDERED MISSOURI CONGRESSIONAL MAP Mann condemns efforts to override Missouri voters and calls for accountability for election interference… Read more → September 10, 2024 Chemical Industry Scientists Threaten Public Health: Why the 3rd District Needs Bethany Mann to Defend Our Water Recent revelations have exposed a troubling plan by scientists with financial ties to the chemical industry to undermine crucial drinking water protections.
 As a Guardian article h… Read more → September 5, 2024 New Polling Shows Significant Shift in Missouri's 3rd Congressional District Race New polling data from Mainstreet Research paints an encouraging picture for our campaign, showing that Bethany Mann’s message is beginning to resonate across Missouri’s 3rd Congres… Read more → August 26, 2024 Flipping the 3rd District: Bethany Mann Poised to Represent All of Missouri’s 3rd The race for Missouri’s 3rd Congressional District is heating up, and the recent developments indicate that this seat is more flippable than ever.
 The front-page story in the News … Read more → August 7, 2024 Bethany Mann Wins Democratic Primary for U.S.
 House District 3 in Missouri Bethany Mann has won the Democratic primary for the U.S.

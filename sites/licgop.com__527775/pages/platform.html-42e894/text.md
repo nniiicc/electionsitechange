@@ -214,6 +214,7 @@ On one side you have the developers who want to take the property that the peopl
 A lack of accountability and transparency at NYCA has made many rich but NYCHA has been regularly rated as the worst landlord in the city.
 They have falsely altered safety inspection reports leading to the death of children including Gavin Cintron whose death at Riis houses caused the resignation of CEO and Chair of NYCHA Greg Russ.
 What neither side wants the residents to know is that the residents have the right to own the homes themselves.
+Check out my extensive work in public housing activism by visiting my youtube playlist of Public Housing activism related videos.
 Disabilities Issues Co-navigator program for the deafblind (paying respect to Marc Safman) I support the allocation of state resources to help provide businesses with speech to text devices that will help them to do business with the deafblind.
 This will help businesses secure additional revenue and improve accessibility for the disabled.
 Home care not nursing homes The nursing home system is notoriously corrupt and is used not just to make Democrat donors and party leaders rich.

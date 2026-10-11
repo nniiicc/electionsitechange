@@ -8,4 +8,4 @@ Reach out today to learn more about our efforts or to become involved yourself.
 Reporters: [email protected] Have a Question?
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-First Name Message Name Name Last Name Email * Message * Send Message Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary
+First Name Last Name Email * Name Last Message Message * Send Message Mailing address PO Box 90031 Anchorage, AK 99509 Email [email protected] Volunteer Donate My Story Priorities Get Involved Press Contact Privacy Policy © # Alaskans for Mary Paid for by Alaskans for Mary

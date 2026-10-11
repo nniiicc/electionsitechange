@@ -47,7 +47,7 @@ The pay-to-play corruption scandal surrounding her campaign.
 Bombshell investigation from Propublica revealed that Susan Collins was being examined by the FBI for steering federal contracts to a major donor — until Donald Trump ended the investigation.
 Her ties to corporate money and opposition to a congressional stock trading ban.
 Collins took hundreds of thousands of dollars from private equity , insurance companies , and special interest PACs, and the wealthy — including Epstein associates — while Washington kept delivering for the wealthy and she kept opposing a Congressional stock trading ban .
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

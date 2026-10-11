@@ -1,4 +1,5 @@
-Mark Divitt Iowa House · District 91 ☰ Home Issues Events Around D91 Get Involved Donate Mark Divitt for Iowa House District 91 Retired software engineer, Swisher small-business founder, and organizer with Save Morgan Valley — running to fight for clean water and air, help seniors stay in their homes, strong public schools, and health care Iowans can count on.
+Mark Divitt Iowa House · District 91 ☰ Home Issues Events Around D91 Get Involved Donate Early voting starts Wednesday, October 14.
+See where and when to vote → Mark Divitt for Iowa House District 91 Retired software engineer, Swisher small-business founder, and organizer with Save Morgan Valley — running to fight for clean water and air, help seniors stay in their homes, strong public schools, and health care Iowans can count on.
 Donate Now Get Involved About Mark A Voice for District 91 Mark earned a B.S. in Computer Science, graduating cum laude from Sonoma State University.
 He started his career at Hewlett-Packard, then went on to work with a number of large companies and small startups as a software engineer and architect, along the way holding numerous leadership roles where he learned that listening, attention to detail, and hard work are the keys to success.
 Mark is the father of two successful children and grandfather to six great kids.
@@ -17,7 +18,7 @@ It's why he's running.
 Mark and Martha The District Iowa House District 91 All of Iowa County and northern and western Johnson County — from Victor, Marengo, and Williamsburg to Oxford, Swisher, and Tiffin, all the way to rural Solon.
 Iowa House District 91 · official state map (PDF) Not sure if you're in District 91?
 Look up your legislator Want to vote early or by mail?
-Make your plan to vote Priorities What Mark Stands For Understand Iowa's Cancer Crisis Fully funding Iowa's water quality monitoring, so families can know what's actually in their water.
+See where and when Priorities What Mark Stands For Understand Iowa's Cancer Crisis Fully funding Iowa's water quality monitoring, so families can know what's actually in their water.
 Public Health Requiring a real doctor — not an algorithm — to sign off before your care gets denied.
 Public Schools Iowa slipped to 27th in the nation while other states invested.
 Funding public schools first, instead of no-income-limit vouchers that drain their budgets.

@@ -1,11 +1,4 @@
-Home About Solutions Events Media Get Involved Yard Sign Ballot Positions Donate How to Vote BALLOT POSITIONS ☰ Events On the trail across Massachusetts’ 9th Coming soon Get notified when it drops › Hear Tyler on the GOAT Podcast Will be released soon Middleborough Tyler Macallister sits down with The G.O.A.T.
-News in Middleborough for a candidate interview.
-The video will be released soon.
-Sign up and we will send you the link the moment it is out.
-It will also be posted on The Goat News Facebook page , YouTube and Spotify.
-Thursday, October 8 Debate Watch Party in New Bedford 5 to 7 PM Rose Alley Ale House, 94 Front St Watch the debate with Mike Minogue for Governor and Shawn Oliver for Lieutenant Governor.
-Bring a neighbor and grab a seat.
-Event details → Wednesday, October 14 League of Women Voters Candidate Forum in Falmouth 7 PM · Candidates Night Falmouth High School auditorium, 874 Gifford St Live on FCTV Channel 6 The League of Women Voters Falmouth and FCTV host a candidates night for Massachusetts’ 9th Congressional District.
+Home About Solutions Events Media Get Involved Yard Sign Ballot Positions Donate How to Vote BALLOT POSITIONS ☰ Events On the trail across Massachusetts’ 9th Wednesday, October 14 League of Women Voters Candidate Forum in Falmouth 7 PM · Candidates Night Falmouth High School auditorium, 874 Gifford St Live on FCTV Channel 6 The League of Women Voters Falmouth and FCTV host a candidates night for Massachusetts’ 9th Congressional District.
 Tyler takes questions from voters, and neighbors who cannot be in the room can watch live on FCTV Channel 6.
 Bring a friend and a question of your own.
 Tyler Macallister and Rep.
@@ -25,5 +18,4 @@ Download the flyer Local Roots.
 Common Sense Results.
 U.S.
 Congress · Massachusetts 9th District Home ​ About ​ Solutions ​ Events ​ Media ​ Get Involved Email Tyler (508) 538-1631 Mailing address Macallister for Congress P.O.
-Box 323, Mattapoisett, MA 02739 PAID FOR BY MACALLISTER FOR CONGRESS · 2026 Privacy Policy Terms & Conditions Election Day — November 3, 2026 (add to calendar) Scroll to Top Video drops soon Tyler on The G.O.A.T.
-Podcast Get the video link › ×
+Box 323, Mattapoisett, MA 02739 PAID FOR BY MACALLISTER FOR CONGRESS · 2026 Privacy Policy Terms & Conditions Election Day — November 3, 2026 (add to calendar) Scroll to Top OCT 14 Candidate forum · Wed Oct 14, 7 PM League of Women Voters · Falmouth High School Save your seat › ×

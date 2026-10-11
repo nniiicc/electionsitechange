@@ -74,7 +74,7 @@ I plan on voting for Jill in the upcoming election and hope you will consider su
 She is well-qualified to represent our district in the legislature.” Barry & Tiffany Daniels DISTRICT 5 RESIDENTS “Jill knows and understands the values of Utah and their importance.
 In the many years that we have known Jill we have watched her take a very strong conservative approach to the issues and challenges that face us in our communities and regions throughout our state.
 We are confident that Jill will take this same approach to solve issues that we face today.
-Jill is a great leader and we support her in her quest In running for the house of representatives.
+Jill is a great leader and we support her in her quest In running for the Utah Senate.
 She is a good listener and will work hard to find solutions that will be in the best interest of our community and state.” Jonathan & Dana Ford DISTRICT 5 RESIDENTS “We support Jill Koford for the State Senate.
 Jill is an active member of the community and very involved in our schools, which is where we first met her.
 I (Dana) had the opportunity to work with Jill in the PTA and other school organizations as our children attended school together.
@@ -94,9 +94,9 @@ I have known Jill for over 15 years and always been impressed by her level of co
 As an educator, businesswomen, and mother she has always been working to improve upon the status quo and enrich the lives of everyone around her.
 Jill has a solid foundation in conservative values, with the addition of the education, experience and wisdom to understand the need for us to progress carefully with the times.
 I wholeheartedly support Jill for this office and encourage the residents of district 5 to do the same.” Steve Kier DISTRICT 5 RESIDENT & FOUNDER OF KIER CONSTRUCTION “It is with great pleasure that I endorse Jill in her quest to become the Utah State Senator of District 5.
-I have been fortunate to know Jill for the past 20 years and she has never failed to impress us at every turn.
+I have been fortunate to know Jill for the past 20 years and she has never failed to impress me at every turn.
 For a number of years I served alongside Jill at the Weber School District Foundation supporting the needs of more than 30,000 students.
-We have found her to be incredibly down to earth, focused and hardworking.
+I have found her to be incredibly down to earth, focused and hardworking.
 Jill also keenly identifies with the needs of the community, she was born to represent the District 5 constituency.
 She truly cares about the issues and is willing to take on the hard cause and put her back into it.
 Jennifer Kendell-Jessen SMALL BUSINESS OWNER & DISTRICT 5 RESIDENT “The top two qualities I would attribute to Jill are capability and loyalty.
@@ -126,7 +126,7 @@ She has an excellent business sense and work ethic.
 I urge all that I meet to support Jill Koford, as we do, to be our District 5 Senator in the Utah State Senate!
 With her in this position, there isn't any doubt that she will represent us and our wishes with the utmost honor and conservative integrity.” Joseph Kerry “Jill Koford will work hard to earn your trust and your vote.
 She's engaged in our communities, always willing to help, and puts principle above politics.
-She understands the importance of education and increasing the dialogue and transparency between parents and our schools.” Tim & Tami Taylor DISTRICT 5 RESIDENTS "Jill’s announcement that she is running to be our advocate in the Utah House of Representatives is welcome news to those of us who are looking to be represented by a public servant, not just a politician.
+She understands the importance of education and increasing the dialogue and transparency between parents and our schools.” Tim & Tami Taylor DISTRICT 5 RESIDENTS "Jill’s announcement that she is running to be our advocate in the Utah State Senate is welcome news to those of us who are looking to be represented by a public servant, not just a politician.
 Jill lives life with integrity, compassion and great resolve.
 She will use the many talents that she has to influence the betterment of life for people in our community and state.
 We have known Jill and her family for over 25 years.
@@ -138,7 +138,7 @@ I have had my fill of politicians shirking their responsibilities on the state o
 They forget that the Constitution exists to protect the rights of the people, not stake out the government's claim on them.
 It is rare to find people who have that level of integrity and loyalty to the Constitution and our rights, but Jill Koford is one of those rare people.
 She is a workhorse, and she is dedicated to serving us and assuring our children have a promising future full of opportunity.
-Once you meet her, you'll see the same potential that I see if we are courageous enough to elect her to represent us in the Utah House.
+Once you meet her, you'll see the same potential that I see if we are courageous enough to elect her to represent us in the Utah Senate.
 Please get to know my friend Jill, you'll like what you hear.” Michael Hendry VICE PRESIDENT, OLD REPUBLIC TITLE & ESCROW “I have always admired those who put forth their time, effort, and expense to serve their neighbors in the legislature.
 I was very excited to learn that my good friend Jill Koford has stepped up to make that same sacrifice for Senate District 5.
 Jill will be a tremendous advocate for the citizens of Weber County and the State of Utah.
@@ -171,7 +171,13 @@ She will preserve our conservative ideas and personal freedoms and address the n
 Jill's dedication to our founders' vision of Liberty and Justice for all Americans is unwavering.
 When I had the opportunity to meet her in 2022, I was immediately struck by her empathy and her clear determination to create an environment where Utah can continue to thrive.
 I am proud to support her and strongly encourage you to meet her.
-I am confident that you will be as inspired by her as I am." Endorse Jill’s Campaign!
+I am confident that you will be as inspired by her as I am." Cris and Steve Garside District 5 Residents “Jill is not reactionary.
+Her responses to issues are studied and well-thought out.
+This is just one of the reasons we are supporting Jill.” Ignacio Valdez District 5 Resident “I’ve had the pleasure of knowing Jill Koford for quite some time, and throughout the years, she has consistently demonstrated professionalism, confidence, and assertive leadership.
+I have always admired her dedication, strong work ethic, and willingness to stand firm in what she believes is right.
+My respect for Jill comes not only from her public service but also from the character and integrity I have personally witnessed over the years.
+It is with great pride that I give Jill Koford my personal endorsement in her campaign for the Utah State Senate.
+Wishing you continued success, Jill!” Endorse Jill’s Campaign!
 Your name is missing!
 Jill would love to have your support.
 If you would like to write an endorsement, please fill out the form below: NOTE: Please send a photo to jill@votekoford.com with a headshot to accompany your endorsement!

@@ -14,5 +14,5 @@ Republican?
 It really doesn’t matter.
 If you’re ready to see less chaos and more progress in D.C. politics, we’d love to have you on our team.
 JOIN US In my platform you’ll find a collection of reasonable priorities and practical solutions to address the real concerns of South Carolinians — concerns heard over months of traveling the district.
-Follow Us on the Campaign Trail Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Follow Us on the Campaign Trail Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

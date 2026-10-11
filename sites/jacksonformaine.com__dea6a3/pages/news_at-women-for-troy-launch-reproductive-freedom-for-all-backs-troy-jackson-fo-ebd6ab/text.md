@@ -35,7 +35,7 @@ Reproductive Freedom for All’s endorsement comes as Jackson launches Women for
 With control of the U.S.
 Senate — and the future of reproductive freedom — on the line, Maine voters will have a clear choice this November: Susan Collins helped put the votes on the Supreme Court that overturned Roe.
 Troy Jackson will fight to restore the rights they took away.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

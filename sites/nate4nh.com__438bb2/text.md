@@ -1,6 +1,6 @@
 Skip to main content Nate4NH.com Vote Nov.
 3rd Donate Endorsements Follow Along In the News Issues Meet Nate Our District Stay Connected Volunteer Voter Information Why I'm Running Nate Giffard Candidate for State Rep.
-Concord Ward 6 A Fair Future is Worth the Fight Donate Volunteer Contact Me Meet Nate Deep Roots in the Granite State I was born right here in Concord and my story reflects the very best of New Hampshire.
+Concord Ward 6 A Fair Future is Worth the Fight "Nate won’t shy away from advocating for us and our needs at the State House." — Aislinn Kalob, City Councilor, Concord Ward 6 Donate Volunteer Contact Me Meet Nate Deep Roots in the Granite State I was born right here in Concord and my story reflects the very best of New Hampshire.
 My mother’s family has called this state home for more than five generations, while my father immigrated from St.
 Lucia in the 90s in search of opportunity.
 They met on a stoop on West St. in Ward 6, and that dual heritage defines my love for this community .
@@ -47,7 +47,7 @@ Name Email ZIP Code Phone Do you live in Concord Ward 6?
 Yes No Want to join our mailing list?
 Yes No Join Us Thanks for signing up!
 We'll be in touch soon about how you can get involved.
-Endorsements Follow Along Follow @nate4nh → In the News Press coverage and media appearances WMUR Jun 11, 2026 Protest staged outside governor's office over bill that critics say would allow book bans Read article → Union Leader Jun 11, 2026 Students, advocates stage read-in, urge Ayotte veto bill on 'objectionable material' in schools Read article → Our District Concord Ward 6 · Merrimack District 20 Do You Live in Concord Ward 6?
+Endorsements Moderno Barber Shop Penumbra 314 Action Fund Rights & Democracy New Hampshire American Federation of Teachers - New Hampshire Run For Something Eric Gallager Outgoing Ward 6 Representative Planned Parenthood Action Fund PAC Aislinn Kalob City Councilor, Concord Ward 6 Sierra Club Next Generation Leaders NH Follow Along Follow @nate4nh → In the News Press coverage and media appearances WMUR Jun 11, 2026 Protest staged outside governor's office over bill that critics say would allow book bans Read article → Union Leader Jun 11, 2026 Students, advocates stage read-in, urge Ayotte veto bill on 'objectionable material' in schools Read article → Our District Concord Ward 6 · Merrimack District 20 Do You Live in Concord Ward 6?
 Enter your street address to find out.
 Street address Check My Address Use my current location Map built by Purple Finch Residents 4,104 Total population Eligible Voters 3,430 Residents 18+ Source: 2020 U.S.
 Census Voter Information Everything you need to make your voice heard. 🗳️ Election Dates Primary September 8, 2026 General Election November 3, 2026 Polls open 7 AM – 7 PM ✅ Register to Vote City Clerk's Office, City Hall 41 Green Street, Concord, NH 03301 → Register at City Hall or at your polling place on Election Day.

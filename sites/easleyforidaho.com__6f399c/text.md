@@ -1,8 +1,6 @@
 top of page Home Issues Join Us!
 District & Voting Information Events Donate Log In Real Leadership for District 22 Idaho Karlie Easley for State Senate Amanda Easley for House Seat 22B Donate to Karlie Donate to Amanda South Boise, Meridian and Nampa Get campaign updates from Amanda & Karlie Stay up to date with our latest news and events by signing up for our newsletter.
-Upcoming Events Sat, Oct 10 Door knocking with the Easleys w/ Special Guest Ken Martin / Location is TBD RSVP Oct 10, 2026, 1:30 PM – 3:30 PM Location is TBD Door knocking in South Boise with the Easleys w/ special guest Ken Martin from the DNC - 1:30 start time.
-Location will be shared after RSVP.
-Sun, Oct 11 Postcard Writing with the Easleys / Location is TBD RSVP Oct 11, 2026, 12:00 PM – 4:00 PM Location is TBD Come write postcards with the Easleys.
+Upcoming Events Sun, Oct 11 Postcard Writing with the Easleys / Location is TBD RSVP Oct 11, 2026, 12:00 PM – 4:00 PM Location is TBD Come write postcards with the Easleys.
 This event will be held at a private residence and location will be shared after RSVP.
 Mon, Oct 12 Candidate Meet & Greet / Charter Pointe Park at Clubhouse RSVP Oct 12, 2026, 4:30 PM – 6:00 PM Charter Pointe Park at Clubhouse, 9488 W Hearthside Dr, Boise, ID 83709, USA Come meet Amanda & Karlie as well as Loren Petty and Michael Fitzgerald.
 No RSVP Needed.

@@ -21,9 +21,4 @@ With a history of founding multiple voluntary organizations that emphasize diver
 Businesses of all sizes have sought out his expertise, and he's deployed solutions used by communities around the globe.
 He's used his knowledge and skills to generate more than a quarter of a billion dollars in savings for industry leaders in healthcare and human resources, and now he wants to bring those skills to the public sector to make life better for everyday Americans.
 The Future Mike’s vision for the future is a Florida where the government is more accountable, more effective, and more humane .
-He believes in building systems that uplift working families, reinforce personal security , and deliver results that make our lives better and that is why he is running for US House of Representatives in Florida's 4th District.
-This is our movement.
-There is only one way we will transform this country – and that is by driving a progressive agenda forward together.
-Add your name to tell Mike you're in.
-Email Zip code Number Submit By providing my phone number, I consent to receive periodic text message alerts from Mike and his affiliated campaigns, including Friends of Mike.
-Friends of Mike will never charge for these updates, but carrier message & data rates may apply. © # Friends of Mike Privacy Policy bottom of page
+He believes in building systems that uplift working families, reinforce personal security , and deliver results that make our lives better and that is why he is running for US House of Representatives in Florida's 4th District. © # Friends of Mike Privacy Policy bottom of page

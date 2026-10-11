@@ -1,15 +1,15 @@
 0 Skip to Content Cinzia Lettieri For State Representative About Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
 Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Menu Cinzia Lettieri For State Representative About Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
 Get Involved Volunteer Contact Headquarters Voter Information Open Menu Close Menu Folder: About Back Meet Cinzia Issues Endorsements Upcoming Events Press Get Your Lawn Sign!
-Folder: Get Involved Back Volunteer Contact Headquarters Voter Information Oct 10 Connecticut House Democrats Door-Knocking Day Saturday, October 10, 2026 11:00 AM 1:00 PM Google Calendar ICS 📅 Saturday, October 10 ⏰ 11:00 AM - 1:00 PM 📍 129 W.
+Folder: Get Involved Back Volunteer Contact Headquarters Voter Information Oct 15 Candidate Phone Bank Thursday, October 15, 2026 5:00 PM 7:00 PM Google Calendar ICS 📅 Thursday, October 15 ⏰ 5:00 - 7:00 PM 📍 1261 Boston Post Road, Westbrook, CT (Next to Christy’s) Help us reach voters across the district!
+Join Cinzia and the campaign team for a phone bank to make calls, connect with neighbors, and help build momentum for Election Day.
+View Event → Oct 26 Candidate Phone Bank Monday, October 26, 2026 3:00 PM 5:00 PM Google Calendar ICS 📅 Thursday, October 15 ⏰ 5:00 - 7:00 PM 📍 1261 Boston Post Road, Westbrook, CT (Next to Christy’s) Help us reach voters across the district!
+Join Cinzia and the campaign team for a phone bank to make calls, connect with neighbors, and help build momentum for Election Day.
+View Event → Oct 10 Connecticut House Democrats Door-Knocking Day Saturday, October 10, 2026 11:00 AM 1:00 PM Google Calendar ICS 📅 Saturday, October 10 ⏰ 11:00 AM - 1:00 PM 📍 129 W.
 Main St, Clinton, CT 06413 Come knock doors with me!
 We’ll get you set up, pair you with someone if you’d like, and make sure you’re comfortable before heading out.
 Every door we reach means another conversation with a neighbor.
 Every volunteer helps us reach more voters!
-View Event → Oct 15 Candidate Phone Bank Thursday, October 15, 2026 5:00 PM 7:00 PM Google Calendar ICS 📅 Thursday, October 15 ⏰ 5:00 - 7:00 PM 📍 1261 Boston Post Road, Westbrook, CT (Next to Christy’s) Help us reach voters across the district!
-Join Cinzia and the campaign team for a phone bank to make calls, connect with neighbors, and help build momentum for Election Day.
-View Event → Oct 26 Candidate Phone Bank Monday, October 26, 2026 3:00 PM 5:00 PM Google Calendar ICS 📅 Thursday, October 15 ⏰ 5:00 - 7:00 PM 📍 1261 Boston Post Road, Westbrook, CT (Next to Christy’s) Help us reach voters across the district!
-Join Cinzia and the campaign team for a phone bank to make calls, connect with neighbors, and help build momentum for Election Day.
 View Event → Oct 9 Killingworth Democrats Candidate Meet & Greet Friday, October 9, 2026 5:30 PM 7:30 PM Google Calendar ICS 📅 Friday, October 9 ⏰ 5:30 PM - 7:30 PM 📍 176 Route 81, Killingworth, CT Join us for an evening of conversation and community!
 Come meet the candidates, enjoy appetizers and wine, and connect with Killingworth friends and neighbors.
 View Event → Oct 4 Knock with Josh Elliott for Cinzia Lettieri Sunday, October 4, 2026 10:30 AM 12:30 PM Google Calendar ICS 📅 Sunday, October 4 ⏰ 10:30 AM - 12:30 PM 📍 129 W.

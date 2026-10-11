@@ -40,4 +40,4 @@ Check all that apply. * Make phone calls Knock on doors Put up a yard sign Host 
 Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific South Carolina ZIP Code Availability When are you available?
 Mornings Weekdays Mornings Weekends Afternoons Weekdays Afternoons Weekends Evenings Weekdays Evenings Weekends optinsms I want to opt in to SMS How can you support?
 Select all that apply.
-Make phone calls Knock on doors Put up a yard sign Host an event Attend an event
+Make phone calls Knock on doors Put up a yard sign Host an event Attend an event SUBMIT

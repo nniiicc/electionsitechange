@@ -22,7 +22,7 @@ Show up.
 Speak truth.
 Demand stronger leadership.
 Never apologize for loving this country.
-Support Freedom First Common Sense Putting your Values, & Freedom First Donate Paid for by Friends Of Victor Mellor Contact 401-545-0127 info@vicmellor.com Friends of Victor Mellor 205 Buttonwoods Ave Warwick, RI 02886 X-twitter Facebook Instagram Youtube What Matters Housing That Is Affordable Jobs Revolution Medical Freedom Second Amendment Free Speech - No Censorship Parents - Not Bureaucrats How Can You Help Join The Campaign Donation In The News About Team Contact Privacy Policy Manage consent Manage consent Mail-In Ballot Info If you applied for a mail-in ballot, you will receive your ballot directly from the state.
+Support Freedom First Common Sense Putting your Values, & Freedom First Donate Paid for by Friends Of Victor Mellor Contact 401-545-0127 info@vicmellor.com Friends of Victor Mellor 205 Buttonwoods Ave Warwick, RI 02886 X-twitter Facebook Instagram Youtube What Matters Housing That Is Affordable Jobs Revolution Medical Freedom Second Amendment Free Speech - No Censorship Parents - Not Bureaucrats How Can You Help Join The Campaign Donation In The News About Contact Privacy Policy Manage consent Manage consent Mail-In Ballot Info If you applied for a mail-in ballot, you will receive your ballot directly from the state.
 Once it arrives, please complete your ballot, select Victor Mellor , and return it by mail according to the instructions provided.
 If you have questions or need assistance with your mail-in ballot, the Victor Mellor campaign is here to help.
 Call us at 401-545-0127 or email info@vicmellor.com .

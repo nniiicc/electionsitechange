@@ -18,7 +18,7 @@ In addition to being a law enforcement officer and sergeant, he is a small busin
 He was raised in Washington County.
 Wisconsin Right Now is the state’s leading conservative news site.
 Post navigation Previous post: Prev Rep.
-Bob Donovan Endorses Jim Piwowarczyk for Assembly April 11, 2024 Next post: Next Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly April 30, 2024 You May Also Like Posted July 29, 2024 in News DON PRIDEMORE OUTRAGEOUSLY VOTES TO APPROVE BIDEN’S TITLE IX CHANGES ON GENDER IDENTITY LANGUAGE FOR ELEMENTARY KIDS Posted May 3, 2024 in Endorsements , News , ticker Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Bob Donovan Endorses Jim Piwowarczyk for Assembly April 11, 2024 Next post: Next Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly April 30, 2024 You May Also Like Posted May 24, 2024 in Endorsements , News , Political Issues , ticker Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows Posted October 3, 2024 in Endorsements , News , ticker WISCONSIN FRATERNAL ORDER OF POLICE ENDORSES JIM PIWOWARCZYK IN THE 98TH ASSEMBLY RACE How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

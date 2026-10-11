@@ -9,7 +9,7 @@ James Martin strongly believes in the power of the democratic process, and that 
 “If you’re the best candidate who can help Floridians from rising costs and are ready to create policies that increase prosperity, then prove it,” Martin responds.
 Brian Mast constantly ducks his constituents because he does not want to be held accountable for: skyrocketing costs, a war of choice, stripping healthcare from thousands along with many of the other unpopular policies of the Trump administration that he cheerleads daily.
 James Martin formally invites Brian Mast to participate in a public debate so that constituents can have the ability to choose for themselves who they think the best candidate is to represent the Treasure Coast.
-### If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+### Media If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
 Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
 Commander in the United States Coast Guard Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

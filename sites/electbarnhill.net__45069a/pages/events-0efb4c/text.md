@@ -77,13 +77,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 10, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
-Food vendors, live music, grape stomping, farmers market, family-friendly.
-High public traffic just before/during early part of Reno stay.
-See more details Aki Matsuri Japanese Festival October 10, 2026 11:00 am - 9:00 pm Water Street Plaza, Henderson, NV Free 17th Annual Japanese autumn festival at Water Street Plaza, Henderson.
-Food, cultural activities, crafts, kids games, dance.
-Family-friendly public event with good foot traffic.
-See more details October 11, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
+See more details 26 27 28 29 30 31 October 11, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
 Food vendors, live music, grape stomping, farmers market, family-friendly.
 High public traffic just before/during early part of Reno stay.
 See more details October 12, 2026 I'll be in Reno from 10/12 to 10/20!
@@ -218,13 +212,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 10, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
-Food vendors, live music, grape stomping, farmers market, family-friendly.
-High public traffic just before/during early part of Reno stay.
-See more details Aki Matsuri Japanese Festival October 10, 2026 11:00 am - 9:00 pm Water Street Plaza, Henderson, NV Free 17th Annual Japanese autumn festival at Water Street Plaza, Henderson.
-Food, cultural activities, crafts, kids games, dance.
-Family-friendly public event with good foot traffic.
-See more details October 11, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
+See more details 26 27 28 29 30 31 October 11, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
 Food vendors, live music, grape stomping, farmers market, family-friendly.
 High public traffic just before/during early part of Reno stay.
 See more details October 12, 2026 I'll be in Reno from 10/12 to 10/20!

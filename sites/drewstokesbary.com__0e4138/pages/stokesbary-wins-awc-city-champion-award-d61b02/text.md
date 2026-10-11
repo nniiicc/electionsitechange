@@ -7,6 +7,6 @@ Here’s what AWC said about my role in the Legislature on behalf of cities: Rep
 Stokesbary was a cosponsor of our TIF bill in 2020.
 As a ranking member on the House Appropriations Committee and a member of the House Finance Committee, he often provides cities with a listening ear and good feedback on how to address our fiscal needs.
 Stokesbary appreciates our challenges in making city budgets work and he’s always willing to look for solutions that help cities.
-Awards More For You Transparency in the Governor’s Office In the News TNT Endorses: Keep Rep.
-Stokesbary Endorsements We endorse: Stokesbary, Robertson a good fit for Legislative District 31 (2020) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Awards More For You We endorse: Stokesbary, Robertson a good fit for Legislative District 31 (2020) Endorsements Rep.
+Stokesbary introduces bipartisan bill to provide property tax relief In the News The News Tribune Endorses Stokesbary Again Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

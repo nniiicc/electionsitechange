@@ -1,4 +1,4 @@
-Skip to content Mosteller for WV AEP District 21 Issues Donation Education Endorsements Home Infrastructure Opioid Pandemic Privacy Policy volunteer WomensRights I am once again running for West Virginia’s 21st District in the House of Delegates.
+Skip to content Mosteller for WV Home Endorsements Mosteller for WV AEP District 21 Issues Donation Education Endorsements Home Infrastructure Opioid Pandemic Privacy Policy volunteer WomensRights I am once again running for West Virginia’s 21st District in the House of Delegates.
 Through our group, No Republican Unopposed, as well as the hard work of Democratic leadership in the state, we’ve filled a historic number of races at the state and local levels.
 The wind is at our backs.
 West Virginians are feeling the pain at the pump.

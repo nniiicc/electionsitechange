@@ -12,10 +12,9 @@ Meet Maura Meet Kim IT’S A TEAM EFFORT Get In On the Action and Make a Play Ma
 Action Center Volunteer with Team Healey Sign Up A Record of Results Accomplishments Make a Plan to Vote Voter Info POWERED BY THE PEOPLE $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 SHOP ALL Shop Official Maura Merch Shop our latest Healey merchandise, locally printed with pride.
 View All.
-Team Healey-Driscoll Stickers $8 Team Healey-Driscoll Tote $30 Team Healey-Driscoll Tee $30 Team Healey-Driscoll Hat $30 Press Release “Choose”: Team Healey-Driscoll Launches New TV Ad Outlining Clear Choice in This Election September 29, 2026 I’m working every day to lower costs and make a difference for people.
+Team Healey-Driscoll Stickers $8 Team Healey-Driscoll Tote $30 Team Healey-Driscoll Tee $30 Team Healey-Driscoll Hat $30 Press Release “Choose”: Team Healey-Driscoll Launches New TV Ad Outlining Clear Choice in This Election September 29, 2026 It’s more important than ever to have a Governor who’s on your side — and I’ll alw...
+#ago I’m working every day to lower costs and make a difference for people.
 I’m also prote...
-#ago MAGA Mike Minogue claims credit for Project 2025 initiative.
-Also MAGA Mike: “I don’t...
 #ago Facebook X-twitter Instagram Youtube Tiktok Threads Donate to Stand with Maura Healey $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
 GET DRAFTED TO TEAM HEALEY Email Address Zip Code Phone Number (Optional) .
 By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.

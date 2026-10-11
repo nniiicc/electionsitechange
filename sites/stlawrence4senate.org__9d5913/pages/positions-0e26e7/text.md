@@ -1,4 +1,4 @@
-HOME PLATFORM POSITIONS CRITICAL LEGISLATION ABOUT ME ENDORSEMENTS VIDEOS CALENDAR CONTACT More HOME PLATFORM POSITIONS CRITICAL LEGISLATION ABOUT ME ENDORSEMENTS VIDEOS CALENDAR CONTACT HOME PLATFORM POSITIONS CRITICAL LEGISLATION ABOUT ME ENDORSEMENTS VIDEOS CALENDAR CONTACT Corruption Affordability Affordability I will write a law to forbid officials and candidates from having any financial ties to any state office, agency or contract.
+HOME PLATFORM POSITIONS CRITICAL LEGISLATION CALENDAR ENDORSEMENTS ABOUT ME VIDEOS CONTACT More HOME PLATFORM POSITIONS CRITICAL LEGISLATION CALENDAR ENDORSEMENTS ABOUT ME VIDEOS CONTACT HOME PLATFORM POSITIONS CRITICAL LEGISLATION CALENDAR ENDORSEMENTS ABOUT ME VIDEOS CONTACT Corruption Affordability Affordability I will write a law to forbid officials and candidates from having any financial ties to any state office, agency or contract.
 Adopt a zero-tolerance policy with immediate expulsion from office or termination of employment for profiteering and/or insider trading.
 Affordability Affordability Affordability I will enable programs and legislation to offset rising costs of food and necessities; mitigate healthcare and health insurance premium increases; prohibit landlord greed; end systemic, manipulative over-taxation.
 Data Centers Affordability Data Centers I oppose data centers in Georgia, and will write mandatory environmental protection, construction, operational, disposition and liability requirements - all at the owning company's expense.
@@ -18,4 +18,4 @@ I will not serve more than 3 terms in the Georgia Senate.
 Experience doesn't make better lawmakers.
 It just makes them more greedy and corrupt.
 2026 Georgia Ballot Measures (pdf) Download My Pledge to Georgia. (pdf) Download Georgia Health Insurance (pdf) Download Medicare and Medicaid Fixes (pdf) Download Abortion and Pregnancy Care (pdf) Download Data Centers (pdf) Download Georgia Must Do More for Farmers (PDF) Download Georgia Private School Vouchers (PDF) Download McCaysville Disaster Recovery (pdf) Download Bitcoin ATM Machines Scam (pdf) Download Georgia Animal Rights (pdf) Download Democrat Conservatism (pdf) Download Qualifications of a Candidate (pdf) Download Paid for by Gary St.
-Lawrence for GA Senate.
+Lawrence for GA State Senate.

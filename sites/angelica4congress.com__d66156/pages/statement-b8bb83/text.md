@@ -1,5 +1,5 @@
 Skip to content No AIPAC money, ever.
-Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Facebook Twitter Instagram Candidate Statement My name is Angelica Dueñas.
+Read Angélica’s statement → Donate Instagram Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Donate Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Home About Issues Endorsements AIPAC Explained Voter Resources Volunteer Events Facebook Twitter Instagram Candidate Statement My name is Angelica Dueñas.
 I’m a daughter of The Valley.
 I went to Roscoe Elementary, then Byrd Middle School, then Poly High.
 I’m a mother raising five children in the same San Fernando Valley streets I was raised on.

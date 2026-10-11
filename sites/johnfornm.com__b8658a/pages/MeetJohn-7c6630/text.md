@@ -35,6 +35,4 @@ Msg & Data rates may apply.
 Text STOP to opt-out.
 Text HELP for help.
 For additional information, please see our Terms & Conditions and Privacy Policies .
-Copyright © # John Block for New Mexico | Paid For By John For New Mexico | 1111 Tenth Street, #402, Alamogordo, NM 88310 About Issues Follow Endorsements < < Scroll to Top Loading Comments...
-Write a Comment...
-Email (Required) Name (Required) Website
+Copyright © # John Block for New Mexico | Paid For By John For New Mexico | 1111 Tenth Street, #402, Alamogordo, NM 88310 About Issues Follow Endorsements < < Scroll to Top

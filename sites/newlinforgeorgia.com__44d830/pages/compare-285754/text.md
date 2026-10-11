@@ -2,11 +2,13 @@ NEWLIN for STATE SENATE Meet Jeff Priorities Join The Team District 41 Compare D
 Kim Jackson's record on the issues important to District 41 voters: bills, votes, and on-the-record statements.
 Click any item to read the source.
 Take the quiz to see where you stand See the candidate questionnaires Topic All Taxes Data Centers Jobs & Education Parental Rights Healthcare Gender Care Social Issues Law & Order Elections Abortion Catholic Positions Show Everything Bills & Votes Quotes & Statements No items match.
-Reset filters Kim is out of touch with commonsense Georgians ICE enforcement is extrajudicial, state-sanctioned murder tax reduction is a scam ICE in Minnesota is a siege I voted with Palestinian students the same law is xenophobic, it's racist on the antisemitism bill, the state of Israel is participating in racism Georgia's ICE detainer law basically encourages police racially profile folks Sanctuary cities are illegal in Georgia already, but they're trying to add some teeth to it the ICE detainer law is racist on its face on gender dysphoria Social evolution and forward progress cannot be stopped. schools must teach the country was founded with white supremacy at its core telling students sometimes breaking the law is the morally right thing to do on the ban on sex changes for minors, What is the value of a trans youth's life? the religious freedom law essentially legalizes discrimination religious liberty is a permission slip to discriminate and “bad theology” the heartbeat law is Georgia's horrific abortion ban troopers clearing the Emory encampment left her deeply alarmed by reports of excessive force tasers and gas are a dangerous escalation election security would destabilize our electoral system the United States was founded and has racism rooted throughout its core Georgia's prison population: we can attribute that to systemic racism.
+Reset filters Kim is out of touch with commonsense Georgians ICE enforcement is extrajudicial, state-sanctioned murder tax reduction is a scam ICE in Minnesota is a siege I voted with Palestinian students the same law is xenophobic, it's racist on the antisemitism bill, the state of Israel is participating in racism Georgia's ICE detainer law basically encourages police racially profile folks Sanctuary cities are illegal in Georgia already, but they're trying to add some teeth to it the ICE detainer law is racist on its face on gender dysphoria Social evolution and forward progress cannot be stopped. schools must teach the country was founded with white supremacy at its core telling students sometimes breaking the law is the morally right thing to do on the ban on sex changes for minors, What is the value of a trans youth's life?
+RFRA legislation is being used to discriminate against adults and children religious liberty is a permission slip to discriminate and “bad theology” the heartbeat law is Georgia's horrific abortion ban troopers clearing the Emory encampment left her deeply alarmed by reports of excessive force tasers and gas are a dangerous escalation election security would destabilize our electoral system the United States was founded and has racism rooted throughout its core Georgia's prison population: we can attribute that to systemic racism.
 Not in the past, but now the 2021 election law is like Jim Crow the stigma around marijuana is all rooted in racism keeping felons from growing cannabis is a form of systemic racism the racist roots of credit scores on Girl Scout cookies, Samoas, by far.
 I will acknowledge, my wife pointed this out, that the name is probably like kind of racist on hormone therapy for prison inmates, I know good and well that public polling does not support gender-affirming care for people who are incarcerated and I know this is not politically popular on boys in girls' sports, you could count them on 2 hands.
 That's how that bill impacts our girls puberty blockers are life-saving drugs for trans children on Ethiopia, at her SR 800 press conference, This is an ongoing genocidal war , words she apologized for two weeks later and those who are displaced by this genocidal war in Ethiopia on girls' sports, trans girls are girls.
-Trans women are women reading a mother's letter against school restroom rules, mandate that Jack be outed at school as a transgender person by making him use the girls' restroom and locker rooms on parental permission for gender talks at school, not everybody's parent is going to be open to that conversation on the personhood law, a personhood bill that doesn't make sense on the CRT ban, this bill seeks to prevent the teaching of truth … see more Listen for yourself SB 476 (2026) Sen.
+Trans women are women reading a mother's letter against school restroom rules, mandate that Jack be outed at school as a transgender person by making him use the girls' restroom and locker rooms on parental permission for gender talks at school, not everybody's parent is going to be open to that conversation on the personhood law, a personhood bill that doesn't make sense on the CRT ban, this bill seeks to prevent the teaching of truth on the heartbeat law, I am very much opposed to that ban.
+I believe in choice … see more Listen for yourself SB 476 (2026) Sen.
 Jackson: Nay Senate votes See the bill Income Tax Reduction Act of 2026.
 Ends state income tax on the first $50,000 of income for single filers and the first $100,000 for married couples filing jointly, and cuts the state income tax rate to 4.99%.
 Passed the Senate 32 to 18 on February 12, 2026, and never got a House vote.
@@ -211,8 +213,8 @@ Ruwa Romman (@Ruwa4Georgia) on April 25 2024.
 Sources: 11Alive, Georgia Recorder, GA Department of Public Safety social-media records of Sen.
 Jackson's repost.
 LAKESIDE HS Sen.
-Jackson: Marched with students → Kim Jackson rallied a Marxist-backed walkout at Lakeside High School On January 20, 2026, Sen.
-Jackson gave one of the speeches in the courtyard and marched with 1,500 to 2,000 Lakeside High School students during the "Free America Walkout" against ICE.
+Jackson: Marched with students → Kim Jackson rallied 1,500 students and marched at the front of a Marxist-backed walkout at Lakeside High School Photo: Courtesy of Kim for Georgia, via Rough Draft Atlanta On January 20, 2026, Sen.
+Jackson rallied 1,500 to 2,000 Lakeside High School students from the school courtyard and marched at the front of their "Free America Walkout" against ICE.
 Decaturish and WABE report the walkout was organized by the student group Students4Justice and aided by the Atlanta branch of the Party for Socialism and Liberation (PSL) , a Marxist party whose own program says "Capitalism cannot be voted out of power.
 It will take a revolution." The walkouts were condemned by the DeKalb County interim superintendent, who warned students of disciplinary consequences.
 Sen.
@@ -286,10 +288,16 @@ Worth asking: who is she actually representing?
 ON ELECTIONS SB 568 floor debate · Mar 6, 2026 Senate votes SB 568 On election integrity bills: "This bill is too hasty.
 It does not protect Georgians." Called election security concerns an "insidious undertone" and said they "destabilize our electoral system." Town hall (Feb 2026) + SB 568 floor speech (Mar 6 2026) + Sine Die quote (Apr 2 2026).
 Abortion: Kim Jackson co-sponsored expansion of state law and constitutional amendments Sen.
-Jackson has co-sponsored five Georgia bills and resolutions that would override the state's heartbeat law, take the unborn child out of state law, or establish broad abortion rights through statute or constitutional amendment, and voted against limits on abortion pills.
+Jackson has co-sponsored five bills and resolutions to override the heartbeat law, take the unborn child out of state law, or write abortion rights into statute or the constitution.
+She voted against limits on abortion pills.
+In 2026 she leads the bill to let doctors prescribe death.
 ON THE HEARTBEAT BILL AOL · 2026 HB 481 Sen.
 Jackson called Georgia's heartbeat law: "Georgia's horrific abortion ban, which has led to the deaths of black women." Speaking on behalf of the Esteves campaign, attacking Republicans who passed HB 481 (Georgia's six-week abortion ban, signed by Gov.
 Kemp in 2019 and reinstated by the Georgia Supreme Court in 2024).
+Fact check: Georgia's maternal mortality committee called two 2022 deaths preventable and pointed to a hospital's 20-hour delay and to fear of seeking care, not to the law.
+The law allows removal of a dead unborn child and care in a medical emergency.
+No court or state body has found that the law barred either woman's treatment.
+Sources: ProPublica on Amber Thurman , ProPublica on Candi Miller , GPB on the committee .
 SB 15 (2023) Sen.
 Jackson: Co-Author Senate votes See the bill "Reproductive Freedom Act": make abortion a fundamental right under Georgia law and repeal the state's criminal abortion statutes, including the heartbeat law.
 Authored by Sen.
@@ -327,6 +335,16 @@ The 2025 version of SB 15.
 Sen.
 Jackson co-authored it again.
 It went to committee on February 26, 2025 and never got a floor vote.
+SB 610 (2026) Sen.
+Jackson: Lead sponsor See the bill Kim Jackson wants doctors to prescribe death The Georgia Death with Dignity Act would let doctors prescribe life-ending medication to terminally ill adults.
+Sen.
+Jackson is its first-named sponsor.
+Adults 18 and over, Georgia residents, with a six-month prognosis.
+The bill says such a death "shall not, for any purpose, constitute suicide, assisted suicide, mercy killing, or homicide," and the death certificate lists the illness.
+Georgia law today makes assisting a suicide a felony.
+Read and referred March 3, 2026, no vote.
+Sources: the bill , Senate Democratic Caucus, Feb.
+28, 2026 .
 Jeff's position: firmly opposes abortion except in cases of rape, incest, or to protect the life of the mother.
 Sen.
 Jackson's co-sponsorships would override Georgia's current law and establish abortion as a constitutionally-protected right with no such limits.
@@ -376,6 +394,10 @@ Sen.
 Jackson on the Senate floor: "We can mourn the loss of both Israeli and Palestinian lives.
 We can both condemn the unacceptable acts of antisemitism that are plaguing the Jewish community around our state and acknowledge that our citizens have the right to voice their dissent about the tremendous harm being visited upon Palestinian civilians." Reported by Georgia Recorder, PBS NewsHour, KOMO (Sinclair), WGME, January 25, 2024.
 Bill passed despite her opposition.
+Voting no on Georgia's antisemitism law, she said she holds her Jewish and Israeli friends close.
+Five days later she said the state of Israel is participating in racism ( Rough Draft Atlanta, Jan.
+31, 2024 , and her podcast, Episode 44, Jan.
+30, 2024, in the word cloud below).
 Listen for yourself Sen.
 Jackson has been on record extensively.
 Her own podcast ran 54 episodes.

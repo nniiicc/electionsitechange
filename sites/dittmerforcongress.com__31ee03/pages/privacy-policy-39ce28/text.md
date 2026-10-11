@@ -22,5 +22,5 @@ These guidelines explain how to make web content more accessible to people with 
 Our efforts include: Regular reviews and updates to maintain accessibility best practices Using accessibility tools to assist with navigation Providing alternative text for images Ensuring proper color contrast and keyboard navigation Designing with screen readers in mind Feedback and Support If you experience any difficulty accessing content on our website or need assistance with any part of the site, please contact our team at info@dittmerforcongress.com.
 We welcome your feedback and will make every effort to address your concerns promptly.
 We are here to support all users and are committed to creating an inclusive online experience for every voter.
-Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

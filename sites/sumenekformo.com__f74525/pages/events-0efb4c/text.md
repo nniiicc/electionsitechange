@@ -1,12 +1,5 @@
 0 Skip to Content Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Open Menu Close Menu Open Menu Close Menu Meet Meredith About Meredith Endorsements Issues Platform November Ballot Info Volunteer Events Merch Press DONATE Folder: Meet Meredith Back About Meredith Endorsements Folder: Issues Back Platform November Ballot Info Volunteer Events Merch Press DONATE JOIN US AT AN EVENT!
-Find out where you can meet Meredith Sumenek around town Oct 10 Mega Canvass and Lit Drop Saturday, October 10, 2026 10:00 AM 1:00 PM STLCC South County Campus (map) Google Calendar ICS Join Meredith Sumenek and Team Sumenek for a Mega Canvass & Lit Drop as we head into the final stretch!
-Knock doors and talk with voters, or help deliver campaign literature throughout District 95.
-No experience necessary .
-We’ll provide materials, turf, and quick instructions.
-Saturday, October 10 at 10:00 AM STLCC South County Campus , 4115 Meramec Bottom Rd.
-Join us between 10 am and 10:30 am to receive canvass instructions.
-Bring a friend, wear comfortable shoes, and help us reach as many voters as possible!
-RSVP on Facebook RSVP on Eventbrite View Event → Oct 17 Mega Canvass and Lit Drop Saturday, October 17, 2026 10:00 AM 12:30 PM STLCC South County Campus (map) Google Calendar ICS We’re getting closer to Election Day, and we need all hands on deck!
+Find out where you can meet Meredith Sumenek around town Oct 17 Mega Canvass and Lit Drop Saturday, October 17, 2026 10:00 AM 12:30 PM STLCC South County Campus (map) Google Calendar ICS We’re getting closer to Election Day, and we need all hands on deck!
 Join Meredith Sumenek and Team Sumenek for a Mega Canvass & Lit Drop .
 Knock doors and talk with voters, or help us deliver campaign literature throughout District 95.
 No experience necessary!
@@ -36,7 +29,14 @@ Choose the time and polling location that works best for you.
 Choose your time.
 Choose your location.
 Help us bring it home!
-View Event → Oct 3 Town Hall with Meredith Sumenek Saturday, October 3, 2026 3:00 PM 4:30 PM St.
+View Event → Oct 10 Mega Canvass and Lit Drop Saturday, October 10, 2026 10:00 AM 1:00 PM STLCC South County Campus (map) Google Calendar ICS Join Meredith Sumenek and Team Sumenek for a Mega Canvass & Lit Drop as we head into the final stretch!
+Knock doors and talk with voters, or help deliver campaign literature throughout District 95.
+No experience necessary .
+We’ll provide materials, turf, and quick instructions.
+Saturday, October 10 at 10:00 AM STLCC South County Campus , 4115 Meramec Bottom Rd.
+Join us between 10 am and 10:30 am to receive canvass instructions.
+Bring a friend, wear comfortable shoes, and help us reach as many voters as possible!
+RSVP on Facebook RSVP on Eventbrite View Event → Oct 3 Town Hall with Meredith Sumenek Saturday, October 3, 2026 3:00 PM 4:30 PM St.
 Louis County Library - Grant's View Branch (map) Google Calendar ICS Your Voice.
 Your Questions.
 Your Community.

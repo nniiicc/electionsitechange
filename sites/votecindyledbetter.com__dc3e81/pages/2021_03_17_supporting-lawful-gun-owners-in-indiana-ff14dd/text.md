@@ -4,7 +4,7 @@ To strengthen this right, I am supporting legislation, House Bill 1369, this ses
 This legislation would not change the requirements to purchase a handgun.
 Hoosier firearm buyers would still have to complete the Bureau of Alcohol, Tobacco, Firearms and Explosives form, and be approved by the National Instant Criminal Background Check System.
 To learn more https://www.indianahouserepublicans.com/news/press-releases/ledbetter-supporting-lawful-gun-owners-in-indiana/ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Post navigation Prev Supporting Law Enforcement, Boosting Accountability & Transparency In Policing Next Supporting Hoosier entrepreneurs Leave a comment Cancel reply Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Post navigation Prev Supporting Law Enforcement, Boosting Accountability & Transparency In Policing Next Supporting Hoosier entrepreneurs Leave a Reply Cancel reply Comment Name Email Website Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

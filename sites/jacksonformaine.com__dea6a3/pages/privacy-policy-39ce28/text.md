@@ -75,7 +75,7 @@ Updating This Policy We may revise or update this policy if our practices change
 You should refer back to this page often for the latest information.
 If we decide to change this policy, we will post a new policy on our sites and change the date at the top of the policy.
 How to Contact Us If you have any questions, comments or concerns, please contact us by e-mail at info@jacksonformaine.com , or at the mailing address listed below: P.O.
-Box 166, Augusta, ME 04332 To reach the campaign, email info@jacksonformaine.com .
+Box 166, Augusta, ME 04332 Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

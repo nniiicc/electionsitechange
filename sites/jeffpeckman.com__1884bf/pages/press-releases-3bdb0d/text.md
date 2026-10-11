@@ -122,7 +122,7 @@ Because it implements directly into existing internal combustion vehicles and in
 See full ranking details: www.jeffpeckman.com/ai-rankings ### “Restore Our Roads” - a highway to riches for Colorado Media Release - August 27, 2026 “Restore Our Roads” - a highway to riches for Colorado “Restore Our Roads”, as Initiative 175 or some other negotiated agreement, could be a highway to riches for Colorado.
 Besides making roads and bridges better than ever, it could improve quality of life, launch multi-billion-dollar economic engines, increase affordability, and reduce government spending.
 Coherence technologies are the keys to both the repairs and the financial rewards.
-Rimere , a Colorado company, has mastered one coherence technology to create the new “wonder material” graphene, and hydrogen, out of methane.
+A Colorado company has mastered one coherence technology to create the new “wonder material” graphene, and hydrogen, out of methane.
 Graphene improves safety, performance, durability, and lifespan of concrete, asphalt and steel.
 Graphene-enhanced materials can reduce damage and corrosion of roads and bridges from weather, heavy loads, accidents, and acid rain, in ways not previously possible.
 The Graphene Solution in Texas is ready to supply graphene-enhanced concrete to Colorado highways.
@@ -141,12 +141,13 @@ Graphene in tires reduces blowouts.
 Graphene in exterior coatings means less hail damage.
 That will grow new industries while providing valuable materials for a wide variety of markets.
 But wait, there’s more!
-Rimere’s core technology also greatly reduces vehicle emissions.
-In third-party testing on a diesel truck, it increased fuel efficiency 15% and torque 40%.
+Coherent plasma to make graphene can also reduce vehicle emissions.
+California Environmental Engineering tested it on a diesel truck.
+It increased fuel efficiency 15% and torque 40%.
 It decreased carbon monoxide 12%, hydrocarbons 40%, and particulate matter 66%.
-Installing this technology on all of Colorado’s approximately 300,000 diesel engines would provide a net savings in health care and fuel costs of about $700 million in each year.
+Installing this technology on all of Colorado’s approximately 300,000 diesel engines is estimated to provide a net savings in health care and fuel costs of about $700 million in each year, at $4.00/gallon for diesel.
 Adding this tech to gas vehicles would provide even more savings.
-Another benefit is that it would also reduce acid-rain corrosion to transportation, buildings and the environment, which costs an estimated $1-2 billion per year.
+Another benefit is that it would also reduce acid-rain corrosion to transportation, buildings and the environment, which cost about $1-2 billion per year for Colorado.
 Finally, graphene and hydrogen are each predicted to have $11 trillion global economic impact by 2050.
 Employing and exporting this vehicle hardware, and the technology to make hydrogen and graphene, will play a vital role in Colorado’s economic renaissance.
 These financial and other benefits will then cascade through healthcare, education, agriculture, industry, air and water quality, and the environment.
@@ -162,7 +163,7 @@ Peckman explained, "Both the methane and solid matter from manure can be convert
 That’s the key.
 Graphene is revolutionizing auto manufacturing.
 It’s being integrated into vehicle chassis, tires, bodies, interiors, batteries, electronics, and more." Skeleton Technology 's graphene supercapacitors have been in hybrid IndyCars since 2024.
-Rimere , a Colorado company, has sthe best tech in the world for converting methane into graphene, and hydrogen which can fuel a car. ” Resolutx , a California company, can make graphene out of biomass such as solid agricultural and forest waste.
+A Colorado company has the best tech in the world for converting methane into graphene, and hydrogen which can fuel a car. ” Resolutx , a California company, can make graphene out of biomass such as solid agricultural and forest waste.
 Steelhead Composites in Golden, Colorado has become a world leader in graphene-enhanced hydrogen storage tanks.
 Colorado automotive engineering students could apply graphene to a vehicle in ways that even Tesla Motors hasn’t done.
 Peckman reassured EV makers that “a cow pie car would smell great for corporate profits and cleaner air”.

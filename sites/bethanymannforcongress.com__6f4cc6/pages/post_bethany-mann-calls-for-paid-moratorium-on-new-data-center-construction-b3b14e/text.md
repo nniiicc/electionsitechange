@@ -1,0 +1,52 @@
+Skip to content MISSOURI’S 3RD DISTRICT · DEMOCRAT FOR CONGRESS Our future is worth showing up for.
+Join us ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Menu ☰ Meet Bethany The issues News & events Get involved Donate ↗ Home / PRESS RELEASE Bethany Mann Calls for Paid Moratorium on New Data Center Construction Until Missouri Communities Have a Say October 10, 2026 Mann calls for community consent, continued pay for union workers, full lifecycle planning, resource protections, and corporate accountability before additional large-scale data center development moves forward FOR IMMEDIATE RELEASE Contact: Bethany Mann for Congress Melanie Nowlin, Campaign Manager melnowlin@bethanymann4congress.com Download the original press release (PDF, 4 pages) MISSOURI — Bethany Mann, candidate for Congress in Missouri's 3rd Congressional District, is calling for a paid moratorium on new data center construction while Missouri develops comprehensive standards governing how these facilities are proposed, approved, built, operated, and eventually shut down.
+Mann's proposal would pause new construction while residents, utilities, environmental experts, local governments, workers, farmers, and other stakeholders are given the information necessary to weigh the potential benefits of data center development against its long-term costs and risks.
+Under Mann's proposal, end users, developers, and property managers would be required to continue paying union workers assigned to affected projects throughout the moratorium.
+These companies would bear the financial responsibility for maintaining their workforce while Missouri develops its standards and communities review proposed developments.
+Mann says the requirement is an essential demonstration of good faith from corporations seeking to establish a long-term presence in Missouri.
+Companies should not be permitted to use the threat of lost jobs or delayed investment to pressure communities into accepting projects before residents have had an opportunity to evaluate their consequences.
+"Before we build another data center, Missourians deserve to know exactly what is being proposed, what resources it will require, what it will cost their community, what they will receive in return, and what happens when that facility eventually closes," Mann said.
+"Once people have that information, they deserve a meaningful opportunity to say yes or no.
+The workers building these facilities deserve the same consideration, and their livelihoods should not be held hostage while corporations and communities work through these decisions." Mann's proposed moratorium would remain in place while Missouri establishes standards including: Public education and discussion before approval.
+Communities should receive accessible information about the potential benefits and risks of proposed data centers, including their effects on water, energy, infrastructure, farmland, neighboring properties, public services, and local economies.
+Community consent.
+Residents should have a meaningful public process, including opportunities to vote where appropriate, on major projects affecting their communities.
+If the public consensus is that a proposed data center is not right for their community, state government should not simply override that decision for the benefit of a private corporation.
+Paid moratorium and union worker protections.
+End users, developers, and property managers must agree to maintain wages, benefits, and existing labor commitments for union workers assigned to affected projects throughout the moratorium.
+These obligations must be enforceable and funded by the companies themselves, not Missouri taxpayers.
+Maintaining these commitments while the state develops and presents its plan will demonstrate whether corporations are prepared to act in good faith, respect the public review process, and prioritize Missouri workers and communities over shareholder demands.
+Full resource and infrastructure planning.
+Developers should disclose how much electricity and water a facility is expected to require, where those resources will come from, what additional infrastructure will be necessary, who will pay for it, and how residential customers, farmers, and existing businesses will be protected.
+Complete lifecycle and decommissioning plans.
+Approval should require more than a construction plan.
+Developers should explain what happens at the end of a facility's useful life, including shutdown, removal or repurposing of equipment, disposal of hazardous or industrial materials, remediation of the property, restoration of infrastructure, and who bears the financial responsibility for that work.
+Communities should not inherit an abandoned industrial site or cleanup bill after a corporation leaves.
+Transparent economic accounting.
+Communities should receive a full accounting of tax incentives, public expenditures, permanent employment, infrastructure costs, projected tax revenue, and other financial commitments before approving a project.
+Stronger ethics and conflict-of-interest laws.
+Mann is calling for legislation preventing public officials responsible for regulating, approving, incentivizing, or otherwise influencing major industrial developments from receiving personal or professional financial benefits connected to those projects.
+She is also calling for stronger rules addressing campaign contributions from companies seeking major government approvals or incentives.
+"If these corporations genuinely believe their projects will benefit Missouri, they should be willing to continue paying the skilled union workers they've hired while our communities review their plans," Mann said.
+"A paid moratorium gives Missouri the opportunity to establish responsible standards without forcing working families to shoulder the cost of that process.
+End users, developers, and property managers who expect communities to trust them with our land, water, energy, and infrastructure should be prepared to demonstrate that their commitments to Missouri are more important than the immediate demands of their shareholders." Mann emphasized that protecting workers and protecting communities are not competing priorities.
+Both are essential to responsible economic development, and neither should be sacrificed to accelerate corporate construction schedules.
+"Public service cannot mean negotiating with a corporation with one hand while accepting something of value from its interests with the other," Mann said.
+"When the government is making decisions this large, the public should never have to wonder whose interests their representatives are protecting." Mann said the moratorium is not a rejection of technology or economic development, but a demand that development occur on terms communities understand and accept.
+The companies proposing these facilities must demonstrate that they can honor their obligations to workers, provide transparent information to the public, and respect community decisions even when those decisions interfere with corporate timelines.
+"When something enormous and unexpected arrives at the gates of a community promising prosperity, our first responsibility is not to throw open the gates," Mann said.
+"The lesson of the Trojan Horse is not that everything new is an enemy.
+It is that promises should be examined before they are welcomed inside." "Political representatives should be the first line of defense for the wellbeing of the people they represent.
+Our job is to ask the difficult questions, demand evidence, identify the risks, and make sure the people who live there have the final word.
+We represent communities, not corporate interests." Mann said the moratorium should be lifted only after Missouri establishes clear standards for transparency, resource planning, public participation, community consent, financial accountability, labor protections, conflicts of interest, and the entire lifecycle of these facilities.
+Any decision to resume construction should also require developers and end users to demonstrate compliance with those standards and honor their commitments to affected workers.
+"Planning before building is not anti-growth," Mann said.
+"It is responsible government.
+If a project is truly good for Missouri, its benefits should withstand public scrutiny, its developers should be able to explain its costs, and the people expected to live with it should have a voice in whether it moves forward.
+Missouri workers deserve a paycheck, Missouri communities deserve a choice, and corporations seeking to profit from our resources should be expected to honor both." About Bethany Mann Bethany Mann is a chemist and candidate for the United States House of Representatives in Missouri's 3rd Congressional District.
+Her professional background includes work in agriculture, food safety, critical infrastructure, water quality, and environmental contamination.
+All campaign news → LET’S BUILD THIS TOGETHER Missouri is worth the work.
+Help power a campaign rooted in our communities.
+Support Bethany ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Bringing Missourians together.
+Facebook ↗ Instagram ↗ TikTok ↗ X ↗ Explore Meet Bethany The issues Endorsements News & events Take part Volunteer Donate ↗ Campaign newsletter ↗ Contact the campaign Mail contributions Bethany Mann for Congress P.O.
+Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗

@@ -41,7 +41,8 @@ Republicans have appeared pleased with the ascent of such candidates, moving qui
 “They want to completely destroy the traditional American way of life,” President Trump said in a speech on Friday.
 “Communism is very easy to sell.
 It destroys everything.” Andrew Yang, a former Democrat who ran for president in 2020 and for mayor of New York in 2021, seemed to marvel at the divisions in the Democratic Party, which he left five years ago.
-“The Democratic Party,” he wrote on social media, “really is at least two parties in one at this point.” Original Article Back to News Page Recent Articles Police, firefighter unions back Dem NY Rep.
+“The Democratic Party,” he wrote on social media, “really is at least two parties in one at this point.” Original Article Back to News Page Recent Articles Thomas R.
+Suozzi for New York’s 3rd Congressional District October 10, 2026 Police, firefighter unions back Dem NY Rep.
 Tom Suozzi — after Trump-linked Super PAC spends $8M on attack ads October 4, 2026 Suozzi launches reelection bid as LiPetri heads to GOP midterm convention September 9, 2026 Rep.
 Suozzi kicks off re-election bid with bipartisan support from mayors September 8, 2026 Tom Suozzi makes affordability the centerpiece of his case for reelection September 1, 2026 Rep.
-Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top
+Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top

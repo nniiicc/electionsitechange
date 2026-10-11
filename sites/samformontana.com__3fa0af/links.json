@@ -1,25 +1,5 @@
 [
 {
-"text": "$200",
-"href": "https://secure.actblue.com/donate/sf-web?amount=200"
-},
-{
-"text": "$25",
-"href": "https://secure.actblue.com/donate/sf-web?amount=25"
-},
-{
-"text": "$500",
-"href": "https://secure.actblue.com/donate/sf-web?amount=500"
-},
-{
-"text": "$75",
-"href": "https://secure.actblue.com/donate/sf-web?amount=75"
-},
-{
-"text": "All policies",
-"href": "https://samformontana.com/policies/"
-},
-{
 "text": "Donate",
 "href": "https://secure.actblue.com/donate/sf-web"
 },
@@ -36,24 +16,8 @@
 "href": "https://www.facebook.com/people/Sam-Forstag/61585766866234/"
 },
 {
-"text": "Finally Fix Our Broken Immigration System",
-"href": "https://samformontana.com/policies/#immigration"
-},
-{
-"text": "Get Involved",
-"href": "https://samformontana.com/volunteer/"
-},
-{
-"text": "Get Money Out Of Politics",
-"href": "https://samformontana.com/policies/#money"
-},
-{
 "text": "Home",
 "href": "https://samformontana.com/"
-},
-{
-"text": "In The News",
-"href": "https://samformontana.com/in-the-news/"
 },
 {
 "text": "Instagram",
@@ -64,35 +28,27 @@
 "href": "https://samformontana.com/jobs/"
 },
 {
-"text": "Make Childcare and Education Work for Working People",
-"href": "https://samformontana.com/policies/#education"
-},
-{
-"text": "Make Healthcare Work for Working People",
-"href": "https://samformontana.com/policies/#healthcare"
-},
-{
-"text": "Make Housing Work for Working People",
-"href": "https://samformontana.com/policies/#housing"
-},
-{
-"text": "Make Retirement Work for All of Us",
-"href": "https://samformontana.com/policies/#retirement"
-},
-{
-"text": "Make Taxes Work for Working People",
-"href": "https://samformontana.com/policies/#taxes"
+"text": "Join Us",
+"href": "https://samformontana.com/volunteer/"
 },
 {
 "text": "Media",
 "href": "https://samformontana.com/media/"
 },
 {
-"text": "Other Amount",
-"href": "https://secure.actblue.com/donate/sf-web"
+"text": "Meet Sam",
+"href": "https://samformontana.com/meet-sam"
+},
+{
+"text": "Meet Sam",
+"href": "https://samformontana.com/meet-sam-forstag/"
 },
 {
 "text": "Policies",
+"href": "https://samformontana.com/policies/"
+},
+{
+"text": "Policy Platform",
 "href": "https://samformontana.com/policies/"
 },
 {
@@ -100,20 +56,20 @@
 "href": "https://samformontana.com/privacy-policy/"
 },
 {
-"text": "Raise Wages and Strengthen Unions",
-"href": "https://samformontana.com/policies/#wages"
+"text": "Read The Plan",
+"href": "https://samformontana.com/policies/#healthcare"
 },
 {
-"text": "Reinvest in Public Lands and Reinvigorate Public Service",
-"href": "https://samformontana.com/policies/#public-lands"
+"text": "Read The Plan",
+"href": "https://samformontana.com/policies/#housing"
 },
 {
-"text": "Sam Forstag for Montana",
-"href": "https://samformontana.com/"
+"text": "Read The Plan",
+"href": "https://samformontana.com/policies/#money"
 },
 {
-"text": "Sign Up",
-"href": "https://samformontana.com/volunteer/"
+"text": "Rush a donation to Sam's campaign today →",
+"href": "https://secure.actblue.com/donate/sf-web"
 },
 {
 "text": "Store",
@@ -140,7 +96,7 @@
 "href": "mailto:press@samformontana.com"
 },
 {
-"text": "[image: Campaign log for Sam Forstag for Montana, depicting his name next to a mountain with a sunset in the background]",
+"text": "[image]",
 "href": "https://samformontana.com"
 },
 {

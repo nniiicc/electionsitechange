@@ -12,6 +12,6 @@ Drillers PanTerra Energy in Colorado dug 1,000 feet under the Aspen high school 
 Aspen will “use the new system to bring clean, low-carbon energy to school and administration buildings across its campus”, according to an article in the Colorado Sun .
 The funding for this project included federal and state grants and tax credits.
 Colorado also created an office that retrained coal workers.
-We must transition fossil fuel equipment, infrastructure and employees over time to geothermal for our great-grandchildren by creating and continuing congressional funding in these areas, which is what I will do. ← Data Center Concerns Happy Labor Day! → More posts WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
+We must transition fossil fuel equipment, infrastructure and employees over time to geothermal for our great-grandchildren by creating and continuing congressional funding in these areas, which is what I will do. ← Data Center Concerns Happy Labor Day! → More posts Lisa Earns Another Endorsement Posted on October 10, 2026 WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
 Posted on October 5, 2026 Rep.
-Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 4th Annual Buffalo Bash Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind
+Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

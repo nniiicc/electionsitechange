@@ -4,7 +4,8 @@ Msg & data rates may apply.
 Reply HELP for assistance.
 Reply STOP to opt out at any time.
 Terms & Conditions + Privacy Policy apply.
-Submit News A Voice for Wallingford and Middlefield ENDORSED by the CT State Fraternal Order of Police NEW LAWS TAKE EFFECT OCTOBER 1ST!
-Amazon Air Drone Deliveries Raise Concerns Three Strikes = Six Months!
-Fishbein for Connecticut - Jo-Anne L.
+Submit News Are Drone Deliveries Coming To Wallingford And Middlefield?
+AI Protections: CT Goes Farther Than The Feds Remembering...
+Come On Down to Celebrate Wallingford!
+One of Us Fishbein for Connecticut - Jo-Anne L.
 Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

@@ -1,0 +1,15 @@
+Skip to content Click here to read Amy's Affordability Agenda Click here to read Amy's Affordability Agenda About Meet Amy Meet David Priorities On the Issues ActON Agenda Endorsements News Store Vote About Meet Amy Meet David Priorities On the Issues ActON Agenda Endorsements News Store Vote Facebook X-twitter Instagram Youtube Tiktok Get Involved Get Involved Donate Donate Donate Donate Oct 10, 2026 • Press Releases Dr.
+Amy Acton on The Briefing: “I am laser-focused on helping make life better for Ohioans” FOR IMMEDIATE RELEASE: October 10, 2026 CONTACT: [email protected] COLUMBUS, OH– Yesterday, Dr.
+Amy Acton joined MS NOW’s The Briefing with Jen Psaki to discuss her promise to make life better for Ohioans.
+WATCH: Dr.
+Amy Acton on MS NOW’s The Briefing with Jen Psaki “I’m running because people in my state are struggling and I am laser focused on helping make life better for Ohioans.” “I’ve been on the ground for two and a half years, going everywhere in Ohio, listening deeply.” “…people are longing for public servants again who actually solve problems instead of making them.” “…people are doing everything right, but there is no more breathing room, and that’s why we are fighting to lower costs in my state.” “We are fighting to end the corruption in our very broken Statehouse, famously corrupt Statehouse.” “…we’re fighting for things like our public schools, our libraries, our healthcare system, and so much more.” “I’m honored and privileged that even though we’ve had $100 million [spent against us]… in the most expensive governor’s race in the country, it never moved the needle.” ### SHARE Donate to Stand with Amy for Ohio $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+Join Team Amy SMS Terms: By entering your phone number and checking the box, you agree to receive periodic automated text messages about donating and voter contact.
+Msg Frequency varies.
+Msg & Data rates May apply.
+Text STOP to opt-out.
+For questions please reach out to [email protected] .
+Your mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
+To learn more about Ohioans for Amy Acton’s personal information handling practices review the Privacy Notice.
+Privacy Policy Facebook X-twitter Instagram Youtube Tiktok Donate Donate About Issues Agenda Endorsements News Store Vote Get Involved Donate by Mail: Ohioans for Amy Acton and David Pepper PO BOX 15067 Columbus, OH 43215 [email protected] • [email protected] Privacy Policy Accessibility Press Inquiry Job Openings Contact Us Paid for by Ohioans for Amy Acton and David Pepper Powered by Apollo About Meet Amy Meet David Priorities On the Issues ActON Agenda Endorsements News Store Vote Get Involved Get Involved Donate Donate Facebook X-twitter Instagram Youtube Tiktok Stand with Dr.
+Amy Acton $ # $ # $ # $ # $ # $ # $ # $ # $ # $ # Other Amount Other Amount Click on an amount to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately.

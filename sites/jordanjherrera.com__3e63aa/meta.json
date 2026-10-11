@@ -1,10 +1,12 @@
 {
- "description": "",
- "final_url": "https://www.jordanjherrera.com/cgi-sys/suspendedpage.cgi",
- "fingerprint": "d94304c488718fb821e144f855d941ad1d3f7d39",
+ "description": "Elect Jordan J Herrera for Congress now!",
+ "final_url": "https://jordanjherrera.com/",
+ "fingerprint": "80de446933be601e53f53e97d06782a4d503f43c",
  "format": 3,
- "paid_for_by": "",
+ "paid_for_by": "Paid for by Herrera for Congress",
  "rendered": false,
- "title": "Account Suspended",
- "years_mentioned": []
+ "title": "Jordan J Herrera for Congress",
+ "years_mentioned": [
+  "2026"
+ ]
 }

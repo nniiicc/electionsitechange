@@ -45,7 +45,7 @@ They murdered a man in Biddeford.
 It's as clear as that.
 I don't need an inspector general report, you can see it with your own eyes — and Senator Collins should be able to see that with her own eyes, too.
 You don't put more money into an agency that is killing people across this country.” ….And one for the road: Current multimillionaire Susan Collins claims that once upon a time, #ago, she could very briefly relate to Mainers struggling to afford health care. [ watch here ] Collins: “First of all, I have not been insured my whole life.
-I spent a year when I was running for governor in 1994 where I could not afford health insurance.” ### To reach the campaign, email info@jacksonformaine.com .
+I spent a year when I was running for governor in 1994 where I could not afford health insurance.” ### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

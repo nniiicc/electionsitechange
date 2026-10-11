@@ -1,7 +1,20 @@
 0 Skip to Content Tim for PA Home Open Menu Close Menu Tim for PA Home Open Menu Close Menu Home Skip to main content Election Day is Tuesday, November 3, 2026.
-Deadlines and details at vote.pa.gov Issues Meet Tim Endorsements District Vote Join Donate Democrat for State Representative Tim Hayes A Fighter for the 143rd District Bucks County Born and Raised Tim has spent his career fighting for the people of Bucks County and the Commonwealth of Pennsylvania, as a soldier, councilman, and environmental policy expert.
+Deadlines and details at vote.pa.gov Vote Issues Meet Tim Endorsements District Join Donate Democrat for State Representative Tim Hayes A Fighter for the 143rd District Bucks County Born and Raised Tim has spent his career fighting for the people of Bucks County and the Commonwealth of Pennsylvania, as a soldier, councilman, and environmental policy expert.
 Now he’s running to take on Harrisburg and deliver real relief for working families.
-Meet Tim Donate Endorsed by Governor Josh Shapiro Soldier Pennsylvania Army National Guard Council President Delivering results in Dublin Borough Environmental Advocate Fighting for clean water and open space Where Tim Stands The Issues Affordability Energy, groceries, and housing are out of reach for working families.
+Meet Tim Donate Endorsed by Governor Josh Shapiro Soldier Pennsylvania Army National Guard Council President Delivering results in Dublin Borough Environmental Advocate Fighting for clean water and open space Make Your Plan Voter Action Center Everything you need to register, request a mail ballot, and find your polling place in the 143rd.
+Countdown to Election Day -- Days to go Tuesday, November 3, 2026 Oct.
+19 Last day to register Oct.
+27 Last day to request a mail ballot Nov.
+3 Polls open 7 A.M. to 8 P.M.
+Mail ballots due by 8 P.M.
+Register to Vote Register online through the official Pennsylvania voter services portal.
+Check Your Registration Confirm your registration status, party, and polling place on file.
+Request a Mail Ballot Apply for a Pennsylvania mail-in ballot online in minutes.
+Find Your Polling Place Look up where to vote in person on Election Day, Tuesday, November 3, 2026.
+Dates from the Pennsylvania Department of State.
+All links go to official state voter services.
+Confirm current deadlines at vote.pa.gov .
+Where Tim Stands The Issues Affordability Energy, groceries, and housing are out of reach for working families.
 Tim will work to expand energy capacity, lower food costs with local farmers, and keep corporations from buying up homes.
 Conservation An outdoorsman and environmental policy expert, Tim will protect the district’s open space, invest in state parks and forests, support the Clean Streams Fund, and eliminate PFAS.
 Public Safety Tim has secured funding for Dublin’s police and volunteer fire departments.
@@ -90,19 +103,13 @@ Boroughs and townships across Upper Bucks County, one seat in Harrisburg.
 District boundary from U.S.
 Census TIGERweb (GEOID 42143).
 Municipalities derived by boundary intersection; markers placed inside each shared area.
-Make Your Plan Vote in the 143rd Register to Vote Register online through the official Pennsylvania voter services portal.
-Check Your Registration Confirm your registration status, party, and polling place on file.
-Request a Mail Ballot Apply for a Pennsylvania mail-in ballot online in minutes.
-Find Your Polling Place Look up where to vote in person on Election Day, Tuesday, November 3, 2026.
-Registration and mail ballot deadlines are set by the Commonwealth.
-Check current dates at vote.pa.gov .
 Volunteer Join Team Hayes Today!
 Knock doors, make calls, host a house party, or put a sign in your yard.
 Every hand helps across the 143rd.
 Questions?
 Email info@timhayesforpa.com Get involved Ready to pitch in?
 Reach out and we’ll get you plugged in.
-Email the campaign or write us directly at info@timhayesforpa.com Democrat for State Representative, Pennsylvania’s 143rd District. info@timhayesforpa.com Explore Issues Meet Tim Endorsements District Vote Join Media Follow the campaign Donate Paid For By Tim Hayes for PA Use of military photographs and references on this site does not imply or constitute endorsement by the Department of Defense, the U.S.
+Email the campaign or write us directly at info@timhayesforpa.com Democrat for State Representative, Pennsylvania’s 143rd District. info@timhayesforpa.com Explore Vote Issues Meet Tim Endorsements District Join Media Follow the campaign Donate Paid For By Tim Hayes for PA Use of military photographs and references on this site does not imply or constitute endorsement by the Department of Defense, the U.S.
 Army, or the Pennsylvania Army National Guard. © # Tim Hayes for PA Red Box × Return to Site The record on Shelby Labs A public resource on the voting record of the three-term Republican incumbent in Pennsylvania House District 143.
 Current through August 31, 2026.
 NOTICE: The following is publicly available information compiled and published by Tim Hayes for PA and made freely available to the public.

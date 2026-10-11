@@ -19,7 +19,11 @@ During my time in the Legislature, I’ve stayed focused on the issues that matt
 This November, I’m asking for your support so I can continue fighting for the people I serve and continue being a voice – for US.
 JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
-Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago Looking forward to seeing you and your family on Monday! ...
+Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago The last weekend before ballots drop and we're out and about meeting with neighbors and dropping off signs!!
+Thank you to everyone that joined us today to help us connect with neighbors in HD37! 💚💛 P.S.
+I still have a couple signs in the back of my car that I would be happy to swing by to those that want to host!
+Send me a message! 😎 ...
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Looking forward to seeing you and your family on Monday! ...
 See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
 View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews is with Kearns High Dance Company and 4 others at Kearns High School - Official.
 #ago Another amazing night in our amazing community!
@@ -44,9 +48,7 @@ Good food.
 Real conversations.
 Your community. 💜 Pull up a chair.
 Your voice belongs at the table! 📲 Scan the QR code on the flyer to RSVP! ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews updated their status.
-#ago This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
+See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.
 Success!

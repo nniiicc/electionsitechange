@@ -19,4 +19,4 @@ No matter your party, I want the privilege to serve you responsibly, efficiently
 Call, email, or stop by for a cup of coffee , one of my husband Ed’s brews , or a delicious ice cream .
 It’s time to get some real work done in Pierre.
 Respectfully, I was honored to be selected as the keynote speaker by the 2025 graduating class of Vermillion High School.
-Contact Leslie Terms & Conditions ‍ ‍| Privacy Policy Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069
+Contact Leslie Terms & Conditions ‍ ‍| Privacy Policy Paid for by Leslie Gerrish for House Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069

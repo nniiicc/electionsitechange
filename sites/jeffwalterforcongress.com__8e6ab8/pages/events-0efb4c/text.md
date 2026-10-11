@@ -1,5 +1,4 @@
-0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Upcoming Events Oct 10 Elburn Lions Octoberfest Dinner Saturday, October 10, 2026 2:30 PM 7:30 PM Elburn Lions Club (map) Google Calendar ICS Come out and enjoy an all you can eat German dinner with pork carved and served by the Mayor!
-View Event → Oct 11 DuKane A.B.A.T.E.
+0 Skip to Content About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Donate Open Menu Close Menu About Positions District Endorsements Shop Events In The News Contact Volunteer English Back Donate Upcoming Events Oct 11 DuKane A.B.A.T.E.
 Annual Toy Run Sunday, October 11, 2026 11:30 AM 3:00 PM Downtown Elburn (map) Google Calendar ICS Join DuKane A.B.A.T.E. in raising funds and collecting toys to make local area children’s Holidays that much better.
 Event starts in Elburn with the caravan of hundreds heading to Sycamore Speedway for an afternoon of music, camaraderie and fun!
 View Event → Oct 14 Java with Jeff Wednesday, October 14, 2026 7:30 AM 9:30 AM Lake Roots (map) Google Calendar ICS Coffee, Conversation, and Common Sense.
@@ -21,6 +20,7 @@ For more information or questions, contact events@jeffwalterforcongress.com .
 Dinner and Shooting with Jeff Walter View Event → Nov 3 Election Day!!
 Tuesday, November 3, 2026 7:00 AM 7:00 PM Your Polling Place (map) Google Calendar ICS Get out to VOTE!!
 Vote Jeff Walter for Congress!
+View Event → Oct 10 Elburn Lions Octoberfest Dinner Saturday, October 10, 2026 2:30 PM 7:30 PM Elburn Lions Club (map) Google Calendar ICS Come out and enjoy an all you can eat German dinner with pork carved and served by the Mayor!
 View Event → Oct 8 Wauconda GOP Meeting Thursday, October 8, 2026 7:00 PM 9:00 PM Google Calendar ICS Join Jeff Walter at the Wauconda GOP Meeting, bringing proven leadership, common sense, and a commitment to putting our communities first.
 View Event → Oct 6 STC Meet and Greet with Jennifer Davis Tuesday, October 6, 2026 5:30 PM 7:30 PM The Office Dining & Spirits (map) Google Calendar ICS Come out and meet the Congressional candidates for the 8th and 11th Districts!
 View Event → Oct 6 Java with Jeff Tuesday, October 6, 2026 7:30 AM 9:30 AM Toast and Roast (map) Google Calendar ICS Coffee, Conversation, and Common Sense.

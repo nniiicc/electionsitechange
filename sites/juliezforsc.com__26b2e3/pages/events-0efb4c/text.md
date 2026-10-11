@@ -1,10 +1,10 @@
 Skip navigation menu About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate Campaign Events Team Julie Z for SC needs YOU Just like a championship football team, no one wins the game alone.
 It takes all of us showing up, doing our part, and working together.
-Julie Z for SC: Anytime Phonebank Multiple Times Virtual Event https://www.openvpb.com/vpb_bycode/906846F-923198 Julie Zimmerman is running to represent South Carolina House District 71.
+Julie Z for SC: Canvass Days Multiple Times Ballentine Community Center 1035 Bird Rd, Irmo, SC, 29063 Julie Zimmerman is running to represent South Carolina House District 71.
+District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
+Help us make… Show more RSVP Julie Z for SC: Anytime Phonebank Multiple Times Virtual Event https://www.openvpb.com/vpb_bycode/906846F-923198 Julie Zimmerman is running to represent South Carolina House District 71.
 District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
 Help us make… Show more RSVP Julie Z for SC: Flip the Future Phonebank Multiple Times Virtual Event https://www.openvpb.com/vpb_bycode/6E2C66Q-891946 Julie Zimmerman is running to represent South Carolina House District 71.
-District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
-Help us make… Show more RSVP Julie Z for SC: Canvass Days Multiple Times Ballentine Community Center 1035 Bird Rd, Irmo, SC, 29063 Julie Zimmerman is running to represent South Carolina House District 71.
 District 71 stretches from Irmo to Ballentine to Chapin, covering Richland County and parts of Lexington County.
 Help us make… Show more RSVP Julie Z for SC: Autodialer Phonebank Multiple Times This event’s address is private.
 Sign up for more details This event’s address is private.

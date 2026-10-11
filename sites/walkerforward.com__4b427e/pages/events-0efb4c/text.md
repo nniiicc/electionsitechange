@@ -1,7 +1,5 @@
 Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Upcoming Events Sep 19 to Nov 2 Vote Early: In Person or by Mail Sat, Sep 19, 2026 9:00 AM Mon, Nov 2, 2026 5:00 PM Anoka County Government Center (map) Google Calendar ICS In Minnesota, you can vote absentee in person, or by mail, through November 2nd.
-Read more at mnvotes.gov View Event → Oct 10 Andover Day of Doorknocking Saturday, October 10, 2026 12:00 PM 3:30 PM Sunshine Park (map) Google Calendar ICS October 10th from either noon to 3pm, or 3:30pm to 6:30pm, join the DFL in an Andover Door Knocking event.
-More details….
-View Event → Oct 13 Voting: Early Registration Deadline Tuesday, October 13, 2026 9:00 AM 10:00 AM Walker Forward (map) Google Calendar ICS Need to register to vote?
+Read more at mnvotes.gov View Event → Oct 13 Voting: Early Registration Deadline Tuesday, October 13, 2026 9:00 AM 10:00 AM Walker Forward (map) Google Calendar ICS Need to register to vote?
 Do so by October 13th ahead of time, or remember that you can register in person on Election Day, too.
 View Event → Oct 16 to Nov 2 Early Voting in Person Fri, Oct 16, 2026 9:00 AM Mon, Nov 2, 2026 5:00 PM Ramsey City Hall (map) Google Calendar ICS Vote in person.
 Drop your ballot in the machine.
@@ -11,6 +9,8 @@ At your city hall or the Anoka County Government Center.
 View Event → Oct 20 Last Day to Request Absentee By Mail Tuesday, October 20, 2026 9:00 AM 10:00 AM Walker Forward (map) Google Calendar ICS If you need to request a mail in ballot, we recommend doing so by October 20th to ensure it gets back by Election Day to be counted.
 View Event → Nov 3 Election Day Tuesday, November 3, 2026 7:00 AM 8:00 PM House District 31A (map) Google Calendar ICS Election Day is November 3rd, with polls open from 7am-8pm.
 Check your ballot, your polling location online, and have a plan to vote!
+View Event → Oct 10 Andover Day of Doorknocking Saturday, October 10, 2026 12:00 PM 3:30 PM Sunshine Park (map) Google Calendar ICS October 10th from either noon to 3pm, or 3:30pm to 6:30pm, join the DFL in an Andover Door Knocking event.
+More details….
 View Event → Sep 17 Brews with Brian Thursday, September 17, 2026 6:30 PM 8:30 PM Willy McCoy's - Ramsey (map) Google Calendar ICS Join us on September 17th for Brews with Brian at Willy McCoy’s in Ramsey!
 View Event → Sep 12 Ramsey Happy Days Saturday, September 12, 2026 8:00 AM 9:00 PM Sunwood Drive (map) Google Calendar ICS Ramsey Happy Days 2026 View Event → Aug 29 to Aug 30 Door Knocking Weekend Sat, Aug 29, 2026 9:00 AM Sun, Aug 30, 2026 7:00 PM Walker Forward (map) Google Calendar ICS Door Knocking in Ramsey and Andover for 31A with Brian Walker.
 Sign up is easy, we’ll meet together and disperse.

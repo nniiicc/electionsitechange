@@ -56,6 +56,10 @@
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=A+Conversation+About+Utah%E2%80%99s+Environment&dates=20261012T010000Z%2F20261012T030000Z"
 },
 {
+"text": "How I Vote",
+"href": "https://www.emilybussutah.com/new-page"
+},
+{
 "text": "ICS",
 "href": "https://www.emilybussutah.com/events/conversation?format=ical"
 },
@@ -66,6 +70,10 @@
 {
 "text": "Priorities",
 "href": "https://www.emilybussutah.com/priorities"
+},
+{
+"text": "Record",
+"href": "https://www.emilybussutah.com/record"
 },
 {
 "text": "Request a Yard Sign",

@@ -1,4 +1,4 @@
-top of page 20-YEAR AIR FORCE VETERAN HOME MEET CARLOS MISSION VOLUNTEER DONATE THE MISSION FOCUSED ON PUTTING TEXAS FIRST.
+top of page 20-YEAR AIR FORCE VETERAN HOME MEET CARLOS MISSION VOTING INFORMATION VOLUNTEER DONATE THE MISSION FOCUSED ON PUTTING TEXAS FIRST.
 BORDER WASHINGTON ECONOMY SENIORS LAW ENFORCEMENT VETERANS DEFEATING THE WOKE LEFT ENERGY AGRICULTURE SUPPORTING PRESIDENT TRUMP AMERICA MUST WIN THE NEW ECONOMY Securing Our Border I'm the only candidate in this race who's actually been deployed to the southern border.
 As a twenty-year Air Force veteran, I've seen firsthand how the cartels exploit every weakness.
 We need to continue securing our border and ensure our Border Patrol agents have the tools, manpower, and support they deserve.

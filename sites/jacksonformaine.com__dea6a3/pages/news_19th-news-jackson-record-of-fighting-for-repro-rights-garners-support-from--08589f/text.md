@@ -28,7 +28,7 @@ She was struck at the time, she said, by Collins’ record as a Republican who s
 Voting for her felt like a vote for a less polarized country.
 Now, Mahoney, 65, is “mortified” by that vote .
 When the Supreme Court overturned Roe, she found herself thinking about what it would mean to be a young woman in Dallas, the city where she lived as a 20-something in the 1980s, and where she got a legal abortion.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

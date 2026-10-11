@@ -9,7 +9,7 @@ But none of that requires silence in the face of what looks like a reckless rush
 “From my time serving in the Middle East and at the White House, I know there are hard-nosed ways to confront Iran without sending American kids into harm’s way: enforce sanctions, isolate the regime globally, support Iran’s democracy movement, and apply sustained pressure.
 Instead, this Administration appears to have engaged the U.S. military in strikes to herald regime change with no Congressional authorization, no clear mission, and no exit plan.
 That’s not strength, that’s recklessness.
-Our troops and the American people deserve better.” # # # If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+Our troops and the American people deserve better.” # # # Media If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
 Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
 Commander in the United States Coast Guard Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

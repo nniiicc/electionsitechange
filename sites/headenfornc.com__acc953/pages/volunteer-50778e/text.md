@@ -3,4 +3,4 @@ Enter your contact information and volunteer interests and someone from our team
 Thank you for supporting Shelly Headen for NC House District 62!
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Volunteer opportunities Canvassing Phone banking Host a candidate meet & greet I’d like a yard sign (optional) opportunities Message Message (optional) Submit Paid for By Shelly Headen for North Carolina | Privacy Policy
+Name * First Last Email * Volunteer opportunities Canvassing Phone banking Host a candidate meet & greet I’d like a yard sign opportunities Message Volunteer Message (optional) Submit Paid for By Shelly Headen for North Carolina | Privacy Policy

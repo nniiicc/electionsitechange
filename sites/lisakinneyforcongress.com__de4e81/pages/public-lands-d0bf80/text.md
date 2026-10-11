@@ -29,12 +29,13 @@ But we cannot do any of that if we no longer own the land.
 I will fight every attempt to sell off our public lands.
 I will stand against the short-sighted politicians who see our mountains and prairies as line items on a ledger.
 Our public lands are the soul of Wyoming, and I will keep them where they belong: in your hands.
-Latest Updates WTE Election Guide October 6, 2026 Lisa answers important questions in this election guide from the Wyoming Tribune Eagle.
+Latest Updates Lisa Earns Another Endorsement October 10, 2026 Bill Schwartz is a colleague and friend of Lisa Kinney who understands the important issues with this election.
+Thank you, Bill!
+WTE Election Guide October 6, 2026 Lisa answers important questions in this election guide from the Wyoming Tribune Eagle.
 Rep.
 Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress October 5, 2026 Lisa is honored to receive an endorsement from Congresswoman Pettersen of Colorado’s 7th District Friends Endorse Lisa for Congress September 30, 2026 Lisa is grateful for the endorsements of former legislators and friends.
 Move to a New Building – July 4, 1981 September 22, 2026 Lisa Kinney was instrumental in getting a bond issue passed… Read more : Move to a New Building – July 4, 1981 Lisa’s Answer to an ICE Pledge September 17, 2026 Pledges are tricky to navigate these days.
 Why Can’t Drones be Built in Wyo?
 September 10, 2026 Kinney proposes exploring federal partnerships to make Wyoming a center… Read more : Why Can’t Drones be Built in Wyo?
 Big Horn Basin Tour Dates September 9, 2026 Join Lisa Kinney and Jim Byrd as they make stops through the Big Horn Basin for meet & greet opportunities!
-People Ask and Lisa Answers September 7, 2026 Lisa has provided answers to frequently asked questions when she travels the state.
 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

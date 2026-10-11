@@ -1,4 +1,4 @@
-top of page Home Meet Abbie Priorities Endorsements Merch Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
+top of page Home Meet Abbie Priorities Endorsements Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
 DONATE Media Toolkit Download logos or headshots; find out more about our style; or visit our social media feeds below.
 Campaign Logos Download the full suite of logos here .
 Headshots Download headshots here .

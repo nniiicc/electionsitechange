@@ -1,11 +1,4 @@
-0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 10 Pumpkins in the Park-Nowthen Saturday, October 10, 2026 5:00 PM 8:00 PM Beach Shelter (map) Google Calendar ICS Keenan Gentry and Jen Bloomquist are partnering together for an event in Nowthen.
-Both Jen and Keenan cover Oak Grove with districts 30B and 31B.
-Come out to the park with us as we celebrate moving into the fall season.
-Take a break and enjoy the crisp air while attending a family friendly event.
-You will be able to find us at the Prairie Park Pavillion.
-What to expect: Pumpkin painting Pumpkin carving Yard games Sweet treats and candy Warm beverages Face Painting Photo Booth We will provide everything but if you have your own pumpkins, you are more than welcome to bring them along.
-Hope to see you there.
-View Event → Oct 11 Coffee and Convo Sunday, October 11, 2026 10:30 AM 12:30 PM Dunn Brothers Coffee (map) Google Calendar ICS Come join me every other Sunday for coffee and conversation.
+0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 11 Coffee and Convo Sunday, October 11, 2026 10:30 AM 12:30 PM Dunn Brothers Coffee (map) Google Calendar ICS Come join me every other Sunday for coffee and conversation.
 Get to know me and why I'm running for seat 30B.
 Would you like to discuss what matters to you most?
 Bring your questions, concerns, and ideas.
@@ -42,7 +35,14 @@ Bring your questions, concerns, and ideas.
 We will also be collection for Mutual Aid.
 If you have anything you would like to donate, bring that along.
 We can even take things to Open Doors for Youth, Boys and Girls club, or CAER food shelf. *Note: Mobilize description needs to be updated.
-Coffee and Conversation with Keenan Gentry · Mobilize View Event → Oct 7 Door knock in Elk River Wednesday, October 7, 2026 5:00 PM 7:00 PM 1104 Lions Park Drive Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Elk River Wednesday afternoon.
+Coffee and Conversation with Keenan Gentry · Mobilize View Event → Oct 10 Pumpkins in the Park-Nowthen Saturday, October 10, 2026 5:00 PM 8:00 PM Beach Shelter (map) Google Calendar ICS Keenan Gentry and Jen Bloomquist are partnering together for an event in Nowthen.
+Both Jen and Keenan cover Oak Grove with districts 30B and 31B.
+Come out to the park with us as we celebrate moving into the fall season.
+Take a break and enjoy the crisp air while attending a family friendly event.
+You will be able to find us at the Prairie Park Pavillion.
+What to expect: Pumpkin painting Pumpkin carving Yard games Sweet treats and candy Warm beverages Face Painting Photo Booth We will provide everything but if you have your own pumpkins, you are more than welcome to bring them along.
+Hope to see you there.
+View Event → Oct 7 Door knock in Elk River Wednesday, October 7, 2026 5:00 PM 7:00 PM 1104 Lions Park Drive Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Elk River Wednesday afternoon.
 Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
@@ -163,13 +163,7 @@ We’ll be gathering for an open house and trivia night to connect with old frie
 Food and drink will be provided along with a prize for our winner.
 Mobilize View Event → Jun 29 Back to the Majority Virtual Fundraiser Monday, June 29, 2026 7:00 PM 9:00 PM Virtual (zoom) (map) Google Calendar ICS “Join Back to the Future Star and Southern Minnesotan Lea Thompson for a virtual fundraiser in support of our Rural DFL House Candidates on Monday June 29 at 7pm.
 Zoom link will be provided on the day of the event at the email at which you donated.” ActBlue for virtual event.
-View Event → Jun 27 SD30 Pizza Party & Guitar Hero Saturday, June 27, 2026 12:30 PM 2:30 PM St.
-Michael City Hall (map) Google Calendar ICS Join us for a pizza party with your SD30 DFL candidates.
-We will also be playing board games, card games, and even Guitar Hero too!
-This will be a great opportunity to connect with neighbors through games, food, and conversation.
-We look forward to seeing you there!
-We will be in Gries Lenhardt Allen Room.
-Mobilize View Event → Newsletter Block This newsletter signup form needs a storage option.
+View Event → Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Join Our Mailing List Subscribe for expert tips on navigating public programs, upcoming policy changes, and exclusive early access to new digital tools.
 Email Address Sign Up Thank you!

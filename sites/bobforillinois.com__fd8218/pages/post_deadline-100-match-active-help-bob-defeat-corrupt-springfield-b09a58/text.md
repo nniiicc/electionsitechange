@@ -1,4 +1,4 @@
-top of page HOME ABOUT BOB BLOG EVENTS ON THE TRAIL WITH BOB FIORETTI VOLUNTEER Fioretti Direct Mail Campaign PODCASTS/MEDIA CONTACT US DONATE Search All Posts safe t act Search DEADLINE: 100% Match Active (Help Bob defeat corrupt Springfield) #ago 1 min read Official Campaign Notice // Oct.
+top of page HOME ABOUT BOB BLOG EVENTS ON THE TRAIL WITH BOB FIORETTI VOLUNTEER Fioretti Direct Mail Campaign PODCASTS/MEDIA CONTACT US DONATE Search All Posts safe t act Search DEADLINE: 100% Match Active (Help Bob defeat corrupt Springfield) Oct 3 1 min read Official Campaign Notice // Oct.
 15th Deadline Dead Heat Race // Oct.
 15th Deadline Ahead DOUBLE YOUR IMPACT: 100% MATCH ACTIVE Act now: Every dollar you give is instantly doubled!
 We have a rare, limited-time opportunity to reach our goal through a generous donor match.

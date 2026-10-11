@@ -6,7 +6,7 @@ Passing the house in early February this major police reform bill of 2021 is wel
 Supported by law enforcement, public defenders and key organizations in Black communities, the measure requires de-escalation training for all police officers.
 It treats chokeholds as deadly force.
 And it allows the state training board to “decertify” officers who commit misconduct. https://www.wthr.com/article/news/local/indiana/house-bill-1006-indiana-police-officers-deescalation-chokehold/531-a1cff591-91f9-409e-b22c-3ee5e14ec353 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Post navigation Prev Supporting Education Next Supporting lawful gun owners in Indiana Leave a comment Cancel reply Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Post navigation Prev Supporting Education Next Supporting lawful gun owners in Indiana Leave a Reply Cancel reply Comment Name Email Website Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
 Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
 All rights reserved.
 Paid for by Ledbetter for State Representative Blog at WordPress.com.

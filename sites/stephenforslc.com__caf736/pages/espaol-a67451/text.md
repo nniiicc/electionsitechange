@@ -1,4 +1,4 @@
-Sign In My Account Español Platform Endorsements Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Contact Donate Scroll Luchando por un Westside más fuerte Al igual que tú, estoy enojado por el estado de la política en Utah.
+Sign In My Account Español Platform Endorsements Voting Information Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Voting Information Contact Donate Scroll Luchando por un Westside más fuerte Al igual que tú, estoy enojado por el estado de la política en Utah.
 Veo cómo nuestra legislatura ataca los derechos de las personas marginadas y de la clase trabajadora, mientras se priorizan los intereses de los ricos y poderosos.
 Me enoja que nuestra legislatura señale y ataque a miembros de la comunidad LGBTQ+ y busque maneras de hacer más difíciles las vidas de los inmigrantes.
 Su intimidación solo sirve para distraer de su abandono de todos los habitantes de Utah, especialmente las personas con discapacidades, las personas mayores, los trabajadores y las familias.
@@ -11,7 +11,7 @@ View fullsize Nick Mitchell, Concejal de South Salt Lake View fullsize PAC de la
 View fullsize Mustafa Khader View fullsize Alisa Van Langeveld, Ph.D.
 View fullsize Deb Stone, Ph.D.
 View fullsize Mandy Lynn Danzig, LCSW View fullsize Planned Parenthood Action Council of Utah View fullsize Caucus Laboral Demócrata del Condado de Salt Lake View fullsize Gail Boling View fullsize Billy Clouse View fullsize Caucus Demócrata de Veteranos del Condado de Salt Lake View fullsize Izaak Cervantes y Eddie Miranda View fullsize AFSCME Local 1004 View fullsize Equality Utah View fullsize Eli, El Niño del Monociclo de Rose Park View fullsize ... ¡y espero ganarme también tu apoyo!
-View fullsize SMART-TD Ver la lista completa de respaldos “ Cuando aborda inquietudes, Stephen escucha y ofrece respuestas reflexivas.
+View fullsize SMART-TD View fullsize Sierra Club Ver la lista completa de respaldos “ Cuando aborda inquietudes, Stephen escucha y ofrece respuestas reflexivas.
 Realmente se preocupa por los demás y quiere que todos tengan la oportunidad de salir adelante.
 Investiga los temas para encontrar soluciones reales, y hará un gran trabajo en la legislatura estatal. ” — Concejal Nick Mitchell “ Stephen aporta ideas nuevas y una dedicación sincera y compasiva al servicio público.
 Su enfoque está en mejorar la calidad de vida de todas las personas de nuestra comunidad, asegurándose de que la gente se sienta escuchada, apoyada y representada.

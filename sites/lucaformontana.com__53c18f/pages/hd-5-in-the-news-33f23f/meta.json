@@ -1,11 +1,13 @@
 {
  "description": "Stay updated with the latest Montana State Legislature News, candidate filings, and insights from Luca Welle&#39;s campaign for Montana elections.",
  "final_url": "https://lucaformontana.com/hd-5-in-the-news",
- "fingerprint": "6f472aee152a68517a088f78e479cd3d407aa195",
+ "fingerprint": "941fb7adb38b3d205e93ec66c2438a06ba8a687a",
  "format": 3,
  "paid_for_by": "Paid for by Luca for Montana Luca Welle, Democrat PO Box 136, Columbia Falls, MT 59912 Copyright © # Luca for Montana - All Rights Reserved",
+ "rendered": false,
  "title": "HD 5 in the News",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2028"
  ]
 }

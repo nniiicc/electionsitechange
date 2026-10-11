@@ -1,4 +1,4 @@
-Back to all Quintilis Jul 31, 2025 July 2025 Letter Maine Flowers - 13 July 2025 - 07:44 - Ogunquit, ME - Taken by Jonah Quintilis, is what the Romans originally called that which was the fifth month.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Quintilis Quintilis Quintilis Jul 31, 2025 Jul 31, 2025 July 2025 Letter Maine Flowers - 13 July 2025 - 07:44 - Ogunquit, ME - Taken by Jonah Maine Flowers - 13 July 2025 - 07:44 - Ogunquit, ME - Taken by Jonah Quintilis, is what the Romans originally called that which was the fifth month.
 It wasn’t until 44BC, when Julius Caesar was murdered, that the month was named Iulius.
 In honor of the fallen Emperor of Rome.
 Now the seventh month on the Gregorian calendar 2069 years later, we still call it July.
@@ -91,7 +91,7 @@ That is exactly what I am doing.
 I am New Hampshire born and raised.
 I love this State because it is my home.
 I wouldn’t refuse to have dinner with my neighbor because our politics don’t align, and I certainly wouldn’t refuse to do the same with colleagues of mine with whom I am supposed to work for all but two months of the year.
-Lunch break - 22 July, 2025 - 14:20 - Greenfield, NH - Taken by Jonah To get by this year during the legislative session, I worked a variety of different jobs for people around the region as they would pop up.
+Lunch break - 22 July, 2025 - 14:20 - Greenfield, NH - Taken by Jonah Lunch break - 22 July, 2025 - 14:20 - Greenfield, NH - Taken by Jonah To get by this year during the legislative session, I worked a variety of different jobs for people around the region as they would pop up.
 Driving people around, helping people move in and out of their homes, house sitting, and whatever else I could find to meet rent and my other monthly bills.
 With a combination of those jobs and the mileage stipend from the State House, I was able to do just that.
 Living in the gig economy is truly something else.
@@ -140,4 +140,4 @@ So I will end by relaying a poem. - A Boat, Beneath a Sunny Sky The Epilogue To 
 Still she haunts me, phantomwise, Alice moving under skies Never seen by waking eyes.
 Children yet, the tale to hear, Eager eye and willing ear, Lovingly shall nestle near.
 In a Wonderland they lie, Dreaming as the days go by, Dreaming as the summers die: Ever drifting down the stream— Lingering in the golden gleam— Life, what is it but a dream?
-Our Town Full Moon - 7 July 2025 - 21:19 - Peterborough, NH - Taken by Jonah ‹ Spare ‘oom They Don’t Really Care About Us › Back to all
+Our Town Full Moon - 7 July 2025 - 21:19 - Peterborough, NH - Taken by Jonah Our Town Full Moon - 7 July 2025 - 21:19 - Peterborough, NH - Taken by Jonah ‹ Spare ‘oom ‹ Spare ‘oom ‹ Spare ‘oom They Don’t Really Care About Us › They Don’t Really Care About Us › They Don’t Really Care About Us › Back to all

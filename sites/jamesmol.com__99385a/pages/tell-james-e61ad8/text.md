@@ -1,6 +1,6 @@
 top of page We're in the final stretch!
 If you would like to host a yard sign, please click on "Get Involved" - thank you!
-James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers TELL JAMES Young Voter Survey DISTRICT 61 • A DIRECT LINE TO JAMES Tell James What Matters to You Not a contact form.
+James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil TELL JAMES Young Voter Survey DISTRICT 61 • A DIRECT LINE TO JAMES Tell James What Matters to You Not a contact form.
 A real conversation.
 James reads every submission and responds personally — because the people of District 61 deserve to be heard, not managed.
 48 Hours James responds personally within 48 hours.

@@ -12,5 +12,5 @@ Drew Stokesbary , R-Auburn, has been recognized for his work in Olympia to prese
 Stokesbary has become an important partner by leading the effort on passage on several important bills which help us.
 Whether it is leading the charge on initiatives to help firefighters in their jobs, or modernize our administrative statute to save taxpayers money, Rep.
 Stokesbary has listened, researched, and worked to get those bills passed.” Awards good government public safety More For You Rep.
-Stokesbary takes oath, begins work for 31st District In the News Saving Washington’s Charter Schools In the News State Patrol Troopers endorse Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Stokesbary votes ‘no’ on House budget In the News Republican Drew Stokesbary Launches Campaign for State House of Representatives Press Releases Auburn Chamber of Commerce gives Stokesbary highest rating Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

@@ -1,4 +1,4 @@
-Skip to content Mosteller for WV AEP District 21 Issues Donation Education Endorsements Home Infrastructure Opioid Pandemic Privacy Policy volunteer WomensRights Fixing Our Broken Education System Since Republicans took complete control of our legislature, our education system has fallen behind.
+Skip to content Mosteller for WV Home Endorsements Mosteller for WV AEP District 21 Issues Donation Education Endorsements Home Infrastructure Opioid Pandemic Privacy Policy volunteer WomensRights Fixing Our Broken Education System Since Republicans took complete control of our legislature, our education system has fallen behind.
 We’re dead last in the nation.
 It’s no secret why.
 First on their agenda was to wage a war on educators and support staff.

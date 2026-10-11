@@ -1,4 +1,4 @@
-Skip to content Sam Forstag for Montana For All Of Us Home Policies Endorsements Get Involved Volunteer Jobs Events Store Home Policies Endorsements Get Involved Volunteer Jobs Events Store X-twitter Youtube Instagram Tiktok Facebook Menu Home Policies Endorsements Get Involved Volunteer Jobs Events Store Home Policies Endorsements Get Involved Volunteer Jobs Events Store Policies Endorsements Volunteer Donate Privacy Policy Last Updated 1/5/2026, 6:14:55 PM The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
+Skip to content Rush a donation to Sam's campaign today → X-twitter Youtube Instagram Tiktok Facebook Menu Volunteer Donate Privacy Policy And Terms Of Service Last Updated 1/5/2026, 6:14:55 PM The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we’ve created this policy to explain our privacy practices.
 This applies to https://samformontana.com/ only.
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices.
@@ -71,10 +71,23 @@ We encourage you to review and understand their privacy practices before providi
 Updating This Policy We may revise or update this policy if our practices change, as we change existing or add new features or as we develop better ways to inform you of features we think will be of interest.
 You should refer back to this page often for the latest information.
 If we decide to change this policy, we will post a new policy on our sites and change the date at the top of the policy.
-How to Contact Us If you have any questions, comments or concerns, please contact us by e-mail at [email protected] , or at the mailing address listed below: 400 West Broadway St Suite 101 – 417, Missoula, MT 59802 Paid for by Sam for Montana Let's Win This.
+How to Contact Us If you have any questions, comments or concerns, please contact us by e-mail at [email protected] , or at the mailing address listed below: 400 West Broadway St Suite 101 – 417, Missoula, MT 59802 Paid for by Sam for Montana Join Our Campaign No one else is coming.
+It's up to us.
+Taking Montana back for working people is going to to take all of us .
+This campaign is only possible because people are chipping in their time and hard-earned dollars to help take back Montana's 1st Congressional District.
+Support The Campaign Powered by people.
+No corporate PACs.
+Unlike Aaron Flint, Sam doesn’t take donations from corporate PACs.
+Sam’s counting on grassroots donors like you to pitch in and help grow his campaign.
+Donate Become a Volunteer We know that elections are won on the ground – by volunteers talking to their friends and neighbors.
+Raise your hand today and one of our organizers will be in touch about helping out!
+Join Us Help Spread The Word Follow Sam to stay up-to-date as he brings his campaign to every small town and big city across western Montana!
+Help get the word out by sharing his message online, wherever you are!
+Let's Win This.
 It's Going To Take All Of Us.
-Sign up to hear from Sam on upcoming events, campaign updates, and more.
-First Name Last Name Email Cell Phone (optional) Zip Code Let's Go!
+First Name Last Name Cell Phone Zip Code Email Join Us By providing your cell phone number you consent to receive recurring updates from Sam for Montana, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
 X-twitter Youtube Instagram Tiktok Facebook Sam is an organizer, a union leader, and a smokejumper – a firefighter who parachutes into remote areas to stop fires before they grow – running for Congress in Montana’s 1st District.
 Support his people-powered campaign by making a donation today!
-Donate Volunteer [email protected] Media Privacy Policy Jobs Checks can be mailed to: Sam for Montana PO Box 7224 Missoula MT 59807 Paid for by Sam for Montana (not by billionaires and corporate PACs) For All Of Us All rights reserved Home Endorsements In The News Policies Volunteer Jobs Events Store Home Endorsements In The News Policies Volunteer Jobs Events Store X-twitter Youtube Instagram Tiktok Close Menu
+Donate Volunteer [email protected] Media Privacy Policy Jobs Checks can be mailed to: Sam for Montana PO Box 7224 Missoula MT 59807 Paid for by Sam for Montana (not by billionaires and corporate PACs) Home Meet Sam Policies Endorsements Volunteer Jobs Events Store Home Meet Sam Policies Endorsements Volunteer Jobs Events Store X-twitter Youtube Instagram Tiktok Facebook Close Menu

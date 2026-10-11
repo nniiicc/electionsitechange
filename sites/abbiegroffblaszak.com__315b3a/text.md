@@ -1,4 +1,4 @@
-top of page Home Meet Abbie Priorities Endorsements Merch Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
+top of page Home Meet Abbie Priorities Endorsements Vote Get Involved Volunteer Host a Sign Share Your Vision Media Toolkit More Use tab to navigate through the menu items.
 DONATE Together, we will build a Michigan that works for us all.
 Abbie is ready to work hard on behalf of the people of West Michigan, collaborating with you to deliver policies and programs that fix systemic inequities and meet the needs of every Michigander.
 Learn More Let's get started.

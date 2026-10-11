@@ -7,5 +7,5 @@ More info › 13 Aug Thursday, 8:00 AM – 11:00 AM Midwest Summit: Technology 2
 More info › 13 Aug Thursday, 1:00 PM – 5:00 PM AI in Practice Workshop Microsoft Commons, Fargo Designed to bridge the gap between understanding AI and AI's potential applications.
 More info › 14 Aug Friday, 2:00 PM – 8:00 PM Picnic In the Park Cass County Republicans Rheult Farm Shelter @ 2902 25th St, S. , Fargo Gather to socialize with fellow Republicans and their guests!
 More info › VOLUNTEER DONATE VOTING INFO Get Updates Thank you for signing up!
-News Be an Informed Voter.
-Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu
+News League of Women Voters Forum Be an Informed Voter.
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu

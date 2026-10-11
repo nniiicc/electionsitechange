@@ -41,9 +41,4 @@ The Record: The Oregon Government Ethics Commission found that Smith operated th
 Investigators discovered he manipulated a federal defense grant application to falsely claim a "board-approved" salary increase, netting himself an unauthorized $195,000 salary while routinely signing his own timecards and approving his own paid time off. .
 Josiah’s Pivot: Josiah will mandate full economic impact disclosures and empower local county commissioners so that no deals are made behind closed doors Bring honesty, transparency, & accountability back to Salem.
 Rural working families expect growth to be fair, balanced, and accountable to the local people who live here.
-Donate Volunteer Wildfire Resilience Data Centers Farms & Water Rural Economy llm-full.txt Newsletter Block This newsletter signup form needs a storage option.
-Edit the block and enter a storage location via the Storage tab.
-Subscribe Sign up with your email address to receive news and updates.
-Email Address Sign Up We will always respect your privacy.
-Thank you!
-Home Priorities Wildfire Resilience & Roads Community Needs Over Data Centers Family Farms & Water Quality Investment in Rural Economy Integrity About Josiah Volunteer Contact Donate Paid for by Josiah Dean for House 57 Paid for by Josiah Dean for House 57
+Donate Volunteer Wildfire Resilience Data Centers Farms & Water

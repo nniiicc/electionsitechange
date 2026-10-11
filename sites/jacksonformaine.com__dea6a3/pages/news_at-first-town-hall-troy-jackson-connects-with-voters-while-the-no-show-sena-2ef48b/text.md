@@ -21,7 +21,7 @@ Jackson invited Senator Susan Collins to join him in Lewiston and saved a seat f
 “I’ll keep showing up and answering the tough questions, and I hope after 25 years of hiding, Susan Collins can find it in herself to do the same thing.” The event in Lewiston was the first in a series of town halls and community conversations Jackson will hold with Mainers across the state in the coming weeks.
 Jackson will hold his next town halls Thursday in Gorham and Saturday in Jay, with additional events to be announced.
 Senator Collins is welcome at those, too.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

@@ -2,7 +2,8 @@ Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar 
 I will fight for you no matter your party affiliation.
 We may not agree on every issue, but we all want our families to be safe, our hard work to mean something, and our communities to have a fair shot.
 I’ll listen to you, show up for you, and work for everyone in the 8th District.
-More Conversations Oct 8, 2026 - I thoroughly enjoyed joining Aunties Unfiltered and was honored to be the first guest on their show!
+More Conversations Oct 10, 2026 - Thank you, Carroll County Democrat Party Attendees!
+Oct 8, 2026 - I thoroughly enjoyed joining Aunties Unfiltered and was honored to be the first guest on their show!
 Oct 7, 2026 - Thank you to everyone who joined us in Eads, TN, for our fundraiser and early birthday celebration!
 Oct 7, 2026 - West Tennessee moms hold it all together.
 Work, family, and home.
@@ -38,7 +39,6 @@ Sep 19, 2026 - Spending time with and supporting our farmers in Henderson County
 Sep 19, 2026 - Thank you, Main Street Festival (Decaturville) Attendees!
 Sep 19, 2026 - Thank you, Shelby County Democratic Women!
 Sep 19, 2026 - Thank you, Cooper-Young Festival Attendees!
-Sep 18, 2026 - When asked who inspires me, I can’t help but think of two amazing women who have left us too soon.
 Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

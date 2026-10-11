@@ -10,5 +10,5 @@ Well-educated graduates attract employers, increase productivity, and support ci
 When education no longer depends on zip code or tax appraisal, every region benefits.
 Fair funding is not charity; it is an investment in Ohio’s long-term prosperity and freedom.
 By removing the property tax burden and leveling the field for rural schools, Ohio can give every child a fair start in life.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Leave a Reply Cancel reply People over Party Home About All rights reserved Discover more from Godwin for Ohio Subscribe now to keep reading and get access to the full archive.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Leave a Reply Cancel reply Comment Name Email Website Δ People over Party Home About All rights reserved Discover more from Godwin for Ohio Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading %d

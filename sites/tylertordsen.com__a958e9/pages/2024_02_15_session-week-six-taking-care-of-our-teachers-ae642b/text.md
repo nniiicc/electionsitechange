@@ -29,7 +29,7 @@ Kristin Conzet (R-D32) takes the oath of office on Monday, February 12, 2024 For
 Things are moving in the right direction, and it will be over before we know it.
 As always, keep in touch anytime and have a great Presidents’ Day weekend!
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen February 15, 2024 February 15, 2024 Posted in BLOG Post navigation Previous Post Previous post: SESSION WEEK FIVE – Hitting the Halfway Point Next Post Next post: I Have Some Exciting News to Share!
-Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Leave a Reply Cancel reply Comment Name Email Website Δ PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website %d

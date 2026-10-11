@@ -1,4 +1,4 @@
-0 Skip to Content MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Our Platform This campaign is built on a simple vision.
+0 Skip to Content MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Our Platform This campaign is built on a simple vision.
 When our needs are met and the rich pay their fair share, we’ll build a stronger Western New York for generations to come.
 A healthy, housed and affordable Western New York is won together—Adam will be our advocate in Albany.
 Housing Rent continues to rise, and home ownership has never been more expensive.

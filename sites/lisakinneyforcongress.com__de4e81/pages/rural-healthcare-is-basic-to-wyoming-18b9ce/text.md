@@ -11,6 +11,6 @@ Sue Lowe, Laramie optometrist, asked her to sponsor this legislation to allow op
 Prior to Senator Kinney’s bill, if a patient saw an optometrist and needed medication, the patient had to get a second appointment with a family doctor for the prescription.
 “Passing my bill served rural patients because the optometrist could prescribe the medication immediately without the patient seeing a second doctor,” Kinney stated.
 “I will continue and am determined to help resolve rural health care issues when I am elected to the US House,” Kinney concluded. ← Election Interference?
-Labor Day Picnic → More posts WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
+Labor Day Picnic → More posts Lisa Earns Another Endorsement Posted on October 10, 2026 WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
 Posted on October 5, 2026 Rep.
-Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 4th Annual Buffalo Bash Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind
+Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

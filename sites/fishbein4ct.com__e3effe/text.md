@@ -10,7 +10,8 @@ I hope you join me in support of those mutually desirable goals.
 For additional information about myself and the campaign, please feel free to select one of the categories under the menu bar.
 THANK YOU for visiting this site!
 Polls close in...
-November 3, 2026 at 8:00 PM News A Voice for Wallingford and Middlefield ENDORSED by the CT State Fraternal Order of Police NEW LAWS TAKE EFFECT OCTOBER 1ST!
-Amazon Air Drone Deliveries Raise Concerns Three Strikes = Six Months!
-Fishbein for Connecticut - Jo-Anne L.
+November 3, 2026 at 8:00 PM News Are Drone Deliveries Coming To Wallingford And Middlefield?
+AI Protections: CT Goes Farther Than The Feds Remembering...
+Come On Down to Celebrate Wallingford!
+One of Us Fishbein for Connecticut - Jo-Anne L.
 Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

@@ -25,9 +25,5 @@ She waved it off as an oversight, but she’s running for a position that has ov
 That’s a difficult flaw to overcome.
 Giannoulias is endorsed.
 Read the Daily Herald’s endorsement here.
-Related Posts Join me in supporting HR-1: the For The People Act The shocking images of the January 6th attack on our Capitol may have faded from the news, but make no mistake — our democracy is Keep Reading → Giannoulias: Illinois Should Pursue Digital Driver’s Licenses Secretary of State candidate calls for pilot program to test latest technology Keep Reading → Can license plate data be used against women seeking an abortion?
-Illinois Secretary of State Alexi Giannoulias is backing what he says is a first-in-the-nation bill to outlaw sharing or selling license plate data for women seeking abortions.
-He fears this data could be weaponized as some states try to criminalize helping someone get an abortion.
-NBC News’ Anne Thompson explains more.
-Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Giannoulias Releases First Spanish Language Video Former State Treasurer Exploring Run for Secretary of State Keep Reading → Giannoulias Unveils Statewide Organ/Tissue Donation Campaign Ads highlighting The Who’s ‘Join Together’ song to air on TV, radio and digital Keep Reading → Secretary of State Giannoulias Visits Peoria Driver Services Facility Meets with staff to discuss office modernization efforts to empower employees and improve services Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

@@ -17,7 +17,7 @@ Mink PAC, she advocates for pro-choice Hawaiʻi Democratic women.
 During the COVID-19 pandemic, she played a crucial role in the distribution and management of over $21 billion in federal relief funds for Hawaiʻi.
 A graduate of The George Washington University, she was the first in her family to attend college, earning a BA in International Relations and a minor in Japanese Studies.
 Join the Campaign Please enable JavaScript in your browser to complete this form.
-Code Layout Phone Email * Phone Zip Code Opt-in I agree to opt-in.
+Zip Code Email Email * Phone Zip Code Opt-in I agree to opt-in.
 By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Tokuda for Hawaii at the number provided, including messages sent by autodialer.
 Consent is not a condition of purchase.
 Msg & data rates may apply.

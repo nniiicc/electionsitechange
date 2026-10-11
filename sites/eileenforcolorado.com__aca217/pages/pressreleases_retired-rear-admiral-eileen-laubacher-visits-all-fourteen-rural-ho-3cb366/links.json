@@ -16,10 +16,6 @@
 "href": "https://www.eileenforcolorado.com/"
 },
 {
-"text": "Campaign Press Releases",
-"href": "https://www.eileenforcolorado.com/pressreleases"
-},
-{
 "text": "Careers",
 "href": "https://www.eileenforcolorado.com/careers"
 },
@@ -40,12 +36,16 @@
 "href": "https://www.eileenforcolorado.com/media"
 },
 {
-"text": "Events",
-"href": "https://www.mobilize.us/eileenforcolorado/"
-},
-{
 "text": "Folder: Press",
 "href": "https://www.eileenforcolorado.com/press"
+},
+{
+"text": "Get Involved",
+"href": "https://mobilize.us/eileenforcolorado"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mobilize.us/eileenforcolorado/"
 },
 {
 "text": "Home",
@@ -68,6 +68,10 @@
 "href": "https://www.eileenforcolorado.com/platform"
 },
 {
+"text": "Press Releases",
+"href": "https://www.eileenforcolorado.com/pressreleases"
+},
+{
 "text": "Previous Previous Retired Rear Admiral Eileen Laubacher Launches New Ad, Promising Decency, Common Sense, and Service",
 "href": "https://www.eileenforcolorado.com/pressreleases/retired-rear-admiral-eileen-laubacher-launches-new-ad-promising-decency-common-sense-and-service"
 },
@@ -82,10 +86,6 @@
 {
 "text": "View Eileen’s plan to protect rural health care here",
 "href": "https://drive.google.com/file/d/1yBks8a4MquPFcegvuZwY1V6OOkYXbLnF/view"
-},
-{
-"text": "Volunteer",
-"href": "https://www.eileenforcolorado.com/volunteer"
 },
 {
 "text": "Vote",

@@ -16,10 +16,6 @@
 "href": "https://christine4nd.com/better-together"
 },
 {
-"text": "Campaign News",
-"href": "https://christine4nd.com/news/#campaign-news"
-},
-{
 "text": "Campaign Websites",
 "href": "https://www.campaignpartner.com"
 },
@@ -46,6 +42,10 @@
 {
 "text": "Issues",
 "href": "https://christine4nd.com/issues"
+},
+{
+"text": "League of Women Voters Forum",
+"href": "https://christine4nd.com/news/#league-of-women-voters-forum"
 },
 {
 "text": "Meet Christine",
@@ -101,7 +101,7 @@
 },
 {
 "text": "This Week",
-"href": "https://christine4nd.com/Events?range=2026-W41"
+"href": "https://christine4nd.com/Events?range=2026-W42"
 },
 {
 "text": "VOTING INFO",

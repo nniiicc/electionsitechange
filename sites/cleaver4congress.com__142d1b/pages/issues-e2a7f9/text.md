@@ -1,4 +1,6 @@
-0 Skip to Content Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Open Menu Close Menu Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Open Menu Close Menu Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Housing Growing up in public housing inspired Congressman Cleaver to make accessible, affordable housing for all a life-long crusade.
+0 Skip to Content Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Open Menu Close Menu Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Open Menu Close Menu Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Working for Missouri Families.
+From protecting Social Security and Medicare to supporting small businesses and expanding affordable housing, explore Congressman Cleaver's priorities for Missouri's Fifth District.
+View Palm Card Housing Growing up in public housing inspired Congressman Cleaver to make accessible, affordable housing for all a life-long crusade.
 His bipartisan efforts in Congress enabled the passage of the largest housing reform law in modern history.
 Social Security, Medicare and Medicaid The long-term solvency of Social Security and Medicare are commitments that Congressman Cleaver believes are unwavering for our country.
 He has and will continue to fight for the investments needed to maintain these programs for our seniors.

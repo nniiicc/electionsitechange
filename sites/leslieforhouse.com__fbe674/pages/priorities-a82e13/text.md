@@ -28,4 +28,4 @@ That’s difficult to achieve when a supermajority clogs up the works with unnec
 Like most South Dakotans, I know you gotta put in the work.
 My neighbors have bills to pay, families to feed, and futures to secure.
 As your state house representative, my work is to make sure yours gets easier.
-Contact LESLIE Terms & Conditions ‍ ‍| Privacy Policy Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069
+Contact LESLIE Terms & Conditions ‍ ‍| Privacy Policy Paid for by Leslie Gerrish for House Leslie Gerrish for House 1416 Cornell Street Vermillion, SD 57069

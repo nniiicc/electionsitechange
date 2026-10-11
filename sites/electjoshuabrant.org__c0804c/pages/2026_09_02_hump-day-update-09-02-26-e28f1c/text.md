@@ -13,7 +13,7 @@ I’m looking forward to spending time with folks there, enjoying the atmosphere
 We’re also working to get a few additional things scheduled before the day is over, so the week ahead may grow even busier.
 Until next time, District 23, have yourselves a better‑than‑great weekend.
 I’ll be thinking about ya.
-Genuinely, Joshua Brant Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply ← Previous: Summit Summation Part 1 Next: Summit Summation Part 2 → Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Genuinely, Joshua Brant Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ ← Previous: Summit Summation Part 1 Next: Summit Summation Part 2 → Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
 Type your email… Subscribe Recent posts Statement on Senator Alting Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
 Discover more from Elect Joshua Brant Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading %d

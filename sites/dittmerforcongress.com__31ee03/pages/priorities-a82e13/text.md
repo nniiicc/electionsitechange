@@ -9,5 +9,5 @@ That is what I do best and that is what I am running to do.
 In Washington, I will fight for real solutions to real problems facing South Carolinians every single day.
 Did I miss something that matters to you?
 If so, I want to hear about it.
-Please Contact Me Economy Health Care Education Safety National Security Immigration Agriculture Elections Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Please Contact Me Economy Health Care Education Safety National Security Immigration Agriculture Elections Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

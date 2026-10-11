@@ -61,10 +61,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=3503+northeast+parkway+san+antonio%2C+texas%2C+78218+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=3518+north+loop+1604+east+san+antonio%2C+texas%2C+78247+united+states"
 },
 {
@@ -220,14 +216,6 @@
 "href": "https://www.vikkigoodwin.com/events/1011southoakcliff"
 },
 {
-"text": "Get tickets here.",
-"href": "https://secure.actblue.com/donate/goodwin4texas-sanantonio-july25"
-},
-{
-"text": "Goodwin4Texas San Antonio Fundraiser",
-"href": "https://www.vikkigoodwin.com/events/072509"
-},
-{
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=100+Days+Out%3A+Austin+Organizing+Rally+with+Vikki+Goodwin&dates=20260726T190000Z%2F20260726T200000Z"
 },
@@ -254,10 +242,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=GOTV+Launch+-+South+Oak+Cliff%2C+Dallas&dates=20261011T170000Z%2F20261011T180000Z&location=2734+South+Beckley+Avenue%2C+Dallas%2C+Texas%2C+75224%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Goodwin4Texas+San+Antonio+Fundraiser&dates=20260725T140000Z%2F20260725T153000Z&location=3503+Northeast+Parkway%2C+San+Antonio%2C+Texas%2C+78218%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -450,10 +434,6 @@
 {
 "text": "Houston IAPAC Candidate Meet & Greet",
 "href": "https://www.vikkigoodwin.com/events/2026/8/8/iapac-candidate-meet-greet"
-},
-{
-"text": "ICS",
-"href": "https://www.vikkigoodwin.com/events/072509?format=ical"
 },
 {
 "text": "ICS",
@@ -761,6 +741,10 @@
 },
 {
 "text": "RSVP HERE",
+"href": "https://www.mobilize.us/texasdemocrats/event/1061315/"
+},
+{
+"text": "RSVP HERE",
 "href": "https://www.mobilize.us/tsta/event/1048332/"
 },
 {
@@ -910,10 +894,6 @@
 {
 "text": "Town Hall — San Antonio",
 "href": "https://www.vikkigoodwin.com/events/1017townhall-fex7c"
-},
-{
-"text": "View Event →",
-"href": "https://www.vikkigoodwin.com/events/072509"
 },
 {
 "text": "View Event →",
@@ -1126,10 +1106,6 @@
 {
 "text": "[image: GOTV Launch - South Oak Cliff, Dallas]",
 "href": "https://www.vikkigoodwin.com/events/1011southoakcliff"
-},
-{
-"text": "[image: Goodwin4Texas San Antonio Fundraiser]",
-"href": "https://www.vikkigoodwin.com/events/072509"
 },
 {
 "text": "[image: Hate Has No Home Here: Frisco Town Hall]",

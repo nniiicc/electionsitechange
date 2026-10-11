@@ -1,9 +1,10 @@
 {
  "description": "Pepper Snyder Campaign Events",
  "final_url": "https://www.peopleforpepper.com/Events?range=2026-12",
- "fingerprint": "08df6e76db107ec6f94b31fc148cd4d146999910",
+ "fingerprint": "fdfcc8fd1d50514c1fca5c924aff76f05b1a3302",
  "format": 3,
  "paid_for_by": "Paid for by The People for Pepper Powered by CampaignPartner",
+ "rendered": false,
  "title": "Pepper Snyder Campaign Events",
  "years_mentioned": [
   "2026"

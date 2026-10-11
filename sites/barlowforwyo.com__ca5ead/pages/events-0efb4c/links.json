@@ -5,10 +5,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=1+events+drive+casper%2C+wyoming%2C+82601+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=1000+east+university+avenue+laramie%2C+wyoming%2C+82071+united+states"
 },
 {
@@ -124,10 +120,6 @@
 "href": "http://maps.google.com?q=819+south+main+street+kemmerer%2C+wyoming%2C+83101+united+states"
 },
 {
-"text": "(map)",
-"href": "http://maps.google.com?q=901+4-j+road+gillette%2C+wyoming%2C+82716+united+states"
-},
-{
 "text": "0",
 "href": "https://www.barlowforwyo.com/cart"
 },
@@ -142,10 +134,6 @@
 {
 "text": "Black Mesa Advanced Fission Tour",
 "href": "https://www.barlowforwyo.com/events/black-mesa-advanced-fission-tour"
-},
-{
-"text": "Boys & Girls Clubs of Central Wyoming Awards & Recognition Breakfast",
-"href": "https://www.barlowforwyo.com/events/boys-girls-clubs-of-central-wyoming-awards-recognition-breakfast"
 },
 {
 "text": "Casper Meet & Greet",
@@ -205,10 +193,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Boys+%26+Girls+Clubs+of+Central+Wyoming+Awards+%26+Recognition+Breakfast&dates=20260916T123000Z%2F20260916T133000Z&location=1+Events+Drive%2C+Casper%2C+Wyoming%2C+82601%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Casper+Meet+%26+Greet&dates=20261006T223000Z%2F20261007T000000Z&location=613+West+Yellowstone+Highway%2C+Casper%2C+Wyoming%2C+82601%2C+United+States"
 },
 {
@@ -258,10 +242,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+in+Kemmerer&dates=20260922T230000Z%2F20260923T000000Z&location=819+South+Main+Street%2C+Kemmerer%2C+Wyoming%2C+83101%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Memory+of+the+8+5K+and+8+Mile&dates=20260916T230000Z%2F20260917T003000Z&location=901+4-J+Road%2C+Gillette%2C+Wyoming%2C+82716%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -341,10 +321,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.barlowforwyo.com/events/boys-girls-clubs-of-central-wyoming-awards-recognition-breakfast?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.barlowforwyo.com/events/casper-meet-greet?format=ical"
 },
 {
@@ -398,10 +374,6 @@
 {
 "text": "ICS",
 "href": "https://www.barlowforwyo.com/events/meet-greet-in-kemmerer?format=ical"
-},
-{
-"text": "ICS",
-"href": "https://www.barlowforwyo.com/events/memory-of-the-8-5k-and-8-mile?format=ical"
 },
 {
 "text": "ICS",
@@ -488,10 +460,6 @@
 "href": "https://www.barlowforwyo.com/meeteric"
 },
 {
-"text": "Memory of the 8 5K and 8 Mile",
-"href": "https://www.barlowforwyo.com/events/memory-of-the-8-5k-and-8-mile"
-},
-{
 "text": "Mountain View Meet & Greet",
 "href": "https://www.barlowforwyo.com/events/mountain-view-meet-greet"
 },
@@ -557,10 +525,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.barlowforwyo.com/events/boys-girls-clubs-of-central-wyoming-awards-recognition-breakfast"
-},
-{
-"text": "View Event →",
 "href": "https://www.barlowforwyo.com/events/casper-meet-greet"
 },
 {
@@ -614,10 +578,6 @@
 {
 "text": "View Event →",
 "href": "https://www.barlowforwyo.com/events/meet-greet-in-kemmerer"
-},
-{
-"text": "View Event →",
-"href": "https://www.barlowforwyo.com/events/memory-of-the-8-5k-and-8-mile"
 },
 {
 "text": "View Event →",
@@ -713,10 +673,6 @@
 },
 {
 "text": "[no text]",
-"href": "https://www.barlowforwyo.com/events/boys-girls-clubs-of-central-wyoming-awards-recognition-breakfast"
-},
-{
-"text": "[no text]",
 "href": "https://www.barlowforwyo.com/events/casper-meet-greet"
 },
 {
@@ -770,10 +726,6 @@
 {
 "text": "[no text]",
 "href": "https://www.barlowforwyo.com/events/meet-greet-in-kemmerer"
-},
-{
-"text": "[no text]",
-"href": "https://www.barlowforwyo.com/events/memory-of-the-8-5k-and-8-mile"
 },
 {
 "text": "[no text]",

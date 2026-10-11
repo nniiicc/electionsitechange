@@ -13,7 +13,7 @@ Coast Guard veteran, I’m honored to have the support of Veterans for Responsib
 Veterans know what it means to serve something bigger than ourselves and to get the mission done.
 That’s exactly what Florida’s 21st District needs—a representative who will deliver real results instead of empty rhetoric.
 I’m ready to bring that commitment to the halls of Congress.” VFRL’s endorsement follows recent backing from Former Mayor Eric Jablin and Former Mayor David Levy , two former City of Palm Beach Gardens leaders whose support underscores Martin’s growing momentum among community leaders across the district.
-### If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+### Media If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
 Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
 Commander in the United States Coast Guard Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

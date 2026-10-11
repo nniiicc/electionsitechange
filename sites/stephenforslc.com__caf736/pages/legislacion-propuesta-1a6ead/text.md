@@ -1,4 +1,4 @@
-Sign In My Account Español Platform Endorsements Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Contact Donate Scroll Legislación propuesta Si soy elegido, votaré sobre miles de proyectos de ley.
+Sign In My Account Español Platform Endorsements Voting Information Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Voting Information Contact Donate Scroll Legislación propuesta Si soy elegido, votaré sobre miles de proyectos de ley.
 Pero también es responsabilidad de su representante elaborar legislación significativa.
 A continuación, presento tres propuestas importantes que quisiera impulsar relacionadas con la educación , el medio ambiente y la vivienda .
 Estas no son, de ninguna manera, las únicas propuestas legislativas que quisiera impulsar.

@@ -1,10 +1,11 @@
 {
- "description": "",
- "final_url": "https://www.vote-annamunson.com/termsconditions",
- "fingerprint": "d00a2745a44a8c6fe69a4a7986c474f19f19a514",
+ "description": "Terms and conditions for text messages from Munson Leadership PAC, including cost, message frequency, how to opt out and support.",
+ "final_url": "https://www.vote-annamunson.com/termsconditions/",
+ "fingerprint": "bf6f589c3f7ca0612a699572e0de47b97e4b4fad",
  "format": 3,
- "paid_for_by": "",
- "title": "Terms & Conditions | Vote Anna Munson",
+ "paid_for_by": "Paid for by Munson Leadership PAC, PAC ID #23340",
+ "rendered": false,
+ "title": "Terms and Conditions | Anna Munson for Oregon House District 19",
  "years_mentioned": [
   "2026"
  ]

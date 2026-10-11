@@ -2,7 +2,8 @@
 But not to sit by.
 Sarah Zabel — Independent for U.S.
 Congress in Idaho's First District Coming home I've lived in a lot of places.
-As a child, I moved with my family from California to Arizona and then to Texas, and I went to college at the Air Force Academy in Colorado.
+When I was 7 years old, my family moved from California to Arizona and then to Texas, where I spent most of my childhood years.
+Looking for a college, I chose the Air Force Academy in Colorado.
 My Air Force career took me across the country and around the world — 19 moves in 31 years — settling me in Japan, Germany, and Qatar, and nine more states.
 But I have always considered myself to be from the West, and when I reached northern Idaho, I knew I had found my place.
 I bought land in Bayview, on Lake Pend Oreille, in 2013, while I was still on active duty.

@@ -1,4 +1,8 @@
-0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS October 8 - Owen Palm, Former Commissioner of the Nebraska Department of Natural Resources, Endorses Mark Owen Palm, former commissioner of the Nebraska Dept. of Natural Resources has endorsed campaign.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE NEWS October 9 - Mark Holds Successful Town Hall in Holdrege On October 9th I held a town hall in Holdrege, Nebraska.
+About twenty people attended, and after I answered their questions, many left with yard signs and renewed hope.
+They liked what they heard and appreciated my honesty.
+Because the weather was hotter than we had planned, I am grateful for the facility’s willingness to allow Solomon to come inside during our town hall.
+He was a “good boy.” October 8 - Owen Palm, Former Commissioner of the Nebraska Department of Natural Resources, Endorses Mark Owen Palm, former commissioner of the Nebraska Dept. of Natural Resources has endorsed campaign.
 Owen was the CEO of the Western Sugar Cooperative and is the chairperson of 21st Century Equipment.
 He also served as the chairman of the Nebraska chapter of The Nature Conservancy.
 October 8 - Mark and Solomon Drop in On Folks in 9 Sandhills Towns in One Day On October 8th Solomon and I headed north and dropped in on folks in Arthur, Hyannis, Mullen, Thedford, Seneca, Whitman, Arnold, Stapleton, and Callaway.

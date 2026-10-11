@@ -1,5 +1,7 @@
 Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate Policy I believe government should make life a little easier for the people it serves.
 Here is where I stand, and what I have done about it.
 Fighting fraud An independent Inspector General, tougher penalties, and real accountability.
-An economy that works Responsible tax relief Affordable housing Support for our schools Lowering health care costs Safe, thriving neighborhoods Serve the veterans who served us Protect reproductive freedom Sustainable climate practices End violence and trafficking Strengthen our democracy Supporting Minnesota’s agriculture heritage PO Box 5012 St.
+An economy that works Responsible tax relief Affordable housing Support for our schools Championing higher education Lower college costs for more than 53,000 students and a new medical school in St.
+Cloud.
+Lowering health care costs Safe, thriving neighborhoods Serve the veterans who served us Protect reproductive freedom Sustainable climate practices End violence and trafficking Strengthen our democracy Supporting Minnesota’s agriculture heritage PO Box 5012 St.
 Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases FAQ Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

@@ -3,7 +3,11 @@ Judicial Corruption Lawfare Connect HOME Subscribe Log in X YouTube Instagram Fa
 Judicial Corruption Lawfare Connect HOME Subscribe Log in The Moe Dimanche Show Tune in to The Moe Dimanche Show wherever you get your podcasts, and stay informed.
 Missed last week’s show?
 Check out the latest episodes here!
-Latest from The Moe Dimanche Show HOPE FLORIDA: The Scandal of ALL Scandals by The Moe Dimanche Show The Hope Florida scandal is complex enough as it is, but in order to actually understand the grand jury presentment, you have to understand the law.
+Latest from The Moe Dimanche Show Florida Gubernatorial Candidate Gives Breakdown on Viral Political Ad by The Moe Dimanche Show A satirical political ad has gone viral in the Florida governor's race, and Moliere "Moe" Dimanche gives a breakdown on the thought process behind creating the ad.
+JD Vance visits Florida to Attack Angie Nixon by The Moe Dimanche Show While in Florida to support Ashley Moody and Byron Donalds, Vice President JD Vance goes on the attack against Angie Nixon while attempting to make socialism the core issue in his plea to Latino voters.
+Hope Florida Grand Jury findings Expunged in Appellate Opinion from Judge Lance Neff by The Moe Dimanche Show HOPE FLORIDA: A Florida appeals court just ordered the Grand Jury presentment in the Hope Florida scandal EXPUNGED!
+Is Ron DeSantis in the clear?
+The opinion was written by judge Lance Neff, who rose through the ranks by defending the State of Florida against some of the most controversial lawsuits as assistant attorney general under […] HOPE FLORIDA: The Scandal of ALL Scandals by The Moe Dimanche Show The Hope Florida scandal is complex enough as it is, but in order to actually understand the grand jury presentment, you have to understand the law.
 What's the difference between "misappropriated"and theft?
 "Misappropriated" is worse because it's the statutory language for theft.
 We break it all down this episode.

@@ -1,4 +1,4 @@
-Skip to content Home About Issues Get Involved Home About Issues Get Involved Donate Donate Issues Categories Affordability AI and Data Centers Education Environment & Public Lands Healthcare Search Recent Posts A Neighbor, Not a Career Politician Endorsed by Planned Parenthood Advocates of Montana Three Times in Five Years, Montana Kept the Right to Bargain A Neighbor, Not a Career Politician Your ballot arrives this week.
+Skip to content Home About Issues Get Involved Home About Issues Get Involved Donate Donate Issues Categories Affordability AI and Data Centers Education Environment & Public Lands Healthcare Search Recent Posts The Tax Cut That Skips the Heights My Answers to the Yellowstone County News Questionnaire A Neighbor, Not a Career Politician A Neighbor, Not a Career Politician Your ballot arrives this week.
 Before you open it, here is what I would like you to know.
 What I did this year I have lived in the Heights for more than twenty-five years.
 This year I knocked on [FILL: door count] doors here.
@@ -42,5 +42,5 @@ Government belongs to us.
 We reclaim it when we show up.
 Your ballot is in the mail.
 Please fill it out, sign the envelope, and send it back.
-Chip in at smithformontana.com/donate Share This : Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Newsletter Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
+Chip in at smithformontana.com/donate Share This : Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Subscribe Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
 Paid for by Friends of Melissa Smith (D) 1335 Naples St, Billings, MT 5910 © # All rights reserved.

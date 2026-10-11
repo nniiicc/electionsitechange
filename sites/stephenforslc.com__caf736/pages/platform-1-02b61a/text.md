@@ -1,4 +1,4 @@
-Sign In My Account Español Platform Endorsements Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Contact Donate Scroll Proposed Legislation If elected, I will vote on thousands of bills.
+Sign In My Account Español Platform Endorsements Voting Information Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Voting Information Contact Donate Scroll Proposed Legislation If elected, I will vote on thousands of bills.
 But it is also the job of your representative to craft meaningful legislation.
 Below are three major pieces I would want to advance related to education , the environment , and housing .
 These are by no means the only pieces of legislation I would want to advance.

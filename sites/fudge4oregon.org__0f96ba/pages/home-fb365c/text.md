@@ -1,8 +1,12 @@
 Meet Andrew Issues News Contribute Volunteer Join Our Campaign Sign up to receive the latest news and updates.
-First name Email Zip/Postal Phone Message By providing your phone number you consent to receive messages.
-Message frequency varies.
-Message and data rates may apply.
-Text STOP to opt out.
+First name Email Zip/Postal Phone Message By checking the box above, you are opting in to receive marketing alerts, updates, and news messages via SMS from Fudge 4 Oregon.
+Donations will be solicited.
+Additional text and data rates may apply.
+Text STOP to opt-out.
+Text HELP for assistance.
+Message Frequency may vary/month.
+See our Privacy Policy HERE (hyperlinked to client's privacy policy).
+See Terms of Use HERE (hyperlinked to Client's Terms of Use).
 Thank you for signing up!
 Andrew Fudge for Oregon House District 20 Accountability.
 Opportunity.

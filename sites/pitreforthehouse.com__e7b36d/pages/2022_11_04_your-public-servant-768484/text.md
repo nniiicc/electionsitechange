@@ -8,7 +8,7 @@ I am not running for State Representative as a career move.
 I believe in a citizen run legislature with term limits for all offices.
 You can rest assured I will defend YOUR LEGAL RIGHTS to live however you choose.
 If this resonates with you please join the many others in your district and vote for me on November 3rd.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on Pinterest (Opens in new window) Pinterest Like this: Like Loading… Related Leave a Reply Cancel reply Post navigation Why the Housing Shortage?
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on Pinterest (Opens in new window) Pinterest Like this: Like Loading… Related Leave a Reply Cancel reply Comment Name Email Website Δ Post navigation Why the Housing Shortage?
 Twitter Instagram ← Back Thank you for your response. ✨ Name (required) Email (required) Message (required) Submit Δ Twitter Instagram Powered by WordPress.com .
 Discover more from Rebecca Pitre Republican for Lamoille County District 3 Representative Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...

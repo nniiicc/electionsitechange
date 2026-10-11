@@ -14,11 +14,20 @@ En 2018, los votantes de Utah aprobaron la Proposición 4 para impedir que los p
 Posteriormente, los legisladores modificaron partes de esa reforma impulsada por la ciudadanía.
 La Corte Suprema de Utah también revisó si los materiales de la Enmienda D informaban con precisión a los votantes sobre lo que haría la medida.
 El principio es simple: los votantes merecen conocer la historia completa antes de emitir su voto.
+Este año: la Enmienda B.
+En 2026, una petición para derogar la Proposición 4 fracasó después de que más de 10,000 residentes de Utah retiraron sus firmas.
+Ahora la Legislatura pide a los votantes que aprueben la Enmienda B.
+Exigiría el 60% de los votos para las iniciativas ciudadanas que creen o aumenten un impuesto.
+Cuando la propia Legislatura aumenta impuestos, solo necesita una mayoría simple.
+Es una regla para los políticos y otra más difícil para los votantes.
+No debemos permitir que la Legislatura les cambie las reglas del juego a los votantes.
+Votaré en contra de la Enmienda B.
 01 Defender las iniciativas ciudadanas legítimas como un contrapeso esencial a la Legislatura.
 02 Exigir que el lenguaje en las boletas explique con total claridad qué hará cada medida propuesta.
 03 Explicar cómo las leyes y fallos judiciales afectan la voz y el poder del público.
 Consulte las fuentes Lea los registros públicos Estos documentos ofrecen el historial legal completo para quienes deseen profundizar.
-01 Vicegobernador de Utah Registros de las elecciones de 2018 y escrutinio de la Proposición 4 ↗ 02 Corte Suprema de Utah 2024 UT 21: iniciativas ciudadanas y reforma gubernamental ↗ 03 Corte Suprema de Utah Índice oficial de fallos de 2024, incluido 2024 UT 40 ↗ 04 Código de Utah § 20A-19-101 Ley de la Comisión y Estándares de Redistribución Independiente de Utah ↗ Las cinco promesas de servicio anteriores constituyen mi plan de rendición de cuentas.
+01 Vicegobernador de Utah Registros de las elecciones de 2018 y escrutinio de la Proposición 4 ↗ 02 Corte Suprema de Utah 2024 UT 21: iniciativas ciudadanas y reforma gubernamental ↗ 03 Corte Suprema de Utah Índice oficial de fallos de 2024, incluido 2024 UT 40 ↗ 04 Código de Utah § 20A-19-101 Ley de la Comisión y Estándares de Redistribución Independiente de Utah ↗ 05 Legislatura de Utah, S.J.R.
+2 (2025) Enmienda B: texto del proyecto e historial legislativo ↗ Las cinco promesas de servicio anteriores constituyen mi plan de rendición de cuentas.
 El ejemplo legal demuestra por qué la información clara y el respeto al voto son indispensables.
 Exija más de sus representantes Ayude a elegir a un representante que aspire a ganarse el puesto.
 Unirse a la Campaña Ver las Dos Prioridades → AJ Alan Jimenez CÁMARA DE UTAH · DISTRITO 61 Pagado por Alan Jimenez.

@@ -4,7 +4,17 @@ Prosperity.
 Dr.
 Rich McCormick for Congress "I left the ER to fight for the same families I treated.
 Georgia deserves leaders who show up." Dr.
-Rich McCormick Join The Team Join About Service before self.
+Rich McCormick Join The Team Email address Phone number (optional) Join Yes, I agree to receive recurring SMS political updates, campaign news, event reminders, volunteer opportunities, and donation requests from Friends of McCormick.
+By checking the box and providing your phone number, you agree to receive SMS messages from Friends of McCormick.
+Donations may be solicited.
+Message frequency may vary.
+Standard Message and Data Rates may apply.
+Reply STOP to opt out.
+Reply HELP for help.
+We will not share mobile information with third parties for promotional or marketing purposes.
+Consent is not a condition of purchase.
+See our Privacy Policy and Terms and Conditions .
+About Service before self.
 Dr.
 Rich McCormick has spent his life running toward the fights that matter.
 Raised by a single mother, he worked his way through school, became a Marine helicopter pilot, served in combat zones, earned his medical degree at Morehouse School of Medicine, and cared for Georgia families as an emergency room physician.

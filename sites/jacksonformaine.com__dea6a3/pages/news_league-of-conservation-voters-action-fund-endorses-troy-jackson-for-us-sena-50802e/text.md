@@ -23,7 +23,7 @@ In the Senate, I’ll fight for clean energy investments that lower costs, creat
 I’m proud to have the League of Conservation Voters Action Fund standing with us.” “Mainers have made it clear that they want a senator who will protect our rights and communities and support real affordability solutions instead of prioritizing Trump’s personal benefit and the profits of Big Oil and Gas,” said LCV Action Fund Vice President of Federal Policy Matthew Davis.
 “Troy Jackson has the experience and the commitment we need to help build a clean energy future that centers good-paying jobs, to protect our lands and waters, and fight for a free and fair democracy.” This announcement is just the latest sign of broad, grassroots support for Jackson’s campaign.
 A recent Fox News poll puts Jackson ahead of Susan Collins in a general-election matchup, and Jackson has now picked up more than 100 endorsements from Maine elected officials, labor unions and community leaders.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

@@ -19,6 +19,6 @@ Not so much the kids, not the kids in my mind, but of the teachers and staff.
 But also having a finer sense of the distancing issue.
 Once we have a better sense of what we are trading off from 3 feet to normal, that will really help make a more informed decision,” Shah said.
 ### Posted by communicationsdirector April 5, 2021 Posted in General Post navigation Previous Post Previous post: Rep.
-Carlow’s Statement on Recommending Confirmation of Nominations to the Efficiency Maine Trust Board of Trustees Next Post Next post: Carlow Named 2022 Clean Energy Champion Leave a comment Cancel reply Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
+Carlow’s Statement on Recommending Confirmation of Nominations to the Efficiency Maine Trust Board of Trustees Next Post Next post: Carlow Named 2022 Clean Energy Champion Leave a Reply Cancel reply Comment Name Email Website Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
 Log in now.
 Nathan Carlow for Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

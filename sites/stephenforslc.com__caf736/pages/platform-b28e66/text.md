@@ -1,4 +1,4 @@
-Sign In My Account Español Platform Endorsements Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Contact Donate Scroll Platform We deserve better from our government.
+Sign In My Account Español Platform Endorsements Voting Information Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Voting Information Contact Donate Scroll Platform We deserve better from our government.
 I am running for office to fight for and alongside my neighbors, so that together, we can build a stronger community.
 I would love to hear from you.
 Please reach out through the contact form with any thoughts or additional topics you would like to discuss.

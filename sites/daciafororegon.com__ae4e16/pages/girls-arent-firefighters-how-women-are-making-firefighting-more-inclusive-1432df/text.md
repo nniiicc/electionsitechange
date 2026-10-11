@@ -1,7 +1,7 @@
 Skip to content Dacia for Oregon Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Donate Meet Dacia Our Work Endorsements Media Volunteer Contact DONATE Meet Dacia Our Work Endorsements Media Volunteer Contact ‘Girls Aren’t Firefighters’: How Women are Making Firefighting More Inclusive / Fire/EMS / By Dacia Grayber Oregon state Rep.
 Dacia Grayber, a Democrat who represents portions of Multnomah and Washington counties, was 10 years old when she turned to her volunteer firefighter dad and told him she wanted to follow in his footsteps.
 A captain standing nearby scoffed… Post navigation ← Previous Post Next Post → Join Dacia Grayber for Oregon House District 28 Please enable JavaScript in your browser to complete this form.
-Postal Checkboxes Phone Name * First Last Email * Phone Number Postal Code Checkboxes By checking this box, you consent to receive campaign and news updates from Dacia Grayber.
+Number Checkboxes Phone Name * First Last Email * Phone Number Postal Code Checkboxes By checking this box, you consent to receive campaign and news updates from Dacia Grayber.
 You can unsubscribe anytime.
 COUNT ME IN Donate Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Menu Meet Dacia Our Work Endorsements Media Volunteer Contact Paid for By Dacia for Oregon Use of fire service rank, job titles, and photographs in no way implies endorsement of Dacia Grayber by her employer or public safety affiliates, unless explicitly expressed.
 All factual fire service information and private party photographs are provided in conjunction with other non-fire service biographical data.

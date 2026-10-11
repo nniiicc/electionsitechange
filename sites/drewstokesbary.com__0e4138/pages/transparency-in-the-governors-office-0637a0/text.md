@@ -19,7 +19,6 @@ Do they lie with the people of the state or do they lie with that organization?�
 “I think ( Stokesbary’s ) bill makes a solid argument that we should understand who is trying to influence public policy,” Nixon said.
 “We do that through campaign-finance reporting.
 We do that through lobbyist reporting.” You can read the entire article at http://www.thenewstribune.com/news/politics-government/article196484929.html .
-In the News accountability bills good government legislature More For You Rep.
-Stokesbary’s first bill passes in state House In the News Sumner Mayor thanks Rep.
-Stokesbary for Traffic Ave. funding In the News Early Endorsement from Stand for Children Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News accountability bills good government legislature More For You Improving the Traffic Avenue bridge above Highway 410 In the News Tacoma News Tribune picks Stokesbary Endorsements The Times recommends: Rep.
+Drew Stokesbary (2020) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

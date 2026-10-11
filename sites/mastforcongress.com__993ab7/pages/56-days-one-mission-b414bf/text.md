@@ -31,9 +31,10 @@ Fifty-six days.
 One mission.
 Let’s get to work.
 Help us defend Florida’s future and keep delivering results.
-Related Posts: Pelosi Docked My Pay August 17, 2021 # Days To Vote August 3, 2026 Only Citizens Should Decide American Elections.
-Do You Agree?
-April 29, 2026 Honoring the Battle After the Battlefield June 8, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Seven Days.
+One Mission.
+August 9, 2026 Biden left them dead and abandoned August 4, 2022 I won’t back down in my support for Israel.
+Here’s why… May 30, 2024 Freedom Isn’t Free: Making Veterans the Heart of America’s 250th Anniversary April 20, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

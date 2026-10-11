@@ -1,4 +1,4 @@
-0 Skip to Content Home About Elect Judge David Stevens DONATE TODAY Open Menu Close Menu Open Menu Close Menu Home About Elect Judge David Stevens DONATE TODAY Home About DONATE TODAY Meet Judge Stevens David Stevens y Perez (David Stevens) is a husband, father, grandfather, Superior Court Judge, and Navy Veteran.
+0 Skip to Content Home About Endorsements Elect Judge David Stevens DONATE TODAY Open Menu Close Menu Open Menu Close Menu Home About Endorsements Elect Judge David Stevens DONATE TODAY Home About Endorsements DONATE TODAY Meet Judge Stevens David Stevens y Perez (David Stevens) is a husband, father, grandfather, Superior Court Judge, and Navy Veteran.
 Judicial Experience: In November of 2023, Judge David Stevens was overwhelmingly elected to Mason County Superior Court.
 He defeated the incumbent who had been appointed by then-Governor Jay Inslee.
 In 2024, he was re-elected.

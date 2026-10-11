@@ -26,7 +26,7 @@ Jackson traveled to Jay where he held his third town hall at the site of the his
 Jackson took questions from the crowd and saved a seat for Susan Collins to do the same, although she did not show.
 Jackson ended the night with labor karaoke.
 He joined union members and Mainers singing about work.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

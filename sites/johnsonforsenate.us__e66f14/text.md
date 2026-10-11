@@ -1,5 +1,5 @@
 Skip to main content Johnson for Senate Home About Priorities Press Community Contact Get Involved Determined to Do Right Brendan J.
-Johnson for Michigan State Senate, District 26 “Long shots are how 29-year-olds from dairy farms in Fostoria change things, and I’m determined to do it right.” Meet Brendan Where I Stand Donate Volunteer On the Radio I read my own radio ads instead of using a station announcer, so here’s one of them.
+Johnson for Michigan State Senate, District 26 “Long shots are how 29-year-olds from dairy farms in Fostoria change things, and I’m determined to do it right.” Meet Brendan Where I Stand Donate Volunteer On the Radio I read my own radio ads instead of using a station announcer, here’s one of them.
 Radio ad 0:00 / 0:25 Read the script Hi!
 I’m Brendan J.
 Johnson and I’m running for State Senate with no corporate cash and no paid staff.

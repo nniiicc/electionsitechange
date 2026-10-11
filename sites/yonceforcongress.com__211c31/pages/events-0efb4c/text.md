@@ -2,13 +2,16 @@ About Issues Media Events Get Involved Shop Donate About Issues Media Events Get
 Speak out.
 Meet Eric, connect with neighbors, and help build the people-powered movement Florida’s Sixth deserves.
 06 Florida Get involved Campaign calendar Select a highlighted day to see where Team Yonce will be next.
-October 2026 Sun Mon Tue Wed Thu Fri Sat 1 2 3 4 5 6 7 8 9 10 11 4 12 13 4 14 15 4 16 2 17 3 18 4 19 20 3 21 22 3 23 2 24 3 25 3 26 27 3 28 29 2 30 31 3 Days with campaign events Selected date Sunday, October 11, 2026 4 events 10:00 AM EDT – 12:00 PM EDT Canvass | Volusia (Deland) ● NW Dems Club Office Event details Join us as we head out to fight for democracy!
-We will meet at the NW Dems Club Office to organize and train anyone who is new to canvassing 🙂 Get ready beforehand by downloading the Minivan app and creating an ActionID account - Google Play Store - Apple App Store Be sure to wear comfy shoes and dress for outside weather 🌞 The location is chosen as a point of contact and does not signify an endorsement.
-Please be aware of where you park, utilizing public parking if available, and look for anybody in a Yonce shirt after arriving!
-RSVP now 1:00 PM EDT – 2:00 PM EDT Online Team Yonce Meetings- Sunday Edition! ● Virtual event Event details Team Yonce Assemble!
+October 2026 Sun Mon Tue Wed Thu Fri Sat 1 2 3 4 5 6 7 8 9 10 11 4 12 13 4 14 15 4 16 2 17 3 18 4 19 20 3 21 22 3 23 2 24 3 25 4 26 27 3 28 29 2 30 31 3 Days with campaign events Selected date Sunday, October 11, 2026 4 events 1:00 PM EDT – 2:00 PM EDT Online Team Yonce Meetings- Sunday Edition! ● Virtual event Event details Team Yonce Assemble!
 Whether you are in the district or helping long distance, here's a chance to connect and learn what is going on and how you can help!
 We will have volunteer briefings every Sunday at 1 pm via Zoom!
 Bring a friend and get ready to fire Randy Fine and elect Eric Yonce!
+RSVP now 2:00 PM EDT – 4:00 PM EDT Canvass in Marion WITH Eric! ● Silver Springs Shores Community Center Event details Join us for an extra special extra canvass today in Marion County!
+Eric will be joining us to canvass in Silver Springs Shores at 2 PM today!
+Meet us in the parking lot of the Silver Springs Shores Community Center at 2 pm to get lit, get a list, and get a representative that actually listens!
+If you have never canvassed before, we will give a quick training at the beginning!
+We use Minivan, a free app you can download in advance from your app store.
+See you this afternoon!
 RSVP now 4:00 PM EDT – 7:00 PM EDT Canvass | St Johns | St Augustine Shores ● Dunkin' Event details Join us on in St Johns County as we head out to fight for democracy!
 These events are a chance to organize and train anyone who is new to canvassing 🙂 If you have already been trained, this is an opportunity to stop by to pick up more supplies, but you are welcome to knock on doors on your own schedule!
 Ongoing Schedule: Sundays @ 4 pm, meet at the Dunkin' in front of the St Augustine Shores Tuesdays @ 5pm, meet at the Kookaburra Dondi on A1A &amp; Dondanville Road Saturday 9/19 &amp; 9/26 More dates coming soon!

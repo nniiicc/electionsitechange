@@ -1,4 +1,21 @@
-0 Skip to Content Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Folder: Media Back Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Skip to Videos All | 9/30/26 Rail Interview w/ Miss Ro Amanda Ybanez interviews Miss Ro, a CNA who uses public transportation everyday and expresses the need for affordable housing near the rail for our workforce, disabled, and Kapuna (our elders).
+0 Skip to Content Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Folder: Media Back Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Skip to Videos All | 10/10/26 Free Food Distribution at Kalihi Kai on October 31st!
+More Details to Follow!
+I will be partaking with Fishers of Men Hawaiʻi at Nanakuli tomorrow to partake in their ministry.
+With them, we will be at Kalihi Kai Elementary School on October 31st for food distribution and the food is offered by the food bank.
+More details to follow.
+Please spread the word!
+No need to RSVP!
+In Kalihi, we all come from complex backgrounds.
+I believe in second chances, I believe in giving back to the community.
+And I believe in speaking to everyone in it.
+#OurCommunityFirst #Kalihi #VoteYbanez4Kalihi #Hawaii 10/10/26 Door to Door at Kuhio Park Terrace in Kalihi!
+Going door-to-door at Kuhio Park Terrace in Kalihi!
+I am going to be for my entire community no matter what whether you are Democrat, Republican, Independent, etc.
+We are all going through some degree of struggle in Kalihi and I am the type of representative that will be for my entire community and look for different solutions together.
+#Kalihi #Hawaii #OurCommunityFirst #VoteYbanez4Kalihi 9/30/26 Amanda Ybanez for House District 30 Interviews Randy from Chuuk | Honolulu Skyline & Housing Amanda Ybanez interviews Randy from Chuuk who uses different public transportation.
+He and his family want a place of their own right now, but they’re told by building managers to apply online, and be on a waitlist that can take a year until they can be placed.
+Please like, comment, and share if you agree with Randy and his take on the affordable housing process.
+#honolulurailtransit #affordablehousing #streamlined #applicationprocess #homeless 9/30/26 Rail Interview w/ Miss Ro Amanda Ybanez interviews Miss Ro, a CNA who uses public transportation everyday and expresses the need for affordable housing near the rail for our workforce, disabled, and Kapuna (our elders).
 Please like, comment, and share if you agree with Miss Ro and her take on affordable senior, disabled, and workforce housing in and around the rail development.
 #affordablehousing #kapuna #disabled #workforce iltransit #affordablehousing cess #homeless 9/26/26 YBANEZ for HD30 | Why I Am Running for Hawai‘i House District 30 Why I am running for House District 30: I wish to see change in cost of living and affordability.
 I will advocate and fight for workforce housing, businesses, our keiki, self sustainability and overall putting our community first.

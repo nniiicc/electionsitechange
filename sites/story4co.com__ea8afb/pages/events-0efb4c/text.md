@@ -168,13 +168,4 @@ See you there!
 View Event → Sep 6 5:30 PM 17:30 Beverages and Bites on Sep.
 6th Friday, September 6, 2024 5:30 PM 7:00 PM 17:30 19:00 Google Calendar ICS You’re invited! 🎉 I’m honored to be supported in my campaign for re-election with an exciting fundraising event graciously hosted by Bethlynn Maxwell and Stephen Reed!
 I hope you’ll join us for some beverages and bites on Friday, September 6th from 5:30-7:00 PM.
-RSVP HERE FOR LOCATION: https://forms.gle/u3pUhVrMSRn4ZdRZ6 View Event → Aug 31 9:00 AM 09:00 Canvass with Rep.
-Story and Sen.
-Kolker on Aug.
-31st Saturday, August 31, 2024 9:00 AM 1:00 PM 09:00 13:00 Chaucer Park (map) Google Calendar ICS Sen.
-Chris Kolker and I would love to have you volunteer to knock doors with us!
-Join us on Saturday, Aug.
-31st at Chaucer Park to canvass and support our campaigns for re-election.
-We will have our first launch of the day from 9:00-11:00 am.
-Our second launch from Chaucer Park will be from 11:00 am-1:00 pm.
-Sign up to Canvass: View Event → Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent
+RSVP HERE FOR LOCATION: https://forms.gle/u3pUhVrMSRn4ZdRZ6 View Event → Golden, CO 720-620-8519 story4CO@gmail.com Hours Mon All Day Tue All Day Wed All Day Thu All Day Fri All Day Sat All Day Sun All Day PO Box 1114, Conifer, CO 80433 303-866-2582 | TAMMY@STORY4CO.COM Paid for by Story for Colorado House Tammy Story, Registered Agent

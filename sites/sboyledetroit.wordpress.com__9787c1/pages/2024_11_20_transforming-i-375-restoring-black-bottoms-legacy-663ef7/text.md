@@ -11,7 +11,7 @@ Overall the project would transition this area of downtown Detroit to be more wa
 Boyle’s coined term, “Ditches of Denial,” critiques the intentional placement of below-grade highways.
 Highways like I-375 and I-75, were designed to shield motorists from the visible destruction these projects caused in Detroit communities.
 His approach contrasts with MDOT’s current plans by emphasizing historical justice and community-centric urban planning.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a comment Cancel reply Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ About The Candidate Stephen Boyle has lived in the Metro Detroit area since 1971.
 He received a BS, major Computer Science from Wayne State University 1983, and a MS, major Business Information Technology from Walsh College 2005.
 His working journey includes 20 years of corporate computing, photography, graphics design, plant-based cooking, and consulting.
 As a community activist in Detroit he’s dedicated time to research, writing, and blogging on Social Justice issues.

@@ -17,7 +17,7 @@ Let’s pledge to give honest consideration to the school bond and levy measures
 Let’s find ways to work together.
 Decisions on education issues are not two sides of a zero sum game.
 Supporting our students and schools, and showing real appreciation for our teachers, results in better outcomes for our entire school community.
-Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: 2021 , David Berg , Election , Equity , Puyallup School Board , Puyallup School District , Support , Teacher Appreciation Week ← Puyallup School District by the Numbers What Size Shoe Does Your Student Wear? → Leave a Reply Cancel reply Translate Countdown to the General Ballots are Due - Use a Drop Box!
+Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: 2021 , David Berg , Election , Equity , Puyallup School Board , Puyallup School District , Support , Teacher Appreciation Week ← Puyallup School District by the Numbers What Size Shoe Does Your Student Wear? → Leave a Reply Cancel reply Comment Name Email Website Δ Translate Countdown to the General Ballots are Due - Use a Drop Box!
 November 3, 2026 # days to go.
 Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Discover more from Elect David Berg Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...

@@ -16,4 +16,4 @@ Accountability and Transparency Strengthen oversight, require clear justificatio
 Long Term Market Stability Invest in mitigation, fraud prevention, and competition so insurance markets work sustainably for consumers, businesses, and taxpayers.
 Help make my Vision a reality Together we can bring meaningful change to District 64.
 Click the link below to join the movement.
-Learn More ENDORSE LUIS SALAZAR Instagram Facebook Bluesky
+Learn More ENDORSE LUIS SALAZAR Contact our campaign at nick@voteluis.com or call us at ‪(813) 444-8634‬ Instagram Facebook Bluesky

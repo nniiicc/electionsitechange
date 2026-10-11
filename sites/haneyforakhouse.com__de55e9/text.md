@@ -1,4 +1,4 @@
-Home About Barbara Contribute Privacy Policy Contact 1-888-816-6202 Early voting begins August 3| Election Day is August 18 BARBARA HANEY Republican Candidate for Alaska House -District 33 Moose Creek ~ North Pole ~ Chena Lakes ~ Newby ~ Plack ~ Badger "North Pole is my home.
+Home About Barbara Contribute Privacy Policy Contact Early voting begins October 19| Election Day is November 3, 2026 BARBARA HANEY Republican Candidate for Alaska House -District 33 Moose Creek ~ North Pole ~ Chena Lakes ~ Newby ~ Plack ~ Badger "North Pole is my home.
 I will fight for it with everything I have." CONTRIBUTE VOLUNTEER STAY INFORMED BARBARA ON THE ISSUES FULL PFD — NO EXCUSES Alaskans earned the Permanent Fund Dividend.
 Barbara will fight every session to restore it.
 NEWBY PARK & OUR COMMUNITY Roads, infrastructure, and Newby Park deserve real investment.

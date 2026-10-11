@@ -1,0 +1,16 @@
+Skip to content En Español Meet Monica About TX-15 News and Media Issues Get Involved Volunteer Become an Election Worker Polling and Election Info Voting Information Shop Meet Monica About TX-15 News and Media Issues Get Involved Volunteer Become an Election Worker Polling and Election Info Voting Information Shop Donate Voting Information Important Dates Early Voting October 19 – October 30 Early Voting Location Lookup Election Day November 3rd Election Day Voting Location Lookup Request a Ride to the Polls Request Ride to Polls First Name Last Name Phone # Email Pickup Address Address Line 1 Address Line 2 City Zip Code Poll Location By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with campaign notifications from Monica for Congress.
+Users may also opt-in to the sms program by texting the keyword JOIN to 956.625.0212.
+After signing up, you will receive a text message confirmation.
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Messages may include requests for donation.
+Message and data rates may apply.
+Terms and Conditions/Privacy Policy can be found here.
+SIGN UP Facebook Instagram Twitter By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with campaign notifications from Monica for Congress.
+Users may also opt-in to the sms program by texting the keyword JOIN to 956.625.0212.
+After signing up, you will receive a text message confirmation.
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Terms and Conditions/Privacy Policy can be found here.
+Paid for by Monica for Congress Mailing Address Monica for Congress PO BOX 4605 McAllen, TX 78502 Contact Us Phone: 877-469-1210 Weslaco 1501 W Business 83 Weslaco, TX 78596 Media Kit English Spanish English

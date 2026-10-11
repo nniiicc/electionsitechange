@@ -18,7 +18,7 @@ Senate Troy Jackson met with workers, union members, and voters at Democratic of
 “This is the most energy I have ever seen for a race in Maine,” said Jackson.
 “My promise to all of you is to be a partner in this fight, to never back down, and to build a government that finally works as hard for working people as working people have always worked for this country.” In Rockland and Bangor, Troy rallied volunteers before they headed out to knock doors for candidates up and down the ballot.
 Later that day, Jackson rallied with voters and students ahead of the UMaine football game.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

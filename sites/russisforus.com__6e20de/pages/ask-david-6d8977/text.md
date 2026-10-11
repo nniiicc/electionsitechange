@@ -2,7 +2,7 @@ Skip to content Skip to footer Menu Close Home About Ask David Virtual Rally Vol
 Some questions are answered privately.
 Others may be shared publicly so more people can hear the response.
 Either way, every message gets read and answered by David directly.
-Ask David Newsletter First Name Last Name Email Subject Message I agree that my submitted data is being collected and stored.
+Ask David Contact First Name Last Name Email Subject Message I agree that my submitted data is being collected and stored.
 Ask David Get Involved In A People-Powered Campaign There are simple ways to support the campaign and help more people learn about David Russ, his priorities, and the meaning behind #RussIsForUS .
 Tell us how you would like to get involved, and a campaign team member will follow up with next steps.
 Volunteer Form Subscribe First Name Last Name Email Address Receive campaign emails (you can opt out at any time) Phone/Mobile Receive text updates (See Full Terms Below) Msg & data rates may apply.
@@ -23,7 +23,7 @@ Message and data rates may apply.
 Text STOP to opt out or HELP for help.
 Text Input Volunteer We want to hear from you Get in touch with the campaign and ask questions about events or volunteering.
 We read and respond to every message.
-Contact Form Demo Notify Phone/Mobile First Name Last Name Email Subject Your Message SMS Messaging (Optional) Enter a phone number above to opt in to SMS messages.
+Contact Form Demo Updates Phone/Mobile First Name Last Name Email Subject Your Message SMS Messaging (Optional) Enter a phone number above to opt in to SMS messages.
 1.
 You will receive campaign updates from David Russ Is For US via automated text messages at the phone number provided.
 Message frequency may vary.

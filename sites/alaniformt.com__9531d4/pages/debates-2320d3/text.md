@@ -3,9 +3,16 @@ Senate Debates & Candidate Forums See the candidates side by side and judge for 
 Alani is confirmed for every event on this page.
 Listings are updated as hosts finalize details, and when organizers share a stream or recording, the link goes up here.
 Coming up Sunday, October 11 · 10:00–11:30 am Debate Montana Broadcasters Association Debate Hosted by the Montana Broadcasters Association and the Greater Montana Foundation Where Broadcast from a studio in Bozeman How to attend This is a live broadcast debate with no studio audience, so the way to be there is to tune in.
-How to watch Live on Montana PBS , Sunday 10:00–11:30 am.
-If the hosts add a stream, we’ll post the link here.
-On stage Alani Bankhead (D) · other candidates to be announced by the host Sunday, October 18 · 6:30 pm · doors at 5:30 Candidate forum U.S.
+How to watch Live on Montana PBS , Sunday 10:00–11:30 am, and streaming live on NonStop Local’s YouTube .
+Also live on SWX and the Pulse streaming channel (Cowles Montana stations).
+Montana PBS will also post it online on demand.
+Listen Live on KCAP and KPQX 92.5 FM .
+Same day: KYYA AM 730 / 98.1 FM at 4 pm, and KGHL in Billings at 6 pm.
+Encores Montana PBS: Tue 10/13 10:30 am · Thu 10/15 7 pm · Fri 10/23 12:30 pm · Tue 10/27 8 pm.
+Montana PBS World: Thu 10/15 4:30 pm · Thu 10/22 9 pm · Sat 10/31 5 pm.
+Yellowstone Public Radio: Wed 10/14, 5:30–7 pm.
+KXLO (Lewistown): Tue 10/13, 6 pm.
+On stage Kurt Alme (R) · Kyle Austin (L) · Alani Bankhead (D) · Seth Bodnar (I) Sunday, October 18 · 6:30 pm · doors at 5:30 Candidate forum U.S.
 Senate Joint Appearance in Billings Moderated by KULR-8’s John Martin Where Billings Lincoln Center, Billings How to attend Doors open at 5:30 pm.
 We’ll post attendance details here as the organizers share them.
 How to watch TV coverage is expected, and the organizers plan to stream it live.
@@ -16,6 +23,13 @@ How to watch No stream announced yet.
 If the organizers share one, we’ll post the link here.
 On stage Alani Bankhead (D) · Seth Bodnar (I) · Kyle Austin (L).
 Kurt Alme (R) has been invited; the organizers were still awaiting his answer at their latest update.
+Wednesday, October 21 · 6:00 pm MT (8:00 pm ET) Candidate forum NCBW Virtual Meet the Candidate Forum Hosted by the National Coalition of 100 Black Women, Inc.
+Where Online (virtual forum) Topics “The Voices of Women”: health care, education, economic empowerment, and public policy affecting women, families and communities.
+Every candidate gets the same format, questions and time.
+How to watch We’ll post the viewing link here as soon as NCBW shares it.
+On stage Alani Bankhead (D) .
+NCBW invited the U.S.
+Senate candidates; it hasn’t announced who else will take part.
 Already happened Missed one?
 Watch the debates and forums on YouTube → Thursday, October 1 · 7:00 pm Candidate forum Completed Montana U.S.
 Senate Candidate Forum Hosted by the Beer Buds & the Big Sky podcast Where Whitefish Performing Arts Center, 127 Spokane Ave, Whitefish On stage Alani Bankhead (D) · Seth Bodnar (I) · Kyle Austin (L) How to watch The full recording is up, courtesy of Beer Buds & the Big Sky.

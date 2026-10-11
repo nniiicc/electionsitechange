@@ -1,4 +1,4 @@
-HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE Donate Follow us Donate Follow us Menu MEET JUNE A South Dakota for ALL — one neighbor at a time.
+HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE MERCH STORE Donate Follow us Donate Follow us Menu MEET JUNE A South Dakota for ALL — one neighbor at a time.
 Meet June June CopperStad has spent a decade showing up for District 15 — as a community health worker, patient advocate, NAACP leader, and neighbor.
 Here's her story.
 Meet June I arrived in Sioux Falls in 2015 with my dog, $200, and everything I owned in a 2001 Saturn.
@@ -35,4 +35,4 @@ She is the daughter of a single mother and a Ugandan immigrant — and the grand
 She has spent her career showing up for this community.
 Now she’s asking for the chance to do it in Pierre.
 You belong here.
-HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE Donate Follow us Accessibility Statement GET INVOLVED MEET JUNE THE ISSUES Paid for by june for south dakota PO Box 815 Sioux Falls, SD 57101 June for South Dakota © #
+HOME MEET JUNE THE ISSUES PLAN YOUR VOTE GET INVOLVED PROTECT YOUR VOTE MERCH STORE Donate Follow us Accessibility Statement GET INVOLVED MEET JUNE THE ISSUES MERCH Paid for by june for south dakota PO Box 815 Sioux Falls, SD 57101 June for South Dakota © #

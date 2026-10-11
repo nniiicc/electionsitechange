@@ -90,7 +90,7 @@ Shame on her for being, you know, so corrupt.
 I didn’t do that.
 That’s on her,” Jackson said.
 “I don’t know what else to say about it, but I’m sure she is very concerned about it.
-It does look very damning, and people are going to remember November 3.” ### To reach the campaign, email info@jacksonformaine.com .
+It does look very damning, and people are going to remember November 3.” ### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

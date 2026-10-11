@@ -1,6 +1,4 @@
-Skip navigation menu Home About Issues Vote Formal Statement Endorsements Get Involved Donate Timoria MCQUEEN SABA READY DAY ONE GEORGIA STATE HOUSE REP.
-DISTRICT 68 ELECT Learn More Donate Home About Issues Vote Formal Statement Endorsements Get Involved Donate Timoria MCQUEEN SABA READY DAY ONE GEORGIA STATE HOUSE REP.
-DISTRICT 68 ELECT Learn More Donate THANK YOU, DISTRICT 68 FAIRBURN, FAYETTEVILLE, PEACHTREE CITY, TYRONE, SOUTH FULTON, & UNION CITY Because of you, we made history.
+Skip navigation menu Home About Issues Vote Formal Statement Endorsements Get Involved Donate Timoria MCQUEEN SABA READY DAY ONE STATE REPRESENTATIVE ELECT HOUSE DISTRICT 68 Learn More Donate Home About Issues Vote Formal Statement Endorsements Get Involved Donate Timoria MCQUEEN SABA READY DAY ONE STATE REPRESENTATIVE ELECT HOUSE DISTRICT 68 Learn More Donate THANK YOU, DISTRICT 68 FAIRBURN, FAYETTEVILLE, PEACHTREE CITY, TYRONE, SOUTH FULTON, & UNION CITY Because of you, we made history.
 This victory belongs to every mother who fought to be heard, every family who deserved better, every volunteer who knocked on doors, every donor, and every person who believed that a survivor could become a lawmaker.
 From surviving a near-fatal postpartum hemorrhage #ago to representing District 68 in the Georgia State House, this moment is proof that lived experience belongs in the halls of power.
 We ran on dignity, equity, and action.

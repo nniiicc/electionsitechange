@@ -22,9 +22,6 @@ I grew up here.
 I'm staying - and I want you to be able to stay too.
 Read More A Fresh Look at Funding Our Towns I am proposing solutions for alternate ways to fund our town services.
 We cannot maintain the status quo by resisting new ideas and we need a fresh look at alternative sources.
-Connecticut Property Tax Flowchart Three bills.
-Three changes.
-One result: higher property taxes.
 Massachusetts Proposition 2½ Capping property tax growth for homeowners, with voter-approved overrides.
 House District 8 Funding Solution No new taxes.
 No local tax increases.

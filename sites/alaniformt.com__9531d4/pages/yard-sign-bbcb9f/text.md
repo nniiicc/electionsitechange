@@ -7,7 +7,15 @@ We'll only use this to get your sign to you.
 You're on the list.
 Your regional team has your request and a sign is headed your way.
 Thanks for putting Alani on your block.
-Want to chip in while you're at it?
+Pick up an Alani yard sign in person Near one of these offices?
+Stop in and grab one.
+Kalispell · Flathead Democrats campaign office 13 E.
+Oregon St. (corner of E.
+Oregon and Hwy 93, next to Paper Chase) Call ahead for hours.
+Billings · Yellowstone County Democrats campaign office 1501 14th St.
+W, Ste.
+1521 Mon–Fri 10 am–1 pm · Sat–Sun 11 am–1 pm Great Falls · Cascade County Democrats office 1108 7th St.
+S Want to chip in while you're at it?
 Signs are $20 in the campaign store , and every purchase is a contribution.
 Ready to do more than plant a sign?
 Join the team .

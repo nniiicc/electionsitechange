@@ -26,6 +26,6 @@ Traditional defense systems can cost billions of dollars, while rapidly evolving
 Wyoming can help defend America.
 And Wyoming can build things America needs.” Wyoming innovation.
 Wyoming manufacturing.
-Wyoming jobs. ← Big Horn Basin Tour Dates Lisa’s Answer to an ICE Pledge → More posts WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
+Wyoming jobs. ← Big Horn Basin Tour Dates Lisa’s Answer to an ICE Pledge → More posts Lisa Earns Another Endorsement Posted on October 10, 2026 WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
 Posted on October 5, 2026 Rep.
-Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 4th Annual Buffalo Bash Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind
+Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

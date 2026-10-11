@@ -2,7 +2,7 @@ Skip to content Donate now to send Dr.
 Annie to the U.S.
 Senate STAND WITH Dr.
 Annie ANdrews Choose any amount.
-If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate Team Andrews OUR EVENTS FIND AN EVENT NEAR YOU Sat, Oct 10 @ 9:00 AM–8:00 PM EDT Phone Bank For Dr.
+If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# $# $# $# $# $# Other Amount Other Amount Meet Annie Why I’m Running News Events Store Vote Meet Annie Why I’m Running News Events Store Vote Volunteer Volunteer Donate Donate Donate Donate Team Andrews OUR EVENTS FIND AN EVENT NEAR YOU Sun, Oct 11 @ 9:00 AM–8:00 PM EDT Phone Bank For Dr.
 Annie Andrews See details Sun, Oct 11 @ 4:45–6:00 PM EDT Debate Rally - Columbia This event’s address is private.
 Sign up for more details See details Sun, Oct 11 @ 6:30–9:00 PM EDT Debate Watch Party - Columbia This event’s address is private.
 Sign up for more details See details Mon, Oct 12 @ 11:00 AM–3:00 PM EDT Volunteer at the Columbia Campaign Office!

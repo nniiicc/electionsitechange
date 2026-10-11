@@ -38,7 +38,7 @@ It’s about leadership.
 It’s about priorities.
 It’s about us.
 I’m Stella, and I hope you’ll consider voting for me.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Posted by Stella Pollard September 15, 2025 September 17, 2025 Posted in Uncategorized Tags: adventure , cycling , history , news , travel Post navigation Previous Post Previous post: Stella Pollard: The People’s Candidate for KY’s 20th Senate District Next Post Next post: Owen County Blue Harvest Festival Leave a Reply Cancel reply Stella for KY , Powered by WordPress.com .
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Posted by Stella Pollard September 15, 2025 September 17, 2025 Posted in Uncategorized Tags: adventure , cycling , history , news , travel Post navigation Previous Post Previous post: Stella Pollard: The People’s Candidate for KY’s 20th Senate District Next Post Next post: Owen County Blue Harvest Festival Leave a Reply Cancel reply Comment Name Email Website Δ Stella for KY , Powered by WordPress.com .
 Discover more from Stella for KY Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...
 Write a Comment...

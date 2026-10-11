@@ -1,4 +1,4 @@
-Meet Brady Platform Events Get Involved Donate The Platform Restore Michigan.
+Meet Brady Platform Events Vote Get Involved Donate The Platform Restore Michigan.
 Bold solutions for education failure, skyrocketing costs, job-killing waste, energy blackouts, and broken victim justice.
 Transparency The Prove-It Promise Radical Transparency Brady will require that every legislator disclose every lobbyist who attempted to influence their vote.
 100% accountability to the people of District 29 Health & Families Make Michigan Healthy Again Stronger Families Start with Healthier Kids Evidence-based policies that improve school nutrition and physical education, expand access to healthy foods, support parental involvement, and address root causes so every child has the foundation to thrive.
@@ -12,8 +12,8 @@ Expand attainable housing, cut needless barriers to building, and fix the roads 
 1 West Michigan community worth fighting for together "From pain to purpose — I've been building bridges in the hardest circumstances my entire life.
 Now I'm ready to bridge the political divide in Lansing and restore Michigan to greatness." — Brady A.
 Middleton Ready to help?
-Get Involved Donate Today Fuel our mission $ 25 $ 50 $ 100 $ 250 Other Meet Brady Platform Events Get Involved Donate Follow us: Paid for by Middleton for Michigan, 200 32nd ST SE, Grand Rapids, Michigan 49548 © 2026 Brady Middleton for State Senate.
+Get Involved Donate Today Fuel our mission $ 25 $ 50 $ 100 $ 250 Other Meet Brady Platform Events Vote Get Involved Donate Follow us: Paid for by Middleton for Michigan, 200 32nd ST SE, Grand Rapids, Michigan 49548 © 2026 Brady Middleton for State Senate.
 All rights reserved.
-Meet Brady Platform Events Get Involved Donate © 2026 Brady Middleton for State Senate.
+Meet Brady Platform Events Vote Get Involved Donate © 2026 Brady Middleton for State Senate.
 All rights reserved.
 Paid for by Middleton for Michigan, 200 32nd ST SE, Grand Rapids, Michigan 49548

@@ -1,4 +1,4 @@
 top of page JANET YANG ROHR For State Representative of IL House District 41 Meet Janet Platform Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
-GET A YARD SIGN Upcoming Events Multiple Dates Teacher's Day of Action with Laura Ellman & Rebecca Gamboa!
-Sat, Oct 10 Friends of Janet Yang Rohr Office More info RSVP Campaign Kickoff Canvass with Friends of Janet Yang Rohr Sat, Aug 22 Friends of Janet Yang Rohr Office More info Details SUBSCRIBE TO OUR EMAILS Get Janet's latest updates SUBSCRIBE Thanks for submitting!
+GET A YARD SIGN Upcoming Events Multiple Dates Weekly Canvass with Friends of Janet Yang Rohr!
+Sat, Oct 17 Friends of Janet Yang Rohr Office More info RSVP Campaign Kickoff Canvass with Friends of Janet Yang Rohr Sat, Aug 22 Friends of Janet Yang Rohr Office More info Details SUBSCRIBE TO OUR EMAILS Get Janet's latest updates SUBSCRIBE Thanks for submitting!
 Meet Janet Platform Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​​​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page

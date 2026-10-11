@@ -1,20 +1,26 @@
 Skip to content Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE 0 Cart No products in the cart.
-Return to shop DONATE DONATE PROVEN LEADERSHIP Keeping Our Community Safe Protecting Women’s Rights Fighting for Hardworking Pennsylvanians Standing up for Taxpayers New from the Campaign Trail Used for the like, share, comment, and reaction icons Friends of Jim Haddock you are all invited to a meet the candidates nights being hosted for Senator Marty Flynn and State Representative Jim Haddock.
+Return to shop DONATE DONATE PROVEN LEADERSHIP Keeping Our Community Safe Protecting Women’s Rights Fighting for Hardworking Pennsylvanians Standing up for Taxpayers New from the Campaign Trail Used for the like, share, comment, and reaction icons Honored to receive the Fraternal Order of Police Lodge #36 endorsement.
+I have supported the law enforcement community since my time as Mayor of Avoca and continue that work as your State Representative.
+Action speaks louder words!
+I am proud to have help provide over two million dollars in grant funding for local police departments throughout the 118th District.
+This includes funding of thirteen police vehicles.
+I thank the members of Wyoming Valley Lodge #36 for recognizing my work on their behalf. ...
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 58 Shares: 9 Comments: 6 6 Comments Comment on Facebook Congratulations, Auguri Jim.
+A leader leading and being recognized and appreciated Congrats Jim View more comments Friends of Jim Haddock you are all invited to a meet the candidates nights being hosted for Senator Marty Flynn and State Representative Jim Haddock.
 Please see the flyer below and we hope to see on Monday, October 12th from 5:00pm to 7:00pm. ...
 See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-#ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 26 Shares: 0 Comments: 4 4 Comments Comment on Facebook Two great guys Wish I could make it ☹️ Always wishing you the best, Jimmy!!
-Door to door is a great way to hear what is on the mind of my constituents.
+#ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 41 Shares: 0 Comments: 5 5 Comments Comment on Facebook Always wishing you the best, Jimmy!!
+Two great guys Wish I could make it ☹️ View more comments Door to door is a great way to hear what is on the mind of my constituents.
 The campaign has been knocking doors in Pittston Township, Hughestown and West Pittston this past week.
 We now have hit doors in all nineteen towns in the 118th district.
 Now we start our second pass to even more doors.🚪 ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 190 Shares: 9 Comments: 28 28 Comments Comment on Facebook Yo Dave Cant trek in woods anymore for mushrooms.
-If u or anyone has some to share with old coalcracker ., id appreciate it ..
-Kudos to Jim Haddock 👏👏👏 You have our vote.
-View more comments Agriculture is Pennsylvania’s biggest industry.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 205 Shares: 10 Comments: 30 30 Comments Comment on Facebook Your sign is already in my yard!
+Good luck, Jim.
+Absolutely 💯 My vote is in Jim View more comments Agriculture is Pennsylvania’s biggest industry.
 I am proud to receive the endorsement from farmers and dairymen across the state for my 💯 percent voting record on farm issues.
 Farmer is the PAC that represents legislative side of the Farm Bureau of Pennsylvania.
 They know I work for them every day. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 92 Shares: 12 Comments: 13 13 Comments Comment on Facebook Jim you work for all the people in your district.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 95 Shares: 12 Comments: 13 13 Comments Comment on Facebook Jim you work for all the people in your district.
 Proud to say you are a dear friend Congratulations!
 Congratulations!
 Jim we have your back!
@@ -31,16 +37,8 @@ Many local vendors and community groups set up booths and showed the community s
 See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 51 Shares: 5 Comments: 0 0 Comments Comment on Facebook +5 Baseball, Hot Dogs and Apple Pie is an American tradition.
 Greatly enjoyed a day out at Lackawanna County Stadium in Moosic in the heart of the 118th District with the Lackawanna County Democratic Club.
 Newly elected chairwoman Larissa did a fantastic job organizing this event and so many committee members joined in a fun day at the park and cheered on the Rail Riders to a win! ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 50 Shares: 13 Comments: 0 0 Comments Comment on Facebook Play Here is my fist commercial!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 50 Shares: 13 Comments: 0 0 Comments Comment on Facebook Play Here is my first commercial!
 Thank you to all the Friends of Jim Haddock who gave of their time to support the campaign! ...
 See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 56 Shares: 15 Comments: 5 5 Comments Comment on Facebook Always have my yard sign out!
 Thank you for all that you do!
-Wonderful Love it View more comments + Joined my friends at the annual Felittese Festival in Old Forge.
-This is a must attend event celebrating the Italian American heritage of many of the settlers in Old Forge.
-Great food, entertainment and friendship is shared amongst all attendees.
-I had the pleasure of helping this fine organization in securing a grant for a new walk in cooler and freezer.
-It was put to great use at this year’s festival.
-So many members work for weeks to put on this great event for all they do to keep the Italian heritage going I say, “Grazie Mille” ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 143 Shares: 7 Comments: 11 11 Comments Comment on Facebook Great Rep Great to meet you Jim!
-Bob Mecca from Smoke & Mirrors.
-He is the best👍👍 View more comments Load more Home About Jim Issues Get Involved Upcoming Events DONATE Search for: Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE Login Newsletter
+Wonderful Love it View more comments Load more Home About Jim Issues Get Involved Upcoming Events DONATE Search for: Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE Login Newsletter

@@ -10,8 +10,7 @@ Sign up below so we know you’re coming.
 Sign Up Here LWV Candidate Forum – State House & Senate When October 1, 2026 6:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Where Central Park Place 421 Columbus Avenue, Grand Haven, MI, 49417 Event Type Candidate Forum The League of Women Voters of Grand Haven Area hosts a candidate forum for State House and Senate races, with information on state ballot proposals.
 Doors open at 6 PM; the forum begins at 6:30 PM.
 19 June 11 AM Juneteenth Heritage Landing RSVP 25 June 7 PM Online AMA Ask Me Anything!
-RSVP November 1, 2026 - November 7, 2026 02 Nov Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Monday, Nov 2: Spring Lake November 2, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Monday, November 2 to knock doors across House District 88.
-Our evening canvass works Spring Lake and launches at 5:00 PM from the [...] More Info 03 Nov Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Tuesday, Nov 3 (Election Day): Grand Haven Township November 3, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing It's Election Day!
+RSVP November 1, 2026 - November 7, 2026 03 Nov Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Tuesday, Nov 3 (Election Day): Grand Haven Township November 3, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing It's Election Day!
 Join us Tuesday, November 3 to knock doors across House District 88.
 Our evening canvass works Grand Haven Township and launches at [...] More Info < 1 2 3 4 5 6 All Events Media Coverage Kiel Reid Steady.
 Prepared.

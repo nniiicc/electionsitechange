@@ -1,4 +1,4 @@
-Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl English en Español es русский ru עברית he 简体中文 zh Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Kontakt ★ Twój głos ma znaczenie Połączmy się Masz pytanie, pomysł lub chcesz podzielić się tym, co jest dla Ciebie najważniejsze?
+Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl עברית he Español es English en русский ru 简体中文 zh Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Kontakt ★ Twój głos ma znaczenie Połączmy się Masz pytanie, pomysł lub chcesz podzielić się tym, co jest dla Ciebie najważniejsze?
 Danica chętnie Cię wysłucha.
 Razem możemy zbudować silniejszą przyszłość dla 189. okręgu wyborczego Pensylwanii.
 Danica z niecierpliwością czeka na kontakt z Państwa strony.

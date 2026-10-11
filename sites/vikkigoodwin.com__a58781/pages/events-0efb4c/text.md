@@ -1,15 +1,7 @@
 0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Campaign Events Join Representative Goodwin on her journey to visit every corner of our great state before Election Day!
 Interested in having Rep.
 Goodwin attend an event in your area?
-Please drop us an email to info@VikkiGoodwin.com Oct 10 Blockwalk — Dallas Saturday, October 10, 2026 12:00 PM 3:00 PM Kickoff @ Cuquita's Restaurant (map) Google Calendar ICS Blockwalk with Vikki and Democratic nominee for Congress Kevin Burge in Dallas!
-RSVP HERE We're knocking doors and talking with voters across Dallas County to make sure every Democrat has a plan to vote.
-Talking to voters face-to-face is one of the most effective ways to win, and every door counts.
-What to expect: We'll start with a quick training and get you set up with a walk packet and the MiniVAN app.
-You'll walk with a partner or small group, and our team will be there to answer questions.
-No experience needed.
-First-timers are welcome!
-What to bring: A fully charged phone Comfortable walking shoes Water, an umbrella if needed See you out there!
-View Event → Oct 11 GOTV Launch - South Oak Cliff, Dallas Sunday, October 11, 2026 12:00 PM 1:00 PM The Texas Greenhouse (map) Google Calendar ICS Join Vikki Goodwin and Clayton Tucker, nominee for Agricultural Commissioner, for a community conversation and launch of an afternoon of blockwalking in South Oak Cliff.
+Please drop us an email to info@VikkiGoodwin.com Oct 11 GOTV Launch - South Oak Cliff, Dallas Sunday, October 11, 2026 12:00 PM 1:00 PM The Texas Greenhouse (map) Google Calendar ICS Join Vikki Goodwin and Clayton Tucker, nominee for Agricultural Commissioner, for a community conversation and launch of an afternoon of blockwalking in South Oak Cliff.
 Please arrive at 12pm for our event, and make sure that you have RSVP'ed beforehand!
 Together, we will get out the vote to build a better future for Texas.
 Wear comfortable shoes, bring a water bottle and a fully charged cell phone.
@@ -103,7 +95,7 @@ Join Vikki in San Antonio for an Affordability Town Hall.
 Hear her plan to fix rising costs for you and your family, and meet neighbors from across Bexar County.
 Questions welcome!
 Bring family and friends — this is a great opportunity to get plugged into the campaign to beat Dan Patrick and elect Vikki Goodwin our next Lieutenant Governor.
-View Event → Nov 3 Election Day Tuesday, November 3, 2026 7:00 AM 7:00 PM Google Calendar ICS Vote Vikki for Texas Lt.
+RSVP HERE View Event → Nov 3 Election Day Tuesday, November 3, 2026 7:00 AM 7:00 PM Google Calendar ICS Vote Vikki for Texas Lt.
 Governor ⚠️ Find your polling place here ⚠️ Each county in Texas is in charge of it’s own voting — this means that hours may vary between polling locations and between counties.
 Check your polling location and hours here and verify by contacting your county election office.
 We recommend early voting to skip the line and make sure you get to the polls.
@@ -122,6 +114,14 @@ If you do not possess a form of acceptable photo identification and you cannot r
 The election official will ask if you have moved and then ask you to sign the list of people who have voted in the precinct.
 You will be handed one of the following: A paper ballot on which you will select your choices and which will be counted by hand; A paper ballot on which you will select your choices by darkening an oval, completing an arrow, or “marking” with the aid of a voting machine; or A slip of paper with a numerical access code or, in some counties, a ballot activator card.
 In the next available voting booth, enter your code or card and let the on-screen instructions guide you through the process of electronic voting. ➜ Find more information here , including Mail-In Voting, Emergency Ballots Due To Death in the Family, Curbside Voting, Assistance at the Polls, and more.
+View Event → Oct 10 Blockwalk — Dallas Saturday, October 10, 2026 12:00 PM 3:00 PM Kickoff @ Cuquita's Restaurant (map) Google Calendar ICS Blockwalk with Vikki and Democratic nominee for Congress Kevin Burge in Dallas!
+RSVP HERE We're knocking doors and talking with voters across Dallas County to make sure every Democrat has a plan to vote.
+Talking to voters face-to-face is one of the most effective ways to win, and every door counts.
+What to expect: We'll start with a quick training and get you set up with a walk packet and the MiniVAN app.
+You'll walk with a partner or small group, and our team will be there to answer questions.
+No experience needed.
+First-timers are welcome!
+What to bring: A fully charged phone Comfortable walking shoes Water, an umbrella if needed See you out there!
 View Event → Oct 8 Reception — Houston Heights Thursday, October 8, 2026 8:00 PM 8:00 PM Location provided upon RSVP (map) Google Calendar ICS Houston Heights Reception for Vikki Goodwin RSVP HERE Please join David and Sandy Steitz for a reception in support of Vikki Goodwin in The Heights.
 Address provided upon RSVP.
 View Event → Oct 7 Meet & Greet — UT Arlington Wednesday, October 7, 2026 12:00 PM 2:00 PM UTA Library Mall (map) Google Calendar ICS Join Mav Democrats at UT Arlington for a meet-and-greet with Vikki Goodwin featuring brief remarks, a moderated discussion, and an opportunity for students to engage with her.
@@ -369,18 +369,7 @@ Join Vikki Goodwin, Democratic candidate for Texas Lieutenant Governor and your 
 Every conversation, every volunteer, and every day counts from here until Election Day.
 Now is the time to get involved.
 Sign up now to reserve your spot, and we'll follow up with all the details.
-View Event → Jul 25 Goodwin4Texas San Antonio Fundraiser Saturday, July 25, 2026 9:00 AM 10:30 AM Office of Rep.
-Barbara Gervin-Hawkins (map) Google Calendar ICS We’re ready to take on Dan Patrick and elect the first woman Lt.
-Governor in Texas history — but we need your help.
-Join us for a delicious breakfast, San Antonio style.
-We’ll provide the nibbles, you provide the ideas, the energy and the support.
-Oh... and the donations!
-Get tickets here.
-Thank you to our host committee: Congressman Joaquin Castro, Rep.
-Barbara Gervin-Hawkins, Rep.
-Diego Bernal, Rep.
-Ray Lopez, Former Rep.
-Ina Minjarez View Event → Hear From Vikki By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from the Vikki Goodwin Campaign.
+View Event → Hear From Vikki By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from the Vikki Goodwin Campaign.
 Vikki Goodwin Campaign’s mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 Messages may include donation asks.
 Message and data rates may apply.

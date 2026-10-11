@@ -4,14 +4,14 @@ Total Asegurado para MA: $14,579,629,529.01 Conoce a Ed Luchar por la clase trab
 Nunca ha tenido miedo de romper el statu quo, y desde que fue elegido por primera vez para el Senado de los Estados Unidos en 2013, Ed ha estado liderando y cumpliendo con las cuestiones que más importan a la gente de Massachusetts.
 SABER MÁS Avales Lo último Donar Tu apoyo marca la diferencia. $10 $25 $50 $100 $250 Otro importe Si has guardado tu información de pago con ActBlue Express, tu donación se realizará inmediatamente.
 Haga clic aquí para hacer una donación fuera de línea .
-Redes sociales Siga Ed Markey 11 horas hace Pete Hegseth debe irse.
-8 Retweet en Twitter 2108720467565580338 78 Como en Twitter 2108720467565580338 Compartir 2108720467565580338 Siga Ed Markey 13 horas hace Conocemos a las personas que están siendo perjudicadas por los ataques de Trump contra la salud pública.
+Redes sociales Siga Ed Markey 1 días hace Pete Hegseth debe irse.
+49 Retweet en Twitter 2108720467565580338 266 Como en Twitter 2108720467565580338 Compartir 2108720467565580338 Siga Ed Markey 2 días hace Conocemos a las personas que están siendo perjudicadas por los ataques de Trump contra la salud pública.
 Son nuestros amigos, nuestros vecinos y nuestras familias.
 Debemos luchar para restablecer todos los recortes y proteger el acceso a la atención sanitaria esencial en nuestro país.
-4 Retweet en Twitter 2108697593140146451 11 Como en Twitter 2108697593140146451 Compartir 2108697593140146451 Siga Ed Markey 19 horas hace El interés público no debe perderse ante el capital privado.
+8 Retweet en Twitter 2108697593140146451 21 Como en Twitter 2108697593140146451 Compartir 2108697593140146451 Siga Ed Markey 2 días hace El interés público no debe perderse ante el capital privado.
 Debemos sacar al capital privado de nuestras viviendas, nuestro sistema de salud y nuestras vidas.
 Ya es hora de que pongamos a las personas por encima de los beneficios.
-4 Re-tuitado en Twitter 2108605074998018381 31 Como en Twitter 2108605074998018381 Compartir 2108605074998018381 Lo último Ed Markey gana las primarias demócratas para el Senado de EE.
+5 Re-tuitado en Twitter 2108605074998018381 46 Como en Twitter 2108605074998018381 Compartir 2108605074998018381 Lo último Ed Markey gana las primarias demócratas para el Senado de EE.
 UU.
 1 de septiembre de 2026 Esta noche, Ed Markey ganó las primarias demócratas para el Senado de los EE.
 UU., asegurando la nominación demócrata y avanzando a las elecciones generales de noviembre.

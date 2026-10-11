@@ -30,7 +30,8 @@ Hach was endorsed Tuesday night by former New York City Mayor Rudy Giuliani.
 The Point reported Tuesday that GOP county chair Joe Cairo was concerned that the low turnout so far in early voting was not a good sign for LiPetri, who has President Donaald Trump’s endorsement.
 Soon after the event, a seething Suozzi held a news conference on Zoom and called for an investigation into whether any taxpayer dollars were used for the event, claiming it cost $100,000 to rent the soundstage.
 He demanded the vice president, whom he called a “phony baloney,” debate him.
-Asked whether he would buy Vance’s book, Suozzi would only say, “Unlike him I would never lecture the pope on theology.” As for Hochul, she just tweeted, “It’s still Kathy.” — Rita Ciolli rita.ciolli@newsday.com Original Article Back to News Page Recent Articles Police, firefighter unions back Dem NY Rep.
+Asked whether he would buy Vance’s book, Suozzi would only say, “Unlike him I would never lecture the pope on theology.” As for Hochul, she just tweeted, “It’s still Kathy.” — Rita Ciolli rita.ciolli@newsday.com Original Article Back to News Page Recent Articles Thomas R.
+Suozzi for New York’s 3rd Congressional District October 10, 2026 Police, firefighter unions back Dem NY Rep.
 Tom Suozzi — after Trump-linked Super PAC spends $8M on attack ads October 4, 2026 Suozzi launches reelection bid as LiPetri heads to GOP midterm convention September 9, 2026 Rep.
 Suozzi kicks off re-election bid with bipartisan support from mayors September 8, 2026 Tom Suozzi makes affordability the centerpiece of his case for reelection September 1, 2026 Rep.
-Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Tom Suozzi: The promise we owe America August 10, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top
+Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top

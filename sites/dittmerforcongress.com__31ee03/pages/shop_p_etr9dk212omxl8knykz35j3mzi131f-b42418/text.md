@@ -8,5 +8,5 @@ Color: Black White Add To Cart Added!
 Garment-washed cotton twill delivers a worn-in look while a relaxed, unstructured construction offers all-day comfort.
 Adjustable cloth hideaway backstrap makes it easy to find the perfect fit.
 Dittmer For Congress logo embroidered front and center.
-Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

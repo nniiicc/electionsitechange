@@ -8,7 +8,9 @@ But until then, I am frequently at Village Council and City Council meetings, as
 In addition,we can now also meet at my legislative office at the CNM Workforce Training Center.
 So please come by and say hello.
 Hope to meet you soon!
-Kathleen Cates Representative, NM House District 44 Fundraiser 24 October in Rio Rancho Join us October 24th for a fundraiser with special guest, Speaker Javier Martínez.
+Kathleen Cates Representative, NM House District 44 Join us for a group canvass on October 25th Join us for a group canvass on October 25th with special guest Congresswoman Melanie Stansbury.
+We will be meeting at 1:30pm at the Sandoval Democrats office (3949 Corrales Rd).To RSVP, email Kathleen or text Grace at (505) 313-3738.
+Read More Fundraiser 24 October in Rio Rancho Join us October 24th for a fundraiser with special guest, Speaker Javier Martínez.
 It will be held from 3-5pm at the home of Suzanne Bingham in Rio Rancho.RSVP at: https://secure.actblue.com/donate/kcoctober2026 Read More Representative Cates Supports Amendments This election, "New Mexicans will vote on four amendments to the state Constitution.
 These bipartisan proposals, passed by the Legislature in 2025 and 2026, would strengthen democratic representation and support our state’s future.
 I support all four and encourage...
@@ -20,8 +22,7 @@ You can sign up here:...
 Read More September 2026 Newsletter Click here for the latest issue of Catching up with Cates.
 Subscribe and get the newsletter delivered to your email.
 Read More Representative Cates Campaign Fundraising Event Join us for coffee and a light breakfast as the balloons ascend and support Representative Cates's campaign for re-election!
-Saturday, October 3rd, 2026 at 8:00am At the Baron-Deutsch home, in Corrales, NM (Address provided upon RSVP) Read More Corrales Meet & Greet Join us in Corrales for a Meet & Greet with Representative Pamelya Herndon & Representative Kathleen Cates, at the home of Eleanor Bravo, in Corrales, Saturday, 19 September, 3-5 PM.
-Read More Get Involved Your time, talent, and treasure are the life-blood of any campaign.
+Saturday, October 3rd, 2026 at 8:00am At the Baron-Deutsch home, in Corrales, NM (Address provided upon RSVP) Read More Get Involved Your time, talent, and treasure are the life-blood of any campaign.
 But help is needed year-round.
 Donate, share your talent, and keep in touch!
 Donate Our opponents have vast reserves.

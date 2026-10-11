@@ -32,7 +32,7 @@ In April, ECU added Senator Susan Collins to its 2026 Most Corrupt Politicians L
 Over her career, she has taken a stunning total of $8.5 million in corporate PAC money — the most of any politician in Maine history.
 She owns one of the most lucrative stock portfolios in Congress while opposing a full ban on congressional stock trading and a constitutional amendment to overturn Citizens United .
 She has also used her position to maintain tax loopholes for private equity firms, which was the top industry contributing to her 2020 campaign.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

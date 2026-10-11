@@ -16,7 +16,7 @@ Holder Jr., have endorsed me and my campaign as a 2026 Democracy Defender!
 Close modal Proud to be endorsed by Jason Chisholm, Vice Mayor of Dewey-Humboldt, Wendy Escoffier, Vice Mayor of Camp Verde, The Honorable Bill Segner of Clarkdale, Senator Tom O'Halleran & Attorney General Kris Mayes Close modal Get In Touch Questions?
 Volunteer?
 Host an Event?
-First name* Last name* Email address* Phone number* Message* Send Close modal Close modal Platform Close modal © # by Dargon for AZ Senate.
+First name* Last name* Email address* Phone number* Message* Send Close modal Close modal © # by Dargon for AZ Senate.
 All Rights Reserved. © # by Dargon for AZ Senate.
 All Rights Reserved.
 Close modal Home About Education & Experience Platform Events Media & Press Media & Press 2 Media & Press 3 Videos/Photos Close modal Home About Education & Experience Platform Events Media & Press Media & Press 2 Media & Press 3 Videos/Photos

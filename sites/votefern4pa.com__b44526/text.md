@@ -1,4 +1,4 @@
-Skip to content About Issues Take Action Events Endorsements Contact Us Store About Issues Take Action Events Endorsements Contact Us Store DONATE Sign Up For Our Newsletter!
+Skip to content About Issues Take Action Events Endorsements Contact Us Store REFERENDUM About Issues Take Action Events Endorsements Contact Us Store REFERENDUM DONATE Sign Up For Our Newsletter!
 Name Email SIGN UP Quick Links TAKE ACTION LEARN ABOUT FERN Your Donation Can Make a Difference It’s time to stop sending people to Harrisburg to provide solutions to problems they’ve never had.
 Fern Leard has the life experience and determination to get things done.
 Help her help us by donating to her campaign today. $# $# $# $# Custom Learn About Fern As a NEPA native, mother of twins, and someone who’s known life’s ups and downs, Fern knows what it’s like, and what it takes, to live in our communities.

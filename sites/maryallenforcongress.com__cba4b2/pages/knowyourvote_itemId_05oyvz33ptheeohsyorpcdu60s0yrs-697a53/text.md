@@ -1,4 +1,4 @@
-0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Know Your Vote He's for The Mining Companies.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Know Your Vote He's for The mining companies.
 Mary's for the miners.
 Messmer accepted thousands of dollars from corporate mine owners.
 Messmer celebrated DOGE cuts that struck agencies like the Coal Workers' Health Surveillance Program, kneecapping efforts to detect and prevent Black Lung.

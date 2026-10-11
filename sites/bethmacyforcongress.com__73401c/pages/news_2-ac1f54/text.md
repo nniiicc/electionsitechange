@@ -1,4 +1,18 @@
-Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All July 31, 2026 In the News , WDBJ 6th District candidates weigh in on Google data center July 31, 2026 In the News , WDBJ A planned Google data center in Botetourt County is drawing scrutiny over its environmental and financial impact, and could be a key issue in the fall’s 6th Congressional District race.
+Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All August 25, 2026 In the News , The Roanoke Times Macy calls debate schedule announced by Cline ‘phony’ August 25, 2026 In the News , The Roanoke Times Democrat Beth Macy is disputing a debate schedule announced Monday evening by her opponent in the 6th Congressional District.
+Read the full article here: https://roanoke.com/news/local/government-politics/elections/article_396bd5f2-b747-4ee0-a701-c62f98b51600.html#tracking-source=home-top-story ...
+Read More August 25, 2026 Daily News Record , In the News Rep.
+Ben Cline criticizes Beth Macy’s comments about debate invitations August 25, 2026 Daily News Record , In the News Sixth District Rep.
+Ben Cline on Tuesday criticized Democratic challenger Beth Macy for comments in The Roanoke Times about three debate invitations by service clubs, saying she smeared the clubs and labeled them as phony.
+Read the full article here: https://www.dnronline.com/news/elections/rep-ben-cline-criticizes-beth-macy-s-comments-about-debate-invitations/article_929d56a6-f1a8-5e19-84af-36ac62b4e203.html ...
+Read More August 25, 2026 Augusta Free Press , In the News Update: Ben Cline tries to squirm out of actual debates: Beth Macy ain’t havin’ it August 25, 2026 Augusta Free Press , In the News Beth Macy, last week, went public with her desire to schedule three candidate debates with Ben Cline, the Sixth District MAGA incumbent, coinciding with the commencement of voting in their congressional race.
+Read the full article here: https://augustafreepress.com/news/ben-cline-tries-to-squirm-out-of-actual-debates-beth-macy-aint-havin-it/ ...
+Read More August 25, 2026 In the News , WFIR Beth Macy calls Congressman Cline’s debate schedule phony August 25, 2026 In the News , WFIR A statement from 6th District Democratic Congressional Candidate Beth Macy: Read the full article here: https://wfirnews.com/news/beth-macy-calls-congressman-clines-debate-schedule-phony ...
+Read More August 22, 2026 Daily News Record , In the News Virginia Democrats rally behind 6th congressional district candidate Beth Macy August 22, 2026 Daily News Record , In the News Hundreds of Democrats from across the commonwealth, including Lt.
+Gov.
+Ghazala Hashmi, gathered for the NETWORK NOVA Big Ten Women’s Summit this weekend.
+The year’s summit was called Big Ten because it celebrated 10 years of activism by NETWORK NOVA, which was formed in 2017.
+Read the full article here: https://www.dnronline.com/news/elections/virginia-democrats-rally-behind-6th-congressional-district-candidate-beth-macy/article_dd3f12c2-698a-5bf2-96d9-6a37c1cb39d2.html ...
+Read More July 31, 2026 In the News , WDBJ 6th District candidates weigh in on Google data center July 31, 2026 In the News , WDBJ A planned Google data center in Botetourt County is drawing scrutiny over its environmental and financial impact, and could be a key issue in the fall’s 6th Congressional District race.
 Read the full article here: https://www.wdbj7.com/2026/07/31/6th-district-weigh-candidates-google-data-center/ ...
 Read More July 31, 2026 Daily News Record , In the News Beth Macy takes her message to Rockingham County voters at Bluestone Vineyard July 31, 2026 Daily News Record , In the News Anne Gordon of Mount Sidney used to be a reliable Republican voter.
 Not anymore.
@@ -66,20 +80,7 @@ So it ticked me off to learn that my favorite book was beingtargeted for book ba
 April 28, 2026 Substack The library is the first place I remember walking to by myself, unless you count the time I ran away on my tricycle to the only other place I knew—the grocery store—where a neighbor lady found me chatting up the butcher and asking for a free popsicle.
 I was four.
 The great librarian Linn Wilson […] ...
-Read More April 22, 2026 CVille Right Now Redistricting sets up showdown between Tom Perriello, Beth Macy April 22, 2026 CVille Right Now If the Virginia Supreme Court upholds Tuesday’s redistricting vote, what will it mean for Albemarle County and Charlottesville?
-“The people of Roanoke and western Virginia asked me to run because I gave them hope,” Macy told Cville Right Now on Wednesday.
-“They said, ‘You have the unique ability to hold corporations and politicians accountable.’ I […] ...
-Read More March 20, 2026 WFXR News Republicans and Democrats Disagree on Efforts to Redraw Congressional Districts March 20, 2026 WFXR News Read More March 19, 2026 Augusta Free Press Local Democrats in the Sixth District have met the enemy: And it is us March 19, 2026 Augusta Free Press Local Democrats are bound and determined to f—k up the 2026 midterms, to a point where I’m wondering if it will do us any good to pass the redistricting referendum, and still lose to the feckless Ben Cline.
-I ask this after another Beth Macy listening tour event in my backyard found itself hijacked by the living, breathing definition of […] ...
-Read More March 16, 2026 Daily News Record Beth Macy meets with Shenandoah Valley readers and voters March 16, 2026 Daily News Record Journalist turned book writer turned Congressional hopeful Beth Macy participated in two different Shenandoah Valley events on Sunday that attracted two different types of audiences.
-The first event, an author talk and reception hosted by Charlottesville National Organization for Women at the Shenandoah Valley Art Center, was billed as nonpolitical.
-That standing-room-only event featured a […] ...
-Read More March 12, 2026 Substack Ladies, We’ve Got Shit to Do March 12, 2026 Substack Happy Women’s History Month!
-Back in 1982, when it first began, they only gave us a week.
-Women still earn 82 cents for every dollar a man makes, so we’re used to being shortchanged.
-By the way: that number went down after Donald Trump took office again last year.
-How about the recent passage of […] ...
-Read More Page 1 Page 2 Page 3 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
+Read More Page 1 Page 2 Page 3 Page 4 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
 Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.

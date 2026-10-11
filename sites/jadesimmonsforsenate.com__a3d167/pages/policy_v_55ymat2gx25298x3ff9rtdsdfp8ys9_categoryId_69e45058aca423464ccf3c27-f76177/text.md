@@ -122,7 +122,7 @@ But, we should fight to make opportunity real.
 And when opportunity becomes real, people will do what Americans have always done when given a genuine chance: They will build, create, innovate, lead…and they will rise.
 OPEN EVERY DOOR.
 LET TALENT RISE.
-Previous Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like Independence from Party Control Thrivability: Beyond Affordability to Economic Possibility Women’s Empowerment & A Fresh Take on Life and Choice A Breakthrough Brief: Thrivability for Small Business Humane Immigration Reform and Border Security STAY UPDATED Let’s Build the Future Together.
+Previous Women’s Empowerment & A Fresh Take on Life and Choice You Might Also Like A Breakthrough Brief: Thrivability for Small Business Statement of Belief: Honor God, Serve People Independence from Party Control Healthcare That Works for People, Not Bureaucracies A New Era in Education STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

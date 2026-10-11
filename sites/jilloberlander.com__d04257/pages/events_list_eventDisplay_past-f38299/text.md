@@ -1,9 +1,6 @@
 About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Events 12 events found.
-Events Views Navigation Event Views Navigation List List #ago 8/2/2026 August 2 – 10/10/2026 Now Select date.
-August 2026 Sun 2 Canvass kick Off in New Canaan August 2 @ 2:00 pm – 5:00 pm We’re holding a special door-knocking kick off in New Canaan on Saturday, August 2 at 2 pm.
-Meet at the New Canaan Library, 151 Main Street.
-Training provided — no experience necessary!
-Sun 23 Door knocking kick off in North Stamford August 23 @ 12:30 pm – 3:30 pm Join Jill for a day of action knocking doors and talking to voters in North Stamford!
+Events Views Navigation Event Views Navigation List List #ago 8/23/2026 August 23 – 10/11/2026 Now Select date.
+August 2026 Sun 23 Door knocking kick off in North Stamford August 23 @ 12:30 pm – 3:30 pm Join Jill for a day of action knocking doors and talking to voters in North Stamford!
 No experience necessary.
 Meet at Northeast Elementary School, 82 Scofieldtown Road in North Stamford at 12:30 pm.
 Wear comfortable shoes.
@@ -49,5 +46,10 @@ This is a virtual event.
 Sign up here.
 Questions?
 Reach out to Jack@JillOberlander.com.
+Sat 10 Door knocking in Greenwich October 10 @ 12:00 pm – 3:00 pm Help Jill reach voters and win CT’s most contested State Senate seat!
+We will meet and pair up to knock doors.
+No experience necessary!
+Meet at Greenwich Dems HQ at 200 Pemberwick Road (in lobby) in Greenwich.
+Contact jack@jilloberlander.com with questions.
 Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
 Approved by Jill Oberlander.

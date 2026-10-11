@@ -1,4 +1,4 @@
-0 Skip to Content MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE UPCOMING EVENTS AND FUNDRAISERS Our campaign events and fundraisers have a simple philosophy: Everyone in, no one out.
+0 Skip to Content MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE UPCOMING EVENTS AND FUNDRAISERS Our campaign events and fundraisers have a simple philosophy: Everyone in, no one out.
 Working people in Western New York deserve elected leadership that will fight for us, not corporations and wealthy donors who can pay for political influence.
 Join us at upcoming, pay-what-you-can fundraisers, or come say hello at community events, and talk to Adam about what matters to you .
 Oct.

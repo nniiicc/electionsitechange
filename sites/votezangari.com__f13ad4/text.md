@@ -1,6 +1,6 @@
 Skip to content Home John on Policy John in the News Contact Us Volunteer Signup Newsletter Signup Donate Donate Countdown to Election Day – DAYS – HOURS – MINUTES – SECONDS CLICK HERE TO DONATE DONATE TO HELP US WIN THIS RAC E We are currently getting door hangers, post cards, and signs out at a rapid pace.
 Donate today to help us get through this last month!
-Meet John Zangari John Zangari is running for Pennsylvania House District 171 because he believes Harrisburg should work for everyday Pennsylvanians – not insiders.
+Click Here Meet John Zangari John Zangari is running for Pennsylvania House District 171 because he believes Harrisburg should work for everyday Pennsylvanians – not insiders.
 Raised in Northampton County in a family that valued service and responsibility, John learned early that hard work and accountability matter.
 John has lived the realities families and small businesses face.
 He worked in his grandparents’ restaurant, earned degrees in criminal justice from Northampton Community College and Kutztown University, and served as a Lehigh County corrections officer – experience that gave him a firsthand understanding of public safety and the reforms needed to strengthen trust and effectiveness.
@@ -28,4 +28,4 @@ Growing our flock A single goose wanders and putters around without much directi
 That’s how we see this campaign: not about one candidate, but about building a flock of neighbors who show up for each other, set clear goals, and stay in the fight long enough to outlast any storm. ​ What Puddles represents Puddles is here to “make a splash” by inviting everyone in Democrat, Republican, independent, and apolitical neighbors who just want their community to work better.
 He represents the belief that when everyday people join together, we can rise higher than we ever imagined and turn a quirky local holiday into a year-round commitment to looking out for one another.
 Contact us – share your concerns, support, questions, anything!
-Contact Form Δ Notify First Name Last Name Email Comment or Message Submit Home John on Policy John in the News Contact Us Volunteer Signup Newsletter Signup Donate Donate +1 (717) 513-2632 [email protected] Paid for by Friends of John Zangari Copyright © # Friends of John Zangari
+Contact Form Δ Contact First Name Last Name Email Comment or Message Submit Home John on Policy John in the News Contact Us Volunteer Signup Newsletter Signup Donate Donate +1 (717) 513-2632 [email protected] Paid for by Friends of John Zangari Copyright © # Friends of John Zangari

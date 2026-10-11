@@ -1,4 +1,4 @@
-Find Your Early Voting Location: https://gregabbott.com/vote Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store DO YOU TAKE ADVICE FROM RADICAL NATIONAL DEMOCRATS?
+Text JOIN to 55233 for alerts from Team Abbott Menu Meet Greg Meet Cecilia Accomplishments Issues News Endorsements Download Abbott Impact Join Greg Today Contribute Contribute Online Contribute via Mail Contribute via Phone Contribute via Bitcoin Abbott Store DO YOU TAKE ADVICE FROM RADICAL NATIONAL DEMOCRATS?
 GINA DOES.
 Oct 3, 2026 AUSTIN – Gina Hinojosa’s long list of far-left progressive mentors includes Gavin Newsom, Kamala Harris, JB Pritzker, Stacey Abrams, Beto O’Rourke, and James Talarico.
 Hinojosa wants to turn Texas into a radical socialist playground that her Democrat idols would be proud of, one where violent criminals roam free without penalty, parents are separated from their child for refusing to accept their kid’s new gender identity, and Texas families and small businesses are taxed to oblivion.

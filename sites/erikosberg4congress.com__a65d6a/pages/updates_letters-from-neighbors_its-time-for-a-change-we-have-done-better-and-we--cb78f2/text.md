@@ -8,5 +8,5 @@ Misguided and heavy-handed attempts to address immigration.
 Punishing personal enemies with frivolous political lawsuits.
 It’s time for a change in Congress.
 We have done better… and we can do better.
-0 Likes 0 Shares 0 0 0 0 Related Articles Letters from Neighbors Who Is Speaking for Us in Washington? – Diane Schiller Anderson, Wadena September 24, 2026 - by Letters From Neighbors Letters from Neighbors Mounting Costs for Rural Landowners | Chris Atkinson, Melrose October 2, 2026 - by Letters From Neighbors Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+0 Likes 0 Shares 0 0 0 0 Related Articles Letters from Neighbors Mounting Costs for Rural Landowners | Chris Atkinson, Melrose October 2, 2026 - by Letters From Neighbors Letters from Neighbors Who Is Speaking for Us in Washington? – Diane Schiller Anderson, Wadena September 24, 2026 - by Letters From Neighbors Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
 Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

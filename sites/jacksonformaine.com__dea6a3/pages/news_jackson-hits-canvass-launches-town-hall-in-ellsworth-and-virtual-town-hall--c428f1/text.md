@@ -23,7 +23,7 @@ For the next stop of his GOTV roadtrip, Troy visited Bangor, speaking with suppo
 Troy hopped on zoom for a virtual town hall with the Washington County Democrats to speak directly with Maine voters on the issues that matter most to them ahead of the election.
 For the final stop, Troy landed in Ellsworth for his second town hall of the day, hearing directly from voters about their priorities to take to the U.S.
 Senate.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

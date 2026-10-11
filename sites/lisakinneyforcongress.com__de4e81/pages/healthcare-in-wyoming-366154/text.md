@@ -11,6 +11,6 @@ The U.S.
 Department of Education has also recently excluded nursing from its internal list of “professional degree” programs which drops the annual federal graduate student loan limit for advanced nursing degrees from $50,000 to $20,500.
 This hurts both students and healthcare facilities even more.
 In Wyoming, 81% of our voters believe the cost of health care is too high.
-I will work with other legislators in a bipartisan manner to find a solution to this problem. ← Lander Brewfest Fireside Chat: Public Lands → More posts WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
+I will work with other legislators in a bipartisan manner to find a solution to this problem. ← Lander Brewfest Fireside Chat: Public Lands → More posts Lisa Earns Another Endorsement Posted on October 10, 2026 WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
 Posted on October 5, 2026 Rep.
-Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 4th Annual Buffalo Bash Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind
+Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

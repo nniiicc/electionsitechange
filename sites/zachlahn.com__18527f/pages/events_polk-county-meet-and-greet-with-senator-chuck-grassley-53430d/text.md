@@ -6,6 +6,6 @@ RSVP to receive location details.
 Bring your questions, bring a neighbor, and join the conversation.
 Governor Candidate for Iowa Zach Lahn Zach Lahn, a sixth-generation Iowan and Republican candidate for governor in 2026.
 Zach is a farmer, businessman, and father of seven with his wife Annie.
-Learn More About Zach Next Upcoming Event: Linn County Linn County Meet and Greet Join Zach Lahn and special guest Joe Mitchell on Saturday, October 10th, for a meet & greet in Linn County.
-Hear directly… Event Details Saturday, October 10 from 9:30 AM - 10:30 AM “This is home.
+Learn More About Zach Next Upcoming Event: Black Hawk County Black Hawk County Meet and Greet with Senator Chuck Grassley Join Zach Lahn and U.S.
+Senator Chuck Grassley on Tuesday, October 13, from 12:00 PM to 1:00 PM for a Meet and… Event Details Tuesday, October 13 from 12:00 PM - 1:00 PM “This is home.
 And it’s worth fighting for.” Donate to Zach's campaign Main Pages Home About Contact Events Merchandise Press Releases Support Zach Get Merchandise Make a Donation Pledge to Vote for Zach © Copyright # Lahn for Governor Privacy Policy Terms & Conditions PAID FOR BY LAHN FOR GOVERNOR

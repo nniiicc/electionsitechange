@@ -19,17 +19,14 @@ CONNECT WITH US Stay updated on campaign news and events.
 Follow us on social media and sign up for our newsletter.
 ISSUE REPORT Share your concerns and priorities with us.
 Your voice matters in making Colorado a better place.
-Upcoming Events Sat, Oct 10 Greeley Canvass / Location in Confirmation email!
-RSVP Oct 10, 2026, 11:30 AM – 1:30 PM Location in Confirmation email!
-Let's get voters in West Greeley talking about Mo!
-Election Day is less than a month away and we need Greeley to win!
-Location details are by RSVP.
-Remember to wear walking shoes, sun protection and bring some water.
-Sun, Oct 11 Mead Canvassing / Mead Town Park RSVP Oct 11, 2026, 11:00 AM – 1:00 PM Mead Town Park, 441 3rd St, Mead, CO 80542, USA Let's show up for Mo in Mead!
-With less than one month till Election Day we need all hands on deck to flip this District in favor of the people.
-Wed, Oct 14 End of Berthoud Canvassing Social! / City Star Brewing RSVP Oct 14, 2026, 6:00 PM – 7:00 PM City Star Brewing, 321 Mountain Ave, Berthoud, CO 80513, USA We did it, we finished our Berthoud Canvassing goals with your help!
+Upcoming Events Wed, Oct 14 End of Berthoud Canvassing Social! / City Star Brewing RSVP Oct 14, 2026, 6:00 PM – 7:00 PM City Star Brewing, 321 Mountain Ave, Berthoud, CO 80513, USA We did it, we finished our Berthoud Canvassing goals with your help!
 Now, let's have a Social to Celebrate.
 Bonus- Joann Ginal for Larimer Treasurer will be there to meet and greet with us!
-Load More HOUSE DISTRICT 64 MAP ARE YOU IN DISTRICT 64?
+Thu, Oct 15 Johnstown Canvass / Location is TBD, RSVP to stay in the loop!
+RSVP Oct 15, 2026, 4:30 PM – 6:00 PM Location is TBD, RSVP to stay in the loop!
+With Election Day only a few weeks away, we need your help to activate voters for Mo in Johnstown!
+Location is TBD, so make sure to RSVP to stay in touch.
+Remember to wear comfortable shoes, sun protection and bring some water.
+HOUSE DISTRICT 64 MAP ARE YOU IN DISTRICT 64?
 Mead Berthoud ​Johnstown West Greeley Miliken HOME MEET MO DOWER ENDORSEMENTS PLATFORM GET INVOLVED DONATION EVENTS ​ACCESSIBILITY STATEMENT More Use tab to navigate through the menu items.
 JOIN THE CONVERSATION: Terms & Conditions Privacy Policy Accessibility Statement © # MO4COLORADO Paid for by Mo4Colorado Linnea Reckase Registered Agent bottom of page

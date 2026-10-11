@@ -4,10 +4,6 @@
 "href": "https://www.jillianengland.com/vote"
 },
 {
-"text": "06f52f6-dirty",
-"href": "https://www.jillianengland.com/version"
-},
-{
 "text": "About",
 "href": "https://www.jillianengland.com/about"
 },
@@ -28,12 +24,12 @@
 "href": "https://www.jillianengland.com/donate"
 },
 {
-"text": "Download standalone bundle for Unix - Apple (tar.gz) ↓",
-"href": "https://jillianengland.com/models/compounding-crisis/dist/seattle-overdose-model-standalone.tar.gz"
+"text": "Download standalone bundle (tar.gz — macOS, Linux) ↓",
+"href": "https://jillianengland.com/models/compounding-crisis/dist/washington-overdose-model-standalone.tar.gz"
 },
 {
-"text": "Download standalone bundle for Windows (zip) ↓",
-"href": "https://jillianengland.com/models/compounding-crisis/dist/seattle-overdose-model-standalone.zip"
+"text": "Download standalone bundle (zip — Windows, macOS, Linux, ChromeOS) ↓",
+"href": "https://jillianengland.com/models/compounding-crisis/dist/washington-overdose-model-standalone.zip"
 },
 {
 "text": "Endorsements",
@@ -61,7 +57,7 @@
 },
 {
 "text": "Open the full interactive model in a new tab →",
-"href": "https://www.jillianengland.com/models/compounding-crisis/seattle_overdose_model.html"
+"href": "https://www.jillianengland.com/models/compounding-crisis/washington_overdose_model.html"
 },
 {
 "text": "Privacy Policy",
@@ -78,5 +74,9 @@
 {
 "text": "Vote",
 "href": "https://www.jillianengland.com/vote"
+},
+{
+"text": "d91a1db-dirty",
+"href": "https://www.jillianengland.com/version"
 }
 ]

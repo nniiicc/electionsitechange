@@ -1,6 +1,6 @@
 top of page We're in the final stretch!
 If you would like to host a yard sign, please click on "Get Involved" - thank you!
-James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers TELL JAMES Young Voter Survey Policy / Electricity POSITION Electricity Costs and Utility Accountability The legislature writes the rules the utility regulator plays by.
+James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil TELL JAMES Young Voter Survey Policy / Electricity POSITION Electricity Costs and Utility Accountability The legislature writes the rules the utility regulator plays by.
 That is where the leverage is.
 Download the one-pager (PDF) In one Minute Connecticut ratepayers pay among the highest electric rates in the country, and for households on fixed incomes the bill has become genuinely hard.
 A state representative does not set rates.

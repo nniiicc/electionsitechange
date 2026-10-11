@@ -2,7 +2,7 @@ Skip to content Check the facts Seth’s playing dirty.
 He thinks you’re too dumb to check.
 Prove him wrong.
 What his campaign and his super PACs said, side by side with what’s true.
-What Seth says His super PAC’s mailers The TV ads More videos on our YouTube channel → What Seth is saying about her Seth Bodnar himself: his own campaign videos, his own ad, his own interviews.
+What Seth says His super PAC’s mailers The TV ads Every rumor, answered More videos on our YouTube channel → What Seth is saying about her Seth Bodnar himself: his own campaign videos, his own ad, his own interviews.
 They said “Alani Bankhead belonged to a pro-MAGA mega church that promotes anti-choice and anti-LGBTQ+ views.” Bodnar campaign video, Sept.
 22, 2026 False The truth She stopped going before Trump was ever president.
 As a teenager She started going there.
@@ -120,16 +120,20 @@ Independent PAC mailer Absurd The truth Her record is on camera.
 Wade.
 The National Organization for Women’s PAC endorsed her.
 One group’s endorsement of Seth doesn’t erase her record.
+And the reproductive-freedom questionnaire she did fill out is public: Montanans for Choice Take Action’s 2026 voter guide publishes her answers in full, a yes on all 13 of its positions.
+Kurt Alme didn’t respond.
 See the receipts Planned Parenthood Action Fund had already decided to back Seth before it ever talked to us.
 Alexandra Acker-Lyons, a member of the Action Fund’s board, called three times in the week before the August 10 withdrawal deadline.
 She wasn’t calling about a questionnaire.
 She was calling to get Alani out of the race.
 No survey was ever sent.
 When one of Seth’s supporters asked Alani at a forum about the paperwork behind an endorsement process her staff would have handled, she said she’d answered the questionnaire.
+The ones she had answered were Montanans for Choice Take Action’s, which endorses no federal candidates but publishes every answer it receives, and NOW PAC’s, which endorsed her.
 We apologize for the mix-up.
-Had the Action Fund ever sent her one, she would have.
+Had the Action Fund ever sent her one, she would have answered it too.
 Sources: NonStop Local interview, June 23, 2026 ; NonStop Local, Oct.
-2, 2026 ; Acker-Lyons’s own bio lists her Action Fund board seat .
+2, 2026 ; Acker-Lyons’s own bio lists her Action Fund board seat ; Montanans for Choice Take Action, 2026 Voter Guide (U.S.
+Senate questionnaire and at-a-glance comparison).
 They said “Alani Bankhead’s refusal to fill out and submit the Planned Parenthood Action Fund survey… is disqualifying .” Quote: NonStop Local, Sept.
 25.
 Mailer: Independent PAC.

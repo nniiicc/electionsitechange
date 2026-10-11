@@ -97,6 +97,6 @@ It is important to note that with sufficient scale, hemp-based wood-alternative 
 Considerable investment in bootstrapping the hemp supply chain is necessary to achieve this.
 Con: Industrial hemp grows 15 to 20 feet tall, which means it can’t be planted where that may cause a hazard, such as close to the edge of roads.
 However, the shade this provides on the grounds prevents weeds from growing, reducing the need for artificial means of weed removal and suppression.
-Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Connect with me Bluesky: https://bsky.app/profile/electandy.bsky.social Facebook: https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/ YouTube: https://www.youtube.com/@AndyZahn Substack: https://substack.com/@andyzahn1 Contact Email: Andy420th@proton.me Mailing Address: Andy Zahn P.O.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Connect with me Bluesky: https://bsky.app/profile/electandy.bsky.social Facebook: https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/ YouTube: https://www.youtube.com/@AndyZahn Substack: https://substack.com/@andyzahn1 Contact Email: Andy420th@proton.me Mailing Address: Andy Zahn P.O.
 Box 26 Toutle, WA, 98649 Discover more from Andy Zahn Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading %d

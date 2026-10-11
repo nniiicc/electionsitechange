@@ -1,5 +1,5 @@
 Connect with us P Become a Volunteer Support Priorities Endorsements Request Yard Sign Contact Donate Jess Goldoni for Nebraska Legislature · District 18 Protect the Good Life & Build a Better Future.
-Donate Today Our Priorities Jess Is Ready to Lead on AI & Data Centers → Join the Campaign Stand with Jess.
+Donate Today Our Priorities Join the Campaign Stand with Jess.
 Sign up for updates.
 Name Zip Code Email * Join the Campaign DONATE TODAY Let's Get to Work.
 Jess Goldoni believes real change doesn't come from politics as usual.
@@ -26,13 +26,14 @@ No blank checks.
 Grow Nebraska Innovation.
 Small business.
 Lower costs.
-Responsible innovation for Nebraska AI Is Moving Faster Than Government.
-Jess Is Ready to Lead.
-Artificial intelligence is already changing how we work, learn and do business.
-Data centers are placing new demands on our power grid, water supply and local infrastructure.
-It is already here, and Nebraska is running out of time to set the rules.
-Jess Goldoni is the only candidate in this race with the firsthand AI experience necessary to lead on this issue.
-She understands the technology, the opportunities it creates and the risks Nebraska must address.
+Responsible innovation for Nebraska AI IS MOVING FASTER THAN GOVERNMENT.
+JESS IS READY TO LEAD.
+Big Tech is moving faster than our laws, our government and our ability to see what is happening.
+I work in AI.
+That experience has made me more cautious, not less.
+I do not trust Big Tech to regulate itself.
+And I do not trust government to regulate technology it does not understand.
+Nebraska needs leaders who understand this technology well enough to ask the right questions, demand the numbers and say no when the deal is wrong.
 Read Jess’s AI & Data Center Plan Watch: AI + Data Centers Jess explains what the rapid growth of AI and data centers could mean for Nebraska and why state leaders must act now.
 Nebraska needs someone in Lincoln who understands this technology well enough to regulate it.
 Jess is that candidate.

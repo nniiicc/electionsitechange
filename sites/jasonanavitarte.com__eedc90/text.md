@@ -22,19 +22,18 @@ I will work with each county to advocate for new businesses to come to our area.
 As I stated in the education section, we must have a workforce available to encourage new businesses to come and that starts with offering educational classes that will train our students in the skills needed for future jobs.
 Having broadband that is accessible to all of the district is essential to economic development.
 2023 Legislative Updates Week 1 Legislative Update Week 2 Legislative Update Week 3 Legislative Update Week 4 Legislative Update Week 6 Legislative Update Week 7 Legislative Update Week 8 Legislative Update Week 9 Legislative Update Follow me on Twitter Jason R.
-Anavitarte Follow 17,423 2,338 Husband.
+Anavitarte Follow 17,440 2,337 Husband.
 Father. 🏀 Coach.
 Senator GA’s 31st District.
 Proud 🇺🇸 Hispanic 🇵🇷 Majority Leader @GASenateGOP.
 Go Jackets! 🐝 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; Dr.
-Ryan Dyer @NorthAD_Dyer · 18h 2108631733625078053 Twitter feed image.
-Reply on Twitter 2108631733625078053 Retweet on Twitter 2108631733625078053 1 Like on Twitter 2108631733625078053 2 Twitter 2108631733625078053 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; Rick Jackson @RickJacksonGA · 21h 2108583378031403216 .@BrianKempGA has cut taxes, raised teacher and law enforcement pay, and kept our state safe.
-I’ll build on his legacy as governor.
-THANK YOU, Governor Kemp!
+Anavitarte Retweeted ; Cody Alcorn @CodyAlcorn · 12h 2109094585733648843 Fire at the Reynolds Landing clubhouse at Lake Oconee in Greensboro, Georgia.
+Locals telling me it may have started at an outdoor fireplace involving propane.
+Clubhouse appears to be a total loss.
 Twitter feed video.
-Reply on Twitter 2108583378031403216 Retweet on Twitter 2108583378031403216 66 Like on Twitter 2108583378031403216 284 Twitter 2108583378031403216 Retweet on Twitter Jason R.
-Anavitarte Retweeted ; ESPN @espn · 22h 2108577330528395736 Mike Ditka, whose legendary career as a player and Super Bowl-winning coach landed him in the Hall of Fame, has died at the age of 86, his family announced.
-Twitter feed image.
-Reply on Twitter 2108577330528395736 Retweet on Twitter 2108577330528395736 3691 Like on Twitter 2108577330528395736 18956 Twitter 2108577330528395736 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE
+Reply on Twitter 2109094585733648843 Retweet on Twitter 2109094585733648843 51 Like on Twitter 2109094585733648843 458 Twitter 2109094585733648843 Retweet on Twitter Jason R.
+Anavitarte Retweeted ; Kelly Quinlan @Kelly_Quinlan · 13h 2109076710750814336 Cool pic from my photographer Blake Morgan of Trelain Maddox’s long TD run. @Trelain2raw Twitter feed image.
+Reply on Twitter 2109076710750814336 Retweet on Twitter 2109076710750814336 7 Like on Twitter 2109076710750814336 175 Twitter 2109076710750814336 ; Jason R.
+Anavitarte @jasonanavitarte · 12h 2109092672044683478 Team leader with 7 tackles. 💪 🐝 Jason R.
+Anavitarte @jasonanavitarte Let’s go @taeharris27 @GeorgiaTechFB !!
+Reply on Twitter 2109092672044683478 Retweet on Twitter 2109092672044683478 0 Like on Twitter 2109092672044683478 4 Twitter 2109092672044683478 Load More PAID FOR BY THE COMMITTEE TO ELECT JASON ANAVITARTE

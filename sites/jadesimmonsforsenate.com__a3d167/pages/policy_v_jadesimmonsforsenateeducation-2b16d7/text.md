@@ -66,7 +66,7 @@ A New Standard for Education Opportunity should not be limited by background, zi
 A strong education system should help the struggling student gain traction, the overlooked student regain confidence, and the exceptional student reach extraordinary heights.
 As your Senator, I will fight for an education system that works for every student, every worker, and every family by building the coalitions and helping pass the laws needed to make that vision real.
 This is how we restore education: not by lowering expectations or managing decline, but by unlocking potential, restoring possibility, and building a culture of excellence for all.
-Previous A Breakthrough Brief: Thrivability for Small Business Next Independence from Party Control You Might Also Like Healthcare That Works for People, Not Bureaucracies Humane Immigration Reform and Border Security A Breakthrough Brief: Thrivability for Small Business Thrivability: Beyond Affordability to Economic Possibility Women’s Empowerment & A Fresh Take on Life and Choice STAY UPDATED Let’s Build the Future Together.
+Previous A Breakthrough Brief: Thrivability for Small Business Next Independence from Party Control You Might Also Like Women’s Empowerment & A Fresh Take on Life and Choice Independence from Party Control Humane Immigration Reform and Border Security The Thurgood Marshall Plan Statement of Belief: Honor God, Serve People STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

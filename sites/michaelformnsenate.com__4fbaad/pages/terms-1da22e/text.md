@@ -1,4 +1,4 @@
-top of page About Issues Endorsements Contribute Contact Media DONATE Terms & Conditions ​ Last Updated: July 1, 2026 Mobile Messaging Terms &; Conditions PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
+top of page About Priorities Endorsements Contribute Contact Media DONATE Terms & Conditions ​ Last Updated: July 1, 2026 Mobile Messaging Terms &; Conditions PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
 BY ACCESSING OR USING THIS WEB SITE, MOBILE APPLICATION OR OTHER SOCIAL MEDIA APPLICATION, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS WEB SITE, MOBILE APPLICATION OR OTHER SOCIAL MEDIA APPLICATION.
 This website, mobile application or other social media application is operated by Michael Kreun for MN Senate (“Campaign”).

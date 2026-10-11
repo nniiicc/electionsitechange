@@ -49,10 +49,6 @@
 },
 {
 "text": "(map)",
-"href": "http://maps.google.com?q=601+north+monroe+street+waterville%2C+washington%2C+98858+united+states"
-},
-{
-"text": "(map)",
 "href": "http://maps.google.com?q=660+columbia+point+drive+richland%2C+washington%2C+99352+united+states"
 },
 {
@@ -329,10 +325,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Central+Washington+Fair&dates=20260829T210000Z%2F20260830T000000Z&location=601+North+Monroe+Street%2C+Waterville%2C+Washington%2C+98858%2C+United+States"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Okanogan+County+Fair&dates=20260912T210000Z%2F20260913T000000Z&location=175+Rodeo+Trail+Road%2C+Okanogan%2C+Washington%2C+98840%2C+United+States"
 },
 {
@@ -501,10 +493,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.johnduresky4congress.com/events/ncw-fair-waterville?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.johnduresky4congress.com/events/okanogan-county-fair?format=ical"
 },
 {
@@ -598,10 +586,6 @@
 {
 "text": "News",
 "href": "https://www.johnduresky4congress.com/news"
-},
-{
-"text": "North Central Washington Fair",
-"href": "https://www.johnduresky4congress.com/events/ncw-fair-waterville"
 },
 {
 "text": "Northwest Public Broadcasting's",
@@ -766,10 +750,6 @@
 {
 "text": "View Event →",
 "href": "https://www.johnduresky4congress.com/events/meet-the-candidate-john-duresky-at-moonshot-brewing-tuesday-sept-22"
-},
-{
-"text": "View Event →",
-"href": "https://www.johnduresky4congress.com/events/ncw-fair-waterville"
 },
 {
 "text": "View Event →",
@@ -978,10 +958,6 @@
 {
 "text": "[image: Meet the Candidate: Moonshot Brewing]",
 "href": "https://www.johnduresky4congress.com/events/meet-the-candidate-john-duresky-at-moonshot-brewing-tuesday-sept-22"
-},
-{
-"text": "[image: North Central Washington Fair]",
-"href": "https://www.johnduresky4congress.com/events/ncw-fair-waterville"
 },
 {
 "text": "[image: Okanogan County Fair]",

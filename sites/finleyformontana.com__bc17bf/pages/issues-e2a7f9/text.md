@@ -20,9 +20,8 @@ My priority is to protect Montana families, preserve our values, and ensure that
 Public Safety We deserve to feel safe in our homes, schools, and community.
 I stand firmly with law enforcement and will fight to give them the resources, support, and respect they need to do their jobs effectively.
 I will crack down on drug and human trafficking, which have torn apart too many Montana families and communities.
-Montana Values Lake County residents have consistently supported Republican leadership in Helena.
-Too often, Democrats have run as Republicans undermining the will of the voters.
-Our Supreme Court has also repeatedly blocked legislation that Montanans overwhelmingly support.
-In the Legislature, I will fight for judicial reform to ensure a judiciary that is accountable to Montana, upholds the law, and resists partisan agendas.
-I will defend the integrity of the Republican Party and make certain our candidates stay true to the conservative platform they pledge to represent.
+Montana Values Montana was built on the values of hard work, faith, family and freedom.
+These principles have guided generations of Montanans and remain the foundation of our community and way of life.
+I believe in the importance of protecting our constitutional freedoms, respecting the rule of law, and ensuring government remains responsible to the people it serves.
+These are the values that guide my conservative principles and my commitment to public service.
 Contact Cell: (406) 880-1593 Email: finley@finleyformontana.com Info About Issues Contact Donate Social Media Facebook Instagram Finley Warden for HD 13 Paid for by Finley Warden for HD 13 PO Box 783 Polson, MT 59860 - Republican Privacy Policy

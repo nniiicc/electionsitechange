@@ -9,7 +9,8 @@ Reply STOP to opt out, HELP for help.
 View our Privacy Policy .
 How would you like to help? 🚪 Door Knocking 📞 Phone Banking 🪧 Host a Yard Sign 📅 Help at Events 💻 Data Entry 📱 Social Media Availability Select your availability...
 Weekday Mornings Weekday Afternoons Weekday Evenings Weekends Flexible Schedule Anything else you'd like us to know?
-Sign Up to Volunteer Or Email Directly Why Volunteer? 🗳️ Make your voice heard in local government 🤝 Connect with like-minded neighbors 📢 Help spread the message of accountability 💪 Be part of real change in Minnesota Questions?
+Sign Up to Volunteer Or Email Directly This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Why Volunteer? 🗳️ Make your voice heard in local government 🤝 Connect with like-minded neighbors 📢 Help spread the message of accountability 💪 Be part of real change in Minnesota Questions?
 Reach out to us directly: 📞 651-447-7100 ✉️ heidi@heidiheino.com Prefer just a yard sign?
 Request delivery with your full address — no other volunteer commitment required.
 Request a Sign Can't Volunteer?

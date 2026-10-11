@@ -1,9 +1,10 @@
 {
  "description": "Christopher Dean Campaign Events",
  "final_url": "https://www.christopherdeanforwisconsin.com/Events?range=2026-W42",
- "fingerprint": "a26196b256317e1602ef7e9f30c8c5cea26fe7c3",
+ "fingerprint": "be4347c4d8ed880a99196b7d055ed3c52fcdea9b",
  "format": 3,
  "paid_for_by": "Paid for by Christopher Dean For Wisconsin Powered by CampaignPartner",
+ "rendered": false,
  "title": "Christopher Dean Campaign Events",
  "years_mentioned": [
   "2026"

@@ -1,0 +1,24 @@
+Skip Link Text Menu Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App yes Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Phone (337) 279-8329 Email prisforcongress@gmail.com Candidate for U.S.
+Congress | Louisiana’s 3rd Congressional District October 9,… October 10, 2026 0 Comments Candidate for U.S.
+Congress | Louisiana’s 3rd Congressional District October 9, 2026 The Honorable Clay Higgins U.S.
+Representative, Louisiana’s 3rd Congressional District Dear Congressman Higgins: I respectfully invite you to participate in a public debate before the November 3, 2026, congressional election.
+Voters deserve a direct opportunity to hear from the candidates, compare our records and priorities, and make an informed decision about who will represent Louisiana’s Third Congressional District.
+To facilitate your participation, you may select the date, time, location, and moderator, subject to mutual confirmation and completion of arrangements before Election Day.
+Our campaign will work in good faith to ensure a fair, orderly, and substantive event.
+Please provide a written response within seven days of receiving this invitation so the necessary arrangements can be finalized.
+I look forward to a respectful discussion of the issues affecting our district and its future.
+Respectfully, Priscilla Gonzalez Congressional Campaign Louisiana’s 3rd Congressional District (337) 704-8149 www.prisforcongress.com Source Share: facebook.com linkedin.com twitter.com Categories: facebook Related Posts Don’t ever forget that he works for us, our taxpayer dollars pay his bills.
+Don’… Don’t ever forget that he works for us, our taxpayer dollars pay his bills.
+Don’t On April 18, 2024, Higgins announced The Safeguarding American Workers Benefit A… On April 18, 2024, Higgins announced The Safeguarding American Workers Benefit Act.
+On his website Post navigation Previous Previous post: Candidate for U.S.
+Congress | Louisiana’s 3rd Congressional District October 9,… Next Next post: On April 18, 2024, Higgins announced The Safeguarding American Workers Benefit A… Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Martin Parish St.
+Mary Parish Terrebonne Parish Vermilion Parish Subscribe To Our Newsletter Stay up to date with the latest news from Priscilla Gonzalez's campaign Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Martin Parish St.
+Mary Parish Terrebonne Parish Vermilion Parish Donate ActBlue Threads PayPal Venmo Cash App Social Ballotpedia Discord Reddit Facebook X Priscilla Gonzalez for Louisiana State Representative, 3rd District Design & Developed by Buy WordPress Templates

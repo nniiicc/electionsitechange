@@ -28,4 +28,4 @@ When we perceive that our government does not see us, or value us, or overtly pa
 We must make Iowa once again a place that dignifies and honors each person’s unique character and qualities. ​ Iowa is for EVERYONE Samy El-Baroudi for Iowa Senate.
 701 Hickman Rd.
 Des Moines, IA 50314 ​ Email justsamyelbaroudi@gmail.com Follow Samy Website Paid for by Samy for Iowa Get in Touch First Name Last Name Email Subject Leave us a message...
-I would like to: Submit an Endorsement Volunteer Get a Yard Sign (delivered in August) Replace a Yard Sign (Lost/Broken) Submit If requesting a sign, please include your address. ​ Thanks for submitting! bottom of page
+I would like to: Submit an Endorsement Volunteer Get a Yard Sign Replace a Yard Sign (Lost/Broken) Submit If requesting a sign, please include your address. ​ Thanks for submitting! bottom of page

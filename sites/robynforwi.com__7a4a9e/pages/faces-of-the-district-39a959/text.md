@@ -54,4 +54,4 @@ She witnessed Robyn listen to student voices and encourage them to keep moving f
 She also witnessed student reactions when Representative Vining showed up to Wauwatosa West High School’s walk out to protest gun violence.
 The students saw her presence and understood their voices matter to Robyn. read more Carie With each person I met, each new culture I learned about and every new community I was immersed in, I couldn’t ignore the many stories of people’s lives that were not given the same, equal opportunity that I was afforded.
 Just because something worked for me in this country does not mean it works for everyone.
-I do my best to listen to all voices, especially those that are often silenced or ignored. read more « Older Entries  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram Paid for by Friends of Robyn Vining Privacy Policy
+I do my best to listen to all voices, especially those that are often silenced or ignored. read more « Older Entries  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

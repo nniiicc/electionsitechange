@@ -8,7 +8,7 @@ If, for example, the Republicans got 50% of the House vote in a state with eight
 Party lists can be determined in primaries, or by a party organization according to its rules.
 This allows small parties and independents with dispersed support to win representation in accordance with voter preferences, eliminating the duopoly.
 It would force legislation to reflect consensus among a broad range of ideas in the Capitol, representative of the sweep of Americans’ views, instead of the status quo of one specific vision using slim pluralities in a slim majority of districts to roll over all opposition and produce wild swings in policy.
-The Senate filibuster is a kludge for this; my proposal is a real fix.
+(If the people prefer to retain single-member districts so everyone has a specific representative, that is compatible with this system: I would gladly accept mixed-member proportional .) The Senate filibuster is a kludge for this; my proposal is a real fix.
 Recent polling shows majority support for this system once people understand what it is.
 This would work best if tied to expanding the House .
 That the House has 435 Representatives was set by statute more than a century ago, and has not been adjusted to population increase.

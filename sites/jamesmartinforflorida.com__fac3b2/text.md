@@ -46,7 +46,7 @@ Brian Mast Read more Oct 6 2026 PRESS RELEASE James Martin Launches Town Hall Se
 We need volunteers to help us with this election — we appreciate anything you can do to help!
 Fill out this form with the ways you'd like to help, and someone from our team will be in touch.
 First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Please select all options that apply!
-Host an event Call and text voters Knock on doors Donate to the campaign Post on social media Other Other Submit If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+Host an event Call and text voters Knock on doors Donate to the campaign Post on social media Other Other Submit Media If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
 Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
 Commander in the United States Coast Guard Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

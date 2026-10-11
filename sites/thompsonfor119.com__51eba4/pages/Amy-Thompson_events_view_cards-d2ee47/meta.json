@@ -1,9 +1,10 @@
 {
  "description": "See Amy’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Amy-Thompson/events?view=cards",
- "fingerprint": "d436bacf20f16d382f4ba0d9dde726dc2f385f38",
+ "fingerprint": "f0b4acc606451147c9b8e5dadde56fc01f2e8e98",
  "format": 3,
  "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "rendered": false,
  "title": "Upcoming Amy Thompson Events",
  "years_mentioned": []
 }

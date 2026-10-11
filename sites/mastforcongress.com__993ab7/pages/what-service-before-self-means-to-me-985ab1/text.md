@@ -17,9 +17,7 @@ I was given another chance at life sixteen years ago.
 I intend to use every day of it fighting for the country I love and the community I am honored to serve.
 Help us finish the mission.
 Stand with me today and donate to defend Florida’s future.
-Related Posts: Freedom is Earned: Honoring Those Who Answer the Call May 4, 2026 Seven Days.
-One Mission.
-August 9, 2026 Looking Ahead January 22, 2021 One Week To Register July 14, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: Pelosi Docked My Pay August 17, 2021 Exposed: Biden’s Shadow Diplomats February 25, 2021 Looking Ahead January 22, 2021 Twenty Days To Win The Primary July 27, 2026 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

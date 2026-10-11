@@ -38,5 +38,4 @@ June 16 also marks 10 months since we kicked off this campaign.
 We’ve been organizing since August and have visited voters in 11 counties, from Oklahoma City to Norman to Chickasha, Lawton, Pauls Valley, Ada, Sulphur, Ardmore, and Marietta.
 It has been a wonderful experience meeting and listening to Oklahomans across Congressional District Four.
 Read More Newer Posts Older Posts Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
-Box 1141 Newcastle, OK.
-73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy
+Box 1141 Newcastle, OK 73065-1141 (405) 407-6975 info@mitchelljacob.com Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

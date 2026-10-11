@@ -1,9 +1,10 @@
 {
  "description": "Cal Forrest Campaign Events",
  "final_url": "https://forrestforhouse.com/Events?range=2026-11",
- "fingerprint": "d5825cbb9412b38218292cac4ef834811e222a5a",
+ "fingerprint": "63137ed8d9a8d1ee9070662be4936490a22cc7d4",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Events",
  "years_mentioned": [
   "2025",

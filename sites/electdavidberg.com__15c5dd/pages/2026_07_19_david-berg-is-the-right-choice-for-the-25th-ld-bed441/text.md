@@ -15,7 +15,7 @@ He believes in community conversations.
 It’s why he’s been endorsed by a broad coalition of organizations representing educators, machinists, healthcare workers and labor.
 We won’t always agree, but we have to be able to have honest conversations to move our community forward.
 David is ready to get to work in Olympia and build the future the 25th LD deserves.
-Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: Consensus , David Berg , Election , Experience , Puyallup School Board , Puyallup School District , School Director , Vote ← The Hidden Costs of AI Leave a Reply Cancel reply Translate Countdown to the General Ballots are Due - Use a Drop Box!
+Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: Consensus , David Berg , Election , Experience , Puyallup School Board , Puyallup School District , School Director , Vote ← The Hidden Costs of AI Leave a Reply Cancel reply Comment Name Email Website Δ Translate Countdown to the General Ballots are Due - Use a Drop Box!
 November 3, 2026 # days to go.
 Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Discover more from Elect David Berg Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...

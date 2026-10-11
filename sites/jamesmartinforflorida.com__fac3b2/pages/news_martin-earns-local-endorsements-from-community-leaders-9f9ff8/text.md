@@ -9,7 +9,7 @@ Together, these former City of Palm Beach Gardens mayors represent a community i
 As the great nephew of former Palm Beach Gardens Mayor Bob Diamond, these endorsements carry deep personal meaning for me and my family.
 With these leaders joining our coalition, I know we can deliver a better future for every family in Florida’s 21st Congressional District.” Joint Statement: “James Martin understands what Floridians are facing as a fourth-generation Floridian, a father raising his child here, and a Coast Guard veteran who has served this country.
 James will fight to lower the cost of living, fix the Treasure Coast’s clean water crisis, and strengthen the economy for everyone—and he has the policymaking experience at the Federal level to deliver.
-We trust James to be a strong partner and advocate, and we look forward to working with him to tackle some of Florida’s most pressing issues.” ### If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
+We trust James to be a strong partner and advocate, and we look forward to working with him to tackle some of Florida’s most pressing issues.” ### Media If you'd like to send a check, please make payable to: Martin For Florida and mail to: P.O.
 Box 55 Hobe Sound, FL 33475 James Martin is a Lt.
 Commander in the United States Coast Guard Reserve.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the United States Coast Guard or the Department of Defense. campaign@jamesmartinforflorida.com Paid for by Martin For Florida You need to enable JavaScript to run this app.

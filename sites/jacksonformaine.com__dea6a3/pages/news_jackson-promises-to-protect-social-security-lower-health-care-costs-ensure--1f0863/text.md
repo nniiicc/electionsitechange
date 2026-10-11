@@ -34,7 +34,7 @@ He shared his plans in an interview today, specifying how, if elected, he would 
 Troy Jackson: I think this is about prioritizing where we spend our money.
 The federal government has all kinds of money to do whatever it wants, like I said with forever wars or tax cuts for wealthy people, but as soon as you start talking about healthcare for people, they act like it's impossible to do.
 It's not impossible to do, it's impossible to get filthy rich off the system in a health care for all system.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

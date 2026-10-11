@@ -1,6 +1,6 @@
 top of page We're in the final stretch!
 If you would like to host a yard sign, please click on "Get Involved" - thank you!
-James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers TELL JAMES Young Voter Survey Policy / Fueling Economic Opportunity PLATFORM | PILLAR FOUR Bradley and Economic Opportunity Bradley is not next to our district.
+James Mol Home ABOUT PRIORITIES POLICY POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil POLICY Education Farming Road Safety & Mobility Fueling Economic Opportunity Property Taxes Electricity Costs AI & Data Centers Heating Oil TELL JAMES Young Voter Survey Policy / Fueling Economic Opportunity PLATFORM | PILLAR FOUR Bradley and Economic Opportunity Bradley is not next to our district.
 It is in it.
 What I Will Do Download the one-pager (PDF) In one Minute Bradley occupies roughly 2,432 acres across Windsor Locks, East Granby and Suffield (and a tiny piece of Windsor), and Windsor Locks gives up close to a third of its land to it.
 In return the Connecticut Airport Authority pays a fixed sum: $3,319,686 to Windsor Locks, $693,909 to Suffield, $657,991 to East Granby.

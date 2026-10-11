@@ -12,5 +12,5 @@ You will still get to vote.
 On election day, you can only vote in ONE assigned voting center.
 Click to Find Your Election Day Voting Center Sample Ballot 3 Know who is on your ballot ahead of time!
 Click to Download a Sample Ballot Need More Information?
-4 Contact your County Elections Office or Visit SCvotes.gov Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+4 Contact your County Elections Office or Visit SCvotes.gov Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

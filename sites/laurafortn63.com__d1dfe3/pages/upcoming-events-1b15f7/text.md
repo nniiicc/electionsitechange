@@ -2,14 +2,14 @@
 Interested in hosting a fundraiser or meet-and-greet?
 Want to invite Laura to a community event?
 Email team@laur afortn63.com today to get it scheduled!
-Upcoming Events Oct 10 Community Canvass in Brentwood Saturday, October 10, 2026 1:00 PM 3:00 PM Google Calendar ICS The best way to talk to voters is face to face!
-With less than # days until the election, we’re pulling double duty!
+Upcoming Events Oct 11 Community Canvass in Nolensville Sunday, October 11, 2026 2:00 PM 4:00 PM Google Calendar ICS The best way to talk to voters is face to face!
+With less than # days until the eleciton, we’re pulling double duty!
 Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
 No experience necessary.
 All you need is a fully charged phone, comfy shoes, hat and water bottle!
 Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
-Sign up to join us here View Event → Oct 11 Community Canvass in Nolensville Sunday, October 11, 2026 2:00 PM 4:00 PM Google Calendar ICS The best way to talk to voters is face to face!
-With less than # days until the eleciton, we’re pulling double duty!
+Sign up to join us here View Event → Oct 10 Community Canvass in Brentwood Saturday, October 10, 2026 1:00 PM 3:00 PM Google Calendar ICS The best way to talk to voters is face to face!
+With less than # days until the election, we’re pulling double duty!
 Every door knocked for Laura in district 63 will also be helping Jerri Green in her race for governor!
 No experience necessary.
 All you need is a fully charged phone, comfy shoes, hat and water bottle!
@@ -173,6 +173,4 @@ Every door knocked for Laura in district 63 will also be helping Jerri Green in 
 No experience necessary.
 All you need is a fully charged phone, comfy shoes, hat and water bottle!
 Together we will talk to Democratic voters about Laura and her plan to deliver change for Tennessee.
-Sign up to join us here View Event → Sep 23 Phone Bank with Team Laura Wednesday, September 23, 2026 5:00 PM 7:00 PM Google Calendar ICS Join us for an in-person phone bank at the WCDP Headquarters in Franklin.
-Together we’ll make calls to folks in district 63, letting folks know about their Democratic candidate Dr.nLaura Andreson and her plan to deliver change for Tennessee!
-Sign up to attend here View Event → Donate Paid for by Laura Andreson for TN63 - Treasurer: Bob Britton Find our Privacy Policy here.
+Sign up to join us here View Event → Donate Paid for by Laura Andreson for TN63 - Treasurer: Bob Britton Find our Privacy Policy here.

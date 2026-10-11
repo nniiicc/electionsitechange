@@ -63,7 +63,7 @@ But they will only do what they think they can get away with.
 Yes, we should bolster our degraded norms against the kind of personal profiteering Trump has engaged in.
 But even more important is to create a system that makes unethical behavior not just as shameful, but as illegal.
 And one in which people know that when they break the law, they’ll be punished.
-### To reach the campaign, email info@jacksonformaine.com .
+### Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

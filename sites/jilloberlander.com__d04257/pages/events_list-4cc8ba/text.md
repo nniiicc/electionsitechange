@@ -1,17 +1,14 @@
-About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Events 9 events found.
+About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Events 8 events found.
 Events Views Navigation Event Views Navigation List List #ago Upcoming Upcoming Select date.
-October 2026 Sat 10 Daily neighborhood door knocking Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Jill’s team will be knocking doors daily in Greenwich, Stamford and New Canaan to get Jill’s message out to voters across the district.
+October 2026 Sun 11 Daily neighborhood door knocking Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Jill’s team will be knocking doors daily in Greenwich, Stamford and New Canaan to get Jill’s message out to voters across the district.
 Join us!
 No experience necessary.
-We will […] Sat 10 Weekday phone bank: every weekday 4-6 pm Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Help us make phone calls to voters.
+We will […] Sun 11 Weekday phone bank: every weekday 4-6 pm Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Help us make phone calls to voters.
 Join our virtual phone bank: weekdays 4-6 pm.
 No experience necessary.
 We will train you and provide support.
 Sign up here.
-Pick the […] Sat 10 Door knocking in Greenwich October 10 @ 12:00 pm – 3:00 pm Help Jill reach voters and win CT’s most contested State Senate seat!
-We will meet and pair up to knock doors.
-No experience necessary!
-Meet at Greenwich Dems HQ at […] Sun 11 Door knock in Stamford October 11 @ 1:00 pm – 4:00 pm Knock doors in Stamford with Mayor Caroline Simmons and CT Senate Democrats.
+Pick the […] Sun 11 Door knock in Stamford October 11 @ 1:00 pm – 4:00 pm Knock doors in Stamford with Mayor Caroline Simmons and CT Senate Democrats.
 Meet in Scalzi Park, 97 Bridge Street in Stamford.
 Reach out to Jack for more details.
 Sun 11 Sunday phone bank October 11 @ 2:00 pm – 4:00 pm Help Jill make calls and reach voters across the district.

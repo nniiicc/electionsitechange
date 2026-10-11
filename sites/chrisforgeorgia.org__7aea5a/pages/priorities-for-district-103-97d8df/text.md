@@ -1,4 +1,15 @@
-Skip to content 404-804-3643 ChrisForGeorgia103@gmail.com Facebook-f Instagram X-twitter Home MEET CHRIS Priorities For District 103 IN THE COMMUNITY MAKE A PLAN TO VOTE Contact Home MEET CHRIS Priorities For District 103 IN THE COMMUNITY MAKE A PLAN TO VOTE Contact Priorities For District 103 home Priorities For District 103 Gun Violence Prevention Advocate for comprehensive background checks and closing loopholes in gun sales.
+Skip to content 404-804-3643 ChrisForGeorgia103@gmail.com Facebook-f Instagram X-twitter Home MEET CHRIS Priorities For District 103 IN THE COMMUNITY MAKE A PLAN TO VOTE Contact Home MEET CHRIS Priorities For District 103 IN THE COMMUNITY MAKE A PLAN TO VOTE Contact Priorities For District 103 home Priorities For District 103 INFRASTRUCTURE & RESPONSIBLE GROWTH Support state investment and planning for roads, transportation, traffic safety, accessibility, public facilities and other infrastructure needed by growing communities.
+Evaluate growth with attention to long-term quality of life and the efficient use of taxpayer resources.
+TRANSPARENCY & ACCOUNTABILITY Support clear public communication about legislation, budgets and votes.
+Make it easier for residents to understand what is happening at the Capitol and how state decisions affect District 103.
+HONORING CONSTITUENTS Maintain accessible constituent communication, respond to requests for assistance and create regular opportunities for residents to share concerns and ideas.
+Representation should extend to every resident of the district.
+EDUCATION & WORKFORCE OPPORTUNITY Support strong public schools, career and technical education, workforce development and pathways that prepare students for college, skilled trades, entrepreneurship and Georgia’s changing economy.
+HEALTHCARE & FAMILY SUPPORT Focus on state-level options that improve healthcare access and affordability, strengthen providers and support families, including services for children and people with disabilities.
+WORKING FAMILIES, SMALL BUSINESS & ECONOMIC OPPORTUNITY Evaluate state tax, workforce and economic-development policies based on whether they expand opportunity, support responsible job growth and strengthen the ability of families and small businesses to succeed.
+PUBLIC SAFETY & CIVIL RIGHTS Support effective public safety, responsible policing, due process and equal treatment under state law.
+Keep any specific legislative proposals on a separate issue-detail page if the campaign wants to develop them further.
+Gun Violence Prevention Advocate for comprehensive background checks and closing loopholes in gun sales.
 Push for red flag laws to keep guns out of the hands of those deemed dangerous.
 Partner with local law enforcement and community organizations to reduce violence in high-risk areas.
 Equality and Social Justice Champion civil rights and anti-discrimination legislation to ensure equal opportunities for all citizens.

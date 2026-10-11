@@ -6,4 +6,4 @@ In addition to his political and community involvement, Luis has a strong backgr
 He approaches every project with authenticity, collaboration, and a commitment to progress.
 Outside of his professional life, Luis enjoys Tampa Bay’s vibrant culture, music, and local arts scene, continuously finding ways to connect creativity with advocacy.
 Support Luis Salazar’s Vision for Our Community Discover how you can contribute to the campaign’s success.
-Donate Today ENDORSE LUIS SALAZAR Instagram Facebook Bluesky
+Donate Today ENDORSE LUIS SALAZAR Contact our campaign at nick@voteluis.com or call us at ‪(813) 444-8634‬ Instagram Facebook Bluesky

@@ -1,4 +1,4 @@
-Skip to content Mosteller for WV AEP District 21 Issues Donation Education Endorsements Home Infrastructure Opioid Pandemic Privacy Policy volunteer WomensRights District 21 Issues Bringing Back West Virginia Values We Can Do Better!
+Skip to content Mosteller for WV Home Endorsements Mosteller for WV AEP District 21 Issues Donation Education Endorsements Home Infrastructure Opioid Pandemic Privacy Policy volunteer WomensRights District 21 Issues Bringing Back West Virginia Values We Can Do Better!
 Michael Mosteller's Commitment to the 21st District Michael is focused on practical solutions for West Virginia families, including stronger schools, better healthcare access, addiction recovery, local jobs, reproductive freedom, and protecting the land that makes our state home.
 Schools and Education West Virginia students and teachers deserve better support, better resources, and leadership that treats public education as a priority.
 Expanding Healthcare Access Too many families in District 21 struggle to afford basic care.

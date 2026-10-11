@@ -1,4 +1,4 @@
-0 Skip to Content MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE In The News Featured: The Democratic Socialists Winning Elections Far From New York City (New York Times, July 12, 2026) [Bojak] continued: “Zohran wasn’t successful because he talked about being a socialist.
+0 Skip to Content MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER VOTE PLATFORM ENDORSEMENTS EVENTS NEWS DONATE In The News Featured: The Democratic Socialists Winning Elections Far From New York City (New York Times, July 12, 2026) [Bojak] continued: “Zohran wasn’t successful because he talked about being a socialist.
 He just said what he was going to do.
 Our messaging is broadly popular.
 People want to tax the rich and expand child care.

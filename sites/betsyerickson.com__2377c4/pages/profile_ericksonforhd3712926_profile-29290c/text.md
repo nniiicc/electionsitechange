@@ -16,4 +16,4 @@ This bill was sponsored by Ocean Andrew.
 HB199, or the Wyoming Freedom Scholarship Act, gives $7,000 per child to any family that chooses not to have their child or children in public school.
 This money can then be used for homeschooling curriculum or to pay tuition at private schools, even parochial schools.
 While I respect that people...
-27 0 Load More Erickson for House District 37 ericksonforhd37@yahoo.com PO Box 452 Casper Wy 82602 Wyoming, USA Paid for by Erickson for HD 37 bottom of page
+28 0 Load More Erickson for House District 37 ericksonforhd37@yahoo.com PO Box 452 Casper Wy 82602 Wyoming, USA Paid for by Erickson for HD 37 bottom of page

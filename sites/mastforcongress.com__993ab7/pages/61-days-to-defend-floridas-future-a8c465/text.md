@@ -24,10 +24,10 @@ I know what is at stake.
 I also know what this community can accomplish when patriots stand together.
 Sixty-one days is enough time to organize, build momentum, and defend Florida’s future.
 Let’s get to work.
-Related Posts: Thank you, President Trump!
-August 1, 2025 Biden’s Big Crisis March 7, 2021 Only Citizens Should Decide American Elections.
-Do You Agree?
-April 29, 2026 Fauci ❤️ Transgender Monkeys January 12, 2022 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
+Related Posts: 8 Months Until Election Day March 9, 2022 I lost two legs serving in Afghanistan.
+Veterans need you today.
+August 15, 2022 12 Days to Register and a Primary We Cannot Sleepwalk Into July 6, 2026 Support America First With New Merchandise!
+November 23, 2021 Tags: 1st Amendment 2nd Amendment Afghanistan America First AOC Big Tech Border Crisis Border Security Border Wall Build The Wall Cancel Culture Censorship Chuck Schumer Clean Water CNN Coral Reefs Coronavirus Defund The Police Donald Trump Dr.
 Seuss Drain The Swamp Education Election Integrity Elections Energy Everglades Fauci Florida Free Speech H.R.
 1 Illegal Immigration Immigration Iran Israel Jake Tapper Jobs Joe Biden Lake Okeechobee Life Medicare Merch Military Nancy Pelosi Paycheck Protection Program Pro-Life Safer And Stronger Communities Service Before Self Shakespeare Small Business Socialism Tax Cuts Taxes Twitter Veterans water Get Email Updates First Name Last Name Email Address * Phone Sign up here to receive text updates.
 By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.

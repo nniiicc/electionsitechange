@@ -1,8 +1,4 @@
-Skip navigation menu Home About Priorities Videos Testimonials Events Get Involved Contact Donate Home About Priorities Videos Testimonials Events Get Involved Contact Donate Join Us Campaign Events I'd love to talk with you and learn about your concerns Coffee with Chris at Flight Coffee 24 Main Street Goffstown, NH 03045 Join me for coffee and conversation at Flight Coffee.
-I need to hear from you so pull up a chair, grab a cup, and tell me what's on your mind.
-This is a low-key gathering for neighbors who want to get to know their next State Representative.
-All are welcome!
-Goffstown Democrats Speed Dating Mountain Base Brewery 553 Mast Rd.
+Skip navigation menu Home About Priorities Videos Testimonials Events Get Involved Contact Donate Home About Priorities Videos Testimonials Events Get Involved Contact Donate Join Us Campaign Events I'd love to talk with you and learn about your concerns Goffstown Democrats Speed Dating Mountain Base Brewery 553 Mast Rd.
 Suite 111 Goffstown, NH 03045 Meet the Democratic candidates for State House and State Senate.
 Grab a beer and lets talk.
 Goffstown Pumpkin Regatta Goffstown Village Don't miss this wonderful annual event!

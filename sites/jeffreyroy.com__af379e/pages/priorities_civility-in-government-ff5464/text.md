@@ -14,7 +14,7 @@ My door will be open to every resident, business and local official.
 With 14 years of local government experience, I know firsthand how state government can help – and hurt – our communities, our schools, our public safety and our small businesses.
 I will bring experience, creativity and a bi-partisan approach to work on your behalf every day.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
-Leave a comment Cancel reply Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Leave a Reply Cancel reply Comment Name Email Website Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
 Rep.
 Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
 Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?

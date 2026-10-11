@@ -1,4 +1,4 @@
-Sign In My Account Español Platform Endorsements Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Contact Donate Restaurar el Gran Lago Salado La condición actual del lago El Gran Lago Salado está en crisis.
+Sign In My Account Español Platform Endorsements Voting Information Contact Donate Back Página Principal Plataforma Legislación propuesta Endosos Contacto Back Legislation My Platform Sign In My Account Español Página Principal Plataforma Legislación propuesta Endosos Contacto Platform Legislation My Platform Endorsements Voting Information Contact Donate Restaurar el Gran Lago Salado La condición actual del lago El Gran Lago Salado está en crisis.
 A medida que bajan los niveles del agua, minerales tóxicos como el arsénico y el plomo del suelo del lecho del lago terminarán en nuestro aire.
 Esto afectará más a las comunidades adyacentes al lago, incluida la nuestra.
 Es vital que abordemos el Gran Lago Salado ahora.

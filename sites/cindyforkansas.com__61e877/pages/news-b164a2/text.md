@@ -1,4 +1,6 @@
-Skip to main content About Issues Supporters News Store Get Involved Donate Donate Cindy in the News From the campaign Press All press releases → Press Release • September 30, 2026 Cindy Holscher Launches New Television Ad Highlighting Need for Firm Guardrails on Data Centers Today, Democratic nominee for governor Cindy Holscher launched her newest television ad, “Sunflowers,” highlighting the need for firm guardrails around new data center development in Kansas.
+Skip to main content About Issues Supporters News Store Get Involved Donate Donate Cindy in the News From the campaign Press All press releases → Press Release • October 9, 2026 Missouri-Kansas-Nebraska Conference of Teamsters Endorses Cindy Holscher for Governor Today, the Missouri-Kansas-Nebraska Conference of Teamsters endorsed Cindy Holscher for governor, adding to the growing coalition behind her campaign.
+The Teamsters represent more than 6,000 working men and women across Kansas, in areas as diverse as freight distribution, car-haul, heavy highway construction, wholesale and retail food distribution, small parcel and package delivery, brewery and soda manufacturing, railroad and maintenance of way workers, school bus drivers, and many of Kansas’ transportation industries.
+Press Release • September 30, 2026 Cindy Holscher Launches New Television Ad Highlighting Need for Firm Guardrails on Data Centers Today, Democratic nominee for governor Cindy Holscher launched her newest television ad, “Sunflowers,” highlighting the need for firm guardrails around new data center development in Kansas.
 The ad will air statewide on broadcast, cable, and digital platforms starting today.
 Press Release • September 29, 2026 Holscher launches new webisode on data centers with lifelong Republicans In a new video today, Democratic nominee for governor Cindy Holscher is highlighting the Marple family, who have raised serious concerns about a proposed 10-building data center complex threatening their family farm.
 The Marples are lifelong Republicans, but they are supporting Cindy Holscher because she’s the only candidate for governor taking data center concerns seriously.
@@ -11,11 +13,6 @@ Over the next two weeks, Senator Cindy Holscher will travel the state, with at l
 The tour spends its first week in eastern Kansas before heading west for week two.
 Press Release • September 18, 2026 Masterson Confirms: No More Debates Republican nominee for governor Ty Masterson is refusing to debate Senator Holscher again.
 His spokesperson confirmed to the Kansas Reflector that Masterson has “no plans to accept any further debates.” Masterson’s retreat comes less than a week after the two faced off at the Kansas State Fair, where Holscher hammered him over his 20-year record in the legislature and six years running the Senate.
-Press Release • September 17, 2026 Ks-Gov: No-Show Masterson Says No To More Debates After Losing The First One Days after a disastrous appearance at the State Fair debate hosted by WIBW Radio, Republican nominee for governor Ty Masterson has rejected future debates against Senator Cindy Holscher.
-The Holscher campaign had previously accepted debate invitations by Gray Media and Nexstar for September 24 and October 1 debates, respectively.
-Gray Media stations include KCTV (Kansas City), KWCH (Wichita), and WIBW (Topeka).
-The Nexstar debate would run on six television stations covering 95% of the state.
-Masterson turned down both invitations.
 Watch Video All videos → Cindy Holscher on the Common Sense and Lower Costs Tour October 1, 2026 Catch Cindy across Kansas as she meets with folks as she runs from governor.
 Cindy Holscher Will Hit Pause on Data Centers in Kansas as Governor September 30, 2026 Cindy knows that Kansas farms and fields of sunflowers are under attack.
 Big Tech wants to build data centers all over the state.

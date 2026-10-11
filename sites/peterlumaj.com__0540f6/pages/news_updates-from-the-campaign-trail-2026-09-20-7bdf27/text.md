@@ -34,10 +34,13 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY John Carlson New Haven RTC Chairman "I endorse Peter Lumaj as Secretary of the State for several reasons.
-To begin with, he has the qualifications required to do the job.
-His familiarity with law and running a business will no doubt be a huge boon in running SOTS.
-Secondly, he has the character to ensure the job gets done without bias, and with honesty and integrity.
-As we’ve seen from recent events, not only in BPT, but elsewhere, we need someone who will take the appointment seriously and without fear of political backlash from any party or backers.
-“Fear not”, Peter is the candidate who is not afraid to let everyone know what he stands for and what he won’t stand for.
-Lastly, he is an experienced candidate which will aid him in this run." View all endorsements →
+ENDORSED BY Henri Martin State Senator 31st District "Peter Lumaj has lived the American Dream.
+He loves our country and our state, and I am proud to call him a friend.
+Connecticut is a national embarrassment when it comes to election integrity.
+The Bridgeport ballot stuffing video went viral, prompting news outlets across the nation to mock the fraud.
+Yet under one-party rule in Connecticut, Democrats have zero interest in making reforms that will restore public confidence in our elections.
+The embarrassments and the fraud that have made Connecticut a national punchline will continue until we elect different leaders.
+As our new Secretary of the State, Peter Lumaj will make those reforms his top priority.
+He will be a voice for the people of our state who are sick and tired of the seemingly endless voter fraud in Connecticut.
+I wholeheartedly endorse Peter Lumaj.
+He will be an excellent Secretary of the State and will work tirelessly to restore trust and integrity in our elections." View all endorsements →

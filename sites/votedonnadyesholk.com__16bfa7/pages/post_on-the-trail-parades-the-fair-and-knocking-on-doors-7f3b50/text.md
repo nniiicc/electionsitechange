@@ -26,4 +26,4 @@ Free, open to everyone, and nonpartisan.
 Bring your bill.
 Thank you for being part of this campaign.
 I hope to see you at the doors.
-Donna SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Vote Donna Dye Sholk New York State Assembly Paid for by Friends of Donna Dye Sholk. © # Privacy Policy Mobile Terms bottom of page
+Donna Recent Posts See All What I heard at the town hall, and the October 24 deadline SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Vote Donna Dye Sholk New York State Assembly Paid for by Friends of Donna Dye Sholk. © # Privacy Policy Mobile Terms bottom of page

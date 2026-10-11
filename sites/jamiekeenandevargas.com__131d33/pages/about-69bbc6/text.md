@@ -2,7 +2,7 @@ About Policies Volunteer Town Hall (Oct.
 6th)!
 Donate About Policies Volunteer Town Hall (Oct.
 6th)!
-Donate Your Page Header Title Join Now Jun 08, 2026 0 min read About Jamie Jamie Keenan-deVargas is a horticultural retail worker, a renter, and an artist.
+Donate Your Page Header Title Join Now Jun 09, 2026 0 min read About Jamie Jamie Keenan-deVargas is a horticultural retail worker, a renter, and an artist.
 He was raised in a single-parent household with four kids.
 Jamie knows the value of hard work, and he knows the hardships of poverty: He's been working to help support his family since he was in middle school.
 In high school, he got into acting, and has acted in numerous theater and musical productions locally since then.

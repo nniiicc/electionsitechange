@@ -17,7 +17,7 @@ Main St., Lock Haven, and will include food, drinks, plus live music from local 
 Attendance is capped at 100 people on a first-come, first-served basis and any remaining tickets will be available at the door.
 Visit the event page or the campaign’s Facebook page to secure your tickets.
 “Over the summer, Eggler has been showing up at local meetings, volunteering, and spending time listening to concerns raised by residents throughout the 76th District,” a release from Eggler’s campaign said.
-“Opening the new office is also a meaningful step up in campaign operations as fall approaches.” Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Share on Bluesky (Opens in new window) Bluesky Like Loading… Tags Leave a comment Cancel reply Δ Sara is rooted in community and focused on results.
+“Opening the new office is also a meaningful step up in campaign operations as fall approaches.” Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Share on Bluesky (Opens in new window) Bluesky Like Loading… Tags Leave a Reply Cancel reply Comment Name Email Website Δ Sara is rooted in community and focused on results.
 Newsletter Weekly Thoughts on Personal Development VISIT US 120 E.
 Walnut St., Unit 3 Lock Haven, PA 17745 Vote “Eggler” to Fund Our Future Facebook Instagram YouTube GET IN TOUCH michaelrmaddenpa@gmail.com (814) 264-4905 Designed with WordPress Comment Reblog Subscribe Subscribed Sara Eggler Sign me up Have a WordPress.com account?
 Log in now.

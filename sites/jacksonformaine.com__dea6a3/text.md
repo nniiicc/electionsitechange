@@ -41,7 +41,7 @@ Msg frequency varies.
 Reply HELP for assistance.
 Unsubscribe at any time by replying STOP.
 Terms of Service and Privacy Policy apply.
-Submit To reach the campaign, email info@jacksonformaine.com .
+Submit Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .
 If you'd like to contribute by check, checks can be made out to Troy Jackson for Maine and mailed to: P.O.
 Box 3003 Portland, ME 04104 Paid for by Troy Jackson for Maine You need to enable JavaScript to run this app.

@@ -9,5 +9,5 @@ Unsubscribe at any time by replying STOP.
 Text START to opt in.
 Text HELP for help or email admin@dittmerforcongress.com.
 All information collected as part of SMS opt in will not be sold/rented/shared.
-Follow Us on the Campaign Trail Contact Join Team Dittmer Privacy & Accessibility Checks can be made to Dittmer for Congress and sent to P.O.
-Box 101 Fort Mill, SC 29716 PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands
+Follow Us on the Campaign Trail Contact Join Team Dittmer Privacy & Accessibility Political donations are not tax exempt.
+PAID FOR BY DITTMER FOR CONGRESS © # Dittmer for Congress Designed by mbk brands

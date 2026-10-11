@@ -1,9 +1,12 @@
 {
  "description": "Support Paul Goundry's State Representative Campaign for Grafton District 6 in New Hampshire. Join us for updates and volunteer opportunities.",
  "final_url": "https://paulfornh.com/home-1",
- "fingerprint": "b0587ed8f3b03813311626196c3679e6d2e29bb6",
+ "fingerprint": "97dea2dd4bbb246e35565fe16aaa254138f6d818",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Paul Goundry's Campaign for State Representative in NH",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }
