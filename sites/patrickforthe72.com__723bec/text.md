@@ -20,5 +20,5 @@ Now scheduling home and business informational events.
 All info on the flyer above (Meet your candidates). ​ ​ February 24, 2026 Patrick officially filed with the Secretary of State of Missouri and the campaign for State Representative of the 72nd MO House District begun!
 April 25, 2026 GUAC THE VOTE!
 FUNDRAISER- 5-8pm Speech by Patrick @ 7pm w/Intro from Mayor Marty Little CHIMIS (Back Banquet Room) 2435 Woodson Rd.
-Overland, MO 63114 MORE INFO - patrickforthe72.com/donate ​ IMPORTANT DATES - November 3, 2026 (General Election) PATRICK'S MESSAGE HOME ABOUT PATRICK FAQ SUPPORTERS ISSUES DONATE More Use tab to navigate through the menu items.
+Overland, MO 63114 MORE INFO - patrickforthe72.com/donate ​ IMPORTANT DATES - November 3, 2026 (General Election) HOME ABOUT PATRICK FAQ SUPPORTERS ISSUES DONATE More Use tab to navigate through the menu items.
 STAY UP TO DATE ON THE CAMPAIGN: 314-313-2620 PatrickForThe72@yahoo.com website designed, built, and maintained by Patrick Wroblewski No AI used © # Paid for by Citizens for Wroblewski, Rebekah Jimenez, Treasurer bottom of page

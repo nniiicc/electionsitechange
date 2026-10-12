@@ -4,7 +4,7 @@ New HD-157 Opportunity Board is Live!
 Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Full District District 157 Hub Candler County County Seat: Metter 10,981 Population 1914 Est.
 Community Profile Key details for Candler County "Rural healthcare access, agricultural tradition, tight-knit community" Key Communities Metter Cobbtown Pulaski Take Action Represent Candler County Micah is fighting to ensure our rural communities aren't left behind by Atlanta politicians.
 If you live in Candler County, join our grassroots movement today.
-Volunteer Here Donate Candler County Forecast Live Data #ago Rain 77° 66° Sat, Oct 10 Rain 81° 70° Sun, Oct 11 Rain 80° 68° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
+Volunteer Here Donate Candler County Forecast Live Data #ago Drizzle 76° 67° Mon, Oct 12 Partly cloudy 79° 64° Tue, Oct 13 Partly cloudy 82° 61° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
 Check Registration 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

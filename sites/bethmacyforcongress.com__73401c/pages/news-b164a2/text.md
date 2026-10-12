@@ -1,4 +1,8 @@
-Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All October 8, 2026 In the News , The Daily Signal Macy Makes Her Case in Virginia’s 6th Congressional District October 8, 2026 In the News , The Daily Signal Beth Macy didn’t intend to run for Congress, but the Virginia Democrat has raised more than $1 million in the recent quarter and says rising inflation, the war in Iran, and concerns over health care cuts compelled her to shift from participating in protest rallies outside incumbent Rep.
+Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All October 11, 2026 Press Release While Beth Macy meets 6th District voters, Ben Cline dines with AI and data center lobbyists October 11, 2026 Press Release FOR IMMEDIATE RELEASE Oct.
+11, 2026 Contact: [email protected] ROANOKE — On Saturday, Oct.
+10, Democratic candidate Beth Macy talked to voters from the top to the bottom of Virginia’s 6th Congressional District, from Front Royal to Roanoke – 174 miles.
+Meanwhile, Ben Cline, the Republican incumbent, was more than 2,000 miles away dining with lobbyists […] ...
+Read More October 8, 2026 In the News , The Daily Signal Macy Makes Her Case in Virginia’s 6th Congressional District October 8, 2026 In the News , The Daily Signal Beth Macy didn’t intend to run for Congress, but the Virginia Democrat has raised more than $1 million in the recent quarter and says rising inflation, the war in Iran, and concerns over health care cuts compelled her to shift from participating in protest rallies outside incumbent Rep.
 Ben Cline’s headquarters to running against him […] ...
 Read More October 7, 2026 Augusta Free Press , In the News Beth Macy campaign announces town halls in Clifton Forge, Daleville October 7, 2026 Augusta Free Press , In the News The Beth Macy congressional campaign announced on Wednesday that it has added town halls in Clifton Forge and Daleville to its upcoming schedule of events.
 Read the full article here: https://augustafreepress.com/news/beth-macy-campaign-announces-town-halls-in-clifton-forge-daleville/ ...
@@ -58,9 +62,6 @@ August 26, 2026 Cardinal News , In the News One of the few things I hate about c
 This column is about the debate over debates.
 The immediate question is whether there will be any debates in the 6th District congressional race between Republican incumbent Ben Cline and Democratic challenger Beth Macy.
 Read the full article […] ...
-Read More August 26, 2026 Daily News Record , In the News Beth Macy meets with veterans in Harrisonburg August 26, 2026 Daily News Record , In the News Beth Macy, the Democrat hoping to unseat Sixth District Republican incumbent Ben Cline, has been busy reaching out to groups such as farmers, faith leaders and veterans.
-And Tuesday night, her campaign held the third of three veterans’ forums, this one at AMVETS Post 7 in Harrisonburg.
-Read the full article here: https://www.dnronline.com/news/elections/beth-macy-meets-with-veterans-in-harrisonburg/article_a741830c-944e-564c-953c-dbea947ccc3c.html ...
 Read More Page 1 Page 2 Page 3 Page 4 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
 Msg & data rates may apply.
 Msg frequency varies.

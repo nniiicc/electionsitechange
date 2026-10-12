@@ -1,6 +1,7 @@
 [
 "embed://js.stripe.com/v3/controller-with-preconnect-9f7177e1ded748e893dbc1894b93f152.html",
 "embed://js.stripe.com/v3/elements-inner-card-2f74ae0790eb387eb518f4f9b0d5afd4.html",
+"embed://js.stripe.com/v3/hcaptcha-invisible-f3b23346aa41e5e6834a486dd6dc43ac.html",
 "embed://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
 "embed://js.stripe.com/v3/payment-request-inner-browser-182db833d55f3227a0b37fb381153cad.html",
 "embed://js.stripe.com/v3/universal-link-modal-inner-576d73e883538bfaa4da33a766ded644.html",

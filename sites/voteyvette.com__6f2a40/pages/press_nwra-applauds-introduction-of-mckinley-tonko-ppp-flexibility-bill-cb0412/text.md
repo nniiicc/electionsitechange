@@ -1,0 +1,5 @@
+DONATE Menu Close Toggle navigation DONATE About Yvette About Yvette Yvette’s Wins Issues Community Resources Get Involved Endorsements Press NWRA applauds introduction of Mckinley/Tonko PPP Flexibility bill The National Waste & Recycling Association (NWRA) applauds House introduction of bipartisan legislation that would help provide relief to the waste and recycling industry from potentially onerous customer bad debt.
+The bill would increase the Paycheck Protection Program’s (PPP) flexibility by including payments for waste and recycling collection services for purposes of calculating the eligible amount for forgiveness of indebtedness under a PPP loan.
+Representative David McKinley (R-WV-1) and House Energy & Commerce Subcommittee on the Environment and Climate Change Chairman Paul Tonko (D-NY-20) along with Ranking Member John Shimkus (R-IL-15), Yvette Clarke (D-NY-9) and the full committee’s Chairman Frank Pallone (D-NJ-6) are the bill’s original sponsors.
+Read more here .
+Paid for by Clarke for Congress Built by Veracity Media

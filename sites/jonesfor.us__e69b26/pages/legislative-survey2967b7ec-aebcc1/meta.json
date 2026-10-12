@@ -1,9 +1,10 @@
 {
  "description": "",
  "final_url": "https://jonesfor.us/legislative-survey2967b7ec",
- "fingerprint": "4e8468bf2403b9759af1e502e708c2aa698bdf44",
+ "fingerprint": "dcafc02b84e71c04f5b2aa2a11c76a2ceb50459d",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Legislative Survey",
  "years_mentioned": [
   "2016",
@@ -12,6 +13,7 @@
   "2020",
   "2021",
   "2022",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

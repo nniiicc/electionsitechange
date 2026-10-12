@@ -1,9 +1,10 @@
 {
  "description": "Explore Norm's voting record and legislative contributions in Utah.",
  "final_url": "https://davidforutah.com/votes",
- "fingerprint": "3bdbef91ce20a82c5e3797095ece4f95d3b04660",
+ "fingerprint": "59b0316cca188cdbab93b23058d3cd904a8c06ce",
  "format": 3,
  "paid_for_by": "PAID FOR BY DAVID FOR UTAH (not special interests)",
+ "rendered": false,
  "title": "Norm's Votes 🗳️ | Explore the record — David for Utah",
  "years_mentioned": [
   "2015",

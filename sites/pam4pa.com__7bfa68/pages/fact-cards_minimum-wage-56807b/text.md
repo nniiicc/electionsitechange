@@ -14,4 +14,4 @@ Tina Pickett voted NO.
 Sources PA House Roll Call No.
 389, HB 1549 (June 11, 2025); U.S.
 Dept. of Labor minimum-wage table (current July 1, 2026).
-View the record for Minimum Wage (opens in a new tab) Download Fact Card 01 All Fact Cards 0 Likes Twitter Facebook Email Copy URL to clipboard Post navigation Next The American Dream Is Slipping Away October 1, 2026 About Author You May Also Like The American Dream Is Slipping Away We The People Are The Answer
+View the record for Minimum Wage (opens in a new tab) Download Fact Card 01 All Fact Cards 0 Likes Twitter Facebook Email Copy URL to clipboard Post navigation Next The American Dream Is Slipping Away October 1, 2026 About Author You May Also Like The American Dream Is Slipping Away Family Farmers Before Special Interests

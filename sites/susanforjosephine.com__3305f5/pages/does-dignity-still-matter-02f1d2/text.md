@@ -83,7 +83,9 @@ I’ll continue showing up, listening, and standing up for what I believe is rig
 I won’t always have all the answers, but I will always do my best to treat others with respect, even when that same respect isn’t extended to me.
 Because the kind of community we build depends on how we choose to treat one another.
 And I believe Josephine County is a place where everyone’s dignity still matters.
-See the Latest News Does Dignity Still Matter?
+See the Latest News Healthcare Reform Worth Doing Is Reform Worth Doing Right I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Does Dignity Still Matter?
 Josephine County deserves leaders who can disagree without sacrificing dignity, respect, or decency.
 As this campaign has unfolded, I’ve found myself reflecting on the increasingly personal nature of political disagreements and what that means for our community.
 I believe we can stand firmly behind our values, hold one another accountable, and have difficult conversations without tearing people down.
@@ -92,9 +94,6 @@ Read More » My Response to Rep.
 Yunker’s Attack Ad I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
 This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
 Please read a recent question and my response below: Read More » Representing Josephine County, Not a Party I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
-This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
-Please read a recent question and my response below: Read More » The Principles I’ll Take With Me to Salem.
-I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
 This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
 Please read a recent question and my response below: Read More » Home About Priorities Support Volunteer News Community Questions Contact Home About Priorities Support Volunteer News Community Questions Contact Facebook Instagram © # Susan for Josephine.
 All rights Reserved.

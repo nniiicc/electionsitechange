@@ -7,7 +7,15 @@ A nonpartisan voter-education event, in partnership with the UTA Center for Afri
 A candidate listing does not imply NAACP endorsement or confirmed participation.
 More Info Directions Calendar Participation information: co.political.action@arlingtonnaacp.org View full flyer Freedom Events Join the Movement Join us at town halls, rallies, canvasses, and community gatherings across Texas.
 Find an event near you and help build freedom.
-On the calendar Show up for the work.
+Happening Now #ago Real Talk: The Candidates Speak!
+6:00 PM - 8:00 PM CDT Baker Chapel AME Church, 1050 E.
+Humbolt St., Fort Worth, TX 76104 A voter-education and candidate-forum event to educate, engage, and introduce voters to candidates running for office in the 2026 midterm election.
+Sponsored by Baker Chapel AME Church and Tarrant County GOTV.
+Includes youth voter engagement, family and community mobilization, onsite voter lookup, and voter resources.
+Bring a valid photo ID.
+The flyer features Corey Cammon, Social Action Committee Chairman at Baker Chapel AME Church; Dr.
+La Tonya Woodson-Mayfield, Trustee, Crowley ISD; and Jonathan Morrison, Tarrant County GOTV.
+More Info Directions Calendar On the calendar Show up for the work.
 Find Dione and neighbors across TX-25.
 Pick a gathering, bring a question, and be part of what comes next.
 1 featured event Swipe to explore Previous slide Next slide Featured OCT 14 Save the date Arlington NAACP Candidate Forum — Federal and State Candidates 7:00 PM - 9:00 PM CDT Science and Engineering Innovation and Research Building, University of Texas at Arlington (UTA) Arlington NAACP Candidate Forum Series, Forum 1: Federal and State Candidates.

@@ -8,10 +8,6 @@
 "href": "https://alaniformt.com/debates"
 },
 {
-"text": "Event info →",
-"href": "https://alaniformt.com/%7B%7B%20e.info%20%7D%7D"
-},
-{
 "text": "Get Involved",
 "href": "https://alaniformt.com/get-involved"
 },
@@ -30,5 +26,9 @@
 {
 "text": "debate and candidate-forum schedule",
 "href": "https://alaniformt.com/debates"
+},
+{
+"text": "{{ e.infoLabel }}",
+"href": "https://alaniformt.com/%7B%7B%20e.info%20%7D%7D"
 }
 ]

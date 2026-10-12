@@ -1,6 +1,15 @@
 0 Skip to Content Elect Bennie Foster for U.S.
 Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Elect Bennie Foster for U.S.
-Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Updates Folder: Resources Back Voting Contact Donate DONATE Sunday we come to two counties, ending in the city of Rolling Fork.
+Congress MS-02 About Meet Foster Our District | MS-02 Questions & Answers Platform Policies Initiatives News Events Updates Resources Voting Contact Donate DONATE Open Menu Close Menu Folder: About Back Meet Foster Our District | MS-02 Questions & Answers Folder: Platform Back Policies Initiatives Folder: News Back Events Updates Folder: Resources Back Voting Contact Donate DONATE Thank you Sharkey County!
+We heard from people who are ready for change in Rolling Fork, MS.
+They are ready to ReIMAGINE Mississippi.
+We are asking you to vote to elect independent candidate Bennie Foster to US Congress MS-02 on November 3.
+Visit www.electbenniefoster.com to donate and get involved.
+Thank you Issaquena County!
+We spoke with some great people in Mayersville, MS about our vision to ReIMAGINE Mississippi.
+Next Stop: Rolling Fork, MS We are asking you to vote to elect independent candidate Bennie Foster to US Congress MS-02 on November 3.
+Visit www.electbenniefoster.com to donate and get involved.
+Sunday we come to two counties, ending in the city of Rolling Fork.
 Please let us know if you would like to meet Mr.
 Foster so we can look for you.
 Vote November 3 to elect independent candidate Bennie Foster to US Congress MS-02.
@@ -46,17 +55,7 @@ Clarksdale, MS was full of powerful conversations with residents who are ready t
 Next stop: Indianola, Sunflower County Visit www.electbenniefoster.com to learn why you should elect Bennie Foster as your next US Congressman for MS-02 on November 3.
 Thank you Mound Bayou!
 Next stop: Cleveland, MS.
-Visit www.electbenniefoster.com to see why you should vote November 3 to elect independent candidate Bennie Foster to US CONGRESS MS-02. ￼ Thank you Clarksdale, MS and Coahoma County!
-Next stop: Mound Bayou, MS.
-Vote to elect independent candidate Bennie Foster for US Congress MS-02 on November 3, 2026.
-Visit www.electbenniefoster.com to donate and get involved.
-Let’s ReIMAGINE Mississippi together!
-Thank you Clarksdale, MS and Coahoma County!
-Next stop: Mound Bayou, MS.
-Vote to elect independent candidate Bennie Foster for US Congress MS-02 on November 3, 2026.
-Visit www.electbenniefoster.com to donate and get involved.
-Let’s ReIMAGINE Mississippi together!
-Updates Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
+Visit www.electbenniefoster.com to see why you should vote November 3 to elect independent candidate Bennie Foster to US CONGRESS MS-02. ￼ Updates Paid for by Friends to Elect Bennie Foster Jr Follow Foster Instagram Facebook Send Mail To: 886 Foley St Jackson, MS 39202 Contact: team@electbenniefoster.com 601-868-5557 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Sign up to stay connected with the campaign and receive updates.
 Email Address Sign Up Thank you!

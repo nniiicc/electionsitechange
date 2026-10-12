@@ -15,4 +15,4 @@ Sign up now Reading is More Fun with Friends and Family!
 We are SO excited about this fun program, and have already heard about Girl Scout troops who might join together, grandparents who are making it a family activity, high school friends creating book clubs, neighborhood shops hosting groups, and we LOVE those ideas!
 We can’t wait to enjoy a summer of reading together!
 Reading Wins!
-Facebook Instagram Paid for by Friends of Robyn Vining Privacy Policy
+Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

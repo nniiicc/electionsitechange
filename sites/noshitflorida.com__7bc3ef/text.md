@@ -45,10 +45,7 @@ She is the right person for this moment. ” Earl Sparrow “I’m backing Dr.
 Cindy Banyai for State House District 78 because she doesn’t sugarcoat the problems our community faces.
 She’s a fighter in every sense of the word, with the experience and backbone to stand up for working people and call out what’s broken.
 Fort Myers needs someone who tells the truth and isn’t afraid to speak up for us.” Michaela O'Brien CONNECT Help me take back Tally!
-SEE OPPORTUNITIES MULTIPLE DATES Sun, Oct 11 Community Canvas / Fort Myers Regional Library RSVP Oct 11, 2026, 2:00 PM – 6:00 PM Fort Myers Regional Library, 2450 First St, Fort Myers, FL 33901, USA Knock doors and get out the vote for Cindy!
-Sign-up here for a shift!
-Training and materials provided.
-Share MULTIPLE DATES Mon, Oct 12 Virtual Phone Bank Party! / Virtual Event - Google Meet RSVP Oct 12, 2026, 6:00 PM – 8:00 PM Virtual Event - Google Meet Call voters in support of Cindy!
+SEE OPPORTUNITIES MULTIPLE DATES Mon, Oct 12 Virtual Phone Bank Party! / Virtual Event - Google Meet RSVP Oct 12, 2026, 6:00 PM – 8:00 PM Virtual Event - Google Meet Call voters in support of Cindy!
 Get trained and get people to the polls!
 Sign-up to get the link.
 All trainees can do anytime phonebanking too!
@@ -68,6 +65,9 @@ Sign-Up to get party link.
 Share Tue, Nov 03 Election Night Party! / Location is TBD DETAILS Nov 03, 2026, 6:00 PM – 9:00 PM Location is TBD Celebrate team work!
 Celebrate victory!
 Come and join this finale of the Midterm Election 2026 with Cindy and friends.
+Share MULTIPLE DATES Sun, Oct 11 Community Canvas / Fort Myers Regional Library DETAILS Oct 11, 2026, 2:00 PM – 6:00 PM Fort Myers Regional Library, 2450 First St, Fort Myers, FL 33901, USA Knock doors and get out the vote for Cindy!
+Sign-up here for a shift!
+Training and materials provided.
 Share Sat, Sep 26 Glow Meet & Greet - Island Vibes Kava Bar / Island Vibes Kava Bar DETAILS Sep 26, 2026, 7:00 PM – 11:00 PM Island Vibes Kava Bar, 20351 Summerlin Rd #117, Fort Myers, FL 33908, USA Come say hi to Cindy and get some glow fac painting in a chill environment.
 Have some fun.
 Get ready to save democracy.

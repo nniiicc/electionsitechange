@@ -1,4 +1,4 @@
-top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED NEWS More Use tab to navigate through the menu items.
+top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED ENDORSEMENTS NEWS More Use tab to navigate through the menu items.
 All Posts Campaign Updates Endorsements Search Letter to the Editor: Domestic Violence Awareness Month Begins Oct.
 1 Tiffani McGinnis Oct 1 1 min read To the Editor, October is Domestic Violence Awareness Month.
 For me, this issue is personal.

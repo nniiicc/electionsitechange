@@ -7,22 +7,22 @@ However, this new position would give me additional responsibilities and opportu
 Read Full Article → The Globe, Georgia Gwinnett College November 2015 Our Very Own Prestigious Society of Students Aizaz Shaikh, a junior and business management major, is profiled as a member of the Four Pillar Society — a student leadership program serving the GGC Foundation and Alumni Association.
 The article highlights his journey from enlisting in the Air Force to achieving a 4.0 GPA and building networks for a future in politics.
 Read Full Article → Photo Gallery Moments from the campaign trail and the community.
-Honored to stand with Senator Ed Harbison on the Senate floor.
-Meeting neighbors, one handshake at a time.
-Putting in the work at the State Capitol.
-Listening to the families of District 7.
-Rooted in community.
-Ready to serve.
-Earning every vote — one neighbor at a time.
-Showing up where decisions get made — City Hall.
-Bringing District 7 together.
-Leadership starts with listening.
 Real conversations.
 Real solutions.
 Standing with proven leaders at the gala.
-Building bridges at the Georgia General Assembly.
-Proudly representing Gwinnett under the Gold Dome.
+Listening to the families of District 7.
+Earning every vote — one neighbor at a time.
+Putting in the work at the State Capitol.
+Leadership starts with listening.
+Honored to stand with Senator Ed Harbison on the Senate floor.
+Meeting neighbors, one handshake at a time.
+Rooted in community.
+Ready to serve.
+Bringing District 7 together.
 Honoring the rich heritage of District 7.
+Building bridges at the Georgia General Assembly.
+Showing up where decisions get made — City Hall.
+Proudly representing Gwinnett under the Gold Dome.
 Previous slide Next slide Pause slideshow Follow the Campaign Facebook Follow us → X (Twitter) Follow us → Instagram Follow us → YouTube Follow us → TikTok Follow us → Aizaz Shaikh for State Senate Paid for by Aizaz 4 Senate, Inc.
 Home About Issues Get Involved Sign Up Privacy Policy Terms & Conditions © # Aizaz 4 Senate, Inc.
 All rights reserved.

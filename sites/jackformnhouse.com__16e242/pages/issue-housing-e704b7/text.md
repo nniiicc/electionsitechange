@@ -1,4 +1,4 @@
-Donate Meet Jack The Issues Volunteer ← Back to Issues Affordable Housing “More families are only one paycheck from being evicted.” Owning your own home has been “the American Dream.” But the reality is it’s a dream within reach of ever fewer people.
+Donate Meet Jack Issues Endorsements ← Back to Issues Affordable Housing “More families are only one paycheck from being evicted.” Owning your own home has been “the American Dream.” But the reality is it’s a dream within reach of ever fewer people.
 Homelessness is real in rural Minnesota.
 More young people are moving back in with their parents.
 More families are only one paycheck from being evicted.
@@ -14,7 +14,7 @@ I will also work to develop more private/public relationships to ensure that the
 We must ensure that our older residents have safe and stable housing while increasing the inventory of single-family homes.
 The affordable housing crisis in Minnesota is a pressing issue that requires immediate action.
 By increasing funding for housing creation and preservation, supporting diverse housing choices, and implementing effective assistance programs, affordable housing will provide long-term benefits such as building generational wealth, permanent housing, and stable communities.
-Home Meet Jack The Issues Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 Meet Jack The Issues Volunteer Donate ← Back to Issues Affordable Housing “More families are only one paycheck from being evicted.” Owning your own home has been “the American Dream.” But the reality is it’s a dream within reach of ever fewer people.
+Home Meet Jack Issues Endorsements Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 Meet Jack Issues Endorsements Donate ← Back to Issues Affordable Housing “More families are only one paycheck from being evicted.” Owning your own home has been “the American Dream.” But the reality is it’s a dream within reach of ever fewer people.
 Homelessness is real in rural Minnesota.
 More young people are moving back in with their parents.
 More families are only one paycheck from being evicted.
@@ -30,7 +30,7 @@ I will also work to develop more private/public relationships to ensure that the
 We must ensure that our older residents have safe and stable housing while increasing the inventory of single-family homes.
 The affordable housing crisis in Minnesota is a pressing issue that requires immediate action.
 By increasing funding for housing creation and preservation, supporting diverse housing choices, and implementing effective assistance programs, affordable housing will provide long-term benefits such as building generational wealth, permanent housing, and stable communities.
-Home Meet Jack The Issues Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 Meet Jack The Issues Volunteer Donate ← Back to Issues Affordable Housing “More families are only one paycheck from being evicted.” Owning your own home has been “the American Dream.” But the reality is it’s a dream within reach of ever fewer people.
+Home Meet Jack Issues Endorsements Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 Meet Jack Issues Endorsements Donate ← Back to Issues Affordable Housing “More families are only one paycheck from being evicted.” Owning your own home has been “the American Dream.” But the reality is it’s a dream within reach of ever fewer people.
 Homelessness is real in rural Minnesota.
 More young people are moving back in with their parents.
 More families are only one paycheck from being evicted.
@@ -46,5 +46,5 @@ I will also work to develop more private/public relationships to ensure that the
 We must ensure that our older residents have safe and stable housing while increasing the inventory of single-family homes.
 The affordable housing crisis in Minnesota is a pressing issue that requires immediate action.
 By increasing funding for housing creation and preservation, supporting diverse housing choices, and implementing effective assistance programs, affordable housing will provide long-term benefits such as building generational wealth, permanent housing, and stable communities.
-Home Meet Jack The Issues Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 This site requires JavaScript To view this website, enable JavaScript in your browser settings and reload the page.
+Home Meet Jack Issues Endorsements Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 This site requires JavaScript To view this website, enable JavaScript in your browser settings and reload the page.
 Reload page

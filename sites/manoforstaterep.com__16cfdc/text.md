@@ -15,11 +15,11 @@ I’m laser-focused on keeping Texas affordable and ensuring the next generation
 Houston is a great place to live, work, and raise a family.
 Let’s keep it that way—and make it even stronger for the generations to come.
 It is an honor to serve West Houston and Texas.
-#txlege #HD133 11 View on Facebook State Representative Mano DeAyala #ago + 1 Photos from Texas Freedom Alliance's post 6 View on Facebook State Representative Mano DeAyala #ago There are plenty of ways to get involved with Team Mano and show your support across District 133.
+#txlege #HD133 12 1 View on Facebook State Representative Mano DeAyala #ago + 1 Photos from Texas Freedom Alliance's post 6 View on Facebook State Representative Mano DeAyala #ago There are plenty of ways to get involved with Team Mano and show your support across District 133.
 Request a yard sign, join us for a block walk, make calls and help spread the word on social media.
 I’d be honored to have your support.
 Join Team Mano today: https://bit.ly/3VoAZ7c.
-43 View on Facebook State Representative Mano DeAyala #ago A great evening celebrating National Night Out 2026 in Country Village!
+51 2 View on Facebook State Representative Mano DeAyala #ago A great evening celebrating National Night Out 2026 in Country Village!
 Thank you to Corrie Kennelly, Laura Miller, and Erin Valdez for organizing this year’s celebration and bringing our community together.
 I enjoyed catching up with friends and neighbors—and especially appreciated the opportunity to visit with the constables who work every day to keep our communities safe.
 Strong neighborhoods and strong relationships with law enforcement help make West Houston such a great place to call home.

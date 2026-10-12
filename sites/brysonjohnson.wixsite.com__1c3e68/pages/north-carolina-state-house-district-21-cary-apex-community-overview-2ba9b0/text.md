@@ -1,5 +1,5 @@
 top of page Donate to Help Reach Cary and Apex Voters Bryson Johnson for NC House District 21 About Bryson About District 21 Donate Socials Facebook Instagram Youtube About NC Representatice Ya Liu The Candidates of District 21 HOW ARE YOU DIFFERENT?
-Blog Asian Americans for Bryson Bryson refuses all PAC money.
+NC Lottery Blog Asian Americans for Bryson Bryson refuses all PAC money.
 When you donate, you fund a campaign run FOR THE PEOPLE, not SPECIAL INTERESTS!
 North Carolina State House District 21: Cary and Apex’s Thriving Community ​​North Carolina State House District 21, located in the growing communities of Cary and Apex, North Carolina, represents one of the most vibrant and dynamic regions in the state.
 Known for its strong economy, diverse population, and family-friendly neighborhoods, District 21 in Wake County reflects the spirit of the American dream—where Cary and Apex Voter families, professionals, and entrepreneurs come to build opportunity and community.​ ​​​​​​​​​​​​​​​​A Diverse Community in Cary and Apex One of the defining strengths of NC House District 21 is its cultural diversity.

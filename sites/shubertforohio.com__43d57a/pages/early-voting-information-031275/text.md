@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information DONATE GET INVOLVED Voter Information Your vote is your voice.
+top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED Voter Information Your vote is your voice.
 Making a plan to vote early ensures that you are part of the movement to build a stronger future for Ohio.
 Whether in-person or by absentee ballot, participation is the cornerstone of our state's success.
 Important Deadlines Registration Deadline Monday, October 5, 2026 Ensure you are registered to vote by this date to participate in the election.

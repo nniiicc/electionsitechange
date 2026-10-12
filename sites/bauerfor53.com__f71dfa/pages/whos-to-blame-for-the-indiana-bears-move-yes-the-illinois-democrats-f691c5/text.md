@@ -22,4 +22,4 @@ It’s not at all clear to me whether this was actually intended to be a serious
 And this all happened not because of the Bears but because the Democrats controlling the Illinois House and Senate were neither willing to work together to build consensus among their own party membership, nor to work constructively with Republicans to build a bipartisan consensus – and that’s the largest failure of all of them.
 Senate Democrats in particular are now insisting that they wisely stood up against selfish billionaire demands, but when everyone expected that the Senate would fix the multitude of flaws in the House bill, to instead pass an absurd last-minute bill was anything but “wise.” ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

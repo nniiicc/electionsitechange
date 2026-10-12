@@ -29,4 +29,6 @@ Their privacy practices govern those properties.
 14) Changes to This Policy We may update this Policy from time to time.
 The “Effective Date” above reflects the latest revision.
 Material changes will be posted on this page.
-15) Contact Us Matthew Montavon for Congress Phone: tel: (941) 203 9245 Email: info@montavonforcongress.com Mailing Address: PO Box 17413, Sarasota, FL 34276 PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+15) Contact Us Matthew Montavon for Congress Phone: tel: (941) 203 9245 Email: info@montavonforcongress.com Mailing Address: PO Box 17413, Sarasota, FL 34276 PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

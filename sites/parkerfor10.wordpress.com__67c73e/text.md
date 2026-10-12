@@ -25,7 +25,7 @@ Why?] From birth to the age of reason, and in case of mental disability, decisio
 Living wills made while a person was in command of their faculties must be honored.
 What’s happening?
 Parker for 10 is the campaign to challenge Tammy Nichols for her Idaho Senate seat.
-Nancy Parker wants our legislature to put Idaho’s children and workers first Blog at WordPress.com.
+Nancy Parker wants our legislature to put Idaho’s children and workers first Create a free website or blog at WordPress.com.
 Loading Comments...
 Write a Comment...
 Email (Required) Name (Required) Website Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?

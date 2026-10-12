@@ -1,12 +1,4 @@
-Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events Federal Hill Columbus Day Parade The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.
-Atwells Avenue and surrounding roads will be closed to vehicle traffic during the time of the parade from 11 am – 1 pm.
-Come enjoy, bring your flags and experience the culture, energy and pride that makes this parade a Federal Hill favorite.
-PARKING There are over 1000 parking spaces available throughout the Avenue.
-Various restaurants have opened valet stations.
-We recommend asking the restaurant you plan to dine at if they have done this so they can direct you to find the location.
-Paid valet parking lots are available at 126 Spruce Street, 107 Federal Street, 57 Sutton Street, 90 DePasquale Ave, and 70 Dean Street.
-Additional on-street parking is available throughout Federal Hill.
-Woonsocket Autumnfest Parade Autumnfest is a family‑friendly, multi‑day festival held annually in Woonsocket, RI, at World War II Veterans Memorial Park (40 Snow Street) It features live music, artisan and food vendors, carnival rides, kids’ activities, fireworks, and the signature 10‑division Knights of Columbus Columbus Day Parade on Monday, October 12 2026 Dates & Parade Time Friday, Oct 9, 2026: 6:00 pm – 10:00 pm Saturday, Oct 10, 2026: 10:00 am – 10:00 pm Sunday, Oct 11, 2026: 10:00 am – 10:00 pm PARADE Monday, Oct 12, 2026 Parade kicks off at 9:30 a.m.
+Press Releases Internal Poll Showing Block Leading Three-Way Race ▶ Ken Block for Governor Home About Issues Events Media & Press Poll Results Reserve your Bumper Sticker Donate Events Woonsocket Autumnfest Parade Autumnfest is a family‑friendly, multi‑day festival held annually in Woonsocket, RI, at World War II Veterans Memorial Park (40 Snow Street) It features live music, artisan and food vendors, carnival rides, kids’ activities, fireworks, and the signature 10‑division Knights of Columbus Columbus Day Parade on Monday, October 12 2026 Dates & Parade Time Friday, Oct 9, 2026: 6:00 pm – 10:00 pm Saturday, Oct 10, 2026: 10:00 am – 10:00 pm Sunday, Oct 11, 2026: 10:00 am – 10:00 pm PARADE Monday, Oct 12, 2026 Parade kicks off at 9:30 a.m.
 The parade is the closing event of the festival weekend, with the park open until about 6:00 pm after the parade Conversation with Ken - Portsmouth Pizza.
 Cash Bar.
 Ken speaks at 6:30 p.m.
@@ -23,6 +15,14 @@ R.S.V.P to michelle@blockforgovernor.com East Bay Chamber Gubernatorial Forum Ad
 Advance registration is encouraged.
 Hear directly from the candidates vying to become Rhode Island's next Governor The East Bay Chamber of Commerce invites business leaders, community members, and voters to attend this free public forum.
 Gain firsthand insights into where the candidates stand on key issues impacting public policy, regional economic growth, and the business climate across Rhode Island.
+Federal Hill Columbus Day Parade The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.
+Atwells Avenue and surrounding roads will be closed to vehicle traffic during the time of the parade from 11 am – 1 pm.
+Come enjoy, bring your flags and experience the culture, energy and pride that makes this parade a Federal Hill favorite.
+PARKING There are over 1000 parking spaces available throughout the Avenue.
+Various restaurants have opened valet stations.
+We recommend asking the restaurant you plan to dine at if they have done this so they can direct you to find the location.
+Paid valet parking lots are available at 126 Spruce Street, 107 Federal Street, 57 Sutton Street, 90 DePasquale Ave, and 70 Dean Street.
+Additional on-street parking is available throughout Federal Hill.
 Conversation with Ken - Newport Attendance is limited to 70 R.S.V.P by October 5 to: Michelle@blockforgovernor.com Refreshments will be served WJAR Channel 10 Gubernatorial Debates Moderated by Gene Valicenti Airs live on NBC 10 and COASTAL ABC Streams live on: turnto10.com, coastalabc.com, NBC 10 Facebook page and YouTube channel Sankofa World Market Visit the Sankofa World Market in Providence.
 Eggs & Issues: Gubernatorial Candidate Forum The Northern Rhode Island Chamber of Commerce invites you to Eggs & Issues featuring candidates for Rhode Island Governor to hear from candidates about the issues shaping our state's future.
 This is a rare opportunity to hear directly from the candidates vying to lead Rhode Island, ask questions, and weigh in on the policies that matter most to the business community.

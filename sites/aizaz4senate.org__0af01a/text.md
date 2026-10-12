@@ -29,6 +29,4 @@ View our Privacy Policy & Terms & Conditions .
 Join the Campaign Aizaz Shaikh for State Senate Paid for by Aizaz 4 Senate, Inc.
 Home About Issues Get Involved Sign Up Privacy Policy Terms & Conditions © # Aizaz 4 Senate, Inc.
 All rights reserved.
-Edit with Know Where to Vote Polling Place & Early Voting Don't show up at the wrong door.
-Look up your assigned polling place for Election Day, plus early voting locations and hours across your county — all in one quick search.
-Find your voting location Close Close
+Edit with

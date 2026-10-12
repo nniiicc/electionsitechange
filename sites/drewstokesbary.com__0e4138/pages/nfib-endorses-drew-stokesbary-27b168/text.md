@@ -4,7 +4,7 @@ In a letter, NFIB wrote that Drew Stokesbary “demonstrates a strong understand
 NFIB, “the Voice of Small Business,” is the nation’s leading small business association with nearly 8,250 members in Washington state and 350,000 across the country.
 Learn more at nfib.com/washington .
 Drew Stokesbary was previously endorsed by the Auburn Area Chamber of Commerce, which has more than 475 business partners from Auburn, Algona, Pacific and unincorporated south King and north Pierce Counties.
-Endorsements More For You “The trouble with politicians” In the News Tacoma News Tribune profiles Rep.
-Stokesbary’s efforts to relieve Sumner traffic In the News Rep.
-Stokesbary’s first bill passes in state House In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements More For You The Times recommends: Rep.
+Drew Stokesbary (2020) Endorsements Bills sponsored by Rep.
+Stokesbary signed into law In the News Stand for Children announces 2014 legislative candidate endorsements Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

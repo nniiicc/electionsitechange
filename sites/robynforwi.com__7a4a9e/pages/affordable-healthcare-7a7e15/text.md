@@ -36,4 +36,4 @@ Wade, I joined my Democratic colleagues to introduce the Restore Roe Act to repe
 This session, I joined my Democratic colleagues in introducing the Abortion Rights Preservation Act .
 This bill repeals the 1849 criminal abortion ban and repeals a number of restrictions that prevent access to healthcare and puts women’s lives in danger.
 See my Reproductive Freedom page for more!
-Learn more about Robyn’s Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care for Climate Violence Prevention Justice for All Working Together  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram Paid for by Friends of Robyn Vining Privacy Policy
+Learn more about Robyn’s Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care for Climate Violence Prevention Justice for All Working Together  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

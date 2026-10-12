@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation education The agenda PACE Act Pay As Costs Escalate An Act relating to public school funding and school personnel, including state supplemental aid, teacher and para-educator pay and recruitment, and state requirements for school districts, making appropriations, and including effective date and applicability provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including the tradeoffs, and my draft of the legal text.
 Page one See where it goes The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 Iowa schools got a 2 percent raise in state aid this year.
@@ -51,7 +51,7 @@ Point at or tap a box or a stream to see the amounts.
 The price floor's cost is a range from our model, built on the Legislative Services Agency's school aid estimates and federal price data, and it assumes prices keep rising this fall at about the pace they have all year.
 The other streams are the bill's fixed yearly amounts.
 Free online courses for homeschool students are not priced and would add more.
-The price floor Teachers and staff The same numbers, side by side The price floor Teachers and staff First school year School aid raised to the price floor, compared with another raise like this year's State of Iowa → to School district budgets $62 million to $98 million Raises for teachers with twelve or more years State of Iowa → to Teachers in the classroom $25 million Rural teacher commitment awards State of Iowa → to Teachers in the classroom $5 million Loan forgiveness for rural teachers State of Iowa → to Teachers in the classroom $2 million Para-educator pay supplement State of Iowa → to Para-educators $7 million Grants for para-educators training to teach State of Iowa → to Para-educators $3 million Help for high-need schools State of Iowa → to High-need schools $10 million The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+The price floor Teachers and staff The same numbers, side by side The price floor Teachers and staff First school year School aid raised to the price floor, compared with another raise like this year's State of Iowa → to School district budgets $62 million to $98 million Raises for teachers with twelve or more years State of Iowa → to Teachers in the classroom $25 million Rural teacher commitment awards State of Iowa → to Teachers in the classroom $5 million Loan forgiveness for rural teachers State of Iowa → to Teachers in the classroom $2 million Para-educator pay supplement State of Iowa → to Para-educators $7 million Grants for para-educators training to teach State of Iowa → to Para-educators $3 million Help for high-need schools State of Iowa → to High-need schools $10 million The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 The math What it costs and who pays The price floor School aid raised to the price floor, compared with another raise like this year's $62 million to $98 million Teachers and staff Raises for teachers with twelve or more years $25 million Rural teacher commitment awards $5 million Loan forgiveness for rural teachers $2 million Para-educator pay supplement $7 million Grants for para-educators training to teach $3 million Help for high-need schools $10 million First school year, stream by stream.
 Each bar starts at zero, and they all share one scale.
@@ -99,44 +99,38 @@ The gap between the two notes works out to $57 million to $60 million per point 
 That's a little above what our method gives for the same year, so the true cost may run a few percent over our range.
 Both notes come from the same agency and the same data, so this only shows our arithmetic matches theirs.
 It isn't a second, independent estimate.
-The limits of our case What the data does not support Brett's post said this was the third year in a row that school funding fell short of inflation.
-That undersells it.
-Measured against the rise in prices over the calendar year before lawmakers voted, every raise since school year 2022-23 has been smaller, five in a row.
+Open questions What we don't know yet Measured against the rise in prices over the calendar year before lawmakers voted, every raise since school year 2022-23 has been smaller, five in a row.
 Measured against prices during the school year itself, the pattern holds for every school year that has finished since then.
-This school year isn't over, so we can't say it yet for this one.
+This school year isn't over, so I can't say it yet for this one.
 The about 2.6 percent for last year averages the eleven months the Bureau of Labor Statistics published.
 It didn't publish October 2025.
 December to December, prices rose 2.7 percent.
 Either way, it's more than 2 percent.
-We can't say the high-need schools money was never paid.
+I can't say the high-need schools money was never paid.
 In January 2017, the Department of Education's own school finance guide said it had not been funded.
 Since then the start date moved forward almost every session, but in 2020 the Legislature left it alone, so for school year 2020-21 the ten million dollars was on the books as the last claim on the state's teacher quality money.
-We haven't found out whether any money reached it that year.
+I haven't found out whether any money reached it that year.
 A law can't bind a future Legislature.
 Lawmakers could set the floor aside in any year's school aid bill, the way this year's bill set aside the existing law's own deadline for enacting the rate.
 What the floor does is make skipping it a vote on the record.
 If a future Legislature decides our schools can fall behind prices again, voters should get to see exactly who made that call.
-The same limit shapes the red tape rule.
+That limit also shapes the red tape rule.
 It covers only the reporting rules the state board and the Department of Education write.
 A mandate the Legislature passes is outside it, and the rule retired can't be one that state or federal law requires.
 The department has to name requirements in statute that lawmakers could repeal, but only lawmakers can repeal them.
 Lawmakers should hold themselves to the same rule: when they add a reporting mandate for schools, they should repeal one, and the department's yearly list tells them where to start.
-Brett's post mentioned the state's rural loan program.
-No Iowa teacher program goes by that name.
-The closest match is teacher shortage loan forgiveness, which covers shortage areas the state names by geography or subject, but only for teaching done in the first ten years after graduation.
-The bill opens that one.
+Teacher shortage loan forgiveness covers shortage areas the state names by geography or subject, but only for teaching done in the first ten years after graduation.
+The bill opens it up.
 The state's Teach Iowa scholar grants also set aside $96,533 this year for teachers in small, remote towns, but those grants go only to top students coming out of teacher preparation programs.
-We didn't find money for loan forgiveness in this year's education budget bill.
+I didn't find money for loan forgiveness in this year's education budget bill.
 That's one bill, not proof the program is unfunded.
-We can't say what each experienced teacher would get.
-That depends on how many full-time teachers have twelve or more years, and we don't have a count we trust.
+I can't say what each experienced teacher would get.
+That depends on how many full-time teachers have twelve or more years, and I don't have a count I trust.
 The $9,183 gap compares Iowa's average salary of $65,312 with a national average of $74,495, both for school year 2024-25, from the National Education Association's annual Rankings and Estimates .
 The NEA is a teachers' union.
 It builds these figures from a survey of state education departments.
-We haven't checked them against federal data.
-Brett's post also said educators asked for a five percent raise.
-We haven't checked that against the educators' own published priorities, so it's left off the bill.
-The other side's strongest points Where the evidence cuts against us Iowa teacher pay is catching up.
+I haven't checked them against federal data.
+Who gives something up The tradeoffs Iowa teacher pay is catching up.
 The average rose 4.7 percent in school year 2024-25, over the year before, faster than the 3.5 percent national rise, and Iowa moved from 32nd to 30th among the fifty states and the District of Columbia, counting the highest-paying as first.
 That's mostly the teacher pay law passed in 2024.
 It raised starting pay to at least $47,500 in school year 2024-25, then $50,000 from July 2025, and pay for teachers with at least twelve years to at least $60,000, then $62,000.
@@ -159,7 +153,7 @@ The Consumer Price Index measures what households pay, not what schools pay.
 Most of a school's budget is people.
 In a year when wages rise faster than prices, a floor tied to prices could still leave schools behind.
 In a year when gas and groceries spike, it could require more than school costs rose.
-We chose this measure because it comes out every January, before lawmakers vote, and anyone can look it up.
+I chose this measure because it comes out every January, before lawmakers vote, and anyone can look it up.
 It's a floor, not a ceiling.
 In a year when school wages outrun prices, lawmakers can and should give more.
 The floor can cost more than lawmakers planned in a bad year.

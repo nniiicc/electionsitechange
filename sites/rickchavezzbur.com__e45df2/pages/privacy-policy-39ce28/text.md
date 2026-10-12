@@ -1,4 +1,4 @@
-top of page HOME MEET RICK ENDORSEMENTS STATEMENTS OF SUPPORT PRIORITIES ADDRESSING HOMELESSNESS GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS GET THE FACTS DONATE PRIVACY POLICY HOME MEET RICK ENDORSEMENTS STATEMENTS OF SUPPORT PRIORITIES ADDRESSING HOMELESSNESS GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS GET THE FACTS DONATE Rick Chavez Zbur for Assemblymember 2022 cares about your privacy rights, and about providing you with the information you need in order to protect them.
+top of page HOME MEET RICK ENDORSEMENTS PRIORITIES GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS DONATE PRIVACY POLICY HOME MEET RICK ENDORSEMENTS PRIORITIES GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS DONATE Rick Chavez Zbur for Assemblymember 2022 cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we’ve created this policy to explain our privacy practices.
 This applies only to our website, www.rickchavezzbur.com. ​ We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices.
 We may also modify this policy if we find better ways to inform you of products or services that we think will be of interest.
@@ -44,4 +44,4 @@ We encourage you to review and understand their privacy practices before providi
 You should refer back to this page often for the latest information.
 If we decide to change this policy, we will post a new policy on our site and change the date at the top of the policy. ​ How to Contact Us If you have any questions, comments or concerns, please contact us by e-mail at info@rickchavezzbur.com , or at our mailing address: c/o Reed & Davidson, LLP, 515 S.
 Figueroa St., Suite 1110, Los Angeles, CA 90071.
-FACEBOOK TWITTER INSTAGRAM PAID FOR BY RE-ELECT RICK CHAVEZ ZBUR FOR ASSEMBLY 2026 (FPPC ID# 1477252) 1700 TRIBUTE ROAD, SUITE 201, SACRAMENTO, CA 95815 Privacy Policy DONATE bottom of page
+FACEBOOK INSTAGRAM PAID FOR BY RE-ELECT RICK CHAVEZ ZBUR FOR ASSEMBLY 2026 (FPPC ID# 1477252) 1700 TRIBUTE ROAD, SUITE 201, SACRAMENTO, CA 95815 Privacy Policy DONATE bottom of page

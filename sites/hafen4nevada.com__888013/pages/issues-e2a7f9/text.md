@@ -20,4 +20,4 @@ It is very difficult to convince me there is a need to increase the tax burden o
 At the same time, we have a duty to ensure that we plan for tomorrow’s bills by paying them today, rather than kicking the can down the road for our future generations to deal with them.
 Broken promises and a blatant disregard for the constitution to raise taxes will only slow our growth and drive businesses out.
 Donate Today Paid for by Friends of Gregory T.
-Hafen Contact Gregory@hafen4nevada.com 775-209-3006
+Hafen Terms & Conditions and Privacy Policy Contact Gregory@hafen4nevada.com 775-209-3006

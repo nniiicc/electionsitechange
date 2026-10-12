@@ -24,7 +24,7 @@ T-Shirts, signs, and more!
 Show your support for John Croisant with official campaign merchandise.
 Every purchase helps us reach more voters across Oklahoma's First District.
 SUPPORT JOHN!
-Multiple Dates Sun, Oct 11 Canvassing | John Starks Park / John Starks Park Learn more Oct 11, 2026, 1:00 PM – 3:00 PM John Starks Park, 1622 N Main St, Tulsa, OK 74106, USA 2 days to the event Tue, Oct 13 South Tulsa | Meet & Greet / The Brotherton Residence RSVP Oct 13, 2026, 4:30 PM – 6:00 PM The Brotherton Residence, 8709 S 69th E Ave Tulsa, OK 74133 Join John Croisant in South Tulsa at The Brotherton Residence to hear about his vision for the future of Oklahoma's First District as Congressman!
+2 days to the event Tue, Oct 13 South Tulsa | Meet & Greet / The Brotherton Residence RSVP Oct 13, 2026, 4:30 PM – 6:00 PM The Brotherton Residence, 8709 S 69th E Ave Tulsa, OK 74133 Join John Croisant in South Tulsa at The Brotherton Residence to hear about his vision for the future of Oklahoma's First District as Congressman!
 ELECTION DAY IS TUESDAY, NOVEMBER 3, 2026.
 POLLS ARE OPEN 7 AM - 7 PM.
 EARLY VOTING: October 28 - 30 from 8 am - 6 pm OR October 31 from 8 am - 2 pm CHECK YOUR VOTER REGISTRATION ELECTION DAY IS TUESDAY, NOVEMBER 3, 2026.

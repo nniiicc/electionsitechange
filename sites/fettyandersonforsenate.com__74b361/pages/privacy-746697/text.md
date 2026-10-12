@@ -1,6 +1,6 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
-Watch the journey → Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Privacy Policy How we handle your information.
+Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Privacy Policy How we handle your information.
 We will never sell or share your contact information without your permission.
 If your privacy is ever compromised we will advise you immediately.
 If you submit information through forms on this site (such as the Contact or Volunteer forms), that information is used to contact you and is delivered via our email service provider (Resend).

@@ -22,4 +22,4 @@ The rest of your ballot Do not skip the judicial retention section.
 Elizabeth's notes on the Cook County judges up for retention are in What about all the judges?
 Dates and rules from the Cook County Clerk, Ways to Vote , checked October 11, 2026. ← Home Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

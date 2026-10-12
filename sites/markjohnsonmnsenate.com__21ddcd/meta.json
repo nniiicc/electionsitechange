@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.markjohnsonmnsenate.com/",
- "fingerprint": "95b79270c853d44ce3711ce0b2bf559b99461ddd",
+ "fingerprint": "40dbb1b90ba1d07b7065da7ca733b2dd98284efb",
  "format": 3,
  "paid_for_by": "Paid for by Mark Johnson for State Senate Copyright ©#",
- "title": "Mark Johnson, Senator 1 - Home Page",
- "years_mentioned": []
+ "rendered": false,
+ "title": "Mark Johnson, Senator 1 - Home",
+ "years_mentioned": [
+  "2016"
+ ]
 }

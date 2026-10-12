@@ -1,4 +1,4 @@
-0 Skip to Content 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Hi, I’m Eleni Kavros DeGraw, your CT State Representative for the 17th District—Avon and Canton.
+0 Skip to Content 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News Endorsements 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News Endorsements 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News Endorsements 🗳 Voter Info Hi, I’m Eleni Kavros DeGraw, your CT State Representative for the 17th District—Avon and Canton.
 I’m running for reelection to continue serving District 17.
 LAWN SIGNS REQUEST YOURS NOW Please request your lawn sign here and we will bring your sign to you in early/mid September.
 Dear friends and neighbors, As the people who have always had my back and supported me, I want you to know first that I’m running for re-election.

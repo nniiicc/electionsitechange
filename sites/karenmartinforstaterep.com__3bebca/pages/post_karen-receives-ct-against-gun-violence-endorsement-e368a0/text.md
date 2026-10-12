@@ -9,7 +9,7 @@ She also understands that effective public policy requires listening to law-abid
 “This issue should not be driven by fear or division,” Karen said.
 “It should be guided by responsibility, public safety, and a willingness to work together on practical solutions that can save lives.” The endorsement and “A” grade reflect CT Against Gun Violence’s confidence that Karen will be a strong advocate for gun-violence prevention in the Connecticut General Assembly.
 Karen proudly thanks CT Against Gun Violence for its endorsement and looks forward to working toward a safer East Haven and a safer Connecticut.
-Recent Posts See All Join us on Wednesdays...Notes for Votes!
+Recent Posts See All Karen Receives College Democrats of Connecticut Endorsement!
+Join us on Wednesdays...Notes for Votes!
 Rescheduled Grand Opening - East Haven DTC Headquarters!
-Karen Receives Endorsement From AFSCME Council 4!
 Subscribe to Karen's Newsletter Get the latest updates from the campaign trail Enter your email here * Subscribe to Karen's newsletter. * SUBSCRIBE Follow Karen on Facebook Home About Me News Get Involved Contact Karen Martin For State Representative Paid for by the committee to elect Karen Martin for State Representative Treasurer Rich Esposito, Approved by Karen Martin bottom of page

@@ -1,16 +1,42 @@
-0 Skip to Content Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Open Menu Close Menu Open Menu Close Menu Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Home Folder: About Back Meet Maura Endorsements Early Voting Issues Folder: Take Action Back Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE EVENTS Featured EVENTS Summary Block This block has no content yet.
-Items you add to the page connected to this block will display here.
-Events Campaign Calendar View Maura’s campaign calendar and keep scrolling to see all event listings.
+0 Skip to Content Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Open Menu Close Menu Open Menu Close Menu Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Home Folder: About Back Meet Maura Endorsements Early Voting Issues Folder: Take Action Back Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE EVENTS Featured EVENTS Events Oct 13 Start of 2026 Early Voting!
+Early voting starts October 13th and ends October 30th.
+Make sure to check you My Voter Page before voting!
+Read more → Oct 13 Fayette County Democratic Committee Volunteer , Text Bank Texting Tuesdays with Maura Keller Fayette County Democratic Committee Volunteer , Text Bank Volunteer with the Maura Keller campaign!
+Come join our text-banking party every Tuesday.
+Read more → Fayette County Democratic Committee Volunteer , Text Bank Oct 19 Newnan-Coweta Chamber of Commerce Candidate Forum Keller v.
+Jack.
+October 19th.
+Stay tuned for more!
+Read more → Oct 20 Fayette County Democratic Committee Volunteer , Text Bank Texting Tuesdays with Maura Keller Fayette County Democratic Committee Volunteer , Text Bank Volunteer with the Maura Keller campaign!
+Come join our text-banking party every Tuesday.
+Read more → Fayette County Democratic Committee Volunteer , Text Bank Oct 30 End of 2026 Early Voting Early voting starts October 13th and ends October 30th.
+Make sure to check you My Voter Page before voting!
+Read more → Nov 3 Election Day Early voting starts October 13th and ends October 30th.
+Make sure to check you My Voter Page before voting!
+Read more → Campaign Calendar View Maura’s campaign calendar and keep scrolling to see all event listings.
 Check back frequently for an updated event schedule!
 Can’t find an event near you?
 Email us at maura@maurakeller.com or fill out our Contact Us form to enquire about speaking engagements.
-Oct 11 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Sunday, October 11, 2026 4:00 PM 8:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
-Come canvassing in Fayetteville this Sunday.
+Oct 13 Elections Start of 2026 Early Voting!
+Tuesday, October 13, 2026 9:00 AM 7:00 PM Google Calendar ICS Early voting starts October 13th and ends October 30th.
+Make sure to check you My Voter Page before voting!
 View Event → Oct 13 Political Action , Volunteer , Fayette Texting Tuesdays with Maura Keller Tuesday, October 13, 2026 5:30 PM 7:30 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
+Come join our text-banking party every Tuesday.
+View Event → Oct 19 Elections Newnan-Coweta Chamber of Commerce Candidate Forum Monday, October 19, 2026 6:00 PM 7:00 PM Google Calendar ICS Keller v.
+Jack.
+October 19th.
+Stay tuned for more!
+View Event → Oct 20 Political Action , Volunteer , Fayette Texting Tuesdays with Maura Keller Tuesday, October 20, 2026 5:30 PM 7:30 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come join our text-banking party every Tuesday.
 View Event → Oct 25 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Sunday, October 25, 2026 4:00 PM 8:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.
+View Event → Oct 30 Elections End of 2026 Early Voting Friday, October 30, 2026 9:00 AM 7:00 PM Google Calendar ICS Early voting starts October 13th and ends October 30th.
+Make sure to check you My Voter Page before voting!
 View Event → Nov 1 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Sunday, November 1, 2026 4:00 PM 8:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
+Come canvassing in Fayetteville this Sunday.
+View Event → Nov 3 Elections Election Day Tuesday, November 3, 2026 7:00 AM 7:00 PM Google Calendar ICS Early voting starts October 13th and ends October 30th.
+Make sure to check you My Voter Page before voting!
+View Event → Oct 11 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Sunday, October 11, 2026 4:00 PM 8:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.
 View Event → Oct 10 Political Action , Volunteer , Fayette Meet and Greet and Canvass with Maura Keller | Muscogee County Saturday, October 10, 2026 4:00 PM 6:00 PM Columbus County Democratic Headquarters (map) Google Calendar ICS Meet Maura and canvass with Muscogee Democrats!
 Today at 4 PM, swing by the Muscogee Dems office at 1501 Columbus, GA, 31901, meet Maura and her team, and head out to knock on doors before the weather hits!
@@ -69,9 +95,6 @@ View Event → Sep 6 Political Action , Volunteer , Fayette Canvass with the Mau
 Come canvassing in Fayetteville this Sunday.
 View Event → Sep 5 Political Action , Volunteer , Fayette Canvass with the Maura Keller for Congress Campaign | Fayette County Saturday, September 5, 2026 10:00 AM 3:30 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Saturday.
-View Event → Sep 4 Political Action , Volunteer Canvass with the Maura Keller for Congress Campaign!
-Friday, September 4, 2026 1:00 PM 3:00 PM Fayette County Democratic Committee (map) Google Calendar ICS Volunteer with the Maura Keller campaign!
-Come canvassing in Fayetteville this Friday.
 View Event → Maura Keller is a retired Lieutenant Colonel with the United States Army.
 Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
 Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

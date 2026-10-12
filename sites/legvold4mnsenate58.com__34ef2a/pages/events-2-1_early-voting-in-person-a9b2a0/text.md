@@ -2,4 +2,5 @@
 This is more similar to voting in a polling place on Election Day, and starts # days before the election.
 For all statewide elections, every county will have at least one location where early voting is offered.
 You will complete a short certificate You will receive a ballot and vote it there After completing the ballot, you will insert it in a ballot counter Visit this link at the Secretary of State’s website to find out the Early Voting location(s) in each county: https://www.sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day/ .
-Previous Previous October 15 Legvold for Minnesota - Greenvale Township Door Knock Next Next November 3 General Election Day Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ
+Previous Previous October 15 Legvold for Minnesota - Greenvale Township Door Knock Next Next October 16 Legvold for Minnesota - Farmington Door Knock with CD2 Congresswoman Angie Craig!
+Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

@@ -20,10 +20,6 @@
 "href": "https://rushcongress.com/campaign-videos"
 },
 {
-"text": "Come Meet Me",
-"href": "https://rushcongress.com/come-meet-me"
-},
-{
 "text": "Contact",
 "href": "https://rushcongress.com/contact"
 },
@@ -38,6 +34,10 @@
 {
 "text": "Donate",
 "href": "https://rushcongress.com/donate"
+},
+{
+"text": "Events - Meet me",
+"href": "https://rushcongress.com/events-meet-me"
 },
 {
 "text": "FAQ - Top 100",

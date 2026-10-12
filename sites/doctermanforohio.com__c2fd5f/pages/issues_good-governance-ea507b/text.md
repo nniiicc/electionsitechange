@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate More Home Issues Education Healthcare Good Governance Data Centers Donate Good Governance Sunshine is the best disinfectant.
+Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate More Home Issues Education Healthcare Good Governance Data Centers Unions Donate Good Governance Sunshine is the best disinfectant.
 I support Ohio’s Sunshine Laws including Open Meeting rules and the public’s right to public records.
 I do not believe that elected officials should be allowed to sign non-disclosure agreements.
 An officeholder’s responsibility lies with the people’s best interest, not corporate interest.

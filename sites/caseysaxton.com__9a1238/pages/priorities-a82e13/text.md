@@ -1,4 +1,4 @@
-top of page HOME ABOUT About Casey Casey's Beliefs About Our Community PRIORITIES UPDATES GET INVOLVED Donate Get a Campaign Sign Legislative Issues Survey Register to Vote Sign Up for Email Updates Volunteer CONTACT Policy Priorities A Focus on Community Affordability & Cost of Living Support reductions in the overall tax burden carried by citizens when possible.
+top of page HOME ABOUT About Casey Casey's Beliefs About Our Community PRIORITIES SUPPORTERS GET INVOLVED Donate Get a Campaign Sign Legislative Issues Survey Register to Vote Sign Up for Email Updates Volunteer CONTACT Policy Priorities A Focus on Community Affordability & Cost of Living Support reductions in the overall tax burden carried by citizens when possible.
 Oppose government regulation that leads to excessive fees or costs for citizens or businesses.
 Support policy that reduces overall cost of government so we can ask citizens to carry less of the bill.
 Business & Economic Development Support policies that allow businesses to grow, hire more people, and innovate responsibly.

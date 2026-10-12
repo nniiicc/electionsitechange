@@ -29,4 +29,4 @@ Cherokee County Partial — includes portions of the county Election Office Daws
 Every single vote matters.
 Make yours count on November 3.
 Support Tony's Campaign Am I in the District? © # Paid for by Kozycki for Congress.
-All Rights Reserved. | Privacy Policy & Terms
+All Rights Reserved. | Privacy Policy & Terms | Media

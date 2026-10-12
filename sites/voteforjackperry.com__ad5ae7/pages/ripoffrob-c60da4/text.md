@@ -21,10 +21,11 @@ Check the facts: HB-5414 vote record Sampson refuses to bring home $$$ for distr
 Not rob sampson.
 Only six senators voted against it: rob sampson was one of them.
 Without state funding, towns are forced to raise property taxes. instead of doing his job, rob plays politics and you pay the price .
-Check the facts: SB-1 vote record Sampson rejects tax cuts for ct.
-The 2023 bipartisan budget included the largest personal income-tax cut in ct history, offering relief for over 1 million residents.
-Only one senator voted against it: rob sampson Sampson is critical of taxes, but rejects actual solutions to lower them.
-Check the facts: HB-6941 vote record HEAR ROB IN HIS OWN WORDS watch: SAMPSON has "nothing against" AI DATA CENTERS in ct Rob sampson: "I have nothing against data centers.
+Check the facts: SB-1 vote record Sampson voted no on reining in private equity in hospitals in sb-196, the legislature passed a bill that bars any private equity investor from owning a majority stake in a hospital's main campus operations. nine senators voted against it: rob sampson was one of them. with corporate greed rampant nationwide, connecticut stood up. rob sampson didn't.
+Check the facts: SB-196 vote record Sampson led the opposition against private equity in hospice.
+In 2023, the senate explored studying the effects of private equity in hospice care. sampson spoke on the floor in opposition, calling the idea that profit motive weakens the quality of care "dangerous" The commonsense bill stalled after opposition led by Sampson.
+Check the facts: Sampson's senate floor speech Sampson voted against limits on private equity buying family homes the senate passed sb-256, which would bar private equity from buying single-family or two-family homes unless it had been listed for 90 days. nine senators voted against it: rob sampson was one of them.
+Check the facts: sb-256 roll call HEAR ROB IN HIS OWN WORDS watch: SAMPSON has "nothing against" AI DATA CENTERS in ct Rob sampson: "I have nothing against data centers.
 I actually believe ai will be a benefit to humanity." ROB SAMPSON TWISTS HIS POSITIONS, BUT HIS VOTES SPEAK FOR themselves.
 CHECK THE FACTS.
 HB-6003 SB-4 HB-5414 SB-1 Paid for by Perry 2026.

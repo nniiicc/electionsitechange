@@ -1,6 +1,6 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
-Watch the journey → Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Press Kit Resources for media, supporters, and anyone covering the campaign.
+Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Press Kit Resources for media, supporters, and anyone covering the campaign.
 Media Contact Email: contact@fettyandersonforsenate.com Phone: 681-350-3804 Photos Click an image to view the full-resolution version.
 Right-click and save to download.
 Portrait Campaign banner Short Bio Rachel Fetty Anderson is a public interest attorney, former Morgantown City Council member, and Democratic candidate for U.S.

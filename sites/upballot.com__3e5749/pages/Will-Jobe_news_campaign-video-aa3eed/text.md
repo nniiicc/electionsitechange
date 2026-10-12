@@ -1,4 +1,4 @@
-About Will Issues Get Involved Events Updates Donate Now Home About Will Issues Get Involved Events Updates Donate Now October 11, 2026 Campaign Video Father.
+About Will Issues Get Involved Events Updates Donate Now Home About Will Issues Get Involved Events Updates Donate Now October 12, 2026 Campaign Video Father.
 Minister.
 Attorney.
 Veteran.

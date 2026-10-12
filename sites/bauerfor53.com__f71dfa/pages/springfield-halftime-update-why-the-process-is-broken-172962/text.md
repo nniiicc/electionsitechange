@@ -57,4 +57,4 @@ It might be a worthy cause, but the administrative cost would be significant (ho
 HB5507 would ban “ultraprocessed” foods from school cafeterias, with definitions of what is and isn’t allowed which reflect fads that are ever-changing.
 There are many more bills being moved forward in the legislature, but this is just a small selection to highlight how important it is for Republicans to have a voice and how much reform is needed, so that bipartisan coalitions can work together to get bills passed that, right now, the Democratic leaders can block unilaterally. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

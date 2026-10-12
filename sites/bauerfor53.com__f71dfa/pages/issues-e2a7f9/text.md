@@ -52,4 +52,4 @@ I’ll regularly provide more details on important issues for the northwest subu
 And you can count on me to share the data and the facts, not spin, though some information may become outdated as laws change or statistics are updated.
 Illinois capitol dome https://commons.wikimedia.org/wiki/File:Illinoiscapitoldome.jpg Read Elizabeth's commentary and policy proposals → Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

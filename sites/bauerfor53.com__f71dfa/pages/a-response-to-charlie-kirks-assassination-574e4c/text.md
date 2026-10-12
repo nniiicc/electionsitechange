@@ -14,4 +14,4 @@ Not everybody liked his political positions, but he sought not to demagogue but 
 Whether his killer had as a tangible objective, the shutting down of his dialoging with others, or simply was angry at his words, we don’t yet know.
 But the way to honor him is to continue his mission. https://commons.wikimedia.org/wiki/File:Charlie_Kirk_(54507064098)_(cropped).jpg; Gage Skidmore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

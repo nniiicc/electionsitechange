@@ -91,30 +91,6 @@ An easy-to-use public crash map should show where crashes happen, how severe the
 I would prioritize funding for practical safety improvements such as better signs, flashing stop signs, rumble strips, and clearing blocked sight lines.
 We should not wait for a major road reconstruction to address a danger that can be corrected now.
 Families deserve roads designed to get them home safely and a government that acts before another life is lost.
-Public ownership of AI: Our work and our data helped build AI.
-We deserve ownership, a say in how it is used, and a share of the wealth it creates.
-A handful of technology billionaires should not get to decide the future of our jobs, our privacy, or our safety for us.
-Something can be profitable for shareholders and still cause enormous harm to everyone else.
-I support a public ownership model for AI so the people living with its consequences have control over its development and share in its benefits.
-When publicly owned AI services earn more than they cost to build and operate, those profits should help fund healthcare and a guaranteed income for people whose jobs AI replaces.
-If this technology allows us to produce more with less work, those gains should support a 32 hour workweek with no loss of pay.
-We should get more time with our families and greater financial security.
-If AI replaces the work that pays our bills, the money it earns should help pay those bills.
-Those protections need to be written into law.
-Public ownership must include real public accountability.
-Workers and affected communities need representation in the decisions.
-People should be able to see where the money goes, what risks have been identified, and why decisions are being made.
-Those running these systems must be responsible for protecting our safety, privacy, and livelihoods, with a process to remove them when they fail.
-Putting a government official in charge is not enough.
-Regardless of ownership, I support independent inspections, protections for employees who report dangers, and authorities with the power to stop unsafe development.
-Our private information needs protection from corporations and government alike, including strict limits on its collection, searches, sharing, and retention.
-I oppose Flock camera networks and large corporate AI data center projects in our communities.
-Going about your daily life should not mean surrendering your privacy or control over your community’s resources.
-I also support an international AI treaty with enforceable safety limits, independent inspections, and consequences for violations.
-Companies should not be able to escape safeguards simply by moving their work to another country.
-Publicly owned AI must meet the same safety requirements.
-If a system cannot be safely controlled, neither a corporation nor a government should be allowed to develop or deploy it.
-Our safety, our rights, and our ability to support our families must come first.
 Expand transportation options: Michigan needs a transportation plan that looks 20 years ahead.
 We cannot keep making decisions two years at a time, patching the same problems, and passing the growing bill to the next generation.
 Every road we build comes with decades of resurfacing, repairs, snow removal, and eventual replacement.
@@ -171,19 +147,6 @@ A subcontracting agreement should not erase those responsibilities.
 In Lansing, I will push for stronger protections that hold corporations responsible for workers whose work they control.
 My goal is to protect workers’ ability to pursue fair pay, safer conditions, and accountability from the companies with power over their jobs.
 Corporate responsibility should follow control of the work.
-Enforce antitrust laws and break up Monopolies: Locally owned businesses deserve a fair chance to compete.
-When a handful of corporations control an industry, they gain power over what families pay, what suppliers earn, and what workers can negotiate.
-We should not let the biggest companies use that power to shut out competitors and leave entire communities with fewer choices.
-I support stronger enforcement of antitrust laws, challenging mergers that would undermine competition, and breaking up illegal monopolies where necessary to restore it.
-Businesses should succeed by offering better products, better service, and fair prices.
-No corporation should be allowed to buy up its competition or block other businesses from reaching customers until people have nowhere else to turn.
-When a local business closes, the loss reaches beyond its owner.
-Workers lose jobs, local suppliers lose customers, and community organizations lose support.
-These businesses are where people get their first jobs, where neighbors know each other, and where families put years of work into building something of their own.
-Protecting their opportunity to compete helps keep jobs, money, and ownership in our communities.
-In Lansing, I will support giving Michigan’s antitrust enforcers the resources they need to investigate and challenge corporate abuses.
-I will oppose policies that help dominant corporations squeeze out independent businesses.
-A healthy economy needs room for people to start a business, earn a living, and compete without needing permission from a corporate giant.
 Enforce antitrust laws and break up Monopolies: Locally owned businesses deserve a fair chance to compete.
 When a handful of corporations control an industry, they gain power over what families pay, what suppliers earn, and what workers can negotiate.
 We should not let the biggest companies use that power to shut out competitors and leave entire communities with fewer choices.

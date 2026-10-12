@@ -34,11 +34,11 @@ Every step gets scored by independent analysts before it starts, and the next st
 I’ll publish the details of each step alongside that scoring, not before it.
 The honest truth about paying for it What we spend now.
 America spent $5.3 trillion on healthcare in 2024, about $15,500 for every person in the country.
-Who pays it.
+Who currently pays it.
 The federal government pays $1.7 trillion, through Medicare, its share of Medicaid, ACA premium help, and care for veterans and military families.
 States and local governments pay another $860 billion.
 Families pay $1.5 trillion in premiums, deductibles, and copays, and employers pay nearly $1 trillion in premiums that would otherwise show up in your paycheck.
-Who pays the $5.3 trillion (2024) Federal government $1.7T States and local $0.86T Families $1.5T Employers $0.97T Other private $0.27T Source: CMS National Health Expenditures, 2024.
+Who paid that $5.3 trillion (2024) Federal government $1.7T States and local $0.86T Families $1.5T Employers $0.97T Other private $0.27T Source: CMS National Health Expenditures, 2024.
 We’re already paying for universal coverage.
 Between the federal government and the states, our government already spends about $7,500 a year on healthcare for every American.
 Other wealthy countries spend about $7,900 per person, and that covers everyone.

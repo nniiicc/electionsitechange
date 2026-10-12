@@ -1,4 +1,4 @@
-top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Media Merch More Use tab to navigate through the menu items.
 DONATE VOLUNTEER!
 Help us build our winning coalition and "Fix the House" VOTE Check that you're ready to vote on June 16th !
 Volunteer with us today and join Team Sneed!

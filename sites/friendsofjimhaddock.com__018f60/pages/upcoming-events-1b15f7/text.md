@@ -1,26 +1,28 @@
 Skip to content Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE 0 Cart No products in the cart.
-Return to shop DONATE DONATE Upcoming Events Used for the like, share, comment, and reaction icons Honored to receive the Fraternal Order of Police Lodge #36 endorsement.
+Return to shop DONATE DONATE Upcoming Events Used for the like, share, comment, and reaction icons Friends of Jim Haddock are all invited to a free meet the candidates rally for Senator Marty Flynn and Representative Jim Haddock.
+Monday October 12th from 5:00 to 7:00 pm at Arcaro and Genell on 443 South Main St. in Old Forge Pa.
+The event is sponsored by The Lackawanna County Democratic Committee for District 118th.
+We hope to see you this Monday! ...
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 40 Shares: 10 Comments: 3 3 Comments Comment on Facebook Can I bring my wife and girlfriend?
+Lots of luck 💙 Good luck Honored to receive the Fraternal Order of Police Lodge #36 endorsement.
 I have supported the law enforcement community since my time as Mayor of Avoca and continue that work as your State Representative.
 Action speaks louder words!
 I am proud to have help provide over two million dollars in grant funding for local police departments throughout the 118th District.
 This includes funding of thirteen police vehicles.
 I thank the members of Wyoming Valley Lodge #36 for recognizing my work on their behalf. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 58 Shares: 9 Comments: 6 6 Comments Comment on Facebook Congratulations, Auguri Jim.
-A leader leading and being recognized and appreciated Congrats Jim View more comments Friends of Jim Haddock you are all invited to a meet the candidates nights being hosted for Senator Marty Flynn and State Representative Jim Haddock.
-Please see the flyer below and we hope to see on Monday, October 12th from 5:00pm to 7:00pm. ...
-See More See Less This content isn't available right now When this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.
-#ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 41 Shares: 0 Comments: 5 5 Comments Comment on Facebook Always wishing you the best, Jimmy!!
-Two great guys Wish I could make it ☹️ View more comments Door to door is a great way to hear what is on the mind of my constituents.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 86 Shares: 10 Comments: 9 9 Comments Comment on Facebook You have our Votes!!
+Congratulations Congrats Jim View more comments Door to door is a great way to hear what is on the mind of my constituents.
 The campaign has been knocking doors in Pittston Township, Hughestown and West Pittston this past week.
 We now have hit doors in all nineteen towns in the 118th district.
 Now we start our second pass to even more doors.🚪 ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 205 Shares: 10 Comments: 30 30 Comments Comment on Facebook Your sign is already in my yard!
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love haha 208 Shares: 10 Comments: 31 31 Comments Comment on Facebook My vote is on you Jimmy 🙏.
+Mine too Jim Your sign is already in my yard!
 Good luck, Jim.
-Absolutely 💯 My vote is in Jim View more comments Agriculture is Pennsylvania’s biggest industry.
+View more comments Agriculture is Pennsylvania’s biggest industry.
 I am proud to receive the endorsement from farmers and dairymen across the state for my 💯 percent voting record on farm issues.
 Farmer is the PAC that represents legislative side of the Farm Bureau of Pennsylvania.
 They know I work for them every day. ...
-See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 95 Shares: 12 Comments: 13 13 Comments Comment on Facebook Jim you work for all the people in your district.
+See More See Less #ago View on Facebook · Share Share on Facebook Share on Twitter Share on Linked In Share by Email View Comments likes love 96 Shares: 12 Comments: 13 13 Comments Comment on Facebook Jim you work for all the people in your district.
 Proud to say you are a dear friend Congratulations!
 Congratulations!
 Jim we have your back!

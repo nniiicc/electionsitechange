@@ -1,5 +1,5 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage 30 Mitch4Newtown _full Jamison Bazinet Welcome!
-For 14 years, it’s been an honor to serve you and our neighbors as Newtown’s State Representative.
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Welcome!
+Mitch for Newtown 2026 Jamison Bazinet For 14 years, it’s been an honor to serve you and our neighbors as Newtown’s State Representative.
 This is not a desk job, and certainly not a 9 to 5 commitment!
 Done well, a great Representative carries your values, along with the overall values of the community, forward and acts upon them in the formation of state policy.
 But, that's only one part of the job.
@@ -42,8 +42,8 @@ Democrat's "changed their priorities", and "repurposed" hundreds of millions of 
 Bolinsky predicted, warned and exposed it!
 It was a "hidden tax" on paying consumers - WITHOUT A VOTE OF THE LEGISLATURE!
 Neither the shut-off moratorium that caused the unpaid bills, nor PURA's authorization of the utilities to bill ratepayers for their mistakes, the mistakes of others, and all-around bad judgement - AT YOUR EXPENSE.
-Read more 14 YEAR INCUMBENT SERVING NEWTOWN ENDORSEMENTS AWARDS & HONORS NEWS & LETTERS VOTING INFO Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
+Read more VOTING INFO 14 YEAR INCUMBENT SERVING NEWTOWN AWARDS & HONORS LETTERS NEWS Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
 News Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Bolinsky Offers Thanks for Re-Election to 7th Term Balanced, Ethical & Considerate, Bolinsky Asks for Vote Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

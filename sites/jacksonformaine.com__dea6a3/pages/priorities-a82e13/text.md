@@ -16,7 +16,7 @@ Troy supports an immigration system that respects due process and human rights, 
 Pass a federal right to abortion Where Collins has failed, Troy will fight to make the right to abortion federal law.
 After Collins’ helped confirm the judges who overturned Roe v.
 Wade, Troy co-sponsored and helped pass LD 1619, one of the strongest abortion protections in the country.
-Troy is proud to have earned a 100% approval rating from Planned Parenthood Action Fund in every election he’s run in for the past decade, and he’s earned the endorsement of both Planned Parenthood of Northern New England and Reproductive Freedom for All in this Senate race.
+Troy is proud to have earned a 100% approval rating from Planned Parenthood of Northern New England in every election he’s run in for the past decade, and he’s earned the endorsement of both Planned Parenthood Action Fund and Reproductive Freedom for All in this Senate race.
 End the genocide in Gaza and stop U.S. funding for Israel's military Troy believes what's happening in Gaza is a genocide, that Benjamin Netanyahu is a war criminal, and the U.S. government has a responsibility to not enable that suffering.
 Protect the right to vote and to organize a union Troy believes democracy depends on Americans being able to exercise both their right to vote and their right to organize at work without intimidation or retaliation.
 As Maine Senate President, Troy passed a law giving our state’s loggers and haulers the same right to bargain collectively as potato farmers and lobstermen.
@@ -29,7 +29,7 @@ Troy is proud to be a strong and vocal supporter of the LGBTQ+ community and end
 Ban members of Congress from trading stocks Troy believes members of Congress should be serving their constituents, not using privileged access to information or government decisions to make money in the stock market.
 He supports a comprehensive ban on members of Congress trading individual stocks — a ban Susan Collins has opposed — and would back legislation that requires covered assets to be divested or placed beyond a member’s control.
 Overturn Citizens United and get dark money out of politics Troy believes elections should be decided by voters, not billionaires, corporations, and dark-money groups able to spend unlimited sums with little transparency.
-While Susan Collins is beholden to special interests, Troy rejects money from corporate PACs, AIPAC, and Big Oil and Big Pharma lobbyists.
+While Susan Collins is beholden to special interests, Troy rejects money from corporate PACs, AIPAC, and active Big Oil and Big Pharma lobbyists.
 In the Senate, he'll fight for a constitutional amendment to overturn Citizens United and for publicly financed federal campaigns modeled on Maine's Clean Election system.
 Get answers to frequently asked questions about Troy and his campaign To reach the campaign, email info@jacksonformaine.com .
 For press inquiries, email press@jacksonformaine.com .

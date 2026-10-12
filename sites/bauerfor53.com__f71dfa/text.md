@@ -45,4 +45,4 @@ Questions, ideas, or want to help elect Elizabeth?
 Reach the campaign directly.
 Donate Email the Campaign [email protected] Name Email Message Leave this empty Send Message ELIZABETH BAUER Elizabeth Bauer for Illinois House District 53.
 Fiscal responsibility, and reason and common sense in Springfield.
-Explore About Elizabeth Issues Positions District Events Get Involved Where to Vote Take Action Contact [email protected] Volunteer Donate This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Photo credits
+Explore About Elizabeth Issues Positions District Events Get Involved Where to Vote Take Action Contact [email protected] Volunteer Donate This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy Photo credits

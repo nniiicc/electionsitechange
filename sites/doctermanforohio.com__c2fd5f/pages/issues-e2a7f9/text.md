@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate More Home Issues Education Healthcare Good Governance Data Centers Donate Issues Ohio faces many challenges.
+Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate More Home Issues Education Healthcare Good Governance Data Centers Unions Donate Issues Ohio faces many challenges.
 After three decades of single party rule, we continue to fall in stature to other states.
 We have opportunity and we have talent in Ohio but far too often, our politicians are more responsive to the desires of corporations than to their constinuents.
 I aim for a different kind of politics.

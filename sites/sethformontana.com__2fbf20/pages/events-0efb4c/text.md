@@ -1,7 +1,4 @@
-Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Montana Broadcasters Association Candidates Debate Will be broadcast on Montana PBS and streamed online.
-It will air live on Montana PBS and can be watched online .
-Encourage your friends and family to watch, too!
-Bozeman Town Hall Gallatin Labor Temple 422 E Mendenhall St, 59715 RSPV here !
+Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate Join Us Campaign Events Bozeman Town Hall Gallatin Labor Temple 422 E Mendenhall St, 59715 RSPV here !
 Join Seth Bodnar for a Bozeman Town Hall on Sunday, October 11, 5:30-7:00pm!
 Hear from Seth and ask… Show more Billings Town Hall IBEW Local 532, 5200 Midland Rd, Billings, MT 59101, USA RSVP here !
 Join Seth for a Town Hall in Billings on Monday, October 12th at the International Brotherhood of Electrical Workers Show more Phonebank for Seth Bodnar – Tuesdays & Thursdays Multiple Times Sign up here !

@@ -12,6 +12,7 @@ I am not a career politician and I am not affiliated with a party.
 I answer to the people.
 Standing on Principle Throughout my career, I've made decisions based on the Constitution, the facts, and what I believed was right.
 Not political pressure.
+I am not endorsed or funded by any political party.
 Sometimes that meant standing alone, apart from others.
 But leadership isn't about doing what's easy.
 It's about doing what's right.

@@ -1,4 +1,4 @@
-Home About Critical issue Goals Accomplishments Local Issues Contact Donate More Home About Critical issue Goals Accomplishments Local Issues Contact Donate Home About Critical issue Goals Accomplishments Local Issues Contact Donate Help us campaign today for a better tomorrow!
+Home About Goals Incumbent Assessment Issues Contact Donate More Home About Goals Incumbent Assessment Issues Contact Donate Home About Goals Incumbent Assessment Issues Contact Donate Help us campaign today for a better tomorrow!
 Volunteer Here Like what you see?
-Donate here Connect With mICHELLE RAVert Authority: Friends of Michelle Ravert; TBD, Treasurer Copyright © # Website - All Rights Reserved.
+Donate here Connect With mICHELLE RAVert Authority: Friends of Michelle Ravert - Meredith Sutzko, Treasurer Copyright © # Website - All Rights Reserved.
 Powered by

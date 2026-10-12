@@ -1,4 +1,4 @@
-0 Skip to Content Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Back Donate Rooted here.
+0 Skip to Content Home Ballot Guide Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Ballot Guide Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Ballot Guide Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Back Donate Rooted here.
 Fighting for justice where we live.
 Growing up in Denver, my friends called me “ Justa-Jus ” or “ Justice ” because I was always standing up for what was fair.
 That is why I am the candidate who advocates for justice.

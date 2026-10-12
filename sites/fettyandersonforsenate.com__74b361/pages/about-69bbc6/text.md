@@ -1,6 +1,6 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
-Watch the journey → Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → About Rachel A lifetime of public interest work, community service, and showing up for families.
+Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → About Rachel A lifetime of public interest work, community service, and showing up for families.
 Contact Reach the campaign team.
 Phone: 681-350-3804 Email: contact@fettyandersonforsenate.com PO Box: PO Box 632, Morgantown, WV 26507-0632 Biography Family Rachel is the oldest of six children and grew up with all of the responsibilities that entails.
 Her parents struggled with mental health issues, domestic violence, and economic insecurity.
@@ -37,6 +37,7 @@ During this time the City and Council wrestled with basic municipal issues: pens
 Points of personal pride included addressing budgetary issues by confronting pension challenges and ensuring that public natural resources benefit the community despite competing demands for resources from public utilities.
 Working with that diverse, creative, and passionate group during those challenging times was one of the great privileges of her life.
 She carries on her commitments to the City through service on the Civilian Police Review and Advisory Board.
+In the community Moments from Rachel’s work and campaign in communities across West Virginia.
 Why I'm Running As a young person I benefited from the efforts of many kind, caring people.
 Neighbors showed up to put out literal and metaphorical fires in my home.
 “Church people” showed up to help during times of need, taught me to drive, and supported my family during our challenging times.

@@ -1,4 +1,5 @@
-top of page RE-ELECT MARK SYLVIA DONATE Home About Mark News in the 10th Events Join Team Sylvia More Use tab to navigate through the menu items.
+top of page RE-ELECT MARK SYLVIA DONATE Home About Mark Volunteer with Team Sylvia!
+News in the 10th Events Join Team Sylvia More Use tab to navigate through the menu items.
 ABOUT MARK The person I am and the life I've lived are a reflection of the decent, hardworking people of the 10th Bristol District.
 I grew up here.
 I raised my family here.
@@ -15,4 +16,4 @@ And I've secured over 1.2 Million dollars in funding for local priorities includ
 I am proud of what we’ve accomplished so far and am driven to continue that work! ​ I believe in the strength of our communities.
 I know that when we work together, we can tackle the rising costs of housing, healthcare and energy, protect our fundamental rights and promote the amazing people and places we call home.
 Serving the 10th Bristol District is the honor of my life and I'm asking for your support to continue this work. ​ But I can't do it alone.
-Please join us. ​ Mark Sylvia DONATE SYLVIA CAMPAIGN PO Box 902 Mattapoisett, MA 02739 sylvia4rep@gmail.com Paid for by the Sylvia Committee bottom of page
+Please join us. ​ Mark Sylvia DONATE Paid for by the Sylvia Committee bottom of page

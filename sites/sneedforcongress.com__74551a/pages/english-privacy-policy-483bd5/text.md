@@ -1,4 +1,4 @@
-top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Media Merch More Use tab to navigate through the menu items.
 DONATE Privacy Policy Andrew Sneed for Congress respects your privacy.
 We are committed to protecting any personal information you provide to us, whether through our website, mobile platforms, or in person.
 You can opt out of text messages at any time by replying STOP Information We Collect We may collect personal information such as your name, email address, phone number, mailing address, and payment details when you sign up, donate, volunteer, or otherwise engage with our campaign.

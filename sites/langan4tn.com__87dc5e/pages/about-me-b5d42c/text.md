@@ -1,7 +1,7 @@
-0 Skip to Content Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Meet the Candidate I’m a jack of many trades and master of none who likes music, photography, cards and pickleball.
+0 Skip to Content Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Meet the Candidate I’m a jack of many trades and master of none who likes music, photography, cards and pickleball.
 I came to Knoxville to attend the University of Tennessee.
 After graduating, I decided to stay and have been proud to call Knoxville home for over twenty-five years.
 This is where I met my wife.

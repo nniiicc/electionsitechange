@@ -38,9 +38,10 @@ He believes in strengthening public education, not letting it be shaped by outsi
 At his core, Michael is running to give power back to the people of West Virginia.
 His message is simple: your voice matters, and your vote has the power to make real change.
 With a focus on honesty, fairness, and the well-being of all West Virginians, Michael Mosteller II is a candidate ready to represent the people, not rule over them.
-Michael Mosteller II Candidate Latest Campaign Updates Our Concern Issues We can do better.
+Michael Mosteller II Candidate Latest Campaign Updates For the most recent updates, please join the Michael Mosteller For WV House of Delegates - District 21 Facebook Group Our Concern Issues We can do better.
 Women's Rights Public Education AEP Bill WV Infrastructure Opioid Pandemic Justice Privacy Join the movement for change!
 Together, we can do better for West Virginia!
-Join Now Sponsored by: Sierra Club I am proud to announce that I am endorsed by the Sierra Club.
+Join Now Speaking out at the county commission against Data Centers Serving pancakes at a pancake breakfast in Putnam County.
+Endorsements Sierra Club I am proud to announce that I am endorsed by the Sierra Club.
 My commitment to our environment will always remain strong, and I will continue my activism to leave my children and their children, a better world to live in.
-Scroll to Top
+Center for Freethought Equality PAC View all endorsements Scroll to Top

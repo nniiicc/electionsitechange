@@ -16,6 +16,8 @@ Si puedes hacer más Se necesitan voluntarios con urgencia.
 Puedes ser trabajador/a electoral u observador/a electoral, o apoyar la línea directa de Protección al Votante.
 Más información sobre el voluntariado de protección al votante .
 Si tienes alguna inquietud o pregunta, llama a la línea directa de Protección al Votante al 888-730-5816 .
+El voto anticipado comienza el martes, 13 de octubre.
+Mañana Planifica tu visita ahora — regresa el 13 de octubre para votar.
 Ingresa tu dirección y tu modo de transporte Tu dirección Guardamos tu dirección para que la campaña pueda darte seguimiento sobre el voto.
 Consulta nuestra Política de Privacidad . ¿Cómo llegarás?
 Elige una o más opciones.

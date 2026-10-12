@@ -1,14 +1,13 @@
 Skip to content About Issues Events Volunteer Contact About Issues Events Volunteer Contact Sign the petition Donate Events Check out Adam’s upcoming events below.
 Use the contact form if you have any questions or would like to invite Adam to attend an upcoming event.
-Weekly Canvass When: Saturday, October 3rd at 10:00 AM and Sunday, October 4th at 2:00 PM.
-Where: Palomar Stables, 3765 Winthrop Drive Note: If you want to knock on your own schedule, come out and grab material.
-Data Center Legislative Listening Session When: Thursday, October 1st from 11:00 AM – 12:30 PM Where: Capitol Annex Room 171, 702 Capital Avenue, Frankfort What: Data Centers are a hot topic, and this is an opportunity to mave your voice heard directly to your elected representatives.
-Click here to RSVP or if you are interested in speaking.
-Louisville Fundraiser When: Monday, October 5th from 5:30 – 7:00 PM Host: Marjorie FitzGerald Click here for event details, RSVP, or to support this event with a contribution.
-Dogwood Trace Meet and Greet When: Tuesday, October 6th from 6:30 – 8:00 PM Hosts: Felito and Jennifer Aldarondo Click here for event details, RSVP, or to support this event with a contribution.
-Community Fundraiser When: Thursday, October 8th from 5:30 – 7:00 PM Hosts: Art Shechet & Marilyn Robie, Kathy & Mike Grossman, Kathy Stein, Jonathan Miller, Angie Ornstein, and Alex Mannerings Click here for event details, RSVP, or to support this event with a contribution.
-Fundraiser with Governor Beshear When: Friday, October 9th from 4:30 -6:00 PM Hosts: Donna Moore Campbell, Donna Hall, Jonathan Miller, Dr.
-Deborah Alexander, Karen Summers, and Nancy Carpenter Click here to get your ticket or join our host team!
+Rabbit Run Happy Hour Meet and Greet When: Wednesday, October 14th from 5:00 -6:30 PM Where: Village at Rabbit Run Clubhouse, 3430 Rabbits Foot Trail Hosts: Dave & Paula Sevigny and Friends Special Note: Expect to meet Federal, State, and Local candidates!
+Click here to RSVP.
+Keeneland Tailgate with Kentucky Colleges Democrats When: Friday, October 16th from 11:00 AM – 2:00 PM Where: The Hill, Keeneland Note: Free burgers and hot dogs!
+Cardiac Crusade Kickoff When: Friday, October 16th from 5:00 – 6:30 PM Where: West Sixth Brewing, 501 West Sixth Street.
+What: Join the effort to map the locations of Automatic External Defibrillators, AEDs, across Lexington.
+Weekly Canvass When: 10:00 AM Saturday, October 17th and 2:00 PM Sunday, October 18th.
+Where: Higbee Mill Park , 1499 Higbee Mill Road Note: If you want to knock on your own schedule, come out and grab material.
+Early Voting Sign Brigade Please reach out directly for details.
 Husband, father, combat veteran, small business owner and the representative for Kentucky’s 45th House District.
 Facebook-f Instagram Youtube Threads X-twitter Tiktok LEARN MORE Home About Adam Where I stand Follow on Social Get involved Volunteer Donate Contact Sign the Petition Resources Newsletter Request a Yard Sign KY Voter Portal 45th District Map Paid for by Adam Moore for State Representative. © # Adam Moore for Kentucky.
 All rights reserved.

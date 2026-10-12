@@ -5,7 +5,8 @@ Brooke Dillon for Ohio Voters should have a choice – and we need real change a
 Ohio has been run by Republican majorities for decades, and it has served hardly anyone except special interests.
 We are lagging behind in clean energy innovation at the same time that social services are eroding.
 I want to get elected to help make a change – and to strengthen this state and our community.
-Issues and Positions Donate through ActBlue New: Matriots Ohio endorse Brooke Dillon for Ohio’s 77th congressional district — Read more !
+Issues and Positions Donate through ActBlue New: Ohio Young Democrats endorse Brooke Dillon — Read more !
+Matriots Ohio endorse Brooke Dillon for Ohio’s 77th congressional district — Read more !
 Brooke Dillon endorsed by the Ohio Federation of Teachers Who I am I’ve lived in the rolling hills of northeast Ohio farm country my whole life – and I want to help do what’s best for my community.
 Growing up in Litchfield where my dad was a Teamster truck driver, and starting a job at 14 myself, I learned the value of hard work.
 I will take those same working class values to the State House in Columbus if I’m elected.

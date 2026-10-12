@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation healthcare The agenda CARE Act Clinics, Ambulances, Rural Hospitals and Emergency Care An Act relating to health care access, including medical assistance payments to rural health care providers, the rural health care workforce, and emergency medical services as an essential service, making appropriations, and including effective date and applicability provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including the tradeoffs, and my draft of the legal text.
 Page one See where it goes The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 When my son Asher got sick in the middle of the night, we rushed him to Monroe County Hospital in Albia.
@@ -48,7 +48,7 @@ The payment floor and both kinds of EMS money are funded every year without a ne
 Federal law cuts the extra hospital payments back a step at a time, and as they shrink the floor costs more, which the third view shows.
 The last view is a later year if nonprofit plans take over from the private companies: the floor binds whoever runs managed care, so the money is the same.
 Floor amounts are model ranges.
-Doctors and nurses Ambulance crews Payment floor The same numbers, side by side Doctors and nurses Ambulance crews Payment floor As written, first year Incentive program, statewide State general fund → to Incentive program, statewide $7,985,911 New rural awards State general fund → to Rural doctor and nurse awards $6,000,000 Rural training grants State general fund → to Rural training rotations $2,000,000 Rural EMS workforce grants State general fund → to Rural EMS crews $5,000,000 Essential service grants to every county State general fund → to County ambulance coverage $9,900,000 State share of the payment floor State general fund → to Managed-care companies $6.7 million to $10.5 million Federal share of the payment floor Federal Medicaid match → to Managed-care companies $16.0 million to $22.1 million Payment floor, paid to rural hospitals Managed-care companies → to Rural hospitals $23.7 million to $31.3 million Each year after Incentive program, statewide State general fund → to Incentive program, statewide $7,985,911 Rural EMS workforce grants State general fund → to Rural EMS crews $5,000,000 Essential service grants to every county State general fund → to County ambulance coverage $9,900,000 State share of the payment floor State general fund → to Managed-care companies $6.7 million to $10.5 million Federal share of the payment floor Federal Medicaid match → to Managed-care companies $16.0 million to $22.1 million Payment floor, paid to rural hospitals Managed-care companies → to Rural hospitals $23.7 million to $31.3 million Once extra hospital payments are cut back Incentive program, statewide State general fund → to Incentive program, statewide $7,985,911 Rural EMS workforce grants State general fund → to Rural EMS crews $5,000,000 Essential service grants to every county State general fund → to County ambulance coverage $9,900,000 State share of the payment floor State general fund → to Managed-care companies $16.1 million to $29.0 million Federal share of the payment floor Federal Medicaid match → to Managed-care companies $38.3 million to $61.7 million Payment floor, paid to rural hospitals Managed-care companies → to Rural hospitals $56.2 million to $88.1 million Each year after, if nonprofit plans replace the companies Incentive program, statewide State general fund → to Incentive program, statewide $7,985,911 Rural EMS workforce grants State general fund → to Rural EMS crews $5,000,000 Essential service grants to every county State general fund → to County ambulance coverage $9,900,000 State share of the payment floor State general fund → to Nonprofit managed-care plans $6.7 million to $10.5 million Federal share of the payment floor Federal Medicaid match → to Nonprofit managed-care plans $16.0 million to $22.1 million Payment floor, paid to rural hospitals Nonprofit managed-care plans → to Rural hospitals $23.7 million to $31.3 million The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+Doctors and nurses Ambulance crews Payment floor The same numbers, side by side Doctors and nurses Ambulance crews Payment floor As written, first year Incentive program, statewide State general fund → to Incentive program, statewide $7,985,911 New rural awards State general fund → to Rural doctor and nurse awards $6,000,000 Rural training grants State general fund → to Rural training rotations $2,000,000 Rural EMS workforce grants State general fund → to Rural EMS crews $5,000,000 Essential service grants to every county State general fund → to County ambulance coverage $9,900,000 State share of the payment floor State general fund → to Managed-care companies $6.7 million to $10.5 million Federal share of the payment floor Federal Medicaid match → to Managed-care companies $16.0 million to $22.1 million Payment floor, paid to rural hospitals Managed-care companies → to Rural hospitals $23.7 million to $31.3 million Each year after Incentive program, statewide State general fund → to Incentive program, statewide $7,985,911 Rural EMS workforce grants State general fund → to Rural EMS crews $5,000,000 Essential service grants to every county State general fund → to County ambulance coverage $9,900,000 State share of the payment floor State general fund → to Managed-care companies $6.7 million to $10.5 million Federal share of the payment floor Federal Medicaid match → to Managed-care companies $16.0 million to $22.1 million Payment floor, paid to rural hospitals Managed-care companies → to Rural hospitals $23.7 million to $31.3 million Once extra hospital payments are cut back Incentive program, statewide State general fund → to Incentive program, statewide $7,985,911 Rural EMS workforce grants State general fund → to Rural EMS crews $5,000,000 Essential service grants to every county State general fund → to County ambulance coverage $9,900,000 State share of the payment floor State general fund → to Managed-care companies $16.1 million to $29.0 million Federal share of the payment floor Federal Medicaid match → to Managed-care companies $38.3 million to $61.7 million Payment floor, paid to rural hospitals Managed-care companies → to Rural hospitals $56.2 million to $88.1 million Each year after, if nonprofit plans replace the companies Incentive program, statewide State general fund → to Incentive program, statewide $7,985,911 Rural EMS workforce grants State general fund → to Rural EMS crews $5,000,000 Essential service grants to every county State general fund → to County ambulance coverage $9,900,000 State share of the payment floor State general fund → to Nonprofit managed-care plans $6.7 million to $10.5 million Federal share of the payment floor Federal Medicaid match → to Nonprofit managed-care plans $16.0 million to $22.1 million Payment floor, paid to rural hospitals Nonprofit managed-care plans → to Rural hospitals $23.7 million to $31.3 million The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 The math What it costs and who pays Doctors and nurses Incentive program, statewide $7,985,911 Ambulance crews Rural EMS workforce grants $5,000,000 Essential service grants to every county $9,900,000 Payment floor State share of the payment floor $6.7 million to $10.5 million Federal share of the payment floor $16.0 million to $22.1 million Payment floor, paid to rural hospitals $23.7 million to $31.3 million Each year after, if nonprofit plans replace the companies, stream by stream.
 Each bar starts at zero, and they all share one scale.
@@ -137,34 +137,33 @@ It bars any department action that cuts what the managed-care companies pay into
 A switch to nonprofit plans looks easier to square with this law than a return to fee-for-service, since the extra hospital payments could continue, but nobody has tested how it applies to an executive order, and we haven't seen a court or attorney general reading of it.
 The CARE Act's floor doesn't depend on the answer.
 It holds under any company, nonprofit or private, that the state hires to run Medicaid.
-The limits of our case What the data does not support We can't price the floor exactly.
+Open questions What we don't know yet I can't price the floor exactly.
 The companies' payments to each rural provider aren't public.
 The hospital cost reports are the best public source, and they have limits.
 Most of the latest year's reports are the hospitals' own unaudited filings.
-One rural hospital, Trinity Muscatine, left its Medicaid lines blank, which we treat as unknown, not zero, so the estimate is low by its share.
-And the reports are supposed to net out each hospital's own assessment, which we did not check.
+One rural hospital, Trinity Muscatine, left its Medicaid lines blank, which I treat as unknown, not zero, so the estimate is low by its share.
+And the reports are supposed to net out each hospital's own assessment, which I haven't checked.
 If hospitals didn't net it out, the gaps and the cost are bigger than shown.
 The CARE Act's quarterly reports are a start on fixing that: each company has to report the dollars it paid and denied on rural claims, by type of provider, and the state publishes them by company name.
 The state should go further and publish what each company pays each rural hospital.
-We can't say this bill would have kept MercyOne's Ottumwa clinic or River Hills' Centerville clinic open.
+I can't say this bill would have kept MercyOne's Ottumwa clinic or River Hills' Centerville clinic open.
 MercyOne's was a certified rural health clinic and River Hills is a federally qualified health center, and Code section 249A.18 already owed both cost-based Medicaid rates.
 River Hills blamed financial pressure.
 The Teamsters local that had petitioned on May 1, 2026, to represent the Centerville staff filed an unfair labor practice charge with the National Labor Relations Board on May 18, 2026, alleging that the shutdown, layoffs and discipline broke federal labor law ( case page ).
 The case is open.
-We don't know which account is right.
+I don't know which account is right.
 What the CARE Act does for clinics is get every clean claim paid or denied within thirty days, with interest when it's late, and put money behind the doctors and nurses who staff them.
 Keeping a clinic open takes more than that, and the state should be strengthening the rural networks we already have, not waiting until a clinic announces its last day.
-We have no published count of how often the companies wrongly deny rural providers' claims.
+I couldn't find a published count of how often the companies wrongly deny rural providers' claims.
 The State Auditor's report of October 20, 2021, on managed care looked at members' appeals, and it says "provider appeals are not a part of this review." The bill's quarterly reports and yearly review are meant to fill that gap.
-The older line that three in four Iowa EMS services are all-volunteer traces to a hospital association paper published in 2020, citing state data we couldn't find.
-Iowa HHS now says more than 70 percent of services rely at least partly on volunteers, so that's the figure we use.
+Iowa HHS says more than 70 percent of EMS services rely at least partly on volunteers.
 Rotations don't guarantee a doctor stays.
 Training alone leaks: Iowa keeps 46.7 percent of the doctors who finish residency here, against 55.7 percent nationally.
 Minnesota's rural program is the model, and its graduates go on to practice rurally far more often than other students, but students choose to join it, so that shows an association, not proof the program caused it.
 The bill counts who is still practicing in a rural county after one, three and five years, so Iowa can see for itself.
 That's also why rotations aren't the whole plan.
 Their graduates can get the rural awards, which pay only people who commit to practice in a rural county.
-The other side's strongest points Where the evidence cuts against us Right now, Medicaid pays most rural hospitals more than their Medicaid costs.
+Who gives something up The tradeoffs Right now, Medicaid pays most rural hospitals more than their Medicaid costs.
 Iowa started extra hospital payments through the companies in July 2023.
 In the hospitals' own latest cost reports, rural hospitals as a group reported $1.54 from Medicaid for every dollar of Medicaid cost, up from 84 cents the year before those payments began.
 That includes all three critical access hospitals in Appanoose, Davis and Monroe counties.
@@ -197,14 +196,14 @@ As of June 2025, Iowa HHS counted 21 of Iowa's 99 counties that had voted to, Ap
 Davis and Monroe were not on the list.
 A statewide duty takes that choice away from the rest, and some will see it as Des Moines telling counties what to do.
 That's why the bill pays every county every year, leaves the levy and its vote with the county, and lets each county decide how to provide the service.
-The same agency says there "remains no legislative mandate to ensure all Iowans have timely access to emergency care." We think a family's ambulance shouldn't depend on which county they live in.
+The same agency says there "remains no legislative mandate to ensure all Iowans have timely access to emergency care." I think a family's ambulance shouldn't depend on which county they live in.
 The duty only reaches as far as the money.
 Under the bill, a county where full coverage costs more than the state sends doesn't have to make up the difference.
 Utah already required every city and county to ensure at least a minimum level of 911 ambulance service, and in 2025, added a line calling it essential ( enrolled bill ), with no money appropriated.
-We'd rather pay for it than order it.
+I'd rather pay for it than order it.
 The yearly county statements will show where the gaps are and what they cost, and lawmakers should raise the grant to close them.
 Nothing in the bill stops a county from cutting its own EMS spending by the amount of the grant, so in some counties the grant could replace local money rather than add to it.
-We left out a rule against that on purpose: in counties already stretched by the property tax caps, some relief for local taxpayers is a fair use of the money.
+I left out a rule against that on purpose: in counties already stretched by the property tax caps, some relief for local taxpayers is a fair use of the money.
 The yearly statements will show it, and if counties swap state money for their own while gaps stay open, lawmakers should add a rule that each county keep up its own EMS spending.
 A floor like this has been passed before.
 The Legislature wrote one into HF 2460 in 2016, and Gov.

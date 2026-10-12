@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation water and ag The agenda FUEL Act Fund for Uplands, Enterprise and Livestock An Act relating to agricultural diversification, including by establishing an Iowa ag diversification fund for third-crop markets and pasture, ending the standing appropriation to the renewable fuel infrastructure fund, and providing for a ten-year agricultural diversification plan, making appropriations, and including effective date provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including the tradeoffs, and my draft of the legal text.
 Page one See where it goes The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 This isn't a bill against ethanol.
@@ -47,7 +47,7 @@ Point at or tap a box or a stream to see the amounts.
 Same deposit, new jobs, starting six months after the fuel credits end.
 Lawmakers have skipped the general fund deposit in most years since it was created, so the Today side is what the law says, not what the fund has received.
 The two floors don't add up to the whole deposit: some goes to running the fund and the university's plan, and the rest goes where demand is.
-The yearly deposit Paid out of the pump fund this year Floor for each use, not the whole split The same numbers, side by side The yearly deposit Paid out of the pump fund this year Floor for each use, not the whole split #ago Set in state law each year State general fund → to Fuel pump grant fund $5 million Fuel testing Fuel pump grant fund → to Fuel testing $500,000 Under this bill Set in state law each year State general fund → to Iowa Ag Diversification Fund $4.5 million Fuel testing State general fund → to Fuel testing $500,000 The least third crops get in the first year Iowa Ag Diversification Fund → to Third crop markets at least $1.61 million The least pasture gets in the first year Iowa Ag Diversification Fund → to Fence and water on pasture at least $1.61 million The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+The yearly deposit Paid out of the pump fund this year Floor for each use, not the whole split The same numbers, side by side The yearly deposit Paid out of the pump fund this year Floor for each use, not the whole split #ago Set in state law each year State general fund → to Fuel pump grant fund $5 million Fuel testing Fuel pump grant fund → to Fuel testing $500,000 Under this bill Set in state law each year State general fund → to Iowa Ag Diversification Fund $4.5 million Fuel testing State general fund → to Fuel testing $500,000 The least third crops get in the first year Iowa Ag Diversification Fund → to Third crop markets at least $1.61 million The least pasture gets in the first year Iowa Ag Diversification Fund → to Fence and water on pasture at least $1.61 million The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 The math What it costs and who pays The yearly deposit Set in state law each year $4.5 million Fuel testing $500,000 Floor for each use, not the whole split The least third crops get in the first year at least $1.61 million The least pasture gets in the first year at least $1.61 million Under this bill, stream by stream.
 Each bar starts at zero, and they all share one scale.
@@ -118,66 +118,64 @@ None of those end dates is this bill's doing, and this bill doesn't move them.
 A statute can't stop a future Legislature from extending a credit, so the bill doesn't pretend to.
 What it can do is start the plan before the credits end, set the money in law for the July after, and hand lawmakers a plan to follow by the end of that year.
 The pump grants: in the eighteen budget years that ended in June 2024, the state awarded $53.5 million for 1,314 pump and tank projects, according to a Department of Revenue study built on Department of Agriculture records.
-The limits of our case What the data does not support We can't say how many acres of oats, rye or other third crops this fund will add, or how many cattle it will put on grass.
+Open questions What we don't know yet We can't say how many acres of oats, rye or other third crops this fund will add, or how many cattle it will put on grass.
 No one can know that before the grants are made.
 That's why every recipient reports what it bought from Iowa farmers, and why the department reports fence and water by county.
 We can't say what ending the credits will do to the price of corn or soybeans.
 The same Department of Revenue study found that biofuel prices and crop prices tend to move together, and that the research it reviewed disagrees about whether biofuels push up food prices.
-We don't claim the credits' end will cost farmers, and we don't claim it won't.
+I don't claim the credits' end will cost farmers, and I don't claim it won't.
 The university's plan has to look at it.
 Iowa farmers planted 190,000 acres of oats in 2023, and 120,000 in 2025.
-We don't know why it fell, and we don't blame it on ethanol.
-Brett's post said that when conflict with Iran flared up, Iowa saw the biggest gas price spike in the country.
-We haven't found a source for that, so it isn't used here.
-We haven't measured how much of the corn grown around here goes to ethanol, or where the nearest ethanol plants buy it, so we don't say.
+I don't know why it fell, and I don't blame it on ethanol.
+I haven't measured how much of the corn grown around here goes to ethanol, or where the nearest ethanol plants buy it, so I don't say.
 The state already has a general grant program for adding value to Iowa farm products (section 187.321), and this bill's fund sits in the same chapter of law.
 That program names no crop and sets no grant terms in law, and we didn't find a published list of what it has paid for.
 The third-crop program is written for one job, so it can't drift.
-The other side's strongest points Where the evidence cuts against us Biofuel and farm groups will oppose it.
+Who gives something up The tradeoffs Biofuel and farm groups will oppose it.
 This spring the House voted 84 to 1 for House File 2785, which would keep the biodiesel credit going until 2033, and 83 to 2 for House File 2786, which would raise the biodiesel plants' refund and keep it going until 2031.
 Neither got a Senate vote.
 Lobbyists for the Iowa Soybean Association, the Iowa Biodiesel Board, Truckstops of Iowa and the Iowa Institute for Cooperatives registered for the credit bill .
 The Iowa Renewable Fuels Association, the Iowa Farm Bureau Federation, the Iowa Soybean Association, the Iowa Biodiesel Board and Cargill were among those that registered for the refund bill .
 A registration is a filing, not proof of what anyone believes, but those are the groups that will show up.
 Extensions aren't free: the Legislative Services Agency put the biodiesel credit extension at $26.2 million for the budget year that starts July 2029, rising to $30.2 million by the one that starts July 2032, and the refund bill at $8.4 million to the general fund for the year that starts July 2028, plus a separate loss to the fund that pays for school buildings.
-What we'd do instead of a fight: leave the rule that stations sell higher-ethanol gasoline alone (section 214A.32), leave the refund on its current schedule, and put the fuel groups at the table for the university's plan, which has to look at retailers and biofuel plants by law.
+What I'd do instead of a fight: leave the rule that stations sell higher-ethanol gasoline alone (section 214A.32), leave the refund on its current schedule, and put the fuel groups at the table for the university's plan, which has to look at retailers and biofuel plants by law.
 And if lawmakers want to extend a credit anyway, the extension should say it's subject to the Pay As You Go Act's scorecard, so it's covered by real savings or trimmed. $4.5 million is small.
-Next to the $50.6 million to $57.9 million a year the credits are expected to cost until they wind down, it doesn't replace what's ending, and we won't say it does.
+Next to the $50.6 million to $57.9 million a year the credits are expected to cost until they wind down, it doesn't replace what's ending.
 The Department of Revenue's forecast already assumes the credits end, so that money isn't sitting there for anyone to spend.
-What we'd do instead of pretending: treat this as the first step, let the university's plan say what the next steps cost, and put those costs through the regular budget and the scorecard where voters can see them.
+What I'd do instead of pretending: treat this as the first step, let the university's plan say what the next steps cost, and put those costs through the regular budget and the scorecard where voters can see them.
 The money comes six months after the credits end.
 On January 1, 2028, the plan is being written but no grant has been paid.
 That's the price of not counting the same dollars twice with the Pay As You Go Act.
 The university's plan rides on that first deposit too: the contract is signed by October 1, 2027, but the bill pays for it only when there's money in the fund.
-If lawmakers skip the July 1, 2028 deposit, the plan waits, and we haven't asked the university whether it would start on that promise.
-What we'd do instead of leaving a gap: have the department write its rules and take applications before the money lands, so grants go out soon after.
+If lawmakers skip the July 1, 2028 deposit, the plan waits, and I haven't asked the university whether it would start on that promise.
+What I'd do instead of leaving a gap: have the department write its rules and take applications before the money lands, so grants go out soon after.
 And if lawmakers skip that first deposit, pay the university out of the department's regular budget that year, so the plan doesn't stall.
 Lawmakers have skipped this deposit most years.
 The deposit was created for the budget year that started July 2021.
 For four straight budget years starting July 2022, lawmakers suspended it and paid $10 million a year into the pump fund from the state's infrastructure fund instead, according to the Legislative Services Agency and, for the year that started July 2025, House File 1039.
 This year Senate File 2484 set it at zero, and we found no infrastructure fund money in its place.
 The Pay As You Go Act skips it one more year.
-So the honest reading is that the law says $5 million a year, but the general fund has rarely paid it.
+So the law says $5 million a year, but the general fund has rarely paid it.
 If future lawmakers would have kept skipping it, this bill is a real choice to spend that money, and a future Legislature can skip the new fund's deposit the same way.
-What we'd do instead of hiding that: vote every year to make the deposit, and make anyone who wants to skip it say so on the record.
+What I'd do instead of hiding that: vote every year to make the deposit, and make anyone who wants to skip it say so on the record.
 The pump fund was already getting squeezed.
 It gets no general fund money this year, and the Pay As You Go Act would skip next year too, both before this bill does anything.
 We haven't found a published figure for its balance.
 Fuel testing has been paid out of that balance.
-What we'd do instead of letting fuel testing ride on a grant fund: pay for it openly every year, which this bill does with $500,000 straight from the deposit.
+What I'd do instead of letting fuel testing ride on a grant fund: pay for it openly every year, which this bill does with $500,000 straight from the deposit.
 Stations lose a source of grant help.
 The state has awarded pump grants to stations in Albia, Lovilia, Moravia, Centerville, Bloomfield and Eddyville, according to the Department of Agriculture's award list .
 Those grants helped stations put in the equipment the state's higher-ethanol rule asks for.
 With no new general fund deposit after June 2028, that help shrinks to whatever balance the fund keeps and whatever lawmakers choose to add from the infrastructure fund.
-What we'd do instead: keep the waivers already in that law, and have the university's plan say what retailers still need, so lawmakers can fund it from the infrastructure fund, the way they did for four years, if the need is real.
+What I'd do instead: keep the waivers already in that law, and have the university's plan say what retailers still need, so lawmakers can fund it from the infrastructure fund, the way they did for four years, if the need is real.
 A grant doesn't create a market.
 A cleaning line or a mill still needs farmers who grow the crop and buyers who want it.
-What we'd do instead of paying for equipment and hoping: pay first buyers to set up, put farmer-owned cooperatives first, and make every recipient report what it actually bought.
-If those reports show the money isn't reaching farmers, we'd move it to the use that is, starting with the pasture side, which has the same reports by county.
+What I'd do instead of paying for equipment and hoping: pay first buyers to set up, put farmer-owned cooperatives first, and make every recipient report what it actually bought.
+If those reports show the money isn't reaching farmers, I'd move it to the use that is, starting with the pasture side, which has the same reports by county.
 One subject.
 The bill creates a fund, ends a deposit, pays for fuel testing, orders a plan and adds to a cost-share program.
-We've titled it as agricultural diversification, and every part serves that.
-What we'd do instead if a court or the Legislature sees two subjects: split the pasture money out and send it with the FAIR Act, which already has a fund for it.
+It's titled as agricultural diversification, and every part serves that.
+What I'd do instead if a court or the Legislature sees two subjects: split the pasture money out and send it with the FAIR Act, which already has a fund for it.
 The draft text The draft bill language For legislators, reporters and anyone who wants the legal wording.
 This is our draft, written the way Iowa bills are written, so you can see exactly what we mean.
 If I'm elected, the Legislature's nonpartisan drafting office, the Legislative Services Agency, writes the version that gets filed, and the wording will change.

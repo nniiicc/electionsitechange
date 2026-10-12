@@ -1,7 +1,4 @@
-0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Oct 11 Canvass with Tatiana in Central Beacon Hill!
-Sunday, October 11, 2026 4:00 PM 6:00 PM Google Calendar ICS Canvass with Team Tatiana in Central Beacon Hill!
-All information is in the attached Mobilize link.
-View Event → Oct 12 Canvass with Tatiana in Rainier Beach!
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Oct 12 Canvass with Tatiana in Rainier Beach!
 Monday, October 12, 2026 5:30 PM 8:00 PM Google Calendar ICS Canvass with Team Tatiana in Rainier Beach!
 All information is in the attached Mobilize link.
 View Event → Oct 13 Canvass with Tatiana in Skyway!
@@ -58,6 +55,9 @@ All information is in the attached Mobilize link.
 View Event → Nov 2 to Nov 3 Election Day GOTV With Tatiana!
 Mon, Nov 2, 2026 9:00 AM Tue, Nov 3, 2026 8:00 PM Google Calendar ICS Join Tatiana for everything from phone banking to knocking on doors in the final stretch of the campaign!
 Click the Mobilize link to sign up for a volunteer shift with us.
+View Event → Oct 11 Canvass with Tatiana in Central Beacon Hill!
+Sunday, October 11, 2026 4:00 PM 6:00 PM Google Calendar ICS Canvass with Team Tatiana in Central Beacon Hill!
+All information is in the attached Mobilize link.
 View Event → Oct 10 Skyway Candidate Forum (Hosted By West Hill Community Association x South Seattle Emerald) Saturday, October 10, 2026 2:00 PM 4:00 PM Google Calendar ICS Join Tatiana at the 2026 general election Skyway Candidate forum!
 "Come meet some of the folks who will be on your ballot this November and get vote ready! ...
 Doors open at 2 p.m. for free food from My’s Vietnamese Sandwiches and Deli (a Skyway gem) with refreshments and an open house with 37th Legislative District Candidates.” View Event → Oct 10 King County Candidate Forum, hosted by Coalition of Immigrants Refugees and Communities of Color (CIRCC) and partners – 37th District Saturday, October 10, 2026 10:00 AM 1:00 PM Google Calendar ICS Meet Tatiana and other 37th Legislative District candidates.

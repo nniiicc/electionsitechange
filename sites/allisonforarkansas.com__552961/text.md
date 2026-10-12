@@ -1,4 +1,4 @@
-Skip to content About Contact About Contact Donate Donate Get Involved Endorsements & Distinctions Endorsed by PAWPAC The Progressive Arkansas Women PAC works elect progressive women to state and local office.
+Skip to content About Issues Contact About Issues Contact Donate Donate Get Involved Endorsements & Distinctions Endorsed by PAWPAC The Progressive Arkansas Women PAC works elect progressive women to state and local office.
 The women they support are committed to reproductive, economic, social, and environmental justice for all.
 Visit progressivearwomen.org for more information Moms Demand Action - Gun Sense Candidate The Allison for Arkansas campaign has been awarded the 2022 Moms Demand Action Gun Sense Candidate distinction, for advocating for gun violence prevention and making a commitment to govern with gun safety in mind, if elected.
 Visit momsdemandaction.org for more information Endorsed by Vote Mama Vote Mama is dedicated to increasing the political power of Democratic moms by disrupting the systems that hold women back through direct financial support, mentorship, and endorsements.
@@ -19,4 +19,4 @@ I Want a Yard Sign Knock on doors Call or Text Voters Host an Event for Allison 
 Message frequency varies.
 Message & Data Rates May Apply.
 Reply STOP to opt out.
-About Contact About Contact Paid for by Allison for Arkansas PO Box 1001, North Little Rock, AR 72115 Privacy Policy Copyright © # Allison in Arkansas | Design by Riveter Solutions
+About Issues Contact About Issues Contact Paid for by Allison for Arkansas PO Box 1001, North Little Rock, AR 72115 Privacy Policy Copyright © # Allison in Arkansas | Design by Riveter Solutions

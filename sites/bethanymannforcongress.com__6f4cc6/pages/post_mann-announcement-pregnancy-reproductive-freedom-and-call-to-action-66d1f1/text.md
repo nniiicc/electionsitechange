@@ -26,4 +26,7 @@ All campaign news → LET’S BUILD THIS TOGETHER Missouri is worth the work.
 Help power a campaign rooted in our communities.
 Support Bethany ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Bringing Missourians together.
 Facebook ↗ Instagram ↗ TikTok ↗ X ↗ Explore Meet Bethany The issues Endorsements News & events Take part Volunteer Donate ↗ Campaign newsletter ↗ Contact the campaign Mail contributions Bethany Mann for Congress P.O.
-Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗
+Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗ Website privacy preferences We use Wix Analytics to understand visits, popular pages, and how people find this website.
+Allow analytics cookies Essential services remain available with analytics turned off.
+Saving reloads this page to apply your choice.
+Read our privacy policy Save preferences Cancel

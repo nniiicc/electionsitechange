@@ -49,9 +49,9 @@ Table of Contents • The Geography and the People of District 157 • The Curre
 Radically Lowering the Cost of Living – 2.
 Protecting Our Farmers and Agriculture – 3.
 Securing Rural Healthcare and First Responders • A New Path Forward for Georgia House District 157 Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.
-Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Policy Can Legislators Really Do Anything About the Cost of Living in Southeast Georgia?
+Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Articles Introducing the District 157 Opportunity Board: Keeping Good Jobs and Local Talent Right Here at Home Micah King breaks down verified GDOL wage data, the Indeed $750 fee squeeze on rural businesses, and how a $55k trade salary in Southeast Georgia yields $7,000 more net disposable cash than $72k in Atlanta.
+Read Dispatch → Policy Can Legislators Really Do Anything About the Cost of Living in Southeast Georgia?
 A transparent policy breakdown of property taxes, HB 581 floating homestead caps, local grocery sales tax stacks, PSC utility rate dockets, and what state legislators can actually change.
-Read Dispatch → In The News Micah King Announces Campaign for Georgia House District 157 Local leader, farm advocate, and veteran Micah King formally launches campaign to bring common-sense solutions, economic opportunity, and structural support to Southeast Georgia.
 Read Dispatch → 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

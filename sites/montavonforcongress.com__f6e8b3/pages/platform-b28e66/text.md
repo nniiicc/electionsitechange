@@ -66,4 +66,6 @@ Development must be environmentally sensitive.
 Additional protections to our threatened and endangered animals and natural resources are also important environmental considerations.
 The costs in life and property damage of doing nothing are astronomical.
 We must start taking action now.
-PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

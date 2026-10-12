@@ -1,10 +1,6 @@
-top of page ABOUT JANELL ENDORSEMENTS VOLUNTEER DONATE Portfolio More Use tab to navigate through the menu items.
-Endorsements Janell is proudly endorsed by these Local and State Leaders and Organizations Nebraska Farm Bureau Nebraska Co-Op Council PAC Nebraska Farmers Union PAC Nebraska Association of Public Employees Linda Taylor, Mayor of McCook Ed Schrock, Fmr.
-State Legislator LD38 Dan Hughes Fmr.
-NE State Senator- LD 44 Max A.
-Van Skiver Fmr.
-Nebraska Power Association President John E Koller, Mayor of Arapahoe Hal Haeker, Mayor of Alma Dennis Tegtman Furnas County Commissioners Chair Roger Dorn Franklin County Commissioner District 7 Randy Dean Red Willow County Commissioner William M.
-Sandy, M.D. ​ Phelps County Memorial Hospital- Current Chief Medical Officer & Board of Directors Member Erik Lee EM Enterprises LLC, Owner.
-Board Member -Arapahoe-Holbrook Public Schools Board of Education Shannon McCord Owner of Ideal Market Superior, NE ​ Robert Isaacson Partner, Lundeen-Isaacson Inc.
-Holdrege, NE ABOUT JANELL ENDORSEMENTS VOLUNTEER DONATE Portfolio More Use tab to navigate through the menu items.
+top of page ABOUT JANELL ENDORSEMENTS VOLUNTEER DONATE More Use tab to navigate through the menu items.
+Endorsements Janell is proudly endorsed by these Local and State Leaders and Organizations Nebraska Farm Bureau Nebraska Co-Op Council PAC Nebraska Farmers Union PAC Nebraska Association of Public Employees Lance Atwater Atwater Farms & Atwater Trucking ​ I fully support Janell, find out my reasons here Jamie Trebac COO of Tasty-Toppings Inc ​ ​ Learn how she has been instrumental for us McKenna Fahrenbruch Owner of Graceful Exposure ​ See how Janell has been valuable for my business Leon Lutkemeier Silver Lake School Board Member & Webster County Hospital Board of Trustees ​ Discover why I endorse Janell & how she will show up for District 38 ​ Linda Taylor Mayor of McCook Ed Schrock Former Nebraska State Legislator - LD 38 Dan Hughes Former Nebraska State Senator - LD 44 Max A.
+Van Skiver Former Nebraska Power Association President Hal Haeker Mayor of Alma Roger Dorn County Commissioner of Franklin County, District 7 Dennis Tegtman County Commissioner Chair of Furnas County Randy Dean County Commissioner of Red Willow County William M.
+Sandy, M.D.
+Chief Medical Officer of Phelps County Memorial Hospital & Board of Directors Member Holdrege, NE ​ Find out why I endorse Janell ​ Erik Lee Owner of EM Enterprises LLC Board Member of Arapahoe/Holbrook Public School Board of Education Arapahoe, NE Shannon McCord Owner of Ideal Market Superior, NE Robert Isaacson Partner of Lundeen Isaacson Inc. | Holdrege, NE ​ ​ John E Koller Major of Arapahoe ABOUT JANELL ENDORSEMENTS VOLUNTEER DONATE More Use tab to navigate through the menu items.
 Paid for by Anderson Ehrke for Legislature 10802 HWY 89 Orleans, NE 68966 Contact: 308-963-6767 info@janellandersonehrkeforlegislature.com bottom of page

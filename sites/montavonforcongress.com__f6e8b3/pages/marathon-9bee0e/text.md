@@ -31,4 +31,6 @@ Building a brighter future takes a team, and every step counts.
 Have a Question?
 Reach out to our campaign team directly to learn more about Matthew’s vision for Southwest Florida.
 Ready to RSVP?
-Let us know you're coming so we can share exact daily meetup locations, times, and parking details. walk with matthew, or volunteer download our volunteer agreement PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+Let us know you're coming so we can share exact daily meetup locations, times, and parking details. walk with matthew, or volunteer download our volunteer agreement PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

@@ -11,7 +11,7 @@ Suggested ticke t price $100.
 Tickets can be purchased in advance or checks can be made payable to Friends of Stephanie Berardi.
 Agenda and details announced soon!
 Hope to see you there!
-More info › 11 Oct Sunday, 1:00 PM – 4:00 PM Sunday Funday Fundraiser at the Keep Easy 747 Yorkway Pl,, Jenkintown, PA, 19046 Keep it fun, keep it easy!
+More info › 11 Oct Sunday, 1:00 PM – 4:00 PM POSTPONED -Sunday Funday Fundraiser at the Keep Easy 747 Yorkway Pl,, Jenkintown, PA, 19046 Keep it fun, keep it easy!
 Join us at Yorkway place in Jenkintown for a Sunday Funday Fundraiser at the coolest ally in the 154th!
 Suggested tickets $35.
 Guests will enjoy live music, a complimentary drink from the Keep Easy and a free gelato from Carminati Creamery.

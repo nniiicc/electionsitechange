@@ -77,10 +77,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 11, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
-Food vendors, live music, grape stomping, farmers market, family-friendly.
-High public traffic just before/during early part of Reno stay.
-See more details October 12, 2026 I'll be in Reno from 10/12 to 10/20!
+See more details 26 27 28 29 30 31 October 12, 2026 I'll be in Reno from 10/12 to 10/20!
 October 12, 2026 7:00 pm - 10:00 pm See more details October 13, 2026 Sparks Republican Club / Sparks Republican Women Meeting October 13, 2026 5:30 pm - 7:30 pm Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436 Sparks Republican Club meeting (organized by Sparks Republican Women).
 Cost $37–$42.
 Location: Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436.
@@ -212,10 +209,7 @@ See more details 25 Craft Festival at Tivoli Village Craft Festival at Tivoli Vi
 Rampart Blvd, Las Vegas, NV Free outdoor craft festival with 60+ artisans, food trucks, family- and pet-friendly.
 Good public mingling opportunity at Tivoli Village.
 Presented by LV Craft Shows.
-See more details 26 27 28 29 30 31 October 11, 2026 Great Italian Festival (Reno) October 10, 2026 10:00 am - October 11, 2026 6:00 pm Virginia Street / Downtown Reno (The Row) Free outdoor Italian festival on Virginia Street in downtown Reno (The Row).
-Food vendors, live music, grape stomping, farmers market, family-friendly.
-High public traffic just before/during early part of Reno stay.
-See more details October 12, 2026 I'll be in Reno from 10/12 to 10/20!
+See more details 26 27 28 29 30 31 October 12, 2026 I'll be in Reno from 10/12 to 10/20!
 October 12, 2026 7:00 pm - 10:00 pm See more details October 13, 2026 Sparks Republican Club / Sparks Republican Women Meeting October 13, 2026 5:30 pm - 7:30 pm Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436 Sparks Republican Club meeting (organized by Sparks Republican Women).
 Cost $37–$42.
 Location: Red Hawk Golf & Resort Event Center, 6600 N Wingfield Parkway, Sparks, NV 89436.

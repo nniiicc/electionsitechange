@@ -7,8 +7,8 @@ And please check out my ʻŌlelo show on ʻŌleloNet, "Our Community First." We 
 I am and will continue fighting for our Kalihi communities first for a better future!
 Again, big Mahalo to everyone who voted for me!
 #OurCommunityFirst #Hawaii #Kalihi #VoteYbanez4Kalihi Previous YBANEZ - Stay prepared for Tropical Cyclone Lala!
-Next YBANEZ - Walk & Talk | Monday, August 3rd You Might Also Like Amanda YBANEZ Talks FISCAL RESPONSIBILITY YBANEZ - Saturday, 7/25/2026 Ybanez - Our Community First!
-#Kalihi #Hawaii #ourcommunityfirst YBANEZ - Mahalo Gov.
+Next YBANEZ - Walk & Talk | Monday, August 3rd You Might Also Like YBANEZ - Walk & Talk | Monday, August 3rd YBANEZ - Stay prepared for Tropical Cyclone Lala!
+YBANEZ - Walk & Talk 7/29/2026 YBANEZ - Mahalo Gov.
 Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
 Amanda Ybanez for House District 30 Interviews Randy from Chuuk | Honolulu Skyline & Housing Are you registered to vote?
 Register at the Hawaii Office of Elections .

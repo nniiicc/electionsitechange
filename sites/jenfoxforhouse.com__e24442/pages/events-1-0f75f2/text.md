@@ -1,11 +1,6 @@
 top of page Meet Jen Issues Endorsements Events Get Involved Vote Gallery More Use tab to navigate through the menu items.
 DONATE EVENTS Help Jen Connect to 41B!
-Sun, Oct 11 Reverse Trick or Treating / Park High School front parking lot, Cottage Grove RSVP Oct 11, 2026, 2:00 PM – 5:00 PM Park High School front parking lot, Cottage Grove Halloween themed door knock.
-We bring the candy to the doors instead of the other way around.
-Costumes welcome, kids welcome, dogs welcome.
-It's the friendliest knock of the year.
-We meet in the front parking lot of Park High School (8040 80th St S, Cottage Grove).
-Share Multiple Dates Wed, Oct 14 Door Knock, Wednesdays 5pm / Spiral Brewery, Hastings RSVP Oct 14, 2026, 5:00 PM – 8:00 PM Spiral Brewery, Hastings An after-work knock starting from Spiral Brewery in Hastings.
+Multiple Dates Wed, Oct 14 Door Knock, Wednesdays 5pm / Spiral Brewery, Hastings RSVP Oct 14, 2026, 5:00 PM – 8:00 PM Spiral Brewery, Hastings An after-work knock starting from Spiral Brewery in Hastings.
 No experience needed.
 You'll get a short walkthrough, a partner if you want one, and a list of houses.
 Share Multiple Dates Thu, Oct 15 Door Knock, Thursdays 5pm / Spiral Brewery, Hastings RSVP Oct 15, 2026, 5:00 PM – 7:00 PM Spiral Brewery, Hastings A two-hour evening knock starting from Spiral Brewery.

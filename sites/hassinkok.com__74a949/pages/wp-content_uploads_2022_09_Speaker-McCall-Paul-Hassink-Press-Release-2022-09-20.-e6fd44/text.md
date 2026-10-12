@@ -1,0 +1,11 @@
+Speaker of the House Charles McCall Endorses Paul Hassink for State Representative, Hosts Local Event in Support of the HD-79 Republican Nominee Retired Licensed Professional Engineer, Paul Hassink, secured the Republican nomination for HD-79 in a multi-way primary in just one round.
+He kept on his rapid pace of campaigning throughout the summer as he aims to flip a key House seat back to the Republican caucus in the November 8 general election.
+Along the way, Hassink has built coalitions and is adding regularly to a growing list of supporters as his campaign has gathered steam.
+Paul Hassink credits his no-nonsense approach to policies and strong volunteer base for his rapid coalition growth.
+He said, “As a retired licensed professional engineer, I was responsible for managing budgets, working with large interest groups with different priorities and finding solutions that fit the needs identified and resulted in large scale infrastructure projects; completed in a timely manner and on budget.
+As a father who helped one of my children navigate the health care bureaucracy in treating a devastating bout of Hodgkins, I know personally many names and faces behind the statistics when we talk about the ongoing need for access to quality health care.
+And from knocking on thousands of doors as a team - my focus is on answering the needs of our local community as an advocate, champion, and problem solver.” Speaker McCall stated, "We are in a critical fight for the future of our state and nation, and we must have strong leaders who will protect our Oklahoma freedoms and stand with me against DC's liberal agenda.
+Paul Hassink's expertise from a career in building and protecting our power grid will be a valuable asset in the legislature, to ensure Oklahomans are protected and prepared against national security threats, and he will assist us in making wise decisions in budgeting, managing, and meeting infrastructure development needs for Oklahoma families and businesses." On Wednesday, September 21, 2022, Speaker McCall will join with co-hosts Frazier Henke, Mick Webber, Mike Mazzei, Jon M.
+McGrath, and Gary Stanislawski for the event.
+For more information, please visit Hassinkok.com or on Facebook at Paul Hassink for State Representative.
+###

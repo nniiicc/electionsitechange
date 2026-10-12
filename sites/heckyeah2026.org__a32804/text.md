@@ -2,10 +2,12 @@
 I’m a mother, a citizen, a small business owner, an artist, a daughter, and a friend.
 I grew up in Sutton and Grafton, went out into the world, and came home to raise my kids in the place that matters most to me.
 Let’s talk accountability.
-Did you know our current representative ranks 42nd out of 43 long-serving legislators in budget earmarks brought home?
+Did you know our current representative ranks 42nd out of 43 long-serving legislators in budget earmarks brought home?¹ And it’s not about being in the minority party.
+Over the same decade, Republican Rep.
+Paul Frost next door in Auburn brought home nearly twice as much, and Republican Rep.
+David Muradian in Grafton more than two and a half times as much.
 Meanwhile, our roads deteriorate, water safety remains a concern, and local needs go unmet.
-He may tell you to blame Beacon Hill, but representation means more than casting votes there.
-Bringing resources home is the job.
+He may tell you to blame Beacon Hill, but bringing resources home is the job.
 For 25 years, I’ve worked as a producer , a job that’s entirely about making things happen, listening to people, and finding the truth in complicated stories.
 From war zones to kitchen tables, I’ve asked hard questions, found common ground, and amplified the voices of others.
 Government needs those same skills.
@@ -16,7 +18,8 @@ When the barn gets too small, we raise a new one together.
 We don’t burn down our neighbors’.
 Building is harder than tearing down.
 I’ll work for everyone here, whether they vote for me or not.
-If you believe it’s time to stop blaming others for our problems and start building, I humbly ask for your vote.
+If you believe it’s time to stop blaming others for our problems and start building, I humbly ask for your vote. ¹ Analysis of Massachusetts state budget records, FY2017–FY2027: House budget amendments matched to enacted earmarks in the signed General Appropriations Acts ( malegislature.gov ).
+“Long-serving” means legislators who filed budget amendments in all 10 budget years; FY2021 is excluded.
 Our “Invisible” District Deserves More Our district ranks 42nd out of 43 long-serving representatives in earmark funding brought home—even neighboring Republican districts have secured more.
 Meanwhile, our roads deteriorate, water safety remains a concern, and local needs go unmet.
 Representation means more than casting votes on Beacon Hill.

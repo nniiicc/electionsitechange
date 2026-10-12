@@ -1,6 +1,6 @@
-Sign Up for Office Hours Home About What I Stand For Contact What’s Cooking?
-Announcements & Upcoming Events Home About What I Stand For Contact What’s Cooking?
-Announcements & Upcoming Events Financial Fairness Why are our towns not receiving their fair share of support from the state?
+Sign Up for Office Hours Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
+Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
+Financial Fairness Why are our towns not receiving their fair share of support from the state?
 It’s a question that deserves clear answers.
 Our communities depend on state resources—grants, program support, and other funding streams—to maintain strong schools, infrastructure, and local services.
 Yet too often, it feels as though our towns are being left behind.

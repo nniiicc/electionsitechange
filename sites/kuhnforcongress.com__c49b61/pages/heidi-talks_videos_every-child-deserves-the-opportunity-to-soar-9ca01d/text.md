@@ -1,6 +1,10 @@
 Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Every child deserves the opportunity to soar I helped my daughter find her wings.
 Now I’ll fight for the next generation to have the education, opportunities, and support they need to soar.
-More Conversations Oct 10, 2026 - Thank you, Carroll County Democrat Party Attendees!
+More Conversations Oct 11, 2026 - Early voting starts WEDNESDAY, Oct.
+14th.
+Vote for someone who cares about your reasons.
+Oct 11, 2026 - PEOPLE before servers: No new Datacenters until we know the REAL cost.
+Oct 11, 2026 - David Kustoff is vulnerable in reelection bid Oct 10, 2026 - Thank you, Carroll County Democrat Party Attendees!
 Oct 8, 2026 - I thoroughly enjoyed joining Aunties Unfiltered and was honored to be the first guest on their show!
 Oct 7, 2026 - Thank you to everyone who joined us in Eads, TN, for our fundraiser and early birthday celebration!
 Oct 7, 2026 - West Tennessee moms hold it all together.
@@ -34,9 +38,6 @@ Sep 22, 2026 - We will not sacrifice anything for Data Centers Sep 21, 2026 - Wa
 We need your assistance (and would welcome it).
 Sep 21, 2026 - Time to check your Tennessee Voter Registration!
 Sep 19, 2026 - Spending time with and supporting our farmers in Henderson County is always a good day.
-Sep 19, 2026 - Thank you, Main Street Festival (Decaturville) Attendees!
-Sep 19, 2026 - Thank you, Shelby County Democratic Women!
-Sep 19, 2026 - Thank you, Cooper-Young Festival Attendees!
 Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

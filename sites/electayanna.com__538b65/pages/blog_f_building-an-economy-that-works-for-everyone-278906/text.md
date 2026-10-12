@@ -50,7 +50,7 @@ Most importantly, we need policies that recognize a simple truth: when more Dela
 Building an economy that works for everyone is not simply an economic goal.
 It is a commitment to creating a stronger, more prosperous, and more inclusive future for our state.
 That is the Delaware I believe in, and it is the Delaware we should continue building together.
-Share this post: Categories All Posts Announcements News What I'm Hearing Sign up for blog updates!
+Share this post: Sign up for blog updates!
 Join my email list to receive updates and information.
 Sign up Recent Posts I’m pro-worker and pro-opportunity.
 Oct 5, 2026 Delaware’s Healthcare Challenges Go Beyond the Cost of Care Sep 28, 2026 Our Seniors Deserve Fairness, Stability, and a Voice Sep 28, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.

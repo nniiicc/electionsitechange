@@ -1,4 +1,4 @@
-Skip to content Brandy Donaghy.com Home About Issues Legislation Donate ENDORSEMENTS – 2026 Media Brandy Donaghy.com Home About Issues Legislation Donate ENDORSEMENTS – 2026 Media Issues Solid, Family-Wage Jobs Brandy has been fighting in Olympia to support working-class families, expand economic development, increase access to new business opportunities, and ensure the creation of family-wage jobs.
+Skip to content Brandy Donaghy.com Home About Issues Legislation ENDORSEMENTS – 2026 Donate Media Brandy Donaghy.com Home About Issues Legislation ENDORSEMENTS – 2026 Donate Media Issues Solid, Family-Wage Jobs Brandy has been fighting in Olympia to support working-class families, expand economic development, increase access to new business opportunities, and ensure the creation of family-wage jobs.
 When our working families thrive, Washington thrives.
 Community Safety Washington State faces a number of hazards, from natural and human sources.
 It’s important that the state, municipalities and individuals have the resources they need to be resilient, minimize damage and ensure a fast, efficient recovery.
@@ -35,5 +35,5 @@ Brandy is dedicated to creating safer communities and will continue advocating f
 Together, we can make a difference and save lives.
 Friends of Brandy Donaghy (D) P.
 O.
-Box 12572 Mill Creek, WA 98082 info@brandydonaghy.com @electbrandydonaghy © # BrandyDonaghy.com.
+Box 12572 Mill Creek, WA 98012 info@brandydonaghy.com @electbrandydonaghy © # BrandyDonaghy.com.
 Built using WordPress and Mesmerize Theme .

@@ -1,16 +1,5 @@
 0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Upcoming Events Meet Eric & learn about our movement in person!
-Upcoming Events 10/09 Town Hall - Lincoln Town Hall (Lincoln, CA) Woman's Club of Lincoln Friday, October 9th 5:30 pm - 7:30 pm Guest Speaker Ray Riehle Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
-RSVP Here See you there.
-10/10 Virtual Town Hall (Spanish Translation) Town Hall (Virtual Zoom) Saturday, October 10th 10am - 11:30am Please join Eric at his upcoming virtual Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
-RSVP Here (link provided upon RSVP) See you there. ¡Únete al New Day Tour con un Foro Comunitario Virtual con Eric Jones, candidato al Congreso por el Distrito 4 de California!
-Es la oportunidad perfecta para conocer a Eric, hacerle tus preguntas y escuchar sus ideas para un futuro mejor. ¡Te esperamos!
-Fecha: sábado 10 de octubre de 2026 Hora: de 10:00 a 11:30 AM Formato: Zoom (recibirás el enlace después de registrarte abajo) RSVP 10/10 Town Hall - Winters Town Hall (Winters, CA) Saturday, October 10th 1pm - 3pm Fairfield Inn Putah Creek Room East Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
-RSVP Here See you there.
-10/11 Town Hall - Sonoma Town Hall (Sonoma, CA) Sunday, October 11 10am - 12pm Sonoma Community Center Room#110 Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
-RSVP Here See you there.
-10/11 Town Hall - Petaluma Town Hall (Petaluma, CA) Petaluma Woman's Club Event Space Sunday, October 11 2pm - 4pm Please join Eric at his upcoming Town Hall to ask questions, share what’s on your mind, get to know Eric, and talk about the future of our great Fourth District.
-RSVP Here See you there.
-10/13 Meet & Greet - Yuba City Join us for a Taco Tuesday meet-and-greet in Yuba City with Eric Jones, candidate for Congress in CA-4!
+Upcoming Events 10/13 Meet & Greet - Yuba City Join us for a Taco Tuesday meet-and-greet in Yuba City with Eric Jones, candidate for Congress in CA-4!
 We'll be joined by Yuba City councilmembers Toni Cole, Wade Kirchner, Mike Pasquale, and Dave Shaw.
 Enjoy free tacos and drinks while you meet Eric, ask questions, and hear about his vision for a brighter future.
 Tuesday, October 13, 2026 5:00 PM - 7:00 PM Regency Park RSVP HERE See you there!

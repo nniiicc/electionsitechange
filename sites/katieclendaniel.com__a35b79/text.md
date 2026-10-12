@@ -39,15 +39,15 @@ From downtown revitalization and housing to small business support and infrastru
 Meet Katie Read below for some of our top priorities Lower Costs and Fair Utility Bills Local Jobs and Small Businesses Rural Health Care and Strong Schools Infrastructure and Resilient Communities ON THE TRAIL Meet Katie Across District 37 Events Join Katie at upcoming community gatherings, campaign events, and conversations across the Shore.
 We would love to see you there.
 Open Virtual Phone Bank for Katie Multiple Times Virtual Event https://www.katieclendaniel.com/ Join Team Katie from wherever you are and help us connect with voters across District 37.
-Our Open Virtual Phone Bank is available any day from 9 AM to 9 PM Eastern, so you can choose a time that fits… Show more RSVP Knock on Doors with Katie in Wicomico County!
-Multiple Times Wicomico County Democratic Central Committee office 231 W Main Street, Salisbury, MD, 21801 Join Team Katie in Wicomico County for our weekly canvass.
-We gather at the Wicomico County Democratic Central Committee office in Salisbury every Sunday from 2:00 to 4:00 PM, then head out in pairs t… Show more RSVP Phone Bank with Katie (Virtual) Virtual Event Join Team Katie in Wicomico County for our Thursday phone bank, 5:00 to 6:30 PM.
+Our Open Virtual Phone Bank is available any day from 9 AM to 9 PM Eastern, so you can choose a time that fits… Show more RSVP Phone Bank with Katie (Virtual) Virtual Event Join Team Katie in Wicomico County for our Thursday phone bank, 5:00 to 6:30 PM.
 This phone bank is virtual only.
 We call voters across District 37 to share Katie's story, hear what neighbors care ab… Show more RSVP Claiborne Reception with Katie Clendaniel This event’s address is private.
 Sign up for more details This event’s address is private.
 Sign up for more details, Claiborne, MD, 21624 Join Katie Clendaniel and friends for an evening reception in Claiborne on Thursday, October 15, from 5:00 to 6:30 PM.
 The address will be shared after you RSVP.
-Come meet Katie, hear more about her … Show more RSVP VOTE 2026 VOTER RESOURCES Make a Plan to Vote MAIL IN VOTING Request by October 27 EARLY VOTING October 22 through October 29 ELECTION DAY November 3, 2026 Check Registration or Ballot Status Request a Mail In Ballot Register or Update Voter Information Find Your Polling Place CAMPAIGN UPDATES News From District 37 Follow Katie’s campaign, community events, and the practical work ahead across District 37.
+Come meet Katie, hear more about her … Show more RSVP Knock on Doors with Katie in Wicomico County!
+Multiple Times Wicomico County Democratic Central Committee office 231 W Main Street, Salisbury, MD, 21801 Join Team Katie in Wicomico County for our weekly canvass.
+We gather at the Wicomico County Democratic Central Committee office in Salisbury every Sunday from 2:00 to 4:00 PM, then head out in pairs t… Show more RSVP VOTE 2026 VOTER RESOURCES Make a Plan to Vote MAIL IN VOTING Request by October 27 EARLY VOTING October 22 through October 29 ELECTION DAY November 3, 2026 Check Registration or Ballot Status Request a Mail In Ballot Register or Update Voter Information Find Your Polling Place CAMPAIGN UPDATES News From District 37 Follow Katie’s campaign, community events, and the practical work ahead across District 37.
 PRESS RELEASE Katie Clendaniel Invites Senator Johnny Mautz to Public Debate Write your news blurb here.
 Read more Oct 7 2026 PRESS RELEASE MSEA Endorses Katie Clendaniel Katie Clendaniel has received the endorsement of the Maryland State Education Association (MSEA) in her campaign to represent Maryland District 37.
 MSEA joins the rapidly growing list of organizations supporting Clendaniel’s campaign and her work to strengthen communities across the Eastern Shore.

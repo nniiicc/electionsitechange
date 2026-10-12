@@ -1,7 +1,7 @@
-0 Skip to Content Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Instead of working to improve the lives of the people living in Tennessee, it seems that the TN GOP’s main motivation is the oppression and punishment of Tennesseans.
+0 Skip to Content Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Instead of working to improve the lives of the people living in Tennessee, it seems that the TN GOP’s main motivation is the oppression and punishment of Tennesseans.
 Below is a sample of the oppressive and punishment driven legislation that they are currently working on.
 GOP: Governance by Oppression and Punishment Punish LGBTQ+ SB1746 states that private citizens and organizations are not bound by the Fourteenth Amendment or the Supreme Court’s decision in Obergefell v.
 Hodges to recognize a marriage between individuals of the same sex.

@@ -37,7 +37,8 @@ Read our Infrastructure Policy Invest In New Mexico’s Future Every contributio
 Together, we can move New Mexico forward. $25 $50 $100 $200 $500 Other $25 $50 $100 $200 $500 Other Invest In New Mexico’s Future Every contribution helps us reach more voters, share our message, and build the campaign needed to win.
 Together, we can move New Mexico forward.
 Latest Updates View All News Gregg Hull Introduces “Four Steps to Zero” Tax Relief Proposal October 5, 2026 Read more Haaland’s Former Campaign Manager Now Lobbying for the Company Powering Project Jupiter September 29, 2026 Read more Hull: Kevin S.
-Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/10/2026 @ 4:41 pm There’s nothing like a night at The Pit with fellow New Mexicans. 🐺🏀 Last night at Lobo Howl, I got to meet so many people who love this state—and know how to make some noise!
+Progress Means Nothing Without an Engaged and Committed Governor September 23, 2026 Read more Posted: 10/11/2026 @ 1:15 am I am honored by this post.
+Posted: 10/10/2026 @ 4:41 pm There’s nothing like a night at The Pit with fellow New Mexicans. 🐺🏀 Last night at Lobo Howl, I got to meet so many people who love this state—and know how to make some noise!
 Tha...
 Posted: 10/10/2026 @ 2:01 pm Every child deserves the opportunity to succeed.
 But for families like Sofia’s, getting the support they need isn’t always easy.
@@ -55,10 +56,6 @@ Getting to sit down with people across New ...
 Posted: 10/08/2026 @ 2:01 pm New Mexico, debate night is here! 🔥 Tonight, we’ll talk about the issues that matter most to families across our state: ✅ Good-paying jobs ✅ Thriving small businesses ✅ Stronger ...
 Posted: 10/08/2026 @ 2:08 am “The debate about the debate.” Coming soon to a screen near you. 😉 All kidding aside, New Mexicans deserve to hear directly from the people asking to lead our state.
 This is your ...
-Posted: 10/07/2026 @ 9:35 pm # days.
-And I’m going to make every one count.
-This state means so much to me.
-It’s where we’ve built our life, raised our family, and found a community worth giving our all for....
 Let's get to work.
 Join thousands of New Mexicans getting campaign updates by email and text.
 First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.

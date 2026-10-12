@@ -1,4 +1,4 @@
-Skip to content MELE FOR CONGRESS Open menu Platform Mele 10 Articles Videos Contact Volunteer Donate Direct from Gregg Watch the campaign.
+Skip to content MELE FOR CONGRESS Open menu Platform Articles Videos Contact Volunteer Donate Direct from Gregg Watch the campaign.
 Hear the case.
 Every published campaign video will live here—no scrolling through a social feed and no hunting for the right post.
 More videos are in production.

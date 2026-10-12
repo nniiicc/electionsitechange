@@ -5,8 +5,10 @@ Turn your ballot in asap or vote in-person in Honolulu Hale!
 Also, please be compassionate towards everyone around you.
 Let us bring solutions to the table together for the benefit of our communities here in Hawai‘i.
 #OurCommunityFirst #Kalihi #VoteYbanez4Kalihi #Hawaii Previous From Amanda YBANEZ - Mahalo!
-We are onto the general! 🤙🤙 Next Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i You Might Also Like Ybanez - Our Community First!
-#Kalihi #Hawaii #ourcommunityfirst Amanda Ybanez for House District 30 Interviews Randy from Chuuk | Honolulu Skyline & Housing YBANEZ - Walk & Talk 7/29/2026 Amanda YBANEZ Talks FISCAL RESPONSIBILITY A collab joint between Larry Veray and YBANEZ was signed this past week for Hawai'i E-Bike Safety!
+We are onto the general! 🤙🤙 Next Amanda YBANEZ Addresses Child Trafficking & Abuse in Hawai’i You Might Also Like Amanda YBANEZ Talks FISCAL RESPONSIBILITY From Amanda YBANEZ - Mahalo!
+We are onto the general! 🤙🤙 YBANEZ - Walk & Talk 7/29/2026 YBANEZ 4 KALIHI - Support Local!
+Free Food Distribution at Kalihi Kai on October 31st!
+More Details to Follow!
 Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.

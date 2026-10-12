@@ -42,7 +42,7 @@ Our BIPOC community, our business owners, our residents who are traveling to wor
 WA Immigrant Solidarity Network’s Immigrant and Refugee Advocacy Day – January 22, 2026 Follow the Campaign Used for the like, share, comment, and reaction icons Julio Cortes for State Rep.
 #ago Thank you SEIU Local 925 for coming out to support my re-election campaign!
 We doorbelled, delivered yard signs and got the word out to VOTE, VOTE, VOTE 🗳️!!! ...
-See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Reactions: 5 Shares: 2 Comments: 0 0 Comments Comment on Facebook Julio Cortes for State Rep.
+See More See Less View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 8 Shares: 3 Comments: 0 0 Comments Comment on Facebook Julio Cortes for State Rep.
 #ago I’m often asked why I decided to run for State Representative, well because…. ...
 See More See Less Play View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) View Comments Like reaction Love reaction Reactions: 29 Shares: 3 Comments: 0 0 Comments Comment on Facebook Julio Cortes for State Rep.
 #ago Thank you to the North Coast States Carpenters Union for their support of my re-election campaign and their partnership to protect workers 🙌🏽.

@@ -4,8 +4,6 @@ Your Voice In Albany .
 First Name Email Address * ZIP Code SIGN UP By submitting your information, you consent to receive emails and/or phone messages from Semko For Assembly and its affiliates.
 Message frequency may vary.
 You can unsubscribe at any time.
-Join Ihor For A Fundraiser On October 10th.
-Click For More Details!
 Proudly Endorsed By: Meet Ihor Semko Ihor Semko was born in Ukraine and came to the United States at eight years old with a family that had nothing but a belief in hard work.
 He moved from Oregon to New Jersey to Herkimer, New York, learning to adapt to new communities, new cultures, and a new language each time.
 Along the way, he learned that fitting in was not the goal.

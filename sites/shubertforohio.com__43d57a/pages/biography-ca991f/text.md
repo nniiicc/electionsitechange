@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information DONATE GET INVOLVED Meet Craig Craig’s life has been defined by leadership, service to others, and the courage to stand up for what matters.
+top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED Meet Craig Craig’s life has been defined by leadership, service to others, and the courage to stand up for what matters.
 From his early days as an Eagle Scout in Iowa to the mayor’s office in Hudson, he has been guided by faith, integrity, and an unwavering commitment to conservative values.
 Ohio House of Representatives 34th District A Mayor Focused on Results In 2019, Craig was elected mayor on a platform of transparency, accountability, and commonsense governance.
 He made history as Hudson’s first mayor to be elected without previously serving on city council, and the first to unseat a sitting mayor.

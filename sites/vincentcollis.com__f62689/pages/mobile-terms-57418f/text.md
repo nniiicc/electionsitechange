@@ -1,4 +1,4 @@
-Meet Vincent Issues Donate Donate Mobile Terms Effective Date: July 30, 2026 The Vincent Collis for Iowa provides subscribers with updates on campaign activities, donation asks, and ways to get involved.
+Meet Vincent Issues Endorsements Donate Donate Mobile Terms Effective Date: July 30, 2026 The Vincent Collis for Iowa provides subscribers with updates on campaign activities, donation asks, and ways to get involved.
 When you opt in to receive text message communications from us, we will send you an SMS message to confirm your sign-up.
 You can unsubscribe from receiving text messages at any time.
 After you send the SMS message “STOP” to the shortcode, we will send you an SMS message to confirm that you have been unsubscribed and you will no longer receive SMS messages from us.

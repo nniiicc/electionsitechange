@@ -11,4 +11,5 @@ Let's get out there, meet our neighbors, and share our vision for the future!
 Find out where to meet and to let us know you’re coming at this Mobilize page : https://www.mobilize.us/mobilize/event/1049530/ .
 Questions?
 Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
-Previous Previous October 13 Legvold for Minnesota - Bridgewater Township Door Knock Next Next October 16 Early Voting in person Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ
+Previous Previous October 14 Legvold for Minnesota - Rosemount Door Knock!
+Next Next October 16 Early Voting in person Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

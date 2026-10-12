@@ -10,4 +10,4 @@ I call on the legislature to restore these scholarships or institute a similar p
 By David Wilson – Flickr: 20120522 04 St.
 Stanislaus Kostka Church, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=24374716 ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

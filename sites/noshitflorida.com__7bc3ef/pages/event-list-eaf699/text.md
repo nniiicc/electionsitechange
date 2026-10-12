@@ -1,8 +1,5 @@
 top of page SUBSCRIBE HOME ABOUT CINDY NO SHIT BOLD ACTION NEWS EVENTS Menu Close DONATE Events & Opportunities Join me around Fort Myers!
-MULTIPLE DATES Sun, Oct 11 Community Canvas / Fort Myers Regional Library RSVP Oct 11, 2026, 2:00 PM – 6:00 PM Fort Myers Regional Library, 2450 First St, Fort Myers, FL 33901, USA Knock doors and get out the vote for Cindy!
-Sign-up here for a shift!
-Training and materials provided.
-Share MULTIPLE DATES Mon, Oct 12 Virtual Phone Bank Party! / Virtual Event - Google Meet RSVP Oct 12, 2026, 6:00 PM – 8:00 PM Virtual Event - Google Meet Call voters in support of Cindy!
+MULTIPLE DATES Mon, Oct 12 Virtual Phone Bank Party! / Virtual Event - Google Meet RSVP Oct 12, 2026, 6:00 PM – 8:00 PM Virtual Event - Google Meet Call voters in support of Cindy!
 Get trained and get people to the polls!
 Sign-up to get the link.
 All trainees can do anytime phonebanking too!

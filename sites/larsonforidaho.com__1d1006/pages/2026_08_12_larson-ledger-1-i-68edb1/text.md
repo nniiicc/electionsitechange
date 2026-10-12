@@ -37,11 +37,11 @@ The IFF ratings are used to calculate a legislator’s score on “ Spending and
 This blog is designed to expose how the scorecard is used to manipulate the legislative process.
 Legislators cannot maintain an A rating on the scorecard, if they vote yes on a bill with a large negative rating.
 In fact, with the new JFAC rules put into place under the influence of the IFF, any legislator who passes any budgets beyond maintenance, cannot achieve an A.
-Legislators who ignore the ratings often receive failing grades and those failing grades lead to expensive and ugly primary challenges. ↩︎ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Related articles September 17, 2026 Citizenship asks something of us Today is Constitution and Citizenship Day.
+Legislators who ignore the ratings often receive failing grades and those failing grades lead to expensive and ugly primary challenges. ↩︎ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Comment Name Email Website Δ Related articles October 11, 2026 Financial Accountability Doesn’t Mean Just Saying No Idaho received $185M of our federal tax dollars from the Big Beautiful Bill to address rural healthcare challenges.
+As of… › Read more : Financial Accountability Doesn’t Mean Just Saying No September 17, 2026 Citizenship asks something of us Today is Constitution and Citizenship Day.
 As a citizen, I take citizenship seriously.
 Citizenship asks something of all of us.… › Read more : Citizenship asks something of us September 13, 2026 The Larson Ledger № 3: How Property Tax Elimination Costs You More 8 years of tax cuts, and the average Idaho family got $127 and a higher property tax bill.
-Now they… › Read more : The Larson Ledger № 3: How Property Tax Elimination Costs You More September 7, 2026 The North Idaho Political Paradox Are we becoming the mirror image of the liberal states?
-During my business career, I discovered that strongly-held beliefs often… › Read more : The North Idaho Political Paradox Contact 217 Cedar Street #167 Sandpoint, ID 83864 Phone: (208) 248-5949 Email: LarsonforIdaho@gmail.com Independent Candidate Idaho House of Representatives Seat 1B larson for Idaho © # Larson for Idaho.
+Now they… › Read more : The Larson Ledger № 3: How Property Tax Elimination Costs You More Contact 217 Cedar Street #167 Sandpoint, ID 83864 Phone: (208) 248-5949 Email: LarsonforIdaho@gmail.com Independent Candidate Idaho House of Representatives Seat 1B larson for Idaho © # Larson for Idaho.
 All rights reserved.
 Discover more from Larson for Idaho Subscribe now to keep reading and get access to the full archive.
 Type your email… Subscribe Continue reading Loading Comments...

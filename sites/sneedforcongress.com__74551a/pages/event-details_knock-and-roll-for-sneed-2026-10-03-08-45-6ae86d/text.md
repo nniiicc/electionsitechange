@@ -1,4 +1,4 @@
-top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Media Merch More Use tab to navigate through the menu items.
 DONATE Knock and Roll for Sneed!
 Sat, Oct 03 | Andrew Sneed for Congress HQ Be part of the fight for change and decency in North Alabama.
 Join us to canvass and knock doors to raise awareness for Andrew Sneed!

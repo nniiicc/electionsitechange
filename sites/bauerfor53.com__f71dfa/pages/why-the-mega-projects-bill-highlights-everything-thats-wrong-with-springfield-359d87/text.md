@@ -34,4 +34,4 @@ Here it’s a done deal.
 But it’s still not OK.
 We must do better — and, whether I myself win or lose, we must all call on all Springfield legislators to govern more responsibly. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

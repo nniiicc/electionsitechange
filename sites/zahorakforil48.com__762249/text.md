@@ -3,19 +3,23 @@ Donate Now Volunteer Upcoming Events Newsletter Block This newsletter signup for
 Edit the block and enter a storage location via the Storage tab.
 Subscribe Join AZ’s newsletter to stay up to date on events, campaign updates, and more.
 Email Address Sign Up Thank you!
-I’m Amanda Zahorak, Your democratic candidate for state Representative (call me AZ for short) .
-I was raised in the 48th District of IL and am a proud product of the DuPage County public school system.
-As long as I can remember, people have been my passion , and I learned very young that I was called to serve.
-While a working student, I received my undergraduate degree from North Central College in marketing and worked for two large advertising agencies, where I immediately felt a gap in my 9-to-5.
-I didn’t want to work for big corporations — I wanted to make an impact in my community .
-I started leaning in by nurturing my love for education and spent 5 years on the Board of Directors for GiGi’s Playhouse Chicago - a nonprofit for Down Syndrome Achievement.
-When COVID-19 hit, it became abundantly clear that my calling to serve people as a full-time job was only getting stronger.
-I applied to Northwestern University’s Master’s of Public Policy and Administration program and began my studies while pivoting into a career in nonprofit leadership at DuPage and Chicago South Suburbs Habitat for Humanity.
-There, I focused my time on advocacy, building out the advocacy arm of the organization.
-By 2023, I had completed my degree and was leading advocacy efforts where I partnered with all forms of government and local coalitions to increase access to safe, affordable housing for vulnerable communities such as veterans, working-class families, single-parent households, and more.
-I learned how to listen to the community in order to build nonpartisan solutions, ensuring nobody was left behind.
-It was there that I learned what I now know as truth: a rising tide lifts all boats.
-I now work in education equity and have witnessed how investing in our students and young people is what ensures that we leave the next generation better than we found it.
-A deep care for all people and their stories — that’s who I am and what I’ll bring to our policy decisions in the Illinois Legislature.
+I’m Amanda Zahorak (call me AZ for short), and I’m running to be your state representative.
+I was raised right here in the 48th District, and I’m a proud product of DuPage County public schools.
+As long as I can remember, people have been my passion.
+I learned young that I was called to serve, and I’ve spent my career acting on that.
+I’m running to be your state representative because I want to see all of District 48 thrive.
+Affordability is at the heart of what I’m fighting for.
+Working families shouldn’t have to choose between groceries, healthcare, and paying a utility bill .
+Taxes should make sense, and a paycheck should stretch further than it does today.
+I also believe every student deserves access to a great education , no matter their ZIP code.
+I’ll be a legislator who fights to make life more affordable for working families , and I’ll go to Springfield with one priority: putting people first.
+I already have the experience, and now I want to take it to our state capitol.
+I earned a Master’s degree in public policy at Northwestern University and have spent a decade as a leader in community care at local and national nonprofits.
+I served five years on the Board of Directors for GiGi’s Playhouse Chicago, and when COVID-19 hit, I stepped up to nonprofit leadership at DuPage and Chicago South Suburbs Habitat for Humanity.
+There I built out the advocacy arm, partnering with all levels of government and coalitions to expand access to safe, affordable housing for veterans, working families, and single-parent households .
+Most recently, I worked on the executive team of an educational organization whose mission is to assess and address gaps in schools.
+As the Director of Communications and Advocacy, I spent time in schools week after week, speaking with administrators, teachers, and in-class mentors to understand the challenges and opportunities in the classroom.
+A deep care for all people and their stories is who I am, and it’s what I’ll bring to our policy decisions in the Illinois Legislature.
+I’d be honored to have your vote as I put people first so that everyone has a seat at the table in House District 48.
 I look forward to bringing passion and commitment to Springfield as State Representative for the district that built me - the IL48.
 Let’s keep in touch : Privacy Policy zahorakforIL48@gmail.com

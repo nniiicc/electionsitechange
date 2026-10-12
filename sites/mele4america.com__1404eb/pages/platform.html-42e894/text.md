@@ -1,4 +1,4 @@
-Skip to content MELE FOR CONGRESS Open menu Platform Mele 10 Articles Contact Volunteer Donate Common sense.
+Skip to content MELE FOR CONGRESS Open menu Platform Articles Contact Volunteer Donate Common sense.
 Clear priorities.
 A platform built for the people who live with the consequences.
 Gregg Mele believes every federal decision should pass a simple test: Does it make New Jersey families safer, freer, and better able to build a future?
@@ -49,4 +49,4 @@ Demand real price transparency so patients can compare cost and quality.
 Expand choice and competition while reducing administrative burdens.
 Keep medical decisions centered on patients and their trusted providers.
 Help carry the message Put common sense back to work in Washington.
-Volunteer Donate today MELE FOR CONGRESS Home Mele 10 Articles Contact PAID FOR BY GREGG MELE FOR AMERICA Donate
+Volunteer Donate today MELE FOR CONGRESS Home Articles Contact PAID FOR BY GREGG MELE FOR AMERICA Donate

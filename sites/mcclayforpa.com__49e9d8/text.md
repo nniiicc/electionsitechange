@@ -2,7 +2,15 @@
 Ready for Harrisburg.
 A lifelong Wilkes-Barre resident, Council Chairwoman, and proven local leader running to deliver results for the 121st District — affordable energy, fully funded schools, and a fair shake for working families.
 Donate Meet Jessica Endorsed by State Rep.
-Eddie Day Pashinski — current Representative for PA-121 District 121 Scroll A Trusted Voice The current Representative for the 121st endorses Jessica.
+Eddie Day Pashinski — current Representative for PA-121 District 121 Scroll Action Center Make your plan to vote.
+Four steps · About a minute People who decide when and how they will vote are far more likely to follow through.
+Your answers stay on this device.
+1 Registration 2 How you vote 3 When 4 Getting it done Countdown to Election Day -- Days -- Hours -- Minutes -- Seconds Election Day is here.
+Polls are open until 8 PM.
+Tuesday, November 3, 2026 · Polls open 7 AM to 8 PM Make your plan Start with the official tools.
+Register to vote Check your registration Request a mail ballot Find your polling place All links go to the official Pennsylvania Department of State voter services .
+Confirm current deadlines there.
+A Trusted Voice The current Representative for the 121st endorses Jessica.
 "I've Spent my life fighting for working families in our area, and its been the honor of my life to serve you.
 That's why I'm proud to support Jessica McClay for State Representative.
 As President of Wilkes Barre City Council, Jessica has already shown that she knows how to bring people together and get results.

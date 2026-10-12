@@ -28,4 +28,5 @@ The campaign kit keeps the challenge simple, organized, and useful from the firs
 Challenge overview and two-part how-to guide Private ten-voter tracking card New Jersey voter-information resources Sharing instructions and social recognition ideas Celebration invitation and gathering guide Certificate of Patriotic Leadership Issue briefs on what is at stake Ready to begin?
 Choose your ten.
 We’ll send the tools.
-Request the kit Volunteer MELE FOR CONGRESS Home Platform Articles Contact PAID FOR BY GREGG MELE FOR AMERICA Donate
+Request the kit Already requested?
+Download it Volunteer MELE FOR CONGRESS Home Platform Articles Contact PAID FOR BY GREGG MELE FOR AMERICA Donate

@@ -1,4 +1,4 @@
-top of page Home About Issues News Menu Close All Posts Washington Is Passing the Buck to Wyoming Byrd for Senate #ago 2 min read Updated: #ago Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
+top of page Home About Issues News Menu Close All Posts Washington Is Passing the Buck to Wyoming Byrd for Senate Oct 4 # min read Updated: #ago Starting October 1, Wyoming is on the hook for 75 percent of the cost of running SNAP, up from 50 percent.
 Washington made that decision.
 Wyoming taxpayers get the bill.
 That is not the only change.

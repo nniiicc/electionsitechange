@@ -23,4 +23,4 @@ You can go to his website and fill out the form and mark that you’re willing t
 You can also mark that you want a yard sign and the team will deliver one to you.
 This is a primary election, so this effort focuses on getting the support of consistent Republican voters. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

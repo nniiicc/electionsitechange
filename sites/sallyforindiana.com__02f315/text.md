@@ -30,12 +30,7 @@ Fighting to lower your utility bills, fully fund our public schools, and bring y
 Welcome to the Hive.
 Paid for by Sally Busby for Indiana Committee Explore Meet Sally Priorities & Calculator Accountability Files Videos & Q&A District Map Citations & Legislation Directory Take Action Volunteer Request a Yard Sign Donate to the Campaign Ask Sally Anything Register to Vote Shop Merch Stay Connected Sign up for the Weekly Buzz: District 78 news, straight from Sally: Join © # Sally Busby for Indiana.
 All rights reserved.
-Terms of Service Privacy Policy ★★★★★ 140TH ANNUAL ★★★★★ LABOR DAY Parade JOIN SALLY BUSBY, CANDIDATE FOR INDIANA HOUSE DISTRICT 78 HONOR ALL WORKING MEN AND WOMEN OF THE TRI-STATE AREA ≡ ★★★★★ ≡ SEPTEMBER 7, 2026 9 AM CENTRAL / 10 AM EASTERN PRINCETON, IN Count Me In!
-How Do I Get There?
-Share Next Time OR Already Signed Up Join the Parade Fill out the form below to walk with Sally.
-I'll See You There Hold On VOTER REGISTRATION ARE YOU REGISTERED TO VOTE?
-# DAYS : # HRS : # MINS : # SECS DEADLINE: OCTOBER 5TH, 2026 I Need to Register Requirements to Register: Valid IN Driver's License or ID Card U.S.
-Citizen 18+ by next general election Resident of precinct for 30+ days I'm Already Registered WHAT'S YOUR VOTING PLAN?
+Terms of Service Privacy Policy WHAT'S YOUR VOTING PLAN?
 Voter ID Required Indiana requires a valid state or federal photo ID to vote.
 Help Me Find Early Voting Locations I Need Assistance Voting Find Voting Locations Enter your address to find your county's early voting locations.
 Note: Early voting hours in District 78 counties vary and may have limited weekend availability.

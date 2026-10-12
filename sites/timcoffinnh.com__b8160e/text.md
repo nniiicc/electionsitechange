@@ -7,7 +7,7 @@ My family and I believe it's a privilege to live in this beautiful area and trul
 The communities we enjoy didn't happen by accident, they were built by generations of town residents, employees and volunteers.
 It's in that spirit that I would welcome the opportunity to serve as your State Representative.
 Thank you.
-Sign up to receive updates sign up to volunteer "This campaign is about bringing people together around practical ideas and a shared commitment to our towns." Please get in touch Let me know what matters most to you.
+"This campaign is about bringing people together around practical ideas and a shared commitment to our towns." Please get in touch Let me know what matters most to you.
 Name Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 Copyright © # Friends of Tim Coffin.
 Amy Coffin Treasurer, P.O.

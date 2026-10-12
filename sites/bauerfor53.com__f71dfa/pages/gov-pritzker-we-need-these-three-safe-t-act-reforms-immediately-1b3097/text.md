@@ -36,4 +36,4 @@ Again, it’s not clear whether the law’s provisions on detainable offenses, o
 Either way, it’s not enough to complain about individual judges, or the policies of prosecutors in individual counties.
 It’s time to reform the SAFE-T Act to ensure this ends. https://commons.wikimedia.org/wiki/File:Shootout2016.jpg; Supaflyrobby, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

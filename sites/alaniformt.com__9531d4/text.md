@@ -1,4 +1,11 @@
-AB Skip to content Retired Air Force lieutenant colonel and federal agent.
+AB Skip to content Your ballot is in the mail.
+It’s due by 8 p.m.
+Nov.
+3.
+Mail it back or drop it off at your county election office.
+It has to arrive by 8 p.m. on Tuesday, Nov.
+3.
+Track your ballot What's on your ballot Retired Air Force lieutenant colonel and federal agent.
 She hunted terror networks, spies and child predators.
 Now she's Montana's Democratic nominee for U.S.
 Senate, and she can't be bought.

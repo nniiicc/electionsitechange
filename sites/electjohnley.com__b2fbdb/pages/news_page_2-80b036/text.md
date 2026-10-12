@@ -1,4 +1,6 @@
-Home News Latest News 60 Seconds With John Ley About Me Donate Latest News Washington State’s Fiscal Suicide – Are Democrats deaf to warning signs, as taxpayers foot the bill Issues July 29, 2026 by John Ley Rep.
+Home News Latest News 60 Seconds With John Ley About Me Donate Latest News Northwest Politics NOW — KOIN Interview Issues July 29, 2026 by John Ley Washington overspending, the Interstate Bridge, & forest management KOIN news reporter Todd Unger and John Ley discuss current issues on Northwest Politics Now.
+Washington state democrats have a spending addiction...
+Read more Washington State’s Fiscal Suicide – Are Democrats deaf to warning signs, as taxpayers foot the bill Issues July 29, 2026 by John Ley Rep.
 John Ley says Washington doesn’t have a revenue problem; it has a spending addiction Thursday, July 23, 2026 — Clark County Today Governor Bob Ferguson proudly declared himself a...
 Read more Peter Abbarno: Sarah Mittelman is the ‘perfect candidate’ for the 49th District Issues July 25, 2026 by John Ley Rep.
 Peter Abbarno says Sarah Mittelman is the “perfect candidate” for Washington’s 49th Legislative District and explains why successful candidates must fit the communities they seek to represent.
@@ -18,9 +20,7 @@ Issues May 31, 2026 by John Ley Democrat insiders admit income tax will impact m
 Read more The challenges of getting the Brockmann mental health facility open Issues May 29, 2026 by John Ley Rep.
 John Ley says that ‘moving at the speed of bureaucracy isn’t working’ Rep.
 John Ley 18th Legislative District Thursday, May 28, 2026 — Clark County Today #ago,...
-Read more Scene of the Crime -2 Scene of the Crime May 29, 2026 by John Ley Exposing more outrageous details of the IBR proposal The Scene of the Crime series digs into details of the I-5 Interstate Bridge Replacement (IBR) proposal.
-This episode highlights numerous unnecessary...
-Read more Newer Posts Older Posts Latest Episode: 60 Seconds With John Ley Latest News Two Governors Agree: Washington Doesn’t Have a Revenue Problem—Olympia Has a Spending Addiction Opinion: They’re coming for your money — and your retirement Olympia’s Spending Spree: Why Washington’s $17 Billion Tax Surge Demands a Fiscal Reset Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
+Read more Newer Posts Older Posts Latest Episode: 60 Seconds With John Ley Latest News Unpacking Olympia's New Income Tax: What Revenue Bureaucrats Are Planning and Why Voters Must Act Two Governors Agree: Washington Doesn’t Have a Revenue Problem—Olympia Has a Spending Addiction Opinion: They’re coming for your money — and your retirement Recent Comments Justine Stimmel on Sharing my efforts on behalf of the people John Ley on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Glenn Kincaid on Lars Larson Discusses John Ley’s Article on IBR’s High-Rise MAX Transit Station Barry on John Ley Exposes the $2 Billion Taxpayer Ripoff of the Interstate Bridge Replacement on The Lars Larson Show Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

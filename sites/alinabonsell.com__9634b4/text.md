@@ -1,8 +1,8 @@
-top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE END THE NEGLECT ELECT YOUR NEIGHBOR ALINA BONSELL Republican Nominee & Independent on the BLOCK MAMDANI line against Socialist Policies NY STATE SENATE D28 GET INVOLVED DONATE My priorities SAFETY Amend bail law that releases repeat offenders.
-Get dangerous individuals with serious mental illness off our streets and into inpatient care.
+top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE END THE NEGLECT ELECT YOUR NEIGHBOR ALINA BONSELL Republican Nominee & Independent on the BLOCK MAMDANI line against Socialist Policies NY STATE SENATE D28 GET INVOLVED DONATE My priorities SAFETY Amend the law that releases repeat offenders.
+Get dangerous, serious mental illness off our streets and into inpatient care.
 Pass my Shelter Accountability Act to stop unsafe, ineffective, and unaccountable shelters.
-HOUSING Oppose COPA, the pied-à-terre tax, and other socialist policies; reform unfair rental laws to help landlords bring vacant affordable apartments back to market.
-HEALTHCARE SAVINGS Establish an alternative lower tier of state-required benefits, allowing insurers to offer more affordable plans. ​ FAMILY COURT REFORM Strict timelines, real consequences , system-wide accountability, and higher evidentiary standards Campaign video Elect your neighbor Running for office was never part of my plan.
+HOUSING Oppose COPA, the pied-à-terre tax, and other socialist policies; reform unfair rental laws, and return 60,000 apartments to market.
+HEALTHCARE Reduce state mandates to make premiums less expensive ​ FAMILY COURT REFORM Strict timelines, real consequences , system-wide accountability, and higher evidentiary standards Campaign video Elect your neighbor Running for office was never part of my plan.
 But over time, I watched the neighborhood I love become harder to live in and harder to recognize.
 I’m Alina Bonsell, your neighbor.
 I’ve called Manhattan’s East Side home for more than 20 years.

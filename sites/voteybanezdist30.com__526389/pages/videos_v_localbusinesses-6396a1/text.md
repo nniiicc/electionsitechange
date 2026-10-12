@@ -1,10 +1,12 @@
 0 Skip to Content Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Media Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate Open Menu Close Menu Home About Me Folder: Media Back Photo Gallery Blog / News Videos Endorsements Campaign Focus Community Links Calendar Volunteer Donate Donate 7/28/26 YBANEZ 4 KALIHI - Support Local!
 As a legislator, I will create and push legislation that supports local businesses -- by giving loans and grants to support all local mom and pop stores here in Hawai‘i and for those who want to create their own businesses here.
 Especially for all local businesses affected in and around the skyline in Kalihi.
-#OurCommunityFirst #Kalihi #Hawaii #VoteYbanez4Kalihi #SupportLocal Previous YBANEZ - Walk & Talk 7/29/2026 Next Amanda YBANEZ Talks FISCAL RESPONSIBILITY You Might Also Like YBANEZ - Mahalo Gov.
+#OurCommunityFirst #Kalihi #Hawaii #VoteYbanez4Kalihi #SupportLocal Previous YBANEZ - Walk & Talk 7/29/2026 Next Amanda YBANEZ Talks FISCAL RESPONSIBILITY You Might Also Like YBANEZ - Stay prepared for Tropical Cyclone Lala!
+From Amanda YBANEZ - Mahalo!
+We are onto the general! 🤙🤙 YBANEZ - Saturday, 7/25/2026 YBANEZ - Mahalo Gov.
 Josh Green & all the legislatures for supporting E-Bike Safety for Hawai‘i!
-Door to Door at Kuhio Park Terrace in Kalihi!
-Amanda YBANEZ Talks FISCAL RESPONSIBILITY YBANEZ for HD30 | Why I Am Running for Hawai‘i House District 30 Moment of Self-Reflection from Amanda Ybanez Are you registered to vote?
+Ybanez - Our Community First!
+#Kalihi #Hawaii #ourcommunityfirst Are you registered to vote?
 Register at the Hawaii Office of Elections .
 Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.

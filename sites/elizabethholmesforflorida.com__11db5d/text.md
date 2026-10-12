@@ -30,7 +30,7 @@ To show up.
 Send a teacher to Tallahassee who understands what it means to live and work here, and who will fight to represent the needs of everyday people trying to build a life in Florida.
 I am from this community.
 I have lived this alongside you.
-And I am ready to fight for a more affordable, more secure future for all of us. ​ "Never underestimate the power of a public school teacher " Elizabeth Holmes ENDORSEMENTS ENDORSEMENTS Follow the Campaign and Subscribe to Newsletter Contact Elizabeth Holmes Campaign directly: 561.565.3194 info@elizabethholmesforflorida.com First name * Last name * Email * Phone * Multi-line address Country/Region * Address * City * Zip / Postal code * Yes, subscribe me to your newsletter.
+And I am ready to fight for a more affordable, more secure future for all of us. ​ "Never underestimate the power of a public school teacher " Elizabeth Holmes ENDORSEMENTS Follow the Campaign and Subscribe to Newsletter Contact Elizabeth Holmes Campaign directly: 561.565.3194 info@elizabethholmesforflorida.com First name * Last name * Email * Phone * Multi-line address Country/Region * Address * City * Zip / Postal code * Yes, subscribe me to your newsletter.
 By providing your phone number, you consent to receive text messages from the Campaign with news and updates, including asks for donations.
 Message frequency varies.
 Message and data rates may apply.

@@ -1,4 +1,4 @@
-top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Michael's Vision California demands more than the status quo.
+top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Blog Michael's Vision California demands more than the status quo.
 Join our movement for bold, courageous leadership dedicated to unifying our people, turning big ideas into real change, and delivering the tangible progress that every single resident deserves.
 Restoring Affordability and Opportunity We are at an inflection point.
 In one of the least affordable places in the country, housing is no longer just a housing issue—it is an economic imperative.
@@ -21,5 +21,5 @@ In the Legislature, he will work to reduce unnecessary bureaucracy, improve gove
 Having served as staff in the State Legislature and municipal government, he understands that the best policies are developed with the people responsible for carrying them out.
 Michael will regularly seek input from local governments, public employees, subject-matter experts, community organizations, and those directly affected before making decisions.
 Ventura County shouldn’t just live with decisions made in Sacramento—we should help shape them.
-READ THE FULL PLAN Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Michael MacDonald for Assembly District 38 2674 E.
+READ THE FULL PLAN Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Blog Michael MacDonald for Assembly District 38 2674 E.
 Main Street, Suite 316 Ventura, CA 93003 info@michaelmacdonaldforassembly.com Paid for by Michael MacDonald for Assembly 2026 | FPPC ID#1488242 bottom of page

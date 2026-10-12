@@ -7,4 +7,5 @@ Homeowners’ Insurance Attack homeowners’ insurance costs – bringing rates 
 Families & Healthcare Support new families – particularly mothers – to help them receive quality healthcare to start and grow a healthy, vibrant family.
 Flooding & Drainage Work with local governments to pull down state funds for flooding and drainage projects to protect neighborhoods.
 Florida’s Natural Lands Expand Florida’s wildlife corridor and rural and family lands program to specifically stop the over development of our district SCAN THE QR Share Your Idea for Supporting The American Dream Please enable JavaScript in your browser to complete this form.
-Please enable JavaScript in your browser to complete this form. your Last First First Name * Last Name * Email Address * Phone Number Tell us your idea * Submit Paid by Josie Tomkow, Republican, for State Senate Scroll to top Scroll to top
+Please enable JavaScript in your browser to complete this form.
+First Name * Last Name * idea Name Phone Email Address * Phone Number Tell us your idea * Submit Paid by Josie Tomkow, Republican, for State Senate Scroll to top Scroll to top

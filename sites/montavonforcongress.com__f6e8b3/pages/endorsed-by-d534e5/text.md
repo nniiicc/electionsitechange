@@ -25,4 +25,6 @@ She serves as the Democratic nominee in the special election for the U.S.
 Senate in Florida, focusing her platform on voting rights, labor empowerment, and systemic reform. mark davis Mark Davis is a political commentator and candidate who co-hosts a high-energy, progressive political podcast.
 The show focuses on discussing current events, holding corporate interests accountable, and strategizing on how to mobilize progressive voters across Florida. terra kater Terra Kater is a healthcare professional and civic activist who established a grassroots organization centered on protecting constitutional norms and individual liberties.
 Her work bridges medical community outreach with political organizing to protect democratic systems and healthcare access.
-PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

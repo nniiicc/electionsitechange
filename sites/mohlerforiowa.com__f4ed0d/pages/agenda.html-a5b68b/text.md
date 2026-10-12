@@ -1,5 +1,5 @@
-Skip to the bills Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation The agenda These are bills Brett Mohler would introduce in the Iowa House if he's elected.
-Each one comes with a plain-English summary, the full bill text, and what it would cost, including where the evidence cuts against it.
+Skip to the bills Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation The agenda These are bills I'll introduce in the Iowa House if I'm elected.
+Each one comes with a plain-English summary, the full bill text, and what it would cost, including the tradeoffs.
 How it all gets paid for Pay As You Go Act Every bill in this series has to answer one question: how do you pay for it?
 My answer is a law, not a promise.
 See how the budget balances education HELP Act Helping Every Learner Progress If your child needed a speech pathologist in Moravia or Moulton, Iowa's Area Education Agencies made sure our schools could provide one.

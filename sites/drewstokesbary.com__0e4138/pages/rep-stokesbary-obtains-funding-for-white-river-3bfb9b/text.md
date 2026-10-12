@@ -14,6 +14,5 @@ The Capital Facilities budget includes $850,000 for design work on the White Riv
 This is an important project to protect businesses, homes and transportation routes along the White River in northern Sumner, while also improving habitat for salmon runs.
 I want to thank all our legislators, especially Senator Pam Roach and Representative Drew Stokesbary , who made sure this important funding was included despite all the other topics and issues they were tackling.
 I appreciate their dedication to Sumner’s needs and look forward to seeing this important project moving forward.
-In the News budget flooding More For You The News Tribune profiles House Position 1 race In the News AWB announces endorsement of Drew Stokesbary Endorsements The Seattle Times recommends: Rep.
-Drew Stokesbary Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News budget flooding More For You The Seattle Times Endorses Stokesbary for Reelection Endorsements Tacoma News Tribune picks Stokesbary Endorsements Endorsed by League of Education Voters Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

@@ -1,4 +1,4 @@
-Skip navigation menu Home Meet Paul Issues Events Volunteer Endorsements News Signs & Merch DONATE Events Home Meet Paul Issues Events Volunteer Endorsements News Signs & Merch DONATE Events FEATURED Campaign Events Belvidere LWVGR Candidate Meet & Greet Belvidere Community Building 111 West 1st Street Belvidere, IL 61108 League of Women Voters of Greater Rockford Candidate Meet & Greet RSVP Ogle County Town Hall 103 S.
+Skip navigation menu Home Meet Paul Issues Events Volunteer Endorsements News Signs & Merch DONATE Events Home Meet Paul Issues Events Volunteer Endorsements News Signs & Merch DONATE Events FEATURED Campaign Events Ogle County Town Hall 103 S.
 First Street Oregon, IL 61061 Join Paul and your neighbors for a Town Hall in Oregon!
 RSVP Rockton LWVGR Candidate Forum Rockton Township Center 302 West Main Street Rockton, IL 61072 League of Women Voters of Greater Rockford Candidate Meet & Greet RSVP Towanda Town Hall Towanda Community Building 103 S Jefferson Street Towanda, IL 61776 Join Paul and your neighbors for a Town Hall in Towanda!
 RSVP Full Events Calendar S ee our entire schedule of town halls, meet & greets, canvasses and phone banks!

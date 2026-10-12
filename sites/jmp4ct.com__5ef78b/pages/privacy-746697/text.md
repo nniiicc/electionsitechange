@@ -8,5 +8,5 @@ Message frequency varies.
 Message and data rates may apply.
 For help, reply HELP or email us at jmp4ct@gmail.com .
 You can opt out at any time by replying STOP.
-Paid for by Friends of JMP, Zoe Gluck, Treasurer.
+Paid for by Friends of John-Michael, Zoe Gluck, Treasurer.
 Approved by John-Michael Parker.

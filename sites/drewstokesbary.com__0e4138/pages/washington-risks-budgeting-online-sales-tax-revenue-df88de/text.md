@@ -17,5 +17,5 @@ In fact, the Illinois Supreme Court recently invalidated a similar law because i
 But most importantly, I oppose this proposal because it is unconstitutional under current Supreme Court case law.
 The proceeds of this new tax would go toward K-12 education, so the Legislature would literally be gambling education funding on reversing Supreme Court precedent.
 Our kids, teachers, and schools deserve better.
-In the News taxes More For You Washington Hospitality Association names Stokesbary “2020 Legislative Hero” Awards Auburn Chamber of Commerce gives Stokesbary highest rating Endorsements Stokesbary concerned about auditor’s media silence In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News taxes More For You Third major police group backs Drew Stokesbary Endorsements Stokesbary sponsors Auburn student as page In the News We endorse: Stokesbary, Robertson a good fit for Legislative District 31 (2020) Endorsements Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

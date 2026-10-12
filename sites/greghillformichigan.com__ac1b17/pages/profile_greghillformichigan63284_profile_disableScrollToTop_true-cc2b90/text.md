@@ -16,6 +16,6 @@ And every single one passed — by huge margins: 67%, 61%, 56%, 89%, 84%, 57%, 6
 When voters across parties agree by those margins, but the Legislature still can’t act, it tells you everything you need to know: Politicians are listening to their party and their donors — not the people they represent.
 That’s exactly why I’m running.
 I don’t want to be another...
-75 0 From the Sideline to the Senate Floor.
+76 0 From the Sideline to the Senate Floor.
 Phone: (248)318-8297 Privacy Policy GregHillForMichigan@gmail.com Terms and Conditions Let's Build a Stronger Michigan - Together.
 Paid for By Committee to Elect Greg Hill PO Box 144, Oxford MI 48371 Powered and secured by Wix bottom of page

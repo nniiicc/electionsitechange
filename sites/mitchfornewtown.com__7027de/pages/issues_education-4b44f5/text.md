@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Home ❭ Key Issues ❭ EDUCATION EDUCATION - Quality education and safety in our schools matter.
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Home ❭ Key Issues ❭ EDUCATION EDUCATION - Quality education and safety in our schools matter.
 As a long-term member of the Legislature's Education Committee, Mitch is committed to the fundamentals of a STEM education, focused on every child, regardless if they live in Newtown or any other part of the state.
 He's been a leader in special education, believing that children who learn "differently" benefit for their entire lives with early detection and interventions before they fall behind.
 A sampling of Mitch's work in Education includes: In 2024, secured a $3.5M Indoor Air Quality Grant for Newtown Public Schools.
@@ -16,4 +16,4 @@ Secured grants for public and private school safety upgrades.
 In 2016, Restored cuts education cost-sharing grants, including $180M Special Ed funding.
 THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE! « Previous: AFFORDABILITY Next: LOCAL CONTROL » Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

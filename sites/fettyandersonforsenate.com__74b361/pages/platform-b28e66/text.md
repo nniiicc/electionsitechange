@@ -1,6 +1,6 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
-Watch the journey → Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Platform Our plan rests on the Constitution and the respect, treatment and justice Americans should expect from our elected representatives as human beings, Americans, workers, paid and unpaid, and taxpayers.
+Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Platform Our plan rests on the Constitution and the respect, treatment and justice Americans should expect from our elected representatives as human beings, Americans, workers, paid and unpaid, and taxpayers.
 I support the US Constitution.
 I will work to ensure that the Constitution is enforced and ensure that the resources of the American people are used for Constitutional purposes only: to educate, protect and serve the health and welfare of the American people at home and abroad, to support our families, to protect our communities and to protect our natural resources for our benefit and the benefit of our children.
 I support human rights.

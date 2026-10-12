@@ -1,4 +1,5 @@
 Peter for Senate About Connect Get Involved Contact Popular Issues: Affordability Education Economic Development About Welcome to the official campaign homepage for Peter Antinozzi, one of three candidates for NC State Senate - District 32 in 2026.
+Making life affordable, lowering taxes, improving healthcare options, increasing teacher pay, expanding school choice, and creating more well‑paying jobs is my agenda for Forsyth County.
 A good starting point to learn more about my plans to serve the community effectively is my opening remarks at the senate debate held on June 29, 2026.
 Affordability Eliminate sales tax on groceries AND prepared foods.
 Permanent 10 cent reduction of the state sales tax on gasoline.

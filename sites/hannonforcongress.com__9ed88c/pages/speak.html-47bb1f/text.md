@@ -1,4 +1,4 @@
-☰ Home Volunteer Donate Invite Dennis Invite Dennis to speak He’d love to join your community.
+☰ Home Action Plan Volunteer Donate Invite Dennis Invite Dennis to speak He’d love to join your community.
 What we require No less than 25 attendees At least 48 hours notice Must be within the 26th congressional district Waived/Comped event fees (if any) We’ll respond as soon as we can to confirm availability.
 Speaking request form Fields marked * are required.
 Organizer name * Organization / group * Email * Phone * Event date * Start time * Location name * Address * Type of event / group * Select one Place of worship Community group / civic organization Business / professional group School / education group Veterans / service organization Union / workforce organization Nonprofit / advocacy group Other Expected attendance (25+)* Minimum of 25 people.

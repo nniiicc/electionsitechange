@@ -6,17 +6,19 @@ Next goal: every city, township, and village in Senate District 14.
 The cross-district route was well received.
 Now Tawn is going community by community so no township is left off the map.
 Invite her to run where you live.
-127.8 miles Running total — and still going Every City, Township & Village Checked boxes = Tawn has already run there.
+137.8 miles Running total — and still going Every City, Township & Village Checked boxes = Tawn has already run there.
 Unchecked = still on the list.
 Click a visited community for that day’s route.
 Dates and mileage are from each run.
 Jackson County Cities City of Jackson — July 25 · 3 miles Townships & Villages Blackman Township Brooklyn Village — Sept.
-25 · 4.6 miles Columbia Township Grass Lake Township — July 14 · 6.59 miles Village of Grass Lake — July 18 · 8.14 miles Hanover Township — Aug.
+25 · 4.6 miles Columbia Township — Oct.
+10 · 6.25 miles Grass Lake Township — July 14 · 6.59 miles Village of Grass Lake — July 18 · 8.14 miles Hanover Township — Aug.
 29 · 6 miles Village of Hanover — Aug.
 29 · 6 miles Henrietta Township — Aug.
 15 · 4.77 miles Leoni Township — July 22 · 5.08 miles Liberty Township — Sept.
 5 · 5.4 miles Napoleon Township — Oct.
-7 · 3 miles Norvell Township Rives Township Sandstone Township — Oct.
+7 · 3 miles Norvell Township — Oct.
+10 · 3.75 miles Rives Township Sandstone Township — Oct.
 3 · 5.4 miles Spring Arbor Township — Aug.
 1 · 7.63 miles Summit Township — Aug.
 1 · 7.63 miles Tompkins Township — Aug.
@@ -57,6 +59,8 @@ Tawn finished in 43:54 — 4th overall among the women — dedicated to police, 
 Community Run September 25 Brooklyn Village 4.6 miles • Every Village on the Map Met at Swain Memorial Park, canvassed the village, and finished at Village Creamery on Main Street.
 Community Run September 29 Freedom Township (Pleasant Lake) 5 miles • Freedom — Speech, Faith, and Property A sunset loop from Freedom Township Hall around Pleasant Lake.
 Neighbors, yard signs, and a township whose name should still mean something.
+Community Run October 10 Norvell & Columbia Townships 10 miles • Faith in God first 3.75 miles in Norvell, then 6.25 miles in Columbia.
+Two townships in one day.
 Community Run October 7 Napoleon Township 3 miles • Patriotism and education excellence A warm fall day.
 People noticed the flag.
 That evening, a fundraiser dinner for Wing Classical Academy in Dexter.

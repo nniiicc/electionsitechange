@@ -31,4 +31,4 @@ But it’s also important to mark Women’s History Month by recognizing the inc
 However much we might worry about finances or the job market or other issues, the magnitude of the struggles faced by women like Amelia is entirely different.
 And beyond this, Women’s History Month is a time simply to know about the past, and the women whose harsh lives preceded our relative abundance. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

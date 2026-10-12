@@ -1,9 +1,10 @@
 {
  "description": "Resources s://www.politicalcompass.org/test",
  "final_url": "https://kanekelly.wordpress.com/the-political-process/",
- "fingerprint": "389f28cdae3205331b3b3aa2509bb307b7afcba0",
+ "fingerprint": "b93184cf02a16e97e7f1702dbf7941ed95a9a4a2",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "The Compass – kanekelly.com",
  "years_mentioned": [
   "2026"

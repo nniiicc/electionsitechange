@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate More Home Issues Education Healthcare Good Governance Data Centers Donate ABOUT COLLIN My name is Collin Docterman.
+Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate More Home Issues Education Healthcare Good Governance Data Centers Unions Donate ABOUT COLLIN My name is Collin Docterman.
 I was born in Cincinnati in 1985.
 At age eight, my family moved to Huntington, West Virginia, and later to Philippi, West Virginia, during my high school years.
 Through all those moves, we stayed connected to Adams County, Ohio, where my grandparents lived.

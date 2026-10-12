@@ -18,5 +18,4 @@ Reply STOP to opt out.
 Reply HELP for assistance.
 We will not share your information with outside parties.
 Read our Privacy Policy here. @levonfornc Instagram widget A Champion for Alamance Families.
-Contact levonfornc@gmail.com Paid for by the Committee to Elect LeVon Barnes Read our Privacy Policy Join LeVon on October 5th for a fundraiser in Durham!
-Grab your Tix
+Contact levonfornc@gmail.com Paid for by the Committee to Elect LeVon Barnes Read our Privacy Policy

@@ -26,4 +26,4 @@ If there truly isn’t enough time for an open and transparent process, because 
 On the other hand, if the May adjournment is just an excuse for back-room dealings, then it’s time to stop putting up with that excuse.
 And once enough Democrats stand up to party leadership and work with Republicans to make these changes, then that opens the way to other reforms. https://commons.wikimedia.org/wiki/File:Illinois_House_of_Representatives.jpg; Daniel Schwen, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

@@ -3,7 +3,7 @@ Send Brief Wish to Support Us?
 Donate Now 12 events found.
 Events Events Search and Views Navigation Search Enter Keyword.
 Search for Events by Keyword.
-Find Events Event Views Navigation List List Month Day #ago 11/1/2025 Nov 1, 2025 - 10/11/2026 Now Select date.
+Find Events Event Views Navigation List List Month Day #ago 11/1/2025 Nov 1, 2025 - 10/12/2026 Now Select date.
 November 2025 Sat 1 Spring Hope Fundraiser Featured Nov 1, 2025 @ 3:00 pm - 5:00 pm Spring Hope, NC.
 Reception in support of James Gailliard with special guest Elaine Marshall * Tickets: $25 Young Democrat/Public Employee | $50 Ticket | $125 Neighbor (Sponsor) | $250 Supporter (Sponsor) | $500 Friend… $25.00 – $50.00 January 2026 Sun 11 Birthday Bash January 11 @ 12:00 pm - 2:00 pm Join us on Saturday, January 10th, 2026, from 12:00PM to 2:00 PM for a special birthday celebration!
 Tickets: $15 Young Democrat/Public Employee | $25 Ticket | $61 Birthday Buddy (Sponsor) | $100 Neighbor… February 2026 Wed 25 Black Leadership & Legacy Fundraiser February 25 @ 5:30 am - 7:30 pm Join us on Wednesday, February 25th, from 5:30–7:30 PM for a special evening in support of Black leadership in the North Carolina State Senate with Senator Natalie Murdock.

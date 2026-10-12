@@ -9,5 +9,5 @@ John-Michael also brings his experience as an educator and artist to the General
 He’s previously worked as an elementary and middle school science teacher, and toured professionally as a musician.
 He’s served his local community as a member of the boards of Madison Youth & Family Services, the Academy Community Center and Design Committee, and the non-profit Women & Family Life Center.
 John-Michael lives with his wife, Joyce Gendler, an expressive arts therapist, and their children, Charlie and Rosie, in Madison.
-Paid for by Friends of JMP, Zoe Gluck, Treasurer.
+Paid for by Friends of John-Michael, Zoe Gluck, Treasurer.
 Approved by John-Michael Parker.

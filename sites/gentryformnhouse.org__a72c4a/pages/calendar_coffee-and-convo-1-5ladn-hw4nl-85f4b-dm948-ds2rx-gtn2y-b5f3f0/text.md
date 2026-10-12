@@ -6,7 +6,7 @@ Bring your questions, concerns, and ideas.
 We will also be collection for Mutual Aid.
 If you have anything you would like to donate, bring that along.
 We can even take things to Open Doors for Youth, Boys and Girls club, or CAER food shelf. *Note: Mobilize description needs to be updated.
-Coffee and Conversation with Keenan Gentry · Mobilize Previous Previous October 18 Door knock in Elk River Newsletter Block This newsletter signup form needs a storage option.
+Coffee and Conversation with Keenan Gentry · Mobilize Previous Previous October 19 Door knock in Otsego Next Next October 25 Door knock in Otsego Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Join Our Mailing List Subscribe for expert tips on navigating public programs, upcoming policy changes, and exclusive early access to new digital tools.
 Email Address Sign Up Thank you!

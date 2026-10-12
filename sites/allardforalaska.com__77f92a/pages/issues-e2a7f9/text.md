@@ -21,4 +21,4 @@ DISAGREE?
 Thirty seconds.
 Five statements.
 Find out where you land.
-TAKE THE QUIZ → 110 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577
+TAKE THE QUIZ → 112 neighbors on the board Home Meet Jamie The Record The Fights Quiz Signs Roster Events Endorsements Donate Paid for by Allard for Alaska, 20417 Williamsburg Dr., Eagle River, Alaska 99577

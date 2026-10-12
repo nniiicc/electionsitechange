@@ -1,5 +1,5 @@
 top of page Donate to Help Reach Cary and Apex Voters Bryson Johnson for NC House District 21 About Bryson About District 21 Donate Socials Facebook Instagram Youtube About NC Representatice Ya Liu The Candidates of District 21 HOW ARE YOU DIFFERENT?
-Blog Asian Americans for Bryson Bryson refuses all PAC money.
+NC Lottery Blog Asian Americans for Bryson Bryson refuses all PAC money.
 When you donate, you fund a campaign run FOR THE PEOPLE, not SPECIAL INTERESTS!
 Clear Differences between Ya Liu and Bryson Johnson Ya Liu wants to elect her "own people" and says that she condemns racist rhetoric.
 Her record shows otherwise.

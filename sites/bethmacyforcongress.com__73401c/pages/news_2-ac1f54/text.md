@@ -1,4 +1,7 @@
-Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All August 25, 2026 In the News , The Roanoke Times Macy calls debate schedule announced by Cline ‘phony’ August 25, 2026 In the News , The Roanoke Times Democrat Beth Macy is disputing a debate schedule announced Monday evening by her opponent in the 6th Congressional District.
+Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All August 26, 2026 Daily News Record , In the News Beth Macy meets with veterans in Harrisonburg August 26, 2026 Daily News Record , In the News Beth Macy, the Democrat hoping to unseat Sixth District Republican incumbent Ben Cline, has been busy reaching out to groups such as farmers, faith leaders and veterans.
+And Tuesday night, her campaign held the third of three veterans’ forums, this one at AMVETS Post 7 in Harrisonburg.
+Read the full article here: https://www.dnronline.com/news/elections/beth-macy-meets-with-veterans-in-harrisonburg/article_a741830c-944e-564c-953c-dbea947ccc3c.html ...
+Read More August 25, 2026 In the News , The Roanoke Times Macy calls debate schedule announced by Cline ‘phony’ August 25, 2026 In the News , The Roanoke Times Democrat Beth Macy is disputing a debate schedule announced Monday evening by her opponent in the 6th Congressional District.
 Read the full article here: https://roanoke.com/news/local/government-politics/elections/article_396bd5f2-b747-4ee0-a701-c62f98b51600.html#tracking-source=home-top-story ...
 Read More August 25, 2026 Daily News Record , In the News Rep.
 Ben Cline criticizes Beth Macy’s comments about debate invitations August 25, 2026 Daily News Record , In the News Sixth District Rep.
@@ -75,11 +78,6 @@ Assuming Friday’s Supreme Court of Virginia ruling in the referendum case stan
 Read More May 6, 2026 Newsletter The Best of Beth: A Newsletter from my Campaign May 6, 2026 Newsletter Hi Friends!
 Keeping up with political news can be depressing these days: from Trump’s illegal war that is wrecking the economy and hurting all Americans to the Supreme Court eviscerating the Voting Rights Act, it can seem like all hope is lost and our country as we’ve known it is gone forever.
 However, the midterm […] ...
-Read More April 28, 2026 Substack Harriet the Spy is the reason I’m a writer today.
-So it ticked me off to learn that my favorite book was beingtargeted for book banning by the Trump administration and its “parents’ rights”-spouting ilk, including the recent removal of a Department of Education coordinator whose job was to investigate accusations of unlawful book removals.
-April 28, 2026 Substack The library is the first place I remember walking to by myself, unless you count the time I ran away on my tricycle to the only other place I knew—the grocery store—where a neighbor lady found me chatting up the butcher and asking for a free popsicle.
-I was four.
-The great librarian Linn Wilson […] ...
 Read More Page 1 Page 2 Page 3 Page 4 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
 Msg & data rates may apply.
 Msg frequency varies.

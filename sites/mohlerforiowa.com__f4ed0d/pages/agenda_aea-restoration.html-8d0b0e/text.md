@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation education The agenda HELP Act Helping Every Learner Progress An Act relating to area education agency services and funding, making appropriations, and including effective date and applicability provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including the tradeoffs, and my draft of the legal text.
 Page one See where it goes The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 If your child needed a speech pathologist in Moravia or Moulton, Iowa's Area Education Agencies made sure our schools could provide one.
@@ -42,7 +42,7 @@ A hatched edge is a range.
 The stream running back to the state is the yearly cut.
 The media and educational services stream includes the share for students in nonpublic schools, so less than that leaves district budgets, and no published figure says how much less.
 Not drawn: the rest of the special education support money, which districts already have to spend at their AEA, because the analysis doesn't estimate it.
-Already in the budget today Cut from AEA aid New state money The same numbers, side by side Already in the budget today Cut from AEA aid New state money #ago Media and educational services State of Iowa → to School district budgets $71.4 million to $73.9 million Special education support share State of Iowa → to School district budgets $15.9 million to $16.6 million Yearly cut to AEA aid Area Education Agencies → to State of Iowa $32.5 million Special education oversight State of Iowa → to Department of Education $10 million Under this bill Media and educational services State of Iowa → to Area Education Agencies $71.4 million to $73.9 million Special education support share State of Iowa → to Area Education Agencies $15.9 million to $16.6 million Ending the yearly cut State of Iowa → to Area Education Agencies $32.5 million AEA staff training money State of Iowa → to Area Education Agencies $2.2 million to $2.3 million Special education oversight State of Iowa → to Department of Education $10 million The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+Already in the budget today Cut from AEA aid New state money The same numbers, side by side Already in the budget today Cut from AEA aid New state money #ago Media and educational services State of Iowa → to School district budgets $71.4 million to $73.9 million Special education support share State of Iowa → to School district budgets $15.9 million to $16.6 million Yearly cut to AEA aid Area Education Agencies → to State of Iowa $32.5 million Special education oversight State of Iowa → to Department of Education $10 million Under this bill Media and educational services State of Iowa → to Area Education Agencies $71.4 million to $73.9 million Special education support share State of Iowa → to Area Education Agencies $15.9 million to $16.6 million Ending the yearly cut State of Iowa → to Area Education Agencies $32.5 million AEA staff training money State of Iowa → to Area Education Agencies $2.2 million to $2.3 million Special education oversight State of Iowa → to Department of Education $10 million The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 The math What it costs and who pays Already in the budget today Media and educational services $71.4 million to $73.9 million Special education support share $15.9 million to $16.6 million Special education oversight $10 million New state money Ending the yearly cut $32.5 million AEA staff training money $2.2 million to $2.3 million Under this bill, stream by stream.
 Each bar starts at zero, and they all share one scale.
@@ -76,20 +76,19 @@ As a consistency check, the same agency's earlier figures from its House File 26
 Both notes come from the same agency and the same base data, so this only shows the two agree with each other.
 It is not a second, independent estimate.
 Not counted here: what each district in our area gains or loses (that takes the state's school aid file, which we haven't pulled yet), and any new AEA cut a future Legislature writes into its budget bills.
-The limits of our case What the data does not support We can't say HF 2612 caused every one of the 429 fewer AEA staff.
+Open questions What we don't know yet We can't say HF 2612 caused every one of the 429 fewer AEA staff.
 That number is the drop from one fall to the next, which the AEAs reported to legislators and Democratic lawmakers released in August 2024.
 Staff started leaving in January 2024, when the governor first proposed the overhaul, before any bill passed.
-It's timing, and we present it as timing.
+It's timing.
 The special education change came after that count, too: letting districts spend part of their special education money outside the AEA took effect in July 2025, so it can't explain the staff count from August 2024.
-We also couldn't find the AEAs' own submissions online, so the figure rests on news reports of them .
-We have no staff-loss number for Great Prairie AEA.
-Brett's first post gave one, and we couldn't find it in any source we could reach, so it isn't on this page.
+I also couldn't find the AEAs' own submissions online, so the figure rests on news reports of them .
+I couldn't find a staff-loss number for Great Prairie AEA.
 Iowa Public Radio reported Great Prairie among the AEAs with the highest staff turnover in school year 2023-24.
 Turnover counts people who left, though, not how many fewer staff the agency ended up with.
 Money alone may not bring the specialists back.
-If the people aren't there to hire, the staffing numbers this bill makes every AEA publish will show it, and we'll say so.
+If the people aren't there to hire, the staffing numbers this bill makes every AEA publish will show it, and I'll say so.
 Then the state should go after the shortage itself, by helping AEAs recruit and train specialists, instead of calling the job done.
-The other side's strongest points Where the evidence cuts against us The same bill, HF 2612, raised teacher pay floors in two steps.
+Who gives something up The tradeoffs The same bill, HF 2612, raised teacher pay floors in two steps.
 Starting pay went to at least $47,500 in 2024-25, then $50,000 from July 2025, and teachers with at least twelve years went to at least $60,000, then $62,000.
 The state paid for both: $66.3 million more in 2024-25, and another $26.4 million in 2025-26, according to the fiscal note.
 That was long overdue, and this bill leaves it alone.
@@ -117,7 +116,7 @@ SF 659 kept it at $32.5 million in 2025-26, and HF 2800 made $32.5 million perma
 So putting the money back the way it flowed before HF 2612 would still leave a cut.
 This bill goes further and ends it.
 That's a choice, and it's the reason the bill costs new money.
-We think it's the right one.
+I think it's the right one.
 If the state wants the AEAs to do the job, it should pay for the job in the open, not trim it back every budget.
 Some districts now spend the media and educational services money on other needs, and under this bill they'd lose that choice.
 We should be funding our schools properly in the first place, so districts aren't squeezed into choosing between AEA services and whatever else their kids need.

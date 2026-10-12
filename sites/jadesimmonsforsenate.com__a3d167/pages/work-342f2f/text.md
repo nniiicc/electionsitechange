@@ -1,5 +1,15 @@
 Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Policies Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Policies Back Policy Serving All The Way Calendar Donate Join Team Future Today this is where we rise!
-Sign Up Skip to Videos Statement of Belief: Honor God, Serve People My faith is at the core of who I am, how I serve, and how I see others and the world around me.
+Sign Up Skip to Videos Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility Resolve Without Recklessness.
+Diplomacy First.
+Readiness Always.
+America must rebuild its reputation as a nation whose strength is matched by its judgment, whose commitments can be trusted, and whose power serves a clear purpose.
+Our allies must know that our word means something.
+Our adversaries must understand that our commitments are serious.
+And the world must see a United States that can defend its interests without abandoning its principles.
+TEXAS-FIRST TECH: AI, TECHNOLOGY & TEXAS’S FUTURE I would lead the charge for the creation of a Texas-First scorecard that evaluates every major publicly supported data-center project against a common set of transparent measures.
+In order of priority, community impact/public cost, resource impact/capacity, and economic return would be measured.
+While economic gain for Texas is desired, money, and especially not greed, cannot be the only deciding factor.
+Statement of Belief: Honor God, Serve People My faith is at the core of who I am, how I serve, and how I see others and the world around me.
 Since the beginning of time, religion has been abused and misused in the quest for power and control and I believe we are at the height of that abuse again.
 Therefore, it’s important you know what role my faith will (and will not) play in how I lead.
 Thrivability: Beyond Affordability to Economic Possibility I will push for targeted, real-world solutions that reduce pressure on household budgets and leave breathing room for stabilization, growth, and even expansion A Breakthrough Brief: Thrivability for Small Business As an owner of a compact business, running leaner than ever in this economy, I intimately understand the plight and possibility of the small business owner.

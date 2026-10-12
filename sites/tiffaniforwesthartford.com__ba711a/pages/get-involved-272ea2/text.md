@@ -1,4 +1,4 @@
-top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED NEWS More Use tab to navigate through the menu items.
+top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED ENDORSEMENTS NEWS More Use tab to navigate through the menu items.
 Get Involved Join #TeamTiffani and make a difference for West Hartford!
 There are many ways to volunteer, from walking door to door to hosting meet-and-greets.
 Let us know how you can help: BECOME A VOLUNTEER Volunteers are the backbone of any successful political campaign.

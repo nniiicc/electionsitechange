@@ -43,18 +43,3 @@ All of it helps.
 Donate Volunteer Sign the petition Husband, father, combat veteran, small business owner and the representative for Kentucky’s 45th House District.
 Facebook-f Instagram Youtube Threads X-twitter Tiktok LEARN MORE Home About Adam Where I stand Follow on Social Get involved Volunteer Donate Contact Sign the Petition Resources Newsletter Request a Yard Sign KY Voter Portal 45th District Map Paid for by Adam Moore for State Representative. © # Adam Moore for Kentucky.
 All rights reserved.
-A Petition to Hold Data Centers Accountable Kentuckians get a voice and a vote.
-That means public hearings and a vote by those living in the local community impacted, not politicians in Frankfort or Washington.
-Full public transparency and no backroom deals or Non-Disclosure Agreements (NDAs).
-NO cost to consumers or ratepayers for any infrastructure upgrades required or a rise in energy demand caused by the data center.
-NO tax breaks!
-Kentucky families need the tax revenue far more than Big Tech Billionaires and giant corporations need another tax break.
-Kentucky jobs for Kentucky workers.
-Any jobs created by a data center (construction or operation) must be filled by Kentucky workers, including our high-skilled labor union workforce.
-Strong Environmental protections for our air, land and water, including noise abatement.
-Any plan to build a data center must include a “decommissioning plan” for when that data center is no longer needed or closed.
-Add Your Name I believe hyper-scale data centers in Kentucky must be held accountable and any legislation must include these core principles.
-First name Last name Email ZIP code Mobile (optional) County Fayette Jessamine Another Kentucky county Send me updates on this bill and the campaign.
-Message and data rates may apply.
-Sign the petition We’ll never sell your information.
-Unsubscribe any time.

@@ -1,4 +1,4 @@
-top of page Home About Media Peachey for Montana Flathead Values.
+top of page Home About Media Endorsements Peachey for Montana Flathead Values.
 Real Solutions. ​ About Me I'm Derek Peachey The Flathead Valley is a special place.
 What makes it special isn't simply the mountains, rivers, open spaces, or small towns.
 It's the people who live here and the values that have shaped these communities for generations: hard work, personal responsibility, freedom, strong families, and neighbors willing to show up for one another. ​ Those are the values my wife, Stephanie, and I are working to pass along to our two sons.
@@ -19,6 +19,4 @@ Message and data rates may apply.
 Donations may be solicited.
 Text HELP for help.
 Text STOP to unsubscribe.
-PAID FOR BY PEACHEY FOR MONTANA, REPUBLICAN, 704C East 13th Street, PMB 628, Whitefish, MT 59937 Whitefish, MT.
-59937.
-Treasurer: Adam Woodard bottom of page
+PAID FOR BY PEACHEY FOR MONTANA, REPUBLICAN, 704C East 13th Street, PMB 628, Whitefish, MT 59937 Treasurer: Adam Woodard bottom of page

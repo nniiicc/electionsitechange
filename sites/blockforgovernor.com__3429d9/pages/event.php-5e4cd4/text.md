@@ -1,15 +1,6 @@
 ★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate Where to find us Upcoming Appearances Meet Ken at upcoming campaign stops and community events across Rhode Island.
 Invite Ken to your event Please contact Michelle Conway at michelle@blockforgovernor.com .
-OCT 11 2026 Upcoming Sunday Federal Hill Columbus Day Parade Time 11:00 a.m. - 1:00 p.m.
-Event details The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.
-Atwells Avenue and surrounding roads will be closed to vehicle traffic during the time of the parade from 11 am – 1 pm.
-Come enjoy, bring your flags and experience the culture, energy and pride that makes this parade a Federal Hill favorite.
-PARKING There are over 1000 parking spaces available throughout the Avenue.
-Various restaurants have opened valet stations.
-We recommend asking the restaurant you plan to dine at if they have done this so they can direct you to find the location.
-Paid valet parking lots are available at 126 Spruce Street, 107 Federal Street, 57 Sutton Street, 90 DePasquale Ave, and 70 Dean Street.
-Additional on-street parking is available throughout Federal Hill.
-Get directions OCT 12 2026 Upcoming Monday Woonsocket Autumnfest Parade Time 9:30 - 11:30 a.m.
+OCT 12 2026 Upcoming Monday Woonsocket Autumnfest Parade Time 9:30 - 11:30 a.m.
 Location Festival: WW II Memorial Park 40 Snow Street Woonsocket Event details Autumnfest is a family‑friendly, multi‑day festival held annually in Woonsocket, RI, at World War II Veterans Memorial Park (40 Snow Street) It features live music, artisan and food vendors, carnival rides, kids’ activities, fireworks, and the signature 10‑division Knights of Columbus Columbus Day Parade on Monday, October 12 2026 Dates & Parade Time Friday, Oct 9, 2026: 6:00 pm – 10:00 pm Saturday, Oct 10, 2026: 10:00 am – 10:00 pm Sunday, Oct 11, 2026: 10:00 am – 10:00 pm PARADE Monday, Oct 12, 2026 Parade kicks off at 9:30 a.m.
 The parade is the closing event of the festival weekend, with the park open until about 6:00 pm after the parade Get directions View event details OCT 13 2026 Upcoming Tuesday Conversation with Ken - Portsmouth Time 6:00 - 8:00 p.m.
 Location The Valley Inn 2221 West Main Road Portsmouth Event details Pizza.
@@ -33,7 +24,16 @@ Advance registration is encouraged.
 Hear directly from the candidates vying to become Rhode Island's next Governor The East Bay Chamber of Commerce invites business leaders, community members, and voters to attend this free public forum.
 Gain firsthand insights into where the candidates stand on key issues impacting public policy, regional economic growth, and the business climate across Rhode Island.
 Get directions Register to attend On the campaign trail Past Appearances A look back at recent campaign stops and community events.
-Past appearance OCT 08 2026 Completed Thursday Conversation with Ken - Newport Time 5:00 - 7:00 p.m.
+Past appearance OCT 11 2026 Completed Sunday Federal Hill Columbus Day Parade Time 11:00 a.m. - 1:00 p.m.
+Event details The parade marches from Harris Avenue to Bradford Street along Atwells Avenue showcasing floats, traditional music, dancing, classic cars and local organizations.
+Atwells Avenue and surrounding roads will be closed to vehicle traffic during the time of the parade from 11 am – 1 pm.
+Come enjoy, bring your flags and experience the culture, energy and pride that makes this parade a Federal Hill favorite.
+PARKING There are over 1000 parking spaces available throughout the Avenue.
+Various restaurants have opened valet stations.
+We recommend asking the restaurant you plan to dine at if they have done this so they can direct you to find the location.
+Paid valet parking lots are available at 126 Spruce Street, 107 Federal Street, 57 Sutton Street, 90 DePasquale Ave, and 70 Dean Street.
+Additional on-street parking is available throughout Federal Hill.
+Get directions Past appearance OCT 08 2026 Completed Thursday Conversation with Ken - Newport Time 5:00 - 7:00 p.m.
 Location Provence sur Mer 39 Touro Street Newport Event details Attendance is limited to 70 R.S.V.P by October 5 to: Michelle@blockforgovernor.com Refreshments will be served Get directions Thursday Conversation with Ken - Newport Past appearance OCT 07 2026 Completed Wednesday WJAR Channel 10 Gubernatorial Debates Time 7:00 - 8:00 pm Location WJAR Channel 10 Event details Moderated by Gene Valicenti Airs live on NBC 10 and COASTAL ABC Streams live on: turnto10.com, coastalabc.com, NBC 10 Facebook page and YouTube channel Wednesday WJAR Channel 10 Gubernatorial Debates Past appearance OCT 07 2026 Completed Wednesday Sankofa World Market Time 3:00 - 4:30 PM Location Sankofa World Market 275 Elmwood Avenue Providence, RI Event Information Visit the Sankofa World Market in Providence.
 View event details Past appearance OCT 07 2026 Completed Wednesday Eggs & Issues: Gubernatorial Candidate Forum Time 8:30 - 10:00 a.m.
 Location Kirkbrae Country Club 197 Old River Road Lincoln Event details The Northern Rhode Island Chamber of Commerce invites you to Eggs & Issues featuring candidates for Rhode Island Governor to hear from candidates about the issues shaping our state's future.

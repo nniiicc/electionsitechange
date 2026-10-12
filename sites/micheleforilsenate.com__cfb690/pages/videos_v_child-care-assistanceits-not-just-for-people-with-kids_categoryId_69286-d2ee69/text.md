@@ -2,6 +2,6 @@
 I'm Michele Clark!
 You Might Also Like Hi!
 I'm Michele Clark!
-Get to Know Me (part 1) Get to Know Me (part 2) The Illinois Property Tax Problem Michele For IL Senate Website paid by: Friends of Michele Clark Mailing Address 801 W.
+The Illinois Property Tax Problem Get to Know Me (part 2) Get to Know Me (part 1) Michele For IL Senate Website paid by: Friends of Michele Clark Mailing Address 801 W.
 Algonquin Rd.
 #7203 Algonquin, IL 60102 Contact info@friendsofmicheleclark.com

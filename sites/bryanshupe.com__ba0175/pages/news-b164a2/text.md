@@ -1,6 +1,20 @@
 36 th District Home About Priorities News Voting Get Involved Donate The Latest News & Updates Follow Bryan's latest conversations, local updates, and community posts straight from his social channels.
 Feed refreshes every 8 hours Follow Bryan Mr.
-302 BryanShupeDE · 10/10/2026 Delaware Tech Changes Policy: No In-State Tuition or Residency-Based Financial Aid for Undocumented Immigrants We recent...
+302 BryanShupeDE · 10/11/2026 Thank you CoastLife TV for visiting our small business the Farmacy Market!🥕🌱 How local is “local”?
+At Farmacy Market,...
+Thank you CoastLife TV for visiting our small business the Farmacy Market! 🥕🌱 How local is “local”?
+At Farmacy Market, more than 60% of what you’ll find comes from within 100 miles!
+We’re heading inside Farmacy Market in Milford to meet co-owners Patrick Helmick and Sherry Shup View on Facebook BryanShupeDE · 10/11/2026 SB 23: Deceptive language, hidden consequences First, “harm reduction.” Then, “charity care.” Now, “Housing for Every De...
+SB 23: Deceptive language, hidden consequences First, “harm reduction.” Then, “charity care.” Now, “Housing for Every Delawarean.” The majority party keeps using language that sounds compassionate while leaving the consequences out of the headline.
+Who would disagree that every D View on Facebook BryanShupeDE · 10/11/2026 You work overtime.
+Dover spends overtime.
+It’s time to change that.
+Delaware families deserve to keep more of their payc...
+You work overtime.
+Dover spends overtime.
+It’s time to change that.
+Delaware families deserve to keep more of their paychecks—and a state government that spends responsibly.
+Here’s what I’m fighting for: Tax relief for extra work — HB 126 I sponsored legislation to eliminate Dela View on Facebook BryanShupeDE · 10/10/2026 Delaware Tech Changes Policy: No In-State Tuition or Residency-Based Financial Aid for Undocumented Immigrants We recent...
 Delaware Tech Changes Policy: No In-State Tuition or Residency-Based Financial Aid for Undocumented Immigrants We recently discussed the U.S.
 Department of Justice suing the University of Delaware over its policy offering in-state tuition to qualifying undocumented students while View on Facebook BryanShupeDE · 10/10/2026 Higher Gas Taxes.
 More DMV Fees.
@@ -42,27 +56,8 @@ Delaware deserves leaders who ask tough questions, expose problems, and...
 One seat matters.
 Let’s stop the supermajority.
 Delaware deserves leaders who ask tough questions, expose problems, and take action.
-My record includes exposing 50,000 DMV voter registration records needing review, sponsoring constitutional spending limits, challenging the use of View on Facebook BryanShupeDE · 10/7/2026 Recognize deceptive language and take away its power.
-Most of you recognize political propaganda.
-Democrats and Republic...
-Recognize deceptive language and take away its power.
-Most of you recognize political propaganda.
-Democrats and Republicans both use it.
-But do you notice how the language inside legislation can shape your opinion before you even learn what it does?
-Consider SB 249, Delaware’s su View on Facebook BryanShupeDE · 10/7/2026 Healthcare Costs Under This Bill Don’t Disappear.
-They Get Shifted.
-Spotlight Delaware’s latest article highlights conce...
-Healthcare Costs Under This Bill Don’t Disappear.
-They Get Shifted.
-Spotlight Delaware’s latest article highlights concerns from hospital leaders about implementing Senate Bill 13, the legislation I voted against, is now a law that mandates to whom Delaware hospitals must give fr View on Facebook BryanShupeDE · 10/7/2026 Read beyond the headline.
-There may be more to the story.
-Reading Matthew this morning, I began thinking about how the w...
-Read beyond the headline.
-There may be more to the story.
-Reading Matthew this morning, I began thinking about how the works of Jesus are more than historical events.
-They also reveal deeper spiritual truths about who He is and what it means to follow Him.
-When His disciples aske View on Facebook Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 22 Days 20 Hours 20 Minutes 24 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+My record includes exposing 50,000 DMV voter registration records needing review, sponsoring constitutional spending limits, challenging the use of View on Facebook Together, We Will Save Delaware.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 21 Days 20 Hours 18 Minutes 59 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

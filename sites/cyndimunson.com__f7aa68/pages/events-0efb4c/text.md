@@ -1,7 +1,6 @@
 Skip navigation menu Meet Cyndi Priorities Events Store Volunteer Media Contact Donate Meet Cyndi Priorities Events Store Volunteer Media Contact Donate Join Cyndi as she travels across Oklahoma!
 The Munson Minivan Tour Campaign Events Join Us For Events Around the State!
-Stillwater Meet and Greet Stonecloud Brewing 917 S Husband St Stillwater, OK 74075 Join Cyndi Munson in Stillwater at Stonecloud Brewing to hear about her vision for the future of Oklahoma as Governor!
-RSVP Moore Meet and Greet The Black Rose 1930 N Broadway Ave Ste 102 Moore, OK 73160 Join Cyndi Munson in Moore at The Black Rose to hear about her vision for the future of Oklahoma as Governor!
+Moore Meet and Greet The Black Rose 1930 N Broadway Ave Ste 102 Moore, OK 73160 Join Cyndi Munson in Moore at The Black Rose to hear about her vision for the future of Oklahoma as Governor!
 RSVP Chickasha Meet and Greet Crazy 8 Cafe & Coffeehouse 424 W Chickasha Ave Chickasha, OK 73018 Join Cyndi Munson in Chickasha at Crazy 8 Cafe & Coffeehouse to hear about her vision for the future of Oklahoma as Governor!
 RSVP Marlow Meet and Greet Western Bloom Floral Outfitter & Goods 1202 N Broadway St Marlow, OK 73055 Join Cyndi Munson in Marlow at Western Bloom to hear about her vision for the future of Oklahoma as Governor!
 RSVP Yukon Meet and Greet Czech Hall 205 N Czech Hall Rd Yukon, OK 73099 Join Cyndi Munson in Yukon at Czech Hall to hear about her vision for the future of Oklahoma as Governor!

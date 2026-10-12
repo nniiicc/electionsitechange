@@ -9,9 +9,8 @@ Our seniors deserve top-of-the-line care after a lifetime of hard work, and we�
 As governor, Katie has delivered on the issues that matter most to Arizona seniors: lowering costs and expanding access to healthcare.
 This year, she signed a bipartisan budget providing $1.4 billion in tax relief for hardworking Arizonans, including a larger standard deduction for 88 percent of taxpayers, a new $6,000 deduction for Arizona seniors, and the elimination of taxes on tips and overtime pay.
 She has also fought to expand access to care, lower prescription drug costs, erase $1 billion in medical debt for nearly 700,000 Arizonans, and strengthen services and support systems that help Arizona seniors get the care and stability they’ve earned after a lifetime of hard work.
-Next Post Elect Katie Hobbs Campaign Announces Nearly $# Million Raised PHOENIX – Today, Arizona Gov.
-Katie Hobbs announced that her campaign committee, Elect Katie Hobbs, has raised nearly $# million since she was elected governor in 2022.
-The contributions come from tens of thousands of supporters, and 96 percent of contributions are less than $# Nearly half...
+Next Post Katie Hobbs and John Giles March in 45th Annual Phoenix Pride Parade PHOENIX - On Sunday, October 11th, Gov.
+Katie Hobbs and her running mate, former Mesa Mayor John Giles, marched in the 45th Annual Phoenix Pride Parade alongside Representative Greg Stanton and the Maricopa...
 Next Post First name SIGN UP!
 Sign up for text updates.
 By providing your phone number, you consent to recurring autodialed campaign & donation messages from Katie Hobbs to the phone number you provide.

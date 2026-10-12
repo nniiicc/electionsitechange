@@ -4,9 +4,9 @@ Self Scheduled Door Knocking Contact DONATE Open Menu Close Menu Folder: Get To 
 Self Scheduled Door Knocking Contact DONATE Upcoming events.
 Upcoming events.
 Check out what we've got in store.
-Oct 11 Sunday Door Knocking Sunday, October 11, 2026 12:30 PM 3:00 PM Google Calendar ICS Join us and knock some doors!
+Oct 16 Friday Door Knocking Friday, October 16, 2026 4:00 PM 6:30 PM Google Calendar ICS Join us and knock some doors!
 Meet up Park Location will be emailed out.
-View Event → Oct 16 Friday Door Knocking Friday, October 16, 2026 4:00 PM 6:30 PM Google Calendar ICS Join us and knock some doors!
+View Event → Oct 11 Sunday Door Knocking Sunday, October 11, 2026 12:30 PM 3:00 PM Google Calendar ICS Join us and knock some doors!
 Meet up Park Location will be emailed out.
 View Event → Oct 9 Friday Door Knocking With Steven Schroer & JD Delgado Friday, October 9, 2026 4:00 PM 6:30 PM Google Calendar ICS Join us and knock some doors!
 Meet up Park Location will be emailed out.
@@ -83,4 +83,4 @@ Come spend the evening with my family and me.
 Share a home-cooked meal with good company and talk the night away about the issues that are important to all of us.
 Your donations will go to support my campaign for the State House and to make Minnesota and the world a better place.
 Tickets: Minimum: $25 Recommended: $40 Full PCR Donation: $# RSVP View Event → Nov 19 DFL SD57 Central Committee Meeting Wednesday, November 19, 2025 6:30 PM 7:30 PM Google Calendar ICS Local DFL Meeting.
-Location: Lakeville South High School View Event → Nov 9 CD2 Gala Sunday, November 9, 2025 4:30 PM 8:00 PM Google Calendar ICS DFL Congressional District 2 Gala Located at: Royal Cliff Wedding & Events center 2nd Congressional District DFL (MN) — Donate via ActBlue View Event → Oct 15 DFL SD57 Central Committee Meeting Wednesday, October 15, 2025 6:30 PM 8:00 PM Google Calendar ICS View Event → contact@stevenschroermn.org PO Box 26, Lakeville, MN 55044
+Location: Lakeville South High School View Event → Nov 9 CD2 Gala Sunday, November 9, 2025 4:30 PM 8:00 PM Google Calendar ICS DFL Congressional District 2 Gala Located at: Royal Cliff Wedding & Events center 2nd Congressional District DFL (MN) — Donate via ActBlue View Event → contact@stevenschroermn.org PO Box 26, Lakeville, MN 55044

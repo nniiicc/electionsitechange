@@ -1,4 +1,4 @@
-Skip to content MELE FOR CONGRESS Open menu Platform Mele 10 Articles Contact Volunteer Donate Campaign briefs & updates Facts, stakes, and a clear point of view.
+Skip to content MELE FOR CONGRESS Open menu Platform Articles Contact Volunteer Donate Campaign briefs & updates Facts, stakes, and a clear point of view.
 Short, readable campaign briefs on the choices facing New Jersey voters—and the principles Gregg will take to Congress.
 Browse all articles Israel & humanitarianism Follow the money Gregg’s standard The full briefing room Choose an issue.
 Read the record.
@@ -9,7 +9,7 @@ Read the documented record → Follow the money $7,900 a Month to His Own Practi
 Show Voters the Lease.
 Read the FEC-backed account → Public benefits A Lawful Benefit—and a Fair Request for Transparency Read what the records establish → Civilian defense Iron Dome Saves Lives.
 Why Would Anyone Oppose It?
-Read the policy test → Evidence matters A Hospital Is Not a Shield for Terror Read the documented lesson → Questions of judgment Radical Ties Deserve Straight Answers Read Gregg’s standard → Government reform A Chainsaw Is No Substitute for a Scalpel Read the common-sense case → Promises & price tags “Free” Is Not a Funding Plan Read the affordability test → Kitchen-table economics Washington Can’t Spend Its Way to Affordability Read the pocketbook case → Gregg’s governing standard The Constitution Comes First Read the positive case → Campaign contrast Stop the Radical Agenda Read the choice → Civic participation If You Don’t Vote, Someone Else Signs the Check Take the Mele 10 Challenge → Accountability Don’t Give Washington a Blank Check Read Gregg’s three-part test → Human lives are not political abstractions.
+Read the policy test → Evidence matters A Hospital Is Not a Shield for Terror Read the documented lesson → Questions of judgment Radical Ties Deserve Straight Answers Read Gregg’s standard → Government reform A Chainsaw Is No Substitute for a Scalpel Read the common-sense case → Promises & price tags “Free” Is Not a Funding Plan Read the affordability test → Kitchen-table economics Washington Can’t Spend Its Way to Affordability Read the pocketbook case → Gregg’s governing standard The Constitution Comes First Read the positive case → Campaign contrast Stop the Radical Agenda Read the choice → Civic participation If You Don’t Vote, Someone Else Signs the Check Read why participation matters → Accountability Don’t Give Washington a Blank Check Read Gregg’s three-part test → Human lives are not political abstractions.
 Israel & moral clarity Does Adam Hamawy’s Humanitarianism Include Israeli Children?
 A humanitarian standard that protects only one population is not a humanitarian standard.
 It is a political preference dressed in moral language.
@@ -117,13 +117,13 @@ It guarantees honest ones: read the bill, disclose the cost, respect the limits 
 Country before party.
 Results before ideology.
 The Constitution before both.
-Ten conversations can change an election.
-Civic participation If You Don’t Vote, Don’t Complain—Take the Mele 10 Challenge Elections are decided by people who show up, help others participate, and follow through.
-The Mele 10 Challenge asks each supporter to help ten people confirm their registration and make a voting plan.
-The goal is not another social-media argument.
-It is ten respectful, person-to-person conversations that end with ten prepared voters.
-Check your status, learn the deadlines, decide how you will vote, and make sure the people around you can do the same.
-Take the challenge Official NJ voter information → Washington’s promises still reach the kitchen table.
+Your vote decides who signs the check.
+Civic participation If You Don’t Vote, Someone Else Signs the Check Government keeps spending, taxing, and making decisions whether you participate or not.
+Every election determines who writes the laws, approves the spending, and answers for the results.
+Staying home does not stop those decisions; it simply hands your share of the decision to everyone who does vote.
+Check your registration, learn the deadlines, decide how you will vote, and encourage the people around you to do the same.
+Participation is how taxpayers turn frustration into accountability.
+Check your voter information Washington’s promises still reach the kitchen table.
 Affordability Washington Can’t Spend Its Way to Affordability Another federal promise is not relief if it arrives with more debt, higher prices, and no measurable result.
 New Jersey families feel federal policy in grocery aisles, utility bills, rent, mortgage payments, and taxes.
 Real relief starts with spending discipline, reliable American energy, fewer barriers to building and business, and competitive markets that give families choices.
@@ -148,4 +148,4 @@ Gaza tunnel file image : Israel Defense Forces, CC BY-SA 2.0; cropped and color 
 U.S.
 Constitution : National Archives, public domain; cropped and color graded.
 Turn information into action Help Gregg reach more New Jersey voters.
-Volunteer Donate today MELE FOR CONGRESS Home Platform Mele 10 Contact PAID FOR BY GREGG MELE FOR AMERICA Donate
+Volunteer Donate today MELE FOR CONGRESS Home Platform Contact PAID FOR BY GREGG MELE FOR AMERICA Donate

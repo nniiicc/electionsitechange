@@ -1,4 +1,4 @@
-top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED NEWS More Use tab to navigate through the menu items.
+top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED ENDORSEMENTS NEWS More Use tab to navigate through the menu items.
 Priorities for West Hartford As a Town Councilor, I have seen firsthand how decisions made at the state level affect our schools, town services, and property taxpayers.
 I am running for State Representative to give West Hartford a strong voice at the Capitol and ensure our community receives its fair share. ​ My priorities are rooted in a simple belief: government should lift people up, expand opportunity, and make life better for the people it serves.
 Making Life More Affordable Too many families are being forced to choose between putting gas in the car and buying groceries, or between paying for the prescription they need and paying the rent. ​ Now, federal cuts to food assistance and the loss of healthcare subsidies are placing even more pressure on Connecticut families.

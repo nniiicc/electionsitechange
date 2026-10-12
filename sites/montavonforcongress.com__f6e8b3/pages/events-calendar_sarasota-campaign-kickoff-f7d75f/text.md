@@ -16,4 +16,6 @@ We look forward to seeing you there!
 Political advertisement paid for and approved by Matthew Montavon for Congress, Democrat for U.S.
 House, Florida District 17.
 RSVP here Next Next September 12 Lee County campaign kickoff!
-PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

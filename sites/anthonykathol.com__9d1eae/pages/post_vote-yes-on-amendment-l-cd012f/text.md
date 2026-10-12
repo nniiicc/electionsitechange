@@ -1,4 +1,4 @@
-top of page Home About Me Testimonials Blog Donate Contact Vote YES on Amendment L Anthony Kathol #ago 4 min read Updated: #ago Rated NaN out of 5 stars.
+top of page Home About Me Testimonials Blog Donate Contact Vote YES on Amendment L Anthony Kathol #ago # min read Updated: #ago Rated NaN out of 5 stars.
 Lately, voters have been asking me how to vote on Constitutional Amendment L.
 The title of the Amendment to the South Dakota Constitution is that a proposed constitutional amendment receives an affirmative vote of 60% of the votes cast.
 Source: https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026%20Election%20Information/2026%20Ballot%20Question%20Information/2026%20Ballot%20Question%20Files/2026%20BQ/2026GeneralBQPamphletFINAL.pdf Let’s look at what happened two years ago, when South Dakotans voted on Amendment G, funded by out-of-state money.

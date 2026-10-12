@@ -10,6 +10,6 @@ Now begins the difficult task of governing,” he said.
 “I look forward to working with legislators on both sides of the aisle to fully fund education, improve our region’s transportation system, and promote job and economic growth.” Stokesbary is a graduate of Duke University and Notre Dame Law School.
 He lives in south Auburn with his wife, Ashley, and their 6-month old son, Jackson.
 Stokesbary will represent the 31st Legislative District, which includes the communities of Auburn, Bonney Lake, Buckley, Carbonado, Edgewood, Enumclaw, Lake Tapps, South Prairie, Sumner and Wilkeson.
-In the News election More For You Sumner hosts open house to discuss Traffic Ave. funding In the News Rep.
-Stokesbary files bill to address leaves of absence by elected officials In the News “Voice of Small Business” backs Stokesbary (2022) Awards Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+In the News election More For You Representative Drew Stokesbary obtains important funding for White River project In the News Green River Community College in Enumclaw will host candidate forum In the News Rep.
+Stokesbary takes oath, begins work for 31st District In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

@@ -1,16 +1,16 @@
-0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Oct 10 to Oct 11 Door Knocking with Joseph and Chris Sat, Oct 10, 2026 11:00 AM Sun, Oct 11, 2026 2:00 PM Google Calendar ICS It’s the final month of the campaign and the weather is perfect for door knocking!
-Come out to join us to get our message to voters.
-Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051778/ View Event → Oct 11 Door Knocking with Joseph McClusky Sunday, October 11, 2026 4:00 PM 7:00 PM Google Calendar ICS Come join us in the final month of the campaign to door knock for Joseph.
-We will be doorknocking with Michigan's League of Conservation Voters!
-This is the final stretch to get our message to voters before the head to the polls!
-Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051784/ View Event → Oct 17 Door Knocking with Joseph McClusky Saturday, October 17, 2026 11:00 AM 2:00 PM Google Calendar ICS One more week until In Person Early Voting begins and the weather is perfect for door knocking!
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Oct 17 Door Knocking with Joseph McClusky Saturday, October 17, 2026 11:00 AM 2:00 PM Google Calendar ICS One more week until In Person Early Voting begins and the weather is perfect for door knocking!
 Come out to join us to get our message to voters.
 Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051781/ View Event → Oct 24 GOTV Kick Off with Mallory McMorrow Saturday, October 24, 2026 10:00 AM 2:00 PM Google Calendar ICS Early voting starts today in person and it is time to Get Out The Vote!
 Join us on the doors this Saturday with special guest Mallory McMorrow.
 Every vote counts and we need you to help us get across the finish line.
 Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051803/ View Event → Oct 31 Halloween Canvassing with Joseph McClusky Saturday, October 31, 2026 11:00 AM 2:00 PM Google Calendar ICS Join us on the doors this Halloween to help us get out the vote!
 Only 4 more days until Election Day!
-Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051838/ View Event → Oct 8 Door Knocking with Joseph McClusky Thursday, October 8, 2026 5:30 PM 7:00 PM Google Calendar ICS It’s the final month of the campaign and the weather is perfect for door knocking!
+Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051838/ View Event → Oct 11 Door Knocking with Joseph McClusky Sunday, October 11, 2026 4:00 PM 7:00 PM Google Calendar ICS Come join us in the final month of the campaign to door knock for Joseph.
+We will be doorknocking with Michigan's League of Conservation Voters!
+This is the final stretch to get our message to voters before the head to the polls!
+Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051784/ View Event → Oct 10 to Oct 11 Door Knocking with Joseph and Chris Sat, Oct 10, 2026 11:00 AM Sun, Oct 11, 2026 2:00 PM Google Calendar ICS It’s the final month of the campaign and the weather is perfect for door knocking!
+Come out to join us to get our message to voters.
+Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051778/ View Event → Oct 8 Door Knocking with Joseph McClusky Thursday, October 8, 2026 5:30 PM 7:00 PM Google Calendar ICS It’s the final month of the campaign and the weather is perfect for door knocking!
 Come out to join us to get our message to voters.
 Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1055508/ View Event → Oct 7 Door Knocking with Joseph McClusky Wednesday, October 7, 2026 3:00 PM 6:00 PM Google Calendar ICS It’s the final month of the campaign and the weather is perfect for door knocking!
 Come out to join us to get our message to voters.
@@ -47,13 +47,4 @@ Join us for the campaign's first canvass launch of the year.
 Canvassing is the most important aspect of any campaign.
 Help us show the movement we're building!
 For updates and reminders, RSVP on our Facebook Event page!
-View Event → Apr 13 Spring Kickoff Fundraiser Monday, April 13, 2026 6:00 PM 8:00 PM Tulyp Hotel, Tapestry Collection by Hilton (map) Google Calendar ICS Join me in kicking off 2026 at my Spring Fundraiser with special guest Sean McCann!
-We will be at the Tulyp Hotel in Downtown Holland.
-Hors d'Oeuvres will be provided, along with a drink ticket upon purchase of a ticket.
-Tickets can be purchased using the link below.
-Bring a friend! https://secure.actblue.com/donate/mccluskyspringlaunch For updates and reminders, RSVP on our Facebook Event page: Facebook RSVP View Event → Mar 24 Meet and Greet with Joseph McClusky Tuesday, March 24, 2026 6:00 PM 8:30 PM The Curragh Irish Pub (map) Google Calendar ICS Please join me at the Curragh for an evening of conversation with your next State Representative of the 86th District.
-Joseph is running against Nancy DeBoer who has failed to lead this state in the right direction.
-Joseph will listen to constituents and will prioritize policies that serve all people, not just the chosen few.
-We look forward to seeing you for an evening of positive conversation and light appetizers.
-We have a great opportunity to flip this seat to Blue.
-For updates and reminders, RSVP on our Facebook Event page: Facebook Event RSVP View Event → Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy
+View Event → Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

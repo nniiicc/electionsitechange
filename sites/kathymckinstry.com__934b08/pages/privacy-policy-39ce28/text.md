@@ -1,4 +1,4 @@
-Home How to Vote Issues Events News Volunteer Contact Donate Select Language ​ ▼ Privacy Policy Last updated: 10/11/2026 1.
+Home How to Vote Issues Events News Volunteer Contact Donate Select Language ​ ▼ Privacy Policy Last updated: 10/12/2026 1.
 Information We Collect The Kathy McKinstry Campaign for Congress ("we", "our", or "us") collects information you provide directly to us when you: Sign up to receive email updates Make a donation Register to volunteer Contact us through our website Participate in campaign events 2.
 How We Use Your Information We may use the information we collect to: Send you campaign updates, newsletters, and action alerts Process your donations and maintain compliance with campaign finance laws Coordinate volunteer activities Respond to your comments, questions, and requests Improve our website and campaign operations 3.
 Information Sharing We do not sell or rent your personal information to third parties.

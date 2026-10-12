@@ -1,4 +1,4 @@
-top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED NEWS More Use tab to navigate through the menu items.
+top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED ENDORSEMENTS NEWS More Use tab to navigate through the menu items.
 “The vote is precious.
 It is almost sacred.
 It is the most powerful non-violent tool we have in a democracy.” — Congressman John Lewis 18th DISTRICT POLLING LOCATIONS District 1-2: King Philip Middle School, 100 King Philip Drive District 2: Bristow Middle School, 34 Highland Street District 3: Town Hall, 50 South Main Street Not sure of your polling location?

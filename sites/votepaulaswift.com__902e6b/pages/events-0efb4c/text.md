@@ -1,8 +1,4 @@
-Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Garden Grove Slate Canvass with Team Tran Garden Grove Park 9301 Westminster Blvd., Garden Grove, CA 92844 Join Team Swift and Team Tran to get the vote out for this November!
-RSVP Garden Brook Senior Village Garden Brook Senior Village 10080 Garden Grove Blvd.
-Garden Grove, CA 92844 Come meet Dr.
-Swift at the Garden Brook Senior Village to discuss her plans for the State!
-RSVP Voter Registration Drive - Garden Grove Village Green Park 12732 Main St.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Join Us Campaign Events Voter Registration Drive - Garden Grove Village Green Park 12732 Main St.
 Garden Grove, CA 92840 Come on out to see if you are registered to vote with Dr.
 Swift!
 RSVP Team Swift Canvass in Garden Grove Garden Grove Sports & Recreation Center 13641 Deodara Dr.

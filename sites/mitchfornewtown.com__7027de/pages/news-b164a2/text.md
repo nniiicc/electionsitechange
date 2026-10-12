@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News & Letters Click on the titles to be linked to full news stories, letters or media...
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News News Click on the titles to be linked to full news stories, letters or media...
 25 Feb Wednesday, 10:22 PM · 2026 Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Add your news summary here.
 Read more 15 Feb Sunday, 12:15 AM · 2026 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm ews summary here.
@@ -609,8 +609,8 @@ Contra, Ms.
 Stevens & Ms.
 Musco; and to the parents & staff chaperones for a wonderful day at the Capitol!” Read more 24 Oct Tuesday, 12:00 AM · 2017 Bolinsky Reports Bipartisan, Consensus Budget Reached State Rep Mitch Bolinsky (R-Newtown) reported Tuesday, October 24, that a bipartisan, consensus budget has been reached and it is kind to Newtown, restoring Education and Municipal funding.
 “I am at Capitol and will know the details in a few hours,” Mr Bolinsky e-mailed The Newtown Bee at noon, “but, for now, I want you to know how tenaciously Newtown’s state delegation has worked to rectify what were some very unfair cuts." “Again, final details will follow but, highlights will include: *Restoration of nearly all of Newtown’s education cost sharing dollars ($4.65M & $4.76M) for FYs 18 and 19, as well as our municipal revenue sharing ($3.5M) .
-Recall that the Governor & majority’s last proposals had us zeroed or near zeroed out." Read more 14 YEAR INCUMBENT SERVING NEWTOWN ENDORSEMENTS AWARDS & HONORS NEWS & LETTERS VOTING INFO Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
+Recall that the Governor & majority’s last proposals had us zeroed or near zeroed out." Read more VOTING INFO 14 YEAR INCUMBENT SERVING NEWTOWN AWARDS & HONORS LETTERS NEWS Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
 News Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Bolinsky Offers Thanks for Re-Election to 7th Term Balanced, Ethical & Considerate, Bolinsky Asks for Vote Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

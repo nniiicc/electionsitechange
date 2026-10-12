@@ -29,20 +29,17 @@ My goal has always been to keep Montana a “solutions state” and to leave D.C
 Take some time to review my work, meet my family, see how others have evaluated my efforts, and learn more about my philosophy.
 I believe you’ll see why I’m confident I can earn your support.
 Thank you, Llew Jones Click here to sign up for my weekly email update!
-Latest Updates from Llew Let Them Vote — and Show Your Brand Grandpa's Horses, Dad's Tractor and the Knowledge Revolution Good Neighbors, or Build Somewhere Else Since 1948, Montanans have voted every ten years to keep six mills for our universities.
+Latest Updates from Llew Catch It Small Let Them Vote — and Show Your Brand Where Do the Little Ones Go?
+Support the volunteers who answer the call, get help there early, and make our homes harder to burn.
+Read it Where Do the Little Ones Go?
+Let Them Vote — and Show Your Brand Where Do the Little Ones Go?
+Two licensed child care places for every ten kids who need care, and what it means for young families and our workforce.
+Read it Let Them Vote — and Show Your Brand Let Them Vote — and Show Your Brand Good Neighbors, or Build Somewhere Else Since 1948, Montanans have voted every ten years to keep six mills for our universities.
 The 2027 Legislature should let them vote again.
 Read it Good Neighbors, or Build Somewhere Else Grandpa's Horses, Dad's Tractor and the Knowledge Revolution Good Neighbors, or Build Somewhere Else What it should take for a data center to be a good neighbor in rural Montana.
 Read it Grandpa's Horses, Dad's Tractor and the Knowledge Revolution Grandpa's Horses, Dad's Tractor and the Knowledge Revolution Grandpa's Horses, Dad's Tractor and the Knowledge Revolution Every generation on the ranch has faced a big change.
 Here is the one coming now, and what it means for Montana families.
-Read it Nuclear May Be Part of Montana's Energy Future Nuclear May Be Part of Montana's Energy Future Grandpa's Horses, Dad's Tractor and the Knowledge Revolution A plain look at whether nuclear power has a place in Montana's energy mix.
-Read it Words Matter.
-Timing Reveals Intent.
-Nuclear May Be Part of Montana's Energy Future Words Matter.
-Timing Reveals Intent.
-The term-limits fight: what was said, and when it was said.
-Read it Get My Weekly Update by Email Nuclear May Be Part of Montana's Energy Future Words Matter.
-Timing Reveals Intent.
-One email a week on what's happening in Helena and here at home.
+Read it Get My Weekly Update by Email Grandpa's Horses, Dad's Tractor and the Knowledge Revolution Grandpa's Horses, Dad's Tractor and the Knowledge Revolution One email a week on what's happening in Helena and here at home.
 Free, and you can unsubscribe any time.
 Sign me up The People Are Sovereign: The Term Limits Ruling The People Are Sovereign: The Term Limits Ruling The People Are Sovereign: The Term Limits Ruling The district court's Aug.
 19 ruling in my term-limits case, with a short summary up front.

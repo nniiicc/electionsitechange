@@ -1,4 +1,4 @@
-top of page HOME ABOUT About Casey Casey's Beliefs About Our Community PRIORITIES UPDATES GET INVOLVED Donate Get a Campaign Sign Legislative Issues Survey Register to Vote Sign Up for Email Updates Volunteer CONTACT Our Community Utah House District 37 Located on the West Side of Salt Lake County, Utah House District 37 includes portions of three communities: Kearns , Taylorsville , and West Jordan .
+top of page HOME ABOUT About Casey Casey's Beliefs About Our Community PRIORITIES SUPPORTERS GET INVOLVED Donate Get a Campaign Sign Legislative Issues Survey Register to Vote Sign Up for Email Updates Volunteer CONTACT Our Community Utah House District 37 Located on the West Side of Salt Lake County, Utah House District 37 includes portions of three communities: Kearns , Taylorsville , and West Jordan .
 These communities are inseparably connected due to shared history and geography.
 The district is home to 44,000 of the best people in the state and is the most compact house district in Utah.
 View District Map Cities of District 37 KEARNS Named after former U.S.

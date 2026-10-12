@@ -32,6 +32,11 @@ She’ll raise academic achievement with evidence-based curriculum, tutoring to 
 And she’ll open doors to college and credentials, building partnerships between employers and colleges, expanding three-year degrees, and helping middle and high school students get a head start.
 Because anybody willing to work should have a path to success.
 Read Amy Klobuchar’s plan to prepare Minnesota’s workforce for the future.
+Take on Crime and Ensure Public Safety Amy Klobuchar ran the biggest prosecutor’s office in Minnesota for eight years as Hennepin County Attorney, where she made combating violent crime a top priority.
+She knows firsthand the vital role law enforcement and public safety officers play in keeping Minnesotans safe – and the importance of giving them the resources they need to do their jobs.
+In the Senate, Klobuchar has worked across party lines to increase support for local law enforcement and combat fraud, human trafficking, and the fentanyl epidemic.
+As Governor, she will take on organized crime and gang violence, assist local police departments to hire and retain more officers, provide Minnesota law enforcement with the resources they need to do their jobs, and more.
+Read Amy Klobuchar’s plan to take on crime and ensure public safety.
 Expand Minnesota’s Rural and Agricultural Economy Amy Klobuchar knows one-size-fits-all solutions don’t work for rural communities.
 She and her running mate, former Fergus Falls Mayor Ben Schierer, will expand Minnesota’s rural economy by working with businesses and farmers to grow and produce more products, find new markets, and export to the world.
 They will work with the private sector to build more homes, support rural hospitals, increase access to child care, and create new pathways to the workforce.

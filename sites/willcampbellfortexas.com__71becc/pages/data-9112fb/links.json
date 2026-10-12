@@ -1,7 +1,27 @@
 [
 {
+"text": "(AHRQ, 2021)",
+"href": "https://meps.ahrq.gov/data_stats/summ_tables/insr/state/series_2/2020/tiic1.pdf"
+},
+{
 "text": "(Agency for Healthcare Research and Quality [AHRQ], 2025)",
 "href": "https://datatools.ahrq.gov/meps-ic/"
+},
+{
+"text": "(Agency for Healthcare Research and Quality [AHRQ], 2025)",
+"href": "https://meps.ahrq.gov/data_stats/state_tables.jsp?regionid=-1&year=2024.0"
+},
+{
+"text": "(Austin ISD, 2025)",
+"href": "https://www.austinisd.org/press-releases/2025/11/21/austin-isd-board-approves-24-state-mandated-turnaround-plans-school"
+},
+{
+"text": "(BLS, 2026)",
+"href": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"text": "(BLS, 2026)",
+"href": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202608.xlsx"
 },
 {
 "text": "(BLS, 2026a)",
@@ -36,6 +56,26 @@
 "href": "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical"
 },
 {
+"text": "(Centers for Medicare & Medicaid Services [CMS], 2025)",
+"href": "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical"
+},
+{
+"text": "(Cohen & Giri, 2026)",
+"href": "https://www.cdc.gov/nchs/data/hestat/hestat114.htm"
+},
+{
+"text": "(Comptroller, 2012)",
+"href": "https://comptroller.texas.gov/transparency/reports/cash-report/2012/96-368.pdf"
+},
+{
+"text": "(Comptroller, 2017)",
+"href": "https://comptroller.texas.gov/transparency/reports/cash-report/2017/96-368.pdf"
+},
+{
+"text": "(Comptroller, 2020)",
+"href": "https://comptroller.texas.gov/transparency/reports/cash-report/2020/cash-report-2020.pdf"
+},
+{
 "text": "(Congressional Budget Office [CBO], 2026)",
 "href": "https://www.cbo.gov/publication/62756"
 },
@@ -52,6 +92,146 @@
 "href": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMR_PTE_NUS_DPG&f=W"
 },
 {
+"text": "(Finegold & Gunja, 2014)",
+"href": "https://aspe.hhs.gov/reports/survey-data-health-insurance-coverage-2013-2014-0"
+},
+{
+"text": "(Fort Worth ISD, n.d.-a)",
+"href": "https://www.fwisd.org/about/betterspaces"
+},
+{
+"text": "(Fort Worth ISD, n.d.-b)",
+"href": "https://www.fwisd.org/about/betterspaces/frequently-asked-questions"
+},
+{
+"text": "(H.B. 1, 2006)",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=793&Bill=HB1"
+},
+{
+"text": "(H.B. 2, 2025)",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2"
+},
+{
+"text": "(H.B. 21, 2017)",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=851&Bill=HB21"
+},
+{
+"text": "(H.B. 3, 2019)",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB3"
+},
+{
+"text": "(H.B. 3646, 2009)",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=81R&Bill=HB3646"
+},
+{
+"text": "(HHSC, 2024a)",
+"href": "https://www.hhs.texas.gov/sites/default/files/documents/2024-annual-federal-funds-report.pdf"
+},
+{
+"text": "(HHSC, 2025)",
+"href": "https://www.hhs.texas.gov/sites/default/files/documents/2024-q4-1115-report.pdf"
+},
+{
+"text": "(Houston ISD, 2026)",
+"href": "https://hisdnow.houstonisd.org/p/~board/district-news/post/hisd-moves-forward-with-school-closures-to-address-underutilization-and-sustain-progres"
+},
+{
+"text": "(Internal Revenue Service [IRS], n.d.)",
+"href": "https://www.irs.gov/affordable-care-act/individuals-and-families/individual-shared-responsibility-provision"
+},
+{
+"text": "(KFF, 2026)",
+"href": "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/"
+},
+{
+"text": "(LBB, 2006a)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2006-07.pdf"
+},
+{
+"text": "(LBB, 2006b)",
+"href": "https://capitol.texas.gov/tlodocs/793/fiscalnotes/html/HB00001F.htm"
+},
+{
+"text": "(LBB, 2008)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2008-09.pdf"
+},
+{
+"text": "(LBB, 2009)",
+"href": "https://capitol.texas.gov/tlodocs/81R/fiscalnotes/html/HB03646F.htm"
+},
+{
+"text": "(LBB, 2010)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2010-11.pdf"
+},
+{
+"text": "(LBB, 2011)",
+"href": "https://capitol.texas.gov/tlodocs/821/fiscalnotes/html/SB00001F.htm"
+},
+{
+"text": "(LBB, 2012)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2012-13.pdf"
+},
+{
+"text": "(LBB, 2014)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2014-15.pdf"
+},
+{
+"text": "(LBB, 2016)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/2939_Fiscal_Size-Up_2016-17.pdf"
+},
+{
+"text": "(LBB, 2017)",
+"href": "https://capitol.texas.gov/tlodocs/851/fiscalnotes/html/HB00021F.htm"
+},
+{
+"text": "(LBB, 2018)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/4605_FSU_2018-19.pdf"
+},
+{
+"text": "(LBB, 2019a)",
+"href": "https://capitol.texas.gov/tlodocs/86R/fiscalnotes/html/HB00003F.htm"
+},
+{
+"text": "(LBB, 2019b)",
+"href": "https://capitol.texas.gov/tlodocs/86R/fiscalnotes/html/SB00012F.htm"
+},
+{
+"text": "(LBB, 2020)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2020-21.pdf"
+},
+{
+"text": "(LBB, 2022)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2022-23.pdf"
+},
+{
+"text": "(LBB, 2023)",
+"href": "https://capitol.texas.gov/tlodocs/882/fiscalnotes/html/SB00002E.htm"
+},
+{
+"text": "(LBB, 2024)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2024-25.pdf"
+},
+{
+"text": "(LBB, 2025)",
+"href": "https://capitol.texas.gov/tlodocs/89R/fiscalnotes/html/HB00002F.htm"
+},
+{
+"text": "(LBB, 2026)",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/9046_Fiscal_Size-up_26-27_Biennium.pdf"
+},
+{
+"text": "(LRL, n.d.)",
+"href": "https://lrl.texas.gov/legeLeaders/members/lrlhome.cfm"
+},
+{
+"text": "(Legislative Budget Board [LBB], 2023)",
+"href": "https://capitol.texas.gov/tlodocs/882/fiscalnotes/html/SB00002E.htm"
+},
+{
+"text": "(Legislative Reference Library of Texas [LRL], n.d.)",
+"href": "https://lrl.texas.gov/legeLeaders/members/lrlhome.cfm"
+},
+{
 "text": "(Library of Congress, n.d.)",
 "href": "https://guides.loc.gov/presidents-portraits/chronological"
 },
@@ -64,8 +244,172 @@
 "href": "https://www.whitehouse.gov/omb/information-resources/budget/historical-tables/"
 },
 {
+"text": "(Plano ISD, n.d.)",
+"href": "https://www.pisd.edu/about-our-district/long-range-facility-plan/approved-plan"
+},
+{
+"text": "(S.B. 1, 2011)",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=821&Bill=SB1"
+},
+{
+"text": "(S.B. 12, 2019)",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=SB12"
+},
+{
+"text": "(S.B. 2, 2023)",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=882&Bill=SB2"
+},
+{
+"text": "(San Antonio ISD, 2023)",
+"href": "https://www.saisd.net/article/2201706"
+},
+{
+"text": "(San Antonio ISD, 2024)",
+"href": "https://www.saisd.net/article/2202429"
+},
+{
+"text": "(TEA, 2012)",
+"href": "https://teadev.tea.texas.gov/sites/default/files/Minimum%20salary%20schedule%20report%20December%202012.pdf"
+},
+{
+"text": "(TEA, 2023)",
+"href": "https://tea.texas.gov/health-safety-and-discipline/school-boards/school-governance/houston-isd-commissioner-correspondence.pdf"
+},
+{
+"text": "(TEA, 2024)",
+"href": "https://tea.texas.gov/school-and-district-leaders/accountability/academic-accountability/performance-reporting/2024-accountability-manual-full-4.pdf"
+},
+{
+"text": "(TEA, 2025a)",
+"href": "https://tea.texas.gov/finance-and-grants/state-funding/state-funding-reports-and-data/summarized-financial-data-2009-2025.xlsx"
+},
+{
+"text": "(TEA, 2025b)",
+"href": "https://tea.texas.gov/data-reports/financial-reports/school-finance-reports-and-data/region-ada-report-2005-2025-1.pdf"
+},
+{
+"text": "(TEA, 2025c)",
+"href": "https://tea.texas.gov/media/423716"
+},
+{
+"text": "(TEA, 2025d)",
+"href": "https://tea.texas.gov/system/files/taa-letters/house-bill-2-implementation-fsp-formula-funding-changes-and-preliminary-sy-2025-2026-sof-reports.pdf"
+},
+{
+"text": "(TEA, 2025e)",
+"href": "https://tea.texas.gov/health-safety-and-discipline/school-boards/school-governance/board-managers/houston-isd-5-30-25.pdf"
+},
+{
+"text": "(TEA, 2026a)",
+"href": "https://tea.texas.gov/data-reports/school-performance/accountability-research/enroll-2025-26.pdf"
+},
+{
+"text": "(TEA, 2026b)",
+"href": "https://rptsvr1.tea.texas.gov/adhocrpt/adpeb.html"
+},
+{
+"text": "(TEA, n.d.-a)",
+"href": "https://tea.texas.gov/educators/salary-and-service-record/minimum-salary-schedules"
+},
+{
+"text": "(TEA, n.d.-a)",
+"href": "https://tea.texas.gov/school-and-district-leaders/accountability/academic-accountability/performance-reporting/2023-enhanced-statewide-summary-after-appeal-updated.xlsx"
+},
+{
+"text": "(TEA, n.d.-b)",
+"href": "https://tea.texas.gov/data-reports/financial-reports/school-finance-reports-and-data/2023-2024-sof-run-id-45525.xlsx"
+},
+{
+"text": "(TEA, n.d.-c)",
+"href": "https://rptsvr1.tea.texas.gov/perfreport/tapr/tapr_dd_download.html?year=2024"
+},
+{
+"text": "(TEA, n.d.-d)",
+"href": "https://rptsvr1.tea.texas.gov/perfreport/account/acct_download.html?year=2024"
+},
+{
+"text": "(TEA, n.d.-e)",
+"href": "https://tea.texas.gov/data-reports/school-data/district-type-data-search/district-type-2023-24"
+},
+{
+"text": "(TEA, n.d.-f)",
+"href": "https://tea.texas.gov/about-tea/state-funding/fy-2025-summary-of-finance-data-dictionary-state-funding-and-ffa-split2.pdf"
+},
+{
+"text": "(TEA, n.d.-g)",
+"href": "https://tea.texas.gov/about-tea/state-funding/state-funding-reports-and-data/peims-financial-data-downloads"
+},
+{
+"text": "(TEA, n.d.-h)",
+"href": "https://rptsvr1.tea.texas.gov/perfreport/tapr/2019/download/DownloadData.html"
+},
+{
+"text": "(TRS, 2025)",
+"href": "https://trs.texas.gov/files/documents/actuarial-valuation-report-2025.pdf"
+},
+{
+"text": "(Tex. Educ. Agency, 19 Tex. Admin. Code § 102.1309, 2026)",
+"href": "https://tea.texas.gov/laws-and-rules/commissioner-rules-tac/coe-tac-currently-effect/ch102jj.pdf"
+},
+{
+"text": "(Tex. Educ. Code § 12.104, 2025)",
+"href": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.12.htm#12.104"
+},
+{
+"text": "(Tex. Educ. Code § 12A.004, 2025)",
+"href": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.12A.htm#12A.004"
+},
+{
+"text": "(Tex. Educ. Code § 21.402, 2025)",
+"href": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.21.htm#21.402"
+},
+{
+"text": "(Texas Comptroller of Public Accounts [Comptroller], 2025)",
+"href": "https://comptroller.texas.gov/transparency/reports/cash-report/2025/96-368.pdf"
+},
+{
+"text": "(Texas Comptroller of Public Accounts, 2019)",
+"href": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2019/jan/foundation.php"
+},
+{
+"text": "(Texas Education Agency [TEA], n.d.-d)",
+"href": "https://rptsvr1.tea.texas.gov/perfreport/account/acct_download.html?year=2024"
+},
+{
+"text": "(Texas Health and Human Services Commission [HHSC], 2024b)",
+"href": "https://www.hhs.texas.gov/sites/default/files/documents/texas-medicaid-chip-reference-guide-15th-edition.pdf"
+},
+{
+"text": "(Texas House of Representatives, 2006–2025)",
+"href": "https://journals.house.texas.gov/"
+},
+{
+"text": "(Texas Senate, 2006–2025)",
+"href": "https://journals.senate.texas.gov/"
+},
+{
+"text": "(U.S. Bureau of Labor Statistics [BLS], 2026)",
+"href": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"text": "(U.S. Bureau of Labor Statistics [BLS], 2026)",
+"href": "https://www.bls.gov/cpi/data.htm"
+},
+{
+"text": "(U.S. Bureau of Labor Statistics [BLS], 2026)",
+"href": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202608.xlsx"
+},
+{
 "text": "(U.S. Bureau of Labor Statistics [BLS], 2026a)",
 "href": "https://data.bls.gov/timeseries/APU000074714"
+},
+{
+"text": "(U.S. Census Bureau, 2025a)",
+"href": "https://www2.census.gov/programs-surveys/demo/tables/health-insurance/time-series/acs/hic04_acs.xlsx"
+},
+{
+"text": "(U.S. Census Bureau, 2025b)",
+"href": "https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h08.xlsx"
 },
 {
 "text": "(U.S. Census Bureau, 2026)",
@@ -134,6 +478,10 @@
 {
 "text": "Data",
 "href": "https://www.willcampbellfortexas.com/data"
+},
+{
+"text": "Early HS Graduation and College Access",
+"href": "https://www.willcampbellfortexas.com/early-hs-graduation-and-college-access"
 },
 {
 "text": "End Property Taxes",
@@ -312,6 +660,10 @@
 "href": "https://www.willcampbellfortexas.com/texas-distributed-power-generation-act"
 },
 {
+"text": "Texas Education Agency, n.d.-e",
+"href": "https://tea.texas.gov/data-reports/school-data/district-type-data-search/district-type-2023-24"
+},
+{
 "text": "Texas Election Integrity and Party Association Act",
 "href": "https://www.willcampbellfortexas.com/texas-election-integrity-and-party-association-act"
 },
@@ -452,6 +804,98 @@
 "href": "https://history.house.gov/Institution/Presidents-Coinciding/Presidents-Coinciding/"
 },
 {
+"text": "https://aspe.hhs.gov/reports/survey-data-health-insurance-coverage-2013-2014-0",
+"href": "https://aspe.hhs.gov/reports/survey-data-health-insurance-coverage-2013-2014-0"
+},
+{
+"text": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=793&Bill=HB1",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=793&Bill=HB1"
+},
+{
+"text": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=81R&Bill=HB3646",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=81R&Bill=HB3646"
+},
+{
+"text": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=821&Bill=SB1",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=821&Bill=SB1"
+},
+{
+"text": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=851&Bill=HB21",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=851&Bill=HB21"
+},
+{
+"text": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB3",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB3"
+},
+{
+"text": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=SB12",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=SB12"
+},
+{
+"text": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=882&Bill=SB2",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=882&Bill=SB2"
+},
+{
+"text": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2"
+},
+{
+"text": "https://capitol.texas.gov/tlodocs/793/fiscalnotes/html/HB00001F.htm",
+"href": "https://capitol.texas.gov/tlodocs/793/fiscalnotes/html/HB00001F.htm"
+},
+{
+"text": "https://capitol.texas.gov/tlodocs/81R/fiscalnotes/html/HB03646F.htm",
+"href": "https://capitol.texas.gov/tlodocs/81R/fiscalnotes/html/HB03646F.htm"
+},
+{
+"text": "https://capitol.texas.gov/tlodocs/821/fiscalnotes/html/SB00001F.htm",
+"href": "https://capitol.texas.gov/tlodocs/821/fiscalnotes/html/SB00001F.htm"
+},
+{
+"text": "https://capitol.texas.gov/tlodocs/851/fiscalnotes/html/HB00021F.htm",
+"href": "https://capitol.texas.gov/tlodocs/851/fiscalnotes/html/HB00021F.htm"
+},
+{
+"text": "https://capitol.texas.gov/tlodocs/86R/fiscalnotes/html/HB00003F.htm",
+"href": "https://capitol.texas.gov/tlodocs/86R/fiscalnotes/html/HB00003F.htm"
+},
+{
+"text": "https://capitol.texas.gov/tlodocs/86R/fiscalnotes/html/SB00012F.htm",
+"href": "https://capitol.texas.gov/tlodocs/86R/fiscalnotes/html/SB00012F.htm"
+},
+{
+"text": "https://capitol.texas.gov/tlodocs/882/fiscalnotes/html/SB00002E.htm",
+"href": "https://capitol.texas.gov/tlodocs/882/fiscalnotes/html/SB00002E.htm"
+},
+{
+"text": "https://capitol.texas.gov/tlodocs/89R/fiscalnotes/html/HB00002F.htm",
+"href": "https://capitol.texas.gov/tlodocs/89R/fiscalnotes/html/HB00002F.htm"
+},
+{
+"text": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2019/jan/foundation.php",
+"href": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2019/jan/foundation.php"
+},
+{
+"text": "https://comptroller.texas.gov/transparency/reports/cash-report/2012/96-368.pdf",
+"href": "https://comptroller.texas.gov/transparency/reports/cash-report/2012/96-368.pdf"
+},
+{
+"text": "https://comptroller.texas.gov/transparency/reports/cash-report/2017/96-368.pdf",
+"href": "https://comptroller.texas.gov/transparency/reports/cash-report/2017/96-368.pdf"
+},
+{
+"text": "https://comptroller.texas.gov/transparency/reports/cash-report/2020/cash-report-2020.pdf",
+"href": "https://comptroller.texas.gov/transparency/reports/cash-report/2020/cash-report-2020.pdf"
+},
+{
+"text": "https://comptroller.texas.gov/transparency/reports/cash-report/2025/96-368.pdf",
+"href": "https://comptroller.texas.gov/transparency/reports/cash-report/2025/96-368.pdf"
+},
+{
+"text": "https://data.bls.gov/timeseries/CUUR0000SA0",
+"href": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
 "text": "https://datatools.ahrq.gov/meps-ic/",
 "href": "https://datatools.ahrq.gov/meps-ic/"
 },
@@ -464,8 +908,148 @@
 "href": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/"
 },
 {
+"text": "https://hisdnow.houstonisd.org/p/~board/district-news/post/hisd-moves-forward-with-school-closures-to-address-underutilization-and-sustain-progres",
+"href": "https://hisdnow.houstonisd.org/p/~board/district-news/post/hisd-moves-forward-with-school-closures-to-address-underutilization-and-sustain-progres"
+},
+{
+"text": "https://journals.house.texas.gov/",
+"href": "https://journals.house.texas.gov/"
+},
+{
+"text": "https://journals.senate.texas.gov/",
+"href": "https://journals.senate.texas.gov/"
+},
+{
+"text": "https://lrl.texas.gov/legeLeaders/members/lrlhome.cfm",
+"href": "https://lrl.texas.gov/legeLeaders/members/lrlhome.cfm"
+},
+{
+"text": "https://meps.ahrq.gov/data_stats/state_tables.jsp?regionid=-1&year=2024.0",
+"href": "https://meps.ahrq.gov/data_stats/state_tables.jsp?regionid=-1&year=2024.0"
+},
+{
+"text": "https://meps.ahrq.gov/data_stats/summ_tables/insr/state/series_2/2020/tiic1.pdf",
+"href": "https://meps.ahrq.gov/data_stats/summ_tables/insr/state/series_2/2020/tiic1.pdf"
+},
+{
+"text": "https://rptsvr1.tea.texas.gov/adhocrpt/adpeb.html",
+"href": "https://rptsvr1.tea.texas.gov/adhocrpt/adpeb.html"
+},
+{
+"text": "https://rptsvr1.tea.texas.gov/perfreport/account/acct_download.html?year=2024",
+"href": "https://rptsvr1.tea.texas.gov/perfreport/account/acct_download.html?year=2024"
+},
+{
+"text": "https://rptsvr1.tea.texas.gov/perfreport/tapr/2019/download/DownloadData.html",
+"href": "https://rptsvr1.tea.texas.gov/perfreport/tapr/2019/download/DownloadData.html"
+},
+{
+"text": "https://rptsvr1.tea.texas.gov/perfreport/tapr/tapr_dd_download.html?year=2024",
+"href": "https://rptsvr1.tea.texas.gov/perfreport/tapr/tapr_dd_download.html?year=2024"
+},
+{
+"text": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.12.htm#12.104",
+"href": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.12.htm#12.104"
+},
+{
+"text": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.12A.htm#12A.004",
+"href": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.12A.htm#12A.004"
+},
+{
+"text": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.21.htm#21.402",
+"href": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.21.htm#21.402"
+},
+{
+"text": "https://tea.texas.gov/about-tea/state-funding/fy-2025-summary-of-finance-data-dictionary-state-funding-and-ffa-split2.pdf",
+"href": "https://tea.texas.gov/about-tea/state-funding/fy-2025-summary-of-finance-data-dictionary-state-funding-and-ffa-split2.pdf"
+},
+{
+"text": "https://tea.texas.gov/about-tea/state-funding/state-funding-reports-and-data/peims-financial-data-downloads",
+"href": "https://tea.texas.gov/about-tea/state-funding/state-funding-reports-and-data/peims-financial-data-downloads"
+},
+{
+"text": "https://tea.texas.gov/data-reports/financial-reports/school-finance-reports-and-data/2023-2024-sof-run-id-45525.xlsx",
+"href": "https://tea.texas.gov/data-reports/financial-reports/school-finance-reports-and-data/2023-2024-sof-run-id-45525.xlsx"
+},
+{
+"text": "https://tea.texas.gov/data-reports/financial-reports/school-finance-reports-and-data/region-ada-report-2005-2025-1.pdf",
+"href": "https://tea.texas.gov/data-reports/financial-reports/school-finance-reports-and-data/region-ada-report-2005-2025-1.pdf"
+},
+{
+"text": "https://tea.texas.gov/data-reports/school-data/district-type-data-search/district-type-2023-24",
+"href": "https://tea.texas.gov/data-reports/school-data/district-type-data-search/district-type-2023-24"
+},
+{
+"text": "https://tea.texas.gov/data-reports/school-performance/accountability-research/enroll-2025-26.pdf",
+"href": "https://tea.texas.gov/data-reports/school-performance/accountability-research/enroll-2025-26.pdf"
+},
+{
+"text": "https://tea.texas.gov/educators/salary-and-service-record/minimum-salary-schedules",
+"href": "https://tea.texas.gov/educators/salary-and-service-record/minimum-salary-schedules"
+},
+{
+"text": "https://tea.texas.gov/finance-and-grants/state-funding/state-funding-reports-and-data/summarized-financial-data-2009-2025.xlsx",
+"href": "https://tea.texas.gov/finance-and-grants/state-funding/state-funding-reports-and-data/summarized-financial-data-2009-2025.xlsx"
+},
+{
+"text": "https://tea.texas.gov/health-safety-and-discipline/school-boards/school-governance/board-managers/houston-isd-5-30-25.pdf",
+"href": "https://tea.texas.gov/health-safety-and-discipline/school-boards/school-governance/board-managers/houston-isd-5-30-25.pdf"
+},
+{
+"text": "https://tea.texas.gov/health-safety-and-discipline/school-boards/school-governance/houston-isd-commissioner-correspondence.pdf",
+"href": "https://tea.texas.gov/health-safety-and-discipline/school-boards/school-governance/houston-isd-commissioner-correspondence.pdf"
+},
+{
+"text": "https://tea.texas.gov/laws-and-rules/commissioner-rules-tac/coe-tac-currently-effect/ch102jj.pdf",
+"href": "https://tea.texas.gov/laws-and-rules/commissioner-rules-tac/coe-tac-currently-effect/ch102jj.pdf"
+},
+{
+"text": "https://tea.texas.gov/media/423296",
+"href": "https://tea.texas.gov/media/423296"
+},
+{
+"text": "https://tea.texas.gov/media/423716",
+"href": "https://tea.texas.gov/media/423716"
+},
+{
+"text": "https://tea.texas.gov/school-and-district-leaders/accountability/academic-accountability/performance-reporting/2023-enhanced-statewide-summary-after-appeal-updated.xlsx",
+"href": "https://tea.texas.gov/school-and-district-leaders/accountability/academic-accountability/performance-reporting/2023-enhanced-statewide-summary-after-appeal-updated.xlsx"
+},
+{
+"text": "https://tea.texas.gov/school-and-district-leaders/accountability/academic-accountability/performance-reporting/2024-accountability-manual-full-4.pdf",
+"href": "https://tea.texas.gov/school-and-district-leaders/accountability/academic-accountability/performance-reporting/2024-accountability-manual-full-4.pdf"
+},
+{
+"text": "https://tea.texas.gov/system/files/taa-letters/house-bill-2-implementation-fsp-formula-funding-changes-and-preliminary-sy-2025-2026-sof-reports.pdf",
+"href": "https://tea.texas.gov/system/files/taa-letters/house-bill-2-implementation-fsp-formula-funding-changes-and-preliminary-sy-2025-2026-sof-reports.pdf"
+},
+{
+"text": "https://teadev.tea.texas.gov/sites/default/files/Minimum%20salary%20schedule%20report%20December%202012.pdf",
+"href": "https://teadev.tea.texas.gov/sites/default/files/Minimum%20salary%20schedule%20report%20December%202012.pdf"
+},
+{
+"text": "https://trs.texas.gov/files/documents/actuarial-valuation-report-2025.pdf",
+"href": "https://trs.texas.gov/files/documents/actuarial-valuation-report-2025.pdf"
+},
+{
+"text": "https://www.austinisd.org/press-releases/2025/11/21/austin-isd-board-approves-24-state-mandated-turnaround-plans-school",
+"href": "https://www.austinisd.org/press-releases/2025/11/21/austin-isd-board-approves-24-state-mandated-turnaround-plans-school"
+},
+{
+"text": "https://www.bls.gov/cpi/data.htm",
+"href": "https://www.bls.gov/cpi/data.htm"
+},
+{
+"text": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202608.xlsx",
+"href": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202608.xlsx"
+},
+{
 "text": "https://www.cbo.gov/publication/62756",
 "href": "https://www.cbo.gov/publication/62756"
+},
+{
+"text": "https://www.cdc.gov/nchs/data/hestat/hestat114.htm",
+"href": "https://www.cdc.gov/nchs/data/hestat/hestat114.htm"
 },
 {
 "text": "https://www.cdc.gov/nchs/products/databriefs/",
@@ -476,8 +1060,100 @@
 "href": "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical"
 },
 {
+"text": "https://www.fwisd.org/about/betterspaces",
+"href": "https://www.fwisd.org/about/betterspaces"
+},
+{
+"text": "https://www.fwisd.org/about/betterspaces/frequently-asked-questions",
+"href": "https://www.fwisd.org/about/betterspaces/frequently-asked-questions"
+},
+{
+"text": "https://www.hhs.texas.gov/sites/default/files/documents/2024-annual-federal-funds-report.pdf",
+"href": "https://www.hhs.texas.gov/sites/default/files/documents/2024-annual-federal-funds-report.pdf"
+},
+{
+"text": "https://www.hhs.texas.gov/sites/default/files/documents/2024-q4-1115-report.pdf",
+"href": "https://www.hhs.texas.gov/sites/default/files/documents/2024-q4-1115-report.pdf"
+},
+{
+"text": "https://www.hhs.texas.gov/sites/default/files/documents/texas-medicaid-chip-reference-guide-15th-edition.pdf",
+"href": "https://www.hhs.texas.gov/sites/default/files/documents/texas-medicaid-chip-reference-guide-15th-edition.pdf"
+},
+{
+"text": "https://www.irs.gov/affordable-care-act/individuals-and-families/individual-shared-responsibility-provision",
+"href": "https://www.irs.gov/affordable-care-act/individuals-and-families/individual-shared-responsibility-provision"
+},
+{
+"text": "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+"href": "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/2939_Fiscal_Size-Up_2016-17.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/2939_Fiscal_Size-Up_2016-17.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/4605_FSU_2018-19.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/4605_FSU_2018-19.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/9046_Fiscal_Size-up_26-27_Biennium.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/9046_Fiscal_Size-up_26-27_Biennium.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2006-07.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2006-07.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2008-09.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2008-09.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2010-11.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2010-11.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2012-13.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2012-13.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2014-15.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2014-15.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2020-21.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2020-21.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2022-23.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2022-23.pdf"
+},
+{
+"text": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2024-25.pdf",
+"href": "https://www.lbb.texas.gov/Documents/Publications/Fiscal_SizeUp/Fiscal_SizeUp_2024-25.pdf"
+},
+{
+"text": "https://www.pisd.edu/about-our-district/long-range-facility-plan/approved-plan",
+"href": "https://www.pisd.edu/about-our-district/long-range-facility-plan/approved-plan"
+},
+{
+"text": "https://www.saisd.net/article/2201706",
+"href": "https://www.saisd.net/article/2201706"
+},
+{
+"text": "https://www.saisd.net/article/2202429",
+"href": "https://www.saisd.net/article/2202429"
+},
+{
 "text": "https://www.whitehouse.gov/omb/information-resources/budget/historical-tables/",
 "href": "https://www.whitehouse.gov/omb/information-resources/budget/historical-tables/"
+},
+{
+"text": "https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h08.xlsx",
+"href": "https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h08.xlsx"
+},
+{
+"text": "https://www2.census.gov/programs-surveys/demo/tables/health-insurance/time-series/acs/hic04_acs.xlsx",
+"href": "https://www2.census.gov/programs-surveys/demo/tables/health-insurance/time-series/acs/hic04_acs.xlsx"
 },
 {
 "text": "senate.gov/history/partydiv.htm",

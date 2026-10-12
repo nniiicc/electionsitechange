@@ -3,7 +3,7 @@ As your Assemblymember, I’m passing bills to tackle the affordability crisis, 
 I’ll never stop fighting for Brooklyn.
 And I’ll continue to give Brooklyn communities a voice in the decisions that affect their lives.
 Learn More VOTE in the Democratic Primary: June 23 Election Day: June 23.
-Polls close at 9 PM! -109 Days -13 Hours -54 Minutes -26 Seconds If you are in line by 9 PM, you can vote!
+Polls close at 9 PM! -110 Days -13 Hours -56 Minutes -24 Seconds If you are in line by 9 PM, you can vote!
 Find your poll site at https://vote.nyc .
 Volunteer › Join the campaign to re-elect a progressive voice for Brooklyn.
 Follow The Campaign Facebook Twitter Bluesky Instagram Paid for by Jo Anne for Assembly 2026. ©# Jo Anne for Assembly 2026.

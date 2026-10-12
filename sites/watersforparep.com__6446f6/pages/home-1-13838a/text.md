@@ -9,10 +9,10 @@ Social Security Administration Transactional Attorney for the Commonwealth of Pe
 She has raised two adult children.
 As an ordained Reverend she volunteers extensively in her church and community.
 Kathryn is an active member of Alpha Kappa Alpha Sorority, Incorporated and The Links, Incorporated.
-VOTE Kathryn Waters for Congress!
+VOTE Kathryn Waters as your State Representative!
 Your next PA Representative of the 125th District!
 A Proven Leader.
 A True Neighbor.
 Your Voice Matters.
-About Me Vote Kathryn Waters for Congress!
+About Me Elect Kathryn Waters as Your State Representative!
 Kathryn waters Kathrynwatersesquire@waters4parep.com Stay up to date Email address * Yes, I agree to receive marketing emails. * SUBSCRIBE 717-216-7826 Powered by Kathryn Waters secured by Wix.com ​ bottom of page

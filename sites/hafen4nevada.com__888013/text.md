@@ -8,9 +8,6 @@ AB248 (amended in AB45) - allocates $2.5 million annually for student loan repay
 AB166 - increasing transparency in our elections by allowing political text messages to have an identifier letting the voter know who sent the message.
 AB360 - helps stop the sell of tobacco to underaged users by requiring retailers to validate the purchasers ID in a scanning system.
 Brought legislation to provide and expand School Choice Advocated for our Veterans Learn more As a 5th generation Nevadan, Gregory Hafen understands the unique history of our state, and fights for our values every day.
-Learn More Newsletter Block This newsletter signup form needs a storage option.
-Edit the block and enter a storage location via the Storage tab.
-Subscribe to Our Newsletter Sign up to receive news and updates.
-First Name Last Name Email Address Sign Up Thank you!
+Learn More Contact Our Campaign View our Terms & conditions and privacy policy .
 Donate Today Paid for by Friends of Gregory T.
-Hafen Contact Gregory@hafen4nevada.com 775-209-3006
+Hafen Terms & Conditions and Privacy Policy Contact Gregory@hafen4nevada.com 775-209-3006

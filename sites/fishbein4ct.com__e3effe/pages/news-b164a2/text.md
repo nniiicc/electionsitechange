@@ -1,4 +1,15 @@
-HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy 7 Oct Wednesday, 11:09 AM · 2026 Are Drone Deliveries Coming To Wallingford And Middlefield?
+HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy 10 Oct Saturday, 3:41 PM · 2026 EVEN MORE Information About Local Amazon Delivery Drones For those of you interested in the proposed drone deliveries by Amazon Prime Air, slated to begin in the next year or so in a delivery area to include most of Wallingford, and a bit of Middlefield, here are the notes from the recent legislative briefing, attended by about a dozen legislators, including myself.
+Please be reminded that Connecticut's Department of Energy and Environmental Protection (DEEP) is still soliciting comments from the public about these potential drone deliveries.
+You can submit your input by emailing them 𝐛𝐞𝐟𝐨𝐫𝐞 𝐎𝐜𝐭𝐨𝐛𝐞𝐫 𝟏𝟓 at DEEP.FCC.PublicComments@ct.gov .
+Please feel free to send me a copy at craig.fishbein@housegop.ct.gov as I am interested to learn more about how this new technology may impact (or perhaps benefit) those whom I represent.
+9 Oct Friday, 3:35 PM · 2026 Connecticut is one of the most taxed states in the country...
+Early voting starts October 19!
+9 Oct Friday, 10:22 AM · 2026 MORE Information About Local Amazon Delivery Drones For those of you interested in the proposed drone deliveries by Amazon Prime Air, slated to begin in the next year or so, the delivery area to include most of Wallingford, and a bit of Middlefield, here are the slides from the recent legislative briefing, attended by about a dozen legislators, including myself.
+Please be reminded that Connecticut's Department of Energy and Environmental Protection (DEEP) is still soliciting comments from the public about these potential drone deliveries.
+You can submit your input by emailing them 𝐛𝐞𝐟𝐨𝐫𝐞 𝐎𝐜𝐭𝐨𝐛𝐞𝐫 𝟏𝟓 at DEEP.FCC.PublicComments@ct.gov.
+Please feel free to send me a copy at craig.fishbein@housegop.ct.gov as I am interested to learn more about how this new technology may impact (or perhaps benefit) those whom I represent.
+8 Oct Thursday, 10:09 AM · 2026 CT Families Are Taxed Enough Early voting starts October 19!
+7 Oct Wednesday, 11:09 AM · 2026 Are Drone Deliveries Coming To Wallingford And Middlefield?
 Yesterday, a dozen or so legislators, including myself, met with representatives of Amazon Prime Air to discuss ours, and our constituents' concerns raised by the recent news that they intend to begin deliveries by drone in the near future.
 We learned that they still need local (meaning state) FAA approvals, as well as that from the federal government.
 Among my many questions, I asked them when, if all things worked along the swiftest best timetable for them, that they would begin these deliveries.
@@ -271,22 +282,7 @@ I've supported legislation to give law enforcement agencies flexibility when dea
 With inflation high and the cost of consumer goods continuing to rise, you deserve a break from the government reaching into your wallet.
 It is my belief that government should operate within its means, and not place the burden of unnecessary excess on the backs of hardworking families and entrepreneurs.
 Taxes should cover essential state and community needs, not pet projects or political favors.
-23 Sep Monday, 12:24 AM · 2024 Doorknocking across the district (9/22/2024) 225 doors over 21.31 miles this weekend!
-Decent temps, and a refreshing breeze.
-Beautiful fall sights, and great conversations all along the campaign trail.
-19 Sep Thursday, 9:38 PM · 2024 ENDORSED by the INDEPENDENT PARTY OF CT I’m excited to announce that my re-election campaign has been cross-endorsed by the INDEPENDENT PARTY OF CONNECTICUT.
-Since 2016, the Independent Party has recognized that I’m committed to prioritizing people over politics, and will fight for common sense solutions to create opportunities FOR ALL.
-My record in Hartford reflects that commitment, and I thank them for recognizing that fact.
-17 Sep Tuesday, 10:05 PM · 2024 Join me in Celebrating CONSTITUTION DAY!
-Today, Tuesday, September 17, 2024 marks the 237th birthday of our United States Constitution.
-On this day in 1797, 39 delegates to the Constitutional Convention, representing 12 states, signed this magnificent, groundbreaking document.
-JOIN ME in celebrating its BIRTHDAY!
-17 Sep Tuesday, 1:17 PM · 2024 Fighting to Keep Wallingford and Middlefield Safe There is no issue more important than keeping families safe.
-Without feeling secure in your home or neighborhood, little else matters.
-Unfortunately, soft-on-crime policies and criminal coddling has put the safety of our communities at risk.
-In order to send a message that illegal, nefarious activity is not welcome in Connecticut, I've supported measures to combat the surge in street takeovers, protect children from online predators, increase protections for domestic violence and sexual assault victims, prevent cruelty to animals, stop catalytic converter theft, and back our heroes in blue.
-News Are Drone Deliveries Coming To Wallingford And Middlefield?
-AI Protections: CT Goes Farther Than The Feds Remembering...
-Come On Down to Celebrate Wallingford!
-One of Us Fishbein for Connecticut - Jo-Anne L.
+News EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
+MORE Information About Local Amazon Delivery Drones CT Families Are Taxed Enough Are Drone Deliveries Coming To Wallingford And Middlefield?
+Fishbein for Connecticut - Jo-Anne L.
 Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

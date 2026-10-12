@@ -1,0 +1,8 @@
+0 Skip to Content Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Open Menu Close Menu Open Menu Close Menu Home About Meet Maura Endorsements Early Voting Issues Take Action Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Home Folder: About Back Meet Maura Endorsements Early Voting Issues Folder: Take Action Back Volunteer Request Yard Sign Join Contact Register to Vote News Events DONATE Back to All Events Election Day Tuesday, November 3, 2026 7:00 AM 7:00 PM Google Calendar ICS Election day is here, November 3rd, 2026.
+I am proud to say this will be the most impactful election day in District 3’s history, with Brian Jack’s vote share in danger of sinking off the edge.
+This year, we make our voices heard.
+If you’re voting today, I would like to formally ask for your vote, because I believe I have to earn your vote once the election is over.
+If we all work together, we can accomplish the unthinkable! - Maura Click here to check your GA My Voter Page before voting .
+Posted In: Elections Previous Previous November 1 Canvass with the Maura Keller for Congress Campaign | Fayette County Maura Keller is a retired Lieutenant Colonel with the United States Army.
+Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
+Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

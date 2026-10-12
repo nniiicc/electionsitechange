@@ -9,5 +9,5 @@ With deep ties to the community and a background in both business and ministry, 
 Aaron Forst: Proven values.
 Genuine service.
 Leadership that shows up and truly serves Owasso, Tulsa, and Sperry.
-Endorsements & Ratings Senator Aaron Reinhardt Representative Emily Gise Pres Pro Tem Sen.
+Endorsements & Pledges Senator Aaron Reinhardt Representative Emily Gise Pres Pro Tem Sen.
 Lonnie Paxton Senator Paul Rosino Past Chair of OK Fed of College Republicans Conner Tranquill PO Box 539 Owasso, OK 74055 Aaron Forst - FOR OK SENATE - Serving Owasso, Tulsa, and Sperry Paid for and authorized by Forst for OK Aaron@ForstForOK.com 918-212-8723 Privacy & Terms bottom of page

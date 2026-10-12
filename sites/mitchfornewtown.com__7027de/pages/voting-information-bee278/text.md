@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage In-Person Early Voting | Absentee Ballot | Election Day Making a plan to vote is a great way to ensure your voice is heard in an election.
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News In-Person Early Voting | Absentee Ballot | Election Day Making a plan to vote is a great way to ensure your voice is heard in an election.
 Now is the time to start thinking about how you plan to vote this year.
 CT offers # days of in-person early voting, in addition to absentee and Election Day.
 # Days of In-Person Early Voting Life happens, and there are valid reasons why some may need to vote by mail—whether due to travel, illness, or unforeseen circumstances.
@@ -13,8 +13,8 @@ You can go in person or request your an absentee ballot by mail here .
 Polling Locations: District 1 – Newtown Middle School District 2 – Newtown High School District 3 – Reed Intermediate School Not sure of your district?
 CLICK HERE to find out which polling location you vote at on Election Day.
 Need to register to vote?
-CLICK HERE 14 YEAR INCUMBENT SERVING NEWTOWN ENDORSEMENTS AWARDS & HONORS NEWS & LETTERS VOTING INFO Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
+CLICK HERE VOTING INFO 14 YEAR INCUMBENT SERVING NEWTOWN AWARDS & HONORS LETTERS NEWS Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
 News Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Bolinsky Offers Thanks for Re-Election to 7th Term Balanced, Ethical & Considerate, Bolinsky Asks for Vote Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

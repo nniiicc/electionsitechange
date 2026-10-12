@@ -1,6 +1,6 @@
 0 Skip to Content Home Meet Allison About Allison In the News Endorsement The Issues Show Your Support Events Volunteer Yard Sign Donate Voter Information Voting House District 108 DONATE NOW Open Menu Close Menu Home Meet Allison About Allison In the News Endorsement The Issues Show Your Support Events Volunteer Yard Sign Donate Voter Information Voting House District 108 DONATE NOW Open Menu Close Menu Home Folder: Meet Allison Back About Allison In the News Endorsement The Issues Folder: Show Your Support Back Events Volunteer Yard Sign Donate Folder: Voter Information Back Voting House District 108 DONATE NOW Volunteer Are you ready to make a difference?
 Check out our current volunteer opportunities!
-Saturday, Oct 10 from 10 a.m. - 12 p.m. at Vector Brewing, 9850 Walnut Hill Lane Dallas, TX 75238 Sunday, Oct 11 from 1 p.m. - 3 p.m. at Tietze Park Sign up to Volunteer ALL IN FOR ALLISON Join Team Allison Today!
+Monday, Oct 12 from 6 p.m. - 8 p.m. virtual Sundays from 1 p.m. - 3 p.m. at Tietze Park Sign up to Volunteer ALL IN FOR ALLISON Join Team Allison Today!
 It feels good to be part of a team.
 It feels even better to be part of a purpose!
 It’s time for fresh, fearless voices in politics, and common-sense candidates like Allison Mitchell.

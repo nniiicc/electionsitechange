@@ -47,4 +47,4 @@ So what’s the bottom line?
 Instead of the PILOT program, we need a systematic review of the system of assessing property taxes for not just sports venues but all non-standard properties which are at risk of being unfairly taxed, so as to ensure that taxation is fair, rather than giving tax breaks to just some of those affected businesses.
 And we need to redouble our efforts to reduce or at least slow local government spending relative to inflation to reduce the property tax burden we all face . https://commons.wikimedia.org/wiki/File:Arlington_Racecourse_East.jpg; Sea Cow, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

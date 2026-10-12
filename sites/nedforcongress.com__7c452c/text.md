@@ -1,7 +1,6 @@
-Skip to content PRESS RELEASES MEDIA COVERAGE 606-791-1141 606-791-1141 PRESS RELEASES MEDIA COVERAGE Upcoming events Morehead, KY.
-10/9 Join us at the Carl Perkins Center in Morehead for the Rowan County Democratic fish fry Ashland, KY.
-10/10 10:00 AM - We're at the Democratic Woman’s Club Convention on Saturday from 10 AM - 3 PM at the Elk Club in Ashland Somerset, KY.
+Skip to content PRESS RELEASES MEDIA COVERAGE 606-791-1141 606-791-1141 PRESS RELEASES MEDIA COVERAGE Upcoming events Somerset, KY.
 10/13 6:00 PM - Ned will stop by the WYKY studio for a candidate forum Crab Orchard, KY.
+10/17 NOON - Join us Saturday in downtown Fleming Neon for a James Butler barbecue picnic - free Crab Orchard, KY.
 10/17 5:00 PM - Join us at the Broughtontown Community Center for a candidate forum Whitesburg, KY.
 10/20 5:00 PM - Join us for a candidate forum at the Harry Caudill Library Lexington, KY.
 10/26 Ned will be on "Kentucky Tonight" at the KET studio Pikeville, KY.

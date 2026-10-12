@@ -9,15 +9,15 @@ October 13, 7:30 am: Honk & Wave at Westford School.
 Sign up here .
 October 15, 7 pm: Westford Public Library Candidate Forum for Chittenden 25 (via Zoom) October 16, 3 pm: Canvass with Julia to Get Out the Vote.
 Sign up here .
-October 17, Honk & Wave with the No Kings Rally, Milton Hannafords.
-Sign up here .
-October 20, Honk & Wave at the corner of East Rd/Milton Westford Rd.
+October 17, Honk & Wave (Note: this is simultaneous with the No Kings Rally but separate), in the green space across from Milton Hannafords.
 Sign up here .
 October 24, 1 pm: Canvass with Julia to Get Out the Vote.
 Sign up here .
 October 27, 4 pm-7pm: Phone Bank for Julia to Get Out the Vote.
 Sign up here .
 October 27, 7:30 am: Honk & Wave at the corner of East Rd/Milton Westford Rd.
+Sign up here .
+October 20, Honk & Wave at the corner of East Rd/Milton Westford Rd.
 Sign up here .
 October 30, 4 pm-7pm: Phone Bank for Julia to Get Out the Vote.
 Sign up here .

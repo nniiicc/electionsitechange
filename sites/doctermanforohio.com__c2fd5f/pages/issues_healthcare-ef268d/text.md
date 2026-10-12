@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate More Home Issues Education Healthcare Good Governance Data Centers Donate Healthcare Medicaid: provides health insurance to 25 percent of Ohioans.
+Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate More Home Issues Education Healthcare Good Governance Data Centers Unions Donate Healthcare Medicaid: provides health insurance to 25 percent of Ohioans.
 The federal government pays a share of the cost and Ohio pays the rest.
 That insurance is being stripped by the federal government.
 The State is adding obstacles as well.

@@ -34,7 +34,7 @@ The Superintendent of Documents of the United States flew from D.C. to Californi
 This expertise is what, in part, informs her perspective on how we can get more Epstein files .
 With her team, she helped map the entire U.S. government including documenting hundreds of executive branch agencies in order to understand available levers of change, government mandates, and the records they hold.
 She's read hundreds of bills, written her own, and taught students from 32 Universities and colleges how to logically deconstruct legislative text through educational internships .
-At USC Dornsife's Center for the Political Future , the director personally asked her to build an internship program teaching students the political decision-making models that she invented.
+At USC Dornsife's Center for the Political Future , the managing director personally asked her to build an internship program teaching students the political decision-making models that she invented.
 She's given dozens of talks, including in multiple countries on modernizing democracy for the 21st century , has written several articles, and is contributor to two books ( one on the future of democracy ).
 Last year she moved to D.C. for 3 months to negotiate with DOGE to protect agencies .
 One agency she wanted to protect was NARA, and it seems that NARA was never cut by DOGE.

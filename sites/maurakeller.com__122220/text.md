@@ -32,23 +32,32 @@ She served, so she knows exactly how broken the current system is.
 Read More FULL PLATFORM support maura’S campaign $5 $50 $10 $100 $25 Other We can’t afford to let Brian Jack serve another term in Congress where his voting record shows he stands with Trump and not the people of our district.
 Maura needs your help to stop him.
 Help Maura set up District 3’s biggest ever opposition ground game—every single dollar counts for lawn signs , t-shirts , and more!
-Endorsements Georgia AFL-CIO VFRL Common Defense Hold the Line Recognized Candidate: Mental Health Now Recognized Candidate: Moms Demand Action March On PAC All Endorsements events All Events Events Oct 10 October 10, 2026 Meet and Greet and Canvass with Maura Keller | Muscogee County October 10, 2026 Meet Maura and canvass with Muscogee Democrats!
-Today at 4 PM, swing by the Muscogee Dems office at 1501 Columbus, GA, 31901, meet Maura and her team, and head out to knock on doors before the weather hits!
-Read more → October 10, 2026 Oct 11 October 11, 2026 Canvass with the Maura Keller for Congress Campaign | Fayette County October 11, 2026 Volunteer with the Maura Keller campaign!
-Come canvassing in Fayetteville this Sunday.
-Read more → October 11, 2026 Oct 13 October 13, 2026 Texting Tuesdays with Maura Keller October 13, 2026 Volunteer with the Maura Keller campaign!
+Endorsements Georgia AFL-CIO VFRL Common Defense Hold the Line Recognized Candidate: Mental Health Now Recognized Candidate: Moms Demand Action March On PAC All Endorsements events All Events Events Oct 13 October 13, 2026 Start of 2026 Early Voting!
+October 13, 2026 Early voting starts October 13th and ends October 30th.
+Make sure to check you My Voter Page before voting!
+Read more → October 13, 2026 Oct 13 October 13, 2026 Texting Tuesdays with Maura Keller October 13, 2026 Volunteer with the Maura Keller campaign!
 Come join our text-banking party every Tuesday.
-Read more → October 13, 2026 Oct 25 October 25, 2026 Canvass with the Maura Keller for Congress Campaign | Fayette County October 25, 2026 Volunteer with the Maura Keller campaign!
+Read more → October 13, 2026 Oct 19 October 19, 2026 Newnan-Coweta Chamber of Commerce Candidate Forum October 19, 2026 Keller v.
+Jack.
+October 19th.
+Stay tuned for more!
+Read more → October 19, 2026 Oct 20 October 20, 2026 Texting Tuesdays with Maura Keller October 20, 2026 Volunteer with the Maura Keller campaign!
+Come join our text-banking party every Tuesday.
+Read more → October 20, 2026 Oct 25 October 25, 2026 Canvass with the Maura Keller for Congress Campaign | Fayette County October 25, 2026 Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.
-Read more → October 25, 2026 Nov 1 November 1, 2026 Canvass with the Maura Keller for Congress Campaign | Fayette County November 1, 2026 Volunteer with the Maura Keller campaign!
+Read more → October 25, 2026 Oct 30 October 30, 2026 End of 2026 Early Voting October 30, 2026 Early voting starts October 13th and ends October 30th.
+Make sure to check you My Voter Page before voting!
+Read more → October 30, 2026 Nov 1 November 1, 2026 Canvass with the Maura Keller for Congress Campaign | Fayette County November 1, 2026 Volunteer with the Maura Keller campaign!
 Come canvassing in Fayetteville this Sunday.
-Read more → November 1, 2026 NEWs All News News October 9, 2026 Press Release: Maura Keller New Poll Has 3rd Congressional At 50% Jack, 45% Keller, 5% Undecided (+/- 5.6); 29% Improvement Over 2024 October 9, 2026 Maura Keller and Brian Jack are now within the margin of error according to new poll released by VoteNexus.
+Read more → November 1, 2026 Nov 3 November 3, 2026 Election Day November 3, 2026 Early voting starts October 13th and ends October 30th.
+Make sure to check you My Voter Page before voting!
+Read more → November 3, 2026 NEWs All News News October 11, 2026 Brian Jack Takes Money From Pro AI PACs And Local Data Center Developers October 11, 2026 Pro Data Center PACs are supporting Brian Jack’s re-election campaign.
+He’s passed tax breaks for big tech companies and rural Data Center development.
+Read more → October 11, 2026 October 9, 2026 Press Release: Maura Keller New Poll Has 3rd Congressional At 50% Jack, 45% Keller October 9, 2026 Maura Keller and Brian Jack are now within the margin of error according to new poll released by VoteNexus.
 Read more → October 9, 2026 September 2, 2026 Press Release: Maura Keller Raises $200,000, Hosts Reddit AMA, Joins Rally with Mayor Keisha Lance Bottoms September 2, 2026 Maura Keller shows her merit by becoming the first Democrat ever to raise $# in Georgia’s 3rd Congressional District.
 She achieved this with contributions from over 2,500 individual donors.
 Read more → September 2, 2026 July 8, 2026 Press Release: Maura Keller Breaks District 3 Fundraising Record, Becomes First Democrat Ever to Raise $150,000 July 8, 2026 Maura Keller shows her merit by becoming the first Democrat ever to raise $# in Georgia’s 3rd Congressional District.
 She achieved this with contributions from over 2,000 individual donors.
-Read more → July 8, 2026 May 19, 2026 Press Release: Maura Keller Wins 2026 Primary to Represent Georgia’s 3rd Congressional District, Eyes General Upset, Expands Staff May 19, 2026 In a resounding victory, Maura Keller secures nomination for Georgia’s 3rd Congressional District.
-Her victory at Fayette County Democratic Committee HQ sets up a ground-breaking upset campaign to unseat MAGA faithful Brian Jack in November.
-Read more → May 19, 2026 Maura Keller is a retired Lieutenant Colonel with the United States Army.
+Read more → July 8, 2026 Maura Keller is a retired Lieutenant Colonel with the United States Army.
 Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
 Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

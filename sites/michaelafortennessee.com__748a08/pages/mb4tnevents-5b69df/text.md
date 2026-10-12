@@ -1,9 +1,7 @@
 Skip navigation menu Home About Priorities Volunteer Events Merch Donate WE ARE THE CAVALRY Events Home About Priorities Volunteer Events Merch Donate WE ARE THE CAVALRY Events Join Us Upcoming Events Meet Michaela Barnett and ask your questions about her background, platform, and plans to deliver for TN-02.
 Looking for volunteer opportunities?
 Find them here .
-Blount County Democratic Picnic Lousville Point Park 3298 Cox Road, Lousville, TN Join Michaela Barnett at the BCDP Fall Picnic!
-Dinner served at 5 p.m.
-RSVP Farragut Town Hall Farragut Community Center 239 Jamestowne Blvd 201, Knoxville, TN 37934 Tim Burchett has been dodging tough questions from East Tennessee voters for nearly a decade.
+Farragut Town Hall Farragut Community Center 239 Jamestowne Blvd 201, Knoxville, TN 37934 Tim Burchett has been dodging tough questions from East Tennessee voters for nearly a decade.
 On Monday, October 12th, Michaela Barnett is showing up to answer them.
 Join us at the Farragut Community Center for a town hall where you can ask Michaela directly about healthcare, infrastructure, affordability, and what real representation looks like for TN-02.
 Registration is encouraged so we can plan ahead, but not required to attend.

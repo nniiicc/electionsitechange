@@ -24,8 +24,9 @@ The report is due by June, but gathering the required data is proving to be a ch
 Officials with the Department of Housing and Community Development said in December a lot of the data points needed to complete their work is unavailable.
 The Legislative Black Caucus of Maryland (LBCM) also supports the legislation.
 “Once the task force [has] completed its work, the findings of the task [force] will reverse the current trends of Black homeownership, thereby, adding financial stability to the Black community,” LBCM said in a statement.
-Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like What’s Your Home Worth?
-A WUSA9 investigation into appraisal bias July 10, 2022 2021 College Scholarship Application February 7, 2021 Prince George County 2020 Presidential General Election Voting Centers and Ballot Questions 1 and 2 October 9, 2020 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like Prince George County 2020 Presidential General Election Voting Centers and Ballot Questions 1 and 2 October 9, 2020 Today is day-one of the Maryland General Assembly January 14, 2021 Condo Buildings Are at Risk.
+So Is All Real Estate.
+July 10, 2021 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
 Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments What’s Your Home Worth?
 A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments By Authority: Friends of Marvin E.
 Holmes, Jr.

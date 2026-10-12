@@ -1,5 +1,5 @@
-top of page JANET YANG ROHR For State Representative of IL House District 41 Meet Janet Platform Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
-GET A YARD SIGN Privacy Policy for Friends of Janet Yang Rohr Effective Date: September 4, 2026 Friends of Janet Yang Rohr ("we," "us," or "our") is committed to protecting the privacy of visitors and users ("you" or "your") of our political campaign website.
+top of page JANET YANG ROHR Meet Janet Platform Election Information Endorsements Get Involved Events 41st District Map More Use tab to navigate through the menu items.
+For State Representative of IL House District 41 GET A YARD SIGN Privacy Policy for Friends of Janet Yang Rohr Effective Date: September 4, 2026 Friends of Janet Yang Rohr ("we," "us," or "our") is committed to protecting the privacy of visitors and users ("you" or "your") of our political campaign website.
 This Privacy Policy outlines our practices regarding the collection, use, and disclosure of personal information through our website.
 By accessing and using our website, you consent to the terms of this Privacy Policy.
 Information We Collect : a.
@@ -26,4 +26,4 @@ Any changes will be effective immediately upon posting of the revised Privacy Po
 We encourage you to review this page periodically for the latest information on our privacy practices.
 Contact Us: If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please contact us at: janet@janetforillinois.com .
 SUBSCRIBE TO OUR EMAILS Get Janet's latest updates SUBSCRIBE Thanks for submitting!
-Meet Janet Platform Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​​​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page
+Meet Janet Platform Election Information Endorsements Get Involved Events 41st District Map JANET For State Representative © # by Friends of Janet Yang Rohr Paid for by Friends of Janet Yang Rohr Privacy Policy Donate ​​​ janet@janetforillinois.com ‪(630) 446-0232‬ bottom of page

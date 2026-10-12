@@ -1,6 +1,15 @@
 0 Skip to Content About Donate Volunteer Endorsements Open Menu Close Menu About Donate Volunteer Endorsements Open Menu Close Menu About Donate Volunteer Endorsements Donate Reed is a small business owner and the director of two emergency homeless shelters in Bemidji.
 As a two-term Beltrami County Commissioner, he established a track record as a problem solver, bridge-builder, and skilled collaborator who doesn't wait to help out in a crisis.
 He has passed measures to help address the housing crisis, fund the new Bemidji Veterans Home, and support small businesses struggling in the pandemic.
+Sometimes people don’t believe that they deserve to have affordable housing, to have quality child care, access to affordable groceries.
+We deserve nice things.
+For years, I’ve seen the challenges facing families firsthand here in northern Minnesota, whether as a Beltrami County Commissioner or through my work running the Nameless Coalition for the Homeless.
+I know that affordability isn’t just a talking point.
+It’s about the dignity of having a roof over your head and the security of knowing your kids are well cared for.
+I’m Reed Olson.
+Send someone to St.
+Paul who understands what’s happening here.
+Prepared and paid for by the Vote Reed Olson Committee.
 Fighting for the Northwoods.
 Build more housing in rural Minnesota Fight to protect our environment Support tribal sovereignty Expand rural access to quality childcare Create more good jobs for rural Minnesotans Get Involved Follow our campaign!
 Sign up to receive campaign news blasts. * indicates required Email Address * Click to see entire photo album of photos and b-roll.

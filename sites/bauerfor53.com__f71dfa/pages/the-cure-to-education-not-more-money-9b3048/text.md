@@ -52,4 +52,4 @@ But for those who have, please recognize the fundamental bottom line that improv
 Good legislation can help improve learning, but bad legislation can actively do harm.
 And having sound teaching practices and administering schools well matters much more than a money spigot. https://commons.wikimedia.org/wiki/File:A_public_school,_high_school_classroom_in_the_United_States_02.jpg; Harrison Keely, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

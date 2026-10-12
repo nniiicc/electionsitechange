@@ -1,13 +1,13 @@
 top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE Platform THE 8-POINT PLAN My 8 Point Plan focuses on safer communities, lower taxes, affordable housing, reliable energy, a fair justice system, and a government that is transparent, accountable, and works for every New Yorker.
 1.
 BAIL REFORM 3.
-FAMILY COURT REFORM 5.
+FAMILY COURT 5.
 TAX RELIEF 7.
-HEALTH INSURANCE 2.
+HEALTHCARE 2.
 SAFE SHELTERS 4.
 HATE CRIMES 6.
 HOUSING 8.
-ENERGY INDEPENDENCE 1.
+ENERGY 1.
 BAIL REFORM The 2019 bail reforms addressed a real injustice by ensuring low-income individuals do not sit in jail for minor charges simply because they cannot afford bail.
 However, by nearly eliminating judicial discretion, the legislature went too far, leaving judges unable to consider public safety or protect communities from repeat violent offenders.
 What I'll do Carnegie Hill Restore judicial discretion to consider public-safety risks when setting bail for repeat violent offenders.
@@ -51,14 +51,13 @@ Reform unfair rental laws to bring vacant apartments back to market, and ease bu
 What I'll do Carnegie Hill Carnegie Hill Provide targeted property tax credits to building owners who completely fund and execute essential structural, safety, and infrastructure repairs on vacant apartments.
 Remove long-term vacant units from rent stabilization constraints if they require extensive capital rehabilitation to meet legal human-occupancy standards.
 7.
-HEALTH INSURANCE Health insurance has become increasingly unaffordable for working New Yorkers and the businesses that employ them.
+HEALTHCARE Health insurance has become increasingly unaffordable for working New Yorkers and the businesses that employ them.
 The average employer-sponsored health plan now costs $9,325 a year for individual coverage and nearly $27,000 for family coverage.
 New York adds extensive state coverage requirements to health plans, limiting insurers’ ability to offer consumers more affordable options.
 While many of these benefits are valuable, not every individual or family needs the same level of coverage.
 A one-size-fits-all system can force people to pay for benefits they may not need while making basic health insurance increasingly difficult to afford.
-What I'll do Carnegie Hill Create an alternative state health insurance standard focused on preventive care, with fewer required benefits, allowing insurers to offer lower-cost plans and lower premiums.
+What I'll do Carnegie Hill Introduce Stage Choice Give individuals and employers an alternative to the current one-size-fits-all state benefit requirements, allowing insurers to offer plans with lower premiums.
 Carnegie Hill Reduce Unnecessary Mandates Allow consumers to choose plans that do not automatically include every state-mandated service they may not need, reducing the cost built into their premiums.
-Carnegie Hill Introduce Plan Choice Give individuals and employers an alternative to the current one-size-fits-all state benefit requirements.
 8.
 ENERGY INDEPENDENCE New York needs a cleaner, more reliable, and more affordable energy system capable of supporting residents, businesses,s and the growing digital economy.
 Solar and wind are important parts of that system, and battery storage can extend their availability.

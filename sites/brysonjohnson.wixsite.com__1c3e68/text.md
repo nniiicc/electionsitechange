@@ -1,5 +1,5 @@
 top of page Donate to Help Reach Cary and Apex Voters Bryson Johnson for NC House District 21 About Bryson About District 21 Donate Socials Facebook Instagram Youtube About NC Representatice Ya Liu The Candidates of District 21 HOW ARE YOU DIFFERENT?
-Blog Asian Americans for Bryson Bryson refuses all PAC money.
+NC Lottery Blog Asian Americans for Bryson Bryson refuses all PAC money.
 When you donate, you fund a campaign run FOR THE PEOPLE, not SPECIAL INTERESTS!
 I'm running for the Exhausted Majority of folks in North Carolina who are tired of extremes.
 Bryson Johnson for NC House District 21 — Cary & Apex I have always been a Republican, but I won’t make enemies out of Apex and Cary Voters if you're a Democrat.

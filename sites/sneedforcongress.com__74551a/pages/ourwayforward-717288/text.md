@@ -1,4 +1,4 @@
-top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Media Merch More Use tab to navigate through the menu items.
 DONATE THE ISSUES Costs Down, Opportunity Up, Fix What's Deeply Broken Let's Get to Work!
 HEALTHCARE Affordable | Reliable | Secure We cannot let rural healthcare collapse while the city thrives.
 AFFORDABILITY More Gain, Less Pain Growth means nothing if you can't pay the bills .

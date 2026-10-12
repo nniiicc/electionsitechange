@@ -1,4 +1,4 @@
-Skip to content About Contact About Contact Donate About Allison Grigsby Sweatman Allison Grigsby Sweatman, an 8th generation Arkansan, grew up in Cabot in a family that understood both perseverance and resilience.
+Skip to content About Issues Contact About Issues Contact Donate About Allison Grigsby Sweatman Allison Grigsby Sweatman, an 8th generation Arkansan, grew up in Cabot in a family that understood both perseverance and resilience.
 Ten weeks after Allison was born in Little Rock, her father, Jerry, was paralyzed in a car accident, and she was raised by her mother, Bridget, with the constant love and support of her grandmother who lived next door.
 Her mother worked long hours to provide for the family and eventually became the owner of Chicken Country, a restaurant in Jacksonville that is still serving the community today.
 Allison grew up waiting tables, washing dishes, and learning the value of hard work and serving others.
@@ -24,4 +24,4 @@ I Want a Yard Sign Knock on doors Call or Text Voters Host an Event for Allison 
 Message frequency varies.
 Message & Data Rates May Apply.
 Reply STOP to opt out.
-About Contact About Contact Paid for by Allison for Arkansas PO Box 1001, North Little Rock, AR 72115 Privacy Policy Copyright © # Allison in Arkansas | Design by Riveter Solutions
+About Issues Contact About Issues Contact Paid for by Allison for Arkansas PO Box 1001, North Little Rock, AR 72115 Privacy Policy Copyright © # Allison in Arkansas | Design by Riveter Solutions

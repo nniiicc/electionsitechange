@@ -1,4 +1,4 @@
-Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl 简体中文 zh עברית he русский ru English en Español es Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Poznaj Danicę ★ Poznaj Danicę Hartenfels Lider prawdziwego życia, nie tylko polityki Zakorzenione w 189.
+Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się polski pl 简体中文 zh русский ru English en עברית he Español es Dom Poznaj Danicę Aktualności Wydarzenia Zaangażować się Kontakt Zaangażować się ★ Poznaj Danicę ★ Poznaj Danicę Hartenfels Lider prawdziwego życia, nie tylko polityki Zakorzenione w 189.
 Dzielnicy Urodzona w East Stroudsburg i wychowana w gminie Delaware w hrabstwie Pike, Danica pochodzi z rodziny silnie związanej z naszym regionem.
 Jej ojciec, weteran marynarki wojennej i właściciel małej firmy w Dingmans Bridge, oraz matka, szanowana sekretarka prawna w hrabstwie Monroe, wychowali ją w duchu wartości ciężkiej pracy, służby i wspólnoty.
 Korzenie jej rodziny w tym regionie sięgają pokoleń – jej dziadek był znanym budowniczym w Dingmans Ferry.

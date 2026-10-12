@@ -1,6 +1,6 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
-Watch the journey → Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Volunteer Sign up to help knock doors, make calls, host a meet-and-greet, or support the campaign in other ways.
+Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Volunteer Sign up to help knock doors, make calls, host a meet-and-greet, or support the campaign in other ways.
 First name Last name Email Phone (optional) County Availability Select all that apply.
 Weekdays Weeknight evenings Weekends Skills Select all that apply.
 Comfortable making phone calls Can knock doors Speak another language Office and administrative tasks Fundraising Event planning Research and fact-finding Legal Finance or bookkeeping Design or creative Tech or web Prior campaign experience Other Anything else we should know? (optional) By submitting, you agree to receive email updates from the Rachel Fetty Anderson for U.S.

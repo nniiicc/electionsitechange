@@ -1,6 +1,6 @@
-Sign Up for Office Hours Home About What I Stand For Contact What’s Cooking?
-Announcements & Upcoming Events Home About What I Stand For Contact What’s Cooking?
-Announcements & Upcoming Events Suzanne Lovig is a community-focused leader, a small business owner, and a dedicated public servant with a proven record of results.
+Sign Up for Office Hours Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
+Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
+Suzanne Lovig is a community-focused leader, a small business owner, and a dedicated public servant with a proven record of results.
 A longtime Woodbury resident and mother of two, Suzanne brings entrepreneurial grit, financial discipline, and a people-first leadership style to everything she does.
 In 1993, Suzanne and her husband, Dave, launched TopNotch Painting LLC.
 Over the years, they built a company with an exceptional reputation for superior quality and customer service.

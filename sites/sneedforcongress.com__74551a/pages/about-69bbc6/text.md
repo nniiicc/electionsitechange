@@ -1,4 +1,4 @@
-top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Media Merch More Use tab to navigate through the menu items.
 DONATE Your next Representative Rooted in North Alabama Son, little brother, devoted husband, father of 3 amazing girls, master plumber and gas fitter, and founder and operator of a local small business - Andrew was born and raised in Huntsville.
 The son of a local attorney and school teacher/administrator, he grew up on the family farm just outside of town and also in Blossomwood.
 A product of Huntsville City Schools, Andrew graduated from Lee High in 1998.

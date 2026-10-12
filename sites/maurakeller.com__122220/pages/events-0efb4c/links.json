@@ -117,10 +117,6 @@
 },
 {
 "text": "Canvass with the Maura Keller for Congress Campaign!",
-"href": "https://maurakeller.com/events/canvass-09-04"
-},
-{
-"text": "Canvass with the Maura Keller for Congress Campaign!",
 "href": "https://maurakeller.com/events/canvass-09-30"
 },
 {
@@ -144,6 +140,18 @@
 "href": "https://maurakeller.com/early-voting"
 },
 {
+"text": "Election Day",
+"href": "https://maurakeller.com/events/election-day-2026"
+},
+{
+"text": "Elections",
+"href": "https://maurakeller.com/events?category=Elections"
+},
+{
+"text": "End of 2026 Early Voting",
+"href": "https://maurakeller.com/events/early-voting-end"
+},
+{
 "text": "Endorsements",
 "href": "https://maurakeller.com/endorsements"
 },
@@ -154,6 +162,10 @@
 {
 "text": "Fayette",
 "href": "https://maurakeller.com/events?category=Fayette"
+},
+{
+"text": "Fayette County Democratic Committee",
+"href": "http://maps.google.com?q=185+kathi+avenue+fayetteville%2C+georgia%2C+30214+united+states"
 },
 {
 "text": "Folder: About",
@@ -170,10 +182,6 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Fayette+Young+Dems&dates=20261007T210000Z%2F20261008T000000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
-},
-{
-"text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign%21&dates=20260904T180000Z%2F20260904T200000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
 },
 {
 "text": "Google Calendar",
@@ -265,7 +273,19 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T130000Z%2F20261104T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=End+of+2026+Early+Voting&dates=20261030T140000Z%2F20261031T000000Z"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+and+Canvass+with+Maura+Keller+%7C+Muscogee+County&dates=20261010T210000Z%2F20261010T230000Z&location=1501+13th+Street%2C+Columbus%2C+Georgia%2C+31901%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Newnan-Coweta+Chamber+of+Commerce+Candidate+Forum&dates=20261019T230000Z%2F20261020T000000Z"
 },
 {
 "text": "Google Calendar",
@@ -274,6 +294,10 @@
 {
 "text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Serve+the+People%3A+Canvass+with+Maura+and+Ground+Game+Georgia+in+Newnan&dates=20260913T210000Z%2F20260913T230000Z&location=Newnan%2C+Georgia%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Start+of+2026+Early+Voting%21&dates=20261013T140000Z%2F20261014T000000Z"
 },
 {
 "text": "Google Calendar",
@@ -297,6 +321,10 @@
 },
 {
 "text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20261020T223000Z%2F20261021T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Texting+and+Postcard+Writing+Party+with+Maura+Keller&dates=20260915T223000Z%2F20260916T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
 },
 {
@@ -305,7 +333,7 @@
 },
 {
 "text": "ICS",
-"href": "https://maurakeller.com/events/canvass-09-04?format=ical"
+"href": "https://maurakeller.com/events/candidate-forum?format=ical"
 },
 {
 "text": "ICS",
@@ -405,6 +433,18 @@
 },
 {
 "text": "ICS",
+"href": "https://maurakeller.com/events/early-voting-end?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/early-voting-start?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/election-day-2026?format=ical"
+},
+{
+"text": "ICS",
 "href": "https://maurakeller.com/events/rally-with-keisha-milner?format=ical"
 },
 {
@@ -414,6 +454,10 @@
 {
 "text": "ICS",
 "href": "https://maurakeller.com/events/texting-tuesdays-10-13?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-20?format=ical"
 },
 {
 "text": "ICS",
@@ -460,6 +504,10 @@
 "href": "https://maurakeller.com/events/canvass-10-09-muscogee"
 },
 {
+"text": "Newnan-Coweta Chamber of Commerce Candidate Forum",
+"href": "https://maurakeller.com/events/candidate-forum"
+},
+{
 "text": "News",
 "href": "https://maurakeller.com/news"
 },
@@ -476,6 +524,30 @@
 "href": "https://maurakeller.com/events/rally-with-keisha-milner"
 },
 {
+"text": "Read more →",
+"href": "https://maurakeller.com/events/candidate-forum"
+},
+{
+"text": "Read more →",
+"href": "https://maurakeller.com/events/early-voting-end"
+},
+{
+"text": "Read more →",
+"href": "https://maurakeller.com/events/early-voting-start"
+},
+{
+"text": "Read more →",
+"href": "https://maurakeller.com/events/election-day-2026"
+},
+{
+"text": "Read more →",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-13"
+},
+{
+"text": "Read more →",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-20"
+},
+{
 "text": "Register to Vote",
 "href": "https://mvp.sos.ga.gov/s/"
 },
@@ -488,8 +560,20 @@
 "href": "https://maurakeller.com/events/canvass-coweta-09-12"
 },
 {
+"text": "Start of 2026 Early Voting!",
+"href": "https://maurakeller.com/events/early-voting-start"
+},
+{
+"text": "Text Bank",
+"href": "https://maurakeller.com/events?tag=Text+Bank"
+},
+{
 "text": "Texting Tuesdays with Maura Keller",
 "href": "https://maurakeller.com/events/texting-tuesdays-10-13"
+},
+{
+"text": "Texting Tuesdays with Maura Keller",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-20"
 },
 {
 "text": "Texting Tuesdays with Maura Keller",
@@ -517,7 +601,7 @@
 },
 {
 "text": "View Event →",
-"href": "https://maurakeller.com/events/canvass-09-04"
+"href": "https://maurakeller.com/events/candidate-forum"
 },
 {
 "text": "View Event →",
@@ -617,6 +701,18 @@
 },
 {
 "text": "View Event →",
+"href": "https://maurakeller.com/events/early-voting-end"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/early-voting-start"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/election-day-2026"
+},
+{
+"text": "View Event →",
 "href": "https://maurakeller.com/events/rally-with-keisha-milner"
 },
 {
@@ -626,6 +722,10 @@
 {
 "text": "View Event →",
 "href": "https://maurakeller.com/events/texting-tuesdays-10-13"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-20"
 },
 {
 "text": "View Event →",
@@ -654,6 +754,10 @@
 {
 "text": "Volunteer",
 "href": "https://maurakeller.com/events?category=Volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://maurakeller.com/events?tag=Volunteer"
 },
 {
 "text": "Volunteer",
@@ -753,11 +857,23 @@
 },
 {
 "text": "[image: Canvass with the Maura Keller for Congress Campaign!]",
-"href": "https://maurakeller.com/events/canvass-09-04"
+"href": "https://maurakeller.com/events/canvass-09-30"
 },
 {
-"text": "[image: Canvass with the Maura Keller for Congress Campaign!]",
-"href": "https://maurakeller.com/events/canvass-09-30"
+"text": "[image: Election Day]",
+"href": "https://maurakeller.com/events/election-day-2026"
+},
+{
+"text": "[image: Election Day] Nov 3",
+"href": "https://maurakeller.com/events/election-day-2026"
+},
+{
+"text": "[image: End of 2026 Early Voting]",
+"href": "https://maurakeller.com/events/early-voting-end"
+},
+{
+"text": "[image: End of 2026 Early Voting] Oct 30",
+"href": "https://maurakeller.com/events/early-voting-end"
 },
 {
 "text": "[image: Maura Keller]",
@@ -768,6 +884,14 @@
 "href": "https://maurakeller.com/events/canvass-10-09-muscogee"
 },
 {
+"text": "[image: Newnan-Coweta Chamber of Commerce Candidate Forum]",
+"href": "https://maurakeller.com/events/candidate-forum"
+},
+{
+"text": "[image: Newnan-Coweta Chamber of Commerce Candidate Forum] Oct 19",
+"href": "https://maurakeller.com/events/candidate-forum"
+},
+{
 "text": "[image: Rally with Mayor Keisha Lance Bottoms in Milner, GA]",
 "href": "https://maurakeller.com/events/rally-with-keisha-milner"
 },
@@ -776,8 +900,20 @@
 "href": "https://maurakeller.com/events/canvass-coweta-09-12"
 },
 {
+"text": "[image: Start of 2026 Early Voting!]",
+"href": "https://maurakeller.com/events/early-voting-start"
+},
+{
+"text": "[image: Start of 2026 Early Voting!] Oct 13",
+"href": "https://maurakeller.com/events/early-voting-start"
+},
+{
 "text": "[image: Texting Tuesdays with Maura Keller]",
 "href": "https://maurakeller.com/events/texting-tuesdays-10-13"
+},
+{
+"text": "[image: Texting Tuesdays with Maura Keller]",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-20"
 },
 {
 "text": "[image: Texting Tuesdays with Maura Keller]",
@@ -794,6 +930,14 @@
 {
 "text": "[image: Texting Tuesdays with Maura Keller]",
 "href": "https://maurakeller.com/events/texting-tuesdays-9-8"
+},
+{
+"text": "[image: Texting Tuesdays with Maura Keller] Oct 13",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-13"
+},
+{
+"text": "[image: Texting Tuesdays with Maura Keller] Oct 20",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-20"
 },
 {
 "text": "[image: Texting and Postcard Writing Party with Maura Keller]",

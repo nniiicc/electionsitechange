@@ -43,4 +43,4 @@ Or, again, a version with lyrics: And here are the lyrics : 1 Eternal Father, st
 3 O Holy Spirit, who did brood Upon the waters dark and rude, And bid their angry tumult cease, And give for wild confusion peace; O hear us when we cry to Thee For those in peril on the sea.
 4 O Trinity of love and pow’r, Your children shield in danger’s hour; From rock and tempest, fire, and foe, Protect them where-so-e’er they go; Thus, evermore shall rise to Thee Glad hymns of praise from land and sea. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

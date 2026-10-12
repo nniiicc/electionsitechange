@@ -20,7 +20,7 @@ District 3A needs a bipartisan representative at the Capitol.
 I have decades of experience bringing people together across parties and communities to fight natural disasters, keep us safe, and deliver real results.
 Share a priority by completing the Contact Us form below. > Donations help us reach voters across District 3A with events, materials, and outreach.
 DONATE TODAY Schedule Upcoming events and opportunities to meet the campaign.
-Door knock Hoyt lakes October 11 • 12:00 pm - 6:00 pm • Hoyt Lakes Public Library, 206 Kennedy Memorial Dr, Hoyt Lakes, MN 55750, USA Join Aaron for a door knock in Hoyt Lakes - we will be meeting at the public library. at 12pm Event Details Iron Trail Motors Meet & Greet October 15 • 5:00 pm - 7:00 pm • Iron Trail Motors Event Center, 919 6th St S, Virginia, MN 55792, USA Aaron Kania will be attending the candidate Meet & Greet @ Iron Trail Motors October 15th.
+Iron Trail Motors Meet & Greet October 15 • 5:00 pm - 7:00 pm • Iron Trail Motors Event Center, 919 6th St S, Virginia, MN 55792, USA Aaron Kania will be attending the candidate Meet & Greet @ Iron Trail Motors October 15th.
 Sincere thank you to Laurentian Chamber of Commerce for hosting.
 Mesabi...
 Event Details Request a visit by completing the Contact Us form below. > View Full Calendar Endorsements Proud to have the support of organizations across Minnesota and here in District 3A.

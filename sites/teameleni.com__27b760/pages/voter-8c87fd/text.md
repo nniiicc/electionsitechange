@@ -1,4 +1,4 @@
-0 Skip to Content 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Vote!
+0 Skip to Content 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News Endorsements 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News Endorsements 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News Endorsements 🗳 Voter Info Vote!
 Can I Vote for Eleni?
 The 17th State Rep.
 District encompasses Canton and part of Avon.

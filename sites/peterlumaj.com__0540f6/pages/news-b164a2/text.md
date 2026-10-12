@@ -1,6 +1,8 @@
 Skip to main content Home About News Resources Get Involved Open menu News & Updates Stay informed with the latest news, updates, and insights from Peter Lumaj's campaign for Secretary of the State.
-Featured Story Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections.
-Read Full Story → October 4, 2026 Updates from the campaign trail: September 27, 2026 Team Lumaj remains hard at work on the campaign trail!
+Featured Story # Days Until Election Day: Get Ready with Our GOTV App!
+With just # days until Election Day, November 3rd is quickly approaching!
+Read Full Story → October 11, 2026 Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections.
+Read More → Oct 4 Updates from the campaign trail: September 27, 2026 Team Lumaj remains hard at work on the campaign trail!
 Last weekend, we joined fellow Republicans for the annual Guilford Fair parade.
 We also recently joined the entire statewide ticket in Salisbury to share our visions on how to not only win in November, but also on what each of us would do to ...
 Read More → Sep 27 Updates from the campaign trail: September 20, 2026 Last week, our nation paused to remember the bravery of all who responded #ago, and the lives of those who were tragically lost on September 11th.
@@ -31,7 +33,4 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Joe Kilduff Former Mayor of Plymouth "I am proud to endorse my good friend Peter Lumaj for Secretary of the State.
-Peter has long been a tireless advocate for bringing strong, conservative principles to our state government.
-His dedication to election integrity, transparency, and efficient public service is exactly what Connecticut needs.
-I have no doubt that, as our next Secretary of the State, Peter will work every day to safeguard our democratic process and serve the people of Connecticut with honor and conviction" View all endorsements →
+ENDORSED BY Jeff Caggiano Former Mayor of Bristol "The Secretary of the State interacts with a wide range of individuals, including voters, businesses, other government officials, and the public, requiring strong communication and interpersonal skills, which Peter has been able to demonstrate in his business and political experience." View all endorsements →

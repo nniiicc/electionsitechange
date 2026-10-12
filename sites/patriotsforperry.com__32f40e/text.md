@@ -47,6 +47,8 @@ Learn More Defending Life Scott Perry believes firmly in the sanctity of Life �
 He makes exceptions for circumstances that involve rape, incest, and danger to the life of the mother.
 He opposes late-term and partial birth abortion, as well as forcing Taxpayers to fund abortion.
 Learn More Veterans As a Combat Veteran who served for nearly 40 years in uniform, Scott Perry knows and understands firsthand the sacrifices made by Veterans and their families to protect our safety, security, freedom, and liberty.
-Learn More The Latest From Facebook Scott Perry for Congress #ago Leftists are NOT the answer…to the problem…that THEY CAUSED.
-671 382 50 View on Facebook Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
+Learn More The Latest From Facebook Scott Perry for Congress #ago Great people, great community, another great Pumpkin Fest!
+I look forward to this time in East Pennsboro every year – meeting neighbors, sharing some laughs, eating too much, and having some amazing chats.
+Thanks to everyone who helped make it another beautiful day!
+114 42 6 View on Facebook Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
 Facebook X-twitter Youtube Instagram Paid for by Patriots for Perry SEE OUR PRIVACY POLICY | TERMS AND CONDITIONS DESIGN BY IGNITE STRATEGIES

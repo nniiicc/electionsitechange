@@ -52,7 +52,9 @@ We agree with her, too, that Illinois must put the brakes on premature closing o
 A vote to flip this seat to the Democrats is a vote for higher taxes and spending.
 We endorse Danielle Penman.” -The Editorial Board, Chicago Tribune National Federation of Independent Business (NFIB) Illinois PAC “During a time of rising business costs in this state, Danielle Penman is the best equipped candidate to represent small businesses in the 33rd district,” said NFIB Illinois State Director Noah Finley.
 “Small businesses need a fighter who will stand up to Springfield special interests and advocate for common-sense, pro-Main Street policies.” Chicago Firefighters UNION, Local No.
-2 “I am honored to be endorsed by the men and women of the Chicago Firefighters Union, Local 2.” -Danielle Penman NURSES POLITICAL ACTION COMMITTEE (PAC) “I am proud to be endorsed by Nurses PAC, an organization representing nurses in Illinois.” -Danielle Penman EILEEN PHIPPS, MAYOR OF WAYNE As Mayor of Wayne, I have seen firsthand how decisions made in Springfield can affect our communities and the people who call them home.
+2 “As a nurse for nearly 30 years, Danielle Penman understands what it means to answer the call when people need help.
+She shares the commitment to public service that firefighters and first responders bring to our communities every day.
+We are proud to endorse Danielle Penman for State Senate.” NURSES POLITICAL ACTION COMMITTEE (PAC) “I am proud to be endorsed by Nurses PAC, an organization representing nurses in Illinois.” -Danielle Penman EILEEN PHIPPS, MAYOR OF WAYNE As Mayor of Wayne, I have seen firsthand how decisions made in Springfield can affect our communities and the people who call them home.
 That is why it matters to have someone like Danielle Penman representing us in the State Senate.
 Danielle understands that every community is different and that local leaders and residents deserve a voice in the decisions that affect them.
 Too often, the state imposes new mandates without providing the funding to pay for them.

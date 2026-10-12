@@ -1,7 +1,12 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
-Watch the journey → Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → In the News Coverage of Rachel and the campaign from across West Virginia.
-Article September 10, 2026 Mountaineer Journal Rachel Fetty Anderson Says Corporate ‘Price Fixing,’ Farm Decline Driving High Beef Prices Rachel discusses corporate consolidation, declining cattle herds, and policies to support American farmers and ranchers.
+Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → In the News Coverage of Rachel and the campaign from across West Virginia.
+Article October 9, 2026 The Dominion Post W.Va.
+Democratic Party poll shows voter dissatisfaction heading into November election A Democratic Party-commissioned poll finds voter dissatisfaction with statewide Republican leadership as Rachel prepares to face Sen.
+Capito in November.
+Read the article → Article September 26, 2026 The Dominion Post Come rain or shine: Anderson campaign highlights discontent with Capito’s record Rachel meets campaign volunteers on Charleston’s West Side and contrasts her grassroots campaign and policy platform with Sen.
+Capito’s fundraising and record.
+Read the article → Article September 10, 2026 Mountaineer Journal Rachel Fetty Anderson Says Corporate ‘Price Fixing,’ Farm Decline Driving High Beef Prices Rachel discusses corporate consolidation, declining cattle herds, and policies to support American farmers and ranchers.
 Read the article → Article August 30, 2026 Mountaineer Journal Rachel Fetty Anderson Vows to Reject Money From Foreign Government PACs in U.S.
 Senate Race Rachel explains her commitment to rejecting corporate and foreign-interest PAC money and remaining accountable to voters.
 Read the article → Article August 16, 2026 Mountaineer Journal U.S.
@@ -9,7 +14,9 @@ Senate Candidate Rachel Fetty Anderson Calls Corporate Monopolies a Threat to Am
 Read the article → Article June 1, 2026 The Dominion Post Good Neighbors gather: Rally features speakers, song and spirit Coverage of the Good Neighbors Rally for Faith and Democracy in Morgantown, where Rachel joined community leaders and neighbors.
 Read the article → Video May 15, 2026 WDTV General Election Preview: Rachel Fetty Anderson Rachel joins WDTV for a preview of the U.S.
 Senate general election following her Democratic primary victory.
-Watch the video → Article May 14, 2026 WAJR Former Morgantown elected official to face Capito in the fall Rachel discusses campaign financing, reproductive rights, data centers, and West Virginia’s economy after winning the Democratic nomination.
+Watch the video → Article May 15, 2026 Mountaineer Journal Rachel Fetty Anderson Pulls Off Election Night Upset in Democratic U.S.
+Senate Primary Coverage of Rachel’s primary victory over Jeff Kessler, including her county-level support and path to the Democratic nomination.
+Read the article → Article May 14, 2026 WAJR Former Morgantown elected official to face Capito in the fall Rachel discusses campaign financing, reproductive rights, data centers, and West Virginia’s economy after winning the Democratic nomination.
 Read the article → Video May 13, 2026 WSAZ Rachel Fetty Anderson on WSAZ+ Rachel appears on WSAZ+ as part of the station’s Decision 2026 election coverage.
 Watch the video → Article May 6, 2026 West Virginia Watch Eclectic group of WV Dems are competing in primary for a chance to flip Capito’s US Senate seat A detailed primary profile examining Rachel’s background, public-interest work, and positions on issues facing West Virginia.
 Read the article → Video April 26, 2026 Jefferson County Young Democrats – WV Democratic Senator Primary Debate 2026 Watch Rachel and other Democratic U.S.

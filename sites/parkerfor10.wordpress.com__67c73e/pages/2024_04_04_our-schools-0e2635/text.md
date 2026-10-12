@@ -15,7 +15,7 @@ Not half as much.
 Distributing funding for buildings per student is no good.
 It should be distributed per building, and weighted by the age of the buildings in question.
 A district that has just built a brand new school does not need a new roof to keep it from collapsing on the kids, or new plumbing so the kids can actually use the bathrooms in their schools.
-We should be more concerned with the health and safety of our school children and less with the optics of “low taxes” Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… → Rights and Responsibilities Leave a Reply Cancel reply Comment Name Email Website Δ Blog at WordPress.com.
+We should be more concerned with the health and safety of our school children and less with the optics of “low taxes” Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… → Rights and Responsibilities Leave a Reply Cancel reply Comment Name Email Website Δ Create a free website or blog at WordPress.com.
 Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
 Log in now.
 Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started

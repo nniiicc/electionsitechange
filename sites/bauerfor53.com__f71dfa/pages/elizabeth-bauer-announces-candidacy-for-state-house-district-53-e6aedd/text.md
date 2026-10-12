@@ -20,4 +20,4 @@ Rep.
 Grasse herself sponsored bills which would have created ‘safe injection sites’ for drug users; would have decriminalized the use of psychedelic mushrooms; would have mandated that insurance companies cover retainers, vitamins, and allergen-preventive baby food supplements; would have given college students academic credit for serving as election judges; would have empowered the state to cap the prices of prescription drugs, and more – not to mention her plans to legalize assisted suicide and give local school districts the ability to control homeschooling families.” Bauer expects to rely on grassroots local support rather than PAC, party, union or corporate donors.
 For more information, please visit bauerfor53.com. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

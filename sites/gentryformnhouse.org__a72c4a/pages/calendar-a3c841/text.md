@@ -1,34 +1,56 @@
-0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 11 Coffee and Convo Sunday, October 11, 2026 10:30 AM 12:30 PM Dunn Brothers Coffee (map) Google Calendar ICS Come join me every other Sunday for coffee and conversation.
-Get to know me and why I'm running for seat 30B.
-Would you like to discuss what matters to you most?
-Bring your questions, concerns, and ideas.
-We will also be collection for Mutual Aid.
-If you have anything you would like to donate, bring that along.
-We can even take things to Open Doors for Youth, Boys and Girls club, or CAER food shelf. *Note: Mobilize description needs to be updated.
-Coffee and Conversation with Keenan Gentry · Mobilize View Event → Oct 11 Door knock in Nowthen Sunday, October 11, 2026 1:00 PM 3:00 PM 19888 Nowthen Boulevard Northwest Anoka, Minnesota, 55303 United States (map) Google Calendar ICS We will be out door knocking in Nowthen early Sunday afternoon.
-Make sure to bring a charged phone, bottle of water and your walking shoes.
-We will make sure you have everything you need to knock doors with us!
-Make sure to sign up so we know you will be joining us.
-Doorknock for Keenan Gentry · Mobilize View Event → Oct 13 SD30 Town Hall Tuesday, October 13, 2026 7:00 PM 8:00 PM Furniture and Things Community Event Center (map) Google Calendar ICS Join us for a DFL Candidate Town Hall in Elk River!
+0 Skip to Content Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Issues Issues Endorsed By Calendar Contact Look At Your District Get Involved Contact Us Donate Open Menu Close Menu Home Voting Resources Folder: Issues Back Issues Endorsed By Calendar Folder: Contact Back Look At Your District Get Involved Contact Us Donate Upcoming Events Oct 13 SD30 Town Hall Tuesday, October 13, 2026 7:00 PM 8:00 PM Furniture and Things Community Event Center (map) Google Calendar ICS Join us for a DFL Candidate Town Hall in Elk River!
 This gathering is an opportunity to participate in the political process and discuss the issues that are important to you.
 This Town Hall will feature special guests - Leah Temple for SD30, and Keenan Gentry for HD30B.
 We'll be meeting in the Flex Space at the Furniture and Things Community Event Center in Elk River, on Tuesday, October 13th from 7:00-8:00pm.
 Don't miss out on this chance to get involved and hear from your candidates directly.
 We look forward to seeing everyone there!
 Prepared and paid for by the MN SD30 DFL, https://sites.google.com/view/mnsd30dfl .
-SD30 DFL Town Hall - Elk River - With Special Guests Leah Temple, and Keenan Gentry · Mobilize View Event → Oct 14 Door knock in Otsego Wednesday, October 14, 2026 5:00 PM 7:00 PM 7650 Quaday Avenue Northeast Otsego, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Wednesday afternoon.
+SD30 DFL Town Hall - Elk River - With Special Guests Leah Temple, and Keenan Gentry · Mobilize View Event → Oct 14 Door knock in Otsego Wednesday, October 14, 2026 5:00 PM 7:00 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Wednesday afternoon.
 Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
-Doorknock for Keenan Gentry · Mobilize View Event → Oct 16 Door knock in Nowthen Friday, October 16, 2026 5:00 PM 7:00 PM 19888 Nowthen Boulevard Northwest Anoka, Minnesota, 55303 United States (map) Google Calendar ICS We will be out door knocking in Nowthen Friday afternoon.
+We will be meeting in the parking lot of the VFW fields.
+Doorknock for Keenan Gentry · Mobilize View Event → Oct 16 Door knock in Elk River Friday, October 16, 2026 5:00 PM 7:00 PM Lions John Weicht Park (map) Google Calendar ICS We will be out door knocking in Elk River Friday afternoon.
 Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
-Doorknock for Keenan Gentry · Mobilize View Event → Oct 18 Door knock in Elk River Sunday, October 18, 2026 1:00 PM 3:00 PM 1104 Lions Park Drive Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Elk River early Sunday afternoon.
+We will be meeting in the parking lot of Lions John Weicht Park Doorknock for Keenan Gentry · Mobilize View Event → Oct 18 Door knock in Nowthen Sunday, October 18, 2026 1:00 PM 3:00 PM Nowthen Memorial Park (map) Google Calendar ICS We will be out door knocking in Nowthen early Sunday afternoon.
 Make sure to bring a charged phone, bottle of water and your walking shoes.
 We will make sure you have everything you need to knock doors with us!
 Make sure to sign up so we know you will be joining us.
+We will be meeting in the parking lot of Nowthen Memorial Park.
+Doorknock for Keenan Gentry · Mobilize View Event → Oct 19 Door knock in Otsego Monday, October 19, 2026 4:30 PM 6:30 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Monday afternoon.
+Make sure to bring a charged phone, bottle of water and your walking shoes.
+We will make sure you have everything you need to knock doors with us!
+Make sure to sign up so we know you will be joining us.
+We will be meeting in the parking lot of the VFW fields.
 Doorknock for Keenan Gentry · Mobilize View Event → Oct 25 Coffee and Convo Sunday, October 25, 2026 10:30 AM 12:30 PM Dunn Brothers Coffee (map) Google Calendar ICS Come join me every other Sunday for coffee and conversation.
+Get to know me and why I'm running for seat 30B.
+Would you like to discuss what matters to you most?
+Bring your questions, concerns, and ideas.
+We will also be collection for Mutual Aid.
+If you have anything you would like to donate, bring that along.
+We can even take things to Open Doors for Youth, Boys and Girls club, or CAER food shelf. *Note: Mobilize description needs to be updated.
+Coffee and Conversation with Keenan Gentry · Mobilize View Event → Oct 25 Door knock in Otsego Sunday, October 25, 2026 1:00 PM 3:00 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Sunday early afternoon.
+Make sure to bring a charged phone, bottle of water and your walking shoes.
+We will make sure you have everything you need to knock doors with us!
+Make sure to sign up so we know you will be joining us.
+We will be meeting in the parking lot of the VFW fields.
+Doorknock for Keenan Gentry · Mobilize View Event → Oct 28 Door knock in Otsego Wednesday, October 28, 2026 4:30 PM 6:30 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Wednesday afternoon.
+Make sure to bring a charged phone, bottle of water and your walking shoes.
+We will make sure you have everything you need to knock doors with us!
+Make sure to sign up so we know you will be joining us.
+We will be meeting in the parking lot of the VFW fields.
+Doorknock for Keenan Gentry · Mobilize View Event → Nov 1 Door knock in Otsego Sunday, November 1, 2026 1:00 PM 3:00 PM 7350 Quaday Avenue Northeast Elk River, Minnesota, 55330 United States (map) Google Calendar ICS We will be out door knocking in Otsego Sunday early afternoon.
+Make sure to bring a charged phone, bottle of water and your walking shoes.
+We will make sure you have everything you need to knock doors with us!
+Make sure to sign up so we know you will be joining us.
+We will be meeting in the parking lot of the VFW fields.
+Doorknock for Keenan Gentry · Mobilize View Event → Oct 11 Door knock in Nowthen Sunday, October 11, 2026 1:00 PM 3:00 PM 19888 Nowthen Boulevard Northwest Anoka, Minnesota, 55303 United States (map) Google Calendar ICS We will be out door knocking in Nowthen early Sunday afternoon.
+Make sure to bring a charged phone, bottle of water and your walking shoes.
+We will make sure you have everything you need to knock doors with us!
+Make sure to sign up so we know you will be joining us.
+Doorknock for Keenan Gentry · Mobilize View Event → Oct 11 Coffee and Convo Sunday, October 11, 2026 10:30 AM 12:30 PM Dunn Brothers Coffee (map) Google Calendar ICS Come join me every other Sunday for coffee and conversation.
 Get to know me and why I'm running for seat 30B.
 Would you like to discuss what matters to you most?
 Bring your questions, concerns, and ideas.
@@ -157,13 +179,7 @@ View Event → Jul 21 Virtual Phonebanking Tuesday, July 21, 2026 6:00 PM 8:00 P
 Michael, Albertville, Elk River, Otsego, Hanover, Nowthen, and Rockford Township) by participating in our weekly North Metro phone bank!
 We'll be connecting with voters across the district every Tuesday night from 6-8pm and asking them what issues matter most to them, along with what they'd like to see out of the elected officials.
 This is a virtual event over Zoom (link will be provided the day of the call), and a brief training is provided!
-SD30 Virtual Tuesday Night Phonebank! · Mobilize View Event → Jul 11 Trivia Night with SD29 & SD30 Saturday, July 11, 2026 5:00 PM 8:00 PM Lewis Game Shop (map) Google Calendar ICS I’ll be joining my fellow candidates from 30 and 29 for a trivia night.
-Join us for an evening of community, conversation, and political trivia.
-We’ll be gathering for an open house and trivia night to connect with old friends, meet new ones, and talk about ways to make a difference this year.
-Food and drink will be provided along with a prize for our winner.
-Mobilize View Event → Jun 29 Back to the Majority Virtual Fundraiser Monday, June 29, 2026 7:00 PM 9:00 PM Virtual (zoom) (map) Google Calendar ICS “Join Back to the Future Star and Southern Minnesotan Lea Thompson for a virtual fundraiser in support of our Rural DFL House Candidates on Monday June 29 at 7pm.
-Zoom link will be provided on the day of the event at the email at which you donated.” ActBlue for virtual event.
-View Event → Newsletter Block This newsletter signup form needs a storage option.
+SD30 Virtual Tuesday Night Phonebank! · Mobilize View Event → Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
 Join Our Mailing List Subscribe for expert tips on navigating public programs, upcoming policy changes, and exclusive early access to new digital tools.
 Email Address Sign Up Thank you!

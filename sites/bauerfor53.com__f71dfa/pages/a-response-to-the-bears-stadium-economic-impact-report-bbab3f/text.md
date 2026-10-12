@@ -29,4 +29,4 @@ If the Bears’ claim is that, absent any special arrangements, the local area w
 In fact, as it stands, the largest part of the projection of County and Local tax revenues is due to the amusement tax.
 It makes far more sense to address with the Bears the question of whether that tax is set at a fair and reasonable level, than to make low-tax guarantees right now. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

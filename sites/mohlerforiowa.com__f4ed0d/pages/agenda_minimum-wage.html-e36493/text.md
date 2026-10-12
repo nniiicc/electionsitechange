@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation workers The agenda RAISE Act Raising And Indexing State Earnings An Act relating to the state minimum wage, including steps in and annual adjustments to the state hourly wage, and including effective date provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: a chart of what it costs, the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: a chart of what it costs, the math, including the tradeoffs, and my draft of the legal text.
 Page one See where it goes The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 If you work full time at Iowa's minimum wage, you make $15,080 a year.
@@ -54,7 +54,7 @@ Point at or tap a bar to see its range.
 Hourly pay.
 The last bar uses Iowa's median wage today.
 The real target each year depends on the wages and prices published that year, and the cap limits how fast the wage target can raise it.
-#ago Set in the bill The yearly formula, on today's numbers The same numbers, side by side #ago Set in the bill The yearly formula, on today's numbers Iowa's minimum wage today $7.25 What that wage bought when it was set, at today's prices $11.52 The pay line one job in ten in southeast Iowa sits at or under $13.49 First step of the bill $10.00 Second step of the bill $11.50 Fifty-five percent of Iowa's median wage today $12.84 The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+#ago Set in the bill The yearly formula, on today's numbers The same numbers, side by side #ago Set in the bill The yearly formula, on today's numbers Iowa's minimum wage today $7.25 What that wage bought when it was set, at today's prices $11.52 The pay line one job in ten in southeast Iowa sits at or under $13.49 First step of the bill $10.00 Second step of the bill $11.50 Fifty-five percent of Iowa's median wage today $12.84 The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 Who gets a raise Very few Iowans are paid exactly $7.25.
 The Bureau of Labor Statistics counted about 6,000 Iowa workers paid by the hour at or below the federal minimum in 2024, out of 858,000 paid by the hour, or 0.7 percent ( BLS ).
@@ -178,48 +178,46 @@ Wapello County's supervisors had voted for a county minimum wage on September 13
 The Ottumwa Courier reported at the time that Ottumwa, Agency, Eldon and Eddyville passed resolutions against it ( Ottumwa Courier ).
 At that meeting, the minutes record a small-business owner telling the supervisors "we're not in Cedar Rapids or Iowa City," and, in the same remarks, "I'm all for a raise in the minimum wage, it's time." The minutes paraphrase speakers, so those are the clerk's words for what he said.
 His point about the cities is fair, and it's part of why this bill sets one statewide floor tied to Iowa's own wages instead of a patchwork.
-Brett would vote to let counties and cities set their own again, in a separate bill.
-The limits of our case What the data does not support We can't say how many Iowans get a raise from this bill.
-No published table counts Iowa workers under $10.00 or $11.50, and we haven't built one.
-We can't say lots of Iowans are paid $7.25 today.
-About 0.7 percent of hourly workers are, and the count is rough.
-We can't promise indexing lasts.
+I would vote to let counties and cities set their own again, in a separate bill.
+Open questions What we don't know yet No published table counts Iowa workers under $10.00 or $11.50, and I haven't built one, so I can't say how many Iowans get a raise from this bill.
+Not many Iowans are paid the minimum.
+In 2024, about 0.7 percent of hourly workers were paid $7.25 or less, and the count is rough.
+I can't promise indexing lasts.
 Missouri voters passed a yearly cost-of-living raise in 2024, and in 2025, the Missouri legislature took it out, so the raises stop at $15.00 ( Missouri law today and before the change ).
 Nebraska voters tied their minimum to prices in 2022, and in 2026, the Nebraska legislature swapped that for a flat 1.75 percent a year ( Nebraska law ).
 South Dakota's index, which voters passed in 2014, with 55 percent of the vote, still stands ( South Dakota Secretary of State , South Dakota law ).
 Iowa has no ballot initiative, so this can only pass through the Legislature, and a later Legislature could undo it the same way.
 "Iowa's own wages" means the federal survey's median for jobs in Iowa.
 That survey leaves out the self-employed and farms, and counts tips as pay ( BLS technical notes ), so it isn't every paycheck in the state.
-We can't put a number on how many Iowa families this lifts out of poverty.
-We found no Iowa estimate.
-The other side's strongest points Where the evidence cuts against us Some economists find job losses.
+We found no Iowa estimate of how many families this lifts out of poverty.
+Who gives something up The tradeoffs Some economists find job losses.
 When the Congressional Budget Office studied raising the federal minimum in steps through 2025, it found that a $10 minimum would have almost no effect on jobs ( CBO ).
 A $12 minimum would leave about 300,000 more people jobless in an average week, with a likely range from about zero to 800,000, and a $15 minimum about 1.3 million.
 CBO also said employment responds more to raises that keep adjusting with wage growth, which is what this bill's wage route does.
 The research is split.
 A study of 138 state increases found the number of low-wage jobs "remained essentially unchanged over five years," with "some evidence of reduced employment in tradable sectors" ( Cengiz, Dube, Lindner and Zipperer ).
 A review of the published research found "a clear preponderance of negative estimates," strongest for teens, young adults and workers with less education ( Neumark and Shirley ).
-What we'd do instead of a faster jump: steps first, a target well under Britain's, a cap on how fast the wage route moves, and an extra year for small employers, with every figure published so lawmakers can see what's happening and change course.
+Instead of a faster jump, I'd do steps first, a target well under Britain's, a cap on how fast the wage route moves, and an extra year for small employers, with every figure published so lawmakers can see what's happening and change course.
 Southern Iowa pays less than the state as a whole.
 The target uses the statewide median, $23.34, and southeast Iowa's is $22.69, so the same floor takes a bigger bite here.
 A Wapello County business owner said as much in 2016.
-What we'd do instead of a separate rural rate: one floor for the whole state, set well under the local median, with the extra year for small businesses.
+Instead of a separate rural rate, I'd set one floor for the whole state, well under the local median, with the extra year for small businesses.
 A regional rate would draw a line through somebody's town, and one employer would pay less than the one across the road.
 The cap makes it slower.
 People who want 55 percent of the median right away won't always get it the first year, if the median has moved by then.
-What we'd do instead of dropping the cap: keep the fixed steps on a known schedule, so workers see real money on January 1, 2028 and January 1, 2029 while the formula catches up.
+Instead of dropping the cap, I'd keep the fixed steps on a known schedule, so workers see real money on January 1, 2028 and January 1, 2029 while the formula catches up.
 Indexing can be undone.
 Missouri and Nebraska show it.
-What we'd do instead of hoping: keep the formula simple, let it never go down, and publish the math every year, so taking it away is a vote people can see.
+Instead of hoping, I'd keep the formula simple, let it never go down, and publish the math every year, so taking it away is a vote people can see.
 The small-business exemption leaves some workers out.
-What we'd do instead of reopening it in this bill: hold it for a separate debate after this passes, so a fight over the smallest shops doesn't sink the raise for everybody else.
+Instead of reopening it in this bill, I'd hold it for a separate debate after this passes, so a fight over the smallest shops doesn't sink the raise for everybody else.
 The new-hire wage could be gamed by cycling through new workers every 90 days.
 The bill stops an employer rehiring the same person within a year to restart the clock.
-What we'd do instead of trusting that: if wage complaints show employers churning new hires, limit the share of hours paid at the new-hire wage.
+Instead of trusting that, if wage complaints show employers churning new hires, I'd limit the share of hours paid at the new-hire wage.
 Nebraska already does this: no more than one-fourth of the hours an employer pays can be at its training wage ( Nebraska law ).
 The public cost is unknown.
 The state, cities, counties, schools and Medicaid providers will pay something, and no one has priced it.
-What we'd do instead of guessing: get the Legislative Services Agency's fiscal note before a floor vote, put the state's own share, for its own workers and the Medicaid rates it sets, in the budget, and fund a fix if the note shows a real cost to small towns.
+Instead of guessing, I'd get the Legislative Services Agency's fiscal note before a floor vote, put the state's own share, for its own workers and the Medicaid rates it sets, in the budget, and fund a fix if the note shows a real cost to small towns.
 The draft text The draft bill language For legislators, reporters and anyone who wants the legal wording.
 This is our draft, written the way Iowa bills are written, so you can see exactly what we mean.
 If I'm elected, the Legislature's nonpartisan drafting office, the Legislative Services Agency, writes the version that gets filed, and the wording will change.

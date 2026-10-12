@@ -51,6 +51,7 @@ Here are a few ideas I have to help make Utah an even better place for all of us
 Each of these issues should be studied by a committee of Utahns who are experts in that area who will provide feedback and suggestions for writing the bill.
 Click Here for Answers on Affordable Housing, Data Centers and Water Use, Balance of Power, Air Pollution, and use of tax dollars.
 Click Here for 14 Important Points that will Create Positive Change in Utah and Our Country.
+Click Here for a quick recap of Utah Issues.
 Check the Events tab for Education Workshops and Civic Virtue Project Information To learn about Julie Smith please click here.
 Julie Smith's Civic Virtue Platform (Click the link above to watch or click here to read.) Forward Party Pledge Just Citizens Pledge How Does a Value Based Party Work Anyway?
 (Click the link above to scroll through. ) For Questions About Current Issues in Utah, Click Here.

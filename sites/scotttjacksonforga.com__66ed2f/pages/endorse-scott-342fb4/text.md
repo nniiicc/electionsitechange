@@ -5,7 +5,7 @@ Your contact information will not be shared.
 We will reach out to confirm your endorsement before publication.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Email Statement Number Name * First Last Email * Phone Number * Title or Organization Endorsement Statement Required * I authorize Scott T.
+Name * First Last Email * Phone Number * Required Title Organization Title or Organization Endorsement Statement Required * I authorize Scott T.
 Jackson for GA to publicly use my name, title, organization and endorsement statement.
 Submit Endorse Scott Leadership.
 Integrity.

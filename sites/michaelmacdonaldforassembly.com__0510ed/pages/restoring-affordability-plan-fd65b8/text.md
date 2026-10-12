@@ -1,4 +1,4 @@
-top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements A Better Quality of Life.
+top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Blog A Better Quality of Life.
 A Stronger Future.
 RESTORING HOUSING AFFORDABILITY Growing up and building his career in Ventura County, Michael has watched too many friends, young families, and working people leave the communities they love — not because they want to, but because they can no longer afford to stay. ​ The reason is straightforward: we have not built enough housing for the people who live and work here.
 When housing is scarce, prices rise.
@@ -134,5 +134,5 @@ We need leadership willing to challenge the status quo, bring new voices to the 
 WHAT ISSUES MATTER MOST TO YOU?
 First name Last name Email Phone Address Yes, subscribe me to your newsletter.
 What issues matter most to you?
-Submit Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Michael MacDonald for Assembly District 38 2674 E.
+Submit Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Blog Michael MacDonald for Assembly District 38 2674 E.
 Main Street, Suite 316 Ventura, CA 93003 info@michaelmacdonaldforassembly.com Paid for by Michael MacDonald for Assembly 2026 | FPPC ID#1488242 bottom of page

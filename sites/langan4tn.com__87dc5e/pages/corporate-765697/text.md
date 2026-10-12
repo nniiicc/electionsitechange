@@ -1,7 +1,7 @@
-0 Skip to Content Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Briggs’ voting record speaks for itself...
+0 Skip to Content Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Briggs’ voting record speaks for itself...
 It’s telling me that he is working for the corporations instead of the people of Tennessee.
 What do you think?
 Wrote the bill that criminalized THCa flower (in favor of the Alcohol Lobby, his largest donor) - *SB1413 by BRIGGS 2025-2026 Voted to cut the Corporate Jet Fuel Tax ( SB 0772 , 2022 ( Article with a breakdown of the bill)), but raised the tax on gas and diesel for Tennesseans.

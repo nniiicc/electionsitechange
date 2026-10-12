@@ -4,7 +4,7 @@ In many rural areas, aging road systems and inconsistent broadband coverage crea
 Residents in District 92 depend on strong infrastructure for commuting, emergency services, business operations, and remote learning.
 Gaps in broadband access affect everything from telehealth appointments to homework completion.
 Improving these systems supports safety, strengthens local economies, and ensures that rural communities are not left behind in an increasingly digital world.
-Issues Support Labor Unions Posted 2 years ago by Teri Mai Republicans have lined up to fight unions in Tennessee.
+Issues Support Labor Unions Posted 3 years ago by Teri Mai Republicans have lined up to fight unions in Tennessee.
 As a matter of fact, Governor Bill Lee recently stated he believes it would be a mistake for workers at the VW plant in Chattanooga to unionize with the United Autoworkers.
 I respectfully and vehemently disagree with the governor.
 According to a December 15, 2021 report by the Economic Policy Institute, “Unions promote economic equality and build worker power, helping workers to win increases in pay, better benefits and safer working conditions.” The positive effects of unions actually spill over to non-unionized workplaces.

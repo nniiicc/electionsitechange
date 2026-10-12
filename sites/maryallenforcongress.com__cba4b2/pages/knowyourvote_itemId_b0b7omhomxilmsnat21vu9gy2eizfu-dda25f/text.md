@@ -58,7 +58,33 @@ After word got out that he would attend the Knox Co Ag breakfast at the Knights 
 At the same time Messmer’s been hiding, Mary has visited all 21 counties in the district multiple times, appearing at public events and taking questions and comments from attendees.
 She believes that in order to represent people, you need to be accessible and know the people.
 She’s running to bring this kind of representation to you.
-Learn more Messmer’s Knox County Ag Meeting Cancelled Impact of the Big “Beautiful” Bill Here’s the true impact of the Not-So Beautiful Bill for households in each county in the 8th district.
+Learn more Messmer’s Knox County Ag Meeting Cancelled He attacks worker protections.
+Mary will fight for them Messmer has a lifetime 0% legislative scorecard for voting for working people: In both the state Senate and the U.S.
+House, he fought to undermine unions.
+He voted to allow employers to drag out negotiations with new unions, keeping wages down in the meantime.
+And he voted against restoring collective bargaining rights to federal workers.
+In November of 2025 and introduced his legislation to repeal OSHA’s Heat Standard – arguing that the rule costs companies too much money.
+Once again choosing corporations over workers and their safety.
+Thousands of workers already suffer from heat-related illnesses annually.
+If the Heat Workforce Standards Act is passed, it would erase any national regulations on worker heat safety.
+Mary supports your right to join a union that fights for better wages and better working conditions.
+She believes that good government ensures baseline worker protections!
+Learn More https://www.govtrack.us/congress/bills/119/hr6213 AFL-CIO statement on Heat Workforce Standards Ac t Messmer AFL-CIO Legislative Scorecard He’s for crypto.
+Mary’s for guardrails that protect the public from crypto scams.
+In the 2024 primary, a crypto PAC (Defend American Jobs) spent $500,000 to elect Messmer.
+Once elected, Messmer opposed HR 3633, a bill that would require oversight of the crypto industry.
+As part of the Evansville City Council, Mary initiated and sponsored an ordinance to regulate crypto currency kiosks to prevent residents being scammed out of tens of thousands of dollars.
+That legislation helped pave the way for an Indiana state law that bans crypto kiosks statewide.
+Mary doesn’t take money from corporations (crypto or otherwise) and she won’t be influenced by them.
+She’ll be an independent voice for the people of the 8th district.
+Learn More Did crypto get unlikely help becoming a campaign kingmaker? | Semafo FEC 2024 AN ORDINANCE OF THE COMMON COUNCIL OF THE CITY OF EVANSVILLE, INDIANA, CREATING CHAPTER 8.45 (VIRTUAL CURRENCY KIOSKS) He’s refused to protect Social Security and Medicare.
+Mary’s for seniors.
+Messmer voted for $490 billion in medicare cuts as part of the “Big Beautiful Bill.” These cuts will particularly harm low-income enrollees and people with disabilities.
+The bill puts thousands of struggling rural hospitals at risk of closure because of federal funding cuts.
+Messmer has received an F rating for failing to support legislation to expand Medicare and protect Social Security.
+Messmer has remained silent on bipartisan legislation to establish a commission to protect Social Security from becoming fully depleted.
+Messmer has taken thousands of dollars in campaign donations from big insurance and big pharma.
+Learn More CAP Analysis on BBB Medicare cuts Messmer rank on healthcare Fact Sheet on Bipartisan Social Security Commission Act Impact of the Big “Beautiful” Bill Here’s the true impact of the Not-So Beautiful Bill for households in each county in the 8th district.
 The following graphics show the effect on households with the highest incomes, lowest incomes, and those in the middle.
 Why such an unfair difference?
 It’s the net effect of the bill’s devastating cuts to Medicaid, SNAP, and the Children’s Health Insurance Program (CHIP), which hits people with lower incomes the hardest.

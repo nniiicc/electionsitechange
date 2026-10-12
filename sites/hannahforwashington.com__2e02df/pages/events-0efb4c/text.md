@@ -1,7 +1,6 @@
 Skip to main content Skip to footer Don't wait!
 Register to vote today 🔗↗ Issues About Me Endorsements Endorsements Open Letter Events Press In The Media Press Releases Issues About Me Endorsements Endorsements Open Letter Events Press In The Media Press Releases Donate Upcoming Events 10/18 Team Hannah's MASSIVE Drag Fundraiser!
-Sunday, October 18, 2026 5:00 PM Massive Nightclub, 619 E Pine St, Seattle, WA 98122 RSVP Sunday 10/11 Capitol Hill Farmers Market street canvassing October 11, 2026 11:00 am Cal Anderson Park (NE Corner - 11th & Denny), 1635 11th Ave, Seattle, WA, 98122, US RSVP Sunday 10/11 Virtual Phonebank for Hannah!
-October 11, 2026 4:00 pm US RSVP Tuesday 10/13 Virtual Phonebank for Hannah!
+Sunday, October 18, 2026 5:00 PM Massive Nightclub, 619 E Pine St, Seattle, WA 98122 RSVP Tuesday 10/13 Virtual Phonebank for Hannah!
 October 13, 2026 5:00 pm US RSVP Wednesday 10/14 Virtual Phonebank for Hannah!
 October 14, 2026 6:00 pm US RSVP Thursday 10/15 Doorknocking - Denny Blaine!
 October 15, 2026 5:00 pm Harrison Ridge Greenbelt, 138 32nd Ave E, Seattle, WA, 98112, US RSVP 10/16 Neighborhood Vision Workshop - Madison Valley October 16, 2026 2:00 pm Visible Coffee Roasters, 2739 E Madison St, Seattle, WA, 98112, US RSVP Sunday 10/18 Capitol Hill Farmers Market street canvassing October 18, 2026 11:00 am Cal Anderson Park (NE Corner - 11th & Denny), 1635 11th Ave, Seattle, WA, 98122, US RSVP Sunday 10/25 Virtual Phonebank for Hannah!

@@ -11,4 +11,11 @@ I would make choices that benefit the average person in NH — not large compani
 Our representatives also voted to kill a program that was helping to address the affordable housing shortage here in NH.
 The Housing Champions program is a successful, cost-effective program that directly addresses an issue that's so important to the people of Goffstown and Weare.
 Yet, our state representatives voted to kill it.
+I would support smart, effective programs like this.
+I also propose an expansion to the Low and Moderate Income Homeowners Property Tax Relief Program.
+The program currently offers very little relief.
+I would raise the income limits and the cap on home value to make the program available to more people.
+I would fund the expansion of the program by repealing the latest business tax cut.
+That would provide approximately $20 million in funds to be used for property tax relief.
+I will gladly work with my fellow legislators – Republican or Democrat – to help the citizens of Weare and Goffstown with legislation like this.
 Contact us: Conroy4NH@gmail.com Powered by RUN! website builder Paid for by Conroy4NH, PO Box 281, Weare, NH 03281 Chris Conroy, Treasurer You need to enable JavaScript to run this app.

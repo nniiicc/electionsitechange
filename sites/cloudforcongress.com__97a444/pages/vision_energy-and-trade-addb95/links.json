@@ -36,16 +36,12 @@
 "href": "https://secure.anedot.com/cloudforcongress/cloudwebdonate"
 },
 {
-"text": "Economy and Jobs",
-"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
-},
-{
-"text": "Education",
-"href": "https://www.cloudforcongress.com/vision/education/"
-},
-{
 "text": "Election Info",
 "href": "https://www.cloudforcongress.com/election-info-2026/"
+},
+{
+"text": "Family Values",
+"href": "https://www.cloudforcongress.com/vision/family-values/"
 },
 {
 "text": "Home",
@@ -61,15 +57,15 @@
 },
 {
 "text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
-},
-{
-"text": "Read More »",
-"href": "https://www.cloudforcongress.com/vision/education/"
+"href": "https://www.cloudforcongress.com/vision/family-values/"
 },
 {
 "text": "Read More »",
 "href": "https://www.cloudforcongress.com/vision/standing-with-israel/"
+},
+{
+"text": "Read More »",
+"href": "https://www.cloudforcongress.com/vision/veterans/"
 },
 {
 "text": "Shale Magazine",
@@ -78,6 +74,10 @@
 {
 "text": "Standing with Israel",
 "href": "https://www.cloudforcongress.com/vision/standing-with-israel/"
+},
+{
+"text": "Veterans",
+"href": "https://www.cloudforcongress.com/vision/veterans/"
 },
 {
 "text": "VeteransNext",
@@ -97,15 +97,15 @@
 },
 {
 "text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
-},
-{
-"text": "[image]",
-"href": "https://www.cloudforcongress.com/vision/education/"
+"href": "https://www.cloudforcongress.com/vision/family-values/"
 },
 {
 "text": "[image]",
 "href": "https://www.cloudforcongress.com/vision/standing-with-israel/"
+},
+{
+"text": "[image]",
+"href": "https://www.cloudforcongress.com/vision/veterans/"
 },
 {
 "text": "[no text]",

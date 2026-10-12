@@ -1,5 +1,9 @@
-Skip to content About Tighe Donate Contact Our Party About Tighe Donate Contact Our Party Born and Raised in Nevada Tighe Galvin is a first-generation American, born in Las Vegas to Irish parents who came to the United States in search of a better life.
-Tighe grew up in Henderson and eventually attended the University of Nevada, Las Vegas, originally pursuing a degree in history.
+Skip to content About Tighe Donate Contact Our Party About Tighe Donate Contact Our Party Tighe Galvin is a CCSD special education teacher, union member, and lifelong Nevadan running for Assembly District 21 as a Libertarian.
+His campaign challenges the two-party establishment and taxpayer-funded corporate subsidies, from Allegiant Stadium and Formula 1 to the A's stadium deal.
+As a classroom teacher, he brings firsthand experience with the challenges facing Nevada's public schools, educators, students, and working families.
+For years, Nevada voters have been told they only have two choices: Democrat or Republican.
+Meanwhile, Nevadans continue to face rising costs, struggling schools, and decisions made far removed from the communities they affect.
+Raised in Nevada Born a first-generation American in Las Vegas to Irish parents who came to the United States in search of a better life, Tighe grew up in Henderson and eventually attended the University of Nevada, Las Vegas, originally pursuing a degree in history.
 He was active in the Tau Kappa Epsilon fraternity and was the Chief of Operations of RebelSat UNLV, the first satellite initiative in Nevada aimed at building CubeSats for space-based research.
 Passionate about learning, Tighe now serves as a special education teacher at the same Title I elementary school he once attended as a student.
 Every day, he works with families striving to build better futures for their children—just as his own family did—and has seen firsthand how policy decisions made in Carson City directly affect classrooms, neighborhoods, and Nevada’s children.

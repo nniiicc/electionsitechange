@@ -11,8 +11,7 @@ Piwowarczyk, who lives in the Town of Erin, is the co-founder of conservative ne
 He was a police officer for almost 20 years.
 For more information, see jimforwi.com.
 Paid for by Jim for Wisconsin.
-Post navigation Previous post: Prev DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE July 31, 2024 Next post: Next WISCONSIN FRATERNAL ORDER OF POLICE ENDORSES JIM PIWOWARCZYK IN THE 98TH ASSEMBLY RACE October 3, 2024 You May Also Like Posted April 11, 2024 in ticker , Endorsements , News Rep.
-Bob Donovan Endorses Jim Piwowarczyk for Assembly Posted March 14, 2024 in Endorsements , News , ticker Washington County Treasurer, Former Hartford Mayor Scott Henke Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Post navigation Previous post: Prev DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE July 31, 2024 Next post: Next WISCONSIN FRATERNAL ORDER OF POLICE ENDORSES JIM PIWOWARCZYK IN THE 98TH ASSEMBLY RACE October 3, 2024 You May Also Like Posted May 16, 2024 in Endorsements , News , ticker Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly Posted June 27, 2024 in Endorsements , News , Political Issues , ticker Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
 Interest?
 Donate?
 Help Door Knock?

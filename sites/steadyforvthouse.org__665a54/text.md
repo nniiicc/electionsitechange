@@ -1,9 +1,9 @@
-Search this site Embedded Files Skip to main content Skip to navigation SteadyForVTHouse.org Home Endorsements Legislature Key Issues Donate About Community Contact Highlights SteadyForVTHouse.org Home Endorsements Legislature Key Issues Donate About Community Contact Highlights More Home Endorsements Legislature Key Issues Donate About Community Contact Highlights Brenda Steady Vermont House Chittenden-25 I'm Running for Re-Election in 2026 Brenda earned the endorsement of Governor Phil Scott.
-"Brenda Steady has been a voice for affordability in the Legislature and a vote against the 7% property tax increase the majority tried to pass on to Vermonters who are already struggling from years of unsustainable property tax increases.
-I'm proud to endorse her for reelection." -- Governor Phil Scott Click here to learn more about Brenda’s endorsements The Westford Mee t & Greet on Sunday, September 13th was a great afternoon at the Red Brick Meeting House !
-Brenda was there, running for re-election as State Representative, along with Representative Ashley Bartley, running for the State Senate, and Lieutenant Governor John Rodgers as the special guest, who is also running for re‑election.
+Search this site Embedded Files Skip to main content Skip to navigation SteadyForVTHouse.org Home Endorsements Legislature Key Issues Donate About Community Contact Highlights SteadyForVTHouse.org Home Endorsements Legislature Key Issues Donate About Community Contact Highlights More Home Endorsements Legislature Key Issues Donate About Community Contact Highlights Brenda Steady Vermont House Chittenden-25 I'm Running for Re-Election in 2026 Meeting People, Hearing Concerns On October 10, 2026, Brenda joined fellow Vermonters at the State House to support rural communities and Vermont farms.
+The carousel below highlights Brenda meeting with Vermonters, hearing their concerns, and continuing her commitment to the people she serves.
 Snapshots from recent gatherings.
-Welcome, neighbors.
+Brenda earned the endorsement of Governor Phil Scott.
+"Brenda Steady has been a voice for affordability in the Legislature and a vote against the 7% property tax increase the majority tried to pass on to Vermonters who are already struggling from years of unsustainable property tax increases.
+I'm proud to endorse her for reelection." -- Governor Phil Scott Click here to learn more about Brenda’s endorsements Welcome, neighbors.
 I’m honored to serve our district—and all Vermonters—in Montpelier.
 Below is my announcement regarding the 2026 election.
 I’m proud to announce my candidacy to continue representing East Milton and Westford in the Vermont House.

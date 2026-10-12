@@ -50,4 +50,4 @@ They do not deserve a pass.
 Each legislator has a duty to govern responsibly and ethically, and that includes standing up to party leaders rather than meekly voting as they are told.
 The toll hike is one example, and there are countless more. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

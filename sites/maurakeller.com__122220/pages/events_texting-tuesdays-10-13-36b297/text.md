@@ -3,6 +3,7 @@ Volunteer with us today.
 Come text-bank with the Maura Keller for Congress campaign!
 Our volunteers are in full swing reaching voters all across District 3 and need your help.
 We’ll be hosting text-bank parties every Tuesday evening at the Fayette County Democrats Headquarters on Kathi Avenue.
-Join us in Fayetteville for Texting Time: 5:30 PM - 7:30 PM Posted In: Political Action , Volunteer , Fayette Tagged: Volunteer , Text Bank Previous Previous October 11 Canvass with the Maura Keller for Congress Campaign | Fayette County Next Next October 25 Canvass with the Maura Keller for Congress Campaign | Fayette County Maura Keller is a retired Lieutenant Colonel with the United States Army.
+Join us in Fayetteville for Texting Time: 5:30 PM - 7:30 PM Posted In: Political Action , Volunteer , Fayette Tagged: Volunteer , Text Bank Previous Previous October 13 Start of 2026 Early Voting!
+Next Next October 19 Newnan-Coweta Chamber of Commerce Candidate Forum Maura Keller is a retired Lieutenant Colonel with the United States Army.
 Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
 Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

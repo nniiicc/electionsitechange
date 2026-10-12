@@ -1,7 +1,7 @@
-Running for YOU About Issues Events Endorsements Get Involved Endorse Donate T Running for YOU About Issues Events Endorsements Get Involved Endorse Tawn Donate Now T VOTE TAWN Tawn Shawnelle Beliger Republican for Michigan State Senate District 14 Former Northfield Township trustee.
+Running for YOU About Issues Events Vote Endorsements Get Involved Endorse Donate T Running for YOU About Issues Events Vote Endorsements Get Involved Endorse Tawn Donate Now T VOTE TAWN Tawn Shawnelle Beliger Republican for Michigan State Senate District 14 Former Northfield Township trustee.
 Lifelong Michigander.
 Common-sense conservative leadership for Washtenaw and Jackson Counties.
-JOIN THE CAMPAIGN Running for YOU | 127.8 miles — now every city, township, and village in District 14 See the route Meet Tawn Beliger Tawn Beliger is a lifelong Michigander, proud Republican, and community leader from Northfield Township.
+JOIN THE CAMPAIGN Running for YOU | 137.8 miles — now every city, township, and village in District 14 See the route Meet Tawn Beliger Tawn Beliger is a lifelong Michigander, proud Republican, and community leader from Northfield Township.
 She and her husband Gerry have been married 36 years, and have made Northfield Township their home since 2015.
 She previously served as Northfield Township Trustee from 2016 to 2020.
 Tawn currently serves as Vice-Chair of the Washtenaw County Republican Committee (elected by precinct delegates), sits on the Executive Committee of the 6th Congressional District Republican Committee, and was a delegate to the 2024 Republican National Convention.
@@ -18,7 +18,7 @@ On the route Leg 4 · Public Safety & Crime → Veterans Honor those who served.
 Keep the promises made to the men and women who wore the uniform.
 How she’ll do it She will fight for veterans’ care, opportunity, and respect — and cut the red tape that stands between them and what they were promised.
 On the route Leg 9 · Support Veterans → Freedom Township · Because of People Like You → Family Values Pro-Life • Protect Parental Rights • Faith and Religious Liberty • Fairness for Women and Girls • Defend the Second Amendment How she’ll do it She will protect unborn life and the mothers who choose it, keep parents in charge of their children, defend the right to live out our faith, stand for fairness for women and girls in sports and spaces, and stand with law-abiding gun owners.
-On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Napoleon · Patriotism and love of country → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Education Excellence Empower parents, expand school choice, and demand accountability.
+On the route Leg 8 · Pro-Life Values → Webster Township · Protecting the Unborn → Leg 10 · Faith, Family, and Freedom → Norvell & Columbia · Faith in God first → Napoleon · Patriotism and love of country → Leg 3 · Parental Rights in Education → Leg 7 · Second Amendment → Education Excellence Empower parents, expand school choice, and demand accountability.
 How she’ll do it She will put parents — not bureaucrats — at the center of education, expand school choice, and demand honesty and accountability in the classroom.
 On the route Leg 3 · Parental Rights in Education → Sandstone Township · Taxes and the schools → Napoleon · Wing Classical Academy → Health Freedom Medical freedom, informed consent, and parental rights in care — not mandate-first government.
 How she’ll do it She will defend informed consent and medical freedom, keep parents in charge of their children’s care, and reject one-size-fits-all health mandates from Lansing.
@@ -33,18 +33,23 @@ How she’ll do it She will push to return those decisions to cities and townshi
 On the route Leg 11 · Rural Strength & Local Control → Henrietta · Taxes & Local Control → Read the full platform on Leg 15 or see the whole route .
 Upcoming Events Come meet Tawn and show your support!
 ONGOING Tawn Running for YOU Tawn is running in every city, township, and village in Senate District 14.
-Latest: Napoleon Township, 3 miles on a warm fall day.
-People noticed the flag.
-That evening, a fundraiser for Wing Classical Academy.
-Napoleon Township run → See the route → WEDNESDAY, October 7th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
-Meet at Jackson GOP Headquarters 209 E.
-Washington Ave, Suite 320 Jackson, MI 49201 THURSDAY, October 8th Washtenaw GOP Monthly Meeting 6:00 PM Pizza & Politics 7:00 PM – 9:00 PM Meeting Monthly Pizza Plus & Politics, then the general meeting.
-Tawn serves as Vice Chair.
-Washtenaw GOP Headquarters 3025 Boardwalk Dr, Suite 90 Ann Arbor, MI 48108 Washtenaw GOP → TUESDAY, October 13th Turning Point Action Super Chase — Washtenaw 11:00 AM Ballot-chasing rally and voter outreach with Heather Smiley and Tawn Beliger.
+Latest: Norvell and Columbia Townships, 10 miles on October 10.
+3.75 in Norvell, 6.25 in Columbia.
+Faith in God first.
+Norvell & Columbia run → See the route → SUNDAY, October 11th Fill A Row Friends & Family Sunday 10:30 AM Calvary Baptist Church.
+Barbecue dinner provided, cider and doughnuts, bounce houses and a playground for the kids.
+All are welcome.
+7527 Whitmore Lake Rd TUESDAY, October 13th Turning Point Action Super Chase — Washtenaw 11:00 AM Ballot-chasing rally and voter outreach with Heather Smiley and Tawn Beliger.
 Washtenaw GOP Headquarters 3025 Boardwalk Dr, Suite 90 Ann Arbor, MI 48108 RSVP → TUESDAY, October 13th Tawn Beliger Meet & Greet 6:00 PM – 8:00 PM Come meet Tawn, ask a question, and bring a neighbor.
 Dexter’s Pub 8114 Main St Dexter, MI 48130 FRIDAY, October 16th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
 Meet at Jackson GOP Headquarters 209 E.
-Washington Ave, Suite 320 Jackson, MI 49201 FRIDAY, October 23rd Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
+Washington Ave, Suite 320 Jackson, MI 49201 WEDNESDAY, October 21st Trunk or Treat St.
+Louis Center 5:00 PM – 7:00 PM Decorated trunks, a haunted house, and a community dinner.
+Free and open to all ages.
+Come meet the St.
+Louis Center residents and staff.
+St.
+Louis Center 16195 W Old US Hwy 12 Chelsea, MI 48118 Event details → FRIDAY, October 23rd Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
 Meet at Jackson GOP Headquarters 209 E.
 Washington Ave, Suite 320 Jackson, MI 49201 THURSDAY, October 29th Door Knocking with Tawn 11:00 AM Jackson County GOP Call to Action walk for Tawn Beliger, Senate District 14.
 Meet at Jackson GOP Headquarters 209 E.
@@ -140,5 +145,6 @@ I endorse her with no questions in my mind that she would represent us at the hi
 I support Tawn 100%!
 Joseph M Lenard Author, former IT guy, Podcaster, ProLife Activist*, Songwriter I ENDORSE Tawn Brandon Bradley Proud Girl Dad I am so proud to vote for you in November.
 As a father of a daughter, I will be so proud to talk to her about how strong and dedicated you have been and will be.
-Get Involved Help elect Tawn Beliger to the Michigan State Senate and restore common-sense leadership in Lansing.
+Voter Information Check your registration, find your polling place, and make a plan to vote November 3.
+MICHIGAN Voter Information Center Check your registration, see your polling place, view a sample ballot, and track an absentee ballot. mvic.sos.state.mi.us → MICHIGAN Secretary of State — Elections Official election dates, absentee voting rules, early voting, and how Michigan runs the election. michigan.gov/sos/elections → MICHIGAN GOP Michigan Republican Party The state party site — candidates, events, and how to get involved with Michigan Republicans. mi.gop → Get Involved Help elect Tawn Beliger to the Michigan State Senate and restore common-sense leadership in Lansing.
 Volunteer Sign Up for Updates Vote Tawn Tawn Beliger — Republican for Michigan State Senate District 14 Volunteer Donate PAID FOR BY: TAWN BELIGER CTE, 8365 EARHART RD, SOUTH LYON, MI 48178 © # Vote Tawn

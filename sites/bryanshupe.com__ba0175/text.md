@@ -1,7 +1,7 @@
 36 th District Home About Priorities News Voting Get Involved Donate It's Time to Take Delaware Back Lower Costs.
 Local Control.
 Real Accountability.
-Stand With Us Join the Movement Get a Yard Sign Fuel the Fight Donate General Election Day · Tuesday, November 3, 2026 22 Days 20 Hours 22 Minutes 27 Seconds Polls open 7am – 8pm on November 3 Father.
+Stand With Us Join the Movement Get a Yard Sign Fuel the Fight Donate General Election Day · Tuesday, November 3, 2026 21 Days 20 Hours 20 Minutes 43 Seconds Polls open 7am – 8pm on November 3 Father.
 Husband.
 Christian.
 Small Business Owner 15+ Years Creating Jobs in Milford Fighting for Delaware Families A Real Neighbor He's one of us.
@@ -25,29 +25,29 @@ That's why I'm fighting to take Delaware back.
 Community Updates Follow Bryan in the Community Follow Bryan's latest conversations, local updates, and community posts on Facebook and Mr.
 302.
 Follow Bryan Mr.
-302 BryanShupeDE BryanShupeDE #ago Delaware Tech Changes Policy: No In-State Tuition or Residency-Based Financial Aid for Undocumented Immigrants We recent...
+302 BryanShupeDE BryanShupeDE #ago Thank you CoastLife TV for visiting our small business the Farmacy Market!🥕🌱 How local is “local”?
+At Farmacy Market,...
+Thank you CoastLife TV for visiting our small business the Farmacy Market! 🥕🌱 How local is “local”?
+At Farmacy Market, more than 60% of what you’ll find comes from within 100 miles!
+We’re heading inside Farmacy Market in Milford to meet co-owners Patrick Helmick and Sherry Shup View Post BryanShupeDE · Today SB 23: Deceptive language, hidden consequences First, “harm reduction.” Then, “charity care.” Now, “Housing for Every De...
+SB 23: Deceptive language, hidden consequences First, “harm reduction.” Then, “charity care.” Now, “Housing for Every Delawarean.” The majority party keeps using language that sounds compassionate while leaving the consequences out of the headline.
+Who would disagree that every D BryanShupeDE · Today You work overtime.
+Dover spends overtime.
+It’s time to change that.
+Delaware families deserve to keep more of their payc...
+You work overtime.
+Dover spends overtime.
+It’s time to change that.
+Delaware families deserve to keep more of their paychecks—and a state government that spends responsibly.
+Here’s what I’m fighting for: Tax relief for extra work — HB 126 I sponsored legislation to eliminate Dela BryanShupeDE · Yesterday Delaware Tech Changes Policy: No In-State Tuition or Residency-Based Financial Aid for Undocumented Immigrants We recent...
 Delaware Tech Changes Policy: No In-State Tuition or Residency-Based Financial Aid for Undocumented Immigrants We recently discussed the U.S.
-Department of Justice suing the University of Delaware over its policy offering in-state tuition to qualifying undocumented students while View Post BryanShupeDE · Yesterday Higher Gas Taxes.
-More DMV Fees.
-How Much More Can Delaware Drivers Afford?
-According to the Cape Gazette, the Delaware...
-Higher Gas Taxes.
-More DMV Fees.
-How Much More Can Delaware Drivers Afford?
-According to the Cape Gazette, the Delaware Task Force on Sustainable Transportation Funding has recommended the state’s first fuel tax increase in 30 years.
-The proposals include: • Higher gasoline and d BryanShupeDE · Yesterday Andrew Sivels and Cheyenne Johnson have been named Milford High School Homecoming King and Queen.Andrew Sivels and Cheye...
-Andrew Sivels and Cheyenne Johnson have been named Milford High School Homecoming King and Queen.
-Andrew Sivels and Cheyenne Johnson have been named Milford High School Homecoming King and Queen.
-Watch for our story on the game!
-BryanShupeDE · Yesterday Gene Dvornick - The 20th District Deserves a Local Voice in Dover Gene Dvornick is running for State Representative in t...
-Gene Dvornick - The 20th District Deserves a Local Voice in Dover Gene Dvornick is running for State Representative in the 20th District, just south of ours, and is an example of the type of public servant we need in Dover.
-As Chief of the Milton Fire Company and Georgetown’s to Join the Conversation Thousands of Delawareans follow Bryan & Mr.
+Department of Justice suing the University of Delaware over its policy offering in-state tuition to qualifying undocumented students while Join the Conversation Thousands of Delawareans follow Bryan & Mr.
 302 Follow on Facebook Share Mr.
 302 Take Action Three Ways to Help Win This Fight Volunteer Stand With Us / Join the Movement Volunteer and help us make a difference in Delaware.
 Get Involved Spread the Word Let Your Neighbors Know Get a yard sign and help spread the word.
 Get a Yard Sign Fuel the Fight Donate Today Your donation helps us reach more voters and win this critical fight.
 Donate Today Track Record What I've Done Voted against higher taxes, fees, and mandates Exposed government overspending (37% vs 20%) Stood up to developers shifting costs to taxpayers Delivered real results for Milford families See Full Legislative Record Together, We Will Save Delaware.
-Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 22 Days 20 Hours 22 Minutes 27 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
+Lower Costs · Local Control · Real Accountability General Election Day · Tuesday, November 3, 2026 21 Days 20 Hours 20 Minutes 43 Seconds Polls open 7am – 8pm on November 3 Stand With Us Today Donate 36 th District For State Representative · 36th District Father.
 Husband.
 Christian.
 Small business owner fighting for Delaware families — for lower costs, local control, and real accountability.

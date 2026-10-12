@@ -2,7 +2,7 @@ Home About Larry On the Issues Contribute 32-Point Political Vision Legislative 
 Request a Yard Sign Click Here to Request a Sign Need Voting Information?
 Find Your Polling Location Click Here for Information I am Larry Thompson .
 I am running for United States Congress in California's 32nd District.
-I am a Christian first.
+I am a Catholic first.
 A Conservative second.
 A Centrist, Independent-Minded Republican third.
 I am a member of Stand With Crypto.

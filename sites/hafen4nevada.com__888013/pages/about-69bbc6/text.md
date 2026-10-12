@@ -13,4 +13,4 @@ Gregory has served Assembly District 36 for three terms.
 During the 80th Session of the Nevada Legislation, Assemblyman Gregory Hafen II served on the Assembly Committees on Government Affairs, Health and Human Services, and Taxation.
 During the 81st Session of the Nevada Legislation, Assemblyman Hafen served on the Assembly Committees on Ways and Means, Health and Human Services, and Revenue.
 Donate Today Paid for by Friends of Gregory T.
-Hafen Contact Gregory@hafen4nevada.com 775-209-3006
+Hafen Terms & Conditions and Privacy Policy Contact Gregory@hafen4nevada.com 775-209-3006

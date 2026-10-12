@@ -1,4 +1,4 @@
-Distraction ★ through ★ Division Click here to read the series → You need to enable JavaScript to run this app.
+You need to enable JavaScript to run this app.
 Fundraiser Reception Thursday, September 17 · 5:30 PM - 8:30 PM View Fundraiser Reception VIRGINIA MCINTYRE For Congress • Monroe & Ontario County Meet Virginia Priorities The Plan Volunteer Donate Virginia McIntyre County Legislator • Educator • Advocate Monroe and Ontario County Practical Leadership Results Over Rhetoric A Congresswoman who works like you do.
 Virginia McIntyre, Monroe County Legislator—fighting for safer communities, stronger schools, and an economy that rewards hard work.
 Let’s deliver for Monroe and Ontario County—together.

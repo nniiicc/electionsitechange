@@ -13,7 +13,7 @@ Why We Need Education Reform Strategies That Work The current system is outdated
 It struggles to meet the needs of diverse learners.
 Many students fall behind.
 Teachers are stretched thin.
-Communities feel t #ago 3 min read CruzNYC Community Efforts: Building Stronger Communities Together When I think about what truly makes a neighborhood thrive, I don’t just see buildings or streets.
+Communities feel t Oct 5 3 min read CruzNYC Community Efforts: Building Stronger Communities Together When I think about what truly makes a neighborhood thrive, I don’t just see buildings or streets.
 I see people.
 I see connections.
 I see a community that stands together, fights for fairness, and builds a future where everyone belongs.

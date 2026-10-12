@@ -15,13 +15,13 @@ Stock Trading FACT: Rebecca and her husband have already divested from individua
 Rebecca Bennett owns no individual stocks, because Americans shouldn’t have to wonder if their representative is looking out for them or their own stock portfolio.
 Her husband also divested his individual stocks as well.
 Meanwhile, Tom Kean Jr. is one of the most prolific stock traders in Congress and has traded over $3M in stock.
-Accessibility Rebecca Bennett is meeting voters where they are, appearing at over 150 events since launching her campaign and sitting down for interviews with local outlets like NJ Spotlight News and News 12 and national outlets like CNN and MS NOW.
 Net Worth FACT : Rebecca’s personal financial disclosure is publicly available.
 Rebecca’s life is the story of the American dream.
 She went to college on an ROTC scholarship, used the GI bill for grad school, and bought a house with a VA loan.
 Now, Rebecca’s running to make sure this dream is in reach for the next generation.
 Rebecca’s personal financial disclosure is public.
-Meanwhile, Tom Kean, Jr.’s public disclosure shows that he has traded more than $3 million in stocks since first taking office. and MS NOW.
+Meanwhile, Tom Kean, Jr.’s public disclosure shows that he has traded more than $3 million in stocks since first taking office.
+Accessibility Rebecca Bennett is meeting voters where they are, appearing at over 150 events since launching her campaign and sitting down for interviews with local outlets like NJ Spotlight News and News 12 and national outlets like CNN and MS NOW.
 JOin Our Team Let's Win This Race – Together: Email Cell Phone Zipcode Sign Up By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Rebecca Bennett (messages include donation links).
 Message & data rates may apply.
 Message frequency varies.

@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation water and ag The agenda STREAM Act Stewardship That Rewards Every Acre Managed An Act relating to water quality, including a nutrient management acreage tax credit, conservation equipment loans, conservation conditions on state conservation assistance, wetlands, water quality monitoring, and the siting of confinement feeding operations, making appropriations, and including effective date and applicability provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including the tradeoffs, and my draft of the legal text.
 Page one See where it goes The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 Protecting our water starts by ensuring conservation makes financial sense for family farms.
@@ -55,7 +55,7 @@ The credit also starts reaching the budget in the second budget year.
 The loan stream and the credit stream never land in the same year.
 Don't add them together.
 The credit is a range because nobody knows how many acres will enroll.
-Already in the budget New each year One time only The same numbers, side by side Already in the budget New each year One time only #ago Cost-share and district support State of Iowa → to Soil and water conservation, including cost-share $8,325,000 Wetlands State of Iowa → to Wetlands built under CREP $1 million Monitoring, continuous only if DNR chooses State of Iowa → to Monitoring grants at DNR's discretion $300,000 Under this bill Cost-share, unchanged State of Iowa → to Soil and water conservation, including cost-share $8,325,000 Wetlands, unchanged State of Iowa → to Wetlands built under CREP $1 million Monitoring grants, unchanged State of Iowa → to Monitoring grants at DNR's discretion $300,000 Depends on how many acres sign up State of Iowa → to Per-acre credit to farmers with a nutrient plan $6.4 million to $42.3 million New wetlands money each year State of Iowa → to Water quality wetlands $10 million Set aside for continuous sensors State of Iowa → to University water sensors $600,000 Paid once in the first budget year, then repaid into the fund State of Iowa → to Zero-interest equipment loans $20 million The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+Already in the budget New each year One time only The same numbers, side by side Already in the budget New each year One time only #ago Cost-share and district support State of Iowa → to Soil and water conservation, including cost-share $8,325,000 Wetlands State of Iowa → to Wetlands built under CREP $1 million Monitoring, continuous only if DNR chooses State of Iowa → to Monitoring grants at DNR's discretion $300,000 Under this bill Cost-share, unchanged State of Iowa → to Soil and water conservation, including cost-share $8,325,000 Wetlands, unchanged State of Iowa → to Wetlands built under CREP $1 million Monitoring grants, unchanged State of Iowa → to Monitoring grants at DNR's discretion $300,000 Depends on how many acres sign up State of Iowa → to Per-acre credit to farmers with a nutrient plan $6.4 million to $42.3 million New wetlands money each year State of Iowa → to Water quality wetlands $10 million Set aside for continuous sensors State of Iowa → to University water sensors $600,000 Paid once in the first budget year, then repaid into the fund State of Iowa → to Zero-interest equipment loans $20 million The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 The math What it costs and who pays Already in the budget Cost-share, unchanged $8,325,000 Wetlands, unchanged $1 million Monitoring grants, unchanged $300,000 New each year Depends on how many acres sign up $6.4 million to $42.3 million New wetlands money each year $10 million Set aside for continuous sensors $600,000 One time only Paid once in the first budget year, then repaid into the fund $20 million Under this bill, stream by stream.
 Each bar starts at zero, and they all share one scale.
@@ -96,19 +96,19 @@ The credit range is the credit times each of the two acreages, so you can check 
 For the loan savings, the model draws the share of the loan fund out on loan (sixty to one hundred percent) and the rate a borrower would otherwise pay, and reports the middle ninety percent of its runs from a fixed seed.
 Anyone can re-run it and get the same answer.
 The acreage figures come from USDA's latest Census of Agriculture for Iowa , the loan rates from FSA's monthly announcements .
-The limits of our case What the data does not support We can't say how much cleaner the water gets.
+Open questions What we don't know yet We can't say how much cleaner the water gets.
 A per-acre credit pays for a plan and the records to back it, not for a measured drop in nitrate at the nearest stream.
 That's why the bill funds the sensors and makes the state post enrolled acres by county.
-If the acres go up and the readings don't come down, that's a finding, and we'll report it.
+If the acres go up and the readings don't come down, that's a finding, and I'll report it.
 We can't say how many acres would enroll.
 The range above is a bracket built on what farmers already do, not a forecast.
 We can't say how many construction permits the pause would hold up, or in which counties.
-We haven't pulled the Department of Natural Resources' permit records for this bill.
-We don't claim that nitrate in drinking water causes cancer in Iowa.
+I haven't pulled the Department of Natural Resources' permit records for this bill.
+I don't claim that nitrate in drinking water causes cancer in Iowa.
 Researchers disagree, and the state is paying for a study of why Iowa's cancer numbers look the way they do.
 This bill doesn't rest on the answer.
 It rests on farmers being paid for work that keeps soil and fertilizer on the field.
-The other side's strongest points Where the evidence cuts against us Iowa's rivers aren't the worst in the country by the federal measure that compares states fairly.
+Who gives something up The tradeoffs Iowa's rivers aren't the worst in the country by the federal measure that compares states fairly.
 In EPA's assessment records, 72.6 percent of Iowa's assessed river and stream miles are impaired, against 60.4 percent nationally.
 That ranks Iowa 30th of 51, counting the fifty states and DC, where first has the smallest share impaired.
 That's worse than the national figure and still the middle of the pack.
@@ -151,7 +151,7 @@ Conservation money with nothing asked in return is how you get a handout instead
 The state should keep the plan simple and the paperwork light, so the plan isn't what keeps a farmer from taking the help.
 A court could also be asked whether county siting belongs in a water bill.
 Iowa's constitution allows one subject per bill.
-We think where large confinement operations go is part of water quality, since the state regulates them through their manure, but that part can be split into its own bill if that's the safer course.
+I think where large confinement operations go is part of water quality, since the state regulates them through their manure, but that part can be split into its own bill if that's the safer course.
 Either way, counties should get that say.
 The only question is which bill carries it.
 The draft text The draft bill language For legislators, reporters and anyone who wants the legal wording.

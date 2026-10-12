@@ -6,7 +6,16 @@ About Pete Priorities Get Involved Donate Committed To Serve Pete Johnson’s tw
 His proven track record of service exemplifies his commitment to improving our community.
 With Pete, we can trust that he will continue to serve diligently and work tirelessly to find innovative solutions that benefit us all.
 Join us in supporting Pete Johnson for a brighter future for our community!
-About Pete Priorities Get Involved Donate Minnesota House District 8A Pete Johnson's Priorities Access to Healthcare Over my career, I have witnessed the toll being unable to access physical or mental health care has on people.
+About Pete Priorities Get Involved Donate Minnesota House District 8A Pete Johnson's Priorities Combating and preventing fraud Fraud anywhere in government is unacceptable.
+I helped establish a new Office of Inspector General – an independent watchdog for our state.
+We expanded the Medicaid Fraud Control Unit.
+We overhauled the state’s outdated computer systems.
+Ninety-five million dollars in upgrades, because outdated systems are where fraud hides.
+That’s real oversight, real solutions, not politics.
+A number, and a fix, delivered.
+But there’s more work to do and I want to keep doing this important work for you in St.
+Paul.
+Access to Healthcare Over my career, I have witnessed the toll being unable to access physical or mental health care has on people.
 This may mean waiting until they feel like they have no other option than to call 911.
 In some cases it is too late and now a disease or illness that could have been treated if they had been able to access care earlier has become too advanced.
 In other cases, EMS, fire departments, or emergency rooms become the primary care providers for patients because they lack resources for transportation to medical facilities, have no insurance coverage, or are burdened by restrictive networks or high deductibles.

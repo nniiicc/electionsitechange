@@ -1,4 +1,4 @@
-top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Media Merch More Use tab to navigate through the menu items.
 DONATE IMMIGRATION Comprehensive and Humane Reform OUR PRIORITIES Our current immigration posture and enforcement practices run counter to our essential American spirit.
 Rather than welcoming the tired and the poor, we are vilifying and dehumanizing those who simply wish to join and contribute to the fabric of our nation.
 A safe and secure nation is both reasonable and requisite.

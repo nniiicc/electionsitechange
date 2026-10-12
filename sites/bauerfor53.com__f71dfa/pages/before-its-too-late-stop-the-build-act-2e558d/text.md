@@ -30,4 +30,4 @@ SB608 Amendment 1 (also a gut-and-replace) would prohibit work requirements for 
 And SB635 Amendment 2 (another gut-and-replace) would allow any religious organization to build up to a six-story apartment or condo building on any land it owns regardless of existing zoning code.
 Pritzker and his allies are pushing this agenda as “transformative” and it may well be — but if citizens do not take action, we may will be very unhappy with the transformations that will occur. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

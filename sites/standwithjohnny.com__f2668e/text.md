@@ -16,7 +16,9 @@ Johnny is running to bring down the cost of living, protect health care, fully f
 Grassroots donations are how this campaign competes. $10 $25 $50 Give any amount Political advertisement paid for and approved by Johnny Austin Thompson, Democratic, for Florida House District 2.
 Contributions processed by ActBlue and are not tax deductible.
 Florida law limits contributions to $1,000 per election.
-Home About Events Updates Donate Facebook Instagram Privacy Policy · SMS Terms & Conditions Political advertisement paid for and approved by Johnny Austin Thompson, Democratic, for Florida House District 2.
+STAY IN THE CONVERSATION SHARE YOUR THOUGHTS Have a question, an idea, or a concern?
+Johnny wants to hear from you.
+First name Last name Email address Your message Send Message Home About Events Updates Donate Facebook Instagram Privacy Policy · SMS Terms & Conditions Political advertisement paid for and approved by Johnny Austin Thompson, Democratic, for Florida House District 2.
 Contributions processed by ActBlue and are not tax deductible.
 Florida law limits contributions to $1,000 per election. × Chip in today Help keep this campaign in the fight.
 Johnny is running to bring down the cost of living, protect health care, fully fund our public schools, and cut property taxes for District 2 families.

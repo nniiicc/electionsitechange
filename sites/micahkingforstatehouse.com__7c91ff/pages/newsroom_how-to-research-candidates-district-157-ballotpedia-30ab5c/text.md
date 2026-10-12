@@ -36,9 +36,9 @@ By doing your own research and sharing unbiased resources like Ballotpedia, you 
 About the Author Micah King Campaign Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.
 Explore District 157 Guide → Paid for by the Committee to Elect Micah King copied = false, 2000)" class="bg-[#FFF8F2] hover:bg-[#E68A00]/10 border border-gray-200 hover:border-[#E68A00] text-[#8B5000] font-heading text-xs font-bold uppercase tracking-wider py-2 px-4 rounded-lg inline-flex items-center gap-2 transition-all active:scale-95 shadow-sm" id="btn-share-post"> Copy Link Link Copied!
 Table of Contents – Why You Should Use Ballotpedia – Radical Transparency: Micah King’s Commitment – Your Next Steps Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.
-Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Policy Can Legislators Really Do Anything About the Cost of Living in Southeast Georgia?
+Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Articles Introducing the District 157 Opportunity Board: Keeping Good Jobs and Local Talent Right Here at Home Micah King breaks down verified GDOL wage data, the Indeed $750 fee squeeze on rural businesses, and how a $55k trade salary in Southeast Georgia yields $7,000 more net disposable cash than $72k in Atlanta.
+Read Dispatch → Policy Can Legislators Really Do Anything About the Cost of Living in Southeast Georgia?
 A transparent policy breakdown of property taxes, HB 581 floating homestead caps, local grocery sales tax stacks, PSC utility rate dockets, and what state legislators can actually change.
-Read Dispatch → Community Friday Night Lights: Football & Representation With football season starting in House District 157, Micah King reflects on the power of community, school spirit, and what playing on Tattnall County's fields teaches us about fighting for Southeast Georgia.
 Read Dispatch → 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

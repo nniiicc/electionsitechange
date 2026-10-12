@@ -1,4 +1,4 @@
-0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Here’s My Game Plan Eleanor Blakeslee-Drain of Berry Brook Farm speaks about healthcare Improve Healthcare A healthy society is fundamental to our economy and our democracy.
+0 Skip to Content Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Open Menu Close Menu Meet Janet Priorities Events Updates Endorsements Donate Get Involved Here’s My Game Plan Improve Healthcare A healthy society is fundamental to our economy and our democracy.
 Here in the United States, we pay more per person for our healthcare system than any other country.
 We pay twice as much as other wealthy countries.
 We are also the only developed country in the world that does not guarantee its citizens universal healthcare .
@@ -62,8 +62,7 @@ The Watershed Agricultural Council connects farmers with funding from the city t
 I support similar programs statewide.
 Advancing agrivoltaics – co-location of solar power generation and agriculture – where feasible.
 A id farmers, municipalities and solar developers to find win-win solutions that give growers a steady source of income, offer young farmers land access, and keep more of our land in agriculture.
-In these and many other possibilities, I pledge to listen and work collaboratively with growers, farmworkers, organizations like the New York Farm Bureau, and other stakeholders.
-Watch farmers Jim Barber and Eleanor Blakeslee-Drain explain how universal healthcare would support their businesses, workers and families.
+In these and many other possibilities, I pledge to listen and work collaboratively with growers, farmworkers, organizations like the New York Farm Bureau, and other stakeholders. << Listen to farmers Jim Barber and Eleanor Blakeslee-Drain explain how universal healthcare would support their businesses, workers and families.
 Artificial Intelligence The massive growth of AI data centers is driving up energy prices, straining municipal infrastructure, and threatening our natural resources.
 But as I’ve talked with people of every political stripe across the district, many people do not need or want AI in their emails, web searches or social media.
 That's why I'm calling for legislation requiring tech companies to allow users to opt out of AI.
@@ -76,7 +75,8 @@ China, for example, is now the global leader in building renewable energy.
 Texas has added more renewable capacity in the last two years than New York has added in the last 20.
 This should not be a partisan issue – South Dakota creates 80% of its energy from renewables.
 Renewable energy is greener, cheaper, and better for our national security.
-Read more about my efforts to lower utility costs, support farmers, improve healthcare, and more in this interview with the Mountain Eagle .
+Read more about my efforts to lower utility costs, support farmers, improve healthcare, and more in this i nterview with the Mountain Eagle .
+Read more about my support for transitioning from fossil fuels to clean, local energy in my op-ed in the Mountain Eagle.
 Housing Safe, adequate, affordable housing is fundamental to our individual and community wellbeing.
 On the Delhi village board, I have worked hard to advance housing projects, update zoning, and collaborate with anyone who wants to address this issue.
 We need more housing of all types, especially in cities and villages where many people want to live and where municipal water and sewer systems allow greater density.
@@ -111,7 +111,7 @@ Unions reduce income inequality by negotiating higher wages for workers, and by 
 The decline in union membership across the U.S. since 1979 directly correlates to an increase in income inequality.
 Unions serve as a critical check and balance on greed and corporate power.
 I support the rights of workers to organize and I oppose tactics by employers to interfere with unions.
-Meet Janet / Priorities / Events / News / Get Involved ‍ ‍ Donate Healthy People, Stronger Communities Janet Tweed for NYS Assembly 102 Our Privacy Policy.
+Eleanor Blakeslee-Drain of Berry Brook Farm speaks about healthcare Jim Barber speaks about farmers working off farm just to secure healthcare Meet Janet / Priorities / Events / News / Get Involved ‍ ‍ Donate Healthy People, Stronger Communities Janet Tweed for NYS Assembly 102 Our Privacy Policy.
 We do not share mobile contact information with third parties or affiliates for marketing or promotional purposes.
 Information may be shared with subcontractors in support services, such as customer service.
 All other categories exclude text messaging originator opt-in data and consent; this information will be not shared with any third parties. info@janettweed.com Paid for by Friends of Janet Tweed

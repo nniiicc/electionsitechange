@@ -7,4 +7,4 @@ I will be making them available to libraries and/or the general public at some o
 These books are: A Promise at Sobibór: A Jewish Boy’s Story of Revolt and Survival in Nazi-Occupied Poland , by Philip Bialowitz ; Am I a Murderer?: Testament of a Jewish Ghetto Policeman , by Calel Perechodnik; and Clara’s War: One Girl’s Story of Survival, by Clara Kramer.
 I will contact individual libraries in late February, or I invite local library staff to reach out at [email protected] in the meantime. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

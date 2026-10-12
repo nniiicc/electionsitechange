@@ -1,6 +1,6 @@
-0 Skip to Content Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Back Donate Rooted in Community.
+0 Skip to Content Home Ballot Guide Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Ballot Guide Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Ballot Guide Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Back Donate Rooted in Community.
 Working for Colorado’s Future.
-Get your yard signs here Free window sign Meet Justine My name is Justine Sandoval, and I am a proud fifth-generation Coloradan.
+Ballot Guide Meet Justine My name is Justine Sandoval, and I am a proud fifth-generation Coloradan.
 I grew up in North Denver, and my family has called this city home for nearly 100 years.
 I come from a family of activists who fought for Chicano rights in Denver, and that fighting spirit has always been part of who I am.
 My roots run deep in House District 5.

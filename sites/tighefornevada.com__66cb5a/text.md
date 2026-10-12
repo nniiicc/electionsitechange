@@ -1,6 +1,4 @@
-Skip to content About Tighe Donate Contact Our Party About Tighe Donate Contact Our Party Enable sound Tighe Galvin is a CCSD special education teacher taking on the two-party establishment and corporate welfare—from Allegiant Stadium and Formula 1 to the A’s stadium deal.
-He’s fighting for a Nevada where working people have a voice, public money serves the public, and political insiders don’t get special treatment.
-Nevada deserves A REAL CHOICE.
+Skip to content About Tighe Donate Contact Our Party About Tighe Donate Contact Our Party Enable sound Nevada deserves A REAL CHOICE.
 Government Accountability Nevada belongs to the people who live and work here.
 Tighe will challenge corporate influence, demand transparent spending, and hold political insiders accountable.
 Your tax dollars should serve your community—not bankroll special deals for the well-connected.

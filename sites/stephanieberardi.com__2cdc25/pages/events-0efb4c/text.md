@@ -1,11 +1,7 @@
 Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer The best way to support Stephanie and our local businesses is to come out to one of our really fun events.
 Get a change to hang out in a cool space, with some awesome neighbors, and get to know Stephanie in a relaxed setting.
 October 10, 2026- Rock and Roll Fundraiser at Studio 4 Recording, Conshohocken 4pm-7pm October 11, 2026- Block Party at Yorkway Place, Jekintown 1pm-4pm October 16, 2026- Calluna Plants and Gifts Garden Party, Oreland 6pm-9pm See our events page for more info.
-#ago This Week This Month ‹ Previous Sun Oct 11 2026 - Mon Oct 11 2027 Next › 11 Oct Sunday, 1:00 PM – 4:00 PM Sunday Funday Fundraiser at the Keep Easy 747 Yorkway Pl,, Jenkintown, PA, 19046 Keep it fun, keep it easy!
-Join us at Yorkway place in Jenkintown for a Sunday Funday Fundraiser at the coolest ally in the 154th!
-Suggested tickets $35.
-Guests will enjoy live music, a complimentary drink from the Keep Easy and a free gelato from Carminati Creamery.
-Tickets can be purchased in advance online or checks can be made payable to Friends of Stephanie Berardi at the registration table. $20- just coming for fun $35- Keepin' it Easy $50 - Make a change $75 - Making progess $100- Making changes More info › 16 Oct Friday, 6:00 PM – 9:00 PM Garden Party at Calluna Plants and Gifts 2012 Paper Mill Raod, Oreland, PA, 19075 Join us for a special night of enchantment at Calluna Plants and Gifts on Friday, October 16, 2026 from 6pm-9pm.
+#ago This Week This Month ‹ Previous Mon Oct 12 2026 - Tue Oct 12 2027 Next › 16 Oct Friday, 6:00 PM – 9:00 PM Garden Party at Calluna Plants and Gifts 2012 Paper Mill Raod, Oreland, PA, 19075 Join us for a special night of enchantment at Calluna Plants and Gifts on Friday, October 16, 2026 from 6pm-9pm.
 Come out and meet Stephanie Berardi in her happy place; a garden filled with plants, fire pits, music and food trucks, arts and crafts.
 Kids are welcome and free to attend.
 Supporters receive a complimentary small plant with ticket price of $35 or more.

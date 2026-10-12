@@ -36,5 +36,9 @@ Late last month, Quigley joined a growing list of politicians announcing they’
 So far, only Ald.
 Ray Lopez (15th) and millionaire businessman Willie Wilson have declared their intention to run for mayor next year.
 Read the article in the Chicago Sun-Times.
-Related Posts Crypto Lender to Pay Illinois More Than $400,000 SOS Giannoulias Warns Illinoisans to Ensure Financial Advisors Are Registered with State Keep Reading → Campaign Ramping Up Politico’s Illinois Playbook reported today that our campaign for Secretary of State is ramping up with donations from a broad-based coalition that believes in our Keep Reading → Democratic Secretary of State candidate Alexi Giannoulias gains edge in getting AFL-CIO backing with endorsement from Illinois Federation Teachers The Illinois Federation of Teachers has endorsed former state Treasurer Alexi Giannoulias’ bid for the Democratic nomination for secretary of state in next year’s primary, Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Related Posts Bill changing Illinois rearview mirror law heads to governor’s desk A bill that would decriminalize hanging things from a car’s rearview mirror is headed to Gov.
+J.B.
+Pritzker’s desk.
+Keep Reading → ‘Skip-the-Line’ program coming to all Illinois DMVs Secretary of State Alexi Giannoulias is implementing a Skip-the-Line program across Illinois.
+“You no longer have to block off the whole day to visit a Keep Reading → Illinois to launch ‘food truck’ DMVs this month, starting in Chicago and several suburbs While it won’t be serving any food, a new kind of “food” truck will be dishing out licenses and other driver services in Illinois starting Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
 Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

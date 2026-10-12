@@ -58,9 +58,9 @@ Table of Contents • 1.
 The 2026 Fall Harvest: Resilience on the Family Farm • 2.
 Technical Trades: Bridging the Rural Workforce Gap • 3.
 The Rural Healthcare Crisis: ER Shortfalls and Price Transparency • Actionable Legislative Solutions for District 157 Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.
-Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Community How to Beat the Heat in District 157 This Summer It is getting hotter in Southeast Georgia.
+Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Articles Introducing the District 157 Opportunity Board: Keeping Good Jobs and Local Talent Right Here at Home Micah King breaks down verified GDOL wage data, the Indeed $750 fee squeeze on rural businesses, and how a $55k trade salary in Southeast Georgia yields $7,000 more net disposable cash than $72k in Atlanta.
+Read Dispatch → Community How to Beat the Heat in District 157 This Summer It is getting hotter in Southeast Georgia.
 Here is what you need to know to protect your family, your farm, and your health during the next heatwave.
-Read Dispatch → Events Glennville Celebrates 50th Annual Sweet Onion Festival & Parade Micah King joins the Tattnall County community in downtown Glennville to celebrate 50 years of sweet onion agricultural tradition, pledging robust advocacy for family farms and Southeast Georgia's heritage.
 Read Dispatch → 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

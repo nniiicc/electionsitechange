@@ -19,9 +19,12 @@ As governor, I would hold our state to that promise.
 I would not let our schools - or our kids - fall behind.
 I once heard a governor say “We’re not fulfilling our constitutional obligation to school children, but we’re doing the best we can.” This is not how we fulfill our constitutional obligations, and it’s letting down Idaho’s kids.
 Idaho’s teachers deserve our respect and appropriate compensation for taking on challenging jobs to give our children a better future.
+Similarly, we also need to hold our schools accountable.
+Anyone we trust our kids with needs to be held to the highest standards.
 As governor, I will work to undo the damage caused by the school choice voucher bill and return the more than $50 million that was siphoned away from Idaho’s public education.
 Constitutional Leadership I swore an oath to uphold the Constitution, and that oath still means something to me.
 Government works best when it remains accountable to the people, respects individual rights, and follows the principles that have guided our state and nation for generations.
+This includes following principles of fiscal responsibility.
 When the people of Idaho vote by a majority, it is the duty of their legislature to facilitate.
 I promise to stand by what Idahoans decide for themselves, not what special interest groups are pushing for.
 This relates to questions such as those surrounding Flock Cameras.

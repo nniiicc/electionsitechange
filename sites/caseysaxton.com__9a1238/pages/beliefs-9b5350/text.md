@@ -1,4 +1,4 @@
-top of page HOME ABOUT About Casey Casey's Beliefs About Our Community PRIORITIES UPDATES GET INVOLVED Donate Get a Campaign Sign Legislative Issues Survey Register to Vote Sign Up for Email Updates Volunteer CONTACT Casey's Beliefs My campaign motto is Freedom and Opportunity for All - and that's my mission.
+top of page HOME ABOUT About Casey Casey's Beliefs About Our Community PRIORITIES SUPPORTERS GET INVOLVED Donate Get a Campaign Sign Legislative Issues Survey Register to Vote Sign Up for Email Updates Volunteer CONTACT Casey's Beliefs My campaign motto is Freedom and Opportunity for All - and that's my mission.
 I support policies that bring freedom and opportunity.
 I've listed my core beliefs below so you'll know, if elected, what type of principles and belief system I'll approach my legislative service with.
 Freedom Principles I believe in freedom of speech, freedom of religion, freedom of expression, freedom of the press, freedom of assembly, the free exchange of ideas, and the free flow of information.

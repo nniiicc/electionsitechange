@@ -1,7 +1,7 @@
-0 Skip to Content Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Photo by Bryan Langan Our Failing Infrastructure Our legislature has been derelict in their duty to Tennesseans.
+0 Skip to Content Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Photo by Bryan Langan Our Failing Infrastructure Our legislature has been derelict in their duty to Tennesseans.
 Instead of being fiscally responsible over the past 15 years, they have cut revenue and spent our money to help their special interest friends.
 That irresponsible behavior has left Tennessee in dire straits with infrastructure that is failing and a lack of income to pay for the necessary improvements.
 According to the state, there is a backlog of infrastructure projects estimated to cost $82.7 billion of which only 35.5% are funded.

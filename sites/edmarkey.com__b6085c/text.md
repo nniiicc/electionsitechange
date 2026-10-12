@@ -4,10 +4,10 @@ He has never been afraid to disrupt the status quo, and since he was first elect
 LEARN MORE Endorsements The Latest Donate Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
 Click here to make an Offline Donation .
 Social Media Follow Ed Markey #ago Pete Hegseth must go.
-49 Retweet on Twitter 2108720467565580338 266 Like on Twitter 2108720467565580338 Share 2108720467565580338 Follow Ed Markey #ago We know the people who are being harmed by Trump's attacks on healthcare.
+50 Retweet on Twitter 2108720467565580338 268 Like on Twitter 2108720467565580338 Share 2108720467565580338 Follow Ed Markey #ago We know the people who are being harmed by Trump's attacks on healthcare.
 They're our friends, our neighbors, and our families.
 We must fight to restore all of the cuts and protect access to essential healthcare in our country.
-8 Retweet on Twitter 2108697593140146451 21 Like on Twitter 2108697593140146451 Share 2108697593140146451 Follow Ed Markey #ago Public interest shouldn’t lose to private equity.
+9 Retweet on Twitter 2108697593140146451 22 Like on Twitter 2108697593140146451 Share 2108697593140146451 Follow Ed Markey #ago Public interest shouldn’t lose to private equity.
 We must get private equity out of our housing, our health care, and our lives.
 It’s past time we put people over profits.
 5 Retweet on Twitter 2108605074998018381 46 Like on Twitter 2108605074998018381 Share 2108605074998018381 The Latest Ed Markey Wins Democratic Primary For U.S.

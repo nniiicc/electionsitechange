@@ -1,23 +1,20 @@
-0 Skip to content Home About Issues Endorsements Accomplishments Donate Friends of Brian Hibbetts Privacy Policy Last updated: July 7, 2026 Friends of Brian Hibbetts ("we," "us," or "our") respects your privacy.
-This policy explains how we collect, use, and protect the information you provide through this website.
-Information we collect We collect information you choose to give us, such as your name, email address, phone number, and mailing address when you sign up for updates, volunteer, or contact the campaign.
-We may also collect basic, non identifying analytics about how visitors use the site.
-How we use your information We use your information to send campaign updates, share news and events, request volunteer support, solicit contributions, and respond to your questions.
-We do not sell your personal information.
-Text messaging program By providing your phone number and checking the consent box on our signup form, you agree to receive recurring automated marketing and informational calls and text messages from Brian Hibbetts and Friends of Brian Hibbetts, including through artificial, pre-recorded, autodialed, and automated means.
-Consent is not a condition of any purchase or contribution.
-Message and data rates may apply.
+0 Skip to content Home About Issues Endorsements Accomplishments Donate Friends of Brian Hibbetts Privacy Policy & Terms of Service 1.
+Text Message Program Terms By subscribing to Campaign text messages, you agree to receive recurring political and informational text messages (SMS/MMS), including updates, events, and fundraising requests, sent using an automated dialing system or other technology.
 Message frequency varies.
-Reply STOP at any time to unsubscribe, or HELP for help.
-Mobile information sharing No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
-Information sharing to subcontractors in support services, such as customer service or message delivery, is permitted.
-All other use case categories exclude text messaging originator opt in data and consent; this information will not be shared with any third parties.
-How we protect your information We use reasonable administrative and technical safeguards to protect the information you provide.
-No method of transmission over the internet is fully secure, so we cannot guarantee absolute security.
-Your choices You can unsubscribe from emails using the link in any message, and from texts by replying STOP.
-You may contact us to review, correct, or delete your information.
-Contact us Friends of Brian Hibbetts 8461 W.
-Farm Rd., #120-287, Las Vegas, NV 89131 Phone: 702.389.3171 Email: brian@brianhibbetts.com Changes to this policy We may update this policy from time to time.
-Updates will be posted on this page with a new effective date.
-Explore Home About Issues Accomplishments Privacy Policy Donate Today Contact 702.389.3171 brian@brianhibbetts.com Friends of Brian Hibbetts 8461 W.
+Message and data rates may apply.
+Consent is not a condition of making a contribution or purchasing goods/services.
+2.
+Opt-Out and Help You may revoke your consent at any time and in any reasonable manner.
+To stop receiving texts, reply STOP to any message you receive.
+You will receive a single confirmation message.
+For assistance, reply HELP or email brian@brianhibbetts.com .
+3.
+Data Collection and Sharing The Campaign collects your mobile phone number, contact information, and any personal data you submit.
+Mobile Information: No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
+Mobile phone numbers and text message opt-in data are used only to send messages from Friends of Brian Hibbetts and are shared only with vendors who deliver those messages on our behalf (for example, our text messaging platform).
+All other categories of personal information, excluding mobile opt-in data, may be shared as described below.
+Political Sharing: Other contact information you provide, such as name, email, and mailing address, may be shared with political organizations, candidates, or committees that share our goals.
+Legal Compliance: We disclose information as required by law, including campaign finance reporting.
+Friends of Brian Hibbetts · 8461 W.
+Farm Rd., #120-287, Las Vegas, NV 89131 · 702.389.3171 · brian@brianhibbetts.com Explore Home About Issues Accomplishments Privacy Policy Donate Today Contact 702.389.3171 brian@brianhibbetts.com Friends of Brian Hibbetts 8461 W.
 Farm Rd., #120-287 Las Vegas, NV 89131 Paid for by Friends of Brian Hibbetts

@@ -17,4 +17,6 @@ Promoted voter registration and participation among the American community overs
 President and active member of Sarasota Democratic Hispanic Caucus, building bridges and amplifying underrepresented voices in our community.
 THE CANDIDATE WE NEED Matthew brings what’s often missing in politics: genuine empathy born from experience, technical expertise in how government works, and a proven commitment to lifting up marginalized communities.
 As our representative, Matthew will work endlessly to promote progressive policies and ensure that that the government works for the people-- not the other way around.
-PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

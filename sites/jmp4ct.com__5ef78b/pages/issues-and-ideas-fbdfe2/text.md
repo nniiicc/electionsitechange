@@ -8,5 +8,5 @@ A vision for our future When I launched my first campaign for State Representati
 After serving you for 6 years in Hartford, so much has changed—in our country, our state, and in my own life.
 And yet my commitment to this work remains unbroken, and with so much more critical work to do, I’m inspired to continue this work.
 If I earn the privilege of serving the 101st district for two more years, I pledge to: Continue fighting for Our schools and students and teachers, our environment, our economy, and our democracy—and to help foster diversity and inclusion among our community and our state Continue leading on Environment, Public health, Education, Economic development Defend and expand Affordable and accessible healthcare, reproductive rights, gun violence prevention, voting rights I would love to hear from you about what’s important to you in the next two years, so please reach out to me at jmp4ct@gmail.com to share!
-Paid for by Friends of JMP, Zoe Gluck, Treasurer.
+Paid for by Friends of John-Michael, Zoe Gluck, Treasurer.
 Approved by John-Michael Parker.

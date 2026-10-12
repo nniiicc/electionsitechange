@@ -3,9 +3,9 @@ RUSSO FOR GOVERNOR RACHEL RODRIGUEZ FOR LIEUTENANT GOVERNOR MEET THE TICKET PRIO
 Send your question, feedback, or participation request directly to the campaign team.
 General campaign message Use this form for campaign questions, accessibility feedback, or participation requests that do not fit another form.
 Please enable JavaScript in your browser to complete this form.
-Name * First Last Email * Phone Interest * --- Select Choice --- Campaign Updates Volunteer Events Ambassador Program Checkboxes * I agree to receive campaign email updates.
+Name * First Last Email * Phone Interest * --- Select Choice --- Campaign Updates Volunteer Events Ambassador Program Checkboxes Layout Checkboxes Checkboxes * I agree to receive campaign email updates.
 Message frequency varies.
-Email Layout Name Checkboxes * I also agree to receive SMS updates at the mobile number provided.
+Checkboxes * I also agree to receive SMS updates at the mobile number provided.
 Message and data rates may apply.
 Reply STOP to opt out.
 Join The Movement →

@@ -1,6 +1,6 @@
-Sign Up for Office Hours Home About What I Stand For Contact What’s Cooking?
-Announcements & Upcoming Events Home About What I Stand For Contact What’s Cooking?
-Announcements & Upcoming Events Helping Our Communities Thrive If we want our towns to truly thrive in a rapidly changing world, we must take deliberate steps to welcome and support young families who are ready to make this district their home.
+Sign Up for Office Hours Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
+Home About What I Stand For Endorsements & Testimonials Contact Announcements & Upcoming Events What’s Cooking?
+Helping Our Communities Thrive If we want our towns to truly thrive in a rapidly changing world, we must take deliberate steps to welcome and support young families who are ready to make this district their home.
 Without that next generation, we have to ask ourselves: who will serve on our boards and commissions?
 Who will volunteer with our Fire Department and Ambulance Service?
 Who will carry forward the proud tradition of farming that defines so much of our community?

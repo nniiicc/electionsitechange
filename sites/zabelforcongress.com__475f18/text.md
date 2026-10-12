@@ -41,7 +41,7 @@ U.S. citizens and permanent residents only.
 Volunteer Join the team helping Sarah reach Idaho voters.
 Sign up to volunteer Stay in touch Get campaign updates by email. ✓ You're signed up.
 Thank you for joining us.
-Sign Up Proudly endorsed by Veterans for Idaho Voters Independent Veterans of America Reform Party USA Idaho American Federation of Teachers—Local #3215 How to vote Ballots are going out now.
+Sign Up Proudly endorsed by Veterans for Idaho Voters Independent Veterans of America Reform Party USA Idaho American Federation of Teachers—Local #3215 Forward Party How to vote Ballots are going out now.
 Look for U.S.
 Congress, District 1, and mark Sarah Zabel, Independent.
 Check your registration, order an absentee ballot, or find your polling place at VoteIdaho.gov .

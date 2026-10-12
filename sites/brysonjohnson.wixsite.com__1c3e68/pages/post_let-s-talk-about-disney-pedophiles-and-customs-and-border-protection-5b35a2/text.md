@@ -1,5 +1,5 @@
 top of page Donate to Help Reach Cary and Apex Voters Bryson Johnson for NC House District 21 About Bryson About District 21 Donate Socials Facebook Instagram Youtube About NC Representatice Ya Liu The Candidates of District 21 HOW ARE YOU DIFFERENT?
-Blog Asian Americans for Bryson Bryson refuses all PAC money.
+NC Lottery Blog Asian Americans for Bryson Bryson refuses all PAC money.
 When you donate, you fund a campaign run FOR THE PEOPLE, not SPECIAL INTERESTS!
 All Articles Search Let's talk about Disney, pedophiles, and Customs and Border Protection.
 Bryson Johnson Jun 1 1 min read Roughly 10 Disney Magic crew members were detained on April 23.

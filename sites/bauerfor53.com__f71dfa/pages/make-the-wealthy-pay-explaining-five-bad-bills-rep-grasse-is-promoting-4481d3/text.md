@@ -31,4 +31,4 @@ Five ways to drive businesses out of the state.
 The good news is that although this trio of legislators claim support from 40 lawmakers calling themselves the Affordability and Tax Justice coalition, these bills appear, as far as I can tell, to be too far to the left for even the Democratic party leadership to support.
 Yet that’s not stopping the incumbent representative for District 53, which I believe to be a centrist/moderate area, from campaigning on them. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

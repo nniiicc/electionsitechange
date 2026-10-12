@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate More Home Issues Education Healthcare Good Governance Data Centers Donate DOCTERMAN FOR OHIO MEET COLLIN DOCTERMAN A Compassionate Voice.
+Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate More Home Issues Education Healthcare Good Governance Data Centers Unions Donate DOCTERMAN FOR OHIO MEET COLLIN DOCTERMAN A Compassionate Voice.
 A Proven Advocate.
 A Neighbor You Can Trust.
 I’m Collin Docterman — a husband, foster parent, and community leader running for State Representative to make sure every family has the opportunity to thrive.

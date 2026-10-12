@@ -1,4 +1,4 @@
-☰ Home Volunteer Donate Invite Dennis Power the campaign Grassroots support helps us reach voters, run ads, and build the strongest field program in the district.
+☰ Home Action Plan Volunteer Donate Invite Dennis Power the campaign Grassroots support helps us reach voters, run ads, and build the strongest field program in the district.
 Donate online Use our secure contribution page.
 Contribute now Prefer to mail a check?
 Make checks payable to and mail to: Include your name, address, occupation, and employer (often required for federal reporting).

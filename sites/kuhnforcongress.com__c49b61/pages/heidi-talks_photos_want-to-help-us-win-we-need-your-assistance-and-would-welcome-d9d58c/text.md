@@ -2,7 +2,11 @@ Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar 
 We need your assistance (and would welcome it).
 Do you want to help us win?
 Please contact us via our Volunteering form: https://kuhnforcongress.com/volunteer/ We would welcome your assistance!
-More Conversations Oct 10, 2026 - Thank you, Carroll County Democrat Party Attendees!
+More Conversations Oct 11, 2026 - Early voting starts WEDNESDAY, Oct.
+14th.
+Vote for someone who cares about your reasons.
+Oct 11, 2026 - PEOPLE before servers: No new Datacenters until we know the REAL cost.
+Oct 11, 2026 - David Kustoff is vulnerable in reelection bid Oct 10, 2026 - Thank you, Carroll County Democrat Party Attendees!
 Oct 8, 2026 - I thoroughly enjoyed joining Aunties Unfiltered and was honored to be the first guest on their show!
 Oct 7, 2026 - Thank you to everyone who joined us in Eads, TN, for our fundraiser and early birthday celebration!
 Oct 7, 2026 - West Tennessee moms hold it all together.
@@ -36,9 +40,6 @@ Sep 22, 2026 - We will not sacrifice anything for Data Centers Sep 21, 2026 - Wa
 We need your assistance (and would welcome it).
 Sep 21, 2026 - Time to check your Tennessee Voter Registration!
 Sep 19, 2026 - Spending time with and supporting our farmers in Henderson County is always a good day.
-Sep 19, 2026 - Thank you, Main Street Festival (Decaturville) Attendees!
-Sep 19, 2026 - Thank you, Shelby County Democratic Women!
-Sep 19, 2026 - Thank you, Cooper-Young Festival Attendees!
 Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

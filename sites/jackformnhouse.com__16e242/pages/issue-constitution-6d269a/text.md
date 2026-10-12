@@ -1,4 +1,4 @@
-Donate Meet Jack The Issues Volunteer ← Back to Issues Preserving the Constitution “We need to remain vigilant.” Recent actions by the current administration are threatening civil liberties protected by the constitution: freedom of speech; freedom of assembly; separation of powers; the rule of law; and the right to due process.
+Donate Meet Jack Issues Endorsements ← Back to Issues Preserving the Constitution “We need to remain vigilant.” Recent actions by the current administration are threatening civil liberties protected by the constitution: freedom of speech; freedom of assembly; separation of powers; the rule of law; and the right to due process.
 I am very proud of Minnesotans who are bravely exercising their First Amendment Rights to peacefully protest the unlawful attacks by ICE and Border Patrol agents.
 We need to remain vigilant in protecting and exercising our Constitutional Rights!
 The key issues and concerns that must be addressed to preserve our Constitution are: Executive Overreach.
@@ -26,7 +26,7 @@ This is voter suppression.
 The discourse surrounding these issues highlights a critical moment in our country.
 Advocacy will play a significant role in preserving our Constitutional Republic.
 This situation demands our vigilance and active involvement to hold ourelected leaders accountable to the oath they gave to protect our Constitution.
-Home Meet Jack The Issues Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 Meet Jack The Issues Volunteer Donate ← Back to Issues Preserving the Constitution “We need to remain vigilant.” Recent actions by the current administration are threatening civil liberties protected by the constitution: freedom of speech; freedom of assembly; separation of powers; the rule of law; and the right to due process.
+Home Meet Jack Issues Endorsements Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 Meet Jack Issues Endorsements Donate ← Back to Issues Preserving the Constitution “We need to remain vigilant.” Recent actions by the current administration are threatening civil liberties protected by the constitution: freedom of speech; freedom of assembly; separation of powers; the rule of law; and the right to due process.
 I am very proud of Minnesotans who are bravely exercising their First Amendment Rights to peacefully protest the unlawful attacks by ICE and Border Patrol agents.
 We need to remain vigilant in protecting and exercising our Constitutional Rights!
 The key issues and concerns that must be addressed to preserve our Constitution are: Executive Overreach.
@@ -54,7 +54,7 @@ This is voter suppression.
 The discourse surrounding these issues highlights a critical moment in our country.
 Advocacy will play a significant role in preserving our Constitutional Republic.
 This situation demands our vigilance and active involvement to hold ourelected leaders accountable to the oath they gave to protect our Constitution.
-Home Meet Jack The Issues Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 Meet Jack The Issues Volunteer Donate ← Back to Issues Preserving the Constitution “We need to remain vigilant.” Recent actions by the current administration are threatening civil liberties protected by the constitution: freedom of speech; freedom of assembly; separation of powers; the rule of law; and the right to due process.
+Home Meet Jack Issues Endorsements Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 Meet Jack Issues Endorsements Donate ← Back to Issues Preserving the Constitution “We need to remain vigilant.” Recent actions by the current administration are threatening civil liberties protected by the constitution: freedom of speech; freedom of assembly; separation of powers; the rule of law; and the right to due process.
 I am very proud of Minnesotans who are bravely exercising their First Amendment Rights to peacefully protest the unlawful attacks by ICE and Border Patrol agents.
 We need to remain vigilant in protecting and exercising our Constitutional Rights!
 The key issues and concerns that must be addressed to preserve our Constitution are: Executive Overreach.
@@ -82,5 +82,5 @@ This is voter suppression.
 The discourse surrounding these issues highlights a critical moment in our country.
 Advocacy will play a significant role in preserving our Constitutional Republic.
 This situation demands our vigilance and active involvement to hold ourelected leaders accountable to the oath they gave to protect our Constitution.
-Home Meet Jack The Issues Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 This site requires JavaScript To view this website, enable JavaScript in your browser settings and reload the page.
+Home Meet Jack Issues Endorsements Volunteer Donate Prepared and paid for by L’Heureux (Jack) for MN House Committee, PO Box 177, Mora, MN 55051 This site requires JavaScript To view this website, enable JavaScript in your browser settings and reload the page.
 Reload page

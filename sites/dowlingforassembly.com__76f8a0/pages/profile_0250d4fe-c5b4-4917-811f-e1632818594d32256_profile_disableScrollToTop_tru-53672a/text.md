@@ -21,5 +21,5 @@ And being able to come with the understanding that disagreements doesn't make so
 Should Wisconsin Change Too?
 During the recent League of Women Voters candidate forum, I was asked a question I didn't have an answer to: “Should the public school system’s vaccine mandates be updated to match the new federal vaccine guidelines?” Now?
 Now, I have an answer.
-24 0 Load More CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
+25 0 Load More CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
 Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

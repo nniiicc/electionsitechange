@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation budget The agenda Pay As You Go Act An Act relating to state fiscal matters, including a scorecard requiring new general fund spending to be offset, a payment required to keep the sales and use tax exemptions for data centers and web search portals, an Iowa future fund, the renewable fuel infrastructure fund, the offices of the governor and lieutenant governor, and the sports wagering receipts fund, making appropriations, and including effective date and applicability provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including the tradeoffs, and my draft of the legal text.
 Page one See where it goes The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 Every bill in this series has to answer one question: how do you pay for it?
@@ -54,7 +54,7 @@ The stream into STREAM and CARE shows what those bills cost, not money we've cou
 It has to come from the data center payments, which count as zero here until the state estimates them, or from voucher savings the school bills don't use.
 If neither covers it, the scorecard trims those bills.
 The data center payments are set aside for water, soil conservation and health care bills like STREAM and CARE, and the first payments aren't due until the second budget year.
-The same numbers, side by side First budget year Loan fund, a year of FAIR Act money, CARE awards and training, and the DEED Act fund One-time money → to STREAM loan fund, a year of FAIR Act money, CARE first-year grants and the DEED Act fund (one time) $35.5 million Voucher limit starts The three school bills Voucher savings (OPEN Act) → to HELP, PACE and Tools for Schools $92 million to $234 million STREAM and CARE, trimmed if neither source covers them Data center payments (not counted yet) or voucher savings the school bills don't use → to STREAM yearly parts and CARE $47 million to $88 million Vouchers ended The three school bills Voucher savings (OPEN Act) → to HELP, PACE and Tools for Schools $202 million to $509 million STREAM and CARE, trimmed if neither source covers them Data center payments (not counted yet) or voucher savings the school bills don't use → to STREAM yearly parts and CARE $54 million to $91 million The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+The same numbers, side by side First budget year Loan fund, a year of FAIR Act money, CARE awards and training, and the DEED Act fund One-time money → to STREAM loan fund, a year of FAIR Act money, CARE first-year grants and the DEED Act fund (one time) $35.5 million Voucher limit starts The three school bills Voucher savings (OPEN Act) → to HELP, PACE and Tools for Schools $92 million to $234 million STREAM and CARE, trimmed if neither source covers them Data center payments (not counted yet) or voucher savings the school bills don't use → to STREAM yearly parts and CARE $47 million to $88 million Vouchers ended The three school bills Voucher savings (OPEN Act) → to HELP, PACE and Tools for Schools $202 million to $509 million STREAM and CARE, trimmed if neither source covers them Data center payments (not counted yet) or voucher savings the school bills don't use → to STREAM yearly parts and CARE $54 million to $91 million The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 The math What it costs and who pays This bill doesn't spend money.
 It brings money in, and it sets the rule that every bill in the agenda adding new spending or a tax credit signs up to live under.
@@ -265,74 +265,73 @@ It's a fair question about who sets that pay, but it's a different bill.
 The Taxpayer Relief Fund.
 State law lets that money go only to tax relief and to cover part of a budget shortfall.
 Spending it on new programs would mean changing that law, and drawing down a reserve to pay for something new is what this bill exists to stop.
-The limits of our case What the data does not support We can't say what the data center payments would bring in.
+Open questions What we don't know yet I can't say what the data center payments would bring in.
 Nobody has published a measured total of the electricity Iowa's data centers use.
 The estimates that exist are modeled.
 The Department of Revenue has each center's figure from the yearly reports and says it may release totals without naming anyone.
 Asking for that total is the first step.
 It's growing as new centers come online, and centers could also decide not to pay, or build elsewhere.
 A fiscal note from the Legislative Services Agency would settle it, and the scorecard won't count a dollar until there is one.
-The newest state estimate we found of what these breaks cost is $128.2 million a year, for tax year 2020.
+The newest state estimate I found of what these breaks cost is $128.2 million a year, for tax year 2020.
 It's six years old and assumes nobody changes what they buy.
 It's also mostly or entirely the equipment break: the Department of Revenue didn't estimate the data center electricity break separately.
 It counted it inside a statewide line for power and fuel used in processing.
 So it isn't what this bill raises, and it isn't the cost of the breaks plus the electricity.
-We use it only to show the equipment break is large.
+It's useful only to show the equipment break is large.
 The payment counts electricity bought for a center, including power a landlord buys and meters for a tenant.
 Power a center makes for itself is only described, roughly, on the yearly report, so it isn't in the payment.
-If centers start making much of their own power, we'd ask the department to require metered reports of it and add it.
-We didn't find a data center in our four counties.
+If centers start making much of their own power, I'd ask the department to require metered reports of it and add it.
+I didn't find a data center in our four counties.
 That is a failed search, not a confirmed absence.
-We didn't find a list of registered data centers published by the Department of Revenue.
+I also didn't find a list of registered data centers published by the Department of Revenue.
 The voucher savings are measured against what the Legislative Services Agency projects vouchers would cost under current law.
 If that projection is off, the savings are too.
-The OPEN Act's page explains the range and the assumptions behind it.
 The table doesn't count the voucher money left in student accounts when the program ends.
 The OPEN Act returns it to the general fund in 2031, but nobody knows how much will be there.
-The other side's strongest points Where the evidence cuts against us Paying centers keep the equipment break.
+Who gives something up The tradeoffs Paying centers keep the equipment break.
 It's a large break, and a center that pays keeps it.
-So this bill gives up a repeal, which might bring in more each year if it ever passed, for something smaller that we think is steadier: a payment that grows with inflation and with the power these centers use, and a fund that keeps paying after the buildings are done.
-If the payments turn out small next to the breaks, what we'd do instead is raise the rate.
+So this bill gives up a repeal, which might bring in more each year if it ever passed, for something smaller that I think is steadier: a payment that grows with inflation and with the power these centers use, and a fund that keeps paying after the buildings are done.
+If the payments turn out small next to the breaks, what I'd do instead is raise the rate.
 It's one number in the law.
 Any center can say no.
 A center that would rather pay sales tax can drop the payment, and if the big ones do, the fund grows slowly.
 The budget isn't hurt: that sales tax is set aside for the same uses.
-What we'd do then is send part of that sales tax into the fund too.
+What I'd do then is send part of that sales tax into the fund too.
 Nobody else does it this way.
-We didn't find a state that makes a data center pay into a fund to keep a sales tax break.
+I didn't find a state that makes a data center pay into a fund to keep a sales tax break.
 That's a failed search, not proof none exists, but it means this is untested.
 The closest is Virginia.
 In 2026, its budget began taxing data center electricity at $11 a megawatt-hour for two years, on top of every other tax, and it isn't the price of keeping a break.
-Before filing, we'd have the Legislature's lawyers check the bill, and we'd read the state's job-incentive agreements with these companies for any promise about sales tax.
+Before filing, I'd have the Legislature's lawyers check the bill, and I'd read the state's job-incentive agreements with these companies for any promise about sales tax.
 Lawmakers of both parties voted for these data center breaks last year.
 House File 976 passed the House 84 to 0 and the Senate 45 to 0 in 2025.
 It extended the breaks to leased data centers, and it also put time limits on the electricity and fuel breaks for new buildings.
 A straight repeal would be a hard vote to win, and that's one reason this bill keeps the breaks and puts a price on them instead.
 It still asks lawmakers to put a price on breaks they just extended.
-If it can't pass, what we'd do instead is ask for what the state's other business incentives already ask: keep the break only for projects that meet job and wage standards.
+If it can't pass, what I'd do instead is ask for what the state's other business incentives already ask: keep the break only for projects that meet job and wage standards.
 The fund plays it safe until voters act.
 Section 12B.10 puts safety of principal first and return third, and the draw stops before it touches what was put in, so in a year of low returns the fund pays the budget less.
-What we'd do instead of waiting: pass the joint resolution in the first session, so voters can decide it as soon as the constitution allows.
+What I'd do instead of waiting: pass the joint resolution in the first session, so voters can decide it as soon as the constitution allows.
 Stations lose the fuel-pump deposit.
 This bill skips the yearly general fund deposit in 2027-28.
 From July 2028, the FUEL Act moves most of that money to farm diversification and the rest to fuel inspection.
-The pump fund keeps whatever balance it has, and we didn't find a published figure for it, so grants from it depend on that balance and on anything lawmakers add.
+The pump fund keeps whatever balance it has, and I didn't find a published figure for it, so grants from it depend on that balance and on anything lawmakers add.
 That's a real loss for a station that was counting on a grant.
-If lawmakers don't pass the FUEL Act, what we'd do instead is bring the deposit back starting in July 2028, and not skip it again without a vote.
+If lawmakers don't pass the FUEL Act, what I'd do instead is bring the deposit back starting in July 2028, and not skip it again without a vote.
 The governor's office cut is small, and it's arguable.
 About $550,000 is a rounding error in a state budget, and the office's budget counted for inflation is about where it was a decade ago.
 The office has also billed other agencies for staff, which could wipe out the savings if it keeps doing so.
-We're doing it because a budget that asks schools and farmers to wait should ask the same of the governor's office first.
+I'm doing it because a budget that asks schools and farmers to wait should ask the same of the governor's office first.
 What would make it more than a gesture: requiring the office to report what it bills other agencies, so the cut can't just move to another line.
-The scorecard could hold back our own bills.
+The scorecard could hold back my own bills.
 If the voucher savings and the data center payments come in low, or prices run hot, the trim lands on the HELP, PACE, STREAM and CARE Acts and Tools for Schools, and in the first year on the FAIR and DEED Acts too if the sports betting balance comes in low, not on anything that existed before.
 In some of the model's runs that happens even to the school bills.
-That's the honest cost of the rule.
-What we'd do instead of borrowing or dipping into reserves is find the next saving, and the right long-term answer is to fund our schools, our water and our rural hospitals properly in the regular budget so a scorecard never has to choose between them.
+That's the cost of the rule.
+What I'd do instead of borrowing or dipping into reserves is find the next saving, and the right long-term answer is to fund our schools, our water and our rural hospitals properly in the regular budget so a scorecard never has to choose between them.
 One subject.
 Iowa's constitution allows one subject per bill.
 This bill touches a tax exemption, three funds and an office appropriation.
-We've titled it as state fiscal matters, a subject lawmakers use for budget bills, but a drafter could split it into separate bills that pass together.
+I've titled it as state fiscal matters, a subject lawmakers use for budget bills, but a drafter could split it into separate bills that pass together.
 The draft text The draft bill language For legislators, reporters and anyone who wants the legal wording.
 This is our draft, written the way Iowa bills are written, so you can see exactly what we mean.
 If I'm elected, the Legislature's nonpartisan drafting office, the Legislative Services Agency, writes the version that gets filed, and the wording will change.

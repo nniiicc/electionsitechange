@@ -14,4 +14,4 @@ Reports are that Pritzker is cautioning Democrats that the budget that he’ll p
 The same holds for counties and towns.
 We simply cannot get lured into a bidding war for any professional sports team. https://commons.wikimedia.org/wiki/File:Arlington_Racecourse_East.jpg; Sea Cow, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

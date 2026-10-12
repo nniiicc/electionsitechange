@@ -1,6 +1,6 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
-Watch the journey → Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Voting Information Everything you need to make your voice heard in the November 3, 2026 general election.
+Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Voting Information Everything you need to make your voice heard in the November 3, 2026 general election.
 Key dates October 13, 2026 Voter registration deadline Last day to register to vote or update your registration for the general election.
 October 21 – 31, 2026 Early in-person voting Vote early at your county courthouse, annex, or designated community voting location during business hours.
 No excuse needed.

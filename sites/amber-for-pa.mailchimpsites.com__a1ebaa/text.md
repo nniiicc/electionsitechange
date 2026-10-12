@@ -10,7 +10,8 @@ Learn More Let's Get Our Yard Signs!
 You've been asking!
 Now we have the answer!
 Amber for PA signs are here, at last!
-Reserve your sign today: https://secure.actblue.com/donate/amber108signs Learn More Volunteers Needed It's no secret that successful campaigns depend on supporters like you to power them to victory.
+Reserve your sign today: https://secure.actblue.com/donate/amber108signs Learn More Endorsements and Recommendations: The United Auto, Aerospace, and Agricultural Workers of America, (UAW) Region 9 Eric Holder, U.S.
+Attorney General National Democratic Redistricting Committee Education First PA PAC Mental Health Now, PA PAC Healthcare for ALL PA PAC National Assoc of Social workers (NASW), PA PAC Montour County Democratic Committee Northumberland County Democratic Committee PA Moms for Change BLUE TRIFECTA Moms Demand Action on Gun Sense MARCH ON HARRISBURG anti-corruption PAC Volunteers Needed It's no secret that successful campaigns depend on supporters like you to power them to victory.
 Email Cathy, Campaign Manager, today to learn about all the ways you can help our grassroots campaign grow.
 Learn More Support Our Campaign ACTBLUE LINK 🔗 We are connected and affected.
 Contact Campaign Manager, Cathy K ., for press inquiries and communications.

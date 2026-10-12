@@ -19,7 +19,7 @@ Whether you agree with those policies or not, demand for electricity is growing 
 Right now it's ratepayers, watching transmission lines get proposed through their backyards and data centers built in their communities.
 Suhas Subramanyam Saw It Coming.
 Then He Waited Ten Years.
-In a recent interview with Caleb Max at the NAIA , Suhas Subramanyam said that years ago, while working at the White House on AI policy, he warned then-Congresswoman Barbara Comstock that nobody was thinking about the power lines, the community impact, or the utility bills that data center growth would bring.
+In a recent interview with Caleb Max at the NAIA, Suhas Subramanyam said that years ago, while working at the White House on AI policy, he warned then-Congresswoman Barbara Comstock that nobody was thinking about the power lines, the community impact, or the utility bills that data center growth would bring.
 By his own telling, he saw this crisis coming before almost anyone.
 So what did he do with that warning?
 He built a political career.

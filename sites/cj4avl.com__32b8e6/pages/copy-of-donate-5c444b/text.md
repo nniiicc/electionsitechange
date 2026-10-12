@@ -1,5 +1,4 @@
-top of page CJ Domingo - Candidate for Asheville City Council Home Who?
-Contact Donate More Use tab to navigate through the menu items.
+top of page CJ Domingo - Candidate for NC Senate Home Who Contact Donate More Use tab to navigate through the menu items.
 Donor Info No ads!
 We have to collect this info to comply with election law.
 The final donation will take place via PayPal link.

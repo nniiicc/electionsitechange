@@ -1,7 +1,7 @@
 Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer The best way to support Stephanie and our local businesses is to come out to one of our really fun events.
 Get a change to hang out in a cool space, with some awesome neighbors, and get to know Stephanie in a relaxed setting.
 October 10, 2026- Rock and Roll Fundraiser at Studio 4 Recording, Conshohocken 4pm-7pm October 11, 2026- Block Party at Yorkway Place, Jekintown 1pm-4pm October 16, 2026- Calluna Plants and Gifts Garden Party, Oreland 6pm-9pm See our events page for more info.
-#ago This Week This Month ‹ Previous Sun Oct 11 2026 Next › 11 Oct Sunday, 1:00 PM – 4:00 PM Sunday Funday Fundraiser at the Keep Easy 747 Yorkway Pl,, Jenkintown, PA, 19046 Keep it fun, keep it easy!
+#ago This Week This Month ‹ Previous Sun Oct 11 2026 Next › 11 Oct Sunday, 1:00 PM – 4:00 PM POSTPONED -Sunday Funday Fundraiser at the Keep Easy 747 Yorkway Pl,, Jenkintown, PA, 19046 Keep it fun, keep it easy!
 Join us at Yorkway place in Jenkintown for a Sunday Funday Fundraiser at the coolest ally in the 154th!
 Suggested tickets $35.
 Guests will enjoy live music, a complimentary drink from the Keep Easy and a free gelato from Carminati Creamery.

@@ -1,7 +1,7 @@
-0 Skip to Content Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Tennessee’s Polluted Waterways Under the current leadership, our waterways have become much more polluted.
+0 Skip to Content Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Tennessee’s Polluted Waterways Under the current leadership, our waterways have become much more polluted.
 From 2010 to 2020 our state went from 32.4% of our waterways being impaired to 55.4%.
 Impaired means that a waterway can no longer serve at least one of its intended functions.
 About 50% of these waterways are impaired due to e.coli contamination.

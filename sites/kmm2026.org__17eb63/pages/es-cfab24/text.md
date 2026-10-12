@@ -3,7 +3,7 @@ Lo mejor que puedes hacer para ayudar a esta campaña es decirles a tus amigos y
 Luego, pídeles que también se lo digan a sus amigos y a otras personas.
 Espero tener poca o ninguna cobertura en los medios corporativos, por lo que mi campaña dependerá de la publicidad de boca en boca.
 Utiliza tu voto para decir que quieres una dirección nueva y mejor en el gobierno de Texas.
-Ayuda a mi campaña Reparte tarjetas de presentación Como vicegobernador, mi compromiso será servir al interés público .
+Ayuda a mi campaña Reparte tarjetas de presentación Publica el folleto de mi campaña Como vicegobernador, mi compromiso será servir al interés público .
 Concibo el interés público como: personas saludables – ¿tenemos acceso a alimentos nutritivos, vivienda asequible y actividades saludables? sociedad saludable – ¿tenemos oportunidades de crecimiento y servicios públicos útiles e importantes? medio ambiente saludable – porque vivimos en el medio ambiente.
 El interés público no es simplemente una buena idea — es un principio rector que evalúa la legislación y mantiene a raya a los grupos de interés.
 La cuestión es si la legislación protege la salud y desarrolla la resiliencia y la sostenibilidad para garantizar una buena calidad de vida para cada texano.
@@ -33,7 +33,7 @@ Cuantos más votos reciba, más probable será que el gobierno del estado de Tex
 Por favor, dile a los demás que planeas votar por mí para vicegobernador en 2026.
 Gracias Choose Language Seleccione su idioma Apoya la Campaña Dona ahora Mi Tarjetas Contacto Texas Tribune RSS Independent news.
 Trusted by Texans.
-James Talarico returns to campaign trail at ACL festival after illness spurred GOP calls for “proof of life” Mayes Middleton, running for Texas attorney general, wants to “put God back in government” U.S.
+Texas appeals order requiring prison air conditioning, saying it puts operations at risk Taxpayers pay the price when Texas education department takes over school districts U.S.
 Right to Know RSS Pursuing truth and transparency for public health Drug company gifts, meals, and payments to doctors lead to worse prescribing, review of 93 studies finds FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight Green Social Thought RSS Produce less.
 Distribute it fairly.
 Create a greener world for all. ‘Your Struggle Is Our Struggle’ Says Hasidic Anti-Zionist Rabbi Facing ICE Deportation Over Pro-Palestinian Protest The Urgency of Recognizing the Ansar Allah Government in Yemen Reporting Texas RSS News and features from UT-Austin's School of Journalism ‘Enough Is Enough’: Austinites Demand Change After Cornell Sexual Assault Singer Sara Bareilles Tells UT Students: Give Grief the Space to be Heard EnvironmentAmerica -- Texas RSS RESOURCE GUIDE: Tips to help households save energy and stay warm this winter Data center moratorium now Texas Farm Bureau RSS USDA announces 2027 Dairy Margin Coverage enrollment Beef checkoff, GO TEXAN expand market opportunities GLO, Texas A&M, TFB partner to support next generation of farmers © # Kevin McCormick para Vicegobernador.

@@ -34,5 +34,5 @@ I was handed a lot, and that’s why I know where Jessica is coming from.
 She’s the person who described herself this way on X: “Jessica Steinmann has gone toe-to-toe with the woke left her entire career”.
 Enough said.
 Who do you want to represent YOU?
-Steve Kobb Concerned Citizen You can read my other blog posts at https://www.laura4tx.com/blog Recent Posts See All Similarities and Differences Hawks, Hawkeyes, and the defense of Donald Trump The Way We Were info@laura4tx.com laurajonesforcongress@gmail.com Laura Jones - FOR CONGRESS - © Paid for by Laura Jones for Congress P.O.
+Steve Kobb Concerned Citizen You can read my other blog posts at https://www.laura4tx.com/blog Recent Posts See All Disqualified Similarities and Differences Hawks, Hawkeyes, and the defense of Donald Trump info@laura4tx.com laurajonesforcongress@gmail.com Laura Jones - FOR CONGRESS - © Paid for by Laura Jones for Congress P.O.
 Box 742, Coldspring, Texas 77331 R bottom of page

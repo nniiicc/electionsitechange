@@ -633,7 +633,8 @@ Helen Goodyear Melinda Moulton Executive Producer for Rick Moulton Productions B
 Deb Parrella Retired- former educator After hearing Amanda speak at an event in Huntington I believe she will thoughtfully approach important issues with new ideas and a commitment to make Vermont a better place for everyone.
 Pam Steeg Retired Counselor I believe that she has the platform and the solutions that we need in Vermont.
 Paul T.
-Stephens retired Woman's wisdom, caring for the environment, education and health care Barb Winters Retired She is the best option to oppose our current republican governor.
+Stephens retired Woman's wisdom, caring for the environment, education and health care Carmen Tedesco International Development I believe she has the knowledge and experience to improve our way of life in Vermont!
+Barb Winters Retired She is the best option to oppose our current republican governor.
 Robin Worn Formerly office manager of a landscape architect's office and garden designer - now retired.
 I love that she will focus on supporting businesses we already have more importantly than soliciting new comers.
 Ie. solve our health care and housing issues, support workers, farmers, and local industries.

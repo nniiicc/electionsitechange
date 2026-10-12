@@ -33,7 +33,7 @@ Terms & Conditions and Privacy Policy / © Copyright #.
 Ron Russell for Congress.
 All Rights Reserved Keep Up with the Campaign Join our community and stay updated on Ron Russell’s campaign!
 Sign up today to receive the latest news, events, and opportunities to get involved.
-Email (Required) × Join the Movement to Make a Difference!
+Email (Required) Submit × Join the Movement to Make a Difference!
 Help Ron Russell bring positive change to our community.
 Your support matters!
 Volunteer Today!

@@ -13,12 +13,12 @@ Connecticut deserves an election system with integrity and a Secretary of the St
 November 3 is approaching fast.
 Please reach out at Info@PeterLumaj.com to get involved in our campaign, volunteer, and help spread our message.
 Together, we can win this!
-Sincerely, Peter Lumaj Share this: Related Articles Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections.
+Sincerely, Peter Lumaj Share this: Related Articles # Days Until Election Day: Get Ready with Our GOTV App!
+With just # days until Election Day, November 3rd is quickly approaching!
+Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections.
 Updates from the campaign trail: September 27, 2026 Team Lumaj remains hard at work on the campaign trail!
 Last weekend, we joined fellow Republicans for the annual Guilford Fair parade.
-We also recently joined the entire statewide ticket in Salisbury to share our visions on how to not only win in November, but also on what each of us would do to ...
-Updates from the campaign trail: September 20, 2026 Last week, our nation paused to remember the bravery of all who responded #ago, and the lives of those who were tragically lost on September 11th.
-We must never forget their sacrifice. ← Back to All News Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
+We also recently joined the entire statewide ticket in Salisbury to share our visions on how to not only win in November, but also on what each of us would do to ... ← Back to All News Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
 Yes, I would like to receive text messages By providing your phone number and checking this box, you are consenting to receive Campaign Updates, Event Invitations, Voter Information, and GOTV Reminders text messages from Lumaj 2026.
 Donations will not be solicited.
 Message frequency varies.
@@ -34,13 +34,9 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Henri Martin State Senator 31st District "Peter Lumaj has lived the American Dream.
-He loves our country and our state, and I am proud to call him a friend.
-Connecticut is a national embarrassment when it comes to election integrity.
-The Bridgeport ballot stuffing video went viral, prompting news outlets across the nation to mock the fraud.
-Yet under one-party rule in Connecticut, Democrats have zero interest in making reforms that will restore public confidence in our elections.
-The embarrassments and the fraud that have made Connecticut a national punchline will continue until we elect different leaders.
-As our new Secretary of the State, Peter Lumaj will make those reforms his top priority.
-He will be a voice for the people of our state who are sick and tired of the seemingly endless voter fraud in Connecticut.
-I wholeheartedly endorse Peter Lumaj.
-He will be an excellent Secretary of the State and will work tirelessly to restore trust and integrity in our elections." View all endorsements →
+ENDORSED BY Manny A.
+Santos Former Mayor of Meriden and 2018 candidate for Congress "Peter Lumaj will be an excellent choice for Connecticut Secretary of the State due to his deep commitment to election integrity, legal expertise, and personal resilience.
+As an immigrant who escaped communist Albania, Lumaj brings a profound appreciation for democratic values and the importance of transparent governance.
+His background as an attorney and small business owner equips him with the practical skills needed to modernize business filings and streamline state operations.
+Having previously run one of the closest statewide races in Connecticut history, Peter has demonstrated both broad appeal and a strong understanding of the state’s political landscape.
+His outspoken advocacy for secure elections and accountability makes him the best candidate for safeguarding Connecticut’s democratic processes" View all endorsements →

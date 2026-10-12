@@ -41,4 +41,4 @@ Late updates: Late in the day on October 28, Rep.
 Eva-Dina Delgado filed a new bill (using as a “shell bill” Senate Bill 2111 , to which she added House Amendment 2 ).
 I’m not going to take this apart but will wait and see along with all the rest of the hoi polloi, but the bill aims to raise even more money, but the new taxes seem all the more absurd including a billionaires’ tax which, beyond its various problematic features, is inherently entirely unsuited as a significant funding source to fund transit as it would vary so much from year to year. https://commons.wikimedia.org/wiki/File:Pace_Bus_No._2682.jpg; vxla from Chicago, US, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

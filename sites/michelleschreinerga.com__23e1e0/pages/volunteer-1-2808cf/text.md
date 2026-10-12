@@ -6,7 +6,7 @@ Every volunteer helps us reach more neighbors, strengthen our community, and bui
 Ready to get started?
 Join a Community Canvass Our weekend community canvasses are one of the best ways to get involved.
 You'll receive a brief training, meet other volunteers, and spend a couple of hours talking with neighbors across East Cobb.
-Whether it's your first time volunteering or you've worked on campaigns before, you'll be welcomed, supported, and part of a team that's working together for our community. → View Upcoming Community Canvasses Prefer another way to help?
+Whether it's your first time volunteering or you've worked on campaigns before, you'll be welcomed, supported, and part of a team that's working together for our community. → Sign-up for GOTV canvassing Prefer another way to help?
 Complete the volunteer form below, and someone from our campaign will reach out to learn more about your interests.
 Whether you're interested in knocking doors, making phone calls, hosting an event, helping with data, putting up yard signs, or lending another skill, we'd love to have you on the team.
 Share a few details below so we can connect with you about ways to help. **Paid for by Michelle For Georgia House** Photography: Kevin Lowery and Tara Gulledge

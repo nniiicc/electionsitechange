@@ -1,11 +1,13 @@
 {
  "description": "Chris Duncan for State Senate's campaign",
  "final_url": "https://www.votechrisduncan.com/media",
- "fingerprint": "65da6ef53964423f4c9378369ec10513dd5525f6",
+ "fingerprint": "ce5eefa30fc2b00ef226f62d1df0c619aef66cad",
  "format": 3,
  "paid_for_by": "Paid for by Chris Duncan for Senate 2026",
+ "rendered": false,
  "title": "Media — Chris Duncan for State Senate",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2028"
  ]
 }

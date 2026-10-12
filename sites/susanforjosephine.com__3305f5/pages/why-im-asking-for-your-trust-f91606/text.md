@@ -24,7 +24,9 @@ When a resident, a small business, a nonprofit, or a local government hits a wal
 And that means all of House District 3.
 When I say House District 3, I mean Grants Pass, Williams, Cave Junction, and the Illinois Valley, including the communities that hardly ever get named in Salem at all, like Selma and Takilma.
 Grants Pass is the largest city in this district, but it is not the whole district.
-See the Latest News Does Dignity Still Matter?
+See the Latest News Healthcare Reform Worth Doing Is Reform Worth Doing Right I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
+This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
+Please read a recent question and my response below: Read More » Does Dignity Still Matter?
 Josephine County deserves leaders who can disagree without sacrificing dignity, respect, or decency.
 As this campaign has unfolded, I’ve found myself reflecting on the increasingly personal nature of political disagreements and what that means for our community.
 I believe we can stand firmly behind our values, hold one another accountable, and have difficult conversations without tearing people down.
@@ -33,9 +35,6 @@ Read More » My Response to Rep.
 Yunker’s Attack Ad I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
 This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
 Please read a recent question and my response below: Read More » Representing Josephine County, Not a Party I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
-This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
-Please read a recent question and my response below: Read More » The Principles I’ll Take With Me to Salem.
-I hear and read questions from people across our community in all kinds of places, and some deserve more than a quick response.
 This series of question and answer posts gives me the opportunity to answer questions thoughtfully and share those responses with others who may be asking the same question.
 Please read a recent question and my response below: Read More » Home About Priorities Support Volunteer News Community Questions Contact Home About Priorities Support Volunteer News Community Questions Contact Facebook Instagram © # Susan for Josephine.
 All rights Reserved.

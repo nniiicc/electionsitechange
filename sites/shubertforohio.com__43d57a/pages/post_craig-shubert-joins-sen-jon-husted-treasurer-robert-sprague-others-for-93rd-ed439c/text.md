@@ -1,4 +1,4 @@
-top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information DONATE GET INVOLVED All Posts Craig Shubert joins Sen.
+top of page Home Donate Biography Get Involved Campaign Newsletter Voter Information CONTRIBUTE GET INVOLVED All Posts Craig Shubert joins Sen.
 Jon Husted, Treasurer Robert Sprague, others for 93rd Annual Lincoln Day Event Shubert for Ohio May 27 1 min read AKRON – Excessive government regulation continues to burden America’s small businesses, driving up costs for consumers and threatening the survival of family-owned operations.
 That was the message delivered by U.S.
 Senator Jon Husted, keynote speaker at today’s 93rd Lincoln Day Luncheon.

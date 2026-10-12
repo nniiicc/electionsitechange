@@ -22,4 +22,4 @@ It matters to tell her that her constituents oppose this.
 If you’re not in the 53 rd district, you can use the Illinois Policy look up tool to find out who your state rep is, and then go to the Illinois legislature website to look up their contact information at https://www.ilga.gov/House/Members .
 But I also encourage you to go a step further and contact the office of House Speaker Chris Welch directly at (217) 782-5350 (Springfield) or (708) 450-1000 (district office) to tell his staff that you oppose these bills and do not want them to come up for a vote. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

@@ -12,7 +12,7 @@ They do not auto-flow, so you have to enter into each column.
 Name 1 Name 2 Name 3 Name 4 Name 5 Name 6 Name 7 Name 8 Name 9 Name 10 Name 11 Name 12 Ready to Endorse KEITH VARIAN for FL-14?
 Join the above citizens, organizations and respected leaders in supporting KEITH VARIAN by providing your endorsement below!
 Unless otherwise indicated in your submission, we will consider your endorsement as permission to use on this website, literature, and newspaper articles.
-This is a ★ Select Endorsement Type Personal Endorsement Professional Endorsement Organization Endorsement First Name: ★ Last Name: ★ Email: ★ Phone: ★ Organization: Street Address: Street Address 2: City: State: Zip: Endorsement Quote: ★ To help prevent spam, please answer this math question: 5-1?
+This is a ★ Select Endorsement Type Personal Endorsement Professional Endorsement Organization Endorsement First Name: ★ Last Name: ★ Email: ★ Phone: ★ Organization: Street Address: Street Address 2: City: State: Zip: Endorsement Quote: ★ To help prevent spam, please answer this math question: 9-2?
 Translate COUNTING DOWN TO Election Day Support the Campaign Events 1916 Irish Pub I'll be doing a meet and greet next Friday night 07-17-2026 Florida farm to school conference Connecting students with locally grown Florida commodities 04-07-2026 Read More...
 3 Min.
 Politics Hypothetical Scenario 20 Jul 2026, 18:39 Home/Auto State Mandated Insurance Rate Reductions 04 Jul 2026, 13:10 Refilling Strategic Petroleum Reserve(SPR) 21 Jun 2026, 16:35 Read More...

@@ -41,4 +41,4 @@ Finally – there are bills which I would urge you to support rather than oppose
 Remember, this is entirely the choice of the House Speaker under the existing rules.
 So there’s no reform to the Safety Act, no guardrails for assisted suicide, none of the other important legislation which Republicans can’t even work together with moderate Democrats on. https://commons.wikimedia.org/wiki/File:Illinois_House_of_Representatives.jpg; Daniel Schwen, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

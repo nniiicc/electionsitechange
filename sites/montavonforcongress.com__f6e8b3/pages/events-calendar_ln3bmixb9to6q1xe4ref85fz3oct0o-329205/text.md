@@ -4,4 +4,6 @@ Matthew’s platform is built on the belief that the issues our communities face
 In congress, he will fight for true affordability, veterans benefits, social security, healthcare expansions, and common-sense, humane immigration reform.
 Matthew will put people before party and political theater - A change our district deserves.
 We’re excited to see you there!
-Two-item purchase minimum Select FUNDRAISER at checkout buy tickets Previous Previous October 5 Montavon's Marathon finish line PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+Two-item purchase minimum Select FUNDRAISER at checkout buy tickets Previous Previous October 5 Montavon's Marathon finish line PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

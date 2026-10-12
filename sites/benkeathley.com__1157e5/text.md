@@ -12,7 +12,7 @@ Ben helped ensure accountability in prosecutor offices in the St.
 Louis region.
 Co-sponsored legislation to return St.
 Louis metro police to an independent board.
-Ben has fought to reduce sales taxes on necessities like groceries. ¹ Based on the Fiscal Note for SB 190 over 10 years Ben Keathley Explains the Issues Ben Keathley Explains the Issues Play Video Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Now Playing Taxing Districts in Missouri | March 25 2026 Ben Keathley Explains 01:18 Play Video Now Playing Rep.
+Ben has fought to reduce sales taxes on necessities like groceries. ¹ Based on the Fiscal Note for SB 190 over 10 years Ben Keathley Explains the Issues Ben Keathley Explains the Issues Play Video Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Now Playing Senior Property Tax Freeze: 300,000+ Missourians Saving 00:47 Play Video Now Playing Taxing Districts in Missouri | March 25 2026 Ben Keathley Explains 01:18 Play Video Now Playing Rep.
 Ben Keathley on Property Tax Relief in Missouri 14:02 Play Video Rep.
 Ben Keathley Explains the Issues Who can we trust to explain Missouri's issues?
 Ben Keathley.

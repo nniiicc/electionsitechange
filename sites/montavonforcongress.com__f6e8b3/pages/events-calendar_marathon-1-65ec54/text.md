@@ -9,4 +9,6 @@ Final Stop: End of the North Shore Park (Small speaking event) After the event c
 Cleveland Ave., North Fort Myers .
 Come out to say hello, share what matters to you, or walk a few blocks down the street with Matthew!
 Contact Alison Hirsch with any questions about the route and locations.
-570-974,-3101, alison@MontavonforCongress.com Previous Previous September 22 North Port City Commission Meeting Next Next September 28 Montavon’s Marathon: Day 2 PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+570-974,-3101, alison@MontavonforCongress.com Previous Previous September 22 North Port City Commission Meeting Next Next September 28 Montavon’s Marathon: Day 2 PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

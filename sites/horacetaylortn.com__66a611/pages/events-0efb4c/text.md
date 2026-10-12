@@ -2,7 +2,7 @@ HT Horace Taylor Independent · Tennessee 8th About Vision Issues Events Voices 
 Come say hello, ask questions, and be part of the movement — he believes in showing up, not just during election season, but every day.
 On the Trail Upcoming in the District Early voting opens October 14 and Election Day is Tuesday, November 3.
 Every conversation between now and then matters.
-Oct 11 Misa en Español at Sacred Heart October 11, 2026 12:00 PM – 1:00 PM · 1324 Jefferson Ave, Memphis, TN 38104, USA RSVP Oct 15 Candidates’ Meet and Greet for Congressional Districts 5, 8, and 9.
+Oct 15 Candidates’ Meet and Greet for Congressional Districts 5, 8, and 9.
 October 15, 2026 5:30 PM – 7:30 PM · Mt.
 Olive Cathedral Christian Methodist Episcopal Church, 538 Dr.
 MLK Boulevard, Memphis, TN RSVP Oct 15 East Jackson Town Hall October 15, 2026 6:00 PM – 7:30 PM · Home M.B.

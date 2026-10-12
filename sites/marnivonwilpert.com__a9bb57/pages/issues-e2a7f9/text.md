@@ -15,7 +15,7 @@ To lower costs, Marni will expand Medicare’s power to negotiate prescription d
 Her plan includes expanding coverage to dental, hearing, and vision, and mental healthcare so every American can access the full care they need.
 As Deputy City Attorney in San Diego, Marni took on the opioid industry for the harm they caused our communities — and she’ll take that same fight to Congress.
 Marni is ready to stand up to big corporations and protect the benefits families rely on, from affordable healthcare to Social Security.
-RAISE WAGES AND LOWER COSTS From groceries to utilities to housing, life is getting more expensive for working families.
+RAISE WAGES AND LOWER COSTS From groceries to utilities, gas to housing, life is getting more expensive for working families.
 Marni will fight against Trump’s tariff war that has made essential goods more expensive – and take on the corporations raising prices to boost their profits , just like she did when she passed the nation’s first ban on digital only coupons in grocery stores, so that everyone can access discounts on food.
 Marni has spent her career fighting to protect hardworking Americans.
 Right now, the system is rigged, and working people are paying the price while the ultrawealthy see their profits soar.
@@ -53,7 +53,7 @@ She’ll keep fighting to pass gun violence prevention laws that protect our com
 PROMOTE AMERICAN INNOVATION Marni believes the United States must lead the world in setting a cutting-edge, trustworthy standard for innovation that works for working people.
 America should be a global leader in emerging technologies while ensuring that advancements expand access to the financial system, bolster public trust, and allow workers, families, and small businesses to benefit from the economy of the future.
 Marni supports legislation like the CLARITY Act, the GENIUS Act, and similar efforts that provide regulatory clarity for the safe development of emerging technologies that are essential to growing the American economy.
-FOREIGN POLICY THAT KEEPS AMERICA SAFE Marni opposes Trump’s unauthorized wars that rip away, and she’ll work to rebuild America’s alliances and standing in the world.
+FOREIGN POLICY THAT KEEPS AMERICA SAFE Marni opposes Trump’s unauthorized wars, and she’ll work to rebuild America’s alliances and standing in the world.
 She will fight back against the Trump Administration’s attempts to slash education and healthcare funding to pay for forever wars — because our taxpayer dollars should be used to provide access to healthcare and education at home.
 As a Peace Corps volunteer in Botswana during the height of the HIV/AIDS crisis, Marni saw firsthand how American leadership can save lives and strengthen our standing in the world.
 In the Middle East, she’ll push for a two-state solution that ensures lasting peace and security for both Israelis and Palestinians, stand with Ukraine in its fight against Putin’s aggression, end Trump’s costly Iran War and support America’s role in NATO.

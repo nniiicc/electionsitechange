@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation education The agenda Tools for Schools Act An Act relating to career and technical education and state-funded workforce training programs, making appropriations, and including effective date provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including the tradeoffs, and my draft of the legal text.
 Page one See where it goes The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 I've designed tools and systems for a living.
@@ -47,7 +47,7 @@ Point at or tap a box or a stream to see the amounts.
 The career academy fund figure is the most it can award in a year, not what it spent.
 Its grants can buy equipment too, but the law puts new regional centers first.
 The new fund pays only for equipment in a small district's own high school.
-The same numbers, side by side #ago Yearly cap on the career academy fund School infrastructure sales tax → to Career academy fund $5 million Grants go first to new regional centers Career academy fund → to Regional career centers $5 million Under this bill Sales tax money for the career academy fund, unchanged School infrastructure sales tax → to Career academy fund $5 million Grants to regional centers, unchanged Career academy fund → to Regional career centers $5 million New money each year for four years State general fund → to Rural shop equipment fund five million dollars Grants to small districts for their own shops Rural shop equipment fund → to Shops in our own high schools five million dollars The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+The same numbers, side by side #ago Yearly cap on the career academy fund School infrastructure sales tax → to Career academy fund $5 million Grants go first to new regional centers Career academy fund → to Regional career centers $5 million Under this bill Sales tax money for the career academy fund, unchanged School infrastructure sales tax → to Career academy fund $5 million Grants to regional centers, unchanged Career academy fund → to Regional career centers $5 million New money each year for four years State general fund → to Rural shop equipment fund five million dollars Grants to small districts for their own shops Rural shop equipment fund → to Shops in our own high schools five million dollars The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 The math What it costs and who pays Sales tax money for the career academy fund, unchanged $5 million Grants to regional centers, unchanged $5 million New money each year for four years five million dollars Grants to small districts for their own shops five million dollars Under this bill, stream by stream.
 Each bar starts at zero, and they all share one scale.
@@ -77,7 +77,7 @@ That gives about 50 to 150 grants a year, enough for between 200 and all 288 of 
 At that pace, reaching every eligible district would take about 2 to 6 years.
 Wisconsin's figures are stated as "more than" and "over", so its average is approximate, and Iowa districts could ask for less than that too.
 The eligible count is an upper bound, because some of those districts send their high school students to a neighbor.
-The limits of our case What the data does not support We can't say how many shops Iowa has lost.
+Open questions What we don't know yet I can't say how many shops Iowa has lost.
 The state's count of programs in the service area that holds shop, manufacturing and the building trades was 672 in school year 2017-18, and 544 in 2021-22, a drop of 128.
 Four reasons that number doesn't show how many shops shut down: The Department of Education says most of the statewide drop in programs "can be explained due to more accurate reporting and clean-up of programs and course duplication." All programs statewide fell by 123, from 1,830 to 1,707.
 This one area fell by more than that, so the cleanup could account for much of it.
@@ -87,22 +87,19 @@ The area is wider than shop class.
 It also covers engineering, transportation, logistics, architecture and construction.
 The two counts are four school years apart.
 The Department's report calls its table a five-year period because it shows five yearly counts.
-Brett's post and the card we posted earlier said "in five years." The numbers are the state's, but the span was loose and the cleanup caveat wasn't on the card.
 No newer count exists that we could find.
 The Department's annual report stopped breaking programs out by area after school year 2021-22, and the report that replaced it doesn't have the count.
-The shortage list proves a steady shortage, not a growing one.
+The shortage list points to a steady shortage, not a growing one.
 Industrial technology has been on the federal list for Iowa every year since 2003-04, 24 years in a row.
 It stayed on even in school year 2021-22, when Iowa listed only six areas in all.
 But Iowa now lists every teaching area with at least one vacancy, so being on the list today takes very little.
 The shortage Iowa reported for industrial technology was 43 full-time positions in school year 2023-24, and 13 for the year that began this fall.
-"Largest industry" is true by output, not by jobs.
-Manufacturing was the biggest of the industry sectors the federal Bureau of Economic Analysis measures in Iowa's economy in every year since 2016, before and after inflation.
+Manufacturing is the largest industry by output, not by jobs.
+It was the biggest of the industry sectors the federal Bureau of Economic Analysis measures in Iowa's economy in every year since 2016, before and after inflation.
 The lead is thin: 15.9 percent of the state's output in 2025, against 15.5 percent for finance and insurance.
 Manufacturing jobs averaged about 216,000 in 2025, down from 222,300 in 2024, and the count was 212,900 in July 2026.
-Nobody keeps a statewide list of what equipment each high school has, or how old it is.
-We can't tell you how many shops need new machines.
-"AI is not going to plumb a hospital" is Brett's judgment about where work is headed, not a finding from data.
-The other side's strongest points Where the evidence cuts against us The state already pays for career and technical equipment.
+I couldn't find a statewide list of what equipment each high school has, or how old it is, so I can't tell you how many shops need new machines.
+Who gives something up The tradeoffs The state already pays for career and technical equipment.
 The career academy fund can award up to $5 million a year from the school infrastructure sales tax, in grants of up to $1 million for buildings and equipment (Code section 257.51 and section 423F.2).
 Regional planning partnerships may also use state and federal money to buy equipment for their districts (section 256.136).
 The career academy fund gave Indian Hills $1.5 million in two grants for its regional center in Centerville.
@@ -124,9 +121,9 @@ Modest is the right size for this step.
 Someone with a journeyman card has already shown they know the trade, and the state, not the tradesperson, should cover the cost of switching to the classroom.
 The teach Iowa scholar priority may help few shop teachers.
 The grant goes to teachers who finished in the top quarter of a teacher preparation program, or who have comparable academic credentials, and many tradespeople who come in through the authorization won't qualify.
-We also haven't confirmed how much the program is funded this year.
+I also haven't confirmed how much the program is funded this year.
 The state should fund those grants well enough that moving shop teachers up the list doesn't push other teachers down.
-It should also open the rural teacher commitment awards in the PACE Act, our school funding bill, to shop teachers.
+It should also open the rural teacher commitment awards in the PACE Act, my school funding bill, to shop teachers.
 Those awards pay a teacher for each year of a five-to-seven-year commitment to a rural district, and as written they cover licensed teachers, so a shop teacher hired on a career and technical authorization would have to be added.
 Iowa already publishes some training results.
 The state's student outcomes site reports employment for community college graduates and median earnings for people who finish registered apprenticeships.
@@ -135,7 +132,7 @@ That's the reason to write it down.
 A report a department chooses to publish can stop the year it chooses not to, and every program that takes tax dollars should have to show what students got for them.
 Regional centers exist for a reason: machines are expensive, and a small school may not fill a welding class every year.
 Some equipment bought with this fund could sit idle.
-The three-year reports the bill requires will show that, and we'd rather know.
+The three-year reports the bill requires will show that, and I'd rather know.
 Districts that share a program can apply together, and a partner regional center can use the machines too, so a small school doesn't have to fill a welding class on its own.
 If a machine still sits idle, the state should send the next grant to a school that will use it.
 Most Iowa high schoolers already take at least one career and technical class: 107,508 students in school year 2024-25, or 69.3 percent of all high schoolers, according to the Department.

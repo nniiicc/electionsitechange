@@ -42,10 +42,9 @@ Over 30 people have died in ICE custody in 2025 alone .
 ICE has repeatedly failed to provide due process to detainees and has committed crimes against humanity.
 ICE cannot be rehabilitated.
 It simply must be dismantled and abolished.
-Noem must be held accountable, too. help get karen elected Sign the petition Reach out on Instagram @Ko4congress to find out where to find her today!
-Find Karen on the streets of Manhattan District 12.
-If you live in the district and are registered to vote you are eligible to sign her petition.
-Reach out to Karen Change only happens when people participate.
+Noem must be held accountable, too. help get karen elected RSVP to the Karen Ortiz Party!
+Early Voting OCT 24 - NOV 1 Election Day NOVEMBER 3 Look for “Karen Ortiz Party” on the ballot.
+Find Your Poll Site Change only happens when people participate.
 Volunteer Volunteering means giving your time, energy, and voice to help build this movement.
 Volunteers are the backbone of this campaign.
 You can help by: Canvassing and phone banking Helping at events and community gatherings Assisting with outreach, logistics, or creative projects Supporting behind-the-scenes organizing No experience is required.

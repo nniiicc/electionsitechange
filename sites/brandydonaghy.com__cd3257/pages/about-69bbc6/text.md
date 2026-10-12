@@ -1,4 +1,4 @@
-Skip to content Brandy Donaghy.com Home About Issues Legislation Donate ENDORSEMENTS – 2026 Media Brandy Donaghy.com Home About Issues Legislation Donate ENDORSEMENTS – 2026 Media About Brandy Donaghy lives in unincorporated Snohomish County with her family.
+Skip to content Brandy Donaghy.com Home About Issues Legislation ENDORSEMENTS – 2026 Donate Media Brandy Donaghy.com Home About Issues Legislation ENDORSEMENTS – 2026 Donate Media About Brandy Donaghy lives in unincorporated Snohomish County with her family.
 She is a community organizer and volunteers with a number of local, state, and national organizations.
 Brandy credits her mother who was a registered nurse and active with her union in instilling the importance of public service.
 She is a First Gulf War era U.S.
@@ -12,5 +12,5 @@ In Olympia, Brandy serves on the House Consumer Protection and Business Committe
 She has also been appointed to and serves on the Legislative Oral History Committee, the Joint Committee on Veterans and Military Affairs, and the Joint Select Committee on Civic Health.
 Friends of Brandy Donaghy (D) P.
 O.
-Box 12572 Mill Creek, WA 98082 info@brandydonaghy.com @electbrandydonaghy © # BrandyDonaghy.com.
+Box 12572 Mill Creek, WA 98012 info@brandydonaghy.com @electbrandydonaghy © # BrandyDonaghy.com.
 Built using WordPress and Mesmerize Theme .

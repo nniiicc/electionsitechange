@@ -1,4 +1,4 @@
-top of page Home About Candidate Priorities Volunteer Form Get your campaign merch Canvassing Form Donate Check Your VR Status Contact Donate Meet Renita Duncan I am a single mother, a grandmother, and a survivor who thrives.
+top of page Skip to Main Content Home About Candidate Priorities Volunteer Form Get your campaign merch Canvassing Form Donate Check Your VR Status Contact Donate Meet Renita Duncan I am a single mother, a grandmother, and a survivor who thrives.
 I am a servant leader who has spent 35 years doing the work, not talking about it.
 I am running for Georgia House District 147 because this community deserves accountable, attainable representation they can trust to fight with their voice.
 I already understand what it costs to live here, and I have the record to fight for it That breadth of experience, personal, professional, and public, is what Houston County District 147 will have in an advocate who speaks up and legislates with purpose.

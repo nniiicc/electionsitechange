@@ -1,4 +1,4 @@
-top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED NEWS More Use tab to navigate through the menu items.
+top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED ENDORSEMENTS NEWS More Use tab to navigate through the menu items.
 About Tiffani Tiffani McGinnis was born in Nashville, Tennessee, and grew up in a small suburb of Nashville.
 She is a proud product of public schools and, thanks to Pell Grants, student loans, and scholarships, was the first in her family to graduate from college.
 She earned a degree in Health Care Administration and Planning from Tennessee State University, graduating cum laude while working and becoming a mom during college. ​ After graduation, Tiffani worked in the healthcare industry and launched her own small online business.

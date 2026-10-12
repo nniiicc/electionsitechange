@@ -394,10 +394,12 @@ Sen.
 Jackson on the Senate floor: "We can mourn the loss of both Israeli and Palestinian lives.
 We can both condemn the unacceptable acts of antisemitism that are plaguing the Jewish community around our state and acknowledge that our citizens have the right to voice their dissent about the tremendous harm being visited upon Palestinian civilians." Reported by Georgia Recorder, PBS NewsHour, KOMO (Sinclair), WGME, January 25, 2024.
 Bill passed despite her opposition.
-Voting no on Georgia's antisemitism law, she said she holds her Jewish and Israeli friends close.
+One of only six senators to vote no in 2024 on Georgia's antisemitism law, HB 30, she said she holds her Jewish and Israeli friends close.
 Five days later she said the state of Israel is participating in racism ( Rough Draft Atlanta, Jan.
 31, 2024 , and her podcast, Episode 44, Jan.
 30, 2024, in the word cloud below).
+Public schools and colleges may treat antisemitism the same way they treat discrimination based on religion, with a statewide coordinator for complaints and a loss of state funds for schools that do not comply.
+She changed course in 2026 and voted yes on this narrower bill: passage 50 to 2 on March 4, the final Senate vote 46 to 0 on March 25, signed into law May 5, 2026.
 Listen for yourself Sen.
 Jackson has been on record extensively.
 Her own podcast ran 54 episodes.

@@ -1,4 +1,4 @@
-top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED NEWS More Use tab to navigate through the menu items.
+top of page HOME ABOUT TIFFANI PRIORITIES VOTING GET INVOLVED ENDORSEMENTS NEWS More Use tab to navigate through the menu items.
 All Posts Campaign Updates Endorsements Updates on my campaign for state representative district 18.
 Campaign Update: My Lawn Signs are In!
 My lawn signs are here!

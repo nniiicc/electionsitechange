@@ -5,7 +5,7 @@ I believe the best conversations happen face-to-face, and I look forward to earn
 Please check back often, as new events will be added regularly.
 I would love the opportunity to meet you, answer your questions, and discuss how we can work together to make Minnesota more affordable, more accountable, and a better place for families, businesses, seniors, and future generations.
 I look forward to seeing you soon!
-Brad Trahan Candidate for Minnesota House – District 25A #ago This Week This Month ‹ Previous Sun Oct 11 2026 - Mon Oct 11 2027 Next › 14 Oct Wednesday, 5:30 PM – 7:00 PM People's Energy Cooperative Forum 1775 Lake Shady Avenue South, Oronoco, MN, 55960 More than #ago, rural electric cooperatives were born from political action championed by President Franklin D.
+Brad Trahan Candidate for Minnesota House – District 25A #ago This Week This Month ‹ Previous Mon Oct 12 2026 - Tue Oct 12 2027 Next › 14 Oct Wednesday, 5:30 PM – 7:00 PM People's Energy Cooperative Forum 1775 Lake Shady Avenue South, Oronoco, MN, 55960 More than #ago, rural electric cooperatives were born from political action championed by President Franklin D.
 Roosevelt.
 While the issues facing our communities have evolved, our mission remains the same: advocating for the members we serve, which includes 3,385 of your potential constituents.
 As a legislative candidate who is campaigning to serve in the Minnesota House, we would like to invite you to join us in October at our Legislative Energy Forum in Oronoco.

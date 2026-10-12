@@ -24,4 +24,4 @@ But the manner in which anti-ICE activism is being conducted is irresponsible.
 Lastly, when tragedies happen, I ask everyone to give space for investigations to take place.
 Premature and politically slanted statements, whether they come from the White House, from local politicians or from activists, only serve to further divide us. https://commons.wikimedia.org/wiki/File:Immigration_and_Customs_Enforcement_(US)_badge_-_Special_Agent.jpg; www.ice.govUploaded by Carrt81 at en.wikipedia, Public domain, via Wikimedia Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

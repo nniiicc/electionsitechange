@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Delivering for Seniors "As a leader of the state's Committee on Aging, and a 10-year family caregiver, the needs & concerns of seniors and their caregivers, matter!
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Delivering for Seniors "As a leader of the state's Committee on Aging, and a 10-year family caregiver, the needs & concerns of seniors and their caregivers, matter!
 But, that's not enough to drive good policy and the legislation to implement it all the way to solid, bipartisan passage in todays political climate.
 It takes a dedicated team with diverse perspectives & a sense of 'common purpose' .
 My Aging Committee has that".
@@ -18,8 +18,8 @@ Cosponsor of originating legislation to phase-out state income tax on Pension & 
 Cosponsor of 2021's PA 21-69 to deter age discrimination in hiring, Cosponsor / co-introducer of 2019's PA-19-116 to create a searchable database of individuals convicted of crimes, abuse, neglect, exploitation or abandonment of elderly or disabled persons.
 Long-time advocate for Meal on Wheels as part of our seniors' 'safety net', providing more than nutritious meals, but regular 'wellness checks' for seniors living alone.
 (PA 19-157) 30 Mitch4Newtown _full Jamison Bazinet Mitch is an advocate for our seniors, recognized by AARP & ALZ as a caregiver & legislator THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE!
-14 YEAR INCUMBENT SERVING NEWTOWN ENDORSEMENTS AWARDS & HONORS NEWS & LETTERS VOTING INFO Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
+VOTING INFO 14 YEAR INCUMBENT SERVING NEWTOWN AWARDS & HONORS LETTERS NEWS Polls Open In: November 3, 2026 at 6:00 AM Get Updates Thank you for signing up!
 News Bolinsky Awarded 2025 AARP Legislative Achievement Award - Third Straight Year!
 Join Rep Bolinsky for Campaign Kickoff on President's Monday, 2/17/2026, 5 to 7pm Rep Bolinsky Announces 8th Term Run & Accomplishments as Newtown's Voice at State Capitol Bolinsky Offers Thanks for Re-Election to 7th Term Balanced, Ethical & Considerate, Bolinsky Asks for Vote Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

@@ -1,4 +1,4 @@
-top of page A Candidate For Us Candidate for US House of Reps, FL-D4 Meet Mike A Plan for Us Vote by Mail Privacy Policy Mike Sell for Congress (Friends of Mike) Last updated: September 3, 2026 ​ This policy covers mikesell.org and our volunteer engagement games, Bloomers and Dragon Farmer (vote.mikesell.org).
+top of page A Candidate For Us Candidate for US House of Reps, FL-D4 Meet Mike A Plan for Us Resources Privacy Policy Mike Sell for Congress (Friends of Mike) Last updated: September 3, 2026 ​ This policy covers mikesell.org and our volunteer engagement games, Bloomers and Dragon Farmer (vote.mikesell.org).
 The short version: your data stays on your device, we store almost nothing, and we never sell anything. ​ The games: what happens on your phone stays on your phone Bloomers and Dragon Farmer help volunteers invite friends to vote.
 When you choose to check your contacts against the Florida District 4 voter rolls: The comparison runs entirely on your device, in your browser.
 Your contact list is never uploaded to us or anyone else.

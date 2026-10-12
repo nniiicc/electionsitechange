@@ -11,16 +11,22 @@ Inflation over that time was about 40%.
 The pile of poles, wires, and trucks NYSEG is allowed to earn a profit on grew 265%.
 That's where your bill went.
 I spent my career auditing utility bills at Olin, so my part of the evening was practical: how a rate case actually works, and how to check your own bill.
-A few things everyone should do this month: • Get paper bills.
-NYSEG only keeps 13 months online, and online bills change. • Check your service classification.
+A few things everyone should do this month: Get paper bills.
+NYSEG only keeps 13 months online, and online bills change.
+Check your service classification.
 It should say Residential.
-New homes stay Commercial under the builder until you call. • Match your meter number on the bill to the meter on your house. • Look for E's.
-Estimated reads, several months in a row, mean call them. • Check whether it's electric or gas that moved before you blame anyone, including NYSEG.
+New homes stay Commercial under the builder until you call.
+Match your meter number on the bill to the meter on your house.
+Look for E's.
+Estimated reads, several months in a row, mean call them.
+Check whether it's electric or gas that moved before you blame anyone, including NYSEG.
 Two things you can do that actually matter.
-The case is still open; the PSC set temporary rates in May and the final decision is still coming. • File a comment on the rate case.
+The case is still open; the PSC set temporary rates in May and the final decision is still coming.
+File a comment on the rate case.
 It's Case 25-E-0375, and the form takes two minutes: https://documents.dps.ny.gov/public/Comments/PublicComments.aspx?MatterCaseNo=25-E-0375 .
 Or call the PSC opinion line at 1-800-335-2120.
-Say what your bill did this year. • Tell the governor.
+Say what your bill did this year.
+Tell the governor.
 The seven commissioners are her appointees, it's an election year, and she is listening to Western New York right now.
 Use the governor's contact form: https://www.governor.ny.gov/content/governor-contact-form or call (518) 474-8390, weekdays 9 to 5.
 One more thing I said on the record, and I'll say it here.
@@ -47,18 +53,26 @@ Jim Shultz, author of Lessons from Lockport, wrote a column in the Union-Sun & J
 His words, not mine, but I'll take them: "What she has done is spend a career actually working on energy issues in New York." The full column is on the Facebook page: facebook.com/VoteDonnaDyeSholk Not registered yet?
 You have until October 24 That's 13 days from today.
 The county Board of Elections has to receive your registration by Saturday, October 24.
-A postmark on the 24th is not enough. • Check first. voterlookup.elections.ny.gov tells you whether you're on the rolls and where you vote. • Moved, or changed your name since you last voted?
-You need to register again at the new address or name. • Register online at elections.ny.gov/register-vote , or pick up a paper form at the library, the post office, or the county board. • Forward this to one person who isn't registered.
+A postmark on the 24th is not enough.
+Check first! voterlookup.elections.ny.gov tells you whether you're on the rolls and where you vote.
+Moved, or changed your name since you last voted?
+You need to register again at the new address or name.
+Register online at elections.ny.gov/register-vote , or pick up a paper form at the library, the post office, or the county board.
+Forward this to one person who isn't registered.
 That's the whole job.
-Make your plan to vote Election Day is Tuesday, November 3, and the dates before it matter just as much.
-Here is the short version. • Register by Saturday, October 24.
-See above. • Vote early, October 24 to November 1.
+Make your plan to vote Election Day is Tuesday, November 3 , and the dates before it matter just as much.
+Here is the short version.
+Register by Saturday, October 24 .
+See above.
+Vote early, October 24 to November 1 .
 Any registered voter can vote early in person, no reason needed, and the lines are short.
 Your early voting site may not be your usual polling place.
-Look it up at voterlookup.elections.ny.gov . • Vote by mail.
-Request a ballot by October 24 online or by post, or in person at the county board by November 2.
-Mail it back postmarked by November 3, or drop it off. • Election Day, November 3.
-Polls are open 6:00 AM to 9:00 PM.
+Look it up at voterlookup.elections.ny.gov .
+Vote by mail.
+Request a ballot by October 24 online or by post, or in person at the county board by November 2 .
+Mail it back postmarked by November 3, or drop it off.
+Election Day, November 3 .
+Polls are open 6:00 AM to 9:00 PM .
 If you're in line when they close, stay in line.
 Everything above, with links, is on the Vote page of the website: votedonnadyesholk.com/vote The ask: come knock doors with me Here is the honest version.
 We are three weeks out, and the thing that moves votes in a race like this is a neighbor at the door.
@@ -67,7 +81,8 @@ A person.
 I'm out there every week, and I need more people walking with me.
 You do not need experience.
 You get a walk list, a partner, and a short script, and most conversations are two minutes on a porch.
-If you've never done it, come once and see. • Tuesday evenings in Lockport, 5:30 to 9:00 • Saturday and Sunday mornings in Lockport, North Tonawanda, and Niagara Falls Meeting points and any changes are on the Get Involved page: https://www.votedonnadyesholk.com/get-involved .
+If you've never done it, come once and see.
+Tuesday evenings in Lockport, 5:30 to 9:00 Saturday and Sunday mornings in Lockport, North Tonawanda, and Niagara Falls Meeting points and any changes are on the Get Involved page: https://www.votedonnadyesholk.com/get-involved .
 Pick a shift that fits and email volunteer@votedonnadyesholk.com, or just show up.
 If every person reading this brought one friend to one shift, we would cover the district before Election Day.
 That's the whole plan.

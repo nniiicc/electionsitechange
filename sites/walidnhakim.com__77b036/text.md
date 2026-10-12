@@ -1,5 +1,5 @@
 WALID N.
-HAKIM FOR GOVERNOR OF SOUTH CAROLINA HOME PLATFORM BIOGRAPHY VOLUNTEER DONATE Key Platform Objectives View Walids' Full Platform... > 100 Year Plan A Brighter Future Education Reform Education For All Law & Order Reform Protection Under The Law Land Reform Improved Communities Meet Walid N.
+HAKIM FOR GOVERNOR OF SOUTH CAROLINA HOME PLATFORM BIOGRAPHY VOLUNTEER Key Platform Objectives View Walids' Full Platform... > 100 Year Plan A Brighter Future Education Reform Education For All Law & Order Reform Protection Under The Law Land Reform Improved Communities Meet Walid N.
 Hakim New Leadership for South Carolina Born to an American mother, and a Greek/Palestinian father.
 In 1985, his family moved to his mothers home state of South Carolina, where he attended Lexington High School and Newberry College.
 After Iraq invaded Kuwait in 1990, he dropped out of college and enlisted in the US Marine Corps.
@@ -23,8 +23,7 @@ Third-party movements bring fresh ideas, hold major parties accountable, and giv
 Politics should serve people, not corporations or party machines.
 Even one vote for the Green Party sends a powerful message: South Carolina deserves more than the status quo.
 Interviews Social Media View on Instagram Walid N.
-Hakim for Governor DONATE TO: The Campaign To Elect Walid N.
-Hakim EMAIL: WalidSC2026@gmail.com CAMPAIGN: Home Platform Biography Volunteer Privacy Policy ©# DESIGNED FOR THE CAMPAIGN TO ELECT WALID N.
+Hakim for Governor EMAIL: WalidSC2026@gmail.com CAMPAIGN: Home Platform Biography Volunteer Privacy Policy ©# DESIGNED FOR THE CAMPAIGN TO ELECT WALID N.
 HAKIM.
 ALL RIGHTS RESERVED.
 WEBSITE CODED BY CONOR X ROM.

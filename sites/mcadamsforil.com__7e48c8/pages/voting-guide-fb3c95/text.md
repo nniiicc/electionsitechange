@@ -5,6 +5,6 @@ You must be at least 17 years old on or before the date of the Primary Election 
 You must live in your election precinct at least # days prior to Election Day.
 You must not be serving a sentence of confinement in any penal institution as a result of a conviction.
 You may not claim the right to vote anywhere else.
-The 24th Senate District includes parts of Addison, Bartlett, Bloomingdale, Carol Stream, Elk Grove Village, Hanover Park, Itasca, Naperville, Roselle, Warrenville, West Chicago, Wheaton, Winfield, and Wood Dale.
 Are You In District 24?
-Find out on the illinois state senate website Find out on the illinois state senate website Paid for by Citizens for Ben McAdams Privacy Policy
+The 24th Senate District includes parts of Addison, Bartlett, Bloomingdale, Carol Stream, Elk Grove Village, Hanover Park, Itasca, Naperville, Roselle, Warrenville, West Chicago, Wheaton, Winfield, and Wood Dale.
+Proudly featured in Girl, I Guess Progressive Voter Guide Paid for by Citizens for Ben McAdams Privacy Policy

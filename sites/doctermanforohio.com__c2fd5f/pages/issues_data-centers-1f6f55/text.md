@@ -1,4 +1,4 @@
-Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Donate More Home Issues Education Healthcare Good Governance Data Centers Donate Data Centers Data Centers : The state legislature has created a welcoming place for business.
+Search this site Embedded Files Skip to main content Skip to navigation DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate DOCTERMAN FOR OHIO Home Issues Education Healthcare Good Governance Data Centers Unions Donate More Home Issues Education Healthcare Good Governance Data Centers Unions Donate Data Centers Data Centers : The state legislature has created a welcoming place for business.
 It has become a less welcoming place for its citizens.
 The influx of data centers in Ohio these last ten years has contributed to higher electric bills.
 Where local governments are giving 75% tax abatements and signing non-disclosure agreements, the state needs to step in.

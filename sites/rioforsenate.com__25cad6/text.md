@@ -1,7 +1,5 @@
 Skip to Content Open Menu Close Menu 0 0 0 0 Open Menu Close Menu West Virginia: This is our moment.
-We are the Independent Working Class. $#.# $#.# $#.# $#.# $#.# $#.# $#,#.# $#,#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Supporting us by covering the fees we have to pay helps us defeat Shelley Moore Capito!
-#% Cover the Fee DONATE TO HELP US DEFEAT SHELLEY MOORE CAPITO!
-DONATE TO HELP US DEFEAT SHELLEY MOORE CAPITO!
+We are the Independent Working Class.
 Red or blue, West Virginia should work for you.
 VOLUNTEER GRAB GEAR BACK THE BEARD T-Shirt from $20.00 The 100% cotton unisex classic Rio 2026 tee will help you build a uniquely West Virginian movement!
 It sits nicely, maintains sharp lines around the edges, and goes perfectly with standing up to career politician oligarchs like Shelley NO MORE Capito! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural.

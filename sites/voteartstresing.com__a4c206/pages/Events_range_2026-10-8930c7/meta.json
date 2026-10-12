@@ -1,9 +1,10 @@
 {
  "description": "Art Stresing Campaign Events",
  "final_url": "https://voteartstresing.com/Events?range=2026-10",
- "fingerprint": "e5679549fd56d2c3a899b83415ec5bb437ca1d21",
+ "fingerprint": "e352bfd4f23b447fa261b8f80d380acc6c423da3",
  "format": 3,
  "paid_for_by": "Paid for by Campaign for Art Stresing Powered by CampaignPartner",
+ "rendered": false,
  "title": "Art Stresing Campaign Events",
  "years_mentioned": [
   "2026"

@@ -22,4 +22,4 @@ It partners with parents, teaches the True, the Good, and the Beautiful, and for
 That is the education excellence Tawn will stand up for in Lansing: parents choosing the school, and schools free to teach.
 Wednesday, October 7th • about 3 miles • Napoleon Township Napoleon is done.
 Invite Tawn to the next community.
-Invite Tawn Donate Running for YOU • Vote Tawn Tawn Beliger — Republican for Michigan State Senate District 14 PAID FOR BY: TAWN BELIGER CTE, 8365 EARHART RD, SOUTH LYON, MI 48178 © # Vote Tawn ← Previous Leg All Communities →
+Invite Tawn Donate Running for YOU • Vote Tawn Tawn Beliger — Republican for Michigan State Senate District 14 PAID FOR BY: TAWN BELIGER CTE, 8365 EARHART RD, SOUTH LYON, MI 48178 © # Vote Tawn ← Previous Leg Next Leg →

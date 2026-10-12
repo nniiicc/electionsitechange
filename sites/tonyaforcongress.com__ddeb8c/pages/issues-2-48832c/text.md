@@ -1,4 +1,4 @@
-Skip to content Menu HOME BIOGRAPHY ISSUES PHOTO GALLERY CONTACT US: ROLL IT BACK DONATE TODAY Tonya Hudson For Congress Candidate for U.S.
+Skip to content Menu HOME BIOGRAPHY ISSUES PHOTO GALLERY ROLL IT BACK CONTACT US: DONATE TODAY Tonya Hudson For Congress Candidate for U.S.
 House of Representatives, Indiana's 9th District POSITIONS POSITIONS Elaboration by Tonya Hudson Looks like the 119th Congress is acting like the 118th, 117th, 116th …, which consists of the same old, same old politicians in both the U.S.
 House & Senate.
 It’s the same old red & blue Duopoly stripes which does NOT represent the Star-Spangled-Banner.

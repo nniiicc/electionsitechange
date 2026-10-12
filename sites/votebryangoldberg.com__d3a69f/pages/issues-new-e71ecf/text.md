@@ -81,7 +81,7 @@ Women’s reproductive rights aren’t under attack in Tennessee — they’re g
 Deciding when to start a family is between a woman and her family, doctor, and faith.
 Not the government.
 I will take a stand and fight to reverse this disturbing trend and do everything I can through the power of my voice, legislation, and community involvement to stand up for Tennessee’s women.
-Read more about my stance on Women’s Reproductive Right’s in my Opinion Piece in Knoxville Sentinel where I lay out why “as a moderate Democrat, I believe a woman should have the right to make decisions about her body in consultation with her doctor — not politicians.” Transportation Is a Cost-of-Living Issue Every minute spent sitting in traffic costs families money through wasted fuel, vehicle wear and tear, lost productivity, and time that can never be recovered.
+Read more about my stance on Women’s Reproductive Right’s in my Opinion Piece in Knoxville Sentinel where I lay out why “as a moderate Democrat, I believe a woman should have the right to make decisions about her body in consultation with her doctor — not politicians.” Transportation Is a Quality of Life Issue Every minute spent sitting in traffic costs families money through wasted fuel, vehicle wear and tear, lost productivity, and time that can never be recovered.
 Transportation policy isn't just about roads—it's about affordability, public safety, economic opportunity, and quality of life.
 Knox County’s growth has brought tremendous opportunity to our region, but our transportation infrastructure has not kept pace.
 Anyone who regularly drives Pellissippi Parkway, I-40, Alcoa Highway, Cedar Bluff Road, Papermill Road, or Kingston Pike knows the frustration of spending more time in traffic and less time with family.

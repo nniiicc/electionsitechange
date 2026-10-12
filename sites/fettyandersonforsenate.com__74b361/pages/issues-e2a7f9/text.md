@@ -1,7 +1,7 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
-Watch the journey → Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Issues Clear priorities that reflect West Virginia values and focus on results.
-Select an issue Choose an issue Agriculture Campaign Funding (Citizens United) Children and Families Data Centers Economy Energy Environment Free Speech Government Values Healthcare Human Rights Infrastructure International Relations Israel and Palestine Marijuana Military Pregnancy Education, Assistance, and Support Taxation Technology Vaccines War Water Women's Rights Agriculture Campaign Funding (Citizens United) Children and Families Data Centers Economy Energy Environment Free Speech Government Values Healthcare Human Rights Infrastructure International Relations Israel and Palestine Marijuana Military Pregnancy Education, Assistance, and Support Taxation Technology Vaccines War Water Women's Rights Select an issue Choose an issue above to read Rachel's position.
+Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Issues Clear priorities that reflect West Virginia values and focus on results.
+Select an issue Choose an issue Agriculture Campaign Funding (Citizens United) Children and Families Data Centers Economy Energy Environment Free Speech Government Values Healthcare Human Rights Infrastructure International Relations Israel and Palestine Marijuana Military Pregnancy Education, Assistance, and Support Social Security Taxation Technology Vaccines War Water Women's Rights Agriculture Campaign Funding (Citizens United) Children and Families Data Centers Economy Energy Environment Free Speech Government Values Healthcare Human Rights Infrastructure International Relations Israel and Palestine Marijuana Military Pregnancy Education, Assistance, and Support Social Security Taxation Technology Vaccines War Water Women's Rights Select an issue Choose an issue above to read Rachel's position.
 Agriculture Agriculture is a priority industry and the economic and personal wellbeing of the American farmer must be prioritized as a vital security interest for the American people.
 The American government must intervene to protect the American farmer from market instability, foreign takeovers of land and resources and monopolization by industries that will not bear the true costs of their damaging effect on America's environment, farmers, workers and food supply.
 Family farmers must be protected in the interest of the American public.
@@ -108,6 +108,24 @@ All humans are entitled to the protection of their human rights, safe and approp
 Women and gender minorities who have the capacity to become pregnant are entitled to the additional medical services required by their reproductive tracts and reproductive experiences from the initiation of menses through menopause.
 All adult humans have the same human rights regardless of the nature of their reproductive capacity including the right to appropriate educational services, autonomous decision making over their bodies, to choose or refuse medical care, including birth control, to choose their providers and to exercise their rights to privacy.
 Children experiencing pregnancy shall receive special protections and services and shall be protected as much as possible from further medical or physical harm.
+Social Security Social Security is one of our country’s greatest successes and must be preserved for generations to come.
+Social Security taxes are levied on the first $184,500 workers earn in 2026.
+It is projected by some that the imbalance between contributors and recipients will result in shortfalls and reduced payouts by 2032.
+Social Security is one of the most successful social programs in our country.
+Despite economic downturns that have harmed other retirement options, our determination to protect Social Security from corporate raiders has paid off for seniors and our most vulnerable neighbors.
+Although few would say that Social Security payments are enough in our current economy, most agree that an end to the program would result in systemic poverty among seniors and vulnerable populations.
+My recommendation for preserving Social Security at current levels is based on a single principle: fair work results in a stable economy, reduces the risk of harm and disability, and supports a stable tax base.
+My policy recommendations include: 1.
+End the cap on Social Security taxes above $184,500, with moderated increased payments to higher earners; 2.
+Encourage migration of professional workers into the United States, particularly medical professionals; 3.
+Increase investments in educational programs for displaced and disabled workers; 4.
+Increase investment in vocational rehabilitation programs that encourage Social Security recipients to earn to their ability; 5.
+Support programs for new parents, including paid leave and investments in child care access, to encourage stabilization of the birth rate and workforce; 6.
+Divest from AI and technologies designed to reduce workforce participation without guaranteed tax offsets or benefits to the workforce.
+Social Security should remain untouchable by Congress and the Executive.
+Every day, our current administration reflects a lack of respect for our tax dollars and a lack of regard for our citizens’ well-being.
+Wasteful, indulgent spending at the expense of workers and retirees has become the norm.
+Social Security is not a “problem.” It is a great success and must be preserved for generations to come.
 Taxation The American worker pays for one of the most robust economies in the world, but this burden is not allocated fairly among our economic participants.
 The American tax and resource burden must be fairly and equitably distributed among our economy's beneficiaries and participants: individual, corporate and non-profit whatever the income stream.
 No one should be able to live like a king on the money they borrow, while their employees struggle to survive and raise their families on the money they earn.

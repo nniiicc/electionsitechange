@@ -15,6 +15,7 @@ Messaging may include requests for donations.
 Reply “STOP” to opt-out & “HELP” for help.
 Read our Privacy Policy by clicking below or visiting https://gregforpasenate.com/privacy-policy/.
 We do not sell or share your information with any other 3rd party not affiliated with our campaign.
-Visit our Privacy Policy by clicking the link below for more information. to below Phone Home Address * Enter your House Number, Street and Apartment Number(if any) City * Enter your city State * — Choose ONE — New Jersey Other Pennsylvania Select your State ZipCode * Enter your correct 5-digit ZipCode Submit Home Contribute Privacy Policy ©# Greg Bankos for PA Senate.
+Visit our Privacy Policy by clicking the link below for more information.
+Home Address * Enter your House Number, Street and Apartment Number(if any) City * Enter your city us to Message State * — Choose ONE — New Jersey Other Pennsylvania Select your State ZipCode * Enter your correct 5-digit ZipCode Submit Home Contribute Privacy Policy ©# Greg Bankos for PA Senate.
 All Rights Reserved.
 Paid for by Greg Bankos for PA Senate.

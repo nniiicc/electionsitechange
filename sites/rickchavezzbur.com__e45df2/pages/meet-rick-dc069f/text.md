@@ -1,4 +1,4 @@
-top of page HOME MEET RICK ENDORSEMENTS STATEMENTS OF SUPPORT PRIORITIES ADDRESSING HOMELESSNESS GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS GET THE FACTS DONATE HOME MEET RICK ENDORSEMENTS STATEMENTS OF SUPPORT PRIORITIES ADDRESSING HOMELESSNESS GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS GET THE FACTS DONATE CIVIL RIGHTS LEADER.
+top of page HOME MEET RICK ENDORSEMENTS PRIORITIES GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS DONATE HOME MEET RICK ENDORSEMENTS PRIORITIES GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS DONATE CIVIL RIGHTS LEADER.
 ENVIRONMENTAL CHAMPION.
 FIGHTING FOR US.
 Rick Chavez Zbur has spent his life fighting for equality and justice — for LGBTQ+ people, immigrants, communities of color and faith and people living with HIV.
@@ -34,4 +34,4 @@ In 2014, Rick left his law firm to become the Executive Director of Equality Cal
 At Equality California, he directed his legal skills to civil rights work.
 He led the organization through a period of significant growth and an expansion of its mission to include advancing civil rights and social justice for the diverse communities to which LGBTQ+ people belong — communities of color, communities of faith, immigrants, women and people living with HIV.
 Under Rick’s leadership, Equality California has fought to protect and provide healthcare to immigrant communities, enact commonsense gun safety and criminal justice reform, defend workers’ rights and raise the minimum wage to $15, provide universal healthcare coverage, protect reproductive choice and healthcare and finally end the ineffective and broken death penalty system. ​ ​Rick lives in Los Angeles and is the proud co-parent of a 17 year-old daughter and 13 year-old twins, who attend public schools.
-DONATE VOLUNTEER ENDORSE RICK FACEBOOK TWITTER INSTAGRAM PAID FOR BY RE-ELECT RICK CHAVEZ ZBUR FOR ASSEMBLY 2026 (FPPC ID# 1477252) 1700 TRIBUTE ROAD, SUITE 201, SACRAMENTO, CA 95815 Privacy Policy DONATE bottom of page
+DONATE VOLUNTEER ENDORSE RICK FACEBOOK INSTAGRAM PAID FOR BY RE-ELECT RICK CHAVEZ ZBUR FOR ASSEMBLY 2026 (FPPC ID# 1477252) 1700 TRIBUTE ROAD, SUITE 201, SACRAMENTO, CA 95815 Privacy Policy DONATE bottom of page

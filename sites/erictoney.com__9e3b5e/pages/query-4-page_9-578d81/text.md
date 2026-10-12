@@ -25,8 +25,11 @@ It’s time to take our streets back from the opioid crisis destroying Wisconsin
 Read more Fixing Our Crime Labs When crime labs fail, justice fails.
 I’ll clean up the mess—modernize our labs, end the backlog, and hold leadership accountable.
 Victims deserve answers, not excuses, and I’ll make sure our system delivers real results.
-Read more Donate Today to Restore Justice! $25 $100 $250 $1000 Other Latest News Eric Toney brings Attorney General campaign to Monroe county October 21, 2025 SPARTA, Wis.
-(WXOW) – Fond du Lac County District Attorney Eric Toney is… Read more : Eric Toney brings Attorney General campaign to Monroe county Eric Toney Announces Campaign for Wisconsin Attorney General October 21, 2025 “Enough with Broken Promises, it’s time to Bring Conservative, Common-Sense Leadership to… Read more : Eric Toney Announces Campaign for Wisconsin Attorney General Fond du Lac County District Attorney Eric Toney named DA of the Year June 28, 2025 Fond du Lac County District Attorney Eric Toney has won the 2024… Read more : Fond du Lac County District Attorney Eric Toney named DA of the Year 1 … 7 8 9 10 11 GET IN TOUCH First Name * Last Name * Phone Email * Message Consent By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Toney for Attorney General.
+Read more Donate Today to Restore Justice! $25 $100 $250 $1000 Other Latest News In first days of Attorney General campaign, Eric Toney visits St.
+Croix County October 27, 2025 Fond du Lac County District Attorney Eric Toney visited the St.
+Croix… Read more : In first days of Attorney General campaign, Eric Toney visits St.
+Croix County Eric Toney brings Attorney General campaign to Monroe county October 21, 2025 SPARTA, Wis.
+(WXOW) – Fond du Lac County District Attorney Eric Toney is… Read more : Eric Toney brings Attorney General campaign to Monroe county Eric Toney Announces Campaign for Wisconsin Attorney General October 21, 2025 “Enough with Broken Promises, it’s time to Bring Conservative, Common-Sense Leadership to… Read more : Eric Toney Announces Campaign for Wisconsin Attorney General 1 … 7 8 9 10 11 GET IN TOUCH First Name * Last Name * Phone Email * Message Consent By providing your phone number and checking this box, you are consenting to receive marketing and polling text messages to that number from Toney for Attorney General.
 Donations may be solicited.
 Msg frequency varies.
 Msg & data rates may apply.

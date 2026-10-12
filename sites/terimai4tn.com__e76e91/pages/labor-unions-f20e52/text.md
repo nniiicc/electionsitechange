@@ -1,5 +1,5 @@
 Skip to content Teri Mai for Tennessee House District 92 Toggle menu visibility.
-Home Contact Us Donate Privacy Policy Support Labor Unions Posted 2 years ago by Teri Mai Republicans have lined up to fight unions in Tennessee.
+Home Contact Us Donate Privacy Policy Support Labor Unions Posted 3 years ago by Teri Mai Republicans have lined up to fight unions in Tennessee.
 As a matter of fact, Governor Bill Lee recently stated he believes it would be a mistake for workers at the VW plant in Chattanooga to unionize with the United Autoworkers.
 I respectfully and vehemently disagree with the governor.
 According to a December 15, 2021 report by the Economic Policy Institute, “Unions promote economic equality and build worker power, helping workers to win increases in pay, better benefits and safer working conditions.” The positive effects of unions actually spill over to non-unionized workplaces.

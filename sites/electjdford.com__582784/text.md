@@ -24,7 +24,7 @@ You helped me flip a long-held Republican district with the same hard work, comp
 I'll fight to lower healthcare costs, empower all Hoosiers, and make life more affordable for the families who keep Indiana moving.
 As the first openly LGBTQ+ legislator in our state’s history, I know what it means to feel left out and I’m committed to building a state and a nation with liberty and justice for ALL.
 Meet J.D.
-Upcoming Events Catch J.D. around District 5 Monday, October 5, 2026 5:00 AM Hamilton County Monday Canvass & Phonebank Carmel Learn More Tuesday, October 6, 2026 5:00 AM Hamilton County Tuesday Canvass & Phonebank Carmel Learn More Tuesday, October 6, 2026 5:00 AM Howard County Tuesday Canvass & Phonebank Kokomo Learn More Wednesday, October 7, 2026 5:00 AM Hamilton County Wednesday Canvass & Phonebank Carmel Learn More Let's Make History in the 5th District!
+Upcoming Events Catch J.D. around District 5 Monday, October 12, 2026 5:00 AM Hamilton County Monday Canvass & Phonebank Carmel Learn More Tuesday, October 13, 2026 5:00 AM Hamilton County Tuesday Canvass & Phonebank Carmel Learn More Tuesday, October 13, 2026 5:00 AM Howard County Tuesday Canvass & Phonebank Kokomo Learn More Wednesday, October 14, 2026 5:00 AM Hamilton County Wednesday Canvass & Phonebank Carmel Learn More Let's Make History in the 5th District!
 Invest in our fight monthly to bring your voice to Washington.
 Donate Checks can be mailed to: Neighbors to Elect JD Ford P.O.
 Box 4085 Carmel, IN 46032 Join the team Reach Out or Volunteer With J.D.

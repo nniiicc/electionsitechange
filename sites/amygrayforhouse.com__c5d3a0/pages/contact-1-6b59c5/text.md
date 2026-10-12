@@ -1,4 +1,4 @@
-0 Skip to Content Home Policies Get involved Donate Contact Open Menu Close Menu Home Policies Get involved Donate Contact Open Menu Close Menu Home Policies Get involved Donate Contact Join Amy Gray for a joint fundraiser — Tuesday, October 20 at 4 PM.
+0 Skip to Content Home Policies Get involved Donate Contact Open Menu Close Menu Home Policies Get involved Donate Contact Open Menu Close Menu Home Policies Get involved Donate Contact Join Amy Gray for a joint fundraiser — Tuesday, October 20 at 5 PM.
 Click here to donate or RSVP.
 Let’s Work Together Want to help us win?
 Message us.

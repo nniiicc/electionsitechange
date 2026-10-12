@@ -5,7 +5,11 @@ Tyler Macallister and Rep.
 Bill Keating are the two candidates on the November 3 ballot for the 9th District, and Rep.
 Keating is also expected at this forum.
 Thursday, October 15 Come Meet Tyler: Lobster Dinner in Kingston 6 to 9 PM · Boiled Lobster Dinner, $50 Hilltop Athletic Association Club, Kingston Kari MacRae for State Senate and Eric Meschino for State Representative are hosting a boiled lobster dinner with sides, and Tyler is their special guest.
-Come say hello, bring a friend, and ask him a question. × Scan the QR Show this at events — supporters scan to open the page, register, and share on the spot.
+Come say hello, bring a friend, and ask him a question.
+Thursday, October 29 Come Meet Tyler: Get Out the Vote Rally in Sandwich 5:30 to 7:30 PM · Food will be served Sandwich Tavern, 290 MA-130, Forestdale State Representative Steven Xiarhos and the Sandwich, Bourne and Barnstable Republican Town Committees are hosting a get-out-the-vote rally.
+Tyler will be there with Kari MacRae for State Senate, David Vieira for State Representative and Adam Hogue for Barnstable County Commissioner, and you will hear from the candidates.
+Open to all.
+Bring a friend. × Scan the QR Show this at events — supporters scan to open the page, register, and share on the spot.
 Download QR × Share it Grab a graphic and a link — text it, post it, tag @macallister4congress .
 Copy & paste caption × Get the printable flyer Add your details and we’ll hand you the pack — print it, post it, pass it around.
 First name Last name Email * ZIP (optional) Download the pack Please enter a valid email.

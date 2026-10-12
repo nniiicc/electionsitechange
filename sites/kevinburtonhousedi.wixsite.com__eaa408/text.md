@@ -1,5 +1,5 @@
 top of page Built on Home Issues & Policies Thoughts from Kevin Contact Donate Thoughts from Kevin A New Voice for District 14 Kevin Burton is committed to bringing integrity, transparency, and a fresh perspective to Oregon House District 14, one that will provide a voice for all Oregonians and not just those in the majority or those with whom I agree.
-Who is Kevin Burton?
+Endorsements: Oregon Right to Life PAC Stand for Health Freedom Darin Harbick Alek Skarlatos, House District 4 Ed Diehl, House District 17 Lucetta Elmer, House District 24 Who is Kevin Burton?
 Kevin is a life-long Oregonian, born in Nyssa and raised in communities along the I-5 corridor.
 He was a farm kid who grew up raising livestock and helping with the family orchard.
 When not working, he spent his free time hunting, fishing, and hiking the woods near his home.

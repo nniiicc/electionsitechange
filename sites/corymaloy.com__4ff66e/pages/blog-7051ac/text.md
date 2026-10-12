@@ -1,5 +1,14 @@
 Meet Cory The Record Issues The 52 Report Donate Stand With Cory in November Meet Cory The Record Issues The 52 Report Donate Contact Stand With Cory in November The 52 Report From the Desk of Cory Maloy Plain-language explanations of the votes, the bills, and the work of representing District 52.
-Clear filter Sep 28, 2026 Utah Education Funding Is Up.
+Clear filter Oct 11, 2026 Utah Amendments A and B Explained: What Each One Does Two constitutional questions are on your 2026 ballot.
+Amendment A modernizes how the state notifies you about amendments.
+Amendment B requires 60 percent approval to raise taxes by initiative.
+Here is what each does, and why I support both.
+Read More → Oct 11, 2026 Your Ballot Is on Its Way: How and Where to Vote in House District 52 Utah County begins mailing general election ballots Oct.
+13.
+Here are your four ways to vote in House District 52: drop box, mail, early in person, and on Election Day, with locations, hours, and the deadlines that matter.
+Read More → Oct 11, 2026 Utah Healthcare Starts with the People Who Provide It A brain tumor found by chance after a bike crash showed me what good care depends on first: someone has to be there to provide it.
+Here is the healthcare work I have carried in the Legislature, from full practice authority for nurse practitioners to a larger mental health workforce.
+Read More → Sep 28, 2026 Utah Education Funding Is Up.
 Reading Isn't.
 Part 1 of 2.
 Utah has raised school funding for eight straight years, and I voted for all of it.
@@ -124,12 +133,10 @@ It appears likely enough signatures were gathered for a… Read More → Dec 10,
 A more accurate term is tax-restructure.
 Governor Herbert called the Legislature into Special Session to… Read More → No posts match your filter.
 Clear it to see all posts.
-Showing all 51 posts from The 52 Report, hosted here on the campaign site.
-Search Posts Recent Posts Sep 28, 2026 Utah Education Funding Is Up.
+Showing all 54 posts from The 52 Report, hosted here on the campaign site.
+Search Posts Recent Posts Oct 11, 2026 Utah Amendments A and B Explained: What Each One Does Oct 11, 2026 Your Ballot Is on Its Way: How and Where to Vote in House District 52 Oct 11, 2026 Utah Healthcare Starts with the People Who Provide It Sep 28, 2026 Utah Education Funding Is Up.
 Reading Isn't.
-Sep 28, 2026 School Choice in Utah Starts with the Parent Sep 11, 2026 A Day of Infamy at 25, and a Year Without Charlie Kirk Sep 8, 2026 My Principles Made Me a Republican.
-Not the Other Way Around.
-Jun 8, 2026 Where I Stand on the Stratos Data Center in Box Elder County Categories All Posts 51 Community 4 Education 2 Elections 8 Legislation 36 Opinion 1 Archive › 2026 16 September 4 June 3 April 5 March 3 February 1 › 2025 4 August 1 May 1 January 2 › 2024 4 September 2 August 2 › 2023 1 December 1 › 2022 1 January 1 › 2021 10 September 1 May 1 April 1 February 4 January 3 › 2020 14 December 1 November 3 May 1 April 1 March 5 February 1 January 2 › 2019 1 December 1 Popular Tags #Elections 27 #Education 19 #Budget 15 #Taxes 13 #Convention 12 #Growth 11 #Second Amendment 10 #Transparency 10 #Public Safety 8 #Water 8 #Healthcare 6 #Energy 5 #Housing 5 #Life 3 #Data Centers 2 #HB 120 2 #HB 143 2 #HB 146 2 #HB 180 2 #HB 184 2 #HB 57 2 #HB 73 2 #Immigration 2 #Redistricting 2 #SB 195 2 #SB 2001 2 #HB 149 #HB 185 #HB 200 #HB 215 #HB 217 #HB 262 #HB 267 #HB 271 #HB 282 #HB 288 #HB 294 #HB 348 #HB 371 #HB 412 #HB 461 #HB 507 #HB 52 #HB 82 #SB 118 #SB 153 #SB 166 #SB 178 #SB 183 #SB 194 #SB 200 #SB 221 #SB 241 #SB 54 #SR 2 #SR 4 #Tribal Affairs #Veterans Show all 58 tags District 52 Needs a Proven Conservative Voice at the Table.
+Sep 28, 2026 School Choice in Utah Starts with the Parent Categories All Posts 54 Community 4 Education 2 Elections 10 Healthcare 1 Legislation 36 Opinion 1 Archive › 2026 19 October 3 September 4 June 3 April 5 March 3 February 1 › 2025 4 August 1 May 1 January 2 › 2024 4 September 2 August 2 › 2023 1 December 1 › 2022 1 January 1 › 2021 10 September 1 May 1 April 1 February 4 January 3 › 2020 14 December 1 November 3 May 1 April 1 March 5 February 1 January 2 › 2019 1 December 1 Popular Tags #Elections 29 #Education 19 #Budget 15 #Taxes 15 #Convention 12 #Growth 11 #Second Amendment 10 #Transparency 10 #Public Safety 9 #Water 8 #Healthcare 7 #Energy 5 #Housing 5 #Life 3 #Data Centers 2 #HB 120 2 #HB 143 2 #HB 146 2 #HB 180 2 #HB 184 2 #HB 57 2 #HB 73 2 #Immigration 2 #Redistricting 2 #SB 195 2 #SB 2001 2 #HB 149 #HB 16 #HB 185 #HB 200 #HB 215 #HB 217 #HB 240 #HB 262 #HB 264 #HB 267 #HB 269 #HB 271 #HB 282 #HB 288 #HB 294 #HB 295 #HB 301 #HB 348 #HB 371 #HB 412 #HB 461 #HB 481 #HB 507 #HB 52 #HB 82 #SB 118 #SB 153 #SB 166 #SB 178 #SB 183 #SB 194 #SB 200 #SB 221 #SB 24 #SB 241 #SB 26 #SB 36 #SB 54 #SR 2 #SR 4 #Tribal Affairs #Veterans Show all 68 tags District 52 Needs a Proven Conservative Voice at the Table.
 Stand With Cory in November Cory Maloy ™ Utah Values.
 Firmly Defended. [email protected] 801-477-0019 (call or text) Republican · Utah House District 52 The Campaign Meet Cory The Record Issues The 52 Report Blog Contact Stand Firm Stand With Cory in November Volunteer Donate © #–# Albert Cory Maloy.
 All rights reserved.

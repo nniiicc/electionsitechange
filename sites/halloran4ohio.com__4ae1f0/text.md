@@ -26,7 +26,7 @@ Higher Education & Workforce Development Preparing Ohioans for successful career
 Supporting Farmers & Rural Communities Ohio's farmers are essential to our economy, food supply, and local communities.
 I support reducing unnecessary burdens on farmers, protecting farmland, improving rural infrastructure, expanding broadband access, and ensuring agriculture remains a strong part of Ohio's future.
 Meet Kent in the Community!
-Upcoming events: Union County Democratic Headquarters : TBD 23-71 Bypass Meeting : 10/6 @6 PM - 8 PM (with Lora Covrett OH-87) MCBDD Drive-Thru Trick-or-Treat : 10/14, 4:30 - 6:30 PM (with Marion County Democratic Club) Coffee Conversations With Kent: Contact us to schedule one in your neighborhood!
+Upcoming events: Union County Democratic Headquarters : TBD MCBDD Drive-Thru Trick-or-Treat : 10/14, 4:30 - 6:30 PM (with Marion County Democratic Club) Third Thursday Fall Festival : 10/15, 5 - 8 PM (with Downtown Marion, OH) Coffee Conversations With Kent: Contact us to schedule one in your neighborhood!
 Join the Team - Volunteer with Us!
 Real change doesn't happen because of politicians.
 It happens when neighbors come together to make their communities stronger.

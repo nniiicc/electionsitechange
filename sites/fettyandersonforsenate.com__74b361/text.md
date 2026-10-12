@@ -1,6 +1,7 @@
 About Priorities ▾ Platform Issues Events Vote Media ▾ In the News Press Kit Supporter Toolkit Store Donate Volunteer Volunteer Donate 55 counties.
 One WV.
-Watch the journey → Health Care in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → Prev Next Meet Rachel Learn about Rachel's story, values, and why she's running.
+Watch the journey → Education in WV: A Virtual Town Hall · Tonight · 7:00 PM ET Join on Zoom → On the trail Meeting neighbors, listening to concerns, and showing up for communities across West Virginia.
+Prev Next Meet Rachel Learn about Rachel's story, values, and why she's running.
 About Rachel Issues A clear vision for the future of West Virginia.
 Learn about issues Platform Clear priorities that reflect the needs of West Virginians.
 Read the platform Get Involved Sign up to volunteer and help reach voters across the state.

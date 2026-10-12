@@ -1,25 +1,28 @@
-top of page HOME MEET RICK ENDORSEMENTS STATEMENTS OF SUPPORT PRIORITIES ADDRESSING HOMELESSNESS GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS GET THE FACTS DONATE WHAT WE'RE FIGHTING FOR PRIORITES HOME MEET RICK ENDORSEMENTS STATEMENTS OF SUPPORT PRIORITIES ADDRESSING HOMELESSNESS GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS GET THE FACTS DONATE THE HOMELESSNESS CRISIS Rick believes that it is unacceptable to allow people to live on the streets for years, and that we need new approaches to helping the homeless rebuild their lives.
-That’s why Rick has a plan to create a California Housing Corps that would deploy recent college graduates to homeless encampments to earn trust and help the unhoused obtain social and mental health services and help people onto a pathway to permanent housing, employment, and productive lives. ​ We also need to reduce the rising costs of rent, make homeownership more affordable, and ensure new units are actually getting built in our communities.
-AFFORDABLE HOUSING Our housing policies are broken, ineffective and have reached crisis proportions.
-We need to reduce the rising costs of rent, make homeownership more affordable, and deliver solutions for homelessness.
-Rick supports building more affordable housing near transit and work hubs, while protecting the character and livability of existing neighborhoods.
-He will fight to expand rent subsidies, develop transition shelters with wrap around services, and convert vacant buildings into housing for those who need it.
-IMPROVING PUBLIC SAFETY Rick supports a smart approach to reducing crime like reforms to reduce police violence, increase gun safety, and employ qualified professionals who can offer mental health and addiction services to fight the root causes of crime.
-It’s time to fix our broken criminal justice system. ​ As Executive Director of Equality California, Rick worked to reform our criminal justice laws to reduce discriminatory sentencing and reform California’s HIV criminal laws.
-TAKING GUNS OFF OUR STREETS & ENDING GUN VIOLENCE While Rick was head of Equality California, it became the first major LGBTQ+ organization to advocate for gun safety laws that are key in reducing crime in our region.
-In the Assembly, Rick will advance legislation that limits access to guns by those living with mental illness or a history of violent behavior, improve background checks and increase waiting periods, and take military grade weapons and untraceable ghost guns off our streets. ​ Every Californian deserves to feel safe in their homes, communities, schools, and workplaces.
-WOMEN, EQUALITY, & ABORTION RIGHTS Rick has always fought for equality and knows that women should have every opportunity to succeed that men do.
-Rick will fight to guarantee women equal pay for equal work, expand paid family and sick leave, and increase access to affordable child care.
-Rick serves on the board of Planned Parenthood and will fight for women’s healthcare and to protect the right to legal, safe abortion.
-CIVIL RIGHTS & FIGHTING DISCRIMINATION As a civil rights attorney and former Executive Director of Equality California, Rick is recognized as one of our state’s most effective civil rights leaders fighting for equality and justice for LGBTQ+ people, women, immigrants, and communities of color and faith.
-Anti-semitic, anti-Asian, and anti-LGBTQ+ hate crimes are on the rise in our community, and we need principled leaders who will stand up to these attacks.
-Rick will work to pass legislation to protect our community from hate-motivated violence and keep all of us safe.
-He is strongly pro-Israel, and will fight anti-Semitic activities that are sweeping college campuses and our communities.
-CLIMATE CHANGE & PROTECTING OUR ENVIRONMENT As an environmental attorney and former President of California Environmental Voters, Rick believes that the crisis of climate change demands urgent action to invest in clean energy and water conservation, sustainable and affordable housing near transportation and work hubs, new renewable technologies, and environmental education.
-Rick will advance environmental justice and policies that create good jobs and build our economy.
-He’ll protect our coastline from dumping, drilling, and pollution.
-STRENGTHENING OUR ECONOMY & CREATING JOBS From working families, to renters, to small business owners and more, so many people have suffered and experienced loss over the last year.
-Rick wants to make sure that as we recover from the pandemic, we do so fairly and in a way that builds back better and empowers hard working Californians.
-Every Californian deserves the right to organize for quality jobs and good living wages.
-Rick will advocate for worker protections, safe working environments and the creation and preservation of good union jobs and small businesses.
-FACEBOOK TWITTER INSTAGRAM PAID FOR BY RE-ELECT RICK CHAVEZ ZBUR FOR ASSEMBLY 2026 (FPPC ID# 1477252) 1700 TRIBUTE ROAD, SUITE 201, SACRAMENTO, CA 95815 Privacy Policy DONATE bottom of page
+top of page HOME MEET RICK ENDORSEMENTS PRIORITIES GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS DONATE WHAT WE'RE FIGHTING FOR PRIORITES HOME MEET RICK ENDORSEMENTS PRIORITIES GET INVOLVED SHARE YOUR SUPPORT VOLUNTEER ENDORSE RICK MEDIA PHOTOS VIDEOS DONATE HEALTHCARE FOR ALL With Trump and Republicans in Washington cutting Medicaid and threatening Medi-Cal, Rick is fighting to make sure California families don’t lose the healthcare they depend on.
+In the Assembly, he has worked to cut through insurance barriers that delay treatment and make it harder for patients to get the care they need and is leading the fight for access to life-saving medications for patients with rare diseases like ALS and cystic fibrosis.
+Backed by nurses and frontline healthcare workers, Rick will not only fight these cuts and protect Medi-Cal, but will also work to lower healthcare costs and guarantee quality, affordable healthcare for all.
+JOBS & OUR LOCAL ECONOMY Rick believes working people deserve good-paying jobs, safe workplaces, and a fair shot at getting ahead.
+In the Assembly, he passed a law strengthening bargaining rights for public employees and has worked to expand job training and protect thousands of film and television jobs threatened with leaving California.
+Rick will keep standing up for workers, supporting small businesses, and investing in good-paying jobs that strengthen the middle class and keep California’s economy competitive.
+IMPROVING PUBLIC SAFETY Rick has made our neighborhoods safer and cracked down on crime.
+In the Assembly, he helped pass a bipartisan law giving police and prosecutors stronger tools to go after organized retail theft and repeat offenders.
+He has also worked to keep guns away from dangerous people by strengthening protections when someone makes violent or hate-based threats.
+Rick supports a practical approach to public safety that holds serious offenders accountable while investing in prevention, treatment, and safer communities.
+PROTECTING IMMIGRANTS As immigrant communities face escalating federal threats under Donald Trump, Rick is fighting in Sacramento to protect our communities and keep families together.
+He has fought back against ICE overreach in the Legislature, blocking unconstitutional targeting and shielding local communities from federal encroachment.
+Rick believes defending civil rights, due process, and equal treatment under the law is essential to maintaining a safe, just, and prosperous California.
+REPRODUCTIVE FREEDOM With reproductive freedom threatened across the country, Rick has made protecting access to care a top priority.
+A former Planned Parenthood board member, Rick has fought in the Assembly to safeguard abortion patients and healthcare providers from out-of-state legal attacks while securing vital funding to expand reproductive care in California.
+Rick will always defend legal abortion, access to contraception, and a woman's right to control her own body.
+CIVIL RIGHTS & FIGHTING DISCRIMINATION A civil rights attorney, former Equality California leader, and Planned Parenthood LA board member, Rick has spent his life standing up for marginalized communities.
+In the Assembly, Rick delivers results: authoring vital legislation to defend vulnerable youth, protect immigrant families, and safeguard patient privacy.
+Whether standing up for reproductive freedom, LGBTQ+ equality, or immigrant neighbors, Rick knows that an attack against one community is an attack against all.
+He will always fight for our rights, dignity, and safety.
+CLIMATE CHANGE & PROTECTING OUR ENVIRONMENT As an environmental attorney and former President of California Environmental Voters, Rick has spent more than 25 years fighting for bold action to combat climate change and keep our air and water clean.
+In the Assembly, he has passed laws to expand clean energy production and help working families and communities transition to a clean energy economy.
+Rick will keep standing up to polluters; protecting our air, water, coastline, and public lands; and investing in clean energy that creates good-paying jobs, lowers costs for families and reduces pollution and harmful toxins that cause cancer, asthma and lung disease.
+AFFORDABILITY Rick knows families are working hard but still struggling to keep up with the rising cost of everyday life.
+In the Assembly, he has worked to lower utility bills and protect people from skyrocketing insurance premiums or losing their coverage.
+Rick has also fought to block Trump’s tariffs that raised the price on groceries and everyday goods and worked to protect consumers from corporations ripping them off with price gouging.
+Rick will keep working to make everyday essentials more affordable for Californians.
+FACEBOOK INSTAGRAM PAID FOR BY RE-ELECT RICK CHAVEZ ZBUR FOR ASSEMBLY 2026 (FPPC ID# 1477252) 1700 TRIBUTE ROAD, SUITE 201, SACRAMENTO, CA 95815 Privacy Policy DONATE bottom of page

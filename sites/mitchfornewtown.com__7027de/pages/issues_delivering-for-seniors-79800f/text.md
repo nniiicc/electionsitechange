@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Home ❭ Key Issues ❭ DELIVERING FOR SENIORS DELIVERING FOR SENIORS - More affordable options mattered to seniors and their families.
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Home ❭ Key Issues ❭ DELIVERING FOR SENIORS DELIVERING FOR SENIORS - More affordable options mattered to seniors and their families.
 Having choices, including coverage for home-based care, mattered to us.
 "As a leader of the state's Committee on Aging, and a 10-year family caregiver, the needs & concerns of seniors and their caregivers, matter!
 But, that's not enough to drive good policy and the legislation to implement it all the way to solid, bipartisan passage in todays political climate.
@@ -21,4 +21,4 @@ Cosponsor of 2021's PA 21-69 to deter age discrimination in hiring, Cosponsor / 
 Long-time advocate for Meal on Wheels as part of our seniors' 'safety net', providing more than nutritious meals, but regular 'wellness checks' for seniors living alone.
 (PA 19-157) Mitch is an advocate for our seniors, recognized by AARP & ALZ as a caregiver & legislator THERE ARE 3 WAYS TO VOTE THIS YEAR - CLICK HERE TO LEARN MORE! « Previous: LOCAL CONTROL Next: PUBLIC SAFETY, FIRST RESPONDERS & VETERANS » Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

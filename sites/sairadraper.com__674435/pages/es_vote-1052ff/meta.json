@@ -1,9 +1,10 @@
 {
  "description": "Encuentra los tres lugares de voto anticipado más cercanos de Georgia con horarios y direcciones, para la elección general del 3 de noviembre.",
  "final_url": "https://www.sairadraper.com/es/vote",
- "fingerprint": "a9df6089f757b608f03dcd7eeff74c64f3025687",
+ "fingerprint": "9cc302f433e5a3f1b55a6cd6f61c07a18948d93c",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "Encuentra tu lugar de voto anticipado — Saira Draper para el Senado del Distrito 44",
  "years_mentioned": [
   "2026"

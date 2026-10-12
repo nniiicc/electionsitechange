@@ -1,9 +1,10 @@
 {
  "description": "",
  "final_url": "https://jonesfor.us/the-2018-legislative-session-constituent-surveyd000b4d5",
- "fingerprint": "a0998f22e0a529972a4ba2d175b36db1e0950104",
+ "fingerprint": "ae9f5704e19db24893c85c1133a20c333378a650",
  "format": 3,
  "paid_for_by": "",
+ "rendered": false,
  "title": "The 2018 Legislative Session Constituent Survey",
  "years_mentioned": [
   "2016",
@@ -12,6 +13,7 @@
   "2020",
   "2021",
   "2022",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

@@ -1,1 +1,1 @@
-0 Skip to Content Home Bio Videos Jim B Articles News Merchandise Contact Us Open Menu Close Menu Home Bio Videos Jim B Articles News Merchandise Contact Us Open Menu Close Menu Home Bio Videos Jim B Articles News Merchandise Contact Us May 14, 2026
+0 Skip to Content Home Quickie Topics Merchandise Articles News Bio Contact Us Open Menu Close Menu Home Quickie Topics Merchandise Articles News Bio Contact Us Open Menu Close Menu Home Quickie Topics Merchandise Articles News Bio Contact Us May 14, 2026

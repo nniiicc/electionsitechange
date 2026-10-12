@@ -14,7 +14,7 @@ Pagosa Archuleta County 14 & 15 Oct 11:30 a.m.
 Fort Lewis College Tabling FLC Student Union Bldg.
 La Plata County 13 Oct 11:30 a.m.
 The Durango Forum Lunch Durango La Plata County 10 Oct 11:30 a.m.
-Silverton Train Lunch & Meet Up Event Silverton San Juan County 9 Oct 5:00 p.m.
+Silverton Train Lunch & Meet Up Event Silverton San Juan County See More 9 Oct 5:00 p.m.
 Mothers for Awareness & Prevention of Drug Abuse MAPDA Reception Durango La Plata County 9 Oct 7:00 a.m.
 Toastmasters Durango La Plata County 8 Oct 11:30 a.m.
 Republican Women of Montezuma - Lunch Cortez Montezuma County See More 7 Oct 8:00 a.m.

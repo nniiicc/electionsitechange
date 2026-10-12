@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation education The agenda OPEN Act Oversight of Public Expenditures at Nonpublic Schools An Act relating to the education savings account program, and including effective date and applicability provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: a picture of where the money goes, the math, including the tradeoffs, and my draft of the legal text.
 Page one See where it goes The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 Iowa already had school choice.
@@ -45,7 +45,7 @@ Point at or tap a box or a stream to see the amounts.
 Ranges from our model, which anyone can re-run.
 The savings are measured against what vouchers would cost under current law, after paying school aid for students who come back.
 How many come back is not yet known.
-The same numbers, side by side Under current law, before the limit Voucher payments State general fund → to Voucher accounts for private school costs $335 million to $402 million Home district share for voucher students State general fund → to Public school districts $50 million to $60 million First year of the income limit Voucher payments State general fund → to Voucher accounts for private school costs $155 million to $222 million Home district share for voucher students State general fund → to Public school districts $53 million to $63 million Voucher savings, which pay for the school bills State general fund → to HELP, PACE and Tools for Schools $151 million to $218 million School aid for students who come back State general fund → to Public school districts $5 million to $27 million After the last vouchers are paid Voucher savings: the school bills first, then STREAM and CARE State general fund → to HELP, PACE and Tools for Schools $350 million to $459 million School aid for students who come back State general fund → to Public school districts $43 million to $100 million The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+The same numbers, side by side Under current law, before the limit Voucher payments State general fund → to Voucher accounts for private school costs $335 million to $402 million Home district share for voucher students State general fund → to Public school districts $50 million to $60 million First year of the income limit Voucher payments State general fund → to Voucher accounts for private school costs $155 million to $222 million Home district share for voucher students State general fund → to Public school districts $53 million to $63 million Voucher savings, which pay for the school bills State general fund → to HELP, PACE and Tools for Schools $151 million to $218 million School aid for students who come back State general fund → to Public school districts $5 million to $27 million After the last vouchers are paid Voucher savings: the school bills first, then STREAM and CARE State general fund → to HELP, PACE and Tools for Schools $350 million to $459 million School aid for students who come back State general fund → to Public school districts $43 million to $100 million The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 The math What it costs and who pays Voucher savings: the school bills first, then STREAM and CARE $350 million to $459 million School aid for students who come back $43 million to $100 million After the last vouchers are paid, stream by stream.
 Each bar starts at zero, and they all share one scale.
@@ -89,12 +89,12 @@ How the ranges were built.
 Our model, published with the bill, starts from the Legislative Services Agency's projection of voucher accounts and the state's cost per pupil for school year 2026-27.
 It draws what nobody knows yet: the growth rates lawmakers will set, how far the account projection is off, what share of voucher families earn more than the limit, and how many families would move to a public school.
 Each range covers nine in ten of the model's runs, from a fixed seed, so anyone can re-run it and get the same answer.
-The limits of our case What the data does not support The state does not publish voucher families' incomes.
-Our income share comes from the Census Bureau's American Community Survey: 49 percent of Iowa children in a private school or home school, kindergarten through grade twelve, lived in families above three times the poverty line in the 2024 survey.
+Open questions What we don't know yet The state does not publish voucher families' incomes.
+My income share comes from the Census Bureau's American Community Survey: 49 percent of Iowa children in a private school or home school, kindergarten through grade twelve, lived in families above three times the poverty line in the 2024 survey.
 That count includes home-schooled children, uses the Census Bureau's poverty thresholds rather than the federal guidelines the bill uses, and describes families from before the income limit would start.
-We widened the range to allow for all three.
-We can't say how many families would move their children to a public school.
-We found no study of where students go when a voucher program this size ends.
+I widened the range to allow for all three.
+I can't say how many families would move their children to a public school.
+I found no study of where students go when a voucher program this size ends.
 The ranges rest on two figures: in the program's first year about 1 in 8 voucher students came from a public school, and the auditor estimated the program drew 8,838 students into private schools last school year who otherwise would not have been there.
 Those set the scale, not the answer.
 The auditor's 78.5 percent and the Department of Education's two-thirds answer different questions.
@@ -107,27 +107,23 @@ It found kindergarten prices rose most, where every family qualified.
 It does not show every private school raised tuition that much.
 On the program's administrator, the auditor reported that the Odyssey contract was amended three months after it was signed and projected, using the agency's estimates, that the added fees would more than double the contract's yearly cost for fiscal year 2027.
 That is a projection, not a record of payments.
-We couldn't find what the state has actually paid Odyssey, so that figure is not on this page.
+I couldn't find what the state has actually paid Odyssey.
 In February 2025 the auditor reported that the Department refused to provide records on the program's controls ( report ).
 That was his yearly audit of the state's books, and it had findings on the program's controls over contracts, service organizations and eligibility.
 The same audit for the next fiscal year, released in February 2026, lists nine findings and none on the program ( report ).
 That audit looks at the state's financial reporting.
 It is not a full review of the program.
-We claim no misuse of voucher money, and the bill does not depend on any.
-Brett's first post gave a larger per-student figure for this money and a statewide total.
-The only place we found them was a Department statement quoted in the press, and the two don't fit together.
-The figure on page one is the per-student amount from the state's own rates.
-We don't state a statewide total.
+I'm not claiming misuse of voucher money, and the bill does not depend on any.
 Of the private schools that opened since vouchers began and are still open, just one of 60 chose state accreditation, the auditor found.
 The rest are accredited by independent agencies the State Board of Education approves, which the law allows.
 They are accredited schools.
-The other side's strongest points Where the evidence cuts against us Families in Albia and Bloomfield have a private school close to home for the first time, and both are new this year.
+Who gives something up The tradeoffs Families in Albia and Bloomfield have a private school close to home for the first time, and both are new this year.
 This bill ends the voucher that helps many of those families pay for it.
 Families under the income limit lose it too once the program ends.
-That is what a sunset means, and it is Brett's choice, not an accident of drafting.
+That is what a sunset means, and it is my choice, not an accident of drafting.
 The state's first job is the public school every family in Albia and Bloomfield can walk into.
 The voucher savings go to those schools through the HELP Act, the PACE Act and Tools for Schools.
-The PACE Act, our school funding bill, makes each year's school aid raise no smaller than the rise in prices the year before, so the public school down the road stops falling behind every budget cycle.
+The PACE Act, my school funding bill, makes each year's school aid raise no smaller than the rise in prices the year before, so the public school down the road stops falling behind every budget cycle.
 Iowa's private-school families are not much better off than public-school families.
 In the same survey, 48 percent of public-school children were in families above three times the poverty line.
 The income limit would cut roughly half of voucher students, not a small group of wealthy ones.
@@ -151,7 +147,7 @@ The bill keeps all three to the voucher money, which mostly reaches a school as 
 Tuition families pay on their own, gifts and church support stay outside the audit, the hearing and the open records.
 Even so, an annual audit and a public hearing cost a small school time and money.
 For a new school of a few dozen students, that is a real burden, and some may decide the voucher is not worth it before the program ends.
-We think that is still the right trade: a school that takes public money should be able to show the public where it went.
+I think that is still the right trade: a school that takes public money should be able to show the public where it went.
 The Department's rules should keep the yearly report simple for a school that small, and a school that would rather skip the paperwork can turn down voucher money and run on tuition, gifts and church support.
 The draft text The draft bill language For legislators, reporters and anyone who wants the legal wording.
 This is our draft, written the way Iowa bills are written, so you can see exactly what we mean.
@@ -235,7 +231,7 @@ The bill takes effect upon enactment and applies to school budget years beginnin
 Sources Where every number comes from For anyone checking our work.
 Each figure with the site it came from and the day we checked it, and each law the bill cites.
 Show every source Figures 1989 Open enrollment has let families pick a public district since 1989, and private schools and homeschooling were always an option. legis.iowa.gov checked 2026-09-27 $329.6 million Last school year it cost an estimated $329.6 million. legis.iowa.gov checked 2026-09-27 two-thirds In year one, state numbers showed two-thirds of voucher students were already in private school. educate.iowa.gov checked 2026-09-27 about 1 in 8 Only about 1 in 8 came from a public school. educate.iowa.gov checked 2026-09-27 78.5 percent The state auditor estimated this June that 78.5 percent of last school year's users would have been in private school anyway, which works out to about $37,300 for each student the program moved. auditor.iowa.gov checked 2026-09-27 about $37,300 The state auditor estimated this June that 78.5 percent of last school year's users would have been in private school anyway, which works out to about $37,300 for each student the program moved. auditor.iowa.gov checked 2026-09-27 21 to 25 percent Princeton researchers found private kindergarten tuition rose 21 to 25 percent in the program's first year, the one grade where every family qualified. edworkingpapers.com checked 2026-09-27 Thirty-six Iowa counties with no accredited private school.
-Page one says "more than a third of Iowa's counties" (36 of 99), Brett's wording from 2026-10-03. educate.iowa.gov checked 2026-09-27 99 www2.census.gov checked 2026-09-27 $8,148 If you can cover the rest of the tuition and there's a school nearby, you get $8,148 this year. legis.iowa.gov checked 2026-09-27 $1,256 Each voucher student sends about $1,256 of state money back to the home district. legis.iowa.gov checked 2026-09-27 $99,000 That's about $99,000 for a family of four at the line set in 2026, updated yearly. govinfo.gov checked 2026-09-27 $685 Local property taxpayers pay part of the cost of each student who comes back: in school year 2026-27, $685 of the $8,148 state cost per pupil came from local property tax. legis.iowa.gov checked 2026-09-27 49 percent Our income share comes from the Census Bureau's American Community Survey: 49 percent of Iowa children in a private school or home school, kindergarten through grade twelve, lived in families above three times the poverty line in the 2024 survey. www2.census.gov checked 2026-09-27 48 percent In the same survey, 48 percent of public-school children were in families above three times the poverty line. www2.census.gov checked 2026-09-27 2024 Our income share comes from the Census Bureau's American Community Survey: 49 percent of Iowa children in a private school or home school, kindergarten through grade twelve, lived in families above three times the poverty line in the 2024 survey. www2.census.gov checked 2026-09-27 8,838 The ranges rest on two figures: in the program's first year about 1 in 8 voucher students came from a public school, and the auditor estimated the program drew 8,838 students into private schools last school year who otherwise would not have been there. auditor.iowa.gov checked 2026-09-27 just one of 60 Of the private schools that opened since vouchers began and are still open, just one of 60 chose state accreditation, the auditor found. auditor.iowa.gov checked 2026-09-27 nine The same audit for the next fiscal year, released in February 2026, lists nine findings and none on the program (report). auditor.iowa.gov checked 2026-10-01 Laws cited HF 68 The Students First Act (enrolled, 2023), which created the education savings account program in new Code section 257.11B (Sec.
+Page one says "more than a third of Iowa's counties" (36 of 99), Brett's wording from 2026-10-03. educate.iowa.gov checked 2026-09-27 99 www2.census.gov checked 2026-09-27 $8,148 If you can cover the rest of the tuition and there's a school nearby, you get $8,148 this year. legis.iowa.gov checked 2026-09-27 $1,256 Each voucher student sends about $1,256 of state money back to the home district. legis.iowa.gov checked 2026-09-27 $99,000 That's about $99,000 for a family of four at the line set in 2026, updated yearly. govinfo.gov checked 2026-09-27 $685 Local property taxpayers pay part of the cost of each student who comes back: in school year 2026-27, $685 of the $8,148 state cost per pupil came from local property tax. legis.iowa.gov checked 2026-09-27 49 percent My income share comes from the Census Bureau's American Community Survey: 49 percent of Iowa children in a private school or home school, kindergarten through grade twelve, lived in families above three times the poverty line in the 2024 survey. www2.census.gov checked 2026-09-27 48 percent In the same survey, 48 percent of public-school children were in families above three times the poverty line. www2.census.gov checked 2026-09-27 2024 My income share comes from the Census Bureau's American Community Survey: 49 percent of Iowa children in a private school or home school, kindergarten through grade twelve, lived in families above three times the poverty line in the 2024 survey. www2.census.gov checked 2026-09-27 8,838 The ranges rest on two figures: in the program's first year about 1 in 8 voucher students came from a public school, and the auditor estimated the program drew 8,838 students into private schools last school year who otherwise would not have been there. auditor.iowa.gov checked 2026-09-27 just one of 60 Of the private schools that opened since vouchers began and are still open, just one of 60 chose state accreditation, the auditor found. auditor.iowa.gov checked 2026-09-27 nine The same audit for the next fiscal year, released in February 2026, lists nine findings and none on the program (report). auditor.iowa.gov checked 2026-10-01 Laws cited HF 68 The Students First Act (enrolled, 2023), which created the education savings account program in new Code section 257.11B (Sec.
 7, pp.
 2-9).
 For 2023-24 a pupil already in a private school qualified only with household income at or below three hundred percent of the federal poverty guidelines, and for 2024-25 at or below four hundred percent (p.

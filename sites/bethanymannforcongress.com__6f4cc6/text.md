@@ -45,13 +45,14 @@ A few hours at an event.
 Help bring Missourians together, one connection at a time.
 Find your way to help → Get campaign updates ↗ ON THE CAMPAIGN TRAIL The latest.
 And what’s next.
-All news & events → PRESS RELEASE Bethany Mann Calls for Paid Moratorium on New Data Center Construction Until Missouri Communities Have a Say Mann calls for community consent, continued pay for union workers, full lifecycle planning, resource protections, and corporate accountability before additional large-scale data center development moves forward October 10, 2026 Read story ↗ PRESS RELEASE Bethany Mann opposes ruling enacting gerrymandered Missouri congressional map Mann calls for accountability and respect for Missouri voters.
-September 10, 2026 Read story ↗ FROM THE ARCHIVE Defending our water.
-Protecting public health.
-Why Bethany’s campaign puts safe drinking water at the center of the conversation.
-September 10, 2024 Read story ↗ LET’S MEET IN PERSON Be part of the next conversation.
+All news & events → PRESS RELEASE Bethany Mann Opposes Dirty Russian Diesel Imports, Calls for Real Relief for Missouri Farmers As Missouri farmers face rising diesel costs and supply shortages, Mann criticizes temporary Russian sanctions relief and calls for domestic fuel investment, stronger energy security, and protection of agricultural livelihoods.
+October 11, 2026 Read story ↗ PRESS RELEASE Bethany Mann Calls for Paid Moratorium on New Data Center Construction Until Missouri Communities Have a Say Mann calls for community consent, continued pay for union workers, full lifecycle planning, resource protections, and corporate accountability before additional large-scale data center development moves forward October 10, 2026 Read story ↗ PRESS RELEASE Bethany Mann opposes ruling enacting gerrymandered Missouri congressional map Mann calls for accountability and respect for Missouri voters.
+September 10, 2026 Read story ↗ LET’S MEET IN PERSON Be part of the next conversation.
 Campaign events → LET’S BUILD THIS TOGETHER Missouri is worth the work.
 Help power a campaign rooted in our communities.
 Support Bethany ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Bringing Missourians together.
 Facebook ↗ Instagram ↗ TikTok ↗ X ↗ Explore Meet Bethany The issues Endorsements News & events Take part Volunteer Donate ↗ Campaign newsletter ↗ Contact the campaign Mail contributions Bethany Mann for Congress P.O.
-Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗
+Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗ Website privacy preferences We use Wix Analytics to understand visits, popular pages, and how people find this website.
+Allow analytics cookies Essential services remain available with analytics turned off.
+Saving reloads this page to apply your choice.
+Read our privacy policy Save preferences Cancel

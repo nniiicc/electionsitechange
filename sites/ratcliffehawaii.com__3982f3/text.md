@@ -4,8 +4,8 @@ He hopes to continue this work. ​ He received his B.A. in Philosophy at Califo
 Cov moved to Honolulu to attend the University of Hawai ʻ i - Richardson School of Law.
 He has worked for the State and practiced labor law representing unions.
 As the son of a Mexican immigrant, Cov understands the struggles many local immigrant families face today — including the fear and insecurity caused by ICE enforcement. ​ He currently serves on his local neighborhood board and is committed to keeping District 28 affordable, fair, and thriving for working families.
-Endorsements The Vision: Strengthening House District 28 A campaign built on local priorities, dedicated to creating a Hawai ʻ i where our families can thrive for generations.
-Safety and Affordable Housing Expanding attainable housing options while ensuring sustainable community safety for all residents.
+Endorsements The Vision: Strengthening House District 28 Safety and Affordable Housing Expanding attainable housing options while ensuring sustainable community safety for all residents.
+A campaign built on local priorities, dedicated to creating a Hawai ʻ i where our families can thrive for generations.
 Build for our Community Investing in public infrastructure and shared spaces that bring our neighborhoods together.
 Protecting Individual Rights Championing civil liberties and ensuring every voice is heard and protected in our democracy.
 (Deeper) Issues Addressing the complex challenges facing Hawai ʻ i District 28 with transparency and depth.

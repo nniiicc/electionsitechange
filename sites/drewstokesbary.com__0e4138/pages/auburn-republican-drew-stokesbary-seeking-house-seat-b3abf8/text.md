@@ -3,7 +3,5 @@ In the News Auburn Republican Drew Stokesbary seeking House seat THE NEWS TRIBUN
 Cathy Dahlquist.
 Drew Stokesbary announced Thursday he’s running for the state House.
 The House seat represents the 31st District spanning east Pierce and King counties is open because Enumclaw’s Dahlquist is challenging fellow Republican Pam Roach for Senate.
-Read the entire article at TheNewsTribune.com In the News More For You Endorsed by Children’s Campaign Fund!
-Endorsements Stokesbary concerned about auditor’s media silence In the News Rep.
-Stokesbary’s crowdfunding bill featured in GeekWire In the News Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Read the entire article at TheNewsTribune.com In the News More For You Unanimous endorsement from State Patrol Troopers Association Endorsements Sumner hosts open house to discuss Traffic Ave. funding In the News My 2018 Re-Election Campaign Current Events Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

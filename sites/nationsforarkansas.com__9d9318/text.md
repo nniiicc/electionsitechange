@@ -13,4 +13,4 @@ We must do this for every Arkansan.
 Most importantly, I will be working with you-–for a change.
 DONATE with GoodChange DONATE with ActBlue Contact Us Nations for Arkansas (501)733-6700 nations4ar@gmail.com P.
 O.
-Box 293 Conway, AR 72033
+Box 293 Conway, AR 72033 Paid for by Nations for Arkansas

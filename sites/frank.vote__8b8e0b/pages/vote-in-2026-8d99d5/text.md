@@ -4,9 +4,9 @@ If you need to find your voting locations or need additional voting information,
 Open Voter Dashboard Official voter tools Quick links Start with Maricopa County voter services.
 Find My Voting Locations Election Facts Voter Dashboard Arizona Voter Registration Key 2026 dates Oct.
 5, 2026 Last Day to Register to Vote Oct.
-22, 2026 Last Day to Request Early Ballot Oct.
-25, 2026 Final Day to Mail Back Ballot Nov.
-2, 2026 Last Day to Vote Early in Person Nov.
+23, 2026 Last Day to Request Early Ballot Oct.
+27, 2026 Recommended Date to Mail Back Ballot Oct.
+30, 2026 Last Day to Vote Early in Person Nov.
 3, 2026 General Election Day Registration checklist To register to vote in Arizona, you must: Be a citizen of the United States of America.
 Be a resident of Arizona and the county listed on your registration.
 Be 18 years of age on or before the day of the next regular General Election.

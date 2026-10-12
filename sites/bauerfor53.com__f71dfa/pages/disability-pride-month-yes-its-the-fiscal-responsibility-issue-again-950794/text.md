@@ -25,4 +25,4 @@ Whether it’s actual fraud, such as what’s being uncovered in Minnesota, wher
 Comment on the image chosen for this post: I try to find relevant photographs for each post but I could not find an image that I was convinced was in the public domain.
 Accordingly, this image was created using AI. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

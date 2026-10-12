@@ -193,4 +193,12 @@ Your Choices You may opt out of campaign emails at any time using the unsubscrib
 Certain information may be retained as required by campaign finance laws.
 Contact Us Questions about this Privacy Policy?
 Friends of Hadley Haas, PO Box 285, Sewickley PA 15143.
-Email: info@hadleyforpa.com
+Email: info@hadleyforpa.com 0 Skip to Content Home INVEST IN HADLEY!
+Open Menu Close Menu Home INVEST IN HADLEY!
+Open Menu Close Menu Home INVEST IN HADLEY!
+Hadley Haas Courage.
+Compassion.
+Integrity.
+Listen Up!
+Hadley recently joined the At My Kitchen Table Podcast for a thoughtful conversation about her background, values and what brought her to politics.
+At My Kitchen Table with Hadley Haas Karen Shaak Pennsylvania House District 44 is comprised of the following municipalities in western Allegheny County: Aleppo Township Bell Acres Crescent Township Edgeworth Findlay Township Glen Osborne Glenfield Haysville Leet Township Leetsdale Moon Township North Fayette Township Sewickley Sewickley Heights Sewickley Hills Paid for by Friends of Hadley Haas / PO Box 285, Sewickley PA 15143 Contact: info@hadleyforpa.com

@@ -1,5 +1,5 @@
 top of page Donate to Help Reach Cary and Apex Voters Bryson Johnson for NC House District 21 About Bryson About District 21 Donate Socials Facebook Instagram Youtube About NC Representatice Ya Liu The Candidates of District 21 HOW ARE YOU DIFFERENT?
-Blog Asian Americans for Bryson Bryson refuses all PAC money.
+NC Lottery Blog Asian Americans for Bryson Bryson refuses all PAC money.
 When you donate, you fund a campaign run FOR THE PEOPLE, not SPECIAL INTERESTS!
 All Articles Search CCP - Chinese Communist Party Bryson Johnson Jul 19 2 min read Foreign Influence and Transparency Review Representative Ya Liu and CAECA This memorandum summarizes publicly available information regarding Representative Ya Liu, the Chinese American Economic and Cultural Association (CAECA), and documented contacts between CAECA representatives and officials of the Chinese Communist Party (CCP) United Front system.
 This memo is based on research with links to support further investigatory efforts toward making your own conclusions.

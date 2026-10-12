@@ -18,7 +18,7 @@ A Message from Rep.
 John Ley “Two former Washington governors agree with me: Washington State has a spending problem.
 They have an addiction to your money… I fought with House Republicans for 24 and a half hours on the floor of the House trying to offer 80 amendments that would lower your tax bill… I’m fighting for you, but I need your help.
 I need your vote in November to stop expanding the size and scope of government, and to spend your money more wisely.” — WA State Representative John Ley (LD18) Re-Elect John Ley | WA State Representative, 18th Legislative District Fighting for Fiscal Responsibility, Public Safety, and Working Families.
-Affordability Crisis fiscal responsibility No State Income Tax Spending Addiction Washington income tax Working families by John Ley previous Opinion: They’re coming for your money — and your retirement Help me fight for the people and common sense solutions.
+Affordability Crisis fiscal responsibility No State Income Tax Spending Addiction Washington income tax Working families by John Ley previous Opinion: They’re coming for your money — and your retirement next Unpacking Olympia's New Income Tax: What Revenue Bureaucrats Are Planning and Why Voters Must Act Help me fight for the people and common sense solutions.
 I want to serve YOU in Olympia.
 Donate Contact electjohnley@gmail.com P.O.
 Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.

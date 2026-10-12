@@ -1,0 +1,20 @@
+Dr.
+Chao Wu Maryland State Delegate, D9A Widgets Search Skip to content Menu News Update Donate Meet Delegate Chao Wu Delegate Wu Legislative Scholarship Constituent Service Delegate Wu Legislative Bills Delegate Office Hour (Meet and Greet) 2026 HoCo Candidates Search the blog Search for: Follow Blog via Email Enter your email address to follow this blog and receive notifications of new posts by email.
+Email Address Follow Join 1,064 other subscribers Top Posts The Utility RELIEF Act (HB1532) of 2026 Join CA's China Sister City Planning Committee now BGE issue and rate increase request again Chrysalis Rental Pricing Structure Message from CA leadership Proposal of East Coast Infrastructure Investment Bank (ECIIB) Proposed 2018 HCPSS redistricting Howard County ​ Demographic & Land Use Trends​ & General Plan Update​ FY 2022 HCPSS Student Yield Per House Unit Increasing Quick summary of HCPSS portable classroom Blog Stats 537,498 hits Categories Categories Select Category African American (3) AI (1) APFO (3) Asian American (15) B: My articles (2) Baltimore Sun (5) Board Corner (1) board member report (4) BOE (108) budget (3) CAPA (9) CAPAOfHC (4) ChaoWu (837) Chinese American (4) Clarksville (19) Columbia (18) Columbia Association (201) Columbia Flier (4) Culture (4) Education (48) EnglishArticles (1) HCC (1) HCPSS (226) HCPSS audit (2) HoCo County Council (1) Howard County (206) HS13 (1) JROTC (1) MABE (1) Maryland (16) Merriweather Noise (1) NPR (1) OBRC (1) redistricting (13) RHHS (1) River Hill (78) SAAC (1) SAT (1) SisterCity (1) STEM (2) Symphony Woods (6) Tech (3) TheVillager (36) Uncategorized (6) USA (46) WisdomOfDay (2) World Language (2) tracking Authorized by Friends to Elect Chao Wu, Treasurer: Xia Chen Visitor Cluster Search for: Level-Funded Health Benefits 2 Dec 2025 Chao Wu Level-Funded Health Benefits by: David C.
+Smith JD, REBC, CHVA National Association of Benefit & Insurance Professionals NABIP MIA LF Presentation Download The Maryland Insurance Administration will be holding a virtual, open meeting to gather feedback from industry stakeholders, consumers, and others on level-funded health plans, especially for small employers, focusing on how plans are marketed, benefits and potential pitfalls for small employers, and necessary regulatory oversight, to inform potential new regulations.
+An agenda, including a list of questions for discussion, will be released prior to the meeting.
+Feedback will be accepted in advance of, during, and following the meeting.
+Friday, November 21, 2025, 10:00 a.m. – 11:00 a.m.
+This meeting is virtual through the Zoom platform.
+AGENDA Click HERE to view video of meeting.
+Presen​ta​tion ​ NABIP MD Comments ​ – November 20, 2025 Written comments will be accepted through EOD Friday, December 5, 2025 .
+Those can be submitted via email to: mary.kwei@maryland.gov If you would like to present or offer public comments during the virtual public hearing, please notify the MIA in advance of the meeting by submitting your request to mary.kwei@maryland.gov .
+Because of the nature of the ZOOM Events platform, a special invitation is required to be seen and/or be heard via the platform.
+For that reason, the MIA can only assure the opportunity to speak during the virtual public hearing to those interested parties who have signed up by Wednesday, November 19, 2025, and provided an e-mail address to which an invitational link to the virtual meeting can be sent.
+A public access link that allows individuals to view the virtual public hearing will be posted on the MIA’s website.
+To the extent that time and technology permit, the MIA will hear from unregistered participants who access the Zoom Event platform.
+Share this: Share Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related health benefit health care Post navigation ← → Discover more from Dr.
+Chao Wu Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email Name Website %d

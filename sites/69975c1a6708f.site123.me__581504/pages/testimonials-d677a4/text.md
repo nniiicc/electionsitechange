@@ -7,4 +7,4 @@ Upper Ohio Valley Building and Construction Trades Steve will utilize his experi
 We proudly endorse him.
 Roger Romine I endorse Steve Smith for House of Delegates, District 8!
 Committee to Elect Steven L.
-Smith Copyright © # All rights reserved Powered By SITE123 - How to create a website Home About My Story Testimonials ABOUT Contact I BUILT MY SITE FOR FREE USING CREATE YOUR WEBSITE Report Abuse
+Smith Copyright © # All rights reserved Powered by SITE123 - How to create a website Home About My Story Testimonials ABOUT Contact I BUILT MY SITE FOR FREE USING CREATE YOUR WEBSITE Report Abuse

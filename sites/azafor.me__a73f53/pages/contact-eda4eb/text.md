@@ -1,4 +1,4 @@
-0 Skip to Content Home Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Donate $5 Contact Lend me a Hand Do you have questions?
+0 Skip to Content Home Priorities Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Priorities Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Priorities Donate $5 Contact Lend me a Hand Do you have questions?
 Think I missed something?
 I want to hear it all.
 I want to serve you, and I can’t do that without your perspective.

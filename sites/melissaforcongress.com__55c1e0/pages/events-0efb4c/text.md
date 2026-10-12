@@ -10,9 +10,7 @@ Meet at The Backyard Grill 9453 Jones Rd.
 Houston, TX 77065 RSVP for Details Every Thursday!
 (11am – 2pm) CALL BANKING (SHQ) Get involved taking calls with us inviting the community to the next event!
 Houston, TX 77024 By Beltway 8/Memorial Dr.
-RSVP for Details Saturday, October.
-10th (9:30 am – 12:30pm) CARPOOL CANVAS/BLOCK WALK with Spring Democratic Club Take part by walking or driving with us to invite the community to the next event!
-Repeats weekly on Saturday until 10/31 Starbucks Coffee Shop 5911 FM 2920 Spring, TX 77388 Sunday, October 11.
+RSVP for Details Sunday, October 11.
 (4:00 – 6:00pm) CARPOOL CANVAS/BLOCK WALK Take part by walking or driving with us to invite the community to vote!
 Materials and scripts will be given to you!
 Bring a group!
@@ -29,6 +27,11 @@ We are welcoming all voters to the polls.
 Today, learn about being a poll greeter!
 If you are dressing the polls, pick up your signages today!
 If you are a Democratic candidate, drop your signs before today and we will put them up for you!
+Click here to participate!
+Monday, October 12 – 6:00 pm – 7:00 pm ZOOM Poll Watcher Training This is it!
+We need your assistance!
+Today, learn about being a poll watcher!
+This is a 4 hour commitment and you must complete the Secretary of State official poll watcher training.
 Click here to participate!
 Monday, October 12 – 7:00 pm – 8:00 pm ZOOM Poll Greeter Training This is it!
 We need your assistance!

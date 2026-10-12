@@ -18,7 +18,7 @@ Still, you won’t hear me trying to frame man-made policy in biblical terms or 
 God gives us reason, discernment, prayer, His presence, His anointing and also calls us to be prudent, compassionate, just, to care for those who cannot care for themselves, and to especially mind the plight of children, the poor, widows, and the sick.
 He does not explicitly support Obamacare or Trump Accounts or tax abatements or the death penalty or cancelling student loans.
 We are to use judgment and the political process to determine what policy to create and what legislation to pass.
-You will no hear me try to put my policy in God’s mouth.
+You will not hear me try to put my policy in God’s mouth.
 This nation was founded on the freedom of religion, so we practice our faith boldly even while you have the free will not to do the same.
 In my leadership, my faith mostly shapes my character, my mode of speech, how I see people (usually bigger than they see themselves), how I see possibility (endless), and how I treat people (how I’d want to be treated).
 Love, mercy, compassion, forgiveness, honor, honesty, integrity are not at odds with order, transparency, discipline, justice, excellence, consequences, and even power.
@@ -36,7 +36,7 @@ What we have forgotten in this era of what I call pendulum politics, is that whe
 We forget that the precedents we set can be used against us, the rules we break will be broken again as retaliation, and the overreaches we commit will be used to snatch us back to worse positions and conditions than previously existed.
 My concern is that as politicians exploit religion (specifically Christianity) to win cultural wars, those wins will turn into greater losses for religious freedom down the road.
 Nevertheless, I will support legislation that strengthens our right to make decisions that align with our spiritual conscience, maintains our rights to free speech in and out of the pulpit, and our ability to gather and worship freely according to our beliefs.
-Next Thrivability: Beyond Affordability to Economic Possibility You Might Also Like The Thurgood Marshall Plan A Breakthrough Brief: Thrivability for Small Business Humane Immigration Reform and Border Security Healthcare That Works for People, Not Bureaucracies Independence from Party Control STAY UPDATED Let’s Build the Future Together.
+Previous TEXAS-FIRST TECH: AI, TECHNOLOGY & TEXAS’S FUTURE Next Thrivability: Beyond Affordability to Economic Possibility You Might Also Like Strength and Stewardship: A New American Doctrine for War, Peace, and Global Responsibility TEXAS-FIRST TECH: AI, TECHNOLOGY & TEXAS’S FUTURE The Thurgood Marshall Plan Women’s Empowerment & A Fresh Take on Life and Choice Thrivability: Beyond Affordability to Economic Possibility STAY UPDATED Let’s Build the Future Together.
 Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
 Your privacy matters to us, your information stays private — always.
 Questions for Team Future?

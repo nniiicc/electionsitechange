@@ -1,29 +1,7 @@
 0 Skip to Content Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Priorities Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Endorsements Texas Voters Public Officials Organizations Volunteer News Online Store Donate Open Menu Close Menu Home Events About Vikki Folder: Priorities Back Public Education Clean Water Data Centers Healthcare Housing Affordability Cannabis & THC More Issues Folder: Endorsements Back Texas Voters Public Officials Organizations Volunteer News Online Store Donate Campaign Events Join Representative Goodwin on her journey to visit every corner of our great state before Election Day!
 Interested in having Rep.
 Goodwin attend an event in your area?
-Please drop us an email to info@VikkiGoodwin.com Oct 11 GOTV Launch - South Oak Cliff, Dallas Sunday, October 11, 2026 12:00 PM 1:00 PM The Texas Greenhouse (map) Google Calendar ICS Join Vikki Goodwin and Clayton Tucker, nominee for Agricultural Commissioner, for a community conversation and launch of an afternoon of blockwalking in South Oak Cliff.
-Please arrive at 12pm for our event, and make sure that you have RSVP'ed beforehand!
-Together, we will get out the vote to build a better future for Texas.
-Wear comfortable shoes, bring a water bottle and a fully charged cell phone.
-We’ll start with a quick training and then head out to knock doors.
-No experience needed!
-RSVP HERE View Event → Oct 11 House Party — Richardson Sunday, October 11, 2026 2:00 PM 3:30 PM Richardson, TX (map) Google Calendar ICS A neighbor in Richardson is opening their home for an afternoon with Vikki Goodwin — and you're invited!
-This event is a relaxed, neighbor-to-neighbor evening.
-Meet Vikki, hear where she stands on the things that hit home, ask her your questions, and leave with a few simple ways to help her win.
-You don't have to be a Democrat to come.
-Bring a friend!
-RSVP here and we'll send you the exact address and details.
-Hope to see you there!
-View Event → Oct 11 Candidate Forum — Richardson Sunday, October 11, 2026 4:00 PM 7:00 PM Northside Drafthouse & Eatery (map) Google Calendar ICS Join Vikki Goodwin at a candidate forum for the next generation!
-Hear directly from the candidates, ask the questions that matter, and be part of the conversation about where we go from here.
-RSVP HERE With keynote speaker Rep-Elect Junior Ezeonu & guest speaker Rep.
-Salman Bhojani.
-Co-hosted by the Allen Democrats and the Muslim Democratic Caucus of Texas North Dallas.
-View Event → Oct 11 Reception — McKinney Sunday, October 11, 2026 7:00 PM 10:00 PM Gather On The Square (map) Google Calendar ICS Don’t miss the Texas Six Pack Social in McKinney!
-Six candidates.
-Six statewide races.
-One great evening.
-Bring a friend, enjoy beer and brats, and help us welcome THE SIX PACK to McKinney as we raise some Texas-sized support for these six candidates running for statewide office in Texas: Vikki Goodwin for Lieutenant Governor, Nathan Johnson for Attorney General, Sarah Eckhardt for Comptroller of Public Accounts, Ben Flores for Land Commissioner, Clayton Tucker for Commissioner of Agriculture, Jon Rosenthal for Railroad Commissioner RSVP HERE View Event → Oct 12 Volunteer Kickoff Call — Virtual Monday, October 12, 2026 6:00 PM 7:00 PM Google Calendar ICS 22 days.
+Please drop us an email to info@VikkiGoodwin.com Oct 12 Volunteer Kickoff Call — Virtual Monday, October 12, 2026 6:00 PM 7:00 PM Google Calendar ICS 22 days.
 254 counties.
 500,000 Texans.
 We're in the final stretch of the most important election Texas has seen in years, and one of the most powerful ways to win it isn't another ad.
@@ -114,7 +92,29 @@ If you do not possess a form of acceptable photo identification and you cannot r
 The election official will ask if you have moved and then ask you to sign the list of people who have voted in the precinct.
 You will be handed one of the following: A paper ballot on which you will select your choices and which will be counted by hand; A paper ballot on which you will select your choices by darkening an oval, completing an arrow, or “marking” with the aid of a voting machine; or A slip of paper with a numerical access code or, in some counties, a ballot activator card.
 In the next available voting booth, enter your code or card and let the on-screen instructions guide you through the process of electronic voting. ➜ Find more information here , including Mail-In Voting, Emergency Ballots Due To Death in the Family, Curbside Voting, Assistance at the Polls, and more.
-View Event → Oct 10 Blockwalk — Dallas Saturday, October 10, 2026 12:00 PM 3:00 PM Kickoff @ Cuquita's Restaurant (map) Google Calendar ICS Blockwalk with Vikki and Democratic nominee for Congress Kevin Burge in Dallas!
+View Event → Oct 11 Reception — McKinney Sunday, October 11, 2026 7:00 PM 10:00 PM Gather On The Square (map) Google Calendar ICS Don’t miss the Texas Six Pack Social in McKinney!
+Six candidates.
+Six statewide races.
+One great evening.
+Bring a friend, enjoy beer and brats, and help us welcome THE SIX PACK to McKinney as we raise some Texas-sized support for these six candidates running for statewide office in Texas: Vikki Goodwin for Lieutenant Governor, Nathan Johnson for Attorney General, Sarah Eckhardt for Comptroller of Public Accounts, Ben Flores for Land Commissioner, Clayton Tucker for Commissioner of Agriculture, Jon Rosenthal for Railroad Commissioner RSVP HERE View Event → Oct 11 Candidate Forum — Richardson Sunday, October 11, 2026 4:00 PM 7:00 PM Northside Drafthouse & Eatery (map) Google Calendar ICS Join Vikki Goodwin at a candidate forum for the next generation!
+Hear directly from the candidates, ask the questions that matter, and be part of the conversation about where we go from here.
+RSVP HERE With keynote speaker Rep-Elect Junior Ezeonu & guest speaker Rep.
+Salman Bhojani.
+Co-hosted by the Allen Democrats and the Muslim Democratic Caucus of Texas North Dallas.
+View Event → Oct 11 House Party — Richardson Sunday, October 11, 2026 2:00 PM 3:30 PM Richardson, TX (map) Google Calendar ICS A neighbor in Richardson is opening their home for an afternoon with Vikki Goodwin — and you're invited!
+This event is a relaxed, neighbor-to-neighbor evening.
+Meet Vikki, hear where she stands on the things that hit home, ask her your questions, and leave with a few simple ways to help her win.
+You don't have to be a Democrat to come.
+Bring a friend!
+RSVP here and we'll send you the exact address and details.
+Hope to see you there!
+View Event → Oct 11 GOTV Launch - South Oak Cliff, Dallas Sunday, October 11, 2026 12:00 PM 1:00 PM The Texas Greenhouse (map) Google Calendar ICS Join Vikki Goodwin and Clayton Tucker, nominee for Agricultural Commissioner, for a community conversation and launch of an afternoon of blockwalking in South Oak Cliff.
+Please arrive at 12pm for our event, and make sure that you have RSVP'ed beforehand!
+Together, we will get out the vote to build a better future for Texas.
+Wear comfortable shoes, bring a water bottle and a fully charged cell phone.
+We’ll start with a quick training and then head out to knock doors.
+No experience needed!
+RSVP HERE View Event → Oct 10 Blockwalk — Dallas Saturday, October 10, 2026 12:00 PM 3:00 PM Kickoff @ Cuquita's Restaurant (map) Google Calendar ICS Blockwalk with Vikki and Democratic nominee for Congress Kevin Burge in Dallas!
 RSVP HERE We're knocking doors and talking with voters across Dallas County to make sure every Democrat has a plan to vote.
 Talking to voters face-to-face is one of the most effective ways to win, and every door counts.
 What to expect: We'll start with a quick training and get you set up with a walk packet and the MiniVAN app.
@@ -350,25 +350,6 @@ Sign up here View Event → Aug 13 Phone Bank with Team Vikki Thursday, August 1
 It’s going to take all hands on deck to elect the first woman Lieutenant Governor in Texas history — but you can do it from the comfort of your own home.
 Sign up here View Event → Aug 8 Houston IAPAC Candidate Meet & Greet Saturday, August 8, 2026 4:00 PM 6:00 PM Google Calendar ICS Meet the candidates, ask questions, and engage in meaningful conversation about the issues affecting Texas and our community.
 This event offers community members an opportunity to meet the candidates in person, hear their perspectives on issues affecting Texas and the Greater Houston community, ask questions, and participate in meaningful conversation ahead of the November 3, 2026 election.
-View Event → Aug 6 Phone Bank with Team Vikki Thursday, August 6, 2026 6:00 PM 7:00 PM Virtual (map) Google Calendar ICS Join Team Vikki on Thursdays to call voter across the state!
-It’s going to take all hands on deck to elect the first woman Lieutenant Governor in Texas history — but you can do it from the comfort of your own home.
-Sign up here View Event → Jul 30 Hate Has No Home Here: Frisco Town Hall Thursday, July 30, 2026 6:00 PM 8:00 PM Frisco Hall Event Center (map) Google Calendar ICS Stand with us on July 30th from 6:00-8:00 PM at the Frisco Hall Event Center, and show that hate has no home here!
-RSVP here for more information .
-As division and xenophobia rise in our communities, this is a moment for us to come together and stand up for one another.
-Join us for a community Town Hall focused on honest conversation and real solutions.
-This will be a space to hear from local leaders and take meaningful steps toward building a safer, more inclusive community.
-This is not about politics, it’s about people.
-It’s about respect, safety, and ensuring that everyone feels they belong.
-Hosted by Pooja Sethi , nominee for HD-47, and Sandeep Shrivastava , nominee for HD-66 View Event → Jul 30 Phone Bank with Team Vikki Thursday, July 30, 2026 6:00 PM 8:00 PM Virtual (map) Google Calendar ICS Join Team Vikki on Thursdays to call voter across the state!
-It’s going to take all hands on deck to elect the first woman Lieutenant Governor in Texas history — but you can do it from the comfort of your own home.
-Sign up here View Event → Jul 26 100 Days Out: Austin Organizing Rally with Vikki Goodwin Sunday, July 26, 2026 2:00 PM 3:00 PM Google Calendar ICS Election Day is just # days away — and there's no time to waste.
-On Sunday, July 26, Democrats across Texas are coming together for 100 Days Out Organizing Rallies to launch the final push to elect Democrats up and down the ballot!
-RSVP here for the Austin rally .
-This is your chance to meet your local organizing team, connect with Democrats in your community, and hear the plan to win over the next 100 days.
-Join Vikki Goodwin, Democratic candidate for Texas Lieutenant Governor and your local organizing team as they share exactly how you can make a difference and help turn Texas blue.
-Every conversation, every volunteer, and every day counts from here until Election Day.
-Now is the time to get involved.
-Sign up now to reserve your spot, and we'll follow up with all the details.
 View Event → Hear From Vikki By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from the Vikki Goodwin Campaign.
 Vikki Goodwin Campaign’s mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 Messages may include donation asks.

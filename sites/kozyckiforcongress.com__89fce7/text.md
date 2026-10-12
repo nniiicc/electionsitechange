@@ -100,7 +100,7 @@ Contact Us Stay Connected Your Name Your Email Subscribe Thank you!
 You'll hear from us soon.
 Fighting for real solutions in Georgia's 7th Congressional District.
 Quick Links About Tony Military Service Issues News & Press Get Involved Volunteer Donate Contact Yard Signs Contact Georgia's 7th Congressional District Campaign inquiries: team@kozyckiforcongress.com © # Paid for by Kozycki for Congress.
-All Rights Reserved. | Privacy Policy & Terms Admin Tony Kozycki is a former Officer with the United States Navy.
+All Rights Reserved. | Privacy Policy & Terms | Media Admin Tony Kozycki is a former Officer with the United States Navy.
 Use of his military rank, job titles and photographs in uniform does not imply endorsement by the Department of Defense or the Navy.
 Volunteer Name Email Phone ZIP Code How Would You Like to Help?
 Select an option...

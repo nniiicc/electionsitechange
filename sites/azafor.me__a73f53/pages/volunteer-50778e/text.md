@@ -1,4 +1,4 @@
-0 Skip to Content Home Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Donate $5 Contact Lend me a Hand Can you lend a hand?
+0 Skip to Content Home Priorities Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Priorities Donate $5 Contact Lend me a Hand Open Menu Close Menu Home Priorities Donate $5 Contact Lend me a Hand Can you lend a hand?
 First of all, thank you for even clicking on this page.
 The most impactful way to help is by signing up for a shift to canvass, or drive Azalea as she canvasses.
 You can do that here!

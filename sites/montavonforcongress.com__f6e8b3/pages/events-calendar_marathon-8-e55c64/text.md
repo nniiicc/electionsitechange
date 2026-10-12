@@ -2,4 +2,6 @@
 Day 8 takes us right through the heart of Sarasota, focusing on supporting our fantastic local culinary staples, neighborhood markets, and coastal business corridors.
 It is the perfect opportunity to discuss the local economy, small business growth, and community infrastructure.
 Day 8 Route & Highlights: 8:00 AM Kickoff: Mellow Mushroom, 6727 Tamiami Trail, Sarasota, FL 34231 Breakfast Stop: Buddy’s Bagels, 4065 S Tamiami Trail, Sarasota, FL 34231 Afternoon Final Stop: Stokes Seafood, 2745 N Osprey Ave, Sarasota, FL 34234 Swing by to grab a bagel with the team in the morning, join us for fresh local catch conversations at Stokes Seafood in the afternoon, or lace up your sneakers to walk a few blocks through town with Matthew.
-Previous Previous October 3 Montavon's Marathon: Day 7 Next Next October 5 Montavon's Marathon finish line PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+Previous Previous October 3 Montavon's Marathon: Day 7 Next Next October 5 Montavon's Marathon finish line PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

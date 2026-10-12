@@ -4,7 +4,7 @@ I'm running as an independent to lower our property taxes, fix how our schools a
 Request a Yard Sign Where I Stand On the ballot · Tuesday, November 3 Where to find me Come say hello and ask me anything.
 Hosting something in Hudson?
 Invite me.
-OCT 11 Sunday · 4:00 PM Meet The Candidates Chili Cook-off VFW Post 5791, 15 Bockes Rd OCT 13 Tuesday · 6:30 PM Hudson School Board Meeting (Budget) Hills Memorial Library OCT 17 Saturday · 12:00 PM Alvirne Soccer vs Portsmouth Alvirne Stadium OCT 20 Tuesday · 6:00 PM Hudson Candidates Night VFW Post 5791, 15 Bockes Rd Meet Mark 22 years in Hudson.
+OCT 13 Tuesday · 6:30 PM Hudson School Board Meeting (Budget) Hills Memorial Library OCT 17 Saturday · 12:00 PM Alvirne Soccer vs Portsmouth Alvirne Stadium OCT 20 Tuesday · 6:00 PM Hudson Candidates Night VFW Post 5791, 15 Bockes Rd OCT 21 Wednesday · 4:30 PM Have a Beer with Mark Professor's Pizza, 290 Derry Rd Meet Mark 22 years in Hudson.
 Not one day in a party's pocket.
 I've lived in Hudson for 22 years with my wife and our three kids.
 Like a lot of you, I've spent countless evenings and weekends at our local schools, ballfields, and parks, coaching, cheering, and pitching in wherever our town needed a hand.

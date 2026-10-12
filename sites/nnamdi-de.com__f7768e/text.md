@@ -1,4 +1,4 @@
-top of page Nnamdi Chukwuocha for Delaware HOME ABOUT PRIORITIES ENDORSEMENTS More Use tab to navigate through the menu items.
+top of page Skip to Main Content Nnamdi Chukwuocha for Delaware HOME ABOUT PRIORITIES ENDORSEMENTS More Use tab to navigate through the menu items.
 GET INVOLVED!
 Rep.
 Nnamdi O.

@@ -89,9 +89,8 @@ Jon G.
 Burns (2005 - 2013): From District 157 to the Speaker’s Gavel – 3.
 Delvis Dutton (2013 - 2015): The Glennville Anchor Begins – 4.
 Bill Werkheiser (2015 - 2026): A Decade of Steadfast Service • The Lessons of History: A Lease, Not a Title • Why Showing Up Matters: October 17 in Glennville • Event Details – District 157 Candidate Town Hall & Community Forum Support District 157 Back Micah King Every dollar stays directly in District 157 to power our grassroots field movement.
-Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Events Connecting with the Community at the Baxley Block Party Micah King joins families in Baxley, GA, for a community block party, discussing the kitchen-table issues that matter most to District 157.
-Read Dispatch → Policy Can Legislators Really Do Anything About the Cost of Living in Southeast Georgia?
-A transparent policy breakdown of property taxes, HB 581 floating homestead caps, local grocery sales tax stacks, PSC utility rate dockets, and what state legislators can actually change.
+Donate to Campaign Interactive Map District 157 Guide Keep Reading Related Dispatches Articles Introducing the District 157 Opportunity Board: Keeping Good Jobs and Local Talent Right Here at Home Micah King breaks down verified GDOL wage data, the Indeed $750 fee squeeze on rural businesses, and how a $55k trade salary in Southeast Georgia yields $7,000 more net disposable cash than $72k in Atlanta.
+Read Dispatch → Events Connecting with the Community at the Baxley Block Party Micah King joins families in Baxley, GA, for a community block party, discussing the kitchen-table issues that matter most to District 157.
 Read Dispatch → 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

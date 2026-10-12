@@ -1,5 +1,5 @@
 WALID N.
-HAKIM FOR GOVERNOR OF SOUTH CAROLINA HOME PLATFORM BIOGRAPHY VOLUNTEER DONATE PRIVACY POLICY Last Updated: 10/23/2025 This Privacy Policy explains how The Campaign to Elect Walid N.
+HAKIM FOR GOVERNOR OF SOUTH CAROLINA HOME PLATFORM BIOGRAPHY VOLUNTEER PRIVACY POLICY Last Updated: 10/23/2025 This Privacy Policy explains how The Campaign to Elect Walid N.
 Hakim (“the Campaign,” “we,” “our,” or “us”) collects, uses, and protects information obtained through our website, digital platforms, and online services.
 The Campaign may collect personal and non-personal information from users in various ways, including when individuals visit or interact with our website, fill out forms, make donations, subscribe to updates, volunteer, sign petitions, or contact the Campaign.
 Information collected may include names, email addresses, phone numbers, mailing addresses, payment details for donations, and any other data voluntarily provided.
@@ -14,8 +14,7 @@ The Campaign reserves the right to update or modify this Privacy Policy at any t
 Any changes will be reflected on this page with a revised “Last Updated” date.
 For questions about this Privacy Policy or how your information is used, please contact: The Campaign to Elect Walid N.
 Hakim WalidSC2026@gmail.com Walid N.
-Hakim for Governor DONATE TO: The Campaign To Elect Walid N.
-Hakim EMAIL: WalidSC2026@gmail.com CAMPAIGN: Home Platform Biography Volunteer Privacy Policy ©# DESIGNED FOR THE CAMPAIGN TO ELECT WALID N.
+Hakim for Governor EMAIL: WalidSC2026@gmail.com CAMPAIGN: Home Platform Biography Volunteer Privacy Policy ©# DESIGNED FOR THE CAMPAIGN TO ELECT WALID N.
 HAKIM.
 ALL RIGHTS RESERVED.
 WEBSITE CODED BY CONOR X ROM.

@@ -1,4 +1,4 @@
-top of page MIKE WALSH DONATE SHOP VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST Menu Close ENFORCE THE AUDIT PROTECT LOCAL CONTROL SERVE THE PEOPLE MIKE WALSH FOR ATTORNEY GENERAL Upcoming Events Shrewsbury Street Italian Heritage Parade Sun, Oct 11 Shrewsbury Street More info Details Dracut Meet and Greet with Mike Walsh Wed, Oct 14 American Legion More info Details CORE COMMITMENTS ​ 01 ENFORCE THE AUDIT The Attorney General must uphold and defend the laws already on the books including the legislative audit.
+top of page MIKE WALSH DONATE SHOP VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST Menu Close ENFORCE THE AUDIT PROTECT LOCAL CONTROL SERVE THE PEOPLE MIKE WALSH FOR ATTORNEY GENERAL Upcoming Events Dracut Meet and Greet with Mike Walsh Wed, Oct 14 American Legion More info Details CORE COMMITMENTS ​ 01 ENFORCE THE AUDIT The Attorney General must uphold and defend the laws already on the books including the legislative audit.
 No selective enforcement.
 No political shielding.
 If the law requires transparency and accountability, it will be enforced.

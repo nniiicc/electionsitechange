@@ -317,4 +317,4 @@ Replace Theater with Results — Georgia does not need another performer in Wash
 It needs a worker.
 Fighting for real solutions in Georgia's 7th Congressional District.
 Quick Links About Tony Military Service Issues News & Press Get Involved Volunteer Donate Contact Contact Georgia's 7th Congressional District Campaign inquiries: team@kozyckiforcongress.com © # Paid for by Kozycki for Congress.
-All Rights Reserved. | Privacy Policy & Terms Admin
+All Rights Reserved. | Privacy Policy & Terms | Media Admin

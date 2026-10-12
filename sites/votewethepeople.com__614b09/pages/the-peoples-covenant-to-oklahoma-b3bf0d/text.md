@@ -9,7 +9,7 @@ And these Covenants can grow.
 When an Oklahoman brings us a good idea for making government more accountable to the people, we will listen.
 Because this isn’t supposed to be my government.
 It’s our government.
-The People’s Covenant to Oklahoma: Ten Written Covenants COVENANT #1: LET THE PEOPLE DECIDE Your Voice Shouldn’t End on Election Day.
+The People’s Covenant to Oklahoma: Fourteen Written Covenants COVENANT #1: LET THE PEOPLE DECIDE Your Voice Shouldn’t End on Election Day.
 For generations, representative government required citizens to elect someone and then hope that person continued representing them after arriving at the Capitol.
 Technology gives us an opportunity to do something more.
 Through the People’s App, we will create a system that allows registered Oklahoma voters to provide their input on important issues facing our state.
@@ -122,23 +122,71 @@ If we expect international nuclear safeguards abroad, we should welcome applicab
 For information regarding international nuclear safeguards, visit the International Atomic Energy Agency (IAEA) .
 MY COVENANT: I will seek maximum transparency and independent oversight regarding proposed nuclear-related projects and ensure Oklahomans have access to information necessary to make informed decisions about their communities and future.
 It’s a WE thing, not a ME thing. —Robert E.
-Brooks Farmer Servant for Governor Ten Covenants.
+Brooks Farmer Servant for Governor COVENANT #11: A WOMAN’S RIGHT TO PROTECT HER LIFE AND HEALTH Protecting Life Includes Protecting Women’s Lives.
+I believe a woman should have an enforceable constitutional and civil right to choose an abortion when, in reasonable medical judgment, continuing her pregnancy threatens her life or poses a serious risk of substantial harm to her health.
+I call this protection “constitutional abortions.” In these circumstances, the decision belongs solely to the woman whose body, health, and life are at risk, informed by qualified medical advice.
+No man, politician, or government official should make that decision for her.
+No woman should have to wait until she is near death to receive medically necessary care.
+In the research and outreach we conducted among Oklahoma women, we found overwhelming support for allowing women to make this decision when facing serious risks to their life or health.
+We sought women’s views because they are the people whose bodies bear those risks.
+The attorneys I have consulted believe these restrictions raise a reasonable constitutional question worth challenging.
+That is a basis for pursuing legal review, not a claim that the courts have already recognized every protection I propose.
+MY COVENANT: As Governor, I will do everything within my lawful authority to promote and protect a woman’s right to make her own informed medical decisions when her life or health is at serious risk.
+I will pursue legislation, support appropriate legal challenges, and advocate for timely access to medically necessary care.
+It’s a WE thing, not a ME thing.
+COVENANT #12: SAFEGUARD OUR RIGHTS IN THE AGE OF ARTIFICIAL INTELLIGENCE The Future Must Remain Human-Controlled.
+I will form an Oklahoma Commission on Artificial Intelligence to safeguard constitutional rights and protect human life, liberty, privacy, and opportunity as artificial intelligence continues to evolve.
+This commission will bring together technology experts, constitutional scholars, workers, educators, business leaders, and everyday Oklahomans to recommend safeguards against unchecked surveillance, misuse of personal data, and automated systems that threaten freedom, employment, safety, or due process.
+Artificial intelligence should assist people, not replace human accountability.
+MY COVENANT: I will work to ensure that artificial intelligence serves the people of Oklahoma while protecting constitutional rights, privacy, transparency, and human decision-making.
+Artificial intelligence must serve the people.
+The people must remain in control.
+It’s a WE thing, not a ME thing.
+COVENANT #13: PEACEFUL TRIBAL LAND RETURN Honor History Through Voluntary and Lawful Means.
+I promise to work with tribal nations to pursue legislation and, where necessary, constitutional amendments establishing a first opportunity to purchase land within clearly defined and mutually agreed tribal areas.
+Under this proposal, before covered land is sold or transferred to someone who is not a first-degree blood relative, the owner would first offer the land for purchase to the relevant tribal nation or eligible tribal members.
+The proposal would establish fair market purchase terms, reasonable response deadlines, and clear procedures governing sales, gifts, and transfers.
+If the tribe or eligible tribal members decline or fail to respond within the established timeframe, the owner would remain free to proceed with the transaction.
+Any framework must respect tribal sovereignty, treaty obligations, federal law, constitutional property rights, and fair compensation for landowners.
+MY COVENANT: I will work toward a peaceful, voluntary, lawful path allowing tribal nations opportunities to reacquire land over time while protecting families, private property rights, and fair market compensation.
+It’s a WE thing, not a ME thing.
+COVENANT #14: TRUTH AND ACCOUNTABILITY FOR THE OKLAHOMA CITY BOMBING Follow the Evidence Wherever It Leads.
+If elected Governor of Oklahoma, I covenant with the people to pursue a renewed, independent, evidence-based review of the Oklahoma City bombing, including credible evidence of Oklahoma ties that may warrant additional examination.
+I will use the lawful powers of the Governor’s office to seek state and federal cooperation, pursue preservation and lawful release of relevant records, and encourage impartial review of credible unanswered questions.
+I will publicly report requests made, progress achieved, findings received, and obstacles encountered while protecting victims’ privacy, due process rights, and legally confidential information.
+MY COVENANT: I will follow the evidence wherever it leads, without political favoritism, preconceived conclusions, or special treatment for anyone.
+The victims, survivors, families, and first responders deserve remembrance, respect, truth, and accountability.
+It’s a WE thing, not a ME thing. —Robert E.
+Brooks, Farmer Servant Fourteen Covenants.
 One Commitment.
 LET THE PEOPLE DECIDE.
-Give Oklahomans a voice.
+Give Oklahomans a voice in major decisions.
 LET THE PEOPLE SEE.
-Open the doors and the books.
+Open government records, spending, and decision-making.
 PROTECT THE RIGHTS OF EVERY OKLAHOMAN.
+Defend constitutional and civil rights equally.
 WEED OUT CORRUPTION, WASTE, FRAUD, AND ABUSE.
+Follow the money and demand accountability.
 THE PEOPLE’S LIE DETECTOR.
+Create a public record through transparency and scrutiny.
 THE GOVERNOR GOES FIRST.
+Hold the Governor to the same standards imposed on others.
 KEEP THE CAMERAS ON US.
+Preserve a searchable public record of government activity.
 EQUAL ACCOUNTABILITY, NO EXCEPTIONS.
 The same standard for everyone.
 FINANCIAL SACRIFICE AND LIFELONG TRANSPARENCY.
 Public service over personal profit.
 NUCLEAR TRANSPARENCY AND INDEPENDENT OVERSIGHT.
 Independent review, public disclosure, and community accountability.
+A WOMAN’S RIGHT TO PROTECT HER LIFE AND HEALTH.
+Protect life and health through informed medical choice.
+SAFEGUARD OUR RIGHTS IN THE AGE OF ARTIFICIAL INTELLIGENCE.
+Protect privacy, liberty, and human control.
+PEACEFUL TRIBAL LAND RETURN.
+Voluntary, lawful pathways for tribal land restoration.
+TRUTH AND ACCOUNTABILITY FOR THE OKLAHOMA CITY BOMBING.
+Follow the evidence and seek answers.
 These covenants are not campaign slogans.
 They are written commitments by which you can judge me before, during, and after an election.
 If an Oklahoman brings forward another reasonable, constitutional idea that can make elected officials more accountable, I want to hear it.
@@ -146,7 +194,7 @@ Government belongs to the people.
 It’s a WE thing, not a ME thing.
 Robert E.
 Brooks Independent Candidate for Governor of Oklahoma Have We Earned Your Vote?
-Thank you for reviewing our Ten Covenants and the other plans in our historic, people-built platform for Governor of Oklahoma.
+Thank you for reviewing our Fourteen Covenants and the other plans in our historic, people-built platform for Governor of Oklahoma.
 Now we want to hear from YOU .
 Have we earned your vote?
 Is there another Covenant or a change you believe would help us earn it?

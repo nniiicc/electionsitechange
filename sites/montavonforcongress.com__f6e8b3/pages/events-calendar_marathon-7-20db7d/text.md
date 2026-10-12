@@ -2,4 +2,6 @@
 From there, we are heading north up the Tamiami Trail corridor, trekking through the beautiful trails of Osprey, and heading into South Sarasota.
 Today's route features world-class natural parklands and neighborhood staple venues perfect for lively community discussion.
 Day 7 Route & Highlights: 2:00 PM Kickoff: Nokomis Sunset Hut, 690 Tamiami Trail, Nokomis, FL 34275 State Park Pit Stop: Oscar Scherer State Park, 1843 S Tamiami Trail, Osprey, FL 34229 Evening Wrap-Up Event: 6:00PM at the Mellow Mushroom, 6727 Tamiami Trail, Sarasota, FL 34231 Stop by the state park to enjoy the outdoors and chat with the team, meet us for pizza and a policy discussion in the evening, or join Matthew on the road for a few blocks.
-Previous Previous October 2 Montavon's Marathon: Day 6 Next Next October 4 Montavon's Marathon: Day 8 PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+Previous Previous October 2 Montavon's Marathon: Day 6 Next Next October 4 Montavon's Marathon: Day 8 PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

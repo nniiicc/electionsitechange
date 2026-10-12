@@ -1,4 +1,4 @@
-About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News & Letters / Serving The People, Not Politics - A Personal Letter from Newtown's John Godin 20 Oct Saturday, 10:25 AM · 2018 Serving The People, Not Politics - A Personal Letter from Newtown's John Godin To the Editor: A thoughtful listener with a passion for constituent service.
+About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News News / Serving The People, Not Politics - A Personal Letter from Newtown's John Godin 20 Oct Saturday, 10:25 AM · 2018 Serving The People, Not Politics - A Personal Letter from Newtown's John Godin To the Editor: A thoughtful listener with a passion for constituent service.
 This phrase is what I use to describe Mitch Bolinsky in his service to Newtown.
 Do I have a bias towards Mitch?
 Absolutely.
@@ -19,4 +19,4 @@ I don’t want change for Newtown.
 I want Mitch Bolinsky for the 106th State Rep seat.
 John Godin 4 Quarry Ridge Road, Sandy Hook October 18, 2018 Privacy Policy Terms & Conditions Opt-in Form Paid for by Mitch for Newtown 2026 Derek Pisani, Treasurer.
 Approved by Mitch Bolinsky.
-Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage Close Menu
+Powered by CampaignPartner.com - Political Websites About Mitch Join the Team Key Issues Affordabilty Local Control Delivering for Seniors Endorsements Legislation Mitch's Capitol Webpage News Close Menu

@@ -1,7 +1,7 @@
-0 Skip to Content Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Langan for Tennessee Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE Open Menu Close Menu Home About Me Get Involved Yard Signs What I Hope to Accomplish Are They Working for You?
-Inside Tennessee - Round Table with the Candidates DONATE BRYAN LANGAN TENNESSEE SENATE DISTRICT 7 Hi, my name is Bryan Langan, and I’m running to bring accountability to our government and affordability to the people of Tennessee.
+0 Skip to Content Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Langan for Tennessee Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE Open Menu Close Menu Home What I Hope to Accomplish Are They Working for You?
+About Me Inside Tennessee Get Involved Yard Signs DONATE BRYAN LANGAN TENNESSEE SENATE DISTRICT 7 Hi, my name is Bryan Langan, and I’m running to bring accountability to our government and affordability to the people of Tennessee.
 A graduate of the University of Tennessee, and a current resident of the Karns community, I’m running for Tennessee Senate to represent the people of District 7.
 Having worked in blue collar jobs for nearly three decades, my experience in the service industry, management and transition to the trades means I know first-hand the challenges Tennessee workers face.
 I believe that instead of listening to the corporations and special interests, it is time for the voice of people to be heard and hope to earn the vote of every hard-working Tennesseean in District 7.

@@ -13,12 +13,12 @@ It's time to bring real accountability and fiscal responsibility back to Hartfor
 Election Day is approaching fast, and we need all hands on deck.
 Please reach out to Info@PeterLumaj.com to volunteer, grab a yard sign, and help us spread our message.
 Together, we can win this!
-Sincerely, Peter Lumaj Share this: Related Articles Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections.
+Sincerely, Peter Lumaj Share this: Related Articles # Days Until Election Day: Get Ready with Our GOTV App!
+With just # days until Election Day, November 3rd is quickly approaching!
+Our Get Out the Vote App is LIVE In the 2024 Connecticut elections, over 110,000 more votes were cast by Republicans than in the 2022 midterm elections.
 Updates from the campaign trail: September 27, 2026 Team Lumaj remains hard at work on the campaign trail!
 Last weekend, we joined fellow Republicans for the annual Guilford Fair parade.
-We also recently joined the entire statewide ticket in Salisbury to share our visions on how to not only win in November, but also on what each of us would do to ...
-Updates from the campaign trail: September 20, 2026 Last week, our nation paused to remember the bravery of all who responded #ago, and the lives of those who were tragically lost on September 11th.
-We must never forget their sacrifice. ← Back to All News Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
+We also recently joined the entire statewide ticket in Salisbury to share our visions on how to not only win in November, but also on what each of us would do to ... ← Back to All News Stay Connected Get the latest campaign updates, event notifications, and policy news delivered to your inbox.
 Yes, I would like to receive text messages By providing your phone number and checking this box, you are consenting to receive Campaign Updates, Event Invitations, Voter Information, and GOTV Reminders text messages from Lumaj 2026.
 Donations will not be solicited.
 Message frequency varies.
@@ -34,8 +34,6 @@ Campaign About Peter Endorsements Press Kit Get Involved Volunteer Contact Resou
 All rights reserved.
 Paid for by Lumaj 2026, Michele Gregorio, Treasurer.
 Approved by Peter Lumaj.
-ENDORSED BY Alan Colombie Harwinton RTC Chairman "I’m proud to endorse Peter Lumaj for Secretary of the State of Connecticut.
-Peter understands that election integrity is not partisan, it’s about trust between the government and the people.
-Having fled to America from a communist regime, where elections were meaningless, he knows firsthand why secure, transparent, and accountable elections matter.
-He will ensure every lawful vote counts while strengthening safeguards to restore public confidence in our system.
-Peter represents principled leadership that protects the process, not a political party, and I encourage Republicans, independents, and all voters who care about election integrity to support him this fall." View all endorsements →
+ENDORSED BY Sean Cleary State Central Member 16th District "There are few people in politics with the amount of conservative values and integrity as I know Peter Lumaj possesses.
+Regardless of political winds, Peter stands as a true conservative happy warrior taking the fight to increasingly radical liberals.
+The Republican Party is better for having Peter Lumaj tell his story and fight for our values." View all endorsements →

@@ -49,6 +49,18 @@
 },
 {
 "text": "Get Directions",
+"href": "https://www.google.com/maps/dir/?api=1&destination=%27+t%5B3%5D+%27"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/dir/?api=1&destination=130+Main+St%2C+Acushnet%2C+MA+02743"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/dir/?api=1&destination=15+Memorial+Drive%2C+East+Freetown%2C+MA+02717"
+},
+{
+"text": "Get Directions",
 "href": "https://www.google.com/maps/dir/?api=1&destination=154+Gifford+Road%2C+Westport%2C+MA"
 },
 {
@@ -77,7 +89,15 @@
 },
 {
 "text": "Get Directions",
+"href": "https://www.google.com/maps/dir/?api=1&destination=613+Pleasant+St%2C+New+Bedford%2C+MA+02740"
+},
+{
+"text": "Get Directions",
 "href": "https://www.google.com/maps/dir/?api=1&destination=800+Middle+Rd%2C+Acushnet%2C+MA"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/dir/?api=1&destination=816+Main+Road%2C+Westport%2C+MA+02790"
 },
 {
 "text": "Get Directions",
@@ -86,6 +106,10 @@
 {
 "text": "Get Directions",
 "href": "https://www.google.com/maps/dir/?api=1&destination=856+Main+Road%2C+Westport%2C+MA"
+},
+{
+"text": "Get Directions",
+"href": "https://www.google.com/maps/dir/?api=1&destination=One+Government+Center%2C+Fall+River%2C+MA"
 },
 {
 "text": "Get Directions",

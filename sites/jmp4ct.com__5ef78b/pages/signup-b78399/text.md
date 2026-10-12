@@ -5,5 +5,5 @@ Message & data rates may apply.
 Text HELP for support or email jmp4ct@gmail.com.
 View our Privacy Policy for additional information about how your data is used.
 Reply STOP to opt out.
-Paid for by Friends of JMP, Zoe Gluck, Treasurer.
+Paid for by Friends of John-Michael, Zoe Gluck, Treasurer.
 Approved by John-Michael Parker.

@@ -39,7 +39,7 @@ In 2019 the base commander awarded me a commander's coin for reporting a mistake
 Owning my errors is how I was trained to keep patients safe, and it's the same accountability I'll demand in the Senate, starting with my own.
 After that, a travel assignment brought me to Delaware, as a recovery-room (PACU) nurse at Beebe Hospital.
 I'd loved Delaware since childhood vacations, and I made my home here.
-When the pandemic hit, I kept my Delaware home and spent about eight months in the COVID unit at Cooper University Hospital in Camden, New Jersey.
+When the pandemic hit, I kept my Delaware home and felt the call to go to the front lines and serve my country, working in a COVID unit at Cooper University Hospital in Camden, New Jersey.
 Nurses held up phones so families could say goodbye to patients they weren't allowed to visit.
 Cooper University Hospital, Camden, 2020.
 Before a shift, 2020.

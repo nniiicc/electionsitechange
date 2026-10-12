@@ -1,4 +1,4 @@
-top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Play Background Video: Michael MacDonald It's Time for Change!
+top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Blog Play Background Video: Michael MacDonald It's Time for Change!
 We Can Do Better.
 Michael MacDonald isn’t a career politician — and he doesn’t think California’s problems are inevitable.
 He’s spent his career inside local government, seeing what works, what doesn’t, and what happens when Sacramento’s decisions collide with the realities families and communities face every day.
@@ -12,5 +12,5 @@ Sign up for updates, events, and ways to help Michael win in AD 38.
 Contact Us Tell us what matters most to you.
 First name Last name Email * Address Message * Send Message Make California affordable, build the housing we need, confront climate change, protect our freedoms, and create opportunity for the next generation.
 California should be a place where a paycheck covers the bills, a good job can lead to a home, families feel safe, our rights are protected, and the next generation can afford to stay. ​ That shouldn’t be too much to ask. ​ Michael has a plan to make California work for the people who actually live here.
-Restoring Affordability and Opportunity Preparing California for the Future Building a Government That Delivers Results All Events Browse our upcoming events Thu, Oct 15 League of Women Voters Candidate Forum / Anacapa Middle School Details Oct 15, 2026, 6:00 PM – 7:30 PM Anacapa Middle School, 100 S Mills Rd, Ventura, CA 93003, USA Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Michael MacDonald for Assembly District 38 2674 E.
+Restoring Affordability and Opportunity Preparing California for the Future Building a Government That Delivers Results All Events Browse our upcoming events Thu, Oct 15 League of Women Voters Candidate Forum / Anacapa Middle School Details Oct 15, 2026, 6:00 PM – 7:30 PM Anacapa Middle School, 100 S Mills Rd, Ventura, CA 93003, USA Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Blog Michael MacDonald for Assembly District 38 2674 E.
 Main Street, Suite 316 Ventura, CA 93003 info@michaelmacdonaldforassembly.com Paid for by Michael MacDonald for Assembly 2026 | FPPC ID#1488242 bottom of page

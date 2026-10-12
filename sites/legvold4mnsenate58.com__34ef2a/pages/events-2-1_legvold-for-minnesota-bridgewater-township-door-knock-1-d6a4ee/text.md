@@ -12,4 +12,5 @@ Head over to this Mobilize page for directions on where to meet and a heads up s
 Questions?
 Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
 Previous Previous October 11 Legvold for Minnesota - Northfield Doorknock with State Senate Majority Leader Erin Murphy!
-Next Next October 15 Legvold for Minnesota - Greenvale Township Door Knock Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ
+Next Next October 14 Legvold for Minnesota - Rosemount Door Knock!
+Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

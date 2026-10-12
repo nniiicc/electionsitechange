@@ -1,9 +1,9 @@
 Skip to the bill Issues The District The Agenda Where Iowa Ranks Accountability The Harris File Donate Proposed legislation workers The agenda LABOR Act Labor Agreements, Bargaining, and Organizing Rights An Act relating to labor relations involving public employers, including collective bargaining by public employees, payroll deduction of employee organization dues, and project labor agreements for public improvements, and including effective date and applicability provisions.
-What this is A bill Brett Mohler would introduce in the Iowa House if he's elected.
+What this is A bill I'll introduce in the Iowa House if I'm elected.
 It hasn't been filed, so it has no bill number yet.
 Page one is the whole story.
 It takes a couple of minutes to read.
-Everything below it is detail for anyone who wants it: the math, including where the evidence cuts against us, and our draft of the legal text.
+Everything below it is detail for anyone who wants it: the math, including the tradeoffs, and my draft of the legal text.
 Page one The analysis Draft bill text Sources Page one The short version What's broken, what the bill does, and what it costs, in plain English.
 If you read one thing, read this.
 Every county in our district has sheriff's deputies and road crews on the county payroll.
@@ -38,7 +38,7 @@ It stays off the Pay As You Go Act's scorecard, because the scorecard can only t
 Any added payroll cost would be covered in the budget like any other.
 How the agenda pays for itself That's the whole bill in brief.
 The rest of this page is the detail behind it, for anyone who wants to dig in.
-The analysis What it costs, and what we can't claim For anyone who wants the costs, and where the evidence cuts against us.
+The analysis What it costs, and what we don't know yet For anyone who wants the costs and the tradeoffs.
 Every figure is a range where the future is uncertain, and every one links back to where it came from.
 The math What it costs and who pays The bill appropriates nothing.
 It changes the rules public employers and their workers bargain under, and what that costs depends on contracts nobody has negotiated yet.
@@ -78,21 +78,21 @@ The bill stays off the Pay As You Go Act's scorecard.
 The scorecard can only trim spending or a tax credit a bill creates, and this bill creates neither, so there would be nothing on it to trim.
 Any added payroll cost would be covered in the regular budget like any other.
 When House File 291 was filed, the Legislative Services Agency couldn't estimate its total cost, and we'd expect the same trouble running it the other way.
-The limits of our case What the data does not support We can't say House File 291 drove teachers or other public workers out of Iowa.
+Open questions What we don't know yet I can't say House File 291 drove teachers or other public workers out of Iowa.
 No study we found separates its effect from everything else going on in those years.
-We don't know how many local bargaining units have lost their union in retention elections since 2017, or how many workers they covered.
-The board publishes election results, but we haven't counted them, so this page doesn't claim a number.
+I don't know how many local bargaining units have lost their union in retention elections since 2017, or how many workers they covered.
+The board publishes election results, but I haven't counted them.
 At the state level, the elections didn't strip unions.
 In the first round, in October 2018, every bargaining unit of executive branch and court employees that the Legislative Services Agency counted kept its union.
-The case against the elections is the rule itself: a worker who doesn't vote counts as a no, and the union pays for every election.
-We can't claim the old law raised pay, or that the new one held it down.
+The problem with the elections is the rule itself: a worker who doesn't vote counts as a no, and the union pays for every election.
+I can't say the old law raised pay, or that the new one held it down.
 The agency's table shows the across-the-board raise in the state's AFSCME contract was 0 percent in fiscal years 2014 and 2015, under the old law.
 In fiscal years 2018 through 2021, under the new one, it came in at or above the inflation figure the agency lists beside it.
 The cap only binds an arbitrator, and the agency lists the raises for fiscal years 2020 and 2021 as ratified agreements.
 We can't say whether PLAs make public projects cost more or less.
 We found no Iowa study, and the national research we've seen is mostly paid for by one side or the other.
 That is why the bill leaves the choice to each board instead of requiring PLAs.
-"A reliable path to a pension" is Brett's view of where steady, skilled work leads.
+"A reliable path to a pension" is my view of where steady, skilled work leads.
 The bill doesn't touch IPERS or any other pension, and retirement systems stay outside bargaining.
 House File 291 did more than this bill undoes.
 It also changed how teachers are let go, how city civil service workers are disciplined and public access to personnel records.
@@ -100,18 +100,18 @@ This bill restores only what those parts took off the bargaining table: teacher 
 The rest would take bills of their own.
 This spring the Legislature also added to the retention election rules with Senate File 472, which lets any Iowan go to court against an employer that doesn't send the board a list of its workers.
 This bill ends those elections, so those rules go too.
-The other side's strongest points Where the evidence cuts against us The Iowa Supreme Court upheld House File 291 4 to 3 in May 2019.
-The majority wrote that the unions that sued "must look to the ballot box and the elected branches to change this lawfully enacted statute." What we'd do instead is what this bill does: change it in the Legislature, where it was made.
+Who gives something up The tradeoffs The Iowa Supreme Court upheld House File 291 4 to 3 in May 2019.
+The majority wrote that the unions that sued "must look to the ballot box and the elected branches to change this lawfully enacted statute." I'd change it in the Legislature, where it was made, and that's what this bill does.
 House File 291 saved the state money, and some of that could come back as higher payroll costs.
-We won't pretend otherwise.
-What we'd do instead of giving up on bargaining is keep the guardrails and add one: the employer's ability to pay is weighed, no arbitrator may count new taxes, fees, charges or other revenue as a way to pay, an award that breaks a budget limit is void, contracts top out at five years, and no one has to agree to anything.
+I won't pretend otherwise.
+Instead of giving up on bargaining, I'd keep the guardrails and add one: the employer's ability to pay is weighed, no arbitrator may count new taxes, fees, charges or other revenue as a way to pay, an award that breaks a budget limit is void, contracts top out at five years, and no one has to agree to anything.
 Public safety unions have bargained under most of those rules since 2017, and the bill puts every public worker under the same ones.
 Retention elections give workers a vote before every contract, and some people will see ending them as taking a vote away.
 Workers keep the right to vote a union out.
 Under the bill they can petition for that vote at set times before a contract runs out, the way they could until 2017.
 And when a union stands for election, it should win or lose on the votes cast, the same way a county supervisor does.
 The old law didn't guarantee raises, and this bill doesn't either.
-What we'd do instead of promising raises is put the rest of the job back on the table: health insurance, overtime, safety, transfers, layoffs and a fair way to settle a grievance.
+Instead of promising raises, I'd put the rest of the job back on the table: health insurance, overtime, safety, transfers, layoffs and a fair way to settle a grievance.
 Those are what police and fire kept, and what the plow driver lost.
 A PLA adds terms every contractor on the job has to accept, and some contractors may decide not to bid.
 On a small job, that could mean fewer bids.
@@ -121,8 +121,8 @@ State agencies still can't require one.
 It also keeps today's ban on tying a grant or tax break for a private developer to a union agreement.
 Iowa's state mandates law (chapter 25B) says a city, county, school district, community college or area education agency doesn't have to carry out a new state requirement that adds local costs unless the state pays for it or the bill says what share it will pay.
 The law covers only duties beyond what Iowa required before July 1994.
-Bargaining over insurance was already required in 1994, and stayed required until 2017, so we think that argument fails, but a city could still make it.
-What we'd do instead of leaving that to a lawsuit is settle it in the bill before it passes, either by saying the mandates law doesn't apply to bargaining or by having the state share the cost.
+Bargaining over insurance was already required in 1994, and stayed required until 2017, so I think that argument fails, but a city could still make it.
+Instead of leaving that to a lawsuit, I'd settle it in the bill before it passes, either by saying the mandates law doesn't apply to bargaining or by having the state share the cost.
 Some people think government shouldn't collect union dues at all.
 Under the bill, an employer takes dues out only for a worker who asks in writing, and stops on thirty days’ notice.
 Iowa stays a right-to-work state (chapter 731), so no one has to pay a union to keep a job.
@@ -334,7 +334,7 @@ It applies to collective bargaining procedures occurring on or after that date a
 It does not apply to a collective bargaining agreement ratified, awarded by an arbitrator, or effective before that date.
 Sources Where every number comes from For anyone checking our work.
 Each figure with the site it came from and the day we checked it, and each law the bill cites.
-Show every source Figures 30 percent If at least 30 percent of the workers in a bargaining unit are police, firefighters, deputies or other public safety workers, their union can still bargain over health insurance, overtime, safety, seniority and grievances. legis.iowa.gov checked 2026-10-01 3 percent If talks go to an arbitrator, the raise can't top 3 percent or inflation, whichever is lower. legis.iowa.gov checked 2026-10-01 4 to 3 The Iowa Supreme Court upheld that law 4 to 3, though the majority wrote that it left many public employees with fewer rights than others "with arguably similar jobs." iowacourts.gov checked 2026-10-01 $24.5 million The state figured House File 291 saved it about $24.5 million across all its funds, most of it from health insurance. legis.iowa.gov checked 2026-10-01 $21.3 million Most of that, $21.3 million, was the yearly effect of health insurance changes, and that figure also counts new plan designs, shifts in enrollment and the Regents moving off the state's plans, so not all of it came from bargaining. legis.iowa.gov checked 2026-10-01 $2.6 million The rest was $2.6 million from smaller step raises for workers under the AFSCME contract and $684,000 from job classes that lost overtime pay. legis.iowa.gov checked 2026-10-01 $684,000 The rest was $2.6 million from smaller step raises for workers under the AFSCME contract and $684,000 from job classes that lost overtime pay. legis.iowa.gov checked 2026-10-01 $384,000 The Public Employment Relations Board told the agency it needed $384,000 in the first year to carry the law out, including $179,000 for running the elections it required, paid back by fees charged to the unions on the ballot. legis.iowa.gov checked 2026-10-01 $179,000 The Public Employment Relations Board told the agency it needed $384,000 in the first year to carry the law out, including $179,000 for running the elections it required, paid back by fees charged to the unions on the ballot. legis.iowa.gov checked 2026-10-01 0 percent The agency's table shows the across-the-board raise in the state's AFSCME contract was 0 percent in fiscal years 2014 and 2015, under the old law. legis.iowa.gov checked 2026-10-01 fiscal years 2014 and 2015 The agency's table shows the across-the-board raise in the state's AFSCME contract was 0 percent in fiscal years 2014 and 2015, under the old law. legis.iowa.gov checked 2026-10-01 fiscal years 2018 through 2021 In fiscal years 2018 through 2021, under the new one, it came in at or above the inflation figure the agency lists beside it. legis.iowa.gov checked 2026-10-01 five years What we'd do instead of giving up on bargaining is keep the guardrails and add one: the employer's ability to pay is weighed, no arbitrator may count new taxes, fees, charges or other revenue as a way to pay, an award that breaks a budget limit is void, contracts top out at five years, and no one has to agree to anything. legis.iowa.gov checked 2026-10-01 two years Under current law, the board may not consider a new petition for certification for two years after an employee organization loses a certification, retention and recertification, or decertification election. legis.iowa.gov checked 2026-10-01 one year Under the bill, the wait is one year after a failed certification election, and an employee organization that is decertified may not be a party to a new petition or election for one year. legis.iowa.gov checked 2026-10-01 fiscal years 2020 and 2021 The cap only binds an arbitrator, and the agency lists the raises for fiscal years 2020 and 2021 as ratified agreements. legis.iowa.gov checked 2026-10-01 Laws cited chapter 20 Public employment relations (collective bargaining).
+Show every source Figures 30 percent If at least 30 percent of the workers in a bargaining unit are police, firefighters, deputies or other public safety workers, their union can still bargain over health insurance, overtime, safety, seniority and grievances. legis.iowa.gov checked 2026-10-01 3 percent If talks go to an arbitrator, the raise can't top 3 percent or inflation, whichever is lower. legis.iowa.gov checked 2026-10-01 4 to 3 The Iowa Supreme Court upheld that law 4 to 3, though the majority wrote that it left many public employees with fewer rights than others "with arguably similar jobs." iowacourts.gov checked 2026-10-01 $24.5 million The state figured House File 291 saved it about $24.5 million across all its funds, most of it from health insurance. legis.iowa.gov checked 2026-10-01 $21.3 million Most of that, $21.3 million, was the yearly effect of health insurance changes, and that figure also counts new plan designs, shifts in enrollment and the Regents moving off the state's plans, so not all of it came from bargaining. legis.iowa.gov checked 2026-10-01 $2.6 million The rest was $2.6 million from smaller step raises for workers under the AFSCME contract and $684,000 from job classes that lost overtime pay. legis.iowa.gov checked 2026-10-01 $684,000 The rest was $2.6 million from smaller step raises for workers under the AFSCME contract and $684,000 from job classes that lost overtime pay. legis.iowa.gov checked 2026-10-01 $384,000 The Public Employment Relations Board told the agency it needed $384,000 in the first year to carry the law out, including $179,000 for running the elections it required, paid back by fees charged to the unions on the ballot. legis.iowa.gov checked 2026-10-01 $179,000 The Public Employment Relations Board told the agency it needed $384,000 in the first year to carry the law out, including $179,000 for running the elections it required, paid back by fees charged to the unions on the ballot. legis.iowa.gov checked 2026-10-01 0 percent The agency's table shows the across-the-board raise in the state's AFSCME contract was 0 percent in fiscal years 2014 and 2015, under the old law. legis.iowa.gov checked 2026-10-01 fiscal years 2014 and 2015 The agency's table shows the across-the-board raise in the state's AFSCME contract was 0 percent in fiscal years 2014 and 2015, under the old law. legis.iowa.gov checked 2026-10-01 fiscal years 2018 through 2021 In fiscal years 2018 through 2021, under the new one, it came in at or above the inflation figure the agency lists beside it. legis.iowa.gov checked 2026-10-01 five years Instead of giving up on bargaining, I'd keep the guardrails and add one: the employer's ability to pay is weighed, no arbitrator may count new taxes, fees, charges or other revenue as a way to pay, an award that breaks a budget limit is void, contracts top out at five years, and no one has to agree to anything. legis.iowa.gov checked 2026-10-01 two years Under current law, the board may not consider a new petition for certification for two years after an employee organization loses a certification, retention and recertification, or decertification election. legis.iowa.gov checked 2026-10-01 one year Under the bill, the wait is one year after a failed certification election, and an employee organization that is decertified may not be a party to a new petition or election for one year. legis.iowa.gov checked 2026-10-01 fiscal years 2020 and 2021 The cap only binds an arbitrator, and the agency lists the raises for fiscal years 2020 and 2021 as ratified agreements. legis.iowa.gov checked 2026-10-01 Laws cited chapter 20 Public employment relations (collective bargaining).
 The law that lets public employees organize and bargain, bans public employee strikes, and sets the board, the scope of bargaining, elections, impasse procedures and arbitration. legis.iowa.gov 20.3 Definitions for chapter 20.
 "Board" now means the employment appeal board, and "public employer" includes the state, its agencies, and its political subdivisions including school districts.
 "Public safety employee" covers sheriff's deputies, city police, state patrol and other state peace officers, conservation officers and park rangers, and paid firefighters. legis.iowa.gov 20.9 Scope of negotiations.

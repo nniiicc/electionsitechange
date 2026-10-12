@@ -1,5 +1,4 @@
-top of page CJ Domingo - Candidate for Asheville City Council Home Who?
-Contact Donate More Use tab to navigate through the menu items.
+top of page CJ Domingo - Candidate for NC Senate Home Who Contact Donate More Use tab to navigate through the menu items.
 A Little About CJ Domingo (And why should you vote for him) It might as well be said, if you spend fifteen seconds talking to CJ, you'll find out that he's a big nerd.
 He likes to learn facts and figures.
 He wants to hear about your hobby.
@@ -18,10 +17,10 @@ CJ saw the example his parents set and it inculcated him with a lifelong appreci
 During his career, he has worked in the Food industry (Waiter, Barista, Grocery Store Manager), in government (Operations Supervisor in Parking Services).
 CJ has tremendous empathy for all the ways that life can lead people in unexpected directions.
 He understands that many people feel trapped from a lack of social mobility, and that one thing links many people who work front line jobs -- that they are trying their best and that they feel that the government doesn't care if they succeed or fail.
-CJ believes that if our government is to serve any purpose at all, it must adhere to and strive for the ideal of "government of the people, by the people, for the people." CJ is running for City Council because our government has gotten away from us.
+CJ believes that if our government is to serve any purpose at all, it must adhere to and strive for the ideal of "government of the people, by the people, for the people." CJ is running for NC Senate because our government has gotten away from us.
 There are too many leaders who believe that their only mandate is to get re-elected and only act when it suits their vanity.
-CJ will fight to secure meaningful progress for the people of Asheville.
-CJ has seen what many of you have seen - that our infrastructure and public systems are rotting beneath our feet.
-Too often, our City Council will hide the worst of it in closed-door meetings and only acknowledge the need once they are forced to do so, like with the recent Malvern Hills Pool, like with the electric Busses, like with the Parking Facilities, and like with the Water systems.
-CJ will make the health and long-term planning surrounding these public systems open and visible to the people who rely on it and whose tax dollars pay for it.
+He will fight to secure meaningful progress for the people of Asheville and NC.
+CJ has seen what many of you have seen - that our infrastructure and public institutions are rotting beneath our feet.
+Too often, our government will get distracted in culture war issues while we let the foundations of our society become overrun with technocrats, data-miners, and other predatory entities.
+CJ will make the health and long-term planning surrounding our public systems open and visible to the people who rely on it and whose tax dollars pay for it.
 “Justice will not be served until those who are unaffected are as outraged as those who are” Benjamin Franklin Charles (CJ) Domingo charles@cj4avl.com 828.333.7237 ©# by The Committee for Charles Domingo. bottom of page

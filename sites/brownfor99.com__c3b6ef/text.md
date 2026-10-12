@@ -1,10 +1,10 @@
 Skip navigation menu Home Meet Dr.
 Brown Issues Volunteer Endorsements Contact Donate The Doctor is IN!
 Will you join him?
-DEMOCRATIC RUNOFF AUGUST 25 Email Email Phone Phone ZIP Code ZIP Code Submit Home Meet Dr.
+VOTE NOVEMBER 3 Email Email Phone Phone ZIP Code ZIP Code Submit Home Meet Dr.
 Brown Issues Volunteer Endorsements Contact Donate The Doctor is IN!
 Will you join him?
-DEMOCRATIC RUNOFF AUGUST 25 Email Email Phone Phone ZIP Code ZIP Code Submit A trusted physician.
+VOTE NOVEMBER 3 Email Email Phone Phone ZIP Code ZIP Code Submit A trusted physician.
 A proven leader.
 As an Attending Physician and Professor at OU Health, Dr.
 Herschel Brown has spent 30 years healing the sick, educating future generations of doctors and serving his community.

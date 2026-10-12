@@ -54,8 +54,7 @@ As with locally, as a State Representative, I have continued to seek smaller gov
 I will continue to do so in Hartford if the voters of the 90th General Assembly District allow me the opportunity to continue to serve them there.
 I enjoy, and am very proud to be a State Representative.
 I hope that the voters will see fit to allow me to remain as their representative into the 2027-28 term, and therefore I respectfully ask for your support on Election Day, November 3, 2026.
-(THANK YOU FOR TAKING THE TIME TO READ THIS PAGE.) News Are Drone Deliveries Coming To Wallingford And Middlefield?
-AI Protections: CT Goes Farther Than The Feds Remembering...
-Come On Down to Celebrate Wallingford!
-One of Us Fishbein for Connecticut - Jo-Anne L.
+(THANK YOU FOR TAKING THE TIME TO READ THIS PAGE.) News EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
+MORE Information About Local Amazon Delivery Drones CT Families Are Taxed Enough Are Drone Deliveries Coming To Wallingford And Middlefield?
+Fishbein for Connecticut - Jo-Anne L.
 Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu

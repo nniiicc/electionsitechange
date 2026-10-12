@@ -28,9 +28,8 @@ And they still deserve a politics that fights for them.
 This turned into one of the most thoughtful conversations we’ve had in a while.
 Give it a listen.
 Next Why Is Southern Ontario Doing Better Than Western New York?
-You Might Also Like PODCAST & LIVE STREAM: LET’S REVIVE THE AMERICAN DREAM —TRUMP’S CHINA FIASCO, AMERICA FEELS STUCK North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) IS NATE A RADICAL COMMUNIST?
+You Might Also Like Why Is Southern Ontario Doing Better Than Western New York?
+IS NATE A RADICAL COMMUNIST?
 HARDLY LET’S GO THROUGH THE ISSUES.
-NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
-WHO GETS TO DECIDE WHO IS A CHRISTIAN?
-Why Is Southern Ontario Doing Better Than Western New York?
-Volunteer and Sign Up for Updates!
+PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) PODCAST CLIP: THEY DIDN’T EVEN SHOW UP Volunteer and Sign Up for Updates!

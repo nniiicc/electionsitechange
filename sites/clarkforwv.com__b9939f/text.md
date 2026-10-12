@@ -2,9 +2,14 @@ top of page Home Blog About Contact Donate News More Use tab to navigate through
 CLARK FOR WV Principled.
 Proven.
 Local.
+Proud to receive the WV Citizens Defense League Endorsement.
+Proud to receive the endorsement of the West Virginia Citizens Defense League.
+I remain a leading advocate in the West Virginia legislature, protecting our 2A rights!
+West Virginia Citizens Defense League Endorsed by Education WV!
+Thank you to Education WV for their endorsement!
+Education is the cornerstone of our future and I am proud to be a leading advocate for all educators in our state.
 Endorsed by the NRA!
-Endorsed by West Virginians for Life Proud to receive the endorsement of West Virginians for Life!
-WV Farm Bureau Endorses Delegate Wayne Clark Subscribe Form Join Thanks for subscribing!
+Subscribe Form Join Thanks for subscribing!
 IN THE PRESS Motorsport Responsibility Act March 11, 2022 Part of the job as a Delegate is to help local businesses with issues that they have and build relationships with other Legislators and key stakeholders holders to find solutions.
 Summit Point Raceway brought this issue to our attention.
 Not only is Summit Point a raceway, but it also works as a training facility for local law enforcement, it also holds regular defensive driving course and off road driver training.

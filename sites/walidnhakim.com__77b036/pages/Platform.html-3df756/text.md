@@ -1,5 +1,5 @@
 WALID N.
-HAKIM FOR GOVERNOR OF SOUTH CAROLINA HOME PLATFORM BIOGRAPHY VOLUNTEER DONATE POLICY PLATFORM Education Reform Investing In Education and South Carolina's Future Hakim believes that a strong state begins with strong education.
+HAKIM FOR GOVERNOR OF SOUTH CAROLINA HOME PLATFORM BIOGRAPHY VOLUNTEER POLICY PLATFORM Education Reform Investing In Education and South Carolina's Future Hakim believes that a strong state begins with strong education.
 Instead of cutting funding, South Carolina must invest deeply in its schools and students.
 He proposes the creation of “South Carolina College Investment Grants” for students pursuing critical careers; such as nursing, medicine, engineering, education, social work, and therapy.
 Rather than burdening graduates with debilitating student loans, this plan allows them to repay the state through service.
@@ -108,8 +108,7 @@ The DemocratRepublican establishment has failed South Carolina.
 It is time for a governor with integrity, courage, and a plan that lifts all people — not the elite.
 A vote for Green Party Walid Hakim — the Marine — is a vote for every South Carolinian.
 #WalidsPlatform www.WalidNhakim.com Walid N.
-Hakim for Governor DONATE TO: The Campaign To Elect Walid N.
-Hakim EMAIL: WalidSC2026@gmail.com CAMPAIGN: Home Platform Biography Volunteer Privacy Policy ©# DESIGNED FOR THE CAMPAIGN TO ELECT WALID N.
+Hakim for Governor EMAIL: WalidSC2026@gmail.com CAMPAIGN: Home Platform Biography Volunteer Privacy Policy ©# DESIGNED FOR THE CAMPAIGN TO ELECT WALID N.
 HAKIM.
 ALL RIGHTS RESERVED.
 WEBSITE CODED BY CONOR X ROM.

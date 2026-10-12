@@ -1,4 +1,4 @@
-top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Media Merch More Use tab to navigate through the menu items.
 DONATE SOCIAL SECURITY It’s YOUR Money OUR PRIORITIES You paid into Social Security your entire working life and you deserve to get the full benefits you were promised.
 Currently, Social Security’s primary trust fund is projected to become insolvent in 2032.
 Without legislative action, scheduled revenues will only cover about 78% of promised benefits, resulting in an automatic 22% benefit cut for all recipients.

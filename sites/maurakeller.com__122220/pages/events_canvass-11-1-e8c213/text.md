@@ -4,6 +4,6 @@ Come canvassing with the Maura Keller for Congress campaign!
 We’re knocking on doors, and we need YOUR help to turn out the vote.
 Join us in Fayetteville at the Fayette County Democratic Committee to canvass.
 Times Shift One: 4 PM - 6 PM Shift Two: 6 PM - 8 PM Click here to Sign Up!
-Posted In: Political Action , Volunteer , Fayette Tagged: Volunteer , Canvassing Previous Previous October 25 Canvass with the Maura Keller for Congress Campaign | Fayette County Maura Keller is a retired Lieutenant Colonel with the United States Army.
+Posted In: Political Action , Volunteer , Fayette Tagged: Volunteer , Canvassing Previous Previous October 30 End of 2026 Early Voting Next Next November 3 Election Day Maura Keller is a retired Lieutenant Colonel with the United States Army.
 Use of this military rank, job titles and photographs in uniform does not imply endorsement by the Army or the Department of Defense.
 Email: maura@maurakeller.com Address : 185 Kathi Ave, Fayetteville GA 30214 Privacy Policy/Terms of Service Paid for by Maura Keller for Congress © # Maura Keller for Congress Top

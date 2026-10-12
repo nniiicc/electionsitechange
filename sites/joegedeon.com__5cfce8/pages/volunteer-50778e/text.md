@@ -1,6 +1,6 @@
 You need to enable JavaScript to run this app.
 Home About Priorities Events Joe's Rep Page ↗ Volunteer DONATE DONATE Join Our Team Your participation in our campaign will make all the difference in our community.
-Volunteer Sign Up Personal Information First Name * Last Name * Phone * Text is our main form of communication.
+Volunteer Sign Up Leave this field blank Personal Information First Name * Last Name * Phone * Text is our main form of communication.
 If you prefer email, please provide your email as well.
 Email (Optional) How would you like to help?
 Door Knocking Sign Waving Fundraising Sign or banner for my house Host a coffee hour Other Additional Information Anything else you'd like to share with us?

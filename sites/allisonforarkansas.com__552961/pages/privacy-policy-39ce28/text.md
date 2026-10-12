@@ -1,4 +1,4 @@
-Skip to content About Contact About Contact Donate Terms of Use & Privacy Policy Last Updated: August 4, 2025 The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
+Skip to content About Issues Contact About Issues Contact Donate Terms of Use & Privacy Policy Last Updated: August 4, 2025 The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we’ve created this policy to explain our privacy practices.
 This applies to allisonforarkansas.com.
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices.
@@ -77,4 +77,4 @@ I Want a Yard Sign Knock on doors Call or Text Voters Host an Event for Allison 
 Message frequency varies.
 Message & Data Rates May Apply.
 Reply STOP to opt out.
-About Contact About Contact Paid for by Allison for Arkansas PO Box 1001, North Little Rock, AR 72115 Privacy Policy Copyright © # Allison in Arkansas | Design by Riveter Solutions
+About Issues Contact About Issues Contact Paid for by Allison for Arkansas PO Box 1001, North Little Rock, AR 72115 Privacy Policy Copyright © # Allison in Arkansas | Design by Riveter Solutions

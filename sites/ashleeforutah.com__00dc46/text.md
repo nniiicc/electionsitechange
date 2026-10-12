@@ -19,7 +19,9 @@ During my time in the Legislature, I’ve stayed focused on the issues that matt
 This November, I’m asking for your support so I can continue fighting for the people I serve and continue being a voice – for US.
 JOIN OUR TEAM DONATE!
 REGISTER COMMUNICATE View this post on Instagram A post shared by Representative Ashlee Matthews (@ashleeforutah) Why I Support Ashlee Matthews … Rep.
-Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago The last weekend before ballots drop and we're out and about meeting with neighbors and dropping off signs!!
+Ashlee Matthews Facebook Posts Representative Ashlee Matthews #ago Childcare is an issue that I've worked on every session since being elected, and I'm proud that I've been able to provide support for our kids, our parents, and providers with several pieces of legislation since then.
+I'm committed to continuing my work in this space to keep our kids in safe, healthy learning spaces and give parents a peace of mind and a little extra breathing room. ...
+See More See Less Video View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago The last weekend before ballots drop and we're out and about meeting with neighbors and dropping off signs!!
 Thank you to everyone that joined us today to help us connect with neighbors in HD37! 💚💛 P.S.
 I still have a couple signs in the back of my car that I would be happy to swing by to those that want to host!
 Send me a message! 😎 ...
@@ -34,20 +36,6 @@ If you're free tomorrow morning and can spend an hour or so getting some steps i
 If you've been wanting to get involved, this is the perfect opportunity.
 In the immortal words of the Doors, "the time to hesitate is through!" This is the last weekend before ballots are mailed out!
 When: Saturday 10/10 @ 10 am Where: Southridge Park 5051 4015 W ...
-See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Representative Ashlee Matthews #ago Thank you Christina Robles for your work in the community and with our kids everyday!
-I am looking forward to a great event! 🍽️ WHAT'S ON YOUR PLATE, KEARNS?
-Child care?
-Groceries?
-Housing?
-Schools?
-The rising cost of living?
-Whatever is on your plate, we want to hear about it!
-Join Brighter Steps Childcare for a FREE community BBQ with Representative Ashlee Matthews!
-Come enjoy dinner, meet your representative, and have real conversations about the issues impacting our families and community. 📅 Friday, October 16 ⏰ 6:00–8:00 PM 📍 5220 W Silverip Dr, Kearns, UT 84118 🍔 FREE dinner | Family-friendly | Everyone welcome!
-Good food.
-Real conversations.
-Your community. 💜 Pull up a chair.
-Your voice belongs at the table! 📲 Scan the QR code on the flyer to RSVP! ...
 See More See Less Photo View on Facebook (opens in a new tab) · Share Share on Facebook (opens in a new tab) Share on Twitter (opens in a new tab) Share on LinkedIn (opens in a new tab) Share by Email (opens in a new tab) Be In The Know!
 Join us!
 Subscribe today and get on the insider track with updates from the Utah Legislature, legislation initiatives, life on the Hill, and stories from the campaign trail.

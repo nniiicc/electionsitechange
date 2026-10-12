@@ -16,4 +16,6 @@ Safeguarding Our Environment & Water Quality Our economy and our way of life dep
 Candidates must be fully committed to funding Everglades restoration, protecting local water quality, and deploying advanced federal resources to mitigate red tide and toxic algae blooms that threaten our beaches and local marine businesses.
 Economic Affordability & Small Business Support From the gas pump to the grocery checkout, inflation has hit Southwest Florida hard.
 Our district needs a leader focused on cutting wasteful federal spending, easing burdens on local small businesses, and fostering high-paying, year-round job growth so the next generation can afford to live and work in the communities where they grew up.
-PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress
+PRIVACY POLICY Montavon for Congress P.O.
+Box 17413 Sarasota, Fl.
+34276 Brenda@montavonforcongress.com 941-203-9245 Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

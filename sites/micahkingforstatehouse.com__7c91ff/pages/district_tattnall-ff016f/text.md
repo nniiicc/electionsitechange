@@ -4,7 +4,7 @@ New HD-157 Opportunity Board is Live!
 Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Back to Full District District 157 Hub Tattnall County County Seat: Reidsville & Glennville 22,842 Population 1801 Est.
 Community Profile Key details for Tattnall County "Sweet onion farming, timber, Smith State Prison EMS burden" Key Communities Reidsville Glennville Collins Manassas Cobbtown Take Action Represent Tattnall County Micah is fighting to ensure our rural communities aren't left behind by Atlanta politicians.
 If you live in Tattnall County, join our grassroots movement today.
-Volunteer Here Donate Tattnall County Forecast Live Data #ago Rain 74° 67° Sat, Oct 10 Rain 81° 70° Sun, Oct 11 Drizzle 81° 69° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
+Volunteer Here Donate Tattnall County Forecast Live Data #ago Drizzle 77° 68° Mon, Oct 12 Partly cloudy 79° 64° Tue, Oct 13 Clear sky 81° 61° Weather data by Open-Meteo.com Voter Resources Make sure your registration is up to date for the upcoming election.
 Check Registration 115 W.
 Barnard St, Glennville, GA 30427 (470) 632 - 5651 Text Us info@votega157.com Paid for by the Committee to Elect Micah King © # Micah King for GA State House.
 All rights reserved.

@@ -4,5 +4,6 @@ In their editorial, The Seattle Times wrote: Over the 10 years Rep.
 Drew Stokesbary has spent in the state Legislature, he has shown consistency as a voice for fiscal prudence and as a champion for education.
 Voters in his district should reelect him to Position 1.
 You can read the Times’ full endorsement at https://www.seattletimes.com/opinion/editorials/the-seattle-times-editorial-board-recommends-drew-stokesbary-for-legislative-district-31-position-1 .
-Endorsements In the News endorsement More For You Washington Hospitality Association names Stokesbary “2020 Legislative Hero” Awards Transportation package offers relief to Auburn drivers In the News Stokesbary named “Guardian of Small Business” by NFIB Awards Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
+Endorsements In the News endorsement More For You Endorsed by Stand for Children!
+Endorsements Washington risks budgeting online sales tax revenue In the News Stokesbary named “Guardian of Small Business” by NFIB Awards Home About Issues Endorsements Get Involved Blog Donate Sign up to receive exclusive updates from the campaign.
 Paid for by Friends of Drew Stokesbary (R) | PO Box 92 | Auburn, WA 98071 | Privacy Policy

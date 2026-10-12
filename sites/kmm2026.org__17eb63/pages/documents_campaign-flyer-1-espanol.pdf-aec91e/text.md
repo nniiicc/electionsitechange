@@ -1,0 +1,5 @@
+Kevin McCormick para Vicegobernador por el Partido Verde de Texas Vote por Kevin McCormick para Vicegobernador ¡Hagamos de Texas un mejor lugar para vivir!
+Kevin McCormick Political Advertisement https://kmm2026.org Transporte público para las ciudades Inversión en sustentabilidad para áreas rurales Reforma electoral ¡Recuperemos el poder de los votantes! ¡Empecemos a construir un nuevo gobierno para Texas!
+Un gobierno que promueva la salud de las personas, una sociedad sana y un medio ambiente sano. ----------------------------------------------------------------------------------------------------------------------------------- Kevin McCormick para Vicegobernador por el Partido Verde de Texas Vote por Kevin McCormick para Vicegobernador ¡Hagamos de Texas un mejor lugar para vivir!
+Kevin McCormick Political Advertisement https://kmm2026.org Transporte público para las ciudades Inversión en sustentabilidad para áreas rurales Reforma electoral ¡Recuperemos el poder de los votantes! ¡Empecemos a construir un nuevo gobierno para Texas!
+Un gobierno que promueva la salud de las personas, una sociedad sana y un medio ambiente sano.

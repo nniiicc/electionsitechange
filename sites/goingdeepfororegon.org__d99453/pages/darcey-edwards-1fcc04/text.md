@@ -3,24 +3,28 @@ Representative Darcey Edwards is pro-data center, anti-choice, pro-ICE, and anti
 She sponsored GOP’s out-of-touch initiatives like SB1586 to help build data centers and big tech in North Plains by raising utility rates for people who live nearby and giving companies hundreds of millions of dollars in tax breaks.
 From KGW : “Part of the controversy [with SB 1586] came from whether or not data centers would be developed on the land.
 Although the bill explicitly banned the development of stand-alone data centers in the new industrial zone, data centers that functioned as a necessary part of other manufacturing facilities were allowed.
-However, the bill didn’t specify caps on size or power use for those data centers.” She sponsored HB4087 to undermine medical judgment and women’s freedom to manage pregnancies.
-A long list of medical and health professional organizations opposed the federal version of this bill.
-She sponsored HB3103 to gut environmental protections.
-I’m a big “No” to all that.
-First term Rep.
+However, the bill didn’t specify caps on size or power use for those data centers.” First term Rep.
 Edwards is a multimillionaire and Koch Brothers beneficiary, a realtor who lives rurally on 32 acres and wants to keep letting private equity firms bid up house prices in Oregon, voting against HB 4128.
-She wants ICE to stay masked and without visible IDs, voting against HB 4138.
-Her campaign website has just one page about her legislative work and her priorities.
+She wanted to persist the trickle-down tax cuts from the Big Ugly Bill for rich people like herself, voting against SB 1507.
+She wants ICE to stay masked and without visible IDs, voting against HB 4138, and against limiting the Trump administration’s ability to federalize the Oregon National Guard by voting against HB 4031.
+She sponsored HB4087 to undermine medical judgment and women’s freedom to manage pregnancies.
+A long list of medical and health professional organizations opposed the federal version of this bill.
+She wanted to let stand Federal cuts to Planned Parenthood, voting against HB 4127.
+She sponsored HB3103 to gut environmental protections, in service to her donors the Koch Brothers (owners of Georgia Pacific), Weyerhaeuser, AG-PAC, Orloggers PAC, and Hampton Lumber.
+I’m a big “No” to all that.
+Individual people are a small fraction of her campaign donations – and legislating.
+Her donors include, besides timber money: Chevron USA Eli Lilly Google Client Services Oregon Automobile Dealers Association PAC Oregon Bankers PAC Oregon Realtors Political Action Committee Regence State Farm Federal PAC UP [Union Pacific] Railroad Company Washington County Chamber PAC Her campaign website has just one page about her legislative work and her priorities.
 There’s not much there, there, and what there is, is meh.
 Here’s my take on it.
 She doesn’t bring much to the legislature.
 A realtor since 2012, she has sold almost $200 million of real estate.
-Prior to that she was a membership coordinator for the Hillsboro (now Washington County) Chamber of Commerce, where her sister Deanna Palm was the CEO.
-Before that, she worked in the purchasing department for Planar Systems, a digital display manufacturing corporation with a facility in Hillsboro.
+Prior to that she volunteered as a membership coordinator for the Hillsboro (now Washington County) Chamber of Commerce, where her sister Deanna Palm was the CEO.
+Before that, according to her candidate filing she worked in the purchasing department for Planar Systems, a digital display manufacturing corporation with a facility in Hillsboro, but does not mention it on her LinkedIn page .
 In her real estate content she writes about her high tech industry background.
 As a software engineer and an MIT guy, I felt surprised to learn that this was all she was referring to.
 According to her public filing statement with the Oregon Secretary of State, this is her education.
-School Grade Diploma/Degree Course of Study Banks School District 12th Grade Diploma [blank] Portland Community College 12th Grade [blank] [blank] Her donors include Chevron USA Google Client Services Koch Industries, which also owns Georgia-Pacific [see also Koch Brothers]; Oregon Automobile Dealers Association PAC Oregon Realtors Political Action Committee UP [Union Pacific] Railroad Company Weyerhaeuser In 2024 she filed for her House seat 30 days before the deadline on the day her obstructionist GOP predecessor, Brian Stout , dropped out and endorsed her.
+School Grade Diploma/Degree Course of Study Banks School District 12th Grade Diploma [blank] Portland Community College 12th Grade [blank] [blank] In 2024 she filed for her House seat 30 days before the deadline on the day her obstructionist GOP predecessor, Brian Stout , dropped out and endorsed her.
+In the primary she had an opponent who filed but dropped out a week before the primary, and another who was a write-in.
 Her opponent that November was a 21 year old tax clerk, Jordan Gutierrez.
 Despite the favorable setup, she only got 59% of the vote.
 And there’s gonna be a blue wave in November.

@@ -1,7 +1,7 @@
 Skip to Content 💼 New District 157 Community Opportunity Board is live.
 30+ verified local careers across Appling, Evans, Jeff Davis & Tattnall.
 New HD-157 Opportunity Board is Live!
-Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Privacy Policy Updated October 9, 2026 1.
+Explore Jobs → Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Home Meet Micah Issues Jobs Newsroom Get Involved Store Fund the Fight Privacy Policy Updated October 12, 2026 1.
 Information We Collect The Committee to Elect Micah King ("we," "us," or "our") collects information that you provide directly to us when you visit our website, sign up for our newsletter, make a donation, or contact us.
 This may include your name, email address, physical address, and employer information (as required by campaign finance laws).
 We may upload your information into VoteBuilder and update your records to keep your information current for future election cycles ( much of this information is already publicly viewable via voter registration files ).

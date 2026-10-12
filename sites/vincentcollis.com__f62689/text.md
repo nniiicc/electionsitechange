@@ -1,4 +1,4 @@
-Meet Vincent Issues Donate Donate Vincent Collis · Iowa House District 61 HONEST Leadership FOR OUR FUTURE.
+Meet Vincent Issues Endorsements Donate Donate Vincent Collis · Iowa House District 61 HONEST Leadership FOR OUR FUTURE.
 For our values, our community, and the Cedar Valley we call home.
 Donate Today Meet Vincent Proven & Committed Iowa HD 61 Meet Vincent Honest leadership for the Cedar Valley.
 Vincent is a software engineer who has spent a decade behind the scenes — running the digital campaigns that helped elect Democrats across the country.
@@ -20,8 +20,13 @@ Our families deserve better.
 I'll champion common-sense rules for our waterways, invest in conservation, and stand up to the corporate polluters who've had a free pass in Des Moines for too long.
 Read more → Accountable Government Politicians in Des Moines have spent too long working for lobbyists instead of the people who sent them there.
 I'll back ethics reforms, transparency in lawmaking, and an honest, accessible office that answers to District 61 — not party bosses, not special interests, just our neighbors.
-Read more → Support the Campaign Fueled by neighbors , not special interests.
-District 61 deserves a representative focused on healthcare, clean water, and strong public schools.
+Read more → Endorsements Standing with Vincent.
+The leaders and organizations backing Vincent for Iowa House District 61.
+Elected Leaders Rep.
+Timi Brown-Powers State Representative, House District 61 Rep.
+Jerome Amos Jr.
+State Representative, House District 62 Rep.
+Rob Johnson State Representative, House District 34 Organizations AFSCME Council 61 Iowa Federation of Labor, AFL-CIO United Auto Workers (UAW) Iowa State Education Association (ISEA) Support the Campaign Fueled by neighbors District 61 deserves a representative focused on healthcare, clean water, and strong public schools.
 Chip in today!
 Every dollar goes to work knocking on doors right here in the Cedar Valley. $ 5 $ 10 $ 25 $ 50 $ 61 Most chosen Choose another amount → Donations made through ActBlue Express process immediately if you have payment info saved.
 Paid For By Vincent Collis For Iowa · Waterloo, IA Privacy Policy · Mobile Terms

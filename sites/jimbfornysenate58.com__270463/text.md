@@ -1,4 +1,4 @@
-0 Skip to Content Home Bio Videos Jim B Articles News Merchandise Contact Us Open Menu Close Menu Home Bio Videos Jim B Articles News Merchandise Contact Us Open Menu Close Menu Home Bio Videos Jim B Articles News Merchandise Contact Us Let’s Give The 58th What It’s Been Missing!
+0 Skip to Content Home Quickie Topics Merchandise Articles News Bio Contact Us Open Menu Close Menu Home Quickie Topics Merchandise Articles News Bio Contact Us Open Menu Close Menu Home Quickie Topics Merchandise Articles News Bio Contact Us Let’s Give The 58th What It’s Been Missing!
 I'm Jim Bobreski and I am running on the democratic ticket for the senate seat of the NYS 58th district.
 I believe NY needs a change.
 We need to address issues instead of the blame game.

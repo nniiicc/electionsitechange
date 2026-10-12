@@ -1,7 +1,10 @@
-Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Thank you, Carroll County Democrat Party Attendees!
-A great morning spending time with the Carroll County Democratic Party.
-It may be raining, but it didn’t dampen our enthusiasm for change in the 8th District.
-More Conversations Sep 18, 2026 - When asked who inspires me, I can’t help but think of two amazing women who have left us too soon.
+Skip to content District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate District Map Donate About Meet Heidi Kuhn Photos Event Calendar Volunteer TN District Map Kuhn Conversations Issues Endorsements Donate Kuhn Conversations Early voting starts WEDNESDAY, Oct.
+14th.
+Vote for someone who cares about your reasons.
+More Conversations Sep 19, 2026 - Thank you, Main Street Festival (Decaturville) Attendees!
+Sep 19, 2026 - Thank you, Shelby County Democratic Women!
+Sep 19, 2026 - Thank you, Cooper-Young Festival Attendees!
+Sep 18, 2026 - When asked who inspires me, I can’t help but think of two amazing women who have left us too soon.
 Sep 16, 2026 - How much higher will gas prices go with the Iran War?
 Sep 16, 2026 - ICE’s tactics of profiling, intimidation, and fear are not making us safer, they are tearing communities apart.
 Sep 15, 2026 - Thank you, District One Democrats, for inviting me to your first meeting!
@@ -32,9 +35,6 @@ Sep 1, 2026 - ICE’s tactics of profiling, intimidation, and creating fear in o
 Aug 30, 2026 - It’s time for change, Heidi Kuhn for Congress.
 Aug 30, 2026 - The TNDP Three Star Dinner was a tremendous success with about 1000 attendees!
 Aug 29, 2026 - I’m powered and supported by West Tennesseans.
-Aug 28, 2026 - I’m fighting for the rights of my daughters, their families, and every young person working hard to build a future for themselves.
-Aug 27, 2026 - I have always met with and talked to my constituents directly.
-Aug 26, 2026 - Canada isn’t just a trading partner, it’s our neighbor and longtime ally.
 Previous Next Footer Left section [email protected] ‍ P.O.
 Box 11300 Memphis, TN 38117 Checks can also be sent to our P.O.
 Box Footer Middle section Footer Right section Footer Bottom section Privacy and Opt Out Policies Paid for by Heidi Kuhn for Congress, Stanley Lipford, Treasurer

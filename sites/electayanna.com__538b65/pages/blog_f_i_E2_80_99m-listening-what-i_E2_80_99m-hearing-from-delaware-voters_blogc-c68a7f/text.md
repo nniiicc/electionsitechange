@@ -55,7 +55,7 @@ I don’t expect to earn your vote simply because I ask for it.
 I intend to earn it by listening, showing up and demonstrating that your concerns will have a voice in Dover.
 I am listening to the people of District 9 — not only to the voices that agree with me, but to the questions, concerns and challenges that make our community stronger.
 That is the kind of representation I will bring to Dover.
-Share this post: Categories All Posts Announcements News What I'm Hearing Sign up for blog updates!
+Share this post: Sign up for blog updates!
 Join my email list to receive updates and information.
 Sign up Recent Posts I’m pro-worker and pro-opportunity.
 Oct 5, 2026 Delaware’s Healthcare Challenges Go Beyond the Cost of Care Sep 28, 2026 Our Seniors Deserve Fairness, Stability, and a Voice Sep 28, 2026 Copyright © # Elect Ayanna - Paid for by Friends of Ayanna Khan-Flowers. - All Rights Reserved.

@@ -1,4 +1,9 @@
-Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All April 22, 2026 CVille Right Now Redistricting sets up showdown between Tom Perriello, Beth Macy April 22, 2026 CVille Right Now If the Virginia Supreme Court upholds Tuesday’s redistricting vote, what will it mean for Albemarle County and Charlottesville?
+Skip to content Priorities Endorsements Latest News Your Story Events Store Priorities Endorsements Latest News Your Story Events Store Facebook X-twitter Instagram Substack Streamline Icon: https://streamlinehq.com Donate Recent News Campaign Updates Campaign Update In the News Press Release Substack All April 28, 2026 Substack Harriet the Spy is the reason I’m a writer today.
+So it ticked me off to learn that my favorite book was beingtargeted for book banning by the Trump administration and its “parents’ rights”-spouting ilk, including the recent removal of a Department of Education coordinator whose job was to investigate accusations of unlawful book removals.
+April 28, 2026 Substack The library is the first place I remember walking to by myself, unless you count the time I ran away on my tricycle to the only other place I knew—the grocery store—where a neighbor lady found me chatting up the butcher and asking for a free popsicle.
+I was four.
+The great librarian Linn Wilson […] ...
+Read More April 22, 2026 CVille Right Now Redistricting sets up showdown between Tom Perriello, Beth Macy April 22, 2026 CVille Right Now If the Virginia Supreme Court upholds Tuesday’s redistricting vote, what will it mean for Albemarle County and Charlottesville?
 “The people of Roanoke and western Virginia asked me to run because I gave them hope,” Macy told Cville Right Now on Wednesday.
 “They said, ‘You have the unique ability to hold corporations and politicians accountable.’ I […] ...
 Read More March 20, 2026 WFXR News Republicans and Democrats Disagree on Efforts to Redraw Congressional Districts March 20, 2026 WFXR News Read More March 19, 2026 Augusta Free Press Local Democrats in the Sixth District have met the enemy: And it is us March 19, 2026 Augusta Free Press Local Democrats are bound and determined to f—k up the 2026 midterms, to a point where I’m wondering if it will do us any good to pass the redistricting referendum, and still lose to the feckless Ben Cline.
@@ -81,9 +86,6 @@ Read More November 19, 2025 Press Release DOPESICK AUTHOR BETH MACY LAUNCHES VIR
 Macy officially introduced her campaign to a packed crowd of over 300 people in downtown Roanoke last night.
 “Virginians have had enough.
 They want leaders […] ...
-Read More October 29, 2025 The Atlantic A Writer Who Did What Hillbilly Elegy Wouldn’t October 29, 2025 The Atlantic Urbana, Ohio, is a small city of 11,000, where nearly three out of four voters went for Donald Trump in the 2020 presidential election.
-The journalist Beth Macy, who in her previous books chronicled the widening fissures in American society by examining the opioid crisis and the aftereffects of globalization, grew up there.
-In Paper Girl, she returns to Urbana—a place beset by economic decline, dwindling public resources, failing schools, and the disappearance of local...
 Read More Page 1 Page 2 Page 3 Page 4 Join Team Macy For Congress Sign Up Today First Name Last Name Email Zip Code Cell Phone Opt-in By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Beth Macy for Congress.
 Msg & data rates may apply.
 Msg frequency varies.

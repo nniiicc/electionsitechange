@@ -290,19 +290,13 @@ C00857623.
 Political contributions are not tax-deductible.
 Maximum contribution is $3,300 per person.
 Volunteer Help spread the message of liberty across Texas Email the Campaign Sign Up Spread the Word Share Ted Brown's message on social media Tweets by TedBrownLiberty Visit Ted Brown's Facebook page Share Tweet Invite Ted to Speak Invite Ted to speak at your next event here .
-Media Coverage Interviews, news coverage, and media appearances Video Interviews Hide & Speak Your ID or No Internet: Ted Brown on age checks, digital ID and online privacy.
-Focus on the Candidates Ted Brown shares his thoughts on America's 250th birthday with host Cynthia Pooler.
-No Peasants (with other alternative party candidates) Discussion with alternative party candidates — recent live stream.
-Libertarian Party of Texas LPTexas Candidate Interview with Ted Brown.
-Ungovernable Podcast Travis Gearhart is Ungovernable — with Ted Brown, Libertarian candidate for U.S.
-Senate in Texas.
-Liberty Blues Network Liberty Blues Ep.
-128 — Libertarian Ted Brown for Texas Senate.
-The Black Powder Podcast Live podcast appearance.
-Fountainhead Forum Appearance on the Fountainhead Forum.
-Ted Brown Campaign Interview Discussing libertarian principles and campaign platform Policy Discussion In-depth discussion on key policy positions Libertarian Perspective Ted Brown explains the libertarian alternative Campaign Update Latest developments and campaign news Senate Race Discussion Ted Brown on his U.S.
-Senate campaign Liberty Movement Discussion on the broader liberty movement Audio Interviews & Podcasts Liberty Blues Podcast EP.
-56 - Ted versus Ted for Senate with Ted Brown Listen on Spotify Opens in a new tab Spotify Podcast Extended interview on campaign goals and libertarian philosophy News Coverage KLTV 7 (article & video interview) Libertarian Ted Brown launches 2026 Texas Senate bid against Paxton, Talarico September 28, 2026 East Texas station KLTV sits down with Ted Brown about his campaign for limited government, from abolishing the federal income tax and the IRS to legal immigration reform.
+Media Coverage Interviews, news coverage, and media appearances News Coverage Politico The third-party candidates who could play spoiler next month October 6, 2026 Politico’s Weekly Score looks at the third-party candidates, including Ted Brown in Texas, who could swing close races in November.
+FOX 7 Austin (video interview) Third candidate for US Senate October 5, 2026 FOX 7 Austin’s chief political reporter talks with Ted Brown, the third candidate on the ballot in Texas’ U.S.
+Senate race.
+Houston Chronicle (op-ed by Ted Brown) Loathe Paxton but can’t stand Democrats?
+Vote Libertarian.
+October 1, 2026 “For those who say I’m a ‘spoiler,’ let me ask: What am I spoiling?
+You can’t spoil something that is rotten and putrid to begin with.” KLTV 7 (article & video interview) Libertarian Ted Brown launches 2026 Texas Senate bid against Paxton, Talarico September 28, 2026 East Texas station KLTV sits down with Ted Brown about his campaign for limited government, from abolishing the federal income tax and the IRS to legal immigration reform.
 The Washington Times Spoiler alert: Libertarian candidate gives Ken Paxton headaches in Texas’ Senate race September 27, 2026 “A growing number of Republicans are saying they’re going to vote for the Libertarian,” a Texas GOP pollster tells The Washington Times, which finds Ted Brown polling at roughly the same margin that separates Paxton and Talarico.
 Community Impact Q&A: Meet the candidates running to represent Texas in the US Senate August 21, 2026 Community Impact puts the same questions to all three U.S.
 Senate candidates, with Ted Brown laying out his case for personal freedom, ending the tariffs and reining in federal spending.
@@ -316,7 +310,18 @@ Houston Public Media Libertarian Ted Brown courts disaffected conservative voter
 Senate race June 2, 2026 Houston Public Media covers Ted Brown's Libertarian campaign for U.S.
 Senate in Texas and his outreach to disaffected conservative voters.
 Spectrum News Third Parties Continue Fight for Fair Ballot Access January 22, 2020 Coverage of third-party ballot access issues and Ted Brown's campaign efforts in Texas.
-Libertarian Resources Libertarian Party National Libertarian Party website Libertarian Party of Texas Texas state party information Pat Dixon for Governor Campaign site Anthony Cristo for Lt.
+Video Interviews Hide & Speak Your ID or No Internet: Ted Brown on age checks, digital ID and online privacy.
+Focus on the Candidates Ted Brown shares his thoughts on America's 250th birthday with host Cynthia Pooler.
+No Peasants (with other alternative party candidates) Discussion with alternative party candidates — recent live stream.
+Libertarian Party of Texas LPTexas Candidate Interview with Ted Brown.
+Ungovernable Podcast Travis Gearhart is Ungovernable — with Ted Brown, Libertarian candidate for U.S.
+Senate in Texas.
+Liberty Blues Network Liberty Blues Ep.
+128 — Libertarian Ted Brown for Texas Senate.
+The Black Powder Podcast Live podcast appearance.
+Fountainhead Forum Appearance on the Fountainhead Forum.
+Ted Brown Campaign Interview Discussing libertarian principles and campaign platform Policy Discussion In-depth discussion on key policy positions Libertarian Perspective Ted Brown explains the libertarian alternative Campaign Update Latest developments and campaign news Senate Race Discussion Ted Brown on his U.S.
+Senate campaign Liberty Movement Discussion on the broader liberty movement Libertarian Resources Libertarian Party National Libertarian Party website Libertarian Party of Texas Texas state party information Pat Dixon for Governor Campaign site Anthony Cristo for Lt.
 Governor Campaign site Future of Freedom Foundation Educational libertarian content Reason Magazine Free minds and free markets Antiwar.com Non-interventionist news and analysis Institute for Justice Libertarian legal advocacy Cato Institute Libertarian think tank and research Liberty International Global liberty movement Selected Quotes "The truth is that all men having power ought to be mistrusted." – James Madison (1751-1836) "Nationalism is an infantile disease.
 It is the measles of mankind." – Albert Einstein (1879-1955) "The further a society drifts from truth, the more it will hate those who speak it." – George Orwell (1903-1950) "Just because you do not take an interest in politics doesn’t mean politics won’t take an interest in you." – Pericles, 430 B.C.
 "The welfare of the people in particular has always been the alibi of tyrants, and it provides the further advantage of giving the servants of tyranny a good conscience." – Albert Camus (1913-1960) "When the government fears the people, there is liberty.

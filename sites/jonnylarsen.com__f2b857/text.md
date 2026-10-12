@@ -12,5 +12,5 @@ Utah deserves someone who will listen, someone who has not just heard about your
 I need you 🫵!
 Our district is 22,067 square miles.
 Chip in to help me get our message out before the clock runs out!
-Watch our debate on YouTube # Days Left Mail-in Ballots Sent Oct 13th, 2026 # Days Left Early Voting Oct 20th, 2026 # Days Left Register to Vote Oct 23rd, 2026 # Days Left Election Day Nov 3rd, 2026 Support the Commitment Click an option to get started.
+Watch our debate on YouTube # Day Left Mail-in Ballots Sent Oct 13th, 2026 # Days Left Early Voting Oct 20th, 2026 # Days Left Register to Vote Oct 23rd, 2026 # Days Left Election Day Nov 3rd, 2026 Support the Commitment Click an option to get started.
 If you have saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Custom By Mail

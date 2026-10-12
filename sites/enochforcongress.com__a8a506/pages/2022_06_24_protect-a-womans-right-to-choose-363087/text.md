@@ -70,8 +70,7 @@ Contribute Be a part of the movement and participate in building a better future
 Join this historical campaign and stand up for the values that make our country great.
 Make a difference.
 The Campaign is paid for by the Committee to Elect Enoch.
-Donate Volunteer Upcoming Events October Meet & Greet with Dr.
-Vanessa Enoch @ Major Minor Books and Such October 11 @ 3:00 pm - 4:30 pm October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Doc Enoch on Twitter Twitter feed is not available at the moment.
+Donate Volunteer Upcoming Events October Wooster Corridor Democrats Meeting October 14 @ 6:00 pm - 8:00 pm Doc Enoch on Twitter Twitter feed is not available at the moment.
 Home Upcoming Events Blog Shop Contact Facebook Twitter Pinterest Instagram LinkedIn ©# Enoch for Congress.
 All Rights Reserved.
 Volunteer Portal Scroll To Top

@@ -1,4 +1,4 @@
-Home RSVP Campaign Kick Off Donate Vote For Real Action PROTECT TAXPAYERS PROMOTE SMALL BUSINESS GROWTH PROMOTE SMALL BUSINESS GROWTH Texas families deserve relief from rising property taxes.
+Vote! early voting starts October 19-30 / Election Day November 3 Donate Voting locations Vote For Real Action PROTECT TAXPAYERS PROMOTE SMALL BUSINESS GROWTH PROMOTE SMALL BUSINESS GROWTH Texas families deserve relief from rising property taxes.
 I will work with the Governor and all in the Texas House to prevent runaway costs and demand fiscal discipline so the government works for taxpayers, not the other way around.
 PROMOTE SMALL BUSINESS GROWTH PROMOTE SMALL BUSINESS GROWTH PROMOTE SMALL BUSINESS GROWTH Government doesn't create jobs—Texas entrepreneurs do.
 As your State Representative is to ensure they have a competitive environment with lower taxes, reliable infrastructure, and greater access to the capital they need to invest, expand, and create opportunities for hardworking Texans.

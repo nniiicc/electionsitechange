@@ -1,4 +1,5 @@
-Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Open Forum for Voters of HD98: 6-7:30pm, The Vine, 225 W.
+Home About Policy Priorities Donate/Support Events & Blog Cate Brennan for Texas House District 98 Open Forum for Voters of HD98: 6-7:30pm, Oct.
+14; The Vine, 225 W.
 Worth St., Grapevine Putting public schools, family and economic security, and Texas’s future first Not left vs. right | Only right vs. wrong Grapevine, Keller, Southlake, Colleyville, Euless, and Westlake Donate $200 for corner sign Donate $25 for yard sign Who is Cate Brennan?
 Why I'm Running to Be Your State Rep More below...
 Why I'm Running to be Your State Rep “Over my dead body” was my first reaction when I realized HD98 might not have a real choice for state representative in Austin.

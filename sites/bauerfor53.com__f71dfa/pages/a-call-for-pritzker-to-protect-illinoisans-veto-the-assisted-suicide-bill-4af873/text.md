@@ -46,4 +46,4 @@ The bottom line is this: An assisted suicide law is wrong for the state of Illin
 What we need to do instead is ensure that every Illinoisan has the necessary access to palliative care, so that they need not fear that the end stage of their disease will mean suffering and pain.
 And we need greater support for the disabled so that dependency on others for physical care needs is accepted as, not a loss of human dignity, but simply a part of what it means to be human. https://picryl.com/media/hospice-caring-elderly-7bd3d0; public domain/Creative Commons ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
 Illinois needs someone who reads the numbers and does the math before spending your money.
-Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com Website by Bull Moose Strategy

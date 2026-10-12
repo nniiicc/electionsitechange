@@ -16,7 +16,6 @@ I showed up.
 I answered every question.
 The question is: why won’t they?
 Previous PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-You Might Also Like THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) IS NATE A RADICAL COMMUNIST?
-HARDLY LET’S GO THROUGH THE ISSUES.
-WE ARE AT A CROSSROADS IN WESTERN NEW YORK PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
-Volunteer and Sign Up for Updates!
+You Might Also Like THE ECONOMIC BILL OF RIGHTS: WHAT FDR UNDERSTOOD THAT WE FORGOT Why Is Southern Ontario Doing Better Than Western New York?
+WE ARE AT A CROSSROADS IN WESTERN NEW YORK Trump at 32% — So Why Is Everyone Still Afraid?
+The Courage Gap in American Politics North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) Volunteer and Sign Up for Updates!

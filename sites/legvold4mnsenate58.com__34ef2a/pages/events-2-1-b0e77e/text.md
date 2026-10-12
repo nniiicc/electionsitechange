@@ -3,21 +3,6 @@ For those voters who applied for an absentee ballot in advance of September 18, 
 Absentee ballots may be acquired in person beginning on September 18 at one or more locations in each county as listed on the Secretary of State’s website at this link: https://www.sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day/ .
 Absentee ballots can be used to vote in person at those aforementioned locations on the same day that the application is submitted in person beginning on September 18.
 Absentee ballots must be received by election day, even if postmarked prior to election day.
-View Event → Oct 11 Legvold for Minnesota - Northfield Doorknock with State Senate Majority Leader Erin Murphy!
-Sunday, October 11, 2026 1:00 PM 3:00 PM Google Calendar ICS Ready to make a real impact?
-We are hitting the pavement to have those critical face to face conversations that win elections!
-Every door we knock brings us one step closer to our goal, and we need your energy to keep the momentum going.
-On this special doorknock, we will be joined by State Senate Majority Leader Erin Murphy for remarks and conversation!
-Whether you are a seasoned canvassing pro or this is your very first time, we’ll make sure you’re fully prepared.
-We will start the event with a comprehensive training session, go over our talking points, and set you up with a partner if you’d like.
-Event Details What to Bring: Please wear comfortable walking shoes and bring a fully charged cell phone.
-We will be using a mobile app to track our progress!
-What We Provide: Training, literature, snacks, and plenty of team spirit.
-Your voice is the most powerful tool we have.
-Let's get out there, meet our neighbors, and share our vision for the future!
-Visit this Mobilize link to let us know you’re coming and to find out the team’s assembly location: https://www.mobilize.us/mobilize/event/1049421/ .
-Questions?
-Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
 View Event → Oct 13 Legvold for Minnesota - Bridgewater Township Door Knock Tuesday, October 13, 2026 4:30 PM 6:30 PM Google Calendar ICS Ready to make a real impact?
 We are hitting the pavement to have those critical face to face conversations that win elections!
 Every door we knock brings us one step closer to our goal, and we need your energy to keep the momentum going.
@@ -30,6 +15,19 @@ Your voice is the most powerful tool we have.
 Let's get out there, meet our neighbors, and share our vision for the future!
 Head over to this Mobilize page for directions on where to meet and a heads up so we know you’re coming: https://www.mobilize.us/mobilize/event/1049532/ .
 Questions?
+Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
+View Event → Oct 14 Legvold for Minnesota - Rosemount Door Knock!
+Wednesday, October 14, 2026 5:00 PM 7:00 PM Google Calendar ICS Ready to make a real impact?
+We are hitting the pavement to have those critical face to face conversations that win elections!
+Every door we knock brings us one step closer to our goal, and we need your energy to keep the momentum going.
+Whether you are a seasoned canvassing pro or this is your very first time, we’ll make sure you’re fully prepared.
+We will start the event with a comprehensive training session, go over our talking points, and set you up with a partner if you’d like.
+Event Details What to Bring: Please wear comfortable walking shoes and bring a fully charged cell phone.
+We will be using a mobile app to track our progress!
+What We Provide: Training, literature, snacks, and plenty of team spirit.
+Your voice is the most powerful tool we have.
+Let's get out there, meet our neighbors, and share our vision for the future!
+Visit this Mobilize link to let us know you’re coming and to find out where we’ll meet to begin the door knock: https://www.mobilize.us/mobilize/event/1049526/ Questions?
 Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
 View Event → Oct 15 Legvold for Minnesota - Greenvale Township Door Knock Thursday, October 15, 2026 5:00 PM 7:00 PM Google Calendar ICS Ready to make a real impact?
 We are hitting the pavement to have those critical face to face conversations that win elections!
@@ -48,8 +46,57 @@ View Event → Oct 16 to Nov 2 Early Voting in person Fri, Oct 16, 2026 8:00 AM 
 This is more similar to voting in a polling place on Election Day, and starts # days before the election.
 For all statewide elections, every county will have at least one location where early voting is offered.
 You will complete a short certificate You will receive a ballot and vote it there After completing the ballot, you will insert it in a ballot counter Visit this link at the Secretary of State’s website to find out the Early Voting location(s) in each county: https://www.sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day/ .
+View Event → Oct 16 Legvold for Minnesota - Farmington Door Knock with CD2 Congresswoman Angie Craig!
+Friday, October 16, 2026 5:00 PM 7:00 PM Google Calendar ICS Ready to make a real impact?
+We are hitting the pavement to have those critical face to face conversations that win elections!
+Every door we knock brings us one step closer to our goal, and we need your energy to keep the momentum going.
+On this special canvass launch, we will be joined by Congresswoman Angie Craig!
+Whether you are a seasoned canvassing pro or this is your very first time, we’ll make sure you’re fully prepared.
+We will start the event with a comprehensive training session, go over our talking points, and set you up with a partner if you’d like.
+Event Details What to Bring: Please wear comfortable walking shoes and bring a fully charged cell phone.
+We will be using a mobile app to track our progress!
+What We Provide: Training, literature, snacks, and plenty of team spirit.
+Your voice is the most powerful tool we have.
+Let's get out there, meet our neighbors, and share our vision for the future!
+Register at this Mobilize link to find out our meeting place and to let us know you’re coming: https://www.mobilize.us/mobilize/event/1055872/ Questions?
+Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
+View Event → Oct 16 Legvold for Minnesota--phone banking in Northfield Friday, October 16, 2026 5:30 PM 7:30 PM Google Calendar ICS Join us for a phone bank here in Northfield.
+We'll be hopping on the phones together and having real conversations with our neighbors about the issues that matter in our community.
+No need to have any phone banking experience, we will begin with a quick training, have other experienced phone bankers in the room to help, and answer any questions you have.
+Just bring a laptop or tablet and a charged smartphone!
+Did we mention pizza?
+Fortify yourself with a slice while you work!
+View Event → Oct 17 Legvold for Minnesota - Rosemount Door Knock with Senator Erin Maye Quade and Rep.
+Huot!
+Saturday, October 17, 2026 3:30 PM 5:30 PM Google Calendar ICS Ready to make a real impact?
+We are hitting the pavement to have those critical face to face conversations that win elections!
+Every door we knock brings us one step closer to our goal, and we need your energy to keep the momentum going.
+Whether you are a seasoned canvassing pro or this is your very first time, we’ll make sure you’re fully prepared.
+We will start the event with a comprehensive training session, go over our talking points, and set you up with a partner if you’d like.
+Event Details What to Bring: Please wear comfortable walking shoes and bring a fully charged cell phone.
+We will be using a mobile app to track our progress!
+What We Provide: Training, literature, snacks, and plenty of team spirit.
+Your voice is the most powerful tool we have.
+Let's get out there, meet our neighbors, and share our vision for the future!
+Go to this Mobilize link to find out where our rally point is and to let us know you’re coming": https://www.mobilize.us/mobilize/event/1049457/ Questions?
+Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
 View Event → Nov 3 General Election Day Tuesday, November 3, 2026 7:00 AM 8:00 PM Google Calendar ICS General Election Day in Minnesota will take place on Tuesday, November 3, 2026 from 7:00am-8:00pm.
 Find your polling location and a sample ballot on the website of the Minnesota Secretary of State .
+View Event → Oct 11 Legvold for Minnesota - Northfield Doorknock with State Senate Majority Leader Erin Murphy!
+Sunday, October 11, 2026 1:00 PM 3:00 PM Google Calendar ICS Ready to make a real impact?
+We are hitting the pavement to have those critical face to face conversations that win elections!
+Every door we knock brings us one step closer to our goal, and we need your energy to keep the momentum going.
+On this special doorknock, we will be joined by State Senate Majority Leader Erin Murphy for remarks and conversation!
+Whether you are a seasoned canvassing pro or this is your very first time, we’ll make sure you’re fully prepared.
+We will start the event with a comprehensive training session, go over our talking points, and set you up with a partner if you’d like.
+Event Details What to Bring: Please wear comfortable walking shoes and bring a fully charged cell phone.
+We will be using a mobile app to track our progress!
+What We Provide: Training, literature, snacks, and plenty of team spirit.
+Your voice is the most powerful tool we have.
+Let's get out there, meet our neighbors, and share our vision for the future!
+Visit this Mobilize link to let us know you’re coming and to find out the team’s assembly location: https://www.mobilize.us/mobilize/event/1049421/ .
+Questions?
+Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information.
 View Event → Oct 10 Legvold/Fellows Lit Drop in Farmington/Rosemount Saturday, October 10, 2026 9:00 AM 4:00 PM Google Calendar ICS Ed Fellows and Mark Legvold are fantastic candidates.
 They've been working really hard knocking on thousands of doors (really!), showing up at listening sessions and meet-n-greets, having interviews published in local papers . . . but they still need to build their name recognition.
 We want to help with that.
@@ -398,6 +445,4 @@ We will start the event with a comprehensive training session, go over our talki
 Event Details What to Bring: Please wear comfortable walking shoes and bring a fully charged cell phone.
 We will be using a mobile app to track our progress! ‍What We Provide: Training, literature, snacks, and plenty of team spirit. ‍Your voice is the most powerful tool we have.
 Let's get out there, meet our neighbors, and share our vision for the future! ‍Questions?
-Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information. ‍ ‍ View Event → Aug 20 Rural Listening Session Thursday, August 20, 2026 5:45 PM 7:30 PM Lake Byllesby Pavilion (map) Google Calendar ICS Join us on August 20th with friends for a robust discussion and listening session for our SD20 and SD58 Candidates at Lake Byllesby Pavillion - Ice cream social before the Discussion.
-Jason Lohman, Mark Legvold, Ed Fellows and Heather Arndt will all be there.
-View Event → Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ
+Please contact Will Fehrman at willf@senatedflcaucus.org or 312-307-0710 for any questions or additional information. ‍ ‍ View Event → Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

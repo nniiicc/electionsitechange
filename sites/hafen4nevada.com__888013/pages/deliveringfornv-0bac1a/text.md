@@ -8,4 +8,4 @@ AB248 (amended in AB45) - allocates $2.5 million annually for student loan repay
 AB166 - increasing transparency in our elections by allowing political text messages to have an identifier letting the voter know who sent the message.
 AB360 - helps stop the sell of tobacco to underaged users by requiring retailers to validate the purchasers ID in a scanning system.
 Brought legislation to provide and expand School Choice Advocated for our Veterans Donate Today Paid for by Friends of Gregory T.
-Hafen Contact Gregory@hafen4nevada.com 775-209-3006
+Hafen Terms & Conditions and Privacy Policy Contact Gregory@hafen4nevada.com 775-209-3006

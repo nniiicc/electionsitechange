@@ -116,10 +116,6 @@
 "href": "http://maps.google.com?q=tba+morgan+hill%2C+ca+united+states"
 },
 {
-"text": "(map)",
-"href": "http://maps.google.com?q=x+spaces"
-},
-{
 "text": "0",
 "href": "https://www.carolpefleyforassembly.com/cart"
 },
@@ -393,10 +389,6 @@
 },
 {
 "text": "Google Calendar",
-"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Precinct+Activators+Podcast+Featuring+Carol+Pefley&dates=20260724T030000Z%2F20260724T063000Z"
-},
-{
-"text": "Google Calendar",
 "href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Republican+Club+at+The+Villages%3A+Fall+General+Meeting+%26amp%3B+Dinner&dates=20260927T230000Z%2F20260928T020000Z&location=5000+Cribari+Lane%2C+San+Jose%2C+California%2C+95135%2C+United+States"
 },
 {
@@ -545,10 +537,6 @@
 },
 {
 "text": "ICS",
-"href": "https://www.carolpefleyforassembly.com/events/precinct-activators-carol-pefley?format=ical"
-},
-{
-"text": "ICS",
 "href": "https://www.carolpefleyforassembly.com/events/restore-california-proposition-explainer?format=ical"
 },
 {
@@ -638,10 +626,6 @@
 {
 "text": "Pictures",
 "href": "https://www.carolpefleyforassembly.com/pictures"
-},
-{
-"text": "Precinct Activators Podcast Featuring Carol Pefley",
-"href": "https://www.carolpefleyforassembly.com/events/precinct-activators-carol-pefley"
 },
 {
 "text": "Purchase early",
@@ -849,10 +833,6 @@
 },
 {
 "text": "View Event →",
-"href": "https://www.carolpefleyforassembly.com/events/precinct-activators-carol-pefley"
-},
-{
-"text": "View Event →",
 "href": "https://www.carolpefleyforassembly.com/events/restore-california-proposition-explainer"
 },
 {
@@ -988,10 +968,6 @@
 "href": "https://www.carolpefleyforassembly.com/events/meet-christian-candidates-san-jose-oct-11"
 },
 {
-"text": "[image: Precinct Activators Podcast Featuring Carol Pefley]",
-"href": "https://www.carolpefleyforassembly.com/events/precinct-activators-carol-pefley"
-},
-{
 "text": "[image: Republican Club at The Villages: Fall General Meeting &amp; Dinner]",
 "href": "https://www.carolpefleyforassembly.com/events/fall-general-meeting-dinner-september-27-4pm"
 },
@@ -1122,9 +1098,5 @@
 {
 "text": "https://www.willowglen.org/glen-fest",
 "href": "https://www.willowglen.org/glen-fest"
-},
-{
-"text": "https://x.com/i/spaces/1jMKgmjWkonKL",
-"href": "https://x.com/i/spaces/1jMKgmjWkonKL"
 }
 ]

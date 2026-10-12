@@ -11,7 +11,7 @@ You don't need to be an energy expert.
 You are the person paying the bill.
 That matters.
 Public comments for the WPS rate case are open through October 5, 2026.
-Rachael Dowling #ago 4 min read Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
+Rachael Dowling Oct 4 4 min read Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
 So Why Madison?
 I want District 53 to have someone there who approaches those problems the same way I've approached them here at home.
 Not by deciding what the answer is before asking the question.

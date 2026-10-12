@@ -10,8 +10,7 @@ I hope you join me in support of those mutually desirable goals.
 For additional information about myself and the campaign, please feel free to select one of the categories under the menu bar.
 THANK YOU for visiting this site!
 Polls close in...
-November 3, 2026 at 8:00 PM News Are Drone Deliveries Coming To Wallingford And Middlefield?
-AI Protections: CT Goes Farther Than The Feds Remembering...
-Come On Down to Celebrate Wallingford!
-One of Us Fishbein for Connecticut - Jo-Anne L.
+November 3, 2026 at 8:00 PM News EVEN MORE Information About Local Amazon Delivery Drones Connecticut is one of the most taxed states in the country...
+MORE Information About Local Amazon Delivery Drones CT Families Are Taxed Enough Are Drone Deliveries Coming To Wallingford And Middlefield?
+Fishbein for Connecticut - Jo-Anne L.
 Rusczek, Treasurer - Approved by Craig Fishbein Powered by CampaignPartner.com - Political Websites HOME ABOUT LAWN SIGNS LEGISLATION NEWS PHOTOS Privacy Policy Close Menu
